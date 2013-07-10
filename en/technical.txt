@@ -1,0 +1,11 @@
+====== Technical Information ======
+
+Door43 runs on [[https://www.dokuwiki.org|DokuWiki]], which is basically an open-source, web-based, text editor (no database), that provides revision-control and user management. Because of the document-centric nature of the platform, the entire filesystem tree of text (and media) files can be easily exported, converted to other formats, and used offline.
+
+===== User Manual =====
+
+The DokuWiki [[https://www.dokuwiki.org/manual|manual]] has more information about the software.
+
+===== Tracking Changes =====
+
+Tracking changes on the wiki is easily accomplished using DokuWiki's robust [[https://www.dokuwiki.org/rss|feed generator]].

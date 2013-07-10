@@ -1,0 +1,19 @@
+====== Open Bible Stories ======
+~~NOTOC~~
+{{ :en:obs-pic_360p.jpg?nolink&300|http://openbiblestories.com}} **50 key stories of the Bible, from Creation to Revelation, for evangelism & discipleship, in text, audio, and video, on any mobile phone, in any language, for free.**
+
+==== A Free & Open Visual Mini-Bible ====
+
+Open Bible Stories is developed by [[http://distantshoresmedia.org|Distant Shores Media]] and the Door43 world missions community. The illustrations are (c) [[http://www.sweetpublishing.com|Sweet Publishing]] and the entire project—text and illustrations—is made available under a [[http://creativecommons.org/licenses/by-sa/3.0|Creative Commons Attribution-ShareAlike 3.0 Unported License]], please attribute http://openbiblestories.com.
+
+==== How You Can Help ====
+
+Feel free to join the Open Bible Stories translation team and help finish a translation, or start a new one. Here's **[[en:obs:help|how to get started]]** translating Open Bible Stories. //If you prefer, you can [[http://door43.org/_media/en/obs/obs-en.zip|download]] the English source text as a zip archive and begin translating offline, on any computer or mobile device.//
+
+
+{{page>en:obs:active}}
+
+
+==== Stories in English ====
+
+{{page>en:obs:stories}}

@@ -1,0 +1,29 @@
+====== Open Bible Stories How-To ======
+
+Ready to get started translating Open Bible Stories and making it available in audio and video formats? Here's how to get started! //If you have any questions, don't hesitate to ask questions [[http://facebook.com/door43|on Facebook]], [[https://twitter.com/psalm971|on Twitter]], or [[http://distantshoresmedia.org/contact|by email]].//
+
+===== Translating the Stories =====
+
+A basic translation process for Open Bible Stories is explained here. //Note: the recommendations of the [[http://www.forum-intl.org/resources|Forum of Bible Agencies]] is a helpful reference in the translation of any theological text.//
+
+  - **Login to Door43** – [[en:obs:help?do=register|Create a user account]] & [[en:obs:help?do=login|login]] to Door43. 
+  - **Choose Your Language** – Go to the [[en:obs|English version of Open Bible Stories]] and choose your language in the language selector list (at the top of the sidebar). //Note: if your language is not listed or is listed in gray instead of blue font, contact us (see links above) and we can easily set things up for you so you can get started without delay.//
+  - **Translate the Homepage** – After choosing your language, start by translating the Open Bible Stories homepage for your language. Information about how to edit a page is [[en:get-started|here]].
+  - **Translate the Story Titles** – The list of titles for each story in the sidebar and at the end of the homepage for Open Bible Stories are available in a specific page for your language. To edit the titles, scroll to the bottom of the Open Bible Stories homepage in your language and click the button that has your language code in it. For instance, in English (language code: en), the button says "Edit (en:obs:stories)". Only the titles of the links to the stories should be translated.
+  - **First Draft** – Choose a story and start translating the text, simply replacing the English text with the translation in your language. Work your way through all the stories, and invite other people who speak your language to help! Pay attention to these things while translating:
+      - **accuracy** – Be sure to make the translation as accurate to the original text as possible.
+      - **naturalness** – Use grammar and word choices that are natural and clear in your language, not closely following the word order or vocabulary of the source text.
+      - **hearability** – Where possible, your translation should sound like you are telling the story out loud to people, not reading a book. Use the natural storytelling techniques of your own language, since the final goal is audio and video formats of the stories. 
+  - **Second Draft** – Once you have finished the first draft, go through the stories a second time and check that the translation is accurate, the wording is natural, that it sounds right when you say it out loud, and that the spelling is consistent.
+  - **Backtranslation** – If you would like help reviewing your translation from a theological and linguistic perspective, an important step is the backtranslation. In this step, someone who did not participate in the translation of the stories (ideally), translates back into the original language (probably English). //(Example: English text -> translated into Spanish -> backtranslated into English.)// The backtranslation should be done literally, maintaining the word order and grammatical structure of your language, but changing the words to English. //Note: The backtranslation can be done underneath the existing translation or on a separate page.//
+  - **Checking** – Review your translation with other speakers of your language, by reading it aloud to them. Then ask questions about the stories to determine what they understood from the story and if their understanding is accurate to the original text. If not, adjust your translation so that they correctly understand what was communicated in the original text.
+
+Once this is done, then you are ready to begin recording the audio!
+
+===== Recording the Audio =====
+
+//forthcoming...//
+
+===== Creating the Videos =====
+
+//forthcoming...//

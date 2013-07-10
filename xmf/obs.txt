@@ -1,0 +1,6 @@
+====== Open Bible Stories (xmf) ======
+
+Welcome to Open Bible Stories! Please feel free to translate this page and the stories (including the titles) below. If you need help, [[http://distantshoresmedia.org/contact|just ask]]!
+
+{{page>xmf:obs:stories}}
+

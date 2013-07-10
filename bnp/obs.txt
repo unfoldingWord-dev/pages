@@ -1,0 +1,8 @@
+====== Open Bible Stories (bnp) ======
+
+Welcome to Open Bible Stories! Please feel free to translate this page and the stories (including the titles) below. If you need help, [[http://distantshoresmedia.org/contact|just ask]]!
+
+{{page>en:obs:active}}
+
+{{page>bnp:obs:stories}}
+

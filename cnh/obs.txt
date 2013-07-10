@@ -1,0 +1,7 @@
+====== Open Bible Stories (cnh) ======
+
+Welcome to Open Bible Stories! Please feel free to translate this page and the stories (including the titles) below. If you need help, [[http://distantshoresmedia.org/contact|just ask]]!
+
+{{page>cnh:obs:stories}}
+
+{{page>en:obs:active}}

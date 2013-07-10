@@ -1,0 +1,27 @@
+====== Tips & Tricks ======
+
+//Found something that others might find useful? Make a note of it here!//
+
+==== Keyboard Shortcuts ====
+
+  * **Edit** a page – ''Alt-Shift-E''
+  * **Preview** a page (edit window) – ''Alt-Shift-P''
+  * **Save** a page (edit window) – ''Alt-Shift-S''
+
+==== Pasting Content from Word, LibreOffice, or Web Browsers ====
+
+If you have content in a Word document or web page that can legally be included on Door43, use the Graphical Editor (FCK Editor, the default) and look for the "Paste from Word" button on the toolbar. (It looks like a clipboard with a W on it.) 
+
+This button opens up a dialog where you can paste formatted content (with **bold**, //italics//, etc.) and, after clicking "OK", pastes it into the page on Door43 with the formatting. Not perfect, but may help. 
+
+==== Watching Pages ====
+
+Door43 generates RSS feeds of all changes in a given namespace, for instance, this will provide a feed of all changes to every page in English:
+
+''http://door43.org/feed.php?mode=recent&type=atom&view=both&linkto=page&ns=en''
+
+and this will provide the same feed, but for every page in Mandarin:
+
+''http://door43.org/feed.php?mode=recent&type=atom&view=both&linkto=page&ns=zh''
+
+An OPML file for all configured & active languages on Door43 is available [[http://door43.org/_media/d43.opml|here]].

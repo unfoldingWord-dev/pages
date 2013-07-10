@@ -1,0 +1,16 @@
+====== Historias Bíblicas Libres (es) ======
+
+
+**50 historias clave de la Biblia, desde la Creación hasta Apocalipsis, para evangelismo y discipulado, en texto, audio y video, en cualquier teléfono movil, en cualquier lenguaje, totalmente gratis.** 
+
+==== Una Mini-Biblia visual Gratis y Libre ====
+
+
+Historias Bíblicas Libres están desarrolladas por [[http://distantshoresmedia.org|Distant Shores Media]] y la Comunidad Door43 world missions. Las ilustraciones son (c) [[http://www.sweetpublishing.com|Sweet Publishing]] y todo el proyecto, tanto de texto como de ilustraciones están publicados y puestos a su disposicion bajo una licencia [[http://creativecommons.org/licenses/by-sa/3.0|Creative Commons Attribution-ShareAlike 3.0 Unported License]], por favor, haga referencia a http://openbiblestories.com.
+==== Cómo puede ayudar ====
+
+
+Sientase libre de unirse al equipo de traduccion de Historias Bíblicas Libres y ayudar a terminar una traducción o empezar una nueva. Encontrará aquí **[[:en:get-started|como empezar]]** a traducir las Historias Bíblicas Libres. Si lo prefiere, puede //[[http://door43.org/_media/en/obs/obs-en.zip|descargar]] el texto fuente en Inglés como un archivo zip y empezar la traducción offline, en cualquier ordenador o dispositivo movil.// 
+
+
+{{page>es:obs:stories}}

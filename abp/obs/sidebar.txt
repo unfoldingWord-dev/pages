@@ -1,0 +1,7 @@
+
+----
+
+**[[abp:obs|Open Bible Stories]]**
+
+{{page>abp:obs:stories}}
+

@@ -1,0 +1,13 @@
+====== Open Bible Stories (fa) ======
+
+
+Welcome to Open Bible Stories! Please feel free to translate this page and the stories (including the titles) below. More information on how to get started using Door43 is [[:en:get-started|here]], and useful information may also be found [[:en:tips-tricks|here]]. If you need help, [[http://distantshoresmedia.org/contact|just ask]]!
+
+
+{{page>fa:obs:stories}}
+
+
+{{page>en:obs:active}}
+
+
+=====  =====

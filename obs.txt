@@ -1,0 +1,4 @@
+====== Open Bible Stories ($id) ======
+
+{{page>$id:obs:stories}}
+

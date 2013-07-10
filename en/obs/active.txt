@@ -1,0 +1,20 @@
+==== Translations ====
+
+  * [[abp:obs|Ayta Abellen]] – //in progress//
+  * [[blx:obs|Ayta Mag-Indi]] – //preparing//
+  * [[bnp:obs|Bola]] – //preparing//
+  * [[cnh:obs|Chin, Haka]] – **first draft complete**
+  * [[en:obs|English]] – **complete**
+  * [[es:obs|Español]] – **first draft complete**
+  * [[fa:obs|فارسی]] - //in progress//
+  * [[fr:obs|Français]] – //in progress//
+  * [[hi:obs|हिन्दी, हिंदी]] – //preparing//
+  * [[id:obs|Bahasa Indonesia]] – //in progress//
+  * [[ilo:obs|Ilokano]] – //in progress//
+  * [[nl:obs|Nederlands]] – //in progress//
+  * [[pt-br:obs|Português do Brasil]] – //in progress//
+  * [[ru:obs|Русский]] – //preparing//
+  * [[sw:obs|Kiswahili]] – //in progress//
+  * [[th:obs|ไทย]] – //preparing//
+  * [[xmf:obs|მარგალური]] – //in progress//
+  * [[zh:obs|中文]] - //in progress//
