@@ -10,21 +10,9 @@ These are the projects under development (or hoped for) to help improve & extend
 
 ==== USFMTag ====
 
-**Abstract**: //The Internet can greatly speed up the process of enabling many contributors to create quality translations of the Bible without needing to be in the same room (or even the same country) to do so. Door43 needs an extension created that enables translators to write a plain-text Bible translation format (known as [[http://paratext.org/about/usfm|USFM]] – "Unified Standard Format Markers"), but render the text format as HTML5 for display in (mobile) browsers.//
-
-We already have a functional, custom-written extension for MediaWiki (called USFMtag) that does this (see examples of the [[http://id.door43.org/w/index.php?title=TSI:Kolose_1&action=edit|text-view]] and the [[http://id.door43.org/w/index.php?title=TSI:Kolose_1|rendered view]]). **We need this extension ported from MediaWiki to DokuWiki** to provide the same functionality on the new Door43. 
-
-The USFMtag extension is open-source and the original developer does not have time to port it, but is available by email for answering questions, etc. The bulk of the conversion work is already contained in the extension, but it would need to be wrapped in the DokuWiki-specific plugin parameters, and configured as a new input type that operates only on files with the ".usfm" extension. (Note that this approach works well, and has been used with the [[https://github.com/naokij/dokuwiki-plugin-markdownextra/|DokuWiki Markdown plugin]])
-
-We have a Bible translation team actively using the old Door43 and they would like to switch to the new one (especially as we need to close down the old Door43), but cannot do so without this plugin being developed. We also have other translators ready to start a new translation project, but we have had to postpone their projects for need of this plugin. With this plugin working on DokuWiki, translators will be able to copy-and-paste their translations into Door43 and work together from anywhere in the world.((The files could also be mass-uploaded to the filesystem in USFM format to instantly publish the translation digitally, and in a format that is useful for mobile browsers.))
+USFM is an easy way to mark a plain-text file as a translation of the Bible (example: ''\v1 This is the first verse'', ''\v2 this is the second verse''). The **[[en:dev:usfmtag|USFMTag]]** project enables Bible translations that are marked up with this simple formatting to automatically display as beautiful web pages in Door43. More [[en:dev:usfmtag|here]].
 
 
+==== Open Bible Stories, the App ====
 
-
-==== Feed Generator ====
-
-
-
-
-
-==== Mobile Apps ====
+//coming soon...//
