@@ -2,17 +2,11 @@
 
 These are the projects under development (or hoped for) to help improve & extend Door43.
 
-===== Projects =====
-
-  * **[[en:dev#USFMTag|USFMTag]]** – //Bible translation on Door43.//
-  * **[[en:dev#Feed Generator|Feed Generator]]** – //Automatic generation of OPML feeds for all Door43 languages and projects.//
-  * **[[en:dev#Mobile Apps|Mobile Apps]]** – //A family of offline-optimized mobile applications for creating & consuming content on Door43.//
-
 ==== USFMTag ====
 
-USFM is an easy way to mark a plain-text file as a translation of the Bible (example: ''\v1 This is the first verse'', ''\v2 this is the second verse''). The **[[en:dev:usfmtag|USFMTag]]** project enables Bible translations that are marked up with this simple formatting to automatically display as beautiful web pages in Door43. More [[en:dev:usfmtag|here]].
+USFM is an easy way to mark a plain-text file as a translation of the Bible (example: ''\v1 This is the first verse'', ''\v2 this is the second verse''). The **[[en:dev:usfmtag|USFMTag]]** project enables Bible translations that are marked up with this simple formatting to automatically display as beautiful web pages in Door43. More **[[en:dev:usfmtag|here]]**.
 
 
 ==== Open Bible Stories, the App ====
 
-//coming soon...//
+Open Bible Stories wants to be a picture flipboard with the text of each segment overlayed over the picture and all of it wrapped in a mobile app. We have a proof-of-concept Android app that can be used as a starting point. More on this project **[[en:dev:obs-app|here]]**.
