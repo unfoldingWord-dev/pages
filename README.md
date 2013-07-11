@@ -1,4 +1,4 @@
-pages
-=====
+Door43 Pages
+============
 
-The raw text files from http://door43.org
+The plain (Dokuwiki) text files from http://door43.org.
