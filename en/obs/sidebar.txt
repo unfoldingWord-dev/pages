@@ -4,3 +4,5 @@
 **[[en:obs|Open Bible Stories]]**
 
 {{page>en:obs:stories}}
+
+~~NOCACHE~~

@@ -5,3 +5,4 @@
 
 {{page>fa:obs:stories}}
 
+~~NOCACHE~~
