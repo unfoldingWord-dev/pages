@@ -16,4 +16,4 @@ USFM is an easy way to mark a plain-text file as a translation of the Bible (exa
 ==== Other Projects ====
 
   * Open Bible Stories video render system – currently in development by [[http://missionaldigerati.org|Missional Digerati]].
-  * Door43 Content Export System – a render engine that converts content in Door43 into various formats for offline use, e.g. PDF, EPUB, DOC, HTML, Mobile apps, etc.
+  * Door43 Content Export Utilities – a set of profiles and scripts that function as a "render engine" to convert content in Door43 into various formats for offline use, e.g. PDF, EPUB, DOC, HTML, Mobile apps, etc.
