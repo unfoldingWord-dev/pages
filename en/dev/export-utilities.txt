@@ -6,6 +6,35 @@
 
 Door43 is a Dokuwiki server, which does not use a database but is instead comprised of plain text files that are minimally marked up with the Dokuwiki syntax (very similar to Markdown) and organized on the server's filesystem. This filesystem and all the text files are automatically pushed to a Git repository on Github called **[[https://github.com/Door43/pages|Door43 Pages]]**. This repository is identical to what is on the server and can be used for offline processing of Door43 content.
 
+<ditaa round noedgesep center>
+
+                  +---------+       +---------+
+                  |         |       |         |
+                  | Door43  |------>| Door43  |
+                  | Media   |       | Media   |
+               +->| cAC0    |       | (Git)   |
+               |  |      {s}|       | c27B {s}|
+               |  +---------+       +---------+
+               |
+               |                    +---------+
+ +----------+  |                    |         |
+ |          |  |         Export     | Door43  |
+ |  Door43  +--+       +----------->| Exports |
+ |  Users   |  |       |Utilities   | (Git)   |
+ |          |  |       |            | c27B {s}|
+ +----------+  |       |            +---------+
+               |       |
+               |  +---------+       +---------+
+               |  |         |       |         |
+               |  | Door43  |       | Door43  |
+               +->| Content |------>| Pages   |
+                  | (.txt)  |       | (Git)   |
+                  | cAC0 {s}|       | c27B {s}|
+                  +---------+       +---------+
+
+</ditaa>
+
+
 ===== Objective =====
 
 The **Export Utilities** project is intended to accomplish one thing: **Present all Door43 content in multiple formats**. Specifically:
