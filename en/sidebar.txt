@@ -21,4 +21,5 @@
 **Door43 Development**
 
   * [[en:dev|Development Overview]]
+  * [[en:dev:obs-app|Open Bible Stories App]]
   * [[en:dev:usfmtag|USFMTag]]
