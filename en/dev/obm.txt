@@ -1,4 +1,4 @@
-====== Open Bible Maps ======
+====== Map Creator (for Open Bible Maps) ======
 
 //What if you had no concept of where Israel is, or Rome, or Egypt, or Galilee, or any of the other places mentioned in the Bible? Imagine how difficult it would be to accurately understand the Bible and the history of Israel. **Open Bible Maps** makes it possible to rapidly translate high-quality maps of the Bible in any language.//
 
@@ -18,25 +18,26 @@ Here's how it works:
 
 <ditaa round noedgesep center>
 
-              +---------+          +---------+
-              |         |          |         |
-              | Bible   | exported | JPG     |
-              | Map     +--------->| image   |
-              | created |          |         |
-              |         |          |      {d}|
-              +---------+          +----+----+               +---------+
-                                        |                    |         |
-                                        |imported &          | Door43  |
-                                        |embedded            | page w/ |
-                                        |              +---->| place   |
-                                        v              |     | names   |
-              +---------+          +---------+         |     | cAC0 {d}|
-              |         |          |         |         |     +---------+
-              | Place   | added    | SVG     | extract |
-              | names   +--------->| image   +---------+
-              | with    |          |         | & upload
-              | Strong's|          | c27B {d}|
-              +---------+          +---------+
+
++---------+          +---------+
+|         |          |         |
+| Bible   | exported | JPG     |
+| Map     +--------->| image   |
+| created |          |         |
+|         |          |      {d}|
++---------+          +----+----+               +---------+
+                          |                    |         |
+                          |imported &          | Door43  |
+                          |embedded            | page w/ |
+                          |              +---->| place   |
+                          v              |     | names   |
++---------+          +---------+         |     | cAC0 {d}|
+|         |          |         |         |     +---------+
+| Place   | added    | SVG     | extract |
+| names   +--------->| image   +---------+
+| with    |          |         | & upload
+| Strong's|          | c27B {d}|
++---------+          +---------+
               
 </ditaa>
 
@@ -58,3 +59,29 @@ The script runs periodically and looks for new (or updated) translations of maps
   - Using [[wp>ImageMagick]], the SVG file with the translated placenames is converted to JPG.
   - The JPG is also written to the corresponding "media" subdirectory of Door43.
   - Using Dokuwiki syntax, the rendered JPG is inserted into the Door43 page for the specified language and map, so that people who visit that page on Door43 see the completed map.
+
+
+<ditaa round noedgesep center>
+
+
++---------+            +---------+
+|         |            |         |
+| Door43  | translates | Door43  |<----------------------------+
+| User    +----------->| page w/ |                             |
+|         |            | place   |                             |
+|         |       +----+ names   +----+                        |
++---------+       |    | cAC0 {d}|    |                        |inserts
+                  |    +---------+    |renders                 |into
+             uses |                   |                        |
+          page as |                   v                        |
+       dictionary |              +------------+          +-----+------+
+                  |              |            |          |            |
+            +-----+----+         | Translated | converts | Translated |
+            |          |         | SVG        +--------->| JPG        +
+            | Map      |         | image      |          | image      |
+            | Creator  |         | c27B {d}   |          | c49D {d}   |
+            | Script   |         +------------+          +------------+
+            | cCCC {io}|
+            +----------+
+
+</ditaa>

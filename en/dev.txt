@@ -25,6 +25,12 @@ These are the projects under development (or hoped for) to help improve & extend
   * Project: **[[en:dev:tools|Tools]]**
   * Source: **https://github.com/Door43/tools**
 
+===== Map Creator (for Open Bible Maps) =====
+
+//What if you had no concept of where Israel is, or Rome, or Egypt, or Galilee, or any of the other places mentioned in the Bible? Imagine how difficult it would be to accurately understand the Bible and the history of Israel. **Open Bible Maps** makes it possible to rapidly translate high-quality maps of the Bible in any language.//
+
+  * Project: **[[en:dev:obm|Map Creator (for Open Bible Maps)]]**
+
 
 ===== Other Projects =====
 
