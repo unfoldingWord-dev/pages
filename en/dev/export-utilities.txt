@@ -1,6 +1,6 @@
 ====== Export Utilities ======
 
-//An extensible set of utilities that process, convert, transform, and render the Door43 content in various formats for use offline and in other contexts (e.g. mobile apps).//
+//An extensible set of utilities that process, convert, transform, and render the Door43 content in various formats for use offline and in other contexts (e.g. mobile apps). The Export Utilities are on Github: **[[https://github.com/Door43/tools]]**.//
 
 ===== Overview =====
 
@@ -8,29 +8,46 @@ Door43 is a Dokuwiki server, which does not use a database but is instead compri
 
 <ditaa round noedgesep center>
 
-                  +---------+       +---------+
-                  |         |       |         |
-                  | Door43  |------>| Door43  |
-                  | Media   |       | Media   |
-               +->| cAC0    |       | (Git)   |
-               |  |      {s}|       | c27B {s}|
-               |  +---------+       +---------+
-               |
-               |                    +---------+
- +----------+  |                    |         |
- |          |  |         Export     | Door43  |
- |  Door43  +--+       +----------->| Exports |
- |  Users   |  |       |Utilities   | (Git)   |
- |          |  |       |            | c27B {s}|
- +----------+  |       |            +---------+
-               |       |
-               |  +---------+       +---------+
-               |  |         |       |         |
-               |  | Door43  |       | Door43  |
-               +->| Pages   |------>| Pages   |
-                  | (.txt)  |       | (Git)   |
-                  | cAC0 {s}|       | c27B {s}|
-                  +---------+       +---------+
+                                                   +---------+
+                                               +-->| MP4  {d}|
+                                               |   +---------+
+                                               |
+                                               |   +---------+
+                                               +-->| MP3  {d}|
+                                               |   +---------+
+                                               |
+                 +---------+      +---------+  |   +---------+
+                 |         |      |         |  +-->| AMR  {d}|
+                 | Door43  |      | Door43  |  |   +---------+
+                 | Media   +----->| Media   +--+
+              +->| cAC0    |      | (Git)   |  |   +---------+
++----------+  |  |      {s}|      | c27B {s}|  +-->| 3GP  {d}|
+|          |  |  +---------+      +---------+      +---------+
+|  Door43  |  |
+|  Users   +--+
+|          |  |  +---------+      +---------+
+|          |  |  |         |      |         |
++----------+  |  | Door43  |      | Door43  |      +---------+
+              +->| Pages   +----->| Pages   +----->| TXT  {d}|
+                 | (.txt)  |      | (Git)   |      +---------+
+                 | cAC0 {s}|      | c27B {s}|
+                 +----+----+      +---------+
+                      |
+                      |           +---------+      +---------+
+                      |           |         |  +-->| PDF  {d}|
+                      | Export    | Door43  |  |   +---------+
+                      +---------->| Exports +--+
+                       Utilities  | (Git)   |  |   +---------+
+                                  | c27B {s}|  +-->| EPUB {d}|
+                                  +---------+  |   +---------+
+                                               |
+                                               |   +---------+
+                                               +-->| DOC  {d}|
+                                               |   +---------+
+                                               |
+                                               |   +---------+
+                                               +-->| HTML {d}|
+                                                   +---------+
 
 </ditaa>
 
@@ -41,7 +58,9 @@ The **Export Utilities** project is intended to accomplish one thing: **Present 
 
   * **Multiplexing Content** – The goal is to have Door43 content available in parallel in many different formats. The export utilities automatically process the text files and make them available in other formats as well. These exports are automatically pushed to another Git repository called **[[https://github.com/Door43/exports|Door43 Exports]]**
   * **Automatic** – The export utilities are scripts that run directly on the text files on the http://door43.org filesystem (read-only), and process them according to the render profiles (see next point). The scripts run as cron jobs on the server, converting the plain text files into other formats and putting the exported files into the "Door43 Exports" Git repository.
-  * **Render Profiles** – 
+  * **Render Profiles** – The various formats desired for export are contained in various "profiles". A profile is comprised of a script that processes a desired project in a desired manner. For instance, the //[[en:obs|Open Bible Stories Project]]// may have a render profile that converts each story in each language into a standalone PDF, formatted for printing on A4 paper. Another render profile might convert all the stories in each language into an EPUB file.
 
 
 ===== Implementation =====
+
+Whatever utilities are needed to convert the text files into various formats should be available on the Door43 server (Centos 6). Suggestions of tools to use: Ruby, shell scripts, and the amazing [[http://johnmacfarlane.net/pandoc/|Pandoc]].
