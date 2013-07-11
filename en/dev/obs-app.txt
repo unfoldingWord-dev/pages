@@ -1,6 +1,9 @@
 ====== Open Bible Stories, The App ======
 
-**[[https://github.com/dsmedia/OBS-Mobile|This]]** is the source code for the Android pre-alpha app, built using [[http://phonegap.com|PhoneGap]].
+//**[[https://github.com/dsmedia/OBS-Mobile]]**//
+
+//Open Bible Stories wants to be a picture flipboard with the text of each segment overlayed over the picture and all of it wrapped in a mobile app. We have a proof-of-concept Android app, built using [[http://phonegap.com|PhoneGap]], that can be used as a starting point.//
+
 
 The app needs to:
 
@@ -9,4 +12,3 @@ The app needs to:
   * enable a user to download the images for each story and store them locally
   * enable a user to download new and updated translations of the stories in any language available on Door43
   * flip the "pages" of the story from side to side, with each page a fullscreen image, landscape orientation
-

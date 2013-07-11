@@ -2,7 +2,7 @@
 
 //**[[https://github.com/Door43/tools]]**//
 
-//An extensible set of utilities that process, convert, transform, and render the Door43 content in various formats for use offline and in other contexts (e.g. mobile apps).//
+//Door43 Tools are an extensible set of profiles and utilities (e.g. scripts) that function as a "render engine" to convert and export content in Door43 into various formats for offline use, e.g. PDF, EPUB, DOC, HTML, Mobile apps, etc.//
 
 ===== Overview =====
 

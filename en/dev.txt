@@ -3,20 +3,29 @@
 These are the projects under development (or hoped for) to help improve & extend Door43.
 
 
-==== Open Bible Stories, the App ====
+===== Open Bible Stories, the App =====
 
-Open Bible Stories wants to be a picture flipboard with the text of each segment overlayed over the picture and all of it wrapped in a mobile app. We have a proof-of-concept Android app that can be used as a starting point. More on this project **[[en:dev:obs-app|here]]**.
+//Open Bible Stories wants to be a picture flipboard with the text of each segment overlayed over the picture and all of it wrapped in a mobile app. We have a proof-of-concept Android app that can be used as a starting point.//
 
-
-==== USFMTag ====
-
-USFM is an easy way to mark a plain-text file as a translation of the Bible (example: ''\v1 This is the first verse'', ''\v2 this is the second verse''). The **[[en:dev:usfmtag|USFMTag]]** project enables Bible translations that are marked up with this simple formatting to automatically display as beautiful web pages in Door43. More **[[en:dev:usfmtag|here]]**.
-
-==== Tools (Export Utilities) ====
-
-Door43 Tools are a set of profiles and scripts that function as a "render engine" to convert and export content in Door43 into various formats for offline use, e.g. PDF, EPUB, DOC, HTML, Mobile apps, etc. More **[[en:dev:tools|here]]**.
+  * **[[en:dev:obs-app|Project]]**
+  * **[[https://github.com/dsmedia/OBS-Mobile|Source]]**
 
 
-==== Other Projects ====
+===== USFMTag =====
+
+//USFM is an easy way to mark a plain-text file as a translation of the Bible (example: ''\v1 This is the first verse'', ''\v2 this is the second verse''). The USFMTag project enables Bible translations that are marked up with this simple formatting to automatically display as beautiful web pages in Door43.//
+
+  * **[[en:dev:usfmtag|Project]]**
+  * **[[https://github.com/Door43/Dokuwiki-USFMTag|Source]]**
+
+===== Tools (Export Utilities) =====
+
+//Door43 Tools are a set of profiles and scripts that function as a "render engine" to convert and export content in Door43 into various formats for offline use, e.g. PDF, EPUB, DOC, HTML, Mobile apps, etc.//
+
+  * **[[en:dev:tools|Project]]**
+  * **[[https://github.com/Door43/tools|Source]]**
+
+
+===== Other Projects =====
 
   * Open Bible Stories video render system – currently in development by [[http://missionaldigerati.org|Missional Digerati]].
