@@ -27,7 +27,7 @@ Door43 is a Dokuwiki server, which does not use a database but is instead compri
                |  +---------+       +---------+
                |  |         |       |         |
                |  | Door43  |       | Door43  |
-               +->| Content |------>| Pages   |
+               +->| Pages   |------>| Pages   |
                   | (.txt)  |       | (Git)   |
                   | cAC0 {s}|       | c27B {s}|
                   +---------+       +---------+
