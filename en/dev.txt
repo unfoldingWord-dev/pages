@@ -12,8 +12,11 @@ Open Bible Stories wants to be a picture flipboard with the text of each segment
 
 USFM is an easy way to mark a plain-text file as a translation of the Bible (example: ''\v1 This is the first verse'', ''\v2 this is the second verse''). The **[[en:dev:usfmtag|USFMTag]]** project enables Bible translations that are marked up with this simple formatting to automatically display as beautiful web pages in Door43. More **[[en:dev:usfmtag|here]]**.
 
+==== Export Utilities ====
+
+Door43 Content Export Utilities – a set of profiles and scripts that function as a "render engine" to convert content in Door43 into various formats for offline use, e.g. PDF, EPUB, DOC, HTML, Mobile apps, etc. More **[[en:dev:export-utilities|here]]**.
+
 
 ==== Other Projects ====
 
   * Open Bible Stories video render system – currently in development by [[http://missionaldigerati.org|Missional Digerati]].
-  * Door43 Content Export Utilities – a set of profiles and scripts that function as a "render engine" to convert content in Door43 into various formats for offline use, e.g. PDF, EPUB, DOC, HTML, Mobile apps, etc.
