@@ -15,6 +15,31 @@ Here's how it works:
   - The text file is put into Door43, under the Open Bible Maps section, where it can be translated.
   - The translated text file forms the "dictionary" that can be used to automatically used by the "map-creator" script to translate the SVG file into any language.
 
+
+<ditaa round noedgesep center>
+
+              +---------+          +---------+
+              |         |          |         |
+              | Bible   | exported | JPG     |
+              | Map     +--------->| image   |
+              | created |          |         |
+              |         |          |      {d}|
+              +---------+          +----+----+               +---------+
+                                        |                    |         |
+                                        |imported &          | Door43  |
+                                        |embedded            | page w/ |
+                                        |              +---->| place   |
+                                        v              |     | names   |
+              +---------+          +---------+         |     | cAC0 {d}|
+              |         |          |         |         |     +---------+
+              | Place   | added    | SVG     | extract |
+              | names   +--------->| image   +---------+
+              | with    |          |         | & upload
+              | Strong's|          | c27B {d}|
+              +---------+          +---------+
+              
+</ditaa>
+
 ===== Translating the Base Maps =====
 
 Once the basemap is created and the textfile made available for translation on Door43, here's what happens:
@@ -33,4 +58,3 @@ The script runs periodically and looks for new (or updated) translations of maps
   - Using [[wp>ImageMagick]], the SVG file with the translated placenames is converted to JPG.
   - The JPG is also written to the corresponding "media" subdirectory of Door43.
   - Using Dokuwiki syntax, the rendered JPG is inserted into the Door43 page for the specified language and map, so that people who visit that page on Door43 see the completed map.
-
