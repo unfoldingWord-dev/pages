@@ -5,12 +5,12 @@ These are the projects under development (or hoped for) to help improve & extend
 
 ===== Open Bible Stories, the App =====
 
-//Open Bible Stories wants to be a picture flipboard with the text of each segment overlayed over the picture and all of it wrapped in a mobile app. We have a proof-of-concept Android app, built using [[http://phonegap.com|PhoneGap]], that can be used as a starting point.//
+//Open Bible Stories wants to be a picture flipboard with the text of each segment overlayed over the picture and all of it wrapped in a mobile app. We have a proof-of-concept Android app, built using [[http://phonegap.com|PhoneGap]], that can be used as a starting point. We are also developing native applications for Android and iOS.//
 
   * Project: **[[en:dev:obs-app|Open Bible Stories App]]**
-  * Source: **https://github.com/dsmedia/OBS-Mobile**
-
-
+  * Source: **https://github.com/dsmedia/OBS-Mobile** (Phonegap)
+  * Source: **https://github.com/dsmedia/OBS-Android** (Native Android)
+  * Source: **https://github.com/dsmedia/OBS-iOS** (Native iOS)
 ===== USFMTag =====
 
 //USFM is an easy way to mark a plain-text file as a translation of the Bible (example: ''\v1 This is the first verse'', ''\v2 this is the second verse''). The USFMTag project enables Bible translations that are marked up with this simple formatting to automatically display as beautiful web pages in Door43.//
@@ -29,7 +29,7 @@ These are the projects under development (or hoped for) to help improve & extend
 
 //What if you had no concept of where Israel is, or Rome, or Egypt, or Galilee, or any of the other places mentioned in the Bible? Imagine how difficult it would be to accurately understand the Bible and the history of Israel. **Open Bible Maps** makes it possible to rapidly translate high-quality maps of the Bible in any language.//
 
-  * Project: **[[en:dev:obm|Map Creator (for Open Bible Maps)]]**
+  * Project: **[[en:dev:map-creator|Map Creator (for Open Bible Maps)]]**
 
 
 ===== Other Projects =====

@@ -24,6 +24,6 @@
   * [[en:dev:obs-app|Open Bible Stories App]]
   * [[en:dev:usfmtag|USFMTag]]
   * [[en:dev:tools|Tools (Export Utilities)]]
-  * [[en:dev:obm|Map Creator]]
+  * [[en:dev:map-creator|Map Creator]]
 
 ~~NOCACHE~~

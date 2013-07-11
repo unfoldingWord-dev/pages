@@ -1,0 +1,87 @@
+====== Map Creator (for Open Bible Maps) ======
+
+//What if you had no concept of where Israel is, or Rome, or Egypt, or Galilee, or any of the other places mentioned in the Bible? Imagine how difficult it would be to accurately understand the Bible and the history of Israel. **Open Bible Maps** makes it possible to rapidly translate high-quality maps of the Bible in any language.//
+
+Here's how it works:
+
+===== Creating the Base Maps =====
+
+  - A map of the Bible is created in a Bible mapping computer program.
+  - The map is exported as a JPG basemap (no labels).
+  - The JPG is imported (and embedded) in a [[wp>Scalable_Vector_Graphics|SVG]] vector file.
+  - The placenames are added as text layers in the SVG file.
+  - Each placename is given an "id" that correlates to the [[wp>Strong's_Concordance|Strong's]] number for that place.
+  - The placenames in the SVG file are extracted and put into a simple text file, with the Strong's number and English (or other) translation of each placename.
+  - The text file is put into Door43, under the Open Bible Maps section, where it can be translated.
+  - The translated text file forms the "dictionary" that can be used to automatically used by the "map-creator" script to translate the SVG file into any language.
+
+
+<ditaa round noedgesep center>
+
+
++---------+          +---------+
+|         |          |         |
+| Bible   | exported | JPG     |
+| Map     +--------->| image   |
+| created |          |         |
+|         |          |      {d}|
++---------+          +----+----+               +---------+
+                          |                    |         |
+                          |imported &          | Door43  |
+                          |embedded            | page w/ |
+                          |              +---->| place   |
+                          v              |     | names   |
++---------+          +---------+         |     | cAC0 {d}|
+|         |          |         |         |     +---------+
+| Place   | added    | SVG     | extract |
+| names   +--------->| image   +---------+
+| with    |          |         | & upload
+| Strong's|          | c27B {d}|
++---------+          +---------+
+              
+</ditaa>
+
+===== Translating the Base Maps =====
+
+Once the basemap is created and the textfile made available for translation on Door43, here's what happens:
+
+  - A user logs into Door43 and translates the placenames into their language
+  - A **Map Creator** script (set to run periodically on the server) notes the new translation and begins processing the map. When completed, the translated map is automatically embedded into the Door43 page with the translated place names.
+  - That's it! The map can be downloaded or used anywhere, as needed by the speakers of that language.
+
+==== The Map Creator script ====
+
+The script runs periodically and looks for new (or updated) translations of maps. When a new/updated map translation file is discovered, it processes it:
+
+  - The translated map file "dictionary" is used as a reference.
+  - The script executes a simple "find-and-replace" on the SVG file((Note: SVG is actually a form of XML, so text-processing libraries are available in a number of programming langauges)), replacing the text string with the specified Strong's ID with the translation of that string in the target language.
+  - Once the placenames in the SVG file have been translated, the SVG file is written to the filesystem (in the corresponding directory of the "media" subdirectory in Door43.
+  - Using [[wp>ImageMagick]], the SVG file with the translated placenames is converted to JPG.
+  - The JPG is also written to the corresponding "media" subdirectory of Door43.
+  - Using Dokuwiki syntax, the rendered JPG is inserted into the Door43 page for the specified language and map, so that people who visit that page on Door43 see the completed map.
+
+
+<ditaa round noedgesep center>
+
+
++---------+            +---------+
+|         |            |         |
+| Door43  | translates | Door43  |<----------------------------+
+| User    +----------->| page w/ |                             |
+|         |            | place   |                             |
+|         |       +----+ names   +----+                        |
++---------+       |    | cAC0 {d}|    |                        |inserts
+                  |    +---------+    |renders                 |into
+             uses |                   |                        |
+          page as |                   v                        |
+       dictionary |              +------------+          +-----+------+
+                  |              |            |          |            |
+            +-----+----+         | Translated | converts | Translated |
+            |          |         | SVG        +--------->| JPG        +
+            | Map      |         | image      |          | image      |
+            | Creator  |         | c27B {d}   |          | c49D {d}   |
+            | Script   |         +------------+          +------------+
+            | cCCC {io}|
+            +----------+
+
+</ditaa>

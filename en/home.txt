@@ -18,6 +18,10 @@ These are the resources currently available for translation and use:
     * **[[:en:tips-tricks|Tips & Tricks]]** – Shortcuts & ways to improve efficiency. 
     * **[[:en:technical|Technical Details]]** – The technology behind Door43.
 
+==== Extending Door43 ====
+
+Door43 is in active development, as we expand the usefulness of the content by developing ways of making it available in more formats and on more mobile devices. Find out how you can help with **[[en:dev|Door43 Development]]**.
+
 ----
 
 //"Pray… that God may open to us a **door**  for the Word." —Colossians **4**:**3** //

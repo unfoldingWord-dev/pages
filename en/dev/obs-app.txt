@@ -1,6 +1,8 @@
 ====== Open Bible Stories, The App ======
 
-//**[[https://github.com/dsmedia/OBS-Mobile]]**//
+//**[[https://github.com/dsmedia/OBS-Mobile]]**// \\
+//**[[https://github.com/dsmedia/OBS-Android]]**// \\
+//**[[https://github.com/dsmedia/OBS-iOS]]**//
 
 //Open Bible Stories wants to be a picture flipboard with the text of each segment overlayed over the picture and all of it wrapped in a mobile app. We have a proof-of-concept Android app, built using [[http://phonegap.com|PhoneGap]], that can be used as a starting point.//
 
