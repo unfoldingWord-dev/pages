@@ -10,4 +10,9 @@ Door43 is a Dokuwiki server, which does not use a database but is instead compri
 
 The **Export Utilities** project is intended to accomplish one thing: **Present all Door43 content in multiple formats**. Specifically:
 
-  * **Multiplexing Content** – In addition to the plain text files available in the [[https://github.com/Door43/pages|Door43 Pages]], these export utilities automatically process the text files and make them available in other formats as well. These exports are automatically pushed to another Git repository called **[[https://github.com/Door43/exports|Door43 Exports]]**
+  * **Multiplexing Content** – The goal is to have Door43 content available in parallel in many different formats. The export utilities automatically process the text files and make them available in other formats as well. These exports are automatically pushed to another Git repository called **[[https://github.com/Door43/exports|Door43 Exports]]**
+  * **Automatic** – The export utilities are scripts that run directly on the text files on the http://door43.org filesystem (read-only), and process them according to the render profiles (see next point). The scripts run as cron jobs on the server, converting the plain text files into other formats and putting the exported files into the "Door43 Exports" Git repository.
+  * **Render Profiles** – 
+
+
+===== Implementation =====
