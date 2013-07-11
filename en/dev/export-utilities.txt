@@ -2,3 +2,12 @@
 
 //An extensible set of utilities that process, convert, transform, and render the Door43 content in various formats for use offline and in other contexts (e.g. mobile apps).//
 
+===== Overview =====
+
+Door43 is a Dokuwiki server, which does not use a database but is instead comprised of plain text files that are minimally marked up with the Dokuwiki syntax (very similar to Markdown) and organized on the server's filesystem. This filesystem and all the text files are automatically pushed to a Git repository on Github called **[[https://github.com/Door43/pages|Door43 Pages]]**. This repository is identical to what is on the server and can be used for offline processing of Door43 content.
+
+===== Objective =====
+
+The **Export Utilities** project is intended to accomplish one thing: **Present all Door43 content in multiple formats**. Specifically:
+
+  * **Multiplexing Content** – In addition to the plain text files available in the [[https://github.com/Door43/pages|Door43 Pages]], these export utilities automatically process the text files and make them available in other formats as well. These exports are automatically pushed to another Git repository called **[[https://github.com/Door43/exports|Door43 Exports]]**
