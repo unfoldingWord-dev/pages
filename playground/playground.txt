@@ -1,16 +1,6 @@
 ====== PlayGround ======
 
-<ditaa round noedgesep center>
-    +----------+   +-------+    +-------+
-    |  Door43  | --+ ditaa +--> |       |
-    |   .txt   |   +-------+    |diagram|
-    |   files  |   |!magic!|    |       |
-    |      {d} |   |  c478 |    |       |
-    +-----+----+   +-------+    +-------+
-          |                         ^
-          |       Lots of work      |
-          +-------------------------+
-                     
-                     
-                     
-</ditaa>
+; term : definition
+
+;term
+:definition
