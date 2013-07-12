@@ -1,0 +1,5 @@
+====== Door43 Tools ======
+
+//Everything related to developing apps, extending the Door43 content, and printing resources.//
+
+  * **[[en:tools:p4a|Publish4All]]** – An affordable print-on-demand system that can be used to create printed books of discipleship resources anywhere in the world. Online at http://www.publishforall.com.

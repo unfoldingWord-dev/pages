@@ -1,0 +1,28 @@
+====== Publish4All ======
+
+//Are you using a Publish4All print-on-demand system? Help us document how to troubleshoot & maintain it, as well as how to format content for printing on it.//
+
+===== Hardware =====
+
+//This section pertains to the hardware components.//
+
+==== Continuous Inking System (CIS) ====
+
+//Notes & info about the CIS.//
+
+
+==== Cutter ====
+
+//Notes & info about the cutter (like where and how to sharpen/replace the blade!).//
+
+
+===== Formatting =====
+
+//This section pertains to formatting content for the system.//
+
+
+===== Software & Utilities =====
+
+//Tips, Tricks, and software tools that make printing content easier.//
+
+
