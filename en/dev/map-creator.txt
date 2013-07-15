@@ -13,7 +13,7 @@ Here's how it works:
   - Each placename is given an "id" that correlates to the [[wp>Strong's_Concordance|Strong's]] number for that place.
   - The placenames in the SVG file are extracted and put into a simple text file, with the Strong's number and English (or other) translation of each placename.
   - The text file is put into Door43, under the Open Bible Maps section, where it can be translated.
-  - The translated text file forms the "dictionary" that can be used to automatically used by the "map-creator" script to translate the SVG file into any language.
+  - The translated text file forms the "dictionary" that can be used by the "map-creator" script to automatically translate the SVG file into any language.
 
 
 <ditaa round noedgesep center>
