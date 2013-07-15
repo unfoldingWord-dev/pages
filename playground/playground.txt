@@ -12,9 +12,8 @@ Just testing
 digraph g {
 rankdir=LR;
 node [shape = plaintext];
-test -> foo -> bar;
-foo -> "bar2" -> "test2";
-"bar2" -> "foo2" -> "foo3";
+exports -> meta;
+exports -> <langcode>;
 }
 </graphviz>
 
