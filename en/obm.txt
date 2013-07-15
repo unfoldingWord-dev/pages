@@ -1,0 +1,11 @@
+====== Open Bible Maps ======
+
+//Maps of Bible places that can be rapidly translated into any language with a writing system, automatically.//
+
+===== Maps =====
+
+  * **[[en:obm:israel|Map of Israel]]** – A basic map of Israel.
+
+===== Resources =====
+
+  * **[[en:obm:places|Places]]** – Places listed in the maps, keyed to Strong's numbers.
