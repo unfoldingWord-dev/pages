@@ -6,7 +6,55 @@
 
 ===== Overview =====
 
-Door43 is a Dokuwiki server, which does not use a database but is instead comprised of plain text files that are minimally marked up with the Dokuwiki syntax (very similar to Markdown) and organized on the server's filesystem. This filesystem and all the text files are automatically pushed to a Git repository on Github called **[[https://github.com/Door43/pages|Door43 Pages]]**. This repository is identical to what is on the server and can be used for offline processing of Door43 content.
+Door43 is a Dokuwiki server, which does not use a database but is instead comprised of plain text files that are minimally marked up with the Dokuwiki syntax (very similar to Markdown) and organized on the server's filesystem. The text files reside in a Git repository called **"pages"**.
+
+The media files on the Dokuwiki server also reside on the filesystem, in a Git repository called **"media"**. Inside the "media" repository is another Git repository (ignored by the "media" repository) called **"exports"**. All three of these repositories are only written to by the Door43 server/web interface, though content is available "read-only" in the Github repositories. The repositories are automatically pushed every 15 minutes to repositories hosted at Github:
+
+  * **pages** - Contains the text files for the translated content: [[https://github.com/Door43/pages]].
+  * **media** - Contains the media files: [[https://github.com/Door43/media]].
+  * **exports** - Contains the processed + formatted + exported data (text + media): [[https://github.com/Door43/exports]].
+
+A fourth Git repository, called **"tools"** (https://github.com/Door43/tools) resides outside the Door43 webroot. This repository contains all the tools and utilities for processing, formatting, and exporting the Door43 data. It pulls updates from the Github repository to the Door43 server, where the content can be processed and made available for download. Here's an overview:
+
+<ditaa round edgesep center>
+                                          +---------------------+         +-------------+
+                                          |  Door43 webroot     |         |             |
+                                          |---------------------|         |             |
+                                          |                     |   +---->| Door43/     |
+                                          | +-----------------+ |   |     | pages       |
+                                          | |                 | |   |     | (GitHub)    |
+                                          | |  Pages          | |   |     | c27B {s}    |
+                                          | |  (Git)          +-----+     +-------------+
+                    +-----------------------+                 | |
+                    |                     | |                 | |         +-------------+
+                    |                     | |  c5AE {s}       | |         |             |
+                    |                     | +-----------------+ |         |             |
+                    |                     |                     |   +---->| Door43/     |
+  +----------+      |                     | +-----------------+ |   |     | exports     |
+  |          |      |                     | |                 | |   |     | (GitHub)    |
+  | Tools    |      |    +-----------+    | |  +-----------+  | |   |     | c27B {s}    |
+  | (Git)    |      +----+           +------|->|           |  | |   |     +-------------+
+  |          |           | export-   |    | |  | Exports   |  | |   |
+  |          +---------->| utilities |    | |  | (Git)     +--|-----+     +-------------+
+  | c5AE {s} |           | cCCC {io} |    | |  |           |  | |         |             |
+  +----------+      +----+           +------|->| c6BF {s}  |  | |         |             |
+       ^            |    +-----------+    | |  +-----------+  | |         | Door43/     |
+       |            |                     | |  Media          +---------->| media       |
+       |            +-----------------------+  (Git)          | |         | (GitHub)    |
+       |                                  | |  c5AE {s}       | |         | c27B {s}    |
+       |                                  | +-----------------+ |         +-------------+
+       |                                  |                     |
+       |                                  +---------------------+         +-------------+
+       |                                                                  |             |
+       |                                                                  |             |
+       |                                                                  | Door43/     |
+       +------------------------------------------------------------------+ tools       |
+                                                                          | (GitHub)    |
+                                                                          | c27B {s}    |
+                                                                          +-------------+
+</ditaa>
+
+So the general data flow looks like this:
 
 <ditaa round noedgesep center>
 
@@ -52,8 +100,6 @@ Door43 is a Dokuwiki server, which does not use a database but is instead compri
                                                    +---------+
 
 </ditaa>
-
-
 ===== Objective =====
 
 The Door43 Tools are intended to accomplish one thing: **Present all Door43 content in multiple formats**. Specifically:
