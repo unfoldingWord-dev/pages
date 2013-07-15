@@ -66,3 +66,5 @@ The Door43 Tools are intended to accomplish one thing: **Present all Door43 cont
 ===== Implementation =====
 
 Whatever utilities are needed to convert the text files into various formats should be available on the Door43 server (Centos 6). Suggestions of tools to use: Ruby, shell scripts, and the amazing [[http://johnmacfarlane.net/pandoc/|Pandoc]].
+
+**Note:** Converting Dokuwiki text files to HTML (which Pandoc can process) is enabled on the Door43 server. The [[https://www.dokuwiki.org/tips:dokuwiki_parser_cli|dokucli.php]] utility lives at ''/var/www/vhosts/door43.org/httpdocs/bin/dokucli.php'', and the [[http://donaldmerand.com/code/2012/07/20/how-i-actually-convert-dokuwiki-to-latex.html|doku2html]] wrapper script lives at ''/usr/local/bin/doku2html''.
