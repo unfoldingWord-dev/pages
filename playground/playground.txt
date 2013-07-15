@@ -7,8 +7,21 @@
 
 Just testing
 
-<graphviz dot right 500x200>
+
+<graphviz dot center>
+digraph g {
+rankdir=LR;
+node [shape = plaintext];
+test -> foo -> bar;
+foo -> "bar2" -> "test2";
+"bar2" -> "foo2" -> "foo3";
+}
+</graphviz>
+
+
+<graphviz dot center>
 digraph finite_state_machine {
+  fontname="Arial";
 	rankdir=LR;
   size="12,5";
 	node [shape = doublecircle]; LR_0 LR_3 LR_4 LR_8;
