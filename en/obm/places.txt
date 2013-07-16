@@ -1,32 +1,32 @@
 ====== Places ======
 
-  * G965 | Bethlemen
-  * ??? | Caesara Philippi
-  * ??? | Caesarea
-  * ??? | Cana
-  * G1154 | Damascus
-  * H1835 | Dan
-  * H4480 | En-gedi
-  * ??? | Gadara
-  * G1048 | Gaza
-  * H2275 | Hebron
-  * G2410 | Jericho
-  * G2419 | Jerusalem
-  * G2445 | Joppa
-  * G3478 | Nazareth
-  * H7237 | Rabbah
-  * H7927 | Shechem
-  * G5085 | Tiberias
-  * G5184 | Tyre
-  * ??? | Ezion-geber
-  * H3760 | Mount Carmel
-  * H2768 | Mount Hermon
-  * H8396 | Mount Tabor
-  * G1636 | Mount of Olives
-  * H4176 | Mount Moreh
-  * H5015 | Mount Nebo
-  * H1630 | Mount Gerizim
-  * H1533 | Mount Gilboa
-  * H2510 | Mount Halak
-  * H5514 | Mount Sinai
 
+    * G965 | Bethlemen
+    * ?? | Caesara Philippi
+    * ??? | Caesarea
+    * ??? | Cana
+    * G1154 | Damascus
+    * H1835 | Dan
+    * H4480 | En-gedi
+    * ??? | Gadara
+    * G1048 | Gaza
+    * H2275 | Hebron
+    * G2410 | Jericho
+    * G2419 | Jerusalem
+    * G2445 | Joppa
+    * G3478 | Nazareth
+    * H7237 | Rabbah
+    * H7927 | Shechem
+    * G5085 | Tiberias
+    * G5184 | Tyre
+    * ??? | Ezion-geber
+    * H3760 | Mount Carmel
+    * H2768 | Mount Hermon
+    * H8396 | Mount Tabor
+    * G1636 | Mount of Olives
+    * H4176 | Mount Moreh
+    * H5015 | Mount Nebo
+    * H1630 | Mount Gerizim
+    * H1533 | Mount Gilboa
+    * H2510 | Mount Halak
+    * H5514 | Mount Sinai
