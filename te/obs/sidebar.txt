@@ -1,6 +1,6 @@
 
 ----
-
+~~NOCACHE~~
 **[[te:obs|Open Bible Stories]]**
 
 {{page>te:obs:stories}}
