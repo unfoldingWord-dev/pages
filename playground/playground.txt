@@ -1,7 +1,5 @@
 ====== PlayGround ======
 
-Test
-
 ;term :definition
 
 
