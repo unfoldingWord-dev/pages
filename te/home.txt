@@ -2,7 +2,7 @@
 
 Welcome to Door43! Please feel free to [[?do=edit|edit]] this page in your own language.
 
-===== Resources =====
+===== అందుబాటులో వున్న వనరులు =====
 
-  * **[[te:obs|Open Bible Stories (te)]]**
 
+    * **[[:te:obs|ఉచిత బైబిలు కథలు(te)]]**
