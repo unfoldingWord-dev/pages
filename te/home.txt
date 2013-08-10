@@ -5,4 +5,4 @@ Welcome to Door43! Please feel free to [[?do=edit|edit]] this page in your own l
 ===== అందుబాటులో వున్న వనరులు =====
 
 
-    * **[[:te:obs|ఉచిత బైబిలు కథలు(te)]]**
+    * **[[:te:obs|ఓపెన్ బైబిలు కథలు(te)]]**
