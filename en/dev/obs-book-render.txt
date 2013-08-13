@@ -4,10 +4,30 @@
 
 ===== History =====
 
-The English ver. 1.0 of Open Bible Stories was rendered using a PHP library that calls the pandoc engine
+The English ver. 1.0 of Open Bible Stories was rendered using a PHP library that retrieved the HTML of Open Bible Stories by "screen-scraping" the old Door43 website, then running it through the pandoc text-formatting engine (see the "Resources" section below).
+
+===== Objective =====
+
+We want to be able to run a script in the **Door43 Tools** collection that automatically renders a translation of Open Bible Stories as an OpenDocument Text file, with these considerations:
+
+  * **images** – includes the images from Open Bible Stories on Door43, available [[https://github.com/Door43/media/tree/master/en/obs|here]]. //Note: The images should be scaled to fit the page perfectly without need for adjusting the image size.//
+
+  * **formatted** – is formatted for printing on the Publish4All print-on-demand system, with a final page size of 8" x 5.25". //Note: pandoc can render OpenDocument text using a pre-formatted template, see the "Resources" section.//
+
+  * **page breaks** – the pages should break correctly, following the format of the original print-ready version (download [[http://distantshoresmedia.org/assets/obs/obs-en_1.0.pdf|here]]).
 
 
-**Resources:**
+===== Implementation =====
+
+Instead of screen-scraping, we want to be able to directly process the text files on the Door43 translation platform. Door43 is a Dokuwiki server, meaning all the pages on the site are actually plaintext files with minimal markup on the filesystem of the webserver.
+
+The Dokuwiki text files can be processed directly (see https://github.com/Door43/pages) or rendered as Markdown files available via Github: https://github.com/Door43/exports/tree/master/en/obs/markdown. (Note: rendered using the 'markdown' utility: https://github.com/Door43/tools/tree/master/obs/markdown.)
+
+
+
+===== Resources =====
 
   * [[https://www.dropbox.com/s/zc523y75bbozk43/open_bible_stories_odt_converter.zip|OBS ODT Converter, PHP library]] – the original utility.
+  * [[https://www.dropbox.com/s/8rn0wb6ocfs53cc/book-render.zip|Original Utilities]] – the original scripts and supporting tools used to render the original Open Bible Stories book.
   * [[http://johnmacfarlane.net/pandoc/|Pandoc]] – a text-conversion Swiss army knife.
+  * [[https://www.dropbox.com/s/2muhoua96ezfteb/obs-book-template.odt|ODT template]] – OpenDocument Text file to use as template.
