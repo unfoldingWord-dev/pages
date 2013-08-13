@@ -1,0 +1,3 @@
+====== OBS Book Render ======
+
+//Open Bible Stories starts out as plain text, translated into any language using [[http://door43.org/en/obs|Door43]]. The text is combined with images on Door43 to create webpages with illustrations. The function of the **OBS Book Render** utility is to convert the translated text and images into an Open Document file that can be post-processed and printed as a book.//
