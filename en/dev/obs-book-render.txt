@@ -1,3 +1,13 @@
 ====== OBS Book Render ======
 
 //Open Bible Stories starts out as plain text, translated into any language using [[http://door43.org/en/obs|Door43]]. The text is combined with images on Door43 to create webpages with illustrations. The function of the **OBS Book Render** utility is to convert the translated text and images into an Open Document file that can be post-processed and printed as a book.//
+
+===== History =====
+
+The English ver. 1.0 of Open Bible Stories was rendered using a PHP library that calls the pandoc engine
+
+
+**Resources:**
+
+  * [[https://www.dropbox.com/s/zc523y75bbozk43/open_bible_stories_odt_converter.zip|OBS ODT Converter, PHP library]] – the original utility.
+  * [[http://johnmacfarlane.net/pandoc/|Pandoc]] – a text-conversion Swiss army knife.
