@@ -1,6 +1,7 @@
 ==== Translations ====
 
   * [[abp:obs|Ayta Abellen]] – //in progress//
+  * [[az:obs|Azərbaycan dili]] – //preparing//
   * [[blx:obs|Ayta Mag-Indi]] – //preparing//
   * [[bnp:obs|Bola]] – //preparing//
   * [[cnh:obs|Chin, Haka]] – **first draft complete**
