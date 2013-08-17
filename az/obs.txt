@@ -1,7 +1,10 @@
 ====== Open Bible Stories (az) ======
 
-Welcome to Open Bible Stories! Please feel free to translate this page and the stories (including the titles) below. More information on how to get started translating Open Bible Stories is [[en:obs:help|here]], and useful information may also be found at [[en:get-started|"Getting Started"]] and [[en:tips-tricks|"Tips & Tricks"]]. If you need help, [[http://distantshoresmedia.org/contact|just ask]]!
 
+Welcome to Open Bible Stories! Please feel free to translate this page and the stories (including the titles) below. More information on how to get started translating Open Bible Stories is [[:en:obs:help|here]], and useful information may also be found at [[:en:get-started|"Getting Started"]] and [[:en:tips-tricks|"Tips & Tricks"]]. If you need help, [[http://distantshoresmedia.org/contact|just ask]]!
+
+"Açıq Müqəddəs Kitab" a xoş gəlmisiniz! Lütfən bu səhifəni (aşağıda verilən adlar daxil olmaqla) və hekayələri tərcümə etməyə utanmayın. "Açıq Müqəddəs Kitab"ı tərcüməsi ilə bağlı daha ətraflı məlumat almaq üçün buradan başlaya bilərsiiniz. Eləcə də lazımi məlumatları "Başla" da, "Məsləhətlər və Fəndlər" də tapa bilərsiniz. Köməyə ehtiyac duyursunuzsa, sadəcə soruşun!
 {{page>az:obs:stories}}
+
 
 {{page>en:obs:active}}
