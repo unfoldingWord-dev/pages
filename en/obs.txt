@@ -11,9 +11,10 @@ Open Bible Stories is developed by [[http://distantshoresmedia.org|Distant Shore
 Feel free to join the Open Bible Stories translation team and help finish a translation, or start a new one. Here's **[[en:obs:help|how to get started]]** translating Open Bible Stories. //If you prefer, you can [[http://door43.org/_media/en/obs/obs-en.zip|download]] the English source text as a zip archive and begin translating offline, on any computer or mobile device.//
 
 
-{{page>en:obs:active}}
-
-
 ==== Stories in English ====
 
 {{page>en:obs:stories}}
+
+==== Active Translations ====
+
+{{page>en:obs:active}}

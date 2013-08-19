@@ -1,8 +1,8 @@
 ==== Translations ====
 
   * [[abp:obs|Ayta Abellen]] – //in progress//
-  * [[az:obs|Azərbaycan dili]] – //preparing//
-  * [[blx:obs|Ayta Mag-Indi]] – //preparing//
+  * [[az:obs|Azərbaycan dili]] – //in progress//
+  * [[blx:obs|Ayta Mag-Indi]] – //in progress//
   * [[bnp:obs|Bola]] – //preparing//
   * [[cnh:obs|Chin, Haka]] – **first draft complete**
   * [[en:obs|English]] – **complete**
@@ -16,6 +16,7 @@
   * [[pt-br:obs|Português do Brasil]] – //in progress//
   * [[ru:obs|Русский]] – //preparing//
   * [[sw:obs|Kiswahili]] – //in progress//
+  * [[te:obs|తెలుగు]] – //in progress//
   * [[th:obs|ไทย]] – //preparing//
   * [[xmf:obs|მარგალური]] – //in progress//
   * [[zh:obs|中文]] - //in progress//
