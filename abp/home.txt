@@ -1,8 +1,11 @@
 ====== Door43 (abp) ======
 
-Welcome to Door43! Please feel free to [[?do=edit|edit]] this page in your own language.
+
+Welcome to Door43! Please feel free to [[:abp:home?do=edit|edit]] this page in your own language.
+
 
 ===== Resources =====
 
-  * **[[abp:obs|Open Bible Stories (abp)]]**
 
+    * **[[:abp:obs|Open Bible Stories (abp)]]**
+    
