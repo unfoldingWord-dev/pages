@@ -1,0 +1,23 @@
+====== How You Can Help! ======
+
+//Here's how you can help the Open Bible Stories project, right now!//
+
+===== Import the Arabic 1st Draft =====
+
+We were just given a first draft of the Arabic translation of Open Bible Stories (check it out here: https://www.dropbox.com/s/05lkz680qpacvv1/open_bible_stories_AR.txt). All 50 stories need to be manually imported into the Arabic translation of Open Bible Stories on Door43 (the first story is [[ar/obs/01-the-creation|here]]).
+
+**We need this done by the end of //this week// (September 13, 2013)!**
+
+Want to help? Here's how:
+
+  - Create an account on Door43 and log in (see the link at the top of the page).
+  - Check out the Arabic text file (click [[https://www.dropbox.com/s/05lkz680qpacvv1/open_bible_stories_AR.txt|here]])
+  - Choose a story and copy the text sections into it, replacing the English with the Arabic. //Easy!// 
+ 
+Some things to note:
+
+  * Remember: **It is impossible to break anything on Door43!** If you royally mess everything up, don't worry... we can revert your disaster in one click, so don't be afraid to try!
+  * Only the Arabic text should be copied in, and it needs to be copied in the correct location. It's easy to see how it works: Look for the text segment and how it aligns between the image markers. (Don't copy in the image markers.)
+  * It may be easier to switch to the basic text editor, rather than the default visual text editor. Simply click "edit" on a page, then click the "DW Edit" button at the bottom of the text editor interface. Close the edit interface by clicking "Exit", then edit the page again. The basic text editor interface shows you the raw text markup so you can see what's going on. (Note: you can revert to the visual editor by clicking the "FCK Edit" button.)
+  * Use keyboard shortcuts to edit the pages in Arabic (if you can't read the text on the buttons!) For instance: **Ctrl-E** switches to the editor, **Ctrl-P** shows a preview of the edited text, **Ctrl-S** saves the page.
+  * More info here: **[[:en:get-started|How to Get Started]]**, **[[:en:tips-tricks|Tips & Tricks]]**.
