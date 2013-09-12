@@ -1,51 +1,100 @@
 ====== 10. The Ten Plagues ======
 
+
 {{:en:obs:obs-10-01.jpg?nolink&640x360}}
 
-Moses and Aaron went to Pharaoh. They said, “This is what the God of Israel says, ‘Let my people go!’” Pharaoh laughed at them. Instead of letting the Israelites go free, he made their work even harder!
+
+<brush: text; plain-text>
+  ذهب موسى وهارون إلى فرعون. وقالوا: "هذا ما يقوله إله إسرائيل: "أَطْلِقْ شَعْبِي!"" فضحك فرعون عليهم. فبدلا من السماح بإطلاق الإسرائيليين، جعلَ شغلهم أكثر صعوبة! 
+</brush:>
+
 
 {{:en:obs:obs-10-02.jpg?nolink&640x360}}
 
-Pharaoh kept refusing to let the people go, so God sent ten plagues on Egypt. (A plague is a terrible disaster.) Through these plagues, God showed Pharaoh that He is more powerful than Pharaoh and all of Egypt’s gods.
+
+<brush: text; plain-text>
+  واستمر فرعون برفضه لإطلاق الشعب، لذلك أرسل الله عشر ضربات على مصر. (الضربة هي كارثة رهيبة). فمن خلال هذه الضربات، أظهر الله لفرعون أنه هو أقوى من فرعون وكل آلهة مصر. 
+</brush:>
+
 
 {{:en:obs:obs-10-03.jpg?nolink&640x360}}
 
-God turned the Nile River into blood, but Pharaoh still would not let the Israelites go.
+
+<brush: text; plain-text>
+  وحوَّلَ الله نهرَ النيل إلى دمٍ، ولكن فرعون استمرَّ بعدم سماحِهِ بإطلاق الإسرائيليين. 
+</brush:>
+
 
 {{:en:obs:obs-10-04.jpg?nolink&640x360}}
 
-God sent frogs all over Egypt. Pharaoh begged Moses to take away the frogs. But after all the frogs died, Pharaoh hardened his heart and would not let the Israelites go.
+
+<brush: text; plain-text>
+  وأرسل الله الضفادع في جميع أنحاء مصر. فتوسل فرعون لموسى أن يرفع الضفادع عنهم. ولكن بعد أن ماتت كل الضفادع، شدّد فرعون قلبه ولم يطلق الإسرائيليين. 
+</brush:>
+
 
 {{:en:obs:obs-10-05.jpg?nolink&640x360}}
 
-So God sent a plague of gnats and then a plague of flies. Pharaoh called Moses and Aaron and told them they could leave if they stopped the plague. Moses prayed, and God removed all the flies from Egypt, but Pharaoh hardened his heart and would not let the people go.
+
+<brush: text; plain-text>
+  فأرسل الله ضربة الْبَعُوض ومن ثم ضربة الذُّبَّانَ. فَدَعَا فِرْعَوْنُ مُوسَى وَهَارُونَ وَقَالَ لهما إنهم من الممكن أن يغادروا إذا توقفت الضربة. فصلى موسى، وأزال الله كل الذُّبَّانَ من مصر، ولكن فرعون شدّد قلبه ولم يسمح بإطلاق الشعب. 
+</brush:>
+
 
 {{:en:obs:obs-10-06.jpg?nolink&640x360}}
 
-Next God sent a sickness to kill all the farm animals that belonged to the Egyptians. Pharaoh’s heart was hardened, and he would not let the Israelites go.
+
+<brush: text; plain-text>
+  وبعد ذلك أرسلَ الله وَبَأً لقَتل كل حيوانات المزرعة التي تعود للمصريين. لكنَّ قلبَ فرعون كان متقسياً، ولم يطلق الإسرائيليين. 
+</brush:>
+
 
 {{:en:obs:obs-10-07.jpg?nolink&640x360}}
 
-Then God told Moses to throw ashes into the air in front of Pharaoh. When he did, painful skin sores appeared on the Egyptians, but not on the Israelites. God hardened Pharaoh's heart, and Pharaoh would not let the Israelites go free.
+
+<brush: text; plain-text>
+  ثم قال الله لموسى أن يذري الرماد في الهواء أمام فرعون. وعندما فعل ذلك، ظهرت دمامل مؤلمة على جلد المصريين، ولكن ليس على الإسرائيليين. فشَدَّدَ الرَّبُّ قَلْبَ فِرْعَوْنَ فَلَمْ يُطلق الإسرائيليين. 
+</brush:>
+
 
 {{:en:obs:obs-10-08.jpg?nolink&640x360}}
 
-After that, God sent hail that destroyed the crops in Egypt and killed anybody who went outside. Pharaoh called Moses and Aaron and told them, “I have sinned. You may go.” So Moses prayed, and the hail stopped.
+
+<brush: text; plain-text>
+ وبعد ذلك، أرسلَ الله بَرداً دمَّرَ المحاصيل في مصر وقتلَ أي شخص طلع إلى الخارج. فدعا فرعون موسى وهرون وقال لهما، "أَخْطَأْتُ. يمكنكم أن تخرجوا". فصلّى موسى، وتوقف البرد. 
+</brush:>
+
 
 {{:en:obs:obs-10-09.jpg?nolink&640x360}}
 
-But Pharaoh sinned again and hardened his heart and would not let the Israelites go.
+
+<brush: text; plain-text>
+ ولكن فرعون أخطأ مرة أخرى وشدّد قلبه ولم يطلق الإسرائيليين.
+</brush:>
+
 
 {{:en:obs:obs-10-10.jpg?nolink&640x360}}
 
-So God caused swarms of locusts to come over Egypt. These locusts ate what remained of the crops that the hail had not destroyed.
+
+<brush: text; plain-text>
+  لذلك جعل الله أسراب الجراد أن تأتي على مصر. فأكلت الجراد ما تبقى من المحاصيل التي لم يدمرها البَرَد. 
+</brush:>
+
 
 {{:en:obs:obs-10-11.jpg?nolink&640x360}}
 
-Then God sent darkness that lasted for three days. It was so dark that the Egyptians could not leave their houses. But where the Israelites lived, there was light.
+
+<brush: text; plain-text>
+ ثم أرسل الله ظلاماً دامَ ثلاثة أيام. قكان الظلامُ دَامِساً حتى أن المصريين لم يتمكنوا من ترك بيوتهم. ولكن أينما كان يسكن الإسرائيليون، كان هناك نور. 
+</brush:>
+
 
 {{:en:obs:obs-10-12.jpg?nolink&640x360}}
 
-Even after these nine plagues, Pharaoh still refused to let the Israelites go free. Since Pharaoh would not listen, there was one last plague that God planned to send. This would change Pharaoh’s mind.
 
-//A Bible story from: Exodus 5-10//
+<brush: text; plain-text>
+  فحتى بعد هذه الضربات التسع، استمر فرعون برفضه إطلاق الإسرائيليين. وبما أن فرعون لم يستمع، فكان هناك ضربة واحدة أخيرة قرّرَ الله بإرسالها. وهذه ستغير فِكر فرعون. 
+</brush:>
+<brush: text; plain-text>
+قصة الكتاب المقدس من: خروج 5-1
+</brush:>
