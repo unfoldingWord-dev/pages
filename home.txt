@@ -24,6 +24,7 @@
     * [[:my:home|ဗမာစာ (my)]]
     * [[:nl:home|Nederlands (nl)]]
     * [[:pl:home|Polski (pl)]]
+    * [[:ppq:home|Pefiyahe (ppq)]]
     * [[:pt-br:home|Português do Brasil (pt-br)]]
     * [[:ru:home|Русский (ru)]]
     * [[:shn:home|လိၵ်ႈတႆး (shn)]]
