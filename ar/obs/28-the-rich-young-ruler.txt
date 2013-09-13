@@ -1,44 +1,86 @@
-====== 28. The Rich Young Ruler ======
+<brush: text; plain-text>
+28. الرئيس الشاب الغني
+</brush:>
+
 
 {{:en:obs:obs-28-01.jpg?nolink&640x360}}
 
-One day a rich young ruler came up to Jesus and asked him, “Good teacher, what good thing must I do to have eternal life?” Jesus said to him, “Why do you call me good? There is only One who is good, and that is God. But if you want to have eternal life, obey God’s laws.”
+
+<brush: text; plain-text>
+  وفي أحد الأيام حَضَر رئيس شاب غني إلى يسوع وسأله، "أيها المُعلم الصالِح، ماذا أعمَل لأرِث الحياة الأبدية؟" فقال له يسوع، "لِمَاذَا تَدْعُونِي صَالِحًا؟ لَيْسَ أَحَدٌ صَالِحًا إِلاَّ وَاحِدٌ وَهُوَ اللهُ. ولكن إذا كنت تريد أن تكون لك حياة أبدية، فأحفظ وصايا الله." 
+</brush:>
+
 
 {{:en:obs:obs-28-02.jpg?nolink&640x360}}
 
-“Which ones?” he asked. Jesus replied, “Do not murder. Do not commit adultery. Do not steal. Do not lie. Honor your father and mother, and love your neighbor as you love yourself.”
+
+<brush: text; plain-text>
+  فسأل "أية الوصايا؟" أجاب يسوع، "لا تَقتُل. لا تزن. لا تَسرِق. لا تَكذب. إكرِم أباك وأمك، وأحِب قريبك كنفسك."
+</brush:>
+
 
 {{:en:obs:obs-28-03.jpg?nolink&640x360}}
 
-The young man, trying to prove that he was right, said, “I have obeyed all these laws ever since I was a boy. What do I still need to do?” Jesus looked at him and loved him.
+
+<brush: text; plain-text>
+ فقال الشاب، محاولاً إثبات أنه كان على حق، "هذِهِ كُلُّهَا حَفِظْتُهَا مُنْذُ حَدَاثَتِي. فَمَاذَا يُعْوِزُني بَعْدُ؟" فنَظَر إليه يسوع وأَحَبه. 
+</brush:>
+
 
 {{:en:obs:obs-28-04.jpg?nolink&640x360}}
 
-Jesus answered, “If you want to be perfect, then go and sell everything you own and give the money to the poor, and you will have treasure waiting for you in heaven. Then come and follow me.”
+
+<brush: text; plain-text>
+ فأجاب يسوع، "إن أردت أن تكون كاملاً، فإذهب وبِع كل أملاكك وإعط المال للفقراء، فيكون لك كنز في إنتظارك في السماء. ثم تعال وإتبعني." 
+</brush:>
+
 
 {{:en:obs:obs-28-05.jpg?nolink&640x360}}
 
-When the young man heard this, he became very sad, because he was very rich. He turned and went away from Jesus, unwilling to give up his wealth.
+
+<brush: text; plain-text>
+ فلما سَمِع الشاب هذا، أصبح حزيناً جداً، لأنه كان غنياً جداً. فرجع ومضى بعيداً عن يسوع، غير راغب في التخلي عن ثروته. 
+</brush:>
+
 
 {{:en:obs:obs-28-06.jpg?nolink&640x360}}
 
-Then Jesus said to his disciples, “How hard it is for rich people to enter into the Kingdom of God! Yes, it is easier for a camel to go through the eye of a needle than for a rich man to enter the Kingdom of God.”
+
+<brush: text; plain-text>
+ ثم قال يسوع لتلاميذه، "مَا أَعْسَرَ دُخُولَ الأَغنياء إِلَى مَلَكُوتِ اللهِ! نعم، فدخول جمل من ثقب إبرة أيسر من أن يدخل رجل غني إلى ملكوت الله." 
+</brush:>
+
 
 {{:en:obs:obs-28-07.jpg?nolink&640x360}}
 
-When the disciples heard this they were shocked and said, “Then who can be saved?”
+
+<brush: text; plain-text>
+  فلما سَمِعَ التلاميذ هذا صُدموا وقالوا، "فمن يستطيع أن يَخلُص؟" 
+</brush:>
+
 
 {{:en:obs:obs-28-08.jpg?nolink&640x360}}
 
-Jesus looked at them and said, “With people this is impossible, but with God, all things are possible.”
+
+<brush: text; plain-text>
+  تطلع يسوع إليهم وقال، "عِنْدَ النَّاسِ غَيْر مُسْتَطَاع، وَلكِن عِنْدَ اللهِ، كل شَيْء مُسْتَطَاع." 
+</brush:>
+
 
 {{:en:obs:obs-28-09.jpg?nolink&640x360}}
 
-Peter said to Jesus, “We have left everything and followed you. What will be our reward?”
+
+<brush: text; plain-text>
+  فقال بطرس ليسوع، "هَا نَحْنُ قَدْ تَرَكْنَا كُلَّ شَيْءٍ وَتَبِعْنَاكَ. فماذا ستكون مكافأتنا؟" 
+</brush:>
+
 
 {{:en:obs:obs-28-10.jpg?nolink&640x360}}
 
-Jesus answered, “Everyone who has left houses, brothers, sisters, father, mother, children, or property for my name’s sake, will inherit 100 times more in the next world and also eternal life. But many who are first will be last, and those who are last will be first.”
 
-
-//A Bible story from: Matthew 19:16-30; Mark 10:17-31; Luke 18:18-30//
+<brush: text; plain-text>
+ فأجاب يسوع، "كل من ترك بيوتاً، أو إخوة، أو أخوات، أو أباً، أو أماً، أو أولادً، أو حقولاً لأجل إسمي، سيرث 100 مرة أكثر في هذا العالَم وأيضاً الحياة الأبدية. وَلكِنْ كَثِيرُونَ أَوَّلُونَ يَكُونُونَ آخِرِينَ، وَآخِرُونَ أَوَّلِينَ." 
+</brush:>
+<brush: text; plain-text>
+قصة الكتاب المقدس من: متى 16:19-30؛ مرقس 17:10-31؛ لوقا 18:18-30
+</brush:>
