@@ -1,5 +1,5 @@
-  - [[ar:obs:01-the-creation|The Creation]]
-  - [[ar:obs:02-sin-enters-the-world|Sin Enters the World]]
+  - [[ar:obs:01-the-creation|خلق الكون]]
+  - [[ar:obs:02-sin-enters-the-world|دخول الخطية للعالم]]
   - [[ar:obs:03-the-flood|The Flood]]
   - [[ar:obs:04-gods-covenant-with-abraham|God's Covenant with Abraham]]
   - [[ar:obs:05-the-son-of-promise|The Son of Promise]]
