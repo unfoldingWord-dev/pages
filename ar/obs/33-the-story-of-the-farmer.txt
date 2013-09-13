@@ -1,40 +1,78 @@
-====== 33. The Story of the Farmer ======
+<brush: text; plain-text>
+33. قصة الزارع
+</brush:>
+
 
 {{:en:obs:obs-33-01.jpg?nolink&640x360}}
 
-One day, Jesus was down by the sea, teaching great crowds of people. The crowd got so big that Jesus got into a boat and began speaking from there.
+
+<brush: text; plain-text>
+ في أحد الأيام، كان يسوع عند البحر، يُعَلِّم جموع كثيرة من الناس. فكَبُرَ الجمع جداً لدرجة أن يسوع دخل سفينة وبدأ يتكلَّم من هناك. 
+</brush:>
+
 
 {{:en:obs:obs-33-02.jpg?nolink&640x360}}
 
-Jesus told this story. “A farmer went out to plant some grain. As he was spreading the seeds by hand, some seeds fell on the path, and the birds came and ate it all.”
+
+<brush: text; plain-text>
+  فحكى يسوع هذه القصة. "ذهب زارع ليزرع بعض الحبوب. وفيما كان يبذرالبذور بيده، سَقَطَ بعض البذور على الطريق، فجاءت الطيور وأكلته كله." 
+</brush:>
+
 
 {{:en:obs:obs-33-03.jpg?nolink&640x360}}
 
-“Other seeds fell on a rocky place, where there was not much soil. The seeds in the rocky soil sprouted quickly. But when the sun came up and it got hot, the plants withered and died since their roots did not go deep.”
+
+<brush: text; plain-text>
+ "وسقطت بذور أخرى على مكان صَخري، حيث لم يكن هناك تربة كثيرة. فنَبَتَت البذور في التربة الصخرية بسرعة. ولكن لما أَشرقت الشمس وإرتَفَعَت الحرارة، ذبلت النباتات وماتت إذ جذورهم لم تنزل للعمق." 
+</brush:>
+
 
 {{:en:obs:obs-33-04.jpg?nolink&640x360}}
 
-“Still other seeds fell among thorny bushes. Those seeds were choked by the thorns and did not produce any grain.”
+
+<brush: text; plain-text>
+ "وسَقَطَت بذور أخرى بين الشوك. فإختنقَت تلك البذور بالشوك، ولم تَنتِج أي حبوب." 
+</brush:>
+
 
 {{:en:obs:obs-33-05.jpg?nolink&640x360}}
 
-“Other seeds fell into good soil. These seeds grew up and produced 30, 60, or even 100 times as much grain as had been planted. He who has ears, let him hear!”
+
+<brush: text; plain-text>
+  "وسَقَطَت بذور أخرى على تربة جيدة. فنَمَت هذه البذور وأعطت ثمراً 30، و60، وحتى 100 ضعف أَكثَر مما زُرع. مَنْ لَهُ أُذُنَانِ لِلسَّمْعِ، فَلْيَسْمَعْ!" 
+</brush:>
+
 
 {{:en:obs:obs-33-06.jpg?nolink&640x360}}
 
-This story confused the disciples. Jesus explained, “The seed represents the Word of God. The seeds on the path are like people who hear God’s Word, do not understand it, and the devil takes the word from them.”
+
+<brush: text; plain-text>
+ هذه القصة حَيَرَت التلاميذ. وأوضح يسوع، "البذرة تمثل كلمة الله. والبذور التي على الطريق تشبه الناس الذين يسمعون كلمة الله، ولا يفهمونها، والشيطان يأخذ الكلمة منهم." 
+</brush:>
+
 
 {{:en:obs:obs-33-07.jpg?nolink&640x360}}
 
-“The seeds on the rocky soil are like people who hear God’s Word and accept it with joy. But in times of hardship or persecution, they fall away because they have no maturity.”
+
+<brush: text; plain-text>
+  "وأما البذور على التربة الصخرية تشبه الناس الذين يسمعون كلمة الله ويقبلونها بفرح. ولكن في أوقات الضيق أو الإضطهاد، يتعثرون لأنهم ليس لديهم أصل." 
+</brush:>
+
 
 {{:en:obs:obs-33-08.jpg?nolink&640x360}}
 
-“The seeds in the thorns are like people who hear God’s Word and believe it. But as time passes, their love for God is choked out by the cares, riches, and pleasures of life. The teaching they heard does not produce fruit.”
+
+<brush: text; plain-text>
+ "وأما البذور بين الشوك تشبه الناس الذين يسمعون كلمة الله ويصدقونها. ولكن مع مرور الوقت، يختنق حبهم لله بهموم، وغنى، وملذات الحياة. فالتعاليم التي يسمعونها لا تنتِج ثمراً." 
+</brush:>
+
 
 {{:en:obs:obs-33-09.jpg?nolink&640x360}}
 
-“But the seeds that fall on good soil represent people who hear the Word of God, believe it, and produce spiritual fruit.”
 
-
-//A Bible story from: Matthew 13:1-8, 18-23; Mark 4:1-8, 13-20; Luke 8:4-15//
+<brush: text; plain-text>
+  "لكن البذور التي تسقط على التربة الجيدة تمثل الناس الذين يسمعون كلمة الله، ويصدقونها، وتُنتِج ثماراً روحية." 
+</brush:>
+<brush: text; plain-text>
+قصة الكتاب المقدس من: متى 1:13-8، 18-23؛ مرقس 1:4-8، 13-20؛ لوقا 4:8-15
+</brush:>
