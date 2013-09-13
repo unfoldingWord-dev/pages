@@ -1,40 +1,78 @@
-====== 29. The Story of the Unmerciful Servant ======
+<brush: text; plain-text>
+29. قصة العبد عديم الرحمة
+</brush:>
+
 
 {{:en:obs:obs-29-01.jpg?nolink&640x360}}
 
-One day Peter said to Jesus, “Lord, how many times should I forgive my brother when he sins against me? Up to seven times?” Jesus said, “Not seven times, but seventy times seven!” By this, Jesus meant that we should always forgive. Jesus told this story.
+
+<brush: text; plain-text>
+  في أحد الأيام قال بطرس ليسوع، "يا رب، كَمْ مَرَّةً يُخْطِئُ إِلَيَّ أَخِي وَأَنَا أَغْفِرُ لَهُ؟ هَلْ إِلَى سَبْعِ مَرَّاتٍ؟" فقال يسوع، "ليس إلى سَبْعِ مَرَّاتٍ، بَلْ إِلَى سَبْعِينَ مَرَّةً سَبْعَ مَرَّاتٍ!" بهذا، كان يسوع يعني أننا يجب أن نَغفِر دائماً. فحكى يسوع هذه القصة. 
+</brush:>
+
 
 {{:en:obs:obs-29-02.jpg?nolink&640x360}}
 
-“The Kingdom of God is like a king who wanted to settle accounts with his servants. One of his servants owed a huge debt worth 200,000 years’ wages.”
+
+<brush: text; plain-text>
+  "يُشْبِهُ مَلَكُوتُ السَّمَاوَاتِ مَلِكًا أَرَادَ أَنْ يُحَاسِبَ عَبِيدَهُ. واحدٌ من عبيده كان مديوناً بدَّين ضَخْم بقيمة أُجور 200،000 سَنَة." 
+</brush:>
+
 
 {{:en:obs:obs-29-03.jpg?nolink&640x360}}
 
-“Since the servant could not repay the debt, the king said, ‘Sell this man and his family as slaves to make payment on his debt.’”
+
+<brush: text; plain-text>
+  "ولأنه لم يكن يستطيع أن يسدِّد الدين، قال المَلِك، 'بِع هذا الرجل وعائلته كعبيد ليوفي الدَّين.'" 
+</brush:>
+
 
 {{:en:obs:obs-29-04.jpg?nolink&640x360}}
 
-“The servant fell on his knees before the king and said, ‘Please be patient with me, and I will pay everything back.’ The king felt pity for the servant and canceled all of his debt.”
+
+<brush: text; plain-text>
+  "فَخَر العبد على ركبتيه أمام المَلِك وقال، 'أرجوك تَمَهَّلْ عَلَيَّ فَأُوفِيَكَ الْجَمِيعَ.' فتحنن المَلِك على العبد وقام بإلغاء جميع ديونه." 
+</brush:>
+
 
 {{:en:obs:obs-29-05.jpg?nolink&640x360}}
 
-“The servant went out and found another servant who owed him a debt worth four months’ wages. The servant choked the man and said, ‘Pay me what you owe me!’”
+
+<brush: text; plain-text>
+ "خَرَج العبد ووَجَد عبداً آخر كان مديوناً له بدَّين بقيمة أجر أربعة أشهر. فأخذ العبد يَخنق الرجُل وقال، 'أوفني ما لي عليك!'" 
+</brush:>
+
 
 {{:en:obs:obs-29-06.jpg?nolink&640x360}}
 
-“The man fell on his knees and said, ‘Please be patient with me, and I will pay everything back.’ But the servant refused and threw the man in prison until he could pay the debt.”
+
+<brush: text; plain-text>
+ "فَخَر الرجل على ركبتيه وقال، 'أرجوك تَمَهَّلْ عَلَيَّ، فَأُوفِيَكَ الْجَمِيعَ.' لكن العبد رَفَض وألقى الرجُل في السجن حتى يتمكن من دفْع الدَّين." 
+</brush:>
+
 
 {{:en:obs:obs-29-07.jpg?nolink&640x360}}
 
-“Some other servants saw what had happened and were greatly disturbed. They went to the king and told him everything.”
+
+<brush: text; plain-text>
+  "ورأى بعض العبيد الآخرين ما حدث وحزنوا جِداً. فذهبوا إلى المَلِك وحكوا له كل شيء." 
+</brush:>
+
 
 {{:en:obs:obs-29-08.jpg?nolink&640x360}}
 
-“The king called the servant and said, ‘You wicked servant! I forgave your debt because you begged me. You should have done the same.’ In his anger the king threw the wicked servant into prison until he paid back all of his debt.”
+
+<brush: text; plain-text>
+ "فدعا المَلِك العبد وقال، 'أيها العبد الشرير! أنا غَفَرْت لك ديونك لأنك توسلْت إليّ. كان يجب عليك أن تفعَل نفْس الشيء.' وبغضب ألقى المَلِك العبد الشرير في السجن حتى يسدِّد جميع ديونه." 
+</brush:>
+
 
 {{:en:obs:obs-29-09.jpg?nolink&640x360}}
 
-Then Jesus said, “This is what my heavenly Father will do to every one of you if you do not forgive your brother from your heart.”
 
-
-//A Bible story from: Matthew 18:21-35//
+<brush: text; plain-text>
+  ثم قال يسوع، "هكذا أبي السماوي يفعل بكل واحد منكم إن لم تغفر لأخيك من قلبك." 
+</brush:>
+<brush: text; plain-text>
+قصة الكتاب المقدس من: متى 21:18-35
+</brush:>
