@@ -1,56 +1,110 @@
-====== 18. The Divided Kingdom ======
+<brush: text; plain-text>
+18. المملكة المنقسمة
+</brush:>
+
 
 {{:en:obs:obs-18-01.jpg?nolink&640x360}}
 
-After David died, his son Solomon began to rule. God spoke to Solomon and asked him what he wanted most. When Solomon asked for wisdom, God was pleased and made him the wisest man in the world. God also made him very wealthy.
+
+<brush: text; plain-text>
+ وبعد موت داود، بدأ ابنه سليمان بالحكم. وتكلم الله لسليمان وسأله ما أكثر شيء يريده. وعندما سأل سليمان عن الحكمة، كان الله راضياً، وجعله أحكم رجل في العالم. كما أن الله جعله غنياً جداً. 
+</brush:>
+
 
 {{:en:obs:obs-18-02.jpg?nolink&640x360}}
 
-In Jerusalem, Solomon built the Temple for which his father David had planned and gathered materials. Instead of the Tent of Meeting, people now worshiped God and offered sacrifices to Him in the Temple. God came and was present in the Temple, and He lived there with His people.
+
+<brush: text; plain-text>
+ وفي أورشليم، بنى سليمان الهيكل الذي كان والده داود قد أعدّ له وجمع مواده. فبدلاً من خيمة الاجتماع، عبدَ الناس الله الآن، وقدموا له ذبائحاً في الهيكل. وجاء الله وكان حاضراً في الهيكل، وسكنَ هناك مع شعبه. 
+</brush:>
+
 
 {{:en:obs:obs-18-03.jpg?nolink&640x360}}
 
-But Solomon loved women from other countries. He disobeyed God by marrying many women, almost 1,000 of them! Many of these women came from foreign countries and brought their gods with them and worshiped them. When Solomon was old, he worshiped their gods.
+
+<brush: text; plain-text>
+ ولكن سليمان أحبَّ النساء من البلدان الأخرى. وعصى الله بزواجه من نساء كثيرات، تقريبا 1000 واحدة! والعديد من هؤلاء النساء جِئْنَ من بلاد أجنبية وجَلَبْنَ معهنّ آلهتهن وسَجَدْنَ لها. وعندما شاخَ سليمان عَبَدَ آلهتهُنّ. 
+</brush:>
+
 
 {{:en:obs:obs-18-04.jpg?nolink&640x360}}
 
-God was angry with Solomon and, as a punishment for Solomon’s unfaithfulness, said He would divide the kingdom of Israel in two after Solomon’s death.
+
+<brush: text; plain-text>
+  وكان الله غاضبا من سليمان، وكعقاب على عدم أمانة سليمان، قال إنه سيقسم مملكة إسرائيل إلى قسمين بعد موت سليمان. 
+</brush:>
+
 
 {{:en:obs:obs-18-05.jpg?nolink&640x360}}
 
-After Solomon died, his son, Rehoboam, became king. Rehoboam was a foolish man. All the people of Israel came together to confirm him as king. They also complained that Solomon had made them do a lot of hard work and pay a lot of taxes.
+
+<brush: text; plain-text>
+  فبعد موت سليمان، أصبح ابنه رَحُبْعَام ملكاً. وكان رَحُبْعَام رجلاً غبيّاً. وجاءَ إليه كل شعب إسرائيل معا لتثبيته كملك. واشتكوا أيضا من أن سليمان قد جعلهم يعملون أعمالا شاقة كثيرة ويدفعون ضرائب كثيرة.
+</brush:>
+
 
 {{:en:obs:obs-18-06.jpg?nolink&640x360}}
 
-Rehoboam answered foolishly and told them, “You thought my father Solomon made you work hard, but I will make you work harder than he did, and I will punish you worse than he did.”
+
+<brush: text; plain-text>
+فأجابَ رَحُبْعَام بحماقةٍ وقال لهم، "أنتم تعتقدون أنّ سليمان أبي جعلكم تعملون أعمالا شاقة، وأمّا أنا فسأجعلكم تعملون أصعب مما كان يفعله، وسأعاقبكم أسوأ مما كان يفعله." 
+</brush:>
+
 
 {{:en:obs:obs-18-07.jpg?nolink&640x360}}
 
-Ten of the tribes of Israel rebelled against Rehoboam. Only two tribes remained faithful to him. These two tribes were called the kingdom of Judah.
+
+<brush: text; plain-text>
+ فَعَصَى عشرة من أسباط إسرائيل ضدّ رَحُبْعَام. وبقي فقط سبطان مُخلِصان له. وكان يُسمَّى هذان السبطان بمملكة يهوذا. 
+</brush:>
+
 
 {{:en:obs:obs-18-08.jpg?nolink&640x360}}
 
-The other ten tribes that rebelled against Rehoboam made a man named Jeroboam their king. They were called the kingdom of Israel.
+
+<brush: text; plain-text>
+ وأما الأسباط العشرة الأخرى التي تمردت ضدّ رَحُبْعَام فملّكوا عليهم رجلاً إسمهُ يَرُبْعَام. وكانوا يُسمُّون بمملكة إسرائيل. 
+</brush:>
+
 
 {{:en:obs:obs-18-09.jpg?nolink&640x360}}
 
-Jeroboam rebelled against God and caused the people to sin. He built two idols for his people to worship instead of worshiping God at the Temple in the kingdom of Judah.
+
+<brush: text; plain-text>
+  وتمردَ يَرُبْعَام على الله وجَعلَ الناس تُخطِئ. فقام ببناء اثنين من الأصنام لشعبه ليعبدوهما بدلا من عبادة الله في الهيكل في مملكة يهوذا. 
+</brush:>
+
 
 {{:en:obs:obs-18-10.jpg?nolink&640x360}}
 
-The kingdoms of Judah and Israel became enemies and often fought against each other.
+
+<brush: text; plain-text>
+ فأصبحت مملكتي يهوذا وإسرائيل أعداءً وكثيرا ما كانا يحاربان ضدّ بعضها البعض. 
+</brush:>
+
 
 {{:en:obs:obs-18-11.jpg?nolink&640x360}}
 
-In the kingdom of Israel, all the kings were evil. Many of these kings were killed by other Israelites who wanted to become king in their place.
+
+<brush: text; plain-text>
+ وكان كل الملوك أشراراً، في مملكة إسرائيل. والعديد من هؤلاء الملوك تم قتلهم من قبل الإسرائيليين الآخرين الذين يريدون أن يصبحوا الملك عوضا عنهم. 
+</brush:>
+
 
 {{:en:obs:obs-18-12.jpg?nolink&640x360}}
 
-All of the kings of Israel and most of the people worshiped idols which often included adultery and sometimes even child sacrifice.
+
+<brush: text; plain-text>
+  وعبدَ كل ملوك إسرائيل ومعظم الناس الأصنام التي شملت في كثير من الأحيان الزنا وحتى التضحية بالأطفال. 
+</brush:>
+
 
 {{:en:obs:obs-18-13.jpg?nolink&640x360}}
 
-The kings of Judah were descendants of David. Some of these kings were good men who ruled justly and worshiped God. But most of Judah’s kings were evil, corrupt, and idol-worshipers. Some of the kings even sacrificed their children to false gods. The people of Judah also rebelled against God and worshiped other gods.
 
-
-//A Bible story from: 1 Kings 1-6; 11-12//
+<brush: text; plain-text>
+ كان ملوك يهوذا من نسل داود. وكان بعض هؤلاء الملوك رجالا صالحين الذين حكموا بالعدل وعبدوا الله. ولكن معظم ملوك يهوذا كانوا أشرارا وفاسدين، وعُباد أوثان. وحتى أنّ بعض الملوك ضحوا بأطفالهم لآلهة كاذبة. وتمردَ شعب يهوذا أيضا ضدّ الله وعبدوا آلهة أخرى. 
+</brush:>
+<brush: text; plain-text>
+قصة الكتاب المقدس من: 1 ملوك 1-6؛ 11-12
+</brush:>
