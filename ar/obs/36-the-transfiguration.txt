@@ -1,32 +1,62 @@
-====== 36. The Transfiguration ======
+<brush: text; plain-text>
+36. التَّجَلّي
+</brush:>
+
 
 {{:en:obs:obs-36-01.jpg?nolink&640x360}}
 
-One day, Jesus took three of his disciples, Peter, James, and John with him. (This John was not the same person who baptized Jesus.) They went up on a high mountain by themselves.
+
+<brush: text; plain-text>
+ في أحد الأيام، أَخذ يسوع ثلاثة من تلاميذه، بطرس، ويعقوب ويوحنا معه. (يوحنا هذا لم يكن نفس الشخص الذي عَمَّد يسوع.) وصَعدوا على جبل عال منفردين. 
+</brush:>
+
 
 {{:en:obs:obs-36-02.jpg?nolink&640x360}}
 
-All of a sudden, Jesus’ face became as bright as the sun and his clothes became as white as light, whiter than anyone on earth could make them.
+
+<brush: text; plain-text>
+  وفجأة، أصبحَ وجه يسوع مضيئاً مثل الشمس وصار لباسهُ مُبْيَضًّا مثل النور، وأكثر بياضاً من أن يمكن لأي شخص على الأرض أن يجعله كذلك. 
+</brush:>
+
 
 {{:en:obs:obs-36-03.jpg?nolink&640x360}}
 
-Then Moses and Elijah, who had both lived hundreds of years earlier, appeared. They talked with Jesus about his death which would soon happen in Jerusalem.
+
+<brush: text; plain-text>
+  ثم ظَهَر موسى وإيليا، الذان كانا كلاهما يعيشان قبل مئات السنين. وتحدثا مع يسوع عن موته الذي سيحدُث قريباً في أورشليم. 
+</brush:>
+
 
 {{:en:obs:obs-36-04.jpg?nolink&640x360}}
 
-As Moses and Elijah were talking with Jesus, Peter said, “Jesus, it is good for us to be here. Let us make three tents, one for you, one for Moses, and one for Elijah.” Peter did not know what he was saying.
+
+<brush: text; plain-text>
+  وفيما كان موسى وإيليا يتحدثان مع يسوع، قال بطرس، "يا يسوع، جَيِّدٌ أَنْ نَكُونَ ههُنَا. فَلْنَصْنَعْ ثَلاَثَ خيام: لَكَ وَاحِدَةً، وَلِمُوسَى وَاحِدَةً، وَلإِيلِيَّا وَاحِدَةً." ولم يكن بطرس يَعْلَم ما كان يقوله. 
+</brush:>
+
 
 {{:en:obs:obs-36-05.jpg?nolink&640x360}}
 
-As Peter was talking, a bright cloud came down on top of them and a voice from the cloud said, “This is My Son whom I love. I am pleased with him. Listen to him.” The three disciples were terrified and fell on the ground.
+
+<brush: text; plain-text>
+  وفيما كان بطرس يتكلم، جاءت سحابةٌ نيّرة وظَلَّلَتهم، وإذ صوتٌ من السحابة قائلا، "هذَا هُوَ ابْنِي الْحَبِيبُ. به سُررتُ. لَهُ اسْمَعُوا." فخاف التلاميذ الثلاثة وسقطوا على الأرض. 
+</brush:>
+
 
 {{:en:obs:obs-36-06.jpg?nolink&640x360}}
 
-Then Jesus touched them and said, “Do not be afraid. Get up.” When they looked around they saw no one but Jesus.
+
+<brush: text; plain-text>
+ حينئذ لمسهم يسوع وقال، "لا تخافوا. قوموا." ولما نظروا حوْلهم لم يروا أحداً إلا يسوع. 
+</brush:>
+
 
 {{:en:obs:obs-36-07.jpg?nolink&640x360}}
 
-As they went back down the mountain, Jesus said, “Do not tell anyone about what happened here until after I have been raised from the dead.”
 
-
-//A Bible story from: Matthew 17:1-9; Mark 9:2-8; Luke 9:28-36//
+<brush: text; plain-text>
+  وفيما هم نازلون من الجبل، قال يسوع، "لا تُخْبِرُوا أَحَدًا بما حَدَث هنا حتى أقوم أنا من بين الأموات." 
+</brush:>
+<brush: text; plain-text>
+قصة الكتاب المقدس من: متى 1:17-9؛ مرقس 2:9-8؛ لوقا 28:9-36
+</brush:>
