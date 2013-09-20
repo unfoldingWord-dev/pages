@@ -7,7 +7,7 @@ __DELETE__
 obs-04-04
 
 
-Hundreds of years later, God spoke to a man named Abram. God told him, “Leave your country and family and go to the land I will show you.//I will bless you and make you a great nation. I will make your name great. I will bless those who bless you and curse those who curse you. All families on earth will be blessed because of you.//” 
+Hundreds of years later, God spoke to a man named Abram. God told him, “Leave your country and family and go to the land I will show you.//I will bless you and make you a great nation. I will make your name great. I will bless those who bless you and curse those who curse you. All families on earth will be blessed because of you.//”
 
 
 obs-04-05
@@ -59,3 +59,27 @@ obs-05-04
 
 
 "Your wife, Sarai, will have a son—he will be the son of promise. Name him Isaac. My covenant will be with him, and he will become a great nation. //I will make Ishmael a great nation, too, but my covenant will be with Isaac.//" Then God changed Abram's name to Abraham, which means "father of many." God also changed Sarai's name to Sarah, which means "princess."
+
+
+obs-05-05
+
+
+//That day Abraham circumcised all the males in his household. About a year later//, when Abraham was 100 years old and Sarah was 90, Sarah gave birth to Abraham's son. They named him Isaac as God had told them to do.
+
+
+obs-05-07 (new picture 01_Ge_22_05_RG.jpg)
+
+
+As they walked to the place of the sacrifice Isaac asked, “Father, we have wood for the sacrifice, but where is the lamb?” Abraham replied, “God will provide the lamb.”
+
+
+obs-05-07 [Abraham, Isaac on altar] becomes obs-05-08
+
+
+//When they reached the place of sacrifice, Abraham // tied up his son Isaac and laid him on an altar. He was about to kill his son when God said, "Stop! Do not hurt the boy! Now I know that you fear me because you did not keep your only son from me."
+
+
+obs-05-08 becomes obs-05-09
+
+
+obs-05-09 becomes obs-05-10
