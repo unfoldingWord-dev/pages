@@ -1,0 +1,61 @@
+//ADD// 
+
+
+__DELETE__ 
+
+
+obs-04-04
+
+
+Hundreds of years later, God spoke to a man named Abram. God told him, “Leave your country and family and go to the land I will show you.//I will bless you and make you a great nation. I will make your name great. I will bless those who bless you and curse those who curse you. All families on earth will be blessed because of you.//” 
+
+
+obs-04-05
+
+
+So Abram obeyed. He took his wife, Sarai, and all his servants and herds of animals and went to the land God showed him, the land of Canaan. __Abram lived there for many years. There God made a covenant with Abram. A covenant is an agreement between two parties.__ 
+
+
+obs-04-06
+
+
+//When Abram arrived in Canaan // God said, "Look all around you. All the land that you can see I will give to you and your descendants as an inheritance. I will bless you and make your name great." //Then Abram settled in the land.// 
+
+
+obs-04-09 [Melchizedek] becomes obs-04-07 (04-07 becomes 04-09, 04-08 becomes 05-03)
+
+
+obs-05-01 [Abraham, stars] becomes obs-04-08
+
+
+//Abram and Sarai waited many years, but they still had no son. Then God spoke to Abram and said, “Look up at the stars and count them if you can. You will have that many descendants.” Abram believed God's promise. God said that Abram was righteous through believing in God's promise.// 
+
+
+obs-04-07 [crowd of people] becomes 04-09
+
+
+//Then God made a covenant with Abram. A covenant is an agreement between two parties. God said, " I will give you a son from your own body. To your descendants I give the land of Canaan.” But Abram still had no son.// 
+
+
+obs-05-02 [Abram, Sarai, Hagar] becomes obs-05-01
+
+
+//Ten years after they arrived in Canaan, Abram and Sarai still did not have a child. So// Abram's wife, //Sarai//, said to him, "Since the LORD has not allowed me to have children and now I am too old to have children, here is my servant, Hagar. Marry her also so she can have a child for me."
+
+
+obs-05-03 [Abram, Sarai, Hagar, Ishmael] becomes obs-05-02
+
+
+//So Abram married Hagar. Hagar had a baby boy, and Abram named him Ishmael. But Sarai became jealous of Hagar. When Ishmael was thirteen years old, God again spoke to Abram and said,// 
+
+
+obs-04-08 [Abram bowing before God] becomes obs 05-03
+
+
+//“I am God Almighty. I will make a covenant with you.” Then Abraham bowed to the ground. God said, “You will be the father of many nations. I will give you and your descendants the land of Canaan as their possession and I will be their God forever. Every male in your family must be circumcised.”// 
+
+
+obs-05-04
+
+
+"Your wife, Sarai, will have a son—he will be the son of promise. Name him Isaac. My covenant will be with him, and he will become a great nation. //I will make Ishmael a great nation, too, but my covenant will be with Isaac.//" Then God changed Abram's name to Abraham, which means "father of many." God also changed Sarai's name to Sarah, which means "princess."
