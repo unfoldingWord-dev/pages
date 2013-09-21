@@ -4,7 +4,7 @@
 {{:en:obs:obs-49-01.jpg?nolink&640x360}}
 
 
-Jesus’ mother, Mary, was a virgin when he was born because Jesus is God’s Son. Jesus is both God and man at the same time.
+<font 14px line-height: 19px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19px;;;#ffffff>مریم، مادر مسیح زمانی که مسیح به دنیا آمد یک باکره بود چون مسیح پسر خداست. مسیح در یک زمان هم خداست و هم انسان.</font>
 
 
 {{:en:obs:obs-49-02.jpg?nolink&640x360}}
