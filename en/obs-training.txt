@@ -1,3 +1,24 @@
 ====== Welcome to Open Bible Stories Translation Training ======
 
+**First**, watch this video:
+
 //video intro//
+
+(+ text script, matches the video)
+
+
+**Second**, understand how to use the tools:
+
+//tools video//
+
+(+ text script, matches the video)
+
+
+**Third**, let's translate a story:
+
+  * translate a story --> (how to choose the target language? how to choose the source language?)
+  * record the audio for the story
+  * convert the audio into a video
+  * show the video to others
+  * test the quality of the translation
+
