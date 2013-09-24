@@ -22,3 +22,7 @@
   * show the video to others
   * test the quality of the translation
 
+===== Getting Started =====
+
+  - **Key Terms** -- identify the key terms for stories.
+
