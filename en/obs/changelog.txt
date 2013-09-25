@@ -90,25 +90,35 @@ obs-45-01 through 45-07 become obs-45-07 through 45-13.
 
 obs-46-01 through 46-06 become obs-45-01 through 45-06. 
 
-obs-46-07 --> obs-46-01
-
-obs-46-08 --> obs-46-02
-
-obs-46-09 --> obs-46-03
-
-44_Ac_09_06_RG --> obs-46-04
-
-obs-46-10 through 46-12 --> obs-46-05 through 46-07
-
-44_Ac_09_18_RG --> obs-46-08
-
-44_Ac_09_20_RG --> obs-46-09
-
-44_Ac_09_21_RG --> obs-46-10
-
 obs-45-06 -- A man named Saul approved of Stephen’s execution and guarded the belongings of those who stoned Stephen. That day many people attacked the Christians, and they were scattered through that region. //But everywhere they went they preached about Jesus.//
 
 obs-45-07 (formerly 45-01) -- //Philip, one of Jesus' disciples, went to Samaria where he preached about Jesus and many were saved. Then one day an angel from God told Philip to go to the desert on the road to Gaza. As he walked along the road, Philip saw an important official from Ethiopia sitting in his chariot. The Holy Spirit told Philip to go up and talk to this man.//
 
-obs-46-02 (formerly 46-09) -- As Saul was on his way to Damascus, Jesus appeared to him in a bright light and said, “Saul! //Saul!// Why do you persecute me?” He said, “Who are you, Master?” Jesus replied, “I am Jesus whom you are persecuting.”
 
+
+obs-46-05 (formerly 46-10) -- //So Ananias said to Saul, “Jesus who appeared to you on the road sent me to you so that you can regain your sight and be filled with the Holy Spirit.” Paul immediately regained his sight. Then Paul was baptized. He ate some food and his strength returned.//
+
+obs-46-06 (formerly 46-11) -- //Immediately, Saul was baptized and began preaching to the Jews, saying, “Jesus is the Son of God!” The Jews were amazed that the man who had tried to destroy the Christians was now a Christian. Saul argued with the Jews, proving that Jesus was the Messiah. Saul became known as Paul.//
+
+obs-46-07 (formerly 46-12) -- After many days, the Jews made a plan to kill Paul. They placed people at the city gates to kill him. But Paul heard about the plan, and his friends helped him escape. One night they lowered him over the city wall in a basket. //In this way Paul was able to escape.//
+
+
+obs-46-07 --> obs-46-01
+
+obs-46-08 --> obs-46-02 -- As Saul was on his way to Damascus, Jesus appeared to him in a bright light and said, “Saul! //Saul!// Why do you persecute me?” He said, “Who are you, Master?” Jesus replied, “I am Jesus whom you are persecuting.”
+
+obs-46-09 --> obs-46-03
+
+44_Ac_09_06_RG --> obs-46-04 -- //Then God appeared to a Christian named Ananias and said, "Go to the house where Saul is staying. Lay your hands on him so that he can see again.” But Ananias said, “Lord, I have heard how he has attacked the Christians.” God said, “I have chosen him to declare My name to the unsaved. I will show him how much he must suffer for My sake."//
+
+obs-46-10 --> obs-46-05 
+
+obs-46-11 --> obs-46-06
+
+obs-46-12 --> obs-46-07
+
+44_Ac_09_18_RG --> obs-46-08 -- //Paul went to Jerusalem to meet with the disciples, but at first the Christians were afraid of Paul. Finally, a Christian named Barnabas took Paul to the disciples and told them how Paul had preached boldly in Jerusalem. Then they accepted Paul.//
+
+44_Ac_09_20_RG --> obs-46-09 -- //Later, Paul and Barnabas went to the city of Antioch where they taught many people about Jesus and strengthened the church. One day, the Christians at Antioch were fasting and praying and the Holy Spirit said, “I have chosen Paul and Barnabas to do the work I have called them to do.”//
+
+44_Ac_09_21_RG --> obs-46-10 -- So the church prayed for them, laid their hands on them and sent them off to preach the Good News of Jesus. They preached about Jesus in many places and many people believed in Jesus.
