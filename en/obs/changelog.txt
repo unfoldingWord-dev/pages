@@ -62,11 +62,13 @@ obs-13-01 -- After God led the Israelites through the Red Sea, He led them throu
 
 obs-14-11 -- During that time of wandering, God provided for them. He gave them bread from heaven, called “manna.” He also sent quail (//which is// a kind of bird) into their camp so they could have meat to eat. During those forty years, God kept their clothes and shoes from wearing out.
 
-obs-17-02 -- This man’s name was David. He was a shepherd. While watching the sheep, David had killed both a lion and a bear which had attacked the sheep. David was __also__ a humble and righteous man who trusted and obeyed God.
+obs-17-02 -- This man’s name was David. He was a shepherd// from Bethlehem//. While watching the sheep, David had killed both a lion and a bear which had attacked the sheep. David was __also__ a humble and righteous man who trusted and obeyed God.
 
 obs-17-13 -- After Uriah was killed, David married Bathsheba. Later, she gave birth to //David's// son. God was not pleased with what David had done, so He sent the prophet Nathan to show David his sin. David repented of his sin and God forgave him. For the rest of his life, David trusted God, even in difficult times.
 
 obs-18-04 -- God was angry with Solomon and, as a punishment for Solomon’s unfaithfulness, //He promised to divide// the kingdom of Israel in two after Solomon’s death.
+
+obs-19-05 -- After three// and a half// years, God told Elijah to return to Israel and speak with Ahab because He was going to send rain again. When Ahab saw Elijah he said, “There you are, you troublemaker!” Elijah said, “You are the troublemaker! You have abandoned the true God and worshiped Baal. Bring all of Israel to Mount Carmel.”
 
 obs-20-01 -- The nations of Israel and Judah both sinned against God. They broke the Covenant that God made with them at __Mount __ Sinai. God sent His prophets to warn them to repent and worship Him again, but they refused to listen.
 
@@ -121,4 +123,6 @@ obs-46-12 --> obs-46-07
 
 44_Ac_09_20_RG --> obs-46-09 -- //Later, Paul and Barnabas went to the city of Antioch where they taught many people about Jesus and strengthened the church. One day, the Christians at Antioch were fasting and praying and the Holy Spirit said, “I have chosen Paul and Barnabas to do the work I have called them to do.”//
 
-44_Ac_09_21_RG --> obs-46-10 -- So the church prayed for them, laid their hands on them and sent them off to preach the Good News of Jesus. They preached about Jesus in many places and many people believed in Jesus.
+44_Ac_09_21_RG --> obs-46-10 -- //So the church prayed for them, laid their hands on them and sent them off to preach the Good News of Jesus. They preached about Jesus in many places and many people believed in Jesus.//
+
+obs-47-06 The men who owned the slave girl became very angry when they realized //the slave girl could no longer make money for them.//
