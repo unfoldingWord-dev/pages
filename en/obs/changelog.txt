@@ -4,205 +4,109 @@
 __DELETE__ 
 
 
-obs-01-03
+obs-01-03 -- On the second day of creation, God spoke and created the sky above the earth. //He made the sky by separating the water above from the water below.// 
 
+obs-03-01 -- //After a long time//, many people were living in the world. They had become very wicked and violent. It became so bad that God decided to destroy the whole world with a huge flood.
 
-On the second day of creation, God spoke and created the sky above the earth. //He made the sky by separating the water above from the water below.// 
+obs-04-04 -- Hundreds of years later, God spoke to a man named Abram. God told him, “Leave your country and family and go to the land I will show you.//I will bless you and make you a great nation. I will make your name great. I will bless those who bless you and curse those who curse you. All families on earth will be blessed because of you.//”
 
+obs-04-05 -- So Abram obeyed. He took his wife, Sarai, and all his servants and herds of animals and went to the land God showed him, the land of Canaan. __Abram lived there for many years. There God made a covenant with Abram. A covenant is an agreement between two parties.__ 
 
-obs-03-01
+obs-04-06 -- //When Abram arrived in Canaan // God said, "Look all around you. All the land that you can see I will give to you and your descendants as an inheritance. I will bless you and make your name great." //Then Abram settled in the land.// 
 
+obs-04-09 [Melchizedek] becomes obs-04-07 
 
-//After a long time//, many people were living in the world. They had become very wicked and violent. It became so bad that God decided to destroy the whole world with a huge flood.
+obs-04-07 becomes 04-09
 
+obs-04-08 becomes 05-03
 
-obs-04-04
+obs-05-01 [Abraham, stars] becomes obs-04-08 -- //Abram and Sarai waited many years, but they still had no son. Then God spoke to Abram and said, “Look up at the stars and count them if you can. You will have that many descendants.” Abram believed God's promise. God said that Abram was righteous through believing in God's promise.// 
 
+obs-04-07 [crowd of people] becomes 04-09 -- //Then God made a covenant with Abram. A covenant is an agreement between two parties. God said, " I will give you a son from your own body. To your descendants I give the land of Canaan.” But Abram still had no son.// 
 
-Hundreds of years later, God spoke to a man named Abram. God told him, “Leave your country and family and go to the land I will show you.//I will bless you and make you a great nation. I will make your name great. I will bless those who bless you and curse those who curse you. All families on earth will be blessed because of you.//”
+obs-05-02 [Abram, Sarai, Hagar] becomes obs-05-01 -- //Ten years after they arrived in Canaan, Abram and Sarai still did not have a child. So// Abram's wife, //Sarai//, said to him, "Since the LORD has not allowed me to have children and now I am too old to have children, here is my servant, Hagar. Marry her also so she can have a child for me."
 
+obs-05-03 [Abram, Sarai, Hagar, Ishmael] becomes obs-05-02 -- //So Abram married Hagar. Hagar had a baby boy, and Abram named him Ishmael. But Sarai became jealous of Hagar. When Ishmael was thirteen years old, God again spoke to Abram and said,// 
 
-obs-04-05
+obs-04-08 [Abram bowing before God] becomes obs 05-03 -- //“I am God Almighty. I will make a covenant with you.” Then Abraham bowed to the ground. God said, “You will be the father of many nations. I will give you and your descendants the land of Canaan as their possession and I will be their God forever. Every male in your family must be circumcised.”// 
 
+obs-05-04 -- "Your wife, Sarai, will have a son—he will be the son of promise. Name him Isaac. My covenant will be with him, and he will become a great nation. //I will make Ishmael a great nation, too, but my covenant will be with Isaac.//" Then God changed Abram's name to Abraham, which means "father of many." God also changed Sarai's name to Sarah, which means "princess."
 
-So Abram obeyed. He took his wife, Sarai, and all his servants and herds of animals and went to the land God showed him, the land of Canaan. __Abram lived there for many years. There God made a covenant with Abram. A covenant is an agreement between two parties.__ 
+obs-05-05 -- //That day Abraham circumcised all the males in his household. About a year later//, when Abraham was 100 years old and Sarah was 90, Sarah gave birth to Abraham's son. They named him Isaac as God had told them to do.
 
+obs-05-07 (new picture 01_Ge_22_05_RG.jpg) -- As they walked to the place of the sacrifice Isaac asked, “Father, we have wood for the sacrifice, but where is the lamb?” Abraham replied, “God will provide the lamb.”
 
-obs-04-06
-
-
-//When Abram arrived in Canaan // God said, "Look all around you. All the land that you can see I will give to you and your descendants as an inheritance. I will bless you and make your name great." //Then Abram settled in the land.// 
-
-
-obs-04-09 [Melchizedek] becomes obs-04-07 (04-07 becomes 04-09, 04-08 becomes 05-03)
-
-
-obs-05-01 [Abraham, stars] becomes obs-04-08
-
-
-//Abram and Sarai waited many years, but they still had no son. Then God spoke to Abram and said, “Look up at the stars and count them if you can. You will have that many descendants.” Abram believed God's promise. God said that Abram was righteous through believing in God's promise.// 
-
-
-obs-04-07 [crowd of people] becomes 04-09
-
-
-//Then God made a covenant with Abram. A covenant is an agreement between two parties. God said, " I will give you a son from your own body. To your descendants I give the land of Canaan.” But Abram still had no son.// 
-
-
-obs-05-02 [Abram, Sarai, Hagar] becomes obs-05-01
-
-
-//Ten years after they arrived in Canaan, Abram and Sarai still did not have a child. So// Abram's wife, //Sarai//, said to him, "Since the LORD has not allowed me to have children and now I am too old to have children, here is my servant, Hagar. Marry her also so she can have a child for me."
-
-
-obs-05-03 [Abram, Sarai, Hagar, Ishmael] becomes obs-05-02
-
-
-//So Abram married Hagar. Hagar had a baby boy, and Abram named him Ishmael. But Sarai became jealous of Hagar. When Ishmael was thirteen years old, God again spoke to Abram and said,// 
-
-
-obs-04-08 [Abram bowing before God] becomes obs 05-03
-
-
-//“I am God Almighty. I will make a covenant with you.” Then Abraham bowed to the ground. God said, “You will be the father of many nations. I will give you and your descendants the land of Canaan as their possession and I will be their God forever. Every male in your family must be circumcised.”// 
-
-
-obs-05-04
-
-
-"Your wife, Sarai, will have a son—he will be the son of promise. Name him Isaac. My covenant will be with him, and he will become a great nation. //I will make Ishmael a great nation, too, but my covenant will be with Isaac.//" Then God changed Abram's name to Abraham, which means "father of many." God also changed Sarai's name to Sarah, which means "princess."
-
-
-obs-05-05
-
-
-//That day Abraham circumcised all the males in his household. About a year later//, when Abraham was 100 years old and Sarah was 90, Sarah gave birth to Abraham's son. They named him Isaac as God had told them to do.
-
-
-obs-05-07 (new picture 01_Ge_22_05_RG.jpg)
-
-
-As they walked to the place of the sacrifice Isaac asked, “Father, we have wood for the sacrifice, but where is the lamb?” Abraham replied, “God will provide the lamb.”
-
-
-obs-05-07 [Abraham, Isaac on altar] becomes obs-05-08
-
-
-//When they reached the place of sacrifice, Abraham // tied up his son Isaac and laid him on an altar. He was about to kill his son when God said, "Stop! Do not hurt the boy! Now I know that you fear me because you did not keep your only son from me."
-
+obs-05-07 [Abraham, Isaac on altar] becomes obs-05-08 -- //When they reached the place of sacrifice, Abraham // tied up his son Isaac and laid him on an altar. He was about to kill his son when God said, "Stop! Do not hurt the boy! Now I know that you fear me because you did not keep your only son from me."
 
 obs-05-08 becomes obs-05-09
 
-
 obs-05-09 becomes obs-05-10
 
+obs-06-04 -- After a long time, Abraham died and all of the promises that God had made to him in the covenant were passed on to Isaac. //God had promised that Isaac would have countless descendants, but Isaac’s wife, Rebekah, could not have children. // 
 
-obs-06-04
+obs-06-05 -- Isaac prayed for Rebekah, and God allowed her to get pregnant with twins. //The two children struggled with each other, so Rebekah asked God what was happening. // 
 
+obs-06-06 -- //God told Rebekah, "There are two nations inside of you. They will struggle with each other and the older son will serve the younger one."// 
 
-After a long time, Abraham died and all of the promises that God had made to him in the covenant were passed on to Isaac. //God had promised that Isaac would have countless descendants, but Isaac’s wife, Rebekah, could not have children. // 
-
-
-obs-06-05
-
-
-Isaac prayed for Rebekah, and God allowed her to get pregnant with twins. //The two children struggled with each other, so Rebekah asked God what was happening. // 
-
-
-obs-06-06
-
-
-//God told Rebekah, "There are two nations inside of you. They will struggle with each other and the older son will serve the younger one."// 
-
-
-obs-07-05
-
-
-Esau hated Jacob because Jacob //had stolen // his rights as oldest son and also his blessing. So he planned to kill Jacob after their father died.
-
+obs-07-05 -- Esau hated Jacob because Jacob //had stolen // his rights as oldest son and also his blessing. So he planned to kill Jacob after their father died.
 
 obs-08-01 (picture - brother yelling at Joseph) and obs-08-02 (picture - Jacob with Joseph on donkey) are switched around. Text is correct, pictures are mislabeled (but videos are labeled correctly).
 
-
-obs-09-07
-
-
-A daughter of Pharaoh saw the basket and looked inside. When she saw the baby, she took him as her own son. She hired the baby’s own mother to nurse him. When the child //was old enough, his mother returned him to Pharaoh’s daughter. She named him Moses.// 
-
+obs-09-07 -- A daughter of Pharaoh saw the basket and looked inside. When she saw the baby, she took him as her own son. She hired the baby’s own mother to nurse him. When the child //was old enough, his mother returned him to Pharaoh’s daughter. She named him Moses.// 
 
 obs-11-06 and -07 –> obs-11-07 & -08. Upload obs-11-06 (family with lamp and dead firstborn)
 
+obs-12-01 -- The Israelites were very happy to leave Egypt. They were no longer slaves, and they were going to the Promised Land! The Egyptians gave the Israelites gifts of gold and silver and other valuable things.//Some people from other nations// believed in God and joined the Israelites as they left Egypt.
 
-obs-12-01
+obs-13-01 -- After God led the Israelites through the Red Sea, He led them through the wilderness to a mountain called Sinai. //This was the same mountain where Moses saw the burning bush.// The people set up their tents at the base of the mountain.
 
+obs-14-11 -- During that time of wandering, God provided for them. He gave them bread from heaven, called “manna.” He also sent quail (//which is// a kind of bird) into their camp so they could have meat to eat. During those forty years, God kept their clothes and shoes from wearing out.
 
-The Israelites were very happy to leave Egypt. They were no longer slaves, and they were going to the Promised Land! The Egyptians gave the Israelites gifts of gold and silver and other valuable things.//Some people from other nations// believed in God and joined the Israelites as they left Egypt.
+obs-17-02 -- This man’s name was David. He was a shepherd. While watching the sheep, David had killed both a lion and a bear which had attacked the sheep. David was __also__ a humble and righteous man who trusted and obeyed God.
 
+obs-17-13 -- After Uriah was killed, David married Bathsheba. Later, she gave birth to //David's// son. God was not pleased with what David had done, so He sent the prophet Nathan to show David his sin. David repented of his sin and God forgave him. For the rest of his life, David trusted God, even in difficult times.
 
-obs-13-01
+obs-18-04 -- God was angry with Solomon and, as a punishment for Solomon’s unfaithfulness, //He promised to divide// the kingdom of Israel in two after Solomon’s death.
 
+obs-20-01 -- The nations of Israel and Judah both sinned against God. They broke the Covenant that God made with them at __Mount __ Sinai. God sent His prophets to warn them to repent and worship Him again, but they refused to listen.
 
-After God led the Israelites through the Red Sea, He led them through the wilderness to a mountain called Sinai. //This was the same mountain where Moses saw the burning bush.// The people set up their tents at the base of the mountain.
+obs-21-01 -- //From the very beginning, God had a plan to send the Messiah.// The first promise of the coming Messiah came to Adam and Eve. God promised that a descendant of Eve would be born who would crush the snake’s head. The snake who deceived Eve is Satan. The promise means the coming Messiah would defeat Satan completely.
 
+obs-22-01 -- //More than 400 years had passed since God had spoken to His people. Then// an angel appeared to an old priest named Zechariah. He was a godly man, but his wife, Elizabeth, could not have any children.
 
-obs-14-11
+obs-23-04 -- About the time Mary was to give birth, the Roman government told everyone to go to the town of their ancestors for a census. Mary and Joseph had to make a long journey from where they lived in Nazareth to Bethlehem// because their ancestor was David whose hometown was Bethlehem//. 
 
+obs-29-08 -- “The king called the servant and said, ‘You wicked servant! I forgave your debt because you begged me. You should have done the same.’ In his anger the king threw the wicked servant into prison until he //could pay// back all of his debt.”
 
-During that time of wandering, God provided for them. He gave them bread from heaven, called “manna.” He also sent quail (//which is// a kind of bird) into their camp so they could have meat to eat. During those forty years, God kept their clothes and shoes from wearing out.
+obs-33-06 -- This story confused the disciples. //So// Jesus explained, “The seed represents the Word of God. The seeds on the path are like people who hear God’s Word, do not understand it, and the devil takes the word from them.”
 
+obs-39-01 -- It was //now// the middle of the night. The soldiers led Jesus to the house of the high priest to be questioned. Peter followed far behind. When Jesus was taken into the house, Peter stayed outside and warmed himself by a fire.
 
-obs-17-02
+obs-39-02 -- Inside the house, the Jewish leaders put Jesus on trial. They brought many witnesses who lied about him. However, their statements did not agree with each other, so they could not prove he was guilty// of anything//. Jesus did not say anything.
 
+obs-40-01 -- //After mocking Jesus, the soldiers led him away to be crucified. They made// him carry his own cross.
 
-This man’s name was David. He was a shepherd. While watching the sheep, David had killed both a lion and a bear which had attacked the sheep. David was __also__ a humble and righteous man who trusted and obeyed God.
+obs-45-01 through 45-07 become obs-45-07 through 45-13. 
 
+obs-46-01 through 46-06 become obs-45-01 through 45-06. 
 
-obs-17-13
+obs-46-07 --> obs-46-01
 
+obs-46-08 --> obs-46-02
 
-After Uriah was killed, David married Bathsheba. Later, she gave birth to //David's// son. God was not pleased with what David had done, so He sent the prophet Nathan to show David his sin. David repented of his sin and God forgave him. For the rest of his life, David trusted God, even in difficult times.
+obs-46-09 --> obs-46-03
 
+44_Ac_09_06_RG --> obs-46-04
 
-obs-18-04
+obs-46-10 through 46-12 --> obs-46-05 through 46-07
 
+44_Ac_09_18_RG --> obs-46-08
 
-God was angry with Solomon and, as a punishment for Solomon’s unfaithfulness, //He promised to divide// the kingdom of Israel in two after Solomon’s death.
+44_Ac_09_20_RG --> obs-46-09
 
+44_Ac_09_21_RG --> obs-46-10
 
-obs-20-01
+obs-45-06 -- A man named Saul approved of Stephen’s execution and guarded the belongings of those who stoned Stephen. That day many people attacked the Christians, and they were scattered through that region. //But everywhere they went they preached about Jesus.//
 
+obs-45-07 (formerly 45-01) -- //Philip, one of Jesus' disciples, went to Samaria where he preached about Jesus and many were saved. Then one day an angel from God told Philip to go to the desert on the road to Gaza. As he walked along the road, Philip saw an important official from Ethiopia sitting in his chariot. The Holy Spirit told Philip to go up and talk to this man.//
 
-The nations of Israel and Judah both sinned against God. They broke the Covenant that God made with them at __Mount __ Sinai. God sent His prophets to warn them to repent and worship Him again, but they refused to listen.
-
-obs-21-01
-
-//From the very beginning, God had a plan to send the Messiah.// The first promise of the coming Messiah came to Adam and Eve. God promised that a descendant of Eve would be born who would crush the snake’s head. The snake who deceived Eve is Satan. The promise means the coming Messiah would defeat Satan completely.
-
-
-obs-22-01
-
-//More than 400 years had passed since God had spoken to His people. Then// an angel appeared to an old priest named Zechariah. He was a godly man, but his wife, Elizabeth, could not have any children.
-
-obs-23-04
-
-About the time Mary was to give birth, the Roman government told everyone to go to the town of their ancestors for a census. Mary and Joseph had to make a long journey from where they lived in Nazareth to Bethlehem// because their ancestor was David whose hometown was Bethlehem//. 
-
-obs-29-08
-
-“The king called the servant and said, ‘You wicked servant! I forgave your debt because you begged me. You should have done the same.’ In his anger the king threw the wicked servant into prison until he //could pay// back all of his debt.”
-
-obs-33-06
-
-This story confused the disciples. //So// Jesus explained, “The seed represents the Word of God. The seeds on the path are like people who hear God’s Word, do not understand it, and the devil takes the word from them.”
-
-obs-39-01
-
-It was //now// the middle of the night. The soldiers led Jesus to the house of the high priest to be questioned. Peter followed far behind. When Jesus was taken into the house, Peter stayed outside and warmed himself by a fire.
-
-obs-39-02
-
-Inside the house, the Jewish leaders put Jesus on trial. They brought many witnesses who lied about him. However, their statements did not agree with each other, so they could not prove he was guilty// of anything//. Jesus did not say anything.
-
-obs-40-01
-
-//After mocking Jesus, the soldiers led him away to be crucified. They made// him carry his own cross.
