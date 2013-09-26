@@ -1,3 +1,8 @@
+
+----
+
+**Open Bible Stories Translation Training**
+
   - [[en:obs-training:01-the-creation|The Creation]]
   - [[en:obs-training:02-sin-enters-the-world|Sin Enters the World]]
   - [[en:obs-training:03-the-flood|The Flood]]
