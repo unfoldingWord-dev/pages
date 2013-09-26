@@ -1,28 +1,40 @@
 ====== 1. The Creation ======
 
 
-**"Executive Summary (Story)"** 
+===== Introduction =====
+
+//the purpose of this section is to provide a concise summary of the story and what we learn about God and His Word from it.//
+
+**Overview:** In this story, God creates everything, including people, and all animals, in 6 days...
 
 
-//God creates everything, including people, and all animals, in 6 days.// 
+===== Theological Study =====
 
+//the purpose of this section is to "dig in" to the important themes and topics in this story, asking key questions and providing the answers.//
+
+**Comprehension questions/answers:**
+
+  * what significant themes or "big picture" topics or themes are contained in this story?
+  * what do we learn about God from this story?
+  * how does this story point to or reference Jesus, the Messiah?
+  * what are the key theological themes that need to be understood in this story? (e.g. grace, forgiveness, Jesus' power over the devil, etc.)
+  * what points of application does this story contain for disciples of Jesus?
+
+===== Translation Helps =====
+
+//in this section, we provide the frame-by-frame translation information and resources that will facilitate the translation of each frame.//
 
 {{:en:obs:obs-01-01.jpg?nolink&640x360}}
 
 
-This is how the beginning of everything happened. God created the universe and everything in it in six days. At first, the earth was dark and empty, and nothing had been formed in it. But God's Spirit was there over the water.
+This is how **the beginning** of everything happened. God **created** the universe and everything in it in six **days**. At first, the earth was dark and empty, and nothing had been formed in it. But **God's Spirit** was there over the water.
 
 
-**Executive Summary (Frame)** 
+**Translation Notes:** 
 
+//here we list any key translation notes or things about which the translator needs to be aware, especially where there are "warning" or "watch out for this" comments we can give them in advance to help them create the best translation possible.//
 
-//God creates the universe and everything in it from nothing.// 
-
-
-**Translation Notes** 
-
-
-Pay close attention to the name for God, and the word used for "day".
+Pay close attention to the name for God, and the word used for "day"...
 
 
     * note the discourse…
@@ -31,11 +43,12 @@ Pay close attention to the name for God, and the word used for "day".
 
 **Key Terms:** 
 
+//every key term in the frame is put in bold text in the text above and listed here as a bullet list. The key term in the bullet list is a link to the page that discusses that key term, it's root meaning, other passages that contain it, etc. (the page itself is keyed to the underlying Strong's number for the term, taken from the original Biblical text underlying this story). The preferred or recommended translation for each key term in this particular frame is included after the term itself in the bullet list.//
 
-    * **[[:en:key-terms:h1254|the beginning]]**-
-    * **[[:en:key-terms:h430|God]]**- Almighty, creator, sinless & perfect…
-    * **created**  - created from nothing…
-    * **day**
+    * **[[:en:key-terms:h1254|the beginning]]** - This refers to "the beginning of all things", or "before everything else"...
+    * **[[:en:key-terms:h430|God]]** - Almighty, creator, sinless & perfect…
+    * **created**  - "created from nothing", or "to cause something to exist"...
+    * **days** - the term refers to a literal 24hr day...
     * **God's Spirit** 
 {{:en:obs:obs-01-02.jpg?nolink&640x360}}
 
