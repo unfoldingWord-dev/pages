@@ -1,7 +1,7 @@
-====== Dark ======
+====== Empty ======
 
 
-===== “there was not yet any light from any source" =====
+===== “contained absolutely nothing - no living things" =====
 
 
 Information that will help the translator know more about the Hebrew or Greek term so they can apply their native language words correctly.
@@ -25,9 +25,7 @@ For example:
 Now that you have decided on a word, you can use the same term in the following places in the Bible stories:
 
 
-**for example - Story 1**  - The Creation - Frames 3, 5, 6, 7, 8, 15 and 16
-
-
+For example - **Story 1**  - The Creation - Frames 3, 5, 6, 7, 8, 15 and 16
 ----
 
 
@@ -49,8 +47,8 @@ for example: [Gen 1:21 ESV] 21 So God created the great sea creatures and every 
 ----
 
 
-==== Strong's: H2822 - chosek ====
+==== Strong's: H9222 - bohu ====
 
 
-    - //definition(s)// 
+    - //definition(s)//
 ----

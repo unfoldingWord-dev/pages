@@ -1,7 +1,7 @@
-====== Dark ======
+====== nothing had been formed ======
 
 
-===== “there was not yet any light from any source" =====
+===== “there were no distinguishing features–just water covering everything" =====
 
 
 Information that will help the translator know more about the Hebrew or Greek term so they can apply their native language words correctly.
@@ -11,7 +11,6 @@ For example:
 
 
     * This term is best translated to have the meaning of…..
-
 
     * Perhaps compare/contrast/refer to other similar words or corresponding terms or Hebrew or Greek words
 
@@ -25,17 +24,15 @@ For example:
 Now that you have decided on a word, you can use the same term in the following places in the Bible stories:
 
 
-**for example - Story 1**  - The Creation - Frames 3, 5, 6, 7, 8, 15 and 16
+For example - **Story 1** - The Creation - Frames 3, 5, 6, 7, 8, 15 and 16
 
 
 ----
 
 
 ----
-
 
 ===== Digging Deeper =====
-
 
 ==== Bible References: ====
 
@@ -49,8 +46,11 @@ for example: [Gen 1:21 ESV] 21 So God created the great sea creatures and every 
 ----
 
 
-==== Strong's: H2822 - chosek ====
+==== Strong's: number- transliteration ====
 
 
-    - //definition(s)// 
+    - //definition(s)//
+
+
 ----
+
