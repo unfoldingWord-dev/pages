@@ -4,7 +4,7 @@
 ===== Heading 2 with the short meaning of the key term =====
 
 
-Normal text for ---- This term is best translated to have the meaning of.....
+Normal text for —- This term is best translated to have the meaning of…..
 
 
 ----
@@ -27,3 +27,12 @@ This word is found in the following Bible verses:
 
 
 Follow the above format using the same English version for the English pages.
+
+
+----
+
+
+----
+
+
+Look at http://door43.org/en/key-terms/h1254a for real data
