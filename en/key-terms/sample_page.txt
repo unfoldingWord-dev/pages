@@ -1,0 +1,29 @@
+====== Heading 1 with the word and Strong's number (this will be the file name) ======
+
+
+===== Heading 2 with the short meaning of the key term =====
+
+
+Normal text for ---- This term is best translated to have the meaning of.....
+
+
+----
+
+
+//Strong's information - with number - root form - and then the transliteration // 
+
+
+    - //further definition in numbered list// 
+//This section is Italicized// 
+
+
+----
+
+
+This word is found in the following Bible verses:
+
+
+[Gen 1:1 ESV] 1
+
+
+Follow the above format using the same English version for the English pages.
