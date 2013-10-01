@@ -1,3 +1,5 @@
 ====== Key Terms ======
 
 This the list of key terms, linked to their corresponding Strong's numbers where possible.
+
+<nspages en:key-terms -title -exclude:home -textPages="List of key terms:">
