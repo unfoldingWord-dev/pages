@@ -1,38 +1,63 @@
-====== Heading 1 with the word and Strong's number (this will be the file name) ======
+====== Sample Page 1 ======
+====== Heading 1 - key term ======
 
 
-===== Heading 2 with the short meaning of the key term =====
+
+===== “heading 3 - short definition from story page" =====
 
 
-Normal text for —- This term is best translated to have the meaning of…..
+Information that will help the translator know more about the Hebrew or Greek term so they can apply their native language words correctly.
+
+
+For example:
+
+
+    * This term is best translated to have the meaning of…..
+    * Perhaps compare/contrast/refer to other similar words or corresponding terms or Hebrew or Greek words
 
 
 ----
 
 
-//Strong's information - with number - root form - and then the transliteration // 
+==== Translator Shortcut: ====
 
 
-    - //further definition in numbered list// 
-//This section is Italicized// 
+Now that you have decided on a word, you can use the same term in the following places in the Bible stories:
+
+
+**Story 1** - The Creation - Frames 3, 5, 6, 7, 8, 15 and 16
 
 
 ----
+
+
+----
+
+===== Digging Deeper =====
+
+
+==== Bible References: ====
 
 
 This word is found in the following Bible verses:
 
 
-[Gen 1:1 ESV] 1
-
-
-Follow the above format using the same English version for the English pages.
+for example: [Gen 1:21 ESV] 21 So God created the great sea creatures and every living creature that moves, with which the waters swarm, according to their kinds, and every winged bird according to its kind. And God saw that it was good.
 
 
 ----
 
 
+==== Strong's: H1254a - bara' (Qal) to shape, fashion, create (always with God as subject) ====
+
+
+    - //of heaven and earth//
+    - //of individual man//
+    - //of new conditions and circumstances//
+    - //of transformations//
+
 ----
 
 
-Look at http://door43.org/en/key-terms/h1254a for real data
+Look at [[http://door43.org/en/key-terms/h1254a|http://door43.org/en/key-terms/h1254a]] for real data
+

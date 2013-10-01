@@ -1,4 +1,7 @@
-====== Heading 1 with the key term and Strong's number (this will be the file name) or if there is no Strong's number then just the key term/phrase ======
+====== Sample Page 2 ======
+
+
+Heading 1 with the key term and Strong's number (this will be the file name) or if there is no Strong's number then just the key term/phrase
 
 
 ===== Heading 2 with the short meaning of the key term =====
@@ -57,4 +60,4 @@ Follow the above format using the same English version for the English pages.
 ----
 
 
-Look at http://door43.org/en/key-terms/h430 for real data
+Look at [[http://door43.org/en/key-terms/h430|http://door43.org/en/key-terms/h430]] for real data
