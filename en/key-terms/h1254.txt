@@ -1,33 +1,23 @@
 ====== Create (h1254) ======
 
+**to create, shape, form**
 
-<code>
-  to create, shape, form
-      (Qal) to shape, fashion, create (always with God as subject)
-          of heaven and earth
-          of individual man
-          of new conditions and circumstances
-          of transformations
-</code>
+  * (Qal) to shape, fashion, create (always with God as subject)
+      * of heaven and earth
+      * of individual man
+      * of new conditions and circumstances
+      * of transformations
 
+  * (Niphal) to be created
+      * of heaven and earth
+      * of birth
+      * of something new
+      * of miracles
 
-<code>
-      (Niphal) to be created
-          of heaven and earth
-          of birth
-          of something new
-          of miracles
-</code>
+  * (Piel)
+      * to cut down
+      * to cut out
 
+**to be fat**
 
-<code>
-      (Piel)
-          to cut down
-          to cut out
-</code>
-
-
-<code>
-  to be fat
-      (Hiphil) to make yourselves fat
-</code>
+  * (Hiphil) to make yourselves fat
