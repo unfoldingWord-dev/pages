@@ -176,11 +176,11 @@ On the sixth **day **  of **creation**, **God **  said, "Let there be all **kind
 **Key Terms:** 
 
 
-    * **day **- a literal 24-hour period
-    * **creation **- the six-day period during which God made everything that exists
+    * **[[:en:key-terms:H3117|day]]** - a literal 24-hour period
+    * **[[:en:key-terms:H1254a|creation]]** - the six-day period during which God made everything that exists
     * **[[:en:key-terms:h430|God]]** - Almighty, creator, sinless and perfect
-    * **kinds **- according to their species
-    * **good **- in agreement with God's character and purposes
+    * **[[:en:key-terms:H4327|kinds]]** - according to their species
+    * **[[:en:key-terms:H2896a|good]]** - in agreement with God's character and purposes
 {{:en:obs:obs-01-09.jpg?nolink&640x360}}
 
 
@@ -191,10 +191,10 @@ Then **God **  said, "Let **us **  make **human beings**  **in our image**  to b
 
 
     * **[[:en:key-terms:h430|God]]** - Almighty, creator, sinless and perfect
-    * **us **- the word "God" is plural, and therefore the pronouns are also plural
-    * **human beings**  - people, both male and female
-    * **in our image**  - similar to the God in many aspects–able to think, interact, and communicate
-    * **authority **- to rule or have dominion over something else
+    * **[[:en:key-terms:us|us]]** - the word "God" is plural, and therefore the pronouns are also plural
+    * **[[:en:key-terms:H120|human beings]]** - people, both male and female
+    * **[[:en:key-terms:H6754|in our image]]**  - similar to the God in many aspects–able to think, interact, and communicate
+    * **[[:en:key-terms:H7287a|authority]]** - to rule or have dominion over something else
 {{:en:obs:obs-01-10.jpg?nolink&640x360}}
 
 
@@ -205,13 +205,13 @@ So **God **  took some **dirt**, **formed **  it into a **man**, and **breathed 
 
 
     * **God **- two words are used together to indicate "the self-existent, eternal Lord of everything" and the "Almighty, creator, sinless and perfect"
-    * **dirt **- dust, dry dirt from the ground
-    * **formed **- formed or fashioned, as if by his hands
-    * **man **- Adam only–Eve was made later
-    * **breathed **- God breathed, or blew life into Adam
-    * **life **- literally, the "breath of life"
-    * **Adam **- Adam's name was literally the Hebrew word for "man"
-    * **garden **- a special collection of trees and plants that God prepared for Adam
+    * **[[:en:key-terms:H6083|dirt]]** - dust, dry dirt from the ground
+    * **[[:en:key-terms:H3335|formed]]** - formed or fashioned, as if by his hands
+    * **[[:en:key-terms:H120|man]]** - Adam only–Eve was made later
+    * **[[:en:key-terms:H5301|breathed** - God breathed, or blew life into Adam
+    * **[[:en:key-terms:H2425b|life]]** - literally, the "breath of life"
+    * **[[:en:key-terms:H120|Adam]]** - Adam's name was literally the Hebrew word for "man"
+    * **[[:en:key-terms:H1588|garden]]** - a special collection of trees and plants that God prepared for Adam
     * **care **- to work at both cultivating the garden, and protecting and preserving it
 {{:en:obs:obs-01-11.jpg?nolink&640x360}}
 
