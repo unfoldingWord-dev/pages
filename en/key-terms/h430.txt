@@ -35,17 +35,6 @@ Now that you have decided on a word, you can use the same term in the following 
 ===== Digging Deeper =====
 
 
-==== //Strong's: H430 - 'elohiym // ====
-
-
-    - //rulers, judges//
-    - //divine ones//
-    - //angels//
-    - //gods// 
-
-----
-
-
 ==== Bible References: ====
 
 
@@ -53,6 +42,19 @@ This word is found in the following Bible verses:
 
 
 [Gen 1:1 ESV] 1
+
+
+----
+
+
+==== Strong's: H430 - 'elohiym ====
+
+
+    - //rulers, judges//
+    - //divine ones//
+    - //angels//
+    - //gods// 
+====  ====
 
 
 ----

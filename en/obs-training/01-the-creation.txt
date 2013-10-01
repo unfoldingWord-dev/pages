@@ -1,5 +1,7 @@
-**[[:en:key-terms:sample_page|sample page]]**
-**[[:en:key-terms:sample_page2|sample page 2]]**
+
+
+**[[:en:key-terms:sample_page|sample page]]** **[[:en:key-terms:sample_page2|sample page 2]]** 
+
 
 ====== 1. The Creation ======
 
@@ -79,6 +81,20 @@ This is the true story of how the earth and everything in it was created. The et
 This is how **the beginning**  of everything happened. **God**  **created**  the universe and everything in it in six **days**. At first, the earth was **dark**  and **empty**, and **nothing had been formed **  in it. But **God's Spirit**  was there over the water.
 
 
+**Key Terms:** 
+
+
+//every key term in the frame is put in bold text in the text above and listed here as a bullet list. The key term in the bullet list is a link to the page that discusses that key term, it's root meaning, other passages that contain it, etc. (the page itself is keyed to the underlying Strong's number for the term, taken from the original Biblical text underlying this story). The preferred or recommended translation for each key term in this particular frame is included after the term itself in the bullet list.// 
+
+
+    * **[[:en:key-terms:h7225|the beginning]]**- This refers to "the beginning of all things", or "before everything else"…
+    * **[[:en:key-terms:h430|God]]**- Almighty, creator, sinless & perfect…
+    * **[[:en:key-terms:h1254a|created]]**- "created from nothing", or "to cause something to exist"…
+    * **[[:en:key-terms:h3117|days]]**- the term refers to a literal 24-hour period
+    * **[[:en:key-terms:h2822|dark]]**- there was not yet any light from any source
+    * **[[:en:key-terms:h922|empty]]**- contained absolutely nothing–no living things
+    * **[[:en:key-terms:h8414|nothing had been formed]]**- there were no distinguishing features–just water covering everything
+    * **[[:en:key-terms:h7307|God's Spirit]]**- the Holy Spirit, the second person of the Trinity
 **Translation Notes:** 
 
 
@@ -92,22 +108,8 @@ Pay close attention to the name for God, and the word used for "day"…
     * note the grammatical features…
 
 
-**Key Terms:** 
-
-
-//every key term in the frame is put in bold text in the text above and listed here as a bullet list. The key term in the bullet list is a link to the page that discusses that key term, it's root meaning, other passages that contain it, etc. (the page itself is keyed to the underlying Strong's number for the term, taken from the original Biblical text underlying this story). The preferred or recommended translation for each key term in this particular frame is included after the term itself in the bullet list.// 
-
-
-    * **[[:en:key-terms:h7225|the beginning]]** - This refers to "the beginning of all things", or "before everything else"…
-    * **[[:en:key-terms:h430|God]]** - Almighty, creator, sinless & perfect…
-    * **[[:en:key-terms:h1254a|created]]** - "created from nothing", or "to cause something to exist"…
-    * **[[:en:key-terms:h3117|days]]** - the term refers to a literal 24-hour period
-    * **[[:en:key-terms:h2822|dark]]** - there was not yet any light from any source
-    * **[[:en:key-terms:h922|empty]]** - contained absolutely nothing–no living things
-    * **[[:en:key-terms:h8414|nothing had been formed]]** - there were no distinguishing features–just water covering everything
-    * **[[:en:key-terms:h7307|God's Spirit]]** - the Holy Spirit, the second person of the Trinity
-
 ----
+
 
 ==== 01-02 ====
 
@@ -118,6 +120,13 @@ Pay close attention to the name for God, and the word used for "day"…
 Then **God spoke **  and said, "Let there be **light**!" And there was **light**. **God **  saw that the **light **  was **good **  and called it "**day**." He separated it from the darkness, which He called "night." **God **  created the **light **  on the first **day **  of **creation**.
 
 
+**Key Terms:** 
+    * **[[:en:key-terms:h430|God]]**- Almighty, creator, sinless and perfect
+    * **[[:en:key-terms:h559|spoke]]**- God created light by means of a simple verbal command
+    * **[[:en:key-terms:h216|light]]**- a special light provided by God–the sun did not yet exist
+    * **[[:en:key-terms:h2896a|good]]**- in agreement with God's character and purposes
+    * **[[:en:key-terms:h3117|day]]**- a literal 24-hour period
+    * **[[:en:key-terms:h1254|creation]]**- the six-day period during which God made everything that exists
 **Translation Notes:** 
 
 
@@ -125,18 +134,10 @@ Pay close attention to …
 
 
     * note …
-    * 
 
-
-**Key Terms:** 
-    * **[[:en:key-terms:h430|God]]** - Almighty, creator, sinless and perfect
-    * **[[:en:key-terms:h559|spoke]]** - God created light by means of a simple verbal command
-    * **[[:en:key-terms:h216|light]]** - a special light provided by God–the sun did not yet exist
-    * **[[:en:key-terms:h2896a|good]]** - in agreement with God's character and purposes
-    * **[[:en:key-terms:h3117|day]]** - a literal 24-hour period
-    * **[[:en:key-terms:h1254|creation]]** - the six-day period during which God made everything that exists
 
 ----
+
 
 ==== 01-03 ====
 
@@ -147,6 +148,12 @@ Pay close attention to …
 On the second **day **  of **creation**, **God spoke **  and created the **sky **  above the earth.
 
 
+**Key Terms:** 
+    * **[[:en:key-terms:h3117|day]]**- a literal 24-hour period
+    * **[[:en:key-terms:h1254|creation]]**- the six-day period during which God made everything that exists
+    * **[[:en:key-terms:h430|God]]**- Almighty, creator, sinless and perfect
+    * **[[:en:key-terms:h559|spoke]]**- God created the sky by means of a simple verbal command
+    * **[[:en:key-terms:h8064|sky]]**- the space above the earth, including the air we breathe and the heavens
 **Translation Notes:** 
 
 
@@ -156,16 +163,8 @@ Pay close attention to …
     * note …
 
 
-**Key Terms:** 
-
-
-    * **[[:en:key-terms:h3117|day]]** - a literal 24-hour period
-    * **[[:en:key-terms:h1254|creation]]** - the six-day period during which God made everything that exists
-    * **[[:en:key-terms:h430|God]]** - Almighty, creator, sinless and perfect
-    * **[[:en:key-terms:h559|spoke]]** - God created the sky by means of a simple verbal command
-    * **[[:en:key-terms:h8064|sky]]** - the space above the earth, including the air we breathe and the heavens
-
 ----
+
 
 ==== 01-04 ====
 
@@ -176,6 +175,10 @@ Pay close attention to …
 On the third **day**, **God spoke **  and separated the water from the dry land. He called the dry land "earth," and He called the water "seas."
 
 
+**Key Terms:** 
+    * **[[:en:key-terms:h3117|day]]**- a literal 24-hour period
+    * **[[:en:key-terms:h430|God]]**- Almighty, creator, sinless and perfect
+    * **[[:en:key-terms:h559|spoke]]**- God created the dry land by means of a simple verbal command
 **Translation Notes:** 
 
 
@@ -185,14 +188,8 @@ Pay close attention to …
     * note …
 
 
-**Key Terms:** 
-
-
-    * **[[:en:key-terms:h3117|day]]** - a literal 24-hour period
-    * **[[:en:key-terms:h430|God]]** - Almighty, creator, sinless and perfect
-    * **[[:en:key-terms:h559|spoke]]** - God created the dry land by means of a simple verbal command
-
 ----
+
 
 ==== 01-05 ====
 
@@ -203,6 +200,13 @@ Pay close attention to …
 Then **God said**, "Let the earth produce all **kinds **  of trees and plants." And that is what happened. **God **  saw that what He had **created **  was **good**, and He was **pleased **  with it all.
 
 
+**Key Terms:** 
+    * **[[:en:key-terms:h430|God]]**- Almighty, creator, sinless and perfect
+    * **[[:en:key-terms:h559|said]]**- God created all vegetation by means of a simple verbal command
+    * **[[:en:key-terms:h4327|kinds]]**- according to their species
+    * **[[:en:key-terms:h1254a|created]]**- "created from nothing," or "caused to exist"
+    * **[[:en:key-terms:h2896a|good]]**- in agreement with God's character and purposes
+    * **[[:en:key-terms:h7521|pleased]]**- to be very satisfied with something
 **Translation Notes:** 
 
 
@@ -212,17 +216,8 @@ Pay close attention to …
     * note …
 
 
-**Key Terms:** 
-
-
-    * **[[:en:key-terms:h430|God]]** - Almighty, creator, sinless and perfect
-    * **[[:en:key-terms:h559|said]]** - God created all vegetation by means of a simple verbal command
-    * **[[:en:key-terms:h4327|kinds]]** - according to their species
-    * **[[:en:key-terms:h1254a|created]]** - "created from nothing," or "caused to exist"
-    * **[[:en:key-terms:h2896a|good]]** - in agreement with God's character and purposes
-    * **[[:en:key-terms:h7521|pleased]]** - to be very satisfied with something
-
 ----
+
 
 ==== 01-06 ====
 
@@ -233,6 +228,12 @@ Pay close attention to …
 On the fourth **day **  of **creation**, **God spoke **  and made the sun, the moon, and the stars. **God **  made them to give **light **  to the earth and to mark day and night, seasons and years.
 
 
+**Key Terms:** 
+    * **[[:en:key-terms:h3117|day]]**- a literal 24-hour period
+    * **[[:en:key-terms:h1254a|creation]]**- the six-day period during which God made everything that exists
+    * **[[:en:key-terms:h430|God]]**- Almighty, creator, sinless and perfect
+    * **[[:en:key-terms:h559|spoke]]**- God created the sun, moon, and stars by means of a simple verbal command
+    * **[[:en:key-terms:h3974|light]]**- shining objects in the sky
 **Translation Notes:** 
 
 
@@ -242,16 +243,8 @@ Pay close attention to …
     * note …
 
 
-**Key Terms:** 
-
-
-    * **[[:en:key-terms:h3117|day]]** - a literal 24-hour period
-    * **[[:en:key-terms:h1254a|creation]]** - the six-day period during which God made everything that exists
-    * **[[:en:key-terms:h430|God]]** - Almighty, creator, sinless and perfect
-    * **[[:en:key-terms:h559|spoke]]** - God created the sun, moon, and stars by means of a simple verbal command
-    * **[[:en:key-terms:h3974|light]]** - shining objects in the sky
-
 ----
+
 
 ==== 01-07 ====
 
@@ -262,6 +255,12 @@ Pay close attention to …
 On the fifth **day**, **God created **  everything that swims in the water and all the birds. **God **  saw that it was **good**, and He **blessed**  them.
 
 
+**Key Terms:** 
+    * **[[:en:key-terms:h3117|day]]**- a literal 24-hour period
+    * **[[:en:key-terms:h430|God]]**- Almighty, creator, sinless and perfect
+    * **[[:en:key-terms:h1254a|created]]**- "created from nothing," or "caused to exist"
+    * **[[:en:key-terms:h2896a|good]]**- in agreement with God's character and purposes
+    * **[[:en:key-terms:h1288|blessed]]**- God spoke to his intent to make things go well for them
 **Translation Notes:** 
 
 
@@ -271,16 +270,8 @@ Pay close attention to …
     * note …
 
 
-**Key Terms:** 
-
-
-    * **[[:en:key-terms:h3117|day]]** - a literal 24-hour period
-    * **[[:en:key-terms:h430|God]]** - Almighty, creator, sinless and perfect
-    * **[[:en:key-terms:h1254a|created]]** - "created from nothing," or "caused to exist"
-    * **[[:en:key-terms:h2896a|good]]** - in agreement with God's character and purposes
-    * **[[:en:key-terms:h1288|blessed]]** - God spoke to his intent to make things go well for them
-
 ----
+
 
 ==== 01-08 ====
 
@@ -291,6 +282,12 @@ Pay close attention to …
 On the sixth **day **  of **creation**, **God **  said, "Let there be all **kinds **  of land animals!" And it happened just like **God **  said. Some were farm animals, some crawled on the ground, and some were wild. And **God **  saw that it was **good**.
 
 
+**Key Terms:** 
+    * **[[:en:key-terms:h3117|day]]**- a literal 24-hour period
+    * **[[:en:key-terms:h1254a|creation]]**- the six-day period during which God made everything that exists
+    * **[[:en:key-terms:h430|God]]**- Almighty, creator, sinless and perfect
+    * **[[:en:key-terms:h4327|kinds]]**- according to their species
+    * **[[:en:key-terms:h2896a|good]]**- in agreement with God's character and purposes
 **Translation Notes:** 
 
 
@@ -300,16 +297,8 @@ Pay close attention to …
     * note …
 
 
-**Key Terms:** 
-
-
-    * **[[:en:key-terms:h3117|day]]** - a literal 24-hour period
-    * **[[:en:key-terms:h1254a|creation]]** - the six-day period during which God made everything that exists
-    * **[[:en:key-terms:h430|God]]** - Almighty, creator, sinless and perfect
-    * **[[:en:key-terms:h4327|kinds]]** - according to their species
-    * **[[:en:key-terms:h2896a|good]]** - in agreement with God's character and purposes
-
 ----
+
 
 ==== 01-09 ====
 
@@ -320,6 +309,12 @@ Pay close attention to …
 Then **God **  said, "Let **us **  make **human beings**  **in our image**  to be like **us**. They will have **authority **  over the earth and all the animals."
 
 
+**Key Terms:** 
+    * **[[:en:key-terms:h430|God]]**- Almighty, creator, sinless and perfect
+    * **[[:en:key-terms:us|us]]**- the word "God" is plural, and therefore the pronouns are also plural
+    * **[[:en:key-terms:h120|human beings]]**- people, both male and female
+    * **[[:en:key-terms:h6754|in our image]]**- similar to the God in many aspects–able to think, interact, and communicate
+    * **[[:en:key-terms:h7287a|authority]]**- to rule or have dominion over something else
 **Translation Notes:** 
 
 
@@ -329,18 +324,11 @@ Pay close attention to …
     * note …
 
 
-**Key Terms:** 
-
-
-    * **[[:en:key-terms:h430|God]]** - Almighty, creator, sinless and perfect
-    * **[[:en:key-terms:us|us]]** - the word "God" is plural, and therefore the pronouns are also plural
-    * **[[:en:key-terms:h120|human beings]]** - people, both male and female
-    * **[[:en:key-terms:h6754|in our image]]** - similar to the God in many aspects–able to think, interact, and communicate
-    * **[[:en:key-terms:h7287a|authority]]** - to rule or have dominion over something else
-
 ----
 
+
 ==== 01-10 ====
+
 
 {{:en:obs:obs-01-10.jpg?nolink&640x360}}
 
@@ -348,6 +336,16 @@ Pay close attention to …
 So **God **  took some **dirt**, **formed **  it into a **man**, and **breathed life **  into him. This man's name was **Adam**. **God **  planted a **garden**  where **Adam **  could live, and put him there to **care **  for it.
 
 
+**Key Terms:** 
+    * **God **- two words are used together to indicate "the self-existent, eternal Lord of everything" and the "Almighty, creator, sinless and perfect"
+    * **[[:en:key-terms:h6083|dirt]]**- dust, dry dirt from the ground
+    * **[[:en:key-terms:h3335|formed]]**- formed or fashioned, as if by his hands
+    * **[[:en:key-terms:h120|man]]**- Adam only–Eve was made later
+    * **[[:en:key-terms:h5301|breathed]]**- God breathed, or blew life into Adam
+    * **[[:en:key-terms:h2425b|life]]**- literally, the "breath of life"
+    * **[[:en:key-terms:h120|Adam]]**- Adam's name was literally the Hebrew word for "man"
+    * **[[:en:key-terms:h1588|garden]]**- a special collection of trees and plants that God prepared for Adam
+    * **care **- to work at both cultivating the garden, and protecting and preserving it
 **Translation Notes:** 
 
 
@@ -357,20 +355,8 @@ Pay close attention to …
     * note …
 
 
-**Key Terms:** 
-
-
-    * **God **- two words are used together to indicate "the self-existent, eternal Lord of everything" and the "Almighty, creator, sinless and perfect"
-    * **[[:en:key-terms:h6083|dirt]]** - dust, dry dirt from the ground
-    * **[[:en:key-terms:h3335|formed]]** - formed or fashioned, as if by his hands
-    * **[[:en:key-terms:h120|man]]** - Adam only–Eve was made later
-    * **[[:en:key-terms:h5301|breathed]]** - God breathed, or blew life into Adam
-    * **[[:en:key-terms:h2425b|life]]**- literally, the "breath of life"
-    * **[[:en:key-terms:h120|Adam]]** - Adam's name was literally the Hebrew word for "man"
-    * **[[:en:key-terms:h1588|garden]]** - a special collection of trees and plants that God prepared for Adam
-    * **care **- to work at both cultivating the garden, and protecting and preserving it
-
 ----
+
 
 ==== 01-11 ====
 
@@ -381,6 +367,15 @@ Pay close attention to …
 In the middle of the **garden**, **God **  planted two special trees—the **tree of life**  and the **tree of the knowledge of good and evil**. **God **  told **Adam **  that he could eat from any tree in the **garden **  except from the **tree of the knowledge of good and evil**. If he ate from this tree, he would **die**.
 
 
+**Key Terms:** 
+    * **[[:en:key-terms:h1588|garden]]**- a special collection of trees and plants that God prepared for Adam
+    * **[[:en:key-terms:h430|God]]**- Almighty, creator, sinless and perfect
+    * **[[:en:key-terms:h6086|tree of life]]**- a literal tree with fruit that could keep a person alive continually
+    * **[[:en:key-terms:h2896a|good]]**- in agreement with God's character and purposes
+    * **[[:en:key-terms:h7451b|evil]]**- opposed to God's character and purposes
+    * **[[:en:key-terms:h6086|tree of knowledge of good and evil]]**- a literal tree with fruit that could enable a person to know the difference between good and evil
+    * **[[:en:key-terms:h120|Adam]]**- Adam's name was literally the Hebrew word for "man"
+    * **[[:en:key-terms:h4191|die]]**- to die is to be separated from God and from life on this earth
 **Translation Notes:** 
 
 
@@ -390,19 +385,8 @@ Pay close attention to …
     * note …
 
 
-**Key Terms:** 
-
-
-    * **[[:en:key-terms:H1588|garden]]**  - a special collection of trees and plants that God prepared for Adam
-    * **[[:en:key-terms:h430|God]]**  - Almighty, creator, sinless and perfect
-    * **[[:en:key-terms:H6086|tree of life]]**  - a literal tree with fruit that could keep a person alive continually
-    * **[[:en:key-terms:H2896a|good]]**  - in agreement with God's character and purposes
-    * **[[:en:key-terms:H7451b|evil]]**  - opposed to God's character and purposes
-    * **[[:en:key-terms:H6086|tree of knowledge of good and evil]]**  - a literal tree with fruit that could enable a person to know the difference between good and evil
-    * **[[:en:key-terms:H120|Adam]]**  - Adam's name was literally the Hebrew word for "man"
-    * **[[:en:key-terms:H4191|die]]**  - to die is to be separated from God and from life on this earth
-
 ----
+
 
 ==== 01-12 ====
 
@@ -413,6 +397,12 @@ Pay close attention to …
 Then **God**  said, "It is not **good**  for man to be **alone**." But none of the animals could be **Adam's helper**.
 
 
+**Key Terms:** 
+    * **[[:en:key-terms:h430|God]]**- Almighty, creator, sinless and perfect
+    * **[[:en:key-terms:h2896a|good]]**- in agreement with God's character and purposes
+    * **[[:en:key-terms:h120|man]]**- Adam only–emphasizing the fact that women had not yet been created
+    * **[[:en:key-terms:h905|alone]]**- by himself, with no possibility of a relationship or to reproduce
+    * **[[:en:key-terms:h5828|Adam's helper]]**- a person who would be very different from Adam, but would enable him to accomplish the task that God gave to him
 **Translation Notes:** 
 
 
@@ -422,18 +412,11 @@ Pay close attention to …
     * note …
 
 
-**Key Terms:** 
-
-
-    * **[[:en:key-terms:h430|God]]**  - Almighty, creator, sinless and perfect
-    * **[[:en:key-terms:H2896a|good]]**  - in agreement with God's character and purposes
-    * **[[:en:key-terms:H120|man]]**  - Adam only–emphasizing the fact that women had not yet been created
-    * **[[:en:key-terms:H905|alone]]**  - by himself, with no possibility of a relationship or to reproduce
-    * **[[:en:key-terms:H5828|Adam's helper]]**  - a person who would be very different from Adam, but would enable him to accomplish the task that God gave to him
-
 ----
 
+
 ==== 01-13 ====
+
 
 {{:en:obs:obs-01-13.jpg?nolink&640x360}}
 
@@ -441,6 +424,12 @@ Pay close attention to …
 So **God **  made **Adam **  fall into a deep sleep. Then **God **  took **one of Adam's ribs**  and **made **  it into a **woman **  and brought her to him.
 
 
+**Key Terms:** 
+    * **[[:en:key-terms:h430|God]]**- Almighty, creator, sinless and perfect
+    * **[[:en:key-terms:h120|Adam]]**- Adam's name was literally the Hebrew word for "man"
+    * **[[:en:key-terms:h6763|one of Adam's ribs]]**- Adam was formed from dust, but the woman was formed directly from Adam's own body
+    * **[[:en:key-terms:h1129|made]]**- God actively "constructed" or "built" the woman from Adam's rib
+    * **[[:en:key-terms:h802|woman]]**- a generic term for any adult woman
 **Translation Notes:** 
 
 
@@ -450,18 +439,11 @@ Pay close attention to …
     * note …
 
 
-**Key Terms:** 
-
-
-    * **[[:en:key-terms:h430|God]]**  - Almighty, creator, sinless and perfect
-    * **[[:en:key-terms:H120|Adam]]**  - Adam's name was literally the Hebrew word for "man"
-    * **[[:en:key-terms:H6763|one of Adam's ribs]]**  - Adam was formed from dust, but the woman was formed directly from Adam's own body
-    * **[[:en:key-terms:H1129|made]]**  - God actively "constructed" or "built" the woman from Adam's rib
-    * **[[:en:key-terms:H802|woman]]**  - a generic term for any adult woman
-
 ----
 
+
 ==== 01-14 ====
+
 
 {{:en:obs:obs-01-14.jpg?nolink&640x360}}
 
@@ -469,6 +451,14 @@ Pay close attention to …
 When **Adam **  saw her, he said, "At last! This one is **like **  me! Let her be called '**Woman**,' for she was **made from**  **Man**." This is why a **man **  leaves his father and mother and becomes **one **  with his **wife**.
 
 
+**Key Terms:** 
+    * **[[:en:key-terms:h120|Adam]]**- Adam's name was literally the Hebrew word for "man"
+    * **[[:en:key-terms:h5048|like]]**- the woman was similar to Adam, but also different enough to complete him
+    * **[[:en:key-terms:h802|woman]]**- the feminine form of the word for man
+    * **[[:en:key-terms:h3947|made from]]**- she was literally "taken out of" Adam
+    * **[[:en:key-terms:h376|man]]**- a generic term for an adult man
+    * **[[:en:key-terms:h259|one]]**- literally "the same flesh and bone"
+    * **[[:en:key-terms:h802|wife]]**- the woman who would be a man's very own
 **Translation Notes:** 
 
 
@@ -478,20 +468,11 @@ Pay close attention to …
     * note …
 
 
-**Key Terms:** 
-
-
-    * **[[:en:key-terms:H120|Adam]]** - Adam's name was literally the Hebrew word for "man"
-    * **[[:en:key-terms:H5048|like]]** - the woman was similar to Adam, but also different enough to complete him
-    * **[[:en:key-terms:H802|woman]]** - the feminine form of the word for man
-    * **[[:en:key-terms:H3947|made from]]**  - she was literally "taken out of" Adam
-    * **[[:en:key-terms:H376|man]]** - a generic term for an adult man
-    * **[[:en:key-terms:H259|one]]** - literally "the same flesh and bone"
-    * **[[:en:key-terms:H802|wife]]** - the woman who would be a man's very own
-
 ----
 
+
 ==== 01-15 ====
+
 
 {{:en:obs:obs-01-15.jpg?nolink&640x360}}
 
@@ -499,6 +480,18 @@ Pay close attention to …
 **God **  made **man **  and **woman **  in **His own image**, and He saw that it was **very good**. He **blessed **  them and told them, "**Have many**  children and grandchildren and **fill **  the earth!" This all happened on the sixth **day **  of **creation**.
 
 
+**Key Terms:** 
+    * **[[:en:key-terms:h430|God]]**- Almighty, creator, sinless and perfect
+    * **[[:en:key-terms:h1254a|made]]**- "created from nothing," or "caused to exist"
+    * **[[:en:key-terms:h2145|man]]**- a male
+    * **[[:en:key-terms:h5347|woman]]**- a female
+    * **[[:en:key-terms:h6754|His own image]]**- similar to the God in many aspects–able to think, interact, and communicate
+    * **[[:en:key-terms:h2896a|very good]]**- in agreement with God's character and purposes, to an extra measure
+    * **[[:en:key-terms:h1288|blessed]]**- God spoke to his intent to make things go well for them
+    * **[[:en:key-terms:h6509|have many]]**- literally to "be fruitful"
+    * **[[:en:key-terms:h7235a|fill]]**- to increase or to multiply
+    * **[[:en:key-terms:h3117|day]]**- a literal 24-hour period
+    * **[[:en:key-terms:h1254a|creation]]**- the six-day period during which God made everything that exists
 **Translation Notes:** 
 
 
@@ -508,24 +501,11 @@ Pay close attention to …
     * note …
 
 
-**Key Terms:** 
-
-
-    * **[[:en:key-terms:h430|God]]**  - Almighty, creator, sinless and perfect
-    * **[[:en:key-terms:H1254a|made]]**  - "created from nothing," or "caused to exist"
-    * **[[:en:key-terms:H2145|man]]**  - a male
-    * **[[:en:key-terms:H5347|woman]]**  - a female
-    * **[[:en:key-terms:H6754|His own image]]**  - similar to the God in many aspects–able to think, interact, and communicate
-    * **[[:en:key-terms:H2896a|very good]]**  - in agreement with God's character and purposes, to an extra measure
-    * **[[:en:key-terms:H1288|blessed]]**  - God spoke to his intent to make things go well for them
-    * **[[:en:key-terms:H6509|have many]]**  - literally to "be fruitful"
-    * **[[:en:key-terms:H7235a|fill]]** - to increase or to multiply
-    * **[[:en:key-terms:H3117|day]]** - a literal 24-hour period
-    * **[[:en:key-terms:H1254a|creation]]**  - the six-day period during which God made everything that exists
-
 ----
 
+
 ==== 01-16 ====
+
 
 {{:en:obs:obs-01-16.jpg?nolink&640x360}}
 
@@ -533,6 +513,16 @@ Pay close attention to …
 When the seventh **day **  came, **God **  had already **finished His work**. So **God rested **  from all He had been doing. He **blessed **  the seventh **day **  and made it **holy**, because on this **day **  He **rested **  from **His work**. This is how **God created **  the **universe **  and everything in it.
 
 
+**Key Terms:** 
+    * **[[:en:key-terms:h3117|day]]**- a literal 24-hour period
+    * **[[:en:key-terms:h430|God]]**- Almighty, creator, sinless and perfect
+    * **[[:en:key-terms:h3615|finished]]**- to complete or fully accomplish
+    * **[[:en:key-terms:h4399|His work]]**- His labor towards the task of creating the earth and everything in it
+    * **[[:en:key-terms:h7673a|rested]]**- He ceased working on creation because it was complete
+    * **[[:en:key-terms:h1288|blessed]]**- God gave a special positive status to the seventh day
+    * **[[:en:key-terms:h6942|holy]]**- He set it apart as a special day
+    * **[[:en:key-terms:h1254a|created]]**- "created from nothing," or "caused to exist"
+    * **[[:en:key-terms:h3605|universe]]**- both the heavens and the earth
 **Translation Notes:** 
 
 
@@ -542,16 +532,6 @@ Pay close attention to …
     * note …
 
 
-**Key Terms:** 
+//A Bible story from: Genesis 1-2// 
 
 
-    * **[[:en:key-terms:H3117|day]]**  - a literal 24-hour period
-    * **[[:en:key-terms:h430|God]]**  - Almighty, creator, sinless and perfect
-    * **[[:en:key-terms:H3615|finished]]**  - to complete or fully accomplish
-    * **[[:en:key-terms:H4399|His work]]**  - His labor towards the task of creating the earth and everything in it
-    * **[[:en:key-terms:H7673a|rested]]**  - He ceased working on creation because it was complete
-    * **[[:en:key-terms:H1288|blessed]]**  - God gave a special positive status to the seventh day
-    * **[[:en:key-terms:H6942|holy]]**  - He set it apart as a special day
-    * **[[:en:key-terms:H1254a|created]]**  - "created from nothing," or "caused to exist"
-    * **[[:en:key-terms:H3605|universe]]**  - both the heavens and the earth
-//A Bible story from: Genesis 1-2//
