@@ -1,7 +1,7 @@
-====== delete this page ======
+====== Holy ======
 
 
-===== “there were no distinguishing features–just water covering everything" =====
+===== “heading 2 - short definition from story page" =====
 
 
 Information that will help the translator know more about the Hebrew or Greek term so they can apply their native language words correctly.
@@ -33,24 +33,3 @@ For example - **Story 1** - The Creation - Frames 3, 5, 6, 7, 8, 15 and 16
 ----
 
 ===== Digging Deeper =====
-
-==== Bible References: ====
-
-
-This word is found in the following Bible verses:
-
-
-for example: [Gen 1:21 ESV] 21 So God created the great sea creatures and every living creature that moves, with which the waters swarm, according to their kinds, and every winged bird according to its kind. And God saw that it was good.
-
-
-----
-
-
-==== Strong's: number- transliteration ====
-
-
-    - //definition(s)//
-
-
-----
-
