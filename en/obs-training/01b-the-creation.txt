@@ -22,7 +22,7 @@ This is the true story of how the earth and everything in it was created. The et
 ==== Theological Study ====
 
 
-This story answers the foundational question, "Where did we come from?" In this story, God is revealed as the eternal creator. He existed before anything else, and created everything that now exists. God created the world and all it contains in six days through the power of his spoken word. He then formed the first man and woman and breathed life into them. He made them in a unique way–"in His image"– to be able to have a relationship with him. He placed them in a perfect garden with provision for their every need. He gave them the tree of life so they could live forever. However, he also created a test in the form of the tree of the knowledge of good and evil. He allowed them to decide whether to obey him, or to disobey and die.  [[:en:obs-training:01-creation:theological|(... learn more)]]
+This story answers the foundational question, "Where did we come from?" In this story, God is revealed as the eternal creator. He existed before anything else, and created everything that now exists. God created the world and all it contains in six days through the power of his spoken word. He then formed the first man and woman and breathed life into them. He made them in a unique way–"in His image"– to be able to have a relationship with him. He placed them in a perfect garden with provision for their every need. He gave them the tree of life so they could live forever. However, he also created a test in the form of the tree of the knowledge of good and evil. He allowed them to decide whether to obey him, or to disobey and die. [[:en:obs-training:01-creation:theological|(... learn more)]]
 
 
 ===== Translate the Story =====
@@ -31,8 +31,8 @@ This story answers the foundational question, "Where did we come from?" In this 
 Click on the links below to translate each frame of the story.
 
 
-    * 01-01
-    * 01-02
+    * [[:en:obs-training:01-creation:frames:01-01|01-01]]
+    * [[:en:obs-training:01-creation:frames:01-02|01-02]]
     * 01-03
     * 01-04
     * 01-05
@@ -47,4 +47,3 @@ Click on the links below to translate each frame of the story.
     * 01-14
     * 01-15
     * 01-15
-

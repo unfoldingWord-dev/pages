@@ -1,4 +1,4 @@
-====== Sample Page 2 ======
+====== SAMPLE PAGE 2 ======
 
 
 Heading 1 with the key term and Strong's number (this will be the file name) or if there is no Strong's number then just the key term/phrase
