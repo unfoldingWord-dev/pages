@@ -1,4 +1,4 @@
-====== beginning ======
+====== Beginning ======
 
 
 ===== refers to "the beginning of all things," or "before everything else" =====
@@ -49,7 +49,7 @@ Gen 1:21
 ----
 
 
-**[[en:obs-training:strongs:h7225|Strong's H7225]]**
+**[[:en:obs-training:strongs:h7225|Strong's H7225]]** 
 
 
 Use the Strong's link to learn about the original Hebrew or Greek.

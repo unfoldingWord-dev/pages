@@ -1,4 +1,4 @@
-====== Days ======
+====== Day ======
 
 
 ===== “a literal 24-hour period" =====
@@ -12,6 +12,7 @@ For example:
 
     * This term is best translated to have the meaning of…..
 
+
     * Perhaps compare/contrast/refer to other similar words or corresponding terms or Hebrew or Greek words
 
 
@@ -24,15 +25,17 @@ For example:
 Now that you have decided on a word, you can use the same term in the following places in the Bible stories:
 
 
-For example - **Story 1** - The Creation - Frames 3, 5, 6, 7, 8, 15 and 16
+For example - **Story 1**  - The Creation - Frames 3, 5, 6, 7, 8, 15 and 16
 
 
 ----
 
 
 ----
+
 
 ===== Digging Deeper =====
+
 
 ==== Bible References: ====
 
@@ -40,14 +43,16 @@ For example - **Story 1** - The Creation - Frames 3, 5, 6, 7, 8, 15 and 16
 This term is found in the following Bible verses:
 
 
-Gen 1:21 
+Gen 1:21
 
 
 ----
 
-for example\\
 
-**[[en:obs-training:strongs:h3117|Strong's H3117]]**
+for example
+
+
+**[[:en:obs-training:strongs:h3117|Strong's H3117]]** 
 
 
 Use the Strong's link to learn about the original Hebrew or Greek.
