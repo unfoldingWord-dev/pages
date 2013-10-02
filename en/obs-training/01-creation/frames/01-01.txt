@@ -9,9 +9,6 @@ This is how **the beginning**  of everything happened. **God**  **created**  the
 **Key Terms:** 
 
 
-//every key term in the frame is put in bold text in the text above and listed here as a bullet list. The key term in the bullet list is a link to the page that discusses that key term, it's root meaning, other passages that contain it, etc. (the page itself is keyed to the underlying Strong's number for the term, taken from the original Biblical text underlying this story). The preferred or recommended translation for each key term in this particular frame is included after the term itself in the bullet list.// 
-
-
     * **[[:en:key-terms:the beginning|the beginning]]**- This refers to "the beginning of all things", or "before everything else"…
     * **[[:en:key-terms:h430|God]]**- Almighty, creator, sinless & perfect…
     * **[[:en:key-terms:h1254a|created]]**- "created from nothing", or "to cause something to exist"…
