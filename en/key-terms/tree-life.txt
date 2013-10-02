@@ -1,9 +1,13 @@
-====== delete this page ======
+====== Tree of Life ======
 
+===== “a literal tree with fruit that could keep a person alive continually" =====
 
-===== "a generic term for any adult woman" or =====
-===== "the feminine form of the word for man" or =====
-===== "the woman who would be a man's very own" =====
+====== OR ======
+
+====== "tree of knowledge of good and evil" ======
+
+===== "a literal tree with fruit that could enable a person to know the difference between good and evil" =====
+
 
 
 Information that will help the translator know more about the Hebrew or Greek term so they can apply their native language words correctly.
@@ -43,14 +47,3 @@ This word is found in the following Bible verses:
 
 
 for example: [Gen 1:21 ESV] 21 So God created the great sea creatures and every living creature that moves, with which the waters swarm, according to their kinds, and every winged bird according to its kind. And God saw that it was good.
-
-
-----
-
-
-==== Strong's: H802 - ishshah ====
-
-
-    - //definition(s)//
-
-----
