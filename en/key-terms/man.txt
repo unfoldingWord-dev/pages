@@ -1,13 +1,13 @@
-====== man ======
+===== Man =====
 
 
-====== OR ======
+=== OR ===
 
 
-====== Adam ======
+==== Adam ====
 
 
-===== Adam's name was literally the Hebrew word for "man" =====
+=== Adam's name was literally the Hebrew word for "man" ===
 
 
 Information that will help the translator know more about the Hebrew or Greek term so they can apply their native language words correctly.
