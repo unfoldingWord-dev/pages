@@ -1,58 +1,5 @@
-====== Created ======
-
-
-===== “created from nothing” or “to cause something to exist" =====
-
-
-Information that will help the translator know more about the Hebrew or Greek term so they can apply their native language words correctly.
-
-
-For example:
-
-
-    * This term is best translated to have the meaning of…..
-    * Perhaps compare/contrast/refer to other similar words or corresponding terms or Hebrew or Greek words
-
-
-----
-
-
-==== Translator Shortcut: ====
-
-
-Now that you have decided on a word, you can use the same term in the following places in the Bible stories:
-
-
-**Story 1** - The Creation - Frames 3, 5, 6, 7, 8, 15 and 16
-
-
-----
-
-===== Digging Deeper =====
-
-
-==== Bible References: ====
-
-
-This word is found in the following Bible verses:
-
-
-[Gen 1:21 ESV] 21 So God created the great sea creatures and every living creature that moves, with which the waters swarm, according to their kinds, and every winged bird according to its kind. And God saw that it was good.
-
-
-[Gen 1:27 ESV] 27 So God created man in his own image, in the image of God he created him; male and female he created them.
-
-
-[Gen 1:31 ESV] 31 And God saw everything that he had made, and behold, it was very good. And there was evening and there was morning, the sixth day.
-
-
-[Gen 2:1 ESV] 1 Thus the heavens and the earth were finished, and all the host of them.
-
-
-----
-
-
-==== Strong's: H1254a - bara' (Qal) to shape, fashion, create (always with God as subject) ====
+====== Strong's: H1254a ======
+==== bara' (Qal) to shape, fashion, create (always with God as subject) ====
 
 
     - //of heaven and earth//
@@ -61,3 +8,5 @@ This word is found in the following Bible verses:
     - //of transformations//
 
 ----
+
+Explanation on how to use with links or where in the stories it is used.

@@ -33,7 +33,7 @@ Click on the links below to translate each frame of the story.
 
     * [[:en:obs-training:01-creation:frames:01-01|01-01]]
     * [[:en:obs-training:01-creation:frames:01-02|01-02]]
-    * 01-03
+    * [[:en:obs-training:01-creation:frames:01-03|01-03]]
     * 01-04
     * 01-05
     * 01-06

@@ -1,6 +1,7 @@
 ====== SAMPLE PAGE 3 ======
-====== Heading 1 - key term ======
 
+
+====== Heading 1 - key term ======
 
 
 ===== “heading 3 - short definition from story page" =====
@@ -25,13 +26,14 @@ For example:
 Now that you have decided on a word, you can use the same term in the following places in the Bible stories:
 
 
-**Story 1** - The Creation - Frames 3, 5, 6, 7, 8, 15 and 16
+**Story 1**  - The Creation - Frames 3, 5, 6, 7, 8, 15 and 16
 
 
 ----
 
 
 ----
+
 
 ===== Digging Deeper =====
 
@@ -48,10 +50,11 @@ for example: [Gen 1:21 ESV] 21 So God created the great sea creatures and every 
 ----
 
 
-==== Strong's: H1254a - bara'
+==== Strong's ====
+**[[:en:key-terms:h1254a|H1254a]]**- bara'
+
 
 ----
 
 
 Look at [[http://door43.org/en/key-terms/h1254a|http://door43.org/en/key-terms/h1254a]] for real data
-
