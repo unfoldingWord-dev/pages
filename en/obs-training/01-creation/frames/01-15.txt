@@ -1,4 +1,4 @@
-==== 01-15 ====
+==== Frame 01-15 ====
 
 
 {{:en:obs:obs-01-15.jpg?nolink&640x360}}
@@ -7,7 +7,7 @@
 **God **  made **man **  and **woman **  in **His own image**, and He saw that it was **very good**. He **blessed **  them and told them, "**Have many**  children and grandchildren and **fill **  the earth!" This all happened on the sixth **day **  of **creation**.
 
 
-**Key Terms:** 
+=== Key Terms: ===
     * **[[:en:key-terms:h430|God]]**- Almighty, creator, sinless and perfect
     * **[[:en:key-terms:h1254a|made]]**- "created from nothing," or "caused to exist"
     * **[[:en:key-terms:h2145|man]]**- a male
@@ -19,10 +19,13 @@
     * **[[:en:key-terms:h7235a|fill]]**- to increase or to multiply
     * **[[:en:key-terms:h3117|day]]**- a literal 24-hour period
     * **[[:en:key-terms:h1254a|creation]]**- the six-day period during which God made everything that exists
-**Translation Notes:** 
+
+=== Translation Notes: ===
 
 
 Pay close attention to …
 
 
     * note …
+
+**[[:en:obs-training:01b-the-creation:|Back]]**

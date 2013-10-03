@@ -1,4 +1,4 @@
-==== 01-16 ====
+==== Frame 01-16 ====
 
 
 {{:en:obs:obs-01-16.jpg?nolink&640x360}}
@@ -7,7 +7,7 @@
 When the seventh **day **  came, **God **  had already **finished His work**. So **God rested **  from all He had been doing. He **blessed **  the seventh **day **  and made it **holy**, because on this **day **  He **rested **  from **His work**. This is how **God created **  the **universe **  and everything in it.
 
 
-**Key Terms:** 
+=== Key Terms: ===
     * **[[:en:key-terms:h3117|day]]**- a literal 24-hour period
     * **[[:en:key-terms:h430|God]]**- Almighty, creator, sinless and perfect
     * **[[:en:key-terms:h3615|finished]]**- to complete or fully accomplish
@@ -17,10 +17,13 @@ When the seventh **day **  came, **God **  had already **finished His work**. So
     * **[[:en:key-terms:h6942|holy]]**- He set it apart as a special day
     * **[[:en:key-terms:h1254a|created]]**- "created from nothing," or "caused to exist"
     * **[[:en:key-terms:h3605|universe]]**- both the heavens and the earth
-**Translation Notes:** 
+
+=== Translation Notes: ===
 
 
 Pay close attention to …
 
 
     * note …
+
+**[[:en:obs-training:01b-the-creation:|Back]]**
