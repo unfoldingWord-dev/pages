@@ -34,16 +34,16 @@ Click on the links below to translate each frame of the story.
     * [[:en:obs-training:01-creation:frames:01-01|01-01]]
     * [[:en:obs-training:01-creation:frames:01-02|01-02]]
     * [[:en:obs-training:01-creation:frames:01-03|01-03]]
-    * 01-04
-    * 01-05
-    * 01-06
-    * 01-07
-    * 01-08
-    * 01-09
-    * 01-10
-    * 01-11
-    * 01-12
-    * 01-13
-    * 01-14
-    * 01-15
-    * 01-15
+    * [[:en:obs-training:01-creation:frames:01-03|01-04]]
+    * [[:en:obs-training:01-creation:frames:01-03|01-05]]
+    * [[:en:obs-training:01-creation:frames:01-03|01-06]]
+    * [[:en:obs-training:01-creation:frames:01-03|01-07]]
+    * [[:en:obs-training:01-creation:frames:01-03|01-08]]
+    * [[:en:obs-training:01-creation:frames:01-03|01-09]]
+    * [[:en:obs-training:01-creation:frames:01-03|01-10]]
+    * [[:en:obs-training:01-creation:frames:01-03|01-11]]
+    * [[:en:obs-training:01-creation:frames:01-03|01-12]]
+    * [[:en:obs-training:01-creation:frames:01-03|01-13]]
+    * [[:en:obs-training:01-creation:frames:01-03|01-14]]
+    * [[:en:obs-training:01-creation:frames:01-03|01-15]]
+    * [[:en:obs-training:01-creation:frames:01-03|01-16]]
