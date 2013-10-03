@@ -1,80 +1,88 @@
 ====== Open Bible Stories Translation Training ======
 
+
 **First**, watch this video:
 
-//video intro//
+
+//video intro// 
+
 
 (+ text script, matches the video)
 
 
 **Second**, understand how to use the tools:
 
-//tools video//
+
+//tools video// 
+
 
 (+ text script, matches the video)
 
 
 **Third**, let's translate a story:
 
-  * translate a story --> (how to choose the target language? how to choose the source language?)
-  * record the audio for the story
-  * convert the audio into a video
-  * show the video to others
-  * test the quality of the translation
+
+    * translate a story –> (how to choose the target language? how to choose the source language?)
+    * record the audio for the story
+    * convert the audio into a video
+    * show the video to others
+    * test the quality of the translation
+
 
 ===== Getting Started =====
 
-  - **Key Terms** -- identify the key terms for stories.
 
+    - **[[:en:key-terms:home|Key Terms]]**  – identify the key terms for stories.
 ===== Translation Training for Stories =====
 
-  - [[en:obs-training:01-the-creation|The Creation]]
-  - [[en:obs-training:02-sin-enters-the-world|Sin Enters the World]]
-  - [[en:obs-training:03-the-flood|The Flood]]
-  - [[en:obs-training:04-gods-covenant-with-abraham|God's Covenant with Abraham]]
-  - [[en:obs-training:05-the-son-of-promise|The Son of Promise]]
-  - [[en:obs-training:06-god-provides-for-isaac|God Provides for Isaac]]
-  - [[en:obs-training:07-god-blesses-jacob|God Blesses Jacob]]
-  - [[en:obs-training:08-god-saves-joseph-and-his-family|God Saves Joseph and His Family]]
-  - [[en:obs-training:09-god-calls-moses|God Calls Moses]]
-  - [[en:obs-training:10-the-ten-plagues|The Ten Plagues]]
-  - [[en:obs-training:11-the-passover|The Passover]]
-  - [[en:obs-training:12-the-exodus|The Exodus]]
-  - [[en:obs-training:13-gods-covenant-with-israel|God's Covenant with Israel]]
-  - [[en:obs-training:14-wandering-in-the-wilderness|Wandering in the Wilderness]]
-  - [[en:obs-training:15-the-promised-land|The Promised Land]]
-  - [[en:obs-training:16-the-deliverers|The Deliverers]]
-  - [[en:obs-training:17-gods-covenant-with-david|God's Covenant with David]]
-  - [[en:obs-training:18-the-divided-kingdom|The Divided Kingdom]]
-  - [[en:obs-training:19-the-prophets|The Prophets]]
-  - [[en:obs-training:20-the-exile-and-return|The Exile and Return]]
-  - [[en:obs-training:21-god-promises-the-messiah|God Promises the Messiah]]
-  - [[en:obs-training:22-the-birth-of-john|The Birth of John]]
-  - [[en:obs-training:23-the-birth-of-jesus|The Birth of Jesus]]
-  - [[en:obs-training:24-john-baptizes-jesus|John Baptizes Jesus]]
-  - [[en:obs-training:25-satan-tempts-jesus|Satan Tempts Jesus]]
-  - [[en:obs-training:26-jesus-starts-his-ministry|Jesus Starts His Ministry]]
-  - [[en:obs-training:27-the-story-of-the-good-samaritan|The Story of the Good Samaritan]]
-  - [[en:obs-training:28-the-rich-young-ruler|The Rich Young Ruler]]
-  - [[en:obs-training:29-the-story-of-the-unmerciful-servant|The Story of the Unmerciful Servant]]
-  - [[en:obs-training:30-jesus-feeds-five-thousand-people|Jesus Feeds Five Thousand People]]
-  - [[en:obs-training:31-jesus-walks-on-water|Jesus Walks on Water]]
-  - [[en:obs-training:32-jesus-heals-a-demon-possessed-man|Jesus Heals a Demon Possessed Man]]
-  - [[en:obs-training:33-the-story-of-the-farmer|The Story of the Farmer]]
-  - [[en:obs-training:34-jesus-teaches-other-stories|Jesus Teaches Other Stories]]
-  - [[en:obs-training:35-the-story-of-the-compassionate-father|The Story of the Compassionate Father]]
-  - [[en:obs-training:36-the-transfiguration|The Transfiguration]]
-  - [[en:obs-training:37-jesus-raises-lazarus-from-the-dead|Jesus Raises Lazarus from the Dead]]
-  - [[en:obs-training:38-jesus-is-betrayed|Jesus Is Betrayed]]
-  - [[en:obs-training:39-jesus-is-put-on-trial|Jesus Is Put on Trial]]
-  - [[en:obs-training:40-jesus-is-crucified|Jesus Is Crucified]]
-  - [[en:obs-training:41-god-raises-jesus-from-the-dead|God Raises Jesus from the Dead]]
-  - [[en:obs-training:42-jesus-returns-to-heaven|Jesus Returns to Heaven]]
-  - [[en:obs-training:43-the-church-begins|The Church Begins]]
-  - [[en:obs-training:44-peter-and-john-heal-a-beggar|Peter and John Heal a Beggar]]
-  - [[en:obs-training:45-philip-and-the-ethiopian-official|Philip and the Ethiopian Official]]
-  - [[en:obs-training:46-paul-becomes-a-christian|Paul Becomes a Christian]]
-  - [[en:obs-training:47-paul-and-silas-in-philippi|Paul and Silas in Philippi]]
-  - [[en:obs-training:48-jesus-is-the-promised-messiah|Jesus is the Promised Messiah]]
-  - [[en:obs-training:49-gods-new-covenant|God's New Covenant]]
-  - [[en:obs-training:50-jesus-returns|Jesus Returns]]
+
+    - [[:en:obs-training:01-the-creation|The Creation]]
+    - [[:en:obs-training:02-sin-enters-the-world|Sin Enters the World]]
+    - [[:en:obs-training:03-the-flood|The Flood]]
+    - [[:en:obs-training:04-gods-covenant-with-abraham|God's Covenant with Abraham]]
+    - [[:en:obs-training:05-the-son-of-promise|The Son of Promise]]
+    - [[:en:obs-training:06-god-provides-for-isaac|God Provides for Isaac]]
+    - [[:en:obs-training:07-god-blesses-jacob|God Blesses Jacob]]
+    - [[:en:obs-training:08-god-saves-joseph-and-his-family|God Saves Joseph and His Family]]
+    - [[:en:obs-training:09-god-calls-moses|God Calls Moses]]
+    - [[:en:obs-training:10-the-ten-plagues|The Ten Plagues]]
+    - [[:en:obs-training:11-the-passover|The Passover]]
+    - [[:en:obs-training:12-the-exodus|The Exodus]]
+    - [[:en:obs-training:13-gods-covenant-with-israel|God's Covenant with Israel]]
+    - [[:en:obs-training:14-wandering-in-the-wilderness|Wandering in the Wilderness]]
+    - [[:en:obs-training:15-the-promised-land|The Promised Land]]
+    - [[:en:obs-training:16-the-deliverers|The Deliverers]]
+    - [[:en:obs-training:17-gods-covenant-with-david|God's Covenant with David]]
+    - [[:en:obs-training:18-the-divided-kingdom|The Divided Kingdom]]
+    - [[:en:obs-training:19-the-prophets|The Prophets]]
+    - [[:en:obs-training:20-the-exile-and-return|The Exile and Return]]
+    - [[:en:obs-training:21-god-promises-the-messiah|God Promises the Messiah]]
+    - [[:en:obs-training:22-the-birth-of-john|The Birth of John]]
+    - [[:en:obs-training:23-the-birth-of-jesus|The Birth of Jesus]]
+    - [[:en:obs-training:24-john-baptizes-jesus|John Baptizes Jesus]]
+    - [[:en:obs-training:25-satan-tempts-jesus|Satan Tempts Jesus]]
+    - [[:en:obs-training:26-jesus-starts-his-ministry|Jesus Starts His Ministry]]
+    - [[:en:obs-training:27-the-story-of-the-good-samaritan|The Story of the Good Samaritan]]
+    - [[:en:obs-training:28-the-rich-young-ruler|The Rich Young Ruler]]
+    - [[:en:obs-training:29-the-story-of-the-unmerciful-servant|The Story of the Unmerciful Servant]]
+    - [[:en:obs-training:30-jesus-feeds-five-thousand-people|Jesus Feeds Five Thousand People]]
+    - [[:en:obs-training:31-jesus-walks-on-water|Jesus Walks on Water]]
+    - [[:en:obs-training:32-jesus-heals-a-demon-possessed-man|Jesus Heals a Demon Possessed Man]]
+    - [[:en:obs-training:33-the-story-of-the-farmer|The Story of the Farmer]]
+    - [[:en:obs-training:34-jesus-teaches-other-stories|Jesus Teaches Other Stories]]
+    - [[:en:obs-training:35-the-story-of-the-compassionate-father|The Story of the Compassionate Father]]
+    - [[:en:obs-training:36-the-transfiguration|The Transfiguration]]
+    - [[:en:obs-training:37-jesus-raises-lazarus-from-the-dead|Jesus Raises Lazarus from the Dead]]
+    - [[:en:obs-training:38-jesus-is-betrayed|Jesus Is Betrayed]]
+    - [[:en:obs-training:39-jesus-is-put-on-trial|Jesus Is Put on Trial]]
+    - [[:en:obs-training:40-jesus-is-crucified|Jesus Is Crucified]]
+    - [[:en:obs-training:41-god-raises-jesus-from-the-dead|God Raises Jesus from the Dead]]
+    - [[:en:obs-training:42-jesus-returns-to-heaven|Jesus Returns to Heaven]]
+    - [[:en:obs-training:43-the-church-begins|The Church Begins]]
+    - [[:en:obs-training:44-peter-and-john-heal-a-beggar|Peter and John Heal a Beggar]]
+    - [[:en:obs-training:45-philip-and-the-ethiopian-official|Philip and the Ethiopian Official]]
+    - [[:en:obs-training:46-paul-becomes-a-christian|Paul Becomes a Christian]]
+    - [[:en:obs-training:47-paul-and-silas-in-philippi|Paul and Silas in Philippi]]
+    - [[:en:obs-training:48-jesus-is-the-promised-messiah|Jesus is the Promised Messiah]]
+    - [[:en:obs-training:49-gods-new-covenant|God's New Covenant]]
+    - [[:en:obs-training:50-jesus-returns|Jesus Returns]]
