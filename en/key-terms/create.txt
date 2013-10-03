@@ -1,29 +1,31 @@
 ====== Create ======
 
+This term is used in the following ways in the Open Bible stories:
 
-===== “the six-day period during which God made everything that exists" =====
+==== 1. to create (verb) [Strong’s h1254a-link] ====
 
+“To form out of nothing, bring into existence, cause to exist”
 
-Information that will help the translator know more about the Hebrew or Greek term so they can apply their native language words correctly.
+Examples: 
 
-
-For example:
-
-
-    * This term is best translated to have the meaning of…..
-
-
-    * Perhaps compare/contrast/refer to other similar words or corresponding terms or Hebrew or Greek words
-
-
+    * Story 01-01 - “God **created** the universe and everything in it in six days.” 
+    * Story 01-16 - “This is how God **created** the universe and everything in it.” 
 ----
 
+==== 2. creation (verb) [Strong’s h1254a-link] ====
 
-==== Translator Shortcut: ====
+“the six-day period during which God made everything that exists”
 
+Examples: 
 
-Now that you have decided on a word, you can use the same term in the following places in the Bible stories:
+    * Story 01-07 - “On the sixth day of **creation**, God said, "Let there be all kinds of land animals!"” 
+    * Story 01-15 - “This all happened on the sixth day of **creation**.” 
+----
+==== 3. to make (verb) [Strong’s h1254a-link] ====
 
+“to form out of nothing, bring into existence, cause to exist”
 
-**Story 1**  - The Creation - Frames
+Examples: 
 
+    * Story 01-15 - “God **made** man and woman in His own image …” 
+    
