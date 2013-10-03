@@ -1,0 +1,5 @@
+====== Strong's Definitions ======
+
+This is a list of Bible terms with definitions and information from Strong's.
+
+<nspages en:strongs -title -exclude:home -textPages="">
