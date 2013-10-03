@@ -1,4 +1,4 @@
-==== 01-10 ====
+==== Frame 01-10 ====
 
 
 {{:en:obs:obs-01-10.jpg?nolink&640x360}}
@@ -7,7 +7,7 @@
 So **God **  took some **dirt**, **formed **  it into a **man**, and **breathed life **  into him. This man's name was **Adam**. **God **  planted a **garden**  where **Adam **  could live, and put him there to **care **  for it.
 
 
-**Key Terms:** 
+=== Key Terms: ===
     * **[[:en:key-terms:God|God]]**- two words are used together to indicate "the self-existent, eternal Lord of everything" and the "Almighty, creator, sinless and perfect"
     * **[[:en:key-terms:h6083|dirt]]**- dust, dry dirt from the ground
     * **[[:en:key-terms:h3335|formed]]**- formed or fashioned, as if by his hands
@@ -17,7 +17,8 @@ So **God **  took some **dirt**, **formed **  it into a **man**, and **breathed 
     * **[[:en:key-terms:h120|Adam]]**- Adam's name was literally the Hebrew word for "man"
     * **[[:en:key-terms:h1588|garden]]**- a special collection of trees and plants that God prepared for Adam
     * **[[:en:key-terms:h5647|care]]**- to work at both cultivating the garden, and protecting and preserving it
-**Translation Notes:** 
+
+=== Translation Notes: ===
 
 
 Pay close attention to …
