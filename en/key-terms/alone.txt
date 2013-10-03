@@ -2,7 +2,7 @@
 
 This term is used in the following ways in the Open Bible stories:
 
-==== 1. alone (noun) [Strong’s h905 link] ====
+===== 1. alone (noun) [Strong’s h905 link] =====
 
 “by himself, with no possibility of a relationship or to reproduce”
 
@@ -11,7 +11,7 @@ Examples:
     * Story 01-12 - “Then God said, “It is not good for man to be **alone**." …” 
     * Story 0x-0x - “relevant text from frame 0x of story 0x with the term in bold …” 
 
-==== 2. second usage (noun/verb) [Strong’s h/g-link] ====
+===== 2. second usage (noun/verb) [Strong’s h/g-link] =====
 
 “Type a fuller explanation of the usage of word/phrase in this sense.”
 
