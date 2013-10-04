@@ -1,21 +1,21 @@
 ====== Alone ======
 
-This term is used in the following ways in the Open Bible stories:
+===== “by himself, with no possibility of a relationship or to reproduce" =====
 
-===== 1. alone (n.) [h905-link] =====
+Information that will help the translator know more about the Hebrew or Greek term so they can apply their native language words correctly.
 
-“by himself, with no possibility of a relationship or to reproduce”
+For example:
 
-//Examples//: 
 
-    * Story 01-12 - “Then God said, “It is not good for man to be **alone**." …” 
-    * Story 0x-0x - “relevant text from frame 0x of story 0x with the term in bold …” 
+  * This term is best translated to have the meaning of…..
+  * Perhaps compare/contrast/refer to other similar words or corresponding terms or Hebrew or Greek words
 
-===== 2. second usage (n./v.) [h/g-link] =====
+----
 
-“Type a fuller explanation of the usage of word/phrase in this sense.”
 
-//Examples//: 
+==== Translator Shortcut: ====
 
-    * Story 0x-0x - “relevant text from frame 0x of story 0x with the term in bold …” 
-    * Story 0x-0x - “relevant text from frame 0x of story 0x with the term in bold …” 
+
+After you choose a word to translate this term, try to use it consistently when it appears in other Bible stories. For example:
+
+  * **Story 1 - The Creation** - Frames 3, 5, 6, 7, 8, 15 and 16
