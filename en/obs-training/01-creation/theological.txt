@@ -2,8 +2,6 @@
 
 
 **1. The Creation:** The creation story addresses significant theological questions. This page provides expanded information on those topics.
-
-
 === Where did I come from? ===
 
 
@@ -54,4 +52,5 @@ God placed the tree of the knowledge of good and evil in the garden as a test so
 
 God set the seventh day apart as a holy reminder that he completed his work of creation in six days. Throughout scripture, God commands us to do various things in order to remember his character, his faithfulness, and our responsibility to him.
 
-**[[:en:obs-training:01b-the-creation:|Back]]**
+
+**[[:en:obs-training:01b-the-creation|Back]]**

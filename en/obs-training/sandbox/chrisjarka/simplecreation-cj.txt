@@ -47,20 +47,20 @@ This story answers the foundational questions:
 Click on the pictures below to translate each frame of the story.
 
 
-[[:en:obs-training:01-creation:frames:01-01|{{:en:obs:obs-01-01.jpg?nolink&160x90}}]]\\
-[[:en:obs-training:01-creation:frames:01-02|{{:en:obs:obs-01-02.jpg?nolink&160x90}}]]\\
-[[:en:obs-training:01-creation:frames:01-03|{{:en:obs:obs-01-03.jpg?nolink&160x90}}]]\\
-[[:en:obs-training:01-creation:frames:01-04|{{:en:obs:obs-01-04.jpg?nolink&160x90}}]]\\
-[[:en:obs-training:01-creation:frames:01-05|{{:en:obs:obs-01-05.jpg?nolink&160x90}}]]\\
-[[:en:obs-training:01-creation:frames:01-06|{{:en:obs:obs-01-06.jpg?nolink&160x90}}]]\\
-[[:en:obs-training:01-creation:frames:01-07|{{:en:obs:obs-01-07.jpg?nolink&160x90}}]]\\
+Beginning [[:en:obs-training:01-creation:frames:01-01|{{:en:obs:obs-01-01.jpg?nolink&160x90}}]]\\
+Light [[:en:obs-training:01-creation:frames:01-02|{{:en:obs:obs-01-02.jpg?nolink&160x90}}]]\\
+Sky  [[:en:obs-training:01-creation:frames:01-03|{{:en:obs:obs-01-03.jpg?nolink&160x90}}]]\\
+Dry Land [[:en:obs-training:01-creation:frames:01-04|{{:en:obs:obs-01-04.jpg?nolink&160x90}}]]\\
+Plants [[:en:obs-training:01-creation:frames:01-05|{{:en:obs:obs-01-05.jpg?nolink&160x90}}]]\\
+Sun & Moon [[:en:obs-training:01-creation:frames:01-06|{{:en:obs:obs-01-06.jpg?nolink&160x90}}]]\\
+[[:en:obs-training:01-creation:frames:01-07|{{:en:obs:obs-01-07.jpg?nolink&160x90}}]]
 [[:en:obs-training:01-creation:frames:01-08|{{:en:obs:obs-01-08.jpg?nolink&160x90}}]]\\
-[[:en:obs-training:01-creation:frames:01-09|{{:en:obs:obs-01-09.jpg?nolink&160x90}}]]\\
+[[:en:obs-training:01-creation:frames:01-09|{{:en:obs:obs-01-09.jpg?nolink&160x90}}]]
 [[:en:obs-training:01-creation:frames:01-10|{{:en:obs:obs-01-10.jpg?nolink&160x90}}]]\\
-[[:en:obs-training:01-creation:frames:01-11|{{:en:obs:obs-01-11.jpg?nolink&160x90}}]]\\
+[[:en:obs-training:01-creation:frames:01-11|{{:en:obs:obs-01-11.jpg?nolink&160x90}}]]
 [[:en:obs-training:01-creation:frames:01-12|{{:en:obs:obs-01-12.jpg?nolink&160x90}}]]\\
-[[:en:obs-training:01-creation:frames:01-13|{{:en:obs:obs-01-13.jpg?nolink&160x90}}]]\\
+[[:en:obs-training:01-creation:frames:01-13|{{:en:obs:obs-01-13.jpg?nolink&160x90}}]]
 [[:en:obs-training:01-creation:frames:01-14|{{:en:obs:obs-01-14.jpg?nolink&160x90}}]]\\
 [[:en:obs-training:01-creation:frames:01-15|{{:en:obs:obs-01-15.jpg?nolink&160x90}}]]
-[[:en:obs-training:01-creation:frames:01-16|{{:en:obs:obs-01-16.jpg?nolink&160x90}}]]\\
+[[:en:obs-training:01-creation:frames:01-16|{{:en:obs:obs-01-16.jpg?nolink&160x90}}]]
     
