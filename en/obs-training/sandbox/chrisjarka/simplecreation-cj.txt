@@ -28,11 +28,11 @@ This story answers the foundational question, "Where did we come from?" In this 
 ===== Translate the Story =====
 
 
-Click on the links below to translate each frame of the story.
+Click on the pictures below to translate each frame of the story.
 
 
-    * [[:en:obs-training:01-creation:frames:01-01|01-01]]
-    * [[:en:obs-training:01-creation:frames:01-02|01-02]]
+    * Beginning Frame [[:en:obs-training:01-creation:frames:01-01|{{:en:obs:obs-01-01.jpg?nolink&160x90}}]]
+    * Light {{:en:obs:obs-01-02.jpg?nolink&160x90}}
     * [[:en:obs-training:01-creation:frames:01-03|01-03]]
     * [[:en:obs-training:01-creation:frames:01-04|01-04]]
     * [[:en:obs-training:01-creation:frames:01-05|01-05]]
