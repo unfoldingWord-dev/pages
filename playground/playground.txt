@@ -1,13 +1,19 @@
 ====== PlayGround ======
 
 
-testing
-
-
-1
-
-
-2
-
-
-3
+{{page>:en:obs-training:01-creation:frames:01-01}}
+{{page>:en:obs-training:01-creation:frames:01-02}}
+{{page>:en:obs-training:01-creation:frames:01-03}}
+{{page>:en:obs-training:01-creation:frames:01-04}}
+{{page>:en:obs-training:01-creation:frames:01-05}}
+{{page>:en:obs-training:01-creation:frames:01-06}}
+{{page>:en:obs-training:01-creation:frames:01-07}}
+{{page>:en:obs-training:01-creation:frames:01-08}}
+{{page>:en:obs-training:01-creation:frames:01-09}}
+{{page>:en:obs-training:01-creation:frames:01-10}}
+{{page>:en:obs-training:01-creation:frames:01-11}}
+{{page>:en:obs-training:01-creation:frames:01-12}}
+{{page>:en:obs-training:01-creation:frames:01-13}}
+{{page>:en:obs-training:01-creation:frames:01-14}}
+{{page>:en:obs-training:01-creation:frames:01-15}}
+{{page>:en:obs-training:01-creation:frames:01-16}}
