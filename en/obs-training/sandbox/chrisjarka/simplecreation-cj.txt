@@ -63,16 +63,19 @@ Sun & Moon [[:en:obs-training:frames:01-06|{{:en:obs:obs-01-06.jpg?nolink&160x90
 [[:en:obs-training:frames:01-12|{{:en:obs:obs-01-12.jpg?nolink&160x90}}]]
 
 
-|[[:en:obs-training:frames:01-13|{{:en:obs:obs-01-13.jpg?nolink&160x90}}]] |translated |back checked |ready |  |
+|[[:en:obs-training:frames:01-13|{{:en:obs:obs-01-13.jpg?nolink&160x90}}]] | 
+====== □ ======
+ \\ translated \\  | 
+====== □ ======
+ \\ back checked \\  | 
+====== □ ======
+ \\ ready \\  |  |
 |[[:en:obs-training:frames:01-14|{{:en:obs:obs-01-14.jpg?nolink&160x90}}]] |  |  |  |  |
 |[[:en:obs-training:frames:01-15|{{:en:obs:obs-01-15.jpg?nolink&160x90}}]] |  |  |  |  |
 |[[:en:obs-training:frames:01-16|{{:en:obs:obs-01-16.jpg?nolink&160x90}}]] |  |  |  |  |
 
 
  \\ 
-
-
- \\  \\ 
 
 
 \\
