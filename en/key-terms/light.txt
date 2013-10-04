@@ -9,10 +9,8 @@ Information that will help the translator know more about the Hebrew or Greek te
 
 For example:
 
-
-    * This term is best translated to have the meaning of…..
-
-    * Perhaps compare/contrast/refer to other similar words or corresponding terms or Hebrew or Greek words
+  * This term is best translated to have the meaning of…..
+  * Perhaps compare/contrast/refer to other similar words or corresponding terms or Hebrew or Greek words
 
 
 ----

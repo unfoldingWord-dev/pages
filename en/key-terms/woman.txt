@@ -1,9 +1,6 @@
 ====== Woman ======
 
-
-== "a generic term for any adult woman" or ==  
-== "the feminine form of the word for man" or ==  
-== "the woman who would be a man's very own" ==  
+==== "a generic term for any adult woman" or "the feminine form of the word for man" or "the woman who would be a man's very own" ====
 
 
 Information that will help the translator know more about the Hebrew or Greek term so they can apply their native language words correctly.
@@ -12,9 +9,8 @@ Information that will help the translator know more about the Hebrew or Greek te
 For example:
 
 
-    * This term is best translated to have the meaning of…..
-
-    * Perhaps compare/contrast/refer to other similar words or corresponding terms or Hebrew or Greek words
+  * This term is best translated to have the meaning of…..
+  * Perhaps compare/contrast/refer to other similar words or corresponding terms or Hebrew or Greek words
 
 
 ----
@@ -23,7 +19,13 @@ For example:
 ==== Translator Shortcut: ====
 
 
-Now that you have decided on a word, you can use the same term in the following places in the Bible stories:
+After you choose a word to translate this term, try to use it consistently when it appears in other Bible stories. For example:
 
+  * **Story x - Title** - Frames x, x and x
 
-For example - **Story 1** - The Creation - Frames 3, 5, 6, 7, 8, 15 and 16
+==== Root words in the Bible: ====
+
+This term is also used in many places in the Bible. You can use the links below to see Strong's description of the root meaning of these words.
+
+    * Strong's link
+
