@@ -1,0 +1,17 @@
+====== G2732: κατοικητήριον (katoikētḗrion) ======
+
+===== Source =====
+
+from a derivative of [[en:lexicon:g2730|G2730]];
+
+===== Meaning =====
+
+a dwelling-place
+
+===== Usage =====
+
+habitation.
+
+===== Strongs References =====
+
+[[en:lexicon:g2730|G2730]]

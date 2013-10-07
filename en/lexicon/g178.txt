@@ -1,0 +1,18 @@
+====== G178: ἀκατάκριτος (akatákritos) ======
+
+===== Source =====
+
+from [[en:lexicon:g1|G1]] (as a negative particle) and a derivative of [[en:lexicon:g2632|G2632]];
+
+===== Meaning =====
+
+without (legal) trial
+
+===== Usage =====
+
+uncondemned.
+
+===== Strongs References =====
+
+[[en:lexicon:g1|G1]]
+[[en:lexicon:g2632|G2632]]

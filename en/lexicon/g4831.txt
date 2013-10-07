@@ -1,0 +1,18 @@
+====== G4831: συμμιμητής (symmimētḗs) ======
+
+===== Source =====
+
+from a presumed compound of [[en:lexicon:g4862|G4862]] and [[en:lexicon:g3401|G3401]];
+
+===== Meaning =====
+
+a co-imitator, i.e. fellow votary
+
+===== Usage =====
+
+follower together.
+
+===== Strongs References =====
+
+[[en:lexicon:g4862|G4862]]
+[[en:lexicon:g3401|G3401]]

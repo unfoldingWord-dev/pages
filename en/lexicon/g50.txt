@@ -1,0 +1,18 @@
+====== G50: ἀγνοέω (agnoéō) ======
+
+===== Source =====
+
+from [[en:lexicon:g1|G1]] (as a negative particle) and [[en:lexicon:g3539|G3539]];
+
+===== Meaning =====
+
+not to know (through lack of information or intelligence); by implication, to ignore (through disinclination)
+
+===== Usage =====
+
+(be) ignorant(-ly), not know, not understand, unknown.
+
+===== Strongs References =====
+
+[[en:lexicon:g1|G1]]
+[[en:lexicon:g3539|G3539]]

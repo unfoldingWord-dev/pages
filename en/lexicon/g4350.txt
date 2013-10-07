@@ -1,0 +1,18 @@
+====== G4350: προσκόπτω (proskóptō) ======
+
+===== Source =====
+
+from [[en:lexicon:g4314|G4314]] and [[en:lexicon:g2875|G2875]];
+
+===== Meaning =====
+
+to strike at, i.e. surge against (as water); specially, to stub on, i.e. trip up (literally or figuratively)
+
+===== Usage =====
+
+beat upon, dash, stumble (at).
+
+===== Strongs References =====
+
+[[en:lexicon:g4314|G4314]]
+[[en:lexicon:g2875|G2875]]

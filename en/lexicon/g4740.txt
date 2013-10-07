@@ -1,0 +1,17 @@
+====== G4740: στηριγμός (stērigmós) ======
+
+===== Source =====
+
+from [[en:lexicon:g4741|G4741]];
+
+===== Meaning =====
+
+stability (figuratively)
+
+===== Usage =====
+
+stedfastness.
+
+===== Strongs References =====
+
+[[en:lexicon:g4741|G4741]]

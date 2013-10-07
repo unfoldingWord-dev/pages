@@ -1,0 +1,17 @@
+====== G45: ἄγκυρα (ánkyra) ======
+
+===== Source =====
+
+from the same as [[en:lexicon:g43|G43]];
+
+===== Meaning =====
+
+an "anchor" (as crooked)
+
+===== Usage =====
+
+anchor.
+
+===== Strongs References =====
+
+[[en:lexicon:g43|G43]]

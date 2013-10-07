@@ -1,0 +1,18 @@
+====== G3619: οἰκοδομή (oikodomḗ) ======
+
+===== Source =====
+
+feminine (abstract) of a compound of [[en:lexicon:g3624|G3624]] and the base of [[en:lexicon:g1430|G1430]];
+
+===== Meaning =====
+
+architecture, i.e. (concretely) a structure; figuratively, confirmation
+
+===== Usage =====
+
+building, edify(-ication, -ing).
+
+===== Strongs References =====
+
+[[en:lexicon:g3624|G3624]]
+[[en:lexicon:g1430|G1430]]

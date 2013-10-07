@@ -1,0 +1,17 @@
+====== G614: ἀπόκρυφος (apókryphos) ======
+
+===== Source =====
+
+from [[en:lexicon:g613|G613]];
+
+===== Meaning =====
+
+secret; by implication, treasured
+
+===== Usage =====
+
+hid, kept secret.
+
+===== Strongs References =====
+
+[[en:lexicon:g613|G613]]

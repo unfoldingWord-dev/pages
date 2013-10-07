@@ -1,0 +1,18 @@
+====== G4801: συζεύγνυμι (syzeúgnymi) ======
+
+===== Source =====
+
+from [[en:lexicon:g4862|G4862]] and the base of [[en:lexicon:g2201|G2201]];
+
+===== Meaning =====
+
+to yoke together, i.e. (figuratively) conjoin (in marriage)
+
+===== Usage =====
+
+join together.
+
+===== Strongs References =====
+
+[[en:lexicon:g4862|G4862]]
+[[en:lexicon:g2201|G2201]]

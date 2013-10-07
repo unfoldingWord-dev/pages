@@ -1,0 +1,18 @@
+====== G4923: συνοδία (synodía) ======
+
+===== Source =====
+
+from a compound of [[en:lexicon:g4862|G4862]] and [[en:lexicon:g3598|G3598]] ("synod");
+
+===== Meaning =====
+
+companionship on a journey, i.e. (by implication), a caravan
+
+===== Usage =====
+
+company.
+
+===== Strongs References =====
+
+[[en:lexicon:g4862|G4862]]
+[[en:lexicon:g3598|G3598]]

@@ -1,0 +1,18 @@
+====== G487: ἀντίλυτρον (antílytron) ======
+
+===== Source =====
+
+from [[en:lexicon:g473|G473]] and [[en:lexicon:g3083|G3083]];
+
+===== Meaning =====
+
+a redemption-price
+
+===== Usage =====
+
+ransom.
+
+===== Strongs References =====
+
+[[en:lexicon:g473|G473]]
+[[en:lexicon:g3083|G3083]]

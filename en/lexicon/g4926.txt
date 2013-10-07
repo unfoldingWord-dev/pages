@@ -1,0 +1,18 @@
+====== G4926: συνομιλέω (synomiléō) ======
+
+===== Source =====
+
+from [[en:lexicon:g4862|G4862]] and [[en:lexicon:g3656|G3656]];
+
+===== Meaning =====
+
+to converse mutually
+
+===== Usage =====
+
+talk with.
+
+===== Strongs References =====
+
+[[en:lexicon:g4862|G4862]]
+[[en:lexicon:g3656|G3656]]

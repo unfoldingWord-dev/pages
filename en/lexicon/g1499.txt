@@ -1,0 +1,18 @@
+====== G1499: εἰ καί (ei kaí) ======
+
+===== Source =====
+
+from [[en:lexicon:g1487|G1487]] and [[en:lexicon:g2532|G2532]];
+
+===== Meaning =====
+
+if also (or even)
+
+===== Usage =====
+
+if (that), though.
+
+===== Strongs References =====
+
+[[en:lexicon:g1487|G1487]]
+[[en:lexicon:g2532|G2532]]

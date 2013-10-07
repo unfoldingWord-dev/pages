@@ -1,0 +1,18 @@
+====== G5386: φιλόσοφος (philósophos) ======
+
+===== Source =====
+
+from [[en:lexicon:g5384|G5384]] and [[en:lexicon:g4680|G4680]];
+
+===== Meaning =====
+
+fond of wise things, i.e. a "philosopher"
+
+===== Usage =====
+
+philosopher.
+
+===== Strongs References =====
+
+[[en:lexicon:g5384|G5384]]
+[[en:lexicon:g4680|G4680]]

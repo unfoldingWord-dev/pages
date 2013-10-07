@@ -1,0 +1,17 @@
+====== G3117: μακρός (makrós) ======
+
+===== Source =====
+
+from [[en:lexicon:g3372|G3372]];
+
+===== Meaning =====
+
+long (in place (distant) or time (neuter plural))
+
+===== Usage =====
+
+far, long.
+
+===== Strongs References =====
+
+[[en:lexicon:g3372|G3372]]

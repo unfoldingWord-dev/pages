@@ -1,0 +1,17 @@
+====== G4124: πλεονεξία (pleonexía) ======
+
+===== Source =====
+
+from [[en:lexicon:g4123|G4123]];
+
+===== Meaning =====
+
+avarice, i.e. (by implication) fraudulency, extortion
+
+===== Usage =====
+
+covetous(-ness) practices, greediness.
+
+===== Strongs References =====
+
+[[en:lexicon:g4123|G4123]]

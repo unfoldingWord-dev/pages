@@ -1,0 +1,18 @@
+====== G3574: νυχθήμερον (nychthḗmeron) ======
+
+===== Source =====
+
+from [[en:lexicon:g3571|G3571]] and [[en:lexicon:g2250|G2250]];
+
+===== Meaning =====
+
+a day-and-night, i.e. full day of twenty-four hours
+
+===== Usage =====
+
+night and day.
+
+===== Strongs References =====
+
+[[en:lexicon:g3571|G3571]]
+[[en:lexicon:g2250|G2250]]

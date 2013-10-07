@@ -1,0 +1,19 @@
+====== G1555: ἐκδιηγέομαι (ekdiēgéomai) ======
+
+===== Source =====
+
+from [[en:lexicon:g1537|G1537]] and a compound of [[en:lexicon:g1223|G1223]] and [[en:lexicon:g2233|G2233]];
+
+===== Meaning =====
+
+to narrate through wholly
+
+===== Usage =====
+
+declare.
+
+===== Strongs References =====
+
+[[en:lexicon:g1537|G1537]]
+[[en:lexicon:g1223|G1223]]
+[[en:lexicon:g2233|G2233]]

@@ -1,0 +1,17 @@
+====== G1297: διάταγμα (diátagma) ======
+
+===== Source =====
+
+from [[en:lexicon:g1299|G1299]];
+
+===== Meaning =====
+
+an arrangement, i.e. (authoritative) edict
+
+===== Usage =====
+
+commandment.
+
+===== Strongs References =====
+
+[[en:lexicon:g1299|G1299]]

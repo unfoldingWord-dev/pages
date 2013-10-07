@@ -1,0 +1,18 @@
+====== G1574: ἐκκεντέω (ekkentéō) ======
+
+===== Source =====
+
+from [[en:lexicon:g1537|G1537]] and the base of [[en:lexicon:g2759|G2759]];
+
+===== Meaning =====
+
+to transfix
+
+===== Usage =====
+
+pierce.
+
+===== Strongs References =====
+
+[[en:lexicon:g1537|G1537]]
+[[en:lexicon:g2759|G2759]]

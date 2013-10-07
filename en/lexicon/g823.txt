@@ -1,0 +1,18 @@
+====== G823: ἄτομος (átomos) ======
+
+===== Source =====
+
+from [[en:lexicon:g1|G1]] (as a negative particle) and the base of [[en:lexicon:g5114|G5114]];
+
+===== Meaning =====
+
+uncut, i.e. (by implication) indivisible (an "atom" of time)
+
+===== Usage =====
+
+ moment.
+
+===== Strongs References =====
+
+[[en:lexicon:g1|G1]]
+[[en:lexicon:g5114|G5114]]

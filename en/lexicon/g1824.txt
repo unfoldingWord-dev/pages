@@ -1,0 +1,20 @@
+====== G1824: ἐξαυτῆς (exautēs) ======
+
+===== Source =====
+
+from [[en:lexicon:g1537|G1537]] and the genitive case singular feminine of [[en:lexicon:g846|G846]] ([[en:lexicon:g5610|G5610]] being
+ understood);
+
+===== Meaning =====
+
+from that hour, i.e. instantly
+
+===== Usage =====
+
+by and by, immediately, presently, straightway.
+
+===== Strongs References =====
+
+[[en:lexicon:g1537|G1537]]
+[[en:lexicon:g846|G846]]
+[[en:lexicon:g5610|G5610]]

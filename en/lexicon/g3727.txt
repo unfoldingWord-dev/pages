@@ -1,0 +1,17 @@
+====== G3727: ὅρκος (hórkos) ======
+
+===== Source =====
+
+from ἕρκος (hérkos) (a fence; perhaps akin to [[en:lexicon:g3725|G3725]]);
+
+===== Meaning =====
+
+a limit, i.e. (sacred) restraint (specially, an oath)
+
+===== Usage =====
+
+oath.
+
+===== Strongs References =====
+
+[[en:lexicon:g3725|G3725]]

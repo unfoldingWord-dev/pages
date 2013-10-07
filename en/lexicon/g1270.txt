@@ -1,0 +1,18 @@
+====== G1270: διανόημα (dianóēma) ======
+
+===== Source =====
+
+from a compound of [[en:lexicon:g1223|G1223]] and [[en:lexicon:g3539|G3539]];
+
+===== Meaning =====
+
+something thought through, i.e. a sentiment
+
+===== Usage =====
+
+thought.
+
+===== Strongs References =====
+
+[[en:lexicon:g1223|G1223]]
+[[en:lexicon:g3539|G3539]]

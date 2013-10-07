@@ -1,0 +1,18 @@
+====== G4304: προμελετάω (promeletáō) ======
+
+===== Source =====
+
+from [[en:lexicon:g4253|G4253]] and [[en:lexicon:g3191|G3191]];
+
+===== Meaning =====
+
+to premeditate
+
+===== Usage =====
+
+meditate before.
+
+===== Strongs References =====
+
+[[en:lexicon:g4253|G4253]]
+[[en:lexicon:g3191|G3191]]

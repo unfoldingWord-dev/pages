@@ -1,0 +1,18 @@
+====== G5446: φυσικός (physikós) ======
+
+===== Source =====
+
+from [[en:lexicon:g5449|G5449]];
+
+===== Meaning =====
+
+"physical", i.e. (by implication) instinctive
+
+===== Usage =====
+
+natural.
+
+===== Strongs References =====
+
+[[en:lexicon:g5449|G5449]]
+[[en:lexicon:g5591|G5591]]

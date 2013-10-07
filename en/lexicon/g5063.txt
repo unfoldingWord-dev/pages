@@ -1,0 +1,18 @@
+====== G5063: τεσσαρακονταετής (tessarakontaetḗs) ======
+
+===== Source =====
+
+from [[en:lexicon:g5062|G5062]] and [[en:lexicon:g2094|G2094]];
+
+===== Meaning =====
+
+of forty years of age
+
+===== Usage =====
+
+(+ full, of) forty years (old).
+
+===== Strongs References =====
+
+[[en:lexicon:g5062|G5062]]
+[[en:lexicon:g2094|G2094]]

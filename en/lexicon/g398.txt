@@ -1,0 +1,18 @@
+====== G398: ἀναφαίνω (anaphaínō) ======
+
+===== Source =====
+
+from [[en:lexicon:g303|G303]] and [[en:lexicon:g5316|G5316]];
+
+===== Meaning =====
+
+to show, i.e. (reflexively) appear, or (passively) to have pointed out
+
+===== Usage =====
+
+(should) appear, discover.
+
+===== Strongs References =====
+
+[[en:lexicon:g303|G303]]
+[[en:lexicon:g5316|G5316]]

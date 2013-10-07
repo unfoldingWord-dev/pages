@@ -1,0 +1,17 @@
+====== G1292: διάστημα (diástēma) ======
+
+===== Source =====
+
+from [[en:lexicon:g1339|G1339]];
+
+===== Meaning =====
+
+an interval
+
+===== Usage =====
+
+space.
+
+===== Strongs References =====
+
+[[en:lexicon:g1339|G1339]]

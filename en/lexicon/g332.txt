@@ -1,0 +1,17 @@
+====== G332: ἀναθεματίζω (anathematízō) ======
+
+===== Source =====
+
+from [[en:lexicon:g331|G331]];
+
+===== Meaning =====
+
+to declare or vow under penalty of execration
+
+===== Usage =====
+
+(bind under a) curse, bind with an oath.
+
+===== Strongs References =====
+
+[[en:lexicon:g331|G331]]

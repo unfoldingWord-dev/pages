@@ -1,0 +1,17 @@
+====== G1328: διερμηνευτής (diermēneutḗs) ======
+
+===== Source =====
+
+from [[en:lexicon:g1329|G1329]];
+
+===== Meaning =====
+
+an explainer
+
+===== Usage =====
+
+interpreter.
+
+===== Strongs References =====
+
+[[en:lexicon:g1329|G1329]]

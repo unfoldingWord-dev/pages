@@ -1,0 +1,17 @@
+====== G5185: τυφλός (typhlós) ======
+
+===== Source =====
+
+from, [[en:lexicon:g5187|G5187]];
+
+===== Meaning =====
+
+opaque (as if smoky), i.e. (by analogy) blind (physically or mentally)
+
+===== Usage =====
+
+blind.
+
+===== Strongs References =====
+
+[[en:lexicon:g5187|G5187]]

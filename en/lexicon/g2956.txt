@@ -1,0 +1,17 @@
+====== G2956: Κυρηναῖος (Kyrēnaîos) ======
+
+===== Source =====
+
+from [[en:lexicon:g2957|G2957]];
+
+===== Meaning =====
+
+i.e. Cyrenæan, i.e. inhabitant of Cyrene
+
+===== Usage =====
+
+of Cyrene, Cyrenian.
+
+===== Strongs References =====
+
+[[en:lexicon:g2957|G2957]]

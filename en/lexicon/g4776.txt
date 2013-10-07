@@ -1,0 +1,18 @@
+====== G4776: συγκαθίζω (synkathízō) ======
+
+===== Source =====
+
+from [[en:lexicon:g4862|G4862]] and [[en:lexicon:g2523|G2523]];
+
+===== Meaning =====
+
+to give (or take) a seat in company with
+
+===== Usage =====
+
+(make) sit (down) together.
+
+===== Strongs References =====
+
+[[en:lexicon:g4862|G4862]]
+[[en:lexicon:g2523|G2523]]

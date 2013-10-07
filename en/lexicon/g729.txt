@@ -1,0 +1,19 @@
+====== G729: ἄῤῥαφος (árrhaphos) ======
+
+===== Source =====
+
+from [[en:lexicon:g1|G1]] (as a negative particle) and a presumed derivative of the same
+ as [[en:lexicon:g4476|G4476]];
+
+===== Meaning =====
+
+unsewed, i.e. of a single piece
+
+===== Usage =====
+
+without seam.
+
+===== Strongs References =====
+
+[[en:lexicon:g1|G1]]
+[[en:lexicon:g4476|G4476]]

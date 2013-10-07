@@ -1,0 +1,17 @@
+====== G3874: παράκλησις (paráklēsis) ======
+
+===== Source =====
+
+from [[en:lexicon:g3870|G3870]];
+
+===== Meaning =====
+
+imploration, hortation, solace
+
+===== Usage =====
+
+comfort, consolation, exhortation, intreaty.
+
+===== Strongs References =====
+
+[[en:lexicon:g3870|G3870]]

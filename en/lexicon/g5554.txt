@@ -1,0 +1,18 @@
+====== G5554: χρυσοδακτύλιος (chrysodaktýlios) ======
+
+===== Source =====
+
+from [[en:lexicon:g5557|G5557]] and [[en:lexicon:g1146|G1146]];
+
+===== Meaning =====
+
+gold-ringed, i.e. wearing a golden finger-ring or similar jewelry
+
+===== Usage =====
+
+with a gold ring.
+
+===== Strongs References =====
+
+[[en:lexicon:g5557|G5557]]
+[[en:lexicon:g1146|G1146]]

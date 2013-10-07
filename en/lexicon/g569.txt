@@ -1,0 +1,17 @@
+====== G569: ἀπιστέω (apistéō) ======
+
+===== Source =====
+
+from [[en:lexicon:g571|G571]];
+
+===== Meaning =====
+
+to be unbelieving, i.e. (transitively) disbelieve, or (by implication) disobey
+
+===== Usage =====
+
+believe not.
+
+===== Strongs References =====
+
+[[en:lexicon:g571|G571]]

@@ -1,0 +1,21 @@
+====== G2036: ἔπω (épō) ======
+
+===== Source =====
+
+a primary verb (used only in the definite past tense, the others being
+ borrowed from [[en:lexicon:g2046|G2046]], [[en:lexicon:g4483|G4483]], and [[en:lexicon:g5346|G5346]]);
+
+===== Meaning =====
+
+to speak or say (by word or writing)
+
+===== Usage =====
+
+answer, bid, bring word, call, command, grant, say (on), speak, tell.
+
+===== Strongs References =====
+
+[[en:lexicon:g2046|G2046]]
+[[en:lexicon:g4483|G4483]]
+[[en:lexicon:g5346|G5346]]
+[[en:lexicon:g3004|G3004]]

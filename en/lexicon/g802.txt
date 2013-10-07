@@ -1,0 +1,18 @@
+====== G802: ἀσύνθετος (asýnthetos) ======
+
+===== Source =====
+
+from [[en:lexicon:g1|G1]] (as a negative particle) and a derivative of [[en:lexicon:g4934|G4934]];
+
+===== Meaning =====
+
+properly, not agreed, i.e. treacherous to compacts
+
+===== Usage =====
+
+ covenant-breaker.
+
+===== Strongs References =====
+
+[[en:lexicon:g1|G1]]
+[[en:lexicon:g4934|G4934]]

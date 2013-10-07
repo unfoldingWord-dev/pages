@@ -1,0 +1,17 @@
+====== G485: ἀντιλογία (antilogía) ======
+
+===== Source =====
+
+from a derivative of [[en:lexicon:g483|G483]];
+
+===== Meaning =====
+
+dispute, disobedience
+
+===== Usage =====
+
+contradiction, gainsaying, strife.
+
+===== Strongs References =====
+
+[[en:lexicon:g483|G483]]

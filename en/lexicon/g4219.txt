@@ -1,0 +1,18 @@
+====== G4219: πότε (póte) ======
+
+===== Source =====
+
+from the base of [[en:lexicon:g4226|G4226]] and [[en:lexicon:g5037|G5037]];
+
+===== Meaning =====
+
+interrogative adverb, at what time
+
+===== Usage =====
+
++ how long, when.
+
+===== Strongs References =====
+
+[[en:lexicon:g4226|G4226]]
+[[en:lexicon:g5037|G5037]]

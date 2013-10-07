@@ -1,0 +1,18 @@
+====== G4332: προσεδρεύω (prosedreúō) ======
+
+===== Source =====
+
+from a compound of [[en:lexicon:g4314|G4314]] and the base of [[en:lexicon:g1476|G1476]];
+
+===== Meaning =====
+
+to sit near, i.e. attend as a servant
+
+===== Usage =====
+
+wait at.
+
+===== Strongs References =====
+
+[[en:lexicon:g4314|G4314]]
+[[en:lexicon:g1476|G1476]]

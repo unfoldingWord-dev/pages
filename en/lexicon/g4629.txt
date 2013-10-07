@@ -1,0 +1,18 @@
+====== G4629: σκέπασμα (sképasma) ======
+
+===== Source =====
+
+from a derivative of σκέπας (sképas) (a covering; perhaps akin to the base of
+ [[en:lexicon:g4649|G4649]] through the idea of noticeableness);
+
+===== Meaning =====
+
+clothing
+
+===== Usage =====
+
+raiment.
+
+===== Strongs References =====
+
+[[en:lexicon:g4649|G4649]]

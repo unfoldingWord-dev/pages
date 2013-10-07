@@ -1,0 +1,18 @@
+====== G5572: ψευδοδιδάσκαλος (pseudodidáskalos) ======
+
+===== Source =====
+
+from [[en:lexicon:g5571|G5571]] and [[en:lexicon:g1320|G1320]];
+
+===== Meaning =====
+
+a spurious teacher, i.e. propagator of erroneous Christian doctrine
+
+===== Usage =====
+
+false teacher.
+
+===== Strongs References =====
+
+[[en:lexicon:g5571|G5571]]
+[[en:lexicon:g1320|G1320]]

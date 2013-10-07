@@ -1,0 +1,17 @@
+====== G2395: ἰατρός (iatrós) ======
+
+===== Source =====
+
+from [[en:lexicon:g2390|G2390]];
+
+===== Meaning =====
+
+a physician
+
+===== Usage =====
+
+physician.
+
+===== Strongs References =====
+
+[[en:lexicon:g2390|G2390]]

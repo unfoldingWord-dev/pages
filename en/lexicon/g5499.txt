@@ -1,0 +1,18 @@
+====== G5499: χειροποίητος (cheiropoíētos) ======
+
+===== Source =====
+
+from [[en:lexicon:g5495|G5495]] and a derivative of [[en:lexicon:g4160|G4160]];
+
+===== Meaning =====
+
+manufactured, i.e. of human construction
+
+===== Usage =====
+
+made by (make with) hands.
+
+===== Strongs References =====
+
+[[en:lexicon:g5495|G5495]]
+[[en:lexicon:g4160|G4160]]

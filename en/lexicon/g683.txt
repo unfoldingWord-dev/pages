@@ -1,0 +1,17 @@
+====== G683: ἀπωθέομαι (apōthéomai) ======
+
+===== Source =====
+
+from [[en:lexicon:g575|G575]] and the middle voice of ὠθέω (ōthéō) or ὤθω (ṓthō) (to shove);
+
+===== Meaning =====
+
+to push off, figuratively, to reject
+
+===== Usage =====
+
+cast away, put away (from), thrust away (from).
+
+===== Strongs References =====
+
+[[en:lexicon:g575|G575]]

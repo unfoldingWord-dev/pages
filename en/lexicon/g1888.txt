@@ -1,0 +1,19 @@
+====== G1888: ἐπαυτοφώρῳ (epautophṓrōi) ======
+
+===== Source =====
+
+from [[en:lexicon:g1909|G1909]] and [[en:lexicon:g846|G846]] and (the dative case singular of) a derivative of
+ φώρ (phṓr) (a thief);
+
+===== Meaning =====
+
+in theft itself, i.e. (by analogy) in actual crime
+
+===== Usage =====
+
+in the very act.
+
+===== Strongs References =====
+
+[[en:lexicon:g1909|G1909]]
+[[en:lexicon:g846|G846]]

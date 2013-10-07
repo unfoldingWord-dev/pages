@@ -1,0 +1,18 @@
+====== G2993: Λαοδίκεια (Laodíkeia) ======
+
+===== Source =====
+
+from a compound of [[en:lexicon:g2992|G2992]] and [[en:lexicon:g1349|G1349]];
+
+===== Meaning =====
+
+Laodicia, a place in Asia Minor
+
+===== Usage =====
+
+Laodicea.
+
+===== Strongs References =====
+
+[[en:lexicon:g2992|G2992]]
+[[en:lexicon:g1349|G1349]]

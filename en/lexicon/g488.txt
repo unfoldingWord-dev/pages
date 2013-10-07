@@ -1,0 +1,18 @@
+====== G488: ἀντιμετρέω (antimetréō) ======
+
+===== Source =====
+
+from [[en:lexicon:g473|G473]] and [[en:lexicon:g3354|G3354]];
+
+===== Meaning =====
+
+to mete in return
+
+===== Usage =====
+
+measure again.
+
+===== Strongs References =====
+
+[[en:lexicon:g473|G473]]
+[[en:lexicon:g3354|G3354]]

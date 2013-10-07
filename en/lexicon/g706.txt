@@ -1,0 +1,17 @@
+====== G706: ἀριθμός (arithmós) ======
+
+===== Source =====
+
+from [[en:lexicon:g142|G142]];
+
+===== Meaning =====
+
+a number (as reckoned up)
+
+===== Usage =====
+
+number.
+
+===== Strongs References =====
+
+[[en:lexicon:g142|G142]]

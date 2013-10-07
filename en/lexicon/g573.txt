@@ -1,0 +1,18 @@
+====== G573: ἁπλοῦς (haploûs) ======
+
+===== Source =====
+
+probably from [[en:lexicon:g1|G1]] (as a particle of union) and the base of [[en:lexicon:g4120|G4120]];
+
+===== Meaning =====
+
+properly, folded together, i.e. single (figuratively, clear)
+
+===== Usage =====
+
+single.
+
+===== Strongs References =====
+
+[[en:lexicon:g1|G1]]
+[[en:lexicon:g4120|G4120]]

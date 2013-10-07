@@ -1,0 +1,17 @@
+====== G262: ἀμαράντινος (amarántinos) ======
+
+===== Source =====
+
+from [[en:lexicon:g263|G263]];
+
+===== Meaning =====
+
+"amaranthine", i.e. (by implication) fadeless
+
+===== Usage =====
+
+that fadeth not away.
+
+===== Strongs References =====
+
+[[en:lexicon:g263|G263]]

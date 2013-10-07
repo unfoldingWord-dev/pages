@@ -1,0 +1,18 @@
+====== G3338: μεταμέλλομαι (metaméllomai) ======
+
+===== Source =====
+
+from [[en:lexicon:g3326|G3326]] and the middle voice of [[en:lexicon:g3199|G3199]];
+
+===== Meaning =====
+
+to care afterwards, i.e. regret
+
+===== Usage =====
+
+repent (self).
+
+===== Strongs References =====
+
+[[en:lexicon:g3326|G3326]]
+[[en:lexicon:g3199|G3199]]

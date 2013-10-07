@@ -1,0 +1,17 @@
+====== G4420: πτέρυξ (ptéryx) ======
+
+===== Source =====
+
+from a derivative of [[en:lexicon:g4072|G4072]] (meaning a feather);
+
+===== Meaning =====
+
+a wing
+
+===== Usage =====
+
+wing.
+
+===== Strongs References =====
+
+[[en:lexicon:g4072|G4072]]

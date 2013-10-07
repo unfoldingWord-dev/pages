@@ -1,0 +1,19 @@
+====== G548: ἄπειμι (ápeimi) ======
+
+===== Source =====
+
+from [[en:lexicon:g575|G575]] and [[en:lexicon:g1510|G1510]];
+
+===== Meaning =====
+
+to be away
+
+===== Usage =====
+
+be absent.
+
+===== Strongs References =====
+
+[[en:lexicon:g575|G575]]
+[[en:lexicon:g1510|G1510]]
+[[en:lexicon:g549|G549]]

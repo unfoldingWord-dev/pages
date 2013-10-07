@@ -1,0 +1,18 @@
+====== G182: ἀκατάστατος (akatástatos) ======
+
+===== Source =====
+
+from [[en:lexicon:g1|G1]] (as a negative particle) and a derivative of [[en:lexicon:g2525|G2525]];
+
+===== Meaning =====
+
+inconstant
+
+===== Usage =====
+
+unstable.
+
+===== Strongs References =====
+
+[[en:lexicon:g1|G1]]
+[[en:lexicon:g2525|G2525]]

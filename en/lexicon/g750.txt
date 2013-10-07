@@ -1,0 +1,18 @@
+====== G750: ἀρχιποίμην (archipoímēn) ======
+
+===== Source =====
+
+from [[en:lexicon:g746|G746]] and [[en:lexicon:g4166|G4166]];
+
+===== Meaning =====
+
+a head shepherd
+
+===== Usage =====
+
+chief shepherd.
+
+===== Strongs References =====
+
+[[en:lexicon:g746|G746]]
+[[en:lexicon:g4166|G4166]]

@@ -1,0 +1,17 @@
+====== G4102: πίστις (pístis) ======
+
+===== Source =====
+
+from [[en:lexicon:g3982|G3982]];
+
+===== Meaning =====
+
+persuasion, i.e. credence; moral conviction (of religious truth, or the truthfulness of God or a religious teacher), especially reliance upon Christ for salvation; abstractly, constancy in such profession; by extension, the system of religious (Gospel) truth itself
+
+===== Usage =====
+
+assurance, belief, believe, faith, fidelity.
+
+===== Strongs References =====
+
+[[en:lexicon:g3982|G3982]]

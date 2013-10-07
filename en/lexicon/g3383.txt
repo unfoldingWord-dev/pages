@@ -1,0 +1,18 @@
+====== G3383: μήτε (mḗte) ======
+
+===== Source =====
+
+from [[en:lexicon:g3361|G3361]] and [[en:lexicon:g5037|G5037]];
+
+===== Meaning =====
+
+not too, i.e. (in continued negation) neither or nor; also, not even
+
+===== Usage =====
+
+neither, (n-)or, so as much.
+
+===== Strongs References =====
+
+[[en:lexicon:g3361|G3361]]
+[[en:lexicon:g5037|G5037]]

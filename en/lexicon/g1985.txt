@@ -1,0 +1,19 @@
+====== G1985: ἐπίσκοπος (epískopos) ======
+
+===== Source =====
+
+from [[en:lexicon:g1909|G1909]] and [[en:lexicon:g4649|G4649]] (in the sense of [[en:lexicon:g1983|G1983]]);
+
+===== Meaning =====
+
+a superintendent, i.e. Christian officer in genitive case charge of a (or the) church (literally or figuratively)
+
+===== Usage =====
+
+bishop, overseer.
+
+===== Strongs References =====
+
+[[en:lexicon:g1909|G1909]]
+[[en:lexicon:g4649|G4649]]
+[[en:lexicon:g1983|G1983]]

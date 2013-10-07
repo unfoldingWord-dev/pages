@@ -1,0 +1,17 @@
+====== G123: αἰγιαλός (aigialós) ======
+
+===== Source =====
+
+from aisso (to rush) and [[en:lexicon:g251|G251]] (in the sense of the sea);
+
+===== Meaning =====
+
+a beach (on which the waves dash)
+
+===== Usage =====
+
+shore.
+
+===== Strongs References =====
+
+[[en:lexicon:g251|G251]]

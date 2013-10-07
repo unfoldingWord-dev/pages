@@ -1,0 +1,17 @@
+====== G4713: στάμνος (stámnos) ======
+
+===== Source =====
+
+from the base of [[en:lexicon:g2476|G2476]] (as stationary);
+
+===== Meaning =====
+
+a jar or earthen tank
+
+===== Usage =====
+
+pot.
+
+===== Strongs References =====
+
+[[en:lexicon:g2476|G2476]]

@@ -1,0 +1,18 @@
+====== G611: ἀποκρίνομαι (apokrínomai) ======
+
+===== Source =====
+
+from [[en:lexicon:g575|G575]] and κρίνω (krínō);
+
+===== Meaning =====
+
+to conclude for oneself, i.e. (by implication) to respond; by Hebraism (compare
+
+===== Usage =====
+
+answer.
+
+===== Strongs References =====
+
+[[en:lexicon:g575|G575]]
+[[en:lexicon:h06030|H06030]]

@@ -1,0 +1,17 @@
+====== G926: βαρύς (barýs) ======
+
+===== Source =====
+
+from the same as [[en:lexicon:g922|G922]];
+
+===== Meaning =====
+
+weighty, i.e. (fig) burdensome, grave
+
+===== Usage =====
+
+grievous, heavy, weightier.
+
+===== Strongs References =====
+
+[[en:lexicon:g922|G922]]

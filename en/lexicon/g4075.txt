@@ -1,0 +1,18 @@
+====== G4075: πετρώδης (petrṓdēs) ======
+
+===== Source =====
+
+from [[en:lexicon:g4073|G4073]] and [[en:lexicon:g1491|G1491]];
+
+===== Meaning =====
+
+rock-like, i.e. rocky
+
+===== Usage =====
+
+stony.
+
+===== Strongs References =====
+
+[[en:lexicon:g4073|G4073]]
+[[en:lexicon:g1491|G1491]]

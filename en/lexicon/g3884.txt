@@ -1,0 +1,18 @@
+====== G3884: παραλογίζομαι (paralogízomai) ======
+
+===== Source =====
+
+from [[en:lexicon:g3844|G3844]] and [[en:lexicon:g3049|G3049]];
+
+===== Meaning =====
+
+to misreckon, i.e. delude
+
+===== Usage =====
+
+beguile, deceive.
+
+===== Strongs References =====
+
+[[en:lexicon:g3844|G3844]]
+[[en:lexicon:g3049|G3049]]

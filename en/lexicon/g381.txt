@@ -1,0 +1,18 @@
+====== G381: ἀνάπτω (anáptō) ======
+
+===== Source =====
+
+from [[en:lexicon:g303|G303]] and [[en:lexicon:g681|G681]];
+
+===== Meaning =====
+
+to enkindle
+
+===== Usage =====
+
+kindle, light.
+
+===== Strongs References =====
+
+[[en:lexicon:g303|G303]]
+[[en:lexicon:g681|G681]]

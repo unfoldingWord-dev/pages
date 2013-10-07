@@ -1,0 +1,18 @@
+====== G4372: πρόσφατος (prósphatos) ======
+
+===== Source =====
+
+from [[en:lexicon:g4253|G4253]] and a derivative of [[en:lexicon:g4969|G4969]];
+
+===== Meaning =====
+
+previously (recently) slain (fresh), i.e. (figuratively) lately made
+
+===== Usage =====
+
+new.
+
+===== Strongs References =====
+
+[[en:lexicon:g4253|G4253]]
+[[en:lexicon:g4969|G4969]]

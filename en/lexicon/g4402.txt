@@ -1,0 +1,18 @@
+====== G4402: Πρόχορος (Próchoros) ======
+
+===== Source =====
+
+from [[en:lexicon:g4253|G4253]] and [[en:lexicon:g5525|G5525]];
+
+===== Meaning =====
+
+before the dance; Prochorus, a Christian
+
+===== Usage =====
+
+Prochorus.
+
+===== Strongs References =====
+
+[[en:lexicon:g4253|G4253]]
+[[en:lexicon:g5525|G5525]]

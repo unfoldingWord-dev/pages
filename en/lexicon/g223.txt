@@ -1,0 +1,18 @@
+====== G223: Ἀλέξανδρος (Aléxandros) ======
+
+===== Source =====
+
+from the same as (the first part of) [[en:lexicon:g220|G220]] and [[en:lexicon:g435|G435]];
+
+===== Meaning =====
+
+man-defender; Alexander, the name of three Israelites and one other man
+
+===== Usage =====
+
+Alexander.
+
+===== Strongs References =====
+
+[[en:lexicon:g220|G220]]
+[[en:lexicon:g435|G435]]

@@ -1,0 +1,18 @@
+====== G4366: προσρήγνυμι (prosrḗgnymi) ======
+
+===== Source =====
+
+from [[en:lexicon:g4314|G4314]] and [[en:lexicon:g4486|G4486]];
+
+===== Meaning =====
+
+to tear towards, i.e. burst upon (as a tempest or flood)
+
+===== Usage =====
+
+beat vehemently against (upon).
+
+===== Strongs References =====
+
+[[en:lexicon:g4314|G4314]]
+[[en:lexicon:g4486|G4486]]

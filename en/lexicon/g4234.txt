@@ -1,0 +1,17 @@
+====== G4234: πρᾶξις (prâxis) ======
+
+===== Source =====
+
+from [[en:lexicon:g4238|G4238]];
+
+===== Meaning =====
+
+practice, i.e. (concretely) an act; by extension, a function
+
+===== Usage =====
+
+deed, office, work.
+
+===== Strongs References =====
+
+[[en:lexicon:g4238|G4238]]

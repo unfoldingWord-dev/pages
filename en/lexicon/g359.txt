@@ -1,0 +1,17 @@
+====== G359: ἀνάλυσις (análysis) ======
+
+===== Source =====
+
+from [[en:lexicon:g360|G360]];
+
+===== Meaning =====
+
+departure
+
+===== Usage =====
+
+departure.
+
+===== Strongs References =====
+
+[[en:lexicon:g360|G360]]

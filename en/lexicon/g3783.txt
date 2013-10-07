@@ -1,0 +1,17 @@
+====== G3783: ὀφείλημα (opheílēma) ======
+
+===== Source =====
+
+from (the alternate of) [[en:lexicon:g3784|G3784]];
+
+===== Meaning =====
+
+something owed, i.e. (figuratively) a due; morally, a fault
+
+===== Usage =====
+
+debt.
+
+===== Strongs References =====
+
+[[en:lexicon:g3784|G3784]]

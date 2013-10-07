@@ -1,0 +1,18 @@
+====== G400: ἀναφωνέω (anaphōnéō) ======
+
+===== Source =====
+
+from [[en:lexicon:g303|G303]] and [[en:lexicon:g5455|G5455]];
+
+===== Meaning =====
+
+to exclaim
+
+===== Usage =====
+
+speak out.
+
+===== Strongs References =====
+
+[[en:lexicon:g303|G303]]
+[[en:lexicon:g5455|G5455]]

@@ -1,0 +1,17 @@
+====== G311: ἀναβολή (anabolḗ) ======
+
+===== Source =====
+
+from [[en:lexicon:g306|G306]];
+
+===== Meaning =====
+
+a putting off
+
+===== Usage =====
+
+delay.
+
+===== Strongs References =====
+
+[[en:lexicon:g306|G306]]

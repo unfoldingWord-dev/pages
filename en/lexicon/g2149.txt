@@ -1,0 +1,17 @@
+====== G2149: εὐρύχωρος (eurýchōros) ======
+
+===== Source =====
+
+from εὐρύς (eurýs) (wide) and [[en:lexicon:g5561|G5561]];
+
+===== Meaning =====
+
+spacious
+
+===== Usage =====
+
+broad.
+
+===== Strongs References =====
+
+[[en:lexicon:g5561|G5561]]

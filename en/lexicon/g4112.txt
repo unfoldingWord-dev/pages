@@ -1,0 +1,17 @@
+====== G4112: πλαστός (plastós) ======
+
+===== Source =====
+
+from [[en:lexicon:g4111|G4111]];
+
+===== Meaning =====
+
+moulded, i.e. (by implication) artificial or (figuratively) fictitious (false)
+
+===== Usage =====
+
+feigned.
+
+===== Strongs References =====
+
+[[en:lexicon:g4111|G4111]]

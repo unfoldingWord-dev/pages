@@ -1,0 +1,18 @@
+====== G5279: ὑπομιμνήσκω (hypomimnḗskō) ======
+
+===== Source =====
+
+from [[en:lexicon:g5259|G5259]] and [[en:lexicon:g3403|G3403]];
+
+===== Meaning =====
+
+to remind quietly, i.e. suggest to the (middle voice, one's own) memory
+
+===== Usage =====
+
+put in mind, remember, bring to (put in) remembrance.
+
+===== Strongs References =====
+
+[[en:lexicon:g5259|G5259]]
+[[en:lexicon:g3403|G3403]]

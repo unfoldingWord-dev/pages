@@ -1,0 +1,18 @@
+====== G394: ἀνατίθεμαι (anatíthemai) ======
+
+===== Source =====
+
+from [[en:lexicon:g303|G303]] and the middle voice of [[en:lexicon:g5087|G5087]];
+
+===== Meaning =====
+
+to set forth (for oneself), i.e propound
+
+===== Usage =====
+
+communicate, declare.
+
+===== Strongs References =====
+
+[[en:lexicon:g303|G303]]
+[[en:lexicon:g5087|G5087]]

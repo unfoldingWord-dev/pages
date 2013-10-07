@@ -1,0 +1,18 @@
+====== G5459: φωσφόρος (phōsphóros) ======
+
+===== Source =====
+
+from [[en:lexicon:g5457|G5457]] and [[en:lexicon:g5342|G5342]];
+
+===== Meaning =====
+
+light-bearing ("phosphorus"), i.e. (specially), the morning-star (figuratively)
+
+===== Usage =====
+
+day star.
+
+===== Strongs References =====
+
+[[en:lexicon:g5457|G5457]]
+[[en:lexicon:g5342|G5342]]

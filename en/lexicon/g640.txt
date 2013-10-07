@@ -1,0 +1,17 @@
+====== G640: ἀπορία (aporía) ======
+
+===== Source =====
+
+from the same as [[en:lexicon:g639|G639]];
+
+===== Meaning =====
+
+a (state of) quandary
+
+===== Usage =====
+
+perplexity.
+
+===== Strongs References =====
+
+[[en:lexicon:g639|G639]]

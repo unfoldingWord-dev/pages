@@ -1,0 +1,18 @@
+====== G4870: συνακολουθέω (synakolouthéō) ======
+
+===== Source =====
+
+from [[en:lexicon:g4862|G4862]] and [[en:lexicon:g190|G190]];
+
+===== Meaning =====
+
+to accompany
+
+===== Usage =====
+
+follow.
+
+===== Strongs References =====
+
+[[en:lexicon:g4862|G4862]]
+[[en:lexicon:g190|G190]]

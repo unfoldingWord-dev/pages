@@ -1,0 +1,18 @@
+====== G4000: πεντακισχίλιοι (pentakischílioi) ======
+
+===== Source =====
+
+from [[en:lexicon:g3999|G3999]] and [[en:lexicon:g5507|G5507]];
+
+===== Meaning =====
+
+five times a thousand
+
+===== Usage =====
+
+five thousand.
+
+===== Strongs References =====
+
+[[en:lexicon:g3999|G3999]]
+[[en:lexicon:g5507|G5507]]

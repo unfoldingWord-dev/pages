@@ -1,0 +1,18 @@
+====== G2030: ἐπόπτης (epóptēs) ======
+
+===== Source =====
+
+from [[en:lexicon:g1909|G1909]] and a presumed derivative of [[en:lexicon:g3700|G3700]];
+
+===== Meaning =====
+
+a looker-on
+
+===== Usage =====
+
+eye-witness.
+
+===== Strongs References =====
+
+[[en:lexicon:g1909|G1909]]
+[[en:lexicon:g3700|G3700]]

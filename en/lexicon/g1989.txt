@@ -1,0 +1,18 @@
+====== G1989: ἐπιστέλλω (epistéllō) ======
+
+===== Source =====
+
+from [[en:lexicon:g1909|G1909]] and [[en:lexicon:g4724|G4724]];
+
+===== Meaning =====
+
+to enjoin (by writing), i.e. (genitive case) to communicate by letter (for any purpose)
+
+===== Usage =====
+
+write (a letter, unto).
+
+===== Strongs References =====
+
+[[en:lexicon:g1909|G1909]]
+[[en:lexicon:g4724|G4724]]

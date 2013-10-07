@@ -1,0 +1,17 @@
+====== G932: βασιλεία (basileía) ======
+
+===== Source =====
+
+from [[en:lexicon:g935|G935]];
+
+===== Meaning =====
+
+properly, royalty, i.e. (abstractly) rule, or (concretely) a realm (literally or figuratively)
+
+===== Usage =====
+
+kingdom, + reign.
+
+===== Strongs References =====
+
+[[en:lexicon:g935|G935]]

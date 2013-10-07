@@ -1,0 +1,17 @@
+====== G961: Βεροιαῖος (Beroiaîos) ======
+
+===== Source =====
+
+from [[en:lexicon:g960|G960]];
+
+===== Meaning =====
+
+a Berœoean or native of Berœa
+
+===== Usage =====
+
+of Berea.
+
+===== Strongs References =====
+
+[[en:lexicon:g960|G960]]

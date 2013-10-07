@@ -1,0 +1,17 @@
+====== G4857: συμφώνησις (symphṓnēsis) ======
+
+===== Source =====
+
+from [[en:lexicon:g4856|G4856]];
+
+===== Meaning =====
+
+accordance
+
+===== Usage =====
+
+concord.
+
+===== Strongs References =====
+
+[[en:lexicon:g4856|G4856]]

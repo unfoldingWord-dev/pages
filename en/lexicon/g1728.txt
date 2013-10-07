@@ -1,0 +1,19 @@
+====== G1728: ἐνάρχομαι (enárchomai) ======
+
+===== Source =====
+
+from [[en:lexicon:g1722|G1722]] and [[en:lexicon:g756|G756]];
+
+===== Meaning =====
+
+to commence on
+
+===== Usage =====
+
+rule (by mistake for
+
+===== Strongs References =====
+
+[[en:lexicon:g1722|G1722]]
+[[en:lexicon:g756|G756]]
+[[en:lexicon:g757|G757]]

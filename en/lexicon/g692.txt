@@ -1,0 +1,18 @@
+====== G692: ἀργός (argós) ======
+
+===== Source =====
+
+from [[en:lexicon:g1|G1]] (as a negative particle) and [[en:lexicon:g2041|G2041]];
+
+===== Meaning =====
+
+inactive, i.e. unemployed; (by implication) lazy, useless
+
+===== Usage =====
+
+barren, idle, slow.
+
+===== Strongs References =====
+
+[[en:lexicon:g1|G1]]
+[[en:lexicon:g2041|G2041]]

@@ -1,0 +1,17 @@
+====== G1253: διάκρισις (diákrisis) ======
+
+===== Source =====
+
+from [[en:lexicon:g1252|G1252]];
+
+===== Meaning =====
+
+judicial estimation
+
+===== Usage =====
+
+discern(-ing), disputation.
+
+===== Strongs References =====
+
+[[en:lexicon:g1252|G1252]]

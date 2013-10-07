@@ -1,0 +1,17 @@
+====== G3355: μετρητής (metrētḗs) ======
+
+===== Source =====
+
+from [[en:lexicon:g3354|G3354]];
+
+===== Meaning =====
+
+a measurer, i.e. (specially), a certain standard measure of capacity for liquids
+
+===== Usage =====
+
+firkin.
+
+===== Strongs References =====
+
+[[en:lexicon:g3354|G3354]]

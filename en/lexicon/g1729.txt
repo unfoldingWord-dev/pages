@@ -1,0 +1,18 @@
+====== G1729: ἐνδεής (endeḗs) ======
+
+===== Source =====
+
+from a compound of [[en:lexicon:g1722|G1722]] and [[en:lexicon:g1210|G1210]] (in the sense of lacking);
+
+===== Meaning =====
+
+deficient in
+
+===== Usage =====
+
+lacking.
+
+===== Strongs References =====
+
+[[en:lexicon:g1722|G1722]]
+[[en:lexicon:g1210|G1210]]

@@ -1,0 +1,19 @@
+====== G4755: στρατηγός (stratēgós) ======
+
+===== Source =====
+
+from the base of [[en:lexicon:g4756|G4756]] and [[en:lexicon:g71|G71]] or [[en:lexicon:g2233|G2233]];
+
+===== Meaning =====
+
+a general, i.e. (by implication or analogy) a (military) governor (prætor), the chief (præfect) of the (Levitical) temple-wardens
+
+===== Usage =====
+
+captain, magistrate.
+
+===== Strongs References =====
+
+[[en:lexicon:g4756|G4756]]
+[[en:lexicon:g71|G71]]
+[[en:lexicon:g2233|G2233]]

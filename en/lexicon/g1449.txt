@@ -1,0 +1,18 @@
+====== G1449: ἐγγράφω (engráphō) ======
+
+===== Source =====
+
+from [[en:lexicon:g1722|G1722]] and [[en:lexicon:g1125|G1125]];
+
+===== Meaning =====
+
+to "engrave", i.e. inscribe
+
+===== Usage =====
+
+write (in).
+
+===== Strongs References =====
+
+[[en:lexicon:g1722|G1722]]
+[[en:lexicon:g1125|G1125]]

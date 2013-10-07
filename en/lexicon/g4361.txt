@@ -1,0 +1,18 @@
+====== G4361: πρόσπεινος (próspeinos) ======
+
+===== Source =====
+
+from [[en:lexicon:g4314|G4314]] and the same as [[en:lexicon:g3983|G3983]];
+
+===== Meaning =====
+
+hungering further, i.e. intensely hungry
+
+===== Usage =====
+
+very hungry.
+
+===== Strongs References =====
+
+[[en:lexicon:g4314|G4314]]
+[[en:lexicon:g3983|G3983]]

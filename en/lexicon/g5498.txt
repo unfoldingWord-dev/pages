@@ -1,0 +1,18 @@
+====== G5498: χειρόγραφον (cheirógraphon) ======
+
+===== Source =====
+
+neuter of a compound of [[en:lexicon:g5495|G5495]] and [[en:lexicon:g1125|G1125]];
+
+===== Meaning =====
+
+something hand-written ("chirograph"), i.e. a manuscript (specially, a legal document or bond (figuratively))
+
+===== Usage =====
+
+handwriting.
+
+===== Strongs References =====
+
+[[en:lexicon:g5495|G5495]]
+[[en:lexicon:g1125|G1125]]

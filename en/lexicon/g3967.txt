@@ -1,0 +1,17 @@
+====== G3967: πατρικός (patrikós) ======
+
+===== Source =====
+
+from [[en:lexicon:g3962|G3962]];
+
+===== Meaning =====
+
+paternal, i.e. ancestral
+
+===== Usage =====
+
+of fathers.
+
+===== Strongs References =====
+
+[[en:lexicon:g3962|G3962]]

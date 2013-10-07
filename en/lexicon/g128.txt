@@ -1,0 +1,17 @@
+====== G128: Αἰθίοψ (Aithíops) ======
+
+===== Source =====
+
+from αἴθω (aíthō) (to scorch) and ὤψ (ṓps) (the face, from [[en:lexicon:g3700|G3700]]);
+
+===== Meaning =====
+
+an Æthiopian (as a blackamoor)
+
+===== Usage =====
+
+Ethiopian.
+
+===== Strongs References =====
+
+[[en:lexicon:g3700|G3700]]

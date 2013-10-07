@@ -1,0 +1,19 @@
+====== G4986: Σώπατρος (Sṓpatros) ======
+
+===== Source =====
+
+from the base of [[en:lexicon:g4982|G4982]] and [[en:lexicon:g3962|G3962]];
+
+===== Meaning =====
+
+of a safe father; Sopatrus, a Christian
+
+===== Usage =====
+
+Sopater.
+
+===== Strongs References =====
+
+[[en:lexicon:g4982|G4982]]
+[[en:lexicon:g3962|G3962]]
+[[en:lexicon:g4989|G4989]]

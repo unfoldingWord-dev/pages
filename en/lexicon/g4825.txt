@@ -1,0 +1,18 @@
+====== G4825: σύμβουλος (sýmboulos) ======
+
+===== Source =====
+
+from [[en:lexicon:g4862|G4862]] and [[en:lexicon:g1012|G1012]];
+
+===== Meaning =====
+
+a consultor, i.e. adviser
+
+===== Usage =====
+
+counsellor.
+
+===== Strongs References =====
+
+[[en:lexicon:g4862|G4862]]
+[[en:lexicon:g1012|G1012]]

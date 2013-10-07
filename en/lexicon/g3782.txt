@@ -1,0 +1,17 @@
+====== G3782: ὀφειλή (opheilḗ) ======
+
+===== Source =====
+
+from [[en:lexicon:g3784|G3784]];
+
+===== Meaning =====
+
+indebtedness, i.e. (concretely) a sum owed; figuratively, obligation, i.e. (conjugal) duty
+
+===== Usage =====
+
+debt, due.
+
+===== Strongs References =====
+
+[[en:lexicon:g3784|G3784]]

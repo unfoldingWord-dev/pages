@@ -1,0 +1,18 @@
+====== G12: ἄβυσσος (ábyssos) ======
+
+===== Source =====
+
+from [[en:lexicon:g1|G1]] (as a negative particle) and a variation of [[en:lexicon:g1037|G1037]];
+
+===== Meaning =====
+
+depthless, i.e. (specially) (infernal) "abyss"
+
+===== Usage =====
+
+deep, (bottomless) pit.
+
+===== Strongs References =====
+
+[[en:lexicon:g1|G1]]
+[[en:lexicon:g1037|G1037]]

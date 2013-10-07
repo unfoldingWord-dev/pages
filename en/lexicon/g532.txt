@@ -1,0 +1,18 @@
+====== G532: ἀπαρασκεύαστος (aparaskeúastos) ======
+
+===== Source =====
+
+from [[en:lexicon:g1|G1]] (as a negative particle) and a derivative of [[en:lexicon:g3903|G3903]];
+
+===== Meaning =====
+
+unready
+
+===== Usage =====
+
+unprepared.
+
+===== Strongs References =====
+
+[[en:lexicon:g1|G1]]
+[[en:lexicon:g3903|G3903]]

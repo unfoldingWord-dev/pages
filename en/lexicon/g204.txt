@@ -1,0 +1,18 @@
+====== G204: ἀκρογωνιαῖος (akrogōniaîos) ======
+
+===== Source =====
+
+from [[en:lexicon:g206|G206]] and [[en:lexicon:g1137|G1137]];
+
+===== Meaning =====
+
+belonging to the extreme corner
+
+===== Usage =====
+
+chief corner.
+
+===== Strongs References =====
+
+[[en:lexicon:g206|G206]]
+[[en:lexicon:g1137|G1137]]

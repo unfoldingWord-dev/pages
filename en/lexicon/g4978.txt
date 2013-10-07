@@ -1,0 +1,17 @@
+====== G4978: σχίσμα (schísma) ======
+
+===== Source =====
+
+from [[en:lexicon:g4977|G4977]];
+
+===== Meaning =====
+
+a split or gap ("schism"), literally or figuratively
+
+===== Usage =====
+
+division, rent, schism.
+
+===== Strongs References =====
+
+[[en:lexicon:g4977|G4977]]

@@ -1,0 +1,17 @@
+====== G5449: φύσις (phýsis) ======
+
+===== Source =====
+
+from [[en:lexicon:g5453|G5453]];
+
+===== Meaning =====
+
+growth (by germination or expansion), i.e. (by implication) natural production (lineal descent); by extension, a genus or sort; figuratively, native disposition, constitution or usage
+
+===== Usage =====
+
+(man-)kind, nature(-al).
+
+===== Strongs References =====
+
+[[en:lexicon:g5453|G5453]]

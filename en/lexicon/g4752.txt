@@ -1,0 +1,17 @@
+====== G4752: στρατεία (strateía) ======
+
+===== Source =====
+
+from [[en:lexicon:g4754|G4754]];
+
+===== Meaning =====
+
+military service, i.e. (figuratively) the apostolic career (as one of hardship and danger)
+
+===== Usage =====
+
+warfare.
+
+===== Strongs References =====
+
+[[en:lexicon:g4754|G4754]]

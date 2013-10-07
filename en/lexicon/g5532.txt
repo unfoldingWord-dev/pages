@@ -1,0 +1,18 @@
+====== G5532: χρεία (chreía) ======
+
+===== Source =====
+
+from the base of [[en:lexicon:g5530|G5530]] or [[en:lexicon:g5534|G5534]];
+
+===== Meaning =====
+
+employment, i.e. an affair; also (by implication) occasion, demand, requirement or destitution
+
+===== Usage =====
+
+business, lack, necessary(-ity), need(-ful), use, want.
+
+===== Strongs References =====
+
+[[en:lexicon:g5534|G5534]]
+[[en:lexicon:g5530|G5530]]

@@ -1,0 +1,18 @@
+====== G459: ἄνομος (ánomos) ======
+
+===== Source =====
+
+from [[en:lexicon:g1|G1]] (as a negative particle) and [[en:lexicon:g3551|G3551]];
+
+===== Meaning =====
+
+lawless, i.e. (negatively) not subject to (the Jewish) law; (by implication, a Gentile), or (positively) wicked
+
+===== Usage =====
+
+without law, lawless, transgressor, unlawful, wicked.
+
+===== Strongs References =====
+
+[[en:lexicon:g1|G1]]
+[[en:lexicon:g3551|G3551]]

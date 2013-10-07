@@ -1,0 +1,19 @@
+====== G5429: φρόνιμος (phrónimos) ======
+
+===== Source =====
+
+from [[en:lexicon:g5424|G5424]];
+
+===== Meaning =====
+
+thoughtful, i.e. sagacious or discreet (implying a cautious character; while
+
+===== Usage =====
+
+wise(-r).
+
+===== Strongs References =====
+
+[[en:lexicon:g5424|G5424]]
+[[en:lexicon:g4680|G4680]]
+[[en:lexicon:g4908|G4908]]

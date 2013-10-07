@@ -1,0 +1,17 @@
+====== G2542: Καισάρεια (Kaisáreia) ======
+
+===== Source =====
+
+from [[en:lexicon:g2541|G2541]];
+
+===== Meaning =====
+
+Cæsaria, the name of two places in Palestine
+
+===== Usage =====
+
+Cæsarea.
+
+===== Strongs References =====
+
+[[en:lexicon:g2541|G2541]]

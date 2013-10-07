@@ -1,0 +1,18 @@
+====== G2674: καταριθμέω (katarithméō) ======
+
+===== Source =====
+
+from [[en:lexicon:g2596|G2596]] and [[en:lexicon:g705|G705]];
+
+===== Meaning =====
+
+to reckon among
+
+===== Usage =====
+
+number with.
+
+===== Strongs References =====
+
+[[en:lexicon:g2596|G2596]]
+[[en:lexicon:g705|G705]]

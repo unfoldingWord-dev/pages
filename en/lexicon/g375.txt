@@ -1,0 +1,18 @@
+====== G375: ἀναπέμπω (anapémpō) ======
+
+===== Source =====
+
+from [[en:lexicon:g303|G303]] and [[en:lexicon:g3992|G3992]];
+
+===== Meaning =====
+
+to send up or back
+
+===== Usage =====
+
+send (again).
+
+===== Strongs References =====
+
+[[en:lexicon:g303|G303]]
+[[en:lexicon:g3992|G3992]]

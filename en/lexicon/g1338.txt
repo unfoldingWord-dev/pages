@@ -1,0 +1,18 @@
+====== G1338: διϊκνέομαι (diïknéomai) ======
+
+===== Source =====
+
+from [[en:lexicon:g1223|G1223]] and the base of [[en:lexicon:g2425|G2425]];
+
+===== Meaning =====
+
+to reach through, i.e. penetrate
+
+===== Usage =====
+
+pierce.
+
+===== Strongs References =====
+
+[[en:lexicon:g1223|G1223]]
+[[en:lexicon:g2425|G2425]]

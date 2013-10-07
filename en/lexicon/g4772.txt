@@ -1,0 +1,17 @@
+====== G4772: συγγένεια (syngéneia) ======
+
+===== Source =====
+
+from [[en:lexicon:g4773|G4773]];
+
+===== Meaning =====
+
+relationship, i.e. (concretely) relatives
+
+===== Usage =====
+
+kindred.
+
+===== Strongs References =====
+
+[[en:lexicon:g4773|G4773]]

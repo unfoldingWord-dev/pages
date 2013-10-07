@@ -1,0 +1,17 @@
+====== G4174: πολιτεία (politeía) ======
+
+===== Source =====
+
+from [[en:lexicon:g4177|G4177]] ("polity");
+
+===== Meaning =====
+
+citizenship; concretely, a community
+
+===== Usage =====
+
+commonwealth, freedom.
+
+===== Strongs References =====
+
+[[en:lexicon:g4177|G4177]]

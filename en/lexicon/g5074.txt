@@ -1,0 +1,18 @@
+====== G5074: τετράπους (tetrápous) ======
+
+===== Source =====
+
+from [[en:lexicon:g5064|G5064]] and [[en:lexicon:g4228|G4228]];
+
+===== Meaning =====
+
+a quadruped
+
+===== Usage =====
+
+fourfooted beast.
+
+===== Strongs References =====
+
+[[en:lexicon:g5064|G5064]]
+[[en:lexicon:g4228|G4228]]

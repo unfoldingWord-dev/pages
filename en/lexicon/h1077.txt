@@ -1,0 +1,24 @@
+====== H1077: בַּל (bal) ======
+
+===== Part of Speech =====
+
+adverb
+
+===== Source =====
+
+from [[en:lexicon:h1086|H1086]];
+
+===== Meaning =====
+
+properly, a **failure**; by implication **nothing**; usually (adverb) **not** at all; also **lest**
+
+===== Definitions =====
+
+  - failure
+  - nothing
+  - not
+  - lest
+
+===== Usage =====
+
+lest, neither, no, none (that...), not (any), nothing.

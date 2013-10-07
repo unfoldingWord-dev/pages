@@ -1,0 +1,18 @@
+====== G5334: φάσις (phásis) ======
+
+===== Source =====
+
+from [[en:lexicon:g5346|G5346]] (not the same as "phase", which is from [[en:lexicon:g5316|G5316]]);
+
+===== Meaning =====
+
+a saying, i.e. report
+
+===== Usage =====
+
+tidings.
+
+===== Strongs References =====
+
+[[en:lexicon:g5346|G5346]]
+[[en:lexicon:g5316|G5316]]

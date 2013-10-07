@@ -1,0 +1,18 @@
+====== G2158: εὐσχήμων (euschḗmōn) ======
+
+===== Source =====
+
+from [[en:lexicon:g2095|G2095]] and [[en:lexicon:g4976|G4976]];
+
+===== Meaning =====
+
+well-formed, i.e. (figuratively) decorous, noble (in rank)
+
+===== Usage =====
+
+comely, honourable.
+
+===== Strongs References =====
+
+[[en:lexicon:g2095|G2095]]
+[[en:lexicon:g4976|G4976]]

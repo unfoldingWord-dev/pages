@@ -1,0 +1,18 @@
+====== G2548: κἀκεῖνος (kakeînos) ======
+
+===== Source =====
+
+from [[en:lexicon:g2532|G2532]] and [[en:lexicon:g1565|G1565]];
+
+===== Meaning =====
+
+likewise that (or those)
+
+===== Usage =====
+
+and him (other, them), even he, him also, them (also), (and) they.
+
+===== Strongs References =====
+
+[[en:lexicon:g2532|G2532]]
+[[en:lexicon:g1565|G1565]]

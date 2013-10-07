@@ -1,0 +1,18 @@
+====== G1221: δήποτε (dḗpote) ======
+
+===== Source =====
+
+from [[en:lexicon:g1211|G1211]] and [[en:lexicon:g4218|G4218]];
+
+===== Meaning =====
+
+a particle of generalization; indeed, at any time
+
+===== Usage =====
+
+(what-)soever.
+
+===== Strongs References =====
+
+[[en:lexicon:g1211|G1211]]
+[[en:lexicon:g4218|G4218]]

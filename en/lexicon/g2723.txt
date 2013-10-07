@@ -1,0 +1,17 @@
+====== G2723: κατηγορέω (katēgoréō) ======
+
+===== Source =====
+
+from [[en:lexicon:g2725|G2725]];
+
+===== Meaning =====
+
+to be a plaintiff, i.e. to charge with some offence
+
+===== Usage =====
+
+accuse, object.
+
+===== Strongs References =====
+
+[[en:lexicon:g2725|G2725]]

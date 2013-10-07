@@ -1,0 +1,18 @@
+====== G5261: ὑπογραμμός (hypogrammós) ======
+
+===== Source =====
+
+from a compound of [[en:lexicon:g5259|G5259]] and [[en:lexicon:g1125|G1125]];
+
+===== Meaning =====
+
+an underwriting, i.e. copy for imitation (figuratively)
+
+===== Usage =====
+
+example.
+
+===== Strongs References =====
+
+[[en:lexicon:g5259|G5259]]
+[[en:lexicon:g1125|G1125]]

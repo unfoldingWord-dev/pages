@@ -1,0 +1,18 @@
+====== G874: ἀφορμή (aphormḗ) ======
+
+===== Source =====
+
+from a compound of [[en:lexicon:g575|G575]] and [[en:lexicon:g3729|G3729]];
+
+===== Meaning =====
+
+a starting-point, i.e. (figuratively) an opportunity
+
+===== Usage =====
+
+occasion.
+
+===== Strongs References =====
+
+[[en:lexicon:g575|G575]]
+[[en:lexicon:g3729|G3729]]

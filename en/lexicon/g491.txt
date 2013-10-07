@@ -1,0 +1,17 @@
+====== G491: Ἀντιοχεύς (Antiocheús) ======
+
+===== Source =====
+
+from [[en:lexicon:g490|G490]];
+
+===== Meaning =====
+
+an Antiochian or inhabitant of Antiochia
+
+===== Usage =====
+
+of Antioch.
+
+===== Strongs References =====
+
+[[en:lexicon:g490|G490]]

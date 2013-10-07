@@ -1,0 +1,17 @@
+====== G2627: κατακλυσμός (kataklysmós) ======
+
+===== Source =====
+
+from [[en:lexicon:g2626|G2626]];
+
+===== Meaning =====
+
+an inundation
+
+===== Usage =====
+
+flood.
+
+===== Strongs References =====
+
+[[en:lexicon:g2626|G2626]]

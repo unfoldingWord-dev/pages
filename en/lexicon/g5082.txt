@@ -1,0 +1,19 @@
+====== G5082: τηλικοῦτος (tēlikoûtos) ======
+
+===== Source =====
+
+from a compound of [[en:lexicon:g3588|G3588]] with [[en:lexicon:g2245|G2245]] and [[en:lexicon:g3778|G3778]];
+
+===== Meaning =====
+
+such as this, i.e. (in (figurative) magnitude) so vast
+
+===== Usage =====
+
+so great, so mighty.
+
+===== Strongs References =====
+
+[[en:lexicon:g3588|G3588]]
+[[en:lexicon:g2245|G2245]]
+[[en:lexicon:g3778|G3778]]

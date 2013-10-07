@@ -1,0 +1,25 @@
+====== G3361: μή (mḗ) ======
+
+===== Source =====
+
+a primary particle of qualified negation (whereas [[en:lexicon:g3756|G3756]] expresses an
+ absolute denial);
+
+===== Meaning =====
+
+(adverb) not, (conjunction) lest; also (as an interrogative implying a negative answer (whereas
+
+===== Usage =====
+
+any but (that), X forbear, + God forbid, + lack, lest, neither, never, no (X wise in), none, nor, (can-)not, nothing, that not, un(-taken), without.
+
+===== Strongs References =====
+
+[[en:lexicon:g3756|G3756]]
+[[en:lexicon:g3362|G3362]]
+[[en:lexicon:g3363|G3363]]
+[[en:lexicon:g3364|G3364]]
+[[en:lexicon:g3372|G3372]]
+[[en:lexicon:g3373|G3373]]
+[[en:lexicon:g3375|G3375]]
+[[en:lexicon:g3378|G3378]]

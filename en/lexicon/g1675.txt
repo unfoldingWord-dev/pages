@@ -1,0 +1,17 @@
+====== G1675: Ἑλληνιστής (Hellēnistḗs) ======
+
+===== Source =====
+
+from a derivative of [[en:lexicon:g1672|G1672]];
+
+===== Meaning =====
+
+a Hellenist or Greek-speaking Jew
+
+===== Usage =====
+
+Grecian.
+
+===== Strongs References =====
+
+[[en:lexicon:g1672|G1672]]

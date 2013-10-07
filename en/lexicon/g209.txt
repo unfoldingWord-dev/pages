@@ -1,0 +1,19 @@
+====== G209: ἀκωλύτως (akōlýtōs) ======
+
+===== Source =====
+
+adverb from a compound of [[en:lexicon:g1|G1]] (as a negative particle) and a derivative
+ of [[en:lexicon:g2967|G2967]];
+
+===== Meaning =====
+
+in an unhindered manner, i.e. freely
+
+===== Usage =====
+
+no man forbidding him.
+
+===== Strongs References =====
+
+[[en:lexicon:g1|G1]]
+[[en:lexicon:g2967|G2967]]

@@ -1,0 +1,17 @@
+====== G4240: πραΰτης (praÿtēs) ======
+
+===== Source =====
+
+from [[en:lexicon:g4239|G4239]];
+
+===== Meaning =====
+
+mildness, i.e. (by implication) humility
+
+===== Usage =====
+
+meekness.
+
+===== Strongs References =====
+
+[[en:lexicon:g4239|G4239]]

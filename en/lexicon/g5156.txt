@@ -1,0 +1,17 @@
+====== G5156: τρόμος (trómos) ======
+
+===== Source =====
+
+from [[en:lexicon:g5141|G5141]];
+
+===== Meaning =====
+
+a "trembling", i.e. quaking with fear
+
+===== Usage =====
+
++ tremble(-ing).
+
+===== Strongs References =====
+
+[[en:lexicon:g5141|G5141]]

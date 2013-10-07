@@ -1,0 +1,17 @@
+====== G2697: κατάσχεσις (katáschesis) ======
+
+===== Source =====
+
+from [[en:lexicon:g2722|G2722]];
+
+===== Meaning =====
+
+a holding down, i.e. occupancy
+
+===== Usage =====
+
+possession.
+
+===== Strongs References =====
+
+[[en:lexicon:g2722|G2722]]

@@ -1,0 +1,18 @@
+====== G4330: προσεάω (proseáō) ======
+
+===== Source =====
+
+from [[en:lexicon:g4314|G4314]] and [[en:lexicon:g1439|G1439]];
+
+===== Meaning =====
+
+to permit further progress
+
+===== Usage =====
+
+suffer.
+
+===== Strongs References =====
+
+[[en:lexicon:g4314|G4314]]
+[[en:lexicon:g1439|G1439]]

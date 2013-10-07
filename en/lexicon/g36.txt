@@ -1,0 +1,18 @@
+====== G36: ἀγενής (agenḗs) ======
+
+===== Source =====
+
+from [[en:lexicon:g1|G1]] (as negative particle) and [[en:lexicon:g1085|G1085]];
+
+===== Meaning =====
+
+properly, without kin, i.e. (of unknown descent, and by implication) ignoble
+
+===== Usage =====
+
+base things.
+
+===== Strongs References =====
+
+[[en:lexicon:g1|G1]]
+[[en:lexicon:g1085|G1085]]

@@ -1,0 +1,18 @@
+====== G4255: προαιρέομαι (proairéomai) ======
+
+===== Source =====
+
+from [[en:lexicon:g4253|G4253]] and [[en:lexicon:g138|G138]];
+
+===== Meaning =====
+
+to choose for oneself before another thing (prefer), i.e. (by implication) to propose (intend)
+
+===== Usage =====
+
+purpose.
+
+===== Strongs References =====
+
+[[en:lexicon:g4253|G4253]]
+[[en:lexicon:g138|G138]]

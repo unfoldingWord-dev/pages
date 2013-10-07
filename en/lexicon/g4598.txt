@@ -1,0 +1,18 @@
+====== G4598: σητόβρωτος (sētóbrōtos) ======
+
+===== Source =====
+
+from [[en:lexicon:g4597|G4597]] and a derivative of [[en:lexicon:g977|G977]];
+
+===== Meaning =====
+
+moth-eaten
+
+===== Usage =====
+
+motheaten.
+
+===== Strongs References =====
+
+[[en:lexicon:g4597|G4597]]
+[[en:lexicon:g977|G977]]

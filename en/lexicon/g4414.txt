@@ -1,0 +1,18 @@
+====== G4414: πρωτοστάτης (prōtostátēs) ======
+
+===== Source =====
+
+from [[en:lexicon:g4413|G4413]] and [[en:lexicon:g2476|G2476]];
+
+===== Meaning =====
+
+one standing first in the ranks, i.e. a captain (champion)
+
+===== Usage =====
+
+ringleader.
+
+===== Strongs References =====
+
+[[en:lexicon:g4413|G4413]]
+[[en:lexicon:g2476|G2476]]

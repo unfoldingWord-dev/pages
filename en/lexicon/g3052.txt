@@ -1,0 +1,17 @@
+====== G3052: λόγιος (lógios) ======
+
+===== Source =====
+
+from [[en:lexicon:g3056|G3056]];
+
+===== Meaning =====
+
+fluent, i.e. an orator
+
+===== Usage =====
+
+eloquent.
+
+===== Strongs References =====
+
+[[en:lexicon:g3056|G3056]]

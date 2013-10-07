@@ -1,0 +1,17 @@
+====== G585: ἀπόδειξις (apódeixis) ======
+
+===== Source =====
+
+from [[en:lexicon:g584|G584]];
+
+===== Meaning =====
+
+manifestation
+
+===== Usage =====
+
+demonstration.
+
+===== Strongs References =====
+
+[[en:lexicon:g584|G584]]

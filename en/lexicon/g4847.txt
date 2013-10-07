@@ -1,0 +1,18 @@
+====== G4847: συμπολίτης (sympolítēs) ======
+
+===== Source =====
+
+from [[en:lexicon:g4862|G4862]] and [[en:lexicon:g4177|G4177]];
+
+===== Meaning =====
+
+a native of the same town, i.e. (figuratively) co-religionist (fellow-Christian)
+
+===== Usage =====
+
+fellow- citizen.
+
+===== Strongs References =====
+
+[[en:lexicon:g4862|G4862]]
+[[en:lexicon:g4177|G4177]]

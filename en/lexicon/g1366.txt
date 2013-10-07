@@ -1,0 +1,18 @@
+====== G1366: δίστομος (dístomos) ======
+
+===== Source =====
+
+from [[en:lexicon:g1364|G1364]] and [[en:lexicon:g4750|G4750]];
+
+===== Meaning =====
+
+double-edged
+
+===== Usage =====
+
+with two edges, two-edged.
+
+===== Strongs References =====
+
+[[en:lexicon:g1364|G1364]]
+[[en:lexicon:g4750|G4750]]

@@ -1,0 +1,18 @@
+====== G3941: πάροικος (pároikos) ======
+
+===== Source =====
+
+from [[en:lexicon:g3844|G3844]] and [[en:lexicon:g3624|G3624]];
+
+===== Meaning =====
+
+having a home near, i.e. (as noun) a by-dweller (alien resident)
+
+===== Usage =====
+
+foreigner, sojourn, stranger.
+
+===== Strongs References =====
+
+[[en:lexicon:g3844|G3844]]
+[[en:lexicon:g3624|G3624]]

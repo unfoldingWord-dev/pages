@@ -1,0 +1,17 @@
+====== G5471: χαλκεύς (chalkeús) ======
+
+===== Source =====
+
+from [[en:lexicon:g5475|G5475]];
+
+===== Meaning =====
+
+a copper-worker or brazier
+
+===== Usage =====
+
+coppersmith.
+
+===== Strongs References =====
+
+[[en:lexicon:g5475|G5475]]

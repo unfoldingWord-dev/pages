@@ -1,0 +1,18 @@
+====== G4886: σύνδεσμος (sýndesmos) ======
+
+===== Source =====
+
+from [[en:lexicon:g4862|G4862]] and [[en:lexicon:g1199|G1199]];
+
+===== Meaning =====
+
+a joint tie, i.e. ligament, (figuratively) uniting principle, control
+
+===== Usage =====
+
+band, bond.
+
+===== Strongs References =====
+
+[[en:lexicon:g4862|G4862]]
+[[en:lexicon:g1199|G1199]]

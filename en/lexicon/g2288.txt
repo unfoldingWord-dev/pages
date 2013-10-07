@@ -1,0 +1,17 @@
+====== G2288: θάνατος (thánatos) ======
+
+===== Source =====
+
+from [[en:lexicon:g2348|G2348]];
+
+===== Meaning =====
+
+(properly, an adjective used as a noun) death (literally or figuratively)
+
+===== Usage =====
+
+X deadly, (be…) death.
+
+===== Strongs References =====
+
+[[en:lexicon:g2348|G2348]]

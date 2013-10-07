@@ -1,0 +1,17 @@
+====== G5505: χιλιάς (chiliás) ======
+
+===== Source =====
+
+from [[en:lexicon:g5507|G5507]];
+
+===== Meaning =====
+
+one thousand ("chiliad")
+
+===== Usage =====
+
+thousand.
+
+===== Strongs References =====
+
+[[en:lexicon:g5507|G5507]]

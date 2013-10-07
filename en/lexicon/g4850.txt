@@ -1,0 +1,18 @@
+====== G4850: συμπρεσβύτερος (sympresbýteros) ======
+
+===== Source =====
+
+from [[en:lexicon:g4862|G4862]] and [[en:lexicon:g4245|G4245]];
+
+===== Meaning =====
+
+a co-presbyter
+
+===== Usage =====
+
+presbyter, also an elder.
+
+===== Strongs References =====
+
+[[en:lexicon:g4245|G4245]]
+[[en:lexicon:g4862|G4862]]

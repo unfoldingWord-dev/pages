@@ -1,0 +1,20 @@
+====== G4623: σιωπάω (siōpáō) ======
+
+===== Source =====
+
+from σιωπή (siōpḗ) (silence, i.e. a hush; properly, muteness, i.e. involuntary
+ stillness, or inability to speak; and thus differing from [[en:lexicon:g4602|G4602]], which
+ is rather a voluntary refusal or indisposition to speak, although the
+ terms are often used synonymously);
+
+===== Meaning =====
+
+to be dumb (but not deaf also, like 2974 properly); figuratively, to be calm (as quiet water)
+
+===== Usage =====
+
+dumb, (hold) peace.
+
+===== Strongs References =====
+
+[[en:lexicon:g4602|G4602]]

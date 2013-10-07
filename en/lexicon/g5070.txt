@@ -1,0 +1,18 @@
+====== G5070: τετρακισχίλιοι (tetrakischílioi) ======
+
+===== Source =====
+
+from the multiplicative adverb of [[en:lexicon:g5064|G5064]] and [[en:lexicon:g5507|G5507]];
+
+===== Meaning =====
+
+four times a thousand
+
+===== Usage =====
+
+four thousand.
+
+===== Strongs References =====
+
+[[en:lexicon:g5064|G5064]]
+[[en:lexicon:g5507|G5507]]

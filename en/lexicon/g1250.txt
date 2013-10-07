@@ -1,0 +1,18 @@
+====== G1250: διακόσιοι (diakósioi) ======
+
+===== Source =====
+
+from [[en:lexicon:g1364|G1364]] and [[en:lexicon:g1540|G1540]];
+
+===== Meaning =====
+
+two hundred
+
+===== Usage =====
+
+two hundred.
+
+===== Strongs References =====
+
+[[en:lexicon:g1364|G1364]]
+[[en:lexicon:g1540|G1540]]

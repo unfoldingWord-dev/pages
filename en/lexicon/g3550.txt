@@ -1,0 +1,18 @@
+====== G3550: νομοθέτης (nomothétēs) ======
+
+===== Source =====
+
+from [[en:lexicon:g3551|G3551]] and a derivative of [[en:lexicon:g5087|G5087]];
+
+===== Meaning =====
+
+a legislator
+
+===== Usage =====
+
+lawgiver.
+
+===== Strongs References =====
+
+[[en:lexicon:g3551|G3551]]
+[[en:lexicon:g5087|G5087]]

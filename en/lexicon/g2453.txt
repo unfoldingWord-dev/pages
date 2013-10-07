@@ -1,0 +1,18 @@
+====== G2453: Ἰουδαῖος (Ioudaîos) ======
+
+===== Source =====
+
+from [[en:lexicon:g2448|G2448]] (in the sense of [[en:lexicon:g2455|G2455]] as a country);
+
+===== Meaning =====
+
+Judæan, i.e. belonging to Jehudah
+
+===== Usage =====
+
+Jew(-ess), of Judæa.
+
+===== Strongs References =====
+
+[[en:lexicon:g2448|G2448]]
+[[en:lexicon:g2455|G2455]]

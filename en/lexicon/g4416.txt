@@ -1,0 +1,18 @@
+====== G4416: πρωτότοκος (prōtótokos) ======
+
+===== Source =====
+
+from [[en:lexicon:g4413|G4413]] and the alternate of [[en:lexicon:g5088|G5088]];
+
+===== Meaning =====
+
+first-born (usually as noun, literally or figuratively)
+
+===== Usage =====
+
+firstbegotten(-born).
+
+===== Strongs References =====
+
+[[en:lexicon:g4413|G4413]]
+[[en:lexicon:g5088|G5088]]

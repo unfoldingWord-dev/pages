@@ -1,0 +1,17 @@
+====== G225: ἀλήθεια (alḗtheia) ======
+
+===== Source =====
+
+from [[en:lexicon:g227|G227]];
+
+===== Meaning =====
+
+truth
+
+===== Usage =====
+
+true, X truly, truth, verity.
+
+===== Strongs References =====
+
+[[en:lexicon:g227|G227]]

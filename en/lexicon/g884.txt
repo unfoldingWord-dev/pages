@@ -1,0 +1,18 @@
+====== G884: ἀχάριστος (acháristos) ======
+
+===== Source =====
+
+from [[en:lexicon:g1|G1]] (as a negative particle) and a presumed derivative of [[en:lexicon:g5483|G5483]];
+
+===== Meaning =====
+
+thankless, i.e. ungrateful
+
+===== Usage =====
+
+unthankful.
+
+===== Strongs References =====
+
+[[en:lexicon:g1|G1]]
+[[en:lexicon:g5483|G5483]]

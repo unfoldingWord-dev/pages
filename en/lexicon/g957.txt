@@ -1,0 +1,19 @@
+====== G957: βελτίον (beltíon) ======
+
+===== Source =====
+
+neuter of a compound of a derivative of [[en:lexicon:g906|G906]] (used for the comparative
+ of [[en:lexicon:g18|G18]]);
+
+===== Meaning =====
+
+better
+
+===== Usage =====
+
+very well.
+
+===== Strongs References =====
+
+[[en:lexicon:g906|G906]]
+[[en:lexicon:g18|G18]]

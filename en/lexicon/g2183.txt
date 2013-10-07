@@ -1,0 +1,17 @@
+====== G2183: ἐφημερία (ephēmería) ======
+
+===== Source =====
+
+from [[en:lexicon:g2184|G2184]];
+
+===== Meaning =====
+
+diurnality, i.e. (specially) the quotidian rotation or class of the Jewish priests' service at the Temple, as distributed by families
+
+===== Usage =====
+
+course.
+
+===== Strongs References =====
+
+[[en:lexicon:g2184|G2184]]

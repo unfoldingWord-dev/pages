@@ -1,0 +1,18 @@
+====== G312: ἀναγγέλλω (anangéllō) ======
+
+===== Source =====
+
+from [[en:lexicon:g303|G303]] and the base of [[en:lexicon:g32|G32]];
+
+===== Meaning =====
+
+to announce (in detail)
+
+===== Usage =====
+
+declare, rehearse, report, show, speak, tell.
+
+===== Strongs References =====
+
+[[en:lexicon:g303|G303]]
+[[en:lexicon:g32|G32]]

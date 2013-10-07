@@ -1,0 +1,17 @@
+====== G4712: στάδιον (stádion) ======
+
+===== Source =====
+
+from the base of [[en:lexicon:g2476|G2476]] (as fixed);
+
+===== Meaning =====
+
+a stade or certain measure of distance; by implication, a stadium or race-course
+
+===== Usage =====
+
+furlong, race.
+
+===== Strongs References =====
+
+[[en:lexicon:g2476|G2476]]

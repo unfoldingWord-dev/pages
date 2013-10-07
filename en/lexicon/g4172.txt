@@ -1,0 +1,18 @@
+====== G4172: πόλις (pólis) ======
+
+===== Source =====
+
+probably from the same as [[en:lexicon:g4171|G4171]], or perhaps from [[en:lexicon:g4183|G4183]];
+
+===== Meaning =====
+
+a town (properly, with walls, of greater or less size)
+
+===== Usage =====
+
+city.
+
+===== Strongs References =====
+
+[[en:lexicon:g4183|G4183]]
+[[en:lexicon:g4171|G4171]]

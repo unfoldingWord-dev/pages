@@ -1,0 +1,17 @@
+====== G3457: μυλικός (mylikós) ======
+
+===== Source =====
+
+from [[en:lexicon:g3458|G3458]];
+
+===== Meaning =====
+
+belonging to a mill
+
+===== Usage =====
+
+mill(-stone).
+
+===== Strongs References =====
+
+[[en:lexicon:g3458|G3458]]

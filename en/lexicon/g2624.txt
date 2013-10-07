@@ -1,0 +1,19 @@
+====== G2624: κατακληροδοτέω (kataklērodotéō) ======
+
+===== Source =====
+
+from [[en:lexicon:g2596|G2596]] and a derivative of a compound of [[en:lexicon:g2819|G2819]] and [[en:lexicon:g1325|G1325]];
+
+===== Meaning =====
+
+to be a giver of lots to each, i.e. (by implication) to apportion an estate
+
+===== Usage =====
+
+divide by lot.
+
+===== Strongs References =====
+
+[[en:lexicon:g2596|G2596]]
+[[en:lexicon:g2819|G2819]]
+[[en:lexicon:g1325|G1325]]

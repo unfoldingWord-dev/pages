@@ -1,0 +1,18 @@
+====== G3953: παροψίς (paropsís) ======
+
+===== Source =====
+
+from [[en:lexicon:g3844|G3844]] and the base of [[en:lexicon:g3795|G3795]];
+
+===== Meaning =====
+
+a side-dish (the receptacle)
+
+===== Usage =====
+
+platter.
+
+===== Strongs References =====
+
+[[en:lexicon:g3844|G3844]]
+[[en:lexicon:g3795|G3795]]

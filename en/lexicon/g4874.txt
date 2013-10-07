@@ -1,0 +1,19 @@
+====== G4874: συναναμίγνυμι (synanamígnymi) ======
+
+===== Source =====
+
+from [[en:lexicon:g4862|G4862]] and a compound of [[en:lexicon:g303|G303]] and [[en:lexicon:g3396|G3396]];
+
+===== Meaning =====
+
+to mix up together, i.e. (figurative) associate with
+
+===== Usage =====
+
+(have, keep) company (with).
+
+===== Strongs References =====
+
+[[en:lexicon:g4862|G4862]]
+[[en:lexicon:g303|G303]]
+[[en:lexicon:g3396|G3396]]

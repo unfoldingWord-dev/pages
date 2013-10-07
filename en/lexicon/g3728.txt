@@ -1,0 +1,18 @@
+====== G3728: ὁρκωμοσία (horkōmosía) ======
+
+===== Source =====
+
+from a compound of [[en:lexicon:g3727|G3727]] and a derivative of [[en:lexicon:g3660|G3660]];
+
+===== Meaning =====
+
+asseveration on oath
+
+===== Usage =====
+
+oath.
+
+===== Strongs References =====
+
+[[en:lexicon:g3727|G3727]]
+[[en:lexicon:g3660|G3660]]

@@ -1,0 +1,17 @@
+====== G3799: ὄψις (ópsis) ======
+
+===== Source =====
+
+from [[en:lexicon:g3700|G3700]];
+
+===== Meaning =====
+
+properly, sight (the act), i.e. (by implication) the visage, an external show
+
+===== Usage =====
+
+appearance, countenance, face.
+
+===== Strongs References =====
+
+[[en:lexicon:g3700|G3700]]

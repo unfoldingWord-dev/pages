@@ -1,0 +1,18 @@
+====== G1921: ἐπιγινώσκω (epiginṓskō) ======
+
+===== Source =====
+
+from [[en:lexicon:g1909|G1909]] and [[en:lexicon:g1097|G1097]];
+
+===== Meaning =====
+
+to know upon some mark, i.e. recognize; by implication, to become fully acquainted with, to acknowledge
+
+===== Usage =====
+
+(ac-, have, take)know(-ledge, well), perceive.
+
+===== Strongs References =====
+
+[[en:lexicon:g1909|G1909]]
+[[en:lexicon:g1097|G1097]]

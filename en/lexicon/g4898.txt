@@ -1,0 +1,18 @@
+====== G4898: συνέκδημος (synékdēmos) ======
+
+===== Source =====
+
+from [[en:lexicon:g4862|G4862]] and the base of [[en:lexicon:g1553|G1553]];
+
+===== Meaning =====
+
+a co-absentee from home, i.e. fellow-traveller
+
+===== Usage =====
+
+companion in travel, travel with.
+
+===== Strongs References =====
+
+[[en:lexicon:g4862|G4862]]
+[[en:lexicon:g1553|G1553]]

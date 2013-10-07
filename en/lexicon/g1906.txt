@@ -1,0 +1,17 @@
+====== G1906: ἐπερώτημα (eperṓtēma) ======
+
+===== Source =====
+
+from [[en:lexicon:g1905|G1905]];
+
+===== Meaning =====
+
+an inquiry
+
+===== Usage =====
+
+answer.
+
+===== Strongs References =====
+
+[[en:lexicon:g1905|G1905]]

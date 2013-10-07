@@ -1,0 +1,17 @@
+====== G2266: Ἡρωδιάς (Hērōdiás) ======
+
+===== Source =====
+
+from [[en:lexicon:g2264|G2264]];
+
+===== Meaning =====
+
+Herodias, a woman of the Heodian family
+
+===== Usage =====
+
+Herodias.
+
+===== Strongs References =====
+
+[[en:lexicon:g2264|G2264]]

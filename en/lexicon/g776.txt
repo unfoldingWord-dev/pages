@@ -1,0 +1,17 @@
+====== G776: ἀσιτία (asitía) ======
+
+===== Source =====
+
+from [[en:lexicon:g777|G777]];
+
+===== Meaning =====
+
+fasting (the state)
+
+===== Usage =====
+
+abstinence.
+
+===== Strongs References =====
+
+[[en:lexicon:g777|G777]]

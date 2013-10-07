@@ -1,0 +1,18 @@
+====== G3714: ὀρεινός (oreinós) ======
+
+===== Source =====
+
+from [[en:lexicon:g3735|G3735]];
+
+===== Meaning =====
+
+mountainous, i.e. (feminine by implication, of
+
+===== Usage =====
+
+hill country.
+
+===== Strongs References =====
+
+[[en:lexicon:g3735|G3735]]
+[[en:lexicon:g5561|G5561]]

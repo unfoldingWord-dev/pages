@@ -1,0 +1,18 @@
+====== G4285: προηγέομαι (proēgéomai) ======
+
+===== Source =====
+
+from [[en:lexicon:g4253|G4253]] and [[en:lexicon:g2233|G2233]];
+
+===== Meaning =====
+
+to lead the way for others, i.e. show deference
+
+===== Usage =====
+
+prefer.
+
+===== Strongs References =====
+
+[[en:lexicon:g4253|G4253]]
+[[en:lexicon:g2233|G2233]]

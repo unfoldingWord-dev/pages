@@ -1,0 +1,24 @@
+====== G4572: σεαυτοῦ (seautoû) ======
+
+===== Source =====
+
+genitive case from [[en:lexicon:g4571|G4571]] and [[en:lexicon:g846|G846]],
+                             also dative case of the same,
+      σεαυτῷ (seautōi)  ,  and accusative case
+      σεαυτόν (seautón)  , likewise contracted
+      σαυτοῦ (sautoû)  ,
+      σαυτῷ (sautōi)  ,     and
+      σαυτόν (sautón)  ,    respectively;
+
+===== Meaning =====
+
+of (with, to) thyself
+
+===== Usage =====
+
+thee, thine own self, (thou) thy(-self).
+
+===== Strongs References =====
+
+[[en:lexicon:g4571|G4571]]
+[[en:lexicon:g846|G846]]

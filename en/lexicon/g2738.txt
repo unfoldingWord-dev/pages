@@ -1,0 +1,17 @@
+====== G2738: καῦμα (kaûma) ======
+
+===== Source =====
+
+from [[en:lexicon:g2545|G2545]];
+
+===== Meaning =====
+
+properly, a burn (concretely), but used (abstractly) of a glow
+
+===== Usage =====
+
+heat.
+
+===== Strongs References =====
+
+[[en:lexicon:g2545|G2545]]

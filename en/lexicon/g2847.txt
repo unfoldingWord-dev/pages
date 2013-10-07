@@ -1,0 +1,17 @@
+====== G2847: κόκκινος (kókkinos) ======
+
+===== Source =====
+
+from [[en:lexicon:g2848|G2848]] (from the kernel-shape of the insect);
+
+===== Meaning =====
+
+crimson-colored
+
+===== Usage =====
+
+scarlet (colour, coloured).
+
+===== Strongs References =====
+
+[[en:lexicon:g2848|G2848]]

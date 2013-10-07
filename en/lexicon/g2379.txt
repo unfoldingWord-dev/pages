@@ -1,0 +1,17 @@
+====== G2379: θυσιαστήριον (thysiastḗrion) ======
+
+===== Source =====
+
+from a derivative of [[en:lexicon:g2378|G2378]];
+
+===== Meaning =====
+
+a place of sacrifice, i.e. an altar (special or genitive case, literal or figurative)
+
+===== Usage =====
+
+altar.
+
+===== Strongs References =====
+
+[[en:lexicon:g2378|G2378]]

@@ -1,0 +1,18 @@
+====== G5555: χρυσόλιθος (chrysólithos) ======
+
+===== Source =====
+
+from [[en:lexicon:g5557|G5557]] and [[en:lexicon:g3037|G3037]];
+
+===== Meaning =====
+
+gold-stone, i.e. a yellow gem ("chrysolite")
+
+===== Usage =====
+
+chrysolite.
+
+===== Strongs References =====
+
+[[en:lexicon:g5557|G5557]]
+[[en:lexicon:g3037|G3037]]

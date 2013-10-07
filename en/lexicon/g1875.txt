@@ -1,0 +1,18 @@
+====== G1875: ἐπάν (epán) ======
+
+===== Source =====
+
+from [[en:lexicon:g1909|G1909]] and [[en:lexicon:g302|G302]];
+
+===== Meaning =====
+
+a particle of indefinite contemporaneousness; whenever, as soon as
+
+===== Usage =====
+
+when.
+
+===== Strongs References =====
+
+[[en:lexicon:g1909|G1909]]
+[[en:lexicon:g302|G302]]

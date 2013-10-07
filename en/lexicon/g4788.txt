@@ -1,0 +1,18 @@
+====== G4788: συγκλείω (synkleíō) ======
+
+===== Source =====
+
+from [[en:lexicon:g4862|G4862]] and [[en:lexicon:g2808|G2808]];
+
+===== Meaning =====
+
+to shut together, i.e. include or (figuratively) embrace in a common subjection to
+
+===== Usage =====
+
+conclude, inclose, shut up.
+
+===== Strongs References =====
+
+[[en:lexicon:g4862|G4862]]
+[[en:lexicon:g2808|G2808]]

@@ -1,0 +1,18 @@
+====== G4789: συγκληρονόμος (synklēronómos) ======
+
+===== Source =====
+
+from [[en:lexicon:g4862|G4862]] and [[en:lexicon:g2818|G2818]];
+
+===== Meaning =====
+
+a co-heir, i.e. (by analogy) participant in common
+
+===== Usage =====
+
+fellow (joint)-heir, heir together, heir with.
+
+===== Strongs References =====
+
+[[en:lexicon:g4862|G4862]]
+[[en:lexicon:g2818|G2818]]

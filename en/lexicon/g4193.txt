@@ -1,0 +1,17 @@
+====== G4193: Ποντικός (Pontikós) ======
+
+===== Source =====
+
+from [[en:lexicon:g4195|G4195]];
+
+===== Meaning =====
+
+a Pontican, i.e. native of Pontus
+
+===== Usage =====
+
+born in Pontus.
+
+===== Strongs References =====
+
+[[en:lexicon:g4195|G4195]]

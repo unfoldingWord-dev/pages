@@ -1,0 +1,18 @@
+====== G2557: κακοῦργος (kakoûrgos) ======
+
+===== Source =====
+
+from [[en:lexicon:g2556|G2556]] and the base of [[en:lexicon:g2041|G2041]];
+
+===== Meaning =====
+
+a wrong-doer, i.e. criminal
+
+===== Usage =====
+
+evil-doer, malefactor.
+
+===== Strongs References =====
+
+[[en:lexicon:g2556|G2556]]
+[[en:lexicon:g2041|G2041]]

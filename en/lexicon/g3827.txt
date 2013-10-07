@@ -1,0 +1,18 @@
+====== G3827: πάμπολυς (pámpolys) ======
+
+===== Source =====
+
+from [[en:lexicon:g3956|G3956]] and [[en:lexicon:g4183|G4183]];
+
+===== Meaning =====
+
+full many, i.e. immense
+
+===== Usage =====
+
+very great.
+
+===== Strongs References =====
+
+[[en:lexicon:g3956|G3956]]
+[[en:lexicon:g4183|G4183]]

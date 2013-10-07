@@ -1,0 +1,18 @@
+====== G2711: καταψύχω (katapsýchō) ======
+
+===== Source =====
+
+from [[en:lexicon:g2596|G2596]] and [[en:lexicon:g5594|G5594]];
+
+===== Meaning =====
+
+to cool down (off), i.e. refresh
+
+===== Usage =====
+
+cool.
+
+===== Strongs References =====
+
+[[en:lexicon:g2596|G2596]]
+[[en:lexicon:g5594|G5594]]

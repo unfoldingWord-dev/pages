@@ -1,0 +1,17 @@
+====== G426: ἀνετάζω (anetázō) ======
+
+===== Source =====
+
+from [[en:lexicon:g303|G303]] and ἐτάζω (etázō) (to test);
+
+===== Meaning =====
+
+to investigate (judicially)
+
+===== Usage =====
+
+(should have) examined(-d).
+
+===== Strongs References =====
+
+[[en:lexicon:g303|G303]]

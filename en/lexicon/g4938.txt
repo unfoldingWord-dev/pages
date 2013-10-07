@@ -1,0 +1,17 @@
+====== G4938: σύντριμμα (sýntrimma) ======
+
+===== Source =====
+
+from [[en:lexicon:g4937|G4937]];
+
+===== Meaning =====
+
+concussion or utter fracture (properly, concretely), i.e. complete ruin
+
+===== Usage =====
+
+destruction.
+
+===== Strongs References =====
+
+[[en:lexicon:g4937|G4937]]

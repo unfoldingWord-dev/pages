@@ -1,0 +1,17 @@
+====== G5010: τάξις (táxis) ======
+
+===== Source =====
+
+from [[en:lexicon:g5021|G5021]];
+
+===== Meaning =====
+
+regular arrangement, i.e. (in time) fixed succession (of rank or character), official dignity
+
+===== Usage =====
+
+order.
+
+===== Strongs References =====
+
+[[en:lexicon:g5021|G5021]]

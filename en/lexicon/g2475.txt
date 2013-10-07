@@ -1,0 +1,17 @@
+====== G2475: Ἰσραηλίτης (Israēlítēs) ======
+
+===== Source =====
+
+from [[en:lexicon:g2474|G2474]];
+
+===== Meaning =====
+
+an "Israelite", i.e. descendant of Israel (literally or figuratively)
+
+===== Usage =====
+
+Israelite.
+
+===== Strongs References =====
+
+[[en:lexicon:g2474|G2474]]

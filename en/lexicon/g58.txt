@@ -1,0 +1,17 @@
+====== G58: ἀγορά (agorá) ======
+
+===== Source =====
+
+from ἀγείρω (ageírō) (to gather; probably akin to [[en:lexicon:g1453|G1453]]);
+
+===== Meaning =====
+
+properly, the town-square (as a place of public resort); by implication, a market or thoroughfare
+
+===== Usage =====
+
+market(-place), street.
+
+===== Strongs References =====
+
+[[en:lexicon:g1453|G1453]]

@@ -1,0 +1,18 @@
+====== G5573: ψευδολόγος (pseudológos) ======
+
+===== Source =====
+
+from [[en:lexicon:g5571|G5571]] and [[en:lexicon:g3004|G3004]];
+
+===== Meaning =====
+
+mendacious, i.e. promulgating erroneous Christian doctrine
+
+===== Usage =====
+
+speaking lies.
+
+===== Strongs References =====
+
+[[en:lexicon:g5571|G5571]]
+[[en:lexicon:g3004|G3004]]

@@ -1,0 +1,17 @@
+====== G666: ἀπουσία (apousía) ======
+
+===== Source =====
+
+from the participle of [[en:lexicon:g548|G548]];
+
+===== Meaning =====
+
+a being away
+
+===== Usage =====
+
+absence.
+
+===== Strongs References =====
+
+[[en:lexicon:g548|G548]]

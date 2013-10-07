@@ -1,0 +1,18 @@
+====== G4845: συμπληρόω (symplēróō) ======
+
+===== Source =====
+
+from [[en:lexicon:g4862|G4862]] and [[en:lexicon:g4137|G4137]];
+
+===== Meaning =====
+
+to implenish completely, i.e. (of space) to swamp (a boat), or (of time) to accomplish (passive, be complete)
+
+===== Usage =====
+
+(fully) come, fill up.
+
+===== Strongs References =====
+
+[[en:lexicon:g4862|G4862]]
+[[en:lexicon:g4137|G4137]]

@@ -1,0 +1,18 @@
+====== G1954: ἐπίλοιπος (epíloipos) ======
+
+===== Source =====
+
+from [[en:lexicon:g1909|G1909]] and [[en:lexicon:g3062|G3062]];
+
+===== Meaning =====
+
+left over, i.e. remaining
+
+===== Usage =====
+
+rest.
+
+===== Strongs References =====
+
+[[en:lexicon:g1909|G1909]]
+[[en:lexicon:g3062|G3062]]

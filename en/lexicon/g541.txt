@@ -1,0 +1,18 @@
+====== G541: ἀπαύγασμα (apaúgasma) ======
+
+===== Source =====
+
+from a compound of [[en:lexicon:g575|G575]] and [[en:lexicon:g826|G826]];
+
+===== Meaning =====
+
+an off-flash, i.e. effulgence
+
+===== Usage =====
+
+brightness.
+
+===== Strongs References =====
+
+[[en:lexicon:g575|G575]]
+[[en:lexicon:g826|G826]]

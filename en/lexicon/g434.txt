@@ -1,0 +1,17 @@
+====== G434: ἀνήμερος (anḗmeros) ======
+
+===== Source =====
+
+from [[en:lexicon:g1|G1]] (as a negative particle) and ἥμερος (hḗmeros) (lame);
+
+===== Meaning =====
+
+savage
+
+===== Usage =====
+
+fierce.
+
+===== Strongs References =====
+
+[[en:lexicon:g1|G1]]

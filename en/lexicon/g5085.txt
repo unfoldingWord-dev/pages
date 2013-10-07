@@ -1,0 +1,17 @@
+====== G5085: Τιβεριάς (Tiberiás) ======
+
+===== Source =====
+
+from [[en:lexicon:g5086|G5086]];
+
+===== Meaning =====
+
+Tiberias, the name of a town and a lake in Palestine
+
+===== Usage =====
+
+Tiberias.
+
+===== Strongs References =====
+
+[[en:lexicon:g5086|G5086]]

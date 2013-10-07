@@ -1,0 +1,17 @@
+====== G2777: κεφαλίς (kephalís) ======
+
+===== Source =====
+
+from [[en:lexicon:g2776|G2776]];
+
+===== Meaning =====
+
+properly, a knob, i.e. (by implication) a roll (by extension from the end of a stick on which the manuscript was rolled)
+
+===== Usage =====
+
+volume.
+
+===== Strongs References =====
+
+[[en:lexicon:g2776|G2776]]

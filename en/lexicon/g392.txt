@@ -1,0 +1,18 @@
+====== G392: ἀνατάσσομαι (anatássomai) ======
+
+===== Source =====
+
+from [[en:lexicon:g303|G303]] and the middle voice of [[en:lexicon:g5021|G5021]];
+
+===== Meaning =====
+
+to arrange
+
+===== Usage =====
+
+set in order.
+
+===== Strongs References =====
+
+[[en:lexicon:g303|G303]]
+[[en:lexicon:g5021|G5021]]

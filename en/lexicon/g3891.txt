@@ -1,0 +1,18 @@
+====== G3891: παρανομέω (paranoméō) ======
+
+===== Source =====
+
+from a compound of [[en:lexicon:g3844|G3844]] and [[en:lexicon:g3551|G3551]];
+
+===== Meaning =====
+
+to be opposed to law, i.e. to transgress
+
+===== Usage =====
+
+contrary to law.
+
+===== Strongs References =====
+
+[[en:lexicon:g3844|G3844]]
+[[en:lexicon:g3551|G3551]]

@@ -1,0 +1,18 @@
+====== G2121: εὔκαιρος (eúkairos) ======
+
+===== Source =====
+
+from [[en:lexicon:g2095|G2095]] and [[en:lexicon:g2540|G2540]];
+
+===== Meaning =====
+
+well-timed, i.e. opportune
+
+===== Usage =====
+
+convenient, in time of need.
+
+===== Strongs References =====
+
+[[en:lexicon:g2095|G2095]]
+[[en:lexicon:g2540|G2540]]

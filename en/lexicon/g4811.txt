@@ -1,0 +1,18 @@
+====== G4811: συκοφαντέω (sykophantéō) ======
+
+===== Source =====
+
+from a compound of [[en:lexicon:g4810|G4810]] and a derivative of [[en:lexicon:g5316|G5316]];
+
+===== Meaning =====
+
+to be a fig-informer (reporter of the law forbidding the exportation of figs from Greece), "sycophant", i.e. (genitive and by extension) to defraud (exact unlawfully, extort)
+
+===== Usage =====
+
+accuse falsely, take by false accusation.
+
+===== Strongs References =====
+
+[[en:lexicon:g4810|G4810]]
+[[en:lexicon:g5316|G5316]]

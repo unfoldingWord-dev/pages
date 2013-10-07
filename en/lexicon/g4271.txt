@@ -1,0 +1,18 @@
+====== G4271: πρόδηλος (pródēlos) ======
+
+===== Source =====
+
+from [[en:lexicon:g4253|G4253]] and [[en:lexicon:g1212|G1212]];
+
+===== Meaning =====
+
+plain before all men, i.e. obvious
+
+===== Usage =====
+
+evident, manifest (open) beforehand.
+
+===== Strongs References =====
+
+[[en:lexicon:g4253|G4253]]
+[[en:lexicon:g1212|G1212]]

@@ -1,0 +1,17 @@
+====== G3606: ὅθεν (hóthen) ======
+
+===== Source =====
+
+from [[en:lexicon:g3739|G3739]] with the directive enclitic of source;
+
+===== Meaning =====
+
+from which place or source or cause (adverb or conjunction)
+
+===== Usage =====
+
+from thence, (from) whence, where(-by, -fore, -upon).
+
+===== Strongs References =====
+
+[[en:lexicon:g3739|G3739]]

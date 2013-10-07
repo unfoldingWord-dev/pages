@@ -1,0 +1,17 @@
+====== G3174: μέγεθος (mégethos) ======
+
+===== Source =====
+
+from [[en:lexicon:g3173|G3173]];
+
+===== Meaning =====
+
+magnitude (figuratively)
+
+===== Usage =====
+
+greatness.
+
+===== Strongs References =====
+
+[[en:lexicon:g3173|G3173]]

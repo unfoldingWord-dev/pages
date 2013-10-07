@@ -1,0 +1,17 @@
+====== G2246: ἥλιος (hḗlios) ======
+
+===== Source =====
+
+from ἕλη (hélē) (a ray; perhaps akin to the alternate of [[en:lexicon:g138|G138]]);
+
+===== Meaning =====
+
+the sun; by implication, light
+
+===== Usage =====
+
++ east, sun.
+
+===== Strongs References =====
+
+[[en:lexicon:g138|G138]]

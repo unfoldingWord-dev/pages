@@ -1,0 +1,18 @@
+====== G1509: εἰ μή τι (ei mḗ ti) ======
+
+===== Source =====
+
+from [[en:lexicon:g1508|G1508]] and the neuter of [[en:lexicon:g5100|G5100]];
+
+===== Meaning =====
+
+if not somewhat
+
+===== Usage =====
+
+except.
+
+===== Strongs References =====
+
+[[en:lexicon:g1508|G1508]]
+[[en:lexicon:g5100|G5100]]

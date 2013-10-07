@@ -1,0 +1,17 @@
+====== G290: ἀμπελών (ampelṓn) ======
+
+===== Source =====
+
+from [[en:lexicon:g288|G288]];
+
+===== Meaning =====
+
+a vineyard
+
+===== Usage =====
+
+vineyard.
+
+===== Strongs References =====
+
+[[en:lexicon:g288|G288]]

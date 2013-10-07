@@ -1,0 +1,18 @@
+====== G4326: προσδέομαι (prosdéomai) ======
+
+===== Source =====
+
+from [[en:lexicon:g4314|G4314]] and [[en:lexicon:g1189|G1189]];
+
+===== Meaning =====
+
+to require additionally, i.e. want further
+
+===== Usage =====
+
+need.
+
+===== Strongs References =====
+
+[[en:lexicon:g4314|G4314]]
+[[en:lexicon:g1189|G1189]]

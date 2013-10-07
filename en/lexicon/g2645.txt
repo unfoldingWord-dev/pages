@@ -1,0 +1,18 @@
+====== G2645: κατάλοιπος (katáloipos) ======
+
+===== Source =====
+
+from [[en:lexicon:g2596|G2596]] and [[en:lexicon:g3062|G3062]];
+
+===== Meaning =====
+
+left down (behind), i.e remaining (plural the rest)
+
+===== Usage =====
+
+residue.
+
+===== Strongs References =====
+
+[[en:lexicon:g2596|G2596]]
+[[en:lexicon:g3062|G3062]]

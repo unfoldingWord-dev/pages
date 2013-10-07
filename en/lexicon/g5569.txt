@@ -1,0 +1,18 @@
+====== G5569: ψευδάδελφος (pseudádelphos) ======
+
+===== Source =====
+
+from [[en:lexicon:g5571|G5571]] and [[en:lexicon:g80|G80]];
+
+===== Meaning =====
+
+a spurious brother, i.e. pretended associate
+
+===== Usage =====
+
+false brethren.
+
+===== Strongs References =====
+
+[[en:lexicon:g5571|G5571]]
+[[en:lexicon:g80|G80]]

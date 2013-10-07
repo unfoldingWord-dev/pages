@@ -1,0 +1,18 @@
+====== G3881: παραλέγομαι (paralégomai) ======
+
+===== Source =====
+
+from [[en:lexicon:g3844|G3844]] and the middle voice of [[en:lexicon:g3004|G3004]] (in its original sense);
+
+===== Meaning =====
+
+(specially), to lay one's course near, i.e. sail past
+
+===== Usage =====
+
+pass, sail by.
+
+===== Strongs References =====
+
+[[en:lexicon:g3844|G3844]]
+[[en:lexicon:g3004|G3004]]

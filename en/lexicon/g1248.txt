@@ -1,0 +1,17 @@
+====== G1248: διακονία (diakonía) ======
+
+===== Source =====
+
+from [[en:lexicon:g1249|G1249]];
+
+===== Meaning =====
+
+attendance (as a servant, etc.); figuratively (eleemosynary) aid, (official) service (especially of the Christian teacher, or technically of the diaconate)
+
+===== Usage =====
+
+(ad-)minister(-ing, -tration, -try), office, relief, service(-ing).
+
+===== Strongs References =====
+
+[[en:lexicon:g1249|G1249]]

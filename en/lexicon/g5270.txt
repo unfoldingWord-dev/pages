@@ -1,0 +1,18 @@
+====== G5270: ὑποκάτω (hypokátō) ======
+
+===== Source =====
+
+from [[en:lexicon:g5259|G5259]] and [[en:lexicon:g2736|G2736]];
+
+===== Meaning =====
+
+down under, i.e. beneath
+
+===== Usage =====
+
+under.
+
+===== Strongs References =====
+
+[[en:lexicon:g5259|G5259]]
+[[en:lexicon:g2736|G2736]]

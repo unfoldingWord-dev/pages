@@ -1,0 +1,18 @@
+====== G878: ἄφρων (áphrōn) ======
+
+===== Source =====
+
+from [[en:lexicon:g1|G1]] (as a negative particle) and [[en:lexicon:g5424|G5424]];
+
+===== Meaning =====
+
+properly, mindless, i.e. stupid, (by implication) ignorant, (specially) egotistic, (practically) rash, or (morally) unbelieving
+
+===== Usage =====
+
+fool(-ish), unwise.
+
+===== Strongs References =====
+
+[[en:lexicon:g1|G1]]
+[[en:lexicon:g5424|G5424]]

@@ -1,0 +1,17 @@
+====== G956: βέλος (bélos) ======
+
+===== Source =====
+
+from [[en:lexicon:g906|G906]];
+
+===== Meaning =====
+
+a missile, i.e. spear or arrow
+
+===== Usage =====
+
+dart.
+
+===== Strongs References =====
+
+[[en:lexicon:g906|G906]]

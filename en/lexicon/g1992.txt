@@ -1,0 +1,17 @@
+====== G1992: ἐπιστολή (epistolḗ) ======
+
+===== Source =====
+
+from [[en:lexicon:g1989|G1989]];
+
+===== Meaning =====
+
+a written message
+
+===== Usage =====
+
+"epistle," letter.
+
+===== Strongs References =====
+
+[[en:lexicon:g1989|G1989]]

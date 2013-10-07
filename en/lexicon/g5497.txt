@@ -1,0 +1,18 @@
+====== G5497: χειραγωγός (cheiragōgós) ======
+
+===== Source =====
+
+from [[en:lexicon:g5495|G5495]] and a reduplicated form of [[en:lexicon:g71|G71]];
+
+===== Meaning =====
+
+a hand-leader, i.e. personal conductor (of a blind person)
+
+===== Usage =====
+
+some to lead by the hand.
+
+===== Strongs References =====
+
+[[en:lexicon:g5495|G5495]]
+[[en:lexicon:g71|G71]]

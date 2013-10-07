@@ -1,0 +1,17 @@
+====== G898: βαθμός (bathmós) ======
+
+===== Source =====
+
+from the same as [[en:lexicon:g899|G899]];
+
+===== Meaning =====
+
+a step, i.e. (figuratively) grade (of dignity)
+
+===== Usage =====
+
+degree.
+
+===== Strongs References =====
+
+[[en:lexicon:g899|G899]]

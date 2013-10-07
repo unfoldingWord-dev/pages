@@ -1,0 +1,17 @@
+====== G5481: χαρακτήρ (charaktḗr) ======
+
+===== Source =====
+
+from the same as [[en:lexicon:g5482|G5482]];
+
+===== Meaning =====
+
+a graver (the tool or the person), i.e. (by implication) engraving (("character"), the figure stamped, i.e. an exact copy or (figuratively) representation)
+
+===== Usage =====
+
+express image.
+
+===== Strongs References =====
+
+[[en:lexicon:g5482|G5482]]

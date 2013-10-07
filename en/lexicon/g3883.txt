@@ -1,0 +1,18 @@
+====== G3883: παραλλαγή (parallagḗ) ======
+
+===== Source =====
+
+from a compound of [[en:lexicon:g3844|G3844]] and [[en:lexicon:g236|G236]];
+
+===== Meaning =====
+
+transmutation (of phase or orbit), i.e. (figuratively) fickleness
+
+===== Usage =====
+
+variableness.
+
+===== Strongs References =====
+
+[[en:lexicon:g3844|G3844]]
+[[en:lexicon:g236|G236]]

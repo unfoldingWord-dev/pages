@@ -1,0 +1,18 @@
+====== G648: ἀποστεγάζω (apostegázō) ======
+
+===== Source =====
+
+from [[en:lexicon:g575|G575]] and a derivative of [[en:lexicon:g4721|G4721]];
+
+===== Meaning =====
+
+to unroof
+
+===== Usage =====
+
+uncover.
+
+===== Strongs References =====
+
+[[en:lexicon:g575|G575]]
+[[en:lexicon:g4721|G4721]]

@@ -1,0 +1,17 @@
+====== G4131: πλήκτης (plḗktēs) ======
+
+===== Source =====
+
+from [[en:lexicon:g4141|G4141]];
+
+===== Meaning =====
+
+a smiter, i.e. pugnacious (quarrelsome)
+
+===== Usage =====
+
+striker.
+
+===== Strongs References =====
+
+[[en:lexicon:g4141|G4141]]

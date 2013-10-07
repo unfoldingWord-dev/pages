@@ -1,0 +1,17 @@
+====== G3095: μαγεία (mageía) ======
+
+===== Source =====
+
+from [[en:lexicon:g3096|G3096]];
+
+===== Meaning =====
+
+"magic"
+
+===== Usage =====
+
+sorcery.
+
+===== Strongs References =====
+
+[[en:lexicon:g3096|G3096]]

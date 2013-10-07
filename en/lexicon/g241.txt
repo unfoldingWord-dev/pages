@@ -1,0 +1,18 @@
+====== G241: ἀλλογενής (allogenḗs) ======
+
+===== Source =====
+
+from [[en:lexicon:g243|G243]] and [[en:lexicon:g1085|G1085]];
+
+===== Meaning =====
+
+foreign, i.e. not a Jew
+
+===== Usage =====
+
+stranger.
+
+===== Strongs References =====
+
+[[en:lexicon:g243|G243]]
+[[en:lexicon:g1085|G1085]]

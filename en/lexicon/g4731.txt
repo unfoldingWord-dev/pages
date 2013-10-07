@@ -1,0 +1,17 @@
+====== G4731: στερεός (stereós) ======
+
+===== Source =====
+
+from [[en:lexicon:g2476|G2476]];
+
+===== Meaning =====
+
+stiff, i.e. solid, stable (literally or figuratively)
+
+===== Usage =====
+
+stedfast, strong, sure.
+
+===== Strongs References =====
+
+[[en:lexicon:g2476|G2476]]

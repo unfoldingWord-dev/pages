@@ -1,0 +1,18 @@
+====== G4881: συναπόλλυμι (synapóllymi) ======
+
+===== Source =====
+
+from [[en:lexicon:g4862|G4862]] and [[en:lexicon:g622|G622]];
+
+===== Meaning =====
+
+to destroy (middle voice or passively, be slain) in company with
+
+===== Usage =====
+
+perish with.
+
+===== Strongs References =====
+
+[[en:lexicon:g4862|G4862]]
+[[en:lexicon:g622|G622]]

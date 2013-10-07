@@ -1,0 +1,17 @@
+====== G3393: μίασμα (míasma) ======
+
+===== Source =====
+
+from [[en:lexicon:g3392|G3392]] ("miasma");
+
+===== Meaning =====
+
+(morally) foulness (properly, the effect)
+
+===== Usage =====
+
+pollution.
+
+===== Strongs References =====
+
+[[en:lexicon:g3392|G3392]]

@@ -1,0 +1,18 @@
+====== G282: ἀμήτωρ (amḗtōr) ======
+
+===== Source =====
+
+from [[en:lexicon:g1|G1]] (as a negative particle) and [[en:lexicon:g3384|G3384]];
+
+===== Meaning =====
+
+motherless, i.e. of unknown maternity
+
+===== Usage =====
+
+without mother.
+
+===== Strongs References =====
+
+[[en:lexicon:g1|G1]]
+[[en:lexicon:g3384|G3384]]

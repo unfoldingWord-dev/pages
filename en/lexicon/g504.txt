@@ -1,0 +1,18 @@
+====== G504: ἄνυδρος (ánydros) ======
+
+===== Source =====
+
+from [[en:lexicon:g1|G1]] (as a negative particle) and [[en:lexicon:g5204|G5204]];
+
+===== Meaning =====
+
+waterless, i.e. dry
+
+===== Usage =====
+
+dry, without water.
+
+===== Strongs References =====
+
+[[en:lexicon:g1|G1]]
+[[en:lexicon:g5204|G5204]]

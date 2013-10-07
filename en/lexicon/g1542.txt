@@ -1,0 +1,18 @@
+====== G1542: ἑκατονταπλασίων (hekatontaplasíōn) ======
+
+===== Source =====
+
+from [[en:lexicon:g1540|G1540]] and a presumed derivative of [[en:lexicon:g4111|G4111]];
+
+===== Meaning =====
+
+a hundred times
+
+===== Usage =====
+
+hundredfold.
+
+===== Strongs References =====
+
+[[en:lexicon:g1540|G1540]]
+[[en:lexicon:g4111|G4111]]

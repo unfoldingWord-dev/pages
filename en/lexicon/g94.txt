@@ -1,0 +1,18 @@
+====== G94: ἄδικος (ádikos) ======
+
+===== Source =====
+
+from [[en:lexicon:g1|G1]] (as a negative particle) and [[en:lexicon:g1349|G1349]];
+
+===== Meaning =====
+
+unjust; by extension wicked; by implication, treacherous; specially, heathen
+
+===== Usage =====
+
+unjust, unrighteous.
+
+===== Strongs References =====
+
+[[en:lexicon:g1|G1]]
+[[en:lexicon:g1349|G1349]]

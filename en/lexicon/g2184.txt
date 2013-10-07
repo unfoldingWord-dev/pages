@@ -1,0 +1,18 @@
+====== G2184: ἐφήμερος (ephḗmeros) ======
+
+===== Source =====
+
+from [[en:lexicon:g1909|G1909]] and [[en:lexicon:g2250|G2250]];
+
+===== Meaning =====
+
+for a day ("ephemeral"), i.e. diurnal
+
+===== Usage =====
+
+daily.
+
+===== Strongs References =====
+
+[[en:lexicon:g1909|G1909]]
+[[en:lexicon:g2250|G2250]]

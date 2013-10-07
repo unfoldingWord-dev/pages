@@ -1,0 +1,17 @@
+====== G5199: ὑγιής (hygiḗs) ======
+
+===== Source =====
+
+from the base of [[en:lexicon:g837|G837]];
+
+===== Meaning =====
+
+healthy, i.e. well (in body); figuratively, true (in doctrine)
+
+===== Usage =====
+
+sound, whole.
+
+===== Strongs References =====
+
+[[en:lexicon:g837|G837]]

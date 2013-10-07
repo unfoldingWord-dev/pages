@@ -1,0 +1,17 @@
+====== G1862: ἐπάγγελμα (epángelma) ======
+
+===== Source =====
+
+from [[en:lexicon:g1861|G1861]];
+
+===== Meaning =====
+
+a self-committal (by assurance of conferring some good)
+
+===== Usage =====
+
+promise.
+
+===== Strongs References =====
+
+[[en:lexicon:g1861|G1861]]

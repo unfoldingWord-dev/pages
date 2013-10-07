@@ -1,0 +1,18 @@
+====== G2671: κατάρα (katára) ======
+
+===== Source =====
+
+from [[en:lexicon:g2596|G2596]] (intensive) and [[en:lexicon:g685|G685]];
+
+===== Meaning =====
+
+imprecation, execration
+
+===== Usage =====
+
+curse(-d, ing).
+
+===== Strongs References =====
+
+[[en:lexicon:g2596|G2596]]
+[[en:lexicon:g685|G685]]

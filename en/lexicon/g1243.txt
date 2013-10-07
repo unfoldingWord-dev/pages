@@ -1,0 +1,17 @@
+====== G1243: διαίρεσις (diaíresis) ======
+
+===== Source =====
+
+from [[en:lexicon:g1244|G1244]];
+
+===== Meaning =====
+
+a distinction or (concretely) variety
+
+===== Usage =====
+
+difference, diversity.
+
+===== Strongs References =====
+
+[[en:lexicon:g1244|G1244]]

@@ -1,0 +1,18 @@
+====== G1327: διέξοδος (diéxodos) ======
+
+===== Source =====
+
+from [[en:lexicon:g1223|G1223]] and [[en:lexicon:g1841|G1841]];
+
+===== Meaning =====
+
+an outlet through, i.e. probably an open square (from which roads diverge)
+
+===== Usage =====
+
+highway.
+
+===== Strongs References =====
+
+[[en:lexicon:g1223|G1223]]
+[[en:lexicon:g1841|G1841]]

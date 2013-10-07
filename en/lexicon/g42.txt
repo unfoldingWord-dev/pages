@@ -1,0 +1,17 @@
+====== G42: ἁγιωσύνη (hagiōsýnē) ======
+
+===== Source =====
+
+from [[en:lexicon:g40|G40]];
+
+===== Meaning =====
+
+sacredness (i.e. properly, the quality)
+
+===== Usage =====
+
+holiness.
+
+===== Strongs References =====
+
+[[en:lexicon:g40|G40]]

@@ -1,0 +1,19 @@
+====== G3603: ὅ ἐστι (hó esti) ======
+
+===== Source =====
+
+from the neuter of [[en:lexicon:g3739|G3739]] and the third person singular present
+ indicative of [[en:lexicon:g1510|G1510]];
+
+===== Meaning =====
+
+which is
+
+===== Usage =====
+
+called, which is (make), that is (to say).
+
+===== Strongs References =====
+
+[[en:lexicon:g3739|G3739]]
+[[en:lexicon:g1510|G1510]]

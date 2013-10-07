@@ -1,0 +1,18 @@
+====== G2665: καταπέτασμα (katapétasma) ======
+
+===== Source =====
+
+from a compound of [[en:lexicon:g2596|G2596]] and a congener of [[en:lexicon:g4072|G4072]];
+
+===== Meaning =====
+
+something spread thoroughly, i.e. (specially) the door screen (to the Most Holy Place) in the Jewish Temple
+
+===== Usage =====
+
+vail.
+
+===== Strongs References =====
+
+[[en:lexicon:g2596|G2596]]
+[[en:lexicon:g4072|G4072]]

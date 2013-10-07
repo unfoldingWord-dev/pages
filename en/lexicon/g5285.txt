@@ -1,0 +1,18 @@
+====== G5285: ὑποπνέω (hypopnéō) ======
+
+===== Source =====
+
+from [[en:lexicon:g5259|G5259]] and [[en:lexicon:g4154|G4154]];
+
+===== Meaning =====
+
+to breathe gently, i.e. breeze
+
+===== Usage =====
+
+blow softly.
+
+===== Strongs References =====
+
+[[en:lexicon:g5259|G5259]]
+[[en:lexicon:g4154|G4154]]

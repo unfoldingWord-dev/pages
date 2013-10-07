@@ -1,0 +1,18 @@
+====== G450: ἀνίστημι (anístēmi) ======
+
+===== Source =====
+
+from [[en:lexicon:g303|G303]] and [[en:lexicon:g2476|G2476]];
+
+===== Meaning =====
+
+to stand up (literal or figurative, transitive or intransitive)
+
+===== Usage =====
+
+arise, lift up, raise up (again), rise (again), stand up(-right).
+
+===== Strongs References =====
+
+[[en:lexicon:g303|G303]]
+[[en:lexicon:g2476|G2476]]

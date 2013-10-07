@@ -1,0 +1,17 @@
+====== G117: Ἀθηναῖος (Athēnaîos) ======
+
+===== Source =====
+
+from [[en:lexicon:g116|G116]];
+
+===== Meaning =====
+
+an Athenæan or inhabitant of Athenæ
+
+===== Usage =====
+
+Athenian.
+
+===== Strongs References =====
+
+[[en:lexicon:g116|G116]]

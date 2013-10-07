@@ -1,0 +1,18 @@
+====== G4062: περιτρέπω (peritrépō) ======
+
+===== Source =====
+
+from [[en:lexicon:g4012|G4012]] and the base of [[en:lexicon:g5157|G5157]];
+
+===== Meaning =====
+
+to turn around, i.e. (mentally) to craze
+
+===== Usage =====
+
++ make mad.
+
+===== Strongs References =====
+
+[[en:lexicon:g4012|G4012]]
+[[en:lexicon:g5157|G5157]]

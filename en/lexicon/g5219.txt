@@ -1,0 +1,18 @@
+====== G5219: ὑπακούω (hypakoúō) ======
+
+===== Source =====
+
+from [[en:lexicon:g5259|G5259]] and [[en:lexicon:g191|G191]];
+
+===== Meaning =====
+
+to hear under (as a subordinate), i.e. to listen attentively; by implication, to heed or conform to a command or authority
+
+===== Usage =====
+
+hearken, be obedient to, obey.
+
+===== Strongs References =====
+
+[[en:lexicon:g5259|G5259]]
+[[en:lexicon:g191|G191]]

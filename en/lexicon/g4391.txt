@@ -1,0 +1,18 @@
+====== G4391: προϋπάρχω (proÿpárchō) ======
+
+===== Source =====
+
+from [[en:lexicon:g4253|G4253]] and [[en:lexicon:g5225|G5225]];
+
+===== Meaning =====
+
+to exist before, i.e. (adverbially) to be or do something previously
+
+===== Usage =====
+
++ be before(-time).
+
+===== Strongs References =====
+
+[[en:lexicon:g4253|G4253]]
+[[en:lexicon:g5225|G5225]]

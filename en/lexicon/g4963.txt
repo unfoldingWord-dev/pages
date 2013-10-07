@@ -1,0 +1,17 @@
+====== G4963: συστροφή (systrophḗ) ======
+
+===== Source =====
+
+from [[en:lexicon:g4962|G4962]];
+
+===== Meaning =====
+
+a twisting together, i.e. (figuratively) a secret coalition, riotous crowd
+
+===== Usage =====
+
++ band together, concourse.
+
+===== Strongs References =====
+
+[[en:lexicon:g4962|G4962]]

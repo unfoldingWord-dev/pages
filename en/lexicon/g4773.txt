@@ -1,0 +1,18 @@
+====== G4773: συγγενής (syngenḗs) ======
+
+===== Source =====
+
+from [[en:lexicon:g4862|G4862]] and [[en:lexicon:g1085|G1085]];
+
+===== Meaning =====
+
+a relative (by blood); by extension, a fellow countryman
+
+===== Usage =====
+
+cousin, kin(-sfolk, -sman).
+
+===== Strongs References =====
+
+[[en:lexicon:g4862|G4862]]
+[[en:lexicon:g1085|G1085]]

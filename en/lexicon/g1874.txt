@@ -1,0 +1,18 @@
+====== G1874: ἐπακροάομαι (epakroáomai) ======
+
+===== Source =====
+
+from [[en:lexicon:g1909|G1909]] and the base of [[en:lexicon:g202|G202]];
+
+===== Meaning =====
+
+to listen (intently) to
+
+===== Usage =====
+
+hear.
+
+===== Strongs References =====
+
+[[en:lexicon:g1909|G1909]]
+[[en:lexicon:g202|G202]]

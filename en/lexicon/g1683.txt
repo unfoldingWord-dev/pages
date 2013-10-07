@@ -1,0 +1,18 @@
+====== G1683: ἐμαυτοῦ (emautoû) ======
+
+===== Source =====
+
+genitive case compound of [[en:lexicon:g1700|G1700]] and [[en:lexicon:g846|G846]];
+
+===== Meaning =====
+
+of myself so likewise the dative case
+
+===== Usage =====
+
+me, mine own (self), myself.
+
+===== Strongs References =====
+
+[[en:lexicon:g1700|G1700]]
+[[en:lexicon:g846|G846]]

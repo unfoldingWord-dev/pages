@@ -1,0 +1,18 @@
+====== G2612: κατάδηλος (katádēlos) ======
+
+===== Source =====
+
+from [[en:lexicon:g2596|G2596]] intensive and [[en:lexicon:g1212|G1212]];
+
+===== Meaning =====
+
+manifest
+
+===== Usage =====
+
+far more evident.
+
+===== Strongs References =====
+
+[[en:lexicon:g2596|G2596]]
+[[en:lexicon:g1212|G1212]]

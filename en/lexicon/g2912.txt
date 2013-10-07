@@ -1,0 +1,17 @@
+====== G2912: Κρής (Krḗs) ======
+
+===== Source =====
+
+from [[en:lexicon:g2914|G2914]];
+
+===== Meaning =====
+
+a Cretan, i.e. inhabitant of Crete
+
+===== Usage =====
+
+Crete, Cretian.
+
+===== Strongs References =====
+
+[[en:lexicon:g2914|G2914]]

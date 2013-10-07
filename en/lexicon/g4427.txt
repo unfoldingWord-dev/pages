@@ -1,0 +1,17 @@
+====== G4427: πτύσμα (ptýsma) ======
+
+===== Source =====
+
+from [[en:lexicon:g4429|G4429]];
+
+===== Meaning =====
+
+saliva
+
+===== Usage =====
+
+spittle.
+
+===== Strongs References =====
+
+[[en:lexicon:g4429|G4429]]

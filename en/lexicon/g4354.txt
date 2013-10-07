@@ -1,0 +1,18 @@
+====== G4354: προσλαλέω (proslaléō) ======
+
+===== Source =====
+
+from [[en:lexicon:g4314|G4314]] and [[en:lexicon:g2980|G2980]];
+
+===== Meaning =====
+
+to talk to, i.e. converse with
+
+===== Usage =====
+
+speak to (with).
+
+===== Strongs References =====
+
+[[en:lexicon:g4314|G4314]]
+[[en:lexicon:g2980|G2980]]

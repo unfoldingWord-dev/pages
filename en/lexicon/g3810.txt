@@ -1,0 +1,17 @@
+====== G3810: παιδευτής (paideutḗs) ======
+
+===== Source =====
+
+from [[en:lexicon:g3811|G3811]];
+
+===== Meaning =====
+
+a trainer, i.e. teacher or (by implication) discipliner
+
+===== Usage =====
+
+which corrected, instructor.
+
+===== Strongs References =====
+
+[[en:lexicon:g3811|G3811]]

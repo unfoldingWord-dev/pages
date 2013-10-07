@@ -1,0 +1,18 @@
+====== G3151: ματαιολόγος (mataiológos) ======
+
+===== Source =====
+
+from [[en:lexicon:g3152|G3152]] and [[en:lexicon:g3004|G3004]];
+
+===== Meaning =====
+
+an idle (i.e. senseless or mischievous) talker, i.e. a wrangler
+
+===== Usage =====
+
+vain talker.
+
+===== Strongs References =====
+
+[[en:lexicon:g3152|G3152]]
+[[en:lexicon:g3004|G3004]]

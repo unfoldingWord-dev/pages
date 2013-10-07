@@ -1,0 +1,17 @@
+====== G705: ἀριθμέω (arithméō) ======
+
+===== Source =====
+
+from [[en:lexicon:g706|G706]];
+
+===== Meaning =====
+
+to enumerate or count
+
+===== Usage =====
+
+number.
+
+===== Strongs References =====
+
+[[en:lexicon:g706|G706]]

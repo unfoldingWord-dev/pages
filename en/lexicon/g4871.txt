@@ -1,0 +1,17 @@
+====== G4871: συναλίζω (synalízō) ======
+
+===== Source =====
+
+from [[en:lexicon:g4862|G4862]] and ἁλίζω (halízō) (to throng);
+
+===== Meaning =====
+
+to accumulate, i.e. convene
+
+===== Usage =====
+
+assemble together.
+
+===== Strongs References =====
+
+[[en:lexicon:g4862|G4862]]

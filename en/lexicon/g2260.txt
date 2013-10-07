@@ -1,0 +1,18 @@
+====== G2260: ἤπερ (ḗper) ======
+
+===== Source =====
+
+from [[en:lexicon:g2228|G2228]] and [[en:lexicon:g4007|G4007]];
+
+===== Meaning =====
+
+than at all (or than perhaps, than indeed)
+
+===== Usage =====
+
+than.
+
+===== Strongs References =====
+
+[[en:lexicon:g2228|G2228]]
+[[en:lexicon:g4007|G4007]]

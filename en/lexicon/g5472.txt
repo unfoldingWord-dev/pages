@@ -1,0 +1,18 @@
+====== G5472: χαλκηδών (chalkēdṓn) ======
+
+===== Source =====
+
+from [[en:lexicon:g5475|G5475]] and perhaps [[en:lexicon:g1491|G1491]];
+
+===== Meaning =====
+
+copper-like, i.e. "chalcedony"
+
+===== Usage =====
+
+chalcedony.
+
+===== Strongs References =====
+
+[[en:lexicon:g5475|G5475]]
+[[en:lexicon:g1491|G1491]]

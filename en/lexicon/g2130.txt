@@ -1,0 +1,18 @@
+====== G2130: εὐμετάδοτος (eumetádotos) ======
+
+===== Source =====
+
+from [[en:lexicon:g2095|G2095]] and a presumed derivative of [[en:lexicon:g3330|G3330]];
+
+===== Meaning =====
+
+good at imparting, i.e. liberal
+
+===== Usage =====
+
+ready to distribute.
+
+===== Strongs References =====
+
+[[en:lexicon:g2095|G2095]]
+[[en:lexicon:g3330|G3330]]

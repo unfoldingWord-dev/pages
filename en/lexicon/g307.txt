@@ -1,0 +1,18 @@
+====== G307: ἀναβιβάζω (anabibázō) ======
+
+===== Source =====
+
+from [[en:lexicon:g303|G303]] and a derivative of the base of [[en:lexicon:g939|G939]];
+
+===== Meaning =====
+
+to cause to go up, i.e. haul (a net)
+
+===== Usage =====
+
+draw.
+
+===== Strongs References =====
+
+[[en:lexicon:g303|G303]]
+[[en:lexicon:g939|G939]]

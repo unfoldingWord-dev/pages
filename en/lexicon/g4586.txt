@@ -1,0 +1,17 @@
+====== G4586: σεμνός (semnós) ======
+
+===== Source =====
+
+from [[en:lexicon:g4576|G4576]];
+
+===== Meaning =====
+
+venerable, i.e. honorable
+
+===== Usage =====
+
+grave, honest.
+
+===== Strongs References =====
+
+[[en:lexicon:g4576|G4576]]

@@ -1,0 +1,18 @@
+====== G5618: ὥσπερ (hṓsper) ======
+
+===== Source =====
+
+from [[en:lexicon:g5613|G5613]] and [[en:lexicon:g4007|G4007]];
+
+===== Meaning =====
+
+just as, i.e. exactly like
+
+===== Usage =====
+
+(even, like) as.
+
+===== Strongs References =====
+
+[[en:lexicon:g5613|G5613]]
+[[en:lexicon:g4007|G4007]]

@@ -1,0 +1,17 @@
+====== G4107: πλανήτης (planḗtēs) ======
+
+===== Source =====
+
+from [[en:lexicon:g4108|G4108]];
+
+===== Meaning =====
+
+a rover ("planet"), i.e. (figuratively) an erratic teacher
+
+===== Usage =====
+
+wandering.
+
+===== Strongs References =====
+
+[[en:lexicon:g4108|G4108]]

@@ -1,0 +1,18 @@
+====== G1577: ἐκκλησία (ekklēsía) ======
+
+===== Source =====
+
+from a compound of [[en:lexicon:g1537|G1537]] and a derivative of [[en:lexicon:g2564|G2564]];
+
+===== Meaning =====
+
+a calling out, i.e. (concretely) a popular meeting, especially a religious congregation (Jewish synagogue, or Christian community of members on earth or saints in heaven or both)
+
+===== Usage =====
+
+assembly, church.
+
+===== Strongs References =====
+
+[[en:lexicon:g1537|G1537]]
+[[en:lexicon:g2564|G2564]]

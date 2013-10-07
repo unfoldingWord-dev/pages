@@ -1,0 +1,17 @@
+====== G2460: ἱππεύς (hippeús) ======
+
+===== Source =====
+
+from [[en:lexicon:g2462|G2462]];
+
+===== Meaning =====
+
+an equestrian, i.e. member of a cavalry corps
+
+===== Usage =====
+
+horseman.
+
+===== Strongs References =====
+
+[[en:lexicon:g2462|G2462]]

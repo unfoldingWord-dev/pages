@@ -1,0 +1,17 @@
+====== G64: ἀγρεύω (agreúō) ======
+
+===== Source =====
+
+from [[en:lexicon:g61|G61]];
+
+===== Meaning =====
+
+to hunt, i.e. (figuratively) to entrap
+
+===== Usage =====
+
+catch.
+
+===== Strongs References =====
+
+[[en:lexicon:g61|G61]]

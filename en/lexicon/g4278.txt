@@ -1,0 +1,18 @@
+====== G4278: προενάρχομαι (proenárchomai) ======
+
+===== Source =====
+
+from [[en:lexicon:g4253|G4253]] and [[en:lexicon:g1728|G1728]];
+
+===== Meaning =====
+
+to commence already
+
+===== Usage =====
+
+begin (before).
+
+===== Strongs References =====
+
+[[en:lexicon:g4253|G4253]]
+[[en:lexicon:g1728|G1728]]

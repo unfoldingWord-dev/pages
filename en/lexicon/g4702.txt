@@ -1,0 +1,17 @@
+====== G4702: σπόριμος (spórimos) ======
+
+===== Source =====
+
+from [[en:lexicon:g4703|G4703]];
+
+===== Meaning =====
+
+sown, i.e. (neuter plural) a planted field
+
+===== Usage =====
+
+corn(-field).
+
+===== Strongs References =====
+
+[[en:lexicon:g4703|G4703]]

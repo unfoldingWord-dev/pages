@@ -1,0 +1,17 @@
+====== G5018: Ταρσεύς (Tarseús) ======
+
+===== Source =====
+
+from [[en:lexicon:g5019|G5019]];
+
+===== Meaning =====
+
+a Tarsean, i.e. native of Tarsus
+
+===== Usage =====
+
+of Tarsus.
+
+===== Strongs References =====
+
+[[en:lexicon:g5019|G5019]]

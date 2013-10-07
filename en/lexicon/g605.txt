@@ -1,0 +1,17 @@
+====== G605: ἀποκατάστασις (apokatástasis) ======
+
+===== Source =====
+
+from [[en:lexicon:g600|G600]];
+
+===== Meaning =====
+
+reconstitution
+
+===== Usage =====
+
+restitution.
+
+===== Strongs References =====
+
+[[en:lexicon:g600|G600]]

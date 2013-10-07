@@ -1,0 +1,17 @@
+====== G3422: μνημόσυνον (mnēmósynon) ======
+
+===== Source =====
+
+from [[en:lexicon:g3421|G3421]];
+
+===== Meaning =====
+
+a reminder (memorandum), i.e. record
+
+===== Usage =====
+
+memorial.
+
+===== Strongs References =====
+
+[[en:lexicon:g3421|G3421]]

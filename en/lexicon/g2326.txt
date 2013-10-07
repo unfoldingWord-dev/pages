@@ -1,0 +1,17 @@
+====== G2326: θερισμός (therismós) ======
+
+===== Source =====
+
+from [[en:lexicon:g2325|G2325]];
+
+===== Meaning =====
+
+reaping, i.e. the crop
+
+===== Usage =====
+
+harvest.
+
+===== Strongs References =====
+
+[[en:lexicon:g2325|G2325]]

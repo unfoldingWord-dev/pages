@@ -1,0 +1,18 @@
+====== G4662: σκωληκόβρωτος (skōlēkóbrōtos) ======
+
+===== Source =====
+
+from [[en:lexicon:g4663|G4663]] and a derivative of [[en:lexicon:g977|G977]];
+
+===== Meaning =====
+
+worm-eaten, i.e. diseased with maggots
+
+===== Usage =====
+
+eaten of worms.
+
+===== Strongs References =====
+
+[[en:lexicon:g4663|G4663]]
+[[en:lexicon:g977|G977]]

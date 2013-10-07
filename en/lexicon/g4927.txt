@@ -1,0 +1,19 @@
+====== G4927: συνομορέω (synomoréō) ======
+
+===== Source =====
+
+from [[en:lexicon:g4862|G4862]] and a derivative of a compound of the base of 3674 and the
+ base of [[en:lexicon:g3725|G3725]];
+
+===== Meaning =====
+
+to border together, i.e. adjoin
+
+===== Usage =====
+
+join hard.
+
+===== Strongs References =====
+
+[[en:lexicon:g4862|G4862]]
+[[en:lexicon:g3725|G3725]]

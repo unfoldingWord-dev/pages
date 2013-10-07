@@ -1,0 +1,18 @@
+====== G868: ἀφίστημι (aphístēmi) ======
+
+===== Source =====
+
+from [[en:lexicon:g575|G575]] and [[en:lexicon:g2476|G2476]];
+
+===== Meaning =====
+
+to remove, i.e. (actively) instigate to revolt; usually (reflexively) to desist, desert, etc.
+
+===== Usage =====
+
+depart, draw (fall) away, refrain, withdraw self.
+
+===== Strongs References =====
+
+[[en:lexicon:g575|G575]]
+[[en:lexicon:g2476|G2476]]

@@ -1,0 +1,17 @@
+====== G1732: ἔνδειξις (éndeixis) ======
+
+===== Source =====
+
+from [[en:lexicon:g1731|G1731]];
+
+===== Meaning =====
+
+indication (abstractly)
+
+===== Usage =====
+
+declare, evident token, proof.
+
+===== Strongs References =====
+
+[[en:lexicon:g1731|G1731]]

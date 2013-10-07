@@ -1,0 +1,19 @@
+====== G4892: συνέδριον (synédrion) ======
+
+===== Source =====
+
+neuter of a presumed derivative of a compound of [[en:lexicon:g4862|G4862]] and the base of
+ [[en:lexicon:g1476|G1476]];
+
+===== Meaning =====
+
+a joint session, i.e. (specially), the Jewish Sanhedrin; by analogy, a subordinate tribunal
+
+===== Usage =====
+
+council.
+
+===== Strongs References =====
+
+[[en:lexicon:g4862|G4862]]
+[[en:lexicon:g1476|G1476]]

@@ -1,0 +1,18 @@
+====== G4904: συνεργός (synergós) ======
+
+===== Source =====
+
+from a presumed compound of [[en:lexicon:g4862|G4862]] and the base of [[en:lexicon:g2041|G2041]];
+
+===== Meaning =====
+
+a co-laborer, i.e. coadjutor
+
+===== Usage =====
+
+companion in labour, (fellow-)helper(-labourer, -worker), labourer together with, workfellow.
+
+===== Strongs References =====
+
+[[en:lexicon:g4862|G4862]]
+[[en:lexicon:g2041|G2041]]

@@ -1,0 +1,19 @@
+====== G111: ἀθέμιτος (athémitos) ======
+
+===== Source =====
+
+from [[en:lexicon:g1|G1]] (as a negative particle) and a derivative of θέμις (thémis) (statute;
+ from the base of [[en:lexicon:g5087|G5087]]);
+
+===== Meaning =====
+
+illegal; by implication, flagitious
+
+===== Usage =====
+
+abominable, unlawful thing.
+
+===== Strongs References =====
+
+[[en:lexicon:g1|G1]]
+[[en:lexicon:g5087|G5087]]

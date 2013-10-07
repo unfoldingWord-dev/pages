@@ -1,0 +1,17 @@
+====== G4143: πλοῖον (ploîon) ======
+
+===== Source =====
+
+from [[en:lexicon:g4126|G4126]];
+
+===== Meaning =====
+
+a sailer, i.e. vessel
+
+===== Usage =====
+
+ship(-ing).
+
+===== Strongs References =====
+
+[[en:lexicon:g4126|G4126]]

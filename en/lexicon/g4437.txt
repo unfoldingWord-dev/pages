@@ -1,0 +1,17 @@
+====== G4437: πυκνός (pyknós) ======
+
+===== Source =====
+
+from the same as [[en:lexicon:g4635|G4635]];
+
+===== Meaning =====
+
+clasped (thick), i.e. (figuratively) frequent; neuter plural (as adverb) frequently
+
+===== Usage =====
+
+often(-er).
+
+===== Strongs References =====
+
+[[en:lexicon:g4635|G4635]]

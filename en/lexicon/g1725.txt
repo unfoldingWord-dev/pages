@@ -1,0 +1,18 @@
+====== G1725: ἔναντι (énanti) ======
+
+===== Source =====
+
+from [[en:lexicon:g1722|G1722]] and [[en:lexicon:g473|G473]];
+
+===== Meaning =====
+
+in front (i.e. figuratively, presence) of
+
+===== Usage =====
+
+before.
+
+===== Strongs References =====
+
+[[en:lexicon:g1722|G1722]]
+[[en:lexicon:g473|G473]]

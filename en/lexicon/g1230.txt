@@ -1,0 +1,18 @@
+====== G1230: διαγίνομαι (diagínomai) ======
+
+===== Source =====
+
+from [[en:lexicon:g1223|G1223]] and [[en:lexicon:g1096|G1096]];
+
+===== Meaning =====
+
+to elapse meanwhile
+
+===== Usage =====
+
+X after, be past, be spent.
+
+===== Strongs References =====
+
+[[en:lexicon:g1223|G1223]]
+[[en:lexicon:g1096|G1096]]

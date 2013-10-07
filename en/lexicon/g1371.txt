@@ -1,0 +1,18 @@
+====== G1371: διχοτομέω (dichotoméō) ======
+
+===== Source =====
+
+from a compound of a derivative of [[en:lexicon:g1364|G1364]] and a derivative of
+ τέμνω (témnō) (to cut);
+
+===== Meaning =====
+
+to bisect, i.e. (by extension) to flog severely
+
+===== Usage =====
+
+cut asunder (in sunder).
+
+===== Strongs References =====
+
+[[en:lexicon:g1364|G1364]]

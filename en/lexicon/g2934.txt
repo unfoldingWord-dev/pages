@@ -1,0 +1,17 @@
+====== G2934: κτῆνος (ktēnos) ======
+
+===== Source =====
+
+from [[en:lexicon:g2932|G2932]];
+
+===== Meaning =====
+
+property, i.e. (specially) a domestic animal
+
+===== Usage =====
+
+beast.
+
+===== Strongs References =====
+
+[[en:lexicon:g2932|G2932]]

@@ -1,0 +1,19 @@
+====== G5065: τεσσαρεσκαιδέκατος (tessareskaidékatos) ======
+
+===== Source =====
+
+from [[en:lexicon:g5064|G5064]] and [[en:lexicon:g2532|G2532]] and [[en:lexicon:g1182|G1182]];
+
+===== Meaning =====
+
+fourteenth
+
+===== Usage =====
+
+fourteenth.
+
+===== Strongs References =====
+
+[[en:lexicon:g5064|G5064]]
+[[en:lexicon:g2532|G2532]]
+[[en:lexicon:g1182|G1182]]

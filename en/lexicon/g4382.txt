@@ -1,0 +1,17 @@
+====== G4382: προσωποληψία (prosōpolēpsía) ======
+
+===== Source =====
+
+from [[en:lexicon:g4381|G4381]];
+
+===== Meaning =====
+
+partiality, i.e. favoritism
+
+===== Usage =====
+
+respect of persons.
+
+===== Strongs References =====
+
+[[en:lexicon:g4381|G4381]]

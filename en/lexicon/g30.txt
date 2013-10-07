@@ -1,0 +1,17 @@
+====== G30: ἀγγεῖον (angeîon) ======
+
+===== Source =====
+
+from ἄγγος (ángos) (a pail, perhaps as bent; compare the base of [[en:lexicon:g43|G43]]);
+
+===== Meaning =====
+
+a receptacle
+
+===== Usage =====
+
+vessel.
+
+===== Strongs References =====
+
+[[en:lexicon:g43|G43]]

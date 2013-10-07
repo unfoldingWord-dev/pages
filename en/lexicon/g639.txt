@@ -1,0 +1,18 @@
+====== G639: ἀπορέω (aporéō) ======
+
+===== Source =====
+
+from a compound of [[en:lexicon:g1|G1]] (as a negative particle) and the base of [[en:lexicon:g4198|G4198]];
+
+===== Meaning =====
+
+to have no way out, i.e. be at a loss (mentally)
+
+===== Usage =====
+
+ (stand in) doubt, be perplexed.
+
+===== Strongs References =====
+
+[[en:lexicon:g1|G1]]
+[[en:lexicon:g4198|G4198]]

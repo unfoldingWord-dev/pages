@@ -1,0 +1,18 @@
+====== G5230: ὑπέρακμος (hypérakmos) ======
+
+===== Source =====
+
+from [[en:lexicon:g5228|G5228]] and the base of [[en:lexicon:g188|G188]];
+
+===== Meaning =====
+
+beyond the "acme", i.e. figuratively (of a daughter) past the bloom (prime) of youth
+
+===== Usage =====
+
++ pass the flower of (her) age.
+
+===== Strongs References =====
+
+[[en:lexicon:g5228|G5228]]
+[[en:lexicon:g188|G188]]

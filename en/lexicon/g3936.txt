@@ -1,0 +1,18 @@
+====== G3936: παρίστημι (parístēmi) ======
+
+===== Source =====
+
+from [[en:lexicon:g3844|G3844]] and [[en:lexicon:g2476|G2476]];
+
+===== Meaning =====
+
+to stand beside, i.e. (transitively) to exhibit, proffer, (specially), recommend, (figuratively) substantiate; or (intransitively) to be at hand (or ready), aid
+
+===== Usage =====
+
+assist, bring before, command, commend, give presently, present, prove, provide, shew, stand (before, by, here, up, with), yield.
+
+===== Strongs References =====
+
+[[en:lexicon:g3844|G3844]]
+[[en:lexicon:g2476|G2476]]

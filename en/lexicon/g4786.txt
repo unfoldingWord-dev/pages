@@ -1,0 +1,18 @@
+====== G4786: συγκεράννυμι (synkeránnymi) ======
+
+===== Source =====
+
+from [[en:lexicon:g4862|G4862]] and [[en:lexicon:g2767|G2767]];
+
+===== Meaning =====
+
+to commingle, i.e. (figuratively) to combine or assimilate
+
+===== Usage =====
+
+mix with, temper together.
+
+===== Strongs References =====
+
+[[en:lexicon:g4862|G4862]]
+[[en:lexicon:g2767|G2767]]

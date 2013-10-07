@@ -1,0 +1,20 @@
+====== G4883: συναρμολογέω (synarmologéō) ======
+
+===== Source =====
+
+from [[en:lexicon:g4862|G4862]] and a derivative of a compound of [[en:lexicon:g719|G719]] and [[en:lexicon:g3004|G3004]] (in its
+ original sense of laying);
+
+===== Meaning =====
+
+to render close-jointed together, i.e. organize compactly
+
+===== Usage =====
+
+be fitly framed (joined) together.
+
+===== Strongs References =====
+
+[[en:lexicon:g4862|G4862]]
+[[en:lexicon:g719|G719]]
+[[en:lexicon:g3004|G3004]]

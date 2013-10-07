@@ -1,0 +1,18 @@
+====== G1508: εἰ μή (ei mḗ) ======
+
+===== Source =====
+
+from [[en:lexicon:g1487|G1487]] and [[en:lexicon:g3361|G3361]];
+
+===== Meaning =====
+
+if not
+
+===== Usage =====
+
+but, except (that), if not, more than, save (only) that, saving, till.
+
+===== Strongs References =====
+
+[[en:lexicon:g1487|G1487]]
+[[en:lexicon:g3361|G3361]]

@@ -1,0 +1,17 @@
+====== G1564: ἐκεῖθεν (ekeîthen) ======
+
+===== Source =====
+
+from [[en:lexicon:g1563|G1563]];
+
+===== Meaning =====
+
+thence
+
+===== Usage =====
+
+from that place, (from) thence, there.
+
+===== Strongs References =====
+
+[[en:lexicon:g1563|G1563]]

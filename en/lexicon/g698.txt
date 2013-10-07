@@ -1,0 +1,17 @@
+====== G698: Ἀρεοπαγίτης (Areopagítēs) ======
+
+===== Source =====
+
+from [[en:lexicon:g697|G697]];
+
+===== Meaning =====
+
+an Areopagite or member of the court held on Mars' Hill
+
+===== Usage =====
+
+Areopagite.
+
+===== Strongs References =====
+
+[[en:lexicon:g697|G697]]

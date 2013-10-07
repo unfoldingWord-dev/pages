@@ -1,0 +1,17 @@
+====== G5556: χρυσόπρασος (chrysóprasos) ======
+
+===== Source =====
+
+from [[en:lexicon:g5557|G5557]] and πράσον (práson) (a leek);
+
+===== Meaning =====
+
+a greenish-yellow gem ("chrysoprase")
+
+===== Usage =====
+
+chrysoprase.
+
+===== Strongs References =====
+
+[[en:lexicon:g5557|G5557]]

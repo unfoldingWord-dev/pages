@@ -1,0 +1,17 @@
+====== G2801: κλάσμα (klásma) ======
+
+===== Source =====
+
+from [[en:lexicon:g2806|G2806]];
+
+===== Meaning =====
+
+a piece (bit)
+
+===== Usage =====
+
+broken, fragment.
+
+===== Strongs References =====
+
+[[en:lexicon:g2806|G2806]]

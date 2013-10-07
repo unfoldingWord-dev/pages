@@ -1,0 +1,18 @@
+====== G4861: σύμψυχος (sýmpsychos) ======
+
+===== Source =====
+
+from [[en:lexicon:g4862|G4862]] and [[en:lexicon:g5590|G5590]];
+
+===== Meaning =====
+
+co-spirited, i.e. similar in sentiment
+
+===== Usage =====
+
+like-minded.
+
+===== Strongs References =====
+
+[[en:lexicon:g4862|G4862]]
+[[en:lexicon:g5590|G5590]]

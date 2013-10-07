@@ -1,0 +1,18 @@
+====== G3490: ναύκληρος (naúklēros) ======
+
+===== Source =====
+
+from [[en:lexicon:g3491|G3491]] and [[en:lexicon:g2819|G2819]] ("clerk");
+
+===== Meaning =====
+
+a captain
+
+===== Usage =====
+
+owner of a ship.
+
+===== Strongs References =====
+
+[[en:lexicon:g3491|G3491]]
+[[en:lexicon:g2819|G2819]]

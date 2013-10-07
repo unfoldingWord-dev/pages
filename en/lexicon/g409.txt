@@ -1,0 +1,18 @@
+====== G409: ἀνδροφόνος (androphónos) ======
+
+===== Source =====
+
+from [[en:lexicon:g435|G435]] and [[en:lexicon:g5408|G5408]];
+
+===== Meaning =====
+
+a murderer
+
+===== Usage =====
+
+manslayer.
+
+===== Strongs References =====
+
+[[en:lexicon:g435|G435]]
+[[en:lexicon:g5408|G5408]]

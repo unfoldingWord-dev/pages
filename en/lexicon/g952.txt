@@ -1,0 +1,17 @@
+====== G952: βέβηλος (bébēlos) ======
+
+===== Source =====
+
+from the base of [[en:lexicon:g939|G939]] and βηλός (bēlós) (a threshold);
+
+===== Meaning =====
+
+accessible (as by crossing the door-way), i.e. (by implication, of Jewish notions) heathenish, wicked
+
+===== Usage =====
+
+profane (person).
+
+===== Strongs References =====
+
+[[en:lexicon:g939|G939]]

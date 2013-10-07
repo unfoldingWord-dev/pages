@@ -1,0 +1,18 @@
+====== G4635: σκηνοποιός (skēnopoiós) ======
+
+===== Source =====
+
+from [[en:lexicon:g4633|G4633]] and [[en:lexicon:g4160|G4160]];
+
+===== Meaning =====
+
+a manufacturer of tents
+
+===== Usage =====
+
+tent-maker.
+
+===== Strongs References =====
+
+[[en:lexicon:g4633|G4633]]
+[[en:lexicon:g4160|G4160]]

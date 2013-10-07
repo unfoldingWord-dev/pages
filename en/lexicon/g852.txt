@@ -1,0 +1,18 @@
+====== G852: ἀφανής (aphanḗs) ======
+
+===== Source =====
+
+from [[en:lexicon:g1|G1]] (as a negative particle) and [[en:lexicon:g5316|G5316]];
+
+===== Meaning =====
+
+non-apparent
+
+===== Usage =====
+
+that is not manifest.
+
+===== Strongs References =====
+
+[[en:lexicon:g1|G1]]
+[[en:lexicon:g5316|G5316]]

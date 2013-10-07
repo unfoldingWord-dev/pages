@@ -1,0 +1,20 @@
+====== G2443: ἵνα (hína) ======
+
+===== Source =====
+
+probably from the same as the former part of [[en:lexicon:g1438|G1438]] (through the
+ demonstrative idea; compare [[en:lexicon:g3588|G3588]]);
+
+===== Meaning =====
+
+in order that (denoting the purpose or the result)
+
+===== Usage =====
+
+albeit, because, to the intent (that), lest, so as, (so) that, (for) to.
+
+===== Strongs References =====
+
+[[en:lexicon:g1438|G1438]]
+[[en:lexicon:g3588|G3588]]
+[[en:lexicon:g3363|G3363]]

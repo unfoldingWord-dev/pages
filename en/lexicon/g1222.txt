@@ -1,0 +1,18 @@
+====== G1222: δήπου (dḗpou) ======
+
+===== Source =====
+
+from [[en:lexicon:g1211|G1211]] and [[en:lexicon:g4225|G4225]];
+
+===== Meaning =====
+
+a particle of asseveration; indeed doubtless
+
+===== Usage =====
+
+verily.
+
+===== Strongs References =====
+
+[[en:lexicon:g1211|G1211]]
+[[en:lexicon:g4225|G4225]]

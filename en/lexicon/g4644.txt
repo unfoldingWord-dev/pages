@@ -1,0 +1,18 @@
+====== G4644: σκληροτράχηλος (sklērotráchēlos) ======
+
+===== Source =====
+
+from [[en:lexicon:g4642|G4642]] and [[en:lexicon:g5137|G5137]];
+
+===== Meaning =====
+
+hardnaped, i.e. (figuratively) obstinate
+
+===== Usage =====
+
+stiffnecked.
+
+===== Strongs References =====
+
+[[en:lexicon:g4642|G4642]]
+[[en:lexicon:g5137|G5137]]

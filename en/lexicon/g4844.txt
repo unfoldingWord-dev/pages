@@ -1,0 +1,18 @@
+====== G4844: συμπίνω (sympínō) ======
+
+===== Source =====
+
+from [[en:lexicon:g4862|G4862]] and [[en:lexicon:g4095|G4095]];
+
+===== Meaning =====
+
+to partake a beverage in company
+
+===== Usage =====
+
+drink with.
+
+===== Strongs References =====
+
+[[en:lexicon:g4862|G4862]]
+[[en:lexicon:g4095|G4095]]

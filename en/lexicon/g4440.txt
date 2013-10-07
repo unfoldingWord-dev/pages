@@ -1,0 +1,17 @@
+====== G4440: πυλών (pylṓn) ======
+
+===== Source =====
+
+from [[en:lexicon:g4439|G4439]];
+
+===== Meaning =====
+
+a gate-way, door-way of a building or city; by implication, a portal or vestibule
+
+===== Usage =====
+
+gate, porch.
+
+===== Strongs References =====
+
+[[en:lexicon:g4439|G4439]]

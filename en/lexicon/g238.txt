@@ -1,0 +1,18 @@
+====== G238: ἀλληγορέω (allēgoréō) ======
+
+===== Source =====
+
+from [[en:lexicon:g243|G243]] and ἀγορέω (agoréō) (to harangue (compare [[en:lexicon:g58|G58]]));
+
+===== Meaning =====
+
+to allegorize
+
+===== Usage =====
+
+be an allegory (the Greek word itself).
+
+===== Strongs References =====
+
+[[en:lexicon:g243|G243]]
+[[en:lexicon:g58|G58]]

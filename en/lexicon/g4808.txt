@@ -1,0 +1,17 @@
+====== G4808: συκῆ (sykē) ======
+
+===== Source =====
+
+from [[en:lexicon:g4810|G4810]];
+
+===== Meaning =====
+
+a fig-tree
+
+===== Usage =====
+
+fig tree.
+
+===== Strongs References =====
+
+[[en:lexicon:g4810|G4810]]

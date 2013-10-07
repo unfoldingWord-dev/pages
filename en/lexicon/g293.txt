@@ -1,0 +1,18 @@
+====== G293: ἀμφίβληστρον (amphíblēstron) ======
+
+===== Source =====
+
+from a compound of the base of [[en:lexicon:g297|G297]] and [[en:lexicon:g906|G906]];
+
+===== Meaning =====
+
+a (fishing) net (as thrown about the fish)
+
+===== Usage =====
+
+net.
+
+===== Strongs References =====
+
+[[en:lexicon:g297|G297]]
+[[en:lexicon:g906|G906]]

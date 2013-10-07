@@ -1,0 +1,18 @@
+====== G518: ἀπαγγέλλω (apangéllō) ======
+
+===== Source =====
+
+from [[en:lexicon:g575|G575]] and the base of [[en:lexicon:g32|G32]];
+
+===== Meaning =====
+
+to announce
+
+===== Usage =====
+
+bring word (again), declare, report, shew (again), tell.
+
+===== Strongs References =====
+
+[[en:lexicon:g575|G575]]
+[[en:lexicon:g32|G32]]

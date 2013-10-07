@@ -1,0 +1,17 @@
+====== G4512: ῥυτίς (rhytís) ======
+
+===== Source =====
+
+from [[en:lexicon:g4506|G4506]];
+
+===== Meaning =====
+
+a fold (as drawing together), i.e. a wrinkle (especially on the face)
+
+===== Usage =====
+
+wrinkle.
+
+===== Strongs References =====
+
+[[en:lexicon:g4506|G4506]]

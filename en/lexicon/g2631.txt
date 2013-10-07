@@ -1,0 +1,17 @@
+====== G2631: κατάκριμα (katákrima) ======
+
+===== Source =====
+
+from [[en:lexicon:g2632|G2632]];
+
+===== Meaning =====
+
+an adverse sentence (the verdict)
+
+===== Usage =====
+
+condemnation.
+
+===== Strongs References =====
+
+[[en:lexicon:g2632|G2632]]

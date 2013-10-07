@@ -1,0 +1,18 @@
+====== G5287: ὑπόστασις (hypóstasis) ======
+
+===== Source =====
+
+from a compound of [[en:lexicon:g5259|G5259]] and [[en:lexicon:g2476|G2476]];
+
+===== Meaning =====
+
+a setting under (support), i.e. (figuratively) concretely, essence, or abstractly, assurance (objectively or subjectively)
+
+===== Usage =====
+
+confidence, confident, person, substance.
+
+===== Strongs References =====
+
+[[en:lexicon:g5259|G5259]]
+[[en:lexicon:g2476|G2476]]

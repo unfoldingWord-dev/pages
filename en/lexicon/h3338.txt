@@ -1,0 +1,23 @@
+====== H3338: יָצֻר (yâtsur) ======
+
+===== Part of Speech =====
+
+noun - masculine
+
+===== Source =====
+
+passive participle of [[en:lexicon:h3335|H3335]];
+
+===== Meaning =====
+
+**structure**, i.e. **limb** or **part**
+
+===== Definitions =====
+
+  - structure
+  - limb
+  - part
+
+===== Usage =====
+
+member.ql

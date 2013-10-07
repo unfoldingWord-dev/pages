@@ -1,0 +1,18 @@
+====== G2526: καθό (kathó) ======
+
+===== Source =====
+
+from [[en:lexicon:g2596|G2596]] and [[en:lexicon:g3739|G3739]];
+
+===== Meaning =====
+
+according to which thing, i.e. precisely as, in proportion as
+
+===== Usage =====
+
+according to that, (inasmuch) as.
+
+===== Strongs References =====
+
+[[en:lexicon:g2596|G2596]]
+[[en:lexicon:g3739|G3739]]

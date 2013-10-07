@@ -1,0 +1,18 @@
+====== G1565: ἐκεῖνος (ekeînos) ======
+
+===== Source =====
+
+from [[en:lexicon:g1563|G1563]];
+
+===== Meaning =====
+
+that one (or (neuter) thing); often intensified by the article prefixed
+
+===== Usage =====
+
+he, it, the other (same), selfsame, that (same, very), X their, X them, they, this, those.
+
+===== Strongs References =====
+
+[[en:lexicon:g1563|G1563]]
+[[en:lexicon:g3778|G3778]]

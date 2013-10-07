@@ -1,0 +1,17 @@
+====== G164: αἰχμάλωτος (aichmálōtos) ======
+
+===== Source =====
+
+from αἰχμή (aichmḗ) (a spear) and a derivative of the same as [[en:lexicon:g259|G259]];
+
+===== Meaning =====
+
+properly, a prisoner of war, i.e. (genitive case) a captive
+
+===== Usage =====
+
+captive.
+
+===== Strongs References =====
+
+[[en:lexicon:g259|G259]]

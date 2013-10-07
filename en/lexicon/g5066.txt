@@ -1,0 +1,17 @@
+====== G5066: τεταρταῖος (tetartaîos) ======
+
+===== Source =====
+
+from [[en:lexicon:g5064|G5064]];
+
+===== Meaning =====
+
+pertaining to the fourth day
+
+===== Usage =====
+
+four days.
+
+===== Strongs References =====
+
+[[en:lexicon:g5064|G5064]]

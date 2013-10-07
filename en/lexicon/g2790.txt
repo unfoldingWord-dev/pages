@@ -1,0 +1,18 @@
+====== G2790: κιθαρῳδός (kitharōidós) ======
+
+===== Source =====
+
+from [[en:lexicon:g2788|G2788]] and a derivative of the same as [[en:lexicon:g5603|G5603]];
+
+===== Meaning =====
+
+a lyre-singer(-player), i.e. harpist
+
+===== Usage =====
+
+harper.
+
+===== Strongs References =====
+
+[[en:lexicon:g2788|G2788]]
+[[en:lexicon:g5603|G5603]]

@@ -1,0 +1,18 @@
+====== G782: ἀσπάζομαι (aspázomai) ======
+
+===== Source =====
+
+from [[en:lexicon:g1|G1]] (as a particle of union) and a presumed form of [[en:lexicon:g4685|G4685]];
+
+===== Meaning =====
+
+to enfold in the arms, i.e. (by implication) to salute, (figuratively) to welcome
+
+===== Usage =====
+
+embrace, greet, salute, take leave.
+
+===== Strongs References =====
+
+[[en:lexicon:g1|G1]]
+[[en:lexicon:g4685|G4685]]

@@ -1,0 +1,17 @@
+====== G1318: διδακτός (didaktós) ======
+
+===== Source =====
+
+from [[en:lexicon:g1321|G1321]];
+
+===== Meaning =====
+
+(subjectively) instructed, or (objectively) communicated by teaching
+
+===== Usage =====
+
+taught, which … teacheth.
+
+===== Strongs References =====
+
+[[en:lexicon:g1321|G1321]]

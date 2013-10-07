@@ -1,0 +1,17 @@
+====== G4543: Σαμοθρᾴκη (Samothráikē) ======
+
+===== Source =====
+
+from [[en:lexicon:g4544|G4544]] and Θτρᾴκη (Thtráikē) (Thrace);
+
+===== Meaning =====
+
+Samo-thrace (Samos of Thrace), an island in the Mediterranean
+
+===== Usage =====
+
+Samothracia.
+
+===== Strongs References =====
+
+[[en:lexicon:g4544|G4544]]

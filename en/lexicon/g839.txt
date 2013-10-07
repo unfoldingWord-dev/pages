@@ -1,0 +1,19 @@
+====== G839: αὔριον (aúrion) ======
+
+===== Source =====
+
+from a derivative of the same as [[en:lexicon:g109|G109]] (meaning a breeze, i.e. the
+ morning air);
+
+===== Meaning =====
+
+properly, fresh, i.e. (adverb with ellipsis of
+
+===== Usage =====
+
+(to-)morrow, next day.
+
+===== Strongs References =====
+
+[[en:lexicon:g109|G109]]
+[[en:lexicon:g2250|G2250]]

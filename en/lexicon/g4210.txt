@@ -1,0 +1,17 @@
+====== G4210: πορφυροῦς (porphyroûs) ======
+
+===== Source =====
+
+from [[en:lexicon:g4209|G4209]];
+
+===== Meaning =====
+
+purpureal, i.e. bluish red
+
+===== Usage =====
+
+purple.
+
+===== Strongs References =====
+
+[[en:lexicon:g4209|G4209]]

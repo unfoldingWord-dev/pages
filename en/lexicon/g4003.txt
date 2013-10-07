@@ -1,0 +1,19 @@
+====== G4003: πεντεκαιδέκατος (pentekaidékatos) ======
+
+===== Source =====
+
+from [[en:lexicon:g4002|G4002]] and [[en:lexicon:g2532|G2532]] and [[en:lexicon:g1182|G1182]];
+
+===== Meaning =====
+
+five and tenth
+
+===== Usage =====
+
+fifteenth.
+
+===== Strongs References =====
+
+[[en:lexicon:g4002|G4002]]
+[[en:lexicon:g2532|G2532]]
+[[en:lexicon:g1182|G1182]]

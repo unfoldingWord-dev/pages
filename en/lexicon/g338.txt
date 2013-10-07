@@ -1,0 +1,19 @@
+====== G338: ἀναίτιος (anaítios) ======
+
+===== Source =====
+
+from [[en:lexicon:g1|G1]] (as a negative particle) and [[en:lexicon:g159|G159]] (in the sense of [[en:lexicon:g156|G156]]);
+
+===== Meaning =====
+
+innocent
+
+===== Usage =====
+
+blameless, guiltless.
+
+===== Strongs References =====
+
+[[en:lexicon:g1|G1]]
+[[en:lexicon:g159|G159]]
+[[en:lexicon:g156|G156]]

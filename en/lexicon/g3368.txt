@@ -1,0 +1,18 @@
+====== G3368: μηδέποτε (mēdépote) ======
+
+===== Source =====
+
+from [[en:lexicon:g3366|G3366]] and [[en:lexicon:g4218|G4218]];
+
+===== Meaning =====
+
+not even ever
+
+===== Usage =====
+
+never.
+
+===== Strongs References =====
+
+[[en:lexicon:g3366|G3366]]
+[[en:lexicon:g4218|G4218]]

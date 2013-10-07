@@ -1,0 +1,17 @@
+====== G2772: κέρμα (kérma) ======
+
+===== Source =====
+
+from [[en:lexicon:g2751|G2751]];
+
+===== Meaning =====
+
+a clipping (bit), i.e. (specially) a coin
+
+===== Usage =====
+
+money.
+
+===== Strongs References =====
+
+[[en:lexicon:g2751|G2751]]

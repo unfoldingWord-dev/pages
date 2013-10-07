@@ -1,0 +1,18 @@
+====== G5366: φιλάργυρος (philárgyros) ======
+
+===== Source =====
+
+from [[en:lexicon:g5384|G5384]] and [[en:lexicon:g696|G696]];
+
+===== Meaning =====
+
+fond of silver (money), i.e. avaricious
+
+===== Usage =====
+
+covetous.
+
+===== Strongs References =====
+
+[[en:lexicon:g5384|G5384]]
+[[en:lexicon:g696|G696]]

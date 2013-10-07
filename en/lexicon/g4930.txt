@@ -1,0 +1,17 @@
+====== G4930: συντέλεια (syntéleia) ======
+
+===== Source =====
+
+from [[en:lexicon:g4931|G4931]];
+
+===== Meaning =====
+
+entire completion, i.e. consummation (of a dispensation)
+
+===== Usage =====
+
+end.
+
+===== Strongs References =====
+
+[[en:lexicon:g4931|G4931]]

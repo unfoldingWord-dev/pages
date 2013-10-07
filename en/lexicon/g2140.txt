@@ -1,0 +1,18 @@
+====== G2140: εὐποιΐα (eupoiḯa) ======
+
+===== Source =====
+
+from a compound of [[en:lexicon:g2095|G2095]] and [[en:lexicon:g4160|G4160]];
+
+===== Meaning =====
+
+well-doing, i.e. beneficence
+
+===== Usage =====
+
+to do good.
+
+===== Strongs References =====
+
+[[en:lexicon:g2095|G2095]]
+[[en:lexicon:g4160|G4160]]

@@ -1,0 +1,18 @@
+====== G697: Ἄρειος Πάγος (Áreios Págos) ======
+
+===== Source =====
+
+from Ἄρης (Árēs) (the name of the Greek deity of war) and a derivative of
+ [[en:lexicon:g4078|G4078]];
+
+===== Meaning =====
+
+rock of Ares, a place in Athens
+
+===== Usage =====
+
+Areopagus, Mars' Hill.
+
+===== Strongs References =====
+
+[[en:lexicon:g4078|G4078]]

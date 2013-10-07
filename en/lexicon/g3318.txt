@@ -1,0 +1,19 @@
+====== G3318: Μεσοποταμία (Mesopotamía) ======
+
+===== Source =====
+
+from [[en:lexicon:g3319|G3319]] and [[en:lexicon:g4215|G4215]];
+
+===== Meaning =====
+
+Mesopotamia (as lying between the Euphrates and the Tigris; compare
+
+===== Usage =====
+
+Mesopotamia.
+
+===== Strongs References =====
+
+[[en:lexicon:g3319|G3319]]
+[[en:lexicon:g4215|G4215]]
+[[en:lexicon:h0763|H0763]]

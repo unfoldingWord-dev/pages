@@ -1,0 +1,19 @@
+====== G609: ἀποκόπτω (apokóptō) ======
+
+===== Source =====
+
+from [[en:lexicon:g575|G575]] and [[en:lexicon:g2875|G2875]];
+
+===== Meaning =====
+
+to amputate; reflexively (by irony) to mutilate (the privy parts)
+
+===== Usage =====
+
+cut off.
+
+===== Strongs References =====
+
+[[en:lexicon:g575|G575]]
+[[en:lexicon:g2875|G2875]]
+[[en:lexicon:g2699|G2699]]

@@ -1,0 +1,17 @@
+====== G3987: πειράω (peiráō) ======
+
+===== Source =====
+
+from [[en:lexicon:g3984|G3984]];
+
+===== Meaning =====
+
+to test (subjectively), i.e. (reflexively) to attempt
+
+===== Usage =====
+
+assay.
+
+===== Strongs References =====
+
+[[en:lexicon:g3984|G3984]]

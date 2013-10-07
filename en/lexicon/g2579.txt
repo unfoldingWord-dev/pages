@@ -1,0 +1,18 @@
+====== G2579: κἄν (kán) ======
+
+===== Source =====
+
+from [[en:lexicon:g2532|G2532]] and [[en:lexicon:g1437|G1437]];
+
+===== Meaning =====
+
+and (or even) if
+
+===== Usage =====
+
+and (also) if (so much as), if but, at the least, though, yet.
+
+===== Strongs References =====
+
+[[en:lexicon:g2532|G2532]]
+[[en:lexicon:g1437|G1437]]

@@ -1,0 +1,18 @@
+====== G1772: ἔννομος (énnomos) ======
+
+===== Source =====
+
+from [[en:lexicon:g1722|G1722]] and [[en:lexicon:g3551|G3551]];
+
+===== Meaning =====
+
+(subjectively) legal, or (objectively) subject to
+
+===== Usage =====
+
+lawful, under law.
+
+===== Strongs References =====
+
+[[en:lexicon:g1722|G1722]]
+[[en:lexicon:g3551|G3551]]

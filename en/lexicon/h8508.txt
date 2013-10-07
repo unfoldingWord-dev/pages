@@ -1,0 +1,22 @@
+====== H8508: תׇּכְנִית (toknîyth) ======
+
+===== Part of Speech =====
+
+noun - feminine
+
+===== Source =====
+
+from [[en:lexicon:h8506|H8506]];
+
+===== Meaning =====
+
+**admeasurement**, i.e. **consummation**
+
+===== Definitions =====
+
+  - admeasurement
+  - consummation
+
+===== Usage =====
+
+pattern, sum.

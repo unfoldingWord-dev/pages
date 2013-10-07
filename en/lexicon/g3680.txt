@@ -1,0 +1,17 @@
+====== G3680: ὀνειδισμός (oneidismós) ======
+
+===== Source =====
+
+from [[en:lexicon:g3679|G3679]];
+
+===== Meaning =====
+
+contumely
+
+===== Usage =====
+
+reproach.
+
+===== Strongs References =====
+
+[[en:lexicon:g3679|G3679]]

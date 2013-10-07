@@ -1,0 +1,18 @@
+====== G2182: ἐφευρετής (epheuretḗs) ======
+
+===== Source =====
+
+from a compound of [[en:lexicon:g1909|G1909]] and [[en:lexicon:g2147|G2147]];
+
+===== Meaning =====
+
+a discoverer, i.e. contriver
+
+===== Usage =====
+
+inventor.
+
+===== Strongs References =====
+
+[[en:lexicon:g1909|G1909]]
+[[en:lexicon:g2147|G2147]]

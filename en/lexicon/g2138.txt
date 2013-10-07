@@ -1,0 +1,18 @@
+====== G2138: εὐπειθής (eupeithḗs) ======
+
+===== Source =====
+
+from [[en:lexicon:g2095|G2095]] and [[en:lexicon:g3982|G3982]];
+
+===== Meaning =====
+
+good for persuasion, i.e. (intransitively) complaint
+
+===== Usage =====
+
+easy to be intreated.
+
+===== Strongs References =====
+
+[[en:lexicon:g2095|G2095]]
+[[en:lexicon:g3982|G3982]]

@@ -1,0 +1,17 @@
+====== G2331: Θεσσαλονικεύς (Thessalonikeús) ======
+
+===== Source =====
+
+from [[en:lexicon:g2332|G2332]];
+
+===== Meaning =====
+
+a Thessalonican, i.e. inhabitant of Thessalonice
+
+===== Usage =====
+
+Thessalonian.
+
+===== Strongs References =====
+
+[[en:lexicon:g2332|G2332]]

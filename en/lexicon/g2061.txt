@@ -1,0 +1,18 @@
+====== G2061: Ἑρμογένης (Hermogénēs) ======
+
+===== Source =====
+
+from [[en:lexicon:g2060|G2060]] and [[en:lexicon:g1096|G1096]];
+
+===== Meaning =====
+
+born of Hermes; Hermogenes, an apostate Christian
+
+===== Usage =====
+
+Hermogenes.
+
+===== Strongs References =====
+
+[[en:lexicon:g2060|G2060]]
+[[en:lexicon:g1096|G1096]]

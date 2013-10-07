@@ -1,0 +1,18 @@
+====== G3360: μέχρι (méchri) ======
+
+===== Source =====
+
+from [[en:lexicon:g3372|G3372]];
+
+===== Meaning =====
+
+as far as, i.e. up to a certain point (as a preposition, of extent (denoting the terminus, whereas
+
+===== Usage =====
+
+till, (un-)to, until.
+
+===== Strongs References =====
+
+[[en:lexicon:g3372|G3372]]
+[[en:lexicon:g891|G891]]

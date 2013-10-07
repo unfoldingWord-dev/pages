@@ -1,0 +1,17 @@
+====== G124: Αἰγύπτιος (Aigýptios) ======
+
+===== Source =====
+
+from [[en:lexicon:g125|G125]];
+
+===== Meaning =====
+
+an Ægyptian or inhabitant of Ægyptus
+
+===== Usage =====
+
+Egyptian.
+
+===== Strongs References =====
+
+[[en:lexicon:g125|G125]]

@@ -1,0 +1,18 @@
+====== G790: ἀστατέω (astatéō) ======
+
+===== Source =====
+
+from [[en:lexicon:g1|G1]] (as a negative particle) and a derivative of [[en:lexicon:g2476|G2476]];
+
+===== Meaning =====
+
+to be non-stationary, i.e. (figuratively) homeless
+
+===== Usage =====
+
+have no certain dwelling-place.
+
+===== Strongs References =====
+
+[[en:lexicon:g1|G1]]
+[[en:lexicon:g2476|G2476]]

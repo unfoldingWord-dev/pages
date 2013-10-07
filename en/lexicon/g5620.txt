@@ -1,0 +1,18 @@
+====== G5620: ὥστε (hṓste) ======
+
+===== Source =====
+
+from [[en:lexicon:g5613|G5613]] and [[en:lexicon:g5037|G5037]];
+
+===== Meaning =====
+
+so too, i.e. thus therefore (in various relations of consecution, as follow)
+
+===== Usage =====
+
+(insomuch) as, so that (then), (insomuch) that, therefore, to, wherefore.
+
+===== Strongs References =====
+
+[[en:lexicon:g5613|G5613]]
+[[en:lexicon:g5037|G5037]]

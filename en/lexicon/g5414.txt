@@ -1,0 +1,17 @@
+====== G5414: φόρτος (phórtos) ======
+
+===== Source =====
+
+from [[en:lexicon:g5342|G5342]];
+
+===== Meaning =====
+
+something carried, i.e. the cargo of a ship
+
+===== Usage =====
+
+lading.
+
+===== Strongs References =====
+
+[[en:lexicon:g5342|G5342]]

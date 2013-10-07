@@ -1,0 +1,18 @@
+====== G3118: μακροχρόνιος (makrochrónios) ======
+
+===== Source =====
+
+from [[en:lexicon:g3117|G3117]] and [[en:lexicon:g5550|G5550]];
+
+===== Meaning =====
+
+long-timed, i.e. long-lived
+
+===== Usage =====
+
+live long.
+
+===== Strongs References =====
+
+[[en:lexicon:g3117|G3117]]
+[[en:lexicon:g5550|G5550]]

@@ -1,0 +1,17 @@
+====== G323: ἀνάδειξις (anádeixis) ======
+
+===== Source =====
+
+from [[en:lexicon:g322|G322]];
+
+===== Meaning =====
+
+(the act of) exhibition
+
+===== Usage =====
+
+shewing.
+
+===== Strongs References =====
+
+[[en:lexicon:g322|G322]]

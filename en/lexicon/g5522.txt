@@ -1,0 +1,17 @@
+====== G5522: χόος (chóos) ======
+
+===== Source =====
+
+from the base of [[en:lexicon:g5494|G5494]];
+
+===== Meaning =====
+
+a heap (as poured out), i.e. rubbish; loose dirt
+
+===== Usage =====
+
+dust.
+
+===== Strongs References =====
+
+[[en:lexicon:g5494|G5494]]

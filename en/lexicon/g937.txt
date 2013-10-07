@@ -1,0 +1,17 @@
+====== G937: βασιλικός (basilikós) ======
+
+===== Source =====
+
+from [[en:lexicon:g935|G935]];
+
+===== Meaning =====
+
+regal (in relation), i.e. (literally) belonging to (or befitting) the sovereign (as land, dress, or a courtier), or (figuratively) preeminent
+
+===== Usage =====
+
+king's, nobleman, royal.
+
+===== Strongs References =====
+
+[[en:lexicon:g935|G935]]

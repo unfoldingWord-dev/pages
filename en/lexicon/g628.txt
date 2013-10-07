@@ -1,0 +1,18 @@
+====== G628: ἀπολούω (apoloúō) ======
+
+===== Source =====
+
+from [[en:lexicon:g575|G575]] and [[en:lexicon:g3068|G3068]];
+
+===== Meaning =====
+
+to wash fully, i.e. (figuratively) have remitted (reflexively)
+
+===== Usage =====
+
+wash (away).
+
+===== Strongs References =====
+
+[[en:lexicon:g575|G575]]
+[[en:lexicon:g3068|G3068]]

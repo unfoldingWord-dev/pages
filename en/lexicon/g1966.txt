@@ -1,0 +1,20 @@
+====== G1966: ἐπιοῦσα (epioûsa) ======
+
+===== Source =====
+
+feminine singular participle of a comparative of [[en:lexicon:g1909|G1909]] and
+ εἶμι (eîmi) (to go);
+
+===== Meaning =====
+
+supervening, i.e. (
+
+===== Usage =====
+
+following, next.
+
+===== Strongs References =====
+
+[[en:lexicon:g1909|G1909]]
+[[en:lexicon:g2250|G2250]]
+[[en:lexicon:g3571|G3571]]

@@ -1,0 +1,18 @@
+====== G2567: καλοδιδάσκαλος (kalodidáskalos) ======
+
+===== Source =====
+
+from [[en:lexicon:g2570|G2570]] and [[en:lexicon:g1320|G1320]];
+
+===== Meaning =====
+
+a teacher of the right
+
+===== Usage =====
+
+teacher of good things.
+
+===== Strongs References =====
+
+[[en:lexicon:g2570|G2570]]
+[[en:lexicon:g1320|G1320]]

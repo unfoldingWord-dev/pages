@@ -1,0 +1,17 @@
+====== G4804: συζητητής (syzētētḗs) ======
+
+===== Source =====
+
+from [[en:lexicon:g4802|G4802]];
+
+===== Meaning =====
+
+a disputant, i.e. sophist
+
+===== Usage =====
+
+disputer.
+
+===== Strongs References =====
+
+[[en:lexicon:g4802|G4802]]

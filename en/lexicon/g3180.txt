@@ -1,0 +1,18 @@
+====== G3180: μεθοδεία (methodeía) ======
+
+===== Source =====
+
+from a compound of [[en:lexicon:g3326|G3326]] and [[en:lexicon:g3593|G3593]] (compare "method");
+
+===== Meaning =====
+
+travelling over, i.e. travesty (trickery)
+
+===== Usage =====
+
+wile, lie in wait.
+
+===== Strongs References =====
+
+[[en:lexicon:g3326|G3326]]
+[[en:lexicon:g3593|G3593]]

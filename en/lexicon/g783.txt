@@ -1,0 +1,17 @@
+====== G783: ἀσπασμός (aspasmós) ======
+
+===== Source =====
+
+from [[en:lexicon:g782|G782]];
+
+===== Meaning =====
+
+a greeting (in person or by letter)
+
+===== Usage =====
+
+greeting, salutation.
+
+===== Strongs References =====
+
+[[en:lexicon:g782|G782]]

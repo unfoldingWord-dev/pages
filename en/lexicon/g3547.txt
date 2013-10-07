@@ -1,0 +1,18 @@
+====== G3547: νομοδιδάσκαλος (nomodidáskalos) ======
+
+===== Source =====
+
+from [[en:lexicon:g3551|G3551]] and [[en:lexicon:g1320|G1320]];
+
+===== Meaning =====
+
+an expounder of the (Jewish) law, i.e. a Rabbi
+
+===== Usage =====
+
+doctor (teacher) of the law.
+
+===== Strongs References =====
+
+[[en:lexicon:g3551|G3551]]
+[[en:lexicon:g1320|G1320]]

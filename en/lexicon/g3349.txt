@@ -1,0 +1,20 @@
+====== G3349: μετεωρίζω (meteōrízō) ======
+
+===== Source =====
+
+from a compound of [[en:lexicon:g3326|G3326]] and a collateral form of [[en:lexicon:g142|G142]] or perhaps rather
+ [[en:lexicon:g109|G109]] (compare "meteor");
+
+===== Meaning =====
+
+to raise in mid-air, i.e. (figuratively) suspend (passively, fluctuate or be anxious)
+
+===== Usage =====
+
+be of doubtful mind.
+
+===== Strongs References =====
+
+[[en:lexicon:g3326|G3326]]
+[[en:lexicon:g142|G142]]
+[[en:lexicon:g109|G109]]

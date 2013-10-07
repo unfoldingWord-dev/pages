@@ -1,0 +1,17 @@
+====== G693: ἀργύρεος (argýreos) ======
+
+===== Source =====
+
+from [[en:lexicon:g696|G696]];
+
+===== Meaning =====
+
+made of silver
+
+===== Usage =====
+
+(of) silver.
+
+===== Strongs References =====
+
+[[en:lexicon:g696|G696]]

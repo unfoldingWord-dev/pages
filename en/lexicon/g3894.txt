@@ -1,0 +1,17 @@
+====== G3894: παραπικρασμός (parapikrasmós) ======
+
+===== Source =====
+
+from [[en:lexicon:g3893|G3893]];
+
+===== Meaning =====
+
+irritation
+
+===== Usage =====
+
+provocation.
+
+===== Strongs References =====
+
+[[en:lexicon:g3893|G3893]]

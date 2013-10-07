@@ -1,0 +1,18 @@
+====== G4289: πρόθυμος (próthymos) ======
+
+===== Source =====
+
+from [[en:lexicon:g4253|G4253]] and [[en:lexicon:g2372|G2372]];
+
+===== Meaning =====
+
+forward in spirit, i.e. predisposed; neuter (as noun) alacrity
+
+===== Usage =====
+
+ready, willing.
+
+===== Strongs References =====
+
+[[en:lexicon:g4253|G4253]]
+[[en:lexicon:g2372|G2372]]

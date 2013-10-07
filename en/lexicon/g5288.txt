@@ -1,0 +1,18 @@
+====== G5288: ὑποστέλλω (hypostéllō) ======
+
+===== Source =====
+
+from [[en:lexicon:g5259|G5259]] and [[en:lexicon:g4724|G4724]];
+
+===== Meaning =====
+
+to withhold under (out of sight), i.e. (reflexively) to cower or shrink, (figuratively) to conceal (reserve)
+
+===== Usage =====
+
+draw (keep) back, shun, withdraw.
+
+===== Strongs References =====
+
+[[en:lexicon:g5259|G5259]]
+[[en:lexicon:g4724|G4724]]

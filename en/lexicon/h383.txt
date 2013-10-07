@@ -1,0 +1,23 @@
+====== H383: אִיתַי (ʼîythay) ======
+
+===== Part of Speech =====
+
+particle
+
+===== Source =====
+
+(Aramaic) corresponding to [[en:lexicon:h3426|H3426]];
+
+===== Meaning =====
+
+properly, **entity**; used only as a **particle of affirmation**, **there is**
+
+===== Definitions =====
+
+  - entity
+  - particle of affirmation
+  - there is
+
+===== Usage =====
+
+art thou, can, do ye, have, it be, there is (are), × we will not.

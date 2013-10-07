@@ -1,0 +1,18 @@
+====== G856: ἀφεδρών (aphedrṓn) ======
+
+===== Source =====
+
+from a compound of [[en:lexicon:g575|G575]] and the base of [[en:lexicon:g1476|G1476]];
+
+===== Meaning =====
+
+a place of sitting apart, i.e. a privy
+
+===== Usage =====
+
+draught.
+
+===== Strongs References =====
+
+[[en:lexicon:g575|G575]]
+[[en:lexicon:g1476|G1476]]

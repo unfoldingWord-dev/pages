@@ -1,0 +1,18 @@
+====== G1323: δίδραχμον (dídrachmon) ======
+
+===== Source =====
+
+from [[en:lexicon:g1364|G1364]] and [[en:lexicon:g1406|G1406]];
+
+===== Meaning =====
+
+a double drachma (didrachm)
+
+===== Usage =====
+
+tribute.
+
+===== Strongs References =====
+
+[[en:lexicon:g1364|G1364]]
+[[en:lexicon:g1406|G1406]]

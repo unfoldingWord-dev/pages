@@ -1,0 +1,18 @@
+====== G2527: καθόλου (kathólou) ======
+
+===== Source =====
+
+from [[en:lexicon:g2596|G2596]] and [[en:lexicon:g3650|G3650]];
+
+===== Meaning =====
+
+on the whole, i.e. entirely
+
+===== Usage =====
+
+at all.
+
+===== Strongs References =====
+
+[[en:lexicon:g2596|G2596]]
+[[en:lexicon:g3650|G3650]]

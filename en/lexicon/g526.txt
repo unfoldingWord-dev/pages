@@ -1,0 +1,18 @@
+====== G526: ἀπαλλοτριόω (apallotrióō) ======
+
+===== Source =====
+
+from [[en:lexicon:g575|G575]] and a derivative of [[en:lexicon:g245|G245]];
+
+===== Meaning =====
+
+to estrange away, i.e. (passively and figuratively) to be non-participant
+
+===== Usage =====
+
+ alienate, be alien.
+
+===== Strongs References =====
+
+[[en:lexicon:g575|G575]]
+[[en:lexicon:g245|G245]]

@@ -1,0 +1,18 @@
+====== G5073: τετραπλόος (tetraplóos) ======
+
+===== Source =====
+
+from [[en:lexicon:g5064|G5064]] and a derivative of the base of [[en:lexicon:g4118|G4118]];
+
+===== Meaning =====
+
+quadruple
+
+===== Usage =====
+
+fourfold.
+
+===== Strongs References =====
+
+[[en:lexicon:g5064|G5064]]
+[[en:lexicon:g4118|G4118]]

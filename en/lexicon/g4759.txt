@@ -1,0 +1,18 @@
+====== G4759: στρατοπεδάρχης (stratopedárchēs) ======
+
+===== Source =====
+
+from [[en:lexicon:g4760|G4760]] and [[en:lexicon:g757|G757]];
+
+===== Meaning =====
+
+a ruler of an army, i.e. (specially), a Prætorian præfect
+
+===== Usage =====
+
+captain of the guard.
+
+===== Strongs References =====
+
+[[en:lexicon:g4760|G4760]]
+[[en:lexicon:g757|G757]]

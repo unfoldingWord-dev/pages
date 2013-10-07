@@ -1,0 +1,17 @@
+====== G5164: τροχός (trochós) ======
+
+===== Source =====
+
+from [[en:lexicon:g5143|G5143]];
+
+===== Meaning =====
+
+a wheel (as a runner), i.e. (figuratively) a circuit of physical effects
+
+===== Usage =====
+
+course.
+
+===== Strongs References =====
+
+[[en:lexicon:g5143|G5143]]

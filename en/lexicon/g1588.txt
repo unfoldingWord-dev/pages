@@ -1,0 +1,17 @@
+====== G1588: ἐκλεκτός (eklektós) ======
+
+===== Source =====
+
+from [[en:lexicon:g1586|G1586]];
+
+===== Meaning =====
+
+select; by implication, favorite
+
+===== Usage =====
+
+chosen, elect.
+
+===== Strongs References =====
+
+[[en:lexicon:g1586|G1586]]

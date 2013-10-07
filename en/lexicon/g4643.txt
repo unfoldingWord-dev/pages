@@ -1,0 +1,17 @@
+====== G4643: σκληρότης (sklērótēs) ======
+
+===== Source =====
+
+from [[en:lexicon:g4642|G4642]];
+
+===== Meaning =====
+
+callousness, i.e. (figuratively) stubbornness
+
+===== Usage =====
+
+hardness.
+
+===== Strongs References =====
+
+[[en:lexicon:g4642|G4642]]

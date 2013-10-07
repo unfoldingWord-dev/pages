@@ -1,0 +1,18 @@
+====== G4863: συνάγω (synágō) ======
+
+===== Source =====
+
+from [[en:lexicon:g4862|G4862]] and [[en:lexicon:g71|G71]];
+
+===== Meaning =====
+
+to lead together, i.e. collect or convene; specially, to entertain (hospitably)
+
+===== Usage =====
+
++ accompany, assemble (selves, together), bestow, come together, gather (selves together, up, together), lead into, resort, take in.
+
+===== Strongs References =====
+
+[[en:lexicon:g4862|G4862]]
+[[en:lexicon:g71|G71]]

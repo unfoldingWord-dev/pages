@@ -1,0 +1,17 @@
+====== G2985: λαμπάς (lampás) ======
+
+===== Source =====
+
+from [[en:lexicon:g2989|G2989]];
+
+===== Meaning =====
+
+a "lamp" or flambeau
+
+===== Usage =====
+
+lamp, light, torch.
+
+===== Strongs References =====
+
+[[en:lexicon:g2989|G2989]]

@@ -1,0 +1,18 @@
+====== G5076: τετράρχης (tetrárchēs) ======
+
+===== Source =====
+
+from [[en:lexicon:g5064|G5064]] and [[en:lexicon:g757|G757]];
+
+===== Meaning =====
+
+the ruler of a fourth part of a country ("tetrarch")
+
+===== Usage =====
+
+tetrarch.
+
+===== Strongs References =====
+
+[[en:lexicon:g5064|G5064]]
+[[en:lexicon:g757|G757]]

@@ -1,0 +1,18 @@
+====== G3908: παρατίθημι (paratíthēmi) ======
+
+===== Source =====
+
+from [[en:lexicon:g3844|G3844]] and [[en:lexicon:g5087|G5087]];
+
+===== Meaning =====
+
+to place alongside, i.e. present (food, truth); by implication, to deposit (as a trust or for protection)
+
+===== Usage =====
+
+allege, commend, commit (the keeping of), put forth, set before.
+
+===== Strongs References =====
+
+[[en:lexicon:g3844|G3844]]
+[[en:lexicon:g5087|G5087]]

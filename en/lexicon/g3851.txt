@@ -1,0 +1,18 @@
+====== G3851: παραβουλεύομαι (parabouleúomai) ======
+
+===== Source =====
+
+from [[en:lexicon:g3844|G3844]] and the middle voice of [[en:lexicon:g1011|G1011]];
+
+===== Meaning =====
+
+to misconsult, i.e. disregard
+
+===== Usage =====
+
+not (to) regard(-ing).
+
+===== Strongs References =====
+
+[[en:lexicon:g3844|G3844]]
+[[en:lexicon:g1011|G1011]]

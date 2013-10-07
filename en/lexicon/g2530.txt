@@ -1,0 +1,19 @@
+====== G2530: καθότι (kathóti) ======
+
+===== Source =====
+
+from [[en:lexicon:g2596|G2596]];
+
+===== Meaning =====
+
+and
+
+===== Usage =====
+
+(according, forasmuch) as, because (that).
+
+===== Strongs References =====
+
+[[en:lexicon:g2596|G2596]]
+[[en:lexicon:g3739|G3739]]
+[[en:lexicon:g5100|G5100]]

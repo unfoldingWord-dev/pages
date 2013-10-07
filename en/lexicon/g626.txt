@@ -1,0 +1,18 @@
+====== G626: ἀπολογέομαι (apologéomai) ======
+
+===== Source =====
+
+middle voice from a compound of [[en:lexicon:g575|G575]] and [[en:lexicon:g3056|G3056]];
+
+===== Meaning =====
+
+to give an account (legal plea) of oneself, i.e. exculpate (self)
+
+===== Usage =====
+
+answer (for self), make defence, excuse (self), speak for self.
+
+===== Strongs References =====
+
+[[en:lexicon:g575|G575]]
+[[en:lexicon:g3056|G3056]]

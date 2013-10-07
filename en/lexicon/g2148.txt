@@ -1,0 +1,17 @@
+====== G2148: Εὐροκλύδων (Euroklýdōn) ======
+
+===== Source =====
+
+from Εὖρος (Eûros) (the east wind) and [[en:lexicon:g2830|G2830]];
+
+===== Meaning =====
+
+a storm from the East (or southeast), i.e. (in modern phrase) a Levanter
+
+===== Usage =====
+
+Euroklydon.
+
+===== Strongs References =====
+
+[[en:lexicon:g2830|G2830]]

@@ -1,0 +1,18 @@
+====== G772: ἀσθενής (asthenḗs) ======
+
+===== Source =====
+
+from [[en:lexicon:g1|G1]] (as a negative particle) and the base of [[en:lexicon:g4599|G4599]];
+
+===== Meaning =====
+
+strengthless (in various applications, literal, figurative and moral)
+
+===== Usage =====
+
+more feeble, impotent, sick, without strength, weak(-er, -ness, thing).
+
+===== Strongs References =====
+
+[[en:lexicon:g1|G1]]
+[[en:lexicon:g4599|G4599]]

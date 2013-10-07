@@ -1,0 +1,21 @@
+====== H1259: בָּרָד (bârâd) ======
+
+===== Part of Speech =====
+
+noun - masculine
+
+===== Source =====
+
+from [[en:lexicon:h1258|H1258]];
+
+===== Meaning =====
+
+**hail**
+
+===== Definitions =====
+
+  - hail
+
+===== Usage =====
+
+hail(stones).

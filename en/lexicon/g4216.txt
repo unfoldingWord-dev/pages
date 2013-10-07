@@ -1,0 +1,18 @@
+====== G4216: ποταμοφόρητος (potamophórētos) ======
+
+===== Source =====
+
+from [[en:lexicon:g4215|G4215]] and a derivative of [[en:lexicon:g5409|G5409]];
+
+===== Meaning =====
+
+river-borne, i.e. overwhelmed by a stream
+
+===== Usage =====
+
+carried away of the flood.
+
+===== Strongs References =====
+
+[[en:lexicon:g4215|G4215]]
+[[en:lexicon:g5409|G5409]]

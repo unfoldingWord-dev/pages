@@ -1,0 +1,17 @@
+====== G3913: παραφρονία (paraphronía) ======
+
+===== Source =====
+
+from [[en:lexicon:g3912|G3912]];
+
+===== Meaning =====
+
+insanity, i.e. foolhardiness
+
+===== Usage =====
+
+madness.
+
+===== Strongs References =====
+
+[[en:lexicon:g3912|G3912]]

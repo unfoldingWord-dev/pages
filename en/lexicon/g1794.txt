@@ -1,0 +1,18 @@
+====== G1794: ἐντυλίσσω (entylíssō) ======
+
+===== Source =====
+
+from [[en:lexicon:g1722|G1722]] and τυλίσσω (tylíssō) (to twist; probably akin to [[en:lexicon:g1507|G1507]]);
+
+===== Meaning =====
+
+to entwine, i.e. wind up in
+
+===== Usage =====
+
+wrap in (together).
+
+===== Strongs References =====
+
+[[en:lexicon:g1722|G1722]]
+[[en:lexicon:g1507|G1507]]

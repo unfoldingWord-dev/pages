@@ -1,0 +1,18 @@
+====== G1821: ἐξαποστέλλω (exapostéllō) ======
+
+===== Source =====
+
+from [[en:lexicon:g1537|G1537]] and [[en:lexicon:g649|G649]];
+
+===== Meaning =====
+
+to send away forth, i.e. (on a mission) to despatch, or (peremptorily) to dismiss
+
+===== Usage =====
+
+send (away, forth, out).
+
+===== Strongs References =====
+
+[[en:lexicon:g1537|G1537]]
+[[en:lexicon:g649|G649]]

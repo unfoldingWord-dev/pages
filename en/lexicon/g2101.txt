@@ -1,0 +1,18 @@
+====== G2101: εὐάρεστος (euárestos) ======
+
+===== Source =====
+
+from [[en:lexicon:g2095|G2095]] and [[en:lexicon:g701|G701]];
+
+===== Meaning =====
+
+fully agreeable
+
+===== Usage =====
+
+acceptable(-ted), wellpleasing.
+
+===== Strongs References =====
+
+[[en:lexicon:g2095|G2095]]
+[[en:lexicon:g701|G701]]

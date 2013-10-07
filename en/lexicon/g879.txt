@@ -1,0 +1,18 @@
+====== G879: ἀφυπνόω (aphypnóō) ======
+
+===== Source =====
+
+from a compound of [[en:lexicon:g575|G575]] and [[en:lexicon:g5258|G5258]];
+
+===== Meaning =====
+
+properly, to become awake, i.e. (by implication) to drop (off) in slumber
+
+===== Usage =====
+
+fall asleep.
+
+===== Strongs References =====
+
+[[en:lexicon:g575|G575]]
+[[en:lexicon:g5258|G5258]]

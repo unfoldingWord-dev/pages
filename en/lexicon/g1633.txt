@@ -1,0 +1,18 @@
+====== G1633: ἐκχωρέω (ekchōréō) ======
+
+===== Source =====
+
+from [[en:lexicon:g1537|G1537]] and [[en:lexicon:g5562|G5562]];
+
+===== Meaning =====
+
+to depart
+
+===== Usage =====
+
+depart out.
+
+===== Strongs References =====
+
+[[en:lexicon:g1537|G1537]]
+[[en:lexicon:g5562|G5562]]

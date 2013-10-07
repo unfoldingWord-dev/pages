@@ -1,0 +1,18 @@
+====== G3686: ὄνομα (ónoma) ======
+
+===== Source =====
+
+from a presumed derivative of the base of [[en:lexicon:g1097|G1097]] (compare [[en:lexicon:g3685|G3685]]);
+
+===== Meaning =====
+
+a "name" (literally or figuratively) (authority, character)
+
+===== Usage =====
+
+called, (+ sur-)name(-d).
+
+===== Strongs References =====
+
+[[en:lexicon:g1097|G1097]]
+[[en:lexicon:g3685|G3685]]

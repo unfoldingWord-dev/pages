@@ -1,0 +1,17 @@
+====== G2731: κατοίκησις (katoíkēsis) ======
+
+===== Source =====
+
+from [[en:lexicon:g2730|G2730]];
+
+===== Meaning =====
+
+residence (properly, the act; but by implication, concretely, the mansion)
+
+===== Usage =====
+
+dwelling.
+
+===== Strongs References =====
+
+[[en:lexicon:g2730|G2730]]

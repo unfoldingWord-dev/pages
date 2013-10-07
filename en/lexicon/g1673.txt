@@ -1,0 +1,17 @@
+====== G1673: Ἑλληνικός (Hellēnikós) ======
+
+===== Source =====
+
+from [[en:lexicon:g1672|G1672]];
+
+===== Meaning =====
+
+Hellenic, i.e. Grecian (in language)
+
+===== Usage =====
+
+Greek.
+
+===== Strongs References =====
+
+[[en:lexicon:g1672|G1672]]

@@ -1,0 +1,18 @@
+====== G304: ἀναβαθμός (anabathmós) ======
+
+===== Source =====
+
+from [[en:lexicon:g305|G305]] (compare [[en:lexicon:g898|G898]]);
+
+===== Meaning =====
+
+a stairway
+
+===== Usage =====
+
+stairs.
+
+===== Strongs References =====
+
+[[en:lexicon:g305|G305]]
+[[en:lexicon:g898|G898]]

@@ -1,0 +1,17 @@
+====== G3546: νόμισμα (nómisma) ======
+
+===== Source =====
+
+from [[en:lexicon:g3543|G3543]];
+
+===== Meaning =====
+
+what is reckoned as of value (after the Latin
+
+===== Usage =====
+
+money.
+
+===== Strongs References =====
+
+[[en:lexicon:g3543|G3543]]

@@ -1,0 +1,17 @@
+====== G4751: στόμαχος (stómachos) ======
+
+===== Source =====
+
+from [[en:lexicon:g4750|G4750]];
+
+===== Meaning =====
+
+an orifice (the gullet), i.e. (specially), the "stomach"
+
+===== Usage =====
+
+stomach.
+
+===== Strongs References =====
+
+[[en:lexicon:g4750|G4750]]

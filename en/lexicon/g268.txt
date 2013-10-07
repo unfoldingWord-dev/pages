@@ -1,0 +1,17 @@
+====== G268: ἁμαρτωλός (hamartōlós) ======
+
+===== Source =====
+
+from [[en:lexicon:g264|G264]];
+
+===== Meaning =====
+
+sinful, i.e. a sinner
+
+===== Usage =====
+
+sinful, sinner.
+
+===== Strongs References =====
+
+[[en:lexicon:g264|G264]]

@@ -1,0 +1,18 @@
+====== G3596: ὁδοιπορέω (hodoiporéō) ======
+
+===== Source =====
+
+from a compound of [[en:lexicon:g3598|G3598]] and [[en:lexicon:g4198|G4198]];
+
+===== Meaning =====
+
+to be a wayfarer, i.e. travel
+
+===== Usage =====
+
+go on a journey.
+
+===== Strongs References =====
+
+[[en:lexicon:g3598|G3598]]
+[[en:lexicon:g4198|G4198]]

@@ -1,0 +1,18 @@
+====== G4889: σύνδουλος (sýndoulos) ======
+
+===== Source =====
+
+from [[en:lexicon:g4862|G4862]] and [[en:lexicon:g1401|G1401]];
+
+===== Meaning =====
+
+a co-slave, i.e. servitor or ministrant of the same master (human or divine)
+
+===== Usage =====
+
+fellowservant.
+
+===== Strongs References =====
+
+[[en:lexicon:g4862|G4862]]
+[[en:lexicon:g1401|G1401]]

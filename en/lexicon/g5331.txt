@@ -1,0 +1,17 @@
+====== G5331: φαρμακεία (pharmakeía) ======
+
+===== Source =====
+
+from [[en:lexicon:g5332|G5332]];
+
+===== Meaning =====
+
+medication ("pharmacy"), i.e. (by extension) magic (literally or figuratively)
+
+===== Usage =====
+
+sorcery, witchcraft.
+
+===== Strongs References =====
+
+[[en:lexicon:g5332|G5332]]

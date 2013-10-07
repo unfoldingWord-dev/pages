@@ -1,0 +1,18 @@
+====== G1271: διάνοια (diánoia) ======
+
+===== Source =====
+
+from [[en:lexicon:g1223|G1223]] and [[en:lexicon:g3563|G3563]];
+
+===== Meaning =====
+
+deep thought, properly, the faculty (mind or its disposition), by implication, its exercise
+
+===== Usage =====
+
+ imagination, mind, understanding.
+
+===== Strongs References =====
+
+[[en:lexicon:g1223|G1223]]
+[[en:lexicon:g3563|G3563]]

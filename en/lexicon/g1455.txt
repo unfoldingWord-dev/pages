@@ -1,0 +1,18 @@
+====== G1455: ἐγκάθετος (enkáthetos) ======
+
+===== Source =====
+
+from [[en:lexicon:g1722|G1722]] and a derivative of [[en:lexicon:g2524|G2524]];
+
+===== Meaning =====
+
+subinduced, i.e. surreptitiously suborned as a lier-in-wait
+
+===== Usage =====
+
+spy.
+
+===== Strongs References =====
+
+[[en:lexicon:g1722|G1722]]
+[[en:lexicon:g2524|G2524]]

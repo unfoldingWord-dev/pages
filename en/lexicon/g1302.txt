@@ -1,0 +1,18 @@
+====== G1302: διατί (diatí) ======
+
+===== Source =====
+
+from [[en:lexicon:g1223|G1223]] and [[en:lexicon:g5101|G5101]];
+
+===== Meaning =====
+
+through what cause ?, i.e. why?
+
+===== Usage =====
+
+wherefore, why.
+
+===== Strongs References =====
+
+[[en:lexicon:g1223|G1223]]
+[[en:lexicon:g5101|G5101]]

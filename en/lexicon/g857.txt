@@ -1,0 +1,18 @@
+====== G857: ἀφειδία (apheidía) ======
+
+===== Source =====
+
+from a compound of [[en:lexicon:g1|G1]] (as a negative particle) and [[en:lexicon:g5339|G5339]];
+
+===== Meaning =====
+
+unsparingness, i.e. austerity (asceticism)
+
+===== Usage =====
+
+neglecting.
+
+===== Strongs References =====
+
+[[en:lexicon:g1|G1]]
+[[en:lexicon:g5339|G5339]]

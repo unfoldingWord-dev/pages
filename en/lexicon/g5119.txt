@@ -1,0 +1,18 @@
+====== G5119: τότε (tóte) ======
+
+===== Source =====
+
+from (the neuter of) [[en:lexicon:g3588|G3588]] and [[en:lexicon:g3753|G3753]];
+
+===== Meaning =====
+
+the when, i.e. at the time that (of the past or future, also in consecution)
+
+===== Usage =====
+
+that time, then.
+
+===== Strongs References =====
+
+[[en:lexicon:g3753|G3753]]
+[[en:lexicon:g3588|G3588]]

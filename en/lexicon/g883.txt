@@ -1,0 +1,17 @@
+====== G883: Ἀχαϊκός (Achaïkós) ======
+
+===== Source =====
+
+from [[en:lexicon:g882|G882]];
+
+===== Meaning =====
+
+an Achaian; Achaicus, a Christian
+
+===== Usage =====
+
+Achaicus.
+
+===== Strongs References =====
+
+[[en:lexicon:g882|G882]]

@@ -1,0 +1,18 @@
+====== G1882: ἐπανόρθωσις (epanórthōsis) ======
+
+===== Source =====
+
+from a compound of [[en:lexicon:g1909|G1909]] and [[en:lexicon:g461|G461]];
+
+===== Meaning =====
+
+a straightening up again, i.e. (figuratively) rectification (reformation)
+
+===== Usage =====
+
+ correction.
+
+===== Strongs References =====
+
+[[en:lexicon:g1909|G1909]]
+[[en:lexicon:g461|G461]]

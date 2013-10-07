@@ -1,0 +1,18 @@
+====== G2519: καθηγητής (kathēgētḗs) ======
+
+===== Source =====
+
+from a compound of [[en:lexicon:g2596|G2596]] and [[en:lexicon:g2233|G2233]];
+
+===== Meaning =====
+
+a guide, i.e. (figuratively) a teacher
+
+===== Usage =====
+
+master.
+
+===== Strongs References =====
+
+[[en:lexicon:g2596|G2596]]
+[[en:lexicon:g2233|G2233]]

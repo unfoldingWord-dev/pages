@@ -1,0 +1,18 @@
+====== G534: ἀπάρτι (apárti) ======
+
+===== Source =====
+
+from [[en:lexicon:g575|G575]] and [[en:lexicon:g737|G737]];
+
+===== Meaning =====
+
+from now, i.e. henceforth (already)
+
+===== Usage =====
+
+from henceforth.
+
+===== Strongs References =====
+
+[[en:lexicon:g575|G575]]
+[[en:lexicon:g737|G737]]

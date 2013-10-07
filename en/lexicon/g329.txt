@@ -1,0 +1,19 @@
+====== G329: ἀναζωπυρέω (anazōpyréō) ======
+
+===== Source =====
+
+from [[en:lexicon:g303|G303]] and a compound of the base of [[en:lexicon:g2226|G2226]] and [[en:lexicon:g4442|G4442]];
+
+===== Meaning =====
+
+to re-enkindle
+
+===== Usage =====
+
+stir up.
+
+===== Strongs References =====
+
+[[en:lexicon:g303|G303]]
+[[en:lexicon:g2226|G2226]]
+[[en:lexicon:g4442|G4442]]

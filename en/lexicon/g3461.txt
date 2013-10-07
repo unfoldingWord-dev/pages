@@ -1,0 +1,17 @@
+====== G3461: μυριάς (myriás) ======
+
+===== Source =====
+
+from [[en:lexicon:g3463|G3463]];
+
+===== Meaning =====
+
+a ten-thousand; by extension, a "myriad" or indefinite number
+
+===== Usage =====
+
+ten thousand.
+
+===== Strongs References =====
+
+[[en:lexicon:g3463|G3463]]

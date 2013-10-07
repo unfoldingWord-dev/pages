@@ -1,0 +1,18 @@
+====== G4323: προσανατίθημι (prosanatíthēmi) ======
+
+===== Source =====
+
+from [[en:lexicon:g4314|G4314]] and [[en:lexicon:g394|G394]];
+
+===== Meaning =====
+
+to lay up in addition, i.e. (middle voice and figuratively) to impart or (by implication) to consult
+
+===== Usage =====
+
+in conference add, confer.
+
+===== Strongs References =====
+
+[[en:lexicon:g4314|G4314]]
+[[en:lexicon:g394|G394]]

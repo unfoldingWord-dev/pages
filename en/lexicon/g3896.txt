@@ -1,0 +1,18 @@
+====== G3896: παραπλέω (parapléō) ======
+
+===== Source =====
+
+from [[en:lexicon:g3844|G3844]] and [[en:lexicon:g4126|G4126]];
+
+===== Meaning =====
+
+to sail near
+
+===== Usage =====
+
+sail by.
+
+===== Strongs References =====
+
+[[en:lexicon:g3844|G3844]]
+[[en:lexicon:g4126|G4126]]

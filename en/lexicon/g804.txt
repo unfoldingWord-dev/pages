@@ -1,0 +1,17 @@
+====== G804: ἀσφαλής (asphalḗs) ======
+
+===== Source =====
+
+from [[en:lexicon:g1|G1]] (as a negative particle) and sphallo (to "fail");
+
+===== Meaning =====
+
+secure (literally or figuratively)
+
+===== Usage =====
+
+certain(-ty), safe, sure.
+
+===== Strongs References =====
+
+[[en:lexicon:g1|G1]]

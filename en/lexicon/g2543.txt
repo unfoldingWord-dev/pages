@@ -1,0 +1,18 @@
+====== G2543: καίτοι (kaítoi) ======
+
+===== Source =====
+
+from [[en:lexicon:g2532|G2532]] and [[en:lexicon:g5104|G5104]];
+
+===== Meaning =====
+
+and yet, i.e. nevertheless
+
+===== Usage =====
+
+although.
+
+===== Strongs References =====
+
+[[en:lexicon:g2532|G2532]]
+[[en:lexicon:g5104|G5104]]

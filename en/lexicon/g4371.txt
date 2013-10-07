@@ -1,0 +1,19 @@
+====== G4371: προσφάγιον (prosphágion) ======
+
+===== Source =====
+
+neuter of a presumed derivative of a compound of [[en:lexicon:g4314|G4314]] and [[en:lexicon:g5315|G5315]];
+
+===== Meaning =====
+
+something eaten in addition to bread, i.e. a relish (specially, fish; compare
+
+===== Usage =====
+
+meat.
+
+===== Strongs References =====
+
+[[en:lexicon:g4314|G4314]]
+[[en:lexicon:g5315|G5315]]
+[[en:lexicon:g3795|G3795]]

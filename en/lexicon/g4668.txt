@@ -1,0 +1,17 @@
+====== G4668: Σμυρναῖος (Smyrnaîos) ======
+
+===== Source =====
+
+from [[en:lexicon:g4667|G4667]];
+
+===== Meaning =====
+
+a Smyrnæan
+
+===== Usage =====
+
+in Smyrna.
+
+===== Strongs References =====
+
+[[en:lexicon:g4667|G4667]]

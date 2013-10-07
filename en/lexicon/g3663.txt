@@ -1,0 +1,18 @@
+====== G3663: ὁμοιοπαθής (homoiopathḗs) ======
+
+===== Source =====
+
+from [[en:lexicon:g3664|G3664]] and the alternate of [[en:lexicon:g3958|G3958]];
+
+===== Meaning =====
+
+similarly affected
+
+===== Usage =====
+
+of (subject to) like passions.
+
+===== Strongs References =====
+
+[[en:lexicon:g3664|G3664]]
+[[en:lexicon:g3958|G3958]]

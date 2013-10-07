@@ -1,0 +1,17 @@
+====== G3010: λειτουργικός (leitourgikós) ======
+
+===== Source =====
+
+from the same as [[en:lexicon:g3008|G3008]];
+
+===== Meaning =====
+
+functional publicly ("liturgic"); i.e. beneficient
+
+===== Usage =====
+
+ministering.
+
+===== Strongs References =====
+
+[[en:lexicon:g3008|G3008]]

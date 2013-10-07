@@ -1,0 +1,17 @@
+====== G1845: ἐξορκιστής (exorkistḗs) ======
+
+===== Source =====
+
+from [[en:lexicon:g1844|G1844]];
+
+===== Meaning =====
+
+one that binds by an oath (or spell), i.e. (by implication) an "exorcist" (conjurer)
+
+===== Usage =====
+
+exorcist.
+
+===== Strongs References =====
+
+[[en:lexicon:g1844|G1844]]

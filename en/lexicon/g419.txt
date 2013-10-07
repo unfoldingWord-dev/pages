@@ -1,0 +1,18 @@
+====== G419: ἀνεξερεύνητος (anexereúnētos) ======
+
+===== Source =====
+
+from [[en:lexicon:g1|G1]] (as a negative particle) and a presumed derivative of [[en:lexicon:g1830|G1830]];
+
+===== Meaning =====
+
+not searched out, i.e. (by implication) inscrutable
+
+===== Usage =====
+
+unsearchable.
+
+===== Strongs References =====
+
+[[en:lexicon:g1|G1]]
+[[en:lexicon:g1830|G1830]]

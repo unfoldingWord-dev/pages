@@ -1,0 +1,18 @@
+====== G280: ἄμετρος (ámetros) ======
+
+===== Source =====
+
+from [[en:lexicon:g1|G1]] (as a negative particle) and [[en:lexicon:g3358|G3358]];
+
+===== Meaning =====
+
+immoderate
+
+===== Usage =====
+
+(thing) without measure.
+
+===== Strongs References =====
+
+[[en:lexicon:g1|G1]]
+[[en:lexicon:g3358|G3358]]

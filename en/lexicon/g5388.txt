@@ -1,0 +1,18 @@
+====== G5388: φιλότεκνος (philóteknos) ======
+
+===== Source =====
+
+from [[en:lexicon:g5384|G5384]] and [[en:lexicon:g5043|G5043]];
+
+===== Meaning =====
+
+fond of one's children, i.e. maternal
+
+===== Usage =====
+
+love their children.
+
+===== Strongs References =====
+
+[[en:lexicon:g5384|G5384]]
+[[en:lexicon:g5043|G5043]]

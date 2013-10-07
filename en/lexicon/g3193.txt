@@ -1,0 +1,17 @@
+====== G3193: μελίσσιος (melíssios) ======
+
+===== Source =====
+
+from [[en:lexicon:g3192|G3192]];
+
+===== Meaning =====
+
+relating to honey, i.e. bee (comb)
+
+===== Usage =====
+
+honeycomb.
+
+===== Strongs References =====
+
+[[en:lexicon:g3192|G3192]]

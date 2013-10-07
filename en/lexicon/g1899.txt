@@ -1,0 +1,18 @@
+====== G1899: ἔπειτα (épeita) ======
+
+===== Source =====
+
+from [[en:lexicon:g1909|G1909]] and [[en:lexicon:g1534|G1534]];
+
+===== Meaning =====
+
+thereafter
+
+===== Usage =====
+
+after that(-ward), then.
+
+===== Strongs References =====
+
+[[en:lexicon:g1909|G1909]]
+[[en:lexicon:g1534|G1534]]

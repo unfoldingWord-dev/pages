@@ -1,0 +1,19 @@
+====== G3202: μεμψίμοιρος (mempsímoiros) ======
+
+===== Source =====
+
+from a presumed derivative of [[en:lexicon:g3201|G3201]] and μοῖρα (moîra) (fate; akin to the base
+ of [[en:lexicon:g3313|G3313]]);
+
+===== Meaning =====
+
+blaming fate, i.e. querulous (discontented)
+
+===== Usage =====
+
+complainer.
+
+===== Strongs References =====
+
+[[en:lexicon:g3201|G3201]]
+[[en:lexicon:g3313|G3313]]

@@ -1,0 +1,17 @@
+====== G4578: σεισμός (seismós) ======
+
+===== Source =====
+
+from [[en:lexicon:g4579|G4579]];
+
+===== Meaning =====
+
+a commotion, i.e. (of the air) a gale, (of the ground) an earthquake
+
+===== Usage =====
+
+earthquake, tempest.
+
+===== Strongs References =====
+
+[[en:lexicon:g4579|G4579]]

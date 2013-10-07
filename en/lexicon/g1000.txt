@@ -1,0 +1,17 @@
+====== G1000: βολή (bolḗ) ======
+
+===== Source =====
+
+from [[en:lexicon:g906|G906]];
+
+===== Meaning =====
+
+a throw (as a measure of distance)
+
+===== Usage =====
+
+cast.
+
+===== Strongs References =====
+
+[[en:lexicon:g906|G906]]

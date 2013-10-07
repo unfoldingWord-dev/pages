@@ -1,0 +1,17 @@
+====== G899: βάθος (báthos) ======
+
+===== Source =====
+
+from the same as [[en:lexicon:g901|G901]];
+
+===== Meaning =====
+
+profundity, i.e. (by implication) extent; (figuratively) mystery
+
+===== Usage =====
+
+deep(-ness, things), depth.
+
+===== Strongs References =====
+
+[[en:lexicon:g901|G901]]

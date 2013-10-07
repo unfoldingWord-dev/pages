@@ -1,0 +1,17 @@
+====== G1157: δανειστής (daneistḗs) ======
+
+===== Source =====
+
+from [[en:lexicon:g1155|G1155]];
+
+===== Meaning =====
+
+a lender
+
+===== Usage =====
+
+creditor.
+
+===== Strongs References =====
+
+[[en:lexicon:g1155|G1155]]

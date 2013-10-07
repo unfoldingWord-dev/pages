@@ -1,0 +1,18 @@
+====== G350: ἀνακρίνω (anakrínō) ======
+
+===== Source =====
+
+from [[en:lexicon:g303|G303]] and [[en:lexicon:g2919|G2919]];
+
+===== Meaning =====
+
+properly, to scrutinize, i.e. (by implication) investigate, interrogate, determine
+
+===== Usage =====
+
+ask, question, discern, examine, judge, search.
+
+===== Strongs References =====
+
+[[en:lexicon:g303|G303]]
+[[en:lexicon:g2919|G2919]]

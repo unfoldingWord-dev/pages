@@ -1,0 +1,17 @@
+====== G1782: ἐντεῦθεν (enteûthen) ======
+
+===== Source =====
+
+from the same as [[en:lexicon:g1759|G1759]];
+
+===== Meaning =====
+
+hence (literally or figuratively); (repeated) on both sides
+
+===== Usage =====
+
+(from) hence, on either side.
+
+===== Strongs References =====
+
+[[en:lexicon:g1759|G1759]]

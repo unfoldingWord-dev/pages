@@ -1,0 +1,18 @@
+====== G2170: εὐχάριστος (eucháristos) ======
+
+===== Source =====
+
+from [[en:lexicon:g2095|G2095]] and a derivative of [[en:lexicon:g5483|G5483]];
+
+===== Meaning =====
+
+well favored, i.e. (by implication) grateful
+
+===== Usage =====
+
+thankful.
+
+===== Strongs References =====
+
+[[en:lexicon:g2095|G2095]]
+[[en:lexicon:g5483|G5483]]

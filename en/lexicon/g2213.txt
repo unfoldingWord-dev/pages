@@ -1,0 +1,17 @@
+====== G2213: ζήτημα (zḗtēma) ======
+
+===== Source =====
+
+from [[en:lexicon:g2212|G2212]];
+
+===== Meaning =====
+
+a search (properly concretely), i.e. (in words) a debate
+
+===== Usage =====
+
+question.
+
+===== Strongs References =====
+
+[[en:lexicon:g2212|G2212]]

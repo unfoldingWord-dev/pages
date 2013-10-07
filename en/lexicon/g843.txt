@@ -1,0 +1,18 @@
+====== G843: αὐτοκατάκριτος (autokatákritos) ======
+
+===== Source =====
+
+from [[en:lexicon:g846|G846]] and a derivative or [[en:lexicon:g2632|G2632]];
+
+===== Meaning =====
+
+self-condemned
+
+===== Usage =====
+
+condemned of self.
+
+===== Strongs References =====
+
+[[en:lexicon:g846|G846]]
+[[en:lexicon:g2632|G2632]]

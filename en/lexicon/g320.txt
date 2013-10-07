@@ -1,0 +1,17 @@
+====== G320: ἀνάγνωσις (anágnōsis) ======
+
+===== Source =====
+
+from [[en:lexicon:g314|G314]];
+
+===== Meaning =====
+
+(the act of) reading
+
+===== Usage =====
+
+reading.
+
+===== Strongs References =====
+
+[[en:lexicon:g314|G314]]

@@ -1,0 +1,18 @@
+====== G3927: παρεπίδημος (parepídēmos) ======
+
+===== Source =====
+
+from [[en:lexicon:g3844|G3844]] and the base of [[en:lexicon:g1927|G1927]];
+
+===== Meaning =====
+
+an alien alongside, i.e. a resident foreigner
+
+===== Usage =====
+
+pilgrim, stranger.
+
+===== Strongs References =====
+
+[[en:lexicon:g3844|G3844]]
+[[en:lexicon:g1927|G1927]]

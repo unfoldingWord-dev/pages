@@ -1,0 +1,18 @@
+====== G1861: ἐπαγγέλλω (epangéllō) ======
+
+===== Source =====
+
+from [[en:lexicon:g1909|G1909]] and the base of [[en:lexicon:g32|G32]];
+
+===== Meaning =====
+
+to announce upon (reflexively), i.e. (by implication) to engage to do something, to assert something respecting oneself
+
+===== Usage =====
+
+profess, (make) promise.
+
+===== Strongs References =====
+
+[[en:lexicon:g1909|G1909]]
+[[en:lexicon:g32|G32]]

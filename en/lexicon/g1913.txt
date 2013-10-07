@@ -1,0 +1,20 @@
+====== G1913: ἐπιβιβάζω (epibibázō) ======
+
+===== Source =====
+
+from [[en:lexicon:g1909|G1909]] and a reduplicated derivative of the base of [[en:lexicon:g939|G939]] (compare
+ [[en:lexicon:g307|G307]]);
+
+===== Meaning =====
+
+to cause to mount (an animal)
+
+===== Usage =====
+
+set on.
+
+===== Strongs References =====
+
+[[en:lexicon:g1909|G1909]]
+[[en:lexicon:g939|G939]]
+[[en:lexicon:g307|G307]]

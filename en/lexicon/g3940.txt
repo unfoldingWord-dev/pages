@@ -1,0 +1,17 @@
+====== G3940: παροικία (paroikía) ======
+
+===== Source =====
+
+from [[en:lexicon:g3941|G3941]];
+
+===== Meaning =====
+
+foreign residence
+
+===== Usage =====
+
+sojourning, X as strangers.
+
+===== Strongs References =====
+
+[[en:lexicon:g3941|G3941]]

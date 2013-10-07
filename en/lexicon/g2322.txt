@@ -1,0 +1,17 @@
+====== G2322: θεραπεία (therapeía) ======
+
+===== Source =====
+
+from [[en:lexicon:g2323|G2323]];
+
+===== Meaning =====
+
+attendance (specially, medical, i.e. cure); figuratively and collectively, domestics
+
+===== Usage =====
+
+healing, household.
+
+===== Strongs References =====
+
+[[en:lexicon:g2323|G2323]]

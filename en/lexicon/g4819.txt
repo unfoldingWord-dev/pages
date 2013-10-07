@@ -1,0 +1,18 @@
+====== G4819: συμβαίνω (symbaínō) ======
+
+===== Source =====
+
+from [[en:lexicon:g4862|G4862]] and the base of [[en:lexicon:g939|G939]];
+
+===== Meaning =====
+
+to walk (figuratively, transpire) together, i.e. concur (take place)
+
+===== Usage =====
+
+be(-fall), happen (unto).
+
+===== Strongs References =====
+
+[[en:lexicon:g4862|G4862]]
+[[en:lexicon:g939|G939]]

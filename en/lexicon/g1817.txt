@@ -1,0 +1,18 @@
+====== G1817: ἐξανίστημι (exanístēmi) ======
+
+===== Source =====
+
+from [[en:lexicon:g1537|G1537]] and [[en:lexicon:g450|G450]];
+
+===== Meaning =====
+
+objectively, to produce, i.e. (figuratively) beget; subjectively, to arise, i.e. (figuratively) object
+
+===== Usage =====
+
+raise (rise) up.
+
+===== Strongs References =====
+
+[[en:lexicon:g1537|G1537]]
+[[en:lexicon:g450|G450]]

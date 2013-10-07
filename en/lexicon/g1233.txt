@@ -1,0 +1,17 @@
+====== G1233: διάγνωσις (diágnōsis) ======
+
+===== Source =====
+
+from [[en:lexicon:g1231|G1231]];
+
+===== Meaning =====
+
+(magisterial) examination ("diagnosis")
+
+===== Usage =====
+
+hearing.
+
+===== Strongs References =====
+
+[[en:lexicon:g1231|G1231]]

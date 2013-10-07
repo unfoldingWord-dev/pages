@@ -1,0 +1,17 @@
+====== G841: αὐτάρκεια (autárkeia) ======
+
+===== Source =====
+
+from [[en:lexicon:g842|G842]];
+
+===== Meaning =====
+
+self-satisfaction, i.e. (abstractly) contentedness, or (concretely) a competence
+
+===== Usage =====
+
+contentment, sufficiency.
+
+===== Strongs References =====
+
+[[en:lexicon:g842|G842]]

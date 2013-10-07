@@ -1,0 +1,18 @@
+====== G1750: ἐνειλέω (eneiléō) ======
+
+===== Source =====
+
+from [[en:lexicon:g1772|G1772]] and the base of [[en:lexicon:g1507|G1507]];
+
+===== Meaning =====
+
+to enwrap
+
+===== Usage =====
+
+wrap in.
+
+===== Strongs References =====
+
+[[en:lexicon:g1772|G1772]]
+[[en:lexicon:g1507|G1507]]

@@ -1,0 +1,18 @@
+====== G1421: δυσερμήνευτος (dysermḗneutos) ======
+
+===== Source =====
+
+from [[en:lexicon:g1418|G1418]] and a presumed derivative of [[en:lexicon:g2059|G2059]];
+
+===== Meaning =====
+
+difficult of explanation
+
+===== Usage =====
+
+hard to be uttered.
+
+===== Strongs References =====
+
+[[en:lexicon:g1418|G1418]]
+[[en:lexicon:g2059|G2059]]

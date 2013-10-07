@@ -1,0 +1,17 @@
+====== G2773: κερματιστής (kermatistḗs) ======
+
+===== Source =====
+
+from a derivative of [[en:lexicon:g2772|G2772]];
+
+===== Meaning =====
+
+a handler of coins, i.e. money-broker
+
+===== Usage =====
+
+changer of money.
+
+===== Strongs References =====
+
+[[en:lexicon:g2772|G2772]]

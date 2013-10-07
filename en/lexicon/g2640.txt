@@ -1,0 +1,17 @@
+====== G2640: κατάλειμμα (katáleimma) ======
+
+===== Source =====
+
+from [[en:lexicon:g2641|G2641]];
+
+===== Meaning =====
+
+a remainder, i.e. (by implication) a few
+
+===== Usage =====
+
+remnant.
+
+===== Strongs References =====
+
+[[en:lexicon:g2641|G2641]]

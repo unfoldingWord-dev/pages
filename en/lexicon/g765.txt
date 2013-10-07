@@ -1,0 +1,18 @@
+====== G765: ἀσεβής (asebḗs) ======
+
+===== Source =====
+
+from [[en:lexicon:g1|G1]] (as a negative particle) and a presumed derivative of [[en:lexicon:g4576|G4576]];
+
+===== Meaning =====
+
+irreverent, i.e. (by extension) impious or wicked
+
+===== Usage =====
+
+ ungodly (man).
+
+===== Strongs References =====
+
+[[en:lexicon:g1|G1]]
+[[en:lexicon:g4576|G4576]]

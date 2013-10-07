@@ -1,0 +1,17 @@
+====== G612: ἀπόκρισις (apókrisis) ======
+
+===== Source =====
+
+from [[en:lexicon:g611|G611]];
+
+===== Meaning =====
+
+a response
+
+===== Usage =====
+
+answer.
+
+===== Strongs References =====
+
+[[en:lexicon:g611|G611]]

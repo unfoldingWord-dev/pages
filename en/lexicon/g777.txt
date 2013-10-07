@@ -1,0 +1,18 @@
+====== G777: ἄσιτος (ásitos) ======
+
+===== Source =====
+
+from [[en:lexicon:g1|G1]] (as a negative particle) and [[en:lexicon:g4621|G4621]];
+
+===== Meaning =====
+
+without (taking) food
+
+===== Usage =====
+
+fasting.
+
+===== Strongs References =====
+
+[[en:lexicon:g1|G1]]
+[[en:lexicon:g4621|G4621]]

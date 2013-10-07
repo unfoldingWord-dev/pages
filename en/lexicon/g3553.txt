@@ -1,0 +1,17 @@
+====== G3553: νόσημα (nósēma) ======
+
+===== Source =====
+
+from [[en:lexicon:g3552|G3552]];
+
+===== Meaning =====
+
+an ailment
+
+===== Usage =====
+
+disease.
+
+===== Strongs References =====
+
+[[en:lexicon:g3552|G3552]]

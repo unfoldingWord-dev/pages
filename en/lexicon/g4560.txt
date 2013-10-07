@@ -1,0 +1,17 @@
+====== G4560: σάρκινος (sárkinos) ======
+
+===== Source =====
+
+from [[en:lexicon:g4561|G4561]];
+
+===== Meaning =====
+
+similar to flesh, i.e. (by analogy) soft
+
+===== Usage =====
+
+fleshly.
+
+===== Strongs References =====
+
+[[en:lexicon:g4561|G4561]]

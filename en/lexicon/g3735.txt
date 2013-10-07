@@ -1,0 +1,19 @@
+====== G3735: ὄρος (óros) ======
+
+===== Source =====
+
+probably from an obsolete ὄρω (órō) (to rise or "rear"; perhaps akin to [[en:lexicon:g142|G142]];
+ compare [[en:lexicon:g3733|G3733]]);
+
+===== Meaning =====
+
+a mountain (as lifting itself above the plain)
+
+===== Usage =====
+
+hill, mount(-ain).
+
+===== Strongs References =====
+
+[[en:lexicon:g142|G142]]
+[[en:lexicon:g3733|G3733]]

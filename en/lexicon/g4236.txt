@@ -1,0 +1,17 @@
+====== G4236: πρᾳότης (praiótēs) ======
+
+===== Source =====
+
+from [[en:lexicon:g4235|G4235]];
+
+===== Meaning =====
+
+gentleness, by implication, humility
+
+===== Usage =====
+
+meekness.
+
+===== Strongs References =====
+
+[[en:lexicon:g4235|G4235]]

@@ -1,0 +1,17 @@
+====== G5183: Τύριος (Týrios) ======
+
+===== Source =====
+
+from [[en:lexicon:g5184|G5184]];
+
+===== Meaning =====
+
+a Tyrian, i.e. inhabitant of Tyrus
+
+===== Usage =====
+
+of Tyre.
+
+===== Strongs References =====
+
+[[en:lexicon:g5184|G5184]]

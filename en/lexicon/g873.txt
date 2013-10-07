@@ -1,0 +1,18 @@
+====== G873: ἀφορίζω (aphorízō) ======
+
+===== Source =====
+
+from [[en:lexicon:g575|G575]] and [[en:lexicon:g3724|G3724]];
+
+===== Meaning =====
+
+to set off by boundary, i.e. (figuratively) limit, exclude, appoint, etc.
+
+===== Usage =====
+
+divide, separate, sever.
+
+===== Strongs References =====
+
+[[en:lexicon:g575|G575]]
+[[en:lexicon:g3724|G3724]]

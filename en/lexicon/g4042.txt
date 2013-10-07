@@ -1,0 +1,17 @@
+====== G4042: περιοχή (periochḗ) ======
+
+===== Source =====
+
+from [[en:lexicon:g4023|G4023]];
+
+===== Meaning =====
+
+a being held around, i.e. (concretely) a passage (of Scripture, as circumscribed)
+
+===== Usage =====
+
+place.
+
+===== Strongs References =====
+
+[[en:lexicon:g4023|G4023]]

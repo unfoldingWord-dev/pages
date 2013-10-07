@@ -1,0 +1,17 @@
+====== G1242: διαθήκη (diathḗkē) ======
+
+===== Source =====
+
+from [[en:lexicon:g1303|G1303]];
+
+===== Meaning =====
+
+properly, a disposition, i.e. (specially) a contract (especially a devisory will)
+
+===== Usage =====
+
+covenant, testament.
+
+===== Strongs References =====
+
+[[en:lexicon:g1303|G1303]]

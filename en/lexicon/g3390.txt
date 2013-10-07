@@ -1,0 +1,18 @@
+====== G3390: μητρόπολις (mētrópolis) ======
+
+===== Source =====
+
+from [[en:lexicon:g3384|G3384]] and [[en:lexicon:g4172|G4172]];
+
+===== Meaning =====
+
+a mother city, i.e. "metropolis"
+
+===== Usage =====
+
+chiefest city.
+
+===== Strongs References =====
+
+[[en:lexicon:g3384|G3384]]
+[[en:lexicon:g4172|G4172]]

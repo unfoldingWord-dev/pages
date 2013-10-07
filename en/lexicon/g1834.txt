@@ -1,0 +1,18 @@
+====== G1834: ἐξηγέομαι (exēgéomai) ======
+
+===== Source =====
+
+from [[en:lexicon:g1537|G1537]] and [[en:lexicon:g2233|G2233]];
+
+===== Meaning =====
+
+to consider out (aloud), i.e. rehearse, unfold
+
+===== Usage =====
+
+declare, tell.
+
+===== Strongs References =====
+
+[[en:lexicon:g1537|G1537]]
+[[en:lexicon:g2233|G2233]]

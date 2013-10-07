@@ -1,0 +1,17 @@
+====== G596: ἀποθήκη (apothḗkē) ======
+
+===== Source =====
+
+from [[en:lexicon:g659|G659]];
+
+===== Meaning =====
+
+a repository, i.e. granary
+
+===== Usage =====
+
+barn, garner.
+
+===== Strongs References =====
+
+[[en:lexicon:g659|G659]]

@@ -1,0 +1,17 @@
+====== G3020: Λευϊτικός (Leuïtikós) ======
+
+===== Source =====
+
+from [[en:lexicon:g3019|G3019]];
+
+===== Meaning =====
+
+Levitic, i.e. relating to the Levites
+
+===== Usage =====
+
+Levitical.
+
+===== Strongs References =====
+
+[[en:lexicon:g3019|G3019]]

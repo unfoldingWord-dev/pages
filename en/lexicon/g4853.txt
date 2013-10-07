@@ -1,0 +1,18 @@
+====== G4853: συμφυλέτης (symphylétēs) ======
+
+===== Source =====
+
+from [[en:lexicon:g4862|G4862]] and a derivative of [[en:lexicon:g5443|G5443]];
+
+===== Meaning =====
+
+a co-tribesman, i.e. native of the same country
+
+===== Usage =====
+
+countryman.
+
+===== Strongs References =====
+
+[[en:lexicon:g4862|G4862]]
+[[en:lexicon:g5443|G5443]]

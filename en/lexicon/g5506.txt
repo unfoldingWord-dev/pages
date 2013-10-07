@@ -1,0 +1,18 @@
+====== G5506: χιλίαρχος (chilíarchos) ======
+
+===== Source =====
+
+from [[en:lexicon:g5507|G5507]] and [[en:lexicon:g757|G757]];
+
+===== Meaning =====
+
+the commander of a thousand soldiers ("chiliarch"; i.e. colonel
+
+===== Usage =====
+
+(chief, high) captain.
+
+===== Strongs References =====
+
+[[en:lexicon:g5507|G5507]]
+[[en:lexicon:g757|G757]]

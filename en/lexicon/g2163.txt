@@ -1,0 +1,18 @@
+====== G2163: εὔφημος (eúphēmos) ======
+
+===== Source =====
+
+from [[en:lexicon:g2095|G2095]] and [[en:lexicon:g5345|G5345]];
+
+===== Meaning =====
+
+well spoken of, i.e. reputable
+
+===== Usage =====
+
+of good report.
+
+===== Strongs References =====
+
+[[en:lexicon:g2095|G2095]]
+[[en:lexicon:g5345|G5345]]

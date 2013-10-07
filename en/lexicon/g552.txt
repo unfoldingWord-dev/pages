@@ -1,0 +1,18 @@
+====== G552: ἄπειρος (ápeiros) ======
+
+===== Source =====
+
+from [[en:lexicon:g1|G1]] (as a negative particle) and [[en:lexicon:g3984|G3984]];
+
+===== Meaning =====
+
+inexperienced, i.e. ignorant
+
+===== Usage =====
+
+unskilful.
+
+===== Strongs References =====
+
+[[en:lexicon:g1|G1]]
+[[en:lexicon:g3984|G3984]]

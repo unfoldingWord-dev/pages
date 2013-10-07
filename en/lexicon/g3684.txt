@@ -1,0 +1,17 @@
+====== G3684: ὀνικός (onikós) ======
+
+===== Source =====
+
+from [[en:lexicon:g3688|G3688]];
+
+===== Meaning =====
+
+belonging to a ass, i.e. large (so as to be turned by a ass)
+
+===== Usage =====
+
+millstone.
+
+===== Strongs References =====
+
+[[en:lexicon:g3688|G3688]]

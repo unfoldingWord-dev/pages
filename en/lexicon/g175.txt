@@ -1,0 +1,18 @@
+====== G175: ἄκαρπος (ákarpos) ======
+
+===== Source =====
+
+from [[en:lexicon:g1|G1]] (as a negative particle) and [[en:lexicon:g2590|G2590]];
+
+===== Meaning =====
+
+barren (literally or figuratively)
+
+===== Usage =====
+
+without fruit, unfruitful.
+
+===== Strongs References =====
+
+[[en:lexicon:g1|G1]]
+[[en:lexicon:g2590|G2590]]

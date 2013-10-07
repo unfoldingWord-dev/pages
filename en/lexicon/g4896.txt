@@ -1,0 +1,17 @@
+====== G4896: σύνειμι (sýneimi) ======
+
+===== Source =====
+
+from [[en:lexicon:g4862|G4862]] and εἶμι (eîmi) (to go);
+
+===== Meaning =====
+
+to assemble
+
+===== Usage =====
+
+gather together.
+
+===== Strongs References =====
+
+[[en:lexicon:g4862|G4862]]

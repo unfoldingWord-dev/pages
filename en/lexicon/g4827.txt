@@ -1,0 +1,18 @@
+====== G4827: συμμαθητής (symmathētḗs) ======
+
+===== Source =====
+
+from a compound of [[en:lexicon:g4862|G4862]] and [[en:lexicon:g3129|G3129]];
+
+===== Meaning =====
+
+a co-learner (of Christianity)
+
+===== Usage =====
+
+fellow disciple.
+
+===== Strongs References =====
+
+[[en:lexicon:g4862|G4862]]
+[[en:lexicon:g3129|G3129]]

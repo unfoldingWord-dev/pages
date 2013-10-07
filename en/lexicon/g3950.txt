@@ -1,0 +1,17 @@
+====== G3950: παροργισμός (parorgismós) ======
+
+===== Source =====
+
+from [[en:lexicon:g3949|G3949]];
+
+===== Meaning =====
+
+rage
+
+===== Usage =====
+
+wrath.
+
+===== Strongs References =====
+
+[[en:lexicon:g3949|G3949]]

@@ -1,0 +1,17 @@
+====== G4415: πρωτοτόκια (prōtotókia) ======
+
+===== Source =====
+
+from [[en:lexicon:g4416|G4416]];
+
+===== Meaning =====
+
+primogeniture (as a privilege)
+
+===== Usage =====
+
+birthright.
+
+===== Strongs References =====
+
+[[en:lexicon:g4416|G4416]]

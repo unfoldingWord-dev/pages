@@ -1,0 +1,18 @@
+====== G4945: συνωμοσία (synōmosía) ======
+
+===== Source =====
+
+from a compound of [[en:lexicon:g4862|G4862]] and [[en:lexicon:g3660|G3660]];
+
+===== Meaning =====
+
+a swearing together, i.e. (by implication) a plot
+
+===== Usage =====
+
+comspiracy.
+
+===== Strongs References =====
+
+[[en:lexicon:g4862|G4862]]
+[[en:lexicon:g3660|G3660]]

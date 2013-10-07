@@ -1,0 +1,17 @@
+====== G1002: βολίς (bolís) ======
+
+===== Source =====
+
+from [[en:lexicon:g906|G906]];
+
+===== Meaning =====
+
+a missile, i.e. javelin
+
+===== Usage =====
+
+dart.
+
+===== Strongs References =====
+
+[[en:lexicon:g906|G906]]

@@ -1,0 +1,17 @@
+====== G4163: ποιητής (poiētḗs) ======
+
+===== Source =====
+
+from [[en:lexicon:g4160|G4160]];
+
+===== Meaning =====
+
+a performer; specially, a "poet";
+
+===== Usage =====
+
+--doer, poet.
+
+===== Strongs References =====
+
+[[en:lexicon:g4160|G4160]]

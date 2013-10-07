@@ -1,0 +1,18 @@
+====== G5106: τοίνυν (toínyn) ======
+
+===== Source =====
+
+from [[en:lexicon:g5104|G5104]] and [[en:lexicon:g3568|G3568]];
+
+===== Meaning =====
+
+truly now, i.e. accordingly
+
+===== Usage =====
+
+then, therefore.
+
+===== Strongs References =====
+
+[[en:lexicon:g5104|G5104]]
+[[en:lexicon:g3568|G3568]]

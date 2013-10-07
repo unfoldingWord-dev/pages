@@ -1,0 +1,18 @@
+====== G4901: συνεπιμαρτυρέω (synepimartyréō) ======
+
+===== Source =====
+
+from [[en:lexicon:g4862|G4862]] and [[en:lexicon:g1957|G1957]];
+
+===== Meaning =====
+
+to testify further jointly, i.e. unite in adding evidence
+
+===== Usage =====
+
+also bear witness.
+
+===== Strongs References =====
+
+[[en:lexicon:g4862|G4862]]
+[[en:lexicon:g1957|G1957]]

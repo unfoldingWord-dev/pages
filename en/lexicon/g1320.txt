@@ -1,0 +1,17 @@
+====== G1320: διδάσκαλος (didáskalos) ======
+
+===== Source =====
+
+from [[en:lexicon:g1321|G1321]];
+
+===== Meaning =====
+
+an instructor (genitive case or specially)
+
+===== Usage =====
+
+doctor, master, teacher.
+
+===== Strongs References =====
+
+[[en:lexicon:g1321|G1321]]

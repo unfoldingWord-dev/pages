@@ -1,0 +1,17 @@
+====== G1445: Ἑβραῖος (Hebraîos) ======
+
+===== Source =====
+
+from [[en:lexicon:g1443|G1443]];
+
+===== Meaning =====
+
+a Hebræan (i.e. Hebrew) or Jew
+
+===== Usage =====
+
+Hebrew.
+
+===== Strongs References =====
+
+[[en:lexicon:g1443|G1443]]

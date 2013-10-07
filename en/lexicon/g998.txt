@@ -1,0 +1,17 @@
+====== G998: βοηθός (boēthós) ======
+
+===== Source =====
+
+from [[en:lexicon:g995|G995]] and theo (to run);
+
+===== Meaning =====
+
+a succorer
+
+===== Usage =====
+
+helper.
+
+===== Strongs References =====
+
+[[en:lexicon:g995|G995]]

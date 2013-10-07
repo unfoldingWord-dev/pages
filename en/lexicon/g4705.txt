@@ -1,0 +1,17 @@
+====== G4705: σπουδαῖος (spoudaîos) ======
+
+===== Source =====
+
+from [[en:lexicon:g4710|G4710]];
+
+===== Meaning =====
+
+prompt, energetic, earnest
+
+===== Usage =====
+
+diligent.
+
+===== Strongs References =====
+
+[[en:lexicon:g4710|G4710]]

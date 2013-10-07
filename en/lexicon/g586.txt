@@ -1,0 +1,18 @@
+====== G586: ἀποδεκατόω (apodekatóō) ======
+
+===== Source =====
+
+from [[en:lexicon:g575|G575]] and [[en:lexicon:g1183|G1183]];
+
+===== Meaning =====
+
+to tithe (as debtor or creditor)
+
+===== Usage =====
+
+(give, pay, take) tithe.
+
+===== Strongs References =====
+
+[[en:lexicon:g575|G575]]
+[[en:lexicon:g1183|G1183]]

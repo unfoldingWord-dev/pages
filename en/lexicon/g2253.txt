@@ -1,0 +1,18 @@
+====== G2253: ἡμιθανής (hēmithanḗs) ======
+
+===== Source =====
+
+from a presumed compound of the base of [[en:lexicon:g2255|G2255]] and [[en:lexicon:g2348|G2348]];
+
+===== Meaning =====
+
+half dead, i.e. entirely exhausted
+
+===== Usage =====
+
+half dead.
+
+===== Strongs References =====
+
+[[en:lexicon:g2255|G2255]]
+[[en:lexicon:g2348|G2348]]

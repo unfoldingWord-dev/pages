@@ -1,0 +1,18 @@
+====== G5542: χρηστολογία (chrēstología) ======
+
+===== Source =====
+
+from a compound of [[en:lexicon:g5543|G5543]] and [[en:lexicon:g3004|G3004]];
+
+===== Meaning =====
+
+fair speech, i.e. plausibility
+
+===== Usage =====
+
+good words.
+
+===== Strongs References =====
+
+[[en:lexicon:g5543|G5543]]
+[[en:lexicon:g3004|G3004]]

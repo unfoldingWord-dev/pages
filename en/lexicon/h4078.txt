@@ -1,0 +1,23 @@
+====== H4078: מַדַּי (madday) ======
+
+===== Part of Speech =====
+
+adverb
+
+===== Source =====
+
+from [[en:lexicon:h4100|H4100]] and [[en:lexicon:h1767|H1767]];
+
+===== Meaning =====
+
+**what** (is) **enough**, i.e. **sufficiently**
+
+===== Definitions =====
+
+  - what
+  - enough
+  - sufficiently
+
+===== Usage =====
+
+sufficiently.

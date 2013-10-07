@@ -1,0 +1,18 @@
+====== G1535: εἴτε (eíte) ======
+
+===== Source =====
+
+from [[en:lexicon:g1487|G1487]] and [[en:lexicon:g5037|G5037]];
+
+===== Meaning =====
+
+if too
+
+===== Usage =====
+
+if, or, whether.
+
+===== Strongs References =====
+
+[[en:lexicon:g1487|G1487]]
+[[en:lexicon:g5037|G5037]]

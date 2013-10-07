@@ -1,0 +1,17 @@
+====== G1785: ἐντολή (entolḗ) ======
+
+===== Source =====
+
+from [[en:lexicon:g1781|G1781]];
+
+===== Meaning =====
+
+injunction, i.e. an authoritative prescription
+
+===== Usage =====
+
+commandment, precept.
+
+===== Strongs References =====
+
+[[en:lexicon:g1781|G1781]]

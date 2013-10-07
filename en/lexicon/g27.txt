@@ -1,0 +1,17 @@
+====== G27: ἀγαπητός (agapētós) ======
+
+===== Source =====
+
+from [[en:lexicon:g25|G25]];
+
+===== Meaning =====
+
+beloved
+
+===== Usage =====
+
+(dearly, well) beloved, dear.
+
+===== Strongs References =====
+
+[[en:lexicon:g25|G25]]

@@ -1,0 +1,18 @@
+====== G4830: συμμέτοχος (symmétochos) ======
+
+===== Source =====
+
+from [[en:lexicon:g4862|G4862]] and [[en:lexicon:g3353|G3353]];
+
+===== Meaning =====
+
+a co-participant
+
+===== Usage =====
+
+partaker.
+
+===== Strongs References =====
+
+[[en:lexicon:g4862|G4862]]
+[[en:lexicon:g3353|G3353]]

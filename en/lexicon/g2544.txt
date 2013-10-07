@@ -1,0 +1,18 @@
+====== G2544: καίτοιγε (kaítoige) ======
+
+===== Source =====
+
+from [[en:lexicon:g2543|G2543]] and [[en:lexicon:g1065|G1065]];
+
+===== Meaning =====
+
+and yet indeed, i.e. although really
+
+===== Usage =====
+
+nevertheless, though.
+
+===== Strongs References =====
+
+[[en:lexicon:g2543|G2543]]
+[[en:lexicon:g1065|G1065]]

@@ -1,0 +1,22 @@
+====== H6435: פֵּן (pên) ======
+
+===== Part of Speech =====
+
+conjunction
+
+===== Source =====
+
+from [[en:lexicon:h6437|H6437]];
+
+===== Meaning =====
+
+properly, **removal**; used only (in the construction) adverb as conjunction, **lest**
+
+===== Definitions =====
+
+  - removal
+  - lest
+
+===== Usage =====
+
+(lest) (peradventure), that...not.

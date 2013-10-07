@@ -1,0 +1,17 @@
+====== G4805: σύζυγος (sýzygos) ======
+
+===== Source =====
+
+from [[en:lexicon:g4801|G4801]];
+
+===== Meaning =====
+
+co-yoked, i.e. (figuratively) as noun, a colleague; probably rather as a proper name; Syzygus, a Christian
+
+===== Usage =====
+
+yokefellow.
+
+===== Strongs References =====
+
+[[en:lexicon:g4801|G4801]]

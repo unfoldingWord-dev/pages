@@ -1,0 +1,18 @@
+====== G743: ἀρχάγγελος (archángelos) ======
+
+===== Source =====
+
+from [[en:lexicon:g757|G757]] and [[en:lexicon:g32|G32]];
+
+===== Meaning =====
+
+a chief angel
+
+===== Usage =====
+
+archangel.
+
+===== Strongs References =====
+
+[[en:lexicon:g757|G757]]
+[[en:lexicon:g32|G32]]

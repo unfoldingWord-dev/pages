@@ -1,0 +1,18 @@
+====== G4173: πολιτάρχης (politárchēs) ======
+
+===== Source =====
+
+from [[en:lexicon:g4172|G4172]] and [[en:lexicon:g757|G757]];
+
+===== Meaning =====
+
+a town-officer, i.e. magistrate
+
+===== Usage =====
+
+ruler of the city.
+
+===== Strongs References =====
+
+[[en:lexicon:g4172|G4172]]
+[[en:lexicon:g757|G757]]

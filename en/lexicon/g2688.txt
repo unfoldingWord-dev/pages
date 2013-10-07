@@ -1,0 +1,17 @@
+====== G2688: κατάστημα (katástēma) ======
+
+===== Source =====
+
+from [[en:lexicon:g2525|G2525]];
+
+===== Meaning =====
+
+properly, a position or condition, i.e. (subjectively) demeanor
+
+===== Usage =====
+
+behaviour.
+
+===== Strongs References =====
+
+[[en:lexicon:g2525|G2525]]

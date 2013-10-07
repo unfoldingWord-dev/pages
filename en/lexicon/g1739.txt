@@ -1,0 +1,18 @@
+====== G1739: ἐνδόμησις (endómēsis) ======
+
+===== Source =====
+
+from a compound of [[en:lexicon:g1722|G1722]] and a derivative of the base of [[en:lexicon:g1218|G1218]];
+
+===== Meaning =====
+
+a housing in (residence), i.e. structure
+
+===== Usage =====
+
+building.
+
+===== Strongs References =====
+
+[[en:lexicon:g1722|G1722]]
+[[en:lexicon:g1218|G1218]]

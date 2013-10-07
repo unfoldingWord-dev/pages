@@ -1,0 +1,17 @@
+====== G44: ἄγκιστρον (ánkistron) ======
+
+===== Source =====
+
+from the same as [[en:lexicon:g43|G43]];
+
+===== Meaning =====
+
+a hook (as bent)
+
+===== Usage =====
+
+hook.
+
+===== Strongs References =====
+
+[[en:lexicon:g43|G43]]

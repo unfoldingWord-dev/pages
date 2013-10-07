@@ -1,0 +1,17 @@
+====== G3687: ὀνομάζω (onomázō) ======
+
+===== Source =====
+
+from [[en:lexicon:g3686|G3686]];
+
+===== Meaning =====
+
+to name, i.e. assign an appellation; by extension, to utter, mention, profess
+
+===== Usage =====
+
+call, name.
+
+===== Strongs References =====
+
+[[en:lexicon:g3686|G3686]]

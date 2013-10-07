@@ -1,0 +1,18 @@
+====== G358: ἄναλος (ánalos) ======
+
+===== Source =====
+
+from [[en:lexicon:g1|G1]] (as a negative particle) and [[en:lexicon:g251|G251]];
+
+===== Meaning =====
+
+saltless, i.e. insipid
+
+===== Usage =====
+
+X lose saltness.
+
+===== Strongs References =====
+
+[[en:lexicon:g1|G1]]
+[[en:lexicon:g251|G251]]

@@ -1,0 +1,18 @@
+====== G629: ἀπολύτρωσις (apolýtrōsis) ======
+
+===== Source =====
+
+from a compound of [[en:lexicon:g575|G575]] and [[en:lexicon:g3083|G3083]];
+
+===== Meaning =====
+
+(the act) ransom in full, i.e. (figuratively) riddance, or (specially) Christian salvation
+
+===== Usage =====
+
+deliverance, redemption.
+
+===== Strongs References =====
+
+[[en:lexicon:g575|G575]]
+[[en:lexicon:g3083|G3083]]

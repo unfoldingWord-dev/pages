@@ -1,0 +1,18 @@
+====== G1260: διαλογίζομαι (dialogízomai) ======
+
+===== Source =====
+
+from [[en:lexicon:g1223|G1223]] and [[en:lexicon:g3049|G3049]];
+
+===== Meaning =====
+
+to reckon thoroughly, i.e. (genitive case) to deliberate (by reflection or discussion)
+
+===== Usage =====
+
+cast in mind, consider, dispute, muse, reason, think.
+
+===== Strongs References =====
+
+[[en:lexicon:g1223|G1223]]
+[[en:lexicon:g3049|G3049]]

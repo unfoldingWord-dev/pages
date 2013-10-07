@@ -1,0 +1,18 @@
+====== G4964: συσχηματίζω (syschēmatízō) ======
+
+===== Source =====
+
+from [[en:lexicon:g4862|G4862]] and a derivative of [[en:lexicon:g4976|G4976]];
+
+===== Meaning =====
+
+to fashion alike, i.e. conform to the same pattern (figuratively)
+
+===== Usage =====
+
+conform to, fashion self according to.
+
+===== Strongs References =====
+
+[[en:lexicon:g4862|G4862]]
+[[en:lexicon:g4976|G4976]]

@@ -1,0 +1,17 @@
+====== G2549: κακία (kakía) ======
+
+===== Source =====
+
+from [[en:lexicon:g2556|G2556]];
+
+===== Meaning =====
+
+badness, i.e. (subjectively) depravity, or (actively) malignity, or (passively) trouble
+
+===== Usage =====
+
+evil, malice(-iousness), naughtiness, wickedness.
+
+===== Strongs References =====
+
+[[en:lexicon:g2556|G2556]]

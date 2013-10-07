@@ -1,0 +1,18 @@
+====== G5380: φιλόνεικος (philóneikos) ======
+
+===== Source =====
+
+from [[en:lexicon:g5384|G5384]] and νεῖκος (neîkos) (a quarrel; probably akin to [[en:lexicon:g3534|G3534]]);
+
+===== Meaning =====
+
+fond of strife, i.e. disputatious
+
+===== Usage =====
+
+contentious.
+
+===== Strongs References =====
+
+[[en:lexicon:g5384|G5384]]
+[[en:lexicon:g3534|G3534]]

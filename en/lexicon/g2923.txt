@@ -1,0 +1,17 @@
+====== G2923: κριτής (kritḗs) ======
+
+===== Source =====
+
+from [[en:lexicon:g2919|G2919]];
+
+===== Meaning =====
+
+a judge (genitive case or specially)
+
+===== Usage =====
+
+judge.
+
+===== Strongs References =====
+
+[[en:lexicon:g2919|G2919]]

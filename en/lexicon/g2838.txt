@@ -1,0 +1,17 @@
+====== G2838: κοίμησις (koímēsis) ======
+
+===== Source =====
+
+from [[en:lexicon:g2837|G2837]];
+
+===== Meaning =====
+
+sleeping, i.e. (by implication) repose
+
+===== Usage =====
+
+taking of rest.
+
+===== Strongs References =====
+
+[[en:lexicon:g2837|G2837]]

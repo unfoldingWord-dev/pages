@@ -1,0 +1,18 @@
+====== G4915: συνηλικιώτης (synēlikiṓtēs) ======
+
+===== Source =====
+
+from [[en:lexicon:g4862|G4862]] and a derivative of [[en:lexicon:g2244|G2244]];
+
+===== Meaning =====
+
+a co-aged person, i.e. alike in years
+
+===== Usage =====
+
+equal.
+
+===== Strongs References =====
+
+[[en:lexicon:g4862|G4862]]
+[[en:lexicon:g2244|G2244]]

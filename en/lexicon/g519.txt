@@ -1,0 +1,18 @@
+====== G519: ἀπάγχομαι (apánchomai) ======
+
+===== Source =====
+
+from [[en:lexicon:g575|G575]] and ἄγχω (ánchō) (to choke; akin to the base of [[en:lexicon:g43|G43]]);
+
+===== Meaning =====
+
+to strangle oneself off (i.e. to death)
+
+===== Usage =====
+
+hang himself.
+
+===== Strongs References =====
+
+[[en:lexicon:g575|G575]]
+[[en:lexicon:g43|G43]]

@@ -1,0 +1,17 @@
+====== G5374: Φιλιππήσιος (Philippḗsios) ======
+
+===== Source =====
+
+from [[en:lexicon:g5375|G5375]];
+
+===== Meaning =====
+
+a Philippesian (Philippian), i.e. native of Philippi
+
+===== Usage =====
+
+Philippian.
+
+===== Strongs References =====
+
+[[en:lexicon:g5375|G5375]]

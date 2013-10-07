@@ -1,0 +1,18 @@
+====== G890: ἄχρηστος (áchrēstos) ======
+
+===== Source =====
+
+from [[en:lexicon:g1|G1]] (as a negative particle) and [[en:lexicon:g5543|G5543]];
+
+===== Meaning =====
+
+inefficient, i.e. (by implication) detrimental
+
+===== Usage =====
+
+unprofitable.
+
+===== Strongs References =====
+
+[[en:lexicon:g1|G1]]
+[[en:lexicon:g5543|G5543]]

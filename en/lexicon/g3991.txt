@@ -1,0 +1,17 @@
+====== G3991: πέμπτος (pémptos) ======
+
+===== Source =====
+
+from [[en:lexicon:g4002|G4002]];
+
+===== Meaning =====
+
+fifth
+
+===== Usage =====
+
+fifth.
+
+===== Strongs References =====
+
+[[en:lexicon:g4002|G4002]]

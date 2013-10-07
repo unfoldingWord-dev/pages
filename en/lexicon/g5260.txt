@@ -1,0 +1,18 @@
+====== G5260: ὑποβάλλω (hypobállō) ======
+
+===== Source =====
+
+from [[en:lexicon:g5259|G5259]] and [[en:lexicon:g906|G906]];
+
+===== Meaning =====
+
+to throw in stealthily, i.e. introduce by collusion
+
+===== Usage =====
+
+suborn.
+
+===== Strongs References =====
+
+[[en:lexicon:g5259|G5259]]
+[[en:lexicon:g906|G906]]

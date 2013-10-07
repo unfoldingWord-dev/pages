@@ -1,0 +1,17 @@
+====== G4513: Ῥωμαϊκός (Rhōmaïkós) ======
+
+===== Source =====
+
+from [[en:lexicon:g4514|G4514]];
+
+===== Meaning =====
+
+Romaic, i.e. Latin
+
+===== Usage =====
+
+Latin.
+
+===== Strongs References =====
+
+[[en:lexicon:g4514|G4514]]

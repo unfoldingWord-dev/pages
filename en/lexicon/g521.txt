@@ -1,0 +1,18 @@
+====== G521: ἀπαίδευτος (apaídeutos) ======
+
+===== Source =====
+
+from [[en:lexicon:g1|G1]] (as a negative particle) and a derivative of [[en:lexicon:g3811|G3811]];
+
+===== Meaning =====
+
+uninstructed, i.e. (figuratively) stupid
+
+===== Usage =====
+
+unlearned.
+
+===== Strongs References =====
+
+[[en:lexicon:g1|G1]]
+[[en:lexicon:g3811|G3811]]

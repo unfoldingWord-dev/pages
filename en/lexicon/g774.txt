@@ -1,0 +1,17 @@
+====== G774: Ἀσιανός (Asianós) ======
+
+===== Source =====
+
+from [[en:lexicon:g773|G773]];
+
+===== Meaning =====
+
+an Asian (i.e. Asiatic) or an inhabitant of Asia
+
+===== Usage =====
+
+of Asia.
+
+===== Strongs References =====
+
+[[en:lexicon:g773|G773]]

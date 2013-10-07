@@ -1,0 +1,17 @@
+====== G1778: ἔνταλμα (éntalma) ======
+
+===== Source =====
+
+from [[en:lexicon:g1781|G1781]];
+
+===== Meaning =====
+
+an injunction, i.e. religious precept
+
+===== Usage =====
+
+commandment.
+
+===== Strongs References =====
+
+[[en:lexicon:g1781|G1781]]

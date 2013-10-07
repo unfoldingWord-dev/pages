@@ -1,0 +1,18 @@
+====== G620: ἀπολείπω (apoleípō) ======
+
+===== Source =====
+
+from [[en:lexicon:g575|G575]] and [[en:lexicon:g3007|G3007]];
+
+===== Meaning =====
+
+to leave behind (passively, remain); by implication, to forsake
+
+===== Usage =====
+
+leave, remain.
+
+===== Strongs References =====
+
+[[en:lexicon:g575|G575]]
+[[en:lexicon:g3007|G3007]]

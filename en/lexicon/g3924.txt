@@ -1,0 +1,18 @@
+====== G3924: παρεκτός (parektós) ======
+
+===== Source =====
+
+from [[en:lexicon:g3844|G3844]] and [[en:lexicon:g1622|G1622]];
+
+===== Meaning =====
+
+near outside, i.e. besides
+
+===== Usage =====
+
+except, saving, without.
+
+===== Strongs References =====
+
+[[en:lexicon:g3844|G3844]]
+[[en:lexicon:g1622|G1622]]

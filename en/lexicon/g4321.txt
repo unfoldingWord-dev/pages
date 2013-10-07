@@ -1,0 +1,18 @@
+====== G4321: προσαναλίσκω (prosanalískō) ======
+
+===== Source =====
+
+from [[en:lexicon:g4314|G4314]] and [[en:lexicon:g355|G355]];
+
+===== Meaning =====
+
+to expend further
+
+===== Usage =====
+
+spend.
+
+===== Strongs References =====
+
+[[en:lexicon:g355|G355]]
+[[en:lexicon:g4314|G4314]]

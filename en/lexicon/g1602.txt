@@ -1,0 +1,18 @@
+====== G1602: ἐκπλέω (ekpléō) ======
+
+===== Source =====
+
+from [[en:lexicon:g1537|G1537]] and [[en:lexicon:g4126|G4126]];
+
+===== Meaning =====
+
+to depart by ship
+
+===== Usage =====
+
+sail (away, thence).
+
+===== Strongs References =====
+
+[[en:lexicon:g1537|G1537]]
+[[en:lexicon:g4126|G4126]]

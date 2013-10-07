@@ -1,0 +1,17 @@
+====== G4230: πραγματεία (pragmateía) ======
+
+===== Source =====
+
+from [[en:lexicon:g4231|G4231]];
+
+===== Meaning =====
+
+a transaction, i.e. negotiation
+
+===== Usage =====
+
+affair.
+
+===== Strongs References =====
+
+[[en:lexicon:g4231|G4231]]

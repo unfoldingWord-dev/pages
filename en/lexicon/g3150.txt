@@ -1,0 +1,17 @@
+====== G3150: ματαιολογία (mataiología) ======
+
+===== Source =====
+
+from [[en:lexicon:g3151|G3151]];
+
+===== Meaning =====
+
+random talk, i.e. babble
+
+===== Usage =====
+
+vain jangling.
+
+===== Strongs References =====
+
+[[en:lexicon:g3151|G3151]]

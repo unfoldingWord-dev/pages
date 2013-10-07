@@ -1,0 +1,17 @@
+====== G4950: σύρτις (sýrtis) ======
+
+===== Source =====
+
+from [[en:lexicon:g4951|G4951]];
+
+===== Meaning =====
+
+a shoal (from the sand drawn thither by the waves), i.e. the Syrtis Major or great bay on the north coast of Africa
+
+===== Usage =====
+
+quicksands.
+
+===== Strongs References =====
+
+[[en:lexicon:g4951|G4951]]

@@ -1,0 +1,21 @@
+====== G4910: συνευωχέω (syneuōchéō) ======
+
+===== Source =====
+
+from [[en:lexicon:g4862|G4862]] and a derivative of a presumed compound of [[en:lexicon:g2095|G2095]] and a
+ derivative of [[en:lexicon:g2192|G2192]] (meaning to be in good condition, i.e. (by
+ implication) to fare well, or feast);
+
+===== Meaning =====
+
+to entertain sumptuously in company with, i.e. (middle voice or passive) to revel together
+
+===== Usage =====
+
+feast with.
+
+===== Strongs References =====
+
+[[en:lexicon:g4862|G4862]]
+[[en:lexicon:g2095|G2095]]
+[[en:lexicon:g2192|G2192]]

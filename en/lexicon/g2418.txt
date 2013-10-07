@@ -1,0 +1,18 @@
+====== G2418: ἱερουργέω (hierourgéō) ======
+
+===== Source =====
+
+from a compound of [[en:lexicon:g2411|G2411]] and the base of [[en:lexicon:g2041|G2041]];
+
+===== Meaning =====
+
+to be a temple-worker, i.e. officiate as a priest (figuratively)
+
+===== Usage =====
+
+minister.
+
+===== Strongs References =====
+
+[[en:lexicon:g2411|G2411]]
+[[en:lexicon:g2041|G2041]]

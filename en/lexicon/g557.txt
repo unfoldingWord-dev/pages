@@ -1,0 +1,18 @@
+====== G557: ἀπελεγμός (apelegmós) ======
+
+===== Source =====
+
+from a compound of [[en:lexicon:g575|G575]] and [[en:lexicon:g1651|G1651]];
+
+===== Meaning =====
+
+refutation, i.e. (by implication) contempt
+
+===== Usage =====
+
+nought.
+
+===== Strongs References =====
+
+[[en:lexicon:g575|G575]]
+[[en:lexicon:g1651|G1651]]

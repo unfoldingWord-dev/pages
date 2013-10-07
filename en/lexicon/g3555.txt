@@ -1,0 +1,17 @@
+====== G3555: νοσσιά (nossiá) ======
+
+===== Source =====
+
+from [[en:lexicon:g3502|G3502]];
+
+===== Meaning =====
+
+a brood (of chickens)
+
+===== Usage =====
+
+brood.
+
+===== Strongs References =====
+
+[[en:lexicon:g3502|G3502]]

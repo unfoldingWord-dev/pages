@@ -1,0 +1,18 @@
+====== G5587: ψιθυρισμός (psithyrismós) ======
+
+===== Source =====
+
+from a derivative of ψίθος (psíthos) (a whisper; by implication, a slander;
+ probably akin to [[en:lexicon:g5574|G5574]]);
+
+===== Meaning =====
+
+whispering, i.e. secret detraction
+
+===== Usage =====
+
+whispering.
+
+===== Strongs References =====
+
+[[en:lexicon:g5574|G5574]]

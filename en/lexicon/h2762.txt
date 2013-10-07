@@ -1,0 +1,22 @@
+====== H2762: חֶרֶךְ (cherek) ======
+
+===== Part of Speech =====
+
+noun - masculine
+
+===== Source =====
+
+from [[en:lexicon:h2760|H2760]];
+
+===== Meaning =====
+
+properly, a **net**, i.e. (by analogy) **lattice**
+
+===== Definitions =====
+
+  - net
+  - lattice
+
+===== Usage =====
+
+lattice.

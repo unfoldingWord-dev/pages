@@ -1,0 +1,26 @@
+====== H7939: שָׂכָר (sâkâr) ======
+
+===== Part of Speech =====
+
+noun - masculine
+
+===== Source =====
+
+from [[en:lexicon:h7936|H7936]];
+
+===== Meaning =====
+
+**payment of contract**; concretely, **salary**, **fare**, **maintenance**; by implication, **compensation**, **benefit**
+
+===== Definitions =====
+
+  - payment of contract
+  - salary
+  - fare
+  - maintenance
+  - compensation
+  - benefit
+
+===== Usage =====
+
+hire, price, reward(-ed), wages, worth.

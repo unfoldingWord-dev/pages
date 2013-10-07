@@ -1,0 +1,17 @@
+====== G1022: βραδύτης (bradýtēs) ======
+
+===== Source =====
+
+from [[en:lexicon:g1021|G1021]];
+
+===== Meaning =====
+
+tardiness
+
+===== Usage =====
+
+slackness.
+
+===== Strongs References =====
+
+[[en:lexicon:g1021|G1021]]

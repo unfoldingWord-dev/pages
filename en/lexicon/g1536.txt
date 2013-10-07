@@ -1,0 +1,18 @@
+====== G1536: εἴ τις (eí tis) ======
+
+===== Source =====
+
+from [[en:lexicon:g1487|G1487]] and [[en:lexicon:g5100|G5100]];
+
+===== Meaning =====
+
+if any
+
+===== Usage =====
+
+he that, if a(-ny) man('s thing, from any, ought), whether any, whosoever.
+
+===== Strongs References =====
+
+[[en:lexicon:g1487|G1487]]
+[[en:lexicon:g5100|G5100]]

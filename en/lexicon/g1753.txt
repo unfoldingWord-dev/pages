@@ -1,0 +1,17 @@
+====== G1753: ἐνέργεια (enérgeia) ======
+
+===== Source =====
+
+from [[en:lexicon:g1756|G1756]];
+
+===== Meaning =====
+
+efficiency ("energy")
+
+===== Usage =====
+
+operation, strong, (effectual) working.
+
+===== Strongs References =====
+
+[[en:lexicon:g1756|G1756]]

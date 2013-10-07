@@ -1,0 +1,18 @@
+====== G5221: ὑπαντάω (hypantáō) ======
+
+===== Source =====
+
+from [[en:lexicon:g5259|G5259]] and a derivative of [[en:lexicon:g473|G473]];
+
+===== Meaning =====
+
+to go opposite (meet) under (quietly), i.e. to encounter, fall in with
+
+===== Usage =====
+
+(go to) meet.
+
+===== Strongs References =====
+
+[[en:lexicon:g5259|G5259]]
+[[en:lexicon:g473|G473]]

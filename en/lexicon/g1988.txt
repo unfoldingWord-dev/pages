@@ -1,0 +1,18 @@
+====== G1988: ἐπιστάτης (epistátēs) ======
+
+===== Source =====
+
+from [[en:lexicon:g1909|G1909]] and a presumed derivative of [[en:lexicon:g2476|G2476]];
+
+===== Meaning =====
+
+an appointee over, i.e. commander (teacher)
+
+===== Usage =====
+
+master.
+
+===== Strongs References =====
+
+[[en:lexicon:g1909|G1909]]
+[[en:lexicon:g2476|G2476]]

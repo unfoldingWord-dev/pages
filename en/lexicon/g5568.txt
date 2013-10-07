@@ -1,0 +1,18 @@
+====== G5568: ψαλμός (psalmós) ======
+
+===== Source =====
+
+from [[en:lexicon:g5567|G5567]];
+
+===== Meaning =====
+
+a set piece of music, i.e. a sacred ode (accompanied with the voice, harp or other instrument; a "psalm"); collectively, the book of the Psalms
+
+===== Usage =====
+
+psalm.
+
+===== Strongs References =====
+
+[[en:lexicon:g5567|G5567]]
+[[en:lexicon:g5603|G5603]]

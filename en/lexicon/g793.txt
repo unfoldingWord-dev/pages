@@ -1,0 +1,18 @@
+====== G793: ἀστήρικτος (astḗriktos) ======
+
+===== Source =====
+
+from [[en:lexicon:g1|G1]] (as a negative particle) and a presumed derivative of [[en:lexicon:g4741|G4741]];
+
+===== Meaning =====
+
+unfixed, i.e. (figuratively) vacillating
+
+===== Usage =====
+
+unstable.
+
+===== Strongs References =====
+
+[[en:lexicon:g1|G1]]
+[[en:lexicon:g4741|G4741]]

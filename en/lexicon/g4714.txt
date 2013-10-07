@@ -1,0 +1,17 @@
+====== G4714: στάσις (stásis) ======
+
+===== Source =====
+
+from the base of [[en:lexicon:g2476|G2476]];
+
+===== Meaning =====
+
+a standing (properly, the act), i.e. (by analogy) position (existence); by implication, a popular uprising; figuratively, controversy
+
+===== Usage =====
+
+dissension, insurrection, X standing, uproar.
+
+===== Strongs References =====
+
+[[en:lexicon:g2476|G2476]]

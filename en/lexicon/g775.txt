@@ -1,0 +1,18 @@
+====== G775: Ἀσιάρχης (Asiárchēs) ======
+
+===== Source =====
+
+from [[en:lexicon:g773|G773]] and [[en:lexicon:g746|G746]];
+
+===== Meaning =====
+
+an Asiarch or president of the public festivities in a city of Asia Minor
+
+===== Usage =====
+
+chief of Asia.
+
+===== Strongs References =====
+
+[[en:lexicon:g773|G773]]
+[[en:lexicon:g746|G746]]

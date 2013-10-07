@@ -1,0 +1,17 @@
+====== G5266: ὑπόδημα (hypódēma) ======
+
+===== Source =====
+
+from [[en:lexicon:g5265|G5265]];
+
+===== Meaning =====
+
+something bound under the feet, i.e. a shoe or sandal
+
+===== Usage =====
+
+shoe.
+
+===== Strongs References =====
+
+[[en:lexicon:g5265|G5265]]

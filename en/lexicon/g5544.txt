@@ -1,0 +1,17 @@
+====== G5544: χρηστότης (chrēstótēs) ======
+
+===== Source =====
+
+from [[en:lexicon:g5543|G5543]];
+
+===== Meaning =====
+
+usefulness, i.e. morally, excellence (in character or demeanor)
+
+===== Usage =====
+
+gentleness, good(-ness), kindness.
+
+===== Strongs References =====
+
+[[en:lexicon:g5543|G5543]]

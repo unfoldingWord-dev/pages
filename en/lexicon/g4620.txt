@@ -1,0 +1,18 @@
+====== G4620: σιτόμετρον (sitómetron) ======
+
+===== Source =====
+
+from [[en:lexicon:g4621|G4621]] and [[en:lexicon:g3358|G3358]];
+
+===== Meaning =====
+
+a grain-measure, i.e. (by implication) ration (allowance of food)
+
+===== Usage =====
+
+portion of meat.
+
+===== Strongs References =====
+
+[[en:lexicon:g4621|G4621]]
+[[en:lexicon:g3358|G3358]]

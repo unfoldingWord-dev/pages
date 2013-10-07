@@ -1,0 +1,17 @@
+====== G3852: παραγγελία (parangelía) ======
+
+===== Source =====
+
+from [[en:lexicon:g3853|G3853]];
+
+===== Meaning =====
+
+a mandate
+
+===== Usage =====
+
+charge, command.
+
+===== Strongs References =====
+
+[[en:lexicon:g3853|G3853]]

@@ -1,0 +1,17 @@
+====== G5262: ὑπόδειγμα (hypódeigma) ======
+
+===== Source =====
+
+from [[en:lexicon:g5263|G5263]];
+
+===== Meaning =====
+
+an exhibit for imitation or warning (figuratively, specimen, adumbration)
+
+===== Usage =====
+
+en-(ex-)ample, pattern.
+
+===== Strongs References =====
+
+[[en:lexicon:g5263|G5263]]

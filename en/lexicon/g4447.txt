@@ -1,0 +1,17 @@
+====== G4447: πύρινος (pýrinos) ======
+
+===== Source =====
+
+from [[en:lexicon:g4443|G4443]];
+
+===== Meaning =====
+
+fiery, i.e. (by implication) flaming
+
+===== Usage =====
+
+of fire.
+
+===== Strongs References =====
+
+[[en:lexicon:g4443|G4443]]

@@ -1,0 +1,21 @@
+====== G5168: τρυμαλιά (trymaliá) ======
+
+===== Source =====
+
+from a derivative of τρύω (trýō) (to wear away; akin to the base of [[en:lexicon:g5134|G5134]],
+ [[en:lexicon:g5147|G5147]] and [[en:lexicon:g5176|G5176]]);
+
+===== Meaning =====
+
+an orifice, i.e. needle's eye
+
+===== Usage =====
+
+eye.
+
+===== Strongs References =====
+
+[[en:lexicon:g5169|G5169]]
+[[en:lexicon:g5134|G5134]]
+[[en:lexicon:g5147|G5147]]
+[[en:lexicon:g5176|G5176]]

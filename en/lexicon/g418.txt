@@ -1,0 +1,18 @@
+====== G418: ἀνένδεκτος (anéndektos) ======
+
+===== Source =====
+
+from [[en:lexicon:g1|G1]] (as a negative particle) and a derivative of the same as [[en:lexicon:g1735|G1735]];
+
+===== Meaning =====
+
+unadmitted, i.e. (by implication) not supposable
+
+===== Usage =====
+
+impossible.
+
+===== Strongs References =====
+
+[[en:lexicon:g1|G1]]
+[[en:lexicon:g1735|G1735]]

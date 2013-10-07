@@ -1,0 +1,18 @@
+====== G862: ἄφθαρτος (áphthartos) ======
+
+===== Source =====
+
+from [[en:lexicon:g1|G1]] (as a negative particle) and a derivative of [[en:lexicon:g5351|G5351]];
+
+===== Meaning =====
+
+undecaying (in essence or continuance)
+
+===== Usage =====
+
+not (in-, un-)corruptible, immortal.
+
+===== Strongs References =====
+
+[[en:lexicon:g1|G1]]
+[[en:lexicon:g5351|G5351]]

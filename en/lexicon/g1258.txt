@@ -1,0 +1,17 @@
+====== G1258: διάλεκτος (diálektos) ======
+
+===== Source =====
+
+from [[en:lexicon:g1256|G1256]];
+
+===== Meaning =====
+
+a (mode of) discourse, i.e. "dialect"
+
+===== Usage =====
+
+language, tongue.
+
+===== Strongs References =====
+
+[[en:lexicon:g1256|G1256]]

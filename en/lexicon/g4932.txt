@@ -1,0 +1,18 @@
+====== G4932: συντέμνω (syntémnō) ======
+
+===== Source =====
+
+from [[en:lexicon:g4862|G4862]] and the base of [[en:lexicon:g5114|G5114]];
+
+===== Meaning =====
+
+to contract by cutting, i.e. (figuratively) do concisely (speedily)
+
+===== Usage =====
+
+(cut) short.
+
+===== Strongs References =====
+
+[[en:lexicon:g4862|G4862]]
+[[en:lexicon:g5114|G5114]]

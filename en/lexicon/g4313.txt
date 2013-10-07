@@ -1,0 +1,18 @@
+====== G4313: προπορεύομαι (proporeúomai) ======
+
+===== Source =====
+
+from [[en:lexicon:g4253|G4253]] and [[en:lexicon:g4198|G4198]];
+
+===== Meaning =====
+
+to precede (as guide or herald)
+
+===== Usage =====
+
+go before.
+
+===== Strongs References =====
+
+[[en:lexicon:g4253|G4253]]
+[[en:lexicon:g4198|G4198]]

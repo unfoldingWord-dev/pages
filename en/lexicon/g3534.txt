@@ -1,0 +1,17 @@
+====== G3534: νῖκος (nîkos) ======
+
+===== Source =====
+
+from [[en:lexicon:g3529|G3529]];
+
+===== Meaning =====
+
+a conquest (concretely), i.e. (by implication) triumph
+
+===== Usage =====
+
+victory.
+
+===== Strongs References =====
+
+[[en:lexicon:g3529|G3529]]

@@ -1,0 +1,17 @@
+====== G51: ἀγνόημα (agnóēma) ======
+
+===== Source =====
+
+from [[en:lexicon:g50|G50]];
+
+===== Meaning =====
+
+a thing ignored, i.e. shortcoming
+
+===== Usage =====
+
+error.
+
+===== Strongs References =====
+
+[[en:lexicon:g50|G50]]

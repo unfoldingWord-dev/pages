@@ -1,0 +1,18 @@
+====== G1527: εἷς καθ’ εἷς (heîs kath’ heîs) ======
+
+===== Source =====
+
+from [[en:lexicon:g1520|G1520]] repeated with [[en:lexicon:g2596|G2596]] inserted;
+
+===== Meaning =====
+
+severally
+
+===== Usage =====
+
+one by one.
+
+===== Strongs References =====
+
+[[en:lexicon:g1520|G1520]]
+[[en:lexicon:g2596|G2596]]

@@ -1,0 +1,17 @@
+====== G4335: προσευχή (proseuchḗ) ======
+
+===== Source =====
+
+from [[en:lexicon:g4336|G4336]];
+
+===== Meaning =====
+
+prayer (worship); by implication, an oratory (chapel)
+
+===== Usage =====
+
+X pray earnestly, prayer.
+
+===== Strongs References =====
+
+[[en:lexicon:g4336|G4336]]

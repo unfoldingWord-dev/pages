@@ -1,0 +1,18 @@
+====== G87: ἀδιάκριτος (adiákritos) ======
+
+===== Source =====
+
+from [[en:lexicon:g1|G1]] (as a negative particle) and a derivative of [[en:lexicon:g1252|G1252]];
+
+===== Meaning =====
+
+properly, undistinguished, i.e. (actively) impartial
+
+===== Usage =====
+
+without partiality.
+
+===== Strongs References =====
+
+[[en:lexicon:g1|G1]]
+[[en:lexicon:g1252|G1252]]

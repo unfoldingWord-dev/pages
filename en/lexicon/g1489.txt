@@ -1,0 +1,18 @@
+====== G1489: εἴγε (eíge) ======
+
+===== Source =====
+
+from [[en:lexicon:g1487|G1487]] and [[en:lexicon:g1065|G1065]];
+
+===== Meaning =====
+
+if indeed, seeing that, unless, (with negative) otherwise
+
+===== Usage =====
+
+if (so be that, yet).
+
+===== Strongs References =====
+
+[[en:lexicon:g1487|G1487]]
+[[en:lexicon:g1065|G1065]]

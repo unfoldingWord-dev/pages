@@ -1,0 +1,18 @@
+====== G4758: στρατολογέω (stratologéō) ======
+
+===== Source =====
+
+from a compound of the base of [[en:lexicon:g4756|G4756]] and [[en:lexicon:g3004|G3004]] (in its original sense);
+
+===== Meaning =====
+
+to gather (or select) as a warrior, i.e. enlist in the army
+
+===== Usage =====
+
+choose to be a soldier.
+
+===== Strongs References =====
+
+[[en:lexicon:g4756|G4756]]
+[[en:lexicon:g3004|G3004]]

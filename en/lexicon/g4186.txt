@@ -1,0 +1,18 @@
+====== G4186: πολύτιμος (polýtimos) ======
+
+===== Source =====
+
+from [[en:lexicon:g4183|G4183]] and [[en:lexicon:g5092|G5092]];
+
+===== Meaning =====
+
+extremely valuable
+
+===== Usage =====
+
+very costly, of great price.
+
+===== Strongs References =====
+
+[[en:lexicon:g4183|G4183]]
+[[en:lexicon:g5092|G5092]]

@@ -1,0 +1,17 @@
+====== G3019: Λευΐτης (Leuḯtēs) ======
+
+===== Source =====
+
+from [[en:lexicon:g3017|G3017]];
+
+===== Meaning =====
+
+a Levite, i.e. descendant of Levi
+
+===== Usage =====
+
+Levite.
+
+===== Strongs References =====
+
+[[en:lexicon:g3017|G3017]]

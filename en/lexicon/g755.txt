@@ -1,0 +1,20 @@
+====== G755: ἀρχιτρίκλινος (architríklinos) ======
+
+===== Source =====
+
+from [[en:lexicon:g746|G746]] and a compound of [[en:lexicon:g5140|G5140]] and [[en:lexicon:g2827|G2827]] (a dinner-bed, because
+ composed of three couches);
+
+===== Meaning =====
+
+director of the entertainment
+
+===== Usage =====
+
+governor (ruler) of the feast.
+
+===== Strongs References =====
+
+[[en:lexicon:g746|G746]]
+[[en:lexicon:g5140|G5140]]
+[[en:lexicon:g2827|G2827]]

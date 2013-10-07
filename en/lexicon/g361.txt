@@ -1,0 +1,18 @@
+====== G361: ἀναμάρτητος (anamártētos) ======
+
+===== Source =====
+
+from [[en:lexicon:g1|G1]] (as a negative particle) and a presumed derivative of [[en:lexicon:g264|G264]];
+
+===== Meaning =====
+
+sinless
+
+===== Usage =====
+
+that is without sin.
+
+===== Strongs References =====
+
+[[en:lexicon:g1|G1]]
+[[en:lexicon:g264|G264]]

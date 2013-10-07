@@ -1,0 +1,19 @@
+====== G1687: ἐμβατεύω (embateúō) ======
+
+===== Source =====
+
+from [[en:lexicon:g1722|G1722]] and a presumed derivative of the base of [[en:lexicon:g939|G939]];
+
+===== Meaning =====
+
+equivalent to
+
+===== Usage =====
+
+intrude into.
+
+===== Strongs References =====
+
+[[en:lexicon:g1722|G1722]]
+[[en:lexicon:g939|G939]]
+[[en:lexicon:g1684|G1684]]

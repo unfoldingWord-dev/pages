@@ -1,0 +1,17 @@
+====== G5372: Φίλητος (Phílētos) ======
+
+===== Source =====
+
+from [[en:lexicon:g5368|G5368]];
+
+===== Meaning =====
+
+amiable; Philetus, an opposer of Christianity
+
+===== Usage =====
+
+Philetus.
+
+===== Strongs References =====
+
+[[en:lexicon:g5368|G5368]]

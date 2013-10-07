@@ -1,0 +1,18 @@
+====== G1440: ἑβδομήκοντα (hebdomḗkonta) ======
+
+===== Source =====
+
+from [[en:lexicon:g1442|G1442]] and a modified form of [[en:lexicon:g1176|G1176]];
+
+===== Meaning =====
+
+seventy
+
+===== Usage =====
+
+seventy, three score and ten.
+
+===== Strongs References =====
+
+[[en:lexicon:g1442|G1442]]
+[[en:lexicon:g1176|G1176]]

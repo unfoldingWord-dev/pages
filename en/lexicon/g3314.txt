@@ -1,0 +1,18 @@
+====== G3314: μεσημβρία (mesēmbría) ======
+
+===== Source =====
+
+from [[en:lexicon:g3319|G3319]] and [[en:lexicon:g2250|G2250]];
+
+===== Meaning =====
+
+midday; by implication, the south
+
+===== Usage =====
+
+noon, south.
+
+===== Strongs References =====
+
+[[en:lexicon:g3319|G3319]]
+[[en:lexicon:g2250|G2250]]

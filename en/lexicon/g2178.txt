@@ -1,0 +1,18 @@
+====== G2178: ἐφάπαξ (ephápax) ======
+
+===== Source =====
+
+from [[en:lexicon:g1909|G1909]] and [[en:lexicon:g530|G530]];
+
+===== Meaning =====
+
+upon one occasion (only)
+
+===== Usage =====
+
+(at) once (for all).
+
+===== Strongs References =====
+
+[[en:lexicon:g1909|G1909]]
+[[en:lexicon:g530|G530]]

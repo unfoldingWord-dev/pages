@@ -1,0 +1,19 @@
+====== G2012: ἐπίτροπος (epítropos) ======
+
+===== Source =====
+
+from [[en:lexicon:g1909|G1909]] and [[en:lexicon:g5158|G5158]] (in the sense of [[en:lexicon:g2011|G2011]]);
+
+===== Meaning =====
+
+a commissioner, i.e. domestic manager, guardian
+
+===== Usage =====
+
+steward, tutor.
+
+===== Strongs References =====
+
+[[en:lexicon:g1909|G1909]]
+[[en:lexicon:g5158|G5158]]
+[[en:lexicon:g2011|G2011]]

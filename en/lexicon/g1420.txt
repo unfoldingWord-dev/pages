@@ -1,0 +1,18 @@
+====== G1420: δυσεντερία (dysentería) ======
+
+===== Source =====
+
+from [[en:lexicon:g1418|G1418]] and a comparative of [[en:lexicon:g1787|G1787]] (meaning a bowel);
+
+===== Meaning =====
+
+a "dysentery"
+
+===== Usage =====
+
+bloody flux.
+
+===== Strongs References =====
+
+[[en:lexicon:g1418|G1418]]
+[[en:lexicon:g1787|G1787]]

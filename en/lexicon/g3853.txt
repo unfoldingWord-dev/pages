@@ -1,0 +1,18 @@
+====== G3853: παραγγέλλω (parangéllō) ======
+
+===== Source =====
+
+from [[en:lexicon:g3844|G3844]] and the base of [[en:lexicon:g32|G32]];
+
+===== Meaning =====
+
+to transmit a message, i.e. (by implication) to enjoin
+
+===== Usage =====
+
+(give in) charge, (give) command(-ment), declare.
+
+===== Strongs References =====
+
+[[en:lexicon:g3844|G3844]]
+[[en:lexicon:g32|G32]]

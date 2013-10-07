@@ -1,0 +1,18 @@
+====== G4823: συμβουλεύω (symbouleúō) ======
+
+===== Source =====
+
+from [[en:lexicon:g4862|G4862]] and [[en:lexicon:g1011|G1011]];
+
+===== Meaning =====
+
+to give (or take) advice jointly, i.e. recommend, deliberate or determine
+
+===== Usage =====
+
+consult, (give, take) counsel (together).
+
+===== Strongs References =====
+
+[[en:lexicon:g4862|G4862]]
+[[en:lexicon:g1011|G1011]]

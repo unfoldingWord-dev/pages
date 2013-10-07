@@ -1,0 +1,18 @@
+====== G3473: μωρολογία (mōrología) ======
+
+===== Source =====
+
+from a compound of [[en:lexicon:g3474|G3474]] and [[en:lexicon:g3004|G3004]];
+
+===== Meaning =====
+
+silly talk, i.e. buffoonery
+
+===== Usage =====
+
+foolish talking.
+
+===== Strongs References =====
+
+[[en:lexicon:g3474|G3474]]
+[[en:lexicon:g3004|G3004]]

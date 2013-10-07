@@ -1,0 +1,18 @@
+====== G2110: εὐεργέτης (euergétēs) ======
+
+===== Source =====
+
+from [[en:lexicon:g2095|G2095]] and the base of [[en:lexicon:g2041|G2041]];
+
+===== Meaning =====
+
+a worker of good, i.e. (specially) a philanthropist
+
+===== Usage =====
+
+benefactor.
+
+===== Strongs References =====
+
+[[en:lexicon:g2095|G2095]]
+[[en:lexicon:g2041|G2041]]

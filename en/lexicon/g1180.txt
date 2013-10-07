@@ -1,0 +1,18 @@
+====== G1180: δεκατέσσαρες (dekatéssares) ======
+
+===== Source =====
+
+from [[en:lexicon:g1176|G1176]] and [[en:lexicon:g5064|G5064]];
+
+===== Meaning =====
+
+ten and four, i.e. fourteen
+
+===== Usage =====
+
+fourteen.
+
+===== Strongs References =====
+
+[[en:lexicon:g1176|G1176]]
+[[en:lexicon:g5064|G5064]]

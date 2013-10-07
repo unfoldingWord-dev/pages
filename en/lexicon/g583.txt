@@ -1,0 +1,18 @@
+====== G583: ἀπογράφω (apográphō) ======
+
+===== Source =====
+
+from [[en:lexicon:g575|G575]] and [[en:lexicon:g1125|G1125]];
+
+===== Meaning =====
+
+to write off (a copy or list), i.e. enrol
+
+===== Usage =====
+
+tax, write.
+
+===== Strongs References =====
+
+[[en:lexicon:g575|G575]]
+[[en:lexicon:g1125|G1125]]

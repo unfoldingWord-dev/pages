@@ -1,0 +1,18 @@
+====== G2552: κακοπάθεια (kakopátheia) ======
+
+===== Source =====
+
+from a compound of [[en:lexicon:g2256|G2256]] and [[en:lexicon:g3806|G3806]];
+
+===== Meaning =====
+
+hardship
+
+===== Usage =====
+
+suffering affliction.
+
+===== Strongs References =====
+
+[[en:lexicon:g2256|G2256]]
+[[en:lexicon:g3806|G3806]]

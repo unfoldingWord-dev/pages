@@ -1,0 +1,19 @@
+====== G3697: ὁποῖος (hopoîos) ======
+
+===== Source =====
+
+from [[en:lexicon:g3739|G3739]] and [[en:lexicon:g4169|G4169]];
+
+===== Meaning =====
+
+of what kind that, i.e. how (as) great (excellent) (specially, as an indefinite correlative to the definite antecedent
+
+===== Usage =====
+
+what manner (sort) of, such as whatsoever.
+
+===== Strongs References =====
+
+[[en:lexicon:g3739|G3739]]
+[[en:lexicon:g4169|G4169]]
+[[en:lexicon:g5108|G5108]]

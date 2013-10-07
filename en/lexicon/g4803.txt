@@ -1,0 +1,17 @@
+====== G4803: συζήτησις (syzḗtēsis) ======
+
+===== Source =====
+
+from [[en:lexicon:g4802|G4802]];
+
+===== Meaning =====
+
+mutual questioning, i.e. discussion
+
+===== Usage =====
+
+disputation(-ting), reasoning.
+
+===== Strongs References =====
+
+[[en:lexicon:g4802|G4802]]

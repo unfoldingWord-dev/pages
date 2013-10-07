@@ -1,0 +1,17 @@
+====== G31: ἀγγελία (angelía) ======
+
+===== Source =====
+
+from [[en:lexicon:g32|G32]];
+
+===== Meaning =====
+
+an announcement, i.e. (by implication) precept
+
+===== Usage =====
+
+message.
+
+===== Strongs References =====
+
+[[en:lexicon:g32|G32]]

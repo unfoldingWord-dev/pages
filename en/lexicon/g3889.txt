@@ -1,0 +1,17 @@
+====== G3889: παραμυθία (paramythía) ======
+
+===== Source =====
+
+from [[en:lexicon:g3888|G3888]];
+
+===== Meaning =====
+
+consolation (properly, abstract)
+
+===== Usage =====
+
+comfort.
+
+===== Strongs References =====
+
+[[en:lexicon:g3888|G3888]]

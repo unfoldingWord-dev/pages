@@ -1,0 +1,17 @@
+====== G4858: συμφωνία (symphōnía) ======
+
+===== Source =====
+
+from [[en:lexicon:g4859|G4859]];
+
+===== Meaning =====
+
+unison of sound ("symphony"), i.e. a concert of instruments (harmonious note)
+
+===== Usage =====
+
+music.
+
+===== Strongs References =====
+
+[[en:lexicon:g4859|G4859]]

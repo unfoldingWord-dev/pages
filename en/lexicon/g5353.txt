@@ -1,0 +1,17 @@
+====== G5353: φθόγγος (phthóngos) ======
+
+===== Source =====
+
+from [[en:lexicon:g5350|G5350]];
+
+===== Meaning =====
+
+utterance, i.e. a musical note (vocal or instrumental)
+
+===== Usage =====
+
+sound.
+
+===== Strongs References =====
+
+[[en:lexicon:g5350|G5350]]

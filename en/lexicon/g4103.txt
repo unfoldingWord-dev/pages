@@ -1,0 +1,17 @@
+====== G4103: πιστός (pistós) ======
+
+===== Source =====
+
+from [[en:lexicon:g3982|G3982]];
+
+===== Meaning =====
+
+objectively, trustworthy; subjectively, trustful
+
+===== Usage =====
+
+believe(-ing, -r), faithful(-ly), sure, true.
+
+===== Strongs References =====
+
+[[en:lexicon:g3982|G3982]]

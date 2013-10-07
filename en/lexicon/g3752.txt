@@ -1,0 +1,18 @@
+====== G3752: ὅταν (hótan) ======
+
+===== Source =====
+
+from [[en:lexicon:g3753|G3753]] and [[en:lexicon:g302|G302]];
+
+===== Meaning =====
+
+whenever (implying hypothesis or more or less uncertainty); also causatively (conjunctionally) inasmuch as
+
+===== Usage =====
+
+as long (soon) as, that, + till, when(-soever), while.
+
+===== Strongs References =====
+
+[[en:lexicon:g3753|G3753]]
+[[en:lexicon:g302|G302]]

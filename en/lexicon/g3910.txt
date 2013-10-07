@@ -1,0 +1,18 @@
+====== G3910: παραυτίκα (parautíka) ======
+
+===== Source =====
+
+from [[en:lexicon:g3844|G3844]] and a derivative of [[en:lexicon:g846|G846]];
+
+===== Meaning =====
+
+at the very instant, i.e. momentary
+
+===== Usage =====
+
+but for a moment.
+
+===== Strongs References =====
+
+[[en:lexicon:g3844|G3844]]
+[[en:lexicon:g846|G846]]

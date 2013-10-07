@@ -1,0 +1,17 @@
+====== G2332: Θεσσαλονίκη (Thessaloníkē) ======
+
+===== Source =====
+
+from Θεσσαλός (Thessalós) (a Thessalian) and [[en:lexicon:g3529|G3529]];
+
+===== Meaning =====
+
+Thessalonice, a place in Asia Minor
+
+===== Usage =====
+
+Thessalonica.
+
+===== Strongs References =====
+
+[[en:lexicon:g3529|G3529]]

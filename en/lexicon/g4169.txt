@@ -1,0 +1,18 @@
+====== G4169: ποῖος (poîos) ======
+
+===== Source =====
+
+from the base of [[en:lexicon:g4226|G4226]] and [[en:lexicon:g3634|G3634]];
+
+===== Meaning =====
+
+individualizing interrogative (of character) what sort of, or (of number) which one
+
+===== Usage =====
+
+what (manner of), which.
+
+===== Strongs References =====
+
+[[en:lexicon:g4226|G4226]]
+[[en:lexicon:g3634|G3634]]

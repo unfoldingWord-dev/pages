@@ -1,0 +1,18 @@
+====== G5578: ψευδοπροφήτης (pseudoprophḗtēs) ======
+
+===== Source =====
+
+from [[en:lexicon:g5571|G5571]] and [[en:lexicon:g4396|G4396]];
+
+===== Meaning =====
+
+a spurious prophet, i.e. pretended foreteller or religious impostor
+
+===== Usage =====
+
+false prophet.
+
+===== Strongs References =====
+
+[[en:lexicon:g5571|G5571]]
+[[en:lexicon:g4396|G4396]]

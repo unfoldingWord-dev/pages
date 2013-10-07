@@ -1,0 +1,17 @@
+====== G2454: Ἰουδαϊσμός (Ioudaïsmós) ======
+
+===== Source =====
+
+from [[en:lexicon:g2450|G2450]];
+
+===== Meaning =====
+
+"Judaism", i.e. the Jewish faith and usages
+
+===== Usage =====
+
+Jews' religion.
+
+===== Strongs References =====
+
+[[en:lexicon:g2450|G2450]]

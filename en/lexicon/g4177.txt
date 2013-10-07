@@ -1,0 +1,17 @@
+====== G4177: πολίτης (polítēs) ======
+
+===== Source =====
+
+from [[en:lexicon:g4172|G4172]];
+
+===== Meaning =====
+
+a townsman
+
+===== Usage =====
+
+citizen.
+
+===== Strongs References =====
+
+[[en:lexicon:g4172|G4172]]

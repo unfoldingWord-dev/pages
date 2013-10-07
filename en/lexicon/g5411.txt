@@ -1,0 +1,18 @@
+====== G5411: φόρος (phóros) ======
+
+===== Source =====
+
+from [[en:lexicon:g5342|G5342]];
+
+===== Meaning =====
+
+a load (as borne), i.e. (figuratively) a tax (properly, an individual assessment on persons or property; whereas
+
+===== Usage =====
+
+tribute.
+
+===== Strongs References =====
+
+[[en:lexicon:g5342|G5342]]
+[[en:lexicon:g5056|G5056]]

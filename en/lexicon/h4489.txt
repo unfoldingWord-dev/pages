@@ -1,0 +1,23 @@
+====== H4489: מֹנֶה (môneh) ======
+
+===== Part of Speech =====
+
+noun - masculine
+
+===== Source =====
+
+from [[en:lexicon:h4487|H4487]];
+
+===== Meaning =====
+
+properly, something **weighed out**, i.e. (figuratively) a **portion** of time, i.e. an **instance**
+
+===== Definitions =====
+
+  - weighed out
+  - portion
+  - instance
+
+===== Usage =====
+
+time.

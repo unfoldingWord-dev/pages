@@ -1,0 +1,17 @@
+====== G83: ἀδηλότης (adēlótēs) ======
+
+===== Source =====
+
+from [[en:lexicon:g82|G82]];
+
+===== Meaning =====
+
+uncertainty
+
+===== Usage =====
+
+X uncertain.
+
+===== Strongs References =====
+
+[[en:lexicon:g82|G82]]

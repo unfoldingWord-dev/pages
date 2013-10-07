@@ -1,0 +1,18 @@
+====== G3439: μονογενής (monogenḗs) ======
+
+===== Source =====
+
+from [[en:lexicon:g3441|G3441]] and [[en:lexicon:g1096|G1096]];
+
+===== Meaning =====
+
+only-born, i.e. sole
+
+===== Usage =====
+
+only (begotten, child).
+
+===== Strongs References =====
+
+[[en:lexicon:g3441|G3441]]
+[[en:lexicon:g1096|G1096]]

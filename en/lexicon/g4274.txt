@@ -1,0 +1,17 @@
+====== G4274: πρόδρομος (pródromos) ======
+
+===== Source =====
+
+from the alternate of [[en:lexicon:g4390|G4390]];
+
+===== Meaning =====
+
+a runner ahead, i.e. scout (figuratively, precursor)
+
+===== Usage =====
+
+forerunner.
+
+===== Strongs References =====
+
+[[en:lexicon:g4390|G4390]]

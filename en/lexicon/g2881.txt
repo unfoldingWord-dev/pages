@@ -1,0 +1,17 @@
+====== G2881: Κορίνθιος (Korínthios) ======
+
+===== Source =====
+
+from [[en:lexicon:g2882|G2882]];
+
+===== Meaning =====
+
+a Corinthian, i.e. inhabitant of Corinth
+
+===== Usage =====
+
+Corinthian.
+
+===== Strongs References =====
+
+[[en:lexicon:g2882|G2882]]

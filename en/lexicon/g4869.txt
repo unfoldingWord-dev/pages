@@ -1,0 +1,18 @@
+====== G4869: συναιχμάλωτος (synaichmálōtos) ======
+
+===== Source =====
+
+from [[en:lexicon:g4862|G4862]] and [[en:lexicon:g164|G164]];
+
+===== Meaning =====
+
+a co-captive
+
+===== Usage =====
+
+fellowprisoner.
+
+===== Strongs References =====
+
+[[en:lexicon:g4862|G4862]]
+[[en:lexicon:g164|G164]]

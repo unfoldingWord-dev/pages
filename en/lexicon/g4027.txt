@@ -1,0 +1,18 @@
+====== G4027: περικάθαρμα (perikátharma) ======
+
+===== Source =====
+
+from a compound of [[en:lexicon:g4012|G4012]] and [[en:lexicon:g2508|G2508]];
+
+===== Meaning =====
+
+something cleaned off all around, i.e. refuse (figuratively)
+
+===== Usage =====
+
+filth.
+
+===== Strongs References =====
+
+[[en:lexicon:g4012|G4012]]
+[[en:lexicon:g2508|G2508]]

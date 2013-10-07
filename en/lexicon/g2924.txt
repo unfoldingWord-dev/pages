@@ -1,0 +1,17 @@
+====== G2924: κριτικός (kritikós) ======
+
+===== Source =====
+
+from [[en:lexicon:g2923|G2923]];
+
+===== Meaning =====
+
+decisive ("critical"), i.e. discriminative
+
+===== Usage =====
+
+discerner.
+
+===== Strongs References =====
+
+[[en:lexicon:g2923|G2923]]

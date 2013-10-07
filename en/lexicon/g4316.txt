@@ -1,0 +1,18 @@
+====== G4316: προσαγορεύω (prosagoreúō) ======
+
+===== Source =====
+
+from [[en:lexicon:g4314|G4314]] and a derivative of [[en:lexicon:g58|G58]] (mean to harangue);
+
+===== Meaning =====
+
+to address, i.e. salute by name
+
+===== Usage =====
+
+call.
+
+===== Strongs References =====
+
+[[en:lexicon:g4314|G4314]]
+[[en:lexicon:g58|G58]]

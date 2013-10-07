@@ -1,0 +1,17 @@
+====== G908: βάπτισμα (báptisma) ======
+
+===== Source =====
+
+from [[en:lexicon:g907|G907]];
+
+===== Meaning =====
+
+baptism (technically or figuratively)
+
+===== Usage =====
+
+baptism.
+
+===== Strongs References =====
+
+[[en:lexicon:g907|G907]]

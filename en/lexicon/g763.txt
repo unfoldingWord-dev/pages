@@ -1,0 +1,17 @@
+====== G763: ἀσέβεια (asébeia) ======
+
+===== Source =====
+
+from [[en:lexicon:g765|G765]];
+
+===== Meaning =====
+
+impiety, i.e. (by implication) wickedness
+
+===== Usage =====
+
+ungodly(-liness).
+
+===== Strongs References =====
+
+[[en:lexicon:g765|G765]]

@@ -1,0 +1,17 @@
+====== G3480: Ναζωραῖος (Nazōraîos) ======
+
+===== Source =====
+
+from [[en:lexicon:g3478|G3478]];
+
+===== Meaning =====
+
+a Nazoræan, i.e. inhabitant of Nazareth; by extension, a Christian
+
+===== Usage =====
+
+Nazarene, of Nazareth.
+
+===== Strongs References =====
+
+[[en:lexicon:g3478|G3478]]

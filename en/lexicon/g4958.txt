@@ -1,0 +1,18 @@
+====== G4958: συστέλλω (systéllō) ======
+
+===== Source =====
+
+from [[en:lexicon:g4862|G4862]] and [[en:lexicon:g4724|G4724]];
+
+===== Meaning =====
+
+to send (draw) together, i.e. enwrap (enshroud a corpse for burial), contract (an interval)
+
+===== Usage =====
+
+ short, wind up.
+
+===== Strongs References =====
+
+[[en:lexicon:g4862|G4862]]
+[[en:lexicon:g4724|G4724]]

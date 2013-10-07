@@ -1,0 +1,17 @@
+====== G2415: Ἱεροσολυμίτης (Hierosolymítēs) ======
+
+===== Source =====
+
+from [[en:lexicon:g2414|G2414]];
+
+===== Meaning =====
+
+a Hierosolymite, i.e. inhabitant of Hierosolyma
+
+===== Usage =====
+
+of Jerusalem.
+
+===== Strongs References =====
+
+[[en:lexicon:g2414|G2414]]

@@ -1,0 +1,18 @@
+====== G4942: συνυποκρίνομαι (synypokrínomai) ======
+
+===== Source =====
+
+from [[en:lexicon:g4862|G4862]] and [[en:lexicon:g5271|G5271]];
+
+===== Meaning =====
+
+to act hypocritically in concert with
+
+===== Usage =====
+
+dissemble with.
+
+===== Strongs References =====
+
+[[en:lexicon:g4862|G4862]]
+[[en:lexicon:g5271|G5271]]

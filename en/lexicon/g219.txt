@@ -1,0 +1,18 @@
+====== G219: ἀλεκτοροφωνία (alektorophōnía) ======
+
+===== Source =====
+
+from [[en:lexicon:g220|G220]] and [[en:lexicon:g5456|G5456]];
+
+===== Meaning =====
+
+cock-crow, i.e. the third night-watch
+
+===== Usage =====
+
+cockcrowing.
+
+===== Strongs References =====
+
+[[en:lexicon:g220|G220]]
+[[en:lexicon:g5456|G5456]]

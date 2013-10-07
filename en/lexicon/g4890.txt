@@ -1,0 +1,17 @@
+====== G4890: συνδρομή (syndromḗ) ======
+
+===== Source =====
+
+from (the alternate of) [[en:lexicon:g4936|G4936]];
+
+===== Meaning =====
+
+a running together, i.e. (riotous) concourse
+
+===== Usage =====
+
+run together.
+
+===== Strongs References =====
+
+[[en:lexicon:g4936|G4936]]

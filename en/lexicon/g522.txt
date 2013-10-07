@@ -1,0 +1,18 @@
+====== G522: ἀπαίρω (apaírō) ======
+
+===== Source =====
+
+from [[en:lexicon:g575|G575]] and [[en:lexicon:g142|G142]];
+
+===== Meaning =====
+
+to lift off, i.e. remove
+
+===== Usage =====
+
+take (away).
+
+===== Strongs References =====
+
+[[en:lexicon:g575|G575]]
+[[en:lexicon:g142|G142]]

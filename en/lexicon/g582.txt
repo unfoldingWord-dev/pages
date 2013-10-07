@@ -1,0 +1,17 @@
+====== G582: ἀπογραφή (apographḗ) ======
+
+===== Source =====
+
+from [[en:lexicon:g583|G583]];
+
+===== Meaning =====
+
+an enrollment; by implication, an assessment
+
+===== Usage =====
+
+taxing.
+
+===== Strongs References =====
+
+[[en:lexicon:g583|G583]]

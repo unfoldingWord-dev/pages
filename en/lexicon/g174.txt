@@ -1,0 +1,17 @@
+====== G174: ἀκάνθινος (akánthinos) ======
+
+===== Source =====
+
+from [[en:lexicon:g173|G173]];
+
+===== Meaning =====
+
+thorny
+
+===== Usage =====
+
+of thorns.
+
+===== Strongs References =====
+
+[[en:lexicon:g173|G173]]

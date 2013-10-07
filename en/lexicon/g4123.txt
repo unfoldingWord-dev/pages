@@ -1,0 +1,18 @@
+====== G4123: πλεονέκτης (pleonéktēs) ======
+
+===== Source =====
+
+from [[en:lexicon:g4119|G4119]] and [[en:lexicon:g2192|G2192]];
+
+===== Meaning =====
+
+holding (desiring) more, i.e. eager for gain (avaricious, hence a defrauder)
+
+===== Usage =====
+
+covetous.
+
+===== Strongs References =====
+
+[[en:lexicon:g4119|G4119]]
+[[en:lexicon:g2192|G2192]]

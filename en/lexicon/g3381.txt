@@ -1,0 +1,18 @@
+====== G3381: μήπως (mḗpōs) ======
+
+===== Source =====
+
+from [[en:lexicon:g3361|G3361]] and [[en:lexicon:g4458|G4458]];
+
+===== Meaning =====
+
+lest somehow
+
+===== Usage =====
+
+lest (by any means, by some means, haply, perhaps).
+
+===== Strongs References =====
+
+[[en:lexicon:g3361|G3361]]
+[[en:lexicon:g4458|G4458]]

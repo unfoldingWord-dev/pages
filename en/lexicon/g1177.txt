@@ -1,0 +1,18 @@
+====== G1177: δεκαδύο (dekadýo) ======
+
+===== Source =====
+
+from [[en:lexicon:g1176|G1176]] and [[en:lexicon:g1417|G1417]];
+
+===== Meaning =====
+
+two and ten, i.e. twelve
+
+===== Usage =====
+
+twelve.
+
+===== Strongs References =====
+
+[[en:lexicon:g1176|G1176]]
+[[en:lexicon:g1417|G1417]]

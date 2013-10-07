@@ -1,0 +1,18 @@
+====== G3038: λιθόστρωτος (lithóstrōtos) ======
+
+===== Source =====
+
+from [[en:lexicon:g3037|G3037]] and a derivative of [[en:lexicon:g4766|G4766]];
+
+===== Meaning =====
+
+stone-strewed, i.e. a tessellated mosaic on which the Roman tribunal was placed
+
+===== Usage =====
+
+Pavement.
+
+===== Strongs References =====
+
+[[en:lexicon:g3037|G3037]]
+[[en:lexicon:g4766|G4766]]

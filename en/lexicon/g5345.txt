@@ -1,0 +1,17 @@
+====== G5345: φήμη (phḗmē) ======
+
+===== Source =====
+
+from [[en:lexicon:g5346|G5346]];
+
+===== Meaning =====
+
+a saying, i.e. rumor ("fame")
+
+===== Usage =====
+
+fame.
+
+===== Strongs References =====
+
+[[en:lexicon:g5346|G5346]]

@@ -1,0 +1,17 @@
+====== G3920: παρείσακτος (pareísaktos) ======
+
+===== Source =====
+
+from [[en:lexicon:g3919|G3919]];
+
+===== Meaning =====
+
+smuggled in
+
+===== Usage =====
+
+unawares brought in.
+
+===== Strongs References =====
+
+[[en:lexicon:g3919|G3919]]

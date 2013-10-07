@@ -1,0 +1,18 @@
+====== G3842: πάντοτε (pántote) ======
+
+===== Source =====
+
+from [[en:lexicon:g3956|G3956]] and [[en:lexicon:g3753|G3753]];
+
+===== Meaning =====
+
+every when, i.e. at all times
+
+===== Usage =====
+
+alway(-s), ever(-more).
+
+===== Strongs References =====
+
+[[en:lexicon:g3956|G3956]]
+[[en:lexicon:g3753|G3753]]

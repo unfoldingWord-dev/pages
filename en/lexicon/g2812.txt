@@ -1,0 +1,18 @@
+====== G2812: κλέπτης (kléptēs) ======
+
+===== Source =====
+
+from [[en:lexicon:g2813|G2813]];
+
+===== Meaning =====
+
+a stealer (literally or figuratively)
+
+===== Usage =====
+
+thief.
+
+===== Strongs References =====
+
+[[en:lexicon:g2813|G2813]]
+[[en:lexicon:g3027|G3027]]

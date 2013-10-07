@@ -1,0 +1,18 @@
+====== G462: ἀνόσιος (anósios) ======
+
+===== Source =====
+
+from [[en:lexicon:g1|G1]] (as a negative particle) and [[en:lexicon:g3741|G3741]];
+
+===== Meaning =====
+
+wicked
+
+===== Usage =====
+
+unholy.
+
+===== Strongs References =====
+
+[[en:lexicon:g1|G1]]
+[[en:lexicon:g3741|G3741]]

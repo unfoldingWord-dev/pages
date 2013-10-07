@@ -1,0 +1,18 @@
+====== G523: ἀπαιτέω (apaitéō) ======
+
+===== Source =====
+
+from [[en:lexicon:g575|G575]] and [[en:lexicon:g154|G154]];
+
+===== Meaning =====
+
+to demand back
+
+===== Usage =====
+
+ask again, require.
+
+===== Strongs References =====
+
+[[en:lexicon:g575|G575]]
+[[en:lexicon:g154|G154]]

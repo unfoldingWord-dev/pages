@@ -1,0 +1,18 @@
+====== G5227: ὑπεναντίος (hypenantíos) ======
+
+===== Source =====
+
+from [[en:lexicon:g5259|G5259]] and [[en:lexicon:g1727|G1727]];
+
+===== Meaning =====
+
+under (covertly) contrary to, i.e. opposed or (as noun) an opponent
+
+===== Usage =====
+
+adversary, against.
+
+===== Strongs References =====
+
+[[en:lexicon:g5259|G5259]]
+[[en:lexicon:g1727|G1727]]

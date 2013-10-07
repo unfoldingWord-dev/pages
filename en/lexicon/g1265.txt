@@ -1,0 +1,18 @@
+====== G1265: διαμένω (diaménō) ======
+
+===== Source =====
+
+from [[en:lexicon:g1223|G1223]] and [[en:lexicon:g3306|G3306]];
+
+===== Meaning =====
+
+to stay constantly (in being or relation)
+
+===== Usage =====
+
+continue, remain.
+
+===== Strongs References =====
+
+[[en:lexicon:g1223|G1223]]
+[[en:lexicon:g3306|G3306]]

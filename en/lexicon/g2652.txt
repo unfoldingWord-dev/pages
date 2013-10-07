@@ -1,0 +1,18 @@
+====== G2652: κατανάθεμα (katanáthema) ======
+
+===== Source =====
+
+from [[en:lexicon:g2596|G2596]] (intensive) and [[en:lexicon:g331|G331]];
+
+===== Meaning =====
+
+an imprecation
+
+===== Usage =====
+
+curse.
+
+===== Strongs References =====
+
+[[en:lexicon:g2596|G2596]]
+[[en:lexicon:g331|G331]]

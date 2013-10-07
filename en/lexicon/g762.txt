@@ -1,0 +1,18 @@
+====== G762: ἄσβεστος (ásbestos) ======
+
+===== Source =====
+
+from [[en:lexicon:g1|G1]] (as a negative particle) and a derivative of [[en:lexicon:g4570|G4570]];
+
+===== Meaning =====
+
+not extinguished, i.e. (by implication) perpetual
+
+===== Usage =====
+
+not to be quenched, unquenchable.
+
+===== Strongs References =====
+
+[[en:lexicon:g1|G1]]
+[[en:lexicon:g4570|G4570]]

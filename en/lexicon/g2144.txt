@@ -1,0 +1,18 @@
+====== G2144: εὐπρόσδεκτος (euprósdektos) ======
+
+===== Source =====
+
+from [[en:lexicon:g2095|G2095]] and a derivative of [[en:lexicon:g4327|G4327]];
+
+===== Meaning =====
+
+well-received, i.e. approved, favorable
+
+===== Usage =====
+
+acceptable(-ted).
+
+===== Strongs References =====
+
+[[en:lexicon:g2095|G2095]]
+[[en:lexicon:g4327|G4327]]

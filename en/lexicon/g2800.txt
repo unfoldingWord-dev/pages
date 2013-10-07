@@ -1,0 +1,17 @@
+====== G2800: κλάσις (klásis) ======
+
+===== Source =====
+
+from [[en:lexicon:g2806|G2806]];
+
+===== Meaning =====
+
+fracture (the act)
+
+===== Usage =====
+
+breaking.
+
+===== Strongs References =====
+
+[[en:lexicon:g2806|G2806]]

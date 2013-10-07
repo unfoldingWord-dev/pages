@@ -1,0 +1,20 @@
+====== G177: ἀκατακάλυπτος (akatakályptos) ======
+
+===== Source =====
+
+from [[en:lexicon:g1|G1]] (as a negative particle) and a derivative of a compound of [[en:lexicon:g2596|G2596]]
+ and [[en:lexicon:g2572|G2572]];
+
+===== Meaning =====
+
+unveiled
+
+===== Usage =====
+
+uncovered.
+
+===== Strongs References =====
+
+[[en:lexicon:g1|G1]]
+[[en:lexicon:g2596|G2596]]
+[[en:lexicon:g2572|G2572]]

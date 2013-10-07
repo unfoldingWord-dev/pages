@@ -1,0 +1,17 @@
+====== G1589: ἐκλογή (eklogḗ) ======
+
+===== Source =====
+
+from [[en:lexicon:g1586|G1586]];
+
+===== Meaning =====
+
+(divine) selection (abstractly or concretely)
+
+===== Usage =====
+
+chosen, election.
+
+===== Strongs References =====
+
+[[en:lexicon:g1586|G1586]]

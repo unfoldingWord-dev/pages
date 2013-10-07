@@ -1,0 +1,18 @@
+====== G1628: ἐκφεύγω (ekpheúgō) ======
+
+===== Source =====
+
+from [[en:lexicon:g1537|G1537]] and [[en:lexicon:g5343|G5343]];
+
+===== Meaning =====
+
+to flee out
+
+===== Usage =====
+
+escape, flee.
+
+===== Strongs References =====
+
+[[en:lexicon:g1537|G1537]]
+[[en:lexicon:g5343|G5343]]

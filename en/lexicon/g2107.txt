@@ -1,0 +1,18 @@
+====== G2107: εὐδοκία (eudokía) ======
+
+===== Source =====
+
+from a presumed compound of [[en:lexicon:g2095|G2095]] and the base of [[en:lexicon:g1380|G1380]];
+
+===== Meaning =====
+
+satisfaction, i.e. (subjectively) delight, or (objectively) kindness, wish, purpose
+
+===== Usage =====
+
+desire, good pleasure (will), X seem good.
+
+===== Strongs References =====
+
+[[en:lexicon:g2095|G2095]]
+[[en:lexicon:g1380|G1380]]

@@ -1,0 +1,18 @@
+====== G845: αὐτόπτης (autóptēs) ======
+
+===== Source =====
+
+from [[en:lexicon:g846|G846]] and [[en:lexicon:g3700|G3700]];
+
+===== Meaning =====
+
+self-seeing, i.e. an eye-witness
+
+===== Usage =====
+
+eye-witness.
+
+===== Strongs References =====
+
+[[en:lexicon:g846|G846]]
+[[en:lexicon:g3700|G3700]]

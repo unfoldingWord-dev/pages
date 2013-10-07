@@ -1,0 +1,17 @@
+====== G5326: φάντασμα (phántasma) ======
+
+===== Source =====
+
+from [[en:lexicon:g5324|G5324]];
+
+===== Meaning =====
+
+(properly concrete) a (mere) show ("phantasm"), i.e. spectre
+
+===== Usage =====
+
+spirit.
+
+===== Strongs References =====
+
+[[en:lexicon:g5324|G5324]]

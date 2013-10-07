@@ -1,0 +1,18 @@
+====== G1426: δυσφημία (dysphēmía) ======
+
+===== Source =====
+
+from a compound of [[en:lexicon:g1418|G1418]] and [[en:lexicon:g5345|G5345]];
+
+===== Meaning =====
+
+defamation
+
+===== Usage =====
+
+evil report.
+
+===== Strongs References =====
+
+[[en:lexicon:g1418|G1418]]
+[[en:lexicon:g5345|G5345]]

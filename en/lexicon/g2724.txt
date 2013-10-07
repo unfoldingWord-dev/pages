@@ -1,0 +1,17 @@
+====== G2724: κατηγορία (katēgoría) ======
+
+===== Source =====
+
+from [[en:lexicon:g2725|G2725]];
+
+===== Meaning =====
+
+a complaint ("category"), i.e. criminal charge
+
+===== Usage =====
+
+accusation (X -ed).
+
+===== Strongs References =====
+
+[[en:lexicon:g2725|G2725]]

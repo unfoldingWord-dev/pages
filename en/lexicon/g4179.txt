@@ -1,0 +1,18 @@
+====== G4179: πολλαπλασίων (pollaplasíōn) ======
+
+===== Source =====
+
+from [[en:lexicon:g4183|G4183]] and probably a derivative of [[en:lexicon:g4120|G4120]];
+
+===== Meaning =====
+
+manifold, i.e. (neuter as noun) very much more
+
+===== Usage =====
+
+manifold more.
+
+===== Strongs References =====
+
+[[en:lexicon:g4183|G4183]]
+[[en:lexicon:g4120|G4120]]

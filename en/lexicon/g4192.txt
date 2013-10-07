@@ -1,0 +1,17 @@
+====== G4192: πόνος (pónos) ======
+
+===== Source =====
+
+from the base of [[en:lexicon:g3993|G3993]];
+
+===== Meaning =====
+
+toil, i.e. (by implication) anguish
+
+===== Usage =====
+
+pain.
+
+===== Strongs References =====
+
+[[en:lexicon:g3993|G3993]]

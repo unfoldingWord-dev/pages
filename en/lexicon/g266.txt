@@ -1,0 +1,17 @@
+====== G266: ἁμαρτία (hamartía) ======
+
+===== Source =====
+
+from [[en:lexicon:g264|G264]];
+
+===== Meaning =====
+
+a sin (properly abstract)
+
+===== Usage =====
+
+offence, sin(-ful).
+
+===== Strongs References =====
+
+[[en:lexicon:g264|G264]]

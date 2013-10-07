@@ -1,0 +1,18 @@
+====== G3864: παραθαλάσσιος (parathalássios) ======
+
+===== Source =====
+
+from [[en:lexicon:g3844|G3844]] and [[en:lexicon:g2281|G2281]];
+
+===== Meaning =====
+
+along the sea, i.e. maritime (lacustrine)
+
+===== Usage =====
+
+upon the sea coast.
+
+===== Strongs References =====
+
+[[en:lexicon:g3844|G3844]]
+[[en:lexicon:g2281|G2281]]

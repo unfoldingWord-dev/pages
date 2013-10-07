@@ -1,0 +1,18 @@
+====== G732: ἄῤῥωστος (árrhōstos) ======
+
+===== Source =====
+
+from [[en:lexicon:g1|G1]] (as a negative particle) and a presumed derivative of [[en:lexicon:g4517|G4517]];
+
+===== Meaning =====
+
+infirm
+
+===== Usage =====
+
+sick (folk, -ly).
+
+===== Strongs References =====
+
+[[en:lexicon:g1|G1]]
+[[en:lexicon:g4517|G4517]]

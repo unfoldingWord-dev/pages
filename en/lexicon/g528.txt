@@ -1,0 +1,18 @@
+====== G528: ἀπαντάω (apantáō) ======
+
+===== Source =====
+
+from [[en:lexicon:g575|G575]] and a derivative of [[en:lexicon:g473|G473]];
+
+===== Meaning =====
+
+to meet away, i.e. encounter
+
+===== Usage =====
+
+meet.
+
+===== Strongs References =====
+
+[[en:lexicon:g575|G575]]
+[[en:lexicon:g473|G473]]

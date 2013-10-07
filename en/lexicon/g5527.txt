@@ -1,0 +1,17 @@
+====== G5527: χόρτασμα (chórtasma) ======
+
+===== Source =====
+
+from [[en:lexicon:g5526|G5526]];
+
+===== Meaning =====
+
+forage, i.e. food
+
+===== Usage =====
+
+sustenance.
+
+===== Strongs References =====
+
+[[en:lexicon:g5526|G5526]]

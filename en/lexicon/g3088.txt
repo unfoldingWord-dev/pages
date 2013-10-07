@@ -1,0 +1,17 @@
+====== G3088: λύχνος (lýchnos) ======
+
+===== Source =====
+
+from the base of [[en:lexicon:g3022|G3022]];
+
+===== Meaning =====
+
+a portable lamp or other illuminator (literally or figuratively)
+
+===== Usage =====
+
+candle, light.
+
+===== Strongs References =====
+
+[[en:lexicon:g3022|G3022]]

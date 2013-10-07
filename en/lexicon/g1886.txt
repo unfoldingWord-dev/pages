@@ -1,0 +1,18 @@
+====== G1886: ἔπαυλις (épaulis) ======
+
+===== Source =====
+
+from [[en:lexicon:g1909|G1909]] and an equivalent of [[en:lexicon:g833|G833]];
+
+===== Meaning =====
+
+a hut over the head, i.e. a dwelling
+
+===== Usage =====
+
+habitation.
+
+===== Strongs References =====
+
+[[en:lexicon:g1909|G1909]]
+[[en:lexicon:g833|G833]]

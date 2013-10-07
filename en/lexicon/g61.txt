@@ -1,0 +1,17 @@
+====== G61: ἄγρα (ágra) ======
+
+===== Source =====
+
+from [[en:lexicon:g71|G71]];
+
+===== Meaning =====
+
+(abstractly) a catching (of fish); also (concretely) a haul (of fish)
+
+===== Usage =====
+
+draught.
+
+===== Strongs References =====
+
+[[en:lexicon:g71|G71]]

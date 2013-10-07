@@ -1,0 +1,17 @@
+====== G2633: κατάκρισις (katákrisis) ======
+
+===== Source =====
+
+from [[en:lexicon:g2632|G2632]];
+
+===== Meaning =====
+
+sentencing adversely (the act)
+
+===== Usage =====
+
+condemn(-ation).
+
+===== Strongs References =====
+
+[[en:lexicon:g2632|G2632]]

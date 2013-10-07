@@ -1,0 +1,18 @@
+====== G2097: εὐαγγελίζω (euangelízō) ======
+
+===== Source =====
+
+from [[en:lexicon:g2095|G2095]] and [[en:lexicon:g32|G32]];
+
+===== Meaning =====
+
+to announce good news ("evangelize") especially the gospel
+
+===== Usage =====
+
+declare, bring (declare, show) glad (good) tidings, preach (the gospel).
+
+===== Strongs References =====
+
+[[en:lexicon:g2095|G2095]]
+[[en:lexicon:g32|G32]]

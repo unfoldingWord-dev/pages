@@ -1,0 +1,18 @@
+====== G1843: ἐξομολογέω (exomologéō) ======
+
+===== Source =====
+
+from [[en:lexicon:g1537|G1537]] and [[en:lexicon:g3670|G3670]];
+
+===== Meaning =====
+
+to acknowledge or (by implication, of assent) agree fully
+
+===== Usage =====
+
+confess, profess, promise.
+
+===== Strongs References =====
+
+[[en:lexicon:g1537|G1537]]
+[[en:lexicon:g3670|G3670]]

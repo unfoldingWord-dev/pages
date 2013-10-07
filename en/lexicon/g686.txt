@@ -1,0 +1,21 @@
+====== G686: ἄρα (ára) ======
+
+===== Source =====
+
+probably from [[en:lexicon:g142|G142]] (through the idea of drawing a conclusion);
+
+===== Meaning =====
+
+a particle denoting an inference more or less decisive (as follows)
+
+===== Usage =====
+
+haply, (what) manner (of man), no doubt, perhaps, so be, then, therefore, truly, wherefore.
+
+===== Strongs References =====
+
+[[en:lexicon:g142|G142]]
+[[en:lexicon:g1065|G1065]]
+[[en:lexicon:g3767|G3767]]
+[[en:lexicon:g1487|G1487]]
+[[en:lexicon:g687|G687]]

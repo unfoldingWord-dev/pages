@@ -1,0 +1,17 @@
+====== G5441: φύλαξ (phýlax) ======
+
+===== Source =====
+
+from [[en:lexicon:g5442|G5442]];
+
+===== Meaning =====
+
+a watcher or sentry
+
+===== Usage =====
+
+keeper.
+
+===== Strongs References =====
+
+[[en:lexicon:g5442|G5442]]

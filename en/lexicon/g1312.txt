@@ -1,0 +1,17 @@
+====== G1312: διαφθορά (diaphthorá) ======
+
+===== Source =====
+
+from [[en:lexicon:g1311|G1311]];
+
+===== Meaning =====
+
+decay
+
+===== Usage =====
+
+corruption.
+
+===== Strongs References =====
+
+[[en:lexicon:g1311|G1311]]

@@ -1,0 +1,17 @@
+====== G1761: ἐνθύμησις (enthýmēsis) ======
+
+===== Source =====
+
+from [[en:lexicon:g1760|G1760]];
+
+===== Meaning =====
+
+deliberation
+
+===== Usage =====
+
+device, thought.
+
+===== Strongs References =====
+
+[[en:lexicon:g1760|G1760]]

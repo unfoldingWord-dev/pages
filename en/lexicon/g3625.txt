@@ -1,0 +1,19 @@
+====== G3625: οἰκουμένη (oikouménē) ======
+
+===== Source =====
+
+feminine participle present passive of [[en:lexicon:g3611|G3611]] (as noun, by implication,
+ of [[en:lexicon:g1093|G1093]]);
+
+===== Meaning =====
+
+land, i.e. the (terrene part of the) globe; specially, the Roman empire
+
+===== Usage =====
+
+earth, world.
+
+===== Strongs References =====
+
+[[en:lexicon:g3611|G3611]]
+[[en:lexicon:g1093|G1093]]

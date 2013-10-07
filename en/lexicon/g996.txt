@@ -1,0 +1,17 @@
+====== G996: βοήθεια (boḗtheia) ======
+
+===== Source =====
+
+from [[en:lexicon:g998|G998]];
+
+===== Meaning =====
+
+aid; specially, a rope or chain for frapping a vessel
+
+===== Usage =====
+
+help.
+
+===== Strongs References =====
+
+[[en:lexicon:g998|G998]]

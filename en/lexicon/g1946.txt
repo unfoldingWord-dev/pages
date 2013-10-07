@@ -1,0 +1,17 @@
+====== G1946: Ἐπικούρειος (Epikoúreios) ======
+
+===== Source =====
+
+from Ἐπίκουρος (Epíkouros) (compare [[en:lexicon:g1947|G1947]]) (a noted philosopher);
+
+===== Meaning =====
+
+an Epicurean or follower of Epicurus
+
+===== Usage =====
+
+Epicurean.
+
+===== Strongs References =====
+
+[[en:lexicon:g1947|G1947]]

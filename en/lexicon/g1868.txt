@@ -1,0 +1,18 @@
+====== G1868: ἔπαινος (épainos) ======
+
+===== Source =====
+
+from [[en:lexicon:g1909|G1909]] and the base of [[en:lexicon:g134|G134]];
+
+===== Meaning =====
+
+laudation; concretely, a commendable thing
+
+===== Usage =====
+
+praise.
+
+===== Strongs References =====
+
+[[en:lexicon:g1909|G1909]]
+[[en:lexicon:g134|G134]]

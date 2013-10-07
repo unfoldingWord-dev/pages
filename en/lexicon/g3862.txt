@@ -1,0 +1,17 @@
+====== G3862: παράδοσις (parádosis) ======
+
+===== Source =====
+
+from [[en:lexicon:g3860|G3860]];
+
+===== Meaning =====
+
+transmission, i.e. (concretely) a precept; specially, the Jewish traditionary law
+
+===== Usage =====
+
+ordinance, tradition.
+
+===== Strongs References =====
+
+[[en:lexicon:g3860|G3860]]

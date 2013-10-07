@@ -1,0 +1,21 @@
+====== G3801: ὁ ὢν καί ὁ ἦν καί ὁ ἐρχόμενος (ho ṑn kaí ho ēn kaí ho erchómenos) ======
+
+===== Source =====
+
+a phrase combining [[en:lexicon:g3588|G3588]] with the present participle and imperfect of
+ [[en:lexicon:g1510|G1510]] and the present participle of [[en:lexicon:g2064|G2064]] by means of [[en:lexicon:g2532|G2532]];
+
+===== Meaning =====
+
+the one being and the one that was and the one coming, i.e. the Eternal, as a divine epithet of Christ
+
+===== Usage =====
+
+which art (is, was), and (which) wast (is, was), and art (is) to come (shalt be).
+
+===== Strongs References =====
+
+[[en:lexicon:g1510|G1510]]
+[[en:lexicon:g2532|G2532]]
+[[en:lexicon:g3588|G3588]]
+[[en:lexicon:g2064|G2064]]

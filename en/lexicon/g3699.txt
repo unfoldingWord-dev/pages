@@ -1,0 +1,18 @@
+====== G3699: ὅπου (hópou) ======
+
+===== Source =====
+
+from [[en:lexicon:g3739|G3739]] and [[en:lexicon:g4225|G4225]];
+
+===== Meaning =====
+
+what(-ever) where, i.e. at whichever spot
+
+===== Usage =====
+
+in what place, where(-as, -soever), whither (+ soever).
+
+===== Strongs References =====
+
+[[en:lexicon:g3739|G3739]]
+[[en:lexicon:g4225|G4225]]

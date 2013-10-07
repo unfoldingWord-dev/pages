@@ -1,0 +1,17 @@
+====== G4188: πόμα (póma) ======
+
+===== Source =====
+
+from the alternate of [[en:lexicon:g4095|G4095]];
+
+===== Meaning =====
+
+a beverage
+
+===== Usage =====
+
+drink.
+
+===== Strongs References =====
+
+[[en:lexicon:g4095|G4095]]

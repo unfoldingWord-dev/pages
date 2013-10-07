@@ -1,0 +1,18 @@
+====== G5274: ὑπολαμβάνω (hypolambánō) ======
+
+===== Source =====
+
+from [[en:lexicon:g5259|G5259]] and [[en:lexicon:g2983|G2983]];
+
+===== Meaning =====
+
+to take from below, i.e. carry upward; figuratively, to take up, i.e. continue a discourse or topic; mentally, to assume (presume)
+
+===== Usage =====
+
+answer, receive, suppose.
+
+===== Strongs References =====
+
+[[en:lexicon:g5259|G5259]]
+[[en:lexicon:g2983|G2983]]

@@ -1,0 +1,18 @@
+====== G5575: ψευδομάρτυρ (pseudomártyr) ======
+
+===== Source =====
+
+from [[en:lexicon:g5571|G5571]] and a kindred form of [[en:lexicon:g3144|G3144]];
+
+===== Meaning =====
+
+a spurious witness, i.e. bearer of untrue testimony
+
+===== Usage =====
+
+false witness.
+
+===== Strongs References =====
+
+[[en:lexicon:g5571|G5571]]
+[[en:lexicon:g3144|G3144]]

@@ -1,0 +1,18 @@
+====== G318: ἀνάγκη (anánkē) ======
+
+===== Source =====
+
+from [[en:lexicon:g303|G303]] and the base of [[en:lexicon:g43|G43]];
+
+===== Meaning =====
+
+constraint (literally or figuratively); by implication, distress
+
+===== Usage =====
+
+distress, must needs, (of) necessity(-sary), needeth, needful.
+
+===== Strongs References =====
+
+[[en:lexicon:g303|G303]]
+[[en:lexicon:g43|G43]]

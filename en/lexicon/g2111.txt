@@ -1,0 +1,18 @@
+====== G2111: εὔθετος (eúthetos) ======
+
+===== Source =====
+
+from [[en:lexicon:g2095|G2095]] and a derivative of [[en:lexicon:g5087|G5087]];
+
+===== Meaning =====
+
+well placed, i.e. (figuratively) appropriate
+
+===== Usage =====
+
+fit, meet.
+
+===== Strongs References =====
+
+[[en:lexicon:g2095|G2095]]
+[[en:lexicon:g5087|G5087]]

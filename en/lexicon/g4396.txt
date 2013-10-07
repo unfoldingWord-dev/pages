@@ -1,0 +1,18 @@
+====== G4396: προφήτης (prophḗtēs) ======
+
+===== Source =====
+
+from a compound of [[en:lexicon:g4253|G4253]] and [[en:lexicon:g5346|G5346]];
+
+===== Meaning =====
+
+a foreteller ("prophet"); by analogy, an inspired speaker; by extension, a poet
+
+===== Usage =====
+
+prophet.
+
+===== Strongs References =====
+
+[[en:lexicon:g4253|G4253]]
+[[en:lexicon:g5346|G5346]]

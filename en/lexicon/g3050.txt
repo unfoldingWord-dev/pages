@@ -1,0 +1,17 @@
+====== G3050: λογικός (logikós) ======
+
+===== Source =====
+
+from [[en:lexicon:g3056|G3056]];
+
+===== Meaning =====
+
+rational ("logical")
+
+===== Usage =====
+
+reasonable, of the word.
+
+===== Strongs References =====
+
+[[en:lexicon:g3056|G3056]]

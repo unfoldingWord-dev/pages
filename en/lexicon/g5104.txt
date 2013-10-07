@@ -1,0 +1,21 @@
+====== G5104: τοί (toí) ======
+
+===== Source =====
+
+probably for the dative case of [[en:lexicon:g3588|G3588]];
+
+===== Meaning =====
+
+an enclitic particle of asseveration by way of contrast; in sooth
+
+===== Usage =====
+
+(used only with other particles in the comparative, as
+
+===== Strongs References =====
+
+[[en:lexicon:g3588|G3588]]
+[[en:lexicon:g2544|G2544]]
+[[en:lexicon:g3305|G3305]]
+[[en:lexicon:g5105|G5105]]
+[[en:lexicon:g5106|G5106]]

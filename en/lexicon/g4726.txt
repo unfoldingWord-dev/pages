@@ -1,0 +1,17 @@
+====== G4726: στεναγμός (stenagmós) ======
+
+===== Source =====
+
+from [[en:lexicon:g4727|G4727]];
+
+===== Meaning =====
+
+a sigh
+
+===== Usage =====
+
+groaning.
+
+===== Strongs References =====
+
+[[en:lexicon:g4727|G4727]]

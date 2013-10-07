@@ -1,0 +1,18 @@
+====== G799: Ἀσύγκριτος (Asýnkritos) ======
+
+===== Source =====
+
+from [[en:lexicon:g1|G1]] (as a negative particle) and a derivative of [[en:lexicon:g4793|G4793]];
+
+===== Meaning =====
+
+incomparable; Asyncritus, a Christian
+
+===== Usage =====
+
+Asyncritos.
+
+===== Strongs References =====
+
+[[en:lexicon:g1|G1]]
+[[en:lexicon:g4793|G4793]]

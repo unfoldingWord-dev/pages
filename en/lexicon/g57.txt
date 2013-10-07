@@ -1,0 +1,18 @@
+====== G57: ἄγνωστος (ágnōstos) ======
+
+===== Source =====
+
+from [[en:lexicon:g1|G1]] (as negative particle) and [[en:lexicon:g1110|G1110]];
+
+===== Meaning =====
+
+unknown
+
+===== Usage =====
+
+unknown.
+
+===== Strongs References =====
+
+[[en:lexicon:g1|G1]]
+[[en:lexicon:g1110|G1110]]

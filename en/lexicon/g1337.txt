@@ -1,0 +1,18 @@
+====== G1337: διθάλασσος (dithálassos) ======
+
+===== Source =====
+
+from [[en:lexicon:g1364|G1364]] and [[en:lexicon:g2281|G2281]];
+
+===== Meaning =====
+
+having two seas, i.e. a sound with a double outlet
+
+===== Usage =====
+
+where two seas meet.
+
+===== Strongs References =====
+
+[[en:lexicon:g1364|G1364]]
+[[en:lexicon:g2281|G2281]]

@@ -1,0 +1,17 @@
+====== G3353: μέτοχος (métochos) ======
+
+===== Source =====
+
+from [[en:lexicon:g3348|G3348]];
+
+===== Meaning =====
+
+participant, i.e. (as noun) a sharer; by implication, an associate
+
+===== Usage =====
+
+fellow, partaker, partner.
+
+===== Strongs References =====
+
+[[en:lexicon:g3348|G3348]]

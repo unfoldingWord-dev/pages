@@ -1,0 +1,17 @@
+====== G5579: ψεῦδος (pseûdos) ======
+
+===== Source =====
+
+from [[en:lexicon:g5574|G5574]];
+
+===== Meaning =====
+
+a falsehood
+
+===== Usage =====
+
+lie, lying.
+
+===== Strongs References =====
+
+[[en:lexicon:g5574|G5574]]

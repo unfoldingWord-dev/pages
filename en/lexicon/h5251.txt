@@ -1,0 +1,25 @@
+====== H5251: נֵס (nêç) ======
+
+===== Part of Speech =====
+
+noun - masculine
+
+===== Source =====
+
+from [[en:lexicon:h5264|H5264]];
+
+===== Meaning =====
+
+a **flag**; also a **sail**; by implication, a **flagstaff**; generally a **signal**; figuratively, a **token**
+
+===== Definitions =====
+
+  - flag
+  - sail
+  - flagstaff
+  - signal
+  - token
+
+===== Usage =====
+
+banner, pole, sail, (en-) sign, standard.

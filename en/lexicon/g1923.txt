@@ -1,0 +1,17 @@
+====== G1923: ἐπιγραφή (epigraphḗ) ======
+
+===== Source =====
+
+from [[en:lexicon:g1924|G1924]];
+
+===== Meaning =====
+
+an inscription
+
+===== Usage =====
+
+superscription.
+
+===== Strongs References =====
+
+[[en:lexicon:g1924|G1924]]

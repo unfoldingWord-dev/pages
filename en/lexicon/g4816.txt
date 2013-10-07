@@ -1,0 +1,18 @@
+====== G4816: συλλέγω (syllégō) ======
+
+===== Source =====
+
+from [[en:lexicon:g4862|G4862]] and [[en:lexicon:g3004|G3004]] in its original sense;
+
+===== Meaning =====
+
+to collect
+
+===== Usage =====
+
+gather (together, up).
+
+===== Strongs References =====
+
+[[en:lexicon:g4862|G4862]]
+[[en:lexicon:g3004|G3004]]

@@ -1,0 +1,17 @@
+====== G4286: πρόθεσις (próthesis) ======
+
+===== Source =====
+
+from [[en:lexicon:g4388|G4388]];
+
+===== Meaning =====
+
+a setting forth, i.e. (figuratively) proposal (intention); specially, the show-bread (in the Temple) as exposed before God
+
+===== Usage =====
+
+purpose, shew(-bread).
+
+===== Strongs References =====
+
+[[en:lexicon:g4388|G4388]]

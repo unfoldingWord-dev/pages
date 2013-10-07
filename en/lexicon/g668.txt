@@ -1,0 +1,18 @@
+====== G668: ἀποφεύγω (apopheúgō) ======
+
+===== Source =====
+
+from [[en:lexicon:g575|G575]] and [[en:lexicon:g5343|G5343]];
+
+===== Meaning =====
+
+(figuratively) to escape
+
+===== Usage =====
+
+escape.
+
+===== Strongs References =====
+
+[[en:lexicon:g575|G575]]
+[[en:lexicon:g5343|G5343]]

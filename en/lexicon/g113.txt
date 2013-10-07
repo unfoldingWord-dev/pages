@@ -1,0 +1,19 @@
+====== G113: ἄθεσμος (áthesmos) ======
+
+===== Source =====
+
+from [[en:lexicon:g1|G1]] (as a negative particle) and a derivative of [[en:lexicon:g5087|G5087]] (in the sense
+ of enacting);
+
+===== Meaning =====
+
+lawless, i.e. (by implication) criminal
+
+===== Usage =====
+
+wicked.
+
+===== Strongs References =====
+
+[[en:lexicon:g1|G1]]
+[[en:lexicon:g5087|G5087]]

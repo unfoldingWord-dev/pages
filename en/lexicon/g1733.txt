@@ -1,0 +1,18 @@
+====== G1733: ἕνδεκα (héndeka) ======
+
+===== Source =====
+
+from (the neuter of) [[en:lexicon:g1520|G1520]] and [[en:lexicon:g1176|G1176]];
+
+===== Meaning =====
+
+one and ten, i.e. eleven
+
+===== Usage =====
+
+eleven.
+
+===== Strongs References =====
+
+[[en:lexicon:g1520|G1520]]
+[[en:lexicon:g1176|G1176]]

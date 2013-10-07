@@ -1,0 +1,18 @@
+====== G2145: εὐπρόσεδρος (euprósedros) ======
+
+===== Source =====
+
+from [[en:lexicon:g2095|G2095]] and the same as [[en:lexicon:g4332|G4332]];
+
+===== Meaning =====
+
+sitting well towards, i.e. (figuratively) assiduous (neuter, diligent service)
+
+===== Usage =====
+
+X attend upon.
+
+===== Strongs References =====
+
+[[en:lexicon:g2095|G2095]]
+[[en:lexicon:g4332|G4332]]

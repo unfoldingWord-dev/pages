@@ -1,0 +1,18 @@
+====== G886: ἀχειροποίητος (acheiropoíētos) ======
+
+===== Source =====
+
+from [[en:lexicon:g1|G1]] (as a negative particle) and [[en:lexicon:g5499|G5499]];
+
+===== Meaning =====
+
+unmanufactured, i.e. inartificial
+
+===== Usage =====
+
+made without (not made with) hands.
+
+===== Strongs References =====
+
+[[en:lexicon:g1|G1]]
+[[en:lexicon:g5499|G5499]]

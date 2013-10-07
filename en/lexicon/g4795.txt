@@ -1,0 +1,19 @@
+====== G4795: συγκυρία (synkyría) ======
+
+===== Source =====
+
+from a comparative of [[en:lexicon:g4862|G4862]] and κυρέω (kyréō) (to light or happen; from the
+ base of [[en:lexicon:g2962|G2962]]);
+
+===== Meaning =====
+
+concurrence, i.e. accident
+
+===== Usage =====
+
+chance.
+
+===== Strongs References =====
+
+[[en:lexicon:g4862|G4862]]
+[[en:lexicon:g2962|G2962]]

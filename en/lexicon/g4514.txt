@@ -1,0 +1,17 @@
+====== G4514: Ῥωμαῖος (Rhōmaîos) ======
+
+===== Source =====
+
+from [[en:lexicon:g4516|G4516]];
+
+===== Meaning =====
+
+Romæan, i.e. Roman (as noun)
+
+===== Usage =====
+
+Roman, of Rome.
+
+===== Strongs References =====
+
+[[en:lexicon:g4516|G4516]]

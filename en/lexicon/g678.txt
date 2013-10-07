@@ -1,0 +1,21 @@
+====== G678: ἀπροσωπολήπτως (aprosōpolḗptōs) ======
+
+===== Source =====
+
+adverb from a compound of [[en:lexicon:g1|G1]] (as a negative particle) and a presumed
+ derivative of a presumed compound of [[en:lexicon:g4383|G4383]] and [[en:lexicon:g2983|G2983]] (compare [[en:lexicon:g4381|G4381]]);
+
+===== Meaning =====
+
+in a way not accepting the person, i.e. impartially
+
+===== Usage =====
+
+without respect of persons.
+
+===== Strongs References =====
+
+[[en:lexicon:g1|G1]]
+[[en:lexicon:g4383|G4383]]
+[[en:lexicon:g2983|G2983]]
+[[en:lexicon:g4381|G4381]]

@@ -1,0 +1,18 @@
+====== G4511: ῥύσις (rhýsis) ======
+
+===== Source =====
+
+from [[en:lexicon:g4506|G4506]] in the sense of its congener [[en:lexicon:g4482|G4482]];
+
+===== Meaning =====
+
+a flux (of blood)
+
+===== Usage =====
+
+issue.
+
+===== Strongs References =====
+
+[[en:lexicon:g4506|G4506]]
+[[en:lexicon:g4482|G4482]]

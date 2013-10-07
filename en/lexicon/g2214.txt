@@ -1,0 +1,17 @@
+====== G2214: ζήτησις (zḗtēsis) ======
+
+===== Source =====
+
+from [[en:lexicon:g2212|G2212]];
+
+===== Meaning =====
+
+a searching (properly, the act), i.e. a dispute or its theme
+
+===== Usage =====
+
+question.
+
+===== Strongs References =====
+
+[[en:lexicon:g2212|G2212]]

@@ -1,0 +1,18 @@
+====== G3181: μεθόριος (methórios) ======
+
+===== Source =====
+
+from [[en:lexicon:g3326|G3326]] and [[en:lexicon:g3725|G3725]];
+
+===== Meaning =====
+
+bounded alongside, i.e. contiguous (neuter plural as noun, frontier)
+
+===== Usage =====
+
+border.
+
+===== Strongs References =====
+
+[[en:lexicon:g3326|G3326]]
+[[en:lexicon:g3725|G3725]]

@@ -1,0 +1,17 @@
+====== G4541: Σαμαρείτης (Samareítēs) ======
+
+===== Source =====
+
+from [[en:lexicon:g4540|G4540]];
+
+===== Meaning =====
+
+a Samarite, i.e. inhabitant of Samaria
+
+===== Usage =====
+
+Samaritan.
+
+===== Strongs References =====
+
+[[en:lexicon:g4540|G4540]]

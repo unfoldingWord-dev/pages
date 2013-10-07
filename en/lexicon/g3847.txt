@@ -1,0 +1,17 @@
+====== G3847: παράβασις (parábasis) ======
+
+===== Source =====
+
+from [[en:lexicon:g3845|G3845]];
+
+===== Meaning =====
+
+violation
+
+===== Usage =====
+
+breaking, transgression.
+
+===== Strongs References =====
+
+[[en:lexicon:g3845|G3845]]

@@ -1,0 +1,17 @@
+====== G4487: ῥῆμα (rhēma) ======
+
+===== Source =====
+
+from [[en:lexicon:g4483|G4483]];
+
+===== Meaning =====
+
+an utterance (individually, collectively or specially),; by implication, a matter or topic (especially of narration, command or dispute); with a negative naught whatever
+
+===== Usage =====
+
++ evil, + nothing, saying, word.
+
+===== Strongs References =====
+
+[[en:lexicon:g4483|G4483]]

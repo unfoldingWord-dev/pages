@@ -1,0 +1,17 @@
+====== G202: ἀκροατής (akroatḗs) ======
+
+===== Source =====
+
+from ἀκροάομαι (akroáomai) (to listen; apparently an intensive of [[en:lexicon:g191|G191]]);
+
+===== Meaning =====
+
+a hearer (merely)
+
+===== Usage =====
+
+hearer.
+
+===== Strongs References =====
+
+[[en:lexicon:g191|G191]]

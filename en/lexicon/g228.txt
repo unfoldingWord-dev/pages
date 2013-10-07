@@ -1,0 +1,17 @@
+====== G228: ἀληθινός (alēthinós) ======
+
+===== Source =====
+
+from [[en:lexicon:g227|G227]];
+
+===== Meaning =====
+
+truthful
+
+===== Usage =====
+
+true.
+
+===== Strongs References =====
+
+[[en:lexicon:g227|G227]]

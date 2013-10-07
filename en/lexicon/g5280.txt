@@ -1,0 +1,17 @@
+====== G5280: ὑπόμνησις (hypómnēsis) ======
+
+===== Source =====
+
+from [[en:lexicon:g5279|G5279]];
+
+===== Meaning =====
+
+a reminding or (reflexively) recollection
+
+===== Usage =====
+
+remembrance.
+
+===== Strongs References =====
+
+[[en:lexicon:g5279|G5279]]

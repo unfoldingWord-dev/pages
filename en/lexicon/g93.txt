@@ -1,0 +1,17 @@
+====== G93: ἀδικία (adikía) ======
+
+===== Source =====
+
+from [[en:lexicon:g94|G94]];
+
+===== Meaning =====
+
+(legal) injustice (properly, the quality, by implication, the act); morally, wrongfulness (of character, life or act)
+
+===== Usage =====
+
+iniquity, unjust, unrighteousness, wrong.
+
+===== Strongs References =====
+
+[[en:lexicon:g94|G94]]

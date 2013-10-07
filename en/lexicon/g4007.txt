@@ -1,0 +1,17 @@
+====== G4007: περ (per) ======
+
+===== Source =====
+
+from the base of [[en:lexicon:g4008|G4008]];
+
+===== Meaning =====
+
+an enclitic particle significant of abundance (thoroughness), i.e. emphasis; much, very or ever
+
+===== Usage =====
+
+(whom-)soever.
+
+===== Strongs References =====
+
+[[en:lexicon:g4008|G4008]]

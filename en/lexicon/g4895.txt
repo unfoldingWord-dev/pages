@@ -1,0 +1,18 @@
+====== G4895: σύνειμι (sýneimi) ======
+
+===== Source =====
+
+from [[en:lexicon:g4862|G4862]] and [[en:lexicon:g1510|G1510]] (including its various inflections);
+
+===== Meaning =====
+
+to be in company with, i.e. present at the time
+
+===== Usage =====
+
+be with.
+
+===== Strongs References =====
+
+[[en:lexicon:g4862|G4862]]
+[[en:lexicon:g1510|G1510]]

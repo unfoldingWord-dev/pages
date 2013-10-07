@@ -1,0 +1,18 @@
+====== G824: ἄτοπος (átopos) ======
+
+===== Source =====
+
+from [[en:lexicon:g1|G1]] (as a negative particle) and [[en:lexicon:g5117|G5117]];
+
+===== Meaning =====
+
+out of place, i.e. (figuratively) improper, injurious, wicked
+
+===== Usage =====
+
+amiss, harm, unreasonable.
+
+===== Strongs References =====
+
+[[en:lexicon:g1|G1]]
+[[en:lexicon:g5117|G5117]]

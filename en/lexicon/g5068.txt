@@ -1,0 +1,18 @@
+====== G5068: τετράγωνος (tetrágōnos) ======
+
+===== Source =====
+
+from [[en:lexicon:g5064|G5064]] and [[en:lexicon:g1137|G1137]];
+
+===== Meaning =====
+
+four-cornered, i.e. square
+
+===== Usage =====
+
+foursquare.
+
+===== Strongs References =====
+
+[[en:lexicon:g5064|G5064]]
+[[en:lexicon:g1137|G1137]]

@@ -1,0 +1,20 @@
+====== G160: αἰφνίδιος (aiphnídios) ======
+
+===== Source =====
+
+from a compound of [[en:lexicon:g1|G1]] (as a negative particle) and [[en:lexicon:g5316|G5316]] (compare [[en:lexicon:g1810|G1810]])
+ (meaning non-apparent);
+
+===== Meaning =====
+
+unexpected, i.e. (adverbially) suddenly
+
+===== Usage =====
+
+sudden, unawares.
+
+===== Strongs References =====
+
+[[en:lexicon:g1|G1]]
+[[en:lexicon:g5316|G5316]]
+[[en:lexicon:g1810|G1810]]

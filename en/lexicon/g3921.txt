@@ -1,0 +1,19 @@
+====== G3921: παρεισδύνω (pareisdýnō) ======
+
+===== Source =====
+
+from [[en:lexicon:g3844|G3844]] and a compound of [[en:lexicon:g1519|G1519]] and [[en:lexicon:g1416|G1416]];
+
+===== Meaning =====
+
+to settle in alongside, i.e. lodge stealthily
+
+===== Usage =====
+
+creep in unawares.
+
+===== Strongs References =====
+
+[[en:lexicon:g3844|G3844]]
+[[en:lexicon:g1519|G1519]]
+[[en:lexicon:g1416|G1416]]

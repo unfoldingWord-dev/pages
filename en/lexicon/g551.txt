@@ -1,0 +1,18 @@
+====== G551: ἀπείραστος (apeírastos) ======
+
+===== Source =====
+
+from [[en:lexicon:g1|G1]] (as a negative particle) and a presumed derivative of [[en:lexicon:g3987|G3987]];
+
+===== Meaning =====
+
+untried, i.e. not temptable
+
+===== Usage =====
+
+not to be tempted.
+
+===== Strongs References =====
+
+[[en:lexicon:g1|G1]]
+[[en:lexicon:g3987|G3987]]

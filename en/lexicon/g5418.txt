@@ -1,0 +1,17 @@
+====== G5418: φραγμός (phragmós) ======
+
+===== Source =====
+
+from [[en:lexicon:g5420|G5420]];
+
+===== Meaning =====
+
+a fence, or inclosing barrier (literally or figuratively)
+
+===== Usage =====
+
+hedge (+ round about), partition.
+
+===== Strongs References =====
+
+[[en:lexicon:g5420|G5420]]

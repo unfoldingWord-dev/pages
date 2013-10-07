@@ -1,0 +1,18 @@
+====== G2757: κενοφωνία (kenophōnía) ======
+
+===== Source =====
+
+from a presumed compound of [[en:lexicon:g2756|G2756]] and [[en:lexicon:g5456|G5456]];
+
+===== Meaning =====
+
+empty sounding, i.e. fruitless discussion
+
+===== Usage =====
+
+vain.
+
+===== Strongs References =====
+
+[[en:lexicon:g2756|G2756]]
+[[en:lexicon:g5456|G5456]]

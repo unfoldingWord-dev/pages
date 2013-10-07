@@ -1,0 +1,18 @@
+====== G4261: προβάλλω (probállō) ======
+
+===== Source =====
+
+from [[en:lexicon:g4253|G4253]] and [[en:lexicon:g906|G906]];
+
+===== Meaning =====
+
+to throw forward, i.e. push to the front, germinate
+
+===== Usage =====
+
+put forward, shoot forth.
+
+===== Strongs References =====
+
+[[en:lexicon:g4253|G4253]]
+[[en:lexicon:g906|G906]]

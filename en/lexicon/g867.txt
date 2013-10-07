@@ -1,0 +1,17 @@
+====== G867: ἄφιξις (áphixis) ======
+
+===== Source =====
+
+from [[en:lexicon:g864|G864]];
+
+===== Meaning =====
+
+properly, arrival, i.e. (by implication) departure
+
+===== Usage =====
+
+departing.
+
+===== Strongs References =====
+
+[[en:lexicon:g864|G864]]

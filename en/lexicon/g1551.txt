@@ -1,0 +1,18 @@
+====== G1551: ἐκδέχομαι (ekdéchomai) ======
+
+===== Source =====
+
+from [[en:lexicon:g1537|G1537]] and [[en:lexicon:g1209|G1209]];
+
+===== Meaning =====
+
+to accept from some source, i.e. (by implication) to await
+
+===== Usage =====
+
+expect, look (tarry) for, wait (for).
+
+===== Strongs References =====
+
+[[en:lexicon:g1537|G1537]]
+[[en:lexicon:g1209|G1209]]

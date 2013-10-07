@@ -1,0 +1,17 @@
+====== G1010: βουλευτής (bouleutḗs) ======
+
+===== Source =====
+
+from [[en:lexicon:g1011|G1011]];
+
+===== Meaning =====
+
+an adviser, i.e. (specially) a councillor or member of the Jewish Sanhedrin
+
+===== Usage =====
+
+counsellor.
+
+===== Strongs References =====
+
+[[en:lexicon:g1011|G1011]]

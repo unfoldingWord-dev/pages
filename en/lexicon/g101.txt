@@ -1,0 +1,17 @@
+====== G101: ἀδυνατέω (adynatéō) ======
+
+===== Source =====
+
+from [[en:lexicon:g102|G102]];
+
+===== Meaning =====
+
+to be unable, i.e. (passively) impossible
+
+===== Usage =====
+
+be impossible.
+
+===== Strongs References =====
+
+[[en:lexicon:g102|G102]]

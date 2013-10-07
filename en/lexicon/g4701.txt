@@ -1,0 +1,17 @@
+====== G4701: σπορά (sporá) ======
+
+===== Source =====
+
+from [[en:lexicon:g4687|G4687]];
+
+===== Meaning =====
+
+a sowing, i.e. (by implication) parentage
+
+===== Usage =====
+
+seed.
+
+===== Strongs References =====
+
+[[en:lexicon:g4687|G4687]]

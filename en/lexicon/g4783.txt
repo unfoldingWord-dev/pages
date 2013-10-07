@@ -1,0 +1,17 @@
+====== G4783: συγκατάθεσις (synkatáthesis) ======
+
+===== Source =====
+
+from [[en:lexicon:g4784|G4784]];
+
+===== Meaning =====
+
+a deposition (of sentiment) in company with, i.e. (figuratively) accord with
+
+===== Usage =====
+
+agreement.
+
+===== Strongs References =====
+
+[[en:lexicon:g4784|G4784]]

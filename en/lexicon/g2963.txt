@@ -1,0 +1,17 @@
+====== G2963: κυριότης (kyriótēs) ======
+
+===== Source =====
+
+from [[en:lexicon:g2962|G2962]];
+
+===== Meaning =====
+
+mastery, i.e. (concretely and collectively) rulers
+
+===== Usage =====
+
+dominion, government.
+
+===== Strongs References =====
+
+[[en:lexicon:g2962|G2962]]

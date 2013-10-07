@@ -1,0 +1,18 @@
+====== G273: ἄμεμπτος (ámemptos) ======
+
+===== Source =====
+
+from [[en:lexicon:g1|G1]] (as a negative particle) and a derivative of [[en:lexicon:g3201|G3201]];
+
+===== Meaning =====
+
+irreproachable
+
+===== Usage =====
+
+blameless, faultless, unblamable.
+
+===== Strongs References =====
+
+[[en:lexicon:g1|G1]]
+[[en:lexicon:g3201|G3201]]

@@ -1,0 +1,18 @@
+====== G4953: σύσσημον (sýssēmon) ======
+
+===== Source =====
+
+neuter of a compound of [[en:lexicon:g4862|G4862]] and the base of [[en:lexicon:g4591|G4591]];
+
+===== Meaning =====
+
+a sign in common, i.e. preconcerted signal
+
+===== Usage =====
+
+token.
+
+===== Strongs References =====
+
+[[en:lexicon:g4862|G4862]]
+[[en:lexicon:g4591|G4591]]

@@ -1,0 +1,18 @@
+====== G1541: ἑκατονταέτης (hekatontaétēs) ======
+
+===== Source =====
+
+from [[en:lexicon:g1540|G1540]] and [[en:lexicon:g2094|G2094]];
+
+===== Meaning =====
+
+centenarian
+
+===== Usage =====
+
+hundred years old.
+
+===== Strongs References =====
+
+[[en:lexicon:g1540|G1540]]
+[[en:lexicon:g2094|G2094]]

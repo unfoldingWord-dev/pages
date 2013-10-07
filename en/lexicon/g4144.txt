@@ -1,0 +1,17 @@
+====== G4144: πλόος (plóos) ======
+
+===== Source =====
+
+from [[en:lexicon:g4126|G4126]];
+
+===== Meaning =====
+
+a sail, i.e. navigation
+
+===== Usage =====
+
+course, sailing, voyage.
+
+===== Strongs References =====
+
+[[en:lexicon:g4126|G4126]]

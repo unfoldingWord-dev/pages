@@ -1,0 +1,18 @@
+====== G429: ἀνευρίσκω (aneurískō) ======
+
+===== Source =====
+
+from [[en:lexicon:g303|G303]] and [[en:lexicon:g2147|G2147]];
+
+===== Meaning =====
+
+to find out
+
+===== Usage =====
+
+find.
+
+===== Strongs References =====
+
+[[en:lexicon:g303|G303]]
+[[en:lexicon:g2147|G2147]]

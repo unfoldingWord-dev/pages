@@ -1,0 +1,17 @@
+====== G2451: Ἰουδαϊκός (Ioudaïkós) ======
+
+===== Source =====
+
+from [[en:lexicon:g2453|G2453]];
+
+===== Meaning =====
+
+Judaïc, i.e. resembling a Judæan
+
+===== Usage =====
+
+Jewish.
+
+===== Strongs References =====
+
+[[en:lexicon:g2453|G2453]]

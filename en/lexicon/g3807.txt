@@ -1,0 +1,18 @@
+====== G3807: παιδαγωγός (paidagōgós) ======
+
+===== Source =====
+
+from [[en:lexicon:g3816|G3816]] and a reduplicated form of [[en:lexicon:g71|G71]];
+
+===== Meaning =====
+
+a boy-leader, i.e. a servant whose office it was to take the children to school; (by implication, (figuratively) a tutor ("pædagogue"))
+
+===== Usage =====
+
+ instructor, schoolmaster.
+
+===== Strongs References =====
+
+[[en:lexicon:g3816|G3816]]
+[[en:lexicon:g71|G71]]

@@ -1,0 +1,17 @@
+====== G3803: παγίς (pagís) ======
+
+===== Source =====
+
+from [[en:lexicon:g4078|G4078]];
+
+===== Meaning =====
+
+a trap (as fastened by a noose or notch); figuratively, a trick or statagem (temptation)
+
+===== Usage =====
+
+snare.
+
+===== Strongs References =====
+
+[[en:lexicon:g4078|G4078]]

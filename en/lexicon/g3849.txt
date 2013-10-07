@@ -1,0 +1,18 @@
+====== G3849: παραβιάζομαι (parabiázomai) ======
+
+===== Source =====
+
+from [[en:lexicon:g3844|G3844]] and the middle voice of [[en:lexicon:g971|G971]];
+
+===== Meaning =====
+
+to force contrary to (nature), i.e. compel (by entreaty)
+
+===== Usage =====
+
+constrain.
+
+===== Strongs References =====
+
+[[en:lexicon:g3844|G3844]]
+[[en:lexicon:g971|G971]]

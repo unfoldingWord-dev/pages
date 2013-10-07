@@ -1,0 +1,18 @@
+====== G499: ἀντίτυπον (antítypon) ======
+
+===== Source =====
+
+neuter of a compound of [[en:lexicon:g473|G473]] and [[en:lexicon:g5179|G5179]];
+
+===== Meaning =====
+
+corresponding ("antitype"), i.e. a representative, counterpart
+
+===== Usage =====
+
+(like) figure (whereunto).
+
+===== Strongs References =====
+
+[[en:lexicon:g473|G473]]
+[[en:lexicon:g5179|G5179]]

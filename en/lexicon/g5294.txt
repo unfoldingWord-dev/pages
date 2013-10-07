@@ -1,0 +1,18 @@
+====== G5294: ὑποτίθημι (hypotíthēmi) ======
+
+===== Source =====
+
+from [[en:lexicon:g5259|G5259]] and [[en:lexicon:g5087|G5087]];
+
+===== Meaning =====
+
+to place underneath, i.e. (figuratively) to hazard, (reflexively) to suggest
+
+===== Usage =====
+
+lay down, put in remembrance.
+
+===== Strongs References =====
+
+[[en:lexicon:g5259|G5259]]
+[[en:lexicon:g5087|G5087]]

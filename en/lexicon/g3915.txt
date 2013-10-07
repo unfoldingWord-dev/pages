@@ -1,0 +1,17 @@
+====== G3915: παραχειμασία (paracheimasía) ======
+
+===== Source =====
+
+from [[en:lexicon:g3914|G3914]];
+
+===== Meaning =====
+
+a wintering over
+
+===== Usage =====
+
+winter in.
+
+===== Strongs References =====
+
+[[en:lexicon:g3914|G3914]]

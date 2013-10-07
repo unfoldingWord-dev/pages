@@ -1,0 +1,18 @@
+====== G671: ἀπόχρησις (apóchrēsis) ======
+
+===== Source =====
+
+from a compound of [[en:lexicon:g575|G575]] and [[en:lexicon:g5530|G5530]];
+
+===== Meaning =====
+
+the act of using up, i.e. consumption
+
+===== Usage =====
+
+using.
+
+===== Strongs References =====
+
+[[en:lexicon:g575|G575]]
+[[en:lexicon:g5530|G5530]]

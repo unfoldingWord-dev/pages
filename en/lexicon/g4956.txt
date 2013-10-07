@@ -1,0 +1,17 @@
+====== G4956: συστατικός (systatikós) ======
+
+===== Source =====
+
+from a derivative of [[en:lexicon:g4921|G4921]];
+
+===== Meaning =====
+
+introductory, i.e. recommendatory
+
+===== Usage =====
+
+of commendation.
+
+===== Strongs References =====
+
+[[en:lexicon:g4921|G4921]]

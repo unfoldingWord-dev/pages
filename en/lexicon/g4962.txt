@@ -1,0 +1,18 @@
+====== G4962: συστρέφω (systréphō) ======
+
+===== Source =====
+
+from [[en:lexicon:g4862|G4862]] and [[en:lexicon:g4762|G4762]];
+
+===== Meaning =====
+
+to twist together, i.e. collect (a bundle, a crowd)
+
+===== Usage =====
+
+gather.
+
+===== Strongs References =====
+
+[[en:lexicon:g4862|G4862]]
+[[en:lexicon:g4762|G4762]]

@@ -1,0 +1,18 @@
+====== G2154: εὔσημος (eúsēmos) ======
+
+===== Source =====
+
+from [[en:lexicon:g2095|G2095]] and the base of [[en:lexicon:g4591|G4591]];
+
+===== Meaning =====
+
+well indicated, i.e. (figuratively) significant
+
+===== Usage =====
+
+easy to be understood.
+
+===== Strongs References =====
+
+[[en:lexicon:g2095|G2095]]
+[[en:lexicon:g4591|G4591]]

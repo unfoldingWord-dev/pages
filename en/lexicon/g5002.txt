@@ -1,0 +1,17 @@
+====== G5002: τακτός (taktós) ======
+
+===== Source =====
+
+from [[en:lexicon:g5021|G5021]];
+
+===== Meaning =====
+
+arranged, i.e. appointed or stated
+
+===== Usage =====
+
+set.
+
+===== Strongs References =====
+
+[[en:lexicon:g5021|G5021]]

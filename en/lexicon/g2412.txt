@@ -1,0 +1,18 @@
+====== G2412: ἱεροπρεπής (hieroprepḗs) ======
+
+===== Source =====
+
+from [[en:lexicon:g2413|G2413]] and the same as [[en:lexicon:g4241|G4241]];
+
+===== Meaning =====
+
+reverent
+
+===== Usage =====
+
+as becometh holiness.
+
+===== Strongs References =====
+
+[[en:lexicon:g2413|G2413]]
+[[en:lexicon:g4241|G4241]]

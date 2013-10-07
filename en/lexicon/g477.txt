@@ -1,0 +1,18 @@
+====== G477: ἀντίθεσις (antíthesis) ======
+
+===== Source =====
+
+from a compound of [[en:lexicon:g473|G473]] and [[en:lexicon:g5087|G5087]];
+
+===== Meaning =====
+
+opposition, i.e. a conflict (of theories)
+
+===== Usage =====
+
+opposition.
+
+===== Strongs References =====
+
+[[en:lexicon:g473|G473]]
+[[en:lexicon:g5087|G5087]]

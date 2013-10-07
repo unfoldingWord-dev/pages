@@ -1,0 +1,19 @@
+====== G4785: συγκαταψηφίζω (synkatapsēphízō) ======
+
+===== Source =====
+
+from [[en:lexicon:g4862|G4862]] and a compound of [[en:lexicon:g2596|G2596]] and [[en:lexicon:g5585|G5585]];
+
+===== Meaning =====
+
+to count down in company with, i.e. enroll among
+
+===== Usage =====
+
+number with.
+
+===== Strongs References =====
+
+[[en:lexicon:g4862|G4862]]
+[[en:lexicon:g2596|G2596]]
+[[en:lexicon:g5585|G5585]]

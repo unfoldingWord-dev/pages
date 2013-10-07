@@ -1,0 +1,17 @@
+====== G4101: πιστικός (pistikós) ======
+
+===== Source =====
+
+from [[en:lexicon:g4102|G4102]];
+
+===== Meaning =====
+
+trustworthy, i.e. genuine (unadulterated)
+
+===== Usage =====
+
+spike-(nard).
+
+===== Strongs References =====
+
+[[en:lexicon:g4102|G4102]]

@@ -1,0 +1,19 @@
+====== G3658: ὅμιλος (hómilos) ======
+
+===== Source =====
+
+from the base of [[en:lexicon:g3674|G3674]] and a derivative of the alternate of [[en:lexicon:g138|G138]]
+ (meaning a crowd);
+
+===== Meaning =====
+
+association together, i.e. a multitude
+
+===== Usage =====
+
+company.
+
+===== Strongs References =====
+
+[[en:lexicon:g3674|G3674]]
+[[en:lexicon:g138|G138]]

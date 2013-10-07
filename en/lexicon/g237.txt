@@ -1,0 +1,17 @@
+====== G237: ἀλλαχόθεν (allachóthen) ======
+
+===== Source =====
+
+from [[en:lexicon:g243|G243]];
+
+===== Meaning =====
+
+from elsewhere
+
+===== Usage =====
+
+some other way.
+
+===== Strongs References =====
+
+[[en:lexicon:g243|G243]]

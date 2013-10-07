@@ -1,0 +1,22 @@
+====== H7950: שֶׁלֶג (sheleg) ======
+
+===== Part of Speech =====
+
+noun - masculine
+
+===== Source =====
+
+from [[en:lexicon:h7949|H7949]];
+
+===== Meaning =====
+
+**snow** (probably from its **whiteness**)
+
+===== Definitions =====
+
+  - snow
+  - whiteness
+
+===== Usage =====
+
+snow(-y).

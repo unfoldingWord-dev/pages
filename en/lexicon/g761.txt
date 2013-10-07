@@ -1,0 +1,18 @@
+====== G761: ἀσάλευτος (asáleutos) ======
+
+===== Source =====
+
+from [[en:lexicon:g1|G1]] (as a negative particle) and a derivative of [[en:lexicon:g4531|G4531]];
+
+===== Meaning =====
+
+unshaken, i.e. (by implication) immovable (figuratively)
+
+===== Usage =====
+
+which cannot be moved, unmovable.
+
+===== Strongs References =====
+
+[[en:lexicon:g1|G1]]
+[[en:lexicon:g4531|G4531]]

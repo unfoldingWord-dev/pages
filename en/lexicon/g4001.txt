@@ -1,0 +1,18 @@
+====== G4001: πεντακόσιοι (pentakósioi) ======
+
+===== Source =====
+
+from [[en:lexicon:g4002|G4002]] and [[en:lexicon:g1540|G1540]];
+
+===== Meaning =====
+
+five hundred
+
+===== Usage =====
+
+five hundred.
+
+===== Strongs References =====
+
+[[en:lexicon:g4002|G4002]]
+[[en:lexicon:g1540|G1540]]

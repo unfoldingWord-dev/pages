@@ -1,0 +1,17 @@
+====== G4575: σεβαστός (sebastós) ======
+
+===== Source =====
+
+from [[en:lexicon:g4573|G4573]];
+
+===== Meaning =====
+
+venerable (august), i.e. (as noun) a title of the Roman Emperor, or (as adjective) imperial
+
+===== Usage =====
+
+Augustus(-').
+
+===== Strongs References =====
+
+[[en:lexicon:g4573|G4573]]

@@ -1,0 +1,18 @@
+====== G1853: ἔξυπνος (éxypnos) ======
+
+===== Source =====
+
+from [[en:lexicon:g1537|G1537]] and [[en:lexicon:g5258|G5258]];
+
+===== Meaning =====
+
+awake
+
+===== Usage =====
+
+X out of sleep.
+
+===== Strongs References =====
+
+[[en:lexicon:g1537|G1537]]
+[[en:lexicon:g5258|G5258]]

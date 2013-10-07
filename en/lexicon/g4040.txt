@@ -1,0 +1,18 @@
+====== G4040: περίοικος (períoikos) ======
+
+===== Source =====
+
+from [[en:lexicon:g4012|G4012]] and [[en:lexicon:g3624|G3624]];
+
+===== Meaning =====
+
+housed around, i.e. neighboring (used elliptically as a noun)
+
+===== Usage =====
+
+neighbour.
+
+===== Strongs References =====
+
+[[en:lexicon:g4012|G4012]]
+[[en:lexicon:g3624|G3624]]

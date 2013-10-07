@@ -1,0 +1,18 @@
+====== G1215: δημηγορέω (dēmēgoréō) ======
+
+===== Source =====
+
+from a compound of [[en:lexicon:g1218|G1218]] and [[en:lexicon:g58|G58]];
+
+===== Meaning =====
+
+to be a people-gatherer, i.e. to address a public assembly
+
+===== Usage =====
+
+make an oration.
+
+===== Strongs References =====
+
+[[en:lexicon:g1218|G1218]]
+[[en:lexicon:g58|G58]]

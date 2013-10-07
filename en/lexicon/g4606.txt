@@ -1,0 +1,17 @@
+====== G4606: Σιδώνιος (Sidṓnios) ======
+
+===== Source =====
+
+from [[en:lexicon:g4605|G4605]];
+
+===== Meaning =====
+
+a Sidonian, i.e. inhabitant of Sidon
+
+===== Usage =====
+
+of Sidon.
+
+===== Strongs References =====
+
+[[en:lexicon:g4605|G4605]]

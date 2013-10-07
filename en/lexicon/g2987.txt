@@ -1,0 +1,17 @@
+====== G2987: λαμπρότης (lamprótēs) ======
+
+===== Source =====
+
+from [[en:lexicon:g2986|G2986]];
+
+===== Meaning =====
+
+brilliancy
+
+===== Usage =====
+
+brightness.
+
+===== Strongs References =====
+
+[[en:lexicon:g2986|G2986]]

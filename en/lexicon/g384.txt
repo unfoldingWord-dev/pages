@@ -1,0 +1,18 @@
+====== G384: ἀνασκευάζω (anaskeuázō) ======
+
+===== Source =====
+
+from [[en:lexicon:g303|G303]] (in the sense of reversal) and a derivative of [[en:lexicon:g4632|G4632]];
+
+===== Meaning =====
+
+properly, to pack up (baggage), i.e. (by implication, and figuratively) to upset
+
+===== Usage =====
+
+subvert.
+
+===== Strongs References =====
+
+[[en:lexicon:g303|G303]]
+[[en:lexicon:g4632|G4632]]

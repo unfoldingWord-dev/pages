@@ -1,0 +1,17 @@
+====== G3850: παραβολή (parabolḗ) ======
+
+===== Source =====
+
+from [[en:lexicon:g3846|G3846]];
+
+===== Meaning =====
+
+a similitude ("parable"), i.e. (symbolic) fictitious narrative (of common life conveying a moral), apothegm or adage
+
+===== Usage =====
+
+comparison, figure, parable, proverb.
+
+===== Strongs References =====
+
+[[en:lexicon:g3846|G3846]]

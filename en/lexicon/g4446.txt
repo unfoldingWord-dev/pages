@@ -1,0 +1,17 @@
+====== G4446: πυρετός (pyretós) ======
+
+===== Source =====
+
+from [[en:lexicon:g4445|G4445]];
+
+===== Meaning =====
+
+inflamed, i.e. (by implication) feverish (as noun, fever)
+
+===== Usage =====
+
+fever.
+
+===== Strongs References =====
+
+[[en:lexicon:g4445|G4445]]

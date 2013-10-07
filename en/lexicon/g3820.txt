@@ -1,0 +1,17 @@
+====== G3820: παλαιός (palaiós) ======
+
+===== Source =====
+
+from [[en:lexicon:g3819|G3819]];
+
+===== Meaning =====
+
+antique, i.e. not recent, worn out
+
+===== Usage =====
+
+old.
+
+===== Strongs References =====
+
+[[en:lexicon:g3819|G3819]]

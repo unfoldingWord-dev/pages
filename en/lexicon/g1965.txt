@@ -1,0 +1,18 @@
+====== G1965: ἐπίορκος (epíorkos) ======
+
+===== Source =====
+
+from [[en:lexicon:g1909|G1909]] and [[en:lexicon:g3727|G3727]];
+
+===== Meaning =====
+
+on oath, i.e. (falsely) a forswearer
+
+===== Usage =====
+
+perjured person.
+
+===== Strongs References =====
+
+[[en:lexicon:g1909|G1909]]
+[[en:lexicon:g3727|G3727]]

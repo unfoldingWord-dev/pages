@@ -1,0 +1,18 @@
+====== G670: ἀποφορτίζομαι (apophortízomai) ======
+
+===== Source =====
+
+from [[en:lexicon:g575|G575]] and the middle voice of [[en:lexicon:g5412|G5412]];
+
+===== Meaning =====
+
+to unload
+
+===== Usage =====
+
+unlade.
+
+===== Strongs References =====
+
+[[en:lexicon:g575|G575]]
+[[en:lexicon:g5412|G5412]]

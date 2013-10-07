@@ -1,0 +1,18 @@
+====== G3943: πάροινος (pároinos) ======
+
+===== Source =====
+
+from [[en:lexicon:g3844|G3844]] and [[en:lexicon:g3631|G3631]];
+
+===== Meaning =====
+
+staying near wine, i.e. tippling (a toper)
+
+===== Usage =====
+
+given to wine.
+
+===== Strongs References =====
+
+[[en:lexicon:g3844|G3844]]
+[[en:lexicon:g3631|G3631]]

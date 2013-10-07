@@ -1,0 +1,18 @@
+====== G568: ἀπέχω (apéchō) ======
+
+===== Source =====
+
+from [[en:lexicon:g575|G575]] and [[en:lexicon:g2192|G2192]];
+
+===== Meaning =====
+
+(actively) to have out, i.e. receive in full; (intransitively) to keep (oneself) away, i.e. be distant (literally or figuratively)
+
+===== Usage =====
+
+be, have, receive.
+
+===== Strongs References =====
+
+[[en:lexicon:g575|G575]]
+[[en:lexicon:g2192|G2192]]

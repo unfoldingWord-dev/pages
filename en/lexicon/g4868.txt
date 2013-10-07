@@ -1,0 +1,18 @@
+====== G4868: συναίρω (synaírō) ======
+
+===== Source =====
+
+from [[en:lexicon:g4862|G4862]] and [[en:lexicon:g142|G142]];
+
+===== Meaning =====
+
+to make up together, i.e. (figuratively) to compute (an account)
+
+===== Usage =====
+
+reckon, take.
+
+===== Strongs References =====
+
+[[en:lexicon:g4862|G4862]]
+[[en:lexicon:g142|G142]]

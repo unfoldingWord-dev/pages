@@ -1,0 +1,17 @@
+====== G3821: παλαιότης (palaiótēs) ======
+
+===== Source =====
+
+from [[en:lexicon:g3820|G3820]];
+
+===== Meaning =====
+
+antiquatedness
+
+===== Usage =====
+
+oldness.
+
+===== Strongs References =====
+
+[[en:lexicon:g3820|G3820]]

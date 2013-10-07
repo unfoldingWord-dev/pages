@@ -1,0 +1,18 @@
+====== G549: ἄπειμι (ápeimi) ======
+
+===== Source =====
+
+from [[en:lexicon:g575|G575]] and εἶμι (eîmi) (to go);
+
+===== Meaning =====
+
+to go away
+
+===== Usage =====
+
+go.
+
+===== Strongs References =====
+
+[[en:lexicon:g575|G575]]
+[[en:lexicon:g548|G548]]

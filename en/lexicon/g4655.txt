@@ -1,0 +1,17 @@
+====== G4655: σκότος (skótos) ======
+
+===== Source =====
+
+from the base of [[en:lexicon:g4639|G4639]];
+
+===== Meaning =====
+
+shadiness, i.e. obscurity (literally or figuratively)
+
+===== Usage =====
+
+darkness.
+
+===== Strongs References =====
+
+[[en:lexicon:g4639|G4639]]

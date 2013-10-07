@@ -1,0 +1,19 @@
+====== G5147: τρίβος (tríbos) ======
+
+===== Source =====
+
+from τρίβω (tríbō) (to "rub"; akin to τείρω (teírō), τρύω (trýō), and the base of [[en:lexicon:g5131|G5131]],
+ [[en:lexicon:g5134|G5134]]);
+
+===== Meaning =====
+
+a rut or worn track
+
+===== Usage =====
+
+path.
+
+===== Strongs References =====
+
+[[en:lexicon:g5131|G5131]]
+[[en:lexicon:g5134|G5134]]

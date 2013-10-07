@@ -1,0 +1,17 @@
+====== G4833: συμμορφόω (symmorphóō) ======
+
+===== Source =====
+
+from [[en:lexicon:g4832|G4832]];
+
+===== Meaning =====
+
+to render like, i.e. (figuratively) to assimilate
+
+===== Usage =====
+
+make conformable unto.
+
+===== Strongs References =====
+
+[[en:lexicon:g4832|G4832]]

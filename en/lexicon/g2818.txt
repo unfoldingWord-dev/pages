@@ -1,0 +1,19 @@
+====== G2818: κληρονόμος (klēronómos) ======
+
+===== Source =====
+
+from [[en:lexicon:g2819|G2819]] and the base of [[en:lexicon:g3551|G3551]] (in its original sense of partitioning,
+ i.e. (reflexively) getting by apportionment);
+
+===== Meaning =====
+
+a sharer by lot, i.e. inheritor (literally or figuratively); by implication, a possessor
+
+===== Usage =====
+
+heir.
+
+===== Strongs References =====
+
+[[en:lexicon:g2819|G2819]]
+[[en:lexicon:g3551|G3551]]

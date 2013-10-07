@@ -1,0 +1,18 @@
+====== G1736: ἐνδημέω (endēméō) ======
+
+===== Source =====
+
+from a compound of [[en:lexicon:g1722|G1722]] and [[en:lexicon:g1218|G1218]];
+
+===== Meaning =====
+
+to be in one's own country, i.e. home (figuratively)
+
+===== Usage =====
+
+be at home (present).
+
+===== Strongs References =====
+
+[[en:lexicon:g1722|G1722]]
+[[en:lexicon:g1218|G1218]]

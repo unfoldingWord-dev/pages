@@ -1,0 +1,17 @@
+====== G4343: προσκαρτέρησις (proskartérēsis) ======
+
+===== Source =====
+
+from [[en:lexicon:g4342|G4342]];
+
+===== Meaning =====
+
+persistancy
+
+===== Usage =====
+
+perseverance.
+
+===== Strongs References =====
+
+[[en:lexicon:g4342|G4342]]

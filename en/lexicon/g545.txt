@@ -1,0 +1,18 @@
+====== G545: ἀπειθής (apeithḗs) ======
+
+===== Source =====
+
+from [[en:lexicon:g1|G1]] (as a negative particle) and [[en:lexicon:g3982|G3982]];
+
+===== Meaning =====
+
+unpersuadable, i.e. contumacious
+
+===== Usage =====
+
+disobedient.
+
+===== Strongs References =====
+
+[[en:lexicon:g1|G1]]
+[[en:lexicon:g3982|G3982]]

@@ -1,0 +1,17 @@
+====== G2938: κτίσμα (ktísma) ======
+
+===== Source =====
+
+from [[en:lexicon:g2936|G2936]];
+
+===== Meaning =====
+
+an original formation (concretely), i.e. product (created thing)
+
+===== Usage =====
+
+creature.
+
+===== Strongs References =====
+
+[[en:lexicon:g2936|G2936]]

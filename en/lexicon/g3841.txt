@@ -1,0 +1,18 @@
+====== G3841: παντοκράτωρ (pantokrátōr) ======
+
+===== Source =====
+
+from [[en:lexicon:g3956|G3956]] and [[en:lexicon:g2904|G2904]];
+
+===== Meaning =====
+
+the all-ruling, i.e. God (as absolute and universal sovereign)
+
+===== Usage =====
+
+Almighty, Omnipotent.
+
+===== Strongs References =====
+
+[[en:lexicon:g3956|G3956]]
+[[en:lexicon:g2904|G2904]]

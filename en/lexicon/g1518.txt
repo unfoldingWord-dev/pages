@@ -1,0 +1,18 @@
+====== G1518: εἰρηνοποιός (eirēnopoiós) ======
+
+===== Source =====
+
+from [[en:lexicon:g1515|G1515]] and [[en:lexicon:g4160|G4160]];
+
+===== Meaning =====
+
+pacificatory, i.e. (subjectively) peaceable
+
+===== Usage =====
+
+peacemaker.
+
+===== Strongs References =====
+
+[[en:lexicon:g1515|G1515]]
+[[en:lexicon:g4160|G4160]]

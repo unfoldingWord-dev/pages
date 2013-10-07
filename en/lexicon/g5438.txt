@@ -1,0 +1,17 @@
+====== G5438: φυλακή (phylakḗ) ======
+
+===== Source =====
+
+from [[en:lexicon:g5442|G5442]];
+
+===== Meaning =====
+
+a guarding or (concretely, guard), the act, the person; figuratively, the place, the condition, or (specially), the time (as a division of day or night), literally or figuratively
+
+===== Usage =====
+
+cage, hold, (im-)prison(-ment), ward, watch.
+
+===== Strongs References =====
+
+[[en:lexicon:g5442|G5442]]

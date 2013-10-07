@@ -1,0 +1,18 @@
+====== G3838: παντελής (pantelḗs) ======
+
+===== Source =====
+
+from [[en:lexicon:g3956|G3956]] and [[en:lexicon:g5056|G5056]];
+
+===== Meaning =====
+
+full-ended, i.e. entire (neuter as noun, completion)
+
+===== Usage =====
+
++ in (no) wise, uttermost.
+
+===== Strongs References =====
+
+[[en:lexicon:g3956|G3956]]
+[[en:lexicon:g5056|G5056]]

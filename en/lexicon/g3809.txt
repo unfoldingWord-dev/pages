@@ -1,0 +1,17 @@
+====== G3809: παιδεία (paideía) ======
+
+===== Source =====
+
+from [[en:lexicon:g3811|G3811]];
+
+===== Meaning =====
+
+tutorage, i.e. education or training; by implication, disciplinary correction
+
+===== Usage =====
+
+chastening, chastisement, instruction, nurture.
+
+===== Strongs References =====
+
+[[en:lexicon:g3811|G3811]]

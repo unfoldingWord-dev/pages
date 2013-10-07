@@ -1,0 +1,18 @@
+====== G2131: Εὐνίκη (Euníkē) ======
+
+===== Source =====
+
+from [[en:lexicon:g2095|G2095]] and [[en:lexicon:g3529|G3529]];
+
+===== Meaning =====
+
+victorious; Eunice, a Jewess
+
+===== Usage =====
+
+Eunice.
+
+===== Strongs References =====
+
+[[en:lexicon:g2095|G2095]]
+[[en:lexicon:g3529|G3529]]

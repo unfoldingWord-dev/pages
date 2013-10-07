@@ -1,0 +1,18 @@
+====== G5361: φιλάδελφος (philádelphos) ======
+
+===== Source =====
+
+from [[en:lexicon:g5384|G5384]] and [[en:lexicon:g80|G80]];
+
+===== Meaning =====
+
+fond of brethren, i.e. fraternal
+
+===== Usage =====
+
+love as brethren.
+
+===== Strongs References =====
+
+[[en:lexicon:g5384|G5384]]
+[[en:lexicon:g80|G80]]

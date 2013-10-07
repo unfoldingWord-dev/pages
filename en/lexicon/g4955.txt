@@ -1,0 +1,18 @@
+====== G4955: συστασιαστής (systasiastḗs) ======
+
+===== Source =====
+
+from a compound of [[en:lexicon:g4862|G4862]] and a derivative of [[en:lexicon:g4714|G4714]];
+
+===== Meaning =====
+
+a fellow-insurgent
+
+===== Usage =====
+
+make insurrection with.
+
+===== Strongs References =====
+
+[[en:lexicon:g4862|G4862]]
+[[en:lexicon:g4714|G4714]]

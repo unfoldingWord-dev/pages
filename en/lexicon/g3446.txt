@@ -1,0 +1,17 @@
+====== G3446: μόρφωσις (mórphōsis) ======
+
+===== Source =====
+
+from [[en:lexicon:g3445|G3445]];
+
+===== Meaning =====
+
+formation, i.e. (by implication), appearance (semblance or (concretely) formula)
+
+===== Usage =====
+
+form.
+
+===== Strongs References =====
+
+[[en:lexicon:g3445|G3445]]

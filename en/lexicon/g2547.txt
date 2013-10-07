@@ -1,0 +1,18 @@
+====== G2547: κἀκεῖθεν (kakeîthen) ======
+
+===== Source =====
+
+from [[en:lexicon:g2532|G2532]] and [[en:lexicon:g1564|G1564]];
+
+===== Meaning =====
+
+likewise from that place (or time)
+
+===== Usage =====
+
+and afterward (from) (thence), thence also.
+
+===== Strongs References =====
+
+[[en:lexicon:g2532|G2532]]
+[[en:lexicon:g1564|G1564]]

@@ -1,0 +1,18 @@
+====== G2127: εὐλογέω (eulogéō) ======
+
+===== Source =====
+
+from a compound of [[en:lexicon:g2095|G2095]] and [[en:lexicon:g3056|G3056]];
+
+===== Meaning =====
+
+to speak well of, i.e. (religiously) to bless (thank or invoke a benediction upon, prosper)
+
+===== Usage =====
+
+bless, praise.
+
+===== Strongs References =====
+
+[[en:lexicon:g2095|G2095]]
+[[en:lexicon:g3056|G3056]]

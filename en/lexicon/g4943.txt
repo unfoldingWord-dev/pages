@@ -1,0 +1,19 @@
+====== G4943: συνυπουργέω (synypourgéō) ======
+
+===== Source =====
+
+from [[en:lexicon:g4862|G4862]] and a derivative of a compound of [[en:lexicon:g5259|G5259]] and the base of [[en:lexicon:g2041|G2041]];
+
+===== Meaning =====
+
+to be a co-auxiliary, i.e. assist
+
+===== Usage =====
+
+help together.
+
+===== Strongs References =====
+
+[[en:lexicon:g4862|G4862]]
+[[en:lexicon:g5259|G5259]]
+[[en:lexicon:g2041|G2041]]

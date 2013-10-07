@@ -1,0 +1,18 @@
+====== G2515: καθέδρα (kathédra) ======
+
+===== Source =====
+
+from [[en:lexicon:g2596|G2596]] and the same as [[en:lexicon:g1476|G1476]];
+
+===== Meaning =====
+
+a bench (literally or figuratively)
+
+===== Usage =====
+
+seat.
+
+===== Strongs References =====
+
+[[en:lexicon:g2596|G2596]]
+[[en:lexicon:g1476|G1476]]

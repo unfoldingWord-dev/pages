@@ -1,0 +1,18 @@
+====== G4960: συστοιχέω (systoichéō) ======
+
+===== Source =====
+
+from [[en:lexicon:g4862|G4862]] and [[en:lexicon:g4748|G4748]];
+
+===== Meaning =====
+
+to file together (as soldiers in ranks), i.e. (figuratively) to correspond to
+
+===== Usage =====
+
+answer to.
+
+===== Strongs References =====
+
+[[en:lexicon:g4862|G4862]]
+[[en:lexicon:g4748|G4748]]

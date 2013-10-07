@@ -1,0 +1,17 @@
+====== G233: ἁλίζω (halízō) ======
+
+===== Source =====
+
+from [[en:lexicon:g251|G251]];
+
+===== Meaning =====
+
+to salt
+
+===== Usage =====
+
+salt.
+
+===== Strongs References =====
+
+[[en:lexicon:g251|G251]]

@@ -1,0 +1,17 @@
+====== G4356: πρόσληψις (próslēpsis) ======
+
+===== Source =====
+
+from [[en:lexicon:g4355|G4355]];
+
+===== Meaning =====
+
+admission
+
+===== Usage =====
+
+receiving.
+
+===== Strongs References =====
+
+[[en:lexicon:g4355|G4355]]

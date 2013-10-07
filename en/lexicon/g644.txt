@@ -1,0 +1,18 @@
+====== G644: ἀποσκίασμα (aposkíasma) ======
+
+===== Source =====
+
+from a compound of [[en:lexicon:g575|G575]] and a derivative of [[en:lexicon:g4639|G4639]];
+
+===== Meaning =====
+
+a shading off, i.e. obscuration
+
+===== Usage =====
+
+shadow.
+
+===== Strongs References =====
+
+[[en:lexicon:g575|G575]]
+[[en:lexicon:g4639|G4639]]

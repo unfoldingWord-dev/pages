@@ -1,0 +1,18 @@
+====== G4270: προγράφω (prográphō) ======
+
+===== Source =====
+
+from [[en:lexicon:g4253|G4253]] and [[en:lexicon:g1125|G1125]];
+
+===== Meaning =====
+
+to write previously; figuratively, to announce, prescribe
+
+===== Usage =====
+
+before ordain, evidently set forth, write (afore, aforetime).
+
+===== Strongs References =====
+
+[[en:lexicon:g4253|G4253]]
+[[en:lexicon:g1125|G1125]]

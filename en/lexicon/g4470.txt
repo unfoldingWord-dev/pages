@@ -1,0 +1,17 @@
+====== G4470: ῥάκος (rhákos) ======
+
+===== Source =====
+
+from [[en:lexicon:g4486|G4486]];
+
+===== Meaning =====
+
+a "rag," i.e. piece of cloth
+
+===== Usage =====
+
+cloth.
+
+===== Strongs References =====
+
+[[en:lexicon:g4486|G4486]]

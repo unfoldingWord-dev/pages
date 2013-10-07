@@ -1,0 +1,18 @@
+====== G3385: μήτι (mḗti) ======
+
+===== Source =====
+
+from [[en:lexicon:g3361|G3361]] and the neuter of [[en:lexicon:g5100|G5100]];
+
+===== Meaning =====
+
+whether at all
+
+===== Usage =====
+
+not (the particle usually not expressed, except by the form of the question).
+
+===== Strongs References =====
+
+[[en:lexicon:g3361|G3361]]
+[[en:lexicon:g5100|G5100]]

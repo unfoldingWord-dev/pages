@@ -1,0 +1,17 @@
+====== G4867: συναθροίζω (synathroízō) ======
+
+===== Source =====
+
+from [[en:lexicon:g4862|G4862]] and ἀθροίζω (athroízō) (to hoard);
+
+===== Meaning =====
+
+to convene
+
+===== Usage =====
+
+call (gather) together.
+
+===== Strongs References =====
+
+[[en:lexicon:g4862|G4862]]

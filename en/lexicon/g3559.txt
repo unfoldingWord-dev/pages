@@ -1,0 +1,18 @@
+====== G3559: νουθεσία (nouthesía) ======
+
+===== Source =====
+
+from [[en:lexicon:g3563|G3563]] and a derivative of [[en:lexicon:g5087|G5087]];
+
+===== Meaning =====
+
+calling attention to, i.e. (by implication) mild rebuke or warning
+
+===== Usage =====
+
+admonition.
+
+===== Strongs References =====
+
+[[en:lexicon:g3563|G3563]]
+[[en:lexicon:g5087|G5087]]

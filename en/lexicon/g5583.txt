@@ -1,0 +1,17 @@
+====== G5583: ψεύστης (pseústēs) ======
+
+===== Source =====
+
+from [[en:lexicon:g5574|G5574]];
+
+===== Meaning =====
+
+a falsifier
+
+===== Usage =====
+
+liar.
+
+===== Strongs References =====
+
+[[en:lexicon:g5574|G5574]]

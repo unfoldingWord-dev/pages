@@ -1,0 +1,18 @@
+====== G870: ἀφόβως (aphóbōs) ======
+
+===== Source =====
+
+adverb from a compound of [[en:lexicon:g1|G1]] (as a negative particle) and [[en:lexicon:g5401|G5401]];
+
+===== Meaning =====
+
+fearlessly
+
+===== Usage =====
+
+without fear.
+
+===== Strongs References =====
+
+[[en:lexicon:g1|G1]]
+[[en:lexicon:g5401|G5401]]

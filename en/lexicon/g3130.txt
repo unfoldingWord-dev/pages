@@ -1,0 +1,17 @@
+====== G3130: μανία (manía) ======
+
+===== Source =====
+
+from [[en:lexicon:g3105|G3105]];
+
+===== Meaning =====
+
+craziness
+
+===== Usage =====
+
+(+ make) X mad.
+
+===== Strongs References =====
+
+[[en:lexicon:g3105|G3105]]

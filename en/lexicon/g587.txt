@@ -1,0 +1,17 @@
+====== G587: ἀπόδεκτος (apódektos) ======
+
+===== Source =====
+
+from [[en:lexicon:g588|G588]];
+
+===== Meaning =====
+
+accepted, i.e. agreeable
+
+===== Usage =====
+
+acceptable.
+
+===== Strongs References =====
+
+[[en:lexicon:g588|G588]]

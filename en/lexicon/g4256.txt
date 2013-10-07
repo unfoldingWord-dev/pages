@@ -1,0 +1,18 @@
+====== G4256: προαιτιάομαι (proaitiáomai) ======
+
+===== Source =====
+
+from [[en:lexicon:g4253|G4253]] and a derivative of [[en:lexicon:g156|G156]];
+
+===== Meaning =====
+
+to accuse already, i.e. previously charge
+
+===== Usage =====
+
+prove before.
+
+===== Strongs References =====
+
+[[en:lexicon:g4253|G4253]]
+[[en:lexicon:g156|G156]]

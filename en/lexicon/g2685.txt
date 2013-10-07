@@ -1,0 +1,18 @@
+====== G2685: κατάσκοπος (katáskopos) ======
+
+===== Source =====
+
+from [[en:lexicon:g2596|G2596]] (intensive) and [[en:lexicon:g4649|G4649]] (in the sense of a watcher);
+
+===== Meaning =====
+
+a reconnoiterer
+
+===== Usage =====
+
+spy.
+
+===== Strongs References =====
+
+[[en:lexicon:g2596|G2596]]
+[[en:lexicon:g4649|G4649]]

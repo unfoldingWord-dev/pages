@@ -1,0 +1,18 @@
+====== G5533: χρεωφειλέτης (chreōpheilétēs) ======
+
+===== Source =====
+
+from a derivative of [[en:lexicon:g5531|G5531]] and [[en:lexicon:g3781|G3781]];
+
+===== Meaning =====
+
+a loan-ower, i.e. indebted person
+
+===== Usage =====
+
+debtor.
+
+===== Strongs References =====
+
+[[en:lexicon:g5531|G5531]]
+[[en:lexicon:g3781|G3781]]

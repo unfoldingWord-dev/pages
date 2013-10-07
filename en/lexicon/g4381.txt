@@ -1,0 +1,18 @@
+====== G4381: προσωπολήπτης (prosōpolḗptēs) ======
+
+===== Source =====
+
+from [[en:lexicon:g4383|G4383]] and [[en:lexicon:g2983|G2983]];
+
+===== Meaning =====
+
+an accepter of a face (individual), i.e. (specially), one exhibiting partiality
+
+===== Usage =====
+
+respecter of persons.
+
+===== Strongs References =====
+
+[[en:lexicon:g4383|G4383]]
+[[en:lexicon:g2983|G2983]]

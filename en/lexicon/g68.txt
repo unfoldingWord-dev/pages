@@ -1,0 +1,17 @@
+====== G68: ἀγρός (agrós) ======
+
+===== Source =====
+
+from [[en:lexicon:g71|G71]];
+
+===== Meaning =====
+
+a field (as a drive for cattle); genitive case, the country; specially, a farm, i.e. hamlet
+
+===== Usage =====
+
+country, farm, piece of ground, land.
+
+===== Strongs References =====
+
+[[en:lexicon:g71|G71]]

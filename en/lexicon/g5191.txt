@@ -1,0 +1,17 @@
+====== G5191: ὑακίνθινος (hyakínthinos) ======
+
+===== Source =====
+
+from [[en:lexicon:g5192|G5192]];
+
+===== Meaning =====
+
+"hyacinthine" or "jacinthine", i.e. deep blue
+
+===== Usage =====
+
+jacinth.
+
+===== Strongs References =====
+
+[[en:lexicon:g5192|G5192]]

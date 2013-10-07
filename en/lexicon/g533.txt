@@ -1,0 +1,18 @@
+====== G533: ἀπαρνέομαι (aparnéomai) ======
+
+===== Source =====
+
+from [[en:lexicon:g575|G575]] and [[en:lexicon:g720|G720]];
+
+===== Meaning =====
+
+to deny utterly, i.e. disown, abstain
+
+===== Usage =====
+
+deny.
+
+===== Strongs References =====
+
+[[en:lexicon:g575|G575]]
+[[en:lexicon:g720|G720]]

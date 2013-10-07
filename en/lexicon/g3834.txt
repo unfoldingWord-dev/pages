@@ -1,0 +1,17 @@
+====== G3834: πανουργία (panourgía) ======
+
+===== Source =====
+
+from [[en:lexicon:g3835|G3835]];
+
+===== Meaning =====
+
+adroitness, i.e. (in a bad sense) trickery or sophistry
+
+===== Usage =====
+
+(cunning) craftiness, subtilty.
+
+===== Strongs References =====
+
+[[en:lexicon:g3835|G3835]]

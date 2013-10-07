@@ -1,0 +1,17 @@
+====== G1119: γόνυ (góny) ======
+
+===== Source =====
+
+of uncertain affinity;
+
+===== Meaning =====
+
+the "knee"
+
+===== Usage =====
+
+knee(X -l).
+
+===== Strongs References =====
+
+

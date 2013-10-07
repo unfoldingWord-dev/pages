@@ -1,0 +1,18 @@
+====== G4774: συγγνώμη (syngnṓmē) ======
+
+===== Source =====
+
+from a compound of [[en:lexicon:g4862|G4862]] and [[en:lexicon:g1097|G1097]];
+
+===== Meaning =====
+
+fellow knowledge, i.e. concession
+
+===== Usage =====
+
+permission.
+
+===== Strongs References =====
+
+[[en:lexicon:g4862|G4862]]
+[[en:lexicon:g1097|G1097]]

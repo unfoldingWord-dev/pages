@@ -1,0 +1,18 @@
+====== G4021: περίεργος (períergos) ======
+
+===== Source =====
+
+from [[en:lexicon:g4012|G4012]] and [[en:lexicon:g2041|G2041]];
+
+===== Meaning =====
+
+working all around, i.e. officious (meddlesome, neuter plural magic)
+
+===== Usage =====
+
+busybody, curious arts.
+
+===== Strongs References =====
+
+[[en:lexicon:g4012|G4012]]
+[[en:lexicon:g2041|G2041]]

@@ -1,0 +1,18 @@
+====== G5153: τρισχίλιοι (trischílioi) ======
+
+===== Source =====
+
+from [[en:lexicon:g5151|G5151]] and [[en:lexicon:g5507|G5507]];
+
+===== Meaning =====
+
+three times a thousand
+
+===== Usage =====
+
+three thousand.
+
+===== Strongs References =====
+
+[[en:lexicon:g5151|G5151]]
+[[en:lexicon:g5507|G5507]]

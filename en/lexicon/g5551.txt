@@ -1,0 +1,18 @@
+====== G5551: χρονοτριβέω (chronotribéō) ======
+
+===== Source =====
+
+from a presumed compound of [[en:lexicon:g5550|G5550]] and the base of [[en:lexicon:g5147|G5147]];
+
+===== Meaning =====
+
+to be a time-wearer, i.e. to procrastinate (linger)
+
+===== Usage =====
+
+spend time.
+
+===== Strongs References =====
+
+[[en:lexicon:g5550|G5550]]
+[[en:lexicon:g5147|G5147]]

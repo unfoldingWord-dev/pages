@@ -1,0 +1,18 @@
+====== G4859: σύμφωνος (sýmphōnos) ======
+
+===== Source =====
+
+from [[en:lexicon:g4862|G4862]] and [[en:lexicon:g5456|G5456]];
+
+===== Meaning =====
+
+sounding together (alike), i.e. (figuratively) accordant (neuter as noun, agreement)
+
+===== Usage =====
+
+ consent.
+
+===== Strongs References =====
+
+[[en:lexicon:g4862|G4862]]
+[[en:lexicon:g5456|G5456]]

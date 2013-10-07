@@ -1,0 +1,17 @@
+====== G1317: διδακτικός (didaktikós) ======
+
+===== Source =====
+
+from [[en:lexicon:g1318|G1318]];
+
+===== Meaning =====
+
+instructive ("didactic")
+
+===== Usage =====
+
+apt to teach.
+
+===== Strongs References =====
+
+[[en:lexicon:g1318|G1318]]

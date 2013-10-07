@@ -1,0 +1,18 @@
+====== G1844: ἐξορκίζω (exorkízō) ======
+
+===== Source =====
+
+from [[en:lexicon:g1537|G1537]] and [[en:lexicon:g3726|G3726]];
+
+===== Meaning =====
+
+to exact an oath, i.e. conjure
+
+===== Usage =====
+
+adjure.
+
+===== Strongs References =====
+
+[[en:lexicon:g1537|G1537]]
+[[en:lexicon:g3726|G3726]]

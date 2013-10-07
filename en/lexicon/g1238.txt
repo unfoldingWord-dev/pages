@@ -1,0 +1,19 @@
+====== G1238: διάδημα (diádēma) ======
+
+===== Source =====
+
+from a compound of [[en:lexicon:g1223|G1223]] and [[en:lexicon:g1210|G1210]];
+
+===== Meaning =====
+
+a "diadem" (as bound about the head)
+
+===== Usage =====
+
+crown.
+
+===== Strongs References =====
+
+[[en:lexicon:g1223|G1223]]
+[[en:lexicon:g1210|G1210]]
+[[en:lexicon:g4735|G4735]]

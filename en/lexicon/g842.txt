@@ -1,0 +1,18 @@
+====== G842: αὐτάρκης (autárkēs) ======
+
+===== Source =====
+
+from [[en:lexicon:g846|G846]] and [[en:lexicon:g714|G714]];
+
+===== Meaning =====
+
+self-complacent, i.e. contented
+
+===== Usage =====
+
+content.
+
+===== Strongs References =====
+
+[[en:lexicon:g846|G846]]
+[[en:lexicon:g714|G714]]

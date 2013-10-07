@@ -1,0 +1,17 @@
+====== G403: ἀνάψυξις (anápsyxis) ======
+
+===== Source =====
+
+from [[en:lexicon:g404|G404]];
+
+===== Meaning =====
+
+properly, a recovery of breath, i.e. (figuratively) revival
+
+===== Usage =====
+
+revival.
+
+===== Strongs References =====
+
+[[en:lexicon:g404|G404]]

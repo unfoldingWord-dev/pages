@@ -1,0 +1,17 @@
+====== G5001: τάγμα (tágma) ======
+
+===== Source =====
+
+from [[en:lexicon:g5021|G5021]];
+
+===== Meaning =====
+
+something orderly in arrangement (a troop), i.e. (figuratively) a series or succession
+
+===== Usage =====
+
+order.
+
+===== Strongs References =====
+
+[[en:lexicon:g5021|G5021]]

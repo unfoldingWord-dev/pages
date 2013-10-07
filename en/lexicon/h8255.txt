@@ -1,0 +1,21 @@
+====== H8255: שֶׁקֶל (sheqel) ======
+
+===== Part of Speech =====
+
+noun - masculine
+
+===== Source =====
+
+from [[en:lexicon:h8254|H8254]];
+
+===== Meaning =====
+
+probably a **weight**; used as a commercial standard
+
+===== Definitions =====
+
+  - weight
+
+===== Usage =====
+
+shekel.

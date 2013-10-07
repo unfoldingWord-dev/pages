@@ -1,0 +1,18 @@
+====== G1481: ἐθνάρχης (ethnárchēs) ======
+
+===== Source =====
+
+from [[en:lexicon:g1484|G1484]] and [[en:lexicon:g746|G746]];
+
+===== Meaning =====
+
+the governor (not king) of a district
+
+===== Usage =====
+
+ethnarch.
+
+===== Strongs References =====
+
+[[en:lexicon:g1484|G1484]]
+[[en:lexicon:g746|G746]]

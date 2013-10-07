@@ -1,0 +1,18 @@
+====== G558: ἀπελεύθερος (apeleútheros) ======
+
+===== Source =====
+
+from [[en:lexicon:g575|G575]] and [[en:lexicon:g1658|G1658]];
+
+===== Meaning =====
+
+one freed away, i.e. a freedman
+
+===== Usage =====
+
+freeman.
+
+===== Strongs References =====
+
+[[en:lexicon:g575|G575]]
+[[en:lexicon:g1658|G1658]]

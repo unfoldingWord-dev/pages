@@ -1,0 +1,17 @@
+====== G3988: πεισμονή (peismonḗ) ======
+
+===== Source =====
+
+from a presumed derivative of [[en:lexicon:g3982|G3982]];
+
+===== Meaning =====
+
+persuadableness, i.e. credulity
+
+===== Usage =====
+
+persuasion.
+
+===== Strongs References =====
+
+[[en:lexicon:g3982|G3982]]

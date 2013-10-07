@@ -1,0 +1,18 @@
+====== G3925: παρεμβολή (parembolḗ) ======
+
+===== Source =====
+
+from a compound of [[en:lexicon:g3844|G3844]] and [[en:lexicon:g1685|G1685]];
+
+===== Meaning =====
+
+a throwing in beside (juxtaposition), i.e. (specially), battle-array, encampment or barracks (tower Antonia)
+
+===== Usage =====
+
+army, camp, castle.
+
+===== Strongs References =====
+
+[[en:lexicon:g3844|G3844]]
+[[en:lexicon:g1685|G1685]]

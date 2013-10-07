@@ -1,0 +1,17 @@
+====== G4127: πληγή (plēgḗ) ======
+
+===== Source =====
+
+from [[en:lexicon:g4141|G4141]];
+
+===== Meaning =====
+
+a stroke; by implication, a wound; figuratively, a calamity
+
+===== Usage =====
+
+plague, stripe, wound(-ed).
+
+===== Strongs References =====
+
+[[en:lexicon:g4141|G4141]]

@@ -1,0 +1,18 @@
+====== G665: ἀποτρέπω (apotrépō) ======
+
+===== Source =====
+
+from [[en:lexicon:g575|G575]] and the base of [[en:lexicon:g5157|G5157]];
+
+===== Meaning =====
+
+to deflect, i.e. (reflexively) avoid
+
+===== Usage =====
+
+turn away.
+
+===== Strongs References =====
+
+[[en:lexicon:g575|G575]]
+[[en:lexicon:g5157|G5157]]

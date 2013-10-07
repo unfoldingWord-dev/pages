@@ -1,0 +1,18 @@
+====== G5146: τρίβολος (tríbolos) ======
+
+===== Source =====
+
+from [[en:lexicon:g5140|G5140]] and [[en:lexicon:g956|G956]];
+
+===== Meaning =====
+
+properly, a crow-foot (three-pronged obstruction in war), i.e. (by analogy) a thorny plant (caltrop)
+
+===== Usage =====
+
+brier, thistle.
+
+===== Strongs References =====
+
+[[en:lexicon:g5140|G5140]]
+[[en:lexicon:g956|G956]]

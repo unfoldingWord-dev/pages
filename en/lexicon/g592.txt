@@ -1,0 +1,19 @@
+====== G592: ἀποδιορίζω (apodiorízō) ======
+
+===== Source =====
+
+from [[en:lexicon:g575|G575]] and a compound of [[en:lexicon:g1223|G1223]] and [[en:lexicon:g3724|G3724]];
+
+===== Meaning =====
+
+to disjoin (by a boundary, figuratively, a party)
+
+===== Usage =====
+
+separate.
+
+===== Strongs References =====
+
+[[en:lexicon:g575|G575]]
+[[en:lexicon:g1223|G1223]]
+[[en:lexicon:g3724|G3724]]

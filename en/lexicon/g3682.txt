@@ -1,0 +1,17 @@
+====== G3682: Ὀνήσιμος (Onḗsimos) ======
+
+===== Source =====
+
+from [[en:lexicon:g3685|G3685]];
+
+===== Meaning =====
+
+profitable; Onesimus, a Christian
+
+===== Usage =====
+
+Onesimus.
+
+===== Strongs References =====
+
+[[en:lexicon:g3685|G3685]]

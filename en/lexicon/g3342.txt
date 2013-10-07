@@ -1,0 +1,18 @@
+====== G3342: μεταξύ (metaxý) ======
+
+===== Source =====
+
+from [[en:lexicon:g3326|G3326]] and a form of [[en:lexicon:g4862|G4862]];
+
+===== Meaning =====
+
+betwixt (of place or person); (of time) as adjective, intervening, or (by implication) adjoining
+
+===== Usage =====
+
+between, mean while, next.
+
+===== Strongs References =====
+
+[[en:lexicon:g3326|G3326]]
+[[en:lexicon:g4862|G4862]]

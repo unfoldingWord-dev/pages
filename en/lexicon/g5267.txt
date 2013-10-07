@@ -1,0 +1,18 @@
+====== G5267: ὑπόδικος (hypódikos) ======
+
+===== Source =====
+
+from [[en:lexicon:g5259|G5259]] and [[en:lexicon:g1349|G1349]];
+
+===== Meaning =====
+
+under sentence, i.e. (by implication) condemned
+
+===== Usage =====
+
+guilty.
+
+===== Strongs References =====
+
+[[en:lexicon:g5259|G5259]]
+[[en:lexicon:g1349|G1349]]

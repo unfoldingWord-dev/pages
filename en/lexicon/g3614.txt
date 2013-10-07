@@ -1,0 +1,17 @@
+====== G3614: οἰκία (oikía) ======
+
+===== Source =====
+
+from [[en:lexicon:g3624|G3624]];
+
+===== Meaning =====
+
+properly, residence (abstractly), but usually (concretely) an abode (literally or figuratively); by implication, a family (especially domestics)
+
+===== Usage =====
+
+home, house(-hold).
+
+===== Strongs References =====
+
+[[en:lexicon:g3624|G3624]]

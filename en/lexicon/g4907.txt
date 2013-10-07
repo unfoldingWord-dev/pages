@@ -1,0 +1,17 @@
+====== G4907: σύνεσις (sýnesis) ======
+
+===== Source =====
+
+from [[en:lexicon:g4920|G4920]];
+
+===== Meaning =====
+
+a mental putting together, i.e. intelligence or (concretely) the intellect
+
+===== Usage =====
+
+knowledge, understanding.
+
+===== Strongs References =====
+
+[[en:lexicon:g4920|G4920]]

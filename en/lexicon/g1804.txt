@@ -1,0 +1,18 @@
+====== G1804: ἐξαγγέλλω (exangéllō) ======
+
+===== Source =====
+
+from [[en:lexicon:g1537|G1537]] and the base of [[en:lexicon:g32|G32]];
+
+===== Meaning =====
+
+to publish, i.e. celebrate
+
+===== Usage =====
+
+shew forth.
+
+===== Strongs References =====
+
+[[en:lexicon:g1537|G1537]]
+[[en:lexicon:g32|G32]]

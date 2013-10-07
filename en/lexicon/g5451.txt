@@ -1,0 +1,17 @@
+====== G5451: φυτεία (phyteía) ======
+
+===== Source =====
+
+from [[en:lexicon:g5452|G5452]];
+
+===== Meaning =====
+
+trans-planting, i.e. (concretely) a shrub or vegetable
+
+===== Usage =====
+
+plant.
+
+===== Strongs References =====
+
+[[en:lexicon:g5452|G5452]]

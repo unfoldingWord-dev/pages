@@ -1,0 +1,18 @@
+====== G2444: ἱνατί (hinatí) ======
+
+===== Source =====
+
+from [[en:lexicon:g2443|G2443]] and [[en:lexicon:g5101|G5101]];
+
+===== Meaning =====
+
+for what reason ?, i.e. why?
+
+===== Usage =====
+
+wherefore, why.
+
+===== Strongs References =====
+
+[[en:lexicon:g2443|G2443]]
+[[en:lexicon:g5101|G5101]]

@@ -1,0 +1,19 @@
+====== G90: ἀδιαφθορία (adiaphthoría) ======
+
+===== Source =====
+
+from a derivative of a compound of [[en:lexicon:g1|G1]] (as a negative particle) and a
+ derivative of [[en:lexicon:g1311|G1311]];
+
+===== Meaning =====
+
+incorruptibleness, i.e. (figuratively) purity (of doctrine)
+
+===== Usage =====
+
+uncorruptness.
+
+===== Strongs References =====
+
+[[en:lexicon:g1|G1]]
+[[en:lexicon:g1311|G1311]]

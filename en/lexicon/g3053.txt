@@ -1,0 +1,17 @@
+====== G3053: λογισμός (logismós) ======
+
+===== Source =====
+
+from [[en:lexicon:g3049|G3049]];
+
+===== Meaning =====
+
+computation, i.e. (figuratively) reasoning (conscience, conceit)
+
+===== Usage =====
+
+imagination, thought.
+
+===== Strongs References =====
+
+[[en:lexicon:g3049|G3049]]

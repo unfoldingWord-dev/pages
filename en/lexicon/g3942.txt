@@ -1,0 +1,18 @@
+====== G3942: παροιμία (paroimía) ======
+
+===== Source =====
+
+from a compound of [[en:lexicon:g3844|G3844]] and perhaps a derivative of [[en:lexicon:g3633|G3633]];
+
+===== Meaning =====
+
+apparently a state alongside of supposition, i.e. (concretely) an adage; specially, an enigmatical or fictitious illustration
+
+===== Usage =====
+
+parable, proverb.
+
+===== Strongs References =====
+
+[[en:lexicon:g3844|G3844]]
+[[en:lexicon:g3633|G3633]]

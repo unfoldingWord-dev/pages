@@ -1,0 +1,18 @@
+====== G3640: ὀλιγόπιστος (oligópistos) ======
+
+===== Source =====
+
+from [[en:lexicon:g3641|G3641]] and [[en:lexicon:g4102|G4102]];
+
+===== Meaning =====
+
+incredulous, i.e. lacking confidence (in Christ)
+
+===== Usage =====
+
+of little faith.
+
+===== Strongs References =====
+
+[[en:lexicon:g3641|G3641]]
+[[en:lexicon:g4102|G4102]]

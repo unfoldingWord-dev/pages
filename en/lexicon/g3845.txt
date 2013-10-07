@@ -1,0 +1,18 @@
+====== G3845: παραβαίνω (parabaínō) ======
+
+===== Source =====
+
+from [[en:lexicon:g3844|G3844]] and the base of [[en:lexicon:g939|G939]];
+
+===== Meaning =====
+
+to go contrary to, i.e. violate a command
+
+===== Usage =====
+
+(by) transgress(-ion).
+
+===== Strongs References =====
+
+[[en:lexicon:g3844|G3844]]
+[[en:lexicon:g939|G939]]

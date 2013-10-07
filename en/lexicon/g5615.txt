@@ -1,0 +1,18 @@
+====== G5615: ὡσαύτως (hōsaútōs) ======
+
+===== Source =====
+
+from [[en:lexicon:g5613|G5613]] and an adverb from [[en:lexicon:g846|G846]];
+
+===== Meaning =====
+
+as thus, i.e. in the same way
+
+===== Usage =====
+
+even so, likewise, after the same (in like) manner.
+
+===== Strongs References =====
+
+[[en:lexicon:g5613|G5613]]
+[[en:lexicon:g846|G846]]

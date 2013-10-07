@@ -1,0 +1,18 @@
+====== G3903: παρασκευάζω (paraskeuázō) ======
+
+===== Source =====
+
+from [[en:lexicon:g3844|G3844]] and a derivative of [[en:lexicon:g4632|G4632]];
+
+===== Meaning =====
+
+to furnish aside, i.e. get ready
+
+===== Usage =====
+
+prepare self, be (make) ready.
+
+===== Strongs References =====
+
+[[en:lexicon:g3844|G3844]]
+[[en:lexicon:g4632|G4632]]

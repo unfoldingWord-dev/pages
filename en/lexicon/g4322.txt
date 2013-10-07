@@ -1,0 +1,18 @@
+====== G4322: προσαναπληρόω (prosanaplēróō) ======
+
+===== Source =====
+
+from [[en:lexicon:g4314|G4314]] and [[en:lexicon:g378|G378]];
+
+===== Meaning =====
+
+to fill up further, i.e. furnish fully
+
+===== Usage =====
+
+supply.
+
+===== Strongs References =====
+
+[[en:lexicon:g4314|G4314]]
+[[en:lexicon:g378|G378]]

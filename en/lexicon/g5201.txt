@@ -1,0 +1,17 @@
+====== G5201: ὑδρία (hydría) ======
+
+===== Source =====
+
+from [[en:lexicon:g5204|G5204]];
+
+===== Meaning =====
+
+a water-jar, i.e. receptacle for family supply
+
+===== Usage =====
+
+water-pot.
+
+===== Strongs References =====
+
+[[en:lexicon:g5204|G5204]]

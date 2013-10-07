@@ -1,0 +1,17 @@
+====== G798: ἄστρον (ástron) ======
+
+===== Source =====
+
+neuter from [[en:lexicon:g792|G792]];
+
+===== Meaning =====
+
+properly, a constellation; put for a single star (natural or artificial)
+
+===== Usage =====
+
+star.
+
+===== Strongs References =====
+
+[[en:lexicon:g792|G792]]

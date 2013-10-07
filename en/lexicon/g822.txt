@@ -1,0 +1,17 @@
+====== G822: ἀτμίς (atmís) ======
+
+===== Source =====
+
+from the same as [[en:lexicon:g109|G109]];
+
+===== Meaning =====
+
+mist
+
+===== Usage =====
+
+vapour.
+
+===== Strongs References =====
+
+[[en:lexicon:g109|G109]]

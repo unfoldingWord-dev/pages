@@ -1,0 +1,18 @@
+====== G3980: πειθαρχέω (peitharchéō) ======
+
+===== Source =====
+
+from a compound of [[en:lexicon:g3982|G3982]] and [[en:lexicon:g757|G757]];
+
+===== Meaning =====
+
+to be persuaded by a ruler, i.e. (genitive case) to submit to authority; by analogy, to conform to advice
+
+===== Usage =====
+
+hearken, obey (magistrates).
+
+===== Strongs References =====
+
+[[en:lexicon:g3982|G3982]]
+[[en:lexicon:g757|G757]]

@@ -1,0 +1,17 @@
+====== G2994: Λαοδικεύς (Laodikeús) ======
+
+===== Source =====
+
+from [[en:lexicon:g2993|G2993]];
+
+===== Meaning =====
+
+a Laodicean, i.e. inhabitant of Laodicia
+
+===== Usage =====
+
+Laodicean.
+
+===== Strongs References =====
+
+[[en:lexicon:g2993|G2993]]

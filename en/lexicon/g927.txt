@@ -1,0 +1,18 @@
+====== G927: βαρύτιμος (barýtimos) ======
+
+===== Source =====
+
+from [[en:lexicon:g926|G926]] and [[en:lexicon:g5092|G5092]];
+
+===== Meaning =====
+
+highly valuable
+
+===== Usage =====
+
+very precious.
+
+===== Strongs References =====
+
+[[en:lexicon:g926|G926]]
+[[en:lexicon:g5092|G5092]]

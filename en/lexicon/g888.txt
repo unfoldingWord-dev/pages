@@ -1,0 +1,20 @@
+====== G888: ἀχρεῖος (achreîos) ======
+
+===== Source =====
+
+from [[en:lexicon:g1|G1]] (as a negative particle) and a derivative of [[en:lexicon:g5534|G5534]] (compare
+ [[en:lexicon:g5532|G5532]]);
+
+===== Meaning =====
+
+useless, i.e. (euphemistically) unmeritorious
+
+===== Usage =====
+
+unprofitable.
+
+===== Strongs References =====
+
+[[en:lexicon:g1|G1]]
+[[en:lexicon:g5534|G5534]]
+[[en:lexicon:g5532|G5532]]

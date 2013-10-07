@@ -1,0 +1,18 @@
+====== G4929: συντάσσω (syntássō) ======
+
+===== Source =====
+
+from [[en:lexicon:g4862|G4862]] and [[en:lexicon:g5021|G5021]];
+
+===== Meaning =====
+
+to arrange jointly, i.e. (figuratively) to direct
+
+===== Usage =====
+
+appoint.
+
+===== Strongs References =====
+
+[[en:lexicon:g4862|G4862]]
+[[en:lexicon:g5021|G5021]]

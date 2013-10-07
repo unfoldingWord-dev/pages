@@ -1,0 +1,17 @@
+====== G5385: φιλοσοφία (philosophía) ======
+
+===== Source =====
+
+from [[en:lexicon:g5386|G5386]];
+
+===== Meaning =====
+
+"philosophy", i.e. (specially), Jewish sophistry
+
+===== Usage =====
+
+philosophy.
+
+===== Strongs References =====
+
+[[en:lexicon:g5386|G5386]]

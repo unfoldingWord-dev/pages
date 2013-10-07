@@ -1,0 +1,17 @@
+====== G54: ἁγνότης (hagnótēs) ======
+
+===== Source =====
+
+from [[en:lexicon:g53|G53]];
+
+===== Meaning =====
+
+cleanness (the state), i.e. (figuratively) blamelessness
+
+===== Usage =====
+
+pureness.
+
+===== Strongs References =====
+
+[[en:lexicon:g53|G53]]

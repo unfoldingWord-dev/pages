@@ -1,0 +1,18 @@
+====== G2141: εὐπορέω (euporéō) ======
+
+===== Source =====
+
+from a compound of [[en:lexicon:g2090|G2090]] and the base of [[en:lexicon:g4197|G4197]];
+
+===== Meaning =====
+
+(intransitively) to be good for passing through, i.e. (figuratively) have pecuniary means
+
+===== Usage =====
+
+ability.
+
+===== Strongs References =====
+
+[[en:lexicon:g2090|G2090]]
+[[en:lexicon:g4197|G4197]]

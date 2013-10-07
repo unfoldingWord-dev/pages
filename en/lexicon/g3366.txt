@@ -1,0 +1,18 @@
+====== G3366: μηδέ (mēdé) ======
+
+===== Source =====
+
+from [[en:lexicon:g3361|G3361]] and [[en:lexicon:g1161|G1161]];
+
+===== Meaning =====
+
+but not, not even; in a continued negation, nor
+
+===== Usage =====
+
+neither, nor (yet), (no) not (once, so much as).
+
+===== Strongs References =====
+
+[[en:lexicon:g3361|G3361]]
+[[en:lexicon:g1161|G1161]]

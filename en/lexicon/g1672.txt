@@ -1,0 +1,17 @@
+====== G1672: Ἕλλην (Héllēn) ======
+
+===== Source =====
+
+from [[en:lexicon:g1671|G1671]];
+
+===== Meaning =====
+
+a Hellen (Grecian) or inhabitant of Hellas; by extension a Greek-speaking person, especially a non-Jew
+
+===== Usage =====
+
+ Gentile, Greek.
+
+===== Strongs References =====
+
+[[en:lexicon:g1671|G1671]]

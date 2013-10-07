@@ -1,0 +1,18 @@
+====== G3642: ὀλιγόψυχος (oligópsychos) ======
+
+===== Source =====
+
+from [[en:lexicon:g3641|G3641]] and [[en:lexicon:g5590|G5590]];
+
+===== Meaning =====
+
+little-spirited, i.e. faint-hearted
+
+===== Usage =====
+
+feebleminded.
+
+===== Strongs References =====
+
+[[en:lexicon:g5590|G5590]]
+[[en:lexicon:g3641|G3641]]

@@ -1,0 +1,18 @@
+====== G3320: μεσότοιχον (mesótoichon) ======
+
+===== Source =====
+
+from [[en:lexicon:g3319|G3319]] and [[en:lexicon:g5109|G5109]];
+
+===== Meaning =====
+
+a partition (figuratively)
+
+===== Usage =====
+
+middle wall.
+
+===== Strongs References =====
+
+[[en:lexicon:g3319|G3319]]
+[[en:lexicon:g5109|G5109]]

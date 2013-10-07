@@ -1,0 +1,17 @@
+====== G3009: λειτουργία (leitourgía) ======
+
+===== Source =====
+
+from [[en:lexicon:g3008|G3008]];
+
+===== Meaning =====
+
+public function (as priest ("liturgy") or almsgiver)
+
+===== Usage =====
+
+ministration(-try), service.
+
+===== Strongs References =====
+
+[[en:lexicon:g3008|G3008]]

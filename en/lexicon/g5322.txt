@@ -1,0 +1,17 @@
+====== G5322: φανός (phanós) ======
+
+===== Source =====
+
+from [[en:lexicon:g5316|G5316]];
+
+===== Meaning =====
+
+a lightener, i.e. light; lantern
+
+===== Usage =====
+
+lantern.
+
+===== Strongs References =====
+
+[[en:lexicon:g5316|G5316]]

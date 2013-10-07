@@ -1,0 +1,18 @@
+====== G4369: προστίθημι (prostíthēmi) ======
+
+===== Source =====
+
+from [[en:lexicon:g4314|G4314]] and [[en:lexicon:g5087|G5087]];
+
+===== Meaning =====
+
+to place additionally, i.e. lay beside, annex, repeat
+
+===== Usage =====
+
+add, again, give more, increase, lay unto, proceed further, speak to any more.
+
+===== Strongs References =====
+
+[[en:lexicon:g4314|G4314]]
+[[en:lexicon:g5087|G5087]]

@@ -1,0 +1,17 @@
+====== G417: ἄνεμος (ánemos) ======
+
+===== Source =====
+
+from the base of [[en:lexicon:g109|G109]];
+
+===== Meaning =====
+
+wind; (plural) by implication, (the four) quarters (of the earth)
+
+===== Usage =====
+
+wind.
+
+===== Strongs References =====
+
+[[en:lexicon:g109|G109]]

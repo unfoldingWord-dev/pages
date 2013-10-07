@@ -1,0 +1,17 @@
+====== G2942: κυβερνήτης (kybernḗtēs) ======
+
+===== Source =====
+
+from the same as [[en:lexicon:g2941|G2941]];
+
+===== Meaning =====
+
+helmsman, i.e. (by implication) captain
+
+===== Usage =====
+
+(ship) master.
+
+===== Strongs References =====
+
+[[en:lexicon:g2941|G2941]]

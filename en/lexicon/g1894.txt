@@ -1,0 +1,18 @@
+====== G1894: ἐπειδή (epeidḗ) ======
+
+===== Source =====
+
+from [[en:lexicon:g1893|G1893]] and [[en:lexicon:g1211|G1211]];
+
+===== Meaning =====
+
+since now, i.e. (of time) when, or (of cause) whereas
+
+===== Usage =====
+
+after that, because, for (that, -asmuch as), seeing, since.
+
+===== Strongs References =====
+
+[[en:lexicon:g1893|G1893]]
+[[en:lexicon:g1211|G1211]]

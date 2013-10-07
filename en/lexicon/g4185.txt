@@ -1,0 +1,18 @@
+====== G4185: πολυτελής (polytelḗs) ======
+
+===== Source =====
+
+from [[en:lexicon:g4183|G4183]] and [[en:lexicon:g5056|G5056]];
+
+===== Meaning =====
+
+extremely expensive
+
+===== Usage =====
+
+costly, very precious, of great price.
+
+===== Strongs References =====
+
+[[en:lexicon:g4183|G4183]]
+[[en:lexicon:g5056|G5056]]

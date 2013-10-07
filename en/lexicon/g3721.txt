@@ -1,0 +1,17 @@
+====== G3721: ὄρθριος (órthrios) ======
+
+===== Source =====
+
+from [[en:lexicon:g3722|G3722]];
+
+===== Meaning =====
+
+in the dawn, i.e. up at day-break
+
+===== Usage =====
+
+early.
+
+===== Strongs References =====
+
+[[en:lexicon:g3722|G3722]]

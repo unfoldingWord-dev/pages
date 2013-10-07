@@ -1,0 +1,18 @@
+====== G2728: κατιόω (katióō) ======
+
+===== Source =====
+
+from [[en:lexicon:g2596|G2596]] and a derivative of [[en:lexicon:g2447|G2447]];
+
+===== Meaning =====
+
+to rust down, i.e. corrode
+
+===== Usage =====
+
+canker.
+
+===== Strongs References =====
+
+[[en:lexicon:g2596|G2596]]
+[[en:lexicon:g2447|G2447]]

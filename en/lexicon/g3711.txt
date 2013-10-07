@@ -1,0 +1,17 @@
+====== G3711: ὀργίλος (orgílos) ======
+
+===== Source =====
+
+from [[en:lexicon:g3709|G3709]];
+
+===== Meaning =====
+
+irascible
+
+===== Usage =====
+
+soon angry.
+
+===== Strongs References =====
+
+[[en:lexicon:g3709|G3709]]

@@ -1,0 +1,17 @@
+====== G4242: πρεσβεία (presbeía) ======
+
+===== Source =====
+
+from [[en:lexicon:g4243|G4243]];
+
+===== Meaning =====
+
+seniority (eldership), i.e. (by implication) an embassy (concretely, ambassadors)
+
+===== Usage =====
+
+ambassage, message.
+
+===== Strongs References =====
+
+[[en:lexicon:g4243|G4243]]

@@ -1,0 +1,18 @@
+====== G183: ἀκατάσχετος (akatáschetos) ======
+
+===== Source =====
+
+from [[en:lexicon:g1|G1]] (as a negative particle) and a derivative of [[en:lexicon:g2722|G2722]];
+
+===== Meaning =====
+
+unrestrainable
+
+===== Usage =====
+
+unruly.
+
+===== Strongs References =====
+
+[[en:lexicon:g1|G1]]
+[[en:lexicon:g2722|G2722]]

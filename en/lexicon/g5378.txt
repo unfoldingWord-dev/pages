@@ -1,0 +1,18 @@
+====== G5378: Φιλόλογος (Philólogos) ======
+
+===== Source =====
+
+from [[en:lexicon:g5384|G5384]] and [[en:lexicon:g3056|G3056]];
+
+===== Meaning =====
+
+fond of words, i.e. talkative (argumentative, learned, "philological"); Philologus, a Christian
+
+===== Usage =====
+
+Philologus.
+
+===== Strongs References =====
+
+[[en:lexicon:g5384|G5384]]
+[[en:lexicon:g3056|G3056]]

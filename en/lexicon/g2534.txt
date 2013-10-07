@@ -1,0 +1,18 @@
+====== G2534: καίγε (kaíge) ======
+
+===== Source =====
+
+from [[en:lexicon:g2532|G2532]] and [[en:lexicon:g1065|G1065]];
+
+===== Meaning =====
+
+and at least (or even, indeed)
+
+===== Usage =====
+
+and, at least.
+
+===== Strongs References =====
+
+[[en:lexicon:g2532|G2532]]
+[[en:lexicon:g1065|G1065]]

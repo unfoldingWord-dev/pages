@@ -1,0 +1,17 @@
+====== G2344: θησαυρός (thēsaurós) ======
+
+===== Source =====
+
+from [[en:lexicon:g5087|G5087]];
+
+===== Meaning =====
+
+a deposit, i.e. wealth (literally or figuratively)
+
+===== Usage =====
+
+treasure.
+
+===== Strongs References =====
+
+[[en:lexicon:g5087|G5087]]

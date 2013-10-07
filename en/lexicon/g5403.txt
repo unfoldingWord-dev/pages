@@ -1,0 +1,17 @@
+====== G5403: Φοινίκη (Phoiníkē) ======
+
+===== Source =====
+
+from [[en:lexicon:g5404|G5404]];
+
+===== Meaning =====
+
+palm-country; Phœnice (or Phœnicia), a region of Palestine
+
+===== Usage =====
+
+Phenice, Phenicia.
+
+===== Strongs References =====
+
+[[en:lexicon:g5404|G5404]]

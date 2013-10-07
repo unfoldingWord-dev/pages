@@ -1,0 +1,17 @@
+====== G3316: μεσίτης (mesítēs) ======
+
+===== Source =====
+
+from [[en:lexicon:g3319|G3319]];
+
+===== Meaning =====
+
+a go-between, i.e. (simply) an internunciator, or (by implication) a reconciler (intercessor)
+
+===== Usage =====
+
+mediator.
+
+===== Strongs References =====
+
+[[en:lexicon:g3319|G3319]]

@@ -1,0 +1,17 @@
+====== G990: βλέμμα (blémma) ======
+
+===== Source =====
+
+from [[en:lexicon:g991|G991]];
+
+===== Meaning =====
+
+vision (properly concrete; by implication, abstract)
+
+===== Usage =====
+
+seeing.
+
+===== Strongs References =====
+
+[[en:lexicon:g991|G991]]

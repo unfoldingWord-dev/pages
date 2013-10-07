@@ -1,0 +1,17 @@
+====== G2874: κοπρία (kopría) ======
+
+===== Source =====
+
+from κόπρος (kópros) (ordure; perhaps akin to [[en:lexicon:g2875|G2875]]);
+
+===== Meaning =====
+
+manure
+
+===== Usage =====
+
+dung(-hill).
+
+===== Strongs References =====
+
+[[en:lexicon:g2875|G2875]]

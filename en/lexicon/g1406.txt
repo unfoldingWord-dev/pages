@@ -1,0 +1,17 @@
+====== G1406: δραχμή (drachmḗ) ======
+
+===== Source =====
+
+from [[en:lexicon:g1405|G1405]];
+
+===== Meaning =====
+
+a drachma or (silver) coin (as handled)
+
+===== Usage =====
+
+piece (of silver).
+
+===== Strongs References =====
+
+[[en:lexicon:g1405|G1405]]

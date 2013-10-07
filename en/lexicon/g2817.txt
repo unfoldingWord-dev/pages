@@ -1,0 +1,17 @@
+====== G2817: κληρονομία (klēronomía) ======
+
+===== Source =====
+
+from [[en:lexicon:g2818|G2818]];
+
+===== Meaning =====
+
+heirship, i.e. (concretely) a patrimony or (genitive case) a possession
+
+===== Usage =====
+
+inheritance.
+
+===== Strongs References =====
+
+[[en:lexicon:g2818|G2818]]

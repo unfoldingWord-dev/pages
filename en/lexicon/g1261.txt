@@ -1,0 +1,17 @@
+====== G1261: διαλογισμός (dialogismós) ======
+
+===== Source =====
+
+from [[en:lexicon:g1260|G1260]];
+
+===== Meaning =====
+
+discussion, i.e. (internal) consideration (by implication, purpose), or (external) debate
+
+===== Usage =====
+
+dispute, doubtful(-ing), imagination, reasoning, thought.
+
+===== Strongs References =====
+
+[[en:lexicon:g1260|G1260]]

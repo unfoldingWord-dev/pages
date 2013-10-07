@@ -1,0 +1,17 @@
+====== G5162: τροφός (trophós) ======
+
+===== Source =====
+
+from [[en:lexicon:g5142|G5142]];
+
+===== Meaning =====
+
+a nourisher, i.e. nurse
+
+===== Usage =====
+
+nurse.
+
+===== Strongs References =====
+
+[[en:lexicon:g5142|G5142]]

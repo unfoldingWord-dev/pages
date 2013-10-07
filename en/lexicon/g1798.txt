@@ -1,0 +1,18 @@
+====== G1798: ἐνύπνιον (enýpnion) ======
+
+===== Source =====
+
+from [[en:lexicon:g1722|G1722]] and [[en:lexicon:g5258|G5258]];
+
+===== Meaning =====
+
+something seen in sleep, i.e. a dream (vision in a dream)
+
+===== Usage =====
+
+dream.
+
+===== Strongs References =====
+
+[[en:lexicon:g1722|G1722]]
+[[en:lexicon:g5258|G5258]]

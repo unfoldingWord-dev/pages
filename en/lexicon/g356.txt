@@ -1,0 +1,18 @@
+====== G356: ἀναλογία (analogía) ======
+
+===== Source =====
+
+from a compound of [[en:lexicon:g303|G303]] and [[en:lexicon:g3056|G3056]];
+
+===== Meaning =====
+
+proportion
+
+===== Usage =====
+
+proportion.
+
+===== Strongs References =====
+
+[[en:lexicon:g303|G303]]
+[[en:lexicon:g3056|G3056]]

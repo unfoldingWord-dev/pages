@@ -1,0 +1,17 @@
+====== G2861: κολυμβήθρα (kolymbḗthra) ======
+
+===== Source =====
+
+from [[en:lexicon:g2860|G2860]];
+
+===== Meaning =====
+
+a diving-place, i.e. pond for bathing (or swimming)
+
+===== Usage =====
+
+pool.
+
+===== Strongs References =====
+
+[[en:lexicon:g2860|G2860]]

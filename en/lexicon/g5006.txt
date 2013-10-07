@@ -1,0 +1,17 @@
+====== G5006: ταλαντιαῖος (talantiaîos) ======
+
+===== Source =====
+
+from [[en:lexicon:g5007|G5007]];
+
+===== Meaning =====
+
+talent-like in weight
+
+===== Usage =====
+
+weight of a talent.
+
+===== Strongs References =====
+
+[[en:lexicon:g5007|G5007]]

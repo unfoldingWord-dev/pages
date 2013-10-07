@@ -1,0 +1,19 @@
+====== G603: ἀποκαραδοκία (apokaradokía) ======
+
+===== Source =====
+
+from a comparative of [[en:lexicon:g575|G575]] and a compound of κάρα (kára) (the head) and [[en:lexicon:g1380|G1380]]
+ (in the sense of watching);
+
+===== Meaning =====
+
+intense anticipation
+
+===== Usage =====
+
+earnest expectation.
+
+===== Strongs References =====
+
+[[en:lexicon:g575|G575]]
+[[en:lexicon:g1380|G1380]]

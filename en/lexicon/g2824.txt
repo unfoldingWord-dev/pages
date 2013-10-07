@@ -1,0 +1,17 @@
+====== G2824: κλίμα (klíma) ======
+
+===== Source =====
+
+from [[en:lexicon:g2827|G2827]];
+
+===== Meaning =====
+
+a slope, i.e. (specially) a "clime" or tract of country
+
+===== Usage =====
+
+part, region.
+
+===== Strongs References =====
+
+[[en:lexicon:g2827|G2827]]

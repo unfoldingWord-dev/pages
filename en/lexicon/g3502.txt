@@ -1,0 +1,17 @@
+====== G3502: νεοσσός (neossós) ======
+
+===== Source =====
+
+from [[en:lexicon:g3501|G3501]];
+
+===== Meaning =====
+
+a youngling (nestling)
+
+===== Usage =====
+
+young.
+
+===== Strongs References =====
+
+[[en:lexicon:g3501|G3501]]

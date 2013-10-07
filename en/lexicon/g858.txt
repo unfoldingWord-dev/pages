@@ -1,0 +1,18 @@
+====== G858: ἀφελότης (aphelótēs) ======
+
+===== Source =====
+
+from a compound of [[en:lexicon:g1|G1]] (as a negative particle) and φέλλος (phéllos) (in the
+ sense of a stone as stubbing the foot);
+
+===== Meaning =====
+
+smoothness, i.e. (figuratively) simplicity
+
+===== Usage =====
+
+singleness.
+
+===== Strongs References =====
+
+[[en:lexicon:g1|G1]]

@@ -1,0 +1,17 @@
+====== G3014: λέπρα (lépra) ======
+
+===== Source =====
+
+from the same as [[en:lexicon:g3013|G3013]];
+
+===== Meaning =====
+
+scaliness, i.e. "leprosy"
+
+===== Usage =====
+
+leprosy.
+
+===== Strongs References =====
+
+[[en:lexicon:g3013|G3013]]

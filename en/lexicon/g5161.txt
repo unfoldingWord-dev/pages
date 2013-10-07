@@ -1,0 +1,17 @@
+====== G5161: Τρόφιμος (Tróphimos) ======
+
+===== Source =====
+
+from [[en:lexicon:g5160|G5160]];
+
+===== Meaning =====
+
+nutritive; Trophimus, a Christian
+
+===== Usage =====
+
+Trophimus.
+
+===== Strongs References =====
+
+[[en:lexicon:g5160|G5160]]

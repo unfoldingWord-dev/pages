@@ -1,0 +1,17 @@
+====== G2302: θέατρον (théatron) ======
+
+===== Source =====
+
+from [[en:lexicon:g2300|G2300]];
+
+===== Meaning =====
+
+a place for public show ("theatre"), i.e. general audience-room; by implication, a show itself (figuratively)
+
+===== Usage =====
+
+spectacle, theatre.
+
+===== Strongs References =====
+
+[[en:lexicon:g2300|G2300]]

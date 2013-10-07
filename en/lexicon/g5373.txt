@@ -1,0 +1,17 @@
+====== G5373: φιλία (philía) ======
+
+===== Source =====
+
+from [[en:lexicon:g5384|G5384]];
+
+===== Meaning =====
+
+fondness
+
+===== Usage =====
+
+friendship.
+
+===== Strongs References =====
+
+[[en:lexicon:g5384|G5384]]

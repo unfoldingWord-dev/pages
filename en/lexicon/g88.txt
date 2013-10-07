@@ -1,0 +1,20 @@
+====== G88: ἀδιάλειπτος (adiáleiptos) ======
+
+===== Source =====
+
+from [[en:lexicon:g1|G1]] (as a negative particle) and a derivative of a compound of [[en:lexicon:g1223|G1223]]
+ and [[en:lexicon:g3007|G3007]];
+
+===== Meaning =====
+
+unintermitted, i.e. permanent
+
+===== Usage =====
+
+without ceasing, continual.
+
+===== Strongs References =====
+
+[[en:lexicon:g1|G1]]
+[[en:lexicon:g1223|G1223]]
+[[en:lexicon:g3007|G3007]]

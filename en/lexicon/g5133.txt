@@ -1,0 +1,17 @@
+====== G5133: τραπεζίτης (trapezítēs) ======
+
+===== Source =====
+
+from [[en:lexicon:g5132|G5132]];
+
+===== Meaning =====
+
+a money-broker or banker
+
+===== Usage =====
+
+exchanger.
+
+===== Strongs References =====
+
+[[en:lexicon:g5132|G5132]]

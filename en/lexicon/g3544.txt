@@ -1,0 +1,17 @@
+====== G3544: νομικός (nomikós) ======
+
+===== Source =====
+
+from [[en:lexicon:g3551|G3551]];
+
+===== Meaning =====
+
+according (or pertaining) to law, i.e. legal (ceremonially); as noun, an expert in the (Mosaic) law
+
+===== Usage =====
+
+about the law, lawyer.
+
+===== Strongs References =====
+
+[[en:lexicon:g3551|G3551]]

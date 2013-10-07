@@ -1,0 +1,18 @@
+====== G2593: καρποφόρος (karpophóros) ======
+
+===== Source =====
+
+from [[en:lexicon:g2590|G2590]] and [[en:lexicon:g5342|G5342]];
+
+===== Meaning =====
+
+fruitbearing (figuratively)
+
+===== Usage =====
+
+fruitful.
+
+===== Strongs References =====
+
+[[en:lexicon:g2590|G2590]]
+[[en:lexicon:g5342|G5342]]

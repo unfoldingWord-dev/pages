@@ -1,0 +1,18 @@
+====== G4899: συνεκλεκτός (syneklektós) ======
+
+===== Source =====
+
+from a compound of [[en:lexicon:g4862|G4862]] and [[en:lexicon:g1586|G1586]];
+
+===== Meaning =====
+
+chosen in company with, i.e. co-elect (fellow Christian)
+
+===== Usage =====
+
+elected together with.
+
+===== Strongs References =====
+
+[[en:lexicon:g4862|G4862]]
+[[en:lexicon:g1586|G1586]]

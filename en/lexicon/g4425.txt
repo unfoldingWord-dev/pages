@@ -1,0 +1,17 @@
+====== G4425: πτύον (ptýon) ======
+
+===== Source =====
+
+from [[en:lexicon:g4429|G4429]];
+
+===== Meaning =====
+
+a winnowing-fork (as scattering like spittle)
+
+===== Usage =====
+
+fan.
+
+===== Strongs References =====
+
+[[en:lexicon:g4429|G4429]]

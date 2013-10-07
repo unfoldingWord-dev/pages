@@ -1,0 +1,18 @@
+====== G4362: προσπήγνυμι (prospḗgnymi) ======
+
+===== Source =====
+
+from [[en:lexicon:g4314|G4314]] and [[en:lexicon:g4078|G4078]];
+
+===== Meaning =====
+
+to fasten to, i.e. (specially), to impale (on a cross)
+
+===== Usage =====
+
+crucify.
+
+===== Strongs References =====
+
+[[en:lexicon:g4314|G4314]]
+[[en:lexicon:g4078|G4078]]

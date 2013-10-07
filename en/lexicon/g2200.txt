@@ -1,0 +1,17 @@
+====== G2200: ζεστός (zestós) ======
+
+===== Source =====
+
+from [[en:lexicon:g2204|G2204]];
+
+===== Meaning =====
+
+boiled, i.e. (by implication) calid (figuratively, fervent)
+
+===== Usage =====
+
+hot.
+
+===== Strongs References =====
+
+[[en:lexicon:g2204|G2204]]

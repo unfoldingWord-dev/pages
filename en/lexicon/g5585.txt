@@ -1,0 +1,17 @@
+====== G5585: ψηφίζω (psēphízō) ======
+
+===== Source =====
+
+from [[en:lexicon:g5586|G5586]];
+
+===== Meaning =====
+
+to use pebbles in enumeration, i.e. (generally) to compute
+
+===== Usage =====
+
+count.
+
+===== Strongs References =====
+
+[[en:lexicon:g5586|G5586]]

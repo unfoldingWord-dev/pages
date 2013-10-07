@@ -1,0 +1,17 @@
+====== G5582: ψεῦσμα (pseûsma) ======
+
+===== Source =====
+
+from [[en:lexicon:g5574|G5574]];
+
+===== Meaning =====
+
+a fabrication, i.e. falsehood
+
+===== Usage =====
+
+lie.
+
+===== Strongs References =====
+
+[[en:lexicon:g5574|G5574]]

@@ -1,0 +1,17 @@
+====== G41: ἁγιότης (hagiótēs) ======
+
+===== Source =====
+
+from [[en:lexicon:g40|G40]];
+
+===== Meaning =====
+
+sanctity (i.e. properly, the state)
+
+===== Usage =====
+
+holiness.
+
+===== Strongs References =====
+
+[[en:lexicon:g40|G40]]

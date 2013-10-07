@@ -1,0 +1,17 @@
+====== G201: ἀκροατήριον (akroatḗrion) ======
+
+===== Source =====
+
+from [[en:lexicon:g202|G202]];
+
+===== Meaning =====
+
+an audience-room
+
+===== Usage =====
+
+place of hearing.
+
+===== Strongs References =====
+
+[[en:lexicon:g202|G202]]

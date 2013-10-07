@@ -1,0 +1,18 @@
+====== G4182: πολυποίκιλος (polypoíkilos) ======
+
+===== Source =====
+
+from [[en:lexicon:g4183|G4183]] and [[en:lexicon:g4164|G4164]];
+
+===== Meaning =====
+
+much variegated, i.e. multifarious
+
+===== Usage =====
+
+manifold.
+
+===== Strongs References =====
+
+[[en:lexicon:g4183|G4183]]
+[[en:lexicon:g4164|G4164]]

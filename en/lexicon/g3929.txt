@@ -1,0 +1,17 @@
+====== G3929: πάρεσις (páresis) ======
+
+===== Source =====
+
+from [[en:lexicon:g2935|G2935]];
+
+===== Meaning =====
+
+praetermission, i.e. toleration
+
+===== Usage =====
+
+remission.
+
+===== Strongs References =====
+
+[[en:lexicon:g2935|G2935]]

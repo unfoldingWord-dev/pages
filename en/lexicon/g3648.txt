@@ -1,0 +1,18 @@
+====== G3648: ὁλόκληρος (holóklēros) ======
+
+===== Source =====
+
+from [[en:lexicon:g3650|G3650]] and [[en:lexicon:g2819|G2819]];
+
+===== Meaning =====
+
+complete in every part, i.e. perfectly sound (in body)
+
+===== Usage =====
+
+entire, whole.
+
+===== Strongs References =====
+
+[[en:lexicon:g3650|G3650]]
+[[en:lexicon:g2819|G2819]]

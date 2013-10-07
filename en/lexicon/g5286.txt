@@ -1,0 +1,18 @@
+====== G5286: ὑποπόδιον (hypopódion) ======
+
+===== Source =====
+
+neuter of a compound of [[en:lexicon:g5259|G5259]] and [[en:lexicon:g4228|G4228]];
+
+===== Meaning =====
+
+something under the feet, i.e. a foot-rest (figuratively)
+
+===== Usage =====
+
+footstool.
+
+===== Strongs References =====
+
+[[en:lexicon:g5259|G5259]]
+[[en:lexicon:g4228|G4228]]

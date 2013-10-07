@@ -1,0 +1,18 @@
+====== G4259: προαύλιον (proaúlion) ======
+
+===== Source =====
+
+neuter of a presumed compound of [[en:lexicon:g4253|G4253]] and [[en:lexicon:g833|G833]];
+
+===== Meaning =====
+
+a forecourt, i.e. vestibule (alley-way)
+
+===== Usage =====
+
+porch.
+
+===== Strongs References =====
+
+[[en:lexicon:g4253|G4253]]
+[[en:lexicon:g833|G833]]

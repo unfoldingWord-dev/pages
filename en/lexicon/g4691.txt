@@ -1,0 +1,18 @@
+====== G4691: σπερμολόγος (spermológos) ======
+
+===== Source =====
+
+from [[en:lexicon:g4690|G4690]] and [[en:lexicon:g3004|G3004]];
+
+===== Meaning =====
+
+a seed-picker (as the crow), i.e. (figuratively) a sponger, loafer (specially, a gossip or trifler in talk)
+
+===== Usage =====
+
+babbler.
+
+===== Strongs References =====
+
+[[en:lexicon:g4690|G4690]]
+[[en:lexicon:g3004|G3004]]

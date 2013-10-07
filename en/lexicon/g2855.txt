@@ -1,0 +1,18 @@
+====== G2855: κολλυβιστής (kollybistḗs) ======
+
+===== Source =====
+
+from a presumed derivative of κόλλυβος (kóllybos) (a small coin; probably akin to
+ [[en:lexicon:g2854|G2854]]);
+
+===== Meaning =====
+
+a coin-dealer
+
+===== Usage =====
+
+(money-)changer.
+
+===== Strongs References =====
+
+[[en:lexicon:g2854|G2854]]

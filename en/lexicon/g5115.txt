@@ -1,0 +1,17 @@
+====== G5115: τόξον (tóxon) ======
+
+===== Source =====
+
+from the base of [[en:lexicon:g5088|G5088]];
+
+===== Meaning =====
+
+a bow (apparently as the simplest fabric)
+
+===== Usage =====
+
+bow.
+
+===== Strongs References =====
+
+[[en:lexicon:g5088|G5088]]

@@ -1,0 +1,17 @@
+====== G74: ἀγωνία (agōnía) ======
+
+===== Source =====
+
+from [[en:lexicon:g73|G73]];
+
+===== Meaning =====
+
+a struggle (properly, the state), i.e. (figuratively) anguish
+
+===== Usage =====
+
+agony.
+
+===== Strongs References =====
+
+[[en:lexicon:g73|G73]]

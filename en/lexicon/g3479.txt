@@ -1,0 +1,17 @@
+====== G3479: Ναζαρηνός (Nazarēnós) ======
+
+===== Source =====
+
+from [[en:lexicon:g3478|G3478]];
+
+===== Meaning =====
+
+a Nazarene, i.e. inhabitant of Nazareth
+
+===== Usage =====
+
+of Nazareth.
+
+===== Strongs References =====
+
+[[en:lexicon:g3478|G3478]]

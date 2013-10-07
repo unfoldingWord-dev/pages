@@ -1,0 +1,17 @@
+====== G235: ἀλλά (allá) ======
+
+===== Source =====
+
+neuter plural of [[en:lexicon:g243|G243]];
+
+===== Meaning =====
+
+properly, other things, i.e. (adverbially) contrariwise (in many relations)
+
+===== Usage =====
+
+and, but (even), howbeit, indeed, nay, nevertheless, no, notwithstanding, save, therefore, yea, yet.
+
+===== Strongs References =====
+
+[[en:lexicon:g243|G243]]

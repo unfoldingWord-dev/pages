@@ -1,0 +1,17 @@
+====== G4269: πρόγονος (prógonos) ======
+
+===== Source =====
+
+from [[en:lexicon:g4266|G4266]];
+
+===== Meaning =====
+
+an ancestor, (grand-)parent
+
+===== Usage =====
+
+forefather, parent.
+
+===== Strongs References =====
+
+[[en:lexicon:g4266|G4266]]

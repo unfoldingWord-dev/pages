@@ -1,0 +1,20 @@
+====== G809: ἀσχήμων (aschḗmōn) ======
+
+===== Source =====
+
+from [[en:lexicon:g1|G1]] (as a negative particle) and a presumed derivative of [[en:lexicon:g2192|G2192]] (in
+ the sense of its congener [[en:lexicon:g4976|G4976]]);
+
+===== Meaning =====
+
+properly, shapeless, i.e. (figuratively) inelegant
+
+===== Usage =====
+
+uncomely.
+
+===== Strongs References =====
+
+[[en:lexicon:g1|G1]]
+[[en:lexicon:g2192|G2192]]
+[[en:lexicon:g4976|G4976]]

@@ -1,0 +1,17 @@
+====== G2953: Κύπριος (Kýprios) ======
+
+===== Source =====
+
+from [[en:lexicon:g2954|G2954]];
+
+===== Meaning =====
+
+a Cyprian (Cypriot), i.e. inhabitant of Cyprus
+
+===== Usage =====
+
+of Cyprus.
+
+===== Strongs References =====
+
+[[en:lexicon:g2954|G2954]]

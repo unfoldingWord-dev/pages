@@ -1,0 +1,19 @@
+====== G676: ἀπρόσιτος (aprósitos) ======
+
+===== Source =====
+
+from [[en:lexicon:g1|G1]] (as a negative particle) and a derivative of a comparative of
+ [[en:lexicon:g4314|G4314]] and εἶμι (eîmi) (to go);
+
+===== Meaning =====
+
+inaccessible
+
+===== Usage =====
+
+which no man can approach.
+
+===== Strongs References =====
+
+[[en:lexicon:g1|G1]]
+[[en:lexicon:g4314|G4314]]

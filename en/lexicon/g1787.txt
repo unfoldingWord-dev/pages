@@ -1,0 +1,17 @@
+====== G1787: ἐντός (entós) ======
+
+===== Source =====
+
+from [[en:lexicon:g1722|G1722]];
+
+===== Meaning =====
+
+inside (adverb or noun)
+
+===== Usage =====
+
+within.
+
+===== Strongs References =====
+
+[[en:lexicon:g1722|G1722]]

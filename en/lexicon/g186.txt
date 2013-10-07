@@ -1,0 +1,18 @@
+====== G186: ἀκλινής (aklinḗs) ======
+
+===== Source =====
+
+from [[en:lexicon:g1|G1]] (as a negative particle) and [[en:lexicon:g2827|G2827]];
+
+===== Meaning =====
+
+not leaning, i.e. (figuratively) firm
+
+===== Usage =====
+
+without wavering.
+
+===== Strongs References =====
+
+[[en:lexicon:g1|G1]]
+[[en:lexicon:g2827|G2827]]

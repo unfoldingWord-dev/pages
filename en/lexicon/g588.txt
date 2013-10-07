@@ -1,0 +1,18 @@
+====== G588: ἀποδέχομαι (apodéchomai) ======
+
+===== Source =====
+
+from [[en:lexicon:g575|G575]] and [[en:lexicon:g1209|G1209]];
+
+===== Meaning =====
+
+to take fully, i.e. welcome (persons), approve (things)
+
+===== Usage =====
+
+accept, receive (gladly).
+
+===== Strongs References =====
+
+[[en:lexicon:g575|G575]]
+[[en:lexicon:g1209|G1209]]

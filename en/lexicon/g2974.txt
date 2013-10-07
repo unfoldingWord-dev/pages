@@ -1,0 +1,17 @@
+====== G2974: κωφός (kōphós) ======
+
+===== Source =====
+
+from [[en:lexicon:g2875|G2875]];
+
+===== Meaning =====
+
+blunted, i.e. (figuratively) of hearing (deaf) or speech (dumb)
+
+===== Usage =====
+
+deaf, dumb, speechless.
+
+===== Strongs References =====
+
+[[en:lexicon:g2875|G2875]]

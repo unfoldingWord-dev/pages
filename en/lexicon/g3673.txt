@@ -1,0 +1,18 @@
+====== G3673: ὁμότεχνος (homótechnos) ======
+
+===== Source =====
+
+from the base of [[en:lexicon:g3674|G3674]] and [[en:lexicon:g5078|G5078]];
+
+===== Meaning =====
+
+a fellow-artificer
+
+===== Usage =====
+
+of the same craft.
+
+===== Strongs References =====
+
+[[en:lexicon:g3674|G3674]]
+[[en:lexicon:g5078|G5078]]

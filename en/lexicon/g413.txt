@@ -1,0 +1,18 @@
+====== G413: ἀνέκλειπτος (anékleiptos) ======
+
+===== Source =====
+
+from [[en:lexicon:g1|G1]] (as a negative particle) and a presumed derivative of [[en:lexicon:g1587|G1587]];
+
+===== Meaning =====
+
+not left out, i.e. (by implication) inexhaustible
+
+===== Usage =====
+
+that faileth not.
+
+===== Strongs References =====
+
+[[en:lexicon:g1|G1]]
+[[en:lexicon:g1587|G1587]]

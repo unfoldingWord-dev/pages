@@ -1,0 +1,18 @@
+====== G5493: χείμαῤῥος (cheímarrhos) ======
+
+===== Source =====
+
+from the base of [[en:lexicon:g5494|G5494]] and [[en:lexicon:g4482|G4482]];
+
+===== Meaning =====
+
+a storm-runlet, i.e. winter-torrent
+
+===== Usage =====
+
+brook.
+
+===== Strongs References =====
+
+[[en:lexicon:g5494|G5494]]
+[[en:lexicon:g4482|G4482]]

@@ -1,0 +1,17 @@
+====== G4162: ποίησις (poíēsis) ======
+
+===== Source =====
+
+from [[en:lexicon:g4160|G4160]];
+
+===== Meaning =====
+
+action, i.e. performance (of the law)
+
+===== Usage =====
+
+deed.
+
+===== Strongs References =====
+
+[[en:lexicon:g4160|G4160]]

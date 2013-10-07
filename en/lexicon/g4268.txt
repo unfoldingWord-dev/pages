@@ -1,0 +1,17 @@
+====== G4268: πρόγνωσις (prógnōsis) ======
+
+===== Source =====
+
+from [[en:lexicon:g4267|G4267]];
+
+===== Meaning =====
+
+forethought
+
+===== Usage =====
+
+foreknowledge.
+
+===== Strongs References =====
+
+[[en:lexicon:g4267|G4267]]

@@ -1,0 +1,18 @@
+====== G1178: δεκαπέντε (dekapénte) ======
+
+===== Source =====
+
+from [[en:lexicon:g1176|G1176]] and [[en:lexicon:g4002|G4002]];
+
+===== Meaning =====
+
+ten and five, i.e. fifteen
+
+===== Usage =====
+
+fifteen.
+
+===== Strongs References =====
+
+[[en:lexicon:g1176|G1176]]
+[[en:lexicon:g4002|G4002]]

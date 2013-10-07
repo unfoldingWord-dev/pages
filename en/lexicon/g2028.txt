@@ -1,0 +1,18 @@
+====== G2028: ἐπονομάζω (eponomázō) ======
+
+===== Source =====
+
+from [[en:lexicon:g1909|G1909]] and [[en:lexicon:g3687|G3687]];
+
+===== Meaning =====
+
+to name further, i.e. denominate
+
+===== Usage =====
+
+call.
+
+===== Strongs References =====
+
+[[en:lexicon:g1909|G1909]]
+[[en:lexicon:g3687|G3687]]

@@ -1,0 +1,17 @@
+====== G5223: ὕπαρξις (hýparxis) ======
+
+===== Source =====
+
+from [[en:lexicon:g5225|G5225]];
+
+===== Meaning =====
+
+existency or proprietorship, i.e. (concretely) property, wealth
+
+===== Usage =====
+
+goods, substance.
+
+===== Strongs References =====
+
+[[en:lexicon:g5225|G5225]]

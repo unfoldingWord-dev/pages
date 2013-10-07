@@ -1,0 +1,18 @@
+====== G3347: μετέπειτα (metépeita) ======
+
+===== Source =====
+
+from [[en:lexicon:g3326|G3326]] and [[en:lexicon:g1899|G1899]];
+
+===== Meaning =====
+
+thereafter
+
+===== Usage =====
+
+afterward.
+
+===== Strongs References =====
+
+[[en:lexicon:g3326|G3326]]
+[[en:lexicon:g1899|G1899]]

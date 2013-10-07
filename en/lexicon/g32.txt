@@ -1,0 +1,18 @@
+====== G32: ἄγγελος (ángelos) ======
+
+===== Source =====
+
+from ἀγγέλλω (angéllō) (probably derived from [[en:lexicon:g71|G71]];
+
+===== Meaning =====
+
+compare
+
+===== Usage =====
+
+angel, messenger.
+
+===== Strongs References =====
+
+[[en:lexicon:g71|G71]]
+[[en:lexicon:g34|G34]]

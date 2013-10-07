@@ -1,0 +1,18 @@
+====== G794: ἄστοργος (ástorgos) ======
+
+===== Source =====
+
+from [[en:lexicon:g1|G1]] (as a negative particle) and a presumed derivative of
+ στέργω (stérgō) (to cherish affectionately);
+
+===== Meaning =====
+
+hard-hearted towards kindred
+
+===== Usage =====
+
+without natural affection.
+
+===== Strongs References =====
+
+[[en:lexicon:g1|G1]]

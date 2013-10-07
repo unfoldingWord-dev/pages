@@ -1,0 +1,17 @@
+====== G4489: ῥήτωρ (rhḗtōr) ======
+
+===== Source =====
+
+from [[en:lexicon:g4483|G4483]];
+
+===== Meaning =====
+
+a speaker, i.e. (by implication) a forensic advocate
+
+===== Usage =====
+
+orator.
+
+===== Strongs References =====
+
+[[en:lexicon:g4483|G4483]]

@@ -1,0 +1,19 @@
+====== G121: ἄθωος (áthōos) ======
+
+===== Source =====
+
+from [[en:lexicon:g1|G1]] (as a negative particle) and probably a derivative of [[en:lexicon:g5087|G5087]]
+ (meaning a penalty);
+
+===== Meaning =====
+
+not guilty
+
+===== Usage =====
+
+innocent.
+
+===== Strongs References =====
+
+[[en:lexicon:g1|G1]]
+[[en:lexicon:g5087|G5087]]

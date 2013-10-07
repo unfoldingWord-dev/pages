@@ -1,0 +1,18 @@
+====== G1790: ἔντρομος (éntromos) ======
+
+===== Source =====
+
+from [[en:lexicon:g1722|G1722]] and [[en:lexicon:g5156|G5156]];
+
+===== Meaning =====
+
+terrified
+
+===== Usage =====
+
+X quake, X trembled.
+
+===== Strongs References =====
+
+[[en:lexicon:g1722|G1722]]
+[[en:lexicon:g5156|G5156]]

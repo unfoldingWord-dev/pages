@@ -1,0 +1,17 @@
+====== G2927: κρυπτός (kryptós) ======
+
+===== Source =====
+
+from [[en:lexicon:g2928|G2928]];
+
+===== Meaning =====
+
+concealed, i.e. private
+
+===== Usage =====
+
+hid(-den), inward(-ly), secret.
+
+===== Strongs References =====
+
+[[en:lexicon:g2928|G2928]]

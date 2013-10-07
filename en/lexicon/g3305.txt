@@ -1,0 +1,18 @@
+====== G3305: μέντοι (méntoi) ======
+
+===== Source =====
+
+from [[en:lexicon:g3303|G3303]] and [[en:lexicon:g5104|G5104]];
+
+===== Meaning =====
+
+indeed though, i.e. however
+
+===== Usage =====
+
+also, but, howbeit, nevertheless, yet.
+
+===== Strongs References =====
+
+[[en:lexicon:g3303|G3303]]
+[[en:lexicon:g5104|G5104]]

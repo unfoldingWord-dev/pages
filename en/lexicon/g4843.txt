@@ -1,0 +1,19 @@
+====== G4843: συμπεριλαμβάνω (symperilambánō) ======
+
+===== Source =====
+
+from [[en:lexicon:g4862|G4862]] and a compound of [[en:lexicon:g4012|G4012]] and [[en:lexicon:g2983|G2983]];
+
+===== Meaning =====
+
+to take by enclosing altogether, i.e. earnestly throw the arms about one
+
+===== Usage =====
+
+embrace.
+
+===== Strongs References =====
+
+[[en:lexicon:g4862|G4862]]
+[[en:lexicon:g4012|G4012]]
+[[en:lexicon:g2983|G2983]]

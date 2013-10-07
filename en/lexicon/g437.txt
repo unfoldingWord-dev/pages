@@ -1,0 +1,18 @@
+====== G437: ἀνθομολογέομαι (anthomologéomai) ======
+
+===== Source =====
+
+from [[en:lexicon:g473|G473]] and the middle voice of [[en:lexicon:g3670|G3670]];
+
+===== Meaning =====
+
+to confess in turn, i.e. respond in praise
+
+===== Usage =====
+
+give thanks.
+
+===== Strongs References =====
+
+[[en:lexicon:g473|G473]]
+[[en:lexicon:g3670|G3670]]

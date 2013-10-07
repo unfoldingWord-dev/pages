@@ -1,0 +1,18 @@
+====== G3835: πανοῦργος (panoûrgos) ======
+
+===== Source =====
+
+from [[en:lexicon:g3956|G3956]] and [[en:lexicon:g2041|G2041]];
+
+===== Meaning =====
+
+all-working, i.e. adroit (shrewd)
+
+===== Usage =====
+
+crafty.
+
+===== Strongs References =====
+
+[[en:lexicon:g3956|G3956]]
+[[en:lexicon:g2041|G2041]]

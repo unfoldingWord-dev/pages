@@ -1,0 +1,17 @@
+====== G4948: Σύρος (Sýros) ======
+
+===== Source =====
+
+from the same as [[en:lexicon:g4947|G4947]];
+
+===== Meaning =====
+
+a Syran (i.e. probably Tyrian), a native of Syria
+
+===== Usage =====
+
+Syrian.
+
+===== Strongs References =====
+
+[[en:lexicon:g4947|G4947]]

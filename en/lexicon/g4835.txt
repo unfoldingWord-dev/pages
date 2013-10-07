@@ -1,0 +1,17 @@
+====== G4835: συμπαθής (sympathḗs) ======
+
+===== Source =====
+
+from [[en:lexicon:g4841|G4841]];
+
+===== Meaning =====
+
+having a fellow-feeling ("sympathetic"), i.e. (by implication) mutually commiserative
+
+===== Usage =====
+
+having compassion one of another.
+
+===== Strongs References =====
+
+[[en:lexicon:g4841|G4841]]

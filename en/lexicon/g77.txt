@@ -1,0 +1,18 @@
+====== G77: ἀδάπανος (adápanos) ======
+
+===== Source =====
+
+from [[en:lexicon:g1|G1]] (as negative particle);
+
+===== Meaning =====
+
+and
+
+===== Usage =====
+
+without expense.
+
+===== Strongs References =====
+
+[[en:lexicon:g1|G1]]
+[[en:lexicon:g1160|G1160]]

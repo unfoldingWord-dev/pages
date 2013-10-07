@@ -1,0 +1,18 @@
+====== G2256: ἡμιώριον (hēmiṓrion) ======
+
+===== Source =====
+
+from the base of [[en:lexicon:g2255|G2255]] and [[en:lexicon:g5610|G5610]];
+
+===== Meaning =====
+
+a half-hour
+
+===== Usage =====
+
+half an hour.
+
+===== Strongs References =====
+
+[[en:lexicon:g2255|G2255]]
+[[en:lexicon:g5610|G5610]]

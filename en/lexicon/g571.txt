@@ -1,0 +1,18 @@
+====== G571: ἄπιστος (ápistos) ======
+
+===== Source =====
+
+from [[en:lexicon:g1|G1]] (as a negative particle) and [[en:lexicon:g4103|G4103]];
+
+===== Meaning =====
+
+(actively) disbelieving, i.e. without Christian faith (specially, a heathen); (passively) untrustworthy (person), or incredible (thing)
+
+===== Usage =====
+
+that believeth not, faithless, incredible thing, infidel, unbeliever(-ing).
+
+===== Strongs References =====
+
+[[en:lexicon:g1|G1]]
+[[en:lexicon:g4103|G4103]]

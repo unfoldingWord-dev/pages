@@ -1,0 +1,18 @@
+====== G4312: προπετής (propetḗs) ======
+
+===== Source =====
+
+from a compound of [[en:lexicon:g4253|G4253]] and [[en:lexicon:g4098|G4098]];
+
+===== Meaning =====
+
+falling forward, i.e. headlong (figuratively, precipitate)
+
+===== Usage =====
+
+heady, rash(-ly).
+
+===== Strongs References =====
+
+[[en:lexicon:g4253|G4253]]
+[[en:lexicon:g4098|G4098]]

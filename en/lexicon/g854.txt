@@ -1,0 +1,17 @@
+====== G854: ἀφανισμός (aphanismós) ======
+
+===== Source =====
+
+from [[en:lexicon:g853|G853]];
+
+===== Meaning =====
+
+disappearance, i.e. (figuratively) abrogation
+
+===== Usage =====
+
+vanish away.
+
+===== Strongs References =====
+
+[[en:lexicon:g853|G853]]

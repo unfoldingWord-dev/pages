@@ -1,0 +1,18 @@
+====== G3888: παραμυθέομαι (paramythéomai) ======
+
+===== Source =====
+
+from [[en:lexicon:g3844|G3844]] and the middle voice of a derivative of [[en:lexicon:g3454|G3454]];
+
+===== Meaning =====
+
+to relate near, i.e. (by implication) encourage, console
+
+===== Usage =====
+
+comfort.
+
+===== Strongs References =====
+
+[[en:lexicon:g3844|G3844]]
+[[en:lexicon:g3454|G3454]]

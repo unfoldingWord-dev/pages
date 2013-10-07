@@ -1,0 +1,17 @@
+====== G265: ἁμάρτημα (hamártēma) ======
+
+===== Source =====
+
+from [[en:lexicon:g264|G264]];
+
+===== Meaning =====
+
+a sin (properly concrete)
+
+===== Usage =====
+
+sin.
+
+===== Strongs References =====
+
+[[en:lexicon:g264|G264]]

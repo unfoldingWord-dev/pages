@@ -1,0 +1,17 @@
+====== G739: ἄρτιος (ártios) ======
+
+===== Source =====
+
+from [[en:lexicon:g737|G737]];
+
+===== Meaning =====
+
+fresh, i.e. (by implication) complete
+
+===== Usage =====
+
+perfect.
+
+===== Strongs References =====
+
+[[en:lexicon:g737|G737]]

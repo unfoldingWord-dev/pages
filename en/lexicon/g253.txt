@@ -1,0 +1,18 @@
+====== G253: ἀλυπότερος (alypóteros) ======
+
+===== Source =====
+
+comparative of a compound of [[en:lexicon:g1|G1]] (as a negative particle) and [[en:lexicon:g3077|G3077]];
+
+===== Meaning =====
+
+more without grief
+
+===== Usage =====
+
+less sorrowful.
+
+===== Strongs References =====
+
+[[en:lexicon:g1|G1]]
+[[en:lexicon:g3077|G3077]]

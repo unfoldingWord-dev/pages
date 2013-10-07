@@ -1,0 +1,17 @@
+====== G4161: ποίημα (poíēma) ======
+
+===== Source =====
+
+from [[en:lexicon:g4160|G4160]];
+
+===== Meaning =====
+
+a product, i.e. fabric (literally or figuratively)
+
+===== Usage =====
+
+thing that is made, workmanship.
+
+===== Strongs References =====
+
+[[en:lexicon:g4160|G4160]]

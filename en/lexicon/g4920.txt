@@ -1,0 +1,17 @@
+====== G4920: συνίημι (syníēmi) ======
+
+===== Source =====
+
+from [[en:lexicon:g4862|G4862]] and ἵημι (híēmi) (to send);
+
+===== Meaning =====
+
+to put together, i.e. (mentally) to comprehend; by implication, to act piously
+
+===== Usage =====
+
+ consider, understand, be wise.
+
+===== Strongs References =====
+
+[[en:lexicon:g4862|G4862]]

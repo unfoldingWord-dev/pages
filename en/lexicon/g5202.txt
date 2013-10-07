@@ -1,0 +1,18 @@
+====== G5202: ὑδροποτέω (hydropotéō) ======
+
+===== Source =====
+
+from a compound of [[en:lexicon:g5204|G5204]] and a derivative of [[en:lexicon:g4095|G4095]];
+
+===== Meaning =====
+
+to be a water-drinker, i.e. to abstain from vinous beverages
+
+===== Usage =====
+
+drink water.
+
+===== Strongs References =====
+
+[[en:lexicon:g5204|G5204]]
+[[en:lexicon:g4095|G4095]]

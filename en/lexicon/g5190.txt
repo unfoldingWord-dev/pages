@@ -1,0 +1,17 @@
+====== G5190: Τυχικός (Tychikós) ======
+
+===== Source =====
+
+from a derivative of [[en:lexicon:g5177|G5177]];
+
+===== Meaning =====
+
+fortuitous, i.e. fortunate; Tychicus, a Christian
+
+===== Usage =====
+
+Tychicus.
+
+===== Strongs References =====
+
+[[en:lexicon:g5177|G5177]]

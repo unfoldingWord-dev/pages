@@ -1,0 +1,17 @@
+====== G5624: ὠφέλιμος (ōphélimos) ======
+
+===== Source =====
+
+from a form of [[en:lexicon:g3786|G3786]];
+
+===== Meaning =====
+
+helpful or serviceable, i.e. advantageous
+
+===== Usage =====
+
+profit(-able).
+
+===== Strongs References =====
+
+[[en:lexicon:g3786|G3786]]

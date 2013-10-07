@@ -1,0 +1,17 @@
+====== G4711: σπυρίς (spyrís) ======
+
+===== Source =====
+
+from [[en:lexicon:g4687|G4687]] (as woven);
+
+===== Meaning =====
+
+a hamper or lunch-receptacle
+
+===== Usage =====
+
+basket.
+
+===== Strongs References =====
+
+[[en:lexicon:g4687|G4687]]

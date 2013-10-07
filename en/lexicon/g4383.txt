@@ -1,0 +1,18 @@
+====== G4383: πρόσωπον (prósōpon) ======
+
+===== Source =====
+
+from [[en:lexicon:g4314|G4314]] and ὤψ (ṓps) (the visage, from [[en:lexicon:g3700|G3700]]);
+
+===== Meaning =====
+
+the front (as being towards view), i.e. the countenance, aspect, appearance, surface; by implication, presence, person
+
+===== Usage =====
+
+(outward) appearance, X before, countenance, face, fashion, (men's) person, presence.
+
+===== Strongs References =====
+
+[[en:lexicon:g4314|G4314]]
+[[en:lexicon:g3700|G3700]]

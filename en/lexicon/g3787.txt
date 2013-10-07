@@ -1,0 +1,18 @@
+====== G3787: ὀφθαλμοδουλεία (ophthalmodouleía) ======
+
+===== Source =====
+
+from [[en:lexicon:g3788|G3788]] and [[en:lexicon:g1397|G1397]];
+
+===== Meaning =====
+
+sight-labor, i.e. that needs watching (remissness)
+
+===== Usage =====
+
+eye-service.
+
+===== Strongs References =====
+
+[[en:lexicon:g3788|G3788]]
+[[en:lexicon:g1397|G1397]]

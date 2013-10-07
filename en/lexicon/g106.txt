@@ -1,0 +1,18 @@
+====== G106: ἄζυμος (ázymos) ======
+
+===== Source =====
+
+from [[en:lexicon:g1|G1]] (as a negative particle) and [[en:lexicon:g2219|G2219]];
+
+===== Meaning =====
+
+unleavened, i.e. (figuratively) uncorrupted; (in the neutral plural) specially (by implication) the Passover week
+
+===== Usage =====
+
+unleavened (bread).
+
+===== Strongs References =====
+
+[[en:lexicon:g1|G1]]
+[[en:lexicon:g2219|G2219]]

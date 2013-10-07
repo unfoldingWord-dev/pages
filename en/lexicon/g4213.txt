@@ -1,0 +1,17 @@
+====== G4213: πόσις (pósis) ======
+
+===== Source =====
+
+from the alternate of [[en:lexicon:g4095|G4095]];
+
+===== Meaning =====
+
+a drinking (the act), i.e. (concretely) a draught
+
+===== Usage =====
+
+drink.
+
+===== Strongs References =====
+
+[[en:lexicon:g4095|G4095]]

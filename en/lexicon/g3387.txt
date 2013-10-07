@@ -1,0 +1,18 @@
+====== G3387: μήτις (mḗtis) ======
+
+===== Source =====
+
+from [[en:lexicon:g3361|G3361]] and [[en:lexicon:g5100|G5100]];
+
+===== Meaning =====
+
+whether any
+
+===== Usage =====
+
+any (sometimes unexpressed except by the simple interrogative form of the sentence).
+
+===== Strongs References =====
+
+[[en:lexicon:g3361|G3361]]
+[[en:lexicon:g5100|G5100]]

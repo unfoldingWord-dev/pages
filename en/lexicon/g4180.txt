@@ -1,0 +1,18 @@
+====== G4180: πολυλογία (polylogía) ======
+
+===== Source =====
+
+from a compound of [[en:lexicon:g4183|G4183]] and [[en:lexicon:g3056|G3056]];
+
+===== Meaning =====
+
+loquacity, i.e. prolixity
+
+===== Usage =====
+
+much speaking.
+
+===== Strongs References =====
+
+[[en:lexicon:g4183|G4183]]
+[[en:lexicon:g3056|G3056]]

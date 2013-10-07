@@ -1,0 +1,18 @@
+====== G5263: ὑποδείκνυμι (hypodeíknymi) ======
+
+===== Source =====
+
+from [[en:lexicon:g5259|G5259]] and [[en:lexicon:g1166|G1166]];
+
+===== Meaning =====
+
+to exhibit under the eyes, i.e. (figuratively) to exemplify (instruct, admonish)
+
+===== Usage =====
+
+show, (fore-)warn.
+
+===== Strongs References =====
+
+[[en:lexicon:g5259|G5259]]
+[[en:lexicon:g1166|G1166]]

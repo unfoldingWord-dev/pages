@@ -1,0 +1,17 @@
+====== G376: ἀνάπηρος (anápēros) ======
+
+===== Source =====
+
+from [[en:lexicon:g303|G303]] (in the sense of intensity) and πῆρος (pēros) (maimed);
+
+===== Meaning =====
+
+crippled
+
+===== Usage =====
+
+maimed.
+
+===== Strongs References =====
+
+[[en:lexicon:g303|G303]]

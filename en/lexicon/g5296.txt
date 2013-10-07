@@ -1,0 +1,18 @@
+====== G5296: ὑποτύπωσις (hypotýpōsis) ======
+
+===== Source =====
+
+from a compound of [[en:lexicon:g5259|G5259]] and a derivative of [[en:lexicon:g5179|G5179]];
+
+===== Meaning =====
+
+typification under (after), i.e. (concretely) a sketch (figuratively) for imitation
+
+===== Usage =====
+
+form, pattern.
+
+===== Strongs References =====
+
+[[en:lexicon:g5259|G5259]]
+[[en:lexicon:g5179|G5179]]

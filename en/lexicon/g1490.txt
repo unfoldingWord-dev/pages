@@ -1,0 +1,20 @@
+====== G1490: εἰ δὲ μή(γε) (ei dè mḗ(ge)) ======
+
+===== Source =====
+
+from [[en:lexicon:g1487|G1487]], [[en:lexicon:g1161|G1161]], and [[en:lexicon:g3361|G3361]] (sometimes with [[en:lexicon:g1065|G1065]] added);
+
+===== Meaning =====
+
+but if not
+
+===== Usage =====
+
+(or) else, if (not, otherwise), otherwise.
+
+===== Strongs References =====
+
+[[en:lexicon:g1487|G1487]]
+[[en:lexicon:g1161|G1161]]
+[[en:lexicon:g3361|G3361]]
+[[en:lexicon:g1065|G1065]]

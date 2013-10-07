@@ -1,0 +1,17 @@
+====== G2376: θυρίς (thyrís) ======
+
+===== Source =====
+
+from [[en:lexicon:g2374|G2374]];
+
+===== Meaning =====
+
+an aperture, i.e. window
+
+===== Usage =====
+
+window.
+
+===== Strongs References =====
+
+[[en:lexicon:g2374|G2374]]

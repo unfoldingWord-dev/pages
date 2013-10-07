@@ -1,0 +1,17 @@
+====== G2763: κεραμεύς (kerameús) ======
+
+===== Source =====
+
+from [[en:lexicon:g2766|G2766]];
+
+===== Meaning =====
+
+a potter
+
+===== Usage =====
+
+potter.
+
+===== Strongs References =====
+
+[[en:lexicon:g2766|G2766]]

@@ -1,0 +1,18 @@
+====== G4377: προσφωνέω (prosphōnéō) ======
+
+===== Source =====
+
+from [[en:lexicon:g4314|G4314]] and [[en:lexicon:g5455|G5455]];
+
+===== Meaning =====
+
+to sound towards, i.e. address, exclaim, summon
+
+===== Usage =====
+
+call unto, speak (un-)to.
+
+===== Strongs References =====
+
+[[en:lexicon:g4314|G4314]]
+[[en:lexicon:g5455|G5455]]

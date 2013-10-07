@@ -1,0 +1,18 @@
+====== G3632: οἰνοφλυγία (oinophlygía) ======
+
+===== Source =====
+
+from [[en:lexicon:g3631|G3631]] and a form of the base of [[en:lexicon:g5397|G5397]];
+
+===== Meaning =====
+
+an overflow (or surplus) of wine, i.e. vinolency (drunkenness)
+
+===== Usage =====
+
+excess of wine.
+
+===== Strongs References =====
+
+[[en:lexicon:g3631|G3631]]
+[[en:lexicon:g5397|G5397]]

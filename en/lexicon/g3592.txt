@@ -1,0 +1,18 @@
+====== G3592: ὅδε (hóde) ======
+
+===== Source =====
+
+from [[en:lexicon:g3588|G3588]] and [[en:lexicon:g1161|G1161]];
+
+===== Meaning =====
+
+the same, i.e. this or that one (plural these or those); often used as a personal pronoun
+
+===== Usage =====
+
+he, she, such, these, thus.
+
+===== Strongs References =====
+
+[[en:lexicon:g3588|G3588]]
+[[en:lexicon:g1161|G1161]]

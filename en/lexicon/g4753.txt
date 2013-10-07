@@ -1,0 +1,17 @@
+====== G4753: στράτευμα (stráteuma) ======
+
+===== Source =====
+
+from [[en:lexicon:g4754|G4754]];
+
+===== Meaning =====
+
+an armament, i.e. (by implication) a body of troops (more or less extensive or systematic)
+
+===== Usage =====
+
+army, soldier, man of war.
+
+===== Strongs References =====
+
+[[en:lexicon:g4754|G4754]]

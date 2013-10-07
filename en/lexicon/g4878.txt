@@ -1,0 +1,18 @@
+====== G4878: συναντιλαμβάνομαι (synantilambánomai) ======
+
+===== Source =====
+
+from [[en:lexicon:g4862|G4862]] and [[en:lexicon:g482|G482]];
+
+===== Meaning =====
+
+to take hold of opposite together, i.e. co-operate (assist)
+
+===== Usage =====
+
+help.
+
+===== Strongs References =====
+
+[[en:lexicon:g4862|G4862]]
+[[en:lexicon:g482|G482]]

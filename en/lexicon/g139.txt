@@ -1,0 +1,17 @@
+====== G139: αἵρεσις (haíresis) ======
+
+===== Source =====
+
+from [[en:lexicon:g138|G138]];
+
+===== Meaning =====
+
+properly, a choice, i.e. (specially) a party or (abstractly) disunion
+
+===== Usage =====
+
+heresy (which is the Greek word itself), sect.
+
+===== Strongs References =====
+
+[[en:lexicon:g138|G138]]

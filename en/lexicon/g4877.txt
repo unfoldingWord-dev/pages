@@ -1,0 +1,17 @@
+====== G4877: συνάντησις (synántēsis) ======
+
+===== Source =====
+
+from [[en:lexicon:g4876|G4876]];
+
+===== Meaning =====
+
+a meeting with
+
+===== Usage =====
+
+meet.
+
+===== Strongs References =====
+
+[[en:lexicon:g4876|G4876]]

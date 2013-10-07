@@ -1,0 +1,18 @@
+====== G5233: ὑπερβαίνω (hyperbaínō) ======
+
+===== Source =====
+
+from [[en:lexicon:g5228|G5228]] and the base of [[en:lexicon:g939|G939]];
+
+===== Meaning =====
+
+to transcend, i.e. (figuratively) to overreach
+
+===== Usage =====
+
+go beyond.
+
+===== Strongs References =====
+
+[[en:lexicon:g5228|G5228]]
+[[en:lexicon:g939|G939]]

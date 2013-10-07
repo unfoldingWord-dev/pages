@@ -1,0 +1,18 @@
+====== G4832: σύμμορφος (sýmmorphos) ======
+
+===== Source =====
+
+from [[en:lexicon:g4862|G4862]] and [[en:lexicon:g3444|G3444]];
+
+===== Meaning =====
+
+jointly formed, i.e. (figuratively) similar
+
+===== Usage =====
+
+conformed to, fashioned like unto.
+
+===== Strongs References =====
+
+[[en:lexicon:g4862|G4862]]
+[[en:lexicon:g3444|G3444]]

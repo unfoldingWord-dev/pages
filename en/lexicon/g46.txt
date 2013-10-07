@@ -1,0 +1,18 @@
+====== G46: ἄγναφος (ágnaphos) ======
+
+===== Source =====
+
+from [[en:lexicon:g1|G1]] (as a negative particle) and the same as [[en:lexicon:g1102|G1102]];
+
+===== Meaning =====
+
+properly, unfulled, i.e. (by implication) new (cloth)
+
+===== Usage =====
+
+new.
+
+===== Strongs References =====
+
+[[en:lexicon:g1|G1]]
+[[en:lexicon:g1102|G1102]]

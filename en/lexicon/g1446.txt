@@ -1,0 +1,17 @@
+====== G1446: Ἑβραΐς (Hebraḯs) ======
+
+===== Source =====
+
+from [[en:lexicon:g1443|G1443]];
+
+===== Meaning =====
+
+the Hebraistic (Hebrew) or Jewish (Chaldee) language
+
+===== Usage =====
+
+Hebrew.
+
+===== Strongs References =====
+
+[[en:lexicon:g1443|G1443]]

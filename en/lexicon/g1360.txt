@@ -1,0 +1,18 @@
+====== G1360: διότι (dióti) ======
+
+===== Source =====
+
+from [[en:lexicon:g1223|G1223]] and [[en:lexicon:g3754|G3754]];
+
+===== Meaning =====
+
+on the very account that, or inasmuch as
+
+===== Usage =====
+
+because (that), for, therefore.
+
+===== Strongs References =====
+
+[[en:lexicon:g1223|G1223]]
+[[en:lexicon:g3754|G3754]]

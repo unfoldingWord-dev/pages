@@ -1,0 +1,17 @@
+====== G4214: πόσος (pósos) ======
+
+===== Source =====
+
+from an absolute πός (pós) (who, what) and [[en:lexicon:g3739|G3739]];
+
+===== Meaning =====
+
+interrogative pronoun (of amount) how much (large, long or (plural) many)
+
+===== Usage =====
+
+how great (long, many), what.
+
+===== Strongs References =====
+
+[[en:lexicon:g3739|G3739]]

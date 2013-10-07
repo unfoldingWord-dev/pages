@@ -1,0 +1,17 @@
+====== G4262: προβατικός (probatikós) ======
+
+===== Source =====
+
+from [[en:lexicon:g4263|G4263]];
+
+===== Meaning =====
+
+relating to sheep, i.e. (a gate) through which they were led into Jerusalem
+
+===== Usage =====
+
+sheep (market).
+
+===== Strongs References =====
+
+[[en:lexicon:g4263|G4263]]

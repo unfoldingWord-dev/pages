@@ -1,0 +1,18 @@
+====== G4266: προγίνομαι (progínomai) ======
+
+===== Source =====
+
+from [[en:lexicon:g4253|G4253]] and [[en:lexicon:g1096|G1096]];
+
+===== Meaning =====
+
+to be already, i.e. have previousy transpired
+
+===== Usage =====
+
+be past.
+
+===== Strongs References =====
+
+[[en:lexicon:g4253|G4253]]
+[[en:lexicon:g1096|G1096]]

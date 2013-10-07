@@ -1,0 +1,18 @@
+====== G1287: διασκορπίζω (diaskorpízō) ======
+
+===== Source =====
+
+from [[en:lexicon:g1223|G1223]] and [[en:lexicon:g4650|G4650]];
+
+===== Meaning =====
+
+to dissipate, i.e. (genitive case) to rout or separate; specially, to winnow; figuratively, to squander
+
+===== Usage =====
+
+disperse, scatter (abroad), strew, waste.
+
+===== Strongs References =====
+
+[[en:lexicon:g1223|G1223]]
+[[en:lexicon:g4650|G4650]]

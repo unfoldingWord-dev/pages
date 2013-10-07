@@ -1,0 +1,18 @@
+====== G380: ἀναπτύσσω (anaptýssō) ======
+
+===== Source =====
+
+from [[en:lexicon:g303|G303]] (in the sense of reversal) and [[en:lexicon:g4428|G4428]];
+
+===== Meaning =====
+
+to unroll (a scroll or volume)
+
+===== Usage =====
+
+open.
+
+===== Strongs References =====
+
+[[en:lexicon:g303|G303]]
+[[en:lexicon:g4428|G4428]]

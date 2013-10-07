@@ -1,0 +1,18 @@
+====== G5278: ὑπομένω (hypoménō) ======
+
+===== Source =====
+
+from [[en:lexicon:g5259|G5259]] and [[en:lexicon:g3306|G3306]];
+
+===== Meaning =====
+
+to stay under (behind), i.e. remain; figuratively, to undergo, i.e. bear (trials), have fortitude, persevere
+
+===== Usage =====
+
+abide, endure, (take) patient(-ly), suffer, tarry behind.
+
+===== Strongs References =====
+
+[[en:lexicon:g5259|G5259]]
+[[en:lexicon:g3306|G3306]]

@@ -1,0 +1,18 @@
+====== G1735: ἐνδέχεται (endéchetai) ======
+
+===== Source =====
+
+third person singular present of a compound of [[en:lexicon:g1722|G1722]] and [[en:lexicon:g1209|G1209]];
+
+===== Meaning =====
+
+(impersonally) it is accepted in, i.e. admitted (possible)
+
+===== Usage =====
+
+can (+ not) be.
+
+===== Strongs References =====
+
+[[en:lexicon:g1722|G1722]]
+[[en:lexicon:g1209|G1209]]

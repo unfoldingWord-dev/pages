@@ -1,0 +1,18 @@
+====== G5121: τοὐναντίον (tounantíon) ======
+
+===== Source =====
+
+contraction for the neuter of [[en:lexicon:g3588|G3588]] and [[en:lexicon:g1726|G1726]];
+
+===== Meaning =====
+
+on the contrary
+
+===== Usage =====
+
+contrariwise.
+
+===== Strongs References =====
+
+[[en:lexicon:g3588|G3588]]
+[[en:lexicon:g1726|G1726]]

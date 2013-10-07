@@ -1,0 +1,18 @@
+====== G3753: ὅτε (hóte) ======
+
+===== Source =====
+
+from [[en:lexicon:g3739|G3739]] and [[en:lexicon:g5037|G5037]];
+
+===== Meaning =====
+
+at which (thing) too, i.e. when
+
+===== Usage =====
+
+after (that), as soon as, that, when, while.
+
+===== Strongs References =====
+
+[[en:lexicon:g3739|G3739]]
+[[en:lexicon:g5037|G5037]]

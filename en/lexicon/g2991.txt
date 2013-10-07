@@ -1,0 +1,18 @@
+====== G2991: λαξευτός (laxeutós) ======
+
+===== Source =====
+
+from a compound of λᾶς (lâs) (a stone) and the base of [[en:lexicon:g3584|G3584]] (in its original
+ sense of scraping);
+
+===== Meaning =====
+
+rock-quarried
+
+===== Usage =====
+
+hewn in stone.
+
+===== Strongs References =====
+
+[[en:lexicon:g3584|G3584]]

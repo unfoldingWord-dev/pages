@@ -1,0 +1,18 @@
+====== G382: ἀναρίθμητος (anaríthmētos) ======
+
+===== Source =====
+
+from [[en:lexicon:g1|G1]] (as a negative particle) and a derivative of [[en:lexicon:g705|G705]];
+
+===== Meaning =====
+
+unnumbered, i.e. without number
+
+===== Usage =====
+
+innumerable.
+
+===== Strongs References =====
+
+[[en:lexicon:g1|G1]]
+[[en:lexicon:g705|G705]]

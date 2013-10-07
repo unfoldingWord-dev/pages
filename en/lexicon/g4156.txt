@@ -1,0 +1,17 @@
+====== G4156: πνικτός (pniktós) ======
+
+===== Source =====
+
+from [[en:lexicon:g4155|G4155]];
+
+===== Meaning =====
+
+throttled, i.e. (neuter concretely) an animal choked to death (not bled)
+
+===== Usage =====
+
+strangled.
+
+===== Strongs References =====
+
+[[en:lexicon:g4155|G4155]]

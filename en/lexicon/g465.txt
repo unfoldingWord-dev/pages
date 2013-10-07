@@ -1,0 +1,18 @@
+====== G465: ἀντάλλαγμα (antállagma) ======
+
+===== Source =====
+
+from a compound of [[en:lexicon:g473|G473]] and [[en:lexicon:g236|G236]];
+
+===== Meaning =====
+
+an equivalent or ransom
+
+===== Usage =====
+
+in exchange.
+
+===== Strongs References =====
+
+[[en:lexicon:g473|G473]]
+[[en:lexicon:g236|G236]]

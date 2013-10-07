@@ -1,0 +1,18 @@
+====== G4900: συνελαύνω (synelaúnō) ======
+
+===== Source =====
+
+from [[en:lexicon:g4862|G4862]] and [[en:lexicon:g1643|G1643]];
+
+===== Meaning =====
+
+to drive together, i.e. (figuratively) exhort (to reconciliation)
+
+===== Usage =====
+
++ set at one again.
+
+===== Strongs References =====
+
+[[en:lexicon:g4862|G4862]]
+[[en:lexicon:g1643|G1643]]

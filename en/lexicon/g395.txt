@@ -1,0 +1,17 @@
+====== G395: ἀνατολή (anatolḗ) ======
+
+===== Source =====
+
+from [[en:lexicon:g393|G393]];
+
+===== Meaning =====
+
+a rising of light, i.e. dawn (figuratively); by implication, the east (also in plural)
+
+===== Usage =====
+
+dayspring, east, rising.
+
+===== Strongs References =====
+
+[[en:lexicon:g393|G393]]

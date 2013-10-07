@@ -1,0 +1,17 @@
+====== G690: Ἄραψ (Áraps) ======
+
+===== Source =====
+
+from [[en:lexicon:g688|G688]];
+
+===== Meaning =====
+
+an Arab or native of Arabia
+
+===== Usage =====
+
+Arabian.
+
+===== Strongs References =====
+
+[[en:lexicon:g688|G688]]

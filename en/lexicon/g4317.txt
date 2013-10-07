@@ -1,0 +1,18 @@
+====== G4317: προσάγω (proságō) ======
+
+===== Source =====
+
+from [[en:lexicon:g4314|G4314]] and [[en:lexicon:g71|G71]];
+
+===== Meaning =====
+
+to lead towards, i.e. (transitively) to conduct near (summon, present), or (intransitively) to approach
+
+===== Usage =====
+
+bring, draw near.
+
+===== Strongs References =====
+
+[[en:lexicon:g4314|G4314]]
+[[en:lexicon:g71|G71]]

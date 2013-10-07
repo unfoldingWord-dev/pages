@@ -1,0 +1,17 @@
+====== G1703: ἐμπαίκτης (empaíktēs) ======
+
+===== Source =====
+
+from [[en:lexicon:g1702|G1702]];
+
+===== Meaning =====
+
+a derider, i.e. (by implication) a false teacher
+
+===== Usage =====
+
+mocker, scoffer.
+
+===== Strongs References =====
+
+[[en:lexicon:g1702|G1702]]

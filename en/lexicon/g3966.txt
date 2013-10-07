@@ -1,0 +1,18 @@
+====== G3966: πατριάρχης (patriárchēs) ======
+
+===== Source =====
+
+from [[en:lexicon:g3965|G3965]] and [[en:lexicon:g757|G757]];
+
+===== Meaning =====
+
+a progenitor ("patriarch")
+
+===== Usage =====
+
+patriarch.
+
+===== Strongs References =====
+
+[[en:lexicon:g3965|G3965]]
+[[en:lexicon:g757|G757]]

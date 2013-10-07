@@ -1,0 +1,19 @@
+====== G63: ἀγραυλέω (agrauléō) ======
+
+===== Source =====
+
+from [[en:lexicon:g68|G68]] and [[en:lexicon:g832|G832]] (in the sense of [[en:lexicon:g833|G833]]);
+
+===== Meaning =====
+
+to camp out
+
+===== Usage =====
+
+abide in the field.
+
+===== Strongs References =====
+
+[[en:lexicon:g68|G68]]
+[[en:lexicon:g832|G832]]
+[[en:lexicon:g833|G833]]

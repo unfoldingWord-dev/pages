@@ -1,0 +1,17 @@
+====== G5371: Φιλήμων (Philḗmōn) ======
+
+===== Source =====
+
+from [[en:lexicon:g5368|G5368]];
+
+===== Meaning =====
+
+friendly; Philemon, a Christian
+
+===== Usage =====
+
+Philemon.
+
+===== Strongs References =====
+
+[[en:lexicon:g5368|G5368]]

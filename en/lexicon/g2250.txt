@@ -1,0 +1,19 @@
+====== G2250: ἡμέρα (hēméra) ======
+
+===== Source =====
+
+feminine (with [[en:lexicon:g5610|G5610]] implied) of a derivative of ἧμαι (hēmai) (to sit; akin to
+ the base of [[en:lexicon:g1476|G1476]]) meaning tame, i.e. gentle;
+
+===== Meaning =====
+
+day, i.e. (literally) the time space between dawn and dark, or the whole 24 hours (but several days were usually reckoned by the Jews as inclusive of the parts of both extremes); figuratively, a period (always defined more or less clearly by the context)
+
+===== Usage =====
+
+age, + alway, (mid-)day (by day, (-ly)), + for ever, judgment, (day) time, while, years.
+
+===== Strongs References =====
+
+[[en:lexicon:g5610|G5610]]
+[[en:lexicon:g1476|G1476]]

@@ -1,0 +1,17 @@
+====== G3492: ναύτης (naútēs) ======
+
+===== Source =====
+
+from [[en:lexicon:g3491|G3491]];
+
+===== Meaning =====
+
+a boatman, i.e. seaman
+
+===== Usage =====
+
+sailor, shipman.
+
+===== Strongs References =====
+
+[[en:lexicon:g3491|G3491]]

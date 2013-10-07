@@ -1,0 +1,18 @@
+====== G4860: συμψηφίζω (sympsēphízō) ======
+
+===== Source =====
+
+from [[en:lexicon:g4862|G4862]] and [[en:lexicon:g5585|G5585]];
+
+===== Meaning =====
+
+to compute jointly
+
+===== Usage =====
+
+reckon.
+
+===== Strongs References =====
+
+[[en:lexicon:g4862|G4862]]
+[[en:lexicon:g5585|G5585]]

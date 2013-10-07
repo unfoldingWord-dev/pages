@@ -1,0 +1,19 @@
+====== G114: ἀθετέω (athetéō) ======
+
+===== Source =====
+
+from a compound of [[en:lexicon:g1|G1]] (as a negative particle) and a derivative of
+ [[en:lexicon:g5087|G5087]];
+
+===== Meaning =====
+
+to set aside, i.e. (by implication) to disesteem, neutralize or violate
+
+===== Usage =====
+
+cast off, despise, disannul, frustrate, bring to nought, reject.
+
+===== Strongs References =====
+
+[[en:lexicon:g1|G1]]
+[[en:lexicon:g5087|G5087]]

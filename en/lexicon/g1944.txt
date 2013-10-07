@@ -1,0 +1,18 @@
+====== G1944: ἐπικατάρατος (epikatáratos) ======
+
+===== Source =====
+
+from [[en:lexicon:g1909|G1909]] and a derivative of [[en:lexicon:g2672|G2672]];
+
+===== Meaning =====
+
+imprecated, i.e. execrable
+
+===== Usage =====
+
+accursed.
+
+===== Strongs References =====
+
+[[en:lexicon:g1909|G1909]]
+[[en:lexicon:g2672|G2672]]

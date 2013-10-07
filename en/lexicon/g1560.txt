@@ -1,0 +1,18 @@
+====== G1560: ἔκδοτος (ékdotos) ======
+
+===== Source =====
+
+from [[en:lexicon:g1537|G1537]] and a derivative of [[en:lexicon:g1325|G1325]];
+
+===== Meaning =====
+
+given out or over, i.e. surrendered
+
+===== Usage =====
+
+delivered.
+
+===== Strongs References =====
+
+[[en:lexicon:g1537|G1537]]
+[[en:lexicon:g1325|G1325]]

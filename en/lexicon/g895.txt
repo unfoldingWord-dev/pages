@@ -1,0 +1,18 @@
+====== G895: ἄψυχος (ápsychos) ======
+
+===== Source =====
+
+from [[en:lexicon:g1|G1]] (as a negative particle) and [[en:lexicon:g5590|G5590]];
+
+===== Meaning =====
+
+lifeless, i.e. inanimate (mechanical)
+
+===== Usage =====
+
+without life.
+
+===== Strongs References =====
+
+[[en:lexicon:g1|G1]]
+[[en:lexicon:g5590|G5590]]

@@ -1,0 +1,18 @@
+====== G2683: κατασκιάζω (kataskiázō) ======
+
+===== Source =====
+
+from [[en:lexicon:g2596|G2596]] and a derivative of [[en:lexicon:g4639|G4639]];
+
+===== Meaning =====
+
+to overshade, i.e. cover
+
+===== Usage =====
+
+shadow.
+
+===== Strongs References =====
+
+[[en:lexicon:g2596|G2596]]
+[[en:lexicon:g4639|G4639]]

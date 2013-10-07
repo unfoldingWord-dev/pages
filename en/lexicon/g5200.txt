@@ -1,0 +1,17 @@
+====== G5200: ὑγρός (hygrós) ======
+
+===== Source =====
+
+from the base of [[en:lexicon:g5205|G5205]];
+
+===== Meaning =====
+
+wet (as if with rain), i.e. (by implication) sappy (fresh)
+
+===== Usage =====
+
+green.
+
+===== Strongs References =====
+
+[[en:lexicon:g5205|G5205]]

@@ -1,0 +1,19 @@
+====== G4358: προσορμίζω (prosormízō) ======
+
+===== Source =====
+
+from [[en:lexicon:g4314|G4314]] and a derivative of the same as [[en:lexicon:g3730|G3730]] (meaning to tie
+ (anchor) or lull);
+
+===== Meaning =====
+
+to moor to, i.e. (by implication) land at
+
+===== Usage =====
+
+draw to the shore.
+
+===== Strongs References =====
+
+[[en:lexicon:g4314|G4314]]
+[[en:lexicon:g3730|G3730]]

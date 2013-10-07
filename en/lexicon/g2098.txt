@@ -1,0 +1,17 @@
+====== G2098: εὐαγγέλιον (euangélion) ======
+
+===== Source =====
+
+from the same as [[en:lexicon:g2097|G2097]];
+
+===== Meaning =====
+
+a good message, i.e. the gospel
+
+===== Usage =====
+
+gospel.
+
+===== Strongs References =====
+
+[[en:lexicon:g2097|G2097]]

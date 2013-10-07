@@ -1,0 +1,17 @@
+====== G5462: φωτισμός (phōtismós) ======
+
+===== Source =====
+
+from [[en:lexicon:g5461|G5461]];
+
+===== Meaning =====
+
+illumination (figuratively)
+
+===== Usage =====
+
+light.
+
+===== Strongs References =====
+
+[[en:lexicon:g5461|G5461]]

@@ -1,0 +1,19 @@
+====== G2139: εὐπερίστατος (euperístatos) ======
+
+===== Source =====
+
+from [[en:lexicon:g2095|G2095]] and a derivative of a presumed compound of [[en:lexicon:g4012|G4012]] and [[en:lexicon:g2476|G2476]];
+
+===== Meaning =====
+
+well standing around, i.e. (a competitor) thwarting (a racer) in every direction (figuratively, of sin in genitive case)
+
+===== Usage =====
+
+which doth so easily beset.
+
+===== Strongs References =====
+
+[[en:lexicon:g2095|G2095]]
+[[en:lexicon:g4012|G4012]]
+[[en:lexicon:g2476|G2476]]

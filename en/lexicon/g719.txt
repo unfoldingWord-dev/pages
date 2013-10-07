@@ -1,0 +1,17 @@
+====== G719: ἁρμός (harmós) ======
+
+===== Source =====
+
+from the same as [[en:lexicon:g716|G716]];
+
+===== Meaning =====
+
+an articulation (of the body)
+
+===== Usage =====
+
+joint.
+
+===== Strongs References =====
+
+[[en:lexicon:g716|G716]]

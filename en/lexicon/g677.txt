@@ -1,0 +1,18 @@
+====== G677: ἀπρόσκοπος (apróskopos) ======
+
+===== Source =====
+
+from [[en:lexicon:g1|G1]] (as a negative particle) and a presumed derivative of [[en:lexicon:g4350|G4350]];
+
+===== Meaning =====
+
+actively, inoffensive, i.e. not leading into sin; passively, faultless, i.e. not led into sin
+
+===== Usage =====
+
+none (void of, without) offence.
+
+===== Strongs References =====
+
+[[en:lexicon:g1|G1]]
+[[en:lexicon:g4350|G4350]]

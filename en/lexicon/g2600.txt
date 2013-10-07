@@ -1,0 +1,17 @@
+====== G2600: κατάβασις (katábasis) ======
+
+===== Source =====
+
+from [[en:lexicon:g2597|G2597]];
+
+===== Meaning =====
+
+a declivity
+
+===== Usage =====
+
+descent.
+
+===== Strongs References =====
+
+[[en:lexicon:g2597|G2597]]

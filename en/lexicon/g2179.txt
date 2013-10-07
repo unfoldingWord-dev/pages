@@ -1,0 +1,17 @@
+====== G2179: Ἐφεσῖνος (Ephesînos) ======
+
+===== Source =====
+
+from [[en:lexicon:g2181|G2181]];
+
+===== Meaning =====
+
+Ephesine, or situated at Ephesus
+
+===== Usage =====
+
+of Ephesus.
+
+===== Strongs References =====
+
+[[en:lexicon:g2181|G2181]]

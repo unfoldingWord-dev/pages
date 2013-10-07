@@ -1,0 +1,17 @@
+====== G1730: ἔνδειγμα (éndeigma) ======
+
+===== Source =====
+
+from [[en:lexicon:g1731|G1731]];
+
+===== Meaning =====
+
+an indication (concretely)
+
+===== Usage =====
+
+manifest token.
+
+===== Strongs References =====
+
+[[en:lexicon:g1731|G1731]]

@@ -1,0 +1,17 @@
+====== G4445: πυρέσσω (pyréssō) ======
+
+===== Source =====
+
+from [[en:lexicon:g4443|G4443]];
+
+===== Meaning =====
+
+to be on fire, i.e. (specially), to have a fever
+
+===== Usage =====
+
+be sick of a fever.
+
+===== Strongs References =====
+
+[[en:lexicon:g4443|G4443]]

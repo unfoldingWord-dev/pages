@@ -1,0 +1,18 @@
+====== G3343: μεταπέμπω (metapémpō) ======
+
+===== Source =====
+
+from [[en:lexicon:g3326|G3326]] and [[en:lexicon:g3992|G3992]];
+
+===== Meaning =====
+
+to send from elsewhere, i.e. (middle voice) to summon or invite
+
+===== Usage =====
+
+call (send) for.
+
+===== Strongs References =====
+
+[[en:lexicon:g3326|G3326]]
+[[en:lexicon:g3992|G3992]]

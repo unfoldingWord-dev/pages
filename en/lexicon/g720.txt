@@ -1,0 +1,18 @@
+====== G720: ἀρνέομαι (arnéomai) ======
+
+===== Source =====
+
+perhaps from [[en:lexicon:g1|G1]] (as a negative particle) and the middle voice of [[en:lexicon:g4483|G4483]];
+
+===== Meaning =====
+
+to contradict, i.e. disavow, reject, abnegate
+
+===== Usage =====
+
+deny, refuse.
+
+===== Strongs References =====
+
+[[en:lexicon:g1|G1]]
+[[en:lexicon:g4483|G4483]]

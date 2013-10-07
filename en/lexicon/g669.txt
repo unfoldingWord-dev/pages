@@ -1,0 +1,18 @@
+====== G669: ἀποφθέγγομαι (apophthéngomai) ======
+
+===== Source =====
+
+from [[en:lexicon:g575|G575]] and [[en:lexicon:g5350|G5350]];
+
+===== Meaning =====
+
+to enunciate plainly, i.e. declare
+
+===== Usage =====
+
+say, speak forth, utterance.
+
+===== Strongs References =====
+
+[[en:lexicon:g575|G575]]
+[[en:lexicon:g5350|G5350]]

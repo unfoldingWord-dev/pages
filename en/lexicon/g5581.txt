@@ -1,0 +1,18 @@
+====== G5581: ψευδώνυμος (pseudṓnymos) ======
+
+===== Source =====
+
+from [[en:lexicon:g5571|G5571]] and [[en:lexicon:g3686|G3686]];
+
+===== Meaning =====
+
+untruly named
+
+===== Usage =====
+
+falsely so called.
+
+===== Strongs References =====
+
+[[en:lexicon:g5571|G5571]]
+[[en:lexicon:g3686|G3686]]

@@ -1,0 +1,18 @@
+====== G5570: ψευδαπόστολος (pseudapóstolos) ======
+
+===== Source =====
+
+from [[en:lexicon:g5571|G5571]] and [[en:lexicon:g652|G652]];
+
+===== Meaning =====
+
+a spurious apostle, i.e. pretended pracher
+
+===== Usage =====
+
+false teacher.
+
+===== Strongs References =====
+
+[[en:lexicon:g5571|G5571]]
+[[en:lexicon:g652|G652]]

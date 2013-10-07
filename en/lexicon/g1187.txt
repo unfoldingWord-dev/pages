@@ -1,0 +1,18 @@
+====== G1187: δεξιολάβος (dexiolábos) ======
+
+===== Source =====
+
+from [[en:lexicon:g1188|G1188]] and [[en:lexicon:g2983|G2983]];
+
+===== Meaning =====
+
+a guardsman (as if taking the right) or light-armed soldier
+
+===== Usage =====
+
+spearman.
+
+===== Strongs References =====
+
+[[en:lexicon:g1188|G1188]]
+[[en:lexicon:g2983|G2983]]

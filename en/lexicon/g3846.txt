@@ -1,0 +1,18 @@
+====== G3846: παραβάλλω (parabállō) ======
+
+===== Source =====
+
+from [[en:lexicon:g3844|G3844]] and [[en:lexicon:g906|G906]];
+
+===== Meaning =====
+
+to throw alongside, i.e. (reflexively) to reach a place, or (figuratively) to liken
+
+===== Usage =====
+
+arrive, compare.
+
+===== Strongs References =====
+
+[[en:lexicon:g3844|G3844]]
+[[en:lexicon:g906|G906]]

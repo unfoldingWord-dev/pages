@@ -1,0 +1,17 @@
+====== G4348: πρόσκομμα (próskomma) ======
+
+===== Source =====
+
+from [[en:lexicon:g4350|G4350]];
+
+===== Meaning =====
+
+a stub, i.e. (figuratively) occasion of apostasy
+
+===== Usage =====
+
+offence, stumbling(-block, (-stone)).
+
+===== Strongs References =====
+
+[[en:lexicon:g4350|G4350]]

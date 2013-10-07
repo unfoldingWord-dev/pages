@@ -1,0 +1,18 @@
+====== G2103: Εὔβουλος (Eúboulos) ======
+
+===== Source =====
+
+from [[en:lexicon:g2095|G2095]] and [[en:lexicon:g1014|G1014]];
+
+===== Meaning =====
+
+good-willer; Eubulus, a Christian
+
+===== Usage =====
+
+Eubulus.
+
+===== Strongs References =====
+
+[[en:lexicon:g2095|G2095]]
+[[en:lexicon:g1014|G1014]]

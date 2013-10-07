@@ -1,0 +1,17 @@
+====== G4603: σιδήρεος (sidḗreos) ======
+
+===== Source =====
+
+from [[en:lexicon:g4604|G4604]];
+
+===== Meaning =====
+
+made of iron
+
+===== Usage =====
+
+(of) iron.
+
+===== Strongs References =====
+
+[[en:lexicon:g4604|G4604]]

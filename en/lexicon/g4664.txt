@@ -1,0 +1,17 @@
+====== G4664: σμαράγδινος (smarágdinos) ======
+
+===== Source =====
+
+from [[en:lexicon:g4665|G4665]];
+
+===== Meaning =====
+
+consisting of emerald
+
+===== Usage =====
+
+emerald.
+
+===== Strongs References =====
+
+[[en:lexicon:g4665|G4665]]

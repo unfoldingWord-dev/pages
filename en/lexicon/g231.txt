@@ -1,0 +1,17 @@
+====== G231: ἁλιεύς (halieús) ======
+
+===== Source =====
+
+from [[en:lexicon:g251|G251]];
+
+===== Meaning =====
+
+a sailor (as engaged on the salt water), i.e. (by implication) a fisher
+
+===== Usage =====
+
+fisher(-man).
+
+===== Strongs References =====
+
+[[en:lexicon:g251|G251]]

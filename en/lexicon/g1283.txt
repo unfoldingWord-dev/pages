@@ -1,0 +1,18 @@
+====== G1283: διαρπάζω (diarpázō) ======
+
+===== Source =====
+
+from [[en:lexicon:g1223|G1223]] and [[en:lexicon:g726|G726]];
+
+===== Meaning =====
+
+to seize asunder, i.e. plunder
+
+===== Usage =====
+
+spoil.
+
+===== Strongs References =====
+
+[[en:lexicon:g1223|G1223]]
+[[en:lexicon:g726|G726]]

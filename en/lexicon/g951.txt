@@ -1,0 +1,17 @@
+====== G951: βεβαίωσις (bebaíōsis) ======
+
+===== Source =====
+
+from [[en:lexicon:g950|G950]];
+
+===== Meaning =====
+
+stabiliment
+
+===== Usage =====
+
+confirmation.
+
+===== Strongs References =====
+
+[[en:lexicon:g950|G950]]

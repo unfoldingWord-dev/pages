@@ -1,0 +1,18 @@
+====== G1545: ἔκβασις (ékbasis) ======
+
+===== Source =====
+
+from a compound of [[en:lexicon:g1537|G1537]] and the base of [[en:lexicon:g939|G939]] (meaning to go out);
+
+===== Meaning =====
+
+an exit (literally or figuratively)
+
+===== Usage =====
+
+end, way to escape.
+
+===== Strongs References =====
+
+[[en:lexicon:g1537|G1537]]
+[[en:lexicon:g939|G939]]

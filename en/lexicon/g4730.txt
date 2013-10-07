@@ -1,0 +1,18 @@
+====== G4730: στενοχωρία (stenochōría) ======
+
+===== Source =====
+
+from a compound of [[en:lexicon:g4728|G4728]] and [[en:lexicon:g5561|G5561]];
+
+===== Meaning =====
+
+narrowness of room, i.e. (figuratively) calamity
+
+===== Usage =====
+
+anguish, distress.
+
+===== Strongs References =====
+
+[[en:lexicon:g4728|G4728]]
+[[en:lexicon:g5561|G5561]]

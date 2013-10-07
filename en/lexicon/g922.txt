@@ -1,0 +1,19 @@
+====== G922: βάρος (báros) ======
+
+===== Source =====
+
+probably from the same as [[en:lexicon:g939|G939]] (through the notion of going down;
+ compare [[en:lexicon:g899|G899]]);
+
+===== Meaning =====
+
+weight; in the New Testament only, figuratively, a load, abundance, authority
+
+===== Usage =====
+
+burden(-some), weight.
+
+===== Strongs References =====
+
+[[en:lexicon:g939|G939]]
+[[en:lexicon:g899|G899]]

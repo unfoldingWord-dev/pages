@@ -1,0 +1,18 @@
+====== G540: ἀπάτωρ (apátōr) ======
+
+===== Source =====
+
+from [[en:lexicon:g1|G1]] (as a negative particle) and [[en:lexicon:g3962|G3962]];
+
+===== Meaning =====
+
+fatherless, i.e. of unrecorded paternity
+
+===== Usage =====
+
+without father.
+
+===== Strongs References =====
+
+[[en:lexicon:g1|G1]]
+[[en:lexicon:g3962|G3962]]

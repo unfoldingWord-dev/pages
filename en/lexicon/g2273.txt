@@ -1,0 +1,18 @@
+====== G2273: ἤτοι (ḗtoi) ======
+
+===== Source =====
+
+from [[en:lexicon:g2228|G2228]] and [[en:lexicon:g5104|G5104]];
+
+===== Meaning =====
+
+either indeed
+
+===== Usage =====
+
+whether.
+
+===== Strongs References =====
+
+[[en:lexicon:g2228|G2228]]
+[[en:lexicon:g5104|G5104]]

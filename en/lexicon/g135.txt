@@ -1,0 +1,17 @@
+====== G135: αἴνιγμα (aínigma) ======
+
+===== Source =====
+
+from a derivative of [[en:lexicon:g136|G136]] (in its primary sense);
+
+===== Meaning =====
+
+an obscure saying ("enigma"), i.e. (abstractly) obscureness
+
+===== Usage =====
+
+X darkly.
+
+===== Strongs References =====
+
+[[en:lexicon:g136|G136]]

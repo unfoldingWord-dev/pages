@@ -1,0 +1,17 @@
+====== G2950: κύμβαλον (kýmbalon) ======
+
+===== Source =====
+
+from a derivative of the base of [[en:lexicon:g2949|G2949]];
+
+===== Meaning =====
+
+a "cymbal" (as hollow)
+
+===== Usage =====
+
+cymbal.
+
+===== Strongs References =====
+
+[[en:lexicon:g2949|G2949]]

@@ -1,0 +1,18 @@
+====== G4096: πιότης (piótēs) ======
+
+===== Source =====
+
+from πίων (píōn) (fat; perhaps akin to the alternate of [[en:lexicon:g4095|G4095]] through the idea
+ of repletion);
+
+===== Meaning =====
+
+plumpness, i.e. (by implication) richness (oiliness)
+
+===== Usage =====
+
+fatness.
+
+===== Strongs References =====
+
+[[en:lexicon:g4095|G4095]]
