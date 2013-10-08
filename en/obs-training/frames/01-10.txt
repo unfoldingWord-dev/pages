@@ -4,19 +4,15 @@
 {{:en:obs:obs-01-10.jpg?nolink&640x360}}
 
 
-So **God **  took some **dirt**, **formed **  it into a **man**, and **breathed life **  into him. This man's name was **Adam**. **God **  planted a **garden**  where **Adam **  could live, and put him there to **care **  for it.
+So **God** took some dirt, formed it into a man, and **breathed** **life**  into him. This man's name was **Adam**. **God**  planted a garden where **Adam** could live, and put him there to care for it.
 
 
 === Key Terms: ===
 
   * **[[:en:key-terms:God|God]]** - two words are used together to indicate "the self-existent, eternal Lord of everything" and the "Almighty, creator, sinless and perfect"
-  * **[[:en:key-terms:h6083|dirt]]** - dust, dry dirt from the ground
-  * **[[:en:key-terms:h3335|formed]]** - formed or fashioned, as if by his hands
-  * **[[:en:key-terms:h120|man]]** - Adam only–Eve was made later
   * **[[:en:key-terms:h5301|breathed]]** - God breathed, or blew life into Adam
   * **[[:en:key-terms:h2425b|life]]** - literally, the "breath of life"
   * **[[:en:key-terms:h120|Adam]]** - Adam's name was literally the Hebrew word for "man"
-  * **[[:en:key-terms:h1588|garden]]** - a special collection of trees and plants that God prepared for Adam
 
 
 === Translation Notes: ===
@@ -26,6 +22,10 @@ Pay close attention to …
 
 
   * note …
+  * "//dirt//" - dust, dry dirt from the ground (LS: moved from KT)
+  * "//formed//" - formed or fashioned, as if by his hands (LS: moved from KT)
+  * "//man//" - Adam only–Eve was made later (LS: moved from KT)
+  * "//garden//" - a special collection of trees and plants that God prepared for Adam (LS: moved from KT)
 
 
 **[[:en:obs-training:01-the-creation:|Back]]**
