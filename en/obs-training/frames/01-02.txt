@@ -4,15 +4,12 @@
 {{:en:obs:obs-01-02.jpg?nolink&640x360}}
 
 
-Then **God spoke**and said, "Let there be **light**!" (CL: 'light' not a k.t.)(LS: I agree if we put the info in a translator's note or elsewhere) And there was **light**. **God ** saw that the **light ** was **good ** and called it "**day**." He separated it from the darkness, which He called "night." **God ** created the **light ** on the first **day ** of **creation**.
+Then **God** spoke and said, "Let there be light!" And there was light. **God ** saw that the light was **good ** and called it "day." He separated it from the darkness, which He called "night." **God ** created the light on the first day of **creation**.
 === Key Terms: ===
 
 
     * **[[:en:key-terms:h430|God]]**- Almighty, creator, sinless and perfect
-    * **[[:en:key-terms:h559|spoke]]**- God created light by means of a simple verbal command
-    * **[[:en:key-terms:h216|light]]**- a special light provided by God–the sun did not yet exist
     * **[[:en:key-terms:h2896a|good]]**- in agreement with God's character and purposes
-    * **[[:en:key-terms:h3117|day]]**- a literal 24-hour period
     * **[[:en:key-terms:h1254|creation]]**- the six-day period during which God made everything that exists
 === Translation Notes: ===
 
@@ -23,6 +20,7 @@ Pay close attention to …
     * note …
     * (CL: Note that in this verse and those that follow, creation was just as God intended it to be. [In the Heb. this is inferred as the exact wording of creation coming to pass parallels the wording of God's creating commands.]) –-maybe this note doesn't belong in this section, but rather the theological notes/q&a section?
     * (CL: Note that the light being created here was a light that did not have the sun as its source. It is a possibility that God himself was the source of this light (cf. Ps. 104:2 & Rev. 21:3), but the Scriptures do not explicitly tell us.) --Again, not sure that this is the correct place for this note or not. 
+    * "//God spoke//" - God created light by means of a simple verbal command (LS: moved from KT)
 
 
 **[[:en:obs-training:01-the-creation|Back]]**
