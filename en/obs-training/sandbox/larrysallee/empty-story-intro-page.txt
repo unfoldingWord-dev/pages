@@ -1,0 +1,49 @@
+====== x. Title ======
+
+
+===== Introduction =====
+
+
+This section will give you important background information that will help you translate the story accurately.
+
+
+==== Overview: ====
+
+
+short statement ...
+
+
+==== Emphasis of the story: ====
+
+
+expanded statement
+
+
+==== Theological Study ====
+
+
+key theological points, expanded in link ... [[:en:obs-training:theological:0x-title|(... learn more)]]
+
+
+===== Translate the Story =====
+
+
+Click on the links below to translate each frame of the story.
+
+
+    * [[:en:obs-training:frames:0x-01|0x-01]]
+    * [[:en:obs-training:frames:0x-02|0x-02]]
+    * [[:en:obs-training:frames:0x-03|0x-03]]
+    * [[:en:obs-training:frames:0x-04|0x-04]]
+    * [[:en:obs-training:frames:0x-05|0x-05]]
+    * [[:en:obs-training:frames:0x-06|0x-06]]
+    * [[:en:obs-training:frames:0x-07|0x-07]]
+    * [[:en:obs-training:frames:0x-08|0x-08]]
+    * [[:en:obs-training:frames:0x-09|0x-09]]
+    * [[:en:obs-training:frames:0x-10|0x-10]]
+    * [[:en:obs-training:frames:0x-11|0x-11]]
+    * [[:en:obs-training:frames:0x-12|0x-12]]
+    * [[:en:obs-training:frames:0x-13|0x-13]]
+    * [[:en:obs-training:frames:0x-14|0x-14]]
+    * [[:en:obs-training:frames:0x-15|0x-15]]
+    * [[:en:obs-training:frames:0x-16|0x-16]]
