@@ -4,19 +4,13 @@
 {{:en:obs:obs-01-15.jpg?nolink&640x360}}
 
 
-**God **  made **man **  and **woman **  in **His own image**, and He saw that it was **very good**. He **blessed **  them and told them, "**Have many**  children and grandchildren and **fill **  the earth!" This all happened on the sixth **day **  of **creation**.
+**God** made man and woman in His own image, and He saw that it was very **good**. He **blessed**  them and told them, "Have many children and grandchildren and fill the earth!" This all happened on the sixth day of **creation**.
 
 
 === Key Terms: ===
   * **[[:en:key-terms:h430|God]]** - Almighty, creator, sinless and perfect
-  * **[[:en:key-terms:h1254a|made]]** - "created from nothing," or "caused to exist"
-  * **[[:en:key-terms:h2145|man]]** - a male
-  * **[[:en:key-terms:h5347|woman]]** - a female
-  * **[[:en:key-terms:h6754|His own image]]** - similar to the God in many aspects–able to think, interact, and communicate
-  * **[[:en:key-terms:h2896a|very good]]** - in agreement with God's character and purposes, to an extra measure
+  * **[[:en:key-terms:h2896a|good]]** - in agreement with God's character and purposes, to an extra measure by the word "very"
   * **[[:en:key-terms:h1288|blessed]]** - God spoke to his intent to make things go well for them
-  * **[[:en:key-terms:h6509|have many]]** - literally to "be fruitful"
-  * **[[:en:key-terms:h3117|day]]** - a literal 24-hour period
   * **[[:en:key-terms:h1254a|creation]]** - the six-day period during which God made everything that exists
 
 
@@ -26,7 +20,12 @@
 Pay close attention to …
 
 
-  * note …
+  * "//made//" - "created from nothing," or "caused to exist" (LS: moved from KT)
+  * "//man//" - a male (LS: moved from KT)
+  * "//woman//" - a female (LS: moved from KT)
+  * "//in His own image//" - similar to the God in many aspects–able to think, interact, and communicate (LS: moved from KT)
+  * "//have many//" - literally to "be fruitful" (LS: moved from KT)
+  * "//day//" - a literal 24-hour period (LS: moved from KT)
 
 
 **[[:en:obs-training:01-the-creation:|Back]]**
