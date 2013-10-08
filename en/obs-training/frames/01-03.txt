@@ -4,16 +4,13 @@
 {{:en:obs:obs-01-03.jpg?nolink&640x360}}
 
 
-On the second **day **  of **creation**, **God spoke **  and created the **sky **  above the earth.
+On the second day of **creation**, **God** spoke and created the sky above the earth.
 
 
 === Key Terms: ===
-  * **[[:en:key-terms:h3117|day]]** - a literal 24-hour period
   * **[[:en:key-terms:h1254|creation]]** - the six-day period during which God made everything that exists
   * **[[:en:key-terms:h430|God]]** - Almighty, creator, sinless and perfect
-  * **[[:en:key-terms:h559|spoke]]** - God created the sky by means of a simple verbal command
-  * **[[:en:key-terms:h8064|sky]]** - the space above the earth, including the air we breathe and the heavens
-
+  
 
 === Translation Notes: ===
 
@@ -22,6 +19,8 @@ Pay close attention to …
 
 
   * note …
-
+  * "//day//" - a literal 24-hour period (LS: moved from KT)
+  * "//God spoke//" - God created the sky by means of a simple verbal command (LS: moved from KT)
+  * "//sky//" - the space above the earth, including the air we breathe and the heavens (LS: moved from KT)
 
 **[[:en:obs-training:01-the-creation:|Back]]**

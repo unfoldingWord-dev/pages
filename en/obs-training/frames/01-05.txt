@@ -4,13 +4,11 @@
 {{:en:obs:obs-01-05.jpg?nolink&640x360}}
 
 
-Then **God said**, "Let the earth produce all **kinds **  of trees and plants." And that is what happened. **God **  saw that what He had **created **  was **good**, and He was **pleased **  with it all.
+Then **God** said, "Let the earth produce all kinds of trees and plants." And that is what happened. **God **  saw that what He had **created **  was **good**, and He was pleased with it all.
 
 
 === Key Terms: ===
   * **[[:en:key-terms:h430|God]]** - Almighty, creator, sinless and perfect
-  * **[[:en:key-terms:h559|said]]** - God created all vegetation by means of a simple verbal command
-  * **[[:en:key-terms:h4327|kinds]]** - according to their species
   * **[[:en:key-terms:h1254a|created]]** - "created from nothing," or "caused to exist"
   * **[[:en:key-terms:h2896a|good]]** - in agreement with God's character and purposes
 
@@ -22,6 +20,8 @@ Pay close attention to …
 
 
   * note …
+  * "//God said//" - God created all vegetation by means of a simple verbal command (LS: moved from KT)
+  * "//kinds//" - according to their species (LS: moved from KT)
 
 
 **[[:en:obs-training:01-the-creation:|Back]]**
