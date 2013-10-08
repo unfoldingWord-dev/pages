@@ -4,15 +4,12 @@
 {{:en:obs:obs-01-11.jpg?nolink&640x360}}
 
 
-In the middle of the **garden**, **God **  planted two special trees—the **tree of life**  and the **tree of the knowledge of good and evil**. **God **  told **Adam **  that he could eat from any tree in the **garden **  except from the **tree of the knowledge of good and evil**. If he ate from this tree, he would **die**.
+In the middle of the garden, **God ** planted two special trees—the tree of life and the tree of the knowledge of **good** and **evil**. **God**  told **Adam**  that he could eat from any tree in the garden except from the tree of the knowledge of **good** and **evil**. If he ate from this tree, he would **die**.
 
 
 === Key Terms: === 
 
-  * **[[:en:key-terms:h1588|garden]]** - a special collection of trees and plants that God prepared for Adam
   * **[[:en:key-terms:h430|God]]** - Almighty, creator, sinless and perfect
-  * **[[:en:key-terms:h6086|tree of life]]** - a literal tree with fruit that could keep a person alive continually
-  * **[[:en:key-terms:h6086|tree of knowledge of good and evil]]**- a literal tree with fruit that could enable a person to know the difference between good and evil
   * **[[:en:key-terms:h2896a|good]]** - in agreement with God's character and purposes
   * **[[:en:key-terms:h7451b|evil]]** - opposed to God's character and purposes
   * **[[:en:key-terms:h120|Adam]]** - Adam's name was literally the Hebrew word for "man"
@@ -26,6 +23,9 @@ Pay close attention to …
 
 
   * note …
+  * "//garden//" - a special collection of trees and plants that God prepared for Adam (LS: moved from KT)
+  * "//tree of life//" - a literal tree with fruit that could keep a person alive continually (LS: moved from KT)
+  * "//tree of knowledge of good and evil//" - a literal tree with fruit that could enable a person to know the difference between good and evil (LS: moved from KT)
 
 
 **[[:en:obs-training:01-the-creation:|Back]]**
