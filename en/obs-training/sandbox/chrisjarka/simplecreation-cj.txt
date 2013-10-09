@@ -50,8 +50,8 @@ This story answers the foundational questions:
 Click on the pictures below to translate each frame of the story.
 
 
-Beginning [[:en:obs-training:frames:01-01|{{:en:obs:obs-01-01.jpg?nolink&160x90}}]] \\ 
-Light [[:en:obs-training:frames:01-02|{{:en:obs:obs-01-02.jpg?nolink&160x90}}]] \\ 
+Beginning [[:en:obs-training:frames:01-01|{{:en:obs:obs-01-01.jpg?160x90|Beginning}}]] \\ 
+Light [[:en:obs-training:frames:01-02|{{:en:obs:obs-01-02.jpg?160x90|Light}}]] \\ 
 Sky [[:en:obs-training:frames:01-03|{{:en:obs:obs-01-03.jpg?nolink&160x90}}]] \\ 
 Dry Land [[:en:obs-training:frames:01-04|{{:en:obs:obs-01-04.jpg?nolink&160x90}}]] \\ 
 Plants [[:en:obs-training:frames:01-05|{{:en:obs:obs-01-05.jpg?nolink&160x90}}]] \\ 
@@ -65,9 +65,12 @@ Sun & Moon [[:en:obs-training:frames:01-06|{{:en:obs:obs-01-06.jpg?nolink&160x90
 [[:en:obs-training:frames:01-13|{{:en:obs:obs-01-13.jpg?nolink&160x90}}]]
 
 
-|[[:en:obs-training:frames:01-14|{{:en:obs:obs-01-14.jpg?nolink&160x90}}]]| \\ Cross off what has been done on this frame: \\  \\ Initial Translation \\  \\ Translation Review \\ |
-|[[:en:obs-training:frames:01-15|{{:en:obs:obs-01-15.jpg?nolink&160x90}}]]| \\ Cross off what has been done on this frame: \\  \\ Initial Translation \\  \\ Translation Review \\ |
-|[[:en:obs-training:frames:01-16|{{:en:obs:obs-01-16.jpg?nolink&160x90}}]]| \\ Cross off what has been done on this frame: \\  \\ Initial Translation \\  \\ Translation Review \\ |
+|[[:en:obs-training:frames:01-14|{{:en:obs:obs-01-14.jpg?nolink&160x90}}]]| \\ Cross off what has been done on this frame: \\   \\ Initial Translation \\  \\ Translation Review|
+|[[:en:obs-training:frames:01-15|{{:en:obs:obs-01-15.jpg?nolink&160x90}}]]| \\ Cross off what has been done on this frame: \\   \\ Initial Translation \\  \\ Translation Review|
+|[[:en:obs-training:frames:01-16|{{:en:obs:obs-01-16.jpg?nolink&160x90}}]]|  \\ Or even better! \\  \\ Programmed to show: \\ 
+    - If the frame has been translated in the new language.
+    - If the translation has been checked.
+ \\  \\ |
 
 
 \\
