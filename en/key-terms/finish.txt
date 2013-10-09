@@ -1,7 +1,7 @@
 ====== Finish ======
 
 
-===== “definition" =====
+===== “to complete or fully accomplish" =====
 
 
 Information that will help the translator know more about the Hebrew or Greek term so they can apply their native language words correctly.
@@ -10,8 +10,8 @@ Information that will help the translator know more about the Hebrew or Greek te
 For example:
 
 
-  * This term is best translated to have the meaning of…..
-  * Perhaps compare/contrast/refer to other similar words or corresponding terms or Hebrew or Greek words
+    * This term is best translated to have the meaning of…..
+    * Perhaps compare/contrast/refer to other similar words or corresponding terms or Hebrew or Greek words
 
 
 ----
@@ -22,10 +22,12 @@ For example:
 
 After you choose a word to translate this term, try to use it consistently when it appears in other Bible stories. For example:
 
-  * **Story x - Title** - Frames x, x and x
 
+    * **Story x - Title**  - Frames x, x and x
 ==== Root words in the Bible: ====
 
+
 This term is also used in many places in the Bible. You can use the links below to see Strong's description of the root meaning of these words.
+
 
     * Strong's link

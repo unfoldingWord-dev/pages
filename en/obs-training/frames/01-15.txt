@@ -8,10 +8,10 @@
 
 
 === Key Terms: ===
-  * **[[:en:key-terms:h430|God]]** - Almighty, creator, sinless and perfect
-  * **[[:en:key-terms:h2896a|good]]** - in agreement with God's character and purposes, to an extra measure by the word "very"
-  * **[[:en:key-terms:h1288|blessed]]** - God spoke to his intent to make things go well for them
-  * **[[:en:key-terms:h1254a|creation]]** - the six-day period during which God made everything that exists
+  * **[[:en:key-terms:god|God]]** - Almighty, creator, sinless and perfect
+  * **[[:en:key-terms:good|good]]** - in agreement with God's character and purposes, to an extra measure by the word "very"
+  * **[[:en:key-terms:bless|blessed]]** - God spoke to his intent to make things go well for them
+  * **[[:en:key-terms:creation|creation]]** - the six-day period during which God made everything that exists
 
 
 === Translation Notes: ===
