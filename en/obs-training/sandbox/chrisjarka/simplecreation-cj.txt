@@ -1,6 +1,3 @@
-~~COMPLEX_TABLES~~
-
-
 ====== 1b. The Creation (simplified) ======
 
 
@@ -16,7 +13,7 @@ This section will give you important background information that will help you t
 In this story, God creates everything, including people, and all animals, in 6 days.
 
 
-==== Emphasis of the story: this could be a phrase on material in each frame or less ====
+==== Emphasis of the story: ====
 
 
     * This is the //true story //  of how the earth and everything in it was created.
@@ -27,31 +24,27 @@ In this story, God creates everything, including people, and all animals, in 6 d
     * God created a special tree in the middle of the garden.
 
 
-==== Theological Study ====
+==== Theological Study ==== 
+[[:en:obs-training:theological:01-creation|(... learn more)]]
 
 
 This story answers the foundational questions:
 
 
-    * "Where did we come from?"
+    * Where did we come from?
     * Who is God?
     * What is the nature of human beings?
-    * What is the role of marriage?
-    * Did God create sin?
     * Why do we set apart a day to worship?
 
 
-[[:en:obs-training:01-creation:theological|(... learn more)]]
-
-
-==== Translate the Story ====
+===== Translate the Story =====
 
 
 Click on the pictures below to translate each frame of the story.
 
 
-Beginning [[:en:obs-training:frames:01-01|{{:en:obs:obs-01-01.jpg?160x90|Beginning}}]] \\ 
-Light [[:en:obs-training:frames:01-02|{{:en:obs:obs-01-02.jpg?160x90|Light}}]] \\ 
+Beginning [[:en:obs-training:frames:01-01|{{:en:obs:obs-01-01.jpg?nolink&160x90}}]] \\ 
+Light [[:en:obs-training:frames:01-02|{{:en:obs:obs-01-02.jpg?nolink&160x90}}]] \\ 
 Sky [[:en:obs-training:frames:01-03|{{:en:obs:obs-01-03.jpg?nolink&160x90}}]] \\ 
 Dry Land [[:en:obs-training:frames:01-04|{{:en:obs:obs-01-04.jpg?nolink&160x90}}]] \\ 
 Plants [[:en:obs-training:frames:01-05|{{:en:obs:obs-01-05.jpg?nolink&160x90}}]] \\ 
@@ -65,12 +58,12 @@ Sun & Moon [[:en:obs-training:frames:01-06|{{:en:obs:obs-01-06.jpg?nolink&160x90
 [[:en:obs-training:frames:01-13|{{:en:obs:obs-01-13.jpg?nolink&160x90}}]]
 
 
-|[[:en:obs-training:frames:01-14|{{:en:obs:obs-01-14.jpg?nolink&160x90}}]]| \\ Cross off what has been done on this frame: \\   \\ Initial Translation \\  \\ Translation Review|
-|[[:en:obs-training:frames:01-15|{{:en:obs:obs-01-15.jpg?nolink&160x90}}]]| \\ Cross off what has been done on this frame: \\   \\ Initial Translation \\  \\ Translation Review|
-|[[:en:obs-training:frames:01-16|{{:en:obs:obs-01-16.jpg?nolink&160x90}}]]|  \\ Or even better! \\  \\ Programmed to show: \\ 
-    - If the frame has been translated in the new language.
-    - If the translation has been checked.
- \\  \\ |
+|[[:en:obs-training:frames:01-14|{{:en:obs:obs-01-14.jpg?nolink&160x90}}]] | \\ Cross off what has been done on this frame: \\   \\ Initial Translation \\  \\ Translation Review |
+|[[:en:obs-training:frames:01-15|{{:en:obs:obs-01-15.jpg?nolink&160x90}}]] | \\ Cross off what has been done on this frame: \\   \\ Initial Translation \\  \\ Translation Review |
+|[[:en:obs-training:frames:01-16|{{:en:obs:obs-01-16.jpg?nolink&160x90}}]] |  |
+
+
+ \\  \\  \\  \\  \\ |
 
 
 \\
