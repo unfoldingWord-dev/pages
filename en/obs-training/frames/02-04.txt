@@ -4,7 +4,7 @@
 {{:en:obs:obs-02-04.jpg?nolink&640x360}}
 
 
-The **snake ** responded, “That is not **true**! You won’t **die**. **God ** just knows that as soon as you eat it, you will understand things like He does. You will be **like God**, **knowing good and evil**.”
+The **snake** responded, “That is not **true**! You won’t **die**. **God** just knows that as soon as you eat it, you will understand things like He does. You will be like **God**, knowing **good** and **evil**.”
 === Key Terms: ===
 
 
@@ -12,9 +12,7 @@ The **snake ** responded, “That is not **true**! You won’t **die**. **God **
     * snake
     * true
     * die
-    * like God
     * God
-    * knowing good and evil
     * good
     * evil
 
@@ -25,8 +23,10 @@ The **snake ** responded, “That is not **true**! You won’t **die**. **God **
 Pay close attention to …
 
 
-    * note the discourse…
-    * note the grammatical features…
+    * "//not true//" - 
+    * "//won't die//" - 
+    * "//like God//" - 
+    * "//knowing good and evil//" - 
 
 
 **[[:en:obs-training:02-sin-enters-the-world|Back]]**
