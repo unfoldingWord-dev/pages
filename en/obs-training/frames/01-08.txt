@@ -4,24 +4,21 @@
 {{:en:obs:obs-01-08.jpg?nolink&640x360}}
 
 
-On the sixth day  of **creation**, **God**  said, "Let there be all kinds of land animals!" And it happened just like **God**  said. Some were farm animals, some crawled on the ground, and some were wild. And **God**  saw that it was **good**.
-
-
+On the sixth day of **creation**, **God** said, "Let there be all kinds of land animals!" And it happened just like **God** said. Some were farm animals, some crawled on the ground, and some were wild. And **God** saw that it was **good**.
 === Key Terms: ===
 
-  * **[[:en:key-terms:h1254a|creation]]** - the six-day period during which God made everything that exists
-  * **[[:en:key-terms:h430|God]]** - Almighty, creator, sinless and perfect
-  * **[[:en:key-terms:h4327|kinds]]** - according to their species
-  * **[[:en:key-terms:h2896a|good]]** - in agreement with God's character and purposes
 
-
+    * **[[:en:key-terms:creation|creation]]**- the six-day period during which God made everything that exists
+    * **[[:en:key-terms:god|God]]**- Almighty, creator, sinless and perfect
+    * **[[:en:key-terms:good|good]]**- in agreement with God's character and purposes
 === Translation Notes: ===
 
 
 Pay close attention to …
 
 
-  * "//day//" - a literal 24-hour period (LS: moved from KT)
+    * "//day//" - a literal 24-hour period (LS: moved from KT)
+    * "//kinds//* - according to their species (CJ: removed from KT)
 
 
-**[[:en:obs-training:01-the-creation:|Back]]**
+**[[:en:obs-training:01-the-creation|Back]]**
