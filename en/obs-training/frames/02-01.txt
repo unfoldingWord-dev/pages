@@ -8,11 +8,11 @@
 === Key Terms: ===
 
 
-    * **[[:en:key-terms:beginning|sample]]**- explanation
-    * Adam -
-    * God -
-    * shame -
-    * sin -
+
+    * [[:en:key-terms:adam|Adam]] -
+    * [[:en:key-terms:GOD|God]] -
+    * [[:en:key-terms:shame|shame]] -
+    * [[:en:key-terms:sin|sin]] -
 
 
 === Translation Notes: ===
