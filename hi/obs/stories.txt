@@ -1,10 +1,10 @@
 
 
-    - [[:hi:obs:01-the-creation|The Creation]]
-    - [[:hi:obs:02-sin-enters-the-world|Sin Enters the World]]
-    - [[:hi:obs:03-the-flood|The Flood]]
-    - [[:hi:obs:04-gods-covenant-with-abraham|God's Covenant with Abraham]]
-    - [[:hi:obs:05-the-son-of-promise|The Son of Promise]]
+    - [[:hi:obs:01-the-creation|सृष्टि की निर्माण ]]
+    - [[:hi:obs:02-sin-enters-the-world|दुनिया में पाप का प्रवेश]]
+    - [[:hi:obs:03-the-flood|जलप्रलय]]
+    - [[:hi:obs:04-gods-covenant-with-abraham|इब्राहीम के साथ भगवान की प्रसंविदा]]
+    - [[:hi:obs:05-the-son-of-promise|वादा का बेटा]]
     - [[:hi:obs:06-god-provides-for-isaac|God Provides for Isaac]]
     - [[:hi:obs:07-god-blesses-jacob|God Blesses Jacob]]
     - [[:hi:obs:08-god-saves-joseph-and-his-family|God Saves Joseph and His Family]]
