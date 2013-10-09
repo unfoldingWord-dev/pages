@@ -4,21 +4,17 @@
 {{:en:obs:obs-02-12.jpg?nolink&640x360}}
 
 
-Then **God ** said, “Now that the human beings have become **like us** by **knowing good and evil**, they must not be allowed to eat the **fruit ** of the **tree of life** and live forever.” So **God ** sent **Adam ** and **Eve ** away from the beautiful **garden**. **God ** placed large, powerful **angels ** at the entrance to the **garden ** to keep anyone from eating the **fruit ** of the **tree of life**.
+Then **God** said, “Now that the human beings have become like us by knowing **good** and **evil**, they must not be allowed to eat the fruit of the tree of life and live forever.” So **God** sent **Adam** and **Eve** away from the beautiful garden. **God** placed large, powerful **angels** at the entrance to the garden to keep anyone from eating the fruit of the tree of life.
+
 === Key Terms: ===
 
 
     * **[[:en:key-terms:beginning|sample]]**- explanation
     * God
-    * like us
-    * knowing good and evil
     * good
     * evil
-    * fruit
-    * tree of life
     * Adam
     * Eve
-    * garden
     * angels
 
 
@@ -28,8 +24,13 @@ Then **God ** said, “Now that the human beings have become **like us** by **kn
 Pay close attention to …
 
 
-    * note the discourse…
-    * note the grammatical features…
+    * "like us by knowing good and evil" - When Adam and Eve disobeyed, they experienced evil. This knowledge of sin is then passed on to all of their descendents.
+    * "fruit" - the specific kind of fruit is not revealed.
+    * "//tree of life//" - a literal tree with fruit that could keep a person alive continually 
+    * "//live forever//" - If Adam and Eve ate from the tree of life, they would remain alive in their sinful condition.
+    * "//garden//" - 
+    * "//sent Adam and Eve away//" - the tree of life grew only in the garden. God sent them out of the garden so they could not eat from it.
+    * "//angels at the entrance//" - the angels acted as guards to prevent access to the garden
 
 
-**[[:en:obs-training:02-sin-enters-the-world|Back]]**
+**[[:en:obs-training:02b-sin-enters-the-world|Back]]**
