@@ -24,14 +24,14 @@ Do Not Touch\\
 [[:en:obs-training:frames:02-04|{{:en:obs:obs-02-04.jpg?200|The Lie}}]]\\
 The Lie\\
 \\
-[[:en:obs-training:frames:02-05|{{:en:obs:obs-02-05.jpg?200|Open Eyes}}]]\\
+[[:en:obs-training:frames:02-05|{{:en:obs:obs-02-05.jpg?200|Disobedience}}]]\\
+Disobedience\\
+\\
+[[:en:obs-training:frames:02-06|{{:en:obs:obs-02-06.jpg?200|Open Eyes}}]]\\
 Open Eyes\\
 \\
-[[:en:obs-training:frames:02-06|{{:en:obs:obs-02-06.jpg?200|Where Are You?}}]]\\
+[[:en:obs-training:frames:02-07|{{:en:obs:obs-02-07.jpg?200|Where Are You?}}]]\\
 Where Are You?\\
-\\
-[[:en:obs-training:frames:02-07|{{:en:obs:obs-02-07.jpg?200|Afraid}}]]\\
-Afraid\\
 \\
 [[:en:obs-training:frames:02-08|{{:en:obs:obs-02-08.jpg?200|The Blame}}]]\\
 The Blame\\
