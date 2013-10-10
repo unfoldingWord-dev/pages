@@ -19,6 +19,7 @@ Pay close attention to …
 
     * "//day//" - a literal 24-hour period (LS: moved from KT)
     * "//kinds//* - according to their species (CJ: removed from KT)
+    * "//land animals" - // the different animals seem to be grouped by where they are commonly found, and by their relative size. The are very broad groupings (land animals, fish, birds, and the like) and are not intended to be a scientific order (<font 13px/Arial;;rgb(0, 0, 0) font-family: Arial; font-size: 13px;;;#ffffff>Kingdom, Phylum, Class, Order, Family, Genus, Species). The account of creation communicates God's work in making not only the stars and planets, the plants and trees, but the great variety of living creatures as well.(TW)</font> 
 
 
 **[[:en:obs-training:01-the-creation|Back]]**
