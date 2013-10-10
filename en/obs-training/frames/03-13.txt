@@ -3,15 +3,15 @@
 {{:en:obs:obs-03-13.jpg?nolink&640x360}}
 
 
-Two months later God said to Noah, “You and your family and all the animals may leave the boat now. Have many children and grandchildren and fill the earth.” So they obeyed and left the boat.
+Two months later **God** said to **Noah**, “You and your family and all the animals may leave the boat now. Have many children and grandchildren and fill the earth.” So they **obeyed** and left the boat.
 
 
 === Key Terms: ===
 
  
-  * **[[:en:key-terms:beginning|sample]]** - explanation
-  * **[[:en:key-terms:beginning|sample]]** - explanation
-  * **[[:en:key-terms:beginning|sample]]** - explanation
+  * **[[:en:key-terms:god|God]]** - explanation
+  * **[[:en:key-terms:noah|Noah]]** - explanation
+  * **[[:en:key-terms:obey|obey]]** - explanation
 
 
 === Translation Notes: ===
@@ -20,8 +20,9 @@ Two months later God said to Noah, “You and your family and all the animals ma
 Pay close attention to ...
 
 
-  * "//issue//" - explanation
-  * "//issue//" - explanation
+  * "//Two months later//" - explanation
+  * "//leave the boat//" - explanation
+  * "//fill the earth//" - explanation
   
 
-**[[:en:obs-training:03-the-flood|Back]]**
+**[[:en:obs-training:03b-the-flood|Back]]**
