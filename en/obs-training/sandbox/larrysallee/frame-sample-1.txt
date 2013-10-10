@@ -1,0 +1,17 @@
+==== Frame x-x ====
+
+[image and text]
+
+
+=== Special Words and Phrases: ===
+
+  * **sample without link** - explanation
+  * **[[:en:key-terms:beginning|sample with link]]** - explanation
+
+
+=== Translation Notes and Helps: ===
+
+  * note the discourse…
+  * note the grammatical features…
+
+**[[:en:obs-training:02-sin-enters-the-world|Back]]**
