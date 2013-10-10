@@ -3,15 +3,14 @@
 {{:en:obs:obs-03-05.jpg?nolink&640x360}}
 
 
-Noah and his family also gathered enough food for themselves and the animals. When everything was ready, God told Noah it was time for him, his wife, his three sons, and their wives to get into the boat—eight people in all.
+**Noah** and his family also gathered enough food for themselves and the animals. When everything was ready, **God** told **Noah** it was time for him, his wife, his three sons, and their wives to get into the boat—eight people in all.
 
 
 === Key Terms: ===
 
  
-  * **[[:en:key-terms:beginning|sample]]** - explanation
-  * **[[:en:key-terms:beginning|sample]]** - explanation
-  * **[[:en:key-terms:beginning|sample]]** - explanation
+  * **[[:en:key-terms:noah|Noah]]** - explanation
+  * **[[:en:key-terms:god|God]]** - explanation
 
 
 === Translation Notes: ===
@@ -20,8 +19,7 @@ Noah and his family also gathered enough food for themselves and the animals. Wh
 Pay close attention to ...
 
 
-  * "//issue//" - explanation
-  * "//issue//" - explanation
-  
+  * "//enough food//" - explanation
+  * "//eight people//" - explanation
 
-**[[:en:obs-training:03-the-flood|Back]]**
+**[[:en:obs-training:03b-the-flood|Back]]**
