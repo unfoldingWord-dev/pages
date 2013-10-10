@@ -3,16 +3,17 @@
 {{:en:obs:obs-03-14.jpg?nolink&640x360}}
 
 
-After he got off the boat, Noah built an altar and sacrificed some of each kind of animal which could be used for a sacrifice. God was happy with the sacrifice and blessed Noah and his family.
-
+After he got off the boat, **Noah** built an **altar** and **sacrificed** some of each kind of animal which could be used for a **sacrifice**. **God** was happy with the **sacrifice** and **blessed** **Noah** and his family.
 
 
 === Key Terms: ===
 
  
-  * **[[:en:key-terms:beginning|sample]]** - explanation
-  * **[[:en:key-terms:beginning|sample]]** - explanation
-  * **[[:en:key-terms:beginning|sample]]** - explanation
+  * **[[:en:key-terms:noah|Noah]]** - explanation
+  * **[[:en:key-terms:altar|altar]]** - explanation
+  * **[[:en:key-terms:sacrifice|sacrificed]]** - explanation
+  * **[[:en:key-terms:god|God]]** - explanation
+  * **[[:en:key-terms:bless|blessed]]** - explanation
 
 
 === Translation Notes: ===
@@ -21,8 +22,8 @@ After he got off the boat, Noah built an altar and sacrificed some of each kind 
 Pay close attention to ...
 
 
-  * "//issue//" - explanation
-  * "//issue//" - explanation
+  * "//animal which could be used for a sacrifice//" - explanation
+  * "//God was happy//" - explanation
   
 
-**[[:en:obs-training:03-the-flood|Back]]**
+**[[:en:obs-training:03b-the-flood|Back]]**

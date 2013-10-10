@@ -3,15 +3,15 @@
 {{:en:obs:obs-03-15.jpg?nolink&640x360}}
 
 
-God said, “I will never again curse the ground because of humans or destroy the world with a flood, even though humans are sinful from their youth.”
+**God** said, “I will never again **curse** the ground because of humans or destroy the world with a flood, even though humans are **sinful** from their youth.”
 
 
 === Key Terms: ===
 
  
-  * **[[:en:key-terms:beginning|sample]]** - explanation
-  * **[[:en:key-terms:beginning|sample]]** - explanation
-  * **[[:en:key-terms:beginning|sample]]** - explanation
+  * **[[:en:key-terms:god|God]]** - explanation
+  * **[[:en:key-terms:curse|curse]]** - explanation
+  * **[[:en:key-terms:sinful|sinful]]** - explanation
 
 
 === Translation Notes: ===
@@ -20,8 +20,10 @@ God said, “I will never again curse the ground because of humans or destroy th
 Pay close attention to ...
 
 
-  * "//issue//" - explanation
-  * "//issue//" - explanation
+  * "//never again//" - explanation
+  * "//curse the ground//" - explanation
+  * "//with a flood//" - explanation
+  * "//sinful from their youth//" - explanation
   
 
-**[[:en:obs-training:03-the-flood|Back]]**
+**[[:en:obs-training:03b-the-flood|Back]]**
