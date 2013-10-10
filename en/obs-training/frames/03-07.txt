@@ -10,9 +10,7 @@ Then it began to rain, and rain, and rain. It rained for forty days and forty ni
 
  
   * **[[:en:key-terms:beginning|sample]]** - explanation
-  * **[[:en:key-terms:beginning|sample]]** - explanation
-  * **[[:en:key-terms:beginning|sample]]** - explanation
-
+ 
 
 === Translation Notes: ===
 
@@ -20,8 +18,12 @@ Then it began to rain, and rain, and rain. It rained for forty days and forty ni
 Pay close attention to ...
 
 
+  * "//rain, and rain, and rain//" - explanation
+  * "//forty days and forty nights//" - explanation
+  * "//gushing up out of the earth//" - explanation
+  * "//whole world was covered//" - explanation
   * "//issue//" - explanation
   * "//issue//" - explanation
-  
 
-**[[:en:obs-training:03-the-flood|Back]]**
+
+**[[:en:obs-training:03b-the-flood|Back]]**

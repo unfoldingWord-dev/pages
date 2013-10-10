@@ -3,15 +3,13 @@
 {{:en:obs:obs-03-08.jpg?nolink&640x360}}
 
 
-Everything that lived on the dry land died, except the people and animals who were in the boat. The boat floated on the water and everything inside the boat was kept safe.
+Everything that lived on the dry land **died**, except the people and animals who were in the boat. The boat floated on the water and everything inside the boat was kept safe.
 
 
 === Key Terms: ===
 
  
-  * **[[:en:key-terms:beginning|sample]]** - explanation
-  * **[[:en:key-terms:beginning|sample]]** - explanation
-  * **[[:en:key-terms:beginning|sample]]** - explanation
+  * **[[:en:key-terms:die|died]]** - explanation
 
 
 === Translation Notes: ===
@@ -20,8 +18,9 @@ Everything that lived on the dry land died, except the people and animals who we
 Pay close attention to ...
 
 
-  * "//issue//" - explanation
-  * "//issue//" - explanation
-  
+  * "//Everything that lived on the dry land//" - explanation
+  * "//the boat//" - explanation
+  * "//kept safe//" - explanation
 
-**[[:en:obs-training:03-the-flood|Back]]**
+
+**[[:en:obs-training:03b-the-flood|Back]]**

@@ -3,15 +3,15 @@
 {{:en:obs:obs-03-06.jpg?nolink&640x360}}
 
 
-God sent a male and a female of every animal and bird to Noah so they could go into the boat and be kept safe during the flood. God sent seven males and seven females of every type of animal which could be used for sacrifices. When they were all in the boat, God Himself closed the door.
+**God** sent a male and a female of every animal and bird to **Noah** so they could go into the boat and be kept safe during the flood. **God** sent seven males and seven females of every type of animal which could be used for **sacrifices**. When they were all in the boat, **God** Himself closed the door.
 
 
 === Key Terms: ===
 
  
-  * **[[:en:key-terms:beginning|sample]]** - explanation
-  * **[[:en:key-terms:beginning|sample]]** - explanation
-  * **[[:en:key-terms:beginning|sample]]** - explanation
+  * **[[:en:key-terms:god|God]]** - explanation
+  * **[[:en:key-terms:noah|Noah]]** - explanation
+  * **[[:en:key-terms:sacrifice|sacrifices]]** - explanation
 
 
 === Translation Notes: ===
@@ -20,8 +20,13 @@ God sent a male and a female of every animal and bird to Noah so they could go i
 Pay close attention to ...
 
 
-  * "//issue//" - explanation
-  * "//issue//" - explanation
-  
+  * "//God sent//" - explanation
+  * "//a male and a female//" - explanation
+  * "//kept safe//" - explanation
+  * "//seven males and seven females//" - explanation
+  * "//used for sacrifices//" - explanation 
+  * "//God Himself closed the door//" - explanation 
 
-**[[:en:obs-training:03-the-flood|Back]]**
+
+
+**[[:en:obs-training:03b-the-flood|Back]]**
