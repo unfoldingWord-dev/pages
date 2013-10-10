@@ -3,15 +3,14 @@
 {{:en:obs:obs-03-12.jpg?nolink&640x360}}
 
 
-Noah waited another week and sent out the dove a third time. This time, it did not come back. The water had dried up!
+**Noah** waited another week and sent out the **dove** a third time. This time, it did not come back. The water had dried up!
 
 
 === Key Terms: ===
 
  
-  * **[[:en:key-terms:beginning|sample]]** - explanation
-  * **[[:en:key-terms:beginning|sample]]** - explanation
-  * **[[:en:key-terms:beginning|sample]]** - explanation
+  * **[[:en:key-terms:noah|Noah]]** - explanation
+  * **[[:en:key-terms:dove|dove]]** - explanation
 
 
 === Translation Notes: ===
@@ -20,8 +19,9 @@ Noah waited another week and sent out the dove a third time. This time, it did n
 Pay close attention to ...
 
 
-  * "//issue//" - explanation
-  * "//issue//" - explanation
-  
+  * "//another week//" - explanation
+  * "//a third time//" - explanation
+  * "//did not come back//" - explanation
+ 
 
-**[[:en:obs-training:03-the-flood|Back]]**
+**[[:en:obs-training:03b-the-flood|Back]]**

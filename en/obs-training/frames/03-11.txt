@@ -3,15 +3,15 @@
 {{:en:obs:obs-03-11.jpg?nolink&640x360}}
 
 
-Later Noah sent out a bird called a dove. But it also could not find any dry land, so it came back to Noah. A week later he sent the dove out again, and it came back with an olive branch in its beak! The water was going down, and the plants were growing again!
+Later **Noah** sent out a bird called a **dove**. But it also could not find any dry land, so it came back to **Noah**. A week later he sent the **dove** out again, and it came back with an **olive** branch in its beak! The water was going down, and the plants were growing again!
 
 
 === Key Terms: ===
 
  
-  * **[[:en:key-terms:beginning|sample]]** - explanation
-  * **[[:en:key-terms:beginning|sample]]** - explanation
-  * **[[:en:key-terms:beginning|sample]]** - explanation
+  * **[[:en:key-terms:noah|Noah]]** - explanation
+  * **[[:en:key-terms:dove|dove]]** - explanation
+  * **[[:en:key-terms:olive|olive]]** - explanation
 
 
 === Translation Notes: ===
@@ -20,8 +20,10 @@ Later Noah sent out a bird called a dove. But it also could not find any dry lan
 Pay close attention to ...
 
 
-  * "//issue//" - explanation
-  * "//issue//" - explanation
+  * "//it came back//" - explanation
+  * "//olive branch//" - explanation
+  * "//water was going down//" - explanation
+  * "//plants were growing again//" - explanation
   
 
-**[[:en:obs-training:03-the-flood|Back]]**
+**[[:en:obs-training:03b-the-flood|Back]]**

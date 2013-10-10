@@ -3,15 +3,14 @@
 {{:en:obs:obs-03-10.jpg?nolink&640x360}}
 
 
-After forty more days, Noah sent out a bird called a raven to see if the water had dried up. The raven flew back and forth looking for dry land, but it could not find any.
+After forty more days, **Noah** sent out a bird called a raven to see if the water had dried up. The raven flew back and forth looking for dry land, but it could not find any.
 
 
 === Key Terms: ===
 
  
-  * **[[:en:key-terms:beginning|sample]]** - explanation
-  * **[[:en:key-terms:beginning|sample]]** - explanation
-  * **[[:en:key-terms:beginning|sample]]** - explanation
+  * **[[:en:key-terms:noah|Noah]]** - explanation
+
 
 
 === Translation Notes: ===
@@ -20,8 +19,8 @@ After forty more days, Noah sent out a bird called a raven to see if the water h
 Pay close attention to ...
 
 
-  * "//issue//" - explanation
-  * "//issue//" - explanation
+  * "//raven //" - explanation
+  * "//looking for dry land//" - explanation
   
 
-**[[:en:obs-training:03-the-flood|Back]]**
+**[[:en:obs-training:03b-the-flood|Back]]**

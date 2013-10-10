@@ -10,8 +10,6 @@ After the rains stopped, the boat floated on the water for five months, and then
 
  
   * **[[:en:key-terms:beginning|sample]]** - explanation
-  * **[[:en:key-terms:beginning|sample]]** - explanation
-  * **[[:en:key-terms:beginning|sample]]** - explanation
 
 
 === Translation Notes: ===
@@ -20,8 +18,10 @@ After the rains stopped, the boat floated on the water for five months, and then
 Pay close attention to ...
 
 
-  * "//issue//" - explanation
-  * "//issue//" - explanation
-  
+  * "//five months//" - explanation
+  * "//boat rested//" - explanation  
+  * "//three more months//" - explanation
+  * "//mountains were visible//" - explanation
 
-**[[:en:obs-training:03-the-flood|Back]]**
+
+**[[:en:obs-training:03b-the-flood|Back]]**
