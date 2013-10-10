@@ -12,51 +12,51 @@ text
 
 Click on the images below to translate each frame of the story.
 
-[[:en:obs-training:frames:03-01|{{:en:obs:obs-03-01.jpg?200|title}}]]\\
-title\\
+[[:en:obs-training:frames:03-01|{{:en:obs:obs-03-01.jpg?200|Sin Increases}}]]\\
+Sin Increases\\
 \\
-[[:en:obs-training:frames:03-02|{{:en:obs:obs-03-02.jpg?200|title}}]]\\
-title\\
+[[:en:obs-training:frames:03-02|{{:en:obs:obs-03-02.jpg?200|Noah Finds Grace}}]]\\
+Noah Finds Grace\\
 \\
-[[:en:obs-training:frames:03-03|{{:en:obs:obs-03-03.jpg?200|title}}]]\\
-title\\
+[[:en:obs-training:frames:03-03|{{:en:obs:obs-03-03.jpg?200|The Ark}}]]\\
+The Ark\\
 \\
-[[:en:obs-training:frames:03-04|{{:en:obs:obs-03-04.jpg?200|title}}]]\\
-title\\
+[[:en:obs-training:frames:03-04|{{:en:obs:obs-03-04.jpg?200|Building the Ark}}]]\\
+Building the Ark\\
 \\
-[[:en:obs-training:frames:03-05|{{:en:obs:obs-03-05.jpg?200|title}}]]\\
-title\\
+[[:en:obs-training:frames:03-05|{{:en:obs:obs-03-05.jpg?200|Loading the Ark}}]]\\
+Loading the Ark\\
 \\
-[[:en:obs-training:frames:03-06|{{:en:obs:obs-03-06.jpg?200|title}}]]\\
-title\\
+[[:en:obs-training:frames:03-06|{{:en:obs:obs-03-06.jpg?200|The Animals Come}}]]\\
+The Animals Come\\
 \\
-[[:en:obs-training:frames:03-07|{{:en:obs:obs-03-07.jpg?200|title}}]]\\
-title\\
+[[:en:obs-training:frames:03-07|{{:en:obs:obs-03-07.jpg?200|The Rain Begins}}]]\\
+The Rain Begins\\
 \\
-[[:en:obs-training:frames:03-08|{{:en:obs:obs-03-08.jpg?200|title}}]]\\
-title\\
+[[:en:obs-training:frames:03-08|{{:en:obs:obs-03-08.jpg?200|Safe from the Flood}}]]\\
+Safe from the Flood\\
 \\
-[[:en:obs-training:frames:03-09|{{:en:obs:obs-03-09.jpg?200|title}}]]\\
-title\\
+[[:en:obs-training:frames:03-09|{{:en:obs:obs-03-09.jpg?200|The Rain Stops}}]]\\
+The Rain Stops\\
 \\
-[[:en:obs-training:frames:03-10|{{:en:obs:obs-03-10.jpg?200|title}}]]\\
-title\\
+[[:en:obs-training:frames:03-10|{{:en:obs:obs-03-10.jpg?200|The Raven}}]]\\
+The Raven\\
 \\
-[[:en:obs-training:frames:03-11|{{:en:obs:obs-03-11.jpg?200|title}}]]\\
-title\\
+[[:en:obs-training:frames:03-11|{{:en:obs:obs-03-11.jpg?200|The Dove}}]]\\
+The Dove\\
 \\
-[[:en:obs-training:frames:03-12|{{:en:obs:obs-03-12.jpg?200|title}}]]\\
-title\\
+[[:en:obs-training:frames:03-12|{{:en:obs:obs-03-12.jpg?200|Dry Land}}]]\\
+Dry Land\\
 \\
-[[:en:obs-training:frames:03-13|{{:en:obs:obs-03-13.jpg?200|title}}]]\\
-title\\
+[[:en:obs-training:frames:03-13|{{:en:obs:obs-03-13.jpg?200|Leaving the Ark}}]]\\
+Leaving the Ark\\
 \\
-[[:en:obs-training:frames:03-14|{{:en:obs:obs-03-14.jpg?200|title}}]]\\
-title\\
+[[:en:obs-training:frames:03-14|{{:en:obs:obs-03-14.jpg?200|Noah's Sacrifice}}]]\\
+Noah's Sacrifice\\
 \\
-[[:en:obs-training:frames:03-15|{{:en:obs:obs-03-15.jpg?200|title}}]]\\
-title\\
+[[:en:obs-training:frames:03-15|{{:en:obs:obs-03-15.jpg?200|God's Promise}}]]\\
+God's Promise\\
 \\
-[[:en:obs-training:frames:03-16|{{:en:obs:obs-03-16.jpg?200|title}}]]\\
-title\\
+[[:en:obs-training:frames:03-16|{{:en:obs:obs-03-16.jpg?200|The Rainbow}}]]\\
+The Rainbow\\
 

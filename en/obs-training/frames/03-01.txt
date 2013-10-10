@@ -3,16 +3,14 @@
 {{:en:obs:obs-03-01.jpg?nolink&640x360}}
 
 
-After a long time, many people were living in the world. They had become very wicked and violent. It became so bad that God decided to destroy the whole world with a huge flood.
+After a long time, many people were living in the world. They had become very **wicked** and violent. It became so bad that **God** decided to destroy the whole world with a huge flood.
 
 
 === Key Terms: ===
 
  
-  * **[[:en:key-terms:beginning|sample]]** - explanation
-  * **[[:en:key-terms:beginning|sample]]** - explanation
-  * **[[:en:key-terms:beginning|sample]]** - explanation
-
+  * **[[:en:key-terms:wicked|wicked]]** - explanation
+  * **[[:en:key-terms:god|God]]** - Almighty, creator, sinless and perfect
 
 === Translation Notes: ===
 
@@ -20,8 +18,10 @@ After a long time, many people were living in the world. They had become very wi
 Pay close attention to ...
 
 
-  * "//issue//" - explanation
-  * "//issue//" - explanation
+  * "//After a long time//" - explanation
+  * "//very wicked and violent//" - explanation
+  * "//God decided to destroy//" - explanation
+  * "//huge flood//" - explanation
   
 
-**[[:en:obs-training:03-the-flood|Back]]**
+**[[:en:obs-training:03b-the-flood|Back]]**

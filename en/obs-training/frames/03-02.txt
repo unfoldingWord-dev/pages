@@ -3,14 +3,15 @@
 {{:en:obs:obs-03-02.jpg?nolink&640x360}}
 
 
-But Noah found grace in God’s eyes. He was the only righteous man among all the wicked people. God told Noah about the flood He was planning to send. He told Noah to build a huge boat called an ark.
+But **Noah** found grace in **God’s** eyes. He was the only **righteous** man among all the **wicked** people. **God** told **Noah** about the flood He was planning to send. He told **Noah** to build a huge boat called an **ark**.
 
 === Key Terms: ===
 
  
-  * **[[:en:key-terms:beginning|sample]]** - explanation
-  * **[[:en:key-terms:beginning|sample]]** - explanation
-  * **[[:en:key-terms:beginning|sample]]** - explanation
+  * **[[:en:key-terms:grace|grace]]** - explanation
+  * **[[:en:key-terms:righteous|righteous]]** - explanation
+  * **[[:en:key-terms:wicked|wicked]]** - explanation
+  * **[[:en:key-terms:ark|ark]]** - explanation
 
 
 === Translation Notes: ===
@@ -19,8 +20,10 @@ But Noah found grace in God’s eyes. He was the only righteous man among all th
 Pay close attention to ...
 
 
-  * "//issue//" - explanation
-  * "//issue//" - explanation
-  
+  * "//found grace//" - explanation
+  * "//God's eyes//" - explanation
+  * "//flood//" - explanation
+  * "//planning to send//" - explanation
 
-**[[:en:obs-training:03-the-flood|Back]]**
+
+**[[:en:obs-training:03b-the-flood|Back]]**
