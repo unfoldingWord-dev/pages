@@ -5,14 +5,14 @@
 
 
 The woman answered, “**God** told us we could eat the fruit of any tree except from the tree of the knowledge of good and evil. **God** told us, ‘If you eat that fruit or even touch it, you will **die**.’”
+
 === Key Terms: ===
 
 
-    * **[[:en:key-terms:beginning|sample]]**- explanation
-    * God
-    * good
-    * evil
-    * die
+    * **[[:en:key-terms:god|God]]** - Almighty, creator, sinless and perfect
+    * **[[:en:key-terms:good|good]]** - in agreement with God's character and purposes, to an extra measure
+    * **[[:en:key-terms:evil|evil]]** - anything that is opposed to God's character and purposes
+    * **[[:en:key-terms:die|die]]** - to die is to be separated from God and from life on this earth
 
 
 === Translation Notes: ===
@@ -21,9 +21,9 @@ The woman answered, “**God** told us we could eat the fruit of any tree except
 Pay close attention to …
 
 
-    * "//fruit//" - 
-    * "//tree of the knowledge of good and evil//" - 
-    * "//or even touch//" - 
+    * "//fruit//" - we don't know what kind of fruit this was. We only know that it grew on the trees.
+    * "//tree of the knowledge of good and evil//" - the woman correctly understood that they were not allowed to eat from this one tree that would enable them to understand evil as well as good.
+    * "//or even touch//" - the woman incorrectly added this additional restriction to God' command. God did not tell them not to touch the fruit. 
 
 
 **[[:en:obs-training:02b-sin-enters-the-world|Back]]**
