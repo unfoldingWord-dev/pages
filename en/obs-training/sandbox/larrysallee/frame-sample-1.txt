@@ -1,17 +1,26 @@
-==== Frame x-x ====
+==== Frame Sample 1 ====
 
-[image and text]
+{{:en:obs:obs-02-01.jpg?nolink&640x360}}
+
+
+**Adam** and his wife were very happy living in the beautiful garden **God** had made for them. Neither of them wore clothes, but they did not feel any **shame**, because there was no **sin ** in the world. They often walked in the garden and talked with **God**.
 
 
 === Special Words and Phrases: ===
 
-  * **sample without link** - explanation
-  * **[[:en:key-terms:beginning|sample with link]]** - explanation
+
+  * **[[:en:key-terms:adam|Adam]]** - the first man that God created
+  * **garden** -  a special collection of trees and plants that God prepared for Adam and Eve
+  * **[[:en:key-terms:god|God]]** - Almighty, creator, sinless and perfect
+  * **[[:en:key-terms:shame|shame]]** - a sense that something is inappropriate, should not be done, or causes a bad reputation
+  * **[[:en:key-terms:sin|sin]]** - anything that is opposed to the way God desires for us to think and act
 
 
 === Translation Notes and Helps: ===
 
-  * note the discourse…
-  * note the grammatical features…
+
+  * "//very happy living//" - the mood as this story begins is relaxed, carefree, and happy. Everything is good. There are no problems.
+  * "//often walked … and talked with God//" - The man and the woman habitually, regularly had close, personal fellowship with God. They walked and talked with him as one would do with a friend.
+
 
 **[[:en:obs-training:02-sin-enters-the-world|Back]]**

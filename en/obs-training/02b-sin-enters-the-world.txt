@@ -10,7 +10,7 @@ This section will give you important background information that will help you t
 ==== Overview: ====
 
 
-short statement ...
+short statement …
 
 
 ==== Emphasis of the story: ====
@@ -22,7 +22,7 @@ expanded statement
 ==== Theological Study ====
 
 
-key theological points, expanded in link ... [[:en:obs-training:theological:02-sin-enters-the-world|(... learn more)]]
+key theological points, expanded in link … [[:en:obs-training:theological:02-sin-enters-the-world|(... learn more)]]
 
 
 ===== Translate the Story =====
@@ -43,4 +43,3 @@ Click on the links below to translate each frame of the story.
     * [[:en:obs-training:frames:02-10|02-10]]
     * [[:en:obs-training:frames:02-11|02-11]]
     * [[:en:obs-training:frames:02-12|02-12]]
-    
