@@ -1,10 +1,12 @@
 ====== 3b. The Flood (simplified) ======
 
+(LS. I have an even more simplified version 3c that I prefer in my sandbox)
 
-===== Introduction =====
+
+===== Introduction ===== 
 
 
-This section will give you important background information that will help you translate the story accurately.
+This section will give you important background information that will help you translate the story accurately. (LS. suggest we combine this section into a single "Overview" section) 
 
 
 ==== Overview: ====
@@ -16,19 +18,19 @@ short statement ...
 ==== Emphasis of the story: ====
 
 
-expanded statement
+expanded statement (LS. suggest this is covered adequately by the "Overview") 
 
 
-==== Theological Study ====
+==== Theological Study ==== 
 
 
-key theological points, expanded in link ... [[:en:obs-training:theological:03-the-flood|(... learn more)]]
+key theological points, expanded in link … [[:en:obs-training:theological:03-the-flood|(... learn more)]] (LS. suggest we skip this section in Frames. The content would better fit as a discipleship resource linked to the main OBS stories. We can cover any theological issues that are key to translation in the individual frames.) 
 
 
 ===== Translate the Story =====
 
 
-Click on the links below to translate each frame of the story.
+Click on the links below to translate each frame of the story. (LS. I added images and titles in version 3c in my sandbox)
 
 
     * [[:en:obs-training:frames:03-01|03-01]]
