@@ -18,12 +18,10 @@ Then it began to rain, and rain, and rain. It rained for forty days and forty ni
 Pay close attention to ...
 
 
-  * "//rain, and rain, and rain//" - explanation
-  * "//forty days and forty nights//" - explanation
-  * "//gushing up out of the earth//" - explanation
-  * "//whole world was covered//" - explanation
-  * "//issue//" - explanation
-  * "//issue//" - explanation
+  * "//rain, and rain, and rain//" - an unusual, extreme amount of rain 
+  * "//forty days and forty nights//" - the rain continued both day and night for 40 days in a row
+  * "//gushing up out of the earth//" - water also came up from unusually large springs
+  * "//whole world was covered//" - there was not dry land at all. Water covered even the mountains. The earth returned to its condition before God created the dry land on the third day of creation.
 
 
 **[[:en:obs-training:03b-the-flood|Back]]**
