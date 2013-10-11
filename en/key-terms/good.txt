@@ -1,18 +1,24 @@
 ====== Good ======
 
 
-===== “in agreement with God's character and purposes" =====
+===== "In agreement [or reflecting] <del>with</del> God's character[,] <del>and</del> purposes [, and/or will]" (CL) =====
 
 
-Information that will help the translator know more about the Hebrew or Greek term so they can apply their native language words correctly.
+<del> Information that will help the translator know more about the Hebrew or Greek term so they can apply their native language words correctly.
 
 
 For example:
 
 
   * This term is best translated to have the meaning of…..
-  * Perhaps compare/contrast/refer to other similar words or corresponding terms or Hebrew or Greek words
+  * Perhaps compare/contrast/refer to other similar words or corresponding terms or Hebrew or Greek words </del>
 
+  * The Hebrew word for good (טוֹב/ṭôb) carries the general meaning “pleasing” or “excellent”, concepts that finds their truest and most full meaning in the character and nature of God.
+
+  * In the original language, “good” (טוֹב/ṭôb) can, in some instances, have a very concrete meaning or, in other cases, cary a rather abstract conceptual meaning. Concretely, “good” can refer to either an esthetic or visual quality, denoting beauty3; yet abstractly, this term can denote or an intrinsic quality inherent in the object which is good. In this manner the general meaning of טוֹב/ṭôb- “pleasing” or “excellent”- can relate varying emphases depending on the immediate context of the usage. 
+    * For example, some uses of טוֹב/ṭôb,as seen in frames 01-11, 01-12, denote a more abstract qualitative understanding of “good,” while we the nature of frames such as 01-02, 01-05 speak not only to creation’s innate quality but its visual beauty as creation was, in its fullness, pleasing to God.
+
+((Consulted: Andrew Bowling, "טוֹב" in //Theological Wordbook of the Old Testament//, Eds. R. Laird Harris, Gleason L. Archer, Bruce K. Waltke (Chicago, IL: Moody Press, 1980), 345-346.))(edited by CL)
 
 ----
 
@@ -29,4 +35,3 @@ After you choose a word to translate this term, try to use it consistently when 
 This term is also used in many places in the Bible. You can use the links below to see Strong's description of the root meaning of these words.
 
     * Strong's link
-
