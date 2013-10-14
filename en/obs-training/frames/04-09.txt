@@ -3,16 +3,18 @@
 {{:en:obs:obs-04-07.jpg?nolink&640x360}}
 
 
-Then God made a covenant with Abram. A covenant is an agreement between two parties. God said, "I will give you a son from your own body. To your descendants I give the land of Canaan.” But Abram still had no son.
+Then **God** made a **covenant** with **Abram**. A **covenant** is an agreement between two parties. **God** said, "I will give you a son from your own body. To your **descendants** I give the land of **Canaan**.” But **Abram** still had no son.
 
 
 === Key Terms: ===
 
  
-  * **[[:en:key-terms:beginning|sample]]** - explanation
-  * **[[:en:key-terms:beginning|sample]]** - explanation
-  * **[[:en:key-terms:beginning|sample]]** - explanation
-  * **[[:en:key-terms:beginning|sample]]** - explanation
+  * **[[:en:key-terms:god|God]]** - explanation
+  * **[[:en:key-terms:covenant|covenant]]** - explanation
+  * **[[:en:key-terms:abram|Abram]]** - explanation
+  * **[[:en:key-terms:son|son]]** - explanation
+  * **[[:en:key-terms:descendant|descendants]]** - explanation
+  * **[[:en:key-terms:canaan|Canaan]]** - explanation
 
 
 === Translation Notes: ===
@@ -21,10 +23,9 @@ Then God made a covenant with Abram. A covenant is an agreement between two part
 Pay close attention to ...
 
 
-  * "//issue//" - explanation
-  * "//issue//" - explanation
-  * "//issue//" - explanation
-  * "//issue//" - explanation
+  * "//two parties//" - explanation
+  * "//from your own body//" - explanation
+  * "//no son//" - explanation
   
 
 **[[:en:obs-training:04b-gods-covenant-with-abraham|Back]]**
