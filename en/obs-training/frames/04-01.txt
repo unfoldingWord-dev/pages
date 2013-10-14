@@ -3,16 +3,14 @@
 {{:en:obs:obs-04-01.jpg?nolink&640x360}}
 
 
-Many years after the flood, there were again many people in the world, and they all spoke the same language. But the people did not obey God. Instead of having children and filling the earth, they gathered together and built a city.
+Many years after the flood, there were again many people in the world, and they all spoke the same language. But the people did not **obey** **God**. Instead of having children and filling the earth, they gathered together and built a city.
 
 
 === Key Terms: ===
 
  
-  * **[[:en:key-terms:beginning|sample]]** - explanation
-  * **[[:en:key-terms:beginning|sample]]** - explanation
-  * **[[:en:key-terms:beginning|sample]]** - explanation
-  * **[[:en:key-terms:beginning|sample]]** - explanation
+  * **[[:en:key-terms:obey|obey]]** - explanation
+  * **[[:en:key-terms:god|God]]** - explanation
 
 
 === Translation Notes: ===
@@ -21,10 +19,10 @@ Many years after the flood, there were again many people in the world, and they 
 Pay close attention to ...
 
 
-  * "//issue//" - explanation
-  * "//issue//" - explanation
-  * "//issue//" - explanation
-  * "//issue//" - explanation
+  * "//many years after the flood//" - explanation
+  * "//again many people//" - explanation
+  * "//same language//" - explanation
+  * "//a city//" - explanation
   
 
-**[[:en:obs-training:04-gods-covenant-with-abraham|Back]]**
+**[[:en:obs-training:04b-gods-covenant-with-abraham|Back]]**

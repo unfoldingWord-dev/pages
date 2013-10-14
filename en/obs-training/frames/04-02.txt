@@ -3,16 +3,16 @@
 {{:en:obs:obs-04-02.jpg?nolink&640x360}}
 
 
-They were very proud, and they did not care about what God said. They even began building a tall tower to reach heaven. God saw that if they all kept working together, they could do many evil things.
+They were very **proud**, and they did not care about what **God** said. They even began building a tall tower to reach **heaven**. **God** saw that if they all kept working together, they could do many **evil** things.
 
 
 === Key Terms: ===
 
  
-  * **[[:en:key-terms:beginning|sample]]** - explanation
-  * **[[:en:key-terms:beginning|sample]]** - explanation
-  * **[[:en:key-terms:beginning|sample]]** - explanation
-  * **[[:en:key-terms:beginning|sample]]** - explanation
+  * **[[:en:key-terms:proud|proud]]** - explanation
+  * **[[:en:key-terms:god|God]]** - explanation
+  * **[[:en:key-terms:heaven|heaven]]** - explanation
+  * **[[:en:key-terms:evil|evil]]** - explanation
 
 
 === Translation Notes: ===
@@ -21,10 +21,9 @@ They were very proud, and they did not care about what God said. They even began
 Pay close attention to ...
 
 
-  * "//issue//" - explanation
-  * "//issue//" - explanation
-  * "//issue//" - explanation
-  * "//issue//" - explanation
+  * "//tall tower to reach heaven//" - explanation
+  * "//working together//" - explanation
+  * "//many evil things//" - explanation
   
 
 **[[:en:obs-training:04b-gods-covenant-with-abraham|Back]]**
