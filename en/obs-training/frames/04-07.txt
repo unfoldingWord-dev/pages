@@ -3,15 +3,17 @@
 {{:en:obs:obs-04-09.jpg?nolink&640x360}}
 
 
-One day, Abram met Melchizedek, the priest of God Most High. Melchizedek blessed Abram and said, “May God Most High who owns heaven and earth bless Abram.” Then Abram gave Melchizedek a tenth of all he owned.
+One day, **Abram** met **Melchizedek**, the priest of **God** Most High. **Melchizedek** **blessed** **Abram** and said, “May **God** Most High who owns **heaven** and earth **bless** **Abram**.” Then **Abram** gave **Melchizedek** a tenth of all he owned.
 
 === Key Terms: ===
 
  
-  * **[[:en:key-terms:beginning|sample]]** - explanation
-  * **[[:en:key-terms:beginning|sample]]** - explanation
-  * **[[:en:key-terms:beginning|sample]]** - explanation
-  * **[[:en:key-terms:beginning|sample]]** - explanation
+  * **[[:en:key-terms:abram|Abram]]** - explanation
+  * **[[:en:key-terms:melchizadek|Melchizadek]]** - explanation
+  * **[[:en:key-terms:priest|priest]]** - explanation
+  * **[[:en:key-terms:god|God]]** - explanation
+  * **[[:en:key-terms:heaven|heaven]]** - explanation
+  * **[[:en:key-terms:bless|bless]]** - explanation
 
 
 === Translation Notes: ===
@@ -20,10 +22,10 @@ One day, Abram met Melchizedek, the priest of God Most High. Melchizedek blessed
 Pay close attention to ...
 
 
-  * "//issue//" - explanation
-  * "//issue//" - explanation
-  * "//issue//" - explanation
-  * "//issue//" - explanation
+  * "//the priest//" - explanation
+  * "//God Most High//" - explanation
+  * "//owns heaven and earth//" - explanation
+  * "//a tenth//" - explanation
   
 
 **[[:en:obs-training:04b-gods-covenant-with-abraham|Back]]**
