@@ -3,7 +3,7 @@
 {{:en:obs:obs-05-01.jpg?nolink&640x360}}
 
 
-**Abram** and **Sarai** waited over twenty years, but they still had no son. **God** spoke to **Abram** and **promised** again that he would have a son and as many **descendants** as the stars in the sky. **Abram** **believed** **God’s** **promise**. **God** said that **Abram** was **righteous** through **believing** in **God's** **promise**.
+**Abram** and **Sarai** waited over twenty years, but they still had no **son**. **God** spoke to **Abram** and **promised** again that he would have a **son** and as many **descendants** as the stars in the sky. **Abram** **believed** **God’s** **promise**. **God** said that **Abram** was **righteous** through **believing** in **God's** **promise**.
 
 
 === Key Terms: ===
@@ -11,6 +11,7 @@
  
   * **[[:en:key-terms:abram|Abram]]** - explanation
   * **[[:en:key-terms:sarai|Sarai]]** - explanation
+  * **[[:en:key-terms:son|son]]** - explanation
   * **[[:en:key-terms:god|God]]** - explanation
   * **[[:en:key-terms:promise|promise]]** - explanation
   * **[[:en:key-terms:descendant|descendants]]** - explanation
