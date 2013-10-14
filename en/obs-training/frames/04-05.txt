@@ -2,17 +2,17 @@
 
 {{:en:obs:obs-04-05.jpg?nolink&640x360}}
 
-
-So Abram obeyed. He took his wife, Sarai, and all his servants and herds of animals and went to the land God showed him, the land of Canaan.
+So **Abram** **obeyed**. He took his wife, **Sarai**, and all his servants and herds of animals and went to the land **God** showed him, the land of **Canaan**.
 
 
 === Key Terms: ===
 
  
-  * **[[:en:key-terms:beginning|sample]]** - explanation
-  * **[[:en:key-terms:beginning|sample]]** - explanation
-  * **[[:en:key-terms:beginning|sample]]** - explanation
-  * **[[:en:key-terms:beginning|sample]]** - explanation
+  * **[[:en:key-terms:abram|Abram]]** - explanation
+  * **[[:en:key-terms:obey|obeyed]]** - explanation
+  * **[[:en:key-terms:sarai|Sarai]]** - explanation
+  * **[[:en:key-terms:god|God]]** - explanation
+  * **[[:en:key-terms:canaan|Canaan]]** - explanation
 
 
 === Translation Notes: ===
@@ -21,10 +21,8 @@ So Abram obeyed. He took his wife, Sarai, and all his servants and herds of anim
 Pay close attention to ...
 
 
-  * "//issue//" - explanation
-  * "//issue//" - explanation
-  * "//issue//" - explanation
-  * "//issue//" - explanation
+  * "//all his servants and herds//" - explanation
+  * "//God showed him//" - explanation
   
 
 **[[:en:obs-training:04b-gods-covenant-with-abraham|Back]]**

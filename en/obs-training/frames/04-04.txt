@@ -3,16 +3,16 @@
 {{:en:obs:obs-04-04.jpg?nolink&640x360}}
 
 
-Hundreds of years later, God spoke to a man named Abram. God told him, "Leave your country and family and go to the land I will show you. I will bless you and make you a great nation. I will make your name great. I will bless those who bless you and curse those who curse you. All families on earth will be blessed because of you."
+Hundreds of years later, **God** spoke to a man named **Abram**. **God** told him, "Leave your country and family and go to the land I will show you. I will **bless** you and make you a great nation. I will make your name great. I will **bless** those who **bless** you and **curse** those who **curse** you. All families on earth will be **blessed** because of you."
 
 
 === Key Terms: ===
 
  
-  * **[[:en:key-terms:beginning|sample]]** - explanation
-  * **[[:en:key-terms:beginning|sample]]** - explanation
-  * **[[:en:key-terms:beginning|sample]]** - explanation
-  * **[[:en:key-terms:beginning|sample]]** - explanation
+  * **[[:en:key-terms:god|God]]** - explanation
+  * **[[:en:key-terms:abram|Abram]]** - explanation
+  * **[[:en:key-terms:bless|bless]]** - explanation
+  * **[[:en:key-terms:curse|curse]]** - explanation
 
 
 === Translation Notes: ===
@@ -21,10 +21,10 @@ Hundreds of years later, God spoke to a man named Abram. God told him, "Leave yo
 Pay close attention to ...
 
 
-  * "//issue//" - explanation
-  * "//issue//" - explanation
-  * "//issue//" - explanation
-  * "//issue//" - explanation
-  
+  * "//hundreds of years later//" - explanation
+  * "//leave your country//" - explanation
+  * "//the land I will show you//" - explanation
+  * "//make your name great//" - explanation
+  * "//all families on earth//" - explanation  
 
 **[[:en:obs-training:04b-gods-covenant-with-abraham|Back]]**

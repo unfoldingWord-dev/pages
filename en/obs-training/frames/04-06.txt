@@ -3,16 +3,18 @@
 {{:en:obs:obs-04-06.jpg?nolink&640x360}}
 
 
-When Abram arrived in Canaan God said, "Look all around you. All the land that you can see I will give to you and your descendants as an inheritance. I will bless you and make your name great." Then Abram settled in the land.
+When **Abram** arrived in **Canaan** **God** said, "Look all around you. All the land that you can see I will give to you and your **descendants** as an **inheritance**. I will **bless** you and make your name great." Then **Abram** settled in the land.
 
 
 === Key Terms: ===
 
  
-  * **[[:en:key-terms:beginning|sample]]** - explanation
-  * **[[:en:key-terms:beginning|sample]]** - explanation
-  * **[[:en:key-terms:beginning|sample]]** - explanation
-  * **[[:en:key-terms:beginning|sample]]** - explanation
+  * **[[:en:key-terms:abram|Abram]]** - explanation
+  * **[[:en:key-terms:canaan|Canaan]]** - explanation
+  * **[[:en:key-terms:god|God]]** - explanation
+  * **[[:en:key-terms:descendant|descendants]]** - explanation
+  * **[[:en:key-terms:inheritance|inheritance]]** - explanation
+  * **[[:en:key-terms:bless|bless]]** - explanation
 
 
 === Translation Notes: ===
@@ -21,10 +23,8 @@ When Abram arrived in Canaan God said, "Look all around you. All the land that y
 Pay close attention to ...
 
 
-  * "//issue//" - explanation
-  * "//issue//" - explanation
-  * "//issue//" - explanation
-  * "//issue//" - explanation
+  * "//all the land that you can see//" - explanation
+  * "//name great//" - explanation
   
 
 **[[:en:obs-training:04b-gods-covenant-with-abraham|Back]]**
