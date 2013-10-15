@@ -14,5 +14,5 @@ Onespiphorus.
 
 ===== Strongs References =====
 
-[[en:lexicon:g3685|G3685]]
-[[en:lexicon:g5411|G5411]]
+  - [[en:lexicon:g3685|G3685]]
+  - [[en:lexicon:g5411|G5411]]

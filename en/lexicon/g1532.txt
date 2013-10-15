@@ -14,5 +14,5 @@ run in.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1519|G1519]]
-[[en:lexicon:g5143|G5143]]
+  - [[en:lexicon:g1519|G1519]]
+  - [[en:lexicon:g5143|G5143]]

@@ -14,5 +14,5 @@ five hundred.
 
 ===== Strongs References =====
 
-[[en:lexicon:g4002|G4002]]
-[[en:lexicon:g1540|G1540]]
+  - [[en:lexicon:g4002|G4002]]
+  - [[en:lexicon:g1540|G1540]]

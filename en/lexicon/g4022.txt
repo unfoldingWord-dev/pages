@@ -14,5 +14,5 @@ fetch a compass, vagabond, wandering about.
 
 ===== Strongs References =====
 
-[[en:lexicon:g4012|G4012]]
-[[en:lexicon:g2064|G2064]]
+  - [[en:lexicon:g4012|G4012]]
+  - [[en:lexicon:g2064|G2064]]

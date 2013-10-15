@@ -14,5 +14,5 @@ parable, proverb.
 
 ===== Strongs References =====
 
-[[en:lexicon:g3844|G3844]]
-[[en:lexicon:g3633|G3633]]
+  - [[en:lexicon:g3844|G3844]]
+  - [[en:lexicon:g3633|G3633]]

@@ -14,5 +14,5 @@ Cleopas.
 
 ===== Strongs References =====
 
-[[en:lexicon:g2811|G2811]]
-[[en:lexicon:g3962|G3962]]
+  - [[en:lexicon:g2811|G2811]]
+  - [[en:lexicon:g3962|G3962]]

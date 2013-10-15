@@ -14,5 +14,5 @@ neglect.
 
 ===== Strongs References =====
 
-[[en:lexicon:g3844|G3844]]
-[[en:lexicon:g2334|G2334]]
+  - [[en:lexicon:g3844|G3844]]
+  - [[en:lexicon:g2334|G2334]]

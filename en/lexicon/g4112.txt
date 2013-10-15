@@ -14,4 +14,4 @@ feigned.
 
 ===== Strongs References =====
 
-[[en:lexicon:g4111|G4111]]
+  - [[en:lexicon:g4111|G4111]]

@@ -14,4 +14,4 @@ hid, kept secret.
 
 ===== Strongs References =====
 
-[[en:lexicon:g613|G613]]
+  - [[en:lexicon:g613|G613]]

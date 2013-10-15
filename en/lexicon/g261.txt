@@ -14,5 +14,5 @@ unlearned.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1|G1]]
-[[en:lexicon:g3129|G3129]]
+  - [[en:lexicon:g1|G1]]
+  - [[en:lexicon:g3129|G3129]]

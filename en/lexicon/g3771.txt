@@ -14,4 +14,4 @@ from heaven.
 
 ===== Strongs References =====
 
-[[en:lexicon:g3772|G3772]]
+  - [[en:lexicon:g3772|G3772]]

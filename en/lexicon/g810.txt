@@ -15,5 +15,5 @@ excess, riot.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1|G1]]
-[[en:lexicon:g4982|G4982]]
+  - [[en:lexicon:g1|G1]]
+  - [[en:lexicon:g4982|G4982]]

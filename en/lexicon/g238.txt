@@ -14,5 +14,5 @@ be an allegory (the Greek word itself).
 
 ===== Strongs References =====
 
-[[en:lexicon:g243|G243]]
-[[en:lexicon:g58|G58]]
+  - [[en:lexicon:g243|G243]]
+  - [[en:lexicon:g58|G58]]

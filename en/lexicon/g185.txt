@@ -14,5 +14,5 @@ harmless, simple.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1|G1]]
-[[en:lexicon:g2767|G2767]]
+  - [[en:lexicon:g1|G1]]
+  - [[en:lexicon:g2767|G2767]]

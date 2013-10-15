@@ -14,5 +14,5 @@ when.
 
 ===== Strongs References =====
 
-[[en:lexicon:g3739|G3739]]
-[[en:lexicon:g4218|G4218]]
+  - [[en:lexicon:g3739|G3739]]
+  - [[en:lexicon:g4218|G4218]]

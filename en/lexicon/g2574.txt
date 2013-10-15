@@ -14,4 +14,4 @@ camel.
 
 ===== Strongs References =====
 
-[[en:lexicon:h01581|H01581]]
+  - [[en:lexicon:h01581|H01581]]

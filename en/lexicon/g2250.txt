@@ -15,5 +15,5 @@ age, + alway, (mid-)day (by day, (-ly)), + for ever, judgment, (day) time, while
 
 ===== Strongs References =====
 
-[[en:lexicon:g5610|G5610]]
-[[en:lexicon:g1476|G1476]]
+  - [[en:lexicon:g5610|G5610]]
+  - [[en:lexicon:g1476|G1476]]

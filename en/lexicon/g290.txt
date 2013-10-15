@@ -14,4 +14,4 @@ vineyard.
 
 ===== Strongs References =====
 
-[[en:lexicon:g288|G288]]
+  - [[en:lexicon:g288|G288]]

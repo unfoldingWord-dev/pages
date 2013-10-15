@@ -14,5 +14,5 @@ find.
 
 ===== Strongs References =====
 
-[[en:lexicon:g303|G303]]
-[[en:lexicon:g2147|G2147]]
+  - [[en:lexicon:g303|G303]]
+  - [[en:lexicon:g2147|G2147]]

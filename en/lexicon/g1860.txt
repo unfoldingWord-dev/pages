@@ -14,4 +14,4 @@ message, promise.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1861|G1861]]
+  - [[en:lexicon:g1861|G1861]]

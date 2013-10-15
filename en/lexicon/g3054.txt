@@ -14,5 +14,5 @@ strive about words.
 
 ===== Strongs References =====
 
-[[en:lexicon:g3056|G3056]]
-[[en:lexicon:g3164|G3164]]
+  - [[en:lexicon:g3056|G3056]]
+  - [[en:lexicon:g3164|G3164]]

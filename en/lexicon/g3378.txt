@@ -14,6 +14,6 @@ neither (followed by no), + never, not.
 
 ===== Strongs References =====
 
-[[en:lexicon:g3756|G3756]]
-[[en:lexicon:g3364|G3364]]
-[[en:lexicon:g3361|G3361]]
+  - [[en:lexicon:g3756|G3756]]
+  - [[en:lexicon:g3364|G3364]]
+  - [[en:lexicon:g3361|G3361]]

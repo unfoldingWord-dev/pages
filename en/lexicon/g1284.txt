@@ -14,5 +14,5 @@ break, rend.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1223|G1223]]
-[[en:lexicon:g4486|G4486]]
+  - [[en:lexicon:g1223|G1223]]
+  - [[en:lexicon:g4486|G4486]]

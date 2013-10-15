@@ -14,5 +14,5 @@ Syrophenician.
 
 ===== Strongs References =====
 
-[[en:lexicon:g4948|G4948]]
-[[en:lexicon:g5403|G5403]]
+  - [[en:lexicon:g4948|G4948]]
+  - [[en:lexicon:g5403|G5403]]

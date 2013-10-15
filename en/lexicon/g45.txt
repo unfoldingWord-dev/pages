@@ -14,4 +14,4 @@ anchor.
 
 ===== Strongs References =====
 
-[[en:lexicon:g43|G43]]
+  - [[en:lexicon:g43|G43]]

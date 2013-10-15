@@ -14,5 +14,5 @@ access.
 
 ===== Strongs References =====
 
-[[en:lexicon:g4317|G4317]]
-[[en:lexicon:g72|G72]]
+  - [[en:lexicon:g4317|G4317]]
+  - [[en:lexicon:g72|G72]]

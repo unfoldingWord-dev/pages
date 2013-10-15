@@ -15,7 +15,7 @@ break (forth), burst, rend, tear.
 
 ===== Strongs References =====
 
-[[en:lexicon:g2608|G2608]]
-[[en:lexicon:g2608|G2608]]
-[[en:lexicon:g2352|G2352]]
-[[en:lexicon:g3089|G3089]]
+  - [[en:lexicon:g2608|G2608]]
+  - [[en:lexicon:g2608|G2608]]
+  - [[en:lexicon:g2352|G2352]]
+  - [[en:lexicon:g3089|G3089]]

@@ -14,4 +14,4 @@ raven.
 
 ===== Strongs References =====
 
-[[en:lexicon:g2880|G2880]]
+  - [[en:lexicon:g2880|G2880]]

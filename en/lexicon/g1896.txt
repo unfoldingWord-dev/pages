@@ -14,5 +14,5 @@ behold, look upon.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1909|G1909]]
-[[en:lexicon:g1492|G1492]]
+  - [[en:lexicon:g1909|G1909]]
+  - [[en:lexicon:g1492|G1492]]

@@ -14,5 +14,5 @@ centurion.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1540|G1540]]
-[[en:lexicon:g757|G757]]
+  - [[en:lexicon:g1540|G1540]]
+  - [[en:lexicon:g757|G757]]

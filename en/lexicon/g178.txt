@@ -14,5 +14,5 @@ uncondemned.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1|G1]]
-[[en:lexicon:g2632|G2632]]
+  - [[en:lexicon:g1|G1]]
+  - [[en:lexicon:g2632|G2632]]

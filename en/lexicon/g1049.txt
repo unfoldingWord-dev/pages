@@ -14,5 +14,5 @@ treasury.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1047|G1047]]
-[[en:lexicon:g5438|G5438]]
+  - [[en:lexicon:g1047|G1047]]
+  - [[en:lexicon:g5438|G5438]]

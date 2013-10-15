@@ -14,4 +14,4 @@ perplexity.
 
 ===== Strongs References =====
 
-[[en:lexicon:g639|G639]]
+  - [[en:lexicon:g639|G639]]

@@ -14,4 +14,4 @@ from henceforth.
 
 ===== Strongs References =====
 
-[[en:lexicon:g3062|G3062]]
+  - [[en:lexicon:g3062|G3062]]

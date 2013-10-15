@@ -14,5 +14,5 @@ partiality.
 
 ===== Strongs References =====
 
-[[en:lexicon:g4314|G4314]]
-[[en:lexicon:g2827|G2827]]
+  - [[en:lexicon:g4314|G4314]]
+  - [[en:lexicon:g2827|G2827]]

@@ -14,5 +14,5 @@ occasion.
 
 ===== Strongs References =====
 
-[[en:lexicon:g575|G575]]
-[[en:lexicon:g3729|G3729]]
+  - [[en:lexicon:g575|G575]]
+  - [[en:lexicon:g3729|G3729]]

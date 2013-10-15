@@ -14,5 +14,5 @@ watch.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1|G1]]
-[[en:lexicon:g5258|G5258]]
+  - [[en:lexicon:g1|G1]]
+  - [[en:lexicon:g5258|G5258]]

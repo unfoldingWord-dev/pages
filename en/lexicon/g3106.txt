@@ -14,4 +14,4 @@ call blessed, count happy.
 
 ===== Strongs References =====
 
-[[en:lexicon:g3107|G3107]]
+  - [[en:lexicon:g3107|G3107]]

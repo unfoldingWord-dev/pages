@@ -14,5 +14,5 @@ continue.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1722|G1722]]
-[[en:lexicon:g3306|G3306]]
+  - [[en:lexicon:g1722|G1722]]
+  - [[en:lexicon:g3306|G3306]]

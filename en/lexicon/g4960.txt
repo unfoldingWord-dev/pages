@@ -14,5 +14,5 @@ answer to.
 
 ===== Strongs References =====
 
-[[en:lexicon:g4862|G4862]]
-[[en:lexicon:g4748|G4748]]
+  - [[en:lexicon:g4862|G4862]]
+  - [[en:lexicon:g4748|G4748]]

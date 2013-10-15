@@ -14,5 +14,5 @@ allow, assent, be pleased, have pleasure.
 
 ===== Strongs References =====
 
-[[en:lexicon:g4862|G4862]]
-[[en:lexicon:g2106|G2106]]
+  - [[en:lexicon:g4862|G4862]]
+  - [[en:lexicon:g2106|G2106]]

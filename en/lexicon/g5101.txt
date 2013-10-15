@@ -14,4 +14,4 @@ every man, how (much), + no(-ne, thing), what (manner, thing), where (-by, -fore
 
 ===== Strongs References =====
 
-[[en:lexicon:g5100|G5100]]
+  - [[en:lexicon:g5100|G5100]]

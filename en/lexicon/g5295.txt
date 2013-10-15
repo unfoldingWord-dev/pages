@@ -14,5 +14,5 @@ run under.
 
 ===== Strongs References =====
 
-[[en:lexicon:g5259|G5259]]
-[[en:lexicon:g5143|G5143]]
+  - [[en:lexicon:g5259|G5259]]
+  - [[en:lexicon:g5143|G5143]]

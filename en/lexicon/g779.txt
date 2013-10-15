@@ -14,4 +14,4 @@ bottle.
 
 ===== Strongs References =====
 
-[[en:lexicon:g778|G778]]
+  - [[en:lexicon:g778|G778]]

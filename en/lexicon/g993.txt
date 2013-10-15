@@ -14,5 +14,5 @@ Boanerges.
 
 ===== Strongs References =====
 
-[[en:lexicon:h01123|H01123]]
-[[en:lexicon:h07266|H07266]]
+  - [[en:lexicon:h01123|H01123]]
+  - [[en:lexicon:h07266|H07266]]

@@ -14,6 +14,6 @@ abide in the field.
 
 ===== Strongs References =====
 
-[[en:lexicon:g68|G68]]
-[[en:lexicon:g832|G832]]
-[[en:lexicon:g833|G833]]
+  - [[en:lexicon:g68|G68]]
+  - [[en:lexicon:g832|G832]]
+  - [[en:lexicon:g833|G833]]

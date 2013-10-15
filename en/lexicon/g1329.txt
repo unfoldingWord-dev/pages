@@ -14,5 +14,5 @@ expound, interpret(-ation).
 
 ===== Strongs References =====
 
-[[en:lexicon:g1223|G1223]]
-[[en:lexicon:g2059|G2059]]
+  - [[en:lexicon:g1223|G1223]]
+  - [[en:lexicon:g2059|G2059]]

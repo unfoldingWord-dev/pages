@@ -15,6 +15,6 @@ set on.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1909|G1909]]
-[[en:lexicon:g939|G939]]
-[[en:lexicon:g307|G307]]
+  - [[en:lexicon:g1909|G1909]]
+  - [[en:lexicon:g939|G939]]
+  - [[en:lexicon:g307|G307]]

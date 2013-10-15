@@ -14,5 +14,5 @@ always.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1538|G1538]]
-[[en:lexicon:g5119|G5119]]
+  - [[en:lexicon:g1538|G1538]]
+  - [[en:lexicon:g5119|G5119]]

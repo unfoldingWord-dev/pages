@@ -14,5 +14,5 @@ be made known.
 
 ===== Strongs References =====
 
-[[en:lexicon:g303|G303]]
-[[en:lexicon:g1107|G1107]]
+  - [[en:lexicon:g303|G303]]
+  - [[en:lexicon:g1107|G1107]]

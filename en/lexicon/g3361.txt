@@ -15,11 +15,11 @@ any but (that), X forbear, + God forbid, + lack, lest, neither, never, no (X wis
 
 ===== Strongs References =====
 
-[[en:lexicon:g3756|G3756]]
-[[en:lexicon:g3362|G3362]]
-[[en:lexicon:g3363|G3363]]
-[[en:lexicon:g3364|G3364]]
-[[en:lexicon:g3372|G3372]]
-[[en:lexicon:g3373|G3373]]
-[[en:lexicon:g3375|G3375]]
-[[en:lexicon:g3378|G3378]]
+  - [[en:lexicon:g3756|G3756]]
+  - [[en:lexicon:g3362|G3362]]
+  - [[en:lexicon:g3363|G3363]]
+  - [[en:lexicon:g3364|G3364]]
+  - [[en:lexicon:g3372|G3372]]
+  - [[en:lexicon:g3373|G3373]]
+  - [[en:lexicon:g3375|G3375]]
+  - [[en:lexicon:g3378|G3378]]

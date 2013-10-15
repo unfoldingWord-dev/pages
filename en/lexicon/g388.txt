@@ -14,5 +14,5 @@ crucify afresh.
 
 ===== Strongs References =====
 
-[[en:lexicon:g303|G303]]
-[[en:lexicon:g4717|G4717]]
+  - [[en:lexicon:g303|G303]]
+  - [[en:lexicon:g4717|G4717]]

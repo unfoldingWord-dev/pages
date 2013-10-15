@@ -14,5 +14,5 @@ tetrarch.
 
 ===== Strongs References =====
 
-[[en:lexicon:g5064|G5064]]
-[[en:lexicon:g757|G757]]
+  - [[en:lexicon:g5064|G5064]]
+  - [[en:lexicon:g757|G757]]

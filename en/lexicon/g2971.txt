@@ -14,5 +14,5 @@ gnat.
 
 ===== Strongs References =====
 
-[[en:lexicon:g2759|G2759]]
-[[en:lexicon:g3700|G3700]]
+  - [[en:lexicon:g2759|G2759]]
+  - [[en:lexicon:g3700|G3700]]

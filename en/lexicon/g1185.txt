@@ -14,4 +14,4 @@ allure, beguile, entice.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1388|G1388]]
+  - [[en:lexicon:g1388|G1388]]

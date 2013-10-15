@@ -14,5 +14,5 @@ unworthy.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1|G1]]
-[[en:lexicon:g514|G514]]
+  - [[en:lexicon:g1|G1]]
+  - [[en:lexicon:g514|G514]]

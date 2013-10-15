@@ -15,7 +15,7 @@ ask, demand, enquire, understand.
 
 ===== Strongs References =====
 
-[[en:lexicon:g2065|G2065]]
-[[en:lexicon:g154|G154]]
-[[en:lexicon:g2212|G2212]]
-[[en:lexicon:g1189|G1189]]
+  - [[en:lexicon:g2065|G2065]]
+  - [[en:lexicon:g154|G154]]
+  - [[en:lexicon:g2212|G2212]]
+  - [[en:lexicon:g1189|G1189]]

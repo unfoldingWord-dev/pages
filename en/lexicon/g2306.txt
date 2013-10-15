@@ -14,4 +14,4 @@ brimstone.
 
 ===== Strongs References =====
 
-[[en:lexicon:g2303|G2303]]
+  - [[en:lexicon:g2303|G2303]]

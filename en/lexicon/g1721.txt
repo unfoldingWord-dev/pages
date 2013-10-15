@@ -14,5 +14,5 @@ engrafted.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1722|G1722]]
-[[en:lexicon:g5453|G5453]]
+  - [[en:lexicon:g1722|G1722]]
+  - [[en:lexicon:g5453|G5453]]

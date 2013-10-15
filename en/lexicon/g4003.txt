@@ -14,6 +14,6 @@ fifteenth.
 
 ===== Strongs References =====
 
-[[en:lexicon:g4002|G4002]]
-[[en:lexicon:g2532|G2532]]
-[[en:lexicon:g1182|G1182]]
+  - [[en:lexicon:g4002|G4002]]
+  - [[en:lexicon:g2532|G2532]]
+  - [[en:lexicon:g1182|G1182]]

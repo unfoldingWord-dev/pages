@@ -14,4 +14,4 @@ foam.
 
 ===== Strongs References =====
 
-[[en:lexicon:g876|G876]]
+  - [[en:lexicon:g876|G876]]

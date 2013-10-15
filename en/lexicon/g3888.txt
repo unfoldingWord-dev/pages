@@ -14,5 +14,5 @@ comfort.
 
 ===== Strongs References =====
 
-[[en:lexicon:g3844|G3844]]
-[[en:lexicon:g3454|G3454]]
+  - [[en:lexicon:g3844|G3844]]
+  - [[en:lexicon:g3454|G3454]]

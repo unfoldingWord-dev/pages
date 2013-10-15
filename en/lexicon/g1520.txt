@@ -14,7 +14,7 @@ a(-n, -ny, certain), + abundantly, man, one (another), only, other, some.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1527|G1527]]
-[[en:lexicon:g3367|G3367]]
-[[en:lexicon:g3391|G3391]]
-[[en:lexicon:g3762|G3762]]
+  - [[en:lexicon:g1527|G1527]]
+  - [[en:lexicon:g3367|G3367]]
+  - [[en:lexicon:g3391|G3391]]
+  - [[en:lexicon:g3762|G3762]]

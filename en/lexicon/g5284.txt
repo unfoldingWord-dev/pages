@@ -14,5 +14,5 @@ sail under.
 
 ===== Strongs References =====
 
-[[en:lexicon:g5259|G5259]]
-[[en:lexicon:g4126|G4126]]
+  - [[en:lexicon:g5259|G5259]]
+  - [[en:lexicon:g4126|G4126]]

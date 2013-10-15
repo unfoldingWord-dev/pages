@@ -14,5 +14,5 @@ cry out.
 
 ===== Strongs References =====
 
-[[en:lexicon:g303|G303]]
-[[en:lexicon:g2896|G2896]]
+  - [[en:lexicon:g303|G303]]
+  - [[en:lexicon:g2896|G2896]]

@@ -15,5 +15,5 @@ fire, light.
 
 ===== Strongs References =====
 
-[[en:lexicon:g5316|G5316]]
-[[en:lexicon:g5346|G5346]]
+  - [[en:lexicon:g5316|G5316]]
+  - [[en:lexicon:g5346|G5346]]

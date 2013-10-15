@@ -14,5 +14,5 @@ live, preserve.
 
 ===== Strongs References =====
 
-[[en:lexicon:g2226|G2226]]
-[[en:lexicon:g1096|G1096]]
+  - [[en:lexicon:g2226|G2226]]
+  - [[en:lexicon:g1096|G1096]]

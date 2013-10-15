@@ -14,5 +14,5 @@ look.
 
 ===== Strongs References =====
 
-[[en:lexicon:g575|G575]]
-[[en:lexicon:g3708|G3708]]
+  - [[en:lexicon:g575|G575]]
+  - [[en:lexicon:g3708|G3708]]

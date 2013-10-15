@@ -14,5 +14,5 @@ gather a company.
 
 ===== Strongs References =====
 
-[[en:lexicon:g3793|G3793]]
-[[en:lexicon:g4160|G4160]]
+  - [[en:lexicon:g3793|G3793]]
+  - [[en:lexicon:g4160|G4160]]

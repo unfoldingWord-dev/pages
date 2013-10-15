@@ -14,5 +14,5 @@ of good report.
 
 ===== Strongs References =====
 
-[[en:lexicon:g2095|G2095]]
-[[en:lexicon:g5345|G5345]]
+  - [[en:lexicon:g2095|G2095]]
+  - [[en:lexicon:g5345|G5345]]

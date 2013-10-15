@@ -14,5 +14,5 @@ Levi.
 
 ===== Strongs References =====
 
-[[en:lexicon:g3018|G3018]]
-[[en:lexicon:h03878|H03878]]
+  - [[en:lexicon:g3018|G3018]]
+  - [[en:lexicon:h03878|H03878]]

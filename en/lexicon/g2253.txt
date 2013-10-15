@@ -14,5 +14,5 @@ half dead.
 
 ===== Strongs References =====
 
-[[en:lexicon:g2255|G2255]]
-[[en:lexicon:g2348|G2348]]
+  - [[en:lexicon:g2255|G2255]]
+  - [[en:lexicon:g2348|G2348]]

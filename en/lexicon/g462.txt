@@ -14,5 +14,5 @@ unholy.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1|G1]]
-[[en:lexicon:g3741|G3741]]
+  - [[en:lexicon:g1|G1]]
+  - [[en:lexicon:g3741|G3741]]

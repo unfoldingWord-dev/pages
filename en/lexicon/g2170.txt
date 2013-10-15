@@ -14,5 +14,5 @@ thankful.
 
 ===== Strongs References =====
 
-[[en:lexicon:g2095|G2095]]
-[[en:lexicon:g5483|G5483]]
+  - [[en:lexicon:g2095|G2095]]
+  - [[en:lexicon:g5483|G5483]]

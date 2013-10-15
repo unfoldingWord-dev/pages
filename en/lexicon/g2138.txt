@@ -14,5 +14,5 @@ easy to be intreated.
 
 ===== Strongs References =====
 
-[[en:lexicon:g2095|G2095]]
-[[en:lexicon:g3982|G3982]]
+  - [[en:lexicon:g2095|G2095]]
+  - [[en:lexicon:g3982|G3982]]

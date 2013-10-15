@@ -14,5 +14,5 @@ run (together, with).
 
 ===== Strongs References =====
 
-[[en:lexicon:g4862|G4862]]
-[[en:lexicon:g5143|G5143]]
+  - [[en:lexicon:g4862|G4862]]
+  - [[en:lexicon:g5143|G5143]]

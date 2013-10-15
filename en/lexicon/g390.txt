@@ -14,5 +14,5 @@ abide, behave self, have conversation, live, overthrow, pass, return, be used.
 
 ===== Strongs References =====
 
-[[en:lexicon:g303|G303]]
-[[en:lexicon:g4762|G4762]]
+  - [[en:lexicon:g303|G303]]
+  - [[en:lexicon:g4762|G4762]]

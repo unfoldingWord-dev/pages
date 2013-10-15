@@ -14,5 +14,5 @@ as long (soon) as, that, + till, when(-soever), while.
 
 ===== Strongs References =====
 
-[[en:lexicon:g3753|G3753]]
-[[en:lexicon:g302|G302]]
+  - [[en:lexicon:g3753|G3753]]
+  - [[en:lexicon:g302|G302]]

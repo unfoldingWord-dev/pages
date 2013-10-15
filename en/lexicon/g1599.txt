@@ -14,5 +14,5 @@ send away (forth).
 
 ===== Strongs References =====
 
-[[en:lexicon:g1537|G1537]]
-[[en:lexicon:g3992|G3992]]
+  - [[en:lexicon:g1537|G1537]]
+  - [[en:lexicon:g3992|G3992]]

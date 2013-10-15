@@ -14,5 +14,5 @@ assembly, church.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1537|G1537]]
-[[en:lexicon:g2564|G2564]]
+  - [[en:lexicon:g1537|G1537]]
+  - [[en:lexicon:g2564|G2564]]

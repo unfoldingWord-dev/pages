@@ -14,5 +14,5 @@ sit up.
 
 ===== Strongs References =====
 
-[[en:lexicon:g303|G303]]
-[[en:lexicon:g2523|G2523]]
+  - [[en:lexicon:g303|G303]]
+  - [[en:lexicon:g2523|G2523]]

@@ -14,5 +14,5 @@ open.
 
 ===== Strongs References =====
 
-[[en:lexicon:g303|G303]]
-[[en:lexicon:g4428|G4428]]
+  - [[en:lexicon:g303|G303]]
+  - [[en:lexicon:g4428|G4428]]

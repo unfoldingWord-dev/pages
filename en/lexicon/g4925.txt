@@ -14,5 +14,5 @@ build together.
 
 ===== Strongs References =====
 
-[[en:lexicon:g4862|G4862]]
-[[en:lexicon:g3618|G3618]]
+  - [[en:lexicon:g4862|G4862]]
+  - [[en:lexicon:g3618|G3618]]

@@ -14,5 +14,5 @@ spring up.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1537|G1537]]
-[[en:lexicon:g393|G393]]
+  - [[en:lexicon:g1537|G1537]]
+  - [[en:lexicon:g393|G393]]

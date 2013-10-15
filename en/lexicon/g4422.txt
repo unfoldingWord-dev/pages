@@ -15,5 +15,5 @@ frighten.
 
 ===== Strongs References =====
 
-[[en:lexicon:g4098|G4098]]
-[[en:lexicon:g4072|G4072]]
+  - [[en:lexicon:g4098|G4098]]
+  - [[en:lexicon:g4072|G4072]]

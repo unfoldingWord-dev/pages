@@ -15,5 +15,5 @@ without distraction.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1|G1]]
-[[en:lexicon:g4049|G4049]]
+  - [[en:lexicon:g1|G1]]
+  - [[en:lexicon:g4049|G4049]]

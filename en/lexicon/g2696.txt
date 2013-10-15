@@ -14,5 +14,5 @@ seal.
 
 ===== Strongs References =====
 
-[[en:lexicon:g2596|G2596]]
-[[en:lexicon:g4972|G4972]]
+  - [[en:lexicon:g2596|G2596]]
+  - [[en:lexicon:g4972|G4972]]

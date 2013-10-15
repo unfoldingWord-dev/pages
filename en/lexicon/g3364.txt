@@ -14,6 +14,6 @@ any more, at all, by any (no) means, neither, never, no (at all), in no case (wi
 
 ===== Strongs References =====
 
-[[en:lexicon:g3361|G3361]]
-[[en:lexicon:g3378|G3378]]
-[[en:lexicon:g3756|G3756]]
+  - [[en:lexicon:g3361|G3361]]
+  - [[en:lexicon:g3378|G3378]]
+  - [[en:lexicon:g3756|G3756]]

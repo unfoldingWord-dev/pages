@@ -14,5 +14,5 @@ bind on, (be) shod.
 
 ===== Strongs References =====
 
-[[en:lexicon:g5259|G5259]]
-[[en:lexicon:g1210|G1210]]
+  - [[en:lexicon:g5259|G5259]]
+  - [[en:lexicon:g1210|G1210]]

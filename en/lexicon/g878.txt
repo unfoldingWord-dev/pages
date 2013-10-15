@@ -14,5 +14,5 @@ fool(-ish), unwise.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1|G1]]
-[[en:lexicon:g5424|G5424]]
+  - [[en:lexicon:g1|G1]]
+  - [[en:lexicon:g5424|G5424]]

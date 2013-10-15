@@ -14,4 +14,4 @@ delay.
 
 ===== Strongs References =====
 
-[[en:lexicon:g306|G306]]
+  - [[en:lexicon:g306|G306]]

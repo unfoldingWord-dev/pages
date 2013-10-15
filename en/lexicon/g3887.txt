@@ -14,7 +14,7 @@ abide, continue.
 
 ===== Strongs References =====
 
-[[en:lexicon:g3844|G3844]]
-[[en:lexicon:g3306|G3306]]
-[[en:lexicon:g3306|G3306]]
-[[en:lexicon:g3844|G3844]]
+  - [[en:lexicon:g3844|G3844]]
+  - [[en:lexicon:g3306|G3306]]
+  - [[en:lexicon:g3306|G3306]]
+  - [[en:lexicon:g3844|G3844]]

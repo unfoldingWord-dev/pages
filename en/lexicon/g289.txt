@@ -14,5 +14,5 @@ vine-dresser.
 
 ===== Strongs References =====
 
-[[en:lexicon:g288|G288]]
-[[en:lexicon:g2041|G2041]]
+  - [[en:lexicon:g288|G288]]
+  - [[en:lexicon:g2041|G2041]]

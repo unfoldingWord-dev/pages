@@ -14,6 +14,6 @@ foretell, say (speak, tell) before.
 
 ===== Strongs References =====
 
-[[en:lexicon:g4253|G4253]]
-[[en:lexicon:g2046|G2046]]
-[[en:lexicon:g4277|G4277]]
+  - [[en:lexicon:g4253|G4253]]
+  - [[en:lexicon:g2046|G2046]]
+  - [[en:lexicon:g4277|G4277]]

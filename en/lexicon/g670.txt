@@ -14,5 +14,5 @@ unlade.
 
 ===== Strongs References =====
 
-[[en:lexicon:g575|G575]]
-[[en:lexicon:g5412|G5412]]
+  - [[en:lexicon:g575|G575]]
+  - [[en:lexicon:g5412|G5412]]

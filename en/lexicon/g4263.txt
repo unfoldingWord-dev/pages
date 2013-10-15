@@ -14,4 +14,4 @@ sheep(-fold).
 
 ===== Strongs References =====
 
-[[en:lexicon:g4260|G4260]]
+  - [[en:lexicon:g4260|G4260]]

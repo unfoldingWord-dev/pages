@@ -14,5 +14,5 @@ look out, visit.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1909|G1909]]
-[[en:lexicon:g4649|G4649]]
+  - [[en:lexicon:g1909|G1909]]
+  - [[en:lexicon:g4649|G4649]]

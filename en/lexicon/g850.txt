@@ -15,4 +15,4 @@ dark.
 
 ===== Strongs References =====
 
-[[en:lexicon:g109|G109]]
+  - [[en:lexicon:g109|G109]]

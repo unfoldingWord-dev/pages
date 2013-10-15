@@ -14,5 +14,5 @@ make intercession for.
 
 ===== Strongs References =====
 
-[[en:lexicon:g5228|G5228]]
-[[en:lexicon:g1793|G1793]]
+  - [[en:lexicon:g5228|G5228]]
+  - [[en:lexicon:g1793|G1793]]

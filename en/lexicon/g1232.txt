@@ -14,5 +14,5 @@ make known.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1123|G1123]]
-[[en:lexicon:g1107|G1107]]
+  - [[en:lexicon:g1123|G1123]]
+  - [[en:lexicon:g1107|G1107]]

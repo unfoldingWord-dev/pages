@@ -14,5 +14,5 @@ Annas.
 
 ===== Strongs References =====
 
-[[en:lexicon:g367|G367]]
-[[en:lexicon:h02608|H02608]]
+  - [[en:lexicon:g367|G367]]
+  - [[en:lexicon:h02608|H02608]]

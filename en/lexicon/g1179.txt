@@ -14,5 +14,5 @@ Decapolis.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1176|G1176]]
-[[en:lexicon:g4172|G4172]]
+  - [[en:lexicon:g1176|G1176]]
+  - [[en:lexicon:g4172|G4172]]

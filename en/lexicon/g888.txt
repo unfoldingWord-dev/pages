@@ -15,6 +15,6 @@ unprofitable.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1|G1]]
-[[en:lexicon:g5534|G5534]]
-[[en:lexicon:g5532|G5532]]
+  - [[en:lexicon:g1|G1]]
+  - [[en:lexicon:g5534|G5534]]
+  - [[en:lexicon:g5532|G5532]]

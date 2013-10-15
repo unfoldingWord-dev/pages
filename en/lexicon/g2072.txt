@@ -14,6 +14,6 @@ glass.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1519|G1519]]
-[[en:lexicon:g3700|G3700]]
-[[en:lexicon:g2734|G2734]]
+  - [[en:lexicon:g1519|G1519]]
+  - [[en:lexicon:g3700|G3700]]
+  - [[en:lexicon:g2734|G2734]]

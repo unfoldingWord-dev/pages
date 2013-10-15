@@ -14,6 +14,6 @@ lay wait.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1722|G1722]]
-[[en:lexicon:g1476|G1476]]
-[[en:lexicon:g1749|G1749]]
+  - [[en:lexicon:g1722|G1722]]
+  - [[en:lexicon:g1476|G1476]]
+  - [[en:lexicon:g1749|G1749]]

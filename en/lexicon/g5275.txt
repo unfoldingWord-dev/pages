@@ -14,5 +14,5 @@ be left.
 
 ===== Strongs References =====
 
-[[en:lexicon:g5295|G5295]]
-[[en:lexicon:g3007|G3007]]
+  - [[en:lexicon:g5295|G5295]]
+  - [[en:lexicon:g3007|G3007]]

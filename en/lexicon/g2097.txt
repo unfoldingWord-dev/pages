@@ -14,5 +14,5 @@ declare, bring (declare, show) glad (good) tidings, preach (the gospel).
 
 ===== Strongs References =====
 
-[[en:lexicon:g2095|G2095]]
-[[en:lexicon:g32|G32]]
+  - [[en:lexicon:g2095|G2095]]
+  - [[en:lexicon:g32|G32]]

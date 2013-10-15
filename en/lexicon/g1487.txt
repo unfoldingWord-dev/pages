@@ -14,13 +14,13 @@ forasmuch as, if, that, (al-)though, whether.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1489|G1489]]
-[[en:lexicon:g1490|G1490]]
-[[en:lexicon:g1499|G1499]]
-[[en:lexicon:g1508|G1508]]
-[[en:lexicon:g1509|G1509]]
-[[en:lexicon:g1512|G1512]]
-[[en:lexicon:g1513|G1513]]
-[[en:lexicon:g1536|G1536]]
-[[en:lexicon:g1537|G1537]]
-[[en:lexicon:g1437|G1437]]
+  - [[en:lexicon:g1489|G1489]]
+  - [[en:lexicon:g1490|G1490]]
+  - [[en:lexicon:g1499|G1499]]
+  - [[en:lexicon:g1508|G1508]]
+  - [[en:lexicon:g1509|G1509]]
+  - [[en:lexicon:g1512|G1512]]
+  - [[en:lexicon:g1513|G1513]]
+  - [[en:lexicon:g1536|G1536]]
+  - [[en:lexicon:g1537|G1537]]
+  - [[en:lexicon:g1437|G1437]]

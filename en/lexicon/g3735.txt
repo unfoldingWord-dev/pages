@@ -15,5 +15,5 @@ hill, mount(-ain).
 
 ===== Strongs References =====
 
-[[en:lexicon:g142|G142]]
-[[en:lexicon:g3733|G3733]]
+  - [[en:lexicon:g142|G142]]
+  - [[en:lexicon:g3733|G3733]]

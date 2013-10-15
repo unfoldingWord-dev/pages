@@ -14,5 +14,5 @@ impute, put on account.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1722|G1722]]
-[[en:lexicon:g3056|G3056]]
+  - [[en:lexicon:g1722|G1722]]
+  - [[en:lexicon:g3056|G3056]]

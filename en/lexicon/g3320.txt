@@ -14,5 +14,5 @@ middle wall.
 
 ===== Strongs References =====
 
-[[en:lexicon:g3319|G3319]]
-[[en:lexicon:g5109|G5109]]
+  - [[en:lexicon:g3319|G3319]]
+  - [[en:lexicon:g5109|G5109]]

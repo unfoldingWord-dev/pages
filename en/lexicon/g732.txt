@@ -14,5 +14,5 @@ sick (folk, -ly).
 
 ===== Strongs References =====
 
-[[en:lexicon:g1|G1]]
-[[en:lexicon:g4517|G4517]]
+  - [[en:lexicon:g1|G1]]
+  - [[en:lexicon:g4517|G4517]]

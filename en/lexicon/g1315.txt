@@ -14,5 +14,5 @@ kill, slay.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1223|G1223]]
-[[en:lexicon:g5495|G5495]]
+  - [[en:lexicon:g1223|G1223]]
+  - [[en:lexicon:g5495|G5495]]

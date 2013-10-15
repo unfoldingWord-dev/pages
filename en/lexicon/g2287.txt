@@ -14,5 +14,5 @@ deadly.
 
 ===== Strongs References =====
 
-[[en:lexicon:g2288|G2288]]
-[[en:lexicon:g5342|G5342]]
+  - [[en:lexicon:g2288|G2288]]
+  - [[en:lexicon:g5342|G5342]]

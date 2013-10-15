@@ -14,5 +14,5 @@ sound forth.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1537|G1537]]
-[[en:lexicon:g2278|G2278]]
+  - [[en:lexicon:g1537|G1537]]
+  - [[en:lexicon:g2278|G2278]]

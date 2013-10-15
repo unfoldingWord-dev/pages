@@ -14,5 +14,5 @@ wholly.
 
 ===== Strongs References =====
 
-[[en:lexicon:g3650|G3650]]
-[[en:lexicon:g5056|G5056]]
+  - [[en:lexicon:g3650|G3650]]
+  - [[en:lexicon:g5056|G5056]]

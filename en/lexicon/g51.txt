@@ -14,4 +14,4 @@ error.
 
 ===== Strongs References =====
 
-[[en:lexicon:g50|G50]]
+  - [[en:lexicon:g50|G50]]

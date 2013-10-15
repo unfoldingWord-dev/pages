@@ -14,5 +14,5 @@ count by descent.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1074|G1074]]
-[[en:lexicon:g3056|G3056]]
+  - [[en:lexicon:g1074|G1074]]
+  - [[en:lexicon:g3056|G3056]]

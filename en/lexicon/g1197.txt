@@ -14,4 +14,4 @@ bundle.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1196|G1196]]
+  - [[en:lexicon:g1196|G1196]]

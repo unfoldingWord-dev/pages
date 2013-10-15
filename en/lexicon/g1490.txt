@@ -14,7 +14,7 @@ but if not
 
 ===== Strongs References =====
 
-[[en:lexicon:g1487|G1487]]
-[[en:lexicon:g1161|G1161]]
-[[en:lexicon:g3361|G3361]]
-[[en:lexicon:g1065|G1065]]
+  - [[en:lexicon:g1487|G1487]]
+  - [[en:lexicon:g1161|G1161]]
+  - [[en:lexicon:g3361|G3361]]
+  - [[en:lexicon:g1065|G1065]]

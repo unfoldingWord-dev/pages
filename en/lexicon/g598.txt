@@ -14,5 +14,5 @@ press.
 
 ===== Strongs References =====
 
-[[en:lexicon:g575|G575]]
-[[en:lexicon:g2346|G2346]]
+  - [[en:lexicon:g575|G575]]
+  - [[en:lexicon:g2346|G2346]]

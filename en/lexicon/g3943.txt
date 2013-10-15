@@ -14,5 +14,5 @@ given to wine.
 
 ===== Strongs References =====
 
-[[en:lexicon:g3844|G3844]]
-[[en:lexicon:g3631|G3631]]
+  - [[en:lexicon:g3844|G3844]]
+  - [[en:lexicon:g3631|G3631]]

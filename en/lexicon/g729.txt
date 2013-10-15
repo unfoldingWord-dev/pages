@@ -15,5 +15,5 @@ without seam.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1|G1]]
-[[en:lexicon:g4476|G4476]]
+  - [[en:lexicon:g1|G1]]
+  - [[en:lexicon:g4476|G4476]]

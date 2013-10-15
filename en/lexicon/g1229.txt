@@ -14,5 +14,5 @@ declare, preach, signify.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1223|G1223]]
-[[en:lexicon:g32|G32]]
+  - [[en:lexicon:g1223|G1223]]
+  - [[en:lexicon:g32|G32]]

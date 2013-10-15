@@ -14,5 +14,5 @@ Antipas.
 
 ===== Strongs References =====
 
-[[en:lexicon:g473|G473]]
-[[en:lexicon:g3962|G3962]]
+  - [[en:lexicon:g473|G473]]
+  - [[en:lexicon:g3962|G3962]]

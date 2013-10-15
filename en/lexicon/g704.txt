@@ -14,4 +14,4 @@ lamb.
 
 ===== Strongs References =====
 
-[[en:lexicon:g730|G730]]
+  - [[en:lexicon:g730|G730]]

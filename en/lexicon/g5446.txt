@@ -14,5 +14,5 @@ natural.
 
 ===== Strongs References =====
 
-[[en:lexicon:g5449|G5449]]
-[[en:lexicon:g5591|G5591]]
+  - [[en:lexicon:g5449|G5449]]
+  - [[en:lexicon:g5591|G5591]]

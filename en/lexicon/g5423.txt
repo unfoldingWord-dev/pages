@@ -14,5 +14,5 @@ deceiver.
 
 ===== Strongs References =====
 
-[[en:lexicon:g5424|G5424]]
-[[en:lexicon:g539|G539]]
+  - [[en:lexicon:g5424|G5424]]
+  - [[en:lexicon:g539|G539]]

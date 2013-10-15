@@ -14,5 +14,5 @@ idolater.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1497|G1497]]
-[[en:lexicon:g3000|G3000]]
+  - [[en:lexicon:g1497|G1497]]
+  - [[en:lexicon:g3000|G3000]]

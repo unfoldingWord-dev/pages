@@ -14,5 +14,5 @@ than.
 
 ===== Strongs References =====
 
-[[en:lexicon:g2228|G2228]]
-[[en:lexicon:g4007|G4007]]
+  - [[en:lexicon:g2228|G2228]]
+  - [[en:lexicon:g4007|G4007]]

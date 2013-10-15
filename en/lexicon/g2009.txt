@@ -14,6 +14,6 @@ punishment.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1909|G1909]]
-[[en:lexicon:g5092|G5092]]
-[[en:lexicon:g2008|G2008]]
+  - [[en:lexicon:g1909|G1909]]
+  - [[en:lexicon:g5092|G5092]]
+  - [[en:lexicon:g2008|G2008]]

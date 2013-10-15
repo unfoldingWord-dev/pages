@@ -14,5 +14,5 @@ that is (to say).
 
 ===== Strongs References =====
 
-[[en:lexicon:g2076|G2076]]
-[[en:lexicon:g5124|G5124]]
+  - [[en:lexicon:g2076|G2076]]
+  - [[en:lexicon:g5124|G5124]]

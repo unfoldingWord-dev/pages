@@ -14,5 +14,5 @@ and, at least.
 
 ===== Strongs References =====
 
-[[en:lexicon:g2532|G2532]]
-[[en:lexicon:g1065|G1065]]
+  - [[en:lexicon:g2532|G2532]]
+  - [[en:lexicon:g1065|G1065]]

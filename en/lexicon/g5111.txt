@@ -15,5 +15,5 @@ be bold, boldly, dare, durst.
 
 ===== Strongs References =====
 
-[[en:lexicon:g5056|G5056]]
-[[en:lexicon:g2292|G2292]]
+  - [[en:lexicon:g5056|G5056]]
+  - [[en:lexicon:g2292|G2292]]

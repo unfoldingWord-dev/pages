@@ -14,4 +14,4 @@ Abaddon.
 
 ===== Strongs References =====
 
-[[en:lexicon:h011|H011]]
+  - [[en:lexicon:h011|H011]]

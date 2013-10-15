@@ -17,5 +17,5 @@ accept, + be amazed, assay, attain, bring, X when I call, catch, come on (X unto
 
 ===== Strongs References =====
 
-[[en:lexicon:g1209|G1209]]
-[[en:lexicon:g138|G138]]
+  - [[en:lexicon:g1209|G1209]]
+  - [[en:lexicon:g138|G138]]

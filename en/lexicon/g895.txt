@@ -14,5 +14,5 @@ without life.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1|G1]]
-[[en:lexicon:g5590|G5590]]
+  - [[en:lexicon:g1|G1]]
+  - [[en:lexicon:g5590|G5590]]

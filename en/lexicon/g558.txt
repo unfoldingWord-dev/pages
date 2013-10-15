@@ -14,5 +14,5 @@ freeman.
 
 ===== Strongs References =====
 
-[[en:lexicon:g575|G575]]
-[[en:lexicon:g1658|G1658]]
+  - [[en:lexicon:g575|G575]]
+  - [[en:lexicon:g1658|G1658]]

@@ -14,5 +14,5 @@ arm.
 
 ===== Strongs References =====
 
-[[en:lexicon:g2596|G2596]]
-[[en:lexicon:g3695|G3695]]
+  - [[en:lexicon:g2596|G2596]]
+  - [[en:lexicon:g3695|G3695]]

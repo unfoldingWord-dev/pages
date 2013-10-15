@@ -15,5 +15,5 @@ very well.
 
 ===== Strongs References =====
 
-[[en:lexicon:g906|G906]]
-[[en:lexicon:g18|G18]]
+  - [[en:lexicon:g906|G906]]
+  - [[en:lexicon:g18|G18]]

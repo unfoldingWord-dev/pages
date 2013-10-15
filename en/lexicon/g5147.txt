@@ -15,5 +15,5 @@ path.
 
 ===== Strongs References =====
 
-[[en:lexicon:g5131|G5131]]
-[[en:lexicon:g5134|G5134]]
+  - [[en:lexicon:g5131|G5131]]
+  - [[en:lexicon:g5134|G5134]]

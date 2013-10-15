@@ -14,5 +14,5 @@ one by one.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1520|G1520]]
-[[en:lexicon:g2596|G2596]]
+  - [[en:lexicon:g1520|G1520]]
+  - [[en:lexicon:g2596|G2596]]

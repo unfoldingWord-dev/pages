@@ -14,5 +14,5 @@ build again.
 
 ===== Strongs References =====
 
-[[en:lexicon:g303|G303]]
-[[en:lexicon:g3618|G3618]]
+  - [[en:lexicon:g303|G303]]
+  - [[en:lexicon:g3618|G3618]]

@@ -14,5 +14,5 @@ Bartholomeus.
 
 ===== Strongs References =====
 
-[[en:lexicon:h01247|H01247]]
-[[en:lexicon:h08526|H08526]]
+  - [[en:lexicon:h01247|H01247]]
+  - [[en:lexicon:h08526|H08526]]

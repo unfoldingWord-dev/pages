@@ -14,4 +14,4 @@ rest.
 
 ===== Strongs References =====
 
-[[en:lexicon:g373|G373]]
+  - [[en:lexicon:g373|G373]]

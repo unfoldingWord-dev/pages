@@ -14,5 +14,5 @@ stiffnecked.
 
 ===== Strongs References =====
 
-[[en:lexicon:g4642|G4642]]
-[[en:lexicon:g5137|G5137]]
+  - [[en:lexicon:g4642|G4642]]
+  - [[en:lexicon:g5137|G5137]]

@@ -15,10 +15,10 @@ I, me.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1691|G1691]]
-[[en:lexicon:g1698|G1698]]
-[[en:lexicon:g1700|G1700]]
-[[en:lexicon:g2248|G2248]]
-[[en:lexicon:g2249|G2249]]
-[[en:lexicon:g2254|G2254]]
-[[en:lexicon:g2257|G2257]]
+  - [[en:lexicon:g1691|G1691]]
+  - [[en:lexicon:g1698|G1698]]
+  - [[en:lexicon:g1700|G1700]]
+  - [[en:lexicon:g2248|G2248]]
+  - [[en:lexicon:g2249|G2249]]
+  - [[en:lexicon:g2254|G2254]]
+  - [[en:lexicon:g2257|G2257]]

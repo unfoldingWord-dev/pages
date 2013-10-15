@@ -14,5 +14,5 @@ make insurrection with.
 
 ===== Strongs References =====
 
-[[en:lexicon:g4862|G4862]]
-[[en:lexicon:g4714|G4714]]
+  - [[en:lexicon:g4862|G4862]]
+  - [[en:lexicon:g4714|G4714]]

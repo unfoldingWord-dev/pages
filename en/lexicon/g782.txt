@@ -14,5 +14,5 @@ embrace, greet, salute, take leave.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1|G1]]
-[[en:lexicon:g4685|G4685]]
+  - [[en:lexicon:g1|G1]]
+  - [[en:lexicon:g4685|G4685]]

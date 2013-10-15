@@ -14,5 +14,5 @@ agree not.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1|G1]]
-[[en:lexicon:g4859|G4859]]
+  - [[en:lexicon:g1|G1]]
+  - [[en:lexicon:g4859|G4859]]

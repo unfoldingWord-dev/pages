@@ -14,5 +14,5 @@ Bethabara.
 
 ===== Strongs References =====
 
-[[en:lexicon:h01004|H01004]]
-[[en:lexicon:h05679|H05679]]
+  - [[en:lexicon:h01004|H01004]]
+  - [[en:lexicon:h05679|H05679]]

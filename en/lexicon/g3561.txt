@@ -15,6 +15,6 @@ new moon.
 
 ===== Strongs References =====
 
-[[en:lexicon:g3501|G3501]]
-[[en:lexicon:g3376|G3376]]
-[[en:lexicon:g2250|G2250]]
+  - [[en:lexicon:g3501|G3501]]
+  - [[en:lexicon:g3376|G3376]]
+  - [[en:lexicon:g2250|G2250]]

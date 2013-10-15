@@ -14,5 +14,5 @@ his.
 
 ===== Strongs References =====
 
-[[en:lexicon:g3588|G3588]]
-[[en:lexicon:g5127|G5127]]
+  - [[en:lexicon:g3588|G3588]]
+  - [[en:lexicon:g5127|G5127]]

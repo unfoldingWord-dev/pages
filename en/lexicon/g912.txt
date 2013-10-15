@@ -14,5 +14,5 @@ Barabbas.
 
 ===== Strongs References =====
 
-[[en:lexicon:h01347|H01347]]
-[[en:lexicon:h05|H05]]
+  - [[en:lexicon:h01347|H01347]]
+  - [[en:lexicon:h05|H05]]

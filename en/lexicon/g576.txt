@@ -14,5 +14,5 @@ become, go out, turn.
 
 ===== Strongs References =====
 
-[[en:lexicon:g575|G575]]
-[[en:lexicon:g939|G939]]
+  - [[en:lexicon:g575|G575]]
+  - [[en:lexicon:g939|G939]]

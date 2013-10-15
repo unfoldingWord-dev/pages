@@ -14,8 +14,8 @@ beat, smite, strike, wound.
 
 ===== Strongs References =====
 
-[[en:lexicon:g3817|G3817]]
-[[en:lexicon:g3960|G3960]]
-[[en:lexicon:g4141|G4141]]
-[[en:lexicon:g4474|G4474]]
-[[en:lexicon:g5177|G5177]]
+  - [[en:lexicon:g3817|G3817]]
+  - [[en:lexicon:g3960|G3960]]
+  - [[en:lexicon:g4141|G4141]]
+  - [[en:lexicon:g4474|G4474]]
+  - [[en:lexicon:g5177|G5177]]

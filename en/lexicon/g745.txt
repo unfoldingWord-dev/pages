@@ -14,5 +14,5 @@ Archelaus.
 
 ===== Strongs References =====
 
-[[en:lexicon:g757|G757]]
-[[en:lexicon:g2994|G2994]]
+  - [[en:lexicon:g757|G757]]
+  - [[en:lexicon:g2994|G2994]]

@@ -14,7 +14,7 @@ bad, evil, grievous, harm, lewd, malicious, wicked(-ness).
 
 ===== Strongs References =====
 
-[[en:lexicon:g4192|G4192]]
-[[en:lexicon:g2556|G2556]]
-[[en:lexicon:g4550|G4550]]
-[[en:lexicon:g4191|G4191]]
+  - [[en:lexicon:g4192|G4192]]
+  - [[en:lexicon:g2556|G2556]]
+  - [[en:lexicon:g4550|G4550]]
+  - [[en:lexicon:g4191|G4191]]

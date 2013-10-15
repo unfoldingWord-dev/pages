@@ -14,5 +14,5 @@ cloven, divide, part.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1223|G1223]]
-[[en:lexicon:g3307|G3307]]
+  - [[en:lexicon:g1223|G1223]]
+  - [[en:lexicon:g3307|G3307]]

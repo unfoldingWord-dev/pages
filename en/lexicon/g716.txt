@@ -14,6 +14,6 @@ chariot.
 
 ===== Strongs References =====
 
-[[en:lexicon:g142|G142]]
-[[en:lexicon:g1|G1]]
-[[en:lexicon:g719|G719]]
+  - [[en:lexicon:g142|G142]]
+  - [[en:lexicon:g1|G1]]
+  - [[en:lexicon:g719|G719]]

@@ -15,5 +15,5 @@ it is better.
 
 ===== Strongs References =====
 
-[[en:lexicon:g3080|G3080]]
-[[en:lexicon:g5056|G5056]]
+  - [[en:lexicon:g3080|G3080]]
+  - [[en:lexicon:g5056|G5056]]

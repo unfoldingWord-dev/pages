@@ -14,5 +14,5 @@ foursquare.
 
 ===== Strongs References =====
 
-[[en:lexicon:g5064|G5064]]
-[[en:lexicon:g1137|G1137]]
+  - [[en:lexicon:g5064|G5064]]
+  - [[en:lexicon:g1137|G1137]]

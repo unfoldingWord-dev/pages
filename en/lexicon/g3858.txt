@@ -14,5 +14,5 @@ receive.
 
 ===== Strongs References =====
 
-[[en:lexicon:g3844|G3844]]
-[[en:lexicon:g1209|G1209]]
+  - [[en:lexicon:g3844|G3844]]
+  - [[en:lexicon:g1209|G1209]]

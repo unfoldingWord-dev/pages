@@ -14,5 +14,5 @@ sail slowly.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1021|G1021]]
-[[en:lexicon:g4126|G4126]]
+  - [[en:lexicon:g1021|G1021]]
+  - [[en:lexicon:g4126|G4126]]

@@ -14,5 +14,5 @@ refresh.
 
 ===== Strongs References =====
 
-[[en:lexicon:g303|G303]]
-[[en:lexicon:g5594|G5594]]
+  - [[en:lexicon:g303|G303]]
+  - [[en:lexicon:g5594|G5594]]

@@ -14,5 +14,5 @@ dedication.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1722|G1722]]
-[[en:lexicon:g2537|G2537]]
+  - [[en:lexicon:g1722|G1722]]
+  - [[en:lexicon:g2537|G2537]]

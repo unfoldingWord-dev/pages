@@ -14,4 +14,4 @@ admonish, warn.
 
 ===== Strongs References =====
 
-[[en:lexicon:g3559|G3559]]
+  - [[en:lexicon:g3559|G3559]]

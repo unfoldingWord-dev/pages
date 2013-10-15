@@ -14,5 +14,5 @@ run over.
 
 ===== Strongs References =====
 
-[[en:lexicon:g5228|G5228]]
-[[en:lexicon:g1632|G1632]]
+  - [[en:lexicon:g5228|G5228]]
+  - [[en:lexicon:g1632|G1632]]

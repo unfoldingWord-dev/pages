@@ -14,5 +14,5 @@ four thousand.
 
 ===== Strongs References =====
 
-[[en:lexicon:g5064|G5064]]
-[[en:lexicon:g5507|G5507]]
+  - [[en:lexicon:g5064|G5064]]
+  - [[en:lexicon:g5507|G5507]]

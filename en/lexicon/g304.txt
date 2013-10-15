@@ -14,5 +14,5 @@ stairs.
 
 ===== Strongs References =====
 
-[[en:lexicon:g305|G305]]
-[[en:lexicon:g898|G898]]
+  - [[en:lexicon:g305|G305]]
+  - [[en:lexicon:g898|G898]]

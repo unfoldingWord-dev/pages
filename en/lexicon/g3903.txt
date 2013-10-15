@@ -14,5 +14,5 @@ prepare self, be (make) ready.
 
 ===== Strongs References =====
 
-[[en:lexicon:g3844|G3844]]
-[[en:lexicon:g4632|G4632]]
+  - [[en:lexicon:g3844|G3844]]
+  - [[en:lexicon:g4632|G4632]]

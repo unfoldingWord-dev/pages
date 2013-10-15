@@ -14,5 +14,5 @@ nought.
 
 ===== Strongs References =====
 
-[[en:lexicon:g575|G575]]
-[[en:lexicon:g1651|G1651]]
+  - [[en:lexicon:g575|G575]]
+  - [[en:lexicon:g1651|G1651]]

@@ -15,5 +15,5 @@ rob.
 
 ===== Strongs References =====
 
-[[en:lexicon:g138|G138]]
-[[en:lexicon:g4661|G4661]]
+  - [[en:lexicon:g138|G138]]
+  - [[en:lexicon:g4661|G4661]]

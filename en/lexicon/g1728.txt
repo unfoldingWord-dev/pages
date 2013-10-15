@@ -14,6 +14,6 @@ rule (by mistake for
 
 ===== Strongs References =====
 
-[[en:lexicon:g1722|G1722]]
-[[en:lexicon:g756|G756]]
-[[en:lexicon:g757|G757]]
+  - [[en:lexicon:g1722|G1722]]
+  - [[en:lexicon:g756|G756]]
+  - [[en:lexicon:g757|G757]]

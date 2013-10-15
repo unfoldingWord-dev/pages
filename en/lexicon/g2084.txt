@@ -14,5 +14,5 @@ man of other tongue.
 
 ===== Strongs References =====
 
-[[en:lexicon:g2087|G2087]]
-[[en:lexicon:g1100|G1100]]
+  - [[en:lexicon:g2087|G2087]]
+  - [[en:lexicon:g1100|G1100]]

@@ -14,5 +14,5 @@ disannul, make of none effect.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1|G1]]
-[[en:lexicon:g2964|G2964]]
+  - [[en:lexicon:g1|G1]]
+  - [[en:lexicon:g2964|G2964]]

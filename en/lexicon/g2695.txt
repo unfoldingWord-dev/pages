@@ -14,5 +14,5 @@ slay.
 
 ===== Strongs References =====
 
-[[en:lexicon:g2596|G2596]]
-[[en:lexicon:g4969|G4969]]
+  - [[en:lexicon:g2596|G2596]]
+  - [[en:lexicon:g4969|G4969]]

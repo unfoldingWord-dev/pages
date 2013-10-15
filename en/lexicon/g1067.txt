@@ -14,5 +14,5 @@ hell.
 
 ===== Strongs References =====
 
-[[en:lexicon:h01516|H01516]]
-[[en:lexicon:h02011|H02011]]
+  - [[en:lexicon:h01516|H01516]]
+  - [[en:lexicon:h02011|H02011]]

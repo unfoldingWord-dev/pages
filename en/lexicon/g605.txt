@@ -14,4 +14,4 @@ restitution.
 
 ===== Strongs References =====
 
-[[en:lexicon:g600|G600]]
+  - [[en:lexicon:g600|G600]]

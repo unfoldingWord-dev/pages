@@ -14,5 +14,5 @@ that is not manifest.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1|G1]]
-[[en:lexicon:g5316|G5316]]
+  - [[en:lexicon:g1|G1]]
+  - [[en:lexicon:g5316|G5316]]

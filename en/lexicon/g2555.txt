@@ -14,5 +14,5 @@ evil-doer, malefactor.
 
 ===== Strongs References =====
 
-[[en:lexicon:g2556|G2556]]
-[[en:lexicon:g4160|G4160]]
+  - [[en:lexicon:g2556|G2556]]
+  - [[en:lexicon:g4160|G4160]]

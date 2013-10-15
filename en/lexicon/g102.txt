@@ -14,5 +14,5 @@ could not do, impossible, impotent, not possible, weak.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1|G1]]
-[[en:lexicon:g1415|G1415]]
+  - [[en:lexicon:g1|G1]]
+  - [[en:lexicon:g1415|G1415]]

@@ -14,5 +14,5 @@ Bethsaida.
 
 ===== Strongs References =====
 
-[[en:lexicon:h01004|H01004]]
-[[en:lexicon:h06719|H06719]]
+  - [[en:lexicon:h01004|H01004]]
+  - [[en:lexicon:h06719|H06719]]

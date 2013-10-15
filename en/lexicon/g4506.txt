@@ -15,5 +15,5 @@ deliver(-er).
 
 ===== Strongs References =====
 
-[[en:lexicon:g4482|G4482]]
-[[en:lexicon:g4511|G4511]]
+  - [[en:lexicon:g4482|G4482]]
+  - [[en:lexicon:g4511|G4511]]

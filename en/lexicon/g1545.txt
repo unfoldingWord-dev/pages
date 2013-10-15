@@ -14,5 +14,5 @@ end, way to escape.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1537|G1537]]
-[[en:lexicon:g939|G939]]
+  - [[en:lexicon:g1537|G1537]]
+  - [[en:lexicon:g939|G939]]

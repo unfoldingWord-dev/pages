@@ -14,5 +14,5 @@ sycamine tree.
 
 ===== Strongs References =====
 
-[[en:lexicon:g4809|G4809]]
-[[en:lexicon:h08256|H08256]]
+  - [[en:lexicon:g4809|G4809]]
+  - [[en:lexicon:h08256|H08256]]

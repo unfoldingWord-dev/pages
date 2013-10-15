@@ -14,5 +14,5 @@ sail over.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1223|G1223]]
-[[en:lexicon:g4126|G4126]]
+  - [[en:lexicon:g1223|G1223]]
+  - [[en:lexicon:g4126|G4126]]

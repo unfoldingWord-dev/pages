@@ -14,10 +14,10 @@ thou
 
 ===== Strongs References =====
 
-[[en:lexicon:g4675|G4675]]
-[[en:lexicon:g4571|G4571]]
-[[en:lexicon:g4671|G4671]]
-[[en:lexicon:g5209|G5209]]
-[[en:lexicon:g5210|G5210]]
-[[en:lexicon:g5213|G5213]]
-[[en:lexicon:g5216|G5216]]
+  - [[en:lexicon:g4675|G4675]]
+  - [[en:lexicon:g4571|G4571]]
+  - [[en:lexicon:g4671|G4671]]
+  - [[en:lexicon:g5209|G5209]]
+  - [[en:lexicon:g5210|G5210]]
+  - [[en:lexicon:g5213|G5213]]
+  - [[en:lexicon:g5216|G5216]]

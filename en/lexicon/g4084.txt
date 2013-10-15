@@ -14,5 +14,5 @@ apprehend, catch, lay hand on, take.
 
 ===== Strongs References =====
 
-[[en:lexicon:g971|G971]]
-[[en:lexicon:g4085|G4085]]
+  - [[en:lexicon:g971|G971]]
+  - [[en:lexicon:g4085|G4085]]

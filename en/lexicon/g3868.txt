@@ -14,5 +14,5 @@ avoid, (make) excuse, intreat, refuse, reject.
 
 ===== Strongs References =====
 
-[[en:lexicon:g3844|G3844]]
-[[en:lexicon:g154|G154]]
+  - [[en:lexicon:g3844|G3844]]
+  - [[en:lexicon:g154|G154]]

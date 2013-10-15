@@ -14,6 +14,6 @@ country (round) about, region (that lieth) round about.
 
 ===== Strongs References =====
 
-[[en:lexicon:g4012|G4012]]
-[[en:lexicon:g5561|G5561]]
-[[en:lexicon:g1093|G1093]]
+  - [[en:lexicon:g4012|G4012]]
+  - [[en:lexicon:g5561|G5561]]
+  - [[en:lexicon:g1093|G1093]]

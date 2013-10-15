@@ -14,5 +14,5 @@ ask again, require.
 
 ===== Strongs References =====
 
-[[en:lexicon:g575|G575]]
-[[en:lexicon:g154|G154]]
+  - [[en:lexicon:g575|G575]]
+  - [[en:lexicon:g154|G154]]

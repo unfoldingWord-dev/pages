@@ -14,5 +14,5 @@ bag.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1100|G1100]]
-[[en:lexicon:g2889|G2889]]
+  - [[en:lexicon:g1100|G1100]]
+  - [[en:lexicon:g2889|G2889]]

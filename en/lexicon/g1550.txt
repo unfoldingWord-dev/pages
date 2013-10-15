@@ -14,5 +14,5 @@ spend.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1537|G1537]]
-[[en:lexicon:g1159|G1159]]
+  - [[en:lexicon:g1537|G1537]]
+  - [[en:lexicon:g1159|G1159]]

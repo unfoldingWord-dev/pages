@@ -14,5 +14,5 @@ never.
 
 ===== Strongs References =====
 
-[[en:lexicon:g3366|G3366]]
-[[en:lexicon:g4218|G4218]]
+  - [[en:lexicon:g3366|G3366]]
+  - [[en:lexicon:g4218|G4218]]

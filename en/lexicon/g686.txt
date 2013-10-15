@@ -14,8 +14,8 @@ haply, (what) manner (of man), no doubt, perhaps, so be, then, therefore, truly,
 
 ===== Strongs References =====
 
-[[en:lexicon:g142|G142]]
-[[en:lexicon:g1065|G1065]]
-[[en:lexicon:g3767|G3767]]
-[[en:lexicon:g1487|G1487]]
-[[en:lexicon:g687|G687]]
+  - [[en:lexicon:g142|G142]]
+  - [[en:lexicon:g1065|G1065]]
+  - [[en:lexicon:g3767|G3767]]
+  - [[en:lexicon:g1487|G1487]]
+  - [[en:lexicon:g687|G687]]

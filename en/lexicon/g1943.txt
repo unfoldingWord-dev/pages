@@ -14,5 +14,5 @@ cover.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1909|G1909]]
-[[en:lexicon:g2572|G2572]]
+  - [[en:lexicon:g1909|G1909]]
+  - [[en:lexicon:g2572|G2572]]

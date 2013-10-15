@@ -14,5 +14,5 @@ author, captain, prince.
 
 ===== Strongs References =====
 
-[[en:lexicon:g746|G746]]
-[[en:lexicon:g71|G71]]
+  - [[en:lexicon:g746|G746]]
+  - [[en:lexicon:g71|G71]]

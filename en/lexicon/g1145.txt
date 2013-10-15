@@ -14,5 +14,5 @@ weep.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1144|G1144]]
-[[en:lexicon:g2799|G2799]]
+  - [[en:lexicon:g1144|G1144]]
+  - [[en:lexicon:g2799|G2799]]

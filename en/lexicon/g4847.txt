@@ -14,5 +14,5 @@ fellow- citizen.
 
 ===== Strongs References =====
 
-[[en:lexicon:g4862|G4862]]
-[[en:lexicon:g4177|G4177]]
+  - [[en:lexicon:g4862|G4862]]
+  - [[en:lexicon:g4177|G4177]]

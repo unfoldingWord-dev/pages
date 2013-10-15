@@ -14,5 +14,5 @@ avoid, eschew, go out of the way.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1537|G1537]]
-[[en:lexicon:g2827|G2827]]
+  - [[en:lexicon:g1537|G1537]]
+  - [[en:lexicon:g2827|G2827]]

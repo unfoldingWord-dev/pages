@@ -14,5 +14,5 @@ eye-witness.
 
 ===== Strongs References =====
 
-[[en:lexicon:g846|G846]]
-[[en:lexicon:g3700|G3700]]
+  - [[en:lexicon:g846|G846]]
+  - [[en:lexicon:g3700|G3700]]

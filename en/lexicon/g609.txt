@@ -14,6 +14,6 @@ cut off.
 
 ===== Strongs References =====
 
-[[en:lexicon:g575|G575]]
-[[en:lexicon:g2875|G2875]]
-[[en:lexicon:g2699|G2699]]
+  - [[en:lexicon:g575|G575]]
+  - [[en:lexicon:g2875|G2875]]
+  - [[en:lexicon:g2699|G2699]]

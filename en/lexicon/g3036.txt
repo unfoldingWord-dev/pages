@@ -14,5 +14,5 @@ stone, cast stones.
 
 ===== Strongs References =====
 
-[[en:lexicon:g3037|G3037]]
-[[en:lexicon:g906|G906]]
+  - [[en:lexicon:g3037|G3037]]
+  - [[en:lexicon:g906|G906]]

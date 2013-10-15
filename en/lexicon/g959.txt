@@ -14,5 +14,5 @@ Bernice.
 
 ===== Strongs References =====
 
-[[en:lexicon:g5342|G5342]]
-[[en:lexicon:g3529|G3529]]
+  - [[en:lexicon:g5342|G5342]]
+  - [[en:lexicon:g3529|G3529]]

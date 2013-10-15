@@ -14,5 +14,5 @@ mint.
 
 ===== Strongs References =====
 
-[[en:lexicon:g2234|G2234]]
-[[en:lexicon:g3744|G3744]]
+  - [[en:lexicon:g2234|G2234]]
+  - [[en:lexicon:g3744|G3744]]

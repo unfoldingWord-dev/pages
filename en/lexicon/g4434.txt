@@ -14,6 +14,6 @@ beggar(-ly), poor.
 
 ===== Strongs References =====
 
-[[en:lexicon:g4422|G4422]]
-[[en:lexicon:g4098|G4098]]
-[[en:lexicon:g3993|G3993]]
+  - [[en:lexicon:g4422|G4422]]
+  - [[en:lexicon:g4098|G4098]]
+  - [[en:lexicon:g3993|G3993]]

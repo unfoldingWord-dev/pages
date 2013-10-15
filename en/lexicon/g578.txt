@@ -14,5 +14,5 @@ have respect.
 
 ===== Strongs References =====
 
-[[en:lexicon:g575|G575]]
-[[en:lexicon:g991|G991]]
+  - [[en:lexicon:g575|G575]]
+  - [[en:lexicon:g991|G991]]

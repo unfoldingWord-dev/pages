@@ -14,6 +14,6 @@ blameless, guiltless.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1|G1]]
-[[en:lexicon:g159|G159]]
-[[en:lexicon:g156|G156]]
+  - [[en:lexicon:g1|G1]]
+  - [[en:lexicon:g159|G159]]
+  - [[en:lexicon:g156|G156]]

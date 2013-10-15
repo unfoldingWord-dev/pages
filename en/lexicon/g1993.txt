@@ -14,5 +14,5 @@ stop mouths.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1909|G1909]]
-[[en:lexicon:g4750|G4750]]
+  - [[en:lexicon:g1909|G1909]]
+  - [[en:lexicon:g4750|G4750]]

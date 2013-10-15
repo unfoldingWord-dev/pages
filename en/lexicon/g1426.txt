@@ -14,5 +14,5 @@ evil report.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1418|G1418]]
-[[en:lexicon:g5345|G5345]]
+  - [[en:lexicon:g1418|G1418]]
+  - [[en:lexicon:g5345|G5345]]

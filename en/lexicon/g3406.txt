@@ -14,5 +14,5 @@ rewarder.
 
 ===== Strongs References =====
 
-[[en:lexicon:g3409|G3409]]
-[[en:lexicon:g591|G591]]
+  - [[en:lexicon:g3409|G3409]]
+  - [[en:lexicon:g591|G591]]

@@ -14,6 +14,6 @@ captain, magistrate.
 
 ===== Strongs References =====
 
-[[en:lexicon:g4756|G4756]]
-[[en:lexicon:g71|G71]]
-[[en:lexicon:g2233|G2233]]
+  - [[en:lexicon:g4756|G4756]]
+  - [[en:lexicon:g71|G71]]
+  - [[en:lexicon:g2233|G2233]]

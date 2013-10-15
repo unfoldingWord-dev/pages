@@ -14,4 +14,4 @@ age, generation, nation, time.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1085|G1085]]
+  - [[en:lexicon:g1085|G1085]]

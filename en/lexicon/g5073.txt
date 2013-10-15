@@ -14,5 +14,5 @@ fourfold.
 
 ===== Strongs References =====
 
-[[en:lexicon:g5064|G5064]]
-[[en:lexicon:g4118|G4118]]
+  - [[en:lexicon:g5064|G5064]]
+  - [[en:lexicon:g4118|G4118]]

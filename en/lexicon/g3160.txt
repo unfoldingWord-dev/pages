@@ -14,5 +14,5 @@ Mattatha.
 
 ===== Strongs References =====
 
-[[en:lexicon:g3161|G3161]]
-[[en:lexicon:h4992|H4992]]
+  - [[en:lexicon:g3161|G3161]]
+  - [[en:lexicon:h4992|H4992]]

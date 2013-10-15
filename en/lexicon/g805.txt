@@ -14,4 +14,4 @@ make fast (sure).
 
 ===== Strongs References =====
 
-[[en:lexicon:g804|G804]]
+  - [[en:lexicon:g804|G804]]

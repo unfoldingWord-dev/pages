@@ -14,5 +14,5 @@ have.
 
 ===== Strongs References =====
 
-[[en:lexicon:g473|G473]]
-[[en:lexicon:g906|G906]]
+  - [[en:lexicon:g473|G473]]
+  - [[en:lexicon:g906|G906]]

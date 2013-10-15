@@ -14,5 +14,5 @@ depart, pass (away, by, forth).
 
 ===== Strongs References =====
 
-[[en:lexicon:g3844|G3844]]
-[[en:lexicon:g71|G71]]
+  - [[en:lexicon:g3844|G3844]]
+  - [[en:lexicon:g71|G71]]

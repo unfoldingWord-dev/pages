@@ -14,5 +14,5 @@ tent-maker.
 
 ===== Strongs References =====
 
-[[en:lexicon:g4633|G4633]]
-[[en:lexicon:g4160|G4160]]
+  - [[en:lexicon:g4633|G4633]]
+  - [[en:lexicon:g4160|G4160]]

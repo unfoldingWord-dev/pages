@@ -14,4 +14,4 @@ departure.
 
 ===== Strongs References =====
 
-[[en:lexicon:g360|G360]]
+  - [[en:lexicon:g360|G360]]

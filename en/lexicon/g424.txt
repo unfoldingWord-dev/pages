@@ -14,5 +14,5 @@ go up.
 
 ===== Strongs References =====
 
-[[en:lexicon:g303|G303]]
-[[en:lexicon:g2064|G2064]]
+  - [[en:lexicon:g303|G303]]
+  - [[en:lexicon:g2064|G2064]]

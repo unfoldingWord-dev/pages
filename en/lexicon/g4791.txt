@@ -14,5 +14,5 @@ companion, partake(-r, -r with).
 
 ===== Strongs References =====
 
-[[en:lexicon:g4862|G4862]]
-[[en:lexicon:g2844|G2844]]
+  - [[en:lexicon:g4862|G4862]]
+  - [[en:lexicon:g2844|G2844]]

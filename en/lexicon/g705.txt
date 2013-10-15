@@ -14,4 +14,4 @@ number.
 
 ===== Strongs References =====
 
-[[en:lexicon:g706|G706]]
+  - [[en:lexicon:g706|G706]]

@@ -14,5 +14,5 @@ consider.
 
 ===== Strongs References =====
 
-[[en:lexicon:g2596|G2596]]
-[[en:lexicon:g3129|G3129]]
+  - [[en:lexicon:g2596|G2596]]
+  - [[en:lexicon:g3129|G3129]]

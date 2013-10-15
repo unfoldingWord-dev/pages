@@ -14,4 +14,4 @@ express image.
 
 ===== Strongs References =====
 
-[[en:lexicon:g5482|G5482]]
+  - [[en:lexicon:g5482|G5482]]

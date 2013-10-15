@@ -14,5 +14,5 @@ flood, river, stream, water.
 
 ===== Strongs References =====
 
-[[en:lexicon:g4095|G4095]]
-[[en:lexicon:g4224|G4224]]
+  - [[en:lexicon:g4095|G4095]]
+  - [[en:lexicon:g4224|G4224]]

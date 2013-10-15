@@ -14,5 +14,5 @@ send (away, forth, out).
 
 ===== Strongs References =====
 
-[[en:lexicon:g1537|G1537]]
-[[en:lexicon:g649|G649]]
+  - [[en:lexicon:g1537|G1537]]
+  - [[en:lexicon:g649|G649]]

@@ -14,5 +14,5 @@ tempt.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1537|G1537]]
-[[en:lexicon:g3985|G3985]]
+  - [[en:lexicon:g1537|G1537]]
+  - [[en:lexicon:g3985|G3985]]

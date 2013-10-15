@@ -14,5 +14,5 @@ deny.
 
 ===== Strongs References =====
 
-[[en:lexicon:g575|G575]]
-[[en:lexicon:g720|G720]]
+  - [[en:lexicon:g575|G575]]
+  - [[en:lexicon:g720|G720]]

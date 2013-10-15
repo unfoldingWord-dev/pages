@@ -14,4 +14,4 @@ sentence.
 
 ===== Strongs References =====
 
-[[en:lexicon:g611|G611]]
+  - [[en:lexicon:g611|G611]]

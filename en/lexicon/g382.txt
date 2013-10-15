@@ -14,5 +14,5 @@ innumerable.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1|G1]]
-[[en:lexicon:g705|G705]]
+  - [[en:lexicon:g1|G1]]
+  - [[en:lexicon:g705|G705]]

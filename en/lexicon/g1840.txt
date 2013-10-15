@@ -14,5 +14,5 @@ be able.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1537|G1537]]
-[[en:lexicon:g2480|G2480]]
+  - [[en:lexicon:g1537|G1537]]
+  - [[en:lexicon:g2480|G2480]]

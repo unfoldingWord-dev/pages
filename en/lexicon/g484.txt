@@ -14,4 +14,4 @@ help.
 
 ===== Strongs References =====
 
-[[en:lexicon:g482|G482]]
+  - [[en:lexicon:g482|G482]]

@@ -14,5 +14,5 @@ dumb.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1|G1]]
-[[en:lexicon:g2980|G2980]]
+  - [[en:lexicon:g1|G1]]
+  - [[en:lexicon:g2980|G2980]]

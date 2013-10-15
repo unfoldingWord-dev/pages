@@ -14,5 +14,5 @@ implacable, truce-breaker.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1|G1]]
-[[en:lexicon:g4689|G4689]]
+  - [[en:lexicon:g1|G1]]
+  - [[en:lexicon:g4689|G4689]]

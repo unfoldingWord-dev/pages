@@ -14,5 +14,5 @@ without father.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1|G1]]
-[[en:lexicon:g3962|G3962]]
+  - [[en:lexicon:g1|G1]]
+  - [[en:lexicon:g3962|G3962]]

@@ -14,5 +14,5 @@ Barnabas.
 
 ===== Strongs References =====
 
-[[en:lexicon:h01247|H01247]]
-[[en:lexicon:h05029|H05029]]
+  - [[en:lexicon:h01247|H01247]]
+  - [[en:lexicon:h05029|H05029]]

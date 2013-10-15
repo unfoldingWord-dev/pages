@@ -14,5 +14,5 @@ without partiality.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1|G1]]
-[[en:lexicon:g1252|G1252]]
+  - [[en:lexicon:g1|G1]]
+  - [[en:lexicon:g1252|G1252]]

@@ -14,5 +14,5 @@ manslayer.
 
 ===== Strongs References =====
 
-[[en:lexicon:g435|G435]]
-[[en:lexicon:g5408|G5408]]
+  - [[en:lexicon:g435|G435]]
+  - [[en:lexicon:g5408|G5408]]

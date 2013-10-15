@@ -14,5 +14,5 @@ destroy, die, lose, mar, perish.
 
 ===== Strongs References =====
 
-[[en:lexicon:g575|G575]]
-[[en:lexicon:g3639|G3639]]
+  - [[en:lexicon:g575|G575]]
+  - [[en:lexicon:g3639|G3639]]

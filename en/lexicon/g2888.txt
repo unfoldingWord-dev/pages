@@ -14,5 +14,5 @@ ruler.
 
 ===== Strongs References =====
 
-[[en:lexicon:g2889|G2889]]
-[[en:lexicon:g2902|G2902]]
+  - [[en:lexicon:g2889|G2889]]
+  - [[en:lexicon:g2902|G2902]]

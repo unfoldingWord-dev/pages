@@ -14,5 +14,5 @@ Castor and Pollux.
 
 ===== Strongs References =====
 
-[[en:lexicon:g2203|G2203]]
-[[en:lexicon:g2877|G2877]]
+  - [[en:lexicon:g2203|G2203]]
+  - [[en:lexicon:g2877|G2877]]

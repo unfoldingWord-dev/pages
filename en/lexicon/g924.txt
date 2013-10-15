@@ -14,5 +14,5 @@ Bartimæus.
 
 ===== Strongs References =====
 
-[[en:lexicon:h01247|H01247]]
-[[en:lexicon:h02931|H02931]]
+  - [[en:lexicon:h01247|H01247]]
+  - [[en:lexicon:h02931|H02931]]

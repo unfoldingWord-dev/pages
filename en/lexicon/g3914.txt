@@ -14,5 +14,5 @@ winter.
 
 ===== Strongs References =====
 
-[[en:lexicon:g3844|G3844]]
-[[en:lexicon:g5492|G5492]]
+  - [[en:lexicon:g3844|G3844]]
+  - [[en:lexicon:g5492|G5492]]

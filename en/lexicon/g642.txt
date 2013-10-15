@@ -14,5 +14,5 @@ take.
 
 ===== Strongs References =====
 
-[[en:lexicon:g575|G575]]
-[[en:lexicon:g3737|G3737]]
+  - [[en:lexicon:g575|G575]]
+  - [[en:lexicon:g3737|G3737]]

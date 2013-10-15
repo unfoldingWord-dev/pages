@@ -14,4 +14,4 @@ upper.
 
 ===== Strongs References =====
 
-[[en:lexicon:g511|G511]]
+  - [[en:lexicon:g511|G511]]

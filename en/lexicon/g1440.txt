@@ -14,5 +14,5 @@ seventy, three score and ten.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1442|G1442]]
-[[en:lexicon:g1176|G1176]]
+  - [[en:lexicon:g1442|G1442]]
+  - [[en:lexicon:g1176|G1176]]

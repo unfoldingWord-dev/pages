@@ -14,5 +14,5 @@ psalm.
 
 ===== Strongs References =====
 
-[[en:lexicon:g5567|G5567]]
-[[en:lexicon:g5603|G5603]]
+  - [[en:lexicon:g5567|G5567]]
+  - [[en:lexicon:g5603|G5603]]

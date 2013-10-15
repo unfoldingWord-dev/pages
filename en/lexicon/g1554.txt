@@ -14,5 +14,5 @@ let forth (out).
 
 ===== Strongs References =====
 
-[[en:lexicon:g1537|G1537]]
-[[en:lexicon:g1325|G1325]]
+  - [[en:lexicon:g1537|G1537]]
+  - [[en:lexicon:g1325|G1325]]

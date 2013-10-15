@@ -14,6 +14,6 @@ suddenly.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1537|G1537]]
-[[en:lexicon:g160|G160]]
-[[en:lexicon:g1810|G1810]]
+  - [[en:lexicon:g1537|G1537]]
+  - [[en:lexicon:g160|G160]]
+  - [[en:lexicon:g1810|G1810]]

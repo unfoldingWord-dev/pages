@@ -14,4 +14,4 @@ mocking.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1702|G1702]]
+  - [[en:lexicon:g1702|G1702]]

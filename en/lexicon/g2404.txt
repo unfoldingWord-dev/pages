@@ -14,5 +14,5 @@ Hierapolis.
 
 ===== Strongs References =====
 
-[[en:lexicon:g2413|G2413]]
-[[en:lexicon:g4172|G4172]]
+  - [[en:lexicon:g2413|G2413]]
+  - [[en:lexicon:g4172|G4172]]

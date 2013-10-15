@@ -14,4 +14,4 @@ leaf.
 
 ===== Strongs References =====
 
-[[en:lexicon:g5443|G5443]]
+  - [[en:lexicon:g5443|G5443]]

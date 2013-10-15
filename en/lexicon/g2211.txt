@@ -14,5 +14,5 @@ Zenas.
 
 ===== Strongs References =====
 
-[[en:lexicon:g2203|G2203]]
-[[en:lexicon:g1435|G1435]]
+  - [[en:lexicon:g2203|G2203]]
+  - [[en:lexicon:g1435|G1435]]

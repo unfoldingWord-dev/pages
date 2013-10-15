@@ -14,5 +14,5 @@ debtor.
 
 ===== Strongs References =====
 
-[[en:lexicon:g5531|G5531]]
-[[en:lexicon:g3781|G3781]]
+  - [[en:lexicon:g5531|G5531]]
+  - [[en:lexicon:g3781|G3781]]

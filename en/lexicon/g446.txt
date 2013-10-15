@@ -14,5 +14,5 @@ deputy.
 
 ===== Strongs References =====
 
-[[en:lexicon:g473|G473]]
-[[en:lexicon:g5228|G5228]]
+  - [[en:lexicon:g473|G473]]
+  - [[en:lexicon:g5228|G5228]]

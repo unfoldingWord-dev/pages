@@ -14,5 +14,5 @@ he, she, such, these, thus.
 
 ===== Strongs References =====
 
-[[en:lexicon:g3588|G3588]]
-[[en:lexicon:g1161|G1161]]
+  - [[en:lexicon:g3588|G3588]]
+  - [[en:lexicon:g1161|G1161]]

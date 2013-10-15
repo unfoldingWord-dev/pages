@@ -14,5 +14,5 @@ masterbuilder.
 
 ===== Strongs References =====
 
-[[en:lexicon:g746|G746]]
-[[en:lexicon:g5045|G5045]]
+  - [[en:lexicon:g746|G746]]
+  - [[en:lexicon:g5045|G5045]]

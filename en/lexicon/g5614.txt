@@ -14,5 +14,5 @@ hosanna.
 
 ===== Strongs References =====
 
-[[en:lexicon:h03467|H03467]]
-[[en:lexicon:h04994|H04994]]
+  - [[en:lexicon:h03467|H03467]]
+  - [[en:lexicon:h04994|H04994]]

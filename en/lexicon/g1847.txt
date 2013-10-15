@@ -14,6 +14,6 @@ set at nought.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1537|G1537]]
-[[en:lexicon:g3762|G3762]]
-[[en:lexicon:g1848|G1848]]
+  - [[en:lexicon:g1537|G1537]]
+  - [[en:lexicon:g3762|G3762]]
+  - [[en:lexicon:g1848|G1848]]

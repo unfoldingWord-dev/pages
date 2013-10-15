@@ -14,5 +14,5 @@ blameless.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1|G1]]
-[[en:lexicon:g3469|G3469]]
+  - [[en:lexicon:g1|G1]]
+  - [[en:lexicon:g3469|G3469]]

@@ -14,5 +14,5 @@ suffer.
 
 ===== Strongs References =====
 
-[[en:lexicon:g4314|G4314]]
-[[en:lexicon:g1439|G1439]]
+  - [[en:lexicon:g4314|G4314]]
+  - [[en:lexicon:g1439|G1439]]

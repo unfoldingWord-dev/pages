@@ -14,5 +14,5 @@ prick.
 
 ===== Strongs References =====
 
-[[en:lexicon:g2596|G2596]]
-[[en:lexicon:g3572|G3572]]
+  - [[en:lexicon:g2596|G2596]]
+  - [[en:lexicon:g3572|G3572]]

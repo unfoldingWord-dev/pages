@@ -14,5 +14,5 @@ uncover.
 
 ===== Strongs References =====
 
-[[en:lexicon:g575|G575]]
-[[en:lexicon:g4721|G4721]]
+  - [[en:lexicon:g575|G575]]
+  - [[en:lexicon:g4721|G4721]]

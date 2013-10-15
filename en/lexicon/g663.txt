@@ -14,4 +14,4 @@ severity.
 
 ===== Strongs References =====
 
-[[en:lexicon:g664|G664]]
+  - [[en:lexicon:g664|G664]]

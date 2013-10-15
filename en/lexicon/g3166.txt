@@ -14,6 +14,6 @@ boast great things.
 
 ===== Strongs References =====
 
-[[en:lexicon:g3173|G3173]]
-[[en:lexicon:g837|G837]]
-[[en:lexicon:g2744|G2744]]
+  - [[en:lexicon:g3173|G3173]]
+  - [[en:lexicon:g837|G837]]
+  - [[en:lexicon:g2744|G2744]]

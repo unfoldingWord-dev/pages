@@ -14,6 +14,6 @@ creep in unawares.
 
 ===== Strongs References =====
 
-[[en:lexicon:g3844|G3844]]
-[[en:lexicon:g1519|G1519]]
-[[en:lexicon:g1416|G1416]]
+  - [[en:lexicon:g3844|G3844]]
+  - [[en:lexicon:g1519|G1519]]
+  - [[en:lexicon:g1416|G1416]]

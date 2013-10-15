@@ -14,4 +14,4 @@ spike-(nard).
 
 ===== Strongs References =====
 
-[[en:lexicon:g4102|G4102]]
+  - [[en:lexicon:g4102|G4102]]

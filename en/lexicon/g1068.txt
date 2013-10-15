@@ -14,5 +14,5 @@ Gethsemane.
 
 ===== Strongs References =====
 
-[[en:lexicon:h01660|H01660]]
-[[en:lexicon:h08081|H08081]]
+  - [[en:lexicon:h01660|H01660]]
+  - [[en:lexicon:h08081|H08081]]

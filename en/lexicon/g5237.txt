@@ -14,5 +14,5 @@ wink at.
 
 ===== Strongs References =====
 
-[[en:lexicon:g5228|G5228]]
-[[en:lexicon:g1492|G1492]]
+  - [[en:lexicon:g5228|G5228]]
+  - [[en:lexicon:g1492|G1492]]

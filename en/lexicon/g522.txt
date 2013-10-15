@@ -14,5 +14,5 @@ take (away).
 
 ===== Strongs References =====
 
-[[en:lexicon:g575|G575]]
-[[en:lexicon:g142|G142]]
+  - [[en:lexicon:g575|G575]]
+  - [[en:lexicon:g142|G142]]

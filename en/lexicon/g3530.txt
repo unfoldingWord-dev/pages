@@ -14,5 +14,5 @@ Nicodemus.
 
 ===== Strongs References =====
 
-[[en:lexicon:g3534|G3534]]
-[[en:lexicon:g1218|G1218]]
+  - [[en:lexicon:g3534|G3534]]
+  - [[en:lexicon:g1218|G1218]]

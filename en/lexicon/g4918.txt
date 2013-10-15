@@ -14,5 +14,5 @@ throng.
 
 ===== Strongs References =====
 
-[[en:lexicon:g4862|G4862]]
-[[en:lexicon:g2346|G2346]]
+  - [[en:lexicon:g4862|G4862]]
+  - [[en:lexicon:g2346|G2346]]

@@ -14,4 +14,4 @@ thorn.
 
 ===== Strongs References =====
 
-[[en:lexicon:g188|G188]]
+  - [[en:lexicon:g188|G188]]

@@ -14,5 +14,5 @@ spiritual.
 
 ===== Strongs References =====
 
-[[en:lexicon:g4151|G4151]]
-[[en:lexicon:g5591|G5591]]
+  - [[en:lexicon:g4151|G4151]]
+  - [[en:lexicon:g5591|G5591]]

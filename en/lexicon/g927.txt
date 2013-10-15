@@ -14,5 +14,5 @@ very precious.
 
 ===== Strongs References =====
 
-[[en:lexicon:g926|G926]]
-[[en:lexicon:g5092|G5092]]
+  - [[en:lexicon:g926|G926]]
+  - [[en:lexicon:g5092|G5092]]

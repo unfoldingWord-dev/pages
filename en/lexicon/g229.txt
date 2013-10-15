@@ -14,4 +14,4 @@ grind.
 
 ===== Strongs References =====
 
-[[en:lexicon:g224|G224]]
+  - [[en:lexicon:g224|G224]]

@@ -14,5 +14,5 @@ novice.
 
 ===== Strongs References =====
 
-[[en:lexicon:g3501|G3501]]
-[[en:lexicon:g5453|G5453]]
+  - [[en:lexicon:g3501|G3501]]
+  - [[en:lexicon:g5453|G5453]]

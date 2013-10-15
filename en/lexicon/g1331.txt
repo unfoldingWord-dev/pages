@@ -14,5 +14,5 @@ make enquiry for.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1223|G1223]]
-[[en:lexicon:g2065|G2065]]
+  - [[en:lexicon:g1223|G1223]]
+  - [[en:lexicon:g2065|G2065]]

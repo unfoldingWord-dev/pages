@@ -14,5 +14,5 @@ be bound with.
 
 ===== Strongs References =====
 
-[[en:lexicon:g4862|G4862]]
-[[en:lexicon:g1210|G1210]]
+  - [[en:lexicon:g4862|G4862]]
+  - [[en:lexicon:g1210|G1210]]

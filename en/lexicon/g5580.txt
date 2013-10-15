@@ -14,5 +14,5 @@ false Christ.
 
 ===== Strongs References =====
 
-[[en:lexicon:g5571|G5571]]
-[[en:lexicon:g5547|G5547]]
+  - [[en:lexicon:g5571|G5571]]
+  - [[en:lexicon:g5547|G5547]]

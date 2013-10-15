@@ -14,5 +14,5 @@ bear children.
 
 ===== Strongs References =====
 
-[[en:lexicon:g5043|G5043]]
-[[en:lexicon:g1096|G1096]]
+  - [[en:lexicon:g5043|G5043]]
+  - [[en:lexicon:g1096|G1096]]

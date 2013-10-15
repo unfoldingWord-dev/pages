@@ -14,5 +14,5 @@ thief.
 
 ===== Strongs References =====
 
-[[en:lexicon:g2813|G2813]]
-[[en:lexicon:g3027|G3027]]
+  - [[en:lexicon:g2813|G2813]]
+  - [[en:lexicon:g3027|G3027]]

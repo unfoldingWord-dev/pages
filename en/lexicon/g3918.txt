@@ -14,5 +14,5 @@ come, X have, be here, + lack, (be here) present.
 
 ===== Strongs References =====
 
-[[en:lexicon:g3844|G3844]]
-[[en:lexicon:g1510|G1510]]
+  - [[en:lexicon:g3844|G3844]]
+  - [[en:lexicon:g1510|G1510]]

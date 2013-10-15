@@ -14,5 +14,5 @@ inventor.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1909|G1909]]
-[[en:lexicon:g2147|G2147]]
+  - [[en:lexicon:g1909|G1909]]
+  - [[en:lexicon:g2147|G2147]]

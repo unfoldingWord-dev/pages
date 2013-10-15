@@ -14,5 +14,5 @@ accuser.
 
 ===== Strongs References =====
 
-[[en:lexicon:g2596|G2596]]
-[[en:lexicon:g58|G58]]
+  - [[en:lexicon:g2596|G2596]]
+  - [[en:lexicon:g58|G58]]

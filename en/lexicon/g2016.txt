@@ -14,4 +14,4 @@ notable.
 
 ===== Strongs References =====
 
-[[en:lexicon:g2014|G2014]]
+  - [[en:lexicon:g2014|G2014]]

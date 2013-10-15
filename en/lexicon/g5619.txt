@@ -14,5 +14,5 @@ as.
 
 ===== Strongs References =====
 
-[[en:lexicon:g5618|G5618]]
-[[en:lexicon:g1487|G1487]]
+  - [[en:lexicon:g5618|G5618]]
+  - [[en:lexicon:g1487|G1487]]

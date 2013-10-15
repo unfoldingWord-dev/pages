@@ -14,4 +14,4 @@ forum.
 
 ===== Strongs References =====
 
-[[en:lexicon:g675|G675]]
+  - [[en:lexicon:g675|G675]]

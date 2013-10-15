@@ -14,5 +14,5 @@ gift.
 
 ===== Strongs References =====
 
-[[en:lexicon:g394|G394]]
-[[en:lexicon:g331|G331]]
+  - [[en:lexicon:g394|G394]]
+  - [[en:lexicon:g331|G331]]

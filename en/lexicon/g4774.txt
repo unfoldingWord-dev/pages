@@ -14,5 +14,5 @@ permission.
 
 ===== Strongs References =====
 
-[[en:lexicon:g4862|G4862]]
-[[en:lexicon:g1097|G1097]]
+  - [[en:lexicon:g4862|G4862]]
+  - [[en:lexicon:g1097|G1097]]

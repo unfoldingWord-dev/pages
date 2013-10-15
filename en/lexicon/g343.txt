@@ -14,5 +14,5 @@ open, (un-)taken away.
 
 ===== Strongs References =====
 
-[[en:lexicon:g303|G303]]
-[[en:lexicon:g2572|G2572]]
+  - [[en:lexicon:g303|G303]]
+  - [[en:lexicon:g2572|G2572]]

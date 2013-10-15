@@ -14,5 +14,5 @@ proud.
 
 ===== Strongs References =====
 
-[[en:lexicon:g5228|G5228]]
-[[en:lexicon:g5316|G5316]]
+  - [[en:lexicon:g5228|G5228]]
+  - [[en:lexicon:g5316|G5316]]

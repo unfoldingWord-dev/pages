@@ -14,5 +14,5 @@ set in order.
 
 ===== Strongs References =====
 
-[[en:lexicon:g303|G303]]
-[[en:lexicon:g5021|G5021]]
+  - [[en:lexicon:g303|G303]]
+  - [[en:lexicon:g5021|G5021]]

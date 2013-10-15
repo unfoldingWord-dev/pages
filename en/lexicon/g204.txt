@@ -14,5 +14,5 @@ chief corner.
 
 ===== Strongs References =====
 
-[[en:lexicon:g206|G206]]
-[[en:lexicon:g1137|G1137]]
+  - [[en:lexicon:g206|G206]]
+  - [[en:lexicon:g1137|G1137]]

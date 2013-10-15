@@ -14,5 +14,5 @@ Pavement.
 
 ===== Strongs References =====
 
-[[en:lexicon:g3037|G3037]]
-[[en:lexicon:g4766|G4766]]
+  - [[en:lexicon:g3037|G3037]]
+  - [[en:lexicon:g4766|G4766]]

@@ -14,4 +14,4 @@ corn(-field).
 
 ===== Strongs References =====
 
-[[en:lexicon:g4703|G4703]]
+  - [[en:lexicon:g4703|G4703]]

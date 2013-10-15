@@ -14,4 +14,4 @@ guide, lead.
 
 ===== Strongs References =====
 
-[[en:lexicon:g3595|G3595]]
+  - [[en:lexicon:g3595|G3595]]

@@ -14,5 +14,5 @@ expect, look (tarry) for, wait (for).
 
 ===== Strongs References =====
 
-[[en:lexicon:g1537|G1537]]
-[[en:lexicon:g1209|G1209]]
+  - [[en:lexicon:g1537|G1537]]
+  - [[en:lexicon:g1209|G1209]]

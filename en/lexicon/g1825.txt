@@ -14,5 +14,5 @@ raise up.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1537|G1537]]
-[[en:lexicon:g1453|G1453]]
+  - [[en:lexicon:g1537|G1537]]
+  - [[en:lexicon:g1453|G1453]]

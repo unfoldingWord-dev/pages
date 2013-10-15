@@ -14,5 +14,5 @@ hew.
 
 ===== Strongs References =====
 
-[[en:lexicon:g2991|G2991]]
-[[en:lexicon:g5114|G5114]]
+  - [[en:lexicon:g2991|G2991]]
+  - [[en:lexicon:g5114|G5114]]

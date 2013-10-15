@@ -14,4 +14,4 @@ kingdom, + reign.
 
 ===== Strongs References =====
 
-[[en:lexicon:g935|G935]]
+  - [[en:lexicon:g935|G935]]

@@ -14,5 +14,5 @@ brute, unreasonable.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1|G1]]
-[[en:lexicon:g3056|G3056]]
+  - [[en:lexicon:g1|G1]]
+  - [[en:lexicon:g3056|G3056]]

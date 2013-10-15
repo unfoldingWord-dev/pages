@@ -14,5 +14,5 @@ any (man, thing), no (man), none, not (at all, any man, a whit), nothing, + with
 
 ===== Strongs References =====
 
-[[en:lexicon:g3361|G3361]]
-[[en:lexicon:g1520|G1520]]
+  - [[en:lexicon:g3361|G3361]]
+  - [[en:lexicon:g1520|G1520]]

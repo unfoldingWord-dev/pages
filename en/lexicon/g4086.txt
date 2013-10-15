@@ -14,5 +14,5 @@ enticing words.
 
 ===== Strongs References =====
 
-[[en:lexicon:g3982|G3982]]
-[[en:lexicon:g3056|G3056]]
+  - [[en:lexicon:g3982|G3982]]
+  - [[en:lexicon:g3056|G3056]]

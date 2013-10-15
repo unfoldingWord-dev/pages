@@ -14,5 +14,5 @@ endless.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1|G1]]
-[[en:lexicon:g4008|G4008]]
+  - [[en:lexicon:g1|G1]]
+  - [[en:lexicon:g4008|G4008]]

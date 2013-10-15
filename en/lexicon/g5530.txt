@@ -14,6 +14,6 @@ entreat, use.
 
 ===== Strongs References =====
 
-[[en:lexicon:g5531|G5531]]
-[[en:lexicon:g5495|G5495]]
-[[en:lexicon:g5534|G5534]]
+  - [[en:lexicon:g5531|G5531]]
+  - [[en:lexicon:g5495|G5495]]
+  - [[en:lexicon:g5534|G5534]]

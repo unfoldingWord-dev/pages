@@ -14,5 +14,5 @@ vine.
 
 ===== Strongs References =====
 
-[[en:lexicon:g297|G297]]
-[[en:lexicon:g257|G257]]
+  - [[en:lexicon:g297|G297]]
+  - [[en:lexicon:g257|G257]]

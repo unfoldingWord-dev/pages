@@ -15,6 +15,6 @@ wallow.
 
 ===== Strongs References =====
 
-[[en:lexicon:g2949|G2949]]
-[[en:lexicon:g2945|G2945]]
-[[en:lexicon:g1507|G1507]]
+  - [[en:lexicon:g2949|G2949]]
+  - [[en:lexicon:g2945|G2945]]
+  - [[en:lexicon:g1507|G1507]]

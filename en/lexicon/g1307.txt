@@ -14,5 +14,5 @@ transparent.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1223|G1223]]
-[[en:lexicon:g5316|G5316]]
+  - [[en:lexicon:g1223|G1223]]
+  - [[en:lexicon:g5316|G5316]]

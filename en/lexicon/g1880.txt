@@ -14,5 +14,5 @@ come again, return.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1909|G1909]]
-[[en:lexicon:g424|G424]]
+  - [[en:lexicon:g1909|G1909]]
+  - [[en:lexicon:g424|G424]]

@@ -14,5 +14,5 @@ forasmuch.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1894|G1894]]
-[[en:lexicon:g4007|G4007]]
+  - [[en:lexicon:g1894|G1894]]
+  - [[en:lexicon:g4007|G4007]]

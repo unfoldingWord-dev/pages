@@ -14,5 +14,5 @@ exceeding, excel, pass.
 
 ===== Strongs References =====
 
-[[en:lexicon:g5228|G5228]]
-[[en:lexicon:g906|G906]]
+  - [[en:lexicon:g5228|G5228]]
+  - [[en:lexicon:g906|G906]]

@@ -14,5 +14,5 @@ immoderate
 
 ===== Strongs References =====
 
-[[en:lexicon:g1|G1]]
-[[en:lexicon:g3358|G3358]]
+  - [[en:lexicon:g1|G1]]
+  - [[en:lexicon:g3358|G3358]]

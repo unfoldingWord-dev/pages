@@ -14,6 +14,6 @@ day following, morrow, next day (after).
 
 ===== Strongs References =====
 
-[[en:lexicon:g1909|G1909]]
-[[en:lexicon:g839|G839]]
-[[en:lexicon:g2250|G2250]]
+  - [[en:lexicon:g1909|G1909]]
+  - [[en:lexicon:g839|G839]]
+  - [[en:lexicon:g2250|G2250]]

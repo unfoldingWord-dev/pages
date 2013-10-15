@@ -14,5 +14,5 @@ band, bond.
 
 ===== Strongs References =====
 
-[[en:lexicon:g4862|G4862]]
-[[en:lexicon:g1199|G1199]]
+  - [[en:lexicon:g4862|G4862]]
+  - [[en:lexicon:g1199|G1199]]

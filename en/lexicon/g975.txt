@@ -14,4 +14,4 @@ bill, book, scroll, writing.
 
 ===== Strongs References =====
 
-[[en:lexicon:g976|G976]]
+  - [[en:lexicon:g976|G976]]

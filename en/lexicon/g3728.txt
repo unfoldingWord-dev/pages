@@ -14,5 +14,5 @@ oath.
 
 ===== Strongs References =====
 
-[[en:lexicon:g3727|G3727]]
-[[en:lexicon:g3660|G3660]]
+  - [[en:lexicon:g3727|G3727]]
+  - [[en:lexicon:g3660|G3660]]

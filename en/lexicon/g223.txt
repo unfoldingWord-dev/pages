@@ -14,5 +14,5 @@ Alexander.
 
 ===== Strongs References =====
 
-[[en:lexicon:g220|G220]]
-[[en:lexicon:g435|G435]]
+  - [[en:lexicon:g220|G220]]
+  - [[en:lexicon:g435|G435]]

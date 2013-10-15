@@ -14,5 +14,5 @@ run (thither to, to).
 
 ===== Strongs References =====
 
-[[en:lexicon:g4314|G4314]]
-[[en:lexicon:g5143|G5143]]
+  - [[en:lexicon:g4314|G4314]]
+  - [[en:lexicon:g5143|G5143]]

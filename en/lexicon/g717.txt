@@ -14,5 +14,5 @@ Armageddon.
 
 ===== Strongs References =====
 
-[[en:lexicon:h02022|H02022]]
-[[en:lexicon:h04023|H04023]]
+  - [[en:lexicon:h02022|H02022]]
+  - [[en:lexicon:h04023|H04023]]

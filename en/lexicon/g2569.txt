@@ -14,5 +14,5 @@ well doing.
 
 ===== Strongs References =====
 
-[[en:lexicon:g2570|G2570]]
-[[en:lexicon:g4160|G4160]]
+  - [[en:lexicon:g2570|G2570]]
+  - [[en:lexicon:g4160|G4160]]

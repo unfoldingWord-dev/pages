@@ -14,5 +14,5 @@ habitation.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1909|G1909]]
-[[en:lexicon:g833|G833]]
+  - [[en:lexicon:g1909|G1909]]
+  - [[en:lexicon:g833|G833]]

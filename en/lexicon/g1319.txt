@@ -14,4 +14,4 @@ doctrine, learning, teaching.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1320|G1320]]
+  - [[en:lexicon:g1320|G1320]]

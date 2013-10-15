@@ -14,5 +14,5 @@ filthy communication.
 
 ===== Strongs References =====
 
-[[en:lexicon:g150|G150]]
-[[en:lexicon:g3056|G3056]]
+  - [[en:lexicon:g150|G150]]
+  - [[en:lexicon:g3056|G3056]]

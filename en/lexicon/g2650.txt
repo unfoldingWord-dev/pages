@@ -14,5 +14,5 @@ abide.
 
 ===== Strongs References =====
 
-[[en:lexicon:g2596|G2596]]
-[[en:lexicon:g3306|G3306]]
+  - [[en:lexicon:g2596|G2596]]
+  - [[en:lexicon:g3306|G3306]]

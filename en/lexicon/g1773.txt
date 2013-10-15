@@ -14,5 +14,5 @@ before day.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1722|G1722]]
-[[en:lexicon:g3571|G3571]]
+  - [[en:lexicon:g1722|G1722]]
+  - [[en:lexicon:g3571|G3571]]

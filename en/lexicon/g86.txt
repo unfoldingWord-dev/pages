@@ -14,5 +14,5 @@ grave, hell.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1|G1]]
-[[en:lexicon:g1492|G1492]]
+  - [[en:lexicon:g1|G1]]
+  - [[en:lexicon:g1492|G1492]]

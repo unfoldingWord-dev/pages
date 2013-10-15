@@ -14,5 +14,5 @@ sincere.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1|G1]]
-[[en:lexicon:g1388|G1388]]
+  - [[en:lexicon:g1|G1]]
+  - [[en:lexicon:g1388|G1388]]

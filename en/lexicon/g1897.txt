@@ -14,5 +14,5 @@ seeing.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1893|G1893]]
-[[en:lexicon:g4007|G4007]]
+  - [[en:lexicon:g1893|G1893]]
+  - [[en:lexicon:g4007|G4007]]

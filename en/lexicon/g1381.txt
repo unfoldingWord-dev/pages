@@ -14,4 +14,4 @@ allow, discern, examine, X like, (ap-)prove, try.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1384|G1384]]
+  - [[en:lexicon:g1384|G1384]]

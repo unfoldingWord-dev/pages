@@ -14,5 +14,5 @@ rest.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1909|G1909]]
-[[en:lexicon:g3062|G3062]]
+  - [[en:lexicon:g1909|G1909]]
+  - [[en:lexicon:g3062|G3062]]

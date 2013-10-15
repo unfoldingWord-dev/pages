@@ -14,5 +14,5 @@ fasting.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1|G1]]
-[[en:lexicon:g4621|G4621]]
+  - [[en:lexicon:g1|G1]]
+  - [[en:lexicon:g4621|G4621]]

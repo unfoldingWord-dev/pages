@@ -14,5 +14,5 @@ good words.
 
 ===== Strongs References =====
 
-[[en:lexicon:g5543|G5543]]
-[[en:lexicon:g3004|G3004]]
+  - [[en:lexicon:g5543|G5543]]
+  - [[en:lexicon:g3004|G3004]]

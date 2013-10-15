@@ -14,5 +14,5 @@ dumb, without signification.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1|G1]]
-[[en:lexicon:g5456|G5456]]
+  - [[en:lexicon:g1|G1]]
+  - [[en:lexicon:g5456|G5456]]

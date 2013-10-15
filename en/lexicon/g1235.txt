@@ -14,5 +14,5 @@ be awake.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1223|G1223]]
-[[en:lexicon:g1127|G1127]]
+  - [[en:lexicon:g1223|G1223]]
+  - [[en:lexicon:g1127|G1127]]

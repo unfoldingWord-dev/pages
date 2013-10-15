@@ -14,5 +14,5 @@ bind about.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1210|G1210]]
-[[en:lexicon:g4012|G4012]]
+  - [[en:lexicon:g1210|G1210]]
+  - [[en:lexicon:g4012|G4012]]

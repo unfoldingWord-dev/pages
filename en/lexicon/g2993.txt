@@ -14,5 +14,5 @@ Laodicea.
 
 ===== Strongs References =====
 
-[[en:lexicon:g2992|G2992]]
-[[en:lexicon:g1349|G1349]]
+  - [[en:lexicon:g2992|G2992]]
+  - [[en:lexicon:g1349|G1349]]

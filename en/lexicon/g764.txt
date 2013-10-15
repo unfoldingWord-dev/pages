@@ -14,4 +14,4 @@ commit (live, that after should live) ungodly.
 
 ===== Strongs References =====
 
-[[en:lexicon:g765|G765]]
+  - [[en:lexicon:g765|G765]]

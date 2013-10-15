@@ -14,5 +14,5 @@ hale.
 
 ===== Strongs References =====
 
-[[en:lexicon:g2596|G2596]]
-[[en:lexicon:g4951|G4951]]
+  - [[en:lexicon:g2596|G2596]]
+  - [[en:lexicon:g4951|G4951]]

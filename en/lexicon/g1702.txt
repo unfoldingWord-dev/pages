@@ -14,5 +14,5 @@ mock.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1722|G1722]]
-[[en:lexicon:g3815|G3815]]
+  - [[en:lexicon:g1722|G1722]]
+  - [[en:lexicon:g3815|G3815]]

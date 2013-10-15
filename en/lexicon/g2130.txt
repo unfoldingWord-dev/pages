@@ -14,5 +14,5 @@ ready to distribute.
 
 ===== Strongs References =====
 
-[[en:lexicon:g2095|G2095]]
-[[en:lexicon:g3330|G3330]]
+  - [[en:lexicon:g2095|G2095]]
+  - [[en:lexicon:g3330|G3330]]

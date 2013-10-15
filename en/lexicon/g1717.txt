@@ -14,5 +14,5 @@ manifest, openly.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1722|G1722]]
-[[en:lexicon:g5316|G5316]]
+  - [[en:lexicon:g1722|G1722]]
+  - [[en:lexicon:g5316|G5316]]

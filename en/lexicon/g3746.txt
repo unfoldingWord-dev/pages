@@ -14,5 +14,5 @@ whomsoever.
 
 ===== Strongs References =====
 
-[[en:lexicon:g3739|G3739]]
-[[en:lexicon:g4007|G4007]]
+  - [[en:lexicon:g3739|G3739]]
+  - [[en:lexicon:g4007|G4007]]

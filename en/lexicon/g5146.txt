@@ -14,5 +14,5 @@ brier, thistle.
 
 ===== Strongs References =====
 
-[[en:lexicon:g5140|G5140]]
-[[en:lexicon:g956|G956]]
+  - [[en:lexicon:g5140|G5140]]
+  - [[en:lexicon:g956|G956]]

@@ -14,9 +14,9 @@ after(-ward), X that he again, against, among, X and, + follow, hence, hereafter
 
 ===== Strongs References =====
 
-[[en:lexicon:g4314|G4314]]
-[[en:lexicon:g575|G575]]
-[[en:lexicon:g1537|G1537]]
-[[en:lexicon:g1519|G1519]]
-[[en:lexicon:g1722|G1722]]
-[[en:lexicon:g4862|G4862]]
+  - [[en:lexicon:g4314|G4314]]
+  - [[en:lexicon:g575|G575]]
+  - [[en:lexicon:g1537|G1537]]
+  - [[en:lexicon:g1519|G1519]]
+  - [[en:lexicon:g1722|G1722]]
+  - [[en:lexicon:g4862|G4862]]

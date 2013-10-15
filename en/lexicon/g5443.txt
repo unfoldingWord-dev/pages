@@ -14,5 +14,5 @@ kindred, tribe.
 
 ===== Strongs References =====
 
-[[en:lexicon:g5453|G5453]]
-[[en:lexicon:g5444|G5444]]
+  - [[en:lexicon:g5453|G5453]]
+  - [[en:lexicon:g5444|G5444]]

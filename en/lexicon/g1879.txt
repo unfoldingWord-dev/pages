@@ -14,5 +14,5 @@ rest in (upon).
 
 ===== Strongs References =====
 
-[[en:lexicon:g1909|G1909]]
-[[en:lexicon:g373|G373]]
+  - [[en:lexicon:g1909|G1909]]
+  - [[en:lexicon:g373|G373]]

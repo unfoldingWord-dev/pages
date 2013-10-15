@@ -14,5 +14,5 @@ hide.
 
 ===== Strongs References =====
 
-[[en:lexicon:g4012|G4012]]
-[[en:lexicon:g2928|G2928]]
+  - [[en:lexicon:g4012|G4012]]
+  - [[en:lexicon:g2928|G2928]]

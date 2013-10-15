@@ -14,5 +14,5 @@ Eliud.
 
 ===== Strongs References =====
 
-[[en:lexicon:h0410|H0410]]
-[[en:lexicon:h01935|H01935]]
+  - [[en:lexicon:h0410|H0410]]
+  - [[en:lexicon:h01935|H01935]]

@@ -14,5 +14,5 @@ Amphipolis.
 
 ===== Strongs References =====
 
-[[en:lexicon:g297|G297]]
-[[en:lexicon:g4172|G4172]]
+  - [[en:lexicon:g297|G297]]
+  - [[en:lexicon:g4172|G4172]]

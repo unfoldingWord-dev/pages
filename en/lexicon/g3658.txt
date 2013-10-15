@@ -15,5 +15,5 @@ company.
 
 ===== Strongs References =====
 
-[[en:lexicon:g3674|G3674]]
-[[en:lexicon:g138|G138]]
+  - [[en:lexicon:g3674|G3674]]
+  - [[en:lexicon:g138|G138]]

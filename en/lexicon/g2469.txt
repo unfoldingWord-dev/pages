@@ -14,5 +14,5 @@ Iscariot.
 
 ===== Strongs References =====
 
-[[en:lexicon:h0377|H0377]]
-[[en:lexicon:h07149|H07149]]
+  - [[en:lexicon:h0377|H0377]]
+  - [[en:lexicon:h07149|H07149]]

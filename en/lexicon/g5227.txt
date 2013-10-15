@@ -14,5 +14,5 @@ adversary, against.
 
 ===== Strongs References =====
 
-[[en:lexicon:g5259|G5259]]
-[[en:lexicon:g1727|G1727]]
+  - [[en:lexicon:g5259|G5259]]
+  - [[en:lexicon:g1727|G1727]]

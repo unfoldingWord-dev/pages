@@ -14,5 +14,5 @@ general assembly.
 
 ===== Strongs References =====
 
-[[en:lexicon:g3956|G3956]]
-[[en:lexicon:g58|G58]]
+  - [[en:lexicon:g3956|G3956]]
+  - [[en:lexicon:g58|G58]]

@@ -14,5 +14,5 @@ heady, rash(-ly).
 
 ===== Strongs References =====
 
-[[en:lexicon:g4253|G4253]]
-[[en:lexicon:g4098|G4098]]
+  - [[en:lexicon:g4253|G4253]]
+  - [[en:lexicon:g4098|G4098]]

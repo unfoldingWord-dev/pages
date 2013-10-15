@@ -14,5 +14,5 @@ number with.
 
 ===== Strongs References =====
 
-[[en:lexicon:g2596|G2596]]
-[[en:lexicon:g705|G705]]
+  - [[en:lexicon:g2596|G2596]]
+  - [[en:lexicon:g705|G705]]

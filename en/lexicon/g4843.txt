@@ -14,6 +14,6 @@ embrace.
 
 ===== Strongs References =====
 
-[[en:lexicon:g4862|G4862]]
-[[en:lexicon:g4012|G4012]]
-[[en:lexicon:g2983|G2983]]
+  - [[en:lexicon:g4862|G4862]]
+  - [[en:lexicon:g4012|G4012]]
+  - [[en:lexicon:g2983|G2983]]

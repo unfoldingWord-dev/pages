@@ -14,5 +14,5 @@ ethnarch.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1484|G1484]]
-[[en:lexicon:g746|G746]]
+  - [[en:lexicon:g1484|G1484]]
+  - [[en:lexicon:g746|G746]]

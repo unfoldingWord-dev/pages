@@ -14,6 +14,6 @@ steward, tutor.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1909|G1909]]
-[[en:lexicon:g5158|G5158]]
-[[en:lexicon:g2011|G2011]]
+  - [[en:lexicon:g1909|G1909]]
+  - [[en:lexicon:g5158|G5158]]
+  - [[en:lexicon:g2011|G2011]]

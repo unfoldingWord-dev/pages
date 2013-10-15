@@ -14,5 +14,5 @@ can (+ not) be.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1722|G1722]]
-[[en:lexicon:g1209|G1209]]
+  - [[en:lexicon:g1722|G1722]]
+  - [[en:lexicon:g1209|G1209]]

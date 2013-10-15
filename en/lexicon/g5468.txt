@@ -14,5 +14,5 @@ bridle.
 
 ===== Strongs References =====
 
-[[en:lexicon:g5469|G5469]]
-[[en:lexicon:g71|G71]]
+  - [[en:lexicon:g5469|G5469]]
+  - [[en:lexicon:g71|G71]]

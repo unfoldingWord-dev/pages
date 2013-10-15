@@ -14,5 +14,5 @@ called, (+ sur-)name(-d).
 
 ===== Strongs References =====
 
-[[en:lexicon:g1097|G1097]]
-[[en:lexicon:g3685|G3685]]
+  - [[en:lexicon:g1097|G1097]]
+  - [[en:lexicon:g3685|G3685]]

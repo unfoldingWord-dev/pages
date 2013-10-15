@@ -14,5 +14,5 @@ patriarch.
 
 ===== Strongs References =====
 
-[[en:lexicon:g3965|G3965]]
-[[en:lexicon:g757|G757]]
+  - [[en:lexicon:g3965|G3965]]
+  - [[en:lexicon:g757|G757]]

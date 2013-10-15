@@ -14,5 +14,5 @@ not a brawler.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1|G1]]
-[[en:lexicon:g3163|G3163]]
+  - [[en:lexicon:g1|G1]]
+  - [[en:lexicon:g3163|G3163]]

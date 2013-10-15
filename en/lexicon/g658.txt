@@ -14,5 +14,5 @@ finish.
 
 ===== Strongs References =====
 
-[[en:lexicon:g575|G575]]
-[[en:lexicon:g5055|G5055]]
+  - [[en:lexicon:g575|G575]]
+  - [[en:lexicon:g5055|G5055]]

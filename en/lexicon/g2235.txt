@@ -14,6 +14,6 @@ already, (even) now (already), by this time.
 
 ===== Strongs References =====
 
-[[en:lexicon:g2228|G2228]]
-[[en:lexicon:g2229|G2229]]
-[[en:lexicon:g1211|G1211]]
+  - [[en:lexicon:g2228|G2228]]
+  - [[en:lexicon:g2229|G2229]]
+  - [[en:lexicon:g1211|G1211]]

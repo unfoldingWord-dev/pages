@@ -14,6 +14,6 @@ as large, so great (long, many, much), these many.
 
 ===== Strongs References =====
 
-[[en:lexicon:g3588|G3588]]
-[[en:lexicon:g3739|G3739]]
-[[en:lexicon:g3778|G3778]]
+  - [[en:lexicon:g3588|G3588]]
+  - [[en:lexicon:g3739|G3739]]
+  - [[en:lexicon:g3778|G3778]]

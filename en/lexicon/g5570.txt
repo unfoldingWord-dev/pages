@@ -14,5 +14,5 @@ false teacher.
 
 ===== Strongs References =====
 
-[[en:lexicon:g5571|G5571]]
-[[en:lexicon:g652|G652]]
+  - [[en:lexicon:g5571|G5571]]
+  - [[en:lexicon:g652|G652]]

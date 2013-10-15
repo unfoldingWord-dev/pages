@@ -14,5 +14,5 @@ Aceldama.
 
 ===== Strongs References =====
 
-[[en:lexicon:h02506|H02506]]
-[[en:lexicon:h01818|H01818]]
+  - [[en:lexicon:h02506|H02506]]
+  - [[en:lexicon:h01818|H01818]]

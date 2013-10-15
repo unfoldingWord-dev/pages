@@ -14,5 +14,5 @@ handwriting.
 
 ===== Strongs References =====
 
-[[en:lexicon:g5495|G5495]]
-[[en:lexicon:g1125|G1125]]
+  - [[en:lexicon:g5495|G5495]]
+  - [[en:lexicon:g1125|G1125]]

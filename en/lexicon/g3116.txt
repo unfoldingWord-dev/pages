@@ -14,5 +14,5 @@ patiently.
 
 ===== Strongs References =====
 
-[[en:lexicon:g3117|G3117]]
-[[en:lexicon:g2372|G2372]]
+  - [[en:lexicon:g3117|G3117]]
+  - [[en:lexicon:g2372|G2372]]

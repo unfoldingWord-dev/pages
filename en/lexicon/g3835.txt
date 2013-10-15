@@ -14,5 +14,5 @@ crafty.
 
 ===== Strongs References =====
 
-[[en:lexicon:g3956|G3956]]
-[[en:lexicon:g2041|G2041]]
+  - [[en:lexicon:g3956|G3956]]
+  - [[en:lexicon:g2041|G2041]]

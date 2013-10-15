@@ -14,5 +14,5 @@ blindfold, cover, overlay.
 
 ===== Strongs References =====
 
-[[en:lexicon:g4012|G4012]]
-[[en:lexicon:g2572|G2572]]
+  - [[en:lexicon:g4012|G4012]]
+  - [[en:lexicon:g2572|G2572]]

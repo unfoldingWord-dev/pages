@@ -14,5 +14,5 @@ chief shepherd.
 
 ===== Strongs References =====
 
-[[en:lexicon:g746|G746]]
-[[en:lexicon:g4166|G4166]]
+  - [[en:lexicon:g746|G746]]
+  - [[en:lexicon:g4166|G4166]]

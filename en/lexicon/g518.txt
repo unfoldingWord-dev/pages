@@ -14,5 +14,5 @@ bring word (again), declare, report, shew (again), tell.
 
 ===== Strongs References =====
 
-[[en:lexicon:g575|G575]]
-[[en:lexicon:g32|G32]]
+  - [[en:lexicon:g575|G575]]
+  - [[en:lexicon:g32|G32]]

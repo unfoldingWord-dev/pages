@@ -14,5 +14,5 @@ brook.
 
 ===== Strongs References =====
 
-[[en:lexicon:g5494|G5494]]
-[[en:lexicon:g4482|G4482]]
+  - [[en:lexicon:g5494|G5494]]
+  - [[en:lexicon:g4482|G4482]]

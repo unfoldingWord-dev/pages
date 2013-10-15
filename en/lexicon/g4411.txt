@@ -14,5 +14,5 @@ chief (highest, uppermost) room.
 
 ===== Strongs References =====
 
-[[en:lexicon:g4413|G4413]]
-[[en:lexicon:g2828|G2828]]
+  - [[en:lexicon:g4413|G4413]]
+  - [[en:lexicon:g2828|G2828]]

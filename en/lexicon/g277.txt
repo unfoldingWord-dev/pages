@@ -14,5 +14,5 @@ unmovable.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1|G1]]
-[[en:lexicon:g3334|G3334]]
+  - [[en:lexicon:g1|G1]]
+  - [[en:lexicon:g3334|G3334]]

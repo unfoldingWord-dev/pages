@@ -14,5 +14,5 @@ chrysolite.
 
 ===== Strongs References =====
 
-[[en:lexicon:g5557|G5557]]
-[[en:lexicon:g3037|G3037]]
+  - [[en:lexicon:g5557|G5557]]
+  - [[en:lexicon:g3037|G3037]]

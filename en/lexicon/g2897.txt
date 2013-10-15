@@ -14,4 +14,4 @@ surfeiting.
 
 ===== Strongs References =====
 
-[[en:lexicon:g726|G726]]
+  - [[en:lexicon:g726|G726]]

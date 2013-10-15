@@ -14,5 +14,5 @@ light.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1643|G1643]]
-[[en:lexicon:g1640|G1640]]
+  - [[en:lexicon:g1643|G1643]]
+  - [[en:lexicon:g1640|G1640]]

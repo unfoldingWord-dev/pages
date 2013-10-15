@@ -14,5 +14,5 @@ abuse.
 
 ===== Strongs References =====
 
-[[en:lexicon:g2596|G2596]]
-[[en:lexicon:g5530|G5530]]
+  - [[en:lexicon:g2596|G2596]]
+  - [[en:lexicon:g5530|G5530]]

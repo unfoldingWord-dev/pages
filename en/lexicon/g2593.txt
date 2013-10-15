@@ -14,5 +14,5 @@ fruitful.
 
 ===== Strongs References =====
 
-[[en:lexicon:g2590|G2590]]
-[[en:lexicon:g5342|G5342]]
+  - [[en:lexicon:g2590|G2590]]
+  - [[en:lexicon:g5342|G5342]]

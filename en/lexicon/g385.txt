@@ -14,5 +14,5 @@ draw up, pull out.
 
 ===== Strongs References =====
 
-[[en:lexicon:g303|G303]]
-[[en:lexicon:g4685|G4685]]
+  - [[en:lexicon:g303|G303]]
+  - [[en:lexicon:g4685|G4685]]

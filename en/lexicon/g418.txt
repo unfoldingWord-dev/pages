@@ -14,5 +14,5 @@ impossible.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1|G1]]
-[[en:lexicon:g1735|G1735]]
+  - [[en:lexicon:g1|G1]]
+  - [[en:lexicon:g1735|G1735]]

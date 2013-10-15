@@ -14,5 +14,5 @@ see clearly.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1223|G1223]]
-[[en:lexicon:g991|G991]]
+  - [[en:lexicon:g1223|G1223]]
+  - [[en:lexicon:g991|G991]]

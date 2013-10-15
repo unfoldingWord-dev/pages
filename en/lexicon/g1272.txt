@@ -14,5 +14,5 @@ open.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1223|G1223]]
-[[en:lexicon:g455|G455]]
+  - [[en:lexicon:g1223|G1223]]
+  - [[en:lexicon:g455|G455]]

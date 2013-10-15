@@ -14,5 +14,5 @@ Simon.
 
 ===== Strongs References =====
 
-[[en:lexicon:g4826|G4826]]
-[[en:lexicon:h08095|H08095]]
+  - [[en:lexicon:g4826|G4826]]
+  - [[en:lexicon:h08095|H08095]]

@@ -14,4 +14,4 @@ greeting, salutation.
 
 ===== Strongs References =====
 
-[[en:lexicon:g782|G782]]
+  - [[en:lexicon:g782|G782]]

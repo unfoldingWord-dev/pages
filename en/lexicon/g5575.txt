@@ -14,5 +14,5 @@ false witness.
 
 ===== Strongs References =====
 
-[[en:lexicon:g5571|G5571]]
-[[en:lexicon:g3144|G3144]]
+  - [[en:lexicon:g5571|G5571]]
+  - [[en:lexicon:g3144|G3144]]

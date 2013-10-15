@@ -14,5 +14,5 @@ double, two-fold more.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1364|G1364]]
-[[en:lexicon:g4119|G4119]]
+  - [[en:lexicon:g1364|G1364]]
+  - [[en:lexicon:g4119|G4119]]

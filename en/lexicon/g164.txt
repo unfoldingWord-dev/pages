@@ -14,4 +14,4 @@ captive.
 
 ===== Strongs References =====
 
-[[en:lexicon:g259|G259]]
+  - [[en:lexicon:g259|G259]]

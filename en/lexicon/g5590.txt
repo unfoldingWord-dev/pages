@@ -14,9 +14,9 @@ heart (+ -ily), life, mind, soul, + us, + you.
 
 ===== Strongs References =====
 
-[[en:lexicon:g5594|G5594]]
-[[en:lexicon:g4151|G4151]]
-[[en:lexicon:g2222|G2222]]
-[[en:lexicon:h05315|H05315]]
-[[en:lexicon:h07307|H07307]]
-[[en:lexicon:h02416|H02416]]
+  - [[en:lexicon:g5594|G5594]]
+  - [[en:lexicon:g4151|G4151]]
+  - [[en:lexicon:g2222|G2222]]
+  - [[en:lexicon:h05315|H05315]]
+  - [[en:lexicon:h07307|H07307]]
+  - [[en:lexicon:h02416|H02416]]

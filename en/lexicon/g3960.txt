@@ -14,5 +14,5 @@ smite, strike.
 
 ===== Strongs References =====
 
-[[en:lexicon:g3817|G3817]]
-[[en:lexicon:g5180|G5180]]
+  - [[en:lexicon:g3817|G3817]]
+  - [[en:lexicon:g5180|G5180]]

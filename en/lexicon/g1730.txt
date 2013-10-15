@@ -14,4 +14,4 @@ manifest token.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1731|G1731]]
+  - [[en:lexicon:g1731|G1731]]

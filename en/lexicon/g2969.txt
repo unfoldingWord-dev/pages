@@ -14,5 +14,5 @@ town.
 
 ===== Strongs References =====
 
-[[en:lexicon:g2968|G2968]]
-[[en:lexicon:g4172|G4172]]
+  - [[en:lexicon:g2968|G2968]]
+  - [[en:lexicon:g4172|G4172]]

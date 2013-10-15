@@ -14,4 +14,4 @@ chaste, clean, pure.
 
 ===== Strongs References =====
 
-[[en:lexicon:g40|G40]]
+  - [[en:lexicon:g40|G40]]

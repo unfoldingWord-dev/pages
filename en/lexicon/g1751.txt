@@ -14,6 +14,6 @@ such things as … have.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1772|G1772]]
-[[en:lexicon:g1510|G1510]]
-[[en:lexicon:g1762|G1762]]
+  - [[en:lexicon:g1772|G1772]]
+  - [[en:lexicon:g1510|G1510]]
+  - [[en:lexicon:g1762|G1762]]

@@ -14,5 +14,5 @@ beg.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1909|G1909]]
-[[en:lexicon:g154|G154]]
+  - [[en:lexicon:g1909|G1909]]
+  - [[en:lexicon:g154|G154]]

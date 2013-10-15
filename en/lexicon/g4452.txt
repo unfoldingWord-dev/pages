@@ -14,9 +14,9 @@ an enclitic particle of indefiniteness; yet, even; used only in the comparative.
 
 ===== Strongs References =====
 
-[[en:lexicon:g4458|G4458]]
-[[en:lexicon:g3369|G3369]]
-[[en:lexicon:g3380|G3380]]
-[[en:lexicon:g3764|G3764]]
-[[en:lexicon:g3768|G3768]]
-[[en:lexicon:g4455|G4455]]
+  - [[en:lexicon:g4458|G4458]]
+  - [[en:lexicon:g3369|G3369]]
+  - [[en:lexicon:g3380|G3380]]
+  - [[en:lexicon:g3764|G3764]]
+  - [[en:lexicon:g3768|G3768]]
+  - [[en:lexicon:g4455|G4455]]

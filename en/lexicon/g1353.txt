@@ -14,5 +14,5 @@ go throughout, pass through.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1223|G1223]]
-[[en:lexicon:g3593|G3593]]
+  - [[en:lexicon:g1223|G1223]]
+  - [[en:lexicon:g3593|G3593]]

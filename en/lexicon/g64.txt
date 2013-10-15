@@ -14,4 +14,4 @@ catch.
 
 ===== Strongs References =====
 
-[[en:lexicon:g61|G61]]
+  - [[en:lexicon:g61|G61]]

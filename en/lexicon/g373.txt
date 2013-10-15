@@ -14,5 +14,5 @@ take ease, refresh, (give, take) rest.
 
 ===== Strongs References =====
 
-[[en:lexicon:g303|G303]]
-[[en:lexicon:g3973|G3973]]
+  - [[en:lexicon:g303|G303]]
+  - [[en:lexicon:g3973|G3973]]

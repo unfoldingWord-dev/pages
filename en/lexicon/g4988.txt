@@ -14,5 +14,5 @@ Sosthenes.
 
 ===== Strongs References =====
 
-[[en:lexicon:g4982|G4982]]
-[[en:lexicon:g4599|G4599]]
+  - [[en:lexicon:g4982|G4982]]
+  - [[en:lexicon:g4599|G4599]]

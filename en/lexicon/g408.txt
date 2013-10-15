@@ -14,5 +14,5 @@ Adronicus.
 
 ===== Strongs References =====
 
-[[en:lexicon:g435|G435]]
-[[en:lexicon:g3534|G3534]]
+  - [[en:lexicon:g435|G435]]
+  - [[en:lexicon:g3534|G3534]]

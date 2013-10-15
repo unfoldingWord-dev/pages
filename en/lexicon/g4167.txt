@@ -14,4 +14,4 @@ flock, fold.
 
 ===== Strongs References =====
 
-[[en:lexicon:g4165|G4165]]
+  - [[en:lexicon:g4165|G4165]]

@@ -14,6 +14,6 @@ wise(-r).
 
 ===== Strongs References =====
 
-[[en:lexicon:g5424|G5424]]
-[[en:lexicon:g4680|G4680]]
-[[en:lexicon:g4908|G4908]]
+  - [[en:lexicon:g5424|G5424]]
+  - [[en:lexicon:g4680|G4680]]
+  - [[en:lexicon:g4908|G4908]]

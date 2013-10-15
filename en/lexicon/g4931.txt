@@ -14,5 +14,5 @@ end, finish, fulfil, make.
 
 ===== Strongs References =====
 
-[[en:lexicon:g4862|G4862]]
-[[en:lexicon:g5055|G5055]]
+  - [[en:lexicon:g4862|G4862]]
+  - [[en:lexicon:g5055|G5055]]

@@ -14,5 +14,5 @@ brightness.
 
 ===== Strongs References =====
 
-[[en:lexicon:g575|G575]]
-[[en:lexicon:g826|G826]]
+  - [[en:lexicon:g575|G575]]
+  - [[en:lexicon:g826|G826]]

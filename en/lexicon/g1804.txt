@@ -14,5 +14,5 @@ shew forth.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1537|G1537]]
-[[en:lexicon:g32|G32]]
+  - [[en:lexicon:g1537|G1537]]
+  - [[en:lexicon:g32|G32]]

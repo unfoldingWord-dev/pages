@@ -14,5 +14,5 @@ gentle, moderation, patient.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1909|G1909]]
-[[en:lexicon:g1503|G1503]]
+  - [[en:lexicon:g1909|G1909]]
+  - [[en:lexicon:g1503|G1503]]

@@ -14,5 +14,5 @@ Nicopolis.
 
 ===== Strongs References =====
 
-[[en:lexicon:g3534|G3534]]
-[[en:lexicon:g4172|G4172]]
+  - [[en:lexicon:g3534|G3534]]
+  - [[en:lexicon:g4172|G4172]]

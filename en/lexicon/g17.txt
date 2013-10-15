@@ -14,5 +14,5 @@ them that do well.
 
 ===== Strongs References =====
 
-[[en:lexicon:g18|G18]]
-[[en:lexicon:g4160|G4160]]
+  - [[en:lexicon:g18|G18]]
+  - [[en:lexicon:g4160|G4160]]

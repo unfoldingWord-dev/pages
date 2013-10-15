@@ -14,5 +14,5 @@ lovely.
 
 ===== Strongs References =====
 
-[[en:lexicon:g4314|G4314]]
-[[en:lexicon:g5368|G5368]]
+  - [[en:lexicon:g4314|G4314]]
+  - [[en:lexicon:g5368|G5368]]

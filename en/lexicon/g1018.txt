@@ -14,4 +14,4 @@ rule.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1017|G1017]]
+  - [[en:lexicon:g1017|G1017]]

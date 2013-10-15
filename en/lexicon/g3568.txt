@@ -14,5 +14,5 @@ henceforth, + hereafter, of late, soon, present, this (time).
 
 ===== Strongs References =====
 
-[[en:lexicon:g3569|G3569]]
-[[en:lexicon:g3570|G3570]]
+  - [[en:lexicon:g3569|G3569]]
+  - [[en:lexicon:g3570|G3570]]

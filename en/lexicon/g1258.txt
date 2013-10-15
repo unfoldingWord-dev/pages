@@ -14,4 +14,4 @@ language, tongue.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1256|G1256]]
+  - [[en:lexicon:g1256|G1256]]

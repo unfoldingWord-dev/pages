@@ -14,4 +14,4 @@ beloved
 
 ===== Strongs References =====
 
-[[en:lexicon:g25|G25]]
+  - [[en:lexicon:g25|G25]]

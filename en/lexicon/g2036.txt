@@ -15,7 +15,7 @@ answer, bid, bring word, call, command, grant, say (on), speak, tell.
 
 ===== Strongs References =====
 
-[[en:lexicon:g2046|G2046]]
-[[en:lexicon:g4483|G4483]]
-[[en:lexicon:g5346|G5346]]
-[[en:lexicon:g3004|G3004]]
+  - [[en:lexicon:g2046|G2046]]
+  - [[en:lexicon:g4483|G4483]]
+  - [[en:lexicon:g5346|G5346]]
+  - [[en:lexicon:g3004|G3004]]

@@ -14,5 +14,5 @@ run down.
 
 ===== Strongs References =====
 
-[[en:lexicon:g2596|G2596]]
-[[en:lexicon:g5143|G5143]]
+  - [[en:lexicon:g2596|G2596]]
+  - [[en:lexicon:g5143|G5143]]

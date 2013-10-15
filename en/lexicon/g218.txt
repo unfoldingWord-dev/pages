@@ -14,5 +14,5 @@ anoint.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1|G1]]
-[[en:lexicon:g3045|G3045]]
+  - [[en:lexicon:g1|G1]]
+  - [[en:lexicon:g3045|G3045]]

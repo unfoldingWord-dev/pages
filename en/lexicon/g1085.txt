@@ -14,4 +14,4 @@ born, country(-man), diversity, generation, kind(-red), nation, offspring, stock
 
 ===== Strongs References =====
 
-[[en:lexicon:g1096|G1096]]
+  - [[en:lexicon:g1096|G1096]]

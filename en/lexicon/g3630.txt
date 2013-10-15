@@ -14,5 +14,5 @@ winebibber.
 
 ===== Strongs References =====
 
-[[en:lexicon:g3631|G3631]]
-[[en:lexicon:g4095|G4095]]
+  - [[en:lexicon:g3631|G3631]]
+  - [[en:lexicon:g4095|G4095]]

@@ -14,4 +14,4 @@ salt.
 
 ===== Strongs References =====
 
-[[en:lexicon:g251|G251]]
+  - [[en:lexicon:g251|G251]]

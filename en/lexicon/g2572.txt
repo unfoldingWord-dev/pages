@@ -14,5 +14,5 @@ cover, hide.
 
 ===== Strongs References =====
 
-[[en:lexicon:g2813|G2813]]
-[[en:lexicon:g2928|G2928]]
+  - [[en:lexicon:g2813|G2813]]
+  - [[en:lexicon:g2928|G2928]]

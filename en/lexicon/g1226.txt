@@ -14,5 +14,5 @@ affirm constantly.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1223|G1223]]
-[[en:lexicon:g950|G950]]
+  - [[en:lexicon:g1223|G1223]]
+  - [[en:lexicon:g950|G950]]

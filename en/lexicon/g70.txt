@@ -14,4 +14,4 @@ watch.
 
 ===== Strongs References =====
 
-[[en:lexicon:g69|G69]]
+  - [[en:lexicon:g69|G69]]

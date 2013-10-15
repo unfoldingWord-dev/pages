@@ -14,5 +14,5 @@ spread.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1223|G1223]]
-[[en:lexicon:g3551|G3551]]
+  - [[en:lexicon:g1223|G1223]]
+  - [[en:lexicon:g3551|G3551]]

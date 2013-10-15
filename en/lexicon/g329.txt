@@ -14,6 +14,6 @@ stir up.
 
 ===== Strongs References =====
 
-[[en:lexicon:g303|G303]]
-[[en:lexicon:g2226|G2226]]
-[[en:lexicon:g4442|G4442]]
+  - [[en:lexicon:g303|G303]]
+  - [[en:lexicon:g2226|G2226]]
+  - [[en:lexicon:g4442|G4442]]

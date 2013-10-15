@@ -14,5 +14,5 @@ rage.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1031|G1031]]
-[[en:lexicon:g1032|G1032]]
+  - [[en:lexicon:g1031|G1031]]
+  - [[en:lexicon:g1032|G1032]]

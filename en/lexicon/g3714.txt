@@ -14,5 +14,5 @@ hill country.
 
 ===== Strongs References =====
 
-[[en:lexicon:g3735|G3735]]
-[[en:lexicon:g5561|G5561]]
+  - [[en:lexicon:g3735|G3735]]
+  - [[en:lexicon:g5561|G5561]]

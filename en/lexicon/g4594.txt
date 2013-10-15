@@ -15,5 +15,5 @@ this (to-)day.
 
 ===== Strongs References =====
 
-[[en:lexicon:g3588|G3588]]
-[[en:lexicon:g2250|G2250]]
+  - [[en:lexicon:g3588|G3588]]
+  - [[en:lexicon:g2250|G2250]]

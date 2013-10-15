@@ -14,5 +14,5 @@ only (begotten, child).
 
 ===== Strongs References =====
 
-[[en:lexicon:g3441|G3441]]
-[[en:lexicon:g1096|G1096]]
+  - [[en:lexicon:g3441|G3441]]
+  - [[en:lexicon:g1096|G1096]]

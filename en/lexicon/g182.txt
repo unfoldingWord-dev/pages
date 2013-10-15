@@ -14,5 +14,5 @@ unstable.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1|G1]]
-[[en:lexicon:g2525|G2525]]
+  - [[en:lexicon:g1|G1]]
+  - [[en:lexicon:g2525|G2525]]

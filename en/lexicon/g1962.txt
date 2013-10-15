@@ -14,5 +14,5 @@ consent.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1909|G1909]]
-[[en:lexicon:g3506|G3506]]
+  - [[en:lexicon:g1909|G1909]]
+  - [[en:lexicon:g3506|G3506]]

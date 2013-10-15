@@ -14,5 +14,5 @@ Archippus.
 
 ===== Strongs References =====
 
-[[en:lexicon:g746|G746]]
-[[en:lexicon:g2462|G2462]]
+  - [[en:lexicon:g746|G746]]
+  - [[en:lexicon:g2462|G2462]]

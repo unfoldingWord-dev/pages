@@ -14,5 +14,5 @@ concision.
 
 ===== Strongs References =====
 
-[[en:lexicon:g2596|G2596]]
-[[en:lexicon:g609|G609]]
+  - [[en:lexicon:g2596|G2596]]
+  - [[en:lexicon:g609|G609]]

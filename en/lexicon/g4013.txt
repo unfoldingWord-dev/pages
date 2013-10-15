@@ -14,5 +14,5 @@ compass, go (round) about, lead about.
 
 ===== Strongs References =====
 
-[[en:lexicon:g4012|G4012]]
-[[en:lexicon:g71|G71]]
+  - [[en:lexicon:g4012|G4012]]
+  - [[en:lexicon:g71|G71]]

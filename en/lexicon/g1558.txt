@@ -14,5 +14,5 @@ a (re-)venger.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1537|G1537]]
-[[en:lexicon:g1349|G1349]]
+  - [[en:lexicon:g1537|G1537]]
+  - [[en:lexicon:g1349|G1349]]

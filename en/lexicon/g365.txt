@@ -14,5 +14,5 @@ renew.
 
 ===== Strongs References =====
 
-[[en:lexicon:g303|G303]]
-[[en:lexicon:g3501|G3501]]
+  - [[en:lexicon:g303|G303]]
+  - [[en:lexicon:g3501|G3501]]

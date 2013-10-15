@@ -14,5 +14,5 @@ lay, (make) sit down.
 
 ===== Strongs References =====
 
-[[en:lexicon:g303|G303]]
-[[en:lexicon:g2827|G2827]]
+  - [[en:lexicon:g303|G303]]
+  - [[en:lexicon:g2827|G2827]]

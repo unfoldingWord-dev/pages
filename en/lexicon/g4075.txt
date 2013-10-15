@@ -14,5 +14,5 @@ stony.
 
 ===== Strongs References =====
 
-[[en:lexicon:g4073|G4073]]
-[[en:lexicon:g1491|G1491]]
+  - [[en:lexicon:g4073|G4073]]
+  - [[en:lexicon:g1491|G1491]]

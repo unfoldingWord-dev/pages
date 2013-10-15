@@ -14,5 +14,5 @@ ointment.
 
 ===== Strongs References =====
 
-[[en:lexicon:h04753|H04753]]
-[[en:lexicon:g4666|G4666]]
+  - [[en:lexicon:h04753|H04753]]
+  - [[en:lexicon:g4666|G4666]]

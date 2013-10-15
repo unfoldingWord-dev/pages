@@ -14,5 +14,5 @@ till, (un-)to, until.
 
 ===== Strongs References =====
 
-[[en:lexicon:g3372|G3372]]
-[[en:lexicon:g891|G891]]
+  - [[en:lexicon:g3372|G3372]]
+  - [[en:lexicon:g891|G891]]

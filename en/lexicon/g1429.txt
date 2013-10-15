@@ -14,5 +14,5 @@ twelve tribes.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1427|G1427]]
-[[en:lexicon:g5443|G5443]]
+  - [[en:lexicon:g1427|G1427]]
+  - [[en:lexicon:g5443|G5443]]

@@ -14,5 +14,5 @@ Bethphage.
 
 ===== Strongs References =====
 
-[[en:lexicon:h01004|H01004]]
-[[en:lexicon:h06291|H06291]]
+  - [[en:lexicon:h01004|H01004]]
+  - [[en:lexicon:h06291|H06291]]

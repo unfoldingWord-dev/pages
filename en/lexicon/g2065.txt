@@ -14,6 +14,6 @@ ask, beseech, desire, intreat, pray.
 
 ===== Strongs References =====
 
-[[en:lexicon:g2046|G2046]]
-[[en:lexicon:g2045|G2045]]
-[[en:lexicon:g4441|G4441]]
+  - [[en:lexicon:g2046|G2046]]
+  - [[en:lexicon:g2045|G2045]]
+  - [[en:lexicon:g4441|G4441]]

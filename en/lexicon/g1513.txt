@@ -14,5 +14,5 @@ if by any means.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1487|G1487]]
-[[en:lexicon:g4458|G4458]]
+  - [[en:lexicon:g1487|G1487]]
+  - [[en:lexicon:g4458|G4458]]

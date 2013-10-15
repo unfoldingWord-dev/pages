@@ -15,5 +15,5 @@ which no man can approach.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1|G1]]
-[[en:lexicon:g4314|G4314]]
+  - [[en:lexicon:g1|G1]]
+  - [[en:lexicon:g4314|G4314]]

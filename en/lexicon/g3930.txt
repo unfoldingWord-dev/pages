@@ -14,5 +14,5 @@ bring, do, give, keep, minister, offer, shew, + trouble.
 
 ===== Strongs References =====
 
-[[en:lexicon:g3844|G3844]]
-[[en:lexicon:g2192|G2192]]
+  - [[en:lexicon:g3844|G3844]]
+  - [[en:lexicon:g2192|G2192]]

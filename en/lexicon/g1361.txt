@@ -14,5 +14,5 @@ Diotrephes.
 
 ===== Strongs References =====
 
-[[en:lexicon:g2203|G2203]]
-[[en:lexicon:g5142|G5142]]
+  - [[en:lexicon:g2203|G2203]]
+  - [[en:lexicon:g5142|G5142]]

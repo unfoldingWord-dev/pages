@@ -14,5 +14,5 @@ and a derivative of
 
 ===== Strongs References =====
 
-[[en:lexicon:g2360|G2360]]
-[[en:lexicon:g680|G680]]
+  - [[en:lexicon:g2360|G2360]]
+  - [[en:lexicon:g680|G680]]

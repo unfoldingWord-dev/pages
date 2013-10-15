@@ -14,5 +14,5 @@ false prophet.
 
 ===== Strongs References =====
 
-[[en:lexicon:g5571|G5571]]
-[[en:lexicon:g4396|G4396]]
+  - [[en:lexicon:g5571|G5571]]
+  - [[en:lexicon:g4396|G4396]]

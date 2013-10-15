@@ -14,4 +14,4 @@ coast, licence, place, X plain, quarter, + rock, room, where.
 
 ===== Strongs References =====
 
-[[en:lexicon:g5561|G5561]]
+  - [[en:lexicon:g5561|G5561]]

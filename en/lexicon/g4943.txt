@@ -14,6 +14,6 @@ help together.
 
 ===== Strongs References =====
 
-[[en:lexicon:g4862|G4862]]
-[[en:lexicon:g5259|G5259]]
-[[en:lexicon:g2041|G2041]]
+  - [[en:lexicon:g4862|G4862]]
+  - [[en:lexicon:g5259|G5259]]
+  - [[en:lexicon:g2041|G2041]]

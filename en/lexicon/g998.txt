@@ -14,4 +14,4 @@ helper.
 
 ===== Strongs References =====
 
-[[en:lexicon:g995|G995]]
+  - [[en:lexicon:g995|G995]]

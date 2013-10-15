@@ -14,5 +14,5 @@ Nicolaus.
 
 ===== Strongs References =====
 
-[[en:lexicon:g3534|G3534]]
-[[en:lexicon:g2992|G2992]]
+  - [[en:lexicon:g3534|G3534]]
+  - [[en:lexicon:g2992|G2992]]

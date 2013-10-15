@@ -14,5 +14,5 @@ babbler.
 
 ===== Strongs References =====
 
-[[en:lexicon:g4690|G4690]]
-[[en:lexicon:g3004|G3004]]
+  - [[en:lexicon:g4690|G4690]]
+  - [[en:lexicon:g3004|G3004]]

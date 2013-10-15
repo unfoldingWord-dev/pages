@@ -14,5 +14,5 @@ answer.
 
 ===== Strongs References =====
 
-[[en:lexicon:g575|G575]]
-[[en:lexicon:h06030|H06030]]
+  - [[en:lexicon:g575|G575]]
+  - [[en:lexicon:h06030|H06030]]

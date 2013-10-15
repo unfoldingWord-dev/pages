@@ -14,6 +14,6 @@ Pamphylia.
 
 ===== Strongs References =====
 
-[[en:lexicon:g3956|G3956]]
-[[en:lexicon:g4443|G4443]]
-[[en:lexicon:g5561|G5561]]
+  - [[en:lexicon:g3956|G3956]]
+  - [[en:lexicon:g4443|G4443]]
+  - [[en:lexicon:g5561|G5561]]

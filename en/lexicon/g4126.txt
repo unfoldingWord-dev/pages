@@ -15,5 +15,5 @@ sail.
 
 ===== Strongs References =====
 
-[[en:lexicon:g4150|G4150]]
-[[en:lexicon:g4130|G4130]]
+  - [[en:lexicon:g4150|G4150]]
+  - [[en:lexicon:g4130|G4130]]

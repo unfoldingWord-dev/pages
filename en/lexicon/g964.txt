@@ -14,5 +14,5 @@ Bethesda.
 
 ===== Strongs References =====
 
-[[en:lexicon:h01004|H01004]]
-[[en:lexicon:h02617|H02617]]
+  - [[en:lexicon:h01004|H01004]]
+  - [[en:lexicon:h02617|H02617]]

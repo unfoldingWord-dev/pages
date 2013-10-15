@@ -14,4 +14,4 @@ folly, foolishly(-ness).
 
 ===== Strongs References =====
 
-[[en:lexicon:g878|G878]]
+  - [[en:lexicon:g878|G878]]

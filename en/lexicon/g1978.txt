@@ -14,5 +14,5 @@ notable, of note.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1909|G1909]]
-[[en:lexicon:g4591|G4591]]
+  - [[en:lexicon:g1909|G1909]]
+  - [[en:lexicon:g4591|G4591]]

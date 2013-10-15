@@ -14,4 +14,4 @@ little book.
 
 ===== Strongs References =====
 
-[[en:lexicon:g975|G975]]
+  - [[en:lexicon:g975|G975]]

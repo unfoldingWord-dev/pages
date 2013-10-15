@@ -14,5 +14,5 @@ all (whole) armour.
 
 ===== Strongs References =====
 
-[[en:lexicon:g3956|G3956]]
-[[en:lexicon:g3696|G3696]]
+  - [[en:lexicon:g3956|G3956]]
+  - [[en:lexicon:g3696|G3696]]

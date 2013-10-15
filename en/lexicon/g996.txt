@@ -14,4 +14,4 @@ help.
 
 ===== Strongs References =====
 
-[[en:lexicon:g998|G998]]
+  - [[en:lexicon:g998|G998]]

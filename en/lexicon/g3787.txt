@@ -14,5 +14,5 @@ eye-service.
 
 ===== Strongs References =====
 
-[[en:lexicon:g3788|G3788]]
-[[en:lexicon:g1397|G1397]]
+  - [[en:lexicon:g3788|G3788]]
+  - [[en:lexicon:g1397|G1397]]

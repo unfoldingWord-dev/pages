@@ -14,5 +14,5 @@ clearly.
 
 ===== Strongs References =====
 
-[[en:lexicon:g5056|G5056]]
-[[en:lexicon:g827|G827]]
+  - [[en:lexicon:g5056|G5056]]
+  - [[en:lexicon:g827|G827]]

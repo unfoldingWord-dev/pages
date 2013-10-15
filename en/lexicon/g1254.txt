@@ -14,5 +14,5 @@ forbid.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1223|G1223]]
-[[en:lexicon:g2967|G2967]]
+  - [[en:lexicon:g1223|G1223]]
+  - [[en:lexicon:g2967|G2967]]

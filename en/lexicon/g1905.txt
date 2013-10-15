@@ -14,5 +14,5 @@ ask (after, questions), demand, desire, question.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1909|G1909]]
-[[en:lexicon:g2065|G2065]]
+  - [[en:lexicon:g1909|G1909]]
+  - [[en:lexicon:g2065|G2065]]

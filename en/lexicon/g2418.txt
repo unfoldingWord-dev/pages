@@ -14,5 +14,5 @@ minister.
 
 ===== Strongs References =====
 
-[[en:lexicon:g2411|G2411]]
-[[en:lexicon:g2041|G2041]]
+  - [[en:lexicon:g2411|G2411]]
+  - [[en:lexicon:g2041|G2041]]

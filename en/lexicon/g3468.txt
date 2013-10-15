@@ -14,5 +14,5 @@ stripe.
 
 ===== Strongs References =====
 
-[[en:lexicon:g3433|G3433]]
-[[en:lexicon:g3700|G3700]]
+  - [[en:lexicon:g3433|G3433]]
+  - [[en:lexicon:g3700|G3700]]

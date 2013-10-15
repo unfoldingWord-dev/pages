@@ -14,4 +14,4 @@ end.
 
 ===== Strongs References =====
 
-[[en:lexicon:g4931|G4931]]
+  - [[en:lexicon:g4931|G4931]]

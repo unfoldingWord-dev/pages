@@ -14,5 +14,5 @@ platter.
 
 ===== Strongs References =====
 
-[[en:lexicon:g3844|G3844]]
-[[en:lexicon:g3795|G3795]]
+  - [[en:lexicon:g3844|G3844]]
+  - [[en:lexicon:g3795|G3795]]

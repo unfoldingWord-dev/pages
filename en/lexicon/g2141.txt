@@ -14,5 +14,5 @@ ability.
 
 ===== Strongs References =====
 
-[[en:lexicon:g2090|G2090]]
-[[en:lexicon:g4197|G4197]]
+  - [[en:lexicon:g2090|G2090]]
+  - [[en:lexicon:g4197|G4197]]

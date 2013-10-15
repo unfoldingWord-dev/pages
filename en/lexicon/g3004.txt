@@ -14,7 +14,7 @@ ask, bid, boast, call, describe, give out, name, put forth, say(-ing, on), shew,
 
 ===== Strongs References =====
 
-[[en:lexicon:g2036|G2036]]
-[[en:lexicon:g5346|G5346]]
-[[en:lexicon:g4483|G4483]]
-[[en:lexicon:g2980|G2980]]
+  - [[en:lexicon:g2036|G2036]]
+  - [[en:lexicon:g5346|G5346]]
+  - [[en:lexicon:g4483|G4483]]
+  - [[en:lexicon:g2980|G2980]]

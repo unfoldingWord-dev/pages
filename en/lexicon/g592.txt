@@ -14,6 +14,6 @@ separate.
 
 ===== Strongs References =====
 
-[[en:lexicon:g575|G575]]
-[[en:lexicon:g1223|G1223]]
-[[en:lexicon:g3724|G3724]]
+  - [[en:lexicon:g575|G575]]
+  - [[en:lexicon:g1223|G1223]]
+  - [[en:lexicon:g3724|G3724]]

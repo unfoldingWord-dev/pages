@@ -14,5 +14,5 @@ redeem.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1537|G1537]]
-[[en:lexicon:g59|G59]]
+  - [[en:lexicon:g1537|G1537]]
+  - [[en:lexicon:g59|G59]]

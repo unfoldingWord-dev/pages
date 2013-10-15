@@ -14,5 +14,5 @@ Barjesus.
 
 ===== Strongs References =====
 
-[[en:lexicon:h01247|H01247]]
-[[en:lexicon:h03091|H03091]]
+  - [[en:lexicon:h01247|H01247]]
+  - [[en:lexicon:h03091|H03091]]

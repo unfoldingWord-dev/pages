@@ -14,5 +14,5 @@ false brethren.
 
 ===== Strongs References =====
 
-[[en:lexicon:g5571|G5571]]
-[[en:lexicon:g80|G80]]
+  - [[en:lexicon:g5571|G5571]]
+  - [[en:lexicon:g80|G80]]

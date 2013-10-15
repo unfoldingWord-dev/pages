@@ -14,5 +14,5 @@ compass round.
 
 ===== Strongs References =====
 
-[[en:lexicon:g4012|G4012]]
-[[en:lexicon:g2944|G2944]]
+  - [[en:lexicon:g4012|G4012]]
+  - [[en:lexicon:g2944|G2944]]

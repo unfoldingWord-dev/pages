@@ -14,5 +14,5 @@ Agrippa.
 
 ===== Strongs References =====
 
-[[en:lexicon:g66|G66]]
-[[en:lexicon:g2462|G2462]]
+  - [[en:lexicon:g66|G66]]
+  - [[en:lexicon:g2462|G2462]]

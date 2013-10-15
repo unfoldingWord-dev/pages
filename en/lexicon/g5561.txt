@@ -15,5 +15,5 @@ coast, county, fields, ground, land, region.
 
 ===== Strongs References =====
 
-[[en:lexicon:g5117|G5117]]
-[[en:lexicon:g5490|G5490]]
+  - [[en:lexicon:g5117|G5117]]
+  - [[en:lexicon:g5490|G5490]]

@@ -14,4 +14,4 @@ age, stature.
 
 ===== Strongs References =====
 
-[[en:lexicon:g2245|G2245]]
+  - [[en:lexicon:g2245|G2245]]

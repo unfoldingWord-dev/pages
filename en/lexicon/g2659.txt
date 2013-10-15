@@ -14,6 +14,6 @@ slumber.
 
 ===== Strongs References =====
 
-[[en:lexicon:g2660|G2660]]
-[[en:lexicon:g3506|G3506]]
-[[en:lexicon:g3571|G3571]]
+  - [[en:lexicon:g2660|G2660]]
+  - [[en:lexicon:g3506|G3506]]
+  - [[en:lexicon:g3571|G3571]]

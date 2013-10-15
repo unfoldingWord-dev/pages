@@ -14,5 +14,5 @@ observe, watch.
 
 ===== Strongs References =====
 
-[[en:lexicon:g3844|G3844]]
-[[en:lexicon:g5083|G5083]]
+  - [[en:lexicon:g3844|G3844]]
+  - [[en:lexicon:g5083|G5083]]

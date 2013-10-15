@@ -14,6 +14,6 @@ there-(where-)fore.
 
 ===== Strongs References =====
 
-[[en:lexicon:g5104|G5104]]
-[[en:lexicon:g1063|G1063]]
-[[en:lexicon:g3767|G3767]]
+  - [[en:lexicon:g5104|G5104]]
+  - [[en:lexicon:g1063|G1063]]
+  - [[en:lexicon:g3767|G3767]]

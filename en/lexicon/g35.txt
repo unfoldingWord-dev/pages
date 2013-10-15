@@ -14,5 +14,5 @@ without descent.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1|G1]]
-[[en:lexicon:g1075|G1075]]
+  - [[en:lexicon:g1|G1]]
+  - [[en:lexicon:g1075|G1075]]

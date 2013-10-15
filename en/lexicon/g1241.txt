@@ -14,5 +14,5 @@ gird.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1223|G1223]]
-[[en:lexicon:g2224|G2224]]
+  - [[en:lexicon:g1223|G1223]]
+  - [[en:lexicon:g2224|G2224]]

@@ -14,4 +14,4 @@ profane.
 
 ===== Strongs References =====
 
-[[en:lexicon:g952|G952]]
+  - [[en:lexicon:g952|G952]]

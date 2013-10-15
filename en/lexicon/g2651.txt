@@ -15,6 +15,6 @@ alone.
 
 ===== Strongs References =====
 
-[[en:lexicon:g2596|G2596]]
-[[en:lexicon:g3441|G3441]]
-[[en:lexicon:g5561|G5561]]
+  - [[en:lexicon:g2596|G2596]]
+  - [[en:lexicon:g3441|G3441]]
+  - [[en:lexicon:g5561|G5561]]

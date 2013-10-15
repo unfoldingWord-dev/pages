@@ -14,5 +14,5 @@ trouble.
 
 ===== Strongs References =====
 
-[[en:lexicon:g3844|G3844]]
-[[en:lexicon:g1776|G1776]]
+  - [[en:lexicon:g3844|G3844]]
+  - [[en:lexicon:g1776|G1776]]

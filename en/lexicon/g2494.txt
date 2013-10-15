@@ -14,5 +14,5 @@ Jonan.
 
 ===== Strongs References =====
 
-[[en:lexicon:g2491|G2491]]
-[[en:lexicon:g2495|G2495]]
+  - [[en:lexicon:g2491|G2491]]
+  - [[en:lexicon:g2495|G2495]]

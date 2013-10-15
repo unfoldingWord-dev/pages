@@ -14,5 +14,5 @@ Patrobas.
 
 ===== Strongs References =====
 
-[[en:lexicon:g3962|G3962]]
-[[en:lexicon:g979|G979]]
+  - [[en:lexicon:g3962|G3962]]
+  - [[en:lexicon:g979|G979]]

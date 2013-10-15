@@ -14,5 +14,5 @@ life(-time).
 
 ===== Strongs References =====
 
-[[en:lexicon:g2198|G2198]]
-[[en:lexicon:g5590|G5590]]
+  - [[en:lexicon:g2198|G2198]]
+  - [[en:lexicon:g5590|G5590]]

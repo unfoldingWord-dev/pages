@@ -14,4 +14,4 @@ eased, liberty, rest.
 
 ===== Strongs References =====
 
-[[en:lexicon:g447|G447]]
+  - [[en:lexicon:g447|G447]]

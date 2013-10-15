@@ -14,5 +14,5 @@ smite.
 
 ===== Strongs References =====
 
-[[en:lexicon:g5180|G5180]]
-[[en:lexicon:g4111|G4111]]
+  - [[en:lexicon:g5180|G5180]]
+  - [[en:lexicon:g4111|G4111]]

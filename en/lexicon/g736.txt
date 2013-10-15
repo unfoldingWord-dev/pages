@@ -14,6 +14,6 @@ mainsail.
 
 ===== Strongs References =====
 
-[[en:lexicon:g737|G737]]
-[[en:lexicon:g142|G142]]
-[[en:lexicon:g740|G740]]
+  - [[en:lexicon:g737|G737]]
+  - [[en:lexicon:g142|G142]]
+  - [[en:lexicon:g740|G740]]

@@ -14,4 +14,4 @@ use sorcery.
 
 ===== Strongs References =====
 
-[[en:lexicon:g3097|G3097]]
+  - [[en:lexicon:g3097|G3097]]

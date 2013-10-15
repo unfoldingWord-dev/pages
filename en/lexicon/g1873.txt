@@ -14,5 +14,5 @@ hear.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1909|G1909]]
-[[en:lexicon:g191|G191]]
+  - [[en:lexicon:g1909|G1909]]
+  - [[en:lexicon:g191|G191]]

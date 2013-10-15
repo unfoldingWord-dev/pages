@@ -14,5 +14,5 @@ Judah.
 
 ===== Strongs References =====
 
-[[en:lexicon:h03063|H03063]]
-[[en:lexicon:h03194|H03194]]
+  - [[en:lexicon:h03063|H03063]]
+  - [[en:lexicon:h03194|H03194]]

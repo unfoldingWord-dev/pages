@@ -15,4 +15,4 @@ create, Creator, make.
 
 ===== Strongs References =====
 
-[[en:lexicon:g2932|G2932]]
+  - [[en:lexicon:g2932|G2932]]

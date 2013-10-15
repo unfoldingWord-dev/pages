@@ -14,5 +14,5 @@ Eubulus.
 
 ===== Strongs References =====
 
-[[en:lexicon:g2095|G2095]]
-[[en:lexicon:g1014|G1014]]
+  - [[en:lexicon:g2095|G2095]]
+  - [[en:lexicon:g1014|G1014]]

@@ -14,5 +14,5 @@ second … after the first.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1208|G1208]]
-[[en:lexicon:g4413|G4413]]
+  - [[en:lexicon:g1208|G1208]]
+  - [[en:lexicon:g4413|G4413]]

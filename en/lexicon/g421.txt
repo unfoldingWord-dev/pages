@@ -15,6 +15,6 @@ past finding out; unsearchable.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1|G1]]
-[[en:lexicon:g1537|G1537]]
-[[en:lexicon:g2487|G2487]]
+  - [[en:lexicon:g1|G1]]
+  - [[en:lexicon:g1537|G1537]]
+  - [[en:lexicon:g2487|G2487]]

@@ -14,5 +14,5 @@ certain, man.
 
 ===== Strongs References =====
 
-[[en:lexicon:g435|G435]]
-[[en:lexicon:g3700|G3700]]
+  - [[en:lexicon:g435|G435]]
+  - [[en:lexicon:g3700|G3700]]

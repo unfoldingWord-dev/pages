@@ -14,4 +14,4 @@ goodness.
 
 ===== Strongs References =====
 
-[[en:lexicon:g18|G18]]
+  - [[en:lexicon:g18|G18]]

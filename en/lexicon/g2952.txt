@@ -14,4 +14,4 @@ dog.
 
 ===== Strongs References =====
 
-[[en:lexicon:g2965|G2965]]
+  - [[en:lexicon:g2965|G2965]]

@@ -14,5 +14,5 @@ defer.
 
 ===== Strongs References =====
 
-[[en:lexicon:g303|G303]]
-[[en:lexicon:g906|G906]]
+  - [[en:lexicon:g303|G303]]
+  - [[en:lexicon:g906|G906]]

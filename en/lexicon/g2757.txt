@@ -14,5 +14,5 @@ vain.
 
 ===== Strongs References =====
 
-[[en:lexicon:g2756|G2756]]
-[[en:lexicon:g5456|G5456]]
+  - [[en:lexicon:g2756|G2756]]
+  - [[en:lexicon:g5456|G5456]]

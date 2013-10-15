@@ -14,5 +14,5 @@ bank, meat, table.
 
 ===== Strongs References =====
 
-[[en:lexicon:g5064|G5064]]
-[[en:lexicon:g3979|G3979]]
+  - [[en:lexicon:g5064|G5064]]
+  - [[en:lexicon:g3979|G3979]]

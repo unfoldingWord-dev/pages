@@ -14,5 +14,5 @@ reveal.
 
 ===== Strongs References =====
 
-[[en:lexicon:g575|G575]]
-[[en:lexicon:g2572|G2572]]
+  - [[en:lexicon:g575|G575]]
+  - [[en:lexicon:g2572|G2572]]

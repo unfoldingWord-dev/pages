@@ -14,5 +14,5 @@ whether.
 
 ===== Strongs References =====
 
-[[en:lexicon:g2228|G2228]]
-[[en:lexicon:g5104|G5104]]
+  - [[en:lexicon:g2228|G2228]]
+  - [[en:lexicon:g5104|G5104]]

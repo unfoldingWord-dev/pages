@@ -14,5 +14,5 @@ which cannot be moved, unmovable.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1|G1]]
-[[en:lexicon:g4531|G4531]]
+  - [[en:lexicon:g1|G1]]
+  - [[en:lexicon:g4531|G4531]]

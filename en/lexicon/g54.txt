@@ -14,4 +14,4 @@ pureness.
 
 ===== Strongs References =====
 
-[[en:lexicon:g53|G53]]
+  - [[en:lexicon:g53|G53]]

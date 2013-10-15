@@ -14,5 +14,5 @@ contrariwise.
 
 ===== Strongs References =====
 
-[[en:lexicon:g3588|G3588]]
-[[en:lexicon:g1726|G1726]]
+  - [[en:lexicon:g3588|G3588]]
+  - [[en:lexicon:g1726|G1726]]

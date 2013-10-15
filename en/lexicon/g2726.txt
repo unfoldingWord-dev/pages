@@ -15,5 +15,5 @@ heaviness.
 
 ===== Strongs References =====
 
-[[en:lexicon:g2596|G2596]]
-[[en:lexicon:g5316|G5316]]
+  - [[en:lexicon:g2596|G2596]]
+  - [[en:lexicon:g5316|G5316]]

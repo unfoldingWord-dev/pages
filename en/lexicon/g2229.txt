@@ -15,5 +15,5 @@ surely.
 
 ===== Strongs References =====
 
-[[en:lexicon:g2228|G2228]]
-[[en:lexicon:g3303|G3303]]
+  - [[en:lexicon:g2228|G2228]]
+  - [[en:lexicon:g3303|G3303]]

@@ -14,6 +14,6 @@ Mesopotamia.
 
 ===== Strongs References =====
 
-[[en:lexicon:g3319|G3319]]
-[[en:lexicon:g4215|G4215]]
-[[en:lexicon:h0763|H0763]]
+  - [[en:lexicon:g3319|G3319]]
+  - [[en:lexicon:g4215|G4215]]
+  - [[en:lexicon:h0763|H0763]]

@@ -14,5 +14,5 @@ without fear.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1|G1]]
-[[en:lexicon:g5401|G5401]]
+  - [[en:lexicon:g1|G1]]
+  - [[en:lexicon:g5401|G5401]]

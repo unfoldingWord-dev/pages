@@ -14,5 +14,5 @@ speak.
 
 ===== Strongs References =====
 
-[[en:lexicon:g5346|G5346]]
-[[en:lexicon:g5338|G5338]]
+  - [[en:lexicon:g5346|G5346]]
+  - [[en:lexicon:g5338|G5338]]

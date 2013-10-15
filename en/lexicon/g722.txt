@@ -14,4 +14,4 @@ plough.
 
 ===== Strongs References =====
 
-[[en:lexicon:g723|G723]]
+  - [[en:lexicon:g723|G723]]

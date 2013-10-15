@@ -14,5 +14,5 @@ as far as, for, in(-to), till, (even, un-)to, until, while.
 
 ===== Strongs References =====
 
-[[en:lexicon:g206|G206]]
-[[en:lexicon:g3360|G3360]]
+  - [[en:lexicon:g206|G206]]
+  - [[en:lexicon:g3360|G3360]]

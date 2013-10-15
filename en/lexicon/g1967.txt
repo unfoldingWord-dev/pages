@@ -14,6 +14,6 @@ daily.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1966|G1966]]
-[[en:lexicon:g1909|G1909]]
-[[en:lexicon:g1510|G1510]]
+  - [[en:lexicon:g1966|G1966]]
+  - [[en:lexicon:g1909|G1909]]
+  - [[en:lexicon:g1510|G1510]]

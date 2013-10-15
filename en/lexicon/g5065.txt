@@ -14,6 +14,6 @@ fourteenth.
 
 ===== Strongs References =====
 
-[[en:lexicon:g5064|G5064]]
-[[en:lexicon:g2532|G2532]]
-[[en:lexicon:g1182|G1182]]
+  - [[en:lexicon:g5064|G5064]]
+  - [[en:lexicon:g2532|G2532]]
+  - [[en:lexicon:g1182|G1182]]

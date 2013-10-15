@@ -14,4 +14,4 @@ deep(-ness, things), depth.
 
 ===== Strongs References =====
 
-[[en:lexicon:g901|G901]]
+  - [[en:lexicon:g901|G901]]

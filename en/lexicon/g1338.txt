@@ -14,5 +14,5 @@ pierce.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1223|G1223]]
-[[en:lexicon:g2425|G2425]]
+  - [[en:lexicon:g1223|G1223]]
+  - [[en:lexicon:g2425|G2425]]

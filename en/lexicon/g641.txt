@@ -14,5 +14,5 @@ cast.
 
 ===== Strongs References =====
 
-[[en:lexicon:g575|G575]]
-[[en:lexicon:g4496|G4496]]
+  - [[en:lexicon:g575|G575]]
+  - [[en:lexicon:g4496|G4496]]

@@ -14,5 +14,5 @@ stone.
 
 ===== Strongs References =====
 
-[[en:lexicon:g2596|G2596]]
-[[en:lexicon:g3034|G3034]]
+  - [[en:lexicon:g2596|G2596]]
+  - [[en:lexicon:g3034|G3034]]

@@ -14,5 +14,5 @@ pass, sail by.
 
 ===== Strongs References =====
 
-[[en:lexicon:g3844|G3844]]
-[[en:lexicon:g3004|G3004]]
+  - [[en:lexicon:g3844|G3844]]
+  - [[en:lexicon:g3004|G3004]]

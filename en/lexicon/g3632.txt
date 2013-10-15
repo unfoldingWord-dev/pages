@@ -14,5 +14,5 @@ excess of wine.
 
 ===== Strongs References =====
 
-[[en:lexicon:g3631|G3631]]
-[[en:lexicon:g5397|G5397]]
+  - [[en:lexicon:g3631|G3631]]
+  - [[en:lexicon:g5397|G5397]]

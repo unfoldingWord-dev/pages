@@ -14,5 +14,5 @@ convince.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1537|G1537]]
-[[en:lexicon:g1651|G1651]]
+  - [[en:lexicon:g1537|G1537]]
+  - [[en:lexicon:g1651|G1651]]

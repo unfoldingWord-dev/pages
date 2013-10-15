@@ -14,5 +14,5 @@ resist, withstand.
 
 ===== Strongs References =====
 
-[[en:lexicon:g473|G473]]
-[[en:lexicon:g2476|G2476]]
+  - [[en:lexicon:g473|G473]]
+  - [[en:lexicon:g2476|G2476]]

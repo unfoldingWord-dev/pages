@@ -14,5 +14,5 @@ curse.
 
 ===== Strongs References =====
 
-[[en:lexicon:g2596|G2596]]
-[[en:lexicon:g332|G332]]
+  - [[en:lexicon:g2596|G2596]]
+  - [[en:lexicon:g332|G332]]

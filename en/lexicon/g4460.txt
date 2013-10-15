@@ -14,5 +14,5 @@ Rahab.
 
 ===== Strongs References =====
 
-[[en:lexicon:h7343|H7343]]
-[[en:lexicon:g4477|G4477]]
+  - [[en:lexicon:h7343|H7343]]
+  - [[en:lexicon:g4477|G4477]]

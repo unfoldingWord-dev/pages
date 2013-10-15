@@ -14,5 +14,5 @@ depart, return.
 
 ===== Strongs References =====
 
-[[en:lexicon:g303|G303]]
-[[en:lexicon:g3089|G3089]]
+  - [[en:lexicon:g303|G303]]
+  - [[en:lexicon:g3089|G3089]]

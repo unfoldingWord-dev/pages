@@ -14,4 +14,4 @@ make havock of.
 
 ===== Strongs References =====
 
-[[en:lexicon:g3089|G3089]]
+  - [[en:lexicon:g3089|G3089]]

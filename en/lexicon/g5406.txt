@@ -14,6 +14,6 @@ murderer.
 
 ===== Strongs References =====
 
-[[en:lexicon:g5408|G5408]]
-[[en:lexicon:g443|G443]]
-[[en:lexicon:g4607|G4607]]
+  - [[en:lexicon:g5408|G5408]]
+  - [[en:lexicon:g443|G443]]
+  - [[en:lexicon:g4607|G4607]]

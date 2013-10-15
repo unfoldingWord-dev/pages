@@ -14,5 +14,5 @@ charge, command, injoin.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1909|G1909]]
-[[en:lexicon:g5021|G5021]]
+  - [[en:lexicon:g1909|G1909]]
+  - [[en:lexicon:g5021|G5021]]

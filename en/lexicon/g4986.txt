@@ -14,6 +14,6 @@ Sopater.
 
 ===== Strongs References =====
 
-[[en:lexicon:g4982|G4982]]
-[[en:lexicon:g3962|G3962]]
-[[en:lexicon:g4989|G4989]]
+  - [[en:lexicon:g4982|G4982]]
+  - [[en:lexicon:g3962|G3962]]
+  - [[en:lexicon:g4989|G4989]]

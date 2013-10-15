@@ -14,5 +14,5 @@ have course, run.
 
 ===== Strongs References =====
 
-[[en:lexicon:g2359|G2359]]
-[[en:lexicon:g1408|G1408]]
+  - [[en:lexicon:g2359|G2359]]
+  - [[en:lexicon:g1408|G1408]]

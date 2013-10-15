@@ -14,4 +14,4 @@ Phalec.
 
 ===== Strongs References =====
 
-[[en:lexicon:h06389|H06389]]
+  - [[en:lexicon:h06389|H06389]]

@@ -14,5 +14,5 @@ regeneration.
 
 ===== Strongs References =====
 
-[[en:lexicon:g3825|G3825]]
-[[en:lexicon:g1078|G1078]]
+  - [[en:lexicon:g3825|G3825]]
+  - [[en:lexicon:g1078|G1078]]

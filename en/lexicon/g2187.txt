@@ -14,5 +14,5 @@ Ephraim.
 
 ===== Strongs References =====
 
-[[en:lexicon:h0669|H0669]]
-[[en:lexicon:h06085|H06085]]
+  - [[en:lexicon:h0669|H0669]]
+  - [[en:lexicon:h06085|H06085]]

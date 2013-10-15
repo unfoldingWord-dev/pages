@@ -14,5 +14,5 @@ terrify.
 
 ===== Strongs References =====
 
-[[en:lexicon:g4429|G4429]]
-[[en:lexicon:g4422|G4422]]
+  - [[en:lexicon:g4429|G4429]]
+  - [[en:lexicon:g4422|G4422]]

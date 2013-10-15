@@ -14,4 +14,4 @@ bond(-man), servant.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1210|G1210]]
+  - [[en:lexicon:g1210|G1210]]

@@ -14,5 +14,5 @@ twelve.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1417|G1417]]
-[[en:lexicon:g1176|G1176]]
+  - [[en:lexicon:g1417|G1417]]
+  - [[en:lexicon:g1176|G1176]]

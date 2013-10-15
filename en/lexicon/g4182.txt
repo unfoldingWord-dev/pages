@@ -14,5 +14,5 @@ manifold.
 
 ===== Strongs References =====
 
-[[en:lexicon:g4183|G4183]]
-[[en:lexicon:g4164|G4164]]
+  - [[en:lexicon:g4183|G4183]]
+  - [[en:lexicon:g4164|G4164]]

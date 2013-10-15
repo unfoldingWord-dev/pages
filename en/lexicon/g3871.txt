@@ -14,5 +14,5 @@ hide.
 
 ===== Strongs References =====
 
-[[en:lexicon:g3844|G3844]]
-[[en:lexicon:g2572|G2572]]
+  - [[en:lexicon:g3844|G3844]]
+  - [[en:lexicon:g2572|G2572]]

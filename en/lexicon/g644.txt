@@ -14,5 +14,5 @@ shadow.
 
 ===== Strongs References =====
 
-[[en:lexicon:g575|G575]]
-[[en:lexicon:g4639|G4639]]
+  - [[en:lexicon:g575|G575]]
+  - [[en:lexicon:g4639|G4639]]

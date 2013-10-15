@@ -14,5 +14,5 @@ bind, be in bonds, knit, tie, wind.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1163|G1163]]
-[[en:lexicon:g1189|G1189]]
+  - [[en:lexicon:g1163|G1163]]
+  - [[en:lexicon:g1189|G1189]]

@@ -14,5 +14,5 @@ Capernaum.
 
 ===== Strongs References =====
 
-[[en:lexicon:h03723|H03723]]
-[[en:lexicon:h05151|H05151]]
+  - [[en:lexicon:h03723|H03723]]
+  - [[en:lexicon:h05151|H05151]]

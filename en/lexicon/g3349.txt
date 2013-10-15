@@ -15,6 +15,6 @@ be of doubtful mind.
 
 ===== Strongs References =====
 
-[[en:lexicon:g3326|G3326]]
-[[en:lexicon:g142|G142]]
-[[en:lexicon:g109|G109]]
+  - [[en:lexicon:g3326|G3326]]
+  - [[en:lexicon:g142|G142]]
+  - [[en:lexicon:g109|G109]]

@@ -14,4 +14,4 @@ heap, load.
 
 ===== Strongs References =====
 
-[[en:lexicon:g4673|G4673]]
+  - [[en:lexicon:g4673|G4673]]

@@ -14,4 +14,4 @@ en-(ex-)ample, pattern.
 
 ===== Strongs References =====
 
-[[en:lexicon:g5263|G5263]]
+  - [[en:lexicon:g5263|G5263]]

@@ -14,5 +14,5 @@ antichrist.
 
 ===== Strongs References =====
 
-[[en:lexicon:g473|G473]]
-[[en:lexicon:g5547|G5547]]
+  - [[en:lexicon:g473|G473]]
+  - [[en:lexicon:g5547|G5547]]

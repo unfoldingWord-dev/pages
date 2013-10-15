@@ -14,5 +14,5 @@ folly, madness.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1|G1]]
-[[en:lexicon:g3563|G3563]]
+  - [[en:lexicon:g1|G1]]
+  - [[en:lexicon:g3563|G3563]]

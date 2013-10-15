@@ -15,5 +15,5 @@ heir.
 
 ===== Strongs References =====
 
-[[en:lexicon:g2819|G2819]]
-[[en:lexicon:g3551|G3551]]
+  - [[en:lexicon:g2819|G2819]]
+  - [[en:lexicon:g3551|G3551]]

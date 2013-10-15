@@ -14,5 +14,5 @@ chiefest city.
 
 ===== Strongs References =====
 
-[[en:lexicon:g3384|G3384]]
-[[en:lexicon:g4172|G4172]]
+  - [[en:lexicon:g3384|G3384]]
+  - [[en:lexicon:g4172|G4172]]

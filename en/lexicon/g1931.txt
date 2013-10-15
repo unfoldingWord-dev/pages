@@ -14,5 +14,5 @@ go down.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1909|G1909]]
-[[en:lexicon:g1416|G1416]]
+  - [[en:lexicon:g1909|G1909]]
+  - [[en:lexicon:g1416|G1416]]

@@ -14,4 +14,4 @@ go afoot.
 
 ===== Strongs References =====
 
-[[en:lexicon:g3979|G3979]]
+  - [[en:lexicon:g3979|G3979]]

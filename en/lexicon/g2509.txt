@@ -14,5 +14,5 @@ exactly as
 
 ===== Strongs References =====
 
-[[en:lexicon:g2505|G2505]]
-[[en:lexicon:g4007|G4007]]
+  - [[en:lexicon:g2505|G2505]]
+  - [[en:lexicon:g4007|G4007]]

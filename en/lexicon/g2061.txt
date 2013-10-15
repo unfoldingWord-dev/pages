@@ -14,5 +14,5 @@ Hermogenes.
 
 ===== Strongs References =====
 
-[[en:lexicon:g2060|G2060]]
-[[en:lexicon:g1096|G1096]]
+  - [[en:lexicon:g2060|G2060]]
+  - [[en:lexicon:g1096|G1096]]

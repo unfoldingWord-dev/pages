@@ -14,5 +14,5 @@ feed, keep.
 
 ===== Strongs References =====
 
-[[en:lexicon:g977|G977]]
-[[en:lexicon:g1016|G1016]]
+  - [[en:lexicon:g977|G977]]
+  - [[en:lexicon:g1016|G1016]]

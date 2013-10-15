@@ -14,5 +14,5 @@ beward, keep (self), observe, save.
 
 ===== Strongs References =====
 
-[[en:lexicon:g5443|G5443]]
-[[en:lexicon:g5083|G5083]]
+  - [[en:lexicon:g5443|G5443]]
+  - [[en:lexicon:g5083|G5083]]

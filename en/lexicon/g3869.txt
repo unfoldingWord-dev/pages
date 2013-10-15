@@ -14,5 +14,5 @@ sit.
 
 ===== Strongs References =====
 
-[[en:lexicon:g3844|G3844]]
-[[en:lexicon:g2523|G2523]]
+  - [[en:lexicon:g3844|G3844]]
+  - [[en:lexicon:g2523|G2523]]

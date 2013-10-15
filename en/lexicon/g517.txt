@@ -14,5 +14,5 @@ invisible (thing).
 
 ===== Strongs References =====
 
-[[en:lexicon:g1|G1]]
-[[en:lexicon:g3707|G3707]]
+  - [[en:lexicon:g1|G1]]
+  - [[en:lexicon:g3707|G3707]]

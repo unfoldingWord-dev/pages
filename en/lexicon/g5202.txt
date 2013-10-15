@@ -14,5 +14,5 @@ drink water.
 
 ===== Strongs References =====
 
-[[en:lexicon:g5204|G5204]]
-[[en:lexicon:g4095|G4095]]
+  - [[en:lexicon:g5204|G5204]]
+  - [[en:lexicon:g4095|G4095]]

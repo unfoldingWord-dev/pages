@@ -14,5 +14,5 @@ chamberlain, governor, steward.
 
 ===== Strongs References =====
 
-[[en:lexicon:g3624|G3624]]
-[[en:lexicon:g3551|G3551]]
+  - [[en:lexicon:g3624|G3624]]
+  - [[en:lexicon:g3551|G3551]]

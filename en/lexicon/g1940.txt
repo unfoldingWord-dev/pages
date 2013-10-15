@@ -14,5 +14,5 @@ set on.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1909|G1909]]
-[[en:lexicon:g2523|G2523]]
+  - [[en:lexicon:g1909|G1909]]
+  - [[en:lexicon:g2523|G2523]]

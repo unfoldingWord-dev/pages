@@ -14,5 +14,5 @@ depart (asunder).
 
 ===== Strongs References =====
 
-[[en:lexicon:g575|G575]]
-[[en:lexicon:g5563|G5563]]
+  - [[en:lexicon:g575|G575]]
+  - [[en:lexicon:g5563|G5563]]

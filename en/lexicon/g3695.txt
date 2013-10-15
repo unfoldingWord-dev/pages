@@ -14,4 +14,4 @@ arm self.
 
 ===== Strongs References =====
 
-[[en:lexicon:g3696|G3696]]
+  - [[en:lexicon:g3696|G3696]]

@@ -14,5 +14,5 @@ acceptable(-ted).
 
 ===== Strongs References =====
 
-[[en:lexicon:g2095|G2095]]
-[[en:lexicon:g4327|G4327]]
+  - [[en:lexicon:g2095|G2095]]
+  - [[en:lexicon:g4327|G4327]]

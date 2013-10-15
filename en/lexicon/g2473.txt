@@ -14,5 +14,5 @@ likeminded.
 
 ===== Strongs References =====
 
-[[en:lexicon:g2470|G2470]]
-[[en:lexicon:g5590|G5590]]
+  - [[en:lexicon:g2470|G2470]]
+  - [[en:lexicon:g5590|G5590]]

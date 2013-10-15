@@ -14,4 +14,4 @@ cleansing, + purge, purification(-fying).
 
 ===== Strongs References =====
 
-[[en:lexicon:g2511|G2511]]
+  - [[en:lexicon:g2511|G2511]]

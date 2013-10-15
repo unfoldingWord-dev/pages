@@ -14,6 +14,6 @@ declare.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1537|G1537]]
-[[en:lexicon:g1223|G1223]]
-[[en:lexicon:g2233|G2233]]
+  - [[en:lexicon:g1537|G1537]]
+  - [[en:lexicon:g1223|G1223]]
+  - [[en:lexicon:g2233|G2233]]

@@ -14,5 +14,5 @@ Peter, rock.
 
 ===== Strongs References =====
 
-[[en:lexicon:g3037|G3037]]
-[[en:lexicon:g2786|G2786]]
+  - [[en:lexicon:g3037|G3037]]
+  - [[en:lexicon:g2786|G2786]]

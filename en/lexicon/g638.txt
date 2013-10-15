@@ -14,5 +14,5 @@ choke.
 
 ===== Strongs References =====
 
-[[en:lexicon:g575|G575]]
-[[en:lexicon:g4155|G4155]]
+  - [[en:lexicon:g575|G575]]
+  - [[en:lexicon:g4155|G4155]]

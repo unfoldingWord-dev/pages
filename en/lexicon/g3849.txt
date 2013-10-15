@@ -14,5 +14,5 @@ constrain.
 
 ===== Strongs References =====
 
-[[en:lexicon:g3844|G3844]]
-[[en:lexicon:g971|G971]]
+  - [[en:lexicon:g3844|G3844]]
+  - [[en:lexicon:g971|G971]]

@@ -14,5 +14,5 @@ beseech, pray (to), make request.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1210|G1210]]
-[[en:lexicon:g4441|G4441]]
+  - [[en:lexicon:g1210|G1210]]
+  - [[en:lexicon:g4441|G4441]]

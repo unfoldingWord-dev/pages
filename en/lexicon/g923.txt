@@ -14,5 +14,5 @@ Barsabas.
 
 ===== Strongs References =====
 
-[[en:lexicon:h01247|H01247]]
-[[en:lexicon:h06634|H06634]]
+  - [[en:lexicon:h01247|H01247]]
+  - [[en:lexicon:h06634|H06634]]

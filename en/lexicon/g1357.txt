@@ -15,5 +15,5 @@ reformation.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1223|G1223]]
-[[en:lexicon:g3717|G3717]]
+  - [[en:lexicon:g1223|G1223]]
+  - [[en:lexicon:g3717|G3717]]

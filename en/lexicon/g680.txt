@@ -14,4 +14,4 @@ touch.
 
 ===== Strongs References =====
 
-[[en:lexicon:g681|G681]]
+  - [[en:lexicon:g681|G681]]

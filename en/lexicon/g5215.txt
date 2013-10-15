@@ -14,5 +14,5 @@ hymn.
 
 ===== Strongs References =====
 
-[[en:lexicon:g103|G103]]
-[[en:lexicon:h05667|H05667]]
+  - [[en:lexicon:g103|G103]]
+  - [[en:lexicon:h05667|H05667]]

@@ -14,6 +14,6 @@ song.
 
 ===== Strongs References =====
 
-[[en:lexicon:g103|G103]]
-[[en:lexicon:g5215|G5215]]
-[[en:lexicon:g5568|G5568]]
+  - [[en:lexicon:g103|G103]]
+  - [[en:lexicon:g5215|G5215]]
+  - [[en:lexicon:g5568|G5568]]

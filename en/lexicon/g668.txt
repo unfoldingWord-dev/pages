@@ -14,5 +14,5 @@ escape.
 
 ===== Strongs References =====
 
-[[en:lexicon:g575|G575]]
-[[en:lexicon:g5343|G5343]]
+  - [[en:lexicon:g575|G575]]
+  - [[en:lexicon:g5343|G5343]]

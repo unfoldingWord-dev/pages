@@ -14,5 +14,5 @@ harper.
 
 ===== Strongs References =====
 
-[[en:lexicon:g2788|G2788]]
-[[en:lexicon:g5603|G5603]]
+  - [[en:lexicon:g2788|G2788]]
+  - [[en:lexicon:g5603|G5603]]

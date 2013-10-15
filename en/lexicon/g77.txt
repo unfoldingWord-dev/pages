@@ -14,5 +14,5 @@ without expense.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1|G1]]
-[[en:lexicon:g1160|G1160]]
+  - [[en:lexicon:g1|G1]]
+  - [[en:lexicon:g1160|G1160]]

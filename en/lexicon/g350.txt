@@ -14,5 +14,5 @@ ask, question, discern, examine, judge, search.
 
 ===== Strongs References =====
 
-[[en:lexicon:g303|G303]]
-[[en:lexicon:g2919|G2919]]
+  - [[en:lexicon:g303|G303]]
+  - [[en:lexicon:g2919|G2919]]

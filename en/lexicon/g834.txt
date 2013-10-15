@@ -14,4 +14,4 @@ minstrel, piper.
 
 ===== Strongs References =====
 
-[[en:lexicon:g832|G832]]
+  - [[en:lexicon:g832|G832]]

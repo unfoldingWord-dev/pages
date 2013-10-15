@@ -14,5 +14,5 @@ communicate, declare.
 
 ===== Strongs References =====
 
-[[en:lexicon:g303|G303]]
-[[en:lexicon:g5087|G5087]]
+  - [[en:lexicon:g303|G303]]
+  - [[en:lexicon:g5087|G5087]]

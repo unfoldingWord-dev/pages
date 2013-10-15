@@ -14,5 +14,5 @@ army.
 
 ===== Strongs References =====
 
-[[en:lexicon:g4756|G4756]]
-[[en:lexicon:g3977|G3977]]
+  - [[en:lexicon:g4756|G4756]]
+  - [[en:lexicon:g3977|G3977]]

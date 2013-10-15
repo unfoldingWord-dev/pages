@@ -14,5 +14,5 @@ if (that), though.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1487|G1487]]
-[[en:lexicon:g2532|G2532]]
+  - [[en:lexicon:g1487|G1487]]
+  - [[en:lexicon:g2532|G2532]]

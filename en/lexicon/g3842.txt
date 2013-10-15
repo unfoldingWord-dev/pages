@@ -14,5 +14,5 @@ alway(-s), ever(-more).
 
 ===== Strongs References =====
 
-[[en:lexicon:g3956|G3956]]
-[[en:lexicon:g3753|G3753]]
+  - [[en:lexicon:g3956|G3956]]
+  - [[en:lexicon:g3753|G3753]]

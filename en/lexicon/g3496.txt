@@ -14,5 +14,5 @@ Neapolis.
 
 ===== Strongs References =====
 
-[[en:lexicon:g3501|G3501]]
-[[en:lexicon:g4172|G4172]]
+  - [[en:lexicon:g3501|G3501]]
+  - [[en:lexicon:g4172|G4172]]

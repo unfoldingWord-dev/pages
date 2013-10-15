@@ -14,5 +14,5 @@ all (things), every (one), whole.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1|G1]]
-[[en:lexicon:g3956|G3956]]
+  - [[en:lexicon:g1|G1]]
+  - [[en:lexicon:g3956|G3956]]

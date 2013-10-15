@@ -14,5 +14,5 @@ strive against.
 
 ===== Strongs References =====
 
-[[en:lexicon:g473|G473]]
-[[en:lexicon:g75|G75]]
+  - [[en:lexicon:g473|G473]]
+  - [[en:lexicon:g75|G75]]

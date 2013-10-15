@@ -14,5 +14,5 @@ silversmith.
 
 ===== Strongs References =====
 
-[[en:lexicon:g696|G696]]
-[[en:lexicon:g2875|G2875]]
+  - [[en:lexicon:g696|G696]]
+  - [[en:lexicon:g2875|G2875]]

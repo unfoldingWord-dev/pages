@@ -14,5 +14,5 @@ go beyond.
 
 ===== Strongs References =====
 
-[[en:lexicon:g5228|G5228]]
-[[en:lexicon:g939|G939]]
+  - [[en:lexicon:g5228|G5228]]
+  - [[en:lexicon:g939|G939]]

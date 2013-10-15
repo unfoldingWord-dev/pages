@@ -14,5 +14,5 @@ net.
 
 ===== Strongs References =====
 
-[[en:lexicon:g297|G297]]
-[[en:lexicon:g906|G906]]
+  - [[en:lexicon:g297|G297]]
+  - [[en:lexicon:g906|G906]]

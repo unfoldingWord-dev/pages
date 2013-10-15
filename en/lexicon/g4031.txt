@@ -14,5 +14,5 @@ strong all around, i.e. a master (manager)
 
 ===== Strongs References =====
 
-[[en:lexicon:g4012|G4012]]
-[[en:lexicon:g2904|G2904]]
+  - [[en:lexicon:g4012|G4012]]
+  - [[en:lexicon:g2904|G2904]]

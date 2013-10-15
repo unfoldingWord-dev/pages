@@ -14,5 +14,5 @@ devilish.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1140|G1140]]
-[[en:lexicon:g1142|G1142]]
+  - [[en:lexicon:g1140|G1140]]
+  - [[en:lexicon:g1142|G1142]]

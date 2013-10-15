@@ -14,5 +14,5 @@ purge (out).
 
 ===== Strongs References =====
 
-[[en:lexicon:g1537|G1537]]
-[[en:lexicon:g2508|G2508]]
+  - [[en:lexicon:g1537|G1537]]
+  - [[en:lexicon:g2508|G2508]]

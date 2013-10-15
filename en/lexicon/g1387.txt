@@ -14,4 +14,4 @@ use deceit.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1386|G1386]]
+  - [[en:lexicon:g1386|G1386]]

@@ -14,5 +14,5 @@ inform, instruct, teach.
 
 ===== Strongs References =====
 
-[[en:lexicon:g2596|G2596]]
-[[en:lexicon:g2279|G2279]]
+  - [[en:lexicon:g2596|G2596]]
+  - [[en:lexicon:g2279|G2279]]

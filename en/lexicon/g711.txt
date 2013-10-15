@@ -14,5 +14,5 @@ Aristobulus.
 
 ===== Strongs References =====
 
-[[en:lexicon:g712|G712]]
-[[en:lexicon:g1012|G1012]]
+  - [[en:lexicon:g712|G712]]
+  - [[en:lexicon:g1012|G1012]]

@@ -15,5 +15,5 @@ worship.
 
 ===== Strongs References =====
 
-[[en:lexicon:g4314|G4314]]
-[[en:lexicon:g2965|G2965]]
+  - [[en:lexicon:g4314|G4314]]
+  - [[en:lexicon:g2965|G2965]]

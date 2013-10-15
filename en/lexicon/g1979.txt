@@ -14,5 +14,5 @@ victuals.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1909|G1909]]
-[[en:lexicon:g4621|G4621]]
+  - [[en:lexicon:g1909|G1909]]
+  - [[en:lexicon:g4621|G4621]]

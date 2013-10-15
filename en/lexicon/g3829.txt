@@ -14,5 +14,5 @@ inn.
 
 ===== Strongs References =====
 
-[[en:lexicon:g3956|G3956]]
-[[en:lexicon:g1209|G1209]]
+  - [[en:lexicon:g3956|G3956]]
+  - [[en:lexicon:g1209|G1209]]

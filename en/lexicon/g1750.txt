@@ -14,5 +14,5 @@ wrap in.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1772|G1772]]
-[[en:lexicon:g1507|G1507]]
+  - [[en:lexicon:g1772|G1772]]
+  - [[en:lexicon:g1507|G1507]]

@@ -14,5 +14,5 @@ third loft.
 
 ===== Strongs References =====
 
-[[en:lexicon:g5140|G5140]]
-[[en:lexicon:g4721|G4721]]
+  - [[en:lexicon:g5140|G5140]]
+  - [[en:lexicon:g4721|G4721]]

@@ -14,5 +14,5 @@ handle shamefully.
 
 ===== Strongs References =====
 
-[[en:lexicon:g820|G820]]
-[[en:lexicon:g818|G818]]
+  - [[en:lexicon:g820|G820]]
+  - [[en:lexicon:g818|G818]]

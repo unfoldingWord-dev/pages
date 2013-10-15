@@ -15,5 +15,5 @@ wicked.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1|G1]]
-[[en:lexicon:g5087|G5087]]
+  - [[en:lexicon:g1|G1]]
+  - [[en:lexicon:g5087|G5087]]

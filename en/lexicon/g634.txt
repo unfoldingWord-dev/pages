@@ -14,5 +14,5 @@ fall.
 
 ===== Strongs References =====
 
-[[en:lexicon:g575|G575]]
-[[en:lexicon:g4098|G4098]]
+  - [[en:lexicon:g575|G575]]
+  - [[en:lexicon:g4098|G4098]]

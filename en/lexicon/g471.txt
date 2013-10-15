@@ -14,5 +14,5 @@ gainsay, say against.
 
 ===== Strongs References =====
 
-[[en:lexicon:g473|G473]]
-[[en:lexicon:g2036|G2036]]
+  - [[en:lexicon:g473|G473]]
+  - [[en:lexicon:g2036|G2036]]

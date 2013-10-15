@@ -14,5 +14,5 @@ way.
 
 ===== Strongs References =====
 
-[[en:lexicon:g3844|G3844]]
-[[en:lexicon:g3598|G3598]]
+  - [[en:lexicon:g3844|G3844]]
+  - [[en:lexicon:g3598|G3598]]

@@ -14,5 +14,5 @@ swim out.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1537|G1537]]
-[[en:lexicon:g2860|G2860]]
+  - [[en:lexicon:g1537|G1537]]
+  - [[en:lexicon:g2860|G2860]]

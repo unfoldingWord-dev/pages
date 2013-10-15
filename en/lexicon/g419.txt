@@ -14,5 +14,5 @@ unsearchable.
 
 ===== Strongs References =====
 
-[[en:lexicon:g1|G1]]
-[[en:lexicon:g1830|G1830]]
+  - [[en:lexicon:g1|G1]]
+  - [[en:lexicon:g1830|G1830]]

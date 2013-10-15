@@ -15,5 +15,5 @@ hand.
 
 ===== Strongs References =====
 
-[[en:lexicon:g5494|G5494]]
-[[en:lexicon:g5490|G5490]]
+  - [[en:lexicon:g5494|G5494]]
+  - [[en:lexicon:g5490|G5490]]

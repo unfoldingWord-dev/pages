@@ -14,5 +14,5 @@ leave, remain.
 
 ===== Strongs References =====
 
-[[en:lexicon:g575|G575]]
-[[en:lexicon:g3007|G3007]]
+  - [[en:lexicon:g575|G575]]
+  - [[en:lexicon:g3007|G3007]]

@@ -14,5 +14,5 @@ new born.
 
 ===== Strongs References =====
 
-[[en:lexicon:g737|G737]]
-[[en:lexicon:g1084|G1084]]
+  - [[en:lexicon:g737|G737]]
+  - [[en:lexicon:g1084|G1084]]
