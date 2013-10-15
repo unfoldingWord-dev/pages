@@ -47,3 +47,5 @@ Click on the links below to translate each frame of the story.
     * [[:en:obs-training:frames:0x-14|0x-14]]
     * [[:en:obs-training:frames:0x-15|0x-15]]
     * [[:en:obs-training:frames:0x-16|0x-16]]
+
+~~DISCUSSION~~
