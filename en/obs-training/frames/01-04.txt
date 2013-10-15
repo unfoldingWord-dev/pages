@@ -21,3 +21,5 @@ Pay close attention to …
 
 
 **[[:en:obs-training:01-the-creation|Back]]**
+
+~~DISCUSSION~~

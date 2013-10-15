@@ -41,4 +41,5 @@ Click on the links below to translate each frame of the story.
     * [[:en:obs-training:frames:05-08|05-08]]
     * [[:en:obs-training:frames:05-09|05-09]]
     * [[:en:obs-training:frames:05-10|05-10]]
-    
+
+~~DISCUSSION~~
