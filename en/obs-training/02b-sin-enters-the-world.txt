@@ -46,3 +46,5 @@ Click on the links below to translate each frame of the story. (LS. I added imag
     * [[:en:obs-training:frames:02-10|02-10]]
     * [[:en:obs-training:frames:02-11|02-11]]
     * [[:en:obs-training:frames:02-12|02-12]]
+
+~~DISCUSSION~~
