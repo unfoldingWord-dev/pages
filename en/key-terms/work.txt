@@ -24,6 +24,7 @@ After you choose a word to translate this term, try to use it consistently when 
 
 
     * **Story x - Title**  - Frames x, x and x
+    * For example - **Story 1**  - The Creation - Frames 3, 5, 6, 7, 8, 15 and 16
 ==== Root words in the Bible: ====
 
 
@@ -32,5 +33,4 @@ This term is also used in many places in the Bible. You can use the links below 
 
     * Strong's link
 
-
-For example - **Story 1**  - The Creation - Frames 3, 5, 6, 7, 8, 15 and 16
+~~DISCUSSION~~
