@@ -4,20 +4,9 @@
 {{:en:obs:obs-01-01.jpg?nolink&640x360}}
 
 
-This is how the beginning of everything happened. **God** **created** the universe and everything in it in six days. At first, the earth was dark and empty, and nothing had been formed in it. But **God's Spirit** was there over the water.
-=== Key Terms: ===
+This is how the beginning of everything happened. **[[:en:key-terms:god|God]]** **[[:en:key-terms:create|created]]** the universe and everything in it in six days. At first, the earth was dark and empty, and nothing had been formed in it. But **[[:en:key-terms:holy-spirit|God's Spirit]]** was there over the water.
 
-
-    * **[[:en:key-terms:god|God]]**- Almighty, creator, sinless & perfect…
-    * **[[:en:key-terms:create|created]]**- "created from nothing", or "to cause something to exist"…
-    * **[[:en:key-terms:holy-spirit|God's Spirit]]**- the Holy Spirit, the third person of the Trinity
 === Translation Notes: ===
-
-
-(CL: might it be helpful to asterisk or footnote the terms in the story that appear in this "Translation Notes" section?)
-
-
-Pay close attention to …
 
 
     * "//the beginning//" - refers to "the beginning of all things", or "before everything else"
@@ -26,7 +15,6 @@ Pay close attention to …
     * //"dark and empty" - //  the creation began without light, but God could still see all he has made He would fill the creation with life and light.
     * //God's Spirit - //  the Spirit of God is free to move about and examine what he had made. God is close to his creation, he knows all about it, and he is not far away from it.
     * //God created … God's Spirit was there" -//  God moves in many ways in and over his creation. He is free to act as he wants.
-    * note the grammatical features…
 
 
 **[[:en:obs-training:01-the-creation|Back]]** 
