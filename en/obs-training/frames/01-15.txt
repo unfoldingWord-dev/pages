@@ -1,31 +1,21 @@
-==== 01-15. Fill the Earth ====
+====== 01-15. Fill the Earth ======
 
 
 {{:en:obs:obs-01-15.jpg?nolink&640x360}}
 
 
-**God** made man and woman in His own image, and He saw that it was very **good**. He **blessed**  them and told them, "Have many children and grandchildren and fill the earth!" This all happened on the sixth day of **creation**.
+**[[:en:key-terms:god|God]]** made man and woman in His own image, and He saw that it was very **[[:en:key-terms:good|good]]**. He **[[:en:key-terms:bless|blessed]]**  them and told them, "Have many children and grandchildren and fill the earth!" This all happened on the sixth day of **[[:en:key-terms:creation|creation]]**.
 
 
-=== Key Terms: ===
-  * **[[:en:key-terms:god|God]]** - Almighty, creator, sinless and perfect
-  * **[[:en:key-terms:good|good]]** - in agreement with God's character and purposes, to an extra measure by the word "very"
-  * **[[:en:key-terms:bless|blessed]]** - God spoke to his intent to make things go well for them
-  * **[[:en:key-terms:creation|creation]]** - the six-day period during which God made everything that exists
+===== Translation Notes: =====
 
 
-=== Translation Notes: ===
-
-
-Pay close attention to …
-
-
-  * "//made//" - "created from nothing," or "caused to exist" (LS: moved from KT)
-  * "//man//" - a male (LS: moved from KT)
-  * "//woman//" - a female (LS: moved from KT)
-  * "//in His own image//" - similar to the God in many aspects–able to think, interact, and communicate (LS: moved from KT)
-  * "//have many//" - literally to "be fruitful" (LS: moved from KT)
-  * "//day//" - a literal 24-hour period (LS: moved from KT)
+  * "//made//" - "created from nothing," or "caused to exist" 
+  * "//man//" - a male 
+  * "//woman//" - a female 
+  * "//in His own image//" - similar to the God in many aspects–able to think, interact, and communicate
+  * "//have many//" - literally to "be fruitful"
+  * "//day//" - a literal 24-hour period
 
 
 **[[:en:obs-training:01-the-creation:|Back]]**

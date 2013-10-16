@@ -1,26 +1,21 @@
-==== 01-14. Adam Meets Eve ====
+====== 01-14. Adam Meets Eve ======
 
 
 {{:en:obs:obs-01-14.jpg?nolink&640x360}}
 
 
-When **Adam** saw her, he said, "At last! This one is like me! Let her be called 'Woman,' for she was made from Man." This is why a man leaves his father and mother and becomes one with his wife.
-=== Key Terms: ===
+When **[[:en:key-terms:adam|Adam]]** saw her, he said, "At last! This one is like me! Let her be called 'Woman,' for she was made from Man." This is why a man leaves his father and mother and becomes one with his wife.
 
 
-    * **[[:en:key-terms:adam|Adam]]**- Adam's name was literally the Hebrew word for "man"
-=== Translation Notes: ===
-
-
-Pay close attention to …
+===== Translation Notes: =====
 
 
     * "//at last" //- Adam sees in the woman someone who was able to help him.
-    * "//like//" - the woman was similar to Adam, but also different enough to complete him (LS: moved from KT) (question "complete" implies he was incomplete. "Partner, helper, to be one with him, the one he was looking for." (TW) 
-    * "//woman//" - the feminine form of the word for man (LS: moved from KT)
-    * "//made from//" - she was literally "taken out of" Adam (LS: moved from KT). The woman wasn't another new kind of animal, but a life taken from the genetic material of the man, and formed into the woman from the man. Her creation was also a special act of creation mirroring the way God formed the Man from the soil, even so God formed her from the Man. (TW)
-    * "//man//" - a generic term for an adult man (LS: moved from KT) (also for the human race as a whole (TW).
-    * "//one//" - literally "the same flesh and bone" (LS: moved from KT). The account is laying the ground for the formation of the human family, for marriage, and for the means of bringing new human children into the world. (TW)
+    * "//like//" - the woman was similar to Adam, but also different enough to complete him (question "complete" implies he was incomplete. "Partner, helper, to be one with him, the one he was looking for." (TW) 
+    * "//woman//" - the feminine form of the word for man
+    * "//made from//" - she was literally "taken out of" Adam. The woman wasn't another new kind of animal, but a life taken from the genetic material of the man, and formed into the woman from the man. Her creation was also a special act of creation mirroring the way God formed the Man from the soil, even so God formed her from the Man. (TW)
+    * "//man//" - a generic term for an adult man (also for the human race as a whole (TW).
+    * "//one//" - literally "the same flesh and bone." The account is laying the ground for the formation of the human family, for marriage, and for the means of bringing new human children into the world. (TW)
 
 
 **[[:en:obs-training:01-the-creation|Back]]**

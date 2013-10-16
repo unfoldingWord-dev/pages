@@ -1,31 +1,18 @@
-==== 01-11. Two Trees ====
+====== 01-11. Two Trees ======
 
 
 {{:en:obs:obs-01-11.jpg?nolink&640x360}}
 
 
-In the middle of the garden, **God ** planted two special trees—the tree of life and the tree of the knowledge of **good** and **evil**. **God**  told **Adam**  that he could eat from any tree in the garden except from the tree of the knowledge of **good** and **evil**. If he ate from this tree, he would **die**.
+In the middle of the garden, **[[:en:key-terms:god|God]]** planted two special trees—the tree of life and the tree of the knowledge of **[[:en:key-terms:good|good]]** and **[[:en:key-terms:evil|evil]]**. **[[:en:key-terms:god|God]]**  told **[[:en:key-terms:Adam|Adam]]**  that he could eat from any tree in the garden except from the tree of the knowledge of **[[:en:key-terms:good|good]]** and **[[:en:key-terms:evil|evil]]**. If he ate from this tree, he would **[[:en:key-terms:die|die]]**.
 
 
-=== Key Terms: === 
-
-  * **[[:en:key-terms:god|God]]** - Almighty, creator, sinless and perfect
-  * **[[:en:key-terms:good|good]]** - in agreement with God's character and purposes
-  * **[[:en:key-terms:evil|evil]]** - opposed to God's character and purposes
-  * **[[:en:key-terms:Adam|Adam]]** - Adam's name was literally the Hebrew word for "man"
-  * **[[:en:key-terms:die|die]]** - to die is to be separated from God and from life on this earth
+===== Translation Notes: =====
 
 
-=== Translation Notes: ===
-
-
-Pay close attention to …
-
-
-  * "//garden//" - a special collection of trees and plants that God prepared for Adam (LS: moved from KT)
-  * "//tree of life//" - a literal tree with fruit that could keep a person alive continually (LS: moved from KT)
-  * "//tree of knowledge of good and evil//" - a literal tree with fruit that could enable a person to know the difference between good and evil (LS: moved from KT)
-
+  * "//garden//" - a special collection of trees and plants that God prepared for Adam 
+  * "//tree of life//" - a literal tree with fruit that could keep a person alive continually 
+  * "//tree of knowledge of good and evil//" - a literal tree with fruit that could enable a person to know the difference between good and evil 
 
 **[[:en:obs-training:01-the-creation:|Back]]**
 
