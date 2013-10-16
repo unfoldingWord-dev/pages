@@ -10,56 +10,54 @@ This is the true story of how God created the earth and everything in it in six 
 ====== Translate the Story ======
 
 
-Click on the links below to translate each frame of the story.
+Click on the images below to translate each frame of the story.
 
 
-[[:en:obs-training:frames:01-01|{{:en:obs:obs-01-01.jpg?200|The Beginning}}]]\\
-01-01. A The Beginning\\
-\\
-[[:en:obs-training:frames:01-02|{{:en:obs:obs-01-02.jpg?200|Light Created}}]]\\
-01-02. Light Created\\
-\\
-[[:en:obs-training:frames:01-03|{{:en:obs:obs-01-03.jpg?200|Sky Created}}]]\\
-01-03. Sky Created\\
-\\
-[[:en:obs-training:frames:01-04|{{:en:obs:obs-01-04.jpg?200|Land Created}}]]\\
-01-04. Land Created\\
-\\
-[[:en:obs-training:frames:01-05|{{:en:obs:obs-01-05.jpg?200|Plants Created}}]]\\
-01-05. Plants Created\\
-\\
-[[:en:obs-training:frames:01-06|{{:en:obs:obs-01-06.jpg?200|Sun, Moon and Stars Created}}]]\\
-01-06. Sun, Moon and Stars Created\\
-\\
-[[:en:obs-training:frames:01-07|{{:en:obs:obs-01-07.jpg?200|Birds and Fish Created}}]]\\
-01-07. Birds and Fish Created\\
-\\
-[[:en:obs-training:frames:01-08|{{:en:obs:obs-01-08.jpg?200|Animals Created}}]]\\
-01-08. Animals Created\\
-\\
-[[:en:obs-training:frames:01-09|{{:en:obs:obs-01-09.jpg?200|Man in God's Image}}]]\\
-01-09. Man in God's Image\\
-\\
-[[:en:obs-training:frames:01-10|{{:en:obs:obs-01-10.jpg?200|Adam Created}}]]\\
-01-10. Adam Created\\
-\\
-[[:en:obs-training:frames:01-11|{{:en:obs:obs-01-11.jpg?200|Two Trees}}]]\\
-01-11. Two Trees\\
-\\
-[[:en:obs-training:frames:01-12|{{:en:obs:obs-01-12.jpg?200|Adam Alone}}]]\\
-01-12. Adam Alone\\
-\\
-[[:en:obs-training:frames:01-13|{{:en:obs:obs-01-13.jpg?200|Eve Created}}]]\\
-01-13. Eve Created\\
-\\
-[[:en:obs-training:frames:01-14|{{:en:obs:obs-01-14.jpg?200|Adam Meets Eve}}]]\\
-01-14. Adam Meets Eve\\
-\\
-[[:en:obs-training:frames:01-15|{{:en:obs:obs-01-15.jpg?200|Fill the Earth}}]]\\
-01-15. Fill the Earth\\
-\\
-[[:en:obs-training:frames:01-16|{{:en:obs:obs-01-16.jpg?200|God Rests}}]]\\
-01-16. God Rests\\
-\\
-
+[[:en:obs-training:frames:01-01|{{:en:obs:obs-01-01.jpg?nolink&200}}]]\\ 
+01-01. A The Beginning\\ 
+\\ 
+[[:en:obs-training:frames:01-02|{{:en:obs:obs-01-02.jpg?nolink&200}}]]\\ 
+01-02. Light Created\\ 
+\\ 
+[[:en:obs-training:frames:01-03|{{:en:obs:obs-01-03.jpg?nolink&200}}]]\\ 
+01-03. Sky Created\\ 
+\\ 
+[[:en:obs-training:frames:01-04|{{:en:obs:obs-01-04.jpg?nolink&200}}]]\\ 
+01-04. Land Created\\ 
+\\ 
+[[:en:obs-training:frames:01-05|{{:en:obs:obs-01-05.jpg?nolink&200}}]]\\ 
+01-05. Plants Created\\ 
+\\ 
+[[:en:obs-training:frames:01-06|{{:en:obs:obs-01-06.jpg?nolink&200}}]]\\ 
+01-06. Sun, Moon and Stars Created\\ 
+\\ 
+[[:en:obs-training:frames:01-07|{{:en:obs:obs-01-07.jpg?nolink&200}}]]\\ 
+01-07. Birds and Fish Created\\ 
+\\ 
+[[:en:obs-training:frames:01-08|{{:en:obs:obs-01-08.jpg?nolink&200}}]]\\ 
+01-08. Animals Created\\ 
+\\ 
+[[:en:obs-training:frames:01-09|{{:en:obs:obs-01-09.jpg?nolink&200}}]]\\ 
+01-09. Man in God's Image\\ 
+\\ 
+[[:en:obs-training:frames:01-10|{{:en:obs:obs-01-10.jpg?nolink&200}}]]\\ 
+01-10. Adam Created\\ 
+\\ 
+[[:en:obs-training:frames:01-11|{{:en:obs:obs-01-11.jpg?nolink&200}}]]\\ 
+01-11. Two Trees\\ 
+\\ 
+[[:en:obs-training:frames:01-12|{{:en:obs:obs-01-12.jpg?nolink&200}}]]\\ 
+01-12. Adam Alone\\ 
+\\ 
+[[:en:obs-training:frames:01-13|{{:en:obs:obs-01-13.jpg?nolink&200}}]]\\ 
+01-13. Eve Created\\ 
+\\ 
+[[:en:obs-training:frames:01-14|{{:en:obs:obs-01-14.jpg?nolink&200}}]]\\ 
+01-14. Adam Meets Eve\\ 
+\\ 
+[[:en:obs-training:frames:01-15|{{:en:obs:obs-01-15.jpg?nolink&200}}]]\\ 
+01-15. Fill the Earth\\ 
+\\ 
+[[:en:obs-training:frames:01-16|{{:en:obs:obs-01-16.jpg?nolink&200}}]]\\ 
+01-16. God Rests\\ 
 ~~DISCUSSION~~
