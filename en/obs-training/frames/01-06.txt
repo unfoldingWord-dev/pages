@@ -1,19 +1,13 @@
-==== 01-06. Sun, Moon and Stars Created ====
+====== 01-06. Sun, Moon and Stars Created ======
 
 
 {{:en:obs:obs-01-06.jpg?nolink&640x360}}
 
 
-On the fourth day of **creation**, **God** spoke and made the sun, the moon, and the stars. **God** made them to give light to the earth and to mark day and night, seasons and years.
-=== Key Terms: ===
+On the fourth day of **[[:en:key-terms:creation|creation]]**, **[[:en:key-terms:god|God]]** spoke and made the sun, the moon, and the stars. **[[:en:key-terms:god|God]]** made them to give light to the earth and to mark day and night, seasons and years.
 
 
-    * **[[:en:key-terms:creation|creation]]**- the six-day period during which God made everything that exists
-    * **[[:en:key-terms:god|God]]**- Almighty, creator, sinless and perfect
-=== Translation Notes: ===
-
-
-Pay close attention to …
+===== Translation Notes: =====
 
 
     * "//[[:en:obs-training:words:day|day]]//" - a literal 24-hour period 

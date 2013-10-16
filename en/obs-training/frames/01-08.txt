@@ -1,20 +1,13 @@
-==== 01-08. Animals Created ====
+====== 01-08. Animals Created ======
 
 
 {{:en:obs:obs-01-08.jpg?nolink&640x360}}
 
 
-On the sixth day of **creation**, **God** said, "Let there be all kinds of land animals!" And it happened just like **God** said. Some were farm animals, some crawled on the ground, and some were wild. And **God** saw that it was **good**.
-=== Key Terms: ===
+On the sixth day of **[[:en:key-terms:creation|creation]]**, **[[:en:key-terms:god|God]]** said, "Let there be all kinds of land animals!" And it happened just like **[[:en:key-terms:god|God]]** said. Some were farm animals, some crawled on the ground, and some were wild. And **[[:en:key-terms:god|God]]** saw that it was **[[:en:key-terms:good|good]]**.
 
 
-    * **[[:en:key-terms:creation|creation]]**- the six-day period during which God made everything that exists
-    * **[[:en:key-terms:god|God]]**- Almighty, creator, sinless and perfect
-    * **[[:en:key-terms:good|good]]**- in agreement with God's character and purposes
-=== Translation Notes: ===
-
-
-Pay close attention to …
+===== Translation Notes: =====
 
 
     * "//day//" - a literal 24-hour period (LS: moved from KT)

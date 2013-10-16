@@ -1,21 +1,13 @@
-==== 01-10. Adam Created ====
+====== 01-10. Adam Created ======
 
 
 {{:en:obs:obs-01-10.jpg?nolink&640x360}}
 
 
-So **God** took some dirt, formed it into a man, and **breathed** **life** into him. This man's name was **Adam**. **God** planted a garden where **Adam** could live, and put him there to care for it.
-=== Key Terms: ===
+So **[[:en:key-terms:god|God]]** took some dirt, formed it into a man, and **[[:en:key-terms:breathe|breathed]]** **[[:en:key-terms:life|life]]** into him. This man's name was **[[:en:key-terms:adam|Adam]]**. **[[:en:key-terms:god|God]]** planted a garden where **[[:en:key-terms:adam|Adam]]** could live, and put him there to care for it.
 
 
-    * **[[:en:key-terms:god|God]]**- two words are used together to indicate "the self-existent, eternal Lord of everything" (CJ: first definition is not on God page 10-08) and the "Almighty, creator, sinless and perfect"
-    * **[[:en:key-terms:breathe|breathed]]**- God breathed, or blew life into Adam
-    * **[[:en:key-terms:life|life]]**- literally, the "breath of life"
-    * **[[:en:key-terms:adam|Adam]]**- Adam's name was literally the Hebrew word for "man"
-=== Translation Notes: ===
-
-
-Pay close attention to …
+===== Translation Notes: =====
 
 
     * "//dirt//" - dust, dry dirt from the ground 

@@ -1,4 +1,4 @@
-==== 01-01. The Beginning ====
+====== 01-01. The Beginning ======
 
 
 {{:en:obs:obs-01-01.jpg?nolink&640x360}}
@@ -6,7 +6,7 @@
 
 This is how the beginning of everything happened. **[[:en:key-terms:god|God]]** **[[:en:key-terms:create|created]]** the universe and everything in it in six days. At first, the earth was dark and empty, and nothing had been formed in it. But **[[:en:key-terms:holy-spirit|God's Spirit]]** was there over the water.
 
-=== Translation Notes: ===
+===== Translation Notes: =====
 
 
     * "//the beginning//" - refers to "the beginning of all things", or "before everything else"

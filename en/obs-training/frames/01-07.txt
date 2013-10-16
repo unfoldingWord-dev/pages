@@ -1,22 +1,13 @@
-==== 01-07. Birds and Fish Created ====
+====== 01-07. Birds and Fish Created ======
 
 
 {{:en:obs:obs-01-07.jpg?nolink&640x360}}
 
 
-On the fifth day, **God** **created** everything that swims in the water and all the birds. **God ** saw that it was **good**, and He **blessed** them.
-=== Key Terms: ===
+On the fifth day, **[[:en:key-terms:god|God]]** **[[:en:key-terms:create|created]]** everything that swims in the water and all the birds. **[[:en:key-terms:god|God]]** saw that it was **[[:en:key-terms:good|good]]**, and He **[[:en:key-terms:bless|blessed]]** them.
+ 
 
-
-    * **[[:en:key-terms:god|God]]**- Almighty, creator, sinless and perfect 
-    * **[[:en:key-terms:create|created]]**- "created from nothing," or "caused to exist" 
-    * **[[:en:key-terms:good|good]]**- in agreement with God's character and purposes 
-    * **[[:en:key-terms:bless|blessed]]**- God spoke to his intent to make things go well for them 
-
-=== Translation Notes: ===
-
-
-Pay close attention to …
+===== Translation Notes: =====
 
 
     * "//day//" - a literal 24-hour period 
