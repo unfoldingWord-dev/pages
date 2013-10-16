@@ -4,7 +4,7 @@
 ===== Overview: =====
 
 
-This is the true story of how the earth and everything in it was created. The eternal, all-powerful God created spoke everything into existence in six days. He also created the first man and woman to enjoy and care for his creation. There was no sin or imperfection in the entire creation. Adam and Eve had a special relationship with God, who had provided everything they needed for an abundant life. However, they were also given a choice to remain in harmony with God, or to disobey him. God created the fruit of a special tree as a test for them.
+This is the true story of how God created the earth and everything in it in six days. He created the first man and woman to enjoy and care for his creation. Adam and Eve had a special relationship with God, who had provided everything they needed for an abundant life. There was no sin or imperfection. Everything that God had created was very good.
 
 
 ====== Translate the Story ======
@@ -13,21 +13,53 @@ This is the true story of how the earth and everything in it was created. The et
 Click on the links below to translate each frame of the story.
 
 
-    * [[:en:obs-training:frames:01-01|01-01]]
-    * [[:en:obs-training:frames:01-02|01-02]]
-    * [[:en:obs-training:frames:01-03|01-03]]
-    * [[:en:obs-training:frames:01-04|01-04]]
-    * [[:en:obs-training:frames:01-05|01-05]]
-    * [[:en:obs-training:frames:01-06|01-06]]
-    * [[:en:obs-training:frames:01-07|01-07]]
-    * [[:en:obs-training:frames:01-08|01-08]]
-    * [[:en:obs-training:frames:01-09|01-09]]
-    * [[:en:obs-training:frames:01-10|01-10]]
-    * [[:en:obs-training:frames:01-11|01-11]]
-    * [[:en:obs-training:frames:01-12|01-12]]
-    * [[:en:obs-training:frames:01-13|01-13]]
-    * [[:en:obs-training:frames:01-14|01-14]]
-    * [[:en:obs-training:frames:01-15|01-15]]
-    * [[:en:obs-training:frames:01-16|01-16]]
+[[:en:obs-training:frames:01-01|{{:en:obs:obs-01-01.jpg?200|The Beginning}}]]\\
+A Perfect World\\
+\\
+[[:en:obs-training:frames:01-02|{{:en:obs:obs-01-02.jpg?200|Light Created}}]]\\
+A Perfect World\\
+\\
+[[:en:obs-training:frames:01-03|{{:en:obs:obs-01-03.jpg?200|Sky Created}}]]\\
+A Perfect World\\
+\\
+[[:en:obs-training:frames:01-04|{{:en:obs:obs-01-04.jpg?200|Land Created}}]]\\
+A Perfect World\\
+\\
+[[:en:obs-training:frames:01-05|{{:en:obs:obs-01-05.jpg?200|Plants Created}}]]\\
+A Perfect World\\
+\\
+[[:en:obs-training:frames:01-06|{{:en:obs:obs-01-06.jpg?200|Sun, Moon and Stars Created}}]]\\
+A Perfect World\\
+\\
+[[:en:obs-training:frames:01-07|{{:en:obs:obs-01-07.jpg?200|Birds and Fish Created}}]]\\
+A Perfect World\\
+\\
+[[:en:obs-training:frames:01-08|{{:en:obs:obs-01-08.jpg?200|Animals Created}}]]\\
+A Perfect World\\
+\\
+[[:en:obs-training:frames:01-09|{{:en:obs:obs-01-09.jpg?200|Man in God's Image}}]]\\
+A Perfect World\\
+\\0
+[[:en:obs-training:frames:01-10|{{:en:obs:obs-01-10.jpg?200|Adam Created}}]]\\
+A Perfect World\\
+\\
+[[:en:obs-training:frames:01-11|{{:en:obs:obs-01-11.jpg?200|Two Trees}}]]\\
+A Perfect World\\
+\\
+[[:en:obs-training:frames:01-12|{{:en:obs:obs-01-12.jpg?200|Adam Alone}}]]\\
+A Perfect World\\
+\\
+[[:en:obs-training:frames:01-13|{{:en:obs:obs-01-13.jpg?200|Eve Created}}]]\\
+A Perfect World\\
+\\
+[[:en:obs-training:frames:01-14|{{:en:obs:obs-01-14.jpg?200|Adam Meets Eve}}]]\\
+A Perfect World\\
+\\
+[[:en:obs-training:frames:01-15|{{:en:obs:obs-01-15.jpg?200|Fill the Earth}}]]\\
+A Perfect World\\
+\\
+[[:en:obs-training:frames:01-16|{{:en:obs:obs-01-16.jpg?200|God Rests}}]]\\
+A Perfect World\\
+\\
 
 ~~DISCUSSION~~
