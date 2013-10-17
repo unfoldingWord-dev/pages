@@ -10,14 +10,15 @@
 ===== Translation Notes: =====
 
 
-  * "//made//" - "created from nothing," or "caused to exist" 
-  * "//man//" - a male 
-  * "//woman//" - a female 
-  * "//in His own image//" - similar to the God in many aspects–able to think, interact, and communicate
-  * "//have many//" - literally to "be fruitful"
-  * "//day//" - a literal 24-hour period
+    * "//made//" - "created from nothing," or "caused to exist"
+    * "//man//" - a male
+    * "//woman//" - a female
+    * "//in His own image//" - similar to the God in many aspects–able to think, interact, and communicate
+    * "//have many//" - literally to "be fruitful"
+    * "//day//" - a literal 24-hour period
 
 
-**[[:en:obs-training:01-the-creation:|Back]]**
+**[[:en:obs-training:01-the-creation|Back]]** 
+
 
 ~~DISCUSSION~~
