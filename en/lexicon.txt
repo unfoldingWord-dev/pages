@@ -2,5 +2,13 @@
 
 This is a lexicon of Biblical terms, keyed to Strong's numbers. The definitions are comprised of open-licensed and Public Domain sources.
 
-To see a term, enter the Strong's number in the address bar, e.g. "door43.org/en/lexicon/h1254"
+===== Hebrew =====
 
+  * [[en:lexicon:hebrew-numbers-1|Hebrew (By Number)]]
+  * [[en:lexicon:hebrew--|Hebrew (By Word)]]
+
+
+===== Greek =====
+
+  * [[en:lexicon:greek-numbers-1|Greek (By Number)]]
+  * [[en:lexicon:greek--|Greek (By Word)]]
