@@ -1,19 +1,15 @@
 
 
-===== A =====
+===== a =====
 
   - [[en:lexicon:g1|A]]
   - [[en:lexicon:g2|Aarṓn]]
   - [[en:lexicon:g3|Abaddṓn]]
-
-
-===== a =====
-
   - [[en:lexicon:g4|abarḗs]]
   - [[en:lexicon:g5|Abbâ]]
 
 
-===== Á =====
+===== á =====
 
   - [[en:lexicon:g6|Ábel]]
   - [[en:lexicon:g7|Abiá]]
@@ -21,10 +17,6 @@
   - [[en:lexicon:g9|Abilēnḗ]]
   - [[en:lexicon:g10|Abioúd]]
   - [[en:lexicon:g11|Abraám]]
-
-
-===== á =====
-
   - [[en:lexicon:g12|ábyssos]]
   - [[en:lexicon:g13|Ágabos]]
   - [[en:lexicon:g14|agathoergéō]]
@@ -919,14 +911,10 @@
   - [[en:lexicon:g895|ápsychos]]
 
 
-===== B =====
+===== b =====
 
   - [[en:lexicon:g896|Báal]]
   - [[en:lexicon:g897|Babylṓn]]
-
-
-===== b =====
-
   - [[en:lexicon:g898|bathmós]]
   - [[en:lexicon:g899|báthos]]
   - [[en:lexicon:g900|bathýnō]]
@@ -1076,10 +1064,6 @@
 ===== g =====
 
   - [[en:lexicon:g1042|gabbathá]]
-
-
-===== G =====
-
   - [[en:lexicon:g1043|Gabriḗl]]
   - [[en:lexicon:g1044|gángraina]]
   - [[en:lexicon:g1045|Gád]]
@@ -1177,13 +1161,9 @@
   - [[en:lexicon:g1137|gōnía]]
 
 
-===== D =====
-
-  - [[en:lexicon:g1138|Dabíd]]
-
-
 ===== d =====
 
+  - [[en:lexicon:g1138|Dabíd]]
   - [[en:lexicon:g1139|daimonízomai]]
   - [[en:lexicon:g1140|daimónion]]
   - [[en:lexicon:g1141|daimoniṓdēs]]
@@ -1496,15 +1476,7 @@
   - [[en:lexicon:g1440|hebdomḗkonta]]
   - [[en:lexicon:g1441|hebdomēkontákis]]
   - [[en:lexicon:g1442|hébdomos]]
-
-
-===== E =====
-
   - [[en:lexicon:g1443|Ebér]]
-
-
-===== H =====
-
   - [[en:lexicon:g1444|Hebraïkós]]
   - [[en:lexicon:g1445|Hebraîos]]
   - [[en:lexicon:g1446|Hebraḯs]]
@@ -2098,10 +2070,6 @@
   - [[en:lexicon:g2034|heptákis]]
   - [[en:lexicon:g2035|heptakischílioi]]
   - [[en:lexicon:g2036|épō]]
-
-
-===== É =====
-
   - [[en:lexicon:g2037|Érastos]]
   - [[en:lexicon:g2038|ergázomai]]
   - [[en:lexicon:g2039|ergasía]]
@@ -2261,16 +2229,12 @@
   - [[en:lexicon:g2193|héōs]]
 
 
-===== Z =====
+===== z =====
 
   - [[en:lexicon:g2194|Zaboulṓn]]
   - [[en:lexicon:g2195|Zakchaîos]]
   - [[en:lexicon:g2196|Zará]]
   - [[en:lexicon:g2197|Zacharías]]
-
-
-===== z =====
-
   - [[en:lexicon:g2198|záō]]
   - [[en:lexicon:g2199|Zebedaîos]]
   - [[en:lexicon:g2200|zestós]]
@@ -2343,10 +2307,6 @@
   - [[en:lexicon:g2259|hēníka]]
   - [[en:lexicon:g2260|ḗper]]
   - [[en:lexicon:g2261|ḗpios]]
-
-
-===== Ḗ =====
-
   - [[en:lexicon:g2262|Ḗr]]
   - [[en:lexicon:g2263|ḗremos]]
   - [[en:lexicon:g2264|Hērṓdēs]]
@@ -2354,10 +2314,6 @@
   - [[en:lexicon:g2266|Hērōdiás]]
   - [[en:lexicon:g2267|Hērōdíōn]]
   - [[en:lexicon:g2268|Hēsaḯas]]
-
-
-===== Ē =====
-
   - [[en:lexicon:g2269|Ēsaû]]
   - [[en:lexicon:g2270|hēsycházō]]
   - [[en:lexicon:g2271|hēsychía]]
@@ -2371,13 +2327,9 @@
   - [[en:lexicon:g2279|ēchos]]
 
 
-===== T =====
-
-  - [[en:lexicon:g2280|Thaddaîos]]
-
-
 ===== t =====
 
+  - [[en:lexicon:g2280|Thaddaîos]]
   - [[en:lexicon:g2281|thálassa]]
   - [[en:lexicon:g2282|thálpō]]
   - [[en:lexicon:g2283|Thámar]]
@@ -2482,7 +2434,7 @@
   - [[en:lexicon:g2382|thṓrax]]
 
 
-===== I =====
+===== i =====
 
   - [[en:lexicon:g2383|Iáeiros]]
   - [[en:lexicon:g2384|Iakṓb]]
@@ -2495,10 +2447,6 @@
   - [[en:lexicon:g2387|Iambrēs]]
   - [[en:lexicon:g2388|Ianná]]
   - [[en:lexicon:g2389|Iannēs]]
-
-
-===== i =====
-
   - [[en:lexicon:g2390|iáomai]]
   - [[en:lexicon:g2391|Iáred]]
   - [[en:lexicon:g2392|íasis]]
@@ -2650,10 +2598,6 @@
   - [[en:lexicon:g2530|kathóti]]
   - [[en:lexicon:g2531|kathṓs]]
   - [[en:lexicon:g2532|kaí]]
-
-
-===== K =====
-
   - [[en:lexicon:g2533|Kaïáphas]]
   - [[en:lexicon:g2534|kaíge]]
   - [[en:lexicon:g2535|Káïn]]
@@ -3100,10 +3044,6 @@
 ===== l =====
 
   - [[en:lexicon:g2975|lanchánō]]
-
-
-===== L =====
-
   - [[en:lexicon:g2976|Lázaros]]
   - [[en:lexicon:g2977|láthra]]
   - [[en:lexicon:g2978|laîlaps]]
@@ -3222,15 +3162,11 @@
   - [[en:lexicon:g3091|Lṓt]]
 
 
-===== M =====
+===== m =====
 
   - [[en:lexicon:g3092|Maáth]]
   - [[en:lexicon:g3093|Magdalá]]
   - [[en:lexicon:g3094|Magdalēnḗ]]
-
-
-===== m =====
-
   - [[en:lexicon:g3095|mageía]]
   - [[en:lexicon:g3096|mageúō]]
   - [[en:lexicon:g3097|mágos]]
@@ -3518,7 +3454,7 @@
   - [[en:lexicon:g3475|Mōseús]]
 
 
-===== N =====
+===== n =====
 
   - [[en:lexicon:g3476|Naassṓn]]
   - [[en:lexicon:g3477|Nangaí]]
@@ -3527,10 +3463,6 @@
   - [[en:lexicon:g3480|Nazōraîos]]
   - [[en:lexicon:g3481|Nathán]]
   - [[en:lexicon:g3482|Nathanaḗl]]
-
-
-===== n =====
-
   - [[en:lexicon:g3483|naí]]
   - [[en:lexicon:g3484|Naḯn]]
   - [[en:lexicon:g3485|naós]]
@@ -3660,10 +3592,6 @@
   - [[en:lexicon:g3601|odýnē]]
   - [[en:lexicon:g3602|odyrmós]]
   - [[en:lexicon:g3603|hó esti]]
-
-
-===== O =====
-
   - [[en:lexicon:g3604|Ozías]]
   - [[en:lexicon:g3605|ózō]]
   - [[en:lexicon:g3606|hóthen]]
@@ -3882,10 +3810,6 @@
   - [[en:lexicon:g3815|paízō]]
   - [[en:lexicon:g3816|paîs]]
   - [[en:lexicon:g3817|paíō]]
-
-
-===== P =====
-
   - [[en:lexicon:g3818|Pakatianḗ]]
   - [[en:lexicon:g3819|pálai]]
   - [[en:lexicon:g3820|palaiós]]
@@ -4534,13 +4458,9 @@
   - [[en:lexicon:g4459|pōs]]
 
 
-===== R =====
-
-  - [[en:lexicon:g4460|Rhaáb]]
-
-
 ===== r =====
 
+  - [[en:lexicon:g4460|Rhaáb]]
   - [[en:lexicon:g4461|rhabbí]]
   - [[en:lexicon:g4462|rhabboní]]
   - [[en:lexicon:g4463|rhabdízō]]
@@ -4607,10 +4527,6 @@
   - [[en:lexicon:g4520|sabbatismós]]
   - [[en:lexicon:g4521|sábbaton]]
   - [[en:lexicon:g4522|sagḗnē]]
-
-
-===== S =====
-
   - [[en:lexicon:g4523|Saddoukaîos]]
   - [[en:lexicon:g4524|Sadṓk]]
   - [[en:lexicon:g4525|saínō]]
@@ -5558,10 +5474,6 @@
   - [[en:lexicon:g5463|chaírō]]
   - [[en:lexicon:g5464|chálaza]]
   - [[en:lexicon:g5465|chaláō]]
-
-
-===== C =====
-
   - [[en:lexicon:g5466|Chaldaîos]]
   - [[en:lexicon:g5467|chalepós]]
   - [[en:lexicon:g5468|chalinagōgéō]]
@@ -5696,13 +5608,9 @@
   - [[en:lexicon:g5597|psṓchō]]
 
 
-===== Ō =====
-
-  - [[en:lexicon:g5598|Ō]]
-
-
 ===== ō =====
 
+  - [[en:lexicon:g5598|Ō]]
   - [[en:lexicon:g5599|ō]]
   - [[en:lexicon:g5600|ō]]
   - [[en:lexicon:g5601|Ōbḗd]]
