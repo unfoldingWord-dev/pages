@@ -31,13 +31,13 @@ Click on the images below to translate each frame of the story.
 [[:en:obs-training:frames:04-06|{{:en:obs:obs-04-06.jpg?200|Abraham Blessed}}]]\\
 04-06. Abraham Blessed\\
 \\
-[[:en:obs-training:frames:04-07|{{:en:obs:obs-04-09.jpg?200|Melchizedek}}]]\\
+[[:en:obs-training:frames:04-07|{{:en:obs:obs-04-07.jpg?200|Melchizedek}}]]\\
 04-07. Melchizedek\\
 \\
-[[:en:obs-training:frames:04-08|{{:en:obs:obs-05-01.jpg?200|No Son}}]]\\
+[[:en:obs-training:frames:04-08|{{:en:obs:obs-04-08.jpg?200|No Son}}]]\\
 04-08. No Son\\
 \\
-[[:en:obs-training:frames:04-09|{{:en:obs:obs-04-07.jpg?200|God's Covenant}}]]\\
+[[:en:obs-training:frames:04-09|{{:en:obs:obs-04-09.jpg?200|God's Covenant}}]]\\
 04-09. God's Covenant\\
 \\
 
