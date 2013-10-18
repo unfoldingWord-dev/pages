@@ -4,7 +4,7 @@
 ===== "son" =====
 
 
-description
+a male offspring
 
 For example:
 
