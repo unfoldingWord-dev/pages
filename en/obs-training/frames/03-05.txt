@@ -3,14 +3,7 @@
 {{:en:obs:obs-03-05.jpg?nolink&640x360}}
 
 
-**Noah** and his family also gathered enough food for themselves and the animals. When everything was ready, **God** told **Noah** it was time for him, his wife, his three sons, and their wives to get into the boat—eight people in all.
-
-
-=== Key Terms: ===
-
- 
-  * **[[:en:key-terms:noah|Noah]]** - Almighty, creator, sinless and perfect
-  * **[[:en:key-terms:god|God]]** - righteous man who built the ark and survived the flood
+**[[:en:key-terms:noah|Noah]]** and his family also gathered enough food for themselves and the animals. When everything was ready, **[[:en:key-terms:god|God]]** told **[[:en:key-terms:noah|Noah]]** it was time for him, his wife, his three sons, and their wives to get into the boat—eight people in all.
 
 
 === Translation Notes: ===
@@ -22,6 +15,6 @@ Pay close attention to ...
   * "//enough food//" - the flood lasted almost a year. Noah needed food for his family and all of the animals for that time.
   * "//eight people//" - Noah and his wife, and his three sons and their wives
 
-**[[:en:obs-training:03b-the-flood|Back]]**
+**[[:en:obs-training:03-the-flood|Back]]**
 
 ~~DISCUSSION~~

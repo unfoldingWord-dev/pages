@@ -3,15 +3,7 @@
 {{:en:obs:obs-03-11.jpg?nolink&640x360}}
 
 
-Later **Noah** sent out a bird called a **dove**. But it also could not find any dry land, so it came back to **Noah**. A week later he sent the **dove** out again, and it came back with an **olive** branch in its beak! The water was going down, and the plants were growing again!
-
-
-=== Key Terms: ===
-
- 
-  * **[[:en:key-terms:noah|Noah]]** - righteous man who built the ark and survived the flood
-  * **[[:en:key-terms:dove|dove]]** - a small bird known as a dove, or pigeon, often a symbol for peace
-  * **[[:en:key-terms:olive|olive]]** - the edible fruit of the olive tree, also squeezed to provide oil
+Later **[[:en:key-terms:noah|Noah]]** sent out a bird called a **[[:en:key-terms:dove|dove]]**. But it also could not find any dry land, so it came back to **[[:en:key-terms:noah|Noah]]**. A week later he sent the **[[:en:key-terms:dove|dove]]** out again, and it came back with an **[[:en:key-terms:olive|olive]]** branch in its beak! The water was going down, and the plants were growing again!
 
 
 === Translation Notes: ===
@@ -26,6 +18,6 @@ Pay close attention to ...
   * "//plants were growing again//" - all of the plants died during the year the flood covered the earth. Ndew plants were now growing from seeds.
   
 
-**[[:en:obs-training:03b-the-flood|Back]]**
+**[[:en:obs-training:03-the-flood|Back]]**
 
 ~~DISCUSSION~~

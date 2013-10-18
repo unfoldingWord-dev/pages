@@ -3,14 +3,7 @@
 {{:en:obs:obs-03-03.jpg?nolink&640x360}}
 
 
-**God** told **Noah** to make the boat about 140 meters long, 23 meters wide, and 13.5 meters high. It was to be made of wood and have three levels, many rooms, a roof, and a window. The boat would keep **Noah**, his family, and two of every kind of animal safe during the flood.
-
-
-=== Key Terms: ===
-
- 
-  * **[[:en:key-terms:god|God]]** - Almighty, creator, sinless and perfect
-  * **[[:en:key-terms:noah|Noah]]** - righteous man who built the ark and survived the flood
+**[[:en:key-terms:god|God]]** told **[[:en:key-terms:noah|Noah]]** to make the boat about 140 meters long, 23 meters wide, and 13.5 meters high. It was to be made of wood and have three levels, many rooms, a roof, and a window. The boat would keep **[[:en:key-terms:noah|Noah]]**, his family, and two of every kind of animal safe during the flood.
 
 
 === Translation Notes: ===
@@ -24,6 +17,6 @@ Pay close attention to ...
   * "//flood//" - the large flood that covered the whole world
 
 
-**[[:en:obs-training:03b-the-flood|Back]]**
+**[[:en:obs-training:03-the-flood|Back]]**
 
 ~~DISCUSSION~~

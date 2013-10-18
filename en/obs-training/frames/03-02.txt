@@ -3,17 +3,7 @@
 {{:en:obs:obs-03-02.jpg?nolink&640x360}}
 
 
-But **Noah** found grace in **God’s** eyes. He was the only **righteous** man among all the **wicked** people. **God** told **Noah** about the flood He was planning to send. He told **Noah** to build a huge boat called an **ark**.
-
-=== Key Terms: ===
-
- 
-  * **[[:en:key-terms:noah|Noah]]** - righteous man who built the ark and survived the flood
-  * **[[:en:key-terms:god|God]]** - Almighty, creator, sinless and perfect
-  * **[[:en:key-terms:grace|grace]]** - favor or a pleasing reputation
-  * **[[:en:key-terms:righteous|righteous]]** - just, acting in a way that is proper, proven correct
-  * **[[:en:key-terms:wicked|wicked]]** - very evil person who deserves punishment for crimes
-  * **[[:en:key-terms:ark|ark]]** - literally a box or chest, also the large boat that Noah build to survive the flood
+But **[[:en:key-terms:noah|Noah]]** found **[[:en:key-terms:grace|grace]]** in **[[:en:key-terms:god|God's]]** eyes. He was the only **[[:en:key-terms:righteous|righteous]]** man among all the **[[:en:key-terms:wicked|wicked]]** people. **[[:en:key-terms:god|God]]** told **[[:en:key-terms:noah|Noah]]** about the flood He was planning to send. He told **[[:en:key-terms:noah|Noah]]** to build a huge boat called an **[[:en:key-terms:ark|ark]]**.
 
 
 === Translation Notes: ===
@@ -28,6 +18,6 @@ Pay close attention to ...
   * "//planning to send//" - God told Noah about the flood many years before it happened so he would have enough time to build the ark
 
 
-**[[:en:obs-training:03b-the-flood|Back]]**
+**[[:en:obs-training:03-the-flood|Back]]**
 
 ~~DISCUSSION~~

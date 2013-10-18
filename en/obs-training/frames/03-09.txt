@@ -6,12 +6,6 @@
 After the rains stopped, the boat floated on the water for five months, and then one day the boat rested on the top of a mountain. But the world was still covered with water. After three more months, the tops of the mountains were visible.
 
 
-=== Key Terms: ===
-
- 
-  * **[[:en:key-terms:beginning|sample]]** - explanation
-
-
 === Translation Notes: ===
 
 
@@ -24,6 +18,6 @@ Pay close attention to ...
   * "//mountains were visible//" - the water finally receded enough that the highest peaks could be seen
 
 
-**[[:en:obs-training:03b-the-flood|Back]]**
+**[[:en:obs-training:03-the-flood|Back]]**
 
 ~~DISCUSSION~~
