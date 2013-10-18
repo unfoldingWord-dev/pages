@@ -3,26 +3,10 @@
 {{:en:obs:obs-05-01.jpg?nolink&640x360}}
 
 
-**Abram** and **Sarai** waited over twenty years, but they still had no **son**. **God** spoke to **Abram** and **promised** again that he would have a **son** and as many **descendants** as the stars in the sky. **Abram** **believed** **God’s** **promise**. **God** said that **Abram** was **righteous** through **believing** in **God's** **promise**.
-
-
-=== Key Terms: ===
-
- 
-  * **[[:en:key-terms:abram|Abram]]** - the original name of Abraham
-  * **[[:en:key-terms:sarai|Sarai]]** - the original name of Abraham's wife, Sarah
-  * **[[:en:key-terms:son|son]]** - a male offspring
-  * **[[:en:key-terms:god|God]]** - Almighty, creator, sinless and perfect
-  * **[[:en:key-terms:promise|promise]]** - a covenant, promise, or binding agreement between two or more people
-  * **[[:en:key-terms:descendant|descendants]]** - people who are physically derived from someone by birth; children, grand children, etc.
-  * **[[:en:key-terms:believe|believe]]** - to trust or rely upon something or someone
-  * **[[:en:key-terms:righteous|righteous]]** - just, acting in a way that is proper, proven correct
+**[[:en:key-terms:abram|Abram]]** and **[[:en:key-terms:sarai|Sarai]]** waited over twenty years, but they still had no **[[:en:key-terms:son|son]]**. **[[:en:key-terms:god|God]]** spoke to **[[:en:key-terms:abram|Abram]]** and **[[:en:key-terms:promise|promised]]** again that he would have a **[[:en:key-terms:son|son]]** and as many **[[:en:key-terms:descendant|descendants]]** as the stars in the sky. **[[:en:key-terms:abram|Abram]]** **[[:en:key-terms:believe|believed]]** **[[:en:key-terms:god|God's]]** **[[:en:key-terms:promise|promise]]**. **[[:en:key-terms:god|God]]** said that **[[:en:key-terms:abram|Abram]]** was **[[:en:key-terms:righteous|righteous]]** through **[[:en:key-terms:believe|believing]]** in **[[:en:key-terms:god|God's]]** **[[:en:key-terms:promise|promise]]**.
 
 
 === Translation Notes: ===
-
-
-Pay close attention to ...
 
 
   * "//twenty years//" - twenty years after God promised that Abram would have a son
@@ -32,6 +16,6 @@ Pay close attention to ...
   * "//God's promise//" - that Abram's name would become great and his descendents would possess the land
   
 
-**[[:en:obs-training:04b-gods-covenant-with-abraham|Back]]**
+**[[:en:obs-training:04-gods-covenant-with-abraham|Back]]**
 
 ~~DISCUSSION~~
