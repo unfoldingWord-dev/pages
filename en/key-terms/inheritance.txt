@@ -4,7 +4,7 @@
 ===== "inheritance" =====
 
 
-description
+Land and wealth passed from father to son.
 
 For example:
 
