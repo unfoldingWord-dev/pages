@@ -4,12 +4,9 @@
 {{:en:obs:obs-02-02.jpg?nolink&640x360}}
 
 
-But there was a crafty **snake** in the garden. He asked the woman, “Did **God** really tell you not to eat the fruit from the trees in the garden?”
-=== Key Terms: ===
+But there was a crafty **[[:en:key-terms:snake|snake]]** in the garden. He asked the woman, “Did **[[:en:key-terms:god|God]]** really tell you not to eat the fruit from the trees in the garden?”
 
 
-    * **[[:en:key-terms:snake|snake]]**- serpent, reptile, a common description or image for Satan
-    * **Go[[:en:key-terms:god|d]]**- (TW capitalize God) Almighty, creator, sinless and perfect
 === Translation Notes: ===
 
 
@@ -22,7 +19,7 @@ Pay close attention to …
     * "//fruit of the trees//" - all of the various types of fruit from the different trees in the garden
 
 
-**[[:en:obs-training:02b-sin-enters-the-world|Back]]** 
+**[[:en:obs-training:02-sin-enters-the-world|Back]]** 
 
 
 ~~DISCUSSION~~

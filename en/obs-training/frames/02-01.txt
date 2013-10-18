@@ -4,15 +4,7 @@
 {{:en:obs:obs-02-01.jpg?nolink&640x360}}
 
 
-**Adam** and his wife were very happy living in the beautiful garden **God** had made for them. Neither of them wore clothes, but they did not feel any **shame**, because there was no **sin ** in the world. They often walked in the garden and talked with **God**.
-=== Key Terms: ===
-
-
-
-    * [[:en:key-terms:adam|Adam]] - the first man. Adam's name was literally the Hebrew word for "man."
-    * [[:en:key-terms:GOD|God]] - Almighty, creator, sinless and perfect
-    * [[:en:key-terms:shame|shame]] - a sense that something is inappropriate, should not be done, or causes a bad reputation
-    * [[:en:key-terms:sin|sin]] - anything that is opposed to the way God desires for us to think and act
+**[[:en:key-terms:adam|Adam]]** and his wife were very happy living in the beautiful garden **[[:en:key-terms:GOD|God]]** had made for them. Neither of them wore clothes, but they did not feel any **[[:en:key-terms:shame|shame]]**, because there was no **[[:en:key-terms:sin|sin]]** in the world. They often walked in the garden and talked with **[[:en:key-terms:GOD|God]]**.
 
 
 === Translation Notes: ===
@@ -25,6 +17,6 @@ Pay close attention to …
     * "//often walked … and talked with God//" - the man and the woman regularly had close, personal fellowship with God. They walked and talked with him as one would do with a friend.
 
 
-**[[:en:obs-training:02b-sin-enters-the-world|Back]]**
+**[[:en:obs-training:02-sin-enters-the-world|Back]]**
 
 ~~DISCUSSION~~

@@ -4,11 +4,7 @@
 {{:en:obs:obs-02-06.jpg?nolink&640x360}}
 
 
-Suddenly, their eyes were opened, and they realized they were **naked**. They tried to cover their nakedness by sewing leaves together to make clothes.
-=== Key Terms: ===
-
-
-    * **[[:en:key-terms:naked|naked]]**- not having any clothing or covering
+Suddenly, their eyes were opened, and they realized they were **[[:en:key-terms:naked|naked]]**. They tried to cover their nakedness by sewing leaves together to make clothes.
 
 
 === Translation Notes: ===
@@ -22,6 +18,6 @@ Pay close attention to …
     * "//cover their nakedness//" - the man and the woman attempted to use leaves to hide their bodies and their sin from God. It was a futile effort. Clothes can not hide us from God's view.
 
 
-**[[:en:obs-training:02b-sin-enters-the-world|Back]]**
+**[[:en:obs-training:02-sin-enters-the-world|Back]]**
 
 ~~DISCUSSION~~

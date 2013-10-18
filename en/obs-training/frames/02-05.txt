@@ -4,11 +4,7 @@
 {{:en:obs:obs-02-05.jpg?nolink&640x360}}
 
 
-The woman saw that the fruit was beautiful and looked delicious. She also wanted to be **wise**, so she picked some of the fruit and ate it. Then she turned and gave some to her husband, who was with her, and he ate it, too.
-=== Key Terms: ===
-
-
-    * **[[:en:key-terms:wise|wise]]**- decisions and actions that are in accordance with the existance and nature of God
+The woman saw that the fruit was beautiful and looked delicious. She also wanted to be **[[:en:key-terms:wise|wise]]**, so she picked some of the fruit and ate it. Then she turned and gave some to her husband, who was with her, and he ate it, too.
 
 
 === Translation Notes: ===
@@ -22,6 +18,6 @@ Pay close attention to …
     * "//he ate it//" - the man made his own decision to eat the fruit
 
 
-**[[:en:obs-training:02b-sin-enters-the-world|Back]]**
+**[[:en:obs-training:02-sin-enters-the-world|Back]]**
 
 ~~DISCUSSION~~
