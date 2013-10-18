@@ -2,23 +2,10 @@
 
 {{:en:obs:obs-05-03.jpg?nolink&640x360}}
 
-“I am God Almighty. I will make a covenant with you.” Then Abraham bowed to the ground. God said, “You will be the father of many nations. I will give you and your descendants the land of Canaan as their possession and I will be their God forever. Every male in your family must be circumcised.”
-
-
-
-=== Key Terms: ===
-
+“I am **[[:en:key-terms:god|God]]** Almighty. I will make a **[[:en:key-terms:covenant|covenant]]** with you.” Then **[[:en:key-terms:abraham|Abraham]]** bowed to the ground. **[[:en:key-terms:god|God]]** said, “You will be the father of many nations. I will give you and your **[[:en:key-terms:descendant|descendants]]** the land of **[[:en:key-terms:canaan|Canaan]]** as their possession and I will be their **[[:en:key-terms:god|God]]** forever. Every male in your family must be **[[:en:key-terms:circumcism|circumcised]]**.”
  
-  * **[[:en:key-terms:beginning|sample]]** - explanation
-  * **[[:en:key-terms:beginning|sample]]** - explanation
-  * **[[:en:key-terms:beginning|sample]]** - explanation
-  * **[[:en:key-terms:beginning|sample]]** - explanation
-
 
 === Translation Notes: ===
-
-
-Pay close attention to ...
 
 
   * "//issue//" - explanation
@@ -27,6 +14,6 @@ Pay close attention to ...
   * "//issue//" - explanation
   
 
-**[[:en:obs-training:05b-the-son-of-promise|Back]]**
+**[[:en:obs-training:05-the-son-of-promise|Back]]**
 
 ~~DISCUSSION~~
