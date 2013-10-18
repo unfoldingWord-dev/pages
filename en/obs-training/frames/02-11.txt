@@ -4,16 +4,7 @@
 {{:en:obs:obs-02-11.jpg?nolink&640x360}}
 
 
-**God** said to the man, “You listened to your wife and **disobeyed** me. Now the ground is **cursed**, and you will need to work hard to grow food. Then you will **die**, and your body will return to dirt.” The man named his wife **Eve**, which means “**life**,” because she would become the mother of all people. And **God** clothed **Adam** and **Eve** with animal skins.
-=== Key Terms: ===
-
-
-    * **[[:en:key-terms:god|God]]** - Almighty, creator, sinless and perfect
-    * **[[:en:key-terms:disobey|disobeyed]]** - to not do, or do differently than instructed, literally, "to not hear"
-    * **[[:en:key-terms:curse|cursed]]** - to express an intention to cause bad or negative things to happen to someone
-    * **[[:en:key-terms:die|die]]** - to die is to be separated from God and from life on this earth
-    * **[[:en:key-terms:eve|Eve]]** - the first woman; name literally means "life"
-    * **[[:en:key-terms:life|life]]** - literally, the "breath of life"
+**[[:en:key-terms:god|God]]** said to the man, “You listened to your wife and **[[:en:key-terms:disobey|disobeyed]]** me. Now the ground is **[[:en:key-terms:curse|cursed]]**, and you will need to work hard to grow food. Then you will **[[:en:key-terms:die|die]]**, and your body will return to dirt.” The man named his wife **[[:en:key-terms:eve|Eve]]**, which means “**[[:en:key-terms:life|life]]**,” because she would become the mother of all people. And **[[:en:key-terms:god|God]]** clothed **[[:en:key-terms:adam|Adam]]** and **[[:en:key-terms:eve|Eve]]** with animal skins.
 
 
 === Translation Notes: ===
@@ -29,6 +20,6 @@ Pay close attention to …
     * "//mother of all people//" - Every person is a direct descendant of Eve. 
 
 
-**[[:en:obs-training:02b-sin-enters-the-world|Back]]**
+**[[:en:obs-training:02-sin-enters-the-world|Back]]**
 
 ~~DISCUSSION~~

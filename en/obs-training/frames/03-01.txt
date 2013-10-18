@@ -3,14 +3,8 @@
 {{:en:obs:obs-03-01.jpg?nolink&640x360}}
 
 
-After a long time, many people were living in the world. They had become very **wicked** and violent. It became so bad that **God** decided to destroy the whole world with a huge flood.
+After a long time, many people were living in the world. They had become very **[[:en:key-terms:wicked|wicked]]** and violent. It became so bad that **[[:en:key-terms:god|God]]** decided to destroy the whole world with a huge flood.
 
-
-=== Key Terms: ===
-
- 
-  * **[[:en:key-terms:wicked|wicked]]** - very evil person who deserves punishment for crimes
-  * **[[:en:key-terms:god|God]]** - Almighty, creator, sinless and perfect
 
 === Translation Notes: ===
 
@@ -24,6 +18,6 @@ Pay close attention to ...
   * "//huge flood//" - an unusually large flood where water covered the top of even the highest mountains
   
 
-**[[:en:obs-training:03b-the-flood|Back]]**
+**[[:en:obs-training:03-the-flood|Back]]**
 
 ~~DISCUSSION~~

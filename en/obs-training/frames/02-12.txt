@@ -4,17 +4,7 @@
 {{:en:obs:obs-02-12.jpg?nolink&640x360}}
 
 
-Then **God** said, “Now that the human beings have become like us by knowing **good** and **evil**, they must not be allowed to eat the fruit of the tree of life and live forever.” So **God** sent **Adam** and **Eve** away from the beautiful garden. **God** placed large, powerful **angels** at the entrance to the garden to keep anyone from eating the fruit of the tree of life.
-
-=== Key Terms: ===
-
-
-    * **[[:en:key-terms:god|God]]** - Almighty, creator, sinless and perfect
-    * **[[:en:key-terms:good|good]]** - in agreement with God's character and purposes, to an extra measure
-    * **[[:en:key-terms:evil|evil]]** - opposed to God's character and purposes
-    * **[[:en:key-terms:adam|Adam]]** - the first man. Adam's name was literally the Hebrew word for "man"
-    * **[[:en:key-terms:eve|Eve]]** - the first woman; name literally means "life"
-    * **[[:en:key-terms:angel|angels]]** - a powerful spirit being created by God to serve him. Literally, a "messenger"
+Then **[[:en:key-terms:god|God]]** said, “Now that the human beings have become like us by knowing **[[:en:key-terms:good|good]]** and **[[:en:key-terms:evil|evil]]**, they must not be allowed to eat the fruit of the tree of **[[:en:key-terms:life|life]]** and live forever.” So **[[:en:key-terms:god|God]]** sent **[[:en:key-terms:adam|Adam]]** and **[[:en:key-terms:eve|Eve]]** away from the beautiful garden. **[[:en:key-terms:god|God]]** placed large, powerful **[[:en:key-terms:angel|angels]]** at the entrance to the garden to keep anyone from eating the fruit of the tree of life.
 
 
 === Translation Notes: ===
@@ -32,6 +22,6 @@ Pay close attention to …
     * "//angels at the entrance//" - the angels acted as guards to prevent access to the garden
 
 
-**[[:en:obs-training:02b-sin-enters-the-world|Back]]**
+**[[:en:obs-training:02-sin-enters-the-world|Back]]**
 
 ~~DISCUSSION~~

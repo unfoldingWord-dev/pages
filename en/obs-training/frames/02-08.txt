@@ -4,17 +4,10 @@
 {{:en:obs:obs-02-08.jpg?nolink&640x360}}
 
 
-Then **God** asked, “Who told you that you were **naked**? Did you eat the fruit I told you not to eat?” The man answered, “You gave me this woman, and she gave me the fruit.” Then **God** asked the woman, “What have you done?” The woman replied, “The **snake** tricked me.”
-=== Key Terms: ===
+Then **[[:en:key-terms:god|God]]** asked, “Who told you that you were **[[:en:key-terms:naked|naked]]**? Did you eat the fruit I told you not to eat?” The man answered, “You gave me this woman, and she gave me the fruit.” Then **[[:en:key-terms:god|God]]** asked the woman, “What have you done?” The woman replied, “The **[[:en:key-terms:snake|snake]]** tricked me.”
 
 
-    * **[[:en:key-terms:god|God]]**- Almighty, creator, sinless and perfect
-    * **[[:en:key-terms:naked|naked]]**- not having any clothing or covering
-    * **[[:en:key-terms:snake|snake]]**- serpent, reptile, a common description or image for Satan
 === Translation Notes: ===
-
-
-Pay close attention to …
 
 
     * "Who told you that you were naked?" - Being naked was not a sin. God created them that way. Their knowledge of their nakedness was the problem. Their shame showed that they had sinned.
@@ -22,7 +15,7 @@ Pay close attention to …
     * "//The snake tricked me//" - The woman blamed the snake rather than confessing her disobedience.
 
 
-**[[:en:obs-training:02b-sin-enters-the-world|Back]]** 
+**[[:en:obs-training:02-sin-enters-the-world|Back]]** 
 
 
 ~~DISCUSSION~~
