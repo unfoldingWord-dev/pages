@@ -3,20 +3,10 @@
 {{:en:obs:obs-04-03.jpg?nolink&640x360}}
 
 
-So **He** changed their language into many different languages and spread the people out all over the world. The city they had begun to build was called **Babel**, which means “confused.”
-
-
-=== Key Terms: ===
-
- 
-  * **[[:en:key-terms:god|He]]** - Almighty, creator, sinless and perfect
-  * **[[:en:key-terms:babel|Babel]]** - the ancient Middle-Eastern city where God confused the languages
+So **[[:en:key-terms:god|He]]** changed their language into many different languages and spread the people out all over the world. The city they had begun to build was called **[[:en:key-terms:babel|Babel]]**, which means “confused.”
 
 
 === Translation Notes: ===
-
-
-Pay close attention to ...
 
 
   * "//So He changed//" - pronoun "He" refers to God
@@ -26,6 +16,6 @@ Pay close attention to ...
   * "//confused//" - refers to the confusion that resulted from the people no longer being able to communicate with each other in a common language
   
 
-**[[:en:obs-training:04b-gods-covenant-with-abraham|Back]]**
+**[[:en:obs-training:04-gods-covenant-with-abraham|Back]]**
 
 ~~DISCUSSION~~

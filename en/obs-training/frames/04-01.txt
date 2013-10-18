@@ -3,20 +3,10 @@
 {{:en:obs:obs-04-01.jpg?nolink&640x360}}
 
 
-Many years after the flood, there were again many people in the world, and they all spoke the same language. But the people did not **obey** **God**. Instead of having children and filling the earth, they gathered together and built a city.
-
-
-=== Key Terms: ===
-
- 
-  * **[[:en:key-terms:obey|obey]]** - literally "to hear," meaning to do what was commanded
-  * **[[:en:key-terms:god|God]]** - Almighty, creator, sinless and perfect
+Many years after the flood, there were again many people in the world, and they all spoke the same language. But the people did not **[[:en:key-terms:obey|obey]]** **[[:en:key-terms:god|God]]**. Instead of having children and filling the earth, they gathered together and built a city.
 
 
 === Translation Notes: ===
-
-
-Pay close attention to ...
 
 
   * "//many years after the flood//" - many generations
@@ -25,6 +15,6 @@ Pay close attention to ...
   * "//a city//" - we are not sure of the location of this city
   
 
-**[[:en:obs-training:04b-gods-covenant-with-abraham|Back]]**
+**[[:en:obs-training:04-gods-covenant-with-abraham|Back]]**
 
 ~~DISCUSSION~~

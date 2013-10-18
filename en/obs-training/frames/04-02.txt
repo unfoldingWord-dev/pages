@@ -3,22 +3,10 @@
 {{:en:obs:obs-04-02.jpg?nolink&640x360}}
 
 
-They were very **proud**, and they did not care about what **God** said. They even began building a tall tower to reach **heaven**. **God** saw that if they all kept working together, they could do many **evil** things.
-
-
-=== Key Terms: ===
-
- 
-  * **[[:en:key-terms:proud|proud]]** - to consider oneself to be high or exalted
-  * **[[:en:key-terms:god|God]]** - Almighty, creator, sinless and perfect
-  * **[[:en:key-terms:heaven|heaven]]** - heaven, or sky
-  * **[[:en:key-terms:evil|evil]]** - opposed to God's character and purposes
+They were very **[[:en:key-terms:proud|proud]]**, and they did not care about what **[[:en:key-terms:god|God]]** said. They even began building a tall tower to reach **[[:en:key-terms:heaven|heaven]]**. **[[:en:key-terms:god|God]]** saw that if they all kept working together, they could do many **[[:en:key-terms:evil|evil]]** things.
 
 
 === Translation Notes: ===
-
-
-Pay close attention to ...
 
 
   * "//tall tower to reach heaven//" - a large structure, possibly made from dirt and rock
@@ -26,6 +14,6 @@ Pay close attention to ...
   * "//many evil things//" - things that people do from their own desires and not according to God's instructions are evil 
   
 
-**[[:en:obs-training:04b-gods-covenant-with-abraham|Back]]**
+**[[:en:obs-training:04-gods-covenant-with-abraham|Back]]**
 
 ~~DISCUSSION~~
