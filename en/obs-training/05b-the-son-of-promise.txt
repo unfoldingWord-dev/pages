@@ -1,28 +1,10 @@
-====== 5b. The Son of Promise (simplified) ======
+====== 5b. The Son of Promise ======
 
 
-===== Introduction =====
+===== Overview: =====
 
 
-This section will give you important background information that will help you translate the story accurately.
-
-
-==== Overview: ====
-
-
-short statement ...
-
-
-==== Emphasis of the story: ====
-
-
-expanded statement
-
-
-==== Theological Study ====
-
-
-key theological points, expanded in link ... [[:en:obs-training:theological:05-the-son-of-promise|(... learn more)]]
+Ishmael was born to Abram through Hagar, but Isaac was the son that God had promised. Issac was born to Sarah when she and Abraham were very old. Abraham circumcised all the males in his household as God commanded. He was also willing to sacrifice Isaac at God’s command. God was pleased with Abraham’s obedience and promised to make him a great nation and to bless all the families of the world through him.
 
 
 ===== Translate the Story =====
@@ -31,15 +13,36 @@ key theological points, expanded in link ... [[:en:obs-training:theological:05-t
 Click on the images below to translate each frame of the story.
 
 
-    * [[:en:obs-training:frames:05-01|05-01]]
-    * [[:en:obs-training:frames:05-02|05-02]]
-    * [[:en:obs-training:frames:05-03|05-03]]
-    * [[:en:obs-training:frames:05-04|05-04]]
-    * [[:en:obs-training:frames:05-05|05-05]]
-    * [[:en:obs-training:frames:05-06|05-06]]
-    * [[:en:obs-training:frames:05-07|05-07]]
-    * [[:en:obs-training:frames:05-08|05-08]]
-    * [[:en:obs-training:frames:05-09|05-09]]
-    * [[:en:obs-training:frames:05-10|05-10]]
+[[:en:obs-training:frames:05-01|{{:en:obs:obs-05-01.jpg?200|Marry Hagar}}]]\\
+05-01. Marry Hagar\\
+\\
+[[:en:obs-training:frames:05-02|{{:en:obs:obs-05-02.jpg?200|Ishmael Born}}]]\\
+05-02. Ishmael Born\\
+\\
+[[:en:obs-training:frames:05-03|{{:en:obs:obs-05-03.jpg?200|Covenant Renewed}}]]\\
+05-03. Covenant Renewed\\
+\\
+[[:en:obs-training:frames:05-04|{{:en:obs:obs-05-04.jpg?200|Isaac Promised}}]]\\
+05-04. Isaac Promised\\
+\\
+[[:en:obs-training:frames:05-05|{{:en:obs:obs-05-05.jpg?200|Birth of Isaac}}]]\\
+05-05. Birth of Isaac\\
+\\
+[[:en:obs-training:frames:05-06|{{:en:obs:obs-05-06.jpg?200|Test of Faith}}]]\\
+05-06. Test of Faith\\
+\\
+[[:en:obs-training:frames:05-07|{{:en:obs:obs-05-07.jpg?200|God Will Provide}}]]\\
+05-07. God Will Provide\\
+\\
+[[:en:obs-training:frames:05-08|{{:en:obs:obs-05-08.jpg?200|The Sacrifice}}]]\\
+05-08. The Sacrifice\\
+\\
+[[:en:obs-training:frames:05-09|{{:en:obs:obs-05-09.jpg?200|The Ram}}]]\\
+05-09. The Ram\\
+\\
+[[:en:obs-training:frames:05-10|{{:en:obs:obs-05-10.jpg?200|The Blessing}}]]\\
+05-10. The Blessing\\
+\\
+
 
 ~~DISCUSSION~~

@@ -13,17 +13,12 @@
 Click on the links below to translate each frame of the story.
 
 
-[[:en:obs-training:frames:0x-01|{{:en:obs:obs-0x-01.jpg?200|Title}}]]\\
-0x-01. Title\\
+[[:en:obs-training:frames:0x-01|{{:en:obs:obs-0x-0.jpg?200|Title}}]]\\
+5x-0. Title\\
 \\
-[[:en:obs-training:frames:0x-02|{{:en:obs:obs-0x-02.jpg?200|Title}}]]\\
-0x-02. Title\\
-\\
-[[:en:obs-training:frames:0x-03|{{:en:obs:obs-0x-03.jpg?200|Title}}]]\\
-0x-03. Title\\
-\\
-[[:en:obs-training:frames:0x-04|{{:en:obs:obs-0x-04.jpg?200|Title}}]]\\
-0x-04. Title\\
+
+[[:en:obs-training:frames:0x-02|{{:en:obs:obs-0x-1.jpg?200|Title}}]]\\
+5x-1. Title\\
 \\
 
 
