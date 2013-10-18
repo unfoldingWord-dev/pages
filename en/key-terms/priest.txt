@@ -4,7 +4,7 @@
 ===== "priest" =====
 
 
-description
+a religious official who presented people's offerings to God
 
 For example:
 

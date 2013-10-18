@@ -1,10 +1,10 @@
 ====== Rule ======
 
 
-===== "rule" =====
+===== "rule, authority" =====
 
 
-definition
+to rule, to have authority over (also see [[:en:key-terms:authority|authority]])
 
 
 For example:
