@@ -4,7 +4,7 @@
 ===== "beginning" =====
 
 
-description
+Before anything else. The very first thing. 
 
 For example:
 
