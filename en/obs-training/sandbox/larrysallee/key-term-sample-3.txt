@@ -3,21 +3,29 @@
 
 ===== "to create" =====
 
-==== Definition: ====
-
-
-To form out or cause to exist. Used in the sense of "make out of nothing" when referring to God's initial creation of the heavens and the earth.
+To form or cause to exist. Used in the sense of "make out of nothing" when referring to God's initial creation of the heavens and the earth.
 
 Places in the stories where this term is used:
 
     * **1. Creation** - Frames x, x and x
-
-==== Root words in the Bible: ====
-
-This words below are used in the 
+    * **2. Sin Enters the World** - Frames x, x and x
 
 
-    *     * [[:en:lexicon:h1254|bara' (h1254a)]]
+===== "to make" =====
+
+To form or cause to exist. May use existing materials, such as when God formed Adam from dirt, or made Eve from Adam's rib. 
+
+Places in the stories where this term is used:
+
+    * **1. Creation** - Frames x, x and x
+    * **2. Sin Enters the World** - Frames x, x and x
+
+===== Root words in the Bible =====
+
+This term often translates these words in the Bible: 
+
+
+    * [[:en:lexicon:h1254|bara' (h1254a)]]
 
 
 ~~DISCUSSION~~
