@@ -14,6 +14,9 @@
 
 37-05 :: "Jesus replied, 'I am the Resurrection and the __Life__.'"
 
-50-13 :: "Christians will be given the crown of life."
+50-13 :: "Christians will be given the crown of __life__."
 
 ====Possible Level 2 Descriptions====
+  *to exist
+  *a lifetime (ie 17-09)
+  *
