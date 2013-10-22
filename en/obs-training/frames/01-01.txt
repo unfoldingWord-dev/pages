@@ -9,7 +9,7 @@ This is how the beginning of everything happened. **[[:en:key-terms:god|God]]** 
 ===== Emphasis: =====
 
 
-God is eternal, existing before anything else. He displayed his power by making everything in only six days. God's Spirit also participated in the work of creation.
+God is eternal, existing before anything else. He displayed his power by making everything in only six days. The first step was to create the bare earth completely covered with water. There was not yet any dry land or any living thing. But God's Spirit was there participating in the work of creation.
 
 
 ===== Translation Notes: =====
@@ -27,65 +27,3 @@ God is eternal, existing before anything else. He displayed his power by making 
 
 ~~DISCUSSION~~
 
-
-Text:  [bolding is to show the changes I'm suggesting, with explanations below for discussion purposes]
-
-
-//Suggested revision: // This is how the beginning of everything happened. God created the **heavens and the earth, and everything in them, ** in six days**.**  At first, the earth was dark and empty, and nothing had been formed in it **yet**. **There was only water covering it.**  **And**  God's Spirit was **moving**  over the water.
-
-
-'heavens and earth' - more clear and concrete, keeps it closer to the biblical wording, avoids the problem of 'earth' appearing suddenly without explanation in the second sentence. Also added commas for clarity.
-
-
-"There was only water covering it" - again this introduces the concept of water being there before it is commented on in the next sentence; it would also capture the fact that water is mentioned ("the deep") in Gen 1:2
-
-
-"And" - although the Hebrew word here can mean a wide variety of things including "but", it doesn't seem that there should be a contrast here, almost as if the presence of God's Spirit is being contrasted to the absence of created things.
-
-
-"moving" - there is a word here in Hebrew meaning hovering or indicating some kind of movement; sounds more natural than 'there' <font 13px/arial;;#000000;;#ffffff>(IMO)</font> 
-
-
-Translation notes/helps:  [Suggest not capitalizing second word of this heading]
-
-
-[Suggest not using italics in this section. The important terms especially should be in the same font as they appear in the text.]
-
-
-"the beginning" - refers to the beginning of all things, to a time before anything was created. You could say, "Before anything else existed, God..."
-
-
-"At first" - refers to how the earth was/looked before God created anything on it.
-
-
-"day" - refers to a literal 24-hour period of time, which began at sundown and ended at sundown of the following day. In many cultures people begin and end their days at sunrise.
-
-
-[I added this last information bc it may be confusing to a translator if he/she thinks of a day differently than the biblical account does. A **deeper layer**  should address the wording of this in the original text (evening and morning....), showing that God meant this very literal time period and also explaining that this is how the Hebrew people and others continued to count when their days began/ended..] 
-
-
-"nothing had been formed" -  means that God had not yet created anything on the earth
-
-
-"dark" - refers to the fact [vs.: means] that God had not yet created the light [the other explanatory notes would go in a different layer  -- not necessary for translation purposes]
-
-
-"empty" - refers to the fact [vs. means] that God had not yet created anything else on the earth  [this should be a separate entry from "dark"]
-
-
-Spirit - literally means "breath" or "wind" and refers here to God's being/essence, which cannot be seen. Often in the Bible "God's Spirit" refers to the Holy Spirit. Make sure that the translation of this term does **//not //**refer to the spirit of a dead person.
-
-
-[The above is a tentative suggestion -- we have to have some definition of the term so that they can translate it. Also need to warn against common problems.. A **deeper layer ** should include more about the fact that this word is ambiguous but that the majority interpretation is that this refers to the Holy Spirit]
-
-
-**[It would good to agree on a few key reliable resources that we can all refer to for the content of these explanations]
-
-
-[The following should all be put in a **different layer**, check consistency of verb tenses, here and in previous] "the spirit of God is free to move about and examine what he **has**made. God is close to his creation, he knows all about it, and he is not far away from it.
-
-
-[The comments about "God created...God's Spirit was" there should be in a **different layer.**]
-
-
-=====  =====
