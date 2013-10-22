@@ -3,7 +3,7 @@
 
 ===== “rest, to rest" =====
 
-(Level 1 to date) To cease from labor.
+(Level 1 to date) :: To cease from labor.
 
 ====Some Occurrences====
 
@@ -13,6 +13,6 @@
 
 13-05 :: "for the seventh day is a day of __rest__ to remember the LORD."
 
-
+303-01 :: "come with him to a quiet place to __rest__ for a while."
 
 ====Potential Level 2 Descriptions====
