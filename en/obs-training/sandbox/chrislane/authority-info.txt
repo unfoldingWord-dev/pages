@@ -11,7 +11,7 @@
 
 42-10 :: "Jesus said to his disciples, 'All __authority__ in heaven and on earth has been given to me.'"
 
-====Possible Level 2 Descriptions====
+====Possible Level 2 Descriptions/Explanation====
 
   *power to rule over
   *to be given charge over
