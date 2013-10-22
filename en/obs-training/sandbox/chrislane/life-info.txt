@@ -3,7 +3,9 @@
 
 ===== "life" =====
 
-====Selected Frames====
+(Level 1 definition to date) :: None
+
+====Some Occurrences====
 01-10 :: "So God took some dirt, formed it into a man, and breathed __life__ into him."
 
 01-11 :: "...God planted two special trees—the tree of __life__ and the tree of the knowledge of good and evil."
@@ -19,4 +21,6 @@
 ====Possible Level 2 Descriptions====
   *to exist
   *a lifetime (ie 17-09)
-  *
+
+
+~~DISCUSSION~~
