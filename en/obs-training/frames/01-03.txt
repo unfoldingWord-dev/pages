@@ -4,7 +4,7 @@
 {{:en:obs:obs-01-03.jpg?nolink&640x360}}
 
 
-On the second day of **[[:en:key-terms:creation|creation]]**, **[[:en:key-terms:god|God]]** spoke and **[[:en:key-terms:create|created]]** the sky above the earth.
+On the second day of creation, **[[:en:key-terms:god|God]]** spoke and created the sky above the earth.
 
 
 ===== Emphasis: =====
@@ -16,10 +16,10 @@ During the second day of creation, God displayed His power by creating the sky w
 ===== Translation Notes: =====
 
 
-    * //"the Second Day" //- God accomplishes the work of creation with a series of creation actions, each building on the one before. God's plan was orderly, comprehensive and purposeful. Creation demonstrates the purpose and wisdom of God. The days show not only what God made, but the order in which he made everything. 
-    * "//day//" - a literal 24-hour period 
-    * "//God spoke//" - God created the sky by means of a simple verbal command 
-    * "//sky//" - the space above the earth, including the air we breathe and the heavens 
+    * **the second day** - God's work of creation was orderly, purposeful, and sequential. The things He created each day built upon and depended on the acts of the previous days.
+    * **God spoke** - God created the sky by means of a simple verbal command. 
+    * **created** - here used in the sense of making the sky out of nothing
+    * **sky** - the space above the earth, including the air we breathe and the heavens 
 
 
 **[[:en:obs-training:01-the-creation|Back]]**
