@@ -16,10 +16,10 @@ God spoke again on the fourth day and created the sun, moon and stars. He made e
 ===== Translation Notes: =====
 
 
-    * "//[[:en:obs-training:words:day|day]]//" - a literal 24-hour period 
-    * "//God spoke//" - God created the sun, moon, and stars by means of a simple verbal command 
-    * "//light//" - shining objects in the sky 
-    * "//seasons" - //  the different portion of year divided into set times that are about the same every year. 
+    * **the fourth day** - the next in the orderly series of days in which God created
+    * **God spoke** - God created the sun, moon, and stars by means of a simple verbal command.
+    * **light** - shining objects in the sky now provided light for the earth, replacing the special light that God made on the first day
+    * **day and night, seasons and years** - God created a different light to mark each portion of time from small to large, and set them to repeat continually until the end of time. 
 
 
 **[[:en:obs-training:01-the-creation|Back]]**
