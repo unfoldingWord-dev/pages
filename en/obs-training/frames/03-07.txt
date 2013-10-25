@@ -1,4 +1,4 @@
-==== 03-07. The Rain Begins ====
+====== 03-07. The Rain Begins ======
 
 {{:en:obs:obs-03-07.jpg?nolink&640x360}}
 
@@ -6,13 +6,19 @@
 Then it began to rain, and rain, and rain. It rained for forty days and forty nights without stopping! Water also came gushing up out of the earth. Everything in the whole world was covered with water, even the highest mountains.
 
 
-=== Translation Notes: ===
+===== Emphasis: =====
+
+ 
+paraphrase text
 
 
-  * "//rain, and rain, and rain//" - an unusual, extreme amount of rain 
-  * "//forty days and forty nights//" - the rain continued both day and night for 40 days in a row
-  * "//gushing up out of the earth//" - water also came up from unusually large springs
-  * "//whole world was covered//" - there was not dry land at all. Water covered even the mountains. The earth returned to its condition before God created the dry land on the third day of creation.
+===== Translation Notes: =====
+
+
+  * **rain, and rain, and rain** - an unusual, extreme amount of rain 
+  * **forty days and forty nights** - the rain continued both day and night for 40 days in a row
+  * **gushing up out of the earth** - water also came up from unusually large springs
+  * **whole world was covered** - there was not dry land at all. Water covered even the mountains. The earth returned to its condition before God created the dry land on the third day of creation.
 
 
 **[[:en:obs-training:03-the-flood|Back]]**

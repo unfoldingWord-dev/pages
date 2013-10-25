@@ -1,4 +1,4 @@
-==== 03-12. Dry Land ====
+====== 03-12. Dry Land ======
 
 {{:en:obs:obs-03-12.jpg?nolink&640x360}}
 
@@ -6,12 +6,18 @@
 **[[:en:key-terms:noah|Noah]]** waited another week and sent out the dove again. This time, it did not come back. The water had dried up!
 
 
-=== Translation Notes: ===
+===== Emphasis: =====
+
+ 
+paraphrase text
 
 
-  * "//another week//" - Noah waited seven more days for the water to go down before he sent out the dove again
-  * "//a third time//" - (LS. suggest that we change story to say "again" instead of "a third time.")
-  * "//did not come back//" - this time, the dove found enough dry ground and tall enough trees that it chose to stay on the land
+===== Translation Notes: =====
+
+
+  * **another week** - Noah waited seven more days for the water to go down before he sent out the dove again
+  * **a third time** - (LS. suggest that we change story to say "again" instead of "a third time.")
+  * **did not come back** - this time, the dove found enough dry ground and tall enough trees that it chose to stay on the land
  
 
 **[[:en:obs-training:03-the-flood|Back]]**

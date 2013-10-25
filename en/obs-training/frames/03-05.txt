@@ -1,4 +1,4 @@
-==== 03-05. Loading the Boat ====
+====== 03-05. Loading the Boat ======
 
 {{:en:obs:obs-03-05.jpg?nolink&640x360}}
 
@@ -6,11 +6,17 @@
 **[[:en:key-terms:noah|Noah]]** and his family also gathered enough food for themselves and the animals. When everything was ready, **[[:en:key-terms:god|God]]** told **[[:en:key-terms:noah|Noah]]** it was time for him, his wife, his three sons, and their wives to get into the boat—eight people in all.
 
 
-=== Translation Notes: ===
+===== Emphasis: =====
+
+ 
+paraphrase text
 
 
-  * "//enough food//" - the flood lasted almost a year. Noah needed food for his family and all of the animals for that time.
-  * "//eight people//" - Noah and his wife, and his three sons and their wives
+===== Translation Notes: =====
+
+
+  * **enough food** - the flood lasted almost a year. Noah needed food for his family and all of the animals for that time.
+  * **eight people** - Noah and his wife, and his three sons and their wives
 
 **[[:en:obs-training:03-the-flood|Back]]**
 

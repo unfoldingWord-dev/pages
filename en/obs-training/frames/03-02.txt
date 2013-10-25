@@ -1,4 +1,4 @@
-==== 03-02. Noah Finds Grace ====
+====== 03-02. Noah Finds Grace ======
 
 {{:en:obs:obs-03-02.jpg?nolink&640x360}}
 
@@ -6,13 +6,19 @@
 But **[[:en:key-terms:noah|Noah]]** found **[[:en:key-terms:grace|grace]]** in **[[:en:key-terms:god|God's]]** eyes. He was the only **[[:en:key-terms:righteous|righteous]]** man among all the **[[:en:key-terms:wicked|wicked]]** people. **[[:en:key-terms:god|God]]** told **[[:en:key-terms:noah|Noah]]** about the flood He was planning to send. He told **[[:en:key-terms:noah|Noah]]** to build a huge boat called an **[[:en:key-terms:ark|ark]]**.
 
 
-=== Translation Notes: ===
+===== Emphasis: =====
+
+ 
+paraphrase text
 
 
-  * "//found grace//" - God chose to deal kindly with Noah even though Noah was not sinless. 
-  * "//God's eyes//" - a figure of speech meaning that God was aware of Noah's righteous actions
-  * "//flood//" - the huge flood that would cover the entire world
-  * "//planning to send//" - God told Noah about the flood many years before it happened so he would have enough time to build the ark
+===== Translation Notes: =====
+
+
+  * **found grace** - God chose to deal kindly with Noah even though Noah was not sinless. 
+  * **God's eyes** - a figure of speech meaning that God was aware of Noah's righteous actions
+  * **flood** - the huge flood that would cover the entire world
+  * **planning to send** - God told Noah about the flood many years before it happened so he would have enough time to build the ark
 
 
 **[[:en:obs-training:03-the-flood|Back]]**

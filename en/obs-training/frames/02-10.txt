@@ -1,4 +1,4 @@
-==== 02-10. The Woman Is Cursed ====
+====== 02-10. The Woman Is Cursed ======
 
 
 {{:en:obs:obs-02-10.jpg?nolink&640x360}}
@@ -7,12 +7,19 @@
 **[[:en:key-terms:god|God]]** then said to the woman, “I will make childbirth very painful for you. You will desire your husband, and he will rule over you.”
 
 
-=== Translation Notes: ===
+===== Emphasis: =====
+
+ 
+paraphrase text
 
 
-    * "//childbirth very painful//" - pain in childbirth is God's punishment on the woman for disobeying God and eating the fruit
-    * "//desire your husband//" - the woman will want her husband to do whatever she wants him to do
-    * "//rule over you//" - as a result of the woman's disobedience, her husband will be giving a position of authority over her
+===== Translation Notes: =====
+
+
+
+    * **childbirth very painful** - pain in childbirth is God's punishment on the woman for disobeying God and eating the fruit
+    * **desire your husband** - the woman will want her husband to do whatever she wants him to do
+    * **rule over you** - as a result of the woman's disobedience, her husband will be giving a position of authority over her
 
 
 **[[:en:obs-training:02-sin-enters-the-world|Back]]**

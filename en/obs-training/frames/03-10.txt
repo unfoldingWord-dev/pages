@@ -1,4 +1,4 @@
-==== 03-10. The Raven ====
+====== 03-10. The Raven ======
 
 {{:en:obs:obs-03-10.jpg?nolink&640x360}}
 
@@ -6,11 +6,17 @@
 After forty more days, **[[:en:key-terms:noah|Noah]]** sent out a bird called a raven to see if the water had dried up. The raven flew back and forth looking for dry land, but it could not find any.
 
 
-=== Translation Notes: ===
+===== Emphasis: =====
+
+ 
+paraphrase text
 
 
-  * "//raven //" - a black bird similar to a crow. It was large and strong enough to fly a great distance
-  * "//looking for dry land//" - if the raven found dry ground, it would have stayed there. However, it returned to the ark when it could not find a place to rest.
+===== Translation Notes: =====
+
+
+  * **raven** - a black bird similar to a crow. It was large and strong enough to fly a great distance
+  * **looking for dry land** - if the raven found dry ground, it would have stayed there. However, it returned to the ark when it could not find a place to rest.
   
 
 **[[:en:obs-training:03-the-flood|Back]]**

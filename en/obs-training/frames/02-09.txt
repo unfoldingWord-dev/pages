@@ -1,4 +1,4 @@
-==== 02-09. The Snake Is Cursed ====
+====== 02-09. The Snake Is Cursed ======
 
 
 {{:en:obs:obs-02-09.jpg?nolink&640x360}}
@@ -7,14 +7,21 @@
 **[[:en:key-terms:god|God]]** said to the snake, “You are **[[:en:key-terms:curse|cursed]]**! You will slide on your belly and eat dirt. You and the woman will hate each other, and your children and her children will hate each other, too. The woman’s **[[:en:key-terms:descendant|descendant]]** will crush your head, and you will wound his heel.”
 
 
-=== Translation Notes: ===
+===== Emphasis: =====
+
+ 
+paraphrase text
 
 
-    * "//you are cursed//" - this section specifically describes the way that God punished the snake for tempting the man and the woman to disobey God
-    * "//hate each other//" - snakes and people will continue to be enemies, as a reminder of this event
-    * "//woman's descendent//" - The term is singular, looking ahead to one particular, special descendent of the woman. The Bible later reveals this person to  be Jesus.
-    * "//crush his head//" - a figure of speech meaning that the descendent of the woman will destroy the snake at a later time. This points to the time when Jesus will destroy Satan.
-    * "//wound his heel//" - a figure of speech meaning that the snake will injure, but not completely destroy the descendent of the woman. This points to the time when Satan will cause Jesus to be killed, but Jesus will live again.
+===== Translation Notes: =====
+
+
+
+    * **you are cursed** - this section specifically describes the way that God punished the snake for tempting the man and the woman to disobey God
+    * **hate each other** - snakes and people will continue to be enemies, as a reminder of this event
+    * **woman's descendent** - The term is singular, looking ahead to one particular, special descendent of the woman. The Bible later reveals this person to  be Jesus.
+    * **crush his head** - a figure of speech meaning that the descendent of the woman will destroy the snake at a later time. This points to the time when Jesus will destroy Satan.
+    * **wound his heel** - a figure of speech meaning that the snake will injure, but not completely destroy the descendent of the woman. This points to the time when Satan will cause Jesus to be killed, but Jesus will live again.
 
 
 **[[:en:obs-training:02-sin-enters-the-world|Back]]**

@@ -1,4 +1,4 @@
-==== 03-04. Building the Boat ====
+====== 03-04. Building the Boat ======
 
 {{:en:obs:obs-03-04.jpg?nolink&640x360}}
 
@@ -6,13 +6,19 @@
 **[[:en:key-terms:noah|Noah]]** **[[:en:key-terms:obey|obeyed]]** **[[:en:key-terms:god|God]]**. He and his three sons built the boat just the way **[[:en:key-terms:god|God]]** had told them. It took many years to build the boat, because it was so big. **[[:en:key-terms:noah|Noah]]** warned the people about the coming flood and told them to turn to **[[:en:key-terms:god|God]]**, but they just laughed at him.
 
 
-=== Translation Notes: ===
+===== Emphasis: =====
+
+ 
+paraphrase text
 
 
-  * "//warned //" - Noah preached to the people and told them that God planned to destroy the world
-  * "//flood //" - the huge flood that covered the whole world
-  * "//turn to God//" - to agree with God that they were sinners, to ask Him to forgive them, and to begin to serve Him
-  * "//laughed//" - they refused to believe that God would destroy the world. They mocked Noah for his obedience.
+===== Translation Notes: =====
+
+
+  * **warned** - Noah preached to the people and told them that God planned to destroy the world
+  * **flood** - the huge flood that covered the whole world
+  * **turn to God** - to agree with God that they were sinners, to ask Him to forgive them, and to begin to serve Him
+  * **laughed** - they refused to believe that God would destroy the world. They mocked Noah for his obedience.
 
 **[[:en:obs-training:03-the-flood|Back]]**
 
