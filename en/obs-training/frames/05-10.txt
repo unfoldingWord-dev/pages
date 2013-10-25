@@ -1,29 +1,22 @@
-==== 05-10. The Blessing ====
+====== 05-10. The Blessing ======
 
 {{:en:obs:obs-05-10.jpg?nolink&640x360}}
 
 Then God said to Abraham, “Because you were willing to give me everything, even your only son, I promise to bless you. Your descendants will be more than the stars in the sky. Because you have obeyed me, all the families of the world will be blessed through your family.”
 
 
-=== Key Terms: ===
+===== Emphasis: =====
 
  
-  * **[[:en:key-terms:beginning|sample]]** - explanation
-  * **[[:en:key-terms:beginning|sample]]** - explanation
-  * **[[:en:key-terms:beginning|sample]]** - explanation
-  * **[[:en:key-terms:beginning|sample]]** - explanation
+paraphrase text
 
 
-=== Translation Notes: ===
+===== Translation Notes: =====
 
 
-Pay close attention to ...
-
-
-  * "//issue//" - explanation
-  * "//issue//" - explanation
-  * "//issue//" - explanation
-  * "//issue//" - explanation
+  * **issue** - explanation
+  * **issue** - explanation
+  * **issue** - explanation
   
 
 **[[:en:obs-training:05b-the-son-of-promise|Back]]**
