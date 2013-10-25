@@ -18,12 +18,12 @@ God placed two trees with special importance right in the center of the garden. 
 
   * **garden** - an area of land where plants and trees are grown for a particular purpose. God had especially prepared this garden as a place for human beings to live in and enjoy. 
   * **in the middle** - The central location emphasizes the importance of the two trees.
-  * **tree of life** - The fruit of this tree could give unending life to the person who eats it.
-  * **tree of knowledge of good and evil** - The fruit of this tree could enable a person to know the difference between good and evil. 
+  * **tree of [[:en:obs-training/sandbox/chrislane/life-info|life]]** - The fruit of this tree could give unending life to the person who eats it.
+  * **tree of knowledge of [[:en:obs-training/sandbox/chrislane/good-info|good]] and [[:en:obs-training/sandbox/chrislane/evil-info|evil]]** - The fruit of this tree could enable a person to know the difference between good and evil. 
   * **knowledge** - to know or understand by personal experience
   * **from any tree except** - The tree of the knowledge of good and evil was the only forbidden tree. There were other permissible trees in addition to the tree of life.
-  * **good and evil** - extreme opposite terms
-  * **die** - included physical death (separation of his spirit from his body) and spiritual death (separation of the man from God)
+  * **[[:en:obs-training/sandbox/chrislane/good-info|good]] and [[:en:obs-training/sandbox/chrislane/evil-info|evil]]** - extreme opposite terms
+  * **[[:en:obs-training/sandbox/chrislane/die-info|die]]** - included physical death (separation of his spirit from his body) and spiritual death (separation of the man from God)
 
 **[[:en:obs-training:01-the-creation:|Back]]**
 
