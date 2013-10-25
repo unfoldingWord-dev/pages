@@ -1,4 +1,4 @@
-==== 02-07. Where Are You? ====
+====== 02-07. Where Are You? ======
 
 
 {{:en:obs:obs-02-07.jpg?nolink&640x360}}
@@ -7,11 +7,18 @@
 Then the man and his wife heard the sound of **[[:en:key-terms:god|God]]** walking through the garden. They both hid from **[[:en:key-terms:god|God]]**. Then **[[:en:key-terms:god|God]]** called to the man, “Where are you?” **[[:en:key-terms:adam|Adam]]** replied, “I heard you walking in the garden, and I was afraid, because I was naked. So I hid.”
 
 
-=== Translation Notes: ===
+===== Emphasis: =====
+
+ 
+paraphrase text
 
 
-    * "//God walking//" - God apparently appeared in a form that enabled him to "walk" in the garden. He regularly came to the garden to walk and talk with the man and the woman.
-    * "//Where are you?//" - God already knew the answer to this question. The purpose of the question is to force the man and the woman to explain why thy were hiding.
+===== Translation Notes: =====
+
+
+
+    * **God walking** - God apparently appeared in a form that enabled him to "walk" in the garden. He regularly came to the garden to walk and talk with the man and the woman.
+    * **Where are you?** - God already knew the answer to this question. The purpose of the question is to force the man and the woman to explain why thy were hiding.
 
 
 **[[:en:obs-training:02-sin-enters-the-world|Back]]**

@@ -1,4 +1,4 @@
-==== 02-08. The Blame ====
+====== 02-08. The Blame ======
 
 
 {{:en:obs:obs-02-08.jpg?nolink&640x360}}
@@ -6,13 +6,19 @@
 
 Then **[[:en:key-terms:god|God]]** asked, “Who told you that you were naked? Did you eat the fruit I told you not to eat?” The man answered, “You gave me this woman, and she gave me the fruit.” Then **[[:en:key-terms:god|God]]** asked the woman, “What have you done?” The woman replied, “The snake tricked me.”
 
+===== Emphasis: =====
 
-=== Translation Notes: ===
+ 
+paraphrase text
 
 
-    * "Who told you that you were naked?" - Being naked was not a sin. God created them that way. Their knowledge of their nakedness was the problem. Their shame showed that they had sinned.
-    * "//she gave me the fruit//" - The man blamed the woman rather than confessing his disobedience. 
-    * "//The snake tricked me//" - The woman blamed the snake rather than confessing her disobedience.
+===== Translation Notes: =====
+
+
+
+    * **Who told you that you were naked?** - Being naked was not a sin. God created them that way. Their knowledge of their nakedness was the problem. Their shame showed that they had sinned.
+    * **she gave me the fruit** - The man blamed the woman rather than confessing his disobedience. 
+    * **The snake tricked me** - The woman blamed the snake rather than confessing her disobedience.
 
 
 **[[:en:obs-training:02-sin-enters-the-world|Back]]** 

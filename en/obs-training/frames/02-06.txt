@@ -1,4 +1,4 @@
-==== 02-06. Open Eyes ====
+====== 02-06. Open Eyes ======
 
 
 {{:en:obs:obs-02-06.jpg?nolink&640x360}}
@@ -7,12 +7,19 @@
 Suddenly, their eyes were opened, and they realized they were naked. They tried to cover their nakedness by sewing leaves together to make clothes.
 
 
-=== Translation Notes: ===
+===== Emphasis: =====
+
+ 
+paraphrase text
 
 
-    * "//their eyes were opened//" - a figure of speech meaning they now understood a new fact
-    * "//they were naked//" - they had always been naked. It was not a problem until now. This indicates that "naked" probably refers not only to their lack of clothing. Now, their actions and emotions were open to God, and displeasing to him.
-    * "//cover their nakedness//" - the man and the woman attempted to use leaves to hide their bodies and their sin from God. It was a futile effort. Clothes can not hide us from God's view.
+===== Translation Notes: =====
+
+
+
+    * **their eyes were opened** - a figure of speech meaning they now understood a new fact
+    * **they were naked** - they had always been naked. It was not a problem until now. This indicates that "naked" probably refers not only to their lack of clothing. Now, their actions and emotions were open to God, and displeasing to him.
+    * **cover their nakedness** - the man and the woman attempted to use leaves to hide their bodies and their sin from God. It was a futile effort. Clothes can not hide us from God's view.
 
 
 **[[:en:obs-training:02-sin-enters-the-world|Back]]**

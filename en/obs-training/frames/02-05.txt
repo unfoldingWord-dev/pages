@@ -1,4 +1,4 @@
-==== 02-05. Disobedience ====
+====== 02-05. Disobedience ======
 
 
 {{:en:obs:obs-02-05.jpg?nolink&640x360}}
@@ -7,12 +7,19 @@
 The woman saw that the fruit was beautiful and looked delicious. She also wanted to be **[[:en:key-terms:wise|wise]]**, so she picked some of the fruit and ate it. Then she turned and gave some to her husband, who was with her, and he ate it, too.
 
 
-=== Translation Notes: ===
+===== Emphasis: =====
+
+ 
+paraphrase text
 
 
-    * "//gave some to her husband//" - it was the woman, rather than the snake, who tempted the man to eat the fruit
-    * "//who was with her//" - indicates that the man was present when the woman made the decision to eat the fruit. He did not arrive after at a later time.
-    * "//he ate it//" - the man made his own decision to eat the fruit
+===== Translation Notes: =====
+
+
+
+    * **gave some to her husband** - it was the woman, rather than the snake, who tempted the man to eat the fruit
+    * **who was with her** - indicates that the man was present when the woman made the decision to eat the fruit. He did not arrive after at a later time.
+    * **he ate it** - the man made his own decision to eat the fruit
 
 
 **[[:en:obs-training:02-sin-enters-the-world|Back]]**

@@ -1,4 +1,4 @@
-==== 02-03. Do Not Touch ====
+====== 02-03. Do Not Touch ======
 
 
 {{:en:obs:obs-02-03.jpg?nolink&640x360}}
@@ -7,12 +7,19 @@
 The woman answered, “**[[:en:key-terms:god|God]]** told us we could eat the fruit of any tree except from the tree of the knowledge of **[[:en:key-terms:good|good]]** and **[[:en:key-terms:evil|evil]]**. **[[:en:key-terms:god|God]]** told us, ‘If you eat that fruit or even touch it, you will **[[:en:key-terms:die|die]]**.’”
 
 
-=== Translation Notes: ===
+===== Emphasis: =====
+
+ 
+paraphrase text
 
 
-    * "//fruit//" - we don't know what kind of fruit this was. We only know that it grew on the trees.
-    * "//tree of the knowledge of good and evil//" - the woman correctly understood that they were not allowed to eat from this one tree that would enable them to understand evil as well as good.
-    * "//or even touch//" - the woman incorrectly added this additional restriction to God' command. God did not tell them not to touch the fruit. 
+===== Translation Notes: =====
+
+
+
+    * **fruit** - we don't know what kind of fruit this was. We only know that it grew on the trees.
+    * **tree of the knowledge of good and evil** - the woman correctly understood that they were not allowed to eat from this one tree that would enable them to understand evil as well as good.
+    * **or even touch** - the woman incorrectly added this additional restriction to God' command. God did not tell them not to touch the fruit. 
 
 
 **[[:en:obs-training:02-sin-enters-the-world|Back]]**
