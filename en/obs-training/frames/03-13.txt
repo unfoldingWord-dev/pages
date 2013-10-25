@@ -1,4 +1,4 @@
-==== 03-13. Leaving the Boat ====
+====== 03-13. Leaving the Boat ======
 
 {{:en:obs:obs-03-13.jpg?nolink&640x360}}
 
@@ -6,12 +6,18 @@
 Two months later **[[:en:key-terms:god|God]]** said to **[[:en:key-terms:noah|Noah]]**, “You and your family and all the animals may leave the boat now. Have many children and grandchildren and fill the earth.” So they **[[:en:key-terms:obey|obeyed]]** and left the boat.
 
 
-=== Translation Notes: ===
+===== Emphasis: =====
+
+ 
+paraphrase text
 
 
-  * "//Two months later//" - two months after the dove left the ark
-  * "//leave the boat//" - the earth was finally dry enough for them to live outside the ark
-  * "//fill the earth//" - no one survived the flood except Noah's family. Noah's three sons and their wives were responsible to have children to begin to fill the earth again.
+===== Translation Notes: =====
+
+
+  * **Two months later** - two months after the dove left the ark
+  * **leave the boat** - the earth was finally dry enough for them to live outside the ark
+  * **fill the earth** - no one survived the flood except Noah's family. Noah's three sons and their wives were responsible to have children to begin to fill the earth again.
   
 
 **[[:en:obs-training:03-the-flood|Back]]**

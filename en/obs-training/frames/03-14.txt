@@ -1,4 +1,4 @@
-==== 03-14. Noah's Sacrifice ====
+====== 03-14. Noah's Sacrifice ======
 
 {{:en:obs:obs-03-14.jpg?nolink&640x360}}
 
@@ -6,11 +6,17 @@
 After he got off the boat, **[[:en:key-terms:noah|Noah]]** built an **[[:en:key-terms:altar|altar]]** and **[[:en:key-terms:sacrifice|sacrificed]]** some of each kind of animal which could be used for a **[[:en:key-terms:sacrifice|sacrifice]]**. **[[:en:key-terms:god|God]]** was happy with the **[[:en:key-terms:sacrifice|sacrifice]]** and **[[:en:key-terms:bless|blessed]]** **[[:en:key-terms:noah|Noah]]** and his family.
 
 
-=== Translation Notes: ===
+===== Emphasis: =====
+
+ 
+paraphrase text
 
 
-  * "//animal which could be used for a sacrifice//" - God chose to accept some animals for sacrifice, but not others
-  * "//God was happy//" - God approved of and accepted Noah's offering
+===== Translation Notes: =====
+
+
+  * **animal which could be used for a sacrifice** - God chose to accept some animals for sacrifice, but not others
+  * **God was happy** - God approved of and accepted Noah's offering
   
 
 **[[:en:obs-training:03-the-flood|Back]]**

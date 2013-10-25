@@ -1,4 +1,4 @@
-==== 04-07. Melchizedek ====
+====== 04-07. Melchizedek ======
 
 
 {{:en:obs:obs-04-07.jpg?nolink&640x360}}
@@ -7,13 +7,19 @@
 One day, **[[:en:key-terms:abram|Abram]]** met **[[:en:key-terms:melchizadek|Melchizedek]]**, the **[[:en:key-terms:priest|priest]]** of **[[:en:key-terms:god|God]]** Most High. **[[:en:key-terms:melchizadek|Melchizedek]]** **[[:en:key-terms:bless|blessed]]** **[[:en:key-terms:abram|Abram]]** and said, “May **[[:en:key-terms:god|God]]** Most High who owns **[[:en:key-terms:heaven|heaven]]** and earth **[[:en:key-terms:bless|bless]]** **[[:en:key-terms:abram|Abram]]**.” Then **[[:en:key-terms:abram|Abram]]** gave **[[:en:key-terms:melchizadek|Melchizedek]]** a tenth of all he owned.
 
 
-=== Translation Notes: ===
+===== Emphasis: =====
+
+ 
+paraphrase text
 
 
-    * "//the priest//" - Melchizedek was the recognized religious authority in Canaan who received and presented offerings to God
-    * "//God Most High//" - the people of Canaan worshiped many gods. The title "Most High God" explains that the God of Melchizedek was far superior to all of them
-    * "//owns heaven and earth//" - God controls both heaven and earth and is able to fulfill his promise to give Canaan to Abram
-    * "//a tenth//" - an offering that is also called a "tithe"
+===== Translation Notes: =====
+
+
+    * **the priest** - Melchizedek was the recognized religious authority in Canaan who received and presented offerings to God
+    * **God Most High** - the people of Canaan worshiped many gods. The title "Most High God" explains that the God of Melchizedek was far superior to all of them
+    * **owns heaven and earth** - God controls both heaven and earth and is able to fulfill his promise to give Canaan to Abram
+    * **a tenth** - an offering that is also called a "tithe"
 
 
 **[[:en:obs-training:04-gods-covenant-with-abraham|Back]]** 

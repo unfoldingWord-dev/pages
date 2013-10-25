@@ -1,4 +1,4 @@
-==== 03-15. God's Promise ====
+====== 03-15. God's Promise ======
 
 {{:en:obs:obs-03-15.jpg?nolink&640x360}}
 
@@ -6,13 +6,19 @@
 **[[:en:key-terms:god|God]]** said, “I will never again **[[:en:key-terms:curse|curse]]** the ground because of humans or destroy the world with a flood, even though humans are **[[:en:key-terms:sin|sinful]]** from their youth.”
 
 
-=== Translation Notes: ===
+===== Emphasis: =====
+
+ 
+paraphrase text
 
 
-  * "//never again//" - there will not be another worldwide flood
-  * "//curse the ground//" - the earth and the other creatures suffered because of man's sin
-  * "//with a flood//" - God may judge the earth again, but not by means of a flood
-  * "//sinful from their youth//" - the flood showed how much God hates sin. But it did not solve the problem of sin in the world. Sin is passed from parent to child, and so all people will continue to be sinners.
+===== Translation Notes: =====
+
+
+  * **never again** - there will not be another worldwide flood
+  * **curse the ground** - the earth and the other creatures suffered because of man's sin
+  * **with a flood** - God may judge the earth again, but not by means of a flood
+  * **sinful from their youth** - the flood showed how much God hates sin. But it did not solve the problem of sin in the world. Sin is passed from parent to child, and so all people will continue to be sinners.
   
 
 **[[:en:obs-training:03-the-flood|Back]]**

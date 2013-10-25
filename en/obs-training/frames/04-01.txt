@@ -1,4 +1,4 @@
-==== 04-01. One People ====
+====== 04-01. One People ======
 
 {{:en:obs:obs-04-01.jpg?nolink&640x360}}
 
@@ -6,13 +6,19 @@
 Many years after the flood, there were again many people in the world, and they all spoke the same language. But the people did not **[[:en:key-terms:obey|obey]]** **[[:en:key-terms:god|God]]**. Instead of having children and filling the earth, they gathered together and built a city.
 
 
-=== Translation Notes: ===
+===== Emphasis: =====
+
+ 
+paraphrase text
 
 
-  * "//many years after the flood//" - many generations
-  * "//again many people//" - Noah's family multiplied into enough people to fill a city
-  * "//same language//" - all of these descendents of Noah spoke the same language as Noah
-  * "//a city//" - we are not sure of the location of this city
+===== Translation Notes: =====
+
+
+  * **many years after the flood** - many generations
+  * **again many people** - Noah's family multiplied into enough people to fill a city
+  * **same language** - all of these descendents of Noah spoke the same language as Noah
+  * **a city** - we are not sure of the location of this city
   
 
 **[[:en:obs-training:04-gods-covenant-with-abraham|Back]]**

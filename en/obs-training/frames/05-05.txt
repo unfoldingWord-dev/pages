@@ -1,4 +1,4 @@
-==== 05-05. Birth of Isaac ====
+====== 05-05. Birth of Isaac ======
 
 {{:en:obs:obs-05-05.jpg?nolink&640x360}}
 
@@ -6,25 +6,18 @@ That day Abraham circumcised all the males in his household. About a year later,
 
 
 
-=== Key Terms: ===
+===== Emphasis: =====
 
  
-  * **[[:en:key-terms:beginning|sample]]** - explanation
-  * **[[:en:key-terms:beginning|sample]]** - explanation
-  * **[[:en:key-terms:beginning|sample]]** - explanation
-  * **[[:en:key-terms:beginning|sample]]** - explanation
+paraphrase text
 
 
-=== Translation Notes: ===
+===== Translation Notes: =====
 
 
-Pay close attention to ...
-
-
-  * "//issue//" - explanation
-  * "//issue//" - explanation
-  * "//issue//" - explanation
-  * "//issue//" - explanation
+  * **issue** - explanation
+  * **issue** - explanation
+  * **issue** - explanation
   
 
 **[[:en:obs-training:05b-the-son-of-promise|Back]]**

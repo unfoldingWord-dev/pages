@@ -1,4 +1,4 @@
-==== 04-06. Abraham Blessed ====
+====== 04-06. Abraham Blessed ======
 
 {{:en:obs:obs-04-06.jpg?nolink&640x360}}
 
@@ -6,11 +6,17 @@
 When **[[:en:key-terms:abram|Abram]]** arrived in **[[:en:key-terms:canaan|Canaan]]** **[[:en:key-terms:god|God]]** said, "Look all around you. All the land that you can see I will give to you and your **[[:en:key-terms:descendant|descendants]]** as an inheritance. I will **[[:en:key-terms:bless|bless]]** you and make your name great." Then **[[:en:key-terms:abram|Abram]]** settled in the land.
 
 
-=== Translation Notes: ===
+===== Emphasis: =====
+
+ 
+paraphrase text
 
 
-  * "//all the land that you can see//" - if Abram was standing on a mountain in Canaan, he could have seen a very large area
-  * "//make your name great//" - Abram's name and reputation would be known by all and viewed positively
+===== Translation Notes: =====
+
+
+  * **all the land that you can see** - if Abram was standing on a mountain in Canaan, he could have seen a very large area
+  * **make your name great** - Abram's name and reputation would be known by all and viewed positively
   
 
 **[[:en:obs-training:04-gods-covenant-with-abraham|Back]]**

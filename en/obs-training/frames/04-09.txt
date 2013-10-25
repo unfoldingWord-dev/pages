@@ -1,4 +1,4 @@
-==== 04-09. God's Covenant ====
+====== 04-09. God's Covenant ======
 
 {{:en:obs:obs-04-09.jpg?nolink&640x360}}
 
@@ -6,12 +6,18 @@
 Then **[[:en:key-terms:god|God]]** made a **[[:en:key-terms:promise|covenant]]** with **[[:en:key-terms:abram|Abram]]**. A **[[:en:key-terms:promise|covenant]]** is an agreement between two parties. **[[:en:key-terms:god|God]]** said, "I will give you a **[[:en:key-terms:son|son]]** from your own body. To your **[[:en:key-terms:descendant|descendants]]** I give the land of **[[:en:key-terms:canaan|Canaan]]**.” But **[[:en:key-terms:abram|Abram]]** still had no **[[:en:key-terms:son|son]]**.
 
 
-Pay close attention to ...
+===== Emphasis: =====
+
+ 
+paraphrase text
 
 
-  * "//two parties//" - in this case, between God and Abram
-  * "//from your own body//" - am amazing promise, since Abram was very, very old
-  * "//no son//" - Abram was unable to have a son even when he was a younger man
+===== Translation Notes: =====
+
+
+  * **two parties** - in this case, between God and Abram
+  * **from your own body** - am amazing promise, since Abram was very, very old
+  * **no son** - Abram was unable to have a son even when he was a younger man
   
 
 **[[:en:obs-training:04-gods-covenant-with-abraham|Back]]**

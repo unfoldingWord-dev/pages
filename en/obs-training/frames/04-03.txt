@@ -1,4 +1,4 @@
-==== 04-03. Many Languages ====
+====== 04-03. Many Languages ======
 
 {{:en:obs:obs-04-03.jpg?nolink&640x360}}
 
@@ -6,14 +6,20 @@
 So **[[:en:key-terms:god|He]]** changed their language into many different languages and spread the people out all over the world. The city they had begun to build was called **[[:en:key-terms:babel|Babel]]**, which means “confused.”
 
 
-=== Translation Notes: ===
+===== Emphasis: =====
+
+ 
+paraphrase text
 
 
-  * "//So He changed//" - pronoun "He" refers to God
-  * "//changed their language//" - the descendent of Noah all spoke the same language, but God miraculously changed it so they began to speak completely different languages and could not understand each other
-  * "//many different languages//" - probably not a different language for each person, but multiple languages with only a small group speaking each one
-  * "//spread the people//" - they could not understand each other, so they naturally separated into groups that spoke the same language, and each group moved to their own area 
-  * "//confused//" - refers to the confusion that resulted from the people no longer being able to communicate with each other in a common language
+===== Translation Notes: =====
+
+
+  * **So He changed** - pronoun "He" refers to God
+  * **changed their language** - the descendent of Noah all spoke the same language, but God miraculously changed it so they began to speak completely different languages and could not understand each other
+  * **many different languages** - probably not a different language for each person, but multiple languages with only a small group speaking each one
+  * **spread the people** - they could not understand each other, so they naturally separated into groups that spoke the same language, and each group moved to their own area 
+  * **confused** - refers to the confusion that resulted from the people no longer being able to communicate with each other in a common language
   
 
 **[[:en:obs-training:04-gods-covenant-with-abraham|Back]]**

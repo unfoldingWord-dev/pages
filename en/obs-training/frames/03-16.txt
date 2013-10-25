@@ -1,4 +1,4 @@
-==== 03-16. The Rainbow ====
+====== 03-16. The Rainbow ======
 
 {{:en:obs:obs-03-16.jpg?nolink&640x360}}
 
@@ -6,11 +6,17 @@
 **[[:en:key-terms:god|God]]** then made the first rainbow as a sign of His **[[:en:key-terms:promise|promise]]**. Every time the rainbow appeared in the sky, **[[:en:key-terms:god|God]]** would remember what He **[[:en:key-terms:promise|promised]]** and so would His people.
 
 
-=== Translation Notes: ===
+===== Emphasis: =====
+
+ 
+paraphrase text
 
 
-  * "//rainbow as a sign//" - the purpose of rainbows is to remind us that God destroyed the world with a flood once, but will not do it again
-  * "//what He promised//" - when He sees the rainbow, God will also remember his promise not to destroy the world again by a flood
+===== Translation Notes: =====
+
+
+  * **rainbow as a sign** - the purpose of rainbows is to remind us that God destroyed the world with a flood once, but will not do it again
+  * **what He promised** - when He sees the rainbow, God will also remember his promise not to destroy the world again by a flood
   
 
 **[[:en:obs-training:03-the-flood|Back]]**

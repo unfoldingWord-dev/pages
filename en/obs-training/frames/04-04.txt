@@ -1,4 +1,4 @@
-==== 04-04. Abraham Chosen ====
+====== 04-04. Abraham Chosen ======
 
 {{:en:obs:obs-04-04.jpg?nolink&640x360}}
 
@@ -6,15 +6,20 @@
 Hundreds of years later, **[[:en:key-terms:god|God]]** spoke to a man named **[[:en:key-terms:abram|Abram]]**. **[[:en:key-terms:god|God]]** told him, "Leave your country and family and go to the land I will show you. I will **[[:en:key-terms:bless|bless]]** you and make you a great nation. I will make your name great. I will **[[:en:key-terms:bless|bless]]** those who **[[:en:key-terms:bless|bless]]** you and **[[:en:key-terms:curse|curse]]** those who **[[:en:key-terms:curse|curse]]** you. All families on earth will be **[[:en:key-terms:bless|blessed]]** because of you."
 
 
-=== Translation Notes: ===
+===== Emphasis: =====
+
+ 
+paraphrase text
 
 
+===== Translation Notes: =====
 
-  * "//hundreds of years later//" - hundreds of years after the people split into different language groups at Babel. By now, each group had become a large people group
-  * "//leave your country//" - Abram lived in Central Asia in a region called "Ur"
-  * "//the land I will show you//" - God did not reveal the location of the land until Abram obeyed and left his own country
-  * "//make your name great//" - Abram's name and reputation would be known by all and viewed positively
-  * "//all families on earth//" - Abram's decision to follow God would affect not only his family, but families from every people group on earth
+
+  * **hundreds of years later** - hundreds of years after the people split into different language groups at Babel. By now, each group had become a large people group
+  * **leave your country** - Abram lived in Central Asia in a region called "Ur"
+  * **the land I will show you** - God did not reveal the location of the land until Abram obeyed and left his own country
+  * **make your name great** - Abram's name and reputation would be known by all and viewed positively
+  * **all families on earth** - Abram's decision to follow God would affect not only his family, but families from every people group on earth
 
 **[[:en:obs-training:04-gods-covenant-with-abraham|Back]]**
 
