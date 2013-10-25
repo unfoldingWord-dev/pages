@@ -6,6 +6,7 @@
 
 This is how the beginning of everything happened. **[[:en:key-terms:god|God]]** created the universe and everything in it in six days. At first, the earth was dark and empty, and nothing had been formed in it. But **[[:en:key-terms:holy-spirit|God's Spirit]]** was there over the water.
 
+
 ===== Emphasis: =====
 
 
@@ -15,17 +16,16 @@ God is eternal, existing before anything else. He displayed His power by making 
 ===== Translation Notes: =====
 
 
-    * **the beginning** - that is, "the beginning of all things," before anything existed except God
-    * **created** - here used in the sense of making something out of nothing
-    * **six days** - six cycles of darkness followed by light
-    * **nothing had been formed** - There were no distinguishing features–just water covering everything.
-    * **dark** - God had not yet created light.
-    * **empty** - God had not yet created anything else except for the bare earth covered by water.
-    * **God's Spirit was there** - The Spirit of God, sometimes called the Holy Spirit, was present in the beginning, moving freely over the earth in order to create all that He had planned to do.
+    * **the beginning**  - that is, "the beginning of all things," before anything existed except God
+    * **created**  - here used in the sense of making something out of nothing
+    * **six days**  - six cycles of darkness followed by light
+    * **nothing had been formed**  - There were no distinguishing features–just water covering everything.
+    * **dark**  - God had not yet created light.
+    * **empty**  - God had not yet created anything else except for the bare earth covered by water.
+    * **[[:en:obs-training/sandbox/chrislane/god-s_spirit|God's Spirit]] was there**  - The Spirit of God, sometimes called the Holy Spirit, was present in the beginning, moving freely over the earth in order to create all that He had planned to do.
 
 
 **[[:en:obs-training:01-the-creation|Back]]** 
 
 
 ~~DISCUSSION~~
-
