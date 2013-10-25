@@ -8,11 +8,11 @@
 
 ====Some Occurrences====
 
-[[:en:obs-training:frames/01-11|01-11. Two Trees]]: " the tree of the knowledge of good and __evil__. God told Adam that he could eat from any tree in the garden except from the tree of the knowledge of good and __evil__."
+[[:en:obs-training:frames/01-11|01-11. Two Trees:]]  " the tree of the knowledge of good and __evil__. God told Adam that he could eat from any tree in the garden except from the tree of the knowledge of good and __evil__."
 
-[[:en:obs-training:frames/02-04|02-04. The Lie]]: "You will be like God, knowing good and __evil__."
+[[:en:obs-training:frames/02-04|02-04. The Lie:]]  "You will be like God, knowing good and __evil__."
 
-[[:en:obs-training:frames/04-02|04-02. The Tower]]: "God saw that if they all kept working together, they could do many __evil__ things."
+[[:en:obs-training:frames/04-02|04-02. The Tower:]]  "God saw that if they all kept working together, they could do many __evil__ things."
 
 08-12 :: "You tried to do __evil__ when you sold me as a slave, but God used the __evil__ for good!"
 

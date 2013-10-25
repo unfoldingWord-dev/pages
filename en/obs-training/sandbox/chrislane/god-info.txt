@@ -9,13 +9,13 @@
 
 ====Some Occurrences====
 
-01-02 :: "Then __God__ spoke and said"
+[[:en:obs-training:frames/01-02|01-02. Light Created:]]  "Then __God__ spoke and said"
 
-03-16 :: "__God__ then made the first rainbow as a sign of His promise."
+[[:en:obs-training:frames/03-16|03-16. The Rainbow:]]  "__God__ then made the first rainbow as a sign of His promise."
 
-05-01 :: "__God__ spoke to Abram and promised again that he would have a son and as many descendants as the stars in the sky. Abram believed __God’s__ promise. __God__ said that Abram was righteous through believing in __God's__ promise."
+[[:en:obs-training:frames/05-01|05-01. Hagar:]]  "__God__ spoke to Abram and promised again that he would have a son and as many descendants as the stars in the sky. Abram believed __God’s__ promise. __God__ said that Abram was righteous through believing in __God's__ promise."
 
-05-03 :: "I am __God__ Almighty. I will make a covenant with you."
+[[:en:obs-training:frames/05-03|05-03. Covenant Renewed:]]  "I am __God__ Almighty. I will make a covenant with you."
 
 
 ====Possible Level 2 Generic Definitions====
