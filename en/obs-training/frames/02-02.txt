@@ -1,4 +1,4 @@
-====== 02-02. The Snake ======
+====== The Snake [02-02] ======
 
 
 {{:en:obs:obs-02-02.jpg?nolink&640x360}}

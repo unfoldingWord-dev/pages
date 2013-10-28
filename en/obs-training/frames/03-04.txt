@@ -1,4 +1,4 @@
-====== 03-04. Building the Boat ======
+====== Building the Boat [03-04] ======
 
 {{:en:obs:obs-03-04.jpg?nolink&640x360}}
 
