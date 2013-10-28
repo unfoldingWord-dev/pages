@@ -19,7 +19,8 @@
 37-05 :: "Whoever believes in me will live, even though he __dies__. Everyone who believes in me will never __die__."
 
 ====Possible Level 2 Generic Definitions====
-
+  *die/death is the opposite of living/alive
+  
 ====Possible Level 2 Comparisons====
 
 ~~DISCUSSION~~
