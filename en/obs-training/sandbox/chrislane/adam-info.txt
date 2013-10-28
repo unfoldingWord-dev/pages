@@ -1,25 +1,28 @@
 ====== Adam ======
 
 
-===== "Adam" =====
+==== ("mankind", "human beings", "man") ====
+
+  
+===== Definitions: =====
+
+  * Name of the first man; God created him from the dirt of the ground.
+  * Adam's name sounds similar to the Hebrew word for "red clay" or "ground"
+  * Literal Hebrew word refers to "man" in the sense of "mankind" or "human beings". Also sometimes used to refer to one man.
 
 
-(Level 1 to date) :: Adam's name was literally the Hebrew word for "man."
+==== Examples from the Bible stories: ====
 
 
-==== Some Occurrences ====
+[[:en:obs-training:frames:01-09|Man in God's Image [01-09]]] "Then God said, 'Let us make **human beings** in our image'" 
+
+[[:en:obs-training:frames:01-10|Adam Created [01-10]]]  "This man's name was **Adam**. God planted a garden where **Adam** could live"
 
 
-[[:en:obs-training:frames:01-10|Adam Created [01-10]]]  "This man's name was __Adam__. God planted a garden where __Adam__ could live"
+[[:en:obs-training:frames:01-12|Adam Alone [01-12]]] Then God said, "It is not good for **man** to be alone." But none of the animals could be **Adam's** helper.
 
+[[:en:obs-training:frames:02-11|The Man is Cursed [02-11]]] "And God clothed **Adam** and Eve with animal skins." 
 
-[[:en:obs-training:frames:01-13|Eve Created [01-13]]]  "So God made __Adam__ fall into a deep sleep. Then God took one of __Adam's__ ribs and made it into a woman and brought her to him."
-
-
-==== Possible Level 2 Generic Definitions ====
-
-
-==== Possible Level 2 Comparisons ====
 
 
 ~~DISCUSSION~~
