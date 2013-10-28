@@ -1,4 +1,4 @@
-====== 01-11. Two Trees ======
+====== Two Trees [01-11] ======
 
 
 {{:en:obs:obs-01-11.jpg?nolink&640x360}}
