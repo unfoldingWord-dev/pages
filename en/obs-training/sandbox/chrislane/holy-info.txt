@@ -1,35 +1,30 @@
 ====== Holy ======
 
 
-===== “holy, set apart" =====
+==== "holy, set apart" ====
 
 
-(Level 1 to date) :: Set apart as a special.
+===== Definitions =====
 
-====Some Occurrences====
-
-[09-12]  "You are standing on __holy__ ground."
-
-[13-02]  "If you will obey My voice and keep My covenant, you will be My prized possession, a kingdom of priests, and a __holy__ nation."
-
-[13-05]  "Remember to keep the Sabbath day __holy__."
-
-[22-05]  "“The __Holy__ Spirit will come over you"
-
-[50-02]  "Christians are to live __holy__ and godly lives."
+  * God's character: clean, pure, sinless.
+  * Set apart by God for a special purpose and to be like Him in character.
+  * Relating to God's presence
+  * a holy object is //not// average or common
 
 
-====Potential Level 2 Generic Definitions====
 
-  *Set apart by the Lord for a special purpose (CL)
+===== Examples from the Bible stories =====
 
 
-====Potential Level 2 Comparisons====
+[09-12]  "You are standing on **holy** ground."
 
-  *a holy object is //not// average or common (CL)
-  *a holy object //is// a special object (CL)
-  *a holy object //is// a clean/pure object (CL)
+[13-02]  "If you will obey My voice and keep My covenant, you will be My prized possession, a kingdom of priests, and a **holy** nation."
 
+[13-05]  "Remember to keep the Sabbath day **holy**."
+
+[22-05]  ""The **Holy** Spirit will come over you"
+
+[50-02]  "Christians are to live **holy** and godly lives."
 
 
 ~~DISCUSSION~~

@@ -1,26 +1,30 @@
 ====== Die ======
 
 
-===== “to die" =====
+==== (dying, death, dead) ====
 
 
-(Level 1 to date) :: To die is to be separated from God and from life on this earth.
+===== Definitions =====
 
-====Some Occurrences====
+  * To stop being alive.
+  * To lose physical life
+  * When a person's spirit leaves his body.
+  * Also refers to dying spiritually.
 
-[[:en:obs-training:frames:01-11|Two Trees [01-11]]]  "God told Adam that he could eat from any tree in the garden except from the tree of the knowledge of good and evil. If he ate from this tree, he would __die__."
+Note: "death" is the opposite of "life". In the Bible, physical and spiritual death are often compared and contrasted to physical and spiritual life. 
 
-[[:en:obs-training:frames:02-04|The Lie [02-04]]]  "The snake responded, 'That is not true! You won’t __die__.'"
 
-[[:en:obs-training:frames:03-08|Safe from the Flood [03-08]]]  "Everything that lived on the dry land __died__, except the people and animals who were in the boat."
+===== Examples from the Bible stories =====
 
-[14-08]  "all of the people who are twenty years old or older will wander in the wilderness until they __die__."
+[[:en:obs-training:frames:01-11|Two Trees [01-11]]]  "God told Adam that he could eat from any tree in the garden except from the tree of the knowledge of good and evil. If he ate from this tree, he would **die**."
 
-[37-05]  "Whoever believes in me will live, even though he __dies__. Everyone who believes in me will never __die__."
+[[:en:obs-training:frames:02-04|The Lie [02-04]]]  "The snake responded, 'That is not true! You won’t **die**.'"
 
-====Possible Level 2 Generic Definitions====
-  *die/death is the opposite of living/alive
-  
-====Possible Level 2 Comparisons====
+[[:en:obs-training:frames:03-08|Safe from the Flood [03-08]]]  "Everything that lived on the dry land **died**, except the people and animals who were in the boat."
+
+[14-08]  "all of the people who are twenty years old or older will wander in the wilderness until they **die**."
+
+[37-05]  "Whoever believes in me will live, even though he **dies**. Everyone who believes in me will never **die**."
+
 
 ~~DISCUSSION~~
