@@ -1,18 +1,25 @@
-==== Frame x-x ====
+====== Frame [x-x] ======
 
 [image]
+
 [text] with inline links - **[[:en:key-terms:beginning|sample]]**
 
 
-=== Translation Notes: ===
+===== Emphasis: =====
 
 
-  * "//issue//" - explanation
-  * "//issue//" - explanation
-  * "//issue//" - explanation
-  * "//issue//" - explanation
+[paraphrase?]
+
+
+===== Translation Notes: =====
+
+
+  * **issue** - explanation
+  * **issue** - explanation
+  * **issue** - explanation
+  * **issue** - explanation
   
 
-**[[:en:obs-training:03-the-flood|Back]]**
+**[[:en:obs-training:0x-page-name|Back]]**
 
 ~~DISCUSSION~~
