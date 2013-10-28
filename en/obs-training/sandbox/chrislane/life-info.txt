@@ -6,17 +6,17 @@
 (Level 1 definition to date) :: None
 
 ====Some Occurrences====
-[[:en:obs-training:frames/01-10|01-10. Adam Created:]]  "So God took some dirt, formed it into a man, and breathed __life__ into him."
+[[:en:obs-training:frames/01-10|Adam Created [01-10]]]  "So God took some dirt, formed it into a man, and breathed __life__ into him."
 
-[[:en:obs-training:frames/01-11|01-11. Two Trees:]]  "...God planted two special trees—the tree of __life__ and the tree of the knowledge of good and evil."
+[[:en:obs-training:frames/01-11|Two Trees [01-11]]]  "...God planted two special trees—the tree of __life__ and the tree of the knowledge of good and evil."
 
-17-09 :: "However, toward the end of his [David's] __life__ he sinned terribly before God."
+[17-09]  "However, toward the end of his [David's] __life__ he sinned terribly before God."
 
-27-01 :: "One day, a lawyer came to Jesus to test him, saying, 'Teacher, what must I do to inherit eternal __life__?'"
+[27-01]  "One day, a lawyer came to Jesus to test him, saying, 'Teacher, what must I do to inherit eternal __life__?'"
 
-37-05 :: "Jesus replied, 'I am the Resurrection and the __Life__.'"
+[37-05]  "Jesus replied, 'I am the Resurrection and the __Life__.'"
 
-50-13 :: "Christians will be given the crown of __life__."
+[50-13]  "Christians will be given the crown of __life__."
 
 ====Possible Level 2 Generic Definitions====
 

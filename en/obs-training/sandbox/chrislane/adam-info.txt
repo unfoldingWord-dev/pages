@@ -10,10 +10,10 @@
 ==== Some Occurrences ====
 
 
-[[:en:obs-training:frames/01-10|01-10. Adam Created:]]  "This man's name was __Adam__. God planted a garden where __Adam__ could live"
+[[:en:obs-training:frames/01-10|Adam Created [01-10]]]  "This man's name was __Adam__. God planted a garden where __Adam__ could live"
 
 
-[[:en:obs-training:frames/01-13|01-13. Eve Created:]]  "So God made __Adam__ fall into a deep sleep. Then God took one of __Adam's__ ribs and made it into a woman and brought her to him."
+[[:en:obs-training:frames/01-13|Eve Created [01-13]]]  "So God made __Adam__ fall into a deep sleep. Then God took one of __Adam's__ ribs and made it into a woman and brought her to him."
 
 
 ==== Possible Level 2 Generic Definitions ====
