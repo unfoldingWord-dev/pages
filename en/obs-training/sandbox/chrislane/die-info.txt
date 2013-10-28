@@ -8,15 +8,15 @@
 
 ====Some Occurrences====
 
-[[:en:obs-training:frames/01-11|01-11. Two Trees:]]  "God told Adam that he could eat from any tree in the garden except from the tree of the knowledge of good and evil. If he ate from this tree, he would __die__."
+[[:en:obs-training:frames:01-11|Two Trees [01-11]]]  "God told Adam that he could eat from any tree in the garden except from the tree of the knowledge of good and evil. If he ate from this tree, he would __die__."
 
-[[:en:obs-training:frames/02-04|02-04. The Lie:]]  "The snake responded, 'That is not true! You won’t __die__.'"
+[[:en:obs-training:frames:02-04|The Lie [02-04]]]  "The snake responded, 'That is not true! You won’t __die__.'"
 
-[[:en:obs-training:frames/03-08|03-08. Safe from the Flood:]]  "Everything that lived on the dry land __died__, except the people and animals who were in the boat."
+[[:en:obs-training:frames:03-08|Safe from the Flood [03-08]]]  "Everything that lived on the dry land __died__, except the people and animals who were in the boat."
 
-14-08 :: "all of the people who are twenty years old or older will wander in the wilderness until they __die__."
+[14-08]  "all of the people who are twenty years old or older will wander in the wilderness until they __die__."
 
-37-05 :: "Whoever believes in me will live, even though he __dies__. Everyone who believes in me will never __die__."
+[37-05]  "Whoever believes in me will live, even though he __dies__. Everyone who believes in me will never __die__."
 
 ====Possible Level 2 Generic Definitions====
   *die/death is the opposite of living/alive

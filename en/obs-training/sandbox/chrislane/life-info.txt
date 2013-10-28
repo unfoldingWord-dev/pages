@@ -6,9 +6,9 @@
 (Level 1 definition to date) :: None
 
 ====Some Occurrences====
-[[:en:obs-training:frames/01-10|Adam Created [01-10]]]  "So God took some dirt, formed it into a man, and breathed __life__ into him."
+[[:en:obs-training:frames:01-10|Adam Created [01-10]]]  "So God took some dirt, formed it into a man, and breathed __life__ into him."
 
-[[:en:obs-training:frames/01-11|Two Trees [01-11]]]  "...God planted two special trees—the tree of __life__ and the tree of the knowledge of good and evil."
+[[:en:obs-training:frames:01-11|Two Trees [01-11]]]  "...God planted two special trees—the tree of __life__ and the tree of the knowledge of good and evil."
 
 [17-09]  "However, toward the end of his [David's] __life__ he sinned terribly before God."
 

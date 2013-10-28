@@ -8,15 +8,15 @@
 
 ====Some Occurrences====
 
-09-12 :: "You are standing on __holy__ ground."
+[09-12]  "You are standing on __holy__ ground."
 
-13-02 :: "If you will obey My voice and keep My covenant, you will be My prized possession, a kingdom of priests, and a __holy__ nation."
+[13-02]  "If you will obey My voice and keep My covenant, you will be My prized possession, a kingdom of priests, and a __holy__ nation."
 
-13-05 :: "Remember to keep the Sabbath day __holy__."
+[13-05]  "Remember to keep the Sabbath day __holy__."
 
-22-05 :: "“The __Holy__ Spirit will come over you"
+[22-05]  "“The __Holy__ Spirit will come over you"
 
-50-02 :: "Christians are to live __holy__ and godly lives."
+[50-02]  "Christians are to live __holy__ and godly lives."
 
 
 ====Potential Level 2 Generic Definitions====

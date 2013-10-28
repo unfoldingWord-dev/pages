@@ -8,13 +8,13 @@
 
 ====Some Occurrences====
 
-[[:en:obs-training:frames/01-05|Plants Created [01-05]]]  "God saw that what He had created was __good__, and He was pleased with it all."
+[[:en:obs-training:frames:01-05|Plants Created [01-05]]]  "God saw that what He had created was __good__, and He was pleased with it all."
 
-[[:en:obs-training:frames/01-11|Two Trees [01-11]]]  "the tree of the knowledge of __good__ and evil. God told Adam that he could eat from any tree in the garden except from the tree of the knowledge of __good__ and evil."
+[[:en:obs-training:frames:01-11|Two Trees [01-11]]]  "the tree of the knowledge of __good__ and evil. God told Adam that he could eat from any tree in the garden except from the tree of the knowledge of __good__ and evil."
 
-[[:en:obs-training:frames/01-12|Adam Alone [01-12]]]  "It is not __good__ for man to be alone" 
+[[:en:obs-training:frames:01-12|Adam Alone [01-12]]]  "It is not __good__ for man to be alone" 
 
-[[:en:obs-training:frames/02-04|The Lie [02-04]]]  "You will be like God, knowing __good__ and evil."
+[[:en:obs-training:frames:02-04|The Lie [02-04]]]  "You will be like God, knowing __good__ and evil."
 
 [08-07]  "God is going to send seven years of __good__ harvests followed by seven years of famine."
 

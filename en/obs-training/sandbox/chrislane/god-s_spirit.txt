@@ -8,7 +8,7 @@
 
 ====Some Occurrences====
 
-[[:en:obs-training:frames/01-01|The Beginning [01-01]]]  "But __God's Spirit__ was there over the water."
+[[:en:obs-training:frames:01-01|The Beginning [01-01]]]  "But __God's Spirit__ was there over the water."
 
 [22-05]  "The __Holy Spirit__ will come over you, and you will conceive."
 
