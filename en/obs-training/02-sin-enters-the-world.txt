@@ -14,40 +14,40 @@ Click on the images below to translate each frame of the story.
 
 
 [[:en:obs-training:frames:02-01|{{:en:obs:obs-02-01.jpg?200|A Perfect World}}]]\\
-02-01. A Perfect World\\
+A Perfect World [02-01]\\
 \\
 [[:en:obs-training:frames:02-02|{{:en:obs:obs-02-02.jpg?200|The Snake}}]]\\
-02-02. The Snake\\
+The Snake [02-02]\\
 \\
 [[:en:obs-training:frames:02-03|{{:en:obs:obs-02-03.jpg?200|Do Not Touch}}]]\\
-02-03. Do Not Touch\\
+Do Not Touch [02-03]\\
 \\
 [[:en:obs-training:frames:02-04|{{:en:obs:obs-02-04.jpg?200|The Lie}}]]\\
-02-04. The Lie\\
+The Lie [02-04]\\
 \\
 [[:en:obs-training:frames:02-05|{{:en:obs:obs-02-05.jpg?200|Disobedience}}]]\\
-02-05. Disobedience\\
+Disobedience [02-05]\\
 \\
 [[:en:obs-training:frames:02-06|{{:en:obs:obs-02-06.jpg?200|Open Eyes}}]]\\
-02-06. Open Eyes\\
+Open Eyes [02-06]\\
 \\
 [[:en:obs-training:frames:02-07|{{:en:obs:obs-02-07.jpg?200|Where Are You?}}]]\\
-02-07. Where Are You?\\
+Where Are You? [02-07]\\
 \\
 [[:en:obs-training:frames:02-08|{{:en:obs:obs-02-08.jpg?200|The Blame}}]]\\
-02-08. The Blame\\
+The Blame [02-08]\\
 \\
 [[:en:obs-training:frames:02-09|{{:en:obs:obs-02-09.jpg?200|The Snake Is Cursed}}]]\\
-02-09. The Snake Is Cursed\\
+The Snake Is Cursed [02-09]\\
 \\
 [[:en:obs-training:frames:02-10|{{:en:obs:obs-02-10.jpg?200|The Woman Is Cursed}}]]\\
-02-10. The Woman Is Cursed\\
+The Woman Is Cursed [02-10]\\
 \\
 [[:en:obs-training:frames:02-11|{{:en:obs:obs-02-11.jpg?200|The Man Is Cursed}}]]\\
-02-11. The Man Is Cursed\\
+The Man Is Cursed [02-11]\\
 \\
 [[:en:obs-training:frames:02-12|{{:en:obs:obs-02-12.jpg?200|Out of the Garden}}]]\\
-02-12. Out of the Garden\\
+Out of the Garden [02-12]\\
 \\
 
 ~~DISCUSSION~~
