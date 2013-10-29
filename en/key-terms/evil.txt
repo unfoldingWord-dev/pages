@@ -1,33 +1,76 @@
 ====== Evil ======
 
 
-===== “evil" =====
+==== (evil, wicked, bad) ====
 
 
-Anything that is opposed to God's character and purposes.
+===== Definitions: =====
+
+  * Anything opposed to God's character and purposes.
+  * The opposite of good.
+  * Other words with similar meanings are "bad" or "wicked".
+  * Something that causes harm or is morally wrong.
 
 
-For example:
+
+===== Examples from the Bible stories: =====
 
 
-  * This term is best translated to have the meaning of…..
-  * Perhaps compare/contrast/refer to other similar words or corresponding terms or Hebrew or Greek words
+[[:en:obs-training:frames:01-11|Two Trees [01-11]]]  " the tree of the knowledge of good and **evil**. God told Adam that he could eat from any tree in the garden except from the tree of the knowledge of good and **evil**."
+
+[[:en:obs-training:frames:02-04|The Lie [02-04]]]  "You will be like God, knowing good and **evil**."
+
+[[:en:obs-training:frames:04-02|The Tower [04-02]]]  "God saw that if they all kept working together, they could do many **evil** things."
+
+[08-12]  "You tried to do **evil** when you sold me as a slave, but God used the **evil** for good!"
+
+[18-11]  "In the kingdom of Israel, all the kings were **evil**."
+
+[32-02]  " a man with an **evil** spirit came running up to Jesus."
+
+[45-02]  "...lied about Stephen, saying, 'We heard him speak **evil** things about Moses and God!'"
+
+[50-09]  "The weeds represent the people who belong to the **evil** one."
+
+[50-17]  "He will wipe away every tear and there will be no more death, suffering, sadness, crying, **evil**, or pain."
 
 
 ----
+Lizz's Formatting (from other KT page [cl])
 
+====Evil==== 
+(“wicked”, “bad”)
 
-==== Translator Shortcut: ====
+===Definitions===
 
+  *Anything opposed to God's character and purposes.
+  *The opposite of good.
+  *Other words with similar meanings are “bad” or “wicked”.
+  *Something that causes harm or is morally wrong.
+  
+===Examples from the Bible stories===
 
-After you choose a word to translate this term, try to use it consistently when it appears in other Bible stories. For example:
+03-01 “They had become very wicked and violent. It became so bad that God decided to destroy the whole world with a huge flood.
 
-  * **Story x - Title** - Frames x, x and x
+03-02 “He [Noah] was the only righteous man among all the wicked people.”
 
-==== Root words in the Bible: ====
+04-02 “They were very proud, and they did not care about what God said…God saw that if they all kept working together, they could do many evil things.”
 
-This term is also used in many places in the Bible. You can use the links below to see Strong's description of the root meaning of these words.
+08-12 “You tried to do evil when you sold me as a slave, but God used the evil for good!”
 
-    * Strong's link
+14-02 “The Canaanites did not believe in God. They worshiped false gods and did many evil things.”
+
+17-01 “Saul did well at first, but he became a wicked man who did not obey God…”
+
+19-02 “Ahab was an evil man who encouraged people to worship a false god named Baal.”
+
+29-08 “In his anger the king threw the wicked servant into prison until he could pay back all of his debt.”
+
+43-02 “When they reached the other side, a man with an evil spirit came running up to Jesus.”
+
+50-09 “The weeds represent the people who belong to the evil one.”
+
+50-17 And Jesus will reign forever and ever. He will wipe away every tear and there will be no more death, suffering, sadness, crying, evil, or pain.
+
 
 ~~DISCUSSION~~

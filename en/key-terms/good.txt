@@ -1,33 +1,33 @@
 ====== Good ======
 
 
-===== "good" =====
+===== Definitions: =====
+
+  * In agreement with or reflecting God's character, purposes and will. 
+  * Having positive and beneficial characteristics or influence. 
+  * Being skilled at doing something. 
 
 
-In agreement with God's character and purposes.
+===== Examples from the Bible stories: =====
 
+[[:en:obs-training:frames:01-05|Plants Created [01-05]]]  "God saw that what He had created was **good**, and He was pleased with it all."
 
-  * The Hebrew word for good (טוֹב///ṭôv//) carries the general meaning “pleasing” or “excellent”, concepts that finds their truest and most full meaning in the character and nature of God.
+[[:en:obs-training:frames:01-11|Two Trees [01-11]]]  "the tree of the knowledge of **good** and evil. God told Adam that he could eat from any tree in the garden except from the tree of the knowledge of **good** and evil."
 
-  * In the original language, “good” (טוֹב///ṭôv//) can, in some instances, have a very concrete meaning or, in other cases, cary a rather abstract conceptual meaning. Concretely, “good” can refer to either an esthetic or visual quality, denoting beauty; yet abstractly, this term can denote an intrinsic quality inherent in the object which is good. In this manner the general meaning of טוֹב///ṭôv//- “pleasing” or “excellent”- can relate varying emphases depending on the immediate context of the usage. 
-    * For example, some uses of טוֹב///ṭôv//,as seen in frames 01-11, 01-12, denote a more abstract qualitative understanding of “good,” while we the nature of frames such as 01-02, 01-05 speak not only to creation’s innate quality but its visual beauty as creation was, in its fullness, pleasing to God.
+[[:en:obs-training:frames:01-12|Adam Alone [01-12]]]  "It is not **good** for man to be alone" 
 
-((Consulted: Andrew Bowling, "טוֹב" in //Theological Wordbook of the Old Testament//, Eds. R. Laird Harris, Gleason L. Archer, Bruce K. Waltke (Chicago, IL: Moody Press, 1980), 345-346.))(edited by CL)
+[[:en:obs-training:frames:02-04|The Lie [02-04]]]  "You will be like God, knowing **good** and evil."
 
-----
+[08-07]  "God is going to send seven years of **good** harvests followed by seven years of famine."
 
+[08-12]  "You tried to do evil when you sold me as a slave, but God used the evil for **good**"
 
-==== Translator Shortcut: ====
+[14-05]  "...the spies gave a bad report, saying, 'The land is very **good**, and the crops are great!'"
 
+[14-15]  "Joshua was a **good** leader because he trusted and obeyed God."
 
-After you choose a word to translate this term, try to use it consistently when it appears in other Bible stories. For example:
+[28-01]  "'**Good** teacher, what **good** thing must I do to have eternal life?' Jesus said to him, 'Why do you call me **good**? There is only One who is **good**, and that is God.'"
 
-  * **Story x - Title** - Frames x, x and x
-
-==== Root words in the Bible: ====
-
-This term is also used in many places in the Bible. You can use the links below to see Strong's description of the root meaning of these words.
-
-    * Strong's link
+[36-04]  "Jesus, it is **good** for us to be here."
 
 ~~DISCUSSION~~
