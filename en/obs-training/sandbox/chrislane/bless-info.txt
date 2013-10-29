@@ -1,32 +1,32 @@
 ====== Bless ======
 
 
-===== "to bless" =====
-
-(Level 1 to date) :: To desire for things go well” or “to give special positive status to something.
-
-====Some Occurrences====
-
-[[:en:obs-training:frames:01-07|Birds and Fish Created [01-07]]]  "...God saw that it was good & he __blessed__ them [fish & birds]"
-
-[[:en:obs-training:frames:01-15|Fill the Earth [01-15]]]  ".... He __blessed__ them [Adam & Eve] and told them, 'Have many children and grandchildren'..."
-
-[[:en:obs-training:frames:01-16|God Rests [01-16]]]  "So God rested from all He had been doing. He __blessed__ the seventh day and made it holy, because on this day He rested from His work."
-
-[[:en:obs-training:frames:03-14|Noah's Sacrifice [03-14]]]  "God was happy with the sacrifice and __blessed__ Noah and his family."
-
-[[:en:obs-training:frames:04-04|Abraham Chosen [04-04]]]  "I [God] will make your [Abraham] name great. I will __bless__ those who __bless__ you and curse those who curse you. All families on earth will be __blessed__ because of you.”
-
-[[:en:obs-training:frames:04-06|Abraham Blessed [04-06]]]  "I [God] will __bless__ you [Abraham] and make your name great."
-
-[[:en:obs-training:frames:04-07|Melchizedek [04-07]]]  " Melchizedek __blessed__ Abram and said, 'May God Most High who owns heaven and earth bless Abram.'"
-
-====Possible Level 2 Generic Definitions====
+==== (blessed) ====
 
 
+===== Definitions: =====
 
-====Possible Level 2 Comparisons====
-  * The opposite of cursing (CL)
+  * to state that positive and beneficial things will happen
+  * to give special positive status to something; to honor
+  * to cause beneficial things to happen to people
+  * to formally pronounce positive things on one's children.
+  * blessing is the opposite of cursing.
 
+
+===== Examples from the Bible stories: =====
+
+[[:en:obs-training:frames:01-07|Birds and Fish Created [01-07]]]  "...God saw that it was good & he **blessed** them [fish & birds]"
+
+[[:en:obs-training:frames:01-15|Fill the Earth [01-15]]]  ".... He **blessed** them [Adam & Eve] and told them, 'Have many children and grandchildren'..."
+
+[[:en:obs-training:frames:01-16|God Rests [01-16]]]  "So God rested from all He had been doing. He **blessed** the seventh day and made it holy, because on this day He rested from His work."
+
+[[:en:obs-training:frames:03-14|Noah's Sacrifice [03-14]]]  "God was happy with the sacrifice and **blessed** Noah and his family."
+
+[[:en:obs-training:frames:04-04|Abraham Chosen [04-04]]]  "I [God] will make your [Abraham] name great. I will **bless** those who **bless** you and curse those who curse you. All families on earth will be **blessed** because of you.”
+
+[[:en:obs-training:frames:04-06|Abraham Blessed [04-06]]]  "I [God] will **bless** you [Abraham] and make your name great."
+
+[[:en:obs-training:frames:04-07|Melchizedek [04-07]]]  " Melchizedek **blessed** Abram and said, 'May God Most High who owns heaven and earth bless Abram.'"
 
 ~~DISCUSSION~~

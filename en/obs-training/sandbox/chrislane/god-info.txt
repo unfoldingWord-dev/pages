@@ -1,26 +1,26 @@
 ====== God ======
 
 
-===== "God, god" =====
+==== (god) ====
 
 
-(Level 1 to date) :: Used with a capital "G" for the deity who is almighty, creator, sinless and perfect. Also used with a small "g" for false gods.
+===== Definitions: =====
 
 
-====Some Occurrences====
-
-[[:en:obs-training:frames:01-02|Light Created [01-02]]]  "Then __God__ spoke and said"
-
-[[:en:obs-training:frames:03-16|The Rainbow [03-16]]]  "__God__ then made the first rainbow as a sign of His promise."
-
-[[:en:obs-training:frames:05-01|Hagar [05-01]]]  "__God__ spoke to Abram and promised again that he would have a son and as many descendants as the stars in the sky. Abram believed __God’s__ promise. __God__ said that Abram was righteous through believing in __God's__ promise."
-
-[[:en:obs-training:frames:05-03|Covenant Renewed [05-03]]]  "I am __God__ Almighty. I will make a covenant with you."
+  * Refers to the one true God who is the almighty Creator of the world.
+  * God is loving, just, sinless, perfect and infinitely wise.
+  * When people worship idols, these are false “gods” (small 'g').
 
 
-====Possible Level 2 Generic Definitions====
+===== Examples from the Bible stories: =====
 
-====Possible Level 2 Comparisons====
+[[:en:obs-training:frames:01-02|Light Created [01-02]]]  "Then **God** spoke and said"
+
+[[:en:obs-training:frames:03-16|The Rainbow [03-16]]]  "**God** then made the first rainbow as a sign of His promise."
+
+[[:en:obs-training:frames:05-01|Hagar [05-01]]]  "**God** spoke to Abram and promised again that he would have a son and as many descendants as the stars in the sky. Abram believed **God’s** promise. **God** said that Abram was righteous through believing in **God's** promise."
+
+[[:en:obs-training:frames:05-03|Covenant Renewed [05-03]]]  "I am **God** Almighty. I will make a covenant with you."
 
 
 ~~DISCUSSION~~

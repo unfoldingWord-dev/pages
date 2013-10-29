@@ -1,66 +1,33 @@
 ====== Good ======
 
 
-===== "good" =====
+===== Definitions: =====
+
+  * In agreement with or reflecting God's character, purposes and will. 
+  * Having positive and beneficial characteristics or influence. 
+  * Being skilled at doing something. 
 
 
-(Level 1 to date) :: In agreement with God's character and purposes.
+===== Examples from the Bible stories: =====
 
-====Some Occurrences====
+[[:en:obs-training:frames:01-05|Plants Created [01-05]]]  "God saw that what He had created was **good**, and He was pleased with it all."
 
-[[:en:obs-training:frames:01-05|Plants Created [01-05]]]  "God saw that what He had created was __good__, and He was pleased with it all."
+[[:en:obs-training:frames:01-11|Two Trees [01-11]]]  "the tree of the knowledge of **good** and evil. God told Adam that he could eat from any tree in the garden except from the tree of the knowledge of **good** and evil."
 
-[[:en:obs-training:frames:01-11|Two Trees [01-11]]]  "the tree of the knowledge of __good__ and evil. God told Adam that he could eat from any tree in the garden except from the tree of the knowledge of __good__ and evil."
+[[:en:obs-training:frames:01-12|Adam Alone [01-12]]]  "It is not **good** for man to be alone" 
 
-[[:en:obs-training:frames:01-12|Adam Alone [01-12]]]  "It is not __good__ for man to be alone" 
+[[:en:obs-training:frames:02-04|The Lie [02-04]]]  "You will be like God, knowing **good** and evil."
 
-[[:en:obs-training:frames:02-04|The Lie [02-04]]]  "You will be like God, knowing __good__ and evil."
+[08-07]  "God is going to send seven years of **good** harvests followed by seven years of famine."
 
-[08-07]  "God is going to send seven years of __good__ harvests followed by seven years of famine."
+[08-12]  "You tried to do evil when you sold me as a slave, but God used the evil for **good**"
 
-[08-12]  "You tried to do evil when you sold me as a slave, but God used the __evil__ for good"
+[14-05]  "...the spies gave a bad report, saying, 'The land is very **good**, and the crops are great!'"
 
-[14-05]  "...the spies gave a bad report, saying, 'The land is very __good__, and the crops are great!'"
+[14-15]  "Joshua was a **good** leader because he trusted and obeyed God."
 
-[14-15]  "Joshua was a __good__ leader because he trusted and obeyed God."
+[28-01]  "'**Good** teacher, what **good** thing must I do to have eternal life?' Jesus said to him, 'Why do you call me **good**? There is only One who is **good**, and that is God.'"
 
-[28-01]  "'__Good__ teacher, what __good__ thing must I do to have eternal life?' Jesus said to him, 'Why do you call me __good__? There is only One who is __good__, and that is God.'"
-
-[36-04]  "Jesus, it is __good__ for us to be here."
-
-====Possible Level 2 Generic Definition====
-
-  *In agreement with or reflecting God's character, purposes, and/or will (CL)
-  *seen in the choices and decisions of God (TW from other KT page [cl])
-
-====Possible Level 2 Comparisons====
-
-----
-Lizz's Format (from other KT page [cl])
-
-===Definitions===
-In agreement with or reflecting God's character, purposes and will.
-Having positive and beneficial characteristics or influence.
-Being skilled at doing something.
-
-===Translation tip===
-After you choose a word to translate this term try to use it consistently when it appears in other Bible stories. Make sure that the translation of this term has the correct meaning in each context. Always check for any discussion of this term on the picture frame page that might point out a different meaning or use of that word in that text.
-
-===Examples from the Bible stories:===
-
-01-05 “God saw that what He had created was good, and He was pleased with it all.”
-
-01-12 “Then God said, 'It is not good for man to be alone.'”
-
-08-07 “God is going to send seven years of good harvests followed by seven years of famine.”
-
-14-05 “The land is very good, and the crops are great!”
-
-14-15 “Joshua was a good leader because he trusted and obeyed God.”
-
-17-05 “He was a good king, and the people loved him.”
-
-22-04 “The angel answered, 'I was sent by God to bring you this good news.'”
-
+[36-04]  "Jesus, it is **good** for us to be here."
 
 ~~DISCUSSION~~
