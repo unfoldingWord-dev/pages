@@ -5,18 +5,17 @@
 
   * Name of the first man
   * God created Adam from the dirt of the ground.
-  * Adam's name sounds similar to the Hebrew word for "red clay" or "ground"
 
 
 ===== Examples from the Bible stories: =====
 
 
-[[:en:obs-training:frames:01-09|Man in God's Image [01-09]]] "Then God said, 'Let us make **human beings** in our image'" 
+[[:en:obs-training:frames:01-09|Man in God's Image [01-09]]] "Then God said, 'Let us make human beings in our image'" 
 
 [[:en:obs-training:frames:01-10|Adam Created [01-10]]]  "This man's name was **Adam**. God planted a garden where **Adam** could live"
 
 
-[[:en:obs-training:frames:01-12|Adam Alone [01-12]]] Then God said, "It is not good for **man** to be alone." But none of the animals could be **Adam's** helper.
+[[:en:obs-training:frames:01-12|Adam Alone [01-12]]] Then God said, "It is not good for man to be alone." But none of the animals could be **Adam's** helper.
 
 [[:en:obs-training:frames:02-11|The Man is Cursed [02-11]]] "And God clothed **Adam** and Eve with animal skins." 
 
