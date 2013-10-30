@@ -1,0 +1,54 @@
+====== How to Get Started ======
+
+
+Translating content in Door43 is easy! Follow these simple steps to get started:
+
+
+===== 1. Create an Account & Log in to Door43 =====
+
+
+To start translating content, you will need a user account on Door43. If you do not have an account, [[:en:get-started?do=register|create one]] then you can [[:en:get-started?do=login|login]].
+
+
+===== 2. Edit a (Test) Page =====
+
+
+Door43 has a [[:playground:playground|test page]] that you can freely edit to try things out.
+
+
+**Graphical Editor** – When you click the "Edit this page" button, you will probably see an edit window that looks like a simplified word processor. The buttons take care of formatting text and generally make it easier to use.
+
+
+**Lightweight Editor** – If you prefer, you can click the "DW Edit" button beneath the edit box to switch to a very lightweight, text-based editor. This is the standard DokuWiki editor and it provides full control over the syntax of the text. //Note: when using the lightweight editor, you can switch back to the graphical editor by clicking the "FCK Edit" button.// 
+===== 3. Choose a Resource =====
+
+
+Browse to a resource you would like to translate. For instance, to translate the first story of [[:en:obs|Open Bible Stories]], you would click [[:en:obs:01-the-creation|1. The Creation]].
+
+
+===== 4. Choose a Language =====
+
+
+In the sidebar, you should see a language selection dropdown. When you click it, you will see a list of available languages, sorted by [[http://en.wikipedia.org/wiki/ISO_639|language code]]. If you see the language into which you would like to translate, click it.((If you need a language added to Door43, please  [[http://distantshoresmedia/contact|contact us]])) 
+
+
+**Source Text** – If the language you select does not have a source text already available on the page, you will see a header on the page that says "This page does not exist yet". You can save some time by starting with a source text from another language. Here's how:
+
+
+    - Click the back button in your browser to return to the same page in the previous language.
+    - Click the "Edit this page" button (or "View the page source").
+    - Select all the text in the editing window.
+    - Copy the text (Control-C).
+    - Click the "Cancel" button to leave the edit box and return to the page view.
+    - Choose your desired language in the language selection dropdown.
+    - Click "Create this page".
+    - Paste the contents of the original page into the edit box.
+
+
+===== 5. Start Translating =====
+
+
+Simply begin translating the source text into the language you selected.
+
+
+//Note: More information available on the [[:en:tips-tricks|Tips & Tricks]] page!//

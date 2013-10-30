@@ -25,4 +25,4 @@
 **[[:en:obs-training:01-the-creation|برگردید]]** 
 
 
-~~DISCUSSION~~
+~~DISCUSSION:off~~
