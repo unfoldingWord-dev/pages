@@ -11,10 +11,10 @@ Then **[[:en:key-terms:god|God]]** said, "Let the earth produce all kinds of tre
 ===== Translation Notes: =====
 
 
-    * **[[:en:obs-training/sandbox/chrislane/god-info|God]] said** - God created all vegetation by means of a simple verbal command.
+    * **[[:en:key-terms:god|God]] said** - God created all vegetation by means of a simple verbal command.
     * **let the earth produce** - This is an indirect command that happened immediately because it was spoken by God.
     * **all kinds** - many different species, or types, of each plant and tree
-    * **was [[:en:obs-training/sandbox/chrislane/good-info|good]]** - This phrase repeats throughout the story to show that each stage of creation fulfilled God's plan and purpose.
+    * **was [[:en:key-terms:good|good]]** - This phrase repeats throughout the story to show that each stage of creation fulfilled God's plan and purpose.
     * **he was pleased with it all** - God takes pleasure in all he has made. It delights him.
 
 
