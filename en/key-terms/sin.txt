@@ -1,35 +1,36 @@
 ====== Sin ======
 
 
-===== "sin" =====
+==== (sin, sinful, sinner) ====
 
 
-Something that is opposed to the way God desires for us to think and act.
+===== Definitions: =====
 
 
-For example:
+    * Anything that is opposed to the way **[[:en:key-terms:god|God]]** desires for us to think and act.
+    * Anything that is in opposition to God's character.
+    * The world was created without sin, but the first people, **[[:en:key-terms:adam|Adam ]]** and **[[:en:key-terms:eve|Eve]]**, sinned by eating the fruit that God told them not to eat.
+    * Sin is passed from parent to child through the entire human race.
+    * God must judge sin.
 
 
-    * This term is best translated to have the meaning of…..
-    * Perhaps compare/contrast/refer to other similar words or corresponding terms or Hebrew or Greek words
+===== Examples from the Bible stories: =====
 
 
-----
+[[:en:obs-training:frames:02-01|Man in God's Image [02-01]]] "...Neither of them wore clothes, but they did not feel any shame, because there was no **sin** in the world."
+
+[[:en:obs-training:frames:02-01|Man in God's Image [02-01]]] "God said, 'I will never again curse the ground because of humans or destroy the world with a flood, even though humans are **sinful** from their youth.'”
+
+[08-05] "His master’s wife tried to sleep with Joseph, but Joseph refused to **sin** against God in this way."
+
+[13-09]  "...The blood of the sacrifice covered the person’s sin and made them clean in God’s sight."
+
+[13-12]  "...God was very angry with their sin and planned to destroy them."
+
+{17-07]  "...The Messiah is God’s Chosen One who would save the world from sin."
 
 
-==== Translator Shortcut: ====
+[see also: **[[:en:key-terms:evil|evil]]**, **[[:en:key-terms:wicked|wicked]]**, **[[:en:key-terms:disobey|disobey]]**]
 
-
-After you choose a word to translate this term, try to use it consistently when it appears in other Bible stories. For example:
-
-
-    * **Story x - Title**  - Frames x, x and x
-==== Root words in the Bible: ====
-
-
-This term is also used in many places in the Bible. You can use the links below to see Strong's description of the root meaning of these words.
-
-
-    * Strong's link
 
 ~~DISCUSSION~~
