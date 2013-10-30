@@ -1,1 +1,4 @@
 Creation 01 - farsi
+
+[[:fa:obs-training:link-test-1|Link 1]]
+
