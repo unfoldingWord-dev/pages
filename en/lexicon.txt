@@ -5,7 +5,7 @@ This is a lexicon of Biblical terms, keyed to Strong's numbers. The definitions 
 ===== Hebrew =====
 
   * [[en:lexicon:hebrew-numbers-1|Hebrew (By Number)]]
-  * [[en:lexicon:hebrew--|Hebrew (By Word)]]
+  * [[en:lexicon:hebrew-a|Hebrew (By Word)]]
 
 
 ===== Greek =====

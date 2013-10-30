@@ -1,7 +1,4 @@
-====== Key Terms ======
-
-
 This the list of important words and phrases. Click on the word to learn more.
 
 
-<nspages en:key-terms -title -exclude:home -textPages="List of key terms:">
+<nspages en:key-terms -title -exclude:home -textPages="List of important words:">
