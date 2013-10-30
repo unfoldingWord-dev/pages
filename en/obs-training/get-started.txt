@@ -19,11 +19,14 @@ Door43 has a [[:playground:playground|test page]] that you can freely edit to tr
 **Graphical Editor** – When you click the "Edit this page" button, you will probably see an edit window that looks like a simplified word processor. The buttons take care of formatting text and generally make it easier to use.
 
 
-**Lightweight Editor** – If you prefer, you can click the "DW Edit" button beneath the edit box to switch to a very lightweight, text-based editor. This is the standard DokuWiki editor and it provides full control over the syntax of the text. //Note: when using the lightweight editor, you can switch back to the graphical editor by clicking the "FCK Edit" button.// 
-===== 3. Choose a Resource =====
+**Text Editor** – If you prefer, you can click the "DW Edit" button beneath the edit box to switch to a text-based editor. This is the standard DokuWiki editor and it provides full control over the syntax of the text.
 
 
-Browse to a resource you would like to translate. For instance, to translate the first story of [[:en:obs|Open Bible Stories]], you would click [[:en:obs:01-the-creation|1. The Creation]].
+//Note: when using the lightweight editor, you can switch back to the graphical editor by clicking the "FCK Edit" button.// 
+===== 3. Choose a Story =====
+
+
+Browse to a story you would like to translate. For instance, to translate the first story of [[:en:obs|Open Bible Stories]], you would click [[:en:obs:01-the-creation|1. The ]][[:en:obs:01-the-creation|Creation]]from the left menu.
 
 
 ===== 4. Choose a Language =====
@@ -42,7 +45,9 @@ In the sidebar, you should see a language selection dropdown. When you click it,
     - Click the "Cancel" button to leave the edit box and return to the page view.
     - Choose your desired language in the language selection dropdown.
     - Click "Create this page".
+    - Click on the DWEdit button. If the window refreshes, click on "Create this page".
     - Paste the contents of the original page into the edit box.
+    - Click the "Save" button. The edit window closes and the new created page shows.
 
 
 ===== 5. Start Translating =====

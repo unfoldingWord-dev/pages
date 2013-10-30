@@ -2,5 +2,6 @@ The Creation Intro
 
 
 
-[[:fa:obs-training:frames:01-01|{{:en:obs:obs-01-01.jpg?nolink&200}}]]\\ 
+[[:fa:obs-training:frames:01-01|{{:en:obs:obs-01-01.jpg?nolink&200a:}}]]\\ 
  شروع [01-01] \\ 
+
