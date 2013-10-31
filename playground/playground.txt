@@ -1,6 +1,5 @@
-===== PlayGround =====
+===== Playground =====
 
 
 **test this**
 
-type in this space to add text
