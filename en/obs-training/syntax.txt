@@ -1,0 +1,34 @@
+====== Formatting Content ======
+
+**DokuWiki** supports some simple markup language, which tries to make the files to be as readable as possible. This page contains the possible syntax you may use when editing the pages. Simply have a look at the source of this page by pressing "Edit this page". If you want to try something, just use the [[playground:playground|playground]] page. The simpler markup is easily accessible via [[doku>toolbar|quickbuttons]], too.
+
+===== Basic Text Formatting =====
+
+DokuWiki supports **bold**, //italic//, __underlined__ and ''monospaced'' texts. Of course you can **__//''combine''//__** all these.
+
+  DokuWiki supports **bold**, //italic//, __underlined__ 
+  and ''monospaced'' texts.
+  Of course you can **__//''combine''//__** all these.
+
+You can use <sub>subscript</sub> and <sup>superscript</sup>, too.
+
+  You can use <sub>subscript</sub> and 
+  <sup>superscript</sup>, too.
+
+You can mark something as <del>deleted</del> as well.
+
+  You can mark something as <del>deleted</del> as well.
+
+**Paragraphs** are created from blank lines. If you want to **force a newline** without a paragraph, you can use two backslashes followed by a whitespace or the end of line.
+
+This is some text with some linebreaks\\ Note that the
+two backslashes are only recognized at the end of a line\\
+or followed by\\ a whitespace \\this happens without it.
+
+  This is some text with some linebreaks\\ Note that the
+  two backslashes are only recognized at the end of a line\\
+  or followed by\\ a whitespace \\this happens without it.
+
+You should use forced newlines only if really needed.
+
+==== That is about all you will need to know to type in your translated story. Go here if you want to do more formatting. ====
