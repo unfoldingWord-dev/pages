@@ -1,35 +1,22 @@
 ====== Righteous ======
 
 
-===== "righteous" =====
+===== Definitions: =====
+
+  * Just, acting in a way that is proper, or proven correct.
+  * Righteousness is based on believing and obeying God.
+
+[see also: **[[:en:key-terms:good|good]]**, **[[:en:key-terms:holy|holy]]**]
 
 
-Just, acting in a way that is proper, proven correct.
+===== Examples from the Bible stories: =====
 
 
-For example:
+[[:en:obs-training:frames:03-02|Noah Finds Grace [03-02]]]  "But Noah found grace in God’s eyes. He was the only **righteous** man among all the wicked people."
 
+[[:en:obs-training:frames:05-01|Hagar [05-01]]]  "... God said that Abram was **righteous** through believing in God's promise."
 
-    * This term is best translated to have the meaning of…..
-    * Perhaps compare/contrast/refer to other similar words or corresponding terms or Hebrew or Greek words
+[17-02]  "... David was a humble and **righteous** man who trusted and obeyed God."
 
-
-----
-
-
-==== Translator Shortcut: ====
-
-
-After you choose a word to translate this term, try to use it consistently when it appears in other Bible stories. For example:
-
-
-    * **Story x - Title**  - Frames x, x and x
-==== Root words in the Bible: ====
-
-
-This term is also used in many places in the Bible. You can use the links below to see Strong's description of the root meaning of these words.
-
-
-    * Strong's link
 
 ~~DISCUSSION~~
