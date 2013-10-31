@@ -1,6 +1,6 @@
 ====== Formatting Content ======
 
-**DokuWiki** supports some simple markup language, which tries to make the files to be as readable as possible. This page contains the possible syntax you may use when editing the pages. Simply have a look at the source of this page by pressing "Edit this page". If you want to try something, just use the [[playground:playground|playground]] page. The simpler markup is easily accessible via [[doku>toolbar|quickbuttons]], too.
+**DokuWiki** supports some simple markup language, which tries to make the files to be as readable as possible. This page contains the possible syntax you may use when editing the pages. Simply have a look at the source of this page by pressing "Edit this page". If you want to try something, just use the [[playground:playground|playground]] page. 
 
 ===== Basic Text Formatting =====
 
@@ -31,4 +31,6 @@ or followed by\\ a whitespace \\this happens without it.
 
 You should use forced newlines only if really needed.
 
-==== That is about all you will need to know to type in your translated story. Go here if you want to do more formatting. ====
+==== That is about all you will need to know to type in your translated story. ====
+Go [[wiki:syntax|here]] for more information on formatting the text.\\
+Here is information on the toolbar icons: [[doku>toolbar|quickbuttons]].
