@@ -1,15 +1,14 @@
 ====== Bless ======
 
 
-==== (bless, blessed) ====
+==== (bless, blessed, blessing) ====
 
 
 ===== Definitions: =====
 
-  * To bless someone or something is to state a desire for positive and beneficial things to happen.
+  * When people bless someone or something, they are stating a desire for positive and beneficial things to happen.
   * God's blessing causes beneficial things to happen to someone.
-  * To formally pronounce positive things on one's children.
-  * Blessing is the opposite of **[[:en:key-terms:curse|cursing]]**.
+  * To bless is the opposite of to **[[:en:key-terms:curse|curse]]**.
 
 
 ===== Examples from the Bible stories: =====
@@ -27,5 +26,7 @@
 [[:en:obs-training:frames:04-06|Abraham Blessed [04-06]]]  "I [God] will **bless** you [Abraham] and make your name great."
 
 [[:en:obs-training:frames:04-07|Melchizedek [04-07]]]  " Melchizedek **blessed** Abram and said, 'May God Most High who owns heaven and earth bless Abram.'"
+
+[07-03]  "When Isaac was old, he wanted to give his **blessing** to Esau."
 
 ~~DISCUSSION~~
