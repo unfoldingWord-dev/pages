@@ -1,1 +1,4 @@
 ====== How to Translate Names ======
+
+
+====== <font 13px font-weight: normal; line-height: normal;/ ;;#000000;;#ffffff>it is important to spell names consistently throughout the Bible. That is, the way "Adam," "Eve," "Noah," "Abraham" and "Sarah" and other names are spelled in the Old Testament should be the same way their names are spelled in the New Testament. Some translation teams spell names as closely as possible to the way those names are spelled in a Bible translation of a nearby widely known language. Other teams may want to spell the names in a way that is similar to the way the Hebrew (Old Testament) and Greek (New Testament) languages have them. For example, in languages of countries whose national language is French</font>  ======
