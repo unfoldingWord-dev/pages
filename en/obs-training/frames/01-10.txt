@@ -10,13 +10,13 @@ So **[[:en:key-terms:god|God]]** took some dirt, formed it into a man, and breat
 ===== Translation Notes: =====
 
 
-    * **took some dirt** - God made man from the dust, or dry dirt from the ground. This was a very humble origin for the human race.
-    * **formed it** - An anthropomorphism indicating that God fashioned the man, as if by His hands. This very personal act contrasts the humble material (dirt) and the creation of the animals with a spoken word.
-    * **a man** - the man only–-the woman was made later by a different method
-    * **breathed [[:en:key-terms:life|life]]** - This is again an anthropomorphism that indicates a very intimate, personal transfer of "life" directly from God into the man's body, making him alive. Generally understood as the God giving man a living spirit.
-    * **[[:en:key-terms:life|life]]** - In the Bible, "life" means a person's spirit is present in their body. When the spirit leaves the body, the person "dies," leaving behind a lifeless body.
+    * **took some dirt** - God made man from the dust, or dry dirt from the ground.This word should probably be different from the general word used for earth.  
+    * **formed it** - This word expresses that God personally fashioned the man, comparing this to how a person creates something with his hands. Make sure that a different word from "create" is used. Note that this is very different from how he created everything else through a simple spoken command.
+    * **a man** - Only the man was created at this time; the woman was created later by a different method.
+    * **breathed [[:en:key-terms:life|life]]** - This phrase expresses God's very personal, intimate action as he transferred life from his own body into Adam's body, comparing this to how a human being breathes out air. 
+    * **[[:en:key-terms:life|life]]** - In this event, God breathed both physical and spiritual life into the man.
     * **[[:en:key-terms:adam|Adam]]** - Adam's name is the same as the Old Testament word for "man," and similar to the word for "dirt" from which he was formed.
-    * **garden** - A small area filled with trees and plants for a purpose--usually to produce food or to provide beauty.
+    * **garden** - An area of land planted with trees and plants for a purpose--usually to produce food or to provide beauty.
     * **care for it** - To maintain the garden by tending, weeding, watering, harvesting, planting, etc.
 
 
