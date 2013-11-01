@@ -1,4 +1,25 @@
 ====== How to Translate Names ======
 
 
-====== <font 13px font-weight: normal; line-height: normal;/ ;;#000000;;#ffffff>it is important to spell names consistently throughout the Bible. That is, the way "Adam," "Eve," "Noah," "Abraham" and other names are spelled in the Old Testament should be the same way their names are spelled in the New Testament. Some translation teams spell names as closely as possible to the way those names are spelled in a Bible translation of a nearby widely known language. Other teams may want to spell the names similar to the way the Hebrew (Old Testament) and Greek (New Testament) languages have them. Sometimes translators will use a name that has the same meaning as the name in the original language. For most names, it is best to only use letters that are used in the language the Bible is being translated into. For example, for a certain language the name "Eve" might be spelled "Awa" if "e" and "v" do not exist in that language.</font>  ======
+===== It is important to: =====
+
+
+==== Spell names consistently throughout the Bible. ====
+
+
+That is, the way "Adam," "Eve," "Noah," "Abraham" and other names are spelled in the Old Testament should be the same way their names are spelled in the New Testament. Some translation teams spell names as closely as possible to the way those names are spelled in a Bible translation of a nearby widely known language. Other teams may want to spell the names similar to the way the Hebrew (Old Testament) and Greek (New Testament) languages have them.
+
+
+==== Use only letters that are in the language. ====
+
+
+For most names, it is best to only use letters that are used in the language the Bible is being translated into. For example, for a certain language the name "Eve" might be spelled "Awa" if "e" and "v" do not exist in that language.
+
+
+=====  =====
+
+
+===== Option: =====
+
+
+Sometimes translators will use a name that has the same meaning as the name in the original language.
