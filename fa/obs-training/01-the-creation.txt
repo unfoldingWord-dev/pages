@@ -33,10 +33,10 @@
 [[:fa:obs-training:frames:01-08|{{:en:obs:obs-01-08.jpg?nolink&200a:}}]]\\ 
 حیوانات ایجاد شده است [08-01]\\ 
 \\ 
-[[:fa:obs-training:frames:01-09|{{:en:obs:obs-01-01.jpg?nolink&200a:}}]]\\  
+[[:fa:obs-training:frames:01-09|{{:en:obs:obs-01-09.jpg?nolink&200a:}}]]\\  
 انسان در تصویر خدا [09-01]\\ 
 \\ 
-[[:fa:obs-training:frames:01-10|{{:en:obs:obs-01-09.jpg?nolink&200a:}}]]\\ 
+[[:fa:obs-training:frames:01-10|{{:en:obs:obs-01-10.jpg?nolink&200a:}}]]\\ 
 آدم ایجاد شده است [10-01]\\ 
 \\ 
 [[:fa:obs-training:frames:01-11|{{:en:obs:obs-01-11.jpg?nolink&200a:}}]]\\  
