@@ -1,35 +1,19 @@
 ====== Disobey ======
 
 
-===== "disobey" =====
+===== Definitions: =====
+
+  * To not do something that was commanded.
+  * To do something differently than instructed.
+  * Literally, "to not hear."
+
+[see also: **[[:en:key-terms:evil|evil]]**, **[[:en:key-terms:sin|sin]]**, **[[:en:key-terms:wicked|wicked]]**]
+
+===== Examples from the Bible stories: =====
 
 
-To not do, or do differently than instructed, literally, "to not hear."
+[[:en:obs-training:frames:02-11|The Man Is Cursed [02-11]]] "God said to the man, “You listened to your wife and **disobeyed** me."
 
+[13-07]  "...If the people obeyed these laws, God promised that He would bless and protect them. If they **disobeyed** them, God would punish them."
 
-For example:
-
-
-    * This term is best translated to have the meaning of…..
-    * Perhaps compare/contrast/refer to other similar words or corresponding terms or Hebrew or Greek words
-
-
-----
-
-
-==== Translator Shortcut: ====
-
-
-After you choose a word to translate this term, try to use it consistently when it appears in other Bible stories. For example:
-
-
-    * **Story x - Title**  - Frames x, x and x
-==== Root words in the Bible: ====
-
-
-This term is also used in many places in the Bible. You can use the links below to see Strong's description of the root meaning of these words.
-
-
-    * Strong's link
-
-~~DISCUSSION~~
+[35-12]  "He said, ‘All these years I’ve worked so faithfully for you! I never **disobeyed** you,..."

@@ -1,6 +1,8 @@
 ====== Wicked ======
 
+
 ===== Definitions =====
+
 
   * Something that is very evil and deserves punishment. 
   * Evil acts are also often criminal.
@@ -10,13 +12,14 @@
 **, **
 [[:en:key-terms:evil|evil]]
 **, **
-[[:en:key-terms:disobey|sin]]
+[[:en:key-terms:sin|sin]]
 **]
+
+
 ===== Examples from the Bible stories: =====
 
-[03-01]  
-“After a long time, many people were living in the world. They had become very **wicked** and violent.”
-[03-02]  
-“But Noah found grace in God’s eyes. He was the only righteous man among all the **wicked** people.”
-[17-01]  
-“Saul did well at first, but he became a **wicked** man who did not obey God, so God chose a different man to be king in his place.”
+[[:en:obs-training:frames:03-01|Sin Increases [03-01]]]  “After a long time, many people were living in the world. They had become very **wicked** and violent.”
+
+[[:en:obs-training:frames:03-02|Noah Finds Grace [03-02]]]  “But Noah found grace in God’s eyes. He was the only righteous man among all the **wicked** people.”
+
+[17-01]  “Saul did well at first, but he became a **wicked** man who did not obey God, so God chose a different man to be king in his place.”
