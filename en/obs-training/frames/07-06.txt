@@ -1,0 +1,25 @@
+====== Frame [07-06] ======
+
+[image]
+
+[text] with inline links - **[[:en:key-terms:beginning|sample]]**
+
+
+===== Emphasis: =====
+
+
+[paraphrase?]
+
+
+===== Translation Notes: =====
+
+
+  * **issue** - explanation
+  * **issue** - explanation
+  * **issue** - explanation
+  * **issue** - explanation
+  
+
+**[[:en:obs-training:07-god-blesses-jacob|Back]]**
+
+~~DISCUSSION~~

@@ -14,12 +14,12 @@ You can watch this [[https://www.youtube.com/watch?v=I2tx0N-RI_4&feature=youtu.b
 ===== 2. Practice Editing a Page =====
 
 
-Door43 has a [[:playground:playground|test page]] that you can freely edit to try things out. Go to the [[:en:obs-training:syntax|Formatting Text]] page to learn how to use the text editors. 
+Door43 has a [[:playground:playground|test page]] that you can freely edit to try things out.  [[http://youtu.be/dF7px5U6PdA|Here]] is a short video on how to switch between the text editor and the graphical editor.
 
 **Graphical Editor** – When you click the "Edit this page" button, you will probably see an edit window that looks like a simplified word processor.  Click [[https://www.youtube.com/watch?v=NbnGtWp0kLc|here]] for the "how to" video. The buttons take care of formatting text and generally make it easier to use. Here is information on the toolbar icons: [[doku>toolbar|quickbuttons]].
 
 
-**Text Editor** – If you prefer, you can click the "DW Edit" button beneath the edit box to switch to a text-based editor. This is the standard DokuWiki editor and it provides full control over the syntax of the text.
+**Text Editor** – If you prefer, you can click the "DW Edit" button beneath the edit box to switch to a text-based editor. This is the standard DokuWiki editor and it provides full control over the syntax of the text. Go to the [[:en:obs-training:syntax|Formatting Text]] page for some simple editing formats to use the text editor.
 
 
 //Note: when using the text editor, you can switch back to the graphical editor by clicking the "FCK Edit" button.// 
@@ -57,3 +57,4 @@ Simply begin translating the source text into the language you selected.
 
 
 //Note: More information available on the [[:en:tips-tricks|Tips & Tricks]] page!//
+
