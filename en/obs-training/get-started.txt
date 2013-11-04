@@ -51,8 +51,10 @@ In the sidebar, you should see a language selection dropdown. When you click it,
 ===== 5. Start Translating =====
 
 
-Simply begin translating the source text into the language you selected.
-You can click here to go to [[:en:obs-training:01-the-creation|The Creation]] story with Translator Helps.
+Simply begin translating the source text into the language you selected.\\
+You can click here to go to [[:en:obs-training:01-the-creation|The Creation]] story.\\
+The stories are separated into separate pages by the pictures. Each page has the picture and the text from the story with links and notes on how to translate some of the important words in the story. \\
+This video will give a quick overview of how to use the Translation Notes on the story picture pages.
 
 
 
