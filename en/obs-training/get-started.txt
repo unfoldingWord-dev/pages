@@ -19,16 +19,14 @@ Door43 has a [[:playground:playground|test page]] that you can freely edit to tr
 **Graphical Editor** – When you click the "Edit this page" button, you will probably see an edit window that looks like a simplified word processor.  Click [[https://www.youtube.com/watch?v=NbnGtWp0kLc|here]] for the "how to" video. The buttons take care of formatting text and generally make it easier to use. Here is information on the toolbar icons: [[doku>toolbar|quickbuttons]].
 
 
-**Text Editor** – If you prefer, you can click the "DW Edit" button beneath the edit box to switch to a text-based editor. This is the standard DokuWiki editor and it provides full control over the syntax of the text. Go to the [[:en:obs-training:syntax|Formatting Text]] page for some simple editing formats to use the text editor.
+**Text Editor** – If you prefer, you can click the "DW Edit" button beneath the edit box to switch to a text-based editor. This is the standard DokuWiki editor and it provides full control over the syntax of the text. Go to the [[:en:obs-training:syntax|Formatting Text]] page for some simple editing formats to use in the text editor.
 
 
-//Note: when using the text editor, you can switch back to the graphical editor by clicking the "FCK Edit" button.// 
+//Note:// when using the text editor, you can switch back to the graphical editor by clicking the "FCK Edit" button. 
 ===== 3. Choose a Story =====
 
 
-Browse to a story you would like to translate. For instance, to translate the first story of [[:en:obs|Open Bible Stories]], you would click [[:en:obs:01-the-creation|1. The ]][[:en:obs:01-the-creation|Creation]]from the left menu.
-
-
+Browse to a story you would like to translate. For instance, to translate the first story of [[:en:obs|Open Bible Stories]], you would click [[:en:obs:01-the-creation|1. The Creation]] from the left menu. 
 ===== 4. Choose a Language =====
 
 
@@ -54,6 +52,8 @@ In the sidebar, you should see a language selection dropdown. When you click it,
 
 
 Simply begin translating the source text into the language you selected.
+You can click here to go to [[:en:obs-training:01-the-creation|The Creation]] story with Translator Helps.
+
 
 
 //Note: More information available on the [[:en:tips-tricks|Tips & Tricks]] page!//
