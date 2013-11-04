@@ -17,7 +17,7 @@ You can watch this [[https://www.youtube.com/watch?v=I2tx0N-RI_4&feature=youtu.b
 Door43 has a [[:playground:playground|test page]] that you can freely edit to try things out. Go to the [[:en:obs-training:syntax|Formatting Text]] page to learn how to use the text editors. Here is information on the toolbar icons: [[doku>toolbar|quickbuttons]].
 
 
-**Graphical Editor** – When you click the "Edit this page" button, you will probably see an edit window that looks like a simplified word processor. The buttons take care of formatting text and generally make it easier to use.
+**Graphical Editor** – When you click the "Edit this page" button, you will probably see an edit window that looks like a simplified word processor. The buttons take care of formatting text and generally make it easier to use. Click here for the "how to" video.
 
 
 **Text Editor** – If you prefer, you can click the "DW Edit" button beneath the edit box to switch to a text-based editor. This is the standard DokuWiki editor and it provides full control over the syntax of the text.
