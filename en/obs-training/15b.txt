@@ -13,16 +13,44 @@
 Click on the links below to translate each frame of the story.
 
 
-[[:en:obs-training:frames:0x-01|{{:en:obs:obs-0x-01.jpg?200|Frame}}]]\\ 
-Frame [0x-01]\\ 
+[[:en:obs-training:frames:15-01|{{:en:obs:obs-15-01.jpg?200|Frame}}]]\\ 
+The Two Spies [15-01]\\ 
 
+[[:en:obs-training:frames:15-02|{{:en:obs:obs-15-02.jpg?200|Frame}}]]\\ 
+Crossing the Jordan River [15-02]\\ 
 
+[[:en:obs-training:frames:15-03|{{:en:obs:obs-15-03.jpg?200|Frame}}]]\\ 
+Marching around Jericho [15-03]\\ 
 
+[[:en:obs-training:frames:15-04|{{:en:obs:obs-15-04.jpg?200|Frame}}]]\\ 
+Shouting to God [15-04]\\ 
 
-[[:en:obs-training:frames:0x-1x|{{:en:obs:obs-0x-1x.jpg?200|Frame}}]]\\ 
-Frame [0x-1x]\\ 
+[[:en:obs-training:frames:15-05|{{:en:obs:obs-15-05.jpg?200|Frame}}]]\\ 
+The Walls Fall Down [15-05]\\ 
 
+[[:en:obs-training:frames:15-06|{{:en:obs:obs-15-06.jpg?200|Frame}}]]\\ 
+The Gibeonites Lie [15-06]\\ 
 
+[[:en:obs-training:frames:15-07|{{:en:obs:obs-15-07.jpg?200|Frame}}]]\\ 
+The Gibeonites in Danger [15-07]\\ 
+
+[[:en:obs-training:frames:15-08|{{:en:obs:obs-15-08.jpg?200|Frame}}]]\\ 
+Israel Helps the Gibeonites [15-08]\\ 
+
+[[:en:obs-training:frames:15-09|{{:en:obs:obs-15-09.jpg?200|Frame}}]]\\ 
+God Fights the Canaanites [15-09]\\ 
+
+[[:en:obs-training:frames:15-10|{{:en:obs:obs-15-10.jpg?200|Frame}}]]\\ 
+The Sun Stands Still [15-10]\\ 
+
+[[:en:obs-training:frames:15-11|{{:en:obs:obs-15-11.jpg?200|Frame}}]]\\ 
+Israel Defeats the Canaanites [15-11]\\ 
+
+[[:en:obs-training:frames:15-12|{{:en:obs:obs-15-12.jpg?200|Frame}}]]\\ 
+Dividing the Promised Land [15-12]\\ 
+
+[[:en:obs-training:frames:15-13|{{:en:obs:obs-15-13.jpg?200|Frame}}]]\\ 
+Joshua Renews the Covenant [15-13]\\ 
 
 
 ~~DISCUSSION~~
