@@ -1,6 +1,8 @@
 ====== Frame [13-04] ======
 
-[image]
+{{:en:obs:obs-13-04.jpg?nolink&640x360}}
+
+Then God gave them the covenant and said, “I am the LORD your God, who saved you from slavery in Egypt. Do not worship other gods.”
 
 [text] with inline links - **[[:en:key-terms:beginning|sample]]**
 

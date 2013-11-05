@@ -1,6 +1,8 @@
 ====== Frame [12-05] ======
 
-[image]
+{{:en:obs:obs-12-05.jpg?nolink&640x360}}
+
+Moses told the people, “Do not be afraid! God will fight for you today and save you.” Then God told Moses, “Tell the people to move toward the Red Sea.”
 
 [text] with inline links - **[[:en:key-terms:beginning|sample]]**
 

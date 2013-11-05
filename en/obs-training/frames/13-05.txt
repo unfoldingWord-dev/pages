@@ -1,6 +1,8 @@
 ====== Frame [13-05] ======
 
-[image]
+{{:en:obs:obs-13-05.jpg?nolink&640x360}}
+
+“Do not make idols or worship them, for I, the LORD your God, am a jealous God. Do not use God’s name in a disrespectful way. Remember to keep the Sabbath day holy. Do all your work in six days, for the seventh day is a day of rest to remember the LORD.”
 
 [text] with inline links - **[[:en:key-terms:beginning|sample]]**
 

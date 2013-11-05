@@ -1,6 +1,8 @@
 ====== Frame [13-02] ======
 
-[image]
+{{:en:obs:obs-13-02.jpg?nolink&640x360}}
+
+God said to Moses and the people of Israel, “If you will obey My voice and keep My covenant, you will be My prized possession, a kingdom of priests, and a holy nation.”
 
 [text] with inline links - **[[:en:key-terms:beginning|sample]]**
 
