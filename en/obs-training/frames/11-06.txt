@@ -1,0 +1,20 @@
+====== Frame [11-06] ======
+
+[image]
+
+[text] with inline links - **[[:en:key-terms:beginning|sample]]**
+
+
+===== Translation Notes: =====
+
+
+  * **issue** - explanation
+  * **issue** - explanation
+  * **issue** - explanation
+  * **issue** - explanation
+  
+
+**[[:en:obs-training:11-the-passover|Back]]**
+
+
+~~DISCUSSION~~
