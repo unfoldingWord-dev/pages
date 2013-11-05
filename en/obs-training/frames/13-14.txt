@@ -1,0 +1,20 @@
+====== Frame [13-14] ======
+
+[image]
+
+[text] with inline links - **[[:en:key-terms:beginning|sample]]**
+
+
+===== Translation Notes: =====
+
+
+  * **issue** - explanation
+  * **issue** - explanation
+  * **issue** - explanation
+  * **issue** - explanation
+  
+
+**[[:en:obs-training:13-gods-covenant-with-israel|Back]]**
+
+
+~~DISCUSSION~~
