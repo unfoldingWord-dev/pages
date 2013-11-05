@@ -1,6 +1,9 @@
 ====== Frame [09-02] ======
 
-[image]
+{{:en:obs:obs-09-02.jpg?nolink&640x360}}
+
+
+Many years later, a new Pharaoh came to power in Egypt. The Egyptians forgot about Joseph and all he had done to help them. They became afraid of the Israelites because there were so many of them. So the Egyptians made the Israelites their slaves.
 
 [text] with inline links - **[[:en:key-terms:beginning|sample]]**
 

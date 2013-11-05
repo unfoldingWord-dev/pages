@@ -1,6 +1,8 @@
 ====== Frame [09-11] ======
 
-[image]
+{{:en:obs:obs-09-11.jpg?nolink&640x360}}
+
+Moses became a shepherd in the wilderness far away from Egypt. He married and had two sons.
 
 [text] with inline links - **[[:en:key-terms:beginning|sample]]**
 
