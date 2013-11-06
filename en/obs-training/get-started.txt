@@ -8,7 +8,7 @@ Translating content in Door43 is easy! Follow these simple steps to get started:
 
 
 To start translating content, you will need a user account on Door43. If you do not have an account, [[:en:get-started?do=register|create one]] then you can [[https://door43.org/en/obs-training/get-started?do=login&sectok=ee4e19eb537ef77891aa5a6b54b7b2a4|login]].\\ 
-You can watch this [[https://www.youtube.com/watch?v=I2tx0N-RI_4|video]] to see how to set up an account.
+You can watch this [[http://youtu.be/dpsJRDAa3I8|video]] to see how to set up an account.
 
 
 ===== 2. Practice Editing a Page =====
