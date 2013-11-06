@@ -61,5 +61,6 @@ Fill the Earth [01-15] \\
 [[:en:obs-training:frames:01-16|{{:en:obs:obs-01-16.jpg?nolink&200}}]]\\ 
 God Rests [01-16]
 
+//A Bible story from: Genesis 1-2//
 
 ~~DISCUSSION~~
