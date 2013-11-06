@@ -14,23 +14,26 @@ You can watch this [[http://youtu.be/dpsJRDAa3I8|video]] to see how to set up an
 ===== 2. Practice Editing a Page =====
 
 
-Door43 has a [[:playground:playground|test page]] that you can freely edit to try things out.  [[https://www.youtube.com/watch?v=dF7px5U6PdA|Here]] is a short video on how to switch between the text editor and the graphical editor.
+Door43 has a [[:playground:playground|test page]] that you can freely edit to try things out. [[https://www.youtube.com/watch?v=dF7px5U6PdA|Here]] is a short video on how to switch between the text editor and the graphical editor.
 
-**Graphical Editor** – When you click the "Edit this page" button, you will probably see an edit window that looks like a simplified word processor.  Click [[https://www.youtube.com/watch?v=kFK1zK_dSYc|here]] for the "how to" video. The buttons take care of formatting text and generally make it easier to use. Here is information on the toolbar icons: [[doku>toolbar|quickbuttons]].
+
+**Graphical Editor** – When you click the "Edit this page" button, you will probably see an edit window that looks like a simplified word processor. Click [[https://www.youtube.com/watch?v=kFK1zK_dSYc|here]] for the "how to" video. The buttons take care of formatting text and generally make it easier to use. Here is information on the toolbar icons: [[doku>toolbar|quickbuttons]].
 
 
 **Text Editor** – If you prefer, you can click the "DW Edit" button beneath the edit box to switch to a text-based editor. This is the standard DokuWiki editor and it provides full control over the syntax of the text. Go to the [[:en:obs-training:syntax|Formatting Text]] page for some simple editing formats to use in the text editor.
 
 
-//Note:// when using the text editor, you can switch back to the graphical editor by clicking the "FCK Edit" button. 
+//Note:// when using the text editor, you can switch back to the graphical editor by clicking the "FCK Edit" button.
 ===== 3. Choose a Story =====
 
 
-Browse to a story you would like to translate. For instance, to translate the first story of [[:en:obs|Open Bible Stories]], you would click [[:en:obs:01-the-creation|1. The Creation]] from the left menu. 
+Browse to a story you would like to translate. For instance, to translate the first story of [[:en:obs|Open Bible Stories]], you would click [[:en:obs:01-the-creation|1. The Creation]] from the left menu.
+
+
 ===== 4. Choose a Language =====
 
 
-In the sidebar, you should see a language selection dropdown. When you click it, you will see a list of available languages, sorted by language code.((If you need a language added to Door43, please  [[http://distantshoresmedia/contact|contact us]])). If you see the language into which you would like to translate, click it.
+In the sidebar, you should see a language selection dropdown. When you click it, you will see a list of available languages, sorted by language code.((If you need a language added to Door43, please  [[http://distantshoresmedia/contact|contact us]])) . If you see the language into which you would like to translate, click it.
 
 
 **Source Text** – If the language you select does not have a source text already available on the page, you will see a header on the page that says "This page does not exist yet". You can save some time by starting with a source text from another language. Here's a [[http://youtu.be/uGvMsS1nerk|video]] showing the following steps:
@@ -51,12 +54,19 @@ In the sidebar, you should see a language selection dropdown. When you click it,
 ===== 5. Start Translating =====
 
 
-Simply begin translating the source text into the language you selected.\\
-You can click here to go to [[:en:obs-training:01-the-creation|The Creation]] story with translation helps.\\
-The stories are separated into separate pages by the pictures. Each page has the picture and the text from the story with links and notes on how to translate some of the important words in the story. \\
+Simply begin translating the source text into the language you selected. \\ You can click here to go to [[:en:obs-training:01-the-creation|The Creation]] story with translation helps. Having both the webpage of the story in your language and the webpage of the story with translation helps open at the same time is a good idea.
+
+
 This [[https://www.youtube.com/watch?v=M6gFgqa7Ads|video]] will give a quick overview of how to use the Translation Notes on the story picture pages.
 
 
+    * The stories are separated into separate pages by the pictures (called frames).
+    * Each page has the picture and the text, in a national language, from the story.
+    * There are green words in the text. These are very important words that need to be translated correctly. Click on the green word to go to another page that will give more information on how to translate the very important word.
+    * Translation Notes explains how to translate some of the important words in the story. The definition of the word or phrase should help you understand how to translate.
 
-//Note: More information available on the [[:en:tips-tricks|Tips & Tricks]] page!//
 
+//Note: More information available on the [[:en:tips-tricks|Tips & Tricks]] page!// 
+
+
+Finished translating the stories?  There is even more that you can do! How about adding audio? Or making a video? This will be available soon!
