@@ -2,9 +2,11 @@
 
 ====== Sin ======
 
-Sin is the general word for attitudes and actions that displease God. The root idea is that of "missing the mark." The same term is used in the Old Testament for soldiers missing their target with a sling and stone. Theologically, it refers to anything that does not measure up to the standards set by God. 
+Sin is the general word for attitudes and actions that displease God. Translate "sin" with a word or term that is broad enough to convey a wide variety of wrong thoughts or deeds. A person can also sin against another person. However, it is considered "sin" because it violates the way God commanded us to treat other people.
 
-There are many different types of sin. The most common are:
+The root idea is that of "missing the mark." The same term is used in the Old Testament for soldiers missing their target with a sling and stone. Theologically, it refers to anything that does not measure up to the standards set by God. 
+
+There are many different ways in which a person can sin against God. The most common are:
 
 === Rebellion ===
 
@@ -20,11 +22,13 @@ Some people may have heard what God requires, but do not actually believe that H
 
 === Oversight ===
 
+It possible to sin without knowing about it. These sins of oversight are still considered to be sin, even if we are unaware that they are wrong. 
 
-
-
+----
 
 ==== Root words in Strong's Concordance: ====
+
+The Hebrew and Greek words below are often translated as "sin" in the Old and New Testaments. Click on the link for each for a brief description of the words and their usage.
 
   * **[[:en:lexicon:h2401|chataah [h2401]]]** - sin, or a sin offering
 
