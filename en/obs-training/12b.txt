@@ -4,7 +4,7 @@
 ===== Overview: =====
 
 
-<75 word summary
+The Israelites left Egypt with joy. God appeared as a pillar of cloud and fire to lead them to the Promised Land. However, Pharaoh changed his mind and pursued Israel in order to make them slaves again. But God separated the waters of the sea so that the Israelites could pass through on dry ground. When Egyptians tried to follow, they all drowned. Israel celebrates that great victory with the annual Passover Feast.
 
 
 ====== Translate the Story ======
@@ -13,49 +13,61 @@
 Click on the links below to translate each frame of the story.
 
 
-[[:en:obs-training:frames:14-01|{{:en:obs:obs-14-01.jpg?200|Frame}}]]\\ 
-Israel Leaves Egypt [14-01]\\ 
-
-[[:en:obs-training:frames:14-02|{{:en:obs:obs-14-02.jpg?200|Frame}}]]\\ 
-God Goes before Israel [14-02]\\ 
-
-[[:en:obs-training:frames:14-03|{{:en:obs:obs-14-03.jpg?200|Frame}}]]\\ 
-Pharaoh Changes His Mind [14-03]\\ 
-
-[[:en:obs-training:frames:14-04|{{:en:obs:obs-14-04.jpg?200|Frame}}]]\\ 
-Pharaoh Chases Israel [14-04]\\ 
-
-[[:en:obs-training:frames:14-05|{{:en:obs:obs-14-05.jpg?200|Frame}}]]\\ 
-God Will Fight for You [14-05]\\ 
-
-[[:en:obs-training:frames:14-06|{{:en:obs:obs-14-06.jpg?200|Frame}}]]\\ 
-Darkness over the Egyptians [14-06]\\ 
-
-[[:en:obs-training:frames:14-07|{{:en:obs:obs-14-07.jpg?200|Frame}}]]\\ 
-Moses Separates the Sea [14-07]\\ 
-
-[[:en:obs-training:frames:14-08|{{:en:obs:obs-14-08.jpg?200|Frame}}]]\\ 
-Israel Crosses the Sea [14-08]\\ 
-
-[[:en:obs-training:frames:14-09|{{:en:obs:obs-14-09.jpg?200|Frame}}]]\\ 
-Egypt Pursues Israel [14-09]\\ 
-
-[[:en:obs-training:frames:14-10|{{:en:obs:obs-14-10.jpg?200|Frame}}]]\\ 
-God Fights for Israel [14-10]\\ 
-
-[[:en:obs-training:frames:14-11|{{:en:obs:obs-14-11.jpg?200|Frame}}]]\\ 
-The Egyptians Drown [14-11]\\ 
-
-[[:en:obs-training:frames:14-12|{{:en:obs:obs-14-12.jpg?200|Frame}}]]\\ 
-Israel Believes God [14-12]\\ 
-
-[[:en:obs-training:frames:14-13|{{:en:obs:obs-14-13.jpg?200|Frame}}]]\\ 
-Israel Rejoices [14-13]\\ 
-
-[[:en:obs-training:frames:14-14|{{:en:obs:obs-14-14.jpg?200|Frame}}]]\\ 
-An Annual Feast [14-14]\\ 
+[[:en:obs-training:frames:14-01|{{:en:obs:obs-14-01.jpg?nolink&200}}]]\\ 
+Israel Leaves Egypt [14-01]
 
 
-//A Bible story from: Exodus 12:33-15:21//
+[[:en:obs-training:frames:14-02|{{:en:obs:obs-14-02.jpg?nolink&200}}]]\\ 
+God Goes before Israel [14-02]
 
+
+[[:en:obs-training:frames:14-03|{{:en:obs:obs-14-03.jpg?nolink&200}}]]\\ 
+Pharaoh Changes His Mind [14-03]
+
+
+[[:en:obs-training:frames:14-04|{{:en:obs:obs-14-04.jpg?nolink&200}}]]\\ 
+Pharaoh Chases Israel [14-04]
+
+
+[[:en:obs-training:frames:14-05|{{:en:obs:obs-14-05.jpg?nolink&200}}]]\\ 
+God Will Fight for You [14-05]
+
+
+[[:en:obs-training:frames:14-06|{{:en:obs:obs-14-06.jpg?nolink&200}}]]\\ 
+Darkness over the Egyptians [14-06]
+
+
+[[:en:obs-training:frames:14-07|{{:en:obs:obs-14-07.jpg?nolink&200}}]]\\ 
+Moses Separates the Sea [14-07]
+
+
+[[:en:obs-training:frames:14-08|{{:en:obs:obs-14-08.jpg?nolink&200}}]]\\ 
+Israel Crosses the Sea [14-08]
+
+
+[[:en:obs-training:frames:14-09|{{:en:obs:obs-14-09.jpg?nolink&200}}]]\\ 
+Egypt Pursues Israel [14-09]
+
+
+[[:en:obs-training:frames:14-10|{{:en:obs:obs-14-10.jpg?nolink&200}}]]\\ 
+God Fights for Israel [14-10]
+
+
+[[:en:obs-training:frames:14-11|{{:en:obs:obs-14-11.jpg?nolink&200}}]]\\ 
+The Egyptians Drown [14-11]
+
+
+[[:en:obs-training:frames:14-12|{{:en:obs:obs-14-12.jpg?nolink&200}}]]\\ 
+Israel Believes God [14-12]
+
+
+[[:en:obs-training:frames:14-13|{{:en:obs:obs-14-13.jpg?nolink&200}}]]\\ 
+Israel Rejoices [14-13]
+
+
+[[:en:obs-training:frames:14-14|{{:en:obs:obs-14-14.jpg?nolink&200}}]]\\ 
+An Annual Feast [14-14]
+
+
+//A Bible story from: Exodus 12:33-15:21// 
 ~~DISCUSSION~~
