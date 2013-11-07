@@ -1,1 +1,16 @@
 ====== Susan's test page ======
+
+====== Page Title ======
+
+
+ 
+
+{{:en:obs:obs-01-01.jpg?nolink&640x360}}
+
+This is Larry's explanation about the page
+
+===== Translation Helps =====
+
+
+**the beginning** - That is, “the beginning of all things,” before anything existed except God\\ 
+**[[:en:key-terms:holy-spirit|God's Spirit]]** - The Spirit of God
