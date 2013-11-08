@@ -1,6 +1,8 @@
 ====== An Offering for Gideon [16-15] ======
 
-[image]
+{{:en:obs:obs-16-15.jpg?nolink&640x360}}
+
+The people wanted to make Gideon their king. Gideon wisely refused their offer, but he asked them for some of the money that each of them had taken from the enemy. Gideon received a lot of money.
 
 [text] with inline links - **[[:en:key-terms:page|sample]]**
 
