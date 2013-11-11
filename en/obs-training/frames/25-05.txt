@@ -1,6 +1,9 @@
 ====== Do Not Test God [25-05] ======
 
-[image]
+{{:en:obs:obs-25-05.jpg?nolink&640x360}}
+
+But Jesus replied, “It is also written in God’s Word, ‘Do not test God.’”
+
 
 [text] with inline links - **[[:en:key-terms:page|sample]]**
 

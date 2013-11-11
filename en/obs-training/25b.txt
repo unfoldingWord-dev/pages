@@ -23,6 +23,6 @@ Frame [0x-01]\\
 Frame [0x-1x]\\ 
 
 
-
+//A Bible story from: Matthew 4:1-11; Mark 1:12-13; Luke 4:1-13//
 
 ~~DISCUSSION~~
