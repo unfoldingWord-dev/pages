@@ -1,0 +1,20 @@
+====== Frame [21-07] ======
+
+[image]
+
+[text] with inline links - **[[:en:key-terms:page|sample]]**
+
+
+===== Translation Notes: =====
+
+
+  * **issue** - explanation
+  * **issue** - explanation
+  * **issue** - explanation
+  * **issue** - explanation
+  
+
+**[[:en:obs-training:21-god-promises-the-messiah|Back]]**
+
+
+~~DISCUSSION~~

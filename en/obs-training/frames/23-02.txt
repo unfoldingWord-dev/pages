@@ -1,0 +1,20 @@
+====== Frame [23-02] ======
+
+[image]
+
+[text] with inline links - **[[:en:key-terms:page|sample]]**
+
+
+===== Translation Notes: =====
+
+
+  * **issue** - explanation
+  * **issue** - explanation
+  * **issue** - explanation
+  * **issue** - explanation
+  
+
+**[[:en:obs-training:23-the-birth-of-jesus|Back]]**
+
+
+~~DISCUSSION~~
