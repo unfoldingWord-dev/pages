@@ -1,6 +1,8 @@
 ====== John the Prophet [24-01] ======
 
-[image]
+{{:en:obs:obs-24-01.jpg?nolink&640x360}}
+
+When John grew up, he became a prophet. He lived in the wilderness, ate wild honey and locusts, and wore clothes made from camel hair.
 
 [text] with inline links - **[[:en:key-terms:page|sample]]**
 

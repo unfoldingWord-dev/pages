@@ -1,6 +1,8 @@
 ====== The Angel and the Shepherds [23-06] ======
 
-[image]
+{{:en:obs:obs-23-06.jpg?nolink&640x360}}
+
+That night, there were some shepherds in a nearby field watching their flocks. Suddenly, a shining angel appeared to them, and they were terrified. The angel said, “Do not be afraid, because I have some good news for you. The Messiah has been born!”
 
 [text] with inline links - **[[:en:key-terms:page|sample]]**
 

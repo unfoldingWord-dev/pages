@@ -1,6 +1,8 @@
 ====== The Trip to Bethlehem [23-04] ======
 
-[image]
+{{:en:obs:obs-23-04.jpg?nolink&640x360}}
+
+About the time Mary was to give birth, the Roman government told everyone to go to the town of their ancestors for a census. Mary and Joseph had to make a long journey from where they lived in Nazareth to Bethlehem because their ancestor was David whose hometown was Bethlehem.
 
 [text] with inline links - **[[:en:key-terms:page|sample]]**
 
