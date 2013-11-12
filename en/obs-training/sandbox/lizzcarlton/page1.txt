@@ -17,3 +17,5 @@ For most names, it is best to only use letters that occur in the language the Bi
 
 
 <font 13px/arial;;#000000;;#ffffff>Some translation teams will choose to spell names as closely as possible to the way those names are spelled in the Bible stories or translation of a nearby widely known language. Other teams may want to spell names in a way that is similar to the way they are written in the original Bible languages. Sometimes</font> translators may decide to use a name that has the same meaning as the name in the original language.
+
+~~DISCUSSION~~
