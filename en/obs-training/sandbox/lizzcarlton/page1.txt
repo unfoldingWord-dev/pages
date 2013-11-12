@@ -2,21 +2,23 @@
 
 ===== Spell names consistently throughout the Bible: =====
 
-==== For example, the way "Adam," "Eve," "Noah," "Abraham" and other names are spelled in the Old Testament should be the same way their names are spelled in the New Testament. ====
+For example, the way "Adam," "Eve," "Noah," "Abraham" and other names are spelled in the Old Testament should be the same way their names are spelled in the New Testament.
 
-==== Use only letters that are in the language. ====
+===== Use only letters that are in the language: =====
 
 
-For most names, it is best to only use letters that are used in the language the Bible is being translated into. For example, for a certain language the name "Eve" might be spelled "Awa" if "e" and "v" do not exist in that language.
+For most names, it is best to only use letters that occur in the language the Bible is being translated into. For example, for a certain language the name "Eve" might be spelled "Awa" if "e" and "v" do not exist in that language.
 
 
 =====  =====
 
-
 ===== Options: =====
 
 
+<font 13px/arial;;#000000;;#ffffff>Some translation teams will choose to spell some names as closely as possible to the way those names are spelled in the Bible stories or translation of a nearby widely known language. Or translators may decide to use a name that has the same meaning as the name in the original language.</font>
+
+
+<font 13px/arial;;#000000;;#ffffff>[</font> lc<font 13px/arial;;#000000;;#ffffff>: Below is the original way I worded this – made it sound like the Bible stories are actual Scripture. But the principles for how to write names will be the same for both the stories and an actual Bible translation. Had to leave out the middle option bc that would require them knowing how the words were written in Hebrew/Greek?</font> <font 13px/arial;;#000000;;#ffffff>]</font>
+
+
 Some translation teams will choose to spell names as closely as possible to the way those names are spelled in a Bible translation of a nearby widely known language. Other teams may want to spell the names in a way that is similar to the way they are written in the Hebrew (Old Testament) and Greek (New Testament) languages. Sometimes translators will use a name that has the same meaning as the name in the original language.
-
-
-[The way this is worded again could make it sound like the Bible stories are actual Scripture. - lc]
