@@ -1,0 +1,50 @@
+
+
+    Explore
+    Gist
+    Blog
+    Help
+
+    lrsallee
+
+    1
+    1
+    0
+
+public Door43 / pages
+
+pages / fa / obs.txt
+Door43 4 months ago
+initial import of Door43 pages
+
+0 contributors
+file 14 lines (5 sloc) 0.441 kb
+1 2 3 4 5 6 7 8 9 10 11 12 13 	
+
+====== Open Bible Stories (fa) ======
+
+
+Welcome to Open Bible Stories! Please feel free to translate this page and the stories (including the titles) below. More information on how to get started using Door43 is [[:en:get-started|here]], and useful information may also be found [[:en:tips-tricks|here]]. If you need help, [[http://distantshoresmedia.org/contact|just ask]]!
+
+
+{{page>fa:obs:stories}}
+
+
+{{page>en:obs:active}}
+
+
+===== =====
+
+    Status
+    API
+    Training
+    Shop
+    Blog
+    About
+
+    © 2013 GitHub, Inc.
+    Terms
+    Privacy
+    Security
+    Contact
+
