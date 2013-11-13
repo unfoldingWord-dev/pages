@@ -4,13 +4,6 @@
 
 Nearby **[[:en:key-terms:abraham|Abraham]]** saw a ram which was stuck in a bush. **[[:en:key-terms:god|God]]** had provided the ram to be the **[[:en:key-terms:sacrifice|sacrifice]]** instead of **[[:en:key-terms:isaac|Isaac]]**. **[[:en:key-terms:abraham|Abraham]]** happily offered the ram as a **[[:en:key-terms:sacrifice|sacrifice]]**.
 
-
-===== Emphasis: =====
-
- 
-paraphrase text
-
-
 ===== Translation Notes: =====
 
 
@@ -19,6 +12,6 @@ paraphrase text
   * **issue** - explanation
   
 
-**[[:en:obs-training:05b-the-son-of-promise|Back]]**
+**[[:en:obs-training:05-the-son-of-promise|Back]]**
 
 ~~DISCUSSION~~

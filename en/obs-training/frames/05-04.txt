@@ -5,11 +5,6 @@
 "Your wife, **[[:en:key-terms:sarai|Sarai]]**, will have a son—he will be the **[[:en:key-terms:son|son]]** of **[[:en:key-terms:promise|promise]]**. Name him **[[:en:key-terms:isaac|Isaac]]**. My **[[:en:key-terms:covenant|covenant]]** will be with him, and he will become a great nation. I will make **[[:en:key-terms:ishmael|Ishmael]]** a great nation, too, but my **[[:en:key-terms:covenant|covenant]]** will be with **[[:en:key-terms:isaac|Isaac]]**." Then **[[:en:key-terms:god|God]]** changed **[[:en:key-terms:abram|Abram's]]** name to **[[:en:key-terms:abraham|Abraham]]**, which means "father of many." **[[:en:key-terms:god|God]]** also changed **[[:en:key-terms:sarai|Sarai's]]** name to **[[:en:key-terms:sarah|Sarah]]**, which means "princess."
 
 
-===== Emphasis: =====
-
- 
-paraphrase text
-
 
 ===== Translation Notes: =====
 
@@ -19,6 +14,6 @@ paraphrase text
   * **issue** - explanation
 
 
-**[[:en:obs-training:05b-the-son-of-promise|Back]]**
+**[[:en:obs-training:05-the-son-of-promise|Back]]**
 
 ~~DISCUSSION~~
