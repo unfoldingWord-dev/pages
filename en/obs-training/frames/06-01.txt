@@ -6,12 +6,6 @@
 When **[[:en:key-terms:abraham|Abraham]]** had grown to be very old and **[[:en:key-terms:isaac|Isaac]]** was a man, **[[:en:key-terms:abraham|Abraham]]** sent one of his **[[:en:key-terms:servant|servants]]** back to the land where his relatives lived to find a wife for his **[[:en:key-terms:son|son]]**, **[[:en:key-terms:isaac|Isaac]]**. 
 
 
-===== Emphasis: =====
-
- 
-paraphrase text
-
-
 ===== Translation Notes: =====
 
 
@@ -20,6 +14,6 @@ paraphrase text
   * **issue** - explanation
   
 
-**[[:en:obs-training:06b-god-provides-for-isaac|Back]]**
+**[[:en:obs-training:06-god-provides-for-isaac|Back]]**
 
 ~~DISCUSSION~~
