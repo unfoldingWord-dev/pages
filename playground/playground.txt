@@ -1,7 +1,4 @@
 ====== Playground ======
 
 
-//**test this** // 
-
-
-//**type anything in this space** //
+//this page is for testing.//
