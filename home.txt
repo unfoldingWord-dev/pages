@@ -2,8 +2,8 @@
 
 **Choose your language:** 
 
-
     * [[:abp:home|Ayta Abellen (abp]])
+    * [[:aii:home|ܐܬܘܪܝܐ ܣܘܪܝܝܐ (Assyrian, aii)]]
     * [[:ar:home|العربية (ar)]]
     * [[:az:home|Azərbaycan dili (az)]]
     * [[:blx:home|Ayta Mag-Indi (blx)]]
@@ -19,18 +19,23 @@
     * [[:hu:home|Magyar (hu)]]
     * [[:id:home|Bahasa Indonesia (id)]]
     * [[:ilo:home|Ilokano (ilo)]]
+    * [[:jit:home|Echijita (jit)]]
+    * [[:lki:home|لەکی (‎Laki, lki]]
     * [[:lv:home|Latviešu Valoda (lv)]]
     * [[:ms:home|Bahasa Melayu (ms)]]
     * [[:my:home|ဗမာစာ (my)]]
+    * [[:mzn:home|مازندرانی (Mazanderani, mzn)]]
     * [[:nl:home|Nederlands (nl)]]
     * [[:pl:home|Polski (pl)]]
     * [[:ppq:home|Pefiyahe (ppq)]]
     * [[:pt-br:home|Português do Brasil (pt-br)]]
     * [[:ru:home|Русский (ru)]]
+    * [[:sdh:home|کوردی خوارگ (Kermanshahi, sdh)]]
     * [[:shn:home|လိၵ်ႈတႆး (shn)]]
     * [[:sk:home|Slovenčina (sk)]]
     * [[:sw:home|Kiswahili (sw)]]
     * [[:ta:home|தமிழ் (ta)]]
+    * [[:tk:home|تورکمن ﺗﻴﻠی ,تورکمنچ (Turkmen, tk)]]
     * [[:te:home|తెలుగు (te)]]
     * [[:th:home|ไทย (th)]]
     * [[:ur:home|اردو (ur)]]

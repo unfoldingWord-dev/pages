@@ -1,4 +1,4 @@
-====== Door43 (fa) ======
+====== (Door43 (fa ======
 
 
 Welcome to Door43! Please feel free to [[:fa:home?do=edit|edit]] this page in your own language. More information about how to get started can be found [[:en:get-started|here]].
@@ -7,4 +7,4 @@ Welcome to Door43! Please feel free to [[:fa:home?do=edit|edit]] this page in yo
 ===== Resources =====
 
 
-    * **[[:fa:obs|Open Bible Stories (fa)]]**
+    * **[[fa:obs|Open Bible Stories]]**
