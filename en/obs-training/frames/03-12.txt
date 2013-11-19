@@ -3,13 +3,13 @@
 {{:en:obs:obs-03-12.jpg?nolink&640x360}}
 
 
-**[[:en:key-terms:noah|Noah]]** waited another week and sent out the dove again. This time, it did not come back. The water had dried up!
+**[[:en:key-terms:noah|Noah]]** waited **another week** and sent out the dove again. This time, it **did not come back**. The water had dried up!
 
 
 ===== Translation Notes: =====
 
 
-  * **another week** - Noah waited seven more days for the water to go down before he sent out the dove again
+  * **another week** - Noah waited seven more days for the water to go down before he sent out the dove another time
   * **did not come back** - this time, the dove found enough dry ground and tall enough trees that it chose to stay on the land
  
 
