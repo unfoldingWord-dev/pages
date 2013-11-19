@@ -14,6 +14,6 @@
   * **flood** - the large flood that covered the whole world
 
 
-**[[:en:obs-training:03-the-flood|Back]]**
+**[[:en:obs-training:frames:03-02|<<]] | [[:en:obs-training:03-the-flood|Up]] | [[:en:obs-training:frames:03-04|>>]]**
 
 ~~DISCUSSION~~
