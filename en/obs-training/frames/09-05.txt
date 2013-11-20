@@ -2,18 +2,13 @@
 
 {{:en:obs:obs-09-05.jpg?nolink&640x360}}
 
-A certain Israelite woman gave birth to a baby boy. She and her husband hid the baby for as long as they could.
-
-[text] with inline links - **[[:en:key-terms:beginning|sample]]**
+A certain **[[:en:key-terms:israel|Israelite]]** woman gave birth to a baby boy. She and her husband hid the baby for **as long as they could**.
 
 
 ===== Translation Notes: =====
 
 
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
+  * **as long as they could** - explanation
   
 
 **[[:en:obs-training:frames:09-04|<<]] | [[:en:obs-training:09-god-calls-moses|Up]] | [[:en:obs-training:frames:09-06|>>]]**

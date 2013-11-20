@@ -2,18 +2,16 @@
 
 {{:en:obs:obs-09-07.jpg?nolink&640x360}}
 
-A daughter of Pharaoh saw the basket and looked inside. When she saw the baby, she took him as her own son. She hired the baby’s own mother to nurse him. When the child was old enough, his mother returned him to Pharaoh’s daughter. She named him Moses.
-
-[text] with inline links - **[[:en:key-terms:beginning|sample]]**
+A **daughter of [[:en:key-terms:pharaoh|Pharaoh]]** saw the basket and looked inside. When she saw the baby, she **took him as her own [[:en:key-terms:son|son]]**. She hired the **baby’s own mother to nurse him**. When the child was **old enough**, his mother returned him to **[[:en:key-terms:pharaoh|Pharaoh’s]]** daughter. She named him **[[:en:key-terms:moses|Moses]]**.
 
 
 ===== Translation Notes: =====
 
 
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
+  * **daughter of Pharaoh** - explanation
+  * **took him as her own son** - explanation
+  * **baby's own mother to nurse him** - explanation
+  * **old enough** - explanation
   
 
 **[[:en:obs-training:frames:09-06|<<]] | [[:en:obs-training:09-god-calls-moses|Up]] | [[:en:obs-training:frames:09-08|>>]]**
