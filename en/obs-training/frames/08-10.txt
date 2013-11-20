@@ -2,18 +2,13 @@
 
 {{:en:obs:obs-08-10.jpg?nolink&640x360}}
 
-The famine was severe not only in Egypt, but also in Canaan where Jacob and his family lived.
-
-[text] with inline links - **[[:en:key-terms:beginning|sample]]**
+The famine was severe not only in **[[:en:key-terms:egypt|Egypt]]**, but also in **[[:en:key-terms:canaan|Canaan]]** where **[[:en:key-terms:jacob|Jacob]]** and his family lived.
 
 
 ===== Translation Notes: =====
 
 
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
+  * **famine** - explanation
   
 
 **[[:en:obs-training:frames:08-09|<<]] | [[:en:obs-training:08-god-saves-joseph-and-his-family|Up]] | [[:en:obs-training:frames:08-11|>>]]**

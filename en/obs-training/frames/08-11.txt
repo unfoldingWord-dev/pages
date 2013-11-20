@@ -2,19 +2,14 @@
 
 {{:en:obs:obs-08-11.jpg?nolink&640x360}}
 
-So Jacob sent his sons to Egypt to buy food. When the brothers stood before Joseph to buy food, they did not recognize him. But Joseph recognized them.
-
-
-[text] with inline links - **[[:en:key-terms:beginning|sample]]**
+So **[[:en:key-terms:jacob|Jacob]]** sent **his sons** to **[[:en:key-terms:egypt|Egypt]]** to buy food. When the brothers stood before **[[:en:key-terms:joseph|Joseph]]** to buy food, they **did not recognize him**. But **[[:en:key-terms:joseph|Joseph]]** recognized them.
 
 
 ===== Translation Notes: =====
 
 
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
+  * **his sons** - explanation
+  * **did not recognize him** - explanation
   
 
 **[[:en:obs-training:frames:08-10|<<]] | [[:en:obs-training:08-god-saves-joseph-and-his-family|Up]] | [[:en:obs-training:frames:08-12|>>]]**
