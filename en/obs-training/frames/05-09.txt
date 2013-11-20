@@ -2,14 +2,14 @@
 
 {{:en:obs:obs-05-09.jpg?nolink&640x360}}
 
-Nearby **[[:en:key-terms:abraham|Abraham]]** saw a ram which was stuck in a bush. **[[:en:key-terms:god|God]]** had provided the ram to be the **[[:en:key-terms:sacrifice|sacrifice]]** instead of **[[:en:key-terms:isaac|Isaac]]**. **[[:en:key-terms:abraham|Abraham]]** happily offered the ram as a **[[:en:key-terms:sacrifice|sacrifice]]**.
+Nearby **[[:en:key-terms:abraham|Abraham]]** saw **a ram** which was **stuck in a bush**. **[[:en:key-terms:god|God]] had provided the ram** to be the **[[:en:key-terms:sacrifice|sacrifice]]** instead of **[[:en:key-terms:isaac|Isaac]]**. **[[:en:key-terms:abraham|Abraham]]** happily offered the ram as a **[[:en:key-terms:sacrifice|sacrifice]]**.
 
 ===== Translation Notes: =====
 
 
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
+  * **a ram** - explanation
+  * **stuck in a bush** - explanation
+  * **God had provided the ram** - explanation
   
 
 **[[:en:obs-training:frames:05-08|<<]] | [[:en:obs-training:05-the-son-of-promise|Up]] | [[:en:obs-training:frames:05-10|>>]]**
