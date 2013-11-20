@@ -2,18 +2,14 @@
 
 {{:en:obs:obs-07-06.jpg?nolink&640x360}}
 
-But Rebekah heard of Esau’s plan. So she arranged for Jacob to be sent far away to live with her relatives.
-
-[text] with inline links - **[[:en:key-terms:beginning|sample]]**
+But **[[:en:key-terms:rebekah|Rebekah]]** heard of **[[:en:key-terms:esau|Esau’s]] plan**. So she arranged for **[[:en:key-terms:jacob|Jacob]]** to be sent far away to live with **her relatives**.
 
 
 ===== Translation Notes: =====
 
 
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
+  * **Esau's plan** - explanation
+  * **her relatives** - explanation
   
 
 **[[:en:obs-training:frames:07-05|<<]] | [[:en:obs-training:07-god-blesses-jacob|Up]] | [[:en:obs-training:frames:07-07|>>]]**

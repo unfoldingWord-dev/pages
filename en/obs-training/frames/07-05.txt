@@ -2,18 +2,14 @@
 
 {{:en:obs:obs-07-05.jpg?nolink&640x360}}
 
-Esau hated Jacob because Jacob had stolen his rights as oldest son and also his blessing. So he planned to kill Jacob after their father died.
-
-[text] with inline links - **[[:en:key-terms:beginning|sample]]**
+**[[:en:key-terms:esau|Esau]]** hated **[[:en:key-terms:jacob|Jacob]]** because **[[:en:key-terms:jacob|Jacob]]** had stolen his **rights as oldest son** and also **his blessing**. So he planned to kill **[[:en:key-terms:jacob|Jacob]]** after their father died.
 
 
 ===== Translation Notes: =====
 
 
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
+  * **rights as oldest son** - explanation
+  * **his blessing** - explanation
   
 
 **[[:en:obs-training:frames:07-04|<<]] | [[:en:obs-training:07-god-blesses-jacob|Up]] | [[:en:obs-training:frames:07-06|>>]]**
