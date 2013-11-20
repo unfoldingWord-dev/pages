@@ -3,19 +3,13 @@
 {{:en:obs:obs-09-02.jpg?nolink&640x360}}
 
 
-Many years later, a new Pharaoh came to power in Egypt. The Egyptians forgot about Joseph and all he had done to help them. They became afraid of the Israelites because there were so many of them. So the Egyptians made the Israelites their slaves.
-
-[text] with inline links - **[[:en:key-terms:beginning|sample]]**
+Many years later, a new **[[:en:key-terms:pharaoh|Pharaoh]]** came to power in **[[:en:key-terms:egypt|Egypt]]**. The **[[:en:key-terms:egypt|Egyptians]]** forgot about **[[:en:key-terms:joseph|Joseph]]** and all he had done to help them. They became afraid of the **[[:en:key-terms:israel|Israelites]]** because there were so many of them. So the **[[:en:key-terms:egypt|Egyptians]]** made the **[[:en:key-terms:israel|Israelites]]** their **[[:en:key-terms:servant|slaves]]**.
 
 
 ===== Translation Notes: =====
 
 
   * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
-  
 
 
 **[[:en:obs-training:frames:09-01|<<]] | [[:en:obs-training:09-god-calls-moses|Up]] | [[:en:obs-training:frames:09-03|>>]]**

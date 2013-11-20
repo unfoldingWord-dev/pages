@@ -2,18 +2,14 @@
 
 {{:en:obs:obs-09-04.jpg?nolink&640x360}}
 
-Pharaoh saw that the Israelites were having many babies, so he ordered all Israelite baby boys to be killed by throwing them into the Nile River.
-
-[text] with inline links - **[[:en:key-terms:beginning|sample]]**
+**[[:en:key-terms:pharaoh|Pharaoh]]** saw that the **[[:en:key-terms:israel|Israelites]]** were having many babies, so he ordered all **[[:en:key-terms:israel|Israelite]] baby boys to be killed** by throwing them into the **Nile River**.
 
 
 ===== Translation Notes: =====
 
 
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
+  * **baby boys to be killed** - explanation
+  * **Nile River** - explanation
   
 
 **[[:en:obs-training:frames:09-03|<<]] | [[:en:obs-training:09-god-calls-moses|Up]] | [[:en:obs-training:frames:09-05|>>]]**
