@@ -4,17 +4,12 @@
 
 (**image order needs correction**)
 
-Many years later, when Jacob was an old man, he sent his favorite son, Joseph, to check on his brothers who were taking care of the herds.
-
-[text] with inline links - **[[:en:key-terms:beginning|sample]]**
+Many years later, when **[[:en:key-terms:jacob|Jacob]]** was an old man, he sent his favorite son, **[[:en:key-terms:joseph|Joseph]]**, to check on his brothers who were taking care of the herds.
 
 
 ===== Translation Notes: =====
 
 
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
   * **issue** - explanation
   
 
