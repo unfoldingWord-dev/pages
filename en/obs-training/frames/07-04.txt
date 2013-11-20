@@ -2,9 +2,7 @@
 
 {{:en:obs:obs-07-04.jpg?nolink&640x360}}
 
-Isaac could not see well. Jacob came to Isaac and said, “I am Esau, I have come to receive your blessing.” When Isaac felt the goat hair and smelled the clothes, he thought it was Esau and blessed him.
-
-[text] with inline links - **[[:en:key-terms:beginning|sample]]**
+**[[:en:key-terms:isaac|Isaac]]** could not see well. **[[:en:key-terms:jacob|Jacob]]** came to **[[:en:key-terms:isaac|Isaac]]** and said, “I am **[[:en:key-terms:esau|Esau]]**, I have come to receive your blessing.” When **[[:en:key-terms:isaac|Isaac]]** felt the goat hair and smelled the clothes, he thought it was **[[:en:key-terms:esau|Esau]]** and blessed him.
 
 
 ===== Translation Notes: =====
