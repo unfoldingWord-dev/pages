@@ -2,17 +2,12 @@
 
 {{:en:obs:obs-07-09.jpg?nolink&640x360}}
 
-He was very afraid because he thought Esau still wanted to kill him. So he sent Esau many herds of animals as a gift. The servants who brought the animals said to Esau, “These animals are a gift from your servant, Jacob. He is coming soon.”
-
-[text] with inline links - **[[:en:key-terms:beginning|sample]]**
+He was very afraid because he thought **[[:en:key-terms:esau|Esau]]** still wanted to kill him. So he sent **[[:en:key-terms:esau|Esau]]** many herds of animals as a gift. The servants who brought the animals said to **[[:en:key-terms:esau|Esau]]**, “These animals are a gift from your servant, **[[:en:key-terms:jacob|Jacob]]**. He is coming soon.”
 
 
 ===== Translation Notes: =====
 
 
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
   * **issue** - explanation
   
 
