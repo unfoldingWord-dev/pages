@@ -2,17 +2,12 @@
 
 {{:en:obs:obs-07-01.jpg?nolink&640x360}}
 
-As the boys grew up, Rebekah loved Jacob, but Isaac loved Esau. Jacob loved to stay at home, but Esau loved to hunt.
-
-[text] with inline links - **[[:en:key-terms:beginning|sample]]**
+As the boys grew up, **[[:en:key-terms:rebekah|Rebekah]]** loved **[[:en:key-terms:jacob|Jacob]]**, but **[[:en:key-terms:isaac|Isaac]]** loved **[[:en:key-terms:esau|Esau]]**. **[[:en:key-terms:jacob|Jacob]]** loved to stay at home, but **[[:en:key-terms:esau|Esau]]** loved to hunt.
 
 
 ===== Translation Notes: =====
 
 
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
   * **issue** - explanation
 
   
