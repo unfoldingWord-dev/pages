@@ -2,18 +2,16 @@
 
 {{:en:obs:obs-08-12.jpg?nolink&640x360}}
 
-After testing them to see if they had changed, Joseph said to them, “I am your brother, Joseph! Do not be afraid. You tried to do evil when you sold me as a slave, but God used the evil for good! Come and live in Egypt so I can provide for you and your families.”
-
-[text] with inline links - **[[:en:key-terms:beginning|sample]]**
+After **testing them** to see **if they had changed**, **[[:en:key-terms:joseph|Joseph]]** said to them, “I am your brother, **[[:en:key-terms:joseph|Joseph]]**! **Do not be afraid**. You tried to do **[[:en:key-terms:evil|evil]]** when you sold me as a **[[:en:key-terms:servant|slave]]**, but **[[:en:key-terms:god|God]]** used the **[[:en:key-terms:evil|evil]] for [[:en:key-terms:good|good]]**! Come and live in **[[:en:key-terms:egypt|Egypt]]** so I can provide for you and your families.”
 
 
 ===== Translation Notes: =====
 
 
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
+  * **testing them** - explanation
+  * **if they had changed** - explanation
+  * **do not be afraid** - explanation
+  * **evil for good** - explanation
   
 
 **[[:en:obs-training:frames:08-11|<<]] | [[:en:obs-training:08-god-saves-joseph-and-his-family|Up]] | [[:en:obs-training:frames:08-13|>>]]**

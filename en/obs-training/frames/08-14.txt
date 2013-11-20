@@ -3,17 +3,12 @@
 
 {{:en:obs:obs-08-14.jpg?nolink&640x360}}
 
-Even though Jacob was an old man, he moved to Egypt with all of his family, and they all lived there. Before Jacob died, he blessed each of his sons.
-
-[text] with inline links - **[[:en:key-terms:beginning|sample]]**
+Even though **[[:en:key-terms:jacob|Jacob]]** was an old man, he moved to **[[:en:key-terms:egypt|Egypt]]** with all of his family, and they all lived there. Before **[[:en:key-terms:jacob|Jacob]]** died, he **[[:en:key-terms:bless|blessed]]** each of his sons.
 
 
 ===== Translation Notes: =====
 
 
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
   * **issue** - explanation
   
 
