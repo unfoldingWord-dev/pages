@@ -3,18 +3,15 @@
 
 {{:en:obs:obs-08-15.jpg?nolink&640x360}}
 
-The covenant promises that God gave to Abraham were passed on to Isaac, then to Jacob, and then to Jacob’s twelve sons and their families. The descendants of the twelve sons became the twelve tribes of Israel.
-
-[text] with inline links - **[[:en:key-terms:beginning|sample]]**
+The **[[:en:key-terms:covenant|covenant]]** **[[:en:key-terms:promise|promises]]** that **[[:en:key-terms:god|God]]** gave to **[[:en:key-terms:abraham|Abraham]]** were **passed on** to **[[:en:key-terms:isaac|Isaac]]**, then to **[[:en:key-terms:jacob|Jacob]]**, and then to **[[:en:key-terms:jacob|Jacob’s]]** twelve sons and their families. The **[[:en:key-terms:descendant|descendants]]** of the twelve sons became the **twelve tribes of [[:en:key-terms:israel|Israel]]**.
 
 
 ===== Translation Notes: =====
 
 
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
+  * **covenant promises** - explanation
+  * **passed on** - explanation
+  * **twelve tribes of Israel** - explanation
   
 
 **[[:en:obs-training:frames:08-15|<<]] | [[:en:obs-training:08-god-saves-joseph-and-his-family|Up]] | [[:en:obs-training:frames:09-01|>>]]**
