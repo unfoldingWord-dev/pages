@@ -2,18 +2,14 @@
 
 {{:en:obs:obs-08-07.jpg?nolink&640x360}}
 
-God had given Joseph the ability to interpret dreams, so Pharaoh had Joseph brought to him from the prison. Joseph interpreted the dreams for him and said, “God is going to send seven years of good harvests followed by seven years of famine.”
-
-[text] with inline links - **[[:en:key-terms:beginning|sample]]**
+**[[:en:key-terms:god|God]]** had given **[[:en:key-terms:joseph|Joseph]]** the ability to **interpret dreams**, so **[[:en:key-terms:pharaoh|Pharaoh]]** had **[[:en:key-terms:joseph|Joseph]]** brought to him from the prison. **[[:en:key-terms:joseph|Joseph]] interpreted the dreams** for him and said, “**[[:en:key-terms:god|God]]** is going to send seven years of good harvests followed by seven years of famine.”
 
 
 ===== Translation Notes: =====
 
 
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
+  * **interpret dreams** - explanation
+  * **famine** - explanation
   
 
 **[[:en:obs-training:frames:08-06|<<]] | [[:en:obs-training:08-god-saves-joseph-and-his-family|Up]] | [[:en:obs-training:frames:08-08|>>]]**

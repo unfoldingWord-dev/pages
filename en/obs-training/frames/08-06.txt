@@ -2,18 +2,14 @@
 
 {{:en:obs:obs-08-06.jpg?nolink&640x360}}
 
-Years later, Joseph was still in prison, even though he had done nothing wrong. The king of Egypt, who was called the Pharaoh, had two dreams that disturbed him greatly. None of his advisors could tell him the meaning of the dreams.
-
-[text] with inline links - **[[:en:key-terms:beginning|sample]]**
+Years later, **[[:en:key-terms:joseph|Joseph]]** was still in prison, even though he had done nothing wrong. The king of **[[:en:key-terms:egypt|Egypt]]**, who was called the **[[:en:key-terms:pharaoh|Pharaoh]]**, had two dreams that disturbed him greatly. None of **his advisors** could tell him the **meaning of the dreams**.
 
 
 ===== Translation Notes: =====
 
 
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
+  * **his advisors** - explanation
+  * **meaning of the dreams** - explanation
   
 
 **[[:en:obs-training:frames:08-05|<<]] | [[:en:obs-training:08-god-saves-joseph-and-his-family|Up]] | [[:en:obs-training:frames:08-07|>>]]**
