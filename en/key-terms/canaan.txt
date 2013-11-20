@@ -1,34 +1,14 @@
 ====== Canaan ======
 
 
-===== "Canaan" =====
+===== Definitions: =====
+
+  * The area between the Jordan River and the Mediterranean Sea. The land promised to Abraham and his descencents, the Israelites.
+
+===== Examples from the Bible stories: =====
 
 
-The area between the Jordan River and the Mediterranean Sea. The land promised to Abraham and his descencents, the Israelites.
+[[:en:obs-training:frames:0x-0x|Title [0x-0x]]]  "... Most 
 
-For example:
-
-
-    * This term is best translated to have the meaning of…..
-    * Perhaps compare/contrast/refer to other similar words or corresponding terms or Hebrew or Greek words
-
-
-----
-
-
-==== Translator Shortcut: ====
-
-
-After you choose a word to translate this term, try to use it consistently when it appears in other Bible stories. For example:
-
-
-    * **Story x - Title**  - Frames x, x and x
-==== Root words in the Bible: ====
-
-
-This term is also used in many places in the Bible. You can use the links below to see Strong's description of the root meaning of these words.
-
-
-    * Strong's link
 
 ~~DISCUSSION~~
