@@ -2,20 +2,13 @@
 
 {{:en:obs:obs-08-03.jpg?nolink&640x360}}
 
-Before they returned home, the brothers tore Joseph’s clothes and dipped them in blood. Then they showed the clothes to their father and lied to him saying a wild animal had killed Joseph. Jacob was very sad.
-
-[text] with inline links - **[[:en:key-terms:beginning|sample]]**
+Before they returned home, the brothers tore **[[:en:key-terms:joseph|Joseph’s]]** clothes and dipped them in blood. Then they showed the clothes to their father and lied to him saying a wild animal had killed **[[:en:key-terms:joseph|Joseph]]**. **[[:en:key-terms:jacob|Jacob]]** was very sad.
 
 
 ===== Translation Notes: =====
 
-
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
   * **issue** - explanation
   
-
 **[[:en:obs-training:frames:08-02|<<]] | [[:en:obs-training:08-god-saves-joseph-and-his-family|Up]] | [[:en:obs-training:frames:08-04|>>]]**
 
 ~~DISCUSSION~~
