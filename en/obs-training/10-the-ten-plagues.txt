@@ -26,7 +26,7 @@ The Water Turns to Blood [10-03]\\
 The Frogs [10-04]\\ 
 
 [[:en:obs-training:frames:10-05|{{:en:obs:obs-10-05.jpg?200|Frame}}]]\\ 
-The Flies [10-05]\\ 
+The Gnats and the Flies [10-05]\\ 
 
 [[:en:obs-training:frames:10-06|{{:en:obs:obs-10-06.jpg?200|Frame}}]]\\ 
 The Animals Die [10-06]\\ 

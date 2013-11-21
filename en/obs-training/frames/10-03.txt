@@ -2,18 +2,14 @@
 
 {{:en:obs:obs-10-03.jpg?nolink&640x360}}
 
-God turned the Nile River into blood, but Pharaoh still would not let the Israelites go.
-
-[text] with inline links - **[[:en:key-terms:beginning|sample]]**
+**[[:en:key-terms:god|God]]** turned the **Nile River into blood**, but **[[:en:key-terms:pharaoh|Pharaoh]]** still would not let the **[[:en:key-terms:israel|Israelites]]** go.
 
 
 ===== Translation Notes: =====
 
 
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
+  * **Nile River** - explanation
+  * **into blood** - explanation
   
 
 **[[:en:obs-training:frames:10-02|<<]] | [[:en:obs-training:10-the-ten-plagues|Up]] | [[:en:obs-training:frames:10-04|>>]]**
