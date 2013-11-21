@@ -2,18 +2,15 @@
 
 {{:en:obs:obs-10-01.jpg?nolink&640x360}}
 
-Moses and Aaron went to Pharaoh. They said, “This is what the God of Israel says, ‘Let my people go!’” Pharaoh laughed at them. Instead of letting the Israelites go free, he made their work even harder!
-
-[text] with inline links - **[[:en:key-terms:beginning|sample]]**
+**[[:en:key-terms:moses|Moses]]** and **[[:en:key-terms:aaron|Aaron]]** went to **[[:en:key-terms:pharaoh|Pharaoh]]**. They said, “This is what the **[[:en:key-terms:god|God]] of [[:en:key-terms:israel|Israel]]** says, ‘Let **my people** go!’” **[[:en:key-terms:pharaoh|Pharaoh]] laughed at them**. Instead of letting the **[[:en:key-terms:israel|Israelites]]** go free, he made their work even harder!
 
 
 ===== Translation Notes: =====
 
 
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
+  * **God of Israel** - explanation
+  * **My people** - explanation
+  * **laughed at them** - explanation
   
 
 **[[:en:obs-training:frames:09-15|<<]] | [[:en:obs-training:10-the-ten-plagues|Up]] | [[:en:obs-training:frames:10-02|>>]]**

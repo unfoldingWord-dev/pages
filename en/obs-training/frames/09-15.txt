@@ -2,18 +2,15 @@
 
 {{:en:obs:obs-09-15.jpg?nolink&640x360}}
 
-Moses did not want to go, so God sent Moses’ brother, Aaron, to help him. God warned Moses and Aaron that Pharaoh would be stubborn.
-
-[text] with inline links - **[[:en:key-terms:beginning|sample]]**
+**[[:en:key-terms:moses|Moses]] did not want to go**, so **[[:en:key-terms:god|God]]** sent **[[:en:key-terms:moses|Moses’]]** brother, **[[:en:key-terms:aaron|Aaron]]**, to help him. **[[:en:key-terms:god|God]]** warned **[[:en:key-terms:moses|Moses]]** and **[[:en:key-terms:aaron|Aaron]]** that **[[:en:key-terms:pharaoh|Pharaoh]]** would be stubborn.
 
 
 ===== Translation Notes: =====
 
 
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
+  * **did not want to go** - explanation
+  * **Moses' brother, Aaron** - explanation
+  * **stubborn** - explanation
   
 
 **[[:en:obs-training:frames:09-14|<<]] | [[:en:obs-training:09-god-calls-moses|Up]] | [[:en:obs-training:frames:10-01|>>]]**
