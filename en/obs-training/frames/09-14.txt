@@ -2,18 +2,16 @@
 
 {{:en:obs:obs-09-14.jpg?nolink&640x360}}
 
-Moses said, “What if the people ask me who sent me, what should I say?” God said, “I AM WHO I AM. Tell them, ‘I AM has sent me to you.’ This is My name forever.”
-
-[text] with inline links - **[[:en:key-terms:beginning|sample]]**
+**[[:en:key-terms:moses|Moses]]** said, “What if **the people** ask me who sent me, what should I say?” **[[:en:key-terms:god|God]]** said, “**I AM WHO I AM**. Tell them, ‘**I AM** has sent me to you.’ This is **My name** forever.”
 
 
 ===== Translation Notes: =====
 
 
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
+  * **the people** - explanation
+  * **I AM WHO I AM** - explanation
+  * **I AM** - explanation
+  * **My name** - explanation
   
 
 **[[:en:obs-training:frames:09-13|<<]] | [[:en:obs-training:09-god-calls-moses|Up]] | [[:en:obs-training:frames:09-15|>>]]**

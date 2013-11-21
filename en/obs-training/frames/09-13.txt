@@ -2,19 +2,15 @@
 
 {{:en:obs:obs-09-13.jpg?nolink&640x360}}
 
-God said, “I have seen the suffering of My people. I will send you to Pharaoh so that you can bring the Israelites out of their slavery in Egypt. I will give them the land of Canaan, the land I promised to Abraham, Isaac, and Jacob.”
-
-
-[text] with inline links - **[[:en:key-terms:beginning|sample]]**
+**[[:en:key-terms:god|God]]** said, “I have seen the **suffering** of **My people**. I will send you to **[[:en:key-terms:pharaoh|Pharaoh]]** so that you can bring the **[[:en:key-terms:israel|Israelites]] out of their [[:en:key-terms:servant|slavery]]** in **[[:en:key-terms:egypt|Egypt]]**. I will give them the land of **[[:en:key-terms:canaan|Canaan]]**, the land I **[[:en:key-terms:promise|promised]]** to **[[:en:key-terms:abraham|Abraham]]**, **[[:en:key-terms:isaac|Isaac]]**, and **[[:en:key-terms:jacob|Jacob]]**.”
 
 
 ===== Translation Notes: =====
 
 
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
+  * **suffering** - explanation
+  * **My people** - explanation
+  * **out of their slavery** - explanation
   
 
 **[[:en:obs-training:frames:09-12|<<]] | [[:en:obs-training:09-god-calls-moses|Up]] | [[:en:obs-training:frames:09-14|>>]]**

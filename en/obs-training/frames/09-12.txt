@@ -2,18 +2,16 @@
 
 {{:en:obs:obs-09-12.jpg?nolink&640x360}}
 
-One day while Moses was taking care of his sheep, he saw a bush that was on fire. But the bush did not burn up. Moses went to take a closer look. As he approached the burning bush, the voice of God said, “Moses, take off your shoes. You are standing on holy ground.”
-
-[text] with inline links - **[[:en:key-terms:beginning|sample]]**
+One day while **[[:en:key-terms:moses|Moses]]** was **taking care of his sheep**, he saw a bush that was on fire. But the **bush did not burn up**. **[[:en:key-terms:moses|Moses]]** went to take a closer look. As he approached the burning bush, the voice of **[[:en:key-terms:god|God]]** said, “**[[:en:key-terms:moses|Moses]]**, **take off your shoes**. You are standing on **holy ground**.”
 
 
 ===== Translation Notes: =====
 
 
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
+  * **taking care of his sheep** - explanation
+  * **bush did not burn up** - explanation
+  * **take off your shoes** - explanation
+  * **holy ground** - explanation
   
 
 **[[:en:obs-training:frames:09-11|<<]] | [[:en:obs-training:09-god-calls-moses|Up]] | [[:en:obs-training:frames:09-13|>>]]**
