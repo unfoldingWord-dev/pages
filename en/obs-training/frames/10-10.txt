@@ -2,18 +2,14 @@
 
 {{:en:obs:obs-10-10.jpg?nolink&640x360}}
 
-So God caused swarms of locusts to come over Egypt. These locusts ate what remained of the crops that the hail had not destroyed.
-
-[text] with inline links - **[[:en:key-terms:beginning|sample]]**
+So **[[:en:key-terms:god|God]]** caused **swarms of locusts** to come over **[[:en:key-terms:egypt|Egypt]]**. These **locusts** ate what remained of the crops that the **hail** had not destroyed.
 
 
 ===== Translation Notes: =====
 
 
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
+  * **swarms of locusts** - explanation
+  * **hail** - explanation
   
 
 **[[:en:obs-training:frames:10-09|<<]] | [[:en:obs-training:10-the-ten-plagues|Up]] | [[:en:obs-training:frames:10-11|>>]]**

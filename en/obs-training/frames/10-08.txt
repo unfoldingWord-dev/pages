@@ -2,18 +2,13 @@
 
 {{:en:obs:obs-10-08.jpg?nolink&640x360}}
 
-After that, God sent hail that destroyed the crops in Egypt and killed anybody who went outside. Pharaoh called Moses and Aaron and told them, “I have sinned. You may go.” So Moses prayed, and the hail stopped.
-
-[text] with inline links - **[[:en:key-terms:beginning|sample]]**
+After that, **[[:en:key-terms:god|God]]** sent hail that destroyed the crops in **[[:en:key-terms:egypt|Egypt]]** and killed anybody who went outside. **[[:en:key-terms:pharaoh|Pharaoh]]** called **[[:en:key-terms:moses|Moses]]** and **[[:en:key-terms:aaron|Aaron]]** and told them, “I have **[[:en:key-terms:sin|sinned]]**. You may go.” So **[[:en:key-terms:moses|Moses]]** prayed, and the hail stopped.
 
 
 ===== Translation Notes: =====
 
 
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
+  * **hail** - explanation
   
 
 **[[:en:obs-training:frames:10-07|<<]] | [[:en:obs-training:10-the-ten-plagues|Up]] | [[:en:obs-training:frames:10-09|>>]]**
