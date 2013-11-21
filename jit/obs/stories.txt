@@ -1,3 +1,4 @@
+AbharagiOkwitwa
 
 
     - [[:jit:obs:01-the-creation|Obhubhumbi]]
@@ -5,7 +6,7 @@
     - [[:jit:obs:03-the-flood|Induruma]]
     - [[:jit:obs:04-gods-covenant-with-abraham|Indagano ya Nyamuwanga na Ibhurayimu]]
     - [[:jit:obs:05-the-son-of-promise|Omwana wa Omurago]]
-    - [[:jit:obs:07-god-blesses-jacob|Isaaka Okuwona Okwitwa]][[:jit:obs:07-god-blesses-jacob| ]]
+    - [[:jit:obs:07-god-blesses-jacob|Isaaka Okuwona ]][[:jit:obs:07-god-blesses-jacob|. God Blessed Jacob]]
     - [[:jit:obs:07-god-blesses-jacob|Nyamuwanga Okuyaana Yakobho Amabhando ]]
     - [[:jit:obs:08-god-saves-joseph-and-his-family|Yuusufu na abha mu-waabho Okuwona orwa Omweko]]
     - [[:jit:obs:09-god-calls-moses|Nyamuwanga Okubirikira Muusa]]
@@ -15,11 +16,11 @@
     - [[:jit:obs:13-gods-covenant-with-israel|Indagano ya Nyamuwangana Isirayeeri]]
     - [[:jit:obs:14-wandering-in-the-wilderness|Okuyenga yenga Mw-ibhara]]
     - [[:jit:obs:15-the-promised-land|Echaaro cha Omurago]]
-    - //[[:jit:obs:16-the-deliverers|Abharamu (]]////[[:jit:obs:16-the-deliverers|abhajunis]]////i////)//
+    - [[:jit:obs:16-the-deliverers|Abharamusi ]]//[[:jit:obs:16-the-deliverers|(]]// //[[:jit:obs:16-the-deliverers|abhajunis]]////i////)//
     - [[:jit:obs:17-gods-covenant-with-david|Indagano ya Nyamuwanga na Dawudi]]
     - [[:jit:obs:18-the-divided-kingdom|Obhukama bhunu Bhwawukeene ]]
-    - [[:jit:obs:19-the-prophets|Abharagi]][[:jit:obs:19-the-prophets|]]
-    - [[:jit:obs:20-the-exile-and-returns|Okusirwa Mu-bhugaya na Okugaruka-yo]]
+    - [[:jit:obs:19-the-prophets|Ab]]haragi
+    - [[:jit:obs:20-the-exile-and-return|Okusirwa Mu-bhugaya na Okugaruka-yo]]
     - [[:jit:obs:21-god-promises-the-messiah|God Promises the Messiah]]
     - [[:jit:obs:22-the-birth-of-john|The Birth of John]]
     - [[:jit:obs:23-the-birth-of-jesus|The Birth of Jesus]]
@@ -50,4 +51,3 @@
     - [[:jit:obs:48-jesus-is-the-promised-messiah|Jesus is the Promised Messiah]]
     - [[:jit:obs:49-gods-new-covenant|God's New Covenant]]
     - [[:jit:obs:50-jesus-returns|Jesus Returns]]
-
