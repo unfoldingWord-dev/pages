@@ -2,18 +2,13 @@
 
 {{:en:obs:obs-09-10.jpg?nolink&640x360}}
 
-When Pharaoh found out about it, he tried to kill Moses because of what he had done. Moses ran away from Egypt to the wilderness where he would be safe.
-
-[text] with inline links - **[[:en:key-terms:beginning|sample]]**
+When **[[:en:key-terms:pharaoh|Pharaoh]]** found out about it, he tried to kill **[[:en:key-terms:moses|Moses]]** because of what he had done. **[[:en:key-terms:moses|Moses]]** ran away from **[[:en:key-terms:egypt|Egypt]]** to the **wilderness** where he would be safe.
 
 
 ===== Translation Notes: =====
 
 
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
+  * **wilderness** - explanation
   
 
 **[[:en:obs-training:frames:09-09|<<]] | [[:en:obs-training:09-god-calls-moses|Up]] | [[:en:obs-training:frames:09-11|>>]]**

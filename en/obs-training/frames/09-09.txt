@@ -2,17 +2,12 @@
 
 {{:en:obs:obs-09-09.jpg?nolink&640x360}}
 
-When he thought nobody was looking, he killed the Egyptian and buried his body. But someone saw what had happened.
-
-[text] with inline links - **[[:en:key-terms:beginning|sample]]**
+When he thought nobody was looking, he killed the **[[:en:key-terms:egypt|Egyptian]]** and buried his body. But someone saw what had happened.
 
 
 ===== Translation Notes: =====
 
 
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
   * **issue** - explanation
   
 
