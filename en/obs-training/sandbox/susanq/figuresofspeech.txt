@@ -10,7 +10,7 @@
 ===== Examples from the stories =====
 
 
-[[:en:obs-training:frames:02-06|"their eyes were opened" [02-06]]]means that they realized something they hadn't known before.
+[[:en:obs-training:frames:02-06|"their eyes were opened" [02-06]]]means that they realized something they hadn't known before. It is<font 13px/arial;;#000000;;#ffffff>an example of   metaphor : Their understanding is spoken in terms of seeing. It is also an example of</font> **metonymy:****** People can only see things when their eyes are open.
 
 
 [[:en:obs-training:frames:02-09|"will crush his head" [02-09]]] means will destroy him.
