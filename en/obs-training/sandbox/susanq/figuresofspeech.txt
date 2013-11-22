@@ -1,13 +1,25 @@
 ====== Figures of Speech ======
 
 
-A figure of speech is a special use of language. In many figures of speech, the words and phrases are not intended to be understood literally. The mean something different than what their individual words mean.
+===== Definition =====
 
 
-For example frame 02-06 it say's that Adam and Eve's eye's were opened. What this means is that they realized something they hadn't known before.
+    * A figure of speech is a special way of speaking. In many figures of speech, the words and phrases are not meant to be understood literally. They mean something different than what their individual words mean.
 
 
-02-09 will crush his head means will destroy him
+===== Examples from the stories =====
 
 
-02-09 will wound his heal means will injure him, but not completely destroy him
+[[:en:obs-training:frames:02-06|their eyes were opened [02-06]]]means that they realized something they hadn't known before.
+
+
+02-09 will crush his head means will destroy him.
+
+
+02-09 will wound his heal means will injure him, but not completely destroy him.
+
+
+03-02 he found grace in God's eyes means that God chose to think kindly about him.
+
+
+03-02 in God's eyes refers to the way God chose to think about him.
