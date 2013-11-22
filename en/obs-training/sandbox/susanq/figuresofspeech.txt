@@ -4,7 +4,7 @@
 ===== Definition =====
 
 
-    * A figure of speech is a special way of speaking. In many figures of speech, the words and phrases are not meant to be understood literally. They mean something different than what the individual words mean.
+    * A figure of speech is a special way of speaking. In many figures of speech, the words and phrases are not meant to be understood literally. They mean something different from what the individual words mean.
 
 
 ===== Examples from the stories =====
@@ -22,7 +22,7 @@
 [[:en:obs-training:frames:03-02|"he found grace in God's eyes" [03-02]]] means God chose to think kindly about him.
 
 
-[[:en:obs-training:frames:03-02|"in God's eyes" [03-02]]] refers to the way God chose to think about him.
+[[:en:obs-training:frames:03-02|"in God's eyes" [03-02]]] refers to God's thoughts.
 
 
 **[[http://door43.org/en/obs-training/frames/01-16|<<]]| [[http://door43.org/en/obs-training/02-sin-enters-the-world|Up]]| [[http://door43.org/en/obs-training/frames/02-02|>>]]** 
