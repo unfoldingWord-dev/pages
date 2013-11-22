@@ -1,25 +1,25 @@
-====== Figures of Speech ======
+====== Figure of Speech ======
 
 
 ===== Definition =====
 
 
-    * A figure of speech is a special way of speaking. In many figures of speech, the words and phrases are not meant to be understood literally. They mean something different than what their individual words mean.
+    * A figure of speech is a special way of speaking. In many figures of speech, the words and phrases are not meant to be understood literally. They mean something different than what the individual words mean.
 
 
 ===== Examples from the stories =====
 
 
-[[:en:obs-training:frames:02-06|their eyes were opened [02-06]]]means that they realized something they hadn't known before.
+[[:en:obs-training:frames:02-06|"their eyes were opened" [02-06]]]means that they realized something they hadn't known before.
 
 
-02-09 will crush his head means will destroy him.
+[[:en:obs-training:frames:02-09|"will crush his head" [02-09]]] means will destroy him.
 
 
-02-09 will wound his heal means will injure him, but not completely destroy him.
+[[:en:obs-training:frames:02-09|"will wound his heal" [02-09]]] means will injure him, but not completely destroy him.
 
 
-03-02 he found grace in God's eyes means that God chose to think kindly about him.
+[[:en:obs-training:frames:03-02|"he found grace in God's eyes" [03-02]]] means God chose to think kindly about him.
 
 
-03-02 in God's eyes refers to the way God chose to think about him.
+[[:en:obs-training:frames:03-02|"in God's eyes" [03-02]]] refers to the way God chose to think about him.
