@@ -13,19 +13,30 @@ Estos son los recursos que hay disponibles en este momento para traducir y usar:
 ==== Acerca de Door43 ====
 
 
-**[[http://door43.org/en/get-started|How to Get Started]]** – Empezar a traducir
-**[[http://door43.org/en/statement-of-faith|Statement of Faith]]** – Declaración de Fe, con la que están de acuerdo los que colaboran con Door43.
-**[[http://door43.org/en/legal/license|Copyrights & Licensing]]** – Todo el contenido de este sitio web está disponible bajo los términos de una [[http://creativecommons.org/licenses/by-sa/3.0|Licencia Creative Commons Attribution-ShareAlike 3.0 Unported]].
-**[[http://door43.org/en/syntax|Formatting Content]]** – Cómo hacer que el contenido tenga el aspecto que debe tener.
-**[[http://door43.org/en/tips-tricks|Tips & Tricks]]** – Atajos & formas de aumentar la eficacia.
-**[[http://door43.org/en/technical|Technical Details]]** – La tecnología que hay tras Door43.
-==== Extending Door43 ====
+**[[http://door43.org/en/get-started|Cómo empezar]]** – Empezar a traducir 
 
 
-Door43 is in active development, as we expand the usefulness of the content by developing ways of making it available in more formats and on more mobile devices. Find out how you can help with **[[http://door43.org/en/dev|Door43 Development]]**.
+**[[http://door43.org/en/statement-of-faith|Declaración de Fe]]** – Declaración de Fe, con la que están de acuerdo los que colaboran con Door43.
+
+
+**[[http://door43.org/en/legal/license|Copyrights & Licencia]]** – Todo el contenido de este sitio web está disponible bajo los términos de una [[http://creativecommons.org/licenses/by-sa/3.0|Licencia Creative Commons Attribution-ShareAlike 3.0 Unported]]. 
+
+
+**[[http://door43.org/en/syntax|Formateando el contenido]]** – Cómo hacer que el contenido tenga el aspecto que debe tener. 
+
+
+**[[http://door43.org/en/tips-tricks|Recetas & Trucos]]** – Atajos & formas de aumentar la eficacia.
+
+
+**[[http://door43.org/en/technical|Detalles Técnicos]]** – La tecnología que hay tras Door43.
+
+==== Extendiendo Door43 ====
+
+
+Door43 es un desarrollo activo, dado que se va ampliando la utilidad del contenido desarrollando formas de hacerlo disponible en más formatos y en más dispositivos móviles. Mire cómo puede ayudar en **[[http://door43.org/en/dev|Desarrollo de Door43]]**.
 
 
 ----
 
 
-//“Pray… that God may open to us a **door**  for the Word.” —Colossians **4**:**3**  //
+//“Orad… para que Dios nos abra **puerta** para la Palabra.” —Colosenses **4**:**3** //
