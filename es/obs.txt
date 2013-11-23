@@ -10,7 +10,4 @@ Historias Bíblicas Libres están desarrolladas por [[http://distantshoresmedia.
 ==== Cómo puede ayudar ====
 
 
-Sientase libre de unirse al equipo de traduccion de Historias Bíblicas Libres y ayudar a terminar una traducción o empezar una nueva. Encontrará aquí **[[:en:get-started|como empezar]]** a traducir las Historias Bíblicas Libres. Si lo prefiere, puede //[[http://door43.org/_media/en/obs/obs-en.zip|descargar]] el texto fuente en Inglés como un archivo zip y empezar la traducción offline, en cualquier ordenador o dispositivo movil.// 
-
-
-{{page>es:obs:stories}}
+Sientase libre de unirse al equipo de traduccion de Historias Bíblicas Libres y ayudar a terminar una traducción o empezar una nueva. Encontrará aquí **[[:en:get-started|como empezar]]** a traducir las Historias Bíblicas Libres. Si lo prefiere, puede //[[http://door43.org/_media/en/obs/obs-en.zip|descargar]] el texto fuente en Inglés como un archivo zip y empezar la traducción offline, en cualquier ordenador o dispositivo movil.//
