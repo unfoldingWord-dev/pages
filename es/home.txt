@@ -1,11 +1,31 @@
 ====== Door43 (es) ======
 
- 	~~NOTOC~~
 
 Bienvenidos a Door43, una plataforma abierta y colaborativa para crear, traducir y distribuir recursos con licencia libre, de discipulado en cualquier lenguaje.
 
 
 ===== Recursos =====
+Estos son los recursos que hay disponibles en este momento para traducir y usar:
+
+**[[http://door43.org/es/obs|Historias Bíblicas Libres]]** - Un mini-biblia visual en cualquier lenguaje, en formatos de texto, audio y video.
 
 
-    * **[[:es:obs|Open Bible Stories (es)]]**
+==== Acerca de Door43 ====
+
+
+**[[http://door43.org/en/get-started|How to Get Started]]** – Empezar a traducir
+**[[http://door43.org/en/statement-of-faith|Statement of Faith]]** – Declaración de Fe, con la que están de acuerdo los que colaboran con Door43.
+**[[http://door43.org/en/legal/license|Copyrights & Licensing]]** – Todo el contenido de este sitio web está disponible bajo los términos de una [[http://creativecommons.org/licenses/by-sa/3.0|Licencia Creative Commons Attribution-ShareAlike 3.0 Unported]].
+**[[http://door43.org/en/syntax|Formatting Content]]** – Cómo hacer que el contenido tenga el aspecto que debe tener.
+**[[http://door43.org/en/tips-tricks|Tips & Tricks]]** – Atajos & formas de aumentar la eficacia.
+**[[http://door43.org/en/technical|Technical Details]]** – La tecnología que hay tras Door43.
+==== Extending Door43 ====
+
+
+Door43 is in active development, as we expand the usefulness of the content by developing ways of making it available in more formats and on more mobile devices. Find out how you can help with **[[http://door43.org/en/dev|Door43 Development]]**.
+
+
+----
+
+
+//“Pray… that God may open to us a **door**  for the Word.” —Colossians **4**:**3**  //
