@@ -1,0 +1,67 @@
+====== Gateway Languages ======
+
+The objective of this page is to identify the key "gateway languages" of the world, providing the fewest number of languages where a translation of a training resource would reach through second-language speakers to every living language.
+
+<graphviz dot>
+digraph languages {
+	rankdir=LR;
+	size="9,5"
+	"source text" -> "gateway language" -> "all languages";
+}
+</graphviz>
+
+===== Current List of Languages =====
+
+//Somewhat subjective, based on ongoing research, and excluding English. Note: this is not a list of languages with most speakers, though there is some overlap.//
+
+  - Mandarin (zh)
+  - Spanish (es)
+  - French (fr)
+  - Hindi (hi)
+  - Urdu (ur)
+  - Arabic (ar)
+  - Persian (fa)
+  - Portuguese (pt, pt-br)
+  - Bengali (bn)
+  - Indonesian (id)
+
+==== Other Languages ====
+
+**Africa:**
+
+  * Swahili (sw)
+
+**Asia, East:**
+
+  * Japanese (ja)
+
+**Asia, South:**
+
+  * Tamil (ta)
+  * Telugu (te)
+
+**Asia, Southeast**
+
+  * Burmese (my)
+  * Khmer
+  * Laotian
+  * Malaysian
+  * Thai (th)
+  * Vietnamese (vi)
+
+**Europe:**
+
+  * German (de)
+  * Russian (ru)
+
+**Pacific:**
+
+  * Tok Pisin
+
+===== Sources =====
+
+  * [[http://en.wikipedia.org/wiki/World_language]]
+  * [[http://srhabay.wikispaces.com/12+MAIN+WORLD+LANGUAG]]
+  * [[http://www.infoplease.com/ipa/A0775272.html]]
+  * [[http://www2.ignatius.edu/faculty/turner/languages.htm]]
+  * [[http://www.ethnologue.com]]
