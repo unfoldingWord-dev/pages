@@ -1,6 +1,6 @@
 ====== Frame [49-16] ======
 
-[image]
+{{:en:obs:obs-49-16.jpg?nolink&640x360}}
 
 [text] with inline links - **[[:en:key-terms:page|sample]]**
 
