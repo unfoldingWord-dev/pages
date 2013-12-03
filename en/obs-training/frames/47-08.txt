@@ -1,0 +1,19 @@
+====== Frame [47-08] ======
+
+[image]
+
+[text] with inline links - **[[:en:key-terms:page|sample]]**
+
+
+===== Translation Notes: =====
+
+
+  * **issue** - explanation
+  * **issue** - explanation
+  * **issue** - explanation
+  * **issue** - explanation
+  
+
+navlinks
+
+~~DISCUSSION~~
