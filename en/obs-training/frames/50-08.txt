@@ -1,4 +1,4 @@
-====== Frame [26-04] ======
+====== Frame [50-08] ======
 
 [image]
 
@@ -14,7 +14,6 @@
   * **issue** - explanation
   
 
-**[[:en:obs-training:frames:26-03|<<]] | [[:en:obs-training:26-jesus-starts-his-ministry|Up]] | [[:en:obs-training:frames:26-05|>>]]**
-
+navlinks
 
 ~~DISCUSSION~~
