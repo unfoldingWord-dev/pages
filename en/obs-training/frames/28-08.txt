@@ -14,7 +14,7 @@
   * **issue** - explanation
   
 
-navlinks
+**[[:en:obs-training:frames:28-07|<<]] | [[:en:obs-training:28-the-rich-young-ruler|Up]] | [[:en:obs-training:frames:28-09|>>]]**
 
 
 ~~DISCUSSION~~
