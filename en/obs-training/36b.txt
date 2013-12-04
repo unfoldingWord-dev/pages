@@ -13,16 +13,28 @@
 Click on the links below to translate each frame of the story.
 
 
-[[:en:obs-training:frames:0x-01|{{:en:obs:obs-0x-01.jpg?200|Frame}}]]\\ 
-Frame [0x-01]\\ 
+[[:en:obs-training:frames:36-01|{{:en:obs:obs-36-01.jpg?200|Frame}}]]\\ 
+To the Mountain [36-01]\\ 
 
+[[:en:obs-training:frames:36-02|{{:en:obs:obs-36-02.jpg?200|Frame}}]]\\ 
+Jesus Is Changed [36-02]\\ 
 
+[[:en:obs-training:frames:36-03|{{:en:obs:obs-36-03.jpg?200|Frame}}]]\\ 
+Moses and Elijah [36-03]\\ 
 
+[[:en:obs-training:frames:36-04|{{:en:obs:obs-36-04.jpg?200|Frame}}]]\\ 
+Peter's Comments [36-04]\\ 
 
-[[:en:obs-training:frames:0x-1x|{{:en:obs:obs-0x-1x.jpg?200|Frame}}]]\\ 
-Frame [0x-1x]\\ 
+[[:en:obs-training:frames:36-05|{{:en:obs:obs-36-05.jpg?200|Frame}}]]\\ 
+This Is My Son [36-05]\\ 
 
+[[:en:obs-training:frames:36-06|{{:en:obs:obs-36-06.jpg?200|Frame}}]]\\ 
+Alone with Jesus [36-06]\\ 
 
+[[:en:obs-training:frames:36-07|{{:en:obs:obs-36-07.jpg?200|Frame}}]]\\ 
+Keep the Secret [36-07]\\ 
+
+//A Bible story from: Matthew 17:1-9; Mark 9:2-8; Luke 9:28-36//
 
 
 ~~DISCUSSION~~
