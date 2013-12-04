@@ -13,16 +13,40 @@
 Click on the links below to translate each frame of the story.
 
 
-[[:en:obs-training:frames:0x-01|{{:en:obs:obs-0x-01.jpg?200|Frame}}]]\\ 
-Frame [0x-01]\\ 
+[[:en:obs-training:frames:27-01|{{:en:obs:obs-27-01.jpg?200|Frame}}]]\\ 
+The Lawyer's Question [27-01]\\ 
 
+[[:en:obs-training:frames:27-0|{{:en:obs:obs-27-0.jpg?200|Frame}}]]\\ 
+Keep the Commandments [27-0]\\ 
 
+[[:en:obs-training:frames:27-0|{{:en:obs:obs-27-0.jpg?200|Frame}}]]\\ 
+Who Is My Neighbor? [27-0]\\ 
 
+[[:en:obs-training:frames:27-0|{{:en:obs:obs-27-0.jpg?200|Frame}}]]\\ 
+The Jewish Traveler [27-0]\\ 
 
-[[:en:obs-training:frames:0x-1x|{{:en:obs:obs-0x-1x.jpg?200|Frame}}]]\\ 
-Frame [0x-1x]\\ 
+[[:en:obs-training:frames:27-0|{{:en:obs:obs-27-0.jpg?200|Frame}}]]\\ 
+The Robbers [27-0]\\ 
 
+[[:en:obs-training:frames:27-0|{{:en:obs:obs-27-0.jpg?200|Frame}}]]\\ 
+The Priest [27-0]\\ 
 
+[[:en:obs-training:frames:27-0|{{:en:obs:obs-27-0.jpg?200|Frame}}]]\\ 
+The Levite [27-0]\\ 
+
+[[:en:obs-training:frames:27-0|{{:en:obs:obs-27-0.jpg?200|Frame}}]]\\ 
+The Samaritan [27-0]\\ 
+
+[[:en:obs-training:frames:27-0|{{:en:obs:obs-27-0.jpg?200|Frame}}]]\\ 
+Help for the Victim [27-0]\\ 
+
+[[:en:obs-training:frames:27-11|{{:en:obs:obs-27-11.jpg?200|Frame}}]]\\ 
+A Generous Offer [27-11]\\ 
+
+[[:en:obs-training:frames:27-12|{{:en:obs:obs-27-12.jpg?200|Frame}}]]\\ 
+Do the Same Thing [27-12]\\ 
+
+//A Bible story from: Luke 10:25-37//
 
 
 ~~DISCUSSION~~

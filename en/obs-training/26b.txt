@@ -13,16 +13,37 @@
 Click on the links below to translate each frame of the story.
 
 
-[[:en:obs-training:frames:0x-01|{{:en:obs:obs-0x-01.jpg?200|Frame}}]]\\ 
-Frame [0x-01]\\ 
+[[:en:obs-training:frames:26-01|{{:en:obs:obs-26-01.jpg?200|Frame}}]]\\ 
+Jesus in Galilee [26-01]\\ 
 
+[[:en:obs-training:frames:26-02|{{:en:obs:obs-26-02.jpg?200|Frame}}]]\\ 
+Jesus in Nazareth [26-02]\\ 
 
+[[:en:obs-training:frames:26-03|{{:en:obs:obs-26-03.jpg?200|Frame}}]]\\ 
+Jesus Reads the Scriptures [26-03]\\ 
 
+[[:en:obs-training:frames:26-04|{{:en:obs:obs-26-04.jpg?200|Frame}}]]\\ 
+The Prophesy about Jesus [26-04]\\ 
 
-[[:en:obs-training:frames:0x-1x|{{:en:obs:obs-0x-1x.jpg?200|Frame}}]]\\ 
-Frame [0x-1x]\\ 
+[[:en:obs-training:frames:26-05|{{:en:obs:obs-26-05.jpg?200|Frame}}]]\\ 
+The Ministry of Elijah [26-05]\\ 
 
+[[:en:obs-training:frames:26-06|{{:en:obs:obs-26-06.jpg?200|Frame}}]]\\ 
+The Ministry of Elisha [26-06]\\ 
 
+[[:en:obs-training:frames:26-07|{{:en:obs:obs-26-07.jpg?200|Frame}}]]\\ 
+The Attempt to Kill Jesus [26-07]\\ 
+
+[[:en:obs-training:frames:26-08|{{:en:obs:obs-26-08.jpg?200|Frame}}]]\\ 
+Jesus Heals the Sick [26-08]\\ 
+
+[[:en:obs-training:frames:26-09|{{:en:obs:obs-26-09.jpg?200|Frame}}]]\\ 
+Removing the Demons [26-09]\\ 
+
+[[:en:obs-training:frames:26-10|{{:en:obs:obs-26-10.jpg?200|Frame}}]]\\ 
+The Twelve Disciples [26-10]\\ 
+
+//A Bible story from:Matthew 4:12-25; Mark 1:14-15, 35-39; 3:13-21; Luke 4:14-30, 38-44//
 
 
 ~~DISCUSSION~~
