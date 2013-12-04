@@ -13,16 +13,37 @@
 Click on the links below to translate each frame of the story.
 
 
-[[:en:obs-training:frames:0x-01|{{:en:obs:obs-0x-01.jpg?200|Frame}}]]\\ 
-Frame [0x-01]\\ 
+[[:en:obs-training:frames:28-01|{{:en:obs:obs-28-01.jpg?200|Frame}}]]\\ 
+What Must I Do? [28-01]\\ 
 
+[[:en:obs-training:frames:28-02|{{:en:obs:obs-28-02.jpg?200|Frame}}]]\\ 
+God's Commandments [28-02]\\ 
 
+[[:en:obs-training:frames:28-03|{{:en:obs:obs-28-03.jpg?200|Frame}}]]\\ 
+What Else Must I Do? [28-03]\\ 
 
+[[:en:obs-training:frames:28-04|{{:en:obs:obs-28-04.jpg?200|Frame}}]]\\ 
+Sell Everything [28-04]\\ 
 
-[[:en:obs-training:frames:0x-1x|{{:en:obs:obs-0x-1x.jpg?200|Frame}}]]\\ 
-Frame [0x-1x]\\ 
+[[:en:obs-training:frames:28-05|{{:en:obs:obs-28-05.jpg?200|Frame}}]]\\ 
+Not Willing to Obey [28-05]\\ 
 
+[[:en:obs-training:frames:28-06|{{:en:obs:obs-28-06.jpg?200|Frame}}]]\\ 
+The Camel and the Needle [28-06]\\ 
 
+[[:en:obs-training:frames:28-07|{{:en:obs:obs-28-07.jpg?200|Frame}}]]\\ 
+Who Can Be Saved? [28-07]\\ 
+
+[[:en:obs-training:frames:28-08|{{:en:obs:obs-28-08.jpg?200|Frame}}]]\\ 
+All Things Are Possible [28-08]\\ 
+
+[[:en:obs-training:frames:28-09|{{:en:obs:obs-28-09.jpg?200|Frame}}]]\\ 
+What Is Our Reward? [28-09]\\ 
+
+[[:en:obs-training:frames:28-10|{{:en:obs:obs-28-10.jpg?200|Frame}}]]\\ 
+The First and the Last [28-10]\\ 
+
+//A Bible story from: Matthew 19:16-30; Mark 10:17-31; Luke 18:18-30//
 
 
 ~~DISCUSSION~~
