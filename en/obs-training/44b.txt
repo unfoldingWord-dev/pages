@@ -13,16 +13,34 @@
 Click on the links below to translate each frame of the story.
 
 
-[[:en:obs-training:frames:0x-01|{{:en:obs:obs-0x-01.jpg?200|Frame}}]]\\ 
-Frame [0x-01]\\ 
+[[:en:obs-training:frames:44-01|{{:en:obs:obs-44-01.jpg?200|Frame}}]]\\ 
+The Crippled Man [44-01]\\ 
 
+[[:en:obs-training:frames:44-02|{{:en:obs:obs-44-02.jpg?200|Frame}}]]\\ 
+Get Up and Walk [44-02]\\ 
 
+[[:en:obs-training:frames:44-03|{{:en:obs:obs-44-03.jpg?200|Frame}}]]\\ 
+The Cripple Is Healed [44-03]\\ 
 
+[[:en:obs-training:frames:44-04|{{:en:obs:obs-44-04.jpg?200|Frame}}]]\\ 
+The Power of Jesus [44-04]\\ 
 
-[[:en:obs-training:frames:0x-1x|{{:en:obs:obs-0x-1x.jpg?200|Frame}}]]\\ 
-Frame [0x-1x]\\ 
+[[:en:obs-training:frames:44-05|{{:en:obs:obs-44-05.jpg?200|Frame}}]]\\ 
+Peter Preaches [44-05]\\ 
 
+[[:en:obs-training:frames:44-06|{{:en:obs:obs-44-06.jpg?200|Frame}}]]\\ 
+Peter and John Are Arrested [44-06]\\ 
 
+[[:en:obs-training:frames:44-07|{{:en:obs:obs-44-07.jpg?200|Frame}}]]\\ 
+Before the Jewish Leaders [44-07]\\ 
+
+[[:en:obs-training:frames:44-08|{{:en:obs:obs-44-08.jpg?200|Frame}}]]\\ 
+No Other Way But Jesus [44-08]\\ 
+
+[[:en:obs-training:frames:44-09|{{:en:obs:obs-44-09.jpg?200|Frame}}]]\\ 
+The Disciples Are Released [44-09]\\ 
+
+//A Bible story from: Acts 3:1-4:22//
 
 
 ~~DISCUSSION~~

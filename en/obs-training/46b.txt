@@ -13,16 +13,38 @@
 Click on the links below to translate each frame of the story.
 
 
-[[:en:obs-training:frames:0x-01|{{:en:obs:obs-0x-01.jpg?200|Frame}}]]\\ 
-Frame [0x-01]\\ 
+[[:en:obs-training:frames:46-01|{{:en:obs:obs-46-01.jpg?200|Frame}}]]\\ 
+Paul Arrests Christians [46-01]\\ 
+
+[[:en:obs-training:frames:46-02|{{:en:obs:obs-46-02.jpg?200|Frame}}]]\\ 
+Paul Sees Jesus [46-02]\\ 
+
+[[:en:obs-training:frames:46-03|{{:en:obs:obs-46-03.jpg?200|Frame}}]]\\ 
+Paul Is Blind [46-03]\\ 
+
+[[:en:obs-training:frames:46-04|{{:en:obs:obs-46-04.jpg?200|Frame}}]]\\ 
+God Sends Ananias to Paul [46-04]\\ 
+
+[[:en:obs-training:frames:46-05|{{:en:obs:obs-46-05.jpg?200|Frame}}]]\\ 
+Ananias Baptizes Paul [46-05]\\ 
+
+[[:en:obs-training:frames:46-06|{{:en:obs:obs-46-06.jpg?200|Frame}}]]\\ 
+Saul Preaches about Jesus [46-06]\\ 
+
+[[:en:obs-training:frames:46-07|{{:en:obs:obs-46-07.jpg?200|Frame}}]]\\ 
+Paul Escapes Damascus [46-07]\\ 
+
+[[:en:obs-training:frames:46-08|{{:en:obs:obs-46-08.jpg?200|Frame}}]]\\ 
+Paul Goes to Jerusalem [46-08]\\ 
+
+[[:en:obs-training:frames:46-09|{{:en:obs:obs-46-09.jpg?200|Frame}}]]\\ 
+The Christians in Antioch [46-09]\\ 
+
+[[:en:obs-training:frames:46-10|{{:en:obs:obs-46-10.jpg?200|Frame}}]]\\ 
+Paul and Barnabas [46-10]\\ 
 
 
-
-
-[[:en:obs-training:frames:0x-1x|{{:en:obs:obs-0x-1x.jpg?200|Frame}}]]\\ 
-Frame [0x-1x]\\ 
-
-
+//A Bible story from: Acts 6:8-8:3; 9:1-25; 11:25-26//
 
 
 ~~DISCUSSION~~

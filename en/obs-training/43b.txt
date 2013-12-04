@@ -13,16 +13,46 @@
 Click on the links below to translate each frame of the story.
 
 
-[[:en:obs-training:frames:0x-01|{{:en:obs:obs-0x-01.jpg?200|Frame}}]]\\ 
-Frame [0x-01]\\ 
+[[:en:obs-training:frames:43-01|{{:en:obs:obs-43-01.jpg?200|Frame}}]]\\ 
+The Disciples in Jerusalem [43-01]\\ 
 
+[[:en:obs-training:frames:43-02|{{:en:obs:obs-43-02.jpg?200|Frame}}]]\\ 
+The Feast of Pentecost [43-02]\\ 
 
+[[:en:obs-training:frames:43-03|{{:en:obs:obs-43-03.jpg?200|Frame}}]]\\ 
+Speaking Other Languages [43-03]\\ 
 
+[[:en:obs-training:frames:43-04|{{:en:obs:obs-43-04.jpg?200|Frame}}]]\\ 
+The Crowd Gathers [43-04]\\ 
 
-[[:en:obs-training:frames:0x-1x|{{:en:obs:obs-0x-1x.jpg?200|Frame}}]]\\ 
-Frame [0x-1x]\\ 
+[[:en:obs-training:frames:43-05|{{:en:obs:obs-43-05.jpg?200|Frame}}]]\\ 
+God's Spirit Is Poured Out [43-05]\\ 
 
+[[:en:obs-training:frames:43-06|{{:en:obs:obs-43-06.jpg?200|Frame}}]]\\ 
+You Crucified Jesus [43-06]\\ 
 
+[[:en:obs-training:frames:43-07|{{:en:obs:obs-43-07.jpg?200|Frame}}]]\\ 
+God Raised Jesus [43-07]\\ 
+
+[[:en:obs-training:frames:43-08|{{:en:obs:obs-43-08.jpg?200|Frame}}]]\\ 
+The Holy Spirit [43-08]\\ 
+
+[[:en:obs-training:frames:43-09|{{:en:obs:obs-43-09.jpg?200|Frame}}]]\\ 
+Jesus Is the Messiah [43-09]\\ 
+
+[[:en:obs-training:frames:43-10|{{:en:obs:obs-43-10.jpg?200|Frame}}]]\\ 
+What Should We Do? [43-10]\\ 
+
+[[:en:obs-training:frames:43-11|{{:en:obs:obs-43-11.jpg?200|Frame}}]]\\ 
+Repent and Be Baptized [43-11]\\ 
+
+[[:en:obs-training:frames:43-12|{{:en:obs:obs-43-12.jpg?200|Frame}}]]\\ 
+3000 Believe [43-12]\\ 
+
+[[:en:obs-training:frames:43-13|{{:en:obs:obs-43-13.jpg?200|Frame}}]]\\ 
+The Disciples Meet Together [43-13]\\ 
+
+//A Bible story from: Acts 2//
 
 
 ~~DISCUSSION~~
