@@ -13,14 +13,35 @@
 Click on the links below to translate each frame of the story.
 
 
-[[:en:obs-training:frames:0x-01|{{:en:obs:obs-0x-01.jpg?200|Frame}}]]\\ 
-Frame [0x-01]\\ 
+[[:en:obs-training:frames:23-01|{{:en:obs:obs-23-01.jpg?200|Frame}}]]\\ 
+Mary Is Pregnant [23-01]\\ 
 
+[[:en:obs-training:frames:23-02|{{:en:obs:obs-23-02.jpg?200|Frame}}]]\\ 
+Take Mary As Your Wife [23-02]\\ 
 
+[[:en:obs-training:frames:23-03|{{:en:obs:obs-23-03.jpg?200|Frame}}]]\\ 
+Joseph Marries Mary [23-03]\\ 
 
+[[:en:obs-training:frames:23-04|{{:en:obs:obs-23-04.jpg?200|Frame}}]]\\ 
+The Trip to Bethlehem [23-04]\\ 
 
-[[:en:obs-training:frames:0x-1x|{{:en:obs:obs-0x-1x.jpg?200|Frame}}]]\\ 
-Frame [0x-1x]\\ 
+[[:en:obs-training:frames:23-05|{{:en:obs:obs-23-05.jpg?200|Frame}}]]\\ 
+The Birth of Jesus [23-05]\\ 
+
+[[:en:obs-training:frames:23-06|{{:en:obs:obs-23-06.jpg?200|Frame}}]]\\ 
+The Angel and the Shepherds [23-06]\\ 
+
+[[:en:obs-training:frames:23-07|{{:en:obs:obs-23-07.jpg?200|Frame}}]]\\ 
+The Angels Praise [23-07]\\ 
+
+[[:en:obs-training:frames:23-08|{{:en:obs:obs-23-08.jpg?200|Frame}}]]\\ 
+The Shepherds Visit Jesus [23-08]\\ 
+
+[[:en:obs-training:frames:23-09|{{:en:obs:obs-23-09.jpg?200|Frame}}]]\\ 
+The Wise Men Visit [23-09]\\ 
+
+[[:en:obs-training:frames:23-10|{{:en:obs:obs-23-10.jpg?200|Frame}}]]\\ 
+Worship for the Baby [23-10]\\ 
 
 
 //A Bible story from: Matthew 1; Luke 2//
