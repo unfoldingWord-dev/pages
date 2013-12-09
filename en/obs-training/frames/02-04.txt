@@ -4,16 +4,14 @@
 {{:en:obs:obs-02-04.jpg?nolink&640x360}}
 
 
-The snake responded, “That is **not [[:en:key-terms:true|true]]**! You **will not [[:en:key-terms:death|die]]**. **[[:en:key-terms:god|God]]** just knows that as soon as you eat it, you will be **like [[:en:key-terms:god|God]]** and will **understand [[:en:key-terms:good|good]] and [[:en:key-terms:evil|evil]]** like He does.”
+The snake **responded**, “That is not **[[:en:key-terms:true|true]]**! You will not **[[:en:key-terms:death|die]]**. **[[:en:key-terms:god|God]]** just knows that as soon as you eat it, you will be **like [[:en:key-terms:god|God]]** and will **understand [[:en:key-terms:good|good]] and [[:en:key-terms:evil|evil]]** like He does.”
 
 ===== Translation Notes: =====
 
 
-
-    * **not true** - This statement openly accuses God of being a liar.
-    * **will not die** - This statement directly contradicts the clear statement by God that they would die if they ate the fruit
-    * **like God** - "like God" was intended to sound like an advantage for the woman. However, she would only be "like God" in one additional sense--that she would now understand evil. That was a very negative change.
-    * **understand good and evil** - this represents a complete loss of innocence. Before disobeying, they did not even know what sin was. After eating, they will have personally experienced what it is like to disobey God.
+    * **responded** – For some languages it may be necessary to say, “responded to her” or “said to her.” 
+    * **like God** - Adam and Eve were already made in the likeness of God. The snake is suggesting that Eve would be more like God if she understood evil. However, God never intended for her to have this knowledge.
+    * **understand good and evil** -  To know from personal experience what things are good and what things are bad, or being able to know whether something is good or bad.
 
 
 **[[:en:obs-training:frames:02-03|<<]] | [[:en:obs-training:02-sin-enters-the-world|Up]] | [[:en:obs-training:frames:02-05|>>]]**
