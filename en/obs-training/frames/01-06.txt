@@ -4,7 +4,7 @@
 {{:en:obs:obs-01-06.jpg?nolink&640x360}}
 
 
-On **the fourth day** of creation, **[[:en:key-terms:god|God]] spoke** and made the sun, the moon, and the stars. **[[:en:key-terms:god|God]]** made them to give **light** to the earth and to mark **day and night, seasons and years**. 
+On **the fourth day** of creation, **[[:en:key-terms:god|God]] spoke** and made the sun, the moon, and the stars. **[[:en:key-terms:god|God]]** made them to give **light** to the earth and to mark **day and night, seasons and years**.  **[[:en:key-terms:god|God]]** saw that what He had **created** was **[[:en:key-terms:good|good]]**.
 
 
 ===== Translation Notes: =====
@@ -14,6 +14,7 @@ On **the fourth day** of creation, **[[:en:key-terms:god|God]] spoke** and made 
     * **[[:en:key-terms:god|God]] spoke** - God created the sun, moon, and stars by speaking a command.
     * **light** - Shining objects in the sky now provided light for the earth.
     * **day and night, seasons and years** - God created a different light to mark each portion of time from small to large, and set them to repeat continually until the end of time. 
+    * **created** - Here used in the sense of making something out of nothing.
 
 
 **[[en/obs-training/frames/01-05|<<]] | [[:en:obs-training:01-the-creation|Up]] | [[en/obs-training/frames/01-07|>>]]**
