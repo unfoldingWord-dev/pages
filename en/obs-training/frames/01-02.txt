@@ -16,4 +16,4 @@ Then **[[:en:key-terms:god|God]] spoke and said**, "**Let there be** light!" And
 **[[en/obs-training/frames/01-01|<<]] | [[:en:obs-training:01-the-creation|Up]] | [[en/obs-training/frames/01-03|>>]]** 
 
 
-~~DISCUSSION~~
+~~DISCUSSION:off~~

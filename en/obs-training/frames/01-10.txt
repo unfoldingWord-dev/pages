@@ -23,4 +23,4 @@ So **[[:en:key-terms:god|God]]** **took some dirt**, **formed it** into **a man*
 **[[en/obs-training/frames/01-09|<<]] | [[:en:obs-training:01-the-creation|Up]] | [[en/obs-training/frames/01-11|>>]]** 
 
 
-~~DISCUSSION~~
+~~DISCUSSION:off~~

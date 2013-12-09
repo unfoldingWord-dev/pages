@@ -19,4 +19,4 @@ Then **[[:en:key-terms:god|God]]** said, "**Let us** make human beings **in our 
 
 **[[en/obs-training/frames/01-08|<<]] | [[:en:obs-training:01-the-creation|Up]] | [[en/obs-training/frames/01-10|>>]]**
 
-~~DISCUSSION~~
+~~DISCUSSION:off~~

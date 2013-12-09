@@ -18,4 +18,4 @@ So **[[:en:key-terms:god|God]]**  made **[[:en:key-terms:adam|Adam]]** fall into
 
 **[[en/obs-training/frames/01-12|<<]] | [[:en:obs-training:01-the-creation:|Up]] | [[en/obs-training/frames/01-14|>>]]**
 
-~~DISCUSSION~~
+~~DISCUSSION:off~~
