@@ -4,7 +4,7 @@
 {{:en:obs:obs-02-03.jpg?nolink&640x360}}
 
 
-The woman answered, “**[[:en:key-terms:god|God]]** told us we could eat the fruit of any tree except from the tree of the knowledge of **[[:en:key-terms:good|good]]** and **[[:en:key-terms:evil|evil]]**. **[[:en:key-terms:god|God]]** told us, ‘If you eat that fruit or even touch it, you will **[[:en:key-terms:death|die]]**.’”
+The woman answered, “**[[:en:key-terms:god|God]]** told us we could eat the **fruit** of any tree except from the **tree of the knowledge of [[:en:key-terms:good|good]] and [[:en:key-terms:evil|evil]]**. **[[:en:key-terms:god|God]]** told us, ‘If you eat that fruit **or even touch** it, you will **[[:en:key-terms:death|die]]**.’”
 
 
 ===== Translation Notes: =====
