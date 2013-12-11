@@ -15,4 +15,5 @@ Later **[[:en:key-terms:noah|Noah]]** sent out a bird called a **dove**. But it 
 
 **[[:en:obs-training:frames:03-10|<<]] | [[:en:obs-training:03-the-flood|Up]] | [[:en:obs-training:frames:03-12|>>]]**
 
-~~DISCUSSION~~
+
+~~DISCUSSION:off~~

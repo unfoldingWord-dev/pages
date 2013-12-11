@@ -16,4 +16,4 @@ The woman answered, “**[[:en:key-terms:god|God]]** told us we could eat the **
 
 **[[:en:obs-training:frames:02-02|<<]] | [[:en:obs-training:02-sin-enters-the-world|Up]] | [[:en:obs-training:frames:02-04|>>]]**
 
-~~DISCUSSION~~
+~~DISCUSSION:off~~

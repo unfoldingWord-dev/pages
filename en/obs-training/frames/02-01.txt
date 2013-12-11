@@ -18,4 +18,4 @@
 **[[en/obs-training/frames/01-16|<<]] | [[en:obs-training:02-sin-enters-the-world|Up]] | [[en/obs-training/frames/02-02|>>]]** 
 
 
-~~DISCUSSION~~
+~~DISCUSSION:off~~

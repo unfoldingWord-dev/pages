@@ -17,4 +17,5 @@ After **the rains stopped**, the boat floated on the water for **five months**, 
 
 **[[:en:obs-training:frames:03-08|<<]] | [[:en:obs-training:03-the-flood|Up]] | [[:en:obs-training:frames:03-10|>>]]**
 
-~~DISCUSSION~~
+
+~~DISCUSSION:off~~

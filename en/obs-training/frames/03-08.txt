@@ -14,4 +14,5 @@ Everything that lived on the dry land **[[:en:key-terms:death|died]]**, except t
 
 **[[:en:obs-training:frames:03-07|<<]] | [[:en:obs-training:03-the-flood|Up]] | [[:en:obs-training:frames:03-09|>>]]**
 
-~~DISCUSSION~~
+
+~~DISCUSSION:off~~

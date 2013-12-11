@@ -17,4 +17,5 @@
 
 **[[:en:obs-training:frames:03-15|<<]] | [[:en:obs-training:03-the-flood|Up]] | [[:en:obs-training:frames:04-01|>>]]**
 
-~~DISCUSSION~~
+
+~~DISCUSSION:off~~

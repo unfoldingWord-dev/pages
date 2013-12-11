@@ -14,4 +14,4 @@
 
 **[[:en:obs-training:frames:02-09|<<]] | [[:en:obs-training:02-sin-enters-the-world|Up]] | [[:en:obs-training:frames:02-11|>>]]**
 
-~~DISCUSSION~~
+~~DISCUSSION:off~~

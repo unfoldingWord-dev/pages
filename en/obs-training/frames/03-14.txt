@@ -15,4 +15,5 @@ After he got off the boat, **[[:en:key-terms:noah|Noah]]** built an **[[:en:key-
 
 **[[:en:obs-training:frames:03-13|<<]] | [[:en:obs-training:03-the-flood|Up]] | [[:en:obs-training:frames:03-15|>>]]**
 
-~~DISCUSSION~~
+
+~~DISCUSSION:off~~
