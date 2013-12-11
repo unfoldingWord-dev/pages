@@ -3,7 +3,7 @@
 {{:en:obs:obs-03-01.jpg?nolink&640x360}}
 
 
-**After a long time**, many people were living in the world. They had become **very [[:en:key-terms:wicked|wicked]] and violent**. It became so bad that **[[:en:key-terms:god|God]] decided to destroy** the whole world with a **huge flood**.
+**After a long time**, many people were living in the world. They had become **very [[:en:key-terms:wicked|wicked]] and violent**. **It became so bad** that **[[:en:key-terms:god|God]] decided to destroy** the whole world with a **huge flood**.
 
 
 ===== Translation Notes: =====
@@ -11,8 +11,9 @@
 
   * **After a long time** - This story happens many generations (hundreds of years) after creation.
   * **very wicked and violent** - It may be more natural to say, ”…had become wicked and did violent things”.
-  * **God decided to destroy** - God is good and cannot accept sin. He character demands that he punish sin.
-  * **huge flood** - an unusually large flood where water covered the top of even the highest mountains
+  * **It became so bad** – It may be more clear to say, “People were behaving in such harmful and evil ways that God….”
+  * **God decided to destroy** - This does not mean that the earth would be destroyed completely. Rather God planned to destroy all the people who had rebelled against him and who had caused such evil and violence. All the land animals and birds would also be killed by this flood.
+  * **huge flood** - Very deep water that would cover the earth, even in places where the ground was normally dry, and even covering the tops of the highest mountains.
   
 **[[:en:obs-training:frames:02-12|<<]] | [[:en:obs-training:03-the-flood|Up]] | [[:en:obs-training:frames:03-02|>>]]**
 
