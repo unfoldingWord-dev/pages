@@ -65,4 +65,4 @@ God Rests [01-16]
 
 **[[:en:obs-training:02-sin-enters-the-world|Next>>]]**
 
-~~DISCUSSION~~
+~~DISCUSSION:off~~

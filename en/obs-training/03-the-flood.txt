@@ -66,4 +66,4 @@ The Rainbow [03-16]\\
 
 **[[:en:obs-training:02-sin-enters-the-world|<<Previous]] | [[:en:obs-training:04-gods-covenant-with-abraham|Next>>]]**
 
-~~DISCUSSION~~
+~~DISCUSSION:off~~

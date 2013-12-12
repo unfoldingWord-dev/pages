@@ -2,9 +2,7 @@
 
 {{:en:obs:obs-11-01.jpg?nolink&640x360}}
 
-God warned Pharaoh that if he did not let the Israelites go, then He would kill all the firstborn males of both people and animals. When Pharaoh heard this he still refused to believe God.
-
-[text] with inline links - **[[:en:key-terms:beginning|sample]]**
+**[[:en:key-terms:god|God]]** warned **[[:en:key-terms:pharaoh|Pharaoh]]** that if he did not let the **[[:en:key-terms:israel|Israelites]]** go, then He would kill all the firstborn males of both people and animals. When **[[:en:key-terms:pharaoh|Pharaoh]]**heard this he still refused to **[[:en:key-terms:believe **[[:en:key-terms:god|God]]**.
 
 
 ===== Translation Notes: =====

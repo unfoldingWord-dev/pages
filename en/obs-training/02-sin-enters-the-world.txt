@@ -54,4 +54,4 @@ Out of the Garden [02-12]\\
 
 **[[:en:obs-training:01-the-creation|<<Previous]] | [[:en:obs-training:03-the-flood|Next>>]]**
 
-~~DISCUSSION~~
+~~DISCUSSION:off~~
