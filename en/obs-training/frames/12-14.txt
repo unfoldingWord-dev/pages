@@ -2,16 +2,14 @@
 
 {{:en:obs:obs-12-14.jpg?nolink&640x360}}
 
-God commanded the Israelites to remember His victory over the Egyptians and their deliverance from slavery by celebrating the Passover Feast every year. They celebrated by killing a perfect lamb, having a big feast, and telling the story of how God had saved them from the Egyptians.
-
-[text] with inline links - **[[:en:key-terms:beginning|sample]]**
+**[[:en:key-terms:god|God]]** commanded the **[[:en:key-terms:israel|Israelites]]** to remember His victory over the **[[:en:key-terms:egypt|Egyptians]]** and their **deliverance from [[:en:key-terms:servant|slavery]]** by celebrating the **[[:en:key-terms:passover|Passover]] Feast** every year. They celebrated by killing a perfect lamb, having a big feast, and telling the story of how **[[:en:key-terms:god|God]]** had **[[:en:key-terms:save|saved]]** them from the **[[:en:key-terms:egypt|Egyptians]]**.
 
 
 ===== Translation Notes: =====
 
 
-  * **issue** - explanation
-  * **issue** - explanation
+  * **deliverance from [[:en:key-terms:servant|slavery]]** - explanation
+  * **[[:en:key-terms:passover|Passover]] Feast** - explanation
   * **issue** - explanation
   * **issue** - explanation
   
