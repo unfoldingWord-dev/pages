@@ -2,16 +2,14 @@
 
 {{:en:obs:obs-13-10.jpg?nolink&640x360}}
 
-The people all agreed to obey the laws that God had given them, to worship only God, and to be His special people. But a short time after they promised to obey God, they sinned terribly.
-
-[text] with inline links - **[[:en:key-terms:beginning|sample]]**
+The people all agreed to **[[:en:key-terms:obey|obey]]** the laws that **[[:en:key-terms:god|God]]** had given them, to **[[:en:key-terms:worship|worship]]** only **[[:en:key-terms:god|God]]**, and to be **His special people**. But a short time after they **[[:en:key-terms:promise|promised]]** to **[[:en:key-terms:obey|obey]]** **[[:en:key-terms:god|God]]**, they **[[:en:key-terms:sin|sinned]] terribly**.
 
 
 ===== Translation Notes: =====
 
 
-  * **issue** - explanation
-  * **issue** - explanation
+  * **His special people** - explanation
+  * **[[:en:key-terms:sin|sinned]] terribly** - explanation
   * **issue** - explanation
   * **issue** - explanation
   

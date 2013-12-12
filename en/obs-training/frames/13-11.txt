@@ -2,9 +2,7 @@
 
 {{:en:obs:obs-13-11.jpg?nolink&640x360}}
 
-For many days, Moses was on top of Mount Sinai talking with God. The people became tired of waiting for him to return. So they brought gold to Aaron and asked him to make an idol for them!
-
-[text] with inline links - **[[:en:key-terms:beginning|sample]]**
+For many days, **[[:en:key-terms:moses|Moses]]** was on top of **[[:en:key-terms:sinai|Mount Sinai]]** talking with **[[:en:key-terms:god|God]]**. The people became tired of waiting for him to return. So they brought gold to **[[:en:key-terms:aaron|Aaron]]** and asked him to make an **[[:en:key-terms:idol|idol]]** for them!
 
 
 ===== Translation Notes: =====
