@@ -8,7 +8,9 @@
 ===== Examples from the Bible stories: =====
 
 
-[[:en:obs-training:frames:0x-0x|Title [0x-0x]]]  "... Most 
+[[:en:obs-training:frames:04-07|Melchizedek [04-07]]]  "Melchizedek, the priest of God Most High" \\ 
+[[:en:obs-training:frames:0x-0x|Title [0x-0x]]]  "... Most  \\
+[[:en:obs-training:frames:0x-0x|Title [0x-0x]]]  "... Most  \\
 
 
 ~~DISCUSSION~~
