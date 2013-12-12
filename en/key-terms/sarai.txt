@@ -10,7 +10,9 @@
 ===== Examples from the Bible stories: =====
 
 
-[[:en:obs-training:frames:04-05|To Canaan [04-05]]]  "So Abram obeyed. He took his wife Sarai, …  
+[[:en:obs-training:frames:04-05|To Canaan [04-05]]]  "So Abram obeyed. He took his wife Sarai" \\ 
+[[:en:obs-training:frames:04-08|To Canaan [04-08]]]  "Abram and Sarai still had no son"  \\ 
+[[:en:obs-training:frames:05-01|To Canaan [05-01]]]  "So Abram's wife, Sarai, said to him \\ 
 
 
 ~~DISCUSSION~~
