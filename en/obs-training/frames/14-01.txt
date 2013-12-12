@@ -2,16 +2,14 @@
 
 {{:en:obs:obs-14-01.jpg?nolink&640x360}}
 
-After the Israelites received God’s Covenant at Mount Sinai, God began leading them toward the Promised Land, which was also called Canaan. The cloud pillar showed them the way.
-
-[text] with inline links - **[[:en:key-terms:beginning|sample]]**
+After the **[[:en:key-terms:israel|Israelites]]** received **[[:en:key-terms:god|God's]]** **[[:en:key-terms:covenant|Covenant]]** at **[[:en:key-terms:sinai|Mount Sinai]]**, **[[:en:key-terms:god|God]]** began leading them toward the **[[:en:key-terms:promised-land|Promised Land]]**, which was also called **[[:en:key-terms:canaan|Canaan]]**. The **cloud pillar showed them the way**.
 
 
 ===== Translation Notes: =====
 
 
-  * **issue** - explanation
-  * **issue** - explanation
+  * **cloud pillar** - explanation
+  * **showed them the way** - explanation
   * **issue** - explanation
   * **issue** - explanation
   

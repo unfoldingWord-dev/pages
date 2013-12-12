@@ -2,15 +2,13 @@
 
 {{:en:obs:obs-14-02.jpg?nolink&640x360}}
 
-God had promised Abraham, Isaac, and Jacob that He would give the Promised Land to their descendants, but now there were many tribes of people living there. They were called Canaanites. The Canaanites did not believe in God. They worshiped false gods and did many evil things.
-
-[text] with inline links - **[[:en:key-terms:beginning|sample]]**
+**[[:en:key-terms:god|God]]** had **[[:en:key-terms:promise|promised]]** **[[:en:key-terms:abraham|Abraham]]**, **[[:en:key-terms:isaac|Isaac]]**, and **[[:en:key-terms:jacob|Jacob]]** that He would give the **[[:en:key-terms:promised-land|Promised Land]]** to their **[[:en:key-terms:descendant|descendants]]**, but now there were many tribes of people living there. They were called **[[:en:key-terms:canaan|Canaanites]]**. The **[[:en:key-terms:canaan|Canaanites]]** did not **[[:en:key-terms:believe|believe]]** in **[[:en:key-terms:god|God]]**. They **[[:en:key-terms:worship|worshiped]]** **false gods** and did many **[[:en:key-terms:evil|evil]]** things.
 
 
 ===== Translation Notes: =====
 
 
-  * **issue** - explanation
+  * **false gods** - explanation
   * **issue** - explanation
   * **issue** - explanation
   * **issue** - explanation
