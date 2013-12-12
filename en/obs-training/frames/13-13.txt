@@ -2,15 +2,13 @@
 
 {{:en:obs:obs-13-13.jpg?nolink&640x360}}
 
-When Moses came down the mountain and saw the idol, he was so angry that he smashed the stones on which God had written the Ten Commandments.
-
-[text] with inline links - **[[:en:key-terms:beginning|sample]]**
+When **[[:en:key-terms:moses|Moses]]** came down the mountain and saw the **[[:en:key-terms:idol|idol]]**, he was so angry that he **smashed the stones** on which **[[:en:key-terms:god|God]]** had written the **[[:en:key-terms:ten-commandments|Ten Commandments]]**.
 
 
 ===== Translation Notes: =====
 
 
-  * **issue** - explanation
+  * **smashed the stones** - explanation
   * **issue** - explanation
   * **issue** - explanation
   * **issue** - explanation
