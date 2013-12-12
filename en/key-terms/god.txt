@@ -4,12 +4,11 @@
 ===== Definitions: =====
 
 
-    * God is the almighty Creator of the heavens and the earth and all living beings.
-    * He is eternal. He existed before anything else, and will continue to exist forever.
-    * Refers to the one true God who exists as three persons–the Father, the Son, and the **[[:en:key-terms:holy-spirit|Holy Spirit]]**.
-    * God is revealed in the Bible to be loving, just, sinless, perfect and infinitely wise.
-    * God is a covenant-keeping God, who always fulfills His promises.
-
+    * God is the eternal one. He alone existed before anything else, and He will continue to exist forever.
+    * He is the almighty Creator of the heavens and the earth and all living beings.
+    * He is revealed in the Bible to be loving, just, sinless, perfect and infinitely wise.
+    * He is a covenant-keeping God, who always fulfills His promises.
+    * He is the one true God who exists as three persons–the Father, the Son, and the **[[:en:key-terms:holy-spirit|Holy Spirit]]**.
 ===== Examples from the Bible stories: =====
 
 [[:en:obs-training:frames:01-01|The Beginning [01-01]]]  "...**God** created the heavens and the earth and everything in them in six days."
@@ -17,9 +16,7 @@
 [[:en:obs-training:frames:01-15|Fill the earth [01-15]]]  "**God** made man and woman in his own image"
 
 
-[[:en:obs-training:frames:05-01|Hagar [05-01]]]  "**God** spoke to Abram and promised again that he would have a son and as many descendants as the stars in the sky. Abram believed **God’s** promise. **God** said that Abram was righteous through believing in **God's** promise."
-
 [[:en:obs-training:frames:05-03|Covenant Renewed [05-03]]]  "I am **God** Almighty. I will make a covenant with you."
 
-
+[[:en:obs-training:frames:09-14|The Name of God [09-14]]] God said, “I AM WHO I AM. Tell them, ‘I AM has sent me to you.’ This is My name forever.”
 ~~DISCUSSION~~

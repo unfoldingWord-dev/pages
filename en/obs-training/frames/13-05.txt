@@ -2,18 +2,16 @@
 
 {{:en:obs:obs-13-05.jpg?nolink&640x360}}
 
-“Do not make idols or worship them, for I, the LORD your God, am a jealous God. Do not use God’s name in a disrespectful way. Remember to keep the Sabbath day holy. Do all your work in six days, for the seventh day is a day of rest to remember the LORD.”
-
-[text] with inline links - **[[:en:key-terms:beginning|sample]]**
+“Do not make **[[:en:key-terms:idol|idols]]** or **[[:en:key-terms:worship|worship]]** them, for I, the **[[:en:key-terms:yhwh|LORD]]** your **[[:en:key-terms:god|God]]**, am a **jealous [[:en:key-terms:god|God]]**. Do not use **[[:en:key-terms:god|God's]]** name in a disrespectful way. Remember to **keep the [[:en:key-terms:sabbath|Sabbath]] day [[:en:key-terms:holy|holy]]**. Do all your work in six days, for the **seventh day** is a **day of rest** to remember the **[[:en:key-terms:yhwh|LORD]]**.”
 
 
 ===== Translation Notes: =====
 
 
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
+  * **jealous [[:en:key-terms:god|God]]** - explanation
+  * **keep the [[:en:key-terms:sabbath|Sabbath]] day [[:en:key-terms:holy|holy]]** - explanation
+  * **seventh day** - explanation
+  * **day of rest** - explanation
   
 
 **[[:en:obs-training:frames:13-04|<<]] | [[:en:obs-training:13-gods-covenant-with-israel|Up]] | [[:en:obs-training:frames:13-06|>>]]**
