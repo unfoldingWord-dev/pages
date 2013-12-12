@@ -2,17 +2,14 @@
 
 {{:en:obs:obs-13-01.jpg?nolink&640x360}}
 
-After God led the Israelites through the Red Sea, He led them through the wilderness to a mountain called Sinai. This was the same mountain where Moses saw the burning bush. The people set up their tents at the base of the mountain.
-
-[text] with inline links - **[[:en:key-terms:beginning|sample]]**
+After **[[:en:key-terms:god|God]]** led the **[[:en:key-terms:israel|Israelites]]** through the **[[:en:key-terms:res-sea|Red Sea]]**, He led them through the wilderness to a mountain called **[[:en:key-terms:sinai|Sinai]]**. This was the same mountain where **[[:en:key-terms:moses|Moses]]** saw the **burning bush**. The people **set up their tents** at the base of the mountain.
 
 
 ===== Translation Notes: =====
 
 
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
+  * **burning bush** - explanation
+  * **set up their tents** - explanation
   * **issue** - explanation
   
 
