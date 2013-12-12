@@ -2,17 +2,14 @@
 
 {{:en:obs:obs-13-14.jpg?nolink&640x360}}
 
-Then he beat the idol into powder, threw the powder into some water and made the people drink the water. God sent a plague on the people and many of them died.
-
-
-[text] with inline links - **[[:en:key-terms:beginning|sample]]**
+Then he beat the **[[:en:key-terms:idol|idol]]** into powder, threw the powder into some water and made the people drink the water. **[[:en:key-terms:god|God]]** sent **a plague** on the people and many of them died.
 
 
 ===== Translation Notes: =====
 
 
-  * **issue** - explanation
-  * **issue** - explanation
+  * **beat the [[:en:key-terms:idol|idol]] into powder** - explanation
+  * **a plague** - explanation
   * **issue** - explanation
   * **issue** - explanation
   
