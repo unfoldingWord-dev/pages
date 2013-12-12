@@ -2,16 +2,14 @@
 
 {{:en:obs:obs-13-04.jpg?nolink&640x360}}
 
-Then God gave them the covenant and said, “I am the LORD your God, who saved you from slavery in Egypt. Do not worship other gods.”
-
-[text] with inline links - **[[:en:key-terms:beginning|sample]]**
+Then **[[:en:key-terms:god|God]]** gave them **the [[:en:key-terms:covenant|covenant]]** and said, “I am the **[[:en:key-terms:yhwh|LORD]]** your **[[:en:key-terms:god|God]]**, who **[[:en:key-terms:save|saved]]** you from **[[:en:key-terms:servant|slavery]]** in **[[:en:key-terms:egypt|Egypt]]**. Do not **[[:en:key-terms:worship|worship]]** other gods.”
 
 
 ===== Translation Notes: =====
 
 
-  * **issue** - explanation
-  * **issue** - explanation
+  * **the [[:en:key-terms:covenant|covenant]]** - explanation
+  * **the [[:en:key-terms:yhwh|LORD]] your [[:en:key-terms:god|God]]** - explanation
   * **issue** - explanation
   * **issue** - explanation
   

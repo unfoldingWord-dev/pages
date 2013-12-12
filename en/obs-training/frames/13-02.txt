@@ -2,16 +2,14 @@
 
 {{:en:obs:obs-13-02.jpg?nolink&640x360}}
 
-God said to Moses and the people of Israel, “If you will obey My voice and keep My covenant, you will be My prized possession, a kingdom of priests, and a holy nation.”
-
-[text] with inline links - **[[:en:key-terms:beginning|sample]]**
+**[[:en:key-terms:god|God]]** said to **[[:en:key-terms:moses|Moses]]** and the people of **[[:en:key-terms:israel|Israel]]**, “If you will **[[:en:key-terms:obey|obey]]** **My voice** and keep My **[[:en:key-terms:covenant|covenant]]**, you will be **My prized possession**, a **[[:en:key-terms:kingdom|kingdom]]** of **[[:en:key-terms:priest|priests]]**, and a **[[:en:key-terms:holy|holy]]** nation.”
 
 
 ===== Translation Notes: =====
 
 
-  * **issue** - explanation
-  * **issue** - explanation
+  * **My voice** - explanation
+  * **My prized possession** - explanation
   * **issue** - explanation
   * **issue** - explanation
   
