@@ -2,15 +2,13 @@
 
 {{:en:obs:obs-12-09.jpg?nolink&640x360}}
 
-Then the cloud lifted and the Egyptians saw the Israelites escaping. They decided to chase after them.
-
-[text] with inline links - **[[:en:key-terms:beginning|sample]]**
+Then **the cloud lifted** and the **[[:en:key-terms:egypt|Egyptians]]** saw the **[[:en:key-terms:israel|Israelites]]** escaping. They decided to chase after them.
 
 
 ===== Translation Notes: =====
 
 
-  * **issue** - explanation
+  * **the cloud lifted** - explanation
   * **issue** - explanation
   * **issue** - explanation
   * **issue** - explanation
