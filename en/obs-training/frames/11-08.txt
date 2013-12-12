@@ -2,10 +2,7 @@
 
 {{:en:obs:obs-11-08.jpg?nolink&640x360}}
 
-Pharaoh called for Moses and Aaron and said, “Take the Israelites and leave Egypt immediately!” The Egyptians encouraged the Israelites to leave right away.
-
-
-[text] with inline links - **[[:en:key-terms:beginning|sample]]**
+**[[:en:key-terms:pharaoh|Pharaoh]]** called for **[[:en:key-terms:moses|Moses]]** and **[[:en:key-terms:aaron|Aaron]]** and said, “Take the **[[:en:key-terms:israel|Israelites]]** and leave **[[:en:key-terms:egypt|Egypt]]** immediately!” The **[[:en:key-terms:egypt|Egyptians]]** encouraged the **[[:en:key-terms:israel|Israelites]]** to leave right away.
 
 
 ===== Translation Notes: =====

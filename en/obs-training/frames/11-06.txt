@@ -2,16 +2,14 @@
 
 {{:en:obs:obs-11-06.jpg?nolink&640x360}}
 
-But the Egyptians did not believe God or obey His commands. So the angel of God did not pass over their houses. The angel of God killed every firstborn son in Egypt.
-
-[text] with inline links - **[[:en:key-terms:beginning|sample]]**
+But the **[[:en:key-terms:egypt|Egyptians]]** did not **[[:en:key-terms:believe|believe]]** **[[:en:key-terms:god|God]]** or obey His commands. So the **angel of [[:en:key-terms:god|God]]** did not **pass over** their houses. The **angel of [[:en:key-terms:god|God]]** killed every firstborn son in **[[:en:key-terms:egypt|Egypt]]**.
 
 
 ===== Translation Notes: =====
 
 
-  * **issue** - explanation
-  * **issue** - explanation
+  * **angel of [[:en:key-terms:god|God]]** - explanation
+  * **pass over** - explanation
   * **issue** - explanation
   * **issue** - explanation
   

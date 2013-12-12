@@ -2,15 +2,12 @@
 
 {{:en:obs:obs-12-01.jpg?nolink&640x360}}
 
-The Israelites were very happy to leave Egypt. They were no longer slaves, and they were going to the Promised Land! The Egyptians gave the Israelites gifts of gold and silver and other valuable things. Some people from other nations believed in God and joined the Israelites as they left Egypt.
-
-[text] with inline links - **[[:en:key-terms:beginning|sample]]**
+The **[[:en:key-terms:israel|Israelites]]** were very happy to leave **[[:en:key-terms:egypt|Egypt]]**. They were no longer **[[:en:key-terms:servant|slaves]]**, and they were going to the **[[:en:key-terms:promised-land|Promised Land]]**! The **[[:en:key-terms:egypt|Egyptians]]** gave the **[[:en:key-terms:israel|Israelites]]** gifts of gold and silver and other valuable things. Some people from other nations **[[:en:key-terms:believe|believed]]** in **[[:en:key-terms:god|God]]** and joined the **[[:en:key-terms:israel|Israelites]]** as they left **[[:en:key-terms:egypt|Egypt]]**.
 
 
 ===== Translation Notes: =====
 
 
-  * **issue** - explanation
   * **issue** - explanation
   * **issue** - explanation
   * **issue** - explanation

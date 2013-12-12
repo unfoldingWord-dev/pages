@@ -2,9 +2,7 @@
 
 {{:en:obs:obs-11-07.jpg?nolink&640x360}}
 
-From the firstborn of the prisoner in jail, to the firstborn of Pharaoh, every firstborn died. There was much weeping in Egypt.
-
-[text] with inline links - **[[:en:key-terms:beginning|sample]]**
+From the firstborn of the prisoner in jail, to the firstborn of **[[:en:key-terms:pharaoh|Pharaoh]]**, every firstborn died. There was much weeping in **[[:en:key-terms:egypt|Egypt]]**.
 
 
 ===== Translation Notes: =====
