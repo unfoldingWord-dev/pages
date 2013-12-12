@@ -2,16 +2,14 @@
 
 {{:en:obs:obs-12-11.jpg?nolink&640x360}}
 
-After the Israelites all made it safely to the other side, God told Moses to stretch out his hand again. When he obeyed, the water fell on the Egyptian army and returned to its normal place. The whole Egyptian army drowned.
-
-[text] with inline links - **[[:en:key-terms:beginning|sample]]**
+After the **[[:en:key-terms:israel|Israelites]]** all made it safely to the other side, **[[:en:key-terms:god|God]]** told **[[:en:key-terms:moses|Moses]]** to **stretch out his hand again**. When he obeyed, the **water fell** on the **[[:en:key-terms:egypt|Egyptian]]** army and returned to its normal place. The whole **[[:en:key-terms:egypt|Egyptian]]** army drowned.
 
 
 ===== Translation Notes: =====
 
 
-  * **issue** - explanation
-  * **issue** - explanation
+  * **stretch out his hand again** - explanation
+  * **water fell** - explanation
   * **issue** - explanation
   * **issue** - explanation
   
