@@ -2,16 +2,14 @@
 
 {{:en:obs:obs-14-09.jpg?nolink&640x360}}
 
-When the people heard this, they were sorry they had sinned. They took their weapons and went to attack Canaan. Moses warned them not to go because God was not with them, but they did not listen to him.
-
-[text] with inline links - **[[:en:key-terms:beginning|sample]]**
+When the people heard this, they were sorry **they had [[:en:key-terms:sin|sinned]]**. They took their weapons and went to attack **[[:en:key-terms:canaan|Canaan]]**. **[[:en:key-terms:moses|Moses]]** warned them not to go because **[[:en:key-terms:god|God]]** was **not with them**, but they did not listen to him.
 
 
 ===== Translation Notes: =====
 
 
-  * **issue** - explanation
-  * **issue** - explanation
+  * **they had [[:en:key-terms:sin|sinned]]** - explanation
+  * **not with them** - explanation
   * **issue** - explanation
   * **issue** - explanation
   

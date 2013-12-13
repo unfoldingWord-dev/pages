@@ -2,16 +2,14 @@
 
 {{:en:obs:obs-14-10.jpg?nolink&640x360}}
 
-God did not go with them into this battle, so they were defeated and many of them were killed. Then the rest of the Israelites turned back from Canaan and wandered through the wilderness for forty years.
-
-[text] with inline links - **[[:en:key-terms:beginning|sample]]**
+**[[:en:key-terms:god|God]] did not go with them** into this battle, so they were defeated and many of them were killed. Then the rest of the **[[:en:key-terms:israel|Israelites]]** turned back from **[[:en:key-terms:canaan|Canaan]]** and **wandered through the wilderness** for forty years.
 
 
 ===== Translation Notes: =====
 
 
-  * **issue** - explanation
-  * **issue** - explanation
+  * **[[:en:key-terms:god|God]] did not go with them** - explanation
+  * **wandered through the wilderness** - explanation
   * **issue** - explanation
   * **issue** - explanation
   

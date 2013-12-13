@@ -2,16 +2,13 @@
 
 {{:en:obs:obs-14-07.jpg?nolink&640x360}}
 
-But the people were mad at Moses and Aaron and said, “Oh, why did you bring us to this horrible place? We should have stayed in Egypt rather than be killed in battle and our wives and children made slaves.” The people wanted to kill them and choose a new leader to bring them back to Egypt.
-
-
-[text] with inline links - **[[:en:key-terms:beginning|sample]]**
+But the people were mad at **[[:en:key-terms:moses|Moses]]** and **[[:en:key-terms:aaron|Aaron]]** and said, “Oh, why did you bring us to this horrible place? We should have stayed in **[[:en:key-terms:egypt|Egypt]]** rather than be killed in battle and our wives and children made **[[:en:key-terms:servant|slaves]]**.” The people wanted to kill them and choose a new leader to bring them back to **[[:en:key-terms:egypt|Egypt]]**.
 
 
 ===== Translation Notes: =====
 
 
-  * **issue** - explanation
+  * **this horrible place** - explanation
   * **issue** - explanation
   * **issue** - explanation
   * **issue** - explanation
