@@ -2,17 +2,14 @@
 
 {{:en:obs:obs-15-07.jpg?nolink&640x360}}
 
-When the other Canaanites heard that the Gibeonites had made peace with the Israelites, they joined their armies and attacked Gibeon. The Gibeonites sent a message to Joshua asking for help.
-
-
-[text] with inline links - **[[:en:key-terms:beginning|sample]]**
+When the other **[[:en:key-terms:canaan|Canaanites]]** heard that the **[[:en:key-terms:gibeon|Gibeonites]]** had **made peace with** the **[[:en:key-terms:israel|Israelites]]**, they joined their armies and attacked **[[:en:key-terms:gibeon|Gibeon]]**. The **[[:en:key-terms:gibeon|Gibeonites]]** sent a message to **[[:en:key-terms:joshua|Joshua]]** asking for help.
 
 
 ===== Translation Notes: =====
 
 
-  * **issue** - explanation
-  * **issue** - explanation
+  * **made peace with** - explanation
+  * **joined their armies** - explanation
   * **issue** - explanation
   * **issue** - explanation
   
