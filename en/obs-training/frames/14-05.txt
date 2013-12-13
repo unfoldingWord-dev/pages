@@ -2,15 +2,13 @@
 
 {{:en:obs:obs-14-05.jpg?nolink&640x360}}
 
-The men spied on Canaan for forty days, then they came back. Ten of the spies gave a bad report, saying, “The land is very good, and the crops are great! But the cities are very strong, and the people are giants! If we attack them, we will surely die!”
-
-[text] with inline links - **[[:en:key-terms:beginning|sample]]**
+The men spied on **[[:en:key-terms:canaan|Canaan]]** for forty days, then they came back. Ten of the spies gave a **bad report**, saying, “The land is very good, and the crops are great! But the cities are very strong, and the people are giants! If we attack them, we will surely die!”
 
 
 ===== Translation Notes: =====
 
 
-  * **issue** - explanation
+  * **bad report** - explanation
   * **issue** - explanation
   * **issue** - explanation
   * **issue** - explanation
