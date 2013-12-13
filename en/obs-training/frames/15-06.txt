@@ -2,15 +2,13 @@
 
 {{:en:obs:obs-15-06.jpg?nolink&640x360}}
 
-The Canaanite tribe of Gibeon lied to Joshua and said they were from far away. They asked Joshua to make peace with them. God had commanded the Israelites not to make peace with any Canaanites, but Joshua and the Israelites did not ask God where the Gibeonites were from. So Joshua made peace with them.
-
-[text] with inline links - **[[:en:key-terms:beginning|sample]]**
+The **[[:en:key-terms:canaan|Canaanite]]** tribe of **[[:en:key-terms:gibeon|Gibeon]]** lied to **[[:en:key-terms:joshua|Joshua]]** and said they were from far away. They asked **[[:en:key-terms:joshua|Joshua]]** to **make [[:en:key-terms:peace|peace]] with** them. **[[:en:key-terms:god|God]]** had commanded the **[[:en:key-terms:israel|Israelites]]** not to make **[[:en:key-terms:peace|peace]]** with any **[[:en:key-terms:canaan|Canaanites]]**, but **[[:en:key-terms:joshua|Joshua]]** and the **[[:en:key-terms:israel|Israelites]]** did not ask **[[:en:key-terms:god|God]]** where the **[[:en:key-terms:gibeon|Gibeonites]]** were from. So **[[:en:key-terms:joshua|Joshua]] made [[:en:key-terms:peace|peace]] with** them.
 
 
 ===== Translation Notes: =====
 
 
-  * **issue** - explanation
+  * **make [[:en:key-terms:peace|peace]] with** - explanation
   * **issue** - explanation
   * **issue** - explanation
   * **issue** - explanation

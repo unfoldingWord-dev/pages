@@ -2,15 +2,13 @@
 
 {{:en:obs:obs-15-05.jpg?nolink&640x360}}
 
-And the walls around the city fell down! The Israelites destroyed everything in the city as God had commanded. Only Rahab and her family were saved. They became part of the Israelites. When the rest of the Canaanites heard about what had happened to Jericho they were terrified.
-
-[text] with inline links - **[[:en:key-terms:beginning|sample]]**
+And the walls around the city fell down! The **[[:en:key-terms:israel|Israelites]]** destroyed everything in the city as **[[:en:key-terms:god|God]]** had commanded. Only **[[:en:key-terms:rahab|Rahab]]** and her family were **[[:en:key-terms:save|saved]]**. They **became part of** the **[[:en:key-terms:israel|Israelites]]**. When the rest of the **[[:en:key-terms:canaan|Canaanites]]** heard about what had happened to **[[:en:key-terms:jericho|Jericho]]** they were terrified.
 
 
 ===== Translation Notes: =====
 
 
-  * **issue** - explanation
+  * **became part of** - explanation
   * **issue** - explanation
   * **issue** - explanation
   * **issue** - explanation
