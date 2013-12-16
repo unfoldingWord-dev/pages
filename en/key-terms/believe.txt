@@ -1,9 +1,14 @@
 ====== Believe ======
 
-
+=== (Believe, Believe in) ===
 ===== Definitions: =====
 
+=== 1 Believe ===
+
   * to trust that something is true.
+  * to acknowledge that what someone has said is true.
+
+=== 2 Believe in === 
   * to trust or rely upon something or someone.
 
 ===== Examples from the Bible stories: =====
@@ -15,7 +20,8 @@
 
 [[:en:obs-training:frames:11-02|The Sacrifice [11-02]]] "God provided a way to save the firstborn of anyone who believed in Him."
 
-[[:en:obs-training:frames:11-06|The Sacrifice [11-06]]] "But the Egyptians did not believe God or obey His commands."
+[[:en:obs-training:frames:14-02|The Canaanites' Idols [14-02]]] The Canaanites did not **believe** in God. They worshiped false gods and did many evil things.  
 
+[[:en:obs-training:frames:37-05|I Am the Resurrection [37-05]]] Jesus replied, I am the Resurrection and the Life. Whoever **believes** in me will live, even though he dies. Everyone who **believes** in me will never die. Do you **believe** this?
 
 ~~DISCUSSION~~
