@@ -5,6 +5,7 @@
 
   * a male offspring
   * a boy or man in relation to his parents
+  * a man or boy in relation to someone who cares for him as if he were their offspring
   * a descendent of someone, even if separated by generations
 
 ===== Examples from the Bible stories: =====
@@ -15,6 +16,8 @@
 [[:en:obs-training:frames:04-09|God's Covenant [04-09]]] "I will give you a **son** from your own body."
 
 [[:en:obs-training:frames:05-05|Birth of Isaac [05-05]]] "Sarah gave birth to Abraham's **son**."
+
+[[:en:obs-training:frames:09-07|Pharaoh's Daughter [09-07]]] When she saw the baby, she took him as her own son. 
 
 [[:en:obs-training:frames:22-05|The Mother of the Messiah [22-05]]] "The angel explained, 'The Holy Spirit will come over you, and you will conceive. So your **son** will be called the **Son** of the Most High God.'"
 
