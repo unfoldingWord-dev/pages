@@ -4,6 +4,7 @@
 ===== Definitions: =====
 
   * a male offspring
+  * a boy or man in relation to his parents
   * a descendent of someone, even if separated by generations
 
 ===== Examples from the Bible stories: =====
@@ -14,6 +15,14 @@
 [[:en:obs-training:frames:04-09|God's Covenant [04-09]]] "I will give you a **son** from your own body."
 
 [[:en:obs-training:frames:05-05|Birth of Isaac [05-05]]] "Sarah gave birth to Abraham's **son**."
+
+[[:en:obs-training:frames:22-05|The Mother of the Messiah [22-05]]] "The angel explained, 'The Holy Spirit will come over you, and you will conceive. So your **son** will be called the **Son** of the Most High God.'"
+
+[[:en:obs-training:frames:31-08|The Son of God [31-08]]] "They worshiped Jesus, saying to him, 'Truly, you are the **Son** of God.'"
+
+[[:en:obs-training:frames:49-12|Jesus Died and Rose Again [49-12]]] "Jesus is the **Son** of God."
+
+
 
 
 ~~DISCUSSION~~
