@@ -3,12 +3,17 @@
 
 ===== Definitions: =====
 
-  * A male offspring. Also a descendent of someone, even if separated by generations.
+  * a male offspring
+  * a descendent of someone, even if separated by generations
 
 ===== Examples from the Bible stories: =====
 
 
-[[:en:obs-training:frames:0x-0x|Title [0x-0x]]]  "... Most 
+[[:en:obs-training:frames:04-08|No Son [04-08]]]  "God spoke to Abram and promised again that he would have a **son** and as many descendants as the stars in the sky. 
+
+[[:en:obs-training:frames:04-09|God's Covenant [04-09]]] "I will give you a **son** from your own body."
+
+[[:en:obs-training:frames:05-05|Birth of Isaac [05-05]]] "Sarah gave birth to Abraham's **son**."
 
 
 ~~DISCUSSION~~
