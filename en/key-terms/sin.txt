@@ -23,13 +23,17 @@
 
 [[:en:obs-training:frames:02-01|Man in God's Image [03-15]]] "God said, 'I will never again curse the ground because of humans or destroy the world with a flood, even though humans are **sinful** from their youth.'”
 
-[08-05] "His master’s wife tried to sleep with Joseph, but Joseph refused to **sin** against God in this way."
+[[:en:obs-training:frames:08-05|Joseph in Prison [08-05]]] "His master’s wife tried to sleep with Joseph, but Joseph refused to **sin** against God in this way."
 
 [13-09]  "...The blood of the sacrifice covered the person’s sin and made them clean in God’s sight."
 
+[[:en:obs-training:frames:13-10|The People Sin [13-10]]] But a short time after they promised to obey God, they **sinned** terribly.
+
 [13-12]  "...God was very angry with their sin and planned to destroy them."
 
-{17-07]  "...The Messiah is God’s Chosen One who would save the world from sin."
+[17-07]  "...The Messiah is God’s Chosen One who would save the world from sin."
+
+[[:en:obs-training:frames:17-13|Nathan Rebukes David [17-13]]]  God was not pleased with what David had done, so He sent the prophet Nathan to show David his **sin**.
 
 
 ~~DISCUSSION~~
