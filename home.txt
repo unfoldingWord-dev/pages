@@ -15,6 +15,7 @@
     * [[:et:home|Eesti (et)]]
     * [[:fa:home|فارسی (fa)]]
     * [[:fr:home|Français (fr)]]
+    * [[:gaj:home|Gadsup (gaj)]]
     * [[:hi:home|हिन्दी, हिंदी (hi)]]
     * [[:hu:home|Magyar (hu)]]
     * [[:id:home|Bahasa Indonesia (id)]]
