@@ -26,13 +26,13 @@
 
 [[:en:obs-training:frames:01-11|Two Trees [01-11]]]  "...God planted two special trees—the tree of **life** and the tree of the knowledge of good and evil."
 
-[17-09]  "However, toward the end of his [David's] **life** he sinned terribly before God."
+[[:en:obs-training:frames:17-09|God Blesses David [17-09]]] "However, toward the end of his [David's] **life** he sinned terribly before God."
 
-[27-01]  "One day, a lawyer came to Jesus to test him, saying, 'Teacher, what must I do to inherit eternal **life**?'"
+[[:en:obs-training:frames:27-01|The Lawyer's Question [27-01]]] "One day, a lawyer came to Jesus to test him, saying, 'Teacher, what must I do to inherit eternal **life**?'"
 
-[37-05]  "Jesus replied, 'I am the Resurrection and the **Life**.'"
+[[:en:obs-training:frames:35-05|I am the Resurrection [37-05]]] "Jesus replied, 'I am the Resurrection and the **Life**.'"
 
-[50-13]  "Christians will be given the crown of **life**."
+[[:en:obs-training:frames:50-13|The Crown of Life [50-13]]] "Christians will be given the crown of **life**."
 
 
 ~~DISCUSSION~~
