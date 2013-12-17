@@ -2,16 +2,14 @@
 
 {{:en:obs:obs-15-08.jpg?nolink&640x360}}
 
-Joshua was angry that he had been tricked, but he gathered the Israelite army, and they marched all night to reach the Gibeonites. In the early morning they surprised their Canaanite enemies and attacked them.
-
-[text] with inline links - **[[:en:key-terms:beginning|sample]]**
+**[[:en:key-terms:joshua|Joshua]]** was angry that he **had been tricked**, but he gathered the **[[:en:key-terms:israel|Israelite]]** army, and they marched all night to reach the **[[:en:key-terms:gibeon|Gibeonites]]**. In the early morning they surprised their **[[:en:key-terms:canaan|Canaanite]] enemies** and attacked them.
 
 
 ===== Translation Notes: =====
 
 
-  * **issue** - explanation
-  * **issue** - explanation
+  * **had been tricked** - explanation
+  * **[[:en:key-terms:canaan|Canaanite]] enemies** - explanation
   * **issue** - explanation
   * **issue** - explanation
   

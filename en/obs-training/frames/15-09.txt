@@ -2,16 +2,14 @@
 
 {{:en:obs:obs-15-09.jpg?nolink&640x360}}
 
-God threw the Canaanites into confusion. God fought for Israel that day by sending large hailstones that killed many of the Canaanites.
-
-[text] with inline links - **[[:en:key-terms:beginning|sample]]**
+**[[:en:key-terms:god|God]] threw the [[:en:key-terms:canaan|Canaanites]] into confusion**. **[[:en:key-terms:god|God]]** fought for **[[:en:key-terms:israel|Israel]]** that day by sending **large hailstones** that killed many of the **[[:en:key-terms:canaan|Canaanites]]**.
 
 
 ===== Translation Notes: =====
 
 
-  * **issue** - explanation
-  * **issue** - explanation
+  * **threw the [[:en:key-terms:canaan|Canaanites]] into confusion** - explanation
+  * **large hailstones** - explanation
   * **issue** - explanation
   * **issue** - explanation
   

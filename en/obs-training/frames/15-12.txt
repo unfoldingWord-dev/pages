@@ -2,17 +2,14 @@
 
 {{:en:obs:obs-15-12.jpg?nolink&640x360}}
 
-After this battle, God gave each tribe of Israel their own section of the Promised Land. Then God gave Israel peace along all its borders.
-
-
-[text] with inline links - **[[:en:key-terms:beginning|sample]]**
+After this battle, **[[:en:key-terms:god|God]]** gave **each tribe of [[:en:key-terms:israel|Israel]]** their own section of the **[[:en:key-terms:promised-land|Promised Land]]**. Then **[[:en:key-terms:god|God]]** gave **[[:en:key-terms:israel|Israel]]** **[[:en:key-terms:peace|peace]] along all its borders**.
 
 
 ===== Translation Notes: =====
 
 
-  * **issue** - explanation
-  * **issue** - explanation
+  * **each tribe of [[:en:key-terms:israel|Israel]]** - explanation
+  * **along all its borders** - explanation
   * **issue** - explanation
   * **issue** - explanation
   

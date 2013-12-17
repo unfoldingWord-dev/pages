@@ -2,9 +2,7 @@
 
 {{:en:obs:obs-15-11.jpg?nolink&640x360}}
 
-After this defeat, the rest of the Canaanites who were left gathered together to attack Israel. Joshua and the Israelites attacked and destroyed them.
-
-[text] with inline links - **[[:en:key-terms:beginning|sample]]**
+After this defeat, the rest of the **[[:en:key-terms:canaan|Canaanites]]** who were left gathered together to attack **[[:en:key-terms:israel|Israel]]**. **[[:en:key-terms:joshua|Joshua]]** and the **[[:en:key-terms:israel|Israelites]]** attacked and destroyed them.
 
 
 ===== Translation Notes: =====
