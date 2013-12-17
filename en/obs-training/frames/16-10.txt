@@ -2,9 +2,7 @@
 
 {{:en:obs:obs-16-10.jpg?nolink&640x360}}
 
-32,000 Israelite soldiers came to Gideon, but God told him this was too many. So Gideon sent home 22,000 who were too scared to fight. God told Gideon that he still had too many men. So Gideon sent all of them home except for 300 soldiers.
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+32,000 **[[:en:key-terms:israel|Israelite]]** soldiers came to **[[:en:key-terms:gideon|Gideon]]**, but **[[:en:key-terms:god|God]]** told him this was too many. So **[[:en:key-terms:gideon|Gideon]]** sent home 22,000 who were too scared to fight. **[[:en:key-terms:god|God]]** told **[[:en:key-terms:gideon|Gideon]]** that he still had too many men. So **[[:en:key-terms:gideon|Gideon]]** sent all of them home except for 300 soldiers.
 
 
 ===== Translation Notes: =====
