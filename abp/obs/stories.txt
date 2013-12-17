@@ -1,5 +1,5 @@
   - [[abp:obs:01-the-creation|The Creation]]
-    - [[abp:obs:01-the-creation|The Creation teachers guide]]
+    - [[abp:obs:01-the-creation teachers guide|The Creation teachers guide]]
   - [[abp:obs:02-sin-enters-the-world|Sin Enters the World]]
   - [[abp:obs:03-the-flood|The Flood]]
   - [[abp:obs:04-gods-covenant-with-abraham|God's Covenant with Abraham]]
