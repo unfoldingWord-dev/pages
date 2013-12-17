@@ -2,21 +2,18 @@
 
 {{:en:obs:obs-16-17.jpg?nolink&640x360}}
 
-God punished Israel again for worshiping idols. Their enemies defeated them. They finally asked God for help, and God sent them another deliverer. This pattern of sin, punishment, repentance, and deliverance was repeated many times. God sent many deliverers who saved Israel from their enemies.
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+**[[:en:key-terms:god|God]]** punished **[[:en:key-terms:israel|Israel]]** again for **[[:en:key-terms:worship|worshiping]]** **[[:en:key-terms:idol|idols]]**. Their enemies defeated them. They finally asked **[[:en:key-terms:god|God]]** for help, and **[[:en:key-terms:god|God]]** sent them another **deliverer**. **This pattern** of **[[:en:key-terms:sin|sin]]**, punishment, **[[:en:key-terms:repent|repentance]]**, and deliverance was repeated many times. **[[:en:key-terms:god|God]]** sent many deliverers who **[[:en:key-terms:save|saved]]** **[[:en:key-terms:israel|Israel]]** from their enemies.
 
 
 ===== Translation Notes: =====
 
-
-  * **issue** - explanation
-  * **issue** - explanation
+  * **deliverer** - explanation
+  * **This pattern** - explanation
   * **issue** - explanation
   * **issue** - explanation
   
 
-**[[:en:obs-training:frames:16-18|<<]] | [[:en:obs-training:16-the-deliverers|Up]] | [[:en:obs-training:frames:16-18|>>]]**
+**[[:en:obs-training:frames:16-16|<<]] | [[:en:obs-training:16-the-deliverers|Up]] | [[:en:obs-training:frames:16-18|>>]]**
 
 
 ~~DISCUSSION~~

@@ -2,16 +2,14 @@
 
 {{:en:obs:obs-16-16.jpg?nolink&640x360}}
 
-Then Gideon did a foolish thing. He made an idol with the money, and the people turned away from God again. They started worshiping Gideon’s idol.
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+Then **[[:en:key-terms:gideon|Gideon]]** did **a foolish thing**. He made an **[[:en:key-terms:idol|idol]]** with the money, and the people **turned away from [[:en:key-terms:god|God]]** again. They started **[[:en:key-terms:worship|worshiping]]** **[[:en:key-terms:gideon|Gideon's]]** **[[:en:key-terms:idol|idol]]**.
 
 
 ===== Translation Notes: =====
 
 
-  * **issue** - explanation
-  * **issue** - explanation
+  * **a foolish thing** - explanation
+  * **turned away from [[:en:key-terms:god|God]]** - explanation
   * **issue** - explanation
   * **issue** - explanation
   
