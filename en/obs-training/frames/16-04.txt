@@ -3,16 +3,14 @@
 
 {{:en:obs:obs-16-04.jpg?nolink&640x360}}
 
-They took all of the Israelites’ crops for seven years. The Israelites were so scared, they hid in caves so the Midianites would not find them. Finally, they cried out to God to save them.
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+They took all of the **[[:en:key-terms:israel|Israelites']]** crops for seven years. The **[[:en:key-terms:israel|Israelites]]** were **so scared**, they hid in caves so the **[[:en:key-terms:midian|Midianites]]** would not find them. Finally, they **cried out to [[:en:key-terms:god|God]]** to **[[:en:key-terms:save|save]]** them.
 
 
 ===== Translation Notes: =====
 
 
-  * **issue** - explanation
-  * **issue** - explanation
+  * **so scared** - explanation
+  * **cried out to** - explanation
   * **issue** - explanation
   * **issue** - explanation
   
