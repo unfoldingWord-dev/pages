@@ -3,7 +3,7 @@
 {{:en:obs:obs-04-04.jpg?nolink&640x360}}
 
 
-**Hundreds of years later, [[:en:key-terms:god|God]]** spoke to a man named **[[:en:key-terms:abram|Abram]]**. **[[:en:key-terms:god|God]]** told him, "**Leave your country** and family and go to **the land I will show you**. I will **[[:en:key-terms:bless|bless]]** you and make you a great nation. I will **make your name great**. I will **[[:en:key-terms:bless|bless]]** those who **[[:en:key-terms:bless|bless]]** you and **[[:en:key-terms:curse|curse]]** those who **[[:en:key-terms:curse|curse]]** you. **All families on earth** will be **[[:en:key-terms:bless|blessed]]** because of you."
+**Hundreds of years later, [[:en:key-terms:god|God]]** spoke to a man named **[[:en:key-terms:abram|Abram]]**. **[[:en:key-terms:god|God]]** told him, "**Leave your country** and **family** and go to **the land I will show you**. I will **[[:en:key-terms:bless|bless]]** you and make you a great nation. I will **make your name great**. I will **[[:en:key-terms:bless|bless]]** those who **[[:en:key-terms:bless|bless]]** you and **[[:en:key-terms:curse|curse]]** those who **[[:en:key-terms:curse|curse]]** you. **All families on earth** will be **[[:en:key-terms:bless|blessed]]** because of you."
 
 ===== Translation Notes: =====
 
@@ -11,9 +11,9 @@
   * **Hundreds of years later** – This could be translated as, ”many generations after the people split into different language groups at Babel...” or ”a long time after that happened...” 
   * **your country** - This refers to the area where Abram was born and grew up (a region in Central Asia called "Ur"). It could be translated as “native region” or "homeland" or something similar. 
   * **Leave your...family** – God was calling Abram to leave behind most of his relatives. However, God was not telling Abram to abandon the people he was responsible for, including his wife and his nephew. 
-  * **the land I will show you** - God did not reveal the location of the land until Abram obeyed and left his own country
-  * **make your name great** - Abram's name and reputation would be known by all and viewed positively
-  * **all families on earth** - Abram's decision to follow God would affect not only his family, but families from every people group on earth
+ <del> * **the land I will show you** - God did not reveal the location of the land until Abram obeyed and left his own country</del>  
+  * **make your name great** - This means that Abram's name and family would become well-known throughout the world and people would think well of them.
+  * **all families on earth** - Abram's decision to follow God would affect not only his own family, but families from every people group on earth.
 
 **[[:en:obs-training:frames:04-03|<<]] | [[:en:obs-training:04-gods-covenant-with-abraham|Up]] | [[:en:obs-training:frames:04-05|>>]]**
 
