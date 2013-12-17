@@ -2,15 +2,13 @@
 
 {{:en:obs:obs-16-06.jpg?nolink&640x360}}
 
-God told Gideon to tear down his father’s idol. Gideon was afraid of the people, so he waited until nighttime. Then he tore down the idol and smashed it to pieces. He built an altar to God where the idol used to be and made a sacrifice to God.
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+**[[:en:key-terms:god|God]]** told **[[:en:key-terms:gideon|Gideon]]** to tear down his father’s **[[:en:key-terms:idol|idol]]**. **[[:en:key-terms:gideon|Gideon]]** was **afraid of the people**, so he waited until nighttime. Then he tore down the **[[:en:key-terms:idol|idol]]** and smashed it to pieces. He built an **[[:en:key-terms:altar|altar]]** to **[[:en:key-terms:god|God]]** where the **[[:en:key-terms:idol|idol]]** used to be and made a **[[:en:key-terms:sacrifice|sacrifice]]** to **[[:en:key-terms:god|God]]**.
 
 
 ===== Translation Notes: =====
 
 
-  * **issue** - explanation
+  * **afraid of the people** - explanation
   * **issue** - explanation
   * **issue** - explanation
   * **issue** - explanation

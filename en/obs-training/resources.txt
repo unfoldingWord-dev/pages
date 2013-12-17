@@ -1,3 +1,5 @@
+====== Translation Training Resources ======
+
 These are resources that may be useful for people interested in gaining the background knowledge needed to be effective Translation Trainers.
 
 ===== missions =====
@@ -12,6 +14,6 @@ These are resources that may be useful for people interested in gaining the back
 ===== translation =====
 
   * **Bible Translation Basics: Communicating Scripture in a Relevant Way** by Harriet Hill, Ernst-August Gutt, Margaret Hill, Christoph Unger, Rick Floyd - available on [[http://www.amazon.com/Bible-Translation-Basics-Communicating-Scripture/dp/1556712693|Amazon]], [[http://www.amazon.com/Bible-Translation-Basics-Communicating-Scripture-ebook/dp/B007VSX1IM|Kindle]])
-  * **Bible Translation: An Introductory Course in Translation Principles** by Katherine Barnhart - available on [[http://www.sil.org/resources/publications/entry/6690|SIL]]
+  * **Bible Translation: An Introductory Course in Translation Principles** by Katherine Barnwell - available on [[http://www.sil.org/resources/publications/entry/6690|SIL]]
   * **The Theory and Practice of Translation** by E. A. Nida and C. R. Taber - available on [[http://www.amazon.com/Theory-Practice-Translation-Eugene-Nida/dp/9004132813|Amazon]]
   * **Translating the Word of God** by J. Beekman and J. C. Callow.
