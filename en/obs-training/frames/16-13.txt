@@ -2,18 +2,16 @@
 
 {{:en:obs:obs-16-13.jpg?nolink&640x360}}
 
-Then, at the same time, they all broke the pots that were hiding the torches. They blew their horns and shouted, “A sword for God and for Gideon!”
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+Then, at the same time, they all broke **the pots** that were hiding **the torches**. They blew **their horns** and shouted, “**A sword for [[:en:key-terms:god|God]] and for [[:en:key-terms:gideon|Gideon]]**!”
 
 
 ===== Translation Notes: =====
 
 
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
+  * **the pots** - explanation
+  * **the torches** - explanation
+  * **their horns** - explanation
+  * **A sword for [[:en:key-terms:god|God]] and for [[:en:key-terms:gideon|Gideon]]** - explanation
   
 
 **[[:en:obs-training:frames:16-12|<<]] | [[:en:obs-training:16-the-deliverers|Up]] | [[:en:obs-training:frames:16-14|>>]]**

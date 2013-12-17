@@ -2,15 +2,13 @@
 
 {{:en:obs:obs-16-11.jpg?nolink&640x360}}
 
-That night God told Gideon, “Go down to the Midianite camp and when you hear what they say, you will no longer be afraid.” So that night, Gideon went down to the camp and heard a Midianite soldier telling his friend about a dream. The man’s friend said, “This dream means that Gideon will defeat Midian!” Gideon worshiped God.
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+That night **[[:en:key-terms:god|God]]** told **[[:en:key-terms:gideon|Gideon]]**, “Go down to the **[[:en:key-terms:midian|Midianite]]** camp and when you hear what they say, you will no longer be afraid.” So that night, **[[:en:key-terms:gideon|Gideon]]** **went down** to the camp and heard a **[[:en:key-terms:midian|Midianite]]** soldier telling his friend about a dream. The man’s friend said, “This dream means that **[[:en:key-terms:gideon|Gideon]]** will defeat **[[:en:key-terms:midian|Midian]]**!” **[[:en:key-terms:gideon|Gideon]]** **[[:en:key-terms:worship|worshiped]]** **[[:en:key-terms:god|God]]**.
 
 
 ===== Translation Notes: =====
 
 
-  * **issue** - explanation
+  * **went down** - explanation
   * **issue** - explanation
   * **issue** - explanation
   * **issue** - explanation
