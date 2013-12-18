@@ -2,7 +2,7 @@
 
 {{:en:obs:obs-05-07.jpg?nolink&640x360}}
 
-As they walked to the **place of the [[:en:key-terms:sacrifice|sacrifice]]** **[[:en:key-terms:isaac|Isaac]]** asked, “Father, we have **wood for the [[:en:key-terms:sacrifice|sacrifice]]**, but where is **the [[:en:key-terms:lamb|lamb]]**?” **[[:en:key-terms:abraham|Abraham]]** replied, “**[[:en:key-terms:god|God]]** will provide the **[[:en:key-terms:lamb|lamb]]**.”
+As they walked to the **place of the [[:en:key-terms:sacrifice|sacrifice]]**, **[[:en:key-terms:isaac|Isaac]]** asked, “Father, we have **wood for the [[:en:key-terms:sacrifice|sacrifice]]**, but where is **the [[:en:key-terms:lamb|lamb]]**?” **[[:en:key-terms:abraham|Abraham]]** replied, “**[[:en:key-terms:god|God]]** will provide the **[[:en:key-terms:lamb|lamb]]**.”
 
 ===== Translation Notes: =====
 
@@ -10,6 +10,7 @@ As they walked to the **place of the [[:en:key-terms:sacrifice|sacrifice]]** **[
   * **place of sacrifice** - explanation
   * **wood for the sacrifice** - explanation
   * **the lamb** - explanation
+  * **provide** - Abraham believed that God would give/make a lamb available for his sacrifice. 
   
 
 **[[:en:obs-training:frames:05-06|<<]] | [[:en:obs-training:05-the-son-of-promise|Up]] | [[:en:obs-training:frames:05-08|>>]]**
