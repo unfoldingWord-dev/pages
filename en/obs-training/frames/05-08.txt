@@ -3,7 +3,7 @@
 
 {{:en:obs:obs-05-08.jpg?nolink&640x360}}
 
-When they reached the **place of [[:en:key-terms:sacrifice|sacrifice]]**, **[[:en:key-terms:abraham|Abraham]] tied up his [[:en:key-terms:son|son]]** **[[:en:key-terms:isaac|Isaac]]** and **laid him on an [[:en:key-terms:altar|altar]]**. He was about to **kill his [[:en:key-terms:son|son]]** when **[[:en:key-terms:god|God]]** said, "**Stop! Do not hurt the boy!** Now I know that you fear me because you did not keep **your only [[:en:key-terms:son|son]]** from me."
+When they reached the **place of [[:en:key-terms:sacrifice|sacrifice]]**, **[[:en:key-terms:abraham|Abraham]] tied up his [[:en:key-terms:son|son]]** **[[:en:key-terms:isaac|Isaac]]** and **laid him on an [[:en:key-terms:altar|altar]]**. He was about to **kill his [[:en:key-terms:son|son]]** when **[[:en:key-terms:god|God]]** said, "**Stop! Do not hurt the boy!** Now I know that **you fear me** because you did not keep **your only [[:en:key-terms:son|son]]** from me."
 
 ===== Translation Notes: =====
 
@@ -12,7 +12,8 @@ When they reached the **place of [[:en:key-terms:sacrifice|sacrifice]]**, **[[:e
   * **tied up his son** - explanation
   * **laid him on an altar** - explanation
   * **Kill his son** - explanation
-  * **Stop! Do no hurt the boy!** - explanation
+  * **Stop! Do no hurt the boy!** - God protected Isaac and kept Abraham from killing him.
+  * **you fear me** - Abraham feared God, which included respect and reverence for God. Because of those things, he obeyed God.
   * **your only son** - explanation
   
 
