@@ -20,4 +20,4 @@
 
 **[[en/obs-training/frames/01-10|<<]] | [[:en:obs-training:01-the-creation:|Up]] | [[en/obs-training/frames/01-12|>>]]**
 
-~~DISCUSSION:off~~
+~~DISCUSSION:closed~~

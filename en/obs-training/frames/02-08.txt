@@ -18,4 +18,4 @@ Then **[[:en:key-terms:god|God]]** asked, “**Who told you that you were naked?
 **[[:en:obs-training:frames:02-07|<<]] | [[:en:obs-training:02-sin-enters-the-world|Up]] | [[:en:obs-training:frames:02-09|>>]]**
 
 
-~~DISCUSSION:off~~
+~~DISCUSSION:closed~~

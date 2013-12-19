@@ -15,4 +15,4 @@ The woman saw that the fruit was beautiful and looked delicious. She also wanted
 
 **[[:en:obs-training:frames:02-04|<<]] | [[:en:obs-training:02-sin-enters-the-world|Up]] | [[:en:obs-training:frames:02-06|>>]]**
 
-~~DISCUSSION:off~~
+~~DISCUSSION:closed~~

@@ -16,4 +16,4 @@
 
 **[[:en:obs-training:frames:05-03|<<]] | [[:en:obs-training:05-the-son-of-promise|Up]] | [[:en:obs-training:frames:05-05|>>]]**
 
-~~DISCUSSION~~
+~~DISCUSSION:closed~~

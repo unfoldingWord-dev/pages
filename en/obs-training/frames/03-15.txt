@@ -20,4 +20,4 @@
 **[[:en:obs-training:frames:03-14|<<]] | [[:en:obs-training:03-the-flood|Up]] | [[:en:obs-training:frames:03-16|>>]]**
 
 
-~~DISCUSSION:off~~
+~~DISCUSSION:closed~~

@@ -18,4 +18,4 @@ But there was a **crafty snake** in the garden. He asked the woman, “**Did [[:
 **[[:en:obs-training:frames:02-01|<<]] | [[:en:obs-training:02-sin-enters-the-world|Up]] | [[:en:obs-training:frames:02-03|>>]]**
 
 
-~~DISCUSSION:off~~
+~~DISCUSSION:closed~~

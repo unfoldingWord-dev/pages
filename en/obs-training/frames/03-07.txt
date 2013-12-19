@@ -17,4 +17,4 @@ Then it began to **rain, and rain, and rain**. It rained for forty days and fort
 **[[:en:obs-training:frames:03-06|<<]] | [[:en:obs-training:03-the-flood|Up]] | [[:en:obs-training:frames:03-08|>>]]**
 
 
-~~DISCUSSION:off~~
+~~DISCUSSION:closed~~

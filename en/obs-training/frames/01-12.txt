@@ -17,4 +17,4 @@ Then **[[:en:key-terms:god|God]]** said, "It is **not [[:en:key-terms:good|good]
 
 **[[en/obs-training/frames/01-11|<<]] | [[:en:obs-training:01-the-creation:|Up]] | [[en/obs-training/frames/01-13|>>]]**
 
-~~DISCUSSION:off~~
+~~DISCUSSION:closed~~
