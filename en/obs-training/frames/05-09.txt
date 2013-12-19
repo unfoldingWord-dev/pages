@@ -2,14 +2,13 @@
 
 {{:en:obs:obs-05-09.jpg?nolink&640x360}}
 
-Nearby **[[:en:key-terms:abraham|Abraham]]** saw **a ram** which was **stuck in a bush**. **[[:en:key-terms:god|God]] had provided the ram** to be the **[[:en:key-terms:sacrifice|sacrifice]]** instead of **[[:en:key-terms:isaac|Isaac]]**. **[[:en:key-terms:abraham|Abraham]]** happily offered the ram as a **[[:en:key-terms:sacrifice|sacrifice]]**.
+Nearby **[[:en:key-terms:abraham|Abraham]]** saw **a ram** which was stuck in a bush. **[[:en:key-terms:god|God]] had provided the ram** to be the **[[:en:key-terms:sacrifice|sacrifice]]** instead of **[[:en:key-terms:isaac|Isaac]]**. **[[:en:key-terms:abraham|Abraham]]** happily offered the ram as a **[[:en:key-terms:sacrifice|sacrifice]]**.
 
 ===== Translation Notes: =====
 
 
   * **a ram** - A ram is a male goat. Goats were one of the animals that people could sacrifice to God.
-  * **stuck in a bush** - 
-  * **God had provided the ram** - Just at the right moment, God caused the ram to be stuck in the bush.   
+  * **[[:en:key-terms:god|God]] had provided the ram** - Just at the right moment, God caused the ram to be stuck in the bush.   
 
 **[[:en:obs-training:frames:05-08|<<]] | [[:en:obs-training:05-the-son-of-promise|Up]] | [[:en:obs-training:frames:05-10|>>]]**
 
