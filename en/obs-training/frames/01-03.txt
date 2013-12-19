@@ -18,4 +18,4 @@ On **the second day** of creation, **[[:en:key-terms:god|God]] spoke** and **cre
 
 **[[en/obs-training/frames/01-02|<<]] | [[:en:obs-training:01-the-creation|Up]] | [[en/obs-training/frames/01-04|>>]]**
 
-~~DISCUSSION:off~~
+~~ DISCUSSION:closed ~~
