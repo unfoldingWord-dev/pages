@@ -1,9 +1,13 @@
 ====== Wise ======
 
+=== (Wise, Wisdom, Wisely) ===
 
 ===== Definitions: =====
 
-  * Decisions and actions that are in accordance with the existence and nature of God.
+  * Having important knowledge and experience
+  * Having good judgment
+  * Being able to make good choices
+  * Knowing what is right and doing it
 
 
 ===== Examples from the Bible stories: =====
@@ -11,7 +15,10 @@
 
 [[:en:obs-training:frames:02-05|Disobedience [02-05]]]  "She also wanted to be **wise**." \\
 
-[[:en:obs-training:frames:16-15|Disobedience [16-15]]] "The people wanted to make Gideon their king. Gideon wisely refused their offer," \\ 
+[[:en:obs-training:frames:16-15|An Offering for Gideon [16-15]]] "The people wanted to make Gideon their king. Gideon **wisely** refused their offer," \\ 
 
+[[:en:obs-training:frames:18-01|God Makes Solomon Wise [18-01]]] "When Solomon asked for **wisdom**, God was pleased and made him the **wisest** man in the world." \\ 
+
+[[:en:obs-training:frames:23-09|The Wise Men Visit [23-09]]] "Some time later, wise men from countries far to the east saw an unusual star in the sky." \\ 
 
 ~~DISCUSSION~~
