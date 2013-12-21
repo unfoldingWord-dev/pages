@@ -13,7 +13,11 @@
 ===== Examples from the Bible stories: =====
 
 
-[[:en:obs-training:frames:0x-0x|The Altar [13-09]]] A priest would kill the animal and burn it on the altar
+[[:en:obs-training:frames:0x-0x|The Altar [13-09]]] A priest would kill the animal and burn it on the **altar**.
 
 
+[[:en:obs-training:frames:0x-0x|Gideon Destroys the Idol [16-06]]]He built an **altar** to God where the idol used to be and made a sacrifice to God.
+
+
+The Sacrifice [05-08] When they reached the place of sacrifice, Abraham tied up his son Isaac and laid him on an **altar**.
 ~~DISCUSSION~~
