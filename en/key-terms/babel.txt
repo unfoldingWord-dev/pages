@@ -3,12 +3,14 @@
 
 ===== Definitions: =====
 
-  * The ancient Middle-Eastern city where God confused the languages. The word "Babel" means "confusion."
+
+    * The ancient Middle-Eastern city where God confused the languages.
+    * The word "Babel" means "confusion."
 
 ===== Examples from the Bible stories: =====
 
 
-[[:en:obs-training:frames:0x-0x|Title [0x-0x]]]  "... Most 
+[[:en:obs-training:frames:0x-0x|Many Languages [04-03]]] The city they had begun to build was called Babel, which means "confused."
 
 
 ~~DISCUSSION~~
