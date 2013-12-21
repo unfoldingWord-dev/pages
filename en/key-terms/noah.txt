@@ -3,13 +3,14 @@
 
 ===== Definitions: =====
 
-  * The righteous man who built the ark and survived the flood with his family.
 
+    * Noah was a righteous man who obeyed God. He built a huge boat and survived the worldwide flood with his family. 
 
 ===== Examples from the Bible stories: =====
 
 
-[[:en:obs-training:frames:0x-0x|Title [0x-0x]]]  "... Most 
+<font 14px line-height: 19.600000381469727px;/Lato, sans-serif;;#000000;;rgb(238, 238, 238) color: rgb(51, 51, 51); font-family: Lato, sans-serif; font-size: 14px; line-height: 19.600000381469727px;>03-02 But **Noah** found grace in God's eyes.</font>
 
 
+03-04 **Noah** obeyed God. He and his three sons built the boat just the way God had told them
 ~~DISCUSSION~~
