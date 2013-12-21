@@ -6,13 +6,22 @@
 
 ===== Definitions: =====
 
-  * A covenant, promise, or binding agreement between two or more people (also see [[:en:key-terms:covenant|covenant]]).
 
+    * A covenant, promise, or binding agreement between two or more people (also see [[:en:key-terms:covenant|covenant]]).
+    * To state that one will definitely do something or that something will definitely happen.
+    * A vow or commitment to make something happen.
+    * A declaration that someone will certainly do something or that something will certainly happen.
 
 ===== Examples from the Bible stories: =====
 
 
-[[:en:obs-training:frames:0x-0x|Title [0x-0x]]]  "... Most 
+[[:en:obs-training:frames:0x-0x|]]] God then made the first rainbow as a sign of His promise. Every time the rainbow appeared in the sky, God would remember what He **promised** and so would His people.
+
+
+[[:en:obs-training:frames:0x-0x|]]] God declared that Abram was righteous because he believed in God's **promise**.
+
+
+[[:en:obs-training:frames:0x-0x|Title [05-04]]] 05-04 "Your wife, Sarai, will have a son‚he will be the son of **promise**. <font 13px/arial;;#000000;;#ffffff>I will make Ishmael a great nation, too, but my covenant will be with Isaac."</font> 
 
 
 ~~DISCUSSION~~
