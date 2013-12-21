@@ -11,8 +11,9 @@
 
 
     * This is the presence of the spirit in the body. God breathed life into Adam's body, and he became a living being.
-    * A "life" can also refer to individual people, as in “several lives were saved”.
-    * Sometimes the word "life" refers to the experience of living as in, "made their lives miserable."
+    * A "life" can also refer to an individual person, as in “several lives were saved”.
+    * Sometimes the word "life" refers to the experience of living as in, "made their lives miserable" or to one's lifespan as in "toward the end of his life."
+    * To be "living" may refer to being alive or to residing somewhere.
     * The opposite of life is **[[:en:key-terms:death|death]]**.
 
 
@@ -29,9 +30,6 @@
 [[:en:obs-training:frames:01-10|Adam Created [01-10]]] "So God took some dirt, formed it into a man, and breathed **life** into him."
 
 
-[[:en:obs-training:frames:01-11|Two Trees [01-11]]] "…God planted two special trees—the tree of **life** and the tree of the knowledge of good and evil."
-
-
 [[:en:obs-training:frames:17-09|God Blesses David [17-09]]] "However, toward the end of his [David's] **life** he sinned terribly before God."
 
 
@@ -41,5 +39,4 @@
 [[:en:obs-training:frames:35-05|I am the Resurrection [37-05]]] "Jesus replied, 'I am the Resurrection and the **Life**.'"
 
 
-[[:en:obs-training:frames:50-13|The Crown of Life [50-13]]] "Christians will be given the crown of **life**."
 ~~DISCUSSION~~
