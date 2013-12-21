@@ -12,7 +12,16 @@
 ===== Examples from the Bible stories: =====
 
 
-[[:en:obs-training:frames:0x-0x|Title [0x-0x]]]  "... Most 
+[[:en:obs-training:frames:0x-0x|Title []]<font 14px line-height: 19.600000381469727px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;#000000;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.600000381469727px; background-color: rgb(238, 238, 238);>03-14</font> [[:en:obs-training:frames:0x-0x|]]] <font 14px line-height: 19.600000381469727px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;#000000;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.600000381469727px; background-color: rgb(238, 238, 238);>After he got off the boat, Noah built an altar and sacrificed some of each kind of animal which could be used for a sacrifice.</font> 
+
+
+[[:en:obs-training:frames:0x-0x|Title []]<font 14px line-height: 19.600000381469727px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;#000000;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.600000381469727px; background-color: rgb(238, 238, 238);>03-14</font> [[:en:obs-training:frames:0x-0x|]]]<font 14px line-height: 19.600000381469727px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;#000000;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.600000381469727px; background-color: rgb(238, 238, 238);>God was happy with the sacrifice and blessed Noah and his family.</font> 
+
+
+[[:en:obs-training:frames:0x-0x|Title []]<font 14px line-height: 19.600000381469727px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;#000000;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.600000381469727px; background-color: rgb(238, 238, 238);>05-06</font> [[:en:obs-training:frames:0x-0x|]]]<font 14px line-height: 19.600000381469727px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;#000000;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.600000381469727px; background-color: rgb(238, 238, 238);>“Take Isaac, your only son, and kill him as a sacrifice to me.” Again Abraham obeyed God and prepared to sacrifice his son.</font> 
+
+
+[[:en:obs-training:frames:0x-0x|Title ]][<font 14px line-height: 19.600000381469727px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;#000000;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.600000381469727px; background-color: rgb(238, 238, 238);>05-09</font> [[:en:obs-training:frames:0x-0x|]]]<font 14px line-height: 19.600000381469727px; background-color: rgb(238, 238, 238);/Lato, sans-serif;;#000000;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19.600000381469727px; background-color: rgb(238, 238, 238);>God had provided the ram to be the sacrifice instead of Isaac.</font> 
 
 
 ~~DISCUSSION~~
