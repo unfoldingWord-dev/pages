@@ -1,6 +1,8 @@
 ====== Disobey ======
 
 
+(disobey, disobedience)
+
 ===== Definitions: =====
 
 
@@ -13,8 +15,13 @@
 ===== Examples from the Bible stories: =====
 
 
-[[:en:obs-training:frames:02-11|The Man Is Cursed [02-11]]] "God said to the man, “You listened to your wife and **disobeyed** me."
+[[:en:obs-training:frames:02-11|The Man Is Cursed [02-11]]] God said to the man, “You listened to your wife and **disobeyed** me."
 
-[13-07]  "...If the people obeyed these laws, God promised that He would bless and protect them. If they **disobeyed** them, God would punish them."
 
-[35-12]  "He said, ‘All these years I’ve worked so faithfully for you! I never **disobeyed** you,..."
+The Stone Tablets [13-07] If the people obeyed these laws, God promised that He would bless and protect them. If they **disobeyed** them, God would punish them.
+
+
+Working for Nothing [35-12] He said, "All these years I’ve worked so faithfully for you! I never **disobeyed** you,"
+
+
+Enemies Defeat Israel [16-02] As a result of this **disobedience**, God punished the Israelites by allowing them to be defeated by their enemies.
