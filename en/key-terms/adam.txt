@@ -3,26 +3,23 @@
 
 ===== Definitions: =====
 
-  * The name of the first man, from whom every person descended.
-  * God formed Adam from the dirt of the ground and breathed the breath of life into him.
-  * Adam's name is the same as the Old Testament word for “man,” and similar to the word for “dirt” from which he was formed.
-  * Adam was made in the image of God--he shared some of God's characteristics, but was not equal with God.
-  * Adam and his wife, **[[:en:key-terms:eve|Eve]]**, disobeyed God. This caused them to become sinners, and to pass on that sin to all of their descendents.
 
+    * Adam was the first man.
+    * God formed him from dirt and breathed life into him.
+    * The name "Adam" is the same as the Old Testament word for "man." 
+    * All people are descendants of Adam and his wife Eve.
 
 ===== Examples from the Bible stories: =====
 
 
-[[:en:obs-training:frames:01-09|Man in God's Image [01-09]]] "Then God said, 'Let us make human beings in our image'" 
+[[:en:obs-training:frames:01-09|Man in God's Image [01-09]]] "Then God said, 'Let us make human beings in our image'"
 
-[[:en:obs-training:frames:01-10|Adam Created [01-10]]]  "This man's name was **Adam**. God planted a garden where **Adam** could live"
+
+[[:en:obs-training:frames:01-10|Adam Created [01-10]]] "This man's name was **Adam**. God planted a garden where **Adam** could live"
 
 
 [[:en:obs-training:frames:01-12|Adam Alone [01-12]]] Then God said, "It is not good for man to be alone." But none of the animals could be **Adam's** helper.
 
-[[:en:obs-training:frames:02-07|Where are You? [02-07]]] "**Adam** replied, “I heard you walking..."
 
-[[:en:obs-training:frames:02-11|The Man is Cursed [02-11]]] "And God clothed **Adam** and Eve with animal skins." 
-
-
+[[:en:obs-training:frames:02-11|The Man is Cursed [02-11]]] "And God clothed **Adam** and Eve with animal skins."
 ~~DISCUSSION~~
