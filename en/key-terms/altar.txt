@@ -6,13 +6,14 @@
 
 ===== Definitions: =====
 
-  * A structure, usually stone, where animals were sacrificed.
 
+    * A raised structure on which animals were killed and burned as a gift to God.
+    * Often an altar was a packed mound of earth or a pile of carefully placed stones. Some altars were made of metal, such as gold or bronze.
 
 ===== Examples from the Bible stories: =====
 
 
-[[:en:obs-training:frames:0x-0x|Title [0x-0x]]]  "... Most 
+[[:en:obs-training:frames:0x-0x|The Altar [13-09]]] A priest would kill the animal and burn it on the altar
 
 
 ~~DISCUSSION~~
