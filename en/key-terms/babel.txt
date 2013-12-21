@@ -10,7 +10,5 @@
 ===== Examples from the Bible stories: =====
 
 
-[[:en:obs-training:frames:0x-0x|Many Languages [04-03]]] The city they had begun to build was called Babel, which means "confused."
-
-
+[[:en:obs-training:frames:0x-0x|Many Languages [04-03]]] The city they had begun to build was called **Babel**, which means "confused."
 ~~DISCUSSION~~
