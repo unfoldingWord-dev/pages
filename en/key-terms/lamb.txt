@@ -1,7 +1,6 @@
 ====== Lamb ======
 
-==== (term, other) ====
-
+==== (lamb, Lamb of God) ====
 
 ===== Definitions: =====
 
@@ -11,7 +10,16 @@
 ===== Examples from the Bible stories: =====
 
 
-[[:en:obs-training:frames:0x-0x|Title [0x-0x]]]  "... Most 
+[[:en:obs-training:frames:0x-0x|God Will Provide  [05-07]]] As they walked to the place of the sacrifice Isaac asked, "Father, we have wood for the sacrifice, but where is the **lamb**?"
+
+
+[[:en:obs-training:frames:0x-0x|Philip Meets the Ethiopian  [45-09]]]<font 13px/arial;;#000000;;#ffffff></font> When he came near the chariot, he heard the man reading from the prophet Isaiah, "He was led like a l**amb** to be killed, and did not say a word​."
+
+
+[[:en:obs-training:frames:0x-0x|The Lamb of God  [48-08]]]<font 13px/arial;;#000000;;#ffffff></font> But God also provided another **lamb** to sacrifice instead of the whole world. God provided Jesus, the **Lamb** of God. 
+
+
+[[:en:obs-training:frames:0x-0x|The Passover  [48-09]]]<font 13px/arial;;#000000;;#ffffff></font> When God sent the last plague on Egypt, each Israelite family needed to kill a perfect **lamb** and spread the blood around their doors.
 
 
 ~~DISCUSSION~~
