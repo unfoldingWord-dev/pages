@@ -9,25 +9,19 @@
 ===== Examples from the Bible stories: =====
 
 
-[[:en:obs-training:frames:0x-0x|Title [0x-0x]]]08-06 The king of Egypt, who was called the Pharaoh, had two dreams that disturbed him greatly.
+[[:en:obs-training:frames:0x-0x|Pharaoh's Dream [08-06]]] The king of Egypt, who was called the **Pharaoh**, had two dreams that disturbed him greatly.
 
 
-08-08 Pharaoh was so impressed with Joseph that he made him the second most powerful man in all of Egypt!
+[[:en:obs-training:frames:0x-0x|Joseph Rules Egypt [08-08]]] **Pharaoh** was so impressed with Joseph that he made him the second most powerful man in all of Egypt!
 
 
-09-02 Many years later, a new Pharaoh came to power in Egypt
+[[:en:obs-training:frames:0x-0x|A New Pharaoh [09-02]]]<font 13px/arial;;#000000;;#ffffff></font> Many years later, a new **Pharaoh** came to power in Egypt
 
 
-09-07 A daughter of Pharaoh saw the basket and looked inside
+[[:en:obs-training:frames:0x-0x|Moses sent to Egypt [09-13]]]<font 13px/arial;;#000000;;#ffffff></font> I will send you to **Pharaoh** so that you can bring the Israelites out of their slavery in Egypt
 
 
-09-13 I will send you to Pharaoh so that you can bring the Israelites out of their slavery in Egypt
-
-
-10-02 Through these plagues, God showed Pharaoh that He is more powerful than Pharaoh and all of Egypt‚Äôs gods.
-
-
-10-10 But Pharaoh sinned again and hardened his heart and would not let the Israelites go.
+[[:en:obs-training:frames:0x-0x|Pharaoh Refuses to Obey [10-02]]] Through these plagues, God showed **Pharaoh ** that He is more powerful than Pharaoh and all of Egypt's gods.
 
 
 ~~DISCUSSION~~
