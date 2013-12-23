@@ -9,7 +9,22 @@
 ===== Examples from the Bible stories: =====
 
 
-[[:en:obs-training:frames:0x-0x|Title [0x-0x]]]  "... Most 
+[[:en:obs-training:frames:0x-0x|Title [06-07]]]When they were born, the older son came out red and hairy; they named him Esau
+
+
+[[:en:obs-training:frames:0x-0x|Title [07-02]]] So Esau gave Jacob his rights as the oldest son. 
+
+
+[[:en:obs-training:frames:0x-0x|Title [07-04]]]<font 13px/arial;;#000000;;#ffffff></font> When Isaac felt the goat hair and smelled the clothes, he thought it was Esau and blessed him.
+
+
+[[:en:obs-training:frames:0x-0x|Title [07-05]]]Esau hated Jacob because Jacob had stolen his rights as oldest son and also his blessing
+
+
+[[:en:obs-training:frames:0x-0x|Title [07-10]]]But Esau had already forgiven Jacob, and they were happily reunited. 
+
+
+[[:en:obs-training:frames:0x-0x|Title [07-10]]]Then Isaac died, and Jacob and Esau buried him
 
 
 ~~DISCUSSION~~
