@@ -6,8 +6,10 @@
 
 ===== Definitions: =====
 
-  * To 
 
+    * Moses was chosen by God to lead the Israelites to freedom from slavery in Egypt.
+    * He was a prophet and leader of the Israelite people for over 40 years.
+    * Moses' name means "drawn out" because as a baby his mother had put him in a basket among the reeds of the Nile River until Pharaoh's daughter drew him out of the water and adopted him as her son.
 
 ===== Examples from the Bible stories: =====
 
@@ -24,7 +26,7 @@
 [[:en:obs-training:frames:0x-0x|Title [09-12]]]One day while Moses was taking care of his sheep, he saw a bush that was on fire.
 
 
-[[:en:obs-training:frames:0x-0x|Title [12-05]]] Moses told the people, ‚ÄúDo not be afraid! God will fight for you today and save you.‚
+[[:en:obs-training:frames:0x-0x|Title [12-05]]] Moses told the people, "Do not be afraid! God will fight for you today and save you."
 
 
 [[:en:obs-training:frames:0x-0x|Title [12-07]]]Moses lifted his hand over the sea, and God caused the wind to blow.
