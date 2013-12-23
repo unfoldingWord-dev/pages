@@ -1,10 +1,12 @@
 ====== Pharaoh ======
 
-
 ===== Definitions: =====
 
 
-    * To
+    * In ancient times, the kings who ruled over the country of Egypt were called pharaohs.
+    * Altogether, over 300 pharaohs ruled Egypt for more than 2,000 years.
+    * These Egyptians kings were very powerful and wealthy.
+    * Several of these pharaohs are mentioned in the Bible.
 
 ===== Examples from the Bible stories: =====
 
@@ -21,7 +23,5 @@
 [[:en:obs-training:frames:0x-0x|Moses sent to Egypt [09-13]]]<font 13px/arial;;#000000;;#ffffff></font> I will send you to **Pharaoh** so that you can bring the Israelites out of their slavery in Egypt
 
 
-[[:en:obs-training:frames:0x-0x|Pharaoh Refuses to Obey [10-02]]] Through these plagues, God showed **Pharaoh ** that He is more powerful than Pharaoh and all of Egypt's gods.
-
-
+[[:en:obs-training:frames:0x-0x|Pharaoh Refuses to Obey [10-02]]] Through these plagues, God showed **Pharaoh ** that He is more powerful than **Pharaoh** and all of Egypt's gods.
 ~~DISCUSSION~~
