@@ -11,14 +11,17 @@
 ===== Examples from the Bible stories: =====
 
 
-[[:en:obs-training:frames:0x-0x|Title [06-02]]]After a very long journey, God led the servant to **Rebekah**, who was the granddaughter of Abraham's brother.
+[[:en:obs-training:frames:0x-0x|Finding Rebekah [06-02]]]After a very long journey, God led the servant to **Rebekah**, who was the granddaughter of Abraham's brother.
 
 
-[[:en:obs-training:frames:0x-0x|Title [06-06]]]God told Rebekah, "There are two nations inside of you. [[:en:obs-training:frames:0x-0x|Title [07-01]]]As the boys grew up, **Rebekah** loved Jacob, but Isaac loved Esau
+[[:en:obs-training:frames:0x-0x|Two Nations [06-06]]]God told Rebekah, "There are two nations inside of you.
 
 
-​[[:en:obs-training:frames:0x-0x|Title [07-03]]]<font 13px/arial;;#000000;;#ffffff>But before he did,</font> **Rebekah** <font 13px/arial;;#000000;;#ffffff>and Jacob tricked him by having Jacob pretend to be</font> Esau
+[[:en:obs-training:frames:0x-0x|The Boys Grow Up [07-01]]] As the boys grew up, **Rebekah** loved Jacob, but Isaac loved Esau
 
 
-[[:en:obs-training:frames:0x-0x|Title [07-06]]]But **Rebekah** heard of Esau's plan. So she arranged for Jacob to be sent far away to live with her relatives.
+​[[:en:obs-training:frames:0x-0x|Rebekah and Jacob Trick Isaac  [07-03]]] But before he did, **Rebekah** and Jacob tricked him by having Jacob pretend to be</font> Esau
+
+
+[[:en:obs-training:frames:0x-0x|Sedning Jacob Away [07-06]]] But **Rebekah** heard of Esau's plan. So she arranged for Jacob to be sent far away to live with her relatives.
 ~~DISCUSSION~~
