@@ -10,6 +10,7 @@
     * A master would usually take good care of his servants, providing htem with food, clothing and shelter.
     * Servants were an important part of the household and were treated almost like members of the family.
     * Sometimes the word for "servant" is translated as "slave," depending on the context.
+    * 
     * If a person calls himself "your servant" he is showing respect and humility even though he is not anyone's actual servant.
     * God calls his followers "servants".
 
@@ -17,6 +18,9 @@
 
 
 [[:en:obs-training:frames:0x-0x|A Wife for Isaac [06-01]]] Abraham sent one of his **servants** back to the land where his relatives lived to find a wife for his son, Isaac.
+
+
+[[:en:obs-training:frames:0x-0x|Moses Sent to Egypt [09-13]]] I will send you to Pharaoh so that you can bring the Israelites out of their **slavery** in Egypt
 
 
 [[:en:obs-training:frames:0x-0x|The Prayer of Elijah [19-10]]] Then Elijah prayed, "O LORD, God of Abraham, Isaac, and Jacob, show us today that You are the God of Israel and that I am Your **servant**."
@@ -31,5 +35,5 @@
 [[:en:obs-training:frames:0x-0x|Paul Heals the Slave Girl [47-05]]] She kept yelling, "These men are **servants** of the Most High God. "
 
 
-[[:en:obs-training:frames:0x-0x|Remain Faithful [50-04]]]  Jesus also said, "A **servant** is not greater than his master."
+[[:en:obs-training:frames:0x-0x|Remain Faithful [50-04]]] Jesus also said, "A **servant** is not greater than his master."
 ~~DISCUSSION~~
