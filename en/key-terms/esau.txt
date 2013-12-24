@@ -3,25 +3,26 @@
 
 ===== Definitions: =====
 
-  * To 
 
+    * Esau was the older twin brother of Jacob, born to Isaac and Rebekah.
+    * He is known for having sold his birthright to Jacob in exchange for a bowl of food when he had come home very hungry after hunting all day.
+    * Jacob also stole the blessing he deserved as the firstborn, and although Esau at first was so angry he plotted to kill Jacob, he later forgave his brother.
+    * Esau had many children and grandchildren, and these descendants formed a large people group living in the land of Canaan.
 
 ===== Examples from the Bible stories: =====
 
 
-[[:en:obs-training:frames:0x-0x|Title [06-07]]]When they were born, the older son came out red and hairy; they named him Esau
+[[:en:obs-training:frames:0x-0x|Twins Are Born [06-07]]] When they were born, the older son came out red and hairy; they named him **Esau**.
 
 
-[[:en:obs-training:frames:0x-0x|Title [07-02]]] So Esau gave Jacob his rights as the oldest son.
+[[:en:obs-training:frames:0x-0x|Esau Sells His Rights [07-02]]] So **Esau ** gave Jacob his rights as the oldest son.
 
 
-[[:en:obs-training:frames:0x-0x|Title [07-04]]]When Isaac felt the goat hair and smelled the clothes, he thought it was Esau and blessed him.
+[[:en:obs-training:frames:0x-0x|Isaac Blesses Jacob [07-04]]] When Isaac felt the goat hair and smelled the clothes, he thought it was **Esau** and blessed him.
 
 
-[[:en:obs-training:frames:0x-0x|Title [07-05]]]Esau hated Jacob because Jacob had stolen his rights as oldest son and also his blessing
+[[:en:obs-training:frames:0x-0x|Esau Hates Jacob [07-05]]] **Esau** hated Jacob because Jacob had stolen his rights as oldest son and also his blessing
 
 
-[[:en:obs-training:frames:0x-0x|Title [07-10]]]But Esau had already forgiven Jacob, and they were happily reunited.
-
-
+[[:en:obs-training:frames:0x-0x|The Brothers Reunited [07-10]]] But **Esau ** had already forgiven Jacob, and they were happily reunited.
 ~~DISCUSSION~~
