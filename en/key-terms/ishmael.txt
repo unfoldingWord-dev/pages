@@ -10,10 +10,10 @@
 ===== Examples from the Bible stories: =====
 
 
-[[:en:obs-training:frames:0x-0x|Ishmael Born [05-02]]] So Abram married Hagar. Hagar had a baby boy, and Abram named him Ishmael.
+[[:en:obs-training:frames:05-02|Ishmael Born [05-02]]] So Abram married Hagar. Hagar had a baby boy, and Abram named him Ishmael.
 
 
-[[:en:obs-training:frames:0x-0x|Isaac Promised [05-04]]] "I will make Ishmael a great nation, too, but my covenant will be with Isaac."
+[[:en:obs-training:frames:05-04|Isaac Promised [05-04]]] "I will make Ishmael a great nation, too, but my covenant will be with Isaac."
 
 
 ~~DISCUSSION~~
