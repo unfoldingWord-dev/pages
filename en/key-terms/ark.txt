@@ -11,7 +11,7 @@
 ===== Examples from the Bible stories: =====
 
 
-Sin Increases[[:en:obs-training:frames:03-01|[03-01]]] "He told Noah to build a huge boat called an ark.
+Sin Increases [[:en:obs-training:frames:03-01|[03-01]]] He told Noah to build a huge boat called an ark.
 
 
 ~~DISCUSSION~~
