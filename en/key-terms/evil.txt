@@ -8,7 +8,7 @@
 
 
     * Evil is any action, thought or character that is opposed to God's holy character and will.
-    * Evil people and evil behaviors can also be described as bad, wicked or immoral.
+    * Evil people and evil behaviors can also be described as bad, wicked or immoral. The words "evil" and "wicked" often have a very similar meaning.
     * The results of evil are clearly shown in how people mistreat others by killing, stealing, slandering or being cruel and unkind.
     * Evil is the opposite of **[[:en:key-terms:good|good]]**.
     * An evil spirit is a being that rebels against God.
@@ -22,10 +22,10 @@
 [[:en:obs-training:frames:04-02|The Tower [04-02]]] God saw that if they all kept working together, they could do many **evil** things.
 
 
-Joseph Meets His Brothers [08-12] "You tried to do **evil** when you sold me as a slave, but God used the **evil** for good!"
+[[:en:obs-training:frames:08-12|Joseph Meets His Brothers [08-12]]] "You tried to do **evil** when you sold me as a slave, but God used the **evil** for good!"
 
 
-The Canaanites' Idols [14-02] The Canaanites did not believe in God. They worshiped false gods and did many **evil** things.
+[[:en:obs-training:frames:14-02|The Canaanites' Idols [14-02]]] The Canaanites did not believe in God. They worshiped false gods and did many **evil** things.
 
 
 The Evil Kings of Israel [18-11] In the kingdom of Israel, all the kings were **evil**.
