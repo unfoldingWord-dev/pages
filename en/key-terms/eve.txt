@@ -21,8 +21,9 @@
 [[:en:obs-training:frames:02-11|Disobedience [02-11]]] "…The man named his wife **Eve**, which means “life,” because she would become the mother of all people."
 
 
-[21-01] "…God promised that a descendant of **Eve** would be born who would crush the snake’s head."
+[[:en:obs-training:frames:21-01|Messiah Will Defeat Satan [21-01]]] "…God promised that a descendant of **Eve** would be born who would crush the snake’s head."
 
 
-[48-02] Satan, who was the snake in the garden, deceived **Eve**, and she and Adam sinned against God.
+[[:en:obs-training:frames:48-02|Adam and Eve Sinned [48-02]]] Satan, who was the snake in the garden, deceived **Eve**, and she and Adam sinned against God.
+
 ~~DISCUSSION~~

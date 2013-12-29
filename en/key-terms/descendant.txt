@@ -16,13 +16,13 @@
 [[:en:obs-training:frames:02-09|The Snake is Cursed [02-09]]] The woman's descendant will crush your head, and you will wound his heel.
 
 
-[05-10] Your descendants will be more than the stars in the sky.
+[[:en:obs-training:frames:05-10|The Blessing [05-10]]] Your descendants will be more than the stars in the sky.
 
 
-[17-07] And the Messiah will be one of your descendants!
+[[:en:obs-training:frames:17-07|God's Promise to David [17-07]]] And the Messiah will be one of your descendants!
 
 
-[18-13]  The kings of Judah were descendants of David
+[[:en:obs-training:frames:18-13|The Divided Kingdom [18-13]]]  The kings of Judah were descendants of David
 
 
 ~~DISCUSSION~~
