@@ -7,22 +7,23 @@
 ===== Definitions: =====
 
 
-    * An offering to God, such as an animal, as a form of worship.
+    * A sacrifice is an offering to God as a form of worship.
     * There were different kinds of sacrifices. These included sacrifices to ask God to forgive sin and sacrifices to thank Him for blessings.
     * Most sacrifices involved killing an animal and offering it to God as a gift.
-    * Animal sacrifices could never truly make a person clean from his sin; only Jesus' perfect sacrifice of Himself could do that.
+    * Animal sacrifices could never truly make a person clean from his sin; only Jesus' perfect sacrifice of Himself can cleanse people from sin.
 
 ===== Examples from the Bible stories: =====
 
 
-[[:en:obs-training:frames:0x-0x|Noah's Sacrifice [03-14]]] After he got off the boat, Noah built an altar and **sacrificed** some of each kind of animal which could be used for a sacrifice.
+[[:en:obs-training:frames:03-14|Noah's Sacrifice [03-14]]] After he got off the boat, Noah built an altar and **sacrificed** some of each kind of animal which could be used for a sacrifice.
 
 
-[[:en:obs-training:frames:0x-0x|Noah's Sacrifice]] [03-14] God was happy with the **sacrifice** and blessed Noah and his family.
+[[:en:obs-training:frames:03-14|Noah's Sacrifice [03-14]]] God was happy with the **sacrifice** and blessed Noah and his family.
 
 
-[[:en:obs-training:frames:0x-0x|Test of Faith ]][05-06] Take Isaac, your only son, and kill him as a **sacrifice** to me. Again Abraham obeyed God and prepared to **sacrifice** his son.
+[[:en:obs-training:frames:05-06|Test of Faith [05-06]]] Take Isaac, your only son, and kill him as a **sacrifice** to me. Again Abraham obeyed God and prepared to **sacrifice** his son.
 
 
-[[:en:obs-training:frames:0x-0x|The Ram ]][05-09] God had provided the ram to be the **sacrifice** instead of Isaac.
+[[:en:obs-training:frames:05-09|The Ram [05-09]]] God had provided the ram to be the **sacrifice** instead of Isaac.
+
 ~~DISCUSSION~~
