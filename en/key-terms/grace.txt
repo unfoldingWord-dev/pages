@@ -14,7 +14,7 @@
 ===== Examples from the Bible stories: =====
 
 
-[[:en:obs-training:frames:0x-0x|Noah Finds Grace [03-02]]]But Noah found grace in God's eyes</font>
+[[:en:obs-training:frames:03-02|Noah Finds Grace [03-02]]] But Noah found grace in God's eyes</font>
 
 
 ~~DISCUSSION~~
