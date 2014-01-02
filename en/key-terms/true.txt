@@ -1,25 +1,33 @@
 ====== True ======
 
-===(True, Truth) ===
+
+=== (True, Truth) ===
+
 
 ===== Definitions: =====
 
 
-    * Matching or conforming to how things really are
+    * Matching or conforming to how things really are.
     * When something is true, it really did or really will happen.
     * Real, genuine, actual, rightful, legitimate, factual.
     * True is the opposite of false.
     * The truth is an understanding, belief, fact, or statement that is true.
     * Truth is the opposite of a lie or deception.
 
+
 ===== Examples from the Bible stories: =====
 
 
-[[:en:obs-training:frames:02-04|The Lie [02-04]]] The woman answered, "God told us, ‘If you eat that fruit or even touch it, you will die.’” The snake responded, “That is not **true**! You will not die."\\ 
- 
-[[:en:obs-training:frames:14-06|Joshua and Caleb [14-06]]] "It is **true ** that the people of Canaan are tall and strong, but we can certainly defeat them!"\\ 
+[[:en:obs-training:frames:02-04|The Lie [02-04]]] The woman answered, "God told us, ‘If you eat that fruit or even touch it, you will die.’” The snake responded, “That is not **true**! You will not die."
 
-[[:en:obs-training:frames:16-01|Israel Worships Idols [16-01]]] "The Israelites began to worship the Canaanite gods instead of the One **True ** God." \\ 
 
-[[:en:obs-training:frames:39-10|What Is Truth? [39-10]]] "But I have come to earth to tell the **truth** about God." 
+[[:en:obs-training:frames:14-06|Joshua and Caleb [14-06]]] "It is **true **  that the people of Canaan are tall and strong, but we can certainly defeat them!"
+
+
+[[:en:obs-training:frames:16-01|Israel Worships Idols [16-01]]] "The Israelites began to worship the Canaanite gods instead of the One **True **  God."
+
+
+[[:en:obs-training:frames:39-10|What Is Truth? [39-10]]] "But I have come to earth to tell the **truth**  about God."
+
+
 ~~DISCUSSION~~
