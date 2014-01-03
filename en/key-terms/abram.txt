@@ -10,13 +10,10 @@
 ===== Examples from the Bible stories: =====
 
 
-God Chose Abram [04-04]  Hundreds of years later, God spoke to a man named **Abram**.
+  ***[[:en:obs-training:frames:04-04|[04-04]]]**  Hundreds of years later, God spoke to a man named **Abram**.
+  ***[[:en:obs-training:frames:04-08|[04-08]]]**  Twenty years went by, but **Abram** and Sarai still had no son.
+  ***[[:en:obs-training:frames:04-09|[04-09]]]**  Then God made a covenant with **Abram**.
+  ***[[:en:obs-training:frames:05-04|[05-04]]]**  Then God changed **Abram**'s name to Abraham, which means “father of many.”
 
 
-No Son [04-08]  Twenty years went by, but **Abram** and Sarai still had no son.
-
-
-God's Covenant [04-09]  Then God made a covenant with **Abram**.
-
-
-Isaac Promised [05-04]  Then God changed **Abram**'s name to Abraham, which means “father of many.”
+~~DISCUSSION~~
