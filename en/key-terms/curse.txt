@@ -15,9 +15,9 @@ To "curse" is the opposite of to **[[:en:key-terms:bless|bless]]**.
 ===== Examples from the Bible stories: =====
 
 
-  *[[:en:obs-training:frames:02-09|[02-09]]]  "God said to the snake, “You are **cursed**!" 
-  *[[:en:obs-training:frames:02-11|[02-11]]]  "... Now the ground is **cursed**, and you will need to work hard to grow food."
-  *[[:en:obs-training:frames:04-04|[04-04]]]  "... I will bless those who bless you and **curse** those who **curse** you."
+  ***[[:en:obs-training:frames:02-09|[02-09]]]**  "God said to the snake, “You are **cursed**!" 
+  ***[[:en:obs-training:frames:02-11|[02-11]]]**  "... Now the ground is **cursed**, and you will need to work hard to grow food."
+  ***[[:en:obs-training:frames:04-04|[04-04]]]**  "... I will bless those who bless you and **curse** those who **curse** you."
 
 
 ~~DISCUSSION~~
