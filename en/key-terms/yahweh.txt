@@ -17,7 +17,7 @@
 ===== Examples from the Bible stories: =====
 
 
-[[:en:obs-training:frames:09-14|The Name of God [09-14]]] God said, “**I AM** WHO I AM. Tell them, ‘**I AM** has sent me to you.’ This is My name forever.”
+[[:en:obs-training:frames:09-14|The Name of God [09-14]]] God said, “**I AM WHO **I AM**. Tell them, ‘**I AM** has sent me to you.’ This is My name forever.”
 
 
 [[:en:obs-training:frames:13-04|I Am Your God [13-04]]] "I am the **LORD** your God, who saved you from slavery in Egypt. Do not worship other gods."
