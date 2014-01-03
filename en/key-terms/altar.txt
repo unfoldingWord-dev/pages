@@ -10,14 +10,13 @@
     * A raised structure on which animals were killed and burned as a gift to God.
     * Often an altar was a packed mound of earth or a pile of carefully placed stones. Some altars were made of metal, such as gold or bronze.
 
+
 ===== Examples from the Bible stories: =====
 
 
-[[:en:obs-training:frames:0x-0x|The Altar [13-09]]] A priest would kill the animal and burn it on the **altar**.
+  ***[[:en:obs-training:frames:05-08|[05-08]]]** When they reached the place of sacrifice, Abraham tied up his son Isaac and laid him on an **altar**.
+  ***[[:en:obs-training:frames:13-09|[13-09]]]** A priest would kill the animal and burn it on the **altar**.
+  ***[[:en:obs-training:frames:16-06|[16-06]]]** He built an **altar** to God where the idol used to be and made a sacrifice to God.
 
 
-[[:en:obs-training:frames:0x-0x|Gideon Destroys the Idol [16-06]]]He built an **altar** to God where the idol used to be and made a sacrifice to God.
-
-
-The Sacrifice [05-08] When they reached the place of sacrifice, Abraham tied up his son Isaac and laid him on an **altar**.
 ~~DISCUSSION~~
