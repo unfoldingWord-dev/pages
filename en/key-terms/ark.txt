@@ -8,10 +8,11 @@
 
     * This word is most often used to refer to the large boat or barge that Noah built in order to survive the huge worldwide flood.
 
+
 ===== Examples from the Bible stories: =====
 
 
-[[:en:obs-training:frames:03-01|Sin Increases [03-01]]] He told Noah to build a huge boat called an ark.
+  ***[[:en:obs-training:frames:03-01|[03-01]]]** He told Noah to build a huge boat called an ark.
 
 
 ~~DISCUSSION~~
