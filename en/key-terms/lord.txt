@@ -5,7 +5,11 @@
 
 ===== Definitions: =====
 
-  * The one having absolute authority or ownership.
+  * The one having absolute authority or ownership. \\ 
+  * A “lord” refers to someone who has absolute authority or ownership and is sometimes translated “master”. \\ 
+  * The word “Lord” with an uppercase 'L' is often used as a title for God as in “Lord God” and “Lord Jesus.” \\ 
+  * In the Old Testament of English Bible translations, the word **[[:en:key-terms:LORD|LORD]]** is written with all uppercase letters in place of God's personal name, YHWH.
+
 
 
 ===== Examples from the Bible stories: =====
@@ -13,7 +17,7 @@
 
 [[:en:obs-training:frames:08-04|Joseph in Egypt [08-04]]]  The slave traders sold Joseph as a slave to a wealthy government official. Joseph served his **master** well, and God blessed Joseph.  
 
-[[:en:obs-training:frames:50-04|Remain Faithful [50-04]]] Jesus also said, "A servant is not greater than his master." 
+[[:en:obs-training:frames:50-04|Remain Faithful [50-04]]] Jesus also said, "A servant is not greater than his **master**." 
 
 [see also: **[[:en:key-terms:yahweh|LORD]]**]
 
