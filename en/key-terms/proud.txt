@@ -14,7 +14,9 @@
 ===== Examples from the Bible stories: =====
 
 
-[[:en:obs-training:frames:04-02|Title [04-02]]]  "They were very proud, and they did not care about what God said." \\ 
+[[:en:obs-training:frames:04-02|The Tower [04-02]]] They were very proud, and they did not care about what God said. \\ 
+
+[[:en:obs-training:frames:34-10|The Proud Will Be Humbled [34-10]]] Then Jesus said, "I tell you the truth, the tax collector went home forgiven, and not the religious leader. Everyone who is proud will be humbled, but whoever humbles himself will be lifted up."
 
 
 ~~DISCUSSION~~
