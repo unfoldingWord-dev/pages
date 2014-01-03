@@ -22,12 +22,8 @@
 
 [[:en:obs-training:frames:13-04|I Am Your God [13-04]]] "I am the **LORD** your God, who saved you from slavery in Egypt. Do not worship other gods."
 
-
-I Am Your God [13-04] "I am the **LORD** your God, who saved you from slavery in Egypt."
-
-
-The Commandments [13-05] "Do not make idols or worship them, for I, the **LORD** your God, am a jealous God."
+[[:en:obs-training:frames:13-05|The Commandments [13-05]]] "Do not make idols or worship them, for I, the **LORD** your God, am a jealous God."
 
 
-God Answers with Fire [19-11] "O **LORD**, God of Abraham, Isaac, and Jacob, show us today that You are the God of Israel and that I am Your servant,"
+[[:en:obs-training:frames:19-11|God Answers with Fire [19-11]]] "O **LORD**, God of Abraham, Isaac, and Jacob, show us today that You are the God of Israel and that I am Your servant,"
 ~~DISCUSSION~~
