@@ -2,12 +2,12 @@
 
 {{:en:obs:obs-07-01.jpg?nolink&640x360}}
 
-As the boys grew up, **[[:en:key-terms:rebekah|Rebekah]]** loved **[[:en:key-terms:jacob|Jacob]]**, but **[[:en:key-terms:isaac|Isaac]]** loved **[[:en:key-terms:esau|Esau]]**. **[[:en:key-terms:jacob|Jacob]]** loved to stay at home, but **[[:en:key-terms:esau|Esau]]** loved to hunt.
+As the boys grew up, **[[:en:key-terms:rebekah|Rebekah]] loved [[:en:key-terms:jacob|Jacob]]**, **but [[:en:key-terms:isaac|Isaac]] loved [[:en:key-terms:esau|Esau]]**. **[[:en:key-terms:jacob|Jacob]] loved to stay at home**, but **[[:en:key-terms:esau|Esau]] loved to hunt**.
 
 
 ===== Translation Notes: =====
 
-  * **Rebekah loved Jacob, but Isaac loved Esau** - This could be translated as, “Rebekah was more fond of Jacob, and Isaac was more fond of Esau.” This does not mean that Rebekah and Isaac did not love the other son, but each parent had a favorite. 
+  * **Rebekah loved Jacob, but Isaac loved Esau** - This could be translated as, “Rebekah was more fond of Jacob, and Isaac was more fond of Esau.” This does not mean that Rebekah and Isaac did not love the other son, but that each parent had a favorite. 
   * **Isaac loved Esau … Esau loved to hunt** - The reason Jacob preferred Esau was that he liked to eat the wild animals that Esau killed. In some languages it might be clearer to tell about what the two sons liked to do and then tell about the sons that each parent liked more. 
   * **home** - They lived in tents, so if possible, use a word for home that does not simply refer to a building, such as 'house.' Some languages have a special expression for “at home.” 
   * **loved to stay at home … loved to hunt** - Some languages will use a word for “love” here that is different from the one used for “Rebekah loved Jacob.” For example, this could be translated as, “liked to stay at home … liked to hunt” or, “preferred to stay at home … preferred to hunt.” 
