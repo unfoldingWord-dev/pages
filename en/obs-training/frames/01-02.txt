@@ -11,9 +11,10 @@ Then **[[:en:key-terms:god|God]] spoke and said**, "**Let there be** light!" And
     * **[[:en:key-terms:god|God]] ... said**- God created light by means of a simple verbal command.
     * **let there be**  - This is a command that happened immediately because it was spoken by God. It may be more natural to translate this as a statement of certainty that this would definitely happen. For example, you could translate this as, “God said, 'There will be light.'”
     * **light**  - This was a special light that God created–the sun was not created until later.
-    * **was [[:en:key-terms:good|good]]**- This phrase is often repeated through the Creation story, and emphasizes that each stage of creation was pleasing to God and accomplished His plan and purpose.
+    * **was [[:en:key-terms:good|good]]**- This phrase is often repeated through the Creation story, and emphasizes that each stage of creation was pleasing to God and accomplished his plan and purpose.
     * **creation**  - This word is used here to refer to the six-day period during which God made everything that exists.
+
 **[[en/obs-training/frames/01-01|<<]] | [[:en:obs-training:01-the-creation|Up]] | [[en/obs-training/frames/01-03|>>]]** 
 
 
-~~ DISCUSSION:closed ~~
+~~DISCUSSION:closed~~
