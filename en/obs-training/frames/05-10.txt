@@ -2,12 +2,13 @@
 
 {{:en:obs:obs-05-10.jpg?nolink&640x360}}
 
-Then **[[:en:key-terms:god|God]]** said to **[[:en:key-terms:abraham|Abraham]]**, “Because you were willing to give me everything, even your only **[[:en:key-terms:son|son]]**, I **[[:en:key-terms:promise|promise]]** to **[[:en:key-terms:bless|bless]]** you. Your **[[:en:key-terms:descendant|descendants]]** will be more than the stars in the sky. Because you have **[[:en:key-terms:obey|obeyed]]** me, **all the families of the world** will be **[[:en:key-terms:bless|blessed]] through your family**.”
+Then **[[:en:key-terms:god|God]]** said to **[[:en:key-terms:abraham|Abraham]]**, “Because you were willing to give me everything, even **your only [[:en:key-terms:son|son]]**, I **[[:en:key-terms:promise|promise]]** to **[[:en:key-terms:bless|bless]]** you. Your **[[:en:key-terms:descendant|descendants]]** will be more than the stars in the sky. Because you have **[[:en:key-terms:obey|obeyed]]** me, **all the families of the world** will be **[[:en:key-terms:bless|blessed]] through your family**.”
 
 
 ===== Translation Notes: =====
 
 
+  * **your only [[:en:key-terms:son|son]]** - Ishmael was also Abraham's son, but the blessings would not pass through him. Isaac was the only son through whom God promised to make Abraham a great nation and bless every family.
   * **all the families of the world** - Here "families" refers to the larger distinct groups of people on earth, rather than to each set of parents and children. 
   * **[[:en:key-terms:bless|blessed]] through your family** - Here "family" refers to the many descendants that Abraham would have. The future generations of the world would be blessed through Abraham's descendants. The greatest blessing would come many generations later through God's chosen servant, the Messiah.
   
