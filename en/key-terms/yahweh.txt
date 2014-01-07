@@ -6,25 +6,31 @@
 
 ===== Definitions: =====
 
-  * God's Hebrew name is //Yahweh//, which means "I AM." 
-  * It stresses that He is eternal and self-existent.
-  * God told Moses that this is His name.
-  * Jews later believed that because God's name is holy, they should not speak it.
-  * So they called God //Adonai//, which means "lord".
-  * Many English Bibles follow this custom. They write "LORD" when it is a translation of //Yahweh// and they write "Lord" or "lord" when it is a translation of //Adonai//. (They also write "Lord" or "lord" when it is a translation of the Greek word //kyrios//, which means "lord".)
+
+    * God's Hebrew name is //Yahweh//, which means "He is."
+    * It stresses that He is eternal and self-existent.
+    * God told Moses that this is His name.
+    * Jews later believed that because God's name is holy, they should not speak it.
+    * So they called God //Adonai//, which means "lord".
+    * Many English Bibles follow this custom. They write "LORD" when it is a translation of //Yahweh//  and they write "Lord" or "lord" when it is a translation of //Adonai//. (They also write "Lord" or "lord" when it is a translation of the Greek word //kyrios//, which means "lord".)
+
 
 [see also: **[[:en:key-terms:lord|Lord]]**]
+
+
 ===== Examples from the Bible stories: =====
 
 
-[[:en:obs-training:frames:09-14|The Name of God [09-14]]] God said, “**I AM WHO I AM**. Tell them, ‘**I AM** has sent me to you.’ This is My name forever.” \\ 
+[[:en:obs-training:frames:09-14|The Name of God [09-14]]] God said, “**I AM WHO I AM**. Tell them, ‘**I AM**  has sent me to you.’ This is My name forever.”
 
 
-[[:en:obs-training:frames:13-04|I Am Your God [13-04]]] "I am the **LORD** your God, who saved you from slavery in Egypt. Do not worship other gods." \\ 
-
-[[:en:obs-training:frames:13-05|The Commandments [13-05]]] "Do not make idols or worship them, for I, the **LORD** your God, am a jealous God." \\ 
+[[:en:obs-training:frames:13-04|I Am Your God [13-04]]] "I am the **LORD**  your God, who saved you from slavery in Egypt. Do not worship other gods."
 
 
-[[:en:obs-training:frames:19-11|God Answers with Fire [19-11]]] "O **LORD**, God of Abraham, Isaac, and Jacob, show us today that You are the God of Israel and that I am Your servant," \\ 
+[[:en:obs-training:frames:13-05|The Commandments [13-05]]] "Do not make idols or worship them, for I, the **LORD**  your God, am a jealous God."
+
+
+[[:en:obs-training:frames:19-11|God Answers with Fire [19-11]]] "O **LORD**, God of Abraham, Isaac, and Jacob, show us today that You are the God of Israel and that I am Your servant,"
+
 
 ~~DISCUSSION~~
