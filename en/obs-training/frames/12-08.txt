@@ -2,16 +2,14 @@
 
 {{:en:obs:obs-12-08.jpg?nolink&640x360}}
 
-The **[[:en:key-terms:israel|Israelites]]** marched through the sea on dry ground with a **wall of water** on either side of them.
+The **[[:en:key-terms:israel|Israelites]]** marched through the sea on dry ground with a **wall of water** on **either side** of them.
 
 
 ===== Translation Notes: =====
 
 
   * **wall of water** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
+  * **either side** - explanation
   
 
 **[[:en:obs-training:frames:12-07|<<]] | [[:en:obs-training:12-the-exodus|Up]] | [[:en:obs-training:frames:12-09|>>]]**
