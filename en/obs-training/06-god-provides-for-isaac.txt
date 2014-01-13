@@ -20,10 +20,10 @@ A Wife for Isaac [06-01]\\
 Finding Rebekah [06-02]\\ 
 
 [[:en:obs-training:frames:06-03|{{:en:obs:obs-06-03.jpg?200|Isaac Marries Rebekah}}]]\\ 
-Isaac Marries Rebekah [06-03]\\ 
+Isaac Married Rebekah [06-03]\\ 
 
 [[:en:obs-training:frames:06-04|{{:en:obs:obs-06-04.jpg?200|Rebekah Is Childless}}]]\\ 
-Rebekah Is Childless [06-04]\\ 
+Rebekah Became Pregnant [06-04]\\ 
 
 [[:en:obs-training:frames:06-05|{{:en:obs:obs-06-05.jpg?200|Rebekah Is Pregnant}}]]\\ 
 Rebekah Is Pregnant [06-05]\\ 
@@ -32,7 +32,7 @@ Rebekah Is Pregnant [06-05]\\
 Two Nations [06-06]\\ 
 
 [[:en:obs-training:frames:06-07|{{:en:obs:obs-06-07.jpg?200|Twins Are Born}}]]\\ 
-Twins Are Born [06-07]\\ 
+Twins Were Born [06-07]\\ 
 
 //A Bible story from: Genesis 24:1-25:26//
 

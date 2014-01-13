@@ -14,10 +14,10 @@ Click on the images below to translate each frame of the story.
 
 
 [[:en:obs-training:frames:03-01|{{:en:obs:obs-03-01.jpg?200|Sin Increases}}]]\\
-Sin Increases [03-01]\\
+Sin Increased [03-01]\\
 \\
 [[:en:obs-training:frames:03-02|{{:en:obs:obs-03-02.jpg?200|Noah Finds Grace}}]]\\
-Noah Finds Grace [03-02]\\
+Noah Found Grace [03-02]\\
 \\
 [[:en:obs-training:frames:03-03|{{:en:obs:obs-03-03.jpg?200|The Big Boat}}]]\\
 The Big Boat [03-03]\\
@@ -29,16 +29,16 @@ Building the Boat [03-04]\\
 Loading the Boat [03-05]\\
 \\
 [[:en:obs-training:frames:03-06|{{:en:obs:obs-03-06.jpg?200|The Animals Come}}]]\\
-The Animals Come [03-06]\\
+The Animals Came [03-06]\\
 \\
 [[:en:obs-training:frames:03-07|{{:en:obs:obs-03-07.jpg?200|The Rain Begins}}]]\\
-The Rain Begins [03-07]\\
+The Rain Began [03-07]\\
 \\
 [[:en:obs-training:frames:03-08|{{:en:obs:obs-03-08.jpg?200|Safe from the Flood}}]]\\
 Safe from the Flood [03-08]\\
 \\
 [[:en:obs-training:frames:03-09|{{:en:obs:obs-03-09.jpg?200|The Rain Stops}}]]\\
-The Rain Stops [03-09]\\
+The Rain Stopped [03-09]\\
 \\
 [[:en:obs-training:frames:03-10|{{:en:obs:obs-03-10.jpg?200|The Raven}}]]\\
 The Raven [03-10]\\
