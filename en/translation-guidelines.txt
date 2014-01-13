@@ -1,3 +1,6 @@
 ====== Translation Guidelines ======
 
 //Where the principles and guidelines for translating and checking translations are detailed.//
+
+
+~~DISCUSSION~~
