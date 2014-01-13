@@ -17,10 +17,10 @@ Click on the links below to translate each frame of the story.
 Let My People Go! [10-01]\\ 
 
 [[:en:obs-training:frames:10-02|{{:en:obs:obs-10-02.jpg?200|Frame}}]]\\ 
-Pharaoh Refuses to Obey [10-02]\\ 
+Pharaoh Refused to Obey [10-02]\\ 
 
 [[:en:obs-training:frames:10-03|{{:en:obs:obs-10-03.jpg?200|Frame}}]]\\ 
-The Water Turns to Blood [10-03]\\ 
+The Water Became Blood [10-03]\\ 
 
 [[:en:obs-training:frames:10-04|{{:en:obs:obs-10-04.jpg?200|Frame}}]]\\ 
 The Frogs [10-04]\\ 
@@ -29,7 +29,7 @@ The Frogs [10-04]\\
 The Gnats and the Flies [10-05]\\ 
 
 [[:en:obs-training:frames:10-06|{{:en:obs:obs-10-06.jpg?200|Frame}}]]\\ 
-The Animals Die [10-06]\\ 
+The Animals Died [10-06]\\ 
 
 [[:en:obs-training:frames:10-07|{{:en:obs:obs-10-07.jpg?200|Frame}}]]\\ 
 The Painful Sores [10-07]\\ 
@@ -47,7 +47,7 @@ The Locusts [10-10]\\
 The Darkness [10-11]\\ 
 
 [[:en:obs-training:frames:10-12|{{:en:obs:obs-10-12.jpg?200|Frame}}]]\\ 
-Pharaoh Will Not Listen [10-12]\\ 
+Pharaoh Refused to Listen [10-12]\\ 
 
 //A Bible story from: Exodus 5-10//
 
