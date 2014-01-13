@@ -20,16 +20,16 @@ The Crippled Man [44-01]\\
 Get Up and Walk [44-02]\\ 
 
 [[:en:obs-training:frames:44-03|{{:en:obs:obs-44-03.jpg?200|Frame}}]]\\ 
-The Cripple Is Healed [44-03]\\ 
+The Crippled Man Was Healed [44-03]\\ 
 
 [[:en:obs-training:frames:44-04|{{:en:obs:obs-44-04.jpg?200|Frame}}]]\\ 
 The Power of Jesus [44-04]\\ 
 
 [[:en:obs-training:frames:44-05|{{:en:obs:obs-44-05.jpg?200|Frame}}]]\\ 
-Peter Preaches [44-05]\\ 
+Peter Preached [44-05]\\ 
 
 [[:en:obs-training:frames:44-06|{{:en:obs:obs-44-06.jpg?200|Frame}}]]\\ 
-Peter and John Are Arrested [44-06]\\ 
+Peter and John Were Arrested [44-06]\\ 
 
 [[:en:obs-training:frames:44-07|{{:en:obs:obs-44-07.jpg?200|Frame}}]]\\ 
 Before the Jewish Leaders [44-07]\\ 
@@ -38,7 +38,7 @@ Before the Jewish Leaders [44-07]\\
 No Other Way But Jesus [44-08]\\ 
 
 [[:en:obs-training:frames:44-09|{{:en:obs:obs-44-09.jpg?200|Frame}}]]\\ 
-The Disciples Are Released [44-09]\\ 
+The Disciples Were Released [44-09]\\ 
 
 //A Bible story from: Acts 3:1-4:22//
 
