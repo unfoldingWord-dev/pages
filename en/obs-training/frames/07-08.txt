@@ -3,15 +3,15 @@
 {{:en:obs:obs-07-08.jpg?nolink&640x360}}
 
 
-After twenty years away from his home in **[[:en:key-terms:canaan|Canaan]]**, **[[:en:key-terms:jacob|Jacob]]** returned there with his family, his **[[:en:key-terms:servant|servants]]**, and all his herds of animals.
+**After twenty years** away from his home in **[[:en:key-terms:canaan|Canaan]]**, **[[:en:key-terms:jacob|Jacob]]** returned there with his family, his **[[:en:key-terms:servant|servants]]**, and all his herds of animals.
 
 
 ===== Translation Notes: =====
 
 
-  * **issue** - explanation
+  * **after twenty years** - Jacob had lived for twenty years in the land where his mother was from. If that is not clear you could say, “After twenty years living in the land where his relatives were.”
   
 
 **[[:en:obs-training:frames:07-07|<<]] | [[:en:obs-training:07-god-blesses-jacob|Up]] | [[:en:obs-training:frames:07-09|>>]]**
 
-~~DISCUSSION~~
+~~DISCUSSION:closed~~
