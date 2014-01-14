@@ -4,14 +4,17 @@
 
 (**image order needs correction**)
 
-Many years later, when **[[:en:key-terms:jacob|Jacob]]** was an old man, he sent his favorite son, **[[:en:key-terms:joseph|Joseph]]**, to check on his brothers who were taking care of the herds.
+Many years later, when **[[:en:key-terms:jacob|Jacob]]** was an old man, he **sent** his **favorite son**, **[[:en:key-terms:joseph|Joseph]]**, to **check on** his **brothers** who were **taking care of the herds**.
 
 
 ===== Translation Notes: =====
 
 
+  * **sent** – This word means that Jacob told Joseph to go and Joseph went. 
   * **favorite son** - This could be translated as, “the son he loved more than any of his other children.”
-  * **issue** - explanation
+  * **check on** - This means that Joseph is to go and see if everything is all right with his brothers. Some languages might say something like, "to see his brothers' well-being."
+   * **brothers** - these were Joseph's older brothers. 
+  * **taking care of the herds** – Since this was several days' journey away, it may be necessary to say, ”…who were far away taking care of…”  
   
 
 **[[:en:obs-training:frames:07-10|<<]] | [[:en:obs-training:08-god-saves-joseph-and-his-family|Up]] | [[:en:obs-training:frames:08-02|>>]]**
