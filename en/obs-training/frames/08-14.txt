@@ -3,13 +3,15 @@
 
 {{:en:obs:obs-08-14.jpg?nolink&640x360}}
 
-Even though **[[:en:key-terms:jacob|Jacob]]** was an old man, he moved to **[[:en:key-terms:egypt|Egypt]]** with all of his family, and they all lived there. Before **[[:en:key-terms:jacob|Jacob]]** died, he **[[:en:key-terms:bless|blessed]]** each of his sons.
+**Even though [[:en:key-terms:jacob|Jacob]] was an old man**, he moved to **[[:en:key-terms:egypt|Egypt]]** with all of his family, and they all lived there. **Before [[:en:key-terms:jacob|Jacob]] died**, he **[[:en:key-terms:bless|blessed]]** each of his sons.
 
 
 ===== Translation Notes: =====
 
 
-  * **issue** - explanation
+  * **Even though Jacob was an old man, he moved to Egypt** - Egypt was a great distance away from Canaan, and it would have been difficult for an elderly man to walk or ride a cart that far. 
+  * **Before Jacob died** - Jacob died in Egypt. He did not get to return to Canaan, the land God had promised to give to him and his descendants.
+
   
 
 **[[:en:obs-training:frames:08-13|<<]] | [[:en:obs-training:08-god-saves-joseph-and-his-family|Up]] | [[:en:obs-training:frames:08-15|>>]]**
