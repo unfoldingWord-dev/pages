@@ -2,15 +2,15 @@
 
 {{:en:obs:obs-09-15.jpg?nolink&640x360}}
 
-**[[:en:key-terms:moses|Moses]] did not want to go**, so **[[:en:key-terms:god|God]]** sent **[[:en:key-terms:moses|Moses’]]** brother, **[[:en:key-terms:aaron|Aaron]]**, to help him. **[[:en:key-terms:god|God]]** warned **[[:en:key-terms:moses|Moses]]** and **[[:en:key-terms:aaron|Aaron]]** that **[[:en:key-terms:pharaoh|Pharaoh]]** would be stubborn.
+**[[:en:key-terms:moses|Moses]] did not want to go**, so **[[:en:key-terms:god|God]]** sent **[[:en:key-terms:moses|Moses’]] brother, [[:en:key-terms:aaron|Aaron]]**, to help him. **[[:en:key-terms:god|God]]** warned **[[:en:key-terms:moses|Moses]]** and **[[:en:key-terms:aaron|Aaron]]** that **[[:en:key-terms:pharaoh|Pharaoh]]** would be **stubborn**.
 
 
 ===== Translation Notes: =====
 
 
-  * **did not want to go** - explanation
-  * **Moses' brother, Aaron** - explanation
-  * **stubborn** - explanation
+  * **did not want to go** -  It might be more clear to say, “was afraid and did not want to go.” Moses knew that Pharaoh wanted to kill him, and he did not believe that he could do what God wanted him to do.
+  * **Moses' brother, Aaron** - Aaron was Moses's actual brother from his Israelite mother and father. Aaron would have been at least several years older than Moses.
+  * **stubborn** - This means the Pharaoh would refuse to obey God. It may be necessary to say this in a translation: ”…stubborn and refuse to listen/obey.” 
   
 
 **[[:en:obs-training:frames:09-14|<<]] | [[:en:obs-training:09-god-calls-moses|Up]] | [[:en:obs-training:frames:10-01|>>]]**
