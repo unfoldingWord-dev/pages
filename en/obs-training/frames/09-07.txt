@@ -2,17 +2,16 @@
 
 {{:en:obs:obs-09-07.jpg?nolink&640x360}}
 
-A **daughter of [[:en:key-terms:pharaoh|Pharaoh]]** saw the basket and looked inside. When she saw the baby, she **took him as her own [[:en:key-terms:son|son]]**. She hired the **baby’s own mother to nurse him**. When the child was **old enough**, his mother returned him to **[[:en:key-terms:pharaoh|Pharaoh’s]]** daughter. She named him **[[:en:key-terms:moses|Moses]]**.
+A daughter of **[[:en:key-terms:pharaoh|Pharaoh]]** saw the basket and looked inside. When she saw the baby, she **took him as her own [[:en:key-terms:son|son]]**. She hired the **baby’s own mother to nurse him**. When the child was **old enough**, his mother returned him to **[[:en:key-terms:pharaoh|Pharaoh’s]]** daughter. She named him **[[:en:key-terms:moses|Moses]]**.
 
 
 ===== Translation Notes: =====
 
 
-  * **daughter of Pharaoh** - explanation
-  * **took him as her own son** - explanation
+  * **daughter of Pharaoh** - [not necessary]
+  * **took him as her own son** - She was a princess. When she made him her son, he became a prince of Egypt. 
   * **baby's own mother to nurse him** - explanation
-  * **old enough** - explanation
-  
+  * **old enough** - In order to make this clear it may be necessary to say, “old enough that he no longer needs his mother's milk.”  
 
 **[[:en:obs-training:frames:09-06|<<]] | [[:en:obs-training:09-god-calls-moses|Up]] | [[:en:obs-training:frames:09-08|>>]]**
 
