@@ -2,13 +2,14 @@
 
 {{:en:obs:obs-09-08.jpg?nolink&640x360}}
 
-One day, when **[[:en:key-terms:moses|Moses]]** had grown up, he saw an **[[:en:key-terms:egypt|Egyptian]]** beating an **[[:en:key-terms:israel|Israelite]]** **[[:en:key-terms:servant|slave]]**. **[[:en:key-terms:moses|Moses]]** tried to **[[:en:key-terms:save|save]]** his **fellow [[:en:key-terms:israel|Israelite]]**.
+One day, when **[[:en:key-terms:moses|Moses]]** had **grown up**, he saw an **[[:en:key-terms:egypt|Egyptian]]** beating an **[[:en:key-terms:israel|Israelite]]** **[[:en:key-terms:servant|slave]]**. **[[:en:key-terms:moses|Moses]]** tried to **[[:en:key-terms:save|save]]** his **fellow [[:en:key-terms:israel|Israelite]]**.
 
 
 ===== Translation Notes: =====
 
 
-  * **fellow Israelite** - explanation
+  * **grown up** - Another way to say this would be, “grown into a man.” 
+  * **fellow Israelite** - This phrase refers to the Israelite slave. The word “fellow” here indicates that Moses was also an Israelite. Although the daughter of the Egyptian Pharaoh raised Moses, Moses remembered that he was really an Israelite. 
   
 
 **[[:en:obs-training:frames:09-07|<<]] | [[:en:obs-training:09-god-calls-moses|Up]] | [[:en:obs-training:frames:09-09|>>]]**
