@@ -2,13 +2,14 @@
 
 {{:en:obs:obs-09-10.jpg?nolink&640x360}}
 
-When **[[:en:key-terms:pharaoh|Pharaoh]]** found out about it, he tried to kill **[[:en:key-terms:moses|Moses]]** because of what he had done. **[[:en:key-terms:moses|Moses]]** ran away from **[[:en:key-terms:egypt|Egypt]]** to the **wilderness** where he would be safe.
+When **[[:en:key-terms:pharaoh|Pharaoh]] found out about it**, he tried to kill **[[:en:key-terms:moses|Moses]]** because of what he had done. **[[:en:key-terms:moses|Moses]]** ran away from **[[:en:key-terms:egypt|Egypt]]** to the **wilderness** where he would be safe.
 
 
 ===== Translation Notes: =====
 
 
-  * **wilderness** - explanation
+  * **found out about it** - Another way to say this would be, "heard about it."
+  * **wilderness** - The wilderness was a large area that was rocky and dry. The land there was not good for growing food and few people lived there. 
   
 
 **[[:en:obs-training:frames:09-09|<<]] | [[:en:obs-training:09-god-calls-moses|Up]] | [[:en:obs-training:frames:09-11|>>]]**
