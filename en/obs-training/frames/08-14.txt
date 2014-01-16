@@ -3,7 +3,7 @@
 
 {{:en:obs:obs-08-14.jpg?nolink&640x360}}
 
-**Even though [[:en:key-terms:jacob|Jacob]] was an old man**, he moved to **[[:en:key-terms:egypt|Egypt]]** with all of his family, and they all lived there. **Before [[:en:key-terms:jacob|Jacob]] died**, he **[[:en:key-terms:bless|blessed]]** each of his sons.
+**Even though [[:en:key-terms:jacob|Jacob]] was an old man, he moved to [[:en:key-terms:egypt|Egypt]]** with all of his family, and they all lived there. **Before [[:en:key-terms:jacob|Jacob]] died**, he **[[:en:key-terms:bless|blessed]]** each of his sons.
 
 
 ===== Translation Notes: =====
@@ -16,4 +16,4 @@
 
 **[[:en:obs-training:frames:08-13|<<]] | [[:en:obs-training:08-god-saves-joseph-and-his-family|Up]] | [[:en:obs-training:frames:08-15|>>]]**
 
-~~DISCUSSION~~
+~~DISCUSSION:closed~~
