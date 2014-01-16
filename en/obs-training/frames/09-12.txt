@@ -18,4 +18,4 @@ One day while **[[:en:key-terms:moses|Moses]]** was **taking care of his sheep**
 **[[:en:obs-training:frames:09-11|<<]] | [[:en:obs-training:09-god-calls-moses|Up]] | [[:en:obs-training:frames:09-13|>>]]**
 
 
-~~DISCUSSION~~
+~~DISCUSSION:closed~~
