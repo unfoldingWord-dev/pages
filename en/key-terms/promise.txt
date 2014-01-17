@@ -1,7 +1,7 @@
 ====== Promise ======
 
 
-==== (promise, covenant) ====
+
 
 
 ===== Definitions: =====
@@ -22,3 +22,4 @@
 
 
 ~~DISCUSSION~~
+(See also [[:en:key-terms:covenant|covenant]].)
