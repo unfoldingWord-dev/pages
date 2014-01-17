@@ -1,4 +1,4 @@
-====== Bless ======
+====== bless ======
 
 
 ==== (bless, blessed, blessing) ====
