@@ -13,10 +13,8 @@
 ===== Examples from the Bible stories: =====
 
 
-[[:en:obs-training:frames:05-03|Covenant Renewed [05-03]]] "Every male in your family must be circumcised."
-
-
-[[:en:obs-training:frames:05-04|Birth of Isaac [05-05]]]<font 13px/arial;;#000000;;#ffffff></font> That day Abraham circumcised all the males in his household
+  ***[[:en:obs-training:frames:05-03|[05-03]]]** "Every male in your family must be circumcised."
+  ***[[:en:obs-training:frames:05-04|[05-05]]]** That day Abraham circumcised all the males in his household...
 
 
 ~~DISCUSSION~~
