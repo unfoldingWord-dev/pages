@@ -1,8 +1,7 @@
 ====== Covenant ======
 
 
-==== (promise, covenant) ====
-
+Also see [[:en:key-terms:promise|promise]]
 
 ===== Definitions: =====
 
