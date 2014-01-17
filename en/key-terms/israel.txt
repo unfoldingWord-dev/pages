@@ -14,32 +14,16 @@
 ===== Examples from the Bible stories: =====
 
 
-[[:en:obs-training:frames:0x-0x|The Twelve Sons [08-15]]] The descendants of the twelve sons became the twelve tribes of **Israel**.
+  ***[[:en:obs-training:frames:0x-0x|[08-15]]]** The descendants of the twelve sons became the twelve tribes of **Israel**.
+  ***[[:en:obs-training:frames:0x-0x|[09-03]]]** The Egyptians forced the **Israelites** to build many buildings and even whole cities.
+  ***[[:en:obs-training:frames:0x-0x|[09-05]]]** A certain **Israelite** woman gave birth to a baby boy
+  ***[[:en:obs-training:frames:0x-0x|[10-01]]]** They said, "This is what the God of **Israel** says, 'Let my people go!'"
+  ***[[:en:obs-training:frames:0x-0x|[14-12]]]** But despite all this, the people of **Israel ** complained and grumbled against God and against Moses.
+  ***[[:en:obs-training:frames:0x-0x|[15-09]]]** God fought for **Israel ** that day by sending large hailstones that killed many of the Canaanites...
+  ***[[:en:obs-training:frames:0x-0x|[15-12]]]** After this battle, God gave each tribe of **Israel ** their own section of the Promised Land. Then God gave Israel peace along all its borders.
+  ***[[:en:obs-training:frames:0x-0x|[16-17]]]** God punished **Israel ** again for worshiping idols.
+  ***[[:en:obs-training:frames:0x-0x|[20-01]]]** The nations of **Israel ** and Judah both sinned against God.
+  ***[[:en:obs-training:frames:0x-0x|[43-06]]]** "Men of **Israel**, Jesus was a man who did many mighty signs and wonders by the power of God, as you have seen and already know."
 
 
-[[:en:obs-training:frames:0x-0x|Hard Labor [09-03]]] The Egyptians forced the **Israelites** to build many buildings and even whole cities.
-
-
-[[:en:obs-training:frames:0x-0x|The Birth of Moses [09-05]]] A certain **Israelite** woman gave birth to a baby boy
-
-
-[[:en:obs-training:frames:0x-0x|Let My People Go! [10-01]]] They said, "This is what the God of **Israel** says, 'Let my people go!'"
-
-
-[[:en:obs-training:frames:0x-0x|Water from a Rock [14-12]]] But despite all this, the people of **Israel ** complained and grumbled against God and against Moses.
-
-
-[[:en:obs-training:frames:0x-0x|God Fights the Canaanites [15-09]]] God fought for **Israel ** that day by sending large hailstones that killed many of the Canaanites
-
-
-[[:en:obs-training:frames:0x-0x|Dividing the Promised [15-12]]] After this battle, God gave each tribe of **Israel ** their own section of the Promised Land. Then God gave Israel peace along all its borders.
-
-
-[[:en:obs-training:frames:0x-0x|Sin and Deliverance [16-17]]] God punished **Israel ** again for worshiping idols.
-
-
-[[:en:obs-training:frames:0x-0x|Israel Sins [20-01]]] The nations of **Israel ** and Judah both sinned against God.
-
-
-[[:en:obs-training:frames:0x-0x|You Crucified Jesus [43-06]]]"Men of **Israel**, Jesus was a man who did many mighty signs and wonders by the power of God, as you have seen and already know."
 ~~DISCUSSION~~
