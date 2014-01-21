@@ -2,15 +2,15 @@
 
 {{:en:obs:obs-11-08.jpg?nolink&640x360}}
 
-**[[:en:key-terms:pharaoh|Pharaoh]] called for [[:en:key-terms:moses|Moses]]** and **[[:en:key-terms:aaron|Aaron]]** and said, “Take the **[[:en:key-terms:israel|Israelites]]** and leave **[[:en:key-terms:egypt|Egypt]]** immediately!” The **[[:en:key-terms:egypt|Egyptians]]** encouraged the **[[:en:key-terms:israel|Israelites]]** to leave **right away**.
+**[[:en:key-terms:pharaoh|Pharaoh]] called for [[:en:key-terms:moses|Moses]]** and **[[:en:key-terms:aaron|Aaron]] and said**, “Take the **[[:en:key-terms:israel|Israelites]]** and leave **[[:en:key-terms:egypt|Egypt]]** immediately!” The **[[:en:key-terms:egypt|Egyptians]]** encouraged the **[[:en:key-terms:israel|Israelites]]** to leave **right away**.
 
 
 ===== Translation Notes: =====
 
 
   * **called for** – This means that Pharaoh told his servants to tell Moses and Aaron to come to him. 
-  * **right away** - explanation
-  * **issue** - explanation
+  * **and said** – Pharaoh said the following words to Moses and Aaron after they came to him. In some languages it is necessary to say, “and said to them,” or, "After they came, Pharaoh said to them."
+  * **right away** - This means the same as immediately. 
   
 
 **[[:en:obs-training:frames:11-07|<<]] | [[:en:obs-training:11-the-passover|Up]] | [[:en:obs-training:frames:12-01|>>]]**
