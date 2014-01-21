@@ -2,13 +2,13 @@
 
 {{:en:obs:obs-10-03.jpg?nolink&640x360}}
 
-**[[:en:key-terms:god|God]]** turned the **[[:en:key-terms:nile-river|Nile River]] into blood**, but **[[:en:key-terms:pharaoh|Pharaoh]]** still would not let the **[[:en:key-terms:israel|Israelites]]** go.
+**[[:en:key-terms:god|God]] turned the [[:en:key-terms:nile-river|Nile River]] into blood**, but **[[:en:key-terms:pharaoh|Pharaoh]]** still would not let the **[[:en:key-terms:israel|Israelites]]** go.
 
 
 ===== Translation Notes: =====
 
 
-  * **into blood** - explanation
+  * **turned the Nile River into blood** - Some languages may need to say, “turned the water in the Nile River into blood.” Instead of water in the river there was blood, so the fish died and the people had no water to drink. 
   
 
 **[[:en:obs-training:frames:10-02|<<]] | [[:en:obs-training:10-the-ten-plagues|Up]] | [[:en:obs-training:frames:10-04|>>]]**
