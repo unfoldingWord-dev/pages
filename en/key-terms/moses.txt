@@ -14,19 +14,11 @@
 ===== Examples from the Bible stories: =====
 
 
-[[:en:obs-training:frames:0x-0x|The Burning Bush [09-12]]] One day while Moses was taking care of his sheep, he saw a bush that was on fire.
-
-
-[[:en:obs-training:frames:0x-0x|God Will Fight for You [12-05]]] Moses told the people, "Do not be afraid! God will fight for you today and save you."
-
-
-[[:en:obs-training:frames:0x-0x|Moses Separates the Sea [12-07]]] Moses lifted his hand over the sea, and God caused the wind to blow.
-
-
-[[:en:obs-training:frames:0x-0x|Israel Believes God  [12-12]]] When the Israelites saw that the Egyptians were dead, they believed in God and trusted that Moses was a prophet of God
-
-
-[[:en:obs-training:frames:0x-0x|The Stone Tablets [13-07]]] Then God wrote these Ten Commandments on two stone tablets and gave them to Moses
+  ***[[:en:obs-training:frames:09-12|[09-12]]]** One day while **Moses** was taking care of his sheep, he saw a bush that was on fire.
+  ***[[:en:obs-training:frames:12-05|[12-05]]]** **Moses** told the people, "Do not be afraid! God will fight for you today and save you."
+  ***[[:en:obs-training:frames:12-07|[12-07]]]** **Moses** lifted his hand over the sea, and God caused the wind to blow.
+  ***[[:en:obs-training:frames:12-12|[12-12]]]** When the Israelites saw that the Egyptians were dead, they believed in God and trusted that **Moses** was a prophet of God
+  ***[[:en:obs-training:frames:13-07|[13-07]]]** Then God wrote these Ten Commandments on two stone tablets and gave them to **Moses**.
 
 
 ~~DISCUSSION~~
