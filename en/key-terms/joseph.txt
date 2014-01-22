@@ -14,22 +14,12 @@
 ===== Examples from the Bible stories: =====
 
 
-[[:en:obs-training:frames:0x-0x|Joseph the Favorite Son [08-01]]] Joseph's brothers hated him because their father loved him most and because Joseph had dreamed that he would be their ruler.
-
-
-[[:en:obs-training:frames:0x-0x|Joseph in Egypt [08-04]]] The slave traders took Joseph to Egypt
-
-
-[[:en:obs-training:frames:0x-0x|Joseph in Prison [08-05]]]  Even in prison, Joseph remained faithful to God, and God blessed him.
-
-
-[[:en:obs-training:frames:0x-0x|Title [08-07]]]  God had given Joseph the ability to interpret dreams, so Pharaoh had Joseph brought to him from the prison.
-
-
-[[:en:obs-training:frames:0x-0x|Joseph Interprets the Dream [08-09]]]  During the seven years of good harvests, Joseph told the people to store up large amounts of food.
-
-
-[[:en:obs-training:frames:0x-0x|A New Pharaoh [09-02]]]    The Egyptians forgot about Joseph and all he had done to help them.
+  ***[[:en:obs-training:frames:08-01|[08-01]]]** **Joseph's** brothers hated him because their father loved him most and because Joseph had dreamed that he would be their ruler.
+  ***[[:en:obs-training:frames:08-04|[08-04]]]** The slave traders took **Joseph** to Egypt.
+  ***[[:en:obs-training:frames:08-05|[08-05]]]** Even in prison, **Joseph** remained faithful to God, and God blessed him.
+  ***[[:en:obs-training:frames:08-07|[08-07]]]** God had given **Joseph** the ability to interpret dreams, so Pharaoh had Joseph brought to him from the prison.
+  ***[[:en:obs-training:frames:08-09|[08-09]]]** During the seven years of good harvests, **Joseph** told the people to store up large amounts of food.
+  ***[[:en:obs-training:frames:09-02|[09-02]]]** The Egyptians forgot about **Joseph** and all he had done to help them.
 
 
 ~~DISCUSSION~~
