@@ -1,7 +1,7 @@
 ====== save ======
 
 
-==== (save, salvation) ====
+==== (save, salvation, saved) ====
 
 
 ===== Definitions: =====
@@ -12,8 +12,18 @@
 
 ===== Examples from the Bible stories: =====
 
+[[:en:obs-training:frames:09-08|Title [09-08]]] Moses tried to **save** his fellow Israelite.
 
-[[:en:obs-training:frames:0x-0x|Title [0x-0x]]]  "... Most 
+[[:en:obs-training:frames:11-02|Title [11-02]]] God provided a way to **save** the firstborn of anyone who believed in Him.
+
+[[:en:obs-training:frames:12-06|Title [12-06]]] Moses told the people, "Do not be afraid! God will fight for you today and **save** you."
+
+[[:en:obs-training:frames:12-13|Title [12-13]]] They also rejoiced with much excitement because God had **saved** them from death and slavery
+
+[[:en:obs-training:frames:49-12|Title [49-12]]] No one can be **saved** by doing good things. 
+
+[[:en:obs-training:frames:49-13|Title [49-13]]] Anyone who believes in Jesus and is baptized will be **saved**, but whoever does not believe will be rejected.
+ 
 
 
 ~~DISCUSSION~~
