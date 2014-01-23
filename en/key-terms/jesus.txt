@@ -1,7 +1,7 @@
-====== Caleb ======
+====== Jesus ======
 
 
-==== (term, other) ====
+==== (Jesus) ====
 
 
 ===== Definitions: =====
@@ -9,11 +9,17 @@
   * To 
 
 
+[See also: **[[:en:key-terms:god-son|Son of God]]**, **[[:en:key-terms:messiah|Messiah]]**]
+
+
 ===== Examples from the Bible stories: =====
+
+
 
   ***[[:en:obs-training:frames:xx-xx|[xx-xx]]]**  Text 
   ***[[:en:obs-training:frames:xx-xx|[xx-xx]]]**  Text 
   ***[[:en:obs-training:frames:xx-xx|[xx-xx]]]**  Text 
+
 
 
 ~~DISCUSSION~~

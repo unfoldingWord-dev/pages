@@ -9,15 +9,15 @@
   * To 
 
 
-[see also: **[[:en:key-terms:idol|idol]]**]
+[See also: **[[:en:key-terms:idol|idol]]**]
 
 
 ===== Examples from the Bible stories: =====
 
 
-
-  ***[[:en:obs-training:frames:0x-0x|[0x-0x]]]**  Text
-
+  ***[[:en:obs-training:frames:xx-xx|[xx-xx]]]**  Text 
+  ***[[:en:obs-training:frames:xx-xx|[xx-xx]]]**  Text 
+  ***[[:en:obs-training:frames:xx-xx|[xx-xx]]]**  Text 
 
 
 ~~DISCUSSION~~
