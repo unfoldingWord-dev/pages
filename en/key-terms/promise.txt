@@ -12,14 +12,16 @@
     * A promise is a vow or commitment to do something.
     * Promises are important parts of formal agreements such as covenants.
 
+[See also: **[[:en:key-terms:covenant|covenant]]**]
+
 
 ===== Examples from the Bible stories: =====
 
   ***[[:en:obs-training:frames:03-15|[03-15]]]** God said, "I **promise** I will never again curse the ground because of humans or destroy the world with a flood, even though humans are sinful from their youth."
-  ***[[:en:obs-training:frames:03-16|[03-16]]]** God then made the first rainbow as a sign of His **promise**. Every time the rainbow appeared in the sky, God would remember what He **promised** and so would His people.
+  ***[[:en:obs-training:frames:03-16|[03-16]]]** God then made the first rainbow as a sign of his **promise**. Every time the rainbow appeared in the sky, God would remember what he **promised** and so would his people.
   ***[[:en:obs-training:frames:04-08|[04-08]]]** God spoke to Abram and **promised** again that he would have a son and as many descendants as the stars in the sky. Abram believed God's **promise**.
   ***[[:en:obs-training:frames:05-04|[05-04]]]** "Your wife, Sarai, will have a son‚ he will be the son of **promise**. I will make Ishmael a great nation, too, but my covenant will be with Isaac."
 
 
+
 ~~DISCUSSION~~
-(See also [[:en:key-terms:covenant|covenant]].)
