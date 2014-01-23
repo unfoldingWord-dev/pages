@@ -6,7 +6,7 @@
 
 ===== Definitions: =====
 
-  * The Son of God is the second person of the three who are God.
+  * The Son of God is Jesus, the one God chose to rule the world.
 
 
 
@@ -17,8 +17,9 @@
 
 
 
-  ***[[:en:obs-training:frames:0x-0x|[0x-0x]]]**  Text
-
-
+  ***[[:en:obs-training:frames:24-09|[24-09]]]** God had told John, "The Holy Spirit will land on someone you baptize. He is the Son of God."
+  ***[[:en:obs-training:frames:32-01|[32-01]]]** The disciples were amazed. They worshiped Jesus, saying to him,"Truly, you are the Son of God."
+  ***[[:en:obs-training:frames:37-05|[37-05]]]** Martha answered. "I believe you are the Messiah, the Son of God."
+  ***[[:en:obs-training:frames:46-06|[46-06]]]** Immediately, Saul was baptized and began preaching to the Jews, saying, "Jesus is the Son of God!" ... Saul argued with the Jews, proving that Jesus was the Messiah.
 
 ~~DISCUSSION~~
