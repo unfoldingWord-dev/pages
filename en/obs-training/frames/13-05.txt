@@ -8,8 +8,8 @@
 ===== Translation Notes: =====
 
 
-  * **jealous [[:en:key-terms:god|God]]** - explanation
-  * **keep the [[:en:key-terms:sabbath|Sabbath]] day [[:en:key-terms:holy|holy]]** - explanation
+  * **jealous God** - explanation
+  * **keep the Sabbath day holy** - explanation
   * **seventh day** - explanation
   * **day of rest** - explanation
   
