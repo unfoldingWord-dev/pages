@@ -2,7 +2,7 @@
 
 {{:en:obs:obs-11-08.jpg?nolink&640x360}}
 
-**[[:en:key-terms:pharaoh|Pharaoh]] called for [[:en:key-terms:moses|Moses]]** and **[[:en:key-terms:aaron|Aaron]] and said**, “Take the **[[:en:key-terms:israel|Israelites]]** and leave **[[:en:key-terms:egypt|Egypt]]** immediately!” The **[[:en:key-terms:egypt|Egyptians]]** encouraged the **[[:en:key-terms:israel|Israelites]]** to leave **right away**.
+That same night, **[[:en:key-terms:pharaoh|Pharaoh]] called for [[:en:key-terms:moses|Moses]]** and **[[:en:key-terms:aaron|Aaron]] and said**, “Take the **[[:en:key-terms:israel|Israelites]]** and leave **[[:en:key-terms:egypt|Egypt]]** immediately!” The **[[:en:key-terms:egypt|Egyptian]]** people also urged the Israelites to leave **right away**.
 
 
 ===== Translation Notes: =====
@@ -16,5 +16,4 @@
 **[[:en:obs-training:frames:11-07|<<]] | [[:en:obs-training:11-the-passover|Up]] | [[:en:obs-training:frames:12-01|>>]]**
 
 
-
-~~DISCUSSION~~
+~~DISCUSSION:closed~~
