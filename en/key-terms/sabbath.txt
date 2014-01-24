@@ -1,7 +1,7 @@
 ====== Sabbath ======
 
 
-==== (Sabbath, Sabbath day) ====
+==== (Sabbath, day of rest, Sabbath day) ====
 
 
 ===== Definitions: =====
@@ -12,9 +12,10 @@
 ===== Examples from the Bible stories: =====
 
 
-  ***[[:en:obs-training:frames:xx-xx|[xx-xx]]]**  Text 
-  ***[[:en:obs-training:frames:xx-xx|[xx-xx]]]**  Text 
-  ***[[:en:obs-training:frames:xx-xx|[xx-xx]]]**  Text 
+  ***[[:en:obs-training:frames:13-05|[13-05]]]**  Remember to keep the **Sabbath day** holy.
+  ***[[:en:obs-training:frames:13-05|[13-05]]]**  Do all your work in six days, for the seventh day is a **day of rest** to remember the LORD.
+  ***[[:en:obs-training:frames:26-02|[26-02]]]**  On the **Sabbath**, he went to the place of worship.
+  ***[[:en:obs-training:frames:41-03|[41-03]]]**  The day after Jesus was buried was a **Sabbath**, a **day of rest**.   
 
 
 ~~DISCUSSION~~
