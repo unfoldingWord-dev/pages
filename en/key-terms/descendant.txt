@@ -1,12 +1,11 @@
 ====== descendant ======
 
 
-==== (descendant, son) ====
-
 ===== Definitions: =====
 
 
-    * Someone who is a direct blood relative of someone else further back in history.
+A descendant is someone who is a direct blood relative of someone else further back in history.
+
     * For example, Abraham was a descendant of Noah.
     * A person's descendants would be his children, grandchildren, great-great-grandchildren, etc.
 
@@ -19,4 +18,4 @@
   ***[[:en:obs-training:frames:18-13|[18-13]]]** The kings of Judah were **descendants** of David…
 
 
-~~DISCUSSION~~
+~~DISCUSSION:closed~~
