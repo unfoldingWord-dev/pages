@@ -2,16 +2,16 @@
 
 [image]{{:en:obs:obs-16-12.jpg?nolink&640x360}}
 
-Then **[[:en:key-terms:gideon|Gideon]]** returned to his soldiers and gave each of them **a horn**, **a clay pot**, and **a torch**. They surrounded the place where the **[[:en:key-terms:midian|Midianites]]** were sleeping. **The 300 men** had the torches in the pots so they could not be seen.
+Then **[[:en:key-terms:gideon|Gideon]]** returned to his soldiers and gave each of them **a horn**, **a clay pot**, and **a torch**. They surrounded the place where the **[[:en:key-terms:midian|Midianites]]** were sleeping. **The 300 men** had the torches in the pots so the Midianites could not see them.
 
 
 ===== Translation Notes: =====
 
 
-  * **a horn** - explanation
-  * **a clay pot** - explanation
-  * **a torch** - explanation
-  * **The 300 men** - explanation
+  * **a horn** - explanation required?
+  * **a clay pot** - explanation required?
+  * **a torch** - explanation required?
+  * **The 300 men** - The 300 soldiers that remained with Gideon after he sent home the other men who were afraid.
   
 
 **[[:en:obs-training:frames:16-11|<<]] | [[:en:obs-training:16-the-deliverers|Up]] | [[:en:obs-training:frames:16-13|>>]]**
