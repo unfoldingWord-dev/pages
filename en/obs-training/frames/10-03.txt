@@ -14,4 +14,4 @@
 **[[:en:obs-training:frames:10-02|<<]] | [[:en:obs-training:10-the-ten-plagues|Up]] | [[:en:obs-training:frames:10-04|>>]]**
 
 
-~~DISCUSSION~~
+~~DISCUSSION:closed~~
