@@ -2,9 +2,7 @@
 
 {{:en:obs:obs-17-01.jpg?nolink&640x360}}
 
-Saul was the first king of Israel. He was tall and handsome, just like the people wanted. Saul did well at first, but he became a wicked man who did not obey God, so God chose a different man to be king in his place.
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+**[[:en:key-terms:saul|Saul]]**was the first king of **[[:en:key-terms:israel|Israel]]**. He was tall and handsome, just like the people wanted. Saul did well at first, but he became a wicked man who did not **[[:en:key-terms:obey|obey]]** **[[:en:key-terms:god|God]]**, so God chose a different man who would one day be king in his place.
 
 
 ===== Translation Notes: =====
@@ -12,12 +10,9 @@ Saul was the first king of Israel. He was tall and handsome, just like the peopl
 
   * **issue** - explanation
   * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
   
 
 **[[:en:obs-training:frames:16-18|<<]] | [[:en:obs-training:17-gods-covenant-with-david|Up]] | [[:en:obs-training:frames:17-02|>>]]**
-
 
 
 ~~DISCUSSION~~
