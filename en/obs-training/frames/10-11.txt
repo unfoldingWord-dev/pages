@@ -2,7 +2,7 @@
 
 {{:en:obs:obs-10-11.jpg?nolink&640x360}}
 
-Then **[[:en:key-terms:god|God]] sent darkness that lasted for three days**. It was so dark that the **[[:en:key-terms:egypt|Egyptians]]** could not leave their houses. But where the **[[:en:key-terms:israel|Israelites]]** lived, there was light.
+Then **[[:en:key-terms:god|God]] sent darkness that lasted for three days**. It was so dark that the **[[:en:key-terms:egypt|Egyptians]]** could not leave their houses. But there was light where the **[[:en:key-terms:israel|Israelites]]** lived.
 
 
 ===== Translation Notes: =====
@@ -14,4 +14,4 @@ Then **[[:en:key-terms:god|God]] sent darkness that lasted for three days**. It 
 **[[:en:obs-training:frames:10-10|<<]] | [[:en:obs-training:10-the-ten-plagues|Up]] | [[:en:obs-training:frames:10-12|>>]]**
 
 
-~~DISCUSSION~~
+~~DISCUSSION:closed~~

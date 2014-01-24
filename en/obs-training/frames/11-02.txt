@@ -2,7 +2,7 @@
 
 {{:en:obs:obs-11-02.jpg?nolink&640x360}}
 
-**[[:en:key-terms:god|God]] provided** a way to **[[:en:key-terms:save|save]]** the **firstborn** of anyone who **[[:en:key-terms:believe|believed]]** in Him. Each family had to choose a **perfect [[:en:key-terms:lamb|lamb]] or goat** and kill it.
+**[[:en:key-terms:god|God]] provided** a way to **[[:en:key-terms:save|save]]** the **firstborn** of anyone who **[[:en:key-terms:believe|believed]]** in him. Each family had to choose a **perfect [[:en:key-terms:lamb|lamb]] or goat** and kill it.
 
 
 ===== Translation Notes: =====
@@ -16,4 +16,4 @@
 **[[:en:obs-training:frames:11-01|<<]] | [[:en:obs-training:11-the-passover|Up]] | [[:en:obs-training:frames:11-03|>>]]**
 
 
-~~DISCUSSION~~
+~~DISCUSSION:closed~~

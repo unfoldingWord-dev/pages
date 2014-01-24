@@ -2,7 +2,7 @@
 
 {{:en:obs:obs-10-10.jpg?nolink&640x360}}
 
-So **[[:en:key-terms:god|God]]** caused **swarms of locusts** to come over **[[:en:key-terms:egypt|Egypt]]**. These **locusts** ate what remained of the crops that the **hail** had not destroyed.
+So **[[:en:key-terms:god|God]]** caused **swarms of locusts** to come over **[[:en:key-terms:egypt|Egypt]]**. These **locusts** ate all the crops that the **hail** had not destroyed.
 
 
 ===== Translation Notes: =====
@@ -15,4 +15,4 @@ So **[[:en:key-terms:god|God]]** caused **swarms of locusts** to come over **[[:
 **[[:en:obs-training:frames:10-09|<<]] | [[:en:obs-training:10-the-ten-plagues|Up]] | [[:en:obs-training:frames:10-11|>>]]**
 
 
-~~DISCUSSION~~
+~~DISCUSSION:closed~~
