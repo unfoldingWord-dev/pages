@@ -5,10 +5,13 @@
 
 ===== Definitions: =====
 
+There are  several ways to disobey someone. 
 
-    * To refuse or fail to do something that was commanded.
-    * To do something that was prohibited or to do it differently than instructed.
+    * It is possible to disobey by refusing or failing to do something that was commanded.
+    * We can also disobey by doing something that was prohibited.
+    * And we can disobey by doing something differently than we were instructed.
 
+To disobey is the opposite of to **[[:en:key-terms:obey|obey]]**.
 
 [See also: **[[:en:key-terms:evil|evil]]**, **[[:en:key-terms:sin|sin]]**]
 
@@ -16,9 +19,9 @@
 
 
   ***[[:en:obs-training:frames:02-11|[02-11]]]** God said to the man, "You listened to your wife and **disobeyed** me."
-  ***[[:en:obs-training:frames:13-07|[13-07]]]** If the people obeyed these laws, God promised that He would bless and protect them. If they **disobeyed** them, God would punish them.
+  ***[[:en:obs-training:frames:13-07|[13-07]]]** If the people obeyed these laws, God promised that he would bless and protect them. If they **disobeyed** them, God would punish them.
   ***[[:en:obs-training:frames:35-12|[35-12]]]** He said, "All these years I’ve worked so faithfully for you! I never **disobeyed** you..."
   ***[[:en:obs-training:frames:16-02|[16-02]]]** As a result of this **disobedience**, God punished the Israelites by allowing them to be defeated by their enemies.
 
 
-~~DISCUSSION~~
+~~DISCUSSION:closed~~
