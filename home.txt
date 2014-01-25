@@ -23,6 +23,7 @@
     * [[:jit:home|Echijita (jit)]]
     * [[:ko:home|한국어 (ko)]]
     * [[:lki:home|لەکی (‎Laki, lki]]
+    * [[:loe:home|Saluan (loe)]]
     * [[:lv:home|Latviešu Valoda (lv)]]
     * [[:ms:home|Bahasa Melayu (ms)]]
     * [[:my:home|ဗမာစာ (my)]]
