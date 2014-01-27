@@ -4,7 +4,7 @@
 {{:en:obs:obs-01-05.jpg?nolink&640x360}}
 
 
-Then **[[:en:key-terms:god|God]] said**, "**Let the earth produce** **all kinds** of trees and plants." And that is what happened. **[[:en:key-terms:god|God]]** saw that what He had created **was [[:en:key-terms:good|good]]**, and He was pleased with it all. **[[:en:key-terms:god|God]]** saw that what He had **created** was **[[:en:key-terms:good|good]]**.
+Then **[[:en:key-terms:god|God]] said**, "**Let the earth produce** **all kinds** of trees and plants." And that is what happened. God saw that what he had **created** **was [[:en:key-terms:good|good]]**.
 
 
 ===== Translation Notes: =====
@@ -13,8 +13,8 @@ Then **[[:en:key-terms:god|God]] said**, "**Let the earth produce** **all kinds*
     * **God said** - God created all vegetation by speaking a command.
     * **let the earth produce** - This is a command that happened immediately because God spoke it.
     * **all kinds** - The many different species, or types, of plants and trees.
-    * **was good** - This phrase is often repeated through the Creation story, and emphasizes that each stage of creation was pleasing to God and accomplished his plan and purpose.
     * **created** - This word is used here in the sense of making something out of nothing.
+    * **was good** - This phrase is often repeated through the Creation story, and emphasizes that each stage of creation was pleasing to God and accomplished his plan and purpose.
 
 
 **[[en/obs-training/frames/01-04|<<]] | [[:en:obs-training:01-the-creation|Up]] | [[en/obs-training/frames/01-06|>>]]**
