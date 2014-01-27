@@ -2,6 +2,8 @@
 
 {{:en:obs:obs-27-05.jpg?nolink&640x360}}
 
+“While the man was traveling, he was attacked by a group of robbers. They took everything he had and beat him until he was almost dead. Then they went away.”
+
 [text] with inline links - **[[:en:key-terms:page|sample]]**
 
 
