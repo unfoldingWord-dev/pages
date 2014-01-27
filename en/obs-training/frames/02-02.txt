@@ -4,7 +4,7 @@
 {{:en:obs:obs-02-02.jpg?nolink&640x360}}
 
 
-But there was a **crafty snake** in the garden. He asked the woman, “**Did [[:en:key-terms:god|God]] really tell you** not to eat the **fruit from the trees** in the garden?”
+But there was a **crafty snake** in the garden. He asked the woman, “**Did [[:en:key-terms:god|God]] really tell you** not to eat the **fruit from any of the the trees** in the garden?”
 
 
 ===== Translation Notes: =====
@@ -13,7 +13,7 @@ But there was a **crafty snake** in the garden. He asked the woman, “**Did [[:
     * **crafty** - Clever and sly, with the intent to deceive. 
     * **snake** - An elongated, legless land creature that now moves by wiggling on its belly. Although later on in the story it is revealed that the snake is Satan, this should not be said here in this frame. 
     * **Did God really tell you …** - The snake asked the woman whether God actually said not to eat from any of the trees in the garden. But he was only pretending that he didn't know what God had said because he wanted to create doubt in the woman's mind. He wanted her to question God's goodness. 
-    * **fruit of the trees** - All of the various types of fruit from each of the different trees in the garden.
+    * **fruit of any of the trees** - All of the various types of fruit from each of the different trees in the garden.
 
 **[[:en:obs-training:frames:02-01|<<]] | [[:en:obs-training:02-sin-enters-the-world|Up]] | [[:en:obs-training:frames:02-03|>>]]**
 
