@@ -6,10 +6,10 @@
 
 ===== Definitions: =====
 
+A promise is a vow or commitment to do something.
 
     * When someone promises to do something, he says that he will definitely do it.
     * When someone promises that something will happen, he says that it will definitely happen.
-    * A promise is a vow or commitment to do something.
     * Promises are important parts of formal agreements such as covenants.
 
 [See also: **[[:en:key-terms:covenant|covenant]]**]
