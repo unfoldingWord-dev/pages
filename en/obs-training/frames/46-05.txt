@@ -2,7 +2,9 @@
 
 {{:en:obs:obs-46-05.jpg?nolink&640x360}}
 
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+So Ananias said to Saul, “Jesus who appeared to you on the road sent me to you so that you can regain your sight and be filled with the Holy Spirit.” Saul immediately regained his sight. Then Saul was baptized. He ate some food and his strength returned.
+
+[text] with inline links - **[[:en:key-terms:page|sample]]** 
 
 
 ===== Translation Notes: =====
