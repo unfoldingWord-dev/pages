@@ -4,9 +4,10 @@
 {{:en:obs:obs-01-02.jpg?nolink&640x360}}
 
 
-Then **[[:en:key-terms:god|God]] spoke and said**, "**Let there be** light!" And there was **light**. **[[:en:key-terms:god|God]]** saw that the light **was [[:en:key-terms:good|good]]** and called it "day." He separated it from the darkness, which He called "night." **[[:en:key-terms:god|God]]** created the light on the first day of **creation**.
-===== Translation Notes: =====
+Then **[[:en:key-terms:god|God]] spoke and said**, "**Let there be** light!" And there was **light**. God saw that the light **was [[:en:key-terms:good|good]]** and called it "day." He separated it from the darkness, which he called "night." God created the light on the first day of **creation**.
 
+
+===== Translation Notes: =====
 
     * **God... said**- God created light by means of a simple verbal command.
     * **let there be**  - This is a command that happened immediately because it was spoken by God. It may be more natural to translate this as a statement of certainty that this would definitely happen. For example, you could translate this as, “God said, 'There will be light.'”
