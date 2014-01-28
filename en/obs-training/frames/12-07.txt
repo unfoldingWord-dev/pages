@@ -2,14 +2,15 @@
 
 {{:en:obs:obs-12-07.jpg?nolink&640x360}}
 
-**[[:en:key-terms:moses|Moses]]** lifted his hand over the sea, and **[[:en:key-terms:god|God]]** caused the wind to blow. The wind made the water in the sea separate to the left and the right, making a path through the sea.
+**[[:en:key-terms:moses|Moses]] lifted his hand over the sea**, and **[[:en:key-terms:god|God]]** caused the wind to blow. **The wind made the water in the sea separate** to the left and the right, **making a path** through the sea.
 
 
 ===== Translation Notes: =====
 
 
-  * **issue** - explanation
-  * **issue** - explanation
+  * **lifted his hand over the sea** - This could be translated as “raised his hand over the sea” or “held out his hand over the sea”. This was a gesture to show that God was doing this miracle through Moses. 
+  * **The wind made the water in the sea separate** – Another way to say this would be, “God used the wind to push the water in the sea…” 
+  * **making a path** – Another way to say this would be, “so that a path formed” or "so that a path appeared."
   
 
 **[[:en:obs-training:frames:12-06|<<]] | [[:en:obs-training:12-the-exodus|Up]] | [[:en:obs-training:frames:12-08|>>]]**
