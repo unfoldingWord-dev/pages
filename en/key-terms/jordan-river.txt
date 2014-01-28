@@ -1,10 +1,7 @@
 ====== Jordan River ======
 
 
-==== (term, other) ====
-
-
-===== Definitions: =====
+===== Facts: =====
 
   * To 
 
@@ -15,7 +12,6 @@
   ***[[:en:obs-training:frames:xx-xx|[xx-xx]]]**  Text 
   ***[[:en:obs-training:frames:xx-xx|[xx-xx]]]**  Text 
   ***[[:en:obs-training:frames:xx-xx|[xx-xx]]]**  Text 
-
 
 
 ~~DISCUSSION~~

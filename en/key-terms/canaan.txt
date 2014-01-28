@@ -1,7 +1,9 @@
 ====== Canaan ======
 
+==== (Canaan, Promised Land) ====
 
-===== Definitions: =====
+
+===== Facts: =====
 
 This was the name of the land in the Middle East from the valley of the Jordan River to the Mediterranean Sea. 
 
@@ -15,6 +17,8 @@ This was the name of the land in the Middle East from the valley of the Jordan R
   ***[[:en:obs-training:frames:04-09|[04-09]]]** "To your descendants I give the land of **Canaan**." 
   ***[[:en:obs-training:frames:05-03|[05-03]]]** "I will give you and your descendants the land of **Canaan** as their possession and I will be their God forever."
   ***[[:en:obs-training:frames:07-08|[07-08]]]** After twenty years away from his home in **Canaan**, Jacob returned there with his family, his servants, and all his herds of animals.
+
+[See also: **[[:en:key-terms:promised-land|Promised Land]]**]
 
 
 ~~DISCUSSION~~
