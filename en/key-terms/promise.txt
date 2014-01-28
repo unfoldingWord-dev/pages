@@ -23,5 +23,4 @@ A promise is a vow or commitment to do something.
   ***[[:en:obs-training:frames:05-04|[05-04]]]** "Your wife, Sarai, will have a son‚ he will be the son of **promise**. I will make Ishmael a great nation, too, but my covenant will be with Isaac."
 
 
-
-~~DISCUSSION~~
+~~DISCUSSION:closed~~

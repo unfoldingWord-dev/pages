@@ -4,13 +4,13 @@
 ===== Definitions: =====
 
 
-An altar is a raised structure on which animals were killed and burned as a gift, or offering, to God.
+An altar is a raised structure on which sacrifices were burned as gifts, or offerings, to God.
 
     * Altars were often made by packing together a mound of earth or by carefully placing stones into a large pile. 
     * Some special altars were made of metal, such as gold or bronze.
     * God told his people to build altars on which to make sacrifices to him, and the nations around Israel also built altars to make sacrifices to their gods.
 
-See also Sacrifice.
+[See also: **[[:en:key-terms:sacrifice|sacrifice]]**]
 
 
 ===== Examples from the Bible stories: =====
@@ -21,4 +21,4 @@ See also Sacrifice.
   ***[[:en:obs-training:frames:16-06|[16-06]]]** He built an **altar** to God where the idol used to be and made a sacrifice to God.
 
 
-~~DISCUSSION~~
+~~DISCUSSION:closed~~
