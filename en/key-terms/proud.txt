@@ -10,7 +10,7 @@ A proud person thinks of himself as better than others, or as more important tha
 
 Being proud can lead a person to disobey God.
 
-The opposite of "proud" is "humble."
+The opposite of "proud" is "**[[:en:key-terms:humble|humble]]**."
 
 ===== Examples from the Bible stories: =====
 
@@ -19,4 +19,4 @@ The opposite of "proud" is "humble."
   ***[[:en:obs-training:frames:34-10|[34-10]]]** Then Jesus said, "I tell you the truth, the tax collector went home forgiven, and not the religious leader. Everyone who is **proud** will be humbled, but whoever humbles himself will be lifted up."
 
 
-~~DISCUSSION~~
+~~DISCUSSION:closed~~
