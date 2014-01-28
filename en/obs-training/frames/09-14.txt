@@ -2,16 +2,16 @@
 
 {{:en:obs:obs-09-14.jpg?nolink&640x360}}
 
-**[[:en:key-terms:moses|Moses]]** said, “What if **the people** ask me who sent me, what should I say?” **[[:en:key-terms:god|God]]** said, “**I AM WHO I AM**. Tell them, ‘**I AM** has sent me to you.’ This is **My name** forever.”
+**[[:en:key-terms:moses|Moses]]** said, “What if **the people** want to know who sent me, what should I say?” **[[:en:key-terms:god|God]]** said, “**I AM WHO I AM**. Tell them, ‘**I AM** has sent me to you.’ Also tell them, 'I am **[[:en:key-terms:yahweh|Yahweh]]**, the God of your ancestors **[[:en:key-terms:abraham|Abraham]]**, **[[:en:key-terms:isaac|Isaac]]**, and **[[:en:key-terms:jacob|Jacob]]**.' This is **My name** forever.”
 
 
 ===== Translation Notes: =====
 
 
   * **the people** -  This refers to the leaders of the Israelites.
-  * FIXME**I AM WHO I AM** - This description shows that God can only be defined by himself, not by anything else that we know of, and he cannot be compared to anyone else. 
-  * FIXME**I AM** - This name emphasizes that God is the only one who has always lived and always will live. 
-  * FIXME**My name** - explanation
+  * **I AM WHO I AM** - This description shows that God can only be defined by himself, not by anything else that we know of, and he cannot be compared to anyone else. 
+  * **I AM** - This name emphasizes that God is the only one who has always lived and always will live. 
+  * **My name** - The name that God used for himself is "Yahweh," which appears to mean "I AM." This name emphasizes the self-existence and eternal nature of God.
   
 
 **[[:en:obs-training:frames:09-13|<<]] | [[:en:obs-training:09-god-calls-moses|Up]] | [[:en:obs-training:frames:09-15|>>]]**
