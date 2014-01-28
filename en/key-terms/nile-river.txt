@@ -1,10 +1,7 @@
 ======  Nile River ======
 
 
-
-
-
-===== Definitions: =====
+===== Facts: =====
 
   * The Nile is a river in northeastern Africa.
   * It flows north through Egypt into the Mediterranean Sea.
