@@ -1,14 +1,11 @@
 ====== obey ======
 
-
-==== (obey, obedience) ====
-
 ===== Definitions: =====
-To obey is to do what one is told to do and also to __not__ do what one is told __not__ to do.
+
+To obey is to follow the law or to do what someone in authority commands.
 
     * When the law or someone in authority commands people to do something, they obey by doing it.
     * When the law or someone in authority commands people not to do something, they obey by not doing it.
-    * Obedience is the act of obeying, of following the law or what someone in authority commands.
   
 The only person who completely obeyed God was Jesus Christ, and him alone. The opposite of "**obey**" is "**[[:en:key-terms:disobey|disobey]]**."
 
@@ -21,4 +18,4 @@ The only person who completely obeyed God was Jesus Christ, and him alone. The o
   ***[[:en:obs-training:frames:05-10|[11-06]]]** But the Egyptians did not believe God or **obey** his commands.
 
 
-~~DISCUSSION~~
+~~DISCUSSION:closed~~
