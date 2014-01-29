@@ -2,9 +2,7 @@
 
 {{:en:obs:obs-20-02.jpg?nolink&640x360}}
 
-So God punished both nations by allowing their enemies to destroy them. Israel was destroyed by the Assyrian Empire, a powerful, cruel nation. The Assyrians killed many Israelites, took away everything of value, and burned much of the country.
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+So **[[:en:key-terms:god|God]]** **[[:en:key-terms:punish|punished]]** both nations by allowing their enemies to destroy them. **[[:en:key-terms:israel|Israel]]**  was destroyed by the **[[:en:key-terms:assyria|Assyrian Empire]]**, a powerful, cruel nation. The Assyrians killed many **[[:en:key-terms:israel|Israelites]]**, took away everything of value, and burned much of the country.
 
 
 ===== Translation Notes: =====

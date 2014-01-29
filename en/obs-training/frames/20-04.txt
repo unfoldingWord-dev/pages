@@ -2,9 +2,7 @@
 
 {{:en:obs:obs-20-04.jpg?nolink&640x360}}
 
-Then the Assyrians brought foreigners to live in Israel. The foreigners rebuilt the destroyed cities and married the Israelites who were left there. Their descendants were called Samaritans.
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+Then the **[[:en:key-terms:assyria|Assyrians]]** brought foreigners to live in **[[:en:key-terms:israel|Israel]]**. The foreigners rebuilt the destroyed cities and married the **[[:en:key-terms:israel|Israelites]]** who were left there. Their **[[:en:key-terms:descendant|descendants]]** were called **[[:en:key-terms:samaria|Samaritans]]**.
 
 
 ===== Translation Notes: =====
