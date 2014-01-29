@@ -2,9 +2,7 @@
 
 {{:en:obs:obs-21-07.jpg?nolink&640x360}}
 
-A priest is someone who makes sacrifices to God on behalf of the people to take away their sins. Priests also pray to God for the people. The coming Messiah would be the perfect high priest who would offer himself as a perfect sacrifice to God.
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+A **[[:en:key-terms:priest|priest]]** is someone who makes **[[:en:key-terms:sacrifice|sacrifices]]** to **[[:en:key-terms:god|God]]** on behalf of the people to take away their **[[:en:key-terms:sin|sins]]**. Priests also **[[:en:key-terms:pray|pray]]** to God for the people. The coming **[[:en:key-terms:messiah|Messiah]]** would be the perfect high priest who would offer himself as a perfect sacrifice to God.
 
 
 ===== Translation Notes: =====
