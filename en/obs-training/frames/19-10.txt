@@ -2,9 +2,7 @@
 
 [image]{{:en:obs:obs-19-10.jpg?nolink&640x360}}
 
-Then Elijah prayed, “O Yahweh, God of Abraham, Isaac, and Jacob, show us today that you are the God of Israel and that I am your servant. Answer me so that these people will know that you are the true God.”
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+Then **[[:en:key-terms:elijah|Elijah]]** **[[:en:key-terms:pray|prayed]]**, “O **[[:en:key-terms:yahweh|Yahweh]]**, **[[:en:key-terms:god|God]]** of **[[:en:key-terms:abraham|Abraham]]**, **[[:en:key-terms:isaac|Isaac]]**, and **[[:en:key-terms:jacob|Jacob]]**, show us today that you are the God of **[[:en:key-terms:israel|Israel]]** and that I am your **[[:en:key-terms:servant|servant]]**. Answer me so that these people will know that you are the **[[:en:key-terms:true|true]]** God.”
 
 
 ===== Translation Notes: =====
