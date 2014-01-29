@@ -2,10 +2,7 @@
 
 {{:en:obs:obs-19-06.jpg?nolink&640x360}}
 
-All of Israel, including the 450 prophets of Baal, came to Mount Carmel. Elijah said to the people, “How long will you keep changing your mind? If Yahweh is God, serve him! If Baal is God, serve him!”
-
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+All of **[[:en:key-terms:israel|Israel]]**, including the 450 **[[:en:key-terms:prophet|prophets]]** of **[[:en:key-terms:baal|Baal]]**, came to **[[:en:key-terms:mount-carmel|Mount Carmel]]**. **[[:en:key-terms:elijah|Elijah]]** said to the people, “How long will you keep changing your mind? If **[[:en:key-terms:yahweh|Yahweh]]** is **[[:en:key-terms:god|God]]**, serve him! If Baal is God, serve him!”
 
 
 ===== Translation Notes: =====

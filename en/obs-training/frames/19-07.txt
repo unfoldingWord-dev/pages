@@ -2,9 +2,7 @@
 
 {{:en:obs:obs-19-07.jpg?nolink&640x360}}
 
-Then Elijah said to the prophets of Baal, “Kill a bull and prepare a sacrifice, but do not light the fire. I will do the same. The God who answers with fire is the real God.” So the priests of Baal prepared a sacrifice but did not light the fire.
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+Then **[[:en:key-terms:elijah|Elijah]]** said to the **[[:en:key-terms:prophet|prophets]]** of **[[:en:key-terms:baal|Baal]]**, “Kill a bull and prepare a **[[:en:key-terms:sacrifice|sacrifice]]**, but do not light the fire. I will do the same. The **[[:en:key-terms:god|God]]** who answers with fire is the real God.” So the **[[:en:key-terms:priest|priests]]** of Baal prepared a sacrifice but did not light the fire.
 
 
 ===== Translation Notes: =====

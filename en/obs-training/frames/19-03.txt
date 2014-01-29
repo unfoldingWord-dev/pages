@@ -2,9 +2,7 @@
 
 {{:en:obs:obs-19-03.jpg?nolink&640x360}}
 
-God told Elijah to hide in the wilderness near a stream. Every morning and every evening, birds would bring him bread and meat. Ahab and his army looked for Elijah, but they could not find him. The drought was so severe that the stream eventually dried up.
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+**[[:en:key-terms:god|God]]** told **[[:en:key-terms:elijah|Elijah]]** to hide in the wilderness near a stream. Every morning and every evening, birds would bring him bread and meat. **[[:en:key-terms:ahab|Ahab]]** and his army looked for Elijah, but they could not find him. The drought was so severe that the stream eventually dried up.
 
 
 ===== Translation Notes: =====

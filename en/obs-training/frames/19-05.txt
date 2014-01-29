@@ -2,9 +2,7 @@
 
 {{:en:obs:obs-19-05.jpg?nolink&640x360}}
 
-After three and a half years, God told Elijah to return to Israel and speak with Ahab because he was going to send rain again. When Ahab saw Elijah he said, “There you are, you troublemaker!” Elijah said, “You are the troublemaker! You have abandoned Yahweh, the true God, and worshiped Baal. Bring all of Israel to Mount Carmel.”
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+After three and a half years, **[[:en:key-terms:god|God]]** told **[[:en:key-terms:elijah|Elijah]]** to return to **[[:en:key-terms:israel|Israel]]** and speak with **[[:en:key-terms:ahab|Ahab]]** because he was going to send rain again. When Ahab saw Elijah he said, “There you are, you troublemaker!” Elijah said, “You are the troublemaker! You have abandoned **[[:en:key-terms:yahweh|Yahweh]]**, the true God, and **[[:en:key-terms:worship|worshiped]]** **[[:en:key-terms:baal|Baal]]**. Bring all of Israel to **[[:en:key-terms:mount-carmel|Mount Carmel]]**.”
 
 
 ===== Translation Notes: =====
