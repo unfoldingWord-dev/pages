@@ -2,9 +2,7 @@
 
 {{:en:obs:obs-17-09.jpg?nolink&640x360}}
 
-David ruled with justice and faithfulness for many years, and God blessed him. However, toward the end of his life he sinned terribly before God.
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+**[[:en:key-terms:david|David]]** ruled with **[[:en:key-terms:justice|justice]]** and **[[:en:key-terms:faith|faithfulness]]** for many years, and **[[:en:key-terms:god|God]]** **[[:en:key-terms:bless|blessed]]** him. However, toward the end of his life he **[[:en:key-terms:sin|sinned]]** terribly before God.
 
 
 ===== Translation Notes: =====
