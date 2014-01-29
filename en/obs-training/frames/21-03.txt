@@ -2,9 +2,7 @@
 
 {{:en:obs:obs-21-03.jpg?nolink&640x360}}
 
-God promised Moses that he would raise up another prophet like Moses. This was another promise about the coming Messiah.
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+**[[:en:key-terms:god|God]]** **[[:en:key-terms:promise|promised]]** **[[:en:key-terms:moses|Moses]]** that he would raise up another **[[:en:key-terms:prophet|prophet]]** like Moses. This was another promise about the coming **[[:en:key-terms:messiah|Messiah]]**.
 
 
 ===== Translation Notes: =====

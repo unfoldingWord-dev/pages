@@ -2,10 +2,7 @@
 
 {{:en:obs:obs-21-02.jpg?nolink&640x360}}
 
-God promised Abraham that through him all people groups of the world would be blessed. This blessing was the coming Messiah who would one day provide the way of salvation for all people groups.
-
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+**[[:en:key-terms:god|God]]** promised **[[:en:key-terms:abraham|Abraham]]** that through him all people groups of the world would be **[[:en:key-terms:bless|blessed]]**. This blessing was the coming **[[:en:key-terms:messiah|Messiah]]** who would one day provide the way of **[[:en:key-terms:save|salvation]]** for all people groups.
 
 
 ===== Translation Notes: =====

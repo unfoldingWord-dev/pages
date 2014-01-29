@@ -2,10 +2,7 @@
 
 {{:en:obs:obs-21-04.jpg?nolink&640x360}}
 
-God promised David that the Messiah would be one of David’s own descendants.
-
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+**[[:en:key-terms:god|God]]** **[[:en:key-terms:promise|promised]]** **[[:en:key-terms:david|David]]** that the **[[:en:key-terms:messiah|Messiah]]** would be one of David’s own **[[:en:key-terms:descendant|descendants]]**.
 
 
 ===== Translation Notes: =====
