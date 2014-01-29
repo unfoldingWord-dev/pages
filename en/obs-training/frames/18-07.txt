@@ -2,9 +2,7 @@
 
 {{:en:obs:obs-18-07.jpg?nolink&640x360}}
 
-Ten of the tribes of Israel rebelled against Rehoboam. Only two tribes remained faithful to him. These two tribes became the kingdom of Judah.
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+Ten of the tribes of **[[:en:key-terms:israel|Israel]]** rebelled against **[[:en:key-terms:rehoboam|Rehoboam]]**. Only two tribes remained faithful to him. These two tribes became the **[[:en:key-terms:kingdom|kingdom]]** of **[[:en:key-terms:judah|Judah]]**.
 
 
 ===== Translation Notes: =====

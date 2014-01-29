@@ -2,9 +2,7 @@
 
 {{:en:obs:obs-18-08.jpg?nolink&640x360}}
 
-he other ten tribes that rebelled against Rehoboam made a man named Jeroboam their king. They set up their kingdom in the northern part of the land and were called the kingdom of Israel.
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+The other ten tribes that rebelled against **[[:en:key-terms:rehoboam|Rehoboam]]** made a man named **[[:en:key-terms:jeroboam|Jeroboam]]** their king. They set up their **[[:en:key-terms:kingdom|kingdom]]** in the northern part of the land and were called the kingdom of **[[:en:key-terms:israel|Israel]]**.
 
 
 ===== Translation Notes: =====

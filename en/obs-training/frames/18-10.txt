@@ -2,9 +2,7 @@
 
 {{:en:obs:obs-18-10.jpg?nolink&640x360}}
 
-The kingdoms of Judah and Israel became enemies and often fought against each other.
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+The **[[:en:key-terms:kingdom|kingdoms]]** of **[[:en:key-terms:judah|Judah]]** and **[[:en:key-terms:israel|Israel]]** became enemies and often fought against each other.
 
 
 ===== Translation Notes: =====
