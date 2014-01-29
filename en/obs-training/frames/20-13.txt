@@ -2,9 +2,7 @@
 
 {{:en:obs:obs-20-13.jpg?nolink&640x360}}
 
-When the people arrived in Jerusalem, they rebuilt the Temple and the wall around the city. Although they were still ruled by other people, they lived in the Promised Land again and worshiped at the Temple.
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+When the people arrived in **[[:en:key-terms:jerusalem|Jerusalem]]**, they rebuilt the **[[:en:key-terms:temple|Temple]]** and the wall around the city. Although they were still ruled by other people, they lived in the **[[:en:key-terms:promised-land|Promised Land]]** again and worshiped at the Temple.
 
 
 ===== Translation Notes: =====
