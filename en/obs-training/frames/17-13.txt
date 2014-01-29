@@ -2,9 +2,7 @@
 
 {{:en:obs:obs-17-13.jpg?nolink&640x360}}
 
-After Uriah was killed, David married Bathsheba. Later, she gave birth to David's son. God was not pleased with what David had done, so he sent the prophet Nathan to show David his sin. David repented of his sin and God forgave him. For the rest of his life, David trusted God, even in difficult times.
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+After **[[:en:key-terms:uriah|Uriah]]** was killed, **[[:en:key-terms:david|David]]** married **[[:en:key-terms:bathsheba|Bathsheba]]**. Later, she gave birth to David's son. **[[:en:key-terms:god|God]]** was not pleased with what David had done, so he sent the **[[:en:key-terms:prophet|prophet]]** **[[:en:key-terms:nathan|Nathan]]** to show David his **[[:en:key-terms:sin|sin]]**. David **[[:en:key-terms:repent|repented]]** of his sin and God **[[:en:key-terms:forgive|forgave]]** him. For the rest of his life, David **[[:en:key-terms:trust|trusted]]** God, even in difficult times.
 
 
 ===== Translation Notes: =====

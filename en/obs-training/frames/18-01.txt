@@ -2,9 +2,7 @@
 
 {{:en:obs:obs-18-01.jpg?nolink&640x360}}
 
-After David died, his son Solomon began to rule. God spoke to Solomon and asked him what he wanted most. When Solomon asked for wisdom, God was pleased and made him the wisest man in the world. God also made him very wealthy.
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+After **[[:en:key-terms:david|David]]** died, his son **[[:en:key-terms:solomon|Solomon]]** began to rule. **[[:en:key-terms:god|God]]** spoke to Solomon and asked him what he wanted most. When Solomon asked for **[[:en:key-terms:wise|wisdom]]**, God was pleased and made him the wisest man in the world. God also made him very wealthy.
 
 
 ===== Translation Notes: =====
