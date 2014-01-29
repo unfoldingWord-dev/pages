@@ -2,9 +2,7 @@
 
 {{:en:obs:obs-18-06.jpg?nolink&640x360}}
 
-Rehoboam answered foolishly and told them, “You thought my father Solomon made you work hard, but I will make you work harder than he did, and I will punish you worse than he did.”
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+**[[:en:key-terms:rehoboam|Rehoboam]]** answered foolishly and told them, “You thought my father **[[:en:key-terms:solomon|Solomon]]** made you work hard, but I will make you work harder than he did, and I will **[[:en:key-terms:punish|punish]]** you worse than he did.”
 
 
 ===== Translation Notes: =====
