@@ -2,22 +2,17 @@
 
 {{:en:obs:obs-17-02.jpg?nolink&640x360}}
 
-This man’s name was David. He was a shepherd from the town of Bethlehem. While watching the sheep, David had killed both a lion and a bear which had attacked the sheep. David was a humble and righteous man who trusted and obeyed God.
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+**This man’s name** was **[[:en:key-terms:david|David]]**. He was a **[[:en:key-terms:shepherd|shepherd]]** from the town of **[[:en:key-terms:bethlehem|Bethlehem]]**. While **watching the sheep**, David had killed both a lion and a bear which had attacked the sheep. David was a **[[:en:key-terms:humble|humble]]** and **[[:en:key-terms:righteous|righteous]]** man who **[[:en:key-terms:trust|trusted]]** and **[[:en:key-terms:obey|obeyed]]** **[[:en:key-terms:God|God]]**.
 
 
 ===== Translation Notes: =====
 
 
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
+  * **This man’s name** - That is, the man that God chose to replace King Saul.
+  * **watching the sheep** - That is, leading, caring for, and protecting the sheep.
   
 
 **[[:en:obs-training:frames:17-01|<<]] | [[:en:obs-training:17-gods-covenant-with-david|Up]] | [[:en:obs-training:frames:17-03|>>]]**
-
 
 
 ~~DISCUSSION~~

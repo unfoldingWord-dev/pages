@@ -2,17 +2,13 @@
 
 {{:en:obs:obs-17-03.jpg?nolink&640x360}}
 
-David was also a great soldier and leader. When David was still a young man, he fought against a giant named Goliath. Goliath was a trained soldier, very strong, and almost three meters tall! But God helped David kill Goliath and save Israel.
-
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+**[[:en:key-terms:david|David]]** was also a great soldier and leader. When David was still a young man, he fought against **a giant named Goliath**. Goliath was a trained soldier, very strong, and almost three meters tall! But **[[:en:key-terms:god|God]]** helped David kill Goliath and save **[[:en:key-terms:israel|Israel]]**.
 
 
 ===== Translation Notes: =====
 
 
-  * **issue** - explanation
-  * **issue** - explanation
+  * **a giant named Goliath** - Goliath was a huge soldier who fought for the enemies of Israel.
   * **issue** - explanation
   * **issue** - explanation
   
