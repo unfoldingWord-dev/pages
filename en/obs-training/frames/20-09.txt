@@ -2,9 +2,7 @@
 
 {{:en:obs:obs-20-09.jpg?nolink&640x360}}
 
-Nebuchadnezzar and his army took all the people of Judah to Babylon, leaving only the poorest people behind to plant the fields. This period of time when God's people could not live in the Promised Land is called the Exile.
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+**[[:en:key-terms:nebuchadnezzar|Nebuchadnezzar]]** and his army took all the people of **[[:en:key-terms:judah|Judah]]** to **[[:en:key-terms:babylon|Babylon]]**, leaving only the poorest people behind to plant the fields. This period of time when **[[:en:key-terms:god|God's]]** people could not live in the **[[:en:key-terms:promised-land|Promised Land]]** is called the **[[:en:key-terms:exile|Exile]]**.
 
 
 ===== Translation Notes: =====
