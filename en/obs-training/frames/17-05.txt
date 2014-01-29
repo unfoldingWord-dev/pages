@@ -2,9 +2,7 @@
 
 {{:en:obs:obs-17-05.jpg?nolink&640x360}}
 
-Eventually, Saul died in battle, and David became king of Israel. He was a good king, and the people loved him. God blessed David and made him successful. David fought many battles and God gave him victory. David conquered Jerusalem and made it his capital. During David’s reign, Israel became powerful and wealthy.
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+Eventually, **[[:en:key-terms:saul|Saul]]** died in battle, and **[[:en:key-terms:david|David]]** became king of **[[:en:key-terms:israel|Israel]]**. He was a good king, and the people loved him. **[[:en:key-terms:god|God]]** **[[:en:key-terms:bless|blessed]]** David and made him successful. David fought many battles and God gave him victory. David conquered **[[:en:key-terms:jerusalem|Jerusalem]]** and made it his capital. During David’s reign, Israel became powerful and wealthy.
 
 
 ===== Translation Notes: =====

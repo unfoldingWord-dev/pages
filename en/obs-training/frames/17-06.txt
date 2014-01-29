@@ -2,9 +2,7 @@
 
 {{:en:obs:obs-17-06.jpg?nolink&640x360}}
 
-David wanted to build a temple where everybody could worship God and offer him sacrifices. For about 400 years, the people had been worshiping God and offering sacrifices to him at the Tent of Meeting that Moses had built.
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+**[[:en:key-terms:david|David]]** wanted to build a **[[:en:key-terms:temple|temple]]** where everybody could **[[:en:key-terms:worship|worship]]** **[[:en:key-terms:god|God]]** and offer him **[[:en:key-terms:sacrifice|sacrifices]]**. For about 400 years, the people had been worshiping God and offering sacrifices to him at the **[[:en:key-terms:tent-of-meeting|Tent of Meeting]]** that **[[:en:key-terms:moses|Moses]]** had built.
 
 
 ===== Translation Notes: =====

@@ -2,18 +2,15 @@
 
 {{:en:obs:obs-17-04.jpg?nolink&640x360}}
 
-Saul became jealous of David and tried many times to kill him. One day Saul was looking for David so he could kill him. Saul went into the same cave where David was hiding but did not see him. Instead of killing Saul, David cut off a piece of his clothes to prove to Saul that he would not kill him to become king.
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+**[[:en:key-terms:saul|Saul]]** became jealous of **[[:en:key-terms:david|David]]** and tried many times to kill him. One day Saul was looking for David so he could kill him. Saul went into the same cave **where David was hiding** but did not see him. Instead of killing Saul, **David cut off a piece of his clothes** **to prove to Saul that he would not kill him** to become king.
 
 
 ===== Translation Notes: =====
 
 
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
+  * **where David was hiding** - It might be necessary to say "where David was hiding from Saul."
+  * **David cut off a piece of his clothes** - It might be necessary to say "David cut off a piece of Saul's clothes."
+  * **to prove to Saul that he would not kill him** - That is, David demonstrated that he was close enough to Saul to kill him, but did not do it.
   
 
 **[[:en:obs-training:frames:17-03|<<]] | [[:en:obs-training:17-gods-covenant-with-david|Up]] | [[:en:obs-training:frames:17-05|>>]]**
