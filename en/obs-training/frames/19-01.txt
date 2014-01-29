@@ -2,10 +2,7 @@
 
 {{:en:obs:obs-19-01.jpg?nolink&640x360}}
 
-Throughout the history of the Israelites, God sent them prophets. The prophets heard messages from God and then told the people God’s messages.
-
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+Throughout the history of the **[[:en:key-terms:israel|Israelites]]**, **[[:en:key-terms:god|God]]** sent them **[[:en:key-terms:prophet|prophets]]**. The prophets heard messages from God and then told the people God’s messages.
 
 
 ===== Translation Notes: =====
