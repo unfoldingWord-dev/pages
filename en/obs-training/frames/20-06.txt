@@ -2,9 +2,7 @@
 
 {{:en:obs:obs-20-06.jpg?nolink&640x360}}
 
-About 100 years after the Assyrians destroyed Israel, God sent Nebuchadnezzar, king of the Babylonians, to attack Judah. Babylon was a powerful empire. The king of Judah agreed to be Nebuchadnezzar’s servant and pay him a lot of money every year.
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+About 100 years after the **[[:en:key-terms:assyria|Assyrians]]** destroyed **[[:en:key-terms:israel|Israel]]**, **[[:en:key-terms:god|God]]** sent **[[:en:key-terms:nebuchadnezzar|Nebuchadnezzar]]**, **[[:en:key-terms:king|king]]** of the **[[:en:key-terms:babylon|Babylonians]]**, to attack **[[:en:key-terms:judah|Judah]]**. Babylon was a powerful empire. The king of Judah agreed to be Nebuchadnezzar’s **[[:en:key-terms:servant|servant]]** and pay him a lot of money every year.
 
 
 ===== Translation Notes: =====
