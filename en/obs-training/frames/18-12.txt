@@ -2,9 +2,7 @@
 
 {{:en:obs:obs-18-12.jpg?nolink&640x360}}
 
-All of the kings of Israel and most of the people worshiped idols which often included adultery and sometimes even child sacrifice.
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+All of the kings of **[[:en:key-terms:israel|Israel]]** and most of the people **[[:en:key-terms:worship|worshiped]]** **[[:en:key-terms:idol|idols]]** which often included **[[:en:key-terms:adultery|adultery]]** and sometimes even child **[[:en:key-terms:sacrifice|sacrifice]]**.
 
 
 ===== Translation Notes: =====
