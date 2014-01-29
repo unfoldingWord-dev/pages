@@ -2,12 +2,13 @@
 
 {{:en:obs:obs-13-02.jpg?nolink&640x360}}
 
-**[[:en:key-terms:god|God]]** said to **[[:en:key-terms:moses|Moses]]** and the people of **[[:en:key-terms:israel|Israel]]**, “If you will **[[:en:key-terms:obey|obey]]** me and keep my **[[:en:key-terms:covenant|covenant]]**, you will be **my prized possession**, a **[[:en:key-terms:kingdom|kingdom]]** of **[[:en:key-terms:priest|priests]]**, and a **[[:en:key-terms:holy|holy]]** nation.”
+**[[:en:key-terms:god|God]]** said to **[[:en:key-terms:moses|Moses]]** and the people of **[[:en:key-terms:israel|Israel]]**, “If you will **[[:en:key-terms:obey|obey]]** me and **keep my [[:en:key-terms:covenant|covenant]]**, you will be **my prized possession**, a **[[:en:key-terms:kingdom|kingdom]]** of **[[:en:key-terms:priest|priests]]**, and a **[[:en:key-terms:holy|holy]]** nation.”
 
 
 ===== Translation Notes: =====
 
 
+  * **keep my covenant** - This could be translated as, “do what my covenant requires you to do.” Obeying and keeping the covenant are not two different things. To make this clear, 
   * **my prized possession** - explanation
   
 
