@@ -2,9 +2,7 @@
 
 {{:en:obs:obs-17-07.jpg?nolink&640x360}}
 
-God sent the prophet Nathan to David with this message, “Because you are a man of war, you will not build this house for me. Your son will build it. But, I will bless you greatly. Someone from your family will always sit on the throne of Israel, and the Messiah will be one of your descendants!” The Messiah is God’s Chosen One who would save the world from sin.
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+**[[:en:key-terms:god|God]]** sent the **[[:en:key-terms:prophet|prophet]]** **[[:en:key-terms:nathan|Nathan]]** to **[[:en:key-terms:david|David]]** with this message, “Because you are a man of war, you will not build this house for me. Your **[[:en:key-terms:son|son]]** will build it. But, I will **[[:en:key-terms:bless|bless]]** you greatly. Someone from your family will always sit on the **[[:en:key-terms:throne|throne]]** of **[[:en:key-terms:israel|Israel]]**, and the **[[:en:key-terms:messiah|Messiah]]** will be one of your **[[:en:key-terms:descendant|descendants]]**!” The Messiah is God’s Chosen One who would save the world from **[[:en:key-terms:sin|sin]]**.
 
 
 ===== Translation Notes: =====
