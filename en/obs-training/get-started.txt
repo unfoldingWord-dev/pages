@@ -1,5 +1,6 @@
 ====== How to Get Started ======
 
+==== Suggestion: You might find it convenient to right click on links and choose "Open in new tab." ====
 
 Translating content in Door43 is easy! Follow these simple steps to get started:
 
@@ -27,7 +28,7 @@ Door43 has a [[:playground:playground|test page]] that you can freely edit to tr
 ===== 3. Choose a Story =====
 
 
-Browse to a story you would like to translate. For instance, to translate the first story of [[:en:obs|Open Bible Stories]], you would click [[:en:obs:01-the-creation|1. The Creation]] from the left menu.
+Browse to a story you would like to translate. For instance, to translate the first story of **Open Bible Stories**, you would click [[:en:obs:01-the-creation|1. The Creation]] from the left menu.
 
 
 ===== 4. Choose a Language =====
