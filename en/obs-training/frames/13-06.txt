@@ -2,14 +2,16 @@
 
 {{:en:obs:obs-13-06.jpg?nolink&640x360}}
 
-“**Honor** your father and your mother. Do not murder. Do not commit **[[:en:key-terms:adultery|adultery]]**. Do not steal. Do not lie. Do not wish you had your neighbor’s wife, his house, or anything that belongs to him.”
+“**Honor** your father and your mother. Do not murder. **Do not commit [[:en:key-terms:adultery|adultery]]**. **Do not steal**. Do not lie. **Do not wish you had** your neighbor’s wife, his house, or anything that belongs to him.”
 
 
 ===== Translation Notes: =====
 
 
   * **Honor ** - explanation
-  * **issue** - explanation
+  * **Do not commit adultery** - This means that a person must not have sexual relations with someone else's spouse. This could be translated as, “Do not have marital relations with another man's wife or another woman's husband.” Be sure to translate this in a way that doesn't offend or embarrass people. Languages often have an indirect, polite way of saying this, such as “Do not sleep with…”
+  * **Do not steal** - Do not take something that belongs to someone else if they have not permitted you to take it. 
+  * **Do not wish you had** – This could be translated as, “Do not desire to have.” 
 
 
 **[[:en:obs-training:frames:13-05|<<]] | [[:en:obs-training:13-gods-covenant-with-israel|Up]] | [[:en:obs-training:frames:13-07|>>]]**
