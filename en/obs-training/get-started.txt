@@ -62,7 +62,7 @@ This [[http://youtu.be/E5aC0i3hffA|video]] will give a quick overview of how to 
 
 
     * The stories are separated into separate pages by the pictures (called frames).
-    * Each page has the picture and the text, in a national language, from the story.
+    * Each page has the picture and the text, in a national trade language, from the story.
     * There are green words in the text. These are very important words that need to be translated correctly. Click on the green word to go to another page that will give more information on how to translate the very important word.
     * Translation Notes explains how to translate some of the important words in the story. The definition of the word or phrase should help you understand how to translate.
 
