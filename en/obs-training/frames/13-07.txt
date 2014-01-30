@@ -2,7 +2,7 @@
 
 {{:en:obs:obs-13-07.jpg?nolink&640x360}}
 
-Then **[[:en:key-terms:god|God]]** wrote **these [[:en:key-terms:ten-commandments|Ten Commandments]]** on two **stone tablets** and gave them to **[[:en:key-terms:moses|Moses]]**. **God also gave many other laws and rules to follow**. If the people **[[:en:key-terms:obey|obeyed]]** these laws, God **[[:en:key-terms:promise|promised]]** that he would **[[:en:key-terms:bless|bless]]** and **protect them**. If they **[[:en:key-terms:disobey|disobeyed]]** them, God would **[[:en:key-terms:punish|punish]] them**.
+Then **[[:en:key-terms:god|God]]** wrote **these [[:en:key-terms:ten-commandments|Ten Commandments]]** on two **stone tablets** and gave them to **[[:en:key-terms:moses|Moses]]**. **God also gave many other laws and rules to follow**. If the people **[[:en:key-terms:obey|obeyed]]** these laws, God **[[:en:key-terms:promise|promised]]** that he would **[[:en:key-terms:bless|bless]]** and protect them. If they **[[:en:key-terms:disobey|disobeyed]]** them, God would **[[:en:key-terms:punish|punish]] them**.
 
 
 ===== Translation Notes: =====
@@ -12,9 +12,7 @@ Then **[[:en:key-terms:god|God]]** wrote **these [[:en:key-terms:ten-commandment
   * **stone tablets** - These were flat pieces of stone. 
   * **God also gave many other laws and rules** - This can be translated as, “God also told them many other laws and rules.” 
   * **laws and rules to follow** - This can be translated as, “laws and rules that they must obey.”
-  * **protect them** - explanation
-  * **punish them** - explanation
-  
+  * **punish them** - This means that God would treat them harshly because they disobeyed Him. Some ways of translating this are, “treat them harshly,” or “give them pain,” or “cause them to suffer.” You may need to add, “because they disobeyed Him” or “as payment for their disobedience.”  
 
 **[[:en:obs-training:frames:13-06|<<]] | [[:en:obs-training:13-gods-covenant-with-israel|Up]] | [[:en:obs-training:frames:13-08|>>]]**
 
