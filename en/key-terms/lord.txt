@@ -6,34 +6,41 @@
 ===== Definitions: =====
 
   
-  * “Lord” is a often a title for God that means “master”, “ruler”, “someone who has ownership or authority.”
-  * The word for “Lord can be translated as “Master” or “Ruler”
+  * “Lord” means “master”, “ruler” or “someone who has ownership or authority.”
+  * The word for “Lord" can also be translated as “Master” or “Ruler”
+  * "Lord" is often a title used when referring to God as in "Lord God" or "Lord Jesus."
 
 
 
 
 
-(not sure about this….just throwing something out there)
 
-translation notes for “master”:
-
-A “master” often refers to someone who owns a slave.
-
-The word “master” is used *to address someone who has authority over you, such as a teacher, king or other government official.
-
-*vs “when talking to”
 
 
 ===== Examples from the Bible stories: =====
 
 
-  ***[[:en:obs-training:frames:08-04|[08-04]]]**  The slave traders sold Joseph as a slave to a wealthy government official. Joseph served his **master** well, and God blessed Joseph.  
-  ***[[:en:obs-training:frames:50-04|[50-04]]]** Jesus also said, "A servant is not greater than his **master**." 
+
+25-05] But Jesus replied, “It is also written in God's Word, 'Do not test the Lord, your God.'”
   ***[[:en:obs-training:frames:25-07|[25-07]]]** "It is written in God's Word, 'Worship only the **Lord** your God.'” 
-  ***[[:en:obs-training:frames:26-04|[26-04]]]** This is the year of the **Lord's** favor. 
+  ***[[:en:obs-training:frames:26-04|[26-04]]]** This is the year of the **Lord's** favor.
+  *
+  *[27-02] “Love the Lord your God with all your heart, soul, strength, and mind.”
+  * 
   ***[[:en:obs-training:frames:31-05|[31-05]]]** Then Peter said to Jesus, “**Lord**, if it is you, command me to come to you on the water” 
+
+[43-09] “Know for certain that God has made this Jesus, the one you crucified, both Lord and Messiah!”
+
   ***[[:en:obs-training:frames:45-05|[45-05]]]** As he was dying Stephen cried out, “**Lord** Jesus, receive my spirit.” 
   ***[[:en:obs-training:frames:47-12|[47-12]]]**  “Believe in the **Lord** Jesus Christ, and you and your family will be saved.” 
+
+
+(examples for "master")
+
+
+  ***[[:en:obs-training:frames:08-04|[08-04]]]**  The slave traders sold Joseph as a slave to a wealthy government official. Joseph served his **master** well, and God blessed Joseph.  
+  ***[[:en:obs-training:frames:50-04|[50-04]]]** Jesus also said, "A servant is not greater than his **master**."
+
 
 
 [see also: **[[:en:key-terms:yahweh|Yahweh]]**]
