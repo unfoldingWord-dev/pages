@@ -2,16 +2,14 @@
 
 {{:en:obs:obs-17-10.jpg?nolink&640x360}}
 
-One day, when all of **[[:en:key-terms:david|David's]]** soldiers were out fighting, he got up from an afternoon nap and saw a beautiful woman bathing. Her name was **[[:en:key-terms:bathsheba|Bathsheba]]**.
+One day, when all of **[[:en:key-terms:david|David's]]** soldiers were out fighting, he got up from an afternoon nap and **saw** a beautiful woman **bathing**. Her name was **[[:en:key-terms:bathsheba|Bathsheba]]**.
 
 
 ===== Translation Notes: =====
 
 
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
+  * **toward the end of his life** - Bathsheba was bathing in her own house, but David was able to see that far from his palace.
+  * ** bathing** - This may be translated as "taking a bath."
   
 
 **[[:en:obs-training:frames:17-09|<<]] | [[:en:obs-training:17-gods-covenant-with-david|Up]] | [[:en:obs-training:frames:17-11|>>]]**
