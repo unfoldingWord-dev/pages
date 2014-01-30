@@ -2,17 +2,17 @@
 
 {{:en:obs:obs-13-15.jpg?nolink&640x360}}
 
-**[[:en:key-terms:moses|Moses]]** climbed the mountain again and **[[:en:key-terms:pray|prayed]]** that **[[:en:key-terms:god|God]]** would **[[:en:key-terms:forgive|forgive]]** the people. God **listened to** Moses and forgave them. Moses wrote the **[[:en:key-terms:ten-commandments|Ten Commandments]]** on new stone tablets to replace the ones he had broken. Then God led the **[[:en:key-terms:israel|Israelites]]** away from **[[:en:key-terms:sinai|Mount Sinai]]** toward the **[[:en:key-terms:promised-land|Promised Land]]**.
+**[[:en:key-terms:moses|Moses]]** climbed the mountain again and **[[:en:key-terms:pray|prayed]]** that **[[:en:key-terms:god|God]]** would **[[:en:key-terms:forgive|forgive]]** the people. God **listened to** Moses and forgave them. **Moses wrote** the **[[:en:key-terms:ten-commandments|Ten Commandments]]** on new stone tablets to replace the ones he had broken. Then God led the **[[:en:key-terms:israel|Israelites]]** away from **[[:en:key-terms:sinai|Mount Sinai]]** toward the **[[:en:key-terms:promised-land|Promised Land]]**.
 
 
 ===== Translation Notes: =====
 
 
-  * **listened to** - explanation
-  * **issue** - explanation
+  * **listened to** - God always hears prayer. In this situation, “listened” means that God agreed to do what Moses asked. 
+  * **Moses wrote** - Moses chiseled the words into the stone using a tool.
   
 
 **[[:en:obs-training:frames:13-14|<<]] | [[:en:obs-training:13-gods-covenant-with-israel|Up]] | [[:en:obs-training:frames:14-01|>>]]**
 
 
-~~DISCUSSION~~
+~~DISCUSSION:closed~~
