@@ -2,20 +2,19 @@
 
 {{:en:obs:obs-17-07.jpg?nolink&640x360}}
 
-**[[:en:key-terms:god|God]]** sent the **[[:en:key-terms:prophet|prophet]]** **[[:en:key-terms:nathan|Nathan]]** to **[[:en:key-terms:david|David]]** with this message, “Because you are a man of war, you will not build this house for me. Your **[[:en:key-terms:son|son]]** will build it. But, I will **[[:en:key-terms:bless|bless]]** you greatly. Someone from your family will always sit on the **[[:en:key-terms:throne|throne]]** of **[[:en:key-terms:israel|Israel]]**, and the **[[:en:key-terms:messiah|Messiah]]** will be one of your **[[:en:key-terms:descendant|descendants]]**!” The Messiah is God’s Chosen One who would save the world from **[[:en:key-terms:sin|sin]]**.
+**[[:en:key-terms:god|God]]** sent the **[[:en:key-terms:prophet|prophet]]** **[[:en:key-terms:nathan|Nathan]]** to **[[:en:key-terms:david|David]]** with this message, “Because you are a **man of war**, you will not build **this house** for me. Your **[[:en:key-terms:son|son]]** will build it. But, I will **[[:en:key-terms:bless|bless]]** you greatly. Someone from your family will always sit on the **[[:en:key-terms:throne|throne]]** of **[[:en:key-terms:israel|Israel]]**, and the **[[:en:key-terms:messiah|Messiah]]** will be one of your **[[:en:key-terms:descendant|descendants]]**!” The Messiah is **God’s Chosen One** who would **save the world** from **[[:en:key-terms:sin|sin]]**.
 
 
 ===== Translation Notes: =====
 
-
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
+  * **man of war** - David was a soldier who often engaged in battle.
+  * **this house** - "This house" refers to the temple that David wanted to build.
+  * **sit on the throne** - This idiom means that one of his descendants would always rule over Israel.
+  * **God’s Chosen One** - This means that God had specifically selected the Messiah as the one to save the world.
+  * **save the world** - That is, Messiah would save the people of the world.
   
 
 **[[:en:obs-training:frames:17-06|<<]] | [[:en:obs-training:17-gods-covenant-with-david|Up]] | [[:en:obs-training:frames:17-08|>>]]**
-
 
 
 ~~DISCUSSION~~
