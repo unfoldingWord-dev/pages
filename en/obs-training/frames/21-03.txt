@@ -2,16 +2,15 @@
 
 {{:en:obs:obs-21-03.jpg?nolink&640x360}}
 
-**[[:en:key-terms:god|God]]** **[[:en:key-terms:promise|promised]]** **[[:en:key-terms:moses|Moses]]** that he would raise up another **[[:en:key-terms:prophet|prophet]]** like Moses. This was another promise about the coming **[[:en:key-terms:messiah|Messiah]]**.
+**[[:en:key-terms:god|God]]** **[[:en:key-terms:promise|promised]]** **[[:en:key-terms:moses|Moses]]** that he would **raise up** another **[[:en:key-terms:prophet|prophet]] like Moses**. This was another promise about **the coming [[:en:key-terms:messiah|Messiah]]**.
 
 
 ===== Translation Notes: =====
 
 
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
+  * **raise up** - That is, God will "cause him to appear."
+  * **prophet like Moses** - The other prophet will have the same power and authority as Moses.
+  * **the coming Messiah** - This may also be translated as "the Messiah who will come..."
   
 
 **[[:en:obs-training:frames:21-02|<<]] | [[:en:obs-training:21-god-promises-the-messiah|Up]] | [[:en:obs-training:frames:21-04|>>]]**

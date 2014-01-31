@@ -2,16 +2,15 @@
 
 {{:en:obs:obs-21-02.jpg?nolink&640x360}}
 
-**[[:en:key-terms:god|God]]** promised **[[:en:key-terms:abraham|Abraham]]** that through him all people groups of the world would be **[[:en:key-terms:bless|blessed]]**. This blessing was the coming **[[:en:key-terms:messiah|Messiah]]** who would one day provide the way of **[[:en:key-terms:save|salvation]]** for all people groups.
+**[[:en:key-terms:god|God]]** promised **[[:en:key-terms:abraham|Abraham]]** that through him **all people groups** of the world would be **[[:en:key-terms:bless|blessed]]**. This blessing was **the coming [[:en:key-terms:messiah|Messiah]]** who would one day **provide the way of [[:en:key-terms:save|salvation]]** for all people groups.
 
 
 ===== Translation Notes: =====
 
 
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
+  * **all people groups** - This may also be translated as "every group of people" or "every tribe."
+  * **the coming Messiah** - This may also be translated as "the Messiah who will come..."
+  * **provide the way of salvation** - That is, a "provide the way to obtain salvation..." or "make it possible for people to be saved..."
   
 
 **[[:en:obs-training:frames:21-01|<<]] | [[:en:obs-training:21-god-promises-the-messiah|Up]] | [[:en:obs-training:frames:21-03|>>]]**
