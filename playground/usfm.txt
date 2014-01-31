@@ -1,7 +1,7 @@
 <usfm>
 \id PHP 50-PHP-web.sfm World English Bible (WEB) 
 \ide UTF-8
-\h Philippians 
+\h Philippians
 \toc1 Paul’s Letter to the Philippians 
 \toc2 Philippians 
 \toc3 Php 
