@@ -1,0 +1,13 @@
+#!/bin/bash
+
+# must be run from en/obs/notes/frames
+
+# get the story
+
+for i in 01 02 
+do 
+	for f in `ls ../../../obs-training/frames/$i*.txt` # get the frame
+	do 
+		echo $f
+	done
+done

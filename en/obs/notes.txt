@@ -1,3 +1,18 @@
 ====== Translation & Checking Notes ======
 
 //In order to help translators of [[:en:obs|Open Bible Stories]] to do the best translation work possible, exegetical notes and resources for each frame (text + image) of each story are available here. These are the stories that have complete notes://
+
+
+    - [[:en:obs:notes:01|The Creation]]
+    - [[:en:obs:notes:02|Sin Enters the World]]
+    - [[:en:obs:notes:03|The Flood]]
+    - [[:en:obs:notes:04|God's Covenant with Abraham]]
+    - [[:en:obs:notes:05|The Son of Promise]]
+    - [[:en:obs:notes:06|God Provides for Isaac]]
+    - [[:en:obs:notes:07|God Blesses Jacob]]
+    - [[:en:obs:notes:08|God Saves Joseph and His Family]]
+    - [[:en:obs:notes:09|God Calls Moses]]
+    - [[:en:obs:notes:10|The Ten Plagues]]
+    - [[:en:obs:notes:11|The Passover]]
+    - [[:en:obs:notes:12|The Exodus]]
+    - [[:en:obs:notes:13|God's Covenant with Israel]]
