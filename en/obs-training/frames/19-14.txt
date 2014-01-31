@@ -2,16 +2,15 @@
 
 {{:en:obs:obs-19-14.jpg?nolink&640x360}}
 
-After **[[:en:key-terms:elijah|Elijah]]**, **[[:en:key-terms:god|God]]** chose **[[:en:key-terms:elisha|Elisha]]** to be his **[[:en:key-terms:prophet|prophet]]**. God did many **[[:en:key-terms:miracle|miracles]]** through Elisha. One of the miracles happened to **[[:en:key-terms:naaman|Naaman]]**, an enemy commander, who had a horrible skin disease. He had heard of Elisha so he went and asked Elisha to heal him. Elisha told him to dip himself seven times in the **[[:en:key-terms:jordan-river|Jordan River]]**.
+**After [[:en:key-terms:elijah|Elijah]]**, **[[:en:key-terms:god|God]]** chose **[[:en:key-terms:elisha|Elisha]]** to be his **[[:en:key-terms:prophet|prophet]]**. God did many **[[:en:key-terms:miracle|miracles]]** through Elisha. One of the miracles happened to **[[:en:key-terms:naaman|Naaman]]**, an enemy commander, who had a horrible skin disease. **He had heard of Elisha** so he went and asked Elisha to heal him. Elisha told him to dip himself seven times in the **[[:en:key-terms:jordan-river|Jordan River]]**.
 
 
 ===== Translation Notes: =====
 
 
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
+  * **After Elijah** - That is, after Elijah died.
+  * **He had heard of Elisha** - This means that Naaman had heard that Elijah was able to perform miracles.
+
   
 
 **[[:en:obs-training:frames:19-13|<<]] | [[:en:obs-training:19-the-prophets|Up]] | [[:en:obs-training:frames:19-15|>>]]**

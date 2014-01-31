@@ -2,13 +2,13 @@
 
 {{:en:obs:obs-19-02.jpg?nolink&640x360}}
 
-**[[:en:key-terms:elijah|Elijah]]** was a **[[:en:key-terms:prophet|prophet]]** when **[[:en:key-terms:ahab|Ahab]]** was **[[:en:key-terms:king|king]]** over **[[:en:key-terms:israel|Israel]]**. Ahab was an **[[:en:key-terms:evil|evil]]** man who encouraged people to **[[:en:key-terms:worship|worship]]** a false **[[:en:key-terms:god-false|god]]** named **[[:en:key-terms:baal|Baal]]**. Elijah said to Ahab, “There will be no rain or dew in Israel until I say so.” This made Ahab very angry.
+**[[:en:key-terms:elijah|Elijah]]** was a **[[:en:key-terms:prophet|prophet]]** when **[[:en:key-terms:ahab|Ahab]]** was **[[:en:key-terms:king|king]]** over **[[:en:key-terms:israel|Israel]]**. Ahab was an **[[:en:key-terms:evil|evil]]** man who encouraged people to **[[:en:key-terms:worship|worship]]** a false **[[:en:key-terms:god-false|god]]** named **[[:en:key-terms:baal|Baal]]**. Elijah said to Ahab, “There will be no rain or dew in Israel **until I say so**.” This made Ahab very angry.
 
 
 ===== Translation Notes: =====
 
 
-  * **issue** - explanation
+  * **until I say so** - This may be translated as "until I command the rain to fall again."
   * **issue** - explanation
   
 
