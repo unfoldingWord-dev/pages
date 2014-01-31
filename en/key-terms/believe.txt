@@ -4,14 +4,18 @@
 
 ===== Definitions: =====
 
-=== 1 Believe ===
+"Believe" can have two related but different senses:
 
-  * to accept or trust that something is true.
-  * to acknowledge that what someone has said is true.
+=== 1. Believe ===
 
-=== 2 Believe in === 
-  * to trust or rely upon something or someone.
-  * to be sure that something or someone is true and to act in such a way that shows that belief.
+  * To believe something is to accept or trust that it is true.
+  * To believe someone is to acknowledge that what that person has said is true.
+
+=== 2. Believe in === 
+
+  * To believe in someone is to trust that that person is reliable. In other words, it is to trust that the person is who he says he is, that he always speaks the truth, and that he will do what he has promised to do. 
+  * To believe in an idea or principle is to be sure that that idea or principle is the right way to act or live. For example, a person might believe in honesty, and therefore always tells the truth.
+  * When a person truly believes in something, the person will act in such a way that shows that belief.
 
 [See also: **[[:en:key-terms:faith|faith]]**]
 

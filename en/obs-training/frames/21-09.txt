@@ -2,16 +2,16 @@
 
 {{:en:obs:obs-21-09.jpg?nolink&640x360}}
 
-**[[:en:key-terms:god|God's]]** **[[:en:key-terms:prophet|prophets]]** predicted many other things about the **coming [[:en:key-terms:messiah|Messiah]]**. Malachi foretold that a great prophet would come before the Messiah came. **[[:en:key-terms:isaiah|Isaiah]]** **[[:en:key-terms:prophet|prophesied]]** that the Messiah would be born from a virgin. Micah said that he would be born in the town of **[[:en:key-terms:bethlehem|Bethlehem]]**.
+**[[:en:key-terms:god|God's]]** **[[:en:key-terms:prophet|prophets]]** predicted many other things about the **coming [[:en:key-terms:messiah|Messiah]]**. **Malachi** **foretold** that a great prophet would come before the Messiah came. **[[:en:key-terms:isaiah|Isaiah]]** **[[:en:key-terms:prophet|prophesied]]** that the Messiah would be born from a virgin. **Micah** said that he would be born in the town of **[[:en:key-terms:bethlehem|Bethlehem]]**.
 
 
 ===== Translation Notes: =====
 
 
   * **coming Messiah** - That is, the Messiah who will come.
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
+  * **Malachi** - Malachi was the last prophet in the Old Testament.
+  * **foretold** - Malachi spoke God's message to the people 400 years before the Messiah came.
+  * **Micah** - Micah was an Old Testament prophet of God who lived 800 years before the Messiah came.
   
 
 **[[:en:obs-training:frames:21-08|<<]] | [[:en:obs-training:21-god-promises-the-messiah|Up]] | [[:en:obs-training:frames:21-10|>>]]**
