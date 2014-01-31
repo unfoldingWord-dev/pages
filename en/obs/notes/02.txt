@@ -52,5 +52,5 @@ Out of the Garden [02-12]\\
 
 //A Bible story from: Genesis 3//
 
-**[[:en:obs:notes:01-the-creation|<<Previous]] | [[:en:obs-training:03-the-flood|Next>>]]**
+**[[:en:obs:notes:01|<<Previous]] | [[:en:obs:notes:03|Next>>]]**
 

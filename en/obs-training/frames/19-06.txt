@@ -2,16 +2,15 @@
 
 {{:en:obs:obs-19-06.jpg?nolink&640x360}}
 
-All of **[[:en:key-terms:israel|Israel]]**, including the 450 **[[:en:key-terms:prophet|prophets]]** of **[[:en:key-terms:baal|Baal]]**, came to **[[:en:key-terms:mount-carmel|Mount Carmel]]**. **[[:en:key-terms:elijah|Elijah]]** said to the people, “How long will you keep changing your mind? If **[[:en:key-terms:yahweh|Yahweh]]** is **[[:en:key-terms:god|God]]**, serve him! If Baal is God, serve him!”
+**All of [[:en:key-terms:israel|Israel]]**, including **the 450 [[:en:key-terms:prophet|prophets]] of [[:en:key-terms:baal|Baal]]**, came to **[[:en:key-terms:mount-carmel|Mount Carmel]]**. **[[:en:key-terms:elijah|Elijah]]** said to the people, “How long will you **keep changing your mind**? **If [[:en:key-terms:yahweh|Yahweh]] is [[:en:key-terms:god|God]]**, serve him! **If Baal is God**, serve him!”
 
 
 ===== Translation Notes: =====
 
-
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
+  * **All of Israel** - That is, "all of the Israelites" or "all of the people of Israel..."
+  * **the 450 prophets of Baal** - This was the total number of the prophets who served Baal instead of Yahweh.
+  * **keep changing your mind** - explanation
+  * **If Yahweh is God...If Baal is God** - This was not a question, but rather a challenge. Elijah was saying that there is only one true God, and that the people needed to decide who it was, and to serve only that God. The main point of this contrast is that they cannot serve both God and Baal. Translate this in a way that shows they had to make a choice.
   
 
 **[[:en:obs-training:frames:19-05|<<]] | [[:en:obs-training:19-the-prophets|Up]] | [[:en:obs-training:frames:19-07|>>]]**
