@@ -1,0 +1,11 @@
+//The status of development for Open Bible Stories//
+
+date: 2014-01-01
+
+version: 2.0
+
+checking level: 3
+
+source text: original
+
+source text version: original
