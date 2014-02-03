@@ -31,11 +31,20 @@ e.g. api.unfoldingword.org/obs/mp3/1/en/obs-en-01.mp3
 ===== Images =====
 
 
-api.unfoldingword.org/obs/jpg/1/[langcode]/obs-[langcode]-[frame].[format]?[size]\\ 
-e.g. api.unfoldingword.org/obs/jpg/1/en/obs-en-01-01.jpg?640x360
+api.unfoldingword.org/obs/jpg/1/[langcode]/obs-[langcode]-[frame].[format]
+
+
+//e.g. api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-01.jpg// 
+
+
+# old
+
+
+<font 13px/arial;;#000000;;#ffffff>api.unfoldingword.org/</font> obs<font 13px/arial;;#000000;;#ffffff>/jpg/1/[</font> langcode<font 13px/arial;;#000000;;#ffffff>]/</font> obs<font 13px/arial;;#000000;;#ffffff>-[</font> langcode<font 13px/arial;;#000000;;#ffffff>]-[frame].[format]?[size]</font>\\ 
+<font 13px/arial;;#000000;;#ffffff>e.g. api.unfoldingword.org/</font> obs<font 13px/arial;;#000000;;#ffffff>/jpg/1/en/obs-en-01-01.jpg?640×360</font>
 
 
 api.unfoldingword.org/obs/jpg/1/[langcode]/[method]/[width/height]/obs-[langcode]-[frame].[format]\\ 
-e.g. api.unfoldingword.org/obs/jpg/1/en/w/640/obs-en-01-01.jpg // returns an image 640 pixels wide with a relative height\\ 
+e.g. api.unfoldingword.org/obs/jpg/1/en/w/640/obs-en-01-01.jpg //returns an image 640 pixels wide with a relative height\\ 
 e.g. api.unfoldingword.org/obs/jpg/1/en/h/360/obs-en-01-01.jpg // returns an image 360 pixels tall with relative width\\ 
-e.g. api.unfoldingword.org/obs/jpg/1/en/c/640/360/obs-en-01-01.jpg // returns a cropped image 640 x 360 using the majority of the original image
+e.g. api.unfoldingword.org/obs/jpg/1/en/c/640/360/obs-en-01-01.jpg //returns a cropped image 640 x 360 using the majority of the original image //
