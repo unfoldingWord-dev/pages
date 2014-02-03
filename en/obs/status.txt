@@ -4,6 +4,8 @@ publish date: 2014-01-01
 
 version: 2.0
 
+checking entity: Distant Shores Media; Wycliffe Associates
+
 checking level: 3
 
 source text: en
