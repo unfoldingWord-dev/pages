@@ -15,10 +15,9 @@
 ===== Examples from the Bible stories: =====
 
 
-  ***[[:en:obs-training:frames:xx-xx|[xx-xx]]]**  Text 
-  ***[[:en:obs-training:frames:xx-xx|[xx-xx]]]**  Text 
-  ***[[:en:obs-training:frames:xx-xx|[xx-xx]]]**  Text 
-
+  ***[[:en:obs-training:frames:13-06|[13-06]]]** "Do not commit **adultery**."
+  ***[[:en:obs-training:frames:18-12|[18-12x]]]** All of the kings of Israel and most of the people worshiped idols which often included **adultery** and sometimes even child sacrifice.
+  ***[[:en:obs-training:frames:28-02|[28-06]]]** Do not commit **adultery**.
 
 
 ~~DISCUSSION~~
