@@ -12,8 +12,9 @@
 ===== Examples from the Bible stories: =====
 
 
-  ***[[:en:obs-training:frames:0x-0x|[0x-0x]]]**  Text  ***[[:en:obs-training:frames:xx-xx|[xx-xx]]]**  Text 
-  ***[[:en:obs-training:frames:xx-xx|[xx-xx]]]**  Text 
-  ***[[:en:obs-training:frames:xx-xx|[xx-xx]]]**  Text 
+  ***[[:en:obs-training:frames:15-06|[15-06]]]** But the Canaanite people group of **Gibeon** lied to Joshua and said they were from far away.  
+  ***[[:en:obs-training:frames:15-07|[15-07]]]** When the other people groups in Canaan heard that the **Gibeonites** had made peace with the Israelites, they joined their armies and attacked **Gibeon**. 
+  ***[[:en:obs-training:frames:15-08|[15-08]]]** Joshua was angry that he had been tricked, but he gathered the Israelite army, and they marched all night to reach the **Gibeonites**. 
+
 
 ~~DISCUSSION~~

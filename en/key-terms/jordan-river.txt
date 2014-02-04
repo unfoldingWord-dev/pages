@@ -9,9 +9,9 @@
 ===== Examples from the Bible stories: =====
 
 
-  ***[[:en:obs-training:frames:xx-xx|[xx-xx]]]**  Text 
-  ***[[:en:obs-training:frames:xx-xx|[xx-xx]]]**  Text 
-  ***[[:en:obs-training:frames:xx-xx|[xx-xx]]]**  Text 
+  ***[[:en:obs-training:frames:15-02|[15-02]]]** The Israelites had to cross the **Jordan River** to enter into the Promised Land. 
+  ***[[:en:obs-training:frames:15-03|[15-03]]]** After the people crossed the **Jordan River**, God told Joshua how to attack the powerful city of Jericho. 
+  ***[[:en:obs-training:frames:19-14|[19-14]]]** Elisha told him to dip himself seven times in the **Jordan River**. 
 
 
 ~~DISCUSSION~~
