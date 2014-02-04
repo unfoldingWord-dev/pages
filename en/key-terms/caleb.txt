@@ -8,9 +8,9 @@
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:en:obs-training:frames:xx-xx|[xx-xx]]]**  Text 
-  ***[[:en:obs-training:frames:xx-xx|[xx-xx]]]**  Text 
-  ***[[:en:obs-training:frames:xx-xx|[xx-xx]]]**  Text 
+  ***[[:en:obs-training:frames:14-04|[14-04]]]** When the Israelites reached the edge of Canaan, Moses chose twelve men, one from each tribe of Israel. He gave the men instructions to go and spy on the land to see what it was like. 
+  ***[[:en:obs-training:frames:14-06|[14-06]]]** Immediately **Caleb** and Joshua, the other two spies, said, "It is true that the people of Canaan are tall and strong, but we can certainly defeat them! God will fight for us!"
+  ***[[:en:obs-training:frames:14-08|[14-08]]]** God said, "Except for Joshua and **Caleb**, all of the people who are twenty years old or older will wander in the wilderness until they die."
 
 
 ~~DISCUSSION~~
