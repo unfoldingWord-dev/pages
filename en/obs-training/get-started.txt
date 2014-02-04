@@ -1,6 +1,6 @@
 ====== How to Get Started ======
 
-==== Suggestion: You might find it convenient to right click on links and choose "Open in new tab." ====
+==== Suggestion: You might find it convenient to right click on links and choose "Open in new window." ====
 
 Translating content in Door43 is easy! Follow these simple steps to get started:
 
@@ -9,16 +9,16 @@ Translating content in Door43 is easy! Follow these simple steps to get started:
 
 
 To start translating content, you will need a user account on Door43. If you do not have an account, [[:en:get-started?do=register|create one]] then you can [[https://door43.org/en/obs-training/get-started?do=login&sectok=ee4e19eb537ef77891aa5a6b54b7b2a4|login]].\\ 
-You can watch this [[http://youtu.be/dpsJRDAa3I8|video]] to see how to set up an account.
+You can watch this [[http://youtu.be/dpsJRDAa3I8|video]] (45 seconds long) to see how to set up an account.
 
 
 ===== 2. Practice Editing a Page =====
 
 
-Door43 has a [[:playground:playground|test page]] that you can freely edit to try things out. [[https://www.youtube.com/watch?v=dF7px5U6PdA|Here]] is a short video on how to switch between the text editor and the graphical editor.
+Door43 has a [[:playground:playground|test page]] that you can freely edit to try things out. [[https://www.youtube.com/watch?v=dF7px5U6PdA|Here]] is a short video (45 seconds) on how to switch between the text editor and the graphical editor.
 
 
-**Graphical Editor** – When you click the "Edit this page" button, you will probably see an edit window that looks like a simplified word processor. Click [[https://www.youtube.com/watch?v=kFK1zK_dSYc|here]] for the "how to" video. The buttons take care of formatting text and generally make it easier to use. Here is information on the toolbar icons: [[doku>toolbar|quickbuttons]].
+**Graphical Editor** – When you click the "Edit this page" button, you will probably see an edit window that looks like a simplified word processor. Click [[https://www.youtube.com/watch?v=kFK1zK_dSYc|here]] for the "how to" 1 minute video. The buttons take care of formatting text and generally make it easier to use. Here is information on the toolbar icons: [[doku>toolbar|quickbuttons]].
 
 
 **Text Editor** – If you prefer, you can click the "DW Edit" button beneath the edit box to switch to a text-based editor. This is the standard DokuWiki editor and it provides full control over the syntax of the text. Go to the [[:en:obs-training:syntax|Formatting Text]] page for some simple editing formats to use in the text editor.
@@ -37,7 +37,7 @@ Browse to a story you would like to translate. For instance, to translate the fi
 In the sidebar, you should see a language selection dropdown. When you click it, you will see a list of available languages, sorted by language code.((If you need a language added to Door43, please  [[http://distantshoresmedia/contact|contact us]])) . If you see the language into which you would like to translate, click it.
 
 
-**Source Text** – If the language you select does not have a source text already available on the page, you will see a header on the page that says "This page does not exist yet". You can save some time by starting with a source text from another language. Here's a [[http://youtu.be/uGvMsS1nerk|video]] showing the following steps:
+**Source Text** – If the language you select does not have a source text already available on the page, you will see a header on the page that says "This page does not exist yet". You can save some time by starting with a source text from another language. Here is a two minute [[http://youtu.be/uGvMsS1nerk|video]] showing the following steps:
 
 
     - Click the back button in your browser to return to the same page in the previous language.
