@@ -58,7 +58,7 @@ In the sidebar, you should see a language selection dropdown. When you click it,
 Simply begin translating the source text into the language you selected. \\ You can click here to go to [[:en:obs-training:01-the-creation|The Creation]] story with translation helps. Having both the webpage of the story in your language and the webpage of the story with translation helps open at the same time is a good idea.
 
 
-This [[http://youtu.be/E5aC0i3hffA|video]] will give a quick overview of how to use the Translation Notes on the story picture pages.
+This [[http://youtu.be/E5aC0i3hffA|video]] (1 minute 20 seconds) will give a quick overview of how to use the Translation Notes on the story picture pages.
 
 
     * The stories are separated into separate pages by the pictures (called frames).
