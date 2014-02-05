@@ -11,12 +11,9 @@
 
 ===== Examples from the Bible stories: =====
 
-
-
-  ***[[:en:obs-training:frames:xx-xx|[xx-xx]]]**  Text 
-  ***[[:en:obs-training:frames:xx-xx|[xx-xx]]]**  Text 
-  ***[[:en:obs-training:frames:xx-xx|[xx-xx]]]**  Text 
-
+  ***[[:en:obs-training:frames:17-12|[17-12]]]** Bathsheba's husband, **Uriah**, was one of David’s best soldiers.
+  ***[[:en:obs-training:frames:17-12|[17-12]]]** So David sent **Uriah** back to the battle and told the general to place him where the enemy was strongest so that he would be killed.
+  ***[[:en:obs-training:frames:17-13|[17-13]]]** After **Uriah** was killed, David married Bathsheba.
 
 
 ~~DISCUSSION~~

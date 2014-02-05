@@ -14,12 +14,11 @@
 
 ===== Examples from the Bible stories: =====
 
-
-
-  ***[[:en:obs-training:frames:xx-xx|[xx-xx]]]**  Text 
-  ***[[:en:obs-training:frames:xx-xx|[xx-xx]]]**  Text 
-  ***[[:en:obs-training:frames:xx-xx|[xx-xx]]]**  Text 
-
+  ***[[:en:obs-training:frames:17-10|[17-10]]]** One day, when all of David's soldiers were out fighting, he got up from an afternoon nap and saw a beautiful woman bathing. Her name was **Bathsheba**.
+  ***[[:en:obs-training:frames:17-11|[17-11]]]** A short time later **Bathsheba** sent a message to David saying that she was pregnant.
+  ***[[:en:obs-training:frames:17-12|[17-12]]]** **Bathsheba's** husband, Uriah, was one of David’s best soldiers.
+  ***[[:en:obs-training:frames:17-13|[17-13]]]** After Uriah was killed, David married **Bathsheba**.
+  ***[[:en:obs-training:frames:17-14|[17-14]]]** **Bathsheba** gave birth to another son named Solomon.
 
 
 ~~DISCUSSION~~
