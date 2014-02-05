@@ -11,11 +11,11 @@
 
 ===== Examples from the Bible stories: =====
 
-
-  ***[[:en:obs-training:frames:xx-xx|[xx-xx]]]**  Text 
-  ***[[:en:obs-training:frames:xx-xx|[xx-xx]]]**  Text 
-  ***[[:en:obs-training:frames:xx-xx|[xx-xx]]]**  Text 
-
+  ***[[:en:obs-training:frames:19-02|[19-02]]]** Ahab was an evil man who encouraged people to worship a false god named **Baal**.
+  ***[[:en:obs-training:frames:19-06|[19-06]]]** All of Israel, including the 450 prophets of **Baal**, came to Mount Carmel. Elijah said to the people, “How long will you keep changing your mind? If Yahweh is God, serve him! If **Baal** is God, serve him!”
+  ***[[:en:obs-training:frames:19-07|[19-07]]]** Then Elijah said to the prophets of **Baal**, “Kill a bull and prepare a sacrifice, but do not light the fire.
+  ***[[:en:obs-training:frames:19-08|[19-08]]]** Then the prophets of **Baal** prayed to **Baal**, “Hear us, O **Baal**!” All day long they prayed and shouted and even cut themselves with knives, but **Baal** did not answer.
+  ***[[:en:obs-training:frames:19-12|[19-12]]]** So the people captured the prophets of **Baal**. Then Elijah took them away and killed them.
 
 
 ~~DISCUSSION~~
