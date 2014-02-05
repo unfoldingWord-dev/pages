@@ -11,11 +11,9 @@
 
 ===== Examples from the Bible stories: =====
 
-
-  ***[[:en:obs-training:frames:xx-xx|[xx-xx]]]**  Text 
-  ***[[:en:obs-training:frames:xx-xx|[xx-xx]]]**  Text 
-  ***[[:en:obs-training:frames:xx-xx|[xx-xx]]]**  Text 
-
+  ***[[:en:obs-training:frames:19-14|[19-14]]]** After Elijah, God chose **Elisha** to be his prophet. God did many miracles through Elisha.
+  ***[[:en:obs-training:frames:19-14|[19-14]]]** One of the miracles happened to Naaman, an enemy commander, who had a horrible skin disease. He had heard of **Elisha** so he went and asked **Elisha** to heal him.
+  ***[[:en:obs-training:frames:26-06|[26-06]]]** “But **Elisha** did not heal any of them. He only healed Naaman, a commander of Israel’s enemies.”
 
 
 ~~DISCUSSION~~
