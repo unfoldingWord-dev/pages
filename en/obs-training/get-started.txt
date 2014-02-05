@@ -59,7 +59,7 @@ In the sidebar, you should see a language selection dropdown. When you click it,
 Simply begin translating the source text into the language you selected.
 
 
-==== Using the Translation Notes ====
+==== Use the Translation Notes Pages ====
 
 
 You can click here to go to [[:en:obs:notes:01|The Creation]] story with translation helps.
@@ -73,8 +73,7 @@ This [[http://youtu.be/5fFl8crhglE|video]] (1 minute 20 seconds) will give a qui
     * There are green words in the text. These are very important words that need to be translated correctly. Click on the green word to go to another page that will give more information on how to translate the very important word.
     * Translation Notes explains how to translate some of the important words in the story. The definition of the word or phrase should help you understand how to translate.
 
-
-==== Translating from the Source Language ====
+==== Translate from the Source Language ====
 
 
 Having both the webpage of the story in your language and the webpage of the story with translation helps open at the same time is a good idea.
@@ -105,4 +104,4 @@ The video assumes that you have gone through and understand the above instructio
 //Note: More information available on the [[:en:tips-tricks|Tips & Tricks]] page!// 
 
 
-Finished translating the stories? There is even more that you can do! How about adding audio? Or making a video? This will be available soon!
+Finished translating the stories?  There is even more that you can do!  How about adding audio?  Or making a video?  This will be available soon!

@@ -11,12 +11,8 @@
 
 ===== Examples from the Bible stories: =====
 
-
-
-  ***[[:en:obs-training:frames:xx-xx|[xx-xx]]]**  Text 
-  ***[[:en:obs-training:frames:xx-xx|[xx-xx]]]**  Text 
-  ***[[:en:obs-training:frames:xx-xx|[xx-xx]]]**  Text 
-
+  ***[[:en:obs-training:frames:17-07|[17-07]]]** God sent the prophet **Nathan** to David with this message, “Because you are a man of war, you will not build this house for me.”
+  ***[[:en:obs-training:frames:17-13|[17-13]]]** God was not pleased with what David had done, so he sent the prophet **Nathan** to show David his sin.
 
 
 ~~DISCUSSION~~
