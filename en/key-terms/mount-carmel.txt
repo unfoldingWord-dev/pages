@@ -12,10 +12,8 @@
 ===== Examples from the Bible stories: =====
 
 
-  ***[[:en:obs-training:frames:xx-xx|[xx-xx]]]**  Text 
-  ***[[:en:obs-training:frames:xx-xx|[xx-xx]]]**  Text 
-  ***[[:en:obs-training:frames:xx-xx|[xx-xx]]]**  Text 
-
+  ***[[:en:obs-training:frames:19-05|[19-05]]]** “Bring all of Israel to **Mount Carmel**.”
+  ***[[:en:obs-training:frames:19-06|[19-06]]]** All of Israel, including the 450 prophets of Baal, came to **Mount Carmel**.
 
 
 ~~DISCUSSION~~
