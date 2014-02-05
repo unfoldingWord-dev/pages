@@ -11,11 +11,13 @@
 
 ===== Examples from the Bible stories: =====
 
-
-  ***[[:en:obs-training:frames:xx-xx|[xx-xx]]]**  Text 
-  ***[[:en:obs-training:frames:xx-xx|[xx-xx]]]**  Text 
-  ***[[:en:obs-training:frames:xx-xx|[xx-xx]]]**  Text 
-
+  ***[[:en:obs-training:frames:18-07|[18-07]]]** Ten of the tribes of Israel rebelled against Rehoboam. Only two tribes remained faithful to him. These two tribes became the kingdom of **Judah**.
+  ***[[:en:obs-training:frames:18-10|[18-10]]]** The kingdoms of **Judah** and Israel became enemies and often fought against each other.
+  ***[[:en:obs-training:frames:18-13|[18-13]]]** The kings of **Judah** were descendants of David. Some of these kings were good men who ruled justly and worshiped God. But most of **Judah’s** kings were evil, corrupt, and idol-worshipers.
+  ***[[:en:obs-training:frames:20-01|[20-01]]]** The nations of Israel and **Judah** both sinned against God.
+  ***[[:en:obs-training:frames:20-05|[20-05]]]** The people in the kingdom of **Judah** saw how God had punished the kingdom of Israel for not believing and obeying him. But they still worshiped idols and the gods of the Canaanites.
+  ***[[:en:obs-training:frames:20-09|[20-09]]]** Nebuchadnezzar and his army took all the people of **Judah** to Babylon, leaving only the poorest people behind to plant the fields.
+  ***[[:en:obs-training:frames:20-12|[20-12]]]** Shortly after Cyrus came to power, he did something that had never been done before in history. He gave an order that any Jew who wanted to return to **Judah** could go.
 
 
 ~~DISCUSSION~~

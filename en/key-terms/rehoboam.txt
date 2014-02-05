@@ -11,11 +11,9 @@
 
 ===== Examples from the Bible stories: =====
 
-
-  ***[[:en:obs-training:frames:xx-xx|[xx-xx]]]**  Text 
-  ***[[:en:obs-training:frames:xx-xx|[xx-xx]]]**  Text 
-  ***[[:en:obs-training:frames:xx-xx|[xx-xx]]]**  Text 
-
+  ***[[:en:obs-training:frames:18-05|[18-05]]]** After Solomon died, his son, **Rehoboam**, became king. **Rehoboam** was a foolish man.
+  ***[[:en:obs-training:frames:18-06|[18-06]]]** **Rehoboam** answered foolishly and told them, “You thought my father Solomon made you work hard, but I will make you work harder than he did, and I will punish you worse than he did.”
+  ***[[:en:obs-training:frames:18-07|[18-07]]]** Ten of the tribes of Israel rebelled against **Rehoboam**. Only two tribes remained faithful to him.
 
 
 ~~DISCUSSION~~
