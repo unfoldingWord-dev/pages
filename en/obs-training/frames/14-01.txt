@@ -2,7 +2,7 @@
 
 {{:en:obs:obs-14-01.jpg?nolink&640x360}}
 
-After **[[:en:key-terms:god|God]]** had told the **[[:en:key-terms:israel|Israelites]]** the laws he wanted them to obey as part of his **[[:en:key-terms:covenant|Covenant]]** with them, God began leading them from **[[:en:key-terms:sinai|Mount Sinai]]** toward the **[[:en:key-terms:promised-land|Promised Land]]**, which was also called **[[:en:key-terms:canaan|Canaan]]**. The **cloud pillar showed them the way** to Canaan.
+After **[[:en:key-terms:god|God]]** had told the **[[:en:key-terms:israel|Israelites]]** the laws he wanted them to obey as part of his **[[:en:key-terms:covenant|covenant]]** with them, God began leading them from **[[:en:key-terms:sinai|Mount Sinai]]** toward the **[[:en:key-terms:promised-land|Promised Land]]**, which was also called **[[:en:key-terms:canaan|Canaan]]**. The **cloud pillar showed them the way** to Canaan.
 
 
 ===== Translation Notes: =====
@@ -14,4 +14,4 @@ After **[[:en:key-terms:god|God]]** had told the **[[:en:key-terms:israel|Israel
 **[[:en:obs-training:frames:13-15|<<]] | [[:en:obs-training:14-wandering-in-the-wilderness|Up]] | [[:en:obs-training:frames:14-02|>>]]**
 
 
-~~DISCUSSION~~
+~~DISCUSSION:closed~~
