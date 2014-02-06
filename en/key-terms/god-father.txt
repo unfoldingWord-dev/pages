@@ -1,7 +1,7 @@
 ====== God the Father ======
 
 
-==== (term, other) ====
+==== (God the Father, the Father) ====
 
 
 ===== Facts: =====
@@ -12,10 +12,13 @@
 
 ===== Examples from the Bible stories: =====
 
-
-  ***[[:en:obs-training:frames:xx-xx|[xx-xx]]]**  Text 
-  ***[[:en:obs-training:frames:xx-xx|[xx-xx]]]**  Text 
-  ***[[:en:obs-training:frames:xx-xx|[xx-xx]]]**  Text 
+  ***[[:en:obs-training:frames:24-09|[24-09]]]** There is only one God. But God is three persons, the **Father**, Jesus the Son, and the Holy Spirit.
+  ***[[:en:obs-training:frames:29-09|[29-09]]]** Then Jesus said, “This is what my heavenly **Father** will do to every one of you if you do not forgive your brother from your heart.”
+  ***[[:en:obs-training:frames:37-09|[37-09]]]** Then Jesus looked up to heaven and said, “**Father**, thank you for hearing me. I know you always listen to me, but I say this for the sake of all these people standing here, so that they will believe you sent me.”
+  ***[[:en:obs-training:frames:40-07|[40-07]]]** Then Jesus cried out, “It is finished! **Father**, I give my spirit into your hands.”
+  ***[[:en:obs-training:frames:42-10|[42-10]]]** “So go, make disciples of all people groups by baptizing them in the name of the **Father**, the Son, and the Holy Spirit and by teaching them to obey everything I have commanded you.”
+  ***[[:en:obs-training:frames:43-08|[43-08]]]** “Jesus is now exalted to the right hand of **God the Father**. And the **Father** has sent the promised Holy Spirit which you are seeing and hearing.”
+  ***[[:en:obs-training:frames:50-10|[50-10]]]** “Then the righteous ones will shine like the sun in the Kingdom of their **Father**.”
 
 
 ~~DISCUSSION~~

@@ -58,6 +58,7 @@ digraph languages {
 
   * Tok Pisin
 
+
 ===== Sources =====
 
   * [[http://en.wikipedia.org/wiki/World_language]]
@@ -66,4 +67,10 @@ digraph languages {
   * [[http://www2.ignatius.edu/faculty/turner/languages.htm]]
   * [[http://www.ethnologue.com]]
 
+===== Maps =====
+[[http://www.washingtonpost.com/blogs/worldviews/wp/2013/08/12/40-maps-that-explain-the-world/|40 maps by The Washington Post]] #3 The World's Major Writing Systems & #17 Languages and Dialects of the Middle East and Central Asia
+
+[[http://www.washingtonpost.com/blogs/worldviews/wp/2014/01/13/40-more-maps-that-explain-the-world/|40 more maps by The Washington Post]] #24 Diverse Language of Africa & #36 Languages of China and the Surrounding Area
+
+[[http://blog.mapsofworld.com/tag/world-languages/|Blog.Maps of the World]] World Languages Map
 ~~DISCUSSION~~

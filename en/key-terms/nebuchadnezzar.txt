@@ -11,11 +11,10 @@
 
 ===== Examples from the Bible stories: =====
 
-
-  ***[[:en:obs-training:frames:xx-xx|[xx-xx]]]**  Text 
-  ***[[:en:obs-training:frames:xx-xx|[xx-xx]]]**  Text 
-  ***[[:en:obs-training:frames:xx-xx|[xx-xx]]]**  Text 
-
+  ***[[:en:obs-training:frames:20-06|[20-06]]]** About 100 years after the Assyrians destroyed Israel, God sent **Nebuchadnezzar**, king of the Babylonians, to attack Judah.
+  ***[[:en:obs-training:frames:20-06|[20-06]]]** The king of Judah agreed to be **Nebuchadnezzar’s** servant and pay him a lot of money every year.
+  ***[[:en:obs-training:frames:20-08|[20-08]]]**  To punish Judah’s king for rebelling, **Nebuchadnezzar’s** soldiers killed the king’s sons in front of him and then made him blind.
+  ***[[:en:obs-training:frames:20-09|[20-09]]]** **Nebuchadnezzar** and his army took all the people of Judah to Babylon, leaving only the poorest people behind to plant the fields.
 
 
 ~~DISCUSSION~~

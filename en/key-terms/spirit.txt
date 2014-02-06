@@ -1,7 +1,7 @@
 ====== spirit ======
 
 
-==== (term, other) ====
+==== (spirit, spiritually) ====
 
 
 ===== Definitions: =====
@@ -13,10 +13,10 @@
 
 ===== Examples from the Bible stories: =====
 
-
-  ***[[:en:obs-training:frames:xx-xx|[xx-xx]]]**  Text 
-  ***[[:en:obs-training:frames:xx-xx|[xx-xx]]]**  Text 
-  ***[[:en:obs-training:frames:xx-xx|[xx-xx]]]**  Text 
+  ***[[:en:obs-training:frames:13-03|[13-03]]]** Three days later, after the people had prepared themselves **spiritually**, God came down on top of Mount Sinai with thunder, lightning, smoke, and a loud trumpet blast. Only Moses was allowed to go up the mountain.
+  ***[[:en:obs-training:frames:40-07|[40-07]]]** Then Jesus cried out, “It is finished! Father, I give my **spirit** into your hands.” Then he bowed his head and gave up his **spirit**.
+  ***[[:en:obs-training:frames:45-05|[45-05]]]** As Stephen was dying, he cried out, “Jesus, receive my **spirit**.”
+  ***[[:en:obs-training:frames:48-07|[48-07]]]** All the people groups of the earth are blessed through Jesus, because everyone who believes in him becomes one of God’s chosen people, a **spiritual** descendant of Abraham.
 
 
 ~~DISCUSSION~~

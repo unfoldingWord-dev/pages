@@ -14,11 +14,9 @@
 
 ===== Examples from the Bible stories: =====
 
-
-  ***[[:en:obs-training:frames:xx-xx|[xx-xx]]]**  Text 
-  ***[[:en:obs-training:frames:xx-xx|[xx-xx]]]**  Text 
-  ***[[:en:obs-training:frames:xx-xx|[xx-xx]]]**  Text 
-
+  ***[[:en:obs-training:frames:20-09|[20-09]]]** This period of time when God's people could not live in the Promised Land is called the **Exile**.
+  ***[[:en:obs-training:frames:20-10|[20-10]]]** Even though the **Exile** was punishment for their sin, God did not forget his people or his promises.
+  ***[[:en:obs-training:frames:20-12|[20-12]]]** After seventy years in **exile**, a small group of Jews returned to Jerusalem.
 
 
 ~~DISCUSSION~~

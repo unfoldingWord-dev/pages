@@ -2,14 +2,17 @@
 
 {{:en:obs:obs-15-02.jpg?nolink&640x360}}
 
-The **[[:en:key-terms:israel|Israelites]] had to cross** the **[[:en:key-terms:jordan-river|Jordan River]]** to enter into the **[[:en:key-terms:promised-land|Promised Land]]**. **[[:en:key-terms:god|God]]** told **[[:en:key-terms:joshua|Joshua]]**, “Have the **[[:en:key-terms:priest|priests]]** go first.” When the priests' feet touched the Jordan River, the water stopped flowing so the Israelites could cross over on dry ground.
+The **[[:en:key-terms:israel|Israelites]] had to cross** the **[[:en:key-terms:jordan-river|Jordan River]]** to enter into the **[[:en:key-terms:promised-land|Promised Land]]**. **[[:en:key-terms:god|God]]** told **[[:en:key-terms:joshua|Joshua]]**, “**Have the [[:en:key-terms:priest|priests]] go first**.” **When the priests' feet touched the Jordan River**, **the water upstream stopped flowing** so the Israelites could **cross over on dry ground**.
 
 
 ===== Translation Notes: =====
 
 
-  * **had to cross** - This was the boundary of the land.
-  * **issue** - explanation
+  * **had to cross** - This could be translated as, “needed to cross” or “It was necessary for them to cross.” In other words, the only way to get into Canaan was to cross this river, which was right on the border of the land. The river was deep and there was no bridge to walk across.
+  * **Have the priests go first** – For some languages it may be necessary to say, “Have the priests go before the rest of the people to cross the river.” 
+  * **When the priests' feet touched the Jordan River** - This can be translated as, “When the priests touched the water of the Jordan River with their feet,” or “When the priests put their feet in the water of the Jordan River,” or “When the priests started to step into the Jordan River and their feet touched the water's edge.” 
+  * **the water upstream stopped flowing** — The water upstream from the priests stopped flowing. The water downstream continued flowing away from them so that they had only a dry riverbed in front of them. 
+  * **cross over on dry ground** – For some languages it may be necessary to say, “cross over on dry ground to the other side of the river” or “walk across the dry riverbed to the opposite riverbank." 
   
 
 **[[:en:obs-training:frames:15-01|<<]] | [[:en:obs-training:15-the-promised-land|Up]] | [[:en:obs-training:frames:15-03|>>]]**
