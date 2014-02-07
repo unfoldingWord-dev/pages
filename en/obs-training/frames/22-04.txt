@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-22-04.jpg?nolink&640x360}}
 
-When Elizabeth was six months pregnant, the same angel appeared to Elizabeth’s relative, whose name was Mary. She was a virgin and was engaged to a man named Joseph. The angel said, “You will become pregnant and give birth to a son. You are to name him Jesus and he will be the Messiah.”
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+When **[[:en:key-terms:elizabeth|Elizabeth]]** was six months pregnant, the same **[[:en:key-terms:angel|angel]]** appeared to Elizabeth’s relative, whose name was **[[:en:key-terms:mary|Mary]]**. She was a virgin and was engaged to a man named **[[:en:key-terms:joseph-nt|Joseph]]**. The angel said, “You will become pregnant and give birth to a son. You are to name him **[[:en:key-terms:jesus|Jesus]]** and he will be the **[[:en:key-terms:messiah|Messiah]]**.”
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation
