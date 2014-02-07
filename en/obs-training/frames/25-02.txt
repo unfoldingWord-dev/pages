@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-25-02.jpg?nolink&640x360}}
 
-Satan said, “If you are the Son of God, turn these rocks into bread so you can eat!”
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+**[[:en:key-terms:satan|Satan]]** said, “If you are the **[[:en:key-terms:god-son|Son of God]]**, turn these rocks into bread so you can eat!”
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation

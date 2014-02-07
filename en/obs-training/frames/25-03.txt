@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-25-03.jpg?nolink&640x360}}
 
-Jesus replied, “It is written in God’s Word, ‘Man does not live only on bread, but on every word that God speaks!’”
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+**[[:en:key-terms:jesus|Jesus]]** replied, “It is written in **[[:en:key-terms:word-of-god|God’s Word,]]** ‘Man does not live only on bread, but on every word that God speaks!’”
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation

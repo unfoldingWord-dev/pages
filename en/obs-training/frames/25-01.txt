@@ -2,14 +2,10 @@
 
 {{:en:obs:obs-25-01.jpg?nolink&640x360}}
 
-Immediately after Jesus was baptized, the Holy Spirit led him out into the desert, where he fasted for forty days and forty nights. Then Satan appeared and tempted him.
-
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+Immediately after **[[:en:key-terms:jesus|Jesus]]** was **[[:en:key-terms:baptize|baptized]]**, the **[[:en:key-terms:holy-spirit|Holy Spirit]]** led him out into the desert, where he fasted for forty days and forty nights. Then **[[:en:key-terms:satan|Satan]]** appeared and **[[:en:key-terms:tempt|tempted]]** him.
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation
