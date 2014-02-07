@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-24-07.jpg?nolink&640x360}}
 
-John said to Jesus, “I am not worthy to baptize you. You should baptize me instead.” But Jesus said, “You should baptize me, because it is the right thing to do.” So John baptized him, but not not because Jesus had sinned—he never sinned.
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+**[[:en:key-terms:john-baptist|John]]** said to **[[:en:key-terms:jesus|Jesus]]**, “I am not worthy to **[[:en:key-terms:baptize|baptize]]** you. You should baptize me instead.” But Jesus said, “You should baptize me, because it is the right thing to do.” So John baptized him, but not not because Jesus had **[[:en:key-terms:sin|sinned]]**—he never sinned.
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation

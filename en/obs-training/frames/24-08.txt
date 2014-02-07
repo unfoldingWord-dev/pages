@@ -2,14 +2,10 @@
 
 {{:en:obs:obs-24-08.jpg?nolink&640x360}}
 
-When Jesus came out of the water, the Spirit of God took the appearance of a dove and landed on him. At the same time a voice from heaven said, “You are my beloved Son, and with you I am well pleased.”
-
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+When **[[:en:key-terms:jesus|Jesus]]** came out of the water, the **[[:en:key-terms:holy-spirit|Spirit of God]]** took the appearance of a dove and landed on him. At the same time a voice from **[[:en:key-terms:heaven|heaven]]** said, “You are my beloved **[[:en:key-terms:god-son|Son]]**, and with you I am well pleased.”
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation

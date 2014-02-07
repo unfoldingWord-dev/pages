@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-24-09.jpg?nolink&640x360}}
 
-God had told John, “The Holy Spirit will land on someone you baptize. He is the Son of God.” There is only one God. But God is three persons, the Father, Jesus the Son, and the Holy Spirit.
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+**[[:en:key-terms:god|God]]** had told **[[:en:key-terms:john-baptist|John]]**, “The **[[:en:key-terms:holy-spirit|Holy Spirit]]** will land on someone you **[[:en:key-terms:baptize|baptize]]**. He is the **[[:en:key-terms:god-son|Son of God]]**.” There is only one God. But God is three persons, the **[[:en:key-terms:god-father|Father]]**, **[[:en:key-terms:jesus|Jesus]]** the **[[:en:key-terms:god-son|Son]]**, and the Holy Spirit.
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation
