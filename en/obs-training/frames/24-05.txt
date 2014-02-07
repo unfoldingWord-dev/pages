@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-24-05.jpg?nolink&640x360}}
 
-Some Jews asked John if he was the Messiah. John replied, “I am not the Messiah, but there is someone coming after me who is much greater than I am. I am not even worthy to untie his sandals.”
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+Some **[[:en:key-terms:jew|Jews]]** asked **[[:en:key-terms:john-baptist|John]]** if he was the **[[:en:key-terms:messiah|Messiah]]**. John replied, “I am not the Messiah, but there is someone coming after me who is much greater than I am. I am not even worthy to untie his sandals.”
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation
