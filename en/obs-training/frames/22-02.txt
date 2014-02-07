@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-22-02.jpg?nolink&640x360}}
 
-The angel said to Zechariah, “Your wife will have a son. You will name him John. He will be the great prophet that comes before the Messiah!” Zechariah responded, “My wife and I are too old to have children! How will I know this will happen?”
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+The **[[:en:key-terms:angel|angel]]** said to **[[:en:key-terms:zechariah-nt|Zechariah]]**, “Your wife will have a son. You will name him **[[:en:key-terms:john-baptist|John]]**. He will be the great **[[:en:key-terms:prophet|prophet]]** that comes before the **[[:en:key-terms:messiah|Messiah]]**!” Zechariah responded, “My wife and I are too old to have children! How will I know this will happen?”
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation
