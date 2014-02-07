@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-23-09.jpg?nolink&640x360}}
 
-Some time later, wise men from countries far to the east saw an unusual star in the sky. They realized it meant a new king of the Jews was born. So, they traveled a great distance to see this king. They came to Bethlehem and found the place where Jesus was living.
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+Some time later, **[[:en:key-terms:wise|wise]]** men from countries far to the east saw an unusual star in the sky. They realized it meant a new **[[:en:key-terms:king|king]]** of the **[[:en:key-terms:jew|Jes]]** was born. So, they traveled a great distance to see this king. They came to **[[:en:key-terms:bethlehem|Bethlehem]]** and found the place where **[[:en:key-terms:jesus|Jesus]]** was living.
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation
