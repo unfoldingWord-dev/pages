@@ -2,14 +2,10 @@
 
 {{:en:obs:obs-25-04.jpg?nolink&640x360}}
 
-Then Satan took Jesus to the highest point on the Temple and said, “If you are the Son of God, throw yourself down, for it is written, ‘He will command his angels to catch you so your foot does not hit the ground.’”
-
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+Then **[[:en:key-terms:satan|Satan]]** took **[[:en:key-terms:jesus|Jesus]]** to the highest point on the **[[:en:key-terms:temple|Temple]]** and said, “If you are the **[[:en:key-terms:god-son|Son of God]]**, throw yourself down, for it is written, ‘He will command his **[[:en:key-terms:angel|angels]]** to catch you so your foot does not hit the ground.’”
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation

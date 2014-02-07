@@ -2,14 +2,10 @@
 
 {{:en:obs:obs-25-05.jpg?nolink&640x360}}
 
-But Jesus replied, “It is also written in God’s Word, ‘Do not test the Lord, your God.’”
-
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+But **[[:en:key-terms:jesus|Jesus]]** replied, “It is also written in **[[:en:key-terms:word-of-god|God’s Word]]**, ‘Do not test the **[[:en:key-terms:lord|Lord]]**, your **[[:en:key-terms:god|God]]**.’”
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation

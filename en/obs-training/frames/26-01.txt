@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-26-01.jpg?nolink&640x360}}
 
-After overcoming Satan’s temptations, Jesus returned in the power of the Holy Spirit to the region of Galilee where he lived. Jesus went from place to place teaching. Everyone spoke well of him.
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+After overcoming **[[:en:key-terms:satan|Satan's]]** **[[:en:key-terms:tempt|temptations]]**, **[[:en:key-terms:jesus|Jesus]]** returned in the power of the **[[:en:key-terms:holy-spirit|Holy Spirit]]**  to the region of **[[:en:key-terms:galilee|Galilee]]** where he lived. Jesus went from place to place teaching. Everyone spoke well of him.
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation

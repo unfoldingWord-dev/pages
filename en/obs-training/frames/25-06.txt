@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-25-06.jpg?nolink&640x360}}
 
-Then Satan showed Jesus all the kingdoms of the world and all their glory and said, “I will give you all this if you bow down and worship me.”
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+Then **[[:en:key-terms:satan|Satan]]** showed **[[:en:key-terms:jesus|Jesus]]** all the **[[:en:key-terms:kingdom|kingdoms]]** of the world and all their **[[:en:key-terms:glory|glory]]** and said, “I will give you all this if you bow down and **[[:en:key-terms:worship|worship]]** me.”
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation

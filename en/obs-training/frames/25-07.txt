@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-25-07.jpg?nolink&640x360}}
 
-Jesus replied, “Get away from me, Satan! It is written in God’s Word, ‘Worship only the Lord your God and only serve him.’”
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+**[[:en:key-terms:jesus|Jesus]]** replied, “Get away from me, **[[:en:key-terms:satan|Satan]]**! It is written in **[[:en:key-terms:word-of-god|God’s Word]]**, ‘**[[:en:key-terms:worship|Worship]]** only the **[[:en:key-terms:lord|Lord]]** your **[[:en:key-terms:god|God]]** and only serve him.’”
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation
