@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-23-04.jpg?nolink&640x360}}
 
-About the time Mary was to give birth, the Roman government told everyone to go to the town of their ancestors for a census. Joseph and Mary had to make a long journey from where they lived in Nazareth to Bethlehem because their ancestor was David whose hometown was Bethlehem.
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+About the time **[[:en:key-terms:mary|Mary]]** was to give birth, the **[[:en:key-terms:rome|Roman]]** government told everyone to go to the town of their ancestors for a census. **[[:en:key-terms:joseph-nt|Joseph]]** and Mary had to make a long journey from where they lived in **[[:en:key-terms:nazareth|Nazareth]]** to **[[:en:key-terms:bethlehem|Bethlehem]]** because their ancestor was **[[:en:key-terms:david|David]]** whose hometown was Bethlehem.
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation
