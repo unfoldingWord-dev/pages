@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-26-06.jpg?nolink&640x360}}
 
-“And when the prophet Elisha was alive, there were many people in Israel with skin diseases. But Elisha did not heal any of them. He only healed Naaman, a commander of Israel’s enemies.” When the people heard this, they were furious.
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+“And when the **[[:en:key-terms:prophet|prophet]]** **[[:en:key-terms:elisha|Elisha]]** was alive, there were many people in **[[:en:key-terms:israel|Israel]]** with skin diseases. But Elisha did not heal any of them. He only healed **[[:en:key-terms:naaman|Naaman]]**, a commander of Israel’s enemies.” When the people heard this, they were furious.
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation

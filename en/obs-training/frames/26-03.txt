@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-26-03.jpg?nolink&640x360}}
 
-“God has poured his Spirit on me to proclaim good news to the poor, freedom to captives, recovery of sight for the blind, and release to prisoners. This is the year of the Lord’s favor.”
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+“**[[:en:key-terms:god|God]]** has poured his **[[:en:key-terms:holy-spirit|Spirit]]** on me to proclaim good news to the poor, freedom to captives, recovery of sight for the blind, and release to prisoners. This is the year of the **[[:en:key-terms:lord|Lord's]]** favor.”
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation
