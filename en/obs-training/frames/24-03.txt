@@ -2,14 +2,10 @@
 
 {{:en:obs:obs-24-03.jpg?nolink&640x360}}
 
-Some people repented and were baptized when they heard John’s message, but there were many religious leaders who came to be baptized without repenting and confessing their sins.
-
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+Some people **[[:en:key-terms:repent|repented]]** and were **[[:en:key-terms:baptize|baptized]]** when they heard **[[:en:key-terms:john-baptist|John's]]** message, but there were many **[[:en:key-terms:religion|religious]]** leaders who came to be baptized without repenting and confessing their **[[:en:key-terms:sin|sins]]**.
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation
