@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-24-02.jpg?nolink&640x360}}
 
-Many people came to listen to John. He preached to them, saying, “Repent, for the Kingdom of God is near!”
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+Many people came to listen to **[[:en:key-terms:john-baptist|John]]**. He **[[:en:key-terms:preach|preached]]** to them, saying, “**[[:en:key-terms:repent|Repent]]**, for the **[[:en:key-terms:kingdom-of-god|Kingdom of God]]** is near!”
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation
