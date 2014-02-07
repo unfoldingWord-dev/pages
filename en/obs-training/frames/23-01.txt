@@ -2,14 +2,10 @@
 
 {{:en:obs:obs-23-01.jpg?nolink&640x360}}
 
-Joseph was a righteous man. When he heard that Mary was pregnant, he knew it was not his baby. He did not want to shame her, so he planned to quietly divorce her. Before he could do that, an angel appeared to him in a dream.
-
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+**[[:en:key-terms:joseph-nt|Joseph]]** was a **[[:en:key-terms:righteous|righteous]]** man. When he heard that **[[:en:key-terms:mary|Mary]]** was pregnant, he knew it was not his baby. He did not want to **[[:en:key-terms:shame|shame]]** her, so he planned to quietly divorce her. Before he could do that, an **[[:en:key-terms:angel|angel]]** appeared to him in a **[[:en:key-terms:dream|dream]]**.
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation
