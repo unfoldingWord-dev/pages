@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-23-02.jpg?nolink&640x360}}
 
-The angel said, “Joseph, do not be afraid to take Mary as your wife. What is in her is from the Holy Spirit. She will give birth to a son. Name him Jesus, because he will save the people from their sins.”
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+The **[[:en:key-terms:angel|angel]]** said, “**[[:en:key-terms:joseph-nt|Joseph]]** , do not be afraid to take **[[:en:key-terms:mary|Mary]]** as your wife. What is in her is from the **[[:en:key-terms:holy-spirit|Holy Spirit]]**. She will give birth to a **[[:en:key-terms:son|son]]**. Name him **[[:en:key-terms:jesus|Jesus]]**, because he will **[[:en:key-terms:save|save]]** the people from their **[[:en:key-terms:sin|sins]]**.”
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation
