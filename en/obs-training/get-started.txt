@@ -13,6 +13,11 @@ Translating content in Door43 is easy! Follow these simple steps to get started:
 To start translating content, you will need a user account on Door43. If you do not have an account, [[:en:get-started?do=register|create one]] then you can [[https://door43.org/en/obs-training/get-started?do=login&sectok=ee4e19eb537ef77891aa5a6b54b7b2a4|login]].\\ 
 You can watch this [[http://youtu.be/dpsJRDAa3I8|video]] (45 seconds long) to see how to set up an account.
 
+     * Click on the Register link at the top of the page.
+     * Fill in the necessary information to set up an account.
+     * Check your email for the automatic generated password. (You might find the email in your spam folder.)
+     * Click on the 'Update Profile' link to change the password.
+
 
 ===== 2. Practice Editing a Page =====
 
@@ -32,7 +37,7 @@ Door43 has a [[:playground:playground|test page]] that you can freely edit to tr
 
 Browse to a story you would like to translate. For instance, to translate the first story of **Open Bible Stories**, you would click [[:en:obs:01-the-creation|1. The Creation]] from the left menu.
 
-
+**You might find it convenient to right click on links and choose "Open in new window."**
 ===== 4. Choose a Language =====
 
 
