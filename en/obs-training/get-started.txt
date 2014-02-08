@@ -97,7 +97,7 @@ The video assumes that you have gone through and understand the above instructio
     * Open the graphical (FCK Edit) editor in the heart language window and scroll down to the desired frame. Compare the picture .
     * Read the Notes for help on how to translate some of the words and terms.
 
-**Once you have chosen the correct words or terms in your language you will want to arrange the translated words so the stories are easy to read and understand.** 
+**Once you have chosen the correct words or terms in your language you will want to arrange the translated words so they make sense and the stories are easy to read and understand.** 
 
     * Continue editing frames and saving your work.
     * Enjoy and share the new translation.
