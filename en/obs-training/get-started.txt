@@ -79,17 +79,17 @@ This [[http://youtu.be/5fFl8crhglE|video]] (1 minute 20 seconds) will give a qui
 Having both the webpage of the story in your language and the webpage of the story with translation helps open at the same time is a good idea.
 
 
-This [[http://youtu.be/wyLvhikPeMA|video]] (7 1/2 minutes) will give a quick overview of how to use the Translation Notes when translating. The Translation Notes pages are designed to help write accurate translations.
+This [[http://youtu.be/73tAlcffiLU|video]] (10 minutes) will give a quick overview of how to use the Translation Notes when translating. The Translation Notes pages are designed to help write accurate translations.
 
 
-The video assumes that you have gone through and understand the above instructions. Here is a summary of the process:
+The video assumes that you have gone through and understand the above instructions. The video uses the graphical editor. Here is a summary of the process:
 
 
     * Find stories in your heart language that have not been translated that you want to work on.
     * Open the Translation Notes in a new window and arrange the windows side-by-side.
     * Have both the [[:en:obs:notes:01|Translation Notes]] and the Heart Language windows on the same story.
     * In the Translation Notes window note the Frame Number (number in [ ] after the story title).
-    * Open the DokuWiki editor in the heart language window and scroll down to the desired frame. Frame numbers are in the {{ brackets.
+    * Open the graphical (FCK Edit) editor in the heart language window and scroll down to the desired frame. Frame numbers are in the {{ brackets.
     * You will edit the text BELOW the frame number.
     * Read the Notes for help on how to translate some of the words and terms.
 
