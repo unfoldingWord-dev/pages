@@ -88,14 +88,11 @@ The video assumes that you have gone through and understand the above instructio
     * Find stories in your heart language that have not been translated that you want to work on.
     * Open the Translation Notes in a new window and arrange the windows side-by-side.
     * Have both the [[:en:obs:notes:01|Translation Notes]] and the Heart Language windows on the same story.
-    * In the Translation Notes window note the Frame Number (number in [ ] after the story title).
-    * Open the graphical (FCK Edit) editor in the heart language window and scroll down to the desired frame. Frame numbers are in the {{ brackets.
-    * You will edit the text BELOW the frame number.
+    * In the Translation Notes window note the Picture or Frame Number (number in [ ] after the story title).
+    * Open the graphical (FCK Edit) editor in the heart language window and scroll down to the desired frame. Compare the picture .
     * Read the Notes for help on how to translate some of the words and terms.
 
-
 **Once you have chosen the correct words or terms in your language you will want to arrange the translated words so the stories are easy to read and understand.** 
-
 
     * Continue editing frames and saving your work.
     * Enjoy and share the new translation.
