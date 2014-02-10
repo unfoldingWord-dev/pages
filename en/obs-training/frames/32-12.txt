@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-32-12.jpg?nolink&640x360}}
 
-So the man went away and told everyone about what Jesus had done for him. Everyone who heard his story was filled with wonder and amazement.
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+So the man went away and told everyone about what **[[:en:key-terms:jesus|Jesus]]** had done for him. Everyone who heard his story was filled with wonder and amazement.
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation
