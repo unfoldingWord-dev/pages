@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-26-09.jpg?nolink&640x360}}
 
-Many people with demons were brought to Jesus. At Jesus' command, the demons came out, often shouting, “You are the Son of God!” The crowds were amazed and worshiped God.
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+Many people with **[[:en:key-terms:demon|demons]]** were brought to **[[:en:key-terms:jesus|Jesus]]**. At Jesus' command, the demons came out, often shouting, “You are the **[[:en:key-terms:god-son|Son of God]]**!” The crowds were amazed and **[[:en:key-terms:worship|worshiped]]** **[[:en:key-terms:god|God]]**.
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation
