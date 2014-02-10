@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-35-11.jpg?nolink&640x360}}
 
-“When the older son found out that there was a party because his brother had come home, he was very angry and would not go into the house. His father came out and begged him to join the party, but he refused.”
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+“When the older **[[:en:key-terms:son|son]]** found out that there was a party because his brother had come home, he was very angry and would not go into the house. His father came out and **[[:en:key-terms:beg|begged]]** him to join the party, but he refused.”
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation

@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-35-12.jpg?nolink&640x360}}
 
-“The older son said to his father, ‘All these years I’ve worked so faithfully for you! I never disobeyed you, and still you did not even give me one small goat so I could celebrate with my friends. But when this son of yours who wasted your money on sinful behavior came home, you killed the best calf for him!’”
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+“The older son said to his father, ‘All these years I’ve worked so **[[:en:key-terms:faith|faithfully]]**for you! I never **[[:en:key-terms:disobey|disobeyed]]** you, and still you did not even give me one small goat so I could celebrate with my friends. But when this son of yours who wasted your money on **[[:en:key-terms:sin|sinful]]** behavior came home, you killed the best calf for him!’”
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation

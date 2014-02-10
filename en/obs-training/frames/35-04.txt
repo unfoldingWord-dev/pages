@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-35-04.jpg?nolink&640x360}}
 
-“Soon the younger son gathered all that he had and went far away and wasted his money in sinful living.”
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+“Soon the younger son gathered all that he had and went far away and wasted his money in **[[:en:key-terms:sin|sinful]]** living.”
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation

@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-34-09.jpg?nolink&640x360}}
 
-“But the tax collector stood far away, did not even lift his eyes up to heaven, but beat his chest and prayed, ‘God, have mercy on me, a sinner.’”
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+“But the **[[:en:key-terms:tax-collector|tax collector]]** stood far away, did not even lift his eyes up to **[[:en:key-terms:heaven|heaven]]**, but beat his chest and **[[:en:key-terms:pray|prayed]]**, ‘**[[:en:key-terms:god|God]]**, have **[[:en:key-terms:mercy|mercy]]** on me, a **[[:en:key-terms:sin|sinner]]**.’”
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation

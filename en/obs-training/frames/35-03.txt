@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-35-03.jpg?nolink&640x360}}
 
-“There was a man who had two sons. The younger son told his father, ‘Father, I want my inheritance now!’ So the father divided his property between the two sons.”
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+“There was a man who had two **[[:en:key-terms:son|sons]]**. The younger son told his father, ‘Father, I want my **[[:en:key-terms:inherit|inheritance]]** now!’ So the father divided his property between the two sons.”
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation

@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-35-07.jpg?nolink&640x360}}
 
-“While the younger son was still far away, his father saw him and felt compassion for him. He ran to his son and hugged him and kissed him.”
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+“While the younger **[[:en:key-terms:son|son]]** was still far away, his father saw him and felt compassion for him. He ran to his son and hugged him and kissed him.”
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation

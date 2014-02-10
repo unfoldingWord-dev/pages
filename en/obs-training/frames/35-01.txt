@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-35-01.jpg?nolink&640x360}}
 
-One day, Jesus was teaching many tax collectors and sinners who were with him.
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+One day, **[[:en:key-terms:jesus|Jesus]]** was teaching many **[[:en:key-terms:tax-collector|tax collector]]** and **[[:en:key-terms:sin|sinners]]** who were with him.
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation

@@ -4,11 +4,8 @@
 
 “And the people began to celebrate. Before long, the older son came home from working in the field. He heard the music and dancing and wondered what was happening.”
 
-[text] with inline links - **[[:en:key-terms:page|sample]]**
-
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation
