@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-31-05.jpg?nolink&640x360}}
 
-Then Peter said to Jesus, “Master, if it is you, command me to come to you on the water.” Jesus told Peter, “Come!”
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+Then **[[:en:key-terms:peter|Peter]]** said to **[[:en:key-terms:jesus|Jesus]]**, “**[[:en:key-terms:lord|Master]]**, if it is you, command me to come to you on the water.” Jesus told Peter, “Come!”
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation

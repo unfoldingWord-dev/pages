@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-31-08.jpg?nolink&640x360}}
 
-When Peter and Jesus got into the boat, the wind immediately stopped. The disciples were amazed. They worshiped Jesus, saying to him, “Truly, you are the Son of God.”
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+When **[[:en:key-terms:peter|Peter]]** and **[[:en:key-terms:jesus|Jesus]]** got into the boat, the wind immediately stopped. The **[[:en:key-terms:disciple|disciples]]** were amazed. They **[[:en:key-terms:worship|worshiped]]** Jesus, saying to him, “**[[:en:key-terms:true|Truly]]**, you are the **[[:en:key-terms:god-son|Son of God]]**.”
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation

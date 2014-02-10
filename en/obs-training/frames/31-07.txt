@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-31-07.jpg?nolink&640x360}}
 
-Then Peter became afraid and began to sink. He cried out, “Master, save me!” Jesus reached out right away and grabbed him. Then he said to Peter, “O you of little faith, why did you doubt?”
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+Then **[[:en:key-terms:peter|Peter]]** became afraid and began to sink. He cried out, “**[[:en:key-terms:lord|Master]]** , **[[:en:key-terms:save|save]]** me!” **[[:en:key-terms:jesus|Jesus]]** reached out right away and grabbed him. Then he said to Peter, “O you of little **[[:en:key-terms:faith|faith]]**, why did you doubt?”
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation

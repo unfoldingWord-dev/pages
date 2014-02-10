@@ -2,16 +2,13 @@
 
 {{:en:obs:obs-32-01.jpg?nolink&640x360}}
 
-One day, Jesus and his disciples crossed the Sea of Galilee to the country of the Gerasenes.
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+One day, **[[:en:key-terms:jesus|Jesus]]** and his **[[:en:key-terms:disciple|disciples]]** crossed the **Sea of [[:en:key-terms:galilee|Galilee]]** to the **country of the Gerasenes**.
 
 
 ===== Translation Notes: =====
 
-
-  * **issue** - explanation
-  * **issue** - explanation
+  * **Sea of Galilee** - explanation
+  * **country of the Gerasenes** - explanation
   * **issue** - explanation
   * **issue** - explanation
   
