@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-32-14.jpg?nolink&640x360}}
 
-She heard how Jesus had healed many sick people and thought to herself, “If I only touch Jesus’ clothes, then I, too, will be healed!” She came up behind Jesus and touched his clothes. As soon as she touched Jesus, the bleeding stopped!
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+She heard how **[[:en:key-terms:jesus|Jesus]]** had **[[:en:key-terms:heal|healed]]** many sick people and thought to herself, “If I only touch Jesus’ clothes, then I, too, will be healed!” She came up behind Jesus and touched his clothes. As soon as she touched Jesus, the bleeding stopped!
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation
