@@ -2,19 +2,15 @@
 
 {{:en:obs:obs-27-06.jpg?nolink&640x360}}
 
-“Soon after that, a Jewish priest happened to walk down that same road. When this religious leader saw the man who had been robbed and beaten, he moved to the other side of the road, ignored the man in need, and kept on going.”
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+“Soon after that, a **[[:en:key-terms:jew|Jewish]]** **[[:en:key-terms:priest|priest]]** happened to walk down that same road. When this **[[:en:key-terms:religious|religious]]** leader saw the man who had been robbed and beaten, he moved to the other side of the road, ignored the man in need, and kept on going.”
 
 
 ===== Translation Notes: =====
 
-
   * **issue** - explanation
   * **issue** - explanation
   * **issue** - explanation
   * **issue** - explanation
-  
 
 
 **[[:en:obs-training:frames:27-05|<<]] | [[:en:obs-training:27-the-story-of-the-good-samaritan|Up]] | [[:en:obs-training:frames:27-07|>>]]**

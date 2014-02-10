@@ -2,20 +2,16 @@
 
 {{:en:obs:obs-27-04.jpg?nolink&640x360}}
 
-Jesus answered with a story. “There was a Jewish man who was traveling along the road from Jerusalem to Jericho.”
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+**[[:en:key-terms:jesus|Jesus]]** answered with a story. “There was a **[[:en:key-terms:jew|Jewish]]** man who was traveling along the road from **[[:en:key-terms:jerusalem|Jerusalem]]** to **[[:en:key-terms:jericho|Jericho]]**.”
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation
   * **issue** - explanation
   * **issue** - explanation
   
-
 
 **[[:en:obs-training:frames:27-03|<<]] | [[:en:obs-training:27-the-story-of-the-good-samaritan|Up]] | [[:en:obs-training:frames:27-05|>>]]**
 

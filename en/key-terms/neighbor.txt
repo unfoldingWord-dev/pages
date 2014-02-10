@@ -1,0 +1,23 @@
+====== neighbor ======
+
+
+==== (term, other) ====
+
+
+===== Definitions: =====
+
+  * To 
+
+
+[See also: **[[:en:key-terms:term|term]]**]
+
+
+===== Examples from the Bible stories: =====
+
+  ***[[:en:obs-training:frames:27-02|[27-02]]]** “Love the Lord your God with all your heart, soul, strength, and mind. And love your **neighbor** as yourself,” the lawyer said.
+  ***[[:en:obs-training:frames:27-03|[27-03]]]** But the lawyer wanted to prove that he was right, so he asked, “Who is my **neighbor**?”
+  ***[[:en:obs-training:frames:27-11|[27-11]]]** Then Jesus asked the lawyer, “Which one of the three men do you think was a **neighbor** to the man who was robbed and beaten?” The lawyer replied, “The one who showed mercy.”
+  ***[[:en:obs-training:frames:28-02|[28-02]]]** Jesus replied, “Do not murder. Do not commit adultery. Do not steal. Do not lie. Honor your father and mother, and love your **neighbor** as you love yourself.”
+
+
+~~DISCUSSION~~
