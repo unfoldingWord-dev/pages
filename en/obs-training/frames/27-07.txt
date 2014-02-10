@@ -2,19 +2,15 @@
 
 {{:en:obs:obs-27-07.jpg?nolink&640x360}}
 
-“Not long after that, a Levite came down the road. (Levites were a tribe of Jews who helped the priests at the Temple.) The Levite also crossed over to the other side of the road and ignored the man who had been robbed and beaten.”
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+“Not long after that, a **Levite** came down the road. (Levites were a tribe of **[[:en:key-terms:jew|Jews]]** who helped the **[[:en:key-terms:priest|priests]]** at the **[[:en:key-terms:temple|Temple]]**.) The Levite also crossed over to the other side of the road and ignored the man who had been robbed and beaten.”
 
 
 ===== Translation Notes: =====
 
-
   * **issue** - explanation
   * **issue** - explanation
   * **issue** - explanation
   * **issue** - explanation
-  
 
 
 **[[:en:obs-training:frames:27-06|<<]] | [[:en:obs-training:27-the-story-of-the-good-samaritan|Up]] | [[:en:obs-training:frames:27-08|>>]]**
