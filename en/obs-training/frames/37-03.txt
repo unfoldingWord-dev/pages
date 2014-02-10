@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-37-03.jpg?nolink&640x360}}
 
-Jesus' disciples replied, “Master, if Lazarus is sleeping, he will get better on his own.” Then Jesus told them plainly, “Lazarus is dead. I am glad we were not there when he died, for now you will see amazing things so that you may believe.”
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+**[[:en:key-terms:jesus|Jesus']]** **[[:en:key-terms:disciple|disciples]]** replied, “**[[:en:key-terms:lord|Master]]**, if **[[:en:key-terms:lazarus|Lazarus]]** is sleeping, he will get better on his own.” Then Jesus told them plainly, “Lazarus is **[[:en:key-terms:death|dead]]**. I am glad we were not there when he died, for now you will see amazing things so that you may **[[:en:key-terms:believe|believe]]**.”
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation

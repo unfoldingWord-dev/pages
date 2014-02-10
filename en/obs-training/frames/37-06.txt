@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-37-06.jpg?nolink&640x360}}
 
-Then Mary arrived. She fell at the feet of Jesus and said, “Master, if only you had been here, my brother would not have died.” “Where have you put Lazarus?” he asked them. They told him, “In the tomb. Come and see.” Then Jesus wept.
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+Then **[[:en:key-terms:mary-sister|Mary]]** arrived. She fell at the feet of **[[:en:key-terms:jesus|Jesus]]** and said, “**[[:en:key-terms:lord|Master]]**, if only you had been here, my brother would not have **[[:en:key-terms:death|died]]**.” “Where have you put **[[:en:key-terms:lazarus|Lazarus]]**?” he asked them. They told him, “In the tomb. Come and see.” Then Jesus wept.
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation

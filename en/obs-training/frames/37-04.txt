@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-37-04.jpg?nolink&640x360}}
 
-When Jesus got there, Lazarus had already been dead for four days. Martha went out to meet Jesus and said, “Master, if only you had been here, my brother would not have died. But I believe God will give you whatever you ask from him.”
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+When **[[:en:key-terms:jesus|Jesus]]** got there, **[[:en:key-terms:lazarus|Lazarus]]** had already been **[[:en:key-terms:death|dead]]** for four days. **[[:en:key-terms:martha-sister|Martha]]** went out to meet Jesus and said, “**[[:en:key-terms:lord|Master]]**, if only you had been here, my brother would not have died. But I **[[:en:key-terms:believe|believe]]** **[[:en:key-terms:god|God]]** will give you whatever you ask from him.”
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation

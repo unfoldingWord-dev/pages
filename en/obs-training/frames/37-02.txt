@@ -2,15 +2,12 @@
 
 {{:en:obs:obs-37-02.jpg?nolink&640x360}}
 
-Then Jesus said to his disciples, “Let’s go back to Judea.” “But Teacher,” the disciples answered, “Just a short time ago the people there wanted to kill you!” Jesus said, “Our friend Lazarus has fallen asleep, and I must wake him.”
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+Then **[[:en:key-terms:jesus|Jesus]]** said to his **[[:en:key-terms:disciple|disciples]]**, “Let’s go back to **Judea**.” “But **[[:en:key-terms:teacher|Teacher]]**,” the disciples answered, “Just a short time ago the people there wanted to kill you!” Jesus said, “Our friend **[[:en:key-terms:lazarus|Lazarus]]** has fallen asleep, and I must wake him.”
 
 
 ===== Translation Notes: =====
 
-
-  * **issue** - explanation
+  * **Judea** - explanation
   * **issue** - explanation
   * **issue** - explanation
   * **issue** - explanation
