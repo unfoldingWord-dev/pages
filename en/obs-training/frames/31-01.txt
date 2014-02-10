@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-31-01.jpg?nolink&640x360}}
 
-Then Jesus told the disciples to get into a boat and sail to the other side of the lake while he dismissed the crowd. After Jesus had sent the crowd away, he went up on a mountain to pray. Jesus was there all alone, and he prayed long into the evening.
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+Then **[[:en:key-terms:jesus|Jesus]]** told the **[[:en:key-terms:disciple|disciples]]** to get into a boat and sail to the other side of the lake while he dismissed the crowd. After Jesus had sent the crowd away, he went up on a mountain to **[[:en:key-terms:pray|pray]]**. Jesus was there all alone, and he prayed long into the evening.
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation

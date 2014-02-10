@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-30-03.jpg?nolink&640x360}}
 
-The crowd had over 5,000 men in it, not counting the women and children. Jesus felt great kindness towards the people. To Jesus, these people were like sheep without a shepherd. So he taught them and healed their sick.
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+The crowd had over 5,000 men in it, not counting the women and children. **[[:en:key-terms:jesus|Jesus]]** felt great kindness towards the people. To Jesus, these people were like sheep without a **[[:en:key-terms:shepherd|shepherd]]**. So he taught them and **[[:en:key-terms:heal|healed]]** their sick.
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation

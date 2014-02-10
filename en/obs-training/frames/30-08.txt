@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-30-08.jpg?nolink&640x360}}
 
-Jesus then started breaking the bread and fish. He gave the pieces to his disciples to give to the people. The disciples kept passing out the food, and it never ran out! All the people ate and were satisfied.
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+**[[:en:key-terms:jesus|Jesus]]** then started breaking the bread and fish. He gave the pieces to his **[[:en:key-terms:disciple|disciples]]** to give to the people. The disciples kept passing out the food, and it never ran out! All the people ate and were satisfied.
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation

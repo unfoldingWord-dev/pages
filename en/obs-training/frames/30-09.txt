@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-30-09.jpg?nolink&640x360}}
 
-The disciples even picked up twelve baskets full of leftover food that had not been eaten. All the food came from the five loaves of bread and two fish.
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+The **[[:en:key-terms:disciple|disciples]]** even picked up twelve baskets full of leftover food that had not been eaten. All the food came from the five loaves of bread and two fish.
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation

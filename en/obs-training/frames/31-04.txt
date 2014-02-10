@@ -2,15 +2,12 @@
 
 {{:en:obs:obs-31-04.jpg?nolink&640x360}}
 
-The disciples were very afraid when they saw Jesus, because they thought they were seeing a ghost. Jesus knew that they were afraid, so he called out to them and said, “Do not be afraid. It is I!”
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+The **[[:en:key-terms:disciple|disciples]]** were very afraid when they saw **[[:en:key-terms:jesus|Jesus]]**, because they thought they were seeing a **ghost**. Jesus knew that they were afraid, so he called out to them and said, “Do not be afraid. It is I!”
 
 
 ===== Translation Notes: =====
 
-
-  * **issue** - explanation
+  * **ghost** - explanation
   * **issue** - explanation
   * **issue** - explanation
   * **issue** - explanation
