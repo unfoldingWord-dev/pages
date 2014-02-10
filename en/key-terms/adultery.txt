@@ -1,7 +1,7 @@
 ====== adultery ======
 
 
-==== (term, other) ====
+==== (adultery, adulterer) ====
 
 
 ===== Definitions: =====
@@ -17,8 +17,9 @@ Be sure to translate this in a way that doesn't offend or embarrass people. Lang
 
 
   ***[[:en:obs-training:frames:13-06|[13-06]]]** "Do not commit **adultery**."
-  ***[[:en:obs-training:frames:18-12|[18-12x]]]** All of the kings of Israel and most of the people worshiped idols which often included **adultery** and sometimes even child sacrifice.
+  ***[[:en:obs-training:frames:18-12|[18-12]]]** All of the kings of Israel and most of the people worshiped idols which often included **adultery** and sometimes even child sacrifice.
   ***[[:en:obs-training:frames:28-02|[28-06]]]** Do not commit **adultery**.
+  ***[[:en:obs-training:frames:34-07|[34-07]]]** “The religious leader prayed like this, ‘Thank you God that I am not like other men—robbers, unjust men, **adulterers**, or even like that tax collector.’”
 
 
 ~~DISCUSSION~~

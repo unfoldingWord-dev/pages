@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-34-07.jpg?nolink&640x360}}
 
-“The religious leader prayed like this, ‘Thank you God that I am not like other men—robbers, unjust men, adulterers, or even like that tax collector.’”
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+“The **[[:en:key-terms:religious|religious]]** leader prayed like this, ‘Thank you **[[:en:key-terms:god|God]]** that I am not like other men—robbers, unjust men, **[[:en:key-terms:adultery|adulterers]]**, or even like that **[[:en:key-terms:tax-collector|tax collector]]**.’”
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation

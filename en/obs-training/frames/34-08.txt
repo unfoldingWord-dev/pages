@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-34-08.jpg?nolink&640x360}}
 
-“‘I fast two times every week and I give you ten percent of everything I get.’”
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+“‘I **[[:en:key-terms:fast|fast]]** two times every week and I give you ten percent of everything I get.’”
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation
