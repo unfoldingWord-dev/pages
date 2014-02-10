@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-33-08.jpg?nolink&640x360}}
 
-“The seeds in the thorns are like people who hear God’s Word and believe it. But as time passes, their love for God is choked out by the cares, riches, and pleasures of life. The teaching they heard does not produce fruit.”
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+“The seeds in the thorns are like people who hear **[[:en:key-terms:word-of-god|God’s Word]]** and **[[:en:key-terms:believe|believe]]** it. But as time passes, their **[[:en:key-terms:love|love]]** for **[[:en:key-terms:god|God]]** is choked out by the cares, riches, and pleasures of life. The teaching they heard does not produce fruit.”
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation

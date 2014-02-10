@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-34-03.jpg?nolink&640x360}}
 
-Jesus told another story, “The Kingdom of God is like yeast that a woman mixed into some bread dough until it spread all the way through.”
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+**[[:en:key-terms:jesus|Jesus]]** told another story, “The **[[:en:key-terms:kingdom-of-god|Kingdom of God]]** is like yeast that a woman mixed into some bread dough until it spread all the way through.”
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation

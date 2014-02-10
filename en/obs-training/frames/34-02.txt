@@ -4,11 +4,8 @@
 
 “But when the mustard seed has grown, it is the largest of all garden plants, big enough that even the birds come and make nests in its branches.”
 
-[text] with inline links - **[[:en:key-terms:page|sample]]**
-
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation

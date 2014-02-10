@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-34-01.jpg?nolink&640x360}}
 
-Jesus told many other stories about the Kingdom of God. He said, “The Kingdom of God is like a mustard seed that a man planted in his field. When it is a seed, it is the smallest seed of all.”
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+**[[:en:key-terms:jesus|Jesus]]** told many other stories about the **[[:en:key-terms:kingdom-of-god|Kingdom of God]]**. He said, “The Kingdom of God is like a mustard seed that a man planted in his field. When it is a seed, it is the smallest seed of all.”
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation
