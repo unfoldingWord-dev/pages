@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-27-02.jpg?nolink&640x360}}
 
-“Love the Lord your God with all your heart, soul, strength, and mind. And love your neighbor as yourself,” the lawyer said. Jesus answered, “You are correct! Do this and you will live.”
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+“**[[:en:key-terms:love|Love]]** the **[[:en:key-terms:lord|Lord]]** your **[[:en:key-terms:god|God]]** with all your heart, soul, strength, and mind. And love your **[[:en:key-terms:neighbor|neighbor]]** as yourself,” the lawyer said. **[[:en:key-terms:jesus|Jesus]]** answered, “You are correct! Do this and you will **[[:en:key-terms:life|live]]**.”
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation
