@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-36-02.jpg?nolink&640x360}}
 
-All of a sudden, Jesus’ face became as bright as the sun and his clothes became as white as light, whiter than anyone on earth could make them.
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+All of a sudden, **[[:en:key-terms:jesus|Jesus']]** face became as bright as the sun and his clothes became as white as light, whiter than anyone on earth could make them.
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation
