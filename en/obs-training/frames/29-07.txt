@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-29-07.jpg?nolink&640x360}}
 
-“Some other servants saw what had happened and were greatly disturbed. They went to the king and told him everything.”
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+“Some other **[[:en:key-terms:servant|servants]]** saw what had happened and were greatly disturbed. They went to the **[[:en:key-terms:king|king]]** and told him everything.”
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation

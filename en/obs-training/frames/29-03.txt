@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-29-03.jpg?nolink&640x360}}
 
-“Since the servant could not repay the debt, the king said, ‘Sell this man and his family as slaves to make payment on his debt.’”
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+“Since the **[[:en:key-terms:servant|servant]]** could not repay the debt, the **[[:en:key-terms:king|king]]** said, ‘Sell this man and his family as **[[:en:key-terms:servant|slaves]]** to make payment on his debt.’”
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation

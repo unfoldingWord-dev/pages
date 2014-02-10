@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-29-08.jpg?nolink&640x360}}
 
-“The king called the servant and said, ‘You wicked servant! I forgave your debt because you begged me. You should have done the same.’ In his anger the king threw the wicked servant into prison until he could pay back all of his debt.”
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+“The **[[:en:key-terms:king|king]]** called the **[[:en:key-terms:servant|servant]]** and said, ‘You wicked servant! I forgave your debt because you begged me. You should have done the same.’ In his anger the king threw the wicked servant into prison until he could pay back all of his debt.”
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation
