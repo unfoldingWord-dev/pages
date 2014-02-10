@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-37-08.jpg?nolink&640x360}}
 
-Jesus responded, “Did I not tell you that you would see God’s glory if you believe?” So they rolled the stone away.
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+**[[:en:key-terms:jesus|Jesus]]** responded, “Did I not tell you that you would see **[[:en:key-terms:god|God's]]** **[[:en:key-terms:glory|glory]]** if you **[[:en:key-terms:believe|believe]]**?” So they rolled the stone away.
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation
