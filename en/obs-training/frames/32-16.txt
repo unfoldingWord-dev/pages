@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-32-16.jpg?nolink&640x360}}
 
-The woman fell on her knees before Jesus, shaking and very afraid. Then she told the whole truth. Jesus said to her, “Your faith has healed you. Go in peace.”
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+The woman fell on her knees before **[[:en:key-terms:jesus|Jesus]]**, shaking and very afraid. Then she told the whole **[[:en:key-terms:true|truth]]**. Jesus said to her, “Your **[[:en:key-terms:faith|faith]]** has **[[:en:key-terms:heal|healed]]** you. Go in **[[:en:key-terms:peace|peace]]**.”
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation

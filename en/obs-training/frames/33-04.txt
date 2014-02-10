@@ -4,11 +4,8 @@
 
 “Still other seeds fell among thorny bushes. Those seeds were choked by the thorns and did not produce any grain.”
 
-[text] with inline links - **[[:en:key-terms:page|sample]]**
-
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation

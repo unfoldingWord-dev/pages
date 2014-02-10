@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-33-01.jpg?nolink&640x360}}
 
-One day, Jesus was down by the sea, teaching great crowds of people. The crowd got so big that Jesus got into a boat and began speaking from there.
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+One day, **[[:en:key-terms:jesus|Jesus]]** was down by the **[[:en:key-terms:galilee-sea|sea]]**, teaching great crowds of people. The crowd got so big that Jesus got into a boat and began speaking from there.
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation
