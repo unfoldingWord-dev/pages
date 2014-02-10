@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-28-08.jpg?nolink&640x360}}
 
-Jesus looked at them and said, “With people this is impossible, but with God, all things are possible.”
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+**[[:en:key-terms:jesus|Jesus]]** looked at them and said, “With people this is impossible, but with **[[:en:key-terms:god|God]]**, all things are possible.”
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation

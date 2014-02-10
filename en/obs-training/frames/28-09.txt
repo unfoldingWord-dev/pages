@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-28-09.jpg?nolink&640x360}}
 
-Peter said to Jesus, “We have left everything and followed you. What will be our reward?”
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+**[[:en:key-terms:peter|Peter]]** said to **[[:en:key-terms:jesus|Jesus]]**, “We have left everything and followed you. What will be our reward?”
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation
