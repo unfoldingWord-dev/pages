@@ -3,7 +3,7 @@
 
 ===== Facts: =====
 
-Esau was one of Isaac and Rebekah's twin sons. He was the first baby born. His twin brother was Jacob.
+Esau was one of the twin sons of Isaac and Rebekah. He was the first baby born. His twin brother was Jacob.
 
     * Esau sold his birthright to his brother Jacob in exchange for a bowl of food.
     * Since Esau was born first, his father was supposed to give him a special blessing. But Jacob stole Esau's blessing. At first Esau was so angry that he wanted to kill Jacob, but later he forgave him.
@@ -22,4 +22,4 @@ Esau was one of Isaac and Rebekah's twin sons. He was the first baby born. His t
   ***[[:en:obs-training:frames:07-10|[07-10]]]** But **Esau ** had already forgiven Jacob, and they were happily reunited.
 
 
-~~DISCUSSION~~
+~~DISCUSSION:closed~~

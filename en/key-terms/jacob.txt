@@ -3,18 +3,18 @@
 
 ===== Facts: =====
 
-Jacob was the second one born of Isaac and Rebekah's twin sons. The first twin born was Esau.
+Jacob was the second of the twin sons that were born to Isaac and Rebekah. The first twin born was Esau.
 
-    * Jacob was clever and deceptive. He found ways to take both his older brother's inheritance rights as the firstborn and also his blessing.
+    * Jacob's name means “deceiver” or “trickster.” 
+    * Jacob was clever and deceptive. He found ways to take both the firstborn inheritance rights and the blessing from his older brother, Esau.
     * Esau was angry and planned to kill him, so Jacob left his homeland. But he later returned and lived peacefully with his brother.
-    * God kept his covenant to Abraham and his descendants through Abraham's son Isaac and Isaac's son Jacob.
+    * God kept his covenant to Abraham and his descendants through Abraham's son, Isaac, and Isaac's son, Jacob.
     * Jacob had twelve sons. Their descendants became the twelve tribes of Israel.
 
 [See also: **[[:en:key-terms:isaac|Isaac]]**, **[[:en:key-terms:rebekah|Rebekah]]**, **[[:en:key-terms:esau|Esau]]**]
 
 
 ===== Examples from the Bible stories: =====
-
 
   ***[[:en:obs-training:frames:07-01|[07-01]]]** As the boys grew up, Rebekah loved **Jacob**, but Isaac loved Esau. **Jacob** loved to stay at home, but Esau loved to hunt.
   ***[[:en:obs-training:frames:07-07|[07-07]]]**  **Jacob** lived there for many years, and during that time he married and had twelve sons and a daughter.
@@ -23,4 +23,4 @@ Jacob was the second one born of Isaac and Rebekah's twin sons. The first twin b
   ***[[:en:obs-training:frames:08-01|[08-01]]]** Many years later, when **Jacob** was an old man, he sent his favorite son, Joseph, to check on his brothers who were taking care of the herds.
 
 
-~~DISCUSSION~~
+~~DISCUSSION:closed~~
