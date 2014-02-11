@@ -11,9 +11,8 @@ A covenant is a formal, binding agreement between two parties that they must ful
     * When people make a covenant with each other, they say that they will do something, and they must do it.
     * Examples of covenants include marriage covenants, business agreements, and treaties between countries.
     * On several occasions, God made a covenant with his people. 
-    * On some of these occasions, only God made promises to the people of what he would do. 
-    * On other occasions, God made promises and also required that the people make promises to him.
-
+    * In some of the covenants, God promised to fulfill his part without conditions. 
+    * In other covenants, God promised to fulfill his part if the people obeyed him and fulfilled their part of the covenant.
 
 [See also: **[[:en:key-terms:promise|promise]]**, **[[:en:key-terms:covenant-new|New Covenant]]**]
 
@@ -29,4 +28,4 @@ A covenant is a formal, binding agreement between two parties that they must ful
   ***[[:en:obs-training:frames:15-13|[15-13]]]** Then Joshua renewed the **covenant** that God had made with the Israelites at Sinai.
 
 
-~~DISCUSSION~~
+~~DISCUSSION:closed~~
