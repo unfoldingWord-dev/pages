@@ -3,9 +3,9 @@
 
 ===== Facts: =====
 
+Ishmael was the son of Abraham and Sarah's servant, Hagar. 
 
-    * Ishmael was the son of Abraham and Hagar (Sarah's servant). 
-    * Ishmael was not the son through whom God would fulfill His promise to Abraham.
+    * Ishmael was not the son through whom God would fulfill his promise to Abraham.
     * Ishmael means, "God hears."
 
 [See also: **[[:en:key-terms:Abraham|Abraham]], [[:en:key-terms:Sarah|Sarah]]**]
@@ -18,4 +18,4 @@
   ***[[:en:obs-training:frames:05-04|[05-04]]]** "I will make **Ishmael** a great nation, too, but my covenant will be with Isaac."
 
 
-~~DISCUSSION~~
+~~DISCUSSION:closed~~
