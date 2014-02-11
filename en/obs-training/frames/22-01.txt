@@ -2,15 +2,14 @@
 
 {{:en:obs:obs-22-01.jpg?nolink&640x360}}
 
-More than **400 years had passed since [[:en:key-terms:god|God]] had spoken** to **his people**. Then an **[[:en:key-terms:angel|angel]]** appeared to an old **[[:en:key-terms:priest|priest]]** named **[[:en:key-terms:zechariah-nt|Zechariah]]**. He and his wife, **[[:en:key-terms:elizabeth|Elizabeth]]**, were godly people, but she was never able to have any children.
+More than **400 years had passed since [[:en:key-terms:god|God]] had spoken** to **his people**. Then an **[[:en:key-terms:angel|angel]]** appeared to an old **[[:en:key-terms:priest|priest]]** named **[[:en:key-terms:zechariah-nt|Zechariah]]**. He and his wife, **[[:en:key-terms:elizabeth|Elizabeth]]**, were **godly people**, but she was never able to have any children.
 
 
 ===== Translation Notes: =====
 
-  * **400 years had passed since God had spoken** - explanation
-  * **his people** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
+  * **400 years had passed since God had spoken** - That is, 400 years had passed since the last Old Testament prophet, Malachi.
+  * **his people** - That is, the Jewish people, or the Israelites that God had chosen for his own possession.
+  * **godly people** - This means that they faithfully worshipped and obeyed God.
   
 
 **[[:en:obs-training:frames:21-15|<<]] | [[:en:obs-training:22-the-birth-of-john|Up]] | [[:en:obs-training:frames:22-02|>>]]**
