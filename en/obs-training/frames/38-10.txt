@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-38-10.jpg?nolink&640x360}}
 
-Peter then said to Jesus, “Even if I must die, I will never disown you!” All the other disciples said the same thing.
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+**[[:en:key-terms:peter|Peter]]** then said to **[[:en:key-terms:jesus|Jesus]]**, “Even if I must **[[:en:key-terms:death|die]]**, I will never disown you!” All the other **[[:en:key-terms:disciple|disciples]]** said the same thing.
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation
