@@ -2,15 +2,12 @@
 
 {{:en:obs:obs-38-11.jpg?nolink&640x360}}
 
-Then Jesus went with his disciples to a place called Gethsemane. Jesus told his disciples to pray that they would not fall into temptation. Then Jesus went to pray by himself.
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+Then **[[:en:key-terms:jesus|Jesus]]** went with his **[[:en:key-terms:disciple|disciples]]** to a place called **Gethsemane**. Jesus told his disciples to **[[:en:key-terms:pray|pray]]** that they would not fall into **[[:en:key-terms:tempt|temptation]]**. Then Jesus went to pray by himself.
 
 
 ===== Translation Notes: =====
 
-
-  * **issue** - explanation
+  * **Gethsemane** - explanation
   * **issue** - explanation
   * **issue** - explanation
   * **issue** - explanation

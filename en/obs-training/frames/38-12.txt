@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-38-12.jpg?nolink&640x360}}
 
-Jesus prayed three times, “My Father, if it is possible, please let me escape this suffering. But if there is no other way for people’s sins to be forgiven, then let your will be done.” Jesus was very troubled and his sweat was like drops of blood. God sent an angel to strengthen him.
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+**[[:en:key-terms:jesus|Jesus]]** **[[:en:key-terms:pray|prayed]]** three times, “**[[:en:key-terms:god-father|My Father]]**, if it is possible, please let me escape this **[[:en:key-terms:suffer|suffering]]**. But if there is no other way for people’s **[[:en:key-terms:sin|sins]]** to be **[[:en:key-terms:forgive|forgiven]]**, then let your will be done.” Jesus was very troubled and his sweat was like drops of **[[:en:key-terms:blood|blood]]**. **[[:en:key-terms:god|God]]** sent an **[[:en:key-terms:angel|angel]]** to strengthen him.
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation
