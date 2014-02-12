@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-38-03.jpg?nolink&640x360}}
 
-The Jewish leaders, led by the high priest, paid Judas thirty pieces of silver to betray Jesus. This happened just as the prophets had predicted. Judas agreed, took the money, and went away, looking for a chance to help them arrest Jesus.
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+The **[[:en:key-terms:jew|Jewish]]** leaders, led by the **[[:en:key-terms:priest-high|high priest]]**, paid **[[:en:key-terms:judas|Judas]]** thirty pieces of silver to **[[:en:key-terms:betray|betray]]** **[[:en:key-terms:jesus|Jesus]]**. This happened just as the **[[:en:key-terms:prophet|prophets]]** had predicted. Judas agreed, took the money, and went away, looking for a chance to help them arrest Jesus.
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation
