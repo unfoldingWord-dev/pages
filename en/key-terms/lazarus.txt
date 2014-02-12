@@ -10,7 +10,6 @@
   * The brother of Mary and Martha
   *  
 
-
 [See also: **[[:en:key-terms:mary-sister|Mary]]**, **[[:en:key-terms:martha-sister|Martha]]**]
 
 
@@ -18,7 +17,7 @@
 
   ***[[:en:obs-training:frames:37-01|[37-01]]]** One day, Jesus received a message that **Lazarus** was very sick. **Lazarus** and his two sisters, Mary and Martha, were good friends of Jesus.
   ***[[:en:obs-training:frames:37-02|[37-02]]]** Jesus said, “Our friend **Lazarus** has fallen asleep, and I must wake him.”
-  ***[[:en:obs-training:frames:37-03|[37-03]]]** Jesus' disciples replied, “Master, if **Lazarus** is sleeping, he will get better on his own.” Then Jesus told them plainly, “**Lazarus** is dead. I am glad we were not there when he died, for now you will see amazing things so that you may believe.”
+  ***[[:en:obs-training:frames:37-03|[37-03]]]** Jesus' disciples replied, “Master, if **Lazarus** is sleeping, he will get better on his own.” Then Jesus told them plainly, “**Lazarus** is dead.”
   ***[[:en:obs-training:frames:37-04|[37-04]]]** When Jesus got there, **Lazarus** had already been dead for four days.
   ***[[:en:obs-training:frames:37-06|[37-06]]]** “Where have you put **Lazarus**?” he (Jesus) asked them.
   ***[[:en:obs-training:frames:37-09|[37-09]]]** Then Jesus shouted, “**Lazarus**, come out!”
