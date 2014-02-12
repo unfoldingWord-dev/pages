@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-39-08.jpg?nolink&640x360}}
 
-Peter went away and cried bitterly. Meanwhile, when Judas, the betrayer, saw that Jesus had been condemned, he became full of sorrow and went away and killed himself.
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+**[[:en:key-terms:peter|Peter]]** went away and cried bitterly. Meanwhile, when **[[:en:key-terms:judas|Judas]]**, the **[[:en:key-terms:betray|betrayer]]**, saw that **[[:en:key-terms:jesus|Jesus]]** had been condemned, he became full of sorrow and went away and killed himself.
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation
