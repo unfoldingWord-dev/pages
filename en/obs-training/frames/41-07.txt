@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-41-07.jpg?nolink&640x360}}
 
-The women were full of fear and great joy. They ran to tell the disciples the good news.
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+The women were full of fear and great **[[:en:key-terms:joy|joy]]**. They ran to tell the **[[:en:key-terms:disciple|disciples]]** the **[[:en:key-terms:good-news|good news]]**.
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation

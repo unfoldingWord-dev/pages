@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-41-06.jpg?nolink&640x360}}
 
-Then the angel told the women, “Tell the disciples that Jesus has risen from the dead and is going before you into Galilee.”
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+Then the **[[:en:key-terms:angel|angel]]** told the women, “Tell the **[[:en:key-terms:disciple|disciples]]** that **[[:en:key-terms:jesus|Jesus]]** has **[[:en:key-terms:raise|risen]]** from the **[[:en:key-terms:death|dead]]** and is going before you into **[[:en:key-terms:galilee|Galilee]]**.”
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation
