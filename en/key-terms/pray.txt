@@ -6,18 +6,20 @@
 
 ===== Definitions: =====
 
-  * To pray is to speak to God or to a false god.
-  * Often pray means to ask God for something.
-
-
+  * To pray is to talk to God.
+  * People often pray to God to ask him to help them or other people. 
+  * They also thank and praise him in their prayers.
+  * Praying can also mean confessing our sins to God and asking him to forgive us.
+  * When people try to talk to their false god, this is also called “praying.”
 ===== Examples from the Bible stories: =====
 
 
   ***[[:en:obs-training:frames:06-05|[06-05]]]**  Isaac **prayed** for Rebekah, and God allowed her to get pregnant with twins.
-  ***[[:en:obs-training:frames:13-12|[13-12]]]**  But Moses **prayed** for them, and God listened to his prayer and did not destroy them.
+  ***[[:en:obs-training:frames:13-12|[13-12]]]**  But Moses **prayed** for them, and God listened to his **prayer** and did not destroy them.
   ***[[:en:obs-training:frames:19-08|[19-08]]]**  Then the prophets of Baal **prayed** to Baal, “Hear us, O Baal!”
   ***[[:en:obs-training:frames:21-07|[21-07]]]**  Priests also **pray** to God for the people.
-  ***[[:en:obs-training:frames:38-11|[38-11]]]**  Jesus told his disciples to pray that they would not fall into temptation.
+  ***[[:en:obs-training:frames:38-11|[38-11]]]**  Jesus told his disciples to **pray** that they would not fall into temptation.
+  ***[[:en:obs-training:frames:43-13|[43-13]]]** The believers devoted themselves to the disciples' teaching, fellowship, eating together, and **prayer**.
   ***[[:en:obs-training:frames:49-18|[49-18]]]**  God tells you to **pray**, study his Word, worship him with other Christians, and tell others what he has done for you.
 
 
