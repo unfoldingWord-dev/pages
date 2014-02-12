@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-40-02.jpg?nolink&640x360}}
 
-The soldiers brought Jesus to a place called “The Skull” and nailed his arms and feet to the cross. But Jesus said, “Father, forgive them, because they do not know what they are doing.” Pilate commanded that a sign be put above Jesus’ head that read, “King of the Jews.”
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+The soldiers brought **[[:en:key-terms:jesus|Jesus]]** to a place called “The Skull” and nailed his arms and feet to the **[[:en:key-terms:cross|cross]]**. But Jesus said, “**[[:en:key-terms:god-father|Father]]**, **[[:en:key-terms:forgive|forgive]]** them, because they do not know what they are doing.” **[[:en:key-terms:pilate|Pilate]]** commanded that a sign be put above Jesus’ head that read, “**[[:en:key-terms:king-of-jews|King of the Jews]]**.”
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation
