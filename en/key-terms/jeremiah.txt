@@ -12,10 +12,8 @@
 ===== Examples from the Bible stories: =====
 
 
-  ***[[:en:obs-training:frames:xx-xx|[xx-xx]]]**  Text 
-  ***[[:en:obs-training:frames:xx-xx|[xx-xx]]]**  Text 
-  ***[[:en:obs-training:frames:xx-xx|[xx-xx]]]**  Text 
-
+  ***[[:en:obs-training:frames:19-17|[19-17]]]** Once, the prophet **Jeremiah** was put into a dry well and left there to die. He sank down into the mud that was in the bottom of the well, but then the king had mercy on him and pulled him out before he died.
+  ***[[:en:obs-training:frames:21-05|[21-05]]]** Through the prophet **Jeremiah**, God promised that he would make a New Covenant, but not like God’s Covenant with Israel.
 
 
 ~~DISCUSSION~~
