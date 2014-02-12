@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-40-05.jpg?nolink&640x360}}
 
-The crowd and the Jewish leaders mocked Jesus, saying, “If you are the Son of God, come down from the cross and save yourself! Then we will believe you.”
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+The crowd and the **[[:en:key-terms:jewish-leaders|Jewish leaders]]** **[[:en:key-terms:mock|mocked]]** **[[:en:key-terms:jesus|Jesus]]**, saying, “If you are the **[[:en:key-terms:god-son|Son of God]]**, come down from the **[[:en:key-terms:cross|cross]]** and **[[:en:key-terms:save|save]]** yourself! Then we will **[[:en:key-terms:believe|believe]]** you.”
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation
