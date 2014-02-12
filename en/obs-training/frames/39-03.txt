@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-39-03.jpg?nolink&640x360}}
 
-Finally, the high priest looked directly at Jesus and said, “Tell us, are you the Messiah, the Son of the living God?”
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+Finally, the **[[:en:key-terms:priest-high|high priest]]** looked directly at **[[:en:key-terms:jesus|Jesus]]** and said, “Tell us, are you the **[[:en:key-terms:messiah|Messiah]]**, the **[[:en:key-terms:god-son|Son of the living God]]**?”
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation
