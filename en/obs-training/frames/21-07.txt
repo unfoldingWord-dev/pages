@@ -2,7 +2,7 @@
 
 {{:en:obs:obs-21-07.jpg?nolink&640x360}}
 
-A **[[:en:key-terms:priest|priest]]** is someone who makes **[[:en:key-terms:sacrifice|sacrifices]]** to **[[:en:key-terms:god|God]] on behalf of** the people to **take away their [[:en:key-terms:sin|sins]]**. Priests also **[[:en:key-terms:pray|pray]]** to God for the people. The **coming [[:en:key-terms:messiah|Messiah]]** would be the perfect **high priest** who would offer himself as a **perfect sacrifice** to God.
+A **[[:en:key-terms:priest|priest]]** is someone who makes **[[:en:key-terms:sacrifice|sacrifices]]** to **[[:en:key-terms:god|God]] on behalf of** the people to **take away their [[:en:key-terms:sin|sins]]**. Priests also **[[:en:key-terms:pray|pray]]** to God for the people. The **coming [[:en:key-terms:messiah|Messiah]]** would be the perfect **[[:en:key-terms:priest-high|high priest]]**  who would offer himself as a **perfect sacrifice** to God.
 
 
 ===== Translation Notes: =====
@@ -11,7 +11,6 @@ A **[[:en:key-terms:priest|priest]]** is someone who makes **[[:en:key-terms:sac
   * **on behalf of** - This may be translated as "for the benefit of..." or "in the place of..."
   * **take away their sins** - [need to discuss: OT sacrifices covered sins; Christ's sacrifice took them away.]
   * **coming Messiah** - That is, the Messiah who will come.
-  * **high priest** - There was only one "high priest," who was the primary priest and the only one allowed to enter into the most holy part of the Temple to offer the annual sacrifice.
   * **perfect sacrifice** - That is, a sacrifice without any imperfection or lack.
   
 
