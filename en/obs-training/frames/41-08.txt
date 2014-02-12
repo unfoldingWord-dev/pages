@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-41-08.jpg?nolink&640x360}}
 
-On the way, Jesus appeared to them, and they worshiped him. Jesus said, “Do not be afraid. Go and tell my disciples that I will see them in Galilee.”
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+On the way, **[[:en:key-terms:jesus|Jesus]]** appeared to them, and they **[[:en:key-terms:worship|worshiped]]** him. Jesus said, “Do not be afraid. Go and tell my **[[:en:key-terms:disciple|disciples]]** that I will see them in **[[:en:key-terms:galilee|Galilee]]**.”
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation
