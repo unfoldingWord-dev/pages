@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-41-03.jpg?nolink&640x360}}
 
-The day after Jesus was buried was a Sabbath, a day of rest. Very early on the morning after the Sabbath, several women went to Jesus’ tomb to put more burial spices on his body.
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+The day after **[[:en:key-terms:jesus|Jesus]]** was buried was a **[[:en:key-terms:sabbath|Sabbath]]**, a day of rest. Very early on the morning after the Sabbath, several women went to Jesus’ **[[:en:key-terms:tomb|tomb]]** to put more burial spices on his body.
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation

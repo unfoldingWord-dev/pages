@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-40-09.jpg?nolink&640x360}}
 
-Then Joseph and Nicodemus, two Jewish leaders who believed Jesus was the Messiah, asked Pilate for Jesus’ body. They wrapped his body in cloth and buried it in a tomb cut out of rock. Then they rolled a large stone over the opening.
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+Then Joseph and Nicodemus, two **[[:en:key-terms:jewish-leaders|Jewish leaders]]** who **[[:en:key-terms:believe|believed]]** **[[:en:key-terms:jesus|Jesus]]** was the **[[:en:key-terms:messiah|Messiah]]**, asked **[[:en:key-terms:pilate|Pilate]]** for Jesus’ body. They wrapped his body in cloth and buried it in a **[[:en:key-terms:tomb|tomb]]** cut out of rock. Then they rolled a large stone over the opening.
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation
