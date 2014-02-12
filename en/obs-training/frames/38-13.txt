@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-38-13.jpg?nolink&640x360}}
 
-After each time of prayer, Jesus came back to his disciples, but they were asleep. After the third time, Jesus said, “Wake up! My betrayer is here.”
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+After each time of **[[:en:key-terms:pray|prayer]]**, **[[:en:key-terms:jesus|Jesus]]** came back to his **[[:en:key-terms:disciple|disciples]]**, but they were asleep. After the third time, Jesus said, “Wake up! My **[[:en:key-terms:betray|betrayer]]** is here.”
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation

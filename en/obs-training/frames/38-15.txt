@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-38-15.jpg?nolink&640x360}}
 
-As the soldiers arrested Jesus, Peter pulled out his sword and cut off the ear of the high priest’s servant. Jesus said, “Put the sword away! I could ask the Father for an army of angels to defend me. But I must obey my Father.” Then Jesus healed the man’s ear, and all the disciples ran away.
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+As the soldiers arrested **[[:en:key-terms:jesus|Jesus]]**, **[[:en:key-terms:peter|Peter]]** pulled out his sword and cut off the ear of the **[[:en:key-terms:priest-high|high priest's]]**  **[[:en:key-terms:servant|servant]]**. Jesus said, “Put the sword away! I could ask the **[[:en:key-terms:god-father|Father]]** for an army of **[[:en:key-terms:angel|angels]]** to defend me. But I must **[[:en:key-terms:obey|obey]]** my Father.” Then Jesus **[[:en:key-terms:heal|healed]]** the man’s ear, and all the **[[:en:key-terms:disciple|disciples]]** ran away.
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation
