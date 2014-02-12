@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-38-07.jpg?nolink&640x360}}
 
-After Judas took the bread, Satan entered into him. Judas left to help the Jewish leaders arrest Jesus. It was night.
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+After **[[:en:key-terms:judas|Judas]]** took the bread, **[[:en:key-terms:satan|Satan]]** entered into him. Judas left to help the **[[:en:key-terms:jew|Jewish]]** leaders arrest Jesus. It was night.
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation

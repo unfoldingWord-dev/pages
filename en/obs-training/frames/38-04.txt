@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-38-04.jpg?nolink&640x360}}
 
-Jesus celebrated the Passover Feast with his disciples. During the meal Jesus took bread and broke it, saying, “Take and eat this. It is my body, which is broken for you. Do this to remember me.” In this way, Jesus said that his body would be sacrificed for them.
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+**[[:en:key-terms:jesus|Jesus]]** celebrated the **[[:en:key-terms:passover|Passover Feast]]** with his **[[:en:key-terms:disciple|disciples]]**. During the meal Jesus took bread and broke it, saying, “Take and eat this. It is my body, which is broken for you. Do this to remember me.” In this way, Jesus said that his body would be **[[:en:key-terms:sacrifice|sacrificed]]** for them.
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation

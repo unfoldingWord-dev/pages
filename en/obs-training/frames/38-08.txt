@@ -2,15 +2,12 @@
 
 {{:en:obs:obs-38-08.jpg?nolink&640x360}}
 
-After the meal, Jesus and his disciples walked to the Mount of Olives. Jesus said, “All of you will all abandon me tonight. It is written, ‘I will strike the shepherd and all the sheep will be scattered.’”
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+After the meal, **[[:en:key-terms:jesus|Jesus]]** and his **[[:en:key-terms:disciple|disciples]]** walked to the **Mount of Olives**. Jesus said, “All of you will all abandon me tonight. It is written, ‘I will strike the **[[:en:key-terms:shepherd|shepherd]]** and all the **[[:en:key-terms:sheep|sheep]]** will be scattered.’”
 
 
 ===== Translation Notes: =====
 
-
-  * **issue** - explanation
+  * **Mount of Olives** - explanation
   * **issue** - explanation
   * **issue** - explanation
   * **issue** - explanation
