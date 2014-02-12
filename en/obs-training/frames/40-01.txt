@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-40-01.jpg?nolink&640x360}}
 
-After mocking Jesus, the soldiers led him away to be crucified. They made him carry his own cross.
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+After **[[:en:key-terms:mock|mocking]]** **[[:en:key-terms:jesus|Jesus]]**, the soldiers led him away to be **[[:en:key-terms:crucify|crucified]]**. They made him carry his own **[[:en:key-terms:cross|cross]]**.
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation
