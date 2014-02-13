@@ -2,7 +2,7 @@
 
 [image]{{:en:obs:obs-16-12.jpg?nolink&640x360}}
 
-Then **[[:en:key-terms:gideon|Gideon]]** returned to **his soldiers** and gave each of them a **horn**, **a clay pot**, and **a torch**. They surrounded the place where the **[[:en:key-terms:midian|Midianites]]** were sleeping. The 300 men had the torches in the pots so the Midianites could not see them.
+Then **[[:en:key-terms:gideon|Gideon]]** returned to **his soldiers** and gave each of them a **horn**, a clay pot, and **a torch**. They surrounded **the place where the [[:en:key-terms:midian|Midianites]] were sleeping**. The 300 men had the torches in the pots **so the Midianites could not see them**.
 
 
 ===== Translation Notes: =====
@@ -10,9 +10,9 @@ Then **[[:en:key-terms:gideon|Gideon]]** returned to **his soldiers** and gave e
 
   * **his soldiers** - Make sure it is clear that these “soldiers” are the same men as the “300 men” mentioned later in this frame. 
   * **horn** - This could be translated as, “trumpet” or “ram's horn trumpet.” These horns came from a male sheep and were often used to call men for battle. 
-  * **a clay pot** - explanation required?
-  * **a torch** - explanation required?
-  * **The 300 men** - The 300 soldiers that remained with Gideon after he sent home the other men who were afraid.
+  * **a torch** - This was probably a piece of wood wrapped with cloth and soaked in oil so that it could burn well. (This was not the modern torch that runs on batteries.) 
+  * **the place where the Midianites were sleeping** - It may be more clear to say, “the camp where the Midianite soldiers were sleeping.” 
+  * **so the Midianites could not see them** - That is, “so the Midianites could not see the light of the torches.” 
   
 
 **[[:en:obs-training:frames:16-11|<<]] | [[:en:obs-training:16-the-deliverers|Up]] | [[:en:obs-training:frames:16-13|>>]]**
