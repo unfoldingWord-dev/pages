@@ -2,7 +2,7 @@
 
 {{:en:obs:obs-16-11.jpg?nolink&640x360}}
 
-That night **[[:en:key-terms:god|God]]** told **[[:en:key-terms:gideon|Gideon]]**, “**Go down** to the **[[:en:key-terms:midian|Midianite]]** camp and when you hear what they say, you will **no longer be afraid**.” So that night, Gideon went down to the camp and heard a Midianite soldier telling his friend **about a dream**. The man’s friend said, “This dream means that **Gideon will defeat [[:en:key-terms:midian|Midian]]**!” Gideon **[[:en:key-terms:worship|worshiped]]** God.
+That night **[[:en:key-terms:god|God]]** told **[[:en:key-terms:gideon|Gideon]]**, “**Go down** to the **[[:en:key-terms:midian|Midianite]]** camp and when you hear what they say, you will **no longer be afraid**.” So that night, Gideon went down to the camp and heard a Midianite soldier telling his friend **about a [[:en:key-terms:dream|dream]]**. The man’s friend said, “This dream means that **Gideon will defeat [[:en:key-terms:midian|Midian]]**!” **Gideon [[:en:key-terms:worship|worshiped]] God**.
 
 
 ===== Translation Notes: =====
@@ -18,4 +18,4 @@ That night **[[:en:key-terms:god|God]]** told **[[:en:key-terms:gideon|Gideon]]*
 **[[:en:obs-training:frames:16-10|<<]] | [[:en:obs-training:16-the-deliverers|Up]] | [[:en:obs-training:frames:16-12|>>]]**
 
 
-~~DISCUSSION~~
+~~DISCUSSION:closed~~
