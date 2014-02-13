@@ -8,11 +8,9 @@
 ===== Translation Notes: =====
 
 
-  * **the wilderness** - This was a remote location with with very few people. This may also be translated as "desert" or "the bush."
-  * **issue** - explanation
-  
-
-**[[:en:obs-training:frames:19-02|<<]] | [[:en:obs-training:19-the-prophets|Up]] | [[:en:obs-training:frames:19-04|>>]]**
+    * **the wilderness**  - This was a remote location with very few people. This may also be translated as "desert" or "the bush."
+    * **issue**  - explanation
+**[[:en:obs-training:frames:19-02|<<]] | [[:en:obs-training:19-the-prophets|Up]] | [[:en:obs-training:frames:19-04|>>]]** 
 
 
 ~~DISCUSSION~~
