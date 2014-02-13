@@ -1,4 +1,4 @@
-====== Gideon Defeated the Midianites [16-14] ======
+====== God Defeated the Midianites [16-14] ======
 
 {{:en:obs:obs-16-14.jpg?nolink&640x360}}
 
@@ -17,4 +17,4 @@
 **[[:en:obs-training:frames:16-13|<<]] | [[:en:obs-training:16-the-deliverers|Up]] | [[:en:obs-training:frames:16-15|>>]]**
 
 
-~~DISCUSSION~~
+~~DISCUSSION:closed~~
