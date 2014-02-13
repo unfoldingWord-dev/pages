@@ -18,4 +18,4 @@ Then the walls around **[[:en:key-terms:jericho|Jericho]]** fell down! The **[[:
 **[[:en:obs:notes:frames:15-04|<<]] | [[:en:obs:notes:15|Up]] | [[:en:obs:notes:frames:15-06|>>]]**
 
 
-~~DISCUSSION:closed~~
+~~DISCUSSION:off~~
