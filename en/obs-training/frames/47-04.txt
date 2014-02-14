@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-47-04.jpg?nolink&640x360}}
 
-The slave girl kept yelling, “These men are servants of the Most High God. They are telling you the way to be saved!” She did this so often that Paul became annoyed.
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+The **[[:en:key-terms:servant| slave girl]]** kept yelling, “These men are **[[:en:key-terms:servant|servants]]** of the **[[:en:key-terms:god|Most High God]]**. They are telling you the way to be **[[:en:key-terms:save|saved]]**!” She did this so often that **[[:en:key-terms:paul|Paul]]** became annoyed.
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation

@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-47-02.jpg?nolink&640x360}}
 
-God opened Lydia's heart to understand the message of Jesus, and she and her family were baptized. She invited Paul and Silas to stay at her house, so they did.
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+**[[:en:key-terms:god|God]]** opened **[[:en:key-terms:lydia|Lydia's]]** heart to understand the message of **[[:en:key-terms:jesus|Jesus]]**, and she and her family were **[[:en:key-terms:baptize|baptized]]**. She invited **[[:en:key-terms:paul|Paul]]** and **[[:en:key-terms:silas|Silas]]** to stay at her house, so they did.
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation
