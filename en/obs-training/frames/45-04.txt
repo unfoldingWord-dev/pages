@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-45-04.jpg?nolink&640x360}}
 
-When the people heard this, they covered their ears and yelled loudly. They threw Stephen out of the city and stoned him to death.
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+When the people heard this, they covered their ears and yelled loudly. They threw **[[:en:key-terms:stephen|Stephen]]** out of the city and stoned him to death.
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation

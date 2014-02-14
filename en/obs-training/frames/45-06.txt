@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-45-06.jpg?nolink&640x360}}
 
-A man named Saul approved of Stephen’s execution and guarded the belongings of those who stoned Stephen. That day many people started persecuting the Christians, and they were scattered through that region. But everywhere they went they preached about Jesus.
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+A man named **[[:en:key-terms:paul|Saul]]** approved of **[[:en:key-terms:stephen|Stephen's]]** execution and guarded the belongings of those who stoned Stephen. That day many people started **[[:en:key-terms:persecute|persecuting]]** the **[[:en:key-terms:christian|Christians]]**, and they were scattered through that region. But everywhere they went they **[[:en:key-terms:preach|preached]]** about **[[:en:key-terms:jesus|Jesus]]**.
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation
