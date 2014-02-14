@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-46-10.jpg?nolink&640x360}}
 
-So the church prayed for Paul and Barnabas, laid their hands on them and sent them off to preach the Good News of Jesus. They preached about Jesus in many places and many people believed in Jesus.
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+So the **[[:en:key-terms:church|church]]** prayed for **[[:en:key-terms:paul|Paul]]** and **[[:en:key-terms:barnabas|Barnabas]]**, laid their hands on them and sent them off to **[[:en:key-terms:preach|preach]]** the **[[:en:key-terms:good-news|Good News]]** of **[[:en:key-terms:jesus|Jesus]]**. They preached about Jesus in many places and many people **[[:en:key-terms:believe|believed]]** in Jesus.
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation
