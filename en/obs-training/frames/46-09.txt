@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-46-09.jpg?nolink&640x360}}
 
-Later, Paul and Barnabas went to the city of Antioch where they taught many people about Jesus and strengthened the church. One day, the Christians at Antioch were fasting and praying and the Holy Spirit said, “Set apart for me Paul and Barnabas to do the work I have called them to do.”
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+Later, **[[:en:key-terms:paul|Paul]]** and **[[:en:key-terms:barnabas|Barnabas]]** went to the **city of Antioch** where they taught many people about **[[:en:key-terms:jesus|Jesus]]** and strengthened the **[[:en:key-terms:church|church]]**. One day, the **[[:en:key-terms:christian|Christians]]** at Antioch were **[[:en:key-terms:fast|fasting]]** and **[[:en:key-terms:pray|praying]]** and the **[[:en:key-terms:holy-spirit|Holy Spirit]]** said, “Set apart for me Paul and Barnabas to do the work I have called them to do.”
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation

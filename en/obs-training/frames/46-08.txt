@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-46-08.jpg?nolink&640x360}}
 
-Paul went to Jerusalem to meet with the disciples, but at first the Christians were afraid of Paul. Finally, a Christian named Barnabas took Paul to the disciples and told them how Paul had preached boldly in Damascus. Then they accepted Paul.
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+**[[:en:key-terms:paul|Paul]]** went to **[[:en:key-terms:jerusalem|Jerusalem]]** to meet with the **[[:en:key-terms:disciple|disciples]]**, but at first the **[[:en:key-terms:christian|Christians]]** were afraid of Paul. Finally, a Christian named **[[:en:key-terms:barnabas|Barnabas]]** took Paul to the disciples and told them how Paul had **[[:en:key-terms:preach|preached]]** boldly in **[[:en:key-terms:damascus|Damascus]]**. Then they accepted Paul.
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation
