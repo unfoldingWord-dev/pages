@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-42-03.jpg?nolink&640x360}}
 
-Then Jesus explained to them what God’s Word says about the Messiah. He reminded them that the prophets said the Messiah would suffer and be killed, but would rise again on the third day. When they arrived at the town where they were going, it was almost night.
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+Then **[[:en:key-terms:jesus|Jesus]]** explained to them what **[[:en:key-terms:word-of-god|God’s Word]]** says about the **[[:en:key-terms:messiah|Messiah]]**. He reminded them that the **[[:en:key-terms:prophet|prophets]]** said the Messiah would **[[:en:key-terms:suffer|suffer]]** and be killed, but would **[[:en:key-terms:raise|rise]]** again on the third day. When they arrived at the town where they were going, it was almost night.
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation

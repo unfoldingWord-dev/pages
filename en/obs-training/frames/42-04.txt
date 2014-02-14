@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-42-04.jpg?nolink&640x360}}
 
-The two men invited Jesus to stay with them, so he did. Before they ate, Jesus picked up a loaf of bread, thanked God for it, and then broke it. Suddenly, they recognized that he was Jesus. At that moment, he disappeared.
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+The two men invited **[[:en:key-terms:jesus|Jesus]]** to stay with them, so he did. Before they ate, Jesus picked up a loaf of bread, thanked **[[:en:key-terms:god|God]]** for it, and then broke it. Suddenly, they recognized that he was Jesus. At that moment, he disappeared.
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation

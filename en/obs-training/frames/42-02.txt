@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-42-02.jpg?nolink&640x360}}
 
-Jesus came up and started walking with them, but they did not recognize him. He asked what they were talking about, and they told him about all the terrible things that had happened during the last few days. They thought he was a stranger who had not heard about it.
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+**[[:en:key-terms:jesus|Jesus]]** came up and started walking with them, but they did not recognize him. He asked what they were talking about, and they told him about all the terrible things that had happened during the last few days. They thought he was a stranger who had not heard about it.
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation

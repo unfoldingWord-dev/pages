@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-42-07.jpg?nolink&640x360}}
 
-“I told you that everything written about me in God’s Word must be fulfilled,” Jesus said. Then he opened their minds so they could understand God’s Word. He said, “It was written long ago that the Messiah would suffer, die, and rise from the dead on the third day.”
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+“I told you that everything written about me in **[[:en:key-terms:word-of-god|God’s Word]]** must be fulfilled,” **[[:en:key-terms:jesus|Jesus]]** said. Then he opened their minds so they could understand God’s Word. He said, “It was written long ago that the **[[:en:key-terms:messiah|Messiah]]** would **[[:en:key-terms:suffer|suffer]]**, **[[:en:key-terms:death|die]]**, and **[[:en:key-terms:raise|rise]]** from the dead on the third day.”
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation
