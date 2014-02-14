@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-42-08.jpg?nolink&640x360}}
 
-“It was also written that repentance for forgiveness of sins would be proclaimed to all people groups, starting in Jerusalem. You are witnesses of these things.”
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+“It was also written that **[[:en:key-terms:repent|repentance]]** for **[[:en:key-terms:forgive|forgiveness]]** of **[[:en:key-terms:sin|sins]]** would be proclaimed to all people groups, starting in **[[:en:key-terms:jerusalem|Jerusalem]]**. You are **[[:en:key-terms:witness|witnesses]]** of these things.”
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation
