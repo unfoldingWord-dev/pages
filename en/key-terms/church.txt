@@ -4,7 +4,7 @@
 ==== (church, Church) ====
 
 
-===== Definitions Facts: =====
+===== Definitions: =====
 
   * To 
 

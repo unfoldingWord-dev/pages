@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-46-02.jpg?nolink&640x360}}
 
-As Saul was on his way to Damascus, Jesus appeared to him in a bright light and said, “Saul! Saul! Why do you persecute me?” He said, “Who are you, Master?” Jesus replied, “I am Jesus whom you are persecuting.”
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+As **[[:en:key-terms:paul|Saul]]** was on his way to **[[:en:key-terms:damascus|Damascus]]**, **[[:en:key-terms:jesus|Jesus]]** appeared to him in a bright light and said, “Saul! Saul! Why do you **[[:en:key-terms:persecute|persecute]]** me?” He said, “Who are you, **[[:en:key-terms:lord|Master]]**?” Jesus replied, “I am Jesus whom you are persecuting.”
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation
