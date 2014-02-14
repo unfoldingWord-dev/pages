@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-45-03.jpg?nolink&640x360}}
 
-The high priest asked Stephen, “Are these things true?” Stephen reminded them of all the great things God had done from the time of Abraham to Jesus. Then he replied, “You stubborn and rebellious people always reject the Holy Spirit, just as your ancestors always rejected God and killed his prophets. You have even killed the Messiah whom God sent!”
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+The **[[:en:key-terms:priest-high|high priest]]** asked **[[:en:key-terms:stephen|Stephen]]**, “Are these things **[[:en:key-terms:true|true]]**?” Stephen reminded them of all the great things **[[:en:key-terms:god|God]]** had done from the time of **[[:en:key-terms:abraham|Abraham]]** to **[[:en:key-terms:jesus|Jesus]]**. Then he replied, “You stubborn and rebellious people always reject the **[[:en:key-terms:holy-spirit|Holy Spirit]]**, just as your ancestors always rejected God and killed his **[[:en:key-terms:prophet|prophets]]**. You have even killed the **[[:en:key-terms:messiah|Messiah]]** whom God sent!”
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation

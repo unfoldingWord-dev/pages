@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-45-01.jpg?nolink&640x360}}
 
-Stephen was a leader in the early Church. He had a good reputation and was full of the Holy Spirit and of wisdom. Stephen did many miracles and argued strongly that people should believe in Jesus.
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+**[[:en:key-terms:stephen|Stephen]]** was a leader in the early **[[:en:key-terms:church|Church]]**. He had a good reputation and was full of the **[[:en:key-terms:holy-spirit|Holy Spirit]]** and of **[[:en:key-terms:wise|wisdom]]**. Stephen did many **[[:en:key-terms:miracle|miracle]]** and argued strongly that people should **[[:en:key-terms:believe|believe]]** in **[[:en:key-terms:jesus|Jesus]]**.
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation
