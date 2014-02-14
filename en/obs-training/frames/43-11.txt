@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-43-11.jpg?nolink&640x360}}
 
-Peter said, “Repent and be baptized every one of you in the name of Jesus Christ for the forgiveness of sins, and you will receive the gift of the Holy Spirit.”
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+**[[:en:key-terms:peter|Peter]]** said, “**[[:en:key-terms:repent|repent]]** and be **[[:en:key-terms:baptize|baptized]]** every one of you in the name of **[[:en:key-terms:jesus|Jesus]]** **[[:en:key-terms:messiah|Christ]]** for the **[[:en:key-terms:forgive|forgiveness]]** of **[[:en:key-terms:sin|sins]]**, and you will receive the gift of the **[[:en:key-terms:holy-spirit|Holy Spirit]]**.”
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation
