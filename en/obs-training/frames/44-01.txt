@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-44-01.jpg?nolink&640x360}}
 
-One day Peter and John went to the Temple. On their way, they saw a crippled man begging for money.
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+One day **[[:en:key-terms:peter|Peter]]** and **[[:en:key-terms:john|John]]** went to the **[[:en:key-terms:temple|Temple]]**. On their way, they saw a crippled man **[[:en:key-terms:beg|begging]]** for money.
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation

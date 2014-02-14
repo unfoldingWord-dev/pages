@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-43-13.jpg?nolink&640x360}}
 
-The believers devoted themselves to the disciples’ teaching, fellowship, eating together, and prayer. They all met together and shared everything they had. They praised God and even non-believers thought well of them. Every day, more people became Christians.
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+The **[[:en:key-terms:believe|believes]]** devoted themselves to the **[[:en:key-terms:disciple|disciples']]** teaching, fellowship, eating together, and **[[:en:key-terms:pray|prayer]]**. They all met together and shared everything they had. They **[[:en:key-terms:praise|praised]]** **[[:en:key-terms:god|God]]** and even non-believers thought well of them. Every day, more people became **[[:en:key-terms:christian|Christians]]**.
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation
