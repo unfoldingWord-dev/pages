@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-46-01.jpg?nolink&640x360}}
 
-Saul continued to attack the Christians going from house to house, arresting men and women, and putting them in prison. Saul received permission from the high priest to go to the city of Damascus to arrest Christians there and bring them back to Jerusalem.
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+**[[:en:key-terms:paul|Saul]]** continued to attack the **[[:en:key-terms:christian|Christians]]** going from house to house, arresting men and women, and putting them in prison. Saul received permission from the **[[:en:key-terms:priest-high|high priest]]** to go to the city of **[[:en:key-terms:damascus|Damascus]]** to arrest Christians there and bring them back to **[[:en:key-terms:jerusalem|Jerusalem]]**.
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation
