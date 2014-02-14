@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-44-06.jpg?nolink&640x360}}
 
-The leaders of the Temple were greatly annoyed at what Peter and John were saying. So they arrested them and threw them into prison. But many of the people believed what they had seen and heard and the Church grew to 5,000 men, plus women and children.
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+The leaders of the **[[:en:key-terms:temple|Temple]]** were greatly annoyed at what **[[:en:key-terms:peter|Peter]]** and **[[:en:key-terms:john|John]]** were saying. So they arrested them and threw them into prison. But many of the people **[[:en:key-terms:believe|believed]]** what they had seen and heard and the **[[:en:key-terms:church|Church]]** grew to 5,000 men, plus women and children.
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation

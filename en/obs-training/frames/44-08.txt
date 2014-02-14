@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-44-08.jpg?nolink&640x360}}
 
-Peter responded, “It is by the power of Jesus the Messiah that we healed this man. You crucified him, but God raised him to life again! You rejected him, but there is no other way to be saved except through the power of Jesus!”
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+**[[:en:key-terms:peter|Peter]]** responded, “It is by the **[[:en:key-terms:power-of-god|power]]** of **[[:en:key-terms:jesus|Jesus]]** the **[[:en:key-terms:messiah|Messiah]]** that we **[[:en:key-terms:heal|healed]]** this man. You **[[:en:key-terms:crucify|crucified]]** him, but **[[:en:key-terms:god|God]]** **[[:en:key-terms:raise|raised]]** him to **[[:en:key-terms:life|life]]** again! You rejected him, but there is no other way to be **[[:en:key-terms:save|saved]]** except through the power of Jesus!”
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation

@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-44-04.jpg?nolink&640x360}}
 
-A crowd quickly formed. Peter said to them, “Why are you amazed that this man is healed? It was not through our own power or goodness that he was healed, but by faith in Jesus.”
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+A crowd quickly formed. **[[:en:key-terms:peter|Peter]]** said to them, “Why are you amazed that this man is **[[:en:key-terms:heal|healed]]**? It was not through our own power or goodness that he was healed, but by **[[:en:key-terms:faith|faith]]** in **[[:en:key-terms:jesus|Jesus]]**.”
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation

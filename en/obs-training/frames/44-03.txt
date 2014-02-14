@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-44-03.jpg?nolink&640x360}}
 
-The man was immediately healed, and he began walking and jumping around, praising God. The people in the Temple were amazed.
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+The man was immediately **[[:en:key-terms:heal|healed]]**, and he began walking and jumping around, **[[:en:key-terms:praise|praising]]** **[[:en:key-terms:god|God]]**. The people in the **[[:en:key-terms:temple|Temple]]** were amazed.
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation
