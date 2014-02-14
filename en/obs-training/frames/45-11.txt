@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-45-11.jpg?nolink&640x360}}
 
-As they passed by some water, the Ethiopian said, “Look! There is some water! May I be baptized?” And he ordered the chariot to stop.
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+As they passed by some water, the **[[:en:key-terms:ethiopia|Ethiopian]]** said, “Look! There is some water! May I be **[[:en:key-terms:baptize|baptized]]**?” And he ordered the **[[:en:key-terms:chariot|chariot]]** to stop.
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation

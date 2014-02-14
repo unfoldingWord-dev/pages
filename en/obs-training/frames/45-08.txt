@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-45-08.jpg?nolink&640x360}}
 
-When Philip came near the chariot, he heard the man reading from the prophet Isaiah, “He was led like a lamb to be killed, and did not say a word. He was treated unfairly and without respect. His life was taken away from him.”
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+When **[[:en:key-terms:philip|Philip]]** came near the chariot, he heard the man reading from the **[[:en:key-terms:isaiah|prophet Isaiah]]**, “He was led like a **[[:en:key-terms:lamb|lamb]]** to be killed, and did not say a word. He was treated unfairly and without respect. His **[[:en:key-terms:life|life]]** was taken away from him.”
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation
