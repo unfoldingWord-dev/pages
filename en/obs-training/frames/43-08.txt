@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-43-08.jpg?nolink&640x360}}
 
-“Jesus is now exalted to the right hand of God the Father. And the Father has sent the promised Holy Spirit which you are seeing and hearing.”
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+“**[[:en:key-terms:jesus|Jesus]]** is now exalted to the right hand of **[[:en:key-terms:god-father|God the Father]]**. And the Father has sent the **[[:en:key-terms:promise|promised]]** **[[:en:key-terms:holy-spirit|Holy Spirit]]** which you are seeing and hearing.”
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation

@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-43-09.jpg?nolink&640x360}}
 
-“Know for certain that God has made this Jesus, the one you crucified, both Lord and Messiah!”
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+“Know for certain that **[[:en:key-terms:god|God]]** has made this **[[:en:key-terms:jesus|Jesus]]**, the one you **[[:en:key-terms:crucify|crucified]]**, both **[[:en:key-terms:lord|Lord]]** and **[[:en:key-terms:messiah|Messiah]]**!”
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation

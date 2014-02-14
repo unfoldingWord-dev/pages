@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-43-06.jpg?nolink&640x360}}
 
-“Men of Israel, Jesus was a man who did many mighty signs and wonders by the power of God, as you have seen and already know. You crucified him!”
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+“Men of **[[:en:key-terms:israel|Israel]]**, **[[:en:key-terms:jesus|Jesus]]** was a man who did many mighty **[[:en:key-terms:miracle|signs and wonders]]** by the **[[:en:key-terms:power-of-god|power of God]]**, as you have seen and already know. You **[[:en:key-terms:crucify|crucified]]** him!”
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation
