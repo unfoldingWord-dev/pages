@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-47-13.jpg?nolink&640x360}}
 
-The next day the leaders of the city freed Paul and Silas and asked them to leave Philippi. Paul and Silas visited Lydia and some other friends and then left the city. The Good News of Jesus kept spreading, and the Church kept growing.
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+The next day the leaders of the city freed **[[:en:key-terms:paul|Paul]]** and **[[:en:key-terms:silas|Silas]]** and asked them to leave **[[:en:key-terms:philippi|Philippi]]**. Paul and Silas visited **[[:en:key-terms:lydia|Lydia]]** and some other friends and then left the city. The **[[:en:key-terms:good-news|Good News]]** of **[[:en:key-terms:jesus|Jesus]]** kept spreading, and the **[[:en:key-terms:church|Church]]** kept growing.
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation

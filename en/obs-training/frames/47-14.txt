@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-47-14.jpg?nolink&640x360}}
 
-Paul and other Christian leaders traveled to many cities, preaching and teaching about Jesus. They also wrote many letters to the churches to encourage and teach them about God’s New Covenant.
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+**[[:en:key-terms:paul|Paul]]** and other **[[:en:key-terms:christian|Christian]]** leaders traveled to many cities, **[[:en:key-terms:preach|preaching]]** and teaching about **[[:en:key-terms:jesus|Jesus]]**. They also wrote many letters to the **[[:en:key-terms:church|churches]]** to encourage and teach them about **[[:en:key-terms:covenant-new|God's New Covenant]]**.
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation
