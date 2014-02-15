@@ -39,7 +39,7 @@
     * [[:sdh:home|کوردی خوارگ (Kermanshahi, sdh)]]
     * [[:shn:home|လိၵ်ႈတႆး (shn)]]
     * [[:sk:home|Slovenčina (sk)]]
-    * [[:slu:home|Salaru (slu)]]
+    * [[:slu:home|Selaru (slu)]]
     * [[:sw:home|Kiswahili (sw)]]
     * [[:ta:home|தமிழ் (ta)]]
     * [[:tk:home|تورکمن ﺗﻴﻠی ,تورکمنچ (Turkmen, tk)]]
