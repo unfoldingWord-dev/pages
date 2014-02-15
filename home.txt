@@ -2,7 +2,8 @@
 
 **Choose your language:** 
 
-    * [[:abp:home|Ayta Abellen (abp]])
+    * [[:abp:home|Ayta Abellen (abp)]]
+    * [[:abs:home|Melayu Ambon (abs)]]
     * [[:aii:home|ܐܬܘܪܝܐ ܣܘܪܝܝܐ (Assyrian, aii)]]
     * [[:ar:home|العربية (ar)]]
     * [[:az:home|Azərbaycan dili (az)]]
@@ -15,12 +16,14 @@
     * [[:et:home|Eesti (et)]]
     * [[:fa:home|فارسی (fa)]]
     * [[:fr:home|Français (fr)]]
+    * [[:frd:home|Fordata (frd)]]
     * [[:gaj:home|Gadsup (gaj)]]
     * [[:hi:home|हिन्दी, हिंदी (hi)]]
     * [[:hu:home|Magyar (hu)]]
     * [[:id:home|Bahasa Indonesia (id)]]
     * [[:ilo:home|Ilokano (ilo)]]
     * [[:jit:home|Echijita (jit)]]
+    * [[:jmd:home|Yamdena (jmd)]]
     * [[:ko:home|한국어 (ko)]]
     * [[:lki:home|لەکی (‎Laki, lki]]
     * [[:loe:home|Saluan (loe)]]
