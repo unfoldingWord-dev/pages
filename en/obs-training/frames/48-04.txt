@@ -2,13 +2,11 @@
 
 {{:en:obs:obs-48-04.jpg?nolink&640x360}}
 
-God promised that one of Eve’s descendants would crush Satan’s head, and Satan would wound his heel. This meant that Satan would kill Jesus, but God would raise him to life after three days. Jesus would crush the power of Satan forever.
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+**[[:en:key-terms:god|God]]** **[[:en:key-terms:promise|promised]]** that one of **[[:en:key-terms:eve|Eve's]]** 
+**[[:en:key-terms:descendant|descendants]]** would crush **[[:en:key-terms:satan|Satan's]]** head, and Satan would wound his heel. This meant that Satan would kill **[[:en:key-terms:jesus|Jesus]]**, but God would **[[:en:key-terms:raise|raise]]** him to **[[:en:key-terms:life|life]]** after three days. Jesus would crush the power of Satan forever.
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation

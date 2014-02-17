@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-48-03.jpg?nolink&640x360}}
 
-Even worse, Adam and Eve's relationship with God was broken. Now, everyone is born an enemy of God because of sin. But God had a plan to fix everything that had been broken by sin.
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+Even worse, **[[:en:key-terms:adam|Adam]]** and **[[:en:key-terms:eve|Eve's]]** relationship with **[[:en:key-terms:god|God]]** was broken. Now, everyone is born an enemy of God because of **[[:en:key-terms:sin|sin]]**. But God had a plan to fix everything that had been broken by sin.
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation
