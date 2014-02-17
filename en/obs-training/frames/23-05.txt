@@ -2,15 +2,15 @@
 
 {{:en:obs:obs-23-05.jpg?nolink&640x360}}
 
-When they arrived in **[[:en:key-terms:bethlehem|Bethlehem]]** , there was no place to stay. The only room they could find was a place where animals stayed. The baby was born there and his mother laid him in a feeding trough, since they did not have a bed for him. They named him **[[:en:key-terms:jesus|Jesus]]**.
+When they arrived in **[[:en:key-terms:bethlehem|Bethlehem]]** , there was **no place to stay**. The only room they could find was a **place where animals stayed**. The baby was born there and his mother laid him in a **feeding trough**, since **they did not have a bed** for him. They named him **[[:en:key-terms:jesus|Jesus]]**.
 
 
 ===== Translation Notes: =====
 
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
+  * **no place to stay** - Bethlehem was crowded with all of the other people who required to go there for the census. 
+  * **place where animals stayed** - This was a barn, or animal shelter--not a place intended for human occupation. Translate this with a term that would normally be used for a dwelling for livestock.
+  * **feeding trough** - The feeding trough was made of wood and designed to keep the animal food up off of the ground. Likewise, it was the only available thing that could keep the baby off the ground.
+  * **they did not have a bed** - There was no furniture in the animal shelter, other than the feeding trough. 
   
 
 **[[:en:obs-training:frames:23-04|<<]] | [[:en:obs-training:23-the-birth-of-jesus|Up]] | [[:en:obs-training:frames:23-06|>>]]**
