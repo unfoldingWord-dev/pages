@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-49-17.jpg?nolink&640x360}}
 
-As a friend of God and a servant of Jesus the Master, you will want to obey Jesus’ teachings. Even though you are a Christian, you will still struggle with sin. But God says if you confess your sins, he is faithful and will forgive you and will give you strength to fight against sin.
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+As a friend of **[[:en:key-terms:god|God]]** and a **[[:en:key-terms:servant|servant]]** of **[[:en:key-terms:jesus|Jesus]]** the **[[:en:key-terms:lord|Master]]**, you will want to **[[:en:key-terms:obey|obey]]** Jesus’ teachings. Even though you are a **[[:en:key-terms:christian|Christian]]**, you will still struggle with **[[:en:key-terms:sin|sin]]**. But God says if you confess your sins, he is **[[:en:key-terms:faith|faithful]]** and will **[[:en:key-terms:forgive|forgive]]** you and will give you strength to fight against sin.
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation

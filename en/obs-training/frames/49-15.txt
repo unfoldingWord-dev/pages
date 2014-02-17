@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-49-15.jpg?nolink&640x360}}
 
-If you believe this, you are a Christian! God has taken you out of Satan’s kingdom of darkness and put you into God’s Kingdom of light. All the old things are gone, because God makes all things new.
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+If you **[[:en:key-terms:believe|believe]]** this, you are a **[[:en:key-terms:christian|Christian]]**! **[[:en:key-terms:god|God]]** has taken you out of **[[:en:key-terms:satan|Satan's]]** **[[:en:key-terms:kingdom|kingdom]]** of darkness and put you into **[[:en:key-terms:kingdom-of-god|God’s Kingdom]]** of light. All the old things are gone, because God makes all things new.
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation

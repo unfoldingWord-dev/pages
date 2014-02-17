@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-49-14.jpg?nolink&640x360}}
 
-Do you believe that Jesus is the Messiah, the only Son of God? Do you believe that you are a sinner and deserve God’s punishment? Do you believe that Jesus died on the cross to take away your sins? Jesus invites you to come to him, believe in him, and be baptized.
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+Do you believe that **[[:en:key-terms:jesus|Jesus]]** is the **[[:en:key-terms:messiah|Messiah]]**, the only **[[:en:key-terms:god-son|Son of God]]**? Do you believe that you are a **[[:en:key-terms:sin|sinner]]** and deserve **[[:en:key-terms:god|God's]]** **[[:en:key-terms:punish|punishment]]**? Do you believe that Jesus **[[:en:key-terms:death|died]]** on the **[[:en:key-terms:cross|cross]]** to take away your sins? Jesus invites you to come to him, **[[:en:key-terms:believe|believe]]** in him, and be **[[:en:key-terms:baptize|baptized]]**.
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation
