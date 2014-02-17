@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-49-09.jpg?nolink&640x360}}
 
-But God loved the world so much that he gave his only son, Jesus, so that whoever believes in him will not go to hell but will live with him forever.
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+But **[[:en:key-terms:god|God]]** **[[:en:key-terms:love|loved]]** the world so much that he gave his only **[[:en:key-terms:god-son|Son]]**, **[[:en:key-terms:jesus|Jesus]]**, so that whoever **[[:en:key-terms:believe|believes]]** in him will not go to **[[:en:key-terms:hell|hell]]** but will **[[:en:key-terms:life|live]]** with him forever.
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation

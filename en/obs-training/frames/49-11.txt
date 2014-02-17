@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-49-11.jpg?nolink&640x360}}
 
-Jesus chose to die as a perfect, sinless sacrifice to take away your sins and the sins of the whole world. Because of Jesus, any sin can be forgiven, no matter what it is.
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+**[[:en:key-terms:jesus|Jesus]]** chose to **[[:en:key-terms:death|die]]** as a perfect, sinless **[[:en:key-terms:sacrifice|sacrifice]]** to take away your **[[:en:key-terms:sin|sins]]** and the sins of the whole world. Because of Jesus, any sin can be **[[:en:key-terms:forgive|forgiven]]**, no matter what it is.
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation

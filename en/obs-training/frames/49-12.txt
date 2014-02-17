@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-49-12.jpg?nolink&640x360}}
 
-No one can be saved by doing good things. Nothing you do can fix your relationship with God. Your sins can only be washed away if you believe that Jesus is the Son of God, that he died on the cross in your place, and that God raised him to life again.
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+No one can be **[[:en:key-terms:save|saved]]** by doing good things. Nothing you do can fix your relationship with **[[:en:key-terms:god|God]]**. Your **[[:en:key-terms:sin|sins]]** can only be washed away if you **[[:en:key-terms:believe|believe]]** that **[[:en:key-terms:jesus|Jesus]]** is the **[[:en:key-terms:god-son|Son of God]]**, that he **[[:en:key-terms:death|died]]** on the **[[:en:key-terms:cross|cross]]** in your place, and that God **[[:en:key-terms:raise|raised]]** him to **[[:en:key-terms:life|life]]** again.
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation
