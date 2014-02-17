@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-50-14.jpg?nolink&640x360}}
 
-But those who do not believe in Jesus will be judged by God and thrown into hell forever. In hell, people constantly weep and grind their teeth in anguish. They are burned by fire that never goes out and eaten by worms that never die.
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+But those who do not **[[:en:key-terms:believe|believe]]** in **[[:en:key-terms:jesus|Jesus]]** will be **[[:en:key-terms:judge|judged]]** by **[[:en:key-terms:god|God]]** and thrown into **[[:en:key-terms:hell|hell]]** forever. In hell, people constantly weep and grind their teeth in anguish. They are burned by fire that never goes out and eaten by worms that never **[[:en:key-terms:death|die]]**.
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation

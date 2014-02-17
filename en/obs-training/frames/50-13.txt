@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-50-13.jpg?nolink&640x360}}
 
-Christians will be given the crown of life. They will never experience the second death, which is hell. Instead, they will live forever with God in perfect peace.
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+**[[:en:key-terms:christian|Christians]]** will be given the crown of life. They will never experience the second **[[:en:key-terms:death|death]]**, which is **[[:en:key-terms:hell|hell]]**. Instead, they will **[[:en:key-terms:life|live]]** forever with **[[:en:key-terms:god|God]]** in perfect **[[:en:key-terms:peace|peace]]**.
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation
