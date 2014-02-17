@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-48-14.jpg?nolink&640x360}}
 
-Like David, Jesus is a king, but Jesus is the king of the universe! He will come again and rule his Kingdom with justice and peace, forever.
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+Like **[[:en:key-terms:david|David]]**, **[[:en:key-terms:jesus|Jesus]]** is a **[[:en:key-terms:king|king]]**, but Jesus is the king of the universe! He will come again and rule his **[[:en:key-terms:kingdom-of-god|Kingdom]]** with **[[:en:key-terms:justice|justice]]** and **[[:en:key-terms:peace|peace]]**, forever.
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation

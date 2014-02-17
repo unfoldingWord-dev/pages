@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-49-03.jpg?nolink&640x360}}
 
-Jesus was also a great teacher. He taught that you need to love your neighbor the same way you love yourself.
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+**[[:en:key-terms:jesus|Jesus]]** was also a great teacher. He taught that you need to **[[:en:key-terms:love|love]]** your **[[:en:key-terms:neighbor|neighbor]]** the same way you love yourself.
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation

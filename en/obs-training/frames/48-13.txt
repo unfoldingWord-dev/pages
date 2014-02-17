@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-48-13.jpg?nolink&640x360}}
 
-God promised David that the Messiah would be one of his descendants. Jesus, the Messiah, was that special descendant of David.
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+**[[:en:key-terms:god|God]]** **[[:en:key-terms:promise|promised]]** **[[:en:key-terms:david|David]]** that the **[[:en:key-terms:messiah|Messiah]]** would be one of his **[[:en:key-terms:descendant|descendant]]**. **[[:en:key-terms:jesus|Jesus]]**, the Messiah, was that special descendant of David.
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation
