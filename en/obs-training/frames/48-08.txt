@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-48-08.jpg?nolink&640x360}}
 
-God provided a lamb for Abraham to sacrifice instead of his son, Isaac. God also provided another lamb to sacrifice instead of the whole world. God provided Jesus, the Lamb of God. We all deserve to die for our sins! But God provided Jesus as a sacrifice to die in your place.
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+**[[:en:key-terms:god|God]]** provided a **[[:en:key-terms:lamb|lamb]]** for **[[:en:key-terms:abraham|Abraham]]** to **[[:en:key-terms:sacrifice|sacrifice]]** instead of his **[[:en:key-terms:son|son]]**, **[[:en:key-terms:isaac|Isaac]]**. God also provided another lamb to sacrifice instead of the whole world. God provided **[[:en:key-terms:jesus|Jesus]]**, the **[[:en:key-terms:lamb|Lamb of God]]**. We all deserve to **[[:en:key-terms:death|die]]** for our **[[:en:key-terms:sin|sins]]**! But God provided Jesus as a sacrifice to die in your place.
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation

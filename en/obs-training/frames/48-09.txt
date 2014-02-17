@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-48-09.jpg?nolink&640x360}}
 
-When God sent the last plague on Egypt, each Israelite family needed to kill a perfect lamb and spread the blood around their doors. When God saw the blood, he passed over their houses and did not kill their firstborn sons. This is called the Passover.
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+When **[[:en:key-terms:god|God]]** sent the last plague on **[[:en:key-terms:egypt|Egypt]]**, each **[[:en:key-terms:israel|Israelite]]** family needed to kill a perfect **[[:en:key-terms:lamb|lamb]]** and spread the **[[:en:key-terms:blood|blood]]** around their doors. When God saw the blood, he passed over their houses and did not kill their firstborn sons. This is called the **[[:en:key-terms:passover|Passover]]**.
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation
