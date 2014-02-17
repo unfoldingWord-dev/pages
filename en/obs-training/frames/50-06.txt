@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-50-06.jpg?nolink&640x360}}
 
-“When the plants sprouted, the workers asked their master, ‘Sir, you planted good seed in that field. Why are there weeds in it?’ The master answered, ‘An enemy has planted them.’”
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+“When the plants sprouted, the workers asked their **[[:en:key-terms:lord|master]]**, ‘Sir, you planted **[[:en:key-terms:good|good]]** seed in that field. Why are there weeds in it?’ The master answered, ‘An enemy has planted them.’”
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation

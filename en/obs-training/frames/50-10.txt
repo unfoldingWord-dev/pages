@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-50-10.jpg?nolink&640x360}}
 
-“At the end of the world, all the people who belong to the devil will be gathered together and thrown into a fiery furnace, where there is weeping and grinding of teeth. Then the righteous ones will shine like the sun in the Kingdom of their Father.”
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+“At the end of the world, all the people who belong to the **[[:en:key-terms:satan|devil]]** will be gathered together and thrown into a fiery furnace, where there is weeping and grinding of teeth. Then the **[[:en:key-terms:righteous|righteous]]** ones will shine like the sun in the **[[:en:key-terms:kingdom-of-god|Kingdom]]** of their **[[:en:key-terms:god-father|Father]]**.”
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation

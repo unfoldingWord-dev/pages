@@ -2,13 +2,10 @@
 
 {{:en:obs:obs-50-04.jpg?nolink&640x360}}
 
-Jesus also said, “A servant is not greater than his master. You will be tortured and killed because of me. In this world you will have trouble, but be encouraged. I have defeated Satan! Remain faithful to the end, and you will be saved.”
-
-[text] with inline links - **[[:en:key-terms:page|sample]]**
+**[[:en:key-terms:jesus|Jesus]]** also said, “A **[[:en:key-terms:servant|servant]]** is not greater than his **[[:en:key-terms:lord|master]]**. You will be tortured and killed because of me. In this world you will have trouble, but be encouraged. I have defeated **[[:en:key-terms:satan|Satan]]**! Remain **[[:en:key-terms:faith|faithful]]** to the end, and you will be **[[:en:key-terms:save|saved]]**.”
 
 
 ===== Translation Notes: =====
-
 
   * **issue** - explanation
   * **issue** - explanation
