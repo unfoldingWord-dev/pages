@@ -12,6 +12,7 @@ A shepherd is a person who takes care of sheep.
   * Shepherds lead sheep to grass so they can eat and to safe water so they can drink.
   * They guide sheep so they don't get lost or wander into danger.
   * They protect sheep from wild animals that try to attack them.
+  * It is also used as a metaphor about leaders and those who follow them.
 
 [See also: **[[:en:key-terms:sheep|sheep]]**]
 
@@ -26,4 +27,4 @@ A shepherd is a person who takes care of sheep.
   ***[[:en:obs-training:frames:30-03|[30-03]]]**  To Jesus, these people were like sheep without a **shepherd**.
 
 
-~~DISCUSSION~~
+~~DISCUSSION:closed~~
