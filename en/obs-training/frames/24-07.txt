@@ -2,15 +2,15 @@
 
 {{:en:obs:obs-24-07.jpg?nolink&640x360}}
 
-**[[:en:key-terms:john-baptist|John]]** said to **[[:en:key-terms:jesus|Jesus]]**, “I am not worthy to **[[:en:key-terms:baptize|baptize]]** you. You should baptize me instead.” But Jesus said, “You should baptize me, because it is the right thing to do.” So John baptized him, but not not because Jesus had **[[:en:key-terms:sin|sinned]]**—he never sinned.
+**[[:en:key-terms:john-baptist|John]]** said to **[[:en:key-terms:jesus|Jesus]]**, “**I am not worthy** to **[[:en:key-terms:baptize|baptize]]** you. You should baptize me instead.” But Jesus said, “You should baptize me, because **it is the right thing to do**.” **So John baptized him,** but not not because Jesus had **[[:en:key-terms:sin|sinned]]**—he never sinned.
 
 
 ===== Translation Notes: =====
 
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
+  * **I am not worthy** - John was a sinner, and therefore did not thing that he was holy enough to baptize Jesus.
+  * **it is the right thing to do** - This might also be translated as, "the proper thing to do," or "the appropriate thing to do."
+  * **So John baptized him ...** - It may be more clear in some languages to say "So John baptized Jesus even though Jesus had never sinned."
+
   
 
 **[[:en:obs-training:frames:24-06|<<]] | [[:en:obs-training:24-john-baptizes-jesus|Up]] | [[:en:obs-training:frames:24-08|>>]]**
