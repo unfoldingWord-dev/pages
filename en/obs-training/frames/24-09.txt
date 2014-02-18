@@ -2,15 +2,13 @@
 
 {{:en:obs:obs-24-09.jpg?nolink&640x360}}
 
-**[[:en:key-terms:god|God]]** had told **[[:en:key-terms:john-baptist|John]]**, “The **[[:en:key-terms:holy-spirit|Holy Spirit]]** will land on someone you **[[:en:key-terms:baptize|baptize]]**. He is the **[[:en:key-terms:god-son|Son of God]]**.” There is only one God. But God is three persons, the **[[:en:key-terms:god-father|Father]]**, **[[:en:key-terms:jesus|Jesus]]** the **[[:en:key-terms:god-son|Son]]**, and the Holy Spirit.
+**[[:en:key-terms:god|God]]** had told **[[:en:key-terms:john-baptist|John]]**, “The **[[:en:key-terms:holy-spirit|Holy Spirit]]** will **land on** someone you **[[:en:key-terms:baptize|baptize]]**. He is the **[[:en:key-terms:god-son|Son of God]]**.” There is only one God. But God is **three persons**, the **[[:en:key-terms:god-father|Father]]**, **[[:en:key-terms:jesus|Jesus]]** the **[[:en:key-terms:god-son|Son]]**, and the Holy Spirit.
 
 
 ===== Translation Notes: =====
 
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
+  * **land on** - That is, it came to rest on him.
+  * **three persons** - This precise expression refers to the fact that God exists in three specific personalities. Do not translate this as "God is three people"--that is not the same thing, and is not true.
   
 
 **[[:en:obs-training:frames:24-08|<<]] | [[:en:obs-training:24-john-baptizes-jesus|Up]] | [[:en:obs-training:frames:25-01|>>]]**
