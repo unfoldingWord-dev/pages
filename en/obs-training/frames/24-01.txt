@@ -2,15 +2,15 @@
 
 {{:en:obs:obs-24-01.jpg?nolink&640x360}}
 
-When **[[:en:key-terms:john-baptist|John]]** grew up, he became a **[[:en:key-terms:prophet|prophet]]**. He lived in the wilderness, ate wild honey and locusts, and wore clothes made from **[[:en:key-terms:camel|camel]]** hair.
+When **[[:en:key-terms:john-baptist|John]]** grew up, he became a **[[:en:key-terms:prophet|prophet]]**. He lived in the **wilderness**, ate **wild honey** and **locusts**, and wore **clothes made from [[:en:key-terms:camel|camel]] hair**.
 
 
 ===== Translation Notes: =====
 
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
+  * **wilderness** - That is, a remote, desert-like place with few people.
+  * **wild honey** - This honey was the natural product of bees in the wilderness, without any human intervention.
+  * **locusts** - John ate these large bugs instead of normal food that was produced by farmers and other skilled people.
+  * **clothes made from camel hair** - Camel hair is rough, course, and uncomfortable. This fit with John's lifestyle of living with what God provided for him in the wilderness rather than depend on anyone else to meet his needs.
   
 
 **[[:en:obs-training:frames:23-10|<<]] | [[:en:obs-training:24-john-baptizes-jesus|Up]] | [[:en:obs-training:frames:24-02|>>]]**
