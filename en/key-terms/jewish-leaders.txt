@@ -1,7 +1,7 @@
 ====== Jewish leaders ======
 
 
-==== (term, other) ====
+==== (Jewish leaders, religious leaders) ====
 
 
 ===== Facts: =====
@@ -14,13 +14,13 @@
 
 ===== Examples from the Bible stories: =====
 
+  ***[[:en:obs-training:frames:24-03|[24-03]]]** Some people repented and were baptized when they heard John's message, but there were many **religious leaders** who came to be baptized without repenting and confessing their sins.
+  ***[[:en:obs-training:frames:37-11|[37-11]]]** But the **religious leaders of the Jews** were jealous, so they gathered together to plan how they could kill Jesus and Lazarus.
   ***[[:en:obs-training:frames:38-02|[38-02]]]** The **Jewish leaders** in Jerusalem refused to believe that Jesus was the Messiah and were plotting to kill him.
   ***[[:en:obs-training:frames:38-03|[38-03]]]** The **Jewish leaders**, led by the high priest, paid Judas thirty pieces of silver to betray Jesus.
-  ***[[:en:obs-training:frames:39-02|[39-02]]]** Inside the house, the **Jewish leaders** put Jesus on trial.
   ***[[:en:obs-training:frames:39-05|[39-05]]]** The **Jewish leaders** all answered, “He (Jesus) deserves to die!”
   ***[[:en:obs-training:frames:39-09|[39-09]]]** Early the next morning, the **Jewish leaders** brought Jesus to the Roman governor, Pilate, hoping to have Jesus killed.
   ***[[:en:obs-training:frames:39-11|[39-11]]]** But the **Jewish leaders** and the crowd shouted, “Crucify him!”
-  ***[[:en:obs-training:frames:40-05|[40-05]]]** The crowd and the **Jewish leaders** mocked Jesus, saying, “If you are the Son of God, come down from the cross and save yourself! Then we will believe you.”
   ***[[:en:obs-training:frames:40-09|[40-09]]]** Then Joseph and Nicodemus, two **Jewish leaders** who believed Jesus was the Messiah, asked Pilate for Jesus’ body.
   ***[[:en:obs-training:frames:44-07|[44-07]]]** The next day, the **Jewish leaders** brought Peter and John before the high priest and his family.
 
