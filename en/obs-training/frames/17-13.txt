@@ -2,7 +2,7 @@
 
 {{:en:obs:obs-17-13.jpg?nolink&640x360}}
 
-After **[[:en:key-terms:uriah|Uriah]]** was killed, **[[:en:key-terms:david|David]]** married **[[:en:key-terms:bathsheba|Bathsheba]]**. Later, she gave birth to David's son. **[[:en:key-terms:god|God]] was not pleased with what David had done**, so he sent the **[[:en:key-terms:prophet|prophet]]** **[[:en:key-terms:nathan|Nathan]] to show David his [[:en:key-terms:sin|sin]]**. David **[[:en:key-terms:repent|repented]]** of his sin and God **[[:en:key-terms:forgive|forgave]]** him. For the rest of his life, **David [[:en:key-terms:trust|trusted]] God**, even in difficult times.
+After **[[:en:key-terms:uriah|Uriah]]** was killed, **[[:en:key-terms:david|David]]** married **[[:en:key-terms:bathsheba|Bathsheba]]**. Later, she gave birth to David's son. **[[:en:key-terms:god|God]] was not pleased with what David had done**, so he sent the **[[:en:key-terms:prophet|prophet]]** **[[:en:key-terms:nathan|Nathan]] to show David his [[:en:key-terms:sin|sin]]**. David **[[:en:key-terms:repent|repented]]** of his sin and God **[[:en:key-terms:forgive|forgave]]** him. For the rest of his life, **David followed and [[:en:key-terms:obey|obeyed]] God**, even in difficult times.
 
 
 ===== Translation Notes: =====
@@ -11,11 +11,9 @@ After **[[:en:key-terms:uriah|Uriah]]** was killed, **[[:en:key-terms:david|Davi
   * **was not pleased with** – That is, “was very angry about.” 
   * **what David had done** - This refers to David's adultery with Bathsheba and his murder of her husband, Uriah.
   * **to show David his sin** - That is, “to tell David how evil his sin was” and that God was angry with him. 
-  * **David trusted God** - This could be translated, “David followed and obeyed God.” 
   
 
 **[[:en:obs-training:frames:17-12|<<]] | [[:en:obs-training:17-gods-covenant-with-david|Up]] | [[:en:obs-training:frames:17-14|>>]]**
 
 
-
-~~DISCUSSION~~
+~~DISCUSSION:closed~~
