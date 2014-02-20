@@ -2,7 +2,7 @@
 
 {{:en:obs:obs-17-02.jpg?nolink&640x360}}
 
-The man **[[:en:key-terms:God|God]]** chose to be **[[:en:key-terms:king|king]]** after **[[:en:key-terms:saul|Saul]]** was a young **[[:en:key-terms:israel|Israelite]]** named **[[:en:key-terms:david|David]]**. David was a **[[:en:key-terms:shepherd|shepherd]]** from the town of **[[:en:key-terms:bethlehem|Bethlehem]]**. At different times while he was **watching** his father's **[[:en:key-terms:sheep|sheep]]**, David had killed both a lion and a bear that had attacked the sheep. David was a **[[:en:key-terms:humble|humble]]** and **[[:en:key-terms:righteous|righteous]]** man who **[[:en:key-terms:trust|trusted]]** and **[[:en:key-terms:obey|obeyed]]** God.
+**[[:en:key-terms:God|God]]** chose a young **[[:en:key-terms:israel|Israelite]]** named **[[:en:key-terms:david|David]]** to be **[[:en:key-terms:king|king]]** after **[[:en:key-terms:saul|Saul]]**. David was a **[[:en:key-terms:shepherd|shepherd]]** from the town of **[[:en:key-terms:bethlehem|Bethlehem]]**. At different times while he was **watching** his father's **[[:en:key-terms:sheep|sheep]]**, David had killed both a lion and a bear that had attacked the sheep. David was a **[[:en:key-terms:humble|humble]]** and **[[:en:key-terms:righteous|righteous]]** man who **[[:en:key-terms:trust|trusted]]** and **[[:en:key-terms:obey|obeyed]]** God.
 
 
 ===== Translation Notes: =====
@@ -14,4 +14,4 @@ The man **[[:en:key-terms:God|God]]** chose to be **[[:en:key-terms:king|king]]*
 **[[:en:obs-training:frames:17-01|<<]] | [[:en:obs-training:17-gods-covenant-with-david|Up]] | [[:en:obs-training:frames:17-03|>>]]**
 
 
-~~DISCUSSION~~
+~~DISCUSSION:closed~~
