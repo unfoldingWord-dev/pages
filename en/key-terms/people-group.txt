@@ -1,13 +1,15 @@
 ====== people group ======
 
 
-==== (term, other) ====
+==== (people group, nation) ====
 
 
 ===== Definitions Facts: =====
 
-  * This may also be translated as "every group of people" or "every tribe."
-  * 
+  * A people group is a group of people who have a common ancestry, culture, or language.
+  * Usually they live together in a particular land or country.
+  * A people group may be made up of many tribes.
+  * Other ways of translating 'people group' are 'group of people' and 'nation'.
 
 
 [See also: **[[:en:key-terms:term|term]]**]
