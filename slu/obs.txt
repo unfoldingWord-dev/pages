@@ -1,7 +1,13 @@
-====== Open Bible Stories (slu) ======
+====== Cerita Alkitab Terbuka dalam Bahasa Selaru (slu) ======
 
 
-Welcome to Open Bible Stories! Please feel free to translate this page and the stories (including the titles) below. More information on how to get started translating Open Bible Stories is [[:en:obs:help|here]], and useful information may also be found at [[:en:get-started|"Getting Started"]] and [[:en:tips-tricks|"Tips & Tricks"]]. If you need help, [[http://distantshoresmedia.org/contact|just ask]]!
+Selamat datang ke Cerita Alkitab Terbuka! Bagian ini disediakan untuk layani orang berbahasa //Tel Malsyarkwe//, yaitu bahasa Selaru.
+
+
+Kalau ini bahasa Anda sendiri, silakan membaca apa yang sudah disiapkan. Dan kalau ada yang belum diterjemahkan atau masih ada kekurangan, silahkan monolong menerjemahkan sebagian juga.
+
+
+Untuk informasi yang lebih langkap atas carahnya, silahkan lihat halaman [[:en:obs:help|ini]], dan informasi lain yang berguna juga ada disediakan di halaman [[:en:get-started|"Getting Started"]]dan [[:en:tips-tricks|"Tips & Tricks"]]. Kalau perlu bantuan, [[http://distantshoresmedia.org/contact| tanya saja]]!
 
 
 {{page>slu:obs:stories}}
