@@ -1,13 +1,13 @@
 ====== Cerita Alkitab Terbuka dalam Bahasa Selaru (slu) ======
 
 
-Selamat datang ke Cerita Alkitab Terbuka! Bagian ini disediakan untuk layani orang berbahasa //Tel Malsyarkwe//, yaitu bahasa Selaru.
+Selamat datang ke Cerita Alkitab Terbuka! Bagian ini disediakan kusus untuk melayani orang berbahasa //Tel Malsyarkwe//, yaitu bahasa Selaru, di Maluku Tenggara Barat.
 
 
-Kalau ini bahasa Anda sendiri, silakan membaca apa yang sudah disiapkan. Dan kalau ada yang belum diterjemahkan atau masih ada kekurangan, silahkan monolong menerjemahkan sebagian juga.
+Kalau bahasa Selaru ini bahasa Anda sendiri, silakan membaca cerita-cerita yang sudah siap. Dan kalau ada yang belum diterjemahkan atau sudah diterjemahkan tapi masih ada kekurangan, silahkan monolong perbaiki atau menerjemahkan cerita lain lagi.
 
 
-Untuk informasi yang lebih langkap atas carahnya, silahkan lihat halaman [[:en:obs:help|ini]], dan informasi lain yang berguna juga ada disediakan di halaman [[:en:get-started|"Getting Started"]]dan [[:en:tips-tricks|"Tips & Tricks"]]. Kalau perlu bantuan, [[http://distantshoresmedia.org/contact| tanya saja]]!
+Untuk informasi atas carah gunakan website ini, silahkan lihat [[:en:obs:help|halaman ini]], dan untuk informasi lain yang lebih langkap silahkan lihat halaman [[:en:get-started|"Getting Started"]]dan halaman [[:en:tips-tricks|"Tips & Tricks"]]. Kalau bisa dibantu, [[http://distantshoresmedia.org/contact| tanya saja]]!
 
 
 {{page>slu:obs:stories}}

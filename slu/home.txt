@@ -1,8 +1,10 @@
 ====== Door43 (slu) ======
 
-Welcome to Door43! Please feel free to [[?do=edit|edit]] this page in your own language. More information about how to get started can be found [[en:get-started|here]].
 
-===== Resources =====
+Selamat datang ke website Door43! Bagian ini disediakan kusus untuk orang Selaru. Silahkan [[:slu:home?do=edit|mengedit]] halaman ini dalam bahasa Anda sendiri. Informasi yang jelaskan cara mulai ada [[:en:get-started|di sini]].
 
-  * **[[slu:obs|Open Bible Stories (slu)]]**
 
+===== Sumber Daya =====
+
+
+    * **[[:slu:obs|Cerita Alkitab dalam bahasa Selaru (slu)]]**
