@@ -2,15 +2,13 @@
 
 {{:en:obs:obs-25-01.jpg?nolink&640x360}}
 
-Immediately after **[[:en:key-terms:jesus|Jesus]]** was **[[:en:key-terms:baptize|baptized]]**, the **[[:en:key-terms:holy-spirit|Holy Spirit]]** led him out into the desert, where he **[[:en:key-terms:fast|fasted]]** for forty days and forty nights. Then **[[:en:key-terms:satan|Satan]]** appeared and **[[:en:key-terms:tempt|tempted]]** him.
+Immediately after **[[:en:key-terms:jesus|Jesus]]** was **[[:en:key-terms:baptize|baptized]]**, the **[[:en:key-terms:holy-spirit|Holy Spirit]]** led him out into **the desert**, where he **[[:en:key-terms:fast|fasted]]** for forty days and forty nights. Then **[[:en:key-terms:satan|Satan]]** appeared and **[[:en:key-terms:tempt|tempted]] him**.
 
 
 ===== Translation Notes: =====
 
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
+  * **the desert** - The desert was a remote, barren place with few people.
+  * **tempted him** - It may be necessary to say, "tempted him to sin."
   
 
 **[[:en:obs-training:frames:24-09|<<]] | [[:en:obs-training:25-satan-tempts-jesus|Up]] | [[:en:obs-training:frames:25-02|>>]]**
