@@ -10,9 +10,11 @@ A prophet is a person who speaks God's messages to people. He tells them what Go
 
   * God is the one who chooses and appoints the prophet to do this.
   * "Prophet" could be translated as "God's spokesman."
+  * A prophecy is the message that God tells the prophet to speak. 
+  * Many prophecies that were recorded in the Old Testament of the Bible were fulfilled in the New Testament. Others are still being fulfilled.
+  * To prophesy is the act of communicating God's message.
   * When prophets in the Bible prophesied, often they would tell people about things that God had said would happen in the future. Prophets also warned people to turn away from their sins and obey God. 
-  * A prophecy is the message that God tells the prophet to speak. Many prophecies that were recorded in the Old Testament of the Bible were fulfilled in the New Testament. Others are still being fulfilled.
-  * There were also false prophets who worshiped false gods such as Baal.
+  * There were also false prophets who claimed to speak messages from false gods such as Baal.
   
 
 ===== Examples from the Bible stories: =====
@@ -26,6 +28,7 @@ A prophet is a person who speaks God's messages to people. He tells them what Go
   ***[[:en:obs-training:frames:40-03|[40-03]]]** When they did this, they fulfilled a **prophecy** which said, "They divided my garments among them, and gambled for my clothing."
   ***[[:en:obs-training:frames:43-05|[43-05]]]** "This is a fulfillment of the **prophecy** made by Joel which says, 'In the last days, I will pour out my Spirit.'"
   ***[[:en:obs-training:frames:43-07|[43-07]]]** "But God raised him to life again to fulfill the **prophecy** which says, 'You will not let your Holy One rot in the grave.'"
+  ***[[:en:obs-training:frames:48-12|[48-12]]]** Like Moses, Jesus is a **prophet**, but Jesus is the greatest **prophet**. He is the Word of God.
  
 
 ~~DISCUSSION~~
