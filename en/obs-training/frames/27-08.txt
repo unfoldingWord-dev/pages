@@ -2,14 +2,12 @@
 
 {{:en:obs:obs-27-08.jpg?nolink&640x360}}
 
-“The next person to walk down that road was a **[[:en:key-terms:samaria|Samaritan]]**. (Samaritans were the descendants of **[[:en:key-terms:jew|Jews]]** and people from other nations. Samaritans and Jews hated each other.) When the Samaritan saw the man, he was filled with compassion. He cared for him and bandaged his wounds.”
+“The next person to walk down that road was a **[[:en:key-terms:samaria|Samaritan]]**. (Samaritans were the descendants of **[[:en:key-terms:jew|Jews]]** and people from other nations. Samaritans and Jews hated each other.) When the Samaritan saw the man, he was **filled with compassion**. He cared for him and bandaged his wounds.”
 
 
 ===== Translation Notes: =====
 
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
+  * **filled with compassion** - That is, "felt very strong compassion ..."
   * **issue** - explanation
   
 
