@@ -1,0 +1,192 @@
+====== The Translation Academy ======
+
+The “Translation Academy” is intended to enable anyone, anywhere to learn the basics of how to translate the Bible into their own language, or help someone who wants to do so. It is intended to be highly flexible, can be in-advance or just-in-time (or both, as needed), modular, and highly visual, in web and offline mobile video formats.
+
+We need “Domain Experts” to start identifying the modules that are needed in each area of focus, and then writing up the content and (soon) recording the teaching videos. In the meantime, this is the big picture at this (very early) stage in the process.
+
+Translation Academy
+2014 Big Picture.mm
+
+=====focus: language building blocks=====
+====phonetics====
+the sounds that comprise language
+
+====phonology====
+how meaning is encoded in sound
+
+====syntax & morphology====
+how sounds are formed into words and sentences
+
+====semantics & discourse====
+how meaning is conveyed through speech
+
+=====focus: language in real life=====
+====cultural anthropology====
+component aspects of cultures
+
+the Biblical & missiological significance of a "people group" (ethne)
+
+====sociology====
+social actions
+
+social structure
+
+====sociolinguistics====
+code-switching & diglossia
+
+multilingualism & prestige
+
+====language shift====
+historical linguistics
+
+assessing language shift
+
+=====focus: understanding the Bible=====
+====elements of Greek====
+alphabet
+
+grammatical tenses
+
+emphasis, structure, markers, etc.
+
+research tools
+
+====elements of Hebrew====
+alphabet
+
+grammatical tenses
+
+emphasis, structure, markers, etc.
+
+research tools
+
+====Biblical history====
+Biblical history in a global context
+
+====Biblical culture====
+===key Biblical motifs===
+oaths, vows, and covenants
+
+redemption
+
+===Jewish cultural distinctives===
+animals & agriculture
+
+traditions & festivals
+
+houses, cities, and governance
+
+Graeco-Roman cultural distinctives
+
+=====focus: translating the Bible=====
+====exegesis====
+the Bible in its context (historical & cultural)
+
+understanding the Bible as the original hearers did
+
+how cultural predispositions affect comprehension of the Bible
+
+====meaning-based translation====
+idiomatic / literal
+
+====translating key terms====
+which ones?
+
+how to translate them accurately
+
+====the translation process====
+drafting
+
+reviewing
+
+checking
+
+=====focus: translation technology=====
+====writing systems====
+language scripts
+
+text entry & keyboards
+
+resources / OS / utilities
+
+====storing data====
+Unicode
+
+locales
+
+=====meta: resource structure=====
+====modular====
+all content is modular in format, iterative (not just linear) as needed
+
+all modules mapped in "big picture" dependency chart
+
+each module self-contained but interdependent on others
+
+no module longer than 15 minutes total (10min video + 5min quiz)
+
+===composition of each module:===
+outline + objectives
+
+video teaching of content - presentation/slide deck
+
+instruction in text format, keyed to MM:SS on video
+
+====dependency-based====
+flexible structure
+
+modules built on prerequisite modules
+
+====video-centric====
+talking head + Keynote
+
+highly visual, diagrams + movement
+
+TED format + Khan Academy
+
+====crystal clear====
+nails the key points
+
+the big picture is tightly integrated
+
+====extremely concentrated====
+"every word counts"
+
+"no holds barred" for what you need to know
+
+====real-world====
+examples from actual language/translation contexts
+
+practice problems
+
+====light, entertaining====
+anything worth doing is worth doing fun
+
+====further research====
+where you can learn more
+
+=====meta: user profile=====
+====education====
+high school education (or intellectual capacity equivalent) minimum
+
+fluent in English, or other language of wider communication
+
+no previous linguistic training, but likely has studied a second language
+
+====motivation====
+wants to be involved in missions and "changing lives for Christ"
+
+feels that people need to be able to have the Bible
+
+====spiritual formation====
+Christian with basic knowledge of the Bible
+
+no/minimal formal Bible training
+
+incomplete understanding of Biblical missiology + need for Bible translation
+
+====life context====
+willing to learn but unable to move/enroll in school
+
+working or school full-time but has enough free time to learn on the side
+
+wants to learn with friends, share the "experience"

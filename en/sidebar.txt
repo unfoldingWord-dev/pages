@@ -7,8 +7,10 @@
 
 **Resources**
 
-  * [[en:obs|Bible Stories]]
-  * [[en:lexicon|Bible Lexicon]]
+  * [[en:obs|Open Bible Stories]]
+    * [[:en:obs:notes|Translation Notes]]
+  * [[en:lexicon|Open Bible Lexicon]]
+  * [[:en:ta|Translation Academy]]
 
 **About Door43**
 
