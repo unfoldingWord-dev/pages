@@ -2,14 +2,16 @@
 
 {{:en:obs:obs-19-03.jpg?nolink&640x360}}
 
-**[[:en:key-terms:god|God]]** told **[[:en:key-terms:elijah|Elijah]]** to hide in **the wilderness** near a stream. Every morning and every evening, birds would bring him bread and meat. **[[:en:key-terms:ahab|Ahab]]** and his army looked for Elijah, but they could not find him. The drought was so severe that the stream eventually dried up.
+**[[:en:key-terms:god|God]]** told **[[:en:key-terms:elijah|Elijah]] to hide** in **the wilderness** near a stream. Every morning and every evening, birds would bring him bread and meat. **[[:en:key-terms:ahab|Ahab]]** and his army looked for Elijah, but they could not find him. **The drought** was so severe that the stream eventually dried up.
 
 
 ===== Translation Notes: =====
 
 
+    * **to hide** – To make it clear why he needed to hide, it may be necessary to say, “to hide from Ahab who wanted to kill him.” 
     * **the wilderness**  - This was a remote location with very few people. This may also be translated as "desert" or "the bush."
-    * **issue**  - explanation
+    * **The drought** - This could be translated as, “the lack of rain.” This drought was a result of Elijah declaring that there would be no rain.
+
 **[[:en:obs-training:frames:19-02|<<]] | [[:en:obs-training:19-the-prophets|Up]] | [[:en:obs-training:frames:19-04|>>]]** 
 
 
