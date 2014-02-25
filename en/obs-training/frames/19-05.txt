@@ -2,7 +2,7 @@
 
 {{:en:obs:obs-19-05.jpg?nolink&640x360}}
 
-After three and a half years, **[[:en:key-terms:god|God]]** told **[[:en:key-terms:elijah|Elijah]]** to return to **[[:en:key-terms:israel|Israel]]** and **speak with [[:en:key-terms:ahab|Ahab]] because he was going to send** rain again. When Ahab saw Elijah he said, “There you are, **you troublemaker**!” Elijah said, “You are the troublemaker! **You have abandoned [[:en:key-terms:yahweh|Yahweh]]**, the true God, and **[[:en:key-terms:worship|worshiped]]** **[[:en:key-terms:baal|Baal]]**. **Bring all of Israel to [[:en:key-terms:mount-carmel|Mount Carmel]]**.”
+After three and a half years, **[[:en:key-terms:god|God]]** told **[[:en:key-terms:elijah|Elijah]]** to return to **[[:en:key-terms:israel|Israel]]** and **speak with [[:en:key-terms:ahab|Ahab]] because he was going to send** rain again. When Ahab saw Elijah he said, “There you are, **you troublemaker**!” **Elijah said**, “You are the troublemaker! **You have abandoned [[:en:key-terms:yahweh|Yahweh]]**, the true God, and **[[:en:key-terms:worship|worshiped]]** **[[:en:key-terms:baal|Baal]]**. **Bring all of Israel to [[:en:key-terms:mount-carmel|Mount Carmel]]**.”
 
 
 ===== Translation Notes: =====
@@ -10,7 +10,8 @@ After three and a half years, **[[:en:key-terms:god|God]]** told **[[:en:key-ter
 
   * **speak with Ahab because he was going to send** – This could be translated as, "tell Ahab that God was going to send.” 
   * **you troublemaker** - This means, "You are a troublemaker!" Ahab was accusing Elijah of causing trouble by telling the king that he was doing wrong and also by stopping the rain. 
-  * **You have abandoned Yahweh** - That is, they had stopped worshiping and obeying Yahweh. If the grammar of your language distinguishes singular and plural 'you,' use the plural form. 
+  * **Elijah said** – Some languages may need to say, “said to him” or “replied to him.” 
+  * **You have abandoned Yahweh** - That is, Ahab had led Israel to stop worshiping and obeying Yahweh.  
   * **Bring all of Israel to** - This may also be translated as "tell all of the Israelites to come to..." or "order all of the people of Israel to go to..."
   
 
