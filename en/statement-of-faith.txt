@@ -38,4 +38,4 @@ Peripheral beliefs are everything else that is in Scripture but about which sinc
 //see also: [[en:translation-guidelines|Translation Guidelines]]//
 
 
-~~DISCUSSION~~
+~~DISCUSSION:off~~

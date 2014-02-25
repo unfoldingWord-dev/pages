@@ -15,4 +15,4 @@
 
 //see also: [[en:statement-of-faith|Statement of Faith]]//
 
-~~DISCUSSION~~
+~~DISCUSSION:off~~
