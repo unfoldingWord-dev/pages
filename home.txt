@@ -1,6 +1,8 @@
 ~~NOCACHE~~
 
+
 **Choose your language:** 
+
 
     * [[:abp:home|Ayta Abellen (abp)]]
     * [[:abs:home|Melayu Ambon (abs)]]
@@ -32,6 +34,7 @@
     * [[:my:home|ဗမာစာ (my)]]
     * [[:mzn:home|مازندرانی (Mazanderani, mzn)]]
     * [[:nl:home|Nederlands (nl)]]
+    * [[:nxl:home|Nuaulu (nxl)]]
     * [[:pl:home|Polski (pl)]]
     * [[:ppq:home|Pefiyahe (ppq)]]
     * [[:pt-br:home|Português do Brasil (pt-br)]]
