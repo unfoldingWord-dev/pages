@@ -2,14 +2,14 @@
 
 {{:en:obs:obs-20-06.jpg?nolink&640x360}}
 
-About 100 years after the **[[:en:key-terms:assyria|Assyrians]]** destroyed **[[:en:key-terms:israel|Israel]]**, **[[:en:key-terms:god|God]]** sent **[[:en:key-terms:nebuchadnezzar|Nebuchadnezzar]]**, **[[:en:key-terms:king|king]]** of the **[[:en:key-terms:babylon|Babylonians]]**, to attack **[[:en:key-terms:judah|Judah]]**. **[[:en:key-terms:babylon|Babylon]]** was a powerful **empire**. The king of Judah agreed to be Nebuchadnezzar’s **[[:en:key-terms:servant|servant]]** and pay him a lot of money every year.
+About 100 years after the **[[:en:key-terms:assyria|Assyrians]]** destroyed **[[:en:key-terms:israel|Israel]]**, **[[:en:key-terms:god|God]]** sent **[[:en:key-terms:nebuchadnezzar|Nebuchadnezzar]]**, **[[:en:key-terms:king|king]]** of the **[[:en:key-terms:babylon|Babylonians]]**, to attack **[[:en:key-terms:judah|Judah]]**. **[[:en:key-terms:babylon|Babylon]]** was a powerful **empire**. The king of Judah agreed **to be Nebuchadnezzar’s [[:en:key-terms:servant|servant]]** and pay him a lot of money every year.
 
 
 ===== Translation Notes: =====
 
 
   * **empire** - A country was called an "empire" when it was powerful enough to extent its authority over many other countries. 
-  * **issue** - explanation
+  * **to be Nebuchadnezzar's servant** - This could be translated as, “to govern Judah under Nebuchadnezzar's command.” 
   
 
 **[[:en:obs-training:frames:20-05|<<]] | [[:en:obs-training:20-the-exile-and-return|Up]] | [[:en:obs-training:frames:20-07|>>]]**
