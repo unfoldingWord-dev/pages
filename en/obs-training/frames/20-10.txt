@@ -18,4 +18,4 @@ Even though **the [[:en:key-terms:exile|Exile]] was [[:en:key-terms:punish|punis
 **[[:en:obs-training:frames:20-09|<<]] | [[:en:obs-training:20-the-exile-and-return|Up]] | [[:en:obs-training:frames:20-11|>>]]**
 
 
-~~DISCUSSION~~
+~~DISCUSSION:closed~~
