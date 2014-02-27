@@ -1,16 +1,30 @@
 ====== Copyrights & Licensing ======
 
-All content on Door43 is made available under a Creative Commons Attribution-ShareAlike 3.0 Unported License 
-([[http://creativecommons.org/licenses/by-sa/3.0|http://creativecommons.org/licenses/by-sa/3.0]]), which means
+
+All content on Door43 is made available under a Creative Commons Attribution-ShareAlike 3.0 Unported License ([[http://creativecommons.org/licenses/by-sa/3.0|http://creativecommons.org/licenses/by-sa/3.0]]), which means
+
 
 You are free:
+
 
     * **to Share**  — to copy, distribute and transmit the work
     * **to Remix**  — to adapt the work
     * to make commercial use of the work
 
+
 Under the following conditions:
+
 
 **Attribution**  — You must attribute the work as specified by the owner of the work. Attribution statements in derivative works should not in any way suggest endorsement of you or your use of this work.
 
+
 **ShareAlike**  — If you alter, transform, or build upon this work, you may distribute the resulting work only under the same or similar license to this one.
+
+
+===== Attribution of Door43 Contributors =====
+
+
+When importing a resource (e.g. a book, Bible study, etc.) into Door43, the original work must be attributed as specified by the open license under which it is available. For example, the artwork used in Open Bible Stories is available under an open license and is clearly attributed on the project's [[:en:obs|main page]].
+
+
+Contributors to projects on Door43 agree that **the attribution that occurs automatically in the revision history of every page is sufficient attribution for their work.**  That is, every contributor to a translation of Open Bible Stories into another language is listed as "the Door43 World Missions Community" or something to that effect. The individual contributions of each individual contributor are preserved in the revision history for that translation.
