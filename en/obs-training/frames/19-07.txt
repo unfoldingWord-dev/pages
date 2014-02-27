@@ -15,4 +15,4 @@ Then **[[:en:key-terms:elijah|Elijah]]** said to the **[[:en:key-terms:prophet|p
 **[[:en:obs-training:frames:19-06|<<]] | [[:en:obs-training:19-the-prophets|Up]] | [[:en:obs-training:frames:19-08|>>]]**
 
 
-~~DISCUSSION~~
+~~DISCUSSION:closed~~

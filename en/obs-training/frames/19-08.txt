@@ -17,4 +17,4 @@ Then the **[[:en:key-terms:prophet|prophets]]** of **[[:en:key-terms:baal|Baal]]
 **[[:en:obs-training:frames:19-07|<<]] | [[:en:obs-training:19-the-prophets|Up]] | [[:en:obs-training:frames:19-09|>>]]**
 
 
-~~DISCUSSION~~
+~~DISCUSSION:closed~~
