@@ -2,16 +2,19 @@
 
 {{:en:obs:obs-20-12.jpg?nolink&640x360}}
 
-The Persian Empire was strong but merciful to the people it conquered. Shortly after **[[:en:key-terms:cyrus|Cyrus]] came to power**, he gave an order that any **[[:en:key-terms:jew|Jew]]** who wanted to return to **[[:en:key-terms:judah|Judah]] could go**. He even gave them money to rebuild the **[[:en:key-terms:temple|Temple]]**! After seventy years in **[[:en:key-terms:exile|exile]]**, a small group of Jews returned to **[[:en:key-terms:jerusalem|Jerusalem]]**.
+The Persian Empire was strong but **[[:en:key-terms:mercy|merciful]]** to the people it conquered. Shortly after **[[:en:key-terms:cyrus|Cyrus]] came to power**, he gave an order that any **[[:en:key-terms:jew|Jew]]** who wanted to return to **[[:en:key-terms:judah|Judah]] could go**. He even gave them money to rebuild the **[[:en:key-terms:temple|Temple]]**! So after seventy years in **[[:en:key-terms:exile|exile]]**, a small group of Jews returned to **[[:en:key-terms:jerusalem|Jerusalem]]**.
 
-Shortly after **[[:en:key-terms:cyrus|Cyrus]] came to power**, he did something that had never been done before in history. He gave an order that any **[[:en:key-terms:jew|Jew]]** who wanted to return to **[[:en:key-terms:judah|Judah]] could go**. He even gave them money to rebuild the **[[:en:key-terms:temple|Temple]]**! After seventy years in **[[:en:key-terms:exile|exile]]**, a small group of Jews returned to **[[:en:key-terms:jerusalem|Jerusalem]]**.
+Shortly after **[[:en:key-terms:cyrus|Cyrus]] came to power**, he did something that had never been done before in history. He gave an order that any **[[:en:key-terms:jew|Jew]]** who wanted **to return to [[:en:key-terms:judah|Judah]] could go**. He even gave them money to rebuild the **[[:en:key-terms:temple|Temple]]**! After seventy years in **[[:en:key-terms:exile|exile]]**, a small group of Jews **returned to [[:en:key-terms:jerusalem|Jerusalem]]**.
 
 
 ===== Translation Notes: =====
 
 
-  * **came to power** - This means after he "became king..."
-  * **could go** - They could go back to Judah.
+  * **came to power** - That is, after he “became king of the Persians.” 
+  * **to return to Judah** -Since most of these Jews were the children and grandchildren of those who left Judah, they had never lived in Judah before. In some languages it might be necessary to say “to go to Judah.” 
+  * **could go** - That is, “could leave Persia and go back to Judah.”
+  * **returned** – That is, “went back.” For some languages it may be necessary to just say, “went” since most of these people had never been to Jerusalem. 
+  * **to Jerusalem** – That is, “to the city of Jerusalem in Judah.”
   
 
 **[[:en:obs-training:frames:20-11|<<]] | [[:en:obs-training:20-the-exile-and-return|Up]] | [[:en:obs-training:frames:20-13|>>]]**
