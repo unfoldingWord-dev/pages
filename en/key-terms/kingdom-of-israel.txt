@@ -14,10 +14,9 @@
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:en:obs-training:frames:xx-xx|[xx-xx]]]** Text 
-  ***[[:en:obs-training:frames:xx-xx|[xx-xx]]]** Text 
-  ***[[:en:obs-training:frames:xx-xx|[xx-xx]]]** Text 
-  ***[[:en:obs-training:frames:xx-xx|[xx-xx]]]** Text 
+  ***[[:en:obs-training:frames:18-10|[18-10]]]** The **kingdoms of Judah and Israel** became enemies and often fought against each other.  ***[[:en:obs-training:frames:xx-xx|[xx-xx]]]** Text 
+  ***[[:en:obs-training:frames:20-01|[20-01]]]** The **nations of Israel and Judah** both sinned against God.
+  ***[[:en:obs-training:frames:20-05|[20-05]]]** The people in the kingdom of Judah saw how God had punished the **kingdom of Israel** for not believing and obeying him.
   ***[[:en:obs-training:frames:xx-xx|[xx-xx]]]** Text 
   ***[[:en:obs-training:frames:xx-xx|[xx-xx]]]** Text 
 
