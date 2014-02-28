@@ -6,20 +6,23 @@
 
 ===== Facts: =====
 
-  * To 
+  * After the death of Solomon, the Israelites split into two kingdoms
+  * The kingdom of Israel was northern kingdom, composed of ten of the tribes of Israel.
+  * All of the kings of the kingdom of Israel were evil. God eventually sent the Assyrians to carry them away into captivity.
+  * The Assyrians brought foreigners to live with the few remaining people of the kingdom of Israel. They intermarried and their descendants became the Samaritan people.
 
 
-[See also: **[[:en:key-terms:kingdom|kingdom]]**, **[[:en:key-terms:Israel|Israel]]**, **[[:en:key-terms:kingdom-of-judah|Kingdom of Judah]]**]
+[See also: **[[:en:key-terms:kingdom|kingdom]]**, **[[:en:key-terms:Israel|Israel]]**, **[[:en:key-terms:kingdom-of-judah|kingdom of Judah]]**, **[[:en:key-terms:samaria|Samaritan]]**]
 
 
 ===== Examples from the Bible stories: =====
 
+  ***[[:en:obs-training:frames:18-08|[18-08]]]** The other ten tribes of the nation of Israel that rebelled against Rehoboam made a man named Jeroboam their king. They set up their kingdom in the northern part of the land and were called the **kingdom of Israel**.
   ***[[:en:obs-training:frames:18-10|[18-10]]]** The **kingdoms of Judah and Israel** became enemies and often fought against each other.
-  ***[[:en:obs-training:frames:xx-xx|[xx-xx]]]** Text 
-  ***[[:en:obs-training:frames:20-01|[20-01]]]** The **nations of Israel and Judah** both sinned against God.
-  ***[[:en:obs-training:frames:20-05|[20-05]]]** The people in the kingdom of Judah saw how God had punished the **kingdom of Israel** for not believing and obeying him.
-  ***[[:en:obs-training:frames:xx-xx|[xx-xx]]]** Text 
-  ***[[:en:obs-training:frames:xx-xx|[xx-xx]]]** Text 
+  ***[[:en:obs-training:frames:18-11|[18-11]]]** In the **kingdom of Israel**, all the kings were evil.
+  ***[[:en:obs-training:frames:20-01|[20-01]]]** The **kingdoms of Israel** and Judah both sinned against God.
+  ***[[:en:obs-training:frames:20-02|[20-02]]]** So God punished both kingdoms by allowing their enemies to destroy them. Israel was destroyed by the Assyrian Empire, a powerful, cruel nation. The Assyrians killed many people in the **kingdom of Israel**, took away everything of value, and burned much of the country.
+  ***[[:en:obs-training:frames:20-04|[20-04]]]** Then the Assyrians brought foreigners to live in the **kingdom of Israel**. The foreigners rebuilt the destroyed cities and married the Israelites who were left there. Their descendants were called Samaritans.
 
 
 ~~DISCUSSION~~
