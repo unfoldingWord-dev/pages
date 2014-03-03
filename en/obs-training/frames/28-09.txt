@@ -2,15 +2,13 @@
 
 {{:en:obs:obs-28-09.jpg?nolink&640x360}}
 
-**[[:en:key-terms:peter|Peter]]** said to **[[:en:key-terms:jesus|Jesus]]**, “We have left everything and followed you. What will be our reward?”
+**[[:en:key-terms:peter|Peter]]** said to **[[:en:key-terms:jesus|Jesus]]**, “We have **left everything** and followed you. **What will be our reward?**”
 
 
 ===== Translation Notes: =====
 
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
+  * **left everything** - That is, "given up everything" or, "left everything behind."
+  * **What will be our reward?** - Another way to say this is, "What reward will we receive" or, "How will we be rewarded?"
   
 
 **[[:en:obs-training:frames:28-08|<<]] | [[:en:obs-training:28-the-rich-young-ruler|Up]] | [[:en:obs-training:frames:28-10|>>]]**
