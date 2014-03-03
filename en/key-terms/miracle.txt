@@ -1,18 +1,21 @@
 ====== miracle ======
 
 
-==== (term, other) ====
+==== (miracle, sign) ====
 
 
 ===== Definitions: =====
 
-  * To 
+  * Miracles are extraordinary things that God does with great power.
+  * When we say that a person did a miracle, we mean that the person prayed or said that something would happen, and God made it happen.
+  * Often miracles are called signs because they show us something about God or the person God works through.
 
 
 [See also: **[[:en:key-terms:term|term]]**]
 
 
 ===== Examples from the Bible stories: =====
+  ***[[:en:obs-training:frames:16-08|[16-08]]]**Gideon asked God for two **signs** so he could be sure that God would use him to save Israel.
 
   ***[[:en:obs-training:frames:19-14|[19-14]]]** God did many **miracles** through Elisha. 
   ***[[:en:obs-training:frames:37-10|[37-10]]]** Many of the Jews believed in Jesus because of this **miracle**.
