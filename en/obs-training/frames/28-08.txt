@@ -2,15 +2,13 @@
 
 {{:en:obs:obs-28-08.jpg?nolink&640x360}}
 
-**[[:en:key-terms:jesus|Jesus]]** looked at them and said, “With people this is impossible, but with **[[:en:key-terms:god|God]]**, all things are possible.”
+**[[:en:key-terms:jesus|Jesus]]** looked at them and said, “**With people this is impossible**, but **with [[:en:key-terms:god|God]], all things are possible**.”
 
 
 ===== Translation Notes: =====
 
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
+  * **With people this is impossible** - That is, "It is not possible for people to do this."
+  * **with God, all things are possible** - This could also be translated as, "God is able to do anything" or, "God is able to do impossible things."
   
 
 **[[:en:obs-training:frames:28-07|<<]] | [[:en:obs-training:28-the-rich-young-ruler|Up]] | [[:en:obs-training:frames:28-09|>>]]**
