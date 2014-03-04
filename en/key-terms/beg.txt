@@ -1,7 +1,7 @@
 ====== beg ======
 
 
-==== (beg, begged, begging, beggar) ====
+==== (to beg, beggar) ====
 
 
 ===== Definitions: =====
@@ -21,4 +21,4 @@
   ***[[:en:obs-training:frames:35-11|[35-11]]]** His father came out and **begged** him to join the party, but he refused.”
   ***[[:en:obs-training:frames:44-01|[44-01]]]** One day Peter and John went to the Temple. On their way, they saw a crippled man **begging** for money. 
 
-~~DISCUSSION~~
+~~DISCUSSION:closed~~
