@@ -1,9 +1,6 @@
 ====== Tent of Meeting ======
 
 
-==== (term, other) ====
-
-
 ===== Definitions: =====
 
 When God gave his laws at Mount Sinai, he told the Israelites to make the Tent of Meeting. This was the holy place where he would meet with them. As they wandered through the wilderness, they would take it with them and set it up whenever God told them to do so.
@@ -18,7 +15,7 @@ When God gave his laws at Mount Sinai, he told the Israelites to make the Tent o
   * The first room was very holy, so only the priests could go into it.
   * The second room was the most holy place, so only the high priest could go into it.
 
-[See also: **[[:en:key-terms:priest|priest]]**, **[[:en:key-terms:high priest|high priest]]**, **[[:en:key-terms:sacrifice|sacrifice]]**]
+[See also: **[[:en:key-terms:priest|priest]]**, **[[:en:key-terms:priest-high|high priest]]**, **[[:en:key-terms:sacrifice|sacrifice]]**]
 
 ===== Examples from the Bible stories: =====
 
