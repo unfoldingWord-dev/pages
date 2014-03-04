@@ -6,9 +6,9 @@
 
 ===== Facts: =====
 
-Gibeon was a city and a region in the land of Canaan.
+Gibeon was a city and a region in the land of Canaan where the Gibeonites lived.
 
-  * “Gibeonite” means “someone from the people group called Gibeon.”
+  * “Gibeonite” means “someone from the region called Gibeon.”
   * The Gibeonites had heard about how the Israelites had destroyed Jericho, and they were afraid. So the Gibeonites came to the leaders of Israel and pretended to be people from a far-away country. 
   *  Israel made a treaty with the Gibeonites and did not destroy them.
 
@@ -16,9 +16,9 @@ Gibeon was a city and a region in the land of Canaan.
 ===== Examples from the Bible stories: =====
 
 
-  ***[[:en:obs-training:frames:15-06|[15-06]]]** But the Canaanite people group of **Gibeon** lied to Joshua and said they were from far away.  
+  ***[[:en:obs-training:frames:15-06|[15-06]]]** But one of the Canaanite people groups, called the **Gibeonites**, lied to Joshua and said they were from a place far from Canaan.  
   ***[[:en:obs-training:frames:15-07|[15-07]]]** When the other people groups in Canaan heard that the **Gibeonites** had made peace with the Israelites, they joined their armies and attacked **Gibeon**. 
   ***[[:en:obs-training:frames:15-08|[15-08]]]** Joshua was angry that he had been tricked, but he gathered the Israelite army, and they marched all night to reach the **Gibeonites**. 
 
 
-~~DISCUSSION~~
+~~DISCUSSION:closed~~
