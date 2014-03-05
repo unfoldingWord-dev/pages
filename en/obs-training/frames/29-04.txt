@@ -2,15 +2,13 @@
 
 {{:en:obs:obs-29-04.jpg?nolink&640x360}}
 
-“The **[[:en:key-terms:servant|servant]]** fell on his knees before the **[[:en:key-terms:king|king]]** and said, ‘Please be patient with me, and I will pay everything back.’ The king felt pity for the servant and canceled all of his debt.”
+“The **[[:en:key-terms:servant|servant]]** fell on his knees before the **[[:en:key-terms:king|king]]** and said, ‘Please be patient with me, and **I will pay everything back**.’ The king felt pity for the servant and **canceled all of his debt**.”
 
 
 ===== Translation Notes: =====
 
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
+  * **I will pay everything back** - That is, "I will fully repay the debt to you."
+  * **canceled all of his debt** - This could be translated as, "said that the servant did not need to pay the debt."
   
 
 **[[:en:obs-training:frames:29-03|<<]] | [[:en:obs-training:29-the-story-of-the-unmerciful-servant|Up]] | [[:en:obs-training:frames:29-05|>>]]**

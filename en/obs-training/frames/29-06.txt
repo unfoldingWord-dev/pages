@@ -2,15 +2,14 @@
 
 {{:en:obs:obs-29-06.jpg?nolink&640x360}}
 
-“The man fell on his knees and said, ‘Please be patient with me, and I will pay everything back.’ But the **[[:en:key-terms:servant|servant]]** refused and threw the man in prison until he could pay the debt.”
+“The man fell on his knees and said, ‘Please be patient with me, and **I will pay everything back**.’ But the **[[:en:key-terms:servant|servant]]** refused and **threw the man in prison** until he could pay the debt.”
 
 
 ===== Translation Notes: =====
 
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
+  * **I will pay everything back** - That is, "I will repay you the full amount that I owe you."
+  * **threw the man in prison** - This could also be translated as, "had the man put into prison."
+
   
 
 **[[:en:obs-training:frames:29-05|<<]] | [[:en:obs-training:29-the-story-of-the-unmerciful-servant|Up]] | [[:en:obs-training:frames:29-07|>>]]**
