@@ -2,15 +2,14 @@
 
 {{:en:obs:obs-31-07.jpg?nolink&640x360}}
 
-Then **[[:en:key-terms:peter|Peter]]** became afraid and began to sink. He cried out, “**[[:en:key-terms:lord|Master]]** , **[[:en:key-terms:save|save]]** me!” **[[:en:key-terms:jesus|Jesus]]** reached out right away and grabbed him. Then he said to Peter, “O you of little **[[:en:key-terms:faith|faith]]**, why did you doubt?”
+Then **[[:en:key-terms:peter|Peter]]** became afraid and began to sink. He cried out, “**[[:en:key-terms:lord|Master]]** , **[[:en:key-terms:save|save]]** me!” **[[:en:key-terms:jesus|Jesus]]** reached out right away and grabbed him. Then he said to Peter, “**O you of little [[:en:key-terms:faith|faith]], why did you doubt**?”
 
 
 ===== Translation Notes: =====
 
+  * **O you of little faith, why did you doubt?** - This may also be translated as, "You have very little faith! Why did you not believe?"
   * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
+
   
 
 **[[:en:obs-training:frames:31-06|<<]] | [[:en:obs-training:31-jesus-walks-on-water|Up]] | [[:en:obs-training:frames:31-08|>>]]**
