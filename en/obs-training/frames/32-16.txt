@@ -2,15 +2,14 @@
 
 {{:en:obs:obs-32-16.jpg?nolink&640x360}}
 
-The woman fell on her knees before **[[:en:key-terms:jesus|Jesus]]**, shaking and very afraid. Then she told the whole **[[:en:key-terms:true|truth]]**. Jesus said to her, “Your **[[:en:key-terms:faith|faith]]** has **[[:en:key-terms:heal|healed]]** you. Go in **[[:en:key-terms:peace|peace]]**.”
+The woman fell on her knees before **[[:en:key-terms:jesus|Jesus]]**, **shaking and very afraid**. Then she told the whole **[[:en:key-terms:true|truth]]**. Jesus said to her, “**Your [[:en:key-terms:faith|faith]] has [[:en:key-terms:heal|healed]] you**. Go in **[[:en:key-terms:peace|peace]]**.”
 
 
 ===== Translation Notes: =====
 
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
+  * **shaking and very afraid** - That is, "shaking with fear."
+  * **Your faith has healed you.** - This could also be translated as, "You have been healed because of your faith."
+  * **Go in peace.** - I'm thinking this will be understood.
   
 
 **[[:en:obs-training:frames:32-15|<<]] | [[:en:obs-training:32-jesus-heals-a-demon-possessed-man|Up]] | [[:en:obs-training:frames:33-01|>>]]**
