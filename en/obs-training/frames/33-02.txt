@@ -2,15 +2,13 @@
 
 {{:en:obs:obs-33-02.jpg?nolink&640x360}}
 
-**[[:en:key-terms:jesus|Jesus]]** told this story. “A farmer went out to plant some grain. As he was spreading the seeds by hand, some seeds fell on the path, and the birds came and ate it all.”
+**[[:en:key-terms:jesus|Jesus]]** told this story. “A farmer went out to **plant some grain**. As he was **spreading the seeds by hand**, some seeds fell on the path, and the birds came and ate it all.”
 
 
 ===== Translation Notes: =====
 
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
+  * **plant some grain** - This may also be translated as, "sow some grain."
+  * **spreading the seeds by hand** - That is, "throwing the seeds on the soil."
   
 
 **[[:en:obs-training:frames:33-01|<<]] | [[:en:obs-training:33-the-story-of-the-farmer|Up]] | [[:en:obs-training:frames:33-03|>>]]**

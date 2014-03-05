@@ -2,15 +2,13 @@
 
 {{:en:obs:obs-33-01.jpg?nolink&640x360}}
 
-One day, **[[:en:key-terms:jesus|Jesus]]** was down by the **[[:en:key-terms:galilee-sea|sea]]**, teaching great crowds of people. The crowd got so big that Jesus got into a boat and began speaking from there.
+One day, **[[:en:key-terms:jesus|Jesus]]** was **down by the [[:en:key-terms:galilee-sea|sea]]**, teaching **great crowds** of people. The crowd got so big that Jesus got into a boat and began speaking from there.
 
 
 ===== Translation Notes: =====
 
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
+  * **down by the sea** - That is, "along the sea shore."
+  * **great crowds** - That is, "very large crowds."
   
 
 **[[:en:obs-training:frames:32-16|<<]] | [[:en:obs-training:33-the-story-of-the-farmer|Up]] | [[:en:obs-training:frames:33-02|>>]]**
