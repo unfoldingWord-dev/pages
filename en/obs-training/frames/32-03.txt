@@ -2,15 +2,13 @@
 
 {{:en:obs:obs-32-03.jpg?nolink&640x360}}
 
-This man was so strong that nobody could hold him down. People had even used chains to lock him up, but he kept breaking them.
+This man was so strong that nobody could hold him down. People had even used chains **to lock him up**, but he **kept breaking them**.
 
 
 ===== Translation Notes: =====
 
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
+  * **to lock him up** - That is, "to tie him up" or, "to restrain him."
+  * **kept breaking them** - Some languages may need to add, "kept breaking the chains."
   
 
 **[[:en:obs-training:frames:32-02|<<]] | [[:en:obs-training:32-jesus-heals-a-demon-possessed-man|Up]] | [[:en:obs-training:frames:32-04|>>]]**
