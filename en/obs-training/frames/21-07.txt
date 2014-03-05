@@ -2,7 +2,7 @@
 
 {{:en:obs:obs-21-07.jpg?nolink&640x360}}
 
-An **[[:en:key-terms:israel|Israelite]]**  **[[:en:key-terms:priest|priest]]** was someone who made **[[:en:key-terms:sacrifice|sacrifices]]** to **[[:en:key-terms:god|God]] on behalf of** the people **as a substitute for the punishment of their [[:en:key-terms:sin|sins]]**. Priests also **[[:en:key-terms:pray|prayed]]** to God for the people. The **[[:en:key-terms:messiah|Messiah]]** who would come would be the perfect **[[:en:key-terms:priest-high|high priest]]**  who would offer himself as a **perfect sacrifice** to God.
+An **[[:en:key-terms:israel|Israelite]]**  **[[:en:key-terms:priest|priest]]** was someone who made **[[:en:key-terms:sacrifice|sacrifices]]** to **[[:en:key-terms:god|God]] on behalf of** the people **as a substitute for the [[:en:key-terms:punish|punishment]] of their [[:en:key-terms:sin|sins]]**. Priests also **[[:en:key-terms:pray|prayed]]** to God for the people. The **[[:en:key-terms:messiah|Messiah]]** who would come would be the **perfect [[:en:key-terms:priest-high|high priest]]**  who would **offer himself** as a **perfect sacrifice** to God.
 
 
 ===== Translation Notes: =====
@@ -10,7 +10,9 @@ An **[[:en:key-terms:israel|Israelite]]**  **[[:en:key-terms:priest|priest]]** w
 
   * **on behalf of** - This may be translated as, "for the benefit of" or, "in the place of."
   * **as a substitute for the punishment of their sins** - God allowed people to bring animals to sacrifice for their sin as a reminder of the punishment that they deserved and their dependence on God to remove their sin. God accepted these sacrifices as a temporary covering for sin and did not punish the people for it. The priests needed to make these sacrifices regularly, because the people kept sinning. 
-  * **perfect sacrifice** - He will offer a sacrifice without any imperfection or lack.
+  * **perfect high priest** - Unlike the other high priests, the Messiah would never sin, and he would permanently take away all the sins of the people. 
+  * **offer himself** – That is, “allow himself to be killed.”
+  * **perfect sacrifice** - That is, “a sacrifice that has no fault or imperfection.” 
   
 
 **[[:en:obs-training:frames:21-06|<<]] | [[:en:obs-training:21-god-promises-the-messiah|Up]] | [[:en:obs-training:frames:21-08|>>]]**
