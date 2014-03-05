@@ -2,15 +2,13 @@
 
 {{:en:obs:obs-30-03.jpg?nolink&640x360}}
 
-The crowd had over 5,000 men in it, not counting the women and children. **[[:en:key-terms:jesus|Jesus]]** felt great kindness towards the people. To Jesus, these people were like **[[:en:key-terms:sheep|sheep]]** without a **[[:en:key-terms:shepherd|shepherd]]**. So he taught them and **[[:en:key-terms:heal|healed]]** their sick.
+The crowd had over 5,000 men in it, **not counting** the women and children. **[[:en:key-terms:jesus|Jesus]]** felt great kindness towards the people. To Jesus, these people were like **[[:en:key-terms:sheep|sheep]] without a [[:en:key-terms:shepherd|shepherd]]**. So he taught them and **[[:en:key-terms:heal|healed]]** their sick.
 
 
 ===== Translation Notes: =====
 
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
+  * **not counting** - That is, "in addition to."
+  * **sheep without a shepherd** - This means that they were vulnerable, but without anyone to care for and protect them.
   
 
 **[[:en:obs-training:frames:30-02|<<]] | [[:en:obs-training:30-jesus-feeds-five-thousand-people|Up]] | [[:en:obs-training:frames:30-04|>>]]**

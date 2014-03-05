@@ -2,14 +2,12 @@
 
 {{:en:obs:obs-30-05.jpg?nolink&640x360}}
 
-But **[[:en:key-terms:jesus|Jesus]]** said to them, “You give them something to eat!” The **[[:en:key-terms:disciple|disciples]]** responded, “How can we do that? We only have five loaves of bread and two fish.”
+But **[[:en:key-terms:jesus|Jesus]] said to them**, “You give them something to eat!” The **[[:en:key-terms:disciple|disciples]]** responded, “How can we do that? We only have five loaves of bread and two fish.”
 
 
 ===== Translation Notes: =====
 
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
+  * **Jesus said to them** - Some languages may need to add "Jesus said to the disciples."
   * **issue** - explanation
   
 
