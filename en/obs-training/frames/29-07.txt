@@ -2,15 +2,14 @@
 
 {{:en:obs:obs-29-07.jpg?nolink&640x360}}
 
-“Some other **[[:en:key-terms:servant|servants]]** saw what had happened and were greatly disturbed. They went to the **[[:en:key-terms:king|king]]** and told him everything.”
+“Some other **[[:en:key-terms:servant|servants]]** saw **what had happened** and were greatly disturbed. They went to the **[[:en:key-terms:king|king]]** and told him everything.”
 
 
 ===== Translation Notes: =====
 
+  * **what had happened** - That is, "that the servant was unwilling to forgive another man."
   * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
+
   
 
 **[[:en:obs-training:frames:29-06|<<]] | [[:en:obs-training:29-the-story-of-the-unmerciful-servant|Up]] | [[:en:obs-training:frames:29-08|>>]]**

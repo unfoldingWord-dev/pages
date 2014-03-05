@@ -2,15 +2,14 @@
 
 {{:en:obs:obs-29-08.jpg?nolink&640x360}}
 
-“The **[[:en:key-terms:king|king]]** called the **[[:en:key-terms:servant|servant]]** and said, ‘You wicked servant! I forgave your debt because you **[[:en:key-terms:beg|begged]]** me. You should have done the same.’ In his anger the king threw the wicked servant into prison until he could pay back all of his debt.”
+“The **[[:en:key-terms:king|king]]** called the **[[:en:key-terms:servant|servant]]** and said, ‘You wicked servant! I forgave your debt because you **[[:en:key-terms:beg|begged]]** me. **You should have done the same**.’ **In his anger the king** **threw the wicked servant into prison** until he could pay back all of his debt.”
 
 
 ===== Translation Notes: =====
 
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
+  * **You should have done the same** - That is, "You should have forgiven others in the same way."
+  * **In his anger the king** - This could be translated as, "The king was angry and ..."
+  * **threw the wicked servant into prison** - That is, "he commanded his guards to put the servant in prison."
   
 
 **[[:en:obs-training:frames:29-07|<<]] | [[:en:obs-training:29-the-story-of-the-unmerciful-servant|Up]] | [[:en:obs-training:frames:29-09|>>]]**
