@@ -2,14 +2,12 @@
 
 {{:en:obs:obs-32-11.jpg?nolink&640x360}}
 
-But **[[:en:key-terms:jesus|Jesus]]** said to him, “Go home and tell your friends and family how much **[[:en:key-terms:god|God]]** has done for you and how he has had **[[:en:key-terms:mercy|mercy]]** on you.”
+But **[[:en:key-terms:jesus|Jesus]]** said to him, “Go home and tell your friends and family how much **[[:en:key-terms:god|God]]** has done for you and how **he has had [[:en:key-terms:mercy|mercy]] on you**.”
 
 
 ===== Translation Notes: =====
 
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
+  * **he has had mercy on you** - That is, "he has shown mercy to you" or, "he has been merciful to you."
   * **issue** - explanation
   
 
