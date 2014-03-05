@@ -2,15 +2,14 @@
 
 {{:en:obs:obs-29-01.jpg?nolink&640x360}}
 
-One day **[[:en:key-terms:peter|Peter]]** said to **[[:en:key-terms:jesus|Jesus]]**, “**[[:en:key-terms:lord|Master]]**, how many times should I **[[:en:key-terms:forgive|forgive]]** my brother when he **[[:en:key-terms:sin|sins]]** against me? Up to seven times?” Jesus said, “Not seven times, but seventy times seven!” By this, Jesus meant that we should always forgive. Jesus told this story.
+One day **[[:en:key-terms:peter|Peter]]** said to **[[:en:key-terms:jesus|Jesus]]**, “**[[:en:key-terms:lord|Master]]**, how many times should I **[[:en:key-terms:forgive|forgive]]** my brother when he **[[:en:key-terms:sin|sins]]** against me? Up to seven times?” Jesus said, “**Not seven times, but seventy times seven!**” **By this, Jesus meant** that we should always forgive. Jesus told **this story**.
 
 
 ===== Translation Notes: =====
 
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
+  * **Not seven times, but seventy times seven!** - This could be translated as, "seven times is not enough; you should forgive him seventy times more than that!"
+  * **By this, Jesus meant ...** - The phrase, "seventy times seven" is a figure of speech that means, "an unlimited number of times."
+  * **this story** - That is, "the following story."
   
 
 **[[:en:obs-training:frames:28-10|<<]] | [[:en:obs-training:29-the-story-of-the-unmerciful-servant|Up]] | [[:en:obs-training:frames:29-02|>>]]**

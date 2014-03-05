@@ -2,15 +2,13 @@
 
 {{:en:obs:obs-29-03.jpg?nolink&640x360}}
 
-“Since the **[[:en:key-terms:servant|servant]]** could not repay the debt, the **[[:en:key-terms:king|king]]** said, ‘Sell this man and his family as **[[:en:key-terms:servant|slaves]]** to make payment on his debt.’”
+“Since the **[[:en:key-terms:servant|servant]]** **could not repay** the debt, the **[[:en:key-terms:king|king]]** said, ‘Sell this man and his family **as [[:en:key-terms:servant|slaves]] to make payment on his debt**.’”
 
 
 ===== Translation Notes: =====
 
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
+  * **could not repay** - That is, "were not able to repay" or, "could not possibly pay back."
+  * **as slaves to make payment on his debt** - This could be translated as, "into slavery, and apply the money from that payment towards his debt."
   
 
 **[[:en:obs-training:frames:29-02|<<]] | [[:en:obs-training:29-the-story-of-the-unmerciful-servant|Up]] | [[:en:obs-training:frames:29-04|>>]]**

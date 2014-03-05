@@ -2,15 +2,13 @@
 
 {{:en:obs:obs-29-02.jpg?nolink&640x360}}
 
-“The **[[:en:key-terms:kingdom-of-god|Kingdom of God]]** is like a **[[:en:key-terms:king|king]]** who wanted to settle accounts with his **[[:en:key-terms:servant|servants]]**. One of his servants owed a huge debt worth 200,000 years’ wages.”
+“**The [[:en:key-terms:kingdom-of-god|Kingdom of God]] is like** a **[[:en:key-terms:king|king]]** who wanted to **settle accounts** with his **[[:en:key-terms:servant|servants]]**. One of his servants owed a huge debt worth 200,000 years’ wages.”
 
 
 ===== Translation Notes: =====
 
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
+  * **The Kingdom of God is like** - That is, "The Kingdom is God can be compared to."
+  * **settle accounts** - This could also be translated as, "collect outstanding debts that were owed to him."
   
 
 **[[:en:obs-training:frames:29-01|<<]] | [[:en:obs-training:29-the-story-of-the-unmerciful-servant|Up]] | [[:en:obs-training:frames:29-03|>>]]**
