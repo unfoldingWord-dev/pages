@@ -2,13 +2,15 @@
 
 {{:en:obs:obs-22-02.jpg?nolink&640x360}}
 
-The **[[:en:key-terms:angel|angel]]** said to **[[:en:key-terms:zechariah-nt|Zechariah]]**, “Your wife will have a son. You will name him **[[:en:key-terms:john-baptist|John]]**. He will be **the great [[:en:key-terms:prophet|prophet]]** that **comes before the [[:en:key-terms:messiah|Messiah]]**!” Zechariah responded, “My wife and I are too old to have children! How will I know this will happen?”
+**The [[:en:key-terms:angel|angel]]** said to **[[:en:key-terms:zechariah-nt|Zechariah]]**, “Your wife will have a son. You will name him **[[:en:key-terms:john-baptist|John]]**. He will be **the great [[:en:key-terms:prophet|prophet]]** that **comes before the [[:en:key-terms:messiah|Messiah]]**!” Zechariah responded, “My wife and I are too old to have children! How will I know this will happen?”
 
 
 ===== Translation Notes: =====
 
-  * **the great prophet** - The prophet Malachi had predicted that an exceptional prophet would come--greater than any prophet who had come before him. The angel was saying that John would be that prophet.
+  * **The angel** - This refers to the angel that came to Zechariah on the previous page.
+  * **the great prophet** - Malachi had prophesied that a very important prophet would come who would announce the Messiah's coming. The angel was saying that John would be that prophet. 
   * **comes before the Messiah** - The prophet would appear and prophesy before the arrival of the Messiah.
+  * **How will I know this will happen?** - Another way to translate this would be, “How can I be sure that this will truly happen?” 
   
 
 **[[:en:obs-training:frames:22-01|<<]] | [[:en:obs-training:22-the-birth-of-john|Up]] | [[:en:obs-training:frames:22-03|>>]]**
