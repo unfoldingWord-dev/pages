@@ -4,7 +4,7 @@
 ==== (term, other) ====
 
 
-===== Definitions Facts: =====
+===== Facts: =====
 
   * The father of Jesus
   * A descendant of King David
