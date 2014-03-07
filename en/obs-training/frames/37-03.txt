@@ -2,15 +2,14 @@
 
 {{:en:obs:obs-37-03.jpg?nolink&640x360}}
 
-**[[:en:key-terms:jesus|Jesus']]** **[[:en:key-terms:disciple|disciples]]** replied, “**[[:en:key-terms:lord|Master]]**, if **[[:en:key-terms:lazarus|Lazarus]]** is sleeping, he will get better on his own.” Then Jesus told them plainly, “Lazarus is **[[:en:key-terms:death|dead]]**. I am glad we were not there when he died, for now you will see amazing things so that you may **[[:en:key-terms:believe|believe]]**.”
+**[[:en:key-terms:jesus|Jesus']]** **[[:en:key-terms:disciple|disciples]]** replied, “**[[:en:key-terms:lord|Master]]**, if **[[:en:key-terms:lazarus|Lazarus]]** is sleeping, **he will get better on his own**.” Then Jesus told them plainly, “**Lazarus is [[:en:key-terms:death|dead]]**. **I am glad we were not there when he died**, for now you will see **amazing things** so that you may **[[:en:key-terms:believe|believe]]**.”
 
 
 ===== Translation Notes: =====
 
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
+  * **he will get better on his own** - The disciples intended this in the sense of, "there is no reason for us to go to him now, since he is recovering."
+  * **I am glad we were not there when he died** - If possible, do not translate "glad" with a word that means "happy." It was a sad occasion, but Jesus knew that the final result of Lazarus' death would make his suffering worthwhile.
+  * **amazing things** - That is, "supernatural things" or, "miracles."
   
 
 **[[:en:obs-training:frames:37-02|<<]] | [[:en:obs-training:37-jesus-raises-lazarus-from-the-dead|Up]] | [[:en:obs-training:frames:37-04|>>]]**
