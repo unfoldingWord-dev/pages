@@ -2,15 +2,15 @@
 
 {{:en:obs:obs-33-07.jpg?nolink&640x360}}
 
-“The seeds on the rocky soil are like people who hear **[[:en:key-terms:word-of-god|God’s Word]]** and accept it with **[[:en:key-terms:joy|joy]]**. But in times of hardship or **[[:en:key-terms:persecute|persecution]]**, they fall away because they have no maturity.”
+“The seeds on the rocky soil are like people who hear **[[:en:key-terms:word-of-god|God’s Word]]** and **accept it with [[:en:key-terms:joy|joy]]**. But **in times of hardship or [[:en:key-terms:persecute|persecution]]**, they **fall away** because **they have no maturity**.”
 
 
 ===== Translation Notes: =====
 
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
+  * **accept it with joy** - That is, "accept it joyfully."
+  * **in times of hardship or persecution** - This could also be translated as, "when they face hardship or persecution."
+  * **fall away** - That is, "no longer follow" or, "no longer believe."
+  * **they have no maturity** - That is, "they are not mature."
   
 
 **[[:en:obs-training:frames:33-06|<<]] | [[:en:obs-training:33-the-story-of-the-farmer|Up]] | [[:en:obs-training:frames:33-08|>>]]**
