@@ -2,15 +2,14 @@
 
 {{:en:obs:obs-36-04.jpg?nolink&640x360}}
 
-As **[[:en:key-terms:moses|Moses]]** and **[[:en:key-terms:elijah|Elijah]]** were talking with **[[:en:key-terms:jesus|Jesus]]**, **[[:en:key-terms:peter|Peter]]** said, “Jesus, it is good for us to be here. Let us make three tents, one for you, one for Moses, and one for Elijah.” Peter did not know what he was saying.
+As **[[:en:key-terms:moses|Moses]]** and **[[:en:key-terms:elijah|Elijah]]** were talking with **[[:en:key-terms:jesus|Jesus]]**, **[[:en:key-terms:peter|Peter]]** said, “Jesus, **it is good for us to be here**. Let us make **three tents**, one for you, one for Moses, and one for Elijah.” Peter **did not know what he was saying**.
 
 
 ===== Translation Notes: =====
 
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
+  * **it is good for us to be here** - That is, "it is a privilege for us to see this happen."
+  * **three tents** - This refers to small, individual, temporary shelters that were set up during an annual Jewish holiday. 
+  * **did not know what he was saying** - That is, "did not understand what he was talking about."
   
 
 **[[:en:obs-training:frames:36-03|<<]] | [[:en:obs-training:36-the-transfiguration|Up]] | [[:en:obs-training:frames:36-05|>>]]**
