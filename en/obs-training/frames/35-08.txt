@@ -2,14 +2,12 @@
 
 {{:en:obs:obs-35-08.jpg?nolink&640x360}}
 
-“The **[[:en:key-terms:son|son]]** said, ‘Father, I have **[[:en:key-terms:sin|sinned]]** against **[[:en:key-terms:god|God]]** and against you. I am not worthy to be your son.’”
+“The **[[:en:key-terms:son|son]]** said, ‘Father, I have **[[:en:key-terms:sin|sinned]] against [[:en:key-terms:god|God]] and against you**. I am not worthy to be your son.’”
 
 
 ===== Translation Notes: =====
 
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
+  * **sinned against God and against you** - That is, "sinned against God and also sinned against you."
   * **issue** - explanation
   
 
