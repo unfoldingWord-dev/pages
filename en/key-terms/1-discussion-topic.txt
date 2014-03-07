@@ -1,9 +1,33 @@
-===== Discussion Topic 1 =====
+===== Discussion Topic 1: Capitalization =====
 
-=== Capitalization of Terms ===
+**We assume** there is agreement on capitalizing the following terms:
 
+  * Proper names of people (Aaron, Caleb, Moses, etc.)
+  * Proper names of places (Babylon, Bethlehem, Sea of Galilee, Nile River, etc.)
+  * Names of God (God, Holy Spirit, Jesus, Yahweh, etc.)
 
+**We have decided** not to capitalize any divine pronouns, even when they refer to God the Father. This is in keeping with the style of newer English translations. It should also be less confusing when translated into other languages that have no tradition of capitalizing these pronouns.
 
+**We are debating** what to do about special biblical terms. Within the OBS stories, these include:
+
+  * Christian
+  * New Covenant
+  * Good News
+  * Gospel
+  * Word of God
+  * Exile
+  * King of the Jews
+  * Kingdom of God
+  * Kingdom of Israel
+  * Kingdom of Judah
+  * Promised Land
+  * Sabbath
+  * Teacher (applied to Jesus)
+  * Ten Commandments
+  * Tent of Meeting
+  * Temple
+
+The normal English convention within the Christian world has been to capitalize these. Do you think we should follow that practice for the OBS stories? Why or why not? For which terms? Please post your thoughts in the Discussion area below.
 
 
 ~~DISCUSSION~~
