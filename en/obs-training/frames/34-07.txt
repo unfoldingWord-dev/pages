@@ -2,15 +2,13 @@
 
 {{:en:obs:obs-34-07.jpg?nolink&640x360}}
 
-“The **[[:en:key-terms:jewish-leaders|religious leader]]** prayed like this, ‘Thank you **[[:en:key-terms:god|God]]** that I am not like other men—robbers, unjust men, **[[:en:key-terms:adultery|adulterers]]**, or even like that **[[:en:key-terms:tax-collector|tax collector]]**.’”
+“The **[[:en:key-terms:jewish-leaders|religious leader]]** prayed like this, ‘Thank you **[[:en:key-terms:god|God]]** that **I am not like** other men—robbers, **unjust men**, **[[:en:key-terms:adultery|adulterers]]**, or even like that **[[:en:key-terms:tax-collector|tax collector]]**.’”
 
 
 ===== Translation Notes: =====
 
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
+  * **I am not like** - That is, "I am better than."
+  * **unjust men** - That is, "men who are not just."
   
 
 **[[:en:obs-training:frames:34-06|<<]] | [[:en:obs-training:34-jesus-teaches-other-stories|Up]] | [[:en:obs-training:frames:34-08|>>]]**
