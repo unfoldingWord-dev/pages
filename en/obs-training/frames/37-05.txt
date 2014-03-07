@@ -2,15 +2,14 @@
 
 {{:en:obs:obs-37-05.jpg?nolink&640x360}}
 
-**[[:en:key-terms:jesus|Jesus]]** replied, “I am the **[[:en:key-terms:resurrection|Resurrection]]** and the **[[:en:key-terms:life|Life]]**. Whoever **[[:en:key-terms:believe|believes]]** in me will live, even though he **[[:en:key-terms:death|dies]]**. Everyone who believes in me will never die. Do you believe this?” “Yes, **[[:en:key-terms:lord|Master]]**!” **[[:en:key-terms:martha-sister|Martha]]** answered. “I believe you are the **[[:en:key-terms:messiah|Messiah]]**, the **[[:en:key-terms:god-son|Son of God]]**.”
+**[[:en:key-terms:jesus|Jesus]]** replied, “**I am the [[:en:key-terms:resurrection|Resurrection]] and the [[:en:key-terms:life|Life]]**. Whoever **[[:en:key-terms:believe|believes]]** in me **will live, even though he [[:en:key-terms:death|dies]]**. Everyone who believes in me **will never die**. Do you believe this?” “Yes, **[[:en:key-terms:lord|Master]]**!” **[[:en:key-terms:martha-sister|Martha]]** answered. “I believe you are the **[[:en:key-terms:messiah|Messiah]]**, the **[[:en:key-terms:god-son|Son of God]]**.”
 
 
 ===== Translation Notes: =====
 
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
+  * **I am the Resurrection and the Life** - This is one of several very powerful "I am" statements of Jesus. In this one, he makes himself equal with resurrection and life, meaning that he is the "provider" or, "source" of life and resurrection. If possible, translate this phrase as literally as possible in order to communicate his essential nature.
+  * **will live, even though he dies.** - That is, "will live in the future, even though he dies now."
+  * **will never die** - This can also be translated as, "will live forever."
   
 
 **[[:en:obs-training:frames:37-04|<<]] | [[:en:obs-training:37-jesus-raises-lazarus-from-the-dead|Up]] | [[:en:obs-training:frames:37-06|>>]]**
