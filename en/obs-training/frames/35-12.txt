@@ -2,15 +2,15 @@
 
 {{:en:obs:obs-35-12.jpg?nolink&640x360}}
 
-“The older son said to his father, ‘All these years I’ve worked so **[[:en:key-terms:faith|faithfully]]** for you! I never **[[:en:key-terms:disobey|disobeyed]]** you, and still you did not even give me one small goat so I could celebrate with my friends. But when this son of yours who wasted your money on **[[:en:key-terms:sin|sinful]]** behavior came home, you killed the best calf for him!’”
+“The older son said to his father, ‘All these years I’ve worked **so [[:en:key-terms:faith|faithfully]]** for you! I never **[[:en:key-terms:disobey|disobeyed]]** you, and still you did not even give me one small goat so I could celebrate with my friends. But when **this son of yours** who **wasted your money** on **[[:en:key-terms:sin|sinful]]** behavior came home, you **killed the best calf** for him!’”
 
 
 ===== Translation Notes: =====
 
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
+  * **so faithfully** - That is, "very faithfully."
+  * **this son of yours** - This expression is used to diminish the fact that the younger brother was his brother. Some languages may have an expression that conveys the same disdainful tone. If not, it may be translated literally.
+  * **wasted your money** - That is, "squandered the money that you gave him."
+  * **killed the best calf** - The calf was killed to become food for the celebration.
   
 
 **[[:en:obs-training:frames:35-11|<<]] | [[:en:obs-training:35-the-story-of-the-compassionate-father|Up]] | [[:en:obs-training:frames:35-13|>>]]**
