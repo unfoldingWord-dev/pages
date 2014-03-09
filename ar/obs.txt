@@ -1,8 +1,10 @@
-====== Open Bible Stories (ar) ======
+====== قصص الكتاب المفتوح (عر) ======
 
-Welcome to Open Bible Stories! Please feel free to translate this page and the stories (including the titles) below. If you need help, [[http://distantshoresmedia.org/contact|just ask]]!
+
+أهلاً بك في قصص الكتاب المفتوح! رجاء أن تشعر بمطلق الحرية في ترجمة هذه الصفحة و القصص(بما فيها من عناوين) بالأسفل. و إن احتجت للمساعدة , [[http://distantshoresmedia.org/contact|إطلبها فقط]]!
+
 
 {{page>en:obs:active}}
 
-{{page>ar:obs:stories}}
 
+{{page>ar:obs:stories}}
