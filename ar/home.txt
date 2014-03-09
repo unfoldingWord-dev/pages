@@ -1,8 +1,9 @@
-====== Door43 (ar) ======
+====== باب43 (عر) ======
 
-Welcome to Door43! Please feel free to [[?do=edit|edit]] this page in your own language.
 
-===== Resources =====
+أهلاً بك في باب 34! رجاء أن تشعر بحريتك في [[http://:ar:home&do=edit|تعديل ]]هذه الصفحة إلى لغتك الخاصة.
 
-  * **[[ar:obs|Open Bible Stories (ar)]]**
+===== موارد =====
 
+
+    * **[[:ar:obs|قصص الكتاب المفتوح (عر)]]**
