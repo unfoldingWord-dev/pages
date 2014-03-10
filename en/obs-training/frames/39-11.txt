@@ -2,16 +2,14 @@
 
 {{:en:obs:obs-39-11.jpg?nolink&640x360}}
 
-After speaking with **[[:en:key-terms:jesus|Jesus]]**, **[[:en:key-terms:pilate|Pilate]]** went out to the crowd and said, “I find no **[[:en:key-terms:guilt|guilt]]** in this man.” But the **[[:en:key-terms:jewish-leaders|Jewish leaders]]** and the crowd shouted, “**[[:en:key-terms:crucify|Crucify]]** him!” Pilate replied, “He is not guilty.” But they shouted even louder. Then Pilate said a third time, “He is not guilty!”
+After speaking with **[[:en:key-terms:jesus|Jesus]]**, **[[:en:key-terms:pilate|Pilate]]** went out to the crowd and said, “**I find no [[:en:key-terms:guilt|guilt]] in this man**.” But the **[[:en:key-terms:jewish-leaders|Jewish leaders]]** and the crowd shouted, “**[[:en:key-terms:crucify|Crucify]]** him!” Pilate replied, “He is not guilty.” But they shouted even louder. Then Pilate said a third time, “He is not guilty!”
 
 
 ===== Translation Notes: =====
 
+  * **I find no guilt in this man** - This means the same as the, "He is not guilty" statements that follow.
   * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
-  
+
 
 **[[:en:obs-training:frames:39-10|<<]] | [[:en:obs-training:39-jesus-is-put-on-trial|Up]] | [[:en:obs-training:frames:39-12|>>]]**
 
