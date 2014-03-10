@@ -2,14 +2,12 @@
 
 {{:en:obs:obs-39-06.jpg?nolink&640x360}}
 
-Outside the house, a girl saw **[[:en:key-terms:peter|Peter]]** and said, “You also were with **[[:en:key-terms:jesus|Jesus]]**!” Peter denied it. Later, another girl said the same thing, and Peter denied it again. Finally, the people said, “You were with Jesus because you both are from **[[:en:key-terms:galilee|Galilee]]**.”
+Outside the house, a girl saw **[[:en:key-terms:peter|Peter]]** and said, “You also were with **[[:en:key-terms:jesus|Jesus]]**!” Peter denied it. Later, another girl said the same thing, and Peter denied it again. Finally, the people said, “You were with Jesus because **you both are from [[:en:key-terms:galilee|Galilee]]**.”
 
 
 ===== Translation Notes: =====
 
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
+  * **you both are from Galilee** - Some languages may prefer to say, "you are both Galileans."
   * **issue** - explanation
   
 
