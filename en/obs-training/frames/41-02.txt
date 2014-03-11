@@ -2,14 +2,12 @@
 
 {{:en:obs:obs-41-02.jpg?nolink&640x360}}
 
-**[[:en:key-terms:pilate|Pilate]]** said, “Make the **[[:en:key-terms:tomb|tomb]]** as secure as you can.” So they sealed the stone at the entrance of the tomb and put soldiers there to make sure no one could steal the body.
+**[[:en:key-terms:pilate|Pilate]]** said, “Make the **[[:en:key-terms:tomb|tomb]]** as secure as you can.” So they **sealed the stone** at the entrance of the tomb and put soldiers there to make sure no one could steal the body.
 
 
 ===== Translation Notes: =====
 
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
+  * ** sealed the stone** - That is, "placed a seal on the stone."
   * **issue** - explanation
   
 
