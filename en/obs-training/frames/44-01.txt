@@ -2,14 +2,12 @@
 
 {{:en:obs:obs-44-01.jpg?nolink&640x360}}
 
-One day **[[:en:key-terms:peter|Peter]]** and **[[:en:key-terms:john|John]]** went to the **[[:en:key-terms:temple|Temple]]**. On their way, they saw a crippled man **[[:en:key-terms:beg|begging]]** for money.
+One day **[[:en:key-terms:peter|Peter]]** and **[[:en:key-terms:john|John]]** went to the **[[:en:key-terms:temple|Temple]]**. On their way, they saw **a crippled man** **[[:en:key-terms:beg|begging]]** for money.
 
 
 ===== Translation Notes: =====
 
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
+  * **a crippled man** - This refers to a man who did not have full use of his legs, and could not stand or walk. This could also be translated as, "a lame man."
   * **issue** - explanation
   
 
