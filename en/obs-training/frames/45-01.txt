@@ -2,15 +2,14 @@
 
 {{:en:obs:obs-45-01.jpg?nolink&640x360}}
 
-**[[:en:key-terms:stephen|Stephen]]** was a leader in the early **[[:en:key-terms:church|Church]]**. He had a good reputation and was full of the **[[:en:key-terms:holy-spirit|Holy Spirit]]** and of **[[:en:key-terms:wise|wisdom]]**. Stephen did many **[[:en:key-terms:miracle|miracle]]** and argued strongly that people should **[[:en:key-terms:believe|believe]]** in **[[:en:key-terms:jesus|Jesus]]**.
+**[[:en:key-terms:stephen|Stephen]]** was a leader in the **early [[:en:key-terms:church|Church]]**. He had a good reputation and was **full of the [[:en:key-terms:holy-spirit|Holy Spirit]] and of [[:en:key-terms:wise|wisdom]]**. Stephen did many **[[:en:key-terms:miracle|miracle]]** and **argued strongly** that people should **[[:en:key-terms:believe|believe]]** in **[[:en:key-terms:jesus|Jesus]]**.
 
 
 ===== Translation Notes: =====
 
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
+  * **early Church** - That is, "the Church in the first few years that it existed."
+  * **full of the Holy Spirit and of wisdom** - This could also be translated as, "controlled by the Holy Spirit and with much wisdom."
+  * **argued strongly** - That is, "argued very forcefully" or, "argued powerfully."
   
 
 **[[:en:obs-training:frames:44-09|<<]] | [[:en:obs-training:45-philip-and-the-ethiopian-official|Up]] | [[:en:obs-training:frames:45-02|>>]]**
