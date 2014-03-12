@@ -2,15 +2,13 @@
 
 {{:en:obs:obs-44-05.jpg?nolink&640x360}}
 
-“You demanded that **[[:en:key-terms:jesus|Jesus]]** be killed. You killed the author of **[[:en:key-terms:life|life]]**, but **[[:en:key-terms:god|God]]** **[[:en:key-terms:raise|raised]]** him from the **[[:en:key-terms:death|dead]]**. This is how **[[:en:key-terms:god|God]]** fulfilled the **[[:en:key-terms:prophet|prophecies]]** that the **[[:en:key-terms:messiah|Messiah]]** would **[[:en:key-terms:suffer|suffer]]** and die. But now, **[[:en:key-terms:repent|repent]]** and turn to God so that your **[[:en:key-terms:sin|sin]]** will be washed away.”
+“You demanded that **[[:en:key-terms:jesus|Jesus]]** be killed. You killed the **author of [[:en:key-terms:life|life]]**, but **[[:en:key-terms:god|God]]** **[[:en:key-terms:raise|raised]]** him from the **[[:en:key-terms:death|dead]]**. This is how **[[:en:key-terms:god|God]]** fulfilled the **[[:en:key-terms:prophet|prophecies]]** that the **[[:en:key-terms:messiah|Messiah]]** would **[[:en:key-terms:suffer|suffer]]** and die. But now, **[[:en:key-terms:repent|repent]]** and turn to God so that **your [[:en:key-terms:sin|sin]] will be washed away**.”
 
 
 ===== Translation Notes: =====
 
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
+  * **author of life** - explanation
+  * **your sin will be washed away** - explanation
   
 
 **[[:en:obs-training:frames:44-04|<<]] | [[:en:obs-training:44-peter-and-john-heal-a-beggar|Up]] | [[:en:obs-training:frames:44-06|>>]]**
