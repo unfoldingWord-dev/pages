@@ -28,6 +28,8 @@
     * [[:jmd:home|Yamdena (jmd)]]
     * [[:ko:home|한국어 (ko)]]
     * [[:lki:home|لەکی (‎Laki, lki]]
+    * [[:lgg:home|Lugbarati (lgg)]]
+    * [[:ln:home|Lingala (ln)]]
     * [[:loe:home|Saluan (loe)]]
     * [[:lv:home|Latviešu Valoda (lv)]]
     * [[:ms:home|Bahasa Melayu (ms)]]

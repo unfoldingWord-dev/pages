@@ -2,15 +2,14 @@
 
 {{:en:obs:obs-47-02.jpg?nolink&640x360}}
 
-**[[:en:key-terms:god|God]]** opened **[[:en:key-terms:lydia|Lydia's]]** heart to understand the message of **[[:en:key-terms:jesus|Jesus]]**, and she and her family were **[[:en:key-terms:baptize|baptized]]**. She invited **[[:en:key-terms:paul|Paul]]** and **[[:en:key-terms:silas|Silas]]** to stay at her house, so they did.
+**[[:en:key-terms:god|God]]** **opened [[:en:key-terms:lydia|Lydia's]] heart to understand** **the message of [[:en:key-terms:jesus|Jesus]]**, and she and her family were **[[:en:key-terms:baptize|baptized]]**. She invited **[[:en:key-terms:paul|Paul]]** and **[[:en:key-terms:silas|Silas]]** to stay at her house, **so they did**.
 
 
 ===== Translation Notes: =====
 
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
+  * **opened Lydia's heart to understand** - That is, "enabled Lydia to understand."
+  * **the message of Jesus** - That is, "the message about Jesus" or, “the message concerning Jesus.”
+  * **so they did** - This could also be translated as, "and so they stayed with her."
   
 
 **[[:en:obs-training:frames:47-01|<<]] | [[:en:obs-training:47-paul-and-silas-in-philippi|Up]] | [[:en:obs-training:frames:47-03|>>]]**
