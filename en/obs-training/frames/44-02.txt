@@ -2,15 +2,13 @@
 
 {{:en:obs:obs-44-02.jpg?nolink&640x360}}
 
-**[[:en:key-terms:peter|Peter]]** looked at him and said, “I do not have any money to give you. But what I do have I will give you. In the name of **[[:en:key-terms:jesus|Jesus]]**, get up and walk!”
+**[[:en:key-terms:peter|Peter]]** looked at him and said, “I do not have any money to give you. But what I do have I will give you. **In the name of [[:en:key-terms:jesus|Jesus]]**, **get up** and walk!”
 
 
 ===== Translation Notes: =====
 
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
+  * **In the name of Jesus** - "Name" was used in the sense of "authority" or, "character." Therefore, this expression here means, "by the authority of Jesus." Consider translating the word "name" literally if it will be understood in this way in your language.
+  * **get up** - That is, "stand up."
   
 
 **[[:en:obs-training:frames:44-01|<<]] | [[:en:obs-training:44-peter-and-john-heal-a-beggar|Up]] | [[:en:obs-training:frames:44-03|>>]]**
