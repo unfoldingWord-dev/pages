@@ -2,7 +2,7 @@
 
 {{:en:obs:obs-45-03.jpg?nolink&640x360}}
 
-The **[[:en:key-terms:priest-high|high priest]]** asked **[[:en:key-terms:stephen|Stephen]]**, “**Are these things [[:en:key-terms:true|true]]**?” Stephen reminded them of all the great things **[[:en:key-terms:god|God]]** had done from the time of **[[:en:key-terms:abraham|Abraham]]** **to [[:en:key-terms:jesus|Jesus]]**. Then he replied, “You stubborn and **[[:en:key-terms:rebel|rebellious]]** people **always reject the [[:en:key-terms:holy-spirit|Holy Spirit]]**, just as your ancestors always rejected God and killed his **[[:en:key-terms:prophet|prophets]]**. You have even killed the **[[:en:key-terms:messiah|Messiah]]** whom God sent!”
+The **[[:en:key-terms:priest-high|high priest]]** asked **[[:en:key-terms:stephen|Stephen]]**, “**Are these things [[:en:key-terms:true|true]]**?” Stephen reminded them of all the great things **[[:en:key-terms:god|God]]** had done from the time of **[[:en:key-terms:abraham|Abraham]]** **to [[:en:key-terms:jesus|Jesus]]**. Then he replied, “You stubborn and **[[:en:key-terms:rebel|rebellious]]** people **always reject the [[:en:key-terms:holy-spirit|Holy Spirit]]**, just as **your ancestors** always rejected God and killed his **[[:en:key-terms:prophet|prophets]]**. You have even killed the **[[:en:key-terms:messiah|Messiah]]** whom God sent!”
 
 
 ===== Translation Notes: =====
@@ -10,6 +10,7 @@ The **[[:en:key-terms:priest-high|high priest]]** asked **[[:en:key-terms:stephe
   * **Are these things true?** - This refers to the charges that Stephen said evil things about Moses and God.
   * **to Jesus** - Some languages may need to add, "to the time of Jesus."
   * **always reject the Holy Spirit** - That is, "never obey the Holy Spirit" or, "always refuse to listen to the Holy Spirit."
+  * **your ancestors** - This refers to the Israelites, of whom the Jews are descendants. 
   
 
 **[[:en:obs-training:frames:45-02|<<]] | [[:en:obs-training:45-philip-and-the-ethiopian-official|Up]] | [[:en:obs-training:frames:45-04|>>]]**
