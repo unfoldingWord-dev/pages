@@ -1,15 +1,15 @@
 
 
-    - [[http://ru:obs:01-the-creation|Сотворение мира]]
-    - В мир приходит грех​
-    - Потоп​
-    - Божий завет с Авраамом​
-    - Сын Обещания​
-    - Бог обеспечивает Исаака​
-    - Бог благословляет Иакова​
-    - Бог спасает Иосифа и его семью​
-    - Бог призывает Моисея​
-    - Десять бедствий​
+    - [[:ru:obs:01-the-creation|Сотворение мира]]
+    - [[:ru:obs:02-sin-enters-the-world|В мир приходит грех​]]
+    - [[:ru:obs:03-the-flood|Потоп​]]
+    - [[:ru:obs:04-gods-covenant-with-abraham|Божий завет с Авраамом​]]
+    - [[:ru:obs:05-the-son-of-promise|Сын Обещания​]]
+    - [[:ru:obs:06-god-provides-for-isaac|Бог обеспечивает Исаака]]​
+    - [[:ru:obs:07-god-blesses-jacob|Бог благословляет Иакова​]]
+    - [[:ru:obs:08-god-saves-joseph-and-his-family|Бог спасает Иосифа и его семью​]]
+    - [[:ru:obs:09-god-calls-moses|Бог призывает Моисея​]]
+    - [[:ru:obs:10-the-ten-plagues|Десять бедствий]]**[[:ru:obs:10-the-ten-plagues|​]]**
     - [[:ru:obs:11-the-passover|The Passover]]
     - [[:ru:obs:12-the-exodus|The Exodus]]
     - [[:ru:obs:13-gods-covenant-with-israel|God's Covenant with Israel]]
