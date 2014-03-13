@@ -2,15 +2,13 @@
 
 {{:en:obs:obs-48-01.jpg?nolink&640x360}}
 
-When **[[:en:key-terms:god|God]]** **created** the world, everything was perfect. There was no **[[:en:key-terms:sin|sin]]**. **[[:en:key-terms:adam|Adam]]** and **[[:en:key-terms:eve|Eve]]** **[[:en:key-terms:love|loved]]** each other, and they loved God. There was no **[[:en:key-terms:death|death]]** or sickness or pain. This was the way God wanted things to be.
+When **[[:en:key-terms:god|God]]** **created** the world, everything was **perfect**. There was no **[[:en:key-terms:sin|sin]]**. **[[:en:key-terms:adam|Adam]]** and **[[:en:key-terms:eve|Eve]]** **[[:en:key-terms:love|loved]]** each other, and they loved God. There was no **[[:en:key-terms:death|death]]** or sickness or pain. This was the way God wanted things to be.
 
 
 ===== Translation Notes: =====
 
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
+  * **created** - God made the world and everything in it out of nothing.
+  * **perfect** - That is, "exactly as it should be" to accomplish all that God intended for it.
   
 
 **[[:en:obs-training:frames:47-14|<<]] | [[:en:obs-training:48-jesus-is-the-promised-messiah|Up]] | [[:en:obs-training:frames:48-02|>>]]**
