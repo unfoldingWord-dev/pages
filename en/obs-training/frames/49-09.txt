@@ -2,13 +2,13 @@
 
 {{:en:obs:obs-49-09.jpg?nolink&640x360}}
 
-But **[[:en:key-terms:god|God]]** **[[:en:key-terms:love|loved]]** the world so much that he gave his only **[[:en:key-terms:god-son|Son]]** so that whoever **[[:en:key-terms:believe|believes]]** in **[[:en:key-terms:jesus|Jesus]]** will not go to **[[:en:key-terms:hell|hell]]** but will **[[:en:key-terms:life|live]]** with God forever.
+But **[[:en:key-terms:god|God]]** **[[:en:key-terms:love|loved]]** **the world** so much that he gave his only **[[:en:key-terms:god-son|Son]]** so that **whoever [[:en:key-terms:believe|believes]]** in **[[:en:key-terms:jesus|Jesus]]** will not go to **[[:en:key-terms:hell|hell]]** but will **[[:en:key-terms:life|live]]** with God forever.
 
 
 ===== Translation Notes: =====
 
-  * **issue** - explanation
-  * **issue** - explanation
+  * **the world** - That is, "the people of the world."
+  * **whoever believes** - This could also be translated as, "anyone who believes."
   
 
 **[[:en:obs-training:frames:49-08|<<]] | [[:en:obs-training:49-gods-new-covenant|Up]] | [[:en:obs-training:frames:49-10|>>]]**
