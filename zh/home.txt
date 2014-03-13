@@ -1,6 +1,14 @@
+======  ======
+
+
 ====== Door43 (zh) ======
 
-Welcome to Door43! Please feel free to [[?do=edit|edit]] this page in your own language.
+
+Welcome to Door43! Please feel free to [[:zh:home?do=edit|edit]] this page in your own language.
+
+
+
+
 
 ===== Resources =====
 
