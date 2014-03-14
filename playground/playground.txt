@@ -1,14 +1,13 @@
 <code>
 
-
-<usfm>\\ 
-%%\%%id MAT\\ 
-%%\%%h Matthew\\ 
-%%\%%mt The Gospel of Matthew\\ 
-%%\%%c 1\\ 
-%%\%%s List of the forefathers of Christ Jesus\\ 
-%%\%%r (Luke 3:23-38)\\ 
-</usfm>
-
-
+ 
 </code>
+
+
+<nowiki><usfm></nowiki>
+
+
+<nowiki>&#92;h mattew</nowiki>
+
+
+<nowiki></usfm></nowiki>
