@@ -1,7 +1,4 @@
-<usfm><nowiki>
-
-
-%%\%%</nowiki>id MAT%<nowiki> \</nowiki>h Matthew%<nowiki> \</nowiki>mt The Gospel of Matthew%<nowiki> \</nowiki>c 1%<nowiki> \</nowiki>s List of the forefathers of Christ Jesus%<nowiki> \</nowiki>r (Luke 3:23-38)​
+<usfm><nowiki> \</nowiki>id MAT<nowiki> \</nowiki>h Matthew<nowiki> \</nowiki>mt The Gospel of Matthew<nowiki> \</nowiki>c 1<nowiki> \</nowiki>s List of the forefathers of Christ Jesus<nowiki> \</nowiki>r (Luke 3:23-38)
 
 
 </usfm>
