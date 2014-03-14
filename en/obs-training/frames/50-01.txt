@@ -2,15 +2,14 @@
 
 {{:en:obs:obs-50-01.jpg?nolink&640x360}}
 
-For almost 2,000 years, the **[[:en:key-terms:good-news|Good News]]** of **[[:en:key-terms:jesus|Jesus]]** the **[[:en:key-terms:messiah|Messiah]]** has been spreading, and the **[[:en:key-terms:church|Church]]** has been growing. Jesus said he would return at the end of the world. Though he has not yet come back, he will keep his **[[:en:key-terms:promise|promise]]**.
+For almost 2,000 years, the **[[:en:key-terms:good-news|Good News]]** of **[[:en:key-terms:jesus|Jesus]]** the **[[:en:key-terms:messiah|Messiah]]** **has been spreading**, and the **[[:en:key-terms:church|Church]]** has been **growing**. Jesus said he would return **at the end of the world**. Though he has not yet come back, he will keep his **[[:en:key-terms:promise|promise]]**.
 
 
 ===== Translation Notes: =====
 
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
+  * **has been spreading** - Some languages may need to add, "has been spreading around the world."
+  * **growing** - That is, "increasing" or "increasing in number."
+  * **at the end of the world** - This phrase means, "before the world ends" or, "in the final days of the world."
   
 
 **[[:en:obs-training:frames:49-18|<<]] | [[:en:obs-training:50-jesus-returns|Up]] | [[:en:obs-training:frames:50-02|>>]]**
