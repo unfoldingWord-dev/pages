@@ -2,15 +2,15 @@
 
 {{:en:obs:obs-50-09.jpg?nolink&640x360}}
 
-“The weeds represent the people who belong to the **[[:en:key-terms:evil|evil]]** one. The enemy who planted them is the **[[:en:key-terms:satan|devil]]**. The **[[:en:key-terms:harvest|harvest]]** is the end of the world, and the harvesters are the **[[:en:key-terms:angel|angels]]**.”
+“The weeds represent the people who belong to **the [[:en:key-terms:evil|evil]] one**. The enemy who planted them **is the [[:en:key-terms:satan|devil]]**. The **[[:en:key-terms:harvest|harvest]]** **is the end of the world**, and the harvesters **are the [[:en:key-terms:angel|angels]]**.”
 
 
 ===== Translation Notes: =====
 
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
-  * **issue** - explanation
+  * **the evil one** - This is another title for Satan. It could be translated as, "Satan," but the literal translation provides additional information about his character.
+  * **is the devil** - That is, "represents the devil" or, "represents Satan."
+  * **is the end of the world** - That is, "represents the end of the world."
+  * **are the angels** - That is, "represent the angels."
   
 
 **[[:en:obs-training:frames:50-08|<<]] | [[:en:obs-training:50-jesus-returns|Up]] | [[:en:obs-training:frames:50-10|>>]]**
