@@ -1,17 +1,14 @@
-<de1>
-CKEDITOR.replace( 'editor1',
-    {
-        toolbar : 'Basic',
-        uiColor : '#9AB8F3'
-    });
-</de1>
+<code>
 
 
-<pre>
-
-
-<usfm>%<nowiki> \</nowiki>id MAT%<nowiki> \</nowiki>h Matthew%<nowiki> \</nowiki>mt The Gospel of Matthew%<nowiki> \</nowiki>c 1%<nowiki> \</nowiki>s List of the forefathers of Christ Jesus%<nowiki> \</nowiki>r (Luke 3:23-38)\\ 
+<usfm>\\ 
+%%\%%id MAT\\ 
+%%\%%h Matthew\\ 
+%%\%%mt The Gospel of Matthew\\ 
+%%\%%c 1\\ 
+%%\%%s List of the forefathers of Christ Jesus\\ 
+%%\%%r (Luke 3:23-38)\\ 
 </usfm>
 
 
-</pre>
+</code>
