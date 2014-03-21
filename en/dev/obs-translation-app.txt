@@ -1,0 +1,9 @@
+====== Open Bible Stories Translation App ======
+
+//an Android (and possibly Chrome(book) extension) that facilitates the translation of Open Bible Stories using a mobile device without requiring Internet access.//
+
+Links:
+
+  * **[[https://github.com/Door43/OBS-Translation-App]]** — The source code, as well as the design & overview documents, bugs/features, and wiki pages.
+
+  * **[[https://trello.com/b/GSTjh6ZJ/obs-translation-mobile-app]]** — The KanBan board for managing the "big picture" of the project, and facilitating collaboration as a distributed team of developers
