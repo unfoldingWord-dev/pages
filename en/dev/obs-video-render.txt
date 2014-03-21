@@ -1,0 +1,5 @@
+====== Open Bible Stories Video Render System ======
+
+// A web-based utility that dynamically creates videos of Open Bible Stories from the audio recordings. Currently being developed by [[http://missionaldigerati.org|Missional Digerati]].//
+
+  * [[https://github.com/MissionalDigerati/vts_rendering_engine|VTS Rendering Engine]] — This rendering system is designed to help in the translating of video content. This is part of the VTS (Video Translating Service) Package.

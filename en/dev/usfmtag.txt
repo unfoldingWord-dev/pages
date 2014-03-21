@@ -1,8 +1,8 @@
 ====== USFMTag ======
 
-//**[[https://github.com/Door43/Dokuwiki-USFMTag]]**//
-
 //USFM is an easy way to mark a plain-text file as a translation of the Bible (example: ''\v1 This is the first verse'', ''\v2 this is the second verse''). The USFMTag project enables Bible translations that are marked up with this simple formatting to automatically display as beautiful web pages in Door43.//
+
+  * **[[https://github.com/Door43/Dokuwiki-USFMTag]]**
 
 ===== Overview =====
 

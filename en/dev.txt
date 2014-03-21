@@ -24,6 +24,6 @@ These are the projects under development (or hoped for) to help improve & extend
 
 ===== Other Projects =====
 
-    * **Open Bible Stories video render system** – currently in development by [[http://missionaldigerati.org|Missional Digerati]].
+    * **[[:en:dev:obs-video-render|Open Bible Stories video render system]]** – //currently in development by [[http://missionaldigerati.org|Missional Digerati]].//
 
     * **[[:en:dev:map-creator|Map Creator (for Open Bible Maps)]]** — //What if you had no concept of where Israel is, or Rome, or Egypt, or Galilee, or any of the other places mentioned in the Bible? Imagine how difficult it would be to accurately understand the Bible and the history of Israel. **Open Bible Maps**  makes it possible to rapidly translate high-quality maps of the Bible in any language.// 
