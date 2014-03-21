@@ -4,60 +4,26 @@
 These are the projects under development (or hoped for) to help improve & extend Door43.
 
 
-===== Open Bible Stories Book Render =====
+===== Open Bible Stories =====
+
+  * **[[:en:dev:obs-app|Open Bible Stories App]]** — //a picture flipboard "ebook" with the text of each segment overlayed over the picture and all of it wrapped in a mobile app. //
+
+  * **[[:en:dev:obs-translation-app|Open Bible Stories Translation App]]** — //an Android (and possibly Chrome(book) extension) that facilitates the translation of Open Bible Stories using a mobile device without requiring Internet access.//
+
+  * **[[:en:dev:api:unfoldingword|Open Bible Stories API]]** — //how to access Open Bible Stories content via API.//
+
+  * **[[:en:dev:obs-book-render|OBS Book Render]]** — //Open Bible Stories starts out as plain text, translated into any language. The text is combined with images on Door43 to create webpages with illustrations. The function of the **OBS Book Render** utility is to convert the translated text and images into an Open Document file that can be post-processed and printed as a book.// 
 
 
-//Open Bible Stories starts out as plain text, translated into any language using [[http://door43.org/en/obs|Door43]]. The text is combined with images on Door43 to create webpages with illustrations. The function of the **OBS Book Render** utility is to convert the translated text and images into an Open Document file that can be post-processed and printed as a book.// 
+===== Extending Door43 =====
 
+  * **[[:en:dev:usfmtag|USFMTag]]** — //USFM is an easy way to mark a plain-text file as a translation of the Bible (example: ''<nowiki>\</nowiki>v1 This is the first verse'', ''<nowiki>\</nowiki>v2 this is the second verse''). The USFMTag project enables Bible translations that are marked up with this simple formatting to automatically display as beautiful web pages in Door43.// 
 
-    * Project: **[[:en:dev:obs-book-render|OBS Book Render]]** 
-
-
-===== Open Bible Stories, the App =====
-
-
-//Open Bible Stories wants to be a picture flipboard with the text of each segment overlayed over the picture and all of it wrapped in a mobile app. We have a proof-of-concept Android app, built using [[http://phonegap.com|PhoneGap]], that can be used as a starting point. We are also developing native applications for Android and iOS.//
-    * Project: **[[:en:dev:obs-app|Open Bible Stories App]]**
-    * Source: **[[https://github.com/dsmedia/OBS-Mobile|https://github.com/dsmedia/OBS-Mobile]]** (Phonegap)
-    * Source: **[[https://github.com/dsmedia/OBS-Android|https://github.com/dsmedia/OBS-Android]]** (Native Android)
-    * Source: **[[https://github.com/dsmedia/OBS-iOS|https://github.com/dsmedia/OBS-iOS]]** (Native iOS)
-
-
-===== Open Bible Stories API =====
-
-
-The [[:en:dev:api:unfoldingword|Open Bible Stories API specification]] page details the work in progress API.
-
-===== USFMTag =====
-
-
-//USFM is an easy way to mark a plain-text file as a translation of the Bible (example: ''%%\%%v1 This is the first verse'', ''%%\%%v2 this is the second verse''). The USFMTag project enables Bible translations that are marked up with this simple formatting to automatically display as beautiful web pages in Door43.// 
-
-
-    * Project: **[[:en:dev:usfmtag|USFMTag]]**
-    * Source: **[[https://github.com/Door43/Dokuwiki-USFMTag|https://github.com/Door43/Dokuwiki-USFMTag]]** 
-
-
-===== Tools (Export Utilities) =====
-
-
-//Door43 Tools are an extensible set of profiles and utilities (e.g. scripts) that function as a "render engine" to convert and export content in Door43 into various formats for offline use, e.g. PDF, EPUB, DOC, HTML, Mobile apps, etc.// 
-
-
-    * Project: **[[:en:dev:tools|Tools]]**
-    * Source: **[[https://github.com/Door43/tools|https://github.com/Door43/tools]]** 
-
-
-===== Map Creator (for Open Bible Maps) =====
-
-
-//What if you had no concept of where Israel is, or Rome, or Egypt, or Galilee, or any of the other places mentioned in the Bible? Imagine how difficult it would be to accurately understand the Bible and the history of Israel. **Open Bible Maps**  makes it possible to rapidly translate high-quality maps of the Bible in any language.// 
-
-
-    * Project: **[[:en:dev:map-creator|Map Creator (for Open Bible Maps)]]** 
+  * **[[:en:dev:tools|Door43 Tools]]** — //Door43 Tools are an extensible set of profiles and utilities (e.g. scripts) that function as a "render engine" to convert and export content in Door43 into various formats for offline use, e.g. PDF, EPUB, DOC, HTML, Mobile apps, etc.// 
 
 
 ===== Other Projects =====
 
+    * **Open Bible Stories video render system** – currently in development by [[http://missionaldigerati.org|Missional Digerati]].
 
-    * Open Bible Stories video render system – currently in development by [[http://missionaldigerati.org|Missional Digerati]].
+    * **[[:en:dev:map-creator|Map Creator (for Open Bible Maps)]]** — //What if you had no concept of where Israel is, or Rome, or Egypt, or Galilee, or any of the other places mentioned in the Bible? Imagine how difficult it would be to accurately understand the Bible and the history of Israel. **Open Bible Maps**  makes it possible to rapidly translate high-quality maps of the Bible in any language.// 

@@ -23,11 +23,6 @@
 
 **Door43 Development**
 
-  * [[en:dev:obs-book-render|OBS Book Render]]
-  * [[en:dev|Development Overview]]
-  * [[en:dev:obs-app|Open Bible Stories App]]
-  * [[en:dev:usfmtag|USFMTag]]
-  * [[en:dev:tools|Tools (Export Utilities)]]
-  * [[en:dev:map-creator|Map Creator]]
+  * [[en:dev|Development Projects]]
 
 ~~NOCACHE~~
