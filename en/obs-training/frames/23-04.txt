@@ -2,15 +2,15 @@
 
 {{:en:obs:obs-23-04.jpg?nolink&640x360}}
 
-About the time **[[:en:key-terms:mary|Mary]] was to give birth**, the **[[:en:key-terms:rome|Roman]] government** told everyone to go to the **town of their ancestors** for a **census**. **[[:en:key-terms:joseph-nt|Joseph]]** and Mary had to make a long journey from where they lived in **[[:en:key-terms:nazareth|Nazareth]]** to **[[:en:key-terms:bethlehem|Bethlehem]]** because their ancestor was **[[:en:key-terms:david|David]]** whose hometown was Bethlehem.
+About the time **[[:en:key-terms:mary|Mary]] was to give birth**, the **[[:en:key-terms:rome|Roman]] government** told everyone to go to the **town of their ancestors** **for a census**. **[[:en:key-terms:joseph-nt|Joseph]]** and Mary had to make a long journey from where they lived in **[[:en:key-terms:nazareth|Nazareth]]** to **[[:en:key-terms:bethlehem|Bethlehem]]** because their ancestor was **[[:en:key-terms:david|David]]** whose hometown was Bethlehem.
 
 
 ===== Translation Notes: =====
 
-  * **was to give birth** - It was the end of her pregnancy and she was ready to give birth. 
+  * **Mary was to give birth** - That is, “when Mary was ready to deliver the baby.”
   * **Roman government** - Rome had conquered and ruled over Israel at this time.
   * **town of their ancestors** - That is, "the town where their ancestors had lived."
-  * **census** - A census was a government counting of the entire population--usually in order to plan for taxes.
+  * **for a census** - That is, “to be counted for the government record” or “so that the government could write their names on a list” or, “to be counted by the government.” This census was probably made for the purpose of taxing the people. 
   
 
 **[[:en:obs-training:frames:23-03|<<]] | [[:en:obs-training:23-the-birth-of-jesus|Up]] | [[:en:obs-training:frames:23-05|>>]]**

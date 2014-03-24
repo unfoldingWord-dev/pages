@@ -2,16 +2,18 @@
 
 {{:en:obs:obs-23-03.jpg?nolink&640x360}}
 
-So **[[:en:key-terms:joseph-nt|Joseph]] married her** and took her home as his wife, but **he did not sleep with her** until she had given birth.
+So **[[:en:key-terms:joseph-nt|Joseph]]** married her and took her home as his wife, but **he did not sleep with her** **until she had given birth**.
 
 
 ===== Translation Notes: =====
 
-  * **Joseph married her** - Although Joseph was not the physical father of Jesus, he became the his legal father so that Jesus would be a legitimate descendant of David, and eligible to be the king of Israel.
+
   * **he did not sleep with her** - Joseph did not have sexual relations with Mary. He kept her a virgin until the birth of the baby.
+  * **he did not sleep with her** - That is, “he did not have sexual relations with her.”
+  * **until she had given birth** - All Christians agree that this phrase means that Joseph kept Mary a virgin up until the time when Jesus was born. Protestant Christians believe that they had normal marital relations after that, and that Mary bore other children. Catholics believe that Mary continued to be a virgin for the rest of her life. If it is not necessary to specify one of these options in your language, it may be best to leave it ambiguous. 
   
 
 **[[:en:obs-training:frames:23-02|<<]] | [[:en:obs-training:23-the-birth-of-jesus|Up]] | [[:en:obs-training:frames:23-04|>>]]**
 
 
-~~DISCUSSION~~
+~~DISCUSSION:closed~~
