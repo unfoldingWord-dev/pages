@@ -2,16 +2,17 @@
 
 {{:en:obs:obs-24-03.jpg?nolink&640x360}}
 
-Some people **[[:en:key-terms:repent|repented]]** and **were [[:en:key-terms:baptize|baptized]]** when they heard **[[:en:key-terms:john-baptist|John's]]** message. Many **[[:en:key-terms:jewish-leaders|religious leaders]]** also came to be baptized by John, but they did not repent or **confess their [[:en:key-terms:sin|sins]]**.
+Some people **[[:en:key-terms:repent|repented]]** and **were [[:en:key-terms:baptize|baptized]]** when they heard **[[:en:key-terms:john-baptist|John's]]** message. Many **[[:en:key-terms:jewish-leaders|religious leaders]]** also came to be baptized by John, but they **did not repent** or **confess their [[:en:key-terms:sin|sins]]**.
 
 
 ===== Translation Notes: =====
 
   * **were baptized** - It may be necessary to add, "were baptized by John..."
-  * **confessing their sins** - Confession is to acknowledge that something is true. These leaders did not want to acknowledge that they had sinned. This may be translated as "confessing that they had sinned."
+  * **did not repent** - That is, "did not turn away from their sins."
+  * **confess their sins** - To confess is to acknowledge that something is true. These leaders did not want to acknowledge that they had sinned. This may be translated as "confess that they had sinned."
   
 
 **[[:en:obs-training:frames:24-02|<<]] | [[:en:obs-training:24-john-baptizes-jesus|Up]] | [[:en:obs-training:frames:24-04|>>]]**
 
 
-~~DISCUSSION~~
+~~DISCUSSION:closed~~
