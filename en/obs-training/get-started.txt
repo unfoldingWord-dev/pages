@@ -1,5 +1,5 @@
 ====== How to Get Started ======
-
+[[http://www.scribd.com/doc/214416875/Figures-Of-Speech-Comparisons|http://www.scribd.com/doc/214416875/Figures-Of-Speech-Comparisons]]
 
 ==== Suggestion: You might find it convenient to right click on links and choose "Open in new window." ====
 
@@ -13,10 +13,11 @@ Translating content in Door43 is easy! Follow these simple steps to get started:
 To start translating content, you will need a user account on Door43. If you do not have an account, [[:en:get-started?do=register|create one]] then you can [[https://door43.org/en/obs-training/get-started?do=login&sectok=ee4e19eb537ef77891aa5a6b54b7b2a4|login]].\\ 
 You can watch this [[http://youtu.be/dpsJRDAa3I8|video]] (45 seconds long) to see how to set up an account.
 
-     * Click on the Register link at the top of the page.
-     * Fill in the necessary information to set up an account.
-     * Check your email for the automatic generated password. (You might find the email in your spam folder.)
-     * Click on the 'Update Profile' link to change the password.
+
+    * Click on the Register link at the top of the page.
+    * Fill in the necessary information to set up an account.
+    * Check your email for the automatic generated password. (You might find the email in your spam folder.)
+    * Click on the 'Update Profile' link to change the password.
 
 
 ===== 2. Practice Editing a Page =====
@@ -25,26 +26,31 @@ You can watch this [[http://youtu.be/dpsJRDAa3I8|video]] (45 seconds long) to se
 Door43 has a [[:playground:playground|test page]] that you can freely edit to try things out. [[https://www.youtube.com/watch?v=dF7px5U6PdA|Here]] is a short video (45 seconds) on how to switch between the text editor and the graphical editor.
 
 
-**Graphical Editor** – When you click the "Edit this page" button, you will probably see an edit window that looks like a simplified word processor. Click [[https://www.youtube.com/watch?v=kFK1zK_dSYc|here]] for the "how to" 1 minute video. The buttons take care of formatting text and generally make it easier to use. Here is information on the toolbar icons: [[doku>toolbar|quickbuttons]].
+**Graphical Editor**  – When you click the "Edit this page" button, you will probably see an edit window that looks like a simplified word processor. Click [[https://www.youtube.com/watch?v=kFK1zK_dSYc|here]] for the "how to" 1 minute video. The buttons take care of formatting text and generally make it easier to use. Here is information on the toolbar icons: [[doku>toolbar|quickbuttons]].
 
 
-**Text Editor** – If you prefer, you can click the "DW Edit" button beneath the edit box to switch to a text-based editor. This is the standard DokuWiki editor and it provides full control over the syntax of the text. Go to the [[:en:obs-training:syntax|Formatting Text]] page for some simple editing formats to use in the text editor.
+**Text Editor**  – If you prefer, you can click the "DW Edit" button beneath the edit box to switch to a text-based editor. This is the standard DokuWiki editor and it provides full control over the syntax of the text. Go to the [[:en:obs-training:syntax|Formatting Text]] page for some simple editing formats to use in the text editor.
 
 
-//Note:// when using the text editor, you can switch back to the graphical editor by clicking the "FCK Edit" button.
+//Note://  when using the text editor, you can switch back to the graphical editor by clicking the "FCK Edit" button.
+
+
 ===== 3. Choose a Story =====
 
 
 Browse to a story you would like to translate. For instance, to translate the first story of **Open Bible Stories**, you would click [[:en:obs:01-the-creation|1. The Creation]] from the left menu.
 
-**You might find it convenient to right click on links and choose "Open in new window."**
+
+**You might find it convenient to right click on links and choose "Open in new window."** 
+
+
 ===== 4. Choose a Language =====
 
 
 In the sidebar, you should see a language selection dropdown. When you click it, you will see a list of available languages, sorted by language code.((If you need a language added to Door43, please  [[http://distantshoresmedia/contact|contact us]])) . If you see the language into which you would like to translate, click it.
 
 
-**Source Text** – If the language you select does not have a source text already available on the page, you will see a header on the page that says "This page does not exist yet". You can save some time by starting with a source text from another language. Here is a [[http://youtu.be/uGvMsS1nerk|video]] (2 minutes) showing the following steps:
+**Source Text**  – If the language you select does not have a source text already available on the page, you will see a header on the page that says "This page does not exist yet". You can save some time by starting with a source text from another language. Here is a [[http://youtu.be/uGvMsS1nerk|video]] (2 minutes) showing the following steps:
 
 
     - Click the back button in your browser to return to the same page in the previous language.
@@ -57,6 +63,7 @@ In the sidebar, you should see a language selection dropdown. When you click it,
     - Click on the DWEdit button. If the window refreshes, click on "Create this page".
     - Paste the contents of the original page into the edit box.
     - Click the "Save" button. The edit window closes and the new created page shows.
+
 
 ===== 5. Start Translating =====
 
@@ -78,6 +85,7 @@ This [[http://youtu.be/5fFl8crhglE|video]] (1 minute 20 seconds) will give a qui
     * There are green words in the text. These are very important words that need to be translated correctly. Click on the green word to go to another page that will give more information on how to translate the very important word.
     * Translation Notes explains how to translate some of the important words in the story. The definition of the word or phrase should help you understand how to translate.
 
+
 ==== Translate from the Source Language ====
 
 
@@ -97,7 +105,9 @@ The video assumes that you have gone through and understand the above instructio
     * Open the graphical (FCK Edit) editor in the heart language window and scroll down to the desired frame. Compare the picture .
     * Read the Notes for help on how to translate some of the words and terms.
 
+
 **Once you have chosen the correct words or terms in your language you will want to arrange the translated words so they make sense and the stories are easy to read and understand.** 
+
 
     * Continue editing frames and saving your work.
     * Enjoy and share the new translation.
@@ -106,4 +116,4 @@ The video assumes that you have gone through and understand the above instructio
 //Note: More information available on the [[:en:tips-tricks|Tips & Tricks]] page!// 
 
 
-Finished translating the stories?  There is even more that you can do!  How about adding audio?  Or making a video?  This will be available soon!
+Finished translating the stories? There is even more that you can do! How about adding audio? Or making a video? This will be available soon!
