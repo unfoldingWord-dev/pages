@@ -2,16 +2,17 @@
 
 {{:en:obs:obs-23-10.jpg?nolink&640x360}}
 
-When they saw **[[:en:key-terms:jesus|Jesus]]** with his mother, they **bowed down** and **[[:en:key-terms:worship|worshiped]]** him. They gave Jesus expensive gifts. Then they returned home.
+When **they** saw **[[:en:key-terms:jesus|Jesus]]** with his mother, they **bowed down** and **[[:en:key-terms:worship|worshiped]]** him. They gave Jesus **expensive** gifts. Then they returned home.
 
 
 ===== Translation Notes: =====
 
-  * **bowed down** - Bowing low to the ground was the customary way of showing great respect or reverence.
-  * **issue** - explanation
+  * **they** – For some languages it may be necessary to explain what this refers to here and say, “the wise men” or, “the eastern astrologers.”
+  * **bowed down** -  That is, “bowed low to the ground.” At that time, this was the customary way of showing great respect or reverence.
+  * **expensive** – That is, “very valuable.”
   
 
 **[[:en:obs-training:frames:23-09|<<]] | [[:en:obs-training:23-the-birth-of-jesus|Up]] | [[:en:obs-training:frames:24-01|>>]]**
 
 
-~~DISCUSSION~~
+~~DISCUSSION:closed~~
