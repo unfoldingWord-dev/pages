@@ -1,10 +1,7 @@
 ====== innocent ======
 
 
-==== (term, other) ====
-
-
-===== Definitions Facts: =====
+===== Definitions: =====
 
 To be innocent means to **not** be guilty of something.
 
@@ -23,4 +20,4 @@ The opposite of "innocent" is "guilty."
   ***[[:en:obs-training:frames:40-08|[40-08]]]** When the soldier guarding Jesus saw everything that happened, he said, “Certainly, this man was **innocent**.”
 
 
-~~DISCUSSION~~
+~~DISCUSSION:closed~~
