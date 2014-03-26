@@ -2,17 +2,18 @@
 
 {{:en:obs:obs-24-06.jpg?nolink&640x360}}
 
-The next day, **[[:en:key-terms:jesus|Jesus]]** came to be **[[:en:key-terms:baptize|baptized]]** by **[[:en:key-terms:john-baptist|John]]**. When John saw him, he said, “Look! There is the **[[:en:key-terms:lamb|Lamb]] of [[:en:key-terms:god|God]]** who **takes away** the **[[:en:key-terms:sin|sin]] of the world**.”
+The next day, **[[:en:key-terms:jesus|Jesus]]** came to be **[[:en:key-terms:baptize|baptized]]** by **[[:en:key-terms:john-baptist|John]]**. When John saw him, he said, “Look! **There is** the **[[:en:key-terms:lamb|Lamb]] of [[:en:key-terms:god|God]]** who **will take away** the **[[:en:key-terms:sin|sin]] of the world**.”
 
 
 ===== Translation Notes: =====
 
-  * **Lamb of God** - Jesus in the perfect sacrifice that God promised to provide. He fulfills the image that was presented by the sacrifice of the lambs in the Old Testament.
-  * **takes away** - The sacrifice of Jesus causes God to look at our sin as if it never existed. 
-  * **sin of the world** - That is, "all of the sins of all of the people in the world."
+  * **There is** – For some languages this would be, “Here is” or, “That man is.” 
+  * **Lamb of God** - This could also be translated as, “the Lamb from God” or, “the sacrifice Lamb that God has provided”. Jesus was the perfect sacrifice for sin that God promised to provide. He fulfills the image that was presented by the sacrifice of lambs in the Old Testament. 
+  * **will take away** - The sacrifice of Jesus causes God to look at our sin as if it never existed. 
+  * **sin of the world** - That is, “the sin of the people in the world.”
   
 
 **[[:en:obs-training:frames:24-05|<<]] | [[:en:obs-training:24-john-baptizes-jesus|Up]] | [[:en:obs-training:frames:24-07|>>]]**
 
 
-~~DISCUSSION~~
+~~DISCUSSION:closed~~
