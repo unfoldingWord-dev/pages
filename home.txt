@@ -37,6 +37,7 @@
     * [[:mzn:home|مازندرانی (Mazanderani, mzn)]]
     * [[:nl:home|Nederlands (nl)]]
     * [[:nxl:home|Nuaulu (nxl)]]
+    * [[:pgg:home|Pangwali(pgg)]]
     * [[:pl:home|Polski (pl)]]
     * [[:ppq:home|Pefiyahe (ppq)]]
     * [[:pt-br:home|Português do Brasil (pt-br)]]
