@@ -2,16 +2,18 @@
 
 {{:en:obs:obs-25-07.jpg?nolink&640x360}}
 
-**[[:en:key-terms:jesus|Jesus]]** replied, “**Get away from me**, **[[:en:key-terms:satan|Satan]]**! It is written in **[[:en:key-terms:word-of-god|God’s Word]]**, ‘**[[:en:key-terms:worship|Worship]]** only the **[[:en:key-terms:lord|Lord]]** your **[[:en:key-terms:god|God]]** and only serve him.’”
+**[[:en:key-terms:jesus|Jesus]]** replied, “**Get away from me**, **[[:en:key-terms:satan|Satan]]**! **It is written in [[:en:key-terms:word-of-god|God’s Word]], ‘[[:en:key-terms:worship|Worship]] only the [[:en:key-terms:lord|Lord]] your [[:en:key-terms:god|God]] and only serve him**.’”
 
 
 ===== Translation Notes: =====
 
   * **Get away from me** - This may also be translated as, "Leave me" or, "Leave me alone."
-  * **issue** - explanation
+  * **It is written in God’s Word, “Worship only the Lord your God and only serve him”** – If necessary, this could be written as an indirect quote, “It is written in God's Word that we must worship and serve only the Lord God, who rules over us.”
+  * **Lord your God** – That is, “Yahweh, your God” or, “Yahweh, who is God and has authority over you.”
+  * **and only serve him** – Another way to say this would be, “He is the only one you should serve.” 
   
 
 **[[:en:obs-training:frames:25-06|<<]] | [[:en:obs-training:25-satan-tempts-jesus|Up]] | [[:en:obs-training:frames:25-08|>>]]**
 
 
-~~DISCUSSION~~
+~~DISCUSSION:closed~~
