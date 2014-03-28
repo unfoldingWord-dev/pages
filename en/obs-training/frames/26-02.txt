@@ -2,16 +2,20 @@
 
 {{:en:obs:obs-26-02.jpg?nolink&640x360}}
 
-**[[:en:key-terms:jesus|Jesus]]** went to the town of **[[:en:key-terms:nazareth|Nazareth]]** where he had **grown up**. On the **[[:en:key-terms:sabbath|Sabbath]]**, he went to the place of **[[:en:key-terms:worship|worship]]**. They gave him the **scroll** of the **[[:en:key-terms:prophet|prophet]]** **[[:en:key-terms:isaiah|Isaiah]]**. Jesus opened up the scroll and read from it.
+**[[:en:key-terms:jesus|Jesus]]** went to the town of **[[:en:key-terms:nazareth|Nazareth]]** where he had **grown up**. On the **[[:en:key-terms:sabbath|Sabbath]]**, he went to the **place of [[:en:key-terms:worship|worship]]**. They **gave him** the **scroll of the [[:en:key-terms:prophet|prophet]] [[:en:key-terms:isaiah|Isaiah]]**. Jesus **opened up the scroll** and **read from it**.
 
 
 ===== Translation Notes: =====
 
   * **grown up** - That is, "lived during his childhood."
-  * **scroll** - A scroll was a long sheet of paper that was rolled up instead of closing like a book. 
+  * **place of worship** – That is, “the building where people gathered to worship God.” It can also be translated as "worship building."
+  * **gave him** – “That is, “handed him.”
+  * **the scroll of the prophet Isaiah** – That is, “the scroll that had the words that the prophet Isaiah had written.” Isaiah had written on a scroll hundreds of years before. This was a copy of that scroll.
+  * **opened up the scroll** – This could be translated as, “rolled open the scroll” or, “unrolled the scroll.” 
+  * **read from it** - That is, “read part of it to the people.” 
   
 
 **[[:en:obs-training:frames:26-01|<<]] | [[:en:obs-training:26-jesus-starts-his-ministry|Up]] | [[:en:obs-training:frames:26-03|>>]]**
 
 
-~~DISCUSSION~~
+~~DISCUSSION:closed~~
