@@ -1,11 +1,18 @@
 
+
 ----
 
-**Door43**
 
-  * [[id:home|Door43 (id)]]
+**Door43** 
 
-**Resources**
 
-  * [[id:obs|Open Bible Stories (id)]]
+    * [[:id:home|Door43 (id)]]
+
+**Proyek**
+
+    * [[:id:Perjanjian Lama TSI (id)]]
+
+**Resources** 
+
+    * [[:id:obs|Open Bible Stories (id)]]
 
