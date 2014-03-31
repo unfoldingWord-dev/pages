@@ -8,7 +8,7 @@ Then **[[:en:key-terms:god|God]]** wrote **these [[:en:key-terms:ten-commandment
 ===== Translation Notes: =====
 
 
-  * **these Ten Commandments** - This refers to the commands God gave to Moses for the Israelites to obey.
+  * **these Ten Commandments** - This refers to the commands God gave to Moses for the Israelites to obey. They are listed in frames **[[:en:obs-training:frames:13-05|[13-05]]]** and **[[:en:obs-training:frames:13-06|[13-06]]]**. 
   * **stone tablets** - These were flat pieces of stone. 
   * **God also gave** - This can be translated as, “God also told them.” 
   * **to follow** - This can be translated as, “that they must obey” or, "that they must keep."
