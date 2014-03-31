@@ -2,16 +2,16 @@
 
 {{:en:obs:obs-27-05.jpg?nolink&640x360}}
 
-“While the man was traveling, he was attacked by a group of robbers. They took everything he had and beat him until he was almost dead. Then they went away.”
+**“While the man** was traveling, he was attacked by a group of robbers. They took **everything he had** and beat him until he was almost dead. Then they went away.”
 
 
 ===== Translation Notes: =====
 
-  * **issue** - explanation
-  * **issue** - explanation
+  * **“While the man** - Jesus continues to tell the story.
+  * **everything he had** – That is, “everything he had with him, including the clothes he was wearing.” 
 
 
 **[[:en:obs-training:frames:27-04|<<]] | [[:en:obs-training:27-the-story-of-the-good-samaritan|Up]] | [[:en:obs-training:frames:27-06|>>]]**
 
 
-~~DISCUSSION~~
+~~DISCUSSION:closed~~
