@@ -2,16 +2,17 @@
 
 {{:en:obs:obs-28-06.jpg?nolink&640x360}}
 
-Then **[[:en:key-terms:jesus|Jesus]]** said to his **[[:en:key-terms:disciple|disciples]]**, “**How hard it is** for rich people to enter into the **[[:en:key-terms:kingdom-of-god|Kingdom of God]]**! Yes, it is easier for a **[[:en:key-terms:camel|camel]]** to go through the **eye of a needle** than for a rich man to enter the Kingdom of God.”
+Then **[[:en:key-terms:jesus|Jesus]]** said to his **[[:en:key-terms:disciple|disciples]]**, “**How hard it is** for rich people to **enter into the [[:en:key-terms:kingdom-of-god|Kingdom of God]]**! Yes, it is easier for a **[[:en:key-terms:camel|camel]]** to go through the **eye of a needle** than for a rich man to enter the Kingdom of God.”
 
 
 ===== Translation Notes: =====
 
-  * **How hard it is** - This expression means, "it is extremely hard..."
-  * **eye of a needle** - This refers to the tiny hole in the end of a sewing needle. It is intended to represent something that is impossible unless God supernaturally intervenes.
+  * **How hard it is** - This expression means, "it is extremely hard."
+  * **enter the kingdom of God** - This can also be translated as “become a citizen in God's kingdom.” 
+  * **eye of a needle** - This refers to the tiny hole in the end of a sewing needle. The idea of something as large as a camel going through the eye of a needle is intended to represent something that is impossible.
   
 
 **[[:en:obs-training:frames:28-05|<<]] | [[:en:obs-training:28-the-rich-young-ruler|Up]] | [[:en:obs-training:frames:28-07|>>]]**
 
 
-~~DISCUSSION~~
+~~DISCUSSION:closed~~
