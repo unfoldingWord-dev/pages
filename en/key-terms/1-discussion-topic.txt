@@ -10,6 +10,8 @@
 
 **We are debating** what to do about special biblical terms. Within the OBS stories, these include:
 
+  * Bible
+  * Scripture
   * Christian
   * New Covenant
   * Good News
