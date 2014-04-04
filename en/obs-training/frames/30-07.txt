@@ -2,16 +2,16 @@
 
 {{:en:obs:obs-30-07.jpg?nolink&640x360}}
 
-Then **[[:en:key-terms:jesus|Jesus]]** took the five loaves of bread and the two fish, looked up to **[[:en:key-terms:heaven|heaven]]**, and **[[:en:key-terms:bless|blessed]]** the food.
+Then **[[:en:key-terms:jesus|Jesus]]** took the five loaves of bread and the two fish, looked up to **[[:en:key-terms:heaven|heaven]]**, and thanked **[[:en:key-terms:god|God]]** the food.
 
 
 ===== Translation Notes: =====
 
-  * **issue** - explanation
-  * **issue** - explanation
-  
+
+  * //There are no notes for this frame.//
+
 
 **[[:en:obs-training:frames:30-06|<<]] | [[:en:obs-training:30-jesus-feeds-five-thousand-people|Up]] | [[:en:obs-training:frames:30-08|>>]]**
 
 
-~~DISCUSSION~~
+~~DISCUSSION:closed~~
