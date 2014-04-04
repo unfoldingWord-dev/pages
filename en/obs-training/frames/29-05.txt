@@ -2,17 +2,17 @@
 
 {{:en:obs:obs-29-05.jpg?nolink&640x360}}
 
-“The **[[:en:key-terms:servant|servant]]** **went out** and **found another servant** who owed him a debt worth four months’ wages. The servant choked the man and said, ‘Pay me what you owe me!’”
+“The **[[:en:key-terms:servant|servant]]** **went out** and **found a fellow servant** who owed him a debt worth four months’ wages. The servant choked his fellow servant and said, ‘Pay me **what you owe me**!’”
 
 
 ===== Translation Notes: =====
 
-  * **went out** - That is, "went out from the king."
-  * **found another servant** - It seems to me that the servants are difficult to keep straight in this text. I suggest that we change this "servant" to "man" to match the next usage in the text.
+  * **went out** - That is, “went out from the king” or, “left the king.”
+  * **found a fellow servant** - This refers to another man who was also a servant of the king.
+  * **what you owe me** - That is, “the money you owe me.”
 
   
-
 **[[:en:obs-training:frames:29-04|<<]] | [[:en:obs-training:29-the-story-of-the-unmerciful-servant|Up]] | [[:en:obs-training:frames:29-06|>>]]**
 
 
-~~DISCUSSION~~
+~~DISCUSSION:closed~~

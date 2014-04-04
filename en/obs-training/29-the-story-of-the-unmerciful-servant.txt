@@ -23,7 +23,7 @@ The Huge Debt [29-02]\\
 Not Able to Repay [29-03]\\ 
 
 [[:en:obs-training:frames:29-04|{{:en:obs:obs-29-04.jpg?200|Frame}}]]\\ 
-The Debt Is Cancelled [29-04]\\ 
+The Debt Is Canceled [29-04]\\ 
 
 [[:en:obs-training:frames:29-05|{{:en:obs:obs-29-05.jpg?200|Frame}}]]\\ 
 The Small Debt [29-05]\\ 
