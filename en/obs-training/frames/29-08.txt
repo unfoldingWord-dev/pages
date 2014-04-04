@@ -2,17 +2,19 @@
 
 {{:en:obs:obs-29-08.jpg?nolink&640x360}}
 
-“The **[[:en:key-terms:king|king]]** called the **[[:en:key-terms:servant|servant]]** and said, ‘You wicked servant! I **[[:en:key-terms:forgive|forgave]]** your debt because you **[[:en:key-terms:beg|begged]]** me. **You should have done the same**.’ **In his anger the king** **threw the wicked servant into prison** until he could pay back all of his debt.”
+“The **[[:en:key-terms:king|king]]** **called the [[:en:key-terms:servant|servant]]** and said, ‘You wicked servant! I **[[:en:key-terms:forgive|forgave]]** your debt because you **[[:en:key-terms:beg|begged]] me**. **You should have done the same**.’ **In his anger** the king **threw the wicked servant into prison** until he could pay back all of his debt.”
 
 
 ===== Translation Notes: =====
 
-  * **You should have done the same** - That is, "You should have forgiven others in the same way."
-  * **In his anger the king** - This could be translated as, "The king was angry and ..."
-  * **threw the wicked servant into prison** - That is, "he commanded his guards to put the servant in prison."
+  * **called the servant** - That is, “commanded the servant to come to him” or, “ordered his guards to bring the servant to him”.
+  * **begged me** – This could be translated as, “pleaded with me” or, “urgently asked me to be merciful.”
+  * **You should have done the same** - That is, “You should have forgiven the man who owed you, just as I forgave you.”
+  * **In his anger** - This could be translated as, "because he was angry."
+  * **threw the wicked servant into prison** - That is, “he commanded his guards to put the servant in prison.” Consider how “threw” was translated in frame **[[:en:obs-training:frames:29-06|[29-06]]]**.
   
 
 **[[:en:obs-training:frames:29-07|<<]] | [[:en:obs-training:29-the-story-of-the-unmerciful-servant|Up]] | [[:en:obs-training:frames:29-09|>>]]**
 
 
-~~DISCUSSION~~
+~~DISCUSSION:closed~~

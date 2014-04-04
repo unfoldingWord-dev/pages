@@ -2,17 +2,19 @@
 
 {{:en:obs:obs-29-09.jpg?nolink&640x360}}
 
-Then **[[:en:key-terms:jesus|Jesus]]** said, “**This** is what **my [[:en:key-terms:heaven|heavenly]] [[:en:key-terms:god-father|Father]]** will do to every one of you if you do not **[[:en:key-terms:forgive|forgive]]** your brother **from your heart**.”
+**Then [[:en:key-terms:jesus|Jesus]] said**, “**This** is what **my [[:en:key-terms:heaven|heavenly]] [[:en:key-terms:god-father|Father]]** will do to every one of you if you do not **[[:en:key-terms:forgive|forgive]]** **your brother** **from your heart**.”
 
 
 ===== Translation Notes: =====
 
-  * **my heavenly Father** - Jesus is expressing his unique, personal relationship to God the Father. 
-  * **This** - "This" refers back to the punishment of the unforgiving servant in the previous frame.
-  * **from your heart** - That is, "with sincerity" or, "truly" or, "honestly."
+  * **Then Jesus said** – Some languages will need to add, “to his disciples.”
+  * **This** - "This" refers back to the punishment of the unforgiving servant in **[[:en:obs-training:frames:29-08|[29-08]]]**.
+  * **my heavenly Father** - That is, “my Father in heaven.” Jesus is expressing his unique, personal relationship to God the Father.
+  * **your brother** - See how you translated this in **[[:en:obs-training:frames:29-01|[29-01]]]**.
+  * **from your heart** - That is, "with sincerity" or, "truly" or, "genuinely" or, "honestly."
   
 
 **[[:en:obs-training:frames:29-08|<<]] | [[:en:obs-training:29-the-story-of-the-unmerciful-servant|Up]] | [[:en:obs-training:frames:30-01|>>]]**
 
 
-~~DISCUSSION~~
+~~DISCUSSION:closed~~
