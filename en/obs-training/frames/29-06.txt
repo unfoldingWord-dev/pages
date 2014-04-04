@@ -2,17 +2,19 @@
 
 {{:en:obs:obs-29-06.jpg?nolink&640x360}}
 
-“The man fell on his knees and said, ‘Please be patient with me, and **I will pay everything back**.’ But the **[[:en:key-terms:servant|servant]]** refused and **threw the man in prison** until he could pay the debt.”
+“The **fellow [[:en:key-terms:servant|servant]]** **fell on his knees** and said, ‘Please be patient with me, and I will pay the full amount that I owe you.’ But the servant **refused** and **threw the fellow servant in prison** until he could pay the debt.”
 
 
 ===== Translation Notes: =====
 
-  * **I will pay everything back** - That is, "I will repay you the full amount that I owe you."
-  * **threw the man in prison** - This could also be translated as, "had the man put into prison."
+  * **fellow servant** - Translate this phrase in the same way as in **[[:en:obs-training:frames:29-05|[29-05]]]**.
+  * **fell on his knees** - This phrase has the same meaning as in **[[:en:obs-training:frames:29-04|[29-04]]]**.
+  * **refused** - That is, “refused to wait.”
+  * **threw the man in prison** - This could also be translated as, “had the man put into prison.” The word “threw” is figurative and means it was done in a forceful way. 
 
   
 
 **[[:en:obs-training:frames:29-05|<<]] | [[:en:obs-training:29-the-story-of-the-unmerciful-servant|Up]] | [[:en:obs-training:frames:29-07|>>]]**
 
 
-~~DISCUSSION~~
+~~DISCUSSION:closed~~
