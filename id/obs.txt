@@ -1,8 +1,10 @@
 ====== Open Bible Stories (id) ======
 
-Welcome to Open Bible Stories! Please feel free to translate this page and the stories (including the titles) below. If you need help, [[http://distantshoresmedia.org/contact|just ask]]!
+
+Selamat datang di Open Bible Stories (Cerita Alkitab Terbuka)! Silahkan menerjemahkan halaman ini dan cerita-cerita (termasuk judulnya) di bawah. Jika memerlukan bantuan, [[http://distantshoresmedia.org/contact|silahkan bertanya!]]
 
 
 {{page>id:obs:stories}}
+
 
 {{page>en:obs:active}}
