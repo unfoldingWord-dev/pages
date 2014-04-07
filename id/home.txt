@@ -1,10 +1,11 @@
 ====== Door43 (id) ======
 
 
-Selamat datagng di Door43! Silahkan [[:id:home?do=edit|edit]] halaman ini ke dalam bahasa sendiri.
+Selamat datang di Door43! Silahkan [[:id:home?do=edit|edit]] halaman ini ke dalam bahasa sendiri.
 
 
 Catatan: sebagian proyek (seperti [[http://id.door43.org/wiki/TSI|TSI]]) masih di [[http://id.door43.org|legacy Door43]].
+
 
 ===== Sumber-sumber =====
 
