@@ -1,8 +1,8 @@
+=====TSI=====
 
 
 
+**[[:id:tsi:01-kejadian]]**
 
-**[[:id:tsi|01 Kejadian]]**
 
-
-**[[:id:tsi|19 Mazmur]]**
+**[[:id:tsi:19-mazmur]]**
