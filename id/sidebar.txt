@@ -8,11 +8,11 @@
 
     * [[:id:home|Door43 (id)]]
 
-**Proyek**
+**Terjemahan Sederhana Indonesia**
 
-    * [[:id:Perjanjian Lama TSI (id)]]
+    **[[:id:TSI]]**
 
-**Resources** 
+  * **[[:id:tsi:01-Kejadian]]**
+  * **[[:id:tsi:19-Mazmur]]**
 
-    * [[:id:obs|Open Bible Stories (id)]]
-
+    * [[:id:obs|Cerita-cerita Alkitab yang terbuka (id)]]
