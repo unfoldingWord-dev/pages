@@ -1,10 +1,18 @@
 ====== Door43 (id) ======
 
+Halaman ini adalah tempat bekerjasama untuk menerjemahkan Perjanjian Lama Terjemahan Sederhana Indonesia. Kalau Anda ingin tergabung dengan Tim BahasaKita— baik secara informal atau sebagai anggota tim, silakan hubungi tim.kita@bahasakita.net.
 
-Selamat datang di Door43! Silahkan [[:id:home?do=edit|edit]] halaman ini ke dalam bahasa sendiri.
+**[[:id:tsi]]**
 
 
-Catatan: sebagian proyek (seperti [[http://id.door43.org/wiki/TSI|TSI]]) masih di [[http://id.door43.org|legacy Door43]].
+
+[[:id:home?do=edit|edit]]
+
+
+Catatan: Perjanjian Baru TSI dikerjakan melalui kerjasama Door43.org, tetapi pakai wiki yang lama. File-file itu sudah tidak diperbarui lagi, dan merupakan edisi sebelum edisi pertama yang sudah diterbitkan. Untuk melihat Edisi Pertama, tolong lihat informasi di [[http://albata.info]]
+
+Untuk lihat versi waktu masih dikerjakan di Door43.org, silakan lihat 
+ [[http://id.door43.org/wiki/TSI|TSI]]) masih di [[http://id.door43.org|legacy Door43]].
 
 
 ===== Sumber-sumber =====
