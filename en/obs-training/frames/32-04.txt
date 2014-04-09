@@ -2,16 +2,16 @@
 
 {{:en:obs:obs-32-04.jpg?nolink&640x360}}
 
-The man lived among the **[[:en:key-terms:tomb|tombs]]** in the area. **Day and night this man would scream**. He wore no clothes and cut himself repeatedly with stones.
+The man lived **among the [[:en:key-terms:tomb|tombs]]** in the area. This man would scream all day and all night. He wore no clothes and cut himself repeatedly with stones.
 
 
 ===== Translation Notes: =====
 
-  * **Day and night this man would scream** - This could also be translated as, "This man would scream all day and all night."
+  * **among the tombs** - That is “near the tombs” or, “around the tombs.” 
   * **issue** - explanation
   
 
 **[[:en:obs-training:frames:32-03|<<]] | [[:en:obs-training:32-jesus-heals-a-demon-possessed-man|Up]] | [[:en:obs-training:frames:32-05|>>]]**
 
 
-~~DISCUSSION~~
+~~DISCUSSION:closed~~
