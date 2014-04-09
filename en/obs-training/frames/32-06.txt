@@ -2,14 +2,12 @@
 
 {{:en:obs:obs-32-06.jpg?nolink&640x360}}
 
-The **[[:en:key-terms:demon-possessed|man with the demon]]** cried out in a loud voice and said, “**What do you want with me**, **[[:en:key-terms:jesus|Jesus]]**, **[[:en:key-terms:god-son|Son of the Most High God]]**? Please do not torture me!” Then **Jesus asked the man**, “What is your name?” **He replied**, “My name is Legion, **for we are many**.” (A legion was a group of up to 6,000 soldiers.)
+The **[[:en:key-terms:demon-possessed|man with the demon]]** cried out in a loud voice, “**What do you want with me**, **[[:en:key-terms:jesus|Jesus]]**, **[[:en:key-terms:god-son|Son]]** of **the [[:en:key-terms:god-most-high|Most High God]]**? Please do not torture me!” Then Jesus asked the demon, “What is your name?” **He replied**, “My name is Legion, **for we are many**.” (A legion was a group of up to 6,000 soldiers.)
 
 
 ===== Translation Notes: =====
 
   * **What do you want with me** - This expression means, "Why are you bothering me?"
-  * **Jesus asked the man** - Should we change the text to, "Jesus asked the demon?"
-  * **He replied** - If we change the previous phrase, this should say, "The demon replied."
   * **for we are many** - That is, "for there are many of us."
   
 
