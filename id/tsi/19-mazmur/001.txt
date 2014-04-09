@@ -23,7 +23,7 @@
 \p
 
 \q1
-\v 3  Mereka selalu berhasil dalam segala usaha,
+\v 3 Mereka selalu berhasil dalam segala usaha,
 
 \q2 bagaikan pohon yang tumbuh dekat sungai,
 
@@ -31,20 +31,24 @@
 
 \q1
 
-\v 4  Tidak demikian bagi orang jahat!  
+\v 4 Tidak demikian bagi orang jahat!  
 
-\q2 Mereka bagaikan biji rumput kering yang diterbangkan angin.
+\q2 Mereka bagaikan debu
+
+\f + \fr 1:4 \fk debu \ft Secara harfiah, “sekam” dari biji gandum. Sekam merupakan perbandingan dengan pohon yang berbuah subur pada ayat 3, menggambarkan bahwa orang-orang jahat tidak berguna, tidak berhasil, dan akan cepat lenyap.\f*
+
+ yang diterbangkan angin.
 
 \q1
 
-\v 5  Orang jahat tidak akan luput dari penghakiman. 
+\v 5 Orang jahat akan dinyatakan bersalah pada hari penghakiman//tidak akan luput dari penghakiman. 
 
-\q2 Tidak tersedia tempat bagi mereka  untuk bergabung dengan orang yang benar. 
+\q2 Mereka yang berdosa tidak diijinkan masuk dalam umat Allah di surga.
  
 \q1
 
-\v 6  TUHAN mengetahui dan melindungi langkah dan kehidupan orang benar, 
+\v 6 TUHAN menyertai orang benar, 
 
-\q2 namun jalan dan kehidupan orang jahat menuju malapetaka dan kebinasaan.
+\q2 tetapi orang jahat menuju kebinasaan.
 
 </USFM>
