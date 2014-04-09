@@ -2,11 +2,12 @@
 
 {{:en:obs:obs-37-01.jpg?nolink&640x360}}
 
-One day, **[[:en:key-terms:jesus|Jesus]]** received a message that **[[:en:key-terms:lazarus|Lazarus]]** was very sick. Lazarus and his two sisters, **[[:en:key-terms:mary-sister|Mary]]** and **[[:en:key-terms:martha-sister|Martha]]**, were close friends of Jesus. When Jesus heard this news, he said, “This sickness **will not end in [[:en:key-terms:death|death]]**, but it **will bring [[:en:key-terms:glory|glory]] to [[:en:key-terms:god|God]]**.” Jesus **[[:en:key-terms:love|loved]]** his friends, **but he waited** where he was for two days.
+**One day**, **[[:en:key-terms:jesus|Jesus]]** received a message that **[[:en:key-terms:lazarus|Lazarus]]** was very sick. Lazarus and his two sisters, **[[:en:key-terms:mary-sister|Mary]]** and **[[:en:key-terms:martha-sister|Martha]]**, were close friends of Jesus. When Jesus heard this news, he said, “This sickness **will not end in [[:en:key-terms:death|death]]**, but it **will bring [[:en:key-terms:glory|glory]] to [[:en:key-terms:god|God]]**.” Jesus **[[:en:key-terms:love|loved]]** his friends, **but he waited** where he was for two days.
 
 
 ===== Translation Notes: =====
 
+  * **One day** - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
   * **will not end in death** - This expression is carefully worded. Lazarus will die of his sickness. But Jesus will raise him to life so that he will ultimately be alive when this story is completed. Try to use an ambiguous expression, or one with this double meaning if possible. 
   * **will bring glory to God.** - That is, "God will be glorified by this."
   * **but he waited** - Make sure to translate this with contrasting word that shows that Jesus delayed his visit to Lazarus in spite of the fact that Lazarus urgently needed his help. 

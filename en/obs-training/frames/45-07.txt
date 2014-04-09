@@ -6,7 +6,7 @@
 
 ===== Translation Notes: =====
 
-  * **One day** - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
+  * **one day** - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
   * **Gaza in the desert** - Gaza is a desert area located between modern-day Israel and Egypt.
   * **issue** - explanation
   
