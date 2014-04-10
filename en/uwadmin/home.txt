@@ -1,0 +1,3 @@
+====== This is the unfoldingWord Administration section ======
+
+The structure for pages in this section uses the same **<langcode>/<projectcode>**, e.g. **en/obs**. Individual administrative pages exist under the project code namespace, e.g. **[[:en:uwadmin:en:obs:status|en/obs/status]]**.

@@ -1,0 +1,19 @@
+//The status of development for Open Bible Stories// 
+
+
+publish date: 2014-01-01
+
+
+version: 2.0
+
+
+checking entity: Distant Shores Media; Wycliffe Associates
+
+
+checking level: 3
+
+
+source text: en
+
+
+source text version: 2.0
