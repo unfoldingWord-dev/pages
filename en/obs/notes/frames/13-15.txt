@@ -4,12 +4,14 @@
 
 **[[:en:key-terms:moses|Moses]]** climbed the mountain again and **[[:en:key-terms:pray|prayed]]** that **[[:en:key-terms:god|God]]** would **[[:en:key-terms:forgive|forgive]]** the people. God **listened to** Moses and forgave them. **Moses wrote** the **[[:en:key-terms:ten-commandments|Ten Commandments]]** on new stone tablets to replace the ones he had broken. Then God led the **[[:en:key-terms:israel|Israelites]]** away from **[[:en:key-terms:sinai|Mount Sinai]]** toward the **[[:en:key-terms:promised-land|Promised Land]]**.
 
+//A Bible story from: Exodus 19-34//
+
 
 ===== Translation Notes: =====
 
-
   * **listened to** - See how you translated this phrase in **[[:en:obs:notes:frames:13-12|[13-12]]]**.
   * **Moses wrote** - Moses chiseled the words into the stone using a tool.
+  * **A Bible story from:** - If all or portions of the Bible have already been translated into your language, check to make sure that these references point to the correct chapters and verses.
   
 
 **[[:en:obs:notes:frames:13-14|<<]] | [[:en:obs:notes:13|Up]] | [[:en:obs:notes:frames:14-01|>>]]**
