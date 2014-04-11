@@ -5,6 +5,8 @@
 
 Then **[[:en:key-terms:god|God]]** made a **[[:en:key-terms:covenant|covenant]]** with **[[:en:key-terms:abraham|Abram]]**. A covenant is an agreement between **two parties**. God said, "I will give you a **[[:en:key-terms:son|son]] from your own body**. I give the land of **[[:en:key-terms:canaan|Canaan]]** to your **[[:en:key-terms:descendant|descendants]]**.” But Abram still had **no son**.
 
+//A Bible story from: Genesis 11-15//
+
 
 ===== Translation Notes: =====
 
@@ -12,6 +14,7 @@ Then **[[:en:key-terms:god|God]]** made a **[[:en:key-terms:covenant|covenant]]*
   * **two parties** -  The parties could be two people, two groups of people, or a person and a group of people. In this case the agreement was between God and Abram. 
   * **from your own body** - With his own body Abram would cause his wife to become pregnant, so that together they would have their own, natural son. This was an amazing promise, since Abram and Sarai were very old.
   * **no son** - Abram still did not have a son, so he did not have any descendants who could possess the land.
+  * **A Bible story from:** - If all or portions of the Bible have already been translated into your language, check to make sure that these references point to the correct chapters and verses.
   
 **[[:en:obs-training:frames:04-08|<<]] | [[:en:obs-training:04-gods-covenant-with-abraham|Up]] | [[:en:obs-training:frames:05-01|>>]]**
 

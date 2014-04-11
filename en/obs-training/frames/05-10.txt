@@ -4,6 +4,8 @@
 
 Then **[[:en:key-terms:god|God]]** said to **[[:en:key-terms:abraham|Abraham]]**, “Because you were willing to give me everything, even **your only [[:en:key-terms:son|son]]**, I **[[:en:key-terms:promise|promise]]** to **[[:en:key-terms:bless|bless]]** you. Your **[[:en:key-terms:descendant|descendants]]** will be more than **the stars in the sky**. Because you have **[[:en:key-terms:obey|obeyed]]** me, **all the families of the world** will be **blessed through your family**.”
 
+//A Bible story from: Genesis 16-22//
+
 
 ===== Translation Notes: =====
 
@@ -12,6 +14,7 @@ Then **[[:en:key-terms:god|God]]** said to **[[:en:key-terms:abraham|Abraham]]**
   * **the stars in the sky** - See explanation in **[[:en:obs-training:frames:04-05|[04-05]]]**.
   * **all the families of the world** - Here, "families" refers to the larger distinct groups of people on earth, rather than to each set of parents and children. 
   * **blessed through your family** - Here, "family" refers to the many descendants that Abraham would have. The future generations of the world would be blessed through Abraham's descendants. The greatest blessing would come many generations later through God's chosen servant, the Messiah.
+  * **A Bible story from:** - If all or portions of the Bible have already been translated into your language, check to make sure that these references point to the correct chapters and verses.
   
 
 **[[:en:obs-training:frames:05-09|<<]] | [[:en:obs-training:05-the-son-of-promise|Up]] | [[:en:obs-training:frames:06-01|>>]]**
