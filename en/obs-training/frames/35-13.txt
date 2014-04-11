@@ -4,6 +4,8 @@
 
 “The father answered, ‘My **[[:en:key-terms:son|son]]**, you are always with me, and everything I have is yours. But **it is right for us** to celebrate, because **your brother was [[:en:key-terms:death|dead]], but now is [[:en:key-terms:life|alive]]**. **He was lost, but now is found!**’”
 
+//A Bible story from: Luke 15:11-32//
+
 
 ===== Translation Notes: =====
 
@@ -11,6 +13,7 @@
   * **it is right for us** - That is, "it is the right thing for us to do" or, "it is proper for us."
   * **your brother was dead, but now is alive.** - That is, “we thought your own brother was dead, but now we see that he is alive!”
   * **He was lost, but now is found!** - This could also be translated as, “We had lost him, but now we have found him again!”
+  * **A Bible story from:** - If all or portions of the Bible have already been translated into your language, check to make sure that these references point to the correct chapters and verses.
   
 
 **[[:en:obs-training:frames:35-12|<<]] | [[:en:obs-training:35-the-story-of-the-compassionate-father|Up]] | [[:en:obs-training:frames:36-01|>>]]**

@@ -4,6 +4,8 @@
 
 The woman **fell on her knees** **before [[:en:key-terms:jesus|Jesus]]**, **shaking and very afraid**. Then she told him what she had done, and that she had been healed. Jesus said to her, “**Your [[:en:key-terms:faith|faith]] has [[:en:key-terms:heal|healed]] you**. Go in **[[:en:key-terms:peace|peace]]**.”
 
+//A Bible story from: Matthew 8:28-34; 9:20-22; Mark 5:1-20; 5:24b-34; Luke 8:26-39; 8:42b-48//
+
 
 ===== Translation Notes: =====
 
@@ -12,6 +14,7 @@ The woman **fell on her knees** **before [[:en:key-terms:jesus|Jesus]]**, **shak
   * **shaking and very afraid** - That is, “shaking with fear” or, “trembling because she was afraid.” 
   * **Your faith has healed you.** - This could also be translated as, “You have been healed because of your faith.” 
   * **Go in peace.** - People spoke this traditional blessing when they left each other. Other languages may say something similar such as, “Go well”, “Go with God” or, “Peace.” Other ways of translating it could be, “May you have peace as you go” or, “Go and know that all is well between us.”
+  * **A Bible story from:** - If all or portions of the Bible have already been translated into your language, check to make sure that these references point to the correct chapters and verses.
   
 
 **[[:en:obs-training:frames:32-15|<<]] | [[:en:obs-training:32-jesus-heals-a-demon-possessed-man|Up]] | [[:en:obs-training:frames:33-01|>>]]**

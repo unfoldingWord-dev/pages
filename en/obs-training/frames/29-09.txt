@@ -4,6 +4,8 @@
 
 **Then [[:en:key-terms:jesus|Jesus]] said**, “**This** is what **my [[:en:key-terms:heaven|heavenly]] [[:en:key-terms:god-father|Father]]** will do to every one of you if you do not **[[:en:key-terms:forgive|forgive]]** **your brother** **from your heart**.”
 
+//A Bible story from: Matthew 18:21-35//
+
 
 ===== Translation Notes: =====
 
@@ -12,6 +14,7 @@
   * **my heavenly Father** - That is, “my Father in heaven.” Jesus is expressing his unique, personal relationship to God the Father.
   * **your brother** - See how you translated this in **[[:en:obs-training:frames:29-01|[29-01]]]**.
   * **from your heart** - That is, "with sincerity" or, "truly" or, "genuinely" or, "honestly."
+  * **A Bible story from:** - If all or portions of the Bible have already been translated into your language, check to make sure that these references point to the correct chapters and verses.
   
 
 **[[:en:obs-training:frames:29-08|<<]] | [[:en:obs-training:29-the-story-of-the-unmerciful-servant|Up]] | [[:en:obs-training:frames:30-01|>>]]**

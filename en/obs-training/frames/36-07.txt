@@ -4,11 +4,13 @@
 
 As **[[:en:key-terms:jesus|Jesus]]** and the three **[[:en:key-terms:disciple|disciples]]** went back down the mountain, Jesus said to them, “Do not tell anyone about what happened here until **after I have been [[:en:key-terms:raise|raised]] from the [[:en:key-terms:death|dead]]**.”
 
+//A Bible story from: Matthew 17:1-9; Mark 9:2-8; Luke 9:28-36//
+
 
 ===== Translation Notes: =====
 
   * **after I have been raised from the dead** - That is, "after I have died and been made alive again."
-  * **issue** - explanation
+  * **A Bible story from:** - If all or portions of the Bible have already been translated into your language, check to make sure that these references point to the correct chapters and verses.
   
 
 **[[:en:obs-training:frames:36-06|<<]] | [[:en:obs-training:36-the-transfiguration|Up]] | [[:en:obs-training:frames:37-01|>>]]**

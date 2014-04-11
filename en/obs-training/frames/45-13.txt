@@ -4,11 +4,13 @@
 
 The **[[:en:key-terms:ethiopia|Ethiopian]]** **went on his way**, happy to know **[[:en:key-terms:jesus|Jesus]]**.
 
+//A Bible story from: Acts 8:26-40//
+
 
 ===== Translation Notes: =====
 
   * **went on his way** - This could also be translated as, "continued his journey home."
-  * **issue** - explanation
+  * **A Bible story from:** - If all or portions of the Bible have already been translated into your language, check to make sure that these references point to the correct chapters and verses.
   
 
 **[[:en:obs-training:frames:45-12|<<]] | [[:en:obs-training:45-philip-and-the-ethiopian-official|Up]] | [[:en:obs-training:frames:46-01|>>]]**
