@@ -7,6 +7,9 @@ publish date: 2014-01-01
 version: 2.0
 
 
+contributors: Distant Shores Media
+
+
 checking entity: Distant Shores Media; Wycliffe Associates
 
 
