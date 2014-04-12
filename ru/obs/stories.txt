@@ -10,44 +10,44 @@
     - [[:ru:obs:08-god-saves-joseph-and-his-family|Бог спасает Иосифа и его семью​]]
     - [[:ru:obs:09-god-calls-moses|Бог призывает Моисея​]]
     - [[:ru:obs:10-the-ten-plagues|Десять бедствий]]**[[:ru:obs:10-the-ten-plagues|​]]**
-    - [[:ru:obs:11-the-passover|The Passover]]
-    - [[:ru:obs:12-the-exodus|The Exodus]]
-    - [[:ru:obs:13-gods-covenant-with-israel|God's Covenant with Israel]]
-    - [[:ru:obs:14-wandering-in-the-wilderness|Wandering in the Wilderness]]
-    - [[:ru:obs:15-the-promised-land|The Promised Land]]
-    - [[:ru:obs:16-the-deliverers|The Deliverers]]
-    - [[:ru:obs:17-gods-covenant-with-david|God's Covenant with David]]
-    - [[:ru:obs:18-the-divided-kingdom|The Divided Kingdom]]
-    - [[:ru:obs:19-the-prophets|The Prophets]]
-    - [[:ru:obs:20-the-exile-and-return|The Exile and Return]]
-    - [[:ru:obs:21-god-promises-the-messiah|God Promises the Messiah]]
-    - [[:ru:obs:22-the-birth-of-john|The Birth of John]]
-    - [[:ru:obs:23-the-birth-of-jesus|The Birth of Jesus]]
-    - [[:ru:obs:24-john-baptizes-jesus|John Baptizes Jesus]]
-    - [[:ru:obs:25-satan-tempts-jesus|Satan Tempts Jesus]]
-    - [[:ru:obs:26-jesus-starts-his-ministry|Jesus Starts His Ministry]]
-    - [[:ru:obs:27-the-story-of-the-good-samaritan|The Story of the Good Samaritan]]
-    - [[:ru:obs:28-the-rich-young-ruler|The Rich Young Ruler]]
-    - [[:ru:obs:29-the-story-of-the-unmerciful-servant|The Story of the Unmerciful Servant]]
-    - [[:ru:obs:30-jesus-feeds-five-thousand-people|Jesus Feeds Five Thousand People]]
-    - [[:ru:obs:31-jesus-walks-on-water|Jesus Walks on Water]]
-    - [[:ru:obs:32-jesus-heals-a-demon-possessed-man|Jesus Heals a Demon Possessed Man]]
-    - [[:ru:obs:33-the-story-of-the-farmer|The Story of the Farmer]]
-    - [[:ru:obs:34-jesus-teaches-other-stories|Jesus Teaches Other Stories]]
-    - [[:ru:obs:35-the-story-of-the-compassionate-father|The Story of the Compassionate Father]]
-    - [[:ru:obs:36-the-transfiguration|The Transfiguration]]
-    - [[:ru:obs:37-jesus-raises-lazarus-from-the-dead|Jesus Raises Lazarus from the Dead]]
-    - [[:ru:obs:38-jesus-is-betrayed|Jesus Is Betrayed]]
-    - [[:ru:obs:39-jesus-is-put-on-trial|Jesus Is Put on Trial]]
-    - [[:ru:obs:40-jesus-is-crucified|Jesus Is Crucified]]
-    - [[:ru:obs:41-god-raises-jesus-from-the-dead|God Raises Jesus from the Dead]]
-    - [[:ru:obs:42-jesus-returns-to-heaven|Jesus Returns to Heaven]]
-    - [[:ru:obs:43-the-church-begins|The Church Begins]]
-    - [[:ru:obs:44-peter-and-john-heal-a-beggar|Peter and John Heal a Beggar]]
-    - [[:ru:obs:45-philip-and-the-ethiopian-official|Philip and the Ethiopian Official]]
-    - [[:ru:obs:46-paul-becomes-a-christian|Paul Becomes a Christian]]
-    - [[:ru:obs:47-paul-and-silas-in-philippi|Paul and Silas in Philippi]]
-    - [[:ru:obs:48-jesus-is-the-promised-messiah|Jesus is the Promised Messiah]]
-    - [[:ru:obs:49-gods-new-covenant|God's New Covenant]]
-    - [[:ru:obs:50-jesus-returns|Jesus Returns]]
+    - [[:ru:obs:11-the-passover|Еврейская Пасха​]]
+    - [[:ru:obs:12-the-exodus|Исход​]]
+    - [[:ru:obs:13-gods-covenant-with-israel|Божий завет с Израилем​]]
+    - [[:ru:obs:14-wandering-in-the-wilderness|Скитания в пустыне]]​
+    - [[:ru:obs:15-the-promised-land|Обетованная земля]]​
+    - [[:ru:obs:16-the-deliverers|Освободители]]​
+    - [[:ru:obs:17-gods-covenant-with-david|Божий]][[:ru:obs:17-gods-covenant-with-david|завет]] с [[:ru:obs:17-gods-covenant-with-david|Давидом]]​
+    - [[:ru:obs:18-the-divided-kingdom|Разделённое царство]]​
+    - [[:ru:obs:19-the-prophets|Пророки]]​
+    - [[:ru:obs:20-the-exile-and-return|Пленение и возвращение]]​
+    - [[:ru:obs:21-god-promises-the-messiah|Бог обещает Мессию]]​
+    - [[:ru:obs:22-the-birth-of-john|Рождение Иоанна]]​
+    - [[:ru:obs:23-the-birth-of-jesus|Рождение Иисуса​]]
+    - [[:ru:obs:24-john-baptizes-jesus|Иоанн крестит Иисуса​]]
+    - [[:ru:obs:25-satan-tempts-jesus|Сатана искушает Иисуса]]​
+    - [[:ru:obs:26-jesus-starts-his-ministry|Иисус начинает Своё служение]]​
+    - [[:ru:obs:27-the-story-of-the-good-samaritan|История о добром самарянине]]​
+    - [[:ru:obs:28-the-rich-young-ruler|Богатый молодой руководитель​]]
+    - [[:ru:obs:29-the-story-of-the-unmerciful-servant|История немилосердного слуги​]]
+    - [[:ru:obs:30-jesus-feeds-five-thousand-people|Иисус кормит пять тысяч человек]]​
+    - [[:ru:obs:31-jesus-walks-on-water|Иисус ходит по воде]]​
+    - [[:ru:obs:32-jesus-heals-a-demon-possessed-man|Иисус исцеляет бесноватого человека и больную женщину​]]
+    - [[:ru:obs:33-the-story-of-the-farmer|История фермера​]]
+    - [[:ru:obs:34-jesus-teaches-other-stories|Иисус преподаёт другие истории]]​
+    - [[:ru:obs:35-the-story-of-the-compassionate-father|История сострадательного отца]]​
+    - [[:ru:obs:36-the-transfiguration|Преображение]]​
+    - [[:ru:obs:37-jesus-raises-lazarus-from-the-dead|Иисус воскрешает Лазаря из мёртвых]]​
+    - [[:ru:obs:38-jesus-is-betrayed|Иисуса предают]]​
+    - [[:ru:obs:39-jesus-is-put-on-trial|Иисус предан суду​]]
+    - [[:ru:obs:40-jesus-is-crucified|Иисус распят]]​
+    - [[:ru:obs:41-god-raises-jesus-from-the-dead|Бог воскрешает Иисуса из мёртвых​]]
+    - [[:ru:obs:42-jesus-returns-to-heaven|Иисус]][[:ru:obs:42-jesus-returns-to-heaven|возвращается]][[:ru:obs:42-jesus-returns-to-heaven|на]] небеса​
+    - [[:ru:obs:43-the-church-begins|Церковь начинается]]​
+    - [[:ru:obs:44-peter-and-john-heal-a-beggar|Пётр и Иоанн исцеляют нищего​]]
+    - [[:ru:obs:45-philip-and-the-ethiopian-official|Филипп и Эфиопский чиновник​]]
+    - [[:ru:obs:46-paul-becomes-a-christian|Павел]][[:ru:obs:46-paul-becomes-a-christian|становится]] Христианином​
+    - [[:ru:obs:47-paul-and-silas-in-philippi|Павел]] и [[:ru:obs:47-paul-and-silas-in-philippi|Сила]] в Филиппах​
+    - [[:ru:obs:48-jesus-is-the-promised-messiah|Иисус – обещанный Мессия​]]
+    - [[:ru:obs:49-gods-new-covenant|Божий Новый Завет​]]
+    - [[:ru:obs:50-jesus-returns|Иисус возвращается​]]
 
