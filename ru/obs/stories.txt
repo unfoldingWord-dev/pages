@@ -16,7 +16,7 @@
     - [[:ru:obs:14-wandering-in-the-wilderness|Скитания в пустыне]]​
     - [[:ru:obs:15-the-promised-land|Обетованная земля]]​
     - [[:ru:obs:16-the-deliverers|Освободители]]​
-    - [[:ru:obs:17-gods-covenant-with-david|Божий]][[:ru:obs:17-gods-covenant-with-david|завет]] с [[:ru:obs:17-gods-covenant-with-david|Давидом]]​
+    - [[:ru:obs:17-gods-covenant-with-david|Божий завет с Давидом]]​
     - [[:ru:obs:18-the-divided-kingdom|Разделённое царство]]​
     - [[:ru:obs:19-the-prophets|Пророки]]​
     - [[:ru:obs:20-the-exile-and-return|Пленение и возвращение]]​
@@ -41,12 +41,12 @@
     - [[:ru:obs:39-jesus-is-put-on-trial|Иисус предан суду​]]
     - [[:ru:obs:40-jesus-is-crucified|Иисус распят]]​
     - [[:ru:obs:41-god-raises-jesus-from-the-dead|Бог воскрешает Иисуса из мёртвых​]]
-    - [[:ru:obs:42-jesus-returns-to-heaven|Иисус]][[:ru:obs:42-jesus-returns-to-heaven|возвращается]][[:ru:obs:42-jesus-returns-to-heaven|на]] небеса​
+    - [[:ru:obs:42-jesus-returns-to-heaven|Иисус возвращается на небеса]]​
     - [[:ru:obs:43-the-church-begins|Церковь начинается]]​
     - [[:ru:obs:44-peter-and-john-heal-a-beggar|Пётр и Иоанн исцеляют нищего​]]
     - [[:ru:obs:45-philip-and-the-ethiopian-official|Филипп и Эфиопский чиновник​]]
-    - [[:ru:obs:46-paul-becomes-a-christian|Павел]][[:ru:obs:46-paul-becomes-a-christian|становится]] Христианином​
-    - [[:ru:obs:47-paul-and-silas-in-philippi|Павел]] и [[:ru:obs:47-paul-and-silas-in-philippi|Сила]] в Филиппах​
+    - [[:ru:obs:46-paul-becomes-a-christian|Павел становится Христианином]]​
+    - [[:ru:obs:47-paul-and-silas-in-philippi|Павел]][[:ru:obs:47-paul-and-silas-in-philippi| и ]][[:ru:obs:47-paul-and-silas-in-philippi|Сила]][[:ru:obs:47-paul-and-silas-in-philippi| в Филиппах​]]
     - [[:ru:obs:48-jesus-is-the-promised-messiah|Иисус – обещанный Мессия​]]
     - [[:ru:obs:49-gods-new-covenant|Божий Новый Завет​]]
     - [[:ru:obs:50-jesus-returns|Иисус возвращается​]]
