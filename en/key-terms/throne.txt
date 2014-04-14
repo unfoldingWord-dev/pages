@@ -1,17 +1,15 @@
 ====== throne ======
 
 
-==== (term, other) ====
-
-
 ===== Definitions: =====
 
-  * A throne is a ceremonial chair for a king or queen.
-  * It represents the king's authority.
-  * The expression "sit on the throne" means to be king.
+A throne is a ceremonial chair for a king or queen.
+
+  * A throne represents the king's authority.
+  * The expression "to sit on the throne" means, "to be king."
 
 
-[See also: **[[:en:key-terms:term|term]]**]
+[See also: **[[:en:key-terms:king|king]]**]
 
 
 ===== Examples from the Bible stories: =====
@@ -20,4 +18,4 @@
   ***[[:en:obs-training:frames:21-08|[21-08]]]** The coming Messiah would be the perfect king who would sit on the **throne** of his ancestor David, who would reign over the whole world forever, and who would judge honestly and make the right decision every time.
 
 
-~~DISCUSSION~~
+~~DISCUSSION:closed~~

@@ -3,11 +3,14 @@
 
 ===== Facts: =====
 
-  * Nathan was a prophet of God who lived during the time that David was king over Israel.
-  * After David sinned grievously against Uriah, Nathan confronted David and rebuked him.
+Nathan was a faithful prophet of God who lived during the time when David was king over Israel.
+
+  * God sent Nathan to confronted David after David sinned grievously against Uriah.
+  * Nathan rebuked David, in spite of the fact that David was the king.
+  * David repented of his sin after Nathan spoke to him.
 
 
-[See also: **[[:en:key-terms:term|term]]**]
+[See also: **[[:en:key-terms:david|David]]**, **[[:en:key-terms:uriah|Uriah]]**]
 
 
 ===== Examples from the Bible stories: =====
@@ -16,4 +19,4 @@
   ***[[:en:obs-training:frames:17-13|[17-13]]]** God was not pleased with what David had done, so he sent the prophet **Nathan** to show David his sin.
 
 
-~~DISCUSSION~~
+~~DISCUSSION:closed~~

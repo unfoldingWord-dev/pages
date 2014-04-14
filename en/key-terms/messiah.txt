@@ -6,13 +6,15 @@
 
 ===== Definitions: =====
 
-Messiah means “Anointed One” or “Chosen One” and refers to God's Son, whom God the Father appointed to save people from sin and death. 
+Messiah means “Anointed One” or, “Chosen One” and refers to God's Son, whom God the Father appointed to save people from sin and death. 
 
   * Hundreds of years before the Messiah came, God's prophets told many things about the Messiah. These prophecies are written in the Bible.
+  * The Messiah is a descendent of King David.
+  * Jesus did many miraculous works to prove that he is the Messiah.
   * During Jesus' time living on earth, he fulfilled many of those prophecies; someday he will come back and fulfill the rest of the prophecies about the Messiah.
   * In the Greek language, the word for Messiah is “Christ”.
 
-[See also: **[[:en:key-terms:god-son|Son of God]]**, **[[:en:key-terms:jesus|Jesus]]**]
+[See also: **[[:en:key-terms:god-son|Son of God]]**, **[[:en:key-terms:david|David]]**, **[[:en:key-terms:jesus|Jesus]]**]
 
 
 ===== Examples from the Bible stories: =====
@@ -31,4 +33,4 @@ Messiah means “Anointed One” or “Chosen One” and refers to God's Son, wh
   ***[[:en:obs-training:frames:46-06|[46-06]]]** Saul argued with the Jews, proving that Jesus was the **Messiah**.
 
 
-~~DISCUSSION~~
+~~DISCUSSION:closed~~
