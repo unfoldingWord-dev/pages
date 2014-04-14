@@ -3,13 +3,17 @@
 
 ===== Facts: =====
 
-  * David was an Israelite man who trusted and obeyed God. 
-  * He became a great fighter and led the Israelite army in battles against their enemies.
-  * God made David the second king of Israel and he served God faithfully.
+David was the second king of Israel and he served God faithfully.
+
+  * God chose David to become king when he was still a young boy caring for his family's sheep.
+  * David became a great fighter and led the Israelite army in battles against their enemies.
+  * Saul tried to kill David, but God protected him, and made him king after Saul's death.
   * David sinned against God, but he repented and God forgave him.
+  * David's son, King Solomon, built the temple for God that David had planned.
+  * The Messiah is a descendent of David, and is called the "Son of David."
 
 
-[See also: **[[:en:key-terms:term|term]]**]
+[See also: **[[:en:key-terms:saul|Saul]]**, **[[:en:key-terms:solomon|Solomon]]**, **[[:en:key-terms:messiah|Messiah]]**]
 
 
 ===== Examples from the Bible stories: =====
@@ -24,4 +28,4 @@
   ***[[:en:obs-training:frames:17-13|[17-13]]]** **David** repented of his sin and God forgave him. For the rest of his life, **David** trusted God, even in difficult times. 
 
 
-~~DISCUSSION~~
+~~DISCUSSION:closed~~
