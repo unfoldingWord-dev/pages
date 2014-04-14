@@ -3,12 +3,14 @@
 
 ===== Facts: =====
 
-  * Uriah was a righteous man and one of King David's best soldiers.
-  * His wife was Bathsheba.
-  * David caused Uriah to be killed in battle.
-  * David committed adultery with Uriah's wife, and later married her.
+Uriah was a righteous man and one of King David's best soldiers.
 
-[See also: **[[:en:key-terms:Bathsheba|Bathsheba]]**, **[[:en:key-terms:David|David]]**]
+  * Uriah's had a very beautiful wife named Bathsheba.
+  * David committed adultery with Uriah's wife, and she became pregnant with David's child.
+  * David caused Uriah to be killed in battle in order to cover up his sin. David then married Bathsheba.
+
+
+[See also: **[[:en:key-terms:David|David]]**, **[[:en:key-terms:Bathsheba|Bathsheba]]**]
 
 
 ===== Examples from the Bible stories: =====
@@ -18,4 +20,4 @@
   ***[[:en:obs-training:frames:17-13|[17-13]]]** After **Uriah** was killed, David married Bathsheba.
 
 
-~~DISCUSSION~~
+~~DISCUSSION:closed~~
