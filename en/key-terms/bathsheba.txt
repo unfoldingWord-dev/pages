@@ -1,14 +1,14 @@
 ====== Bathsheba ======
 
 
-==== (term, other) ====
-
-
 ===== Facts: =====
 
-  * Bathsheba was the wife of Uriah, a soldier in King David's army.
-  * David committed adultery with Bathsheba and she gave birth to his child, which died several days later.
-  * Because David caused Uriah to be killed in battle, Bathsheba was widowed. David then married her. Years later she gave birth to David's son, Solomon.
+Bathsheba was the wife of Uriah, a soldier in King David's army. She became the wife of David, and the mother of Solomon.
+
+  * David committed adultery with Bathsheba while she was married to Uriah.
+  * When Bathsheba became pregnant with David's child, he caused Uriah to be killed in battle. David then married Bathsheba. 
+  * God punished David for his sin by causing the child to die several days after it was born.
+  * Years later, Bathsheba gave birth to another son, Solomon, who became king after David.
 
 
 [See also: **[[:en:key-terms:uriah|Uriah]]**, **[[:en:key-terms:david|David]]**, **[[:en:key-terms:solomon|Solomon]]**]
@@ -23,4 +23,4 @@
   ***[[:en:obs-training:frames:17-14|[17-14]]]** **Bathsheba** gave birth to another son named Solomon.
 
 
-~~DISCUSSION~~
+~~DISCUSSION:closed~~
