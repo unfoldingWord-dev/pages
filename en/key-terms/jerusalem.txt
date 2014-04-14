@@ -1,18 +1,17 @@
 ====== Jerusalem ======
 
 
-==== (term, other) ====
-
-
 ===== Facts: =====
 
-  * Jerusalem was a city in the land of Israel. It is still there today.
-  * King David conquered Jerusalem and made it his capital.
-  * The temple was built in Jerusalem by David's son, King Solomon.
-  * About 1000 years later, it was in Jerusalem that Jesus the Messiah was put on trial and sentenced to die on a cross.
-  * After Jesus came back to life again, Jerusalem was one of the places where he spent time with his disciples before returning to heaven.
+Jerusalem was a city in the land of Israel. It is still there today.
 
-[See also: **[[:en:key-terms:term|term]]**]
+  * King David conquered Jerusalem from the Jebusites and made it his capital.
+  * The temple was built in Jerusalem by David's son, King Solomon.
+  * God sent the Babylonians to destroy Jerusalem because of Israel's sin. However, he allowed them to return and rebuild Jerusalem 70 years later.
+  * Jerusalem was the city where Jesus the Messiah was put on trial and sentenced to die on a cross.
+  * Jerusalem was one of the main places where Jesus spent time with his disciples after he came back to life, and before returning to heaven.
+
+[See also: **[[:en:key-terms:david|David]]**, **[[:en:key-terms:solomon|Solomon]]**, **[[:en:key-terms:messiah|Messiah]]**, **[[:en:key-terms:jesus|Jesus]]**]
 
 
 ===== Examples from the Bible stories: =====
@@ -28,4 +27,4 @@
   ***[[:en:obs-training:frames:42-11|[42-11]]]** “Remember, I will be with you always. Stay in **Jerusalem** until you receive power from above.”
 
 
-~~DISCUSSION~~
+~~DISCUSSION:closed~~

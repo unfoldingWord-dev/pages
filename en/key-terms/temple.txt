@@ -3,15 +3,16 @@
 
 ===== Definitions: =====
 
-  * The Temple was a building where the Israelites offered sacrifices to God. 
+The Temple was a building where the Israelites offered sacrifices to God.
+
   * God referred to the Temple as his dwelling place where the people could come to him.
   * Sometimes the term "Temple" refers to the whole Temple complex, including the courtyards that surrounded the main building.
   * People came to the Temple building and its courtyards to pray, worship God and bring animals to sacrifice to God.
   * The inner room of the Temple building, which had a thick curtain separating it from the rest of the Temple, could not be entered by anyone except the high priest.
+  * The original temple that Solomon built was destroyed by the Babylonians, but was rebuilt after the exile.
 
 
-
-[See also: **[[:en:key-terms:term|term]]**]
+[See also: **[[:en:key-terms:sacrifice|sacrifice]]**, **[[:en:key-terms:solomon|Solomon]]**, **[[:en:key-terms:babylon|Babylonians]]**, **[[:en:key-terms:exile|exile]]**]]
 
 ===== Examples from the Bible stories: =====
 
@@ -24,4 +25,4 @@
   ***[[:en:obs-training:frames:40-07|[40-07]]]** When he died, there was an earthquake and the large curtain in the **Temple** that separated the presence of God from the people was torn in two, from the top to the bottom.
 
 
-~~DISCUSSION~~
+~~DISCUSSION:closed~~
