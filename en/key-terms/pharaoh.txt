@@ -1,6 +1,6 @@
 ====== Pharaoh ======
 
-===== Definitions: =====
+===== Facts: =====
 
 
 In ancient times, the kings who ruled over the country of Egypt were called pharaohs.
@@ -11,8 +11,8 @@ In ancient times, the kings who ruled over the country of Egypt were called phar
 
 [See also: **[[:en:key-terms:egypt|Egypt]]**, **[[:en:key-terms:king|king]]**]
 
-===== Examples from the Bible stories: =====
 
+===== Examples from the Bible stories: =====
 
   ***[[:en:obs-training:frames:08-06|[08-06]]]** One night, the king of Egypt, who was called the **Pharaoh**, had two dreams that disturbed him greatly.
   ***[[:en:obs-training:frames:08-08|[08-08]]]** **Pharaoh** was so impressed with Joseph that he made him the second most powerful man in all of Egypt!
