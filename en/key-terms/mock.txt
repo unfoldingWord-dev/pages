@@ -1,10 +1,7 @@
 ====== mock ======
 
 
-==== (term, other) ====
-
-
-===== Definitions Facts: =====
+===== Definition: =====
 
   * To 
 

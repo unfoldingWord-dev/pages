@@ -4,7 +4,7 @@
 ==== (peace, peaceful) ====
 
 
-===== Definitions: =====
+===== Definition: =====
 
 Peace is the absence of any conflict, fear, or intimidation. 
 
@@ -15,7 +15,6 @@ Peace is the absence of any conflict, fear, or intimidation.
 
 
 ===== Examples from the Bible stories: =====
-
 
   ***[[:en:obs-training:frames:15-06|[15-06]]]** God had commanded the Israelites not to make **peace** with any of the people groups in Canaan.  
   ***[[:en:obs-training:frames:15-12|[15-12]]]** Then God gave Israel **peace** along all its borders. 

@@ -4,7 +4,7 @@
 ==== (prophet, prophecy, prophesy) ====
 
 
-===== Definitions: =====
+===== Definition: =====
 
 A prophet is a person who speaks God's messages to people. He tells them what God wants them to know. God is the one who chooses and appoints the prophet to do this.
 
@@ -17,7 +17,6 @@ A prophet is a person who speaks God's messages to people. He tells them what Go
   
 
 ===== Examples from the Bible stories: =====
-
 
   ***[[:en:obs-training:frames:12-12|[12-12]]]** When the Israelites saw that the Egyptians were dead, they believed in God and trusted that Moses was a **prophet** of God. 
   ***[[:en:obs-training:frames:17-13|[17-13]]]** God was not pleased with what David had done, so he sent the **prophet** Nathan to show David his sin.

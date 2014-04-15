@@ -4,7 +4,7 @@
 ==== (pray, prayer) ====
 
 
-===== Definitions: =====
+===== Definition: =====
 
 To pray is to talk to God.
 
@@ -13,8 +13,8 @@ To pray is to talk to God.
   * Praying can also mean confessing our sins to God and asking him to forgive us.
   * When people try to talk to their false god, this is also called “praying.”
 
-===== Examples from the Bible stories: =====
 
+===== Examples from the Bible stories: =====
 
   ***[[:en:obs-training:frames:06-05|[06-05]]]**  Isaac **prayed** for Rebekah, and God allowed her to get pregnant with twins.
   ***[[:en:obs-training:frames:13-12|[13-12]]]**  But Moses **prayed** for them, and God listened to his **prayer** and did not destroy them.

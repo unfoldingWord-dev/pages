@@ -1,7 +1,7 @@
 ====== priest ======
 
 
-===== Definitions: =====
+===== Definition: =====
 
 A priest is a person with the special job of intermediary, or standing between, God and his people. God chose Aaron and his descendants to be His priests for the people of Israel. They did many different things, including:
 
@@ -13,8 +13,8 @@ A priest is a person with the special job of intermediary, or standing between, 
 
 "Priest" could be translated as "intermediary," "mediator," "middle-man" or "sacrificer." Besides God's priests, there were also other priests who presented offerings to false gods such as Baal.
 
-===== Examples from the Bible stories: =====
 
+===== Examples from the Bible stories: =====
 
   ***[[:en:obs-training:frames:04-07|[04-07]]]** "Melchizedek, the **priest** of God Most High" \\ 
   ***[[:en:obs-training:frames:13-09|[13-09]]]** Anyone who disobeyed God’s law could bring an animal to the Tent of Meeting as a sacrifice to God. A **priest** would kill the animal and burn it on the altar. The blood of the sacrifice covered the person’s sin and made that person clean in God’s sight. God chose Moses' brother, Aaron, and his descendants to be his **priests**.

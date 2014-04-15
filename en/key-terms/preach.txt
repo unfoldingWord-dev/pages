@@ -1,10 +1,7 @@
 ====== preach ======
 
 
-==== (term, other) ====
-
-
-===== Definitions: =====
+===== Definition: =====
 
   * To 
 

@@ -1,10 +1,7 @@
 ====== neighbor ======
 
 
-==== (term, other) ====
-
-
-===== Definitions: =====
+===== Definition: =====
 
   * To 
 

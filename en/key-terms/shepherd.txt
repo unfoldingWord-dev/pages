@@ -1,10 +1,7 @@
 ====== shepherd ======
 
 
-==== (term, other) ====
-
-
-===== Definitions: =====
+===== Definition: =====
 
 A shepherd is a person who takes care of sheep.
 
@@ -18,7 +15,6 @@ A shepherd is a person who takes care of sheep.
 
 
 ===== Examples from the Bible stories: =====
-
 
   ***[[:en:obs-training:frames:09-11|[09-11]]]** Moses became a **shepherd** in the wilderness far away from Egypt. 
   ***[[:en:obs-training:frames:17-02|[17-02]]]** David ... was a **shepherd** .... While watching the sheep, David had killed both a lion and a bear which had attacked the sheep.

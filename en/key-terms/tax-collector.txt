@@ -1,10 +1,7 @@
 ====== tax collector ======
 
 
-==== (term, other) ====
-
-
-===== Definitions Facts: =====
+===== Definition: =====
 
   * To 
 

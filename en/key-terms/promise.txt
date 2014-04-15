@@ -1,10 +1,7 @@
 ====== promise ======
 
 
-
-
-
-===== Definitions: =====
+===== Definition: =====
 
 A promise is a vow or commitment to do something.
 
