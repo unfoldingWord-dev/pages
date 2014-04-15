@@ -1,7 +1,7 @@
 ====== humble ======
 
 
-===== Definitions: =====
+===== Definition: =====
 
 
 A person who is humble does not think of himself as better than others.
@@ -13,11 +13,10 @@ A person who is humble does not think of himself as better than others.
 
 The opposite of being "humble" is to be "proud" or "arrogant."
 
-
 [See also: **[[:en:key-terms:proud|proud]]**]
 
-===== Examples from the Bible stories: =====
 
+===== Examples from the Bible stories: =====
 
   ***[[:en:obs-training:frames:17-02|[17-02]]]** David was a **humble** and righteous man who trusted and obeyed God.
   ***[[:en:obs-training:frames:34-10|[34-10]]]** "Everyone who is proud will be **humbled**, but whoever **humbles** himself will be lifted up."

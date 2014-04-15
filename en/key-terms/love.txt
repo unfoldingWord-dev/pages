@@ -1,10 +1,7 @@
 ====== love ======
 
 
-==== (term, other) ====
-
-
-===== Definitions: =====
+===== Definition: =====
 
   * To 
 

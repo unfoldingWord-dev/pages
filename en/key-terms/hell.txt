@@ -1,10 +1,7 @@
 ====== hell ======
 
 
-==== (term, other) ====
-
-
-===== Definitions : =====
+===== Definition: =====
 
   * To 
 

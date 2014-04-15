@@ -1,9 +1,7 @@
 ====== idol ======
 
 
-
-
-===== Definitions: =====
+===== Definition: =====
 
 An idol is an object that people make so they can worship it.
 
@@ -14,8 +12,8 @@ An idol is an object that people make so they can worship it.
 
 [See also: **[[:en:key-terms:god-false|god]]**, **[[:en:key-terms:worship|worship]]**]
 
-===== Examples from the Bible stories: =====
 
+===== Examples from the Bible stories: =====
 
   ***[[:en:obs-training:frames:13-05|[13-05]]]** “Do not make **idols** or worship them, for I, Yahweh, am a jealous God."
   ***[[:en:obs-training:frames:13-12|[13-12]]]**  So Aaron made a golden **idol** in the shape of a calf. The people began to wildly worship the **idol** and make sacrifices to it!
