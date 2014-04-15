@@ -4,7 +4,7 @@
 ==== (trust, to trust) ====
 
 
-===== Definitions: =====
+===== Definition: =====
 
 To trust someone or something is to believe that they are reliable, honest, true, and dependable.
 
@@ -16,7 +16,6 @@ To trust someone or something is to believe that they are reliable, honest, true
 
 
 ===== Examples from the Bible stories: =====
-
 
   ***[[:en:obs-training:frames:12-12|[12-12]]]** When the Israelites saw that the Egyptians were dead, they believed in God and **trusted** that Moses was a prophet of God. 
   ***[[:en:obs-training:frames:14-15|[14-15]]]** Joshua was a good leader because he **trusted** and obeyed God. 

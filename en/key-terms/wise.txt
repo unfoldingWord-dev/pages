@@ -3,7 +3,7 @@
 
 === (wise, wisdom, wisely) ===
 
-===== Definitions: =====
+===== Definition: =====
 
 A person who is "wise" is one who exercises "wisdom." To be wise is to discern or judge a matter rightly.
 
@@ -11,8 +11,8 @@ A person who is "wise" is one who exercises "wisdom." To be wise is to discern o
     * A "wise" person is able to make good choices.
     * To act "wisely" is to know what is right and to do it.
 
-===== Examples from the Bible stories: =====
 
+===== Examples from the Bible stories: =====
 
   ***[[:en:obs-training:frames:02-05|[02-05]]]** She also wanted to be **wise**, so she picked some of the fruit and ate it.
   ***[[:en:obs-training:frames:16-15|[16-15]]]** The people wanted to make Gideon their king. Gideon **wisely** refused their offer, but he asked them for some of the money that each of them had taken from the enemy.
