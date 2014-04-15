@@ -1,9 +1,9 @@
 ====== disobey ======
 
 
-(disobey, disobedience)
+==== (disobey, disobedience) ====
 
-===== Definitions: =====
+===== Definition: =====
 
 There are  several ways to disobey someone. 
 
@@ -15,8 +15,8 @@ To "disobey" is the opposite of to "obey."
 
 [See also: **[[:en:key-terms:evil|evil]]**, **[[:en:key-terms:sin|sin]]**, **[[:en:key-terms:obey|obey]]**]
 
-===== Examples from the Bible stories: =====
 
+===== Examples from the Bible stories: =====
 
   ***[[:en:obs-training:frames:02-11|[02-11]]]** God said to the man, "You listened to your wife and **disobeyed** me."
   ***[[:en:obs-training:frames:13-07|[13-07]]]** If the people obeyed these laws, God promised that he would bless and protect them. If they **disobeyed** them, God would punish them.

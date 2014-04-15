@@ -1,9 +1,6 @@
 ====== cross ======
 
 
-==== (term, other) ====
-
-
 ===== Definition: =====
 
   * A cross is an upright wooden post stuck into the ground with a bar going across it near the top.
@@ -13,6 +10,8 @@
 
 
 [See also: **[[:en:key-terms:crucify|crucify]]**]
+
+
 ===== Examples from the Bible stories: =====
 
   ***[[:en:obs-training:frames:21-12|[21-12]]]** Then he (Messiah) would be pierced and hung on a **tree** where he would die.

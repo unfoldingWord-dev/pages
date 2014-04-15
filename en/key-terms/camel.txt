@@ -1,10 +1,7 @@
 ====== camel ======
 
 
-==== (term, other) ====
-
-
-===== Definitions Facts: =====
+===== Definition: =====
 
   * To 
 

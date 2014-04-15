@@ -1,7 +1,7 @@
 ====== faith ======
 
 
-===== Definitions: =====
+===== Definition: =====
 
 Faith is trust or confidence in someone or something.
 
@@ -13,8 +13,8 @@ If someone truly has faith in God, that person will act on that faith by obeying
 
 [See also: **[[:en:key-terms:believe|believe]]**, **[[:en:key-terms:faithful|faithful]]**]
 
-===== Examples from the Bible stories: =====
 
+===== Examples from the Bible stories: =====
 
   ***[[:en:obs-training:frames:05-06|[05-06]]]** When Isaac was a young man, God tested Abraham's **faith** by saying, "Take Isaac, your only son, and kill him as a sacrifice to me."
   ***[[:en:obs-training:frames:31-07|[31-07]]]** Then he said to Peter, "O you of little **faith**, why did you doubt?"

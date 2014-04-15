@@ -1,10 +1,7 @@
 ====== disciple ======
 
 
-==== (term, other) ====
-
-
-===== Definitions: =====
+===== Definition: =====
 
   * To 
 

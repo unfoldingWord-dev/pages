@@ -2,7 +2,7 @@
 
 
 
-===== Definitions: =====
+===== Definition: =====
 
 
 A covenant is a formal, binding agreement between two parties that they must fulfill.

@@ -1,10 +1,7 @@
 ====== fast ======
 
 
-==== (term, other) ====
-
-
-===== Definitions: =====
+===== Definition: =====
 
   * To 
 

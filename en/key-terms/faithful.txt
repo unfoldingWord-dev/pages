@@ -4,7 +4,7 @@
 ==== (faithful, faithfulness) ====
 
 
-===== Definitions: =====
+===== Definition: =====
 
 Being faithful (faithfulness) means being loyal to a person or living according to a set of beliefs.  
 
@@ -19,8 +19,8 @@ The opposite of "faithful" is "unfaithful."
 
 [See also: **[[:en:key-terms:faith|faith]]**]
 
-===== Examples from the Bible stories: =====
 
+===== Examples from the Bible stories: =====
 
   ***[[:en:obs-training:frames:08-05|[08-05]]]** Even in prison, Joseph remained **faithful** to God, and God blessed him.
   ***[[:en:obs-training:frames:08-05|[14-12]]]** God was still **faithful** to His promises to Abraham, Isaac, and Jacob.
