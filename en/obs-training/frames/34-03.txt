@@ -2,7 +2,7 @@
 
 {{:en:obs:obs-34-03.jpg?nolink&640x360}}
 
-**[[:en:key-terms:jesus|Jesus]]** told another story, “The **[[:en:key-terms:kingdom-of-god|kingdom of God]]** is like yeast that a woman mixed into some bread dough until it spread all the way through.”
+**[[:en:key-terms:jesus|Jesus]]** told another story, “The **[[:en:key-terms:kingdom-of-god|kingdom of God]]** is like yeast that a woman mixes into some bread dough until it spreads all the way through.”
 
 
 ===== Translation Notes: =====
@@ -14,4 +14,4 @@
 **[[:en:obs-training:frames:34-02|<<]] | [[:en:obs-training:34-jesus-teaches-other-stories|Up]] | [[:en:obs-training:frames:34-04|>>]]**
 
 
-~~DISCUSSION~~
+~~DISCUSSION:closed~~
