@@ -2,11 +2,12 @@
 
 {{:en:obs:obs-33-08.jpg?nolink&640x360}}
 
-“The soil where the seeds fell among thorns represents people who hear **[[:en:key-terms:word-of-god|God’s Word]]**, but as time passes, their **[[:en:key-terms:love|love]]** for **[[:en:key-terms:god|God]]** is choked out by the **cares**, **riches**, and **pleasures of life**. The teaching they heard does not **produce fruit**.”
+“The rocky ground **is a person** who hear **[[:en:key-terms:word-of-god|God’s Word]]**, but as time passes, their **[[:en:key-terms:love|love]]** for **[[:en:key-terms:god|God]]** is choked out by the **cares**, **riches**, and **pleasures of life**. The teaching they heard does not **produce fruit**.”
 
 
 ===== Translation Notes: =====
 
+  * **is a person** - See how you translated this comparison in **[[:en:obs-training:frames:33-06|[33-06]]]**.
   * **cares** - That is, "concerns" or, "needs."
   * **riches** - That is, "desire for wealth."
   * **pleasures of life** - This could also be translated as, "the desire to enjoy life."
