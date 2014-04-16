@@ -2,14 +2,15 @@
 
 {{:en:obs:obs-33-04.jpg?nolink&640x360}}
 
-“Still other seeds fell among thorny bushes. Those seeds began to grow, but **the thorns** **choked** them. So the plants that grew from the seeds in the thorns did not produce any grain.”
+“Still other seeds fell among thorn bushes. Those seeds began to grow, but **the thorns** **choked** them. So the plants that grew from the seeds in the **thorny ground** did not produce any grain.”
 
 
 ===== Translation Notes: =====
 
   * Jesus continues the story.
-  * **the thorns** – That is, “the thorn plants” or, “the thorny bushes.”
-  * **choked** - This can also be translated as, “overshadowed” or, “crowded out.” 
+  * **the thorns** – That is, “the thorn plants” or, “the thorn bushes.”
+  * **choked** - This can also be translated as, “overshadowed” or, “crowded out.”
+  * **thorny ground** - That is, "ground that was covered with thorny bushes."
   
 
 **[[:en:obs-training:frames:33-03|<<]] | [[:en:obs-training:33-the-story-of-the-farmer|Up]] | [[:en:obs-training:frames:33-05|>>]]**
