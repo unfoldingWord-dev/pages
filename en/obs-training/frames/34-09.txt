@@ -2,14 +2,15 @@
 
 {{:en:obs:obs-34-09.jpg?nolink&640x360}}
 
-“But the **[[:en:key-terms:tax-collector|tax collector]]** stood far away from the **[[:en:key-terms:jewish-leaders|religious leader]]**, and did not even look up to **[[:en:key-terms:heaven|heaven]]**. Instead, he **pounded on his chest with his fist** and **[[:en:key-terms:pray|prayed]]**, ‘**[[:en:key-terms:god|God]]**, be **[[:en:key-terms:mercy|merciful]]** to me, because I am a **[[:en:key-terms:sin|sinner]]**.’”
+“But the **[[:en:key-terms:tax-collector|tax collector]]** **stood far away** from the **[[:en:key-terms:jewish-leaders|religious leader]]**, and **did not even look up to [[:en:key-terms:heaven|heaven]]**. Instead, he **pounded on his chest with his fist** and **[[:en:key-terms:pray|prayed]]**, ‘**[[:en:key-terms:god|God]]**, please be **[[:en:key-terms:mercy|merciful]]** to me, because I am a **[[:en:key-terms:sin|sinner]]**.’”
 
 
 ===== Translation Notes: =====
 
   * Jesus continues the story.
-  * **lift his eyes up to heaven** - That is, "looked up towards heaven."
-  * **beat his chest** - This could also be translated as, "hit his chest with his fist" or, "pounded his fist on his chest." This was a sign of humility and submission.
+  * **stood far away ** - This can also be translated as, “stood at a distance” or, “stayed separate.”
+  * **did not even look up to heaven** - The word "even" indicates that people normally looked up to heaven when praying to God, but that this man did not because he was so ashamed of his sin.
+  * **beat his chest** - This could also be translated as “because of his grief, he hit his chest with his fist” or, “pounded his chest in sorrow.” If people would find this hard to understand because they beat their chest for other reasons, you could translate this as, “showed his despair.” 
   
 
 **[[:en:obs-training:frames:34-08|<<]] | [[:en:obs-training:34-jesus-teaches-other-stories|Up]] | [[:en:obs-training:frames:34-10|>>]]**
