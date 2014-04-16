@@ -2,12 +2,13 @@
 
 {{:en:obs:obs-34-02.jpg?nolink&640x360}}
 
-“But when the mustard seed has grown, it is the largest of all garden plants, big enough that even the birds come and **rest in its branches**.”
+“But when the **mustard seed** has grown, it is the largest of all garden plants, big enough that even the birds come and **rest in its branches**.”
 
 
 ===== Translation Notes: =====
 
   * Jesus continues the story.
+  * **mustard seed** - See how you translated this term in **[[:en:obs-training:frames:34-01|[34-01]]]**.
   * **rest in its branches** - This may also be translated as, "sit" or, "perch" or, "dwell."
   * **issue** - explanation
   
