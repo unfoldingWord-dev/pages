@@ -2,7 +2,7 @@
 
 {{:en:obs:obs-33-02.jpg?nolink&640x360}}
 
-**[[:en:key-terms:jesus|Jesus]]** told this story. “A farmer went out to **plant some grain**. As he was **spreading the seeds by hand**, some seeds fell on the path, and the birds came and ate it all.”
+**[[:en:key-terms:jesus|Jesus]]** told this story. “A farmer went out to **plant some seed**. As he was **spreading the seeds by hand**, some seeds fell on the path, and the birds came and ate it all.”
 
 
 ===== Translation Notes: =====
@@ -14,4 +14,4 @@
 **[[:en:obs-training:frames:33-01|<<]] | [[:en:obs-training:33-the-story-of-the-farmer|Up]] | [[:en:obs-training:frames:33-03|>>]]**
 
 
-~~DISCUSSION~~
+~~DISCUSSION:closed~~

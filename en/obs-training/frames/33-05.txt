@@ -2,7 +2,7 @@
 
 {{:en:obs:obs-33-05.jpg?nolink&640x360}}
 
-“Other seeds fell into **[[:en:key-terms:good|good]]** soil. These seeds grew up and produced 30, 60, or even 100 times as much grain as had been planted. He who has ears, let him hear!”
+“Other seeds fell into **[[:en:key-terms:good|good]]** soil. These seeds grew up and produced 30, 60, or even 100 times as much grain as the seed that had been planted. He who has ears, let him hear!”
 
 
 ===== Translation Notes: =====
@@ -15,4 +15,4 @@
 **[[:en:obs-training:frames:33-04|<<]] | [[:en:obs-training:33-the-story-of-the-farmer|Up]] | [[:en:obs-training:frames:33-06|>>]]**
 
 
-~~DISCUSSION~~
+~~DISCUSSION:closed~~
