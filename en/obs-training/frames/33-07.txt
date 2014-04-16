@@ -2,11 +2,12 @@
 
 {{:en:obs:obs-33-07.jpg?nolink&640x360}}
 
-“The rocky ground **is a person** who hears **[[:en:key-terms:word-of-god|God’s word]]** and **accepts it with [[:en:key-terms:joy|joy]]**. But when he experiences hardship or **[[:en:key-terms:persecute|persecution]]**, he **falls away**.”
+“The **rocky ground** **is a person** who hears **[[:en:key-terms:word-of-god|God’s word]]** and **accepts it with [[:en:key-terms:joy|joy]]**. But when he experiences hardship or **[[:en:key-terms:persecute|persecution]]**, he **falls away**.”
 
 
 ===== Translation Notes: =====
 
+  * **rocky ground** - See how you translated this term in **[[:en:obs-training:frames:33-03|[33-03]]]**.
   * **is a person** - See how you translated this comparison in **[[:en:obs-training:frames:33-06|[33-06]]]**.
   * **accepts it with joy** - That is, “believes it joyfully” or, “joyfully agrees that it is true.”
   * **falls away** - That is, “no longer follows God or obeys him” or, “stops following or obeying God.” 

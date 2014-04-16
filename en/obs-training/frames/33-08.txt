@@ -2,11 +2,12 @@
 
 {{:en:obs:obs-33-08.jpg?nolink&640x360}}
 
-“The thorny ground **is a person** who hears **[[:en:key-terms:word-of-god|God’s word]]**, but as time passes, the **cares**, **riches**, and **pleasures of life** choke out his **[[:en:key-terms:love|love]]** for **[[:en:key-terms:god|God]]**. As a result, the teaching he heard **does not produce fruit**.”
+“The **thorny ground** **is a person** who hears **[[:en:key-terms:word-of-god|God’s word]]**, but as time passes, the **cares**, **riches**, and **pleasures of life** choke out his **[[:en:key-terms:love|love]]** for **[[:en:key-terms:god|God]]**. As a result, the teaching he heard **does not produce fruit**.”
 
 
 ===== Translation Notes: =====
 
+  * **thorny ground** - See how you translated this term in **[[:en:obs-training:frames:33-04|[33-04]]]**.
   * **is a person** - See how you translated this comparison in **[[:en:obs-training:frames:33-06|[33-06]]]**.
   * **cares** - That is, “concerns” or, “needs” or, “problems.” 
   * **riches** - That is, "desire for wealth."
