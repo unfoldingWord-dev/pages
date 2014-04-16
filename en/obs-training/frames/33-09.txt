@@ -2,13 +2,14 @@
 
 {{:en:obs:obs-33-09.jpg?nolink&640x360}}
 
-“But the **[[:en:key-terms:good|good]]** soil on which the seeds fell represents people who hear the **[[:en:key-terms:word-of-god|Word of God]]**, **[[:en:key-terms:believe|believe]]** it, and **produce fruit**.”
+“But the **[[:en:key-terms:good|good]]** soil **is a person** who hears the **[[:en:key-terms:word-of-god|Word of God]]**, **[[:en:key-terms:believe|believes]]** it, and **produces fruit**.”
 
 //A Bible story from: Matthew 13:1-8, 18-23; Mark 4:1-8, 13-20; Luke 8:4-15//
 
 
 ===== Translation Notes: =====
 
+  * **is a person** - See how you translated this comparison in **[[:en:obs-training:frames:33-06|[33-06]]]**.
   * **produce fruit** - This expression refers to the good works that a believer does, as well as the positive changes in his character. If this contrast will be understood in your language, translate this phrase literally with a general word for “fruit.” If it will be confusing, you may need to translate it with a phrase such as, “good works” or, “a changed life.” (see previous frame)
   * **A Bible story from:** - If all or portions of the Bible have already been translated into your language, check to make sure that these references point to the correct chapters and verses.
   
