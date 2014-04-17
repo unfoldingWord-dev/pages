@@ -2,14 +2,15 @@
 
 {{:en:obs:obs-34-03.jpg?nolink&640x360}}
 
-**[[:en:key-terms:jesus|Jesus]]** told another story, “The **[[:en:key-terms:kingdom-of-god|kingdom of God]]** is like **yeast** that a woman mixes into some **bread dough** until **it spreads throughout the dough**.”
+**[[:en:key-terms:jesus|Jesus]]** told another **story**, “The **[[:en:key-terms:kingdom-of-god|kingdom of God]]** is like **yeast** that a woman mixes into some **bread dough** until **it spreads throughout the dough**.”
 
 
 ===== Translation Notes: =====
 
+  * **story** - See how you translated this term in **[[:en:obs-training:frames:34-01|[34-01]]]**.
   * **yeast** - This can also be translated as, "leaven" or, "the little bit of leaven." It is added to bread dough to make it rise. A little bit of yeast can be mixed into a large amount of dough and make the whole batch of dough rise. 
   * **bread dough** - This is a mixture of flour and liquid that can be shaped and baked into bread. If you do not have words for dough or flour, you can borrow a word for flour or call it “ground-up grain.” 
-  * **it spreads throughout the dough** - That is, “every part of the dough has yeast in it.”
+  * **it spreads throughout the dough** - That is, “every part of the dough has yeast in it” or, “the yeast grows throughout all the dough.”
   
 
 **[[:en:obs-training:frames:34-02|<<]] | [[:en:obs-training:34-jesus-teaches-other-stories|Up]] | [[:en:obs-training:frames:34-04|>>]]**
