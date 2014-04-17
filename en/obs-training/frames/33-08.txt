@@ -2,7 +2,7 @@
 
 {{:en:obs:obs-33-08.jpg?nolink&640x360}}
 
-“The **thorny ground** **is a person** who hears **[[:en:key-terms:word-of-god|God’s word]]**, but as time passes, the **cares**, **riches**, and **pleasures of life** choke out his **[[:en:key-terms:love|love]]** for **[[:en:key-terms:god|God]]**. As a result, the teaching he heard **does not produce fruit**.”
+“The **thorny ground** **is a person** who hears **[[:en:key-terms:word-of-god|God’s word]]**, but as time passes, the **cares**, **riches**, and **pleasures of life** **choke out** his **[[:en:key-terms:love|love]]** for **[[:en:key-terms:god|God]]**. As a result, the teaching he heard **does not produce fruit**.”
 
 
 ===== Translation Notes: =====
@@ -12,9 +12,7 @@
   * **cares** - That is, “concerns” or, “needs” or, “problems.” 
   * **riches** - That is, "desire for wealth."
   * **pleasures of life** - This could also be translated as, “doing things to get pleasure” or, “focusing on things that give pleasure.” 
-  * 
-  * **choke out** - That is, “squelch” or, “destroy” or, “overcome." This phrase could also be translated as, "cause him to stop loving God.” Also see how you translated “choked out” in [33-04] to see if it also works here to refer to loving God.
-  * 
+  * **choke out** - That is, “squelch” or, “destroy” or, “overcome." This phrase could also be translated as, "cause him to stop loving God.” 
   * **does not produce fruit** - That is, “does not produce spiritual fruit” or “does not behave in a way that shows God's Spirit is working in him.”
 
 
