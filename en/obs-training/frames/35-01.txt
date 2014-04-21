@@ -2,7 +2,7 @@
 
 {{:en:obs:obs-35-01.jpg?nolink&640x360}}
 
-**One day**, **[[:en:key-terms:jesus|Jesus]]** was teaching many **[[:en:key-terms:tax-collector|tax collector]]** and **[[:en:key-terms:sin|sinners]]** who were with him.
+**One day**, **[[:en:key-terms:jesus|Jesus]]** was teaching many **[[:en:key-terms:tax-collector|tax collectors]]** and **[[:en:key-terms:sin|sinners]]** who were with him.
 
 
 ===== Translation Notes: =====
@@ -14,4 +14,4 @@
 **[[:en:obs-training:frames:34-10|<<]] | [[:en:obs-training:35-the-story-of-the-compassionate-father|Up]] | [[:en:obs-training:frames:35-02|>>]]**
 
 
-~~DISCUSSION~~
+~~DISCUSSION:closed~~
