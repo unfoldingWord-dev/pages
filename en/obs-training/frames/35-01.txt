@@ -2,13 +2,14 @@
 
 {{:en:obs:obs-35-01.jpg?nolink&640x360}}
 
-**One day**, **[[:en:key-terms:jesus|Jesus]]** was teaching many **[[:en:key-terms:tax-collector|tax collectors]]** and **[[:en:key-terms:sin|sinners]]** who were with him.
+**One day**, **[[:en:key-terms:jesus|Jesus]]** was teaching many **[[:en:key-terms:sin|sinners]]**, including **[[:en:key-terms:tax-collector|tax collectors]]**, **who were with him**.
 
 
 ===== Translation Notes: =====
 
   * **One day** - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
-  * **issue** - explanation
+  * **tax collectors** – Tax collectors were considered to be the worst of sinners because often they stole money from people by collecting a higher tax than the government required.
+  * **who were with him** – That is, “who were accompanying him.” 
   
 
 **[[:en:obs-training:frames:34-10|<<]] | [[:en:obs-training:35-the-story-of-the-compassionate-father|Up]] | [[:en:obs-training:frames:35-02|>>]]**
