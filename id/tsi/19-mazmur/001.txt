@@ -1,82 +1,57 @@
 <USFM>
 
+\c 1
 
-%%\%%c 1
+\p
 
+\q1 
 
-%%\%%p
+\v 1 Allah sangat memberkati orang yang tidak mengikuti pengaruh orang jahat, 
 
+\q2 dan tidak meniru kelakuan orang berdosa 
 
-%%\%%q1
+\q2 ataupun bergabung dengan orang sombong yang menertawakan orang baik.
 
+\q1
 
-%%\%%v 1 Allah sangat memberkati orang yang tidak mengikuti pengaruh orang jahat,
+\v 2 Sebaliknya, kerinduan hati mereka yang diberkati TUHAN
 
+\q2 adalah menaati seluruh perintah-Nya, 
 
-%%\%%q2 dan tidak meniru kelakuan orang berdosa
+\q2 dan mereka merenungunkan perintah-perintah-Nya siang dan malam.
 
+\p
 
-%%\%%q2 ataupun bergabung dengan orang sombong yang menertawakan orang baik.
+\q1
 
+\v 3 Mereka selalu berhasil dalam segala usaha—
 
-%%\%%q1
+\q2 bagaikan pohon dengan daun dan buah yang rimbun
 
+\q2 karena bertumbuh di tepi sungai yang mengalir tanpa henti.
 
-%%\%%v 2 Sebaliknya, kerinduan hati mereka yang diberkati TUHAN
+\p
 
+\q1
 
-%%\%%q2 adalah menaati seluruh perintah-Nya,
+\v 4 Tidak demikian bagi orang jahat!  
 
+\q2 Mereka bagaikan debu
 
-%%\%%q2 dan mereka merenungunkan perintah-perintah-Nya siang dan malam.
+\f + \fr 1:4 \fk debu \ft Secara harfiah, “sekam” dari biji gandum. Sekam merupakan perbandingan dengan pohon yang berbuah subur pada ayat 3, menggambarkan bahwa orang-orang jahat tidak berguna, tidak berhasil, dan akan cepat lenyap.\f*
 
+ yang diterbangkan angin.
 
-%%\%%p
+\q1
 
+\v 5 Orang jahat akan dinyatakan bersalah pada hari penghakiman. 
 
-%%\%%q1
+\q2 Mereka yang berdosa tidak diijinkan masuk dalam umat Allah di surga.
+ 
+\q1
 
+\v 6 TUHAN menyertai orang benar, 
 
-%%\%%v 3 Mereka selalu berhasil dalam segala usaha—
-
-
-%%\%%q2 bagaikan pohon dengan daun dan buah yang rimbun
-
-
-%%\%%q2 karena bertumbuh di tepi sungai yang mengalir tanpa henti.
-
-
-%%\%%q1
-
-
-%%\%%v 4 Tidak demikian bagi orang jahat!
-
-
-%%\%%q2 Mereka bagaikan debu
-
-
-%%\%%f + %%\%%fr 1:4 %%\%%fk debu %%\%%ft Secara harfiah, “sekam” dari biji gandum. Sekam merupakan perbandingan dengan pohon yang berbuah subur pada ayat 3, menggambarkan bahwa orang-orang jahat tidak berguna, tidak berhasil, dan akan cepat lenyap.%%\%%f*
-
-
-yang diterbangkan angin.
-
-
-%%\%%q1
-
-
-%%\%%v 5 Orang jahat akan dinyatakan bersalah pada hari penghakiman.
-
-
-%%\%%q2 Mereka yang berdosa tidak diijinkan masuk dalam umat Allah di surga.
-
-
-%%\%%q1
-
-
-%%\%%v 6 TUHAN menyertai orang benar,
-
-
-%%\%%q2 tetapi orang jahat menuju kebinasaan.
-
+\q2 tetapi orang jahat menuju kebinasaan.
 
 </USFM>
