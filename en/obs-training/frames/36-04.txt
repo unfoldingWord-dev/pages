@@ -15,4 +15,4 @@ As **[[:en:key-terms:moses|Moses]]** and **[[:en:key-terms:elijah|Elijah]]** wer
 **[[:en:obs-training:frames:36-03|<<]] | [[:en:obs-training:36-the-transfiguration|Up]] | [[:en:obs-training:frames:36-05|>>]]**
 
 
-~~DISCUSSION~~
+~~DISCUSSION:closed~~

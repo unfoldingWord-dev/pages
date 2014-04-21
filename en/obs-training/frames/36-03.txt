@@ -2,7 +2,7 @@
 
 {{:en:obs:obs-36-03.jpg?nolink&640x360}}
 
-Then **[[:en:key-terms:moses|Moses]]** and the prophet **[[:en:key-terms:elijah|Elijah]]**, who had both lived hundreds of years earlier, appeared. They talked with **[[:en:key-terms:jesus|Jesus]]** about his **[[:en:key-terms:death|death]]** that would soon happen in **[[:en:key-terms:jerusalem|Jerusalem]]**.
+Then **[[:en:key-terms:moses|Moses]]** and the prophet **[[:en:key-terms:elijah|Elijah]]** appeared. They had both lived hundreds of years earlier. They talked with **[[:en:key-terms:jesus|Jesus]]** about his **[[:en:key-terms:death|death]]** that would soon happen in **[[:en:key-terms:jerusalem|Jerusalem]]**.
 
 
 ===== Translation Notes: =====
@@ -14,4 +14,4 @@ Then **[[:en:key-terms:moses|Moses]]** and the prophet **[[:en:key-terms:elijah|
 **[[:en:obs-training:frames:36-02|<<]] | [[:en:obs-training:36-the-transfiguration|Up]] | [[:en:obs-training:frames:36-04|>>]]**
 
 
-~~DISCUSSION~~
+~~DISCUSSION:closed~~
