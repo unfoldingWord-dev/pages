@@ -14,7 +14,7 @@
 
     * [[:id:obs|Cerita-cerita Alkitab yang terbuka (id)]]
     * [[:id:tsi|TSI]][[:id:tsi|​]]
-    * [[:id:tsi|PBTSI]][[:id:pbtsi|​]]
+    * [[:id:pbtsi|PBTSI]][[:id:pbtsi|​]]
 
 
 ----
@@ -22,4 +22,5 @@
 
     - [[:id:tsi:01-kejadian|KEJADIAN]]
     - [[:id:tsi:19-mazmur|MAZMUR]]
-    - [[:id:tsi:20-amsal]]
+    - [[:id:tsi:20-amsal|Amsal— yaitu Nasihat Raja Salomo]]
+
