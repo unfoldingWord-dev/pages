@@ -13,7 +13,7 @@
 
 
     * [[:id:obs|Cerita-cerita Alkitab yang terbuka (id)]]
-    * [[:id:tsi|TSI]][[:id:tsi|​]]
+    * [[:id:pltsi|PLTSI]][[:id:tsi|​]]
     * [[:id:pbtsi|PBTSI]][[:id:pbtsi|​]]
 
 
