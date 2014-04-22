@@ -1,10 +1,10 @@
 =====Perjanjian Baru dalam Terjemahan Sederhana Indonesia=====
 
 
-| **[[:id:pbtsi:40-matius|Matius]]**  | **[[:id:pbtsi:41-markus|Markus]]** | **[[:id:pbtsi:42-lukas|Lukas]]** | **[[:id:pbtsi:43-yohanes|Yohanes]]** | 
-|  |  |  |  | 
-|  |  |  |  | 
-|  |  |  |  | 
-|  |  |  |  | 
-|  |  |  |  | 
-|  |  |  |  | 
+| **[[:id:pbtsi:40-matius|MAT]]**  | **[[:id:pbtsi:41-markus|MRK]]** | **[[:id:pbtsi:42-lukas|LUK]]** | **[[:id:pbtsi:43-yohanes|YOH]]** | 
+| **[[:id:pbtsi:44-kisah|KIS]]** | **[[:id:pbtsi:45-roma|ROM]]** | **[[:id:pbtsi:46-1korintus|1KOR]]** | **[[:id:pbtsi:47-2korintus|2KOR]]** | 
+| **[[:id:pbtsi:48-galatia|GAL]]** | **[[:id:pbtsi:49-efesus|EF]]** | **[[:id:pbtsi:50-filipi|FLP]]** | **[[:id:pbtsi:51-kolose|KOL]]** | 
+| **[[:id:pbtsi:52-1tesalonika|1TES]]** | **[[:id:pbtsi:53-2tesalonika|2TES]]** | **[[:id:pbtsi:54-1timotius|1TIM]]** | **[[:id:pbtsi:55-2timotius|2TIM]]** | 
+| **[[:id:pbtsi:56-titus|TIT]]** | **[[:id:pbtsi:57-filemon|FLM]]** | **[[:id:pbtsi:58-ibrani|IBR]]** | **[[:id:pbtsi:59-yakobus|YAK]]** | 
+| **[[:id:pbtsi:60-1peter|1PTR]]** | **[[:id:pbtsi:61-2peter|2PTR]]** | **[[:id:pbtsi:62-1yohanes|1YOH]]** | **[[:id:pbtsi:63-2yohanes|2YOH]]** | 
+| **[[:id:pbtsi:64-3yohanes|3YOH]]** | **[[:id:pbtsi:65-yudas|YUD]]** | **[[:id:pbtsi:66-wahyu|WHY]]** |  | 
