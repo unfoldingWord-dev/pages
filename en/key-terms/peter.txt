@@ -1,18 +1,19 @@
 ====== Peter ======
 
 
-==== (term, other) ====
-
-
 ===== Facts: =====
 
+Peter was one of Jesus' disciples, and then became one of his 12 apostles.
+
   * Peter was a fisherman. 
-  * When Jesus invited him, Peter became one of Jesus' disciples and then one of his 12 apostles.
+  * When Jesus invited him, 
   * After Jesus went to heaven, Peter taught many people about Jesus. 
   * Peter prayed and God did miraculous things so that people would know that his teaching about Jesus was true.
 
 
 [See also: **[[:en:key-terms:disciple|disciple]]**, **[[:en:key-terms:apostle|apostle]]**]
+
+
 ===== Examples from the Bible stories: =====
 
   ***[[:en:obs-training:frames:28-09|[28-09]]]** **Peter** said to Jesus, “We have left everything and followed you. What will be our reward?”
@@ -25,4 +26,4 @@
   ***[[:en:obs-training:frames:44-08|[44-08]]]** **Peter** responded, “It is by the power of Jesus the Messiah that we healed this man.
 
 
-~~DISCUSSION~~
+~~DISCUSSION:closed~~
