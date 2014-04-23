@@ -10,7 +10,7 @@
     * God did miracles through Elijah and showed Israel that Yahweh is the only true God.
 
 
-[See also: **[[:en:key-terms:prophet|prophet]]**, **[[:en:key-terms:miracle|miracle]]**, **[[:en:key-terms:ahab|Ahab]]**]
+[See also: **[[:en:key-terms:prophet|prophet]]**, **[[:en:key-terms:miracle|miracle]]**, **[[:en:key-terms:ahab|Ahab]]**, **[[:en:key-terms:baal|Baal]]**]
 
 ===== Examples from the Bible stories: =====
 
@@ -25,4 +25,4 @@
   ***[[:en:obs-training:frames:36-03|[36-03]]]** Then Moses and **Elijah**, who had both lived hundreds of years earlier, appeared. They talked with Jesus about his death which would soon happen in Jerusalem.
 
 
-~~DISCUSSION~~
+~~DISCUSSION:closed~~
