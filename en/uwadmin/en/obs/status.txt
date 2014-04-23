@@ -1,7 +1,7 @@
 //The status of development for Open Bible Stories// 
 
 
-publish date: 2014-01-01
+publish date: 2014-04-23
 
 
 version: 2.0

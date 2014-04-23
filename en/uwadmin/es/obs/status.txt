@@ -7,7 +7,7 @@ publish date: 2014-04-23
 version: 2.1
 
 
-contributors: jack.shibata
+contributors: ljbadiola​; natilatina
 
 
 checking entity: translation team
