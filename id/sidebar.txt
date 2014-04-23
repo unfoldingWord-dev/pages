@@ -8,17 +8,14 @@
 
     * [[:id:home|Door43 (id)]]
 
+   * [[:id:obs|Cerita-cerita Alkitab yang terbuka (id)]]
 
 **Terjemahan Sederhana Indonesia** 
-
-
-    * [[:id:obs|Cerita-cerita Alkitab yang terbuka (id)]]
-    * [[:id:pltsi|PLTSI]][[:id:tsi|​]]
+ 
+    * [[:id:tsi|PLTSI]][[:id:tsi|​]]
     * [[:id:pbtsi|PBTSI]][[:id:pbtsi|​]]
 
-
 ----
-
 
     - [[:id:tsi:01-kejadian|KEJADIAN]]
     - [[:id:tsi:19-mazmur|MAZMUR]]
