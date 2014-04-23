@@ -3,14 +3,15 @@
 
 ===== Facts: =====
 
-  * Rehoboam was one of King Solomon's sons.
-  * When Solomon died, Rehoboam became king of Israel.
-  * Because Rehoboam was too severe on his people, ten of the tribes of Israel rebelled against him.
-  * Because of this, the nation of Israel became two kingdoms: the kingdom of Israel and the kingdom of Judah.
-  * Rehoboam continued to be the king of the two tribes who remained loyal to him. 
-  * His kingdom was called the kingdom of Judah.
+Rehoboam was one of the sons of King Solomon, and became the king of the nation of Israel after Solomon died.
+
+  * When Rehoboam spoke too severely to the people of Israel, ten of the tribes rebelled against him. Because of this, the nation of Israel became two kingdoms: the kingdom of Israel in the north and the kingdom of Judah in the south.
+  * Rehoboam continued to be the king of the two tribes who remained loyal to him.
+  * Rehoboam was a wicked king who did not obey Yahweh, but served false gods.
 
 [See also: **[[:en:key-terms:Solomon|Solomon]]**, **[[:en:key-terms:kingdom-of-Judah|Judah]]**]
+
+
 ===== Examples from the Bible stories: =====
 
   ***[[:en:obs-training:frames:18-05|[18-05]]]** After Solomon died, his son, **Rehoboam**, became king. **Rehoboam** was a foolish man.
@@ -18,4 +19,4 @@
   ***[[:en:obs-training:frames:18-07|[18-07]]]** Ten of the tribes of Israel rebelled against **Rehoboam**. Only two tribes remained faithful to him.
 
 
-~~DISCUSSION~~
+~~DISCUSSION:closed~~
