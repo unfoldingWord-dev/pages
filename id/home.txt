@@ -10,14 +10,11 @@ Halaman ini juga tempat bekerjasama untuk menerjemahkan Perjanjian Lama dalam Te
 
 ====Terjemahan Sederhana Indonesia====
  
-    * [[:id:tsi|PLTSI]][[:id:tsi|​]]
-    * [[:id:pbtsi|PBTSI]][[:id:pbtsi|​]]
+    * [[:id:tsi|PL TSI]][[:id:tsi|​]]
+    * [[:id:pbtsi|PB TSI]][[:id:pbtsi|​]]
 
 
 
 Lihat [[http://albata.info]] untuk informasi tentang aplikasi membaca PB TSI pada segala macam smart device, termasuk segala macam HP, tablet, dan komputer.
 
-Catatan: Perjanjian Baru TSI dikerjakan melalui kerjasama Door43.org, tetapi pakai wiki yang lama. File-file itu sudah tidak diperbarui lagi dan merupakan edisi sebelum edisi pertama yang sudah diterbitkan. Untuk melihat Edisi Pertama, tolong lihat informasi di [[http://albata.info]]
-
-Untuk lihat versi waktu masih dikerjakan di Door43.org, silakan lihat 
- [[http://id.door43.org/wiki/TSI|TSI]]) masih di [[http://id.door43.org|legacy Door43]].
+Catatan: Perjanjian Baru TSI dikerjakan melalui kerjasama Door43.org, tetapi pakai wiki yang lama. File-file itu adalah teks lama sebelum edisi pertama yang sudah diterbitkan oleh Andi Offset. Untuk melihat Edisi Pertama, tolong lihat informasi di [[http://albata.info]] File-file lama tersebut masih bies dilihat di [[http://id.door43.org/wiki/TSI|TSI]]).
