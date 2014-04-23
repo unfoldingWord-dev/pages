@@ -11,7 +11,7 @@
 
   * **On the way** - Some languages may need to say, "As the women were going to meet the disciples …"
   * **them** - That is, "the women."
-  * **A Bible story from:** - If all or portions of the Bible have already been translated into your language, check to make sure that these references point to the correct chapters and verses.
+  * //A Bible story from// - If all or portions of the Bible have already been translated into your language, check to make sure that these references point to the correct chapters and verses.
   
 
 **[[:en:obs-training:frames:41-07|<<]] | [[:en:obs-training:41-god-raises-jesus-from-the-dead|Up]] | [[:en:obs-training:frames:42-01|>>]]**

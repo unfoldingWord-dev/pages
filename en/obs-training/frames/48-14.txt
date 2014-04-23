@@ -11,7 +11,7 @@
 
   * **Like David** - This means, "Just as David is a king."
   * **the king of the universe** - That is, "the king over everything that exists."
-  * **A Bible story from:** - If all or portions of the Bible have already been translated into your language, check to make sure that these references point to the correct chapters and verses.
+  * //A Bible story from// - If all or portions of the Bible have already been translated into your language, check to make sure that these references point to the correct chapters and verses.
   
 
 **[[:en:obs-training:frames:48-13|<<]] | [[:en:obs-training:48-jesus-is-the-promised-messiah|Up]] | [[:en:obs-training:frames:49-01|>>]]**

@@ -12,7 +12,7 @@
   * **good soil** - See how you translated this term in **[[:en:obs-training:frames:33-05|[33-05]]]**.
   * **is a person** - See how you translated this comparison in **[[:en:obs-training:frames:33-06|[33-06]]]**.
   * **produce fruit** - See how you translated this phrase in **[[:en:obs-training:frames:33-08|[33-08]]]**.
-  * **A Bible story from:** - If all or portions of the Bible have already been translated into your language, check to make sure that these references point to the correct chapters and verses.
+  * //A Bible story from// - If all or portions of the Bible have already been translated into your language, check to make sure that these references point to the correct chapters and verses.
   
 
 **[[:en:obs-training:frames:33-08|<<]] | [[:en:obs-training:33-the-story-of-the-farmer|Up]] | [[:en:obs-training:frames:34-01|>>]]**

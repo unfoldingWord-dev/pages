@@ -10,7 +10,7 @@
 ===== Translation Notes: =====
 
   * **to grow** - This image is used with the sense of increasing, improving, and becoming better.
-  * **A Bible story from:** - If all or portions of the Bible have already been translated into your language, check to make sure that these references point to the correct chapters and verses.
+  * //A Bible story from// - If all or portions of the Bible have already been translated into your language, check to make sure that these references point to the correct chapters and verses.
   
 
 **[[:en:obs-training:frames:49-17|<<]] | [[:en:obs-training:49-gods-new-covenant|Up]] | [[:en:obs-training:frames:50-01|>>]]**
