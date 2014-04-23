@@ -12,7 +12,7 @@
 
   * **listened to** - See how you translated this phrase in **[[:en:obs-training:frames:13-12|[13-12]]]**.
   * **Moses wrote** - Moses chiseled the words into the stone using a tool.
-  * **A Bible story from:** - If all or portions of the Bible have already been translated into your language, check to make sure that these references point to the correct chapters and verses.
+  * //A Bible story from// - If all or portions of the Bible have already been translated into your language, check to make sure that these references point to the correct chapters and verses.
   
 
 **[[:en:obs-training:frames:13-14|<<]] | [[:en:obs-training:13-gods-covenant-with-israel|Up]] | [[:en:obs-training:frames:14-01|>>]]**
