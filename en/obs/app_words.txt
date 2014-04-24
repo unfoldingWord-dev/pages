@@ -1,4 +1,4 @@
-//Translation for the unfoldingWord mobile app interface     // 
+//Translation for the unfoldingWord mobile app interface // 
 
 
 Select a language: Select a Language
@@ -7,7 +7,7 @@ Select a language: Select a Language
 Chapters: Chapters
 
 
-Language: Language
+Languages: Languages
 
 
 Next chapter: Next Chapter

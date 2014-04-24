@@ -7,7 +7,7 @@ Select a language: Select a Language
 Chapters: Chapters
 
 
-Language: Language
+Languages: Languages
 
 
 Next chapter: Next Chapter
