@@ -9,7 +9,7 @@ These are the resources currently available for translation and use:
 
 
     * **[[:en:obs|Open Bible Stories]]** – A visual mini-Bible in any language, in text, audio, and video formats.
-    * Plain English Translation — a meaning based translation based on the Plain Indonesian Translation and potentially useful as a model for other translation teams.
+    * [[:en:pet|Plain English Translation]] — a meaning based translation based on the [[:id:home|Plain Indonesian Translation]] and potentially useful as a model for other translation teams.
 
 ==== About Door43 ====
 
