@@ -10,8 +10,8 @@ Halaman ini juga tempat bekerjasama untuk menerjemahkan Perjanjian Lama dalam Te
 
 ====Terjemahan Sederhana Indonesia====
  
-    * [[:id:tsi|PL TSI]]
-    * [[:id:pbtsi|PB TSI]]
+    * [[:id:tsi|Pejanjian Lama TSI]]
+    * [[:id:pbtsi|Perjanjian Baru TSI]]
 
 
 
