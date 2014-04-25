@@ -1,1 +1,4 @@
-VI Notes Index
+This the list of the Translation Notes pages.
+
+
+<nspages vi:obs:notes -title -exclude:home -textPages="List of Translation Notes:">
