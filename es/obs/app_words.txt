@@ -28,4 +28,4 @@ Save this string: Grabar este idioma en el dispositivo para usar sin conexión.
 Remove locally: Borrar del dispositivo.
 
 
-Remove this string: Borrar este idioma del almacenamiento sin conexión. Necesitará una conexión a internet para verlo posteriormente.
+Remove this string: Borrar este idioma del almacenamiento del dispositivo. Necesitará una conexión a internet para verlo posteriormente.
