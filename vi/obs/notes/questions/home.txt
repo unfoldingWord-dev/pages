@@ -1,1 +1,1 @@
-VI OBS Notes Questions Home
+<nspages vi:obs:notes:questions -title -exclude:home -textPages="List of Translation Checking Questions:">

@@ -1,31 +1,31 @@
 //Translation for the unfoldingWord mobile app interface// 
 
 
-Select a language: Select a Language
+Select a language: Seleccione un idioma
 
 
-Chapters: Chapters
+Chapters: Capítulos
 
 
-Languages: Languages
+Languages: Idiomas
 
 
-Next chapter: Next Chapter
+Next chapter: Siguiente capítulo
 
 
 OK: OK
 
 
-Cancel: Cancel
+Cancel: Cancelar.
 
 
-Save locally: Save Locally
+Save locally: Guardar en el dispositivo.
 
 
-Save this string: Save this language locally for offline use.
+Save this string: Grabar este idioma en el dispositivo para usar sin conexión.
 
 
-Remove locally: Remove Locally
+Remove locally: Borrar del dispositivo.
 
 
-Remove this string: Remove this language from offline storage. You will need an internet connection to view it in the future.
+Remove this string: Borrar este idioma del almacenamiento sin conexión. Necesitará una conexión a internet para verlo posteriormente.
