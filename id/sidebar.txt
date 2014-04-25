@@ -14,9 +14,12 @@
  
     * [[:id:tsi|TSI]]
 
+**Terjemahan Sederhana Indonesia Timur** 
+ 
+    * [[:id:tsit|TSIT]]
 ----
+**Plain English Translation** 
 
-    - [[:id:tsi:01-kejadian|KEJADIAN]]
-    - [[:id:tsi:19-mazmur|MAZMUR]]
-    - [[:id:tsi:20-amsal|Amsal— yaitu Nasihat Raja Salomo]]
+    * [[:en:pet|PET]]
+ 
 
