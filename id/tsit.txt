@@ -1,0 +1,12 @@
+=====Terjemahan Sederhana Indonesia Timur=====
+
+=====Perjanjian Baru=====
+
+
+| **[[:id:pbtsit:info|INFO]]** | **[[:id:pbtsit:40-matius|MAT]]**  | **[[:id:pbtsit:41-markus|MRK]]** | **[[:id:pbtsit:42-lukas|LUK]]** |
+| **[[:id:pbtsit:43-yohanes|YOH]]** | **[[:id:pbtsit:44-kisah|KIS]]** | **[[:id:pbtsit:45-roma|ROM]]** | **[[:id:pbtsit:46-1korintus|1KOR]]** |
+| **[[:id:pbtsit:47-2korintus|2KOR]]** | **[[:id:pbtsit:48-galatia|GAL]]** | **[[:id:pbtsit:49-efesus|EF]]** | **[[:id:pbtsit:50-filipi|FLP]]** |
+| **[[:id:pbtsit:51-kolose|KOL]]** | **[[:id:pbtsit:52-1tesalonika|1TES]]** | **[[:id:pbtsit:53-2tesalonika|2TES]]** | **[[:id:pbtsit:54-1timotius|1TIM]]** |
+| **[[:id:pbtsit:55-2timotius|2TIM]]** | **[[:id:pbtsit:56-titus|TIT]]** | **[[:id:pbtsit:57-filemon|FLM]]** | **[[:id:pbtsit:58-ibrani|IBR]]** |
+| **[[:id:pbtsit:59-yakobus|YAK]]** | **[[:id:pbtsit:60-1peter|1PTR]]** | **[[:id:pbtsit:61-2peter|2PTR]]** | **[[:id:pbtsit:62-1yohanes|1YOH]]** |
+| **[[:id:pbtsit:63-2yohanes|2YOH]]** | **[[:id:pbtsit:64-3yohanes|3YOH]]** | **[[:id:pbtsit:65-yudas|YUD]]** | **[[:id:pbtsit:66-wahyu|WHY]]** |

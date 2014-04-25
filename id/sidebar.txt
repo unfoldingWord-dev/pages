@@ -17,7 +17,7 @@
 **Terjemahan Sederhana Indonesia Timur** 
  
     * [[:id:tsit|TSIT]]
-----
+
 **Plain English Translation** 
 
     * [[:en:pet|PET]]

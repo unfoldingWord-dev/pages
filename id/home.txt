@@ -13,7 +13,17 @@ Halaman ini juga tempat bekerjasama untuk menerjemahkan Perjanjian Lama dalam Te
     * [[:id:tsi|TSI]]
 
 
-
 Lihat [[http://albata.info]] untuk informasi tentang aplikasi membaca PB TSI pada segala macam smart device, termasuk segala macam HP, tablet, dan komputer.
+
+**Terjemahan Sederhana Indonesia Timur** 
+ 
+    * [[:id:tsit|TSIT]]
+
+**Plain English Translation** 
+
+    * [[:en:pet|PET]]
+
+PET berdasarkan TSI dan dikerjakan dengan harapan menolong semua orang Indonesia yang ingin belajar bahasa Inggris, dan juga diterbitkan sebagai contoh penerjemahan berdasarkan arti yang bisa menolong tim penerjemah di negara-negara lain.
+
 
 Catatan: Perjanjian Baru TSI dikerjakan melalui kerjasama Door43.org, tetapi pakai wiki yang lama. File-file itu adalah teks lama sebelum edisi pertama yang sudah diterbitkan oleh Andi Offset. Untuk melihat Edisi Pertama, tolong lihat informasi di [[http://albata.info]] File-file lama tersebut masih bies dilihat di [[http://id.door43.org/wiki/TSI|TSI]]).
