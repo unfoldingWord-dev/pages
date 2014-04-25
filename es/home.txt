@@ -6,17 +6,23 @@ Bienvenidos a Door43, una plataforma abierta y colaborativa para crear, traducir
 
 ===== Recursos =====
 
+
 Estos son los recursos que hay disponibles en este momento para traducir y usar:
+
 
 **[[http://door43.org/es/obs|Historias Bíblicas Libres]]**- Un mini-biblia visual en cualquier idioma, en formatos de texto, audio y video.
 
-      *  [[:en:obs:notes|Translation Notes]] - Traduccion y notas exegéticas para las Historias Bíblicas Libres. 
 
-*[[:en:lexicon|Léxico Bíblico Libre]]
+* [[:en:obs:notes|Translation Notes]] - Traduccion y notas exegéticas para las Historias Bíblicas Libres.
 
-*[[​en:​​library|Biblioteca Cristiana Libre]]
 
-*[[​http://door43.org/en/​​ta|Academia de Traducción]]
+[[:en:lexicon|Léxico Bíblico Libre]]
+
+
+ [[:en:​​library|Biblioteca Cristiana Libre]]
+
+
+ [​[:en:​​ta|Academia de Traducción]]
 
 ==== Acerca de Door43 ====
 
