@@ -9,8 +9,9 @@ These are the resources currently available for translation and use:
 
 
     * **[[:en:obs|Open Bible Stories]]** – A visual mini-Bible in any language, in text, audio, and video formats.
-	      *  [[:en:obs:notes|Translation Notes]]
- - Translation and exegetical notes for Open Bible Stories.
+* [[:en:obs:notes|Translation Notes]] - Translation and exegetical notes for Open Bible Stories.
+
+
     * [[:en:lexicon|Open Bible Lexicon]]
     * [[:en:library|Open Christian Library]]
     * [[:en:ta|Translation Academy]]
