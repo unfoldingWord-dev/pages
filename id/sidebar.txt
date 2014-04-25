@@ -12,8 +12,7 @@
 
 **Terjemahan Sederhana Indonesia** 
  
-    * [[:id:tsi|PL TSI]][[:id:tsi|​]]
-    * [[:id:pbtsi|PB TSI]][[:id:pbtsi|​]]
+    * [[:id:tsi|TSI]]
 
 ----
 
