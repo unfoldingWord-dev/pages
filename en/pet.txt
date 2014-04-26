@@ -1,13 +1,14 @@
 
 =====Plain English Translation=====
-The Plain English Translation is a translation of a meaning based translation called the Plain Indonesian Translation (Terjemahan Sederhana Indonesia [[:id:tsi|TSI]]). This was done in the first place as part of normal checking procedures. Afterward, however, because so many Indonesians want to learn Indonesian, the text has been improved to make the text more natural sounding in English. The PET and the TSI often include implicit information or footnotes that will help modern readers to understand the Biblical world and customs. Because of this we hope that the PET will be useful for people across the world who are translating God's Word into ethnic languages
+The Plain English Translation is a translation of a meaning based translation called the Plain Indonesian Translation (Terjemahan Sederhana Indonesia [[:id:tsi|TSI]]). In the beginning, this was done as part of normal checking procedures. However, because so many Indonesians want to learn English and because we publish some books with both languages, the text has been improved to make it sound more natural in English. The PET and the TSI often include implicit information or footnotes that will help modern readers to understand the Biblical world and customs. Because of this we hope that the PET will be useful for people across the world who are translating God's Word into ethnic languages.
 =====New Testament=====
 
 
-| **[[:id:pbtsi:info|INFO]]** | **[[:id:pbtsi:40-matthew|MAT]]**  | **[[:id:pbtsi:41-mark|MRK]]** | **[[:id:pbtsi:42-luke|LUK]]** |
-| **[[:id:pbtsi:43-john|JHN]]** | **[[:id:pbtsi:44-acts|ACT]]** | **[[:id:pbtsi:45-romans|ROM]]** | **[[:id:pbtsi:46-1corinthians|1COR]]** |
-| **[[:id:pbtsi:47-2corinthians|2COR]]** | **[[:id:pbtsi:48-galatians|GAL]]** | **[[:id:pbtsi:49-ephesians|EPH]]** | **[[:id:pbtsi:50-Philippians|PLP]]** |
-| **[[:id:pbtsi:51-colosians|COL]]** | **[[:id:pbtsi:52-1thesalonians|1THS]]** | **[[:id:pbtsi:53-2thesalonians|2THS]]** | **[[:id:pbtsi:54-1timothy|1TIM]]** |
-| **[[:id:pbtsi:55-2timothy|2TIM]]** | **[[:id:pbtsi:56-titus|TIT]]** | **[[:id:pbtsi:57-Philemon|PHM]]** | **[[:id:pbtsi:58-hebrews|HEB]]** |
-| **[[:id:pbtsi:59-james|JAS]]** | **[[:id:pbtsi:60-1peter|1PTR]]** | **[[:id:pbtsi:61-2peter|2PTR]]** | **[[:id:pbtsi:62-1john|1JHN]]** |
-| **[[:id:pbtsi:63-2john|2JHN]]** | **[[:id:pbtsi:64-3john|3JHN]]** | **[[:id:pbtsi:65-jude|JUD]]** | **[[:id:pbtsi:66-revelation|REV]]** | 
+
+| **[[:en:ntpet:info|INFO]]** | **[[:en:ntpet:40-matthew|MAT]]**  | **[[:en:ntpet:41-mark|MRK]]** | **[[:en:ntpet:42-luke|LUK]]** |
+| **[[:en:ntpet:43-john|JHN]]** | **[[:en:ntpet:44-acts|ACT]]** | **[[:en:ntpet:45-romans|ROM]]** | **[[:en:ntpet:46-1corinthians|1COR]]** |
+| **[[:en:ntpet:47-2corinthians|2COR]]** | **[[:en:ntpet:48-galatians|GAL]]** | **[[:en:ntpet:49-ephesians|EPH]]** | **[[:en:ntpet:50-Philippians|PLP]]** |
+| **[[:en:ntpet:51-colosians|COL]]** | **[[:en:ntpet:52-1thesalonians|1THS]]** | **[[:en:ntpet:53-2thesalonians|2THS]]** | **[[:en:ntpet:54-1timothy|1TIM]]** |
+| **[[:en:ntpet:55-2timothy|2TIM]]** | **[[:en:ntpet:56-titus|TIT]]** | **[[:en:ntpet:57-Philemon|PHM]]** | **[[:en:ntpet:58-hebrews|HEB]]** |
+| **[[:en:ntpet:59-james|JAS]]** | **[[:en:ntpet:60-1peter|1PTR]]** | **[[:en:ntpet:61-2peter|2PTR]]** | **[[:en:ntpet:62-1john|1JHN]]** |
+| **[[:en:ntpet:63-2john|2JHN]]** | **[[:en:ntpet:64-3john|3JHN]]** | **[[:en:ntpet:65-jude|JUD]]** | **[[:en:ntpet:66-revelation|REV]]** | 
