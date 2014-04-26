@@ -5,7 +5,7 @@
     - [[:te:obs:03-the-flood|జలప్రళయము]]
     - [[:te:obs:04-gods-covenant-with-abraham|అబ్రాహాముతో దేవుని నిబంధన]]
     - [[:te:obs:05-the-son-of-promise|వాగ్దాన పుత్రుడు]]
-    - [[:te:obs:06-god-provides-for-isaac|God Provides for Isaac]]
+    - [[:te:obs:06-god-provides-for-isaac|ఇస్సాకుకు దేవుని సహాయము]]
     - [[:te:obs:07-god-blesses-jacob|యాకోబుకు దేవుని ఆశీర్వాదము]]
     - [[:te:obs:08-god-saves-joseph-and-his-family|యోసేపు మరియు అతని కుటుంబానికి దేవుని రక్షణ]]
     - [[:te:obs:09-god-calls-moses|మోషేకు దేవుని పిలుపు]]
