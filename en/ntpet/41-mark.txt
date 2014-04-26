@@ -2,5 +2,5 @@
 
 | **[[:en:ntpet:41-mark:01|1]]** | **[[:en:ntpet:41-mark:02|2]]** | **[[:en:ntpet:41-mark:03|3]]** | **[[:en:ntpet:41-mark:04|4]]** |
 | **[[:en:ntpet:41-mark:05|5]]** | **[[:en:ntpet:41-mark:06|6]]** | **[[:en:ntpet:41-mark:07|7]]** | **[[:en:ntpet:41-mark:08|8]]** |
-| **[[:en:ntpet:41-mark:09|9]]** | **[[:en:ntpet:41-mark:10|10]]** | **[[:en:ntpet:41-mark:11|1]]** | **[[:en:ntpet:41-mark:12|12]]** |
+| **[[:en:ntpet:41-mark:09|9]]** | **[[:en:ntpet:41-mark:10|10]]** | **[[:en:ntpet:41-mark:11|11]]** | **[[:en:ntpet:41-mark:12|12]]** |
 | **[[:en:ntpet:41-mark:13|13]]** | **[[:en:ntpet:41-mark:14|14]]** | **[[:en:ntpet:41-mark:15|15]]** | **[[:en:ntpet:41-mark:16|16]]** |
