@@ -1,0 +1,40 @@
+<USFM>
+\c 16
+\s The news about Jesus coming alive again from death
+\r (Mat. 28:1-8, Luke 24:1-12, John 20:1-10)
+\p
+\v 1-2 When the Sabbath day was past, very early in the morning when the sun had just risen on Sunday, Mary from the village of Magdala, Salome, and Mary the mother of James went to Jesus' tomb. Before going, they bought fragrant oil to rub on Jesus' body.
+\v 3 On the way they asked each other, “Who'll help us roll that huge stone aside, so that we can enter the tomb?”
+\v 4 But when they reached the tomb, they saw that the huge stone had already been rolled aside.
+\p
+\v 5 They quickly entered the tomb, and saw an angel who looked like a young man. He was wearing white clothes and was sitting on the right side of the tomb. They were very shocked.
+\v 6 But the angel said to them, “Don't be shocked! I know you're looking for Jesus, the Man from Nazareth who was crucified. He isn't here, because God has made Him alive again. Just look at the place where they laid His body.
+\v 7 So go now and tell His disciples, especially Peter. Say this, 'Jesus has already gone ahead to Galilee and you'll meet Him there— just like He had told you.' ”
+\p
+\v 8 The women ran away from the tomb trembling, because they were very afraid and confused. They didn't say anything to the people they met on the road, because they were still afraid.\f + \fr 16:8 \fk Difference in copies\ft Some old copies in the Greek language end the Gospel of Mark with verse 8. There are also other old manuscripts which don't have verses 9-20, but end with these words: But they quickly gave the angel's message to Peter and the other people who were with him. After that, Jesus Himself ordered them to go (everywhere) from east to west with the Holy News that will never change— which is that people can be saved and receive eternal life.\f*
+\s An ancient addition to Mark's Gospel: Jesus shows Himself to His disciples
+\r (Mat. 28:9-10, Luke 24:13-35, John 20:11-18)
+\p [
+\v 9 Jesus came back to life very early on Sunday morning. He first showed Himself to Mary, from the village of Magdala. (Jesus had once cast seven evil spirits out of her.)
+\v 10 Then Mary went to tell it to the people who had followed Jesus in the past. At that time, they were still mourning and weeping because of Jesus' death.
+\v 11 When they heard that Jesus had returned to life, and Mary had just seen Him, they didnt believe.
+\p
+\v 12 Not long after that, Jesus showed Himself with a face like another person to two people who had often been together with His disciples in the past. At that time, they were walking from Jerusalem to another place.
+\v 13 When the two people became aware that the Person who was with them was Jesus, He suddenly disappeared. Then the two of them returned and told what happened to His disciples. But they still didn't believe.
+\p
+\v 14 Finally, Jesus showed Himself to His eleven disciples while they were eating. He rebuked them because of their hard-heartedness. Even though several eye-witnesses had told them, they still didn't believe that He had come alive again.
+\v 15 Then He said to them, “Go into the whole world, tell the Good News to everyone.
+\v 16 Whoever doesn't believe in Me will be punished. But the person who believes and is baptized will be saved.
+\v 17 And to everyone who believes in Me, God will give the power to do these miracles:
+\q1 So that I'm glorified
+\q2 you'll drive out demons,
+\q2 will speak in new languages which you've never learned,
+\q2
+\v 18 and even though you hold snakes with your bare hands, or drink poison, you won't get sick or die.
+\q2 And you'll also lay hands on sick people while praying to Me, and the sick person will be healed.”
+\s Jesus is taken up to heaven
+\r (Luke 24:50-53; Acts 1:9-11)
+\p
+\v 19 After He finished talking like that to His disciples, the Lord Jesus was taken up to heaven, where He sits at the right side of God— which is the place of greatest honor.
+\v 20 Then His disciples went everywhere telling the news of salvation. And the Spirit of the Lord Jesus was with them, doing many miracles as proof that the news of salvation that they told was true. ]
+</USFM>
