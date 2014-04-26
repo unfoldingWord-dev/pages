@@ -1,0 +1,79 @@
+<USFM>
+\c 1
+\s John the Baptist prepares God's people for Jesus' coming
+\r (Mat. 3:1-12, Luke 3:1-18, John 1:19-28)
+\p
+\v 1-2 The following is the Good News\f + \fr 1:1 \fk Good News \ft The news that God has already made a way to forgive sinners, so that they could live with Him forever. Good News is also often translated ‘Gospel’.\f* about Christ Jesus,\f + \fr 1:1 \fk Christ \ft is a word from the Greek language, which means 'the anointed One'. In Hebrew, the same term is called 'Messiah'. That term denotes a position, like 'district head' or 'governor'. During Old Testament times, each king was anointed with olive oil by a prophet as a sign of being chosen and confirmed by God. And all the priests and prophets of that time were also anointed. It's appropriate to call Jesus “the anointed One,” because He holds the positions of prophet, High King, and our High Priest (Heb. 4-10). Because of some prophecies in the books of the prophets and the Psalms, at the time of Jesus, the Jewish people in general understood the meaning of 'Christ' as the King of Salvation, whom God promised, who would come from the descendants of King David, and who would free the people of Israel from those who opposed them, set up a government with the power of God, and rule with justice. (Is. 9:5-6 [Indonesian verse numbering]; Gen. 3:15; Deut. 18:18-19; Mic. 5:2; Zec. 12:10-14; Mal. 3:1, 4:5-6; Ps. 2, 16, 22, 40, 110)\f* God's Son.\f + \fr 1:1 \fk God's Son\ft Before Jesus was born on this earth, God had announced in Ps. 2:7, “You are My Son. Today I proclaim that I'm Your Father.” The author of the Letter to the Hebrews in the New Testament said (in Heb. 1:5) that this verse is about Jesus. And before the birth of Jesus, the angel Gabriel told Mary (in Luke 1:35) “The Holy Spirit will come to you, and the power of the Almighty will come upon you, so that the holy Son whom you will give birth to will be called God's Son.” So God Himself was the one who announced that Jesus was His Son before He was even born on this earth, and we call Him “God's Son” in agreement with God's Word. And from Luke 1:35, it's clear that Mary conceived Jesus, not because of a sexual relationship with God or man, but because of the power of the Holy Spirit. (John 4:24).\f* This event begins as it was previously written by the Prophet Isaiah in his book. He wrote what God said to His Son,
+\q “Take notice: I'll send a messenger first, so that he prepares the way before I send You.”\x + Mal. 3:1\x*
+\q
+\v 3 That man will teach with a loud voice in the desert, saying,
+\q2 “Let's prepare ourselves for the Lord’s coming! And let's be prepared to meet Him.”\x + Is. 40:3 from an old translation of the Greek language (LXX).\x*
+\p
+\v 4 Long after that, the man that the Lord spoke about came to the desert. His name was John. He taught the people who came to him and said, “Each of you must repent of your sins so that God will forgive you. And to show that you want to keep following the Lord, come to me so that I can baptize\f + \fk baptize \ft is a word that is borrowed directly from the Greek language. It means to dip or put something into water for a moment. Before John the Baptist began his ministry, there were already Jewish groups doing baptisms as a religious requirement or symbol to show cleansing in God's eyes. For Christians, baptism shows that the person who's baptized promises to follow Jesus, that the person has believed in Him as his King and Savior and has already repented of his sins. The Apostle Paul writes that, in a symbolic way, baptism shows that the person who's baptized became one with Jesus when He died, was buried, and when He came alive again from death. This means that the person who is baptized is, as it were, brought back to life from death with Jesus, and is ready to carry on a new life. Baptism is also a sign that the person has become a member of God's people. See Acts 2:38; Rom. 6:3-4; Gal. 3:26-28; Col. 2:12-13.\f* you.”
+\v 5 Then a crowd from the whole province of Judea and also from the city of Jerusalem came to John at the Jordan River. They all confessed their sins to God, then John baptized them there.
+\v 6 John’s lifestyle was like that of the Prophet Elijah in times past. John’s clothes were made of camel’s hair and his belt was made of animal skin, and he often ate locusts and honey.
+\p
+\v 7 He also spoke to them like this, “In a short time, a Person who is more powerful than I am will come. I'm actually unworthy to serve Him, not even to stoop down and untie the straps of His sandals.\f + \fr 1:7 \fk His sandals \ft During Jesus' time, everyone wore sandals that were made from animal skins, and it was very easy for their feet to get dirty when walking. Because of that, when a guest entered a house, a slave or a servant usually had the task of untying the straps of the sandals and washing the guest's feet. So what Mark writes here, “to stoop down and untie the straps of His sandals,” illustrates that John doesn't feel worthy to take the job of a slave who does the most lowly work, like washing the guest's feet.\f*
+\v 8 I'm just baptizing you with water now, but He who's more powerful than I am will come to baptize you with the Holy Spirit.”
+\s John the Baptist baptizes Jesus
+\p
+\v 9 Sometime later, Jesus came from the village of Nazareth which is in the province of Galilee. Then John baptized Him in the Jordan River.
+\v 10 When Jesus came out of the water, He suddenly saw heaven open up and God's Spirit descend on Him in the form of a dove.
+\v 11 Then God's voice was heard from heaven which said, “You're My Son whom I love very much, and You please My heart.”
+\s Jesus is tempted by the devil
+\r (Mat. 4:1-11; Luke 4:1-13)
+\p
+\v 12 After that, God's Spirit immediately led Jesus to a lonely region.
+\v 13 For forty days, Jesus stayed in that lonely region— where there were many wild animals. And at that time, the devil tried to tempt Him over and over again, but he never succeeded. Then angels came to serve Jesus.
+\s Jesus begins His work
+\r (Mat. 4:12-22; Luke 4:14-15; 5:1-11)
+\p
+\v 14 After John the Baptist was imprisoned, Jesus went to the region of Galilee and began teaching the Good News of God there.
+\v 15 Jesus said, “Repent and believe in the Good News, because it's almost time for God to set up His kingdom in this world.”
+\p
+\v 16 While Jesus was walking by the shore of Lake Galilee, He saw two fishermen throwing their net into the lake. They were Simon— who was also called Peter,\f + \fk Simon \ft Another name for Peter.\f* and his younger brother, Andrew.
+\v 17 Then Jesus said to them, “Come and follow Me. Your work isn't going to be catching fish anymore, but I'll teach you to catch people, so that they become My followers.”
+\v 18 At that very moment, they left their net and followed Jesus.
+\v 19-20 Jesus walked a little farther away from there, and saw two more fishermen who were mending their net in a boat. They were James and his younger brother, John, the sons of Zebedee. As soon as Jesus saw them, He called them immediately. At that very moment, they a left Zebedee and some of his workers too, and then followed Jesus.
+\s Jesus drives an evil spirit out of a man of Capernaum
+\p
+\v 21 After that, Jesus and His disciples went to the city of Capernaum. On the Sabbath Day, He entered the Jewish synagogue\f + \fr 1:21 \fk Jewish synagogue \ft a Greek word. In New Testament times, synagogues were used for public meetings for the local Jewish people, and were also used as places for Jewish people to pray and study God's Word. Synagogues were different from God's Temple— which was in the city of Jerusalem. The offering of burnt sacrifices was only done in God's Temple, whereas synagogues were built in every city or village where the Jews lived.\f* and taught there.
+\v 22 Everyone who heard His teaching was very amazed, because He spoke like a leader who had the authority to rule. His teaching wasn't like the teaching of the Law experts.
+\p
+\v 23 And suddenly a man who was controlled by an evil spirit came in and shouted,
+\v 24 “Hey, Jesus the Nazarene! You\f + \fr 1:24 \fk you \ft In this verse, the pronouns to replace Jesus' name begin with a small letter. Even though the evil spirit knew that Jesus was God's Son, it didn't truly respect Him or submit to Him. Compare to James 2:19\f* have no business with us! Have you come to destroy us? I already know who you are! You're the holy messenger from God.”
+\v 25 Then Jesus immediately ordered the evil spirit, “Be quiet! Come out of that man!”
+\v 26 The evil spirit shook the man really hard, and while shouting, it went out of the man.
+\v 27 Everyone who saw that happen was really amazed, and then said to each other, “Wow! Amazing! This is a new teaching! This man has authority so that the evil spirits obey Him.”
+\v 28 Then the news about Jesus spread very quickly throughout the whole province of Galilee.
+\s Jesus heals many people
+\r Mat. 8:14-17; Luke 4:38-41
+\p
+\v 29 When Jesus and His four disciples went out of the synagogue, they immediately entered Simon and Andrew's house. James and John went too.
+\v 30 And when they went in, someone told Jesus that Simon’s mother-in-law was lying in bed because she was sick with a fever.
+\v 31 So Jesus went to her, and took her hand, then He helped her to sit up. At that very moment, her fever disappeared. Then she got up and served them.
+\v 32 That evening, when it was almost dark,\f + \fk 1:32 \fk it was almost dark \ft The Sabbath Day for the Jews started when the sun set on Friday, and ended when the sun set on Saturday. So the residents of that city waited until the Sabbath Day had ended to bring sick people to Jesus. And before the sun set, Simon's mother-in-law (in verse 31) served them a noon meal that had been prepared the day before the Sabbath Day, because on the Sabbath Day they weren't allowed to light a fire or cook.\f* people in that city brought many people to Jesus who were sick and controlled by demons.
+\v 33 Almost all of the residents of the city of Capernaum gathered in front of Simon and Andrew’s house.
+\v 34 Then Jesus healed them of all kinds of diseases. He also drove out demons who controlled those people. He didn't allow the demons to speak, because they knew who He was.\f + \fk 1:33 \fk knew who He was \ft This doesn't mean that they knew His name was Jesus, but as happened in Mark 5:7, the demons shouted, “You're God's Son.” So it's obvious that the demons already knew the relationship of Jesus to God. If so, why didn't Jesus want the demons to broadcast the truth about Him? The reason was that the demons weren't fit to be witnesses for Him, of course.\f*
+\s Jesus tells the Good News in the province of Galilee
+\r (Luke 4:42-44)
+\p
+\v 35 The next morning, while it was still very dark, Jesus got up and left that house, and went to a quiet place to pray.
+\v 36 When Simon and his friends saw that Jesus wasn't in the house, they went to look for Him.
+\v 37 After they found Him they said, “Sir, let’s go home, because everyone's looking for You.”
+\p
+\v 38 But He answered, “It's better that we go to another place, to the other villages in this region, so that I can teach the Good News there too, because that’s why I came.”
+\v 39 So He went everywhere in the province of Galilee and taught in their synagogues. He also drove out many demons from people.
+\s Jesus heals a man with a contagious skin disease
+\r Mat. 8:1-4; Luke 5:12-16
+\p
+\v 40 At that time, there was a person who had a contagious skin disease.\f + \fr 1:40 \fk a contagious skin disease\ft The skin disease that was meant wasn't the same as what's called “leprosy” now. According to the Law, people suffering with this kind of skin disease were considered to be unclean. They couldn't come near healthy people, they couldn't enter the Jewish synagogues, and they had to live outside the village or city. See Lev. 13-14.\f* He came and knelt down in front of Jesus and said, “Sir, if You want to, You can heal me for sure.”
+\p
+\v 41 Jesus had so much compassion for that man, so He touched him\f + \fr 1:41 \fk touched \ft Because of the rules in the Law about people suffering with contagious skin diseases, healthy people seldom touched them or were touched by them. But in this verse Jesus touches this sick man, because He knew, of course, that the man would be healed.\f* while saying, “I want to heal you. Be healed!”
+\v 42 At that very moment, the skin disease disappeared and the man was truly healed.
+\p
+\v 43 Then Jesus immediately ordered him to go and strictly forbid him, saying,
+\v 44 “Don't tell anyone at all about what happened to you. Go first to one of the priests and show your body to him. Then give an offering to God, like what Moses commanded for everyone who had been healed from a skin disease.\f + \fr 1:44 \fk Moses commanded... a skin disease \ft What Moses wrote about healing from skin diseases is found in Lev. 14:1-32. If a priest agreed that the person was healed, that person had to bring two living birds to God's Temple, so that the priests could perform the ceremony of purification from the skin disease. One bird was cut above a dish that was filled with water, so that its blood mixed with the water. Then the person was sprinkled with that blood mixture. (And the bird's carcass may have been burned on the Lord's altar.) The second bird was dipped in the water mixed with blood and set free. In this story, Jesus meant that the man who was healed had to go to God's Temple in Jerusalem, because offerings like this weren't done in the synagogues in their villages.\f* In that way, everyone will know that you're truly healed.”
+\p
+\v 45 But the man went and told everyone everywhere about what had happened, that Jesus had healed him. For that reason, Jesus didn't want to openly enter the city anymore. So He and His disciples stayed in quiet regions outside the city. Even so, people continued to come to Him from everywhere.
+</USFM>
