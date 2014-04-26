@@ -5,10 +5,10 @@ The Plain English Translation is a translation of a meaning based translation ca
 
 
 
-| **[[:en:ntpet:info|INFO]]** | **[[:en:ntpet:40-matthew|MAT]]**  | **[[:en:ntpet:41-mark|MRK]]** | **[[:en:ntpet:42-luke|LUK]]** |
-| **[[:en:ntpet:43-john|JHN]]** | **[[:en:ntpet:44-acts|ACT]]** | **[[:en:ntpet:45-romans|ROM]]** | **[[:en:ntpet:46-1corinthians|1COR]]** |
-| **[[:en:ntpet:47-2corinthians|2COR]]** | **[[:en:ntpet:48-galatians|GAL]]** | **[[:en:ntpet:49-ephesians|EPH]]** | **[[:en:ntpet:50-Philippians|PLP]]** |
-| **[[:en:ntpet:51-colosians|COL]]** | **[[:en:ntpet:52-1thesalonians|1THS]]** | **[[:en:ntpet:53-2thesalonians|2THS]]** | **[[:en:ntpet:54-1timothy|1TIM]]** |
-| **[[:en:ntpet:55-2timothy|2TIM]]** | **[[:en:ntpet:56-titus|TIT]]** | **[[:en:ntpet:57-Philemon|PHM]]** | **[[:en:ntpet:58-hebrews|HEB]]** |
-| **[[:en:ntpet:59-james|JAS]]** | **[[:en:ntpet:60-1peter|1PTR]]** | **[[:en:ntpet:61-2peter|2PTR]]** | **[[:en:ntpet:62-1john|1JHN]]** |
-| **[[:en:ntpet:63-2john|2JHN]]** | **[[:en:ntpet:64-3john|3JHN]]** | **[[:en:ntpet:65-jude|JUD]]** | **[[:en:ntpet:66-revelation|REV]]** | 
+| **[[:en:pet:info|INFO]]** | **[[:en:pet:40-matthew|MAT]]**  | **[[:en:pet:41-mark|MRK]]** | **[[:en:pet:42-luke|LUK]]** |
+| **[[:en:pet:43-john|JHN]]** | **[[:en:pet:44-acts|ACT]]** | **[[:en:pet:45-romans|ROM]]** | **[[:en:pet:46-1corinthians|1COR]]** |
+| **[[:en:pet:47-2corinthians|2COR]]** | **[[:en:pet:48-galatians|GAL]]** | **[[:en:pet:49-ephesians|EPH]]** | **[[:en:pet:50-Philippians|PLP]]** |
+| **[[:en:pet:51-colosians|COL]]** | **[[:en:pet:52-1thesalonians|1THS]]** | **[[:en:pet:53-2thesalonians|2THS]]** | **[[:en:pet:54-1timothy|1TIM]]** |
+| **[[:en:pet:55-2timothy|2TIM]]** | **[[:en:pet:56-titus|TIT]]** | **[[:en:pet:57-Philemon|PHM]]** | **[[:en:pet:58-hebrews|HEB]]** |
+| **[[:en:pet:59-james|JAS]]** | **[[:en:pet:60-1peter|1PTR]]** | **[[:en:pet:61-2peter|2PTR]]** | **[[:en:pet:62-1john|1JHN]]** |
+| **[[:en:pet:63-2john|2JHN]]** | **[[:en:pet:64-3john|3JHN]]** | **[[:en:pet:65-jude|JUD]]** | **[[:en:pet:66-revelation|REV]]** | 
