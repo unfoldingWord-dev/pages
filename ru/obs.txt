@@ -1,6 +1,6 @@
-====== Open Bible Stories (ru) ======
+====== Истории ОТКРЫТОЙ Библии, в. 2.0 ======
 
-Welcome to Open Bible Stories! Please feel free to translate this page and the stories (including the titles) below. If you need help, [[http://distantshoresmedia.org/contact|just ask]]!
+Создана [[http://distantshores.org|Distant Shores Media]] и сообществом мировых миссий [[http://door43.org|Door43]].
 
 {{page>ru:obs:stories}}
 
