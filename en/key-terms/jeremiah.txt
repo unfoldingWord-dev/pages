@@ -3,13 +3,13 @@
 
 ===== Facts: =====
 
-  * Jeremiah was one of God's prophets in Judah.
+Jeremiah was prophet of God in the kingdom of Judah.
+
   * Like most of the prophets, Jeremiah often had to warn the people that God was going to punish them for their sins.
-  * When Jeremiah prophesied that the Babylonians were going to capture Jerusalem, some of the people of Judah were angry. So they put him in a dry well, planning to leave him there to die.
-  * But the king of Judah ordered his servants to pull Jeremiah out of the well so that he could live.
+  * Jeremiah prophesied that the Babylonians would capture Jerusalem, which made some of the people of Judah angry. So they put him in a dry well and left him there to die. But the king of Judah ordered his servants to rescue Jeremiah from the well.
 
 
-[See also: **[[:en:key-terms:term|term]]**]
+[See also: **[[:en:key-terms:prophet|prophet]]**, **[[:en:key-terms:kingdom-of-judah|kingdom of Judah]]**, **[[:en:key-terms:babylon|Babylon]]**]
 
 ===== Examples from the Bible stories: =====
 
@@ -18,4 +18,4 @@
   ***[[:en:obs-training:frames:21-05|[21-05]]]** Through the prophet **Jeremiah**, God promised that he would make a New Covenant, but not like God’s Covenant with Israel.
 
 
-~~DISCUSSION~~
+~~DISCUSSION:closed~~
