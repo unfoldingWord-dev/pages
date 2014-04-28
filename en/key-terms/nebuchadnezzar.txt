@@ -2,12 +2,15 @@
 
 
 ===== Facts: =====
-  * Nebuchadnezzar was king of the Babylonian Empire. This was a powerful empire during the time of the kingdom of Israel and the kingdom of Judah.
+
+Nebuchadnezzar was a king of the Babylonian Empire. This was a powerful empire during the time of the kingdom of Israel and the kingdom of Judah.
+
   * Nebuchadnezzar had a powerful army that conquered many other people groups.
-  * Under Nebuchadnezzar's leadership, the Babylonian army attacked the kingdom of Judah and took most of the people of Judah to Babylon as captives. This is referred to as the “Babylonian Exile.”
+  * Under Nebuchadnezzar's leadership, the Babylonian army attacked and conquered the kingdom of Judah, and took most of the people of Judah to Babylon as captives. This “Babylonian Exile” lasted 70 years.
+
+[See also: **[[:en:key-terms:Babylon|Babylon]]**, **[[:en:key-terms:kingdom-of-judah|kingdom of Judah]]**, **[[:en:key-terms:exile|Exile]]**]
 
 
-[See also: **[[:en:key-terms:Babylon|Babylon]]**] \\ 
 ===== Examples from the Bible stories: =====
 
   ***[[:en:obs-training:frames:20-06|[20-06]]]** About 100 years after the Assyrians destroyed Israel, God sent **Nebuchadnezzar**, king of the Babylonians, to attack Judah.
@@ -16,4 +19,4 @@
   ***[[:en:obs-training:frames:20-09|[20-09]]]** **Nebuchadnezzar** and his army took all the people of Judah to Babylon, leaving only the poorest people behind to plant the fields.
 
 
-~~DISCUSSION~~
+~~DISCUSSION:closed~~
