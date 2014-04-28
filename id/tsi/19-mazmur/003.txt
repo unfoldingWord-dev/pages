@@ -1,3 +1,24 @@
+<USFM>
+\c 3
+\p
+\v 1 Mazmur Daud ketika ia meluputkan diri dari anaknya, Absalom.
+Mengapakah musuhku begitu banyak, ya TUHAN! Banyak orang bangkit melawan aku!
+\v 2 Lebih banyak lagi mengatakan bahwa TUHAN-pun tidak akan menolong atau menyelamatkanku.
+Sela
+\p
+\v 3 Hanya Engkaulah perisaiku, yang melindungi aku, Engkaulah yang mengangkat kehormatanku.
+\v 4 Aku berseru kepada-Mu, ya TUHAN, dan Engkau menjawabku dari gunung-Mu yang maha kudus.
+\v 5 Aku membaringkan diri dan tertidur; Engkaulah yang menopang dan menyegarkanku ketika aku
+terjaga.
+\v 6 Aku tidak akan takut sekalipun puluhan ribu orang mengepungku dari semua arah.
+\v 7 Bangkitlah dan selamatkanlah aku, ya TUHAN! Engkaulah yang menampar musuh-musuhku dan
+mematahkan gigi orang jahat.
+\v 8 Hanya Engkaulah yang memenangkan dan menyelamatkan aku. Engkau melimpahkan berkat-
+Mu pada umat-Mu.
+Sela
+
+</USFM>
+
 1Ya Tuhan, saya mempunyai banyak musuh yang melawanku. 
 
 
@@ -20,3 +41,5 @@
 
 
 8 Tuhan, Engkaulah yang menyelamatkan dan yang memberkati umat-Mu.   
+
+~~DISCUSSIONS:on~~
