@@ -1,19 +1,15 @@
 ====== Galilee ======
 
 
-==== (term, other) ====
-
-
 ===== Facts: =====
 
-  * Galilee is a region in the northern part of Israel.
-  * There is a large lake there called the Sea of Galilee.
+Galilee is a region in the northern part of Israel.
+
+  * Galilee is bordered on the east by a large lake called the Sea of Galilee.
   * Jesus grew up and lived in the town of Nazareth in Galilee.
 
 
-
 ===== Examples from the Bible stories: =====
-
 
   ***[[:en:obs-training:frames:21-10|[21-10]]]**  Isaiah said he (Messiah) would live in **Galilee**, comfort the broken-hearted, and proclaim freedom to captives and release to prisoners. 
   ***[[:en:obs-training:frames:26-01|[26-01]]]**  After overcoming Satan’s temptations, Jesus returned in the power of the Holy Spirit to the region of **Galilee** where he lived.
@@ -21,4 +17,4 @@
   ***[[:en:obs-training:frames:41-06|[41-06]]]**  Then the angel told the women, “Tell the disciples that Jesus has risen from the dead and is going before you into **Galilee**.”
 
 
-~~DISCUSSION~~
+~~DISCUSSION:closed~~
