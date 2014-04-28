@@ -3,11 +3,11 @@
 
 ===== Facts: =====
 
-  * Isaiah was one of God's prophets.
-  * He wrote many prophecies about Israel that came true while he was still living.
-  * He wrote many prophecies about the Messiah that came true 700 years later when Jesus came to earth.
-  * Jesus and his disciples read Isaiah's scrolls and taught people that Jesus is the Messiah that Isaiah wrote about.
-  * We still read Isaiah's prophecies in the Bible.
+  * Isaiah was a prophet of God.
+  * Isaiah wrote many prophecies about Israel that came true while he was still living.
+  * Isaiah is especially known for the prophecies he wrote about the Messiah that came true 700 years later when Jesus was living on earth.
+  * Jesus and his disciples quoted Isaiah's prophecies to teach people about the Messiah.
+  * The Book of Isaiah is one of the major books of the Bible.
 
 [See also: **[[:en:key-terms:prophet|prophet]], [[:en:key-terms:Messiah|Messiah]]**]
 
@@ -24,4 +24,4 @@
   ***[[:en:obs-training:frames:45-10|[45-10]]]** Philip showed him that **Isaiah** was talking about Jesus.
 
 
-~~DISCUSSION~~
+~~DISCUSSION:closed~~
