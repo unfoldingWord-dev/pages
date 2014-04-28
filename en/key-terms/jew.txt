@@ -6,13 +6,15 @@
 
 ===== Facts: =====
 
+In modern times, Jews are people who are descended from Abraham's son Isaac.
 
-    * After the Israelites returned from their exile in Babylon to Judah, people began to call them "Jews.
-    * The word 'Jew' comes from their word for 'Judah.' The Israelites who had been taken to Babylon were from the southern kingdom of Judah.
-    * In modern times, Jews are people who are descended from Abraham's son Isaac.
+    * People began to call the Israelites "Jews" after they returned to Judah from their exile in Babylon.
+    * The word 'Jew' comes from the Israelites' word for "Judah." The Israelites who had been taken to Babylon were from the southern kingdom of Judah.
+    * Jesus the Messiah was Jewish. However, the Jewish religious leaders rejected Jesus and demanded that he be killed.
 
 
-[See also: **[[:en:key-terms:israel|Israelites]]**, **[[:en:key-terms:exile|Exile]]**, **[[:en:key-terms:babylon|Babylon]]**]
+[See also: **[[:en:key-terms:israel|Israelites]]**, **[[:en:key-terms:babylon|Babylon]]**, **[[:en:key-terms:jewish-leaders|Jewish leaders]]**]
+
 
 ===== Examples from the Bible stories: =====
 
@@ -26,4 +28,4 @@
   ***[[:en:obs-training:frames:46-06|[46-06]]]** Saul argued with the **Jews**, proving that Jesus was the Messiah.
 
 
-~~DISCUSSION~~
+~~DISCUSSION:closed~~
