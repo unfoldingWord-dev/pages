@@ -1,8 +1,7 @@
 ====== receive ======
 
 
-==== (term, other) ====
-
+==== (to receive, received) ====
 
 ===== Definition: =====
 
