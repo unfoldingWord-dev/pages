@@ -1,4 +1,4 @@
-====== Teacher ======
+====== teacher ======
 
 
 ==== (term, other) ====
