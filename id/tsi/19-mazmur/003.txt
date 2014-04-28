@@ -1,45 +1,61 @@
 <USFM>
 \c 3
 \p
-\v 1 Mazmur Daud ketika ia meluputkan diri dari anaknya, Absalom.
-Mengapakah musuhku begitu banyak, ya TUHAN! Banyak orang bangkit melawan aku!
-\v 2 Lebih banyak lagi mengatakan bahwa TUHAN-pun tidak akan menolong atau menyelamatkanku.
-Sela
+\v 1 Mazmur Daud ketika dia meluputkan diri dari anaknya, Absalom.
+\q1 (2) Aduh, Tuhan! {Sangat/Sungguh/Begitu} banyak {?orang} yang menentang dan memusuhi saya!
+\q1
+\v 2 (3) Mereka berpikir tentang saya begini, “Pasti TUHAN tidak akan menolong atau menyelamatkan dia!”
+
+\lit (instrumen musik mengulangi)
+\f + \fr 3:2 \fk instrument musik mengulangi \ft menerjemahkan kata “selah” dalam bahasa Ibrani. Tidak diketahui artinya yang persis untuk ‘selah’, tetapi kebanyakan penafsir berkata bahwa kemungkinan besar kata itu adalah tanda untuk pemain musik.\f*
+
 \p
-\v 3 Hanya Engkaulah perisaiku, yang melindungi aku, Engkaulah yang mengangkat kehormatanku.
-\v 4 Aku berseru kepada-Mu, ya TUHAN, dan Engkau menjawabku dari gunung-Mu yang maha kudus.
-\v 5 Aku membaringkan diri dan tertidur; Engkaulah yang menopang dan menyegarkanku ketika aku
-terjaga.
-\v 6 Aku tidak akan takut sekalipun puluhan ribu orang mengepungku dari semua arah.
-\v 7 Bangkitlah dan selamatkanlah aku, ya TUHAN! Engkaulah yang menampar musuh-musuhku dan
-mematahkan gigi orang jahat.
-\v 8 Hanya Engkaulah yang memenangkan dan menyelamatkan aku. Engkau melimpahkan berkat-
-Mu pada umat-Mu.
-Sela
+\b
+
+\q1
+\v 3 (4) Tetapi Engkau, ya Tuhan, {?sudah menjadi} seperti perisai
+\f + \fr 3:3 \fk perisai \ft Alat perang yang biasanya dipegang dalam tangan kiri untuk melindungi badan tentara dari anak panah atau pedang dari musuh. Daud menggunakan gambaran perisai untuk menunjukkan bahwa Tuhan adalah Pelindungnya.\f*
+ bagi saya!
+
+\q2 Hanya karena Engkau saya merasa berani dan {hanya karena Engkau saya bisa menang//Engkau membawa saya kepada kemenangan//Engkau memimpin saya ke dalam kemenangan//Engkau memberi kemenangan kepada saya}.
+
+\lit (instrumen musik mengulangi)
+
+\q1
+\v 4 (5) Dalam keadaan berbahaya saya pernah berseru kepada-Mu, ya TUHAN, 
+
+\q2 dan dari gunung-Mu yang kudus
+\f + \fr 3:4 \fk gunung-Mu yang kudus \ft menggambarkan Rumah Allah di bukit Sion. Tetapi itu juga menggambarkan surga.\f*
+ Engkau sudah mendengar{kan} dan menjawab saya.
+
+\p
+\b
+
+\q1
+\v 5 (6) Saya tidak perlu takut untuk tidur!
+
+\q2 Saya merasa {aman/nyaman/disegarkan}, karena Engkau selalu menjaga saya.
+
+\q1
+\v 6 (7) Aku {tidak usah//tidak akan} takut 
+
+\q2 sekalipun beribu-ribu orang {menyerang/mengepung} saya dari segala arah.
+
+\p
+\b
+
+\q1
+\v 7 (8) Bangkitlah dan selamatkanlah saya, ya TUHAN dan Allah saya!
+
+\q2 Pukullah rahang setiap musuh saya! Patahkanlah gigi-gigi mereka!
+
+\q1
+\v 8 (9) Hanya Engkaulah yang memberi kemenangan kepada umat-Mu. 
+
+\q2 Limpahkanlah berkat-Mu pada umat-Mu.
+
+\lit (instrumen musik mengulangi)
 
 </USFM>
-
-1Ya Tuhan, saya mempunyai banyak musuh yang melawanku. 
-
-
-2 Mereka katakan, “Allah tidak akan menyelamatkan dia.”
-
- 
-3 Tetapi Tuhan, Engkaulah yang melindungiku seperti perisai.*(alat perang untuk melindungi badang tentara) Engkau adalah kebangaanku dan yang membesarkan hatiku.
-
-  
-4Saya pernah berseru kepada Tuhan, dan Engkau menjawabku dari bukit-Mu* yang suci. (Sion)
-
-
-5Saya berbaring dan tidur, lalu bangun lagi karena Tuhan yang mempertahankan kehidupanku. 
-
-
-6Saya tidak takut akan ribuan orang yang menyerang saya dari segala arah. 
-
-
-7Mari Tuhan! Selamatkanlah saya! Pukul semua musuhku di mukanya, dan patahkanlah gigi orang-orang yang jahat itu.  
-
-
-8 Tuhan, Engkaulah yang menyelamatkan dan yang memberkati umat-Mu.   
 
 ~~DISCUSSIONS:on~~
