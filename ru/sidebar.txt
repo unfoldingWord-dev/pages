@@ -11,4 +11,4 @@
 
 **About Door43**
 
-  * [[ru:obs|Лицензия]]
+  * [[ru:license|Лицензия]]
