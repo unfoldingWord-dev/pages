@@ -3,12 +3,13 @@
 
 {{:en:obs:obs-20-10.jpg?nolink&640x360}}
 
-Even though **[[:en:key-terms:god|God]]** **[[:en:key-terms:punish|punished]]** his people for their **[[:en:key-terms:sin|sin]]** by taking them away into **[[:en:key-terms:exile|exile]]**, he **did not forget** them or his **[[:en:key-terms:promise|promises]]**. God continued to **watch over** his people and **speak to them through his [[:en:key-terms:prophet|prophets]]**. He promised that, after seventy years, they would return to the **[[:en:key-terms:promised-land|Promised Land]]** again.
+Even though **[[:en:key-terms:god|God]]** **[[:en:key-terms:punish|punished]]** his people for their **[[:en:key-terms:sin|sin]]** by taking them away into **exile**, he **did not forget** them or his **[[:en:key-terms:promise|promises]]**. God continued to **watch over** his people and **speak to them through his [[:en:key-terms:prophet|prophets]]**. He promised that, after seventy years, they would return to the **[[:en:key-terms:promised-land|Promised Land]]** again.
 
 
 ===== Translation Notes: =====
 
 
+  * **exile** - See how you translated this term in **[[:en:obs-training:frames:20-09|[20-09]]]**.
   * **did not forget** - This could be translated as, “did not ignore” or, “did not neglect.” Or the whole phrase could be translated as, “continued to honor his commitment to his people and his promises.” 
   * **watch over** - That is, “take care of.” 
   * **speak to them through his prophets** - This could be translated as, “tell his prophets messages that he wanted them to tell his people.” 
