@@ -56,8 +56,10 @@
 \b
 \q1
 \v 10 Oleh karena itu, hai semua raja dan penguasa dunia, 
-sadarilah akan hal ini dan bertindaklah dengan bijaksana! 
+sadarilah akan hal ini
+\q2 dan bertindaklah dengan bijaksana! 
 
+\q1
 \v 11 Bertobatlah dan melayanilah ALLAH dengan hormat dan takut
 \f + \fr 2:11 \fk takut \ft Kata yang sama dalam bahasa Ibrani lebih sering diterjemahkan ‘bersukacita’.\f*
 
@@ -68,11 +70,11 @@ v 12 Jatuhkan dirimu di hadapan kaki Anak-Nya.
 
 \q2 Dan tunduklah sepenuhnya kepada-Nya 
 
-\q1 supaya Dia tidak menjadi marah dan membinasakanmu, 
+\q2 supaya Dia tidak menjadi marah dan membinasakanmu, 
 
-\q2 karena kemarahanNya seperti amukan api.
+\q3 karena kemarahanNya seperti amukan api.
 
-\q1 Tetapi sangat diberkati setiap orang yang {berlindung pada-Nya!}.
+\q1 Tetapi sangat diberkati setiap orang yang berlindung pada-Nya!
 
 </USFM>
 
