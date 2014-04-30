@@ -2,17 +2,18 @@
 
 {{:en:obs:obs-38-14.jpg?nolink&640x360}}
 
-**[[:en:key-terms:judas|Judas]]** came with the **[[:en:key-terms:jewish-leaders|Jewish leaders]]**, soldiers, and a large crowd carrying swords and clubs. He **came to** **[[:en:key-terms:jesus|Jesus]]** and said, “Greetings, **[[:en:key-terms:teacher|Teacher]]**,” and kissed him. This was **the sign** for the Jewish leaders to know whom to arrest. Then Jesus said, “Judas, do you **[[:en:key-terms:betray|betray]] me with a kiss**?”
+**[[:en:key-terms:judas|Judas]]** came with the **[[:en:key-terms:jewish-leaders|Jewish leaders]]**, soldiers, and a large crowd. They were carrying swords and clubs. Judas **came to** **[[:en:key-terms:jesus|Jesus]]** and said, “**Greetings**, **[[:en:key-terms:teacher|Teacher]]**,” and kissed him. This was **the sign** for the Jewish leaders to know whom to arrest. Then Jesus said, “**Judas, do you [[:en:key-terms:betray|betray]] me with a kiss**?”
 
 
 ===== Translation Notes: =====
 
-  * **came to** - Some languages may need to say, "went to."
+  * **came to** - Some languages may prefer to say, "went to."
+  * **Greetings** - This can also be translated as, "Hello" or, "Peace" or, "Good evening." 
   * **the sign** - That is, "the signal."
-  * **betray me with a kiss** - This could also be translated as, "use a kiss as a way to betray me."
+  * **Judas, do you betray me with a kiss?** - Jesus is not looking for an answer to this question, so some languages would translate it as a statement, such as, “Judas, you are betraying me by kissing me!” 
   
 
 **[[:en:obs-training:frames:38-13|<<]] | [[:en:obs-training:38-jesus-is-betrayed|Up]] | [[:en:obs-training:frames:38-15|>>]]**
 
 
-~~DISCUSSION~~
+~~DISCUSSION:closed~~
