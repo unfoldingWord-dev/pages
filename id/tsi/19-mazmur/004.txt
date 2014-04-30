@@ -1,25 +1,67 @@
-Mazmur 4 – Judi's draft
-Mazmur Daud - kepada pemimpin kor, diiringi dengan alat-alat musik yang bersenar. 
+<USFM>
+\c 4
 
-1 O Tuhan, jawablahku ketika saya berseru, karena Engkaulah yang membuat yang [baik/benar] bagiku, Engkaulah yang menolongku dalam kesusahan, Kasihanilahku! Dengarkan doaku!
+\d For the choir director: A psalm of David, to be accompanied by stringed instruments.
 
+\p
+\b
+\q1
+\v 1 Answer me when I call to you,
 
-2Hai manusia! Sampai kapan kalian memalukan kebangaanku? Sampai kapan kalian mencintai yang [hina/sia-sia/tak berguna] dan mencari [tipuan/penipuan]?
+\q2 O God who declares me innocent.
 
+\q1 Free me from my troubles.
 
-3Bersadarlah bahwa Tuhan sudah pisahkan orang benar sebagai milik-Nya, dan mendengar kalau saya berseru pada-Nya.
+\q2 Have mercy on me and hear my prayer.
 
+\p
+\b
+\q1
+\v 2 How long will you people ruin my reputation?
 
-4Ketika kamu menjadi marah, jangan sampai berdosa. Diamlah! Lalu pikirkanlah hal-ha ini waktu berbaring di tempat tidurmu.
+\q2 How long will you make groundless accusations?
 
+\q2 How long will you continue your lies?
 
-5Berikanlah persembahan yang pantas kepada Tuhan dan percayalah pada-Nya!
+\qs Interlude\qs*
 
+\q1
+\v 3 You can be sure of this:
 
-6Ada banyak orang yang bertanya, “Siapakah akan baik hati kepada kita?” Hendaklah Tuhan yang berkenan pada kita!
+\q2 The LORD set apart the godly for himself.
 
+\q2 The LORD will answer when I call to him.
 
-7Engkaulah yang membuat saya lebih gembira daripada orang yang mempunyai makanan dan minimuman yang {terlebih/kelebihan}.
+\p
+\b
+\q1
+\v 4 Don't sin by letting anger control you.
 
+\q2 Think about it overnight and remain silent.
 
-8Jadi saya bisa berbaring dan tidur nyenyak, karena Engkaulah yang menjagaku.
+\qs Interlude\qs*
+
+\q1
+\v 5 Offer sacrifices in the right spirit,
+
+\q2 and trust the LORD.
+
+\p
+\b
+\q1
+\v 6 Many people say, “Who will show us better times?”
+
+\q2 Let your face smile on us, LORD.
+
+\q1
+\v 7 You have given me greater joy
+
+\q2 than those who have abundant harvests of grain and new wine.
+
+\q1
+\v 8 In peace I will lie down and sleep,
+
+\q2 for you alone, O LORD, will keep me safe.
+
+</USFM>
+~~DISCUSSIONS:on~~
