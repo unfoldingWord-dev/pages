@@ -1,19 +1,18 @@
 <USFM>
 \c 4
 
-\d For the choir director: A psalm of David, to be accompanied by stringed instruments.
+\d (1) {Atas perhatian//Teruntuk//Untuk//Kepada} pemimpin {pujian/tim pujian//kor}, dari Daud: Mazmur ini untuk diiringi dengan {berbagai alat musik yang bersinar//kecapi//gitar}.
 
 \p
 \b
 \q1
-\v 1 Answer me when I call to you,
+\v 1 (2) Jawablah saya, ya Allah, ketika saya berseru kepada-Mu!
 
-\q2 O God who declares me innocent.
+\q2 Hanyalah Engkau yang bisa membenarkan saya.
 
-\q1 Free me from my troubles.
+\q1 Engkaulah yang pernah menolong saya ketika saya dalam kesusahan.
 
-\q2 Have mercy on me and hear my prayer.
-
+\q2 Sekarang juga kasihanilah saya dan dengarkanlah doa saya!
 \p
 \b
 \q1

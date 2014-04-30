@@ -2,15 +2,15 @@
 
 {{:en:obs:obs-38-10.jpg?nolink&640x360}}
 
-**[[:en:key-terms:peter|Peter]]** then said to **[[:en:key-terms:jesus|Jesus]]**, “Even if I must **[[:en:key-terms:death|die]]**, **I will never deny you!**” All the other **[[:en:key-terms:disciple|disciples]]** said the same thing.
+**[[:en:key-terms:peter|Peter]]** then said to **[[:en:key-terms:jesus|Jesus]]**, “Even if I must **[[:en:key-terms:death|die]]**, I will never **deny you!**” All the other **[[:en:key-terms:disciple|disciples]]** said the same thing.
 
 
 ===== Translation Notes: =====
 
-  * **I will never disown you!** -  That is, “I would never deny that I know you!” or, “I would never deny that I am your disciple.” 
+  * **deny you!** -  That is, “deny that I know you!” or, “deny that I am your disciple.” 
   
 
 **[[:en:obs-training:frames:38-09|<<]] | [[:en:obs-training:38-jesus-is-betrayed|Up]] | [[:en:obs-training:frames:38-11|>>]]**
 
 
-~~DISCUSSION~~
+~~DISCUSSION:closed~~
