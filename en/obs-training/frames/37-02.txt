@@ -2,7 +2,7 @@
 
 {{:en:obs:obs-37-02.jpg?nolink&640x360}}
 
-Then **[[:en:key-terms:jesus|Jesus]]** said to his **[[:en:key-terms:disciple|disciples]]**, “Let’s go back to **Judea**.” “But **[[:en:key-terms:teacher|Teacher]]**,” the disciples answered, “Just a short time ago the people there wanted to kill you!” Jesus said, “Our friend **[[:en:key-terms:lazarus|Lazarus]] has fallen asleep, and I must wake him**.”
+After the two days had passed, **[[:en:key-terms:jesus|Jesus]]** said to his **[[:en:key-terms:disciple|disciples]]**, “Let’s go back to **Judea**.” “But **[[:en:key-terms:teacher|Teacher]]**,” the disciples answered, “Just a short time ago the people there wanted to kill you!” Jesus said, “Our friend **[[:en:key-terms:lazarus|Lazarus]] has fallen asleep, and I must wake him**.”
 
 
 ===== Translation Notes: =====
@@ -14,4 +14,4 @@ Then **[[:en:key-terms:jesus|Jesus]]** said to his **[[:en:key-terms:disciple|di
 **[[:en:obs-training:frames:37-01|<<]] | [[:en:obs-training:37-jesus-raises-lazarus-from-the-dead|Up]] | [[:en:obs-training:frames:37-03|>>]]**
 
 
-~~DISCUSSION~~
+~~DISCUSSION:closed~~
