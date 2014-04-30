@@ -2,13 +2,15 @@
 
 {{:en:obs:obs-37-07.jpg?nolink&640x360}}
 
-The **[[:en:key-terms:tomb|tomb]]** was a cave with a stone rolled across its entrance. When **[[:en:key-terms:jesus|Jesus]]** arrived at the tomb, he told them, “Roll the stone away.” But **[[:en:key-terms:martha-sister|Martha]]** said, “He has been **[[:en:key-terms:death|dead]]** for four days. There will be a bad smell.”
+The **[[:en:key-terms:tomb|tomb]]** was a cave with a stone rolled **across its entrance**. When **[[:en:key-terms:jesus|Jesus]]** arrived at the tomb, **he told them**, “**Roll the stone away**.” But **[[:en:key-terms:martha-sister|Martha]]** said, “**He has been [[:en:key-terms:death|dead]] for four days**. There will be a bad smell.”
 
 
 ===== Translation Notes: =====
 
-  * **issue** - explanation
-  * **issue** - explanation
+  * **across its entrance** - That is, “in front of its opening.” 
+  * **he told them** - That is, “he told the men there.” He was probably not telling Mary and Martha to roll the stone away.
+  * **Roll the stone away** - Some languages may prefer to say, “Roll the stone away from the opening of the tomb.”
+  * **He has been dead for four days** - This could also be translated as, “He died four days ago and his body is lying there.” 
   
 
 **[[:en:obs-training:frames:37-06|<<]] | [[:en:obs-training:37-jesus-raises-lazarus-from-the-dead|Up]] | [[:en:obs-training:frames:37-08|>>]]**
