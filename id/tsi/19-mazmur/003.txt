@@ -4,7 +4,7 @@
 \v 1 Mazmur Daud ketika dia meluputkan diri dari anaknya, Absalom.
 \q1 (2) Ya, Tuhan! Begitu banyak orang yang menentang dan memusuhi saya!
 \q1
-\v 2 (3) {Merekapun berpikir bahwa TUHAN tidak akan menolong atau menyelamatkan saya!//Mereka berpikir tentang saya begini, “TUHAN pun tidak akan menolong atau menyelamatkan dia!”}
+\v 2 (3) Tentang saya mereka menganggap seperti ini, “TUHAN pun tidak akan menolong atau menyelamatkan dia!”
 
 \lit (diselingi musik instrumental)
 \f + \fr 3:2 \fk diselingi musik instrumental \ft menerjemahkan kata “selah” dalam bahasa Ibrani. Tidak diketahui artinya yang persis untuk ‘selah’, tetapi kebanyakan penafsir berkata bahwa kemungkinan besar kata itu adalah tanda untuk pemain musik.\f*
@@ -13,13 +13,13 @@
 \b
 
 \q1
-\v 3 (4) Tetapi Engkau, ya Tuhan, {bagaikan//?sudah menjadi seperti} perisai
+\v 3 (4) Tetapi Engkau, ya Tuhan, bagaikan perisai
 \f + \fr 3:3 \fk perisai \ft Alat perang yang biasanya dipegang dalam tangan kiri untuk melindungi badan tentara dari anak panah atau pedang dari musuh. Daud menggunakan gambaran perisai untuk menunjukkan bahwa Tuhan adalah Pelindungnya.\f*
  bagi saya!
 
-\q2 Hanya {Engkaulah yang memberikan keberanian dan kemenangan kepada saya// karena Engkau saya merasa berani dan Engkau memberi kemenangan kepada saya}.
+\q2 Hanya Engkaulah yang memberikan keberanian dan kemenangan kepada saya.
 
-\lit ({diselingi musik instrumental//instrumen musik mengulangi})
+\lit (diselingi musik instrumental)
 
 \q1
 \v 4 (5) Dalam keadaan berbahaya saya pernah berseru kepada-Mu, ya TUHAN, 
@@ -54,7 +54,7 @@
 
 \q2 Limpahkanlah berkat-Mu pada umat-Mu.
 
-\lit ({diselingi musik instrumental//instrumen musik mengulangi})
+\lit (diselingi musik instrumental)
 
 </USFM>
 
