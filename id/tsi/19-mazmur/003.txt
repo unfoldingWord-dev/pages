@@ -2,7 +2,7 @@
 \c 3
 \p
 \v 1 Mazmur Daud ketika dia meluputkan diri dari anaknya, Absalom.
-\q1 (2) Ya, Tuhan! Begitu banyak orang yang menentang dan memusuhi saya!
+\q1 (2) Ya, TUHAN! Begitu banyak orang yang menentang dan memusuhi saya!
 \q1
 \v 2 (3) Tentang saya mereka menganggap seperti ini, “TUHAN pun tidak akan menolong atau menyelamatkan dia!”
 
@@ -13,7 +13,7 @@
 \b
 
 \q1
-\v 3 (4) Tetapi Engkau, ya Tuhan, bagaikan perisai
+\v 3 (4) Tetapi Engkau, ya TUHAN, bagaikan perisai
 \f + \fr 3:3 \fk perisai \ft Alat perang yang biasanya dipegang dalam tangan kiri untuk melindungi badan tentara dari anak panah atau pedang dari musuh. Daud menggunakan gambaran perisai untuk menunjukkan bahwa Tuhan adalah Pelindungnya.\f*
  bagi saya!
 
