@@ -1,7 +1,7 @@
 <USFM>
 \c 4
 
-\d (1) {Atas perhatian//Teruntuk//Untuk//Kepada} pemimpin {pujian/tim pujian//kor}, dari Daud: Mazmur ini untuk diiringi dengan {berbagai alat musik yang bersinar//kecapi//gitar}.
+\s2 (1) {Atas perhatian//Teruntuk//Untuk//Kepada} pemimpin {pujian/tim pujian//kor}, dari Daud: Mazmur ini untuk diiringi dengan {berbagai alat musik yang bersinar//kecapi//gitar}.
 
 \p
 \b
