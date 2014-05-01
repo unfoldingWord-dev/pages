@@ -1,0 +1,1 @@
+All the pages under the "workbench" namespace are inputs for translation training resources.
