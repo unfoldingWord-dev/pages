@@ -1,7 +1,7 @@
 <USFM>
 \c 4
 
-\s2 (1) {Atas perhatian//Teruntuk//Untuk//Kepada} pemimpin {pujian/tim pujian//kor}, dari Daud: Mazmur ini untuk diiringi dengan {berbagai alat musik yang bersinar//kecapi//gitar}.
+\s3 (1) Untuk pemimpin pujian, dari Daud: Mazmur ini untuk diiringi dengan berbagai alat musik petik.
 
 \p
 \b
@@ -10,9 +10,9 @@
 
 \q2 Hanyalah Engkau yang membenarkan saya.
 
-\q1 Engkaulah yang menolong saya ketika saya dalam kesusahan.
+\q1 Sebelum ini ketika saya dalam kesusahan Engkau pernah menolong saya.
 
-\q2 Kasihanilah saya dan dengarkanlah doa saya!
+\q2 Karena itu saya memohon: Sekarang kasihanilah saya dan dengarkanlah doa saya!
 \p
 \b
 \q1
@@ -20,15 +20,13 @@
 
 \q2 Sampai kapankah kalian akan tertarik dengan omongan kosong
 
-\q2 dan mencela saya tanpa alasan?
+\q2  dan mencela saya tanpa alasan?
 
 \lit (diselingi musik instrumental)
-\f + \fr 3:2 \fk diselingi musik instrumental \ft menerjemahkan kata “selah” dalam bahasa Ibrani. Tidak diketahui artinya yang persi s untuk ‘selah’, tetapi kebanyakan penafsir berkata bahwa kemungkinan besar kata itu adalah tanda untuk pemain musik.\f*
+\f + \fr 3:2 \fk diselingi musik instrumental \ft menerjemahkan kata “selah” dalam bahasa Ibrani. Tidak diketahui artinya yang persis untuk ‘selah’, tetapi kebanyakan penafsir berkata bahwa kemungkinan besar kata itu adalah tanda untuk pemain musik.\f*
 
 \q1
-\v 3 (4) {Perhatikanlah/Perhatikanlah dengan baik}!
-
-\q2 ALLAH sudah memilih dan mengkhususkan orang-orang yang menjadi umat-NYA.
+\v 3 (4) Perhatikanlah! ALLAH sudah memilih dan mengkhususkan orang-orang yang menjadi umat-NYA.
 
 \q2 dan TUHAN akan mendengarkan saya ketika saya berseru kepada-NYA!
 

@@ -1,20 +1,16 @@
 ====== Mary ======
 
 
-==== (term, other) ====
-
-
 ===== Facts: =====
 
-  * Mary was the mother of Jesus and the wife of Joseph.
-  * While Mary was a virgin, the Holy Spirit miraculously caused her to become pregnant. The baby in her was the Son of God. 
+Mary was the mother of Jesus and the wife of Joseph.
+
+  * The Holy Spirit miraculously caused Mary to become pregnant while she was a virgin. The baby in her was the Son of God. 
   * Joseph took Mary has his wife, but Mary remained a virgin until after the baby was born.
   * When the baby was born, Mary and Joseph named him Jesus.
-  * Mary's husband Joseph died, so Mary was a widow when Jesus was an adult.
 
 
-
-[See also: **[[:en:key-terms:virgin|virgin]]**]
+[See also: **[[:en:key-terms:jesus|Jesus]]**, **[[:en:key-terms:joseph|Joseph]]**, **[[:en:key-terms:god-son|Son of God]]**, **[[:en:key-terms:virgin|virgin]]**]
 
 
 ===== Examples from the Bible stories: =====
@@ -28,4 +24,4 @@
   ***[[:en:obs-training:frames:49-01|[49-01]]]** Jesus’ mother, **Mary**, was a virgin when he was born, because Jesus is God’s Son. Jesus is both God and man at the same time.
 
 
-~~DISCUSSION~~
+~~DISCUSSION:closed~~

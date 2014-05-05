@@ -1,6 +1,8 @@
 ===== Door43 (English) =====
-~~NOTOC~~
+
+
 Welcome to Door43, an openly-collaborative platform for creating, translating, and distributing open-licensed discipleship resources in any language.
+
 
 ==== Resources ====
 
@@ -8,13 +10,12 @@ Welcome to Door43, an openly-collaborative platform for creating, translating, a
 These are the resources currently available for translation and use:
 
 
-    * **[[:en:obs|Open Bible Stories]]** – A visual mini-Bible in any language, in text, audio, and video formats.
-* [[:en:obs:notes|Translation Notes]] - Translation and exegetical notes for Open Bible Stories.
+    * **[[:en:obs|Open Bible Stories]]** – A visual mini-Bible in any language, in text, audio, and video formats.​
+    * [[:en:obs:notes|Translation Notes]] - Translation and exegetical notes for Open Bible Stories.
+    * [[:en:lexicon|Open Bible Lexicon]]- A Biblical lexicon, intended for integration with Open Bible Stories and Bible translations.
+    * [[:en:library|Open Christian Library]]- A growing catalog of open-licensed Biblical resources.
+    * [[:en:ta|Translation Academy]]- A modular, media-based, self-paced training course for translators and translation facilitators.
 
-
-    * [[:en:lexicon|Open Bible Lexicon]]
-    * [[:en:library|Open Christian Library]]
-    * [[:en:ta|Translation Academy]]
 
 ==== About Door43 ====
 
@@ -23,13 +24,15 @@ These are the resources currently available for translation and use:
     * **[[:en:statement-of-faith|Statement of Faith]]** – The Statement of Faith, with which all Door43 contributors agree.
     * **[[:en:legal:license|Copyrights & Licensing]]** – All content on this website is made available under the terms of a [[http://creativecommons.org/licenses/by-sa/3.0|Creative Commons Attribution-ShareAlike 3.0 Unported License]].
     * **[[:en:syntax|Formatting Content]]** – How to make content look the way it should.
-    * **[[:en:tips-tricks|Tips & Tricks]]** – Shortcuts & ways to improve efficiency. 
+    * **[[:en:tips-tricks|Tips & Tricks]]** – Shortcuts & ways to improve efficiency.
     * **[[:en:technical|Technical Details]]** – The technology behind Door43.
-
 ==== Extending Door43 ====
 
-Door43 is in active development, as we expand the usefulness of the content by developing ways of making it available in more formats and on more mobile devices. Find out how you can help with **[[en:dev|Door43 Development]]**.
+
+Door43 is in active development, as we expand the usefulness of the content by developing ways of making it available in more formats and on more mobile devices. Find out how you can help with **[[:en:dev|Door43 Development]]**.
+
 
 ----
 
-//"Pray… that God may open to us a **door**  for the Word." —Colossians **4**:**3** //
+
+//"Pray… that God may open to us a **door**  for the Word." —Colossians **4**:**3**  //

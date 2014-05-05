@@ -6,13 +6,15 @@
 
 ===== Definition: =====
 
+Baptism is a ritual washing with water.
 
-    * To be baptized means to ceremonially be purified by administering water.
-    * Baptism is a means of symbolically identifying with Jesus' death and resurrection.
-    * Christians do not all agree about how baptism should be done, whether pouring the water on the person or putting the person completely under the water.
+    * John (the Baptist) baptized people as a sign of repentance. 
+    * Christian baptism is a means to symbolically mark our faith in Christ and entrance into the church.
+    * Christians vary in the way they do baptism. Some pour the water on the person, and others put the person completely under the water.
 
 
-[See also: **[[:en:key-terms:term|term]]**]
+[See also: **[[:en:key-terms:john-baptist|John (the Baptist)]]**, **[[:en:key-terms:repent|repentance]]**]
+
 
 ===== Examples from the Bible stories: =====
 
@@ -27,4 +29,4 @@
   ***[[:en:obs-training:frames:49-14|[49-14]]]** Jesus invites you to come to him, believe in him, and be **baptized**.
 
 
-~~DISCUSSION~~
+~~DISCUSSION:closed~~

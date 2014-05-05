@@ -3,10 +3,16 @@
 
 ===== Definition: =====
 
-  * To crucify someone is to tie him or hang him to a cross and leave him there, suffering great pain, until he dies.
+To crucify someone is to tie him or hang him to a cross and leave him there to suffer and die in great pain.
+ 
+  * People who were crucified died from either blood loss or suffocation. 
+  * Crucifixion was a common method that the Roman Empire used to execute the worst criminals or people who had rebelled against the authority of Rome.
+  * The Roman Empire used professional executioners to crucify people. These executioners made crucifixions as long and as painful as possible.
+  * During the time of Jesus, Rome ruled the Jews and did not allow them to execute a criminal. When the Jewish religious leaders wanted to kill Jesus, they had to ask the Roman governor to order his soldiers to crucify Jesus.
+  * The Romans crucified Jesus by nailing him to a cross. He suffered for six hours, and then died.
 
 
-[See also: **[[:en:key-terms:cross|cross]]**]
+[See also: **[[:en:key-terms:cross|cross]]**, **[[:en:key-terms:rome|Roman Empire]]**]
 
 
 ===== Examples from the Bible stories: =====
@@ -21,4 +27,4 @@
   ***[[:en:obs-training:frames:44-08|[44-08]]]** You **crucified** him (Jesus), but God raised him to life again!
 
 
-~~DISCUSSION~~
+~~DISCUSSION:closed~~

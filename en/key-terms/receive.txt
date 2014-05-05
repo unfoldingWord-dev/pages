@@ -1,17 +1,19 @@
 ====== receive ======
 
 
-==== (to receive, received) ====
-
 ===== Definition: =====
 
 
-    * To be given or presented with something, as in "you will receive the gift of the Holy Spirit."
-    * To suffer or experience something, as in "he received your punishment."
-    * To welcome or accept something or someone, as in "Jesus, receive my spirit."
+To receive something normally means to accept something that is given, offered, or presented. 
+
+  * To "receive" can also mean to suffer or experience something, as in "he received your punishment."
+  * There is also a special sense in which we can "receive" a person. For example, to "receive" guests or visitors means to welcome them and to treat them with honor in order to build a relationship with them.
+  * To "receive the gift of the Holy Spirit" means we welcome the Holy Spirit into our lives, and allow him to work in and through us.
+  * To "receive Jesus" means we welcome him into our lives, honor him by acknowledging that he is our Lord and the One who saves us, and enter into a close, personal relationship with him.
 
 
-[See also: **[[:en:key-terms:term|term]]**]
+[See also: **[[:en:key-terms:holy-spirit|Holy Spirit]]**, **[[:en:key-terms:lord|Lord]]**, **[[:en:key-terms:jesus|Jesus]]**, **[[:en:key-terms:save|save]]**]
+
 
 ===== Examples from the Bible stories: =====
 
@@ -24,4 +26,4 @@
   ***[[:en:obs-training:frames:49-13|[49-13]]]** Anyone who believes in Jesus and **receives** him as their Master will be saved, but whoever does not believe will be rejected.
 
 
-~~DISCUSSION~~
+~~DISCUSSION:closed~~

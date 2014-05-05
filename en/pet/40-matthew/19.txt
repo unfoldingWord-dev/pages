@@ -1,0 +1,63 @@
+<USFM>
+
+\c 19
+\s Jesus teaches about husbands and wives
+\r (Mark 10:1-12)
+\p
+\v 1 After Jesus taught all that, He left the province of Galilee with us disciples of His, and went to the region of the region of the Judean province, across the Jordan River.
+\v 2 Many people followed Him there, and He healed those of them who were sick.
+\v 3 But some of the Pharisees came to find a reason to accuse Him, so they asked, “Can a man divorce his wife for any reason at all?”
+\p
+\v 4 Jesus answered them, “You've read what's written in the Holy Bible, for sure, that from the beginning, God created mankind as ‘one man and one woman.’\x + Gen. 1:27; 5:2\x*
+\v 5 And God also said,
+\q1 ‘For that reason, in marriage, a man always leaves his father and mother and is united with a woman— so that the two of them become one.’\x + Gen. 2:24\x*
+\m
+\v 6 In that way, in God's eyes, husband and wife are no longer two, but one. Because of that, a husband and his wife who're united by God in marriage can't be separated by man.”
+\p
+\v 7 Then the Pharisees asked Him, “If that's so, why did Moses permit a husband to divorce his wife by giving her a letter explaining the divorce?”\x + Deut. 24:1\x*
+\p
+\v 8 Jesus answered, “Moses allowed you to divorce your wives because you've hardened your hearts to God's command, but from the beginning of creation it wasn't like that.
+\v 9 But I'm telling you that every husband who divorces his wife so that he can have sex with another woman, commits adultery in God's eyes. The only reason a husband may divorce his wife is if his wife has committed adultery.”\f + \fr 19:9 \fk Verse 9 \ft The reverse is true for the wife, too. See Mark 10:12.\f*
+\p
+\v 10 So we disciples said to Jesus, “If the husband-wife marriage relationship can't be separated like that, it would be better not to seek a life partner, and just live as a bachelor!”
+\p
+\v 11 Jesus answered, “Not everyone is able to live like you said.\f + \fr 19:11 \fk Verse 11a \ft Jesus' answer can also be translated, “Not everyone can accept that teaching of mine.” But because of verse 12, it's more likely that Jesus point was like the translation of this text.\f* Only certain people who've been prepared by God can live like that.
+\v 12 For there are people who're born that can't have sex, of course. But there are also those who've been made like that by another person. And there are also people who choose not to find a partner so that they can serve better in God's kingdom. People who're able to live according to this teaching should live like that.”
+\s Jesus blesses the children
+\r (Mark 10:13-16; Luke 18:15-17)
+\p
+\v 13 Then there were some people who brought their children to Jesus so that He would lay His hands on them, while praying that God would bless them. So we disciples of His sternly forbid those people to do that.
+\v 14 But Jesus said, “Let the children come to Me and don't forbid them. For people like these are the ones who become citizens of God's kingdom.”
+\v 15 After He laid His hands on each of them and prayed for them, He left with us to go to another place.
+\s It's very hard for rich people to enter heaven
+\r (Mark 10:17-31; Luke 18:18-30)
+\p
+\v 16 There was a young man who came to Jesus and asked, “Teacher, what good things do I need to do so that I can have eternal life?”
+\p
+\v 17 He answered, “Why're you asking Me about what's good? God alone is the only one who's good. If you want to have eternal life, obey the commandments in the Law.”
+\p
+\v 18 The person asked again, “Which commandments do I have to obey?”
+\p Jesus answered, “Don't murder, don't commit adultery, don't steal, don't give a false testimony,
+\v 19 honor your parents, and love your fellowman as you love yourself.”\x + Ex. 20:12-16, Deut. 5:16-20; Lev. 19:18\x*
+\p
+\v 20 The young man said, “I've obeyed all those, so what else do I need to do?”
+\p
+\v 21 Jesus said to that man again, “If you want God's perfect will for yourself, go and sell all your possessions. Then distribute that money to people who're poor. In that way, you'll have treasure in heaven, and then come and follow Me.”
+\p
+\v 22 When the young man heard what Jesus said, he left with a sad heart, because he was very rich and didn't want to sell his possessions.
+\p
+\v 23 Then Jesus said to us disciples of His, “I'm telling you the truth: It's very difficult for a rich person to become a citizen of God's kingdom!
+\v 24 I'm telling you the truth again: It's easier for a camel to go through the eye of a needle\f + \fr 19:24 \fk eye of a needle \ft There's a false teaching that has been taught everywhere, that at the time of Jesus there was a normal-sized door next to the big gates of Jerusalem. It has been taught that the smaller door was named Eye of the Needle, and that a camel could enter there— but only if all the burdens were taken off. But doors next to gateways like that were only found in European countries, and were only built several centuries after Jesus' time. Jesus teaching here is that it's completely impossible for a rich person to become a citizen of God's kingdom! But according to verse 26, what is impossible for humans to do can still happen with God's help.\f* than for a rich person to enter God's kingdom.”
+\p
+\v 25 When we heard that, we were really amazed and asked, “If that's so, who can be saved and go to heaven?”
+\p
+\v 26 But Jesus looked at us and said, “It isn't possible for man, but God is able to do everything.”
+\p
+\v 27 Then Peter said to Him, “How about us? We've left everything we own and followed You. So what'll we get?”
+\p
+\v 28 Jesus answered us, “I'm telling you the truth: When God makes everything new, I, as the Son of Man, will sit on a throne displaying My glory. At that time, all of you who became My apostles will also sit on twelve thrones to rule and judge the twelve tribes of Israel.
+\v 29 And every one who has left his house, his brothers and sisters, his parents, his children, or his fields in order to follow Me, will receive one hundred times of the same kind, and he'll also receive eternal life.
+\v 30 But many people who have a low status now, will have a high status in days to come. And many people who have a high status now, will have a low status in days to come.”
+
+</USFM>
+~~DISCUSSIONS:on~~

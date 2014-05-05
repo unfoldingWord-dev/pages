@@ -1,0 +1,85 @@
+<USFM>
+
+\c 22
+\s The parable about the kinds of people invited to the king's son's wedding feast
+\r (Luke 14:15-24)
+\p
+\v 1 While the Jewish leaders were still present, Jesus taught using several more parables. He said,
+\v 2 “Regarding those who're chosen to be citizens of God's kingdom, that can be illustrated by a king who held a wedding feast for his son.
+\v 3 When the feast was ready to begin, the king ordered his servants to call the people who had been invited to the feast. But the invited guests didn't want to come.
+\p
+\v 4 “Once again the king ordered other servants saying, ‘Tell the invited guests that all the food for the feast is ready. Many fattened bulls and calves have been butchered, and everything has been prepared. Come to the wedding feast!’
+\p
+\v 5 “Yet the invited guests didn't care about the invitation and each of them went out and did his own work. There were those who went to work in the field, or to sell merchandise, and to do other work.
+\v 6 There were even some who captured the king's servants, tortured them, and finally killed them.
+\v 7 So the king became very angry, and then ordered his soldiers to kill the people who had killed his servants and burn their city.
+\p
+\v 8 “Then the king said to his servants again, ‘The wedding feast is ready, but the people whom I invited weren't worthy to be invited, for sure.
+\v 9 So go to the main roads and invite everyone you meet there to come to this wedding feast.’
+\v 10 Then the servants went to the main roads, and they invited everyone they met— both those who were considered sinners as well as those who were good, until the party room was filled with guests.
+\p
+\v 11 “But when the king went in and saw the guests who were sitting there, he saw one guest who wasn't wearing the special clothing which had been prepared by the king for the guests of the wedding feast.\f + \fr 22:11 \fk special clothing … prepared \ft Literally, “wedding feast clothes.” According to many commentators, the implicit information in this story is that kings often prepared special clothing for the people who attended large feasts.\f*
+\v 12 Then the king said to the man, ‘Friend, how did you get in here without wearing the special clothing?’ But the man had no answer for him.
+\v 13 Then the king said to his servants, ‘Bind that man's hands and feet and throw him out into the darkest place. The people who're there will always cry and suffer severely.’”
+\p
+\v 14 Then Jesus ended the parable by saying, “God invites many people to be citizens of His kingdom, but only a few are actually chosen to be citizens of that kingdom.”
+\s The Pharisees make a pact to incite Jesus to oppose the Roman government
+\r (Mark 12:13-17; Luke 20:20-26)
+\p
+\v 15 Then some members of the Pharisee group left Jesus, and planned how they could trap Him. They wanted to persuade Jesus to say something opposing the aspirations of Jews in general, or say something to oppose the government. At that time, some friends of King Herod were also present.
+\v 16 According to plan, they sent some of their members and some friends of Herod to say to Him, “Teacher, we know that you're an honest person, and you also teach honestly about what God wants us to do. You aren't afraid of anyone's opinion, because you don't regard a person's status.
+\v 17 So we want to ask your opinion: According to the Law, are we allowed to pay taxes to the government of Rome, or not?”
+\p
+\v 18 But Jesus already knew their evil plan. Because of that He said, “You're people who only pretend to be good! You think you can trap Me with a question like that— huh?!
+\v 19 Show Me a silver coin that's usually used to pay taxes.” Then they showed Him the coin.
+\v 20 And He asked, “Whose face is engraved here, and whose name is written here?”
+\p
+\v 21 They answered: “The king of Rome.”
+\p Then He said to them, “If that's so, give back to the king what the king owns. And give back to God what God owns.”
+\p
+\v 22 They were utterly amazed when they heard that answer! Then they left Him, and went away.
+\s The Sadducees ask about living again after death
+\r (Mark 12:18-27; Luke 20:27-40)
+\p
+\v 23 That same day, several members of the Sadducee group\f + \fr 22:23 \fk Sadducee group \ft Most of the members of the Sadducee group were leaders of the Jewish religion, and most of them were priests. They only believed in the first five books of the Old Testament written by Moses: Genesis, Exodus, Leviticus, Numbers, and Deuteronomy. See Acts 23:8.\f* came to Jesus. (The Sadducee group believed that no one who died would live again.) Then they asked Him,
+\v 24 “Teacher, Moses taught that if a man who has a wife dies and doesn't have children yet, then his brother should marry the widow in order to continue the family line for the older brother who died.\x + Deut. 25:5\x*
+\v 25 There were seven brothers among us. The first man married a woman, and then he died. Because he didn't have children, the second man married his older brother's widow.
+\v 26 Then the second brother also died without having a child. The same thing happened to the third, and so on, until the seventh. They all died and didn't have any children by that women.
+\v 27 And finally the widow herself died too.
+\v 28 So if it's true that people who've died will be made alive again, then whose wife will the widow be called, because all seven brothers had married her?”
+\p
+\v 29 Then Jesus answered, “You're really mistaken, because you don't know what's written in the Holy Bible, and you don't know the power of God.
+\v 30 For when dead people live again, they won't marry anymore. They'll live like the angels in heaven who've never married.
+\v 31 But regarding living again after death, how long will it be until you understand God's Word which is so well-known, that is when God said,
+\v 32 ‘I am the God of Abraham, and the God of Isaac, and the God of Jacob.’\x + Ex. 3:6\x* God spoke of our three forefathers as people who're still living and worshiping Him. Even though dead people are no longer on earth, they keep living before God.”
+\p
+\v 33 The crowd there was truly amazed when they heard His teaching.
+\s Jesus tells about God's most important command
+\r (Mark 12:28-34; Luke 10:25-28)
+\p
+\v 34 Then the Pharisees heard that Jesus had defeated the Sadducees when they presented a question to test Jesus, so they got together to find a way to defeat Jesus.
+\v 35 Then one of the members of their group— who was also an expert of the Law, looked for a way to find fault with Jesus by asking,
+\v 36 “Teacher, in your opinion, of all the Laws, which command is the most important?”
+\p
+\v 37 Jesus answered, “‘Love the Lord your God with your whole heart, with all your breath of life, and with all your mind.’\x + Deut. 6:5\x*
+\v 38 That command is the most important, and the very foremost.
+\v 39 And the second command which is almost as important as that is, ‘Love your fellowman just like you love yourself.’\x + Lev. 19:18\x*
+\v 40 For those two commands are the basis of the whole Law and of all the commands that are found in the writings of the prophets.”
+\s Jesus shows that He isn't merely a descendant of David
+\r (Mark 12:35-37; Luke 20:41-44)
+\p
+\v 41 While the Pharisees were still with Jesus, He asked this question to teach them:
+\v 42 “What's your opinion about the Christ?\f + \fr 22:42 \fk Christ \ft See note in Mat. 1:16.\f* Whose descendant will He come as, later on?”
+\p They answered, “The descendant of King David.”
+\p
+\v 43 He said to them, “If that's true, why did David— when he prophesied through the power of the Holy Spirit, call the Christ ‘my Lord’? For he spoke like this,
+\q1
+\v 44 ‘The Lord God said to my Lord,
+\q1 “Sit at My right side and rule as King
+\q2 until I defeat everyone who opposes You and make them Your slaves.’”\x + Ps. 110:1; Acts 2:34-35; 1 Cor. 15:25; Heb. 1:13\x*
+\m
+\v 45 So if David respected the Christ that much by calling Him ‘My Lord,’ why do you teach that He's merely a descendant of David?”
+\v 46 The Pharisees who were trying to test Jesus just kept silent when they heard His question. And after that day, no one was ever bold enough to present Him with a question like that again.
+
+</USFM>
+~~DISCUSSIONS:on~~

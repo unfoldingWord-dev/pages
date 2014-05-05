@@ -6,14 +6,15 @@
 
 ===== Facts: =====
 
+Rome is the capital city of the country of Italy.
 
-    * Rome is the capital city of the country of Italy
-    * Rome was the center of the Roman Empire during the time when Jesus and the apostles were alive.
+    * Rome was the center of the Roman Empire.
+    * The term, "Roman" refers to anything relating to the regions that the government in Rome controlled, including Roman citizens and Roman officials.
+    * The Roman Empire ruled over Israel during the time when Jesus and the apostles were alive.
     * The apostle Paul was taken to the city of Rome as a prisoner because he preached the good news about Jesus.
-    * The term 'Roman' refers to anything relating to the regions that the government in Rome controlled, including Roman citizens and Roman officials.
 
 
-[See also: **[[:en:key-terms:term|term]]**]
+[See also: **[[:en:key-terms:pilate|Pilate]]**, **[[:en:key-terms:paul|Paul]]**, **[[:en:key-terms:good-news|good news]]**]
 
 ===== Examples from the Bible stories: =====
 
@@ -21,4 +22,4 @@
   ***[[:en:obs-training:frames:39-09|[39-09]]]** Early the next morning, the Jewish leaders brought Jesus to the **Roman** governor, Pilate, hoping to have Jesus killed.
 
 
-~~DISCUSSION~~
+~~DISCUSSION:closed~~

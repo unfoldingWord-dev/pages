@@ -6,15 +6,17 @@
 
 ===== Facts: =====
 
-  * "John the Baptizer" was the son of Zechariah and Elizabeth.
-  * He was the prophet whom God sent to prepare people to believe in and follow God's Messiah.
-  * John prepared people to receive the Messiah by teaching them to confess their sins, turn to God, and stop sinning.
-  * People went to John to be baptized in water as a sign that they were sorry for their sins and were turning away from them. 
-  * John was called "John the Baptizer" because he baptized many people.
-  * If “the Baptist” is used, make sure it is clear that this does not refer to the church by this name. It may be necessary to say, “John the Baptizer” or “John who baptizes.”
+John was the son of Zechariah and Elizabeth. Since "John" was a common name, he is often called "John the Baptist" to distinguish him from the other people named John, such as the Apostle John.
+
+  * John was the prophet whom God sent to prepare people to believe in and follow the Messiah.
+  * John told people to confess their sins, turn to God, and stop sinning, so that they would be ready to receive the Messiah.
+  * John baptized many people in water as a sign that they were sorry for their sins and were turning away from them. 
+  * John was called, "John the Baptist" because he baptized many people.
+  * Make sure that people will understand that “the Baptist” does not refer to the church by this name. It may be necessary to say instead, “John the Baptizer” or, “John who baptizes.”
 
 
-[See also: **[[:en:key-terms:baptize|baptize]]**, **[[:en:key-terms:Zechariah-nt|Zechariah]]**, **[[:en:key-terms:Elizabeth|Elizabeth]]**]
+[See also: **[[:en:key-terms:baptize|baptize]]**, **[[:en:key-terms:Zechariah-nt|Zechariah]]**]
+
 
 ===== Examples from the Bible stories: =====
 
@@ -25,4 +27,4 @@
   ***[[:en:obs-training:frames:24-06|[24-06]]]** The next day, Jesus came to be baptized by **John**. When **John** saw him, he said, “Look! There is the Lamb of God who takes away the sin of the world.”
 
 
-~~DISCUSSION~~
+~~DISCUSSION:closed~~

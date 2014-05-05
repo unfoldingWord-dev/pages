@@ -1,0 +1,98 @@
+<USFM>
+
+\c 5
+\s Jesus teaches a crowd
+\r (Luke 6:20-23)
+\p
+\v 1 When Jesus saw the crowd that followed Him, He climbed to the top of a hill and sat down there.\f + \fr 5:1 \fk sat down there \ft In the Jewish culture, the Law experts sat to give their lessons. So most likely Jesus sat because he wanted to give an important lesson— not because he was tired after climbing the hill.\f* His disciples gathered around Him,
+\v 2 and He began to teach them,
+\q1
+\v 3 “The people who know that they have spiritual needs are truly blessed by God,
+\q2 for they're the ones who will become citizens of God's kingdom.\f + \fr 5:3 \fk God's kingdom \ft See the footnote in Matt. 3:2.\f*
+\q1
+\v 4 The people who mourn now are truly blessed by God,
+\q2 for they're the ones who will be comforted by Him.
+\q1
+\v 5 The people who're humble are truly blessed by God,
+\q2 for they're the ones who'll inherit the earth that God promised.\f + \fr 5:5 \fk earth that God promised \ft See Ps. 37:10-11; 2 Pet. 3:10-13; Rev. 21-22.\f*
+\q1
+\v 6 The people who're eager to do what's right more than to eat and drink\f + \fr 5:6 \fk do … eat and drink \ft In a literal way, “hungry and thirsty for right living.”\f* are truly blessed by God,
+\q2 for they're the ones who'll be satisfied by God.
+\q1
+\v 7 The people who have compassion on other people are truly blessed by God,
+\q2 for they're the ones who'll be shown compassion by God.
+\q1
+\v 8 The people who're sincere in heart are truly blessed by God,
+\q2 for they're the ones who'll always see God.
+\q1
+\v 9 The people who work to bring about peace are truly blessed by God,
+\q2 for they're the ones who'll be called His children.
+\q1
+\v 10 The people who're persecuted because they live right are truly blessed by God,
+\q2 for they've already become citizens of God's kingdom.
+\b
+\p
+\v 11 “You're truly blessed by God too, if you're hurt, insulted, and slandered for following Me.
+\v 12 Rejoice and be glad, because a great blessing has already been prepared for you in heaven. Remember: The prophets who lived in times past were persecuted like that too.”
+\s The salt and light of the world
+\r (Mark 9:50; Luke 14:34-35)
+\p
+\v 13 “The good influence of each of us should be felt in this world. It's pointless for someone to say he's My follower if he doesn't influence this world at all. Your influence is illustrated by salt. When cooking, everyone is glad to add a little salt to his cooking. Even though sand looks the same as salt, we don't want to add sand to our food! Sand is only useful to be thrown out and stepped on by people.\f + \fr 5:13 \fk Verse 13 \ft Literally (with implicit information) can be translated like this, “You are each like salt (illustrating your good influence) to people in this world. But if the salty taste of salt is lost, it isn't possible to make it salty again. That salt (becoming just like sand) would be thrown out and stepped on by people.”\f*
+\p
+\v 14 “You're like light in this dark world. So you're like a city located on top of a hill. Its light glows, and the city can't be hidden.
+\v 15 In the same way, no one will light a lamp and then cover it with a clay pot. But a lamp is always put in a high place, so that it shines on everyone in the house.
+\v 16 In the same way, your light should also shine on other people. By that I mean, other people should see the good deeds that you do, and then praise your Father who's in heaven.”
+\s Jesus teaches about the Law
+\p
+\v 17 “Don't think that I came to cancel the Law. I didn't come to cancel it, but to fulfill what's written in it.
+\v 18 Know this, as long as there's still sky and earth, nothing at all will be canceled from the Law, not even one letter or one dot. All of it will always be valid, and all of the prophecies in it will take place, for sure.
+\p
+\v 19 “So don't think that there's a command in the Law that's not useful. A person who breaks even one of the smallest commands and teaches another person to break it too, will be considered the least in God's kingdom. But the person who keeps every command in the Law, and teaches other people to keep them too, will be greatly respected in God's kingdom.
+\v 20 So I'm telling you the truth: If your life isn't more righteous than the Law experts and the members of the Pharisee group,\f + \fr 5:20 \fk Pharisee group \ft See the note in Matt.3:7\f* it's impossible for you to become a member of God's kingdom.
+\s Jesus teaches about anger
+\p
+\v 21 “Each of us have been taught by our religious teachers that Moses commanded our forefathers, ‘Don't murder,’and ‘Whoever murders will be tried and punished.’\x + Ex. 20:13; Deut. 5:17\x*
+\v 22 But I'm telling you: Whoever gets angry with another person will be punished by God. And whoever insults another person will face God's court. And whoever says to another person ‘You're stupid,’ deserves to be thrown into the fire of hell.
+\p
+\v 23 “For that reason, if for example you're bringing your offering to be burned on the altar in God's Temple, and you're suddenly reminded that another person is bitter with you,
+\v 24 leave your offering in front of the altar, then go to that person and make your relationship right with him. After that you can continue to give your offering to God.
+\p
+\v 25 “Listen to this example: If your enemy is accusing you in court, try to make your relationship right with him as soon as possible, before you reach the courtroom. If you don't do that, he might report you to the judge, then the judge will turn you over to the jailer, and you'll be imprisoned.
+\v 26 I'm telling you the truth: You won't get out of jail until you've paid all of your debts and the fines determined by the judge, in full!”
+\s Jesus teaches about the sin of adultery
+\p
+\v 27 “Each of us has been taught by our religious teachers that Moses gave the command, ‘Don't commit adultery.’\x + Ex. 20:14; Deut. 5:18\x*
+\v 28 But I'm telling you: If a man simply looks at a woman with lust, and wants to have sex with her, it means he has already committed adultery with that woman in his heart.
+\v 29 If your eye makes you sin— even your best eye, dig it out and throw your eye away! It's better for you to lose one body part, than to be thrown into hell with a whole body.
+\v 30 In the same way, if your hand makes you sin— even your strongest hand, cut it off and throw your hand away. It's better for you to lose one body part, than to go to hell with a whole body.”
+\s Jesus teaches about divorce
+\r (Mat. 19:9; Mark 10:11-12; Luke 16:18)
+\p
+\v 31 “Each of us has also been taught this command of Moses, ‘Every husband who divorces his wife has to give her a letter of divorce.’\x + Deut.24:1\x*
+\v 32 But I'm telling you: The only reason a husband may divorce his wife is if it's proven that his wife committed adultery. If for any other reason, it's as if he urges his wife to commit adultery. For if his wife marries again, that couple is committing adultery before God. And every man who marries a divorced woman is committing adultery in God's eyes too.
+\s Jesus teaches about oaths and promises
+\p
+\v 33 “All of us have also been taught about Moses' command to our forefathers: ‘If you promise to do something in the Lord's name, don't fail to fulfill what you promised. Fulfill all the things that you've promised by calling on the name of the Lord.’\x + Lev. 19:12; Num. 30:2; Deut. 23:21\x*
+\v 34 But I'm telling you: Don't call on anything at all as a witness to strengthen your vow. Don't call on heaven, for that's the place of God's throne,
+\v 35 And don't call on earth, for earth is like the place where God puts His feet when He sits on His throne. And you don't call on Jerusalem either, because that's the capital city of the Greatest King.
+\v 36 In fact, you may not even call on your own head as a witness of your promise, because you aren't able to make even one strand of your hair become black or white.
+\v 37 So you should just say ‘That's right’— if it's right, or ‘That's wrong’— if it's wrong. Don't add anything at all to strengthen your vow or your promise, because all other additions come from the devil.”
+\s Jesus teaches about people who oppose us
+\p
+\v 38 “All of us have also been taught this command of Moses: ‘The punishment for the one who damages the eye or the tooth of another person is that his own eye or tooth will also be damaged.’\x + Ex. 21:24; Lev. 24:20\x*
+\v 39 But I'm telling you: Don't oppose a person who does evil to you. For example, if a person hits your right cheek, give him your left cheek too.
+\v 40 Or if a person accuses you in court and demands your tunic, give him your robe too.\f + \fr 5:40 \fk tunic … robe \ft In Bible times, the clothing translated as ‘tunic’ and ‘robe’ both reached the ankles. What's translated as 'tunic', was made from thinner cloth, and was covered by the ‘robe’, which was thicker and more expensive.\f*
+\v 41 Or if a soldier forces you to carry his things as far as one kilometer,\f + \fr 5:41\fr* \fk forces you … one kilometer \ft In all the provinces where the Roman administration colonized the residents, all Roman soldiers were allowed to order the people to carry their things as far as 'one kilometer'. What's translated 'one kilometer', is literally 'one mile'.\f* be ready to carry his things as far as two kilometers.
+\v 42 And if a person asks for something from you, give it to him. Or if a person wants to borrow something from you, don't refuse him.”
+\s Love the people who oppose you
+\r (Luke 6:27-28, 32-36)
+\p
+\v 43 “All of us have also been taught, ‘Love your brothers and sisters of our own people group,\x + Lev. 19:18\x* but we can hate other people groups who oppose us.’
+\v 44 But I'm telling you: Love your enemies, and pray for everyone who persecutes you.
+\v 45 For if you do that, you're following the example of your Father\f + \fr 5:45 \fk following the example of your Father \ft Literally, “become the child of your Father.”\f* who's in heaven. For He's really good to everyone. For example, He shines the sun on people who're good and on people who're evil. And when the rain falls, He helps both the people whose lives are right and those whose lives aren't right.
+\v 46 If you just love friends who love you, don't hope that God will reward you for your love. For tax collectors and other sinners\f + \fr 5:46 \fk tax collectors … and other sinners \ft At the time of Jesus, Israel was colonized by the kingdom of Rome. So if a Jew became a tax collector, he was considered to be a person who denied his own people. For that reason, the tax collectors were considered to be sinners by all other Jews. They were also hated because they liked to collect more than the correct amount of taxes. (Luke 3:12-13) Because of that, the tax collectors became rich.\f* love whoever loves them.
+\v 47 And if you just greet only your friends, don't think that God will consider you to be better than other people. Even the people who don't know God greet their friends.
+\v 48 You should love everyone! In that way you'll be perfect, just like your Father in heaven is perfect.”
+
+</USFM>
+~~DISCUSSIONS:on~~

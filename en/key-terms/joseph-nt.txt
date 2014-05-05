@@ -1,19 +1,18 @@
 ====== Joseph (NT) ======
 
 
-==== (term, other) ====
-
-
 ===== Facts: =====
 
+Joseph was Jesus' earthly father and raised him as his son.
 
     * Joseph was a descendant of King David.
-    * He was engaged to a virgin girl named Mary, whom God had chosen to be the mother of Jesus the Messiah.
-    * An angel told Joseph that the Holy Spirit had made this miracle happen and that Mary's baby was the Son of God.
-    * Joseph was Jesus' earthly father and raised him as his son.
+    * Joseph was engaged to a virgin girl named Mary, whom God had chosen to be the mother of Jesus the Messiah.
+    * An angel told Joseph that the Holy Spirit had miraculously made Mary pregnant, and that Mary's baby was the Son of God.
+    * Joseph believed the angel and obeyed God by taking Mary as his wife, and keeping her a virgin until Jesus was born.
 
 
-[See also: **[[:en:key-terms:mary|Mary]]**]
+[See also: **[[:en:key-terms:mary|Mary]]**, **[[:en:key-terms:david|David]]**, **[[:en:key-terms:jesus|Jesus]]**, **[[:en:key-terms:messiah|Messiah]]**, **[[:en:key-terms:virgin|virgin]]**]
+
 
 ===== Examples from the Bible stories: =====
 
@@ -26,4 +25,4 @@
   ***[[:en:obs-training:frames:26-04|[26-04]]]** Jesus said, “Today these words have been fulfilled in your hearing.” All the people were amazed. “Isn’t this the son of **Joseph**?” they said.
 
 
-~~DISCUSSION~~
+~~DISCUSSION:closed~~

@@ -1,6 +1,10 @@
 ===== Markus =====
 
-| **[[:id:tsi:41-markus:01|1]]** | **[[:id:tsi:41-markus:02|2]]** | **[[:id:tsi:41-markus:03|3]]** | **[[:id:tsi:41-markus:04|4]]** |
-| **[[:id:tsi:41-markus:05|5]]** | **[[:id:tsi:41-markus:06|6]]** | **[[:id:tsi:41-markus:07|7]]** | **[[:id:tsi:41-markus:08|8]]** |
-| **[[:id:tsi:41-markus:09|9]]** | **[[:id:tsi:41-markus:10|10]]** | **[[:id:tsi:41-markus:11|11]]** | **[[:id:tsi:41-markus:12|12]]** |
-| **[[:id:tsi:41-markus:13|13]]** | **[[:id:tsi:41-markus:14|14]]** | **[[:id:tsi:41-markus:15|15]]** | **[[:id:tsi:41-markus:16|16]]** |
+
+|**[[:id:tsi:41-markus:01|1]]**  |**[[:id:tsi:41-markus:02|2]]**  |**[[:id:tsi:41-markus:03|3]]**  |**[[:id:tsi:41-markus:04|4]]**  |
+|**[[:id:tsi:41-markus:05|5]]**  |**[[:id:tsi:41-markus:06|6]]**  |**[[:id:tsi:41-markus:07|7]]**  |**[[:id:tsi:41-markus:08|8]]**  |
+|**[[:id:tsi:41-markus:09|9]]**  |**[[:id:tsi:41-markus:10|10]]**  |**[[:id:tsi:41-markus:11|11]]**  |**[[:id:tsi:41-markus:12|12]]**  |
+|**[[:id:tsi:41-markus:13|13]]**  |**[[:id:tsi:41-markus:14|14]]**  |**[[:id:tsi:41-markus:15|15]]**  |**[[:id:tsi:41-markus:16|16]]**  |
+
+
+\\

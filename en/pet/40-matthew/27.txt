@@ -1,0 +1,128 @@
+<USFM>
+
+\c 27
+\s Jesus is handed over to Pilate
+\r (Mark 15:1; Luke 23:1-2; John 18:28-32)
+\p
+\v 1 Very early the next morning, all the chief priests and Jewish leaders planned how to pressure the Roman governor to kill Jesus.
+\v 2 So they tied Him up and took Him to hand Him over to Governor Pilate.
+\s Judas kills himself
+\r (Acts 1:18-19)
+\p
+\v 3 When Judas— the one who betrayed Jesus, saw that Jesus was sentenced to die, he regretted his actions. Then he returned the thirty silver coins that he had received to the chief priests and the Jewish leaders.
+\v 4 He said to them, “I've sinned, because I've sold a man who was innocent to be killed.”
+\p But the Jewish leaders answered, “Why're you telling us that?! If you've sinned, that's your own responsibility!”
+\p
+\v 5 Then Judas threw the silver coins into God's Temple and left. After that, he went out of the city and committed suicide, by hanging himself.
+\p
+\v 6 Then, when the chief priests took the silver coins, they said, “It's forbidden in the Law to put this money into the offering box, because this money is the profit for selling a person's life.”
+\v 7 So, after talking about it, they decided to use that money to buy a field which had been owned by a potter. Then that land became a burial place for all newcomers and foreigners who died in Jerusalem.
+\v 8 Because all of the residents of Jerusalem knew about this, that field is known by the name “Field of Spilled Blood, even to this day.”\f + \fr 27:8 \fk Field of Spilled Blood \ft Literally, “Field of Blood.” The word 'blood' in the name means the blood of a murdered person, or the name of that field can mean, 'the field that was bought with the profit money for selling a person's life.'\f*
+\v 9 In that way, without being aware of it, they fulfilled what was foretold by the Prophet Jeremiah:
+\q “They'll take the thirty silver coins— which is the price the Israelites determined for Him,
+\q
+\v 10 and they'll use that money to buy a field, which had been owned by a potter. This was determined by the Lord, and was told to me.”\f + \fr 27:10 \fk Quotation of the Prophet Jeremiah \ft Because of the way prophecy is expressed in the Indonesian language, this verse is translated with the word “will”, to show that the time was yet to come. The Hebrew and Greek languages both use the past tense verb to express prophecy. Apparently this quotation is mixed from Zech. 11:12-13 and Jer. 32:6-9.\f*
+\s Governor Pilate examines Jesus
+\r (Mark 15:2-5; Luke 23:3-5; John 18:33-38)
+\p
+\v 11 When Jesus was presented to Governor Pilate, he asked Jesus, “Are you the king of the Jews?”
+\p Jesus answered, “That's so.”
+\p
+\v 12 But when the chief priests and all the Jewish leaders reported the accusations about Jesus' wrong-doings, Jesus didn't answer anything.
+\p
+\v 13 So Pilate said to Him, “Don’t you hear how many accusations they're reporting about you?”
+\p
+\v 14 But Jesus still didn't answer even a single word, so because of that, Pilate was really amazed.
+\s Pilate hands Jesus over to be sentenced to death
+\r (Mark 15:6-15; Luke 23:13-25; John 18:39-19:16)
+\p
+\v 15 Every year on Passover Day in Jerusalem, it had become the tradition of each Roman governor to release one person from prison, according to the people's choice.
+\v 16 At that time, there was a well-known criminal in prison who was also named Jesus, but he was also called Barabbas.
+\p
+\v 17 It just so happened that a crowd had gathered at the governor's palace that morning because of that tradition. Then Pilate asked them, “Who do you want released?— Jesus, who is also called Barabbas, or Jesus, whom some of you consider to be the Christ?”\f + \fr 27:17 \fk Christ \ft See the note in Mat. 1:16.\f*
+\v 18 Pilate purposely spoke like that because he already knew that the chief priests envied Jesus. He knew that was the reason they had handed Jesus over to Him.
+\p
+\v 19 While Pilate was sitting in the judgment seat, his wife sent a message to him. “Don't do anything to that innocent man whom you're judging now, because I had a dream about him last night, and it really haunts me.”
+\p
+\v 20 At the same time, the chief priests and all the Jewish leaders kept inciting the crowd to demand that Pilate release Barabbas, and give Jesus the death sentence.
+\v 21 So Pilate asked again, “Which of these two people do you want me to release?”
+\p They replied, “Barabbas!”
+\p
+\v 22 Then Pilate asked, “If that's so, what do want me to do with Jesus— whom you call ‘the Christ’?”
+\p They all shouted, “Crucify him!”\f + \fr 27:22 \fk Crucify him! \ft At the time of Jesus, the Roman government had a special way to carry out the death penalty for criminals— that is by crucifixion. They made a cross from two beams of wood shaped like the letter T. Before the criminal was crucified, he would be whipped until almost dead, then he was nailed to that cross with big nails. His hands were lifted up and nailed to the left and right of the cross, and his feet were also nailed to the cross. Then the cross was erected by planting it in a hole in the ground, or in a large stone. A person who was crucified on a cross usually didn't die immediately. He might live for hours or days, and suffer terribly. A person who was sentenced to die by crucifixion didn't only suffer in a physical way but was also deeply shamed, because criminals who were sentenced like that were always crucified naked, and people who passed by that place would insult them and make fun of them. The death sentence by crucifixion didn't apply to citizens of the kingdom of Rome, but just to slaves, or people from other countries that were colonized by the kingdom of Rome.\f*
+\p
+\v 23 Then Pilate asked them again, “Why? What has he done wrong?”
+\p But they shouted even more loudly, “Crucify him!”
+\p
+\v 24 At that moment, Pilate realized that his effort to release Jesus wasn't succeeding, but was causing a riot instead. So he ordered someone to bring him a bowl of water, and then he washed his hands in front of them while saying, “I can't be blamed for this man's death! You'll bear the responsibility of God's punishment for his death yourselves.”
+\p
+\v 25 Everyone there answered, “Yes, we and our children will bear the responsibility of God's punishment for his death.”
+\p
+\v 26 Then Pilate released Barabbas according to their request, and he handed Jesus over to the soldiers with the command to whip Him and crucify him.
+\s The soldiers make fun of Jesus
+\r (Mark 15:16-20; John 19:2-3)
+\p
+\v 27 Then Pilate's soldiers brought Jesus into the part of the governor’s palace that was their barracks, and they called all of the other soldiers to gather around Him.
+\v 28 Then they began to make fun of Jesus because He claimed to be the king. They took off all His clothes, and they put a red robe on Him, to mock Him.\f + \fr 27:28 \fk red robe … \ft A red robe, like the color of blood, was always worn by military commanders.\f*
+\v 29 Then they made a crown from thorny vines and placed it on His head, and they put a bamboo stick in His right hand, so that it looked like a king’s scepter. Then they knelt in front of Him and made fun of Him, saying, “Your majesty, king of the Jews!”
+\v 30 Then they spit on Him, and took the bamboo stick from His hand and beat Him over and over again on the head with it.
+\v 31 After they finished making fun of Him like that, they took off the red robe and put His own robe back on Him. Then they took Jesus out to be crucified.
+\s Jesus is crucified
+\r (Mark 15:21-32; Luke 23:26-43; John 19:17-27)
+\p
+\v 32 While they were on their way out of the city, the soldiers who took Jesus met a man named Simon, from the city of Cyrene, and they forced\f + \fr 27:32 \fk forced \ft translation of a special term in the Greek language, that can also be translated “ordered.” In all the provinces colonized by the Roman government, all Roman soldiers were allowed to order people to carry things for them. This event showed that Jesus had already become too weak to carry His own cross.\f* him to carry Jesus’ cross.
+\v 33 Then they reached a certain place called Golgotha, which means “place of the skull.”\f + \fr 27:33 \fk Golgotha … \ft Golgotha (place of the skull) came from the everyday Hebrew language. In the Latin language— that is the language of Italy and the capitol city Rome, it was called “Calvary.” That hill was to the north of Jerusalem, and it didn't get its name because of human skulls being left there. It just so happened that part of this hill stuck out, and it looked like a large skull.\f*
+\v 34 They gave Him sour wine there, mixed with bile. After He tasted it, He refused to drink it.
+\p
+\v 35 After Jesus was crucified, the soldiers divided His clothes between them by casting lots.\f + \fr 27:35 \fk lots \ft Matthew made this verse look the same as Ps. 22:18.\f*
+\v 36 Then they sat there to guard Him.
+\v 37 They attached a writing to the top of His cross which explained the reason He was crucified. The writing was, “This is Jesus, king of the Jews.”
+\p
+\v 38 After that, they crucified two thieves along with Jesus too, one on His right side and the other on His left.
+\v 39 People who went past made fun of Him. While shaking their heads
+\v 40 they said, “Hey, you said that you would tear down God’s Temple and rebuild it in just three days! If you really are God's Son, save yourself and come down from that cross!”
+\p
+\v 41 The chief priests, the Law experts, and the Jewish leaders also laughed at Jesus and made fun of Him. They said,
+\v 42 “He can save other people, but he can't save himself! If he's really the king of Israel, let him come down from that cross now! Then we can believe him.
+\v 43 According to his own words, he trusts in God. So, if it's true that 'God is really pleased with him', let God save him now’,\f + \fr 27:43 \fk let God save him … \ft When they made fun of Jesus, they quoted from Ps. 22:9.\f* because he really did say, ‘I'm the Son of God.’”
+\v 44 And the two criminals who were crucified with Jesus also insulted Him.
+\s Jesus dies
+\r (Mark 15:33-41; Luke 23:44-49; John 19:28-30)
+\p
+\v 45 At noon, the whole area around there suddenly became dark until three o'clock in the afternoon.
+\v 46 Around three in the afternoon, Jesus cried out with a loud voice, “Eloi, Eloi, lama sabachthani?”— which means, “My God, My God, why have you abandoned Me?”\x + Ps. 22:2\x*
+\p
+\v 47 Then some people who stood there misunderstood what Jesus said, and they said, “He's calling the Prophet Elijah.”
+\p
+\v 48 One of them quickly ran to get a piece of sponge,\f + \fr 27:48 \fk sponge \ft A type of sea plant that can soak up water.\f* and put it on the end of a bamboo stick. Then he dipped the sponge in sour wine,\f + \fr 27:48 \fk sour wine \ft When they gave Him the sour wine, at that very moment what was written in Ps. 69:22 was fulfilled.\f* and put it up to Jesus' mouth, so He could drink.
+\v 49 But other people said, “Wait! Don't give it to him yet. Let’s see if Elijah comes to save him.”
+\p
+\v 50 Then Jesus cried out with a loud voice and let out his last breath.
+\p
+\v 51 When Jesus died, the curtain which always hung in the doorway of the Holy Room\f + \fr 27:51 \fk curtain … Holy Room \ft This curtain was a thick cloth which always hung in the doorway of the Holy Room. It isn't clear here if this was the curtain in the doorway to the Holy Room, or the curtain which separated the Holy Room from the Holiest Room. The spiritual meaning of this miracle is explained in Heb. 9— which is that there's no longer any obstacle separating man from God. (See Ex. 26:31-33, Heb. 9:1-8.)\f* in God's Temple, suddenly tore in two by itself, from top to bottom, and an earthquake happened and many huge rocks were split apart.
+\v 52 Graves were even opened, and many holy people who had already died came back to life,
+\v 53 and came out of their graves. Then after Jesus rose from the dead, they entered the holy city (Jerusalem) and were seen by many people.
+\p
+\v 54 When the officer and all of the soldiers who were guarding Jesus saw the earthquake and the other miracles, they were very afraid and said, “It's true, this Man really was God's Son!”
+\p
+\v 55 There were also some women there who stood and watched from far off. They were the women who often served Jesus and us disciples of His, who had followed us to Jerusalem from the region of Galilee.
+\v 56 Among them were the mother of James and John,\f + \fr 27:56 \fk James and John \ft Literally, “the sons of Zebedee.”\f* Mary— who came from the village of Magdala, and Mary— the mother of James and Joseph, the younger brothers of Jesus.
+\s Jesus' body is buried
+\r (Mark 15:42-47; Luke 23:50-56; John 19:38-42)
+\p
+\v 57 When it was almost night, a rich man named Joseph came. He was from the city of Arimethea, and had often followed Jesus too.
+\v 58 He approached Pilate and asked for the body of Jesus. Then Pilate ordered the soldiers to give Jesus' body to Joseph.
+\v 59 So Joseph and several other people took His body and wrapped it in a burial cloth that he had just bought.
+\v 60 Then they laid Jesus' body in a tomb that Joseph himself owned— which had been newly made like a cave in a hill of rock. Then the opening of the cave-like tomb was closed by rolling a large rock that had been prepared as the cover. After that, Joseph and the others went home.
+\v 61 While they prepared the body of Jesus, the two Mary’s sat facing the opening of the cave-like tomb.
+\s Jesus' tomb is guarded
+\p
+\v 62 The day they buried Jesus was called Preparation Day. The next day— which was the Sabbath Day, the chief priests and Pharisees went to see Pilate.
+\v 63 They said, “Sir, we remember when Jesus, that misleader, was still alive, he said, ‘Three days after I die, I'll be brought back to life.’
+\v 64 For that reason, please order that his tomb be guarded by soldiers until the third day. Don't let his disciples steal his body and announce that Jesus has risen up from among dead people. If that happened, that lie would be worse than the first lie when he claimed that he himself was the Christ.”
+\p
+\v 65 Pilate said to them, “I give you permission. Take those on duty and do all that's needed in order to secure that tomb.”
+\v 66 Then the Jewish leaders went with the soldiers to the tomb. They placed an authorized seal on the rock cover of the tomb, and the soldiers remained on guard there.
+
+</USFM>
+~~DISCUSSIONS:on~~

@@ -4,11 +4,12 @@
 ===== Definition: =====
 
 
-    * To make fun of, especially  in a cruel way.
-    * Mocking often involves making jokes about someone and laughing.
+To deride or make fun of someone, especially  in a cruel way.
 
+    * Mocking often involves taunting someone and laughing at them.
+    * To mock someone is to pretend to honor them, but in a way that actually shows contempt for them.
+    * A person can also mock someone by imitating that person's words or actions with the intent to embarrass them.
 
-[See also: **[[:en:key-terms:term|term]]**]
 
 ===== Examples from the Bible stories: =====
 
@@ -19,4 +20,4 @@
   ***[[:en:obs-training:frames:40-05|[40-05]]]** The crowd and the Jewish leaders **mocked** Jesus, saying, “If you are the Son of God, come down from the cross and save yourself! Then we will believe you.”
 
 
-~~DISCUSSION~~
+~~DISCUSSION:closed~~

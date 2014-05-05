@@ -7,11 +7,14 @@
 ===== Definition: =====
 
 
-    * To betray someone is to pretend to be a friend but then to act in a way that deceives that person or is harmful to him in some way.
-    * Judas was "the betrayer" because he pretended to be a follower of Jesus, but then betrayed him by telling the Jewish leaders how to capture him.
+To betray someone is to gain their trust, but then to act in a way that deceives that person or is harmful to him in some way.
+
+    * Judas was "the betrayer" because he told the Jewish leaders how to capture Jesus.
+    * The betrayal by Judas was especially evil because Judas was an apostle of Jesus, because Judas betrayed Jesus for money, and because the betrayal ended with the unjust execution of Jesus.
 
 
-[See also: **[[:en:key-terms:term|term]]**]
+[See also: **[[:en:key-terms:judas|Judas]]**, **[[:en:key-terms:jewish-leaders|Jewish leaders]]**, **[[:en:key-terms:apostle|apostle]]**]
+
 
 ===== Examples from the Bible stories: =====
 
@@ -24,4 +27,4 @@
   ***[[:en:obs-training:frames:39-08|[39-08]]]** Meanwhile, when Judas, the **betrayer**, saw that Jesus had been condemned, he became full of sorrow and went away and killed himself.
 
 
-~~DISCUSSION~~
+~~DISCUSSION:closed~~

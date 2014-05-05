@@ -1,0 +1,73 @@
+<USFM>
+
+\c 8
+\s Jesus heals a man who suffered from a contagious skin disease
+\r (Mark 1:40-45; Luke 5:12-16)
+\p
+\v 1 When Jesus went down the hill, many people followed Him.
+\v 2 Then a man suffering from a contagious skin disease came to Him.\f + \fr 8:2 \fk contagious skin disease \ft The skin disease that's meant here wasn't the same as what's now called “leprosy.” According to the Law, people suffering from skin diseases of this kind were considered unclean. They couldn't get close to healthy people, they couldn't enter the Jewish synagogues, and they had to live outside of the town or city. See Lev.13.\f* He bowed down in front of Jesus and said, “Sir, if you want to, I'm sure you're able to heal me.”
+\p
+\v 3 By stretching out His hand, Jesus touched\f + \fr 8:3 \fk touched \ft Because of the rules in the Law about people suffering from contagious skin diseases, a healthy person rarely touched a person suffering from a skin disease. But in this verse, Jesus touched this sick man. He knew, of course, that this man would get well.\f* the man and said, “I want to. Be healed!” At that very moment, the skin disease disappeared, and he became well.
+\v 4 And Jesus said to the man, “Don't tell anyone at all about this, but go and show your body to one of the priests. Then give an offering to God, according to Moses' command about everyone who's healed from a skin disease.\f + \fr 8:4 \fk Moses' command … skin disease \ft What Moses wrote about the healing of skin diseases is found in Lev. 14:1-32. If a priest agreed that a person was healed, that person had to bring two live birds to God's Temple, so that the priests there could perform the ceremony of cleansing from skin diseases. Ceremonies with sacrifices like this weren't done in the synagogues in their villages.\f* In that way, everyone will know that you really are well.”
+\s Jesus heals the servant of a Roman officer
+\r (Luke 7:1-10; John 4:43-53)
+\p
+\v 5 Jesus went to the city of Capernaum. At the time He entered the city, a Roman officer\f + \fr 8:5 \fk Roman officer \ft Literally in Greek, the word translated as 'officer' meant 'leader over one hundred soldiers'.\f* came to Him and begged earnestly,
+\v 6 “Sir, my slave is lying in the house because he's deathly ill. He can't move his body and he's really suffering.”
+\p
+\v 7 Jesus said to the officer, “I'll come and heal him.”
+\p
+\v 8 The officer answered, “Sir, I'm not worthy to receive you into my home. But I'm asking that you simply give the command that he be healed, and he'll be healed, of course.
+\v 9 For I myself am also a subordinate person who submits to the command of my superior, and there are also many soldiers under my command. If I say to one of them, ‘Go over there!’— then he goes. And if I say to another one, ‘Come here!’— then he comes. And if I say to my slave, ‘Do this!’— then he just does it. In the same way, I'm also certain that every command of your's will happen.”
+\p
+\v 10 When Jesus heard that, He was really amazed. Then He said to those following Him, “I'm telling you the truth: I've not met even one person yet among the people of Israel who has faith as great as the faith of this man.
+\v 11 I'm telling you: When God begins to rule over everything as King, there'll be a big party. Many people will come from every place on earth— even from the farthest points east and west. Then they'll sit down and eat with our forefathers Abraham, Isaac and Jacob.
+\v 12 However, many Jewish people, who were invited to enter the kingdom because of their forefathers, of course, will be thrown out into the darkest place. And they'll cry there, while suffering severely.”\f + \fr 8:12 \fk suffering severely \ft Literally, “grinding teeth.”\f*
+\p
+\v 13 Then Jesus said to the officer, “You may go home, Sir. It has happened according to your faith.” And at that very moment, the officer's slave was healed.
+\s Jesus heals many people
+\r (Mark 1:29-34; Luke 4:38-41)
+\p
+\v 14 After that, when Jesus went to Peter's house, He found Peter's mother-in-law lying in bed, because she was sick with a fever.
+\v 15 So Jesus touched the woman's hand, and her fever disappeared. She even got up and served Jesus some food.
+\p
+\v 16 That afternoon, many sick people were brought to Him, including those possessed by demons. And by His word alone, those evil spirits immediately left them, and He also healed all the sick people.
+\v 17 He did this to fulfill what was prophesied by the prophet Isaiah,
+\q1 “He's the one who took our suffering
+\q2 and healed our diseases.”\x + Is.53:4\x*
+\s Regarding the decision to follow Jesus
+\r (Luke 9:57-62)
+\p
+\v 18 When Jesus noticed the crowd gathered around him, He said to His disciples, “Let's leave and cross the lake.”
+\v 19 Then a Law expert came to Him and said, “Teacher, I'll follow You wherever You go.”
+\p
+\v 20 Jesus said to him, “Wild dogs have holes and birds have nests, but I— who am the Son of Man,\f + \fr 8:20 \fk Son of Man \ft While Jesus lived on earth, He often called Himself “Son of Man.” But the meaning of that term isn't directed at the word ‘son’. In the Hebrew language, ‘son of man’ means “normal human being'. Jesus called Himself that to remind His listeners about what the Prophet Daniel witnessed in a vision of the King of Salvation. (Dan.7:13-14) For Daniel saw Jesus in heaven in the form of a ‘son of man’— meaning in the form of a 'normal human being', when God appointed Him King over everything. In this translation, ‘who I am’ is often added so that it's clear that Jesus is speaking about Himself.\f* don't have a place to rest.”
+\p
+\v 21 And another person who often followed Jesus said to Him, “Sir, allow me to go home first. When my father dies and is buried, then I'll follow you.”\f + \fr 8:21 \fk dies and is buried \ft Literally this verse says, “Allow me to go home first to bury my father.” This verse was translated according to Jewish culture and the interpretation that his father hadn't died yet. Apparently, responsibility to his family was more important than following Jesus. There are others who say that this man might have wanted to receive his inheritance before following Jesus.\f*
+\p
+\v 22 But Jesus said to him, “Follow Me now, and let the people who're spiritually dead wait for one of their own to die.”
+\s Jesus stops a storm
+\r (Mark 4:35-41; Luke 8:22-25)
+\p
+\v 23 Then Jesus got into a boat with His disciples, and left for the other side of the lake.
+\v 24 Suddenly a huge storm came up on the lake. Their boat was pounded by the waves, and lots of water came in so that the boat almost sank. But at that moment, Jesus was sleeping soundly.
+\v 25 Then they came to wake Him up. They said, “Sir, help! We're going to die by drowning!”
+\p
+\v 26 Jesus answered, “Why're you so afraid? You don't believe in Me enough!” Then he stood and commanded the strong wind and the waves to stop. Then the wind just stopped, and the lake just became peaceful again.
+\p
+\v 27 They were amazed and said, “Wow, what kind of a man is this?! Even the strong wind and the waves obey him.”
+\s Jesus drives evil spirits out of men of the Gadarenes
+\r (Mark 5:1-20; Luke 8:26-39)
+\p
+\v 28 When Jesus arrived at the other side of the lake— namely the region of the Gadarenes,\f + \fr 8:28\fr \fk Gadarenes\fk \ft A region on the southeast side of the Lake of Galilee. That region is also called Gergesenes.\f* two men who were possessed by demons came to meet Him. Those two men lived in the graveyard,\f + \fr 8:28 \fk graveyard \ft At that time, Jewish people often buried dead people's bodies in caves, or in small rooms which were dug out of a mountain of rock. This story speaks about a lot of unclean things: evil spirits, a graveyard, pigs, and a non-Jewish region. All of those things were considered to be unclean by Jews.\f* and they were so dangerous that no one was brave enough to pass by there.
+\v 29 The two people screamed at Him, “Hey, Son of God! Why're you\f + \fr 8:29 \fk you \ft A lower case letter is used here as the pronoun for the name of Jesus. Even though the evil spirits knew that Jesus was God's Son, they didn't truly respect Him and submit to Him. (James 2:19)\f* bothering us? Have you come to torture us before the time determined by God?”
+\p
+\v 30 Not far from there, a large herd of pigs was eating.
+\v 31 The demons begged Him over and over again, “If you drive us out of these two men, allow us to enter those pigs.”
+\p
+\v 32 He said, “Go!” Then the demons left the two men and entered the pigs. And all of the pigs ran, and fell from the side of the chasm into the lake, and died by drowning.
+\v 33 The pig herders ran to the city and told about what had happened to the pigs, and to the two people who had been possessed by demons.
+\v 34 Then all the residents of the city came out to meet Jesus, and they begged Him earnestly to leave their region.
+
+</USFM>
+~~DISCUSSIONS:on~~

@@ -3,12 +3,13 @@
 
 ===== Facts: =====
 
-  * Nazareth is a town in the region of Galilee in northern Israel.
-  * Joseph and Mary were from Nazareth, and this is where they raised Jesus.
-  * Many of the people in Nazareth did not believe that Jesus is the Son of God because they did not expect the Son of God to come from Nazareth.
-  * “Many of the people in Nazareth did not respect Jesus' teaching, because they thought he was just an ordinary person from their hometown.” 
+Nazareth is a town in the region of Galilee in northern Israel.
 
-[See also: **[[:en:key-terms:Galilee|Galilee]]**]
+  * Joseph and Mary were from Nazareth, and this is where they raised Jesus.
+  * Many of the people in Nazareth did not respect the teaching of Jesus, because Jesus had grown up among them, and they thought that he was just an ordinary person.
+  * The people of Nazareth tried to kill Jesus when he claimed to be the Messiah.
+
+[See also: **[[:en:key-terms:Galilee|Galilee]]**, **[[:en:key-terms:joseph|Joseph]]**, **[[:en:key-terms:mary|Mary]]**, **[[:en:key-terms:messiah|Messiah]]**]
 
 
 ===== Examples from the Bible stories: =====
@@ -18,4 +19,4 @@
   ***[[:en:obs-training:frames:26-07|[26-07]]]** The people of **Nazareth** dragged Jesus out of the place of worship and brought him to the edge of a cliff to throw him off.
 
 
-~~DISCUSSION~~
+~~DISCUSSION:closed~~

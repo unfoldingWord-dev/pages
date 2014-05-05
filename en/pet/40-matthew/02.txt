@@ -1,0 +1,50 @@
+<USFM>
+
+\c 2
+\s Astrologers visit Jesus
+\p
+\v 1 Jesus was born in the city of Bethlehem in the province of Judea. At that time, Herod was ruling as king of Judea under the administration of the main kingdom of Rome. Then several astrologers came\f + \fr 2:0 \fk Astrologers \ft These may have been members of a religious group, from the region that's now called Iran, who were well educated. They visited Jesus when He was between 40 days old (Luke 2:22) and two years old. (Mat. 2:16)\f* from a land far to the east of Jerusalem.
+\v 2 They asked, “Where's the Child who was just born— the one who will become King of the Jews? For we saw a star rise up in the east, which is a sign of His birth, so we also came to worship Him.”
+\v 3 When King Herod heard the news about the king of the Jews, who was just born, he became troubled. And all the residents of Jerusalem became troubled too.
+\v 4 Then Herod called the chief priests and the Law experts and asked them where the Christ would be born.
+\v 5 They answered, “In the city of Bethlehem, Judea. For a prophet has written these words of God's,
+\q1
+\v 6 ‘You residents of Bethlehem, in the region of Judah:
+\q2 you're now no longer considered to be an unimportant town in that region!
+\q1 For a leader will be born among you,
+\q2 who will lead My people, Israel.’”\x + Mic.5:2\x*
+\p
+\v 7 Later, Herod held a closed meeting with those astrologers. That's how he got exact information from them about when the star appeared for the first time.
+\v 8 Then he ordered them to go to Bethlehem and said, “Go and find out precise information about that Child, and when you meet Him, tell me, so I can go worship Him too.”
+\p
+\v 9-10 After meeting with the king, the astrologers left. When they saw the star rising in the east again, they were really joyful. Then the glow of the star guided them, and it stopped above the house where the Child was.
+\p
+\v 11 So they entered the house where the Child was. They saw the Child with Mary, His mother, and then knelt down and worshiped the Child. They opened their bags and offered various gifts to the Child— which were gold, incense, and myrrh.\f + \fr 2:11 \fk incense and myrrh \ft Incense was tree sap, which if burned had a very fragrant smelling smoke. It was expensive, and often burned by Jewish priests as an offering to God. Myrrh was an expensive fragrant oil. It was used to prepare bodies to be buried. That oil can also be mixed with wine to drink to decrease pain.\f*
+\v 12 But God told them through a dream not to return to Herod. For that reason they went home to their land by another way.
+\s Jesus' parents take Him to Egypt
+\p
+\v 13 After the astrologers left, an angel of the Lord came to Joseph in a dream. The angel said, “Get up! Take the Child and His mother to Egypt quickly. Stay there until I come again, bringing orders for you to return, because Herod plans to find the Child and kill Him.”
+\p
+\v 14 That very evening Joseph got up and headed to Egypt with Mary and Jesus.
+\v 15 They stayed in Egypt until Herod died. In that the way, what was spoken by God through His prophet was fulfilled: “I'll call My Child out of Egypt.”\f + \fr 2:15 \fk Quote \ft Matthew quoted from Hosea 11:1. In the context of Hosea, he thought of all the people of Israel as 'God's child', so this verse can be translated in the context of times past. But Matthew used that verse as a prophecy, so it's translated here using the context of time to come, as Matthew intended.\f*
+\s Herod kills all the little boys of Bethlehem
+\p
+\v 16 When Herod knew that the astrologers had deceived him, he was very angry. Then he ordered his soldiers to kill all the boy children of Bethlehem, and in all the region around it— that is all of the children who were two years old and under. He estimated that the Child was two years old, according to the explanation of the astrologers.
+\v 17 So what was spoken by God through the prophet Jeremiah was fulfilled,
+\q1
+\v 18 “A voice was heard in the city of Ramah,
+\q2 that is the sounds of crying and lamenting because of feeling deeply sad.
+\q1 Rachel was crying for her children,
+\q2 and she didn't want to be comforted
+\q2 because her children have died.”\f + \fr 2:18 \fk Quote \ft Matthew quoted from Jer. 31:15. The city of Ramah was included in the broader region of Bethlehem and was only five kilometers north of Jerusalem.\f*
+\s Joseph and Mary return from Egypt
+\p
+\v 19 After Herod died, Joseph and his family were still in the land of Egypt. Then an angel of the Lord came to him again in a dream.
+\v 20 The angel said, “Get up, and go back to the land of Israel with Jesus and Mary, because the people who were trying to kill Him are dead!”
+\p
+\v 21 So Joseph got up and left with them immediately for the land of Israel.
+\v 22 But when Joseph heard that the one who had replaced King Herod was his son Archelaus, he was afraid to return to the province of Judea. Then he received instructions again, through a dream, so he went with them to the province of Galilee.
+\v 23 Then they went to the city which was called Nazareth and stayed there. In that way, what was spoken by God through the prophets was fulfilled— which was, “When the Christ comes, He will be called ‘a Nazarene.’”
+
+</USFM>
+~~DISCUSSIONS:on~~

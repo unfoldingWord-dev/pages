@@ -1,37 +1,47 @@
-Mazmur 5  - Judi's draft
+<USFM>
+\c 5
+\s3 (1) Untuk pemimpin pujian, dari Daud: Mazmur ini untuk diiringi dengan {berbagai instrumen tiup//suling/flut}
 
-Mazmur Daud - kepada pemimpin kor, untuk diiringi dengan alat-alat musik yang bersenar.
+\p
+\q1
+\v 1 (2) Ya Tuhan, dengarkanlah dan pahamilah keluh kesahku! 
+\q1
+\v 2 (3)Perhatikanlah seruanku, karena saya berdoa kepada-Mu, ya Allah, Raja-ku!
+\q1
+\v 3 (4)Engkau mendengarkan saya setiap pagi ketika saya membawa permintaanku kepada-Mu 
+\q2 dan saya menantikan jawaban-Mu, ya TUHAN.  
+\p
+\q1
+\v 4 (5)Memang Engkau tidak berkenan dengan kejahatan, 
+\q2 dan orang yang jahat tidak dapat tinggal bersama-Mu.
+\q1
+\v 5 (6)Orang yang membanggakan diri tidak bisa berdiri dihadapan-Mu, 
+\q2 karena Engkau membenci semua yang jahat.
+\q1
+\v 6 (7)Engkau membinasakan semua pembohong dan membenci pembunuh dan penipu.
+\p
+\b
+\q1
+\v 7 (8)Tetapi saya boleh memasuki Rumah-Mu karena kasih-Mu yang besar dan setia. 
+\q2 Saya bersujud di hadapan Rumah-Mu yang suci, dan menyembah-Mu. 
+\q1
+\v 8 (9)Ya TUHAN, karena orang yang memusuhiku banyak, 
+\q2 pimpinlah saya untuk melakukan yang benar, supaya saya tidak mengikuti jalan yang sesat.
+\p
+\q1
+\v 9 (10)Orang yang memusuhiku tidak bicara yang benar karena keinginan hati mereka bagaikan malapetaka. 
+\q2 Kata-kata mereka manis, tetapi dengan maksud busuk dan licik.  
+\q1
+\v 10 (11)Ya Allah, hukumlah mereka, biarkan mereka terjebak dalam jerat mereka sendiri. 
+\q2 Usirlah mereka jauh dari-Mu karena ketidaktaatan dan dosa mereka yang sangat banyak.
+\p
+\q1
+\v 11 (12)Tetapi biarlah semua orang yang mencari perlindungan di  dalam-Mu bergembira, 
+\q2 dan bersuka-cita kepada-Mu. 
+\q1
+\v 12 (13)Memang Engkau memberkati orang yang benar, 
+\q2 dan melindungi mereka seperti perisai dengan kebaikan hati-Mu, TUHAN. 
 
-1Ya Tuhan! Dengarlah dan memahami kata keluhanku! 
+</USFM>
 
-
-2Perhatikanlah seruanku, karena saya berdoa kepada-Mu, ya Allah, Raja-ku!
-
-
-3Engkau dengarkan saya setiap pagi waktu saya [membawa/memberikan] [persembahan/permintaan] kepada-Mu dan [menunggu/menantikan] jawaban-Mu, ya Tuhan. 
-
-
-4Memang Engkau tidak berkenan dengan kejahatan, dan orang yang jahat tidak bisa tinggal bersama-Mu.
-
-
-5Orang yang membangakan diri tidak bisa berdiri dihadapan-Mu, karena Engkau membenci semua yang jahat itu.
-
-
-6Engkau binasakan semua pembohong dan membenci pembunuh dan penipu.
-
-
-7Tetapi saya bisa masuk Rumah-Mu karena kasih-Mu yang besar dan setia. Saya sujud kepada Rumah-Mu yang suci, dan menyembah-Mu. 
-
-
-8 Ya Tuhan, karena musuhku banyak, memimpinku untuk lakukan yang benar, supaya saya [ikut jalan-Mu yang lurus/tidak ikut jalan yang sesat].
-
-
-9Musuhku tidak bicara yang benar karena hatinya seperti [neraka/tempat pembinasaan]. Kata-katanya bermanis-manis, tetapi maksudnya najis seperti kuburan.  
-
-10Ya Allah, menghukum mereka dengan cara yang mereka menjerat orang lain. Usirlah mereka pergi jauh dari-Mu karena ketidaktaatnya dan dosanya sangat banyak.
-
-
-11Tetapi biarlah semua orang yang cari lindungan dalam-Mu bergembira, dan bersorak dengan suka-cita selama-lamanya. Karena Engkaulah melindungi semua yang mencintai-Mu dan bersuka-cita pada-Mu. 
-
-
-12Memang Engkau memberkati orang yang benar, dan melindungi mereka seperti perisai dengan kebaikan hati-Mu, Tuhan. 
+~~DISCUSSIONS:on~~

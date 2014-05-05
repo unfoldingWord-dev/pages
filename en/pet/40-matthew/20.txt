@@ -1,0 +1,64 @@
+<USFM>
+
+\c 20
+\s The parable of the workers paid to work in a vineyard
+\p
+\v 1 Jesus continued His teaching, “God's kingdom can be compared to a person who owned a large vineyard. Very early one morning, he went to the market where all the daily workers usually gathered, because he was looking for some workers to work in his vineyard.
+\v 2 He met some workers and they agreed to work for the usual wage— which was one silver coin\f + \fr 20:2 \fk one silver coin \ft Literally, “one denarius.” The denarius was Roman money made of real silver. At that time, the value of one denarius was the wage of a worker for one day.\f* per day. Then he told them to work in his vineyard.
+\p
+\v 3 “Around nine o'clock in the morning, he went to the market again and met some workers who were doing nothing.
+\v 4 So he said to them, ‘Work in my vineyard, and I'll pay you a proper wage.’ They agreed and went to work in his vineyard.
+\v 5 Around twelve noon and three o'clock in the afternoon, he went and did the same thing again.
+\p
+\v 6 “About five o'clock in the evening, he went to the market again and saw some other workers there who were still doing nothing. He asked them, ‘Why're you wasting time here all day long and not working at all?!’
+\v 7 “They answered, ‘No one gave us work to do.’
+\p “So the vineyard owner said, ‘Go work in my vineyard too.’
+\p
+\v 8 “At sunset he said to his foreman, ‘Call all of the workers and pay their wages— starting with those who came last and ending with those who came first.’
+\v 9 Then all the workers who began work at five o'clock in the afternoon came and got their wages, and each of them received one silver coin.
+\v 10 But when it was time for the workers who had worked since very early in the morning to receive their wages, they thought that they would receive more than the others. As it turned out, each of them received one silver coin too.
+\v 11 So when they got it, they began to complain to the owner of the vineyard.
+\v 12 They said, ‘Sir, the workers who came last worked for only an hour, but you paid them the same wage as us, yet we've worked hard all day long under the hot sun!’
+\p
+\v 13 “But the vineyard owner answered one of them, ‘Friend, I'm not being unfair to you! Didn't you agree ahead of time to work all day long for one silver coin?!
+\v 14 So take your wages now and go home. I decided to pay the workers who came last the same wage as yours.
+\v 15 I can do whatever I want with my own money— right?! Or are you jealous because I'm being generous to someone else’
+\p
+\v 16 “In the same way, people who have a low status now will have a high status later on. And people who have a high status now will have a low status later on.”
+\s Jesus tells about His death
+\r (Mark 10:32-34; Luke 18:31-34)
+\p
+\v 17 When Jesus and we twelve disciples were on our way to Jerusalem, He brought us together privately, away from all the other followers, and said,
+\v 18 “Listen closely! We're headed for Jerusalem. There the Son of Man— who I am, will be handed over to the chief priests and Law experts. And they'll give Me the death sentence.
+\v 19 Then they'll hand Me over to the leaders who aren't Jewish. And they'll insult Me and whip Me, and then kill Me by crucifixion. But on the third day after I die, I'll be raised up again.”
+\s The request of James and John's mother
+\r (Mark 10:35-45)
+\p
+\v 20 Later the wife of Zebedee— James and John's mother, came to Jesus with her two sons, and then knelt down in front of Jesus to ask something.
+\p
+\v 21 Jesus asked her, “What do you want, Ma'am?”
+\p She answered, “When You become king, later on, and sit on the throne of the kingdom, promise that my two sons will be given the highest positions— that is one of them will sit at Your right side and the other at Your left side.”
+\p
+\v 22 Jesus answered her two sons, “You don't understand what you're requesting. Are you able to accept suffering like what I'll soon experience?”\f + \fr 20:22\fr* \fk accept … experience. \ft Literally, “drink the cup which I'll drink.”\f*
+\p They answered, “Yes, we're able to.”
+\p
+\v 23 Jesus said to them, “You'll definitely experience suffering like what I'll experience. But I don't have the right to determine who will sit at My right side or at My left side. My Father will give those two places to those whom He has determined to give them.”
+\p
+\v 24 When we the other ten disciples heard that, we were really angry with those two brothers.
+\v 25 But Jesus called to us all and said, “You know that the leaders and heads of non-Jewish people groups like to rule people harshly, and trample on their rights.
+\v 26 But you can't be like them. Instead, if one of you wants to become first, he has to take the lowest place and become your servant.
+\v 27 And whoever wants to become the number one person, has to be a slave for all the rest of you.
+\v 28 You have to follow My example. Because I— the Son of Man, didn't come to this earth to be served by other people, but to serve other people, and to give My life as a sacrifice to redeem many people from slavery to their sins.”
+\s Jesus makes two blind men able to see
+\r (Mark 10:46-52; Luke 18:35-43)
+\p
+\v 29 When Jesus and all of us left the city of Jericho, many people followed us.
+\v 30 There were two blind men sitting on the side of the road. When they heard that Jesus was passing by on that road, they began to cry out, “Lord, Descendant of David,\f + \fr 20:30 \fk Descendant of David \ft See note in Mat. 9:27.\f* have compassion on us!”
+\v 31 The crowd that followed rebuked them so that they would be quiet, but they cried out even louder, “Lord, Descendant of David, have compassion on us!”
+\v 32 Then Jesus stopped and said to the two of them, “What do you want Me to do for you?”
+\p
+\v 33 They answered, “Oh, Lord, may our eyes be able to see again.”
+\v 34 Jesus had such compassion on them, so He touched their eyes. At that very moment they could see again, and then they followed Him too.
+
+</USFM>
+~~DISCUSSIONS:on~~

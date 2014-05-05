@@ -1,19 +1,17 @@
 ====== Zechariah (NT) ======
 
 
-==== (term, other) ====
-
-
 ===== Facts: =====
 
+Zechariah was a Jewish priest who became the father of John the Baptist.
 
-    * Zechariah was the father of John the Baptist
-    * He was a priest who loved God and obeyed him.
-    * For many years Zechariah and his wife Elizabeth could not have any children. They prayed earnestly that God would give them one. When they were very old, God finally answered their prayers and gave them a son.
-    * Zechariah prophesied that his son John would be the prophet who would announce and prepare the way for the Messiah's coming.
+    * Zechariah loved God and obeyed him.
+    * For many years Zechariah and his wife, Elizabeth, prayed earnestly to have a child, but did not have one. But when they were very old, God answered their prayers and gave them a son.
+    * Zechariah prophesied that his son John would be the prophet who would announce and prepare the way for the Messiah.
 
 
-[See also: **[[:en:key-terms:term|J]]ohn the Baptist, Elizabeth**]
+[See also: **[[:en:key-terms:john-baptist|John the Baptist]]**, **[[:en:key-terms:term|Elizabeth?]]**]
+
 
 ===== Examples from the Bible stories: =====
 
@@ -22,5 +20,4 @@
   ***[[:en:obs-training:frames:22-03|[22-03]]]** Immediately, **Zechariah** was unable to speak.
   ***[[:en:obs-training:frames:22-07|[22-07]]]** Then God allowed **Zechariah** to speak again.
 
-
-~~DISCUSSION~~
+~~DISCUSSION:closed~~

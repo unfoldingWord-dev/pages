@@ -1,0 +1,36 @@
+<USFM>
+
+\c 3
+\s John the Baptist prepares God's people for Jesus' coming
+\r (Mark 1:1-8; Luke 3:1-9, 15-17; John 1:19-28)
+\p
+\v 1 When Jesus had become an adult in Nazareth, in the province of Galilee, John the Baptist began his ministry in the region of Judea's desert. He preached like this to the people who came to him,
+\v 2 “Repent of your sins, because in a short time God will come and set up His kingdom\f + \fr 3:2 \fk God … His kingdom \ft Literally, “kingdom of Heaven.” The word ‘heaven’ was often used by Jewish people so that they didn't say God's name directly.\f* on this earth.”
+\v 3 This John was actually the person whom the Prophet Isaiah meant when he prophesied,\f + \fr 3:3 \fk prophesied \ft In the Old Testament, to prophesy meant to tell news from God about an event which would come, or to give a certain teaching from God. The one who gave it was usually a prophet. In the New Testament, there is also the gift or special ability to prophesy— which is to speak or teach according to what's received from God's Spirit.\f*
+\q1 “A person will come later on who'll call out with a loud voice in the desert like this:
+\q1 ‘Let's prepare ourselves for the Lord's coming! And let's get ready to meet Him!’”\f + \fr 3:3 \fk quoted \ft from Is.40:3 The second line is literally, “‘Prepare the way for the Lord! Straighten the way for Him!’”\f*
+\p
+\v 4 John's way of life was like the Prophet Elijah's in times past. John's clothing was made of camel's hair and his belt was made of animal's skin. And John often ate grasshoppers and honey.
+\v 5 Then a crowd came to him from Jerusalem, from all over the province of Judea, and from all of the region around the Jordan River.
+\v 6 When John gave his teaching, many people usually confessed their sins, and then he baptized them in the Jordan River.
+\p
+\v 7 But it also happened that many people from the religious groups called Pharisees\f + \fr 3:7 \fk religious group called Pharisees \ft The Pharisees were a group of Jews who always maintained that all the rules of Moses, and those which were added by the Jewish forefathers, had to be followed exactly. Because of that, many of them bragged about themselves like this, “We're the ones who're very pleasing in the sight of God.” For that reason, most of them didn't like Jesus either, because He didn't join their group, and they were envious because many people followed him. Jesus rebuked the Pharisee group along with the Law experts in Mat. 23, because they only pretended to be good.\f* and Sadducees\f + \fr 3:7 \fk Sadducees \ft The Sadducee group was a group of Jewish religious leaders. They only believed in the first five books of the Old Testament— which are the books written by Moses: Genesis, Exodus, Leviticus, Numbers, and Deuteronomy. They believed that man doesn't live again after death. They rejected the idea of resurrection of the dead. See Mark 12:18 and Acts 23:8.\f* came along to be baptized. When John saw that, he rebuked them, “Hey, you descendants of poisonous snakes! You think that by just being baptized you can escape the punishment of God which will soon come!
+\v 8 If you've genuinely repented, show it through the way each of you lives.
+\v 9 And don't say in your hearts, ‘I'll escape God's punishment because Abraham is my forefather,’ because I'm telling you that God is able to create descendants for Abraham from these stones.
+\v 10 Like a farmer who chops down and burns a tree that never bears fruit, God is ready to do away with our people now, and throw them into the fire, in the same way!\f + \fr 3:10 \fk Verse 10 \ft Literally, (with implicit information), “The axe, (which illustrates God's punishment), has been prepared to chop down the grapevine, (which illustrates the people of Israel), to its roots. Every vine which doesn't produce good fruit will be cut down and thrown into the fire.” Because of the words of two prophets, this illustration was natural for the people who heard John preach. In Jer. 2:21, Israel was illustrated as a grapevine that didn't produce good fruit. And in Eze. 15, Israel was illustrated as a grapevine which was useless, because it wasn't faithful to the Lord.\f*
+\p
+\v 11 “I'm just baptizing you with water, which shows that you've repented. But a Person will come after me, who's more powerful than I am. I'm actually not worthy to serve Him, not even to simply carry His sandals. He's the one who'll baptize you with the Holy Spirit and with fire.
+\v 12 Repent, because this world is like a broad field that's ready to be harvested! The good and bad produce will be separated, because the One who's coming after me will judge this world and separate those of you who're evil from those who're righteous! The righteous will live with Him, but all evil people will be thrown into the fire of hell, which never goes out.”\f + \fr 3:12 \fk Verse 12 \ft Literally, (with implicit information), like this, “The threshing tool and winnowing basket are already in His hand, (illustrating God's punishment). After the harvest, (which is all the people of the world), He'll use His tools to separate the wheat, (illustrating good people), from the skin of the wheat and other dirt, (illustrating evil people). Then He'll keep the wheat in the storehouse, whereas He'll burn the rest in the fire that never goes out.” What's translated above as, ‘threshing tool and winnowing basket,’ is literally a ‘winnowing fork’, which is a tool like a shovel or a large fork used to separate the wheat from its outer skin. This verse can be compared with Mat. 25:31-46 and Rev. 14:14-20.\f*
+\s John baptizes Jesus
+\r (Mark 1:9-11; Luke 3:21-22; John 1:32-34)
+\p
+\v 13 Then Jesus left Galilee to go to the Jordan River and asked John to baptize Him.
+\v 14 But John felt that he himself wasn't worthy to do it, so he said, “I should be the one being baptized by You, Sir. It's really amazing that You would ask me to do that!”
+\p
+\v 15 But Jesus answered, “You should be the one to do it at this time, because in that way we'll fulfill everything that God desires.” Then John baptized Him.
+\p
+\v 16 After Jesus was baptized, at the very moment He came out of the river, the sky suddenly opened and Jesus saw the Spirit of God descend on Him, like a dove that came down and landed on Him.
+\v 17 Then a voice was heard from heaven saying, “This is My Son, whom I love very much. He's the one who pleases My heart.”
+
+</USFM>
+~~DISCUSSIONS:on~~

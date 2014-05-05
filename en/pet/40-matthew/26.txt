@@ -1,0 +1,141 @@
+<USFM>
+
+\c 26
+\s The Jewish leaders plan to kill Jesus
+\r (Mark 14:1-2; Luke 22:1-2; John 11:45-53)
+\p
+\v 1 After Jesus finished teaching all of those things, He said to us disciples of His,
+\v 2 “You know that Passover Day will be in two more days. At that time I— the Son of Man, will be handed over to My enemies to be crucified.”
+\p
+\v 3 On the same day, the chief priests and Jewish elders got together at the palace of Caiphas— the high priest.
+\v 4 They secretly made plans for how to arrest and kill Jesus.
+\v 5 But they said, “Let's not arrest him during Passover, because it would be dangerous if a riot occured between us and the crowd that likes Jesus.”
+\s A woman pours perfume on Jesus' head
+\r (Mark 14:3-9; John 12:1-8)
+\p
+\v 6 While Jesus was in Bethany, in the house of Simon, who was also called The Leper,\f + \fr 26:6 \fk The Leper \ft Many expert commentators say that it's likely that this Simon had already been healed of his disease before this time. The disease of leprosy in Bible times wasn't the same as what's called leprosy today. See the note about skin diseases in Matt. 8:2.\f*
+\v 7 a woman came to Him carrying a bottle\f + \fr 26:7 \fk a bottle \ft The bottle mentioned was made from a type of white stone that's called alabaster.\f* of very expensive perfume. Then, while Jesus was eating, the woman poured that perfume on Jesus' head.
+\v 8 But when we disciples of His saw that, we became angry and said, “Why was that perfume just wasted like that?!
+\v 9 If we had sold that perfume, we could have gotten a lot of money, of course, and then we could have distributed that money to poor people.”
+\p
+\v 10 But Jesus knew what we were saying, so He said to us, “You don't need to rebuke this woman, because she's done a good deed for Me!
+\v 11 For there are always opportunities for you to help poor people,\f + \fr 26:11 \fk Verse 11a \ft Jesus almost quoted Deut. 15:11.\f* but I won't always be with you.
+\v 12 So actually, by anointing My body, she has prepared Me to be buried.\f + \fr 26:12 \fk prepared Me to be buried \ft The Jews usually put perfumed oils and spices on the body of a dead person before burial (as in Mark 16:1). But this woman (Mary) probably didn't know that Jesus would die. She poured perfumed oil on Jesus' body because she loved Him, and maybe because she wanted to honor Him and thank Him, especially because Jesus had raised her brother Lazarus from the dead. (John 11:38–44; 12:1–8).\f*
+\v 13 I'm telling you the truth: When the Good News about Me is spread throughout the whole world, what was done by this woman now will continue to be told, so that she'll never be forgotten.”
+\s Judas betrays Jesus
+\r (Mark 14:10-11; Luke 22:3-6)
+\p
+\v 14 Then Judas from the village of Cariot, one of His twelve disciples, went to meet the chief priests
+\v 15 and asked, “What will you give me if I hand Jesus over to you?” Then they gave him thirty silver coins.
+\v 16 And from that moment on, Judas looked for an opportunity to hand Jesus over to them.
+\s Jesus gives food as a reminder of His body and blood
+\r (Mark 14:21-26; Luke 22:7-23; John 13:21-30; 1 Cor. 11:23-25)
+\p
+\v 17 On the first day of the Passover Celebration,\f + \fr 26:17 \fk Passover Celebration \ft Literally, “Celebration of Unleavened Bread”— translating just one word in the Greek language. The “Celebration of Unleavened Bread” began on Passover Day and continued for eight days— including two Sabbath days. The two celebrations were combined. See Ex. 12; Luke 22:1.\f* we came to Jesus and said, “Where do You want us to prepare the Passover meal for us to eat?”
+\p
+\v 18 Then Jesus answered, “Go to our friend in Jerusalem. Say to Him, ‘Sir, our Teacher sends this news: My time has come. And I want to celebrate the Passover with My disciples in your house.’”
+\v 19 Then some of us disciples of His were instructed to go and prepare the food for the Passover Celebration, just like He had commanded.
+\p
+\v 20 After night came, Jesus ate with us.
+\v 21 While we were eating, He said, “I'm telling you the truth: One of you will sell Me to My enemies.”
+\p
+\v 22 That made our hearts really sad. Then each of us began saying to Him, “For sure, that isn't me, Lord?!”
+\p
+\v 23 Jesus answered, “The person who dips his bread into the bowl with Me is the one who will sell Me.
+\v 24 Of course, I— as the Son of Man, will die according to what's written in the Holy Bible. But the man who hands Me over to My enemies is so unfortunate. It would be better if that man had never been born!”
+\v 25 Then Judas, who had already sold Him, and would soon hand Him over said, “Not me, right?”
+\p Jesus answered, “You said so.”
+\p
+\v 26 While we were still eating, Jesus took a piece of bread, and gave thanks to God for the bread. Then He broke it, and while giving it to us disciples of His, He said, “Take this bread and eat it. This is My body.”
+\p
+\v 27 After that, Jesus took a cup filled with wine, then He gave thanks to God, and while giving it to us He said, “Each of you, drink from this cup.
+\v 28 This is My blood— which will be poured out for many people, so that their sins will be forgiven. The blood of My death is the sign that a new promise between God and man has become official.
+\v 29 I'm telling you the truth: From now on I won't drink wine like this again, until the time comes when the kingdom promised by My Father is visible. At that time, I'll drink new wine with you.”
+\p
+\v 30 Then we sang a song of praise to God, and after that we went to the Mount of Olives.
+\s Jesus says outright that Peter will deny Him
+\r (Mark 14:27-31; Luke 22:31-34; John 13:36-38)
+\p
+\v 31 Then Jesus said to us disciples of His, “Tonight you'll all stop believing in Me and leave Me, because it has to happen as it's written in the Holy Bible— where God says,
+\q1 ‘I'll strike and kill the Shepherd.
+\q2 At that time, His sheep will run here and there.’\x + Zech. 13:7\x*
+\m
+\v 32 But after God raises Me up again from the dead, I'll go ahead of you to Galilee.”
+\p
+\v 33 Then Peter said, “Maybe our other friends will stop believing and leave You, but I won't!”
+\p
+\v 34 Jesus answered, “I'm telling you the truth: Tonight before the rooster crows, you'll have said this about Me three times, ‘I don't know that person.’”
+\p
+\v 35 Then Peter said, “If I really have to die with you, I'm ready, because I won't say that I don't know You!” And all of the rest of us said the same thing.
+\s Jesus prays alone in the garden of Gethsemane
+\r (Mark 14:32-42; Luke 22:39-46)
+\p
+\v 36 After Jesus and we disciples got to the garden called Gethsemane, He said to us, “Sit here first, because I want to go and pray.”
+\v 37 Then He told James and John— the two sons of Zebedee, and Peter to follow Him. At that time Jesus felt very sad, and His heart was really troubled.
+\v 38 Then He said to them, “My heart is really very sad. It feels like it's dying. Stay here and keep alert with Me while praying.”
+\p
+\v 39 Then He went a little farther away from them, and knelt down and prayed. He said, “Oh My Father, if possible, don't let Me go through this suffering!\f + \fr 26:39 \fk don't … go through this suffering \ft Literally, “take this cup far away from Me.”\f* But don't let it happen according to My will, but may it happen as You desire.”
+\v 40 After praying like this, He returned to the three of His disciples and saw that they were sleeping. Then He said to Peter, “You obviously aren't able to keep alert while praying with me for even just one hour!
+\v 41 Keep alert and pray so that none of you sins when you're tempted by the devil. Of course your spirits want to do what's good, but your bodies aren't able to.”
+\p
+\v 42 For the second time, Jesus went to pray again, “My Father, if it isn't possible for Me to avoid this suffering, then may it happen according to Your will.”
+\p
+\v 43 When He came back, He saw them sleeping again, because they were very sleepy.
+\v 44 So He left them there again, and went to pray for the third time. He prayed the same thing again.
+\v 45 After that He went back to His disciples and said, “So you're still sleeping and resting— huh! That's enough! Look, the time has come! Now I— the Son of Man, will be turned over into the hands of sinners.
+\v 46 Wake up! Let's go. Look, the person handing Me over to My enemies has come!”
+\s Jesus is arrested
+\r (Mark 14:43-50; Luke 22:47-53; John 18:3-12)
+\p
+\v 47 While Jesus was still speaking, Judas— one of us twelve disciples, came as a guide for the crowd who brought swords and wooden clubs. They were the people sent by the chief priests and Jewish leaders.
+\v 48 Before that, Judas had told them this, “The person I hug is Jesus. Arrest him!”
+\v 49 As soon as Judas got there, he approached Jesus and said, “Greetings, Teacher.” Then he hugged Jesus.\f + \fr 26:48-49 \fk hug/hugged Jesus \ft Literally, “kissed.” This was the natural way for Jewish people to greet each other.\f*
+\p
+\v 50 Jesus answered, “Hey friend, do what you've planned to do.”
+\p Then those people quickly approached Jesus and arrested Him.
+\v 51 Then suddenly one of us who was with Jesus pulled out his sword and attacked the high priest's slave, but he just cut off one of the slave's ears.
+\p
+\v 52 Then Jesus said to our friend, “Put your sword back in it's sheath! Because whoever kills a person with the sword will be killed with a sword too.
+\v 53 Don't forget that I have authority to ask My Father for help, and He's ready to quickly send more than twelve batallions\f + \fr 26:53 \fk batallion \ft in the Greek language it's called, “legion.” One Roman legion consisted of about 5,000 soldiers.\f* of angels to help Me.
+\v 54 But if I did that, then what was prophesied in the Holy Bible about Me wouldn't be fulfilled.”
+\p
+\v 55 Then Jesus said to the crowd, “So you think I'm a criminal, huh— so that you have to bring swords and wooden clubs here?! Yet every day I sat teaching in the courtyard of God's Temple, so why didn't you arrest Me there?
+\v 56 But all of this is happening so that what was foretold by the prophets would be fulfilled.” Then all of us disciples of His ran away, leaving Him alone.
+\s Jesus is brought before the council of the Jewish Religious Court
+\r (Mark 14:53-65; Luke 22:54-55, 63-71; John 18:13-14, 19-24)
+\p
+\v 57 After that, those who arrested Jesus brought Him to the house of Caiaphas— the high priest. Then the Law experts and the Jewish leaders got together there.
+\v 58 But Peter followed Jesus from far behind until he entered the yard of the high priest's house. There he sat with the high priest's guards, so that he could find out what would happen to Jesus.
+\p
+\v 59-60 At that time, the chief priests and the entire Religious Court tried to prove that Jesus had done wrong, so that according to the Law they could give Him the death sentence. For that reason they looked for, and found some men who were on their side, who were ready to give false testimonies about Jesus. But even though quite a few people came forward and gave testimonies. But even though quite a few people came forward and gave testimony, what they said was different than the others. Because of that, the Court council didn't succeed in proving anything wrong with Jesus. There were finally two people who came forward to testify.
+\v 61 They said, “This man said, ‘I can tear down God's Temple and in just three days I'll rebuild it.’”
+\p
+\v 62 Then the high priest stood and said to Jesus, “Why don't you answer?! Many people have testified about your wrongdoings.”
+\v 63 But Jesus just remained silent.
+\p Then the high priest said to Him again, “In the name of the living God, I order you to answer truthfully: Are you the Christ,\f + \fr 26:63 \fk Christ \ft See note in Mat. 1:16.\f* God's Son?”
+\p
+\v 64 Jesus replied to him, “You're right. And I'm telling you that from now on you'll see Me, as the Son of Man,\f + \fr 26:64 \fk Son of Man \ft See the note in Mat. 9:6. What Jesus said about Himself is quoted from Ps. 110:1 and Dan. 7:13.\f* sitting in the most honored place next to the Almighty. And when I return from heaven, you'll see Me coming in the clouds.”
+\p
+\v 65 When the high priest heard that, he tore the tunic\f + \fr 26:65 \fk tore the tunic \ft In Jewish culture, tearing one's tunic was a sign of great sadness or true disagreement. In Mark 14:63, Mark used words in the Greek language to show that the tunic torn was a thin inner garment— not his robe, the thick outer garment. (Gen. 37:34, Josh. 7:6, 2 Sam. 1:11, 2 Kings 18:37, 19:1)\f* he was wearing, and said, “He has insulted God! Why should we look for any more testimonies?! Now you've heard him insult God for yourselves!
+\v 66 So what's your decision?”
+\p They answered, “He's guilty and must be given the death sentence!”
+\p
+\v 67-68 After that, there were some of them who spit in Jesus' face and slapped Him. They covered His eyes with a piece of cloth, and while hitting Him, they said, “Hey Christ! If you're a prophet, try to guess the name of the person who just hit you?!”
+\s Peter says that he doesn't know Jesus
+\r (Mark 14:66-72; Luke 22:56-62; John 18:15-18, 25-27)
+\p
+\v 69 While that was happening, Peter was sitting in the yard of that house. Then a servant girl approached him and said, “You're one of Jesus the Galilean's followers— right?!”
+\p
+\v 70 But Peter denied it in front of all of them, saying, “I don't understand what you said.”
+\p
+\v 71 Then he went to the gate in the yard, and another servant girl saw him and said to some people who were there, “This man was a follower of Jesus, the Nazarene.”
+\p
+\v 72 Peter again denied it by swearing, “May the Lord witness what I'm saying: I don't know that man!”
+\p
+\v 73 Not long after that, the people who stood there said, “It's true! You're one of them, because from your accent we know that you're a Galilean too.”
+\p
+\v 74 Then Peter began to say, “I don't know that man! If I'm lying, may the Lord in heaven punish me!” The very moment he said that, a rooster crowed immediately.
+\v 75 And Peter quickly remembered that Jesus had said, “Tonight before the rooster crows, you'll have said this about Me three times, ‘I don't know that man.’” Then Peter went out of the yard of that house, and cried because he was so sad.
+
+</USFM>
+~~DISCUSSIONS:on~~
