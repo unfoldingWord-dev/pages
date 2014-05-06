@@ -1,0 +1,10 @@
+This page shows the example tagged pages in the playground:
+
+**pages tagged with "tag1"**
+
+{{topic>[tag1]}}
+
+
+**pages tagged with "tag2"**
+
+{{topic>[tag2]}}

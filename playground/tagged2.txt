@@ -1,0 +1,4 @@
+this page is tagged with "tag2"
+
+
+{{tag>[tag2]}}
