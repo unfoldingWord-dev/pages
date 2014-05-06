@@ -3,11 +3,10 @@
 
 ===== Definition: =====
 
-A cross is an upright wooden post stuck into the ground, with a horizontal wooden beam bar attached to it near the top.
+A cross is an upright wooden post stuck into the ground, with a horizontal wooden beam attached to it near the top.
 
   * The Roman government would tie or nail criminals onto crosses and leave them there to die.
   * Jesus was falsely accused and judged to be guilty of crimes he did not commit. The Romans killed him on a cross.
-  * Long before the Romans were in power, people used to hang people on trees to kill them. Since a wooden cross looks something like a tree and is also used for execution, a cross is sometimes called a "tree."
 
 
 [See also: **[[:en:key-terms:crucify|crucify]]**, **[[:en:key-terms:rome|Rome]]**]
@@ -15,7 +14,6 @@ A cross is an upright wooden post stuck into the ground, with a horizontal woode
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:en:obs-training:frames:21-12|[21-12]]]** Then he (Messiah) would be pierced and hung on a **tree** where he would die.
   ***[[:en:obs-training:frames:40-01|[40-01]]]** After mocking Jesus, the soldiers led him away to be crucified. They made him carry his own **cross**.
   ***[[:en:obs-training:frames:40-02|[40-02]]]** The soldiers brought Jesus to a place called “The Skull” and nailed his arms and feet to the **cross**.
   ***[[:en:obs-training:frames:40-05|[40-05]]]** The crowd and the Jewish leaders mocked Jesus, saying, “If you are the Son of God, come down from the **cross** and save yourself! Then we will believe you.”
