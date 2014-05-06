@@ -2,11 +2,12 @@
 
 {{:en:obs:obs-37-04.jpg?nolink&640x360}}
 
-When **[[:en:key-terms:jesus|Jesus]]** arrived at **[[:en:key-terms:lazarus|Lazarus']]** hometown, Lazarus had already been **[[:en:key-terms:death|dead]]** for four days. **[[:en:key-terms:martha-sister|Martha]]** **went out to meet Jesus** and said, “**[[:en:key-terms:lord|Master]]**, if only you had been here, **my brother would not have died**. But I **[[:en:key-terms:believe|believe]]** **[[:en:key-terms:god|God]]** **will give you whatever you ask from him**.”
+When **[[:en:key-terms:jesus|Jesus]]** arrived at **[[:en:key-terms:lazarus|Lazarus']]** hometown, Lazarus had already been **[[:en:key-terms:death|dead]]** for four days. **Martha** **went out to meet Jesus** and said, “**[[:en:key-terms:lord|Master]]**, if only you had been here, **my brother would not have died**. But I **[[:en:key-terms:believe|believe]]** **[[:en:key-terms:god|God]]** **will give you whatever you ask from him**.”
 
 
 ===== Translation Notes: =====
 
+  * **Martha** - Martha was the sister of Lazarus and Mary. See **[[:en:obs:notes:frames:37-01|[37-01]]]**.
   * **went out to meet Jesus** – That is, “went to meet Jesus as he was coming into the town.” 
   * **my brother would not have died.** - That is, “you would have healed my brother and he would not have died” or, “you could have prevented my brother from dying.”
   * **will give you whatever you ask from him** – That is, “will do whatever you ask him to do.”
