@@ -1,0 +1,96 @@
+<USFM>
+
+\c 23
+\s Govenor Pilate examines Jesus
+\r (Matt. 27:1-2, 11-14; Mark 15:1-5; John 18:28-38)
+\p
+\v 1 Then all of the members of the council stood up, and they took Jesus to be presented to Pilate.
+\v 2 They began to accuse Jesus there by saying, “This man is leading our people astray, stirring up the people so that they won't pay taxes to the Roman kingdom, and claiming that he's the Christ— who's the king of the Jews.”
+\p
+\v 3 Then Pilate asked Jesus, “Is it true that you're the king of the Jews?”
+\p Jesus answered, “It's as you say.”
+\p
+\v 4 Then Pilate said to the chief priests and the crowd, “I don't find any fault at all in this man.”
+\p
+\v 5 But they pressured Pilate even more by saying, “Through his teaching he has stirred up the citizens in all of Judea to revolt— beginning in Galilee, and now it has reached here.”
+\p
+\v 6 On hearing that, Pilate asked, “Is this man a Galilean?”
+\v 7 When he knew that Jesus came from the district of King Herod's authority, he ordered someone to take Jesus to Herod— who happened to be in Jerusalem at that time.
+\s King Herod examines Jesus
+\p
+\v 8 Herod had wanted to see Jesus for a long time, because he had heard many things about Jesus. So he was very glad to see Jesus, and hoped to see Jesus do some miracle.
+\v 9 Herod asked Him many questions, but Jesus didn't answer him at all.
+\v 10 But at the same time, the chief priests and experts of the Law stood near Jesus and kept throwing accusations at Jesus.
+\v 11 So Herod and His soldiers also insulted Him and made fun of Him. While Herod was making fun of Jesus being a king, he ordered them to put a beautiful robe on Jesus. So while He was still wearing that robe, Herod ordered his soldiers to take Jesus back to Pilate.
+\v 12 And from that time, Herod and Pilate became close friends, because before that they had hated each other.
+\s Pilate turns Jesus over to be sentenced to death
+\r (Matt. 27:15-26; Mark 15:6-15; John 18:39-19:16)
+\p
+\v 13 Then Pilate gathered the chief priests, members of the Religious Council, and the people.
+\v 14 He said to them, “You brought this man to me with the accusation that he stirs up the people to revolt. But when I examined him in front of you, I didn't find any fault like what you accused him of.
+\v 15 And Herod also didn't find any fault with him. That's why Herod ordered that Jesus be brought back here to us. Jesus has really done no wrong at all which makes him deserve the death penalty.
+\v 16-17 So I'll order my soldiers to whip him. After that I'll release him.”\f + \fr 23:17 \fk Verse 17 \ft Several ancient copies add these words: “For at every Passover Day, Pilate was required to release a prisoner to the citizens.” After several centuries these words were counted as verse 17, but most of the copy experts think that these words weren't written by Luke, but were added as an explanation. Those words were taken from Matt. 27:15 and Mark 15:6 by the people who made those copies.\f*
+\p
+\v 18 However, all the people who were gathered there cried out, “Kill him! Release Barabbas to us!”
+\v 19 (Barabbas was in prison because he'd caused a revolt and a riot in that city, and because he was involved in killing someone in that riot.)
+\p
+\v 20 Pilate wanted to release Jesus, so he spoke again to the crowd in a loud voice.
+\v 21 But they kept crying more and more loudly, “Crucify him! Crucify him!”\f + \fr 23:21 \fk Crucify him! \ft At the time of Jesus, the government of Rome used a special way to carry out the death penalty for criminals— that is by crucifixion. They made a cross from two beams of wood in the shape of the letter T. Before a criminal was crucified, he was whipped until almost dead, then he was nailed with long nails to a cross. His two hands were lifted up and nailed to the left and right of the cross. His two feet were also nailed to the cross. Then the cross was erected by planting it in a hole in the dirt or in a large stone. A person who was crucified on a cross didn't usually die immediately. He might live for hours or days, and suffer terribly. A person who was sentenced to death by crucifixion didn't only suffer in a physical way, but was also deeply shamed, because criminals who got that sentence were always crucified naked, and the people who passed by would insult and make fun of them. The death sentence by crucifixion was never applied to citizens of the kingdom of Rome, but only applied to slaves or people from other countries that were colonized by the kingdom of Rome.\f*
+\p
+\v 22 And for the third time, Pilate asked them, “What evil did this man do?! There's no wrong that he's done that makes him deserve the death penalty. Because of that I'll order my soldiers to whip him. After that I'll release him.”
+\p
+\v 23 But they cried more loudly to pressure and demand that Jesus be crucified. And finally they won because of their loud shouting.
+\v 24 Pilate did, in fact, give the death sentence to Jesus according to the crowd's demand.
+\v 25 That decision wasn't really fair, of course, because he released Barabbas— who was imprisoned for causing a riot and being involved in a murder, just based on their demands, whereas he turned Yesus over to them to do according to their hearts' desire.
+\s Jesus is crucified
+\r (Matt. 27:32-44; Mark 15:21-32; John 19:17-27)
+\p
+\v 26 After Jesus was whipped,\f + \fr 23:26 \fk After … whipped \ft This phrase completes this story according to what's written in Mat. 27:26-31 dan Mrk. 15:16-20. It's likely that Lukas didn't need to write about Jesus being whipped because the readers of his day knew that people who received a death sentence by crucifixion were always whipped.\f*the Roman soldiers took Him out of the city of Jerusalem. Jesus himself was carrying His cross. But when the soldiers saw someone named Simon— who came from the city of Cyrene, and just happened to enter the city, they forced\f + \fr 23:26 \fk forced \ft In all the provinces that became colonies of the Roman government, all Roman soldiers were allowed to order the people to carry anything at all. This event shows that Jesus was no longer able to carry His cross Himself.\f* him to carry Jesus' cross while walking behind Jesus.
+\v 27 A large crowd followed behind Jesus, among whom were women who cried and mourned because of His suffering.
+\v 28 But Jesus turned to them and said, “You women of Jerusalem, don't cry for Me, but cry for yourselves and for your children.
+\v 29 For the time will come when God will punish this city. And at that time, people will say, ‘Blessed are the barren women who were never pregnant, never gave birth and never nursed.’
+\v 30 For the suffering that will happen at that time will be so awful that all the residents of this region will cry out, ‘Oh mountains and hills, collapse and fall on us quickly!’\x + Hos.10:8\x*
+\v 31 For if the people treat Me like this now, just imagine what more evil will be done by man when that time comes!”\f + \fr 23:31 \fk Verse 31 \ft Apparently Jesus is expressing a proverb that was used at the time. He literally said, “For if when a tree is still young they do such (evil) things, try to imagine what they will do when that tree is already old!”\f*
+\p
+\v 32 The soldiers also brought two criminals who were sentenced to death, in order to crucify the two of them with Jesus.
+\v 33 After arriving at the place called, “The Skull,”\f + \fr 23:33 \fk The Skull \ft The name Golgotha— which means 'the place of the skull', in the everyday Hebrew language. In the language of Rome/Latin, it was called 'Calvary'. That hill was on the north side of Jerusalem. The hill wasn't named because of human skulls left there. It happened that there was a stone formation on that hill that stuck out, and looked like a large skull.\f* the soldiers crucified Jesus, and the two criminals too— one person was crucified on His right side, and the other person on His left side.
+\p
+\v 34 [ Then Jesus said, “Father, forgive these people. For they don't know what they're doing.” ]\f + \fr 23:34 \fk Verse 34A \ft The words in brackets aren't found in some ancient copies in the Greek language.\f*
+\p Then the soldiers divided His clothes by casting lots.\f + \fk 23:34 \fk divided … lots \ft These words look like Ps. 22:18.\f*
+\v 35 The crowd standing there witnessed all of those events. The Jewish leaders kept making fun of Him by saying, “He saved other people. If he's really the Christ who was chosen and sent by God, let him save himself now.”
+\p
+\v 36 The soldiers also mocked Him. They approached Him several times and offered sour wine to Him,
+\v 37 while saying, “If you're really the king of the Jews, save yourself!”
+\v 38 Also, on the top of the cross— that is above His head, the soldiers had attached a notice, “This is the king of the Jews.”
+\p
+\v 39 One of the criminals who was crucified there also began to insult Jesus by saying, “You're the Christ— right? Save yourself and us!”
+\p
+\v 40 The other criminal rebuked him saying, “Why do you say that?! You obviously don't fear and respect God! Even though the three of us have received the same death sentence,
+\v 41 yet only two of us deserve that punishment because of the evil we've done. However Jesus didn't do anything wrong at all!”
+\v 42 Then he said to Jesus, “Oh Jesus, please remember me when You begin to rule as King!”
+\p
+\v 43 Jesus answered him, “I'm telling you sincerely, starting today you'll be with Me in heaven.”
+\s Jesus dies
+\r (Matt. 27:45-56; Mark 15:33-41; John 19:28-30)
+\p
+\v 44-45 At about twelve o'clock noon, the sun suddenly stopped shining, so the whole land became dark until three o'clock in the afternoon. Another miracle that happened is that the curtain which always hung in the doorway of the Holy Room\f + \fr 23:45 \fk curtain … Holy Room \ft That curtain was a thick cloth which was always attached in the doorway of the Holy Room. Which curtain is actually meant isn't clear— whether it's the curtain in the doorway to enter the Holy Room, or the curtain that divided the Holy Room from the Most Holy Room. The spiritual meaning of this miracle is explained in Hebrews 9— which is that there's nothing in the way anymore that separates man from meeting with God. (See Ex. 26:31-33; Heb. 9:1-8.)\f* in the temple tore by itself from top to bottom becoming two pieces.
+\v 46 Then Jesus cried out with a loud voice, “Father, I surrender Myself to You.”\x Ps. 31:6\x* After saying that, He let out his last breath.
+\p
+\v 47 When the officer who led the previously mentioned soldiers saw that happen, he praised God by saying, “This man was really not guilty.”
+\p
+\v 48 On seeing those things, the whole crowd that had gathered to watch the death of the three men went home with very sad and regretful hearts.\f + \fr 23:48 \fk with very sad and regret filled hearts \ft Literally, “with (each) beating his breast.” In Jewish culture, beating one's breast was a sign of deep sadness, mourning, and regret. See also Luke 18:13.\f*
+\v 49 But all of His close friends, including the women who accompanied Him from Galilee, stood far off while witnessing all of those events.
+\s Jesus' body is buried
+\r (Matt. 27:57-61; Mark 15:42-47; John 19:38-42)
+\p
+\v 50-51 There was a man named Joseph who came from the city of Arimathea, in the province of Judea. He was a good and honest man, and he was waiting for the time when God would set up His kingdom in reality on this earth. He was a member of the Jewish Religious Council, but he hadn't agreed with the decision and actions of that council against Jesus.
+\v 52 So soon after Jesus died, Joseph went before Pilate in order to be permitted to bury the body of Jesus.
+\v 53 With Pilate's permission, Joseph and some other people took His body down, and wrapped Him with a cloth shroud that was made from linen. Then they placed Him in a tomb which was made like a cave in a hill of rock. The tomb was still new, and had never been used.
+\v 54 Those things were done on Friday when the Sabbath Day had almost started.
+\p
+\v 55 The women who had accompanied Jesus from Galilee followed Joseph from a distance, saw Jesus' tomb, and also how Joseph laid the body of Jesus there.
+\v 56 Then they returned to Jerusalem to prepare fragrant spices and oil of myrrh for wrapping the body of Jesus properly, according to Jewish custom. And on the Sabbath day, they rested in obedience to the Law.
+
+</USFM>
+
+~~DISCUSSIONS:on~~

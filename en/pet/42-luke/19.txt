@@ -1,0 +1,89 @@
+<USFM>
+
+\c 19
+\s Zacchaeus meets Jesus and repents
+\p
+\v 1 Then Jesus and His disciples entered the city of Jerico and continued their journey through that city.
+\v 2 In that city there was a head tax collector who was rich, named Zacchaeus.
+\v 3 He wanted to see Jesus' face, but couldn't because too many people were pressing in around Him, and he was also short.
+\v 4 For that reason he ran ahead of the crowd and climbed a fig tree, so that he could see Jesus— who was to pass on the road under that tree.
+\v 5 When Jesus came to that place, He looked up and said to him, “Zacchaeus, get down quickly, because God wants me to stay at your house today!”
+\p
+\v 6 He got down from the tree quickly, and with gladness he received Jesus at his house.
+\v 7 On seeing that happen, everyone complained and said, “Eeew! He's going to stay at the home of a sinner.”\f + \fr 19:7 \fk sinner \ft See the note in Luke 3:12.\f*
+\p
+\v 8 But Zacchaeus stood and said to Jesus, “Oh Lord, I will give half of my possessions to poor people. Whoever I've cheated of his taxes, I'll return four times more to him.”
+\p
+\v 9 Then while the crowd was still listening, Jesus said to him, “Today God is working to save you and your family. Today it has become clear that you're also a descendant of Abraham!
+\v 10 For of course, the Son of Man— who I am, was sent by God to seek and save people who've wandered off.”
+\s The parable about faithful and unfaithful slaves
+\r (Matt. 25:14-30)
+\p
+\v 11 At Jericho, Jesus' group was nearing their destination, because Jerusalem is close to Jericho. Many people thought that when Jesus arrived in Jerusalem, He would quickly set up God's kingdom, and the land of Israel would be free from the colonization of Rome. Because of that, He told this parable:
+\v 12 “There was a nobleman who went far away to the capital of the kingdom to be appointed as king over his district. After that, He would return to rule there.
+\v 13 Before he left, he called ten of his slaves and gave each of them one large gold coin.\f + \fr 19:13 \fk large gold coin \ft Literally, “mina.” One mina of Greek money was the same as the wages of a worker for one hundred days.\f* He said to them, ‘While I'm gone, use this coin as your capital to do business.’
+\v 14 But the residents of that land hated the nobleman. After he left, they sent messengers to the high king who planned to appoint him as regional king to say, ‘We don't want this man to become king over us.’
+\p
+\v 15 Even so, the nobleman was still appointed king. When he returned to his district, he ordered someone to call his slaves who had received that money, so that he could hear each of their reports about how much profit they had gotten from their business ventures.
+\v 16 The first slave came and said, ‘Oh king, I started business with the one gold coin that you gave me, and I've produced ten more gold coins.’
+\v 17 The king said to him, ‘Great! You're a good slave! Because you can be trusted with a small responsibility, you'll rule over ten cities.’
+\p
+\v 18 Then the second slave came and said, ‘Oh king, I started a business with the gold coin that you gave me. I've produced five more gold coins.’
+\v 19 The king also said to him, ‘You'll rule over five cities.’
+\p
+\v 20 Then another slave came and said, ‘Oh king, this is the gold coin that you gave me. I kept it in a piece of cloth.
+\v 21 I was afraid of you, because you're a harsh man who takes much from the labor of other people. For example, you harvest in places that you've never planted, and you take produce from places where you've never scattered seed.’
+\p
+\v 22 The king said to him, ‘Hey, you useless slave! I will judge you according to your own words. You know that I'm a ‘harsh’ man who takes much from the labor of other people.
+\v 23 If so, you should have saved my money in the bank, so that when I returned, I could get my money back with interest.’
+\v 24 Then the king said to the people standing near him, ‘Take that money from him and give it to my slave who produced ten gold coins.’
+\p
+\v 25 But those people said to the king, ‘Whoa, king, don't do that! That man already has ten gold coins!’
+\p
+\v 26 The king answered, ‘I'm telling you sincerely: Everyone who faithfully uses what God has given to him, will be given more. But for everyone who doesn't faithfully use what was given to him, what he still has will be taken away.
+\v 27 But now regarding those who hate me and who didn't want me to become king: Bring all of them here in front of me and kill them!’”
+\s Jesus is welcomed in Jerusalem as a king
+\r (Matt. 21:1-11; Mark 11:1-11; John 12:12-19)
+\p
+\v 28 After telling that parable, Jesus walked in front of them and continued the trip, heading to Jerusalem.
+\v 29 When they were near the villages of Bethphage and Bethany— on the hill that's named the Mount of Olives, He ordered two of His disciples saying,
+\v 30 “Go to that village up ahead there. As soon as you enter, you'll find a young donkey that has never been ridden by anyone, which is tied near a person's house. Untie its rope and bring it here.
+\v 31 If a person says, ‘Why're you untying its rope?’ answer him, ‘The Lord needs it.’”
+\p
+\v 32 Then the two messengers left and found it exactly as He told them.
+\v 33 While they were untying the donkey's rope, some members of the family who owned the donkey asked them, “Why're you untying the donkey?”
+\p
+\v 34 They answered, “The Lord needs it.”
+\v 35 They led the donkey and took it to Jesus, then the two of them covered the back of the donkey with their robes— and helped Jesus mount onto the back of it.
+\v 36 And the crowd who saw Him riding on the donkey and leaving for Jerusalem kept spreading their robes all along the road on which Jesus was going.
+\p
+\v 37 When Jesus was almost to Jerusalem— on the road going down from the Mount of Olives, His disciples and the whole crowd who followed Him were joyfully praising God with loud voices. They praised God because of all of the miraculous signs done by Jesus, which they had seen.
+\v 38 They cried out,
+\q1 “May God bless this new king of Israel!
+\q2 This king of ours comes representing the Lord!\x + Ps. 118:25-26\x*
+\q1 Now we'll be at peace with God in heaven!
+\q2 Glory to God in the highest level of heaven!”
+\p
+\v 39 Some of the Pharisees among the crowd said to Jesus, “Teacher, order your followers to be quiet!”
+\p
+\v 40 But He answered, “I'm telling you the truth: If they're quiet, then the rocks that are all along this road will shout the same words.”
+\s Jesus mourns the destruction of Jerusalem
+\p
+\v 41 As Jesus got closer to Jerusalem, He saw the city and mourned for it,
+\v 42 “How very sad, you residents of Jerusalem! How good it would be if today you knew the way to make peace with God, but it's impossible for you to understand now!
+\v 43 For the time will come when your enemies will surround this city, pile up dirt to enter its walls, and will continually attack you from all sides.
+\v 44 They'll kill all of the residents of your city and destroy all of its walls until they're level with the ground, until there won't be one stone left on top of another. That will happen because you didn't recognize the meaning of the days that are now happening— that is the time when I, as God's representative, visited you.”
+\s Jesus in the courtyard of God's Temple
+\r (Matt. 21:12-17; Mark 11:15-19; John 2:13-22)
+\p
+\v 45 Then Jesus entered the courtyard of the temple and drove out all of the merchants who were selling there.
+\v 46 He said to them, “In the Holy Bible God says,
+\q ‘My Temple will be made a special place of prayer.’\x + Is. 56:7\x*
+\m But you've changed it into ‘a hiding place for thieves!’”\x + Jer. 7:11\x*
+\p
+\v 47 After that, Jesus taught in the courtyard of God's Temple every day. Whereas the chief priests, Law experts, and the leaders of the Jews were trying to find a way to kill Him.
+\v 48 But they didn't find any way that they could do it, because there were always a lot of people around Him who were very interested in hearing every word of His teachings.
+
+</USFM>
+
+~~DISCUSSIONS:on~~

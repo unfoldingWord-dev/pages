@@ -1,0 +1,93 @@
+<USFM>
+
+\c 20
+\s Jesus is asked about His right to change the traditions of the Jews
+\r (Matt. 21:23-27; Mark 11:27-33)
+\p
+\v 1 While Jesus was giving His teachings, and telling the Good News about God's kingdom to the crowd in the courtyard of God's Temple, the chief priests, Law experts, and the leaders of the Jews came to Him.
+\v 2 They asked Him, “Tell us: Who gave you the right to teach and change our traditions? Under whose name are you doing all of this?”
+\p
+\v 3 He answered them, “I\f + \fr 20:3 \fk I \ft Jesus is speaking to people opposing Him. The Greek language doesn't differentiate between first person pronouns like Indonesian does. See the explanation about this in the Preface.\f* want to ask you something too. Try to answer my question:
+\v 4 Who gave John the Baptist the right to baptize? Was it God who gave it,\f + \fr 20:4 \fk God \ft Here and in verse 5, literally, “from heaven.”\f* or did he work of his own will?\f + \fr 20:4 \fk of his own \ft Here and in verse 6, literally, “from man.”\f*
+\p
+\v 5 Then they talked this over among themselves, “If we say, ‘From God,’ then he'll say, ‘If so, why didn't you believe in John?’
+\v 6 But if we say, ‘He worked of his own will,’ then all of these people will throw stones at us, because they believe that John was a prophet!”
+\v 7 So in the end they answered, “We don't know.”
+\p
+\v 8 Then Jesus said to them, “If that's so, I won't tell you Who gave me the right to do these things either.”
+\s A parable which shows that the Jews always reject God's messengers
+\r (Matt. 21:33-46; Mark 12:1-12)
+\p
+\v 9 Jesus told this parable to the crowd. He said, “One day, a land owner ordered his servants to plant a grape vine in his large vineyard. Then he rented out the garden to some tenant farmers, and he and his servants went to another land for quite a long time.
+\v 10 When the season to harvest grapes had come, the owner of the garden ordered one of his servants to go collect the produce from the tenants, so that they would give the garden produce that was the owner's share. But when he got there, the tenants beat the servant, drove him away, and he went home empty-handed.
+\v 11 Then the owner of the garden sent another servant of his. But once again they made fun of him and beat him, drove him away, and he went home empty-handed.
+\v 12 Yet again, the garden owner sent his third servant. But they beat him too— to the point of wounding him. Then they dragged him out of the garden.
+\p
+\v 13 “Finally, the garden owner thought, ‘Now what am I going to do? I will send my one and only son— whom I really love. Maybe they'll feel in awe and respect my own son.’
+\v 14 But when the tenants saw the garden owner's son coming, they said to each other, ‘Look! The one coming is his own son! He's the one who will become heir of this garden when his father dies. Let's kill him, so that the garden will be ours!’
+\v 15 Then they dragged his son out of the garden and killed him.
+\p So just think: If that's so, what more will the garden owner do to them?
+\v 16 He himself will come, of course, and kill those tenants. Then he'll rent out the garden to other tenants.”
+\p Then the people who were listening to Jesus said, “Wow! Don't let that happen!”
+\v 17 But Jesus looked at them and said, “If that's so, try to figure out the meaning of this verse from the Holy Bible,
+\q1 ‘God has made the stone that was considered to be useless by the builders
+\q2 to be the most important foundation stone.’\x + Ps. 118:22; 1 Pet. 2:4, 7\x*
+\m
+\v 18 And I'm telling you: Everyone who trips on that stone will be destroyed. And everyone on whom the stone falls will be completely crushed.”
+\p
+\v 19 Then the Law experts and the chief priests who were listening to Jesus realized that through this parable, Jesus had said, “You Jewish leaders are like those evil tenant farmers!” For that reason, they wanted to arrest Jesus that very moment. But they were afraid of the crowd, because the crowd, who admired Jesus, could get angry and take direct action against them.
+\s The Jewish leaders try to persuade Jesus to oppose the government of Rome
+\r (Matt. 22:15-22; Mark 12:13-17)
+\p
+\v 20 For that reason, the Jewish leaders watched Jesus carefully, because they planned to persuade Him to say something to oppose the Roman government. So they sent some spies, who pretended to be good people, in order to present some questions to Him. If Jesus' answer opposed the government of Rome, they planned to arrest Him immediately and hand Him over to the authority of the governor appointed by the Roman government.
+\v 21 The spies said to Him, “Teacher, we know that all of your teachings and statements are always true. You, Sir, aren't afraid of anyone's opinion, but always teach honestly what God desires us to do.
+\v 22 So our question is: According to the Law, are we allowed to pay taxes to the government of Rome, or not?”
+\p
+\v 23 But Jesus knew that they had evil plans. So He said to them,
+\v 24 “Please show me a silver coin that's usually used to pay taxes.” When they showed it to Him, He asked, “Whose face is engraved here? And whose name is written here?”
+\p They answered, “The king of Rome.”
+\p
+\v 25 Then He said to them, “If that's so, whatever you should give to the king, give it to him! And whatever you should give to God, give it to Him!”
+\p
+\v 26 So those spies didn't succeed in trapping Him in front of the crowd through His own words. All of them were so amazed at hearing His answer that they just became silent.
+\s People from the Sadducee group ask about coming alive again after death
+\r (Mat. 22:23-33; Mrk. 12:18-27)
+\p
+\v 27 Some members of the Sadducee group\f + \fr 20:27 \fk Sadducee group \ft Most of the members of the Sadducee group were leaders of the Jewish religion, and most of them were priests. They only believed in the first five books of the Old Testament written by Moses: Genesis, Exodus, Leviticus, Numbers, and Deuteronomy. See Acts 23:8.\f* also came to Jesus. (The Sadducee group believes that no one who's dead will live again.) Then they asked Him,
+\v 28 “Teacher, Moses wrote this regulation for us, ‘If a husband dies and doesn't yet have children, then his brother should marry the widow to provide descendants to carry on for his brother who died.\x + Deut. 25:5\x*
+\v 29 There were seven brothers. The first man married a woman, then he died and didn't have any children.
+\v 30 Then the second brother married the widow of his older brother, and he died.
+\v 31 Then the third brother married the widow of his older brother. The same thing happened up to the seventh brother. And all of them died without having children by that widow.
+\v 32 In the end the widow also died.
+\v 33 So, if it's true that people who've died will be brought back to life, then the widow will be called the wife of which man? For the seven brothers had each married that woman.”
+\p
+\v 34 Jesus said to them, “People in this age marry and are married, of course.
+\v 35 In the age to come it won't be like that. For people who are considered to be worthy to have eternal life won't marry or be married.
+\v 36 They'll never die again either, because they'll live forever like the angels. They'll also be considered to be children of God, because He's the one who resurrected them.
+\p
+\v 37 But about the resurrection of man after death, that was revealed in the story about the flaming bush. For the Lord said to Moses, ‘I am the God of Abraham, and the God of Isaac, and the God of Jacob.’\x + Ex. 3:6\x*
+\v 38 God spoke of our three forefathers as men who are still alive and worship Him. Even though dead people aren't on earth anymore, they're still alive before God. For before Him, everyone remains alive.”
+\p
+\v 39 Then some of the Law experts said, “Teacher, your answer was very correct!”
+\v 40 And after that, no one dared to test Him with questions like that anymore.
+\s Jesus shows that He isn't just a descendant of David
+\r (Matt. 22:41-46; Mark 12:35-37)
+\p
+\v 41 Jesus said to them, “Why is it always taught that the Christ will come as a descendant of David?
+\v 42 For David himself said in the book of Psalms,
+\q1 ‘The Lord God said to my Lord,
+\q1 “Sit at My right side and rule as King,
+\q2
+\v 43 and I will defeat all of Your enemies and make them Your slaves.”\x + Ps. 110:1\x*
+\m
+\v 44 So David himself really respected the Christ by calling Him ‘my Lord.’ If that's so, why is it always taught that the King of Salvation just comes from the descendants of David?”
+\s Jesus teaches not to imitate the Law experts
+\r (Matt. 23:1-36; Mark 12:38-40; Luke 11:37-54)
+\p
+\v 45 While the crowd was still listening to Jesus, He said to His disciples,
+\v 46 “Watch out! Don't imitate the Law experts. They like to walk around and show themselves off in public wearing beautiful clothes. And while walking in the market, they like it when people give them respectful greetings. And in the synagogues, or at dinner parties, they also like to sit in the front row seats.
+\v 47 But they also usually deceive widows using this excuse, ‘I will help you manage your deceased husband's wealth.’ But they actually only pretend to help, because they want to steal a lot of that wealth. And in order to cover up their evil, they pray long prayers in the synagogue so that people think that they're good people. As a result of deeds like that, God will give them a very harsh punishment, for sure.”
+
+</USFM>
+
+~~DISCUSSIONS:on~~
