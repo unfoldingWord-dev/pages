@@ -2,7 +2,7 @@
 
 {{:en:obs:obs-39-12.jpg?nolink&640x360}}
 
-**[[:en:key-terms:pilate|Pilate]]** became afraid that that the crowd would begin to **riot**, so he sentenced **[[:en:key-terms:jesus|Jesus]]** to be **[[:en:key-terms:crucify|crucified]]**. The **[[:en:key-terms:rome|Roman]]** soldiers whipped Jesus, put a **royal robe** and a crown made of thorns on him, and they **[[:en:key-terms:mock|mocked]]** him, saying, “**Look**, **the [[:en:key-terms:king-of-jews|King of the Jews]]**!”
+**[[:en:key-terms:pilate|Pilate]]** became afraid that that the crowd would begin to **riot**, so he ordered that **[[:en:key-terms:jesus|Jesus]]** be **[[:en:key-terms:crucify|crucified]]**. The **[[:en:key-terms:rome|Roman]]** soldiers whipped Jesus, put **a royal robe** and a **crown made of thorns** on him. Then they **[[:en:key-terms:mock|mocked]]** him by saying, “**Look**, **the [[:en:key-terms:king-of-jews|King of the Jews]]**!”
 
 //A Bible story from: Matthew 26:57-27:26; Mark 14:53-15:15; Luke 22:54-23:25; John 18:12-19:16//
 
@@ -10,8 +10,8 @@
 ===== Translation Notes: =====
 
   * **riot** - That is, "start doing violent things in their anger.” 
-  * **royal robe** - This was an expensive robe made of bright material that would be worn by a royal ruler.
-  * **crown made of thorns** - This means that they wove sharp, dangerous thorn branches into an imitation of a crown.
+  * **a royal robe** - That is, “a robe like a king's robe.” This robe had a bright color, so it looked like the kind of robe that a king would wear. 
+  * **crown made of thorns** - This means that they tied small branches into a circle to look like a crown. A crown is an ornament that a king wears on his head to show his authority. But the crown that they put on Jesus' head had sharp, dangerous thorns on it. 
   * **Look** – That is, “Look at” or, ”Here is.” 
   * **the King of the Jews** – Since the soldiers were mocking Jesus, this could be translated as, “the so-called King of the Jews.” 
   * //A Bible story from// - If all or portions of the Bible have already been translated into your language, check to make sure that these references point to the correct chapters and verses.
@@ -20,4 +20,4 @@
 **[[:en:obs-training:frames:39-11|<<]] | [[:en:obs-training:39-jesus-is-put-on-trial|Up]] | [[:en:obs-training:frames:40-01|>>]]**
 
 
-~~DISCUSSION~~
+~~DISCUSSION:closed~~
