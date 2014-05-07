@@ -2,13 +2,14 @@
 
 {{:en:obs:obs-45-13.jpg?nolink&640x360}}
 
-The **[[:en:key-terms:ethiopia|Ethiopian]]** **went on his way**, happy to know **[[:en:key-terms:jesus|Jesus]]**.
+The **Ethiopian** **went on his way**, happy to know **[[:en:key-terms:jesus|Jesus]]**.
 
 //A Bible story from: Acts 8:26-40//
 
 
 ===== Translation Notes: =====
 
+  * **Ethiopian** - This refers to a citizen of the country of Ethiopia. See note on **[[:en:obs-training:frames:45-07|[45-07]]]**.
   * **went on his way** - This could also be translated as, "continued his journey home."
   * //A Bible story from// - If all or portions of the Bible have already been translated into your language, check to make sure that these references point to the correct chapters and verses.
   
