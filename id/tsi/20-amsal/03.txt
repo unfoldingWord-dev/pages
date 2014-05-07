@@ -1,7 +1,5 @@
 <USFM>
-
-
-trial
-
+\v 1
+\v 2
 </USFM>
 ~~DISCUSSIONS:on~~
