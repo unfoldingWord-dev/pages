@@ -2,16 +2,16 @@
 
 {{:en:obs:obs-40-01.jpg?nolink&640x360}}
 
-After **[[:en:key-terms:mock|mocking]]** **[[:en:key-terms:jesus|Jesus]]**, the soldiers led him away to be **[[:en:key-terms:crucify|crucified]]**. They made him carry his own **[[:en:key-terms:cross|cross]]**.
+After the soldiers **[[:en:key-terms:mock|mocked]]** **[[:en:key-terms:jesus|Jesus]]**, they **led him away** **to be [[:en:key-terms:crucify|crucified]]**. They made him carry the **[[:en:key-terms:cross|cross]]** on which he would die.
 
 
 ===== Translation Notes: =====
 
-  * **issue** - explanation
-  * **issue** - explanation
+  * **led him away** – That is, “forced him to go with them.” This could also be translated as, “took him away.” 
+  * **to be crucified** - That is, "to be put to death by means of crucifixion."
 
 
 **[[:en:obs-training:frames:39-12|<<]] | [[:en:obs-training:40-jesus-is-crucified|Up]] | [[:en:obs-training:frames:40-02|>>]]**
 
 
-~~DISCUSSION~~
+~~DISCUSSION:closed~~
