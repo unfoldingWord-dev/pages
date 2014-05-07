@@ -1,37 +1,17 @@
 All the pages under the "workbench" namespace are inputs for translation training resources.
+Go [[http://door43.org/en/ta/workbench/how-to-use|here]] for instructions on how to add your work to the workbench.
 
-==== Suggestion: You might find it convenient to right click on links and choose "Open in new window." ====
+=== Suggestion: You might find it convenient to right click on links and choose "Open in new window." ===
 
 
 Adding content in Door43 is easy! Follow these simple steps to get started:
 
 
-===== 1. Create an Account & Log into Door43 =====
 
+We ask that you add to you page two important lines.
+1)  - Ordered List Item "{{tag>[tag1]}}" Where the words 'tag1' is replaced by a topic on your page.  For instance, if you were writing about discourse the tag would read: "{{tag>[discourse]}}."  Spaces between words will set multiple tags.  
+  * Unordered List Item {{tag>[discourse]}} will make a discourse tag but {{tag>[discourse topic]}} will make two tags - one for discourse and one for topic.  
 
-To start adding content, you will need a user account on Door43. If you do not have an account, [[:en:get-started?do=register|create one]] then you can [[https://door43.org/en/obs-training/get-started?do=login&sectok=ee4e19eb537ef77891aa5a6b54b7b2a4|login]].\\ 
-You can watch this [[http://youtu.be/dpsJRDAa3I8|video]] (45 seconds long) to see how to set up an account.
-
-
-    * Click on the Register link at the top of the page.
-    * Fill in the necessary information to set up an account.
-    * Check your email for the automatic generated password. (You might find the email in your spam folder.)
-    * Click on the 'Update Profile' link to change the password.
-
-
-===== 2. Practice Editing a Page =====
-
-
-Door43 has a [[:playground:playground|test page]] that you can freely edit to try things out. [[https://www.youtube.com/watch?v=dF7px5U6PdA|Here]] is a short video (45 seconds) on how to switch between the text editor and the graphical editor.
-
-
-**Graphical Editor**  – When you click the "Edit this page" button, you will probably see an edit window that looks like a simplified word processor. Click [[https://www.youtube.com/watch?v=kFK1zK_dSYc|here]] for the "how to" 1 minute video. The buttons take care of formatting text and generally make it easier to use. Here is information on the toolbar icons: [[doku>toolbar|quickbuttons]].
-
-
-**Text Editor**  – If you prefer, you can click the "DW Edit" button beneath the edit box to switch to a text-based editor. This is the standard DokuWiki editor and it provides full control over the syntax of the text. Go to the [[:en:obs-training:syntax|Formatting Text]] page for some simple editing formats to use in the text editor.
-
-
-//Note://  when using the text editor, you can switch back to the graphical editor by clicking the "FCK Edit" button.
 
 -----------------------------------------------------------------------------
 This section shows the example tagged pages in the site:
