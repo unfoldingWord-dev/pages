@@ -1,4 +1,7 @@
-
+<USFM>
 
 
 trial
+
+</USFM>
+~~DISCUSSIONS:on~~
