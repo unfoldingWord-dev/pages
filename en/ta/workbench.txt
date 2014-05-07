@@ -14,20 +14,6 @@ Understand that all information added to these pages are released under the Crea
 
 Go [[http://door43.org/en/ta/workbench/how-to-use|here]] for instructions on how to add your work to the workbench.
 
-After you know how to edit a page and add a new page, we ask that you add to every one of your pages two important lines.//
-The first is **tag your page**.
-
-<code>
-{{tag>[tag1]}} Where the words 'tag1' is replaced by a topic on your page.  
-For instance, if you were writing about discourse the tag would read: {{tag>[discourse]}}.  
-Spaces between words will set multiple tags. For example: {{tag>[discourse]}} will make a discourse tag but {{tag>[discourse topic]}} will make two tags - one for discourse and one for topic.  
-</code>
-
-The second is add a **discussion panel**. A discussion panel allows others to comment on your work and share their thoughts and resources on what you have written.
-
-<code>
-Type in ~~~Discussion~~~ anywhere on the page. The discussion panel will appear below your information.
-</code>
 
 -----------------------------------------------------------------------------
 This section shows the example tagged pages in the site:

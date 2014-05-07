@@ -2,11 +2,12 @@
 
 {{:en:obs:obs-46-05.jpg?nolink&640x360}}
 
-So **[[:en:key-terms:ananias|Ananias]] went to [[:en:key-terms:paul|Saul]]** and said, “**[[:en:key-terms:jesus|Jesus]]** who appeared to you on **the road** sent me to you so that you can **regain your sight** and be filled with the **[[:en:key-terms:holy-spirit|Holy Spirit]]**.” Saul immediately regained his sight. Then Saul was **[[:en:key-terms:baptize|baptized]]**. He ate some food and his strength returned.
+So **Ananias went to [[:en:key-terms:paul|Saul]]** and said, “**[[:en:key-terms:jesus|Jesus]]** who appeared to you on **the road** sent me to you so that you can **regain your sight** and be filled with the **[[:en:key-terms:holy-spirit|Holy Spirit]]**.” Saul immediately regained his sight. Then Saul was **[[:en:key-terms:baptize|baptized]]**. He ate some food and his strength returned.
 
 
 ===== Translation Notes: =====
 
+  * **Ananias** - A disciple of Jesus in Damascus. See **[[:en:obs-training:frames:46-04|[46-04]]]**.
   * **went to** - Some languages may need to translate this as, "came to."
   * **the road** - That is, "the road to Damascus."
   * **regain your sight** - This could also be translated as, "be able to see again."
