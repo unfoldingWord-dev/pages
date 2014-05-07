@@ -1,6 +1,8 @@
-===== How to Put in My Information =====
+===== How to Add My Information =====
+
 
 All the pages under the "workbench" namespace are inputs for translation training resources.
+
 
 === Suggestion: You might find it convenient to right click on links and choose "Open in new window." ===
 
@@ -30,40 +32,50 @@ Door43 has a [[:playground:playground|test page]] that you can freely edit to tr
 **Graphical Editor**  – When you click the "Edit this page" button, you will probably see an edit window that looks like a simplified word processor. Click [[https://www.youtube.com/watch?v=kFK1zK_dSYc|here]] for the "how to" 1 minute video. The buttons take care of formatting text and generally make it easier to use. Here is information on the toolbar icons: [[doku>toolbar|quickbuttons]].
 
 
-**Text Editor**  – If you prefer, you can click the "DW Edit" button beneath the edit box to switch to a text-based editor. This is the standard DokuWiki editor and it provides full control over the syntax of the text. Go to the [[:en:obs-training:syntax|Formatting Text]] page for some simple editing formats to use in the text editor.
+**Text Editor**  – If you prefer, you can click the “DW Edit” button beneath the edit box to switch to a text-based editor. This is the standard DokuWiki editor and it provides full control over the syntax of the text. Go to the [[:en:obs-training:syntax|Formatting Text]] page for some simple editing formats to use in the text editor.
 
 
-//Note://  when using the text editor, you can switch back to the graphical editor by clicking the "FCK Edit" button.
+//Note://  when using the text editor, you can switch back to the graphical editor by clicking the “FCK Edit” button.
+
 
 ===== 3. Add a Page =====
-Adding a page is easy!
-In  -  the URL field of the Internet browser add a title of your page to end of the workbench URL. 
-  - You will add to the end of http://door43.org/en/ta/workbench/ the title of your page. 
-  - Press the enter key.
-  - You will open a new page that says "This page does not exist yet".
-  - Left click on the Pencil with the plus sign to create the page.
-  - Start writing in your information.
-It's that simple!
-The title of your page can be anything. If you find a page with that already exists, please try another page name. Why not put a number at the end of the title?
 
-Please add a **discussion panel** to the bottom of every page. 
-A discussion panel allows others to comment on your work and share their thoughts and resources on what you have written. Here is how to add a discussion panel on your page.
+
+Adding a page is easy! In - the URL field of the Internet browser add a title of your page to end of the workbench URL.
+
+
+    - You will add to the end of [[http://door43.org/en/ta/workbench/|http://door43.org/en/ta/workbench/]] the title of your page.
+    - Press the enter key.
+    - You will open a new page that says “This page does not exist yet”.
+    - Left click on the Pencil with the plus sign to create the page.
+    - Start writing in your information.
+
+
+It's that simple! The title of your page can be anything. If you find a page with that already exists, please try another page name. Why not put a number at the end of the title?
+
+
+Please add a **discussion panel**  to the bottom of every page. A discussion panel allows others to comment on your work and share their thoughts and resources on what you have written. Here is how to add a discussion panel on your page.
+
 
 <code>
 Type in ~~Discussion~~ at the bottom of the page. The discussion panel will appear below your information.
 </code>
 
+
 ===== 4. Add Tags to a Page =====
 
-After you know how to edit a page and add a new page, we ask that you add tags to every one of your pages. Tags are a way to categorize the topics of your page. For example, if you were writing about Hebrew text for Genesis, you would tag your page with the words "Hebrew" and "Genesis."
-Here are instructions on how to add tags to your page.  
+
+After you know how to edit a page and add a new page, we ask that you add tags to every one of your pages. Tags are a way to categorize the topics of your page. For example, if you were writing about Hebrew text for Genesis, you would tag your page with the words "Hebrew" and "Genesis." Here are instructions on how to add tags to your page.
+
 
 <code>
 {{tag>[tag1]}} Where the words 'tag1' is replaced by a topic on your page.  
 For instance, if you were writing about discourse the tag would read: {{tag>[discourse]}}.  
-Spaces between words will set multiple tags. For example: {{tag>[discourse]}} will make a discourse tag but {{tag>[discourse topic]}} will make two tags - one for discourse and one for topic.  
+Spaces between words will set multiple tags. For example: {{tag>[discourse]}} will make a discourse tag but {{tag>[discourse topic]}} will make two tags - one for discourse and one for topic.
 </code>
 
+
 Feel free to copy the code from the example and add it to your page. Then replace the tag1 with the appropriate word.
+
 
 ==== Thank you so much for participating in our crowd sourcing resource for Bible translation! Your participation will help accelerate Bible translation in the world! Rev. 6:9 ====
