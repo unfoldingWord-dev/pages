@@ -1,3 +1,5 @@
+===== How to Put in My Information =====
+
 All the pages under the "workbench" namespace are inputs for translation training resources.
 
 === Suggestion: You might find it convenient to right click on links and choose "Open in new window." ===
@@ -33,30 +35,35 @@ Door43 has a [[:playground:playground|test page]] that you can freely edit to tr
 
 //Note://  when using the text editor, you can switch back to the graphical editor by clicking the "FCK Edit" button.
 
-We ask that you add to you page two important lines.
-1)  - Ordered List Item "{{tag>[tag1]}}" Where the words 'tag1' is replaced by a topic on your page.  For instance, if you were writing about discourse the tag would read: "{{tag>[discourse]}}."  Spaces between words will set multiple tags.  
-  * Unordered List Item {{tag>[discourse]}} will make a discourse tag but {{tag>[discourse topic]}} will make two tags - one for discourse and one for topic.  
+===== 3. Add a Page =====
+Adding a page is easy!
+In  -  the URL field of the Internet browser add a title of your page to end of the workbench URL. 
+  - You will add to the end of http://door43.org/en/ta/workbench/ the title of your page. 
+  - Press the enter key.
+  - You will open a new page that says "This page does not exist yet".
+  - Left click on the Pencil with the plus sign to create the page.
+  - Start writing in your information.
+It's that simple!
+The title of your page can be anything. If you find a page with that already exists, please try another page name. Why not put a number at the end of the title?
 
+Please add a **discussion panel** to the bottom of every page. 
+A discussion panel allows others to comment on your work and share their thoughts and resources on what you have written. Here is how to add a discussion panel on your page.
 
------------------------------------------------------------------------------
-This section shows the example tagged pages in the site:
+<code>
+Type in ~~Discussion~~ at the bottom of the page. The discussion panel will appear below your information.
+</code>
 
-pages tagged with "tag1"
+===== 4. Add Tags to a Page =====
 
-{{topic>tag1}}
+After you know how to edit a page and add a new page, we ask that you add tags to every one of your pages. Tags are a way to categorize the topics of your page. For example, if you were writing about Hebrew text for Genesis, you would tag your page with the words "Hebrew" and "Genesis."
+Here are instructions on how to add tags to your page.  
 
-pages tagged with "tag2"
+<code>
+{{tag>[tag1]}} Where the words 'tag1' is replaced by a topic on your page.  
+For instance, if you were writing about discourse the tag would read: {{tag>[discourse]}}.  
+Spaces between words will set multiple tags. For example: {{tag>[discourse]}} will make a discourse tag but {{tag>[discourse topic]}} will make two tags - one for discourse and one for topic.  
+</code>
 
-{{topic>tag2}}
+Feel free to copy the code from the example and add it to your page. Then replace the tag1 with the appropriate word.
 
---------------------------------------------------------------------------------
-
-same pages, more information in the display:
-
-pages tagged with "tag1"
-
-{{topic>tag1&date&user&tags&comments}}
-
-pages tagged with "tag2"
-
-{{topic>tag2&date&user&tags&comments}}
+==== Thank you so much for participating in our crowd sourcing resource for Bible translation! Your participation will help accelerate Bible translation in the world! Rev. 6:9 ====
