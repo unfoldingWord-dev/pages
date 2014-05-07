@@ -2,16 +2,19 @@
 
 {{:en:obs:obs-40-04.jpg?nolink&640x360}}
 
-**[[:en:key-terms:jesus|Jesus]]** was **[[:en:key-terms:crucify|crucified]]** between **two robbers**. One of them **[[:en:key-terms:mock|mocked]]** Jesus, but the other said, “Don’t you fear **[[:en:key-terms:god|God]]**? We are **[[:en:key-terms:guilt|guilty]]**, but this man is **[[:en:key-terms:innocent|innocent]]**. Jesus, please remember me in your **[[:en:key-terms:kingdom-of-god|kingdom]]**.” Jesus said to him, “Today, you will be with me in **Paradise**.”
+**[[:en:key-terms:jesus|Jesus]]** was **[[:en:key-terms:crucify|crucified]]** between **two robbers**. One of them **[[:en:key-terms:mock|mocked]]** Jesus, but the other said, “Don’t you fear **[[:en:key-terms:god|God]]**? **We are [[:en:key-terms:guilt|guilty]], but this man is [[:en:key-terms:innocent|innocent]]**." Then he said to Jesus, "Please remember me **in your [[:en:key-terms:kingdom-of-god|kingdom]]**.” Jesus answered him, “Today, you will be with me in **Paradise**.”
 
 
 ===== Translation Notes: =====
 
   * **two robbers** - This could also be translated as, "two thieves."
+  * **this man** - This phrase refers to Jesus. 
+  * **We are guilty but this man is innocent** – This could be translated as, “You and I have done evil things and deserve to die, but this man, Jesus, has done nothing wrong and does not deserve to die." Some languages have a special word for “we” that means it includes the person being spoken to. 
+  * **in your kingdom** – That is, “when you establish your kingdom” or, “when you are ruling as king.” 
   * **Paradise** - This is another name for "heaven."
   
 
 **[[:en:obs-training:frames:40-03|<<]] | [[:en:obs-training:40-jesus-is-crucified|Up]] | [[:en:obs-training:frames:40-05|>>]]**
 
 
-~~DISCUSSION~~
+~~DISCUSSION:closed~~

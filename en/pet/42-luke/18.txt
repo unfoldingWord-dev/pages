@@ -1,6 +1,81 @@
 <USFM>
-\v 1
-\v 2
 
+\c 18
+\s God will definitely answer His people's prayers
+\p
+\v 1 Jesus gave a parable to His disciples that illustrates how important it was for them to keep praying and not give up.
+\v 2 He said, “There was a judge in a certain city, who didn't respect God, and didn't care about anyone at all.
+\v 3 There was also a widow in that city who often went to the judge and said, ‘Defend my case against that man who wants to cause loss to me.’
+\v 4 For quite a long time, the judge refused to help the widow. But then he said to himself, ‘Even though I don't respect God or care about anyone at all,
+\v 5 yet because this widow just keeps coming to bother me, it would be better to decide her case with justice. Then she won't come to bother me anymore.’”
+\p
+\v 6 Then the Lord said, “Pay attention to what the unjust judge said!
+\v 7 If that judge would help the widow's case, God will certainly help His people whom He Himself has chosen— who keep on making their requests day and night. He'll answer their prayers without delay!
+\v 8 I'm telling you sincerely: God will quickly decide all of their cases with justice. Even so, when I— the Son of Man come back, it isn't certain that I will find people on this earth who still believe in Me.”
+\s The parable of how the Pharisee and the tax collector prayed
+\p
+\v 9 Some people who were present felt they were righteous in God's sight, and because of that they considered themselves to be better than others. So Jesus told the following parable:
+\v 10 “There were two men who went into the courtyard of God's Temple to pray— one was a Pharisee, and the other one was a tax collector.
+\v 11 The Pharisee stood and prayed, bragging about himself, ‘Oh Lord, I'm thankful that I'm not sinful like other people— especially like that tax collector over there, because I don't steal, I don't deceive, and I don't commit adultery.
+\v 12 I fast two times a week, and I give a tithe of all my income.’
+\p
+\v 13 “But the tax collector stood somewhat far away from other people. He didn't even dare to look up to heaven like the Jewish custom was when praying,\f + \fr 18:13 \fk like the Jewish custom was when praying \ft These words were added so that today's readers will understand Luke's intent in this verse. The custom today is to bow one's head while praying— more like the tax collector in this story, whereas the custom of the Jews of Jesus' day was to address prayers to heaven while looking up. For sure, the Pharisee in this parable followed the custom of looking up to heaven while he prayed.\f* but with a very sad and regretful heart\f + \fr 18:13 \fk with a very sad and regretful heart \ft Literally, “while beating his chest.” In Jewish culture, beating one's chest was a sign of much sadness, mourning, and regret. See also Luke 23:48.\f* he prayed, ‘Oh God, have compassion on this sinful man!’
+\v 14 I'm telling you sincerely: When those two men went home to their own houses, the prayer of the tax collector was accepted by God— not the prayer of the Pharisee. For whoever raises himself up will be humbled by God, and whoever humbles his heart will be raised up by Him.”
+\s Jesus welcomes the children
+\r (Matt. 19:13-15; Mark 10:13-16)
+\p
+\v 15 People brought their young children to Jesus so that He would touch the children and bless them. But when His disciples saw that, they forbid the people harshly.
+\v 16 But Jesus called the children and said, “Allow those children to come to Me and don't forbid them. For the people who become citizens of God's kingdom are like this.
+\v 17 What I'm saying is true: You must accept God's kingdom like a child accepts something from his parents. If not, you won't enter it.”
+\s It's very difficult for rich people to enter God's kingdom
+\r (Matt. 19:16-30; Mark 10:17-31)
+\p
+\v 18 A Jewish leader asked Jesus, “Good teacher, what do I have to do to have eternal life?”
+\p
+\v 19 But Jesus asked him in return, “Why do you say that I'm good? Only God is good. No one else is.
+\v 20 Of course, you already know these commands: ‘Don't commit adultery, don't murder, don't steal, don't give a false testimony, honor your father and mother.’”\x + Gen. 20:12-16; Deut. 5:16-20\x*
+\p
+\v 21 Then the Jewish leader said, “I've obeyed all of those commands since the time I was young until now.”
+\p
+\v 22 On hearing him say that Jesus said to him, “There's still one more thing that you need to do: Go home and sell all of your possessions. Then distribute the money to poor people. In that way you'll have treasure in heaven, and then come and follow Me.”
+\v 23 When he heard what Jesus said, he became very sad, because he was very rich and didn't want to sell his possessions.
+\p
+\v 24 When Jesus saw how the rich man reacted to His words He said, “It is very difficult for rich people to become citizens of God's kingdom!
+\v 25 It's easier for a camel to go through the eye of a needle\f + \fr 18:25 \fk eye of a needle \ft There's a false teaching that has been taught everywhere, that at the time of Jesus, there was a normal sized door next to the big gates of Jerusalem. It has been taught that a smaller door was named Eye of the Needle, and that a camel could enter there— but only if all the baggage was taken off of it. But doors next to gateways like that were only found in European countries, and were built several centuries after Jesus' time. Jesus teaching here is that it's completely impossible for a rich person to become a citizen of God's kingdom— just as it is impossible for a camel to go through the eye of a sewing needle! But according to verse 27, what is impossible for humans to do can still happen with God's help.\f* than for a rich person to enter God's kingdom.”
+\p
+\v 26 On hearing that, those present there said, “Wow! If that's so, who can be saved and enter heaven?”
+\p
+\v 27 But Jesus answered, “God is able to do what can't be done by man.”
+\p
+\v 28 Then Peter said to Him, “How about us? We've left all of our possessions and followed You.”
+\p
+\v 29 Jesus answered them, “What I'm telling each of you is really true: For everyone who leaves his house, his wife, his brothers and sisters, his parents, or his children for the sake of God's kingdom,
+\v 30 God will give him many times more of the same things in exchange, in his life now. And God will give him eternal life in the age to come. ”
+\s Jesus tells about His death
+\r (Matt. 20:17-19; Mark 10:32-34)
+\p
+\v 31 Jesus gathered His twelve disciples in a private way and said to them, “We're heading to Jerusalem now . Everything which was formerly written by the prophets about the Son of Man— who I am, will happen there.
+\v 32 So according to what has been prophesied, I will be turned over to non-Jewish leaders. And they'll insult Me, torture Me, and spit on Me.
+\v 33 After they whip Me, they'll kill Me. But I will come back to life on the third day after I die.”
+\v 34 But His disciples didn't understand what Jesus said at all. The meaning of His words was hidden from them.
+\s Jesus makes a blind man able to see
+\r (Matt. 20:29-34; Mark 10:46-52)
+\p
+\v 35 When Jesus and His disciples had almost arrived at the city of Jericho, there was a blind man sitting, begging at the side of the road.
+\v 36 Because he heard the voices of the crowd passing on the road, he asked the people there, “What's happening?”
+\p
+\v 37 They told him, “Jesus the Nazarene is passing by.”
+\p
+\v 38 For that reason he cried out, “Jesus, Descendant of David,\f + \fr 18:32 \fk Descendant of David \ft Literally, “Son of David.” When the blind man called Jesus “Descendant of David,” it didn't just mean that Jesus was from the family of David, because the prophets had prophesied before Jesus came that the King of Salvation would come from the descendants of King David. So all the Jews called the King of Salvation “Descendant of David.” Because of the prophecies of those prophets, they also thought, “He'll also heal the sick and blind people.” So the blind man already knew that Jesus was no ordinary man. See Is. 29:18-19, 35:4-6, 42:6-7\f* have compassion on me!”
+\p
+\v 39 But the people who were walking in front of Jesus ordered him to be quiet. But he cried out even louder, “Jesus, Descendant of David, have compassion on me!”
+\p
+\v 40 Then Jesus stopped, and ordered the blind man be led to Him. When the blind man approched, Jesus asked,
+\v 41 “What do you want Me to do for you?”
+\p The man said, “Lord, help me be able to see again.”
+\p
+\v 42 Jesus said to him, “If that's so, see! Because you believe in Me, you can see now.”
+\p
+\v 43 At that very moment, the man could see again, then followed Jesus while praising God. And the crowd who saw that happen also praised God.
 </USFM>
 ~~DISCUSSIONS:on~~
