@@ -2,16 +2,18 @@
 
 {{:en:obs:obs-39-02.jpg?nolink&640x360}}
 
-Inside the house, the **[[:en:key-terms:jewish-leaders|Jewish leaders]]** put **[[:en:key-terms:jesus|Jesus]]** on trial. They brought many **[[:en:key-terms:witness|witnesses]]** who **lied about him**. However, their statements did not agree with each other, so they could not prove he was **[[:en:key-terms:guilt|guilty]]** of anything. Jesus did not say anything.
+Inside the house, the **[[:en:key-terms:jewish-leaders|Jewish leaders]]** **put [[:en:key-terms:jesus|Jesus]] on trial**. They brought many **[[:en:key-terms:witness|witnesses]]** who **lied about him**. However, **their statements did not agree with each other**, so the Jewish leaders could not prove **he was [[:en:key-terms:guilt|guilty]] of anything**. Jesus did not say anything.
 
 
 ===== Translation Notes: =====
 
-  * **lied about him** - That is, "told lies about him."
-  * **issue** - explanation
+  * **put Jesus on trial** – This could be translated as, “had a formal meeting to accuse Jesus of doing something wrong.” Usually a trial is done to find out if someone is innocent or guilty of a certain crime. In this case, the leaders were determined to make Jesus seem guilty. 
+  * **lied about him** - That is, “told lies about him” or, “falsely accused him of doing something wrong.” 
+  * **their statements did not agree with each other** - This could be translated as, “they said things about Jesus that were very different from each other” or, “the witnesses said things about Jesus that contradicted each other.” 
+  * **he was guilty of anything** – That is, “that he had done anything wrong.” 
   
 
 **[[:en:obs-training:frames:39-01|<<]] | [[:en:obs-training:39-jesus-is-put-on-trial|Up]] | [[:en:obs-training:frames:39-03|>>]]**
 
 
-~~DISCUSSION~~
+~~DISCUSSION:closed~~
