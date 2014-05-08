@@ -1,39 +1,18 @@
 ====== Translation Academy Workbench ======
 
 
-Welcome! All the pages under the "workbench" namespace are for you to add translation training resources.
-We appreciate your contribution so much!
+Welcome! All the pages under the "workbench" namespace are for you to add translation training resources. We appreciate your contribution so much!
 
 
 === Suggestion: You might find it convenient to right click on links and choose "Open in new window." ===
-Understand that all information added to these pages are released under the Creative Commons copyright law. 
 
-  - Only add content to this website that does not infringe on someone else's copyright.
-  - Only add content to this website that does not conflict with the [[http://door43.org/en/statement-of-faith|Statement of Faith]].
-  - Release your contributions to the content on this website under a [[http://door43.org/en/legal/license|Creative Commons Attribution-ShareAlike 3.0 Unported License]] (full license [[http://creativecommons.org/licenses/by-sa/3.0/|here]]).
+
+Understand that all information added to these pages are released under the Creative Commons copyright law.
+
+
+    - Only add content to this website that does not infringe on someone else's copyright.
+    - Only add content to this website that does not conflict with the [[http://door43.org/en/statement-of-faith|Statement of Faith]].
+    - Release your contributions to the content on this website under a [[http://door43.org/en/legal/license|Creative Commons Attribution-ShareAlike 3.0 Unported License]] (full license [[http://creativecommons.org/licenses/by-sa/3.0/|here]]).
+
 
 Go [[http://door43.org/en/ta/workbench/how-to-use|here]] for instructions on how to add your work to the workbench.
-
-
------------------------------------------------------------------------------
-This section shows the example tagged pages in the site:
-
-pages tagged with "tag1"
-
-{{topic>tag1}}
-
-pages tagged with "tag2"
-
-{{topic>tag2}}
-
---------------------------------------------------------------------------------
-
-same pages, more information in the display:
-
-pages tagged with "tag1"
-
-{{topic>tag1&date&user&tags&comments}}
-
-pages tagged with "tag2"
-
-{{topic>tag2&date&user&tags&comments}}
