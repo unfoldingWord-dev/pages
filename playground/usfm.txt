@@ -8,7 +8,7 @@
 \mt Paul’s Letter to the Philippians 
 \c 1  
 \p
-\v 1 Paul and Timothy, servants of Jesus Christ; 
+\v 1 Paul and Timothy, servants of Jesus Christ; THIS IS A TEST
 \p To all the saints in Christ Jesus who are at Philippi, with the overseers
 \f + or, superintendents, or bishops\f* and servants\f + Or, deacons\f*:
 \v 2 Grace to you, and peace from God, our Father, and the Lord Jesus Christ.
