@@ -1,53 +1,53 @@
 <USFM>
 
 \c 6
-\s3 (1) Untuk pemimpin pujian, dari Daud: Mazmur ini untuk diiringi dengan instrumen petik dengan delapan sinar.
+\s3 (1) Untuk pemimpin pujian, dari Daud: Mazmur ini untuk diiringi dengan instrumen petik dengan delapan senar.
 \p
 \q1
-\v 1(2) Ya, ALLAH, saat {ini ketika} hati-Mu panas karena marah dengan saya
+\v 1(2) Ya, ALLAH, ketika hati-Mu panas karena saya membangkitkan kemarahanMu,
 
 \q2 janganlah menghukum atau menghajar saya!
 
 \q1
 \v 2 (3) Kasihanilah saya, ya TUHAN dan ALLAH saya, 
-\q2 karena saya sangat lemah dan seluruh {badan/tubah} penuh kesakitan.
+\q2 karena saya sangat lemah dan sekujur tubuh terasa sakit.
 
 \q1
-\v 3 (4) Hati saya sangat {gelisah/cemas/kuatir}.
-\q2 Berapa lama saya harus tunggu sebelum ENGKAU {0/bersedia//berbalik dan} menolong saya lagi?
+\v 3 (4) Hati saya sangat cemas.
+\q2 Berapa lamakah harus saya menunggu sebelum ENGKAU bersedia menolong saya lagi?
 
 \p
 \b
 \q1
-\v 4 (5) Ya, ALLAH saya, {0//saya memohon} berbaliklah dan menyelamatkan saya
-\q2 [karena Engkau mengasihi saya dengan sangat {sabar/setia}//karena Engkau tidak berhenti-henti mengasihi saya.]
+\v 4 (5) Ya, ALLAH, saya memohon, berbaliklah dan selamatkanlah saya
+\q2 karena kasih-MU sangat setia.
 
-q1
-\v 5 (6) Karena kalau saya mati, saya tidak bisa menyanyi pujian lagi bagi-Mu!
+\q1
+\v 5 (6) Karena bila saya mati, saya tidak bisa menyanyikan pujian lagi bagi-Mu!
 \q2 Dari dunia orang mati tidak ada yang memuji Engkau.
 
 \p
 \b
 \q1
-\v 6 (7) Karena {sepanjang malam//tanpa henti} mengeluh {dan menangis}, saya cape terus//sangat lemah//I am totally worn out.
-\q2 Bantal dan tempat tidur saya basah karena air mata saya mengalir terus.
+\v 6 (7) Karena menangis kesal sepanjang malam, saya kehabisan tenaga.
+\q2 Bantal dan tempat tidurku basah kuyup karena air mata yang mengalir tanpa henti.
 
 \q1
-\v 7 (8) Mata saya {bengkak//merasa sakit} dan kabur 
-\q2 Saya terharu terus karena musuh saya terlalu banyak.
+\v 7 (8) Mata saya bengkak dan penglihatan saya menjadi kabur 
+\q2 karena saya menangis dengan rasa kesal terhadap orang-orang yang memusuhi saya!
 
 \p
 \b
 q1
-\v 8 (9) Hai kalian yang melakukan kejahatan! {Pergilah//Tinggalkanlah} dari saya!
+\v 8 (9) Hai kalian yang melakukan kejahatan! Pergilah dari saya!
 \q2 Karena ALLAH sudah mendengarkan tangisan saya!
 
 \q1
-\v 9 (10) {Sekarang} TUHAN sudah mendengarkan permohonan saya
-\q2 dan DIA {sedang//saat ini sedang} menjawab doa saya!
+\v 9 (10) TUHAN telah mendengarkan permohonan saya
+\q2 dan DIA sedang menjawab doa saya!
 
-\q1
-\v 10 (11) Semua yang memusuhi saya akan kaget, takut, dan malu.
-\q2 Tiba-tiba mereka akan mundur dan {melarikan diri//lari}.
+\q1 
+\v 10 (11) Semua yang memusuhi saya akan terkejut, ketakutan, dan dipermalukan.
+\q2 Tiba-tiba mereka akan mundur dan melarikan diri.
 
 </USFM>
