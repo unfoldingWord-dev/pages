@@ -10,7 +10,4 @@ Then the sky over the whole region became completely dark, even though it was th
   * //(There are no notes in this frame.)//
   
 
-**[[:en:obs-training:frames:40-05|<<]] | [[:en:obs-training:40-jesus-is-crucified|Up]] | [[:en:obs-training:frames:40-07|>>]]**
-
-
-~~DISCUSSION:closed~~
+**[[:en:obs:notes:frames:40-05|<<]] | [[:en:obs:notes:40|Up]] | [[:en:obs:notes:frames:40-07|>>]]**
