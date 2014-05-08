@@ -1,3 +1,0 @@
-this page is tagged with "tag1" and "tag2"
-
-{{tag>[tag1 tag2]}}

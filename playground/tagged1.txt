@@ -1,6 +1,0 @@
-this page is tagged with "tag1"
-
-
-{{tag>[tag1]}}
-
-~~DISCUSSIONS:on~~
