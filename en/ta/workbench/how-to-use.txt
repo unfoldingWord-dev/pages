@@ -70,12 +70,11 @@ After you know how to edit a page and add a new page, we ask that you add tags t
 
 <code>
 {{tag>[tag1]}} Where the words 'tag1' is replaced by a topic on your page.  
-For instance, if you were writing about discourse the tag would read: {{tag>[discourse]}}.  
-Spaces between words will set multiple tags. For example: {{tag>[discourse]}} will make a discourse tag but {{tag>[discourse topic]}} will make two tags - one for discourse and one for topic.
+For instance, if you were writing about Hebrew the tag would read: {{tag>[Hebrew]}}.  
+Spaces between words will set multiple tags. For example: {{tag>[Hebrew]}} will make a "Hebrew" tag but {{tag>[Hebrew Genesis]}} will make two tags - one for "Hebrew" and one for "Genesis."
 </code>
 
 
-Feel free to copy the code from the example and add it to your page. Then replace the tag1 with the appropriate word.
-
+You can copy the code above and just replace "Hebrew" and "Genesis" with your topics.
 
 ==== Thank you so much for participating in our crowd sourcing resource for Bible translation! Your participation will help accelerate Bible translation in the world! Rev. 6:9 ====
