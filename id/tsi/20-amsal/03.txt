@@ -1,4 +1,142 @@
-<USFM> %%\%%v 1 %%\%%v 2 this is a test to see if it will save. </USFM>
+<USFM>
+\c 3
+\s1 Bersandar pada TUHAN
+\q1
+\v 1 Anakku, jangan lupa nasihat-nasihat yang saya sudah ajar kepadamu.
+\q2 Simpanlah apa yang saya perintahkan dalam hatimu.
+\q1
+\v 2 Dengan begitu kamu akan umur panjang
+\q2 dan hidupmu bahagia dan sejahtera.
+\q1
+\v 3 Jagalah dirimu supaya selalu setia kepada Allah dan kepada sesamamu.
+\q2 Biarlah sifat setia itu selalu menghiasi kehidupanmu.
+\q2 Jadikanlah kesetiaan itu seperti prinsip utama di hatimu.
+\q1
+\v 4 Dengan demikian kamu akan dianggap orang yang baik di mata Allah dan juga di mata sesamamu.
+\q2 Dan namamu akan dikenal sebagai orang yang bijaksana.
+\p
+\b
+\q1
+\v 5 Bersandarlah kepada TUHAN dengan sepenuh hatimu.
+\q2 Jangan bersandar kepada kepintaranmu sendiri.
+\q1
+\v 6 Carilah kehendak TUHAN dalam segala hal,
+\q2 dan Dia akan memimpin kamu kepada jalan yang baik.
+\p
+\b
+\q1
+\v 7 Jangan kamu pikir begini, “Saya ini pintar sekali.”
+\q2 Sebaliknya kamu harus takut kepada TUHAN dan jauhkan diri dari kejahatan.
+\q1
+\v 8 Dengan begitu tubuhmu akan kuat dan sehat,
+\q2 dan kamu akan disegarkan oleh Tuhan.
+\b
+\q1
+\v 9 Tunjukkan hormat kepada TUHAN dengan memberikan kepada-Nya dari segala sesuatu yang kamu hasilkan, dan waktu panen, kasih kepada-Nya bagian yang pertama dan yang terbaik.
+\q1
+\v 10 Dengan demikian Dia akan memberkati hasilmu itu,
+\q2 sampai gudang-gudangmu akan penuh dengan makanan dan minuman.\f + \fr 3:10 \fk minuman \ft Yang diterjemahkan “minuman” di sini, secara harfiah “air anggur.”\f*
+\p
+\b
+\q1
+\v 11 Anakku, jangan kamu anggap enteng kalau kamu kena pukulan dari TUHAN.
+\q2 Jangan rasa berat hati kalau Dia memperbaiki kamu.
+\q1
+\v 12 Karena TUHAN memperbaiki orang-orang yang Dia kasihi,
+\q2 sama seperti seorang bapak pukul anak yang disayanginya untuk memperbaiki kelakuannya.
+\s Kebijaksanaan diumpamakan dengan seorang guru dan pohon hidup
+\p
+\b
+\q1
+\v 13 Orang yang belajar untuk memahami kebijaksanaan boleh bergembira,
+\q2 karena dia beruntung sekali.
+\q1
+\v 14 Karena keuntungan dari kebijaksanaan jauh lebih baik daripada miliki banyak uang,
+\q2 karena hasil dari kebijaksanaan lebih besar nilainya daripada emas.
+\q1
+\v 15 Mendapat kebijaksanaan lebih baik daripada mendapat banyak batu permata.
+\q2 Jadi dari semua hal yang diinginkan, tidak ada yang sama untungnya dengan memiliki kebijaksanaan.
+\q1
+\v 16 Biarlah kebijaksanaan menjadi seperti seorang guru bagimu. Di dalam tangan kanannya dia siap memberikan umur panjang kepadamu,
+\q2 dan dengan tangan kirinya dia mau memberikan kepadamu supaya kamu menjadi kaya dan dihormati oleh orang.
+\q1
+\v 17 Biarlah dia memimpin kamu.
+\q2 Karena dia akan menuntun ke jalan yang bahagia dan sejahtera.
+\q1
+\v 18 Kebijaksanaan juga seperti pohon hidup. Jangan jauh dari dia,
+\q2 karena buahnya memberikan kebahagiaan.
+\p
+\b
+\q1
+\v 19 Coba pikir tentang kebijaksanaan TUHAN. Penciptaan bumi ini didasarkan atas kebijaksanaan.
+\q2 Segala sesuatu yang ada dilangit membuktikan kebijaksanaan-Nya.
+\q1
+\v 20 Dia memahami segala-galanya, sampai pada penciptaan Dia memisahkan air menjadi dua bagian, yang di bumi di bawa dan yang ada di langit di atas.
+\q2 Dan Dialah yang mengatur supaya bumi selalu disegarkan dengan air hujan. Saksikanlah kebijaksanaan Allah.
+\p
+\b
+\q1
+\v 21 Jadi anakku, utamakan pengetahuan dan hikmat supaya kamu bisa mengatur hidupmu dengan baik.
+\q2 Simpanlah pengetahuan itu baik-baik di hatimu,
+\q1
+\v 22 karena dengan demikian kamu akan hidup aman dan sejahtera,
+\q2 dan orang lain akan menghormati kamu.
+\q1
+\v 23 Lalu pengetahuan bagaikan lampu yang menerangi jalan hidupmu,
+\q2 supaya kamu aman dan kakimu tidak tabrak sesuatu.
+\q1
+\v 24 Dengan demikian kamu boleh tidur nyenyak saja,
+\q2 tanpa rasa takut apa-apa.
+\q1
+\v 25 Orang-orang jahat selalu takut karena hidup mereka mendatangkan kebinasaan dari TUHAN,
+\q2 seperti badai yang tiba-tiba melanda.
+\q2 Tetapi kamu tidak perlu takut bencana,
+\q1
+\v 26 karena kamu bersandar kepada TUHAN.
+\q2 Kamu boleh yakin begini, “TUHAN selalu bersama-sama saya,
+\q2 jadi kaki saya tidak akan masuk dalam jerat.”
+\s Kebijaksanaan dalam hubungan antara sesama manusia
+\p
+\b
+\q1
+\v 27 Kalau kamu mampu untuk membantu, jangan lihat saja orang yang perlu bantuan.
+\q2 Bantulah dia.
+\q1
+\v 28 Kalau hari ini kamu bisa membantu,
+\q2 jangan katakan kepadanya, “Coba datang besok dan saya akan bantu kamu.”
+\p
+\b
+\q1
+\v 29 Sesamamu yang tinggal dekat menganggap kamu sebagai teman yang dipercayai.
+\q2 Jangan sekali memutuskan untuk membuat kejahatan kepada mereka!
+\q1
+\v 30 Dan kalau sesamamu tidak membuat kesalahan terhadap kamu,
+\q2 jangan membawa laporan palsu mengenai dia kepada pemimpin.
+\p
+\b
+\q1
+\v 31 Jangan kamu ingin ikuti teladan orang yang suka melakukan tindakan keras.
+\q2 Jangan ikut cara hidup mereka.
+\q1
+\v 32 Orang jahat seperti itu dibenci oleh TUHAN,
+\q2 tetapi Dia menjadi teman dekat dengan orang yang hidup jujur.
+\p
+\b
+\q1
+\v 33 Rumah tangga orang jahat dikutuk oleh TUHAN,
+\q2 sedangkan berkat-Nya selalu menyertai rumah tangga orang jujur.
+\p
+\b
+\q1
+\v 34 Orang yang menghina TUHAN dihina oleh TUHAN juga.
+\q2 Tetapi Dia mengasihani orang yang rendah hati.\f + \fr 3:34 \fk Ayat 34 \ft Yak. 4:6 dan 1Ptr. 5:5 mengutip ayat ini, tetapi sedikit berbeda karena dikutip dari terjemahan PL dari bahasa Yunani yang disebut Septuaginta atau LXX.\f*
+\b
+\q1
+\v 35 Kamu akan dihormati kalau kamu bijaksana,
+\q2 tetapi kalau tidak, kamu akan dipermalukan saja.
+
+
+</USFM>
 
 
 ~~DISCUSSIONS:on~~
