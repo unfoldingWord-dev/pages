@@ -1,0 +1,52 @@
+<USFM>
+
+\c 1
+\s Introduction by Luke
+\p
+\v 1 Dear Mr. Theophilus:
+\m In my first report,\f + \fr 1:1 \fk my first report \ft The first report that was written by Luke is the Gospel of Luke.\f* I told you about all the things that Jesus did and taught from the beginning of His ministry
+\v 2-3 until the day God took Him up to heaven. From the beginning of His ministry, He had chosen His disciples to become His apostles. After He suffered and died on a cross, He came alive again. And for forty days, He showed himself and did many miracles so that His apostles would believe that He really had come back to life. And He also taught them about God's kingdom.\f + \fr 1:2-3 \fk God's kingdom \ft is God's rule over all of those who obey Him. Just as Jesus obeyed the will of God— to the point of giving up His own life, so everyone who is included in God's people should also give up his life to obey God's will (Mark 8:34; Rom.10:9-10). In that way we prove that we've become citizens of God's kingdom and are worthy to receive everything that God promised to His chosen people in the past. When Jesus comes again, God will rule openly on the earth, just as God has always rules in heaven (Matt. 6:10). Before Jesus was born into this world, all of the Jews were waiting for God's kingdom because of verses like these: Ps. 2:6-11; Is. 9:5-6; and Dan. 7:13-14.\f* Before He ascended to heaven, with the help of the Holy Spirit He gave various commands to His apostles.
+\v 4 And while Jesus was still with them, He siad, “Don't leave Jerusalem, but wait here until He whom I told you about comes— that is He who was promised by My Father.
+\v 5 For in the past, John baptized you with water, but God will soon baptize you with His Spirit.”
+\s Jesus is raised up to heaven
+\p
+\v 6 While the apostles were together, they asked Jesus, “Lord, is this the time when You will set up the kingdom of Israel again, so that this land of ours will be independent and no longer be under the authority of the kingdom of Rome?”
+\p
+\v 7 Then He said to them, “You don't need to know the day or the time which the Father has according to His own right.
+\v 8 However, each of you will receive power, when the Holy Spirit is sent and lives in you. By His power, you'll become My witnesses in Jerusalem, in all Judea, in Samaria, and unto all of the remotest regions of the earth.”
+\p
+\v 9 After He had said that to them, He was taken up into the sky. While the apostles were witnessing that, a cloud covered Him so that they couldn't see Him anymore.
+\v 10 And while they were still trying to see Him in the sky, two angels who were robed in white suddenly appeared, standing beside them. The two angels looked like young men.
+\v 11 Then the two angels said, “Hey you people of Galilee, why're you still standing here and looking at the sky? One day this Jesus— who was taken up from among you into heaven, will come in the same way that you saw Him go.”
+\s A replacement for Judas is chosen
+\p
+\v 12 Then the apostles returned to the city of Jerusalem from the Mount of Olives, which was the distance of one kilometer from the city.
+\v 13 Then they entered the city and went to the room upstairs— which was the place they were staying. The apostles were
+\q1 Peter, John, James,
+\q1 Andrew, Philip, Thomas,
+\q1 Bartholomew, Matthew, James— who was the son of Alphaeus, Simon— a man who had followed the Israeli independence movement in the past,\f + \fr 1:13 \fk Israeli independence movement \ft Literally, “Zealot”— which was the name of that movement.\f*
+\q1 and Judas— who was the son of James.
+\p
+\v 14 They all prayed together diligently and in unity. Along with them were Jesus' younger brothers and some women— one of whom was Mary, His mother.
+\p
+\v 15 After several days, there were about one hundred and twenty brothers and sisters of the faith who had gathered there. Then Peter stood up in their midst and said,
+\v 16-17 “Brothers and sisters, God has obviously arranged it so that everything that has now happened agrees with what was written in the Holy Bible— which is what was revealed by the Holy Spirit through King David's prophecy. He spoke about Judas— who became a guide to the people who arrested Jesus. Before that, Judas was one of our group and had served with us, of course.”
+\p
+\v 18 (At the time Peter was speaking, Judas had already bought a piece of land with the money that he got as a result of his evil when he betrayed Jesus. Then while he was on that land, he fell headlong with his body splitting open. All of the contents of his stomach came out, and then he died.
+\v 19 Then that became known to all the residents of Jerusalem. Because of that, the land was called in ‘Akeldama’ in their language. That means ‘land that has been soaked with blood.’\f + \fr 1:19 \fk Verses 18-19 \ft Are a note from Luke. The continuation of Peter's speech is in verse 20.\f*)
+\p
+\v 20 Peter continued, “For it's written in the book of Psalms,
+\q1 ‘May that man's land remain empty,
+\q2 and may no one live there.’\x + Ps. 69:26\x*
+\m And in another verse it is written,
+\q1 ‘May that man's position be taken by someone else.’\x + Ps. 109:8\x*
+\p
+\v 21-22 Because of that, we need to choose another man as a replacement for Judas, so that man can join us other apostles in announcing the testimony that the Lord Jesus has come alive again from death. That man must be a person who was always present with us while Jesus was among us— beginning from the time John baptized Him until He was taken up to heaven from among us.”
+\p
+\v 23 Then those who were gathered together suggested two men as replacements for Judas: First, Joseph (who was also known by two other names— namely Barsabbas and Justus), and the second, Matthias.
+\v 24 Then they prayed, “Lord, You know what's in every person's heart. Show us which one of these two people is the one You choose
+\v 25 to serve as an apostle to replace Judas. For Judas has already gone to the place that's most proper for him.”
+\v 26 Then they cast lots for those two names, and Matthias was the one chosen. So he was added to the other eleven apostles.
+
+</USFM>
+~~DISCUSSIONS:on~~
