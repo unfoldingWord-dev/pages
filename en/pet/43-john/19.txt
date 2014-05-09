@@ -1,0 +1,81 @@
+<USFM>
+
+\c 19
+\p
+\v 1 Then Pilate ordered his soldiers to whip Jesus,\f + \fr 19:1 \fk whip \ft The Roman whip at the time of Jesus was made from several cords of leather. Sharp objects like bones or pieces metal were tied to the end of each cord in order to cut the skin of the person being whipped. According to the law of the Roman kingdom, Roman citizens couldn't be whipped. But slaves or people from countries colonized by the kingdom of Rome, if tried and sentenced to die, were whipped before they were crucified. Sometimes, at the time of being whipped, some of those being punished died.\f* taking Him inside the part of the palace that was their quarters.\f + \fr 19:1 \fk part of the palace … \ft John wrote “taking Him,” but didn't say where they took Him. In order that this is clearer and sounds natural, this information was added according to Mark 15:16.\f*
+\v 2 After they whipped Him, they began to make fun of Him— because Jesus claimed to be a king. So they crowned Him with a crown of thorns which they had made of pieces of vines with thorns. And they also put a purple robe on Him.\f + \fr 19:2 \fk purple robe… \ft It appears they used an old robe that was probably the commander's, in order to make fun of Jesus. Purple cloth was very expensive and was usually worn by kings.\f*
+\v 3 Then they approached Him and said to Him, “Greetings, king of the Jews,” then slapped His face.
+\p
+\v 4 Then Pilate came out of his palace again. There happened to be many people who had gathered there for another reason,\f + \fr 19:4 \fk gathered there for another reason \ft This crowd hadn't gathered because of the problem of Jesus. For the reason they had gathered, see Mark 15:6-8: Every year in Jerusalem, on the Day of Passover, the governor always released a person from prison in agreement with the request of the people. At that time, there was a man in prison named Barabas. He was arrested and put in prison with several other people, because they had caused a riot against the government of Rome. In that disturbance, Barabas killed a person. So as it happened that morning, a crowd came to Governor Pilate and asked this, “Will you release a prisoner on this holiday— like you usually do?\f* so he said to them “Look, I'm bringing this man out to you. I want you to know that I haven't found any wrong at all with this man.”
+\v 5 Then Jesus went out, and He still wore the crown of thorns and the purple robe. And Pilate said to them, “Here he is!”
+\p
+\v 6 But when the chief priests and the guards of God's Temple saw Jesus, they shouted, “Crucify him! Crucify him!”\f + \fr 19:6 \fk Crucify him! \ft At the time of Jesus, the government of Rome used a special way to carry out the death penalty on criminals— that is by crucifixion. They made a cross from two beams of wood in the shape of the letter 'T'. Before the criminal was crucified, he would be whipped until almost dead, then nailed with long nails to that cross. His two hands were lifted up and nailed to the left and right of the cross. His two feet were also nailed to the cross. Then the cross was raised up by planting it in the dirt or in a large stone. A person who was crucified on a cross usually didn't die immediately. He could live for hours or days, and suffer terribly. The person who was sentenced to death by crucifixion didn't only suffer in a physical way, but was also deeply shamed. For criminals who were punished this way were always crucified naked, and people who passed by the place would insult and make fun of them. The death sentence by crucifixion didn't apply to citizens of the kingdom of Rome, but only applied to slaves or people from other countries colonized by the kingdom of Rome.\f*
+\p But Pilate said to them, “You take him yourselves and crucify him, because I don't find any fault in him!”
+\p
+\v 7 Then the Jews answered, “According to our law, he must be sentenced to death, because he said, “I am the Son of God.”
+\p
+\v 8 When Pilate heard their words, he grew more afraid.
+\v 9 So he went into the governor's palace again and ordered Jesus to be brought inside. Then he said to Him, “Where did you come from?” But Jesus didn't answer!
+\p
+\v 10 Then Pilate said, “So you don't want to talk to me— huh?! Don't you know that I have the authority to release you and also to crucify you?”
+\p
+\v 11 Jesus answered, “The authority you have over Me is only because God gave it to you. If that weren't so, you wouldn't have any authority over Me at all. For that reason, the person who turned Me over to you has committed a greater sin than the sin you'll commit when you sentence me..
+\v 12 On hearing that, Pilate tried to release Him. But the Jewish leaders shouted, “A person who says that he's a king opposes the high king of Rome. If you free him, then you also oppose the high king!”
+\p
+\v 13 When Pilate heard those words, he ordered Jesus to be taken outside, then he sat in the seat of judgment. That place was called “The Stone Pavement.” (In the Hebrew language, it was called “Gabbatha.”)
+\p
+\v 14 It was about noontime, and that was a day of preparation before the most important day in the Passover celebration. Then Pilate made fun of the Jewish leaders by saying, “Look at this king of yours!”
+\p
+\v 15 Then they shouted, “Do away with him! Do away with him! Crucify him!”
+\p And Pilate said to them again, “Do you want me to crucify your king?”
+\p Then the chief priests answered, “We don't have any other king, except the high king of Rome!”
+\p
+\v 16 Finally Pilate went along with their desires and turned Jesus over to his soldiers to be crucified.
+\s Jesus is crucified
+\r (Matt. 27:32-44; Mark 15:21-32; Luke 23:26-43)
+\p Then they took Him to be crucified,
+\v 17 and Jesus carried His own cross. They took Him to the place that is named “the Place of the Skull.” (In the Hebrew language that place is called Golgotha.)\f + \fr 19:17 \fk Golgotha \ft Golgotha— the Place of the Skull, comes from the everyday Hebrew language. In the Latin/Roman language, it was called Calvary. That hill was to the north side of Jerusalem. The place wasn't named that because there were many human skulls there. It happened that on that hill there was a huge rock which stuck out, that was shaped like a human skull.\f*
+\v 18 They crucified Him there. There were also two criminals who were crucifed along with Jesus. Jesus cross was in the middle, and the crosses of the two criminals were to the right and left sides of Him.
+\v 19 Pilate ordered that a writing be attached to Jesus' cross. That writing was an explanation of the reason He was killed. The notice was, “Jesus, the Nazarene, king of the Jews.”
+\v 20 Many Jews read that writing, because the place where Jesus was crucified wasn't far from the city, and it was written in three languages— namely Hebrew, Latin, and Greek.\f + \fr 19:20 \fk Hebrew, Latin, and Greek \ft The Hebrew language was the original language of the Jews. Latin was the language of the Italian people and also the language of the Roman government. (Rome was the capitol city of the country of Italy.) And since 300 years before the birth of Jesus, the Greek language was the common language, because before Rome controlled all of the area around the Mediterranean Sea, the people of Greece controlled all of that area.\f*
+\p
+\v 21 Then the chief priests said to Pilate, “Order them to change that writing! Don't say ‘King of the Jews.’ But it should be like this, ‘This man said, “I'm the king of the Jews.” ’ ”
+\p
+\v 22 But Pilate answered, “I I won't change what I ordered to be written!”
+\p
+\v 23 Jesus was crucified by four soldiers. Then they divided His clothes among themselves, and each one got part. His tunic was long, without a seam, because it was woven from top to bottom.
+\v 24 Because of that, they said to each other, “Let's not tear this tunic. We'll just cast lots— to decide who will get it.” So it happened exactly according to what was determined by God— so that what was written in the Holy Bible was fulfilled,
+\q1 “They will divide My clothes among them, q2 and they will cast lots to see who'll get My tunic.”\x + Ps. 22:19\x*
+\m The soldiers did exactly like the Word of the Lord, even though they weren't aware of it.
+\p
+\v 25 Jesus' mother was standing near His cross. Also standing there were his mother's sister, and another Mary— who was the wife of Clopas, and also Mary who was from the village of Magdala.
+\v 26 And I, (Jesus' disciple whom He truly loved,)\f + \fr 19:26 \fk disciple… He truly loved \ft See note in John 13:23.\f* was standing there too. So when Jesus saw His mother and me, He said to His mother, “Mother, he's your son!”
+\v 27 Then He said to me too, “She's your mother!” So from that day on, I took the mother of Jesus to live in my house.
+\s Jesus dies
+\r (Matt. 27:45-56; Mark 15:33-41; Luke 23:44-49)
+\p
+\v 28 When Jesus knew that He had finished carrying out all of His tasks, in agreement with what's written in God's Word, He said, “I'm thirsty.”\x + Ps. 22:16, 69:22\x*
+\v 29 In that place, there was a container that was full of sour wine. When they heard Jesus' words, one of the people there put something like a sponge on the end of a branch of hyssop,\f + \fr 19:29 \fk hyssop \ft is a small plant in Palestine. It's leaves are small, so it can be used like a brush to paint or sprinkle something. That plant was used at the first Passover in Egypt, and also in the required cleansing from skin diseases according to the regulations of Moses. (Num. 14:4)\f* then dipped it in the wine, and put it up to Jesus' mouth— so that He could taste it.
+\v 30 When He tried a little of the sour wine, He said, “It's finished.” Then He bowed His head and died.
+\p
+\v 31 That day was the preparation day before the arrival of the special Sabbath Day in the Passover celebration. So the Jewish leaders didn't want there to be anyone still hanging on a cross on that special Sabbath Day. Because of that, they asked Pilate that the legs of the three crucified men be broken, so that they would quickly die, and their bodies could be taken down quickly before night came.
+\v 32 So the soldiers broke the legs of the two men who were crucified on the left and right sides of Jesus.
+\v 33 Then when they wanted to break Jesus' legs, they saw that Jesus had already died. Because of that they didn't break His legs.
+\v 34 But one of them speared Jesus in His side. Blood and water immediately came out of His side.
+\v 35 (I, who am writing this book,\f + \fr 19:35 \fk I \ft John literally wrote, “The person who saw,” but it's clear that he meant himself.\f* saw this with my own eyes, and I know that this really happened. I'm writing this testimony of mine so that all of you may believe too.)
+\v 36 So it happened just as God had determined— so that what was written in the Holy Bible was fulfilled,
+\q1 “None of His bones will be broken.”\f + \fr 19:36 \fk None of His bones…be broken \ft Quoted from Ps. 34:21. This is also in agreement with the regulation for every lamb sacrificed in the Passover celebration. See Ex. 12:46 and Deut. 9:12.\f*
+\m
+\v 37 And what they did agrees with another verse which says, “They'll look at Him whom they've speared.”\x + Zak. 12:10\x*
+\s The body of Jesus is buried
+\r (Matt. 27:57-61; Mark 15:42-47; Luke 23:50-56)
+\p
+\v 38 After that, a man named Joseph came and asked Pilate for permission to bury the body of Jesus. (This Joseph came from the village of Arimathea. He was a follower of Jesus, but not openly, because he was afraid of the Jewish leaders.) When Pilate gave permission, he, along with some other people, came and took the body of Jesus.
+\v 39 Nicodemus— the man who had earlier met with Jesus at night, also helped Joseph. Nicodemus brought fragrant ingredients— which were a mixture of myrrh and aloes\f + \fr 19:39 \fk mixture of myrrh and aloes \ft Myrrh is made from the resin of the wood of the myrrh tree. That material is hard like the resin of the 'damal' tree. In the time of Jesus, those two materials were pounded until fine. The mixture of myrrh and aloes could be burned, because it smelled really good.\f* which weighed more than thirty kilograms.
+\v 40 They took Jesus' body and wrapped it with fine cloth along with those ingredients, according to the way that the Jews wrapped dead bodies to be buried.
+\p
+\v 41 There was a garden near the place where Jesus was crucified. And in the garden, there was a hole in a rock which had been prepared as a tomb, and hadn't been used yet.
+\v 42 Because the sun had almost set, and the evening of Sabbath\f + \fr 19:42 \fk evening of Sabbath \ft According to the way days were counted in the Jewish culture, the Sabbath Day began when the sun set on Friday, and ended when the sun set on Saturday.\f* was near, they put the body of Jesus in that tomb which was nearby.
+
+</USFM>
+~~DISCUSSIONS:on~~
