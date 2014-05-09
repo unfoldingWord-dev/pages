@@ -18,11 +18,9 @@
 ===== Examples from the Bible stories: =====
 
 
-**[[:en:obs-training:frames:25-01|[25-01]]]** Then Satan appeared and **tempted** him (Jesus).
+  * **[[:en:obs-training:frames:25-01|[25-01]]]** Then Satan came to Jesus and **tempted** him to sin.
+  * **[[:en:obs-training:frames:25-08|[25-08]]]** Jesus did not give in to Satan's **temptations**, so Satan left him.
+  * **[[:en:obs-training:frames:38-11|[38-11]]]** Jesus told his disciples to pray that they would not enter into **temptation**.
 
 
-**[[:en:obs-training:frames:25-08|[25-08]]]** Jesus did not give in to Satan's **temptations**, so Satan left him.
-
-
-**[[:en:obs-training:frames:38-11|[38-11]]]** Jesus told his disciples to pray that they would not fall into **temptation**.
 ~~DISCUSSION~~
