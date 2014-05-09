@@ -9,6 +9,7 @@
   * A witness is someone who has seen or heard something happen.
   * When someone is taken to trial for doing something wrong, witnesses are asked to tell what they saw or heard. This is to give evidence about the person's guilt or innocence.
   * Witnesses are expected to tell the truth about what they saw or heard.
+  * If a witness is not telling the truth about what he has seen or heard, he is called a “false witness.” 
 
 
 [See also: **[[:en:key-terms:guilt|guilt]]**]
