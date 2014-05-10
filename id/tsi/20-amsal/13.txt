@@ -1,0 +1,132 @@
+<USFM>
+\c 13
+\p
+\p
+\b
+\q1
+\v 1
+\q2 
+\p
+\b
+\q1
+\v 2
+\q2 
+\p
+\b
+\q1
+\v 3
+\q2 
+\p
+\b
+\q1
+\v 4
+\q2 
+\p
+\b
+\q1
+\v 5
+\q2 
+\p
+\b
+\q1
+\v 6
+\q2 
+\p
+\b
+\q1
+\v 7
+\q2 
+\p
+\b
+\q1
+\v 8 Kalau orang kaya disandra, dia bisa membayar supaya dia dibebaskan,
+\q2 tetapi orang miskin tidak akan disandra.
+\q2 
+\p
+\b
+\q1
+\v 9 
+\q2 
+\p
+\b
+\q1
+\v 10 
+\q2 
+\p
+\b
+\q1
+\v 11 Kalau kamu mendapat banyak uang dengan cara yang cepat, uang itu juga akan cepat hilang,
+\q2 tetapi kekayaan yang dari hasil kerja keras akan bertahan lama.
+\p
+\b
+\q1
+\v 12
+\q2 
+\p
+\b
+\q1
+\v 13
+\q2 
+\p
+\b
+\q1
+\v 14
+\q2 
+\p
+\b
+\q1
+\v 15
+\q2 
+\p
+\b
+\q1
+\v 16
+\q2 
+\p
+\b
+\q1
+\v 17
+\q2 
+\p
+\b
+\q1
+\v 18
+\q2 
+\p
+\b
+\q1
+\v 19
+\q2 
+\p
+\b
+\q1
+\v 20
+\q2 
+\p
+\b
+\q1
+\v 21
+\q2 
+\p
+\b
+\q1
+\v 22
+\q2 
+\p
+\b
+\q1
+\v 23 Ladang dan hewan orang miskin bisa menghasilkan cukup banyak makanan,
+\q2 tetapi bisa terjadi orang-orang yang tidak jujur rampas semuanya.
+\q2 
+\p
+\b
+\q1
+\v 24
+\q2 
+\p
+\b
+\q1
+\v 25 Orang yang baik biasa makan sampai kenyang,
+\q2 tetapi orang jahat sering mengalami lapar.
+</USFM>
+~~DISCUSSIONS:on~~
