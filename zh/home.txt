@@ -14,3 +14,5 @@ Welcome to Door43! Please feel free to [[:zh:home?do=edit|edit]] this page in yo
 
 
     * **[[:zh:obs|打开圣经故事 (zh)]]**
+    * **[[:zh:caigentan|菜根谭(zh)]]**
+    * **[[:zh:daodejing|導德经(zh)]]**
