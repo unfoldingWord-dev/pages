@@ -3,12 +3,13 @@
 
 ===== Perjanjian Lama =====
 
-| **[[:id:tsi:info|INFO]]** | **[[:id:tsi:01-kejadian|KEJADIAN]]**  | **[[:id:tsi:02-keluaran|KELUARAN]]**  | **[[:id:tsi:03-imamat|IMAMAT]]**  |
-| **[[:id:tsi:04-bilangan|BILANGAN]]** | **[[:id:tsi:05-ulangan|ULANGAN]]**  | **[[:id:tsi:06-yosua|YOSUA]]**  | **[[:id:tsi:07-hakim-hakim|HAKIM-HAKIM]]**  |
-| **[[:id:tsi:08-rut|RUT]]** | **[[:id:tsi:09-1samuel|1SAMUEL]]**  | **[[:id:tsi:10-2samuel|2SAMUEL]]**  | **[[:id:tsi:11-1raja-raja|1RAJA-RAJA]]**  |
+| **[[:id:tsi:info|INFO]]** | **[[:id:tsi:01-kejadian|KEJADIAN]]** | **[[:id:tsi:02-keluaran|KELUARAN]]** | **[[:id:tsi:03-imamat|IMAMAT]]** |
+| **[[:id:tsi:04-bilangan|BILANGAN]]** | **[[:id:tsi:05-ulangan|ULANGAN]]** | **[[:id:tsi:06-yosua|YOSUA]]** | **[[:id:tsi:07-hakim-hakim|HAKIM-HAKIM]]** |
+| **[[:id:tsi:08-rut|RUT]]** | **[[:id:tsi:09-1samuel|1SAMUEL]]** | **[[:id:tsi:10-2samuel|2SAMUEL]]** | **[[:id:tsi:11-1raja-raja|1RAJA-RAJA]]** |
+| **[[:id:tsi:12-1tawarik|1TAWARIK]]** | **[[:id:tsi:13-2tawarik|2TAWARIK]]** | **[[:id:tsi:14-ezra|EZRA]]** | **[[:id:tsi:15-nehemia|NEHEMIA]]** |
+| **[[:id:tsi:16-ester|ESTER]]** | **[[:id:tsi:17-ayub|AYUB]]** | **[[:id:tsi:18-ezra|EZRA]]** | **[[:id:tsi:19-mazmur|MAZMUR]]** |
+| **[[:id:tsi:20-amsal|AMSAL]]** | **[[:id:tsi:21-pengkhotbah|PENGKHOTBAH]]** | **[[:id:tsi:22-kidung|KIDUNG AGUNG]]** | **[[:id:tsi:23-yesaya|YESAYA]]** |
  
-
-**[[:id:tsi:19-mazmur|MAZMUR]]** 
 
 
 **[[:id:tsi:20-amsal|Amsal— yaitu Nasihat Raja Salomo]]** 
