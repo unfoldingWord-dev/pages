@@ -1,18 +1,15 @@
 ====== Judas ======
 
 
-==== (term, other) ====
-
-
 ===== Facts: =====
 
-  * Judas was one of Jesus' twelve apostles. 
-  * He had the responsibility of managing the apostles' money, but he stole some of it for himself.
+Judas was one of Jesus' twelve apostles. However, he betrayed Jesus to the Jewish leaders.
+
+  * Judas managed the apostles' money, but he stole some of it for himself.
   * Judas betrayed Jesus by telling the religious leaders where Jesus was so they could arrest him.
-  * When he saw that the religious leaders wanted to kill Jesus, Judas regretted what he had done and killed himself.
+  * When the religious leaders condemned Jesus to die, Judas regretted that he had betrayed Jesus, so he killed himself.
 
-
-[See also: **[[:en:key-terms:betray|betray]]**]
+[See also: **[[:en:key-terms:apostle|apostle]]**, **[[:en:key-terms:betray|betray]]**, **[[:en:key-terms:jewish-leaders|religious leaders]]**]
 
 
 ===== Examples from the Bible stories: =====
@@ -23,4 +20,4 @@
   ***[[:en:obs-training:frames:39-08|[39-08]]]** Meanwhile, **Judas**, the betrayer, saw that the Jewish leaders had condemned Jesus to die. He became full of sorrow and went away and killed himself.
 
 
-~~DISCUSSION~~
+~~DISCUSSION:closed~~

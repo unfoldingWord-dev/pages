@@ -3,9 +3,12 @@
 
 ===== Facts: =====
 
-  * Lazarus was the friend of Jesus whom he raised from the dead.
-  * Mary and Martha were his sisters.
-  * After Jesus raised him from the dead, the Jewish leaders were angry and actually tried to find a way to kill Lazarus.
+Lazarus was the friend of Jesus whom he raised from the dead.
+
+  * Lazarus had two sisters, named Mary and Martha, who also believed in Jesus.
+  * After Jesus raised him from the dead, the Jewish leaders were angry and tried to find a way to kill Lazarus.
+
+[See also: **[[:en:key-terms:raise|raise]]**, **[[:en:key-terms:jewish-leaders|Jewish leaders]]**]
 
 
 ===== Examples from the Bible stories: =====
@@ -20,4 +23,4 @@
   ***[[:en:obs-training:frames:37-11|[37-11]]]** But the religious leaders of the Jews were jealous, so they gathered together to plan how they could kill Jesus and **Lazarus**.
 
 
-~~DISCUSSION~~
+~~DISCUSSION:closed~~
