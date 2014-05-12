@@ -1,7 +1,7 @@
 <USFM>
 
 \c 6
-\s3 (1) Untuk pemimpin pujian, dari Daud: Mazmur ini untuk diiringi dengan instrumen petik dengan delapan senar.
+\s2 (1) Untuk pemimpin pujian, dari Daud: Mazmur ini untuk diiringi dengan instrumen petik dengan delapan senar.
 \p
 \q1
 \v 1(2) Ya, ALLAH, ketika hati-Mu panas karena saya membangkitkan kemarahan-Mu,
