@@ -9,10 +9,10 @@
 | **[[:id:tsi:12-1tawarik|1TAWARIK]]** | **[[:id:tsi:13-2tawarik|2TAWARIK]]** | **[[:id:tsi:14-ezra|EZRA]]** | **[[:id:tsi:15-nehemia|NEHEMIA]]** |
 | **[[:id:tsi:16-ester|ESTER]]** | **[[:id:tsi:17-ayub|AYUB]]** | **[[:id:tsi:18-ezra|EZRA]]** | **[[:id:tsi:19-mazmur|MAZMUR]]** |
 | **[[:id:tsi:20-amsal|AMSAL]]** | **[[:id:tsi:21-pengkhotbah|PENGKHOTBAH]]** | **[[:id:tsi:22-kidung|KIDUNG AGUNG]]** | **[[:id:tsi:23-yesaya|YESAYA]]** |
- 
-
-
-**[[:id:tsi:20-amsal|Amsal— yaitu Nasihat Raja Salomo]]** 
+| **[[:id:tsi:24-yeremia|YEREMIA]]** | **[[:id:tsi:25-ratapan|RATAPAN]]** | **[[:id:tsi:26-yehezkiel|YEHEZKIEL]]** | **[[:id:tsi:27-daniel|DANIEL]]** |
+| **[[:id:tsi:28-hosea|HOSEA]]** | **[[:id:tsi:29-yoel|YOEL]]** | **[[:id:tsi:30-amos|AMOS]]** | **[[:id:tsi:31-obaja|OBAJA]]** |
+| **[[:id:tsi:32-yunus|YUNUS]]** | **[[:id:tsi:33-mikha|MIKHA]]** | **[[:id:tsi:34-nahum|NAHUM]]** | **[[:id:tsi:35-habakuk|HABAKUK]]** |
+| **[[:id:tsi:36-zefanya|YEFANYA]]** | **[[:id:tsi:37-hagai|HAGAI]]** | **[[:id:tsi:38-zakaria|ZAKARIA]]** | **[[:id:tsi:39-maleaki|MALEAKI]]** |
 
 
 ===== Perjanjian Baru =====
