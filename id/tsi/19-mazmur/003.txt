@@ -1,10 +1,11 @@
 <USFM>
 \c 3
+\s2 (1) Mazmur Daud ketika dia meluputkan diri dari anaknya, Absalom.
 \p
-\v 1 Mazmur Daud ketika dia meluputkan diri dari anaknya, Absalom.
-\q1 (2) Ya, TUHAN! Begitu banyak orang yang menentang dan memusuhi saya!
 \q1
-\v 2 (3) Anggapan mereka tentang saya, “TUHAN-pun tidak mau menolong atau menyelamatkan dia!”
+\v 1 (2) Ya, Allah, begitu banyak orang yang menentang dan memusuhi saya!
+\q1
+\v 2 (3) Anggapan mereka tentang saya, “Tuhan-pun tidak mau menolong atau menyelamatkan dia!”
 
 \lit (diselingi musik instrumental)
 \f + \fr 3:2 \fk diselingi musik instrumental \ft menerjemahkan kata “selah” dalam bahasa Ibrani. Tidak diketahui artinya yang persis untuk ‘selah’, tetapi kebanyakan penafsir berkata bahwa kemungkinan besar kata itu adalah tanda untuk pemain musik.\f*
@@ -34,7 +35,7 @@
 \q1
 \v 5 (6) Saya tidak takut untuk tertidur!
 
-\q2 Saya merasa nyaman, karena Engkau selalu menjaga saya.
+\q2 Saya merasa nyaman, karena ENGKAU selalu menjaga saya.
 
 \q1
 \v 6 (7) Saya tidak akan takut 
@@ -45,12 +46,12 @@
 \b
 
 \q1
-\v 7 (8) Bangkitlah dan selamatkanlah saya, ya TUHAN dan Allah saya!
+\v 7 (8) Bangkitlah dan selamatkanlah saya, ya ALLAH dan Tuhan saya!
 
 \q2 Pukullah rahang setiap musuh saya! Patahkanlah gigi-gigi mereka!
 
 \q1
-\v 8 (9) Hanya Engkaulah yang memberi kemenangan kepada umat-Mu. 
+\v 8 (9) Hanya ENGKAUlah yang memberi kemenangan kepada umat-Mu. 
 
 \q2 Limpahkanlah berkat-Mu pada umat-Mu.
 
