@@ -1,24 +1,24 @@
 <USFM>
 \c 5
-\s3 (1) Untuk pemimpin pujian, dari Daud: Mazmur ini untuk diiringi dengan seruling.
+\s2 (1) Untuk pemimpin pujian, dari Daud: Mazmur ini untuk diiringi dengan seruling.
 
 \p
 \q1
-\v 1 (2) Ya Tuhan, dengarkanlah doa dan pertimbangkanlah keluhan hati saya! 
+\v 1 (2) Ya ALLAH, dengarkanlah doa dan pertimbangkanlah keluhan hati saya! 
 
 \q1
-\v 2 (3) Perhatikanlah seruan saya, karena saya panjatkan doa ini hanya kepada Engkau, ya Allah, Raja saya!
+\v 2 (3) Perhatikanlah seruan saya, karena saya panjatkan doa ini hanya kepada Engkau, ya Tuhan dan Raja saya!
 
 \q1
-\v 3 (4) Setiap pagi saya memohon kepada Engkau, Ya TUHAN, dengarkanlah saya ketika saya membawa permohonan saya kepada Engkau,
+\v 3 (4) Setiap pagi saya memohon kepada Engkau, ya ALLAH, dengarkanlah saya ketika saya membawa permohonan saya kepada Engkau,
 
-\q2 dan saya menantikan jawabannya!
+\q2 dan saya akan menantikan jawabannya!
 
 \p
 \b
 \q1
 \v 4 (5) Memang Engkau membenci segala kejahatan, 
-\q2 dan orang-orang yang jahat tidak dapat tinggal bersama Engkau.
+\q2 dan orang-orang yang jahat tidak dapat tinggal bersama-Mu.
 
 \q1
 
@@ -27,7 +27,7 @@
 \q2 karena Engkau membenci semua yang melakukan kejahatan.
 
 \q1
-\v 6 (7) Engkau membenci dan membinasakan setiap pembohong, pembunuh, dan penipu.
+\v 6 (7) Engkau, ya TUHAN, membenci dan membinasakan setiap pembohong, pembunuh, dan penipu.
 
 \p
 \b
@@ -50,9 +50,9 @@
 
 \q2 Kerinduan hati mereka hanya untuk membinasakan orang lain.
 
-\q2 Kata-kata mereka manis, tetapi maksud mereka licik.
+\q2 Kata-kata mereka manis, tetapi maksud mereka licik,
 
-\q2 Perkataan mereka membawa kematian!\f + \fr 5:9 \fk Perkataan … \ft Secara lebih harfiah, “Kerongkongan mereka bagaikan lubang kuburan.”\f*
+\q2 dan perkataan mereka membawa kematian!\f + \fr 5:9 \fk Perkataan … \ft Secara lebih harfiah, “Kerongkongan mereka bagaikan lubang kuburan.”\f*
 
 \q1
 \v 10 (11) Ya Allah, jatuhkan hukuman atas mereka!
@@ -68,14 +68,14 @@
 \q1
 \v 11 (12) Bergembiralah dan bersoraklah dengan sukacita semua orang yang mengandalkan Engkau untuk perlindungan!
 
-\q1 Lindungilah mereka yang mengasihi Engkau, 
+\q1 Lindungilah semua yang mengasihi Engkau, 
 
-\q2 supaya mereka boleh memuji Engkau.\f + \fr 5:11 \fk Engkau \ft Secara harfiah, “nama Engkau.” Nama-Nya dipakai sebagai kiasan yang menunjukkan semua kepribadian Allah.\f*
+\q2 supaya mereka boleh memuji Engkau dengan {penuh/sangat} sukacita.\f + \fr 5:11 \fk Engkau \ft Secara harfiah, “nama Engkau.” Nama-Nya dipakai sebagai kiasan yang menunjukkan semua kepribadian Allah.\f*
 
 \q1
-\v 12 (13) Ya TUHAN, sudah terbukti bahwa Engkau memberkati orang-orang yang benar, 
+\v 12 (13) Ya ALLAH, sudah terbukti bahwa Engkau memberkati orang-orang yang benar, 
 
-\q2 dan biarlah kebaikan hati Engkau menjadi seperti perisai untuk melindungi mereka.
+\q2 dan biarlah kebaikan hati Engkau menjadi seperti perisai untuk melindungi mereka!
 
 </USFM>
 
