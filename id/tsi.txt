@@ -3,10 +3,10 @@
 
 ===== Perjanjian Lama =====
 
-
-**[[:id:tsi:01-kejadian|KEJADIAN]]** 
-
-**[[:id:tsi:08-rut|RUT]]** 
+| **[[:id:tsi:info|INFO]]** | **[[:id:tsi:01-kejadian|KEJADIAN]]**  | **[[:id:tsi:02-keluaran|KELUARAN]]**  | **[[:id:tsi:03-imamat|IMAMAT]]**  |
+| **[[:id:tsi:04-bilangan|BILANGAN]]** | **[[:id:tsi:05-ulangan|ULANGAN]]**  | **[[:id:tsi:06-yosua|YOSUA]]**  | **[[:id:tsi:07-hakim-hakim|HAKIM-HAKIM]]**  |
+| **[[:id:tsi:08-rut|RUT]]** | **[[:id:tsi:09-1samuel|1SAMUEL]]**  | **[[:id:tsi:10-2samuel|2SAMUEL]]**  | **[[:id:tsi:11-1raja-raja|1RAJA-RAJA]]**  |
+ 
 
 **[[:id:tsi:19-mazmur|MAZMUR]]** 
 
@@ -17,13 +17,13 @@
 ===== Perjanjian Baru =====
 
 
-|**[[:id:tsi:info|INFO]]**  |**[[:id:tsi:40-matius|MAT]]**  |**[[:id:tsi:41-markus|MRK]]**  |**[[:id:tsi:42-lukas|LUK]]**  |
-|**[[:id:tsi:43-yohanes|YOH]]**  |**[[:id:tsi:44-kisah|KIS]]**  |**[[:id:tsi:45-roma|ROM]]**  |**[[:id:tsi:46-1korintus|1KOR]]**  |
-|**[[:id:tsi:47-2korintus|2KOR]]**  |**[[:id:tsi:48-galatia|GAL]]**  |**[[:id:tsi:49-efesus|EF]]**  |**[[:id:tsi:50-filipi|FLP]]**  |
-|**[[:id:tsi:51-kolose|KOL]]**  |**[[:id:tsi:52-1tesalonika|1TES]]**  |**[[:id:tsi:53-2tesalonika|2TES]]**  |**[[:id:tsi:54-1timotius|1TIM]]**  |
-|**[[:id:tsi:55-2timotius|2TIM]]**  |**[[:id:tsi:56-titus|TIT]]**  |**[[:id:tsi:57-filemon|FLM]]**  |**[[:id:tsi:58-ibrani|IBR]]**  |
-|**[[:id:tsi:59-yakobus|YAK]]**  |**[[:id:tsi:60-1peter|1PTR]]**  |**[[:id:tsi:61-2peter|2PTR]]**  |**[[:id:tsi:62-1yohanes|1YOH]]**  |
-|**[[:id:tsi:63-2yohanes|2YOH]]**  |**[[:id:tsi:64-3yohanes|3YOH]]**  |**[[:id:tsi:65-yudas|YUD]]**  |**[[:id:tsi:66-wahyu|WHY]]**  |
+| **[[:id:tsi:info|INFO]]** | **[[:id:tsi:40-matius|MAT]]** | **[[:id:tsi:41-markus|MRK]]** | **[[:id:tsi:42-lukas|LUK]]** |
+| **[[:id:tsi:43-yohanes|YOH]]** | **[[:id:tsi:44-kisah|KIS]]** | **[[:id:tsi:45-roma|ROM]]** | **[[:id:tsi:46-1korintus|1KOR]]** |
+| **[[:id:tsi:47-2korintus|2KOR]]** | **[[:id:tsi:48-galatia|GAL]]** | **[[:id:tsi:49-efesus|EF]]** | **[[:id:tsi:50-filipi|FLP]]** |
+| **[[:id:tsi:51-kolose|KOL]]** | **[[:id:tsi:52-1tesalonika|1TES]]** | **[[:id:tsi:53-2tesalonika|2TES]]** | **[[:id:tsi:54-1timotius|1TIM]]** |
+| **[[:id:tsi:55-2timotius|2TIM]]** | **[[:id:tsi:56-titus|TIT]]** | **[[:id:tsi:57-filemon|FLM]]** | **[[:id:tsi:58-ibrani|IBR]]** |
+| **[[:id:tsi:59-yakobus|YAK]]** | **[[:id:tsi:60-1peter|1PTR]]** | **[[:id:tsi:61-2peter|2PTR]]** | **[[:id:tsi:62-1yohanes|1YOH]]** |
+| **[[:id:tsi:63-2yohanes|2YOH]]** | **[[:id:tsi:64-3yohanes|3YOH]]** | **[[:id:tsi:65-yudas|YUD]]**  | **[[:id:tsi:66-wahyu|WHY]]** |
 
 
 \\
