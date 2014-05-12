@@ -1,18 +1,21 @@
 ====== teacher ======
 
 
-==== (term, other) ====
+==== (teacher, Teacher) ====
 
 
 ===== Definition: =====
 
-  * The word 'teacher' in the Bible refers to someone who teaches about God, not a school teacher for children.
-  * In OBS the word 'teacher' is capitalized as 'Teacher' when it is used as a title for Jesus.
-  * People called Jesus 'Teacher' because he taught them about God, and this was a way to show him respect.
-  * Some cultures have other words that they use to show respect to teachers, such as "Sir" or "Rabbi" or "Preacher".
+A teacher is a person who instructs other people. Teachers help others to obtain and use both knowledge and skills.
+
+  * The word "teacher" is used in a special sense in the Bible to refer to someone who teaches about God, not to a school teacher for children.
+  * The people that learn from a teacher are called "students." People who learn spiritual truth from a teacher are also called "disciples."
+  * In these stories, the word "teacher" is capitalized as, "Teacher" when it is used as a title for Jesus.
+  * People called Jesus, "Teacher" to show him respect because he taught them about God.
+  * Some cultures have other words that they use to show respect to teachers, such as, "Sir" or, "Rabbi" or, "Preacher."
 
 
-[See also: **[[:en:key-terms:preach|preach]]**]
+[See also: **[[:en:key-terms:disciple|disciple]]**, **[[:en:key-terms:preach|preach]]**]
 
 
 ===== Examples from the Bible stories: =====
@@ -24,4 +27,4 @@
   ***[[:en:obs-training:frames:49-03|[49-03]]]** Jesus was also a great **teacher**. He taught that you need to love your neighbor the same way you love yourself.
 
 
-~~DISCUSSION~~
+~~DISCUSSION:closed~~
