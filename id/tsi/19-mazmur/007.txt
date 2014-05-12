@@ -2,11 +2,78 @@
 
 \c 7
 
-\p
 
+
+\d A psalm of David, which he sang to the LORD concerning Cush of the tribe of Benjamin.
+\b
 \q1
+\v 1 I come to you for protection, O LORD my God.
+\q2 Save me from my persecutors—rescue me!
+\q1
+\v 2 If you don't, they will maul me like a lion,
+\q2 tearing me to pieces with no one to rescue me.
+\q1
+\v 3 O LORD my God, if I have done wrong
+\q2 or am guilty of injustice,
+\q1
+\v 4 if I have betrayed a friend
+\q2 or plundered my enemy without cause,
+\q1
+\v 5 then let my enemies capture me.
+\q2 Let them trample me into the ground
+\q2 and drag my honor in the dust.
+\qs Interlude\qs*
+\b
+\q1
+\v 6 Arise, O LORD, in anger!
+\q2 Stand up against the fury of my enemies!
+\q2 Wake up, my God, and bring justice!
+\q1
+\v 7 Gather the nations before you.
+\q2 Rule over them from on high.
+\q2
+\v 8 The LORD judges the nations.
+\q1 Declare me righteous, O LORD,
+\q2 for I am innocent, O Most High!
+\q1
+\v 9 End the evil of those who are wicked,
+\q2 and defend the righteous.
+\q1 For you look deep within the mind and heart,
+\q2 O righteous God.
+\b
+\q1
+\v 10 God is my shield,
+\q2 saving those whose hearts are true and right.
+\q1
+\v 11 God is an honest judge.
+\q2 He is angry with the wicked every day.
+\b
+\q1
+\v 12 If a person does not repent,
+\q2 God
+\f + \fr 7:12 \ft Hebrew \fqa he.\f*
+ will sharpen his sword;
+\q2 he will bend and string his bow.
+\q1
+\v 13 He will prepare his deadly weapons
+\q2 and shoot his flaming arrows.
+\b
+\q1
+\v 14 The wicked conceive evil;
+\q2 they are pregnant with trouble
+\q2 and give birth to lies.
+\q1
+\v 15 They dig a deep pit to trap others,
+\q2 then fall into it themselves.
+\q1
+\v 16 The trouble they make for others backfires on them.
+\q2 The violence they plan falls on their own heads.
 
-\v 1
+
+\b
+\q1
+\v 17 I will thank the LORD because he is just;
+\q2 I will sing praise to the name of the LORD Most High.
 
 
 </USFM>

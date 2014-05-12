@@ -1,19 +1,20 @@
 ====== John ======
 
 
-==== (term, other) ====
+==== (John, the Apostle John) ====
 
 
 ===== Facts: =====
 
+John was one of Jesus' twelve apostles and one of Jesus' closest friends. 
 
-  * John was one of Jesus' twelve apostles and one of Jesus' closest friends. 
-  * He was a different person than John the Baptizer.
+  * He was a different person than John the Baptist.
   * After Jesus went back to heaven, John (the apostle) taught people about Jesus. 
   * John also wrote two books and some letters about Jesus. They are included in the Bible. 
 
+[See also: **[[:en:key-terms:John-baptist|John (the Baptist)]]**, **[[:en:key-terms:apostle|apostle]]**]
 
-[See also: **[[:en:key-terms:John-baptist|John (Baptist)]]**]
+
 ===== Examples from the Bible stories: =====
 
   ***[[:en:obs-training:frames:36-01|[36-01]]]** One day, Jesus took three of his disciples, Peter, James, and **John** with him. (The disciple named **John** was not the same person who baptized Jesus.) They went up on a high mountain by themselves.
@@ -23,4 +24,4 @@
   ***[[:en:obs-training:frames:44-09|[44-09]]]** The leaders were shocked because they could see that these men were common men who were uneducated. They also realized that these men had been with Jesus. After they had threatened Peter and **John**, they let them go.
 
 
-~~DISCUSSION~~
+~~DISCUSSION:closed~~
