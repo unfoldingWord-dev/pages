@@ -2,16 +2,14 @@
 
 \c 7
 
-
-
-\d A psalm of David, which he sang to the LORD concerning Cush of the tribe of Benjamin.
+\s2 (1) {Ratapan//Nyanyian ratapan} {0//yang dikarang oleh} Daud, yang dia nyanyikan kepada ALLAH tentang musuhnya yang bernama Kus, yang berasal dari suku Benyamin.
 \b
 \q1
-\v 1 I come to you for protection, O LORD my God.
-\q2 Save me from my persecutors—rescue me!
+\v 1 Ya ALLAH, saya sudah berlindung pada-Mu!
+\q2 {0//Saya memohon} Selamatkanlah saya dari setiap {musuh/orang} yang mengejar saya!
 \q1
-\v 2 If you don't, they will maul me like a lion,
-\q2 tearing me to pieces with no one to rescue me.
+\v 2 Kalau Tuhan tidak menolong saya, musuh saya itu seperti singa akan menerkam dan merobek-robekkan {badan} saya,
+\q2 dan tidak ada seorang pun yang {berusaha menyelamatkan//berusaha menolong//bisa melepaskan} saya.
 \q1
 \v 3 O LORD my God, if I have done wrong
 \q2 or am guilty of injustice,
@@ -22,7 +20,9 @@
 \v 5 then let my enemies capture me.
 \q2 Let them trample me into the ground
 \q2 and drag my honor in the dust.
-\qs Interlude\qs*
+\qs (diselingi musik instrumental)\qs*
+
+\p
 \b
 \q1
 \v 6 Arise, O LORD, in anger!
@@ -40,6 +40,8 @@
 \q2 and defend the righteous.
 \q1 For you look deep within the mind and heart,
 \q2 O righteous God.
+
+\p
 \b
 \q1
 \v 10 God is my shield,
