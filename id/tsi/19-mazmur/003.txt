@@ -6,7 +6,7 @@
 \v 1 (2) Ya, Allah, begitu banyak orang yang menentang dan memusuhi saya!
 \q1
 \v 2 (3) Anggapan mereka tentang saya, “Tuhan-pun tidak mau menolong atau menyelamatkan dia!”
-
+\b
 \lit (diselingi musik instrumental)
 \f + \fr 3:2 \fk diselingi musik instrumental \ft menerjemahkan kata “selah” dalam bahasa Ibrani. Tidak diketahui artinya yang persis untuk ‘selah’, tetapi kebanyakan penafsir berkata bahwa kemungkinan besar kata itu adalah tanda untuk pemain musik.\f*
 
@@ -20,15 +20,14 @@
 
 \q2 Hanya Engkaulah yang memberikan keberanian dan kemenangan kepada saya.
 
-\lit (diselingi musik instrumental)
-
 \q1
 \v 4 (5) Dalam keadaan berbahaya saya pernah berseru kepada-Mu, ya TUHAN, 
 
 \q2 dan dari gunung-Mu yang kudus
 \f + \fr 3:4 \fk gunung-Mu yang kudus \ft menggambarkan Rumah Allah di bukit Sion. Tetapi itu juga menggambarkan surga.\f*
  Engkau sudah mendengar dan menjawab saya.
-
+\b
+\lit (diselingi musik instrumental)
 \p
 \b
 
@@ -54,7 +53,7 @@
 \v 8 (9) Hanya ENGKAUlah yang memberi kemenangan kepada umat-Mu. 
 
 \q2 Limpahkanlah berkat-Mu pada umat-Mu.
-
+\b
 \lit (diselingi musik instrumental)
 
 </USFM>

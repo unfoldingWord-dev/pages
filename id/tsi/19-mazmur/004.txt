@@ -1,7 +1,7 @@
 <USFM>
 \c 4
 
-\s3 (1) Untuk pemimpin pujian, dari Daud: Mazmur ini untuk diiringi dengan berbagai alat musik petik.
+\s2 (1) Untuk pemimpin pujian, dari Daud: Mazmur ini untuk diiringi dengan berbagai alat musik petik.
 
 \p
 \b
@@ -21,7 +21,7 @@
 \q2 Sampai kapankah kalian akan tertarik dengan omongan kosong
 
 \q2  dan mencela saya tanpa alasan?
-
+\b
 \lit (diselingi musik instrumental)
 \f + \fr 3:2 \fk diselingi musik instrumental \ft menerjemahkan kata “selah” dalam bahasa Ibrani. Tidak diketahui artinya yang persis untuk ‘selah’, tetapi kebanyakan penafsir berkata bahwa kemungkinan besar kata itu adalah tanda untuk pemain musik.\f*
 
@@ -35,6 +35,7 @@
 
 \q2 Tenangkanlah diri dan pikirkanlah hal ini pada malam hari sewaktu berbaring di tempat tidur.
 
+\b
 \lit (diselingi musik instrumental)
 
 \q1
