@@ -1,20 +1,20 @@
 ====== word of God ======
 
 
-==== (word of God, Word of God, God's word, scripture) ====
+==== (word of God, God's word, scripture, Word of God) ====
 
 
 ===== Definition: =====
 
-The "word of God" refers to all that God has said to people. Usually it refers to his written message, also known as the scriptures.
+The "word of God" refers to all that God has said to people. Usually it refers to his written message, also known as the "scriptures."
 
+    * God used prophets, apostles, and other people to communicate the "word of God" to us.
     * In modern times, the "word of God" refers to the Bible.
-    * Jesus is called, "the Word of God," meaning that he is the very message and truth of God. He is God himself.
-    * Some languages will need to translate "God's word" as, "God's message" or, "God's book" or, "God's scroll."
+    * Some languages will need to translate "God's word" as, "God's message" or, "God's book" or, "God's scroll." 
+    * Jesus is also called, "the Word" and, "the Word of God." These titles mean that he fully reveals who God is. He can do this because he is God himself.
 
 
-
-[See also: **[[:en:key-terms:term|term]]**]
+[See also: **[[:en:key-terms:prophet|prophet]]**, **[[:en:key-terms:apostle|apostle]]**]
 
 ===== Examples from the Bible stories: =====
 
@@ -26,4 +26,6 @@ The "word of God" refers to all that God has said to people. Usually it refers t
     * **[[:en:obs-training:frames:45-10|[45-10]]]** Philip also used many other **scriptures**  to tell him the good news of Jesus.
     * **[[:en:obs-training:frames:48-12|[48-12]]]** Moses was a great prophet who proclaimed the **word of God**. Like Moses, Jesus is a prophet, but Jesus is the greatest prophet. He is the **Word of God**.
     * **[[:en:obs-training:frames:49-18|[49-18]]]** God tells you to pray, study **his word**, worship him with other Christians, and tell others what he has done for you.
-~~DISCUSSION~~
+
+
+~~DISCUSSION:closed~~
