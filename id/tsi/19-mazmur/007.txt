@@ -5,38 +5,41 @@
 \s2 (1) {Ratapan//Nyanyian ratapan} {0//yang dikarang oleh} Daud, yang dia nyanyikan kepada ALLAH tentang musuhnya yang bernama Kus, yang berasal dari suku Benyamin.
 \b
 \q1
-\v 1 Ya ALLAH, saya sudah berlindung pada-Mu!
+\v 1 (2) Ya ALLAH, saya sudah berlindung pada-Mu!
 \q2 {0//Saya memohon} Selamatkanlah saya dari setiap {musuh/orang} yang mengejar saya!
 \q1
-\v 2 Kalau Tuhan tidak menolong saya, musuh saya itu seperti singa akan menerkam dan merobek-robekkan {badan} saya,
-\q2 dan tidak ada seorang pun yang {berusaha menyelamatkan//berusaha menolong//bisa melepaskan} saya.
+\v 2 (3) Kalau Tuhan tidak menolong saya, musuh saya itu seperti singa akan menerkam dan merobek-robekkan {badan} saya,
+\q2 dan tidak ada seorang pun yang {0/??akan} {berusaha menyelamatkan//berusaha menolong//bisa melepaskan} saya.
 \q1
-\v 3 O LORD my God, if I have done wrong
-\q2 or am guilty of injustice,
+\v 3 (4) Ya TUHAN, {biarlah saya dijatuhkan hukuman//hukumlah saya} kalau dengan tangan atau perkataan saya pernah melakukan {kesalahan//yang salah} seperti {yang} dia berkata!
+
+\q2
+\v 4 (5) Saya tidak membuat kejahatan kepada teman saya.
+\q2 Saya tidak pernah menolong orang-orang yang memusuhi teman saya.
+\f + \fr 7:4 \fk Baris kedua \ft Juga bisa diterjemahkan, “Saya tidak pernah {merampas harta dari//merampok} dia yang memusuhi saya tanpa alasan.\f*
+
 \q1
-\v 4 if I have betrayed a friend
-\q2 or plundered my enemy without cause,
-\q1
-\v 5 then let my enemies capture me.
-\q2 Let them trample me into the ground
-\q2 and drag my honor in the dust.
+\v 5 (6) Kalau saya pernah membuat seperti itu, biarlah musuh saya itu mengejar dan menangkap saya!
+\q2 Biarlah dia menginjak-injak saya ke tanah sampai mati!
+\q2 Dan biarlah nama baik saya terinjak-injak juga!
 \qs (diselingi musik instrumental)\qs*
 
 \p
 \b
 \q1
-\v 6 Arise, O LORD, in anger!
-\q2 Stand up against the fury of my enemies!
-\q2 Wake up, my God, and bring justice!
+\v 6 (7) Bertindaklah, ya TUHAN, dengan kemarahan-Mu yang luar biasa
+\q2 kepada dia yang dengan begitu kejam memusuhi saya.
+\q2 {?Dengan nyata//Bangunlah dan} Belalah saya sesuai dengan keadilan-Mu!
+
 \q1
-\v 7 Gather the nations before you.
+\v 7 (8) Gather the nations before you.
 \q2 Rule over them from on high.
 \q2
-\v 8 The LORD judges the nations.
+\v 8 (9) The LORD judges the nations.
 \q1 Declare me righteous, O LORD,
 \q2 for I am innocent, O Most High!
 \q1
-\v 9 End the evil of those who are wicked,
+\v 9 (10) End the evil of those who are wicked,
 \q2 and defend the righteous.
 \q1 For you look deep within the mind and heart,
 \q2 O righteous God.
@@ -44,38 +47,43 @@
 \p
 \b
 \q1
-\v 10 God is my shield,
+\v 10 (10) God is my shield,
 \q2 saving those whose hearts are true and right.
 \q1
-\v 11 God is an honest judge.
+\v 11 (12) God is an honest judge.
 \q2 He is angry with the wicked every day.
+
+\p
 \b
 \q1
-\v 12 If a person does not repent,
+\v 12 (13) If a person does not repent,
 \q2 God
 \f + \fr 7:12 \ft Hebrew \fqa he.\f*
  will sharpen his sword;
 \q2 he will bend and string his bow.
 \q1
-\v 13 He will prepare his deadly weapons
+\v 13 (14) He will prepare his deadly weapons
 \q2 and shoot his flaming arrows.
+
+\p
 \b
 \q1
-\v 14 The wicked conceive evil;
+\v 14 (15) The wicked conceive evil;
 \q2 they are pregnant with trouble
 \q2 and give birth to lies.
 \q1
-\v 15 They dig a deep pit to trap others,
+\v 15 (16) They dig a deep pit to trap others,
 \q2 then fall into it themselves.
 \q1
-\v 16 The trouble they make for others backfires on them.
+\v 16 (17) The trouble they make for others backfires on them.
 \q2 The violence they plan falls on their own heads.
 
-
+\p
 \b
 \q1
-\v 17 I will thank the LORD because he is just;
+\v 17 (18) I will thank the LORD because he is just;
 \q2 I will sing praise to the name of the LORD Most High.
 
 
 </USFM>
+~~DISCUSSIONS:on~~
