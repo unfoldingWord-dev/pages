@@ -66,9 +66,9 @@
 
 \q1
 \v 15 (16) Dia sudah {menggali lubang supaya saya [jatuh/terjebak]//memasang jerat untuk menangkap saya},
-\q2 tetapi {ternyata} dia sendiri yang jatuh terjebak {di situ//ke dalam lubang buatannya itu}!
+\q2 tetapi {0/ternyata} dia sendiri yang {akan/0/sudah} jatuh terjebak {di situ//ke dalam lubang buatannya itu}!
 \q1
-\v 16 (17) {[Kekerasan/Ketidakadilan] dan kesusahan yang dia rencanakan untuk saya jatuh pada dirinya sendiri.//Akhirnya dia sendiri yang mengalami [kekerasan/ketidakadilan] dan kesusahan yang dia rencanakan untuk saya.}
+\v 16 (17) {[Kekerasan/Ketidakadilan] dan kesusahan yang dia rencanakan untuk saya {akan/0/sudah} jatuh pada dirinya sendiri.//Akhirnya dia sendiri yang {akan/0/sudah} mengalami [kekerasan/ketidakadilan] dan kesusahan yang dia rencanakan untuk saya.}
 
 \p
 \b
