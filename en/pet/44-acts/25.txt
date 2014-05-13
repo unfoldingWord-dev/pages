@@ -1,0 +1,43 @@
+<USFM>
+
+\c 25
+\s Paul requests to be judged by the high king of Rome
+\p
+\v 1 Three days after Governor Festus arrived in Caesarea, he went to Jerusalem.
+\v 2-3 There, the chief priests and other Jewish leaders came to him to present different accusations against Paul. They urgently requested that Paul be sent back to Jerusalem, because they had secretly planned to kill him while he was on the way.
+\v 4 But Festus answered, “Paul is being kept in Caesarea, and I'll be going there soon.
+\v 5 So let some of your leaders go there with me. If he really has done something wrong, they're the ones who'll accuse him there.”
+\p
+\v 6 After Festus had stayed in Jerusalem eight to ten days, he returned to Caesarea. The next day, he held a trial council and ordered people to bring Paul before him.
+\v 7 When Paul entered the room, the Jews who had come from Jerusalem stood around him. And they presented many serious charges against him, but they couldn't prove that what they were saying was true.
+\v 8 Then Paul defended himself saying, “I've never broken the Jewish Law. I haven't done any wrong against God's Temple, or opposed the king of Rome either.”
+\p
+\v 9 But because Festus wanted to please the Jews, he asked Paul, “Do you want to go to Jerusalem to be tried there before me about all of these accusations?”
+\p
+\v 10 Then Paul answered, “I stand now before the court of the king of Rome and this is the proper place for me to be tried. I haven't done wrong to the Jewish people, as you already know.
+\v 11 If it's proven that I've committed a crime that makes me deserve the death sentence, I'm willing to accept that. But because their accusations against me aren't true, no one has the right to hand me over to them. I request that the high king himself judge my case.”
+\p
+\v 12 Then after Festus had discussed this with his advisors, he answered, “All right. Since you request to be judged by the high king, you'll go to Rome to face him.”
+\s Festus asks King Herod Agrippa about Paul
+\p
+\v 13 Some days later, King Agrippa\f + \fr 25:13 \fk Agrippa \ft was Herod Agrippa II— who was the grandson of Herod the Great.\f* and his younger sister whose name was Bernice\f + \fr 25:13 \fk Bernice \ft was the younger sister of King Agrippa II, and the daughter of Herod Agrippa I.\f* arrived in Caesarea to visit Governor Festus.
+\v 14 After they had stayed there several days, Festus explained the problem of Paul to the king like this, “There's a prisoner here who was left in jail by Felix.
+\v 15 And while I was in Jerusalem, the chief priests and the Jewish leaders told me that this person had committed many crimes. So they asked me to sentence him to death.
+\v 16 But I answered them that according to Roman law, we can't just hand an accused person over to the people accusing him. Before that, he must be given the opportunity to face his enemies in order to defend himself against their charges.
+\v 17 So when they came here with me, I didn't delay in handling the problem. I immediately held a trial council the next day, and ordered that this man be brought before me.
+\v 18 But when his enemies brought their charges against him, they didn't present any serious offense that he had committed— like I expected.
+\v 19 But the problems were only differences of opinion about the teachings of their religion, and about a man who had died, named Jesus. But Paul said that this man came back to life.
+\v 20 So I was confused as to how I should examine this problem. So I asked him if he wanted to be tried on those charges in Jerusalem.
+\v 21 But Paul himself requested that his case be tried directly by our high king. So I've ordered that he still be held until I have an opportunity to send him to our king.”
+\p
+\v 22 Then Agrippa answered Festus, “I would also like to hear that man speak for myself.”
+\p Festus answered, “If so, I'll arrange a time so that you'll have an opportunity to hear him tomorrow, Sir.”
+\p
+\v 23 The next day Agrippa came with Bernice, and they were welcomed with a merry ceremony of honor. They entered the council room with the army commanders and important people of the city, and Festus gave the command that Paul be brought in.
+\v 24 Then Festus said, “King Agrippa and everyone gathered here, you see this man. All the Jews— both those in Jerusalem and those here, have made demands of me shouting that this man can't be allowed to live any longer.
+\v 25 But when I examined his offenses, I didn't find a single offense that makes him deserve the death sentence. So when he asked that his case be judged by our king, I decided to send him to Rome.
+\v 26 But I don't have a statement that makes sense to write in a letter of explanation to our king. Because of that, I present him to all of you, and especially to you, King Agrippa, so that through this examination, what I need to write will be clear, Sir.
+\v 27 For in my opinion, it isn't proper to take a prisoner to our high king without a letter of explanation about the charges against him.”
+
+</USFM>
+~~DISCUSSIONS:on~~
