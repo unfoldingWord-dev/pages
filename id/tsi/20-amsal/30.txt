@@ -76,12 +76,15 @@
 \q1
 \v 15 Lintah tidak pernah puas dengan darah yang dia isap. Dia selalu rakus.
 \q2 Jangan kamu rakus seperti lintah.
-\q2 Dan ada hal-hal ini yang juga tidak bisa merasa puas:
+\q1 Dan ada hal-hal ini yang juga tidak bisa merasa puas:
 \p
 \b
-\q1
-\v 16
 \q2
+\v 16 Padang pasir tidak bisa subur walaupun mendapat hujan,
+\q2 dan wanita yang tidak pernah melahirkan anak tidak bisa rasa puas.
+\q2 Api tidak bisa padam kalau masih ada kayu,
+\q2 dan neraka selalu mau tambah penduduk. 
+
 \p
 \b
 \q1
