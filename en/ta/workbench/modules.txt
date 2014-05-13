@@ -1,1 +1,4 @@
 This namespace is open for users to create modules of translation training resources.
+
+
+{{tag>tag1 tag2 tag3}}
