@@ -2,17 +2,17 @@
 
 {{:en:obs:obs-42-08.jpg?nolink&640x360}}
 
-“It was also **written** that **[[:en:key-terms:repent|repentance]] for [[:en:key-terms:forgive|forgiveness]] of [[:en:key-terms:sin|sins]] would be proclaimed** to all **[[:en:key-terms:people-group|people groups]]**, **starting in [[:en:key-terms:jerusalem|Jerusalem]]**. You are **[[:en:key-terms:witness|witnesses]]** of these things.”
+[old] “It was also **written** that **[[:en:key-terms:repent|repentance]] for [[:en:key-terms:forgive|forgiveness]] of [[:en:key-terms:sin|sins]] would be proclaimed** to all **[[:en:key-terms:people-group|people groups]]**, **starting in [[:en:key-terms:jerusalem|Jerusalem]]**. You are **[[:en:key-terms:witness|witnesses]]** of these things.”
 
+[new] "It was also written in the **[[:en:key-terms:word-of-god|scriptures]]** that my **[[:en:key-terms:disciple|disciples]]** will **start in [[:en:key-terms:jerusalem|Jerusalem]]** and then go to all **[[:en:key-terms:people-group|people groups]]** and **proclaim** that everyone should **[[:en:key-terms:repent|repent]]** in order to **[[:en:key-terms:receive|receive]]** **[[:en:key-terms:forgive|forgiveness]]** for their **[[:en:key-terms:sin|sins]]**.”
 
 ===== Translation Notes: =====
 
-  * **written** - It might be necessary to say, "written in the scriptures" or, "written by the prophets."
-  * **repentance for forgiveness of sins would be proclaimed** - In some languages it may be necessary to include extra information such as, "my disciples will proclaim that people should repent for the forgiveness of their sins."
-  * **starting in Jerusalem** - That is, "beginning with Jerusalem."
+  * **start in Jerusalem** - That is, "begin in Jerusalem."
+  * **proclaim** - That is, “announce” or, “preach.” 
   
 
 **[[:en:obs-training:frames:42-07|<<]] | [[:en:obs-training:42-jesus-returns-to-heaven|Up]] | [[:en:obs-training:frames:42-09|>>]]**
 
 
-~~DISCUSSION~~
+~~DISCUSSION:closed~~
