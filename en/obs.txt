@@ -17,4 +17,5 @@ Feel free to join the Open Bible Stories translation team and help finish a tran
 
 ==== Active Translations ====
 
+
 {{page>en:obs:active}}
