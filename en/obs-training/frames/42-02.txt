@@ -2,16 +2,17 @@
 
 {{:en:obs:obs-42-02.jpg?nolink&640x360}}
 
-**[[:en:key-terms:jesus|Jesus]]** approached them and started walking with them, but they did not recognize him. He asked what they were talking about, and they told him about all the terrible things that had happened during **the last few days**. They thought he was a stranger who had not heard about it.
+**[[:en:key-terms:jesus|Jesus]]** approached them and started walking with them, but they **did not recognize him**. He asked what they were talking about, and they told him about **all the remarkable things that had happened** during **the last few days**. They thought he was a visitor who did not know what had happened in **[[:en:key-terms:jerusalem|Jerusalem]]**.
 
 
 ===== Translation Notes: =====
 
-  * ** they did not recognize him** - That is, "they did not know that it was Jesus."
+  * ** did not recognize him** - That is, "did not know that it was Jesus."
+  * **all the remarkable things that had happened** - This refers to the teaching and miracles of Jesus, his death, and the reports of his resurrection.
   * ** the last few days** - This could also be translated as, "the previous few days."
   
 
 **[[:en:obs-training:frames:42-01|<<]] | [[:en:obs-training:42-jesus-returns-to-heaven|Up]] | [[:en:obs-training:frames:42-03|>>]]**
 
 
-~~DISCUSSION~~
+~~DISCUSSION:closed~~
