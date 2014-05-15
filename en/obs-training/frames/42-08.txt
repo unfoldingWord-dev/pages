@@ -4,24 +4,16 @@
 {{:en:obs:obs-42-08.jpg?nolink&640x360}}
 
 
-[old] “It was also **written** that **[[:en:key-terms:repent|repentance]] for [[:en:key-terms:forgive|forgiveness]] of [[:en:key-terms:sin|sins]] would be proclaimed**to all **[[:en:key-terms:people-group|people groups]]**, **starting in [[:en:key-terms:jerusalem|Jerusalem]]**. You are **[[:en:key-terms:witness|witnesses]]** of these things.”
-
-
-[new] "It was also written in the **[[:en:key-terms:word-of-god|scriptures]]** that my **[[:en:key-terms:disciple|disciples]]** will **start in [[:en:key-terms:jerusalem|Jerusalem]]** and then go to all **[[:en:key-terms:people-group|people groups]]** and **proclaim** that everyone should **[[:en:key-terms:repent|repent]]** in order to **[[:en:key-terms:receive|receive]]** **[[:en:key-terms:forgive|forgiveness]]** for their **[[:en:key-terms:sin|sins]]**.”
-
-
-[alternate] "It was also written in the **[[:en:key-terms:word-of-god|scriptures]]** that my **[[:en:key-terms:disciple|disciples]]** will **proclaim** that everyone should **[[:en:key-terms:repent|repent]]** in order to **[[:en:key-terms:receive|receive]]** **[[:en:key-terms:forgive|forgiveness]]** for their **[[:en:key-terms:sin|sins]]**. **They will do this starting in [[:en:key-terms:jerusalem|Jerusalem]]**, and then go to all **[[:en:key-terms:people-group|people groups]]** everywhere. You are **[[:en:key-terms:witness|witnesses]]** of these things.”
-
-
-
-
+"It was also written in the **[[:en:key-terms:word-of-god|scriptures]]** that my **[[:en:key-terms:disciple|disciples]]** will **proclaim** that everyone should **[[:en:key-terms:repent|repent]]** in order to **[[:en:key-terms:receive|receive]]** **[[:en:key-terms:forgive|forgiveness]]** for their **[[:en:key-terms:sin|sins]]**. **They will do this starting in [[:en:key-terms:jerusalem|Jerusalem]]**, and then go to all **[[:en:key-terms:people-group|people groups]]** everywhere. **You are [[:en:key-terms:witness|witnesses]] of these things**.”
 
 
 ===== Translation Notes: =====
 
-
-    * **They will do this starting in Jerusalem**  - That is, "They will begin doing this in Jerusalem" or, "They will begin to proclaim these things in Jerusalem."
     * **proclaim**  - That is, “announce” or, “preach.”
+    * **They will do this starting in Jerusalem**  - That is, "They will begin doing this in Jerusalem" or, "They will begin to proclaim these things in Jerusalem."
+    * **You are witnesses of these things** - That is, "You have seen these things happen" or, "You will tell other people the things that you have seen happen."
+
+
 **[[:en:obs-training:frames:42-07|<<]] | [[:en:obs-training:42-jesus-returns-to-heaven|Up]] | [[:en:obs-training:frames:42-09|>>]]** 
 
 
