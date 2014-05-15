@@ -48,6 +48,7 @@
     * [[:shn:home|လိၵ်ႈတႆး (shn)]]
     * [[:sk:home|Slovenčina (sk)]]
     * [[:slu:home|Selaru (slu)]]
+    * Srpski (srp)
     * [[:sw:home|Kiswahili (sw)]]
     * [[:ta:home|தமிழ் (ta)]]
     * [[:tg:home|Тоҷикӣ (tg)]]
