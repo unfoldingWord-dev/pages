@@ -2,15 +2,12 @@
 
 {{:en:obs:obs-42-01.jpg?nolink&640x360}}
 
-[old] Later on during the day when Jesus was raised, two of **[[:en:key-terms:jesus|Jesus']]** **[[:en:key-terms:disciple|disciples]]** were going to a nearby town. As they walked, they talked about the **[[:en:key-terms:death|death]]** of Jesus and how the women said he was **[[:en:key-terms:life|alive]]** again. They wondered if Jesus really was the **[[:en:key-terms:messiah|Messiah]]**.
-
-[new] On the day that **[[:en:key-terms:jesus|Jesus]]** was **[[:en:key-terms:raise|raised]]** from the dead, two of his **[[:en:key-terms:disciple|disciples]]** were going to a nearby town. As they walked, they talked about what had happened to Jesus. They had hoped that he was the **[[:en:key-terms:messiah|Messiah]]**, but then he was killed. Now the women said he was **[[:en:key-terms:life|alive]]** again, so they did not know what to **[[:en:key-terms:believe|believe]]**.
+On the day that **[[:en:key-terms:jesus|Jesus]]** was **[[:en:key-terms:raise|raised]]** from the dead, two of his **[[:en:key-terms:disciple|disciples]]** were going to a nearby town. As they walked, they talked about what had happened to Jesus. They had hoped that he was the **[[:en:key-terms:messiah|Messiah]]**, but then he was killed. Now the women said he was **[[:en:key-terms:life|alive]]** again. They did not know what to **[[:en:key-terms:believe|believe]]**.
 
 
 ===== Translation Notes: =====
 
-  * **issue** - explanation
-  * **issue** - explanation
+  * //(There are no notes for this frame.)//
   
 
 **[[:en:obs-training:frames:41-08|<<]] | [[:en:obs-training:42-jesus-returns-to-heaven|Up]] | [[:en:obs-training:frames:42-02|>>]]**
