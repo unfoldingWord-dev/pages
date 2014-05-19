@@ -3,16 +3,14 @@
 
 ===== Facts: =====
 
-
 Pilate was the Roman governor who sentenced Jesus to death.
 
-
     * Because Pilate was the governor, he had the authority to put criminals to death.
-    * When the Jewish religious leaders wanted Jesus to be crucified, they lied to Pilate about him.
-    * Pilate realized that Jesus was not guilty, but he was afraid of the crowd, so he gave in and ordered his soldiers to crucify Jesus.
+    * The Jewish religious leaders wanted Pilate to crucify Jesus, so they lied and said that Jesus was a criminal.
+    * Pilate realized that Jesus was not guilty, but he was afraid of the crowd, so he ordered his soldiers to crucify Jesus.
 
+[See also: **[[:en:key-terms:rome|Rome]]**, **[[:en:key-terms:crucify|crucify]]**, **[[:en:key-terms:guilt|guilt]]**]
 
-[See also: **[[:en:key-terms:rome|Rome]]**, **[[:en:key-terms:crucify|crucify]]**]
 
 ===== Examples from the Bible stories: =====
 
@@ -24,4 +22,4 @@ Pilate was the Roman governor who sentenced Jesus to death.
   ***[[:en:obs-training:frames:41-02|[41-02]]]** **Pilate** said, “Take some soldiers and make the tomb as secure as you can.”
 
 
-~~DISCUSSION~~
+~~DISCUSSION:closed~~
