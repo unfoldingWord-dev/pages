@@ -6,14 +6,18 @@
 
 ===== Facts: =====
 
+Paul was a leader of the early church who was sent by Jesus to take the good news to the other people groups.
 
-    * Saul (also called Paul) was a Jewish religious leader who arrested Christians and took them to the chief priests.
+    * Paul was Jew who born as in the Roman city of Tarsus, and was therefore also a Roman citizen.
+    * Paul was originally called by his Jewish name, Saul. 
+    * Saul became a Jewish religious leader and arrested Christians because he did not believe in Jesus.
     * Jesus came to Saul in a blinding light and told him to stop hurting Christians. Jesus then sent a Christian man to teach Saul, and Saul believed in Jesus.
-    * At first Paul taught Jews about Jesus. Then he traveled to far away cities and taught other people groups about Jesus.
+    * At first, Saul taught Jews about Jesus.
+    * When the Jews rejected Saul's teaching, he started using the Roman name, Paul, and traveled to far away cities and taught other people groups about Jesus.
     * Paul also wrote letters to encourage and teach Christians in various cities. Some of his letters are in the Bible.
 
+[See also: **[[:en:key-terms:rome|Rome]]**, **[[:en:key-terms:jewish-leaders|Jewish leader]]**, **[[:en:key-terms:christian|Christian]]**]
 
-[See also: **[[:en:key-terms:christian|Christian]]**]
 
 ===== Examples from the Bible stories: =====
 
@@ -26,4 +30,4 @@
   ***[[:en:obs-training:frames:47-14|[47-14]]]** **Paul** and other Christian leaders traveled to many cities, preaching and teaching about Jesus. They also wrote many letters to the churches to encourage and teach them about God’s New Covenant.
 
 
-~~DISCUSSION~~
+~~DISCUSSION:closed~~
