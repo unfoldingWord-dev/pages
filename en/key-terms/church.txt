@@ -8,13 +8,13 @@
 
 [new]
 
-The word, "church" refers to all of the people who believe in Jesus in a local area, such as a city or a region. It can also refer to all of the believers in Jesus in every place, from the time of the apostles until the present. When it refers to this group, it is written as, "Church."
+The word, "church" refers to a collective group of people who believe in Jesus. When those believers are in a local area such as a city or a region, it is written as, "church." When it refers to believers everywhere, it is written as, "Church."
 
+    * The original word for "church" referred to the citizens of a city that had the right to assemble to vote on important issues. 
+    * Jesus and the apostles used the word "church" to refer to Christians who have the right to assemble together in the name of Jesus.
+    * It could be translated as "a gathering together" or "assembly" of believers. The word "congregation" has a similar meaning. However, the believers are still the "church" even when they are not together. 
     * In the Bible, the word "church" always refers to believer, and never to a building.
-    * The literal meaning of the word for "church" in the Bible is "called out (to meet together)."
-    * It could be translated as "a gathering together" or "assembly" of believers. The word "congregation" has a similar meaning.
-    * Christians would meet together to pray, teach God's truth and encourage each other to live in a way that is pleasing to God.
-    * God also calls his people, the Church, to go out and teach the good message about Jesus.
+    * The church meets together to pray, teach God's truth and encourage each other to live in a way that is pleasing to God.
 
 
 [old]
@@ -40,4 +40,4 @@ The word, "church" refers to all of the people who believe in Jesus in a local a
   ***[[:en:obs-training:frames:50-01|[50-01]]]** For almost 2,000 years, the Good News of Jesus the Messiah has been spreading, and the **Church** has been growing. 
 
 
-~~DISCUSSION~~
+~~DISCUSSION:closed~~
