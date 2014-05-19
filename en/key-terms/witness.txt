@@ -3,21 +3,23 @@
 
 ===== Definition: =====
 
+
 A witness is someone who has seen or heard something happen.
 
-  * During a trial, witnesses tell what they saw or heard. This testimony helps the judge decide if the person is being tried is guilty or innocent.
-  * Witnesses are expected to tell the truth about what they saw or heard.
-  * A witness who does not tell the truth about what he has seen or heard is called a “false witness.” 
+
+    * During a trial, witnesses tell what they saw or heard. This testimony helps the judge to decide if the person being tried is guilty or innocent.
+    * Witnesses are expected to tell the truth about what they saw or heard.
+    * A witness who does not tell the truth about what he has seen or heard is called a “false witness.”
+
 
 [See also: **[[:en:key-terms:guilt|guilt]]**, **[[:en:key-terms:judge|judge]]**]
 
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:en:obs-training:frames:39-02|[39-02]]]** Inside the house, the Jewish leaders put Jesus on trial. They brought many **witnesses** who lied about him.
-  ***[[:en:obs-training:frames:39-04|[39-04]]]** The high priest tore his clothes in anger and shouted, “We do not need any more **witnesses**. You have heard him say that he is the Son of God. What is your judgment?”
-  ***[[:en:obs-training:frames:42-08|[42-08]]]** “It was also written in the scriptures that my disciples will proclaim that everyone should repent in order to receive forgiveness for their sins. They will do this starting in Jerusalem, and then go to all people groups everywhere. You are **witnesses** of these things.”
-  ***[[:en:obs-training:frames:43-07|[43-07]]]** “God raised this Jesus from the dead. We are witnesses.”
 
-
+    * **[[:en:obs-training:frames:39-02|[39-02]]]** Inside the house, the Jewish leaders put Jesus on trial. They brought many **witnesses**  who lied about him.
+    * **[[:en:obs-training:frames:39-04|[39-04]]]** The high priest tore his clothes in anger and shouted, “We do not need any more **witnesses**. You have heard him say that he is the Son of God. What is your judgment?”
+    * **[[:en:obs-training:frames:42-08|[42-08]]]** “It was also written in the scriptures that my disciples will proclaim that everyone should repent in order to receive forgiveness for their sins. They will do this starting in Jerusalem, and then go to all people groups everywhere. You are **witnesses**  of these things.”
+    * **[[:en:obs-training:frames:43-07|[43-07]]]** “God raised this Jesus from the dead. We are witnesses.”
 ~~DISCUSSION:closed~~
