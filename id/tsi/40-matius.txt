@@ -1,6 +1,6 @@
 =====Injil Matius=====
 
 | **[[:id:tsi:40-matius:01|1]]** | **[[:id:tsi:40-matius:02|2]]** | **[[:id:tsi:40-matius:03|3]]** | **[[:id:tsi:40-matius:04|4]]** | **[[:id:tsi:40-matius:05|5]]** | **[[:id:tsi:40-matius:06|6]]** | **[[:id:tsi:40-matius:07|7]]** |
-|  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |
+| **[[:id:tsi:40-matius:08|8]]** | **[[:id:tsi:40-matius:09|9]]** | **[[:id:tsi:40-matius:10|10]]** | **[[:id:tsi:40-matius:11|11]]** | **[[:id:tsi:40-matius:12|12]]** | **[[:id:tsi:40-matius:13|13]]** | **[[:id:tsi:40-matius:14|14]]** |
+| **[[:id:tsi:40-matius:15|15]]** | **[[:id:tsi:40-matius:16|16]]** | **[[:id:tsi:40-matius:17|17]]** | **[[:id:tsi:40-matius:18|18]]** | **[[:id:tsi:40-matius:19|19]]** | **[[:id:tsi:40-matius:20|20]]** | **[[:id:tsi:40-matius:21|21]]** |
+| **[[:id:tsi:40-matius:22|22]]** | **[[:id:tsi:40-matius:23|23]]** | **[[:id:tsi:40-matius:24|24]]** | **[[:id:tsi:40-matius:25|25]]** | **[[:id:tsi:40-matius:26|26]]** | **[[:id:tsi:40-matius:27|27]]** | **[[:id:tsi:40-matius:28|28]]** |

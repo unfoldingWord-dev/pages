@@ -1,11 +1,11 @@
 ===== Lukas =====
 
 
-|**[[:in:tsi:42-lukas:01|1]]**  |**[[:in:tsi:42-lukas:02|2]]**  |**[[:in:tsi:42-lukas:03|3]]**  |**[[:in:tsi:42-lukas:04|4]]**  |
-|**[[:in:tsi:42-lukas:05|5]]**  |**[[:in:tsi:42-lukas:06|6]]**  |**[[:in:tsi:42-lukas:07|7]]**  |**[[:in:tsi:42-lukas:08|8]]**  |
-|**[[:in:tsi:42-lukas:09|9]]**  |**[[:in:tsi:42-lukas:10|10]]**  |**[[:in:tsi:42-lukas:11|11]]**  |**[[:in:tsi:42-lukas:12|12]]**  |
-|**[[:in:tsi:42-lukas:13|13]]**  |**[[:in:tsi:42-lukas:14|14]]**  |**[[:in:tsi:42-lukas:15|15]]**  |**[[:in:tsi:42-lukas:16|16]]**  |
-|**[[:in:tsi:42-lukas:17|17]]**  |**[[:in:tsi:42-lukas:18|18]]**  |**[[:in:tsi:42-lukas:19|19]]**  |**[[:in:tsi:42-lukas:20|20]]**  |
-|**[[:in:tsi:42-lukas:21|21]]**  |**[[:in:tsi:42-lukas:22|22]]**  |**[[:in:tsi:42-lukas:23|23]]**  |**[[:in:tsi:42-lukas:24|24]]**  |
+| **[[:id:tsi:42-lukas:01|1]]** | **[[:id:tsi:42-lukas:02|2]]** | **[[:id:tsi:42-lukas:03|3]]** | **[[:id:tsi:42-lukas:04|4]]** |
+| **[[:id:tsi:42-lukas:05|5]]** | **[[:id:tsi:42-lukas:06|6]]** | **[[:id:tsi:42-lukas:07|7]]** | **[[:id:tsi:42-lukas:08|8]]** |
+| **[[:id:tsi:42-lukas:09|9]]** | **[[:id:tsi:42-lukas:10|10]]** | **[[:id:tsi:42-lukas:11|11]]** | **[[:id:tsi:42-lukas:12|12]]** |
+| **[[:id:tsi:42-lukas:13|13]]** | **[[:id:tsi:42-lukas:14|14]]** | **[[:id:tsi:42-lukas:15|15]]** | **[[:id:tsi:42-lukas:16|16]]** |
+| **[[:id:tsi:42-lukas:17|17]]** | **[[:id:tsi:42-lukas:18|18]]** | **[[:id:tsi:42-lukas:19|19]]** | **[[:id:tsi:42-lukas:20|20]]** |
+| **[[:id:tsi:42-lukas:21|21]]** | **[[:id:tsi:42-lukas:22|22]]** | **[[:id:tsi:42-lukas:23|23]]** | **[[:id:tsi:42-lukas:24|24]]** |
 
 
