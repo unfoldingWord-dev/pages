@@ -6,11 +6,12 @@
 
 [new]
 
-**[[:en:key-terms:peter|Peter]]** answered them, “**Every one of you should [[:en:key-terms:repent|repent]] and be [[:en:key-terms:baptize|baptized]] in the name of [[:en:key-terms:jesus|Jesus]] [[:en:key-terms:messiah|Christ]]** so that your **[[:en:key-terms:sin|sins]]** will be **[[:en:key-terms:forgive|forgiven]]**, and **[[:en:key-terms:god|God]]** will give you the **gift of the [[:en:key-terms:holy-spirit|Holy Spirit]]**.”
+**[[:en:key-terms:peter|Peter]]** answered them, “Every one of you should **[[:en:key-terms:repent|repent]]** and be **[[:en:key-terms:baptize|baptized]]** **in the name of** **[[:en:key-terms:jesus|Jesus]] [[:en:key-terms:messiah|Christ]]** so that your **[[:en:key-terms:sin|sins]]** will be **[[:en:key-terms:forgive|forgiven]]**, and **[[:en:key-terms:god|God]]** will give you the **gift of the [[:en:key-terms:holy-spirit|Holy Spirit]]**.”
 
 
 ===== Translation Notes: =====
 
+  * **in the name of** - That is, "in the power of" or, "by the authority of."
   * **Christ** – This is the same meaning as “Messiah.” It could be translated as “Anointed One” or “Chosen One.” Instead of translating the meaning, some translators may choose to keep the word “Christ” and spell it using the sounds in their own language. (For example in Tok Pisin, “Christ” is spelled “Krais.”)
   * **Jesus Christ** – Since “Christ” is a title here, some translators may choose to change the order and say, “Christ Jesus.” Both orders are used in the Bible. 
   
