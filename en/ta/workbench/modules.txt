@@ -1,4 +1,7 @@
-This namespace is open for users to create modules of translation training resources.
+====== Modules ======
 
+Modules are structured as answers to questions. These are some of the questions needing answers?
 
-{{tag>tag1 tag2 tag3}}
+  - Why should I do a meaning-based translation?
+  - How do I do a meaning-based translation?
+  - How do I translate something that does not exist in my language?
