@@ -4,16 +4,18 @@
 
 **[[:en:key-terms:peter|Peter]]** said, “**[[:en:key-terms:repent|Repent]] and be [[:en:key-terms:baptize|baptized]] every one of you in the name of [[:en:key-terms:jesus|Jesus]] [[:en:key-terms:messiah|Christ]]** **for the [[:en:key-terms:forgive|forgiveness]] of [[:en:key-terms:sin|sins]]**, and **you will [[:en:key-terms:receive|receive]] the gift of the [[:en:key-terms:holy-spirit|Holy Spirit]]**.”
 
+[new]
+
+**[[:en:key-terms:peter|Peter]]** answered them, “**Every one of you should [[:en:key-terms:repent|repent]] and be [[:en:key-terms:baptize|baptized]] in the name of [[:en:key-terms:jesus|Jesus]] [[:en:key-terms:messiah|Christ]]** so that your **[[:en:key-terms:sin|sins]]** will be **[[:en:key-terms:forgive|forgiven]]**, and **[[:en:key-terms:god|God]]** will give you the **gift of the [[:en:key-terms:holy-spirit|Holy Spirit]]**.”
+
 
 ===== Translation Notes: =====
 
-  * **Repent and be … Jesus Christ** - This could also be translated as, "Every one of you should repent and be baptized in the name of Jesus Christ ..."
-  * **Jesus Christ** - This combined form used the name of Jesus with his title of Messiah.
-  * **for the forgiveness of sins** - That is, "so that your sins will be forgiven."
-  * **you will receive the gift of the Holy Spirit** - This could also be translated as, "God will give the Holy Spirit to you as a gift."
+  * **Christ** – This is the same meaning as “Messiah.” It could be translated as “Anointed One” or “Chosen One.” Instead of translating the meaning, some translators may choose to keep the word “Christ” and spell it using the sounds in their own language. (For example in Tok Pisin, “Christ” is spelled “Krais.”)
+  * **Jesus Christ** – Since “Christ” is a title here, some translators may choose to change the order and say, “Christ Jesus.” Both orders are used in the Bible. 
   
 
 **[[:en:obs-training:frames:43-10|<<]] | [[:en:obs-training:43-the-church-begins|Up]] | [[:en:obs-training:frames:43-12|>>]]**
 
 
-~~DISCUSSION~~
+~~DISCUSSION:closed~~
