@@ -6,7 +6,7 @@ The **[[:en:key-terms:jewish-leaders|leaders]]** were shocked because they could
 
 [new]
 
-The **[[:en:key-terms:jewish-leaders|leaders]]** were shocked that **[[:en:key-terms:peter|Peter]]** and **[[:en:key-terms:john|John]]** spoke so boldly because they could see that these men were **common men who were uneducated**. They also realized that these men **had been with [[:en:key-terms:jesus|Jesus]]**. After they had threatened **[[:en:key-terms:peter|Peter]]** and **[[:en:key-terms:john|John]]**, they **let them go**.
+The **[[:en:key-terms:jewish-leaders|leaders]]** **were shocked** that **[[:en:key-terms:peter|Peter]]** and **[[:en:key-terms:john|John]]** spoke so boldly because they could see that these men were ordinary men **who were uneducated**. But **then they remembered** that these men **had been with [[:en:key-terms:jesus|Jesus]]**. **After they threatened** Peter and John, they **let them go**.
 
 
 //A Bible story from: Acts 3:1-4:22//
@@ -15,9 +15,11 @@ The **[[:en:key-terms:jewish-leaders|leaders]]** were shocked that **[[:en:key-t
 ===== Translation Notes: =====
 
 
-  * **were shocked** - That is, “were very surprised.” 
-  * **common men who were uneducated** - Peter and John were simple fishermen. Translate this phrase with terms that convey that they lacked any formal education.
-  * **had been with Jesus** - This could also be translated as, "had spend time with Jesus."
+  * **were shocked** - That is, “were very surprised” or, "were amazed." 
+  * **who were uneducated** - That is, “who did not have a formal education.” This could also be translated as, “who had not gone to school.” Peter and John were simple fishermen.
+  * **then they remembered** - This could also be translated as, “But then they thought about the fact that.”
+  * **had been with Jesus** - This could also be translated as, "had spend time with Jesus" or, "had been taught by Jesus."
+  * **After they threatened** - The leaders said that they would punish Peter and John if they continued to teach people about Jesus. 
   * **let them go** - That is, "allowed them to leave."
   * //A Bible story from// - If all or portions of the Bible have already been translated into your language, check to make sure that these references point to the correct chapters and verses.
   
@@ -25,4 +27,4 @@ The **[[:en:key-terms:jewish-leaders|leaders]]** were shocked that **[[:en:key-t
 **[[:en:obs-training:frames:44-08|<<]] | [[:en:obs-training:44-peter-and-john-heal-a-beggar|Up]] | [[:en:obs-training:frames:45-01|>>]]**
 
 
-~~DISCUSSION~~
+~~DISCUSSION:closed~~
