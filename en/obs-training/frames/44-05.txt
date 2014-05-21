@@ -4,15 +4,20 @@
 
 “You demanded that **[[:en:key-terms:jesus|Jesus]]** be killed. You killed the **author of [[:en:key-terms:life|life]]**, but **[[:en:key-terms:god|God]]** **[[:en:key-terms:raise|raised]]** him from the **[[:en:key-terms:death|dead]]**. This is how **[[:en:key-terms:god|God]]** **[[:en:key-terms:fulfill|fulfilled]]** the **[[:en:key-terms:prophet|prophecies]]** that the **[[:en:key-terms:messiah|Messiah]]** would **[[:en:key-terms:suffer|suffer]]** and die. But now, **[[:en:key-terms:repent|repent]]** and turn to God so that **your [[:en:key-terms:sin|sin]] will be washed away**.”
 
+[new]
+
+“You told the **[[:en:key-terms:rome|Roman]]** governor to kill **[[:en:key-terms:jesus|Jesus]]**. You killed the **author of [[:en:key-terms:life|life]]**, but **[[:en:key-terms:god|God]]** **[[:en:key-terms:raise|raised]]** him from the **[[:en:key-terms:death|dead]]**. God used **your actions** to **[[:en:key-terms:fulfill|fulfill]]** the **[[:en:key-terms:prophet|prophecies]]** that the **[[:en:key-terms:messiah|Messiah]]** would **[[:en:key-terms:suffer|suffer]]** and die. So now, **[[:en:key-terms:repent|repent]]** and turn to God so that **your [[:en:key-terms:sin|sins]] will be washed away**.”
+
 
 ===== Translation Notes: =====
 
   * (Peter continues to preach to the crowd.)
-  * **author of life** - That is, "the one who created life" or, "the one who gave life to us."
-  * **your sin will be washed away** - The meaning of this is that, "your sin will be removed." However, "washing" is an important term in the Bible and should be translated literally if it will be understood. 
-  
+  * **author of life** - That is, “the one who created life” or, “the one who gives us life” or, “the one who causes people to live.” This refers to Jesus.
+  * **your actions ** - This can also be translated as, "the things you did." This refers to their asking Pilate to kill Jesus.
+  * **your sin will be washed away** - This could be translated as, “God will wash away your sins” or, “God will take away your sins and make you clean.” This is talking about God purifying people in their spirit by completely removing their sins. It does not mean physical washing.
+
 
 **[[:en:obs-training:frames:44-04|<<]] | [[:en:obs-training:44-peter-and-john-heal-a-beggar|Up]] | [[:en:obs-training:frames:44-06|>>]]**
 
 
-~~DISCUSSION~~
+~~DISCUSSION:closed~~
