@@ -1,6 +1,6 @@
 ====== Modules ======
 
-Modules are structured as answers to questions. These are some of the questions needing answers?
+Modules are structured as answers to questions. These are some of the questions needing answers:
 
   - Why should I do a meaning-based translation?
   - How do I do a meaning-based translation?
