@@ -2,17 +2,22 @@
 
 {{:en:obs:obs-43-04.jpg?nolink&640x360}}
 
-When the people in **[[:en:key-terms:jerusalem|Jerusalem]]** heard about this, a crowd gathered, wondering what was happening. The people were astonished when they heard **the believers** speaking in **their own native languages**, proclaiming **the wonderful works of [[:en:key-terms:god|God]]**.
+When the people in **[[:en:key-terms:jerusalem|Jerusalem]]** heard about this, **a crowd** gathered, wondering what was happening. The people were astonished when they heard **the believers** speaking in **their own native languages**, proclaiming **the wonderful works of [[:en:key-terms:god|God]]**.
+
+[new]
+
+When the people in **[[:en:key-terms:jerusalem|Jerusalem]]** heard about this, **a crowd** came to see what was happening. The people were astonished when they heard **the believers** proclaiming **the wonderful works of [[:en:key-terms:god|God]]** in the native languages of the crowd.
 
 
 ===== Translation Notes: =====
 
+  * **a crowd** – This could be translated as, “a large group of them.” 
   * **the believers** - See the note in **[[:en:obs-training:frames:43-01|[43-01]]]**.
-  * **their own native languages** - This refers to, "the native languages of the crowd."
-  * **the wonderful works of God** - That is, "the wonderful works that God had done."
+  * **their own native languages** -  This refers to the native languages of the people in the crowd. To make this clear, the order could be changed to say, “When they heard the believers speaking, the people were astonished that it was their own native languages they were hearing. 
+  * **the wonderful works of God** - This could be translated as, “the amazing things that God had done.” 
   
 
 **[[:en:obs-training:frames:43-03|<<]] | [[:en:obs-training:43-the-church-begins|Up]] | [[:en:obs-training:frames:43-05|>>]]**
 
 
-~~DISCUSSION~~
+~~DISCUSSION:closed~~
