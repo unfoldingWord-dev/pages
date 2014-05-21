@@ -1,7 +1,6 @@
-====== Abrir Biblia Historias ======
-
-
-{{  :en:obs-pic_360p.jpg?nolink&300}}**50 historias claves de la Biblia, desde la Creación hasta el Apocalipsis, para la evangelización y el discipulado, en texto, audio y video, en cualquier teléfono móvil, en cualquier idioma, de forma gratuita.** ​
+====== Open Bible Stories ======
+~~NOTOC~~
+{{ :en:obs-pic_360p.jpg?nolink&300|http://openbiblestories.com}} **50 key stories of the Bible, from Creation to Revelation, for evangelism & discipleship, in text, audio, and video, on any mobile phone, in any language, for free.**
 
 ==== A Free & Open Visual Mini-Bible ====
 
@@ -17,6 +16,5 @@ Feel free to join the Open Bible Stories translation team and help finish a tran
 {{page>en:obs:stories}}
 
 ==== Active Translations ====
-
 
 {{page>en:obs:active}}
