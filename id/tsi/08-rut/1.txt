@@ -1,19 +1,51 @@
-<USFM> %%\%%c 1
+<USFM>
+\c 1
+
+\c 1
+
+\p
+
+\c 1
 
 
-%%\%%c 1
-
-
-%%\%%p
-
-
-%%\%%c 1
-
-
-%%\%%s1 Elimelekh Memindahkan Keluarganya ke Moab %%\%%m %%\%%v 1 Pada zaman para hakim memerintah Israel, terjadi bencana kelaparan yang melanda seluruh negeri. Ada seorang laki-laki dari Betlehem di tanah Yehuda yang meninggalkan kampung halamanya dengan membawa bersamanya, isteri dan kedua anak laki-lakinya. %%\%%v 2 Laki-laki itu bernama Elimelekh, isterinya bernama Naomi.  Kedua anak laki-laki mereka bernama Mahlon dan Kilyon. Mereka orang Efrata yang berasal dari Betlehem di wilayah Yehuda. Mereka pergi ke wilayah Moab dan menetap di sana. %%\%%p %%\%%v 3 Kemudian Elimelekh meninggal dunia, meninggalkan Naomi dengan kedua anak mereka. %%\%%v 4 Kedua anak ini lalu menikah dengan dua perempuan Moab. Nama kedua perempuan Moab ini adalah Orpa dan Rut. Kurang lebih sepuluh tahun kemudian, %%\%%v 5 Mahlon dan Kilion meninggal dunia. Naomi ditinggal seorang diri, tanpa kedua anaknya ataupun suaminya. %%\%%s1 Naomi dan Rut Pulang %%\%%m %%\%%v 6 Lalu Naomi mendengar bahwa TUHAN telah memberkati bangsa pilihan-Nya di Yehuda dengan hasil panen yang baik. Oleh karena itu, Naomi dengan kedua menantunya bersiap-siap untuk meninggalkan wilayah Moab untuk kembali ke daerah asalnya di wilayah Yehuda. %%\%%v 7 Bersama-sama dengan kedua menantunya, arry someone else? No, of course not, my daughters! Things are far more bitter for me than for you, because the LORD himself has raised his fist against me.” %%\%%p %%\%%v 14 And again they wept together, and Orpah kissed her mother-in-law good-bye. But Ruth clung tightly to Naomi. %%\%%v 15 “Look,” Naomi said to her, “your sister-in-law has gone back to her people and to her gods. You should do the same.” %%\%%p %%\%%v 16 But Ruth replied, “Don't ask me to leave you and turn back. Wherever you go, I will go; wherever you live, I will live. Your people will be my people, and your God will be my God. %%\%%v 17 Wherever you die, I will die, and there I will be buried. May the LORD punish me severely if I allow anything but death to separate us!” %%\%%v 18 When Naomi saw that Ruth was determined to go with her, she said nothing more. %%\%%p %%\%%v 19 So the two of them continued on their journey. When they came to Bethlehem, the entire town was excited by their arrival. “Is it really Naomi?” the women asked. %%\%%p %%\%%v 20 “Don't call me Naomi,” she responded. “Instead, call me Mara, %%\%%f + %%\%%fr 1:20 %%\%%fq Naomi %%\%%ft means “pleasant”; %%\%%fq Mara %%\%%ft means “bitter.”%%\%%f* for the Almighty has made life very bitter for me. %%\%%v 21 I went away full, but the LORD has brought me home empty. Why call me Naomi when the LORD has caused me to suffer %%\%%f + %%\%%fr 1:21 %%\%%ft Or %%\%%fqa has testified against me.%%\%%f* and the Almighty has sent such tragedy upon me?” %%\%%p %%\%%v 22 So Naomi returned from Moab, accompanied by her daughter-in-law Ruth, the young Moabite woman. They arrived in Bethlehem in late spring, at the beginning of the barley harvest.
+\s1 Elimelekh Memindahkan Keluarganya ke Moab
+\m
+\v 1 Pada zaman para hakim memerintah Israel, bencana kelaparan melanda seluruh negeri.  Seorang laki-laki dari Betlehem di wilayah Yehuda meninggalkan kampung halamannya ke wilayah Moab dengan membawa dengannya, isterinya dan kedua anak laki-laki mereka.  
+\v 2 Laki-laki itu bernama Elimelekh dan isterinya bernama Naomi.  Kedua anak mereka bernama Mahlon dan Kilyon.  Mereka orang Efrata yang berasal dari Betlehem di wilayah Yehuda. Dan ketika mereka sampai di wilayah Moab, mereka menetap di sana.
+\p
+\v 3 Kemudian Elimelekh meninggal dunia, meninggalkan Naomi seorang diri dengan kedua anak laki-laki mereka. 
+\v 4 Kedua anaknya menikah dengan dua perempuan yang berasal dari Moab. Nama kedua perempuan ini adalah Orpa dan yang satunya bernama Rut. Tetapi kurang lebih sepuluh tahun kemudian, 
+\v 5 Mahlon and Kilyon meninggal dunia. Naomi ditinggal seorang diri tanpa kedua anaknya ataupun suaminya.
+\s1 Naomi dan Rut Pulang
+\m
+\v 6 Ketika Naomi masih berada di Moab dia mendengar berita bahwa TUHAN telah memberkati umat pilihan-NYA di Yehuda dengan hasil panen yang baik. Lalu Naomi dan kedua menantunya bersiap-siap untuk meninggalkan wilayah Moab untuk kembali ke kampung halaman Naomi.
+\v 7 Bersama dengan kedua menantunya, mereka meninggalkan tempat tinggal mereka dan mengikuti jalan yang akan membawa mereka pulang ke Yehuda. 
+\p
+\v 8 Namun, ketika mereka dalam perjalanan, Naomi berkata kepada kedua menantunya,“Kalian berdua, pulanglah ke rumah ibu kalian masing-masing.  Kiranya TUHAN membalas kebaikan kalian kepada suami-suami kalian yang telah meninggal dan juga kepada saya.
+\v 9 Dan sekiranya TUHAN memberkati kalian dengan kebahagiaan untuk dapat menikah lagi.” Lalu dia mencium kedua menantunya, dan mereka mulai menangis.
+\p
+\v 10 Mereka berkata, “Tidak, kami akan pergi bersamamu kembali kepada keluargamu.”
+\p
+\v 11 Tetapi Naomi menjawab,“Mengapa kalian mau pergi bersama saya?  Tidak mungkin saya melahirkan anak-anak laki-laki lagi untuk menjadi suami-suami kalian! 
+\v 12 Pulanglah kalian ke rumah orang tua masing-masing, karena saya sudah terlalu tua untuk menikah lagi. Bagaimanakah kalian berharap saya untuk menikah lagi? Biarpun malam ini saya melahirkan dua anak laki-laki, saya masih tetap tidak sanggup untuk membantu kalian!
+\v 13 Karena tidak mungkin kalian berdua menunggu hingga mereka dewasa untuk menikahi kalian.  Tentu tidak anak-anakku!  Keadaan ini lebih susah dan pahit bagi saya dibandingkan kalian berdua, karena ternyata TUHAN telah berpaling dari saya!”
+\p
+\v 14 Merekapun menangis lagi, lalu Orpa mencium mertuannya dan pamit, sedangkan Rut tetap memeluk ibu mertuanya itu.
+\v 15 Kata Naomi kepadanya,“Lihatlah, kakak iparmu telah pulang kepada keluarganya dan ilah-ilah yang mereka sembah. Kamupun harus melakukan hal yang sama.”
+\p
+\v 16 Tetapi jawab Rut, “Janganlah memaksa saya untuk meninggkalkanmu.  Kemana engkau pergi, saya pun pergi; Di manapun engkau tinggal, di sana juga saya akan tinggal.  Bangsamu menjadi bangsaku dan Allahmu menjadi Allah saya juga. 
+\v 17 Dan di mana engkau meninggal, saya juga akan meninggal di sana dan di sana juga saya akan dikubur.  Saya memohon kepada TUHAN untuk menghukum saya kalau saya tidak menepati janji ini.  Hanya kematian yang akan memisahkan kita!” 
+\v 18 Karena Naomi melihat bahwa Rut berkeras hati untuk ikut bersamanya, maka dia tidak bicara lagi mengenai hal ini.
+\p
+\v 19 Lalu mereka berdua melanjutkan perjalanan mereka.  Ketika mereka tiba di Betlehem, seluruh penduduk menjadi gempar. Kaum perempuan bertanya “Apakah benar dia Naomi?” 
+\p
+\v 20 Naomi menjawab mereka “Jangan memanggil saya Naomi, tetapi panggilah saya Mara, sebab Yang Mahakuasa telah membuat hidup saya sangat pahit.”
+\f + \fr 1:20 \fq Naomi \ft artinya “bahagia atau menyenangkan”; \fq Mara \ft artinya “pahit atau menyedihkan.”\f* sebab Yang Mahakuasa telah membuat hidup saya sangat pahit. 
+\v 21 Ketika saya pergi dari tempat ini, saya puas dengan apa yang saya miliki, tetapi sekarang TUHAN membahwa saya pulang dengan tangan kosong.  Jadi untuk apa kamu menyapa saya dengan kata 'Bahagia", apalagi TUHAN sendiri sudah menimapakan kesengsaraan pada saya?
+\f + \fr 1:21 \ft Or \fqa telah bersaksi melawan saya.\f* sebab yang Mahakuasa telah membuat hidup saya sangat pahit
+\p
+\v 22 Demikianlah kisah kepulangan Naomi dari wilayah Moab, bersama Rut menantunya yang berasal dari Moab. Mereka tiba di Betlehem pada awal musim panen jelai.
 
 
 </USFM>
-
-
 ~~DISCUSSIONS:on~~
