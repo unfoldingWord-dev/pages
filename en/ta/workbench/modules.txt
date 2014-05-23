@@ -4,7 +4,10 @@
 Modules are structured as answers to questions. These are some of the questions needing answers:
 
 
+    - What is meaning-based translation?
     - Why should I do a meaning-based translation?
     - How do I do a meaning-based translation?
     - How do I translate something that does not exist in my language?
-    - What do I do if what I understand the text to say is impossible? (Jesus walking __on top__ of the water?)
+    - What do I do if what I understand the text to say is impossible? (Jesus walking __on top__  of the water? How do I distinguish the miraculous from a figure of speech such as "He was walking on thin ice"?)
+    - What do I do if people give the wrong answer to a comprehension question? (Distinguishing lack of clarity in a translation from lack of background knowledge on the part of the audience.)
+    - What do I do if the text doesn't tell me everything I need to know in order to translate it into my language? (Such as formal versus familiar forms of 'you', singular versus dual forms of 'you')?
