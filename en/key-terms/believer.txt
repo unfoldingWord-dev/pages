@@ -1,22 +1,22 @@
 ====== believer ======
 
 
-==== (term, other) ====
-
-
 ===== Definitions Facts: =====
 
-  * To 
-  * This refers to the people who believed in Jesus. A few years later, people would begin to use the term, “Christians” to refer to the believers.
+A "believer" is a person who trusts completely in a person or an idea. 
+
+  * In the Bible, "believer" specifically refers to someone who believes in Jesus. 
+  * The term “Christians” eventually came to be the main title for believers because it indicates that they believe in Christ.
+  * Other common ways to translate "believer" are "follower of Jesus" or, "disciple."
 
 
-[See also: **[[:en:key-terms:christian|Christian]]**, **[[:en:key-terms:disciple|disciple]]**]
+[See also: **[[:en:key-terms:believe|believe]]**, **[[:en:key-terms:christian|Christian]]**, **[[:en:key-terms:disciple|disciple]]**]
 
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:en:obs-training:frames:43-01|[43-01]]]** After Jesus returned to heaven, the disciples stayed in Jerusalem as Jesus had commanded. The **believers** gathered together and were praying constantly. 
-  ***[[:en:obs-training:frames:43-03|[43-03]]]** While the **believers** were all together, suddenly, they heard a sound like a strong wind that filled the house. Then something like flames of fire appeared over the heads of all the **believers**.  
+  ***[[:en:obs-training:frames:43-01|[43-01]]]** After Jesus returned to heaven, the disciples stayed in Jerusalem as Jesus had commanded them to do. The **believers** there constantly gathered together to pray. 
+  ***[[:en:obs-training:frames:43-03|[43-03]]]** While the **believers** were all together, suddenly the house where they were was filled with a sound like a strong wind. Then something that looked like flames of fire appeared over the heads of all the **believers**.
   ***[[:en:obs-training:frames:43-13|[43-13]]]** Every day, more people became **believers**. 
   ***[[:en:obs-training:frames:xx-xx|[xx-xx]]]** Text 
 
