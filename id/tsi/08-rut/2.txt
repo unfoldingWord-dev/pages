@@ -1,15 +1,15 @@
 <USFM>
 
-\s1 Ruth Works in Boaz's Field
+\s1 Rut Bekerja di Ladang Milik Boas
 \m
-\v 1 Now there was a wealthy and influential man in Bethlehem named Boaz, who was a relative of Naomi's husband, Elimelech.
+\v 1 Di Betlehem ada seseorang yang kaya dan berpengaruh yang bernama Boas.  Dia masih ada hubungan keluarga dengan Elimelekh, suami Naomi.
 \p
-\v 2 One day Ruth the Moabite said to Naomi, “Let me go out into the harvest fields to pick up the stalks of grain left behind by anyone who is kind enough to let me do it.”
-\p Naomi replied, “All right, my daughter, go ahead.”
-\v 3 So Ruth went out to gather grain behind the harvesters. And as it happened, she found herself working in a field that belonged to Boaz, the relative of her father-in-law, Elimelech.
+\v 2 Pada suatu hari, Rut perempuan Moab itu, berkata kepada Naomi, “Perbolehkanlah saya untuk pergi ke ladang yang sedang dipanen untuk memungut bulir-bulir jelai yang dijatuhkan siapa saja yang berbaik hati yang memperbolehkan saya untuk memungutnya.”
+\p Jawab Naomi, “Baiklah, pergilah anakku.”
+\v 3 Lalu Ruth pergi memungut bulir-bulir jerai yang dijatuhan para penuai. Dengan tidak sengaja, Rut bekerja pada ladang yang pemiliknya adalah Boas, anggota keluarga mertuanya, Elimelekh.
 \p
-\v 4 While she was there, Boaz arrived from Bethlehem and greeted the harvesters. “The LORD be with you!” he said.
-\p “The LORD bless you!” the harvesters replied.
+\v 4 Saat Rut sedang berada di ladang, tibalah Boas dari Betlehem dan menyapa para penuai dengan berkata, "TUHAN menyertai kalian!”
+\p Jawablah para penuai kepada Boas,“TUHAN menyertaimu!”
 \p
 \v 5 Then Boaz asked his foreman, “Who is that young woman over there? Who does she belong to?”
 \p
