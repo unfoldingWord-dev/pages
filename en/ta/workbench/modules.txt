@@ -1,7 +1,10 @@
 ====== Modules ======
 
+
 Modules are structured as answers to questions. These are some of the questions needing answers:
 
-  - Why should I do a meaning-based translation?
-  - How do I do a meaning-based translation?
-  - How do I translate something that does not exist in my language?
+
+    - Why should I do a meaning-based translation?
+    - How do I do a meaning-based translation?
+    - How do I translate something that does not exist in my language?
+    - What do I do if what I understand the text to say is impossible? (Jesus walking __on top__ of the water?)
