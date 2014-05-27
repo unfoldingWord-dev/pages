@@ -1,53 +1,10 @@
 <USFM>
 
-\s1 Rut Bekerja di Ladang Milik Boas
-\m
-\v 1 Di Betlehem ada seseorang yang kaya dan berpengaruh yang bernama Boas.  Dia masih ada hubungan keluarga dengan Elimelekh, suami Naomi.
-\p
-\v 2 Pada suatu hari, Rut perempuan Moab itu, berkata kepada Naomi, “Perbolehkanlah saya untuk pergi ke ladang yang sedang dipanen untuk memungut bulir-bulir jelai yang dijatuhkan siapa saja yang berbaik hati yang memperbolehkan saya untuk memungutnya.”
-\p Jawab Naomi, “Baiklah, pergilah anakku.”
-\v 3 Lalu Ruth pergi memungut bulir-bulir jerai yang dijatuhkan para penuai. Dengan tidak sengaja, Rut bekerja pada ladang yang pemiliknya adalah Boas, anggota keluarga mertuanya, Elimelekh.
-\p
-\v 4 Saat Rut sedang berada di ladang, tibalah Boas dari Betlehem dan menyapa para penuai dengan berkata, "TUHAN menyertai kalian!”
-\p Jawablah para penuai kepada Boas,“TUHAN menyertaimu!”
-\p
-\v 5 Lalu bertanyalah Boaz kepada pekerjanya yang mengawasi para penuai,  “Siapakah perempuan muda disana? Dia milik siapa?”
-\p
-\v 6 Dan pekerjanya itu menjawab,“Dialah perempuan muda asal Moab yang kembali dengan Naomi.
-\v 7 Tadi pagi dia minta ijin untuk dapat mengumpulkan bulir-bulir jerai yang jatuh di belakang para pekerja yang sedang menyabit jerai. Dia telah bekerja dengan keras sejak dia datang tadi pagi-pagi sekali dan hanya beristirahat untuk sebentar saja di pondok.”
-\p
-\v 8 Boaz menghampirinya dan berkata kepada Rut, “Dengarkanlah anakku.  Tetaplah disini bersama kami untuk memungut bulir jerai; tidak perlu kamu bekerja di ladang milik orang lain.  Tetaplah berada dekat pekerjaku yang perempuan yang bekerja di ladang milikku.
-\v 9 Perhatikanlah bagian manakah yang sedang mereka kerjakan, lalu ikutilah mereka.  Saya telah memperingatkan para pekerjaku yang laki-laki untuk tidak salah memperlakukanmu. Bila kamu terasa haus, ambillah air dari tempat penyimpanan air minum.”
-\p
-\v 10 Bersujudlah Rut di hadapan Boas sambil berkata “Saya tidak layak untuk menerima semua kebaikan dan belas kasihan Bapak.” dia berkata “Saya hanyalah orang asing.”
-\p
-\v 11 “Iya, sudah saya ketahui,” jawab Boaz. “Saya juga telah mengetahui semua yang telah kau perbuat untuk ibu mertuamu sejak kematian suamimu.  Saya telah mendengar bahwa kamu meninggalkan kedua orangtuamu dan tanah kelahiranmu untuk menetap di sini, di antara orang asing.
-\v 12 Kiranya engkau senantiasa menemukan perlindungan dibawah kepak sayap TUHAN yang telah kamu cari, dan Allah Israel memberkatimu dengan melimpah untuk semua yang telah kau perbuat.”
-\p
-\v 13 “Saya berharap dapat tetap menyenangkan hatimu, Bapak,” she replied. “Bapak telah menenangkan saya dengan kemurahan dan menunjukkan belas kasihan kepada ku, walaupun saya bukan salah seorang pekerjamu.”
-\p
-\v 14 Pada waktu makan siang, Boaz memanggilnya,“Kemarilah, dan ambilah sendiri makanan ini.  Kamu dapat celupkan rotimu ke dalam kuah/ air anggur ini.” Jadi, Rut duduk dengan para penuai dan Boas memberikan kepadanya gandum yang telah dipanggang.  Dia makan hingga kenyang, dan masih ada makanan yang tersisa. 
-\p
-\v 15 Lalu Rut kembali bekerja, Boas telah memerintahkan para pekerjanya, “Biarkanlah dia memungut bulir-bulir jelai dari antara tumpuk gandum yang sudah terikat itu. 
-\v 16 Bahkan bantulah dia dengan sengaja menjatuhkan bulir-bulir supaya dengan mudah dia dapat mengambilnya. Janganlah melarang ataupun menghentikannya!”
-\p
-\v 17 Rut bekerja sepanjang hari mengumpulkan jelai, dan ketika mengirik hasil gelai itu dia mendapatkan satu keranjang penuh, kurang lebih 22 liter.
-\f + \fr 2:17 \ft Hebrew \fqa it was about an ephah \ft [20 quarts or 22 liters].\f*
-\v 18 Dia membawanya pulang ke kota dan memperlihatkan ibu mertuanya.  Rut juga memberikan gandum panggangyang tersisa dari makan siangnya.
-\p
-\v 19 “Darimana saja kamu mengumpulkan gandum sebanyak ini?” tanyalah Naomi. “Kamu bekerja di mana? Kiranya TUHAN memberkati dia yang telah menunjukkan belas kasihanNya kepada kita!”
-\p Rut kemudia menceritakan apa yang dia alami, mengenai pemilik ladang di mana di bekerja.  Dia berkata kepada Ibu mertuanya, “Pemilik ladang dimana saya bekerja seharian adalah Boas.”
-\p
-\v 20 “Kiranya TUHAN memberkatinya!” Naomi tberkata kepada menanutnya.“Dia menunjukkan belas kasihanya kepada kami dan juga terhadap suamimu yang telah meninggal.
-\f + \fr 2:20 \ft Hebrew \fqa to the living and to the dead.\f* That man is one of our closest relatives, one of our family redeemers.”
-\p
-\v 21 Lalu Rut
-\f + \fr 2:21 \ft Hebrew \fqa Ruth the Moabite.\f* berkata, “Boas juga berkata untuk kembali dan bekerja dengan para penuainya selama musim panen.”
-\p
-\v 22 “Baiklah!” Naomi exclaimed. “Lakukan apa yang telah dia katakan, anakku.  Bekerjalah dengan pekerja perempuan Boas selama musim panen.  Kamu bisa saja diganggu bila kamu bekerja pada ladang milik orang lain.  Untuk itu, lakukan apa yang telah dia katakan.”
-\p
-\v 23 Demikianlah, Rut tetap bekerja dengan para pekerja wanita di ladang milik Boaz hingga musim panen jelai berakhir.  Kemudian dia melanjutkan terus bekerja mengumpulkan gandum selama musim panen gandum.  Selama itu, dia hidup bersama ibu mertuanya. 
+
+%%\%%s1 Rut Bekerja di Ladang Milik Boas %%\%%m %%\%%v 1 Di Betlehem ada seseorang yang kaya dan berpengaruh yang bernama Boas. Dia masih ada hubungan keluarga dengan Elimelekh, suami Naomi. %%\%%p %%\%%v 2 Pada suatu hari, Rut perempuan Moab itu, berkata kepada Naomi, “Perbolehkanlah saya untuk pergi ke ladang yang sedang dipanen untuk memungut bulir-bulir jelai yang dijatuhkan siapa saja yang berbaik hati yang memperbolehkan saya untuk memungutnya.” %%\%%p Jawab Naomi, “Baiklah, pergilah anakku.” %%\%%v 3 Lalu Ruth pergi memungut bulir-bulir jerai yang dijatuhkan para penuai. Dengan tidak sengaja, Rut bekerja pada ladang yang pemiliknya adalah Boas, anggota keluarga mertuanya, Elimelekh. %%\%%p %%\%%v 4 Saat Rut sedang berada di ladang, tibalah Boas dari Betlehem dan menyapa para penuai dengan berkata, "TUHAN menyertai kalian!” %%\%%p Jawablah para penuai kepada Boas,“TUHAN menyertaimu!” %%\%%p %%\%%v 5 Lalu bertanyalah Boaz kepada pekerjanya yang mengawasi para penuai, “Siapakah perempuan muda disana? Dia milik siapa?” %%\%%p %%\%%v 6 Dan pekerjanya itu menjawab,“Dialah perempuan muda asal Moab yang kembali dengan Naomi. %%\%%v 7 Tadi pagi dia minta ijin untuk dapat mengumpulkan bulir-bulir jerai yang jatuh di belakang para pekerja yang sedang menyabit jerai. Dia telah bekerja dengan keras sejak dia datang tadi pagi-pagi sekali dan hanya beristirahat untuk sebentar saja di pondok.” %%\%%p %%\%%v 8 Boaz menghampirinya dan berkata kepada Rut, “Dengarkanlah anakku. Tetaplah disini bersama kami untuk memungut bulir jerai; tidak perlu kamu bekerja di ladang milik orang lain. Tetaplah berada dekat pekerjaku yang perempuan yang bekerja di ladang milikku. %%\%%v 9 Perhatikanlah bagian manakah yang sedang mereka kerjakan, lalu ikutilah mereka. Saya telah memperingatkan para pekerjaku yang laki-laki untuk tidak salah memperlakukanmu. Bila kamu terasa haus, ambillah air dari tempat penyimpanan air minum.” %%\%%p %%\%%v 10 Bersujudlah Rut di hadapan Boas sambil berkata “Saya tidak layak untuk menerima semua kebaikan dan belas kasihan Bapak.” dia berkata “Saya hanyalah orang asing.” %%\%%p %%\%%v 11 “Iya, sudah saya ketahui,” jawab Boaz. “Saya juga telah mengetahui semua yang telah kau perbuat untuk ibu mertuamu sejak kematian suamimu. Saya telah mendengar bahwa kamu meninggalkan kedua orangtuamu dan tanah kelahiranmu untuk menetap di sini, di antara orang asing. %%\%%v 12 Kiranya engkau senantiasa menemukan perlindungan dibawah kepak sayap TUHAN yang telah kamu cari, dan Allah Israel memberkatimu dengan melimpah untuk semua yang telah kau perbuat.” %%\%%p %%\%%v 13 “Saya berharap dapat tetap menyenangkan hatimu, Bapak,” she replied. “Bapak telah menenangkan saya dengan kemurahan dan menunjukkan belas kasihan kepada ku, walaupun saya bukan salah seorang pekerjamu.” %%\%%p %%\%%v 14 Pada waktu makan siang, Boaz memanggilnya,“Kemarilah, dan ambilah sendiri makanan ini. Kamu dapat celupkan rotimu ke dalam kuah/ air anggur ini.” Jadi, Rut duduk dengan para penuai dan Boas memberikan kepadanya gandum yang telah dipanggang. Dia makan hingga kenyang, dan masih ada makanan yang tersisa. %%\%%p %%\%%v 15 Lalu Rut kembali bekerja, Boas telah memerintahkan para pekerjanya, “Biarkanlah dia memungut bulir-bulir jelai dari antara tumpuk gandum yang sudah terikat itu. %%\%%v 16 Bahkan bantulah dia dengan sengaja menjatuhkan bulir-bulir supaya dengan mudah dia dapat mengambilnya. Janganlah melarang ataupun menghentikannya!” %%\%%p %%\%%v 17 Rut bekerja sepanjang hari mengumpulkan jelai, dan ketika mengirik hasil gelai itu dia mendapatkan satu keranjang penuh, kurang lebih 22 liter. %%\%%f + %%\%%fr 2:17 %%\%%ft Hebrew %%\%%fqa it was about an ephah %%\%%ft [20 quarts or 22 liters].%%\%%f* %%\%%v 18 Dia membawanya pulang ke kota dan memperlihatkan ibu mertuanya. Rut juga memberikan gandum panggangyang tersisa dari makan siangnya. %%\%%p %%\%%v 19 “Darimana saja kamu mengumpulkan gandum sebanyak ini?” tanyalah Naomi. “Kamu bekerja di mana? Kiranya TUHAN memberkati dia yang telah menunjukkan belas kasihanNya kepada kita!” %%\%%p Rut kemudia menceritakan apa yang dia alami, mengenai pemilik ladang di mana di bekerja. Dia berkata kepada Ibu mertuanya, “Pemilik ladang dimana saya bekerja seharian adalah Boas.” %%\%%p %%\%%v 20 “Kiranya TUHAN memberkatinya!” Naomi tberkata kepada menanutnya.“Dia menunjukkan belas kasihanya kepada kami dan juga terhadap suamimu yang telah meninggal. %%\%%f + %%\%%fr 2:20 %%\%%ft Hebrew %%\%%fqa to the living and to the dead.%%\%%f* That man is one of our closest relatives, one of our family redeemers.” %%\%%p %%\%%v 21 Lalu Rut %%\%%f + %%\%%fr 2:21 %%\%%ft Hebrew %%\%%fqa Ruth the Moabite.%%\%%f* berkata, “Boas juga berkata untuk kembali dan bekerja dengan para penuainya selama musim panen.” %%\%%p %%\%%v 22 “Baiklah!” Naomi exclaimed. “Lakukan apa yang telah dia katakan, anakku. Bekerjalah dengan pekerja perempuan Boas selama musim panen. Kamu bisa saja diganggu bila kamu bekerja pada ladang milik orang lain. Untuk itu, lakukan apa yang telah dia katakan.” %%\%%p %%\%%v 23 Demikianlah, Rut tetap bekerja dengan para pekerja wanita di ladang milik Boaz hingga musim panen jelai berakhir. Kemudian dia melanjutkan terus bekerja mengumpulkan gandum selama musim panen gandum. Selama itu, dia hidup bersama ibu mertuanya.
 
 
 </USFM>
+
+
 ~~DISCUSSIONS:on~~
