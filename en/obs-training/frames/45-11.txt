@@ -4,12 +4,17 @@
 
 As they passed by **some water**, the **Ethiopian** said, “Look! There is some water! May I be **[[:en:key-terms:baptize|baptized]]**?” And he ordered the **[[:en:key-terms:chariot|chariot]]** to stop.
 
+[new]
+
+As Philip and the Ethiopian traveled, they came to **some water**. The **Ethiopian** said, “Look! There is some water! **May I be [[:en:key-terms:baptize|baptized]]**?” And he told the driver to stop the **[[:en:key-terms:chariot|chariot]]**.
+
 
 ===== Translation Notes: =====
 
   * **some water** - Use a term that means a larger body of water such as a pond, lake, or stream.
-  * **Ethiopian** - This refers to a citizen of the country of Ethiopia. See note on **[[:en:obs-training:frames:45-07|[45-07]]]**.
-  * **issue** - explanation
+  * (**Ethiopian** - This refers to a citizen of the country of Ethiopia. See note on **[[:en:obs-training:frames:45-07|[45-07]]]**.)
+  * **May I be baptized?** - This could also be translated as, "Is there any reason the I cannot be baptized?"
+
   
 
 **[[:en:obs-training:frames:45-10|<<]] | [[:en:obs-training:45-philip-and-the-ethiopian-official|Up]] | [[:en:obs-training:frames:45-12|>>]]**
