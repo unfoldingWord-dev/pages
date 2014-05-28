@@ -19,3 +19,4 @@ Modules are structured as answers to questions. These are some of the questions 
     - What do I do if the text I am translating has a cultural practice that is foreign to my context?
     - How do I edit pages and text in the translation interface?
     - What is my personal beliefs or the beliefs of my denomination do not agree with the OBS text?
+    - [likened to #9] What if something in the OBS text (a cultural form in the story, so to speak) carries a bad or evil connotation in my culture?
