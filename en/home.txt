@@ -20,7 +20,7 @@ These are the resources currently available for translation and use:
 ==== About Door43 ====
 
 
-    * **[[:en:get-started|How to Get Started]]** – Get started translating!
+    * **[[:en:obs-training:get-started|How to Get Started]]** – Get started translating!
     * **[[:en:statement-of-faith|Statement of Faith]]** – The Statement of Faith, with which all Door43 contributors agree.
     * **[[:en:legal:license|Copyrights & Licensing]]** – All content on this website is made available under the terms of a [[http://creativecommons.org/licenses/by-sa/3.0|Creative Commons Attribution-ShareAlike 3.0 Unported License]].
     * **[[:en:syntax|Formatting Content]]** – How to make content look the way it should.

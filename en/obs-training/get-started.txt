@@ -9,7 +9,7 @@ Translating content in Door43 is easy! Follow these simple steps to get started:
 ===== 1. Create an Account & Log into Door43 =====
 
 
-To start translating content, you will need a user account on Door43. If you do not have an account, [[:en:get-started?do=register|create one]] then you can [[https://door43.org/en/obs-training/get-started?do=login&sectok=ee4e19eb537ef77891aa5a6b54b7b2a4|login]].\\ 
+To start translating content, you will need a user account on Door43. If you see your name in the top right then you can skip to #2 below. If you do not have an account, [[:en:get-started?do=register|create one]] then you can [[https://door43.org/en/obs-training/get-started?do=login&sectok=ee4e19eb537ef77891aa5a6b54b7b2a4|login]].\\ 
 You can watch this [[http://youtu.be/dpsJRDAa3I8|video]] (45 seconds long) to see how to set up an account.
 
 
