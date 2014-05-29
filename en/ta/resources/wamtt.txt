@@ -1,1 +1,6 @@
 ====== wamtt information ======
+
+Basics of Translation:
+
+{{topic>[Translation]&[flags]}}
+{{topic>[quiche_story]&[flags]}}
