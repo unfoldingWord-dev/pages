@@ -1,0 +1,11 @@
+====== Switching Editors ======
+
+
+**Visual Editor**  – When you click the "Edit this page" button, you will probably see an edit window that looks like a simplified word processor. Click [[https://www.youtube.com/watch?v=kFK1zK_dSYc|here]] for the "how to" 1 minute video. The buttons take care of formatting text and generally make it easier to use. Here is information on the toolbar icons: [[doku>toolbar|quickbuttons]].
+
+
+**Text Editor**  – If you prefer, you can click the "DW Edit" button beneath the edit box to switch to a text-based editor. This is the standard DokuWiki editor and it provides full control over the syntax of the text. Go to the [[:en:obs-training:syntax|Formatting Text]] page for some simple editing formats to use in the text editor.
+
+
+//Note://  when using the text editor, you can switch back to the graphical editor by clicking the "FCK Edit" button.
+[[https://www.youtube.com/watch?v=dF7px5U6PdA|Here]] is a short video (45 seconds) on how to switch between the text editor and the graphical editor.
