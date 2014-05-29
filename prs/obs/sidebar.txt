@@ -1,0 +1,7 @@
+
+----
+~~NOCACHE~~
+**[[prs:obs|Open Bible Stories]]**
+
+{{page>prs:obs:stories}}
+

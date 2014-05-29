@@ -42,6 +42,7 @@
     * [[:pgg:home|Pangwali(pgg)]]
     * [[:pl:home|Polski (pl)]]
     * [[:ppq:home|Pefiyahe (ppq)]]
+    * [[:prs:home|دری‎ (prs)]]
     * [[:pt-br:home|Português do Brasil (pt-BR)]]
     * [[:ru:home|Русский (ru)]]
     * [[:sdh:home|کوردی خوارگ (Kermanshahi, sdh)]]
