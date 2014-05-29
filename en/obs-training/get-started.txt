@@ -32,8 +32,10 @@ Note: if you want to learn how to switch between the editors click here.http://d
 
 Let's start with a story about Jesus and his disciples. Click for the story [[:en:obs:31-jesus-walks-on-water|31. Jesus Walks on Water]].
 
-
+<code>
 **You might find it convenient to right click on links and choose "Open in new window."** 
+</code>
+
 
 
 ===== 4. Choose the language into which you want to translate =====
