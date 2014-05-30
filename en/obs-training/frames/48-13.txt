@@ -2,15 +2,14 @@
 
 {{:en:obs:obs-48-13.jpg?nolink&640x360}}
 
-**[[:en:key-terms:god|God]]** **[[:en:key-terms:promise|promised]]** **[[:en:key-terms:david|David]]** that the **[[:en:key-terms:messiah|Messiah]]** would be one of his **[[:en:key-terms:descendant|descendants]]**. **[[:en:key-terms:jesus|Jesus]]**, the Messiah, was that special descendant of David.
+**[[:en:key-terms:god|God]]** **[[:en:key-terms:promise|promised]]** **[[:en:key-terms:david|King David]]** that the **[[:en:key-terms:messiah|Messiah]]** would be one of his **[[:en:key-terms:descendant|descendants]]**. **[[:en:key-terms:jesus|Jesus]]**, the Messiah, was that special descendant of David.
 
 
 ===== Translation Notes: =====
 
   * **issue** - explanation
-  * **issue** - explanation
   
 
 **[[:en:obs-training:frames:48-12|<<]] | [[:en:obs-training:48-jesus-is-the-promised-messiah|Up]] | [[:en:obs-training:frames:48-14|>>]]**
 
-~~DISCUSSION~~
+~~DISCUSSION:closed~~
