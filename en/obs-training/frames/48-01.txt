@@ -2,11 +2,7 @@
 
 {{:en:obs:obs-48-01.jpg?nolink&640x360}}
 
-When **[[:en:key-terms:god|God]] created the world**, everything was **perfect**. **There was no [[:en:key-terms:sin|sin]]**. **[[:en:key-terms:adam|Adam]]** and **[[:en:key-terms:eve|Eve]]** **[[:en:key-terms:love|loved]]** each other, and they loved God. **There was no [[:en:key-terms:death|death]] or sickness or pain**. This was **the way God wanted things to be**.
-
-[new]
-
-When **[[:en:key-terms:god|God]] created the world**, everything was **perfect**. **There was no [[:en:key-terms:sin|sin]]**. **[[:en:key-terms:adam|Adam]]** and **[[:en:key-terms:eve|Eve]]** **[[:en:key-terms:love|loved]]** each other, and they loved God. **There was no [[:en:key-terms:death|death]] or sickness or pain**. This was what God wanted the world to be like.
+When **[[:en:key-terms:god|God]] created the world**, everything was **perfect**. **There was no [[:en:key-terms:sin|sin]]**. **[[:en:key-terms:adam|Adam]]** and **[[:en:key-terms:eve|Eve]]** **[[:en:key-terms:love|loved]]** each other, and they loved God. **There was no sickness or [[:en:key-terms:death|death]]**. This was the way God wanted the world to be.
 
 
 ===== Translation Notes: =====
@@ -14,7 +10,7 @@ When **[[:en:key-terms:god|God]] created the world**, everything was **perfect**
   * **God created the world** - That is, "God made the world out of nothing."
   * **perfect** - That is, "exactly as it should be" to accomplish all that God intended for it.
   * **There was no sin** - For some languages it is not possible to express “sin” as a thing, rather it is an action. In those cases this could be translated as, “No one ever sinned” or, “People did not sin” or, “Nothing evil had happened.”
-  * **There was no death, or sickness or pain** - That is, “No one died, no one got sick, and no one felt pain” or. “They did not die, they did not get sick, and they did not feel pain.”
+  * **There was no sickness or death** - That is, “No one got sick and no one died” or, “They did not get sick or die.”
   
 
 **[[:en:obs-training:frames:47-14|<<]] | [[:en:obs-training:48-jesus-is-the-promised-messiah|Up]] | [[:en:obs-training:frames:48-02|>>]]**
