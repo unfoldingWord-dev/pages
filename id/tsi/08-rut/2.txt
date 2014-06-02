@@ -35,11 +35,12 @@
 \f + \fr 2:17 \ft Hebrew \fqa kira-kira satu ephah \ft [20 quarts or 22 liters].\f*
 \v 18 Dia membawa pulang hasil girikan jerai ke kota dan memperlihatkan hasilnya kepada ibu mertuanya.  Rut juga memberikan gandum panggang kelebihan dari makan siangnya.
 \p
-\v 19 “Darimana saja kamu mengumpulkan gandum sebanyak ini?” tanyalah Naomi. “Kamu bekerja di mana? Kiranya TUHAN memberkati dia yang telah menunjukkan belas kasihanNya kepada kita!”
+\v 19 “Darimana saja kamu mengumpulkan gandum sebanyak ini?” tanyalah Naomi. “Kamu bekerja di mana? Kiranya TUHAN memberkati dia yang memperhatikan kamu!”
 \p Rut kemudian menceritakan apa yang dia alami, mengenai pemilik ladang di mana di bekerja.  Dia berkata kepada Ibu mertuanya, “Pemilik ladang di mana saya bekerja seharian adalah Boas.”
 \p
-\v 20 “Kiranya TUHAN memberkatinya!” Naomi berkata kepada menanutnya. “Dia menunjukkan belas kasihanya kepada kami dan juga terhadap suamimu yang telah meninggal.
-\f + \fr 2:20 \ft Hebrew \fqa bagi yang masih hidup maupun bagi yang telah meninggal.\f* Lelaki itu adalah salah satu kerabat dekat, salah satu penanggung jawab keluarga kami.”
+\v 20 Dan Naomi berkata kepada Rut, “Kiranya TUHAN memberkati Boas! Karena ternyata Boas
+\f + \fk Boas \fr 2:20 \ft Kata berkat yang diucapkan Naomi ini juga dapat diterjemahkan, “Semoga dia (Boas) diberkati oleh Tuhan, yang tetap setia …” Lihat catatan kaki di NET tentang \f*
+ tetap setia kepada kami dan juga terhadap suamimu yang telah meninggal. Dia adalah salah satu kerabat dekat, salah satu penanggung jawab keluarga kami.”
 \p
 \v 21 Lalu Rut
 \f + \fr 2:21 \ft Hebrew \fqa Ruth the Moabite.\f* berkata, “Boas juga berkata untuk kembali dan bekerja dengan para penuainya selama musim panen.”
