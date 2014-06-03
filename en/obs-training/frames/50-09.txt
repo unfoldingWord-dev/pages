@@ -2,11 +2,7 @@
 
 {{:en:obs:obs-50-09.jpg?nolink&640x360}}
 
-“The weeds represent the people who belong to **the [[:en:key-terms:evil|evil]] one**. The enemy who planted them **is the [[:en:key-terms:satan|devil]]**. **The harvest is the end of the world**, and **the harvesters are the [[:en:key-terms:angel|angels]]**.”
-
-[new]
-
-“The weeds represent the people **who belong to the [[:en:key-terms:evil|evil]] one**. The enemy who planted the weeds represents **the [[:en:key-terms:satan|devil]]**. The harvest **represents the end of the world**, and the harvesters represent **[[:en:key-terms:god|God's]]** **[[:en:key-terms:angel|angels]]**.”
+“The weeds represent the people **who belong to the [[:en:key-terms:evil|evil]] one**. The enemy who planted the weeds represents **the [[:en:key-terms:satan|devil]]**. The harvest **represents the end of the world**, and **the harvesters** represent **[[:en:key-terms:god|God's]]** **[[:en:key-terms:angel|angels]]**.”
 
 
 ===== Translation Notes: =====
@@ -15,6 +11,7 @@
   * **the evil one** - This is another title for Satan. It could be translated as, "Satan," but the title, "evil one" describes his character.
   * **the devil** - This could also be translated as, "Satan."
   * **represents the end of the world** - That is, "represents what will happen to people at the end of the world."
+  * **the harvesters** – This could also be translated as, “the men who harvest the ripe grain” or, “the workers who gather in the ripe grain.”
   
 
 **[[:en:obs-training:frames:50-08|<<]] | [[:en:obs-training:50-jesus-returns|Up]] | [[:en:obs-training:frames:50-10|>>]]**
