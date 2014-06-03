@@ -2,17 +2,13 @@
 
 {{:en:obs:obs-50-06.jpg?nolink&640x360}}
 
-“When the plants sprouted, the workers asked their **[[:en:key-terms:lord|master]]**, ‘Sir, you planted **[[:en:key-terms:good|good]]** seed in that field. Why are there weeds in it?’ The master answered, ‘An enemy has planted them.’”
-
-[new]
-
-“When the plants sprouted, the **[[:en:key-terms:servant|servants]]** of the man said, ‘**[[:en:key-terms:lord|Master]]**, you planted **[[:en:key-terms:good|good]]** seed in that field. So why are there weeds in it?’ The master answered, ‘**An enemy planted them**.’”
+“When the plants sprouted, the **[[:en:key-terms:servant|servants]]** of the man said, ‘**[[:en:key-terms:lord|Master]]**, you planted **[[:en:key-terms:good|good]]** seed in that field. So why are there weeds in it?’ The master answered, ‘**An enemy must have planted them**.’”
 
 
 ===== Translation Notes: =====
 
-  * (Jesus continued to tell the story.)
-  * **An enemy planted them** - This can also be translated as “An enemy must have planted them.” Some languages use a special form of the verb to indicate that the speaker did not see it happen.
+  * (Jesus continues to tell the story.)
+  * **An enemy must have planted them** - If possible, translate this in a way that indicates that the speaker did not see this happen.
   
 
 **[[:en:obs-training:frames:50-05|<<]] | [[:en:obs-training:50-jesus-returns|Up]] | [[:en:obs-training:frames:50-07|>>]]**

@@ -2,20 +2,16 @@
 
 {{:en:obs:obs-50-07.jpg?nolink&640x360}}
 
-“The workers responded, ‘Should we pull out the weeds?’ The **[[:en:key-terms:lord|master]]** said, ‘No. If you do that, **you will pull out some of the wheat as well**. Wait until **the harvest** and then gather the weeds into piles to be burned, but bring the wheat **into my barn**.’”
-
-[new]
-
-“The **[[:en:key-terms:servant|servants]]** responded, ‘Should we pull out the weeds?’ The **[[:en:key-terms:lord|master]]** said, ‘No. If you do that, **you will pull out some of the wheat as well**. Wait **until the harvest** and then gather the weeds into piles to be burned, but bring **the wheat** **into my barn**.’”
+“The **[[:en:key-terms:servant|servants]]** responded to their **[[:en:key-terms:lord|master]]**, ‘Should we pull out the weeds?’ The master said, ‘No. If you do that, **you will pull out some of the wheat as well**. Wait **until the harvest** and then gather the weeds into piles to be burned, but bring **the wheat** into my **barn**.’”
 
 
 ===== Translation Notes: =====
 
-  * (Jesus continued to tell the story.)
-  * **you will pull out some of the wheat as well** - That is, "you will accidentally pull out some of the wheat also." It would be too difficult to distinguish young wheat from the weeds.
+  * (Jesus continues to tell the story.)
+  * **you will pull out some of the wheat as well** - That is, "you will accidentally pull out some of the wheat also." It would be too difficult to distinguish young wheat from the weeds, and to pull the weeds without uprooting the wheat.
   * **until the harvest** - That is, “until the time when the wheat is ready to harvest” or, “until the wheat has grown enough to be harvested.”
   * **the wheat** – That is, "the harvested wheat grains."
-  * **into my barn** - This refers to the building where the harvested wheat grain was saved and stored. It could also be called a “storehouse.”
+  * **barn** - This refers to the building where the harvested wheat grain was saved and stored. It could also be called a “storehouse.”
   
 
 **[[:en:obs-training:frames:50-06|<<]] | [[:en:obs-training:50-jesus-returns|Up]] | [[:en:obs-training:frames:50-08|>>]]**
