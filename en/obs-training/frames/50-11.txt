@@ -4,6 +4,10 @@
 
 When **[[:en:key-terms:jesus|Jesus]]** returned to **[[:en:key-terms:heaven|heaven]]**, he said that he would return to earth the same way that he left—with a physical body **in the clouds**. Jesus also **[[:en:key-terms:promise|promised]]** that when he returns, all **[[:en:key-terms:christian|Christians]]** who have **[[:en:key-terms:death|died]]** will **[[:en:key-terms:raise|rise]]** from the dead and meet him **in the air**.
 
+[new]
+
+When **[[:en:key-terms:jesus|Jesus]]** returned to **[[:en:key-terms:heaven|heaven]]**, he said that he would return to earth the same way that he left—with a physical body **in the clouds**. Jesus also **[[:en:key-terms:promise|promised]]** that when he returns, all **[[:en:key-terms:christian|Christians]]** who have **[[:en:key-terms:death|died]]** will **[[:en:key-terms:raise|rise]]** from the dead and meet him **in the air**.
+
 
 ===== Translation Notes: =====
 
@@ -13,4 +17,4 @@ When **[[:en:key-terms:jesus|Jesus]]** returned to **[[:en:key-terms:heaven|heav
 
 **[[:en:obs-training:frames:50-10|<<]] | [[:en:obs-training:50-jesus-returns|Up]] | [[:en:obs-training:frames:50-12|>>]]**
 
-~~DISCUSSION~~
+~~DISCUSSION:closed~~
