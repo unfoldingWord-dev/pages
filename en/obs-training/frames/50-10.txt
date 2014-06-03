@@ -4,6 +4,10 @@
 
 “**At the end of the world**, all **the people who belong to the [[:en:key-terms:satan|devil]]** will be gathered together and thrown into a fiery furnace, where there is weeping and grinding of teeth. Then the **[[:en:key-terms:righteous|righteous]]** ones will **shine like the sun** in the **[[:en:key-terms:kingdom-of-god|kingdom]]** of their **[[:en:key-terms:god-father|Father]]**.”
 
+[new]
+
+“**At the end of the world**, all **the people who belong to the [[:en:key-terms:satan|devil]]** will be gathered together and thrown into a fiery furnace, where there is weeping and grinding of teeth. Then the **[[:en:key-terms:righteous|righteous]]** ones will **shine like the sun** in the **[[:en:key-terms:kingdom-of-god|kingdom]]** of their **[[:en:key-terms:god-father|Father]]**.”
+
 
 ===== Translation Notes: =====
 
@@ -15,4 +19,4 @@
 
 **[[:en:obs-training:frames:50-09|<<]] | [[:en:obs-training:50-jesus-returns|Up]] | [[:en:obs-training:frames:50-11|>>]]**
 
-~~DISCUSSION~~
+~~DISCUSSION:closed~~
