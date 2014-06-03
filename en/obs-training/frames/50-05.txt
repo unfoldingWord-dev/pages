@@ -4,6 +4,10 @@
 
 **[[:en:key-terms:jesus|Jesus]]** told his **[[:en:key-terms:disciple|disciples]]** a story that helped explain **what the end would be like**. “The **[[:en:key-terms:kingdom-of-god|kingdom of God]]** is like a man who planted **[[:en:key-terms:good|good]]** seed in his field. But while he was sleeping, his enemy came and planted weeds along with the wheat, and then he went away.”
 
+[new]
+
+**[[:en:key-terms:jesus|Jesus]]** told his **[[:en:key-terms:disciple|disciples]]** a story that helped explain **what the end would be like**. “The **[[:en:key-terms:kingdom-of-god|kingdom of God]]** is like a man who planted **[[:en:key-terms:good|good]]** seed in his field. But while he was sleeping, his enemy came and planted weeds along with the wheat, and then he went away.”
+
 
 ===== Translation Notes: =====
 
@@ -13,4 +17,4 @@
 
 **[[:en:obs-training:frames:50-04|<<]] | [[:en:obs-training:50-jesus-returns|Up]] | [[:en:obs-training:frames:50-06|>>]]**
 
-~~DISCUSSION~~
+~~DISCUSSION:closed~~
