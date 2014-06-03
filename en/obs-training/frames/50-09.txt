@@ -4,6 +4,10 @@
 
 “The weeds represent the people who belong to **the [[:en:key-terms:evil|evil]] one**. The enemy who planted them **is the [[:en:key-terms:satan|devil]]**. **The harvest is the end of the world**, and **the harvesters are the [[:en:key-terms:angel|angels]]**.”
 
+[new]
+
+“The weeds represent the people who belong to **the [[:en:key-terms:evil|evil]] one**. The enemy who planted them **is the [[:en:key-terms:satan|devil]]**. **The harvest is the end of the world**, and **the harvesters are the [[:en:key-terms:angel|angels]]**.”
+
 
 ===== Translation Notes: =====
 
@@ -15,4 +19,4 @@
 
 **[[:en:obs-training:frames:50-08|<<]] | [[:en:obs-training:50-jesus-returns|Up]] | [[:en:obs-training:frames:50-10|>>]]**
 
-~~DISCUSSION~~
+~~DISCUSSION:closed~~
