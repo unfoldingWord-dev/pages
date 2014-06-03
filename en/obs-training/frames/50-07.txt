@@ -4,9 +4,14 @@
 
 “The workers responded, ‘Should we pull out the weeds?’ The **[[:en:key-terms:lord|master]]** said, ‘No. If you do that, **you will pull out some of the wheat as well**. Wait until **the harvest** and then gather the weeds into piles to be burned, but bring the wheat **into my barn**.’”
 
+[new]
+
+“The workers responded, ‘Should we pull out the weeds?’ The **[[:en:key-terms:lord|master]]** said, ‘No. If you do that, **you will pull out some of the wheat as well**. Wait until **the harvest** and then gather the weeds into piles to be burned, but bring the wheat **into my barn**.’”
+
 
 ===== Translation Notes: =====
 
+  * (Jesus continued to tell the story.)
   * **you will pull out some of the wheat as well** - That is, "you will accidentally pull out some of the wheat also." It would be too difficult to distinguish young wheat from the weeds.
   * **the harvest** - That is, "the harvest time" when the wheat would be mature.
   * **into my barn** - This refers to the place where the good harvest was saved and stored.
@@ -14,4 +19,4 @@
 
 **[[:en:obs-training:frames:50-06|<<]] | [[:en:obs-training:50-jesus-returns|Up]] | [[:en:obs-training:frames:50-08|>>]]**
 
-~~DISCUSSION~~
+~~DISCUSSION:closed~~
