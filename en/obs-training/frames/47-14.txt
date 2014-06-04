@@ -10,7 +10,7 @@
 
 ===== Translation Notes: =====
 
-  * //A Bible story from// - If all or portions of the Bible have already been translated into your language, check to make sure that these references point to the correct chapters and verses.
+  * //A Bible story from// - These references may be slightly different in some Bible translations.
   
 
 **[[:en:obs-training:frames:47-13|<<]] | [[:en:obs-training:47-paul-and-silas-in-philippi|Up]] | [[:en:obs-training:frames:48-01|>>]]**

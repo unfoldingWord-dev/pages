@@ -10,7 +10,7 @@
 ===== Translation Notes: =====
 
 
-  * //A Bible story from// - If all or portions of the Bible have already been translated into your language, check to make sure that these references point to the correct chapters and verses.
+  * //A Bible story from// - These references may be slightly different in some Bible translations.
   
 
 **[[:en:obs-training:frames:36-06|<<]] | [[:en:obs-training:36-the-transfiguration|Up]] | [[:en:obs-training:frames:37-01|>>]]**
