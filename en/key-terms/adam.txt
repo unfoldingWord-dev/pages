@@ -19,12 +19,12 @@ Adam and Eve disobeyed God. They did what God told them not to do. This separate
 ===== Examples from the Bible stories: =====
 
 
-  ***[[:en:obs-training:frames:01-09|[01-09]]]** Then God said, "Let us make human beings in our image to be like us."
-  ***[[:en:obs-training:frames:01-10|[01-10]]]** This man's name was **Adam**. God planted a garden where **Adam** could live, and put him there to care for it.
-  ***[[:en:obs-training:frames:01-12|[01-12]]]** Then God said, "It is not good for man to be alone." But none of the animals could be **Adam's** helper.
-  ***[[:en:obs-training:frames:02-11|[02-11]]]** And God clothed **Adam** and Eve with animal skins.
-  ***[[:en:obs-training:frames:02-12|[02-12]]]** So God sent **Adam** and Eve away from the beautiful garden.
-  ***[[:en:obs-training:frames:50-16|[50-16]]]** God cursed the universe because of **Adam** and Eve's sin and he will destroy it.
+  ***[[:en:obs:notes:frames:01-09|[01-09]]]** Then God said, "Let us make human beings in our image to be like us."
+  ***[[:en:obs:notes:frames:01-10|[01-10]]]** This man's name was **Adam**. God planted a garden where **Adam** could live, and put him there to care for it.
+  ***[[:en:obs:notes:frames:01-12|[01-12]]]** Then God said, "It is not good for man to be alone." But none of the animals could be **Adam's** helper.
+  ***[[:en:obs:notes:frames:02-11|[02-11]]]** And God clothed **Adam** and Eve with animal skins.
+  ***[[:en:obs:notes:frames:02-12|[02-12]]]** So God sent **Adam** and Eve away from the beautiful garden.
+  ***[[:en:obs:notes:frames:50-16|[50-16]]]** God cursed the universe because of **Adam** and Eve's sin and he will destroy it.
 
 
 ~~DISCUSSION:closed~~

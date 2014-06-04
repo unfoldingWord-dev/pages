@@ -18,10 +18,10 @@ In the current day, Rome is the capital city of the country of Italy.
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:en:obs-training:frames:23-04|[23-04]]]** When the time was near for Mary to give birth, the **Roman** government told everyone to go for a census to the town where their ancestors had lived. 
-  ***[[:en:obs-training:frames:32-06|[32-06]]]** Then Jesus asked the demon, “What is your name?” He replied, “My name is Legion, because we are many.” (A “legion” was a group of several thousand soldiers in the **Roman** army.)
-  ***[[:en:obs-training:frames:39-09|[39-09]]]** Early the next morning, the Jewish leaders brought Jesus to the **Roman** governor, Pilate, hoping to have Jesus killed.
-  ***[[:en:obs-training:frames:39-12|[39-12]]]** The **Roman** soldiers whipped Jesus and put a royal robe and a crown made of thorns on him. Then they mocked him by saying, “Look, the King of the Jews!”
+  ***[[:en:obs:notes:frames:23-04|[23-04]]]** When the time was near for Mary to give birth, the **Roman** government told everyone to go for a census to the town where their ancestors had lived. 
+  ***[[:en:obs:notes:frames:32-06|[32-06]]]** Then Jesus asked the demon, “What is your name?” He replied, “My name is Legion, because we are many.” (A “legion” was a group of several thousand soldiers in the **Roman** army.)
+  ***[[:en:obs:notes:frames:39-09|[39-09]]]** Early the next morning, the Jewish leaders brought Jesus to the **Roman** governor, Pilate, hoping to have Jesus killed.
+  ***[[:en:obs:notes:frames:39-12|[39-12]]]** The **Roman** soldiers whipped Jesus and put a royal robe and a crown made of thorns on him. Then they mocked him by saying, “Look, the King of the Jews!”
 
 
 ~~DISCUSSION:closed~~

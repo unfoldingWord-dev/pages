@@ -13,10 +13,10 @@ The Nile is a very big river in northeastern Africa.
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:en:obs-training:frames:08-04|[08-04]]]** Egypt was a large, powerful country located along the **Nile River**.
-  ***[[:en:obs-training:frames:09-04|[09-04]]]** Pharaoh saw that the Israelites were having many babies, so he ordered his people to kill all Israelite baby boys by throwing them into the **Nile River**.
-  ***[[:en:obs-training:frames:09-06|[09-06]]]** When the boy's parents could no longer hide him, they put him in a floating basket among the reeds along the edge of the **Nile River** in order to save him from being killed. 
-  ***[[:en:obs-training:frames:10-03|[10-03]]]** God turned the **Nile River** into blood, but Pharaoh still would not let the Israelites go.
+  ***[[:en:obs:notes:frames:08-04|[08-04]]]** Egypt was a large, powerful country located along the **Nile River**.
+  ***[[:en:obs:notes:frames:09-04|[09-04]]]** Pharaoh saw that the Israelites were having many babies, so he ordered his people to kill all Israelite baby boys by throwing them into the **Nile River**.
+  ***[[:en:obs:notes:frames:09-06|[09-06]]]** When the boy's parents could no longer hide him, they put him in a floating basket among the reeds along the edge of the **Nile River** in order to save him from being killed. 
+  ***[[:en:obs:notes:frames:10-03|[10-03]]]** God turned the **Nile River** into blood, but Pharaoh still would not let the Israelites go.
 
 
 ~~DISCUSSION:closed~~

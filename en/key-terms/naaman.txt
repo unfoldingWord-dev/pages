@@ -14,9 +14,9 @@ Naaman was the commander of the army of one of Israel's enemies.
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:en:obs-training:frames:19-14|[19-14]]]** One of the miracles happened to **Naaman**, an enemy commander, who had a horrible skin disease.
-  ***[[:en:obs-training:frames:19-15|[19-15]]]** At first **Naaman** was angry and would not do it because it seemed foolish. But later he changed his mind and dipped himself seven times in the Jordan River.
-  ***[[:en:obs-training:frames:26-06|[26-06]]]** “He (Elisha) only healed the skin disease of **Naaman**, a commander of Israel’s enemies.”
+  ***[[:en:obs:notes:frames:19-14|[19-14]]]** One of the miracles happened to **Naaman**, an enemy commander, who had a horrible skin disease.
+  ***[[:en:obs:notes:frames:19-15|[19-15]]]** At first **Naaman** was angry and would not do it because it seemed foolish. But later he changed his mind and dipped himself seven times in the Jordan River.
+  ***[[:en:obs:notes:frames:26-06|[26-06]]]** “He (Elisha) only healed the skin disease of **Naaman**, a commander of Israel’s enemies.”
 
 
 ~~DISCUSSION:closed~~

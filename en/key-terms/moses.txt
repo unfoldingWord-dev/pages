@@ -15,11 +15,11 @@ Moses was a prophet and leader of the Israelite people for over 40 years.
 ===== Examples from the Bible stories: =====
 
 
-  ***[[:en:obs-training:frames:09-12|[09-12]]]** One day while **Moses** was taking care of his sheep, he saw a bush that was on fire.
-  ***[[:en:obs-training:frames:12-05|[12-05]]]** **Moses** told the Israelites, “Stop being afraid! God will fight for you today and save you.”
-  ***[[:en:obs-training:frames:12-07|[12-07]]]** God told **Moses** to raise his hand over the sea and divide the waters.
-  ***[[:en:obs-training:frames:12-12|[12-12]]]** When the Israelites saw that the Egyptians were dead, they trusted in God and believed that Moses was a prophet of God.
-  ***[[:en:obs-training:frames:13-07|[13-07]]]** Then God wrote these Ten Commandments on two stone tablets and gave them to **Moses**.
+  ***[[:en:obs:notes:frames:09-12|[09-12]]]** One day while **Moses** was taking care of his sheep, he saw a bush that was on fire.
+  ***[[:en:obs:notes:frames:12-05|[12-05]]]** **Moses** told the Israelites, “Stop being afraid! God will fight for you today and save you.”
+  ***[[:en:obs:notes:frames:12-07|[12-07]]]** God told **Moses** to raise his hand over the sea and divide the waters.
+  ***[[:en:obs:notes:frames:12-12|[12-12]]]** When the Israelites saw that the Egyptians were dead, they trusted in God and believed that Moses was a prophet of God.
+  ***[[:en:obs:notes:frames:13-07|[13-07]]]** Then God wrote these Ten Commandments on two stone tablets and gave them to **Moses**.
 
 
 ~~DISCUSSION:closed~~

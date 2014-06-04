@@ -16,10 +16,10 @@ Sinai is the name of a mountain that was probably located in the southern part o
 ===== Examples from the Bible stories: =====
 
 
-  ***[[:en:obs-training:frames:13-01|[13-01]]]** After God led the Israelites through the Red Sea, he led them through the wilderness to a mountain called **Sinai**.
-  ***[[:en:obs-training:frames:13-03|[13-03]]]** Three days later, after the people had prepared themselves spiritually, God came down on top of **Mount Sinai** with thunder, lightning, smoke, and a loud trumpet blast.
-  ***[[:en:obs-training:frames:13-11|[13-11]]]** For many days, Moses was on top of **Mount Sinai** talking with God.
-  ***[[:en:obs-training:frames:15-13|[15-13]]]** Then Joshua reminded the people of their obligation to obey the covenant that God had made with the Israelites at **Sinai**.
+  ***[[:en:obs:notes:frames:13-01|[13-01]]]** After God led the Israelites through the Red Sea, he led them through the wilderness to a mountain called **Sinai**.
+  ***[[:en:obs:notes:frames:13-03|[13-03]]]** Three days later, after the people had prepared themselves spiritually, God came down on top of **Mount Sinai** with thunder, lightning, smoke, and a loud trumpet blast.
+  ***[[:en:obs:notes:frames:13-11|[13-11]]]** For many days, Moses was on top of **Mount Sinai** talking with God.
+  ***[[:en:obs:notes:frames:15-13|[15-13]]]** Then Joshua reminded the people of their obligation to obey the covenant that God had made with the Israelites at **Sinai**.
 
 
 ~~DISCUSSION:closed~~

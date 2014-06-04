@@ -16,11 +16,11 @@ A shepherd is a person who takes care of sheep.
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:en:obs-training:frames:09-11|[09-11]]]** Moses became a **shepherd** in the wilderness far away from Egypt. 
-  ***[[:en:obs-training:frames:17-02|[17-02]]]** David was a **shepherd** from the town of Bethlehem. At different times while he was watching his father's sheep, David had killed both a lion and a bear that had attacked the sheep. 
-  ***[[:en:obs-training:frames:23-06|[23-06]]]** That night, there were some **shepherds** in a nearby field guarding their flocks.
-  ***[[:en:obs-training:frames:23-08|[23-08]]]** The **shepherds** soon arrived at the place where Jesus was and they found him lying in a feeding trough, just as the angel had told them. 
-  ***[[:en:obs-training:frames:30-03|[30-03]]]**  To Jesus, these people were like sheep without a **shepherd**.
+  ***[[:en:obs:notes:frames:09-11|[09-11]]]** Moses became a **shepherd** in the wilderness far away from Egypt. 
+  ***[[:en:obs:notes:frames:17-02|[17-02]]]** David was a **shepherd** from the town of Bethlehem. At different times while he was watching his father's sheep, David had killed both a lion and a bear that had attacked the sheep. 
+  ***[[:en:obs:notes:frames:23-06|[23-06]]]** That night, there were some **shepherds** in a nearby field guarding their flocks.
+  ***[[:en:obs:notes:frames:23-08|[23-08]]]** The **shepherds** soon arrived at the place where Jesus was and they found him lying in a feeding trough, just as the angel had told them. 
+  ***[[:en:obs:notes:frames:30-03|[30-03]]]**  To Jesus, these people were like sheep without a **shepherd**.
 
 
 ~~DISCUSSION:closed~~

@@ -16,8 +16,8 @@ Hagar was Sarai's personal slave.
 ===== Examples from the Bible stories: =====
 
 
-  ***[[:en:obs-training:frames:05-01|[05-01]]]** So Abram's wife, Sarai, said to him, “Since God has not allowed me to have children and now I am too old to have children, here is my servant, **Hagar**. Marry her also so she can have a child for me."
-  ***[[:en:obs-training:frames:05-02|[05-02]]]** **Hagar** had a baby boy, and Abram named him Ishmael.
+  ***[[:en:obs:notes:frames:05-01|[05-01]]]** So Abram's wife, Sarai, said to him, “Since God has not allowed me to have children and now I am too old to have children, here is my servant, **Hagar**. Marry her also so she can have a child for me."
+  ***[[:en:obs:notes:frames:05-02|[05-02]]]** **Hagar** had a baby boy, and Abram named him Ishmael.
 
 
 ~~DISCUSSION:closed~~

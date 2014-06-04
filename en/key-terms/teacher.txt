@@ -23,9 +23,9 @@ A teacher is a person who instructs other people. Teachers help others to obtain
 ===== Examples from the Bible stories: =====
 
 
-    * **[[:en:obs-training:frames:27-01|[27-01]]]** One day, an expert in the Jewish law came to Jesus to test him, saying, “**Teacher**, what must I do to inherit eternal life?”
-    * **[[:en:obs-training:frames:28-01|[28-01]]]** One day a rich young ruler came up to Jesus and asked him, “Good **Teacher**, what must I do to have eternal life?”
-    * **[[:en:obs-training:frames:37-02|[37-02]]]** After the two days had passed, Jesus said to his disciples, “Let’s go back to Judea.” “But **Teacher**,” the disciples answered, “Just a short time ago the people there wanted to kill you!”
-    * **[[:en:obs-training:frames:38-14|[38-14]]]** Judas came to Jesus and said, “Greetings, **Teacher**,” and kissed him.
-    * **[[:en:obs-training:frames:49-03|[49-03]]]** Jesus was also a great **teacher**. He taught that you need to love your neighbor the same way you love yourself.
+    * **[[:en:obs:notes:frames:27-01|[27-01]]]** One day, an expert in the Jewish law came to Jesus to test him, saying, “**Teacher**, what must I do to inherit eternal life?”
+    * **[[:en:obs:notes:frames:28-01|[28-01]]]** One day a rich young ruler came up to Jesus and asked him, “Good **Teacher**, what must I do to have eternal life?”
+    * **[[:en:obs:notes:frames:37-02|[37-02]]]** After the two days had passed, Jesus said to his disciples, “Let’s go back to Judea.” “But **Teacher**,” the disciples answered, “Just a short time ago the people there wanted to kill you!”
+    * **[[:en:obs:notes:frames:38-14|[38-14]]]** Judas came to Jesus and said, “Greetings, **Teacher**,” and kissed him.
+    * **[[:en:obs:notes:frames:49-03|[49-03]]]** Jesus was also a great **teacher**. He taught that you need to love your neighbor the same way you love yourself.
 ~~DISCUSSION:closed~~

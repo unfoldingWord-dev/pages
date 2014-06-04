@@ -14,8 +14,8 @@ Ishmael was the son of Abraham and Sarah's servant, Hagar.
 ===== Examples from the Bible stories: =====
 
 
-  ***[[:en:obs-training:frames:05-02|[05-02]]]** So Abram married Hagar. Hagar had a baby boy, and Abram named him **Ishmael**.
-  ***[[:en:obs-training:frames:05-04|[05-04]]]** "I will make **Ishmael** a great nation, too, but my covenant will be with Isaac."
+  ***[[:en:obs:notes:frames:05-02|[05-02]]]** So Abram married Hagar. Hagar had a baby boy, and Abram named him **Ishmael**.
+  ***[[:en:obs:notes:frames:05-04|[05-04]]]** "I will make **Ishmael** a great nation, too, but my covenant will be with Isaac."
 
 
 ~~DISCUSSION:closed~~

@@ -13,9 +13,9 @@ God told Moses many commands that He wanted the Israelites to obey. He wrote ten
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:en:obs-training:frames:13-07|[13-07]]]**  Then God wrote these **Ten Commandments** on two stone tablets and gave them to Moses.
-  ***[[:en:obs-training:frames:13-13|[13-13]]]**  When Moses came down the mountain and saw the idol, he was so angry that he smashed the stones on which God had written the **Ten Commandments**. 
-  ***[[:en:obs-training:frames:13-15|[13-15]]]**  Moses wrote the **Ten Commandments** on new stone tablets to replace the ones he had broken.
+  ***[[:en:obs:notes:frames:13-07|[13-07]]]**  Then God wrote these **Ten Commandments** on two stone tablets and gave them to Moses.
+  ***[[:en:obs:notes:frames:13-13|[13-13]]]**  When Moses came down the mountain and saw the idol, he was so angry that he smashed the stones on which God had written the **Ten Commandments**. 
+  ***[[:en:obs:notes:frames:13-15|[13-15]]]**  Moses wrote the **Ten Commandments** on new stone tablets to replace the ones he had broken.
 
 
 ~~DISCUSSION:closed~~
