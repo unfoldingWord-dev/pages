@@ -9,8 +9,7 @@
 
 
 ===== Translation Notes: =====
-
-  * //A Bible story from// - If all or portions of the Bible have already been translated into your language, check to make sure that these references point to the correct chapters and verses.
+  * //A Bible story from// - These references may be slightly different in some Bible translations.
   
 
 **[[:en:obs:notes:frames:47-13|<<]] | [[:en:obs:notes:47|Up]] | [[:en:obs:notes:frames:48-01|>>]]**
