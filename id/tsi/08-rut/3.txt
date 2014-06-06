@@ -3,8 +3,8 @@
 \s1 Rut di Tempat Pengirikan
 \m
 \v 1 Pada suatu hari Naomi berkata kepada Rut, “Anakku, telah tiba saatnya saya mencari seorang suami bagimu, agar ada yang mengurusimu. 
-\v 2 Boaz adalah kerabat dekat kita, dan selama ini dia sangat berbaik hati terhadapmu dengan memperbolehkanmu memungut bulir-bulir jelai bersama pekerjanya yang perempuan. Malam ini dia akan menampi jelai di tempat pengirikan. 
-\f + \fr 3:2 \ft Menampi jelai \fqa di tempat pengirikan.  \ft Langkah terakhir dalam pemisahan biji-bijian sereal seperti jelai dan gandum dari sekam dan jeraminya. Setelah biji-bijian diirik sehingga dagingnya terlepas dari sekamnya, dan jeraminya terpotong kecil-kecil, seluruh campuran itu ditampi dengan melempar-lemparkannya ke udara menggunakan sekop atau garpu penampi agar ditiup angin.\f* 
+\v 2 Boas adalah kerabat dekat kita, dan selama ini dia sangat berbaik hati terhadapmu dengan memperbolehkanmu memungut bulir-bulir jelai bersama pekerjanya yang perempuan. Malam ini dia akan menampi jelai di tempat pengirikan. 
+\f + \fr 3:2 \ft \fqa Menampi jelai\ft di tempat pengirikan; Langkah terakhir dalam pemisahan biji-bijian sereal seperti jelai dan gandum dari sekam dan jeraminya. Setelah biji-bijian diirik sehingga dagingnya terlepas dari sekamnya, dan jeraminya terpotong kecil-kecil, seluruh campuran itu ditampi dengan melempar-lemparkannya ke udara menggunakan sekop atau garpu penampi agar ditiup angin.\f* 
 \p
 \v 3 Sekarang laksanakan apa yang saya perintahkan — mandilah, kenakan baju, pakailah minyak wangi. Kemudian pergilah ke tempat pengirikan, namun jangan biarkan Boas melihat dirimu hingga dia telah selesai makan dan minum. 
 \v 4 Perhatikanlah di mana dia berbaring untuk tidur.  Lalu dekatilah dia dan angkatlah selimut dari kakinya, dan berbaringlah di situ.  Dia akan beritahukan apa yang harus kamu lakukan.”
@@ -17,7 +17,7 @@
 \v 9 Boas bertanya,“Siapakah engkau?”
 \p Jawab Rut “Sayalah Rut, perempuan pembantu Tuan saya, peliharalah saya, karena Tuan adalah pelindung saya.” 
 \p
-\v 10 Jawab Boas,“TUHAN senantiasa memberkatimu, anakku.  Dengan datang keapda saya seperti ini, kamu membuat sesuatu yang lebih besar daripada kebaikan yang sebelumnya kamu tunjukkan kepada mertuamu, Naomi.  Kamu telah datang kepada saya padahal kamu sebenarnya sudah bisa mencari seorang pemuda sebagai calon suami, baik yang kaya atau yang miskin.  Tetapi kamu sudah memilih saya.
+\v 10 Jawab Boas,“TUHAN senantiasa memberkatimu, anakku.  Dengan datang keapda saya seperti ini, kamu membuat sesuatu yang lebih besar daripada kebaikan yang sebelumnya kamu tunjukkan kepada mertuamu, Naomi.  Kamu sebenarnya sudah bisa mencari seorang pemuda sebagai calon suami, baik yang kaya atau yang miskin.  Tetapi kamu sudah memilih saya.
 \v 11 Sekarang jangan kamu kuatir, anakku.  Saya akan melakukan apa yang harus dilakukan, karena semua orang di kota ini tahu bahwa kamu adalah perumpuan yang baik. 
 \v 12 Memang benar, saya salah satu dari pelindungmu, tetapi masih ada lagi seorang yang lebih dekat kepadamu daripada saya. 
 \v 13 Sekarang bermalamlah di sini.  Besok pagi jika orang itu bersedia menebusmu, biarlah dia menebusmu.  Jika tidak, demi TUHAN yang hidup, saya akan menebusmu.  Tidurlah di sini sampai pagi.”
@@ -27,7 +27,7 @@
 \f + \fr 3:15a \ft Ibrani \fqa enam takaran, \ft jumlah yang tidak diketahui.\f* jelai yang ditaruh kedalam baju luarnya itu dan membantunya supaya dapat memikul di bahunya. Kemudian dia\f + \fr 3:15b \ft Sebagian besar teks Ibrani menggunakan \fqa dia (laki-laki); \ft beberapa teks Ibrani, versi Syria dan Latin Vulgate menggunakan \fqa dia (perempuan).\f* kembali ke kota.
 \p
 \v 16 Ketika Rut pulang kepada mertuanya, Naomi bertanya,“Apa yang terjadi, anakku?”
-\p Rutpun menceritakan semua yang dilakukan Boas baginya, 
+\p Rut menceritakan semua yang dilakukan Boas baginya, 
 \v 17 dan dia menambahkan,“Boas memberikan kepadaku enam takaran jelai.  Boas berkata,'Kamu tidak boleh pulang dengan tangan kosong ke mertuamu.’”
 \p
 \v 18 Naomi mengatakan,“Anakku, sabaralh sampai kita mendengar apa yang terjadi.  Sebelum hari ini berlalu, Boas pasti akan selesai mengurusi hal ini.”
