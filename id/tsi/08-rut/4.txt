@@ -32,9 +32,9 @@
 \v 16 Naomi mengambil bayi ini dan menggendongnya dengan penuh kasih sayang. Dia mengasuh anak ini seolah-olah anaknya sendiri. 
 \v 17 Para tetangga mengatakan, “Akhirnya Naomi memiliki seorang anak laki-laki!” Dan mereka menamainya Obed. Dia menjadi ayah Jesse dan kakek dari raja Daud.
 \p
-\v 18 Inilah catatan keturunan mereka mulai dari nenek moyang mereka Perez:
+\v 18 Inilah garis keturunan mereka mulai dari nenek moyang mereka Peres
 \b
-\li1 Perez adalah ayah Hezron.
+\li1 Peres adalah ayah Hezron.
 \li1
 \v 19 Hezron adalah ayah dari Ram.
 \li1 Ram adalah ayah dari Amminadab.
@@ -50,8 +50,8 @@
 \v 21 Salmon adalah ayah dari Boaz.
 \li1 Boaz adalah ayah dari Obed.
 \li1
-\v 22 Obed adalah ayah dari Jesse.
-\li1 Jesse adalah ayah dari David.
+\v 22 Obed adalah ayah dari Isai.
+\li1 Isai adalah ayah dari David.
 
 </USFM>
 ~~DISCUSSIONS:on~~
