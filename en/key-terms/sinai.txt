@@ -13,8 +13,10 @@ Sinai is the name of a mountain that was probably located in the southern part o
   * Mount Sinai is part of a large, rocky desert.
   * God gave Moses the Ten Commandments on Mount Sinai.
 
-===== Examples from the Bible stories: =====
+[See also: **[[:en:key-terms:promised-land|Promised Land]]**, **[[:en:key-terms:ten-commandments|Ten Commandments]]**]
 
+
+===== Examples from the Bible stories: =====
 
   ***[[:en:obs:notes:frames:13-01|[13-01]]]** After God led the Israelites through the Red Sea, he led them through the wilderness to a mountain called **Sinai**.
   ***[[:en:obs:notes:frames:13-03|[13-03]]]** Three days later, after the people had prepared themselves spiritually, God came down on top of **Mount Sinai** with thunder, lightning, smoke, and a loud trumpet blast.
@@ -22,4 +24,4 @@ Sinai is the name of a mountain that was probably located in the southern part o
   ***[[:en:obs:notes:frames:15-13|[15-13]]]** Then Joshua reminded the people of their obligation to obey the covenant that God had made with the Israelites at **Sinai**.
 
 
-~~DISCUSSION:closed~~
+~~DISCUSSION:off~~

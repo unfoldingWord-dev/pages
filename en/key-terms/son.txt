@@ -22,4 +22,5 @@ A son is someone's direct male offspring. This is a relationship term and does n
   ***[[:en:obs:notes:frames:18-01|[18-01]]]** After many years, David died, and his **son** Solomon began to rule. 
   ***[[:en:obs:notes:frames:26-04|[26-04]]]** “Is this the **son** of Joseph?‚” they said. 
 
-~~DISCUSSION:closed~~
+
+~~DISCUSSION:off~~

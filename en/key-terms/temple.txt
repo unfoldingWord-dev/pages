@@ -12,7 +12,7 @@ The Temple was a building where the Israelites offered sacrifices to God.
   * The original temple that Solomon built was destroyed by the Babylonians, but was rebuilt after the Exile.
 
 
-[See also: **[[:en:key-terms:sacrifice|sacrifice]]**, **[[:en:key-terms:solomon|Solomon]]**, **[[:en:key-terms:babylon|Babylonians]]**, **[[:en:key-terms:exile|Exile]]**]
+[See also: **[[:en:key-terms:sacrifice|sacrifice]]**, **[[:en:key-terms:solomon|Solomon]]**, **[[:en:key-terms:babylon|Babylonians]]**]
 
 ===== Examples from the Bible stories: =====
 
@@ -24,4 +24,4 @@ The Temple was a building where the Israelites offered sacrifices to God.
   ***[[:en:obs:notes:frames:40-07|[40-07]]]** When he died, there was an earthquake and the large curtain that separated the people from the presence of God in the **Temple** was torn in two, from the top to the bottom.
 
 
-~~DISCUSSION:closed~~
+~~DISCUSSION:off~~
