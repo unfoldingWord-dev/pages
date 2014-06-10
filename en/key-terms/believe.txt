@@ -17,7 +17,7 @@
   * To believe in an idea or principle is to be sure that that idea or principle is the right way to act or live. For example, a person might believe in honesty, and therefore always tell the truth.
   * When a person truly believes in something, the person will act in such a way that shows that belief.
 
-[See also: **[[:en:key-terms:faith|faith]]**]
+[See also: **[[:en:key-terms:faith|faith]]**, **[[:en:key-terms:believer|believer]]**]
 
 ===== Examples from the Bible stories: =====
 
@@ -29,4 +29,4 @@
   ***[[:en:obs:notes:frames:37-05|[37-05]]]** Jesus replied, “I am the Resurrection and the Life. Whoever **believes in** me will live, even though he dies. Everyone who **believes in** me will never die. Do you **believe** this?”
 
 
-~~DISCUSSION:closed~~
+~~DISCUSSION:off~~
