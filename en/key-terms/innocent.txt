@@ -18,6 +18,6 @@ The opposite of "innocent" is "guilty."
   ***[[:en:obs:notes:frames:08-06|[08-06]]]** After two years, Joseph was still in prison, even though he was **innocent**.
   ***[[:en:obs:notes:frames:40-04|[40-04]]]** One of them mocked Jesus, but the other said, “Do you have no fear of God? We are guilty, but this man is **innocent**.” 
   ***[[:en:obs:notes:frames:40-08|[40-08]]]** When the soldier guarding Jesus saw everything that happened, he said, “Certainly, this man was **innocent**. He was the Son of God.”
-  *
 
-~~DISCUSSION:closed~~
+
+~~DISCUSSION:off~~
