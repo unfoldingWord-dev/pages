@@ -22,4 +22,4 @@ A kingdom is a group of people ruled by a king.
   ***[[:en:obs:notes:frames:21-08|[21-08]]]** A king is someone who rules over a **kingdom** and judges the people.
 
 
-~~DISCUSSION:closed~~
+~~DISCUSSION:off~~
