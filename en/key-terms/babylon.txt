@@ -24,4 +24,4 @@ The ancient city of Babylon was located along the Euphrates River. Babylon was t
   ***[[:en:obs:notes:frames:20-11|[20-11]]]** About seventy years later, Cyrus, the king of the Persians, defeated **Babylon**.
 
 
-~~DISCUSSION:closed~~
+~~DISCUSSION:off~~
