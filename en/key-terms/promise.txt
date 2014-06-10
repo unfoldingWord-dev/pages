@@ -23,4 +23,4 @@ A promise is a vow or commitment to do something.
   ***[[:en:obs:notes:frames:50-01|[50-01]]]** Jesus **promised** he would return at the end of the world. Though he has not yet come back, he will keep his **promise**.
 
 
-~~DISCUSSION:closed~~
+~~DISCUSSION:off~~
