@@ -1,7 +1,7 @@
 ====== Gibeon ======
 
 
-==== (Gibeon, Gibeonites) ====
+==== (Gibeon, Gibeonite) ====
 
 
 ===== Facts: =====
@@ -21,4 +21,4 @@ Gibeon was a city and a region in the land of Canaan where the Gibeonites lived.
   ***[[:en:obs:notes:frames:15-08|[15-08]]]** So Joshua gathered the Israelite army and they marched all night to reach the **Gibeonites**. 
 
 
-~~DISCUSSION:closed~~
+~~DISCUSSION:off~~
