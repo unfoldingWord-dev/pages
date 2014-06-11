@@ -3,7 +3,7 @@
 {{:en:obs:obs-03-16.jpg?nolink&640x360}}
 
 
-**[[:en:key-terms:god|God]]** then made the first rainbow as **a sign of his [[:en:key-terms:promise|promise]]**. **Every time** the rainbow appeared in the sky, God would remember **what he promised** and so would his people.
+**[[:en:key-terms:god|God]]** then made the first **rainbow** as **a sign of his [[:en:key-terms:promise|promise]]**. **Every time** the rainbow appeared in the sky, God would remember **what he promised** and so would his people.
 
 //A Bible story from: Genesis 6-8//
 
@@ -11,6 +11,7 @@
 ===== Translation Notes: =====
 
 
+  * **rainbow** - This is the multicolored arc of light that often appears in the sky after a rainstorm.
   * **a sign** - A sign is something (such as an object or event) that gives a certain meaning or which points to something that is true or will happen.
   * **as a sign of his promise** – In some languages it may be better to say, “to show that he had promised.”
   * **Every time** – Make sure it is clear that this means every time a rainbow appeared from that time on. It may be necessary to add, “From then on, every time.”
