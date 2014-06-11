@@ -1,4 +1,158 @@
-<USFM> %%\%%c 11 %%\%%p %%\%%b %%\%%q1 %%\%%v 1 TUHAN membenci kepada orang yang suka pakai timbangan yang tidak benar, %%\%%q2 tetapi Dia senang kepada orang yang pakai timbangan yang tepat. %%\%%p %%\%%b %%\%%q1 %%\%%v 2 Kalau kamu menjadi sombong, kamu akan segera kena malu, %%\%%q2 tetapi kalau kamu bijaksana, kamu akan rendah hati. %%\%%p %%\%%b %%\%%q1 %%\%%v 3 Orang-orang baik selalu diarahkan oleh ketulusan hati mereka ke jalan sukses, %%\%%q2 tetapi mereka yang suka tipu-tipu akan dihancurkan oleh korupsi mereka sendiri. %%\%%p %%\%%b %%\%%q1 %%\%%v 4 Waktu kamu meninggal dunia dan dihakimi oleh Allah, harta bendamu tidak bisa menyelamatkan kamu, %%\%%q2 tetapi kalau hidup benar, kamu bisa diselamatkan dari bahaya maut. %%\%%p %%\%%b %%\%%q1 %%\%%v 5 Orang benar selalu diarahkan kepada jalan yang baik oleh ketulusan hati mereka, %%\%%q2 tetapi orang jahat jatuh dan hancur karena beban dosa mereka sendiri. %%\%%p %%\%%b %%\%%q1 %%\%%v 6 Kalau orang yang jujur kena bahaya, dia akan selamat karena kejujurannya, %%\%%q2 tetapi orang yang suka tipu-tipu tidak akan luput, karena dia terjerat oleh keinginan-keinginannya sendiri. %%\%%p %%\%%b %%\%%q1 %%\%%v 7 Waktu orang jahat mati, semua yang dia harapkan menjadi sia-sia saja, %%\%%q2 karena dia bersandar kepada kekuatan diri sendiri saja. %%\%%p %%\%%b %%\%%q1 %%\%%v 8 Waktu kesusahan datang, orang yang hidup jujur akan luput, %%\%%q2 sedangkan orang jahat tidak akan luput. %%\%%p %%\%%b %%\%%q1 %%\%%v 9 Mulut orang yang tidak mau ikut TUHAN membinasakan orang lain, %%\%%q2 tetapi melalui kebijaksanaan orang baik akan diselamatkan. %%\%%p %%\%%b %%\%%q1 %%\%%v 10 Seluruh kota turut bergembira kalau orang yang hidup jujur mendapat keuntungan, %%\%%q2 dan waktu orang jahat mati semua orang di kota itu akan bersorak-sorai. %%\%%p %%\%%b %%\%%q1 %%\%%v 11 %%\%%p %%\%%b %%\%%q1 %%\%%v 12 %%\%%p %%\%%b %%\%%q1 %%\%%v 13 %%\%%p %%\%%b %%\%%q1 %%\%%v 14 %%\%%p %%\%%b %%\%%q1 %%\%%v 15 Kalau kamu tanda tangani surat kredit untuk menjamin utang dari orang yang kamu belum kenal baik, berarti kamu sudah masuk tempat bahaya. 5 %%\%%q2 Kalau dia tidak bayar, terpaksa kamulah yang harus lunasi. Jadi lebih baik jangan terlibat. %%\%%p %%\%%b %%\%%q1 %%\%%v 16 %%\%%p %%\%%b %%\%%q1 %%\%%v 17 %%\%%p %%\%%b %%\%%q1 %%\%%v 18 %%\%%p %%\%%b %%\%%q1 %%\%%v 19 %%\%%p %%\%%b %%\%%q1 %%\%%v 20 %%\%%p %%\%%b %%\%%q1 %%\%%v 21 %%\%%p %%\%%b %%\%%q1 %%\%%v 22 %%\%%p %%\%%b %%\%%q1 %%\%%v 23 %%\%%p %%\%%b %%\%%q1 %%\%%v 24 Bermurah-hatilah dan memberikan kepada orang-orang lain, dan kemungkinan besar kamu akan menjadi lebih kaya. %%\%%q2 Kalau kamu pelit terhadap sesamamu kamu akan semakin miskin. %%\%%p %%\%%b %%\%%q1 %%\%%v 25 Orang yang murah-hati kepada sesamanya akan tambah makmur, %%\%%q2 dan siapa saja yang menyegarkan orang lain, dia juga akan disegarkan. %%\%%p %%\%%b %%\%%q1 %%\%%v 26 Dalam waktu kelaparan, orang yang menjual makanan dengan harga yang benar akan dipuji oleh semua orang, %%\%%q2 tetapi semua orang yang pakai situasi seperti itu untuk menjadi kaya akan dihina. %%\%%p %%\%%b %%\%%q1 %%\%%v 27 Kalau kamu berusaha hidup baik, kamu akan disenangi dan dihormati. %%\%%q2 Tetapi kalau kamu berusaha hidup dengan kejahatan, kamu pasti berhasil mendapatkannya! %%\%%p %%\%%b %%\%%q1 %%\%%v 28 Kalau kamu bersandar kepada kekayaanmu, kamu akan layu seperti daun tua, %%\%%q2 tetapi orang yang hidup untuk menyenangkan Allah akan berkembang seperti tunas muda. %%\%%p %%\%%b %%\%%q1 %%\%%v 29 %%\%%p %%\%%b %%\%%q1 %%\%%v 30 Orang yang hidup untuk menyenangkan hati Allah bagaikan pohon yang menghasilkan buah kehidupan. %%\%%q2 Dan orang-orang yang memimpin orang lain ke jalan keselamatan terbukti bijaksana. %%\%%p %%\%%b %%\%%q1 %%\%%v 31 Sudah terbukti bahwa orang-orang benar menerima upah karena kebaikan mereka. %%\%%q2 Jadi sudah jelas bahwa orang berdosa akan terima hukuman sesuai kejahatan mereka! </USFM>
-
-
+<USFM>
+\c 11
+\p
+\b
+\q1
+\v 1 TUHAN membenci {kepada//0} orang yang {menggunakan//suka pakai//0} timbangan yang {curang//tidak benar},
+\q2 tetapi Dia senang kepada orang yang {menggunakan//pakai//0} timbangan yang tepat.
+\p
+\b
+\q1
+\v 2 Kalau kamu menjadi sombong, kamu akan segera {menjadi malu//dipermalukan},
+\q2 tetapi kalau kamu bijaksana, kamu akan rendah hati.
+\p
+\b
+\q1
+\v 3 {Orang-orang baik//Orang yang baik} selalu diarahkan oleh ketulusan hati mereka ke jalan {menuju kesuksesan//sukses},
+\q2 tetapi mereka yang suka {berbohong//menipu//tipu-tipu//0} akan dihancurkan oleh {kebohongan//korupsi//0} mereka sendiri.
+\p
+\b
+\q1
+\v 4 Waktu {orang//kamu} meninggal dunia dan dihakimi oleh Allah, harta {bendanya//bendamu} tidak {bisa menyelamatkanmu//akan menyelamatkannya},
+\q2 tetapi kalau hidup benar, kamu {dapat//bisa} diselamatkan dari bahaya maut.
+\p
+\b
+\q1
+\v 5 Orang benar selalu diarahkan kepada jalan yang {benar//baik} oleh ketulusan hati mereka,
+\q2 tetapi orang jahat jatuh dan hancur karena beban dosa mereka sendiri.
+\p
+\b
+\q1
+\v 6 {Kalau orang yang jujur kena bahaya, dia akan selamat karena kejujurannya//Orang jujur akan selamat karena kejujurannya},
+\q2 {tetapi orang yang suka [menipu//tipu-tipu//0] tidak akan luput, karena dia terjerat oleh keinginan-keinginannya sendiri//tetapi orang yang tidak dapat dipercaya akan terjerat karena keinginan dirinya sendiri}.
+\p
+\b
+\q1
+\v 7 {Waktu//saat} orang jahat mati, semua yang dia harapkan menjadi sia-sia {saja//0},
+\q2 karena dia bersandar kepada kekuatan diri{nya} sendiri {saja//0}.
+\p
+\b
+\q1
+\v 8 {Waktu kesusahan datang, orang yang hidup jujur akan luput// Orang yang hidup jujur akan luput pada waktu susah,
+\q2 sedangkan orang jahat tidak akan luput//tetapi orang jahat akan terjerat}.
+\p
+\b
+\q1
+\v 9 Mulut orang yang tidak mau ikut TUHAN membinasakan orang lain,
+\q2 tetapi melalui {hikmat//kebijaksanaan} orang baik akan diselamatkan.
+\p
+\b
+\q1
+\v 10 Seluruh kota turut bergembira kalau {orang yang hidup jujur//orang jujur} mendapat keuntungan,
+\q2 dan waktu orang jahat mati semua orang di kota itu akan bersorak-sorai.
+\p
+\b
+\q1
+\v 11 Orang benar membangun kota dengan berkat, 
+\q2 tetapi perkataan orang jahat menghancurkannya.
+\p
+\b
+\q1
+\v 12 Orang yang bodoh menghina orang lain, 
+\q2 tetapi orang yang berbudi berdiam diri.
+\p
+\b
+\q1
+\v 13 Orang yang suka membicarakan orang lain tidak dapat dipercaya
+\q2 tetapi orang yang dapat dipercaya menyimpan rahasia.
+\p
+\b
+\q1
+\v 14 Tanpa bimbingan dan arahan, orang akan kehilangan arah dan jatuh, 
+\ q2 tetapi dengan mendengarkan nasehat, orang akan selamat dan mencapai tujuan.
+\p
+\b
+\q1
+\v 15 {Orang yang memberikan jaminan bagi orang yang tidak dia kenal, akan menyusahkan dirinya sendiri susah.//Kalau kamu tanda tangani surat kredit untuk menjamin utang dari orang yang kamu belum kenal baik, berarti kamu sudah masuk tempat bahaya;}
+\q2 {orang yang tidak melibatkan diri akan selamat//Kalau dia tidak bayar, terpaksa kamulah yang harus lunasi. Jadi lebih baik jangan terlibat.}
+\p
+\b
+\q1
+\v 16 Perempuan yang berbaik hati dan berbudi dihormati, 
+\q2 tetapi laki-laki yang penindas tanpa berbelas kasihan terhadap orang lain memperoleh kekayaan.
+\p
+\b
+\q1
+\v 17 Orang yang bermurah hati membawa keuntungan bagi dirinya, 
+\q2 tetapi orang yang jahat mendatangkan malapetaka bagi dirinya sendiri.
+\p
+\b
+\q1
+\v 18 Orang jahat mendapatkan upah dengan licik, 
+\q 2tetapi orang yang menabur kebenaran mendapatkan upah sejati.
+\p
+\b
+\q1
+\v 19 Ketulusan orang benar menuju kehidupan,  
+\q2 tetapi bagi yang mengejar kejahatan akan mati.
+\p
+\b
+\q1
+\v 20 Orang yang memiliki pikiran yang keji dibenci TUHAN,
+\q2 tetapi mereka yang menjalani hidup tanpa cacat menyenangkan hatiNya.
+\p
+\b
+\q1
+\v 21 Dipastikan bahwa orang yang jahat akan dihukum
+\q2 tetapi keturunan orang yang benar akan {luput//bebas}
+\p
+\b
+\q1
+\v 22 Perempuan cantik yang tidak memiliki kebijaksanaan 
+\q2 dapat disamakan dengan seekor babi yang mengenakan cicin emas pada jungurnya.
+\p
+\b
+\q1
+\v 23 Keinginan orang benar mencapai kebaikan, 
+\q2 tetapi yang diharapkan orang jahat menuju kemurkaan.
+\p
+\b
+\q1
+\v 24 Bermurah-hatilah dan memberikan kepada oranglain, dan kemungkinan besar kamu akan menjadi lebih kaya.
+\q2 Kalau kamu pelit terhadap sesamamu kamu akan semakin miskin.
+\p
+\b
+\q1
+\v 25 Orang yang murah-hati kepada sesamanya akan tambah makmur,
+\q2 dan siapa saja yang menyegarkan orang lain, dia juga akan disegarkan.
+\p
+\b
+\q1
+\v 26 Dalam waktu kelaparan, orang yang menjual makanan dengan harga yang benar akan dipuji oleh semua orang,
+\q2 tetapi semua orang yang {mengambil keuntungan// pakai situasi seperti itu} untuk menjadi kaya akan dihina.
+\p
+\b
+\q1
+\v 27 {Orang yang//kalau kamu} berusaha hidup baik, {kamu//0} akan disenangi dan dihormati.
+\q2 Tetapi {orang yang//kalau kamu} berusaha hidup dengan kejahatan, {kamu//0} pasti berhasil mendapatkannya!
+\p
+\b
+\q1
+\v 28 {Orang yang//Kalau kamu} bersandar kepada kekayaanmu, {kamu//0} akan layu seperti daun tua,
+\q2 tetapi orang yang hidup untuk menyenangkan Allah akan berkembang seperti tunas muda.
+\p
+\b
+\q1
+\v 29 Orang yang membawa malapetaka ke dalam rumahnya sendiri tidak akan mendapat warisan apapun.  Orang bodoh akan menjadi hamba bagi orang yang bijak.
+\p
+\b
+\q1
+\v 30 Orang yang hidup untuk menyenangkan hati Allah bagaikan pohon yang menghasilkan buah kehidupan.
+\q2 Dan orang-orang yang memimpin orang lain ke jalan keselamatan terbukti bijaksana.
+\p
+\b
+\q1
+\v 31 Sudah terbukti bahwa orang-orang benar menerima upah karena kebaikan mereka.
+\q2  Jadi sudah jelas bahwa orang berdosa akan terima hukuman sesuai kejahatan mereka!
+</USFM>
 ~~DISCUSSIONS:on~~
