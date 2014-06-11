@@ -3,7 +3,7 @@
 {{:en:obs:obs-06-01.jpg?nolink&640x360}}
 
 
-When **[[:en:key-terms:abraham|Abraham]]** was very old and his **[[:en:key-terms:son|son]]**, **[[:en:key-terms:isaac|Isaac]]**, had grown to be a man, Abraham **sent one of his [[:en:key-terms:servant|servants]] back** **to the land** where his relatives lived **to find a wife for his son, Isaac**. 
+When **[[:en:key-terms:abraham|Abraham]]** was very old, his **[[:en:key-terms:son|son]]**, **[[:en:key-terms:isaac|Isaac]]**, had grown to be a man. So Abraham **sent one of his [[:en:key-terms:servant|servants]] back** **to the land** where his relatives lived **to bring back a wife for his son, Isaac**. 
 
 
 ===== Translation Notes: =====
@@ -11,8 +11,7 @@ When **[[:en:key-terms:abraham|Abraham]]** was very old and his **[[:en:key-term
 
   * **sent one of his servants back** – This could be translated as, “told one of his servants to go back.” The word “back” means that the servant would be going to the same place where Abraham used to live long ago before he came to Canaan. Make sure the translation of this phrase makes that clear. 
   * **to the land** - This land was east of where Abraham was now living. 
-  * **to find a wife for his son, Isaac** - This could be translated as, “to find an unmarried woman for his son, Isaac, to marry”. This also implies that he was to bring her back to where Abraham and Isaac lived. 
-  * **find** - Make sure the translation of “find” does not sound like she was lost. One way to translate this might be, “bring back.”
+  * **to bring back a wife for his son, Isaac** - This could be translated as, “to bring back an unmarried woman for his son, Isaac, to marry”. 
 
   
 **[[:en:obs-training:frames:05-10|<<]] | [[:en:obs-training:06-god-provides-for-isaac|Up]] | [[:en:obs-training:frames:06-02|>>]]**
