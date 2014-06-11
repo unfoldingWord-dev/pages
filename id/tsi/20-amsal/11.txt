@@ -69,7 +69,7 @@
 \b
 \q1
 \v 14 Tanpa bimbingan dan arahan, orang akan kehilangan arah dan jatuh, 
-\ q2 tetapi dengan mendengarkan nasehat, orang akan selamat dan mencapai tujuan.
+\q2 tetapi dengan mendengarkan nasehat, orang akan selamat dan mencapai tujuan.
 \p
 \b
 \q1
@@ -89,7 +89,7 @@
 \b
 \q1
 \v 18 Orang jahat mendapatkan upah dengan licik, 
-\q 2tetapi orang yang menabur kebenaran mendapatkan upah sejati.
+\q2 tetapi orang yang menabur kebenaran mendapatkan upah sejati.
 \p
 \b
 \q1
@@ -114,7 +114,7 @@
 \b
 \q1
 \v 23 Keinginan orang benar mencapai kebaikan, 
-\q2 tetapi yang diharapkan orang jahat menuju kemurkaan.
+\q2 tetapi apa yang diharapkan orang jahat menuju kemurkaan.
 \p
 \b
 \q1
