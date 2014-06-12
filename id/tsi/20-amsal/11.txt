@@ -4,7 +4,7 @@
 \b
 \q1
 \v 1 TUHAN membenci {kepada//0} orang yang {menggunakan//suka pakai//0} timbangan yang {curang//tidak benar},
-\q2 tetapi Dia senang kepada orang yang {menggunakan//pakai//0} timbangan yang tepat.
+\q2 tetapi {yang menyenangkan hati-NYA adalah orang yang menggunakan timbangan yang tepat.//Dia senang kepada orang yang pakai timbangan yang tepat}.
 \p
 \b
 \q1
@@ -73,13 +73,13 @@
 \p
 \b
 \q1
-\v 15 {Orang yang memberikan jaminan bagi orang yang tidak dia kenal, akan menyusahkan dirinya sendiri susah.//Kalau kamu tanda tangani surat kredit untuk menjamin utang dari orang yang kamu belum kenal baik, berarti kamu sudah masuk tempat bahaya;}
+\v 15 {Orang yang memberikan jaminan bagi orang yang tidak dia kenal, akan menyusahkan dirinya sendiri.//Kalau kamu tanda tangani surat kredit untuk menjamin utang dari orang yang kamu belum kenal baik, berarti kamu sudah masuk tempat bahaya;}
 \q2 {orang yang tidak melibatkan diri akan selamat//Kalau dia tidak bayar, terpaksa kamulah yang harus lunasi. Jadi lebih baik jangan terlibat.}
 \p
 \b
 \q1
 \v 16 Perempuan yang berbaik hati dan berbudi dihormati, 
-\q2 tetapi laki-laki yang penindas tanpa berbelas kasihan terhadap orang lain memperoleh kekayaan.
+\q2 tetapi laki-laki yang penindas tanpa belas kasihan terhadap orang lain memperoleh kekayaan.
 \p
 \b
 \q1
@@ -118,12 +118,12 @@
 \p
 \b
 \q1
-\v 24 Bermurah-hatilah dan memberikan kepada oranglain, dan kemungkinan besar kamu akan menjadi lebih kaya.
+\v 24 Bermurah-hatilah dalam memberi kepada orang lain, dan kemungkinan besar kamu akan menjadi lebih kaya.
 \q2 Kalau kamu pelit terhadap sesamamu kamu akan semakin miskin.
 \p
 \b
 \q1
-\v 25 Orang yang murah-hati kepada sesamanya akan tambah makmur,
+\v 25 Orang yang murah-hati kepada sesamanya akan {semakin//tambah} makmur,
 \q2 dan siapa saja yang menyegarkan orang lain, dia juga akan disegarkan.
 \p
 \b
@@ -133,17 +133,17 @@
 \p
 \b
 \q1
-\v 27 {Orang yang//kalau kamu} berusaha hidup baik, {kamu//0} akan disenangi dan dihormati.
-\q2 Tetapi {orang yang//kalau kamu} berusaha hidup dengan kejahatan, {kamu//0} pasti berhasil mendapatkannya!
+\v 27 {Orang yang melakukan kebaikan, akan disenangi dan dihormati//Kalau kamu berusaha hidup baik, kamu akan disenangi dan dihormati}.
+\q2 {Tetapi orang yang melakukan kejahatan, pasti akan mendapatkan ganjaran//Kalau kamu berusaha hidup dengan kejahatan, kamu pasti berhasil mendapatkannya}!
 \p
 \b
 \q1
-\v 28 {Orang yang//Kalau kamu} bersandar kepada kekayaanmu, {kamu//0} akan layu seperti daun tua,
-\q2 tetapi orang yang hidup untuk menyenangkan Allah akan berkembang seperti tunas muda.
+\v 28 {Orang yang mengandalkan harta kekayaannya akan layu seperti daun yang kering //Kalau kamu bersandar kepada kekayaanmu, kamu akan layu seperti daun tua},
+\q2 {tetapi orang yang hidup berkenan kepada Allah akan berkembang seperti dedaunan yang lebat //tetapi orang yang hidup untuk menyenangkan Allah akan berkembang seperti tunas muda}.
 \p
 \b
 \q1
-\v 29 Orang yang membawa malapetaka ke dalam rumahnya sendiri tidak akan mendapat warisan apapun.  Orang bodoh akan menjadi hamba bagi orang yang bijak.
+\v 29 Orang yang membawa malapetaka ke dalam rumahnya sendiri tidak akan mewarisi apa-apa.  Orang bodoh akan menjadi hamba bagi orang yang bijak.
 \p
 \b
 \q1
@@ -152,7 +152,7 @@
 \p
 \b
 \q1
-\v 31 Sudah terbukti bahwa orang-orang benar menerima upah karena kebaikan mereka.
-\q2  Jadi sudah jelas bahwa orang berdosa akan terima hukuman sesuai kejahatan mereka!
+\v 31 {Kalau orang benar menerima balasan karena kebaikan mereka//Sudah terbukti bahwa orang-orang benar menerima upah karena kebaikan mereka}.
+\q2  dapat dipastikan orang jahat dan berdosa akan menerima ganjarannya!//Jadi sudah jelas bahwa orang berdosa akan terima hukuman sesuai kejahatan mereka!
 </USFM>
 ~~DISCUSSIONS:on~~
