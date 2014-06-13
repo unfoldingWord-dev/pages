@@ -1,82 +1,622 @@
-<USFM>
-\c 1
-\s Yohanes Pembaptis siapkan umat Allah karena Yesus mau datang
-\r (Mat 3:1-12, Luk 3:1-18, Yoh 1:19-28)
-\p
-\v 1-2 Ini adalah Kabar Baik\f + \fr 1:1 \fk Kabar Baik \ft Ini adalah kabar bahwa Allah sudah buat jalan untuk mengampuni orang yang buat dosa. Lalu mereka bisa hidup dengan Allah untuk selama-lamanya. Orang juga panggil Kabar Baik itu‘Injil’.\f* tentang Kristus\f + \fr 1:1 \fk Kristus \ft Kristus adalah kata  dari bahasa Yunani. Artinya ‘orang siram minyak zaitun atas kepalanya’. Kata Kristus sama dengan kata‘Mesias’ dalam bahasa Ibrani. Kata Kristus bukan nama Yesus. Kristus itu tunjukkan jabatan, seperti camat atau gubernur. Pada jaman Perjanjian Lama  nabi siram minyak zaitun di atas kepala setiap raja. Itu adalah tanda bahwa Allah sudah pilih orang itu menjadi raja yang sah.  Dan nabi siram minyak zaitun di atas kepala semua imam dan nabi pada jaman itu juga. Pantas untuk kita berkata bahwa orang siram minyak zaitun di atas kepala Yesus, karena Yesus punya jabatan  sebagai nabi untuk kita, Raja Besar dan Mulia kita, dan Imam Besar kita (Ibrani 4-10). Ada beberapa nubuatan dalam buku semua nabi dan kitab Mazmur. Nabi-nabi itu nubuatan bahwa Allah janjikan bahwa Raja Juruselamat akan datang. Karena ada nubuatan itu, pada jaman Yesus hampir semua orang Yahudi tahu bahwa kata Kristus artinya Raja Juruselamat. Dan mereka tahu bahwa Raja Juruselamat itu akan berasal dari anak-anak yang turun dari Raja Daud. Raja Juruselamat itu (yaitu Kristus) akan bebaskan bangsa-bangsa Israel dari musuh-musuh mereka. Dia akan membangun satu pemerintahan dengan kuasa Allah. Dan Raja Juruselamat Kristus itu akan memerintahkan dengan baik dan adil. Lihat Yes. 9:5-6, Kej. 3:15; Ul. 18:18-19; Mik. 5:2; Zak. 12:10-14; Mal. 3:1, 4:5-6; Mzm. 2, 16, 22, 40, 110.\f* Yesus, Anak Allah.\f + \fr 1:1 \fk Anak Allah \ft Allah sudah sampaikan dalam kitab Mazmu 2:7 jahu sebelum Yesus lahir ke dalam dunia ini, “Engkau adalah Anak Aku. Hari ini Aku umumkan bahwa Aku adalah Bapa Kamu.” Ada orang yang tulis dalam kitab Ibrani 1:5 bahwa ayat itu kasi tahu tentang Yesus. Dan pada Lukas 1:35 malaikat Gabriel sampaikan ini kepada Maria sebelum Yesus lahir, “Roh Kudus akan datang kepada kamu Maria. Dan kuasa Allah Yang Paling Tinggi akan datang ke atas Maria. Lalu kamu akan melahirkan Anak yang kudus. Dan orang-orang akan panggil Anak kudus itu ‘Anak Allah.’” Jadi Allah sendiri sampaikan bahwa Yesus adalah Anak Allah sebelum Yesus lahir ke dalam dunia ini. Dan kita panggil Yesus itu ‘Anak Allah’ seperti Firman Allah berkata. Kitab Lukas 1:35 sampaikan hal ini dengan jelas. Maria tidak menjadi hamil Yesus karena hubungan seks dengan Allah. Dan Maria tidak menjadi hamil Yesus karena hubungan seks dengan laki-laki. Tetapi oleh karena kuasa Roh Kudus Maria bisa menjadi hamil Yesus. (Yoh. 4:24).\f* Cerita ini mulai seperti Nabi Yesaya tulis pada waktu dulu dalam bukunya. Nabi Yesaya itu tulis apa yang Allah berkata kepada Anak-Nya (yaitu Yesus) seperti ini,
-\q “Perhatikan ini: Aku akan kirim satu orang utusan lebih dulu, supaya dia bisa siapkan jalan sebelum Aku kirim Engkau (Yesus).”\x + Mal. 3:1\x*
-\q
-\v 3 Orang itu akan mengajar dengan suara yang keras di padang pasir,
-\q2 “Mari kita siapkan diri kita karena Tuhan mau datang. Dan mari kita bersiap-siap untuk ketemu dengan Dia (Tuhan Yesus).”\x + Yes. 40:3 dari penerjemahan kuno bahasa Yunani (LXX).\x*
-\p
-\v 4 Sesudah waktu yang lama, orang yang namanya Yohanes datang ke padang pasir itu. Allah dulu berkata bahwa Dia akan kirim Yohanes itu. Yohanes itu mengajar orang-orang yang datang kepadanya. Dan dia berkata, “Kamu masing-masing harus bertobat dari dosa-dosa kamu. Dan Allah akan mengampuni kamu. Lalu datang kepada saya untuk tunjukkan bahwa kamu mau terus mengikut Tuhan. Lalu saya akan membaptis\f + \fr 1:4 \fk baptis \ft Kata baptis berasal dari bahasa Yunani. Artinya masukkan sesuatu sebentar ke dalam air. Baptisan adalah simbol agama yang tunjukkan hal-hal ini: Pertama - Orang sadar bahwa dia berdosa dan tidak bisa hidup selama-lamanya dengan Allah tetapi akan dia akan dapat hukuman untuk tinggal selama-lamanya di neraka. Kedua - Orang itu percaya bahwa Yesus mati di salib untuk hapuskan orang punya dosa dengan darah Yesus. Ketiga - Orang itu sudah akui dosa-dosanya dan minta Allah mengampuni dia. Keempat -Orang itu bertobat, yaitu dia berbalik dari hidup dalam dosa-dosanya dan mulai hidup suci dengan kekuatan dari Roh Kudus. Dan dalam mata Allah, orang itu sudah bersih dari dosa-dosanya. Kelima - Orang itu berjanji untuk ikut Yesus terus sampai dia mati. Keenam - Orang itu dibaptis. Karena orang itu sudah mati kepada hidup berdosa, dia masuk air seperti orang yang mati masuk kubur. Dan waktu orang itu naik lagi dari air baptisan, itu tunjukkan bahwa dia sudah hidup kembali untuk hidup suci di dalam mata Allah. Ketujuh - Orang itu sudah menjadi umat Allah yang akan hidup untuk selama-lamanya di dalam surga dengan Allah. Rasul Paulus menulis bahwa baptisan tunjukkan bahwa orang yang dibaptis menjadi satu dengan Yesus waktu Yesus mati, masuk kubur, dan hidup kembali dari kematian. Lihat Kis. 2:38; Rom. 6:3-4; Gal. 3:26-28; Kol. 2:12-13.\f* kamu.”
-\v 5 Lalu orang banyak dari seluruh propinsi Yudea dan juga dari kota Yerusalem datang kepada Yohanes di sungai Yordan. Mereka semua mengaku dosa-dosa mereka kepada Allah. Lalu Yohanes membaptis mereka di sungai Yordan.
-\v 6 Cara hidup Yohanes seperti cara hidup Nabi Elia pada jaman dulu. Orang bikin pakaian Yohanes dari bulu-bulu unta. Dan Yohanes punya ikat pinggang dari kulit binatang hewan. Dan Yohanes sering makan belalang dan air madu.
-\p
-\v 7-8 Dia juga berkata kepada mereka, “Sekarang saya membaptis kamu dengan air saja. Tetapi tidak lama lagi akan datang satu Orang (yaitu Anak Allah Yesus) yang akan membaptis kamu dengan Roh Kudus. Orang itu punya kuasa lebih besar dari saya. Dan memang saya tidak layak untuk membantu Dia. Saya tidak layak untuk tunduk dan buka tali sandal-Nya.”\f + \fr 1:7 \fk sandal-Nya \ft Pada jaman Yesus, semua orang biasa pakai sandal. Orang membuat sandal itu dari kulit binatang. Jadi gampang sekali kaki orang bisa menjadi kotor waktu mereka berjalan-jalan. Karena kaki orang cepat kotor, biasa budak atau pembantu buka tali sandal tamu waktu tamu masuk ke dalam rumah. Lalu pembantu itu mencuci kaki tamu itu. Markus menjelaskan bahwa dia tidak layak untuk tunduk dan membuka tali sandal Yesus. Itu artinya bahwa Yohanes merasa dia tidak layak untuk membantu Yesus sama sekali.\f*
+<USFM> %%\%%c 1 %%\%%s Yohanes Pembaptis siapkan umat Allah karena Yesus mau datang %%\%%r (Mat 3:1-12, Luk 3:1-18, Yoh 1:19-28) %%\%%p %%\%%v 1-2 Ini adalah Kabar Baik%%\%%f + %%\%%fr 1:1 %%\%%fk Kabar Baik %%\%%ft Ini adalah kabar bahwa Allah sudah buat jalan untuk mengampuni orang yang buat dosa. Lalu mereka bisa hidup dengan Allah untuk selama-lamanya. Orang juga panggil Kabar Baik itu‘Injil’.%%\%%f* tentang Kristus%%\%%f + %%\%%fr 1:1 %%\%%fk Kristus %%\%%ft Kristus adalah kata dari bahasa Yunani. Artinya ‘orang siram minyak zaitun atas kepalanya’. Kata Kristus sama dengan kata‘Mesias’ dalam bahasa Ibrani. Kata Kristus bukan nama Yesus. Kristus itu tunjukkan jabatan, seperti camat atau gubernur. Pada jaman Perjanjian Lama nabi siram minyak zaitun di atas kepala setiap raja. Itu adalah tanda bahwa Allah sudah pilih orang itu menjadi raja yang sah. Dan nabi siram minyak zaitun di atas kepala semua imam dan nabi pada jaman itu juga. Pantas untuk kita berkata bahwa orang siram minyak zaitun di atas kepala Yesus, karena Yesus punya jabatan sebagai nabi untuk kita, Raja Besar dan Mulia kita, dan Imam Besar kita (Ibrani 4-10). Ada beberapa nubuatan dalam buku semua nabi dan kitab Mazmur. Nabi-nabi itu nubuatan bahwa Allah janjikan bahwa Raja Juruselamat akan datang. Karena ada nubuatan itu, pada jaman Yesus hampir semua orang Yahudi tahu bahwa kata Kristus artinya Raja Juruselamat. Dan mereka tahu bahwa Raja Juruselamat itu akan berasal dari anak-anak yang turun dari Raja Daud. Raja Juruselamat itu (yaitu Kristus) akan bebaskan bangsa-bangsa Israel dari musuh-musuh mereka. Dia akan membangun satu pemerintahan dengan kuasa Allah. Dan Raja Juruselamat Kristus itu akan memerintahkan dengan baik dan adil. Lihat Yes. 9:5-6, Kej. 3:15; Ul. 18:18-19; Mik. 5:2; Zak. 12:10-14; Mal. 3:1, 4:5-6; Mzm. 2, 16, 22, 40, 110.%%\%%f* Yesus, Anak Allah.%%\%%f + %%\%%fr 1:1 %%\%%fk Anak Allah %%\%%ft Allah sudah sampaikan dalam kitab Mazmu 2:7 jahu sebelum Yesus lahir ke dalam dunia ini, “Engkau adalah Anak Aku. Hari ini Aku umumkan bahwa Aku adalah Bapa Kamu.” Ada orang yang tulis dalam kitab Ibrani 1:5 bahwa ayat itu kasi tahu tentang Yesus. Dan pada Lukas 1:35 malaikat Gabriel sampaikan ini kepada Maria sebelum Yesus lahir, “Roh Kudus akan datang kepada kamu Maria. Dan kuasa Allah Yang Paling Tinggi akan datang ke atas Maria. Lalu kamu akan melahirkan Anak yang kudus. Dan orang-orang akan panggil Anak kudus itu ‘Anak Allah.’” Jadi Allah sendiri sampaikan bahwa Yesus adalah Anak Allah sebelum Yesus lahir ke dalam dunia ini. Dan kita panggil Yesus itu ‘Anak Allah’ seperti Firman Allah berkata. Kitab Lukas 1:35 sampaikan hal ini dengan jelas. Maria tidak menjadi hamil Yesus karena hubungan seks dengan Allah. Dan Maria tidak menjadi hamil Yesus karena hubungan seks dengan laki-laki. Tetapi oleh karena kuasa Roh Kudus Maria bisa menjadi hamil Yesus. (Yoh. 4:24).%%\%%f* Cerita ini mulai seperti Nabi Yesaya tulis pada waktu dulu dalam bukunya. Nabi Yesaya itu tulis apa yang Allah berkata kepada Anak-Nya (yaitu Yesus) seperti ini, %%\%%q “Perhatikan ini: Aku akan kirim satu orang utusan lebih dulu, supaya dia bisa siapkan jalan sebelum Aku kirim Engkau (Yesus).”%%\%%x + Mal. 3:1%%\%%x* %%\%%q %%\%%v 3 Orang itu akan mengajar dengan suara yang keras di padang pasir, %%\%%q2 “Mari kita siapkan diri kita karena Tuhan mau datang. Dan mari kita bersiap-siap untuk ketemu dengan Dia (Tuhan Yesus).”%%\%%x + Yes. 40:3 dari penerjemahan kuno bahasa Yunani (LXX).%%\%%x* %%\%%p %%\%%v 4 Sesudah waktu yang lama, orang yang namanya Yohanes datang ke padang pasir itu. Allah dulu berkata bahwa Dia akan kirim Yohanes itu. Yohanes itu mengajar orang-orang yang datang kepadanya. Dan dia berkata, “Kamu masing-masing harus bertobat dari dosa-dosa kamu. Dan Allah akan mengampuni kamu. Lalu datang kepada saya untuk tunjukkan bahwa kamu mau terus mengikut Tuhan. Lalu saya akan membaptis%%\%%f + %%\%%fr 1:4 %%\%%fk baptis %%\%%ft 
 
-\s Yohanes Pembaptis membaptis Yesus
-\p
-\v 9 Tidak lama lagi Yesus datang dari kampung Nazaret di propinsi Galilea. Lalu Yohanes membaptis Yesus di sungai Yordan.
-\v 10 Pada waktu Yesus keluar dari air, tiba-tiba Yesus lihat langit belah. Dan Roh Allah turun ke atas Yesus seperti burung merpati.
-\v 11 Lalu orang banyak yang ada di situ dengar suara Allah dari surga. Allah berkata, “Kamu adalah Anak Aku yang Aku sangat kasihi. Dan Kamu membuat hati Aku senang.”
-\s Iblis menguji Yesus
-\r (Mat. 4:1-11; Luk. 4:1-13)
-\p
-\v 12 Sesudah itu Roh Allah langsung bawa Yesus ke daerah yang sunyi.
-\v 13 Selama empat puluh hari lamanya Yesus tinggal di daerah sunyi itu. Dan ada banyak binatang liar di situ. Dan pada waktu itu iblis coba untuk uji Yesus berulang kali. Tetapi iblis kalah. Lalu malaikat-malaikat datang membantu Yesus.
-\s Yesus mulai kerja
-\r (Mat. 4:12-22; Luk. 4:14-15; 5:1-11)
-\p
-\v 14 Lalu Raja Herodes masukan Yohanes Pembaptis ke dalam penjara. Sesudah itu Yesus pergi ke Galilea. Dan Yesus mulai mengajar orang-orang yang ada di Galilea tentang Kabar Baik dari Allah.
-\v 15 Yesus berkata, “Sudah waktu untuk Allah membangun kerajaan Allah di dunia ini. Jadi kamu harus bertobat. Dan kamu harus percaya kepada Kabar Baik itu.”
-\p
-\v 16 Lalu Yesus berjalan di pinggir Danau Galilea. Waktu itu Yesus lihat dua orang cari ikan yang sedang lemparkan jaring mereka ke danau. Orang itu adalah Simon— yang juga punya nama Petrus,\f + \fr 1:16 \fk Simon \ft Nama lain untuk Petrus.\f* dan dia punya adik, namanya Andreas.
-\v 17 Lalu Yesus berkata kepada mereka dua, “Mari ikut Aku. Kamu tiak akan cari ikan lagi. Tetapi Aku akan kasi tahu bagaimana kalian untuk bisa cari orang-orang. Dan kamu akan mengajar mereka untuk ikut Aku.”
-\p
-\v 18 Waktu itu juga, Petrus dan Andreas langsung tinggalkan jaring mereka. Lalu mereka mengikut Yesus.
-\v 19-20 Dan Yesus berjalan sedikit lagi dari tempat itu. Lalu Yesus lihat ada dua orang lain yang mencari ikan. Namanya Yakobus dan adiknya, namanya Yohanes. (Itu bukan Yohanes Pembaptis.) Mereka itu anak dari Zebedeus. Yakobus dan Yohanes itu sedang perbaiki jaringnya di dalam perahunya. Sedudah Yesus lihat mereka, Yesus langsung panggil mereka. Lalu Yakobus dan Yohanes itu tinggalkan bapanya Zebedeus. Dan mereka juga tinggalkan anak-anak buah Zebedeus. Lalu Yakobus dan Yohanes ikut Yesus.
-\s Yesus usir roh-roh jahat dari orang Kapernaum
-\p
-\v 21 Sesudah itu Yesus dan murid-murid-Nya pergi ke kota Kapernaum. Waktu Hari Sabat Yesus masuk ke rumah pertemuan orang Yahudi.\f + \fr 1:21 \fk Rumah pertemuan orang Yahudi \ft Kat ini dalam bahasa Yunani sebenarnya  “sinagoge.” Pada jaman Perjanjian Baru, rumah-rumah pertemuan itu adalah tempat berkumpul untuk orang Yahudi, baik laki-laki dan perempuan juga. Ada rumah pertemuan di setiap kampung dan kota orang Yahudi. Dan mereka juga pakai tempat itu untuk berdoa dan belajar Firman Allah. Rumah pertemuan tidak sama dengan Rumah Allah di Yerusalem. Kita juga panggil Rumah Allah itu Bait Allah. Orang Yahudi hanya bisa kasi sembah kurban bakar di Rumah Allah di Yerusalem.\f* Dan Yesus mengajar di tempat itu.
-\v 22 Ajaran Yesus tidak sama dengan ajaran ahli-ahli Taurat. Yesus mengajar seperti seorang pemimpin yang punya kuasa untuk kasi perintah. Jadi semua orang yang ada di situ merasa heran sekali waktu mereka dengar ajaran-ajaran Yesus.
-\p
-\v 23 Tetapi ada satu orang laki-laki yang masuk di tempat itu. Laki-laki itu punya roh jahat. Karena ada roh jahat di dalam laki-laki itu, tiba-tiba dia berteriak. Orang itu berteriak,
-\v 24 “Hai, Yesus orang dari Nazaret! Kamu tidak punya urusan\f + \fr 1:24 \fk -mu \ft Di ayat ini, kata ganti untuk nama Yesus pakai huruf kecil. Roh jahat ini tahu bahwa Yesus adalah Anak Allah, tetapi roh itu tidak  hormati Yesus dengan sungguh-sungguh. Dan roh jahat itu tidak tunduk kepada Yesus. Baca Yak. 2:19 juga.\f* dengan kami! Kamu datang binasakan kami kah? Saya sudah tahu siapa kamu! Kamu itu Orang suci yang Allah kirim.”
-\v 25 Lalu Yesus langsung suruh roh jahat itu, “Diam! Keluar dari orang ini!”
-\v 26 Roh jahat itu kasi goyang-goyang orang itu dengan keras sekali. Lalu roh jahat berteriak dan keluar dari dalam badan orang itu.
-\v 27 Semua orang yang lihat itu menjadi heran sekali. Lalu mereka berbicara satu sama lain begini, “Wah! Luar biasa sekali! Ini ajaran yang baru! Karena Yesus ini punya kuasa jadi roh-roh jahat taat kepada Yesus.”
-\v 28 Lalu orang-orang kasi berita tentang Yesus ke mana-mana. Mereka sampaikan berita itu dengan cepat sekali di semua propinsi Galilea.
-\s Yesus sembuhkan banyak orang
-\r (Mat. 8:14-17; Luk. 4:38-41)
-\p
-\v 29 Yesus dan empat murid-Nya keluar dari rumah pertemuan itu. Lalu mereka langsung masuk di rumah Simon dan Andreas. Yakobus dan Yohanes ikut juga.
-\v 30 Dan waktu mereka masuk di rumah itu, ada orang yang kasi tahu kepada Yesus begini,  “Mama manu Simon sakit demam. Dan mama mantu itu ada tidur di tempat tidurnya.
-\v 31 Jadi Yesus pergi kepada mama mantu Simon. Dan Yesus pegang tangannya. Lalu Yesus bantu mama itu untuk duduk. Waktu itu juga demam itu langsung hilang. Lalu mama mantu itu bangun dan dia layani Yesus dan murid-murid-Nya.
-\v 32 Hari sudah sore dan hampir gelap.\f + \fr 1:32 \fk hari hampir gelap \ft Hari Sabat untuk orang Yahudi mulai waktu matahari turun pada hari Jumat. Dan Hari Sabat selesai waktu matahari turun pada hari Sabtu. Jadi penduduk di kota itu tunggu sampai Hari Sabat selesai. Lalu mereka bisa membawa orang-orang sakit kepada Yesus.\f* Lalu orang-orang di kota itu membawa semua orang yang sakit kepada Yesus. Dan mereka juga bawa orang yang punya setan-setan kepada Yesus.
-\v 33 Hampir semua penduduk di kota Kapernaum berkumpul di depan rumah Simon dan Andreas.
-\v 34 Lalu Yesus sembuhkan mereka dari segala macam penyakit. Yesus juga usir setan-setan yang ada di dalam  orang-orang itu. Roh-roh jahat itu tahu siapa Yesus. Jadi Yesus tidak kasi ijin setan-setan itu untuk bicara. karena roh-roh itu tahu siapa Dia.\f + \fr 1:34 \fk tahu siapa Yesus \ft Ini bukan artinya bahwa mereka tahu  nama-Nya adalah Yesus. Tetapi ini seperti yang ada di dalam Markus 5:7, waktu roh-roh jahat berteriak bahwa, “Kamu adalah Anak Allah.” Sudah jelas bahwa setan-setan sudah tahu ada hubungan Yesus dengan Allah. Jadi kenapa Yesus tidak mau setan-setan sampaikan berita yang benar itu tentang Dia? Tentu karena setan-setan tidak layak untuk bersaksi tentang Yesus.\f*
-\s Yesus sampaikan Kabar Baik di propinsi Galilea
-\r (Luk. 4:42-44)
-\p
-\v 35 Besok pagi, Yesus baangun waktu pagi-pagi sekali. Lalu Yesus tinggalkan rumah. Karena Yesus mau berdoa, lalu Dia pergi ke daerah yang sunyi.
-\v 36 Waktu Simon dan teman-temannya melihat bahwa Yesus tidak ada di dalam rumah itu, mereka pergi mencari Yesus.
-\v 37 Sesudah mereka ketemu Yesus mereka berkata, “Semua orang cari Bapa. Mari kita pulang.”
-\p
-\v 38 Tetapi Yesus menjawab, “Aku datang untuk sampaikan Kabar Baik. Jadi lebih baik kita pergi ke tempat lain seperti ke kampung-kampung yang ada di daerah ini. Aku mau mengajar di situ juga.”
-\v 39 Lalu Yesus pergi ke semua tempat di propinsi Galilea. Dan Yesus mengajar di rumah-rumah pertemuan mereka. Dia juga usir banyak setan-setan dari orang-orang di situ.
-\s Yesus sembuhkan satu orang yang menderita penyakit kulit yang gampang kena orang lain
-\r (Mat. 8:1-4; Luk. 5:12-16)
-\p
-\v 40 Pada waktu itu ada orang yang menderita penyakit kulit.\f + \fr 1:40 \fk penyakit kulit yang gampang kena orang lain \ft Penyakit kulit ini tidak sama dengan penyakit yang jaman sekarang kita panggil “kusta.” Hukum Taurat jelaskan bahwa orang yang menderita penyakit kulit seperti ini adalah najis. Mereka tidak boleh datang dekat dengan orang-orang sehat. Orang sakit itu tidak boleh masuk ke dalam rumah pertemuan orang Yahudi juga. Dan orang sakit kulit itu harus tinggal di luar kampung atau kota. Lihat Im. 13.\f* Dan orang lain gampang kena penyakit itu dari dia. Orang sakit itu datang dan sembah kepada Yesus. Lalu orang itu berkata, “Kalau Bapa mau, Bapa pasti bisa sembuhkan saya.”
-\p
-\v 41 Yesus merasa kasihan sekali kepada orang itu. Jadi Yesus pegang \f + \fr 1:41 \fk pegang \ft Ada peraturan dalam Hukum Taurat tentang orang yang sakit kulit. Orang sehat dilarang pegang atau sentuh orang yang sakit klit itu. Tetapi karena Yesus tahu bahwa orang sakit ini akan sembuh, jadi Dia pegang orang itu.\f* badan orang itu. Dan Yesus berkata, “Aku mau sembuhkan kamu. Jadi sekarang kamu sudah sembuh!”
-\v 42 Waktu itu juga penyakit kulit orang itu langsung hilang dari orang itu. Dan orang itu betul-betul sembuh.
-\p
-\v 43 Langsung Yesus suruh orang itu pergi. Dan Yesus larang dia keras sekali,
-\v 44 “Jangan kasi tahu siapa-siapa tentang apa yang terjadi pada kamu. Sekarang pergi dulu kepada imam dan tunjukkan badan kamu kepadanya. Lalu kasi persembahan kepada Allah seperti Musa sudah perintah. Musa kasi perintah kepada semua orang yang sudah sembuh dari penyakit kulit.\f + \fr 1:44 \fk Musa sudah perintah \ft Pada Imamat 14:1-32, Musa ini tulis tentang orang yang sembuh dari penyakit. Orang itu harus bawa dua ekor burung yang hidup ke Rumah Allah. Lalu imam-imam di situ periksa badan orang itu. Kalau imam berkata bahwa orang itu sudah sembuh, lalu imam itu membuat upacara untuk bersihkan orang yang dulu sakit kulit. Imam itu potong satu ekor burung di atas piring yang penuh dengan air. Lalu dia kasi campur darah dari burung itu dengan air itu. Dan imam itu pakai alat seperti kuas untuk semprot air yang sudah campur dengan darah burung itu pada badan orang yang sudah sembuh. Mungkin imam bakar burung mati itu di atas mezbah Tuhan. Lalu imam kasi masuk burung yang hidup itu ke dalam air yang sudah campur darah burung. Lalu imam lepaskan burung yang hidup itu ke udara untuk terbang. Orang hanya bisa buat upacara seperti ini di Yerusalem saja. Jadi dalam cerita ini Yesus orang yang baru sembuh itu pergi ke Rumah Allah di Yerusalem untuk buat upacara itu.\f* Dengan begitu semua orang bisa tahu bahwa kamu betul-betul sudah sembuh.”
-\p
-\v 45 Lalu orang dulu sakit kulit itu pergi. Dan dia kasi tahu cerita itu kepada semua orang di mana-mana. Orang itu berkata, “Yesus sudah sembuhkan saya.” Jadi Yesus tidak mau lagi masuk secara terang-terang ke dalam kota-kota. Lalu Yesus dan murid-murid-Nya tinggal di luar kota saja di daerah-daerah yang sunyi. Tetapi orang-orang dari mana saja terus datang kepada Yesus.
+
+Kata baptis berasal dari bahasa Yunani. Artinya masukkan sesuatu sebentar ke dalam air. Baptisan adalah simbol agama yang tunjukkan hal-hal ini: Pertama - 
+
+
+</font> 
+
+
+</font> 
+
+
+</font> 
+
+
+Kita
+
+
+</font> 
+
+
+</font> 
+
+
+</font> 
+
+
+sadar bahwa 
+
+
+</font> 
+
+
+</font> 
+
+
+</font> 
+
+
+kita
+
+
+</font> 
+
+
+</font> 
+
+
+</font> 
+
+
+berdosa dan tidak bisa hidup selama-lamanya dengan Allah. 
+
+
+</font> 
+
+
+</font> 
+
+
+</font> 
+
+
+T
+
+
+</font> 
+
+
+</font> 
+
+
+</font> 
+
+
+etapi 
+
+
+</font> 
+
+
+</font> 
+
+
+</font> 
+
+
+kita 
+
+
+</font> 
+
+
+</font> 
+
+
+</font> 
+
+
+akan dapat hukuman untuk tinggal selama-lamanya di neraka. Kedua - 
+
+
+</font> 
+
+
+</font> 
+
+
+</font> 
+
+
+Kita
+
+
+</font> 
+
+
+</font> 
+
+
+</font> 
+
+
+percaya bahwa Yesus mati di salib untuk hapuskan dosa 
+
+
+</font> 
+
+
+</font> 
+
+
+</font> 
+
+
+kita 
+
+
+</font> 
+
+
+</font> 
+
+
+</font> 
+
+
+dengan darah Yesus. Ketiga - 
+
+
+</font> 
+
+
+</font> 
+
+
+</font> 
+
+
+Kita
+
+
+</font> 
+
+
+</font> 
+
+
+</font> 
+
+
+sudah akui dosa-dosa 
+
+
+</font> 
+
+
+</font> 
+
+
+</font> 
+
+
+kita
+
+
+</font> 
+
+
+</font> 
+
+
+</font> 
+
+
+dan minta Allah ampuni 
+
+
+</font> 
+
+
+</font> 
+
+
+</font> 
+
+
+kita
+
+
+</font> 
+
+
+</font> 
+
+
+</font> 
+
+
+. Keempat - 
+
+
+</font> 
+
+
+</font> 
+
+
+</font> 
+
+
+Kita
+
+
+</font> 
+
+
+</font> 
+
+
+</font> 
+
+
+bertobat, yaitu 
+
+
+</font> 
+
+
+</font> 
+
+
+</font> 
+
+
+kita
+
+
+</font> 
+
+
+</font> 
+
+
+</font> 
+
+
+berbalik dari hidup dalam dosa-dosa 
+
+
+</font> 
+
+
+</font> 
+
+
+</font> 
+
+
+kita
+
+
+</font> 
+
+
+</font> 
+
+
+</font> 
+
+
+dan 
+
+
+</font> 
+
+
+</font> 
+
+
+</font> 
+
+
+kita 
+
+
+</font> 
+
+
+</font> 
+
+
+</font> 
+
+
+mulai hidup suci dengan kekuatan dari Roh Kudus. Dan dalam mata Allah, 
+
+
+</font> 
+
+
+</font> 
+
+
+</font> 
+
+
+kita
+
+
+</font> 
+
+
+</font> 
+
+
+</font> 
+
+
+sudah bersih dari dosa-dosa 
+
+
+</font> 
+
+
+</font> 
+
+
+</font> 
+
+
+kita
+
+
+</font> 
+
+
+</font> 
+
+
+</font> 
+
+
+. Kelima - 
+
+
+</font> 
+
+
+</font> 
+
+
+</font> 
+
+
+Kita
+
+
+</font> 
+
+
+</font> 
+
+
+</font> 
+
+
+berjanji untuk ikut Yesus terus sampai 
+
+
+</font> 
+
+
+</font> 
+
+
+</font> 
+
+
+kita
+
+
+</font> 
+
+
+</font> 
+
+
+</font> 
+
+
+mati. Keenam - 
+
+
+</font> 
+
+
+</font> 
+
+
+</font> 
+
+
+Kita
+
+
+</font> 
+
+
+</font> 
+
+
+</font> 
+
+
+dibaptis. Karena 
+
+
+</font> 
+
+
+</font> 
+
+
+</font> 
+
+
+kita
+
+
+</font> 
+
+
+</font> 
+
+
+</font> 
+
+
+sudah mati kepada hidup berdosa, 
+
+
+</font> 
+
+
+</font> 
+
+
+</font> 
+
+
+kita
+
+
+</font> 
+
+
+</font> 
+
+
+</font> 
+
+
+masuk 
+
+
+</font> 
+
+
+</font> 
+
+
+</font> 
+
+
+ke dalam 
+
+
+</font> 
+
+
+</font> 
+
+
+</font> 
+
+
+air seperti orang yang mati masuk kubur. Dan waktu 
+
+
+</font> 
+
+
+</font> 
+
+
+</font> 
+
+
+kita
+
+
+</font> 
+
+
+</font> 
+
+
+</font> 
+
+
+naik lagi dari air baptisan, itu tunjukkan bahwa 
+
+
+</font> 
+
+
+</font> 
+
+
+</font> 
+
+
+kita
+
+
+</font> 
+
+
+</font> 
+
+
+</font> 
+
+
+sudah hidup kembali untuk hidup suci di dalam mata Allah. Ketujuh - 
+
+
+</font> 
+
+
+</font> 
+
+
+</font> 
+
+
+Kita
+
+
+</font> 
+
+
+</font> 
+
+
+</font> 
+
+
+sudah menjadi umat Allah yang akan hidup untuk selama-lamanya di dalam surga dengan Allah. Rasul Paulus menulis bahwa baptisan tunjukkan bahwa 
+
+
+</font> 
+
+
+</font> 
+
+
+</font> 
+
+
+kita 
+
+
+</font> 
+
+
+</font> 
+
+
+</font> 
+
+
+yang dibaptis menjadi satu dengan Yesus waktu Yesus mati, masuk kubur, dan hidup kembali dari kematian.
+
+
+</font> 
+
+
+</font> 
+
+
+</font> Lihat Kis. 2:38; Rom. 6:3-4; Gal. 3:26-28; Kol. 2:12-13.%%\%%f* kamu.” %%\%%v 5 Lalu orang banyak dari seluruh propinsi Yudea dan juga dari kota Yerusalem datang kepada Yohanes di sungai Yordan. Mereka semua mengaku dosa-dosa mereka kepada Allah. Lalu Yohanes membaptis mereka di sungai Yordan. %%\%%v 6 Cara hidup Yohanes seperti cara hidup Nabi Elia pada jaman dulu. Orang bikin pakaian Yohanes dari bulu-bulu unta. Dan Yohanes punya ikat pinggang dari kulit binatang hewan. Dan Yohanes sering makan belalang dan air madu. %%\%%p %%\%%v 7-8 Dia juga berkata kepada mereka, “Sekarang saya membaptis kamu dengan air saja. Tetapi tidak lama lagi akan datang satu Orang (yaitu Anak Allah Yesus) yang akan membaptis kamu dengan Roh Kudus. Orang itu punya kuasa lebih besar dari saya. Dan memang saya tidak layak untuk membantu Dia. Saya tidak layak untuk tunduk dan buka tali sandal-Nya.”%%\%%f + %%\%%fr 1:7 %%\%%fk sandal-Nya %%\%%ft Pada jaman Yesus, semua orang biasa pakai sandal. Orang membuat sandal itu dari kulit binatang. Jadi gampang sekali kaki orang bisa menjadi kotor waktu mereka berjalan-jalan. Karena kaki orang cepat kotor, biasa budak atau pembantu buka tali sandal tamu waktu tamu masuk ke dalam rumah. Lalu pembantu itu mencuci kaki tamu itu. Markus menjelaskan bahwa dia tidak layak untuk tunduk dan membuka tali sandal Yesus. Itu artinya bahwa Yohanes merasa dia tidak layak untuk membantu Yesus sama sekali.%%\%%f*
+
+
+%%\%%s Yohanes Pembaptis membaptis Yesus %%\%%p %%\%%v 9 Tidak lama lagi Yesus datang dari kampung Nazaret di propinsi Galilea. Lalu Yohanes membaptis Yesus di sungai Yordan. %%\%%v 10 Pada waktu Yesus keluar dari air, tiba-tiba Yesus lihat langit belah. Dan Roh Allah turun ke atas Yesus seperti burung merpati. %%\%%v 11 Lalu orang banyak yang ada di situ dengar suara Allah dari surga. Allah berkata, “Kamu adalah Anak Aku yang Aku sangat kasihi. Dan Kamu membuat hati Aku senang.” %%\%%s Iblis menguji Yesus %%\%%r (Mat. 4:1-11; Luk. 4:1-13) %%\%%p %%\%%v 12 Sesudah itu Roh Allah langsung bawa Yesus ke daerah yang sunyi. %%\%%v 13 Selama empat puluh hari lamanya Yesus tinggal di daerah sunyi itu. Dan ada banyak binatang liar di situ. Dan pada waktu itu iblis coba untuk uji Yesus berulang kali. Tetapi iblis kalah. Lalu malaikat-malaikat datang membantu Yesus. %%\%%s Yesus mulai kerja %%\%%r (Mat. 4:12-22; Luk. 4:14-15; 5:1-11) %%\%%p %%\%%v 14 Lalu Raja Herodes masukan Yohanes Pembaptis ke dalam penjara. Sesudah itu Yesus pergi ke Galilea. Dan Yesus mulai mengajar orang-orang yang ada di Galilea tentang Kabar Baik dari Allah. %%\%%v 15 Yesus berkata, “Sudah waktu untuk Allah membangun kerajaan Allah di dunia ini. Jadi kamu harus bertobat. Dan kamu harus percaya kepada Kabar Baik itu.” %%\%%p %%\%%v 16 Lalu Yesus berjalan di pinggir Danau Galilea. Waktu itu Yesus lihat dua orang cari ikan yang sedang lemparkan jaring mereka ke danau. Orang itu adalah Simon— yang juga punya nama Petrus,%%\%%f + %%\%%fr 1:16 %%\%%fk Simon %%\%%ft Nama lain untuk Petrus.%%\%%f* dan dia punya adik, namanya Andreas. %%\%%v 17 Lalu Yesus berkata kepada mereka dua, “Mari ikut Aku. Kamu tiak akan cari ikan lagi. Tetapi Aku akan kasi tahu bagaimana kalian untuk bisa cari orang-orang. Dan kamu akan mengajar mereka untuk ikut Aku.” %%\%%p %%\%%v 18 Waktu itu juga, Petrus dan Andreas langsung tinggalkan jaring mereka. Lalu mereka mengikut Yesus. %%\%%v 19-20 Dan Yesus berjalan sedikit lagi dari tempat itu. Lalu Yesus lihat ada dua orang lain yang mencari ikan. Namanya Yakobus dan adiknya, namanya Yohanes. (Itu bukan Yohanes Pembaptis.) Mereka itu anak dari Zebedeus. Yakobus dan Yohanes itu sedang perbaiki jaringnya di dalam perahunya. Sedudah Yesus lihat mereka, Yesus langsung panggil mereka. Lalu Yakobus dan Yohanes itu tinggalkan bapanya Zebedeus. Dan mereka juga tinggalkan anak-anak buah Zebedeus. Lalu Yakobus dan Yohanes ikut Yesus. %%\%%s Yesus usir roh-roh jahat dari orang Kapernaum %%\%%p %%\%%v 21 Sesudah itu Yesus dan murid-murid-Nya pergi ke kota Kapernaum. Waktu Hari Sabat Yesus masuk ke rumah pertemuan orang Yahudi.%%\%%f + %%\%%fr 1:21 %%\%%fk Rumah pertemuan orang Yahudi %%\%%ft Kat ini dalam bahasa Yunani sebenarnya “sinagoge.” Pada jaman Perjanjian Baru, rumah-rumah pertemuan itu adalah tempat berkumpul untuk orang Yahudi, baik laki-laki dan perempuan juga. Ada rumah pertemuan di setiap kampung dan kota orang Yahudi. Dan mereka juga pakai tempat itu untuk berdoa dan belajar Firman Allah. Rumah pertemuan tidak sama dengan Rumah Allah di Yerusalem. Kita juga panggil Rumah Allah itu Bait Allah. Orang Yahudi hanya bisa kasi sembah kurban bakar di Rumah Allah di Yerusalem.%%\%%f* Dan Yesus mengajar di tempat itu. %%\%%v 22 Ajaran Yesus tidak sama dengan ajaran ahli-ahli Taurat. Yesus mengajar seperti seorang pemimpin yang punya kuasa untuk kasi perintah. Jadi semua orang yang ada di situ merasa heran sekali waktu mereka dengar ajaran-ajaran Yesus. %%\%%p %%\%%v 23 Tetapi ada satu orang laki-laki yang masuk di tempat itu. Laki-laki itu punya roh jahat. Karena ada roh jahat di dalam laki-laki itu, tiba-tiba dia berteriak. Orang itu berteriak, %%\%%v 24 “Hai, Yesus orang dari Nazaret! Kamu tidak punya urusan%%\%%f + %%\%%fr 1:24 %%\%%fk -mu %%\%%ft Di ayat ini, kata ganti untuk nama Yesus pakai huruf kecil. Roh jahat ini tahu bahwa Yesus adalah Anak Allah, tetapi roh itu tidak hormati Yesus dengan sungguh-sungguh. Dan roh jahat itu tidak tunduk kepada Yesus. Baca Yak. 2:19 juga.%%\%%f* dengan kami! Kamu datang binasakan kami kah? Saya sudah tahu siapa kamu! Kamu itu Orang suci yang Allah kirim.” %%\%%v 25 Lalu Yesus langsung suruh roh jahat itu, “Diam! Keluar dari orang ini!” %%\%%v 26 Roh jahat itu kasi goyang-goyang orang itu dengan keras sekali. Lalu roh jahat berteriak dan keluar dari dalam badan orang itu. %%\%%v 27 Semua orang yang lihat itu menjadi heran sekali. Lalu mereka berbicara satu sama lain begini, “Wah! Luar biasa sekali! Ini ajaran yang baru! Karena Yesus ini punya kuasa jadi roh-roh jahat taat kepada Yesus.” %%\%%v 28 Lalu orang-orang kasi berita tentang Yesus ke mana-mana. Mereka sampaikan berita itu dengan cepat sekali di semua propinsi Galilea. %%\%%s Yesus sembuhkan banyak orang %%\%%r (Mat. 8:14-17; Luk. 4:38-41) %%\%%p %%\%%v 29 Yesus dan empat murid-Nya keluar dari rumah pertemuan itu. Lalu mereka langsung masuk di rumah Simon dan Andreas. Yakobus dan Yohanes ikut juga. %%\%%v 30 Dan waktu mereka masuk di rumah itu, ada orang yang kasi tahu kepada Yesus begini, “Mama manu Simon sakit demam. Dan mama mantu itu ada tidur di tempat tidurnya. %%\%%v 31 Jadi Yesus pergi kepada mama mantu Simon. Dan Yesus pegang tangannya. Lalu Yesus bantu mama itu untuk duduk. Waktu itu juga demam itu langsung hilang. Lalu mama mantu itu bangun dan dia layani Yesus dan murid-murid-Nya. %%\%%v 32 Hari sudah sore dan hampir gelap.%%\%%f + %%\%%fr 1:32 %%\%%fk hari hampir gelap %%\%%ft Hari Sabat untuk orang Yahudi mulai waktu matahari turun pada hari Jumat. Dan Hari Sabat selesai waktu matahari turun pada hari Sabtu. Jadi penduduk di kota itu tunggu sampai Hari Sabat selesai. Lalu mereka bisa membawa orang-orang sakit kepada Yesus.%%\%%f* Lalu orang-orang di kota itu membawa semua orang yang sakit kepada Yesus. Dan mereka juga bawa orang yang punya setan-setan kepada Yesus. %%\%%v 33 Hampir semua penduduk di kota Kapernaum berkumpul di depan rumah Simon dan Andreas. %%\%%v 34 Lalu Yesus sembuhkan mereka dari segala macam penyakit. Yesus juga usir setan-setan yang ada di dalam orang-orang itu. Roh-roh jahat itu tahu siapa Yesus. Jadi Yesus tidak kasi ijin setan-setan itu untuk bicara. karena roh-roh itu tahu siapa Dia.%%\%%f + %%\%%fr 1:34 %%\%%fk tahu siapa Yesus %%\%%ft Ini bukan artinya bahwa mereka tahu nama-Nya adalah Yesus. Tetapi ini seperti yang ada di dalam Markus 5:7, waktu roh-roh jahat berteriak bahwa, “Kamu adalah Anak Allah.” Sudah jelas bahwa setan-setan sudah tahu ada hubungan Yesus dengan Allah. Jadi kenapa Yesus tidak mau setan-setan sampaikan berita yang benar itu tentang Dia? Tentu karena setan-setan tidak layak untuk bersaksi tentang Yesus.%%\%%f* %%\%%s Yesus sampaikan Kabar Baik di propinsi Galilea %%\%%r (Luk. 4:42-44) %%\%%p %%\%%v 35 Besok pagi, Yesus baangun waktu pagi-pagi sekali. Lalu Yesus tinggalkan rumah. Karena Yesus mau berdoa, lalu Dia pergi ke daerah yang sunyi. %%\%%v 36 Waktu Simon dan teman-temannya melihat bahwa Yesus tidak ada di dalam rumah itu, mereka pergi mencari Yesus. %%\%%v 37 Sesudah mereka ketemu Yesus mereka berkata, “Semua orang cari Bapa. Mari kita pulang.” %%\%%p %%\%%v 38 Tetapi Yesus menjawab, “Aku datang untuk sampaikan Kabar Baik. Jadi lebih baik kita pergi ke tempat lain seperti ke kampung-kampung yang ada di daerah ini. Aku mau mengajar di situ juga.” %%\%%v 39 Lalu Yesus pergi ke semua tempat di propinsi Galilea. Dan Yesus mengajar di rumah-rumah pertemuan mereka. Dia juga usir banyak setan-setan dari orang-orang di situ. %%\%%s Yesus sembuhkan satu orang yang menderita penyakit kulit yang gampang kena orang lain %%\%%r (Mat. 8:1-4; Luk. 5:12-16) %%\%%p %%\%%v 40 Pada waktu itu ada orang yang menderita penyakit kulit.%%\%%f + %%\%%fr 1:40 %%\%%fk penyakit kulit yang gampang kena orang lain %%\%%ft Penyakit kulit ini tidak sama dengan penyakit yang jaman sekarang kita panggil “kusta.” Hukum Taurat jelaskan bahwa orang yang menderita penyakit kulit seperti ini adalah najis. Mereka tidak boleh datang dekat dengan orang-orang sehat. Orang sakit itu tidak boleh masuk ke dalam rumah pertemuan orang Yahudi juga. Dan orang sakit kulit itu harus tinggal di luar kampung atau kota. Lihat Im. 13.%%\%%f* Dan orang lain gampang kena penyakit itu dari dia. Orang sakit itu datang dan sembah kepada Yesus. Lalu orang itu berkata, “Kalau Bapa mau, Bapa pasti bisa sembuhkan saya.” %%\%%p %%\%%v 41 Yesus merasa kasihan sekali kepada orang itu. Jadi Yesus pegang %%\%%f + %%\%%fr 1:41 %%\%%fk pegang %%\%%ft Ada peraturan dalam Hukum Taurat tentang orang yang sakit kulit. Orang sehat dilarang pegang atau sentuh orang yang sakit klit itu. Tetapi karena Yesus tahu bahwa orang sakit ini akan sembuh, jadi Dia pegang orang itu.%%\%%f* badan orang itu. Dan Yesus berkata, “Aku mau sembuhkan kamu. Jadi sekarang kamu sudah sembuh!” %%\%%v 42 Waktu itu juga penyakit kulit orang itu langsung hilang dari orang itu. Dan orang itu betul-betul sembuh. %%\%%p %%\%%v 43 Langsung Yesus suruh orang itu pergi. Dan Yesus larang dia keras sekali, %%\%%v 44 “Jangan kasi tahu siapa-siapa tentang apa yang terjadi pada kamu. Sekarang pergi dulu kepada imam dan tunjukkan badan kamu kepadanya. Lalu kasi persembahan kepada Allah seperti Musa sudah perintah. Musa kasi perintah kepada semua orang yang sudah sembuh dari penyakit kulit.%%\%%f + %%\%%fr 1:44 %%\%%fk Musa sudah perintah %%\%%ft Pada Imamat 14:1-32, Musa ini tulis tentang orang yang sembuh dari penyakit. Orang itu harus bawa dua ekor burung yang hidup ke Rumah Allah. Lalu imam-imam di situ periksa badan orang itu. Kalau imam berkata bahwa orang itu sudah sembuh, lalu imam itu membuat upacara untuk bersihkan orang yang dulu sakit kulit. Imam itu potong satu ekor burung di atas piring yang penuh dengan air. Lalu dia kasi campur darah dari burung itu dengan air itu. Dan imam itu pakai alat seperti kuas untuk semprot air yang sudah campur dengan darah burung itu pada badan orang yang sudah sembuh. Mungkin imam bakar burung mati itu di atas mezbah Tuhan. Lalu imam kasi masuk burung yang hidup itu ke dalam air yang sudah campur darah burung. Lalu imam lepaskan burung yang hidup itu ke udara untuk terbang. Orang hanya bisa buat upacara seperti ini di Yerusalem saja. Jadi dalam cerita ini Yesus orang yang baru sembuh itu pergi ke Rumah Allah di Yerusalem untuk buat upacara itu.%%\%%f* Dengan begitu semua orang bisa tahu bahwa kamu betul-betul sudah sembuh.” %%\%%p %%\%%v 45 Lalu orang dulu sakit kulit itu pergi. Dan dia kasi tahu cerita itu kepada semua orang di mana-mana. Orang itu berkata, “Yesus sudah sembuhkan saya.” Jadi Yesus tidak mau lagi masuk secara terang-terang ke dalam kota-kota. Lalu Yesus dan murid-murid-Nya tinggal di luar kota saja di daerah-daerah yang sunyi. Tetapi orang-orang dari mana saja terus datang kepada Yesus.
+
 
 </USFM>
+
+
 ~~DISCUSSIONS:on~~
