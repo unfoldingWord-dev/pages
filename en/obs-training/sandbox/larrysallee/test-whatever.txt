@@ -1,3 +1,1 @@
-test
-
-{{namespace>en:obs-training:frames}}
+====== Test whatever ======
