@@ -1,1 +1,3 @@
-<nspages en:obs-training:frames -exclude:home -textPages="List of Frames:">
+test
+
+{{namespace>en:obs-training:frames}}
