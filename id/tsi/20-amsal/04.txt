@@ -25,14 +25,14 @@
 \q2 {Yang terpenting yang harus dipelajari//Lebih penting dari semua yang kamu belajar}, adalah belajar bagaimana membedakan antara yang kurang baik dan yang terbaik.
 \q1 Biar {hikmat//kebijaksanaan} menjadi seperti seorang guru yang selalu mengikuti kamu dan berbisik dalam telinga.
 \q2 Jangan {menolak//tolak} untuk {menuruti//ikuti} yang dia katakan!
-\q1 Cintailah dia,
-\q2 dan dia akan selalu menjaga kamu supaya tidak ikut jalan berbahaya.
+\q1 {Kasihilah//Cintailah} dia,
+\q2 dan dia akan selalu menjagamu supaya tidak ikut jalan berbahaya.
 \q1
 \v 8 Hargailah guru bijaksana itu, maka kamu akan dihargai oleh orang lain.
 \q2 Hormatilah dia maka kamu akan dihormati.
 \q1
 \v 9 Kalau kamu menjadi muridnya yang baik, maka dia akan memberikan hadiah mahkota yang indah kepadamu,
-\q2 yaitu hidupmu akan bertambah indah dan kamu akan selalu terima hormat dari orang lain.”
+\q2 yaitu hidupmu akan bertambah indah dan kamu akan selalu {dihormati//menerima hormat dari orang lain.”
 \p
 \b
 \q1
@@ -42,10 +42,10 @@
 \v 11 Saya akan tunjukkan cara hidup yang bijaksana
 \q2 dan pimpin kamu kepada jalan-jalan yang lurus.
 \q1
-\v 12 Kalau jalanmu dipimpin oleh kebijaksanaan, kamu akan maju terus tanpa jatuh,
+\v 12 Kalau jalanmu dipimpin oleh {hikmat//kebijaksanaan}, kamu akan maju terus tanpa jatuh,
 \q2 dan tidak akan mengalami hambatan.
 \q1
-\v 13 Berpegang selalu kepada nasihat saya ini. Jangan lepaskannya.
+\v 13 Berpeganglah selalu pada nasihat saya ini. Jangan melepaskannya.
 \q2 Jadikanlah nasihat kebijaksanaan saya seperti guru tercinta, karena dengan begitu kehidupan kamu akan berarti.
 \p
 \b
@@ -72,9 +72,9 @@
 \b
 \q1
 \v 20 Anakku, perhatikan baik-baik kepada nasihat saya ini.
-\q2 Dengar baik-baik!
-\q1
-\v 21 Buka matamu!
+\q2 Dengarkanlah baik-baik!
+\q1 latamu!
+View all
 \q2 Arahkanlah hidupmu sesuai dengan nasihat saya dan simpan nasihat saya di dalam hatimu.
 \q1
 \v 22 Karena nasihat saya ini akan terbukti benar,
