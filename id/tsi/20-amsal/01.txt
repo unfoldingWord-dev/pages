@@ -1,220 +1,220 @@
-<USFM><nowiki> \</nowiki>id PRO<nowiki>
+<USFM> %%\%%id PRO
 
 
-%%\%%</nowiki>c 1<nowiki>
+%%\%%c 1
 
 
-%%\%%</nowiki>s Maksud buku ini<nowiki>
+%%\%%s Maksud buku ini
 
 
-%%\%%</nowiki>p<nowiki> \</nowiki>q1<nowiki> \</nowiki>v 1 Buku ini berisi kumpulan nasihat dari Salomo, anak Daud, raja Israel.<nowiki>
+%%\%%p %%\%%q1 %%\%%v 1 Buku ini berisi kumpulan nasihat dari Salomo, anak Daud, raja Israel.
 
 
-%%\%%</nowiki>q1<nowiki> \</nowiki>v 2 Maksud buku ini adalah untuk mengajar tentang bagaimana hidup bijaksana dan menguasai diri,<nowiki>
+%%\%%q1 %%\%%v 2 Maksud buku ini adalah untuk mengajar tentang bagaimana hidup bijaksana dan menguasai diri,
 
 
-%%\%%</nowiki>q2 supaya mereka yang belajar bisa mengerti pelajaran-pelajaran yang dalam dari orang-orang yang pikiran panjang.<nowiki>
+%%\%%q2 supaya mereka yang belajar bisa mengerti pelajaran-pelajaran yang dalam dari orang-orang yang pikiran panjang.
 
 
-%%\%%</nowiki>q1<nowiki> \</nowiki>v 3 Tujuan nasihat ini adalah supaya orang-orang yang baca akan terima pengetahuan tentang cara menguasai diri,<nowiki>
+%%\%%q1 %%\%%v 3 Tujuan nasihat ini adalah supaya orang-orang yang baca akan terima pengetahuan tentang cara menguasai diri,
 
 
-%%\%%</nowiki>q2 dan tentang kelakuan yang baik, benar, adil, dan jujur.<nowiki>
+%%\%%q2 dan tentang kelakuan yang baik, benar, adil, dan jujur.
 
 
-%%\%%</nowiki>q1<nowiki> \</nowiki>v 4 Ini akan membuat orang yang tidak pandai menjadi pandai.<nowiki>
+%%\%%q1 %%\%%v 4 Ini akan membuat orang yang tidak pandai menjadi pandai.
 
 
-%%\%%</nowiki>q2 dan akan memberi pengetahuan kepada kaum muda supaya dapat mengatur kehidupan mereka dengan bijaksana.<nowiki>
+%%\%%q2 dan akan memberi pengetahuan kepada kaum muda supaya dapat mengatur kehidupan mereka dengan bijaksana.
 
 
-%%\%%</nowiki>p<nowiki> \</nowiki>b<nowiki> \</nowiki>q1<nowiki> \</nowiki>v 5 Biarlah semua yang bijaksana mendengarkan nasihat ini supaya mereka menjadi lebih bijaksana.<nowiki>
+%%\%%p %%\%%b %%\%%q1 %%\%%v 5 Biarlah semua yang bijaksana mendengarkan nasihat ini supaya mereka menjadi lebih bijaksana.
 
 
-%%\%%</nowiki>q2 Dan biarlah mereka yang mengerti menerima petunjuk,<nowiki>
+%%\%%q2 Dan biarlah mereka yang mengerti menerima petunjuk,
 
 
-%%\%%</nowiki>q2<nowiki> \</nowiki>v 6 supaya mereka dapat mendalami semua jenis pengajaran dari guru yang berhikmat,<nowiki>
+%%\%%q2 %%\%%v 6 supaya mereka dapat mendalami semua jenis pengajaran dari guru yang berhikmat,
 
 
-%%\%%</nowiki>q2 termasuk perumpamaan, dan semua nasihat yang dalam.<nowiki>
+%%\%%q2 termasuk perumpamaan, dan semua nasihat yang dalam.
 
 
-%%\%%</nowiki>p<nowiki> \</nowiki>b<nowiki> \</nowiki>q1<nowiki> \</nowiki>v 7 Inilah dasar dari semua pengetahuan: Kamu harus takut kepada TUHAN.<nowiki>
+%%\%%p %%\%%b %%\%%q1 %%\%%v 7 Inilah dasar dari semua pengetahuan: Kamu harus takut kepada TUHAN.
 
 
-%%\%%</nowiki>q2 Orang yang anggap remeh pelajaran tentang kebijaksanaan dan cara menguasai diri, mereka bodoh.<nowiki>
+%%\%%q2 Orang yang anggap remeh pelajaran tentang kebijaksanaan dan cara menguasai diri, mereka bodoh.
 
 
-%%\%%</nowiki>s Nasihat dari seorang bapak, supaya anaknya hidup bijaksana<nowiki>
+%%\%%s Nasihat dari seorang bapak, supaya anaknya hidup bijaksana
 
 
-%%\%%</nowiki>p<nowiki> \</nowiki>q1<nowiki> \</nowiki>v 8 Anakku, dengarlah nasihat yang saya berikan sekarang kepadamu.<nowiki>
+%%\%%p %%\%%q1 %%\%%v 8 Anakku, dengarlah nasihat yang saya berikan sekarang kepadamu.
 
 
-%%\%%</nowiki>q2 Dan jangan sampai kamu lupa apa yang ibumu sudah ajarkan kepadamu.<nowiki>
+%%\%%q2 Dan jangan sampai kamu lupa apa yang ibumu sudah ajarkan kepadamu.
 
 
-%%\%%</nowiki>q1<nowiki> \</nowiki>v 9 Karena kalau kamu ikuti nasihat dari kami, hidupmu akan bertambah indah<nowiki>
+%%\%%q1 %%\%%v 9 Karena kalau kamu ikuti nasihat dari kami, hidupmu akan bertambah indah
 
 
-%%\%%</nowiki>q2 dan kamu akan selalu terima hormat dari orang lain.<nowiki>
+%%\%%q2 dan kamu akan selalu terima hormat dari orang lain.
 
 
-%%\%%</nowiki>p<nowiki> \</nowiki>b<nowiki> \</nowiki>q1<nowiki> \</nowiki>v 10 Anakku, janganlah engkau mau kalau orang berdosa membujukmu untuk ikut bersama mereka!<nowiki>
+%%\%%p %%\%%b %%\%%q1 %%\%%v 10 Anakku, janganlah engkau mau kalau orang berdosa membujukmu untuk ikut bersama mereka!
 
 
-%%\%%</nowiki>q1<nowiki> \</nowiki>v 11 Mungkin mereka berkata begini, “Mari kita membunuh orang-orang itu dengan cara sembunyi-sembunyi!<nowiki>
+%%\%%q1 %%\%%v 11 Mungkin mereka berkata begini, “Mari kita membunuh orang-orang itu dengan cara sembunyi-sembunyi!
 
 
-%%\%%</nowiki>q2 Walaupun mereka tidak bersalah, mari kita menyerang mereka pada waktu mereka rasa situasi aman!<nowiki>
+%%\%%q2 Walaupun mereka tidak bersalah, mari kita menyerang mereka pada waktu mereka rasa situasi aman!
 
 
-%%\%%</nowiki>q2<nowiki> \</nowiki>v 12 Kita akan musnahkan mereka sebelum mereka tahu.<nowiki>
+%%\%%q2 %%\%%v 12 Kita akan musnahkan mereka sebelum mereka tahu.
 
 
-%%\%%</nowiki>q2 Sekalipun mereka sehat, pada waktu itu maut akan tiba-tiba menjemput mereka.<nowiki>
+%%\%%q2 Sekalipun mereka sehat, pada waktu itu maut akan tiba-tiba menjemput mereka.
 
 
-%%\%%</nowiki>q2 Dan waktu mereka tahu, mereka sudah berada di dunia orang mati.<nowiki>
+%%\%%q2 Dan waktu mereka tahu, mereka sudah berada di dunia orang mati.
 
 
-%%\%%</nowiki>q2<nowiki> \</nowiki>v 13 Semua harta benda mereka akan kita rampas<nowiki>
+%%\%%q2 %%\%%v 13 Semua harta benda mereka akan kita rampas
 
 
-%%\%%</nowiki>q2 dan rumah-rumah kita akan penuh dengan barang rampasan itu.<nowiki>
+%%\%%q2 dan rumah-rumah kita akan penuh dengan barang rampasan itu.
 
 
-%%\%%</nowiki>q2<nowiki> \</nowiki>v 14 Mari, bergabung dengan kami,<nowiki>
+%%\%%q2 %%\%%v 14 Mari, bergabung dengan kami,
 
 
-%%\%%</nowiki>q2 dan kita akan bagi rata semua hasil rampasan itu.”<nowiki>
+%%\%%q2 dan kita akan bagi rata semua hasil rampasan itu.”
 
 
-%%\%%</nowiki>p<nowiki> \</nowiki>b<nowiki> \</nowiki>q1<nowiki> \</nowiki>v 15 Anakku, jangan kamu ikuti mereka!<nowiki>
+%%\%%p %%\%%b %%\%%q1 %%\%%v 15 Anakku, jangan kamu ikuti mereka!
 
 
-%%\%%</nowiki>q2 Tetaplah jauh dari pengaruh mereka.<nowiki>
+%%\%%q2 Tetaplah jauh dari pengaruh mereka.
 
 
-%%\%%</nowiki>q1<nowiki> \</nowiki>v 16 Mereka cepat sekali mengambil kesempatan untuk membuat kejahatan atau membunuh orang.<nowiki>
+%%\%%q1 %%\%%v 16 Mereka cepat sekali mengambil kesempatan untuk membuat kejahatan atau membunuh orang.
 
 
-%%\%%</nowiki>q2<nowiki> \</nowiki>v 17 Coba pikir: Kalau burung hutan melihat orang yang sedang pasang jerat, burung itu tidak akan masuk ke situ.<nowiki>
+%%\%%q2 %%\%%v 17 Coba pikir: Kalau burung hutan melihat orang yang sedang pasang jerat, burung itu tidak akan masuk ke situ.
 
 
-%%\%%</nowiki>q1<nowiki> \</nowiki>v 18 Tetapi orang yang jahat tidak sepandai burung hutan.<nowiki>
+%%\%%q1 %%\%%v 18 Tetapi orang yang jahat tidak sepandai burung hutan.
 
 
-%%\%%</nowiki>q2 Mereka tidak bisa hindari bahaya maut.<nowiki>
+%%\%%q2 Mereka tidak bisa hindari bahaya maut.
 
 
-%%\%%</nowiki>q1 Seperti senjata memakan tuannya, apa yang mereka perbuat akan kembali kena mereka sendiri.<nowiki>
+%%\%%q1 Seperti senjata memakan tuannya, apa yang mereka perbuat akan kembali kena mereka sendiri.
 
 
-%%\%%</nowiki>q1<nowiki> \</nowiki>v 19 Itulah nasib orang yang suka merampas milik orang lain.<nowiki>
+%%\%%q1 %%\%%v 19 Itulah nasib orang yang suka merampas milik orang lain.
 
 
-%%\%%</nowiki>q2 Akibatnya nyawa mereka juga dicabut oleh Allah.<nowiki>
+%%\%%q2 Akibatnya nyawa mereka juga dicabut oleh Allah.
 
 
-%%\%%</nowiki>s Kebijaksanaan diumpamakan dengan seorang guru<nowiki>
+%%\%%s Kebijaksanaan diumpamakan dengan seorang guru
 
 
-%%\%%</nowiki>p<nowiki> \</nowiki>q1<nowiki> \</nowiki>v 20 Kebijaksanaan adalah seperti seorang guru<nowiki>
+%%\%%p %%\%%q1 %%\%%v 20 Kebijaksanaan adalah seperti seorang guru
 
 
-%%\%%</nowiki>q2 yang mencari murid-muridnya di pasar dan jalan-jalan besar di kota.<nowiki>
+%%\%%q2 yang mencari murid-muridnya di pasar dan jalan-jalan besar di kota.
 
 
-%%\%%</nowiki>q1<nowiki> \</nowiki>v 21 Di mana saja orang-orang berkumpul dia terus mengumumkan dengan suara nyaring begini,<nowiki>
+%%\%%q1 %%\%%v 21 Di mana saja orang-orang berkumpul dia terus mengumumkan dengan suara nyaring begini,
 
 
-%%\%%</nowiki>q2<nowiki> \</nowiki>v 22 “Hai kamu yang tidak tahu apa-apa, sampai kapan kamu mau tahu sesuatu?!<nowiki>
+%%\%%q2 %%\%%v 22 “Hai kamu yang tidak tahu apa-apa, sampai kapan kamu mau tahu sesuatu?!
 
 
-%%\%%</nowiki>q2 Kapan kamu berhenti menghina orang-orang yang lebih bijaksana daripada kamu?!<nowiki>
+%%\%%q2 Kapan kamu berhenti menghina orang-orang yang lebih bijaksana daripada kamu?!
 
 
-%%\%%</nowiki>q2 Apakah kamu akan terus kepala batu?”<nowiki>
+%%\%%q2 Apakah kamu akan terus kepala batu?”
 
 
-%%\%%</nowiki>q1<nowiki> \</nowiki>v 23 Guru bijaksana itu berkata, “Mari belajar dari saya! Saya siap membagi kebijaksanaan saya kepadamu,<nowiki>
+%%\%%q1 %%\%%v 23 Guru bijaksana itu berkata, “Mari belajar dari saya! Saya siap membagi kebijaksanaan saya kepadamu,
 
 
-%%\%%</nowiki>q2 sampai akhirnya kamu menjadi bijaksana dan otakmu akan penuh dengan apa yang saya ajarkan.<nowiki>
+%%\%%q2 sampai akhirnya kamu menjadi bijaksana dan otakmu akan penuh dengan apa yang saya ajarkan.
 
 
-%%\%%</nowiki>p<nowiki> \</nowiki>b<nowiki> \</nowiki>q1<nowiki> \</nowiki>v 24 Kebijaksanaan seperti guru yang terus berseru-seru, “Saya sudah panggil terus, tetapi kamu tidak mau datang belajar!<nowiki>
+%%\%%p %%\%%b %%\%%q1 %%\%%v 24 Kebijaksanaan seperti guru yang terus berseru-seru, “Saya sudah panggil terus, tetapi kamu tidak mau datang belajar!
 
 
-%%\%%</nowiki>q2 Saya sudah banyak kali minta perhatianmu, tetapi kamu terus tidak dengar.<nowiki>
+%%\%%q2 Saya sudah banyak kali minta perhatianmu, tetapi kamu terus tidak dengar.
 
 
-%%\%%</nowiki>q1<nowiki> \</nowiki>v 25 Kamu terus saja tidak peduli nasihat saya,<nowiki>
+%%\%%q1 %%\%%v 25 Kamu terus saja tidak peduli nasihat saya,
 
 
-%%\%%</nowiki>q2 dan waktu saya tegur, kamu tutup telinga.<nowiki>
+%%\%%q2 dan waktu saya tegur, kamu tutup telinga.
 
 
-%%\%%</nowiki>q1<nowiki> \</nowiki>v 26-27 Jadi waktu kamu jatuh dalam kesusahan, saya akan tertawa!<nowiki>
+%%\%%q1 %%\%%v 26-27 Jadi waktu kamu jatuh dalam kesusahan, saya akan tertawa!
 
 
-%%\%%</nowiki>q2 Kesusahan itu akan menimpa kamu seperti angin ribut,<nowiki>
+%%\%%q2 Kesusahan itu akan menimpa kamu seperti angin ribut,
 
 
-%%\%%</nowiki>q2 dan kamu akan hadapi persoalan-persoalan besar,<nowiki>
+%%\%%q2 dan kamu akan hadapi persoalan-persoalan besar,
 
 
-%%\%%</nowiki>q2 tetapi pada waktu itu saya akan tertawa kamu.<nowiki>
+%%\%%q2 tetapi pada waktu itu saya akan tertawa kamu.
 
 
-%%\%%</nowiki>p<nowiki> \</nowiki>b<nowiki> \</nowiki>q1<nowiki> \</nowiki>v28 Janganlah kamu seperti murid keras kepala itu,<nowiki>
+%%\%%p %%\%%b %%\%%q1 %%\%%v28 Janganlah kamu seperti murid keras kepala itu,
 
 
-%%\%%</nowiki>q2 karena akhirnya kebijaksanaan yang bagaikan guru bijaksana itu akan putuskan,<nowiki>
+%%\%%q2 karena akhirnya kebijaksanaan yang bagaikan guru bijaksana itu akan putuskan,
 
 
-%%\%%</nowiki>q2 “Waktu mereka berteriak minta tolong, saya tidak akan menjawab.<nowiki>
+%%\%%q2 “Waktu mereka berteriak minta tolong, saya tidak akan menjawab.
 
 
-%%\%%</nowiki>q2 Dalam kesusahan besar waktu mereka terlambat mencari saya, mereka tidak akan menemukan saya.<nowiki>
+%%\%%q2 Dalam kesusahan besar waktu mereka terlambat mencari saya, mereka tidak akan menemukan saya.
 
 
-%%\%%</nowiki>q1<nowiki> \</nowiki>v 29 Karena mereka sudah tutup telinga kepada pelajaran begini, “Inilah jalan adil dan baik di mata TUHAN.”<nowiki>
+%%\%%q1 %%\%%v 29 Karena mereka sudah tutup telinga kepada pelajaran begini, “Inilah jalan adil dan baik di mata TUHAN.”
 
 
-%%\%%</nowiki>q2 Mereka pikir, “Tidak usah saya takut kepada TUHAN.”<nowiki>
+%%\%%q2 Mereka pikir, “Tidak usah saya takut kepada TUHAN.”
 
 
-%%\%%</nowiki>q1<nowiki> \</nowiki>v 30 Mereka menolak nasihat saya terus,<nowiki>
+%%\%%q1 %%\%%v 30 Mereka menolak nasihat saya terus,
 
 
-%%\%%</nowiki>q2 dan waktu saya tegur mereka, mereka tertawa saja.<nowiki>
+%%\%%q2 dan waktu saya tegur mereka, mereka tertawa saja.
 
 
-%%\%%</nowiki>q1<nowiki> \</nowiki>v 31 Akhirnya mereka akan menerima akibat dari perbuatan-perbuatan mereka sendiri.<nowiki>
+%%\%%q1 %%\%%v 31 Akhirnya mereka akan menerima akibat dari perbuatan-perbuatan mereka sendiri.
 
 
-%%\%%</nowiki>q2 Dosa-dosa mereka adalah seperti tanaman kebun, yang akan menghasilkan buah-buah pahit yang harus mereka makan, sampai perut mereka sakit dan mereka muntah.<nowiki>
+%%\%%q2 Dosa-dosa mereka adalah seperti tanaman kebun, yang akan menghasilkan buah-buah pahit yang harus mereka makan, sampai perut mereka sakit dan mereka muntah.
 
 
-%%\%%</nowiki>v 32 Karena kepala mereka kosong, mereka lari dari pada saya untuk mengikuti jalan maut.<nowiki>
+%%\%%v 32 Karena kepala mereka kosong, mereka lari dari pada saya untuk mengikuti jalan maut.
 
 
-%%\%%</nowiki>q2 Mereka sangka, “Saya sudah cukup pintar,”<nowiki>
+%%\%%q2 Mereka sangka, “Saya sudah cukup pintar,”
 
 
-%%\%%</nowiki>q2 jadi mereka malas tahu terus,<nowiki>
+%%\%%q2 jadi mereka malas tahu terus,
 
 
-%%\%%</nowiki>q2 sampai dibinasakan oleh kebodohan mereka sendiri.<nowiki>
+%%\%%q2 sampai dibinasakan oleh kebodohan mereka sendiri.
 
 
-%%\%%</nowiki>q1<nowiki> \</nowiki>v 33 Tetapi mereka yang dengar dan ikuti pelajaran saya akan hidup tenang dan aman.<nowiki>
+%%\%%q1 %%\%%v 33 Tetapi mereka yang dengar dan ikuti pelajaran saya akan hidup tenang dan aman.
 
 
-%%\%%</nowiki>q2 Mereka tidak perlu takut bahaya.”
+%%\%%q2 Mereka tidak perlu takut bahaya.”
 
 
 </USFM>
