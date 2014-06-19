@@ -9,18 +9,18 @@ A promise is a vow or commitment to do something.
     * When someone promises that something will happen, he says that it will definitely happen.
     * Promises are important parts of formal agreements such as covenants.
 
-[See also: **[[:en:key-terms:covenant|covenant]]**]
+[See also: **[[:hi:key-terms:covenant|covenant]]**]
 
 
 ===== Examples from the Bible stories: =====
 
-  ***[[:en:obs:notes:frames:03-15|[03-15]]]** God said, "I **promise** I will never again curse the ground because of the evil things people do, or destroy the world by causing a flood, even though people are sinful from the time they are children.”
-  ***[[:en:obs:notes:frames:03-16|[03-16]]]** God then made the first rainbow as a sign of his **promise**. Every time the rainbow appeared in the sky, God would remember what he **promised** and so would his people.
-  ***[[:en:obs:notes:frames:04-08|[04-08]]]** God spoke to Abram and **promised** again that he would have a son and as many descendants as the stars in the sky. Abram believed God's **promise**.
-  ***[[:en:obs:notes:frames:05-04|[05-04]]]** "Your wife, Sarai, will have a son—he will be the son of **promise**."
-  ***[[:en:obs:notes:frames:08-15|[08-15]]]** The covenant **promises** that God gave to Abraham were passed on to Isaac, then to Jacob, and then to Jacob's twelve sons and their families.
-  ***[[:en:obs:notes:frames:17-14|[17-14]]]** Though David had been unfaithful to God, God was still faithful to his **promises**.
-  ***[[:en:obs:notes:frames:50-01|[50-01]]]** Jesus **promised** he would return at the end of the world. Though he has not yet come back, he will keep his **promise**.
+  ***[[:hi:obs:notes:frames:03-15|[03-15]]]** God said, "I **promise** I will never again curse the ground because of the evil things people do, or destroy the world by causing a flood, even though people are sinful from the time they are children.”
+  ***[[:hi:obs:notes:frames:03-16|[03-16]]]** God then made the first rainbow as a sign of his **promise**. Every time the rainbow appeared in the sky, God would remember what he **promised** and so would his people.
+  ***[[:hi:obs:notes:frames:04-08|[04-08]]]** God spoke to Abram and **promised** again that he would have a son and as many descendants as the stars in the sky. Abram believed God's **promise**.
+  ***[[:hi:obs:notes:frames:05-04|[05-04]]]** "Your wife, Sarai, will have a son—he will be the son of **promise**."
+  ***[[:hi:obs:notes:frames:08-15|[08-15]]]** The covenant **promises** that God gave to Abraham were passed on to Isaac, then to Jacob, and then to Jacob's twelve sons and their families.
+  ***[[:hi:obs:notes:frames:17-14|[17-14]]]** Though David had been unfaithful to God, God was still faithful to his **promises**.
+  ***[[:hi:obs:notes:frames:50-01|[50-01]]]** Jesus **promised** he would return at the end of the world. Though he has not yet come back, he will keep his **promise**.
 
 
 ~~DISCUSSION:off~~
