@@ -1,0 +1,31 @@
+#!/bin/bash
+
+# must be run from en/obs/notes/frames
+
+# get the story
+
+for i in 01 02 03 04 05 06 07 08 09 10 11 12 13
+do 
+	if [ -f ../../obs-training/$i*.txt ]
+	then
+		echo ../../$i*.txt
+
+		cat ../../obs-training/$i*.txt | \
+		grep -v DISCUSSION | \
+		sed 's/01-the-creation/01/g' | \
+		sed 's/02-sin-enters-the-world/02/g' | \
+		sed 's/03-the-flood/03/g' | \
+		sed 's/04-gods-covenant-with-abraham/04/g' | \
+		sed 's/05-the-son-of-promise/05/g' | \
+		sed 's/06-god-provides-for-isaac/06/g' | \
+		sed 's/07-god-blesses-jacob/07/g' | \
+		sed 's/08-god-saves-joseph-and-his-family/08/g' | \
+		sed 's/09-god-calls-moses/09/g' | \
+		sed 's/10-the-ten-plagues/10/g' | \
+		sed 's/11-the-passover/11/g' | \
+		sed 's/12-the-exodus/12/g' | \
+		sed 's/13-gods-covenant-with-israel/13/g' | \
+		sed 's/obs-training/obs\:notes/g' > $i.txt
+	fi
+done
+

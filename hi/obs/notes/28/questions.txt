@@ -1,0 +1,3 @@
+This page has been moved to:
+
+http://door43.org/en/obs-training/questions/28
