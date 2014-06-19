@@ -11,4 +11,4 @@
   * **An enemy must have planted them** - If possible, translate this in a way that indicates that the speaker did not see this happen.
   
 
-**[[:en:obs:notes:frames:50-05|<<]] | [[:en:obs:notes:50|Up]] | [[:en:obs:notes:frames:50-07|>>]]**
+**[[:hi:obs:notes:frames:50-05|<<]] | [[:hi:obs:notes:50|Up]] | [[:hi:obs:notes:frames:50-07|>>]]**
