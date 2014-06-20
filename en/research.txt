@@ -1,0 +1,3 @@
+====== Door43 & Bible Translation Research ======
+
+  * [[:en:research:gateway-languages|Gateway Languages]]
