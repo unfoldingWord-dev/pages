@@ -1,13 +1,17 @@
 ====== Gateway Languages ======
 
 
-The objective of this page is to identify the key "gateway languages" of the world, providing the fewest number of languages where a translation of a training resource would reach through second-language speakers to every living language.
+//The objective of this page is to identify the key "gateway languages" of the world.//
+
+A "gateway language" is a language of wider communication through which second-language speakers of that language can gain access to content and translate it into their own language. The "gateway languages" comprise the smallest number of languages through which content can be delivered to every other language, via translation by bilingual speakers. For example, Hindi is a gateway language for minority languages in Northern India in that content available in Hindi can be translated by bilingual speakers from Hindi into their own languages.
+
+The basic structure looks like this:
 
 **"source text"** -> **"gateway language"** -> **"all languages"**;
 
 
 
-===== Current List of Languages =====
+===== Current List of Gateway Languages =====
 
 
 //Somewhat subjective, based on ongoing research, and excluding English. Note: this is not a list of languages with most speakers, though there is some overlap.// 
