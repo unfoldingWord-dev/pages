@@ -4,11 +4,13 @@
 //
 
 
-Now, my fellow believers, **I want to write** about some other matters. Because we all have a close relationship with the Lord Jesus, we(exc) strongly urge you [DOU] to conduct your lives in a way that pleases God. We taught you to do that, and you know that we did that as a result of what the Lord Jesus **told us to say**. We know that you are conducting your lives that way, but **we strongly urge** that you do that even more.
+Now, my fellow believers, **//I want to write//** about some other matters. Because we all have a close relationship with the Lord Jesus, **we //strongly urge you//** to conduct your lives in a way that pleases God. We taught you to do that, and you know that we did that as a result of what the Lord Jesus **//told us to say//**. We know that you are conducting your lives that way, but **//we strongly urge//** that you do that even more.
 
 ===== Translation Notes: =====
 
 
     * **I want to write** - This is suggested in the Greek.
+    * **we** - this is an exclusive personal plural pronoun.
+    * **strongly urge you** - This is a [[en:ta:figuresofspeech:doublet|doublet]].
     * **told us to say** - This is suggested in the Greek.
     * **we strongly urge** - This is suggested in the Greek.
