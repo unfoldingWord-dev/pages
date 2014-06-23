@@ -1,4 +1,4 @@
-====== Open Bible Stories ($id) ======
+====== Ghi chú ======
+
 
 {{page>$id:obs:stories}}
-
