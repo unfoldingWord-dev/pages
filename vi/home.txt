@@ -8,4 +8,4 @@ Welcome to Door43! Please feel free to [[:vi:home?do=edit|edit]] this page in yo
 
 
     * **[[:vi:obs|Open Bible Stories (vi)]]**
-    * [[http://door43.org/vi/obs|Ghi chú (vi)]]
+    * **[[:obs|Ghi chú (vi)]]**
