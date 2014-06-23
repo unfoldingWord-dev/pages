@@ -1,8 +1,11 @@
 ====== Door43 (vi) ======
 
-Welcome to Door43! Please feel free to [[?do=edit|edit]] this page in your own language. More information about how to get started can be found [[en:get-started|here]].
+
+Welcome to Door43! Please feel free to [[:vi:home?do=edit|edit]] this page in your own language. More information about how to get started can be found [[:en:get-started|here]].
+
 
 ===== Resources =====
 
-  * **[[vi:obs|Open Bible Stories (vi)]]**
 
+    * **[[:vi:obs|Open Bible Stories (vi)]]**
+    * [[http://door43.org/vi/obs|Ghi chú (vi)]]
