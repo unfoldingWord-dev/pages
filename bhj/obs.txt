@@ -1,0 +1,7 @@
+====== Open Bible Stories (bhj) ======
+
+Welcome to Open Bible Stories! Please feel free to translate this page and the stories (including the titles) below. More information on how to get started translating Open Bible Stories is [[en:obs:help|here]], and useful information may also be found at [[en:get-started|"Getting Started"]] and [[en:tips-tricks|"Tips & Tricks"]]. If you need help, [[http://distantshoresmedia.org/contact|just ask]]!
+
+{{page>bhj:obs:stories}}
+
+{{page>en:obs:active}}

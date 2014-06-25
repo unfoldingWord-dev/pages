@@ -3,13 +3,14 @@
 
 **Choose your language:** 
 
-
     * [[:abp:home|Ayta Abellen (abp)]]
     * [[:abs:home|Melayu Ambon (abs)]]
     * [[:aii:home|ܐܬܘܪܝܐ ܣܘܪܝܝܐ (Assyrian, aii)]]
     * [[:am:home|አማርኛ (am)]]
     * [[:ar:home|العربية (ar)]]
+    * [[:arz:home|اللغة المصرية العامية (arz)]]
     * [[:az:home|Azərbaycan dili (az)]]
+    * [[:bhj:home|Bahing (bhj)]]
     * [[:blx:home|Ayta Mag-Indi (blx)]]
     * [[:bnp:home|Bola (bnp)]]
     * [[:cnh:home|Chin, Haka (cnh)]]
@@ -57,11 +58,14 @@
     * [[:tl:home|Wikang Tagalog (tl)]]
     * [[:te:home|తెలుగు (te)]]
     * [[:th:home|ไทย (th)]]
+    * [[:ttt-x-ismai:home|Ismaili (ttt-x-ismai)]]
+    * [[:ttt-x-txizi:home|Xizi (ttt-x-txizi)]]
     * [[:ur:home|اردو (ur)]]
     * [[:vi:home|Tiếng Việt (vi)]]
     * [[:xmf:home|მარგალური (xmf)]]
     * [[:yao:home|Chiyao (yao)]]
     * [[:zh:home|中文 (zh)]]
+    * [[:zmz:home|Mbandja (zmz)]]
 
 
 ----
