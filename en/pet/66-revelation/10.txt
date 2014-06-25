@@ -1,0 +1,21 @@
+<USFM>
+
+\c 10
+\s The angel gives a small scroll to John
+\p
+\v 1 Then I saw another angel who had full authority come down from heaven. That angel was robed in white clouds. A rainbow surrounded his head. His face shone like the sun, and his legs looked like two pillars of fire.
+\v 2 He held a small scroll which was open. His right foot stepped on the sea, while his left foot stepped on the earth.
+\v 3 The angel cried out in a very loud voice— like the sound of a roaring lion. After that the voice of the Almighty spoke from heaven like the sound of thunder.\f + \fr 10:3 \fk voice of the Almighty … \ft Literally, “seven thunders each (let out) rumbling.” There's no information that there's a tradition about 'seven thunders'. So it's quite possible that this is a way of symbolizing the voice of God Himself. (Lihat Ex. 19:16, 19:19, 20:18; Ps. 29:3-9; Heb. 12:18-19.) And from verse 4, it's obvious that this voice uses words that are understood by John. See the note about the meaning of the number seven in Rev.3:1.\f*
+\p
+\v 4 I was just about to write what I heard, but I heard another voice from heaven that said, “Don't write what was said by the voice that was like the sound of thunder. Keep that a secret.”
+\v 5 Then the angel who stepped on the sea and the earth lifted his right hand to the sky
+\v 6-7 and swore like this: “By Him who lives forever— the Lord who created everything, including everything in the heavens, the earth and the sea: God won't delay any longer to do what He has planned! But when the seventh angel blows his trumpet, whatever was foretold by the prophets and God's messengers\f + \fr 10:7 \fk the prophets … God's messengers \ft Literally, “the prophets.” Several times in Revelation TSI uses ‘His messengers’ or ‘God's messengers who prophesy’ to differentiate Jesus' followers who have received the special ability to prophesy from the prophets of the Old Testament time.\f* will happen, and whatever plans of God's are still kept secret from mankind, will become reality.”
+\p
+\v 8 Then the voice which previously came from heaven ordered me, “Go and take the open scroll that's in the hand of the angel who stands on the sea and earth.”
+\p
+\v 9 So I went to the angel and said to him, “Please give me that scroll.” Then the angel said to me, “Take it and eat it. The scroll will taste sweet like honey in your mouth, but will become bitter in your stomach.”
+\v 10 Then when I took the little scroll from his hand and ate it, the scroll was sweet like honey in my mouth, and after I swallowed it my stomach became bitter.
+\v 11 Then the angel said to me, “You have to prophesy about many countries, people groups, languages and kings.”
+
+</USFM>
+~~DISCUSSIONS:on~~
