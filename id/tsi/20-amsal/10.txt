@@ -1,4 +1,167 @@
-<USFM> %%\%%c 10 %%\%%s Ajaran-ajaran bijaksana dari Raja Salomo %%\%%p %%\%%p %%\%%b %%\%%q1 %%\%%v 1 Kalau kamu hidup bijaksana, orang tuamu akan bersukacita, %%\%%q2 tetapi kalau kamu hidup bodoh, mereka akan sedih. %%\%%p %%\%%b %%\%%q1 %%\%%v 2 Kekayaan dari hasil kejahatan tidak akan tahan lama, %%\%%q2 tetapi kalau kamu hidup benar, bisa jadi kamu diselamatkan dari bahaya maut. %%\%%p %%\%%b %%\%%q1 %%\%%v 3 TUHAN tidak biarkan orang yang hidup benar menjadi lapar, %%\%%q2 tetapi Dia tidak izinkan orang-orang jahat terima apa yang mereka inginkan. %%\%%p %%\%%b %%\%%q1 %%\%%v 4 Orang-orang yang malas segera menjadi miskin, %%\%%q2 tapi orang-orang yang rajin lama-kelamaan bisa menjadi kaya. %%\%%p %%\%%b %%\%%q1 %%\%%v 5 Anakku, kalau kamu bijaksana, kamu akan rajin panen pada waktu panen, %%\%%q2 tetapi kalau kamu suka tidur pada waktu panen, nanti kamu akan menjadi malu. %%\%%p %%\%%b %%\%%q1 %%\%%v 6 Semua orang memuji orang-orang yang baik, %%\%%q2 tetapi orang-orang jahat selalu sembunyikan rencana jahat di dalam hati mereka. %%\%%p %%\%%b %%\%%q1 %%\%%v 7 Waktu orang baik meninggal, semua orang ingat kebaikan dia terus, %%\%%q2 tetapi waktu orang jahat mati, namanya gampang dilupakan. %%\%%p %%\%%b %%\%%q1 %%\%%v 8 Orang bijaksana selalu senang terima nasihat, %%\%%q2 tetapi orang bodoh lebih suka bicara daripada dengar dan akhirnya akan kena sengsara. %%\%%p %%\%%b %%\%%q1 %%\%%v 9 Orang yang hidup jujur tidak perlu takut, %%\%%q2 tetapi tukang tipu akan ketahuan. %%\%%p %%\%%b %%\%%q1 %%\%%v 10 Hati-hati terhadap orang yang main mata kepada temannya, karena orang-orang macam itu senang membuat kejahatan. %%\%%q2 Apa lagi kalau dia lebih suka bicara daripada dengar. Dia akan kena sengsara. %%\%%p %%\%%b %%\%%q1 %%\%%v 11 Nasihat dari orang benar adalah seperti sumber air hidup, %%\%%q2 tetapi jangan percaya nasihat dari orang jahat, %%\%%q2 karena dalam hatinya dia sembunyikan rencana jahat. %%\%%p %%\%%b %%\%%q1 %%\%%v 12 Kalau kamu benci orang lain, akibatnya kamu akan selalu bertengkar dengan mereka, %%\%%q2 tetapi kalau kamu mencintai mereka, kamu juga gampang mengampuni mereka. %%\%%p %%\%%b %%\%%q1 %%\%%v 13 Nasihat yang bijaksana terdapat pada orang yang punya pengertian, %%\%%q2 tetapi orang yang kepala batu akan dipukul dengan rotan. %%\%%p %%\%%b %%\%%q1 %%\%%v 14 Orang yang bijaksana menghargai dan simpan pengetahuan, %%\%%q2 tetapi orang yang suka omong terus tanpa pikir akan kena celaka. %%\%%p %%\%%b %%\%%q1 %%\%%v 15 Orang kaya kira, “Saya dilindungi oleh kekayaan saya dan tidak bisa kena susah,” %%\%%q2 tetapi memang orang miskin tidak bisa hindarkan diri dari kesusahan. %%\%%p %%\%%b %%\%%q1 %%\%%v 16 Waktu orang benar dapat uang, itu akan dipakai untuk membahagiakan kehidupannya, %%\%%q2 sedangkan waktu orang berdosa dapat uang, itu dipakai untuk tambah dosa saja. %%\%%p %%\%%b %%\%%q1 %%\%%v 17 Kalau kamu terima nasihat, kamu berjalan di jalan hidup, %%\%%q2 tetapi orang yang yang tutup telinga waktu dengar teguran akan sesat di jalan. %%\%%p %%\%%b %%\%%q1 %%\%%v 18 Kalau kamu benci sesamamu dalam hati dan sembunyikan hal itu, berarti kamu juga sudah menjadi penipu. %%\%%q2 Kalau kamu bawa ceritra palsu tentang orang lian, berarti kamu juga bodoh. %%\%%p %%\%%b %%\%%q1 %%\%%v 19 Semakin banyak kamu berbicara, semakin mungkin kamu akan berdosa, %%\%%q2 tetapi orang bijaksana tahu waktunya untuk tutup mulutnya. %%\%%p %%\%%b %%\%%q1 %%\%%v 20 Perkataan orang benar bagaikan perak asli, %%\%%q2 tetapi apa yang dipikirkan oleh orang bodoh tidak ada nilai. %%\%%p %%\%%b %%\%%q1 %%\%%v 21 Perkataan orang benar dapat memimpin banyak orang. %%\%%q2 Kalau kamu bodoh, itu sama seperti membunuh diri sendiri. %%\%%p %%\%%b %%\%%q1 %%\%%v 22 Berkat dari TUHAN itulah yang mendatangkan kekayaan, %%\%%q2 dan dengan itu Dia tidak menambah kesedihan. %%\%%p %%\%%b %%\%%q1 %%\%%v 23 Orang bodoh suka untuk laksanakan rencana jahat, %%\%%q2 tetapi orang yang punya pengertian senang hidup menurut bijaksana. %%\%%p %%\%%b %%\%%q1 %%\%%v 24 Orang jahat akan ketemu hal-hal yang dia paling takuti, %%\%%q2 sedangkan harapan orang yang hidup benar akan diberikan kepadanya. %%\%%p %%\%%b %%\%%q1 %%\%%v 25 Kalau terjadi angin ribut, orang-orang jahat akan terbawa dan hilang, %%\%%q2 tetapi orang benar mempunyai dasar hidup yang tidak bisa hilang. %%\%%p %%\%%b %%\%%q1 %%\%%v 26 Jangan tugaskan orang yang malas untuk kerjakan sesuatu untukmu. %%\%%q2 Nanti dia menggangu saja, seperti merasa makanan yang terlalu pahit atau asap yang kena mata. %%\%%p %%\%%b %%\%%q1 %%\%%v 27 Kalau kamu mau memperpanjang hidupmu, hiduplah dengan takut kepada TUHAN. %%\%%q2 Orang jahat akan mati sebelum waktunya. %%\%%p %%\%%b %%\%%q1 %%\%%v 28 Orang yang benar bergembira atas pengharapan mereka, %%\%%q2 sedangkan pengharapan orang jahat sia-sia saja. %%\%%p %%\%%b %%\%%q1 %%\%%v 29 Pemerintahan Allah di dunia ini melindungi orang yang hidup jujur, %%\%%q2 tetapi Allah membinasakan orang yang berbuat jahat. %%\%%p %%\%%b %%\%%q1 %%\%%v 30 Kalau terjadi angin ribut, orang yang hidup jujur tidak terombang-ambing, %%\%%q2 tetapi orang jahat tidak diizinkan untuk hidup lama di dunia. %%\%%p %%\%%b %%\%%q1 %%\%%v 31 Kamu akan dengar nasihat yang bijaksana dari mulut orang benar, %%\%%q2 tetapi orang yang lidahnya bercabang dua akan dibinasakan. %%\%%p %%\%%b %%\%%q1 %%\%%v 32 Kata-kata yang menyenangkan hati orang keluar dari mulut orang yang hidup benar, %%\%%q2 tetapi orang jahat menyakiti hati orang lain dengan perkataan. </USFM>
-
-
+<USFM>
+\c 10
+\s Ajaran-ajaran bijaksana dari Raja Salomo
+\p
+\p
+\b
+\q1
+\v 1 Kalau kamu hidup bijaksana, orang tuamu akan bersukacita,
+\q2 tetapi kalau kamu hidup bodoh, mereka akan sedih.
+\p
+\b
+\q1
+\v 2 Kekayaan dari hasil kejahatan tidak akan bertahan lama,
+\q2 tetapi dengan hidup benar, kamu dapat diselamatkan dari bahaya maut.
+\p
+\b
+\q1
+\v 3 TUHAN tidak membiarkan orang yang hidup benar kelaparan,
+\q2 tetapi Dia tidak mengijinkan orang yang jahat menerima apa yang mereka inginkan.
+\p
+\b
+\q1
+\v 4 Orang yang malas segera menjadi miskin,
+\q2 tetapi orang yang rajin yang bekerja keras bisa menjadi kaya.
+\p
+\b
+\q1
+\v 5 Orang yang bijaksana rajin bekerja pada waktu panen,
+\q2 tetapi orang yang malas dan hanya tidur saat orang lain bekerja, mempermalukan dirinya sendiri.
+\p
+\b
+\q1
+\v 6 Orang benar selalu diberkati,
+\q2 tetapi kata-kata orang jahat selalu menyembunyikan maksud yang kejam.
+\p
+\b
+\q1
+\v 7 Waktu orang baik meninggal, semua orang akan terus mengingat kebaikannya,
+\q2 tetapi waktu orang jahat mati, namanya dengan gampang dilupakan.
+\p
+\b
+\q1
+\v 8 Orang bijaksana dengan senang hati menerima nasihat,
+\q2 tetapi orang bodoh lebih suka berbicara daripada mendengar pada akhirnya akan merasakan akibatnya.
+\p
+\b
+\q1
+\v 9 Orang yang hidup jujur tidak perlu takut,
+\q2 tetapi orang yang curang akan ketahuan.
+\p
+\b
+\q1
+\v 10 Hati-hati terhadap orang yang main mata dengan maksud jahat kepada temannya.
+\q2 Apa lagi kalau dia lebih suka bicara daripada mendengar. Dia akan kena sengsara.
+\p
+\b
+\q1
+\v 11 Nasihat dari orang benar adalah seperti sumber air hidup,
+\q2 tetapi jangan percaya nasihat dari orang jahat,
+\q2 karena dalam hatinya dia menyembunyikan rencana jahat.
+\p
+\b
+\q1
+\v 12 Kebencian terhadap orang lain akan mengakibatkan pertengkaran,
+\q2 tetapi dengan kasih, akan mudah untuk saling mengampuni mereka.
+\p
+\b
+\q1
+\v 13 Nasihat yang bijaksana terdapat pada orang yang memiliki pengertian,
+\q2 tetapi orang yang kepala batu akan dipukul dengan rotan.
+\p
+\b
+\q1
+\v 14 Orang yang bijaksana menghargai dan menyimpan pengetahuan,
+\q2 tetapi orang yang suka berbicara tanpa berpikir akan kena celaka.
+\p
+\b
+\q1
+\v 15 Orang kaya kira, “Saya dilindungi oleh kekayaan saya dan tidak bisa kena susah,”
+\q2 tetapi memang orang miskin tidak bisa hindarkan diri dari kesusahan.
+\p
+\b
+\q1
+\v 16 Waktu orang benar dapat uang, itu akan dipakai untuk membahagiakan kehidupannya,
+\q2 sedangkan waktu orang berdosa dapat uang, itu dipakai untuk tambah dosa saja.
+\p
+\b
+\q1
+\v 17 Kalau kamu terima nasihat, kamu berjalan di jalan hidup,
+\q2 tetapi orang yang yang tutup telinga waktu dengar teguran akan sesat di jalan.
+\p
+\b
+\q1
+\v 18 Kalau kamu benci sesamamu dalam hati dan sembunyikan hal itu, berarti kamu juga sudah menjadi penipu.
+\q2 Kalau kamu bawa ceritra palsu tentang orang lian, berarti kamu juga bodoh.
+\p
+\b
+\q1
+\v 19 Semakin banyak kamu berbicara, semakin mungkin kamu akan berdosa,
+\q2 tetapi orang bijaksana tahu waktunya untuk tutup mulutnya.
+\p
+\b
+\q1
+\v 20 Perkataan orang benar bagaikan perak asli,
+\q2 tetapi apa yang dipikirkan oleh orang bodoh tidak ada nilai.
+\p
+\b
+\q1
+\v 21 Perkataan orang benar dapat memimpin banyak orang.
+\q2 Kalau kamu bodoh, itu sama seperti membunuh diri sendiri.
+\p
+\b
+\q1
+\v 22 Berkat dari TUHAN itulah yang mendatangkan kekayaan,
+\q2 dan dengan itu Dia tidak menambah kesedihan.
+\p
+\b
+\q1
+\v 23 Orang bodoh suka untuk laksanakan rencana jahat,
+\q2 tetapi orang yang punya pengertian senang hidup menurut bijaksana.
+\p
+\b
+\q1
+\v 24 Orang jahat akan ketemu hal-hal yang dia paling takuti,
+\q2 sedangkan harapan orang yang hidup benar akan diberikan kepadanya.
+\p
+\b
+\q1
+\v 25 Kalau terjadi angin ribut, orang-orang jahat akan terbawa dan hilang,
+\q2 tetapi orang benar mempunyai dasar hidup yang tidak bisa hilang.
+\p
+\b
+\q1
+\v 26 Jangan tugaskan orang yang malas untuk kerjakan sesuatu untukmu.
+\q2 Nanti dia menggangu saja, seperti merasa makanan yang terlalu pahit atau asap yang kena mata.
+\p
+\b
+\q1
+\v 27 Kalau kamu mau memperpanjang hidupmu, hiduplah dengan takut kepada TUHAN.
+\q2 Orang jahat akan mati sebelum waktunya.
+\p
+\b
+\q1
+\v 28 Orang yang benar bergembira atas pengharapan mereka,
+\q2 sedangkan pengharapan orang jahat sia-sia saja.
+\p
+\b
+\q1
+\v 29 Pemerintahan Allah di dunia ini melindungi orang yang hidup jujur,
+\q2 tetapi Allah membinasakan orang yang berbuat jahat.
+\p
+\b
+\q1
+\v 30 Kalau terjadi angin ribut, orang yang hidup jujur tidak terombang-ambing,
+\q2 tetapi orang jahat tidak diizinkan untuk hidup lama di dunia.
+\p
+\b
+\q1
+\v 31 Kamu akan dengar nasihat yang bijaksana dari mulut orang benar,
+\q2 tetapi orang yang lidahnya bercabang dua akan dibinasakan.
+\p
+\b
+\q1
+\v 32 Kata-kata yang menyenangkan hati orang keluar dari mulut orang yang hidup benar,
+\q2 tetapi orang jahat menyakiti hati orang lain dengan perkataan.
+</USFM>
 ~~DISCUSSIONS:on~~
