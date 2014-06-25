@@ -36,7 +36,7 @@
 \b
 \q1
 \v 7 Waktu orang baik meninggal, semua orang akan terus mengingat kebaikannya,
-\q2 tetapi waktu orang jahat mati, namanya dengan gampang dilupakan.
+\q2 tetapi waktu orang jahat mati, namanya cepat dilupakan.
 \p
 \b
 \q1
@@ -101,7 +101,7 @@
 \p
 \b
 \q1
-\v 20 Perkataan orang benar bagaikan perak asli,
+\v 20 Perkataan orang benar bagaikan perak murni,
 \q2 tetapi apa yang dipikirkan oleh orang bodoh tidak ada nilai.
 \p
 \b
@@ -132,7 +132,7 @@
 \b
 \q1
 \v 26 Jangan tugaskan orang yang malas untuk kerjakan sesuatu untukmu.
-\q2 Nanti dia menggangu saja, seperti merasa makanan yang terlalu pahit atau asap yang kena mata.
+\q2 Nanti dia menggangu saja, seperti rasa makanan yang terlalu asam atau mata terganggu karena asap.
 \p
 \b
 \q1
