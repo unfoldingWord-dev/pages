@@ -21,12 +21,12 @@
 \b
 \q1
 \v 4 Orang yang malas segera menjadi miskin,
-\q2 tetapi orang yang rajin yang bekerja keras bisa menjadi kaya.
+\q2 tetapi orang yang rajin dan bekerja keras bisa menjadi kaya.
 \p
 \b
 \q1
 \v 5 Orang yang bijaksana rajin bekerja pada waktu panen,
-\q2 tetapi orang yang malas dan hanya tidur saat orang lain bekerja, mempermalukan dirinya sendiri.
+\q2 tetapi orang yang malas hanya tidur saat orang lain bekerja, mempermalukan dirinya sendiri.
 \p
 \b
 \q1
@@ -51,7 +51,7 @@
 \b
 \q1
 \v 10 Hati-hati terhadap orang yang main mata dengan maksud jahat kepada temannya.
-\q2 Apa lagi kalau dia lebih suka bicara daripada mendengar. Dia akan kena sengsara.
+\q2 Apa lagi kalau dia lebih suka bicara daripada mendengar. Dia akan sengsara.
 \p
 \b
 \q1
@@ -62,12 +62,12 @@
 \b
 \q1
 \v 12 Kebencian terhadap orang lain akan mengakibatkan pertengkaran,
-\q2 tetapi dengan kasih, akan mudah untuk saling mengampuni mereka.
+\q2 tetapi dengan kasih, akan mudah untuk mengampuni mereka.
 \p
 \b
 \q1
-\v 13 Nasihat yang bijaksana terdapat pada orang yang memiliki pengertian,
-\q2 tetapi orang yang kepala batu akan dipukul dengan rotan.
+\v 13 Orang yang memiliki pengertian memberikan nasihat yang bijaksana,
+\q2 tetapi orang yang kepala batu perlu dihajar dengan rotan.
 \p
 \b
 \q1
@@ -76,28 +76,28 @@
 \p
 \b
 \q1
-\v 15 Orang kaya kira, “Saya dilindungi oleh kekayaan saya dan tidak bisa kena susah,”
-\q2 tetapi memang orang miskin tidak bisa hindarkan diri dari kesusahan.
+\v 15 Orang kaya berpikir kekayaan akan melindungi dirinya dari kesusahan,
+\q2 tetapi orang miskin sudah mengetahui dia tidak dapat menghindar dari kesusahan.
 \p
 \b
 \q1
-\v 16 Waktu orang benar dapat uang, itu akan dipakai untuk membahagiakan kehidupannya,
-\q2 sedangkan waktu orang berdosa dapat uang, itu dipakai untuk tambah dosa saja.
+\v 16 Upah orang benar digunakan untuk membahagiakan kehidupannya,
+\q2 tetapi apa yang dihasilkan orang berdosa membuat dia semakin terjerat dalam dosa.
 \p
 \b
 \q1
-\v 17 Kalau kamu terima nasihat, kamu berjalan di jalan hidup,
-\q2 tetapi orang yang yang tutup telinga waktu dengar teguran akan sesat di jalan.
+\v 17 Kalau kamu terima nasihat, kamu berjalan di jalan kehidupan,
+\q2 tetapi orang yang tidak mau ditegur akan tersesat di jalan.
 \p
 \b
 \q1
-\v 18 Kalau kamu benci sesamamu dalam hati dan sembunyikan hal itu, berarti kamu juga sudah menjadi penipu.
-\q2 Kalau kamu bawa ceritra palsu tentang orang lian, berarti kamu juga bodoh.
+\v 18 Orang yang diam-diam membenci orang lain, sama saja dengan penipu
+\q2 hanya orang bodoh yang menyebarkan berita yang tidak benar.
 \p
 \b
 \q1
-\v 19 Semakin banyak kamu berbicara, semakin mungkin kamu akan berdosa,
-\q2 tetapi orang bijaksana tahu waktunya untuk tutup mulutnya.
+\v 19 Kemungkinan besar orang yang banyak bicara akan jatuh dalam dosa,
+\q2 tetapi orang bijaksana tahu kapan untuk tutup mulut.
 \p
 \b
 \q1
@@ -116,18 +116,18 @@
 \p
 \b
 \q1
-\v 23 Orang bodoh suka untuk laksanakan rencana jahat,
-\q2 tetapi orang yang punya pengertian senang hidup menurut bijaksana.
+\v 23 Orang bodoh suka untuk melaksanakan rencana jahat,
+\q2 tetapi orang yang punya pengertian hidup dengan bijaksana.
 \p
 \b
 \q1
-\v 24 Orang jahat akan ketemu hal-hal yang dia paling takuti,
-\q2 sedangkan harapan orang yang hidup benar akan diberikan kepadanya.
+\v 24 Orang jahat akan hadapai hal-hal yang paling mereka takuti,
+\q2 tetapi harapan orang yang hidup benar akan diberikan kepadanya.
 \p
 \b
 \q1
-\v 25 Kalau terjadi angin ribut, orang-orang jahat akan terbawa dan hilang,
-\q2 tetapi orang benar mempunyai dasar hidup yang tidak bisa hilang.
+\v 25 Kalau terjadi angin ribut, orang jahat akan terbawa dan hilang,
+\q2 tetapi orang benar mempunyai dasar hidup yang kuat.
 \p
 \b
 \q1
@@ -142,7 +142,7 @@
 \b
 \q1
 \v 28 Orang yang benar bergembira atas pengharapan mereka,
-\q2 sedangkan pengharapan orang jahat sia-sia saja.
+\q2 sedangkan pengharapan orang jahat sia-sia.
 \p
 \b
 \q1
@@ -161,7 +161,7 @@
 \p
 \b
 \q1
-\v 32 Kata-kata yang menyenangkan hati orang keluar dari mulut orang yang hidup benar,
-\q2 tetapi orang jahat menyakiti hati orang lain dengan perkataan.
+\v 32 Kata-kata yang menyenangkan hati keluar dari mulut orang yang hidup benar,
+\q2 tetapi perkataan orang jahat menyakiti hati.
 </USFM>
 ~~DISCUSSIONS:on~~
