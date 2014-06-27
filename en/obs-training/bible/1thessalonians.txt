@@ -11,14 +11,14 @@ This book contains 5 chapters.
 ===== Translate 1 Thessalonians =====
 
 
-Click on the links below to translate each frame of the story.
+Click on the links below to translate each chapter of the book.
 
-Chapter 1
+**[[en:obs-training:bible:1thessalonians:chapter1|Chapter 1]]**
 
-Chapter 2
+**[[en:obs-training:bible:1thessalonians:chapter2|Chapter 2]]**
 
-Chapter 3
+**[[en:obs-training:bible:1thessalonians:chapter3|Chapter 3]]**
 
 **[[en:obs-training:bible:1thessalonians:chapter4|Chapter 4]]**
 
-Chapter 5
+**[[en:obs-training:bible:1thessalonians:chapter5|Chapter 5]]**
