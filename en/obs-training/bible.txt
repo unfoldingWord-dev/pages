@@ -1,0 +1,12 @@
+~~NOCACHE~~
+----
+
+**Bible Translation Training**
+
+=== Old Testament ===
+
+
+=== New Testament ===
+
+[[en:obs-training:bible:1thessalonians|1 Thesslonians]]\\
+[[en:obs-training:bible:2thessalonians|2 Thesslonians]]
