@@ -2,7 +2,7 @@
 
 Chapter 1 can be divided into three sections. Click on a link to translate a section of Chapter 1.
 
-**I. [[en:obs-training:bible:1thessalonians:chapter1:verse1|Greeting 1.1]]**  Summary: //I, Paul, greet you believers who are in Thessalonica.// \\
+**I. [[en:obs-training:bible:1thessalonians:chapter1:verse1|Greeting (1.1)]]**  Summary: //I, Paul, greet you believers who are in Thessalonica.// \\
   * Paul (with Silas and Timothy) writes to the Thessalonians.
   * Paul wishes “grace and peace” to the Thessalonians.
 
@@ -20,4 +20,3 @@ Chapter 1 can be divided into three sections. Click on a link to translate a sec
   - The Thessalonians have become imitators of Paul and Christ.
   - The word of their faith has now spread all over Greece. 
   - People report to Paul that they have heard how the Thessalonians have turned from idols to the “living god.”
-
