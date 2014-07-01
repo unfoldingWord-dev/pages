@@ -1,19 +1,4 @@
-======Concerning the Theme Statements======
-In this translation, the theme statements precede each paragraph. They summarize the thematic content of that paragraph, reflecting the most prominent ideas in that paragraph. The translator should use the theme statements to make sure that the reader understands the most important parts of that paragraph. For example, a translator could rephrase the theme statement as a question to ask during a comprehension check. If the reader/listener has clearly understood the essential focus of the passage, he should be able to make an equivalent theme statement.\\
-
-Example: A Translation for Translators has the following theme statement for Mark 2:1-12: **//“By healing a paralyzed man Jesus demonstrated his authority to forgive sins as well as to heal.”//** Compare this theme statement with the section heading in the New Living Translation “Jesus heals a paralyzed man” or in the Jerusalem Bible “Cure of a paralytic”.\\
-
-The theme statements in this translation are not the same as the section headings that are included in most translations today.\\
-
-Section headings in most translations often include more than one paragraph. They focus on a word, person or event mentioned in the section. These usually do not reflect the thematic focus of the section. It is my hope that the theme statements will help translators to write clear and accurate headings in the translation. But some may want to write theme statements similar to those in this translation instead of short heading that most translations use.\\
-
-Translators who want to include section headings should carefully consider what to write in such headings. They should also consider where they want section headings to occur. Although there is a theme statement for every paragraph in this translation, a translator must choose where to include a section heading. For example, in A Translation for Translators, the letter to Philemon has nine theme statements. A translator may choose to have fewer section headings. If a translator includes several paragraphs in a section, the heading he writes should reflect the themes of those paragraphs.\\
-
-A translator will also need to decide how to present the section heading. In some English translations, section headings are not complete sentences. The translator should present the section headings in the grammatical form that the speakers of the language prefer.\\
-
-Observe that the theme statements do not necessarily use the simplified language that is found in the translation.
-
-====Conventions that have been used====
+======Conventions That Have Been Used======
 
 Sometimes two exegetical alternatives are noted—places where there are differences in meaning that are well supported in commentaries. In such cases the second alternative, in parentheses, is introduced by 'OR'. The author recommends the first alternative.\\
 
@@ -27,23 +12,23 @@ All first person plural pronouns are to be considered inclusive unless otherwise
 
 In this translation, we have indicated the agent of the action wherever a passive construction occurs. We have written in italics the words '**//by//**______' to indicate the agent, if it is implicit. Translators who choose to use a passive construction in their translation will need to use their natural idiom and translate a reference to the agent in those places they consider it useful.\\
 
-We have identified the different figures of speech where each occurs in the text, but these symbols are hidden in the data-file.
-[APO] = apostrophe\\
-[CHI] = chiasmus\\
-[DOU] = doublet\\
-[EUP] = euphemism\\
-[HEN] = hendiadys\\
-[HYP] = hyperbole\\
-[IDM] = idiom\\
-[IRO] = irony\\
-[LIT] = litotes\\
+We have identified the different figures of speech where each occurs in the text, but these symbols are hidden in the data-file.\\
+**[[:en:obs-training:bible:t4t:conventions:APO|[APO] = apostrophe]]**\\
+**[[:en:obs-training:bible:t4t:conventions:CHI|[CHI] = chiasmus]]**\\
+**[[:en:obs-training:bible:t4t:conventions:DOU|[DOU] = doublet]]**\\
+**[[:en:obs-training:bible:t4t:conventions:EUP|[EUP] = euphemism]]**\\
+**[[:en:obs-training:bible:t4t:conventions:HEN|[HEN] = hendiadys]]**\\
+**[[:en:obs-training:bible:t4t:conventions:HYP|[HYP] = hyperbole]]**\\
+**[[:en:obs-training:bible:t4t:conventions:IDM|[IDM] = idiom]]**\\
+**[[:en:obs-training:bible:t4t:conventions:IRO|[IRO] = irony]]**\\
+**[[:en:obs-training:bible:t4t:conventions:LIT|[LIT] = litotes]]**\\
 **[[:en:obs-training:bible:t4t:conventions:MET|[MET] = metaphor]]**\\
 **[[:en:obs-training:bible:t4t:conventions:MTY|[MTY] = metonymy]]**\\
-[PRS] = personification\\
-[RHQ] = rhetorical question\\
-[SIM] = simile\\
-[SYM] = symbol\\
-[SAR] = sarcasm\\
-[SYN] = synecdoche\\
-[TRI] = triple\\
+**[[:en:obs-training:bible:t4t:conventions:PRS|[PRS] = personification]]**\\
+**[[:en:obs-training:bible:t4t:conventions:RHQ|[RHQ] = rhetorical question]]**\\
+**[[:en:obs-training:bible:t4t:conventions:SIM|[SIM] = simile]]**\\
+**[[:en:obs-training:bible:t4t:conventions:SYM|[SYM] = symbol]]**\\
+**[[:en:obs-training:bible:t4t:conventions:SAR|[SAR] = sarcasm]]**\\
+**[[:en:obs-training:bible:t4t:conventions:SYN|[SYN] = synecdoche]]**\\
+**[[:en:obs-training:bible:t4t:conventions:TRI|[TRI] = triple]]**\\
 
