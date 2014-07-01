@@ -15,7 +15,7 @@ Summary: //I, Paul, greet you believers who are in Thessalonica.//
     * **believers**- This is suggested in the Greek.
     * **We (inc)**  - this is an inclusive personal plural pronoun.
     * **(Or, trust in)**- a word meaning worship or trust in can be used in this sentence.
-    * **God our Father (MET)**  - this is a [[:en:ta:figuresofspeech:metonymy|Metonymy]] figure of speech.
+    * **God our Father (MET)**  - this is a [[:en:obs-training:bible:t4t:conventions:MET|Metaphor]] figure of speech.
 
 
 
