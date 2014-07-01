@@ -1,0 +1,49 @@
+======Concerning the Theme Statements======
+In this translation, the theme statements precede each paragraph. They summarize the thematic content of that paragraph, reflecting the most prominent ideas in that paragraph. The translator should use the theme statements to make sure that the reader understands the most important parts of that paragraph. For example, a translator could rephrase the theme statement as a question to ask during a comprehension check. If the reader/listener has clearly understood the essential focus of the passage, he should be able to make an equivalent theme statement.\\
+
+Example: A Translation for Translators has the following theme statement for Mark 2:1-12: **//“By healing a paralyzed man Jesus demonstrated his authority to forgive sins as well as to heal.”//** Compare this theme statement with the section heading in the New Living Translation “Jesus heals a paralyzed man” or in the Jerusalem Bible “Cure of a paralytic”.\\
+
+The theme statements in this translation are not the same as the section headings that are included in most translations today.\\
+
+Section headings in most translations often include more than one paragraph. They focus on a word, person or event mentioned in the section. These usually do not reflect the thematic focus of the section. It is my hope that the theme statements will help translators to write clear and accurate headings in the translation. But some may want to write theme statements similar to those in this translation instead of short heading that most translations use.\\
+
+Translators who want to include section headings should carefully consider what to write in such headings. They should also consider where they want section headings to occur. Although there is a theme statement for every paragraph in this translation, a translator must choose where to include a section heading. For example, in A Translation for Translators, the letter to Philemon has nine theme statements. A translator may choose to have fewer section headings. If a translator includes several paragraphs in a section, the heading he writes should reflect the themes of those paragraphs.\\
+
+A translator will also need to decide how to present the section heading. In some English translations, section headings are not complete sentences. The translator should present the section headings in the grammatical form that the speakers of the language prefer.\\
+
+Observe that the theme statements do not necessarily use the simplified language that is found in the translation.
+
+====Conventions that have been used====
+
+Sometimes two exegetical alternatives are noted—places where there are differences in meaning that are well supported in commentaries. In such cases the second alternative, in parentheses, is introduced by 'OR'. The author recommends the first alternative.\\
+
+Sometimes lexical alternatives—where the meaning is perhaps only slightly different or can be expressed in a clearer way—are given and separated by a slash line. We have tried to indicate the beginning of an alternative by a '◄' and the ending of each alternative by a '►'.\\
+
+Alternatives which are embedded in another alternative are encased by '<' and '>'.\\
+
+For each rhetorical question there is given, usually first, a rendering in a non-question form, and then one using a question form.\\
+
+All first person plural pronouns are to be considered inclusive unless otherwise marked by '(exc)'. All second person pronouns are to be considered plural unless otherwise marked as '(sg)'.\\
+
+In this translation, we have indicated the agent of the action wherever a passive construction occurs. We have written in italics the words '**//by//**______' to indicate the agent, if it is implicit. Translators who choose to use a passive construction in their translation will need to use their natural idiom and translate a reference to the agent in those places they consider it useful.\\
+
+We have identified the different figures of speech where each occurs in the text, but these symbols are hidden in the data-file.
+[APO] = apostrophe\\
+[CHI] = chiasmus\\
+[DOU] = doublet\\
+[EUP] = euphemism\\
+[HEN] = hendiadys\\
+[HYP] = hyperbole\\
+[IDM] = idiom\\
+[IRO] = irony\\
+[LIT] = litotes\\
+**[[:en:obs-training:bible:t4t:conventions:MET|[MET] = metaphor]]**\\
+**[[:en:obs-training:bible:t4t:conventions:MTY|[MTY] = metonymy]]**\\
+[PRS] = personification\\
+[RHQ] = rhetorical question\\
+[SIM] = simile\\
+[SYM] = symbol\\
+[SAR] = sarcasm\\
+[SYN] = synecdoche\\
+[TRI] = triple\\
+
