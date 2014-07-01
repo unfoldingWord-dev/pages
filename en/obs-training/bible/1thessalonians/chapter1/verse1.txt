@@ -1,4 +1,4 @@
-===== 1 Thessalonians 1:1 =====
+====== 1 Thessalonians 1:1 ======
 
 
 Summary: //I, Paul, greet you believers who are in Thessalonica.// 
@@ -17,8 +17,10 @@ Summary: //I, Paul, greet you believers who are in Thessalonica.//
     * **(Or, trust in)**- a word meaning worship or trust in can be used in this sentence.
     * **God our Father (MET)**  - this is a [[:en:ta:figuresofspeech:metonymy|Metonymy]] figure of speech.
 
-====Translation Notes:====
 
-====Checking Questions:====
+
+=====Checking Questions:=====
+
+
 
 ** [[:en:obs-training:bible:1thessalonians:chapter1|Up]] | [[:en:obs-training:bible:1thessalonians:chapter1:verse2-4|>>]]**
