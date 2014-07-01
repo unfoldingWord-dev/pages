@@ -3,29 +3,23 @@
 
 Summary: //I, Paul, greet you believers who are in Thessalonica.// 
 
-**1** From Paul and Silvanus and Timothy, to the church of the Thessalnians in God the Father and the Lord Jesus Christ. Grace and peace to you! (NET)\\
 
-Here is the passage expanded to help the translator. The words in italic bold
-
-**1** **//I//**, Paul, **//am writing this letter//**. Silas and Timothy **//are with me//**. **//We (exc) are sending this letter//** to **//you who are//** the congregation of **//believers//** in Thessalonica **//city//**. **We**  (inc) all worship (OR, trust in) God our Father [MET] and our Lord Jesus Christ. We three desire/pray that God, our Father, and Jesus Christ, our Lord, will continue to act kindly toward you and will continue to cause you to have inner peace. (TFT)\\
+**1** From Paul and Silvanus and Timothy, to the church of the Thessalonians in God the Father and the Lord Jesus Christ. Grace and peace to you! (NET)
 
 
+Here is the passage expanded to help the translator. The italic bold words indicate what the original writer intended to convey.
+
+
+**1** **//I//**, Paul, **//am writing this letter//**. Silas and Timothy **//are with me//**. **//We//**(exc) **//are sending this letter//**to **//you who are//**the congregation **//of believers//**in Thessalonica **//city//**. **We** (inc) all **//worship//**(OR, trust in) God **//our//**Father [MET] and **//our//**Lord Jesus Christ. **//We three desire/pray that God, our Father, and Jesus Christ, our Lord, will continue to//**act kindly toward you and **//will continue to//**cause you to have **//inner//**peace. (TFT)
 ===== Translation Notes: =====
 
 
-    * **am writing this letter**- This is suggested in the Greek.
-    * **are with me**- This is suggested in the Greek.
-    * **We (exc)**- this is an exclusive personal plural pronoun.
-    * **you who are**- This is suggested in the Greek.
-    * **believers**- This is suggested in the Greek.
-    * **We (inc)**  - this is an inclusive personal plural pronoun.
-    * **(Or, trust in)**- a word meaning worship or trust in can be used in this sentence.
-    * **God our Father (MET)**  - this is a [[:en:obs-training:bible:t4t:conventions:MET|Metaphor]] figure of speech.
+    * **We (exc)**  - This is an //exclusive personal plural pronoun//.An exclusive first person plural pronoun excludes the person being spoken to. Here the word 'we' refers just to Paul, Silvanus and Timothy.
+    * **We (inc)**  - This is an inclusive personal plural pronoun.
+    * **worship (Or, trust in)**- A word meaning worship or trust in can be used in this sentence.
+    * **God our Father [MET]**  - this is a **[[:en:obs-training:bible:t4t:conventions:met|Metaphor]]** figure of speech.
+    * **desire/pray**  - Either meaning can be expressed here.
+===== Checking Questions: =====
 
 
-
-=====Checking Questions:=====
-
-
-
-** [[:en:obs-training:bible:1thessalonians:chapter1|Up]] | [[:en:obs-training:bible:1thessalonians:chapter1:verse2-4|>>]]**
+**[[:en:obs-training:bible:1thessalonians:chapter1|Up]] | [[:en:obs-training:bible:1thessalonians:chapter1:verse2-4|>>]]**

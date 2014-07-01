@@ -1,0 +1,13 @@
+======Distinguishing Features======
+
+===The distinguishing features of the TFT translation are:===
+  * Short sentences
+  * Clear connections between clauses and sentences
+  * Sometimes clause order is reversed to reflect more clearly the chronological or logical order
+  * All abstract nouns are made into full clauses
+  * Most passive constructions have an active form and a passive form supplied
+  * Most rhetorical questions have both a question form and a non-question form supplied
+  * All figures of speech that we have been able to identify are stated non-figuratively
+  * Simple vocabulary is used wherever possible
+  * Words are always used in their primary sense
+  * The implicit information that is deemed necessary to understand what the original writer intended to convey is supplied in **//italics//**. Users can identify it easily and decide after checking whether it is needed in that receptor language.
