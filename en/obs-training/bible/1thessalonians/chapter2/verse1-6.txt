@@ -7,7 +7,7 @@
 Summary: //You and God know that it is true that we behaved in a very virtuous, upright, and irreproachable manner toward you. // 
 
 
-1 My fellow believers, you know that our time with you was very worthwhile/effective [LIT].
+1 My fellow believers, you know that our time with you was very **worthwhile/effective**.
 
 
 2 Although people in Philippi city previously mistreated us(exc) and insulted us, as you know, our God caused us to be courageous. As a result, we told you the good message that originates/comes from God, even though some people in your city also strongly ◄opposed us/tried to prevent us from telling God's message►.
@@ -26,6 +26,18 @@ Summary: //You and God know that it is true that we behaved in a very virtuous, 
 
 
 ===== Translation Notes: =====
+
+**Verse 1**
+  * **worthwhile/effective** - In this example of **[[en:obs-training:bible:t4t:conventions:lit|litotes]]**, Paul emphasized that his visit with them was very successful by saying that it was not a failure.
+
+**Verse 2**
+
+**Verse 3**
+
+**Verse 4**
+
+**Verse 5**
+
 
 
 ===== Checking Questions: =====
