@@ -4,7 +4,13 @@
 {{:en:obs:obs-02-04.jpg?nolink&640x360}}
 
 
-Con rắn **trả lời**- “Điều đó không **[[:vi:key-terms:true|đúng]]**! Hai ngươi sẽ chẳng **[[:vi:key-terms:death|chết]]** đâu. Chỉ là **[[:vi:key-terms:god|Đức Chúa Trời]]** biết khi hai ngươi ăn trái của cây đó thì sẽ **giống như Ngài**, cũng sẽ **nhận biết được [[:vi:key-terms:good|điều thiện]] và [[:vi:key-terms:evil|điều ác]]**.” 
+===== Điều khoản quan trọng: =====
+
+  * **[[:vi:key-terms:true|đúng]]**
+  * **[[:vi:key-terms:death|chết]]**
+  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
+  * **[[:vi:key-terms:good|điều thiện]]**
+  * **[[:vi:key-terms:evil|điều ác]]**
 
 
 ===== Phụ chú: =====

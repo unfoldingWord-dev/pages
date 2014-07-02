@@ -4,7 +4,12 @@
 {{:en:obs:obs-02-03.jpg?nolink&640x360}}
 
 
-Người nữ trả lời- “Chúng tôi được phép ăn **trái** của tất cả các loại cây trong vườn, trừ phần trái của **cây biết [[:vi:key-terms:good|điều thiện]] và [[:vi:key-terms:evil|điều ác]]**. **[[:vi:key-terms:god|Đức Chúa Trời]]** có phán rằng- “Các ngươi không được ăn; cũng không được đụng đến nó, nếu không các **ngươi sẽ [[:vi:key-terms:death|chết]]**.”
+===== Điều khoản quan trọng: =====
+
+  * **[[:vi:key-terms:good|điều thiện]]**
+  * **[[:vi:key-terms:evil|điều ác]]**
+  * **[[:vi:key-terms:god|Đức Chúa Trời]]**
+  * **[[:vi:key-terms:death|chết]]**
 
 
 ===== Phụ chú: =====

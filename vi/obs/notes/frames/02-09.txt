@@ -4,14 +4,14 @@
 {{:en:obs:obs-02-09.jpg?nolink&640x360}}
 
 
-===== Important Terms: =====
+===== Điều khoản quan trọng: =====
 
   * **[[:vi:key-terms:god|God]]**
   * **[[:vi:key-terms:curse|cursed]]**
-  * ** [[:vi:key-terms:descendant|descendant]]**
+  * **[[:vi:key-terms:descendant|descendant]]**
 
 
-==== Translation Notes: ====
+===== Phụ chú: =====
 
 
     * **you are cursed**  - This could also be translated as, “I curse you” or, “Great harm will come to you.” Do not use a word that implies magic.
