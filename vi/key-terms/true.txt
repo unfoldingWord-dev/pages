@@ -1,7 +1,7 @@
-====== true ======
+====== truth ======
 
 
-=== (true, truth, truly) ===
+==== (truth, true, truly) ====
 
 
 ===== Definition: =====
@@ -16,8 +16,11 @@ Something that is "true" matches or conforms to how things really are. "True" th
 
 ===== Examples from the Bible stories: =====
 
-  ***[02-04]** The snake responded to the woman, "That is not **true**! You will not die."
-  ***[14-06]** Immediately Caleb and Joshua, the other two spies, said, "It is **true ** that the people of Canaan are tall and strong, but we can certainly defeat them!"
-  ***[16-01]** The Israelites began to worship the Canaanite gods instead of Yahweh, the **true ** God.
-  ***[31-08]** They worshiped Jesus, saying to him, “**Truly**, you are the Son of God.” 
-  ***[39-10]** "But I have come to earth to tell the **truth** about God. Everyone who loves the **truth** listens to me.” Pilate said, “What is **truth**?"
+  ***[[:vi:obs:notes:frames:02-04|[02-04]]]** The snake responded to the woman, "That is not **true**! You will not die."
+  ***[[:vi:obs:notes:frames:14-06|[14-06]]]** Immediately Caleb and Joshua, the other two spies, said, "It is **true ** that the people of Canaan are tall and strong, but we can certainly defeat them!"
+  ***[[:vi:obs:notes:frames:16-01|[16-01]]]** The Israelites began to worship the Canaanite gods instead of Yahweh, the **true ** God.
+  ***[[:vi:obs:notes:frames:31-08|[31-08]]]** They worshiped Jesus, saying to him, “**Truly**, you are the Son of God.” 
+  ***[[:vi:obs:notes:frames:39-10|[39-10]]]** "I have come to earth to tell the **truth** about God. Everyone who loves the **truth** listens to me.” Pilate said, “What is **truth**?"
+
+
+~~DISCUSSION:off~~

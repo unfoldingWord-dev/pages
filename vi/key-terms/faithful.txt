@@ -22,9 +22,14 @@ The opposite of "faithful" is "unfaithful."
 
 ===== Examples from the Bible stories: =====
 
-  ***[08-05]** Even in prison, Joseph remained **faithful** to God, and God blessed him.
-  ***[14-12]** God was still **faithful** to His promises to Abraham, Isaac, and Jacob.
-  ***[15-13]** The people promised to remain **faithful** to God and follow his laws.
-  ***[17-09]**  David ruled with justice and **faithfulness** for many years, and God blessed him. However, toward the end of his life he sinned terribly before God.
-  ***[18-04]** God was angry with Solomon and, as a punishment for Solomon’s **unfaithfulness**, he promised to divide the kingdom of Israel in two after Solomon’s death.
-  ***[49-17]** But God says if you confess your sins, he is **faithful** and will forgive you and will give you strength to fight against sin.
+  ***[[:vi:obs:notes:frames:08-05|[08-05]]]** Even in prison, Joseph remained **faithful** to God, and God blessed him.
+  ***[[:vi:obs:notes:frames:14-12|[14-12]]]** Even so, God was still **faithful** to His promises to Abraham, Isaac, and Jacob.
+  ***[[:vi:obs:notes:frames:15-13|[15-13]]]** The people promised to remain **faithful** to God and follow his laws.
+  ***[[:vi:obs:notes:frames:17-09|[17-09]]]**  David ruled with justice and **faithfulness** for many years, and God blessed him. However, toward the end of his life he sinned terribly against God.
+  ***[[:vi:obs:notes:frames:18-04|[18-04]]]** God was angry with Solomon and, as a punishment for Solomon’s **unfaithfulness**, he promised to divide the nation of Israel into two kingdoms after Solomon’s death.
+  ***[[:vi:obs:notes:frames:35-12|[35-12]]]** “The older son said to his father, ‘All these years I have worked **faithfully** for you!”
+  ***[[:vi:obs:notes:frames:49-17|[49-17]]]** But God is **faithful** and says that if you confess your sins, he will forgive you. 
+  ***[[:vi:obs:notes:frames:50-04|[50-04]]]** If you remain **faithful** to me to the end, then God will save you.”
+
+
+~~DISCUSSION:off~~

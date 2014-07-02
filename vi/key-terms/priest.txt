@@ -3,7 +3,7 @@
 
 ===== Definition: =====
 
-A priest is a person with the special job of intermediary, or standing between, God and his people. God chose Aaron and his descendants to be His priests for the people of Israel. They did many different things, including:
+A priest is a person with the special job of intermediary, or standing between, God and his people. God chose Aaron and his descendants to be his priests for the people of Israel. They did many different things, including:
 
 
   * Priests presented people's offerings to God.
@@ -13,10 +13,14 @@ A priest is a person with the special job of intermediary, or standing between, 
 
 "Priest" could be translated as "intermediary," "mediator," "middle-man" or "sacrificer." Besides God's priests, there were also other priests who presented offerings to false gods such as Baal.
 
+[See also: **[[:vi:key-terms:aaron|Aaron]]**, **[[:vi:key-terms:sacrifice|sacrifice]]**] 
 
 ===== Examples from the Bible stories: =====
 
-  ***[04-07]** "Melchizedek, the **priest** of God Most High" \\ 
-  ***[13-09]** Anyone who disobeyed God’s law could bring an animal to the Tent of Meeting as a sacrifice to God. A **priest** would kill the animal and burn it on the altar. The blood of the sacrifice covered the person’s sin and made that person clean in God’s sight. God chose Moses' brother, Aaron, and his descendants to be his **priests**.
-  ***[19-07]** So the **priests** of Baal prepared a sacrifice but did not light the fire.
-  ***[21-07]** A **priest** is someone who makes sacrifices to God on behalf of the people to take away their sins. **Priests** also pray to God for the people.
+  ***[[:vi:obs:notes:frames:04-07|[04-07]]]** "Melchizedek, the **priest** of God Most High" \\ 
+  ***[[:vi:obs:notes:frames:13-09|[13-09]]]** Anyone who disobeyed God’s law could bring an animal to the altar in front of the Tent of Meeting as a sacrifice to God. A **priest** would kill the animal and burn it on the altar. The blood of the animal that was sacrificed covered the person’s sin and made that person clean in God's sight. God chose Moses' brother, Aaron, and Aaron’s descendants to be his **priests**.
+  ***[[:vi:obs:notes:frames:19-07|[19-07]]]** So the **priests** of Baal prepared a sacrifice but did not light the fire.
+  ***[[:vi:obs:notes:frames:21-07|[21-07]]]** An Israelite **priest** was someone who made sacrifices to God on behalf of the people as a substitute for the punishment of their sins. **Priests** also prayed to God for the people. 
+
+
+~~DISCUSSION:off~~
