@@ -1,9 +1,9 @@
 ======Links to the books of the Bible:======
 
 Door43 uses the Translation For Translators (written and provided copyright free by Ellis W. Deibler, Jr. ).\\
-A statement about the Themes is **[[en:obs-training:bible:t4t:themestatements|here]]**. \\
-The description of the conventions used in the translation is **[[en:obs-training:bible:t4t:conventions:home|here]]**.\\
-Reasons why the Translation for Translators version is used on this site are because of the design of its **[[en:obs-training:bible:t4t:distinguishingfeatures|distinquishing features]]**.
+Click the link to read a statement about the formatting of the Translation for Translators (TFT) **[[en:obs-training:bible:t4t:themestatements|themes]]**. \\
+See the **[[en:obs-training:bible:t4t:conventions:home|description]]** of the markings used in the Translation for Translators (TFT) text.\\
+Reasons why the Translation for Translators (TFT) version is used on this site are because of the design of its **[[en:obs-training:bible:t4t:distinguishingfeatures|distinquishing features]]**.
 
 
 === Old Testament ===
