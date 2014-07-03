@@ -4,15 +4,27 @@
 {{:en:obs:obs-13-07.jpg?nolink&640x360}}
 
 
-Then **[[:vi:key-terms:god|God]]** wrote **these [[:vi:key-terms:ten-commandments|Ten Commandments]]** on two **stone tablets**  and gave them to **[[:vi:key-terms:moses|Moses]]**. **God also gave**  many other **[[:vi:key-terms:gods-law|laws]]** and rules **to follow**. If the people **[[:vi:key-terms:obey|obeyed]]** these laws, God **[[:vi:key-terms:promise|promised]]** that he would **[[:vi:key-terms:bless|bless]]** and protect them. If they **[[:vi:key-terms:disobey|disobeyed]]** them, God would **[[:vi:key-terms:punish|punish]] them**.
+===== Điều khoản quan trọng: =====
 
 
-==== Translation Notes: ====
+  * **[[:vi:key-terms:god|God]]**
+  * **[[:vi:key-terms:ten-commandments|Ten Commandments]]**
+  * **[[:vi:key-terms:moses|Moses]]**
+  * **[[:vi:key-terms:gods-law|laws]]**
+  * **[[:vi:key-terms:obey|obeyed]]**
+  * **[[:vi:key-terms:promise|promised]]**
+  * **[[:vi:key-terms:bless|bless]]**
+  * **[[:vi:key-terms:disobey|disobeyed]]**
+  * **[[:vi:key-terms:punish|punish]]**
 
 
-    * **these Ten Commandments**  - This refers to the commands God gave to Moses for the Israelites to obey. They are listed in frames **[[:vi:obs:notes:frames:13-05|[13-05]]]** and **[[:vi:obs:notes:frames:13-06|[13-06]]]**.
-    * **stone tablets**  - These were flat pieces of stone.
-    * **God also gave**  - This can be translated as, “God also told them.”
-    * **to follow**  - This can be translated as, “that they must obey” or, “that they must keep.”
+===== Phụ chú: =====
+
+
+  * **these Ten Commandments** - This refers to the commands God gave to Moses for the Israelites to obey. They are listed in frames **[[:vi:obs:notes:frames:13-05|[13-05]]]** and **[[:vi:obs:notes:frames:13-06|[13-06]]]**.
+  * **stone tablets** - These were flat pieces of stone.
+  * **God also gave** - This can be translated as, “God also told them.”
+  * **to follow** - This can be translated as, “that they must obey” or, “that they must keep.”
+
 
 **[[:vi:obs:notes:frames:13-06|<<]] | [[:vi:obs:notes:13|Up]] | [[:vi:obs:notes:frames:13-08|>>]]**

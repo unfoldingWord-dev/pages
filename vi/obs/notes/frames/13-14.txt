@@ -4,14 +4,20 @@
 {{:en:obs:obs-13-14.jpg?nolink&640x360}}
 
 
-Then **[[:vi:key-terms:moses|Moses]] beat the [[:vi:key-terms:idol|idol]] into powder**, threw the powder into some water and made the people drink the water. **[[:vi:key-terms:god|God]]** sent **a plague**  on the people and many of them died.
+===== Điều khoản quan trọng: =====
 
 
-==== Translation Notes: ====
+  * **[[:vi:key-terms:moses|Moses]]**
+  * **[[:vi:key-terms:idol|idol]]**
+  * **[[:vi:key-terms:god|God]]**
 
 
-    * **beat the idol into powder**  - Moses utterly destroyed the idol by pounding it into fine particles.
-    * **into some water**  - Moses scattered the gold powder over a large expanse of water.
-    * **a plague**  - This could be translated as, “a terrible disease.”
+===== Phụ chú: =====
+
+
+  * **beat the idol into powder** - Moses utterly destroyed the idol by pounding it into fine particles.
+  * **into some water** - Moses scattered the gold powder over a large expanse of water.
+  * **a plague** - This could be translated as, “a terrible disease.”
+
 
 **[[:vi:obs:notes:frames:13-13|<<]] | [[:vi:obs:notes:13|Up]] | [[:vi:obs:notes:frames:13-15|>>]]**

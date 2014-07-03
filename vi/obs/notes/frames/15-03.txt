@@ -4,14 +4,23 @@
 {{:en:obs:obs-15-03.jpg?nolink&640x360}}
 
 
-**After the people crossed the [[:vi:key-terms:jordan-river|Jordan River]]**, **[[:vi:key-terms:god|God]]** told **[[:vi:key-terms:joshua|Joshua]] how to attack**the powerful city of **[[:vi:key-terms:jericho|Jericho]]**. The people **[[:vi:key-terms:obey|obeyed]]** God. Just as God told them to do, the soldiers and **[[:vi:key-terms:priest|priests]]** marched around the city of Jericho **once a day for six days**.
+===== Điều khoản quan trọng: =====
 
 
-==== Translation Notes: ====
+  * **[[:vi:key-terms:jordan-river|Jordan River]]**
+  * **[[:vi:key-terms:god|God]]**
+  * **[[:vi:key-terms:joshua|Joshua]]**
+  * **[[:vi:key-terms:jericho|Jericho]]**
+  * **[[:vi:key-terms:obey|obeyed]]**
+  * **[[:vi:key-terms:priest|priests]]**
 
 
-    * **After the people crossed the Jordan River**  – In some languages it is better to say, “The people crossed the Jordan River and then…”
-    * **how to attack**  – This could be translated as, “exactly what he should do to attack.”
-    * **once a day for six days**  - That is, they went around the city one time every day for a total of six days.
+===== Phụ chú: =====
+
+
+  * **After the people crossed the Jordan River** – In some languages it is better to say, “The people crossed the Jordan River and then…”
+  * **how to attack** – This could be translated as, “exactly what he should do to attack.”
+  * **once a day for six days** - That is, they went around the city one time every day for a total of six days.
+
 
 **[[:vi:obs:notes:frames:15-02|<<]] | [[:vi:obs:notes:15|Up]] | [[:vi:obs:notes:frames:15-04|>>]]**

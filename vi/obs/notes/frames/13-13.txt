@@ -4,12 +4,19 @@
 {{:en:obs:obs-13-13.jpg?nolink&640x360}}
 
 
-When **[[:vi:key-terms:moses|Moses]]** came down the mountain and saw the **[[:vi:key-terms:idol|idol]]**, he was so angry that he **smashed the stones**  on which **[[:vi:key-terms:god|God]]** had written the **[[:vi:key-terms:ten-commandments|Ten Commandments]]**.
+===== Điều khoản quan trọng: =====
 
 
-==== Translation Notes: ====
+  * **[[:vi:key-terms:moses|Moses]]**
+  * **[[:vi:key-terms:idol|idol]]**
+  * **[[:vi:key-terms:god|God]]**
+  * **[[:vi:key-terms:ten-commandments|Ten Commandments]]**
 
 
-    * **smashed the stones**  - He threw the stones down on the ground and they broke up into little pieces.
+===== Phụ chú: =====
+
+
+  * **smashed the stones** - He threw the stones down on the ground and they broke up into little pieces.
+
 
 **[[:vi:obs:notes:frames:13-12|<<]] | [[:vi:obs:notes:13|Up]] | [[:vi:obs:notes:frames:13-14|>>]]**
