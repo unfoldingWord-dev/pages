@@ -4,16 +4,21 @@
 {{:en:obs:obs-08-02.jpg?nolink&640x360}}
 
 
-Many years later, when **[[:vi:key-terms:jacob|Jacob]]** was an old man, he **sent**  his **favorite son**, **[[:vi:key-terms:joseph|Joseph]]**, to **check on**  his **brothers**  who were **taking care of the herds**.
+===== Điều khoản quan trọng: =====
 
 
-==== Translation Notes: ====
+  * **[[:vi:key-terms:jacob|Jacob]]**
+  * **[[:vi:key-terms:joseph|Joseph]]**
 
 
-    * **sent**  – This word means that Jacob told Joseph to go and Joseph went.
-    * **favorite son**  - This could be translated as, “the son he loved more than any of his other children.”
-    * **check on**  - This means that Joseph is to go and see if everything is all right with his brothers. Some languages might say something like, “to see his brothers' well-being.”
-    * **brothers**  - These were Joseph's older brothers.
-    * **taking care of the herds**  – Since this was several days' journey away, it may be necessary to say, “who were far away taking care of.”
+===== Phụ chú: =====
+
+
+ * **sent** – This word means that Jacob told Joseph to go and Joseph went.
+ * **favorite son** - This could be translated as, “the son he loved more than any of his other children.”
+ * **check on** - This means that Joseph is to go and see if everything is all right with his brothers. Some languages might say something like, “to see his brothers' well-being.”
+ * **brothers** - These were Joseph's older brothers.
+ * **taking care of the herds** – Since this was several days' journey away, it may be necessary to say, “who were far away taking care of.”
+
 
 **[[:vi:obs:notes:frames:07-10|<<]] | [[:vi:obs:notes:08|Up]] | [[:vi:obs:notes:frames:08-02|>>]]**
