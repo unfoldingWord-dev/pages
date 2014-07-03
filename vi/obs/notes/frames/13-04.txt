@@ -4,14 +4,25 @@
 {{:en:obs:obs-13-04.jpg?nolink&640x360}}
 
 
-**Then [[:vi:key-terms:god|God]] gave them the [[:vi:key-terms:covenant|covenant]] and said**, “I am **[[:vi:key-terms:yahweh|Yahweh]], your God**, **who [[:vi:key-terms:save|saved]] you from [[:vi:key-terms:servant|slavery]]** in **[[:vi:key-terms:egypt|Egypt]]**. Do not **[[:vi:key-terms:worship|worship]]** other **[[:vi:key-terms:god-false|gods]]**.”
+===== Điều khoản quan trọng: =====
 
 
-==== Translation Notes: ====
+  * **[[:vi:key-terms:god|God]]**
+  * **[[:vi:key-terms:covenant|covenant]]**
+  * **[[:vi:key-terms:yahweh|Yahweh]]**
+  * **[[:vi:key-terms:save|saved]]**
+  * **[[:vi:key-terms:servant|slavery]]**
+  * **[[:vi:key-terms:egypt|Egypt]]**
+  * **[[:vi:key-terms:worship|worship]]**
+  * **[[:vi:key-terms:god-false|gods]]**
 
 
-    * **Then God gave them the covenant and said**  - What God says next is the content of the covenant, that is, he tells the people the things that they must obey. This could be translated as, “Then God told them His covenant. He said” or, “Then God made this covenant with them:”
-    * **Yahweh your God**  - In some languages it might be more natural to change the order and say “your God Yahweh.” Make sure it does not sound like the Israelites had more than one God. It should be clear that Yahweh is the only God. Another way to translate this would be, “Yahweh, who is your God” or, “your God, whose name is Yahweh.”
-    * **who saved you from slavery**  - This could be translated as, “I freed you from slavery.”
+===== Phụ chú: =====
+
+
+  * **Then God gave them the covenant and said** - What God says next is the content of the covenant, that is, he tells the people the things that they must obey. This could be translated as, “Then God told them His covenant. He said” or, “Then God made this covenant with them:”
+  * **Yahweh your God** - In some languages it might be more natural to change the order and say “your God Yahweh.” Make sure it does not sound like the Israelites had more than one God. It should be clear that Yahweh is the only God. Another way to translate this would be, “Yahweh, who is your God” or, “your God, whose name is Yahweh.”
+  * **who saved you from slavery** - This could be translated as, “I freed you from slavery.”
+
 
 **[[:vi:obs:notes:frames:13-03|<<]] | [[:vi:obs:notes:13|Up]] | [[:vi:obs:notes:frames:13-05|>>]]**

@@ -4,19 +4,25 @@
 {{:en:obs:obs-12-14.jpg?nolink&640x360}}
 
 
-**[[:vi:key-terms:god|God]]** commanded the **[[:vi:key-terms:israel|Israelites]]** to celebrate **the [[:vi:key-terms:passover|Passover]]** every year in order to **remember how God gave them victory over**  the **[[:vi:key-terms:egypt|Egyptians]]** and rescued them from being **[[:vi:key-terms:servant|slaves]]**. They celebrated by killing a **perfect [[:vi:key-terms:lamb|lamb]]**, eating it with **unleavened bread**.
+===== Điều khoản quan trọng: =====
 
 
-//A Bible story from: Exodus 12:33-15:21//
+  * **[[:vi:key-terms:god|God]]**
+  * **[[:vi:key-terms:israel|Israelites]]**
+  * **[[:vi:key-terms:passover|Passover]]**
+  * **[[:vi:key-terms:egypt|Egyptians]]**
+  * **[[:vi:key-terms:servant|slaves]]**
+  * **[[:vi:key-terms:lamb|lamb]]**
 
 
-==== Translation Notes: ====
+===== Phụ chú: =====
 
 
-    * **the Passover**  - This could be translated as, “the Passover activities” or, “the Passover celebration” or, “the Passover meal.”
-    * **remember how God gave them victory over**  – This could be translated as, “regularly remind themselves of how God defeated.” The word “remember” here doesn't just mean to not forget; it also means to formally commemorate something.
-    * **perfect lamb**  - The word “perfect” here refers to a lamb with no disease or anything else wrong with it. Another way to say this might be, “a completely healthy and well-formed lamb.”
-    * **unleavened bread**  - This is another way to say, “bread that was made without yeast.”
-    * //A Bible story from//  - These references may be slightly different in some Bible translations.
+  * **the Passover** - This could be translated as, “the Passover activities” or, “the Passover celebration” or, “the Passover meal.”
+  * **remember how God gave them victory over** – This could be translated as, “regularly remind themselves of how God defeated.” The word “remember” here doesn't just mean to not forget; it also means to formally commemorate something.
+  * **perfect lamb** - The word “perfect” here refers to a lamb with no disease or anything else wrong with it. Another way to say this might be, “a completely healthy and well-formed lamb.”
+  * **unleavened bread** - This is another way to say, “bread that was made without yeast.”
+  * //A Bible story from// - These references may be slightly different in some Bible translations.
+
 
 **[[:vi:obs:notes:frames:12-13|<<]] | [[:vi:obs:notes:12|Up]] | [[:vi:obs:notes:frames:13-01|>>]]**
