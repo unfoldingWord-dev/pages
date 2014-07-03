@@ -4,15 +4,24 @@
 {{:en:obs:obs-20-10.jpg?nolink&640x360}}
 
 
-Even though **[[:vi:key-terms:god|God]]** **[[:vi:key-terms:punish|punished]]** his people for their **[[:vi:key-terms:sin|sin]]** by taking them away into **exile**, he **did not forget**  them or his **[[:vi:key-terms:promise|promises]]**. God continued to **watch over**  his people and **speak to them through his [[:vi:key-terms:prophet|prophets]]**. He promised that, after seventy years, they would return to the **[[:vi:key-terms:promised-land|Promised Land]]** again.
+===== Điều khoản quan trọng: =====
 
 
-==== Translation Notes: ====
+  * **[[:vi:key-terms:god|God]]**
+  * **[[:vi:key-terms:punish|punished]]**
+  * **[[:vi:key-terms:sin|sin]]**
+  * **[[:vi:key-terms:promise|promises]]**
+  * **[[:vi:key-terms:prophet|prophets]]**
+  * **[[:vi:key-terms:promised-land|Promised Land]]**
 
 
-    * **exile**  - See how you translated this term in **[[:vi:obs:notes:frames:20-09|[20-09]]]**.
-    * **did not forget**  - This could be translated as, “did not ignore” or, “did not neglect.” Or the whole phrase could be translated as, “continued to honor his commitment to his people and his promises.”
-    * **watch over**  - That is, “take care of.”
-    * **speak to them through his prophets**  - This could be translated as, “tell his prophets messages that he wanted them to tell his people.”
+===== Phụ chú: =====
+
+
+  * **exile** - See how you translated this term in **[[:vi:obs:notes:frames:20-09|[20-09]]]**.
+  * **did not forget** - This could be translated as, “did not ignore” or, “did not neglect.” Or the whole phrase could be translated as, “continued to honor his commitment to his people and his promises.”
+  * **watch over** - That is, “take care of.”
+  * **speak to them through his prophets** - This could be translated as, “tell his prophets messages that he wanted them to tell his people.”
+
 
 **[[:vi:obs:notes:frames:20-09|<<]] | [[:vi:obs:notes:20|Up]] | [[:vi:obs:notes:frames:20-11|>>]]**

@@ -4,12 +4,20 @@
 {{:en:obs:obs-21-04.jpg?nolink&640x360}}
 
 
-**[[:vi:key-terms:god|God]]** **[[:vi:key-terms:promise|promised]]** **[[:vi:key-terms:david|King David]]** that the **[[:vi:key-terms:messiah|Messiah]]** would be one of **David’s own [[:vi:key-terms:descendant|descendants]]**.
+===== Điều khoản quan trọng: =====
 
 
-==== Translation Notes: ====
+  * **[[:vi:key-terms:god|God]]**
+  * **[[:vi:key-terms:promise|promised]]**
+  * **[[:vi:key-terms:david|King David]]**
+  * **[[:vi:key-terms:messiah|Messiah]]**
+  * **[[:vi:key-terms:descendant|descendants]]**
 
 
-    * **David's own descendants**  - Another way to say this would be, “a direct descendant of David himself.”
+===== Phụ chú: =====
+
+
+  * **David's own descendants** - Another way to say this would be, “a direct descendant of David himself.”
+
 
 **[[:vi:obs:notes:frames:21-03|<<]] | [[:vi:obs:notes:21|Up]] | [[:vi:obs:notes:frames:21-05|>>]]**
