@@ -4,10 +4,16 @@
 {{:en:obs:obs-07-06.jpg?nolink&640x360}}
 
 
-But **[[:vi:key-terms:rebekah|Rebekah]]** heard of **[[:vi:key-terms:esau|Esau’s]] plan**. So **she and [[:vi:key-terms:isaac|Isaac]] sent [[:vi:key-terms:jacob|Jacob]] far away to live with her relatives**.
+===== Điều khoản quan trọng: =====
 
 
-==== Translation Notes: ====
+  * **[[:vi:key-terms:rebekah|Rebekah]]**
+  * **[[:vi:key-terms:esau|Esau’s]]**
+  * **[[:vi:key-terms:isaac|Isaac]]**
+  * **[[:vi:key-terms:jacob|Jacob]]**
+
+
+===== Phụ chú: =====
 
 
     * **Esau's plan**  - Esau's plan was to kill Jacob after his father died.

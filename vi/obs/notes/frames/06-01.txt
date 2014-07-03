@@ -4,10 +4,16 @@
 {{:en:obs:obs-06-01.jpg?nolink&640x360}}
 
 
-When **[[:vi:key-terms:abraham|Abraham]]** was very old, his **[[:vi:key-terms:son|son]]**, **[[:vi:key-terms:isaac|Isaac]]**, had grown to be a man. So Abraham **sent one of his [[:vi:key-terms:servant|servants]] back****to the land**  where his relatives lived **to bring back a wife for his son, Isaac**.
+===== Điều khoản quan trọng: =====
 
 
-==== Translation Notes: ====
+  * **[[:vi:key-terms:abraham|Abraham]]**
+  * **[[:vi:key-terms:son|son]]**
+  * **[[:vi:key-terms:isaac|Isaac]]**
+  * **[[:vi:key-terms:servant|servants]]**
+
+
+===== Phụ chú: =====
 
 
     * **sent one of his servants back**  – This could be translated as, “told one of his servants to go back.” The word “back” means that the servant would be going to the same place where Abraham used to live long ago before he came to Canaan. Make sure the translation of this phrase makes that clear.

@@ -4,10 +4,16 @@
 {{:en:obs:obs-05-09.jpg?nolink&640x360}}
 
 
-Nearby **[[:vi:key-terms:abraham|Abraham]]** saw **a ram**  that was stuck in a bush. **[[:vi:key-terms:god|God]] had provided the ram**to be the **[[:vi:key-terms:sacrifice|sacrifice]]** instead of **[[:vi:key-terms:isaac|Isaac]]**. Abraham happily offered the ram as a sacrifice.
+===== Điều khoản quan trọng: =====
 
 
-==== Translation Notes: ====
+  * **[[:vi:key-terms:abraham|Abraham]]**
+  * **[[:vi:key-terms:god|God]]**
+  * **[[:vi:key-terms:sacrifice|sacrifice]]**
+  * **[[:vi:key-terms:isaac|Isaac]]**
+
+
+===== Phụ chú: =====
 
 
     * **a ram**  - A ram is a male goat. Goats were one of the animals that people could sacrifice to God.

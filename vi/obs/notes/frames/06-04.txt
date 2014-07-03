@@ -4,10 +4,19 @@
 {{:en:obs:obs-06-04.jpg?nolink&640x360}}
 
 
-After a long time, **[[:vi:key-terms:abraham|Abraham]]** died and all of **the [[:vi:key-terms:promise|promises]] that [[:vi:key-terms:god|God]] had made to him in the [[:vi:key-terms:covenant|covenant]] were passed on**to **[[:vi:key-terms:isaac|Isaac]]**. God had promised that Abraham would have **countless [[:vi:key-terms:descendant|descendants]]**, but Isaac's wife, **[[:vi:key-terms:rebekah|Rebekah]]**, could not have children.
+===== Điều khoản quan trọng: =====
 
 
-==== Translation Notes: ====
+  * **[[:vi:key-terms:abraham|Abraham]]**
+  * **[[:vi:key-terms:promise|promises]]**
+  * **[[:vi:key-terms:god|God]]**
+  * **[[:vi:key-terms:covenant|covenant]]**
+  * **[[:vi:key-terms:isaac|Isaac]]**
+  * **[[:vi:key-terms:descendant|descendants]]**
+  * **[[:vi:key-terms:rebekah|Rebekah]]**
+
+
+===== Phụ chú: =====
 
 
     * **the promises … were passed on**  - The promises of the covenant that God made with Abraham were not for him only, but also for his descendants.

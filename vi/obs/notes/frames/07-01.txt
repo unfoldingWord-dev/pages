@@ -4,10 +4,16 @@
 {{:en:obs:obs-07-01.jpg?nolink&640x360}}
 
 
-As the boys grew up, **[[:vi:key-terms:jacob|Jacob]] loved to stay at home**, but **[[:vi:key-terms:esau|Esau]] loved to hunt**. **[[:vi:key-terms:rebekah|Rebekah]] loved Jacob**, **but [[:vi:key-terms:isaac|Isaac]] loved Esau**.
+===== Điều khoản quan trọng: =====
 
 
-==== Translation Notes: ====
+  * **[[:vi:key-terms:jacob|Jacob]]**
+  * **[[:vi:key-terms:esau|Esau]]**
+  * **[[:vi:key-terms:rebekah|Rebekah]]**
+  * **[[:vi:key-terms:isaac|Isaac]]**
+
+
+===== Phụ chú: =====
 
 
     * **loved to stay at home … loved to hunt**  - Some languages will use a word for “love” here that is different from the one used for, “Rebekah loved Jacob.” For example, this could be translated as, “liked to stay at home … liked to hunt” or, “preferred to stay at home … preferred to hunt.”

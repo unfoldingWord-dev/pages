@@ -4,10 +4,15 @@
 {{:en:obs:obs-07-05.jpg?nolink&640x360}}
 
 
-**[[:vi:key-terms:esau|Esau]]** hated **[[:vi:key-terms:jacob|Jacob]]** because Jacob had stolen his **rights as oldest son**  and also **his [[:vi:key-terms:bless|blessing]]**. So he planned to kill Jacob after their father died.
+===== Điều khoản quan trọng: =====
 
 
-==== Translation Notes: ====
+  * **[[:vi:key-terms:esau|Esau]]**
+  * **[[:vi:key-terms:jacob|Jacob]]**
+  * **[[:vi:key-terms:bless|blessing]]**
+
+
+===== Phụ chú: =====
 
 
     * **rights as oldest son**  - Jacob found a way to get the larger portion of their father's wealth that should have gone to Esau as the older son. See also note on **[[:vi:obs:notes:frames:07-02|[07-02]]]**.
