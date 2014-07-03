@@ -4,10 +4,17 @@
 {{:en:obs:obs-05-07.jpg?nolink&640x360}}
 
 
-As **[[:vi:key-terms:abraham|Abraham]]** and **[[:vi:key-terms:isaac|Isaac]]****walked to the place of [[:vi:key-terms:sacrifice|sacrifice]]**, Isaac asked, “Father, we have **wood for the sacrifice**, but where is **the [[:vi:key-terms:lamb|lamb]]**?” Abraham replied, “**[[:vi:key-terms:god|God]]** will provide the lamb for the sacrifice, my son.”
+===== Điều khoản quan trọng: =====
 
 
-==== Translation Notes: ====
+  * **[[:vi:key-terms:abraham|Abraham]]**
+  * **[[:vi:key-terms:isaac|Isaac]]**
+  * **[[:vi:key-terms:sacrifice|sacrifice]]**
+  * **[[:vi:key-terms:lamb|lamb]]**
+  * **[[:vi:key-terms:god|God]]**
+
+
+===== Phụ chú: =====
 
 
     * **walked to the place of sacrifice**  - God had told Abraham to sacrifice Isaac on a special high hill that was about three days' walk from where they lived.
