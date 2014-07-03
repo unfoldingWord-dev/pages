@@ -4,14 +4,25 @@
 {{:en:obs:obs-17-05.jpg?nolink&640x360}}
 
 
-Eventually, **[[:vi:key-terms:saul|Saul]]** died in battle, and **[[:vi:key-terms:david|David]]** became **[[:vi:key-terms:king|king]]** of **[[:vi:key-terms:israel|Israel]]**. He was a good king, and the people **[[:vi:key-terms:love|loved]]** him. **[[:vi:key-terms:god|God]]** **[[:vi:key-terms:bless|blessed]]** David and **made him successful**. David fought many battles and God helped him defeat Israel's enemies. David conquered **[[:vi:key-terms:jerusalem|Jerusalem]]** and made it **his capital city**. **During David’s reign**, Israel became powerful and wealthy.
+===== Điều khoản quan trọng: =====
 
 
-==== Translation Notes: ====
+  * **[[:vi:key-terms:saul|Saul]]**
+  * **[[:vi:key-terms:david|David]]**
+  * **[[:vi:key-terms:king|king]]**
+  * **[[:vi:key-terms:israel|Israel]]**
+  * **[[:vi:key-terms:love|loved]]**
+  * **[[:vi:key-terms:god|God]]**
+  * **[[:vi:key-terms:bless|blessed]]**
+  * **[[:vi:key-terms:jerusalem|Jerusalem]]**
 
 
-    * **made him successful**  - That is, “helped him accomplish the good things he wanted to do.”
-    * **his capital city**  - That is, “the capital city of his kingdom.” David lived in Jerusalem and ruled from there.
-    * **During David’s reign**  - That is, “During the time when David was king over Israel” or, “During the time when David was ruling as king over Israel.”
+===== Phụ chú: =====
+
+
+  * **made him successful** - That is, “helped him accomplish the good things he wanted to do.”
+  * **his capital city** - That is, “the capital city of his kingdom.” David lived in Jerusalem and ruled from there.
+  * **During David’s reign** - That is, “During the time when David was king over Israel” or, “During the time when David was ruling as king over Israel.”
+
 
 **[[:vi:obs:notes:frames:17-04|<<]] | [[:vi:obs:notes:17|Up]] | [[:vi:obs:notes:frames:17-06|>>]]**

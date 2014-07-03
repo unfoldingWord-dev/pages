@@ -4,12 +4,26 @@
 {{:en:obs:obs-19-16.jpg?nolink&640x360}}
 
 
-**[[:vi:key-terms:god|God]]** sent many other **[[:vi:key-terms:prophet|prophets]]**. They all told the people to stop **[[:vi:key-terms:worship|worshiping]]** **[[:vi:key-terms:idol|idols]]** and to **start showing [[:vi:key-terms:justice|justice]] and [[:vi:key-terms:mercy|mercy]]** to others. The prophets warned the people that if they did not stop doing **[[:vi:key-terms:evil|evil]]** and start **[[:vi:key-terms:obey|obeying]]** God, then God would **[[:vi:key-terms:judge|judge]]** them as **[[:vi:key-terms:guilt|guilty]]**, and he would **[[:vi:key-terms:punish|punish]]** them.
+===== Điều khoản quan trọng: =====
 
 
-==== Translation Notes: ====
+  * **[[:vi:key-terms:god|God]]**
+  * **[[:vi:key-terms:prophet|prophets]]**
+  * **[[:vi:key-terms:worship|worshiping]]**
+  * **[[:vi:key-terms:idol|idols]]**
+  * **[[:vi:key-terms:justice|justice]]**
+  * **[[:vi:key-terms:mercy|mercy]]**
+  * **[[:vi:key-terms:evil|evil]]**
+  * **[[:vi:key-terms:obey|obeying]]**
+  * **[[:vi:key-terms:judge|judge]]**
+  * **[[:vi:key-terms:guilt|guilty]]**
+  * **[[:vi:key-terms:punish|punish]]**
 
 
-    * **start showing justice and mercy**  - This can be translated as, “start being just and merciful” or, “begin to demonstrate justice and mercy.”
+===== Phụ chú: =====
+
+
+  * **start showing justice and mercy** - This can be translated as, “start being just and merciful” or, “begin to demonstrate justice and mercy.”
+
 
 **[[:vi:obs:notes:frames:19-15|<<]] | [[:vi:obs:notes:19|Up]] | [[:vi:obs:notes:frames:19-17|>>]]**

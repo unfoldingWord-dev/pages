@@ -4,13 +4,25 @@
 {{:en:obs:obs-19-02.jpg?nolink&640x360}}
 
 
-**[[:vi:key-terms:elijah|Elijah]]** was a **[[:vi:key-terms:prophet|prophet]]** when **[[:vi:key-terms:ahab|Ahab]]** was **[[:vi:key-terms:king|king]]** over the **[[:vi:key-terms:kingdom-of-israel|kingdom of Israel]]**. Ahab was an **[[:vi:key-terms:evil|evil]]** man who encouraged people to **[[:vi:key-terms:worship|worship]]** a false **[[:vi:key-terms:god-false|god]]** named **[[:vi:key-terms:baal|Baal]]**. Elijah said to Ahab, “There will be no rain or dew in the kingdom of Israel **until I say so**.” **This made Ahab very angry**.
+===== Điều khoản quan trọng: =====
 
 
-==== Translation Notes: ====
+  * **[[:vi:key-terms:elijah|Elijah]]**
+  * **[[:vi:key-terms:prophet|prophet]]**
+  * **[[:vi:key-terms:ahab|Ahab]]**
+  * **[[:vi:key-terms:king|king]]**
+  * **[[:vi:key-terms:kingdom-of-israel|kingdom of Israel]]**
+  * **[[:vi:key-terms:evil|evil]]**
+  * **[[:vi:key-terms:worship|worship]]**
+  * **[[:vi:key-terms:god-false|god]]**
+  * **[[:vi:key-terms:baal|Baal]]**
 
 
-    * **until I say so**  - This may be translated as, “until I command the rain and dew to come again.”
-    * **This made Ahab very angry**  – This could be translated as, “When Ahab heard what Elijah said, he became very angry.”
+===== Phụ chú: =====
+
+
+  * **until I say so** - This may be translated as, “until I command the rain and dew to come again.”
+  * **This made Ahab very angry** – This could be translated as, “When Ahab heard what Elijah said, he became very angry.”
+
 
 **[[:vi:obs:notes:frames:19-01|<<]] | [[:vi:obs:notes:19|Up]] | [[:vi:obs:notes:frames:19-03|>>]]**

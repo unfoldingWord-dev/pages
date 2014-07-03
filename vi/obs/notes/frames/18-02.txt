@@ -4,13 +4,24 @@
 {{:en:obs:obs-18-02.jpg?nolink&640x360}}
 
 
-In **[[:vi:key-terms:jerusalem|Jerusalem]]**, **[[:vi:key-terms:solomon|Solomon]]** built the **[[:vi:key-terms:temple|Temple]]** for which his father **[[:vi:key-terms:david|David]]** had planned and gathered materials. People now **[[:vi:key-terms:worship|worshiped]]** **[[:vi:key-terms:god|God]]** and offered **[[:vi:key-terms:sacrifice|sacrifices]]** to him at the Temple instead of at the **[[:vi:key-terms:tent-of-meeting|Tent of Meeting]]**. God came and **was present in the Temple**, and he lived there **with his people**.
+===== Điều khoản quan trọng: =====
 
 
-==== Translation Notes: ====
+  * **[[:vi:key-terms:jerusalem|Jerusalem]]**
+  * **[[:vi:key-terms:solomon|Solomon]]**
+  * **[[:vi:key-terms:temple|Temple]]**
+  * **[[:vi:key-terms:david|David]]**
+  * **[[:vi:key-terms:worship|worshiped]]**
+  * **[[:vi:key-terms:god|God]]**
+  * **[[:vi:key-terms:sacrifice|sacrifices]]**
+  * **[[:vi:key-terms:tent-of-meeting|Tent of Meeting]]**
 
 
-    * **was present in the Temple**  – That is, “was present in the Temple in a special way.” Even though God was also present everywhere else at the same time, he made himself especially available to the people at the Temple.
-    * **with his people**  - This could be translated as, “in the midst of his people” or, “among his people.”
+===== Phụ chú: =====
+
+
+  * **was present in the Temple** – That is, “was present in the Temple in a special way.” Even though God was also present everywhere else at the same time, he made himself especially available to the people at the Temple.
+  * **with his people** - This could be translated as, “in the midst of his people” or, “among his people.”
+
 
 **[[:vi:obs:notes:frames:18-01|<<]] | [[:vi:obs:notes:18|Up]] | [[:vi:obs:notes:frames:18-03|>>]]**
