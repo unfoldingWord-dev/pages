@@ -4,13 +4,21 @@
 {{:en:obs:obs-09-08.jpg?nolink&640x360}}
 
 
-One day, when **[[:vi:key-terms:moses|Moses]]** had **grown up**, he saw an **[[:vi:key-terms:egypt|Egyptian]]** beating an **[[:vi:key-terms:israel|Israelite]]** **[[:vi:key-terms:servant|slave]]**. Moses tried to **[[:vi:key-terms:save|save]]** his **fellow Israelite**.
+===== Điều khoản quan trọng: =====
 
 
-==== Translation Notes: ====
+  * **[[:vi:key-terms:moses|Moses]]**
+  * **[[:vi:key-terms:egypt|Egyptian]]**
+  * **[[:vi:key-terms:israel|Israelite]]**
+  * **[[:vi:key-terms:servant|slave]]**
+  * **[[:vi:key-terms:save|save]]**
 
 
-    * **grown up**  - Another way to say this would be, “grown into a man.”
-    * **fellow Israelite**  - This phrase refers to the Israelite slave. The word “fellow” here indicates that Moses was also an Israelite. Although the daughter of the Egyptian Pharaoh raised Moses, Moses remembered that he was really an Israelite.
+===== Phụ chú: =====
+
+
+  * **grown up** - Another way to say this would be, “grown into a man.”
+  * **fellow Israelite** - This phrase refers to the Israelite slave. The word “fellow” here indicates that Moses was also an Israelite. Although the daughter of the Egyptian Pharaoh raised Moses, Moses remembered that he was really an Israelite.
+
 
 **[[:vi:obs:notes:frames:09-07|<<]] | [[:vi:obs:notes:09|Up]] | [[:vi:obs:notes:frames:09-09|>>]]**
