@@ -4,14 +4,23 @@
 {{:en:obs:obs-08-06.jpg?nolink&640x360}}
 
 
-After two years, **[[:vi:key-terms:joseph|Joseph]]** was still in prison, even though he was **[[:vi:key-terms:innocent|innocent]]**. One night, the **[[:vi:key-terms:pharaoh|Pharaoh]]**, which is what the **[[:vi:key-terms:egypt|Egyptians]]** called their **[[:vi:key-terms:king|kings]]**, had two **[[:vi:key-terms:dream|dreams]]** that **disturbed him greatly**. None of **his advisors**  could tell him the **meaning of the dreams**.
+===== Điều khoản quan trọng: =====
 
 
-==== Translation Notes: ====
+  * **[[:vi:key-terms:joseph|Joseph]]**
+  * **[[:vi:key-terms:innocent|innocent]]**
+  * **[[:vi:key-terms:pharaoh|Pharaoh]]**
+  * **[[:vi:key-terms:egypt|Egyptians]]**
+  * **[[:vi:key-terms:king|kings]]**
+  * **[[:vi:key-terms:dream|dreams]]**
 
 
-    * **disturbed him greatly**  – This means that the king felt very afraid and confused (because of what he had seen in the dreams).
-    * **his advisors**  - These were men with special powers and knowledge who could sometimes tell what dreams meant. Some translations refer to them as, “wise men.”
-    * **meaning of the dreams**  - People in Egypt believed that dreams were messages from the gods telling them about what would happen in the future. God used Pharaoh's dreams to tell him what would happen.
+===== Phụ chú: =====
+
+
+  * **disturbed him greatly** – This means that the king felt very afraid and confused (because of what he had seen in the dreams).
+  * **his advisors** - These were men with special powers and knowledge who could sometimes tell what dreams meant. Some translations refer to them as, “wise men.”
+  * **meaning of the dreams** - People in Egypt believed that dreams were messages from the gods telling them about what would happen in the future. God used Pharaoh's dreams to tell him what would happen.
+
 
 **[[:vi:obs:notes:frames:08-05|<<]] | [[:vi:obs:notes:08|Up]] | [[:vi:obs:notes:frames:08-07|>>]]**
