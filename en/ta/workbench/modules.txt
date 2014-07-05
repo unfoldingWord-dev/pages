@@ -18,5 +18,8 @@ Modules are structured as answers to questions. These are some of the questions 
     - What do I do if something is stated in a way that I cannot translate into my language? (storm had come up; turned his eyes)
     - What do I do if the text I am translating has a cultural practice that is foreign to my context?
     - How do I edit pages and text in the translation interface?
-    - What is my personal beliefs or the beliefs of my denomination do not agree with the OBS text?
+    - What if my personal beliefs or the beliefs of my denomination do not agree with the OBS text?
     - [likened to #9] What if something in the OBS text (a cultural form in the story, so to speak) carries a bad or evil connotation in my culture?
+    - What if the way my language introduces new participants into a story is different from the way the text introduces participants?
+    - What if my language uses pronouns more frequently (or less frequently) than the Bible text does?
+    - Consider how your language begins a story or illustration. Is there a difference between the telling of an event that actually happened (for example when Jesus healed a blind man) and a story that is given to teach something (for example the story about the kind Samaritan who helped a wounded Jew)?
