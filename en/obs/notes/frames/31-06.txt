@@ -1,17 +1,17 @@
-====== Peter Walked on the Water [31-06] ======
+===== Peter Walked on the Water [31-06] =====
 
 {{:en:obs:obs-31-06.jpg?nolink&640x360}}
 
 
 ===== Important Terms: =====
 
-  * **[[:en:key-terms:peter|Peter]]**
-  * **[[:en:key-terms:jesus|Jesus]]**
+  * **[[:en:key-terms/peter|Peter]]**
+  * **[[:en:key-terms/jesus|Jesus]]**
 
 
 ===== Translation Notes: =====
 
   * **turned his eyes away from** - This expression means, “looked away from.” It could also be translated as, “stopped looking at.”
-  
+
 
 **[[:en:obs:notes:frames:31-05|<<]] | [[:en:obs:notes:31|Up]] | [[:en:obs:notes:frames:31-07|>>]]**

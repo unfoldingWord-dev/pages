@@ -1,16 +1,18 @@
-====== Jesus Walked on the Water [31-03] ======
+===== Jesus Walked on the Water [31-03] =====
 
 {{:en:obs:obs-31-03.jpg?nolink&640x360}}
 
 
 ===== Important Terms: =====
 
-  * **[[:en:key-terms:jesus|Jesus]]**
+  * **[[:en:key-terms/jesus|Jesus]]**
+  * **[[:en:key-terms/disciple|disciples]]**
+  * **[[:en:key-terms/pray|pray]]**
 
 
 ===== Translation Notes: =====
 
-  * //(There are no notes for this frame.)//
-  
+  * //(There are no notes for this frame.)// 
+
 
 **[[:en:obs:notes:frames:31-02|<<]] | [[:en:obs:notes:31|Up]] | [[:en:obs:notes:frames:31-04|>>]]**

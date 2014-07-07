@@ -1,19 +1,21 @@
-====== The Storm [31-02] ======
+===== The Storm [31-02] =====
 
 {{:en:obs:obs-31-02.jpg?nolink&640x360}}
 
 
 ===== Important Terms: =====
 
-  * **[[:en:key-terms:disciple|disciples]]**
+  * **[[:en:key-terms/disciple|disciples]]**
+  * **[[:en:key-terms/disciple|disciples]]**
+  * **[[:en:key-terms/pray|pray]]**
 
 
 ===== Translation Notes: =====
 
-  * **Meanwhile** - That is, "while Jesus was praying on the mountainside."
+  * **Meanwhile** - That is, “while Jesus was praying on the mountainside.”
   * **rowing their boat** - The boat had a sail, but it would not have worked when the wind was against them.
-  * **reached** - This can also be translated as, "traveled as far as."
-  * **great difficulty** - That is, "much difficulty" or, "a lot of difficulty."
-  
+  * **great difficulty** - That is, “much difficulty” or, “a lot of difficulty.”
+
 
 **[[:en:obs:notes:frames:31-01|<<]] | [[:en:obs:notes:31|Up]] | [[:en:obs:notes:frames:31-03|>>]]**
+
