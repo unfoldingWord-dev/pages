@@ -1,9 +1,20 @@
-====== No Son [04-08] ======
+===== No Son [04-08] =====
+
 
 {{:en:obs:obs-04-08.jpg?nolink&640x360}}
 
 
-**Many years** went by, but **[[:en:key-terms:abraham|Abram]]** and **[[:en:key-terms:sarah|Sarai]]** still did not have a **[[:en:key-terms:son|son]]**. **[[:en:key-terms:god|God]]** spoke to Abram and **[[:en:key-terms:promise|promised]]** again that he would have a son and as many **[[:en:key-terms:descendant|descendants]] as the stars in the sky**. Abram **[[:en:key-terms:believe|believed]]** God's promise. God declared that Abram was **[[:en:key-terms:righteous|righteous]]** because he believed in God's promise.
+===== Important Terms: =====
+
+
+  * **[[:en:key-terms:abraham|Abram]]**
+  * **[[:en:key-terms:sarah|Sarai]]**
+  * **[[:en:key-terms:son|son]]**
+  * **[[:en:key-terms:god|God]]**
+  * **[[:en:key-terms:promise|promised]]**
+  * **[[:en:key-terms:descendant|descendants]]**
+  * **[[:en:key-terms:believe|believed]]**
+  * **[[:en:key-terms:righteous|righteous]]**
 
 
 ===== Translation Notes: =====
@@ -12,5 +23,4 @@
   * **Many years** - Several years had passed since God had first promised that Abram would have a son.
   * **as the stars in the sky** - This expression means that Abram's descendants will be so many that no one can count them all.
 
-
-**[[:en:obs:notes:frames:04-07|<<]] | [[:en:obs:notes:04|Up]] | [[:en:obs:notes:frames:04-09|>>]]**
+**[[:en:obs:notes:frames:04-07|<<]] | [[:vi:obs:notes:04|Up]] | [[:en:obs:notes:frames:04-09|>>]]**
