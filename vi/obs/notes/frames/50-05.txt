@@ -1,18 +1,20 @@
 ===== The Enemy [50-05] =====
 
-
 {{:en:obs:obs-50-05.jpg?nolink&640x360}}
 
 
-**[[:vi:key-terms/jesus|Jesus]]** told his **[[:vi:key-terms/disciple|disciples]]** a story to explain what will happen to people when the world ends. He said, “A man planted **[[:vi:key-terms/good|good]] seed**in his field. While he was sleeping, his enemy came and planted **weed seeds**  along with the **wheat**, and then he went away.”
+===== Điều khoản quan trọng: =====
+
+  * **[[:vi:key-terms/jesus|Jesus]]**
+  * **[[:vi:key-terms/disciple|disciples]]**
+  * **[[:vi:key-terms/good|good]]**
 
 
-==== Translation Notes: ====
+===== Phụ chú: =====
 
-
-  * **good seed**  – This seed was wheat grain. If this type of seed is not known in your language area, it is best to use a general term for “seed.” If there is no general term, it may be necessary to choose a type of grain seed that is known and say, for example, “good seed like rice.”
-  * **weed seeds**  - The weed seeds that were planted would grow up as tall grass but could not be eaten. They were useless.
-  * **wheat**  – That is, “wheat seeds.” Wheat is a kind of grain that grows like a tall grass. It has seeds that people use for food.
+  * **good seed** - This seed was wheat grain. If this type of seed is not known in your language area, it is best to use a general term for “seed.” If there is no general term, it may be necessary to choose a type of grain seed that is known and say, for example, “good seed like rice.”
+  * **weed seeds** - The weed seeds that were planted would grow up as tall grass but could not be eaten. They were useless.
+  * **wheat** - That is, “wheat seeds.” Wheat is a kind of grain that grows like a tall grass. It has seeds that people use for food.
 
 
 **[[:vi:obs:notes:frames:50-04|<<]] | [[:vi:obs:notes:50|Up]] | [[:vi:obs:notes:frames:50-06|>>]]**
