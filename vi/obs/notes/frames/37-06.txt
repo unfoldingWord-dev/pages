@@ -1,18 +1,22 @@
 ===== Mary Met Jesus [37-06] =====
 
-
 {{:en:obs:obs-37-06.jpg?nolink&640x360}}
 
 
-Then **Mary**  arrived. She **fell at the feet of [[:vi:key-terms/jesus|Jesus]]** and said, “**[[:vi:key-terms/lord|Master]]**, if only you had been here, **my brother would not have [[:vi:key-terms/death|died]]**.” Jesus asked them, “Where have you put **[[:vi:key-terms/lazarus|Lazarus]]**?” They told him, “In the **[[:vi:key-terms/tomb|tomb]]**. Come and see.” Then Jesus wept.
+===== Điều khoản quan trọng: =====
+
+  * **[[:vi:key-terms/jesus|Jesus]]**
+  * **[[:vi:key-terms/lord|Master]]**
+  * **[[:vi:key-terms/death|died]]**
+  * **[[:vi:key-terms/lazarus|Lazarus]]**
+  * **[[:vi:key-terms/tomb|tomb]]**
 
 
-==== Translation Notes: ====
+===== Phụ chú: =====
 
-
-  * **Mary**  - This was the same woman as in **[[:vi:obs:notes:frames:37-01|[37-01]]]**, not the mother of Jesus.
-  * **fell at the feet of Jesus**  - That is, “knelt down at Jesus' feet” as a sign of respect.
-  * **my brother would not have died.**  - That is, “you could have kept my brother from dying” or, “you could have prevented my brother's death” or, “my brother would still be alive.”
+  * **Mary** - This was the same woman as in **[[:vi:obs:notes:frames:37-01|[37-01]]]**, not the mother of Jesus.
+  * **fell at the feet of Jesus** - That is, “knelt down at Jesus' feet” as a sign of respect.
+  * **my brother would not have died.** - That is, “you could have kept my brother from dying” or, “you could have prevented my brother's death” or, “my brother would still be alive.”
 
 
 **[[:vi:obs:notes:frames:37-05|<<]] | [[:vi:obs:notes:37|Up]] | [[:vi:obs:notes:frames:37-07|>>]]**

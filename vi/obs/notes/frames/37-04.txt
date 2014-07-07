@@ -1,19 +1,24 @@
 ===== Martha Met Jesus [37-04] =====
 
-
 {{:en:obs:obs-37-04.jpg?nolink&640x360}}
 
 
-When **[[:vi:key-terms/jesus|Jesus]]** arrived at **[[:vi:key-terms/lazarus|Lazarus']]** hometown, Lazarus had already been **[[:vi:key-terms/death|dead]]** for four days. **Martha**  **went out to meet Jesus**  and said, “**[[:vi:key-terms/lord|Master]]**, if only you had been here, **my brother would not have died**. But I **[[:vi:key-terms/believe|believe]]** **[[:vi:key-terms/god|God]]****will give you whatever you ask from him**.”
+===== Điều khoản quan trọng: =====
+
+  * **[[:vi:key-terms/jesus|Jesus]]**
+  * **[[:vi:key-terms/lazarus|Lazarus']]**
+  * **[[:vi:key-terms/death|dead]]**
+  * **[[:vi:key-terms/lord|Master]]**
+  * **[[:vi:key-terms/believe|believe]]**
+  * **[[:vi:key-terms/god|God]]**
 
 
-==== Translation Notes: ====
+===== Phụ chú: =====
 
-
-  * **Martha**  - Martha was the sister of Lazarus and Mary. See **[[:vi:obs:notes:frames:37-01|[37-01]]]**.
-  * **went out to meet Jesus**  – That is, “went to meet Jesus as he was coming into the town.”
-  * **my brother would not have died.**  - That is, “you would have healed my brother and he would not have died” or, “you could have prevented my brother from dying.”
-  * **will give you whatever you ask from him**  – That is, “will do whatever you ask him to do.”
+  * **Martha** - Martha was the sister of Lazarus and Mary. See **[[:vi:obs:notes:frames:37-01|[37-01]]]**.
+  * **went out to meet Jesus** - That is, “went to meet Jesus as he was coming into the town.”
+  * **my brother would not have died.** - That is, “you would have healed my brother and he would not have died” or, “you could have prevented my brother from dying.”
+  * **will give you whatever you ask from him** - That is, “will do whatever you ask him to do.”
 
 
 **[[:vi:obs:notes:frames:37-03|<<]] | [[:vi:obs:notes:37|Up]] | [[:vi:obs:notes:frames:37-05|>>]]**

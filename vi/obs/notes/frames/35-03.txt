@@ -1,18 +1,19 @@
 ===== The Two Sons [35-03] =====
 
-
 {{:en:obs:obs-35-03.jpg?nolink&640x360}}
 
 
-“There was a man who had two **[[:vi:key-terms/son|sons]]**. The younger son told his father, ‘Father, I want **my [[:vi:key-terms/inherit|inheritance]]** now!’ So the father divided his **property**  between his two sons.”
+===== Điều khoản quan trọng: =====
+
+  * **[[:vi:key-terms/son|sons]]**
+  * **[[:vi:key-terms/inherit|inheritance]]**
 
 
-==== Translation Notes: ====
-
+===== Phụ chú: =====
 
   * (Jesus tells the story.)
-  * **my inheritance**  – This could be translated as, “the part of your wealth that will be rightfully mine when you die.”
-  * **property**  – That is, “wealth” or, “possessions.” This property would probably have included land, animals, and money.
+  * **my inheritance** - This could be translated as, “the part of your wealth that will be rightfully mine when you die.”
+  * **property** - That is, “wealth” or, “possessions.” This property would probably have included land, animals, and money.
 
 
 **[[:vi:obs:notes:frames:35-02|<<]] | [[:vi:obs:notes:35|Up]] | [[:vi:obs:notes:frames:35-04|>>]]**

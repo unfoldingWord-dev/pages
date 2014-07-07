@@ -1,18 +1,20 @@
 ===== I Have Sinned [35-08] =====
 
-
 {{:en:obs:obs-35-08.jpg?nolink&640x360}}
 
 
-“The **[[:vi:key-terms/son|son]]** said, ‘Father, I have **[[:vi:key-terms/sin|sinned]] against [[:vi:key-terms/god|God]] and against you**. **I am not worthy**  to be your son.’”
+===== Điều khoản quan trọng: =====
+
+  * **[[:vi:key-terms/son|son]]**
+  * **[[:vi:key-terms/sin|sinned]]**
+  * **[[:vi:key-terms/god|God]]**
 
 
-==== Translation Notes: ====
-
+===== Phụ chú: =====
 
   * (Jesus continues the story.)
-  * **sinned against God and against you**  - This could be translated as, “sinned against God, and I have also sinned against you.”
-  * **I am not worthy**  – It is also possible to say, “So I am not worthy” or, “As a result, I am not worthy.”
+  * **sinned against God and against you** - This could be translated as, “sinned against God, and I have also sinned against you.”
+  * **I am not worthy** - It is also possible to say, “So I am not worthy” or, “As a result, I am not worthy.”
 
 
 **[[:vi:obs:notes:frames:35-07|<<]] | [[:vi:obs:notes:35|Up]] | [[:vi:obs:notes:frames:35-09|>>]]**
