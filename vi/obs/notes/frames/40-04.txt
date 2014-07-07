@@ -1,22 +1,28 @@
 ===== The Two Robbers [40-04] =====
 
-
 {{:en:obs:obs-40-04.jpg?nolink&640x360}}
 
 
-**[[:vi:key-terms/jesus|Jesus]]** was **[[:vi:key-terms/crucify|crucified]]** between **two robbers**. One of them **[[:vi:key-terms/mock|mocked]]** Jesus, but the other said, “Do you have no fear of **[[:vi:key-terms/god|God]]**? **We are [[:vi:key-terms/guilt|guilty]], but this man is [[:vi:key-terms/innocent|innocent]]**.” Then he said to Jesus, “**Please remember me**  **in your [[:vi:key-terms/kingdom-of-god|kingdom]]**.” Jesus answered him, “Today, you will be with me in **Paradise**.”
+===== Điều khoản quan trọng: =====
+
+  * **[[:vi:key-terms/jesus|Jesus]]**
+  * **[[:vi:key-terms/crucify|crucified]]**
+  * **[[:vi:key-terms/mock|mocked]]**
+  * **[[:vi:key-terms/god|God]]**
+  * **[[:vi:key-terms/guilt|guilty]]**
+  * **[[:vi:key-terms/innocent|innocent]]**
+  * **[[:vi:key-terms/kingdom-of-god|kingdom]]**
 
 
-==== Translation Notes: ====
+===== Phụ chú: =====
 
-
-  * **two robbers**  - This could also be translated as, “two bandits.” This refers to criminals who used force or violence to steal things.
-  * **Do you have no fear of God?**  - The robber does not expect an answer to this question; it is a way that some languages use to make a strong statement. If your language does not use questions in this way, then translate this as, “You should fear God!”
-  * **We are guilty but this man is innocent**  – This could be translated as, “You and I have done evil things and deserve to die, but this man, Jesus, has done nothing wrong and does not deserve to die.” “We” here includes both robbers, but does not include Jesus.
-  * **this man**  - This phrase refers to Jesus.
-  * **Please remember me**  - That is, “Please accept me” or, “Please welcome me” or, “Please allow me to be with you.” “Remember” here does not mean to recall something after forgetting it. Translate this in a way that communicates a humble request.
-  * **in your kingdom**  – That is, “when you establish your kingdom” or, “when you are ruling as king.”
-  * **Paradise**  - This is another name for “heaven.”
+  * **two robbers** - This could also be translated as, “two bandits.” This refers to criminals who used force or violence to steal things.
+  * **Do you have no fear of God?** - The robber does not expect an answer to this question; it is a way that some languages use to make a strong statement. If your language does not use questions in this way, then translate this as, “You should fear God!”
+  * **We are guilty but this man is innocent** - This could be translated as, “You and I have done evil things and deserve to die, but this man, Jesus, has done nothing wrong and does not deserve to die.” “We” here includes both robbers, but does not include Jesus.
+  * **this man** - This phrase refers to Jesus.
+  * **Please remember me** - That is, “Please accept me” or, “Please welcome me” or, “Please allow me to be with you.” “Remember” here does not mean to recall something after forgetting it. Translate this in a way that communicates a humble request.
+  * **in your kingdom** - That is, “when you establish your kingdom” or, “when you are ruling as king.”
+  * **Paradise** - This is another name for “heaven.”
 
 
 **[[:vi:obs:notes:frames:40-03|<<]] | [[:vi:obs:notes:40|Up]] | [[:vi:obs:notes:frames:40-05|>>]]**

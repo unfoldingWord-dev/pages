@@ -1,16 +1,19 @@
 ===== The Disciples Slept [38-13] =====
 
-
 {{:en:obs:obs-38-13.jpg?nolink&640x360}}
 
 
-**After each time of [[:vi:key-terms/pray|prayer]]**, **[[:vi:key-terms/jesus|Jesus]]** came back to his **[[:vi:key-terms/disciple|disciples]]**, but they were asleep. When he returned the third time, Jesus said, “Wake up! My **[[:vi:key-terms/betray|betrayer]]** is here.”
+===== Điều khoản quan trọng: =====
+
+  * **[[:vi:key-terms/pray|prayer]]**
+  * **[[:vi:key-terms/jesus|Jesus]]**
+  * **[[:vi:key-terms/disciple|disciples]]**
+  * **[[:vi:key-terms/betray|betrayer]]**
 
 
-==== Translation Notes: ====
+===== Phụ chú: =====
 
-
-  * **After each time of prayer**  - That is, “Every time Jesus prayed that prayer.” This refers to the three times he prayed, as mentioned in **[[:vi:obs:notes:frames:38-12|[38-12]]]**.
+  * **After each time of prayer** - That is, “Every time Jesus prayed that prayer.” This refers to the three times he prayed, as mentioned in **[[:vi:obs:notes:frames:38-12|[38-12]]]**.
 
 
 **[[:vi:obs:notes:frames:38-12|<<]] | [[:vi:obs:notes:38|Up]] | [[:vi:obs:notes:frames:38-14|>>]]**
