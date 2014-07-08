@@ -1,13 +1,21 @@
-====== A Descendent of David [48-13] ======
+===== A Descendent of David [48-13] =====
 
 {{:en:obs:obs-48-13.jpg?nolink&640x360}}
 
-**[[:en:key-terms:god|God]]** **[[:en:key-terms:promise|promised]]** **[[:en:key-terms:david|King David]]** that the **[[:en:key-terms:messiah|Messiah]]** would be one of his **[[:en:key-terms:descendant|descendants]]**. **[[:en:key-terms:jesus|Jesus]]**, the Messiah, was that special descendant of David.
+
+===== Important Terms: =====
+
+  * **[[:en:key-terms/god|God]]**
+  * **[[:en:key-terms/promise|promised]]**
+  * **[[:en:key-terms/david|King David]]**
+  * **[[:en:key-terms/messiah|Messiah]]**
+  * **[[:en:key-terms/descendant|descendants]]**
+  * **[[:en:key-terms/jesus|Jesus]]**
 
 
 ===== Translation Notes: =====
 
-  * //(There are no notes for this frame.)//
-  
+  * //(There are no notes for this frame.)// 
+
 
 **[[:en:obs:notes:frames:48-12|<<]] | [[:en:obs:notes:48|Up]] | [[:en:obs:notes:frames:48-14|>>]]**
