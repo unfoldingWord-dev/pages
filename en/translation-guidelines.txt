@@ -13,6 +13,20 @@
   - **Collaborative** — Where possible, work together with other believers who speak your language to translate, check, and distribute the translated content, ensuring that it is of the highest quality and available to as many people as possible.
   - **Ongoing** — Encourage the periodic review of translations to ascertain when revision or a new translation is needed.
 
+====== Managing and Identifying Translation Quality ======
+
+The quality of a translation generally refers to the fidelity of the translation to the meaning of the original, and the degree to which the translation is understandable and effective for the speakers of the receptor language. The strategy we suggest involves checking the forms and communicative quality of the translation with the language community, and checking the fidelity of the translation with the Church in that people group.
+
+The specific steps involved may vary significantly, depending on the language and context of the translation project. Generally, we consider a good translation to be one that is:
+
+  - **Accurate** - Faithful to the intended meaning of the original, as determined by the Church in that people group, and consequently:
+  - **Affirmed by the Church** - Endorsed and used by the Church.
+
+In addition, a good translation is reviewed by the speakers of the language community and is found to be:
+
+  - **Natural** - Using current forms of the language, and
+  - **Clear** - Strives for the highest level of comprehension by hearers.
+
 //see also: [[en:statement-of-faith|Statement of Faith]]//
 
 ~~DISCUSSION:off~~
