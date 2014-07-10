@@ -26,7 +26,4 @@
     *//Jacob. [07-10]//
 
 
-**[[en/obs-training/questions/06|<< Previous]] | [[en/obs-training/questions/08|Next >>]]**
-
-
-~~DISCUSSION~~
+**[[en/obs/notes/questions/06|<< Previous]] | [[en/obs/notes/questions/08|Next >>]]**
