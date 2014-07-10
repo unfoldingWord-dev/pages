@@ -36,7 +36,4 @@
     *//An agreement between two parties. [04-09]//
 
 
-**[[en/obs-training/questions/03|<< Previous]] | [[en/obs-training/questions/05|Next >>]]**
-
-
-~~DISCUSSION~~
+**[[en/obs/notes/questions/03|<< Previous]] | [[en/obs/notes/questions/05|Next >>]]**
