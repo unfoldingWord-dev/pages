@@ -38,18 +38,18 @@
 \p
 \b
 \q1
-\v 8 {Waktu kesusahan datang, orang yang hidup jujur akan luput// Orang yang hidup jujur akan luput pada waktu susah,
-\q2 sedangkan orang jahat tidak akan luput//tetapi orang jahat akan terjerat}.
+\v 8 Orang yang hidup jujur akan luput pada waktu susah,
+\q2 tetapi orang jahat akan terjerat}.
 \p
 \b
 \q1
-\v 9 Mulut orang yang tidak mau ikut TUHAN membinasakan orang lain,
-\q2 tetapi melalui {hikmat//kebijaksanaan} orang baik akan diselamatkan.
+\v 9 Mulut orang yang tidak mau mengikuti TUHAN membinasakan orang lain,
+\q2 tetapi dengan hikmat orang baik akan diselamatkan.
 \p
 \b
 \q1
-\v 10 Seluruh kota turut bergembira kalau {orang yang hidup jujur//orang jujur} mendapat keuntungan,
-\q2 dan waktu orang jahat mati semua orang di kota itu akan bersorak-sorai.
+\v 10 Seluruh kota turut bergembira kalau orang yang hidup jujur mendapat keuntungan,
+\q2 dan ketika orang jahat mati semua orang di kota itu akan bersorak-sorai.
 \p
 \b
 \q1
@@ -58,13 +58,13 @@
 \p
 \b
 \q1
-\v 12 Untuk menghina orang lain termasuk kebodohan.
-\q2 Orang yang berbudi akan berdiam diri saja.
+\v 12 Untuk menghina orang lain adalah kebodohan.
+\q2 Orang yang berbudi akan berdiam diri.
 \p
 \b
 \q1
-\v 13 Jangan percayakan informasi [sensitif dan] pribadi dengan orang yang suka membicarakan orang lain.
-\q2 Hanya orang yang bisa dipercaya [mampu/sanggup] untuk setia menyimpan rahasia buat temannya.
+\v 13 Jangan percayakan rahasia pribadi dengan orang yang suka membicarakan orang lain.
+\q2 Hanya orang yang dapat dipercaya, setia menyimpan rahasia temannya.
 \p
 \b
 \q1
@@ -73,8 +73,8 @@
 \p
 \b
 \q1
-\v 15 {Orang yang memberikan jaminan bagi orang yang tidak dia kenal, akan menyusahkan dirinya sendiri.//Kalau kamu tanda tangani surat kredit untuk menjamin utang dari orang yang kamu belum kenal baik, berarti kamu sudah masuk tempat bahaya;}
-\q2 {orang yang tidak melibatkan diri akan selamat//Kalau dia tidak bayar, terpaksa kamulah yang harus lunasi. Jadi lebih baik jangan terlibat.}
+\v 15 Orang yang memberikan jaminan bagi orang yang tidak dia kenal, akan menyusahkan dirinya sendiri;
+\q2 orang yang tidak melibatkan diri akan selamat.
 \p
 \b
 \q1
@@ -104,7 +104,7 @@
 \b
 \q1
 \v 21 Dipastikan bahwa orang yang jahat akan dihukum
-\q2 tetapi keturunan orang yang benar akan {luput//bebas}
+\q2 tetapi keturunan orang yang benar akan bebas.
 \p
 \b
 \q1
@@ -123,23 +123,23 @@
 \p
 \b
 \q1
-\v 25 Orang yang murah-hati kepada sesamanya akan {semakin//tambah} makmur,
-\q2 dan siapa saja yang menyegarkan orang lain, dia juga akan disegarkan.
+\v 25 Orang yang murah-hati kepada sesamanya akan bertambah makmur,
+\q2 dan siapa yang menyegarkan orang lain, juga akan disegarkan.
 \p
 \b
 \q1
 \v 26 Dalam waktu kelaparan, orang yang menjual makanan dengan harga yang benar akan dipuji oleh semua orang,
-\q2 tetapi semua orang yang {mengambil keuntungan// pakai situasi seperti itu} untuk menjadi kaya akan dihina.
+\q2 tetapi semua orang yang mengambil keuntungan untuk menjadi kaya akan dihina.
 \p
 \b
 \q1
-\v 27 {Orang yang melakukan kebaikan, akan disenangi dan dihormati//Kalau kamu berusaha hidup baik, kamu akan disenangi dan dihormati}.
-\q2 {Tetapi orang yang melakukan kejahatan, pasti akan mendapatkan ganjaran//Kalau kamu berusaha hidup dengan kejahatan, kamu pasti berhasil mendapatkannya}!
+\v 27 Orang yang melakukan kebaikan, akan disenangi dan dihormati.
+\q2 Tetapi orang yang melakukan kejahatan, pasti akan mendapatkan ganjaran!
 \p
 \b
 \q1
-\v 28 {Orang yang mengandalkan harta kekayaannya akan layu seperti daun yang kering //Kalau kamu bersandar kepada kekayaanmu, kamu akan layu seperti daun tua},
-\q2 {tetapi orang yang hidup berkenan kepada Allah akan berkembang seperti dedaunan yang lebat //tetapi orang yang hidup untuk menyenangkan Allah akan berkembang seperti tunas muda}.
+\v 28 Orang yang mengandalkan harta kekayaannya akan layu seperti daun yang kering,
+\q2 tetapi orang yang hidup untuk menyenangkan Allah akan berkembang seperti tunas muda.
 \p
 \b
 \q1
@@ -152,7 +152,7 @@
 \p
 \b
 \q1
-\v 31 {Kalau orang benar menerima balasan karena kebaikan mereka//Sudah terbukti bahwa orang-orang benar menerima upah karena kebaikan mereka}.
-\q2  dapat dipastikan orang jahat dan berdosa akan menerima ganjarannya!//Jadi sudah jelas bahwa orang berdosa akan terima hukuman sesuai kejahatan mereka!
+v 31 Orang benar menerima balasan karena kebaikan mereka.
+\q2  Jadi sudah jelas bahwa orang berdosa akan terima hukuman sesuai kejahatan mereka!
 </USFM>
 ~~DISCUSSIONS:on~~
