@@ -1,25 +1,23 @@
 ===== An Angel Spoke to Mary [22-04] =====
 
+
 {{:en:obs:obs-22-04.jpg?nolink&640x360}}
 
 
 ===== Điều khoản quan trọng: =====
 
-  * **[[:vi:key-terms/angel|angel]]**
-  * **[[:vi:key-terms/mary|Mary]]**
-  * **[[:vi:key-terms/virgin|virgin]]**
-  * **[[:vi:key-terms/joseph-nt|Joseph]]**
-  * **[[:vi:key-terms/jesus|Jesus]]**
-  * **[[:vi:key-terms/messiah|Messiah]]**
 
-
+    * **[[:vi:key-terms:angel|angel]]**
+    * **[[:vi:key-terms:mary|Mary]]**
+    * **[[:vi:key-terms:virgin|virgin]]**
+    * **[[:vi:key-terms:joseph-nt|Joseph]]**
+    * **[[:vi:key-terms:jesus|Jesus]]**
+    * **[[:vi:key-terms:messiah|Messiah]]** 
 ===== Phụ chú: =====
 
-  * **six months pregnant** - Either she had already been pregnant for six months or she was in the sixth month of her pregnancy.
-  * **pregnant** - Different languages have different idioms to talk about pregnancy, such as “she was with child” or, “she had one in her body” or, “she had belly.” Some languages have special ways of speaking about it politely, such as “she was expecting.” Use an expression that will not be embarrassing to readers.
-  * **Elizabeth** - She was Zechariah's wife. An angel told Zechariah that Elizabeth would give birth to a son.
-  * **Elizabeth’s relative** - Many translations say, “cousin” here but we don't know exactly how these two women were related. A general term like, “relative,” “kin” or, “cousin” could be used.
-  * **was engaged** - That is, “was promised.”
 
-
+    * **Mang thai được sáu tháng:**  Có thể là bà đã mang thai được sáu tháng rồi hoặc bà đang mang thai ở tháng thứ sáu.
+    * **Mang thai:**  Những ngôn ngữ khác nhau có những thành ngữ khác nhau để nói đến vấn đề có thai, ví dụ như “Bà ấy mang thai đứa con” hoặc “Bà ấy có con” hoặc “Bà ấy có chửa rồi”. Một vài ngôn ngữ còn có những cách nói lịch sự đặc biệt về vấn đề này ví dụ như “Bà ấy đang nuôi một niềm hi vọng”. Hãy dùng cách nói nào không gây lúng túng cho người đọc”,
+    * **Người bà con của Ê-li-sa-bét**: Nhiều bản dịch cho rằng ở đây chính là “cháu” nhưng chúng ta không biết chắc chắn về mối liên hệ của hai người nữ này là gì. Vậy nên chúng ta nên sử dụng những từ chung nhất như “bà con” hoặc “họ hàng” hoặc “cháu”.
+    * **Đã hứa hôn với:**  Nghĩa là “đã được hứa gả cho”.
 **[[:vi:obs:notes:frames:22-03|<<]] | [[:vi:obs:notes:22|Up]] | [[:vi:obs:notes:frames:22-05|>>]]**

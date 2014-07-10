@@ -1,23 +1,22 @@
 ===== God Spoke to Zechariah [22-01] =====
 
+
 {{:en:obs:obs-22-01.jpg?nolink&640x360}}
 
 
 ===== Điều khoản quan trọng: =====
 
-  * **[[:vi:key-terms/god|God]]**
-  * **[[:vi:key-terms/angel|angels]]**
-  * **[[:vi:key-terms/prophet|prophets]]**
-  * **[[:vi:key-terms/priest|priest]]**
-  * **[[:vi:key-terms/zechariah-nt|Zechariah]]**
 
-
+    * **[[:vi:key-terms:god|God]]**
+    * **[[:vi:key-terms:angel|angels]]**
+    * **[[:vi:key-terms:prophet|prophets]]**
+    * **[[:vi:key-terms:priest|priest]]**
+    * **[[:vi:key-terms:zechariah-nt|Zechariah]]** 
 ===== Phụ chú: =====
 
-  * **his people** - This could be translated as, “his people, the Israelites” or “his people, the Jews.” But only include the added information if it is not clearly understood who these people were.
-  * **400 years went by** - Another way to say this would be, “400 years passed” or “there were 400 years.” 400 years had passed since the last Old Testament prophet, Malachi.
-  * **when he did not speak to them** - That is, “during which God did not give any messages to the prophets for his people.”
-  * **godly people** - That is, “people who obeyed God.”
 
-
+    * **Dân sự của Ngài:**  Có thể dịch thành “dân sự của Ngài, tức là dân Y-sơ-ra-ên” hoặc “dân sự của Ngài, tức là dân Giu-đa”. Nhưng chỉ được thêm thông tin này vào khi nó không rõ để hiểu được những người này là ai.
+    * **400 đã trôi qua:**  Có một cách dịch khác là “đã 400 trôi qua” hoặc “400 đã qua đi”. 400 năm đã qua kể từ lời tiên tri cuối cùng của Xa-cha-ri vào thời Cựu ước.
+    * **Khi Ngài không hề phán cùng họ nữa:**  Có nghĩa là “trong suốt quãng thời gian mà Đức Chúa Trời không hề ban cho bất kỳ một thông điệp nào cho các đấng tiên tri đến dân sự của Ngài”.
+    * **Những người kính sợ Đức Chúa Trời:**  Đó là “những người vâng phục Đức Chúa Trời”.
 **[[:vi:obs:notes:frames:21-15|<<]] | [[:vi:obs:notes:22|Up]] | [[:vi:obs:notes:frames:22-02|>>]]**
