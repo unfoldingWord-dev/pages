@@ -1,3 +1,78 @@
 ====== Bible Translation Resources - In Development ======
 
 This is the working namespace for use in the creation of the resources for the translation of the Bible.
+
+
+===== Bible Book numbers in ParaTExt: ======
+
+Number Abbreviation English name Alternative name/Further explanatory notes\\
+01 GEN Genesis ￼ ￼ 1 Moses in some Bibles\\
+02 EXO Exodus ￼ ￼ 2 Moses in some Bibles
+03 LEV Leviticus ￼ ￼ 3 Moses in some Bibles
+04 NUM Numbers ￼ ￼ 4 Moses in some Bibles
+05 DEU Deuteronomy ￼ ￼ 5 Moses in some Bibles
+06 JOS Joshua
+07 JDG Judges
+08 RUT Ruth
+09 1SA 1 Samuel 1 Kings or Kingdoms in Orthodox Bibles; do not confuse this abbreviation with ISA for Isaiah
+10 2SA 2 Samuel ￼ ￼ 2 Kings or Kingdoms in Orthodox Bibles
+11 1KI 1 Kings ￼ ￼ 3 Kings or Kingdoms in Orthodox Bibles
+12 2KI 2 Kings ￼ ￼ 4 Kings or Kingdoms in Orthodox Bibles
+13 1CH 1 Chronicles ￼ ￼ 1 Paralipomenon in Orthodox Bibles
+14 2CH 2 Chronicles ￼ ￼ 2 Paralipomenon in Orthodox Bibles
+15 EZR Ezra This is for Hebrew Ezra, sometimes called 1 Ezra or 1 Esdras; also for Ezra-Nehemiah when one book
+16 NEH Nehemiah Sometimes appended to Ezra; called 2 Esdras in the Vulgate
+17 EST Esther (Hebrew) This is for Hebrew Esther; for the longer Greek LXX Esther use ESG
+18 JOB Job
+19 PSA Psalms 150 Psalms in Hebrew, 151 Psalms in Orthodox Bibles, 155 Psalms in West Syriac Bibles, if you put Psalm 151 separately in an Apocrypha use PS2, for
+Psalms 152-155 use PS3
+20 PRO Proverbs ￼ ￼ 31 Proverbs, but 24 Proverbs in the Ethiopian Bible
+21 ECC Ecclesiastes ￼ ￼ Qoholeth in Catholic Bibles; for Ecclesiasticus use SIR
+22 SNG Song of Songs Song of Solomon, or Canticles of Canticles in Catholic Bibles
+23 ISA Isaiah Do not confuse this abbreviation with 1SA for 1 Samuel
+24 JER Jeremiah The Book of Jeremiah; for the Letter of Jeremiah use LJE
+25 LAM Lamentations ￼ ￼ The Lamentations of Jeremiah
+26 EZK Ezekiel
+27 DAN Daniel (Hebrew) This is for Hebrew Daniel; for the longer Greek LXX Daniel use DAG
+28 HOS Hosea
+29 JOL Joel
+30 AMO Amos
+31 OBA Obadiah
+32 JON Jonah ￼ ￼ Do not confuse this abbreviation with JHN for John
+33 MIC Micah
+34 NAM Nahum
+￼© 2012 United Bible Societies - ICAP
+11 USFM – Identification
+￼￼￼￼
+35 HAB Habakkuk
+36 ZEP Zephaniah
+37 HAG Haggai
+38 ZEC Zechariah
+39 MAL Malachi
+41 MAT Matthew ￼ ￼ The Gospel according to Matthew
+42 MRK Mark ￼ ￼ The Gospel according to Mark
+43 LUK Luke ￼ ￼ The Gospel according to Luke
+44 JHN John ￼ ￼ The Gospel according to John
+45 ACT Acts ￼ ￼ The Acts of the Apostles
+46 ROM Romans ￼ ￼ The Letter of Paul to the Romans
+47 1CO 1 Corinthians ￼ ￼ The First Letter of Paul to the Corinthians
+48 2CO 2 Corinthians ￼ ￼ The Second Letter of Paul to the Corinthians
+49 GAL Galatians ￼ ￼ The Letter of Paul to the Galatians
+50 EPH Ephesians ￼ ￼ The Letter of Paul to the Ephesians
+51 PHP Philippians ￼ ￼ The Letter of Paul to the Philippians
+52 COL Colossians ￼ ￼ The Letter of Paul to the Colossians
+53 1TH 1 Thessalonians The First Letter of Paul to the Thessalonians
+54 2TH 2 Thessalonians The Second Letter of Paul to the Thessalonians
+55 1TI 1 Timothy ￼ ￼ The First Letter of Paul to Timothy
+56 2TI 2 Timothy ￼ ￼ The Second Letter of Paul to Timothy
+57 TIT Titus ￼ ￼ The Letter of Paul to Titus
+58 PHM Philemon ￼ ￼ The Letter of Paul to Philemon
+59 HEB Hebrews ￼ ￼ The Letter to the Hebrews
+60 JAS James ￼ ￼ The Letter of James
+61 1PE 1 Peter ￼ ￼ The First Letter of Peter
+62 2PE 2 Peter ￼ ￼ The Second Letter of Peter
+63 1JN 1 John ￼ ￼ The First Letter of John
+64 2JN 2 John ￼ ￼ The Second Letter of John
+65 3JN 3 John ￼ ￼ The Third Letter of John
+66 JUD Jude The Letter of Jude; do not confuse this abbreviation with JDG for Judges, or JDT for Judith
+67 REV Revelation The Revelation to John; called Apocalypse in Catholic Bibles
