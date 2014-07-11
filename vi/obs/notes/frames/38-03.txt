@@ -1,21 +1,20 @@
 ===== Thirty Pieces of Silver [38-03] =====
 
+
 {{:en:obs:obs-38-03.jpg?nolink&640x360}}
 
 
 ===== Điều khoản quan trọng: =====
 
-  * **[[:vi:key-terms/jewish-leaders|Jewish leaders]]**
-  * **[[:vi:key-terms/priest-high|high priest]]**
-  * **[[:vi:key-terms/judas|Judas]]**
-  * **[[:vi:key-terms/betray|betray]]**
-  * **[[:vi:key-terms/jesus|Jesus]]**
-  * **[[:vi:key-terms/prophet|prophets]]**
 
-
+    * **[[:vi:key-terms:jewish-leaders|Jewish leaders]]**
+    * **[[:vi:key-terms:priest-high|high priest]]**
+    * **[[:vi:key-terms:judas|Judas]]**
+    * **[[:vi:key-terms:betray|betray]]**
+    * **[[:vi:key-terms:jesus|Jesus]]**
+    * **[[:vi:key-terms:prophet|prophets]]** 
 ===== Phụ chú: =====
 
-  * **thirty silver coins** - Each of these coins were worth about four days' wages.
 
-
+    * **ba mươi đồng bạc**– Mỗi đồng có giá bốn ngày làm việc.
 **[[:vi:obs:notes:frames:38-02|<<]] | [[:vi:obs:notes:38|Up]] | [[:vi:obs:notes:frames:38-04|>>]]**

@@ -1,24 +1,23 @@
 ===== This Is My Body [38-04] =====
 
+
 {{:en:obs:obs-38-04.jpg?nolink&640x360}}
 
 
 ===== Điều khoản quan trọng: =====
 
-  * **[[:vi:key-terms/jerusalem|Jerusalem]]**
-  * **[[:vi:key-terms/jesus|Jesus]]**
-  * **[[:vi:key-terms/passover|Passover]]**
-  * **[[:vi:key-terms/disciple|disciples]]**
-  * **[[:vi:key-terms/sacrifice|sacrificed]]**
 
-
+    * **[[:vi:key-terms:jerusalem|Jerusalem]]**
+    * **[[:vi:key-terms:jesus|Jesus]]**
+    * **[[:vi:key-terms:passover|Passover]]**
+    * **[[:vi:key-terms:disciple|disciples]]**
+    * **[[:vi:key-terms:sacrifice|sacrificed]]** 
 ===== Phụ chú: =====
 
-  * **celebrated** - That is, “was celebrating.”
-  * **took some bread** - This could be translated as, “picked up a piece of bread” or, “picked up a flat loaf of bread.”
-  * **broke it** - Some languages should say, “tore it in pieces” or, “tore it in half” or, “tore off part of it.”
-  * **given for you** - This can also be translated as, “which I give for you.”
-  * **Do this to remember me** - That is, “Do this as a way to remind yourselves of what I am doing for you.” Jesus was referring to his death, which would happen soon.
 
-
+    * **tổ chức ăn **– Tức là: “đang tổ chức ăn”
+    * **lấy bánh **– Chỗ nầy có thể dịch là, “cầm một miếng bánh” hay “cầm một miếng bánh mỏng”
+    * **bẻ nó ra**– Một số ngôn ngữ phải nói là: “xé nó ra nhỏ hơn” hay “xé nó ra làm hai” hay “xé nó ra thành những phần nhỏ”.
+    * **vì các ngươi mà phó dâng**– Chỗ nầy có thể dịch là: “là thân thể ta cho ngươi”.
+    * **Hãy làm điều nầy để nhớ ta **– Tức là: “Hãy làm điều nầy như cách để nhắc nhở mình những gì ta đã làm cho các ngươi”. Chúa Jêsus đang ám chỉ đến sự chết của Ngài, là điều sẽ sớm xảy ra.
 **[[:vi:obs:notes:frames:38-03|<<]] | [[:vi:obs:notes:38|Up]] | [[:vi:obs:notes:frames:38-05|>>]]**

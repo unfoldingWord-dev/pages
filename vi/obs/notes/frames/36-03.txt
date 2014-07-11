@@ -1,23 +1,22 @@
 ===== Moses and Elijah [36-03] =====
 
+
 {{:en:obs:obs-36-03.jpg?nolink&640x360}}
 
 
 ===== Điều khoản quan trọng: =====
 
-  * **[[:vi:key-terms/moses|Moses]]**
-  * **[[:vi:key-terms/[prophet|prophet]]**
-  * **[[:vi:key-terms/elijah|Elijah]]**
-  * **[[:vi:key-terms/jesus|Jesus]]**
-  * **[[:vi:key-terms/death|death]]**
-  * **[[:vi:key-terms/jerusalem|Jerusalem]]**
 
-
+    * **[[:vi:key-terms:moses|Moses]]**
+    * **[[:vi:key-terms:prophet|prophet]]**
+    * **[[:vi:key-terms:elijah|Elijah]]**
+    * **[[:vi:key-terms:jesus|Jesus]]**
+    * **[[:vi:key-terms:death|death]]**
+    * **[[:vi:key-terms:jerusalem|Jerusalem]]** 
 ===== Phụ chú: =====
 
-  * **appeared** - It is also possible to say, “appeared out of nowhere.” They suddenly were there.
-  * **his death, which would soon happen** - This could be translated as, “how he would soon die” or, “how he would soon be killed.”
-  * **in Jerusalem** - Some languages may prefer to say, “in the city of Jerusalem.”
 
-
+    * **hiện ra**– Cũng có thể nói là: “ở đâu đó hiện ra”. Họ bất thình lình ở đó.
+    * **sự chết của Ngài, là điều sắp phải xảy ra**– Chỗ nầy có thể dịch là: “thể nào Ngài sẽ phải chết” hay “thể nào Ngài sẽ bị giết”.
+    * **tại Giê-ru-sa-lem **– Một số ngôn ngữ có lẽ chọn nói rằng: “trong thành Giê-ru-sa-lem”.
 **[[:vi:obs:notes:frames:36-02|<<]] | [[:vi:obs:notes:36|Up]] | [[:vi:obs:notes:frames:36-04|>>]]**

@@ -1,21 +1,20 @@
 ===== Open the Tomb [37-07] =====
 
+
 {{:en:obs:obs-37-07.jpg?nolink&640x360}}
 
 
 ===== Điều khoản quan trọng: =====
 
-  * **[[:vi:key-terms/tomb|tomb]]**
-  * **[[:vi:key-terms/jesus|Jesus]]**
-  * **[[:vi:key-terms/death|dead]]**
 
-
+    * **[[:vi:key-terms:tomb|tomb]]**
+    * **[[:vi:key-terms:jesus|Jesus]]**
+    * **[[:vi:key-terms:death|dead]]** 
 ===== Phụ chú: =====
 
-  * **he told them** - That is, “he told the men there.” He was probably not telling Mary and Martha to roll the stone away.
-  * **Roll the stone away** - Some languages may prefer to say, “Roll the stone away from the opening of the tomb.”
-  * **Martha** - Martha was the sister of Lazarus and Mary. See **[[:vi:obs:notes:frames:37-01|[37-01]]]**.
-  * **He has been dead for four days** - This could also be translated as, “He died four days ago and his body is lying there.”
 
-
+    * **Ngài nói với họ**- Tức là: “Ngài nói với những người đàn ông ở đo”. Chắc chắn Ngài không nói với Ma-ri và Ma-thê để lăn hòn đá ra.
+    * **Hãy lăn hòn đá ra**– Một số ngôn ngữ có thể nói rằng: “Hãy lăn hòn đá khỏi cửa mộ”.
+    * **Ma-thê**– Ma-thê là chị em với La-xa-rơ và Ma-ri. Xem **[[:vi:obs:notes:frames:37-01|[37-01]]]**.
+    * **Người đã chết được bốn ngày rồi**– Chỗ nầy có thể dịch là: “Người đã chết bốn ngày trước và thân xác thì nằm ở trong đó”.
 **[[:vi:obs:notes:frames:37-06|<<]] | [[:vi:obs:notes:37|Up]] | [[:vi:obs:notes:frames:37-08|>>]]**

@@ -1,17 +1,18 @@
 ===== The Brother Is Angry [35-11] =====
 
+
 {{:en:obs:obs-35-11.jpg?nolink&640x360}}
 
 
 ===== Điều khoản quan trọng: =====
 
-  * **[[:vi:key-terms/son|son]]**
-  * **[[:vi:key-terms/beg|begged]]**
 
-
+    * **[[:vi:key-terms:son|son]]**
+    * **[[:vi:key-terms:beg|begged]]** 
 ===== Phụ chú: =====
 
-  * (Jesus continues the story.)
+
+    * (Chúa Jêsus tiếp tục câu chuyện).
 
 
 **[[:vi:obs:notes:frames:35-10|<<]] | [[:vi:obs:notes:35|Up]] | [[:vi:obs:notes:frames:35-12|>>]]**

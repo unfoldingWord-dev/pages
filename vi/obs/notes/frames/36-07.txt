@@ -1,19 +1,17 @@
 ===== Keep the Secret [36-07] =====
 
+
 {{:en:obs:obs-36-07.jpg?nolink&640x360}}
 
 
 ===== Điều khoản quan trọng: =====
 
-  * **[[:vi:key-terms/jesus|Jesus]]**
-  * **[[:vi:key-terms/disciple|disciples]]**
-  * **[[:vi:key-terms/death|die]]**
-  * **[[:vi:key-terms/life|life]]**
 
-
+    * **[[:vi:key-terms:jesus|Jesus]]**
+    * **[[:vi:key-terms:disciple|disciples]]**
+    * **[[:vi:key-terms:death|die]]**
+    * **[[:vi:key-terms:life|life]]** 
 ===== Phụ chú: =====
-
-  * //A Bible story from//  - These references may be slightly different in some Bible translations.
 
 
 **[[:vi:obs:notes:frames:36-06|<<]] | [[:vi:obs:notes:36|Up]] | [[:vi:obs:notes:frames:37-01|>>]]**

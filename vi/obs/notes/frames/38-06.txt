@@ -1,20 +1,19 @@
 ===== The Betrayer [38-06] =====
 
+
 {{:en:obs:obs-38-06.jpg?nolink&640x360}}
 
 
 ===== Điều khoản quan trọng: =====
 
-  * **[[:vi:key-terms/jesus|Jesus]]**
-  * **[[:vi:key-terms/disciple|disciples]]**
-  * **[[:vi:key-terms/betray|betray]]**
-  * **[[:vi:key-terms/judas|Judas]]**
 
-
+    * **[[:vi:key-terms:jesus|Jesus]]**
+    * **[[:vi:key-terms:disciple|disciples]]**
+    * **[[:vi:key-terms:betray|betray]]**
+    * **[[:vi:key-terms:judas|Judas]]** 
 ===== Phụ chú: =====
 
-  * **give this piece of bread** - That is, “hand this piece of bread.”
-  * **is the betrayer** - This could also be translated as, “will betray me” or, “is the one who will betray me.”
 
-
+    * **đưa bánh nầy**– Tức là: “trao bánh nầy”.
+    * **là kẻ phản bội**– Chỗ nầy có thể dịch là: “sẽ phản ta” hay “là người sẽ phản bội ta”.
 **[[:vi:obs:notes:frames:38-05|<<]] | [[:vi:obs:notes:38|Up]] | [[:vi:obs:notes:frames:38-07|>>]]**

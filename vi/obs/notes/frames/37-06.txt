@@ -1,22 +1,22 @@
 ===== Mary Met Jesus [37-06] =====
 
+
 {{:en:obs:obs-37-06.jpg?nolink&640x360}}
 
 
 ===== Điều khoản quan trọng: =====
 
-  * **[[:vi:key-terms/jesus|Jesus]]**
-  * **[[:vi:key-terms/lord|Master]]**
-  * **[[:vi:key-terms/death|died]]**
-  * **[[:vi:key-terms/lazarus|Lazarus]]**
-  * **[[:vi:key-terms/tomb|tomb]]**
 
-
+    * **[[:vi:key-terms:jesus|Jesus]]**
+    * **[[:vi:key-terms:lord|Master]]**
+    * **[[:vi:key-terms:death|died]]**
+    * **[[:vi:key-terms:lazarus|Lazarus]]**
+    * **[[:vi:key-terms:tomb|tomb]]** 
 ===== Phụ chú: =====
 
-  * **Mary** - This was the same woman as in **[[:vi:obs:notes:frames:37-01|[37-01]]]**, not the mother of Jesus.
-  * **fell at the feet of Jesus** - That is, “knelt down at Jesus' feet” as a sign of respect.
-  * **my brother would not have died.** - That is, “you could have kept my brother from dying” or, “you could have prevented my brother's death” or, “my brother would still be alive.”
 
-
+    * **Ma-ri**– Đây cũng là người đàn bà tron **[[:vi:obs:notes:frames:37-01|[37-01]]]**,
+    * không phải mẹ của Chúa Jêsus.
+    * **Buông mình xuống dưới chân của Chúa Jêsus**– Tức là: “quỳ xuống dưới chân của Chúa Jêsus” như một dấu hiệu của sự tôn trọng.
+    * **Anh tôi sẽ không chết đâu**– Tức là: “Ngài có thể cứu anh tôi khỏi chết” hay “Ngài có thể giữ cho anh tôi khỏi sự chết” hay “anh tôi vẫn còn sống”.
 **[[:vi:obs:notes:frames:37-05|<<]] | [[:vi:obs:notes:37|Up]] | [[:vi:obs:notes:frames:37-07|>>]]**
