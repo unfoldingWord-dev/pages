@@ -1,20 +1,19 @@
 ===== The Yeast [34-03] =====
 
+
 {{:en:obs:obs-34-03.jpg?nolink&640x360}}
 
 
 ===== Điều khoản quan trọng: =====
 
-  * **[[:vi:key-terms/jesus|Jesus]]**
-  * **[[:vi:key-terms/kingdom-of-god|kingdom of God]]**
 
-
+    * **[[:vi:key-terms:jesus|Jesus]]**
+    * **[[:vi:key-terms:kingdom-of-god|kingdom of God]]** 
 ===== Phụ chú: =====
 
-  * **story** - See how you translated this term in **[[:vi:obs:notes:frames:34-01|[34-01]]]**.
-  * **yeast** - This can also be translated as, “leaven” or, “the little bit of leaven.” It is added to bread dough to make it rise. A little bit of yeast can be mixed into a large amount of dough and make the whole batch of dough rise.
-  * **bread dough** - This is a mixture of flour and liquid that can be shaped and baked into bread. If you do not have words for dough or flour, you can borrow a word for flour or call it “ground-up grain.”
-  * **it spreads throughout the dough** - That is, “every part of the dough has yeast in it” or, “the yeast grows throughout all the dough.”
 
-
+    * **câu chuyện**– Hãy xem lại phần quý vị đã dịch trong **[[:vi:obs:notes:frames:34-01|[34-01]]]**.
+    * **men**– Chổ nầy có thể dịch là: “một chút men”. Nó được thêm vào bột làm bánh để khiến phồng lên. Một chút men có thể trộn với một số lượng lớn bột và làm cho cả đống bột phình lên.
+    * **bột làm bánh **– Đây là một sự hòa trộn giữa bột và chất lỏng để có thể uống nắn và nướng lên thành bánh mì. Nếu quý vị có những từ ngữ nào cho bột hào hay bột mì, quý vị có thể mượn một từ cho bột mì hay gọi nó là: “làm nổi hột lên”.
+    * **Nó làm phồng cả đống bột lên**– Tức là: “mỗi phần của bột đều có men dính trong đó” hay “men lan dính cả đống bột”.
 **[[:vi:obs:notes:frames:34-02|<<]] | [[:vi:obs:notes:34|Up]] | [[:vi:obs:notes:frames:34-04|>>]]**

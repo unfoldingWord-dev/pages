@@ -1,18 +1,19 @@
 ===== The Religious Leaders Grumbled [35-02] =====
 
+
 {{:en:obs:obs-35-02.jpg?nolink&640x360}}
 
 
 ===== Điều khoản quan trọng: =====
 
-  * **[[:vi:key-terms/jewish-leaders|religious leaders]]**
-  * **[[:vi:key-terms/jesus|Jesus]]**
-  * **[[:vi:key-terms/sin|sinners]]**
 
-
+    * **[[:vi:key-terms:jewish-leaders|religious leaders]]**
+    * **[[:vi:key-terms:jesus|Jesus]]**
+    * **[[:vi:key-terms:sin|sinners]]** 
 ===== Phụ chú: =====
 
-  * **story** - Jesus used this story to teach truths about God's kingdom. It is not clear if the events actually happened or not. If your language has a term that includes both fictional and real stories, you should use it here.
 
-
+    * (Chúa Jêsus tiếp tục câu chuyện).
+    * **Của thừa kế của con**– Chỗ nầy có thể dịch là: “một phần tài sản của cha sẽ chắc chắn thuộc về con khi cha chết đi”.
+    * **Gia tài**– Tức là: “của cải” hay “những vật sở hữu”. Tài sản nầy tất nhiên gồm có đất đai, gia súc và tiền bạc.
 **[[:vi:obs:notes:frames:35-01|<<]] | [[:vi:obs:notes:35|Up]] | [[:vi:obs:notes:frames:35-03|>>]]**

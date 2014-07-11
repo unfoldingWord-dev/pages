@@ -1,23 +1,22 @@
 ===== Two Men at the Temple [34-06] =====
 
+
 {{:en:obs:obs-34-06.jpg?nolink&640x360}}
 
 
 ===== Điều khoản quan trọng: =====
 
-  * **[[:vi:key-terms/jesus|Jesus]]**
-  * **[[:vi:key-terms/trust|trusted]]**
-  * **[[:vi:key-terms/temple|Temple]]**
-  * **[[:vi:key-terms/pray|pray]]**
-  * **[[:vi:key-terms/tax-collector|tax collector]]**
-  * **[[:vi:key-terms/jewish-leaders|religious leader]]**
 
-
+    * **[[:vi:key-terms:jesus|Jesus]]**
+    * **[[:vi:key-terms:trust|trusted]]**
+    * **[[:vi:key-terms:temple|Temple]]**
+    * **[[:vi:key-terms:pray|pray]]**
+    * **[[:vi:key-terms:tax-collector|tax collector]]**
+    * **[[:vi:key-terms:jewish-leaders|religious leader]]** 
 ===== Phụ chú: =====
 
-  * **story** - See how you translated this term in **[[:vi:obs:notes:frames:34-01|[34-01]]]**.
-  * **trusted in their own good deeds** - That is, “believed that their good deeds made them righteous” or, “were proud of how perfectly they kept God's law” or, “believed that their good deeds caused God to be completely pleased with them.”
-  * **despised other people** - That is, “considered other people to be inferior to them” or, “looked down on other people.”
 
-
+    * **câu chuyện**– Hãy xem lại phần quý vị đã dịch trong **[[:vi:obs:notes:frames:34-01|[34-01]]]**.
+    * **tin cậy nơi việc lành của mình **– Tức là: “tin rằng việc lành của họ khiến họ công bình” hay “tự hào về cách họ giữ luật pháp của Đức Chúa Trời hoàn hảo thế nào” hay “tin rằng việc lành của họ khiến Đức Chúa Trời hoàn toàn vui lòng về họ”.
+    * **phớt lờ người khác**– Tức là: “xem người khác là hạ lưu so với mình” hay “xem thường người khác”.
 **[[:vi:obs:notes:frames:34-05|<<]] | [[:vi:obs:notes:34|Up]] | [[:vi:obs:notes:frames:34-07|>>]]**
