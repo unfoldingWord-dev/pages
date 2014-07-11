@@ -7,27 +7,23 @@
 ===== Điều khoản quan trọng: =====
 
 
-  * **[[:vi:key-terms:king|kings]]**
-  * **[[:vi:key-terms:kingdom-of-judah|Judah]]**
-  * **[[:vi:key-terms:descendant|descendants]]**
-  * **[[:vi:key-terms:david|David]]**
-  * **[[:vi:key-terms:good|good]]**
-  * **[[:vi:key-terms:justice|justly]]**
-  * **[[:vi:key-terms:worship|worshiped]]**
-  * **[[:vi:key-terms:god|God]]**
-  * **[[:vi:key-terms:evil|evil]]**
-  * **[[:vi:key-terms:idol|idols]]**
-  * **[[:vi:key-terms:sacrifice|sacrificed]]**
-  * **[[:vi:key-terms:god-false|gods]]**
-  * **[[:vi:key-terms:rebel|rebelled]]**
-
-
+    * **[[:vi:key-terms:king|kings]]**
+    * **[[:vi:key-terms:kingdom-of-judah|Judah]]**
+    * **[[:vi:key-terms:descendant|descendants]]**
+    * **[[:vi:key-terms:david|David]]**
+    * **[[:vi:key-terms:good|good]]**
+    * **[[:vi:key-terms:justice|justly]]**
+    * **[[:vi:key-terms:worship|worshiped]]**
+    * **[[:vi:key-terms:god|God]]**
+    * **[[:vi:key-terms:evil|evil]]**
+    * **[[:vi:key-terms:idol|idols]]**
+    * **[[:vi:key-terms:sacrifice|sacrificed]]**
+    * **[[:vi:key-terms:god-false|gods]]**
+    * **[[:vi:key-terms:rebel|rebelled]]** 
 ===== Phụ chú: =====
 
 
-  * **ruled justly** - This means they ruled according to God's laws. This can be translated as, “when they ruled, they did what was right.”
-  * **corrupt** - This can be translated as, “did what was wrong in order to get whatever they wanted.”
-  * //A Bible story from// - These references may be slightly different in some Bible translations.
-
-
+    * **Trị vì cách công bình:**  Điều này có nghĩa là họ trị vì đất nước dựa theo luật pháp của Đức Chúa Trời. Có thể dịch thành là “Khi họ cai quản đất nước, họ làm những việc phải lẽ”.
+    * **Bại hoại:**  Điều này có thể được dịch thành “làm những việc sai trái đặng đạt được điều mình muốn”.
+    * **Thờ lạy hình tượng:**  Điều này có thể được dịch thành “và thờ lạy các hình tượng”.
 **[[:vi:obs:notes:frames:18-12|<<]] | [[:vi:obs:notes:18|Up]] | [[:vi:obs:notes:frames:19-01|>>]]**
