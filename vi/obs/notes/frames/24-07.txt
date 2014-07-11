@@ -1,21 +1,19 @@
 ===== John Baptized Jesus [24-07] =====
 
+
 {{:en:obs:obs-24-07.jpg?nolink&640x360}}
 
 
 ===== Điều khoản quan trọng: =====
 
 
-  * **[[:vi:key-terms/john-baptist|John]]**
-  * **[[:vi:key-terms/jesus|Jesus]]**
-  * **[[:vi:key-terms/baptize|baptize]]**
-  * **[[:vi:key-terms/sin|sinned]]**
-
-
+    * **[[:vi:key-terms:john-baptist|John]]**
+    * **[[:vi:key-terms:jesus|Jesus]]**
+    * **[[:vi:key-terms:baptize|baptize]]**
+    * **[[:vi:key-terms:sin|sinned]]** 
 ===== Phụ chú: =====
 
-  * **I am not worthy to baptize you** - This could be translated as, “I am not good enough to baptize you” or, “I am sinful, so I should not baptize you.”
-  * **it is the right thing to do** - This might also be translated as, “it is the proper thing to do” or, “this is what God wants me to do.”
 
-
+    * **Tôi không xứng đáng làm phép báp-têm cho Ngài:**  Có thể dịch thành “Tôi không phải là người đủ tốt lành để làm phép báp têm cho ngài” hoặc “Tôi là một con người tội lỗi, nên tôi không nên làm phép báp-têm cho Ngài”.
+    * **Đó là điều nên làm:**  Cũng có thể dịch thành “Đó là việc cần phải làm” hoặc “đó là điều Đức Chúa Trời muốn Ta làm”.
 **[[:vi:obs:notes:frames:24-06|<<]] | [[:vi:obs:notes:24|Up]] | [[:vi:obs:notes:frames:24-08|>>]]**

@@ -1,21 +1,23 @@
 ===== You Are My Beloved Son [24-08] =====
 
+
 {{:en:obs:obs-24-08.jpg?nolink&640x360}}
 
 
 ===== Điều khoản quan trọng: =====
 
-  * **[[:vi:key-terms/jesus|Jesus]]**
-  * **[[:vi:key-terms/baptize|baptized]]**
-  * **[[:vi:key-terms/holy-spirit|Spirit of God]]**
-  * **[[:vi:key-terms/heaven|heaven]]**
-  * **[[:vi:key-terms/god-son|Son]]**
-  * **[[:vi:key-terms/love|love]]**
 
-
+    * **[[:vi:key-terms:jesus|Jesus]]**
+    * **[[:vi:key-terms:baptize|baptized]]**
+    * **[[:vi:key-terms:holy-spirit|Spirit of God]]**
+    * **[[:vi:key-terms:heaven|heaven]]**
+    * **[[:vi:key-terms:god-son|Son]]**
+    * **[[:vi:key-terms:love|love]]** 
 ===== Phụ chú: =====
 
-  * **my Son whom I love** - Make sure the translation of this does not sound like there was another son. It may be necessary to say, “You are my Son. I love you very much and am very pleased with you.”
 
-
+    * **Ra khỏi nước:**  Có thể dịch thành “ngoi lên khỏi mặt nước sau khi đã chịu phép báp-têm”.
+    * **Lấy hình chim bồ câu:**  Có thể nói “xuất hiện trong hình dáng chim bồ câu”.
+    * **Tiếng:**  Đó là “tiếng của Đức Chúa Trời”.
+    * **Con yêu dấu của Ta**: Phải đảm bảo sao cho bản dịch nghe không có vẻ như vẫn còn một người con khác nữa. Có thể cần phải nói là “Ngươi là Con Ta. Ta yêu Ngươi rất nhiều và lấy làm hài lòng về Ngươi”.
 **[[:vi:obs:notes:frames:24-07|<<]] | [[:vi:obs:notes:24|Up]] | [[:vi:obs:notes:frames:24-09|>>]]**

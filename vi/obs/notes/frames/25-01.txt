@@ -1,25 +1,25 @@
 ===== Satan Tempted Jesus [25-01] =====
 
+
 {{:en:obs:obs-25-01.jpg?nolink&640x360}}
 
 
 ===== Điều khoản quan trọng: =====
 
-  * **[[:vi:key-terms/jesus|Jesus]]**
-  * **[[:vi:key-terms/baptize|baptized]]**
-  * **[[:vi:key-terms/holy-spirit|Holy Spirit]]**
-  * **[[:vi:key-terms/fast|fasted]]**
-  * **[[:vi:key-terms/satan|Satan]]**
-  * **[[:vi:key-terms/tempt|tempted]]**
-  * **[[:vi:key-terms/sin|sin]]**
 
-
+    * **[[:vi:key-terms:jesus|Jesus]]**
+    * **[[:vi:key-terms:baptize|baptized]]**
+    * **[[:vi:key-terms:holy-spirit|Holy Spirit]]**
+    * **[[:vi:key-terms:fast|fasted]]**
+    * **[[:vi:key-terms:satan|Satan]]**
+    * **[[:vi:key-terms:tempt|tempted]]**
+    * **[[:vi:key-terms:sin|sin]]** 
 ===== Phụ chú: =====
 
-  * **the Holy Spirit led him** - That is, “the Holy Spirit guided him” or, “the Holy Spirit prompted him to go.”
-  * **the wilderness** - This could also be translated as, “the desert” or, “a remote, barren place with few people.” This place probably had very few trees or other plants, so most people would not be able to live there.
-  * **forty days and forty nights** - This means “forty days, both during the day and during the night.” Make sure the translation of this phrase does not sound like a period of eighty days.
-  * **tempted him to sin** - Since Jesus did not sin, make sure you use a word that does not imply that Satan succeeded in convincing Jesus to sin. This phrase could also be translated as, “tried to convince him to sin.”
 
-
+    * **Đức Thánh Linh đưa Chúa Giê-xu:**  Nghĩa là “Đức Thánh Linh dẫn Ngài” hoặc “Đức Thánh Linh thúc giục Ngài đi”.
+    * **Đồng vắng:**  Có thể dịch thành “hoang mạc” hoặc “một nơi khô cằn và vắng vẻ”. Nơi này chắc hẳn có rất ít cây cối hay những loài thực vật khác vì vậy nên hầu hết người ta không thể sống ở đó.
+    * **Bốn mươi ngày bốn mươi đêm:**  Nghĩa là “bốn mươi ngày, tính luôn cả ngày lẫn đêm”. Phải đảm bảo sao cho bản dịch của cụm từ này nghe không có vẻ như chỉ đến một khoảng thời gian tám mươi ngày”.
+    * **Ma quỷ xuất hiện:**  Nghĩa là “ma quỷ đến cùng Chúa Giê-xu”.
+    * **Cám dỗ Ngài:**  Có thể cần phải nói “cám dỗ Ngài phạm tội”. Tuy nhiên, bởi vì Chúa Giê-xu không hề phạm tội nên bạn phải đảm bảo dùng từ sao cho nó không ám chỉ rằng ma quỷ đã thành công trong việc thuyết phục Chúa Giê-xu phạm tội. Cụm từ này cũng có thể được dịch là “cố gắng để thuyết phục Chúa Giê-xu phạm tội”. 
 **[[:vi:obs:notes:frames:24-09|<<]] | [[:vi:obs:notes:25|Up]] | [[:vi:obs:notes:frames:25-02|>>]]**

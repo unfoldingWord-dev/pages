@@ -1,23 +1,21 @@
 ===== The Wise Men Visited Jesus [23-09] =====
 
+
 {{:en:obs:obs-23-09.jpg?nolink&640x360}}
 
 
 ===== Điều khoản quan trọng: =====
 
-  * **[[:vi:key-terms/wise|wise]]**
-  * **[[:vi:key-terms/king-of-jews|king of the Jews]]**
-  * **[[:vi:key-terms/bethlehem|Bethlehem]]**
-  * **[[:vi:key-terms/jesus|Jesus]]**
 
-
+    * **[[:vi:key-terms:wise|wise]]**
+    * **[[:vi:key-terms:king-of-jews|king of the Jews]]**
+    * **[[:vi:key-terms:bethlehem|Bethlehem]]**
+    * **[[:vi:key-terms:jesus|Jesus]]** 
 ===== Phụ chú: =====
 
-  * **Sometime later** - It is not clear how long it was after the birth of Jesus before the wise men saw the star, but it may have taken as long as two years for them to prepare for the trip and then travel to Bethlehem.
-  * **wise men** - The “wise men” were probably astrologers who studied the stars. They may also have had access to the Old Testament prophets' writings that predicted the birth of the Messiah.
-  * **unusual star** - The star that they noticed was not a normal star. It was something that appeared at the time of Jesus' birth.
-  * **They realized** - Some languages may add, “From their studies, these scholars realized.”
-  * **the house** - They were no longer staying in the place for animals where he was born.
 
-
+    * **Sau một thời gian:**  Người ta không rõ là Chúa Giê-xu đã được sinh ra bao lâu trước khi các nhà thông thái nhận thấy ngôi sao lạ kia, nhưng có thể chỉ cần phải mất hai năm để họ chuẩn bị cho chuyến đi và sau đó là đi tới Bết-lê-hem.
+    * **Ngôi sao lạ:**  Ngôi sao mà họ để ý không phải là một ngôi sao bình thường. Mà nó là một ngôi sau xuất hiện vào lúc Chúa Giê-xu được sinh ra.
+    * **Họ nhận ra:**  Có thể cần phải thêm vào “Từ những nghiên cứu của mình, những học giả này đã nhận ra”. “Nhà thông thái” rõ ràng là những nhà chiêm tinh học nghiên cứu về các ngôi sao. Có thể họ cũng đã sử dụng đến những bản ghi chép của các nhà tiên tri thời Cựu Ước có dự ngôn về sự giáng sanh của Đấng Cứu Thế.
+    * **Nơi Chúa Giê-xu đang ở**: Đó là “nhà nơi Chúa Giê-xu và cha mẹ Ngài đang ở”. Họ không còn ở tại nơi dành cho súc vật là chỗ mà Ngài được sinh ra nữa.
 **[[:vi:obs:notes:frames:23-08|<<]] | [[:vi:obs:notes:23|Up]] | [[:vi:obs:notes:frames:23-10|>>]]**

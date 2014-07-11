@@ -1,23 +1,23 @@
 ===== The Trip to Bethlehem [23-04] =====
 
+
 {{:en:obs:obs-23-04.jpg?nolink&640x360}}
 
 
 ===== Điều khoản quan trọng: =====
 
-  * **[[:vi:key-terms/mary|Mary]]**
-  * **[[:vi:key-terms/rome|Roman]]**
-  * **[[:vi:key-terms/joseph-nt|Joseph]]**
-  * **[[:vi:key-terms/nazareth|Nazareth]]**
-  * **[[:vi:key-terms/bethlehem|Bethlehem]]**
-  * **[[:vi:key-terms/david|David]]**
 
-
+    * **[[:vi:key-terms:mary|Mary]]**
+    * **[[:vi:key-terms:rome|Roman]]**
+    * **[[:vi:key-terms:joseph-nt|Joseph]]**
+    * **[[:vi:key-terms:nazareth|Nazareth]]**
+    * **[[:vi:key-terms:bethlehem|Bethlehem]]**
+    * **[[:vi:key-terms:david|David]]** 
 ===== Phụ chú: =====
 
-  * **When the time was near for Mary to give birth** - That is, “When it was near the end of Mary's pregnancy.”
-  * **Roman government** - Rome had conquered and ruled over Israel at this time.
-  * **for a census** - That is, “to be counted for the government record” or, “so that the government could write their names on a list” or, “to be counted by the government.” This census was probably made for the purpose of taxing the people.
 
-
+    * **Gần đến kỳ sinh nở của Ma-ri:**  Nghĩa là “Khi kỳ sinh nở của Ma-ri đến gần”.
+    * **Chính quyền La Mã:**  Lúc bấy giờ, người La-mã đã chiếm đóng và cai trị đất nước Y-sơ-ra-ên.
+    * **Nguyên quán của mình:**  Nghĩa “nơi tổ tiên của họ từng sinh sống”.
+    * **Khai hộ tịch:**  Nghĩa là “để khai tên vào hồ sơ của chính quyền” hoặc “chính quyền đếm số dân”. Hộ tịch rõ ràng được lập ra nhằm mục đích đánh thuế người dân.
 **[[:vi:obs:notes:frames:23-03|<<]] | [[:vi:obs:notes:23|Up]] | [[:vi:obs:notes:frames:23-05|>>]]**

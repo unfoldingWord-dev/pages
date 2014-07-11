@@ -1,25 +1,24 @@
 ===== Mary Was Pregnant [23-01] =====
 
+
 {{:en:obs:obs-23-01.jpg?nolink&640x360}}
 
 
 ===== Điều khoản quan trọng: =====
 
 
-  * **[[:vi:key-terms/mary|Mary]]**
-  * **[[:vi:key-terms/righteous|righteous]]**
-  * **[[:vi:key-terms/joseph-nt|Joseph]]**
-  * **[[:vi:key-terms/angel|angel]]**
-  * **[[:vi:key-terms/dream|dream]]**
-
-
+    * **[[:vi:key-terms:mary|Mary]]**
+    * **[[:vi:key-terms:righteous|righteous]]**
+    * **[[:vi:key-terms:joseph-nt|Joseph]]**
+    * **[[:vi:key-terms:angel|angel]]**
+    * **[[:vi:key-terms:dream|dream]]** 
 ===== Phụ chú: =====
 
-  * **he knew it was not his baby** - That is, “he knew that he was not the one who had caused her to be pregnant.”
-  * **to shame Mary** - That is, “to cause Mary to be publicly disgraced” or “to embarrass Mary publicly.” Joseph was merciful to Mary, even though it seemed like she was an adulterer.
-  * **he planned to quietly divorce her** - This could also be translated as, “He planned to divorce her without telling others why,” or, “He planned to divorce her without telling others about her pregnancy.” Because Joseph was righteous, he wanted to resolve the situation in the best way possible, which in this culture would be to divorce her quietly.
-  * **divorce her** - For some languages it may be better to say, “break their engagement.” Joseph and Mary were engaged or, “pledged to be married.” But in Jewish culture a divorce was required in order to break off an engagement.
-  * **in a dream** - That is, “while he was asleep and dreaming.”
 
-
+    * **Ông biết đó không phải là con của mình: ** Nghĩa là “ông nhận biết mình không phải là người khiến nàng mang thai”.
+    * **Làm cho cô xấu hổ: ** Nghĩa là “khiến cô bị cộng đồng ghét bỏ” hoặc “khiến cô xấu hổ trước mặt mọi người”. Giô-sép thương xót Ma-ri, mặc dầu mọi chuyện nghe có vẻ như cô là một người phụ nữ ngoại tình.
+    * **Ông định âm thầm li dị: ** Điều này có thể được dịch thành “Ông lên kế hoạch li dị cô mà không cho những  người biết lí do tại sao” hoặc “Ông lên kế hoạch li dị cô mà không cho mọi người biết về việc cô mang thai”. Bởi vì Giô-sép là một người công chính nên ông muốn giải quyết chuyện này theo cách tốt nhất có thể, mà trong văn hóa ở đây thì sẽ là âm thầm li dị cô.
+    * **Li dị: ** Đối với một số ngôn ngữ, có thể cần phải nói rằng “phá bỏ hôn ước của hai người”. Giô-sép và Ma-ri đã được hứa hôn hoặc “có hôn ước với nhau”. Nhưng trong văn hóa của người Y-sơ-ra-ên thì việc li dị là cần thiết để phá bỏ một hôn ước.
+    * **Hiện ra với ông**: Nghĩa là “hiện đến và phán cùng ông”.
+    * **Trong giấc mơ:**  Nghĩa là “trong khi ông đang ngủ và nằm mơ”
 **[[:vi:obs:notes:frames:22-07|<<]] | [[:vi:obs:notes:23|Up]] | [[:vi:obs:notes:frames:23-02|>>]]**
