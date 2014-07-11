@@ -1,22 +1,21 @@
 ===== Judas Killed Himself [39-08] =====
 
+
 {{:en:obs:obs-39-08.jpg?nolink&640x360}}
 
 
 ===== Điều khoản quan trọng: =====
 
-  * **[[:vi:key-terms/peter|Peter]]**
-  * **[[:vi:key-terms/judas|Judas]]**
-  * **[[:vi:key-terms/betray|betrayer]]**
-  * **[[:vi:key-terms/jewish-leaders|Jewish leaders]]**
-  * **[[:vi:key-terms/jesus|Jesus]]**
 
-
+    * **[[:vi:key-terms:peter|Peter]]**
+    * **[[:vi:key-terms:judas|Judas]]**
+    * **[[:vi:key-terms:betray|betrayer]]**
+    * **[[:vi:key-terms:jewish-leaders|Jewish leaders]]**
+    * **[[:vi:key-terms:jesus|Jesus]]** 
 ===== Phụ chú: =====
 
-  * **cried bitterly** - That is, “cried, feeling deep sorrow” or, “cried, feeling deep regret.”
-  * **the betrayer** - That is, “who had betrayed Jesus” or, “who had helped the leaders arrest Jesus.”
-  * **had condemned Jesus to die** - That is, “had said that Jesus was guilty and must die.”
 
-
+    * **khóc cách cay đắng**– Tức là: “khóc, cảm thấy sầu thảm” hay “khóc, cảm thấy hối hận”.
+    * **phản bội**– Tức là: “kẻ đã phản bội Chúa Jêsus” hay “kẻ đã giúp các lãnh đạo bắt Chúa Jêsus”.
+    * **đã định tội Chúa Jêsus phải chết **– Tức là: “đã nói rằng Chúa Jêsus có tội và phải chết”.
 **[[:vi:obs:notes:frames:39-07|<<]] | [[:vi:obs:notes:39|Up]] | [[:vi:obs:notes:frames:39-09|>>]]**

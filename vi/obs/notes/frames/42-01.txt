@@ -1,21 +1,20 @@
 ===== The Two Disciples [42-01] =====
 
+
 {{:en:obs:obs-42-01.jpg?nolink&640x360}}
 
 
 ===== Điều khoản quan trọng: =====
 
-  * **[[:vi:key-terms/jesus|Jesus]]**
-  * **[[:vi:key-terms/raise|raised]]**
-  * **[[:vi:key-terms/disciple|disciples]]**
-  * **[[:vi:key-terms/messiah|Messiah]]**
-  * **[[:vi:key-terms/life|alive]]**
-  * **[[:vi:key-terms/believe|believe]]**
 
-
+    * **[[:vi:key-terms:jesus|Jesus]]**
+    * **[[:vi:key-terms:raise|raised]]**
+    * **[[:vi:key-terms:disciple|disciples]]**
+    * **[[:vi:key-terms:messiah|Messiah]]**
+    * **[[:vi:key-terms:life|alive]]**
+    * **[[:vi:key-terms:believe|believe]]** 
 ===== Phụ chú: =====
 
-  * //(There are no notes for this frame.)// 
 
-
+    * //(Không có lưu ý cho phần nầy).// 
 **[[:vi:obs:notes:frames:41-08|<<]] | [[:vi:obs:notes:42|Up]] | [[:vi:obs:notes:frames:42-02|>>]]**

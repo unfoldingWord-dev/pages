@@ -1,25 +1,24 @@
 ===== Guards for the Tomb [41-01] =====
 
+
 {{:en:obs:obs-41-01.jpg?nolink&640x360}}
 
 
 ===== Điều khoản quan trọng: =====
 
-  * **[[:vi:key-terms/crucify|crucified]]**
-  * **[[:vi:key-terms/jesus|Jesus]]**
-  * **[[:vi:key-terms/jewish-leaders|Jewish leaders]]**
-  * **[[:vi:key-terms/pilate|Pilate]]**
-  * **[[:vi:key-terms/raise|rise]]** 
-  * **[[:vi:key-terms/death|dead]]**
-  * **[[:vi:key-terms/tomb|tomb]]**
-  * **[[:vi:key-terms/disciple|disciples]]**
 
-
+    * **[[:vi:key-terms:crucify|crucified]]**
+    * **[[:vi:key-terms:jesus|Jesus]]**
+    * **[[:vi:key-terms:jewish-leaders|Jewish leaders]]**
+    * **[[:vi:key-terms:pilate|Pilate]]**
+    * **[[:vi:key-terms:raise|rise]]**
+    * **[[:vi:key-terms:death|dead]]**
+    * **[[:vi:key-terms:tomb|tomb]]**
+    * **[[:vi:key-terms:disciple|disciples]]** 
 ===== Phụ chú: =====
 
-  * **the unbelieving Jewish leaders** - That is, “the Jewish leaders who did not believe in Jesus.”
-  * **That liar, Jesus, said** - This could also be translated as, “That man, Jesus, lied and said.” They refused to believe that Jesus told the truth about being the Son of God.
-  * **rise from the dead** - That is, “come back to life” or, “become alive again.”
 
-
+    * **Các lãnh đạo Do Thái vô tín**– Tức là: “các lãnh đạo Do Thái là những người không tin Chúa Jêsus”.
+    * **Kẻ nói dối là tên Jêsus đã nói rằng:**– Chỗ nầy có thể dịch là: “Tên Jêsus đã nói dối rằng”. Họ từ chối không tin rằng Chúa Jêsus đã nói sự thật Ngài là Con Đức Chúa Trời.
+    * **Sống dậy từ cõi chết**– Tức là: “trở lại với sự sống” hay “sống trở lại”.
 **[[:vi:obs:notes:frames:40-09|<<]] | [[:vi:obs:notes:41|Up]] | [[:vi:obs:notes:frames:41-02|>>]]**
