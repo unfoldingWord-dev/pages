@@ -7,15 +7,10 @@
 ===== Điều khoản quan trọng: =====
 
 
-  * **[[:vi:key-terms:god|God]]**
-  * **[[:vi:key-terms:noah|Noah]]**
-
-
+    * **[[:vi:key-terms:god|God]]**
+    * **[[:vi:key-terms:noah|Noah]]** 
 ===== Phụ chú: =====
 
 
-//(There are no notes for this frame.)// 
-
-
-
+    * //(Không có chú ý trog phần nầy).// 
 **[[:vi:obs:notes:frames:03-04|<<]] | [[:vi:obs:notes:03|Up]] | [[:vi:obs:notes:frames:03-06|>>]]**

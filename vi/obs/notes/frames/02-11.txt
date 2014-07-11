@@ -6,21 +6,19 @@
 
 ===== Important Terms: =====
 
-  * **[[:vi:key-terms:god|God]]**
-  * **[[:vi:key-terms:disobey|disobeyed]]**
-  * **[[:vi:key-terms:curse|cursed]]**
-  * **[[:vi:key-terms:death|die]]**
-  * **[[:vi:key-terms:eve|Eve]]**
-  * **[[:vi:key-terms:adam|Adam]]**
 
-
+    * **[[:vi:key-terms:god|God]]**
+    * **[[:vi:key-terms:disobey|disobeyed]]**
+    * **[[:vi:key-terms:curse|cursed]]**
+    * **[[:vi:key-terms:death|die]]**
+    * **[[:vi:key-terms:eve|Eve]]**
+    * **[[:vi:key-terms:adam|Adam]]** 
 ==== Translation Notes: ====
 
 
-    * **ground is cursed**  - As punishment for Adam's disobedience, the earth would no longer be fruitful. Adam would have to work very hard to raise enough food to eat.
-    * **you will die**  - The ultimate punishment for their disobedience was death. Spiritual death is our separation from God. Physical death is our separation from our body.
-    * **return to dirt**  - God created Adam from the dirt or soil and gave him life. As a result of sin, his life will be taken from him and his body will decompose and become dirt again.
-    * **Eve, which means 'life-giver'**  - God gave life to Adam and Eve, and it is passed on to every person through childbirth.
-    * **mother of all people**  - This means that she would be the female ancestor of all people. Some languages say “she would be the grandmother of all people.”
-
+    * **Đất sẽ bị rủa sả****-**  Như một hình phạt dành cho sự bất tuân của A-đam, đất sẽ không sinh hoa lợi nhiều nữa. Nhưng A-đam phải làm lụng cực khổ mới có ăn.
+    * **Ngươi sẽ chết -**  Hình phạt lớn nhất dành cho tội không vâng lời của họ là sự chết. Cái chết thuộc linh là vách ngăn chúng ta ra khỏi Đức Chúa Trời. Cái chết thuộc thể phân rẽ chúng ta khỏi thân xác bụi đất của mình.
+    * **Trờ về với bụi đất -**  Đức Chúa Trời dựng nên A-đam từ bụi đất và ban cho ông sự sống. Kết quả của tội lỗi, sự sống của ông sẽ bị cất khỏi ông và thân thể ông sẽ phân hủy và trở lại với bụi đất.
+    * **Ê-va, nghĩa là “nguồn sống**” **-**  Đức Chúa Trời đã ban sự sống cho A-đam và Ê-va, và sự sống đó trải qua trên hết thảy mọi người thông qua việc sinh nở.
+    * **Mẹ của cả loài người -**  Điều này có nghĩa là bà sẽ là người tổ nữ của loài người. Một vài ngôn ngữ thì nói rằng- “Ê-va sẽ là bà của loài người”.
 **[[:vi:obs:notes:frames:02-10|<<]] | [[:vi:obs:notes:02|Up]] | [[:vi:obs:notes:frames:02-12|>>]]**
