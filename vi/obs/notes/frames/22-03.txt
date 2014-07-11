@@ -1,4 +1,4 @@
-===== Không thể nói [22-03] =====
+===== Unable to Speak [22-03] =====
 
 
 {{:en:obs:obs-22-03.jpg?nolink&640x360}}
@@ -6,10 +6,11 @@
 
 ===== Điều khoản quan trọng: =====
 
-    * **[[:vi:key-terms:angel|Thiên sứ]]**
-    * **[[:vi:key-terms:god|Đức Chúa Trời]]**
-    * **[[:vi:key-terms:believe|tin]]**
-    * **[[:vi:key-terms:zechariah-nt|Xa-cha-ri]]** 
+
+    * **[[:vi:key-terms:angel|angel]]**
+    * **[[:vi:key-terms:god|God]]**
+    * **[[:vi:key-terms:believe|believe]]**
+    * **[[:vi:key-terms:zechariah-nt|Zechariah]]** 
 
 
 ===== Phụ chú: =====
