@@ -7,22 +7,18 @@
 ===== Điều khoản quan trọng: =====
 
 
-  * **[[:vi:key-terms:god|God]]**
-  * **[[:vi:key-terms:covenant|covenant]]**
-  * **[[:vi:key-terms:yahweh|Yahweh]]**
-  * **[[:vi:key-terms:save|saved]]**
-  * **[[:vi:key-terms:servant|slavery]]**
-  * **[[:vi:key-terms:egypt|Egypt]]**
-  * **[[:vi:key-terms:worship|worship]]**
-  * **[[:vi:key-terms:god-false|gods]]**
-
-
+    * **[[:vi:key-terms:god|God]]**
+    * **[[:vi:key-terms:covenant|covenant]]**
+    * **[[:vi:key-terms:yahweh|Yahweh]]**
+    * **[[:vi:key-terms:save|saved]]**
+    * **[[:vi:key-terms:servant|slavery]]**
+    * **[[:vi:key-terms:egypt|Egypt]]**
+    * **[[:vi:key-terms:worship|worship]]**
+    * **[[:vi:key-terms:god-false|gods]]** 
 ===== Phụ chú: =====
 
 
-  * **Then God gave them the covenant and said** - What God says next is the content of the covenant, that is, he tells the people the things that they must obey. This could be translated as, “Then God told them His covenant. He said” or, “Then God made this covenant with them:”
-  * **Yahweh your God** - In some languages it might be more natural to change the order and say “your God Yahweh.” Make sure it does not sound like the Israelites had more than one God. It should be clear that Yahweh is the only God. Another way to translate this would be, “Yahweh, who is your God” or, “your God, whose name is Yahweh.”
-  * **who saved you from slavery** - This could be translated as, “I freed you from slavery.”
-
-
+    * **Sau đó, Đức Chúa Trời ban cho dân sự một giao ước và phán rằng**- Những điều Đức Chúa Trời phán tiếp theo chính là nội dung trong giao ước đó, Ngài liệt kê những việc dân sự phải vâng theo. Có thể dịch câu này thành “Sau đó, Đức Chúa Trời đã truyền giao ước của Ngài, Ngài phán” hoặc “Sau đó, Đức Chúa Trời đã lập giao ước này cùng với dân sự”.
+    * **Ta là Giê-hô-va Đức Chúa Trời ngươi**- Đối với một vài ngôn ngữ, có thể thay đổi trật tự từ để khiến câu văn tự nhiên hơn “Ta là Đức Chúa Trời, là Giê-hô-va”, Phải đảm bảo sao cho câu này nghe không có vẻ như dân Y-sơ-ra-ên có nhiều hơn một Đức Chúa Trời. Nên làm rõ ràng Giê-hô-va là Đức Chúa Trời duy nhất. Có một cách dịch khác là “Ta là Giê-hô-và, là Đức Chúa Trời của các ngươi” hoặc “Đức Chúa Trời các người, danh Ngài còn được gọi là Giê-hô-va”.
+    * **Đấng đã cứu ngươi khỏi nhà nô lệ Ai Cập-**  Có thể dịch thành “Ta đã giải cứu ngươi khỏi ách nô lệ”.
 **[[:vi:obs:notes:frames:13-03|<<]] | [[:vi:obs:notes:13|Up]] | [[:vi:obs:notes:frames:13-05|>>]]**
