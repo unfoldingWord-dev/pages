@@ -7,26 +7,21 @@
 ===== Điều khoản quan trọng: =====
 
 
-  * **[[:vi:key-terms:god|God]]**
-  * **[[:vi:key-terms:promise|promised]]**
-  * **[[:vi:key-terms:abraham|Abraham]]**
-  * **[[:vi:key-terms:isaac|Isaac]]**
-  * **[[:vi:key-terms:jacob|Jacob]]**
-  * **[[:vi:key-terms:promised-land|Promised Land]]**
-  * **[[:vi:key-terms:descendant|descendants]]**
-  * **[[:vi:key-terms:people-group|people groups]]**
-  * **[[:vi:key-terms:canaan|Canaanites]]**
-  * **[[:vi:key-terms:worship|worship]]**
-  * **[[:vi:key-terms:obey|obey]]**
-  * **[[:vi:key-terms:god-false|false gods]]**
-  * **[[:vi:key-terms:evil|evil]]**
-
-
+    * **[[:vi:key-terms:god|God]]**
+    * **[[:vi:key-terms:promise|promised]]**
+    * **[[:vi:key-terms:abraham|Abraham]]**
+    * **[[:vi:key-terms:isaac|Isaac]]**
+    * **[[:vi:key-terms:jacob|Jacob]]**
+    * **[[:vi:key-terms:promised-land|Promised Land]]**
+    * **[[:vi:key-terms:descendant|descendants]]**
+    * **[[:vi:key-terms:people-group|people groups]]**
+    * **[[:vi:key-terms:canaan|Canaanites]]**
+    * **[[:vi:key-terms:worship|worship]]**
+    * **[[:vi:key-terms:obey|obey]]**
+    * **[[:vi:key-terms:god-false|false gods]]**
+    * **[[:vi:key-terms:evil|evil]]** 
 ===== Phụ chú: =====
 
 
-//(There are no notes for this frame.)// 
-
-
-
+    * //(Không có chú ý trog phần nầy).// 
 **[[:vi:obs:notes:frames:14-01|<<]] | [[:vi:obs:notes:14|Up]] | [[:vi:obs:notes:frames:14-03|>>]]**

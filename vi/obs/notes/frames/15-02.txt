@@ -7,19 +7,17 @@
 ===== Điều khoản quan trọng: =====
 
 
-  * **[[:vi:key-terms:israel|Israelites]]**
-  * **[[:vi:key-terms:jordan-river|Jordan River]]**
-  * **[[:vi:key-terms:promised-land|Promised Land]]**
-  * **[[:vi:key-terms:god|God]]**
-  * **[[:vi:key-terms:joshua|Joshua]]**
-  * **[[:vi:key-terms:priest|priests]]**
-
-
+    * **[[:vi:key-terms:israel|Israelites]]**
+    * **[[:vi:key-terms:jordan-river|Jordan River]]**
+    * **[[:vi:key-terms:promised-land|Promised Land]]**
+    * **[[:vi:key-terms:god|God]]**
+    * **[[:vi:key-terms:joshua|Joshua]]**
+    * **[[:vi:key-terms:priest|priests]]** 
 ===== Phụ chú: =====
 
 
-  * **Have the priests go first** – For some languages it may be helpful to add, “Have the priests go before the rest of the people to cross the river.”
-  * **the water upstream stopped flowing** — In some languages it may be helpful to add, “and the water in front of them flowed away downstream.”
-
-
+    * **Hãy để các thầy tế lễ đi trước:**  Ở một số vùng có thể cần thiết phải nói “Hãy để các thầy tế lễ đi trước dân sự vượt qua con sông này”.
+    * **Khi bàn chân của các thầy tế lễ chạm nước sông Giô-đanh:**  Điều này có thể được dịch thành “Khi các thầy tế lễ bắt đầu bước vào sông Giô-đanh”.
+    * **Nước ngừng chảy:**  Đối với một số ngôn ngữ, có thể sẽ giúp ích khi nói “và nước trước mặt họ đều chảy về hạ lưu”.
+    * **Đi qua sông trên đất khô:**  Điều này có thể được dịch thành “đi qua trên đất khô đến bờ sông bên kia” hoặc “đi qua lòng sông đến bờ phía bên kia”.
 **[[:vi:obs:notes:frames:15-01|<<]] | [[:vi:obs:notes:15|Up]] | [[:vi:obs:notes:frames:15-03|>>]]**

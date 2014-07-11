@@ -7,22 +7,17 @@
 ===== Điều khoản quan trọng: =====
 
 
-  * **[[:vi:key-terms:moses|Moses]]**
-  * **[[:vi:key-terms:pray|prayed]]**
-  * **[[:vi:key-terms:god|God]]**
-  * **[[:vi:key-terms:forgive|forgive]]**
-  * **[[:vi:key-terms:ten-commandments|Ten Commandments]]**
-  * **[[:vi:key-terms:israel|Israelites]]**
-  * **[[:vi:key-terms:sinai|Mount Sinai]]**
-  * **[[:vi:key-terms:promised-land|Promised Land]]**
-
-
+    * **[[:vi:key-terms:moses|Moses]]**
+    * **[[:vi:key-terms:pray|prayed]]**
+    * **[[:vi:key-terms:god|God]]**
+    * **[[:vi:key-terms:forgive|forgive]]**
+    * **[[:vi:key-terms:ten-commandments|Ten Commandments]]**
+    * **[[:vi:key-terms:israel|Israelites]]**
+    * **[[:vi:key-terms:sinai|Mount Sinai]]**
+    * **[[:vi:key-terms:promised-land|Promised Land]]** 
 ===== Phụ chú: =====
 
 
-  * **listened to** - See how you translated this phrase in **[[:vi:obs:notes:frames:13-12|[13-12]]]**.
-  * **Moses wrote** - Moses chiseled the words into the stone using a tool.
-  * //A Bible story from// - These references may be slightly different in some Bible translations.
-
-
+    * **Nhậm lời-**  Xem cách dịch trong phần **[[:vi:obs:notes:frames:13-12|[13-12]]]**.
+    * **Môi-se viết-**  Môi-se đã dùng một dụng cụ nào đó để khắc điều răn vào bảng đá. 
 **[[:vi:obs:notes:frames:13-14|<<]] | [[:vi:obs:notes:13|Up]] | [[:vi:obs:notes:frames:14-01|>>]]**
