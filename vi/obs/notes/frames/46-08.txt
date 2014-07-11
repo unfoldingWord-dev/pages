@@ -1,22 +1,21 @@
 ===== Saul Went to Jerusalem [46-08] =====
 
+
 {{:en:obs:obs-46-08.jpg?nolink&640x360}}
 
 
 ===== Điều khoản quan trọng: =====
 
-  * **[[:vi:key-terms/paul|Saul]]**
-  * **[[:vi:key-terms/jerusalem|Jerusalem]]**
-  * **[[:vi:key-terms/disciple|disciples]]**
-  * **[[:vi:key-terms/believer|believer]]**
-  * **[[:vi:key-terms/barnabas|Barnabas]]**
-  * **[[:vi:key-terms/apostle|apostles]]**
-  * **[[:vi:key-terms/preach|preached]]**
 
-
+    * **[[:vi:key-terms:paul|Saul]]**
+    * **[[:vi:key-terms:jerusalem|Jerusalem]]**
+    * **[[:vi:key-terms:disciple|disciples]]**
+    * **[[:vi:key-terms:believer|believer]]**
+    * **[[:vi:key-terms:barnabas|Barnabas]]**
+    * **[[:vi:key-terms:apostle|apostles]]**
+    * **[[:vi:key-terms:preach|preached]]** 
 ===== Phụ chú: =====
 
-  * **accepted Saul** - That is, “believed that Saul also was a believer in Jesus.”
 
-
+    * **tiếp đón Sau-lơ**– Tức là: “tin rằng Sau-lơ cũng là một người tin Chúa Jêsus”.
 **[[:vi:obs:notes:frames:46-07|<<]] | [[:vi:obs:notes:46|Up]] | [[:vi:obs:notes:frames:46-09|>>]]**

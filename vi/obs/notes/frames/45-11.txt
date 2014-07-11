@@ -1,18 +1,17 @@
 ===== Here Is Water [45-11] =====
 
+
 {{:en:obs:obs-45-11.jpg?nolink&640x360}}
 
 
 ===== Điều khoản quan trọng: =====
 
-  * **[[:vi:key-terms/baptize|baptized]]**
-  * **[[:vi:key-terms/chariot|chariot]]**
 
-
+    * **[[:vi:key-terms:baptize|baptized]]**
+    * **[[:vi:key-terms:chariot|chariot]]** 
 ===== Phụ chú: =====
 
-  * **some water** - Use a term that means a larger body of water such as a pond, lake, or stream.
-  * **May I be baptized?** - This could also be translated as, “Is there any reason that I cannot be baptized?”
 
-
+    * **bờ hồ**- Hãy sử dụng phạm trù có nghĩa là một trũng nước lớn như một bờ hồ, một dòng nước chảy.
+    * **Tôi có thể làm phép báp-tem được không?**- Chỗ nầy có thể dịch là: “Có lý do nào mà tôi không thể làm phép báp-tem được chăng?”
 **[[:vi:obs:notes:frames:45-10|<<]] | [[:vi:obs:notes:45|Up]] | [[:vi:obs:notes:frames:45-12|>>]]**

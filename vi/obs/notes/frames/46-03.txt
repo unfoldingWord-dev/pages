@@ -1,16 +1,15 @@
 ===== Saul Became Blind [46-03] =====
 
+
 {{:en:obs:obs-46-03.jpg?nolink&640x360}}
 
 
 ===== Điều khoản quan trọng: =====
 
-  * **[[:vi:key-terms/paul|Saul]]**
 
-
+    * **[[:vi:key-terms:paul|Saul]]** 
 ===== Phụ chú: =====
 
-  * //(There are no notes for this frame.)// 
 
-
+    * //(Không có lưu ý cho phần nầy).// 
 **[[:vi:obs:notes:frames:46-02|<<]] | [[:vi:obs:notes:46|Up]] | [[:vi:obs:notes:frames:46-04|>>]]**

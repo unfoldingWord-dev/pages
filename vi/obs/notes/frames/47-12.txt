@@ -1,21 +1,20 @@
 ===== The Jailer Was Baptized [47-12] =====
 
+
 {{:en:obs:obs-47-12.jpg?nolink&640x360}}
 
 
 ===== Điều khoản quan trọng: =====
 
-  * **[[:vi:key-terms/believe|believed]]**
-  * **[[:vi:key-terms/jesus|Jesus]]**
-  * **[[:vi:key-terms/baptize|baptized]]**
-  * **[[:vi:key-terms/paul|Paul]]**
-  * **[[:vi:key-terms/silas|Silas]]**
-  * **[[:vi:key-terms/joy|rejoiced]]**
 
-
+    * **[[:vi:key-terms:believe|believed]]**
+    * **[[:vi:key-terms:jesus|Jesus]]**
+    * **[[:vi:key-terms:baptize|baptized]]**
+    * **[[:vi:key-terms:paul|Paul]]**
+    * **[[:vi:key-terms:silas|Silas]]**
+    * **[[:vi:key-terms:joy|rejoiced]]** 
 ===== Phụ chú: =====
 
-  * //(There are no notes for this frame.)// 
 
-
+    * //(Không có lưu ý cho phần nầy).// 
 **[[:vi:obs:notes:frames:47-11|<<]] | [[:vi:obs:notes:47|Up]] | [[:vi:obs:notes:frames:47-13|>>]]**

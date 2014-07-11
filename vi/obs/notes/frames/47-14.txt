@@ -1,22 +1,21 @@
 ===== Letters to the Churches [47-14] =====
 
+
 {{:en:obs:obs-47-14.jpg?nolink&640x360}}
 
 
 ===== Điều khoản quan trọng: =====
 
-  * **[[:vi:key-terms/paul|Paul]]**
-  * **[[:vi:key-terms/christian|Christian]]**
-  * **[[:vi:key-terms/preach|preaching]]**
-  * **[[:vi:key-terms/good-news|good news]]**
-  * **[[:vi:key-terms/jesus|Jesus]]**
-  * **[[:vi:key-terms/believer|believers]]**
-  * **[[:vi:key-terms/church|churches]]**
 
-
+    * **[[:vi:key-terms:paul|Paul]]**
+    * **[[:vi:key-terms:christian|Christian]]**
+    * **[[:vi:key-terms:preach|preaching]]**
+    * **[[:vi:key-terms:good-news|good news]]**
+    * **[[:vi:key-terms:jesus|Jesus]]**
+    * **[[:vi:key-terms:believer|believers]]**
+    * **[[:vi:key-terms:church|churches]]** 
 ===== Phụ chú: =====
 
-  * //A Bible story from//  - These references may be slightly different in some Bible translations.
 
-
+    * //(Không có lưu ý cho phần nầy).// 
 **[[:vi:obs:notes:frames:47-13|<<]] | [[:vi:obs:notes:47|Up]] | [[:vi:obs:notes:frames:48-01|>>]]**
