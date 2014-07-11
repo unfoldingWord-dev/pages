@@ -1,4 +1,4 @@
-===== An Angel Spoke to Mary [22-04] =====
+===== Một thiên sứ phán cùng Ma-ri [22-04] =====
 
 
 {{:en:obs:obs-22-04.jpg?nolink&640x360}}
@@ -7,12 +7,14 @@
 ===== Điều khoản quan trọng: =====
 
 
-    * **[[:vi:key-terms:angel|angel]]**
-    * **[[:vi:key-terms:mary|Mary]]**
-    * **[[:vi:key-terms:virgin|virgin]]**
-    * **[[:vi:key-terms:joseph-nt|Joseph]]**
-    * **[[:vi:key-terms:jesus|Jesus]]**
-    * **[[:vi:key-terms:messiah|Messiah]]** 
+    * **[[:vi:key-terms:angel|thiên sứ]]**
+    * **[[:vi:key-terms:mary|Ma-ri]]**
+    * **[[:vi:key-terms:virgin|đồng trinh]]**
+    * **[[:vi:key-terms:joseph-nt|Giô-sép]]**
+    * **[[:vi:key-terms:jesus|Giê-xu]]**
+    * **[[:vi:key-terms:messiah|Đấng Cứu Thế]]** 
+
+
 ===== Phụ chú: =====
 
 
@@ -20,4 +22,6 @@
     * **Mang thai:**  Những ngôn ngữ khác nhau có những thành ngữ khác nhau để nói đến vấn đề có thai, ví dụ như “Bà ấy mang thai đứa con” hoặc “Bà ấy có con” hoặc “Bà ấy có chửa rồi”. Một vài ngôn ngữ còn có những cách nói lịch sự đặc biệt về vấn đề này ví dụ như “Bà ấy đang nuôi một niềm hi vọng”. Hãy dùng cách nói nào không gây lúng túng cho người đọc”,
     * **Người bà con của Ê-li-sa-bét**: Nhiều bản dịch cho rằng ở đây chính là “cháu” nhưng chúng ta không biết chắc chắn về mối liên hệ của hai người nữ này là gì. Vậy nên chúng ta nên sử dụng những từ chung nhất như “bà con” hoặc “họ hàng” hoặc “cháu”.
     * **Đã hứa hôn với:**  Nghĩa là “đã được hứa gả cho”.
+
+
 **[[:vi:obs:notes:frames:22-03|<<]] | [[:vi:obs:notes:22|Up]] | [[:vi:obs:notes:frames:22-05|>>]]**
