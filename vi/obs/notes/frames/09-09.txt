@@ -7,14 +7,10 @@
 ===== Điều khoản quan trọng: =====
 
 
-  * **[[:vi:key-terms:moses|Moses]]**
-  * **[[:vi:key-terms:egypt|Egyptian]]**
-
-
+    * **[[:vi:key-terms:moses|Moses]]**
+    * **[[:vi:key-terms:egypt|Egyptian]]** 
 ===== Phụ chú: =====
 
 
- * //(There are no notes for this frame.)// 
-
-
+    * **Mọi việc xảy ra-**  Có thể dịch thành “những gì Môi-se đã làm”.
 **[[:vi:obs:notes:frames:09-08|<<]] | [[:vi:obs:notes:09|Up]] | [[:vi:obs:notes:frames:09-10|>>]]**
