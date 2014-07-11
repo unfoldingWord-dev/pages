@@ -1,24 +1,26 @@
 ===== Jesus in Nazareth [26-02] =====
 
+
 {{:en:obs:obs-26-02.jpg?nolink&640x360}}
 
 
 ===== Điều khoản quan trọng: =====
 
-  * **[[:vi:key-terms/jesus|Jesus]]**
-  * **[[:vi:key-terms/nazareth|Nazareth]]**
-  * **[[:vi:key-terms/sabbath|Sabbath]]**
-  * **[[:vi:key-terms/worship|worship]]**
-  * **[[:vi:key-terms/prophet|prophet]]**
-  * **[[:vi:key-terms/isaiah|Isaiah]]**
 
-
+    * **[[:vi:key-terms:jesus|Jesus]]**
+    * **[[:vi:key-terms:nazareth|Nazareth]]**
+    * **[[:vi:key-terms:sabbath|Sabbath]]**
+    * **[[:vi:key-terms:worship|worship]]**
+    * **[[:vi:key-terms:prophet|prophet]]**
+    * **[[:vi:key-terms:isaiah|Isaiah]]** 
 ===== Phụ chú: =====
 
-  * **place of worship** - That is, “the building where the Jews gathered to worship God.” This can also be translated as, “worship building.”
-  * **scroll** - A scroll was a long sheet of paper or leather that was rolled up and had writing on it.
-  * **the scroll of the prophet Isaiah** - That is, “the scroll that had the words that the prophet Isaiah had written.” Isaiah had written on a scroll hundreds of years before. This was a copy of that scroll.
-  * **opened up the scroll** - This could be translated as, “rolled open the scroll” or, “unrolled the scroll.”
 
-
+    * **Lớn lên:**  Có nghĩa là “đã sống tại đó trong suốt thời thơ ấu của Ngài”.
+    * **Nơi để thờ phượng:**  Đó là “nơi người Y-sơ-ra-ên tụ tập lại để thờ phượng Đức Chúa Trời”. Điều này có thể được dịch thành “nơi thờ phượng”.
+    * **Đưa cho Ngài:**  Nghĩa là “giao nó cho Ngài đặng Ngài sẽ đọc nó”.
+    * **Cuộn sách:**  Cuộn sách là một cuộn giấy dài hoặc cuộn da dài được cuộn lên và người ta ghi chép nhiều điều trong đó.
+    * **Cuộn sách của tiên tri Ê-sai:**  Đó là “cuộn sách có ghi những lời mà tiên tri Ê-sai đã chép”. Ê-sai đã viết cuộn sách đó hàng trăm năm về trước. Và bản Chúa đang đọc là bản sao của cuộn sách đó.
+    * **Mở ra:**  Có thể dịch thành “cuốn ra đặng mở cuộn sách” hoặc “trải cuộn giấy ra”.
+    * **Đọc nó:**  Ấy là “đọc một phần trong đó cho mọi người nghe”.
 **[[:vi:obs:notes:frames:26-01|<<]] | [[:vi:obs:notes:26|Up]] | [[:vi:obs:notes:frames:26-03|>>]]**
