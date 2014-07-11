@@ -1,21 +1,20 @@
 ===== The Herd of Pigs [32-07] =====
 
+
 {{:en:obs:obs-32-07.jpg?nolink&640x360}}
 
 
 ===== Điều khoản quan trọng: =====
 
-  * **[[:vi:key-terms/demon|demons]]**
-  * **[[:vi:key-terms/beg|begged]]**
-  * **[[:vi:key-terms/jesus|Jesus]]**
 
-
+    * **[[:vi:key-terms:demon|demons]]**
+    * **[[:vi:key-terms:beg|begged]]**
+    * **[[:vi:key-terms:jesus|Jesus]]** 
 ===== Phụ chú: =====
 
-  * **do not send us** - That is, “do not make us go.”
-  * **Please send us** - That is, “Please let us go.”
-  * **instead** - That is, “instead of making us go away.”
-  * **Go!** - This could be translated as, “Go into the pigs!” or, “You may go into the pigs!”
 
-
+    * **Đừng đuổi chúng tôi **– Tức là: “đừng làm cho chúng tôi đi”.
+    * **Làm ơn cho chúng tôi **– Tức là: “Làm ơn để chúng tôi đi”
+    * **Thay vì thế**- Tức là: “thay vì đuổi chúng tôi đi”
+    * **Hãy ra ngay! **– Chỗ nầy có thể dịch là: “Hãy nhập vào bầy heo!” hay “Các ngươi được phép nhập vào bầy heo!”
 **[[:vi:obs:notes:frames:32-06|<<]] | [[:vi:obs:notes:32|Up]] | [[:vi:obs:notes:frames:32-08|>>]]**

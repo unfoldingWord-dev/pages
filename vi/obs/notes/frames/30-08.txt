@@ -1,19 +1,18 @@
 ===== Everyone Ate [30-08] =====
 
+
 {{:en:obs:obs-30-08.jpg?nolink&640x360}}
 
 
 ===== Điều khoản quan trọng: =====
 
-  * **[[:vi:key-terms/jesus|Jesus]]**
-  * **[[:vi:key-terms/disciple|disciples]]**
 
-
+    * **[[:vi:key-terms:jesus|Jesus]]**
+    * **[[:vi:key-terms:disciple|disciples]]** 
 ===== Phụ chú: =====
 
-  * **broke the bread and the fish** - That is, “tore the bread and the fish.”
-  * **it never ran out** - Another way to say this would be, “there was always more left.”
-  * **were satisfied** - That is, “were no longer hungry” or, “were not hungry any more.”
 
-
+    * **Bẻ bánh và cá:**  “Bẻ những ổ bánh và cá”.
+    * **Thức ăn không hề hết**: Có thể nói rằng “Thức ăn cứ còn mãi”.
+    * **Được ăn no nê**: Có nghĩa là “không còn cảm thấy đói nữa” hoặc “chẳng còn cảm giác đói nữa”.
 **[[:vi:obs:notes:frames:30-07|<<]] | [[:vi:obs:notes:30|Up]] | [[:vi:obs:notes:frames:30-09|>>]]**

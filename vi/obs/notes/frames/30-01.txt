@@ -1,18 +1,18 @@
 ===== A Quiet Place [30-01] =====
 
+
 {{:en:obs:obs-30-01.jpg?nolink&640x360}}
 
 
 ===== Điều khoản quan trọng: =====
 
-  * **[[:vi:key-terms/jesus|Jesus]]**
-  * **[[:vi:key-terms/apostle|apostles]]**
-  * **[[:vi:key-terms/preach|preach]]**
 
-
+    * **[[:vi:key-terms:jesus|Jesus]]**
+    * **[[:vi:key-terms:apostle|apostles]]**
+    * **[[:vi:key-terms:preach|preach]]** 
 ===== Phụ chú: =====
 
-  * **quiet place** - This refers to a place with few people where they could be by themselves.
 
-
+    * **Trở về:**  Điều này cũng có thể được dịch thành “trở về với Chúa Giê-xu” hoặc “trở về chỗ Chúa đang ở”.
+    * **Nơi yên tĩnh:**  Điều này nói đến một nơi có ít người, nơi họ có thể ở một mình.
 **[[:vi:obs:notes:frames:29-09|<<]] | [[:vi:obs:notes:30|Up]] | [[:vi:obs:notes:frames:30-02|>>]]**

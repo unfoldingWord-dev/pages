@@ -1,18 +1,16 @@
 ===== Jesus Blessed the Food [30-07] =====
 
+
 {{:en:obs:obs-30-07.jpg?nolink&640x360}}
 
 
 ===== Điều khoản quan trọng: =====
 
-  * **[[:vi:key-terms/jesus|Jesus]]**
-  * **[[:vi:key-terms/heaven|heaven]]**
-  * **[[:vi:key-terms/god|God]]**
 
-
+    * **[[:vi:key-terms:jesus|Jesus]]**
+    * **[[:vi:key-terms:heaven|heaven]]**
+    * **[[:vi:key-terms:god|God]]** 
 ===== Phụ chú: =====
-
-  * //(There are no notes for this frame.)// 
 
 
 **[[:vi:obs:notes:frames:30-06|<<]] | [[:vi:obs:notes:30|Up]] | [[:vi:obs:notes:frames:30-08|>>]]**
