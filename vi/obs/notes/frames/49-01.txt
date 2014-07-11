@@ -1,19 +1,18 @@
 ===== The Virgin Birth [49-01] =====
 
+
 {{:en:obs:obs-49-01.jpg?nolink&640x360}}
 
 
 ===== Điều khoản quan trọng: =====
 
-  * **[[:vi:key-terms/virgin|virgin]]**
-  * **[[:vi:key-terms/mary|Mary]]**
-  * **[[:vi:key-terms/god-son|God's Son]]**
-  * **[[:vi:key-terms/jesus|Jesus]]**
 
-
+    * **[[:vi:key-terms:virgin|virgin]]**
+    * **[[:vi:key-terms:mary|Mary]]**
+    * **[[:vi:key-terms:god-son|God's Son]]**
+    * **[[:vi:key-terms:jesus|Jesus]]** 
 ===== Phụ chú: =====
 
-  * //(There are no notes for this frame.)// 
 
-
+    * //(Không có lưu ý cho phần nầy).// 
 **[[:vi:obs:notes:frames:48-14|<<]] | [[:vi:obs:notes:49|Up]] | [[:vi:obs:notes:frames:49-02|>>]]**

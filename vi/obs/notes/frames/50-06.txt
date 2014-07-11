@@ -1,19 +1,18 @@
 ===== The Weeds [50-06] =====
 
+
 {{:en:obs:obs-50-06.jpg?nolink&640x360}}
 
 
 ===== Điều khoản quan trọng: =====
 
-  * **[[:vi:key-terms/servant|servants]]**
-  * **[[:vi:key-terms/lord|Master]]**
-  * **[[:vi:key-terms/good|good]]**
 
-
+    * **[[:vi:key-terms:servant|servants]]**
+    * **[[:vi:key-terms:lord|Master]]**
+    * **[[:vi:key-terms:good|good]]** 
 ===== Phụ chú: =====
 
-  * (Jesus continues to tell the story.)
-  * **An enemy must have planted them** - If possible, translate this in a way that indicates that the speaker did not see this happen.
 
-
+    * (Chúa Jêsus tiếp tục câu chuyện).
+    * **Chắc chắn kẻ thù đã gieo chúng vào đó**– Nếu có thể, hãy chuyển ngữ phần nầy để thấy rằng người đang nói không hề nhìn thấy sự việc diễn ra thế nào.
 **[[:vi:obs:notes:frames:50-05|<<]] | [[:vi:obs:notes:50|Up]] | [[:vi:obs:notes:frames:50-07|>>]]**

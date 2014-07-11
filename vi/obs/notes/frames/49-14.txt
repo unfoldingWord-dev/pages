@@ -1,28 +1,27 @@
 ===== Believe in Jesus [49-14] =====
 
+
 {{:en:obs:obs-49-14.jpg?nolink&640x360}}
 
 
 ===== Điều khoản quan trọng: =====
 
-  * **[[:vi:key-terms/jesus|Jesus]]**
-  * **[[:vi:key-terms/believe|believe]]**
-  * **[[:vi:key-terms/baptize|baptized]]**
-  * **[[:vi:key-terms/messiah|Messiah]]**
-  * **[[:vi:key-terms/god-son|Son of God]]**
-  * **[[:vi:key-terms/sin|sinner]]**
-  * **[[:vi:key-terms/god|God]]**
-  * **[[:vi:key-terms/punish|punish]]**
-  * **[[:vi:key-terms/death|died]]**
-  * **[[:vi:key-terms/cross|cross]]**
 
-
+    * **[[:vi:key-terms:jesus|Jesus]]**
+    * **[[:vi:key-terms:believe|believe]]**
+    * **[[:vi:key-terms:baptize|baptized]]**
+    * **[[:vi:key-terms:messiah|Messiah]]**
+    * **[[:vi:key-terms:god-son|Son of God]]**
+    * **[[:vi:key-terms:sin|sinner]]**
+    * **[[:vi:key-terms:god|God]]**
+    * **[[:vi:key-terms:punish|punish]]**
+    * **[[:vi:key-terms:death|died]]**
+    * **[[:vi:key-terms:cross|cross]]** 
 ===== Phụ chú: =====
 
-  * **believe in him** - This can also be translated as, “trust in him” or, “trust in him to save you” or, “entrust your whole life to him.”
-  * **be baptized** - This could also be translated as, “have someone baptize you” or, “let them baptize you.”
-  * **believe that** - This can also be translated as, “acknowledge that” or, “agree that.”
-  * **take away** - See note on **[[:vi:obs:notes:frames:49-11|[49-11]]]**.
 
-
+    * **tin nơi Ngài **- Chỗ nầy có thể dịch là: “tin cậy Ngài” hay “tin cậy Ngài cứu các ngươi” hay “trao phó cả cuộc đời mình cho Ngài”.
+    * **được làm báp-tem**- Chỗ nầy có thể dịch là: “có ai đó làm báp-tem cho mình” hay “để họ làm báp-tem cho ngươi”.
+    * **tin**- Chỗ nầy có thể dịch là: “nhận biết rằng” hay “đồng ý”.
+    * **cất đi**– Xem ghi chú phần **[[:vi:obs:notes:frames:49-11|[49-11]]]**.
 **[[:vi:obs:notes:frames:49-13|<<]] | [[:vi:obs:notes:49|Up]] | [[:vi:obs:notes:frames:49-15|>>]]**
