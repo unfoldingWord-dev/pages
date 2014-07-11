@@ -1,20 +1,19 @@
 ===== The Crippled Man [44-01] =====
 
+
 {{:en:obs:obs-44-01.jpg?nolink&640x360}}
 
 
 ===== Điều khoản quan trọng: =====
 
-  * **[[:vi:key-terms/peter|Peter]]**
-  * **[[:vi:key-terms/john|John]]**
-  * **[[:vi:key-terms/temple|Temple]]**
-  * **[[:vi:key-terms/beg|begging]]**
 
-
+    * **[[:vi:key-terms:peter|Peter]]**
+    * **[[:vi:key-terms:john|John]]**
+    * **[[:vi:key-terms:temple|Temple]]**
+    * **[[:vi:key-terms:beg|begging]]** 
 ===== Phụ chú: =====
 
-  * **One day** - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
-  * **a crippled man** - This could also be translated as, “a lame man.” This refers to a man who did not have full use of his legs, and could not stand or walk.
 
-
+    * **Một ngày kia**– Cụm từ nầy cho thấy một sự kiện xảy ra ở quá khứ, nhưng không nói rõ thời gian cụ thể. Nhiều ngôn ngữ có cùng một cách tương tự để bắt đầu kể một câu chuyện có thật.
+    * **một người què**- Chỗ nầy có thể dịch là: “một người tàn tật”. Có ý muốn nói một người không thể có tay chân trọn vẹn, không thể đi đứng.
 **[[:vi:obs:notes:frames:43-13|<<]] | [[:vi:obs:notes:44|Up]] | [[:vi:obs:notes:frames:44-02|>>]]**

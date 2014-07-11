@@ -1,22 +1,21 @@
 ===== The Feast of Pentecost [43-02] =====
 
+
 {{:en:obs:obs-43-02.jpg?nolink&640x360}}
 
 
 ===== Điều khoản quan trọng: =====
 
-  * **[[:vi:key-terms/passover|Passover]]**
-  * **[[:vi:key-terms/jew|Jews]]**
-  * **[[:vi:key-terms/jerusalem|Jerusalem]]**
-  * **[[:vi:key-terms/jesus|Jesus]]**
-  * **[[:vi:key-terms/heaven|heaven]]**
 
-
+    * **[[:vi:key-terms:passover|Passover]]**
+    * **[[:vi:key-terms:jew|Jews]]**
+    * **[[:vi:key-terms:jerusalem|Jerusalem]]**
+    * **[[:vi:key-terms:jesus|Jesus]]**
+    * **[[:vi:key-terms:heaven|heaven]]** 
 ===== Phụ chú: =====
 
-  * **Pentecost** - “Pentecost” means “fiftieth (day).” You could use the word “Pentecost” in your translation and let the text explain the meaning. Or you could use a term that means, “50th day.”
-  * **celebrated the harvest** - The Jews would thank God for the harvest by bringing offerings and celebrate by having special meals.
-  * **This year** - That is, “In the year that Jesus died.”
 
-
+    * **Lễ Ngũ Tuần**- “Ngũ Tuần” nghĩa là “năm mươi (ngày)”. Quý vị có thể sử dụng từ “Ngũ Tuần” trong phần chuyển ngữ của quý vị và để bản văn giải thích ý nghĩa. Hay quý vị có thể sử dụng một phạm trù có nghĩa là: “ngày thứ 50” cũng được.
+    * **ăn mừng vụ thu hoạch**  – Người Do Thái sẽ cảm tạ Đức Chúa Trời vì cớ vụ mùa bằng cách đem đến những của dâng và ăn mừng với những bữa tiệc đặc biệt.
+    * **Năm nay**– Tức là: “Trong năm Chúa Jêsus chịu chết”.
 **[[:vi:obs:notes:frames:43-01|<<]] | [[:vi:obs:notes:43|Up]] | [[:vi:obs:notes:frames:43-03|>>]]**

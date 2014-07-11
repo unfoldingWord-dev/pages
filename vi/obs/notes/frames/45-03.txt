@@ -1,27 +1,26 @@
 ===== You Killed the Messiah [45-03] =====
 
+
 {{:en:obs:obs-45-03.jpg?nolink&640x360}}
 
 
 ===== Điều khoản quan trọng: =====
 
-  * **[[:vi:key-terms/priest-high|high priest]]**
-  * **[[:vi:key-terms/true|true]]**
-  * **[[:vi:key-terms/god|God]]**
-  * **[[:vi:key-terms/abraham|Abraham]]**
-  * **[[:vi:key-terms/jesus|Jesus]]**
-  * **[[:vi:key-terms/disobey|disobeyed]]**
-  * **[[:vi:key-terms/rebel|rebellious]]**
-  * **[[:vi:key-terms/holy-spirit|Holy Spirit]]**
-  * **[[:vi:key-terms/prophet|prophets]]**
-  * **[[:vi:key-terms/messiah|Messiah]]**
 
-
+    * **[[:vi:key-terms:priest-high|high priest]]**
+    * **[[:vi:key-terms:true|true]]**
+    * **[[:vi:key-terms:god|God]]**
+    * **[[:vi:key-terms:abraham|Abraham]]**
+    * **[[:vi:key-terms:jesus|Jesus]]**
+    * **[[:vi:key-terms:disobey|disobeyed]]**
+    * **[[:vi:key-terms:rebel|rebellious]]**
+    * **[[:vi:key-terms:holy-spirit|Holy Spirit]]**
+    * **[[:vi:key-terms:prophet|prophets]]**
+    * **[[:vi:key-terms:messiah|Messiah]]** 
 ===== Phụ chú: =====
 
-  * **Are these things true?** - That is, “Are these accusations against you true?” or, “Are the things these people are saying about you true?” or, “Is it true that you said evil things about Moses and God?”
-  * **always reject the Holy Spirit** - That is, “never obey the Holy Spirit” or, “always refuse to listen to the Holy Spirit.”
-  * **your ancestors** - This could be translated as, “your ancestors, the Israelites.”
 
-
+    * **Những điều nầy có đúng chăng? **– Tức là: “Những lời buộc tội chống lại ngươi có đúng không?” hay “Những điều mà mọi người đang nói về ngươi có đúng không?” hay “Có phải ngươi đã nói những điều sai trật về Môi-se và Đức Chúa Trời không?”
+    * **luôn chối từ Đức Thánh Linh**– Tức là: “không bao giờ vâng lời Đức Thánh Linh” hay “luôn từ chối nghe theo Đức Thánh Linh”.
+    * **tổ phụ các ngươi**- Chỗ nầy có thể dịch là: “tổ phụ các ngươi, người Y-sơ-ra-ên”.
 **[[:vi:obs:notes:frames:45-02|<<]] | [[:vi:obs:notes:45|Up]] | [[:vi:obs:notes:frames:45-04|>>]]**

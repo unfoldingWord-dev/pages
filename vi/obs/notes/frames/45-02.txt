@@ -1,23 +1,22 @@
 ===== Stephen's Arrest [45-02] =====
 
+
 {{:en:obs:obs-45-02.jpg?nolink&640x360}}
 
 
 ===== Điều khoản quan trọng: =====
 
-  * **[[:vi:key-terms/jesus|Jesus]]**
-  * **[[:vi:key-terms/jew|Jews]]**
-  * **[[:vi:key-terms/jewish-leaders|religious leaders]]**
-  * **[[:vi:key-terms/evil|evil]]**
-  * **[[:vi:key-terms/moses|Moses]]**
-  * **[[:vi:key-terms/god|God]]**
-  * **[[:vi:key-terms/priest-high|high priest]]**
-  * **[[:vi:key-terms/witness|witnesses]]**
 
-
+    * **[[:vi:key-terms:jesus|Jesus]]**
+    * **[[:vi:key-terms:jew|Jews]]**
+    * **[[:vi:key-terms:jewish-leaders|religious leaders]]**
+    * **[[:vi:key-terms:evil|evil]]**
+    * **[[:vi:key-terms:moses|Moses]]**
+    * **[[:vi:key-terms:god|God]]**
+    * **[[:vi:key-terms:priest-high|high priest]]**
+    * **[[:vi:key-terms:witness|witnesses]]** 
 ===== Phụ chú: =====
 
-  * **One day** - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
 
-
+    * **Một ngày kia**– Cụm từ nầy cho thấy một sự kiện đã xảy ra trong quá khứ, nhưng không biết rõ thời gian cụ thể. Nhiều ngôn ngữ có cùng một cách tương tự để bắt đầu kể một câu chuyện có thật.
 **[[:vi:obs:notes:frames:45-01|<<]] | [[:vi:obs:notes:45|Up]] | [[:vi:obs:notes:frames:45-03|>>]]**

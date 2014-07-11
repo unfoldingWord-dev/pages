@@ -1,20 +1,19 @@
 ===== The Power of Jesus [44-04] =====
 
+
 {{:en:obs:obs-44-04.jpg?nolink&640x360}}
 
 
 ===== Điều khoản quan trọng: =====
 
-  * **[[:vi:key-terms/heal|healed]]**
-  * **[[:vi:key-terms/peter|Peter]]**
-  * **[[:vi:key-terms/power|power]]**
-  * **[[:vi:key-terms/jesus|Jesus]]**
-  * **[[:vi:key-terms/faith|faith]]**
 
-
+    * **[[:vi:key-terms:heal|healed]]**
+    * **[[:vi:key-terms:peter|Peter]]**
+    * **[[:vi:key-terms:power|power]]**
+    * **[[:vi:key-terms:jesus|Jesus]]**
+    * **[[:vi:key-terms:faith|faith]]** 
 ===== Phụ chú: =====
 
-  * //(There are no notes for this frame.)// 
 
-
+    * //(Không có lưu ý cho phần nầy).// 
 **[[:vi:obs:notes:frames:44-03|<<]] | [[:vi:obs:notes:44|Up]] | [[:vi:obs:notes:frames:44-05|>>]]**
