@@ -1,20 +1,19 @@
 ===== Not Able to Repay [29-03] =====
 
+
 {{:en:obs:obs-29-03.jpg?nolink&640x360}}
 
 
 ===== Điều khoản quan trọng: =====
 
-  * **[[:vi:key-terms/servant|servant]]**
-  * **[[:vi:key-terms/king|king]]**
-  * **[[:vi:key-terms/servant|slaves]]**
 
-
+    * **[[:vi:key-terms:servant|servant]]**
+    * **[[:vi:key-terms:king|king]]**
+    * **[[:vi:key-terms:servant|slaves]]** 
 ===== Phụ chú: =====
 
-  * (Jesus continues the story.)
-  * **pay the debt** - That is, “pay back the money he owed to the king.”
-  * **to make payment on his debt** - This could be translated as, “and use the money received from selling them to pay part of what he owes me.”
 
-
+    * Chúa Giê-xu tiếp tục câu chuyện.
+    * **Trả nợ: ** Đó là “trả món nợ mà anh ta đã nợ vua”.
+    * **Để trả hết nợ: C**ó thể dịch thành “và dùng món tiền thu được từ việc bán họ làm nô lệ để thanh toán phần nào đó trong khoản nợ của anh ta”.
 **[[:vi:obs:notes:frames:29-02|<<]] | [[:vi:obs:notes:29|Up]] | [[:vi:obs:notes:frames:29-04|>>]]**
