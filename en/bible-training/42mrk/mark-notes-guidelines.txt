@@ -1,5 +1,23 @@
 ====== Guidelines for the Translation Notes of Mark ======
 
+===== Purpose of the Translation Notes: =====
+
+  * The Notes are intended to explain how to **translate** the text. They are not for Bible study, doctrinal teaching, preaching, etc. 
+  * The Notes should be helpful for people whose first language is not English. 
+  * The Notes should useful even without any significant biblical or theological background.
+  * The Notes should provide incremental help by presenting basic content first, and then linking to more in-depth resources as needed.
+  * The Notes should be easy to translate into a variety of "gateway" languages.
+
+
+===== Notes (in progress): =====
+
+  - Make the notes brief and to the point.
+  - Focus on issues of "translation" rather than "interpretation."
+  - Avoid high-level terminology (biblical, theological, grammatical, etc.)
+  - Use simple grammar and vocabulary as much as possible to aid in understanding and also to enable easier translation into other gateway languages.
+  - Avoid English-language idioms and terms or phrases that would be difficult to translate.
+  - Avoid using original-langauge terms in the notes. If necessary,use a transliteration. If possible, put any more complex explanation in a footnote or on a Key Terms page.
+
 
 
 ~~DISCUSSION~~
