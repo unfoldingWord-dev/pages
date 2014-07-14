@@ -1,7 +1,7 @@
 \c 8  
 \s Wisdom calls to us 
 \q
-\v 1 It is as if wisdom, with great understanding \add of many things\add*, is calling \f + \fk personification \f* out
+\v 1 It is as if wisdom, with great understanding \add of many things\add*, is calling \\f + \\ft personification \\f* out
 \add to people\add*. 
 \q
 \v 2 Wisdom stands on hilltops and at crossroads. 
@@ -14,11 +14,11 @@
 \v 5 You people who do not know how to do things that are smart to do, get sound judgment;
 \q2 you foolish people, get good understanding! 
 \q
-\v 6 Listen to me, because I have some excellent/important things to say.
-\q2 What I say is what is fair/right. 
+\v 6 Listen to me, because I have some excellent\f + \ft Or: important \f* things to say.
+\q2 What I say is what is fair\f + \ft Or: right \f*. 
 \q
 \v 7 I speak what is true; 
-\q2 I detest speaking \f + \fk metonymy \f* what is false/deceptive. 
+\q2 I detest speaking \\f + \\ft metonymy \\f* what is false\f + \ft Or: deceptive \f*. 
 \q
 \v 8 Everything that I say is honest; 
 \q2 there is nothing that I say that deceives people. 
@@ -47,10 +47,10 @@
 \q2 I understand how things really are, and I am strong. 
 \q
 \v 15 When kings are wise, they rule \add well\add*; 
-\q2 and when rulers are wise, they make laws that are just/fair.
+\q2 and when rulers are wise, they make laws that are just\f + \ft Or: fair \f*.
 \q
 \v 16 Rulers govern their people with the help of me, wisdom, 
-\q2 and those who have authority decide things fairly/just with my help.
+\q2 and those who have authority decide things fairly\f + \ft Or: just \f* with my help.
 \q
 \v 17 I, wisdom, love all those who love me, 
 \q2 and all those who truly seek me will find me. 
@@ -58,9 +58,9 @@
 \v 18 I enable people to become rich and to be honored; 
 \q2 I enable them to have wealth that will last and to be successful.
 \q
-\v 19 What I can give people is more valuable than fine/pure gold and the best silver.
+\v 19 What I can give people is more valuable than fine\f + \ft Or: pure \f* gold and the best silver.
 \q
-\v 20 I always do what is righteous and just/fair. 
+\v 20 I always do what is righteous and just\f + \ft Or: fair \f*. 
 \q
 \v 21 I give wealth to those who love me; 
 \q2 I fill their houses with valuable things. 
@@ -111,4 +111,4 @@ out\add*.
 \q2 and Yahweh will be pleased with them. 
 \q
 \v 36 But those who stray away from me just harm themselves. 
-\q2 All those who hate me, \add it is as though\add* \f + \fk irony \f* they are loving death.”
+\q2 All those who hate me, \add it is as though\add* \\f + \\ft irony \\f* they are loving death.”

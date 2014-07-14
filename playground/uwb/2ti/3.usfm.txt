@@ -2,7 +2,7 @@
 \s 2 Timothy 3:1-9 
 \s Realize that evil people will cause the last days to be difficult. Avoid such people.
 \p
-\v 1  \add You need to\add* realize that during the last days \f + \fk metonymy \f*
+\v 1  \add You need to\add* realize that during the last days \\f + \\ft metonymy \\f*
 \add before Christ returns, evil people will make\add* it difficult
 \add for believers to behave as they should\add*. 
 \v 2 This is because \add such evil\add* people will be habitually loving themselves and loving money. They will habitually
@@ -13,12 +13,12 @@ boast \add about themselves\add*, they will be proud, and will often say bad thi
 \add anybody\add* \f + \ft (OR, \add they never forgive anyone\add*). They will tell lies about people. They will not control what they
 say and do, nor allow anyone to control them. They will not love
 \add anything that is\add* good. 
-\v 4 They will ◄betray others/hand others over to their enemies► and act foolishly. They will be overly/very proud of
+\v 4 They will ◄betray others\f + \ft Or: hand \f* others over to their enemies► and act foolishly. They will be overly\f + \ft Or: very \f* proud of
 themselves, and they will love to please themselves instead of loving God.
 \v 5  \add And, although they will\add* pretend that they worship God, they will not let
 \add God's Spirit\add* work powerfully \add in their lives\add*. Do not associate with such people (OR, Do not let such people
 join \add your congregation\add*), 
-\v 6 because some such \add people, even now\add*, subtly/deceivingly persuade foolish women to let them come into their
+\v 6 because some such \add people, even now\add*, subtly\f + \ft Or: deceivingly \f* persuade foolish women to let them come into their
 houses, and then they deceive those women \add so that they control what those women think. These
 women\add* have been burdened with sins {have sinned very much} and they have been led to do {they do} the many
 \add evil\add* things that they strongly desire to do. 
@@ -27,7 +27,7 @@ true.
 \v 8 Just like Jannes and Jambres \add long ago\add* very much opposed Moses, so also some
 \add people\add* now oppose the true \add message. Those\add* people think only what is evil. God rejects them
 \add because they do not\add* believe \add what is true\add*. 
-\v 9 Nevertheless, they will not continue to succeed, because most \f + \fk hyperbole \f* people will understand clearly that such people are
+\v 9 Nevertheless, they will not continue to succeed, because most \\f + \\ft hyperbole \\f* people will understand clearly that such people are
 foolish, just like people also realized \add clearly that Jannes and Jambres were
 foolish\add*. 
 \s 2 Timothy 3:10-17 
@@ -42,22 +42,22 @@ have\add* endured \add as you suffered like\add* I have \add suffered\add*.
 me\add . They\add* caused me to suffer at Antioch, Iconium, and Lystra
 \add cities\add*. \add But although they caused me to suffer\add*, I endured it; and every time
 \add they\add* did those things to me, the Lord rescued me. 
-\v 12 ◄Indeed/You know that►, for us\add (inc)\add* who want to live ◄in a
-\add godly manner/\add*in a \add manner that pleases God\add*►, we will always be persecuted {there will always be people who
+\v 12 ◄Indeed\f + \ft Or: You \f* know that►, for us\add (inc)\add* who want to live ◄in a
+\add godly manner\f + \ft Or:  \f*\add*in a \add manner that pleases God\add*►, we will always be persecuted {there will always be people who
 will cause us to suffer} because we \add have a close relationship
 with\add* Christ Jesus. 
-\v 13 Evil people (OR, And those) \f* who deceive other people will ◄get worse/teach things that are more and more wrong►.
+\v 13 Evil people (OR, And those) \f* who deceive other people will ◄get worse\f + \ft Or: teach \f* things that are more and more wrong►.
 \add Specifically, they will\add* deceive other people, and \add those who hear them
 will\add* deceive others. 
-\v 14 But you, in contrast, must continue \add to believe\add* what you have learned and ◄been assured of/firmly believe►.
-\add I know that you are confident/sure that it is true because\add* you know that you have learned it from all
-\add of us who taught you\add* ◄\add God's truth/what is right\add*►.
-\v 15 From \add the time when you were\add* a child you have known the holy writings/Scriptures.
+\v 14 But you, in contrast, must continue \add to believe\add* what you have learned and ◄been assured of\f + \ft Or: firmly \f* believe►.
+\add I know that you are confident\f + \ft Or: sure \f* that it is true because\add* you know that you have learned it from all
+\add of us who taught you\add* ◄\add God's truth\f + \ft Or: what \f* is right\add*►.
+\v 15 From \add the time when you were\add* a child you have known the holy writings\f + \ft Or: Scriptures \f*.
 \add You now know that\add* they enabled you to become wise so that God saved you because of your believing in Christ Jesus.
-\v 16 God ◄inspired/put into men's minds► everything \add that is
+\v 16 God ◄inspired\f + \ft Or: put \f* into men's minds► everything \add that is
 written\add* in the Scriptures {they \add wrote\add* in the holy writings}, and those writings are all useful to teach
-\add us what is true\add*, to cause us to know \add when we are\add* wrong and then ◄to correct us/to show us what we have done
-that is wrong►, and to train/teach us to do what is right. 
+\add us what is true\add*, to cause us to know \add when we are\add* wrong and then ◄to correct us\f + \ft Or: to \f* show us what we have done
+that is wrong►, and to train\f + \ft Or: teach \f* us to do what is right. 
 \v 17 What \add is written\add* {they wrote} is useful to help us who
-\add serve\add* God to be ready/prepared to do all that we should do. By means of it, we are equipped {God gives us what we
+\add serve\add* God to be ready\f + \ft Or: prepared \f* to do all that we should do. By means of it, we are equipped {God gives us what we
 need} in order to do every \add kind of\add* good deeds. 

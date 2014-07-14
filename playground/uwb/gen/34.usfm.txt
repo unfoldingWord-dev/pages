@@ -3,11 +3,11 @@
 \p
 \v 1 One day Dinah, the daughter of Jacob and Leah, went to visit some of the women in that area.
 \v 2 Shechem, one of the sons of Hamor, who was descended from the Hiv people-group, saw her. He wanted her. So he grabbed her
-and forced her to have sex \f + \fk euphemism \f* with him. 
-\v 3 He \f + \fk synecdoche \f* was very much attracted to her, and fell in love with her, and he tried to get her to love him.
+and forced her to have sex \\f + \\ft euphemism \\f* with him. 
+\v 3 He \\f + \\ft synecdoche \\f* was very much attracted to her, and fell in love with her, and he tried to get her to love him.
 \v 4 So Shechem said to his father Hamor, “Please get this girl for me. I want her to become my wife!”
 \p
-\v 5 Jacob very soon found out that his daughter Dinah had been disgraced/defiled. But his sons were in the fields with his
+\v 5 Jacob very soon found out that his daughter Dinah had been disgraced\f + \ft Or: defiled \f*. But his sons were in the fields with his
 livestock, so he did nothing about it until they returned home. 
 \p
 \v 6 In the meantime, Shechem's father Hamor went to talk with Jacob.
@@ -45,7 +45,7 @@ find land that they want, they can buy it. There is plenty of land for them to l
 daughters, and their young men can marry our daughters. 
 \v 22 But these men will agree to live among us and become one people-group with us only if all our males are circumcised, as
 they are. 
-\v 23 But if we do that, just think! Their livestock and their possessions and their other animals will become ours \f + \fk rhetorical question \f*! So
+\v 23 But if we do that, just think! Their livestock and their possessions and their other animals will become ours \\f + \\ft rhetorical question \\f*! So
 we should agree to do what they suggest, and then they will live among us!”
 \v 24 Shechem was the most respected person in his household, so all the men who were there at the city gate agreed to what
 Hamor and Shechem suggested. So every male in the city was circumcised.
@@ -54,7 +54,7 @@ Hamor and Shechem suggested. So every male in the city was circumcised.
 Simeon and Levi, who were Dinah's brothers, took their swords and entered the city without anyone opposing them, and killed all
 the men. 
 \v 26 They even killed Hamor and his son Shechem. Then they took Dinah out of Shechem's house and left the city.
-\v 27 Then the other sons of Jacob went into the city where all those dead bodies were. They ◄looted/took everything in► the
+\v 27 Then the other sons of Jacob went into the city where all those dead bodies were. They ◄looted\f + \ft Or: took \f* everything in► the
 city to get revenge for the shameful thing that had been done to their sister.
 \v 28 They took away the people's sheep and goats, their cattle, their donkeys, and everything else that they wanted from
 inside the city and from out in the countryside. 
@@ -62,7 +62,7 @@ inside the city and from out in the countryside.
 was in the houses. 
 \p
 \v 30 Then Jacob said to Simeon and Levi, “You have brought me big trouble! Now the Canaan people-group and the Perez
-people-group and everyone else who lives in this land will ◄hate me/say my name stinks►! I do not have many men to fight for
+people-group and everyone else who lives in this land will ◄hate me\f + \ft Or: say \f* my name stinks►! I do not have many men to fight for
 us, so if they all gather together and come to me and attack us, they will destroy us and all our household!”
-\v 31 But they replied, “◄Should we have allowed Shechem to treat our sister like a prostitute?/We could not just let Shechem
-treat our sister like a prostitute!►” \f + \fk rhetorical question \f* 
+\v 31 But they replied, “◄Should we have allowed Shechem to treat our sister like a prostitute?\f + \ft Or: We \f* could not just let Shechem
+treat our sister like a prostitute!►” \\f + \\ft rhetorical question \\f* 

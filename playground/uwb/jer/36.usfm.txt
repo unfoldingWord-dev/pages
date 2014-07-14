@@ -5,12 +5,12 @@
 \v 2 “Get a scroll, and write on it the messages that I have given to you regarding Israel, Judah, and the other nations. Write
 all of the messages, starting from the time that I gave you the first message, when Josiah was the king, up until now.
 \v 3 When the people of Judah hear again about all the disasters that I plan to cause them to experience, perhaps each one of
-them will repent. If they do that, I will be able to forgive them for the wrong/evil things that they have done.”
+them will repent. If they do that, I will be able to forgive them for the wrong\f + \ft Or: evil \f* things that they have done.”
 \p
 \v 4 So I summoned Baruch, the son of Neraiah. Then, as I dictated to him all the messages that Yahweh had spoken to me, he
 wrote them on a scroll. 
 \v 5 Then I said to him, “I am not allowed to \add leave here and\add* go to the temple.
-\v 6 So, you go to the temple on the next day when the people are ◄fasting/abstaining from food►, and read to them the messages
+\v 6 So, you go to the temple on the next day when the people are ◄fasting\f + \ft Or: abstaining \f* from food►, and read to them the messages
 from Yahweh that you wrote while I dictated them to you. Read them
 \add aloud\add* to all the people \add who are there, including\add* the people of Judah who come there from their towns.
 \v 7 Perhaps they will turn from their evil behavior and request Yahweh
@@ -20,7 +20,7 @@ to punish them severely.”
 \v 8 Baruch did what I told him to do. He \add went to the temple
 and\add* read \add to the people\add* all those messages from Yahweh.
 \v 9 He did it in December on a day when their leaders had proclaimed that all the people in Jerusalem and the people who had
-come there from other towns in Judah should fast to \add please/honor\add* Yahweh. It was when Jehoiakim had been king for
+come there from other towns in Judah should fast to \add please\f + \ft Or: honor \f*\add* Yahweh. It was when Jehoiakim had been king for
 almost five years. 
 \v 10 Baruch read to all the people the messages that he had written on the scroll. He read them while he was in the temple, in
 the room where Gemariah stayed. He was the son of Shaphan, who had previously been the king's secretary. That room was close to
@@ -50,7 +50,7 @@ and reported to him everything \add that Baruch had read to them\add*.
 \v 21 Then the king sent Jehudi to get the scroll. Jehudi brought it from Elishama's room and read it to the king, while all
 the king's officials were standing there. 
 \v 22 It was in the cold season, and the king was in a part of the palace where he stayed when it was cold. He was sitting in
-front of a fire to keep/be warm. 
+front of a fire to keep\f + \ft Or: be \f* warm. 
 \v 23 Each time Jehudi finished reading three or four columns, the king cut off that section of the scroll with a knife and
 threw it into the fire. He did that, section by section, until the entire scroll was burned up.
 \v 24 Neither the king nor his officials showed that they were afraid
@@ -66,9 +66,9 @@ to me:
 \v 28 “Get another scroll, and \add tell Baruch to\add* write everything again, the same messages that he had written on the
 scroll that the king burned. 
 \v 29 Then go to the king and say to him, ‘Yahweh says this: You burned the scroll because
-\add you did not like\add* what was written on it, that the king of Babylon would surely \f + \fk rhetorical question \f* come
+\add you did not like\add* what was written on it, that the king of Babylon would surely \\f + \\ft rhetorical question \\f* come
 \add with his army\add* and destroy this land and get rid of all the people and the animals.
-\v 30 Now this is what I, Yahweh, say about you, Jehoiakim: None of your descendants will rule this kingdom \f + \fk metonymy \f*. Your corpse
+\v 30 Now this is what I, Yahweh, say about you, Jehoiakim: None of your descendants will rule this kingdom \\f + \\ft metonymy \\f*. Your corpse
 will be thrown out \add on the ground and not buried\add*; it will be under the hot sun during the days and struck by frost
 during the nights. 
 \v 31 I will punish you and your family and your officials for their sins. And I will cause the people of Jerusalem and the

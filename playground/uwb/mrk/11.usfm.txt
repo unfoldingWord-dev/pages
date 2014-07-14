@@ -22,7 +22,7 @@ ever ridden, that has been tied {people have tied} up. Untie it, and then bring 
 king\add*. Others, \add in order to honor him\add*, spread along the road branches that they cut from
 \add palm trees\add* in the fields \add beside the road\add*. 
 \v 9 The people who were going in front of him and behind him were all shouting
-\add things like\add*, “Praise God!” “May God bless this one who comes ◄with his authority/as his representative► \f + \fk metonymy \f*.”
+\add things like\add*, “Praise God!” “May God bless this one who comes ◄with his authority\f + \ft Or: as \f* his representative► \\f + \\ft metonymy \\f*.”
 \v 10 “May you be blessed {May \add God\add* bless you} when you rule
 \add like\add* our ancestor \add King\add* David ruled!” “Praise God who is in the highest heaven!”
 \p
@@ -55,8 +55,8 @@ sell\add* to go through the Temple \add area\add*.
 {\add One of the prophets\add* wrote} \add in the Scriptures that God
 said\add*, ‘\add I want\add* my house to be called {\add people\add* to call my house} a house where
 \add people from\add* all nations may pray’, but you bandits have made it
-\add like\add* a cave where you can hide! ◄\add You know that!/Do you not know
-that\add*?► \f + \fk rhetorical question \f*” 
+\add like\add* a cave where you can hide! ◄\add You know that!\f + \ft Or: Do \f* you not know
+that\add*?► \\f + \\ft rhetorical question \\f*” 
 \v 18 The chief priests and the men who taught the \add Jewish\add* laws
 \add later\add* heard \add about what he had done\add*. So they planned how they might kill him,
 \add but they knew that it would be difficult\add*, because they realized that the crowd was amazed at what he was teaching and
@@ -95,12 +95,12 @@ question that they would not answer; so he did not answer theirs.
 \v 28 “By what authority are you doing these things? Who authorized you to do things
 \add like those you did here yesterday\add*?” 
 \v 29 Jesus said to them, “I will ask you one question. If you answer me, I will tell you who authorized me to do those things.
-\v 30 Did God \f + \fk metonymy \f* or people \add authorize\add* John to baptize
+\v 30 Did God \\f + \\ft metonymy \\f* or people \add authorize\add* John to baptize
 \add those who came to him\add*?” 
 \v 31 They debated among themselves \add as to what they should answer\add*. They
 \add said to each other\add*, “If we say that it was God \add who
-authorized\add* him, he will say to us, ‘Therefore, ◄you should have believed what John said!/why did you not believe what John
-said?► \f + \fk rhetorical question \f*’ 
+authorized\add* him, he will say to us, ‘Therefore, ◄you should have believed what John said!\f + \ft Or: why \f* did you not believe what John
+said?► \\f + \\ft rhetorical question \\f*’ 
 \v 32 On the other hand, if we say that it was people \add who authorized John, then what will happen to
 us\add*?” They were afraid \add to say that about where John got his authority, because they knew
 that\add* the people \add would be very angry with them. They knew

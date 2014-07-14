@@ -2,20 +2,20 @@
 \s A psalm written by David for the choir director 
 \q
 \v 1  \add Only\add* foolish people say to themselves, “There is no God!”
-\q People who say those things are corrupt/worthless; they do abominable/detestable deeds;
-\q2 there is not one \add of them\add* who does what is good/right.
+\q People who say those things are corrupt\f + \ft Or: worthless \f*; they do abominable\f + \ft Or: detestable \f* deeds;
+\q2 there is not one \add of them\add* who does what is good\f + \ft Or: right \f*.
 \b
 \q
 \v 2 Yahweh looks down from heaven and sees humans; 
 \q he looks to see if anyone is very wise, 
 \q2 with the result that he desires \add to know\add* God. 
 \q
-\v 3 But they are all corrupt/evil; 
-\q2 no one does what is good/right. 
+\v 3 But they are all corrupt\f + \ft Or: evil \f*; 
+\q2 no one does what is good\f + \ft Or: right \f*. 
 \b
 \q
 \v 4 Will those evil people never learn \add what God will do to punish
-them\add* \f + \fk rhetorical question \f*? 
+them\add* \\f + \\ft rhetorical question \\f*? 
 \q They act violently toward Yahweh's people while eating the food that he provides),
 \q2 and they never pray to Yahweh. 
 \q
@@ -24,9 +24,9 @@ them\add* \f + \fk rhetorical question \f*?
 him\add*. 
 \q
 \v 6 Those who do evil may prevent helpless people from doing what they plan to do,
-\q2 but Yahweh protects them \f + \fk metaphor \f*. 
+\q2 but Yahweh protects them \\f + \\ft metaphor \\f*. 
 \b
 \q
-\v 7 I wish/desire that \add Yahweh\add* would come from Jerusalem \f + \fk metonymy \f* and rescue us Israeli people!
+\v 7 I wish\f + \ft Or: desire \f* that \add Yahweh\add* would come from Jerusalem \\f + \\ft metonymy \\f* and rescue us Israeli people!
 \q2 Yahweh, when you bless your people again, 
 \q2 all of us Israeli people, who are the descendants of Jacob, will rejoice.

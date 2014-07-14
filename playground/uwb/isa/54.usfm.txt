@@ -1,9 +1,9 @@
 \c 54  
 \s Yahweh promised that his people would return to Jerusalem 
 \q
-\v 1 Yahweh says, “You \add people of Jerusalem\add* \f + \fk metaphor \f*, start to sing!
-\q2 You who are like \f + \fk metaphor \f* women who have never given birth to children, sing loudly and shout joyfully,
-\q because you, who are like \f + \fk metaphor \f* childless women who have been abandoned
+\v 1 Yahweh says, “You \add people of Jerusalem\add* \\f + \\ft metaphor \\f*, start to sing!
+\q2 You who are like \\f + \\ft metaphor \\f* women who have never given birth to children, sing loudly and shout joyfully,
+\q because you, who are like \\f + \\ft metaphor \\f* childless women who have been abandoned
 \add by their husbands\add*, will soon have more children 
 \q2 than women who have never had any children. 
 \q
@@ -27,7 +27,7 @@ you\add*
 \q
 \v 5 I, the Almighty Commander of the armies of angels, the Holy one of Israel, who rules over the whole earth,
 \q the one who created you, 
-\q2 will be like \f + \fk metaphor \f* a husband to you. 
+\q2 will be like \\f + \\ft metaphor \\f* a husband to you. 
 \q
 \v 6 You were like a woman whose husband left her, 
 \q2 and caused you to be very sad; 
@@ -47,7 +47,7 @@ you\add*
 \q
 \v 9 During the time that Noah lived, 
 \q2 I solemnly promised that I would never again allow a flood to cover the earth.
-\q So now I solemnly promise that I will not be angry with you again and ◄rebuke you/threaten to punish you►.
+\q So now I solemnly promise that I will not be angry with you again and ◄rebuke you\f + \ft Or: threaten \f* to punish you►.
 \q
 \v 10 Even if the mountains and hills shake and collapse, 
 \q2 I will not stop faithfully loving you, 
@@ -56,23 +56,23 @@ you\add*
 \q2 That is what I, Yahweh, who act mercifully, say. 
 \b
 \q
-\v 11 You people of Jerusalem \f + \fk apostrophe \f*, \add your enemies acted very violently toward
+\v 11 You people of Jerusalem \\f + \\ft apostrophe \\f*, \add your enemies acted very violently toward
 you\add*; 
 \q2 \add it was as though\add* your city was battered by a severe storm,
 \q2 and no one helped you. 
-\q But now I will cause your city to be rebuilt with stones made of ◄turquoise/valuable stones►,
-\q2 and will cause the foundations of the city to be made of ◄sapphires/valuable blue stones►.
+\q But now I will cause your city to be rebuilt with stones made of ◄turquoise\f + \ft Or: valuable \f* stones►,
+\q2 and will cause the foundations of the city to be made of ◄sapphires\f + \ft Or: valuable \f* blue stones►.
 \q
-\v 12 I will cause the towers on the city wall to be made of ◄rubies/valuable red stones►,
+\v 12 I will cause the towers on the city wall to be made of ◄rubies\f + \ft Or: valuable \f* red stones►,
 \q2 and all the gates of the city will be made of other very valuable stones.
 \q
 \v 13 I will be the one who will teach you people 
 \q2 and cause things to go well with you. 
 \q
-\v 14 Your \add government\add* will be strong because of acting justly/fairly;
-\q no one will ◄oppress you/cause you to suffer►; 
+\v 14 Your \add government\add* will be strong because of acting justly\f + \ft Or: fairly \f*;
+\q no one will ◄oppress you\f + \ft Or: cause \f* you to suffer►; 
 \q2 you will not be afraid, 
-\q2 because there will be nothing \f + \fk personification \f* that will ◄terrorize you/cause you to become extremely afraid►.
+\q2 because there will be nothing \\f + \\ft personification \\f* that will ◄terrorize you\f + \ft Or: cause \f* you to become extremely afraid►.
 \q
 \v 15 If any army attacks you, 
 \q2 it will not be because I have incited them to do that, 
@@ -80,15 +80,15 @@ you\add*;
 \b
 \q
 \v 16 Think about this: 
-\q2 ◄Blacksmiths/Men who make things from metal► fan the coals to make a very hot flame
+\q2 ◄Blacksmiths\f + \ft Or: Men \f* who make things from metal► fan the coals to make a very hot flame
 \q2 in order to produce weapons that can be used \add in battles\add*,
 \q but I am the one who has produced blacksmiths! 
 \q And I am also the one who created people who destroy \add other people and
 cities\add*. 
 \q
-\v 17  \add But I am promising you that I will\add* not allow you to be defeated/injured by soldiers using weapons
+\v 17  \add But I am promising you that I will\add* not allow you to be defeated\f + \ft Or: injured \f* by soldiers using weapons
 \q2 that have been made to attack you, 
-\q and when others try to accuse you, you will ◄refute them/show that they are wrong►.
+\q and when others try to accuse you, you will ◄refute them\f + \ft Or: show \f* that they are wrong►.
 \q2 That is the reward that I will give to the people who serve me;
 \q I will defend them; 
 \q2 that is what I, Yahweh, promise.” 

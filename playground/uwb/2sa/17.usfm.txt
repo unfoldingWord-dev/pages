@@ -4,7 +4,7 @@
 \add with them\add* tonight to pursue David. 
 \v 2 We will attack him while he is tired and discouraged, and cause him to be very frightened. All the soldiers who are with
 him will run away. We will kill only the king. 
-\v 3 Then we will bring back all his soldiers to you, like \f + \fk simile \f* a ◄bride/woman comes to her husband when she is married►. You
+\v 3 Then we will bring back all his soldiers to you, like \\f + \\ft simile \\f* a ◄bride\f + \ft Or: woman \f* comes to her husband when she is married►. You
 are wanting to kill only one man; so the other people will not be harmed.”
 \v 4 Absalom and all the Israeli leaders \add who were with him\add* thought that what Ahithophel said would be good to do.
 \p
@@ -14,21 +14,21 @@ we should do? If you do not think that we should do what Ahithophel suggests, te
 \add what you think that we should do\add*.” 
 \p
 \v 7 Hushai replied, “This time what Ahithophel has suggested is not good advice.
-\v 8 You know that your father and the men who are with him are strong soldiers, and that now they are very angry, like \f + \fk simile \f* a
+\v 8 You know that your father and the men who are with him are strong soldiers, and that now they are very angry, like \\f + \\ft simile \\f* a
 mother bear whose cubs have been stolen from her. Furthermore, your father knows how to fight because he has fought in many
 battles. He will not stay with his troops during the night. 
 \v 9 Right now he is probably already hiding in one of the pits, or in some other place.
 \add If his soldiers start to attack your soldiers, and\add* if they kill some of them, whoever hears about that will say ‘Many
 of the soldiers with Absalom have been killed!’ 
 \v 10 Then your other soldiers, even if they are as fearless [SIM, IDI] as lions, they will become very afraid. Do not forget
-that everyone in Israel knows that your father is a great/strong soldier, and that the soldiers who are with him are also very
-brave/courageous. 
+that everyone in Israel knows that your father is a great\f + \ft Or: strong \f* soldier, and that the soldiers who are with him are also very
+brave\f + \ft Or: courageous \f*. 
 \p
 \v 11 So what I suggest is that you summon all the Israeli soldiers, from Dan
 \add in the far north\add* to Beersheba \add in the far south\add*. They will be as many as the grains of sand on the seashore
-\f + \fk hyperbole \f*. And then you yourself lead us into the battle. 
+\\f + \\ft hyperbole \\f*. And then you yourself lead us into the battle. 
 \v 12 We will find \add your father\add*, wherever he is, and we will attack him
-\add from all sides\add*, like \f + \fk simile \f* dew covers all the ground. And neither he nor any of the soldiers who are with him will
+\add from all sides\add*, like \\f + \\ft simile \\f* dew covers all the ground. And neither he nor any of the soldiers who are with him will
 survive. 
 \v 13 If he escapes into some city, all our soldiers will bring ropes and pull that city down into the valley. As a result, not
 one stone will be left there \add on top of the hill where that city
@@ -36,7 +36,7 @@ was\add*!”
 \p
 \v 14 Absalom and all the other Israeli men \add who were with him\add* said, “What Hushai suggests is better than what
 Ahithophel suggested.” The reason that happened was that Yahweh had determined that if they would accept the good advice that
-Ahithophel had given them, \add they would have been able to defeat/kill
+Ahithophel had given them, \add they would have been able to defeat\f + \ft Or: kill \f*
 David\add*. But \add as a result of their doing what Hushai suggested\add*, Yahweh would cause a disaster to happen to Absalom.
 \s Hushai arranged for a report to be sent to David 
 \p
@@ -44,7 +44,7 @@ David\add*. But \add as a result of their doing what Hushai suggested\add*, Yahw
 Israeli leaders. 
 \v 16 Then he said to them, “Send \add a message\add* quickly to David. Tell him to not stay at the place where people walk
 across the river, near the desert. Instead, he and his soldiers must cross the
-\add Jordan River\add* immediately, in order that they will not be killed/wiped out.”
+\add Jordan River\add* immediately, in order that they will not be killed\f + \ft Or: wiped \f* out.”
 \p
 \v 17  \add The priest's two sons\add*, Jonathan and Ahimaaz, were waiting at En-Rogel
 \add spring\add*, outside Jerusalem. They did not \add dare to\add* enter the city, because if someone saw them,
@@ -55,7 +55,7 @@ En-Rogel\add*, a female servant \add of the two priests\add* would frequently go
 \add found out what the young man had done\add*, so both of them left quickly and went to stay in the house of a man in
 Bahurim. That man had a well in his courtyard; so the two men went down into the well
 \add to hide\add*. 
-\v 19 The man's wife took a cloth/mat and covered the well, and scattered grain on top of it order than no one would know
+\v 19 The man's wife took a cloth\f + \ft Or: mat \f* and covered the well, and scattered grain on top of it order than no one would know
 \add that two men were hiding inside it\add*. 
 \p
 \v 20 Some of Absalom's soldiers \add found out where the two men had
@@ -87,5 +87,5 @@ Zeruiah.
 \add city\add*, and Barzillai from Rogelim \add town\add* in the Gilead
 \add region\add* 
 \v 28 brought sleeping mats, bowls, clay pots, barley, wheat flour, parched grain, beans, and lentils, came to them.
-\v 29 They brought honey and curds, sheep, and some cream/cheese for David and his soldiers to eat. They knew that David and
+\v 29 They brought honey and curds, sheep, and some cream\f + \ft Or: cheese \f* for David and his soldiers to eat. They knew that David and
 his soldiers would be hungry and tired and thirsty \add from marching\add* in the desert.

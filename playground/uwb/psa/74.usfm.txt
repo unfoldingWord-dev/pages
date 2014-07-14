@@ -1,15 +1,15 @@
 \c 74  
 \s A psalm written by Asaph 
 \q
-\v 1 God, why have you abandoned/rejected us? 
-\q2 Will you keep rejecting us forever \f + \fk rhetorical question \f*? 
+\v 1 God, why have you abandoned\f + \ft Or: rejected \f* us? 
+\q2 Will you keep rejecting us forever \\f + \\ft rhetorical question \\f*? 
 \q Why are you angry with us, 
 \q2 since we are like sheep in your pasture \add and you are like our
 shepherd\add*? [MET, RHQ] 
 \q
 \v 2 Do not forget your people whom you chose long ago, 
 \q2 the people whom you freed \add from being slaves in Egypt\add* and caused to become your tribe.
-\q Do not forget Jerusalem, which was ◄your home/where you dwelt►
+\q Do not forget Jerusalem, which was ◄your home\f + \ft Or: where \f* you dwelt►
 \add on this earth\add*. 
 \q
 \v 3 Walk along \add and see\add* where everything has been totally ruined;
@@ -30,27 +30,27 @@ shepherd\add*? [MET, RHQ]
 \q2 and they also burned down all the other places where we gathered to worship God.
 \q
 \v 9 All our sacred symbols \f + \ft (OR, miracles) \f* are gone; 
-\q2 there are no prophets now/anymore, 
+\q2 there are no prophets now\f + \ft Or: anymore \f*, 
 \q2 and no one knows how long \add this situation will continue\add*.
 \b
 \q
-\v 10 God, how long will our enemies make fun of you \f + \fk rhetorical question \f*? 
-\q Will they insult you \f + \fk metonymy \f* forever \f + \fk rhetorical question \f*? 
+\v 10 God, how long will our enemies make fun of you \\f + \\ft rhetorical question \\f*? 
+\q Will they insult you \\f + \\ft metonymy \\f* forever \\f + \\ft rhetorical question \\f*? 
 \q
 \v 11 Why do you refuse to help [MTY, RHQ] us? 
 \q2 Why do you keep your hand inside your cloak \add instead of using it to destroy our
-enemies\add* \f + \fk rhetorical question \f*? 
+enemies\add* \\f + \\ft rhetorical question \\f*? 
 \b
 \q
-\v 12 God, you have been our king \add during all the years\add* since we came out of Egypt \f + \fk hyperbole \f*,
+\v 12 God, you have been our king \add during all the years\add* since we came out of Egypt \\f + \\ft hyperbole \\f*,
 \q and you have enabled us to defeat \add our enemies\add* in the land
 \add of Israel\add*. 
 \q
 \v 13 By your power you caused the \add Red\add* Sea to divide; 
 \q2 \add it was as though\add* you smashed the heads of the \add rulers of Egypt who were
-like\add* huge sea dragons \f + \fk metaphor \f*. 
+like\add* huge sea dragons \\f + \\ft metaphor \\f*. 
 \q
-\v 14  \add It was as though\add* you crushed the head of the king of Egypt \f + \fk metaphor \f*
+\v 14  \add It was as though\add* you crushed the head of the king of Egypt \\f + \\ft metaphor \\f*
 \q2 and gave his body to the animals in the desert to eat. 
 \q
 \v 15 You caused springs and streams to flow, 
@@ -60,24 +60,24 @@ like\add* huge sea dragons \f + \fk metaphor \f*.
 \q2 and you put the sun and the moon in their places. 
 \q
 \v 17 You determined where the oceans end and the land begins, 
-\q2 and you created the summer/hot season and the winter/cold season.
+\q2 and you created the summer\f + \ft Or: hot \f* season and the winter\f + \ft Or: cold \f* season.
 \b
 \q
 \v 18 Yahweh, do not forget that your enemies laugh at you, 
-\q and that it is foolish people who despise you \f + \fk metonymy \f*. 
+\q and that it is foolish people who despise you \\f + \\ft metonymy \\f*. 
 \q
-\v 19 Do not abandon your helpless people \f + \fk metaphor \f* in the hands of their cruel enemies;
-\q do not forget your suffering/persecuted people. 
+\v 19 Do not abandon your helpless people \\f + \\ft metaphor \\f* in the hands of their cruel enemies;
+\q do not forget your suffering\f + \ft Or: persecuted \f* people. 
 \q
-\v 20 ◄Continue thinking about/Do not forget► the agreement that you made with us;
+\v 20 ◄Continue thinking about\f + \ft Or: Do \f* not forget► the agreement that you made with us;
 \q2 Remember that there are violent people in every dark place on the earth.
 \q
 \v 21 Do not allow your oppressed people to be disgraced; 
-\q2 help those poor and needy people in order that they will again praise you \f + \fk metonymy \f*.
+\q2 help those poor and needy people in order that they will again praise you \\f + \\ft metonymy \\f*.
 \b
 \q
 \v 22 God, arise and defend yourself \add by defending your people\add*!
-\q Do not forget that foolish people laugh at you ◄all during the day/continually►!
+\q Do not forget that foolish people laugh at you ◄all during the day\f + \ft Or: continually \f*►!
 \q
 \v 23 Do not forget that your enemies shout angrily \add at you\add*;
 \q2 the uproar that they make \add while they oppose you\add* never stops.

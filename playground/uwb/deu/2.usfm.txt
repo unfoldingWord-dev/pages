@@ -1,7 +1,7 @@
 \c 2  
 \s Moses reminded them of their wandering in the desert 
 \p
-\v 1 “Then we turned around and went through the desert toward the ◄Red Sea/Gulf of Aqaba► as Yahweh told us to do, and we
+\v 1 “Then we turned around and went through the desert toward the ◄Red Sea\f + \ft Or: Gulf \f* of Aqaba► as Yahweh told us to do, and we
 wandered in the Edom area for many years. 
 \p
 \v 2 Then Yahweh said to me, 
@@ -9,19 +9,19 @@ wandered in the Edom area for many years.
 \add and travel\add* toward the north. 
 \v 4 And tell the people that they are about to travel near the land that belongs to the descendants of Esau, who are also
 descendants of Isaac. They live in \add the hilly\add* Edom region. They will be afraid of you,
-\v 5 but do not start to fight against them, because I am not going to give you even a tiny bit \f + \fk hyperbole \f* of their land. I have
+\v 5 but do not start to fight against them, because I am not going to give you even a tiny bit \\f + \\ft hyperbole \\f* of their land. I have
 given that land to the descendants of Esau. 
 \v 6  \add When you travel near their land\add*, buy food and water from them.’
 \p
-\v 7 Do not forget that Yahweh our God has blessed you in everything that you \f + \fk synecdoche \f* have done. He knows
+\v 7 Do not forget that Yahweh our God has blessed you in everything that you \\f + \\ft synecdoche \\f* have done. He knows
 \add what has happened to you while\add* you have wandered in this huge desert. But he has been with you during those forty
-years, and as a result you have had everything that you needed \f + \fk litotes \f*.
+years, and as a result you have had everything that you needed \\f + \\ft litotes \\f*.
 \p
 \v 8 So we continued to travel. We avoided going through the hilly area where the descendants of Esau live. We stayed away from
 the road through the Jordan \add River Valley\add* past Ezion-Geber and Elath
 \add towns\add*, and we turned and traveled northeast toward the desert area where the Moab people-group lives.
 \p
-\v 9 Yahweh said to me, ‘Do not bother/harass the people of Moab, and do not start to fight against them, because I am not
+\v 9 Yahweh said to me, ‘Do not bother\f + \ft Or: harass \f* the people of Moab, and do not start to fight against them, because I am not
 going to give you any of their land. \add Do not forget that\add* they are descendants of
 \add Abraham's nephew\add* Lot, and I have given to them Ar \add city, their capital, and the other areas in that
 country\add*.’ ” 
@@ -29,19 +29,19 @@ country\add*.’ ”
 \v 10 A large group of giants called Emim formerly lived there. They were as tall as the giants who were descendants of Anak.
 \v 11 They and the descendants of Anak are also called the Repha giants, but the people of Moab call them Emim.
 \v 12 The Hor people-group also formerly lived in the Edom area, but the descendants of Esau chased them out. They defeated and
-killed them and ◄settled in/occupied► their land, just as the Israeli people later expelled their enemies from the land that
+killed them and ◄settled in\f + \ft Or: occupied \f*► their land, just as the Israeli people later expelled their enemies from the land that
 Yahweh gave to them. 
 \p
-\v 13  \add Moses/I also said to the Israeli people\add*, “Then we crossed the Zered Gorge, as Yahweh told us to do.
+\v 13  \add Moses\f + \ft Or: I \f* also said to the Israeli people\add*, “Then we crossed the Zered Gorge, as Yahweh told us to do.
 \v 14 It had been thirty-eight years from the time we first left Kadesh-Barnea until we crossed the Zered Gorge. During those
-years, all the Israeli ◄fighting men/soldiers► of that generation had died, as Yahweh had solemnly said would happen.
+years, all the Israeli ◄fighting men\f + \ft Or: soldiers \f*► of that generation had died, as Yahweh had solemnly said would happen.
 \v 15 They died because Yahweh opposed them, until he had gotten rid of all of them.
 \p
-\v 16 After all the men who had been old enough to fight in wars had died \f + \fk doublet \f*,
+\v 16 After all the men who had been old enough to fight in wars had died \\f + \\ft doublet \\f*,
 \v 17 Yahweh said to me, 
 \v 18 ‘Today you all must travel through the Moab region, near Ar,
 \add their capital city\add*. 
-\v 19 When you come near the border of the land where the Ammon people-group live, do not bother/harass them or start to fight
+\v 19 When you come near the border of the land where the Ammon people-group live, do not bother\f + \ft Or: harass \f* them or start to fight
 against them. They are also descendants of Lot, so I am not going to give you any of the land that I have given to them.’ ”
 \s Other groups that lived near Canaan 
 \p
@@ -79,7 +79,7 @@ areas.’
 \p
 \v 32 Then Sihon came out \add of the city\add* with all his army to fight against us at Jahaz
 \add town\add*. 
-\v 33 But God enabled us to defeat \f + \fk doublet \f* them, and we killed Sihon and his sons and all his soldiers.
+\v 33 But God enabled us to defeat \\f + \\ft doublet \\f* them, and we killed Sihon and his sons and all his soldiers.
 \v 34 We captured all their cities and destroyed them all. We killed all the men and women and children; we did not allow any
 of them to remain alive. 
 \v 35 We took the valuable things that were in the cities that we captured and also their cattle.

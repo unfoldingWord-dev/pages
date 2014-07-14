@@ -4,10 +4,10 @@
 \v 1 Yahweh, listen to me while I plead with you to act justly toward me.
 \q2 Hear me while I call out to you to help me. 
 \q Pay attention to what I say while I pray 
-\q2 because I am speaking \f + \fk metonymy \f* honestly/truthfully. 
+\q2 because I am speaking \\f + \\ft metonymy \\f* honestly\f + \ft Or: truthfully \f*. 
 \q
-\v 2 You are the one who is able to declare that I ◄am innocent/have not done anything that was wrong►
-\q2 because you see/know that I am telling the truth. 
+\v 2 You are the one who is able to declare that I ◄am innocent\f + \ft Or: have \f* not done anything that was wrong►
+\q2 because you see\f + \ft Or: know \f* that I am telling the truth. 
 \b
 \q
 \v 3 You know what I think, even at night; 
@@ -19,17 +19,17 @@
 \q and I have not acted cruelly toward others. 
 \q
 \v 5 I have always done what you told me to do [IDI], 
-\q2 I have ◄never failed to do/always done► \f + \fk litotes \f* those things. 
+\q2 I have ◄never failed to do\f + \ft Or: always \f* done► \\f + \\ft litotes \\f* those things. 
 \b
 \q
 \v 6 O God, I pray to you because you answer me; 
-\q2 please listen \f + \fk metonymy \f* to what I am saying. 
+\q2 please listen \\f + \\ft metonymy \\f* to what I am saying. 
 \q
 \v 7 Show me that you faithfully love me. 
-\q2 By your great power \f + \fk metonymy \f* rescue those who ◄run to/trust in► you to protect them from their enemies.
+\q2 By your great power \\f + \\ft metonymy \\f* rescue those who ◄run to\f + \ft Or: trust \f* in► you to protect them from their enemies.
 \q
 \v 8 Protect me as carefully as people protect their own eyes; 
-\q2 protect me like \add birds\add* protect \add their babies\add* under their wings \f + \fk metaphor \f*.
+\q2 protect me like \add birds\add* protect \add their babies\add* under their wings \\f + \\ft metaphor \\f*.
 \q
 \v 9 Do not allow wicked people to attack me; 
 \q2 my enemies surround me, wanting to kill me. 
@@ -38,22 +38,22 @@
 \v 10 They never pity [IDI] anyone, 
 \q2 and they are always boasting. 
 \q
-\v 11 They have hunted/searched for me and found me. 
+\v 11 They have hunted\f + \ft Or: searched \f* for me and found me. 
 \q2 They surround me, watching for an opportunity to throw me to the ground.
 \q
-\v 12 They are like lions \f + \fk simile \f* that are ready to tear apart the animals that they capture;
+\v 12 They are like lions \\f + \\ft simile \\f* that are ready to tear apart the animals that they capture;
 \q2 They are like young lions that are hiding, waiting to pounce
 \add on some animal\add*. 
 \b
 \q
-\v 13 Yahweh, arise and ◄oppose/fight against► my enemies and defeat them!
+\v 13 Yahweh, arise and ◄oppose\f + \ft Or: fight \f* against► my enemies and defeat them!
 \q2 With your sword, save me from those wicked people! 
 \q
-\v 14 Yahweh, by your power \f + \fk metonymy \f* rescue me from those people who are interested
+\v 14 Yahweh, by your power \\f + \\ft metonymy \\f* rescue me from those people who are interested
 \add only\add* in things here in this world. 
 \b
 \q But you provide plenty of food for those whom you love dearly;
 \q2 their children also have many things that their grandchildren will inherit.
 \q
-\v 15 Yahweh, because I act righteously, I will \add some day\add* see you \f + \fk synecdoche \f*.
+\v 15 Yahweh, because I act righteously, I will \add some day\add* see you \\f + \\ft synecdoche \\f*.
 \q2 When I awake, I will see you face-to-face, and then I will be happy.

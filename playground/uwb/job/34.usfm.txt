@@ -3,27 +3,27 @@
 \p
 \v 1 Then Elihu \add continued by\add* saying this: 
 \q
-\v 2 “You men who \add think that you\add* \f + \fk sarcasm \f* are very wise, hear me;
+\v 2 “You men who \add think that you\add* \\f + \\ft sarcasm \\f* are very wise, hear me;
 \q2 listen to what I am saying, you men who \add say that\add* you know so much.
 \q
-\v 3 And when we \f + \fk synecdoche \f* hear what other people \add like you\add* say,
-\q2 we \f + \fk rhetorical question \f* think carefully about what they say \add to determine what is good and what is
+\v 3 And when we \\f + \\ft synecdoche \\f* hear what other people \add like you\add* say,
+\q2 we \\f + \\ft rhetorical question \\f* think carefully about what they say \add to determine what is good and what is
 bad\add*, 
-\q2 like we \f + \fk synecdoche \f* taste food \add to determine what is good\add*.
+\q2 like we \\f + \\ft synecdoche \\f* taste food \add to determine what is good\add*.
 \q
 \v 4 We need to decide \add who is saying\add* what is right 
-\q2 and to determine among ourselves what is good/best. 
+\q2 and to determine among ourselves what is good\f + \ft Or: best \f*. 
 \q
 \v 5 Job has said, ‘I am innocent, 
-\q2 but God has refused to judge me fairly/justly. 
+\q2 but God has refused to judge me fairly\f + \ft Or: justly \f*. 
 \q
 \v 6 Even though I have always done what is right, 
 \q2 he is lying about me. 
 \q Even though I have not done what is wrong, 
 \q2 he has caused me to suffer, and I will certainly die.’ 
 \q
-\v 7 ◄Is there any person like Job, who insults others as easily as people accept a drink of water?/There is no person like
-Job, who insults others as easily as people accept a drink of water.► \f + \fk rhetorical question \f*
+\v 7 ◄Is there any person like Job, who insults others as easily as people accept a drink of water?\f + \ft Or: There \f* is no person like
+Job, who insults others as easily as people accept a drink of water.► \\f + \\ft rhetorical question \\f*
 \q
 \v 8 He habitually associates with people who do what is evil 
 \q2 and spends time with wicked people. 
@@ -32,16 +32,16 @@ Job, who insults others as easily as people accept a drink of water.► \f + \fk
 \b
 \q
 \v 10 So, you men who \add claim that you\add* understand everything, listen to me!
-\q Almighty God would never consider doing anything that is wicked or wrong \f + \fk doublet \f*!
+\q Almighty God would never consider doing anything that is wicked or wrong \\f + \\ft doublet \\f*!
 \q
-\v 11 He ◄pays back/punishes► people for what they have done; 
+\v 11 He ◄pays back\f + \ft Or: punishes \f*► people for what they have done; 
 \q2 he gives them what they deserve for the way that they have conducted their lives.
 \q
 \v 12 Truly, Almighty God never does what is wicked; 
-\q2 he always \f + \fk litotes \f* does what is fair/just. 
+\q2 he always \\f + \\ft litotes \\f* does what is fair\f + \ft Or: just \f*. 
 \q
-\v 13 The authority that he has to rule everything on the earth, no one \f + \fk rhetorical question \f* gave it to him;
-\q2 no one \f + \fk rhetorical question \f* put him in control of the whole world. 
+\v 13 The authority that he has to rule everything on the earth, no one \\f + \\ft rhetorical question \\f* gave it to him;
+\q2 no one \\f + \\ft rhetorical question \\f* put him in control of the whole world. 
 \q2 \add He has always had that authority\add*. 
 \q
 \v 14 If he would take his spirit back to himself, 
@@ -53,7 +53,7 @@ Job, who insults others as easily as people accept a drink of water.► \f + \fk
 \v 16 So, \add Job\add*, if \add you say that you\add* understand everything,
 \q2 listen to what I am saying. 
 \q
-\v 17 God could certainly not \f + \fk rhetorical question \f* govern the world if he hated doing what is fair/just.
+\v 17 God could certainly not \\f + \\ft rhetorical question \\f* govern the world if he hated doing what is fair\f + \ft Or: just \f*.
 \q2 So, will you condemn God, who is righteous and powerful, \add saying that what he has done is
 wrong\add*? 
 \q
@@ -66,13 +66,13 @@ wrong\add*?
 \q
 \v 20 They \add often\add* die suddenly; 
 \q2 he strikes them at midnight and they die; 
-\q2 he gets rid of mighty people without the help of any humans \f + \fk synecdoche \f*.
+\q2 he gets rid of mighty people without the help of any humans \\f + \\ft synecdoche \\f*.
 \b
 \q
-\v 21 He sees \f + \fk metonymy \f* everything that people do; 
+\v 21 He sees \\f + \\ft metonymy \\f* everything that people do; 
 \q2 \add when we walk\add*, he watches every step that we take. 
 \q
-\v 22 There is no gloom or darkness \f + \fk doublet \f* that is very dark, 
+\v 22 There is no gloom or darkness \\f + \\ft doublet \\f* that is very dark, 
 \q2 with the result that sinners can hide \add from God\add* in that darkness.
 \q
 \v 23 God does not \add need to\add* set a time 
@@ -87,7 +87,7 @@ wrong\add*?
 \q2 he removes them at night and gets rid of them. 
 \q
 \v 26 Where many people can see it, 
-\q2 he strikes/punishes them because of the wicked things that they have done;
+\q2 he strikes\f + \ft Or: punishes \f* them because of the wicked things that they have done;
 \q
 \v 27 he strikes them because they turned away from doing what he wanted them to do
 \q2 and did not pay attention to any of his commands. 
@@ -99,9 +99,9 @@ help\add*,
 him\add*. 
 \q
 \v 29 But if God decides to do nothing \add to punish wicked people\add*,
-\q2 no one can criticize/condemn him. 
-\q If a godless/wicked man rules a nation, 
-\q2 a man who tricks/deceives the people, 
+\q2 no one can criticize\f + \ft Or: condemn \f* him. 
+\q If a godless\f + \ft Or: wicked \f* man rules a nation, 
+\q2 a man who tricks\f + \ft Or: deceives \f* the people, 
 \q
 \v 30 and if \add God\add* hides his face \add with the result that he does not see and punish that
 ruler\add*, 
@@ -112,7 +112,7 @@ ruler\add*,
 \add for my sins\add*, 
 \q2 and I will not sin anymore; 
 \q
-\v 32 so teach/show me what \add sins I have committed\add*; 
+\v 32 so teach\f + \ft Or: show \f* me what \add sins I have committed\add*; 
 \q if I have done anything that is evil, 
 \q2 I will not do it anymore.’? 
 \q
@@ -128,7 +128,7 @@ ruler\add*,
 \v 35 ‘Job is speaking ignorantly; 
 \q2 what he says is nonsense.’ 
 \q
-\v 36 I think that Job should be taken to a court and ◄put on trial/judged► thoroughly,
+\v 36 I think that Job should be taken to a court and ◄put on trial\f + \ft Or: judged \f*► thoroughly,
 \q2 because he answers \add us his friends\add* like wicked men would answer.
 \q
 \v 37 To add to the \add other\add* sins that he has committed, he is rebelling

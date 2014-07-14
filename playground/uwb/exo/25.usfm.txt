@@ -1,15 +1,15 @@
 \c 25  
 \s Yahweh gave Moses instructions about a big Sacred Tent for their worship
 \p
-\v 1 Yahweh said to Moses/me, “There \add are many things that I
+\v 1 Yahweh said to Moses\f + \ft Or: me \f*, “There \add are many things that I
 want\add* you to tell to the Israeli people. 
 \p
-\v 2 Tell them that they must give offerings/gifts to me. Receive from the people every offering/gift that they want to give to
+\v 2 Tell them that they must give offerings\f + \ft Or: gifts \f* to me. Receive from the people every offering\f + \ft Or: gift \f* that they want to give to
 me. 
-\v 3 These are the things that they may offer/give: gold, silver, bronze,
-\v 4 blue, purple, and scarlet yarn/wool, fine ◄linen/white cloth►, goats' hair for making
+\v 3 These are the things that they may offer\f + \ft Or: give \f*: gold, silver, bronze,
+\v 4 blue, purple, and scarlet yarn\f + \ft Or: wool \f*, fine ◄linen\f + \ft Or: white \f* cloth►, goats' hair for making
 \add cloth\add*, 
-\v 5 rams' skins that have been ◄tanned/dyed red►, goatskins, \add hard\add* wood from acacia
+\v 5 rams' skins that have been ◄tanned\f + \ft Or: dyed \f* red►, goatskins, \add hard\add* wood from acacia
 \add trees\add*, 
 \v 6 olive oil \add to burn\add* in the lamps, spices to \add put
 in\add* the olive oil for anointing \add the priests\add* and in the sweet-smelling incense,
@@ -17,14 +17,14 @@ in\add* the olive oil for anointing \add the priests\add* and in the sweet-smell
 \add to the priest's vest\add* and put on the pouches \add that are to be fastened to the
 vest\add*. 
 \v 8 Tell the people to make a big Sacred Tent for me, so that I can live in it in their midst.
-\v 9 They must make the Sacred Tent and all the things that will be used inside it according to the plan/model that I will show
+\v 9 They must make the Sacred Tent and all the things that will be used inside it according to the plan\f + \ft Or: model \f* that I will show
 you.” 
 \s Instructions for making the sacred chest 
 \p
-\v 10 “\add Tell the people to\add* make a \add sacred\add* chest from acacia wood. It is to be ◄45 in./110 cm.► long, ◄27
-in./66 cm.► wide, and ◄27 in./66 cm.► high. 
+\v 10 “\add Tell the people to\add* make a \add sacred\add* chest from acacia wood. It is to be ◄45 in.\f + \ft Or: 110 \f* cm.► long, ◄27
+in.\f + \ft Or: 66 \f* cm.► wide, and ◄27 in.\f + \ft Or: 66 \f* cm.► high. 
 \v 11 Cover it with pure gold inside and outside the chest and put a gold border around the top of it.
-\v 12  \add They must\add* make/cast four rings from gold and fasten them to the legs of the chest. Put two rings on each side
+\v 12  \add They must\add* make\f + \ft Or: cast \f* four rings from gold and fasten them to the legs of the chest. Put two rings on each side
 of the chest. 
 \v 13  \add They must\add* make \add two\add* poles from acacia wood, and they must cover them with gold.
 \v 14  \add They must\add* put the poles into the rings on the sides of the chest, so that the chest can be carried by the
@@ -35,8 +35,8 @@ poles.
 which\add* I have written my commandments. 
 \p
 \v 17  \add Tell them to\add* make a lid for the chest from pure gold.
-\add It will be the place where I will\add* cover/forgive people's sins. It
-\add also\add* is to be ◄45 in./110 cm.► long and ◄27 in./66 cm.► wide.
+\add It will be the place where I will\add* cover\f + \ft Or: forgive \f* people's sins. It
+\add also\add* is to be ◄45 in.\f + \ft Or: 110 \f* cm.► long and ◄27 in.\f + \ft Or: 66 \f* cm.► wide.
 \v 18  \add Tell them to\add* hammer \add a large lump of\add* gold into the form of two creatures that have wings.
 \v 19 One of these is to be put at each end of the chest, but the gold
 \add from which\add* they \add are made\add* must be joined to the gold from which the lid
@@ -47,11 +47,11 @@ which\add* I have written my commandments.
 to you all my laws that \add you must tell\add* to the Israeli people.”
 \s Instructions for the table for the sacred bread 
 \p
-\v 23 “\add Tell them to\add* make a table from acacia wood. It is to be ◄36 in./88 cm.► long, ◄18 in./66 cm.► wide, and ◄27
-in./66 cm.► high. 
+\v 23 “\add Tell them to\add* make a table from acacia wood. It is to be ◄36 in.\f + \ft Or: 88 \f* cm.► long, ◄18 in.\f + \ft Or: 66 \f* cm.► wide, and ◄27
+in.\f + \ft Or: 66 \f* cm.► high. 
 \v 24  \add Tell them to\add* cover it with pure gold and put a gold border around it.
-\v 25  \add Tell them to\add* make a rim all around it, ◄3 in./7.5 cm.► wide, and put a gold border around the rim.
-\v 26  \add Tell them to\add* make/cast four rings from gold and fasten the rings to the four corners of the table, one ring
+\v 25  \add Tell them to\add* make a rim all around it, ◄3 in.\f + \ft Or: 7 \f*.5 cm.► wide, and put a gold border around the rim.
+\v 26  \add Tell them to\add* make\f + \ft Or: cast \f* four rings from gold and fasten the rings to the four corners of the table, one ring
 close to each leg \add of the table\add*. 
 \v 27 The rings should be fastened to the table near the rim. 
 \v 28 Make two poles from acacia wood and cover them with gold. The poles for carrying the table are to be inserted in the
@@ -78,9 +78,9 @@ from\add* one \add big\add* lump of gold.
 \v 36 All these buds and branches, along with the shaft, are to be hammered from one large lump of pure gold.
 \v 37 Also \add tell them to\add* make seven small cups \add for holding oil. One is to be put on top of the shaft and the
 others are to be put on top of the branches\add*. Place these cups so that
-\add when the lamps are lit\add*, the light will shine toward the ◄front of the lampstand/entrance►.
+\add when the lamps are lit\add*, the light will shine toward the ◄front of the lampstand\f + \ft Or: entrance \f*►.
 \v 38  \add Tell them to\add* make tongs from pure gold, \add to remove the burned
 wicks\add* and trays \add in which to put the burned wicks\add*.
-\v 39  \add Tell them to\add* use ◄75 pounds/35 kg.► of pure gold to make the lampstand and the tongs and the trays.
+\v 39  \add Tell them to\add* use ◄75 pounds\f + \ft Or: 35 \f* kg.► of pure gold to make the lampstand and the tongs and the trays.
 \v 40 Make sure that they make these things according to the instructions that I am giving you
 \add here\add* on \add this\add* mountain.” 

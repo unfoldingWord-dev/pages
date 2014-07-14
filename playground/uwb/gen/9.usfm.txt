@@ -3,7 +3,7 @@
 \p
 \v 1 Then God blessed Noah and his sons, saying to them, “I want you to have many children who will live all over the earth.
 \v 2 All the wild animals on the earth and all the birds, all the creatures that move close to the ground, and all the fish,
-will be very afraid \f + \fk doublet \f* of you. 
+will be very afraid \\f + \\ft doublet \\f* of you. 
 \v 3 Just as I previously said you could eat green plants for food, now I am saying you can eat everything that lives and
 moves. 
 \v 4 It is blood that causes creatures to be alive, therefore you must not eat meat that still has blood in it after the animal
@@ -48,7 +48,7 @@ naked.
 \v 24 When Noah woke up and was sober again, he found out how wrongfully Ham, his youngest son, had behaved toward him.
 \v 25 He said, “I am cursing Ham's youngest son, Canaan, and his descendants. They will be like slaves to their uncles.
 \v 26 I will ask God to enlarge the territory that belongs to Japheth, and allow his descendants to live peacefully among the
-descendants of Shem \f + \fk metonymy \f*. 
+descendants of Shem \\f + \\ft metonymy \\f*. 
 \v 27 And I will ask that Canaan's descendants will be like slaves of Japheth's descendants.”
 \p
 \v 28 Noah lived 350 more years after the flood. 

@@ -14,32 +14,32 @@
 \q
 \v 4 Do you understand things the way that we humans do? 
 \q
-\v 5 ◄Do you live for only a few years, like we do?/You certainly do not live for only a few years, like we do.► \f + \fk rhetorical question \f*
+\v 5 ◄Do you live for only a few years, like we do?\f + \ft Or: You \f* certainly do not live for only a few years, like we do.► \\f + \\ft rhetorical question \\f*
 \q
-\v 6 So, why do you \f + \fk rhetorical question \f* continue to search for my faults 
+\v 6 So, why do you \\f + \\ft rhetorical question \\f* continue to search for my faults 
 \q2 and to hunt for my sins? 
 \q
 \v 7 You know that I am not guilty, 
-\q2 and that no one can rescue me from your power \f + \fk metonymy \f*. 
+\q2 and that no one can rescue me from your power \\f + \\ft metonymy \\f*. 
 \b
 \q
-\v 8 With your hands you created me and shaped/formed my body; 
+\v 8 With your hands you created me and shaped\f + \ft Or: formed \f* my body; 
 \q2 but now you are \add deciding\add* that you should not have done that, and you are destroying me.
 \q
 \v 9 Do not forget that you made me from \add a piece of\add* clay;
-\q2 are you going to cause me to become dirt again \f + \fk rhetorical question \f*? 
+\q2 are you going to cause me to become dirt again \\f + \\ft rhetorical question \\f*? 
 \q
-\v 10 You certainly \f + \fk rhetorical question \f* directed/controlled it when I was conceived,
-\q2 and you formed me inside my mother's womb \f + \fk metaphor \f*. 
+\v 10 You certainly \\f + \\ft rhetorical question \\f* directed\f + \ft Or: controlled \f* it when I was conceived,
+\q2 and you formed me inside my mother's womb \\f + \\ft metaphor \\f*. 
 \q
 \v 11 You fastened my bones together with sinews, 
 \q2 and then you covered them with flesh inside my skin. 
 \q
 \v 12 You have caused me to be alive, and you have faithfully loved me,
-\q2 and you have carefully ◄preserved me/kept me alive►. 
+\q2 and you have carefully ◄preserved me\f + \ft Or: kept \f* me alive►. 
 \b
 \q
-\v 13 But you ◄kept secret/did not reveal► \add what you were planning to do to
+\v 13 But you ◄kept secret\f + \ft Or: did \f* not reveal► \add what you were planning to do to
 me\add*; 
 \q2 I am certain that you were planning to \add do these things to
 me\add*. 
@@ -47,32 +47,32 @@ me\add*.
 \v 14 You were watching to see if I would sin, 
 \q2 in order that \add if I sinned\add*, you would refuse to forgive me.
 \q
-\v 15 If I am a wicked man, I hope/wish that terrible things will happen to me.
+\v 15 If I am a wicked man, I hope\f + \ft Or: wish \f* that terrible things will happen to me.
 \q But even if I am righteous, I still must bow my head \add and feel
 ashamed\add*, 
 \q2 because I am very disgraced and feel miserable. 
 \q
-\v 16 And if I am proud, you hunt me like \f + \fk simile \f* a lion hunts \add for some animal to
+\v 16 And if I am proud, you hunt me like \\f + \\ft simile \\f* a lion hunts \add for some animal to
 kill\add*, 
 \q2 and you act powerfully to injure me. 
 \q
 \v 17 You constantly find more witnesses \add to testify that I have done what is
 wrong\add*, 
-\q2 and you continually become more angry/perturbed with me. 
+\q2 and you continually become more angry\f + \ft Or: perturbed \f* with me. 
 \q2 \add It is as though\add* you are always bringing new troops to attack me.
 \b
 \q
 \v 18 God, why did you allow me to be born? 
-\q2 I wish/desire that I had died before anyone \f + \fk synecdoche \f* saw me. 
+\q2 I wish\f + \ft Or: desire \f* that I had died before anyone \\f + \\ft synecdoche \\f* saw me. 
 \q
 \v 19  \add I consider that\add* it would have been better if I had been carried directly from my mother's womb to the grave
 \q2 than for me to live. 
 \q
-\v 20  \add I think that\add* \f + \fk rhetorical question \f* there are only a few days for me to remain alive;
-\q2 so ◄allow me to be alone/stop attacking me►, in order that I may be a little cheerful
+\v 20  \add I think that\add* \\f + \\ft rhetorical question \\f* there are only a few days for me to remain alive;
+\q2 so ◄allow me to be alone\f + \ft Or: stop \f* attacking me►, in order that I may be a little cheerful
 \q
 \v 21 before I go to the place from which I will never return, 
-\q2 where it is always gloomy and very dark \f + \fk doublet \f*, 
+\q2 where it is always gloomy and very dark \\f + \\ft doublet \\f*, 
 \q
-\v 22 a place of darkness and dark shadows, where everything is confused/disordered,
+\v 22 a place of darkness and dark shadows, where everything is confused\f + \ft Or: disordered \f*,
 \q2 where \add even the small\add* light there is like darkness \f + \ft (OR, there is no light, only darkness) \f*.’ ”

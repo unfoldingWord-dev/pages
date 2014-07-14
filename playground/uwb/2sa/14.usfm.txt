@@ -4,9 +4,9 @@
 \v 1 Joab realized that the king yearned [IDI] to see Absalom. 
 \v 2 So Joab sent someone to Tekoa \add town\add* to bring back a woman who was very clever.
 \add When she arrived\add*, Joab said to her, “Pretend that you are grieving because someone has died. Put on clothes that show
-that you are mourning. Do not put any lotion/ointment on your body. Act as if you are a woman who has been mourning for a long
+that you are mourning. Do not put any lotion\f + \ft Or: ointment \f* on your body. Act as if you are a woman who has been mourning for a long
 time. 
-\v 3 And go to the king, and tell him what I tell you to say.” Then Joab told her what to say \f + \fk metonymy \f*
+\v 3 And go to the king, and tell him what I tell you to say.” Then Joab told her what to say \\f + \\ft metonymy \\f*
 \add to the king\add*. 
 \p
 \v 4 So the woman from Tekoa went to the king. She prostrated herself in front of him and then bowed down to him, and said,
@@ -16,29 +16,29 @@ time.
 \add some time ago\add*. 
 \v 6 I had two sons. But one day they quarreled with each other out in the fields. There was no one to separate them, and one
 of them struck the other one and killed him. 
-\v 7 Now, all my family oppose me. They are insisting that I allow them to kill my son who is still alive \f + \fk metonymy \f*, in order that
+\v 7 Now, all my family oppose me. They are insisting that I allow them to kill my son who is still alive \\f + \\ft metonymy \\f*, in order that
 they may get revenge for his killing his brother. But if they do that, I will not have any son to inherit
-\add my possessions\add*. That would be like \f + \fk metaphor \f* extinguishing the last coals of a fire, and my husband would not have a son
-to preserve our family's name. \f + \fk doublet \f*” 
+\add my possessions\add*. That would be like \\f + \\ft metaphor \\f* extinguishing the last coals of a fire, and my husband would not have a son
+to preserve our family's name. \\f + \\ft doublet \\f*” 
 \p
 \v 8 Then the king said to the woman, “Go back home; I will take care of this matter for you.”
 \p
 \v 9 The woman from Tekoa replied to the king, “Your Majesty, if you are criticized
-\add for helping me\add*, my family and I will accept the blame. You and the royal family will ◄be innocent/not have done what
+\add for helping me\add*, my family and I will accept the blame. You and the royal family will ◄be innocent\f + \ft Or: not \f* have done what
 is wrong►.” 
 \p
-\v 10 The king said to her, “If anyone says anything \add to threaten you/cause you
+\v 10 The king said to her, “If anyone says anything \add to threaten you\f + \ft Or: cause \f* you
 trouble\add* you, bring that person to me, and \add I will make sure
 that\add* he will never cause you trouble again.” 
 \p
 \v 11 Then the woman said, “Your Majesty, please pray that Yahweh your God will not allow my relative, who
-\add wants to get\add* revenge on my son for killing \f + \fk metonymy \f* his brother, to be able to do that.”
+\add wants to get\add* revenge on my son for killing \\f + \\ft metonymy \\f* his brother, to be able to do that.”
 \p David replied, “As surely as Yahweh lives, your son will not be harmed at all. [IDI]”
 \v 12 Then the woman said, “Your Majesty, please allow me to say one more thing to you.” He replied, “Speak!”
 \p
 \v 13 The woman said, “Why have you done this bad thing to God's people? You have not allowed your son Absalom to return home.
-By saying what you have just said, you have certainly declared \f + \fk rhetorical question \f* that what you have done is wrong.
-\v 14 We all die; we are like \f + \fk simile \f* water that cannot be picked up after it is spilled on the ground.
+By saying what you have just said, you have certainly declared \\f + \\ft rhetorical question \\f* that what you have done is wrong.
+\v 14 We all die; we are like \\f + \\ft simile \\f* water that cannot be picked up after it is spilled on the ground.
 \add After we die, we cannot become alive again\add*. Even God does not cause people who have died to become alive again.
 \add So Amnon cannot become alive again\add*. But God creates ways for those who have been exiled to be able to return to their
 homes. 
@@ -48,10 +48,10 @@ king, and perhaps he will do what I request him to do.
 \v 16 Perhaps he will listen to me, and save me from the man who is trying to kill my son. If my son is killed, it would result
 in us disappearing from the land that God gave to us.’ 
 \p
-\v 17 And I thought, ‘What the king says will comfort/encourage me, because the king is like \f + \fk simile \f* an angel of God. He knows
-what is good and what is evil.’ I pray/desire that Yahweh our God will ◄be with/direct► you.”
+\v 17 And I thought, ‘What the king says will comfort\f + \ft Or: encourage \f* me, because the king is like \\f + \\ft simile \\f* an angel of God. He knows
+what is good and what is evil.’ I pray\f + \ft Or: desire \f* that Yahweh our God will ◄be with\f + \ft Or: direct \f*► you.”
 \p
-\v 18 Then the king said to the woman, “I will now ask you a question. Answer it, and tell me the truth. \f + \fk litotes \f*” The woman
+\v 18 Then the king said to the woman, “I will now ask you a question. Answer it, and tell me the truth. \\f + \\ft litotes \\f*” The woman
 replied, “Your majesty, ask your question.” 
 \p
 \v 19 The king said, “Was Joab the one who told you to do this?” She replied, “Yes, Your Majesty, as surely as you live, I
@@ -70,7 +70,7 @@ and \add it seems that\add* you know everything \add that happens\add* on the ea
 agreed to do what I requested.” 
 \p
 \v 23 Then Joab got up and went to Geshur, and got Absalom and brought him back to Jerusalem.
-\v 24 But the king said/commanded that Absalom would not be permitted to live in the palace. He said, “I do not want him to
+\v 24 But the king said\f + \ft Or: commanded \f* that Absalom would not be permitted to live in the palace. He said, “I do not want him to
 come to see me.” So Absalom lived in his own house, and did not go to
 \add talk to\add* the king. 
 \p
@@ -95,7 +95,7 @@ barley\add*.” So Absalom's servants \add went there\add* and lit a fire,
 \add the barley in\add* my field?” 
 \v 32 Absalom replied, “Because \add you did not come to me when\add* I sent messages
 \add to you requesting that you come\add*. I wanted to request that you go to the king to say to him, ‘Absalom ◄wants to know
-what good it did/says that is was useless► \f + \fk rhetorical question \f* for him \f + \fk rhetorical question \f* to leave Geshur and come here.
+what good it did\f + \ft Or: says \f* that is was useless► \\f + \\ft rhetorical question \\f* for him \\f + \\ft rhetorical question \\f* to leave Geshur and come here.
 \add He thinks that\add* it would have been better for him to stay there.
 \add He wants you to\add* allow him to talk to you. And if you think that he has done something that is wrong, you can
 \add command that\add* he be executed.’ ” 

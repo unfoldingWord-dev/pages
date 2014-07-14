@@ -1,16 +1,16 @@
 \c 25  
 \s More wise sayings from Solomon 
 \p
-\v 1 Here are more wise sayings/words that Solomon \add wrote\add*. Some men who worked for Hezekiah, the king of Judah, copied
+\v 1 Here are more wise sayings\f + \ft Or: words \f* that Solomon \add wrote\add*. Some men who worked for Hezekiah, the king of Judah, copied
 them \add from a scroll that Solomon had written\add*. 
 \b
 \q
-\v 2 We consider God to be great because he ◄acts in mysterious ways/does things that we cannot understand►;
+\v 2 We consider God to be great because he ◄acts in mysterious ways\f + \ft Or: does \f* things that we cannot understand►;
 \q2 we consider kings to be great because they explain things. 
 \b
 \q
-\v 3  \add It is not possible for anyone to measure\add* how high the sky is or how deep the earth/ocean is;
-\q2 likewise \f + \fk simile \f*, it is not possible for us to know all that kings are thinking.
+\v 3  \add It is not possible for anyone to measure\add* how high the sky is or how deep the earth\f + \ft Or: ocean \f* is;
+\q2 likewise \\f + \\ft simile \\f*, it is not possible for us to know all that kings are thinking.
 \b
 \q
 \v 4 If workers burn out the impure bits that are in silver, 
@@ -21,8 +21,8 @@ them \add from a scroll that Solomon had written\add*.
 to\add* act justly. 
 \b
 \q
-\v 6 When you stand in front of a king, do not try to ◄impress him/honor yourself►
-\q2 and do not ◄act like you are important/ask to sit where important people sit;►
+\v 6 When you stand in front of a king, do not try to ◄impress him\f + \ft Or: honor \f* yourself►
+\q2 and do not ◄act like you are important\f + \ft Or: ask \f* to sit where important people sit;►
 \q
 \v 7 it is better if someone tells you to sit closer \add to the
 king\add* 
@@ -32,8 +32,8 @@ important \add may sit closer to the king\add*.
 \q
 \v 8 Do not quickly go to a court \add to tell the judge about\add* something that you have seen,
 \q2 because another witness may later \add say something that proves that you are wrong, and as a
-result\add* you will be disgraced/ashamed. 
-\q2 If that happens, ◄what will you do?/you will not know what to do.► \f + \fk rhetorical question \f*
+result\add* you will be disgraced\f + \ft Or: ashamed \f*. 
+\q2 If that happens, ◄what will you do?\f + \ft Or: you \f* will not know what to do.► \\f + \\ft rhetorical question \\f*
 \b
 \q
 \v 9 If you and someone else think differently about some matter,
@@ -42,29 +42,29 @@ result\add* you will be disgraced/ashamed.
 \q
 \v 10 If others find out that you have done that, 
 \q2 you will be ashamed, 
-\q2 and from that time on, ◄you will have a bad reputation/people will think badly about you►.
+\q2 and from that time on, ◄you will have a bad reputation\f + \ft Or: people \f* will think badly about you►.
 \b
 \q
 \v 11 Something that is said that is very appropriate 
-\q2 is \add as delightful as seeing\add* \f + \fk simile \f* gold apples/ornaments in a silver bowl.
+\q2 is \add as delightful as seeing\add* \\f + \\ft simile \\f* gold apples\f + \ft Or: ornaments \f* in a silver bowl.
 \b
 \q
-\v 12 When a wise person rebukes/warns someone \f + \fk synecdoche \f* who is willing to listen,
-\q2 that is \add as valuable as\add* \f + \fk simile \f* a gold ring or a gold chain.
+\v 12 When a wise person rebukes\f + \ft Or: warns \f* someone \\f + \\ft synecdoche \\f* who is willing to listen,
+\q2 that is \add as valuable as\add* \\f + \\ft simile \\f* a gold ring or a gold chain.
 \b
 \q
-\v 13 A messenger who ◄is reliable/tells someone else exactly what he was told to say► refreshes
+\v 13 A messenger who ◄is reliable\f + \ft Or: tells \f* someone else exactly what he was told to say► refreshes
 \add the spirits of\add* his bosses who sent him 
-\q2 like \f + \fk simile \f* ◄snow/cold water► refreshes \add the ground\add* at the time that people harvest crops.
+\q2 like \\f + \\ft simile \\f* ◄snow\f + \ft Or: cold \f* water► refreshes \add the ground\add* at the time that people harvest crops.
 \b
 \q
 \v 14 When someone promises to give a gift to us but never gives it,
-\q2 \add that disappoints us\add* as much as \f + \fk simile \f* clouds and wind that come but do not bring any rain.
+\q2 \add that disappoints us\add* as much as \\f + \\ft simile \\f* clouds and wind that come but do not bring any rain.
 \b
 \q
 \v 15 If someone keeps requesting a ruler long enough to do something, he will
 \add often\add* agree to do it; 
-\q2 similarly, by speaking \f + \fk metonymy \f* gently we can \add often\add* convince
+\q2 similarly, by speaking \\f + \\ft metonymy \\f* gently we can \add often\add* convince
 \add others that what we say is right\add* [IDI]. 
 \b
 \q
@@ -77,17 +77,17 @@ him\add*;
 \b
 \q
 \v 18 To falsely accuse others \add in court\add* 
-\q2 is like \f + \fk simile \f* \add attacking them with\add* a war-club or a sword or a sharp arrow.
+\q2 is like \\f + \\ft simile \\f* \add attacking them with\add* a war-club or a sword or a sharp arrow.
 \b
 \q
 \v 19 Depending on unreliable people when you have troubles 
-\q2 is \add as bad\add* as \add trying to eat when\add* you have a bad/hurting tooth or
+\q2 is \add as bad\add* as \add trying to eat when\add* you have a bad\f + \ft Or: hurting \f* tooth or
 \add trying to walk when\add* your foot is crippled. 
 \b
 \q
 \v 20 Singing to someone who is depressed \add just causes him to feel
 worse\add*; 
-\q2 it is like \f + \fk simile \f* taking off clothes on a very cold day 
+\q2 it is like \\f + \\ft simile \\f* taking off clothes on a very cold day 
 \q2 or like putting vinegar on a wound. 
 \b
 \q
@@ -99,26 +99,26 @@ worse\add*;
 \b
 \q
 \v 23 When wind blows from the north, it will rain; 
-\q2 similarly \f + \fk simile \f*, if we ◄gossip/tell secrets► about others, that causes them to look at us very angrily.
+\q2 similarly \\f + \\ft simile \\f*, if we ◄gossip\f + \ft Or: tell \f* secrets► about others, that causes them to look at us very angrily.
 \b
 \q
-\v 24 It is better to live ◄\add alone/by yourself\add*► in the corner of an attic/housetop
-\q2 than to live inside the house with a wife who is always nagging/quarreling.
+\v 24 It is better to live ◄\add alone\f + \ft Or: by \f* yourself\add*► in the corner of an attic\f + \ft Or: housetop \f*
+\q2 than to live inside the house with a wife who is always nagging\f + \ft Or: quarreling \f*.
 \b
 \q
 \v 25 Receiving good news from a country far away refreshes our spirits
-\q2 like \f + \fk simile \f* cold water refreshes our bodies when we are very thirsty.
+\q2 like \\f + \\ft simile \\f* cold water refreshes our bodies when we are very thirsty.
 \b
 \q
-\v 26 When a righteous/good person ◄gives in/yields► to wicked people,
-\q2 that is \add as bad\add* as \f + \fk simile \f* a spring that becomes muddied or a fountain that becomes polluted.
+\v 26 When a righteous\f + \ft Or: good \f* person ◄gives in\f + \ft Or: yields \f*► to wicked people,
+\q2 that is \add as bad\add* as \\f + \\ft simile \\f* a spring that becomes muddied or a fountain that becomes polluted.
 \b
 \q
 \v 27 It is not good to eat too much honey, 
 \q2 and trying to get people to praise you is also not good. 
 \b
 \q
-\v 28 People who ◄cannot control their tempers/quickly become very angry►
+\v 28 People who ◄cannot control their tempers\f + \ft Or: quickly \f* become very angry►
 \add are unable to defend their behavior\add*; 
 \q2 that is like \add having\add* a city without a wall around it,
 \add with the result that no one can defend it\add*. 

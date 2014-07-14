@@ -2,17 +2,17 @@
 \s MARK 3:1-6 
 \s After Jesus healed a man with a withered arm on the Sabbath, Jewish leaders began to plan to kill him.
 \p
-\v 1  \add On another\add* ◄\add Sabbath/Jewish day of rest\add*►, Jesus entered ◄the synagogue/the Jewish meeting place►
+\v 1  \add On another\add* ◄\add Sabbath\f + \ft Or: Jewish \f* day of rest\add*►, Jesus entered ◄the synagogue\f + \ft Or: the \f* Jewish meeting place►
 again. There was a man there whose hand was shriveled. 
 \v 2  \add Some men of the Pharisee sect\add* watched him carefully in order to see whether he would heal the man ◄on the
-Sabbath/on the Jewish rest day►. They did this in order that \add if he healed the
+Sabbath\f + \ft Or: on \f* the Jewish rest day►. They did this in order that \add if he healed the
 man\add*, they would accuse him of disobeying \add their Jewish laws, because he
-worked\add* ◄\add on the Sabbath/on the Jewish rest day\add*►. 
+worked\add* ◄\add on the Sabbath\f + \ft Or: on \f* the Jewish rest day\add*►. 
 \v 3 Jesus said to the man whose hand was shriveled, “Stand up here in front of everyone!”
 \add So the man stood up\add*. 
 \v 4 Then Jesus said \add to the Pharisees\add*, “Do the laws \add that God gave
-Moses\add* permit people to do good ◄\add on the Sabbath/on the Jewish rest
-day\add*►, or do they permit people to do evil? Specifically, do his laws permit us to save a person's life ◄on the Sabbath/on
+Moses\add* permit people to do good ◄\add on the Sabbath\f + \ft Or: on \f* the Jewish rest
+day\add*►, or do they permit people to do evil? Specifically, do his laws permit us to save a person's life ◄on the Sabbath\f + \ft Or: on \f*
 the Jewish rest day►, or \add do they permit us\add* to let him die
 \add by refusing to help him\add*?” But they did not reply. 
 \v 5 He looked around at them angrily. He was very distressed that they were stubbornly
@@ -39,7 +39,7 @@ by touching him \add they would come well\add*. So he told his disciples that th
 \add when they pushed forward to touch him\add*. 
 \v 11 Whenever the evil spirits saw Jesus, \add they caused the people whom they
 controlled\add* to fall down in front of Jesus \add in recognition of Jesus'
-power\add*. Then they exclaimed, “You are ◄the Son of God/the man who is also God►!”
+power\add*. Then they exclaimed, “You are ◄the Son of God\f + \ft Or: the \f* man who is also God►!”
 \v 12 He commanded the \add evil spirits\add* strongly that they should not tell anyone who he was.
 \s MARK 3:13-19 
 \s Jesus appointed the twelve apostles. 
@@ -60,7 +60,7 @@ Thunder\add ’ because of their fiery zeal\add*;
 \add member of the party that wanted\add* to overthrow \add the Roman
 government\add*; 
 \v 19 and Judas Iscariot \f + \ft (OR, \add from the town of\add* Kerioth) \f*. He was the one who
-\add later\add* ◄betrayed Jesus/helped Jesus' enemies seize him►.
+\add later\add* ◄betrayed Jesus\f + \ft Or: helped \f* Jesus' enemies seize him►.
 \s MARK 3:20-30 
 \s Jesus explained why their claim that he was expelling evil spirits by Satan's power was ridiculous, and that such a claim
 was an unforgivable sin. 
@@ -70,7 +70,7 @@ staying\add in Capernaum. Again a crowd gathered where he was\add*. There were m
 his disciples had no time when they could eat or \add when they could do anything
 else\add*. 
 \v 21 After his relatives heard about this, they went to take him home
-\add with them\add* because ◄some people/they► were saying that he was insane.
+\add with them\add* because ◄some people\f + \ft Or: they \f*► were saying that he was insane.
 \p
 \v 22  \add Around that time\add* some men who taught the \add Jewish\add* laws came down from Jerusalem
 \add city. They heard that Jesus was expelling demons\add*. So they were telling
@@ -80,7 +80,7 @@ spirits \add from people\add*!”
 \add to enable them to realize that Satan would not oppose his own evil spirits. He also wanted them to realize that by
 expelling evil spirits, he was demonstrating that he was much more powerful than
 Satan\add*. So he said, “◄\add It is ridiculous\add* to suggest that Satan would expel his own
-\add evil spirits\add*!/Why would Satan expel his own \add evil spirits\add*?► \f + \fk rhetorical question \f*
+\add evil spirits\add*!\f + \ft Or: Why \f* would Satan expel his own \add evil spirits\add*?► \\f + \\ft rhetorical question \\f*
 \v 24 If \add people who live in the same\add* country are fighting one another, they will cease to be a single group under one
 ruler. 
 \v 25 And if \add people who live in the same\add* house fight each other, they will certainly not remain
@@ -103,12 +103,12 @@ Instead\add*, they were saying, “An evil spirit is controlling him!”
 \p
 \v 31 Jesus' mother and \add younger\add* siblings arrived. While they stood outside, they sent
 \add someone inside\add* in order to call him \add outside\add*.
-\v 32 A crowd was sitting around Jesus. One of them said to him, “Listen/Hey, your mother and your
-\add younger\add* brothers and sisters are outside, and they are wanting ◄to see/to talk with► you!”
+\v 32 A crowd was sitting around Jesus. One of them said to him, “Listen\f + \ft Or: Hey \f*, your mother and your
+\add younger\add* brothers and sisters are outside, and they are wanting ◄to see\f + \ft Or: to \f* talk with► you!”
 \v 33 Jesus replied to them, “◄\add I will tell you something about\add* my mother and my
-brothers.\add /Do you know whom I consider to be like\add* my mother and my brothers?►” \f + \fk rhetorical question \f*
+brothers.\add \f + \ft Or: Do \f* you know whom I consider to be like\add* my mother and my brothers?►” \\f + \\ft rhetorical question \\f*
 \v 34 After he looked around at \add the disciples\add* who were sitting around him
 \add in a circle\add*, he said, “Look here! I \add love these men as much
 as\add* I \add love\add* my mother and my brothers. 
 \v 35 Those who habitually do what God wants are \add as dear to
-me\add* \f + \fk metaphor \f* as my brother, my sister, or my mother!” 
+me\add* \\f + \\ft metaphor \\f* as my brother, my sister, or my mother!” 

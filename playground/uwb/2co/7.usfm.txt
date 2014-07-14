@@ -8,13 +8,13 @@ the kind of people that he wants us to be.
 \s 2 Corinthians 7:2-4 
 \s I love you all and I have great confidence in you. 
 \p
-\v 2 So, as I just wrote, I want you to love me \f + \ft (OR, us \f + \fk idiom \f* \add who are true apostles of
-Christ\add*). I/we\add (exc)\add* have never done anything wrong to any of you. I/we have not done anything to harm any one of
-you spiritually or financially. Nor have I/we tried to get money from
-\add you\add* ◄for myself/for ourselves►. 
+\v 2 So, as I just wrote, I want you to love me \f + \ft (OR, us \\f + \\ft idiom \\f* \add who are true apostles of
+Christ\add*). I\f + \ft Or: we \f*\add (exc)\add* have never done anything wrong to any of you. I\f + \ft Or: we \f* have not done anything to harm any one of
+you spiritually or financially. Nor have I\f + \ft Or: we \f* tried to get money from
+\add you\add* ◄for myself\f + \ft Or: for \f* ourselves►. 
 \v 3  \add It is true that some people among you have said that I have done such things.
 Nevertheless\add*, I am not trying to make you all feel ashamed because, as I wrote before, I will continue to love you all
-very much \f + \fk idiom \f*, whether I live with you or die with you. I am very confident about you.
+very much \\f + \\ft idiom \\f*, whether I live with you or die with you. I am very confident about you.
 \v 4 I am very pleased with you. You have greatly encouraged me, so that I am now very happy in spite of all the hardships that
 I have endured. 
 \s 2 Corinthians 7:5-16 
@@ -33,7 +33,7 @@ how\add* you had encouraged him, that encouraged me even more. He told me how mu
 me\add* that you are very eager for me \add to continue to serve as your apostle. When Titus told me those
 things\add*, I was very, very happy. 
 \p
-\v 8 Even though what \add I wrote\add* in my letter ◄distressed you/made you sad►, I am not sorry
+\v 8 Even though what \add I wrote\add* in my letter ◄distressed you\f + \ft Or: made \f* you sad►, I am not sorry
 \add that I wrote it\add*. For a while I was sorry that I had written it,
 \add because I knew that it would distress you\add*. Now \add Titus has also
 told\add* me that it did distress you \add when you read it\add*, but you were distressed only for a short time.
@@ -44,7 +44,7 @@ my making\add* you sorry did not harm you at all.
 \v 10  \add The fact is that\add* when God causes \add us to be\add* truly sorry for having sinned and we turn from our sinful
 behavior, then God saves us \add and will not punish us for the sinful things that we have
 done\add*. And no one is ever sorry about that. \add However\add*, the people who do not trust
-\add in God\add* \f + \fk metonymy \f* may be sorry \add for the sinful things that they have
+\add in God\add* \\f + \\ft metonymy \\f* may be sorry \add for the sinful things that they have
 done\add*. But \add if they do not turn from their sinful behavior and ask God to forgive
 them\add*, they will remain separated from him forever. 
 \v 11 But \add think about what happened when you read my letter\add*. God caused you to be truly sorry
@@ -61,9 +61,9 @@ as I told you to do. By doing\add* all of those things, you have shown
 \add I wrote it\add* so that, when you \add read the letter\add*, God would enable you to realize how much you really do
 respect \add my authority\add*. 
 \v 13 So, \add because you listened to me and did what I asked you to
-do\add*, ◄I was/we\add (exc)\add* were all► encouraged. Not only ◄was I/were we► encouraged, but ◄I
-was/we\add (exc) \f*\add* were► \add also\add* very happy to see how happy Titus was
-\add when he arrived here. He told me/us that\add* he did not need to worry anymore, because
+do\add*, ◄I was\f + \ft Or: we \f*\add (exc)\add* were all► encouraged. Not only ◄was I\f + \ft Or: were \f* we► encouraged, but ◄I
+was\f + \ft Or: we \f*\add (exc) \f*\add* were► \add also\add* very happy to see how happy Titus was
+\add when he arrived here. He told me\f + \ft Or: us \f* that\add* he did not need to worry anymore, because
 \add he saw\add* that you all \add had a good attitude toward me\add*.
 \v 14 I had told Titus that I was pleased about you. And I did not need to be ashamed
 \add for having boasted about you like that, because you did what I knew that you would

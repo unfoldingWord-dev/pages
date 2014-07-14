@@ -1,12 +1,12 @@
 \c 25  
 \s The seventh year 
 \p
-\v 1 Yahweh said to Moses/me on Sinai Mountain, 
+\v 1 Yahweh said to Moses\f + \ft Or: me \f* on Sinai Mountain, 
 \v 2 “Tell the Israelis \add that I, Yahweh, say this\add*: ‘When you enter the land that I am about to give you, every seventh
 year you must \add honor\add* me by \add not planting any seeds. It will be as though you
 are\add* allowing the ground to rest. 
 \v 3 For six years you are plant seeds in your fields and prune your grapevines and harvest the crops.
-\v 4 But the seventh/next year you must \add dedicate\add* to me, and allow your fields to rest. Do not plant seeds in your
+\v 4 But the seventh\f + \ft Or: next \f* year you must \add dedicate\add* to me, and allow your fields to rest. Do not plant seeds in your
 fields or prune your grapevines \add during that year\add*. 
 \v 5 Do not reap \add the grain\add* that grows in your fields without having been planted, or harvest the grapes that grow;
 you must allow the land to rest for that one year. 
@@ -16,15 +16,15 @@ to eat it.
 \v 7 Also, \add during that year\add* your livestock and the wild animals in you land are permitted to eat it.’ ”
 \s The fiftieth year 
 \p
-\v 8-9 “Also, after every forty-nine years has ended, you must do this: ◄on the tenth day of the seventh month/at the end of
-September►\add of the next/50th year\add*, blow trumpets throughout the country, to declare that it will be a day on which you
+\v 8-9 “Also, after every forty-nine years has ended, you must do this: ◄on the tenth day of the seventh month\f + \ft Or: at \f* the end of
+September►\add of the next\f + \ft Or: 50th \f* year\add*, blow trumpets throughout the country, to declare that it will be a day on which you
 request that I will forgive you for the sins that you have committed.
 \v 10 Set apart that year, and proclaim that throughout the country, it will be a year of freeing land and people: all the
 people \add who sold their property\add* will receive back the property that they previously owned, and slaves must be
-◄freed/allowed to return to \add their property and\add* their families►.
+◄freed\f + \ft Or: allowed \f* to return to \add their property and\add* their families►.
 \v 11 That year will be a Year of Celebration; \add during that year\add* do not plant anything, and do not harvest the
-grain/wheat that grows without having been planted, or the grapes that grow without the vines being pruned.
-\v 12 It will be a Year of Sacred Celebration, so eat \add only\add* what grows in the fields ◄by itself/without any work being
+grain\f + \ft Or: wheat \f* that grows without having been planted, or the grapes that grow without the vines being pruned.
+\v 12 It will be a Year of Sacred Celebration, so eat \add only\add* what grows in the fields ◄by itself\f + \ft Or: without \f* any work being
 done to produce anything►. 
 \p
 \v 13 In that Year of Celebration, everyone must return to their own property.
@@ -42,17 +42,17 @@ Celebration\add*.
 \v 17 Do not cheat each other; instead, revere me; I, Yahweh your God,
 \add am the one who am commanding this\add*. 
 \p
-\v 18 Obey all my laws \f + \fk doublet \f* carefully. If you do that, you will continue to live safely in your country \f + \fk doublet \f*.
+\v 18 Obey all my laws \\f + \\ft doublet \\f* carefully. If you do that, you will continue to live safely in your country \\f + \\ft doublet \\f*.
 \v 19 And crops will grow well on the land, and you will have plenty to eat.
 \v 20 But you may ask, ‘If we do not plant or harvest our crops during the seventh year, what will we have to eat?’
-\v 21  \add My answer is that\add* I will bless you very much during the sixth/previous year, with the result that during that
+\v 21  \add My answer is that\add* I will bless you very much during the sixth\f + \ft Or: previous \f* year, with the result that during that
 year there will be enough crops to provide food for you for three years!
-\v 22 Then, after you plant seed during the eighth/next year \add and wait for the crops to
-grow\add*, you will eat the food grown in the sixth/previous year, and continue to eat it until more food is harvested in the
+\v 22 Then, after you plant seed during the eighth\f + \ft Or: next \f* year \add and wait for the crops to
+grow\add*, you will eat the food grown in the sixth\f + \ft Or: previous \f* year, and continue to eat it until more food is harvested in the
 ninth year! 
 \p
 \v 23 You must not sell any of your land to belong to someone else permanently, because the land is
-\add not yours\add*; it is really mine, and you are only living on it temporarily and ◄farming/taking care of► it for me.
+\add not yours\add*; it is really mine, and you are only living on it temporarily and ◄farming\f + \ft Or: taking \f* care of► it for me.
 \v 24 Throughout the country that you will possess, you must remember that if someone sells some of his land to you, he is
 permitted to buy it back from you \add if he wants to\add*. 
 \p
@@ -79,11 +79,11 @@ time.
 \v 33 And because the houses in their towns are on land that \add was given to them
 by\add* other Israelis, that land will become theirs again in the Year of Celebration
 \add if they do not buy it back before then\add*. 
-\v 34 But the pastureland near their towns must not be sold. It must belong to the original owners permanently/forever.
+\v 34 But the pastureland near their towns must not be sold. It must belong to the original owners permanently\f + \ft Or: forever \f*.
 \p
 \v 35 If one of your fellow Israelis becomes poor and is unable to buy what he needs [IDI], others of you must help him like
-you would help a foreigner who is living among you \f + \fk doublet \f* temporarily.
-\v 36  \add If you lend money to him\add*, do not charge any kind of interest \f + \fk doublet \f*. Instead,
+you would help a foreigner who is living among you \\f + \\ft doublet \\f* temporarily.
+\v 36  \add If you lend money to him\add*, do not charge any kind of interest \\f + \\ft doublet \\f*. Instead,
 \add show by what you do that\add* you revere me, your God, and help that man, in order that he will be able to continue to
 live among you. 
 \v 37 If you lend him money, do not charge interest; and if you sell food to him,
@@ -95,7 +95,7 @@ of Canaan, \add and I did not charge you for doing that\add*.
 \v 40 Treat him like you treat workers that you hire or like someone who is living on your land temporarily. But he must work
 for you \add only\add* until the Year of Celebration. 
 \v 41 During that year, you must free him, and he will go back to his family and to the property that his ancestors owned.
-\v 42  \add It is as though\add* you Israelis are my slaves/servants, whom I
+\v 42  \add It is as though\add* you Israelis are my slaves\f + \ft Or: servants \f*, whom I
 \add freed from being slaves\add* in Egypt. So none of you should be sold to become slaves.
 \v 43 And do not treat the Israelis whom you buy cruelly; instead, revere me, your God.
 \p
@@ -105,8 +105,8 @@ in your country. Then you will own them.
 \v 46 They will be your slaves for the remaining years of your life, and after you die, it is permitted for your children to
 own them. But you must not act in brutal ways toward your fellow Israelis.
 \p
-\v 47 If a foreigner who is living among you \f + \fk doublet \f* becomes rich, and if one of your fellow Israelis becomes poor and sells
-himself to that foreigner or to a member of his clan/family, 
+\v 47 If a foreigner who is living among you \\f + \\ft doublet \\f* becomes rich, and if one of your fellow Israelis becomes poor and sells
+himself to that foreigner or to a member of his clan\f + \ft Or: family \f*, 
 \v 48 it is permitted for someone to pay for him to be freed. It is permitted for one of his relatives to pay for him to be
 released: 
 \v 49 an uncle or a cousin or another relative in his clan may pay for him to be released. Or, if he prospers
@@ -121,5 +121,5 @@ treat a hired worker, and all of you must make sure that his owner does not trea
 \p
 \v 54 And even if a fellow Israeli who has sold himself to a rich man is not able to pay for himself to be freed by any of
 these ways, he and his children must be freed in the Year of Celebration,
-\v 55 because \add it is as though\add* you Israelis are my slaves/servants, whom I, Yahweh your God, freed from
+\v 55 because \add it is as though\add* you Israelis are my slaves\f + \ft Or: servants \f*, whom I, Yahweh your God, freed from
 \add being slaves\add* in Egypt.” 

@@ -3,16 +3,16 @@
 \p
 \v 1  \add Later\add*, many of the men and their wives complained about what
 \add some of the other\add* Jews were doing. 
-\v 2 Some/One of them said, “We have many children. So we need a lot of grain to be able to eat and continue to live.”
+\v 2 Some\f + \ft Or: One \f* of them said, “We have many children. So we need a lot of grain to be able to eat and continue to live.”
 \p
-\v 3 Others said, “The fields and vineyards and houses that we own, it has been necessary for us to ◄mortgage them/promise to
+\v 3 Others said, “The fields and vineyards and houses that we own, it has been necessary for us to ◄mortgage them\f + \ft Or: promise \f* to
 give them to someone if we do not pay back to him the money he has loaned us► in order to get money to buy grain, during this
-◄famine/time where there is not much food►.” 
+◄famine\f + \ft Or: time \f* where there is not much food►.” 
 \p
 \v 4 Others said, “We have \add needed to\add* borrow money to pay the taxes that the king
 \add commanded us to pay\add* on our fields and our vineyards. 
 \v 5 We are Jews just like [IDI] the other Jews. Our children are
-◄\add just as good as/equal with►\add* their children. But we have needed to sell some of our children to become slaves
+◄\add just as good as\f + \ft Or: equal \f* with►\add* their children. But we have needed to sell some of our children to become slaves
 \add in order to pay what we owe\add*. We have already sold some of our daughters to become slaves. Our fields and vineyards
 have been taken away from us, so now we do not have \add the money to pay what we owe, and we are forced to sell our children
 to get money to pay those debts\add*.” 
@@ -26,7 +26,7 @@ relatives to sell themselves to you, their fellow Jews!” \add When I said that
 to\add* them, they were silent. There was nothing that they could say
 \add because they knew that what I said was true\add*. 
 \p
-\v 9 Then I said to them, “What you are doing is terrible \f + \fk euphemism \f*! You certainly ought to \f + \fk rhetorical question \f* obey God and do what is right! If
+\v 9 Then I said to them, “What you are doing is terrible \\f + \\ft euphemism \\f*! You certainly ought to \\f + \\ft rhetorical question \\f* obey God and do what is right! If
 you did that, our enemies who do not have an awesome respect for Yahweh
 \add would see that we are doing what is right and\add* would not ridicule us.
 \v 10 I and my fellow Jews and my servants have lent money and grain to people. But we all should stop charging interest on
@@ -39,16 +39,16 @@ taken from them. You must also give back to them the interest that you charged t
 and we will not require that they give us anything more.” 
 \p Then I summoned the priests, and I forced the leaders to solemnly promise in front of them that they would do what they had
 promised to do. 
-\v 13 I shook out the folds of my robe and said to them, “If you do not do what you have just now promised to do, I hope/desire
+\v 13 I shook out the folds of my robe and said to them, “If you do not do what you have just now promised to do, I hope\f + \ft Or: desire \f*
 that God will shake you like I am shaking my robe. He will separate you from your homes and from everything that you own.”
-\p They all replied, “Amen/May it be so!” And they praised Yahweh. Then they did what they had promised to do.
+\p They all replied, “Amen\f + \ft Or: May \f* it be so!” And they praised Yahweh. Then they did what they had promised to do.
 \p
 \v 14 I was appointed to be the governor of Judea in the twentieth year that Artaxerxes was the king
 \add of Persia\add*. From that time until the thirty-second year, during those twelve years neither I nor my officials accepted
-\add the money that we were\add* allowed/entitled to receive to buy food because of my being the governor.
+\add the money that we were\add* allowed\f + \ft Or: entitled \f* to receive to buy food because of my being the governor.
 \v 15 The men who were governors before I became the governor had burdened the people by requiring them to pay a lot of taxes.
 They had forced each person to pay to them 40 silver coins every day, in addition to giving food and wine to them. Even their
-servants/officials oppressed the people. But I did not do that, because I had an awesome respect for God.
+servants\f + \ft Or: officials \f* oppressed the people. But I did not do that, because I had an awesome respect for God.
 \p
 \v 16 I also continued to work on the wall, and I did not take land from people
 \add who were unable to pay back the money that they had borrowed from
@@ -58,7 +58,7 @@ me\add*. All those who worked for me joined me to work on the wall.
 \v 18 Each day I \add told my servants to\add* serve \add us the meat
 from\add* one ox, six very good sheep, and chickens. And every ten days I gave them a large new supply of wine. But I knew that
 the people were burdened \add by paying lots of taxes\add*, so I did not accept
-\add the money that I was entitled/allowed to receive to buy all this food because of my
+\add the money that I was entitled\f + \ft Or: allowed \f* to receive to buy all this food because of my
 being\add* the governor. 
 \p
 \v 19 My God, do not forget me, and reward me because of all that I have done for these people.

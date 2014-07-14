@@ -1,11 +1,11 @@
 \c 5  
 \s Esther invited Haman and the king to a banquet 
 \p
-\v 1 Three days later, Esther \add prepared a big banquet/feast\add*. Then she put on the robes that showed that she was queen,
+\v 1 Three days later, Esther \add prepared a big banquet\f + \ft Or: feast \f*\add*. Then she put on the robes that showed that she was queen,
 and she went to the inner courtyard of the palace, across from the room where the king was. He was sitting on the throne,
 facing the entrance \add of the room\add*. 
-\v 2 When the king saw Esther standing there in the courtyard, he extended the gold scepter/staff toward her
-\add to signal that\add* he would be glad to talk to her. So Esther came close and touched the tip of the scepter/staff.
+\v 2 When the king saw Esther standing there in the courtyard, he extended the gold scepter\f + \ft Or: staff \f* toward her
+\add to signal that\add* he would be glad to talk to her. So Esther came close and touched the tip of the scepter\f + \ft Or: staff \f*.
 \v 3 Then the king asked her, “Esther, what do you want? Tell me, and I will give you what you want, even if you ask me to give
 you half of my kingdom!” 
 \v 4 Esther replied, “\add Your majesty\add*, if it pleases you, you and Haman come to the banquet that I have prepared for
@@ -25,13 +25,13 @@ majesty\add*, if you are pleased with me, and if you are willing to give me what
 did not stand up and tremble fearfully in front of Haman, so Haman became extremely angry.
 \v 10 However, he did not show that he was angry; he just went home. Then he gathered together his wife Zeresh and his friends,
 \v 11 and he boasted to them about being very rich, and about having many children. He also boasted that the king had greatly
-honored him, and that the king had ◄promoted him/given him the second-most important job in the empire►, so that all the other
+honored him, and that the king had ◄promoted him\f + \ft Or: given \f* him the second-most important job in the empire►, so that all the other
 officials had to respect him. 
 \v 12 Then Haman added, “And that is not all! Queen Esther invited just two of us, me and the king, to a banquet she prepared
 for us today. And she is inviting just the two of us to another banquet that she will prepare tomorrow!”
-\v 13 Then Haman said, “But those things ◄mean nothing to me/do not make me happy► while I keep seeing that Jew, Mordecai, just
+\v 13 Then Haman said, “But those things ◄mean nothing to me\f + \ft Or: do \f* not make me happy► while I keep seeing that Jew, Mordecai, just
 sitting there at the gate of the palace \add and ignoring me\add*!”
 \v 14 So Haman's wife Zeresh and all his friends \add who were there\add* suggested,
-“\add Why don't you quickly\add* set up ◄a gallows/posts on which to hang someone►. Make it 75 feet tall. Then tomorrow morning
+“\add Why don't you quickly\add* set up ◄a gallows\f + \ft Or: posts \f* on which to hang someone►. Make it 75 feet tall. Then tomorrow morning
 ask the king to hang Mordecai on it. After that, you can go to the banquet with the king and be cheerful.” That idea pleased
-Haman \add very much\add*, so he gave men orders to set up the gallows/posts.
+Haman \add very much\add*, so he gave men orders to set up the gallows\f + \ft Or: posts \f*.

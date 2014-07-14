@@ -1,33 +1,33 @@
 \c 20  
 \s Water flowed from a rock 
 \p
-\v 1 In March/April \add of the next year\add*, the Israeli people traveled/walked to the Zin Desert and ◄camped/set up their
-tents► near Kadesh \add town\add*. While they/we were there, \add Moses'/my older
+\v 1 In March\f + \ft Or: April \f* \add of the next year\add*, the Israeli people traveled\f + \ft Or: walked \f* to the Zin Desert and ◄camped\f + \ft Or: set \f* up their
+tents► near Kadesh \add town\add*. While they\f + \ft Or: we \f* were there, \add Moses'\f + \ft Or: my \f* older
 sister\add* Miriam died and was buried there. 
 \p
-\v 2 There was no water for the people to drink there, so they came to Aaron and Moses/me.
+\v 2 There was no water for the people to drink there, so they came to Aaron and Moses\f + \ft Or: me \f*.
 \v 3 They complained and said, “We wish that we had died in front of Yahweh's Sacred Tent when our fellow Israelis died!
-\v 4 ◄Did you bring us, who are Yahweh's people, into this desert to die along with our livestock?/You brought us, who are
-Yahweh's people, into this desert to die along with our livestock!► \f + \fk rhetorical question \f*
-\v 5 Why did you bring us from Egypt to this miserable place \f + \fk rhetorical question \f*? There is no grain, there are no figs, no grapes, and no
+\v 4 ◄Did you bring us, who are Yahweh's people, into this desert to die along with our livestock?\f + \ft Or: You \f* brought us, who are
+Yahweh's people, into this desert to die along with our livestock!► \\f + \\ft rhetorical question \\f*
+\v 5 Why did you bring us from Egypt to this miserable place \\f + \\ft rhetorical question \\f*? There is no grain, there are no figs, no grapes, and no
 pomegranates here. And there is no water for us to drink!” 
 \p
-\v 6 Aaron and Moses/I turned away from the people and went to the entrance of the Sacred Tent and prostrated
-themselves/ourselves on the ground. Then Yahweh appeared to them/us with his bright glory,
-\v 7 and he said to Moses/me, 
+\v 6 Aaron and Moses\f + \ft Or: I \f* turned away from the people and went to the entrance of the Sacred Tent and prostrated
+themselves\f + \ft Or: ourselves \f* on the ground. Then Yahweh appeared to them\f + \ft Or: us \f* with his bright glory,
+\v 7 and he said to Moses\f + \ft Or: me \f*, 
 \v 8 “You and Aaron must take Aaron's walking stick with you and gather all the people together. While the people are watching,
 command that \add large\add* rock over there to pour out water. Water for the people will flow from it; all they and all their
 livestock will have enough water to drink.” 
 \p
-\v 9 So Moses/I did what Yahweh told him/me to do. He/I took Aaron's walking stick from the place in the Sacred Tent where it
+\v 9 So Moses\f + \ft Or: I \f* did what Yahweh told him\f + \ft Or: me \f* to do. He\f + \ft Or: I \f* took Aaron's walking stick from the place in the Sacred Tent where it
 was kept. 
-\v 10 Then Aaron and he/I summoned all the people to gather at the rock. Then Moses/I shouted to them, “All you rebellious
+\v 10 Then Aaron and he\f + \ft Or: I \f* summoned all the people to gather at the rock. Then Moses\f + \ft Or: I \f* shouted to them, “All you rebellious
 people, listen! Is it necessary for us to bring to you water from this rock?”
-\v 11 Then Moses/I raised his/my hand and \add instead of speaking to the
-rock\add*, he/I struck the rock two times with the walking stick. And water gushed/poured out. So all the people and their
+\v 11 Then Moses\f + \ft Or: I \f* raised his\f + \ft Or: my \f* hand and \add instead of speaking to the
+rock\add*, he\f + \ft Or: I \f* struck the rock two times with the walking stick. And water gushed\f + \ft Or: poured \f* out. So all the people and their
 livestock drank all the water that they wanted. 
 \p
-\v 12 But Yahweh said to Aaron and Moses/me, “You did not believe that I could demonstrate my power to the Israeli people
+\v 12 But Yahweh said to Aaron and Moses\f + \ft Or: me \f*, “You did not believe that I could demonstrate my power to the Israeli people
 \add and give them water without your striking the rock\add*. So you will not lead them into the land that I am giving to
 them!” 
 \p
@@ -35,8 +35,8 @@ them!”
 Yahweh, and there he showed his power to them \add by giving them\add* water.
 \s The king of Edom refused to allow the Israelis to travel through his country
 \p
-\v 14  \add While the people were\add* at Kadesh \add town\add*, Moses/I sent messengers to the king of Edom to tell him this:
-\pi “Your relatives, the Israeli people, are sending you this message. You know the many troubles/hardships that have happened
+\v 14  \add While the people were\add* at Kadesh \add town\add*, Moses\f + \ft Or: I \f* sent messengers to the king of Edom to tell him this:
+\pi “Your relatives, the Israeli people, are sending you this message. You know the many troubles\f + \ft Or: hardships \f* that have happened
 to us. 
 \v 15 You know that our ancestors went down to Egypt. You know that they stayed there for many years. They suffered because the
 \add rulers of\add* Egypt caused them to become their slaves \add and to work very
@@ -66,16 +66,16 @@ want only to travel through your country. We do not want anything else.”
 \s Aaron died 
 \p
 \v 22 The Israeli people left Kadesh. They went to Hor Mountain,
-\v 23 which is at the border of Edom. While they were there, Yahweh said to Aaron and Moses/me,
-\v 24 “It is time for Aaron to die \f + \fk euphemism \f*. He will not enter the land that I am giving to you Israelis, because the two of you
+\v 23 which is at the border of Edom. While they were there, Yahweh said to Aaron and Moses\f + \ft Or: me \f*,
+\v 24 “It is time for Aaron to die \\f + \\ft euphemism \\f*. He will not enter the land that I am giving to you Israelis, because the two of you
 disobeyed me \add when I told you to speak to the rock to cause\add* the water
 \add to flow\add* at Meribah. 
 \v 25 Now you, Moses, take Aaron and his son Eleazar up on Hor Mountain.
 \v 26 There you must remove Aaron's clothes \add that he wears when he does the works of a
 priest\add*, and put them on his son, Eleazar. Aaron will die up there.”
 \p
-\v 27 So Moses/I did what Yahweh commanded. The three of them/us climbed up Hor Mountain, while all the Israeli people watched.
-\v 28 At the top of the mountain, Moses/I took off the clothes that Aaron wore
+\v 27 So Moses\f + \ft Or: I \f* did what Yahweh commanded. The three of them\f + \ft Or: us \f* climbed up Hor Mountain, while all the Israeli people watched.
+\v 28 At the top of the mountain, Moses\f + \ft Or: I \f* took off the clothes that Aaron wore
 \add while he did the work of a priest\add* and put them on Eleazar. Then Aaron died there on the top of the mountain, and
-Eleazar and Moses/I went back down. 
+Eleazar and Moses\f + \ft Or: I \f* went back down. 
 \v 29 When the Israeli people realized that Aaron had died, they all mourned for him for thirty days.

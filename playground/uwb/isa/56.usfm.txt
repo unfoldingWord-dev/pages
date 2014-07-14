@@ -3,12 +3,12 @@
 \p
 \v 1 Yahweh says \add to all the people of Judah\add*, 
 \q “Do the things that are fair and just, 
-\q2 because I will soon come to rescue \f + \fk doublet \f* you. 
+\q2 because I will soon come to rescue \\f + \\ft doublet \\f* you. 
 \q
-\v 2 I will bless those who faithfully obey my laws about the Sabbath/rest days.
-\q I will bless those who ◄keep sacred/honor► my Sabbath/rest days,
+\v 2 I will bless those who faithfully obey my laws about the Sabbath\f + \ft Or: rest \f* days.
+\q I will bless those who ◄keep sacred\f + \ft Or: honor \f*► my Sabbath\f + \ft Or: rest \f* days,
 \q2 and who do not do any work on those days, 
-\q2 and who refrain from \f + \fk metonymy \f* doing anything that is evil. 
+\q2 and who refrain from \\f + \\ft metonymy \\f* doing anything that is evil. 
 \b
 \q
 \v 3 And foreigners who have believed in me should not say, 
@@ -16,7 +16,7 @@
 \q And eunuchs should not say, 
 \q2 ‘\add Because I am unable to have children I cannot belong to
 Yahweh\add*; 
-\q2 I am like \f + \fk metaphor \f* a tree that has completely withered.’ 
+\q2 I am like \\f + \\ft metaphor \\f* a tree that has completely withered.’ 
 \q
 \v 4 They should not say that, because I, Yahweh, say this to the eunuchs
 \q2 who obey my laws about the Sabbath, 
@@ -24,12 +24,12 @@ Yahweh\add*;
 \q2 and who obey all \add the other laws of\add* the agreement that I
 \add made with the Israeli people\add*: 
 \q
-\v 5 I will cause to be put inside the walls of my temple a monument \f + \fk doublet \f* to them;
+\v 5 I will cause to be put inside the walls of my temple a monument \\f + \\ft doublet \\f* to them;
 \q2 because of that monument, they will be honored more than they would have if they had children;
 \q they will be honored forever. 
 \q
 \v 6 I will also bless those who are not Israelis, 
-\q2 who ◄join themselves to/believe in► me, 
+\q2 who ◄join themselves to\f + \ft Or: believe \f* in► me, 
 \q and who serve me and worship and love me, 
 \q2 and who obey my laws about the Sabbath, 
 \q and who faithfully obey all \add the other laws of\add* the agreement that I
@@ -42,18 +42,18 @@ altar\add* and other sacrifices that they offer.
 \q2 I will do those things for them because I want my temple to be a building where people of
 \bd all\bd* nations pray to me. 
 \q
-\v 8 I, Yahweh, the Lord, the one who will bring back the people of Israel who have been ◄forced to go/exiled► to other
+\v 8 I, Yahweh, the Lord, the one who will bring back the people of Israel who have been ◄forced to go\f + \ft Or: exiled \f*► to other
 countries, say this: 
 \q I will bring \add from other countries\add* many more people to join those Israelis whom I have brought back.”
 \s God promised to punish the Israeli leaders 
 \q
-\v 9 “You \add surrounding nations have armies that are like\add* \f + \fk metaphor \f* animals in the forest;
-\q2 come and attack/destroy \add Israel\add*! 
+\v 9 “You \add surrounding nations have armies that are like\add* \\f + \\ft metaphor \\f* animals in the forest;
+\q2 come and attack\f + \ft Or: destroy \f* \add Israel\add*! 
 \q
 \v 10 The Israeli leaders \add should be like\add* watchdogs to protect the people,
 \q2 but \add it is as though\add* they are blind. 
 \q They are stupid. 
-\q2 They are all like \f + \fk metaphor \f* dogs that cannot bark. 
+\q2 They are all like \\f + \\ft metaphor \\f* dogs that cannot bark. 
 \q \add Good watchdogs bark when strangers approach\add*, 
 \q2 \add but the Israeli leaders do not warn the people that their enemies are
 coming\add*. 
@@ -66,6 +66,6 @@ coming\add*.
 \q2 but they are ignorant, 
 \q2 and they each do whatever they want to do. 
 \q
-\v 12 They say to each other, ‘Come, let's go and get some wine and other alcoholic/strong drinks,
+\v 12 They say to each other, ‘Come, let's go and get some wine and other alcoholic\f + \ft Or: strong \f* drinks,
 \q2 and let's become drunk! 
 \q And tomorrow we will enjoy drinking even more!’ ” 

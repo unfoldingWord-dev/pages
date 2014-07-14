@@ -1,10 +1,10 @@
 \c 11  
 \s Food that is acceptable to God and food that is not 
 \p
-\v 1 Yahweh said to Aaron and Moses/me, 
+\v 1 Yahweh said to Aaron and Moses\f + \ft Or: me \f*, 
 \v 2 “Tell the Israeli people that \add this is what Yahweh says\add*: ‘From all the animals that live on the land, these are
 the ones that you are permitted to eat: 
-\v 3 The ones that have hooves that are completely split, and those that ◄chew their cuds/bring their food up from their
+\v 3 The ones that have hooves that are completely split, and those that ◄chew their cuds\f + \ft Or: bring \f* their food up from their
 stomachs to chew it again►. 
 \p
 \v 4 There are some animals that chew their cuds but do not have split hooves, and some animals that have split hooves but do
@@ -21,14 +21,14 @@ example\add*, camels chew their cuds but do not have split hooves; so they are u
 \v 12 You must detest everything that lives in the water that does not have fins and scales.
 \p
 \v 13 There are some birds that you must detest \add and not eat\add*. They include eagles, vultures, black vultures,
-\v 14 kites, any kind of falcon/buzzard, 
+\v 14 kites, any kind of falcon\f + \ft Or: buzzard \f*, 
 \v 15 any kind of raven, 
 \v 16 horned owls, screech owls, seagulls, any kind of hawk, 
 \v 17 small owls, cormorants, large owls, 
 \v 18 white owls, desert owls, vultures that eat dead animals, 
 \v 19 storks, any kind of heron, hoopoes, and bats 
 \p
-\v 20 You must detest \add and not eat\add* flying insects that \add sometimes\add* walk on the ground \f + \fk metonymy \f*.
+\v 20 You must detest \add and not eat\add* flying insects that \add sometimes\add* walk on the ground \\f + \\ft metonymy \\f*.
 \v 21 But you are permitted to eat creatures with wings that sometimes walk on the ground if they have jointed legs for hopping
 around. 
 \v 22 They include locusts, crickets, and grasshoppers. 
@@ -39,22 +39,22 @@ people until that evening.
 \v 25 Anyone who picks up one of their carcasses must wash his clothes and not touch other people until that evening.
 \p
 \v 26 You must not touch the carcasses of animals that have hooves that are not completely divided or animals that do not chew
-their cuds. Anyone who touches the carcasses of any of those animals becomes ◄defiled/unacceptable to me►.
+their cuds. Anyone who touches the carcasses of any of those animals becomes ◄defiled\f + \ft Or: unacceptable \f* to me►.
 \v 27 From all the animals that walk on the ground, you must not touch the carcasses of those that have paws to walk on. Anyone
 who touches one of their carcasses must not touch other people until that evening.
 \v 28 Anyone who picks up one of their carcasses must wash his clothes and not touch other people until that evening, because
-their carcasses ◄defile you/cause you to become unacceptable to me►.
+their carcasses ◄defile you\f + \ft Or: cause \f* you to become unacceptable to me►.
 \p
 \v 29 From all the animals that walk on the ground, these are the ones that defile you: moles, rats, any kind of lizard,
 \v 30 geckos, skinks, and chameleons. 
-\v 31 Those creatures that crawl along the ground ◄defile you/cause you to become unacceptable to me►; anyone who touches one
+\v 31 Those creatures that crawl along the ground ◄defile you\f + \ft Or: cause \f* you to become unacceptable to me►; anyone who touches one
 of their carcasses must not touch other people until the evening.
 \v 32 When one of those creatures dies and falls on something, the thing that it falls on, whatever it is used for, will become
-◄defiled/unacceptable to me►, whether it is made of wood or cloth or the hide of some animal or from rough cloth. You must put
+◄defiled\f + \ft Or: unacceptable \f* to me►, whether it is made of wood or cloth or the hide of some animal or from rough cloth. You must put
 it in water. Then you must not use it until that evening. 
 \v 33 If one of them falls into a clay pot, everything in it becomes defiled, and you must break that pot.
 \v 34 If you pour water from that pot on any food, you must not eat that food. And you must not drink any water from that pot.
-\v 35 Anything that one of the carcasses of those creatures falls on becomes ◄defiled/unacceptable to me►; even if it falls on
+\v 35 Anything that one of the carcasses of those creatures falls on becomes ◄defiled\f + \ft Or: unacceptable \f* to me►; even if it falls on
 an oven or a cooking pot, anything that it falls on must be broken. It becomes defiled and you must not use it again.
 \v 36 If one of their carcasses falls into a spring or a pit for storing water, the water may still be drunk, but anyone who
 touches one of those carcasses becomes defiled. 
@@ -67,8 +67,8 @@ people until that evening.
 \p
 \v 41-42 All creatures that crawl along the ground, including those that move on their bellies and those that crawl along, are
 detestable, and they must not be eaten. 
-\v 43 Do not ◄defile yourselves/cause yourselves to become unacceptable to me► by
-\add eating\add* any of those creatures \f + \fk doublet \f*. 
+\v 43 Do not ◄defile yourselves\f + \ft Or: cause \f* yourselves to become unacceptable to me► by
+\add eating\add* any of those creatures \\f + \\ft doublet \\f*. 
 \v 44 I am Yahweh your God, and I am holy, so you must avoid eating things that are defiled. Do not cause yourselves to become
 unacceptable to me by eating creatures that crawl along on the ground.
 \v 45 I am Yahweh, their one who \add freed you from being slaves\add* in Egypt, in order to be your God. Therefore, because I

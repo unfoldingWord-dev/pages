@@ -1,16 +1,16 @@
 \c 23  
 \s God will punish the evil leaders 
 \p
-\v 1 Yahweh declares, “Terrible things will happen to the leaders \f + \fk metaphor \f* of my people—those who are like shepherds of the people
+\v 1 Yahweh declares, “Terrible things will happen to the leaders \\f + \\ft metaphor \\f* of my people—those who are like shepherds of the people
 who are like my sheep—because they have scattered my people and sent them away, and have not taken care of them.
 \v 2 So, this is what I, Yahweh, the God whom the Israeli people
 \add worship\add*, say to those leaders: ‘Instead of taking care of my people and
 \add leading them to places where they are safe like a shepherd does
 for\add* his sheep, you have scattered them. So I will punish you for the evil things that you have done.
 \v 3 But later I will gather those who are still alive, from the countries where I have forced them to go. I will bring them
-back to their own country, where they will have many children, and their number/population will increase.
+back to their own country, where they will have many children, and their number\f + \ft Or: population \f* will increase.
 \v 4 Then I will appoint other leaders for my people, leaders who will take care of them. And my people will never be afraid
-\f + \fk doublet \f* of anything again, and none of them will be like a lost \add sheep\add*.’ ”
+\\f + \\ft doublet \\f* of anything again, and none of them will be like a lost \add sheep\add*.’ ”
 \p
 \v 5 Yahweh also says, 
 \q “Some day I will appoint for you a righteous man 
@@ -18,11 +18,11 @@ back to their own country, where they will have many children, and their number/
 \q He will be a king who rules wisely. 
 \q2 He will do what is just and right throughout the land. 
 \q
-\v 6 At that time, all the Israeli people \f + \fk doublet \f* will be saved \add from their
+\v 6 At that time, all the Israeli people \\f + \\ft doublet \\f* will be saved \add from their
 enemies\add*, 
 \q2 and they will be safe. 
 \q And his name will be 
-\q2 'Yahweh, the one who vindicates/defends us.' ” 
+\q2 'Yahweh, the one who vindicates\f + \ft Or: defends \f* us.' ” 
 \p
 \v 7 Yahweh also says that at that time, people who are solemnly promising to do something will no longer say,
 “\add I will do it\add* as surely as Yahweh lives, who rescued the Israeli people from Egypt.”
@@ -31,7 +31,7 @@ land, from the land to the northeast and from all the other countries to which h
 own land again. 
 \s The false prophets will be punished 
 \p
-\v 9 I am very sad/shocked [IDI] because of the sacred message that Yahweh has spoken about
+\v 9 I am very sad\f + \ft Or: shocked \f* [IDI] because of the sacred message that Yahweh has spoken about
 \add what will happen to\add* of the false prophets; 
 \q \add it is as though\add* all my bones shake. 
 \q I stagger like a man who is drunk 
@@ -41,7 +41,7 @@ own land again.
 \q2 and \add Yahweh\add* has cursed the land. 
 \q Even the pastures in the desert are all dried up, 
 \q2 because the people do what is evil, 
-\q2 and the false prophets use their power to do things that are not just/fair.
+\q2 and the false prophets use their power to do things that are not just\f + \ft Or: fair \f*.
 \b
 \q
 \v 11 Yahweh says, “Even the priests and the prophets are ungodly;
@@ -76,8 +76,8 @@ do\add* wicked deeds.”
 \p
 \v 16 This is what the Almighty Commander of the armies of angels says:
 \q “Do not pay any attention to what those \add false\add* prophets say to you,
-\q2 because they are just fooling/deceiving you. 
-\q They tell you about visions that they have only thought/created in their own minds,
+\q2 because they are just fooling\f + \ft Or: deceiving \f* you. 
+\q They tell you about visions that they have only thought\f + \ft Or: created \f* in their own minds,
 \q2 not about visions that I have given them. 
 \q
 \v 17 They habitually say to those who hate me, 
@@ -86,9 +86,9 @@ do\add* wicked deeds.”
 \q2 ‘Nothing bad will happen to you \add because of your doing those
 things\add*.’ 
 \q
-\v 18 But none of them \f + \fk rhetorical question \f* has ever been in a council meeting in heaven
+\v 18 But none of them \\f + \\ft rhetorical question \\f* has ever been in a council meeting in heaven
 \q2 in order to listen to a message from me. 
-\q2 None of them has paid attention to \f + \fk doublet \f* anything that I, Yahweh, have said.
+\q2 None of them has paid attention to \\f + \\ft doublet \\f* anything that I, Yahweh, have said.
 \q
 \v 19 So, listen to this: I will punish them; it will be like a great storm;
 \q2 it will come down like a whirlwind, swirling around the heads of those wicked people.
@@ -98,17 +98,17 @@ things\add*.’
 \q2 In the future, you will understand all of this clearly.” 
 \b
 \q
-\v 21  \add Yahweh also says\add*, “I have not appointed \f + \fk metonymy \f* those prophets,
+\v 21  \add Yahweh also says\add*, “I have not appointed \\f + \\ft metonymy \\f* those prophets,
 \q2 but they run around telling people their messages. 
 \q I did not speak to them, 
 \q2 but they continue to prophesy. 
 \q
 \v 22 If they had been in my council meetings, 
 \q2 they would have been able to speak messages from me, 
-\q and they would have caused people to turn away from committing evil deeds. \f + \fk doublet \f*”
+\q and they would have caused people to turn away from committing evil deeds. \\f + \\ft doublet \\f*”
 \b
 \q
-\v 23 Yahweh also says, “Am I a God who is only nearby \f + \fk rhetorical question \f*? 
+\v 23 Yahweh also says, “Am I a God who is only nearby \\f + \\ft rhetorical question \\f*? 
 \q2 No, I am a God who is far away, also. 
 \q
 \v 24 So, no one can hide in some secret place 
@@ -116,23 +116,23 @@ things\add*.’
 \q2 I am everywhere, in heaven and on the earth! 
 \q That is what I, Yahweh, say! 
 \p
-\v 25 I have heard those prophets prophesy lies, saying that they are telling people messages from me \f + \fk metonymy \f*. They say,
+\v 25 I have heard those prophets prophesy lies, saying that they are telling people messages from me \\f + \\ft metonymy \\f*. They say,
 ‘\add Listen to me tell you\add* the dream I received \add from God last
 night\add*! I really had this dream!’ 
 \v 26 How long will they continue to do this? How long will those lying prophets continue to prophesy things that come only
 from their own minds? 
-\v 27 They think that because of the dreams that they tell to each other, people will forget me \f + \fk metonymy \f*, like their ancestors
+\v 27 They think that because of the dreams that they tell to each other, people will forget me \\f + \\ft metonymy \\f*, like their ancestors
 forgot about me when they started to worship Baal. 
 \v 28 Allow those false prophets to tell people their dreams, but those who have messages that really come from me should
 proclaim those messages faithfully. I, Yahweh, say \add that like\add* straw and grain are certainly very different,
 \add my messages and the message from those false prophets are certainly very
-different\add* \f + \fk rhetorical question \f*. 
-\v 29  \add It is as though\add* my messages \add burn\add* like a fire \f + \fk metaphor \f*; they
-\add strike people's inner beings like\add* someone strikes a rock with a hammer \f + \fk metaphor \f* and smashes it into pieces.
+different\add* \\f + \\ft rhetorical question \\f*. 
+\v 29  \add It is as though\add* my messages \add burn\add* like a fire \\f + \\ft metaphor \\f*; they
+\add strike people's inner beings like\add* someone strikes a rock with a hammer \\f + \\ft metaphor \\f* and smashes it into pieces.
 \p
 \v 30 Therefore, I, Yahweh say, I oppose all those prophets who steal messages from each other and claim that those messages
 came from me. 
-\v 31 I oppose those prophets who speak \f + \fk metonymy \f* their own messages but claim that those messages came from me.
+\v 31 I oppose those prophets who speak \\f + \\ft metonymy \\f* their own messages but claim that those messages came from me.
 \v 32 I oppose those prophets who falsely say that I told them something in a vision, but they are only telling lies that cause
 my people to sin. I did not send those prophets. I did not even appoint them to be prophets. And they have no messages that
 will benefit my people at all. \add That is what I\add*, Yahweh, declare.”
@@ -144,14 +144,14 @@ Yahweh told you about now?’, you must reply, ‘You are the problem! And Yahwe
 his family. 
 \v 35 What you should continually ask each other is, ‘\add When you spoke to
 Yahweh\add*, what did he reply? What is he saying to us?’ 
-\v 36 But stop saying ‘I have a prophecy/message from Yahweh,’ because those who say that are doing it only because they want
-people to accept their ideas, and by doing that they distort/change the messages that are from our God, the Almighty Commander
+\v 36 But stop saying ‘I have a prophecy\f + \ft Or: message \f* from Yahweh,’ because those who say that are doing it only because they want
+people to accept their ideas, and by doing that they distort\f + \ft Or: change \f* the messages that are from our God, the Almighty Commander
 of the armies of angels. 
 \v 37 This is what you should ask each prophet: ‘What did Yahweh reply
 \add when you talked to him\add*? What is he saying to us?’ 
-\v 38 If he replies, ‘\add What I told you\add* is a prophecy/message from Yahweh,’ you should say to him, ‘You have continued
-to say, “I received a prophecy/message from Yahweh” even though I told you to not claim that you have received
-prophecies/messages from Yahweh.’ 
+\v 38 If he replies, ‘\add What I told you\add* is a prophecy\f + \ft Or: message \f* from Yahweh,’ you should say to him, ‘You have continued
+to say, “I received a prophecy\f + \ft Or: message \f* from Yahweh” even though I told you to not claim that you have received
+prophecies\f + \ft Or: messages \f* from Yahweh.’ 
 \v 39 So I, Yahweh, will get rid of you \add false prophets\add*. I will expel you from my presence. And I will get rid of this
 city that I gave to you and to your ancestors. 
 \v 40 I will cause people to make fun of you forever. People will never forget that you were disgraced.”

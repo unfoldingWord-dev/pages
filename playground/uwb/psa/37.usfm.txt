@@ -1,8 +1,8 @@
 \c 37  
 \s A psalm written by David 
 \q
-\v 1 Do not be bothered/upset by what wicked people do. 
-\q2 Do not desire to have the things that people who do wrong/evil things have,
+\v 1 Do not be bothered\f + \ft Or: upset \f* by what wicked people do. 
+\q2 Do not desire to have the things that people who do wrong\f + \ft Or: evil \f* things have,
 \q
 \v 2 because they will soon disappear, like grass withers \add in the hot
 sun\add* and dries up. 
@@ -14,7 +14,7 @@ summer\add*,
 \v 3 Trust in Yahweh, and do what is good; 
 \q2 if you do that, you will live safely in the land \add that he has given
 you\add*, 
-\q2 and you will live peacefully \f + \fk metaphor \f*. 
+\q2 and you will live peacefully \\f + \\ft metaphor \\f*. 
 \q
 \v 4 Be delighted with all that Yahweh \add does for you\add*; 
 \q2 if you do that, he will give you the things that you desire most.
@@ -24,14 +24,14 @@ you\add*,
 \q2 trust in him, 
 \q2 and he will do \add whatever is needed to help you\add*. 
 \q
-\v 6 He will show as clearly as the sunlight that you ◄are innocent/have done nothing that is wrong►;
-\q2 he will show \add as clearly\add* as \add the sun at\add* noontime \f + \fk simile \f*
+\v 6 He will show as clearly as the sunlight that you ◄are innocent\f + \ft Or: have \f* done nothing that is wrong►;
+\q2 he will show \add as clearly\add* as \add the sun at\add* noontime \\f + \\ft simile \\f*
 \q2 that all the things that you have decided are just. 
 \b
 \q
 \v 7 Be quiet in Yahweh's presence, and wait patiently for him \add to do what you want him to
 do\add*. 
-\q2 Do not be bothered/upset when what evil men do is successful,
+\q2 Do not be bothered\f + \ft Or: upset \f* when what evil men do is successful,
 \q2 when they are able to do the wicked things that they plan. 
 \q
 \v 8 Do not be angry \add about what wicked people do\add*. 
@@ -52,27 +52,27 @@ do\add*.
 \add that Yahweh gives them\add*. 
 \b
 \q
-\v 12 Wicked people plan to harm righteous/godly people; 
-\q2 they snarl at them \f + \fk metaphor \f* like wild animals. 
+\v 12 Wicked people plan to harm righteous\f + \ft Or: godly \f* people; 
+\q2 they snarl at them \\f + \\ft metaphor \\f* like wild animals. 
 \q
 \v 13 But Yahweh laughs \add at them\add* 
-\q2 because he knows that some day \f + \fk metonymy \f* \add he will judge and punish\add* the wicked people.
+\q2 because he knows that some day \\f + \\ft metonymy \\f* \add he will judge and punish\add* the wicked people.
 \b
 \q
-\v 14 Wicked people pull out their swords/daggers 
+\v 14 Wicked people pull out their swords\f + \ft Or: daggers \f* 
 \q2 and they put strings on their bows, 
-\q ready to kill people who are poor \f + \fk doublet \f* 
+\q ready to kill people who are poor \\f + \\ft doublet \\f* 
 \q2 and to slaughter those who live righteously. 
 \q
-\v 15 But they will be killed by their own swords/daggers, 
+\v 15 But they will be killed by their own swords\f + \ft Or: daggers \f*, 
 \q2 and their bows will be broken. 
 \b
 \q
-\v 16 It is good to be righteous/godly even if you do not have many possessions,
+\v 16 It is good to be righteous\f + \ft Or: godly \f* even if you do not have many possessions,
 \q2 but it is bad to be wicked, even if you are very wealthy, 
 \q
 \v 17 because \add Yahweh\add* will completely remove the strength of wicked people,
-\q2 but he will ◄sustain/take care of► people who live righteously.
+\q2 but he will ◄sustain\f + \ft Or: take \f* care of► people who live righteously.
 \b
 \q
 \v 18 Day by day Yahweh is concerned about those who have not done any evil things;
@@ -84,12 +84,12 @@ do\add*.
 \q
 \v 20 But wicked people will die; 
 \q2 just like the beautiful wild flowers in the fields \add die under the hot
-sun\add* and disappear like smoke \f + \fk metaphor \f*, 
+sun\add* and disappear like smoke \\f + \\ft metaphor \\f*, 
 \q2 Yahweh \add will cause\add* his enemies to suddenly disappear.
 \b
 \q
 \v 21 The wicked people borrow \add money\add*, but they are not able to repay it;
-\q2 righteous/godly people, \add in contrast, have enough money that\add* they can give generously to others.
+\q2 righteous\f + \ft Or: godly \f* people, \add in contrast, have enough money that\add* they can give generously to others.
 \q
 \v 22 Those whom Yahweh has blessed will live safely in the land that he has given to them,
 \q2 but he will get rid of those people whom he has cursed. 
@@ -103,10 +103,10 @@ sun\add* and disappear like smoke \f + \fk metaphor \f*,
 \b
 \q
 \v 25 I was young \add previously\add*, and now I am an old man,
-\q2 but \add in all those years\add*, I have never seen that righteous/godly people have been abandoned by Yahweh,
+\q2 but \add in all those years\add*, I have never seen that righteous\f + \ft Or: godly \f* people have been abandoned by Yahweh,
 \q2 nor have I seen that their children needed to beg for food. 
 \q
-\v 26 Righteous/Godly people are generous, and happily lend money to others,
+\v 26 Righteous\f + \ft Or: Godly \f* people are generous, and happily lend money to others,
 \q2 and their children are a blessing to them. 
 \b
 \q
@@ -114,18 +114,18 @@ sun\add* and disappear like smoke \f + \fk metaphor \f*,
 \q2 If you do that, you \add and your descendants\add* will live in your land forever.
 \q
 \v 28 This will happen because Yahweh likes to see people doing what is just,
-\q2 and he will never forsake righteous/godly people. 
+\q2 and he will never forsake righteous\f + \ft Or: godly \f* people. 
 \b
 \q He will protect them forever; 
 \q2 but he will get rid of the children of wicked people. 
 \q
-\v 29 Righteous/Godly people will own the land \add that Yahweh promised to give to
+\v 29 Righteous\f + \ft Or: Godly \f* people will own the land \add that Yahweh promised to give to
 them\add*, 
 \q2 and they will live there forever. 
 \b
 \q
 \v 30 Righteous people give wise advice to others, 
-\q2 and they \f + \fk metonymy \f* speak what is just/fair. 
+\q2 and they \\f + \\ft metonymy \\f* speak what is just\f + \ft Or: fair \f*. 
 \q
 \v 31 They fill their minds with God's laws; 
 \q2 they do not stray from walking \add on God's\add* path. 
@@ -135,18 +135,18 @@ them\add*,
 \q2 in order to kill them \add as they walk by\add*. 
 \q
 \v 33 But Yahweh will not abandon righteous people, 
-\q2 with the result that ◄they fall into their enemies' hands/their enemies harm them►.
+\q2 with the result that ◄they fall into their enemies' hands\f + \ft Or: their \f* enemies harm them►.
 \q And he will not allow righteous people to be condemned 
 \q2 when someone takes them to a judge \add to be put on trial\add*.
 \b
 \q
 \v 34 Be patient and trust that Yahweh \add will help you\add*, 
-\q2 and ◄walk on his paths/do what he wants you to do►. 
+\q2 and ◄walk on his paths\f + \ft Or: do \f* what he wants you to do►. 
 \q \add If you do that\add*, he will honor you by giving you the land
 \add that he promised\add*, 
 \q2 and when he gets rid of the wicked, you will see it happen. 
 \q
-\v 35 I have seen that wicked people who ◄act like tyrants/terrify people► sometimes prosper, like trees that grow well in
+\v 35 I have seen that wicked people who ◄act like tyrants\f + \ft Or: terrify \f* people► sometimes prosper, like trees that grow well in
 fertile soil, 
 \q
 \v 36 when I looked later, they were gone! 
@@ -161,8 +161,8 @@ fertile soil,
 \b
 \q
 \v 39 Yahweh rescues righteous people; 
-\q2 in times of trouble he protects them \f + \fk metaphor \f*. 
+\q2 in times of trouble he protects them \\f + \\ft metaphor \\f*. 
 \q
 \v 40 Yahweh helps them and saves them; 
-\q2 he rescues them from \add being attacked/harmed by\add* wicked people
-\q2 because they go to him to be protected \f + \fk metaphor \f*. 
+\q2 he rescues them from \add being attacked\f + \ft Or: harmed \f* by\add* wicked people
+\q2 because they go to him to be protected \\f + \\ft metaphor \\f*. 

@@ -1,7 +1,7 @@
 \c 60  
 \s Israel's future glory 
 \q
-\v 1  \add You people of\add* Jerusalem \f + \fk personification \f*, stand up! 
+\v 1  \add You people of\add* Jerusalem \\f + \\ft personification \\f*, stand up! 
 \q2 Yahweh has done glorious things for you, 
 \q and he has acted powerfully for you; 
 \q2 so show others that he is very great! 
@@ -16,33 +16,33 @@ on\add* the earth,
 \q2 and kings will come to see the wonderful things that have happened to you.
 \b
 \q
-\v 4  \add Yahweh says\add*, “Look around and you will see the people who will be returning from ◄exile/countries to which they
+\v 4  \add Yahweh says\add*, “Look around and you will see the people who will be returning from ◄exile\f + \ft Or: countries \f* to which they
 have been forced to go►! 
 \q Your sons will come from distant countries; 
 \q2 others will carry your little daughters home. 
 \q
 \v 5 When you look at this happening, 
-\q2 you will be very joyful \f + \fk doublet \f* in your inner beings, 
+\q2 you will be very joyful \\f + \\ft doublet \\f* in your inner beings, 
 \q because people will bring valuable goods to you \add from all around the
 world\add*. 
 \q2 They will bring in ships valuable things from many nations. 
 \q
-\v 6 People will also bring valuable goods to you on herds/caravans of camels:
+\v 6 People will also bring valuable goods to you on herds\f + \ft Or: caravans \f* of camels:
 \q2 camels from the Midian and Ephah \add areas of northern Arabia\add*.
 \q And from Sheba \add in southern Arabia\add* they will come, bringing gold and frankincense;
 \q2 they will all come to praise me, Yahweh. 
 \q
 \v 7 They will bring flocks of sheep and goats from Kedar \add in northern
 Arabia\add* \add and give them\add* to you. 
-\q2 \add They will bring\add* \f + \fk personification \f* rams from Nebaioth for you \add to
+\q2 \add They will bring\add* \\f + \\ft personification \\f* rams from Nebaioth for you \add to
 sacrifice\add* on my altars, 
 \q and I will accept them happily. 
 \q2 At that time I will cause my temple to be very beautifully decorated.
 \b
 \q
 \v 8 And what are those things that are 
-\q2 moving swiftly like \f + \fk simile \f* clouds? 
-\q They resemble \f + \fk simile \f* doves \add returning\add* to their nests.
+\q2 moving swiftly like \\f + \\ft simile \\f* clouds? 
+\q They resemble \\f + \\ft simile \\f* doves \add returning\add* to their nests.
 \q
 \v 9 But they are really ships from Tarshish that are bringing your people back here.
 \q2 When your people come, they will bring with them all the valuable possessions that they have acquired,
@@ -51,7 +51,7 @@ sacrifice\add* on my altars,
 \b
 \q
 \v 10 Foreigners will \add come and\add* rebuild the walls of your cities,
-\q2 and their kings will serve/help you. 
+\q2 and their kings will serve\f + \ft Or: help \f* you. 
 \q2 Although I punished you because I was angry with you, 
 \q2 these things will happen now because I will act mercifully toward you because I am kind.
 \q
@@ -59,14 +59,14 @@ sacrifice\add* on my altars,
 \q2 in order that people will be able to bring into your cities valuable things from many countries,
 \q2 with their kings being led to you in the processions. 
 \q
-\v 12 And the kingdoms and nations whose people refuse to allow you to rule them will be completely destroyed \f + \fk doublet \f*.
+\v 12 And the kingdoms and nations whose people refuse to allow you to rule them will be completely destroyed \\f + \\ft doublet \\f*.
 \q
-\v 13 The glorious/beautiful things in Lebanon will be brought to you—
+\v 13 The glorious\f + \ft Or: beautiful \f* things in Lebanon will be brought to you—
 \q2 \add lumber from\add* cypress trees and fir trees and pine trees—
 \q to be used to enable my temple to be beautiful. 
-\q2 When that is done, my temple \f + \fk metonymy \f* will truly be glorious! 
+\q2 When that is done, my temple \\f + \\ft metonymy \\f* will truly be glorious! 
 \q
-\v 14 The descendants of those who ◄oppressed you/treated you cruelly► will come and bow down to you;
+\v 14 The descendants of those who ◄oppressed you\f + \ft Or: treated \f* you cruelly► will come and bow down to you;
 \q2 those who despised you will prostrate themselves in front of your feet.
 \q They will say that your city on Zion Hill 
 \q2 is the City of Yahweh, 
@@ -74,10 +74,10 @@ sacrifice\add* on my altars,
 \b
 \q
 \v 15 Previously everyone hated you and ignored you, 
-\q2 but now your city will be majestic/honored forever; 
+\q2 but now your city will be majestic\f + \ft Or: honored \f* forever; 
 \q and \add I will cause you to be\add* joyful forever. 
 \q
-\v 16 People of all nations and their kings will gladly bring \f + \fk metaphor \f* their wealth to you.
+\v 16 People of all nations and their kings will gladly bring \\f + \\ft metaphor \\f* their wealth to you.
 \q And when that happens, you will realize that I truly am Yahweh,
 \q2 the one who saves you and rescues you \add from your enemies\add*,
 \q2 and that I am the mighty one to whom you Israeli people belong.
@@ -87,12 +87,12 @@ sacrifice\add* on my altars,
 \q Instead of wood and stones, 
 \q2 I will bring you bronze and iron \add for your buildings\add*.
 \q There will be peace in your country, 
-\q2 and your rulers will do what is fair/just. 
+\q2 and your rulers will do what is fair\f + \ft Or: just \f*. 
 \q
 \v 18 People in your country will no longer act violently, 
-\q2 and people will no longer destroy your land and cause it to become desolate/ruined.
+\q2 and people will no longer destroy your land and cause it to become desolate\f + \ft Or: ruined \f*.
 \q The people in the city will be safe, 
-\q2 and everyone there will praise me \f + \fk metonymy \f*. 
+\q2 and everyone there will praise me \\f + \\ft metonymy \\f*. 
 \b
 \q
 \v 19 And you will no longer need the sun and moon to give you light,
@@ -100,14 +100,14 @@ sacrifice\add* on my altars,
 moon\add*; 
 \q I will be a glorious light for you forever. 
 \q
-\v 20  \add It will seem as though\add* the sun and moon will always be shining \f + \fk litotes \f*,
+\v 20  \add It will seem as though\add* the sun and moon will always be shining \\f + \\ft litotes \\f*,
 \q2 because I, Yahweh, will be an everlasting light for you. 
 \q You will never again be sad \add because of things that happen to
 you\add*. 
 \q
 \v 21 Your people will all be righteous, 
 \q2 and they will occupy the land forever, 
-\q because I myself have put you there \add like people plant trees\add* \f + \fk metaphor \f*
+\q because I myself have put you there \add like people plant trees\add* \\f + \\ft metaphor \\f*
 \q2 in order that you will show others that I am very great. 
 \q
 \v 22 At that time, the \add groups that are\add* very small now will become

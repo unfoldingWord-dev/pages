@@ -2,7 +2,7 @@
 \s The people who settled in Jerusalem 
 \p
 \v 1 The \add Israeli\add* leaders \add and their families\add* settled in the sacred city, Jerusalem. The other people ◄cast
-lots/threw marked stones► to determine which family from each ten families would live in Jerusalem. The other people continued
+lots\f + \ft Or: threw \f* marked stones► to determine which family from each ten families would live in Jerusalem. The other people continued
 to live in the other towns and cities \add in Judea\add*. 
 \v 2 Those people \add asked God to\add* bless those who volunteered to be
 \add among the 10%\add* who moved to Jerusalem. 
@@ -18,7 +18,7 @@ of Amariah, who was the son of Shephatiah, who was the son of Mahalalel, who was
 \v 5  \add Another one from the tribe of Judah was\add* Maaseiah, who was the son of Baruch, who was the son of Colhozeh, who
 was the son of Hazaiah, who was the son of Adaiah, who was the son of Joiarib, who was the son of Zechariah, who was a
 descendant of \add Judah's son\add* Shelah. 
-\v 6 There were 468 men who were descendants of Perez who were valiant/courageous soldiers who lived in Jerusalem.
+\v 6 There were 468 men who were descendants of Perez who were valiant\f + \ft Or: courageous \f* soldiers who lived in Jerusalem.
 \b
 \m
 \v 7  \add One of the men\add* of the tribe of Benjamin who decided to live in Jerusalem was Sallu, the son of Meshullam, the

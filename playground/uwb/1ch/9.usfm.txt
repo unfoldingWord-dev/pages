@@ -1,7 +1,7 @@
 \c 9  
 \p
-\v 1 The \add names of all the\add* people of Israel were listed/written with the names of their clans, and that information
-was written in the scroll/book named 'The Record of the Kings of Israel.'
+\v 1 The \add names of all the\add* people of Israel were listed\f + \ft Or: written \f* with the names of their clans, and that information
+was written in the scroll\f + \ft Or: book \f* named 'The Record of the Kings of Israel.'
 \s The people in Jerusalem 
 \p \add Many of\add* the people of Judah were captured and forced to go to Babylon. That happened because they did not
 faithfully \add do what was pleasing to\add* God. 
@@ -86,13 +86,13 @@ Talmon, Ahiman, and some of their relatives. Shallum was their leader.
 \li Shallum and his relatives were gatekeepers, and they were responsible to guard the gates of the temple of Yahweh, like
 their ancestors had done. 
 \li
-\v 20 Previously Phinehas, the son of Eleazar, had supervised the gatekeepers, and Yahweh ◄was with/helped► Phinehas.
+\v 20 Previously Phinehas, the son of Eleazar, had supervised the gatekeepers, and Yahweh ◄was with\f + \ft Or: helped \f*► Phinehas.
 \li
 \v 21 Zechariah the son of Meshelemiah was the gatekeeper at the entrance of the temple.
 \p
 \v 22 Altogether, there were 212 men who were chosen to guard the gates. Their names were written in the records of the clans
-in their villages. \add King\add* David and the prophet Samuel appointed/chose those men because those men ◄were
-dependable/always did what they were told to do►. 
+in their villages. \add King\add* David and the prophet Samuel appointed\f + \ft Or: chose \f* those men because those men ◄were
+dependable\f + \ft Or: always \f* did what they were told to do►. 
 \v 23 The work of those gatekeepers and their descendants was to guard the gates of the temple of Yahweh. The temple was built
 to replace the Sacred Tent. 
 \v 24 There were gatekeepers on each of the four sides of the temple.
@@ -107,12 +107,12 @@ oil, incense, and spices \add that were used in the sacrifices\add*.
 \v 29 Other gatekeepers were appointed to take care of the other things in the temple.
 \v 30 But some of the priests had the work of mixing the spices.
 \v 31 There was a descendant of Levi named Mattithiah, the oldest son of Shallum, who was a descendant of Korah. He ◄was very
-dependable/always did what he was told to do►, so they gave him {he was given} the work of baking the bread that was used in
+dependable\f + \ft Or: always \f* did what he was told to do►, so they gave him {he was given} the work of baking the bread that was used in
 the offerings \add on the altar\add*. 
 \v 32 Some of the gatekeepers who were descended from Kohath prepared the new loaves of sacred bread that were placed on the
-table \add inside the temple\add* every Sabbath/rest day. 
+table \add inside the temple\add* every Sabbath\f + \ft Or: rest \f* day. 
 \p
-\v 33 Some of the descendants of Levi were musicians who worked in the temple. The leaders of those families stayed/slept in
+\v 33 Some of the descendants of Levi were musicians who worked in the temple. The leaders of those families stayed\f + \ft Or: slept \f* in
 the rooms of the temple. They did not do any other work in the temple because they did
 \add musician\add* work day and night. 
 \p

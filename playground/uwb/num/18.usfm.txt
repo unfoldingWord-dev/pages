@@ -2,7 +2,7 @@
 \s The duties of the priests and Levites 
 \p
 \v 1 Yahweh said to Aaron, “You and your sons and the other members of your father's family are the ones ◄who will be
-punished/whom I will punish► \add if anything bad happens to the
+punished\f + \ft Or: whom \f* I will punish► \add if anything bad happens to the
 things\add* inside the Sacred Tent. But only you and your sons will be punished if the priests do something bad.
 \v 2 Require that those who belong to your tribe, the tribe of Levi, must assist you and your sons while you perform your work
 at the Sacred Tent. 
@@ -28,7 +28,7 @@ including the grain offerings, the offerings to make atonement for sins and to r
 to be given to you and your sons. 
 \v 10 You must eat those offerings in a sacred place, \add near the Sacred
 Tent\add*. You and all of the other males \add in your clan\add* may eat it, but you must consider those offerings to be
-holy/dedicated to me. 
+holy\f + \ft Or: dedicated \f* to me. 
 \p
 \v 11 The priests lift up high the sacred offerings while they are standing in front of the altar. All of those offerings that
 the Israelis offer to me belong to you and your sons and daughters. They will always be your share. All the members of your
@@ -50,9 +50,9 @@ me. \add Slaughter them and\add* sprinkle their blood on the altar. Then complet
 \add on the altar\add* to be an offering to me. The smell as they burn will be very pleasing to me.
 \v 18 The meat from those offerings will be yours, just like the breast and right thigh of animals that are presented to me to
 restore fellowship with me as the priest lifts them up high in front of the altar are yours.
-\v 19 Anything that the Israeli people present to me as holy/sacred gifts, I am giving to you. They are for you and your sons
+\v 19 Anything that the Israeli people present to me as holy\f + \ft Or: sacred \f* gifts, I am giving to you. They are for you and your sons
 and daughters \add to eat\add*. They will always be your share. This is an agreement that I am making with you, an agreement
-that will ◄last forever/never be changed►. I am also making this agreement with your descendants.”
+that will ◄last forever\f + \ft Or: never \f* be changed►. I am also making this agreement with your descendants.”
 \p
 \v 20 Yahweh also said to Aaron, “You priests will not receive any of the land or the property like the
 \add other\add* Israeli people will receive. I am what you will receive.
@@ -68,7 +68,7 @@ people,
 animals\add* that the Israelis bring to be offerings to me. That is why I said that you will not receive any land like the
 other Israelis will receive.” 
 \p
-\v 25 Yahweh said to Moses/me, 
+\v 25 Yahweh said to Moses\f + \ft Or: me \f*, 
 \v 26 “Tell this to the descendants of Levi: ‘When you receive one tenth of all
 \add the crops and animals\add* from the Israeli people, you must give one tenth of all that to me to be a sacred offering.
 \v 27 Just like the other Israelis give one tenth of the grain and wine that they produce,
@@ -83,5 +83,5 @@ me, I will consider that those gifts are as though they came from your own grain
 to\add*, because it is your payment for the work that you do at the Sacred Tent.
 \v 32 If you give to the priests the best portions of what you receive, you will not be punished
 \add by me\add* for accepting one tenth of the gifts that the people bring to me. But you must consider those gifts to be
-sacred/holy. If you sin \add by eating those things in ways that are contrary to these regulations that I have given to
+sacred\f + \ft Or: holy \f*. If you sin \add by eating those things in ways that are contrary to these regulations that I have given to
 you\add*, you will be executed.’ ” 

@@ -1,7 +1,7 @@
 \c 10  
 \s Those who signed the agreement 
 \p
-\v 1 ◄This is a list/These are the names► of those who signed the agreement:
+\v 1 ◄This is a list\f + \ft Or: These \f* are the names► of those who signed the agreement:
 \b
 \li I, Nehemiah, the governor; and also Zedekiah. 
 \b
@@ -77,9 +77,9 @@ to Moses. They agreed to obey everything that Yahweh our God had commanded, and 
 \pi
 \v 31 If people from other countries who live in this land bring us grain or other things to sell to us on Sabbath days or any
 other sacred day, we will not buy anything from them. And in every seventh year, we will not plant any crops, and we will
-◄cancel all debts/declare that people will no longer have to pay back what they owe us►.
+◄cancel all debts\f + \ft Or: declare \f* that people will no longer have to pay back what they owe us►.
 \pi
-\v 32 We also promise that every year we will pay ◄one-eighth of an ounce/4 grams► of silver for the work of taking care of the
+\v 32 We also promise that every year we will pay ◄one-eighth of an ounce\f + \ft Or: 4 \f* grams► of silver for the work of taking care of the
 temple. 
 \v 33 With that money they can buy these things: the sacred bread
 \add that is placed before God\add*, the grain that is burned \add on the
@@ -88,7 +88,7 @@ altar\add*, the sacred offerings for the Sabbath days and for celebrating each n
 celebrate, and other offerings that are dedicated to God, the animals to be sacrificed to atone for the sins of the Israeli
 people, and anything else that is needed for the work of taking care of the temple.
 \pi
-\v 34 Each year the priests, the descendants of Levi who help the priests, and the rest of us will ◄cast lots/throw marked
+\v 34 Each year the priests, the descendants of Levi who help the priests, and the rest of us will ◄cast lots\f + \ft Or: throw \f* marked
 stones► to determine \add for that year\add* which clans will provide wood to burn
 \add on the altar\add* to burn the sacrifices that are offered to Yahweh our God, in order to do what was written in the laws
 \add God gave to Moses\add*. 
@@ -103,8 +103,8 @@ firstborn calves and lambs and baby goats \add to be offered as sacrifices\add*.
 \v 37 We will also take to the priests at the temple the flour made from the first grain
 \add that we harvest each year\add*, and our other offerings of wine,
 \add olive\add* oil, and fruit. We will also take to the descendants of Levi
-\add who help the priests\add* the tithes/10% \add of the crops that we
-grow\add* on our land, because they are the ones who collect the tithes in all the villages where we work/live.
+\add who help the priests\add* the tithes\f + \ft Or: 10 \f*% \add of the crops that we
+grow\add* on our land, because they are the ones who collect the tithes in all the villages where we work\f + \ft Or: live \f*.
 \v 38 The priests who are descendants of Aaron will be with the descendants of Levi and supervise them when they collect the
 tithes. Then the descendants of Levi must take 10% of the things that people bring and put them in the storerooms in the
 temple. 

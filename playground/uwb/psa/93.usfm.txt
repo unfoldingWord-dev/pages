@@ -1,8 +1,8 @@
 \c 93  
 \q
 \v 1 Yahweh, you have become the King! 
-\q2 The majesty and the power that you have are like \f + \fk metaphor \f* robes that a king wears.
-\q You put the world firmly in place, and it will never be moved/shaken.
+\q2 The majesty and the power that you have are like \\f + \\ft metaphor \\f* robes that a king wears.
+\q You put the world firmly in place, and it will never be moved\f + \ft Or: shaken \f*.
 \q
 \v 2 You started to rule as king a very long time ago; 
 \q2 you have always existed. 
@@ -18,5 +18,5 @@
 \b
 \q
 \v 5 Yahweh, your laws never change, 
-\q2 and your temple has always been holy/sacred. 
+\q2 and your temple has always been holy\f + \ft Or: sacred \f*. 
 \q2 And that will be true forever. 

@@ -1,7 +1,7 @@
 \c 7  
 \s Ezra went to Jerusalem 
 \p
-\v 1  \add Many/Fifty years\add* later, while Artaxerxes was the king of Persia, I, Ezra came from Babylon here to Jerusalem. I
+\v 1  \add Many\f + \ft Or: Fifty \f* years\add* later, while Artaxerxes was the king of Persia, I, Ezra came from Babylon here to Jerusalem. I
 am the son of Seraiah and the grandson of Azariah, and the great-grandson of Hilkiah.
 \v 2 Hilkiah was the son of Shallum, who was the son of Zadok, who was the son of Ahitub,
 \v 3 who was the son of Amariah, who was the son of Azariah, who was the son of Meraioth,
@@ -9,10 +9,10 @@ am the son of Seraiah and the grandson of Azariah, and the great-grandson of Hil
 \v 5 who was the son of Abishua, who was the son of Phinehas, who was the son of Eleazar, who was the son of Aaron, the
 \add first\add* supreme priest. 
 \v 6 I am a man who knows very well the laws that Moses \add wrote\add*. Those were the laws that Yahweh, the God whom we
-Israeli people ◄\add worship/belong to\add*►, had given to us Israeli people. When I arrived in Jerusalem, Yahweh my God acted
+Israeli people ◄\add worship\f + \ft Or: belong \f* to\add*►, had given to us Israeli people. When I arrived in Jerusalem, Yahweh my God acted
 kindly toward me, and as a result the \add people\add* gave me everything that I had requested the king to
 \add tell them to\add* give to me. 
-\v 7 Some of the priests, some descendants of Levi, some singers, some ◄gatekeepers/men who guarded the gates of the temple►,
+\v 7 Some of the priests, some descendants of Levi, some singers, some ◄gatekeepers\f + \ft Or: men \f* who guarded the gates of the temple►,
 and some men who worked in the temple, and some other \add Israeli\add* people came up with me here to Jerusalem. That was
 during the seventh year that Artaxerxes was the king \add of Persia\add*.
 \p
@@ -30,14 +30,14 @@ Jerusalem\add*, King Artaxerxes wrote a letter, and gave a copy to me.
 \p
 \v 12  \add This letter is\add* from me, Artaxerxes, the greatest of the kings.
 \add I am giving it\add* to Ezra the priest, who has studied very well all the rules and regulations that the God
-\add who is/rules\add* in heaven \add gave to the Israeli people\add*.
+\add who is\f + \ft Or: rules \f*\add* in heaven \add gave to the Israeli people\add*.
 \b
 \pi
 \v 13 Ezra, I command that when you return to Jerusalem, any of the Israeli people in my kingdom who want to are allowed to go
 with you. That includes any priests and descendants of Levi \add who will work in the
 temple\add* who want to go. 
-\v 14 I, along with my seven counselors/advisors, am sending you to Jerusalem, in order that you can determine what is
-happening there and in \add other towns in\add* Judah. You are taking with you \f + \fk metonymy \f* a copy of God's laws; make sure that the
+\v 14 I, along with my seven counselors\f + \ft Or: advisors \f*, am sending you to Jerusalem, in order that you can determine what is
+happening there and in \add other towns in\add* Judah. You are taking with you \\f + \\ft metonymy \\f* a copy of God's laws; make sure that the
 people are doing everything that is written in those laws. 
 \v 15  \add We are also saying that\add* you should take with you the silver and gold that I and my advisors are wanting to
 give to you, in order that you will present it to be an offering to the God
@@ -49,19 +49,19 @@ their God in Jerusalem.
 \add outside\add* the temple of your God in Jerusalem. 
 \pi
 \v 18 If there is any silver or gold that remains after \add you have bought all those
-things\add*, you and your companions/colleagues are permitted to use it
+things\add*, you and your companions\f + \ft Or: colleagues \f* are permitted to use it
 \add to buy\add* whatever you desire, but buy only things that \add you
 know\add* that God wants you to buy. 
 \v 19 We have given to you some valuable items to be used in the temple of your God. Take them also to Jerusalem.
 \v 20 If you need any other things for the temple, you are permitted to get the money for those things from the building here
-where my government's money is kept/stored. 
+where my government's money is kept\f + \ft Or: stored \f*. 
 \pi
 \v 21 And I, King Artaxerxes, command this to all the treasurers in the province west of the
 \add Euphrates\add* River: give to Ezra, the priest who has studied very well the laws of the God
-\add who is/rules\add* in heaven, everything that he requests, and give it to him quickly.
-\v 22 The most that you should give to him is ◄7500 pounds/3400 kg.► of silver, 500 bushels of wheat, 550 gallons of wine, and
+\add who is\f + \ft Or: rules \f*\add* in heaven, everything that he requests, and give it to him quickly.
+\v 22 The most that you should give to him is ◄7500 pounds\f + \ft Or: 3400 \f* kg.► of silver, 500 bushels of wheat, 550 gallons of wine, and
 550 gallons of \add olive\add* oil, but give to him all the salt that they need.
-\v 23 Be sure that you provide whatever their God requires for his temple, because we certainly do not \f + \fk rhetorical question \f* want him to be
+\v 23 Be sure that you provide whatever their God requires for his temple, because we certainly do not \\f + \\ft rhetorical question \\f* want him to be
 angry with me or with my descendants who will later be kings. 
 \v 24 We are also commanding that none of the priests, descendants of Levi
 \add who work in the temple\add*, musicians, temple guards, or other men who work in the temple, will be required to pay any
@@ -75,7 +75,7 @@ executed, some will be put in prison, some will be sent out of the country or ha
 \s Ezra praised Yahweh 
 \p
 \v 27 Because King Artaxerxes was very kind like that, I said, “Praise Yahweh, the God whom our ancestors
-\add worshiped/belonged to\add*! He has caused the king to want to honor the temple of Yahweh in Jerusalem.
+\add worshiped\f + \ft Or: belonged \f* to\add*! He has caused the king to want to honor the temple of Yahweh in Jerusalem.
 \v 28 Because God acted very kindly toward me, the king and all his advisors and all his powerful officials have also acted
 kindly toward me. So, because God has helped me, I have become encouraged, and I have been
 \add able to persuade\add* some of the Israeli leaders to go up to Jerusalem with me.”

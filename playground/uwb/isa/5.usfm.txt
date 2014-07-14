@@ -8,7 +8,7 @@
 \v 2 My friend plowed the ground and cleared away the stones. 
 \q2 Then he planted very good grapevines on that ground. 
 \q In the middle of the vineyard, he built a watchtower, 
-\q2 and he dug a ◄winepress/pit for squeezing the grapes►. 
+\q2 and he dug a ◄winepress\f + \ft Or: pit \f* for squeezing the grapes►. 
 \q Then he waited \add each year\add* to harvest some good grapes,
 \q2 but the vines produced only sour grapes. 
 \b
@@ -20,8 +20,8 @@
 \q
 \v 4 What more could I have done for you 
 \q2 than what I have already done? 
-\q I expected you to be doing good deeds \f + \fk metaphor \f*, 
-\q2 so it is disgusting that \f + \fk rhetorical question \f* you were \add doing only evil
+\q I expected you to be doing good deeds \\f + \\ft metaphor \\f*, 
+\q2 so it is disgusting that \\f + \\ft rhetorical question \\f* you were \add doing only evil
 deeds\add* 
 \q2 like the vineyard that produced only sour grapes! 
 \b
@@ -35,27 +35,27 @@ like\add* my vineyard.
 \q
 \v 6 I will cause it to become a wasteland 
 \q2 where the vines are not pruned and the ground is not hoed. 
-\q It will be a place where briers and thorns \f + \fk doublet \f* grow. 
+\q It will be a place where briers and thorns \\f + \\ft doublet \\f* grow. 
 \q2 And I will command that no rain will fall on it.” 
 \b
 \q
-\v 7 The nation of Israel is like \f + \fk metaphor \f* the vineyard of the Almighty Commander of the armies of angels.
+\v 7 The nation of Israel is like \\f + \\ft metaphor \\f* the vineyard of the Almighty Commander of the armies of angels.
 \q2 The people of Judah are like the garden that was pleasing to him.
-\q He expected you to be doing what is just/fair, 
-\q2 but instead, \add what he saw was people\add* murdering \f + \fk metonymy \f* others.
+\q He expected you to be doing what is just\f + \ft Or: fair \f*, 
+\q2 but instead, \add what he saw was people\add* murdering \\f + \\ft metonymy \\f* others.
 \q \add He expected that you would be doing\add* righteous deeds,
 \q2 but instead, he heard cries from people who were being \add attacked\add* violently.
 \s Yahweh promises to punish Judah 
 \q
 \v 8 Terrible things will happen to you who continually \add illegally\add* acquire houses and fields.
 \q You force one family after another to leave their homes 
-\q2 until you are the only ones \f + \fk hyperbole \f* still living in the land. 
+\q2 until you are the only ones \\f + \\ft hyperbole \\f* still living in the land. 
 \p
 \v 9 But I heard the Almighty Commander of the armies of angels solemnly declare this:
-\q “Some day, many of those huge houses will be empty/deserted; 
+\q “Some day, many of those huge houses will be empty\f + \ft Or: deserted \f*; 
 \q2 no one will be living in those beautiful mansions. 
 \q
-\v 10 The vines on ten acres of land will not produce enough grapes to make ◄six gallons/22 liters► of juice/wine,
+\v 10 The vines on ten acres of land will not produce enough grapes to make ◄six gallons\f + \ft Or: 22 \f* liters► of juice\f + \ft Or: wine \f*,
 \q2 and ten baskets of seed will produce only one basket of grain.”
 \b
 \q
@@ -70,21 +70,21 @@ wine\add*
 \q but they never think about what Yahweh does 
 \q2 or appreciate what he has created. 
 \q
-\v 13 So, my people will be ◄exiled/taken to other countries► far away
+\v 13 So, my people will be ◄exiled\f + \ft Or: taken \f* to other countries► far away
 \q2 because they do not know about me. 
 \q Those who are now very important and honored will starve, 
 \q2 and the other people will die from thirst. 
 \q
-\v 14  \add It is as though\add* \f + \fk personification \f* the place where the dead people are is eagerly looking for more Israeli people,
+\v 14  \add It is as though\add* \\f + \\ft personification \\f* the place where the dead people are is eagerly looking for more Israeli people,
 \q2 opening its mouth to swallow them, 
 \q and a huge number of people will be thrown into that place, 
 \q2 including their leaders as well as a noisy crowd of people who enjoy living in Jerusalem.
 \q
 \v 15  \add Yahweh\add* will get rid of a huge number of people;
-\q2 and he will humble many more people who now are proud/arrogant.
+\q2 and he will humble many more people who now are proud\f + \ft Or: arrogant \f*.
 \q
-\v 16 But the Almighty Commander of the armies of angels will be exalted/praised because of his acting justly.
-\q2 God will show that he is holy by doing righteous/just deeds.
+\v 16 But the Almighty Commander of the armies of angels will be exalted\f + \ft Or: praised \f* because of his acting justly.
+\q2 God will show that he is holy by doing righteous\f + \ft Or: just \f* deeds.
 \q
 \v 17 Then lambs and fat sheep will be able to find good grass to eat,
 \q2 even among the ruins of the houses of rich people. 
@@ -108,10 +108,10 @@ wine\add*
 \b
 \q
 \v 21 Terrible things will happen to those who think that they are wise
-\q2 and that they ◄are very clever/know everything►. 
+\q2 and that they ◄are very clever\f + \ft Or: know \f* everything►. 
 \b
 \q
-\v 22 Terrible things will happen to those who \add think that\add* \f + \fk irony \f* they are great/heroes
+\v 22 Terrible things will happen to those who \add think that\add* \\f + \\ft irony \\f* they are great\f + \ft Or: heroes \f*
 \q2 because they are able to drink \add lots of\add* wine, 
 \q2 and boast about being able to mix good alcoholic drinks. 
 \q
@@ -120,7 +120,7 @@ wine\add*
 \q2 and they cause people who are innocent to be punished. 
 \b
 \q
-\v 24 Therefore, just like \f + \fk simile \f* fires burn up stubble 
+\v 24 Therefore, just like \\f + \\ft simile \\f* fires burn up stubble 
 \q2 and dry grass shrivels up and quickly burns in flames, 
 \q \add it will be as though\add* those people have roots that will rot
 \q2 and have flowers that will wither. 
@@ -130,15 +130,15 @@ wine\add*
 \v 25 That is why Yahweh is extremely angry with his people; 
 \q2 \add it is as though\add* his hand is raised and he is ready to smash them.
 \q \add When he does that\add*, the mountains will shake, 
-\q2 and the corpses of people will be scattered in the streets like \f + \fk simile \f* manure.
+\q2 and the corpses of people will be scattered in the streets like \\f + \\ft simile \\f* manure.
 \q But even when that happens, Yahweh will still be very angry; 
-\q2 he will be ready to punish his people \f + \fk metaphor \f* again. 
+\q2 he will be ready to punish his people \\f + \\ft metaphor \\f* again. 
 \b
 \q
 \v 26 Yahweh will send a signal to summon \add armies of\add* nations far away;
 \q2 \add it is as though\add* he will whistle \add to those soldiers who
 are\add* in very remote places on the earth. 
-\q They will come very swiftly \f + \fk doublet \f* toward Jerusalem. 
+\q They will come very swiftly \\f + \\ft doublet \\f* toward Jerusalem. 
 \q
 \v 27 They will not get tired or stumble. 
 \q2 They will not \add stop to\add* rest or to sleep. 
@@ -152,13 +152,13 @@ battle\add*.
 \q \add Because their horses pull the chariots fast\add*, sparks will shoot out from their hooves,
 \q2 and the wheels of the chariots will spin like whirlwind. 
 \q
-\v 29 They will roar like \add very strong\add* lions \f + \fk doublet \f* 
+\v 29 They will roar like \add very strong\add* lions \\f + \\ft doublet \\f* 
 \q2 that growl and then pounce on the animals they want to kill 
 \q and carry them off, 
 \q2 and no one is able to rescue them. 
 \q
 \v 30  \add Similarly, your enemies\add* will roar over the people they are about to kill,
-\q2 like \f + \fk simile \f* the sea roars. 
+\q2 like \\f + \\ft simile \\f* the sea roars. 
 \q \add On that day\add*, if someone looks across the land, 
 \q2 he will see only people who are in darkness and distressed; 
 \q2 \add it will be as though\add* even the sunlight is hidden by dark clouds.

@@ -27,7 +27,7 @@ do\add*, the words would be fulfilled that he had prayed, ‘I will never lose a
 \add tried to kill\add* the high priest's servant, \add but he only\add* cut off the man's right ear. The servant's name was
 Malchus. 
 \v 11 Jesus said to Peter, “Put your sword \add back\add* into its sheath! ◄I must endure what
-\add my\add* Father wants me to suffer./Do you not think that I must endure what
+\add my\add* Father wants me to suffer.\f + \ft Or: Do \f* you not think that I must endure what
 \add my\add* Father wants me to suffer?► [MET, RHQ]” 
 \s John 18:12-14 
 \s They took Jesus to be questioned by Annas, the former high priest.
@@ -57,16 +57,16 @@ Peter was also standing near it, warming himself.
 \v 19  \add While Peter was doing that\add*, the high priest asked Jesus about his disciples and about what he was teaching
 people. 
 \v 20 Jesus replied, “I have always spoken where many people [MTY, HYP] could hear me. I have taught them in ◄the
-synagogues/their meeting places► and in the Temple courtyard, in places where many \f + \fk hyperbole \f* Jews come together. I have spoken
+synagogues\f + \ft Or: their \f* meeting places► and in the Temple courtyard, in places where many \\f + \\ft hyperbole \\f* Jews come together. I have spoken
 nothing secretly. 
 \v 21  \add So\add* ◄why are you asking me questions \add like this
-illegally\add*?/you should not be asking me questions \add like this
-illegally\add*!► \f + \fk rhetorical question \f* Ask the people who heard what I taught! They certainly know what I said!”
+illegally\add*?\f + \ft Or: you \f* should not be asking me questions \add like this
+illegally\add*!► \\f + \\ft rhetorical question \\f* Ask the people who heard what I taught! They certainly know what I said!”
 \v 22 After Jesus said that, one of the Temple guards standing near him slapped him on his face. He said, “◄That is not the way
-you should answer the high priest!/Is that the way you should answer the high priest?► \f + \fk rhetorical question \f*”
+you should answer the high priest!\f + \ft Or: Is \f* that the way you should answer the high priest?► \\f + \\ft rhetorical question \\f*”
 \v 23 Jesus replied to him, “If I had said something that was contrary
 \add to your laws\add*, you could have told \add me that what I said
-that\add* was wrong. But because I said only what was right, ◄you should not be striking me!/why are you striking me?► \f + \fk rhetorical question \f*”
+that\add* was wrong. But because I said only what was right, ◄you should not be striking me!\f + \ft Or: why \f* are you striking me?► \\f + \\ft rhetorical question \\f*”
 \v 24 Then after Jesus' hands were tied {after they tied Jesus hands}
 \add again\add*, Annas sent him to Caiaphas, the high priest. 
 \s John 18:25-27 
@@ -82,7 +82,7 @@ happen\add*.
 \s John 18:28-40 
 \s Pilate the governor questioned Jesus. 
 \p
-\v 28 Then the \add Jewish leaders\add* \f + \fk synecdoche \f* led Jesus from the
+\v 28 Then the \add Jewish leaders\add* \\f + \\ft synecdoche \\f* led Jesus from the
 \add home of\add* Caiaphas to the headquarters \add of Pilate, the Roman
 governor\add*. It was before dawn. \add Pilate was a non-Jew\add*,
 \add and they thought that if they entered his headquarters\add*, they would become unacceptable to God {God would reject
@@ -93,7 +93,7 @@ headquarters\add*.
 \v 30  \add They knew that Jesus had not disobeyed any Roman law, so they did not want to answer him.
 Instead\add*, they said, “If this man were not a criminal, we would not have brought him to you!”
 \v 31 Then Pilate said to them, “Take him yourselves, and judge him according to your own laws!” Then the Jewish
-\add leaders\add* \f + \fk synecdoche \f* said, “\add No! We want him executed, but we want you Romans to execute him,
+\add leaders\add* \\f + \\ft synecdoche \\f* said, “\add No! We want him executed, but we want you Romans to execute him,
 because\add* we Jews have no right to execute anyone!” 
 \v 32  \add The Romans executed people by nailing them to a cross\add*.
 \add So\add*, as a result of what \add the Jewish leaders said\add*, it was fulfilled
@@ -103,22 +103,22 @@ because\add* we Jews have no right to execute anyone!”
 \add Because the Jewish leaders had said that Jesus claimed to be a
 king\add*, he said to him \add scornfully\add*, “Are you the king of the Jews?”
 \v 34 Jesus replied, “Are you asking that because you yourself \add want to know if I claim to be a
-king\add*, or because ◄someone else/Caiaphas► said \add that I claim to be their
+king\add*, or because ◄someone else\f + \ft Or: Caiaphas \f*► said \add that I claim to be their
 king\add*?” 
-\v 35 Pilate replied, “I am not a Jew, \add so\add* ◄\add I cannot understand these matters!/how can I understand these
-matters\add*?► \f + \fk rhetorical question \f* It was your fellow Jews and your chief priests who brought you to me! What have you done
+\v 35 Pilate replied, “I am not a Jew, \add so\add* ◄\add I cannot understand these matters!\f + \ft Or: how \f* can I understand these
+matters\add*?► \\f + \\ft rhetorical question \\f* It was your fellow Jews and your chief priests who brought you to me! What have you done
 \add to make them want to execute you\add*?” 
-\v 36 Jesus replied, “It is not people in \f + \fk metonymy \f* this world who are
+\v 36 Jesus replied, “It is not people in \\f + \\ft metonymy \\f* this world who are
 \add making me\add* king. If it was people in this world who were making me a king, my disciples would have fought in order
-that the Jewish \add leaders\add* \f + \fk synecdoche \f* would be prevented {to prevent the Jewish
-\add leaders\add* \f + \fk synecdoche \f*} from seizing me. But it is not \add someone here
+that the Jewish \add leaders\add* \\f + \\ft synecdoche \\f* would be prevented {to prevent the Jewish
+\add leaders\add* \\f + \\ft synecdoche \\f*} from seizing me. But it is not \add someone here
 in\add* this world who is making me a king.” 
 \v 37 Then Pilate said to him, “So \add are you saying that\add* you are a king?” Jesus replied,
 “\add Yes\add*, what you have said about my being a king \add is
 correct\add*. I was born to become a king, and I came into this world to tell people the truth
 \add about God\add*. Everyone who \add believes\add* the truth pays attention to what I say.”
 \v 38 Pilate said to him, “\add How can anyone know\add* what the truth is?”
-\p After he said that, he went outside and talked to the Jewish \add leaders\add* \f + \fk synecdoche \f* again. He said to them, “I do not find
+\p After he said that, he went outside and talked to the Jewish \add leaders\add* \\f + \\ft synecdoche \\f* again. He said to them, “I do not find
 that he has done anything at all for which I should punish him. 
 \v 39 But you \add Jews\add* customarily, \add every year\add* during the Passover
 \add celebration\add*, ask me to release for you \add someone who is in

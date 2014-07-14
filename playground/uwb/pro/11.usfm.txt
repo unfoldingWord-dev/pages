@@ -17,44 +17,44 @@
 \q2 but if you live righteously, you will live a long time. 
 \b
 \q
-\v 5 When people are honest and good, that will ◄direct their paths/show them what is right for them to do►;
+\v 5 When people are honest and good, that will ◄direct their paths\f + \ft Or: show \f* them what is right for them to do►;
 \q2 but wicked people will experience disasters because of the evil things that they do.
 \b
 \q
-\v 6  \add God\add* rescues/protects righteous people because they ◄are honest/do what is right►,
-\q2 but those who ◄are treacherous/cannot be trusted► will be trapped because of their being greedy.
+\v 6  \add God\add* rescues\f + \ft Or: protects \f* righteous people because they ◄are honest\f + \ft Or: do \f* what is right►,
+\q2 but those who ◄are treacherous\f + \ft Or: cannot \f* be trusted► will be trapped because of their being greedy.
 \b
 \q
 \v 7 When wicked people die, they cannot confidently expect to receive anything
 \add that is good\add*; 
-\q2 they expect that their money will help/save them, but it will not.
+\q2 they expect that their money will help\f + \ft Or: save \f* them, but it will not.
 \b
 \q
-\v 8  \add Yahweh\add* rescues righteous people from their troubles/difficulties;
+\v 8  \add Yahweh\add* rescues righteous people from their troubles\f + \ft Or: difficulties \f*;
 \q2 instead, it is the wicked who will have troubles. 
 \b
 \q
-\v 9 Godless people can ruin others by what they say \f + \fk metonymy \f*, 
-\q2 but righteous people will be saved by their ◄own good sense/being wise►.
+\v 9 Godless people can ruin others by what they say \\f + \\ft metonymy \\f*, 
+\q2 but righteous people will be saved by their ◄own good sense\f + \ft Or: being \f* wise►.
 \b
 \q
-\v 10 When things go well for righteous people, \add the people in\add* \f + \fk metonymy \f* their city are happy,
+\v 10 When things go well for righteous people, \add the people in\add* \\f + \\ft metonymy \\f* their city are happy,
 \q2 and they shout joyfully when wicked people die. 
 \b
 \q
 \v 11 When righteous people \add request God to\add* bless a city, that city will become great,
-\q2 but cities are ruined by what wicked people say \f + \fk metonymy \f*. 
+\q2 but cities are ruined by what wicked people say \\f + \\ft metonymy \\f*. 
 \b
 \q
 \v 12 It is foolish to despise others; 
-\q2 those who ◄have good sense/are wise► do not say anything to criticize others.
+\q2 those who ◄have good sense\f + \ft Or: are \f* wise► do not say anything to criticize others.
 \b
 \q
-\v 13 Those who ◄spread gossip/tell bad things about others► will tell your secrets to others,
+\v 13 Those who ◄spread gossip\f + \ft Or: tell \f* bad things about others► will tell your secrets to others,
 \q2 but if there is someone whom you can trust, you can trust him to not tell your secrets to others.
 \b
 \q
-\v 14 A nation will be destroyed/ruined if it does not have \add leaders\add* who guide it
+\v 14 A nation will be destroyed\f + \ft Or: ruined \f* if it does not have \add leaders\add* who guide it
 \add wisely\add*; 
 \q2 but if there are many \add good\add* advisors, the nation remains secure.
 \b
@@ -64,8 +64,8 @@ himself\add*, you will regret it.
 \q2 You will be safe if you refuse to guarantee that you will pay someone else's debts.
 \b
 \q
-\v 16 People honor/respect women who are kind/gracious; 
-\q2 ruthless/violent people may get a lot of money, but that is all that they will get.
+\v 16 People honor\f + \ft Or: respect \f* women who are kind\f + \ft Or: gracious \f*; 
+\q2 ruthless\f + \ft Or: violent \f* people may get a lot of money, but that is all that they will get.
 \b
 \q
 \v 17 Those who are kind benefit themselves \add because others will be kind to
@@ -80,7 +80,7 @@ them\add*.
 forever\add*. 
 \b
 \q
-\v 19 Those who always do what is right will live \add a long/happy
+\v 19 Those who always do what is right will live \add a long\f + \ft Or: happy \f*
 life\add*, 
 \q2 but those who insist on doing what is wrong will not live \add very
 long\add*. 
@@ -94,8 +94,8 @@ long\add*.
 \q2 and that righteous people will escape \add from being punished\add*.
 \b
 \q
-\v 22  \add It is\add* ◄\add unsuitable/not proper/disgusting\add*► for a beautiful woman not to know what is right to do,
-\q2 like \f + \fk simile \f* \add it is unsuitable/disgusting\add* for a pig to have a gold ring in its snout/nose.
+\v 22  \add It is\add* ◄\add unsuitable\f + \ft Or: not \f* proper\f + \ft Or: disgusting \f*\add*► for a beautiful woman not to know what is right to do,
+\q2 like \\f + \\ft simile \\f* \add it is unsuitable\f + \ft Or: disgusting \f*\add* for a pig to have a gold ring in its snout\f + \ft Or: nose \f*.
 \b
 \q
 \v 23 When the things that righteous people want happen, it brings good
@@ -110,11 +110,11 @@ long\add*.
 \b
 \q
 \v 25 Those who give generously to others will prosper; 
-\q2 if you help others, they/someone will help you, too. 
+\q2 if you help others, they\f + \ft Or: someone \f* will help you, too. 
 \b
 \q
-\v 26 People curse/despise someone who hoards his grain \add and does not sell
-it\add*, waiting to get a higher/bigger price for it, 
+\v 26 People curse\f + \ft Or: despise \f* someone who hoards his grain \add and does not sell
+it\add*, waiting to get a higher\f + \ft Or: bigger \f* price for it, 
 \q2 but they praise someone who sells it \add when people need it, even when the price is not
 high\add*. 
 \b
@@ -129,7 +129,7 @@ high\add*.
 \add in the summer\add*. 
 \b
 \q
-\v 29 Those who bring troubles to their families will inherit nothing \f + \fk metaphor \f*
+\v 29 Those who bring troubles to their families will inherit nothing \\f + \\ft metaphor \\f*
 \add from them\add*, 
 \q2 and those who do foolish things \add like that\add* will some day become the servants of wise people.
 \b
@@ -140,4 +140,4 @@ live with them) \f*.
 \b
 \q
 \v 31  \add Sometimes\add* righteous people are rewarded here on the earth,
-\q2 but it is much more certain that very wicked people \f + \fk doublet \f* will be rewarded by being punished.
+\q2 but it is much more certain that very wicked people \\f + \\ft doublet \\f* will be rewarded by being punished.

@@ -6,7 +6,7 @@
 \q I want the world and everything that is in it to hear what I say.
 \q
 \v 2 Yahweh is angry with the people of all nations; 
-\q2 he is ◄furious/very angry► with all their armies. 
+\q2 he is ◄furious\f + \ft Or: very \f* angry► with all their armies. 
 \q He has decided that they must be destroyed, 
 \q2 and he will slaughter them. 
 \q
@@ -14,15 +14,15 @@
 \q2 and as a result their corpses will stink, 
 \q2 and their blood will \add fill the streams that\add* flow down the mountains.
 \q
-\v 4 The sky will disappear like \f + \fk simile \f* a scroll that is rolled up
+\v 4 The sky will disappear like \\f + \\ft simile \\f* a scroll that is rolled up
 \add and thrown away\add*. 
 \q2 Stars will fall from the sky 
-\q like \f + \fk simile \f* \add withered\add* leaves fall from grapevines, 
-\q2 or like \f + \fk simile \f* shriveled figs fall from fig trees. 
+\q like \\f + \\ft simile \\f* \add withered\add* leaves fall from grapevines, 
+\q2 or like \\f + \\ft simile \\f* shriveled figs fall from fig trees. 
 \q
 \v 5 When Yahweh has finished his work of destroying objects in the sky,
 \q2 he will punish \add the people of\add* Edom, 
-\q2 the people-group that he has said must be destroyed/exterminated.
+\q2 the people-group that he has said must be destroyed\f + \ft Or: exterminated \f*.
 \q
 \v 6  \add It is as though\add* Yahweh has a sword that is covered with blood and fat—
 \q2 the blood of lambs and goats 
@@ -39,7 +39,7 @@
 \v 8 That will be the time when Yahweh gets revenge 
 \q2 for what those people did to the people of Judah. 
 \q
-\v 9 The streams in Edom will be full of burning pitch/tar, 
+\v 9 The streams in Edom will be full of burning pitch\f + \ft Or: tar \f*, 
 \q2 and the ground will be covered with burning sulfur. 
 \q
 \v 10 Yahweh will never finish punishing Edom with fire; 
@@ -55,16 +55,16 @@
 \q2 the people who have authority will have no kingdom to rule. 
 \q
 \v 13 The deserted palaces and fortified buildings will be full of thorns and thistles.
-\q The ruins will be a place for jackals/wolves and owls to live.
+\q The ruins will be a place for jackals\f + \ft Or: wolves \f* and owls to live.
 \q
-\v 14 Animals that live in the desert and hyenas/wolves will be there,
-\q2 and wild goats will bleat/call to each other. 
-\q There will also be creatures/animals that \add roam around\add* at night.
+\v 14 Animals that live in the desert and hyenas\f + \ft Or: wolves \f* will be there,
+\q2 and wild goats will bleat\f + \ft Or: call \f* to each other. 
+\q There will also be creatures\f + \ft Or: animals \f* that \add roam around\add* at night.
 \q
 \v 15 Owls will make their nests there and lay their eggs in the nests;
 \q2 and when the eggs hatch, the mother birds will cover them \add with their
 wings\add*. 
-\q There will also be falcons/hawks there, 
+\q There will also be falcons\f + \ft Or: hawks \f* there, 
 \q2 each with its mate. 
 \b
 \p

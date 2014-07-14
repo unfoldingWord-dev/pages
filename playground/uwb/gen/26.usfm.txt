@@ -1,7 +1,7 @@
 \c 26  
 \s Isaac deceived King Abimelech 
 \p
-\v 1 Some time later there was a severe ◄famine/scarcity of food► in the land. That was different from the famine that occurred
+\v 1 Some time later there was a severe ◄famine\f + \ft Or: scarcity \f* of food► in the land. That was different from the famine that occurred
 when Abraham was alive. So Isaac went \add southeast\add* to Gerar
 \add town\add*, to talk to Abimelech, the king of the Philistine people-group. What happened was this: Isaac considered going
 to Egypt, 
@@ -9,7 +9,7 @@ to Egypt,
 \v 3 Stay in this land for a while, and I will help you and bless you, because it is to you and your descendants that I will
 give all these lands, and I will do what I solemnly promised to your father.
 \v 4 I will cause your descendants to be as numerous as the stars in the sky. I will give to your descendants all these lands,
-and I will cause your descendants to be a blessing to the people of \f + \fk metonymy \f* all nations on the earth.
+and I will cause your descendants to be a blessing to the people of \\f + \\ft metonymy \\f* all nations on the earth.
 \v 5 I will do that because Abraham obeyed me. He obeyed all that I told him to do, all that I commanded him to do, all that I
 declared and all the laws that I gave him.” 
 \p Isaac went and asked King Abimelech if he would permit him to live in the Gerar area. The king said, “Okay,”
@@ -23,9 +23,9 @@ but if I say that she is my wife, no negotiation is possible\add* right away. Th
 window in his palace and was surprised to see Isaac caressing his wife Rebekah.
 \v 9 So Abimelech summoned Isaac and said to him, “Now I realize that she is really your wife! So why did you say, ‘She is my
 sister’?” Isaac replied to him, “I said that because I thought that someone here might kill me to get her.”
-\v 10 Abimelech said, “◄You should not have done this to us!/Why did you do this?► \f + \fk rhetorical question \f* One of our people might have ◄had sex
-with/slept with► \f + \fk euphemism \f* your wife, and you would have caused us to be guilty of a great sin!”
-\v 11 Then Abimelech commanded all his people, saying, “Do not harm/molest this man or his wife! Anyone who does that will
+\v 10 Abimelech said, “◄You should not have done this to us!\f + \ft Or: Why \f* did you do this?► \\f + \\ft rhetorical question \\f* One of our people might have ◄had sex
+with\f + \ft Or: slept \f* with► \\f + \\ft euphemism \\f* your wife, and you would have caused us to be guilty of a great sin!”
+\v 11 Then Abimelech commanded all his people, saying, “Do not harm\f + \ft Or: molest \f* this man or his wife! Anyone who does that will
 surely be executed!” 
 \s The Philistines argued with Abraham about wells 
 \p
@@ -40,7 +40,7 @@ with dirt.
 filled them up with dirt after Abraham died. Now Isaac and his servants took the dirt out, and Isaac gave the wells the same
 names that his father had given to them. 
 \v 19 Isaac's servants dug in the valley and discovered a well of fresh water.
-\v 20 But the men who lived in Gerar Valley who took care of their animals argued/quarreled with the men who took care of
+\v 20 But the men who lived in Gerar Valley who took care of their animals argued\f + \ft Or: quarreled \f* with the men who took care of
 Isaac's animals, and said, “The water in this well is ours!” So Isaac named the well Esek, which means 'dispute,' because they
 disputed about who owned it. 
 \v 21 Then Isaac's servants dug another well, but they quarreled about who owned that one also. So Isaac named it Sitnah, which
@@ -59,14 +59,14 @@ servants started to dig a well.
 \p
 \v 26 While they were digging the well, King Abimelech came to Isaac from Gerar, along with Ahuzzath, his advisor, and Phicol,
 the commander of his army. 
-\v 27 Isaac asked them, “You ◄acted in a hostile way toward me/treated me like an enemy► before, and sent me away. So why have
+\v 27 Isaac asked them, “You ◄acted in a hostile way toward me\f + \ft Or: treated \f* me like an enemy► before, and sent me away. So why have
 you come to me now?” 
 \v 28 One of them answered, “We have seen that Yahweh helps you. So we said to each other, ‘We should have an agreement between
 us and you. We should make a peace treaty with you, 
-\v 29 stating that you will not harm us, in the same way that we did not molest \f + \fk euphemism \f* you.’ We always treated you well and sent
+\v 29 stating that you will not harm us, in the same way that we did not molest \\f + \\ft euphemism \\f* you.’ We always treated you well and sent
 you away peacefully. And now Yahweh is blessing you.” 
 \v 30 So Isaac made a feast for them, and they all ate and drank.
-\v 31 Early the next morning they all ◄swore/solemnly promised► to each other that they would do what they had promised. Then
+\v 31 Early the next morning they all ◄swore\f + \ft Or: solemnly \f* promised► to each other that they would do what they had promised. Then
 Isaac sent them home peacefully. 
 \p
 \v 32 That day Isaac's servants came to him and told him about the well that they had finished digging. They said, “We found

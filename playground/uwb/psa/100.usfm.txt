@@ -6,9 +6,9 @@
 \v 2 We should worship Yahweh gladly! 
 \q2 We should come before him singing joyful songs. 
 \q
-\v 3 We should acknowledge/recognize that Yahweh is God; 
+\v 3 We should acknowledge\f + \ft Or: recognize \f* that Yahweh is God; 
 \q2 it is he who made us, and so we belong to him. 
-\q2 We are the people that he takes care of \f + \fk metaphor \f*; 
+\q2 We are the people that he takes care of \\f + \\ft metaphor \\f*; 
 \q2 we are like sheep that are cared for by their shepherd. 
 \b
 \q
@@ -18,4 +18,4 @@
 \q
 \v 5 because Yahweh always \add does\add* good \add things for us\add*.
 \q2 He faithfully loves us, 
-\q2 and ◄is faithful/is loyal to us forever/will never forsake us►.
+\q2 and ◄is faithful\f + \ft Or: is \f* loyal to us forever\f + \ft Or: will \f* never forsake us►.

@@ -87,7 +87,7 @@ Mountain\add*
 \q The tribe descended from Asher sat by the seashore. 
 \q They stayed in their coves. 
 \q
-\v 18 But men from the tribe descended from Zebulun risked ◄their lives/were ready to die fighting► on the battlefield,
+\v 18 But men from the tribe descended from Zebulun risked ◄their lives\f + \ft Or: were \f* ready to die fighting► on the battlefield,
 \q2 and men descended from Naphtali were ready to do that, also.
 \b
 \q
@@ -118,7 +118,7 @@ Mountain\add*
 \q
 \v 25 Sisera asked for some water, 
 \q2 and Jael gave him some milk. 
-\q She brought him some yogurt/curds in a bowl that was suitable for kings.
+\q She brought him some yogurt\f + \ft Or: curds \f* in a bowl that was suitable for kings.
 \q
 \v 26 Then, \add when he was asleep\add*, she reached for a tent peg with her left hand,
 \q2 and she reached for a hammer with her right hand. 

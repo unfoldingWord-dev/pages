@@ -2,19 +2,19 @@
 \s A psalm written by David 
 \q
 \v 1 Yahweh, I will sing to you! 
-\q I will sing about \add your\add* faithfully loving \add us\add* \f + \ft (OR, my being loyal to you and acting justly/fairly
+\q I will sing about \add your\add* faithfully loving \add us\add* \f + \ft (OR, my being loyal to you and acting justly\f + \ft Or: fairly \f*
 \add toward people\add*). 
 \q
-\v 2  \add I promise that\add* while I rule people \f + \fk metonymy \f*, 
+\v 2  \add I promise that\add* while I rule people \\f + \\ft metonymy \\f*, 
 \q2 I will behave in such a way that no one will be able to criticize me.
-\q2 Yahweh, ◄when will you come to \add help\add* me?/I need you to come to
-\add help\add* me.► \f + \fk rhetorical question \f* 
+\q2 Yahweh, ◄when will you come to \add help\add* me?\f + \ft Or: I \f* need you to come to
+\add help\add* me.► \\f + \\ft rhetorical question \\f* 
 \q I will do things that are right. 
 \b
 \q
-\v 3 I will not allow anyone who does what is evil to come to me \f + \fk synecdoche \f*.
-\q I hate the deeds of those who ◄\add turn away from/sin against\add*► you;
-\q2 I will ◄completely avoid those people/not allow those people to come near me►.
+\v 3 I will not allow anyone who does what is evil to come to me \\f + \\ft synecdoche \\f*.
+\q I hate the deeds of those who ◄\add turn away from\f + \ft Or: sin \f* against\add*► you;
+\q2 I will ◄completely avoid those people\f + \ft Or: not \f* allow those people to come near me►.
 \b
 \q
 \v 4 I will not be dishonest, 
@@ -22,13 +22,13 @@
 \b
 \q
 \v 5 I will get rid of anyone who secretly slanders someone else,
-\q and I will not ◄tolerate/allow to be near me► anyone who is proud and arrogant \f + \fk doublet \f*.
+\q and I will not ◄tolerate\f + \ft Or: allow \f* to be near me► anyone who is proud and arrogant \\f + \\ft doublet \\f*.
 \b
 \q
-\v 6 I will approve of [IDI] people in this land who ◄are loyal to/faithfully
+\v 6 I will approve of [IDI] people in this land who ◄are loyal to\f + \ft Or: faithfully \f*
 \add obey\add*► \add God\add*, 
-\q and I will allow them to ◄live with/work for► me. 
-\q2 I will allow those who behave in such a way that no one can criticize them to ◄serve me/be my officials►.
+\q and I will allow them to ◄live with\f + \ft Or: work \f* for► me. 
+\q2 I will allow those who behave in such a way that no one can criticize them to ◄serve me\f + \ft Or: be \f* my officials►.
 \b
 \q
 \v 7 I will not allow anyone who deceives others to work in my palace,

@@ -2,16 +2,16 @@
 \s Israel's only Savior 
 \q
 \v 1 But now, you people of Israel, listen to Yahweh, the one who established your nation.
-\q2 The one who caused you to become a nation \f + \fk doublet \f* says this: 
+\q2 The one who caused you to become a nation \\f + \\ft doublet \\f* says this: 
 \q “Do not be afraid, 
 \q2 because I previously rescued you. 
-\q I enabled you to have a personal relationship with me \f + \fk metonymy \f*, and you belong to me.
+\q I enabled you to have a personal relationship with me \\f + \\ft metonymy \\f*, and you belong to me.
 \q
 \v 2 When you \add experience dangerous situations\add*, 
-\q and \add you feel like\add* \f + \fk metaphor \f* you are crossing deep rivers,
+\q and \add you feel like\add* \\f + \\ft metaphor \\f* you are crossing deep rivers,
 \q2 I will be with you. 
-\q When you have very big troubles/difficulties, 
-\q2 you will \f + \fk litotes \f* be able to endure them. 
+\q When you have very big troubles\f + \ft Or: difficulties \f*, 
+\q2 you will \\f + \\ft litotes \\f* be able to endure them. 
 \q When \add people try to kill you like they tried to kill Daniel's three friends
 by\add* throwing them in a fire, 
 \q2 you will not \add die, just like Daniel's three friends were
@@ -26,7 +26,7 @@ Arabia\add* in order that you can be saved.
 \v 4 I will cause other countries to be conquered instead of your country;
 \q2 I will trade them for you, 
 \q2 in order that you will not be killed, 
-\q because you are very precious \f + \fk doublet \f* to me 
+\q because you are very precious \\f + \\ft doublet \\f* to me 
 \q2 and because I love you. 
 \q
 \v 5 Do not be afraid, because I am with you. 
@@ -36,9 +36,9 @@ Arabia\add* in order that you can be saved.
 \q2 ‘Allow all the people of Israel to return \add to their country\add*,
 \q2 from the most distant places on the earth. 
 \q
-\v 7 Allow all those who belong to me \f + \fk metonymy \f* to return, 
+\v 7 Allow all those who belong to me \\f + \\ft metonymy \\f* to return, 
 \q2 because I have caused them to become a nation in order that they would honor me;
-\q2 I am the one who has done that \f + \fk doublet \f*.’ 
+\q2 I am the one who has done that \\f + \\ft doublet \\f*.’ 
 \q
 \v 8 Summon the people who have eyes but \add it is as though\add* they are blind;
 \q2 summon those who have ears but \add because they do not listen to me, it is as
@@ -52,7 +52,7 @@ though\add* they are deaf.
 \q2 and what they predicted was what happened,’ 
 \q2 \add but they will be lying\add*.” 
 \q
-\v 10 But Yahweh says, “You people of Israel ◄are my witnesses/know what I have done►,
+\v 10 But Yahweh says, “You people of Israel ◄are my witnesses\f + \ft Or: know \f* what I have done►,
 \q2 and you are the ones who serve me. 
 \q I chose you in order that you would know me, believe in me, 
 \q2 and understand that I am the only one who is \add truly\add* God.
@@ -71,7 +71,7 @@ it\add*.
 \q2
 \v 13 I am God, the one who has existed forever and who will exist forever;
 \q no one can snatch people from my hand, 
-\q2 and no one can alter/change what I have done.” 
+\q2 and no one can alter\f + \ft Or: change \f* what I have done.” 
 \s God promises to rescue his people from Babylon 
 \q
 \v 14 Yahweh, the Holy One of Israel, is the one who rescues you; and this is what he says:
@@ -88,17 +88,17 @@ it\add*.
 \q2 to come with all their chariots and horses. 
 \q \add But when they tried to pursue my people\add*, 
 \q I caused the waves to flow over them \add and they drowned\add*;
-\q2 their lives ended \add like the light of a candle ends when someone\add* \f + \fk metaphor \f* snuffs out the wick.
+\q2 their lives ended \add like the light of a candle ends when someone\add* \\f + \\ft metaphor \\f* snuffs out the wick.
 \q
-\v 18 But do not think \add only\add* about what happened in the past, long ago \f + \fk doublet \f*.
+\v 18 But do not think \add only\add* about what happened in the past, long ago \\f + \\ft doublet \\f*.
 \q
 \v 19 Instead, consider the new thing that I am going to do. 
 \q2 I have already started to do it; 
 \q2 can you see it? 
 \q I am going to make a road through the desert. 
-\q2 And I will cause there to be streams in the wasteland/desert.
+\q2 And I will cause there to be streams in the wasteland\f + \ft Or: desert \f*.
 \q
-\v 20 The jackals/wolves and owls and other wild creatures will thank me
+\v 20 The jackals\f + \ft Or: wolves \f* and owls and other wild creatures will thank me
 \q2 for giving them water in the desert. 
 \q I will cause streams to appear in the dry desert 
 \q2 in order that my people, the ones whom I have chosen, will have water;
@@ -121,7 +121,7 @@ you\add* to bring to me were not a burden to you.
 \q2 and you have brought me the fat from your sacrifices. 
 \q But these have not pleased me, 
 \q2 because you have burdened me by all the sins that you have committed,
-\q2 and made me weary because of all ◄your iniquities/the wrong things that you have done►.
+\q2 and made me weary because of all ◄your iniquities\f + \ft Or: the \f* wrong things that you have done►.
 \b
 \q
 \v 25 I am the one who is able to forgive you for all your sins;
@@ -129,7 +129,7 @@ you\add* to bring to me were not a burden to you.
 \q2 with the result that I will never think about them again. 
 \q
 \v 26 Tell me what I have done that you do not like. 
-\q2 Do you think that when you state your case, you will prove that you ◄are innocent/have done nothing wrong► \f + \fk irony \f*?
+\q2 Do you think that when you state your case, you will prove that you ◄are innocent\f + \ft Or: have \f* done nothing wrong► \\f + \\ft irony \\f*?
 \q
 \v 27 No, \add what has happened is that\add* the first ancestor of you Israelis' sinned
 \add against me\add*, 

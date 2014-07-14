@@ -23,14 +23,14 @@ Jerusalem\add*.
 \p
 \v 7 David said to him, “Do not be afraid; I will be kind to you because Jonathan your father
 \add was my friend was\add*. I will give back to you all the land that belonged to your grandfather Saul. And
-\add I want\add* you to always eat with me at my house \f + \fk metonymy \f*.” 
+\add I want\add* you to always eat with me at my house \\f + \\ft metonymy \\f*.” 
 \p
 \v 8 Mephibosheth bowed \add in front of David again\add* and said, “Sir, I am
-\add as worthless as\add* \f + \fk metaphor \f* a dead dog; I do not deserve \f + \fk rhetorical question \f* that you act kindly toward me!”
+\add as worthless as\add* \\f + \\ft metaphor \\f* a dead dog; I do not deserve \\f + \\ft rhetorical question \\f* that you act kindly toward me!”
 \p
 \v 9 Then the king summoned Saul's servant Ziba and said to him, “Saul was your master; now I am giving to Mephibosheth
 everything that belonged to Saul and his family. 
-\v 10 You and your fifteen sons and your twenty servants must till/plow the land for Mephibosheth's
+\v 10 You and your fifteen sons and your twenty servants must till\f + \ft Or: plow \f* the land for Mephibosheth's
 \add family\add*, and \add plant crops\add* and harvest them, in order that they will have food to eat. But Mephibosheth will
 eat food with me at my house.” 
 \p
@@ -39,4 +39,4 @@ eat food with me at my house.”
 \p
 \v 12 Mephibosheth had a young son named Mica. All of Ziba's family became servants of Mephibosheth.
 \v 13 And Mephibosheth, who was still crippled in both of his feet, started to live in Jerusalem, and he always ate ◄at the
-king's table/with the king►. 
+king's table\f + \ft Or: with \f* the king►. 

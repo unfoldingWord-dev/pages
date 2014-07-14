@@ -1,10 +1,10 @@
 \c 26  
 \s The people were counted again 
 \p
-\v 1 After the plague \add ended\add*, Yahweh said to Eleazar and Moses/me,
+\v 1 After the plague \add ended\add*, Yahweh said to Eleazar and Moses\f + \ft Or: me \f*,
 \v 2 “Count all the people of Israel \add again\add*. Write down the names of all the men who are at least 20 years old who are
 able to fight \add in battles\add*, along with their family names.”
-\v 3 So while the Israelis were on the plains where the Moab people-group lived, Eleazar and Moses/I told this to the Israeli
+\v 3 So while the Israelis were on the plains where the Moab people-group lived, Eleazar and Moses\f + \ft Or: I \f* told this to the Israeli
 leaders: 
 \v 4 “Write down the names of all the Israeli men who are at least 20 years old, as Yahweh has commanded us.”
 \p \add So they did that\add*, and this is a record of all the descendants of Jacob who came out of Egypt
@@ -14,7 +14,7 @@ leaders:
 Hanoch, Pallu, Hezron, and Carmi. 
 \v 8 Pallu's son was Eliab 
 \v 9 and his grandsons were Nemuel, Dathan and Abiram. Dathan and Abiram were the leaders who joined with Korah to conspire
-against Aaron and Moses/me and rebelled against Yahweh. 
+against Aaron and Moses\f + \ft Or: me \f* and rebelled against Yahweh. 
 \li
 \v 10 But the earth opened up and swallowed them and Korah. Yahweh also sent a fire that burned up 250 men who supported those
 three men. That was a warning \add to all the Israeli people\add* that they should respect and obey the leaders whom Yahweh had
@@ -57,17 +57,17 @@ Shillem.
 \v 51 The total of the Israeli men whom the leaders counted was 601,730.
 \b
 \p
-\v 52 Then Yahweh said to Moses/me, 
+\v 52 Then Yahweh said to Moses\f + \ft Or: me \f*, 
 \v 53 “Divide Canaan land among the tribes. Distribute the land according the number of people in each tribe that are on your
 lists. 
-\v 54-56 Decide by ◄casting lots/throwing stones which are marked► to determine which group will get which area, but give the
+\v 54-56 Decide by ◄casting lots\f + \ft Or: throwing \f* stones which are marked► to determine which group will get which area, but give the
 largest areas to the groups with the most people.” 
 \p
 \v 57 The leaders also counted the male descendants of Levi. They were in clans descended from Gershon, Kohath, and Merari.
 \v 58 These also included people from the clans of Libni, Hebron, Mahli, Mushi, and Korah. All of them were descendants of
 Levi. Kohath was the ancestor of Amram, 
 \v 59 whose wife was Jochebed. She also was a descendant of Levi, but she was born in Egypt. She and Amram had two sons, Aaron
-and Moses/me, and their/our \add older\add* sister Miriam. 
+and Moses\f + \ft Or: me \f*, and their\f + \ft Or: our \f* \add older\add* sister Miriam. 
 \v 60 Aaron's sons were Nadab, Abihu, Eleazar, and Ithamar. 
 \v 61 But Nadab and Abihu died when they burned \add incense for a
 sacrifice\add* to Yahweh in a way that disobeyed what Yahweh had commanded.
@@ -75,10 +75,10 @@ sacrifice\add* to Yahweh in a way that disobeyed what Yahweh had commanded.
 \v 62 The leaders counted 23,000 men from the descendants of Levi who were at least one month old. But these men were not
 counted when the rest of the Israeli people \add were counted\add*, because were not given any land at that time.
 \p
-\v 63 Those were the men whom Eleazar and Moses/I counted. They counted the Israeli people on the plains where the Moab
+\v 63 Those were the men whom Eleazar and Moses\f + \ft Or: I \f* counted. They counted the Israeli people on the plains where the Moab
 people-group lived, on the \add east\add* side of the Jordan River, across from Jericho
 \add city\add*. 
-\v 64 None of the men whom they counted were on the lists that were made by Aaron and Moses/I when the Israelis were in the
+\v 64 None of the men whom they counted were on the lists that were made by Aaron and Moses\f + \ft Or: I \f* when the Israelis were in the
 Sinai Desert, 
 \v 65 because Yahweh had said about them, “They will all die in this desert,”
 \add and that is what happened\add*. The only ones who were still alive were Jephunneh's son Caleb and Nun's son Joshua.

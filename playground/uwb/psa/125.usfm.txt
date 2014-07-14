@@ -1,7 +1,7 @@
 \c 125  
 \s A psalm written for people going up to the temple to worship 
 \q
-\v 1 Those/We who trust in Yahweh are \add as secure/steadfast\add* \f + \fk simile \f* as Zion Hill,
+\v 1 Those\f + \ft Or: We \f* who trust in Yahweh are \add as secure\f + \ft Or: steadfast \f*\add* \\f + \\ft simile \\f* as Zion Hill,
 \q2 which cannot be shaken and can never be moved. 
 \q
 \v 2 Like the hills that surround Jerusalem \add protect the city\add*,
@@ -9,7 +9,7 @@
 \q2 and he will protect us forever. 
 \b
 \q
-\v 3 Wicked people \f + \fk metonymy \f* should not \add be allowed to\add* rule over the land where righteous people live.
+\v 3 Wicked people \\f + \\ft metonymy \\f* should not \add be allowed to\add* rule over the land where righteous people live.
 \q2 If they did that, those righteous people might \add ◄be encouraged to imitate them
 and\add*► do things that are wrong. 
 \b

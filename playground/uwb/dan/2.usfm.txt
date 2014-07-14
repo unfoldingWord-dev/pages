@@ -24,7 +24,7 @@ you. So tell me what I dreamed and what it means!”
 that I would do. 
 \v 9 If you do not tell me what I dreamed, you will be punished.
 \add I think\add* that you have all agreed to tell me lies and other wicked things, because you hope that I will change
-◄\add my mind/what I am thinking\add*►. But tell me the dream, and then I will know that you can also tell me what it means.”
+◄\add my mind\f + \ft Or: what \f* I am thinking\add*►. But tell me the dream, and then I will know that you can also tell me what it means.”
 \p
 \v 10 The men who studied the stars replied to the king, “There is no one on the earth who can do what you ask! There is no
 king, even a great and mighty king, who has ever asked his men who work magic or his fortune-tellers or men who study the stars
@@ -35,18 +35,18 @@ to do something like that!
 \add his soldiers\add* that they execute all such wise men in Babylon.
 \v 13 And because of what the king commanded, they sent some men to find me and my three friends, to execute us also.
 \p
-\v 14 Arioch, the commander of the king's guards, came to kill us. But I spoke to him very wisely and tactfully/skillfully.
-\v 15 I asked Arioch, “Why has the king made such a harsh/terrible decree?” So Arioch told me all that had happened
+\v 14 Arioch, the commander of the king's guards, came to kill us. But I spoke to him very wisely and tactfully\f + \ft Or: skillfully \f*.
+\v 15 I asked Arioch, “Why has the king made such a harsh\f + \ft Or: terrible \f* decree?” So Arioch told me all that had happened
 \add because of the king's dream\add*. 
 \v 16 I immediately went to talk to the king and requested that the king give me some time, so that I could find out
 \add what the dream was and\add* what the dream meant. 
 \p
 \v 17 Then I went home, and I told my friends, Hananiah, Mishael, and Azariah, what had happened.
-\v 18 I urged them to ask God, who lives/rules in heaven, to act mercifully toward us by telling us the secret
+\v 18 I urged them to ask God, who lives\f + \ft Or: rules \f* in heaven, to act mercifully toward us by telling us the secret
 \add meaning of what the king dreamed\add*, in order that we and the other wise men in Babylon would not be executed.
 \v 19 And that night \add God\add* gave to me a vision in which he revealed the secret. Then I praised God,
 \v 20 saying, 
-\q “We should praise God \f + \fk metonymy \f* forever, 
+\q “We should praise God \\f + \\ft metonymy \\f* forever, 
 \q2 because only he truly is wise and powerful. 
 \q
 \v 21 He determines what events will happen through the years. 
@@ -97,11 +97,11 @@ nothing left. But the rock that smashed the statue became a large mountain that 
 \p
 \v 36 That was what you dreamed. Now I will tell you what it means.
 \v 37 You are a king who rules over many other kings. The God who rules in heaven has caused you to rule over them and has
-given you great power \f + \fk doublet \f* and has honored you. 
+given you great power \\f + \\ft doublet \\f* and has honored you. 
 \v 38 He has caused you to be the ruler over all people, and even the animals and birds are controlled by you. So the head
 \add of the statue\add* represents you. 
 \p
-\v 39 But after your kingdom/rule ends, there will be another great kingdom, but it will not be as great as yours.
+\v 39 But after your kingdom\f + \ft Or: rule \f* ends, there will be another great kingdom, but it will not be as great as yours.
 \add The silver parts of the statue represent that kingdom\add*. Then there will be a third great kingdom
 \add whose king\add* will rule over the whole earth. The bronze parts
 \add of the statue represent\add* that kingdom. 
@@ -124,7 +124,7 @@ that is made of iron, bronze, silver, and gold.”
 \p
 \v 46 Then King Nebuchadnezzar prostrated himself in front of me
 \add in great respect\add*. He commanded his people that they burn incense and burn an offering of grain to honor me.
-\v 47 The king said to me, “\add Your God has enabled\add* you to tell me the meaning of this dream/mystery, so now I truly
+\v 47 The king said to me, “\add Your God has enabled\add* you to tell me the meaning of this dream\f + \ft Or: mystery \f*, so now I truly
 know that your God is greater than all the other gods and all other kings. He reveals to people things that they cannot know.”
 \p
 \v 48 Then the king gave many gifts to me, and he also appointed me to rule over the entire province of Babylon, and also to be

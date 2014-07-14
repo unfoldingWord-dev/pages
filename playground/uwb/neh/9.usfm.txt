@@ -1,7 +1,7 @@
 \c 9  
 \s The people confessed their sins 
 \p
-\v 1 On October 31, the people gathered together again. They ◄fasted/abstained from eating food►, they wore clothes made from
+\v 1 On October 31, the people gathered together again. They ◄fasted\f + \ft Or: abstained \f* from eating food►, they wore clothes made from
 rough cloth, and they put dirt on their heads \add to show that they were sorry for their
 sins\add*. 
 \v 2 The Israeli people separated themselves from all the foreigners. They stood there and confessed their sins and the sins
@@ -18,12 +18,12 @@ will live forever!”
 \pi “Yahweh, we praise your glorious name! You are much greater than anything that we can think about or talk about!
 \pi
 \v 6 You only are God. You made the sky and the heavens and all the stars. You made the earth and everything that is on it, and
-you made the seas/oceans and everything that is in them. You are the one who gives life to everything and helps them remain
+you made the seas\f + \ft Or: oceans \f* and everything that is in them. You are the one who gives life to everything and helps them remain
 alive. All the angels who are in heaven worship you. 
 \pi
 \v 7 Yahweh, you are God. You chose Abram and brought him out of Ur
 \add city\add* in Chaldea \add region\add*. You gave him a new name, Abraham.
-\v 8 You saw that he was trustworthy. Then you made ◄an agreement with/a promise to► him, saying that you would give
+\v 8 You saw that he was trustworthy. Then you made ◄an agreement with\f + \ft Or: a \f* promise to► him, saying that you would give
 \add to him and\add* to his descendants the land that the descendants of Canaan, Heth, Amor, Periz, Jebus, and Girgash lived
 in. And you have done what you promised, because you always do what is right.
 \pi
@@ -40,7 +40,7 @@ flaming cloud that gave them light to show them where to walk.
 \pi
 \v 13 When our ancestors were at Sinai Mountain, you came down from heaven and spoke to them. You gave them many regulations
 and instructions that are just and reliable, and you gave them commands and laws that are good.
-\v 14 You taught them about your holy ◄Sabbath/day of rest►, and you gave many kinds of laws to your servant Moses for him to
+\v 14 You taught them about your holy ◄Sabbath\f + \ft Or: day \f* of rest►, and you gave many kinds of laws to your servant Moses for him to
 tell to the people. 
 \v 15 When they were hungry, you gave them manna \add food\add* from the sky; and when they were thirsty, you gave them water
 from a rock. You commanded them to go and take, from the people who lived there, the land which you had solemnly promised to
@@ -62,7 +62,7 @@ a huge pillar continued to lead them during the daytime, and the fiery cloud sho
 \add even though they were continually walking\add*. 
 \pi
 \v 22 You helped our ancestors to defeat armies of great kings who ruled many people-groups. By doing that, you enabled our
-ancestors to ◄occupy/live in► even the most distant places in this land. They occupied the land over which King Sihon ruled
+ancestors to ◄occupy\f + \ft Or: live \f* in► even the most distant places in this land. They occupied the land over which King Sihon ruled
 from Heshbon \add city\add* and the land over which King Og ruled in the Bashan
 \add area\add*. 
 \v 23 You caused our ancestors' descendants to become as numerous as the stars in the sky, and you brought them into this land,
@@ -76,7 +76,7 @@ of houses that were full of good things, where there were wells that were alread
 and groves of olive trees and fruit trees. They ate all that they wanted to and became fat. They were delighted in all these
 good things that you gave to them. 
 \pi
-\v 26 But they disobeyed you and rebelled against you. They ◄turned their backs on/rejected► your laws. They killed the
+\v 26 But they disobeyed you and rebelled against you. They ◄turned their backs on\f + \ft Or: rejected \f*► your laws. They killed the
 prophets who warned them that they should return to you. They badly insulted you.
 \v 27 So you allowed their enemies to defeat them. But when their enemies caused them to suffer, they called out to you. You
 heard them from heaven, and because you are very merciful, you sent them people to help them, and those leaders rescued them
@@ -90,16 +90,16 @@ enemies to conquer them. But whenever they cried out to you again
 your commands. They sinned by disobeying what you commanded them to do, the things that would enable them to live a good long
 life \add if they obeyed them\add*. They stubbornly refused [IDI] to listen to you and continued sinning.
 \v 30 You were patient with them for many years. You warned them by
-\add the messages\add* your Spirit gave to the prophets. But they did not ◄heed/pay attention to► those messages. So again you
+\add the messages\add* your Spirit gave to the prophets. But they did not ◄heed\f + \ft Or: pay \f* attention to► those messages. So again you
 allowed \add the armies of\add* other nations to defeat them. 
 \v 31 But because you act very mercifully, you did not get rid of them completely or abandon them
-\add forever\add*. You are a very gracious/kind and merciful God!
+\add forever\add*. You are a very gracious\f + \ft Or: kind \f* and merciful God!
 \pi
 \v 32 Our God, you are great! You are mighty! You are awesome! You faithfully love us as
-\add you promised in\add* your agreement with us that you would do! But now we are experiencing great difficulties/hardships.
+\add you promised in\add* your agreement with us that you would do! But now we are experiencing great difficulties\f + \ft Or: hardships \f*.
 These have happened to us, to our kings, to our \add other\add* leaders, to our priests, and to our prophets. We have been
 experiencing these troubles since \add the armies of\add* the kings of Assyria
-\add conquered us\add*, and we are still experiencing them. We ask that you sincerely think about \f + \fk litotes \f* all these things.
+\add conquered us\add*, and we are still experiencing them. We ask that you sincerely think about \\f + \\ft litotes \\f* all these things.
 \v 33  \add We know that\add* you acted justly each time that you punished us. We have sinned greatly, but you have treated us
 faithfully. 
 \v 34 Our kings and other leaders and our priests and our other ancestors did not obey your laws. They did not heed your
@@ -111,10 +111,10 @@ that you gave to them, they did not serve you. They refused to quit doing what w
 order that they could enjoy all the good things that grow here. 
 \v 37 Because we have sinned, \add we cannot eat the things that grow
 here\add*. The kings that now rule over us are enjoying the things that grow here. They rule us and
-\add take\add* our cattle. We have to serve them and do the things that please them. We are in great misery/distress.”
+\add take\add* our cattle. We have to serve them and do the things that please them. We are in great misery\f + \ft Or: distress \f*.”
 \s The people's agreement 
 \p
-\v 38 However, we \add Israeli\add* people now are making a solemn agreement/promise
-\add to obey you\add*, and we are writing this agreement/promise
+\v 38 However, we \add Israeli\add* people now are making a solemn agreement\f + \ft Or: promise \f*
+\add to obey you\add*, and we are writing this agreement\f + \ft Or: promise \f*
 \add on a scroll\add*. We will write on it the names of our leaders and the names of the Levites and the names of the priests,
 and then we will seal it. 

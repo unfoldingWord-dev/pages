@@ -4,19 +4,19 @@
 \v 1 God gathers all the \add rulers and judges who think they are\add* gods for a meeting in heaven;
 \q2 and he tells them that he has decided this: 
 \q
-\v 2 “You must \f + \fk rhetorical question \f* stop judging people unfairly; 
+\v 2 “You must \\f + \\ft rhetorical question \\f* stop judging people unfairly; 
 \q you must no longer make decisions that favor wicked people! 
 \qr (Think about that!) 
 \q
 \v 3 You must defend people who are poor and orphans; 
 \q2 you must act fairly toward those who are needy and those who have no one to help them.
 \q
-\v 4 Rescue them from the power \f + \fk metonymy \f* of evil people \f + \fk doublet \f*!” 
+\v 4 Rescue them from the power \\f + \\ft metonymy \\f* of evil people \\f + \\ft doublet \\f*!” 
 \b
 \q
 \v 5  \add Those rulers\add* do not know or understand anything!
-\q2 They are very corrupt/evil, 
-\q2 and \add as a result of their corrupt/evil behavior\add*, 
+\q2 They are very corrupt\f + \ft Or: evil \f*, 
+\q2 and \add as a result of their corrupt\f + \ft Or: evil \f* behavior\add*, 
 \q2 \add it is as though\add* the foundation of the world is being shaken!
 \b
 \q
@@ -27,5 +27,5 @@
 \q2 your lives will end, like the lives of all rulers end.” 
 \b
 \q
-\v 8 God, arise and judge \add everyone on\add* \f + \fk metonymy \f* the earth,
+\v 8 God, arise and judge \add everyone on\add* \\f + \\ft metonymy \\f* the earth,
 \q2 because all the people-groups belong to you! 

@@ -3,7 +3,7 @@
 \s On the basis of all that I have told you, continue to believe firmly in the Lord Jesus Christ according to what I have just
 taught you, and act accordingly. 
 \p
-\v 1 My fellow believers, I love you, and I long for you. You make me happy \f + \fk metonymy \f*, and I am ◄proud of/pleased with► you. Dear
+\v 1 My fellow believers, I love you, and I long for you. You make me happy \\f + \\ft metonymy \\f*, and I am ◄proud of\f + \ft Or: pleased \f* with► you. Dear
 friends, on the basis \add of all that I have told you\add*, continue to believe firmly in the Lord according to what I have
 just taught you. 
 \s Philippians 4:2-3 
@@ -12,7 +12,7 @@ faithfully together with me and my other fellow workers.
 \p
 \v 2 I urge \add you(sg)\add*, Euodia, and I urge \add you(sg)\add*, Syntyche, to again have a peaceful relationship with each
 other, \add because you both have a relationship with\add* the Lord.
-\v 3 And, my faithful comrade/partner, I request that you\add (sg)\add* help them
+\v 3 And, my faithful comrade\f + \ft Or: partner \f*, I request that you\add (sg)\add* help them
 \add to again have a peaceful relationship with each other\add*, because they have
 \add faithfully proclaimed\add* the message \add about Christ\add* together with me,
 \add even though many people\add* have opposed us\add (exc)\add*. They have faithfully proclaimed that message together with
@@ -27,10 +27,10 @@ God will grant you profound peace.
 \v 5  \add Act in such a way that\add* everyone can know that you are gentle. The Lord is near \f + \ft (OR, coming soon).
 \v 6 Do not worry about anything. Instead, in every situation, pray
 \add to God\add*, tell him what you need, and ask him \add to help
-you\add* \f + \fk doublet \f*. Also thank \add him for what he does for you\add*.
-\v 7 As a result, God will enable you not to worry \add about anything\add* \f + \fk metonymy \f* (OR, God will protect your minds
-\add in every way\add*) \f + \fk personification \f*. \add That is\add*, he will cause you to have
-\add inner\add* peace \add because you have a relationship with\add* Christ Jesus. You will not be able to understand \f + \fk personification \f*
+you\add* \\f + \\ft doublet \\f*. Also thank \add him for what he does for you\add*.
+\v 7 As a result, God will enable you not to worry \add about anything\add* \\f + \\ft metonymy \\f* (OR, God will protect your minds
+\add in every way\add*) \\f + \\ft personification \\f*. \add That is\add*, he will cause you to have
+\add inner\add* peace \add because you have a relationship with\add* Christ Jesus. You will not be able to understand \\f + \\ft personification \\f*
 \add how you can be so peaceful in such difficult circumstances!\add*
 \s Philippians 4:8-9 
 \s Continually think about everything that is good and praiseworthy. Continually practice whatever you have learned from me. As
@@ -43,13 +43,13 @@ think about.
 \v 9 Those things that I have taught you and that you have received from me, those things that you have heard me
 \add say\add* and that you have seen me \add do\add*, those are the things that you yourselves should continually do. As a
 result \add of your doing those things\add*, God, the one who \add causes us
-to\add* have \add inner\add* peace, will ◄be with/bless► you. 
+to\add* have \add inner\add* peace, will ◄be with\f + \ft Or: bless \f*► you. 
 \s Philippians 4:10-14 
 \s I rejoice greatly because you have once again demonstrated your concern for me by giving to meet my needs, though it is true
 that Christ enables me to be content in every situation. 
 \p
 \v 10 I rejoice greatly \add and thank\add* the Lord because now, after some time,
-\add by sending money to me\add* you have once again shown that you are concerned about me \f + \fk euphemism \f*. Indeed, you were concerned
+\add by sending money to me\add* you have once again shown that you are concerned about me \\f + \\ft euphemism \\f*. Indeed, you were concerned
 about me \add all the time\add*, but you had no opportunity \add to show that you were concerned about
 me\add*. 
 \v 11 I am saying this not because I \add am concerned that I\add* lack things
@@ -57,39 +57,39 @@ me\add*.
 \add situation\add* I am. 
 \v 12  \add Specifically\add*, I know how \add to be content when\add* I do not have what I need, and I know how
 \add to be content when\add* I have plenty. I have learned how \add to be
-content\add* in any and every \add situation\add* \f + \fk doublet \f*. \add Specifically\add*, I have learned how
+content\add* in any and every \add situation\add* \\f + \\ft doublet \\f*. \add Specifically\add*, I have learned how
 \add to be content when\add* I have enough to eat, and I have learned how
 \add to be content when\add* I do not have enough to eat. I have learned how
-\add to be content when\add* I have plenty \f + \fk doublet \f* \add of what I need\add*, and I have learned
+\add to be content when\add* I have plenty \\f + \\ft doublet \\f* \add of what I need\add*, and I have learned
 \add how to be content when\add* I lack \add things\add*. 
-\v 13 I am able ◄to cope with/to handle► every situation because
+\v 13 I am able ◄to cope with\f + \ft Or: to \f* handle► every situation because
 \add Christ\add* gives me the strength to do that. 
 \v 14 Nevertheless, you did very well in that you \add helped me\add* (OR,
-\add gave me money\add*) \f + \fk euphemism \f* while I have been suffering hardship.
+\add gave me money\add*) \\f + \\ft euphemism \\f* while I have been suffering hardship.
 \s Philippians 4:15-17 
 \s You Philippians know that in the early days of preaching the good news in your region you were the only congregation that
 sent me money. I do not say this because I desire your gifts, but I desire that God would abundantly bless you for aiding me.
 \p
 \v 15  \add My friends there at Philippi\add*, you yourselves know that during the time I first
 \add proclaimed\add* the message about Christ \add to you\add*, when I left there to go to Macedonia
-\add province\add*, you were the only group of believers \f + \fk litotes \f* who
-\add sent me\add* gifts \f + \fk euphemism \f* in order that I might \add proclaim that
+\add province\add*, you were the only group of believers \\f + \\ft litotes \\f* who
+\add sent me\add* gifts \\f + \\ft euphemism \\f* in order that I might \add proclaim that
 message\add* to others just like I did for you. 
 \v 16 Even \add when I was\add* in Thessalonica \add city\add*, you sent
-\add money\add* \f + \fk euphemism \f* to me two different times \f + \fk idiom \f* in order to
+\add money\add* \\f + \\ft euphemism \\f* to me two different times \\f + \\ft idiom \\f* in order to
 \add supply\add* what I needed. 
 \v 17 I say this, not because I desire that you give me money now. Instead, I desire that
-\add God\add* will abundantly bless \f + \fk metaphor \f* you as a result of \add your helping
+\add God\add* will abundantly bless \\f + \\ft metaphor \\f* you as a result of \add your helping
 me\add*. 
 \s Philippians 4:18-20 
 \s I have received your very generous gift; God is very pleased with this gift, and he will abundantly supply your every need
 also. Let us praise him forever. 
 \p
-\v 18 I have received a very generous \add gift\add* \f + \fk euphemism \f* \add from
+\v 18 I have received a very generous \add gift\add* \\f + \\ft euphemism \\f* \add from
 you\add*, and \add as a result\add*, I have plenty. I have an abundant supply
-\add of what I need because\add* I have received from Epaphroditus the money \f + \fk euphemism \f* that you
+\add of what I need because\add* I have received from Epaphroditus the money \\f + \\ft euphemism \\f* that you
 \add sent to me\add*. God considers that your gift is very acceptable, and he is very pleased with it.
-\add Your gift is like\add* a nice-smelling sacrifice \f + \fk metaphor \f*. 
+\add Your gift is like\add* a nice-smelling sacrifice \\f + \\ft metaphor \\f*. 
 \v 19  \add Moreover\add*, God, \add whom\add* I \add serve\add*, has an unlimited supply
 \add of everything that we(inc) need\add*. And as a result, because of your relationship with Christ Jesus, he will completely
 supply everything that you need. 
@@ -98,7 +98,7 @@ supply everything that you need.
 \s All of God's people here, including those who serve God with me and those who work at the emperor's palace, join me in
 greeting each one of God's people there. 
 \p
-\v 21 Greet \add for me/us(exc)\add* all of God's people \add there, that is, all those who have a relationship
+\v 21 Greet \add for me\f + \ft Or: us \f*(exc)\add* all of God's people \add there, that is, all those who have a relationship
 with\add* Christ Jesus. The fellow believers who \add serve God together\add* with me here send their greetings to you (OR, say
 they are thinking fondly of you) \f*. 
 \v 22 All of God's people \add here\add* send their greetings to you. Especially the
@@ -107,4 +107,4 @@ they are thinking fondly of you) \f*.
 \s May the Lord Jesus Christ bless you. 
 \p
 \v 23 My desire is\add that our\add* Lord Jesus Christ \add will continue
-to\add* act kindly toward you all \f + \fk synecdoche \f*. 
+to\add* act kindly toward you all \\f + \\ft synecdoche \\f*. 

@@ -3,14 +3,14 @@
 \s The Holy Spirit commanded Barnabas and Saul to go on a mission.
 \p
 \v 1 Among \add the people in\add* the congregation at Antioch \add in Syria
-province\add* there were ◄prophets/those who spoke messages from God► and those who taught
-\add people about Jesus. They were\add* Barnabas; Simeon, who was also called Niger/Blackman; Lucius, from Cyrene
+province\add* there were ◄prophets\f + \ft Or: those \f* who spoke messages from God► and those who taught
+\add people about Jesus. They were\add* Barnabas; Simeon, who was also called Niger\f + \ft Or: Blackman \f*; Lucius, from Cyrene
 \add city\add*; Manaen, who had grown up with \add King\add* Herod
 \add Antipas\add*; and Saul. 
 \v 2 While they were worshipping the Lord and fasting, the Holy Spirit said
 \add to them\add*, “Appoint Barnabas and Saul to \add serve\add* me and to
 \add go and do\add* the work that I have chosen them \add to do\add*!”
-\v 3 So they continued ◄to fast/to abstain from eating food► and pray. Then having put their hands on Barnabas and Saul and
+\v 3 So they continued ◄to fast\f + \ft Or: to \f* abstain from eating food► and pray. Then having put their hands on Barnabas and Saul and
 \add praying that God would help them\add*, they sent them off \add to do what the Holy Spirit had
 commanded\add*. 
 \s Acts 13:4-5 
@@ -26,7 +26,7 @@ Antioch\add* to Seleucia \add port\add*. From there they went by ship to Salamis
 \p
 \v 6  \add The three of\add* them went across the entire island to Paphos
 \add city\add*. There they met a magician whose name was Bar-Jesus. He was a Jew who falsely
-\add claimed\add* ◄to be a prophet/to speak messages from God►. 
+\add claimed\add* ◄to be a prophet\f + \ft Or: to \f* speak messages from God►. 
 \v 7 He often accompanied the governor \add of the island\add*, Sergius Paulus, who was an intelligent man. The governor sent
 \add someone\add* to ask Barnabas and Saul to come to him, because he wanted to hear the word of God.
 \add So Barnabas and Saul came and told him about Jesus\add*. 
@@ -36,9 +36,9 @@ language\add*, was opposing them. He repeatedly tried to persuade the governor n
 \v 9 Then Saul, who now called himself Paul, empowered by the Holy Spirit, looked intently at the magician and said,
 \v 10 “You\add (sg)\add* are serving the devil and you oppose everything that is good! You are always lying
 \add to people\add* and doing \add other\add* evil things to them. ◄You must stop saying that the truth about the Lord
-\add God is a pack of lies!\add*/When will you stop changing what is true about the Lord
-\add God and saying\add* what is not true about him?► \f + \fk rhetorical question \f* 
-\v 11 Right now the Lord \add God\add* \f + \fk metonymy \f* is going to punish you! You will become blind and not
+\add God is a pack of lies!\add*\f + \ft Or: When \f* will you stop changing what is true about the Lord
+\add God and saying\add* what is not true about him?► \\f + \\ft rhetorical question \\f* 
+\v 11 Right now the Lord \add God\add* \\f + \\ft metonymy \\f* is going to punish you! You will become blind and not
 \add even\add* be able to see the sun for \add some\add* time.” At once he became
 \add blind, as though he was\add* in a dark mist, and he groped about, searching for someone
 \add to hold him by the\add* hand and lead him. 
@@ -52,10 +52,10 @@ Barnabas\add* were teaching about the Lord \add Jesus\add*.
 \add port\add* in Pamphylia \add province. At Perga\add* John \add Mark\add* left them and returned to
 \add his home in\add* Jerusalem. 
 \v 14 Then Paul and Barnabas traveled \add by land\add* from Perga and arrived in Antioch
-\add city\add* near Pisidia \add district in Galatia province\add*. ◄On the Sabbath/On the Jewish rest day► they entered the
-synagogue/the Jewish meeting place and sat down. 
+\add city\add* near Pisidia \add district in Galatia province\add*. ◄On the Sabbath\f + \ft Or: On \f* the Jewish rest day► they entered the
+synagogue\f + \ft Or: the \f* Jewish meeting place and sat down. 
 \v 15  \add Someone\add* read \add aloud\add* from what\add Moses had written. Then someone read from what the
-other\add* prophets \add had written\add* \f + \fk metonymy \f*. Then the leaders of the Jewish meeting place gave
+other\add* prophets \add had written\add* \\f + \\ft metonymy \\f*. Then the leaders of the Jewish meeting place gave
 \add someone this\add* note \add to take\add* to Paul and Barnabas: “fellow Jews, if
 \add one of\add* you wants to speak to the people \add here\add* to encourage them, please speak
 \add to us(exc) now\add*.” 
@@ -68,7 +68,7 @@ people\add* who \add also\add* worship God, \add please\add* listen
 \add to me\add*! 
 \v 17 God, whom we\add (inc)\add* Israelites worship, chose our ancestors
 \add to be his people\add*, and he caused them to become very numerous while they were foreigners living in Egypt.
-\add Then after many years\add*, God helped them \f + \fk metonymy \f* powerfully and led them out of there.
+\add Then after many years\add*, God helped them \\f + \\ft metonymy \\f* powerfully and led them out of there.
 \v 18  \add Even though they repeatedly disobeyed him, he\add* cared for them for about forty years
 \add while they were\add* in the desert. 
 \v 19 He \add enabled the Israelites\add* to conquer seven tribal groups
@@ -83,7 +83,7 @@ people\add* until the time when the prophet Samuel \add ruled them\add*.
 \add appoint\add* a king \add to rule them. So\add* God appointed Saul, the son of Kish, from the tribe of Benjamin,
 \add to be their king\add*. He \add ruled them\add* for forty years.
 \v 22 After God had rejected Saul \add from being king\add*, he appointed David to be their king. God said about him, ‘I have
-observed that David, son of Jesse, is exactly the kind of man that I desire \f + \fk idiom \f*. He will do
+observed that David, son of Jesse, is exactly the kind of man that I desire \\f + \\ft idiom \\f*. He will do
 \add everything that\add* I want \add him to do\add*.’ ” 
 \s Acts 13:23-25 
 \s Paul said that God sent David's descendant, Jesus, to Israel to save them.
@@ -95,10 +95,10 @@ ancestors\add* that he would do.
 \add who came to him. He told them\add* that they should turn away from their sinful behavior
 \add and ask God to forgive them. Then he\add* would baptize them.
 \v 25 When John was about to finish the work\add that God gave him to
-do\add*, he frequently said \add to the people\add*, ‘Do you think \f + \fk rhetorical question \f* that I am
+do\add*, he frequently said \add to the people\add*, ‘Do you think \\f + \\ft rhetorical question \\f* that I am
 \add the Messiah whom God promised to send\add*? No, I am not. But listen! The Messiah will
 \add soon\add* come. \add He is so much greater than I am that\add* I am not
-\add even\add* important enough to be his slave \f + \fk metaphor \f*.’ ” 
+\add even\add* important enough to be his slave \\f + \\ft metaphor \\f*.’ ” 
 \s Acts 13:26-31 
 \s Paul said that God resurrected Jesus and caused many people to see him.
 \p
@@ -107,8 +107,8 @@ who\add* also worship God, \add please listen! It is\add* to \add all
 of\add* us that \add God\add* has sent the message about \add how
 he\add* saves people. 
 \v 27 The people who were living in Jerusalem and their rulers did not realize that this man
-\add Jesus was the one whom God had sent to save them\add*. Although messages from \f + \fk metonymy \f* the prophets have been read
-\add aloud\add* {someone has read \add aloud\add* messages from \f + \fk metonymy \f* the prophets} every ◄Sabbath/Jewish day of rest►, they
+\add Jesus was the one whom God had sent to save them\add*. Although messages from \\f + \\ft metonymy \\f* the prophets have been read
+\add aloud\add* {someone has read \add aloud\add* messages from \\f + \\ft metonymy \\f* the prophets} every ◄Sabbath\f + \ft Or: Jewish \f* day of rest►, they
 did not understand \add what the prophets wrote about the Messiah.
 So\add* the \add Jewish leaders\add* condemned Jesus \add to die\add*, which was just like the prophets predicted.
 \v 28  \add Many people accused Jesus of doing wicked things\add*, but they could not prove that he had done anything for which
@@ -117,7 +117,7 @@ to execute Jesus}. \add So Pilate did what they asked him to do\add*.
 \v 29 They did \add to Jesus\add* all the things that \add the prophets long ago
 had\add* written \add that people would do to\add* him. \add They killed Jesus by nailing him to a cross.
 Then\add* his body was taken {\add some people took\add* his body} down from the cross and placed it in a tomb.
-\v 30 However, God ◄raised him from the dead/caused him to live again after he had died►
+\v 30 However, God ◄raised him from the dead\f + \ft Or: caused \f* him to live again after he had died►
 \v 31 and for many days he \add repeatedly\add* appeared to \add his
 followers\add* who had come along with him from Galilee \add province\add* to Jerusalem. Those
 \add who saw him\add* are telling the \add Jewish\add* people about him now.”
@@ -133,18 +133,18 @@ Son\add*,
 \q You \add (sg)\add* are my Son; 
 \q Today I have shown everyone\add that I really am\add* your Father.
 \p
-\v 34  \add God\add* has ◄raised \add the Messiah\add* from the dead/caused
+\v 34  \add God\add* has ◄raised \add the Messiah\add* from the dead\f + \ft Or: caused \f*
 \add the Messiah\add* to live again after he had died► and will never let him die again.
 \add Concerning that, God\add* said \add to our Jewish ancestors\add*, ‘I will surely help you, as I
 \add promised\add* David \add that I would do\add*.’ 
 \v 35 So \add in writing\add* another \add Psalm, David\add* said this
 \add to God about the Messiah\add*: ‘Because I am devoted to you and always obey
 \add you, when I die\add* you\add (sg)\add* will not let my body decay.’
-\v 36 While David was living, he did what God wanted him to do. And when he died \f + \fk euphemism \f*, his
+\v 36 While David was living, he did what God wanted him to do. And when he died \\f + \\ft euphemism \\f*, his
 \add body\add* was buried, \add as\add* his ancestors' \add bodies had been
 buried\add*, and his body decayed. \add So he could not have been speaking about himself in this
 Psalm\add*. 
-\v 37  \add Instead, he was speaking about Jesus. Jesus also died\add*, but God ◄raised him from the dead/caused him to live
+\v 37  \add Instead, he was speaking about Jesus. Jesus also died\add*, but God ◄raised him from the dead\f + \ft Or: caused \f* him to live
 again►, and \add therefore\add* his body did not decay.” 
 \s Acts 13:38-41 
 \s Paul informed them that God would forgive their sins if they believed in Jesus.
@@ -158,7 +158,7 @@ friends\add*, it is important for you to know that \add we(exc)\add* are declari
 \add have done that displeased God. But\add* when \add God\add* does
 \add that for you\add*, it is not as a result of \add your obeying\add* the laws
 \add that\add* Moses \add wrote\add*. 
-\v 40 Therefore be careful that \add God\add* does not judge you \f + \fk metonymy \f*, as one of the prophets said \f + \fk metonymy \f* that God would do!
+\v 40 Therefore be careful that \add God\add* does not judge you \\f + \\ft metonymy \\f*, as one of the prophets said \\f + \\ft metonymy \\f* that God would do!
 \v 41  \add The prophet wrote that God said:\add* 
 \q You who ridicule \add me\add*, you will \add certainly\add* be astonished
 \add when you see what I am doing\add*, and \add then\add* you will be destroyed. You will be astonished because I will do
@@ -168,7 +168,7 @@ something \add terrible to you\add* while you are living. You would not believe
 \s People asked Paul and Barnabas to speak to them again the next Jewish day of rest.
 \p
 \v 42 After Paul \add finished speaking\add*, while he and Barnabas were leaving the Jewish meeting place,
-\add many of\add* the people there repeatedly requested that on the next ◄Sabbath/Jewish day of rest►
+\add many of\add* the people there repeatedly requested that on the next ◄Sabbath\f + \ft Or: Jewish \f* day of rest►
 \add the two of them\add* should speak to them \add again\add* about those things
 \add that Paul had just told them\add*. 
 \v 43 After they began to leave \add the meeting\add*, many \add of
@@ -182,33 +182,33 @@ did\add*.
 \v 44 On the next Jewish rest day, most of the \add people in Antioch came
 to\add* the Jewish meeting place to hear \add Paul and Barnabas\add* speak about the Lord
 \add Jesus\add*. 
-\v 45 But \add the leaders of\add* \f + \fk synecdoche \f* the Jews became extremely jealous, because they saw that large crowds of
+\v 45 But \add the leaders of\add* \\f + \\ft synecdoche \\f* the Jews became extremely jealous, because they saw that large crowds of
 \add non-Jewish people were coming to hear Paul and Barnabas. So\add* they began to contradict the things that Paul was saying
 \add and also\add* to insult \add him\add*. 
 \v 46 Then, speaking very boldly, Paul and Barnabas said \add to those Jewish
 leaders\add*, “\add We two\add* had to speak the message from God
 \add about Jesus\add* to you \add Jews\add* first \add before we proclaim it to non-Jews, because God commanded us to do that.
 But\add* you are rejecting God's message. \add By doing that\add*, you have shown that you are not worthy ◄to have eternal
-life/to live eternally \add with God\add*►. \add Therefore\add*, we are leaving
+life\f + \ft Or: to \f* live eternally \add with God\add*►. \add Therefore\add*, we are leaving
 \add you, and now we\add* will go to the non-Jewish people \add to tell them the message from
 God\add*. 
 \v 47  \add We are doing that also\add* because the Lord \add God\add* has commanded us
 \add to do it\add*. He said to us, 
-\q ‘I have appointed you \add to reveal things about me\add* to non-Jewish people \f + \fk metaphor \f* that will be
-\add like\add* a light to them\add . I have appointed\add* you to tell people everywhere \f + \fk metonymy \f* in the world
+\q ‘I have appointed you \add to reveal things about me\add* to non-Jewish people \\f + \\ft metaphor \\f* that will be
+\add like\add* a light to them\add . I have appointed\add* you to tell people everywhere \\f + \\ft metonymy \\f* in the world
 \add about the one who came\add* to save \add them\add*.’ ” 
 \p
 \v 48 While the non-Jewish people were listening \add to those words\add*, they began to rejoice, and they repeatedly said that
 the message about the Lord \add Jesus\add* was wonderful. And all of the non-Jewish people whom
-\add God\add* had chosen ◄to have eternal \add life/to live eternally with
+\add God\add* had chosen ◄to have eternal \add life\f + \ft Or: to \f* live eternally with
 God\add*► believed \add the message about the Lord Jesus\add*. 
 \v 49  \add At that time, many of the believers\add* traveled around throughout that region. As they did that, they were
-proclaiming the message about the Lord \add Jesus\add* \f + \fk metonymy \f*. 
+proclaiming the message about the Lord \add Jesus\add* \\f + \\ft metonymy \\f*. 
 \s Acts 13:50-52 
 \s People expelled the apostles, but the believers continued on.
 \p
-\v 50 However, \add some leaders of\add* \f + \fk synecdoche \f* the Jews incited the most important men in the city and
-\add some\add* important/influential women who had accepted what the Jews believe to oppose
+\v 50 However, \add some leaders of\add* \\f + \\ft synecdoche \\f* the Jews incited the most important men in the city and
+\add some\add* important\f + \ft Or: influential \f* women who had accepted what the Jews believe to oppose
 \add Paul and Barnabas. So those non-Jewish people\add* incited \add other people
 also\add* to persecute Paul and Barnabas. As a result they expelled the two men from their region.
 \v 51 So, \add as the two apostles were leaving, they\add* shook the dust from their feet

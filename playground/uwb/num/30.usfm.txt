@@ -1,23 +1,23 @@
 \c 30  
 \s Rules about special promises to Yahweh 
 \p
-\v 1 Moses/I spoke with the leaders of the Israeli tribes. He/I told them these commands that Yahweh had given to him/me:
+\v 1 Moses\f + \ft Or: I \f* spoke with the leaders of the Israeli tribes. He\f + \ft Or: I \f* told them these commands that Yahweh had given to him\f + \ft Or: me \f*:
 \p
 \v 2 “If a man solemnly promises Yahweh that he will do something, he must do what he promised.
 \p
 \v 3 If a young woman who is still living with her parents solemnly promises to Yahweh to do something,
-\v 4 and if her father hears about what she promised, and if he does not object, she must do what she promised \f + \fk doublet \f*.
+\v 4 and if her father hears about what she promised, and if he does not object, she must do what she promised \\f + \\ft doublet \\f*.
 \v 5 But if her father hears about what she promised and does not allow her to do that, then she does not need to do what she
 promised. Yahweh will forgive her for not doing what she promised.
 \p
 \v 6 If a woman promises Yahweh that she will do something, but then she gets married,
-\v 7 if her husband hears about what she promised to do, and he does not object, she must do what she promised \f + \fk doublet \f*.
+\v 7 if her husband hears about what she promised to do, and he does not object, she must do what she promised \\f + \\ft doublet \\f*.
 \v 8 But if her husband hears about it and does not allow her to do that, she does not need to do what she promised, and Yahweh
 will forgive her for not doing what she promised. 
 \p
 \v 9 If a widow or a woman who has been divorced makes a promise, she must do what she promised.
 \p
-\v 10 If a woman who is married promises \f + \fk doublet \f* to do something, 
+\v 10 If a woman who is married promises \\f + \\ft doublet \\f* to do something, 
 \v 11 and if her husband hears about it but does not object, she must do what she promised.
 \v 12 But if he hears about it and does not allow her to do that, she does not need to do what she promised, and Yahweh will
 forgive her for not doing it. 
@@ -28,5 +28,5 @@ it\add*, she must do what she promised.
 do it, if she does not do what she promised, \add she will not be
 punished\add*; her husband is the one whom \add Yahweh\add* will punish.”
 \p
-\v 16 Those are the rules that Yahweh gave to Moses/me for husbands and wives, and for young women who are still living with
+\v 16 Those are the rules that Yahweh gave to Moses\f + \ft Or: me \f* for husbands and wives, and for young women who are still living with
 their parents. 

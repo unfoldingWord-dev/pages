@@ -1,10 +1,10 @@
 \c 8  
 \s The Israelis asked for a king 
 \p
-\v 1 When Samuel became old, he appointed his two sons; Joel and Abijah, to lead/rule the people of Israel.
-\v 2 They judged people's disputes/cases in Beersheba \add town\add*.
+\v 1 When Samuel became old, he appointed his two sons; Joel and Abijah, to lead\f + \ft Or: rule \f* the people of Israel.
+\v 2 They judged people's disputes\f + \ft Or: cases \f* in Beersheba \add town\add*.
 \v 3 But they were not like their father. They wanted only to get a lot of money. They accepted bribes, and they did not make
-honest decisions about people's disputes/cases. 
+honest decisions about people's disputes\f + \ft Or: cases \f*. 
 \p
 \v 4 Finally, the Israeli leaders met at Ramah \add town\add* to
 \add discuss the matter with\add* Samuel. 
@@ -13,11 +13,11 @@ that other countries have!”
 \p
 \v 6 Samuel was very unhappy with them for requesting that, so he prayed to Yahweh about it.
 \v 7 Yahweh replied, “Do what they have requested you to do. But
-◄\add do not think/the truth is not\add*► that you are the one whom they are really rejecting. I have been their king, and I am
+◄\add do not think\f + \ft Or: the \f* truth is not\add*► that you are the one whom they are really rejecting. I have been their king, and I am
 the one they are really rejecting. 
 \v 8 Ever since I brought them out of Egypt, they have rejected me, and they have worshiped other gods. And now they are also
 rejecting you in the same way. 
-\v 9 Do what they are asking you to do. But warn/tell them about how their kings will act toward them!”
+\v 9 Do what they are asking you to do. But warn\f + \ft Or: tell \f* them about how their kings will act toward them!”
 \p
 \v 10 So Samuel told those people what Yahweh had said. 
 \v 11 He said, “If a king rules over you, this is what he will do to you: he will force many of your sons to join the army. He
@@ -29,13 +29,13 @@ his chariots.
 \v 13 The king will take \add some of\add* your daughters \add from you and force them
 to\add* make perfumes for him and cook food for him and bake \add bread for
 him\add*. 
-\v 14 He will take your best fields and vineyards and olive tree groves/orchards, and give them to his own officials.
+\v 14 He will take your best fields and vineyards and olive tree groves\f + \ft Or: orchards \f*, and give them to his own officials.
 \v 15 He will take a tenth of your harvests and distribute it among the officers and servants
 \add who work in his palace\add*. 
 \v 16 He will take from you your male and female servants, your best cattle and donkeys, and force them to work for him.
 \v 17 He will take one tenth of your sheep and goats. And you will become his slaves!
 \v 18 When that time comes, you will complain loudly to the king, the king that you yourselves have chosen, but Yahweh will not
-◄pay attention to/help► you.” 
+◄pay attention to\f + \ft Or: help \f*► you.” 
 \p
 \v 19 But the people refused to pay attention to what Samuel said. They said, “We do not
 \add care about what you say\add*! We want a king! 

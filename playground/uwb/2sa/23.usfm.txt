@@ -8,7 +8,7 @@
 \b
 \q
 \v 2 The Spirit of Yahweh tells me what to say; 
-\q the message that I speak \f + \fk metonymy \f* comes from him. 
+\q the message that I speak \\f + \\ft metonymy \\f* comes from him. 
 \q
 \v 3 God, the one whom we Israeli \add people worship\add*, has spoken;
 \q2 the one who protects us people of Israel said to me, 
@@ -16,17 +16,17 @@
 \q have an awesome respect for God. 
 \q
 \v 4 They are like the sun that shines at dawn 
-\q2 and causes the grass to \add sprout/sparkle\add* after the rain ends.”
+\q2 and causes the grass to \add sprout\f + \ft Or: sparkle \f*\add* after the rain ends.”
 \b
 \q
-\v 5 And truly, that is how God will surely bless my family \f + \fk rhetorical question \f*
+\v 5 And truly, that is how God will surely bless my family \\f + \\ft rhetorical question \\f*
 \q2 because he made an agreement with me that will endure forever,
 \q2 an agreement in which he promises that no part of it will ever be changed.
-\q He will surely cause me to prosper \f + \fk rhetorical question \f*, 
+\q He will surely cause me to prosper \\f + \\ft rhetorical question \\f*, 
 \q2 and he will always help me, 
 \q and that is all that I desire. 
 \q
-\v 6 But \add he will get rid of\add* godless/evil people like \f + \fk simile \f* people throw away thorns
+\v 6 But \add he will get rid of\add* godless\f + \ft Or: evil \f* people like \\f + \\ft simile \\f* people throw away thorns
 \q2 that \add injure people if they try to\add* pick them up with their hands.
 \q
 \v 7 Someone \add who wants to get rid of thornbushes\add* does not grab them;
@@ -39,16 +39,16 @@ out\add*
 \p The first was Esh-Baal, \add whose other name was Jashobeam\add*, from the Hachmon clan \f + \ft (OR, the son of Hachmon) \f*. He was the
 leader of the three men. One time he fought against eight hundred enemies and killed them all with his spear.
 \p
-\v 9 The second/next one of the three greatest warriors was Eleazar, who was the son of Dodo from the clan of Ahoh. One day he
-was with David when they defied/challenged the soldiers of Philistia who had gathered there for the battle. The
+\v 9 The second\f + \ft Or: next \f* one of the three greatest warriors was Eleazar, who was the son of Dodo from the clan of Ahoh. One day he
+was with David when they defied\f + \ft Or: challenged \f* the soldiers of Philistia who had gathered there for the battle. The
 \add other\add* Israeli soldiers retreated, 
 \v 10 but Eleazar stood there and fought the soldiers of Philistia until his arm became very tired, with the result that
 \add his hand cramped and\add* he could not stop gripping his sword. Yahweh won a great victory on that day. And afterwards the
 \add other\add* Israeli soldiers returned \add to where Eleazar was\add*, and stripped off
 \add the armor from the men whom he had\add* killed. 
 \p
-\v 11 The third one of the greatest warriors was Shammah, the son of Agee from the clan/town of Harar. One time the Philistia
-soldiers gathered at Lehi \add town\add*, where there was a field full of lentils/peas
+\v 11 The third one of the greatest warriors was Shammah, the son of Agee from the clan\f + \ft Or: town \f* of Harar. One time the Philistia
+soldiers gathered at Lehi \add town\add*, where there was a field full of lentils\f + \ft Or: peas \f*
 \add that they wanted to steal\add*. The other Israeli soldiers ran away from the Philistia troops,
 \v 12 but Shammah stood there in the field and did not let the Philistia soldiers
 \add steal the peas\add*, and killed them. Yahweh won a great victory on that day.
@@ -65,15 +65,15 @@ some water from the well near the gate at Bethlehem!”
 \v 16 So his three greatest warriors forced through the camp of Philistia soldiers and drew some water from the well, and
 brought it to David. But he would not drink it. Instead, he poured it out
 \add on the ground\add* to be an offering to Yahweh. 
-\v 17 He said, “Yahweh, it would certainly not be right for me to drink this water! That would be like \f + \fk rhetorical question \f* drinking the blood
-of these men who were willing/ready to die for me!” So he refused to drink it.
+\v 17 He said, “Yahweh, it would certainly not be right for me to drink this water! That would be like \\f + \\ft rhetorical question \\f* drinking the blood
+of these men who were willing\f + \ft Or: ready \f* to die for me!” So he refused to drink it.
 \p That was one of the things that those three great warriors did.
 \s The list of the great warriors 
 \p
 \v 18 Abishai, Joab's \add younger\add* brother, was the leader of the thirty
 \add greatest warriors\add*. \add One day\add* he fought against three hundred men and killed them all with his spear. As a
 result, he also became famous. 
-\v 19 He was the most famous of the thirty greatest warriors, and he became their leader/commander, but he was not one of the
+\v 19 He was the most famous of the thirty greatest warriors, and he became their leader\f + \ft Or: commander \f*, but he was not one of the
 three greatest warriors. 
 \p
 \v 20 Jehoiada's son Benaiah, from Kabzeel \add town\add*, also did great deeds. He killed two of the best warriors from the
@@ -118,8 +118,8 @@ to\add* the tribe of Benjamin;
 \li3 The sons of Jashen; 
 \li3 Jonathan; 
 \li3
-\v 33 Shammah, from Harar \add town/clan\add*; 
-\li3 Ahiam the son of Sharar, from Harar \add town/clan\add*; 
+\v 33 Shammah, from Harar \add town\f + \ft Or: clan \f*\add*; 
+\li3 Ahiam the son of Sharar, from Harar \add town\f + \ft Or: clan \f*\add*; 
 \li3
 \v 34 Eliphelet, the son of Ahasbai, from Maacah \add town\add*;
 \li3 Eliam, the son of Ahithophel, from Gilo \add town\add*; 

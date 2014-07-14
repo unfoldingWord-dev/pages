@@ -6,7 +6,7 @@
 \b
 \q
 \v 2 As for me, I almost \add stopped trusting in God\add*; 
-\q \add it was as though\add* my feet slipped and I stumbled \f + \fk metaphor \f*,
+\q \add it was as though\add* my feet slipped and I stumbled \\f + \\ft metaphor \\f*,
 \q
 \v 3 because I envied those who proudly \add said that they did not need
 God\add*, 
@@ -16,36 +16,36 @@ God\add*,
 \v 4 Those people do not have pains; 
 \q2 they are \add always\add* strong and healthy. 
 \q
-\v 5 They do not have the troubles/difficulties that other people have;
+\v 5 They do not have the troubles\f + \ft Or: difficulties \f* that other people have;
 \q2 they do not have problems like others do. 
 \q
 \v 6 So they are proud, and their being proud is like a necklace
 \add that they show to others\add*, 
 \q2 and they show off their violent actions like people show off their beautiful robes.
 \q
-\v 7 From their inner beings ◄pour out/do► evil deeds, 
+\v 7 From their inner beings ◄pour out\f + \ft Or: do \f*► evil deeds, 
 \q2 and in their inner beings they are always thinking about more evil things to do.
 \q
 \v 8 They scoff at \add other people\add*, and they talk about doing evil things to them;
 \q they are proud while they plan to oppress others. 
 \q
-\v 9 They say evil things about God \f + \fk metonymy \f* whom is in heaven, 
-\q2 and they talk boastfully/proudly about things \add that they have
+\v 9 They say evil things about God \\f + \\ft metonymy \\f* whom is in heaven, 
+\q2 and they talk boastfully\f + \ft Or: proudly \f* about things \add that they have
 done\add* here on the earth. 
 \q
 \v 10 The result is that people listen to what they say and praise them
 \q2 and do not think that they have done anything that is wrong.
 \q
-\v 11 Wicked people say \add to themselves\add*, “God will certainly not \f + \fk rhetorical question \f* know
+\v 11 Wicked people say \add to themselves\add*, “God will certainly not \\f + \\ft rhetorical question \\f* know
 \add what we have done\add*; 
-\q2 people say that he is greater than any other god, but he cannot \f + \fk rhetorical question \f* find out.”
+\q2 people say that he is greater than any other god, but he cannot \\f + \\ft rhetorical question \\f* find out.”
 \b
 \q
 \v 12 That is what wicked people are like; 
 \q2 they never worry about anything, and they are always becoming richer.
 \b
 \q
-\v 13 So, \add God\add*, I think it is useless that I have \f + \fk rhetorical question \f* always done what you want me to,
+\v 13 So, \add God\add*, I think it is useless that I have \\f + \\ft rhetorical question \\f* always done what you want me to,
 \q2 and I have not committed sins. 
 \q
 \v 14 During each day I have problems, 
@@ -70,11 +70,11 @@ die\add*.
 \q2 they will die in terrible ways. 
 \q
 \v 20 They \add will disappear as quickly\add* as a dream disappears when a person awakes in the morning;
-\q2 Lord, when you arise, you will ◄cause them to disappear/forget all about them►.
+\q2 Lord, when you arise, you will ◄cause them to disappear\f + \ft Or: forget \f* all about them►.
 \b
 \q
-\v 21 When I felt sad/bitter in my inner being, 
-\q and ◄my feelings were hurt/I had pain in my inner being►, 
+\v 21 When I felt sad\f + \ft Or: bitter \f* in my inner being, 
+\q and ◄my feelings were hurt\f + \ft Or: I \f* had pain in my inner being►, 
 \q
 \v 22 I was stupid and ignorant, 
 \q2 and I behaved like an animal toward you. 
@@ -84,9 +84,9 @@ die\add*.
 \q and you hold my hand. 
 \q
 \v 24 You guide me by teaching me, 
-\q2 and ◄at the end \add of my life\add*/when I die►, you will receive me and honor me.
+\q2 and ◄at the end \add of my life\add*\f + \ft Or: when \f* I die►, you will receive me and honor me.
 \q
-\v 25 You are in heaven and I belong to you \f + \fk rhetorical question \f*, 
+\v 25 You are in heaven and I belong to you \\f + \\ft rhetorical question \\f*, 
 \q and there is nothing on this earth that I desire more than that.
 \q
 \v 26 My body and my mind may become very weak, 

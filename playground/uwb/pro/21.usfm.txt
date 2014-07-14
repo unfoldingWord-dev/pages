@@ -1,20 +1,20 @@
 \c 21  
 \q
-\v 1 Yahweh controls what kings do \f + \fk metonymy \f* like he controls streams;
+\v 1 Yahweh controls what kings do \\f + \\ft metonymy \\f* like he controls streams;
 \q2 he causes kings to do just what he wants them to do. 
 \b
 \q
 \v 2 People always think that what they do is right, 
-\q2 but Yahweh judges our ◄motives/reasons for doing things► \f + \fk metonymy \f*.
+\q2 but Yahweh judges our ◄motives\f + \ft Or: reasons \f* for doing things► \\f + \\ft metonymy \\f*.
 \b
 \q
 \v 3 Doing what is right and fair is more acceptable to Yahweh 
 \q2 than bringing sacrifices to him. 
 \b
 \q
-\v 4 Being proud and arrogant \f + \fk doublet \f* is like a lamp \f + \fk metonymy \f* \add that
+\v 4 Being proud and arrogant \\f + \\ft doublet \\f* is like a lamp \\f + \\ft metonymy \\f* \add that
 guides\add* wicked people; 
-\q2 being proud and arrogant characterizes ◄wicked people's whole behavior/everything that wicked people do►.
+\q2 being proud and arrogant characterizes ◄wicked people's whole behavior\f + \ft Or: everything \f* that wicked people do►.
 \b
 \q
 \v 5 People who plan carefully will surely have plenty \add of what they
@@ -22,24 +22,24 @@ need\add*;
 \q2 those who act too quickly \add to become rich\add* will become poor.
 \b
 \q
-\v 6 Money that people acquire \add by cheating others\add* by lying \f + \fk metonymy \f* to them will soon disappear like a mist,
+\v 6 Money that people acquire \add by cheating others\add* by lying \\f + \\ft metonymy \\f* to them will soon disappear like a mist,
 \q2 and doing that will soon lead to their death. 
 \b
 \q
-\v 7 Wicked people refuse to do what is right/just, 
-\q2 but they will be ruined because of the violent things \f + \fk personification \f* that they do.
+\v 7 Wicked people refuse to do what is right\f + \ft Or: just \f*, 
+\q2 but they will be ruined because of the violent things \\f + \\ft personification \\f* that they do.
 \b
 \q
-\v 8 Guilty people \add continually do what is evil; it is as though\add* \f + \fk metaphor \f* they are walking on a crooked road;
-\q2 but righteous/innocent people always do what is right. 
+\v 8 Guilty people \add continually do what is evil; it is as though\add* \\f + \\ft metaphor \\f* they are walking on a crooked road;
+\q2 but righteous\f + \ft Or: innocent \f* people always do what is right. 
 \b
 \q
-\v 9 It is better to live in the corner of an attic/housetop \add by
+\v 9 It is better to live in the corner of an attic\f + \ft Or: housetop \f* \add by
 yourself\add* 
-\q2 than to live inside the house with a wife who is always nagging/quarreling.
+\q2 than to live inside the house with a wife who is always nagging\f + \ft Or: quarreling \f*.
 \b
 \q
-\v 10 Wicked people \f + \fk synecdoche \f* are always wanting \add to do what is\add* evil;
+\v 10 Wicked people \\f + \\ft synecdoche \\f* are always wanting \add to do what is\add* evil;
 \q2 they never act mercifully toward anyone. 
 \b
 \q
@@ -50,7 +50,7 @@ yourself\add*
 \q
 \v 12  \add God\add*, the one \add who is completely\add* righteous, knows
 \add what happens inside\add* the houses of wicked people, 
-\q2 and he will cause those people to be completely ruined/destroyed.
+\q2 and he will cause those people to be completely ruined\f + \ft Or: destroyed \f*.
 \b
 \q
 \v 13 There are people who refuse to listen when poor people cry out
@@ -63,7 +63,7 @@ help\add*, and no one will hear them.
 \q2 if you secretly give him a gift, he will stop being angry. 
 \b
 \q
-\v 15 Good/Righteous people are happy when they \add see others do\add* what is just/fair,
+\v 15 Good\f + \ft Or: Righteous \f* people are happy when they \add see others do\add* what is just\f + \ft Or: fair \f*,
 \q2 but those who do what is evil are terrified \add when they think about what happen to
 them\add*. 
 \b
@@ -72,12 +72,12 @@ them\add*.
 \q2 will soon discover that they are in the place where dead people are.
 \b
 \q
-\v 17 Those who spend their money to buy ◄pleasure/things that cause them to feel happy► will become poor;
-\q2 those who love \add to spend money to buy\add* wine and nice/fancy food \f + \fk metonymy \f* will never become rich.
+\v 17 Those who spend their money to buy ◄pleasure\f + \ft Or: things \f* that cause them to feel happy► will become poor;
+\q2 those who love \add to spend money to buy\add* wine and nice\f + \ft Or: fancy \f* food \\f + \\ft metonymy \\f* will never become rich.
 \b
 \q
 \v 18 Wicked people bring to themselves the sufferings 
-\q2 that they were trying to cause righteous people to experience \f + \fk doublet \f*.
+\q2 that they were trying to cause righteous people to experience \\f + \\ft doublet \\f*.
 \b
 \q
 \v 19 It is better to live \add alone\add* in a desert 
@@ -85,29 +85,29 @@ them\add*.
 \b
 \q
 \v 20 Wise people have many valuable things in their houses, 
-\q2 but foolish people quickly spend/waste \add all their money\add*.
+\q2 but foolish people quickly spend\f + \ft Or: waste \f* \add all their money\add*.
 \b
 \q
 \v 21 Those who always try to act fairly and kindly toward others
-\q2 will live a long time and be honored/respected. 
+\q2 will live a long time and be honored\f + \ft Or: respected \f*. 
 \b
 \q
 \v 22 A wise army commander \add helps his troops\add* climb over a wall
 \add to attack\add* a city that is defended by a strong army, 
-\q2 with the result that they are able to ◄get over/destroy► the high walls that their enemies trusted
+\q2 with the result that they are able to ◄get over\f + \ft Or: destroy \f*► the high walls that their enemies trusted
 \add would protect them\add*. 
 \b
 \q
-\v 23 Those who are very careful about what they say \f + \fk metonymy \f* 
+\v 23 Those who are very careful about what they say \\f + \\ft metonymy \\f* 
 \q2 are able to avoid trouble. 
 \b
 \q
-\v 24 Those who make fun of \add everything that is good\add* are proud and conceited \f + \fk doublet \f*;
+\v 24 Those who make fun of \add everything that is good\add* are proud and conceited \\f + \\ft doublet \\f*;
 \q2 they always act inconsiderately toward others. 
 \b
 \q
 \v 25 Lazy people, who refuse to work, will die \add of hunger\add*
-\q2 because they \f + \fk synecdoche \f* do not earn \add money to buy food\add*. 
+\q2 because they \\f + \\ft synecdoche \\f* do not earn \add money to buy food\add*. 
 \b
 \q
 \v 26 All during the day \add wicked people\add* crave to obtain things,
@@ -121,17 +121,17 @@ for\add* their evil deeds because of the sacrifices that they bring.
 \b
 \q
 \v 28 Those who tell lies in court will be punished; 
-\q2 no one stops/silences witnesses who say what is truthful/reliable.
+\q2 no one stops\f + \ft Or: silences \f* witnesses who say what is truthful\f + \ft Or: reliable \f*.
 \b
 \q
-\v 29 Wicked people pretend \add that they ◄know everything/are good►\add*,
+\v 29 Wicked people pretend \add that they ◄know everything\f + \ft Or: are \f* good►\add*,
 \q2 but righteous people think carefully about \add what will happen because of what they
 do\add*. 
 \b
 \q
 \v 30  \add Thinking that we are\add* wise, and that we understand many things, and that we have good insight,
-\q2 does not help us if Yahweh is ◄acting against/not pleased with► us.
+\q2 does not help us if Yahweh is ◄acting against\f + \ft Or: not \f* pleased with► us.
 \b
 \q
 \v 31 We can get horses ready to fight in a battle, 
-\q2 but Yahweh is the one who enables us to ◄win victories/defeat our enemies►.
+\q2 but Yahweh is the one who enables us to ◄win victories\f + \ft Or: defeat \f* our enemies►.

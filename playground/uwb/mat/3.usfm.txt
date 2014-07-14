@@ -5,12 +5,12 @@
 \v 1 While \add Jesus was still in Nazareth town\add*, John, \add whom the people
 called\add* the Baptizer, went to a desolate place in Judea \add district\add*.
 \v 2 He was preaching \add to the people who came there\add*. He kept saying,
-“\add You need to\add* turn away from your sinful behavior, because God \f + \fk metaphor \f* will soon begin to rule
+“\add You need to\add* turn away from your sinful behavior, because God \\f + \\ft metaphor \\f* will soon begin to rule
 \add over people, and he will reject you if you do not turn away from your sinful
 life\add*.” 
 \v 3 John was the person who \add fulfilled\add* what was said by Isaiah the prophet {what Isaiah the prophet
 \add predicted\add* when he said}, long ago, 
-\pi In a desolate area ◄\add people will hear someone/someone will be
+\pi In a desolate area ◄\add people will hear someone\f + \ft Or: someone \f* will be
 heard\add*► shouting \add to the people who pass by\add*, 
 \pi Prepare \add yourselves to receive\add* the Lord when he comes!
 \pi \add Make yourselves ready so that you will be prepared when he
@@ -20,9 +20,9 @@ official!\add*
 \v 4 John wore \add coarse\add* clothing made from camel's hair. And
 \add as the prophet Elijah did long ago\add*, he wore a leather belt around his waist. His food was
 \add only\add* grasshoppers and honey \add that he found\add* in that desolate area.
-\v 5  \add People who lived in\add* Jerusalem \add city\add* \f + \fk metonymy \f*, many \f + \fk hyperbole \f*
-\add people who lived in other places in\add* Judea \add district\add* \f + \fk metonymy \f*, and many \f + \fk hyperbole \f*
-\add people who lived in\add* the area around the Jordan \add River\add* \f + \fk metonymy \f* came to John
+\v 5  \add People who lived in\add* Jerusalem \add city\add* \\f + \\ft metonymy \\f*, many \\f + \\ft hyperbole \\f*
+\add people who lived in other places in\add* Judea \add district\add* \\f + \\ft metonymy \\f*, and many \\f + \\ft hyperbole \\f*
+\add people who lived in\add* the area around the Jordan \add River\add* \\f + \\ft metonymy \\f* came to John
 \add to hear him preach\add*. 
 \v 6 After \add they heard him tell them to turn away from their sinful
 behavior\add*, they \add openly\add* confessed their sins, and as a result they were baptized by John {John baptized them} in
@@ -33,10 +33,10 @@ the Jordan River.
 \v 7 After John noted that many men of the Pharisee \add religious
 group\add* and of the Sadducee \add religious group\add* were coming
 \add to him\add* to be baptized {in order that he would baptize them}, he said to them, “You people are
-\add evil like poisonous\add* snakes \f + \fk metaphor \f*! I warn you that God will some day punish \f + \fk metonymy \f* everyone who sins. ◄And do not think
-that you can escape from his punishing you \f + \fk metonymy \f* \add if you do not turn from your sinful
-behavior\add*!/Did someone tell you that you can escape from his punishing you \f + \fk metonymy \f*
-\add if you do not turn from your sinful behavior\add*?► \f + \fk rhetorical question \f* 
+\add evil like poisonous\add* snakes \\f + \\ft metaphor \\f*! I warn you that God will some day punish \\f + \\ft metonymy \\f* everyone who sins. ◄And do not think
+that you can escape from his punishing you \\f + \\ft metonymy \\f* \add if you do not turn from your sinful
+behavior\add*!\f + \ft Or: Did \f* someone tell you that you can escape from his punishing you \\f + \\ft metonymy \\f*
+\add if you do not turn from your sinful behavior\add*?► \\f + \\ft rhetorical question \\f* 
 \v 8 Do what is appropriate [IDI] for people who have truly turned away from their sinful behavior
 \add before you come to me in order to be baptized\add* {\add that I baptize
 you\add*}. 
@@ -47,7 +47,7 @@ So do not start to say to yourselves, ‘Since we are descendants of
 sinned\add*.’ 
 \v 10  \add God is\add* ready \add to punish you if you do not turn away from your sinful behavior, just
 like\add* a man who lays his axe at the roots of a \add fruit\add* tree
-\add in order to\add* chop it down and throw it into the fire if it does not produce good fruit \f + \fk metaphor \f*.”
+\add in order to\add* chop it down and throw it into the fire if it does not produce good fruit \\f + \\ft metaphor \\f*.”
 \s Matthew 3:11-12 
 \s John said that someone greater than him would soon come who would enable some of the people to change their lives and who
 would severely punish the others. 
@@ -58,15 +58,15 @@ come soon who is very great; \add he will do powerful deeds\add*
 \f + \ft (OR\add , act powerfully\add*)\add . Because he is\add* superior to me, I am not worthy
 \add even to do a menial task for him, such as\add* to carry his sandals.
 \p He will put \add his\add* Holy Spirit \add within\add* you \add to truly
-change\add* the way you live \f + \fk metaphor \f*, and \add he will judge others of you and punish you
+change\add* the way you live \\f + \\ft metaphor \\f*, and \add he will judge others of you and punish you
 in\add* the fire \add in hell\add*. 
 \v 12  \add He is like a farmer who wants to clear away the grain that is on the ground where it has been
 threshed\add* {\add they have threshed it\add*}\add . That farmer uses
 a\add* huge fork to throw the grain into the air \add to separate the wheat from the
-chaff\add* \f + \fk metaphor \f*, and then he cleans up the threshing area. \add Similarly\add*, God will
+chaff\add* \\f + \\ft metaphor \\f*, and then he cleans up the threshing area. \add Similarly\add*, God will
 \add separate righteous people from the evil people like a farmer
 who\add* gathers the wheat into his storage area, and then \add God\add* will burn
-the\add people who are like\add* chaff with a fire that will never be put out \f + \fk metaphor \f*.”
+the\add people who are like\add* chaff with a fire that will never be put out \\f + \\ft metaphor \\f*.”
 \s Matthew 3:13-17 
 \s When John baptized Jesus, God showed that Jesus was his Son by sending the Holy Spirit upon him.
 \p
@@ -76,12 +76,12 @@ him}.
 \v 14  \add When Jesus asked John to baptize him\add*, John objected, saying, “I need to be baptized by
 \bd you\bd* {\bd you\bd* to baptize \bd me\bd*} \add because you are superior to me. Since you are not a
 sinner\add*, ◄\add you(sg)\add* should not come to me \add to be baptized by
-me\add* {\add to ask that I baptize you(sg)\add*}!/why do you come to me
-\add to be baptized by me\add* {\add ask that I baptize you(sg) \f*\add*} \f + \fk rhetorical question \f*?►”
+me\add* {\add to ask that I baptize you(sg)\add*}!\f + \ft Or: why \f* do you come to me
+\add to be baptized by me\add* {\add ask that I baptize you(sg) \f*\add*} \\f + \\ft rhetorical question \\f*?►”
 \v 15 But Jesus said to him, “Baptize me at this time, because in this way we
 \add two\add* will do \add everything that God\add* requires.” Then John consented to baptize him.
 \p
 \v 16 After he was baptized {John baptized Jesus}, Jesus immediately came up out of the water. Just then,
 \add it was as though\add* the sky was opened {split apart}. Then
 \add Jesus\add* saw God's Spirit coming down upon him. He came in the form of a dove.
-\v 17 Then \add God\add* \f + \fk synecdoche \f* spoke from heaven, saying, “This is my Son. I love him. I am very pleased with him.”
+\v 17 Then \add God\add* \\f + \\ft synecdoche \\f* spoke from heaven, saying, “This is my Son. I love him. I am very pleased with him.”

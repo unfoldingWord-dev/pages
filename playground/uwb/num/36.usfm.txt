@@ -1,10 +1,10 @@
 \c 36  
 \s Land for Zelophehad's daughters 
 \p
-\v 1 The family leaders of the clan of Gilead of the tribe of Manasseh went to Moses/me and the other family leaders of the
+\v 1 The family leaders of the clan of Gilead of the tribe of Manasseh went to Moses\f + \ft Or: me \f* and the other family leaders of the
 Israeli people. 
-\v 2 They said to Moses/me, “Yahweh commanded you, our leader, to apportion the land to the Israeli tribes by throwing
-◄lots/stones that have been marked► to decide \add which group would get which
+\v 2 They said to Moses\f + \ft Or: me \f*, “Yahweh commanded you, our leader, to apportion the land to the Israeli tribes by throwing
+◄lots\f + \ft Or: stones \f* that have been marked► to decide \add which group would get which
 area\add*. Yahweh also commanded you to give the land that belonged to our fellow Israeli Zelophehad to his daughters.
 \v 3 But if his daughters marry men from the other Israeli tribes, that land will no longer belong to our tribe. People of
 other tribes will get it. So some of our land will no longer belong to us.
@@ -13,7 +13,7 @@ owners\add*, the land that belonged to Zelophehad will belong to the tribes of t
 land, the land that we received from our fathers, will be taken from us,
 \add and we will never own it again\add*.” 
 \p
-\v 5 Yahweh told Moses/me what to reply to them, so Moses/I said this to them: “These men from the tribe of Manasseh are right.
+\v 5 Yahweh told Moses\f + \ft Or: me \f* what to reply to them, so Moses\f + \ft Or: I \f* said this to them: “These men from the tribe of Manasseh are right.
 \v 6 This is what Yahweh is saying to the daughters of Zelophehad: ‘Each of you may marry anyone you want to, but you must
 marry only someone from your own tribe.’ 
 \v 7 In that way, the land that belongs to Israelis will not be passed from one tribe to another tribe. Each Israeli will keep
@@ -23,10 +23,10 @@ Israeli will keep the land that belonged to his ancestors.
 \v 9 The land must not be passed from one tribe to another tribe. Each Israeli tribe must keep the land that it received from
 its ancestors.” 
 \p
-\v 10 Zelophehad's daughters obeyed what Yahweh told Moses/me. 
+\v 10 Zelophehad's daughters obeyed what Yahweh told Moses\f + \ft Or: me \f*. 
 \v 11 The five daughters—Mahlah, Tirzah, Hoglah, Milcah and Noah—married their cousins, their father's relatives.
 \v 12 The men whom they married were from the tribe of Manasseh, so their land continued to belong to their father's family and
 tribe. 
 \p
-\v 13 Those were the commands \f + \fk doublet \f* that Yahweh gave to Moses/me to tell to the Israelis, while they/we were on the plains of
+\v 13 Those were the commands \\f + \\ft doublet \\f* that Yahweh gave to Moses\f + \ft Or: me \f* to tell to the Israelis, while they\f + \ft Or: we \f* were on the plains of
 the Moab region, close to the Jordan River, across from Jericho.

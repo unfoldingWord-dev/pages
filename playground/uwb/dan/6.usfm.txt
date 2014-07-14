@@ -4,15 +4,15 @@
 \v 1 King Darius decided to divide his kingdom into 120 provinces. He appointed a governor to rule each province.
 \v 2 He also appointed me and two other men to be administrators, to supervise the governors and to be sure that they did the
 king's work \add properly\add*, in order that the king would not have to worry.
-\v 3 I soon showed that I was ◄more capable/able to do the work better► than all the other administrators and the governors.
+\v 3 I soon showed that I was ◄more capable\f + \ft Or: able \f* to do the work better► than all the other administrators and the governors.
 Because of that, the king planned to appoint me to be in charge of the entire empire.
 \v 4 Then, the other administrators and the governors \add became
 jealous\add*. So they began to search to find something that they could criticize about the way I was working for the king. But
-I always did his/my work faithfully and honestly, and was never lazy. So they could not find anything to criticize.
+I always did his\f + \ft Or: my \f* work faithfully and honestly, and was never lazy. So they could not find anything to criticize.
 \v 5 They concluded, “The only way we can find something for which we can criticize Daniel will be something concerning the
 laws that his god \add his given him\add*.” 
 \p
-\v 6 So the administrators and governors went as one group to the king and said, “◄Your Majesty/O king►, we wish that you will
+\v 6 So the administrators and governors went as one group to the king and said, “◄Your Majesty\f + \ft Or: O \f* king►, we wish that you will
 live a long time! 
 \v 7 We administrators and governors and district governors and advisors and other officials have all agreed that you should
 make a law that everyone must obey. We want you to command that for the next thirty days people may pray only to you. If anyone
@@ -39,12 +39,12 @@ attention to you or the law that you \add signed\add*. He prays to his god three
 \v 14 When the king heard that, he was very distressed. He tried to find a way to save me. All the rest of the day he tried to
 think of a way to rescue me. 
 \p
-\v 15  \add In the evening, many of\add* \f + \fk hyperbole \f* the officials went together to the king and said, “◄Your Majesty/O king►, you
-know that \add our governments of\add* Media and Persia have declared that no law that the king signs can be canceled/changed.
+\v 15  \add In the evening, many of\add* \\f + \\ft hyperbole \\f* the officials went together to the king and said, “◄Your Majesty\f + \ft Or: O \f* king►, you
+know that \add our governments of\add* Media and Persia have declared that no law that the king signs can be canceled\f + \ft Or: changed \f*.
 \add So Daniel must be thrown to the lions!\add*” 
 \p
 \v 16 So the king gave the order, and his servants brought me and threw me into a pit where the lions
-\add were\add*. \add Before they threw me in\add*, the king said to me, “I hope/wish that your God, whom you worship regularly,
+\add were\add*. \add Before they threw me in\add*, the king said to me, “I hope\f + \ft Or: wish \f* that your God, whom you worship regularly,
 will rescue you!” 
 \p
 \v 17 They rolled a huge stone across the entrance to the pit. Then the king
@@ -60,9 +60,9 @@ me\add*.
 \v 20 When he came near it, he was very worried. He called out, “Daniel, you who serve the all-powerful God! Was your God, whom
 you worship regularly, able to save you from the lions?” 
 \p
-\v 21 I answered, “◄Your Majesty/O king►, I hope that you will live a long time!
+\v 21 I answered, “◄Your Majesty\f + \ft Or: O \f* king►, I hope that you will live a long time!
 \v 22 Yes, my God sent his angel to shut the lions' mouths, in order that they would not harm me! He did that because
-\add he knows that\add* I have done nothing that he thinks is wrong. And, ◄Your Majesty/O king►, I never did anything wrong to
+\add he knows that\add* I have done nothing that he thinks is wrong. And, ◄Your Majesty\f + \ft Or: O \f* king►, I never did anything wrong to
 you!” 
 \p
 \v 23 The king was extremely happy, and he commanded his servants to lift me out of the pit. When they did that, they saw that
@@ -75,7 +75,7 @@ bones before they fell onto the bottom of the pit!
 \v 25 Then King Darius \add wrote\add* this message and sent it throughout his kingdom to the people of every people-group and
 nation and who spoke various languages: 
 \b
-\pi “I wish/hope that all things go very well with you! 
+\pi “I wish\f + \ft Or: hope \f* that all things go very well with you! 
 \pi
 \v 26 I command that everyone in my kingdom should fear and revere the God that Daniel
 \add worships\add*. 

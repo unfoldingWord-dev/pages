@@ -1,7 +1,7 @@
 \c 3  
 \s They rebuilt the altar in Jerusalem 
 \p
-\v 1  \add After the Israeli people returned to Jerusalem\add*, and they began to live in their towns, ◄in the autumn of/after
+\v 1  \add After the Israeli people returned to Jerusalem\add*, and they began to live in their towns, ◄in the autumn of\f + \ft Or: after \f*
 the hot season ended in► that year, they all gathered together in Jerusalem.
 \v 2 Then Jeshua, the son of Jehozadak, and his fellow priests, and Zerubbabel the son of Shealtiel and his friends, all began
 to rebuild the altar of God, the one whom the Israeli people \add worshiped\add*. They did that in order that they could
@@ -25,14 +25,14 @@ each year \add to honor\add* Yahweh. They also brought other offerings only beca
 \add the mountains in\add* Lebanon \add to the Mediterranean seacoast and then floated them along the coast of the
 Sea\add*, to Joppa. King Cyrus permitted them to do that. Then the logs were brought from Joppa inland up to Jerusalem.
 \p
-\v 8 The Israelis started to rebuild the temple in the ◄Spring/time before the hot season► of the second year after they
+\v 8 The Israelis started to rebuild the temple in the ◄Spring\f + \ft Or: time \f* before the hot season► of the second year after they
 returned to Jerusalem. Zerubbabel and Jeshua and all the people who had returned to Jerusalem worked on the building. All the
-◄Levites/men who did work in the temple► supervised this work. 
+◄Levites\f + \ft Or: men \f* who did work in the temple► supervised this work. 
 \v 9 Jeshua and his sons and his other relatives, and Kadmiel and his sons, who were descendants of Hodaviah, also helped to
 supervise the work. The family of Henadad, who were also all Levites, joined with them in supervising this work.
 \p
 \v 10 When the builders finished laying the foundation of the temple, the priests put on their robes and stood in their places,
-blowing their trumpets. Then the Levites, who were descendants of Asaph, clashed/banged their cymbals to praise Yahweh, just as
+blowing their trumpets. Then the Levites, who were descendants of Asaph, clashed\f + \ft Or: banged \f* their cymbals to praise Yahweh, just as
 King David had \add many years previously\add* told \add Asaph and the other
 musicians\add* to do. 
 \v 11 They praised Yahweh and thanked him, and they sang this song about him:

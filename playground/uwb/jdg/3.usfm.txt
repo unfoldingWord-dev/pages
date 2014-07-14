@@ -73,4 +73,4 @@ of them escaped.
 \s Shamgar became their next leader 
 \p
 \v 31 After Ehud \add died\add*, Shamgar became their leader. He rescued the Israelis
-\add from the Philistines. In one battle\add* he killed six hundred Philistines with an ◄ox goad/sharp wooden pole►.
+\add from the Philistines. In one battle\add* he killed six hundred Philistines with an ◄ox goad\f + \ft Or: sharp \f* wooden pole►.

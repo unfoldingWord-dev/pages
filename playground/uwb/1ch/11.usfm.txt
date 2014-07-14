@@ -4,7 +4,7 @@
 \v 1 Then the people of Israel came to David at Hebron \add town\add* and said to him, “Listen, we have the same ancestors
 [IDI] that you have. 
 \v 2 In the past, when Saul was our king, it was you who led our Israeli
-\add soldiers in our battles\add*. You are the one to whom our God promised, ‘You will be the leader \f + \fk metaphor \f* of my people; you
+\add soldiers in our battles\add*. You are the one to whom our God promised, ‘You will be the leader \\f + \\ft metaphor \\f* of my people; you
 will be their king.’ ” 
 \p
 \v 3 So all the Israeli elders came to David at Hebron. And David made a sacred agreement with them while Yahweh was listening.
@@ -26,13 +26,13 @@ of all the army.
 City of David. 
 \v 8 David's workers rebuilt the city, starting where the land was filled in, and extending to the wall that was around the
 city. Joab's \add men\add* repaired the other parts of the city.
-\v 9 David became more and more powerful/influential, because the Almighty Commander of the armies of angels was with/helping
+\v 9 David became more and more powerful\f + \ft Or: influential \f*, because the Almighty Commander of the armies of angels was with\f + \ft Or: helping \f*
 him. 
 \s The list of David's mighty warriors 
 \p
 \v 10 Yahweh had promised \add that David would become the king\add*. And all the Israeli people ◄were happy that David
-was/supported David as► their king. 
-\p There were many soldiers/warriors who helped David's kingdom to remain strong.
+was\f + \ft Or: supported \f* David as► their king. 
+\p There were many soldiers\f + \ft Or: warriors \f* who helped David's kingdom to remain strong.
 \v 11 This is a list of David's \add most outstanding\add* warriors:
 \p Jashobeam was from the Hacmon clan. He was the leader of David's three most powerful soldiers. One time he fought against
 three hundred enemies and killed them all with his spear. 
@@ -50,8 +50,8 @@ some water from the well near the gate at Bethlehem!”
 \v 18 So the three greatest warriors forced through the camp of Philistia soldiers and drew some water from the well, and
 brought it to David. But he would not drink it. Instead, he poured it out
 \add on the ground to be an offering\add* to Yahweh. 
-\v 19 He said, “Yahweh, it would certainly not be right for me to drink this water! That would be like \f + \fk rhetorical question \f* drinking the blood
-of these men who were willing/ready to die for me!” So he refused to drink it.
+\v 19 He said, “Yahweh, it would certainly not be right for me to drink this water! That would be like \\f + \\ft rhetorical question \\f* drinking the blood
+of these men who were willing\f + \ft Or: ready \f* to die for me!” So he refused to drink it.
 \p That was one of the things that David's three greatest warriors did.
 \p
 \v 20 Joab's \add younger\add* brother Abishai was the leader of the thirty greatest warriors.
@@ -62,7 +62,7 @@ three men.
 \v 22 Jehoiada's son Benaiah was a brave soldier from Kabzeel \add town\add* who did great deeds. He killed two of the best
 warriors from the Moab \add people-group\add*. One day he went down into a pit when snow was falling
 \add on the ground\add*, and killed a lion there. 
-\v 23 He also killed a soldier from Egypt who was ◄7-1/2 ft./2.3 meters► tall. The soldier from Egypt carried a spear that was
+\v 23 He also killed a soldier from Egypt who was ◄7-1\f + \ft Or: 2 \f* ft.\f + \ft Or: 2 \f*.3 meters► tall. The soldier from Egypt carried a spear that was
 as long as a weaver's rod. Benaiah had \add only\add* a club, but he grabbed the other man's spear and killed him with it.
 \v 24 Those are some of the things that Benaiah did. So he became as famous as the three greatest warriors.
 \v 25 He was more honored that the other members of the group of thirty great warriors, but he did not become a member of the
@@ -96,13 +96,13 @@ to\add* the tribe of Benjamin;
 \li2 Eliahba, from Shaalbon \add town\add*; 
 \li2
 \v 34 The sons of Hashem from the Gizon \add clan\add*; 
-\li2 Jonathan the son of Shagee from the Harar \add town/clan\add*;
+\li2 Jonathan the son of Shagee from the Harar \add town\f + \ft Or: clan \f*\add*;
 \li2
-\v 35 Ahiam the son of Sharar/Sacar, from Harar \add town/clan\add*;
+\v 35 Ahiam the son of Sharar\f + \ft Or: Sacar \f*, from Harar \add town\f + \ft Or: clan \f*\add*;
 \li2 Eliphal the son of Ur; 
 \li2
 \v 36 Hepher from the Mekerath \add clan\add*; 
-\li2 Ahijah from the Pelon \add clan/town\add*; 
+\li2 Ahijah from the Pelon \add clan\f + \ft Or: town \f*\add*; 
 \li2
 \v 37 Hezro, from Carmel \add city\add*; 
 \li2 Naarai the son of Ezbai; 
@@ -122,17 +122,17 @@ to\add* the tribe of Benjamin;
 \add soldiers\add* with him; 
 \li2
 \v 43 Hanan the son of Maacah; 
-\li2 Joshaphat from Mithna \add town/clan\add*; 
+\li2 Joshaphat from Mithna \add town\f + \ft Or: clan \f*\add*; 
 \li2
 \v 44 Uzzia from Ashterath \add town\add*; 
 \li2 Shama and Jeiel, the sons of Hotham, from Aroer \add city\add*;
 \li2
 \v 45 Jediael the son of Shimri 
-\li2 and his \add younger\add* brother Joha, from Tiz \add town/clan\add*;
+\li2 and his \add younger\add* brother Joha, from Tiz \add town\f + \ft Or: clan \f*\add*;
 \li2
-\v 46 Eliel from Mahavah \add town/clan\add*; 
+\v 46 Eliel from Mahavah \add town\f + \ft Or: clan \f*\add*; 
 \li2 Jeribai and Joshaviah, the sons of Elnaam; 
 \li2 Ithmah from the Moab \add region\add*; 
 \li2
 \v 47 Eliel and Obed, 
-\li2 and Jaasiel from Zobah \add town/clan\add*. 
+\li2 and Jaasiel from Zobah \add town\f + \ft Or: clan \f*\add*. 

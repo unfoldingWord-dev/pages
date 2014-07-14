@@ -1,7 +1,7 @@
 \c 114  
 \q
 \v 1 When the Israeli people left Egypt, 
-\q when they who were descendants of Jacob left people who spoke a foreign/different language,
+\q when they who were descendants of Jacob left people who spoke a foreign\f + \ft Or: different \f* language,
 \q2
 \v 2 the land of Judah became the place where people worshiped God;
 \q2 and Israel became the land \f + \ft (OR, the Israeli people became the people) \f* that he ruled over.
@@ -14,7 +14,7 @@
 it\add*. 
 \q
 \v 4  \add When they came to Sinai Mountain and there was a big earthquake\add*,
-\q2 \add it was as though\add* the mountains skipped/jumped like goats do
+\q2 \add it was as though\add* the mountains skipped\f + \ft Or: jumped \f* like goats do
 \q2 and the hills jumped around like lambs do. 
 \b
 \q
@@ -26,8 +26,8 @@ it\add*.
 \b
 \q
 \v 7  \add I would reply that\add* it was the presence of the Lord that caused those things to happen!
-\q Everyone/Everything on the earth should tremble in the presence of God, whom ◄Jacob
-\add worshiped\add*/the Israeli people \add worship\add*►! 
+\q Everyone\f + \ft Or: Everything \f* on the earth should tremble in the presence of God, whom ◄Jacob
+\add worshiped\add*\f + \ft Or: the \f* Israeli people \add worship\add*►! 
 \q
 \v 8 He is the one who caused pools of water \add for the Israeli people to drink from to
 flow\add* from a rock, 

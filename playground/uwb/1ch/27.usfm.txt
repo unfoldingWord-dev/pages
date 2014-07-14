@@ -2,7 +2,7 @@
 \s Army Commanders 
 \p
 \v 1 This is a list of the Israeli men who served the king in the army. Some were leaders of families, some were commanders of
-100 men, some were commanders of 1,000 men, and some were other officers. There were 24,000 men \f + \fk doublet \f* in each group. Each group
+100 men, some were commanders of 1,000 men, and some were other officers. There were 24,000 men \\f + \\ft doublet \\f* in each group. Each group
 served one month of each year. 
 \b
 \li
@@ -10,43 +10,43 @@ served one month of each year.
 \add of each year\add*. 
 \v 3 He was a descendant of Perez, and he was the commander of all the army officers during the first month of each year.
 \li
-\v 4 Dodai, from the clan of Ahohi, was the commander of the group that served during the following/second month of each year.
-Mikloth was his assistant/chief officer. 
+\v 4 Dodai, from the clan of Ahohi, was the commander of the group that served during the following\f + \ft Or: second \f* month of each year.
+Mikloth was his assistant\f + \ft Or: chief \f* officer. 
 \li
-\v 5 Benaiah the son of Jehoiada the Supreme Priest was the commander of the group that served during the following/third
+\v 5 Benaiah the son of Jehoiada the Supreme Priest was the commander of the group that served during the following\f + \ft Or: third \f*
 month. 
 \v 6 He was the one who was a mighty warrior among David's thirty greatest soldiers, and he was their leader. His son Ammizabad
 was his assistant. 
 \li
 \v 7 Asahel, Joab's \add younger\add* brother, was \add the commander of the group that
-served\add* during the following/fourth month. Asahel's son Zebadiah became the commander after Asahel
+served\add* during the following\f + \ft Or: fourth \f* month. Asahel's son Zebadiah became the commander after Asahel
 \add was killed\add*. 
 \li
-\v 8 The commander for the following/fifth month was Shamhuth, a descendant of Izrah.
+\v 8 The commander for the following\f + \ft Or: fifth \f* month was Shamhuth, a descendant of Izrah.
 \li
-\v 9 The commander for the following/sixth month was Ira the son of Ikkesh from Tekoa
+\v 9 The commander for the following\f + \ft Or: sixth \f* month was Ira the son of Ikkesh from Tekoa
 \add town\add*. 
 \li
-\v 10 The commander for the following/seventh month was Helez a member of the Pelon
+\v 10 The commander for the following\f + \ft Or: seventh \f* month was Helez a member of the Pelon
 \add clan\add* from the tribe of Ephraim. 
 \li
-\v 11 The commander for the following/eighth month was Sibbecai, a descendant of Zerah from Hushah
+\v 11 The commander for the following\f + \ft Or: eighth \f* month was Sibbecai, a descendant of Zerah from Hushah
 \add town\add*. 
 \li
-\v 12 The commander for the following/ninth month was Abiezer from Anathoth
+\v 12 The commander for the following\f + \ft Or: ninth \f* month was Abiezer from Anathoth
 \add city\add* in the tribe of Benjamin. 
 \li
-\v 13 The commander for the following/tenth month was Maharai, a descendant of Zerah from Netophah
+\v 13 The commander for the following\f + \ft Or: tenth \f* month was Maharai, a descendant of Zerah from Netophah
 \add town\add*. 
 \li
-\v 14 The commander for the following/eleventh month was Benaiah from Pirathon
+\v 14 The commander for the following\f + \ft Or: eleventh \f* month was Benaiah from Pirathon
 \add town\add* in the tribe of Ephraim. 
 \li
 \v 15 The commander for the last month \add of each year\add* was Heldai, a descendant of Othniel from Netophath
 \add town\add*. 
 \s The administrators of the twelve tribes 
 \li
-\v 16 This is a list of the administrators of the \add twelve\add* tribes \f + \fk doublet \f* of Israel:
+\v 16 This is a list of the administrators of the \add twelve\add* tribes \\f + \\ft doublet \\f* of Israel:
 \li Eliezer the son of Zicri was the administrator of the tribe of Reuben.
 \li Shephatiah the son of Maacah was the administrator of the tribe of Simeon.
 \li
@@ -73,7 +73,7 @@ served\add* during the following/fourth month. Asahel's son Zebadiah became the 
 \add many years previously\add* that there would be \add as many
 people\add* in Israel as there are stars in the sky. 
 \v 24 Joab \add and his helpers\add* started to count the men of Israel, but they did not finish counting them
-\add because Joab knew that Yahweh was angry about their being counted\add*. Yahweh punished \f + \fk metonymy \f* the people of Israel because
+\add because Joab knew that Yahweh was angry about their being counted\add*. Yahweh punished \\f + \\ft metonymy \\f* the people of Israel because
 of this counting, and as a result the total number of Israeli men
 \add able to serve in the army\add* was not written on the scroll about King David's
 \add rule\add*. 
@@ -92,7 +92,7 @@ the watchtowers.
 \p
 \v 28 Baal-Hanan from Geder \add city\add* was in charge of storing the olive oil.
 \p
-\v 29 Shitrai from the Sharon Plain was in charge of the herds of cattle that ◄grazed/ate grass► there.
+\v 29 Shitrai from the Sharon Plain was in charge of the herds of cattle that ◄grazed\f + \ft Or: ate \f* grass► there.
 \li Shaphat the son of Adlai was in charge of the cattle in the valleys.
 \p
 \v 30 Obil, a descendant of Ishmael, was in charge of the camels.

@@ -3,7 +3,7 @@
 \q
 \v 1 Only foolish people say to themselves, “There is no God!” 
 \q People who say that are corrupt; they commit terrible sins; 
-\q2 there is not one of them who does what is good/right. 
+\q2 there is not one of them who does what is good\f + \ft Or: right \f*. 
 \b
 \q
 \v 2 God looks down from heaven and sees humans; 
@@ -11,7 +11,7 @@
 \q2 with the result that he seeks \add to know\add* God. 
 \q
 \v 3 But they are all morally corrupt; 
-\q2 no one does what is good/right. 
+\q2 no one does what is good\f + \ft Or: right \f*. 
 \b
 \q
 \v 4 Will all these evil people never learn \add what God will do to
@@ -27,6 +27,6 @@ them\add*?
 \q2 so he will cause them to be \add defeated and\add* completely disgraced.
 \b
 \q
-\v 6 I wish/desire that someone from Jerusalem \f + \fk metonymy \f* would come and rescue the Israeli people!
+\v 6 I wish\f + \ft Or: desire \f* that someone from Jerusalem \\f + \\ft metonymy \\f* would come and rescue the Israeli people!
 \q2 God, when you bless your people again, 
 \q all the Israeli people, all the descendants of Jacob, will rejoice.

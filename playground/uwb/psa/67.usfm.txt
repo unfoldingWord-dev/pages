@@ -2,7 +2,7 @@
 \s A psalm for the choir director, to be accompanied by stringed instruments
 \q
 \v 1 God, act mercifully toward us and bless us; 
-\q act kindly/favorably toward us [IDI], 
+\q act kindly\f + \ft Or: favorably \f* toward us [IDI], 
 \qr (Think about that!) 
 \q2
 \v 2 in order that everyone in the world may know what you want them to do,
@@ -14,7 +14,7 @@ to\add* save them.
 \q I want them all to praise you! 
 \q
 \v 4 I desire that the people of all nations will be glad and sing joyfully,
-\q2 because you judge the people-groups equally/justly, 
+\q2 because you judge the people-groups equally\f + \ft Or: justly \f*, 
 \q2 and you guide all the nations in the world. 
 \qr (Think about that!) 
 \q
@@ -26,4 +26,4 @@ to\add* save them.
 \q God, our God, has blessed us. 
 \q
 \v 7 And because God has blessed us, 
-\q I desire that all people everywhere \f + \fk metonymy \f* on the earth will have an awesome respect for him.
+\q I desire that all people everywhere \\f + \\ft metonymy \\f* on the earth will have an awesome respect for him.

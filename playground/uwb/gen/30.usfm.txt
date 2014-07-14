@@ -4,13 +4,13 @@
 \v 1 Rachel realized that she was not becoming pregnant and giving birth to any children for Jacob. So she became jealous of
 her older sister, Leah, because Leah had given birth to four sons. She said to Jacob, “Enable me to become pregnant and give
 birth to children. If you do not do that, I will die!” 
-\v 2 Jacob became angry with Rachel and said, “◄I am not God!/Am I God?► \f + \fk rhetorical question \f* He is the one who has prevented you from
+\v 2 Jacob became angry with Rachel and said, “◄I am not God!\f + \ft Or: Am \f* I God?► \\f + \\ft rhetorical question \\f* He is the one who has prevented you from
 becoming pregnant!” 
-\v 3 Then she said, “Look, here is my female slave, Bilhah. ◄Sleep with/Have sex with► \f + \fk euphemism \f* her, so that she may become
-pregnant and give birth to children for me. In that way it will be as though ◄I have children/her children are mine►.”
-\v 4 So she gave him her slave, Bilhah, to be another wife for him, and Jacob had sex \f + \fk euphemism \f* with her.
+\v 3 Then she said, “Look, here is my female slave, Bilhah. ◄Sleep with\f + \ft Or: Have \f* sex with► \\f + \\ft euphemism \\f* her, so that she may become
+pregnant and give birth to children for me. In that way it will be as though ◄I have children\f + \ft Or: her \f* children are mine►.”
+\v 4 So she gave him her slave, Bilhah, to be another wife for him, and Jacob had sex \\f + \\ft euphemism \\f* with her.
 \v 5 She became pregnant and bore Jacob a son. 
-\v 6 Rachel said, “God has ◄vindicated me/judged my case and has decided that what I have done is right►. He has also heard my
+\v 6 Rachel said, “God has ◄vindicated me\f + \ft Or: judged \f* my case and has decided that what I have done is right►. He has also heard my
 requests and has given me a son.” So she named him Dan, which sounds like the Hebrew word that means 'he judged.'
 \v 7 Later, Rachel's slave Bilhah became pregnant again and gave birth to another son for Jacob.
 \v 8 Then Rachel said, “I have had a great struggle to have children like my older sister, but truly I have a son.” So she
@@ -23,13 +23,13 @@ Zilpah, and gave her to Jacob to be another wife for him.
 \v 12 Later Leah's slave, Zilpah, gave birth to another son for Jacob.
 \v 13 Leah said, “Now I am very happy, and people will call me happy.” So she named him Asher, which means 'happy.'
 \p
-\v 14 During the time when they were harvesting wheat, Reuben went out into the fields and saw some ◄mandrakes/plants that
+\v 14 During the time when they were harvesting wheat, Reuben went out into the fields and saw some ◄mandrakes\f + \ft Or: plants \f* that
 women eat to help them to become pregnant►. He brought some of them to his mother Leah. But Rachel saw them and said to Leah,
 “Please give me some of those plants that your son brought to you!”
-\v 15 But Leah said to her, “No! ◄It was bad that you stole my husband!/Is it not bad enough that you stole my husband?► \f + \fk rhetorical question \f*
-Now ◄are you going to take my son's mandrake plants?/you want to take my son's mandrake plants also!►” \f + \fk rhetorical question \f* So Rachel said,
+\v 15 But Leah said to her, “No! ◄It was bad that you stole my husband!\f + \ft Or: Is \f* it not bad enough that you stole my husband?► \\f + \\ft rhetorical question \\f*
+Now ◄are you going to take my son's mandrake plants?\f + \ft Or: you \f* want to take my son's mandrake plants also!►” \\f + \\ft rhetorical question \\f* So Rachel said,
 “All right, Jacob can sleep with you tonight, if you give me some of your son's mandrake plants.”
-\add So Leah ◄agreed/gave her some►\add*. 
+\add So Leah ◄agreed\f + \ft Or: gave \f* her some►\add*. 
 \p
 \v 16 When Jacob returned from the wheat fields that evening, Leah went out to meet him. She said, “You must sleep with me
 tonight, because I gave Rachel some mandrake plants to pay her for allowing us to do that.” So Jacob slept with her that night.
@@ -38,7 +38,7 @@ tonight, because I gave Rachel some mandrake plants to pay her for allowing us t
 which sounds like the Hebrew word that means 'reward.' 
 \p
 \v 19 Leah became pregnant again and bore a sixth son for Jacob.
-\v 20 Leah said, “God has given me a precious gift. ◄This time/Now► my husband will honor/respect me, because I have given
+\v 20 Leah said, “God has given me a precious gift. ◄This time\f + \ft Or: Now \f*► my husband will honor\f + \ft Or: respect \f* me, because I have given
 birth to six sons for him.” So she named him Zebulon, which sounds like the Hebrew word that means 'accepted gift.'
 \p
 \v 21 Later she gave birth to a daughter, and named her Dinah. 
@@ -76,7 +76,7 @@ them and told his sons to take care of them.
 \v 36 Then he took these flocks and walked a distance of three days, in order that he could be that far from Jacob. Jacob
 continued to take care of the rest of Laban's flocks. 
 \p
-\v 37 Then Jacob cut some branches of ◄poplar, almond, and plane trees/three kinds of trees that had white wood►. He peeled
+\v 37 Then Jacob cut some branches of ◄poplar, almond, and plane trees\f + \ft Or: three \f* kinds of trees that had white wood►. He peeled
 strips of bark from the branches, so that where the bark had been peeled off, the branches were light in color.
 \v 38 Then he placed the peeled branches in the troughs where they put the water for the animals to drink, so that the branches
 would be in front of the flocks when they came to drink. 

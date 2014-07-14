@@ -2,17 +2,17 @@
 \q
 \v 1 Praise Yahweh! 
 \q Praise Yahweh, because he does good things \add for us\add*; 
-\q2 he faithfully loves us forever/continually! 
+\q2 he faithfully loves us forever\f + \ft Or: continually \f*! 
 \q
 \v 2  \add Because Yahweh has done many great things\add*, 
-\q2 no one can \f + \fk rhetorical question \f* tell all the great things that Yahweh has done,
-\q2 and no one can praise him enough/sufficiently. 
+\q2 no one can \\f + \\ft rhetorical question \\f* tell all the great things that Yahweh has done,
+\q2 and no one can praise him enough\f + \ft Or: sufficiently \f*. 
 \q
-\v 3 ◄Happy are/He is pleased with► those who act fairly/justly,
+\v 3 ◄Happy are\f + \ft Or: He \f* is pleased with► those who act fairly\f + \ft Or: justly \f*,
 \q2 with those who always do what is right. 
 \q
 \v 4 Yahweh, be kind to me when you help your people; 
-\q2 help me when you rescue/save them. 
+\q2 help me when you rescue\f + \ft Or: save \f* them. 
 \q
 \v 5 Allow me to see it when your people become prosperous again
 \q2 and when all the people of your nation, \add Israel\add*, are happy;
@@ -21,7 +21,7 @@
 \b
 \q
 \v 6 We and our ancestors have sinned; 
-\q2 we have done what is wicked and what is evil \f + \fk doublet \f*. 
+\q2 we have done what is wicked and what is evil \\f + \\ft doublet \\f*. 
 \q
 \v 7 When our ancestors were in Egypt, 
 \q2 they did not pay attention to the wonderful things that Yahweh did;
@@ -34,9 +34,9 @@
 \q
 \v 9 He rebuked the Red Sea and it became dry, 
 \q2 and then while he led our ancestors, 
-\q2 they walked through it as though it were as dry as a desert \f + \fk simile \f*.
+\q2 they walked through it as though it were as dry as a desert \\f + \\ft simile \\f*.
 \q
-\v 10 In that way he rescued them from the power \f + \fk metonymy \f* of their enemies who hated them \f + \fk doublet \f*.
+\v 10 In that way he rescued them from the power \\f + \\ft metonymy \\f* of their enemies who hated them \\f + \\ft doublet \\f*.
 \q
 \v 11 Then their enemies were drowned in the water \add of the Red
 Sea\add*; 
@@ -66,7 +66,7 @@ priest\add*,
 \q2 and also buried Abiram and his family. 
 \q
 \v 18 And \add God sent\add* a fire down \add from heaven\add* 
-\q2 which burned up all the wicked people who ◄supported them/agreed with► them.
+\q2 which burned up all the wicked people who ◄supported them\f + \ft Or: agreed \f* with► them.
 \b
 \q
 \v 19 Then the \add Israeli leaders\add* made a gold \add statue of
@@ -79,7 +79,7 @@ a\add* calf at Sinai \add Mountain\add*
 \v 21 They forgot about God, who had rescued them by the great miracles that he performed in Egypt.
 \q
 \v 22 They forgot about the wonderful things that he did for them in Egypt
-\q2 and the amazing/awesome things that he did for them at the Red Sea.
+\q2 and the amazing\f + \ft Or: awesome \f* things that he did for them at the Red Sea.
 \q
 \v 23 Because of that, God said that he would get rid of the Israelis,
 \q2 but Moses, whom God had chosen \add to serve him\add*, stood up to persuade God
@@ -87,7 +87,7 @@ a\add* calf at Sinai \add Mountain\add*
 \q2 And as a result God did not destroy them. 
 \b
 \q
-\v 24  \add Later\add*, our ancestors ◄refused/were afraid► to enter beautiful
+\v 24  \add Later\add*, our ancestors ◄refused\f + \ft Or: were \f* afraid► to enter beautiful
 \add Canaan\add* land 
 \q2 because they did not believe \add that God would enable them to take the land from the people who were living there
 as\add* he had promised. 
@@ -95,11 +95,11 @@ as\add* he had promised.
 \v 25 They stayed in their tents and grumbled 
 \q2 and would not pay attention to what Yahweh said that they should do.
 \q
-\v 26 So he solemnly \f + \fk metonymy \f* told them 
+\v 26 So he solemnly \\f + \\ft metonymy \\f* told them 
 \q2 that he would cause them to die there in the desert, 
 \q2
 \v 27 and that he would scatter their descendants among the \add people
-of\add* other nations/people-groups \add who did not believe in him\add*,
+of\add* other nations\f + \ft Or: people \f*-groups \add who did not believe in him\add*,
 \q2 and that he would allow them to die in those lands. 
 \b
 \q
@@ -109,11 +109,11 @@ of\add* other nations/people-groups \add who did not believe in him\add*,
 other\add* lifeless gods. 
 \q
 \v 29 Yahweh became very angry because of what they had done, 
-\q2 so \add again\add* he sent a terrible disease to attack/strike them.
+\q2 so \add again\add* he sent a terrible disease to attack\f + \ft Or: strike \f* them.
 \q
-\v 30 But Phinehas stood up and punished/killed \add the ones who had sinned
+\v 30 But Phinehas stood up and punished\f + \ft Or: killed \f* \add the ones who had sinned
 greatly\add*, 
-\q2 and as a result the ◄plague/serious disease► ended. 
+\q2 and as a result the ◄plague\f + \ft Or: serious \f* disease► ended. 
 \q
 \v 31 People have remembered that righteous deed that Phinehas did,
 \q2 and in future years people will remember it. 
@@ -134,19 +134,19 @@ Yahweh\add*
 \q2 and they started to do the evil things that those people did.
 \q
 \v 36 Our ancestors worshiped the idols of those people, 
-\q2 which resulted in their being destroyed/exiled/taken to another country \f + \fk metaphor \f*.
+\q2 which resulted in their being destroyed\f + \ft Or: exiled \f*\f + \ft Or: taken \f* to another country \\f + \\ft metaphor \\f*.
 \q
 \v 37  \add Some of\add* the Israelis sacrificed their sons and daughters to the demons
 \add that those idols represented\add*. 
 \q
-\v 38 They killed \f + \fk metonymy \f* their own children, who ◄were innocent/had not things that were wrong►,
+\v 38 They killed \\f + \\ft metonymy \\f* their own children, who ◄were innocent\f + \ft Or: had \f* not things that were wrong►,
 \q and offered them as sacrifices to the idols in Canaan. 
-\q2 As a result, Canaan land was polluted by those murders \f + \fk metonymy \f*.
+\q2 As a result, Canaan land was polluted by those murders \\f + \\ft metonymy \\f*.
 \q
 \v 39 So by their deeds they caused themselves to become unacceptable to God;
 \q2 \add because they did not faithfully worship only God\add*, 
 \q2 \add they became like\add* women who sleep with other men \add instead of sleeping only with their
-husbands\add* \f + \fk metaphor \f*. 
+husbands\add* \\f + \\ft metaphor \\f*. 
 \b
 \q
 \v 40 So Yahweh became very angry with his people; 
@@ -156,8 +156,8 @@ husbands\add* \f + \fk metaphor \f*.
 him\add* to conquer them, 
 \q2 so those who hated our ancestors started to rule over them. 
 \q
-\v 42 Their enemies ◄oppressed them/treated them cruelly► 
-\q2 and caused them to be completely controlled by their enemies \f + \fk metaphor \f*.
+\v 42 Their enemies ◄oppressed them\f + \ft Or: treated \f* them cruelly► 
+\q2 and caused them to be completely controlled by their enemies \\f + \\ft metaphor \\f*.
 \q
 \v 43 Many times Yahweh rescued them, 
 \q2 but they continued to rebel against him, 
@@ -167,23 +167,23 @@ him\add* to conquer them,
 \v 44 However, Yahweh \add always\add* heard them when they cried out to him,
 \q2 and he listened to them when they were distressed. 
 \q
-\v 45 For their sake, he thought about the agreement/promise that he had made
+\v 45 For their sake, he thought about the agreement\f + \ft Or: promise \f* that he had made
 \add to bless\add* them, 
 \q2 and because he never stopped loving them very much, 
 \q2 he changed his mind \add about punishing them more\add*. 
 \q
-\v 46 He caused all those who had taken the Israelis \add to Babylonia\add* to ◄feel sorry for/pity► them.
+\v 46 He caused all those who had taken the Israelis \add to Babylonia\add* to ◄feel sorry for\f + \ft Or: pity \f*► them.
 \b
 \q
-\v 47 Yahweh our God, rescue/save us 
+\v 47 Yahweh our God, rescue\f + \ft Or: save \f* us 
 \q and bring us back \add to Israel\add* from among those people-groups
-\q2 in order that we may thank you \f + \fk metonymy \f* 
+\q2 in order that we may thank you \\f + \\ft metonymy \\f* 
 \q2 and joyfully praise you. 
 \b
 \q
 \v 48 Praise Yahweh, the God whom we Israelis \add worship\add*,
 \q praise him now and forever! 
 \b
-\q And I wish/desire that everyone say, “Amen/May it be so!” 
+\q And I wish\f + \ft Or: desire \f* that everyone say, “Amen\f + \ft Or: May \f* it be so!” 
 \q2 Praise Yahweh! 
 \ms Book Five 

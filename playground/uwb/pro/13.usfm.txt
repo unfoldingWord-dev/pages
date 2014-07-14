@@ -1,26 +1,26 @@
 \c 13  
 \q
-\v 1 Children who are wise ◄pay attention/heed it► when their parents discipline/correct them;
+\v 1 Children who are wise ◄pay attention\f + \ft Or: heed \f* it► when their parents discipline\f + \ft Or: correct \f* them;
 \q2 those who do not allow others to correct them do not pay attention when others rebuke them
 \add for their bad behavior\add*. 
 \q
-\v 2 Good people are rewarded [IDI] for the good things \f + \fk metaphor \f* that they say,
+\v 2 Good people are rewarded [IDI] for the good things \\f + \\ft metaphor \\f* that they say,
 \q2 but those who desire to deceive others are very eager to act violently.
 \b
 \q
-\v 3 Those who are very careful about what they say \f + \fk metonymy \f* will preserve their own lives;
-\q2 those who talk ◄without thinking/too much► will ruin themselves.
+\v 3 Those who are very careful about what they say \\f + \\ft metonymy \\f* will preserve their own lives;
+\q2 those who talk ◄without thinking\f + \ft Or: too \f* much► will ruin themselves.
 \b
 \q
-\v 4 People who are lazy want things very much, but they will not get anything \f + \fk hyperbole \f*.
+\v 4 People who are lazy want things very much, but they will not get anything \\f + \\ft hyperbole \\f*.
 \q2 People who work hard will get all that they want. 
 \b
 \q
-\v 5 Righteous/Honest people hate/detest lies, 
-\q2 but what wicked people do ◄is very disgraceful/stinks► \f + \fk doublet \f*.
+\v 5 Righteous\f + \ft Or: Honest \f* people hate\f + \ft Or: detest \f* lies, 
+\q2 but what wicked people do ◄is very disgraceful\f + \ft Or: stinks \f*► \\f + \\ft doublet \\f*.
 \b
 \q
-\v 6 The behavior \f + \fk personification \f* of those who always do what is right will protect them,
+\v 6 The behavior \\f + \\ft personification \\f* of those who always do what is right will protect them,
 \q2 but sinful behavior will ruin wicked people. 
 \b
 \q
@@ -33,11 +33,11 @@ killed\add*,
 \q2 but poor people \add do not have to worry about that because\add* no one threatens to kill them.
 \b
 \q
-\v 9 Righteous people are like a lamp \f + \fk metaphor \f* that shines brightly,
-\q2 but wicked people are like \f + \fk metaphor \f* a lamp that will \add soon\add* be extinguished.
+\v 9 Righteous people are like a lamp \\f + \\ft metaphor \\f* that shines brightly,
+\q2 but wicked people are like \\f + \\ft metaphor \\f* a lamp that will \add soon\add* be extinguished.
 \b
 \q
-\v 10 People who are arrogant/proud always cause strife; 
+\v 10 People who are arrogant\f + \ft Or: proud \f* always cause strife; 
 \q2 those who are wise ask other people for good advice. 
 \b
 \q
@@ -46,24 +46,24 @@ probably\add* will lose it quickly,
 \q2 but if people earn money slowly, the amount of money they have will increase.
 \b
 \q
-\v 12 When people do not receive the things that they are expecting to receive, they ◄are despaired/become devastated►;
-\q2 but if you receive what you are desiring to get, that will be like a tree \f + \fk metaphor \f*
+\v 12 When people do not receive the things that they are expecting to receive, they ◄are despaired\f + \ft Or: become \f* devastated►;
+\q2 but if you receive what you are desiring to get, that will be like a tree \\f + \\ft metaphor \\f*
 \add whose fruit gives you\add* life \f + \ft (OR, that will cause you to be joyful).
 \b
 \q
 \v 13 Those who despise the good advice \add that others give them\add* are bringing ruin on themselves;
-\q2 those who pay attention to that advice will ◄be secure/succeed►.
+\q2 those who pay attention to that advice will ◄be secure\f + \ft Or: succeed \f*►.
 \b
 \q
-\v 14 What wise people teach is like a fountain whose water gives life \f + \fk metaphor \f*;
-\q2 what they teach you will help you to escape when something dangerous is threatening to kill you \f + \fk metaphor \f*.
+\v 14 What wise people teach is like a fountain whose water gives life \\f + \\ft metaphor \\f*;
+\q2 what they teach you will help you to escape when something dangerous is threatening to kill you \\f + \\ft metaphor \\f*.
 \b
 \q
 \v 15 People respect those who have good sense, 
-\q2 but those who cannot be trusted are on the road to being ruined/destroyed (OR, will have a lot of difficulties/troubles) \f*.
+\q2 but those who cannot be trusted are on the road to being ruined\f + \ft Or: destroyed \f* (OR, will have a lot of difficulties\f + \ft Or: troubles \f*) \f*.
 \b
 \q
-\v 16 Those who have good sense always think carefully/wisely before they do something;
+\v 16 Those who have good sense always think carefully\f + \ft Or: wisely \f* before they do something;
 \q2 foolish people show \add by what they say and do\add* that they are foolish.
 \b
 \q
@@ -71,20 +71,20 @@ probably\add* will lose it quickly,
 \q2 but those who faithfully \add deliver their messages\add* cause people to act peacefully.
 \b
 \q
-\v 18 Those who refuse to pay attention when others discipline/correct them will become poor and disgraced;
+\v 18 Those who refuse to pay attention when others discipline\f + \ft Or: correct \f* them will become poor and disgraced;
 \q2 people respect those who accept it when they are rebuked \add for their bad
 behavior\add*. 
 \b
 \q
 \v 19 It is delightful to receive what we desire; 
-\q2 foolish people hate/refuse to turn away from doing evil. 
+\q2 foolish people hate\f + \ft Or: refuse \f* to turn away from doing evil. 
 \b
 \q
 \v 20 Those who habitually associate with wise people become wise;
-\q2 those who ◄are close friends of/associate with► foolish people will ◄regret it/be ruined►.
+\q2 those who ◄are close friends of\f + \ft Or: associate \f* with► foolish people will ◄regret it\f + \ft Or: be \f* ruined►.
 \b
 \q
-\v 21 Sinners have trouble \f + \fk personification \f* wherever they go, 
+\v 21 Sinners have trouble \\f + \\ft personification \\f* wherever they go, 
 \q2 but things will go well for righteous people. 
 \b
 \q
@@ -102,4 +102,4 @@ behavior\add*.
 \b
 \q
 \v 25 Righteous people have enough food to eat and be satisfied,
-\q2 but the stomachs of wicked people \f + \fk synecdoche \f* are always empty. 
+\q2 but the stomachs of wicked people \\f + \\ft synecdoche \\f* are always empty. 

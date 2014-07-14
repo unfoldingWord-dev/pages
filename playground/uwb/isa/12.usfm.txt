@@ -15,13 +15,13 @@
 \b
 \q
 \v 3 You(pl), \add his people\add*, will greatly enjoy being saved
-\q2 like \f + \fk metaphor \f* you enjoy drinking water from a fountain. 
+\q2 like \\f + \\ft metaphor \\f* you enjoy drinking water from a fountain. 
 \b
 \p
 \v 4 At that time you will say, 
-\q “We should thank Yahweh! We should praise him \f + \fk metonymy \f*! 
+\q “We should thank Yahweh! We should praise him \\f + \\ft metonymy \\f*! 
 \q2 We should tell the people of all the people-groups what he has done;
-\q2 we should enable them to know that he \f + \fk metonymy \f* is very great! 
+\q2 we should enable them to know that he \\f + \\ft metonymy \\f* is very great! 
 \q
 \v 5 We should sing to Yahweh, because he has done wonderful things.
 \q2 We should enable everyone in the world to know it! 

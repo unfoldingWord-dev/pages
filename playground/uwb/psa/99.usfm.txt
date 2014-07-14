@@ -1,24 +1,24 @@
 \c 99  
 \q
 \v 1 Yahweh is the \add supreme\add* king, 
-\q so all the people-groups should tremble ◄\add in his presence/in front of
+\q so all the people-groups should tremble ◄\add in his presence\f + \ft Or: in \f* front of
 him\add*►! 
 \q He sits on his throne \add in the temple\add* above the \add statues
 of\add* winged creatures, 
-\q2 so the earth should quake/shake! 
+\q2 so the earth should quake\f + \ft Or: shake \f*! 
 \q
 \v 2 Yahweh is a mighty \add king\add* in Jerusalem; 
 \q2 but he is \add also\add* the supreme ruler of all the people-groups.
 \q2
-\v 3 So they should praise him because he is very great/powerful;
+\v 3 So they should praise him because he is very great\f + \ft Or: powerful \f*;
 \q2 and he is holy! 
 \b
 \q
-\v 4 He is a mighty king who ◄loves/is pleased with► what is just/right;
-\q2 he has acted justly and fairly \f + \fk doublet \f* in Israel. 
+\v 4 He is a mighty king who ◄loves\f + \ft Or: is \f* pleased with► what is just\f + \ft Or: right \f*;
+\q2 he has acted justly and fairly \\f + \\ft doublet \\f* in Israel. 
 \q
 \v 5 Praise Yahweh our God! 
-\q2 Worship him \add in front of the Sacred Chest in his temple\add* \f + \fk metonymy \f*,
+\q2 Worship him \add in front of the Sacred Chest in his temple\add* \\f + \\ft metonymy \\f*,
 \q2 where he rules people. 
 \q2 He is holy! 
 \b
@@ -29,7 +29,7 @@ of\add* winged creatures,
 \q2 and he answered them. 
 \q
 \v 7 He spoke to Moses and Aaron from the cloud \add that was like\add* a huge pillar;
-\q2 they obeyed all the laws and commandments \f + \fk doublet \f* that he gave to them.
+\q2 they obeyed all the laws and commandments \\f + \\ft doublet \\f* that he gave to them.
 \b
 \q
 \v 8 Yahweh, our God, you answered \add your people\add* 

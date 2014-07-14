@@ -2,10 +2,10 @@
 \s Saul and his sons died in a battle 
 \p
 \v 1 Later, the Philistines again fought against the Israelis. The Israelis ran away from them, and ◄many Israelis were
-killed/the Philistines killed many Israelis► on Gilboa Mountain.
+killed\f + \ft Or: the \f* Philistines killed many Israelis► on Gilboa Mountain.
 \v 2 The Philistines caught up with Saul and his three sons, and they killed
 \add all three of\add* his sons, Jonathan and Abinadab and Malchishua.
-\v 3 The fighting was very fierce around Saul. When the Philistine ◄archers/men with bows and arrows► caught up with Saul, they
+\v 3 The fighting was very fierce around Saul. When the Philistine ◄archers\f + \ft Or: men \f* with bows and arrows► caught up with Saul, they
 wounded him badly \add with their arrows\add*. 
 \p
 \v 4 Saul said to the man who was carrying his weapons, “Take out your sword and kill me with it, in order that these heathen
@@ -32,5 +32,5 @@ the temple where they kept their idols, and to the other people,
 \v 11 When the people who lived in Jabesh in the Gilead \add region\add* heard what the Philistines had done to Saul's corpse,
 \v 12 all their bravest soldiers walked all night to Beth-Shan. They took the corpses of Saul and his sons down from the city
 wall, and they took them back to Jabesh and burned the corpses there.
-\v 13 They took the bones and buried them under a \add big\add* tamarisk tree. Then they ◄fasted/abstained from eating food►
+\v 13 They took the bones and buried them under a \add big\add* tamarisk tree. Then they ◄fasted\f + \ft Or: abstained \f* from eating food►
 for seven days. 

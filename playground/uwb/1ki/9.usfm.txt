@@ -6,22 +6,22 @@ them to build,
 \v 2 Yahweh appeared to him \add in a dream\add* a second time, like he had appeared to him at Gibeon
 \add city\add*. 
 \v 3 Yahweh said to him, 
-\pi “I heard what you prayed and what you pleaded for me to do. I have ◄dedicated/set apart► this temple which your
-\add workers\add* have built to be the place where people will worship me \f + \fk metonymy \f* forever. I \f + \fk synecdoche \f* will always watch over it and
-protect \f + \fk doublet \f* it. 
+\pi “I heard what you prayed and what you pleaded for me to do. I have ◄dedicated\f + \ft Or: set \f* apart► this temple which your
+\add workers\add* have built to be the place where people will worship me \\f + \\ft metonymy \\f* forever. I \\f + \\ft synecdoche \\f* will always watch over it and
+protect \\f + \\ft doublet \\f* it. 
 \pi
-\v 4 And as for you, if you conduct your life as I want you to, like your father David did, and if you very sincerely \f + \fk doublet \f*
-obey all the statutes and laws \f + \fk doublet \f* that I have commanded you to obey,
-\v 5 I will do what I promised your father that I would do: I promised him that Israel would always be \f + \fk litotes \f* ruled by his
+\v 4 And as for you, if you conduct your life as I want you to, like your father David did, and if you very sincerely \\f + \\ft doublet \\f*
+obey all the statutes and laws \\f + \\ft doublet \\f* that I have commanded you to obey,
+\v 5 I will do what I promised your father that I would do: I promised him that Israel would always be \\f + \\ft litotes \\f* ruled by his
 descendants. 
 \pi
-\v 6 But if you or your descendants turn away from me and disobey the commands and decrees \f + \fk doublet \f* that I have given to you, and
+\v 6 But if you or your descendants turn away from me and disobey the commands and decrees \\f + \\ft doublet \\f* that I have given to you, and
 if you start to worship other gods, 
 \v 7 I will remove my Israeli people from the land that I have given to them. I will also abandon this temple that I have
-◄dedicated/set apart► to be the place where people should worship me \f + \fk metonymy \f*. Then people everywhere will despise Israel and make
+◄dedicated\f + \ft Or: set \f* apart► to be the place where people should worship me \\f + \\ft metonymy \\f*. Then people everywhere will despise Israel and make
 fun of it. 
 \v 8 This temple will become a heap of ruins. Everyone who passes by will be astonished
-\add when they see it\add*, and they will hiss/whistle and say, ‘Why has Yahweh done this to this land and to this temple?’
+\add when they see it\add*, and they will hiss\f + \ft Or: whistle \f* and say, ‘Why has Yahweh done this to this land and to this temple?’
 \v 9 And other people will reply, ‘It happened because the Israeli people abandoned Yahweh their God, the one who brought their
 ancestors out of Egypt. They started to accept and worship other gods. And that is why Yahweh has caused them to experience all
 these disasters.’ ” 
@@ -33,17 +33,17 @@ to\add* give Solomon all the cedar and pine \add logs\add* and all the gold that
 \add for this work\add*. After it was all finished, King Solomon gave to Hiram twenty cities in the Galilee region.
 \v 12 But when Hiram went from Tyre \add to Galilee\add* to see the cities that Solomon had given to him, he was not pleased
 with them. 
-\v 13 He said to Solomon, “My friend, those cities that you gave me are lousy/worthless cities!” \f + \fk rhetorical question \f* Because of that, that
+\v 13 He said to Solomon, “My friend, those cities that you gave me are lousy\f + \ft Or: worthless \f* cities!” \\f + \\ft rhetorical question \\f* Because of that, that
 area is still called 'Worthless.' 
 \v 14 Hiram gave Solomon only five tons of gold \add for those cities\add*.
 \p
 \v 15 This is a record of the work that King Solomon forced men to do. He forced them to build the temple and his palace and
-the landfill/terraces \add on the east side of the city\add*, and the wall around Jerusalem, and
+the landfill\f + \ft Or: terraces \f* \add on the east side of the city\add*, and the wall around Jerusalem, and
 \add to rebuild\add* Hazor and Megiddo and Gezer \add cities\add*.
 \v 16  \add The reason they needed to rebuild Gezer was that the army
 of\add* the king of Egypt had attacked Gezer and captured it. Then they had burned
 \add the houses in\add* the city and killed all the people of the Canaan people-group who lived there. The king of Egypt gave
-that city to his daughter for a gift/present when she married Solomon.
+that city to his daughter for a gift\f + \ft Or: present \f* when she married Solomon.
 \v 17 So Solomon's workers also rebuilt Gezer, and they also rebuilt Lower Beth-Horon
 \add city\add*. 
 \v 18 They also rebuilt Baalath and Tamar \add towns\add* in the desert in the
@@ -57,7 +57,7 @@ people-group, and the Jebus people-group who were not killed when the Israelis c
 \v 21  \add Their descendants still lived in Israel\add*. It was those people whom Solomon forced to become his slaves
 \add to build all those places\add*, and they are still slaves. 
 \v 22 But Solomon did not force any Israeli people to become slaves. Some of them became soldiers and army officers and
-commanders and drivers of his chariots and men/soldiers who rode on horses.
+commanders and drivers of his chariots and men\f + \ft Or: soldiers \f* who rode on horses.
 \v 23 There were 550 officials who supervised the slaves who worked
 \add to build all those places\add*. 
 \p
@@ -73,5 +73,5 @@ Yahweh.
 \v 26 King Solomon's \add workers\add* also built a fleet of ships at Ezion-Geber
 \add city\add*, which is near Elath \add city\add*, on the shore of the Gulf of Aqaba, in the land belonging to the Edom
 people-group. 
-\v 27  \add King\add* Hiram sent some very expert sailors to go/serve/work on the ships with Solomon's workers.
+\v 27  \add King\add* Hiram sent some very expert sailors to go\f + \ft Or: serve \f*\f + \ft Or: work \f* on the ships with Solomon's workers.
 \v 28 They sailed to the Ophir \add region\add* and brought back to Solomon about sixteen tons of gold.

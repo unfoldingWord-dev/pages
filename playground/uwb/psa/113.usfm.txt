@@ -3,19 +3,19 @@
 \v 1 Praise Yahweh! 
 \b
 \q You people who serve Yahweh, praise him! 
-\q Praise ◄him/his name►! 
+\q Praise ◄him\f + \ft Or: his \f* name►! 
 \q
 \v 2 Yahweh should be praised now and forever! 
 \q
 \v 3 People who live in the east and people who live in the west,
-\q2 everyone, should praise Yahweh \f + \fk metonymy \f*! 
+\q2 everyone, should praise Yahweh \\f + \\ft metonymy \\f*! 
 \b
 \q
-\v 4 Yahweh rules \f + \fk metonymy \f* over all the nations, 
+\v 4 Yahweh rules \\f + \\ft metonymy \\f* over all the nations, 
 \q and he shows high in the heavens that his glory is very great.
 \q
-\v 5 There is no one \f + \fk rhetorical question \f* who is like Yahweh, our God, 
-\q2 who lives/sits/rules in the highest heaven, 
+\v 5 There is no one \\f + \\ft rhetorical question \\f* who is like Yahweh, our God, 
+\q2 who lives\f + \ft Or: sits \f*\f + \ft Or: rules \f* in the highest heaven, 
 \q2
 \v 6 and looks far down through the heavens and sees the \add people
 on\add* the earth. 

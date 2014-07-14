@@ -1,19 +1,19 @@
 \c 9  
 \q
-\v 1 I wish that my head was like \f + \fk metaphor \f* a spring of water, 
+\v 1 I wish that my head was like \\f + \\ft metaphor \\f* a spring of water, 
 \q2 and that my eyes were like a fountain of tears. 
 \q Then I would cry night and day for all of my people who have been killed
 \add by their enemies\add*. 
 \q
 \v 2 I wish that I could leave my people and forget them, 
-\q2 and go and live in a shack/shelter in the desert, 
-\q because they have not remained faithful \f + \fk metaphor \f* \add to Yahweh\add*;
+\q2 and go and live in a shack\f + \ft Or: shelter \f* in the desert, 
+\q because they have not remained faithful \\f + \\ft metaphor \\f* \add to Yahweh\add*;
 \q2 they are a mob of people who deceive others. 
 \b
 \s Yahweh replied to Jeremiah 
 \p
 \v 3  \add Yahweh replied to me\add*, 
-\q “They use their tongues \add to tell\add* \f + \fk metaphor \f* lies 
+\q “They use their tongues \add to tell\add* \\f + \\ft metaphor \\f* lies 
 \q2 like people shoot \add arrows\add* with bows. 
 \q It is because they tell lies that they have become more powerful in this land,
 \q2 and they do not know me. 
@@ -28,25 +28,25 @@
 \q2 they do one oppressive deed after another and are unable to stop doing it.
 \q
 \v 6 They habitually lie and deceive each other, 
-\q2 and no one will admit/say that I am God. 
+\q2 and no one will admit\f + \ft Or: say \f* that I am God. 
 \b
 \p
 \v 7 Therefore I, the Almighty Commander of the armies of angels, say this:
 \q Listen carefully to what I say: I will \add cause great afflictions to come on my
 people\add*, 
-\q2 \add like a metalworker puts metal in a hot fire\add* \f + \fk metaphor \f* to completely burn out the impure bits.
+\q2 \add like a metalworker puts metal in a hot fire\add* \\f + \\ft metaphor \\f* to completely burn out the impure bits.
 \q Because of all \add the evil things\add* that my people have done,
-\q2 there is absolutely nothing else \f + \fk rhetorical question \f* that I can do. 
+\q2 there is absolutely nothing else \\f + \\ft rhetorical question \\f* that I can do. 
 \q
-\v 8 What they say \f + \fk metonymy \f* \add injures people like\add* \f + \fk metaphor \f* poisoned arrows do.
+\v 8 What they say \\f + \\ft metonymy \\f* \add injures people like\add* \\f + \\ft metaphor \\f* poisoned arrows do.
 \q They say to their neighbors, ‘I hope things will go well for you,’
 \q2 while they are planning to kill them. 
 \q
-\v 9 Should I not punish them for doing that \f + \fk rhetorical question \f*? 
-\q2 Yes, I should certainly ◄get revenge on/give what they deserve to► the people of a nation that does things like that!”
+\v 9 Should I not punish them for doing that \\f + \\ft rhetorical question \\f*? 
+\q2 Yes, I should certainly ◄get revenge on\f + \ft Or: give \f* what they deserve to► the people of a nation that does things like that!”
 \b
 \q
-\v 10 So, I will weep and wail for \add the people who live in\add* the mountains and in the ◄pastures/places where the
+\v 10 So, I will weep and wail for \add the people who live in\add* the mountains and in the ◄pastures\f + \ft Or: places \f* where the
 livestock eat the grass►, 
 \q2 because those areas will be desolate, and no one will live there.
 \q There will be no cattle there to call to each other, 
@@ -55,15 +55,15 @@ places\add*.
 \b
 \q
 \v 11 Yahweh also says, “I will cause Jerusalem to become a heap of ruins,
-\q2 and only jackals/wolves will live there. 
+\q2 and only jackals\f + \ft Or: wolves \f* will live there. 
 \q I will destroy the towns of Judah, with the result that they will be completely deserted;
 \q2 no people will live there.” 
 \b
 \p
-\v 12  \add I said\add*,, “Only people who are very wise \f + \fk rhetorical question \f* can understand these things.
-\q2 Only those who have been taught by Yahweh can \f + \fk rhetorical question \f* explain these things to others.
-\q The wise people are \f + \fk rhetorical question \f* the only ones who can explain why the land will be completely ruined
-\q2 with the result that everyone \f + \fk rhetorical question \f* will be afraid to travel through it.”
+\v 12  \add I said\add*,, “Only people who are very wise \\f + \\ft rhetorical question \\f* can understand these things.
+\q2 Only those who have been taught by Yahweh can \\f + \\ft rhetorical question \\f* explain these things to others.
+\q The wise people are \\f + \\ft rhetorical question \\f* the only ones who can explain why the land will be completely ruined
+\q2 with the result that everyone \\f + \\ft rhetorical question \\f* will be afraid to travel through it.”
 \p
 \v 13 Yahweh replied, “These things will happen because my people have rejected my laws which I gave to them;
 \q2 they have not obeyed me or my instructions. 
@@ -73,7 +73,7 @@ places\add*.
 \q2 which is what their ancestors did. 
 \q
 \v 15 So now listen to what I, the Almighty Commander of the armies of angels, the God of the Israelis, say:
-\q \add What I will do will be like\add* \f + \fk metaphor \f* giving these people bitter things to eat and poison to drink:
+\q \add What I will do will be like\add* \\f + \\ft metaphor \\f* giving these people bitter things to eat and poison to drink:
 \q
 \v 16 I will scatter them to many nations which neither they nor their ancestors have known anything about;
 \q2 I will \add enable their enemies to\add* strike them with swords
@@ -87,24 +87,24 @@ places\add*.
 \v 18 Tell them to come quickly and start to wail, 
 \q2 with the result that tears will stream down from your(pl) eyes.
 \q
-\v 19 Listen to the people of Jerusalem crying/lamenting, saying,
-\q2 ‘We have been ruined/destroyed! 
+\v 19 Listen to the people of Jerusalem crying\f + \ft Or: lamenting \f*, saying,
+\q2 ‘We have been ruined\f + \ft Or: destroyed \f*! 
 \q2 We have experienced a terrible disaster! 
 \q Now we are very ashamed, 
 \q2 because our houses have been destroyed \add by our enemies\add*, and we are being forced to leave our land.’ ”
 \b
 \q
-\v 20 You women, listen to what Yahweh says \f + \fk metonymy \f*. 
-\q2 Pay attention to his words \f + \fk doublet \f*. 
+\v 20 You women, listen to what Yahweh says \\f + \\ft metonymy \\f*. 
+\q2 Pay attention to his words \\f + \\ft doublet \\f*. 
 \q Teach your daughters to wail. 
 \q2 Teach each other how to sing funeral songs, 
 \q
-\v 21 because people will be dying \f + \fk personification \f* in your houses and in palaces.
+\v 21 because people will be dying \\f + \\ft personification \\f* in your houses and in palaces.
 \q2 There will be no more children playing in the streets, 
-\q there will be no more young men gathering in the city squares/marketplaces.
+\q there will be no more young men gathering in the city squares\f + \ft Or: marketplaces \f*.
 \q
 \v 22 There will be corpses scattered across the fields like dung;
-\q their dead bodies will lie there like \f + \fk simile \f* grain that has been cut by reapers/farmers,
+\q their dead bodies will lie there like \\f + \\ft simile \\f* grain that has been cut by reapers\f + \ft Or: farmers \f*,
 \q2 and there will be no one \add still alive\add* to bury them.
 \p
 \v 23 Yahweh says this: 
@@ -123,7 +123,7 @@ places\add*.
 people-group and of the Ammon people-group, 
 \q2 all those people who live close to desert areas \f + \ft (OR, who cut their hair short
 \add to please their gods\add*) \f* far from Judah, 
-\q2 all those people who have \add changed their bodies by\add* circumcising them \f + \fk metaphor \f*
+\q2 all those people who have \add changed their bodies by\add* circumcising them \\f + \\ft metaphor \\f*
 \q2 but who have not \add changed\add* their inner beings. 
 \q I will punish the people of Judah also, 
 \q2 because they have not changed their inner beings, either.” 

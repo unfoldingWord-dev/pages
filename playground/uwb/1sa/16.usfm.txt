@@ -2,12 +2,12 @@
 \s Samuel appointed David to be king 
 \p
 \v 1 Finally, Yahweh said to Samuel, “I have decided that I will not allow Saul to continue to be the king. So you should not
-\f + \fk rhetorical question \f* keep feeling sad \add about what he has done\add*. Put some olive oil in a small container and go to Bethlehem
+\\f + \\ft rhetorical question \\f* keep feeling sad \add about what he has done\add*. Put some olive oil in a small container and go to Bethlehem
 \add to anoint someone with the oil, and appoint him to be king\add*. I am sending you there to a man named Jesse, because I
 have chosen one of his sons to be the king \add of Israel\add*.”
 \p
-\v 2 But Samuel said, “I am afraid \f + \fk rhetorical question \f* to do that! If Saul hears about it, he will kill me!” Yahweh said, “Take a
-◄heifer/young female cow► with you, and say to people that you have come to
+\v 2 But Samuel said, “I am afraid \\f + \\ft rhetorical question \\f* to do that! If Saul hears about it, he will kill me!” Yahweh said, “Take a
+◄heifer\f + \ft Or: young \f* female cow► with you, and say to people that you have come to
 \add kill it and\add* offer it as a sacrifice to me. 
 \p
 \v 3 Invite Jesse to come to the sacrifice. \add When he comes\add*, I will show you what you should do. And I will show you
@@ -59,7 +59,7 @@ Saul\add*, Yahweh sent an evil spirit to Saul to terrify him \add repeatedly\add
 harp whenever the evil spirit bothers you. Then \add you will calm down
 and\add* you will be okay again.” 
 \p
-\v 17 Saul replied, “\add Fine/Okay\add*, find for me a man who can play
+\v 17 Saul replied, “\add Fine\f + \ft Or: Okay \f*\add*, find for me a man who can play
 \add the harp\add* well, and bring him to me.” 
 \p
 \v 18 One of his servants said to him, “A man named Jesse, in Bethlehem

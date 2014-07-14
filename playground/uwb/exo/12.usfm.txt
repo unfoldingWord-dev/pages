@@ -1,7 +1,7 @@
 \c 12  
 \s Yahweh instructed Moses and Aaron about the Passover festival
 \p
-\v 1 Yahweh said to Aaron and Moses/me there in Egypt, 
+\v 1 Yahweh said to Aaron and Moses\f + \ft Or: me \f* there in Egypt, 
 \v 2 “\add From now on\add*, this month \add will be\add* the first month of the year for you.
 \v 3 Tell all the Israeli people that in each family, the man who heads the family must take a lamb or a young goat for his
 household. 
@@ -12,7 +12,7 @@ according to the number of people in each family, and according to how much each
 \v 6 You must take \add special\add* care of these animals until the 14th day of the month. On that day, all the Israeli people
 must slaughter the lambs \add or goats\add* in the evening. 
 \v 7 Then they must take some of the blood \add from the lambs or
-goats\add*, and they must smear it on the doorposts and the ◄lintels/horizontal beams above the doorways► of the houses in
+goats\add*, and they must smear it on the doorposts and the ◄lintels\f + \ft Or: horizontal \f* beams above the doorways► of the houses in
 which they will eat the meat. 
 \v 8 They must roast the animals immediately and eat the meat that night. They must eat it with bread that is baked without
 yeast and with bitter herbs. 
@@ -39,7 +39,7 @@ continue\add* forever.
 \v 15 For seven days you must eat bread that has no yeast in it. On the first day of that week you must get rid of all the
 yeast that is in your houses. During those seven days, if anyone eats bread that is baked with yeast in it,
 \add you must consider\add* that person to be no longer an Israeli.
-\v 16 On the first day \add of that week\add*, you must ◄have a holy meeting/gather together to
+\v 16 On the first day \add of that week\add*, you must ◄have a holy meeting\f + \ft Or: gather \f* together to
 \add worship\add* me►. You must do the same thing on the seventh day. People must not work on those two days. The only work
 they may do is to prepare food for you to eat. 
 \p
@@ -52,14 +52,14 @@ your house. \add During that time\add*, if anyone, either an Israeli or a foreig
 consider that person no longer to be an Israeli. 
 \v 20 In your houses, do not eat anything that has yeast in it during those seven days.”
 \p
-\v 21 Then Moses/I summoned all the leaders of the Israeli people. He/I said to them, “Each family should select a lamb and
+\v 21 Then Moses\f + \ft Or: I \f* summoned all the leaders of the Israeli people. He\f + \ft Or: I \f* said to them, “Each family should select a lamb and
 kill it, \add in order that you may eat it to celebrate the festival that will be
 called\add* 'Passover.' 
-\v 22 Let the lamb's blood \add drain into\add* a basin. Get a bunch/sprig of ◄hyssop/a very leafy plant► and dip it in the
-blood. Then smear some of the blood on the doorposts and the ◄lintels/beams above the doorways►
+\v 22 Let the lamb's blood \add drain into\add* a basin. Get a bunch\f + \ft Or: sprig \f* of ◄hyssop\f + \ft Or: a \f* very leafy plant► and dip it in the
+blood. Then smear some of the blood on the doorposts and the ◄lintels\f + \ft Or: beams \f* above the doorways►
 \add of your houses\add*. The people in each house must all stay inside the house until the next morning.
 \v 23 When Yahweh goes through Egypt to kill \add the oldest male in
-each\add* Egyptian family, he will see the blood on your ◄lintels/beams of your doorways►, and he will
+each\add* Egyptian family, he will see the blood on your ◄lintels\f + \ft Or: beams \f* of your doorways►, and he will
 \add ignore and\add* pass by those houses. He will not allow the angel who causes people to die to enter your houses and kill
 \add any of\add* your \add oldest sons\add*. 
 \v 24 You and your descendants must celebrate this ritual forever.
@@ -68,27 +68,27 @@ each\add* Egyptian family, he will see the blood on your ◄lintels/beams of you
 \v 26 When your children ask you, ‘What does this ritual mean?’,
 \v 27 you must tell them, ‘This ritual is \add to remember how\add*
 \add your ancestors\add* sacrificed \add lambs\add* on the night that Yahweh's angel passed by the houses of the Israeli people
-\add when they were\add* in Egypt. He killed the \add oldest males/sons in
-all\add* the Egyptian houses, but he spared \add the sons in\add* \f + \fk metonymy \f* our houses.’ ” After Moses/I told them this, they all
+\add when they were\add* in Egypt. He killed the \add oldest males\f + \ft Or: sons \f* in
+all\add* the Egyptian houses, but he spared \add the sons in\add* \\f + \\ft metonymy \\f* our houses.’ ” After Moses\f + \ft Or: I \f* told them this, they all
 bowed their heads and worshiped \add Yahweh\add*. 
-\v 28 Then the Israeli people did what Yahweh had told Aaron and Moses/me
+\v 28 Then the Israeli people did what Yahweh had told Aaron and Moses\f + \ft Or: me \f*
 \add to tell them to do\add*. 
 \s Yahweh killed all the oldest Egyptian males 
 \p
 \v 29 At midnight Yahweh killed all the oldest sons of the Egyptian people, all over Egypt. That included the king's oldest
-son, the oldest sons of the prisoners in the dungeon/jail, and \add the oldest sons of everyone
+son, the oldest sons of the prisoners in the dungeon\f + \ft Or: jail \f*, and \add the oldest sons of everyone
 else\add*. He also killed the oldest males of all the Egyptians' livestock.
 \v 30 That night the king, all his officials, and \add all the rest
 of\add* the Egyptian people awoke \add and discovered what had happened\add*. They wailed loudly all over Egypt, because in
 every house, someone's son had died. 
 \s The Israeli people left Egypt 
 \p
-\v 31 That night the king summoned Aaron and Moses/me and said, “Get up, you and all the
+\v 31 That night the king summoned Aaron and Moses\f + \ft Or: me \f* and said, “Get up, you and all the
 \add other\add* Israeli people, and leave my country \add immediately\add*! Go and worship Yahweh, as you requested!
 \v 32 Take your flocks \add of sheep and goats\add* and herds \add of
 cattle\add*, and leave! And ask Yahweh to bless me, also!” 
 \p
-\v 33 Then the Israeli people did as Moses/I had told them. They
+\v 33 Then the Israeli people did as Moses\f + \ft Or: I \f* had told them. They
 \add went to\add* their Egyptian \add neighbors\add* and asked them for silver and gold jewelry and clothing.
 \v 34 Yahweh caused the Egyptian people to greatly respect the \add Israeli\add* people, so they gave them what they asked for.
 In that way, they carried away the wealth of the Egyptian people.
@@ -108,12 +108,12 @@ ready to take with them, or enough time to mix yeast in the dough.
 \p
 \v 40 The Israeli people had lived in Egypt 430 years. 
 \v 41 On the day that those 430 years ended, on that very day, all the tribes of Yahweh's people left Egypt.
-\v 42 It was a night when Yahweh ◄protected/guarded over► them as he brought them out of Egypt. So this same night every year
+\v 42 It was a night when Yahweh ◄protected\f + \ft Or: guarded \f* over► them as he brought them out of Egypt. So this same night every year
 is a night that is dedicated to Yahweh, a night when the Israeli people in every generation
 \add remember how\add* Yahweh protected their ancestors. 
 \s Yahweh instructed Moses and Aaron about future Passover festivals
 \p
-\v 43-44 Then Yahweh said this to Aaron and Moses/me: “These are my instructions about the Passover ritual: do not let
+\v 43-44 Then Yahweh said this to Aaron and Moses\f + \ft Or: me \f*: “These are my instructions about the Passover ritual: do not let
 foreigners eat \add the Passover meal\add*. But any male slaves that you have bought may eat it after you have circumcised
 them. 
 \v 45 Do not let people who are living among you temporarily, or servants whom you have hired, eat
@@ -125,5 +125,5 @@ males in his household. Then they can eat the Passover meal, and you should trea
 But do not allow men who have not been circumcised to eat the Passover meal.
 \v 49 These rules apply to people who were born as Israelis and to foreigners who come and live among you.”
 \p
-\v 50 All the Israeli people obeyed Aaron and Moses/me and did what Yahweh had commanded.
+\v 50 All the Israeli people obeyed Aaron and Moses\f + \ft Or: me \f* and did what Yahweh had commanded.
 \v 51 On that very day Yahweh brought all the tribes of the Israeli people out of Egypt.

@@ -20,12 +20,12 @@ themselves for it) \f*.
 \v 5 Yahweh, your faithful love for us reaches as high as the heavens,
 \q2 your faithful doing what you have promised extends up to the clouds.
 \q
-\v 6 Your righteous behavior is \add as permanent as\add* the highest mountains \f + \fk metaphor \f*,
+\v 6 Your righteous behavior is \add as permanent as\add* the highest mountains \\f + \\ft metaphor \\f*,
 \q2 your acting justly \add will continue as long as\add* the deepest oceans will continue.
 \q You take care of people and you take care of animals. 
 \q
 \v 7 God, your faithful love for us is very precious. 
-\q You protect us like birds protect their baby birds under their wings \f + \fk metaphor \f*.
+\q You protect us like birds protect their baby birds under their wings \\f + \\ft metaphor \\f*.
 \q
 \v 8 You provide for us plenty of food from the abundant supply [IDI] that you have;
 \q2 your great blessings for us flow like a river. 
@@ -35,9 +35,9 @@ themselves for it) \f*.
 \b
 \q
 \v 10 Continue to faithfully love those who have experienced a relationship with you,
-\q2 and bless those who act righteously/justly. 
+\q2 and bless those who act righteously\f + \ft Or: justly \f*. 
 \q
-\v 11 Do not allow proud people \f + \fk synecdoche \f* to attack me, 
+\v 11 Do not allow proud people \\f + \\ft synecdoche \\f* to attack me, 
 \q2 or allow wicked people to chase me away. 
 \q
 \v 12 Look where evil people have fallen on the ground, defeated;

@@ -1,31 +1,31 @@
 \c 32  
 \q
 \v 1 “Listen to me, \add all you who are in the\add* heavens, 
-\q2 and \add all you who are on the\add* earth, listen to what I say \f + \fk metonymy \f*.
+\q2 and \add all you who are on the\add* earth, listen to what I say \\f + \\ft metonymy \\f*.
 \q
-\v 2 I wish/desire that my teaching will fall on you like rain drops
+\v 2 I wish\f + \ft Or: desire \f* that my teaching will fall on you like rain drops
 \q2 or be like dew on the ground, 
 \q and be like a gentle rain on the young plants, 
 \q2 like showers on the grass. 
 \q
-\v 3 I will praise Yahweh \f + \fk metonymy \f*. 
+\v 3 I will praise Yahweh \\f + \\ft metonymy \\f*. 
 \q2 And \add all you people should\add* tell others that our God is very great.
 \q
-\v 4 He is like a rock \f + \fk metaphor \f* \add under which we are protected\add*;
-\q2 \add everything\add* that he does is perfect and completely just/fair \f + \fk doublet \f*.
+\v 4 He is like a rock \\f + \\ft metaphor \\f* \add under which we are protected\add*;
+\q2 \add everything\add* that he does is perfect and completely just\f + \ft Or: fair \f* \\f + \\ft doublet \\f*.
 \q He always does what he says that he will do; 
 \q2 he never does anything that is wrong. 
 \b
 \q
 \v 5 But \add you Israeli people\add* have been very unfaithful to him;
 \q2 because of your sins, you no longer \add deserve to be\add* his children.
-\q2 You are extremely wicked and deceitful \f + \fk doublet \f*. 
+\q2 You are extremely wicked and deceitful \\f + \\ft doublet \\f*. 
 \q
-\v 6 You foolish and senseless \f + \fk doublet \f* people, 
+\v 6 You foolish and senseless \\f + \\ft doublet \\f* people, 
 \q2 ◄is this the way that you should repay Yahweh \add for all that he has done for
-you\add*?/this is certainly not the way that you should repay Yahweh
-\add for all that he has done for you\add*.► \f + \fk rhetorical question \f* 
-\q He is your father; he created you \f + \fk rhetorical question \f*; 
+you\add*?\f + \ft Or: this \f* is certainly not the way that you should repay Yahweh
+\add for all that he has done for you\add*.► \\f + \\ft rhetorical question \\f* 
+\q He is your father; he created you \\f + \\ft rhetorical question \\f*; 
 \q2 he caused you to become a nation. 
 \b
 \q
@@ -37,20 +37,20 @@ you\add*?/this is certainly not the way that you should repay Yahweh
 \v 8 When God, who is greater than any other god, long ago divided the people into groups,
 \q2 he assigned to the nations their land. 
 \q He determined where each people-group should live 
-\q2 and ◄assigned to/chose for► each people-group a god/angel. 
+\q2 and ◄assigned to\f + \ft Or: chose \f* for► each people-group a god\f + \ft Or: angel \f*. 
 \q
 \v 9 But Yahweh decided that we would be his people; 
 \q2 he chose us, \add the descendants of\add* Jacob, to belong to him.
 \b
 \q
 \v 10 He saw \add our ancestors\add* when they were in a desert,
-\q2 wandering in a land ◄that was desolate/where no people lived►.
+\q2 wandering in a land ◄that was desolate\f + \ft Or: where \f* no people lived►.
 \q He protected them and took care of them, 
 \q2 as every person takes good care of his own eyes. [SIM, IDI] 
 \q
 \v 11  \add Yahweh protected his people\add* just like an eagle encourages its babies
 \add to fly\add* 
-\q2 and flutters over them \f + \fk metaphor \f*, 
+\q2 and flutters over them \\f + \\ft metaphor \\f*, 
 \q2 spreading its wings and catching them \add if they start to fall\add*.
 \q
 \v 12 Yahweh was the only one who led them; 
@@ -62,9 +62,9 @@ them\add*,
 \q Yahweh enabled them to rule the hilly areas; 
 \q2 they ate the crops that grew in the fields. 
 \q They found honey in the rocks, 
-\q2 and their olive trees \f + \fk metonymy \f* grew \add even\add* in stony ground.
+\q2 and their olive trees \\f + \\ft metonymy \\f* grew \add even\add* in stony ground.
 \q
-\v 14 The cows gave them plenty of curds/yogurt, the goats gave them plenty of milk,
+\v 14 The cows gave them plenty of curds\f + \ft Or: yogurt \f*, the goats gave them plenty of milk,
 \q2 they had well-fed sheep and cattle, 
 \q they had very good wheat, 
 \q2 and they made delicious wine from their grapes. 
@@ -75,7 +75,7 @@ them\add*,
 \q they abandoned him, the one who created them, 
 \q2 the one who powerfully saves them. 
 \q
-\v 16 He abandoned them because they started to worship other/strange gods.
+\v 16 He abandoned them because they started to worship other\f + \ft Or: strange \f* gods.
 \q Because of their worshiping disgusting idols, 
 \q2 he became angry. 
 \q
@@ -84,38 +84,38 @@ them\add*,
 \q they offered sacrifices to gods that they had recently found out about,
 \q2 gods whom your ancestors had never had an awesome respect for.
 \q
-\v 18 They forgot \add the true\add* God, the one who protects them \f + \fk metaphor \f*,
+\v 18 They forgot \add the true\add* God, the one who protects them \\f + \\ft metaphor \\f*,
 \q2 the one who created them and caused them to live. 
 \b
 \q
 \v 19 When Yahweh saw that \add they had abandoned him\add*, he became angry,
 \q2 so he rejected \add the Israeli people who are like\add* his sons and daughters.
 \q
-\v 20 He said, ‘They are very wicked/stubborn people, 
+\v 20 He said, ‘They are very wicked\f + \ft Or: stubborn \f* people, 
 \q2 very unfaithful; 
 \q so I will no longer help them, 
 \q2 and then I will watch and see what happens to them. 
 \q
 \v 21 Because they now are worshiping idols, which are not really gods,
-\q2 they have caused me to be like a jealous husband \f + \fk metaphor \f* \add because I want them to worship only
+\q2 they have caused me to be like a jealous husband \\f + \\ft metaphor \\f* \add because I want them to worship only
 me\add*. 
 \q So now, in order to cause them to become angry, 
 \q2 I will now send to \add attack them an army\add* of a nation of worthless and foolish people.
 \q
 \v 22 I will be very angry, and I will destroy them 
-\q2 like a fire that will burn on the earth and all the way down to the place where dead people are \f + \fk metaphor \f*;
+\q2 like a fire that will burn on the earth and all the way down to the place where dead people are \\f + \\ft metaphor \\f*;
 \q that fire will destroy the earth and everything that grows on it,
 \q2 and it will even burn what is down under the mountains. 
 \q
 \v 23 I will pile up on them many disasters; 
-\q2 \add they will feel as though\add* \f + \fk metaphor \f* I am shooting all my arrows on them.
+\q2 \add they will feel as though\add* \\f + \\ft metaphor \\f* I am shooting all my arrows on them.
 \q
 \v 24 They will die because of being hungry and because of having hot fevers
 \q2 and because of terrible diseases; 
-\q I will send wild animals to attack \f + \fk metonymy \f* them, 
-\q2 and poisonous snakes to bite \f + \fk metonymy \f* them. 
+\q I will send wild animals to attack \\f + \\ft metonymy \\f* them, 
+\q2 and poisonous snakes to bite \\f + \\ft metonymy \\f* them. 
 \q
-\v 25 Outside \add their houses, their enemies\add* will kill them \f + \fk metonymy \f* with swords,
+\v 25 Outside \add their houses, their enemies\add* will kill them \\f + \\ft metonymy \\f* with swords,
 \q2 and in their homes, \add their enemies will cause\add* them to be terrified.
 \q Their enemies will kill young men and young women, 
 \q2 and they will kill infants and old people with gray hair. 
@@ -125,7 +125,7 @@ me\add*.
 \q
 \v 27 But \add if I did that\add*, their enemies would wrongly boast
 \q2 that they were the ones who had \add gotten rid of my people\add*;
-\q they would say, “We \f + \fk synecdoche \f* are the ones who defeated them; 
+\q they would say, “We \\f + \\ft synecdoche \\f* are the ones who defeated them; 
 \q2 it was not Yahweh who has done all these things.” ’ 
 \b
 \q
@@ -140,39 +140,39 @@ punished\add*;
 soldiers\add* would be defeated by only one \add of the enemy soldiers\add*,
 \q2 and why two of your enemies would chase away ten thousand \add Israeli
 soldiers\add*. 
-\q \add You would realize that this would happen\add* only if God, the one who always defended you \f + \fk metaphor \f*, had put you in the
+\q \add You would realize that this would happen\add* only if God, the one who always defended you \\f + \\ft metaphor \\f*, had put you in the
 hands of your enemies, 
 \q2 that Yahweh had abandoned you. 
 \q
 \v 31 Your enemies know that their gods are not powerful like Yahweh, our God,
 \q2 \add so their gods could not have defeated us Israelis\add*.
 \q
-\v 32 Your enemies are like \f + \fk metaphor \f* grapevines planted near \add the ruins
+\v 32 Your enemies are like \\f + \\ft metaphor \\f* grapevines planted near \add the ruins
 of\add* Sodom and Gomorrah \add cities\add*; 
 \q2 the grapes from those vines are bitter and poisonous; 
 \q
-\v 33 the wine \add from those grapes\add* is like the poison of snakes \f + \fk doublet \f*.
+\v 33 the wine \add from those grapes\add* is like the poison of snakes \\f + \\ft doublet \\f*.
 \b
 \q
-\v 34  \add Yahweh says\add*, ‘I know \f + \fk rhetorical question \f* \add what I have planned to do to the Israeli people and to their
+\v 34  \add Yahweh says\add*, ‘I know \\f + \\ft rhetorical question \\f* \add what I have planned to do to the Israeli people and to their
 enemies\add*, 
 \q2 and I have locked up those plans \add as someone would lock up his valuable
-possessions\add* \f + \fk metaphor \f*. 
+possessions\add* \\f + \\ft metaphor \\f*. 
 \q
 \v 35 I am the one who will get revenge and pay those enemies back for what they have done
 \add to my people\add*, 
 \q2 at the right time for them to be punished [IDI]; 
 \q they will soon experience disasters, 
-\q2 and I will punish/destroy them quickly.’ 
+\q2 and I will punish\f + \ft Or: destroy \f* them quickly.’ 
 \b
 \q
-\v 36 But Yahweh will say that you who are truly his people ◄are innocent/have not done things that are wrong►,
+\v 36 But Yahweh will say that you who are truly his people ◄are innocent\f + \ft Or: have \f* not done things that are wrong►,
 \q2 and he will act mercifully toward you who serve him, 
 \q when he sees that you are helpless, 
 \q2 and that there are very few of you, slaves or free people, who are still alive.
 \q
 \v 37 Then Yahweh will ask you, ‘Where are the gods 
-\q2 that you thought would protect you \f + \fk metaphor \f*? 
+\q2 that you thought would protect you \\f + \\ft metaphor \\f*? 
 \q
 \v 38 You gave to those gods the best parts of the animals that you sacrificed,
 \q2 and you poured out wine for them to drink. 
@@ -190,13 +190,13 @@ possessions\add* \f + \fk metaphor \f*.
 \q2 that just as sure as I live forever, 
 \q
 \v 41 that if I sharpen my sword, 
-\q2 and I \f + \fk synecdoche \f* prepare to punish people, 
+\q2 and I \\f + \\ft synecdoche \\f* prepare to punish people, 
 \q I will get revenge on my enemies, 
 \q2 and I will pay back those who hate me. 
 \q
 \v 42 I will kill all \add of my enemies\add* with a sword; 
 \q2 it will be as though I had arrows that will be covered with their blood.
-\q I will kill \f + \fk metonymy \f* all those whom I capture 
+\q I will kill \\f + \\ft metonymy \\f* all those whom I capture 
 \q2 and cut off their long-haired heads.’ 
 \b
 \q
@@ -206,15 +206,15 @@ possessions\add* \f + \fk metaphor \f*.
 \q2 which has become defiled because of their sins.” 
 \b
 \p
-\v 44 Joshua and Moses/I sang/recited that song while the Israeli people were listening.
-\v 45 When they/we finished singing to them this song, 
-\v 46 Moses/I said, “Never forget all these commands that I have been giving you today. Teach these laws to your children, in
+\v 44 Joshua and Moses\f + \ft Or: I \f* sang\f + \ft Or: recited \f* that song while the Israeli people were listening.
+\v 45 When they\f + \ft Or: we \f* finished singing to them this song, 
+\v 46 Moses\f + \ft Or: I \f* said, “Never forget all these commands that I have been giving you today. Teach these laws to your children, in
 order that they will faithfully obey all of them. 
-\v 47 These instructions are very important \f + \fk litotes \f*. \add If you obey\add* them, you will live a long time in the land that you
+\v 47 These instructions are very important \\f + \\ft litotes \\f*. \add If you obey\add* them, you will live a long time in the land that you
 are about to cross the Jordan \add River\add* to occupy.” 
 \s God told Moses that he would see the land from far away 
 \p
-\v 48 On that same day, Yahweh said to Moses/me, 
+\v 48 On that same day, Yahweh said to Moses\f + \ft Or: me \f*, 
 \v 49 “Go to the Abarim mountain range \add here\add* in the Moab region, across from Jericho. Climb Nebo Mountain, and look
 \add toward the west\add* to see Canaan land, the land that I am about to give to the Israeli people.
 \v 50 You will die on that mountain [EUP, DOU], like your \add older\add* brother Aaron died on Hor Mountain.

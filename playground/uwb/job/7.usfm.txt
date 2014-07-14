@@ -2,36 +2,36 @@
 \s Job complains to God 
 \q
 \v 1 “People need to work hard on this earth, like soldiers do; 
-\q all during the time that we are alive, we work hard \f + \fk rhetorical question \f*, like laborers/servants do.
+\q all during the time that we are alive, we work hard \\f + \\ft rhetorical question \\f*, like laborers\f + \ft Or: servants \f* do.
 \q
-\v 2 We are like \f + \fk simile \f* slaves who keep wanting to be in the cool shade,
-\q2 and we are like \f + \fk simile \f* workers who are waiting to be paid. 
+\v 2 We are like \\f + \\ft simile \\f* slaves who keep wanting to be in the cool shade,
+\q2 and we are like \\f + \\ft simile \\f* workers who are waiting to be paid. 
 \q
 \v 3 God has given me many months \add in which I think\add* that it is useless
 \add to remain alive\add*; 
-\q he has allotted/given to me many nights during which I feel miserable.
+\q he has allotted\f + \ft Or: given \f* to me many nights during which I feel miserable.
 \q
 \v 4 When I lie down \add at night\add* I say, ‘How long will it be until I get up?’
-\q2 But the nights are long, and I ◄toss/turn over and over► \add on my
+\q2 But the nights are long, and I ◄toss\f + \ft Or: turn \f* over and over► \add on my
 bed\add* until the dawn. 
 \q
 \v 5 My body is covered with maggots and scabs; 
 \q2 pus oozes out of my open sores. 
 \b
 \q
-\v 6 My days pass as quickly as a weaver's ◄shuttle/stick that takes the thread back and forth►,
+\v 6 My days pass as quickly as a weaver's ◄shuttle\f + \ft Or: stick \f* that takes the thread back and forth►,
 \q2 and they end without my confidently expecting \add that things will be better the next
 day\add*. 
 \q
-\v 7 God, do not forget that my life is \add as empty as\add* a breath \f + \fk metaphor \f*;
-\q2 I \add think that\add* I \f + \fk synecdoche \f* will never again experience being happy.
+\v 7 God, do not forget that my life is \add as empty as\add* a breath \\f + \\ft metaphor \\f*;
+\q2 I \add think that\add* I \\f + \\ft synecdoche \\f* will never again experience being happy.
 \q
-\v 8 God, you \f + \fk synecdoche \f* see me now, 
+\v 8 God, you \\f + \\ft synecdoche \\f* see me now, 
 \q2 but \add some day\add* you will not see me anymore. 
 \q2 You will search for me, but I will be gone \add because I will be
 dead\add*. 
 \q
-\v 9 Like \f + \fk simile \f* clouds ◄disperse/break up► and then disappear, 
+\v 9 Like \\f + \\ft simile \\f* clouds ◄disperse\f + \ft Or: break \f* up► and then disappear, 
 \q2 people \add die and\add* descend to the place where dead people are, and they do not return;
 \q
 \v 10 they never return to their houses, 
@@ -41,7 +41,7 @@ dead\add*.
 \v 11 So, I will not be silent; 
 \q2 while I am suffering I will speak; 
 \q I will complain \add to God about what has happened to me\add*
-\q2 because I \f + \fk synecdoche \f* am very angry. 
+\q2 because I \\f + \\ft synecdoche \\f* am very angry. 
 \q
 \v 12  \add God\add*, why do you watch closely what I am doing? 
 \q2 \add Do you think that\add* I am a \add dangerous\add* sea monster?
@@ -55,20 +55,20 @@ dead\add*.
 \v 15 with the result that I would prefer to die because of being strangled
 \q2 than to continue to \add be alive\add* being only a bunch of bones.
 \q
-\v 16 I detest continuing to be alive; I do not want to live for many years \f + \fk hyperbole \f*.
-\q2 Allow me to be alone, \add because I will be alive\add* for only a very short time \f + \fk hyperbole \f*.
+\v 16 I detest continuing to be alive; I do not want to live for many years \\f + \\ft hyperbole \\f*.
+\q2 Allow me to be alone, \add because I will be alive\add* for only a very short time \\f + \\ft hyperbole \\f*.
 \b
 \q
 \v 17 We human beings are not \add very important\add*; 
-\q2 so, why do you pay a lot of attention to us \f + \fk doublet \f*? 
+\q2 so, why do you pay a lot of attention to us \\f + \\ft doublet \\f*? 
 \q
 \v 18 You look at us every morning \add to see what we are doing\add*,
 \q2 and examine us every moment \add to see if we are doing what is
 right\add*. 
 \q
 \v 19 ◄When will you stop looking at me and leave me alone \add for a little
-time\add*, long enough to swallow my spit?/Please stop looking at me and leave me alone
-\add for a little time\add*, long enough to swallow my spit.► \f + \fk rhetorical question \f*
+time\add*, long enough to swallow my spit?\f + \ft Or: Please \f* stop looking at me and leave me alone
+\add for a little time\add*, long enough to swallow my spit.► \\f + \\ft rhetorical question \\f*
 \q
 \v 20  \add Why do\add* you watch me constantly? 
 \q2 If I sin, that certainly does not harm you! 

@@ -1,11 +1,11 @@
 \c 115  
 \q
-\v 1 Yahweh, people should praise only you \f + \fk metonymy \f*; 
+\v 1 Yahweh, people should praise only you \\f + \\ft metonymy \\f*; 
 \q2 they must praise you, not us, 
 \q2 because you faithfully love us and always do what you have promised to do.
 \b
 \q
-\v 2 It is not right that \f + \fk rhetorical question \f* other people-groups should say about us,
+\v 2 It is not right that \\f + \\ft rhetorical question \\f* other people-groups should say about us,
 \q “\add They claim that\add* their God \add is very powerful\add*,
 \q2 but \add if that is true\add*, why does he not \add help them\add*?”
 \q
@@ -30,17 +30,17 @@
 \b
 \q
 \v 9 You, \add my fellow\add* Israeli people, trust in Yahweh! 
-\q2 He is the one who helps you and \add protects you like\add* \f + \fk metaphor \f* a shield.
+\q2 He is the one who helps you and \add protects you like\add* \\f + \\ft metaphor \\f* a shield.
 \q
-\v 10 You priests \f + \fk metonymy \f*, trust in Yahweh! 
-\q2 He is the one who helps you and \add protects you like\add* \f + \fk metaphor \f* a shield.
+\v 10 You priests \\f + \\ft metonymy \\f*, trust in Yahweh! 
+\q2 He is the one who helps you and \add protects you like\add* \\f + \\ft metaphor \\f* a shield.
 \q
 \v 11 All you who have a reverential respect for Yahweh, trust in him!
-\q2 He is the one who helps you and \add protects you like\add* \f + \fk metaphor \f* a shield.
+\q2 He is the one who helps you and \add protects you like\add* \\f + \\ft metaphor \\f* a shield.
 \b
 \q
 \v 12 Yahweh has not forgotten us; 
-\q2 he will bless us Israeli people \f + \fk metonymy \f*! 
+\q2 he will bless us Israeli people \\f + \\ft metonymy \\f*! 
 \q2 He will bless the priests, 
 \q
 \v 13 and he will bless all those who have a reverential respect for him;
@@ -48,10 +48,10 @@
 be\add* unimportant, \add everyone\add*! 
 \b
 \q
-\v 14 I wish/hope that Yahweh will give many children 
+\v 14 I wish\f + \ft Or: hope \f* that Yahweh will give many children 
 \q2 to you \add my fellow-Israeli people\add*, and to your descendants.
 \q
-\v 15 I wish/hope that Yahweh, the one who made heaven and the earth, will bless all of you!
+\v 15 I wish\f + \ft Or: hope \f* that Yahweh, the one who made heaven and the earth, will bless all of you!
 \b
 \q
 \v 16 The highest heavens belong to Yahweh, 
@@ -61,7 +61,7 @@ be\add* unimportant, \add everyone\add*!
 \q2 when they descend into the place where dead people are, 
 \q2 they are unable to speak and cannot praise him. 
 \q
-\v 18 But we \add who are alive\add* will thank/praise him, 
+\v 18 But we \add who are alive\add* will thank\f + \ft Or: praise \f* him, 
 \q2 now and forever. 
 \b
 \q Praise Yahweh! 

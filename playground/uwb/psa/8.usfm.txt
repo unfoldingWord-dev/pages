@@ -1,21 +1,21 @@
 \c 8  
 \s A psalm written by David for the choir director, to be accompanied by a stringed instrument
 \q
-\v 1 Yahweh, our Lord, people all over the world know that you \f + \fk metonymy \f* are very great!
+\v 1 Yahweh, our Lord, people all over the world know that you \\f + \\ft metonymy \\f* are very great!
 \q2 Your glory reaches up higher than the heavens! 
 \q
 \v 2 You have taught little children and infants to praise you; 
-\q2 they cause your enemies and those who try to ◄get revenge on/get rid of► you to be silent.
+\q2 they cause your enemies and those who try to ◄get revenge on\f + \ft Or: get \f* rid of► you to be silent.
 \q
 \v 3 When I look up at the sky \add at night\add*, 
 \q2 and see the things that you have made— 
 \q2 the moon and the stars that you have set in place— 
 \q
-\v 4 it is amazing \add to me\add* that \f + \fk rhetorical question \f* you think about people,
+\v 4 it is amazing \add to me\add* that \\f + \\ft rhetorical question \\f* you think about people,
 \q2 that you are concerned about us humans! 
 \q
 \v 5 You made the angels in heaven to be only a little more important than we are;
-\q2 you caused us to be like kings \f + \fk metaphor \f* and you gave us splendor and honor \f + \fk doublet \f*!
+\q2 you caused us to be like kings \\f + \\ft metaphor \\f* and you gave us splendor and honor \\f + \\ft doublet \\f*!
 \q
 \v 6 You put us in charge of everything that you made; 
 \q2 you gave us authority over all things— 
@@ -27,4 +27,4 @@
 \q2 and everything else that swims in the seas. 
 \q
 \v 9 Yahweh, our Lord, 
-\q2 people all over the world know that you \f + \fk metonymy \f* are very great!
+\q2 people all over the world know that you \\f + \\ft metonymy \\f* are very great!

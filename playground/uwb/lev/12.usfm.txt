@@ -1,7 +1,7 @@
 \c 12  
 \s Purifying women after they give birth 
 \p
-\v 1 Yahweh also said to Moses/me, 
+\v 1 Yahweh also said to Moses\f + \ft Or: me \f*, 
 \v 2 “Tell this to the Israeli people: If a woman gives birth to a son, she must be avoided for seven days, like she must be
 avoided when she is menstruating each month. 
 \v 3 The baby son must be circumcised on the eighth day after he is born.

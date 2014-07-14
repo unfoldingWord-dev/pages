@@ -2,12 +2,12 @@
 \s Naaman was healed of leprosy 
 \p
 \v 1  \add A man named\add* Naaman was the commander of the army of Syria. Yahweh had enabled him to win many
-victories/battles. He was a great warrior, and as a result the king of Syria greatly respected him. But he had ◄leprosy/a
+victories\f + \ft Or: battles \f*. He was a great warrior, and as a result the king of Syria greatly respected him. But he had ◄leprosy\f + \ft Or: a \f*
 dreaded skin disease►. 
 \p
-\v 2  \add Some time previously\add*, groups of soldiers/marauders from Syria had raided/attacked the land of Israel, and they
+\v 2  \add Some time previously\add*, groups of soldiers\f + \ft Or: marauders \f* from Syria had raided\f + \ft Or: attacked \f* the land of Israel, and they
 had captured a young girl \add and taken her to Syria\add*. She became a servant for Naaman's wife.
-\v 3 One day, that girl said to her, “I wish that ◄my master/your husband► would go to see the prophet in Samaria. That prophet
+\v 3 One day, that girl said to her, “I wish that ◄my master\f + \ft Or: your \f* husband► would go to see the prophet in Samaria. That prophet
 would heal your husband from his leprosy.” 
 \p
 \v 4  \add Naaman's wife told her husband\add* what the girl from Israel had said, and Naaman told that to the king.
@@ -15,37 +15,37 @@ would heal your husband from his leprosy.”
 \add write\add* a letter for you to take to the king of Israel, \add saying that I sent
 you\add*.” The king wrote in the letter, “I am sending this letter with my
 \add army commander\add* Naaman, who serves me \add faithfully\add*. I want you to heal him of his disease.” So Naaman,
-\add assuming/thinking that the king of Israel was the prophet, took the letter
+\add assuming\f + \ft Or: thinking \f* that the king of Israel was the prophet, took the letter
 and\add* 750 pounds of silver, 150 pounds of gold, and ten sets of clothing, to give to the king of Israel,
 \add and he went to Samaria, taking along several servants\add*.
 \p
 \v 7  \add When he arrived in Samaria, he gave the letter to the
 king\add* of Israel. The king read the letter. Then, being very dismayed, the king tore his clothes and said, “I am not God
-\f + \fk rhetorical question \f*! I am not able to enable people to live or to die \f + \fk rhetorical question \f*! Why does
+\\f + \\ft rhetorical question \\f*! I am not able to enable people to live or to die \\f + \\ft rhetorical question \\f*! Why does
 \add the king\add* who wrote this letter request me to cure this man of his leprosy?
 \add I think that because I do not have power to do that\add*, the king of Syria will be angry, and
-\add his army\add* will invade/attack us again!” 
+\add his army\add* will invade\f + \ft Or: attack \f* us again!” 
 \p
 \v 8 But the prophet Elisha heard that the king of Israel had torn his robe
-\add and said that\add*. So he sent a message to the king, saying, “Why are you upset/frustrated \f + \fk rhetorical question \f*? Send Naaman to me, and
+\add and said that\add*. So he sent a message to the king, saying, “Why are you upset\f + \ft Or: frustrated \f* \\f + \\ft rhetorical question \\f*? Send Naaman to me, and
 he will find out that \add because\add* I am a true prophet \add here\add* in Israel,
-\add I can help/heal him\add*.” 
+\add I can help\f + \ft Or: heal \f* him\add*.” 
 \v 9 So Naaman went with his horses and chariots to Elisha's house and waited outside the door.
 \v 10 But Elisha \add did not come to the door. Instead, he\add* sent a messenger to Naaman, to tell him, “Go to the Jordan
-\add River\add* and wash yourself seven times in the river. Then your skin tissue will be restored/healed, and you will no
+\add River\add* and wash yourself seven times in the river. Then your skin tissue will be restored\f + \ft Or: healed \f*, and you will no
 longer have leprosy.” 
 \p
 \v 11 But Naaman became very angry. He said, “I thought that surely he would wave his hand over the leprosy, and pray to Yahweh
 his god, and heal me! 
 \v 12 Surely the Abana River and the Pharpar River in Damascus \add in my own country of
-Syria\add* are \f + \fk rhetorical question \f* better than any of the rivers in Israel! Why can I not wash in those rivers and be healed?” \f + \fk rhetorical question \f* So he
-turned and walked away with great anger/disgust. 
+Syria\add* are \\f + \\ft rhetorical question \\f* better than any of the rivers in Israel! Why can I not wash in those rivers and be healed?” \\f + \\ft rhetorical question \\f* So he
+turned and walked away with great anger\f + \ft Or: disgust \f*. 
 \p
 \v 13 But his servants came to him, and \add one of them\add* said, “Sir, if that prophet had told you to do something
-difficult, you would certainly \f + \fk rhetorical question \f* have done it. So you should certainly do what he says and wash
-\add in the Jordan River\add* to be healed!” \f + \fk rhetorical question \f* 
-\v 14 So Naaman went down to the Jordan \add River\add* and washed himself seven times, as ◄the prophet/Elisha► told him to do.
-Then his skin was restored/healed, and it became healthy/smooth, like the skin of a young child.
+difficult, you would certainly \\f + \\ft rhetorical question \\f* have done it. So you should certainly do what he says and wash
+\add in the Jordan River\add* to be healed!” \\f + \\ft rhetorical question \\f* 
+\v 14 So Naaman went down to the Jordan \add River\add* and washed himself seven times, as ◄the prophet\f + \ft Or: Elisha \f*► told him to do.
+Then his skin was restored\f + \ft Or: healed \f*, and it became healthy\f + \ft Or: smooth \f*, like the skin of a young child.
 \p
 \v 15 Then Naaman and those who were with him went back to talk to Elisha. They stood in front of him, and Naaman said, “Now I
 know that there are no real gods anywhere else in the world, but there is a God here in Israel! So now please accept these
@@ -59,8 +59,8 @@ holy\add*, so please allow me to take some dirt from this place and put it
 \add in sacks\add* on two mules. Then I will take it back home with me
 \add and make an altar on this dirt\add*. From now on, I will offer sacrifices to Yahweh
 \add on that altar\add*. I will not offer sacrifices to any other god.
-\v 18 However, when my master, \add the king\add*, goes into the temple of the god Rimmon to worship him/it there, and he is
-leaning on my arm, I hope/desire that Yahweh will forgive me because I will have to bow down, too.”
+\v 18 However, when my master, \add the king\add*, goes into the temple of the god Rimmon to worship him\f + \ft Or: it \f* there, and he is
+leaning on my arm, I hope\f + \ft Or: desire \f* that Yahweh will forgive me because I will have to bow down, too.”
 \p
 \v 19 Elisha replied, “Go home, and do not worry about that.” So Naaman
 \add and his servants\add* started to travel home. 
@@ -84,7 +84,7 @@ servants and sent the servants back to Naaman. Then he took those things into hi
 \v 25 When he went to Elisha, Elisha asked him, “Where did you go, Gehazi?” Gehazi replied, “I did not go anywhere.”
 \p
 \v 26 Elisha asked him, “Do you not \add realize that\add* my spirit was there when Naaman got out of his chariot to talk with
-you? This is certainly not \f + \fk rhetorical question \f* the time to accept gifts of money and clothes and olive groves and vineyards and sheep and
+you? This is certainly not \\f + \\ft rhetorical question \\f* the time to accept gifts of money and clothes and olive groves and vineyards and sheep and
 oxen and servants! 
 \v 27 Because you have done this, you and your children and all your descendants, forever, will have leprosy just like Naaman
 had!” And when Gehazi left the room, he was a leper! His skin was as white as snow!

@@ -1,13 +1,13 @@
 \c 71  
 \q
-\v 1 Yahweh, I have come to you to ◄get refuge/be protected►; 
+\v 1 Yahweh, I have come to you to ◄get refuge\f + \ft Or: be \f* protected►; 
 \q2 never allow me to become ashamed \add because of being defeated\add*.
 \q
 \v 2 Because you always do what is right, help me and rescue me;
 \q2 listen to me, and save me! 
 \q
-\v 3 Be like a huge rock \f + \fk metaphor \f* under which I can be safe/protected;
-\q be like a strong fortress in which I am safe me \f + \fk doublet \f*. 
+\v 3 Be like a huge rock \\f + \\ft metaphor \\f* under which I can be safe\f + \ft Or: protected \f*;
+\q be like a strong fortress in which I am safe me \\f + \\ft doublet \\f*. 
 \q You \add continually\add* command \f + \ft (OR, \add Continually\add* command) \f*
 \add your angels\add* to rescue me. 
 \q
@@ -27,10 +27,10 @@ me\add*;
 \q2 because \add they realize that\add* you have been my strong defender.
 \q
 \v 8 I praise you all during the day, 
-\q2 and I proclaim that you are glorious/wonderful. 
+\q2 and I proclaim that you are glorious\f + \ft Or: wonderful \f*. 
 \b
 \q
-\v 9 Now, when I have become an old man, do not reject/abandon me;
+\v 9 Now, when I have become an old man, do not reject\f + \ft Or: abandon \f* me;
 \q2 do not abandon me now, when I am not strong anymore. 
 \q
 \v 10 My enemies say \add that they want to kill\add* me; 
@@ -43,7 +43,7 @@ me\add*;
 \v 12 God, do not stay far away from me; 
 \q2 hurry to help me! 
 \q
-\v 13 Cause those who ◄accuse me/say that I have done things that are wrong► to be defeated and destroyed;
+\v 13 Cause those who ◄accuse me\f + \ft Or: say \f* that I have done things that are wrong► to be defeated and destroyed;
 \q2 cause those who want to harm me to be shamed and disgraced. 
 \b
 \q
@@ -58,25 +58,25 @@ me\add*,
 \v 16 Yahweh, my Lord, I will praise you for your mighty deeds; 
 \q2 I will proclaim that only you always act justly. 
 \q
-\v 17 God, you have taught me \add many/those things\add* ever since I was young,
+\v 17 God, you have taught me \add many\f + \ft Or: those \f* things\add* ever since I was young,
 \q2 and I still tell people about your wonderful deeds. 
 \q
 \v 18 And now, God, when I am old and my hair is gray, 
 \q2 do not abandon me. 
-\q \add Stay with me\add* while I continue to proclaim to my children and grandchildren \f + \fk hyperbole \f* that you are very powerful \f + \fk doublet \f*.
+\q \add Stay with me\add* while I continue to proclaim to my children and grandchildren \\f + \\ft hyperbole \\f* that you are very powerful \\f + \\ft doublet \\f*.
 \b
 \q
 \v 19 God, you do many righteous deeds; 
 \q2 \add it is as though\add* they extend up to the sky. 
 \q You have done great things; 
-\q2 there is no one like you \f + \fk rhetorical question \f*. 
+\q2 there is no one like you \\f + \\ft rhetorical question \\f*. 
 \q
 \v 20 You have caused me to have many troubles and to suffer much,
 \q but you will cause me to become strong again; 
-\q when I am almost dead \f + \fk hyperbole \f*, you will keep me alive. 
+\q when I am almost dead \\f + \\ft hyperbole \\f*, you will keep me alive. 
 \q
 \v 21 You will cause me to be greatly honored 
-\q2 and you will encourage/comfort me again. 
+\q2 and you will encourage\f + \ft Or: comfort \f* me again. 
 \b
 \q
 \v 22 I will also praise you \add while I play\add* my harp; 
@@ -85,7 +85,7 @@ do\add*.
 \q I will play hymns to praise you, the holy God whom we Israelis
 \add worship\add*. 
 \q
-\v 23 I \f + \fk synecdoche \f* will shout joyfully while I play \add the harp\add* for you;
+\v 23 I \\f + \\ft synecdoche \\f* will shout joyfully while I play \add the harp\add* for you;
 \q with my entire inner being I will sing 
 \q2 because you have rescued me. 
 \q

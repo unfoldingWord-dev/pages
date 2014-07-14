@@ -2,19 +2,19 @@
 \s Luke 6:1-11 
 \s Jesus explained why he had authority to decide what his disciples should do on the Sabbath day.
 \p
-\v 1 One ◄Sabbath/Jewish day of rest►, while Jesus was walking through some grain fields with his disciples, they picked some
+\v 1 One ◄Sabbath\f + \ft Or: Jewish \f* day of rest►, while Jesus was walking through some grain fields with his disciples, they picked some
 of the heads of grain. They rubbed them in their hands \add to separate the grains from the
 husks\add*, and ate the grain. \add The law of Moses permitted people to do that if they were
 hungry\add*. 
 \v 2 Some Pharisees \add who were watching\add* said to Jesus, “◄You should not be doing on our rest day
-\add work\add* that \add our\add* laws forbid!/Why are you doing on our rest day
-\add work\add* that our laws forbid?►” \f + \fk rhetorical question \f* 
+\add work\add* that \add our\add* laws forbid!\f + \ft Or: Why \f* are you doing on our rest day
+\add work\add* that our laws forbid?►” \\f + \\ft rhetorical question \\f* 
 \v 3  \add Jesus wanted to show them that the record in Scriptures indicated that God permitted people to disobey certain
 religious laws when they needed food\add*. \add So\add* he replied,
 “\add It is written in the Scriptures\add* what \add our revered ancestor,
 King\add* David did when he and the men with him were hungry. You have read about that,
-◄\add but you do not think about what it implies/so why do you not think about what it
-implies\add*?► \f + \fk rhetorical question \f* 
+◄\add but you do not think about what it implies\f + \ft Or: so \f* why do you not think about what it
+implies\add*?► \\f + \\ft rhetorical question \\f* 
 \v 4 David entered God's big worship tent \add and asked for some
 food\add*. \add The high priest gave him\add* the bread that the priests had presented to God. It was permitted
 \add in\add* one of \add Moses' laws\add* that only the priests could eat that bread. But
@@ -24,19 +24,19 @@ food\add*. \add The high priest gave him\add* the bread that the priests had pre
 \add I\add* have the authority \add to determine what is right for my disciples to do
 on\add* the day of rest!” 
 \p
-\v 6 Another ◄Sabbath/Jewish day of rest► Jesus entered a ◄synagogue/Jewish meeting place► and taught the people. There was a
+\v 6 Another ◄Sabbath\f + \ft Or: Jewish \f* day of rest► Jesus entered a ◄synagogue\f + \ft Or: Jewish \f* meeting place► and taught the people. There was a
 man there whose right hand was shriveled. 
 \v 7 The men who taught the \add Jewish\add* laws and the Pharisees
-\add who were there\add* watched Jesus, to see if he would heal the man ◄on the Sabbath/on the Jewish rest day►. They did this
+\add who were there\add* watched Jesus, to see if he would heal the man ◄on the Sabbath\f + \ft Or: on \f* the Jewish rest day►. They did this
 so that, \add if he healed the man\add*, they would accuse him \add of disobeying their laws by working on the day of
 rest\add*. 
 \v 8 But Jesus knew what they were thinking. So he said to the man with the shriveled hand, “Come and stand here
 \add in front of everyone\add*!” So the man got up and stood there.
 \v 9 Then Jesus said to them, “I ask you this: Do the laws that \add God gave
-Moses\add* permit \add people\add* to do what is good ◄on the Sabbath/on the Jewish rest day►, or
+Moses\add* permit \add people\add* to do what is good ◄on the Sabbath\f + \ft Or: on \f* the Jewish rest day►, or
 \add do they permit people\add* to harm \add others\add*? \add Do they permit
 us\add* to save \add a person's\add* life \add on our day of rest\add* or to let
-\add him\add* die \f + \fk hyperbole \f* \add by refusing to help him\add*?” 
+\add him\add* die \\f + \\ft hyperbole \\f* \add by refusing to help him\add*?” 
 \v 10  \add They refused to answer him. So\add* after he looked around at them all, he said to the man, “Stretch out your
 \add withered\add* hand!” The man did that, and his hand became all right again!
 \v 11 But they were very angry, and they discussed with one another what they could do to
@@ -52,7 +52,7 @@ us\add* to save \add a person's\add* life \add on our day of rest\add* or to let
 \add son\add* of Alpheus; Simon, who belonged to the party \add that encouraged people
 to\add* rebel \add against the Roman government\add*; 
 \v 16 Judas, the \add son\add* of \add another\add* James; and Judas Iscariot \f + \ft (OR, Judas from the town of Kerioth), the one who
-later ◄betrayed Jesus./enabled the Jewish leaders to seize Jesus.►
+later ◄betrayed Jesus.\f + \ft Or: enabled \f* the Jewish leaders to seize Jesus.►
 \s Luke 6:17-26 
 \s Jesus taught them which people God would be pleased with and which people he would be displeased with.
 \p
@@ -63,11 +63,11 @@ disciples there. There was also a large group of people who had come from Jerusa
 \v 18 They came to hear Jesus talk to them and to be healed {and for him to heal them} from their diseases. He also healed
 those whom evil spirits had troubled. 
 \v 19 Everyone \add in the crowd\add* tried to touch him, because he was healing everyone by
-\add his/God's\add* power. 
-\v 20 He looked \f + \fk metonymy \f* at his disciples and said, “\add God\add* is pleased with you
+\add his\f + \ft Or: God \f*'s\add* power. 
+\v 20 He looked \\f + \\ft metonymy \\f* at his disciples and said, “\add God\add* is pleased with you
 \add who know\add* that you lack what \add he wants you to have;\add* he will allow you to be the people whose lives he rules
 over. 
-\v 21  \add God\add* is pleased with you who sincerely desire to receive what \f + \fk metonymy \f*
+\v 21  \add God\add* is pleased with you who sincerely desire to receive what \\f + \\ft metonymy \\f*
 \add he wants you to have\add*; he will give you what you need, until you are satisfied.
 \p \add God\add* is pleased with you that grieve now \add because of
 sin\add*. Later you will be joyful. 
@@ -87,7 +87,7 @@ that\add*.) Do not forget that their ancestors did the same things to the prophe
 you\add* have all that you need now; you will \add realize\add* that these things will not make you feel satisfied.
 \p There will be terrible punishment for you who are joyful now; you will
 \add later\add* be very sad. 
-\v 26 When most \f + \fk hyperbole \f* people speak well about you, trouble is ahead for you;
+\v 26 When most \\f + \\ft hyperbole \\f* people speak well about you, trouble is ahead for you;
 \add it will not prove that you are God's servants, because\add* your ancestors used to speak well about those who falsely
 \add claimed that they were\add* prophets.” 
 \s Luke 6:27-36 
@@ -104,12 +104,12 @@ you\add (sg)\add*, do not ask him to return them.
 \v 31 In whatever way you\add (pl)\add* want others to act toward you, that is the way that you should act toward them.
 \p
 \v 32 If you love \add only\add* those who love you, do not \add expect
-God\add* to praise you for \add doing that\add* \f + \fk rhetorical question \f*, \add because\add* even sinners love those who love them.
+God\add* to praise you for \add doing that\add* \\f + \\ft rhetorical question \\f*, \add because\add* even sinners love those who love them.
 \v 33 If you do good things \add only\add* for those who do good things for you, do not
-\add expect God\add* to reward you \add for doing that\add* \f + \fk rhetorical question \f*,
+\add expect God\add* to reward you \add for doing that\add* \\f + \\ft rhetorical question \\f*,
 \add because\add* even sinners do that. 
 \v 34 If you lend \add things or money only\add* to those who you expect will give something back to you, do not
-\add expect that God\add* will reward you \f + \fk rhetorical question \f* \add for doing that\add*! Even sinners lend to other sinners, because they
+\add expect that God\add* will reward you \\f + \\ft rhetorical question \\f* \add for doing that\add*! Even sinners lend to other sinners, because they
 expect them to pay everything back. 
 \v 35 Instead, love your enemies! Do good things for them! Lend to them, and do not expect them to pay anything back!
 \add If you do that, God will give\add* you a great reward. And you will be
@@ -121,40 +121,40 @@ acts\add* mercifully \add toward you\add*.”
 \s Jesus taught that we should not decide how God should punish others.
 \p
 \v 37 “Do not say how sinfully others have acted, and then \add God\add* will not say how sinfully you have acted. Do not
-condemn others, and then \add he\add* will not condemn you \f + \fk doublet \f*. Forgive others
+condemn others, and then \add he\add* will not condemn you \\f + \\ft doublet \\f*. Forgive others
 \add for the evil things that they have done to you\add*, and then
 \add God\add* will forgive you. 
 \v 38 Give \add good things to others\add*, and then \add God\add* will give
-\add good\add* things to you. It will be \add as though\add* \f + \fk metaphor \f*
+\add good\add* things to you. It will be \add as though\add* \\f + \\ft metaphor \\f*
 \add God is putting things in a basket\add* for you. He will give you a full amount, pressed down in the basket, which he will
 shake \add so that he can put more in\add*, and it will spill over the sides!
 \add Remember that\add* the way you act \add toward others\add* will be the way that
 \add God\add* will act toward you!” 
 \p
 \v 39 He also told \add his disciples\add* this parable \add to show them that they should be like him, and not be like the
-Jewish religious leaders\add*: “◄You certainly would not \add expect\add* a blind man to lead another blind man./Would you
-\add expect\add* a blind man to lead\add another\add* blind man?► \f + \fk rhetorical question \f* If he tried to do
-\add that\add*, ◄they would both probably fall into a hole!/wouldn't they both probably fall into a hole?► \f + \fk rhetorical question \f*
+Jewish religious leaders\add*: “◄You certainly would not \add expect\add* a blind man to lead another blind man.\f + \ft Or: Would \f* you
+\add expect\add* a blind man to lead\add another\add* blind man?► \\f + \\ft rhetorical question \\f* If he tried to do
+\add that\add*, ◄they would both probably fall into a hole!\f + \ft Or: wouldn \f*'t they both probably fall into a hole?► \\f + \\ft rhetorical question \\f*
 \add I am your teacher, and you disciples should be like me\add*.
 \v 40 A disciple should not \add expect to be\add* greater than his teacher. But if a student is fully trained {if someone
-fully trains a student}, the student can become like his teacher \f + \fk metaphor \f*.
+fully trains a student}, the student can become like his teacher \\f + \\ft metaphor \\f*.
 \add So you should be content to be like me\add*. 
 \p
-\v 41 Why do you notice\add someone else's small faults\add*?/None of you should be concerned about
+\v 41 Why do you notice\add someone else's small faults\add*?\f + \ft Or: None \f* of you should be concerned about
 \add someone else's small faults\add* [MET, RHQ]. \add That would be
 like\add* noticing a speck in that person's eye. But you should be concerned about
 \add your own big faults. They are like\add* planks in your own eye,
 \add which you do not notice\add*. 
 \v 42 ◄You\add (sg)\add* should not say, ‘Friend, let me take out that speck in your eye!’ when you do not notice the log in
-your own eye!/Why do you say, ‘Friend, let me take out that speck in your eye!’ when you do not notice the log in your own
-eye?► \f + \fk rhetorical question \f* \add If you do that\add*, you are a hypocrite! You should first
+your own eye!\f + \ft Or: Why \f* do you say, ‘Friend, let me take out that speck in your eye!’ when you do not notice the log in your own
+eye?► \\f + \\ft rhetorical question \\f* \add If you do that\add*, you are a hypocrite! You should first
 \add stop committing your own sins. That will be like\add* removing the plank from your own eye. Then, as a result, you will
 have the spiritual insight you need to help others get rid of the
 \add faults that are like\add* specks in their eyes.” 
 \s Luke 6:43-45 
 \s Jesus taught that what people do reflects their inner thoughts.
 \p
-\v 43 “\add People are like trees\add* \f + \fk metaphor \f*. Healthy trees do not bear bad fruit (OR, bear only good fruit) \f*, and unhealthy
+\v 43 “\add People are like trees\add* \\f + \\ft metaphor \\f*. Healthy trees do not bear bad fruit (OR, bear only good fruit) \f*, and unhealthy
 trees do not bear good fruit. 
 \v 44  \add Just like you\add* can tell if a tree is good or bad by looking at its fruit,
 \add you can tell which people are good and which are bad by looking at the way
@@ -164,12 +164,12 @@ grapes\add*, no one can \add pick\add* grapes from bramble bushes.
 \v 45  \add Similarly\add*, good people will conduct their lives in a good way because within themselves they think a lot of
 good \add things\add*, and evil people will live in an evil way because within themselves they think a lot of evil
 \add things\add*. The basic principle is that people speak \add and
-act\add* according to all that they think in their ◄minds/inner beings►.”
+act\add* according to all that they think in their ◄minds\f + \ft Or: inner \f* beings►.”
 \s Luke 6:46-49 
 \s Jesus taught why it is necessary to obey his teaching, not just listen to it.
 \p
 \v 46 “\add Because people should obey what their masters tell them\add*, ◄it is disgraceful that you say that I am your master
-but you do not do what I tell you!/why do you say that I am your master but you do not do what I tell you?► \f + \fk rhetorical question \f*
+but you do not do what I tell you!\f + \ft Or: why \f* do you say that I am your master but you do not do what I tell you?► \\f + \\ft rhetorical question \\f*
 \v 47 Some people come to me, and hear my messages and obey them. I will tell you what they are like.
 \v 48 They are like a man who dug deep \add into the ground to prepare to build his
 house\add*. He made sure that the foundation was on solid ground. Then when there was a flood, the water tried to wash away the

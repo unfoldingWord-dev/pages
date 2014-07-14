@@ -1,8 +1,8 @@
 \c 27  
 \s A psalm written by David 
 \q
-\v 1 Yahweh is the one who gives light \add to my soul/spirit\add* and the one who saves me,
-\q2 so I do not \f + \fk rhetorical question \f* need to be afraid of anyone. 
+\v 1 Yahweh is the one who gives light \add to my soul\f + \ft Or: spirit \f*\add* and the one who saves me,
+\q2 so I do not \\f + \\ft rhetorical question \\f* need to be afraid of anyone. 
 \q Yahweh is the one to whom I go for refuge, 
 \q2 so I will never be afraid. 
 \q
@@ -10,21 +10,21 @@
 \q2 they stumble and fall down. 
 \q
 \v 3 Even if an army surrounds me, 
-\q2 I \f + \fk synecdoche \f* will not be afraid. 
+\q2 I \\f + \\ft synecdoche \\f* will not be afraid. 
 \q Even if they attack me, 
 \q2 I will trust \add in God\add*. 
 \b
 \q
 \v 4 There is one thing that I have requested from Yahweh; 
 \q2 this is the one thing that I desire: 
-\q that I may worship in Yahweh's house/temple every day during my life,
+\q that I may worship in Yahweh's house\f + \ft Or: temple \f* every day during my life,
 \q2 and see that Yahweh is wonderful 
 \q2 and inquire \add what he wants me to do\add*. 
 \b
 \q
 \v 5 He will protect me when I have troubles; 
 \q2 he will keep me safe in his temple. 
-\q He will set me safely ◄on a high rock/in a secure place►. 
+\q He will set me safely ◄on a high rock\f + \ft Or: in \f* a secure place►. 
 \q
 \v 6 Then I will triumph over [IDI] my enemies. 
 \q I will shout joyfully as I offer sacrifices in his temple, 

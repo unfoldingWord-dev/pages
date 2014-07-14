@@ -14,7 +14,7 @@
 \v 4 Those who choose to worship other gods will have many things that cause them to be sad.
 \q2 I will not join them when they make sacrifices \add to their
 gods\add*; 
-\q I will not even join them when they speak \f + \fk metonymy \f* the names of their gods.
+\q I will not even join them when they speak \\f + \\ft metonymy \\f* the names of their gods.
 \b
 \q
 \v 5 Yahweh, you are the one whom I have chosen, 
@@ -22,23 +22,23 @@ gods\add*;
 \q You protect me and control what happens to me. 
 \q
 \v 6 Yahweh has given me a wonderful place in which to live; 
-\q2 I am delighted with all the things that he has given me \f + \fk metaphor \f*.
+\q2 I am delighted with all the things that he has given me \\f + \\ft metaphor \\f*.
 \b
 \q
-\v 7 I will praise Yahweh, the one who teaches/disciplines me; 
+\v 7 I will praise Yahweh, the one who teaches\f + \ft Or: disciplines \f* me; 
 \q2 even at night \add he\add* tells my inner being what is right for me to do.
 \q
 \v 8 I know that Yahweh is always with me. 
 \q2 He is beside me; 
-\q2 so nothing will ◄perturb me/cause me to be worried►. 
+\q2 so nothing will ◄perturb me\f + \ft Or: cause \f* me to be worried►. 
 \b
 \q
 \v 9 Therefore I am glad and I [MTY, DOU] rejoice; 
 \q2 and I can rest securely 
 \q
-\v 10 because you, Yahweh, will not allow my soul/spirit to remain in the place where the dead people are,
+\v 10 because you, Yahweh, will not allow my soul\f + \ft Or: spirit \f* to remain in the place where the dead people are,
 \q2 and you will not allow me, your godly one, to stay there. 
 \q
 \v 11 You will show me the road that leads to \add receiving eternal\add* life,
 \q2 and you will make me joyful when I am with you. 
-\q2 I will have pleasure forever when I am ◄at your right hand/seated next to you►.
+\q2 I will have pleasure forever when I am ◄at your right hand\f + \ft Or: seated \f* next to you►.

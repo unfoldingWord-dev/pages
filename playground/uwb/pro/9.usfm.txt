@@ -17,14 +17,14 @@
 \v 5 “Come and eat the food that I \add have prepared\add*, 
 \q2 and drink the \add good\add* wine that I have mixed. 
 \q
-\v 6 ◄Leave/Go away from► \add other\add* foolish people, and if you do that, you will continue to live.
-\q2 Walk on the road that will enable you to ◄have knowledge/know what is true and what is not true►.”
+\v 6 ◄Leave\f + \ft Or: Go \f* away from► \add other\add* foolish people, and if you do that, you will continue to live.
+\q2 Walk on the road that will enable you to ◄have knowledge\f + \ft Or: know \f* what is true and what is not true►.”
 \b
 \q
 \v 7 If you rebuke someone who will not allow others to correct him, he will insult you.
-\q If you reprove/scold an evil man, he will hurt you. 
+\q If you reprove\f + \ft Or: scold \f* an evil man, he will hurt you. 
 \q
-\v 8 Do not rebuke someone who will not allow others to ◄correct him/tell him what he has done is wrong►, because he will hate
+\v 8 Do not rebuke someone who will not allow others to ◄correct him\f + \ft Or: tell \f* him what he has done is wrong►, because he will hate
 you for doing that. 
 \q2 But if you rebuke a wise person, he will respect you. 
 \q
@@ -34,9 +34,9 @@ you for doing that.
 \q
 \v 10 If you want to be wise, you must start by revering Yahweh,
 \q2 and if you know God, the Holy One, you will understand \add which teachings are
-wise/true\add*. 
+wise\f + \ft Or: true \f*\add*. 
 \q
-\v 11 If you become wise, you will live many years \f + \fk doublet \f*. 
+\v 11 If you become wise, you will live many years \\f + \\ft doublet \\f*. 
 \q
 \v 12 If you are wise, you are the one who will benefit from it;
 \q2 if you ridicule \add becoming wise\add*, you are the one who will suffer.

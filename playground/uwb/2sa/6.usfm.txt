@@ -7,7 +7,7 @@
 \add to Jerusalem\add* the sacred chest, which had the name of Yahweh, the leader of the armies of
 \add the angels in\add* heaven, written on it, and which had the
 \add statues of the\add* winged creatures on top of it. Between those statues was where Yahweh spoke messages about ruling his
-people \f + \fk metonymy \f*. 
+people \\f + \\ft metonymy \\f*. 
 \v 3 The sacred chest was in the house of Abinadab, on top of a hill. They went there, and put the chest on a new cart. Uzzah
 and Ahio, the two sons of Abinadab, were guiding \add the oxen that were pulling the
 cart\add*. 
@@ -16,7 +16,7 @@ cart\add*.
 \add playing\add* lyres and harps, and beating tambourines, and clashing castanets and cymbals.
 \p
 \v 6 But when they came to the place where Nacon threshed grain, the oxen stumbled. So Uzzah put his hand on the sacred chest
-to ◄steady it/prevent it from falling \add off the cart\add*►. 
+to ◄steady it\f + \ft Or: prevent \f* it from falling \add off the cart\add*►. 
 \v 7 Yahweh immediately became very angry with Uzzah, and killed him right there alongside the sacred chest, because he had
 touched the chest, \add and Yahweh had commanded that only the descendants of Levi who help the priests should touch the sacred
 chest\add*. 
@@ -25,7 +25,7 @@ chest\add*.
 of Uzzah.’ 
 \p
 \v 9 Then David was afraid of what else Yahweh \add would do to punish
-them\add*, so he said, “◄How can I/I am afraid to► take the sacred chest with me
+them\add*, so he said, “◄How can I\f + \ft Or: I \f* am afraid to► take the sacred chest with me
 \add to Jerusalem\add*.” 
 \v 10 So he did not want to take the sacred chest to Jerusalem. Instead, they took it to another place; they took it to the
 house of Obed-Edom, from Gath \add city\add*. 
@@ -53,7 +53,7 @@ completely burned \add on an altar\add*, and other offerings to restore fellowsh
 raisin cake. Then all the people returned to their homes. 
 \p
 \v 20 When David went home to \add ask Yahweh to\add* bless his family, his wife Michal came out to meet him. She said to him,
-“Maybe you, the king of Israel, \add think that\add* \f + \fk irony \f* you were honoring yourself today, but really, you acted like a fool,
+“Maybe you, the king of Israel, \add think that\add* \\f + \\ft irony \\f* you were honoring yourself today, but really, you acted like a fool,
 uncovering yourself while the female servants of your officials were watching!”
 \p
 \v 21 David replied to Michal, “\add I was doing that\add* to honor Yahweh, who chose me instead of your father and other

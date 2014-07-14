@@ -45,7 +45,7 @@ disciples\add*.
 \s The soldiers ridiculed Jesus as being a king. 
 \p
 \v 16 The soldiers took Jesus into the \add courtyard of the\add* palace
-\add where Pilate lived\add*. That place was the government headquarters. Then they summoned the whole ◄cohort/group of
+\add where Pilate lived\add*. That place was the government headquarters. Then they summoned the whole ◄cohort\f + \ft Or: group \f* of
 soldiers► \add who were on duty there\add*. 
 \v 17  \add After the soldiers gathered together\add*, they put a purple robe on Jesus. Then they placed on his head a crown
 that they made from \add branches of\add* thornbushes. \add They did those things in order to ridicule him by pretending that
@@ -86,7 +86,7 @@ again within three days.
 \v 30  \add If you could do that, then\add* rescue yourself by coming down from the cross!”
 \v 31 The chief priests, along with the men who taught the \add Jewish\add* laws, also
 \add wanted to\add* make fun of Jesus. So they said to each other, “He
-\add claims to have\add* saved others \add from their sicknesses\add* \f + \fk irony \f* but he cannot save himself!
+\add claims to have\add* saved others \add from their sicknesses\add* \\f + \\ft irony \\f* but he cannot save himself!
 \v 32 He said, ‘I am the Messiah, I am the King who \add rules the people
 of\add* Israel.’ \add If his words are true\add*, he should come down now from the cross! Then we will believe
 \add him!\add*” The \add two\add* men who were crucified beside him also insulted him.
@@ -111,7 +111,7 @@ someone\add* said, “Wait! Let's see whether Elijah will come to take him down
 \add That showed that ordinary people could now go into the presence of
 God\add*. 
 \v 39 The officer who supervised the soldiers \add who nailed Jesus to the
-cross\add* was standing in front of Jesus. When he saw how Jesus died, he exclaimed, “Truly, this man was ◄the Son of God/the
+cross\add* was standing in front of Jesus. When he saw how Jesus died, he exclaimed, “Truly, this man was ◄the Son of God\f + \ft Or: the \f*
 man who was also God►!” 
 \v 40-41 There were also some women there, watching these events from a distance. They had accompanied Jesus when he was in
 Galilee \add district\add*, and they had provided what he needed. They had come with him to Jerusalem. Among those women was
@@ -126,7 +126,7 @@ those who had been waiting expectantly for the \add time when\add*
 God\add would send\add* his king to begin to rule. \add He knew that, according to Jewish law, people's bodies had to be
 buried\add* {\add someone had to bury people's bodies\add*} \add on the day they died. He also realized
 that\add* it was the day when \add people\add* prepared \add things
-for\add* ◄\add the Jewish day of rest/the Sabbath\add*►, \add and that the Sabbath would start when the sun
+for\add* ◄\add the Jewish day of rest\f + \ft Or: the \f* Sabbath\add*►, \add and that the Sabbath would start when the sun
 set\add*. So he became courageous and went to Pilate and asked Pilate
 \add to permit him to take\add* the body of Jesus \add down from the cross and bury it
 immediately\add*. 

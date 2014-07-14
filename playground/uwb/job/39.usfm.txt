@@ -1,7 +1,7 @@
 \c 39  
 \s Yahweh continued his reply to Job 
 \q
-\v 1 “Job, do you know at what time/season \add of the year\add* the female mountain goats give birth?
+\v 1 “Job, do you know at what time\f + \ft Or: season \f* \add of the year\add* the female mountain goats give birth?
 \q2 Have you watched the wild deer while their calves were being born?
 \q
 \v 2 Do you know how many months pass from the time they become pregnant until their calves are born?
@@ -13,7 +13,7 @@
 \q2 and then they leave their mothers and do not return to them again.
 \b
 \q
-\v 5 Who allows the wild donkeys to go wherever they want \f + \fk doublet \f*?
+\v 5 Who allows the wild donkeys to go wherever they want \\f + \\ft doublet \\f*?
 \q
 \v 6 I am the one who put them in the desert, 
 \q2 in places where grass does not grow. 
@@ -29,7 +29,7 @@
 \q2 Will it allow you to keep it penned up at night in the place where you put feed for your animals?
 \q
 \v 10 And can you fasten a rope on it 
-\q2 so that it will plow furrows/trenches in your fields? 
+\q2 so that it will plow furrows\f + \ft Or: trenches \f* in your fields? 
 \q
 \v 11 Since it is very strong, can you trust it to work for you?
 \q2 Can you go away after you tell it what work it should do \add and assume that it will do that
@@ -46,7 +46,7 @@ work\add*?
 away\add*, 
 \q2 leaving the eggs to be warmed in the sand. 
 \q
-\v 15 Ostriches do not worry that some wild animal may step on the eggs and crush them \f + \fk doublet \f*.
+\v 15 Ostriches do not worry that some wild animal may step on the eggs and crush them \\f + \\ft doublet \\f*.
 \q
 \v 16 Ostriches act cruelly towards their chicks; 
 \q2 they act as though the chicks belonged to some other ostrich.
@@ -62,10 +62,10 @@ away\add*,
 \b
 \q
 \v 19 And \add think about\add* horses. Job, are you the one who caused horses to be strong?
-\q2 Are you the one who put flowing ◄manes/long hair► on their necks?
+\q2 Are you the one who put flowing ◄manes\f + \ft Or: long \f* hair► on their necks?
 \q
 \v 20 Are you the one who enabled them to leap forward like locusts?
-\q2 When they ◄snort/blow loudly through their noses►, they cause people to be afraid.
+\q2 When they ◄snort\f + \ft Or: blow \f* loudly through their noses►, they cause people to be afraid.
 \q
 \v 21 They paw the ground, rejoicing about being very strong, 
 \q2 as they prepare to rush into a battle. 
@@ -77,7 +77,7 @@ with\add* swords.
 \v 23 The quivers containing the riders' arrows rattle against the horses' sides,
 \q2 and the spears and javelins flash \add in the light of the sun\add*.
 \q
-\v 24 The horses paw the ground fiercely/excitedly \add wanting the battle to
+\v 24 The horses paw the ground fiercely\f + \ft Or: excitedly \f* \add wanting the battle to
 begin\add*, 
 \q2 and they rush into the battle when the trumpet is blown. 
 \q

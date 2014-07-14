@@ -16,7 +16,7 @@ committed adultery with Bathsheba
 \q
 \v 4 You, you only, are the one I that have really sinned against,
 \q2 and you have seen the evil things that I have done. 
-\q When you say that I am guilty, you are right/correct, 
+\q When you say that I am guilty, you are right\f + \ft Or: correct \f*, 
 \q2 and when you judge me, you justly say \add that I deserve to be
 punished\add*. 
 \q
@@ -29,10 +29,10 @@ punished\add*.
 \q
 \v 7 Purify me from the guilt of my sins, and after that happens, I will be clean
 \add in my inner being\add*; 
-\q2 cleanse me, and then \add in my inner being\add* I will be ◄whiter than snow/very clean►.
+\q2 cleanse me, and then \add in my inner being\add* I will be ◄whiter than snow\f + \ft Or: very \f* clean►.
 \q
-\v 8 Allow/Cause me to be joyful \f + \fk doublet \f* again; 
-\q2 you have ◄crushed my spirit/completely discouraged me► \f + \fk metonymy \f*;
+\v 8 Allow\f + \ft Or: Cause \f* me to be joyful \\f + \\ft doublet \\f* again; 
+\q2 you have ◄crushed my spirit\f + \ft Or: completely \f* discouraged me► \\f + \\ft metonymy \\f*;
 \q but now let me rejoice again. 
 \q
 \v 9 Do not continue to look at the sins [IDI] that I have committed;
@@ -45,7 +45,7 @@ punished\add*.
 \v 11 Do not send me away from you \add because of my sin\add*, 
 \q2 and do not take your Holy Spirit from me. 
 \q
-\v 12 Cause/Allow me to be happy again because of \add knowing\add* that you have freed me
+\v 12 Cause\f + \ft Or: Allow \f* me to be happy again because of \add knowing\add* that you have freed me
 \add from the guilt of my sin\add*, 
 \q2 and make my spirit willing \add to obey you\add*. 
 \b
@@ -71,7 +71,7 @@ you\add*.
 \q2 O God, you will not refuse that kind of sacrifice. 
 \b
 \q
-\v 18 O God, be good to \add the people who live in\add* Jerusalem \f + \fk metonymy \f*,
+\v 18 O God, be good to \add the people who live in\add* Jerusalem \\f + \\ft metonymy \\f*,
 \q2 \add and help them\add* to rebuild the city walls. 
 \q
 \v 19 When that happens, \add they will bring you\add* the proper sacrifices,

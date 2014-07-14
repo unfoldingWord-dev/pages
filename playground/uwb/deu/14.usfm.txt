@@ -1,7 +1,7 @@
 \c 14  
 \s Creatures that were forbidden to be eaten 
 \p
-\v 1 “We are people who belong to Yahweh our God. So, when people die, do not show that you are grieving by gashing/cutting
+\v 1 “We are people who belong to Yahweh our God. So, when people die, do not show that you are grieving by gashing\f + \ft Or: cutting \f*
 yourselves or by shaving the hair on your foreheads \add like the other people-groups
 do\add*. 
 \v 2 We belong to Yahweh alone. Yahweh chose us from all the other people-groups on the earth to be his special people.
@@ -9,7 +9,7 @@ do\add*.
 \v 3 Do not eat anything that \add Yahweh\add* detests. 
 \v 4 The animals \add whose meat\add* you are permitted to eat are cattle, sheep, goats,
 \v 5 deer, gazelles, wild goats, antelopes, and mountain sheep. 
-\v 6 Those are animals that have split hoofs and that also ◄chew their cuds/regurgitate their food
+\v 6 Those are animals that have split hoofs and that also ◄chew their cuds\f + \ft Or: regurgitate \f* their food
 \add from their stomachs\add* to chew it again►. 
 \v 7 But there are other animals that chew their cuds that you must not eat. Those are camels, rabbits, and rock badgers. They
 chew their cuds, but their hooves are not split. So they are not acceptable for you to eat.
@@ -40,7 +40,7 @@ been drained out\add*.
 \p You must not cook a young sheep or goat in its mother's milk.”
 \s Giving tithes 
 \p
-\v 22 “Once each year you must set apart ◄a tithe/10 percent► of all the crops that are produced/harvested in your fields.
+\v 22 “Once each year you must set apart ◄a tithe\f + \ft Or: 10 \f* percent► of all the crops that are produced\f + \ft Or: harvested \f* in your fields.
 \v 23 Take them to the place that Yahweh our God will choose \add for you to worship
 him\add*. There eat the tithes of your grain, your wine, your \add olive\add* oil, and the meat of the firstborn male animals
 of your cattle and your sheep. Do this in order that you may learn to always have an awesome respect for Yahweh,
@@ -53,10 +53,10 @@ him\add* is very far from your home, with the result that you are not able to ta
 \v 26 There, \add with that money\add*, you may buy whatever you want to—beef or lamb or wine or fermented drinks. And there,
 in the presence of Yahweh, you and your families should eat \add and
 drink\add* those things and be happy. 
-\v 27 But be sure to not neglect/forget \add to help\add* the descendants of Levi who live in your towns, because they will not
+\v 27 But be sure to not neglect\f + \ft Or: forget \f* \add to help\add* the descendants of Levi who live in your towns, because they will not
 own any land. 
 \p
-\v 28 At the end of every three years, bring a tithe of all your crops that have been produced/harvested in that year and store
+\v 28 At the end of every three years, bring a tithe of all your crops that have been produced\f + \ft Or: harvested \f* in that year and store
 it in your towns. 
 \v 29 That food is for the descendants of Levi, because they do not have their own land, and for foreigners
 \add who live among you\add*, and for orphans and widows who live in your towns. They are permitted to come

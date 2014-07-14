@@ -1,7 +1,7 @@
 \c 65  
 \s A psalm written by David for the choir director 
 \q
-\v 1 God, it is right/appropriate \add for us\add* to praise you in Jerusalem,
+\v 1 God, it is right\f + \ft Or: appropriate \f* \add for us\add* to praise you in Jerusalem,
 \q and to do what we have promised you that we would do, 
 \q2
 \v 2 because you answer our prayers. 
@@ -13,7 +13,7 @@
 \q
 \v 4 You are pleased with those whom you have chosen 
 \q2 to live close to your temple. 
-\q We will be satisfied/happy with all the blessings that we receive from
+\q We will be satisfied\f + \ft Or: happy \f* with all the blessings that we receive from
 \add worshiping in\add* your sacred temple. 
 \b
 \q
@@ -25,11 +25,11 @@
 \q2 \add showing that\add* you are very powerful. 
 \q
 \v 7 You calm the seas when they roar, 
-\q2 and you stop the waves from pounding/crashing \add on the shore\add*;
-\q you also calm people when they ◄make a great uproar/shout angrily together►.
+\q2 and you stop the waves from pounding\f + \ft Or: crashing \f* \add on the shore\add*;
+\q you also calm people when they ◄make a great uproar\f + \ft Or: shout \f* angrily together►.
 \q
-\v 8 People who live in very remote/distant places on the earth 
-\q2 ◄are awed by/have an awesome respect for you because of► the miracles that you perform;
+\v 8 People who live in very remote\f + \ft Or: distant \f* places on the earth 
+\q2 ◄are awed by\f + \ft Or: have \f* an awesome respect for you because of► the miracles that you perform;
 \q because of what you do, 
 \q2 people who live far to the west and far to the east shout joyfully.
 \b
@@ -37,20 +37,20 @@
 \v 9 You take care of the soil and send rain, 
 \q2 causing many good things to grow; 
 \q you fill the streams with water, 
-\q2 and cause grain/crops to grow. 
-\q This is what you have determined/said would happen. 
+\q2 and cause grain\f + \ft Or: crops \f* to grow. 
+\q This is what you have determined\f + \ft Or: said \f* would happen. 
 \q
 \v 10 You \add send plenty of rain\add* on the fields that have been plowed,
 \q2 and you fill the furrows with water. 
-\q With showers you soften the \add hard clods/lumps of\add* soil,
+\q With showers you soften the \add hard clods\f + \ft Or: lumps \f* of\add* soil,
 \q2 and you bless the soil by causing young plants to grow. 
 \q
 \v 11 Because you bless the soil, there are very good crops at harvest season;
-\q2 wherever you have gone \f + \fk metonymy \f*, good crops are very abundant [IDI].
+\q2 wherever you have gone \\f + \\ft metonymy \\f*, good crops are very abundant [IDI].
 \q
 \v 12 The pastures are full of flocks \add of sheep and goats\add*;
 \q2 \add it is as though\add* the hills are very joyful. 
 \q
-\v 13 The meadows are ◄covered with/full of► sheep and goats, 
+\v 13 The meadows are ◄covered with\f + \ft Or: full \f* of► sheep and goats, 
 \q2 and the valleys are full of grain; 
 \q2 \add it is as though\add* they also sing and shout joyfully.

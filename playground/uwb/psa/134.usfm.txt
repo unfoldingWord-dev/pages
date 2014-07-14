@@ -2,13 +2,13 @@
 \s A psalm written for people going up to the temple to worship 
 \q
 \v 1 All you people who serve Yahweh, 
-\q2 who stand up and ◄serve/pray to► him at night in his temple,
+\q2 who stand up and ◄serve\f + \ft Or: pray \f* to► him at night in his temple,
 \q come and praise him! 
 \q
-\v 2 Lift up your hands/arms \add to pray to him\add* in the temple
+\v 2 Lift up your hands\f + \ft Or: arms \f* \add to pray to him\add* in the temple
 \q2 and praise him! 
 \b
 \q
-\v 3 And I hope/wish that Yahweh, who created heaven and the earth,
+\v 3 And I hope\f + \ft Or: wish \f* that Yahweh, who created heaven and the earth,
 \q2 will bless you from \add where he lives in the temple\add* on Zion
 \add Hill\add*! 

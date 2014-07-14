@@ -2,21 +2,21 @@
 \s What will happen when the great king comes 
 \q
 \v 1 Listen to this! Some day there will, be a righteous king, 
-\q2 and his officials will help him to rule justly/fairly. 
+\q2 and his officials will help him to rule justly\f + \ft Or: fairly \f*. 
 \q
-\v 2 Each of them will be like \f + \fk metaphor \f* a shelter from the wind 
-\q2 and a ◄refuge/place to be protected► from the storm. 
-\q They will be like \f + \fk simile \f* streams of water in the desert, 
+\v 2 Each of them will be like \\f + \\ft metaphor \\f* a shelter from the wind 
+\q2 and a ◄refuge\f + \ft Or: place \f* to be protected► from the storm. 
+\q They will be like \\f + \\ft simile \\f* streams of water in the desert, 
 \q2 like the shade under a huge rock in a very hot and dry land.
 \b
 \q
-\v 3 When that happens, \add those leaders will enable\add* people who have not understood \f + \fk metaphor \f* God's truth to understand it,
-\q2 and they will enable those who have not paid attention to \f + \fk metaphor \f* God's truth to pay attention to it.
+\v 3 When that happens, \add those leaders will enable\add* people who have not understood \\f + \\ft metaphor \\f* God's truth to understand it,
+\q2 and they will enable those who have not paid attention to \\f + \\ft metaphor \\f* God's truth to pay attention to it.
 \q
 \v 4 Even those who act very hastily will have good sense, 
 \q2 and those who cannot speak well will speak fluently and clearly.
 \q
-\v 5 At that time, people who are foolish/unwise will no longer be ◄admired/looked up to►,
+\v 5 At that time, people who are foolish\f + \ft Or: unwise \f* will no longer be ◄admired\f + \ft Or: looked \f* up to►,
 \q2 and scoundrels will no longer be respected. 
 \q
 \v 6 Foolish people say things that are foolish, 
@@ -28,25 +28,25 @@
 \q
 \v 7 Scoundrels do things that are evil and that deceive people;
 \q2 they plan to do evil things; 
-\q by telling lies in court they cause poor people to ◄have trouble/be convicted►,
-\q2 even when what the poor people are requesting is fair/just. 
+\q by telling lies in court they cause poor people to ◄have trouble\f + \ft Or: be \f* convicted►,
+\q2 even when what the poor people are requesting is fair\f + \ft Or: just \f*. 
 \q
-\v 8 But honorable people plan to do honorable/good things, 
-\q2 and they do the honorable/good things that they plan to do. 
+\v 8 But honorable people plan to do honorable\f + \ft Or: good \f* things, 
+\q2 and they do the honorable\f + \ft Or: good \f* things that they plan to do. 
 \s A message for the women of Jerusalem 
 \q
-\v 9 You women \add of Jerusalem\add* who think that you are very secure/safe
+\v 9 You women \add of Jerusalem\add* who think that you are very secure\f + \ft Or: safe \f*
 \q2 and think that everything is going well, 
 \q listen to [IDI] what I say! 
 \q
-\v 10 After one year is ended, you who now ◄are not worried about anything/think that everything is going well► will tremble,
+\v 10 After one year is ended, you who now ◄are not worried about anything\f + \ft Or: think \f* that everything is going well► will tremble,
 \q2 because there will be no grapes for you to harvest 
 \q and no other crops to harvest. 
 \q
 \v 11 So tremble now, you women who are not worried about anything!
 \q2 Take off your \add fancy\add* clothes and put rough sackcloth around your waists.
 \q
-\v 12 Beat/Hit your breasts to show that you are grieving about \add what will happen
+\v 12 Beat\f + \ft Or: Hit \f* your breasts to show that you are grieving about \add what will happen
 in\add* your fertile fields and to your fruitful grapevines, 
 \q
 \v 13 because \add only\add* thorns and thistles will grow in your soil.
@@ -61,11 +61,11 @@ in\add* your fertile fields and to your fruitful grapevines,
 \q2 When that happens, the deserts will become fertile fields, 
 \q2 and abundant crops will grow in those fertile fields. 
 \q
-\v 16 People \f + \fk personification \f* will act/rule justly/fairly in those desert areas,
-\q2 and people will act/rule righteously in those fertile fields.
+\v 16 People \\f + \\ft personification \\f* will act\f + \ft Or: rule \f* justly\f + \ft Or: fairly \f* in those desert areas,
+\q2 and people will act\f + \ft Or: rule \f* righteously in those fertile fields.
 \q
 \v 17 And the result of their acting righteously will be that there will be peace,
-\q2 the land will be tranquil/quiet, and people will be secure/safe forever.
+\q2 the land will be tranquil\f + \ft Or: quiet \f*, and people will be secure\f + \ft Or: safe \f* forever.
 \q
 \v 18 My people will live in their homes peacefully, and safely, and calmly,
 \q2 in places of rest. 

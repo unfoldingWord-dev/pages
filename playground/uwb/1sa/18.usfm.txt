@@ -2,7 +2,7 @@
 \s Saul became jealous of David 
 \p
 \v 1 After David finished talking with Saul, he \add met Saul's son\add*, Jonathan. Jonathan
-\add immediately\add* liked David; in fact, he began to love/like him as much as he loved/liked himself.
+\add immediately\add* liked David; in fact, he began to love\f + \ft Or: like \f* him as much as he loved\f + \ft Or: liked \f* himself.
 \v 2 From that day, Saul kept David with him, and did not let him return home.
 \v 3 Because he loved David so much, Jonathan made a solemn agreement with David.
 \add They promised each other that they would always be friends\add*.
@@ -10,18 +10,18 @@
 \add and arrows\add*, and his belt. 
 \p
 \v 5 David \add went wherever Saul sent him. And\add* whatever Saul told him to do, David did it very successfully. As a
-result, Saul appointed David to be a commander in the army. All the officers and other men in the army ◄approved of/were very
+result, Saul appointed David to be a commander in the army. All the officers and other men in the army ◄approved of\f + \ft Or: were \f* very
 pleased with► that. 
 \p
-\v 6 But, when the men in the army were returning home after David had killed Goliath, the women came out from many \f + \fk hyperbole \f* towns
-in Israel to meet/greet King Saul. They were singing and dancing very joyfully, playing tambourines and lyres.
+\v 6 But, when the men in the army were returning home after David had killed Goliath, the women came out from many \\f + \\ft hyperbole \\f* towns
+in Israel to meet\f + \ft Or: greet \f* King Saul. They were singing and dancing very joyfully, playing tambourines and lyres.
 \v 7 As they danced, they sang this song to each other: 
 \q “Saul has killed a thousand \add enemy soldiers\add*, 
 \q2 But David has killed ten thousand \add of them\add*.” 
 \p
 \v 8 When Saul \add heard them singing that\add*, he did not like it. He became very angry. He said
 \add to himself\add*, “They are saying that David \add killed\add* ten thousand men, but that I
-\add have killed\add* only one thousand. Soon they will want to make him their king!” \f + \fk rhetorical question \f*
+\add have killed\add* only one thousand. Soon they will want to make him their king!” \\f + \\ft rhetorical question \\f*
 \v 9 From that time, Saul watched David very closely because he was suspicious
 \add that David would try to become king\add*. 
 \p
@@ -46,8 +46,8 @@ serve me bravely by fighting battles for Yahweh \add against the
 Philistines\add*”. He said that because he thought, “I will not try to get rid of David by myself. I will allow the Philistines
 to do that.” 
 \p
-\v 18 But David said to Saul, “I am not \f + \fk rhetorical question \f* a very important person, and my family is not very important, and my clan is not
-a very important Israeli clan. So I do not deserve to become your son-in-law.” \f + \fk rhetorical question \f*
+\v 18 But David said to Saul, “I am not \\f + \\ft rhetorical question \\f* a very important person, and my family is not very important, and my clan is not
+a very important Israeli clan. So I do not deserve to become your son-in-law.” \\f + \\ft rhetorical question \\f*
 \v 19 So, when it was time for Merab to be given to David to become his wife, instead, Saul gave her to a man named Adriel,
 from Meholah \add town\add*. 
 \p
@@ -60,7 +60,7 @@ become his son-in-law.
 his servants love you. So now \add we think that\add* you should
 \add marry Michal and\add* become the king's son-in-law.’ ” 
 \p
-\v 23 So they told that to David. But David said, “It would be a great honor \f + \fk rhetorical question \f* to become the king's son-in-law. But
+\v 23 So they told that to David. But David said, “It would be a great honor \\f + \\ft rhetorical question \\f* to become the king's son-in-law. But
 \add I do not think that I should do that, because\add* I am only a poor and insignificant man.”
 \p
 \v 24 When the servants told Saul what David had said, 

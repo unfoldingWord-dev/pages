@@ -2,7 +2,7 @@
 \s The widow from Shunem recovered her land 
 \p
 \v 1 After Elisha had caused the son of the woman from Shunem \add town\add* to become alive again, he had told her that she
-should leave with her family and live somewhere else for a while, because Yahweh was going to ◄send a famine/cause food to
+should leave with her family and live somewhere else for a while, because Yahweh was going to ◄send a famine\f + \ft Or: cause \f* food to
 become very scarce► in the land. He said that the famine would last for seven years.
 \v 2 So the woman had done what Elisha told her to do. She and her family had gone to live in the Philistia
 \add region\add* for seven years. 
@@ -24,7 +24,7 @@ harvested during these last seven years while she was away from her land, to be 
 \p
 \v 7 Elisha went to Damascus, \add the capital of Syria\add*, at the time when Ben-Hadad, the king of Syria, was
 \add very\add* sick. When someone told the king that Elisha was in Damascus,
-\v 8 the king told \add one of his officials named\add* Hazael, “Go and talk to that prophet and take a present/gift with you
+\v 8 the king told \add one of his officials named\add* Hazael, “Go and talk to that prophet and take a present\f + \ft Or: gift \f* with you
 to give to him. Request him to ask Yahweh if I will recover from my illness.”
 \p
 \v 9 So Hazael went to talk with Elisha. He took with him forty camels that were carrying many kinds of goods that were
@@ -33,7 +33,7 @@ whether \add you think\add* he will recover from his illness.”
 \p
 \v 10 Elisha said to Hazael, “Go and say to him, ‘Yes, you will certainly not die from this illness,’ but Yahweh has shown me
 that he will certainly die \add before he recovers\add*.” 
-\v 11 Then Elisha stared at him and had a terrified look on his face. That caused Hazael to feel uneasy/embarrassed. Then
+\v 11 Then Elisha stared at him and had a terrified look on his face. That caused Hazael to feel uneasy\f + \ft Or: embarrassed \f*. Then
 \add suddenly\add* Elisha started to cry. 
 \p
 \v 12 Hazael said, “Sir, why are you crying?” 
@@ -42,11 +42,11 @@ Israel: you will burn their cities with walls around them, you will kill their f
 the heads of their children, and you will rip open the bellies of their pregnant women
 \add with a sword\add*.” 
 \p
-\v 13 Hazael replied, “I am \add as insignificant as\add* \f + \fk metaphor \f* a dog; ◄how could I do such things?/I would never do such
-terrible things!►” \f + \fk rhetorical question \f* 
+\v 13 Hazael replied, “I am \add as insignificant as\add* \\f + \\ft metaphor \\f* a dog; ◄how could I do such things?\f + \ft Or: I \f* would never do such
+terrible things!►” \\f + \\ft rhetorical question \\f* 
 \p Elisha replied, “Yahweh has also revealed to me that you will become the king of Syria.”
 \p
-\v 14 Then Hazael left and returned to his master/boss \add the king\add*, who asked him, “What did Elisha say?”
+\v 14 Then Hazael left and returned to his master\f + \ft Or: boss \f* \add the king\add*, who asked him, “What did Elisha say?”
 \p He replied, “He told me that you would certainly recover.” 
 \v 15 But the next day, \add while the king was sleeping\add*, Hazael took a blanket and soaked it in water. Then he spread it
 on the king's face \add in order that he could not breathe\add*, and he died. Then Hazael became the king of Syria instead of
@@ -59,7 +59,7 @@ king of Judah.
 \v 18 His wife was the daughter of King Ahab. And like everyone in Ahab's family, he continually did the evil things that the
 previous kings of Israel had done. He did things that Yahweh said are wrong.
 \v 19 But Yahweh did not want to get rid of the people of Judah, because of what he had promised David, who served him
-\add very well\add*. He had promised David that his descendants \f + \fk metaphor \f* would always rule Judah.
+\add very well\add*. He had promised David that his descendants \\f + \\ft metaphor \\f* would always rule Judah.
 \p
 \v 20 During the time that Jehoram ruled, \add the king of\add* Edom rebelled against Judah, and they appointed their own king.
 \v 21 So Jehoram went with his army and all their chariots to Zair
@@ -71,7 +71,7 @@ Libnah \add city\add* also freed themselves from being controlled by Judah.
 \p
 \v 23  \add If you want to read about\add* the other things that Jehoram did, they are written in the book named 'The History
 of the Kings of Judah.' 
-\v 24 Jehoram died \f + \fk euphemism \f* and was buried where the other kings of Judah had been buried in
+\v 24 Jehoram died \\f + \\ft euphemism \\f* and was buried where the other kings of Judah had been buried in
 \add the part of Jerusalem called\add* 'the City of David.' Then Jehoram's son Ahaziah became the king.
 \s King Ahaziah of Judah 
 \p

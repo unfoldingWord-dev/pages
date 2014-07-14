@@ -17,7 +17,7 @@ help\add* bring the Sacred Chest of God \add back to Jerusalem\add* from Kiriath
 \v 6 David went with all the Israeli people to Baalah \add town\add*, which is
 \add another name for\add* Kiriath-Jearim, to get the Sacred Chest.
 \add The people believed that\add* God ruled from between the statues of winged creatures that was above the lid of the Sacred
-Chest, and the Sacred Chest belongs to Yahweh \f + \fk metonymy \f*. 
+Chest, and the Sacred Chest belongs to Yahweh \\f + \\ft metonymy \\f*. 
 \p
 \v 7 The people put the Sacred Chest on a new cart and carried it from Abinadab's house. Uzzah and Ahio were guiding
 \add the oxen that were pulling the cart\add*. 
@@ -30,10 +30,10 @@ to prevent the Sacred Chest from falling off the cart.
 had put his hand on the Sacred Chest, \add and Yahweh had commanded that only the descendants of Levi who help the priests
 should touch the Sacred Chest\add*. 
 \p
-\v 11 David was angry because Yahweh had punished \f + \fk metonymy \f* Uzzah. And now that place
+\v 11 David was angry because Yahweh had punished \\f + \\ft metonymy \\f* Uzzah. And now that place
 \add where Uzzah died\add* is called 'The Punishment of Uzzah.' 
 \p
-\v 12 That day, David was afraid of God. He asked \add himself\add*, “◄How can I/I am afraid to► \f + \fk rhetorical question \f* bring God's Sacred Chest
+\v 12 That day, David was afraid of God. He asked \add himself\add*, “◄How can I\f + \ft Or: I \f* am afraid to► \\f + \\ft rhetorical question \\f* bring God's Sacred Chest
 to my \add city\add*.” 
 \v 13 So the men with David did not take the Sacred chest to Jerusalem. Instead, they took it to the house of Obed-Edom, who
 was from Gath \add city\add*. 

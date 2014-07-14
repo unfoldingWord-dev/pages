@@ -4,7 +4,7 @@
 \v 1 Then \add the leaders of\add* all the tribes of Israel came to David at Hebron, and said to him, “Listen, we have the same
 ancestors [IDI] that you do. 
 \v 2 In the past, when Saul was our king, it was you who led our Israeli soldiers
-\add in our battles\add*. You are the one to whom Yahweh promised, ‘You will be the leader \f + \fk metaphor \f* of my people; you will be
+\add in our battles\add*. You are the one to whom Yahweh promised, ‘You will be the leader \\f + \\ft metaphor \\f* of my people; you will be
 their king.’ ” 
 \p
 \v 3 So while Yahweh was listening, all those leaders of the people of Israel declared there at Hebron
@@ -21,18 +21,18 @@ be able to get inside our city! Even the blind and crippled people will be able 
 \v 7 But David's army captured the fortress on Zion \add Hill\add*,
 \add and later it was known as\add* David's City. 
 \v 8 On that day, David said \add to his soldiers\add*, “Those who want to get rid of the Jebus people-group should go through
-the water tunnel \add to enter the city\add*. Then they can attack those people whom I \f + \fk synecdoche \f* detest—and
+the water tunnel \add to enter the city\add*. Then they can attack those people whom I \\f + \\ft synecdoche \\f* detest—and
 \add we will find out if any\add* blind and crippled people \add will be able to stop
 them\add*!” That is why people say, “Blind and crippled people cannot enter Yahweh's temple.”
 \p
 \v 9 After \add David and his soldiers captured\add* the city with its strong walls around it, he lived there, and they named
 it ‘David's City.’ David \add and his soldiers\add* built the city around the fortress, starting where the
-\add land was ◄filled in/terraces► on the east side of the hill\add*.
-\v 10 David continued to become more and more powerful/influential, because the Almighty Commander of the armies of angels was
-with/helping him. 
+\add land was ◄filled in\f + \ft Or: terraces \f*► on the east side of the hill\add*.
+\v 10 David continued to become more and more powerful\f + \ft Or: influential \f*, because the Almighty Commander of the armies of angels was
+with\f + \ft Or: helping \f* him. 
 \b
 \p
-\v 11  \add One day\add* Hiram, the king of Tyre \add city\add*, sent ambassadors/messengers to David
+\v 11  \add One day\add* Hiram, the king of Tyre \add city\add*, sent ambassadors\f + \ft Or: messengers \f* to David
 \add to talk about making agreements between their countries\add*. Hiram agreed to provide cedar trees
 \add to make lumber\add*, and also that he would send carpenters and masons, to build a palace for David.
 \v 12 His doing that caused David to realize that Yahweh truly had appointed him to be the king of Israel, and that Yahweh was
@@ -55,7 +55,7 @@ Jerusalem\add* and spread all over the valley.
 Yahweh replied, “Yes, attack them, because I will certainly enable your army to defeat them. [IDI]”
 \p
 \v 20 So David \add and his army\add* went to \add where the Philistia army
-was\add*, and there they defeated them. Then David said, “Yahweh has burst through my enemies like a flood. \f + \fk simile \f*” So that
+was\add*, and there they defeated them. Then David said, “Yahweh has burst through my enemies like a flood. \\f + \\ft simile \\f*” So that
 place is called ‘Lord of bursting-through.’ 
 \v 21 The Philistia men left their idols there; so David and his soldiers took them away.
 \p

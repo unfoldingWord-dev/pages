@@ -1,7 +1,7 @@
 \c 5  
 \s2 The descendants of Reuben 
 \p
-\v 1 Reuben was the oldest son of Jacob. Therefore, he should have received the special rights/privileges that belonged to
+\v 1 Reuben was the oldest son of Jacob. Therefore, he should have received the special rights\f + \ft Or: privileges \f* that belonged to
 firstborn sons. But he had sex with his father's slave wife. So \add his
 father\add* gave those rights to the sons of his son Joseph. And in the family records, Reuben is not mentioned first, like the
 firstborn sons always are. 
@@ -14,7 +14,7 @@ rights that belonged to firstborn sons.
 \li2
 \v 5 Shimei's son was Micah. Micah's son was Reaiah. Reaiah's son was Baal.
 \li2
-\v 6 Baal's son was Beerah. Beerah was a leader of the tribe/descendants of Reuben. But Tiglath-Pileser the king of Assyria
+\v 6 Baal's son was Beerah. Beerah was a leader of the tribe\f + \ft Or: descendants \f* of Reuben. But Tiglath-Pileser the king of Assyria
 captured him and took him to Assyria. 
 \li
 \v 7 The names of these clans are listed here according to what is written in their family records.
@@ -68,7 +68,7 @@ that, those three tribes lived in that area until \add the army of\add* Babyloni
 \p
 \v 24 Their clan leaders were Epher, Ishi, Eliel, Azriel, Jeremiah, Hodaviah, and Jahdiel. They were all strong, brave, and
 famous soldiers, and leaders of their clans. 
-\v 25 But they sinned against God, the one whom their ancestors had worshiped. They began to worship the gods/idols that the
+\v 25 But they sinned against God, the one whom their ancestors had worshiped. They began to worship the gods\f + \ft Or: idols \f* that the
 people of that region had worshiped, the people whom God had enabled them to destroy!
 \v 26 So the God whom the Israelis \add worshiped\add* incited Pul, the king of Assyria, to want to conquer those tribes. Pul's
 other name was Tiglath-Pileser. His \add army\add* captured the people of the tribes of Reuben, Gad, and the eastern half of

@@ -4,7 +4,7 @@
 \v 1 They also built a palace for Solomon, but it required thirteen years to build it.
 \v 2 One of the buildings they built was a large \add ceremonial
 hall\add*. It was called the Hall of the Forest of Lebanon. It was 150 feet long, 75 feet wide, and 45 feet high. It
-\add was supported/held up by\add* four rows of cedar pillars. There were 15 pillars in each row. There were cedar beams across
+\add was supported\f + \ft Or: held \f* up by\add* four rows of cedar pillars. There were 15 pillars in each row. There were cedar beams across
 each row. 
 \v 3  \add To support the roof\add* there were cedar beams that connected the rows of pillars.
 \v 4 On each of the two side walls there were three rows of windows.
@@ -15,14 +15,14 @@ other side.
 \add whose roof\add* was supported by pillars. 
 \p
 \v 7 Then they made a building called the Hall of the Throne. It was also called the Hall of Judgment. That was where Solomon
-decided/judged concerning people's disputes. The walls were covered with cedar boards, from the floor to the rafters.
+decided\f + \ft Or: judged \f* concerning people's disputes. The walls were covered with cedar boards, from the floor to the rafters.
 \p
 \v 8 In the courtyard behind the Hall of Judgment they built a house for Solomon to live in that was made like the other
 buildings. They also built the same kind of house for his wife, who was the daughter of the king of Egypt.
 \p
 \v 9 All of these buildings and the walls around the palace courtyard were made from nice stones, from the foundations up to
 the eaves. The stones were cut \add at the quarry\add*, according to the sizes that were needed, and the sides of the stones
-were shaped by cutting/smoothing them with saws. 
+were shaped by cutting\f + \ft Or: smoothing \f* them with saws. 
 \v 10 The foundations were also made from huge blocks of nice stones
 \add that were prepared at the quarry\add*. Some of them were twelve feet long and some were fifteen feet long.
 \v 11 On top of the foundation stones were other nice stones that were cut according to the sizes they needed, and cedar beams.
@@ -30,29 +30,29 @@ were shaped by cutting/smoothing them with saws.
 putting down three layers of cut stones between each layer of cedar beams.
 \s Other things for the temple area 
 \p
-\v 13-14 There was a man who lived in Tyre \add city\add* whose name was Huram. He ◄was a craftsman/knew how to make very nice
+\v 13-14 There was a man who lived in Tyre \add city\add* whose name was Huram. He ◄was a craftsman\f + \ft Or: knew \f* how to make very nice
 things from bronze►. His father had also lived in Tyre and had also been very skilled at making things from bronze, but Huram's
 father was no longer living. His mother was from the tribe of Naphtali. Huram was very wise and intelligent and was very
 skilled at making things from bronze. Solomon invited him to come
 \add to Jerusalem and supervise\add* all the work of making things from bronze, and Huram agreed.
 \p
 \v 15 He made two bronze pillars. Each one was 27 feet tall and 18 feet around it. Each was hollow, and the walls of the
-pillars were ◄3 in./7.4 cm.► thick. 
-\v 16 He also made two bronze heads/tops to be put on top of the pillars. Each head/top was 7-1/2 feet tall.
-\v 17 Then he made bronze wreaths of chains to decorate the head/top of each pillar.
-\v 18 He also made bronze \add figures that resembled\add* pomegranates. He put two rows of pomegranates over the head/top of
+pillars were ◄3 in.\f + \ft Or: 7 \f*.4 cm.► thick. 
+\v 16 He also made two bronze heads\f + \ft Or: tops \f* to be put on top of the pillars. Each head\f + \ft Or: top \f* was 7-1\f + \ft Or: 2 \f* feet tall.
+\v 17 Then he made bronze wreaths of chains to decorate the head\f + \ft Or: top \f* of each pillar.
+\v 18 He also made bronze \add figures that resembled\add* pomegranates. He put two rows of pomegranates over the head\f + \ft Or: top \f* of
 each pillar. 
-\v 19 The head/top over each pillar was shaped like a lily. Each
+\v 19 The head\f + \ft Or: top \f* over each pillar was shaped like a lily. Each
 \add lily leaf\add* was six feet tall. 
-\v 20 These heads/tops were placed on a bowl-shaped section around which was draped the wreaths of chains. He made 200
-\add figures that represented\add* pomegranates and put them in two rows around the head/top of each pillar.
+\v 20 These heads\f + \ft Or: tops \f* were placed on a bowl-shaped section around which was draped the wreaths of chains. He made 200
+\add figures that represented\add* pomegranates and put them in two rows around the head\f + \ft Or: top \f* of each pillar.
 \v 21 His \add helpers\add* set up the pillars in front of the entrance of the temple. The pillar on the south side was named
 Jakin, and the pillar on the north side was named Boaz. 
-\v 22 The bronze heads/tops that were shaped like lilies were placed on top of the pillars.
+\v 22 The bronze heads\f + \ft Or: tops \f* that were shaped like lilies were placed on top of the pillars.
 \p So Huram and his helpers completed the work of making the bronze pillars.
 \p
 \v 23 Huram also made a very large round bronze tank that was made of metal and cast
-\add in a clay mold\add*. It was ◄7-1/2 ft./2.3 meters► high, ◄30 ft./9 meters► wide/across, and ◄45 ft./13.5 meters►around it.
+\add in a clay mold\add*. It was ◄7-1\f + \ft Or: 2 \f* ft.\f + \ft Or: 2 \f*.3 meters► high, ◄30 ft.\f + \ft Or: 9 \f* meters► wide\f + \ft Or: across \f*, and ◄45 ft.\f + \ft Or: 13 \f*.5 meters►around it.
 \v 24 Around the outer edge of the rim of the tank were two rows of
 \add figures that resembled\add* gourds that were made of bronze. But the gourds
 \add were not cast separately; they\add* were cast in the same mold as the rest of the tank. For each foot of length around the
@@ -61,12 +61,12 @@ rim of the tank there were six gourds.
 \v 25 Huram \add also cast\add* twelve \add bronze statues of\add* oxen. He placed them to face outward. He placed three of
 them to face north, three to face west, three to face south, and three to face east. His helpers put the bronze tank on the
 backs of \add the statues of\add* the oxen. 
-\v 26 The sides \add of the tank\add* were ◄3 in./8 cm.►thick. The rim was like the rim of a cup. It
+\v 26 The sides \add of the tank\add* were ◄3 in.\f + \ft Or: 8 \f* cm.►thick. The rim was like the rim of a cup. It
 \add curved outward\add*, like the petals of a lily. \add When the tank was
 full\add*, it held about 10,000 gallons \add of water\add*. 
 \p
-\v 27 Huram also made ten bronze carts. Each was six feet long and six feet wide and 4-1/2 feet tall.
-\v 28  \add On the sides of the carts\add* there were panels/boards which were set in frames.
+\v 27 Huram also made ten bronze carts. Each was six feet long and six feet wide and 4-1\f + \ft Or: 2 \f* feet tall.
+\v 28  \add On the sides of the carts\add* there were panels\f + \ft Or: boards \f* which were set in frames.
 \v 29 On those panels were \add bronze figures of\add* lions, bulls, and winged creatures. Below and above the lions and bulls
 there were decorations of bronze wreaths. 
 \v 30 Each cart had four bronze wheels and two axles made of bronze. At the top corners of each cart were bronze supports to
@@ -99,10 +99,10 @@ him to do for the temple. \add This is a list of the bronze things he
 made:\add* 
 \li
 \v 41 the two pillars; 
-\li the two heads/tops to be put on top of the pillars; 
-\li the two wreaths of chains to decorate the heads/tops of the pillars;
+\li the two heads\f + \ft Or: tops \f* to be put on top of the pillars; 
+\li the two wreaths of chains to decorate the heads\f + \ft Or: tops \f* of the pillars;
 \li
-\v 42 the 400 \add figures of\add* pomegranates, in two rows, with 100 in each row, that were placed over the heads/tops of the
+\v 42 the 400 \add figures of\add* pomegranates, in two rows, with 100 in each row, that were placed over the heads\f + \ft Or: tops \f* of the
 pillars; 
 \li
 \v 43 the ten carts; 

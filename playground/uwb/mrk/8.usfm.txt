@@ -11,7 +11,7 @@ days\add*, they had no food to eat. So Jesus summoned the disciples
 \add some of\add* them will faint on the way home, because some of them have come from far away.”
 \v 4  \add Knowing that he was suggesting that they give the people something to eat, one
 of\add* his disciples replied, “◄We cannot possibly find food to satisfy this crowd, here in this place where no people
-live!/How can we find food to satisfy this crowd, here in this place where no people live?►” \f + \fk rhetorical question \f*
+live!\f + \ft Or: How \f* can we find food to satisfy this crowd, here in this place where no people live?►” \\f + \\ft rhetorical question \\f*
 \v 5 Jesus asked them, “How many loaves of bread do you have?” They replied,
 “\add We have\add* seven \add flat loaves\add*.” 
 \v 6 Jesus commanded the crowd, “Sit down on the ground!” \add After they sat
@@ -36,7 +36,7 @@ having enough food with them.
 \add to perform\add* a miracle \add that would show that\add* God
 \add had sent him\add*. They wanted to \add find a way by which they
 could\add* convince the people to reject him. \add So\add* they started to argue with him.
-\v 12 Jesus sighed deeply within himself, and then he said, “I am disgusted that \f + \fk rhetorical question \f*,
+\v 12 Jesus sighed deeply within himself, and then he said, “I am disgusted that \\f + \\ft rhetorical question \\f*,
 \add even though\add* you people have seen how I \add have healed
 people\add*, you keep asking me to perform miracles! Note this: Such a miracle will certainly not be shown {I will certainly
 not show such a miracle} \add just\add* for you people!” 
@@ -51,16 +51,16 @@ parable\add*. He said, “Be careful! Beware of the yeast of the Pharisees and t
 \v 16  \add The disciples misunderstood him\add*. So they said to one another,
 “\add He must have said that\add* because we have no bread.” 
 \v 17 Jesus knew \add what they were discussing among themselves\add*. So he said to them,
-“◄\add I am disappointed that you are\add* discussing about your not having enough bread!/Why are you discussing about your not
-having enough bread?► \f + \fk rhetorical question \f* ◄You should understand by now \add that I can provide miraculously for you if you need
-food!\add*/Why do you not yet perceive or understand \add that I can provide miraculously for you if you need
-food\add*?► \f + \fk rhetorical question \f* ◄You are not thinking!/Why are you not thinking?► \f + \fk rhetorical question \f*
+“◄\add I am disappointed that you are\add* discussing about your not having enough bread!\f + \ft Or: Why \f* are you discussing about your not
+having enough bread?► \\f + \\ft rhetorical question \\f* ◄You should understand by now \add that I can provide miraculously for you if you need
+food!\add*\f + \ft Or: Why \f* do you not yet perceive or understand \add that I can provide miraculously for you if you need
+food\add*?► \\f + \\ft rhetorical question \\f* ◄You are not thinking!\f + \ft Or: Why \f* are you not thinking?► \\f + \\ft rhetorical question \\f*
 \v 18 ◄I am also disappointed that, although you have eyes, you do not
-\add understand what you\add* see!/Why is it that, although you have eyes, you do not
-\add understand what you\add* see?► \f + \fk rhetorical question \f* You have ears, but you do not understand
-\add what I say\add* \f + \fk rhetorical question \f*!” \add Then he asked\add*, “Do you not remember
+\add understand what you\add* see!\f + \ft Or: Why \f* is it that, although you have eyes, you do not
+\add understand what you\add* see?► \\f + \\ft rhetorical question \\f* You have ears, but you do not understand
+\add what I say\add* \\f + \\ft rhetorical question \\f*!” \add Then he asked\add*, “Do you not remember
 \add what happened\add* 
-\v 19 when I broke \add only\add* five loaves \add and fed\add* the five thousand people \f + \fk rhetorical question \f*?
+\v 19 when I broke \add only\add* five loaves \add and fed\add* the five thousand people \\f + \\ft rhetorical question \\f*?
 \add Not only was everyone satisfied, but there was food left over\add*! How many baskets full of pieces of bread
 \add that were left over\add* did you collect?” They replied, “We collected twelve baskets full.”
 \v 20 Then he asked, “When I broke the seven loaves in order to \add feed\add* the four thousand people,
@@ -68,8 +68,8 @@ food\add*?► \f + \fk rhetorical question \f* ◄You are not thinking!/Why are 
 \add of pieces of bread that were left over\add* did you collect?” They replied,
 “\add We collected\add* seven \add large baskets full\add*.” 
 \v 21 Then he kept saying to them, “◄\add I am disappointed that\add* you do not understand yet
-\add that you should never worry that you do not have enough food\add*!/Why do you not understand yet
-\add that you should never worry that you do not have enough food\add*?►” \f + \fk rhetorical question \f*
+\add that you should never worry that you do not have enough food\add*!\f + \ft Or: Why \f* do you not understand yet
+\add that you should never worry that you do not have enough food\add*?►” \\f + \\ft rhetorical question \\f*
 \s MARK 8:22-26 
 \s Jesus healed a blind man. 
 \p
@@ -120,7 +120,7 @@ very much. It is also necessary that I be rejected by the elders, the chief prie
 him\add*. He told them, “If any one \add of you\add* wants to be my disciple, you must not do
 \add only\add* what you yourself want to do. Specifically, you must
 \add be willing to allow people to hurt you and to disgrace you. That is what they do to
-criminals\add* who are forced to carry crosses \f + \fk metaphor \f* \add to the places where they will be
+criminals\add* who are forced to carry crosses \\f + \\ft metaphor \\f* \add to the places where they will be
 crucified\add*. That is what anyone who wants to be my disciple must do.
 \v 35  \add You must do that\add*, because those who try to save their lives
 \add by denying that they belong to me when people want to kill them for believing in
@@ -128,11 +128,11 @@ me\add* will not live \add eternally\add*, but those who are killed because of b
 \add disciples\add* and \add because of telling others my\add* good message will live
 \add forever with me\add*. 
 \v 36 People might get everything \add they want\add* in this world, but ◄they are really gaining nothing if they do not get
-eternal life \add because they do not become my disciples!\add*/what will they gain if they do not get eternal life
-\add because they do not become my disciples\add*?► \f + \fk rhetorical question \f* 
+eternal life \add because they do not become my disciples!\add*\f + \ft Or: what \f* will they gain if they do not get eternal life
+\add because they do not become my disciples\add*?► \\f + \\ft rhetorical question \\f* 
 \v 37 ◄\add Think carefully about the fact that\add* there is absolutely nothing that people can give
-\add to God\add* that would enable them to gain eternal life!/Is there anything that a person can give
-\add to God\add* in order to gain eternal life?► \f + \fk rhetorical question \f* 
+\add to God\add* that would enable them to gain eternal life!\f + \ft Or: Is \f* there anything that a person can give
+\add to God\add* in order to gain eternal life?► \\f + \\ft rhetorical question \\f* 
 \v 38 And think about this: Those who refuse \add to say that they belong
 to\add* me and who reject what I say in these days when many people have turned away
 \add from God\add* and are very sinful, I, the one who came from heaven, will also refuse

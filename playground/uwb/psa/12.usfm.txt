@@ -5,14 +5,14 @@
 \q2 \add It seems that\add* people who are loyal to you have all vanished.
 \q
 \v 2 Everyone tells lies to other people; 
-\q2 they deceive others by ◄flattering them/saying good things about them that they know are not true►.
+\q2 they deceive others by ◄flattering them\f + \ft Or: saying \f* good things about them that they know are not true►.
 \b
 \q
 \v 3 Yahweh, we wish that you would cut off their tongues 
 \q2 so that they cannot continue to boast. 
 \q
 \v 4 They say, “By telling lies we will get what we want; 
-\q2 we control what we say \f + \fk metonymy \f*, so no one can tell us what we should not do!”
+\q2 we control what we say \\f + \\ft metonymy \\f*, so no one can tell us what we should not do!”
 \b
 \q
 \v 5 But Yahweh replies, “I have seen the violent things that they have done to helpless people;
@@ -27,6 +27,6 @@ the\add* impure material.
 \b
 \q
 \v 7-8 Wicked people strut around \add proudly\add*, 
-\q2 and people praise them for doing vile/wicked deeds, 
-\q but Yahweh, \add we know that\add* you will protect/rescue us
+\q2 and people praise them for doing vile\f + \ft Or: wicked \f* deeds, 
+\q but Yahweh, \add we know that\add* you will protect\f + \ft Or: rescue \f* us
 \q2 from those wicked people. 

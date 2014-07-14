@@ -1,30 +1,30 @@
 \c 1  
 \s The purpose of Proverbs 
 \p
-\v 1 These are the ◄proverbs/wise sayings► that come from Solomon, the King of Israel, who was the son of
+\v 1 These are the ◄proverbs\f + \ft Or: wise \f* sayings► that come from Solomon, the King of Israel, who was the son of
 \add King\add* David. 
 \q
-\v 2 ◄These proverbs \f + \fk personification \f* can teach people/By studying these proverbs, people can learn► how to be wise
+\v 2 ◄These proverbs \\f + \\ft personification \\f* can teach people\f + \ft Or: By \f* studying these proverbs, people can learn► how to be wise
 \q2 and how to obey what these proverbs teach them. 
 \q They will also help people to understand which teachings are wise.
 \q
-\v 3 These proverbs \f + \fk personification \f* will teach you how to discipline/control yourselves,
+\v 3 These proverbs \\f + \\ft personification \\f* will teach you how to discipline\f + \ft Or: control \f* yourselves,
 \q2 how to conduct your lives, 
-\q2 and how to do what is right and just \f + \fk doublet \f*. 
+\q2 and how to do what is right and just \\f + \\ft doublet \\f*. 
 \q
 \v 4 They will show people who do not yet know much how to do things that are smart.
-\q2 They will show young people how to become wise and how to make good plans/decisions.
+\q2 They will show young people how to become wise and how to make good plans\f + \ft Or: decisions \f*.
 \q
 \v 5 Those who are wise should also pay attention \add to these proverbs\add*,
 \q2 in order to become more wise, 
-\q and those who understand \add these teachings\add* will receive good advice/guidance.
+\q and those who understand \add these teachings\add* will receive good advice\f + \ft Or: guidance \f*.
 \q
-\v 6 Then they will be able to understand the meaning of proverbs and parables/metaphors,
-\q2 these wise sayings and ◄riddles/sayings that are difficult to understand►.
+\v 6 Then they will be able to understand the meaning of proverbs and parables\f + \ft Or: metaphors \f*,
+\q2 these wise sayings and ◄riddles\f + \ft Or: sayings \f* that are difficult to understand►.
 \b
 \q
 \v 7 If \add you want to be\add* wise, you must begin by revering Yahweh.
-\q2 \add Only\add* foolish people despise wisdom and good advice/discipline.
+\q2 \add Only\add* foolish people despise wisdom and good advice\f + \ft Or: discipline \f*.
 \b
 \s Warnings about sinful people 
 \q
@@ -35,14 +35,14 @@
 \q2 and like a \add beautiful\add* necklace to put around your neck.
 \b
 \q
-\v 10 My son, if sinners tempt/entice you \add to do what is wrong\add*,
+\v 10 My son, if sinners tempt\f + \ft Or: entice \f* you \add to do what is wrong\add*,
 \q say “No” to them. 
 \q
 \v 11 They may say, “Come with us! Join us! 
-\q2 We will hide and then kill \f + \fk metonymy \f* someone \add who passes by\add*.
-\q2 We will ambush some helpless/innocent people. 
+\q2 We will hide and then kill \\f + \\ft metonymy \\f* someone \add who passes by\add*.
+\q2 We will ambush some helpless\f + \ft Or: innocent \f* people. 
 \q
-\v 12 We will kill them \f + \fk hyperbole \f* and get rid of them completely, 
+\v 12 We will kill them \\f + \\ft hyperbole \\f* and get rid of them completely, 
 \q2 just like \add people who are buried in\add* graves are gone forever.
 \q While they are in good health, we will send them to the place where dead people are.
 \q
@@ -54,12 +54,12 @@
 \q2 We will share with you the things that we steal.” 
 \q
 \v 15 My son, do not go with them! 
-\q2 Do not ◄walk on the roads that they walk on/do what they do► \f + \fk metaphor \f*!
+\q2 Do not ◄walk on the roads that they walk on\f + \ft Or: do \f* what they do► \\f + \\ft metaphor \\f*!
 \q
 \v 16 They rush to do evil deeds! 
-\q2 They hurry to murder \f + \fk metonymy \f* people. 
+\q2 They hurry to murder \\f + \\ft metonymy \\f* people. 
 \q
-\v 17 It is useless to put out a ◄trap/net to catch a bird► because when a bird sees it,
+\v 17 It is useless to put out a ◄trap\f + \ft Or: net \f* to catch a bird► because when a bird sees it,
 \q2 \add it stays away from it\add*. 
 \q
 \v 18 But these wicked people are not like the birds 
@@ -72,17 +72,17 @@
 \q2 They will only destroy themselves! 
 \s Wisdom shouts in the streets 
 \q
-\v 20 Wisdom is \f + \fk personification \f* like a woman who shouts to people in the streets.
-\q2 It is as if wisdom calls out to people in the ◄plazas/town squares►.
+\v 20 Wisdom is \\f + \\ft personification \\f* like a woman who shouts to people in the streets.
+\q2 It is as if wisdom calls out to people in the ◄plazas\f + \ft Or: town \f* squares►.
 \q
 \v 21 It is as if wisdom calls out in noisy places, 
 \q2 and at the entrances to the cities. 
 \b
 \q
-\v 22 It is as if wisdom says, “How long will you stupid people continue to enjoy doing foolish things \f + \fk rhetorical question \f*?
-\q2 How long will you people who ridicule God enjoy doing that \f + \fk rhetorical question \f*?
+\v 22 It is as if wisdom says, “How long will you stupid people continue to enjoy doing foolish things \\f + \\ft rhetorical question \\f*?
+\q2 How long will you people who ridicule God enjoy doing that \\f + \\ft rhetorical question \\f*?
 \q2 How long will you foolish people refuse to know \add what things are
-right\add* \f + \fk rhetorical question \f*? 
+right\add* \\f + \\ft rhetorical question \\f*? 
 \q
 \v 23 If you pay attention to me when I rebuke you, 
 \q2 I will pour out to you what I am thinking in my inner being;
@@ -97,7 +97,7 @@ right\add* \f + \fk rhetorical question \f*?
 \q I tried to correct you, 
 \q2 but you rejected what I told you. 
 \q
-\v 26 So now, when you are experiencing troubles/disasters, 
+\v 26 So now, when you are experiencing troubles\f + \ft Or: disasters \f*, 
 \q2 I will laugh at you. 
 \q When things happen that cause you to be afraid, 
 \q2 I will make fun of you. 
@@ -110,7 +110,7 @@ right\add* \f + \fk rhetorical question \f*?
 \q
 \v 28 When foolish people call to me \add to help them\add*, 
 \q2 I will not answer them. 
-\q They will search for me diligently/everywhere, 
+\q They will search for me diligently\f + \ft Or: everywhere \f*, 
 \q2 but they will not find me. 
 \q
 \v 29 They refused to know \add what things are right\add*, 
@@ -119,10 +119,10 @@ right\add* \f + \fk rhetorical question \f*?
 \v 30 They would not accept my advice, 
 \q2 and they did not pay attention when I tried to correct them.
 \q
-\v 31 So they will endure what will result [MET, DOU] from the evil way they have lived/behaved
+\v 31 So they will endure what will result [MET, DOU] from the evil way they have lived\f + \ft Or: behaved \f*
 \q2 and the evil things they have planned to do. 
 \q
-\v 32 Those who turn away from me are stupid/foolish; 
+\v 32 Those who turn away from me are stupid\f + \ft Or: foolish \f*; 
 \q2 they will die because of doing that. 
 \q
 \v 33 But those who pay attention to me will live peacefully and safely,

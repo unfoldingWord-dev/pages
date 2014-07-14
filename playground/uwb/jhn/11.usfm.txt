@@ -18,11 +18,11 @@ son}, because of \add what I will do\add*.”
 was\add* for two more days. 
 \p
 \v 7 Then he said to us disciples, “Let's go back to Judea.” 
-\v 8 We said, “Teacher, just a short while ago the Jewish \add leaders\add* \f + \fk synecdoche \f* wanted to
+\v 8 We said, “Teacher, just a short while ago the Jewish \add leaders\add* \\f + \\ft synecdoche \\f* wanted to
 \add kill you by\add* throwing stones at you. So ◄\add we think that you should
-not\add* go back there again!/\add are you sure that you want to\add* go back there again?► \f + \fk rhetorical question \f*”
+not\add* go back there again!\f + \ft Or:  \f*\add are you sure that you want to\add* go back there again?► \\f + \\ft rhetorical question \\f*”
 \v 9  \add To show us that nothing bad could happen to him until the time that God had
-chosen\add* \f + \fk metaphor \f*, Jesus replied, “There are \f + \fk rhetorical question \f* twelve hours in the daytime,
+chosen\add* \\f + \\ft metaphor \\f*, Jesus replied, “There are \\f + \\ft rhetorical question \\f* twelve hours in the daytime,
 \add which is enough time to do what God wants us to do\add*. People who walk in the daytime will not stumble
 \add over things they cannot see\add*, because they see things by the light from the sun.
 \v 10 It is when people walk in the nighttime that they stumble over things, because they have no light.”
@@ -35,7 +35,7 @@ asleep.
 \v 14 So then he told us plainly, “Lazarus is dead. 
 \v 15 But for your sake I am glad that I was not there \add when he
 died\add*, because I want you to believe \add more firmly that I\add*
-◄\add am the Messiah/came from God\add*►. So now, \add instead of staying
+◄\add am the Messiah\f + \ft Or: came \f* from God\add*►. So now, \add instead of staying
 here\add*, let's go to him.” 
 \v 16 Then Thomas, who was {whom they} called ‘The Twin’, said to the rest of us disciples, “Let's all go, so that we may die
 with him \add when his enemies kill him\add*.” 
@@ -44,7 +44,7 @@ with him \add when his enemies kill him\add*.”
 \p
 \v 17 When we arrived \add close to Bethany\add*, someone told Jesus that Lazarus
 \add had died and had been buried and his body had\add* been in the tomb for four days.
-\v 18 Bethany is less than ◄two miles/three kilometers► from Jerusalem.
+\v 18 Bethany is less than ◄two miles\f + \ft Or: three \f* kilometers► from Jerusalem.
 \v 19 Many Jews had come \add from Jerusalem\add* to console Martha and Mary concerning
 \add the death of\add* their \add younger\add* brother. 
 \v 20 When Martha heard \add someone say\add* that Jesus was coming, she went
@@ -61,7 +61,7 @@ died \add because you would have healed him\add*!
 \add again\add*. 
 \v 26 Furthermore, all those who believe in me while they are alive,
 \add their souls\add* will not die \add forever\add*. Do you believe that?”
-\v 27 She said to him, “Yes, Lord! I believe that you are the Messiah, ◄the Son of God/the man who is also God►. You are the
+\v 27 She said to him, “Yes, Lord! I believe that you are the Messiah, ◄the Son of God\f + \ft Or: the \f* man who is also God►. You are the
 one \add God promised to send\add* into the world!” 
 \p
 \v 28 After she said that, she returned \add to the house\add* and took her
@@ -77,20 +77,20 @@ Lazarus\add*, in order to cry there.
 my \add younger\add* brother would not have died!” 
 \v 33 When Jesus saw her crying, and saw that the Jews who had come with her were also crying, he was very angry
 \add that Satan had caused Lazarus to die\add* \f + \ft (OR, very troubled) and disturbed in his spirit.
-\v 34 He said, “Where have you buried ◄him/his body►?” They said to him, “Lord, come and see.”
+\v 34 He said, “Where have you buried ◄him\f + \ft Or: his \f* body►?” They said to him, “Lord, come and see.”
 \v 35 Jesus began to cry. 
 \v 36 Then \add some of\add* the Jews said, “Look how much he loved Lazarus!”
 \v 37 But some others said, “He enabled a blind man to see. So ◄he should have been able
-to\add heal this man so that\add* he did not die!/why did he not
-\add heal this man so that\add* he did not die?► \f + \fk rhetorical question \f*” 
+to\add heal this man so that\add* he did not die!\f + \ft Or: why \f* did he not
+\add heal this man so that\add* he did not die?► \\f + \\ft rhetorical question \\f*” 
 \p
 \v 38 Within himself Jesus was again very angry \add about Lazarus
 dying\add* (OR, very troubled) \f*. He came to the tomb. It was a cave. The entrance had been covered with a large stone.
 \v 39 Jesus said, “Take away the stone!” Martha, \add who, as I mentioned before, was an
 older\add* sister of the man who had died, said, “Lord, his \add body\add* has been
 \add in the tomb\add* for four days, so now there will be a bad smell!”
-\v 40 Jesus said to her, “I told \f + \fk rhetorical question \f* you that if you believed \add in\add*
-◄\add me/what I can do\add*►, you would see how great God is! Have
+\v 40 Jesus said to her, “I told \\f + \\ft rhetorical question \\f* you that if you believed \add in\add*
+◄\add me\f + \ft Or: what \f* I can do\add*►, you would see how great God is! Have
 \add you forgotten that\add*?” 
 \s John 11:41-48 
 \s Jesus caused Lazarus to be alive again. 
@@ -108,12 +108,12 @@ you sent me.”
 \add So they did that\add*. 
 \p
 \v 45 As a result, many of the Jews who had come to \add see\add* Mary and who had seen what Jesus did, believed that he
-◄\add was the Messiah/had come from God\add*►. 
+◄\add was the Messiah\f + \ft Or: had \f* come from God\add*►. 
 \v 46 But some of the \add others\add* went to the Pharisees and told them what Jesus had done.
 \v 47 So the chief priests and the Pharisees gathered all the members of the
 \add Jewish\add* Council together. They started saying \add to each
 other\add*, “What are we going to do \add about Jesus\add*? He is performing many miracles!
-\v 48 If we allow him to keep \add doing this\add*, everyone will believe ◄in him/that he
+\v 48 If we allow him to keep \add doing this\add*, everyone will believe ◄in him\f + \ft Or: that \f* he
 \add is the Messiah\add*►, \add and they will make him their king\add*. Then the Roman
 \add army\add* will come and destroy our Temple and our whole nation of Israel!”
 \s John 11:49-57 
@@ -121,7 +121,7 @@ other\add*, “What are we going to do \add about Jesus\add*? He is performing m
 \p
 \v 49 One of the \add Jewish Council\add* members was Caiaphas. He was the Jewish high priest that year.
 \add Hinting that they should get rid of Jesus\add*, he said to them, “You
-\add talk as though you\add* do not know anything \f + \fk hyperbole \f*! 
+\add talk as though you\add* do not know anything \\f + \\ft hyperbole \\f*! 
 \v 50 You do not realize that it would be much better for us if one man died for the sake of the people rather than that
 \add the Romans kill\add* all the \add people of our Jewish\add* nation.”
 \v 51 He said that, not because he thought of it himself. Instead, since he was the high priest that year, he was prophesying

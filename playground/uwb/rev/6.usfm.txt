@@ -5,7 +5,7 @@ horseman who brought judgment to people on the earth.
 \p
 \v 1 I saw that \add Jesus, the one who is like a\add* lamb, opened the first of the seven seals
 \add of the scroll\add*. Then I heard one of the four living \add creatures\add* say in a voice
-\add as loud\add* as \f + \fk simile \f* thunder, “Come!” 
+\add as loud\add* as \\f + \\ft simile \\f* thunder, “Come!” 
 \v 2 Then I saw a white horse \add come out\add*. The one who sat on it had a bow
 \add and arrows\add*. \add God\add* gave him a crown \add to show that he was the
 king\add*. Then the one who conquers \add people\add* went out to continue to conquer
@@ -21,16 +21,16 @@ king\add*. Then the one who conquers \add people\add* went out to continue to co
 out\add*. The one who sat on it had a pair of balance scales in his hand.
 \v 6 I heard a voice \add that sounded\add* like \add it was coming
 from\add* among the four living \add creatures\add*. It was saying
-◄\add to the horseman/to the man who was sitting on the horse\add*►, “A quart of wheat
+◄\add to the horseman\f + \ft Or: to \f* the man who was sitting on the horse\add*►, “A quart of wheat
 \add will cost so much that\add* a man must work a whole day to earn enough money to buy it, and three quarts of barley will
-sell for the same price. But do not cut off \add the supply of\add* olive oil or the wine \f + \fk metonymy \f*!”
+sell for the same price. But do not cut off \add the supply of\add* olive oil or the wine \\f + \\ft metonymy \\f*!”
 \v 7 When the \add one who is like a\add* lamb opened the fourth seal, I heard the fourth living
 \add creature\add* say, “Come!” 
 \v 8 This time I saw a pale horse \add come out\add*. The one who sat on it is named
-‘\add The one who causes\add* death \f + \fk personification \f*,’ and \add the one that is named ‘The place where dead people
+‘\add The one who causes\add* death \\f + \\ft personification \\f*,’ and \add the one that is named ‘The place where dead people
 go’\add* accompanied him. \add God\add* gave them authority over one quarter of the people on earth to incite them to kill each
-other with weapons \f + \fk synecdoche \f*, and also authority to kill them ◄by means of
-\add their causing them to\add* lack food/by famine►, by means of
+other with weapons \\f + \\ft synecdoche \\f*, and also authority to kill them ◄by means of
+\add their causing them to\add* lack food\f + \ft Or: by \f* famine►, by means of
 \add their causing them to become\add* sick from epidemics, and by means of
 \add their causing\add* wild animals \add to attack them\add*. 
 \s Revelation 6:9-11 
@@ -41,7 +41,7 @@ told them to rest a bit longer.
 \add in heaven\add* the souls of \add God's servants\add* who had been killed {whom
 \add people had\add* killed} because of \add their believing\add* God's message, and because they told others
 \add the message about Jesus\add*. 
-\v 10 They spoke loudly \add to God\add* saying, “Sovereign/Almighty Lord, you are holy and true. How long
+\v 10 They spoke loudly \add to God\add* saying, “Sovereign\f + \ft Or: Almighty \f* Lord, you are holy and true. How long
 \add will it be\add* before you judge \add and punish\add* the people on earth who
 murdered\add us(exc)\add*?” 
 \v 11  \add God\add* gave to each of them a long white robe, and
@@ -53,18 +53,18 @@ way\add* that these others had been killed.
 on earth to hide because they knew God's judgment time had come.
 \p
 \v 12 I saw that when \add the one who is like a\add* lamb opened the sixth seal, the earth shook violently. The sun became as
-black as cloth made ◄of \add black\add* wool/of pitch►. The whole moon became
-\add red\add* \f + \fk simile \f* like blood. 
-\v 13 The stars fell to the earth \add in great numbers\add*, just \f + \fk simile \f* like immature figs fall when a fig tree is shaken by a
+black as cloth made ◄of \add black\add* wool\f + \ft Or: of \f* pitch►. The whole moon became
+\add red\add* \\f + \\ft simile \\f* like blood. 
+\v 13 The stars fell to the earth \add in great numbers\add*, just \\f + \\ft simile \\f* like immature figs fall when a fig tree is shaken by a
 strong wind {when a strong wind shakes a fig tree}. 
-\v 14 The sky split open and \add rolled up on either side\add* just \f + \fk simile \f* like an
+\v 14 The sky split open and \add rolled up on either side\add* just \\f + \\ft simile \\f* like an
 \add old\add* scroll rolls up \add when it is split in two\add*. Every mountain and island moved out of its place.
 \v 15  \add As a result, all the rebellious people\add* of the earth,
 \add including\add* kings, high-ranking people, generals, the rich people, the powerful people, along with
 every\add body else\add*, both slave and free, hid themselves in caves and between the mountain rocks.
 \v 16 They shouted to the mountains and to the rocks, “Fall on us\add (exc)\add* and hide
 us\add (exc)\add* in order that the one who sits upon the throne will not be able to see
-us\add (exc)\add* \f + \fk metonymy \f*, and \add in order that\add* the \add one who is like
-a\add* lamb will not be able to punish \f + \fk metonymy \f* us\add (exc)\add*! 
-\v 17 This is the great/terrible day on which they will punish \f + \fk metonymy \f*
-us\add (exc) \f*\add*, and \add when that happens\add*, ◄no one will be able to survive!/who will be able to endure?► \f + \fk rhetorical question \f*”
+us\add (exc)\add* \\f + \\ft metonymy \\f*, and \add in order that\add* the \add one who is like
+a\add* lamb will not be able to punish \\f + \\ft metonymy \\f* us\add (exc)\add*! 
+\v 17 This is the great\f + \ft Or: terrible \f* day on which they will punish \\f + \\ft metonymy \\f*
+us\add (exc) \f*\add*, and \add when that happens\add*, ◄no one will be able to survive!\f + \ft Or: who \f* will be able to endure?► \\f + \\ft rhetorical question \\f*”

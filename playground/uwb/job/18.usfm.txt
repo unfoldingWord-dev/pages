@@ -3,7 +3,7 @@
 \p
 \v 1 Then Bildad replied again: 
 \q
-\v 2 “When are you going to stop talking \f + \fk rhetorical question \f*? 
+\v 2 “When are you going to stop talking \\f + \\ft rhetorical question \\f*? 
 \q2 If you would stop talking and listen, we could tell you something.
 \q
 \v 3 Why do you think that we are as stupid as cattle? [DOU, RHQ]
@@ -12,7 +12,7 @@
 \q2 Do you think that everyone on the earth must leave to prove that you
 \add are right\add*, 
 \q2 or do you think that God must move the rocks in the mountains
-\add to please you\add* \f + \fk rhetorical question \f*? 
+\add to please you\add* \\f + \\ft rhetorical question \\f*? 
 \b
 \q
 \v 5 What will happen is that the lives of wicked people \add like
@@ -30,7 +30,7 @@ others\add*.
 \v 8  \add It was as though\add* they walked into their own net 
 \q2 or fell into a pit that they themselves have dug. 
 \q
-\v 9  \add It was as though\add* a trap grabbed their heels and held them fast \f + \fk doublet \f*,
+\v 9  \add It was as though\add* a trap grabbed their heels and held them fast \\f + \\ft doublet \\f*,
 \q
 \v 10  \add as though the noose of\add* a rope that was hidden on the ground,
 \add whose other end was fastened to the limb of a tree\add*, 
@@ -40,23 +40,23 @@ others\add*.
 \q2 \add it was as though\add* they were pursuing them and biting at their heels.
 \q
 \v 12 They became hungry, with the result that they had no strength.
-\q2 They experienced disasters \f + \fk personification \f* constantly. 
+\q2 They experienced disasters \\f + \\ft personification \\f* constantly. 
 \q
-\v 13 Diseases spread all over their skin/bodies; 
-\q2 diseases that ◄caused their bodies to decay/destroyed their arms and legs►.
+\v 13 Diseases spread all over their skin\f + \ft Or: bodies \f*; 
+\q2 diseases that ◄caused their bodies to decay\f + \ft Or: destroyed \f* their arms and legs►.
 \q
 \v 14  \add When they died\add*, they were snatched away from their tents
 \q2 and brought to the one who rules over the dead. 
 \q
-\v 15 Now other people live in their tents/houses, 
-\q2 but only after they sprinkle sulfur on those tents/houses \add to ◄disinfect them/get rid of the
+\v 15 Now other people live in their tents\f + \ft Or: houses \f*, 
+\q2 but only after they sprinkle sulfur on those tents\f + \ft Or: houses \f* \add to ◄disinfect them\f + \ft Or: get \f* rid of the
 diseases►\add*! 
 \q
 \v 16  \add Because those who died had no descendants\add*, 
-\q2 they were like trees whose roots have dried up and whose branches have all withered \f + \fk metaphor \f*.
+\q2 they were like trees whose roots have dried up and whose branches have all withered \\f + \\ft metaphor \\f*.
 \q
 \v 17 No one on the earth remembers them anymore; 
-\q2 no \add one on any\add* street \add even remembers\add* their names \f + \fk metonymy \f*.
+\q2 no \add one on any\add* street \add even remembers\add* their names \\f + \\ft metonymy \\f*.
 \q
 \v 18 They were expelled from the earth where there is light, 
 \q2 and they were sent into the place where it is dark. 
@@ -68,6 +68,6 @@ diseases►\add*!
 everyone\add*, 
 \q2 are shocked and horrified. 
 \q
-\v 21 And that is what happens to ungodly/sinful people \add like
+\v 21 And that is what happens to ungodly\f + \ft Or: sinful \f* people \add like
 you\add*, 
-\q2 to people who ◄have no interest in/have rejected► God.” 
+\q2 to people who ◄have no interest in\f + \ft Or: have \f* rejected► God.” 

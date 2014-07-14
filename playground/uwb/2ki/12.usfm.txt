@@ -3,7 +3,7 @@
 \p
 \v 1 When Jehu had been ruling Israel for almost seven years, Joash became the king of Judah. He ruled in Jerusalem for forty
 years. His mother was Zibiah, from Beersheba \add city\add*. 
-\v 2 All during the time that Joash was alive, he did what pleased Yahweh, because Jehoiada the priest instructed/taught him.
+\v 2 All during the time that Joash was alive, he did what pleased Yahweh, because Jehoiada the priest instructed\f + \ft Or: taught \f* him.
 \v 3 But the places where the people worshiped Yahweh on the tops of hills were not destroyed, and they continued to offer
 sacrifices and burn incense at those places, \add instead of at the place that God had chosen for them in
 Jerusalem\add*. 
@@ -14,13 +14,13 @@ give and the money that they themselves decide to give, as sacred offerings to b
 repair the temple whenever he sees that there is something that needs to be repaired.”
 \p
 \v 6 But after Joash had been ruling for almost twenty-three years, the priests still had not repaired anything in the temple.
-\v 7 So Joash summoned Jehoiada and the other priests and said to them, “◄Why are you not repairing things in the temple?/You
-should have been repairing things in the temple!► \f + \fk rhetorical question \f* For now on, you must not keep the money that you receive from people
+\v 7 So Joash summoned Jehoiada and the other priests and said to them, “◄Why are you not repairing things in the temple?\f + \ft Or: You \f*
+should have been repairing things in the temple!► \\f + \\ft rhetorical question \\f* For now on, you must not keep the money that you receive from people
 who know you (OR, the treasurers) \f*. You must give it to the people who will be repairing things in the temple!”
 \v 8 The priests agreed to do that, and they also agreed that they themselves would not do the repair work.
 \p
 \v 9 Then Jehoiada took a chest and bored a hole in the lid. He placed it alongside the altar
-\add for burning incense/sacrifices\add* that was on the right as anyone enters the temple. The priests who guarded the
+\add for burning incense\f + \ft Or: sacrifices \f*\add* that was on the right as anyone enters the temple. The priests who guarded the
 entrance to the temple put in the box the money that was brought to the temple.
 \v 10 Whenever they saw that there was a lot of money in the chest, the king's secretary and the Supreme Priest would come and
 count the money. Then they would put it in bags and tie the bags shut.
@@ -41,11 +41,11 @@ themselves because of the sins that they had committed was not put in the chest.
 army\add* and attacked Gath \add city\add* and conquered it. Then he decided that they would attack Jerusalem.
 \v 18 So Joash, the king of Judah, took all the money that the previous kings, Jehoshaphat and Jehoram and Ahaziah, had
 dedicated to Yahweh. He added some of his own money, and all the gold that was in the rooms in the temple where valuable things
-were kept/stored, and the gold in his palace, and sent it all to King Hazael,
-\add to ◄appease him/persuade him to not attack Jerusalem►\add*. So King Hazael
+were kept\f + \ft Or: stored \f*, and the gold in his palace, and sent it all to King Hazael,
+\add to ◄appease him\f + \ft Or: persuade \f* him to not attack Jerusalem►\add*. So King Hazael
 \add took his army\add* away from Jerusalem. 
 \p
-\v 19  \add If you want to read more of what\add* Joash did, it is all written \f + \fk rhetorical question \f* in the book named 'The Book of the History
+\v 19  \add If you want to read more of what\add* Joash did, it is all written \\f + \\ft rhetorical question \\f* in the book named 'The Book of the History
 of the Kings of Judah.' 
 \v 20-21 Joash's officials plotted against him, and two of them killed Joash on the road that goes down to the Silla
 \add district\add*. The two men who did that were Jozabad, the son of Shimeath, and Jehozabad, the son of Shomer. Joash was

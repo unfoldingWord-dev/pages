@@ -2,7 +2,7 @@
 \s Ishbosheth was murdered 
 \p
 \v 1 When Saul's son Ishbosheth heard that Abner had been killed at Hebron, he
-\add realized that he might also be killed\add*. He became discouraged, and all the Israeli people ◄trembled/became afraid►.
+\add realized that he might also be killed\add*. He became discouraged, and all the Israeli people ◄trembled\f + \ft Or: became \f* afraid►.
 \v 2 Ishbosheth had two officers who were leaders of groups that raided other villages. They
 \add were brothers\add*; their names were Baanah and Rechab, sons of Rimmon from Beeroth
 \add town\add* in the tribe of Benjamin. Beeroth is in the area that had
@@ -23,13 +23,13 @@ Baanah were able to creep in quietly.
 \v 8 They took the head of Ishbosheth to David at Hebron. They said to him, “Here is the head of Ishbosheth, the son of your
 enemy Saul, who tried to kill you. Your majesty, today Yahweh has allowed you to get revenge on Saul and his descendants!”
 \p
-\v 9 But David replied to them, “Yahweh is the one who has rescued me from all my enemies/difficulties. And just as surely as
+\v 9 But David replied to them, “Yahweh is the one who has rescued me from all my enemies\f + \ft Or: difficulties \f*. And just as surely as
 Yahweh lives, what I am now saying is also true. 
 \v 10 When a messenger came to Ziklag and told me ‘Saul is dead!’ and he thought that the news that he was bringing to me was
 good news, I seized him and \add commanded one of my soldiers to\add* kill him. That was the reward I gave to him for his news!
-\v 11 So because you two evil men murdered a man who is ◄innocent/has done nothing wrong► when he was sleeping on his bed in
-his own house, I will do something worse to you. I will surely \f + \fk rhetorical question \f* get revenge on you two for murdering \f + \fk metonymy \f* him, and ◄wipe
-you/cause you to disappear► from the earth!” 
+\v 11 So because you two evil men murdered a man who is ◄innocent\f + \ft Or: has \f* done nothing wrong► when he was sleeping on his bed in
+his own house, I will do something worse to you. I will surely \\f + \\ft rhetorical question \\f* get revenge on you two for murdering \\f + \\ft metonymy \\f* him, and ◄wipe
+you\f + \ft Or: cause \f* you to disappear► from the earth!” 
 \p
 \v 12 Then David gave a command to his soldiers, and they killed the two men, and cut off their hands and their feet, and hung
 their bodies \f + \ft (OR, their hands and feet) \f* \add on a pole\add* near the pool at Hebron. But they took the head of Ishbosheth and

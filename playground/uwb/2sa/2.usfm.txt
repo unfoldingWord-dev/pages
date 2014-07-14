@@ -8,12 +8,12 @@ there.” Then David asked, “To which town should I go?” Yahweh replied, “
 \add city\add*, and Abigail, the widow of Nabal from Carmel \add city\add*.
 \v 3 He also took the men who had been with him, and their families. They all started to live in villages near Hebron.
 \v 4 Then the men of Judah came to Hebron, and \add one of\add* them poured olive oil on David's head
-\add to show they were appointing him to be\add* \f + \fk metonymy \f* the king of the tribe \f + \fk metonymy \f* of Judah.
+\add to show they were appointing him to be\add* \\f + \\ft metonymy \\f* the king of the tribe \\f + \\ft metonymy \\f* of Judah.
 \p When David found out that the people of Jabesh \add town\add* in the Gilead
 \add region\add* had buried Saul's body, 
-\v 5 he sent messengers to the men of Jabesh to tell them this: “I desire/hope that Yahweh will bless you for having shown, by
+\v 5 he sent messengers to the men of Jabesh to tell them this: “I desire\f + \ft Or: hope \f* that Yahweh will bless you for having shown, by
 burying the body of Saul your king, that you were loyal to him. 
-\v 6 Now I also desire/hope that Yahweh will faithfully love you and be loyal to you. And I will do good things for you because
+\v 6 Now I also desire\f + \ft Or: hope \f* that Yahweh will faithfully love you and be loyal to you. And I will do good things for you because
 of what you have done \add for Saul\add*. 
 \v 7 Now, although Saul your king is dead, be strong and courageous, like the people of Judah, who have appointed me to be
 their king.” 
@@ -26,7 +26,7 @@ across \add the Jordan River\add* to Mahanaim \add town\add*.
 was the king of all of the people of Israel. 
 \p
 \v 10 Ishbosheth was forty years old when he started to rule over the Israeli people. He ruled them for two years. But the
-tribe of Judah ◄was loyal to David/wanted David to be their king►,
+tribe of Judah ◄was loyal to David\f + \ft Or: wanted \f* David to be their king►,
 \v 11 and he ruled them for seven and a half years while he was living in Hebron
 \add city\add*. 
 \s The war between the armies of Judah and Israel 
@@ -48,31 +48,31 @@ David's soldiers.
 \s Joab's brother Asahel was killed 
 \p
 \v 18 Zeruiah's three sons were there \add on that day:\add* Joab, Abishai, and Asahel. Asahel was able to run very fast; he
-could run as fast as a wild gazelle/antelope. 
+could run as fast as a wild gazelle\f + \ft Or: antelope \f*. 
 \v 19 Asahel started to pursue Abner. He ran straight toward Abner, without stopping.
 \v 20 Abner looked behind him, and said “Is that you, Asahel?” Asahel replied, “Yes!”
 \p
 \v 21 Abner yelled at him, “Turn to one side or the other, \add and pursue someone
 else\add*!” But Asahel would not stop pursuing Abner. 
 \p
-\v 22 So Abner yelled at him again, “Stop ◄chasing after/pursuing► me! ◄Why should I kill you?/It would not be good for me to
-kill you!► \f + \fk rhetorical question \f* If I did that, ◄how could I ‘face/be reconciled with’ your brother Joab?/it would be very difficult for me to
-‘face/be reconciled with’ your brother Joab.► \f + \fk rhetorical question \f*” 
+\v 22 So Abner yelled at him again, “Stop ◄chasing after\f + \ft Or: pursuing \f*► me! ◄Why should I kill you?\f + \ft Or: It \f* would not be good for me to
+kill you!► \\f + \\ft rhetorical question \\f* If I did that, ◄how could I ‘face\f + \ft Or: be \f* reconciled with’ your brother Joab?\f + \ft Or: it \f* would be very difficult for me to
+‘face\f + \ft Or: be \f* reconciled with’ your brother Joab.► \\f + \\ft rhetorical question \\f*” 
 \p
 \v 23 But Asahel refused to stop pursuing Abner. So Abner \add suddenly turned
 and\add* thrust the butt end of his spear into Asahel's stomach. Because he thrust it very strongly, that end of the spear
 \add went though his body and\add* came out at Asahel's back, and he fell to the ground, dead. All the other soldiers who came
-to the place where his body was lying stopped and stood there, \add stunned/looking at Asahel's
+to the place where his body was lying stopped and stood there, \add stunned\f + \ft Or: looking \f* at Asahel's
 body\add*. 
 \p
 \v 24 But Joab and Abishai continued to pursue Abner. At sunset they came to Ammah Hill, which is east of Giah, along the road
 to the desert near Gibeon. 
 \v 25 The men from the tribe of Benjamin gathered around Abner in one group, and stood at the top of a hill.
 \p
-\v 26 Then Abner called out to Joab, saying “Are we going to continue to fight forever \f + \fk rhetorical question \f*? Do you not realize that
-\add if we continue fighting\add*, the result will be very bad \f + \fk rhetorical question \f*? We are all descendants of Jacob.
-\add So we should stop fighting each other\add*! ◄How long will it be until you tell your soldiers to stop pursuing us?/Tell
-your soldiers to stop pursuing us.►” \f + \fk rhetorical question \f* 
+\v 26 Then Abner called out to Joab, saying “Are we going to continue to fight forever \\f + \\ft rhetorical question \\f*? Do you not realize that
+\add if we continue fighting\add*, the result will be very bad \\f + \\ft rhetorical question \\f*? We are all descendants of Jacob.
+\add So we should stop fighting each other\add*! ◄How long will it be until you tell your soldiers to stop pursuing us?\f + \ft Or: Tell \f*
+your soldiers to stop pursuing us.►” \\f + \\ft rhetorical question \\f* 
 \p
 \v 27 Joab replied, “Just as surely as God lives, if you had not said that, my soldiers would have continued pursuing your men
 until tomorrow morning!” 

@@ -3,7 +3,7 @@
 \p
 \v 1 Then Elihu also said this: 
 \q
-\v 2 “\add Job\add*, do you think that what you said is right/correct?
+\v 2 “\add Job\add*, do you think that what you said is right\f + \ft Or: correct \f*?
 \q You say, ‘God knows that I am innocent,’ 
 \q
 \v 3 and you say to God, ‘What good have I received for not sinning?
@@ -17,20 +17,20 @@
 \q2 look at the clouds that are high above you 
 \q2 and realize \add that God is far above everything\add*. 
 \q
-\v 6 If you have sinned, that does not \f + \fk rhetorical question \f* harm God at all. 
-\q2 If many times you do things that are wrong, that certainly does not \f + \fk rhetorical question \f* affect him \f + \fk doublet \f*.
+\v 6 If you have sinned, that does not \\f + \\ft rhetorical question \\f* harm God at all. 
+\q2 If many times you do things that are wrong, that certainly does not \\f + \\ft rhetorical question \\f* affect him \\f + \\ft doublet \\f*.
 \q
 \v 7 And if you are righteous, does that help God? 
-\q2 No, he is not benefited by anything that you do \f + \fk doublet \f*. 
+\q2 No, he is not benefited by anything that you do \\f + \\ft doublet \\f*. 
 \q
 \v 8 It is other people who suffer because of the wicked things that you do,
 \q2 but by doing good deeds for people, you help them. 
 \b
 \q
-\v 9 People cry out because of the many things that people do to ◄oppress them/treat them cruelly►;
-\q2 they call for help because of the things that powerful people do \f + \fk metonymy \f* to them.
+\v 9 People cry out because of the many things that people do to ◄oppress them\f + \ft Or: treat \f* them cruelly►;
+\q2 they call for help because of the things that powerful people do \\f + \\ft metonymy \\f* to them.
 \q
-\v 10 But ◄no one/none of them► calls out \add to God\add*, 
+\v 10 But ◄no one\f + \ft Or: none \f* of them► calls out \add to God\add*, 
 \q2 saying ‘Why does God, my creator, \add not help me\add*? 
 \q2 He should enable me to sing \add joyful\add* songs, \add instead of very sad
 songs\add*, during the night. 

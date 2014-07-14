@@ -8,10 +8,10 @@
 \q2 and also the night when I was conceived. 
 \q
 \v 4 I wish that the day when I was born would have become darkness.
-\q2 I wish that God who is in heaven \f + \fk metonymy \f* would have forgotten about that day,
+\q2 I wish that God who is in heaven \\f + \\ft metonymy \\f* would have forgotten about that day,
 \q2 and that the sun would not have shined on it. 
 \q
-\v 5 I wish that thick/intense darkness would have filled that day,
+\v 5 I wish that thick\f + \ft Or: intense \f* darkness would have filled that day,
 \q and that a black cloud would have come over it 
 \q2 and blotted out all light 
 \q2 and caused the people to be terrified. 
@@ -20,10 +20,10 @@
 \q2 with the result that it would never again appear as one night in any month,
 \q2 and that it would not be included in any calendar. 
 \q
-\v 7 I wish that no child would again be conceived on that night of the month \f + \fk metaphor \f*,
+\v 7 I wish that no child would again be conceived on that night of the month \\f + \\ft metaphor \\f*,
 \q2 and that no one would again be happy on that night. 
 \q
-\v 8 I want those people who ◄curse/put evil spells on► days—those who know how to arouse/awaken the great sea monster—to curse
+\v 8 I want those people who ◄curse\f + \ft Or: put \f* evil spells on► days—those who know how to arouse\f + \ft Or: awaken \f* the great sea monster—to curse
 that day. 
 \q
 \v 9 I wish that the stars that shone early in the morning on that day
@@ -35,10 +35,10 @@ that day.
 \q2 instead, I was born, and I have now experienced all these terrible things.
 \b
 \q
-\v 11 I wish that I had died \f + \fk rhetorical question \f* when I was born, 
+\v 11 I wish that I had died \\f + \\ft rhetorical question \\f* when I was born, 
 \q2 at the time I emerged from my mother's womb. 
 \q
-\v 12 I wish that my mother had not \f + \fk rhetorical question \f* allowed me to live. 
+\v 12 I wish that my mother had not \\f + \\ft rhetorical question \\f* allowed me to live. 
 \q2 I wish that she had not nursed me at her breasts. 
 \q
 \v 13 If I had died at the time when I was born, 
@@ -66,18 +66,18 @@ died\add*.
 \b
 \q
 \v 20 ◄Why does God allow those who are suffering greatly \add like
-me\add* to continue to remain alive?/I do not understand why God allows those who are suffering greatly
-\add like me\add* to continue to remain alive.► \f + \fk rhetorical question \f* 
-\q2 Why does he allow those who are very miserable/distressed to keep living \f + \fk rhetorical question \f*?
+me\add* to continue to remain alive?\f + \ft Or: I \f* do not understand why God allows those who are suffering greatly
+\add like me\add* to continue to remain alive.► \\f + \\ft rhetorical question \\f* 
+\q2 Why does he allow those who are very miserable\f + \ft Or: distressed \f* to keep living \\f + \\ft rhetorical question \\f*?
 \q
-\v 21 They long/want to die, but they do not die. 
+\v 21 They long\f + \ft Or: want \f* to die, but they do not die. 
 \q2 They desire to die more than people desire to find a hidden treasure.
 \q
 \v 22 When they finally die and are buried, they are very happy.
 \q
-\v 23 Those who do not know where they are \add eventually\add* going \f + \fk rhetorical question \f*,
-\q2 people whom God has forced \f + \fk metaphor \f* to continue to live in misery,
-\q2 ◄it is not right that they continue to live./why do they continue to live?► \f + \fk rhetorical question \f*
+\v 23 Those who do not know where they are \add eventually\add* going \\f + \\ft rhetorical question \\f*,
+\q2 people whom God has forced \\f + \\ft metaphor \\f* to continue to live in misery,
+\q2 ◄it is not right that they continue to live.\f + \ft Or: why \f* do they continue to live?► \\f + \\ft rhetorical question \\f*
 \q
 \v 24 I cry very much; as a result, I cannot eat; 
 \q2 my groaning continually pours out of me like water. 

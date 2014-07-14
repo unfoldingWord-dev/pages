@@ -1,11 +1,11 @@
 \c 122  
 \s A psalm written by David for people going up to the temple to worship
 \q
-\v 1 I was glad/happy when people said to me, 
+\v 1 I was glad\f + \ft Or: happy \f* when people said to me, 
 \q2 “We should go to the temple of Yahweh \add in Jerusalem\add*!”
 \q
 \v 2 And now we are here, 
-\q2 standing inside the gates/city of \f + \fk apostrophe \f* Jerusalem. 
+\q2 standing inside the gates\f + \ft Or: city \f* of \\f + \\ft apostrophe \\f* Jerusalem. 
 \q
 \v 3 Jerusalem is a city that has been rebuilt, 
 \q2 with the result that people can gather together in it. 
@@ -19,13 +19,13 @@
 \b
 \q
 \v 6 Pray that there will be peace in Jerusalem; 
-\q I wish/hope that those who love Jerusalem will ◄prosper/live peacefully►.
+\q I wish\f + \ft Or: hope \f* that those who love Jerusalem will ◄prosper\f + \ft Or: live \f* peacefully►.
 \q
-\v 7 I hope/wish that there will be peace inside the walls of the city
+\v 7 I hope\f + \ft Or: wish \f* that there will be peace inside the walls of the city
 \q2 and that people who are inside the palaces will be safe. 
 \q
 \v 8 For the sake of my relatives and friends I say, 
-\q2 “I wish/hope that inside Jerusalem people will live peacefully.”
+\q2 “I wish\f + \ft Or: hope \f* that inside Jerusalem people will live peacefully.”
 \q
 \v 9 And because I love the temple of Yahweh our God, 
 \q2 I pray that things will go well for the people who live \add in

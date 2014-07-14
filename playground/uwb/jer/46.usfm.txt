@@ -16,12 +16,12 @@ troops\add*,
 \q
 \v 4 Put harnesses on your horses, 
 \q2 and get on their backs. 
-\q ◄Get into your positions/Line up► \add for the battle\add*; 
+\q ◄Get into your positions\f + \ft Or: Line \f* up► \add for the battle\add*; 
 \q2 put on your helmets. 
 \q Sharpen your spears, 
 \q2 and put on your armor!’ 
 \q
-\v 5 But what \f + \fk rhetorical question \f* do I see? 
+\v 5 But what \\f + \\ft rhetorical question \\f* do I see? 
 \q2 I see that the soldiers of Egypt will be terrified and will be fleeing.
 \q Even the bravest of their soldiers will be running away, 
 \q2 without even looking backward! 
@@ -37,11 +37,11 @@ troops\add*,
 \q2 like the water of the Nile \add River\add* covers the land when it floods?
 \q
 \v 8 It is the army of Egypt 
-\q2 that will be covering the land like a surging/huge flood, 
+\q2 that will be covering the land like a surging\f + \ft Or: huge \f* flood, 
 \q and they will boast that they will cover the earth 
 \q2 and will destroy cities and the people \add who live in them\add*.
 \q
-\v 9 You riders of horses, charge/rush \add into the battle\add*!
+\v 9 You riders of horses, charge\f + \ft Or: rush \f* \add into the battle\add*!
 \q2 You drivers of chariots, drive furiously! 
 \q All you warriors from Ethiopia and Libya 
 \q2 who carry your shields, 
@@ -51,11 +51,11 @@ troops\add*,
 \q
 \v 10 But, \add you need to know that\add* this is the day when I, Yahweh, the Almighty Commander of the armies of angels, will
 get revenge on my enemies. 
-\q With my sword \f + \fk personification \f* I will kill \add my enemies\add* until I am satisfied;
+\q With my sword \\f + \\ft personification \\f* I will kill \add my enemies\add* until I am satisfied;
 \q2 my sword will \add be like a monster that\add* [MET, PRS] drinks the blood
 \add of the animals it kills\add* until it is no longer thirsty.
 \q \add The enemy soldiers who will be killed\add* in the north beside the Euphrates River
-\q2 \add will be like\add* \f + \fk metaphor \f* a sacrifice to me, the Almighty Commander of the armies of angels.
+\q2 \add will be like\add* \\f + \\ft metaphor \\f* a sacrifice to me, the Almighty Commander of the armies of angels.
 \b
 \q
 \v 11 You people [IDI] of Egypt, 
@@ -74,7 +74,7 @@ get revenge on my enemies.
 \q
 \v 14 “Shout this message throughout Egypt! 
 \q2 Proclaim it in Migdol, Memphis, and Tahpenes \add cities\add*!
-\q ‘◄Get into your positions/Line up► \add for the battle\add*; 
+\q ‘◄Get into your positions\f + \ft Or: Line \f* up► \add for the battle\add*; 
 \q2 Prepare to defend yourselves, 
 \q2 because everyone around you will be killed.’ [PRS, MTY] 
 \q
@@ -102,29 +102,29 @@ Egypt\add*.
 \q2 or as high as Carmel \add Mountain\add* close to the \add Mediterranean\add* Sea.
 \q
 \v 19 All you people who live in Egypt, 
-\q2 pack your possessions/clothes and prepare to be exiled. 
+\q2 pack your possessions\f + \ft Or: clothes \f* and prepare to be exiled. 
 \q Memphis will be destroyed; 
 \q2 it will become a ruin, and no people will be living there. 
 \b
 \q
-\v 20 Egypt is like \f + \fk simile \f* a beautiful young cow, 
+\v 20 Egypt is like \\f + \\ft simile \\f* a beautiful young cow, 
 \q2 but \add a powerful king\add* from the northeast will come to attack it
-\q2 like a horsefly \f + \fk metaphor \f* \add bites a cow\add*. 
+\q2 like a horsefly \\f + \\ft metaphor \\f* \add bites a cow\add*. 
 \q
-\v 21 The ◄mercenaries/soldiers from other countries who have been hired► will become like \f + \fk simile \f* fat calves;
+\v 21 The ◄mercenaries\f + \ft Or: soldiers \f* from other countries who have been hired► will become like \\f + \\ft simile \\f* fat calves;
 \q2 but they also will turn around and run away; 
 \q they will not stand there \add and fight\add*, 
 \q2 because it will be a day when there will be a great disaster for Egypt,
 \q2 a day when their people will be greatly punished. 
 \q
 \v 22  \add The soldiers of\add* Egypt will run away, 
-\q2 as silently as a snake slithers/crawls away. 
+\q2 as silently as a snake slithers\f + \ft Or: crawls \f* away. 
 \q The army of the enemy will advance; 
 \q2 they will march along carrying their axes 
-\q2 like \f + \fk simile \f* men who cut down trees. 
+\q2 like \\f + \\ft simile \\f* men who cut down trees. 
 \q
 \v 23 I, Yahweh, say that they will kill the soldiers \add of Egypt\add*
-\q2 as though \f + \fk simile \f* they were a forest of trees, 
+\q2 as though \\f + \\ft simile \\f* they were a forest of trees, 
 \q2 because the enemy soldiers will be as numerous as \add a swarm
 of\add* locusts. 
 \q
@@ -141,7 +141,7 @@ officers. But many years later, people will live in Egypt again.
 \add That will surely happen because\add* I, Yahweh, have said it.’
 \q
 \v 27 But you people of Israel who serve me, 
-\q2 do not be at all dismayed \f + \fk doublet \f* now, 
+\q2 do not be at all dismayed \\f + \\ft doublet \\f* now, 
 \q because some day I will bring you back from distant places; 
 \q2 I will bring your descendants from the land to which they were exiled.
 \q2 Then you Israeli people will again live peacefully and safely,

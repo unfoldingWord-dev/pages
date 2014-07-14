@@ -4,11 +4,11 @@
 \v 1 Terrible things will happen to you \add people of Assyria\add*!
 \q You have destroyed others, 
 \q2 but you have not been destroyed \add yet\add*. 
-\q You have betrayed/deceived others, 
-\q2 but you have not been betrayed/deceived \add yet\add*. 
+\q You have betrayed\f + \ft Or: deceived \f* others, 
+\q2 but you have not been betrayed\f + \ft Or: deceived \f* \add yet\add*. 
 \q When you stop destroying others, 
 \q2 others will destroy you. 
-\q When you stop betraying/deceiving others, 
+\q When you stop betraying\f + \ft Or: deceiving \f* others, 
 \q2 others will betray you. 
 \q
 \v 2 Yahweh, act kindly toward us, 
@@ -21,17 +21,17 @@
 \q
 \v 4  \add And after our enemies have been defeated\add*, 
 \q we, your people, will take away all our enemies' possessions 
-\q2 like \f + \fk simile \f* caterpillars and locusts strip off all the leaves of plants.
+\q2 like \\f + \\ft simile \\f* caterpillars and locusts strip off all the leaves of plants.
 \b
 \q
 \v 5 Yahweh is greater than anyone else, and he lives in heaven,
 \q2 and he will rule justly and righteously in Jerusalem. 
 \q
-\v 6  \add When that happens\add*, he will enable you to live securely/safely;
+\v 6  \add When that happens\add*, he will enable you to live securely\f + \ft Or: safely \f*;
 \q2 he will fully protect your possessions, 
 \q2 he will enable you to be wise and to know \add all that you need to
 know\add*; 
-\q and revering Yahweh will be like \f + \fk metaphor \f* a valuable treasure for you.
+\q and revering Yahweh will be like \\f + \\ft metaphor \\f* a valuable treasure for you.
 \b
 \q
 \v 7 But now, look, our brave men are crying out in the streets;
@@ -39,8 +39,8 @@ know\add*;
 treaties\add*, 
 \q2 but they will cry bitterly \add because they will not succeed\add*.
 \q
-\v 8 No one travels on our roads \f + \fk doublet \f*. 
-\q2 \add The leaders of Assyria\add* have broken/disregarded their peace treaty
+\v 8 No one travels on our roads \\f + \\ft doublet \\f*. 
+\q2 \add The leaders of Assyria\add* have broken\f + \ft Or: disregarded \f* their peace treaty
 \add with us\add*; 
 \q they despise the people who made those treaties, 
 \q2 and they do not respect anyone. 
@@ -52,14 +52,14 @@ treaties\add*,
 \add areas\add*. 
 \b
 \q
-\v 10 Yahweh says, “Now I will arise and show that I am very powerful \f + \fk doublet \f*.
+\v 10 Yahweh says, “Now I will arise and show that I am very powerful \\f + \\ft doublet \\f*.
 \q
 \v 11 You people \add of Assyria\add* make plans that are \add as
-useless\add* as \f + \fk metaphor \f* chaff and straw. 
+useless\add* as \\f + \\ft metaphor \\f* chaff and straw. 
 \q2 Your breath will become a fire that will burn you up. 
 \q
-\v 12 Your people will be burned until only ashes remain \f + \fk metaphor \f* 
-\q2 like \f + \fk simile \f* thornbushes are cut down and burned up in a fire.
+\v 12 Your people will be burned until only ashes remain \\f + \\ft metaphor \\f* 
+\q2 like \\f + \\ft simile \\f* thornbushes are cut down and burned up in a fire.
 \q
 \v 13 You people who live far away and you people who live nearby,
 \q2 pay attention to what I have done and realize that I am very powerful.”
@@ -67,29 +67,29 @@ useless\add* as \f + \fk metaphor \f* chaff and straw.
 \q
 \v 14 The sinners in Jerusalem will tremble because of being very afraid;
 \q2 godless people will be terrified. 
-\q They say, “None of us can \f + \fk rhetorical question \f* remain alive because this fire is burning everything;
+\q They say, “None of us can \\f + \\ft rhetorical question \\f* remain alive because this fire is burning everything;
 \q2 it is like the fire on Yahweh's altar that will burn forever!”
 \q
 \v 15 Those who act honestly and say what is right, 
-\q2 those who do not try to become rich by ◄extortion/forcing people to give them money►,
+\q2 those who do not try to become rich by ◄extortion\f + \ft Or: forcing \f* people to give them money►,
 \q those who do not try to get bribes, 
 \q2 those who refuse to listen to people who are planning to murder someone,
 \q those who do not join others who urge them to do what is wrong,
 \q
-\v 16 they are the people who will live safely \f + \fk metonymy \f*; 
+\v 16 they are the people who will live safely \\f + \\ft metonymy \\f*; 
 \q2 they will find places to be safe in the caves in the mountains.
 \q They will have plenty of food 
 \q2 and water. 
 \b
 \q
-\v 17 You \f + \fk synecdoche \f* \add people of Judah\add* will see the king wearing all his beautiful
+\v 17 You \\f + \\ft synecdoche \\f* \add people of Judah\add* will see the king wearing all his beautiful
 \add robes\add*, 
 \q2 and you will see that he rules a land that extends far away.
 \q
 \v 18 When you see that, you will think about when you were previously terrified,
 \q2 \add and you will say\add*, “\add The officers of Assyria\add* who counted the tax money that we were forced to pay to them
-\add have disappeared\add* \f + \fk rhetorical question \f*! 
-\q2 Those men who counted our towers \add are gone\add* \f + \fk rhetorical question \f*! 
+\add have disappeared\add* \\f + \\ft rhetorical question \\f*! 
+\q2 Those men who counted our towers \add are gone\add* \\f + \\ft rhetorical question \\f*! 
 \q
 \v 19 Those arrogant people who spoke a language that we could not understand are no longer here!”
 \b
@@ -97,11 +97,11 @@ useless\add* as \f + \fk metaphor \f* chaff and straw.
 \v 20 At that time, you will see Zion Hill, the place where we celebrate our festivals;
 \q2 You will see that Jerusalem has become a place that is calm and safe.
 \q2 It will be \add secure\add*, 
-\q like \f + \fk simile \f* a tent \add that cannot be moved because\add* its ropes are tight
+\q like \\f + \\ft simile \\f* a tent \add that cannot be moved because\add* its ropes are tight
 \q2 and its stakes are firmly in the ground. 
 \q
 \v 21 Yahweh will be our mighty God; 
-\q he will be like \f + \fk simile \f* a mighty river that will protect us 
+\q he will be like \\f + \\ft simile \\f* a mighty river that will protect us 
 \q2 because our enemies will not be able to cross it; 
 \q2 no one will be able to row across it 
 \q2 and no ships will be able to sail across it. 

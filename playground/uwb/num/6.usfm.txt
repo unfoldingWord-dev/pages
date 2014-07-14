@@ -1,12 +1,12 @@
 \c 6  
 \s Rules about Nazir-men 
 \p
-\v 1 Yahweh also said this to Moses/me: 
+\v 1 Yahweh also said this to Moses\f + \ft Or: me \f*: 
 \v 2 “Tell this to the Israeli people: If any of you \add wants to\add* make a solemn promise to dedicate himself to belong to
 me in a special way, \add after you obey these instructions\add*, you will be called a Nazir-man,
 \add which means\add* ‘\add a dedicated man\add*.’ 
-\v 3 You must not drink any wine or other alcoholic/fermented drink. You must not drink any vinegar made from wine or from any
-other alcoholic/fermented drink. You must not drink grape juice or eat grapes or raisins.
+\v 3 You must not drink any wine or other alcoholic\f + \ft Or: fermented \f* drink. You must not drink any vinegar made from wine or from any
+other alcoholic\f + \ft Or: fermented \f* drink. You must not drink grape juice or eat grapes or raisins.
 \v 4 You must not eat anything that comes from grapevines, not even the skins or seeds of grapes, during the time that you are
 a Nazir-man. 
 \p
@@ -14,7 +14,7 @@ a Nazir-man.
 hair. Until the time that your solemn promise to dedicate yourself to me is ended, you must allow your hair to grow long.
 \v 6 And you must not go near a corpse during the time that you are a Nazir-man.
 \v 7 Even if the person who died is your father or your mother or your brother or your sister, you must not cause yourself to
-become unacceptable to me \add by coming close to the corpse\add*. Your long hair \f + \fk metonymy \f* shows that you belong to me in a
+become unacceptable to me \add by coming close to the corpse\add*. Your long hair \\f + \\ft metonymy \\f* shows that you belong to me in a
 special way, so you must do what you have solemnly promised \add and not cut your
 hair\add*. 
 \v 8 You are required to keep doing this all the time that you are dedicated to me in this special way.
@@ -39,7 +39,7 @@ completely, a one year-old female lamb as a sacrifice to take away
 \p
 \v 15 When you bring those animals, you must also bring some wine to offer as a sacrifice. And you must also bring a basket of
 bread that you have made with very good flour and \add olive\add* oil. But you must not put any yeast in the bread. Also
-brush/spread some \add olive\add* oil on some thin wafers and bring them to the priest.
+brush\f + \ft Or: spread \f* some \add olive\add* oil on some thin wafers and bring them to the priest.
 \p
 \v 16 The priest will put the young lamb and the young ram on the altar and completely burn them, in order that I will be
 pleased and will forgive you. 
@@ -61,7 +61,7 @@ dedicated to me. They must bring these offerings, but if they want to, they may 
 everything that they solemnly promised to do when they dedicated themselves to me.”
 \s The blessing for the people 
 \p
-\v 22 Yahweh also said to Moses/me, 
+\v 22 Yahweh also said to Moses\f + \ft Or: me \f*, 
 \v 23 “Tell Aaron and his sons that when they \add ask me to\add* bless the people, they must say,
 \q
 \v 24 ‘I desire that Yahweh will bless you 

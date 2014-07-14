@@ -7,7 +7,7 @@
 \v 2 Like \add wind\add* blows smoke away, 
 \q2 you chase your enemies away. 
 \q Like wax melts when it is near a fire, 
-\q2 you cause wicked people to ◄disappear/be destroyed►. 
+\q2 you cause wicked people to ◄disappear\f + \ft Or: be \f* destroyed►. 
 \q
 \v 3 But righteous people are joyful; 
 \q2 they rejoice when they are in God's presence; 
@@ -18,7 +18,7 @@
 \q sing a song \f + \ft (OR, make a road) for him who rides on the clouds;
 \q his name is Yahweh; be glad when you are in his presence. 
 \q
-\v 5 God, who lives in his sacred temple, is like \f + \fk metaphor \f* a father to those who are orphans,
+\v 5 God, who lives in his sacred temple, is like \\f + \\ft metaphor \\f* a father to those who are orphans,
 \q2 and he is the one who protects widows. 
 \q
 \v 6 He provides families \add to live with\add* for those who have no one to live with.
@@ -64,7 +64,7 @@ families\add*.
 \v 15 There is a very high mountain in the Bashan \add region\add*,
 \q a mountain which has many peaks. 
 \q
-\v 16 But the \add people who live near\add* that mountain should not \f + \fk rhetorical question \f* envy those who live near
+\v 16 But the \add people who live near\add* that mountain should not \\f + \\ft rhetorical question \\f* envy those who live near
 \add Zion\add*, 
 \q2 the mountain on which God chose to live! 
 \q Yahweh will live there forever! 
@@ -82,11 +82,11 @@ families\add*.
 \b
 \q
 \v 19 Praise the Lord, who \add helps us\add* carry our heavy loads every day;
-\q he is the one who saves/rescues us. 
+\q he is the one who saves\f + \ft Or: rescues \f* us. 
 \qr (Think about that!) 
 \q
 \v 20 Our God is the God who saves us; 
-\q2 He is Yahweh, our Lord, the one who ◄allows us to escape/prevents us► from being killed
+\q2 He is Yahweh, our Lord, the one who ◄allows us to escape\f + \ft Or: prevents \f* us► from being killed
 \add in battles\add*. 
 \b
 \q
@@ -122,9 +122,9 @@ drowned\add*.
 \v 29 Show that power from your temple in Jerusalem, 
 \q2 where kings bring gifts to you. 
 \q
-\v 30 Rebuke \add your enemies, such as those in Egypt who are like\add* wild hippopotamuses/animals that live in the reeds;
-\q and \add powerful nations that are like\add* bulls that control their calves \f + \fk metaphor \f*;
-\q rebuke/trample them until they bow down and give you gifts of silver.
+\v 30 Rebuke \add your enemies, such as those in Egypt who are like\add* wild hippopotamuses\f + \ft Or: animals \f* that live in the reeds;
+\q and \add powerful nations that are like\add* bulls that control their calves \\f + \\ft metaphor \\f*;
+\q rebuke\f + \ft Or: trample \f* them until they bow down and give you gifts of silver.
 \q2 Scatter the people who delight to make wars. 
 \q
 \v 31 Then people will bring gifts of bronze (OR, of cloth) to you from Egypt;
@@ -132,7 +132,7 @@ drowned\add*.
 \add to praise you\add*. 
 \b
 \q
-\v 32 You people who are citizens of kingdoms/countries all over the world, sing to God!
+\v 32 You people who are citizens of kingdoms\f + \ft Or: countries \f* all over the world, sing to God!
 \q Sing praises to the Lord! 
 \qr (Think about that!) \f* 
 \q
@@ -146,6 +146,6 @@ drowned\add*.
 \q
 \v 35 God is awesome as he comes out of his sacred temple; 
 \q2 he is the God whom we Israeli people \add worship\add*. 
-\q He gives power and strength \f + \fk doublet \f* to his people. 
+\q He gives power and strength \\f + \\ft doublet \\f* to his people. 
 \b
 \q Praise God! 

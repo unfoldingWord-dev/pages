@@ -1,15 +1,15 @@
 \c 16  
 \p
 \v 1  \add Jesus continued by saying to us\add*, “I have told you these things in order that you will not stop trusting in me
-\add when people\add* ◄\add cause you to suffer/persecute you\add*►.
-\v 2 They will not allow you to worship in ◄synagogues/\add their\add* meeting places►. In fact, there will be a time when
+\add when people\add* ◄\add cause you to suffer\f + \ft Or: persecute \f* you\add*►.
+\v 2 They will not allow you to worship in ◄synagogues\f + \ft Or:  \f*\add their\add* meeting places►. In fact, there will be a time when
 anyone who kills you will think that he is serving God \add by doing
 that\add*. 
 \v 3 They will do such things because they have never known who I
 \add really am\add*, nor who \add my\add* Father \add is\add*. 
 \v 4 I have told you these things in order that when \add they start\add*
-◄\add to cause you to suffer\add*/to \add persecute you\add*► \f + \fk metonymy \f*, you will remember that I warned you. I did not tell you
-these things when you first started \add to accompany me\add* \f + \fk metonymy \f* because I was with you,
+◄\add to cause you to suffer\add*\f + \ft Or: to \f* \add persecute you\add*► \\f + \\ft metonymy \\f*, you will remember that I warned you. I did not tell you
+these things when you first started \add to accompany me\add* \\f + \\ft metonymy \\f* because I was with you,
 \add and they were causing trouble for me, not for you\add*.” 
 \s John 16:5-15 
 \s Jesus told them some things that the Holy Spirit would do. 
@@ -18,9 +18,9 @@ these things when you first started \add to accompany me\add* \f + \fk metonymy 
 \add I am disappointed that\add* none of you is asking me, ‘Where are you going?’
 \v 6 Instead, because I have told you these things, you are very sad.
 \v 7 But the truth is that it is good for you that I am going away, because if I do not go away, the
-\add Holy Spirit\add*, who will ◄encourage/be like a legal counsel for► you will not come to you. But when I go, I will send
+\add Holy Spirit\add*, who will ◄encourage\f + \ft Or: be \f* like a legal counsel for► you will not come to you. But when I go, I will send
 him to you. 
-\v 8 When he comes, he will prove that those who do not belong to God \f + \fk metonymy \f*
+\v 8 When he comes, he will prove that those who do not belong to God \\f + \\ft metonymy \\f*
 \add are wrong about what is\add* sinful and about who is really righteous and about whom
 \add God will\add* judge \add and condemn for their sin\add*. 
 \v 9  \add He will tell people that their greatest\add* sin is that they do not believe in me.
@@ -51,27 +51,27 @@ by\add* ‘Because I am going back to \add my\add* Father’?”
 \v 18 We kept asking each other, “What \add does he mean by\add* saying ‘After a little while’? We do not understand what he is
 saying.” 
 \p
-\v 19 Jesus realized that we wanted to ask him \add about that\add*. So he said to us, “You are asking \f + \fk rhetorical question \f* each other
+\v 19 Jesus realized that we wanted to ask him \add about that\add*. So he said to us, “You are asking \\f + \\ft rhetorical question \\f* each other
 \add what I meant\add* when I said, ‘After a short time you will not see me, and then a short time
 \add after that\add* you will see me \add again\add*.’ 
-\v 20 Listen to this carefully: \add After I\add* ◄\add leave you/die\add*►, those who oppose God \f + \fk metonymy \f* will be happy, but you
+\v 20 Listen to this carefully: \add After I\add* ◄\add leave you\f + \ft Or: die \f*\add*►, those who oppose God \\f + \\ft metonymy \\f* will be happy, but you
 will be sad. But \add later\add* you will stop being sad and you will become joyful.
 \v 21 A woman who is about to bear a child feels pain, because that is
-\add what happens\add* \f + \fk metonymy \f* \add at\add* that time. But after her baby is born, she forgets that pain, because she is very
+\add what happens\add* \\f + \\ft metonymy \\f* \add at\add* that time. But after her baby is born, she forgets that pain, because she is very
 joyful that her child has been born. 
 \v 22 It will be the same with you. Now \add I will die and\add* you will be sad. But after that, I will see you again. Then
 you will be joyful, and no one will be able to stop you from being joyful.
 \v 23 When that happens, you will not ask me any questions \add about
 anything\add*. Listen to this carefully: \add After that happens,
-my\add* Father will do for you anything you ask, because of his relationship with me \f + \fk metonymy \f*.
-\v 24 Up to the present time you have not asked \add God to do\add* anything for you because of his relationship with me \f + \fk metonymy \f*.
+my\add* Father will do for you anything you ask, because of his relationship with me \\f + \\ft metonymy \\f*.
+\v 24 Up to the present time you have not asked \add God to do\add* anything for you because of his relationship with me \\f + \\ft metonymy \\f*.
 Now keep asking \add him for things that you need. If you do that\add*, you will receive them, and then you will be completely
 joyful. 
 \p
 \v 25 Although I have been speaking these things using figurative language, there will soon be a time when I will no longer use
-that kind of language. Instead, I will tell you plainly ◄about my Father/what my Father
+that kind of language. Instead, I will tell you plainly ◄about my Father\f + \ft Or: what \f* my Father
 \add wants\add*►. 
-\v 26 At that time, you will ask \add him for things\add* ◄because you belong to me/with my authority► \f + \fk metonymy \f*. I will not
+\v 26 At that time, you will ask \add him for things\add* ◄because you belong to me\f + \ft Or: with \f* my authority► \\f + \\ft metonymy \\f*. I will not
 \add need to\add* ask \add my\add* Father to do what you ask. 
 \v 27  \add My\add* Father himself loves you because you have loved me and because you have believed that I came from God,
 \add so he wants you to ask\add* him \f + \ft (OR, \add so he does not need anyone to
@@ -84,11 +84,11 @@ persuade\add* him \add to help you\add*) \f*
 \add about anything, because you know what we want to ask before we ask
 you\add*. That \add also\add* leads us to believe that you came from God.”
 \p
-\v 31 Jesus replied to us, “Now you \f + \fk rhetorical question \f* say that you believe \add that I came from
+\v 31 Jesus replied to us, “Now you \\f + \\ft rhetorical question \\f* say that you believe \add that I came from
 God\add*. 
 \v 32 But listen! There will soon be a time, and that time is already here, when you will all run away! Each of you will run
 away to your own home. You will leave me, and I will be alone. But I will not
 \add really\add* be alone \add at that time\add*, because \add my\add* Father is always with me.
 \v 33 I have told you these things in order that you may have \add inner\add* peace because of your relationship with me. In
-this world you will have trouble. But be courageous! I have defeated those who are opposed to me \f + \fk metonymy \f*, and
+this world you will have trouble. But be courageous! I have defeated those who are opposed to me \\f + \\ft metonymy \\f*, and
 \add you can defeat them, too\add*!” 

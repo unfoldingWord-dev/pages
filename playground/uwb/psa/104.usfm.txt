@@ -2,22 +2,22 @@
 \q
 \v 1  \add I tell\add* myself that I should praise Yahweh. 
 \q Yahweh, my God, you are very great! 
-\q2 Like a king has on his royal robes \f + \fk metaphor \f*, 
-\q you have honor and majesty/greatness all around you! 
+\q2 Like a king has on his royal robes \\f + \\ft metaphor \\f*, 
+\q you have honor and majesty\f + \ft Or: greatness \f* all around you! 
 \q
-\v 2 You \add created/caused\add* light to be like your robe \f + \fk metaphor \f*.
+\v 2 You \add created\f + \ft Or: caused \f*\add* light to be like your robe \\f + \\ft metaphor \\f*.
 \q2 You put the stars in the sky like a man sets up a tent. 
 \q2
-\v 3 You made/put your home \add in heaven\add*, above the rain clouds in the sky,
-\add like a man puts the\add* rafters of his house in place \f + \fk metaphor \f*.
-\q You made/caused the clouds to be like chariots \add to carry you\add*.
+\v 3 You made\f + \ft Or: put \f* your home \add in heaven\add*, above the rain clouds in the sky,
+\add like a man puts the\add* rafters of his house in place \\f + \\ft metaphor \\f*.
+\q You made\f + \ft Or: caused \f* the clouds to be like chariots \add to carry you\add*.
 \q
-\v 4 You caused the winds to be like your messengers \f + \fk metaphor \f*, 
+\v 4 You caused the winds to be like your messengers \\f + \\ft metaphor \\f*, 
 \q and flames of fire to be like your servants. 
 \b
 \q
 \v 5 You placed the world firmly on its foundation 
-\q2 so that it can never be moved/shaken. 
+\q2 so that it can never be moved\f + \ft Or: shaken \f*. 
 \q
 \v 6  \add Later\add*, you covered the earth with a flood, like a blanket;
 \q2 \add and\add* the water covered the mountains. 
@@ -34,7 +34,7 @@
 \q2 their water will never again cover the whole earth. 
 \b
 \q
-\v 10 You make/cause springs to pour \add water\add* into ravines;
+\v 10 You make\f + \ft Or: cause \f* springs to pour \add water\add* into ravines;
 \q2 their water flows down between the mountains. 
 \q
 \v 11 Those streams provide water for all the animals \add to drink\add*;
@@ -43,27 +43,27 @@
 \v 12 Birds make their nests alongside the streams, 
 \q2 and they sing among the branches \add of the trees\add*. 
 \q
-\v 13 From ◄your home in heaven/the sky► you send rain down on the mountains,
+\v 13 From ◄your home in heaven\f + \ft Or: the \f* sky► you send rain down on the mountains,
 \q2 and you fill the earth with many good things that you create.
 \q
-\v 14 You make/cause grass to grow for the cattle \add to eat\add*,
-\q2 and you make/cause plants to grow for people. 
+\v 14 You make\f + \ft Or: cause \f* grass to grow for the cattle \add to eat\add*,
+\q2 and you make\f + \ft Or: cause \f* plants to grow for people. 
 \q2 In that way \add animals and people\add* get their food from
 \add what grows in\add* the soil. 
 \q
-\v 15 We get \add grapes to make\add* \f + \fk metonymy \f* wine to \add drink and\add* make us cheerful,
-\q2 and we get \add olives to make\add* \f + \fk metonymy \f* olive oil to \add put on
-our\add* skin and make/cause it to shine, 
-\q2 and we get \add grain to make\add* \f + \fk metonymy \f* bread to give us strength.
+\v 15 We get \add grapes to make\add* \\f + \\ft metonymy \\f* wine to \add drink and\add* make us cheerful,
+\q2 and we get \add olives to make\add* \\f + \\ft metonymy \\f* olive oil to \add put on
+our\add* skin and make\f + \ft Or: cause \f* it to shine, 
+\q2 and we get \add grain to make\add* \\f + \\ft metonymy \\f* bread to give us strength.
 \q
 \v 16 Yahweh, you \add send plenty of rain to\add* water your trees,
 \q2 the cedar trees that you planted in Lebanon. 
 \q
 \v 17 Birds make their nests in those trees, 
-\q2 and storks make their nests in pine/fir trees. 
+\q2 and storks make their nests in pine\f + \ft Or: fir \f* trees. 
 \q
 \v 18 High up in the mountains the wild goats live, 
-\q2 and hyraxes/badgers live in the crags/crevices in the rocks.
+\q2 and hyraxes\f + \ft Or: badgers \f* live in the crags\f + \ft Or: crevices \f* in the rocks.
 \b
 \q
 \v 19 Yahweh, you made the moon to indicate the times for our festivals,
@@ -86,12 +86,12 @@ food\add*.
 \q2 You were very wise as you made them all. 
 \q2 The earth is full of the creatures that you \add made\add*. 
 \q
-\v 25  \add We see\add* the ocean which is very large \f + \fk doublet \f*! 
+\v 25  \add We see\add* the ocean which is very large \\f + \\ft doublet \\f*! 
 \q2 It is full of many kinds of living creatures, 
 \q2 big ones and little ones. 
 \q
-\v 26 We see the ships which sail/travel along! 
-\q2 We see the huge sea monster, which you made to ◄splash around/play► in the sea.
+\v 26 We see the ships which sail\f + \ft Or: travel \f* along! 
+\q2 We see the huge sea monster, which you made to ◄splash around\f + \ft Or: play \f*► in the sea.
 \b
 \q
 \v 27 All of these creatures depend on you 
@@ -112,23 +112,23 @@ food\add*.
 \q2 You give new life to all the living creatures on the earth. 
 \b
 \q
-\v 31 I hope/desire that the glory of Yahweh will last forever. 
-\q2 I hope/desire that he will rejoice about all the things that he has created.
+\v 31 I hope\f + \ft Or: desire \f* that the glory of Yahweh will last forever. 
+\q2 I hope\f + \ft Or: desire \f* that he will rejoice about all the things that he has created.
 \q
-\v 32 He makes/causes the earth to shake just by looking at it! 
-\q2 By merely touching the mountains he makes/causes them to pour out fire and smoke!
+\v 32 He makes\f + \ft Or: causes \f* the earth to shake just by looking at it! 
+\q2 By merely touching the mountains he makes\f + \ft Or: causes \f* them to pour out fire and smoke!
 \b
 \q
-\v 33 I will sing to Yahweh ◄as long as I live/throughout my entire life►.
+\v 33 I will sing to Yahweh ◄as long as I live\f + \ft Or: throughout \f* my entire life►.
 \q2 I will praise my God until the day that I die. 
 \q
 \v 34 I hope that Yahweh will be pleased by all these things that I have thought
 \add about him\add*, 
 \q2 because I rejoice about \add knowing\add* him. 
 \q
-\v 35 But I hope/desire that sinners will disappear from the earth,
+\v 35 But I hope\f + \ft Or: desire \f* that sinners will disappear from the earth,
 \q2 and that there will be no more wicked people! 
 \b
 \q But as for me, I will praise Yahweh! 
 \b
-\q ◄Praise him/Hallelujah►! 
+\q ◄Praise him\f + \ft Or: Hallelujah \f*►! 

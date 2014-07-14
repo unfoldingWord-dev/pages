@@ -4,9 +4,9 @@
 \add I am here\add* with Timothy, our fellow believer. \add I am writing this
 letter\add* to \add you\add*, Philemon, our dear \add friend\add* and fellow worker.
 \v 2  \add I am also writing\add* to \add your wife\add*, Apphia, and to Archippus,
-\add who is like\add* \f + \fk metaphor \f* our fellow soldier \add because he serves Christ steadfastly together with
+\add who is like\add* \\f + \\ft metaphor \\f* our fellow soldier \add because he serves Christ steadfastly together with
 us\add*. I am also \add writing this\add* to the congregation \add that
-meets/gathers\add* in your\add (sg)\add* house. 
+meets\f + \ft Or: gathers \f*\add* in your\add (sg)\add* house. 
 \v 3  \add I pray that\add* God our Father and our Lord Jesus Christ
 \add will continue to\add* act kindly toward you all and \add will continue
 to\add* cause you to have \add inner\add* peace. 
@@ -14,42 +14,42 @@ to\add* cause you to have \add inner\add* peace.
 \s I thank God and rejoice greatly because you have shown that you love God's people.
 \p
 \v 4 I always thank my God when I pray for you\add (sg)\add*, because I hear
-\add people say that\add* you love all God's people \f + \fk chiasmus \f* 
+\add people say that\add* you love all God's people \\f + \\ft chiasmus \\f* 
 \v 5 and that you continue to trust in the Lord Jesus. 
 \v 6 I pray that as a result of your knowing all the good things
-\add that God/Christ has done for\add* us, you may ◄be effective/influence many others► as you tell others what you believe, in
+\add that God\f + \ft Or: Christ \f* has done for\add* us, you may ◄be effective\f + \ft Or: influence \f* many others► as you tell others what you believe, in
 order that \add they may honor\add* Christ. 
 \v 7 I have rejoiced greatly and have been greatly encouraged because you, my dear friend, have acted lovingly toward God's
-people by encouraging them \f + \fk synecdoche \f*. 
+people by encouraging them \\f + \\ft synecdoche \\f*. 
 \s Philemon 8-11 
 \s Because I know that you love God's people, I request, rather than command you, to do what you ought to do for my spiritual
 son Onesimus. 
 \p
-\v 8 So \add I have a request/favor to ask of you\add*. I am completely confident
+\v 8 So \add I have a request\f + \ft Or: favor \f* to ask of you\add*. I am completely confident
 \add that I have authority\add* to command you \add to do\add* what you ought to do, because
 \add I am an apostle of\add* Christ. 
 \v 9 But because \add I know that you\add* love \add God's people\add*, I request this instead
 of\add commanding you to do it\add*. It is I, Paul, an old man and now also a prisoner
 \add because I serve\add* Christ Jesus, \add who am requesting it\add*.
 \v 10 I request that you \add do something\add* for someone \add who has become
-like\add* my own son \add because I told him about Christ\add* \f + \fk metaphor \f* while
-\add I have been\add* a prisoner \f + \fk metonymy \f* \add here. His name is\add* Onesimus.
+like\add* my own son \add because I told him about Christ\add* \\f + \\ft metaphor \\f* while
+\add I have been\add* a prisoner \\f + \\ft metonymy \\f* \add here. His name is\add* Onesimus.
 \v 11 Although \add his name, as you know, means ‘useful’\add*, formerly he was useless to you. But now he is useful both to
 you and to me! 
 \s Philemon 12-16 
 \s I am sending Onesimus back to you. He is as dear to me as my own self, and he will now be even dearer to you than he is to
 me. 
 \p
-\v 12 Although ◄he is \add as dear to me as/I love him as much as I
-love\add*► \f + \fk metaphor \f* my own self \f + \fk metonymy \f*, I am sending him back to you.
-\v 13 I would like to have kept him with me, in order that he might serve me on your behalf, while I am a prisoner \f + \fk metonymy \f*
+\v 12 Although ◄he is \add as dear to me as\f + \ft Or: I \f* love him as much as I
+love\add*► \\f + \\ft metaphor \\f* my own self \\f + \\ft metonymy \\f*, I am sending him back to you.
+\v 13 I would like to have kept him with me, in order that he might serve me on your behalf, while I am a prisoner \\f + \\ft metonymy \\f*
 \add because of my preaching\add* the message \add about Christ\add*.
 \v 14 Nevertheless, because \add I had not yet asked you and\add* you had not yet permitted me
 \add to keep him here with me\add*, I decided not to \add keep him here. I decided that I
 should\add* not do anything without your permitting it. \add I decided that you should help me only if
 you\add* really want to help me. 
 \v 15 Perhaps the reason that \add God permitted\add* Onesimus to be separated from {to leave} you for a little while was that
-\add he would believe in Christ, and as a result\add* you would have him ◄back/with you► forever!
+\add he would believe in Christ, and as a result\add* you would have him ◄back\f + \ft Or: with \f* you► forever!
 \v 16  \add You will no longer have him only\add* as a slave. Instead,
 \add you will have him\add* as \add someone who is\add* more than a slave.
 \add You will have him\add* as a fellow believer! He is especially dear to me, but he certainly will be more dear to you
@@ -60,15 +60,15 @@ you\add* really want to help me.
 owes you. 
 \p
 \v 17 So, if you consider me to be your partner \add in God's work\add*, receive him as you would receive me.
-\v 18 If he has wronged you in any manner or if he owes you anything, ◄charge that to me/tell me so that I can pay you►.
+\v 18 If he has wronged you in any manner or if he owes you anything, ◄charge that to me\f + \ft Or: tell \f* me so that I can pay you►.
 \v 19 I, Paul, am now writing this in my own handwriting: I will repay you what he owes you, although I might mention to you
 that you owe me even more than Onesimus may owe you, because it was the result of my telling you about Christ that God saved
-your soul/you. 
+your soul\f + \ft Or: you \f*. 
 \s Philemon 20 
 \s Please encourage me in this matter as you encourage other believers in Christ.
 \p
-\v 20 ◄Yes/I say it again►, my dear friend, because you and I both have a relationship with the Lord, I want you to do this for
-me. Encourage me \f + \fk synecdoche \f* \add by receiving Onesimus kindly, just like you encourage others who
+\v 20 ◄Yes\f + \ft Or: I \f* say it again►, my dear friend, because you and I both have a relationship with the Lord, I want you to do this for
+me. Encourage me \\f + \\ft synecdoche \\f* \add by receiving Onesimus kindly, just like you encourage others who
 believe\add* in Christ. 
 \s Philemon 21 
 \s I have written this letter to you confident of your compliance with my request.
@@ -85,8 +85,8 @@ believe\add* in Christ.
 \s My other fellow workers greet you(sg). May the Lord Jesus Christ bless you(pl) \f* spiritually.
 \p
 \v 23 Epaphras, who is \add suffering\add* with me in prison because of
-\add his serving\add* Christ Jesus, ◄sends his greetings to you/wants you to know that he is thinking fondly about you►.
-\v 24 Mark, Aristarchus, Demas, and Luke, who are my \add other\add* fellow workers, also ◄send their greetings to you/want you
+\add his serving\add* Christ Jesus, ◄sends his greetings to you\f + \ft Or: wants \f* you to know that he is thinking fondly about you►.
+\v 24 Mark, Aristarchus, Demas, and Luke, who are my \add other\add* fellow workers, also ◄send their greetings to you\f + \ft Or: want \f* you
 to know that they are thinking fondly about you►. 
 \v 25  \add I pray that\add* the Lord Jesus Christ \add will\add*
-◄\add continue to\add* work kindly in all your lives/kindly keep accomplishing what he desires within you►.
+◄\add continue to\add* work kindly in all your lives\f + \ft Or: kindly \f* keep accomplishing what he desires within you►.

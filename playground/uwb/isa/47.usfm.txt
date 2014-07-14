@@ -2,10 +2,10 @@
 \s Prediction of the destruction of Babylon 
 \q
 \v 1  \add Yahweh also says\add*, “You people of Babylon, 
-\q2 you should go and sit in the dust/dirt, 
-\q because your time to rule \f + \fk metonymy \f* \add other countries\add* is almost ended.
+\q2 you should go and sit in the dust\f + \ft Or: dirt \f*, 
+\q because your time to rule \\f + \\ft metonymy \\f* \add other countries\add* is almost ended.
 \q People will never again say that Babylonia is beautiful 
-\q2 like a very attractive/beautiful young woman. 
+\q2 like a very attractive\f + \ft Or: beautiful \f* young woman. 
 \q
 \v 2  \add You will be slaves, so\add* take heavy stones 
 \q2 and grind grain \add like slave women do\add*. 
@@ -23,13 +23,13 @@ go\add*.
 \q
 \v 5  \add Yahweh says\add*, “You people of Babylon, 
 \q2 sit silently in the darkness, 
-\q because people will never again say that your city is like \f + \fk metaphor \f* a queen that rules many kingdoms.
+\q because people will never again say that your city is like \\f + \\ft metaphor \\f* a queen that rules many kingdoms.
 \q
 \v 6 I was angry with the people whom I chose \add to belong to me\add*,
 \q2 and I punished them. 
 \q I allowed you \add people of Babylon\add* to conquer them. 
 \q But \add when you conquered them\add*, you did not act mercifully toward them.
-\q2 You ◄oppressed/treated cruelly► \f + \fk metaphor \f* even the old people. 
+\q2 You ◄oppressed\f + \ft Or: treated \f* cruelly► \\f + \\ft metaphor \\f* even the old people. 
 \q
 \v 7 You said, ‘We will rule \add other nations\add* forever; 
 \q2 \add it is as though our city\add* will be the queen \add of the
@@ -62,11 +62,11 @@ you\add*.
 \q2 and you will not be able to prevent them by working magic. 
 \q You will experience disasters, 
 \q2 and you will not be able to pay anyone to prevent those things from happening.
-\q ◄A catastrophe/Something terrible► will happen to you suddenly,
+\q ◄A catastrophe\f + \ft Or: Something \f* terrible► will happen to you suddenly,
 \q2 something that you will not realize \add is about to happen\add*.
 \b
 \q
-\v 12 So you can continue to perform all your magic spells \f + \fk irony \f*!
+\v 12 So you can continue to perform all your magic spells \\f + \\ft irony \\f*!
 \q2 You can perform the many kinds of sorcery that you have practiced for many years!
 \q Perhaps \add doing those things will enable you to\add* be successful;
 \q2 perhaps you will be able to cause your enemies to be afraid of you!
@@ -77,9 +77,9 @@ have become tired!
 \q2 should come forward and rescue you \add from the disasters that you are about to
 experience\add*. 
 \q
-\v 14 But \add they cannot do that, because\add* they are like \f + \fk simile \f* straw that is burning in a fire;
+\v 14 But \add they cannot do that, because\add* they are like \\f + \\ft simile \\f* straw that is burning in a fire;
 \q2 they cannot save themselves from being burned up in the flames.
-\q Those men are unable to help you \f + \fk metaphor \f*; 
+\q Those men are unable to help you \\f + \\ft metaphor \\f*; 
 \q2 they are as useless as stubble \add that burns quickly and produces no
 heat\add* for you. 
 \q

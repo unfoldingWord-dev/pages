@@ -19,7 +19,7 @@ what I did’, you must continue forgiving him.”
 \v 5  \add One day\add* the apostles said to the Lord, “Help us to trust
 \add in you\add* \f + \ft (OR\add , in God\add*) more strongly!” 
 \v 6 The Lord replied, “Mustard \add seeds are very small, but in this area they grow and produce
-large\add* \f + \fk metaphor \f* \add plants\add*. \add Similarly\add*, if your faith grows until you truly believe that God
+large\add* \\f + \\ft metaphor \\f* \add plants\add*. \add Similarly\add*, if your faith grows until you truly believe that God
 \add will do what you ask him to, you will be able to do anything\add*. You could
 \add even\add* say to this mulberry tree, ‘Pull yourself out \add with your
 roots\add* and plant yourself in the sea!’ and it would obey you!”
@@ -28,11 +28,11 @@ roots\add* and plant yourself in the sea!’ and it would obey you!”
 \p
 \v 7  \add Jesus also said\add*, “Suppose that one of you had a servant who was plowing
 \add your fields\add* or taking care of your sheep. After he comes into the house from the field,
-you\add (sg)\add* would not say \f + \fk rhetorical question \f*, ‘Sit down and eat immediately!’
+you\add (sg)\add* would not say \\f + \\ft rhetorical question \\f*, ‘Sit down and eat immediately!’
 \v 8 Instead, you would say to him, ‘Put on your apron and prepare a meal for me! Then serve it to me so that I can eat and
 drink it! Afterwards you\add (sg)\add* can eat and drink.’ 
-\v 9 ◄You will not thank your servant for doing the work that he had been told {you had told him} to do!/Would you thank your
-servant because he did the work that he had been told {you had told him} to do?► \f + \fk rhetorical question \f*
+\v 9 ◄You will not thank your servant for doing the work that he had been told {you had told him} to do!\f + \ft Or: Would \f* you thank your
+servant because he did the work that he had been told {you had told him} to do?► \\f + \\ft rhetorical question \\f*
 \v 10 Similarly, when you\add (pl)\add* have done everything that
 \add God\add* has told you to do, you should say, ‘We\add (inc)\add* are not worthy
 \add of God thanking us\add* {\add being thanked\add*}. We are only God's servants. We have only done the things that he told
@@ -52,18 +52,18 @@ us to do.’”
 \v 16 He \add came to Jesus\add*, prostrated himself at Jesus' feet, and thanked him. This man was a Samaritan,
 \add not a Jew\add*. 
 \v 17 Then Jesus said, “\add I\add* healed ten \add lepers\add*! ◄I am disappointed that the other nine did not come
-back!/Where are the other nine?► \f + \fk rhetorical question \f* 
-\v 18 I am disappointed \f + \fk rhetorical question \f* that this non-Jewish man was the only one who returned to thank God; none of the others came back
+back!\f + \ft Or: Where \f* are the other nine?► \\f + \\ft rhetorical question \\f* 
+\v 18 I am disappointed \\f + \\ft rhetorical question \\f* that this non-Jewish man was the only one who returned to thank God; none of the others came back
 to me!” 
 \v 19 Then he said to the man, “Get up and continue on your journey.
-\add God\add* \f + \fk personification \f* \add has saved you and\add* healed you\add (sg)\add* because you trusted
+\add God\add* \\f + \\ft personification \\f* \add has saved you and\add* healed you\add (sg)\add* because you trusted
 \add in me\add*.” 
 \s Luke 17:20-21 
 \s Jesus taught that God's rule is within our lives. 
 \p
-\v 20  \add One day\add* Jesus was asked by \add some\add* Pharisees \f + \fk synecdoche \f*
-{\add some\add* Pharisees \f + \fk synecdoche \f* asked \add Jesus\add*}, “When is God
-\add going\add* to rule as king?” He replied, “God's ruling \f + \fk metaphor \f* is not something people will be able to see with their eyes.
+\v 20  \add One day\add* Jesus was asked by \add some\add* Pharisees \\f + \\ft synecdoche \\f*
+{\add some\add* Pharisees \\f + \\ft synecdoche \\f* asked \add Jesus\add*}, “When is God
+\add going\add* to rule as king?” He replied, “God's ruling \\f + \\ft metaphor \\f* is not something people will be able to see with their eyes.
 \v 21 And people will not be able to say, ‘Look! He is \add ruling\add* here!’ Or ‘He is
 \add ruling\add* there!’ because, \add contrary to what you think\add*, God's ruling is within people's inner beings (OR, is
 already happening among you).” 
@@ -71,19 +71,19 @@ already happening among you).”
 \s Jesus told his disciples that without warning he would return and judge people.
 \p
 \v 22  \add Jesus\add* said to his disciples, “There will be a time when you will want to see
-\add me\add* \f + \fk metonymy \f*, the one who came from heaven, \add ruling powerfully\add*. But you will not see that.
+\add me\add* \\f + \\ft metonymy \\f*, the one who came from heaven, \add ruling powerfully\add*. But you will not see that.
 \v 23  \add Some\add* people will say to you, ‘Look, \add the Messiah\add* is over there!’ or
 \add they will say\add* ‘Look, he is here!’ When they say that, do not believe them. Do not follow them
 \add to go see the Messiah\add*. 
 \v 24 Because when the lightning flashes and lights up the sky from one side to the other,
-\add everyone can see it. Similarly\add* \f + \fk simile \f*, at the time \f + \fk metonymy \f* when
+\add everyone can see it. Similarly\add* \\f + \\ft simile \\f*, at the time \\f + \\ft metonymy \\f* when
 \add I\add*, the one who came from heaven, come back again, \add everyone will see
 me\add*. 
 \v 25 But before that happens, I must suffer in many ways (OR, very much). And I will be rejected by people {people will reject
 me}, \add even though\add* they \add have observed me doing good for
 people\add*. 
 \v 26 But when \add I\add*, the one who came from heaven, \add come again,
-people\add* will be doing things just like people were doing at the time when \f + \fk metonymy \f* Noah
+people\add* will be doing things just like people were doing at the time when \\f + \\ft metonymy \\f* Noah
 \add lived\add*. 
 \v 27  \add At that time\add* people ate and drank \add as usual\add*, and they got married
 \add as usual\add*, up until the day when Noah \add and his family\add* entered the big boat. But then the flood came and
@@ -114,5 +114,5 @@ heaven\add*, and the other one will be left \add behind and punished\add* {and
 {\add God\add* will take one and leave the other} \add behind\add*.”
 \v 37  \add His disciples\add* said to him, “Lord, where \add will this
 happen\add*?” He replied to them, “Wherever there is an animal carcass, the vultures will gather
-\add to eat it\add* \f + \fk metaphor \f*. \add Similarly, wherever there are people who are spiritually dead, God will punish
+\add to eat it\add* \\f + \\ft metaphor \\f*. \add Similarly, wherever there are people who are spiritually dead, God will punish
 them\add*.” 

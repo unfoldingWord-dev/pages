@@ -15,17 +15,17 @@ Persia\add*
 \q I will smash down bronze gates 
 \q2 and cut through iron bars. 
 \q
-\v 3 I will give you treasures \add that people have hidden\add* in dark secret places \f + \fk doublet \f*.
+\v 3 I will give you treasures \add that people have hidden\add* in dark secret places \\f + \\ft doublet \\f*.
 \q I will do that in order that you will know that I am Yahweh, 
 \q2 the God to whom the Israelis belong, 
 \q2 the God who calls you by your name. 
 \q
 \v 4 I have summoned you, calling out your name, 
-\q2 for the sake of \add the people of\add* Israel \f + \fk doublet \f* whom I have chosen, who serve me.
+\q2 for the sake of \add the people of\add* Israel \\f + \\ft doublet \\f* whom I have chosen, who serve me.
 \q Even though you do not know me, 
 \q2 I will give you a title which has great honor. 
 \q
-\v 5 I am Yahweh, and there is no other God \f + \fk doublet \f*. 
+\v 5 I am Yahweh, and there is no other God \\f + \\ft doublet \\f*. 
 \q Even though you do not know me, 
 \q2 I will give you power 
 \q
@@ -39,41 +39,41 @@ Persia\add*
 \b
 \q
 \v 8  \add And Yahweh also says, “I want my\add* rescue \add of my
-people\add* \f + \fk metaphor \f* to fall from the sky like rain. 
+people\add* \\f + \\ft metaphor \\f* to fall from the sky like rain. 
 \q Just like the earth opens wide to accept rain, 
-\q2 I will rescue/save my people and cause them to be treated justly.
+\q2 I will rescue\f + \ft Or: save \f* my people and cause them to be treated justly.
 \q I, Yahweh, am the one who will cause both of those things to happen.
 \b
 \q
 \v 9 Terrible things will happen to those who argue with me, the one who created them.
-\q2 \add They are like\add* \f + \fk metaphor \f* a clay pot and \add I am like\add* the one who made it;
-\q2 so they certainly cannot \f + \fk rhetorical question \f* criticize me. 
-\q A lump of clay certainly cannot \f + \fk rhetorical question \f* argue with the one who shapes it
+\q2 \add They are like\add* \\f + \\ft metaphor \\f* a clay pot and \add I am like\add* the one who made it;
+\q2 so they certainly cannot \\f + \\ft rhetorical question \\f* criticize me. 
+\q A lump of clay certainly cannot \\f + \\ft rhetorical question \\f* argue with the one who shapes it
 \add to form a pot\add*, saying, 
 \q2 ‘Why are you making me like this?’ 
 \q The pot cannot say ‘\add You have no skill, because\add* what you made has no handles!’
 \q
 \v 10 And it would be terrible if an unborn baby would say to its father,
-\q2 ‘Why are you \f + \fk rhetorical question \f* causing me to be born?’ 
+\q2 ‘Why are you \\f + \\ft rhetorical question \\f* causing me to be born?’ 
 \q or if it said to its mother, 
 \q2 ‘The result of your labor pains will be useless?’ ” 
 \b
 \q
 \v 11 Yahweh, the Holy One of the Israeli people, the one who created Israel, says this to them:
-\q2 “◄Why do you ask questions about \add what I do for you\add*, my children?/You should not ask questions about
-\add what I do for you\add*, my children.► \f + \fk rhetorical question \f* 
-\q ◄Why do you tell me about the work that I should do?/You should not tell me about the work that I should do.► \f + \fk rhetorical question \f*
+\q2 “◄Why do you ask questions about \add what I do for you\add*, my children?\f + \ft Or: You \f* should not ask questions about
+\add what I do for you\add*, my children.► \\f + \\ft rhetorical question \\f* 
+\q ◄Why do you tell me about the work that I should do?\f + \ft Or: You \f* should not tell me about the work that I should do.► \\f + \\ft rhetorical question \\f*
 \q
 \v 12 I am the one who created the earth 
 \q2 and created people to live on it. 
 \q I stretched out the sky with my hands, 
 \q2 and I put the stars in their places. 
 \q
-\v 13 And I will appoint Cyrus to do things that are right/just,
-\q2 and I will enable him to do all those things easily \f + \fk metaphor \f*. 
+\v 13 And I will appoint Cyrus to do things that are right\f + \ft Or: just \f*,
+\q2 and I will enable him to do all those things easily \\f + \\ft metaphor \\f*. 
 \q His workers will rebuild my city, 
-\q2 and he will free my people who have been ◄exiled/forced to leave their country►.
-\q And he will do it without my rewarding/paying him! 
+\q2 and he will free my people who have been ◄exiled\f + \ft Or: forced \f* to leave their country►.
+\q And he will do it without my rewarding\f + \ft Or: paying \f* him! 
 \q2 \add Those things will surely happen because\add* I, the Almighty Commander of the armies of angels, have said it.”
 \b
 \p
@@ -84,7 +84,7 @@ people\add* \f + \fk metaphor \f* to fall from the sky like rain.
 \q2 and it will all be yours. 
 \q They will have chains on their arms as they follow you. 
 \q They will prostrate themselves in front of you and say, 
-\q2 ‘God is with/helping you 
+\q2 ‘God is with\f + \ft Or: helping \f* you 
 \q and he is the only God; 
 \q2 there is no other God.’ ” 
 \b
@@ -112,7 +112,7 @@ people\add* \f + \fk metaphor \f* to fall from the sky like rain.
 \q2 or \add hide what I was saying by speaking\add* in a dark place.
 \q When I spoke to the descendants of Jacob, 
 \q2 I did not tell them 
-\q ‘It will be useless for you to ◄seek for/pray to► me!’ 
+\q ‘It will be useless for you to ◄seek for\f + \ft Or: pray \f* to► me!’ 
 \q2 I, Yahweh, speak only what is true and what is right. 
 \b
 \q
@@ -125,8 +125,8 @@ people\add* \f + \fk metaphor \f* to fall from the sky like rain.
 \add your praying to idols is good\add*. 
 \q2 \add And when you do that, I will ask you\add*, 
 \q ‘Who predicted long ago \add what has now happened\add*? 
-\q2 Did any idol tell you \add that those things would happen\add* \f + \fk rhetorical question \f*?’
-\q No, it was \f + \fk rhetorical question \f* only I, Yahweh, who told you, 
+\q2 Did any idol tell you \add that those things would happen\add* \\f + \\ft rhetorical question \\f*?’
+\q No, it was \\f + \\ft rhetorical question \\f* only I, Yahweh, who told you, 
 \q2 because I am the only God; there is no other God. 
 \q I am a God who acts righteously and saves people; 
 \q2 there is no other one \add who does these things\add*. 
@@ -137,9 +137,9 @@ people\add* \f + \fk metaphor \f* to fall from the sky like rain.
 \q2 there is no other one. 
 \q
 \v 23 I have solemnly declared, using my own name; 
-\q2 I \f + \fk synecdoche \f* have spoken what is true, 
+\q2 I \\f + \\ft synecdoche \\f* have spoken what is true, 
 \q2 and I will never change what I have said: 
-\q \add Some day\add*, everyone \f + \fk synecdoche \f* will bow in front of me, 
+\q \add Some day\add*, everyone \\f + \\ft synecdoche \\f* will bow in front of me, 
 \q2 and they will all solemnly promise to be loyal to me. 
 \q
 \v 24 They will declare, 

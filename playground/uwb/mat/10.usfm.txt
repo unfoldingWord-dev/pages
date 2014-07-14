@@ -2,7 +2,7 @@
 \s Matthew 10:1-15 
 \s Jesus selected twelve apostles and instructed them before sending them out to various places.
 \p
-\v 1 He told\add us\add* twelve disciples to come to him. Then he gave us the power/authority to expel evil spirits
+\v 1 He told\add us\add* twelve disciples to come to him. Then he gave us the power\f + \ft Or: authority \f* to expel evil spirits
 \add that controlled people\add*. He also enabled\add us\add* to heal all people who had diseases or who were sick.
 \v 2  \add Here is a list of us\add* twelve \add disciples whom he
 called\add* apostles (\add which means ‘messengers’\add*): Simon,
@@ -15,25 +15,25 @@ government;\add* and Judas Iscariot, who \add later\add* enabled
 \add the Jewish leaders\add* to seize Jesus. 
 \p
 \v 5 When Jesus was \add about to\add* send \add us\add* twelve \add apostles to tell his message to people in various
-places\add*, he gave\add us\add* these instructions: “Do not go where the non-Jews live \f + \fk metonymy \f* or into the towns
+places\add*, he gave\add us\add* these instructions: “Do not go where the non-Jews live \\f + \\ft metonymy \\f* or into the towns
 \add where the\add* Samaritans live, \add because they hate you\add*.
-\v 6 Instead, go to the people of Israel \f + \fk synecdoche \f* who have\add gone away from God
-like\add* sheep that have gotten lost \f + \fk metaphor \f* have gone away \add from their
+\v 6 Instead, go to the people of Israel \\f + \\ft synecdoche \\f* who have\add gone away from God
+like\add* sheep that have gotten lost \\f + \\ft metaphor \\f* have gone away \add from their
 shepherd\add*. 
-\v 7 When you go \add to them\add*, proclaim to them that God [EUP/MTY] will soon begin to rule over people.
+\v 7 When you go \add to them\add*, proclaim to them that God [EUP\f + \ft Or: MTY \f*] will soon begin to rule over people.
 \v 8 Heal sick people, cause dead people to become alive, heal people who have leprosy, and cause demons to leave people
 \add who are controlled by them\add* {\add whom demons control\add*}. Do not charge money
 \add for helping people, because God\add* did not charge you anything
 \add for helping you\add*. 
-\v 9-10 Do not take any money with you \f + \fk metonymy \f*, nor a knapsack. Do not take an extra shirt, nor sandals
+\v 9-10 Do not take any money with you \\f + \\ft metonymy \\f*, nor a knapsack. Do not take an extra shirt, nor sandals
 \add in addition to what you are wearing\add*, nor a walking stick. Every worker deserves to get pay
 \add from the people for whom he works\add*, \add so you deserve to receive food and a place to stay from the people to whom
 you go\add*. 
 \v 11-12 In whatever town or village you enter, find out which person is worthy
 \add that you should stay in his home\add*. And as you go into that house,
-\add ask God to\add* bless the people \add who live there\add* \f + \fk metonymy \f*. Stay in that home until you leave
+\add ask God to\add* bless the people \add who live there\add* \\f + \\ft metonymy \\f*. Stay in that home until you leave
 \add that town or village\add*. 
-\v 13 If the people who live in \f + \fk metonymy \f* that house are worthy \add of being
+\v 13 If the people who live in \\f + \\ft metonymy \\f* that house are worthy \add of being
 blessed\add* {\add God blessing them\add*}, \add God\add* will bless them. If the people who live in that house are not worthy
 \add of being blessed\add* {\add of God blessing them\add*}\add ,
 God\add* will bless you \add instead of blessing them\add*. 
@@ -42,17 +42,17 @@ God\add* will bless you \add instead of blessing them\add*.
 from your feet. \add By doing that, you will warn them that God will punish them for rejecting your
 message\add*. 
 \v 15 Note this carefully: \add At the time when God\add* judges
-\add all people, he\add* will punish \add the people who lived in\add* Sodom and Gomorrah \f + \fk metonymy \f*,
+\add all people, he\add* will punish \add the people who lived in\add* Sodom and Gomorrah \\f + \\ft metonymy \\f*,
 \add the ancient cities which God destroyed because their people were extremely
-wicked\add*. But in any town where the people \f + \fk metonymy \f* refused to hear your message, God will punish them very severely.”
+wicked\add*. But in any town where the people \\f + \\ft metonymy \\f* refused to hear your message, God will punish them very severely.”
 \s Matthew 10:16-25 
 \s Jesus instructed his disciples to be wary of their religious leaders and to endure when they are persecuted by people who
 refuse to accept the new message. 
 \p
-\v 16 “Take note: After I send you out, \add you will be as defenseless\add* as sheep \f + \fk metaphor \f* in the midst of
+\v 16 “Take note: After I send you out, \add you will be as defenseless\add* as sheep \\f + \\ft metaphor \\f* in the midst of
 \add people who are as dangerous as\add* wolves. You, \add on your part,
 should\add* wisely \add stay away from such people, like you stay away from
-poisonous\add* snakes \f + \fk simile \f*. You should be as harmless as doves are \f + \fk simile \f*.
+poisonous\add* snakes \\f + \\ft simile \\f*. You should be as harmless as doves are \\f + \\ft simile \\f*.
 \v 17 Also, be on guard against \add our religious leaders\add*. They will arrest you and take you to the members of the
 religious councils \add to put you on trial and punish you because you are my
 disciples\add*. You will be whipped {The local leaders will whip you}
@@ -70,7 +70,7 @@ will\add* take you} to the authorities to be killed\add because you believe in m
 example\add*, people will do that to their brothers, and fathers will do that to their children. Children will rebel against
 their parents and cause\add them\add* to be killed. 
 \v 22 Many people will hate you \add because you believe in me\add*. Nevertheless,
-\add many people\add* will keep on believing in me until they die \f + \fk euphemism \f*. They are the people whom
+\add many people\add* will keep on believing in me until they die \\f + \\ft euphemism \\f*. They are the people whom
 \add God\add* will take to live with him. 
 \v 23 When people in one town cause you to suffer, escape to another town
 \add and tell the people there about me\add*. Note this: \add I\add*, the one who came down from heaven, will certainly return
@@ -83,30 +83,30 @@ their parents and cause\add them\add* to be killed.
 \add they treat\add* his teacher, or that\add they will treat\add* a servant
 \add better than they treat\add* his master. \add Similarly, because I am your teacher and master, you can expect that people
 will mistreat you, because they have mistreated me\add*. The most you can expect is that people
-\add will treat you like they treat me. I am like\add* the ruler of a household \f + \fk metaphor \f*. But people
+\add will treat you like they treat me. I am like\add* the ruler of a household \\f + \\ft metaphor \\f*. But people
 \add have insulted me by\add* calling \add me\add* Beelzebub, \add the ruler of the
 demons\add*. So they \add will\add* certainly \add insult you more, you who are only
-like\add* members of my household \f + \fk metaphor \f*!” 
+like\add* members of my household \\f + \\ft metaphor \\f*!” 
 \s Matthew 10:26-33 
 \s Jesus instructed his disciples that they should not fear those who persecute them.
 \p
 \v 26 “Do not be afraid of \add people who insult you and do evil things to you. God
 wants\add* everything that is unknown now to be revealed {\add God wants you
 to\add* reveal everything \add that is unknown now\add*}. \add He
-does\add* not \add want his truth\add* to remain hidden \f + \fk metaphor \f* and kept secret \f + \fk doublet \f*.
+does\add* not \add want his truth\add* to remain hidden \\f + \\ft metaphor \\f* and kept secret \\f + \\ft doublet \\f*.
 \v 27  \add So, instead of being afraid\add*, what I say to you \add secretly as people
-do\add* at night \f + \fk metonymy \f*, tell \add publicly as people do\add* during the daytime \f + \fk metonymy \f*. What I
-\add say to you privately as people do when they\add* whisper to you \f + \fk metonymy \f*, proclaim publicly [MTY, DOU].
-\v 28 Do not be afraid of people who \add are able to\add* kill your body \f + \fk synecdoche \f* but are not able to destroy your soul. Instead,
+do\add* at night \\f + \\ft metonymy \\f*, tell \add publicly as people do\add* during the daytime \\f + \\ft metonymy \\f*. What I
+\add say to you privately as people do when they\add* whisper to you \\f + \\ft metonymy \\f*, proclaim publicly [MTY, DOU].
+\v 28 Do not be afraid of people who \add are able to\add* kill your body \\f + \\ft synecdoche \\f* but are not able to destroy your soul. Instead,
 fear \add God because\add* he is able to destroy both a \add person's\add* body and a
 \add person's\add* soul in hell. 
 \v 29  \add Think about the\add* sparrows. \add They have so little
-value\add* that \add you\add* can buy two of them for \add only\add* one small coin \f + \fk rhetorical question \f*. But when
-\add any\add* sparrow falls to the ground \add and dies\add* \f + \fk litotes \f*,
+value\add* that \add you\add* can buy two of them for \add only\add* one small coin \\f + \\ft rhetorical question \\f*. But when
+\add any\add* sparrow falls to the ground \add and dies\add* \\f + \\ft litotes \\f*,
 \add God\add*, your \add heavenly\add* Father, knows it, \add because he knows
 everything\add*. 
 \v 30  \add He knows everything about you, too\add*. He even knows how many hairs you have on your head!
-\v 31  \add God\add* values you much more than he values sparrows \f + \fk litotes \f*. So, do not be afraid
+\v 31  \add God\add* values you much more than he values sparrows \\f + \\ft litotes \\f*. So, do not be afraid
 \add of people who threaten to kill you\add*! 
 \v 32 If people, \add without being afraid, are willing to\add* tell others
 \add that they are my disciples\add*, I will acknowledge before my Father who is in heaven
@@ -118,7 +118,7 @@ my\add disciples\add*, I will tell my Father, who is in heaven, \add that\add* t
 \s Jesus instructed his disciples that they should be willing to suffer because of their faith in him.
 \p
 \v 34 “Do not think that I came to earth to cause \add people\add* to live together harmoniously. The result of my coming is
-that \add some of those who follow me\add* \f + \fk metonymy \f* will be killed.
+that \add some of those who follow me\add* \\f + \\ft metonymy \\f* will be killed.
 \v 35 Because I came \add to earth, people who do not believe in
 me\add* will oppose \add those who do believe in me. For example\add*, some sons will oppose their fathers, some daughters will
 oppose their mothers, and some daughters-in-law will oppose their mothers-in-law.
@@ -128,23 +128,23 @@ love\add* me are not worthy to \add have a relationship with me\add*. And people
 \add they love\add* me are not worthy \add to belong to\add* me.
 \v 38  \add People who are ready to execute a prisoner force him
 to\add* carry a cross \add to the place where they will nail him to
-it\add* \f + \fk metaphor \f*. Those who are not \add willing to allow other people to hurt and disgrace them like that because of being my
+it\add* \\f + \\ft metaphor \\f*. Those who are not \add willing to allow other people to hurt and disgrace them like that because of being my
 disciples\add* are not worthy to belong to me. 
 \v 39 People who \add deny that they believe in me in order to escape being
-killed\add* will not live \add with God eternally\add* \f + \fk metaphor \f*, but people who
+killed\add* will not live \add with God eternally\add* \\f + \\ft metaphor \\f*, but people who
 \add confess that they believe in\add* me and, \add as a result are\add* killed, will live
-\add with God eternally\add* \f + \fk metaphor \f*.” 
+\add with God eternally\add* \\f + \\ft metaphor \\f*.” 
 \s Matthew 10:40-42 
 \s Jesus instructed his apostles about the people whom God rewards, and then he sent them to various towns.
 \p
-\v 40 “\add God considers that\add* everyone who welcomes you, welcomes me \f + \fk simile \f*, and
-\add he considers that\add* everyone who welcomes me welcomes \add him\add*, the one who sent me \f + \fk simile \f*.
-\v 41 Those who welcome \add someone because\add* \f + \fk metonymy \f* \add they
+\v 40 “\add God considers that\add* everyone who welcomes you, welcomes me \\f + \\ft simile \\f*, and
+\add he considers that\add* everyone who welcomes me welcomes \add him\add*, the one who sent me \\f + \\ft simile \\f*.
+\v 41 Those who welcome \add someone because\add* \\f + \\ft metonymy \\f* \add they
 know\add* that person is a prophet they will receive the \add same\add* reward that prophets
 \add receive from God. Likewise\add*, those who welcome a person
-\add because\add* \f + \fk metonymy \f* \add they know\add* that person is righteous they will receive the reward righteous people
+\add because\add* \\f + \\ft metonymy \\f* \add they know\add* that person is righteous they will receive the reward righteous people
 \add receive from God\add*. 
 \v 42  \add Note this\add*: Suppose people \add see that you are
-thirsty\add* \f + \fk metonymy \f* \add and\add* give you a drink of cold water because they know that \f + \fk metonymy \f* you are one of my disciples.
+thirsty\add* \\f + \\ft metonymy \\f* \add and\add* give you a drink of cold water because they know that \\f + \\ft metonymy \\f* you are one of my disciples.
 \add God\add* will certainly reward people who do that\add . They might consider that what they
-did\add* is insignificant, \add but God will consider it very significant\add*.” \f + \fk litotes \f*
+did\add* is insignificant, \add but God will consider it very significant\add*.” \\f + \\ft litotes \\f*

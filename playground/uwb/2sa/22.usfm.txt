@@ -3,12 +3,12 @@
 \p
 \v 1 After Yahweh had rescued David from Saul and his other enemies, David sang a song to Yahweh.
 \v 2  \add This is what\add* he sang: 
-\q Yahweh, you are like a huge rock \add under which I can hide\add* \f + \fk metaphor \f*;
+\q Yahweh, you are like a huge rock \add under which I can hide\add* \\f + \\ft metaphor \\f*;
 \q2 you are like my fortress, and you rescue me. 
 \q
 \v 3 Yahweh, you protect me; you are like a shield; 
-\q2 you are the powerful one \f + \fk metaphor \f* who saves me; 
-\q you are like a place where I ◄find refuge/am safe►. 
+\q2 you are the powerful one \\f + \\ft metaphor \\f* who saves me; 
+\q you are like a place where I ◄find refuge\f + \ft Or: am \f* safe►. 
 \q2 You save me from those who act violently toward me. 
 \q
 \v 4 I call out to you, Yahweh; 
@@ -16,20 +16,20 @@
 \q2 and you rescue me from my enemies. 
 \b
 \q
-\v 5 I almost died \f + \fk personification \f*; it was like \f + \fk metaphor \f* a huge wave had crashed over me,
+\v 5 I almost died \\f + \\ft personification \\f*; it was like \\f + \\ft metaphor \\f* a huge wave had crashed over me,
 \q and almost destroyed me like a flood. 
 \q
 \v 6 I thought that I would die; it was as though death wrapped ropes around me;
 \q2 it was as though I was in a trap where I would surely die. [PRS, MET]
 \q
-\v 7 But when I was ◄very distressed/in great trouble►, I called out to you, Yahweh;
+\v 7 But when I was ◄very distressed\f + \ft Or: in \f* great trouble►, I called out to you, Yahweh;
 \q2 I cried out to you, my God. 
 \q And from your temple you heard me; 
 \q2 you listened when I called to you to help me. 
 \b
 \q
 \v 8 Then \add it was as though\add* the earth quaked and shook;
-\q2 \add it was as though\add* the foundations that ◄held up/supported► the sky trembled,
+\q2 \add it was as though\add* the foundations that ◄held up\f + \ft Or: supported \f*► the sky trembled,
 \q2 because you were angry. 
 \q
 \v 9  \add It was as though\add* smoke poured out of your nostrils
@@ -39,7 +39,7 @@
 \q2 there was a thick dark \add cloud\add* under your feet. 
 \q
 \v 11 You rode \add through the sky\add* on a winged creature; 
-\q2 the wind enabled you to travel \add swiftly\add* \f + \fk metaphor \f*, like a bird.
+\q2 the wind enabled you to travel \add swiftly\add* \\f + \\ft metaphor \\f*, like a bird.
 \q
 \v 12 The darkness was around you, like a blanket; 
 \q2 thick clouds that were full of water surrounded you. 
@@ -51,7 +51,7 @@
 \q2 it was your voice, God, you who are greater than all other gods, that was heard.
 \q
 \v 15 When you sent flashes of lightning, 
-\q2 \add it was as though\add* \f + \fk metaphor \f* you shot your arrows and scattered your enemies.
+\q2 \add it was as though\add* \\f + \\ft metaphor \\f* you shot your arrows and scattered your enemies.
 \q
 \v 16 Then the bottom of the ocean was uncovered; 
 \q2 the foundations of the world could be seen 
@@ -66,7 +66,7 @@
 \q2 from those who hated me; 
 \q I \add could not defeat them because\add* they were very strong.
 \q
-\v 19 They attacked me when I was experiencing troubles/difficulties,
+\v 19 They attacked me when I was experiencing troubles\f + \ft Or: difficulties \f*,
 \q2 but Yahweh, you protected me. 
 \q
 \v 20 You brought me into a place where I was safe; 
@@ -74,7 +74,7 @@
 \b
 \q
 \v 21 Yahweh, you rewarded me because I do what is right; 
-\q2 you did good things for me because I ◄was innocent/had not done things that are wrong►.
+\q2 you did good things for me because I ◄was innocent\f + \ft Or: had \f* not done things that are wrong►.
 \q
 \v 22 Yahweh, I have obeyed yours laws; 
 \q2 I have not turned away from you, my God. 
@@ -86,45 +86,45 @@
 \q2 I have kept myself from doing things for which I should be punished.
 \q
 \v 25 So you have rewarded me in return for my doing what is right,
-\q2 because \add you know that\add* I ◄am innocent of doing/have not done► wrong things.
+\q2 because \add you know that\add* I ◄am innocent of doing\f + \ft Or: have \f* not done► wrong things.
 \b
 \q
-\v 26 Yahweh, you are faithful/loyal to those who are always trust in you;
+\v 26 Yahweh, you are faithful\f + \ft Or: loyal \f* to those who are always trust in you;
 \q2 you always do what is good to those whose behavior is always good.
 \q
 \v 27 You act sincerely toward those whose inner beings are pure,
-\q2 but you are hostile to those who are perverse/wicked. 
+\q2 but you are hostile to those who are perverse\f + \ft Or: wicked \f*. 
 \q
 \v 28 You rescue those who are humble, 
-\q2 but you watch \f + \fk metonymy \f* those who are proud and humiliate them. 
+\q2 but you watch \\f + \\ft metonymy \\f* those who are proud and humiliate them. 
 \q
-\v 29 Yahweh, you are \add like\add* \f + \fk metaphor \f* a lamp 
+\v 29 Yahweh, you are \add like\add* \\f + \\ft metaphor \\f* a lamp 
 \q2 that causes it to become light when I am in the darkness. 
 \q
-\v 30 With your strength/help I can run through a line of enemy soldiers
+\v 30 With your strength\f + \ft Or: help \f* I can run through a line of enemy soldiers
 \q2 and I can climb over the wall \add that surrounds their city\add*.
 \b
 \q
 \v 31 My God whom I worship, everything that you do is perfect; 
 \q2 you always do what you promise that you will do. 
-\q You are like a shield \f + \fk metaphor \f* to all those who request you to protect them.
+\q You are like a shield \\f + \\ft metaphor \\f* to all those who request you to protect them.
 \q
-\v 32 Yahweh, you are \f + \fk rhetorical question \f* the only one who is God; 
-\q2 only you are like a huge rock \f + \fk metaphor \f* \add under which we are protected/safe\add*.
+\v 32 Yahweh, you are \\f + \\ft rhetorical question \\f* the only one who is God; 
+\q2 only you are like a huge rock \\f + \\ft metaphor \\f* \add under which we are protected\f + \ft Or: safe \f*\add*.
 \q
 \v 33 God, you \add whom I worship\add* are a strong refuge for me;
 \q2 you keep me safe on the roads that I \add walk on\add*. 
 \q
 \v 34  \add When I walk\add* in the mountains, 
-\q2 you enable me to walk safely, without stumbling \f + \fk metaphor \f* 
+\q2 you enable me to walk safely, without stumbling \\f + \\ft metaphor \\f* 
 \q2 like a deer runs. 
 \q
 \v 35 You teach me \add how to fight\add* in a battle 
 \q2 in order that I can shoot arrows well from a very strong bow.
 \q
-\v 36  \add It is as though\add* \f + \fk metaphor \f* you have given me a shield
-\q2 by which you have saved/rescued me, 
-\q2 and you have answered my prayers and caused me to become famous/great.
+\v 36  \add It is as though\add* \\f + \\ft metaphor \\f* you have given me a shield
+\q2 by which you have saved\f + \ft Or: rescued \f* me, 
+\q2 and you have answered my prayers and caused me to become famous\f + \ft Or: great \f*.
 \q
 \v 37 You have not allowed \add my enemies\add* to capture me [IDI],
 \q2 and I have not fallen down \add during battles\add*. 
@@ -142,16 +142,16 @@
 \v 41 You caused my enemies to turn and run away from me; 
 \q2 I destroyed those who hated me. 
 \q
-\v 42 They ◄looked for/wanted► someone to rescue them, but no one did.
+\v 42 They ◄looked for\f + \ft Or: wanted \f*► someone to rescue them, but no one did.
 \q2 They cried out to you, Yahweh, \add for help\add*, but you did not answer them.
 \q
-\v 43 I crushed them, and as a result they became like \f + \fk simile \f* tiny particles of dust.
-\q2 I trampled them, and they became like \f + \fk simile \f* mud in the streets.
+\v 43 I crushed them, and as a result they became like \\f + \\ft simile \\f* tiny particles of dust.
+\q2 I trampled them, and they became like \\f + \\ft simile \\f* mud in the streets.
 \b
 \q
 \v 44 You rescued me from those who tried to rebel \add against me\add*,
 \q2 and you appointed me to rule many nations; 
-\q2 people whom I did not know previously are now ◄under my authority/my slaves►.
+\q2 people whom I did not know previously are now ◄under my authority\f + \ft Or: my \f* slaves►.
 \q
 \v 45 Foreigners humbly bowed down in front of me; 
 \q2 as soon as they heard about me, they obeyed me. 
@@ -160,12 +160,12 @@
 \q2 and they came to me, trembling, from the places where they were hiding.
 \b
 \q
-\v 47 Yahweh, you are alive! I praise you! You are like \f + \fk metaphor \f* a huge rock under which I am safe/protected!
-\q2 You are the one who rescues me \f + \fk metaphor \f*. 
-\q2 Everyone should exalt/honor/praise you. 
+\v 47 Yahweh, you are alive! I praise you! You are like \\f + \\ft metaphor \\f* a huge rock under which I am safe\f + \ft Or: protected \f*!
+\q2 You are the one who rescues me \\f + \\ft metaphor \\f*. 
+\q2 Everyone should exalt\f + \ft Or: honor \f*\f + \ft Or: praise \f* you. 
 \q
 \v 48 You enable me to conquer my enemies; 
-\q2 you cause people of \add other\add* nations to be ◄under my authority/my slaves►.
+\q2 you cause people of \add other\add* nations to be ◄under my authority\f + \ft Or: my \f* slaves►.
 \q
 \v 49 You delivered me from my enemies; 
 \q you caused me to be honored more than they were; 

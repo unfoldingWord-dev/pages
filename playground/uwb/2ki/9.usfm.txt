@@ -13,13 +13,13 @@ king of Israel.’ Then open the door and run away as quickly as you can.”
 \add looked at Jehu and\add* said, “Sir, I have a message for \add one
 of\add* you.” 
 \p Jehu replied, “Which one of us is the message for?” 
-\p The young prophet replied, “It is for you, commander/sir.” 
+\p The young prophet replied, “It is for you, commander\f + \ft Or: sir \f*.” 
 \p
 \v 6 So Jehu got up and went with the young prophet into a house. There the young prophet poured some
 \add olive\add* oil on Jehu's head and said to him, “Yahweh, the God whom we Israelis
 \add worship\add*, declares this: ‘I am appointing you to be the king of my Israeli people.
 \v 7 You must kill your master \add King Joram\add*, the son of Ahab, because I want to punish
-\add Ahab's wife\add* Jezebel for murdering \f + \fk metonymy \f* many of my prophets and other people who served me.
+\add Ahab's wife\add* Jezebel for murdering \\f + \\ft metonymy \\f* many of my prophets and other people who served me.
 \v 8 You must kill \add not only Joram but\add* all of Ahab's family. I want to get rid of every male in the family, including
 young ones and old ones. 
 \v 9 I will get rid of Ahab's family, like I got rid of the families of two other kings of Israel, Jeroboam and Baasha.
@@ -31,7 +31,7 @@ that mad fellow come to you?”
 \p He replied, “You know what kinds of things young prophets like him say.”
 \p
 \v 12 They said, “You are lying! Tell us what he said!” 
-\p He replied, “He told me that Yahweh said, ‘I am appointing \f + \fk metonymy \f* you to be the king of Israel.’ ”
+\p He replied, “He told me that Yahweh said, ‘I am appointing \\f + \\ft metonymy \\f* you to be the king of Israel.’ ”
 \p
 \v 13 Then they all spread their cloaks on the steps of the building for
 \add Jehu to walk out on\add*, and they blew trumpets and shouted, “Jehu is now the king!”
@@ -52,11 +52,11 @@ attack us.”
 \p
 \v 18 So a man riding a horse rode out to meet Jehu and said to him, “The king wants to know
 \add if you are coming to act\add* friendly toward us.” 
-\p Jehu replied, “This is not the time for you \f + \fk rhetorical question \f* to be concerned about acting friendly! Turn around and come behind me!”
+\p Jehu replied, “This is not the time for you \\f + \\ft rhetorical question \\f* to be concerned about acting friendly! Turn around and come behind me!”
 \p So the guard in the watchtower reported that the messenger had reached the group
 \add that was approaching\add*, but that he was not returning \add alone\add*.
 \p
-\v 19 So King Joram sent another messenger, who asked Jehu the same question. Again Jehu replied, “This is not the time \f + \fk rhetorical question \f*
+\v 19 So King Joram sent another messenger, who asked Jehu the same question. Again Jehu replied, “This is not the time \\f + \\ft rhetorical question \\f*
 for you to be concerned about acting friendly! Turn around and follow me!”
 \p
 \v 20 Then the watchman reported again, “That messenger also reached them, but he is not coming back
@@ -68,8 +68,8 @@ Ahaziah both rode toward Jehu, each one in his own chariot. And \add it happened
 that\add* they met Jehu at the field that had previously belonged to Naboth!
 \v 22 When Joram met Jehu, he said to him, “Are you coming to act peacefully toward me?”
 \p Jehu replied, “◄How can there be peace while you and your people are prostrating themselves to worship idols and practicing
-very much ‘witchcraft/sorcery’ like your mother Jezebel did?/There certainly cannot be peace while you and your people are
-prostrating themselves to worship idols and practicing very much ‘witchcraft/sorcery’ like your mother Jezebel did!►” \f + \fk rhetorical question \f*
+very much ‘witchcraft\f + \ft Or: sorcery \f*’ like your mother Jezebel did?\f + \ft Or: There \f* certainly cannot be peace while you and your people are
+prostrating themselves to worship idols and practicing very much ‘witchcraft\f + \ft Or: sorcery \f*’ like your mother Jezebel did!►” \\f + \\ft rhetorical question \\f*
 \p
 \v 23 Joram cried out, “Ahaziah, they have deceived us! \add They want to kill
 us\add*!” So Joram turned his chariot around and tried to flee. 
@@ -80,7 +80,7 @@ and\add* pierced Joram's heart, and he slumped down dead in his chariot.
 \v 25 Then Jehu said to his assistant Bidkar, “Take his corpse and throw it here into the field that belonged to Naboth.
 \add I am sure that\add* you remember that when you and I were riding together
 \add in chariots\add* behind King Joram's father Ahab, that Yahweh said this about Ahab:
-\v 26 ‘Yesterday I saw Ahab murder \f + \fk metonymy \f* Naboth and his sons here. And I solemnly promise that I will punish him right here in
+\v 26 ‘Yesterday I saw Ahab murder \\f + \\ft metonymy \\f* Naboth and his sons here. And I solemnly promise that I will punish him right here in
 this same field!’ So take Joram's corpse and throw it into that field! That will fulfill what Yahweh said would happen.”
 \s King Ahaziah of Judah was killed 
 \p
@@ -94,14 +94,14 @@ this same field!’ So take Joram's corpse and throw it into that field! That wi
 \v 29 Ahaziah had become the king of Judah when Joram had been ruling Israel for almost eleven years.
 \s Queen Jezebel was killed 
 \p
-\v 30 Then Jehu went to Jezreel. When \add Ahab's widow\add* Jezebel heard what had happened, she put paint/makeup on her
+\v 30 Then Jehu went to Jezreel. When \add Ahab's widow\add* Jezebel heard what had happened, she put paint\f + \ft Or: makeup \f* on her
 eyelids, and combed her hair to make it beautiful, and looked out the window
 \add of the palace toward the street below\add*. 
 \v 31 While Jehu was entering the city gate, she called out to him, “You
-\add are like\add* Zimri! You are a murderer! \add I think\add* you are certainly not \f + \fk rhetorical question \f* coming to act peacefully toward
+\add are like\add* Zimri! You are a murderer! \add I think\add* you are certainly not \\f + \\ft rhetorical question \\f* coming to act peacefully toward
 me!” 
 \p
-\v 32 Jehu looked up toward the window, and then he said, “Who is ◄on my side/wants to help me►? Anyone?” Two or three palace
+\v 32 Jehu looked up toward the window, and then he said, “Who is ◄on my side\f + \ft Or: wants \f* to help me►? Anyone?” Two or three palace
 officials looked down at him \add from a window\add*. 
 \v 33 Jehu said to them, “Throw her down here!” 
 \p So they threw her down, and \add when she hit the ground and died\add*, some of her blood splattered on the city wall and on
@@ -111,7 +111,7 @@ the horses \add that were pulling the chariots\add*.
 daughter \add and therefore should be buried properly\add*.” 
 \v 35 But when they went to get her corpse to bury it, all that was left was only her skull and the
 \add bones of\add* her feet and her hands. Everything else was gone.
-\v 36 When they reported this to Jehu, he said, “That is what Yahweh said would happen! He told his servant/prophet Elijah, ‘In
+\v 36 When they reported this to Jehu, he said, “That is what Yahweh said would happen! He told his servant\f + \ft Or: prophet \f* Elijah, ‘In
 the city of Jezreel, dogs will eat the flesh of Jezebel's corpse.
 \v 37 Her bones will be scattered there in Jezreel like dung, with the result that no one will be able to
 \add recognize them and\add* say, “These are Jezebel's bones.” ’ ”

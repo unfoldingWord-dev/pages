@@ -15,8 +15,8 @@ the gallows that he had just set up. The king \add saw him and\add* said, “Who
 \v 5 His servants replied, “That is Haman standing there in the courtyard.” The king said, “Bring him in
 \add here\add*!” 
 \v 6 When Haman came in, the king asked him, “What should I do for a man whom I want to honor?” Haman thought to himself,
-“◄Whom would the king like to honor more than me?/I think there is no one whom the king would like to honor more than me!►”
-\f + \fk rhetorical question \f* 
+“◄Whom would the king like to honor more than me?\f + \ft Or: I \f* think there is no one whom the king would like to honor more than me!►”
+\\f + \\ft rhetorical question \\f* 
 \v 7 So he replied to the king, “\add If there is\add* someone you wish to honor,
 \v 8 you should \add tell your servants to\add* bring out one of the robes
 \add you wear to show that you are\add* the king. Also \add tell them
@@ -24,18 +24,18 @@ to\add* bring out one of the horses you have ridden. \add Tell them
 to\add* put something on the horse's head to show that it belongs to you, the king.
 \v 9 Then tell one of your very important officials to put the robe on the man whom you want to honor, and tell that man to sit
 on the horse, and then lead the horse through the city streets. And tell that official to keep shouting, ‘This is what ◄the
-king does/is doing► for the man whom he wants to honor!’ ” 
+king does\f + \ft Or: is \f* doing► for the man whom he wants to honor!’ ” 
 \v 10 The king replied to Haman, “\add Fine\add*! Go and do what you said immediately! Get my robe and my horse, and do just
 what you suggested! Do it for Mordecai, the Jew, who is sitting \add outside\add* at the gate of the palace. Do not forget
 anything that you suggested!” 
 \v 11 So Haman did what the king said. He got the robe and the horse. He put the robe on Mordecai, and as Mordecai sat on the
-horse, Haman led the horse through the city streets proclaiming “This is what the king ◄does/is doing► for the man whom the
+horse, Haman led the horse through the city streets proclaiming “This is what the king ◄does\f + \ft Or: is \f* doing► for the man whom the
 king wants to honor!” 
 \v 12 Then, Mordecai returned \add and sat\add* at the gate of the palace. But Haman hurried home, covering his face
-\add because he felt\add* completely disgraced/humiliated. 
+\add because he felt\add* completely disgraced\f + \ft Or: humiliated \f*. 
 \v 13 He told his wife Zeresh and his friends everything that had happened to him that day. Then his wife and his friends said
-to him, “Mordecai, the man who has caused you to be completely disgraced/humiliated, is a Jew.
+to him, “Mordecai, the man who has caused you to be completely disgraced\f + \ft Or: humiliated \f*, is a Jew.
 \add It is clear that the God whom the Jews worship is fighting for
 them\add*. So you will never be able to defeat Mordecai. He will defeat you!”
-\v 14 And while they were still talking, some of the king's officials arrived to take Haman quickly to the banquet/feast that
+\v 14 And while they were still talking, some of the king's officials arrived to take Haman quickly to the banquet\f + \ft Or: feast \f* that
 Esther had prepared. 

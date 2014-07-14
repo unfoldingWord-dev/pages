@@ -2,31 +2,31 @@
 \s Laws about divorcing and remarrying 
 \p
 \v 1 “Suppose a man marries a woman and later decides that he does not want her because there is something
-offensive/disgraceful concerning her. And suppose he writes a paper in which he says that he is divorcing her, and he gives the
-paper to her \f + \fk synecdoche \f* and sends her away from his house. 
+offensive\f + \ft Or: disgraceful \f* concerning her. And suppose he writes a paper in which he says that he is divorcing her, and he gives the
+paper to her \\f + \\ft synecdoche \\f* and sends her away from his house. 
 \v 2 Then suppose that she goes and marries another man, 
 \v 3 and that man \add later also\add* decides that he does not like her, and he writes a paper in which he says that he is
 divorcing her, and he sends her away from his house. Or, suppose that the second husband dies.
 \v 4 If either of those things happen, her first husband must not marry her again. He must consider that she has become
 unacceptable to Yahweh. Yahweh would consider it to be disgusting
-\add if he married her again\add*. You must not sin \f + \fk metonymy \f* by doing that in the land that Yahweh our God is giving to you.
+\add if he married her again\add*. You must not sin \\f + \\ft metonymy \\f* by doing that in the land that Yahweh our God is giving to you.
 \s Various laws 
 \p
 \v 5 When some man has just become married, he must not \add be required
 to\add* become a soldier in the army or be required to do any other work
-\add for the government\add*. He must be ◄exempt from/allowed to not perform► such work for one year
+\add for the government\add*. He must be ◄exempt from\f + \ft Or: allowed \f* to not perform► such work for one year
 \add after being married\add*. He should stay happily with his wife for that year.
 \p
 \v 6 Anyone who lends money to someone else \add is allowed to require that person to give him something to guarantee that he
-will pay back the money that he borrowed\add*, but he must not take from him his ◄millstone/stone for grinding grain► because
+will pay back the money that he borrowed\add*, but he must not take from him his ◄millstone\f + \ft Or: stone \f* for grinding grain► because
 that would be taking \add from the other person the millstone that his family needs to make flour for baking
 bread\add* to stay alive. 
 \p
-\v 7 If someone kidnaps/steals a fellow Israeli to cause that person to become his slave or to sell him
+\v 7 If someone kidnaps\f + \ft Or: steals \f* a fellow Israeli to cause that person to become his slave or to sell him
 \add to become someone else's slave\add*, you must execute the person who did that. By doing that, you will get rid of this
 evil from among you. 
 \p
-\v 8 If you are suffering from ◄leprosy/a dreaded skin disease►, be sure to do everything that the priests, who are from the
+\v 8 If you are suffering from ◄leprosy\f + \ft Or: a \f* dreaded skin disease►, be sure to do everything that the priests, who are from the
 tribe of Levi, tell you to do. Obey carefully the instructions that I have given to them.
 \v 9 Do not forget what Yahweh our God did to Miriam, \add when she became a
 leper\add*, as your ancestors were coming out of Egypt. 
@@ -38,16 +38,16 @@ guarantee \add that he will return what he has borrowed\add*.
 \v 13 When the sun sets, take the cloak back to him, in order that he may wear it while he sleeps. If you do that, he will
 \add ask God to\add* bless you, and Yahweh our God will be pleased with you.
 \p
-\v 14 Do not mistreat any servants whom you have hired who are poor and needy \f + \fk doublet \f*, whether they are Israelis or foreigners
+\v 14 Do not mistreat any servants whom you have hired who are poor and needy \\f + \\ft doublet \\f*, whether they are Israelis or foreigners
 who are living in your town. 
-\v 15 Every day, before sunset, you must pay/give them the money that they have earned. They are poor and they need to get
-their pay. If you do not pay them right away, they will cry out against you to Yahweh, and he will punish \f + \fk metonymy \f* you for having
+\v 15 Every day, before sunset, you must pay\f + \ft Or: give \f* them the money that they have earned. They are poor and they need to get
+their pay. If you do not pay them right away, they will cry out against you to Yahweh, and he will punish \\f + \\ft metonymy \\f* you for having
 sinned like that. 
 \p
 \v 16 Parents must not be executed for crimes that their children have committed, and children must not be executed for crimes
 that their parents have committed. People should be executed only for the crimes that they themselves have committed.
 \p
-\v 17 You must \f + \fk litotes \f* do for foreigners \add who live\add* among you and for orphans the things that the laws state that must be
+\v 17 You must \\f + \\ft litotes \\f* do for foreigners \add who live\add* among you and for orphans the things that the laws state that must be
 done for them. And \add if you lend something to\add* a widow, do not take her coat from her as a guarantee
 \add that she will return it\add*. 
 \v 18 Do not forget that you \add had great troubles\add* when you were slaves in Egypt, and Yahweh our God rescued you from
@@ -57,7 +57,7 @@ troubles\add*.
 \v 19 When you harvest your crops, if you have forgotten \add that you
 left\add* one bundle in the field, do not go back to get it. \add Leave it
 there\add* for foreigners, orphans, and widows. If you do that, Yahweh will bless you in everything that you do.
-\v 20 And when you have harvested/picked all your olives from the trees once, do not go back
+\v 20 And when you have harvested\f + \ft Or: picked \f* all your olives from the trees once, do not go back
 \add to pick the ones that are still\add* on the trees. 
 \v 21  \add Similarly\add*, when you pick the grapes in your vineyard, do not go back a second time
 \add to try to find more\add*. Leave them for the foreigners, orphans, and widows

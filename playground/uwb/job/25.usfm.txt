@@ -6,18 +6,18 @@
 \v 2 “God is very powerful; everyone should have an awesome respect for him;
 \q2 he causes everything to be peaceful high up in heaven. 
 \q
-\v 3 ◄Can anyone count the angels who are in his army \add in heaven\add*?/No one can count the angels who are in his army
-\add in heaven\add*.► \f + \fk rhetorical question \f* 
-\q2 ◄Is there any place where his light does not shine?/There is no place where his light does not shine.► \f + \fk rhetorical question \f*
+\v 3 ◄Can anyone count the angels who are in his army \add in heaven\add*?\f + \ft Or: No \f* one can count the angels who are in his army
+\add in heaven\add*.► \\f + \\ft rhetorical question \\f* 
+\q2 ◄Is there any place where his light does not shine?\f + \ft Or: There \f* is no place where his light does not shine.► \\f + \\ft rhetorical question \\f*
 \q
-\v 4 So, ◄how can God consider any person to be righteous?/God certainly cannot consider any person to be righteous.► \f + \fk rhetorical question \f*
-\q2 ◄How can any human being be truly pure?/No human being can be truly pure.► \f + \fk rhetorical question \f*
+\v 4 So, ◄how can God consider any person to be righteous?\f + \ft Or: God \f* certainly cannot consider any person to be righteous.► \\f + \\ft rhetorical question \\f*
+\q2 ◄How can any human being be truly pure?\f + \ft Or: No \f* human being can be truly pure.► \\f + \\ft rhetorical question \\f*
 \q
 \v 5 Consider this: God does not even consider the full moon to be bright,
 \q2 and he does not consider the stars to be spotless. 
 \q
-\v 6 So, ◄what about humans?/he does not consider humans \add to be
-important\add*.► \f + \fk rhetorical question \f* 
-\q2 They are \add as insignificant as\add* \f + \fk metaphor \f* maggots. 
+\v 6 So, ◄what about humans?\f + \ft Or: he \f* does not consider humans \add to be
+important\add*.► \\f + \\ft rhetorical question \\f* 
+\q2 They are \add as insignificant as\add* \\f + \\ft metaphor \\f* maggots. 
 \q2 \add God does not think more highly of\add* people \add than he thinks
 of\add* worms.” 

@@ -1,23 +1,23 @@
 \c 21  
 \s Rules for priests 
 \p
-\v 1 Yahweh also said to Moses/me, “Speak to the priests, the sons of Aaron, and say to them,
+\v 1 Yahweh also said to Moses\f + \ft Or: me \f*, “Speak to the priests, the sons of Aaron, and say to them,
 \v 2 ‘You priests must not cause yourselves to become unfit to do my work by your
 \add touching\add* corpses. Priests are permitted to touch only the corpses of close relatives, such as the priest's mother or
 father or his son or daughter or his brother. 
 \v 3 Priests are also permitted to touch the corpse of a sister if she is not married, because she has no husband
 \add to bury her body\add*. 
-\v 4 Priests must not cause themselves to become unfit to do my work \f + \fk doublet \f*
+\v 4 Priests must not cause themselves to become unfit to do my work \\f + \\ft doublet \\f*
 \add by their touching corpses of\add* people who were married to one of their close relatives.
 \p
 \v 5 You priests must not shave your heads or shave the edges of your beards or cut your bodies
 \add to show that you are mourning for someone who has died\add*.
-\v 6 You must act in ways that I, their God, consider to be holy, and not disgrace my name/reputation. You are the ones who
+\v 6 You must act in ways that I, their God, consider to be holy, and not disgrace my name\f + \ft Or: reputation \f*. You are the ones who
 present to me the offerings that are burned. \add It is as though\add* those offerings are food for me, their God; so you must
 act in ways that are holy. 
 \p
 \v 7 You priests must not marry women who have been prostitutes or who have been divorced from their husbands, because you
-priests are ◄set apart for God/holy►. 
+priests are ◄set apart for God\f + \ft Or: holy \f*►. 
 \v 8 You must consider that you are holy, because you offer food to me, your God. Consider yourselves to be holy because I,
 Yahweh, \add the one who caused you to be priests\add* and the one who enables you to be holy, am holy.
 \p
@@ -32,8 +32,8 @@ the special garments that priests wear. He must not allow the hair on his
 \v 11 He must not enter some place where there is a corpse. He must not do that and cause himself to become unfit for his work,
 even if it is his father or his mother who has died. 
 \v 12 He must not leave the Sacred Temple \add to join those who are
-mourning\add*, because he would cause himself to become unfit for his work and would also defile/desecrate the temple. He must
-not leave the temple \add at that time\add*, because by being anointed with olive oil he has been ◄appointed/set apart► to
+mourning\add*, because he would cause himself to become unfit for his work and would also defile\f + \ft Or: desecrate \f* the temple. He must
+not leave the temple \add at that time\add*, because by being anointed with olive oil he has been ◄appointed\f + \ft Or: set \f* apart► to
 serve his God \add in the temple\add*. I, Yahweh, \add am the one who am commanding
 this\add*. 
 \p
@@ -43,14 +43,14 @@ people,
 \v 15 because if you did that, \add if you later have\add* sons, they would not be acceptable to be priests among your people.
 I am Yahweh, who sets priests apart to be holy.’ ” 
 \p
-\v 16 Yahweh also said to Moses/me, 
+\v 16 Yahweh also said to Moses\f + \ft Or: me \f*, 
 \v 17 “Say this to Aaron: ‘For all future time, none of your descendants who has any defects
 \add on his body\add* will be allowed to come near \add the altar\add* to offer
-\add sacrifices to me which will be like\add* \f + \fk metaphor \f* my food: 
+\add sacrifices to me which will be like\add* \\f + \\ft metaphor \\f* my food: 
 \v 18 no one who is blind or lame or deformed, or whose \add face
 is\add* disfigured, 
 \v 19 no man with a crippled foot or a crippled hand, 
-\v 20 no man who is a hunchback or a dwarf, no man whose eyes are defective, no man who has a skin disease \f + \fk doublet \f* or whose
+\v 20 no man who is a hunchback or a dwarf, no man whose eyes are defective, no man who has a skin disease \\f + \\ft doublet \\f* or whose
 testicles have been damaged. 
 \v 21 No descendant of Aaron, the \add first Supreme\add* Priest, who has any defect is allowed to come to the altar to offer
 to me, his God, sacrifices that will be burned. 
@@ -59,4 +59,4 @@ to me, his God, sacrifices that will be burned.
 \add in the Sacred Temple\add* or near the altar, because if they did that, they would desecrate my temple. I am Yahweh, the
 one who sets those places apart as being holy.’ ” 
 \p
-\v 24 So Moses/I told this to Aaron and to his sons and to all the Israeli people.
+\v 24 So Moses\f + \ft Or: I \f* told this to Aaron and to his sons and to all the Israeli people.

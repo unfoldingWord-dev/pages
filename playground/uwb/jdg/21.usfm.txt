@@ -6,7 +6,7 @@ started\add*, they solemnly declared, “None of us will ever allow one of our d
 Benjamin!” 
 \v 2 But now the Israelis went to Bethel and they cried loudly to Yahweh all day, until the sun went down.
 \v 3 They kept saying, “Yahweh, God of us Israeli people, one of the tribes of us Israelis does not exist anymore! ◄Why has
-this happened to us?/It is terrible that this has happened to us!►” \f + \fk rhetorical question \f*
+this happened to us?\f + \ft Or: It \f* is terrible that this has happened to us!►” \\f + \\ft rhetorical question \\f*
 \p
 \v 4 Early the next morning the people built an altar. Then they completely burned some sacrifices
 \add on the altar\add*, and also offered other sacrifices to restore fellowship with God.
@@ -16,7 +16,7 @@ this happened to us?/It is terrible that this has happened to us!►” \f + \fk
 tribes of Israel who did not come to Mizpah to meet with us in the presence of Yahweh?”
 \p
 \v 6 The Israelis felt sorry for their fellow Israelis from the tribe of Benjamin. They said, “Today one of our Israeli tribes
-◄has disappeared/no longer exists►. 
+◄has disappeared\f + \ft Or: no \f* longer exists►. 
 \v 7 Yahweh heard us solemnly declare that we would not allow any of our daughters to marry any man from the tribe of Benjamin.
 What can we do to make certain that the men of the tribe of Benjamin who were not killed will have wives?”
 \v 8 Then \add one of\add* them asked, “What group from any of the tribes of Israel did not send any men here to Mizpah?”
@@ -39,7 +39,7 @@ they would like to make peace with them.
 But there were \add only 400 women\add* There were not enough women
 \add for those 600 men\add*. 
 \p
-\v 15 The Israelis \add still\add* felt sorry for the men of the tribe of Benjamin, because Yahweh had ◄decimated/almost wiped
+\v 15 The Israelis \add still\add* felt sorry for the men of the tribe of Benjamin, because Yahweh had ◄decimated\f + \ft Or: almost \f* wiped
 out► one of the Israeli tribes. 
 \v 16 The Israeli leaders said, “We have killed all the married women of the tribe of Benjamin. Where can we get women to be
 wives of the men who are still alive? 
@@ -47,7 +47,7 @@ wives of the men who are still alive?
 all the people of one of the tribes of Israel will die. 
 \v 18 But we cannot allow our daughters to marry these men, because we solemnly declared that Yahweh will curse anyone who
 gives one of his daughters to become a wife of any man of the tribe of Benjamin.”
-\v 19 Then \add one of\add* them ◄had an idea/thought of something that they could do►. He said, “Every year there is a
+\v 19 Then \add one of\add* them ◄had an idea\f + \ft Or: thought \f* of something that they could do►. He said, “Every year there is a
 festival to honor Yahweh at Shiloh, which is north of Bethel and east of the road that extends from Bethel to Shechem, and it
 is south of Lebonah \add city\add*.” 
 \p

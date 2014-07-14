@@ -4,13 +4,13 @@
 \p
 \v 1  \add Then\add* some \add Jewish\add* believers went down from Judea
 \add province\add* to Antioch. They started teaching the \add non-Jewish\add* believers
-\add there, and said\add*, “\add You\add* ◄\add must\add* be circumcised/must have God's mark put on you►
+\add there, and said\add*, “\add You\add* ◄\add must\add* be circumcised\f + \ft Or: must \f* have God's mark put on you►
 \add to indicate you belong to God\add*, as Moses \add commanded\add* in the laws that
 \add he received from God\add*. If you do not do that, you will not be saved
 {\add God\add* will not save you}.” 
 \v 2 Paul and Barnabas strongly disagreed with those Jews and started arguing
 \add with them. So the believers at Antioch\add* appointed Paul and Barnabas and some of the other believers to go to
-Jerusalem, in order that they would/could discuss this matter with the apostles and
+Jerusalem, in order that they would\f + \ft Or: could \f* discuss this matter with the apostles and
 \add other spiritual\add* leaders. 
 \s Acts 15:3-4 
 \s Paul and Barnabas reported what God had enabled them to do. 
@@ -40,7 +40,7 @@ had enabled them to do \add among non-Jewish people\add*.
 \v 7 After they had discussed it for a long time, Peter stood up and spoke to them. He said, “Fellow believers, you
 \add all\add* know that a long time ago God chose me from among you
 \add other apostles, in order that\add* the non-Jewish people might
-\add also\add* hear me \f + \fk synecdoche \f* tell \add them\add* the good message
+\add also\add* hear me \\f + \\ft synecdoche \\f* tell \add them\add* the good message
 \add about the Lord Jesus\add*, so that they could hear \add it\add* and believe
 \add in him. So Paul and Barnabas are not the first ones to tell non-Jews about
 Jesus\add*. 
@@ -53,9 +53,9 @@ us\add (inc)\add* Jews, he showed \add me and others\add* that he had accepted t
 of their believing \add in the Lord Jesus. That was exactly how he has forgiven
 us\add*. 
 \v 10  \add You are wanting to force the non-Jewish believers to obey our Jewish rituals and
-laws\add*—laws that God has shown that he does not require them to obey \f + \fk metaphor \f*.
-\add Your doing that is like\add* putting a heavy burden on their necks! So then, ◄stop making God angry by doing that!/why are
-you making God angry by doing that?► \f + \fk rhetorical question \f* Our ancestors and we\add (inc)
+laws\add*—laws that God has shown that he does not require them to obey \\f + \\ft metaphor \\f*.
+\add Your doing that is like\add* putting a heavy burden on their necks! So then, ◄stop making God angry by doing that!\f + \ft Or: why \f* are
+you making God angry by doing that?► \\f + \\ft rhetorical question \\f* Our ancestors and we\add (inc)
 Jews\add* have never been able to bear \add the burden of obeying those
 laws!\add* 
 \v 11 But we\add (inc) know that it is not because\add* we\add (inc) try to obey those laws that God saves us(inc) Jews. On the
@@ -77,18 +77,18 @@ spoken\add*. Then they \add all\add* listened to Barnabas and Paul,
 \v 13 When Barnabas and Paul had finished speaking, James, \add the leader of the group of believers there in
 Jerusalem\add*, spoke to them. \add He said\add*, “Fellow believers, listen to me.
 \v 14 Simon \add Peter\add* has told you how God previously blessed the non-Jews. God did that by choosing from among them a
-people who would belong to him \f + \fk metonymy \f*. 
+people who would belong to him \\f + \\ft metonymy \\f*. 
 \v 15  \add These\add* words that \add God spoke\add*, words that were written by
 \add one of\add* the prophets {that one of the prophets wrote} \add long
 ago\add*, agree with that, 
 \q
-\v 16 Later on I will return and I will re-establish the kingdom \f + \fk metaphor \f* that David
+\v 16 Later on I will return and I will re-establish the kingdom \\f + \\ft metaphor \\f* that David
 \add ruled\add* and that has been {that \add people\add* have} destroyed. My
 \add doing that will be like\add* rebuilding\add a house\add* that has been {that
 \add people\add* have} torn down. 
 \v 17 I will do that in order that all other people might seek\add me\add*, the Lord
 \add God. I will do that in order that\add* all the non-Jews whom I have called
-\add to belong\add* to me \f + \fk metonymy \f* might seek me. \add You can be certain that this will happen because
+\add to belong\add* to me \\f + \\ft metonymy \\f* might seek me. \add You can be certain that this will happen because
 I\add* the Lord\add God\add*, who will do those things, have spoken\add these
 words\add*. 
 \v 18 I \add caused my people to know about them\add* long ago.”
@@ -98,13 +98,13 @@ words\add*.
 \add away from their sins and turning\add* to God. \add That is, we should stop demanding that they
 obey\add* all \add our laws\add* and rituals. 
 \v 20 Instead, we should write \add a letter\add* to them, \add one requiring only four things: They
-should\add* not eat \add meat/food that people\add* have offered to idols, they should not have sex with someone to whom they
+should\add* not eat \add meat\f + \ft Or: food \f* that people\add* have offered to idols, they should not have sex with someone to whom they
 are not married, they should not \add eat meat from animals that have been killed
 by\add* being strangled {\add people have strangled\add*}, and \add they should not
 eat\add* the blood \add of animals\add*. 
 \v 21 In many cities, for a very long time people have been proclaiming
-\add the laws that\add* Moses \add wrote\add* \f + \fk metonymy \f*, \add laws prohibiting those
-things\add*. And every ◄Sabbath/Jewish day of rest► \add those laws\add* are read {someone reads
+\add the laws that\add* Moses \add wrote\add* \\f + \\ft metonymy \\f*, \add laws prohibiting those
+things\add*. And every ◄Sabbath\f + \ft Or: Jewish \f* day of rest► \add those laws\add* are read {someone reads
 \add those laws\add*} in the Jewish meeting places. \add So if the non-Jews want to know more about those laws, they can find
 out in our meeting houses\add*.” 
 \s Acts 15:22-29 
@@ -122,11 +122,11 @@ Antioch\add*: “\add We(exc)\add* apostles and \add other\add* leaders who are 
 \add who live\add* in Antioch and \add other places in\add* Syria and Cilicia
 \add provinces\add*. 
 \v 24 People have told us that some men from among us went \add to
-you\add*, although we had not told \add them to do that\add*. They troubled/distressed you \f + \fk synecdoche \f*
+you\add*, although we had not told \add them to do that\add*. They troubled\f + \ft Or: distressed \f* you \\f + \\ft synecdoche \\f*
 \add by telling you things\add* that confused your thinking. 
 \v 25 So \add while we(exc) met together here\add*, we decided to choose some men and ask them to go to you, along with
 Barnabas and Paul, whom we\add (exc)\add* love very much. 
-\v 26 Those two have put their lives in danger because of their \add serving\add* our Lord \f + \fk metonymy \f* Jesus Christ.
+\v 26 Those two have put their lives in danger because of their \add serving\add* our Lord \\f + \\ft metonymy \\f* Jesus Christ.
 \v 27 We\add (exc) have also chosen\add* Judas and Silas to go to you. They will tell you the same things
 \add that we are writing\add*. 
 \v 28 The Holy Spirit and \add also\add* we decided that you should not be required {that we should not require you} to obey a
@@ -137,7 +137,7 @@ lot of burdensome \add Jewish\add* laws. Instead, \add we\add* only
 \q You should not eat blood from animals, and you should not eat meat from animals that people have killed by strangling them.
 \q Also, you should not have sex with someone to whom you are not married.
 \p Those things \add especially offend Jewish believers. So if\add* you avoid doing them, you will be doing what is right. That
-is all/Goodbye.” 
+is all\f + \ft Or: Goodbye \f*.” 
 \s Acts 15:30-32 
 \s The letter and messengers encouraged the believers at Antioch.
 \p
@@ -146,7 +146,7 @@ is all/Goodbye.”
 \add there\add* had assembled together, \add Judas and Silas\add* gave the letter to them.
 \v 31 When the believers there read the letter, they rejoiced, \add because its
 message\add* encouraged them. 
-\v 32  \add Just like Paul and Barnabas were\add* ◄\add prophets/men who spoke messages from
+\v 32  \add Just like Paul and Barnabas were\add* ◄\add prophets\f + \ft Or: men \f* who spoke messages from
 God\add*►. Judas and Silas were also prophets. They spoke a lot and encouraged the believers
 \add there\add*, and helped them to trust more strongly \add in the Lord
 Jesus\add*. 

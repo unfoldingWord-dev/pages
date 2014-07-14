@@ -4,7 +4,7 @@
 \v 1 The famine in Canaan got worse. 
 \v 2 Finally, when Jacob and his family had eaten all the grain they had brought from Egypt, Jacob said to them, “Go back to
 Egypt and buy some more grain for us!” 
-\v 3 But Judah said to him, “The man who sold us the grain warned us sternly, ‘I will not let you see me \f + \fk synecdoche \f* again if you
+\v 3 But Judah said to him, “The man who sold us the grain warned us sternly, ‘I will not let you see me \\f + \\ft synecdoche \\f* again if you
 come and your younger brother is not with you.’ 
 \v 4 So, if you will send our younger brother with us, we will go down to Egypt and buy some grain for you.
 \v 5 But if you will not send him, we will not go down there, because that man said to us, ‘I will not let you see me again if
@@ -12,18 +12,18 @@ your younger brother is not with you.’ ”
 \v 6 Jacob asked, “Why did you cause me to have this trouble by telling the man that you had a younger brother?”
 \v 7 One of them replied, “The man asked about us and about our family. He said, ‘Is your father still living? Do you have
 another brother?’ We had to answer his questions. ◄We could not know that he would say, ‘The next time that you come down here,
-bring your brother with you!’/How could we know that he would say, ‘The next time that you come down here, bring your brother
-with you!’►” \f + \fk rhetorical question \f* 
+bring your brother with you!’\f + \ft Or: How \f* could we know that he would say, ‘The next time that you come down here, bring your brother
+with you!’►” \\f + \\ft rhetorical question \\f* 
 \p
 \v 8 Then Judah said to his father Jacob, “Send the boy with me, and we will go immediately, in order that we and you and our
 children may get grain and not die from hunger. 
 \v 9 I myself will guarantee that he will return. You can require me to do what I am promising [IDI]. If I do not bring him
-back to you safely, you can say forever that ◄I am to blame/it was my fault that he did not return to you►.
-\v 10 If we had not ◄wasted so much time/waited so long►, by now we could have gone there and returned two times!”
+back to you safely, you can say forever that ◄I am to blame\f + \ft Or: it \f* was my fault that he did not return to you►.
+\v 10 If we had not ◄wasted so much time\f + \ft Or: waited \f* so long►, by now we could have gone there and returned two times!”
 \p
 \v 11 Then their father Jacob said to them, “If there is no other way, do this: put in your sacks some of the best things that
-are grown in this land, and take them down to the man as a gift. Take some balm/perfume and honey and spices and
-myrrh/ointment, some pistachio nuts, and almonds. 
+are grown in this land, and take them down to the man as a gift. Take some balm\f + \ft Or: perfume \f* and honey and spices and
+myrrh\f + \ft Or: ointment \f*, some pistachio nuts, and almonds. 
 \v 12 Take twice as much money as you took the previous time, because you must return the silver that someone put in the tops
 of your sacks. Perhaps it was a mistake that it was put in your sacks.
 \v 13 Take your younger brother and go back to that man. 
@@ -32,7 +32,7 @@ as well as Benjamin, come back here with you. But as for me, if my sons are take
 \p
 \v 15 So the men took the gifts that Jacob said that they should take, and twice the amount of money that the grain would cost,
 and they also took Benjamin. They went down quickly to Egypt, and they stood in front of Joseph.
-\v 16 When Joseph saw Benjamin with them, he said to the man who ◄was in charge of/supervised► things in his house, “Take these
+\v 16 When Joseph saw Benjamin with them, he said to the man who ◄was in charge of\f + \ft Or: supervised \f*► things in his house, “Take these
 men to my house. Slaughter an animal and prepare a meal, because I want them to eat with me at noon.” And he told them in what
 order they were to be seated. 
 \p
@@ -58,7 +58,7 @@ arrived.
 \p
 \v 26 When Joseph came home, they presented to him the gifts that they had brought into the house. Then they bowed down to the
 ground in front of him. 
-\v 27 He asked them if they were ◄well/in good health►, and then he asked, “How is the health of your old father, the one that
+\v 27 He asked them if they were ◄well\f + \ft Or: in \f* good health►, and then he asked, “How is the health of your old father, the one that
 you told me about? Is he still living?” 
 \v 28 One of them replied, “Yes, your servant, our father, is still alive, and he is well.” Then again they bowed down in front
 of him. 
@@ -67,7 +67,7 @@ of him.
 brother, the one whom you told me about?” After they said “Yes,” he said to Benjamin, “Young man, I pray that God will act
 kindly toward you.” 
 \v 30 Joseph quickly left the room. He realized that he was about to cry because he ◄was full of emotion about his younger
-brother/loved his younger brother so much►. He went into his private room and cried there.
+brother\f + \ft Or: loved \f* his younger brother so much►. He went into his private room and cried there.
 \v 31 Then, after he washed the tears from his face, he came out, and controlling his emotions, he said to the servants, “Serve
 the food!” 
 \p

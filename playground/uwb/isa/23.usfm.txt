@@ -3,7 +3,7 @@
 \p
 \v 1  \add I received\add* this message \add from Yahweh\add* about Tyre
 \add city\add*: 
-\q You \add sailors on\add* \f + \fk apostrophe \f* ships from Tarshish, 
+\q You \add sailors on\add* \\f + \\ft apostrophe \\f* ships from Tarshish, 
 \q2 weep, because \add the harbor of\add* Tyre and all the houses
 \add in the city\add* have been destroyed. 
 \q2 The reports that you heard in Cyprus \add island\add* about Tyre
@@ -34,13 +34,13 @@
 \v 6 Sail to Tarshish \add and tell them what happened\add*; 
 \q2 weep, you people who live along the coast. 
 \q
-\v 7  \add The people in\add* the very old city \add of Tyre\add* were \f + \fk rhetorical question \f* previously joyful.
-\q2 Traders \f + \fk personification \f* from Tyre established colonies in many distant nations.
+\v 7  \add The people in\add* the very old city \add of Tyre\add* were \\f + \\ft rhetorical question \\f* previously joyful.
+\q2 Traders \\f + \\ft personification \\f* from Tyre established colonies in many distant nations.
 \q
 \v 8 People from Tyre appointed kings \add over other places\add*;
 \q2 their traders were wealthy; 
-\q they were \add as powerful and wealthy\add* as \f + \fk metaphor \f* kings. 
-\q2 So, who \f + \fk rhetorical question \f* caused the people of Tyre to experience this disaster?
+\q they were \add as powerful and wealthy\add* as \\f + \\ft metaphor \\f* kings. 
+\q2 So, who \\f + \\ft rhetorical question \\f* caused the people of Tyre to experience this disaster?
 \q
 \v 9 It was the Almighty Commander of the armies of angels who did it;
 \q2 he did it in order to cause you people in Tyre to not be proud anymore,
@@ -49,13 +49,13 @@
 \q
 \v 10 You people of Tarshish, you must grow crops in your land \add instead of
 trading\add*; 
-\q2 spread out over your land like \f + \fk simile \f* the Nile \add River\add* spreads over the land
+\q2 spread out over your land like \\f + \\ft simile \\f* the Nile \add River\add* spreads over the land
 \add of Egypt\add* when it floods, 
 \q2 because there is no harbor \add in Tyre for your ships\add* now.
 \q
 \v 11  \add It is as though\add* Yahweh stretched out his hand over the sea
 \q2 and shook the kingdoms of the earth. 
-\q He commanded that in Phoenicia/Canaan 
+\q He commanded that in Phoenicia\f + \ft Or: Canaan \f* 
 \q2 all its fortresses must be destroyed. 
 \q
 \v 12 He said to the people of Sidon, 
@@ -85,7 +85,7 @@ Babylon\add*;
 \q2 in order that people will remember you again. 
 \p
 \v 17 It is true that after seventy years Yahweh will restore Tyre. Their merchants will again earn a lot of money by buying
-things from and selling things to many other nations \f + \fk hyperbole \f*. 
+things from and selling things to many other nations \\f + \\ft hyperbole \\f*. 
 \q
 \v 18 But their profits will be given to Yahweh. 
 \q2 \add The merchants\add* will not hoard their money; 

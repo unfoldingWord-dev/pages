@@ -1,27 +1,27 @@
 \c 128  
 \s A psalm written for those going up to the temple to worship 
 \q
-\v 1 ◄Happy are/Yahweh is pleased with► those of you who have an awesome respect for him
+\v 1 ◄Happy are\f + \ft Or: Yahweh \f* is pleased with► those of you who have an awesome respect for him
 \q2 and do what he wants you to do [IDI]. 
 \q
-\v 2 You will \add be able to earn the money\add* that you \f + \fk metonymy \f* need to buy food;
+\v 2 You will \add be able to earn the money\add* that you \\f + \\ft metonymy \\f* need to buy food;
 \q you will be happy and you will be prosperous. 
 \q
-\v 3 Your wife will be like a grapevine that bears many grapes \f + \fk simile \f*;
-\q2 she will give birth to many children/sons. 
+\v 3 Your wife will be like a grapevine that bears many grapes \\f + \\ft simile \\f*;
+\q2 she will give birth to many children\f + \ft Or: sons \f*. 
 \q Your children who sit around your table 
 \q will be like a strong olive \add tree that has many\add* shoots
-\add growing up around it\add* \f + \fk simile \f*. 
+\add growing up around it\add* \\f + \\ft simile \\f*. 
 \q
 \v 4 Every man who has an awesome respect for Yahweh 
 \q2 will be blessed like that. 
 \b
 \q
-\v 5 I wish/hope that Yahweh will bless all of you from \add where he
-dwells\add* ◄on Zion \add Hill\add*/in Jerusalem► 
+\v 5 I wish\f + \ft Or: hope \f* that Yahweh will bless all of you from \add where he
+dwells\add* ◄on Zion \add Hill\add*\f + \ft Or: in \f* Jerusalem► 
 \q and that you will see the people of Jerusalem prospering every day that you live!
 \q2
-\v 6 I wish/hope that you will live many years 
+\v 6 I wish\f + \ft Or: hope \f* that you will live many years 
 \q2 with the result that you will \add have\add* grandchildren and be able to see them.
 \b
-\q I wish/desire/hope that things will go well for people in Israel!
+\q I wish\f + \ft Or: desire \f*\f + \ft Or: hope \f* that things will go well for people in Israel!

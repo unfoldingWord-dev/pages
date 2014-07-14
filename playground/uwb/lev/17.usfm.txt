@@ -1,13 +1,13 @@
 \c 17  
 \s Where sacrifices are to be offered 
 \p
-\v 1 Yahweh also said to Moses/me, 
+\v 1 Yahweh also said to Moses\f + \ft Or: me \f*, 
 \v 2 “Speak to Aaron and his sons and to all the other Israeli people, and say this to them: ‘This is what Yahweh has
 commanded: 
 \v 3 “If you sacrifice an ox or a lamb or a goat, you must bring it
-\add to the priest\add* at the entrance of the Sacred Tent, to present/offer it to me there.
+\add to the priest\add* at the entrance of the Sacred Tent, to present\f + \ft Or: offer \f* it to me there.
 \v 4 If you slaughter it to be a sacrifice anywhere else in the camp or outside the camp, you will be guilty of shedding its
-blood \add in an unacceptable place\add*. As a result you will no longer be allowed to be/associate with my people.
+blood \add in an unacceptable place\add*. As a result you will no longer be allowed to be\f + \ft Or: associate \f* with my people.
 \v 5 That rule is in order that you Israeli people, instead of offering sacrifices in the open fields, will offer them to me by
 taking them to the priest at the entrance of the Sacred Tent, to be offerings to maintain fellowship
 \add with me\add*. 
@@ -30,7 +30,7 @@ blood.
 \p
 \v 13 Any Israeli or any foreigner who is living among you who hunts any animal or bird that is permitted for you to eat, must
 drain out the blood \add of any animal or bird that he kills\add* and cover the blood with dirt.
-\v 14 This is because no creature is alive if it does not have blood. And that is why I have said that \f + \fk doublet \f* to you Israelis,
+\v 14 This is because no creature is alive if it does not have blood. And that is why I have said that \\f + \\ft doublet \\f* to you Israelis,
 and anyone who eats blood must no longer \add be allowed to associate with my
 people\add*. 
 \p

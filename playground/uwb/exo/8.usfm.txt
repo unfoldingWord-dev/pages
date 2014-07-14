@@ -1,6 +1,6 @@
 \c 8  
 \p
-\v 1 Then Yahweh said to Moses/me, “Go back to the king and tell him, ‘Yahweh says that you must let my people go, in order
+\v 1 Then Yahweh said to Moses\f + \ft Or: me \f*, “Go back to the king and tell him, ‘Yahweh says that you must let my people go, in order
 that they can worship me \add in the desert\add*. 
 \v 2 But if you refuse to let them go, I will punish you by sending frogs to cover your country.
 \v 3  \add Not only\add* will the Nile \add River\add* be full of frogs,
@@ -10,7 +10,7 @@ of\add* your people. They will even get into your ovens and your pans for mixing
 \v 4 The frogs will jump up on you and your officials and \add all the rest
 of\add* your people.’ ” 
 \p
-\v 5 Yahweh \add also\add* said to Moses/me, “Say this to Aaron: ‘Hold your stick in your hand and stretch it out
+\v 5 Yahweh \add also\add* said to Moses\f + \ft Or: me \f*, “Say this to Aaron: ‘Hold your stick in your hand and stretch it out
 \add as though you were stretching it\add* over the river, the canals, and over the pools, and cause frogs to come up
 \add from all this water and\add* cover the land of Egypt.’ ” 
 \v 6  \add After I told that to\add* Aaron, he stretched out his hand
@@ -18,40 +18,40 @@ of\add* your people.’ ”
 \add from the water and\add* covered Egypt. 
 \v 7 But the men who performed magic did the same thing, and they caused
 \add more\add* frogs to come up \add from the water onto the land\add*.
-\v 8 Then the king summoned Moses/me and said, “Ask Yahweh to take away these frogs from me and my people. After that happens,
+\v 8 Then the king summoned Moses\f + \ft Or: me \f* and said, “Ask Yahweh to take away these frogs from me and my people. After that happens,
 I will allow your people to go, in order that they can offer sacrifices to Yahweh.”
-\v 9 Moses/I said to the king, “I will be glad to pray for you and for your officials and for
+\v 9 Moses\f + \ft Or: I \f* said to the king, “I will be glad to pray for you and for your officials and for
 \add the rest of\add* your people. \add I will ask Yahweh\add* to get rid of the frogs from all your houses. The only frogs
 left will be \add those\add* in the Nile \add River\add*. Just tell me when I should pray.”
-\v 10 He replied, “Tomorrow.” So Moses/I said, “\add I will do\add* what you say, and then you will know that Yahweh God, the
+\v 10 He replied, “Tomorrow.” So Moses\f + \ft Or: I \f* said, “\add I will do\add* what you say, and then you will know that Yahweh God, the
 one we \add worship, is the only true god\add*, and that there is no other god like him.
 \v 11 The frogs will leave you and your officials and all \add the rest
 of\add* your people. The only ones left will be in the Nile \add River\add*.”
 \p
-\v 12 Aaron and Moses/I left the king. Then Moses/I prayed to Yahweh,
+\v 12 Aaron and Moses\f + \ft Or: I \f* left the king. Then Moses\f + \ft Or: I \f* prayed to Yahweh,
 \add asking him to take away\add* all the frogs he had \add brought to the
 king's\add* \add land\add*. 
-\v 13 And Yahweh did just what Moses/I \add asked him to do\add*. As a result, all the frogs in the houses, in their
+\v 13 And Yahweh did just what Moses\f + \ft Or: I \f* \add asked him to do\add*. As a result, all the frogs in the houses, in their
 courtyards, and in \add their\add* fields died. 
 \v 14 The people gathered together all the dead frogs into big piles, and the land stank
 \add from the smell\add*. 
 \v 15 But when the king saw that \add the problem\add* was ended, he became stubborn [IDI]
-\add again\add*. And just as Yahweh had predicted, he would not pay attention to what Aaron and Moses/I suggested.
+\add again\add*. And just as Yahweh had predicted, he would not pay attention to what Aaron and Moses\f + \ft Or: I \f* suggested.
 \s Moses and Aaron caused the land to be full of gnats 
 \p
-\v 16 Then Yahweh said to Moses/me, “Tell Aaron to strike the ground with his stick.
-\add When he does that\add*, all the fine particles of ground/dust will become gnats, all over the land of Egypt.”
-\v 17 So they/we did that. Aaron struck the ground with his stick, and all over Egypt, the fine particles of ground/dust became
+\v 16 Then Yahweh said to Moses\f + \ft Or: me \f*, “Tell Aaron to strike the ground with his stick.
+\add When he does that\add*, all the fine particles of ground\f + \ft Or: dust \f* will become gnats, all over the land of Egypt.”
+\v 17 So they\f + \ft Or: we \f* did that. Aaron struck the ground with his stick, and all over Egypt, the fine particles of ground\f + \ft Or: dust \f* became
 gnats. The gnats covered the people and all \add their\add* animals.
 \v 18 The men who worked magic tried to cause gnats to appear, but they were unable to do it. So the gnats
 \add stayed\add* on the people and on their animals. 
-\v 19 The men who worked magic said to the king, “It is God who has done this with his power \f + \fk metonymy \f*!”. But the king continued to
-be stubborn [IDI], and he would not pay attention to what Aaron and Moses/I said, just as Yahweh had predicted.
+\v 19 The men who worked magic said to the king, “It is God who has done this with his power \\f + \\ft metonymy \\f*!”. But the king continued to
+be stubborn [IDI], and he would not pay attention to what Aaron and Moses\f + \ft Or: I \f* said, just as Yahweh had predicted.
 \s Moses and Aaron caused the land to be filled with flies 
 \p
-\v 20 Then Yahweh said to Moses/me, “Get up early \add tomorrow\add* morning.
+\v 20 Then Yahweh said to Moses\f + \ft Or: me \f*, “Get up early \add tomorrow\add* morning.
 \add Go down\add* to the river and wait for the king. \add When he
-comes\add* \add to bathe\add* \f + \fk metonymy \f*, say to him, ‘This is what Yahweh says to you: “Let my people go, in order that they may
+comes\add* \add to bathe\add* \\f + \\ft metonymy \\f*, say to him, ‘This is what Yahweh says to you: “Let my people go, in order that they may
 worship me \add in the desert\add*. 
 \v 21  \add I warn you that\add* if you do not let my people go, I will send swarms of flies to you. They will come on you and
 on your officials and on \add the rest of\add* your people. The houses of all you Egyptians will be full of flies. They will
@@ -62,23 +62,23 @@ flies there. In that way, you will know that I, Yahweh, am doing these things
 \v 23 I will distinguish clearly between \add how I act toward\add* my people and
 \add how I act toward\add* your people. And this miracle is going to happen tomorrow!” ’ ”
 \p
-\v 24  \add Early the next morning, Moses/I told that to the king, but the king would not pay any
+\v 24  \add Early the next morning, Moses\f + \ft Or: I \f* told that to the king, but the king would not pay any
 attention\add*. So Yahweh did what he said he would do. He sent great swarms of flies into the palace of the king and into the
 houses of his officials. The whole country of Egypt was ruined by the flies.
-\v 25 Then the king summoned Aaron and Moses/me and said, “You Israeli people can go and offer sacrifices to your god,
+\v 25 Then the king summoned Aaron and Moses\f + \ft Or: me \f* and said, “You Israeli people can go and offer sacrifices to your god,
 \add but you must do it\add* here in \add this\add* land.” 
-\v 26 But Moses/I replied, “It would not be right \add for us\add* to do that, because we will be offering sacrifices that are
+\v 26 But Moses\f + \ft Or: I \f* replied, “It would not be right \add for us\add* to do that, because we will be offering sacrifices that are
 very offensive to the Egyptian people. If we offer sacrifices that the Egyptian people think are disgusting, they will kill us
-by throwing stones at us \f + \fk rhetorical question \f*! 
+by throwing stones at us \\f + \\ft rhetorical question \\f*! 
 \v 27 We need to travel for three days into the desert. There we will offer sacrifices to Yahweh, the God we worship, just as
 he commands \f + \ft (OR, has commanded) \f* us.” 
 \v 28 So the king said, “I will let your people go to offer sacrifices to Yahweh, your god, in the desert. But you must not go
 very far. \add Now\add* pray for me!” 
-\v 29 Moses/I said, “Listen \add to me\add*! After I leave you, I will pray to Yahweh,
+\v 29 Moses\f + \ft Or: I \f* said, “Listen \add to me\add*! After I leave you, I will pray to Yahweh,
 \add asking\add* that tomorrow \add he will cause\add* the swarms of flies to leave you and your officials and
 \add the rest of\add* your people. But do not deceive us again by refusing to let our people go to offer sacrifices to Yahweh!”
 \p
-\v 30 Then Moses/I left the king and prayed to Yahweh. 
-\v 31 And Yahweh did what Moses/I asked, and he got rid of the swarms of flies from
+\v 30 Then Moses\f + \ft Or: I \f* left the king and prayed to Yahweh. 
+\v 31 And Yahweh did what Moses\f + \ft Or: I \f* asked, and he got rid of the swarms of flies from
 \add around\add* the king and his officials and \add the rest of\add* his people. No flies remained.
 \v 32 But the king was stubborn [IDI] this time also, and he did not allow the Israeli people to go.

@@ -1,4 +1,4 @@
-
+\c 52  
 \s A psalm written by David for the choir director, when Doeg went to Saul and said, “David has gone to talk with Ahimelech,
 the supreme priest” 
 \q
@@ -7,15 +7,15 @@ the supreme priest”
 \q while you plan to harm godly people. 
 \q
 \v 2 All during the day you plan to get rid of others; 
-\q what you say \f + \fk metonymy \f* \add injures others\add* like a sharp razor \f + \fk simile \f*,
+\q what you say \\f + \\ft metonymy \\f* \add injures others\add* like a sharp razor \\f + \\ft simile \\f*,
 \q2 and you are always deceiving others. 
 \q
 \v 3 You like \add doing what is\add* evil more than you like doing what is good,
 \q2 and you like telling lies more than you like telling the truth.
 \qr (Think about that!) 
 \q
-\v 4 You who say things \f + \fk metonymy \f* to deceive people, 
-\q2 you like to say ◄things that hurt people/cruel things►! 
+\v 4 You who say things \\f + \\ft metonymy \\f* to deceive people, 
+\q2 you like to say ◄things that hurt people\f + \ft Or: cruel \f* things►! 
 \b
 \q
 \v 5 But God will get rid of you forever; 
@@ -31,11 +31,11 @@ the supreme priest”
 \q2 he trusted in the money that he got by wickedly taking it from others!”
 \b
 \q
-\v 8 But I am \add secure/safe because I worship\add* in God's temple;
+\v 8 But I am \add secure\f + \ft Or: safe \f* because I worship\add* in God's temple;
 \q2 I am like a strong green olive tree. 
 \q I trust in God, who faithfully loves us forever. 
 \b
 \q
 \v 9 God, I will always thank you for the things that you have done.
-\q2 As I stand before godly people, I will proclaim that you are good \f + \ft (OR, the many good 
+\q2 As I stand before godly people, I will proclaim that you are good \f + \ft (OR, the many good \\f + \\ft metonymy \\f*
 \add things you have done for us\add*) \f*. 

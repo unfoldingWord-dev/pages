@@ -16,7 +16,7 @@
 \v 4 I am terrified, 
 \q2 and I am very much afraid that I will die. 
 \q
-\v 5 I am very fearful and I tremble/shake, 
+\v 5 I am very fearful and I tremble\f + \ft Or: shake \f*, 
 \q2 and I am completely terrified. 
 \q
 \v 6 I said, “I wish that I had wings like a dove! 
@@ -27,7 +27,7 @@
 \qr (Think about that!) 
 \q
 \v 8 I would quickly find a shelter 
-\q2 where \add my enemies could not strike/harm me\add* like a strong wind and rainstorm.”
+\q2 where \add my enemies could not strike\f + \ft Or: harm \f* me\add* like a strong wind and rainstorm.”
 \b
 \q
 \v 9 Lord, confuse my enemies, and cause their plans to fail, 
@@ -38,7 +38,7 @@
 \q2 committing crimes and causing trouble. 
 \q
 \v 11 They destroy things everywhere. 
-\q2 They oppress people and defraud people in the ◄marketplaces/public squares►.
+\q2 They oppress people and defraud people in the ◄marketplaces\f + \ft Or: public \f* squares►.
 \b
 \q
 \v 12 If it were an enemy who was making fun of me, 
@@ -53,7 +53,7 @@
 \q2 we walked around together in God's temple. 
 \b
 \q
-\v 15 I desire/hope that my enemies will die suddenly 
+\v 15 I desire\f + \ft Or: hope \f* that my enemies will die suddenly 
 \q2 and, while they are still young, go down to the place where the dead people are.
 \q2 They do evil things in their homes, and they think evil things in their inner beings.
 \b
@@ -79,15 +79,15 @@
 \q2 and broke the agreement that he made with them. 
 \q
 \v 21 What he said was \add easy to listen to, like\add* butter \add is easy to
-swallow\add* \f + \fk metaphor \f*, 
+swallow\add* \\f + \\ft metaphor \\f*, 
 \q2 but in his inner being he hated people; 
 \q his words were \add soothing\add* like olive oil, 
-\q2 \add but they hurt people like\add* sharp swords do \f + \fk metaphor \f*. 
+\q2 \add but they hurt people like\add* sharp swords do \\f + \\ft metaphor \\f*. 
 \b
 \q
 \v 22 Put your troubles in Yahweh's hands, 
 \q2 and he will take care of you; 
 \q he will never allow righteous people to experience disasters.
 \q
-\v 23 God, you will cause murderers \f + \fk metonymy \f* and liars to die before they have lived half as long as they expect to live;
+\v 23 God, you will cause murderers \\f + \\ft metonymy \\f* and liars to die before they have lived half as long as they expect to live;
 \q2 but as for me, I will trust in you. 

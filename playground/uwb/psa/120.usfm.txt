@@ -1,15 +1,15 @@
 \c 120  
 \s A psalm written for people going up to the temple to worship 
 \q
-\v 1 When I was distressed/worried, I called out to Yahweh 
+\v 1 When I was distressed\f + \ft Or: worried \f*, I called out to Yahweh 
 \q2 and he answered me. 
 \q
 \v 2  \add I prayed\add*, 
-\q2 “Yahweh, rescue/save me from people [SYN, MTY] who lie to me and
+\q2 “Yahweh, rescue\f + \ft Or: save \f* me from people [SYN, MTY] who lie to me and
 \add try to\add* deceive me!” 
 \b
 \q
-\v 3 You people who lie to me, \add I will tell you\add* \f + \fk rhetorical question \f* what
+\v 3 You people who lie to me, \add I will tell you\add* \\f + \\ft rhetorical question \\f* what
 \add God\add* will do to you 
 \q2 and what he will do to punish you. 
 \q
@@ -18,7 +18,7 @@
 of\add* a broom tree. 
 \b
 \q
-\v 5 It is terrible for me, living among cruel/savage \f + \fk doublet \f* people
+\v 5 It is terrible for me, living among cruel\f + \ft Or: savage \f* \\f + \\ft doublet \\f* people
 \q2 \add like those who live\add* in Meshech \add region\add* and Kedar
 \add region\add*. 
 \q

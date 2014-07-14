@@ -4,29 +4,29 @@
 \v 1  \add It is as though\add* Bel and Nebo, the statues of the gods
 \add of Babylonia\add*, 
 \q2 are bowing down as they are put on animals and carried away!
-\q The statues are heavy burdens and will cause the animals to become tired \f + \fk sarcasm \f*!
+\q The statues are heavy burdens and will cause the animals to become tired \\f + \\ft sarcasm \\f*!
 \q
 \v 2  \add It seems like\add* both gods are bowing down; 
 \q2 not only can they not save themselves, 
-\q2 but they themselves are being ◄exiled/taken to another country►!
+\q2 but they themselves are being ◄exiled\f + \ft Or: taken \f* to another country►!
 \b
 \q
 \v 3  \add Yahweh says\add*, “You descendants of Jacob who were exiled,
 \q \add I am not like the gods of Babylonia that must be carried\add*;
 \q2 \add instead, it is as though\add* I have carried you 
-\q since you first became a nation \f + \fk metaphor \f*. 
+\q since you first became a nation \\f + \\ft metaphor \\f*. 
 \q2 I carried you even before you became a nation. 
 \q
 \v 4 I will be your God, and I will carry you for many years, 
-\q2 until \add it is as though\add* \f + \fk metaphor \f* your nation is an old man with gray hair.
+\q2 until \add it is as though\add* \\f + \\ft metaphor \\f* your nation is an old man with gray hair.
 \q I caused \add you to become a nation\add*, 
 \q2 and I will sustain you and rescue you. 
 \b
 \q
-\v 5 There is certainly \f + \fk rhetorical question \f* no one to whom I can be compared. 
-\q2 There is \f + \fk rhetorical question \f* no one who is equal to me \f + \fk doublet \f*. 
+\v 5 There is certainly \\f + \\ft rhetorical question \\f* no one to whom I can be compared. 
+\q2 There is \\f + \\ft rhetorical question \\f* no one who is equal to me \\f + \\ft doublet \\f*. 
 \q
-\v 6  \add So it is stupid/ridiculous that\add* some people pour out gold and silver from their bags
+\v 6  \add So it is stupid\f + \ft Or: ridiculous \f* that\add* some people pour out gold and silver from their bags
 \q2 and weigh it on a scale. 
 \q Then they hire a man who makes things from gold to make an idol from it.
 \q2 \add After he makes an idol\add*, they bow down and worship it!
@@ -50,7 +50,7 @@
 \q I will accomplish everything that I plan to accomplish, 
 \q2 and I will do everything that I want to do. 
 \q
-\v 11 So I will summon \add Cyrus/someone to come\add* from the east
+\v 11 So I will summon \add Cyrus\f + \ft Or: someone \f* to come\add* from the east
 \add like a swift and powerful\add* eagle; 
 \q2 he will come from a distant country. 
 \q He will accomplish what I want him to. 

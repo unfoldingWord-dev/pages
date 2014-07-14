@@ -1,16 +1,16 @@
 \c 26  
 \q
-\v 1 Just like \f + \fk simile \f* it is not appropriate for snow to fall in summer time, or rain to fall at harvest time,
-\q2 it is not appropriate to praise/honor foolish people. 
+\v 1 Just like \\f + \\ft simile \\f* it is not appropriate for snow to fall in summer time, or rain to fall at harvest time,
+\q2 it is not appropriate to praise\f + \ft Or: honor \f* foolish people. 
 \b
 \q
-\v 2 Like \f + \fk simile \f* birds that fly by and do not alight/land on anything,
-\q2 if someone curses you, it cannot hurt you if you ◄do not deserve them/have not done to him what is wrong►.
+\v 2 Like \\f + \\ft simile \\f* birds that fly by and do not alight\f + \ft Or: land \f* on anything,
+\q2 if someone curses you, it cannot hurt you if you ◄do not deserve them\f + \ft Or: have \f* not done to him what is wrong►.
 \b
 \q
 \v 3 It is necessary to whip a horse and to put a bridle on a donkey
 \add to force them to go where we want them to go\add*, 
-\q2 and similarly \f + \fk simile \f* \add it is often necessary to strike foolish people
+\q2 and similarly \\f + \\ft simile \\f* \add it is often necessary to strike foolish people
 with\add* a stick \add to cause them to do what is right\add*. 
 \b
 \q
@@ -20,7 +20,7 @@ him\add*,
 \b
 \q
 \v 5 If you give a foolish answer to someone who asks a foolish question,
-\q2 he will realize that he is ◄not very wise/foolish►. 
+\q2 he will realize that he is ◄not very wise\f + \ft Or: foolish \f*►. 
 \b
 \q
 \v 6 Anyone who asks a foolish person to take a message to someone
@@ -29,18 +29,18 @@ him\add*,
 \b
 \q
 \v 7 A lame man cannot use his legs, 
-\q2 and similarly \f + \fk simile \f* \add it is useless for\add* a foolish person to speak \f + \fk metonymy \f* ◄proverbs/wise sayings►.
+\q2 and similarly \\f + \\ft simile \\f* \add it is useless for\add* a foolish person to speak \\f + \\ft metonymy \\f* ◄proverbs\f + \ft Or: wise \f* sayings►.
 \b
 \q
 \v 8 Tying a stone in a sling \add so that it cannot be thrown at a
 target\add* 
-\q2 is \add as foolish as\add* \f + \fk simile \f* honoring a foolish person. 
+\q2 is \add as foolish as\add* \\f + \\ft simile \\f* honoring a foolish person. 
 \b
 \q
-\v 9 If a drunk person waves some thorns/brambles with his hand,
+\v 9 If a drunk person waves some thorns\f + \ft Or: brambles \f* with his hand,
 \q2 \add he is not able to accomplish anything useful by doing that\add* \f + \ft (OR,
 \add he does not feel it when a thorn sticks in his hand\add*); 
-\q similarly, if foolish people speak \f + \fk metonymy \f* proverbs, 
+\q similarly, if foolish people speak \\f + \\ft metonymy \\f* proverbs, 
 \q2 \add they do not help anyone who hears them\add*. 
 \b
 \q
@@ -51,11 +51,11 @@ foolish\add*.
 \b
 \q
 \v 11 Doing something stupid a second time is foolish; 
-\q2 it is \add like\add* \f + \fk simile \f* a dog returning to \add eat\add* what it has vomited.
+\q2 it is \add like\add* \\f + \\ft simile \\f* a dog returning to \add eat\add* what it has vomited.
 \b
 \q
-\v 12  \add God\add* can help/bless foolish people more easily 
-\q2 than he can help/bless people who are not wise \f + \fk rhetorical question \f*, but think that they are wise.
+\v 12  \add God\add* can help\f + \ft Or: bless \f* foolish people more easily 
+\q2 than he can help\f + \ft Or: bless \f* people who are not wise \\f + \\ft rhetorical question \\f*, but think that they are wise.
 \b
 \q
 \v 13 Lazy people just \add stay inside their houses and do nothing\add*;
@@ -64,7 +64,7 @@ foolish\add*.
 \q
 \v 14 A door continually swings back and forth on its hinges \add and does not go
 anywhere\add*; 
-\q2 similarly \f + \fk simile \f*, lazy people \add just continually turn over\add* in their beds
+\q2 similarly \\f + \\ft simile \\f*, lazy people \add just continually turn over\add* in their beds
 \add and never do anything\add*. 
 \b
 \q
@@ -72,12 +72,12 @@ anywhere\add*;
 \q2 they put their hand in a dish \add to get some food\add* but do not even lift the food up to their mouths.
 \b
 \q
-\v 16 Lazy people think that they are wiser than seven/several people
+\v 16 Lazy people think that they are wiser than seven\f + \ft Or: several \f* people
 \q2 who can answer others' questions with good sense. 
 \b
 \q
-\v 17 Anyone who ◄meddles/involves himself► in a quarrel that does not concern him
-\q2 is \add as foolish as\add* \f + \fk simile \f* someone who tries to grab a passing dog by its ears.
+\v 17 Anyone who ◄meddles\f + \ft Or: involves \f* himself► in a quarrel that does not concern him
+\q2 is \add as foolish as\add* \\f + \\ft simile \\f* someone who tries to grab a passing dog by its ears.
 \b
 \q
 \v 18 Crazy people who shoot burning arrows to kill people 
@@ -87,7 +87,7 @@ anywhere\add*;
 \b
 \q
 \v 20 If there is no more firewood \add to put on the fire\add*, the fire will go out;
-\q2 similarly \f + \fk simile \f*, if there are no people who ◄gossip/tell people things that are not true►, quarreling will end.
+\q2 similarly \\f + \\ft simile \\f*, if there are no people who ◄gossip\f + \ft Or: tell \f* people things that are not true►, quarreling will end.
 \b
 \q
 \v 21 Putting charcoal on burning coals or putting wood on a fire causes the fire to keep burning;
@@ -95,15 +95,15 @@ anywhere\add*;
 \b
 \q
 \v 22 People \add enjoy listening to what gossips say about others just
-like\add* \f + \fk simile \f* they enjoy tasty food; 
+like\add* \\f + \\ft simile \\f* they enjoy tasty food; 
 \q2 they \add enjoy listening to what gossips tell them like\add* they enjoy swallowing tasty food.
 \b
 \q
 \v 23 People who say nice things when they are thinking about doing evil things
-\q2 are like a nice glaze/covering on a \add cheap\add* clay pot.
+\q2 are like a nice glaze\f + \ft Or: covering \f* on a \add cheap\add* clay pot.
 \b
 \q
-\v 24 Those who hate someone and are saying \f + \fk metonymy \f* something very different from what they are thinking are hypocrites;
+\v 24 Those who hate someone and are saying \\f + \\ft metonymy \\f* something very different from what they are thinking are hypocrites;
 \q2 in their inner beings they are planning \add to harm that person\add*.
 \q
 \v 25 When they say nice things, do not believe them, 
@@ -119,5 +119,5 @@ like\add* \f + \fk simile \f* they enjoy tasty food;
 \add to crush someone\add*. 
 \b
 \q
-\v 28 Those \f + \fk metonymy \f* who tell lies to (OR, about) \f* others really hate them,
+\v 28 Those \\f + \\ft metonymy \\f* who tell lies to (OR, about) \f* others really hate them,
 \q2 and those who deceive others ruin them. 

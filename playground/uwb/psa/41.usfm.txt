@@ -17,28 +17,28 @@ time\add*.
 \q2 \add I know that I am sick because\add* have sinned against you.”
 \q
 \v 5 My enemies say cruel things about me; 
-\q2 they say, “How soon will he die, and then everyone will forget about him \f + \fk metonymy \f* \f + \ft (OR, he will not have
+\q2 they say, “How soon will he die, and then everyone will forget about him \\f + \\ft metonymy \\f* \f + \ft (OR, he will not have
 \add any descendants to continue\add* his name) \f*?” 
 \q
 \v 6 When my enemies come to me, they falsely say that they \add are concerned about
 me\add*. 
-\q2 They listen to bad news about ◄me/my health►. 
+\q2 They listen to bad news about ◄me\f + \ft Or: my \f* health►. 
 \q2 Then they go away and tell everywhere what is happening to me.
 \b
 \q
 \v 7 All those who hate me whisper to others about me, 
-\q2 and they hope/desire that very bad things will happen to me.
+\q2 and they hope\f + \ft Or: desire \f* that very bad things will happen to me.
 \q
 \v 8 They say, “He will soon die because of his being sick; 
 \q2 he will never get up from his bed \add before he dies\add*.”
 \q
 \v 9 Even my best friend, whom I trusted very much, 
 \q2 who often ate with me, 
-\q2 has ◄betrayed me/put me into my enemies' hands► [IDI]. 
+\q2 has ◄betrayed me\f + \ft Or: put \f* me into my enemies' hands► [IDI]. 
 \b
 \q
 \v 10 But Yahweh, act mercifully to me, and enable me to become healthy again.
-\q2 When you do that, I will be able to ◄pay back my enemies/get revenge on my enemies/cause my enemies to suffer like they
+\q2 When you do that, I will be able to ◄pay back my enemies\f + \ft Or: get \f* revenge on my enemies\f + \ft Or: cause \f* my enemies to suffer like they
 caused me to suffer►. 
 \q
 \v 11  \add If you enable me to\add* do that, with the result that my enemies do not defeat me,

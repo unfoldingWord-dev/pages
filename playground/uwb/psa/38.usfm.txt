@@ -2,7 +2,7 @@
 \s A psalm written by David, asking God not to forget him 
 \q
 \v 1 Yahweh, when you are angry \add with me\add*, 
-\q2 do not rebuke/scold me and punish me! 
+\q2 do not rebuke\f + \ft Or: scold \f* me and punish me! 
 \q
 \v 2  \add Now it is as though\add* you have shot your arrows at me and wounded me;
 \q2 you have struck me and knocked me down. 
@@ -20,7 +20,7 @@
 \q2 I have sores that have become worse, and they stink. 
 \q
 \v 6 Sometimes I am bent over, and sometimes I lie prostrate; 
-\q2 I mourn/cry all day. 
+\q2 I mourn\f + \ft Or: cry \f* all day. 
 \q
 \v 7 My body is burning with fever, 
 \q2 and I am very ill. 
@@ -76,5 +76,5 @@ that\add* my enemies will rejoice!
 \v 21 Yahweh, do not abandon me! 
 \q2 My God, do not stay far from me! 
 \q
-\v 22 Lord, you are the one who saves/rescues me; 
+\v 22 Lord, you are the one who saves\f + \ft Or: rescues \f* me; 
 \q2 Quickly \add come and\add* help me! 

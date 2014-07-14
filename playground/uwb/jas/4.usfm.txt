@@ -3,48 +3,48 @@
 \s You are fighting among yourselves because of your evil desires, and you are never getting what you want because you pray
 with wrong motives. 
 \p
-\v 1 ◄Now I will tell you why you are fighting among yourselves and quarreling with each other./Do you know why you are
-fighting among yourselves and quarreling with each other?► \f + \fk rhetorical question \f* It is \f + \fk rhetorical question \f* because each of
-you\add wants to do the evil things that you\add* ◄\add enjoy doing/like to
-do\add*► \f + \fk personification \f*. You keep on wanting to do things that are opposed
+\v 1 ◄Now I will tell you why you are fighting among yourselves and quarreling with each other.\f + \ft Or: Do \f* you know why you are
+fighting among yourselves and quarreling with each other?► \\f + \\ft rhetorical question \\f* It is \\f + \\ft rhetorical question \\f* because each of
+you\add wants to do the evil things that you\add* ◄\add enjoy doing\f + \ft Or: like \f* to
+do\add*► \\f + \\ft personification \\f*. You keep on wanting to do things that are opposed
 \add to what God wants you to do\add*. 
 \v 2 There are things that you \add very much\add* desire to have, but you do not get
-\add those things, so\add* you \add want to\add* kill \f + \fk hyperbole \f* \add those who hinder you from getting
+\add those things, so\add* you \add want to\add* kill \\f + \\ft hyperbole \\f* \add those who hinder you from getting
 them\add*. You desire what \add other people have\add*, but you are unable to get
 \add what you desire, so\add* you quarrel and fight \add with one
-another\add* \f + \fk hyperbole \f*. You do not have \add what you desire\add* because you do not ask
+another\add* \\f + \\ft hyperbole \\f*. You do not have \add what you desire\add* because you do not ask
 \add God for it\add*. 
 \v 3  \add And even when\add* you do ask \add him\add*, he does not give you
 \add what you ask for\add* because you are asking for the wrong reason.
-\add You are asking for things\add* in order that you may use them just to ◄enjoy yourselves/make yourselves happy►.
+\add You are asking for things\add* in order that you may use them just to ◄enjoy yourselves\f + \ft Or: make \f* yourselves happy►.
 \s James 4:4-6 
 \s You are unfaithful to God and are behaving as evil people do, so you have become God's enemies, but he wants to help you. He
 opposes the proud, but he helps those who are humble. 
 \p
 \v 4  \add Like\add* a woman who is unfaithful to her husband, you
-\add are being unfaithful to God and not obeying him anymore\add* \f + \fk metaphor \f*. Those who are behaving as evil people do \f + \fk metonymy \f* \f + \ft (OR,
-Those who love \add the evil pleasures of\add* this world) are hostile toward God. Perhaps you do not realize that \f + \fk rhetorical question \f*. So
-those who decide to act as evil people do \f + \fk metonymy \f* become enemies of God.
+\add are being unfaithful to God and not obeying him anymore\add* \\f + \\ft metaphor \\f*. Those who are behaving as evil people do \\f + \\ft metonymy \\f* \f + \ft (OR,
+Those who love \add the evil pleasures of\add* this world) are hostile toward God. Perhaps you do not realize that \\f + \\ft rhetorical question \\f*. So
+those who decide to act as evil people do \\f + \\ft metonymy \\f* become enemies of God.
 \v 5 ◄Surely you do not think that it is for no reason that \add God told us
 in\add* the Scriptures that he eagerly desires that his Spirit, who lives in us, will help us to love
-\add God\add* only!/Do you think that it is for no reason that \add God told us
+\add God\add* only!\f + \ft Or: Do \f* you think that it is for no reason that \add God told us
 in\add* the Scriptures that he strongly desires that his Spirit, who lives in us, will help us to love
-\add God\add* only?► \f + \fk rhetorical question \f* God has a reason for desiring that. 
+\add God\add* only?► \\f + \\ft rhetorical question \\f* God has a reason for desiring that. 
 \v 6  \add It is because\add* he is kind \add to us and he\add* wants very much to help us. That is why ◄someone
-said/\add King Solomon\add* wrote► \add in the Scriptures\add*, “God opposes those who are proud, but he helps those who are
+said\f + \ft Or:  \f*\add King Solomon\add* wrote► \add in the Scriptures\add*, “God opposes those who are proud, but he helps those who are
 humble.” 
 \s James 4:7-10 
 \s So submit yourselves to God and resist the devil. Stop doing wrong and thinking wrong thoughts. Be sorry for having sinned.
 Humble yourselves before God, and he will honor you. 
 \p
-\v 7 So submit yourselves to God. ◄Resist the devil/Refuse to do what the devil wants►, and
+\v 7 So submit yourselves to God. ◄Resist the devil\f + \ft Or: Refuse \f* to do what the devil wants►, and
 \add as a result\add* he will run away from you. 
 \v 8 Come near \add spiritually\add* to God, and \add as a result\add* he will come near to you. You who are sinners, stop
 doing what is wrong and do only what is good [SYN, MET]. You who cannot decide
-\add whether you will\add* ◄\add commit yourselves to God/obey God
-completely\add*►, stop thinking wrong thoughts, and think only pure thoughts \f + \fk metonymy \f*.
-\v 9 Be sorrowful and weep/mourn \f + \fk doublet \f* \add because of the wrong that you have
-done\add*. Do not laugh \f + \fk doublet \f*, ◄\add enjoying only what you selfishly/enjoying only what you
+\add whether you will\add* ◄\add commit yourselves to God\f + \ft Or: obey \f* God
+completely\add*►, stop thinking wrong thoughts, and think only pure thoughts \\f + \\ft metonymy \\f*.
+\v 9 Be sorrowful and weep\f + \ft Or: mourn \f* \\f + \\ft doublet \\f* \add because of the wrong that you have
+done\add*. Do not laugh \\f + \\ft doublet \\f*, ◄\add enjoying only what you selfishly\f + \ft Or: enjoying \f* only what you
 yourselves\add*► \add desire\add*. Instead, be sad \add because you have done what is
 wrong\add*. 
 \v 10 Humble yourselves before the Lord, and \add as a result\add* he will honor you.
@@ -55,7 +55,7 @@ wrong\add*.
 \add because\add* those who speak evil against a fellow believer and
 \add thus\add* condemn \add one who is like\add* a brother \add to
 them\add* are really speaking against the law \add that God gave us to
-obey\add*. \add In this law, God commanded\add* \f + \fk metonymy \f* \add us to love
+obey\add*. \add In this law, God commanded\add* \\f + \\ft metonymy \\f* \add us to love
 others\add*, and those who speak evil against fellow believers, \add it is as
 though\add* they are saying \add by what they do\add* that we do not have to do what
 \add God\add* commanded. If you\add (sg)\add* say that you do not have to do what God commanded,
@@ -64,8 +64,8 @@ you\add (sg)\add* are not obeying God's law. Instead, you\add (sg)\add* are clai
 \v 12  \add But in fact\add*, there is only one who \add has the authority
 to\add* tell \add people\add* what is right to do and to condemn
 \add them, and that is God\add*. He alone is able to save \add people\add* or to destroy
-people\add . So\add*, ◄\bd you\bd*\add (sg) \f*\add* certainly have no right to decide how God should punish other people./who are
-you to decide how God should punish other people?► \f + \fk rhetorical question \f* 
+people\add . So\add*, ◄\bd you\bd*\add (sg) \f*\add* certainly have no right to decide how God should punish other people.\f + \ft Or: who \f* are
+you to decide how God should punish other people?► \\f + \\ft rhetorical question \\f* 
 \s James 4:13-17 
 \s You should not boast about what you will do in the future, because life is transitory. Instead, you should plan to do
 whatever God wants you to do, because boasting about what you want to do, rather than considering the will of God, is sinful.
@@ -73,9 +73,9 @@ whatever God wants you to do, because boasting about what you want to do, rather
 \v 13  \add Some of you\add* are \add arrogantly\add* saying, “Today or tomorrow we will go to a certain city. We will spend a
 year there and we will buy and sell things and earn a lot of money.” Now, you listen to me!
 \v 14  \add You should not talk like that, because\add* you do not know what will happen tomorrow, and you do not know
-\add how long\add* you will live! Your life \add is short\add* \f + \fk metaphor \f*,
+\add how long\add* you will live! Your life \add is short\add* \\f + \\ft metaphor \\f*,
 \add like\add* a mist that appears for a short time and then disappears.
-\v 15 Instead of \add what you are saying\add*, you should say, “If the Lord wills/desires, we will live and do this or that.”
+\v 15 Instead of \add what you are saying\add*, you should say, “If the Lord wills\f + \ft Or: desires \f*, we will live and do this or that.”
 \v 16 But what you are doing is boasting about all the things that you arrogantly
 \add plan to do\add*. Your boasting like that is evil. 
 \p

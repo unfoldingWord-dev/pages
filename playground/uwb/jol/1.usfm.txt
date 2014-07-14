@@ -5,7 +5,7 @@
 \q
 \v 2 You leaders \add of Israel\add*, and everyone else who lives in this country, listen
 \add to this message\add*! 
-\q2 Nothing \f + \fk rhetorical question \f* like this has ever happened during the time that we have lived
+\q2 Nothing \\f + \\ft rhetorical question \\f* like this has ever happened during the time that we have lived
 \q2 or the time when our ancestors lived. 
 \q
 \v 3 Tell your children about it, 
@@ -25,27 +25,27 @@ crops\add*;
 \v 5 You people who are drunk, wake up! 
 \q2 Wake up and wail loudly, 
 \q because all the grapes are ruined, 
-\q2 and so there will be no new wine \f + \fk metonymy \f*! 
+\q2 and so there will be no new wine \\f + \\ft metonymy \\f*! 
 \q
 \v 6 Huge swarms of locusts have entered our country. 
-\q2 They are like \f + \fk metaphor \f* a powerful army 
+\q2 They are like \\f + \\ft metaphor \\f* a powerful army 
 \q that has very many soldiers, 
 \q2 with the result that no one can count them. 
-\q The locusts have teeth that are \add as sharp\add* as the teeth of lions \f + \fk doublet \f*!
+\q The locusts have teeth that are \add as sharp\add* as the teeth of lions \\f + \\ft doublet \\f*!
 \q
 \v 7 They have destroyed our grapevines and our fig trees 
 \q2 by stripping off \add and eating\add* all the bark, 
-\q2 with the result that the branches are white and ◄bare/have no leaves on them►.
+\q2 with the result that the branches are white and ◄bare\f + \ft Or: have \f* no leaves on them►.
 \b
 \q
-\v 8 Cry, like \f + \fk simile \f* a young woman cries 
-\q2 when the young man to whom she was ◄engaged/promised to marry► has died.
+\v 8 Cry, like \\f + \\ft simile \\f* a young woman cries 
+\q2 when the young man to whom she was ◄engaged\f + \ft Or: promised \f* to marry► has died.
 \q
 \v 9 There is no grain or wine for us to offer \add to be sacrifices\add* at the temple,
-\q2 so the priests who serve Yahweh are mourning/weeping. 
+\q2 so the priests who serve Yahweh are mourning\f + \ft Or: weeping \f*. 
 \q
 \v 10  \add The crops in\add* the fields have been ruined; 
-\q2 \add it is as though\add* \f + \fk personification \f* the ground is mourning. 
+\q2 \add it is as though\add* \\f + \\ft personification \\f* the ground is mourning. 
 \q The grain has been destroyed, 
 \q2 there are no \add grapes to make\add* wine, 
 \q2 and there is no more \add olive\add* oil. 
@@ -66,7 +66,7 @@ crops\add*;
 mourning\add*, 
 \q2 because there is no grain or wine to be offered at the temple of your God.
 \q
-\v 14 Tell the people that they should ◄fast/abstain from eating food►.
+\v 14 Tell the people that they should ◄fast\f + \ft Or: abstain \f* from eating food►.
 \q Tell the leaders and the other people to gather at the temple
 \q2 and to cry out to Yahweh there. 
 \q
@@ -77,12 +77,12 @@ mourning\add*,
 \b
 \q
 \v 16 Our crops are already gone, 
-\q2 and no one is rejoicing at all \f + \fk doublet \f* at the temple of our God.
+\q2 and no one is rejoicing at all \\f + \\ft doublet \\f* at the temple of our God.
 \q
 \v 17  \add When we plant\add* seeds, \add they do not grow\add*;
 \q they dry up in the ground, 
 \q2 so there are no crops to harvest. 
-\q Our barns/storehouses are empty; 
+\q Our barns\f + \ft Or: storehouses \f* are empty; 
 \q2 there is no grain to store in them. 
 \q
 \v 18 Our cattle groan, searching for a pasture with some grass to eat,
@@ -90,7 +90,7 @@ mourning\add*,
 \b
 \q
 \v 19 Yahweh, I cry out to you, 
-\q2 because our pastures and our forests have dried up in the hot sunshine \f + \fk metaphor \f*.
+\q2 because our pastures and our forests have dried up in the hot sunshine \\f + \\ft metaphor \\f*.
 \q
 \v 20  \add It is as though\add* even the wild animals cry out to you
 \q2 because all the streams have dried up. 

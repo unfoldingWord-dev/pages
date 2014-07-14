@@ -1,13 +1,13 @@
 \c 31  
 \s Instructions for the work for Bezalel and Oholiab 
 \p
-\v 1-2 Yahweh \add also\add* said to Moses/me, “Note that I have chosen Bezalel, the son of Uri and grandson of Hur, from the
+\v 1-2 Yahweh \add also\add* said to Moses\f + \ft Or: me \f*, “Note that I have chosen Bezalel, the son of Uri and grandson of Hur, from the
 tribe of Judah. 
-\v 3 I have caused him to be completely controlled/empowered by my Spirit, and I have given him special ability
+\v 3 I have caused him to be completely controlled\f + \ft Or: empowered \f* by my Spirit, and I have given him special ability
 \add to make things\add* and have enabled him to know how to do very skilled work.
 \v 4 He can engrave skillful designs in gold, silver, and bronze.
-\v 5 He can cut ◄jewels/valuable stones► and enclose them \add in tiny gold
-settings/frames\add*. He can carve things from wood and do other skilled work.
+\v 5 He can cut ◄jewels\f + \ft Or: valuable \f* stones► and enclose them \add in tiny gold
+settings\f + \ft Or: frames \f*\add*. He can carve things from wood and do other skilled work.
 \v 6 Note that I have also appointed Oholiab, the son of Ahisamach, from the tribe of Dan, to work with him. I have also given
 special ability to other men, in order that they can make all the things that I have commanded you
 \add to be made\add*. 
@@ -21,11 +21,11 @@ base,
 \add The skilled workers\add* must make all these things exactly as I have told you that they should do.”
 \s Instructions for the day of rest 
 \p
-\v 12 Yahweh also said to Moses/me, 
-\v 13 “Tell the Israeli people, ‘Obey my instructions regarding the ◄rest days/Sabbath days►. Those days will remind you and me
-\add and your descendants\add*, throughout all future generations, that I, Yahweh, have ◄set you apart/chosen you► to be my
+\v 12 Yahweh also said to Moses\f + \ft Or: me \f*, 
+\v 13 “Tell the Israeli people, ‘Obey my instructions regarding the ◄rest days\f + \ft Or: Sabbath \f* days►. Those days will remind you and me
+\add and your descendants\add*, throughout all future generations, that I, Yahweh, have ◄set you apart\f + \ft Or: chosen \f* you► to be my
 people. 
-\v 14 You must obey \add my rules about\add* the rest days because they are holy/sacred. Those who treat those days in an
+\v 14 You must obey \add my rules about\add* the rest days because they are holy\f + \ft Or: sacred \f*. Those who treat those days in an
 irreverent way by working on those days must be executed \add to show
 that\add* I no longer consider them to belong to my people. 
 \v 15 You may work for six days \add each week\add*, but the seventh day
@@ -37,5 +37,5 @@ descendants\add* must celebrate it throughout all future generations.
 because\add* I, Yahweh, created the heavens and the earth in six days, and on the seventh day I stopped doing that work and
 relaxed.’ ” 
 \p
-\v 18 When Yahweh finished talking with Moses/me on the top of Sinai Mountain, he gave him/me the two stone slabs on which he
+\v 18 When Yahweh finished talking with Moses\f + \ft Or: me \f* on the top of Sinai Mountain, he gave him\f + \ft Or: me \f* the two stone slabs on which he
 had engraved his commandments with his own fingers. 

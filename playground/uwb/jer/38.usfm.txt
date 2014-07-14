@@ -6,7 +6,7 @@ Pashhur the son of Malkijah, heard what I had been telling all the people.
 \v 2  \add I had been telling them\add* that Yahweh was saying, “Everyone who stays in Jerusalem will die. They will be killed
 by \add their enemies'\add* swords or from famines or from diseases. But those who surrender to the Babylonian army will remain
 alive. They will escape; they will not be killed. 
-\v 3 Yahweh also says that the army of the king of Babylon will certainly capture this city. \f + \fk doublet \f*”
+\v 3 Yahweh also says that the army of the king of Babylon will certainly capture this city. \\f + \\ft doublet \\f*”
 \p
 \v 4 So those officials went to the king and said, “This man \add Jeremiah\add* should be executed! Because of what he is
 saying, he is discouraging our soldiers who remain in the city. He is also discouraging the people. He is not saying things
@@ -19,13 +19,13 @@ Malkijah, who was a son of the king. There was no water in the well, but there w
 mud. 
 \p
 \v 7 But Ebed-Melech, a palace official from Ethiopia, heard someone say that I was in the well. At that time the king was
-deciding/judging people's cases at the Benjamin Gate. 
+deciding\f + \ft Or: judging \f* people's cases at the Benjamin Gate. 
 \v 8 Ebed-Melech went out of the palace and said to the king, 
 \v 9 “Your majesty, those men have done a very evil thing. They have put the prophet Jeremiah in a well. Almost all the food in
 the city is gone, \add so they will not be able to bring him any
 food\add*, and as a result he will die from hunger!” 
 \p
-\v 10 So the king told Ebed-Melech, “Take thirty of my men/soldiers with you, and pull Jeremiah out of the well, in order that
+\v 10 So the king told Ebed-Melech, “Take thirty of my men\f + \ft Or: soldiers \f* with you, and pull Jeremiah out of the well, in order that
 he does not die!” 
 \p
 \v 11 So Ebed-Melech took thirty men with him and they went into a room in the palace below the room where they stored very
@@ -47,7 +47,7 @@ I\add* be executed. And if I give you good advice, you will not pay attention to
 to be executed, and I will not put you into the hands of those who are wanting to kill you.”
 \p
 \v 17 So then I said to Zedekiah, “This is what the Almighty Commander of the armies of angels the God whom we Israelis
-\add worship\add*, says: ‘If you surrender to the officers of the king of Babylon, you and your family will ◄be spared/not be
+\add worship\add*, says: ‘If you surrender to the officers of the king of Babylon, you and your family will ◄be spared\f + \ft Or: not \f* be
 killed►, and this city will not be burned. 
 \v 18 But if you refuse to surrender to them, you will not escape. And the army from Babylonia will capture this city and
 completely burn it.’ ” 
@@ -72,7 +72,7 @@ not escape. \add The soldiers of\add* the king of Babylon will seize you, and th
 \v 24 Then Zedekiah said to me, “Do not tell anyone what you told me; if you tell anyone, the king's officials may kill you.
 \v 25 If my officials find out that I talked to you, perhaps they will come to you and say, ‘Tell us what you and the king were
 talking about. If you do not tell us, we wlll kill you.’ 
-\v 26 If that happens, just tell them that you pleaded with me not to send you back to the dungeon/cell in Jonathan's house,
+\v 26 If that happens, just tell them that you pleaded with me not to send you back to the dungeon\f + \ft Or: cell \f* in Jonathan's house,
 \add because you were afraid that\add* you would die \add if you were put there
 again\add*.” 
 \p

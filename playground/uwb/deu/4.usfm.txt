@@ -1,8 +1,8 @@
 \c 4  
 \s Moses urged the people to obey God's laws 
 \p
-\v 1 “Now, you Israeli people, obey all the rules and regulations \f + \fk doublet \f* that I will teach you. If you do that, you will remain
-alive and you will enter and occupy/capture the land that Yahweh, the God whom your ancestors
+\v 1 “Now, you Israeli people, obey all the rules and regulations \\f + \\ft doublet \\f* that I will teach you. If you do that, you will remain
+alive and you will enter and occupy\f + \ft Or: capture \f* the land that Yahweh, the God whom your ancestors
 \add worshiped\add*, is giving to you. 
 \v 2 Do not add anything to what I command you, and do not take anything away from what I tell you. Obey all the commands of
 Yahweh our God that I am giving to you. 
@@ -15,14 +15,14 @@ Yahweh our God that I am giving to you.
 them \add when you are living\add* in the land that you are about to enter and occupy.
 \v 6 Obey them faithfully because, \add if you do that\add*, you will show the people of other nations that you are very wise.
 When they hear about all these laws, they will say, ‘The people of this great nation
-\add of Israel\add* are certainly very wise \f + \fk doublet \f*!’ 
-\v 7 Even if other nations are great, there is none \f + \fk rhetorical question \f* of them that has a god who is as near to them as Yahweh our God is to
-us! Whenever we call out to him \add to help us, he answers/helps
+\add of Israel\add* are certainly very wise \\f + \\ft doublet \\f*!’ 
+\v 7 Even if other nations are great, there is none \\f + \\ft rhetorical question \\f* of them that has a god who is as near to them as Yahweh our God is to
+us! Whenever we call out to him \add to help us, he answers\f + \ft Or: helps \f*
 us\add*! 
-\v 8 And there is no \f + \fk rhetorical question \f* other nation, even if it is a great nation, that has laws that are as just/fair as the laws that I
+\v 8 And there is no \\f + \\ft rhetorical question \\f* other nation, even if it is a great nation, that has laws that are as just\f + \ft Or: fair \f* as the laws that I
 am telling to you today. 
 \p
-\v 9 But be very careful! [DOU, IDI] Do not forget what you \f + \fk synecdoche \f* have seen
+\v 9 But be very careful! [DOU, IDI] Do not forget what you \\f + \\ft synecdoche \\f* have seen
 \add God do\add*. Remember those things as long as you are alive. Tell them to your children and your grandchildren.
 \v 10 Tell them about the day that your ancestors stood in the presence of Yahweh our God at Sinai Mountain, when he said to
 me, ‘Gather the people together, in order that they can hear what I say. I want them to learn to have an awesome respect for me
@@ -41,7 +41,7 @@ are about to enter and occupy.”
 \v 15 “On the day that Yahweh spoke to your ancestors at Sinai \add Mountain\add*, they did not see him. So, be careful!
 \v 16 Do not sin by making for yourselves any idol! Do not make an idol that resembles any person, either a man or a woman,
 \v 17 or that resembles any animal or any bird 
-\v 18 or any ◄reptile/creature that crawls along the ground► or any fish in the deep ocean.
+\v 18 or any ◄reptile\f + \ft Or: creature \f* that crawls along the ground► or any fish in the deep ocean.
 \v 19 And be careful to not look up toward the sky and be tempted to worship anything that you see there—the sun or the moon or
 the stars. Yahweh our God has given those to \add be a blessing to\add* all people everywhere,
 \add but you must not worship them\add*. 
@@ -49,28 +49,28 @@ the stars. Yahweh our God has given those to \add be a blessing to\add* all peop
 though\add* they were in a blazing furnace, in order that they would be people who belong to him, which is what you are today.
 \p
 \v 21 But Yahweh was angry with me because of \add what\add* your ancestors
-\add did/said\add*. He solemnly declared that I would not cross the Jordan
-\add River\add* to enter the good/fertile land that he is giving to you.
+\add did\f + \ft Or: said \f*\add*. He solemnly declared that I would not cross the Jordan
+\add River\add* to enter the good\f + \ft Or: fertile \f* land that he is giving to you.
 \v 22 He said that I must die here in this land and never cross the Jordan
 \add River\add*. But you will go across it, and you will occupy that land.
 \v 23 Be sure that you do not forget the agreement that Yahweh our God made with you. He commanded you to not make any kind of
 idol, because he has forbidden that. 
 \v 24  \add You must not do that\add* because Yahweh your God will destroy
-\add anyone who worships idols, like\add* \f + \fk metaphor \f* a fire completely destroys things. He
-\add wants people to worship only him\add*; he ◄cannot accept/will punish► people who worship anyone or anything else.
+\add anyone who worships idols, like\add* \\f + \\ft metaphor \\f* a fire completely destroys things. He
+\add wants people to worship only him\add*; he ◄cannot accept\f + \ft Or: will \f* punish► people who worship anyone or anything else.
 \p
 \v 25 When you have been in the land \add of Canaan\add* for a long time and you have children and grandchildren, do not sin by
 making an idol that represents anything at all, because Yahweh says that is evil, and if you do that, you will cause him to
 become angry with you \add and punish you\add*. 
-\v 26 Today I am requesting everyone who is in heaven and everyone who is on the earth \f + \fk metonymy \f* to watch what you are doing.
+\v 26 Today I am requesting everyone who is in heaven and everyone who is on the earth \\f + \\ft metonymy \\f* to watch what you are doing.
 \add If you disobey what I am telling you\add*, you will soon all die in the land that you will be crossing the Jordan
-\add River\add* to occupy. You will not live very long there; Yahweh will completely get rid of many \f + \fk hyperbole \f* of you.
+\add River\add* to occupy. You will not live very long there; Yahweh will completely get rid of many \\f + \\ft hyperbole \\f* of you.
 \v 27 And \add the rest of you\add*, Yahweh will force you to go and live among the people of many other nations. Only a few of
-you will ◄survive/remain alive► there. 
+you will ◄survive\f + \ft Or: remain \f* alive► there. 
 \v 28 When you are in those nations, you will worship gods that are made of wood and stone, gods made by humans, gods that
 cannot see anything or hear anything or eat anything or smell anything.
 \v 29 But while you are there, you will try \add to know\add* Yahweh your God, and if you try with your entire inner being
-\add to know him\add*, he will ◄answer/reveal himself to► you. 
+\add to know him\add*, he will ◄answer\f + \ft Or: reveal \f* himself to► you. 
 \v 30 In the future, when you are being mistreated there and all those bad things happen to you, you will again worship only
 Yahweh and obey him. 
 \v 31 Yahweh is a God who acts mercifully. \add If you continue to obey
@@ -79,14 +79,14 @@ him\add*, he will not abandon you or destroy you or forget the agreement that he
 \p
 \v 32 “Now think about the past, about the time before you were born, about all the time since God first created people here on
 the earth. You could search everywhere, in heaven and on the earth. ◄Has anything like this ever happened that is as great as
-\add what Yahweh did for the Israeli people\add*?/Certainly nothing has ever happened that is as great as
-\add what Yahweh did for the Israeli people\add*.► \f + \fk rhetorical question \f* ◄Has anyone ever heard of anything like this?/Certainly no one has
-ever heard of anything like this.► \f + \fk rhetorical question \f* 
-\v 33 ◄Has any group ever remained alive after they heard a god speak to them from the middle of a fire, like we did?/Certainly
-no group has ever remained alive after they heard a god speak to them from the middle of a fire, like we did.► \f + \fk rhetorical question \f*
+\add what Yahweh did for the Israeli people\add*?\f + \ft Or: Certainly \f* nothing has ever happened that is as great as
+\add what Yahweh did for the Israeli people\add*.► \\f + \\ft rhetorical question \\f* ◄Has anyone ever heard of anything like this?\f + \ft Or: Certainly \f* no one has
+ever heard of anything like this.► \\f + \\ft rhetorical question \\f* 
+\v 33 ◄Has any group ever remained alive after they heard a god speak to them from the middle of a fire, like we did?\f + \ft Or: Certainly \f*
+no group has ever remained alive after they heard a god speak to them from the middle of a fire, like we did.► \\f + \\ft rhetorical question \\f*
 \v 34 Certainly no other god has ever tried to take a \add huge\add* group of people from one nation
 \add to another location\add*, like he did for us when he brought us out of Egypt. We saw Yahweh our God use great power [MTY,
-DOU] when he performed many kinds of \f + \fk doublet \f* miracles, and sent plagues, and did many other very terrifying things, and
+DOU] when he performed many kinds of \\f + \\ft doublet \\f* miracles, and sent plagues, and did many other very terrifying things, and
 \add rescued us when the army of Egypt tried to\add* fight against us.
 \p
 \v 35 Yahweh showed all these things to you, in order that you would know that only he is truly God, and that there is no other
@@ -99,30 +99,30 @@ ancestors out of Egypt.
 order that he could allow them to capture their land and cause it to become yours, which is
 \add what is happening\add* now. 
 \p
-\v 39 So today you should ◄meditate on/think about► the fact that Yahweh is God, that he is/rules in heaven and also on the
+\v 39 So today you should ◄meditate on\f + \ft Or: think \f* about► the fact that Yahweh is God, that he is\f + \ft Or: rules \f* in heaven and also on the
 earth, and that there is no other god. 
 \v 40 Obey all the rules and regulations that I am giving to you today, in order that things will go well for you and for your
 descendants, and that you will live a long time in the land that Yahweh our God is giving to you,
 \add to belong to you\add* forever.” 
 \s The cities of refuge 
 \p
-\v 41 Then Moses/I set apart three cities that are in the east side of the Jordan
+\v 41 Then Moses\f + \ft Or: I \f* set apart three cities that are in the east side of the Jordan
 \add River\add*. 
 \v 42 If someone accidentally killed another person, a person who had not been his enemy previously, he could escape to one of
-those cities. He would be safe/protected in one of those cities \add because the people there would protect
+those cities. He would be safe\f + \ft Or: protected \f* in one of those cities \add because the people there would protect
 him\add*. 
-\v 43 For the tribe of Reuben, Moses/I set apart Bezer \add city\add* in the ◄plateau/high level► area. For the tribe of Gad,
-Moses/I set apart Ramoth \add city\add* in the Gilead \add area\add*. For the tribe of Manasseh, Moses/I set apart Golan
+\v 43 For the tribe of Reuben, Moses\f + \ft Or: I \f* set apart Bezer \add city\add* in the ◄plateau\f + \ft Or: high \f* level► area. For the tribe of Gad,
+Moses\f + \ft Or: I \f* set apart Ramoth \add city\add* in the Gilead \add area\add*. For the tribe of Manasseh, Moses\f + \ft Or: I \f* set apart Golan
 \add city\add* in the Bashan \add region\add*. 
 \s Where Moses gave them God's laws 
 \p
-\v 44 Moses/I gave \add God's\add* laws to the Israeli people. 
-\v 45 They included all the rules and instructions and commands that Moses/I gave to them, after they/we had come out of Egypt,
-\v 46 when they/we were in the valley east of the Jordan \add River\add*. They/We were across from Beth-Peor
+\v 44 Moses\f + \ft Or: I \f* gave \add God's\add* laws to the Israeli people. 
+\v 45 They included all the rules and instructions and commands that Moses\f + \ft Or: I \f* gave to them, after they\f + \ft Or: we \f* had come out of Egypt,
+\v 46 when they\f + \ft Or: we \f* were in the valley east of the Jordan \add River\add*. They\f + \ft Or: We \f* were across from Beth-Peor
 \add town\add*, in the land that \add previously\add* was ruled by Sihon, the king of the Amor people-group, who lived in
-Heshbon \add city\add*. Moses/I and the other Israelis had defeated his
-\add army\add* when they/we came out of Egypt. 
-\v 47 They/We captured Sihon's land and the land that Og, the king of the Bashan
+Heshbon \add city\add*. Moses\f + \ft Or: I \f* and the other Israelis had defeated his
+\add army\add* when they\f + \ft Or: we \f* came out of Egypt. 
+\v 47 They\f + \ft Or: We \f* captured Sihon's land and the land that Og, the king of the Bashan
 \add region\add*, ruled. They were the two kings who ruled the Amor people-group
 \add in the area\add* east of the Jordan \add River\add*. 
 \v 48 Their land extended from Aroer \add town in the south\add* along the Arnon

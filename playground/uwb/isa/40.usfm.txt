@@ -7,31 +7,31 @@
 \v 2 Speak kindly to \add the people of\add* Jerusalem; 
 \q2 tell them that their suffering is ended, 
 \q and that I have forgiven them for the sins that they have committed;
-\q2 I \f + \fk synecdoche \f* have fully punished them for their sins.” 
+\q2 I \\f + \\ft synecdoche \\f* have fully punished them for their sins.” 
 \q
 \v 3 I hear someone who is shouting, 
 \q “Prepare in the desert a way for Yahweh to come \add to you\add*;
 \q2 make a smooth road for our God \f + \ft (OR, Prepare yourselves to receive Yahweh when he comes, like people make a straight road
-for an important official \f + \fk metaphor \f*). 
+for an important official \\f + \\ft metaphor \\f*). 
 \q
 \v 4 Fill in the valleys; 
 \q2 flatten every hill and every mountain. 
 \q Make the uneven ground smooth, 
 \q2 and make the rough places smooth. 
 \q
-\v 5 If you do that, it will become known that Yahweh is glorious/great,
+\v 5 If you do that, it will become known that Yahweh is glorious\f + \ft Or: great \f*,
 \q2 and all people will realize it at the same time. 
-\q \add Those things will surely happen\add* because it is Yahweh who has said \f + \fk metonymy \f* it.”
+\q \add Those things will surely happen\add* because it is Yahweh who has said \\f + \\ft metonymy \\f* it.”
 \b
 \q
 \v 6 Someone said to me, “Shout!” 
 \q2 I replied, “What should I shout?” 
-\q \add He replied\add*, “Shout that people are like \f + \fk simile \f* grass;
+\q \add He replied\add*, “Shout that people are like \\f + \\ft simile \\f* grass;
 \q2 their influence fades as quickly as flowers in the field. 
 \q
 \v 7 Grass withers and flowers dry up 
 \q2 when Yahweh causes a hot wind from the desert to blow on them.
-\q2 And people are \f + \fk metaphor \f* like that. 
+\q2 And people are \\f + \\ft metaphor \\f* like that. 
 \q
 \v 8 The grass withers and the flowers dry up, 
 \q2 but what our God promises will last forever.” 
@@ -44,44 +44,44 @@ for an important official \f + \fk metaphor \f*).
 \q2 “Your God is coming here!” 
 \q
 \v 10 Yahweh your God will be coming with power; 
-\q2 he will rule powerfully \f + \fk metonymy \f*. 
-\q And when he comes, he will bring with him the people whom he has freed \f + \fk metaphor \f*
+\q2 he will rule powerfully \\f + \\ft metonymy \\f*. 
+\q And when he comes, he will bring with him the people whom he has freed \\f + \\ft metaphor \\f*
 \add from being slaves in Babylonia\add*. 
 \q
 \v 11 He will take care of his people 
-\q2 like \f + \fk simile \f* a shepherd takes care of his sheep, 
+\q2 like \\f + \\ft simile \\f* a shepherd takes care of his sheep, 
 \q2 and carries the young lambs in his arms. 
 \q He carries them close to his chest 
 \q2 and he gently leads the female sheep 
-\q2 that are nursing/breast-feeding their young lambs. 
+\q2 that are nursing\f + \ft Or: breast \f*-feeding their young lambs. 
 \b
 \q
 \v 12  \add There is no one like Yahweh\add*! 
-\q2 ◄Who else has measured the water in the oceans in the palm of his hand?/No one else has measured the water in the oceans in
-the palm of his hand!► \f + \fk rhetorical question \f* 
-\q ◄Who else has measured the sky with his fingers?/No one else has measured the sky with his fingers!► \f + \fk rhetorical question \f*
-\q2 ◄Who else knows how much the earth weighs?/No one else knows how much the earth weighs!► \f + \fk rhetorical question \f*
-\q2 ◄Who else has weighed the mountains and hills on scales?/No one else has weighed the mountains and hills on scales!► \f + \fk rhetorical question \f*
+\q2 ◄Who else has measured the water in the oceans in the palm of his hand?\f + \ft Or: No \f* one else has measured the water in the oceans in
+the palm of his hand!► \\f + \\ft rhetorical question \\f* 
+\q ◄Who else has measured the sky with his fingers?\f + \ft Or: No \f* one else has measured the sky with his fingers!► \\f + \\ft rhetorical question \\f*
+\q2 ◄Who else knows how much the earth weighs?\f + \ft Or: No \f* one else knows how much the earth weighs!► \\f + \\ft rhetorical question \\f*
+\q2 ◄Who else has weighed the mountains and hills on scales?\f + \ft Or: No \f* one else has weighed the mountains and hills on scales!► \\f + \\ft rhetorical question \\f*
 \q
-\v 13 And ◄who else can advise Yahweh's Spirit?/No one else can advise Yahweh's Spirit!► \f + \fk rhetorical question \f*
-\q2 ◄Who can teach him or advise/tell him what he should do?/No one can teach him or advise/tell him what he should do!► \f + \fk rhetorical question \f*
+\v 13 And ◄who else can advise Yahweh's Spirit?\f + \ft Or: No \f* one else can advise Yahweh's Spirit!► \\f + \\ft rhetorical question \\f*
+\q2 ◄Who can teach him or advise\f + \ft Or: tell \f* him what he should do?\f + \ft Or: No \f* one can teach him or advise\f + \ft Or: tell \f* him what he should do!► \\f + \\ft rhetorical question \\f*
 \q
-\v 14 ◄Has Yahweh consulted anyone else to get advice?/Yahweh has certainly not consulted anyone else to get advice!► \f + \fk rhetorical question \f*
-\q2 ◄Does he need someone to tell him what is right to do and how to act justly?/He certainly does not need someone to tell him
-what is right to do and how to act justly!► \f + \fk rhetorical question \f* 
+\v 14 ◄Has Yahweh consulted anyone else to get advice?\f + \ft Or: Yahweh \f* has certainly not consulted anyone else to get advice!► \\f + \\ft rhetorical question \\f*
+\q2 ◄Does he need someone to tell him what is right to do and how to act justly?\f + \ft Or: He \f* certainly does not need someone to tell him
+what is right to do and how to act justly!► \\f + \\ft rhetorical question \\f* 
 \b
 \q
 \v 15  \add Yahweh considers that\add* the nations are \add as insignificant
-as\add* \f + \fk metaphor \f* one drop from a bucket \add full of water\add*. 
+as\add* \\f + \\ft metaphor \\f* one drop from a bucket \add full of water\add*. 
 \q2 They are \add as insignificant as\add* dust on scales. 
 \q He is able to weigh islands 
-\q2 \add as though they weighed no more than\add* specks of dust/sand.
+\q2 \add as though they weighed no more than\add* specks of dust\f + \ft Or: sand \f*.
 \q
 \v 16 There would be not enough wood from all the trees in Lebanon
 \q2 to make a suitable fire for \add sacrificing animals to\add* him,
 \q and there are not enough animals in Lebanon to offer as sacrifices to him.
 \q
-\v 17 The nations of the world are completely insignificant/unimportant to him;
+\v 17 The nations of the world are completely insignificant\f + \ft Or: unimportant \f* to him;
 \q2 he considers that they are worthless and less than nothing [HYP, DOU].
 \b
 \q
@@ -105,17 +105,17 @@ as\add* \f + \fk metaphor \f* one drop from a bucket \add full of water\add*.
 \q
 \v 22 God sits \add on his throne\add* above the earth, 
 \q2 and the people \add on the earth\add* below seem to be \add as
-small\add* as \f + \fk simile \f* grasshoppers. 
+small\add* as \\f + \\ft simile \\f* grasshoppers. 
 \q He spreads out the sky like a curtain; 
-\q2 it is like \f + \fk simile \f* a tent for him to live in. 
+\q2 it is like \\f + \\ft simile \\f* a tent for him to live in. 
 \q
 \v 23 He causes kings to have no more power, 
 \q2 and he causes the rulers to be worth nothing. 
 \q
 \v 24 They start to rule, like small plants start to grow and form roots;
 \q2 but then \add he gets rid of them\add* 
-\q2 as though \f + \fk metaphor \f* they withered when he blew on them, 
-\q like \f + \fk simile \f* chaff that is blown away by the wind. 
+\q2 as though \\f + \\ft metaphor \\f* they withered when he blew on them, 
+\q like \\f + \\ft simile \\f* chaff that is blown away by the wind. 
 \b
 \q
 \v 25 The Holy One asks, 
@@ -123,15 +123,15 @@ small\add* as \f + \fk simile \f* grasshoppers.
 \q2 Is anyone equal to me?” 
 \q
 \v 26 Look up toward the sky: 
-\q2 consider who \f + \fk rhetorical question \f* created all the stars. 
+\q2 consider who \\f + \\ft rhetorical question \\f* created all the stars. 
 \q \add Yahweh created them\add*, and at night he causes them to appear;
 \q2 he calls each one by its name. 
-\q Because he is extremely powerful \f + \fk doublet \f*, 
-\q2 all of the stars are there \f + \fk litotes \f* \add when he calls out their
+\q Because he is extremely powerful \\f + \\ft doublet \\f*, 
+\q2 all of the stars are there \\f + \\ft litotes \\f* \add when he calls out their
 names\add*. 
 \b
 \q
-\v 27 You people of Israel \f + \fk doublet \f*, why do you complain that Yahweh does not see the
+\v 27 You people of Israel \\f + \\ft doublet \\f*, why do you complain that Yahweh does not see the
 \add troubles that you are experiencing\add*? 
 \q2 Why do you say that he does not act fairly toward you? 
 \q
@@ -142,12 +142,12 @@ names\add*.
 \q He never becomes weak or weary, 
 \q2 and no one can find out how much he understands. 
 \q
-\v 29 He strengthens \f + \fk doublet \f* those who feel weak and tired. 
+\v 29 He strengthens \\f + \\ft doublet \\f* those who feel weak and tired. 
 \q
 \v 30 Even youths become faint and weary, 
 \q2 and young men will fall when they are exhausted. 
 \q
 \v 31 But those who trust in Yahweh will become strong again; 
-\q2 \add it will be as though\add* they will soar/fly high like \f + \fk simile \f* eagles do.
+\q2 \add it will be as though\add* they will soar\f + \ft Or: fly \f* high like \\f + \\ft simile \\f* eagles do.
 \q They will run \add for a long time\add* and not become weary;
 \q2 they will walk \add long distances\add* and not faint. 

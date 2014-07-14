@@ -10,13 +10,13 @@ again. \add That will surely happen because\add* I, Yahweh, have said it.”
 \p
 \v 4 Yahweh gave to me another message concerning the people of Israel and Judah.
 \v 5 This is what he said: 
-\q “I hear people screaming because they are terrified \f + \fk doublet \f*; 
+\q “I hear people screaming because they are terrified \\f + \\ft doublet \\f*; 
 \q2 there is no peace \add in the land\add*. 
 \q
 \v 6 But think about this: 
-\q Men certainly do not \f + \fk rhetorical question \f* give birth to babies. 
+\q Men certainly do not \\f + \\ft rhetorical question \\f* give birth to babies. 
 \q Therefore, why do strong men stand there, 
-\q2 with their faces very white/pale, 
+\q2 with their faces very white\f + \ft Or: pale \f*, 
 \q with their hands pressed against their stomachs, 
 \q2 like women who are about to give birth to babies? 
 \q
@@ -28,9 +28,9 @@ again. \add That will surely happen because\add* I, Yahweh, have said it.”
 \b
 \q
 \v 8 The Almighty Commander of the armies of angels says this: 
-\q “At that time \add it will be as though\add* I will sever/cut the ropes
+\q “At that time \add it will be as though\add* I will sever\f + \ft Or: cut \f* the ropes
 \add that are around my people\add*, 
-\q2 and I will free them from being ◄slaves/forced to do what the king of Babylon wants them to do► \f + \fk metaphor \f*.
+\q2 and I will free them from being ◄slaves\f + \ft Or: forced \f* to do what the king of Babylon wants them to do► \\f + \\ft metaphor \\f*.
 \q People in other countries will no longer be their bosses. 
 \q
 \v 9 My people will again serve me, Yahweh, their God, 
@@ -39,7 +39,7 @@ again. \add That will surely happen because\add* I, Yahweh, have said it.”
 \b
 \q
 \v 10 So, you people of Israel who serve me, 
-\q2 do not be dismayed/worried now, 
+\q2 do not be dismayed\f + \ft Or: worried \f* now, 
 \q because some day I will bring you back from distant places; 
 \q2 I will bring your descendants \add back home\add* from the land to which they were exiled.
 \q Then you Israeli people will again live peacefully and safely,
@@ -52,14 +52,14 @@ again. \add That will surely happen because\add* I, Yahweh, have said it.”
 \q2 I would be doing wrong if I did not to punish you at all.” 
 \p
 \v 12 Yahweh also says this: 
-\q “\add You have ◄suffered very much/endured many disasters►\add*;
+\q “\add You have ◄suffered very much\f + \ft Or: endured \f* many disasters►\add*;
 \q2 \add it is as though\add* you have a terrible wound that cannot be cured.
 \q
 \v 13 There is no one to help you, 
 \q2 no one to put a bandage on your wound. 
 \q2 There is no \add medicine that will\add* heal you. 
 \q
-\v 14 All your allies \f + \fk metaphor \f* have deserted you 
+\v 14 All your allies \\f + \\ft metaphor \\f* have deserted you 
 \q2 and they do not want to help you anymore. 
 \q \add It is true that\add* I have punished you severely, 
 \q2 like your enemies would wound you, 
@@ -67,7 +67,7 @@ again. \add That will surely happen because\add* I, Yahweh, have said it.”
 \q2 and you are very guilty. 
 \q
 \v 15 Because that is true, why do you protest about my punishing you,
-\q2 \add as though I had caused\add* a wound that could not be cured \f + \fk rhetorical question \f*?
+\q2 \add as though I had caused\add* a wound that could not be cured \\f + \\ft rhetorical question \\f*?
 \q It was necessary for me to punish you, 
 \q2 because you had committed many sins 
 \q2 and you were very guilty. 
@@ -79,10 +79,10 @@ again. \add That will surely happen because\add* I, Yahweh, have said it.”
 \q2 will have their valuable possessions stolen, 
 \q and all those who attack you will be attacked. 
 \q
-\v 17 Everyone says that you are ◄outcasts/people that they no longer associate with►,
+\v 17 Everyone says that you are ◄outcasts\f + \ft Or: people \f* that they no longer associate with►,
 \q2 and that \add you live in\add* Jerusalem, a city that no one cares about.”
 \p But Yahweh says, 
-\q “I will heal your injuries/wounds 
+\q “I will heal your injuries\f + \ft Or: wounds \f* 
 \q2 and cause you to be healthy again.” 
 \p
 \v 18 This is what Yahweh says: 
@@ -101,14 +101,14 @@ again. \add That will surely happen because\add* I, Yahweh, have said it.”
 \q
 \v 21 One of their own people will be their king, 
 \q2 and I will invite him to come close to me \add to worship me\add*,
-\q because no one \f + \fk rhetorical question \f* would ◄dare/have courage► to come close to me
+\q because no one \\f + \\ft rhetorical question \\f* would ◄dare\f + \ft Or: have \f* courage► to come close to me
 \q2 \add if I did not invite him\add*. 
 \q
 \v 22 You \add Israeli people\add* will be my people, 
 \q2 and I will be your God.” 
 \b
 \q
-\v 23 Yahweh will punish \f + \fk metonymy \f* your enemies; 
+\v 23 Yahweh will punish \\f + \\ft metonymy \\f* your enemies; 
 \q2 it will be like a great storm; 
 \q2 it will come down like a whirlwind, swirling around the heads of wicked people.
 \q

@@ -1,7 +1,7 @@
 \c 19  
 \s Land for the tribe of Simeon 
 \p
-\v 1 The second/next tribe that was allotted land was the tribe of Simeon. Each clan in that tribe was allotted some land that
+\v 1 The second\f + \ft Or: next \f* tribe that was allotted land was the tribe of Simeon. Each clan in that tribe was allotted some land that
 was inside the area that had been allotted to the tribe of Judah.
 \pi
 \v 2 Their land included the towns of Beersheba (\add which is also
@@ -19,7 +19,7 @@ named\add* Sheba), Moladah,
 Simeon. 
 \s Land for the tribe of Zebulun 
 \m
-\v 10 The third/next tribe that was allotted land was the tribe of Zebulun. Each clan of that tribe was allotted some of the
+\v 10 The third\f + \ft Or: next \f* tribe that was allotted land was the tribe of Zebulun. Each clan of that tribe was allotted some of the
 land. 
 \pi The southern border started at Sarid \add city\add*. 
 \v 11 It extended west to Maralah \add city\add* and on to Dabbesheth
@@ -37,7 +37,7 @@ the surrounding villages.
 \v 16 That was the land that was allotted to the clans of the tribe of Zebulun.
 \s Land for the tribe of Issachar 
 \m
-\v 17 The fourth/next tribe that was allotted land was the tribe of Issachar. Each of the clans of that tribe was allotted some
+\v 17 The fourth\f + \ft Or: next \f* tribe that was allotted land was the tribe of Issachar. Each of the clans of that tribe was allotted some
 of the land. 
 \v 18 Their land included the cities of Jezreel, Kesulloth, Shunem,
 \v 19 Hapharaim, Shion, Anaharath, 
@@ -50,7 +50,7 @@ surrounding villages.
 \v 23 Those cities and villages were in the land allotted to the clans of the tribe of Issachar.
 \s Land for the tribe of Asher 
 \m
-\v 24 The fifth/next tribe that was allotted land was the tribe of Asher. Each of the clans in that tribe was allotted some of
+\v 24 The fifth\f + \ft Or: next \f* tribe that was allotted land was the tribe of Asher. Each of the clans in that tribe was allotted some of
 the land. 
 \pi
 \v 25 Their land included the towns of Helkath, Hali, Beten, Acshaph,
@@ -68,7 +68,7 @@ the border extended \add west\add* to Hosah \add town\add* and ended at the
 \v 31 Those cities and villages were within the land that was allotted to the clans of the tribe of Asher.
 \s Land for the tribe of Naphtali 
 \m
-\v 32 The sixth/next tribe that was allotted land was the tribe of Naphtali. Each of the clans in that tribe was allotted some
+\v 32 The sixth\f + \ft Or: next \f* tribe that was allotted land was the tribe of Naphtali. Each of the clans in that tribe was allotted some
 of the land. 
 \pi
 \v 33 The border of their land started \add in the west\add* at the
@@ -88,7 +88,7 @@ Kinnereth,
 \v 39 Those cities and surrounding villages were in the land that was allotted to the clans of the tribe of Naphtali.
 \s Land for the tribe of Dan 
 \m
-\v 40 The seventh/last tribe that was allotted land was the tribe of Dan. Each of the clans in that tribe was allotted some of
+\v 40 The seventh\f + \ft Or: last \f* tribe that was allotted land was the tribe of Dan. Each of the clans in that tribe was allotted some of
 the land. 
 \v 41 Their land included the towns of Zorah, Eshtaol, Ir-Shemesh,
 \v 42 Shaalabbin, Aijalon, Ithlah, 
@@ -109,6 +109,6 @@ there. Then they began to live in Leshem, and changed the name of the city to Da
 that he chose. It was in the hilly region which was allotted to the tribe of Ephraim. Joshua rebuilt the city and lived there.
 \p
 \v 51 Those were the areas that were allotted to the various tribes of Israel. Eleazar the supreme priest and Joshua and the
-leaders of each tribe divided up the land while they were all at Shiloh, by ◄casting lots/throwing marked stones►
+leaders of each tribe divided up the land while they were all at Shiloh, by ◄casting lots\f + \ft Or: throwing \f* marked stones►
 \add to decide which area each tribe would receive\add*. They did that while Yahweh was watching, at the entrance of the Sacred
 Tent. In that way they completed dividing up the land. 

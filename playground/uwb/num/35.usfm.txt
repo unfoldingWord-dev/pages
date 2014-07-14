@@ -1,15 +1,15 @@
 \c 35  
 \s The towns given to the Levites 
 \p
-\v 1 Yahweh told this to Moses/me \add while the Israeli people were\add* on the plain in the Moab region near the Jordan
+\v 1 Yahweh told this to Moses\f + \ft Or: me \f* \add while the Israeli people were\add* on the plain in the Moab region near the Jordan
 \add River\add*, across from Jericho: 
 \v 2 “Tell the Israeli people that from the land that they will receive, they must give to the descendants of Levi some cities
 in which they can live. They must also give them some land around these cities.
 \v 3 Those will be for the descendants of Levi to live in, and around the cities will be land for their cattle and flocks of
 sheep and goats and other animals. 
 \p
-\v 4 The land that you give them for their animals must extend out for ◄1500 ft./450 meters► from the walls of the cities.
-\v 5 Also measure ◄3,000 ft./900 meters► in each direction out from the walls of each city. That additional land will be land
+\v 4 The land that you give them for their animals must extend out for ◄1500 ft.\f + \ft Or: 450 \f* meters► from the walls of the cities.
+\v 5 Also measure ◄3,000 ft.\f + \ft Or: 900 \f* meters► in each direction out from the walls of each city. That additional land will be land
 for their animals outside the walls of the cities. 
 \s The cities of safety 
 \p
@@ -21,11 +21,11 @@ one of those cities to be safe.
 tribe must give some of its cities to the descendants of Levi, but the tribes that have more land must give more cities, and
 the tribes that have fewer cities will give fewer cities.” 
 \p
-\v 9 Yahweh also said to Moses/me, 
+\v 9 Yahweh also said to Moses\f + \ft Or: me \f*, 
 \v 10 “Tell this to the Israeli people: ‘When you cross the Jordan
 \add River\add* and enter the Canaan \add region\add*, 
-\v 11 you must choose some cities to which people can run to be safe/protected. If someone kills another person
-◄accidentally/without planning to do that►, the one who killed that person may run to one of those cities and be safe.
+\v 11 you must choose some cities to which people can run to be safe\f + \ft Or: protected \f*. If someone kills another person
+◄accidentally\f + \ft Or: without \f* planning to do that►, the one who killed that person may run to one of those cities and be safe.
 \v 12 One of the relatives of the person who was killed may think he must avenge his relative's death
 \add by killing the murderer\add*. But in that city, the killer will be safe
 \add because the people in that city would kill those relatives if they tried to get revenge
@@ -35,13 +35,13 @@ there\add*. The man who killed someone accidentally \add must be\add* put on tri
 \add River\add* and three that will be \add on the west side\add*, in the Canaan region.
 \v 15 Those six cities will be cities where Israeli people may run and be safe, and where foreigners and other people who are
 living among you can also run and be safe. Any of those people who accidentally kills someone may run to one of those cities
-\add and be safe/protected there\add*. 
+\add and be safe\f + \ft Or: protected \f* there\add*. 
 \p
 \v 16-18 But \add you must consider that\add* anyone who kills another person with an iron weapon or with a big rock or with a
 piece of wood, is a murderer, and the one who killed the other person must be executed.
 \v 19 A relative of the person who was murdered must be the one who executes the murderer as soon as he finds him.
 \v 20 If someone shoves another person \add over a cliff\add* or throws something at another person
-\v 21 or hits that person with his hand/fist and causes that person to die, if he did it because he hated that person, then you
+\v 21 or hits that person with his hand\f + \ft Or: fist \f* and causes that person to die, if he did it because he hated that person, then you
 must consider that he is a murderer, and must be executed. A relative of the person who was killed must be the one who executes
 the murderer as soon as he finds him. 
 \p
@@ -51,17 +51,17 @@ because he hates that person.
 not hate the person that was killed, 
 \v 24 the people of that city must decide whether the relative of the dead person
 \add has the right to get revenge\add*, or whether the one who killed the other person
-\add truly did it ◄accidentally/without planning to do it►\add*.
+\add truly did it ◄accidentally\f + \ft Or: without \f* planning to do it►\add*.
 \v 25  \add If they decide that the killer planned to kill the other person, they must not allow him to stay in their city. But
 if they decide that it was done accidentally\add*, they must protect the killer from being killed by the dead person's
-relative. They must send the killer to one of the cities where he will be safe/protected, and allow him to stay there until the
+relative. They must send the killer to one of the cities where he will be safe\f + \ft Or: protected \f*, and allow him to stay there until the
 Supreme Priest dies. After that, the killer \add may go back to his home, because the dead person's relative no longer has the
 right to get revenge\add*. 
 \p
 \v 26 But \add while the Supreme Priest is still living\add*, the person who is in that safe city must not leave that city.
 \v 27 If he goes outside the city, and if a relative of the dead person finds him, that relative is permitted to kill that
 person, and people will not \add consider that\add* the relative is guilty of murder.
-\v 28 The killer must stay in that city where he will be safe/protected until the Supreme Priest dies.
+\v 28 The killer must stay in that city where he will be safe\f + \ft Or: protected \f* until the Supreme Priest dies.
 \add He will be safe from revenge after that, because the death of the Supreme Priest will be considered to be a sacrifice to
 atone for that murder\add*. After that, the killer may return to his home.
 \p
@@ -69,15 +69,15 @@ atone for that murder\add*. After that, the killer may return to his home.
 \p
 \v 30 If someone \add is accused of\add* killing another person, the one who is accused may be executed only if there are
 people who saw him do it. There must be more than one witness; no one is permitted to be executed if there was only one
-◄witness/person who saw him do it►. 
+◄witness\f + \ft Or: person \f* who saw him do it►. 
 \p
 \v 31 If there is a murderer who truly should be executed, do not
-\add spare his life by\add* accepting ◄a ransom/money for him not to be killed►. He must be executed.
+\add spare his life by\add* accepting ◄a ransom\f + \ft Or: money \f* for him not to be killed►. He must be executed.
 \p
-\v 32 If someone has run to a city where he will be safe/protected, do not allow him to give you money in order that you will
+\v 32 If someone has run to a city where he will be safe\f + \ft Or: protected \f*, do not allow him to give you money in order that you will
 permit him to return to his home before the Supreme Priest dies.
 \p
 \v 33 You must execute people who truly murder others. If you did not do that, you would be causing the people who live in the
 land to become unacceptable to me. Anyone who deliberately kills an innocent person must be executed.
-\v 34 I am Yahweh, and I live among you Israelis, so do not spoil/pollute the land by allowing people to murder others without
+\v 34 I am Yahweh, and I live among you Israelis, so do not spoil\f + \ft Or: pollute \f* the land by allowing people to murder others without
 being punished.’ ” 

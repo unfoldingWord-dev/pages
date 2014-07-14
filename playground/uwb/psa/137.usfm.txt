@@ -11,19 +11,19 @@ sad\add*.
 \q
 \v 3 The \add soldiers\add* who had captured us \add and taken us to
 Babylonia\add* told us to sing \add for them\add*; 
-\q2 they told us to ◄entertain them/make them happy►, saying, 
+\q2 they told us to ◄entertain them\f + \ft Or: make \f* them happy►, saying, 
 \q2 “Sing for us one of the songs \add that you previously sang in\add* Jerusalem!”
 \q
 \v 4 But \add we thought to ourselves\add*, 
 \q2 “We \add are sad because we have been punished by Yahweh and brought to
 this\add* foreign land, 
-\q2 so we cannot \f + \fk rhetorical question \f* sing songs about Yahweh while we are here!”
+\q2 so we cannot \\f + \\ft rhetorical question \\f* sing songs about Yahweh while we are here!”
 \b
 \q
-\v 5 If I forget about Jerusalem \f + \fk apostrophe \f*, I hope/wish that my right hand will wither
+\v 5 If I forget about Jerusalem \\f + \\ft apostrophe \\f*, I hope\f + \ft Or: wish \f* that my right hand will wither
 \q2 \add with the result that I will be unable to play my harp\add*!
 \q
-\v 6 I hope that I will not be able to sing again \f + \fk metonymy \f*, 
+\v 6 I hope that I will not be able to sing again \\f + \\ft metonymy \\f*, 
 \q if I forget about Jerusalem, 
 \q2 if I do not consider that Jerusalem causes me to be more joyful than anything else does.
 \b

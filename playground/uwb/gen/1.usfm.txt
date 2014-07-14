@@ -2,7 +2,7 @@
 \s God made the earth and the sky 
 \p
 \v 1 Long, long ago God created the heavens and the earth. 
-\v 2 When he began to create the earth, it was shapeless and completely desolate/chaotic. Darkness covered the deep water that
+\v 2 When he began to create the earth, it was shapeless and completely desolate\f + \ft Or: chaotic \f*. Darkness covered the deep water that
 surrounded the earth. And the Spirit of God was hovering over the water.
 \v 3 God said, “I want light to shine!” And light shone. 
 \v 4 God was pleased with the light. Then he made the light to shine in some places, and in other places there was still
@@ -40,13 +40,13 @@ all the oceans. He also created many kinds of creatures that have wings. God was
 \v 22 God blessed them. He said, “Produce offspring and become very numerous. I want the creatures in the water to live in all
 the oceans, and the birds also to become very numerous.” And that is what happened.
 \v 23 Then there was another evening that was followed by another morning. He called that period of time 'the fifth day.'
-\v 24 Then God said, “I want various kinds of creatures to appear on the earth. There will be many kinds of ◄livestock/domestic
+\v 24 Then God said, “I want various kinds of creatures to appear on the earth. There will be many kinds of ◄livestock\f + \ft Or: domestic \f*
 animals►, creatures that move across the surface of the ground, and large wild animals.” And that is what happened.
-\v 25 God made all kinds of wild animals and ◄livestock/domestic animals► and all kinds of creatures that move across the
+\v 25 God made all kinds of wild animals and ◄livestock\f + \ft Or: domestic \f* animals► and all kinds of creatures that move across the
 surface of the ground. God was pleased with all these creatures.
 \p
 \v 26 Then God said, “Now we will make human beings that will have many of the qualities that we have. I want them to rule over
-the fish in the sea, over the birds, over all the ◄livestock/domestic animals►, and over all the other creatures that move
+the fish in the sea, over the birds, over all the ◄livestock\f + \ft Or: domestic \f* animals►, and over all the other creatures that move
 across the surface of the ground.” 
 \v 27 So God created human beings that were like him in many ways. He made them to be like himself. He created some to be male
 and some to be female. 

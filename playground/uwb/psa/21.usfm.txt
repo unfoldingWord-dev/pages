@@ -2,34 +2,34 @@
 \s A psalm written by David for the choir director 
 \b
 \q
-\v 1 Yahweh, ◄I, your king am glad/the king is glad► because you have caused me/him to be strong.
-\q2 ◄I rejoice/he rejoices► greatly because you have rescued me/him
-\add from my/his enemies\add*. 
+\v 1 Yahweh, ◄I, your king am glad\f + \ft Or: the \f* king is glad► because you have caused me\f + \ft Or: him \f* to be strong.
+\q2 ◄I rejoice\f + \ft Or: he \f* rejoices► greatly because you have rescued me\f + \ft Or: him \f*
+\add from my\f + \ft Or: his \f* enemies\add*. 
 \q
-\v 2 You have given me/him the things that I/he \f + \fk synecdoche \f* desired 
+\v 2 You have given me\f + \ft Or: him \f* the things that I\f + \ft Or: he \f* \\f + \\ft synecdoche \\f* desired 
 \q2 and you have not refused to do what I requested you to do. 
 \qr (Think about that!) 
 \q
-\v 3 In answer to my/his prayer, you enabled me/him to succeed and prosper.
-\q2 You placed a gold crown on my/his head. 
+\v 3 In answer to my\f + \ft Or: his \f* prayer, you enabled me\f + \ft Or: him \f* to succeed and prosper.
+\q2 You placed a gold crown on my\f + \ft Or: his \f* head. 
 \q
-\v 4 I/He asked you to enable me/him to live \add for a long time\add*,
-\q2 and that is what you gave me/him, a very long \f + \fk hyperbole \f* life. 
+\v 4 I\f + \ft Or: He \f* asked you to enable me\f + \ft Or: him \f* to live \add for a long time\add*,
+\q2 and that is what you gave me\f + \ft Or: him \f*, a very long \\f + \\ft hyperbole \\f* life. 
 \q
-\v 5 ◄I am/He is► greatly honored because you have helped me/him to defeat my/his enemies;
-\q2 you have given me/him splendor and majesty/praise. 
+\v 5 ◄I am\f + \ft Or: He \f* is► greatly honored because you have helped me\f + \ft Or: him \f* to defeat my\f + \ft Or: his \f* enemies;
+\q2 you have given me\f + \ft Or: him \f* splendor and majesty\f + \ft Or: praise \f*. 
 \q
-\v 6 You will bless me/him forever, 
-\q2 and you have caused me/him to be joyful in your presence. 
+\v 6 You will bless me\f + \ft Or: him \f* forever, 
+\q2 and you have caused me\f + \ft Or: him \f* to be joyful in your presence. 
 \q
 \v 7 Yahweh, you are God Almighty, 
-\q2 and ◄I trust/the king trusts► in you. 
-\q Because you faithfully love me/him, 
-\q2 disastrous things will never happen to me/him. 
+\q2 and ◄I trust\f + \ft Or: the \f* king trusts► in you. 
+\q Because you faithfully love me\f + \ft Or: him \f*, 
+\q2 disastrous things will never happen to me\f + \ft Or: him \f*. 
 \b
 \q
-\v 8 You will enable me/him to capture \f + \fk metonymy \f* all my/his enemies 
-\q2 and all those who hate me/him. 
+\v 8 You will enable me\f + \ft Or: him \f* to capture \\f + \\ft metonymy \\f* all my\f + \ft Or: his \f* enemies 
+\q2 and all those who hate me\f + \ft Or: him \f*. 
 \q
 \v 9 When you appear, you will throw them into a fiery furnace. 
 \q Because you are angry \add with them\add*, you will swallow them up;

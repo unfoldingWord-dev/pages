@@ -3,7 +3,7 @@
 \q
 \v 1 “All you people who are \add in exile\add*, 
 \q2 listen to me! 
-\q \add It is as though\add* \f + \fk metaphor \f* you are thirsty, 
+\q \add It is as though\add* \\f + \\ft metaphor \\f* you are thirsty, 
 \q2 so come and get water from me! 
 \q \add It is as though\add* you have no money, 
 \q2 but you can come and get things from me that are like wine and milk!
@@ -12,14 +12,14 @@
 \q
 \v 2  \add What you really need is to have a close relationship with
 me\add*, 
-\q2 so ◄why do you spend money to buy things that do not supply what you really need?/you should not spend money to buy things
-that do not supply what you really need.► \f + \fk rhetorical question \f* 
+\q2 so ◄why do you spend money to buy things that do not supply what you really need?\f + \ft Or: you \f* should not spend money to buy things
+that do not supply what you really need.► \\f + \\ft rhetorical question \\f* 
 \q ◄Why do you work hard to get money to buy things that do not ‘satisfy your
-\add inner beings\add*/cause you to be happy’?/You should not work hard to get money to buy things that do not ‘satisfy your
-\add inner beings\add*/cause you to be happy’.► \f + \fk rhetorical question \f* 
+\add inner beings\add*\f + \ft Or: cause \f* you to be happy’?\f + \ft Or: You \f* should not work hard to get money to buy things that do not ‘satisfy your
+\add inner beings\add*\f + \ft Or: cause \f* you to be happy’.► \\f + \\ft rhetorical question \\f* 
 \q Pay attention to what I say 
-\q2 and acquire what is really good \f + \fk metaphor \f*! 
-\q If you do that, then in your soul you will truly be happy \f + \fk metaphor \f*.
+\q2 and acquire what is really good \\f + \\ft metaphor \\f*! 
+\q If you do that, then in your soul you will truly be happy \\f + \\ft metaphor \\f*.
 \q
 \v 3 Listen to me and come to me; 
 \q2 pay attention to me, and if you do that, you will have new life in your soul.
@@ -27,7 +27,7 @@ that do not supply what you really need.► \f + \fk rhetorical question \f*
 \q2 to faithfully love you like I loved \add King\add* David. 
 \q
 \v 4 By what he did, I showed \add my power to many\add* people-groups;
-\q2 I caused him to be a leader and commander \f + \fk doublet \f* over \add the people of many
+\q2 I caused him to be a leader and commander \\f + \\ft doublet \\f* over \add the people of many
 nations\add*. 
 \q
 \v 5 And similarly, you will summon people of other nations to come to you,
@@ -63,8 +63,8 @@ done\add*.
 plant\add* and \add grain to produce flour to make\add* bread for people to eat.
 \q
 \v 11 And similarly the things that I promise to do, I will always cause to happen;
-\q2 my promises will always be fulfilled \f + \fk litotes \f*. 
-\q They will accomplish the things that I gave them to accomplish \f + \fk doublet \f*.
+\q2 my promises will always be fulfilled \\f + \\ft litotes \\f*. 
+\q They will accomplish the things that I gave them to accomplish \\f + \\ft doublet \\f*.
 \q
 \v 12 You will leave \add Babylon\add* joyfully, 
 \q2 you will have peace as I lead you out. 
@@ -72,7 +72,7 @@ plant\add* and \add grain to produce flour to make\add* bread for people to eat.
 \q2 and the trees in the fields will clap their hands. 
 \q
 \v 13 Instead of thornbushes and briers, 
-\q2 pine/cypress trees and myrtle trees will grow \add in your land\add*.
+\q2 pine\f + \ft Or: cypress \f* trees and myrtle trees will grow \add in your land\add*.
 \q As a result of that, people will honor me much more; 
 \q2 and what I do will remind everyone that \add I do what I have
 promised\add*.” 

@@ -12,9 +12,9 @@ the tune 'Dove on distant oaks'
 \v 3 But whenever I am afraid, 
 \q2 I trust in you. 
 \q
-\v 4 God, I praise/thank you because you do what you have promised;
+\v 4 God, I praise\f + \ft Or: thank \f* you because you do what you have promised;
 \q2 I trust in you, and then I am not afraid. 
-\q2 Ordinary humans certainly cannot \f + \fk rhetorical question \f* harm me! 
+\q2 Ordinary humans certainly cannot \\f + \\ft rhetorical question \\f* harm me! 
 \b
 \q
 \v 5 All day long my enemies claim that I said things that I did not say \f + \ft (OR, try to destroy what I am doing);
@@ -22,13 +22,13 @@ the tune 'Dove on distant oaks'
 \q
 \v 6 In order to cause trouble for me, they hide 
 \q2 and watch everything that I do, 
-\q2 waiting for \add an opportunity\add* to kill me \f + \fk metonymy \f*. 
+\q2 waiting for \add an opportunity\add* to kill me \\f + \\ft metonymy \\f*. 
 \b
 \q
 \v 7 So, God, punish them for the wicked things that they are doing;
 \q2 show that you are angry by defeating those people! 
 \q
-\v 8 You have counted all the times that I have been wandering alone/distressed;
+\v 8 You have counted all the times that I have been wandering alone\f + \ft Or: distressed \f*;
 \q2 it is as though you have put all my tears in a bottle 
 \q2 \add in order that you can see how much I have cried\add*. 
 \q2 \add You have counted my tears and written\add* the number in your book.
@@ -37,11 +37,11 @@ the tune 'Dove on distant oaks'
 \v 9 When I call out to you, my God, my enemies will be defeated;
 \q2 I know that will happen, because you are fighting for me. 
 \q
-\v 10 I praise/thank you that you do what you have promised; 
-\q2 Yahweh, I will always praise you for that \f + \fk doublet \f*. 
+\v 10 I praise\f + \ft Or: thank \f* you that you do what you have promised; 
+\q2 Yahweh, I will always praise you for that \\f + \\ft doublet \\f*. 
 \q2
 \v 11 I trust in you, and as a result, I will not be afraid. 
-\q2 I know that humans cannot really \f + \fk rhetorical question \f* harm me! 
+\q2 I know that humans cannot really \\f + \\ft rhetorical question \\f* harm me! 
 \b
 \q
 \v 12 I will bring to you the offering that I promised; 
@@ -49,7 +49,7 @@ the tune 'Dove on distant oaks'
 \q
 \v 13 because you have rescued me from being killed; 
 \q2 you have kept me from stumbling. 
-\q2 Ordinary humans certainly cannot \f + \fk rhetorical question \f* harm me! 
+\q2 Ordinary humans certainly cannot \\f + \\ft rhetorical question \\f* harm me! 
 \q2 As a result, I will continue to live in your presence in the light that
 \add shines on those who are still\add* alive (OR, in the light that
 \add enables people to\add* live) \f*. 

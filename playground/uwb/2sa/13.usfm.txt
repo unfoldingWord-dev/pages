@@ -2,14 +2,14 @@
 \s Amnon raped Absalom's sister 
 \p
 \v 1 David's son Absalom had a beautiful half-sister named Tamar. Another of David's sons, Amnon, was attracted to Tamar.
-\v 2 He wanted \add to have sex with\add* \f + \fk euphemism \f* his half-sister very much, with the result that he felt sick. But it was not
+\v 2 He wanted \add to have sex with\add* \\f + \\ft euphemism \\f* his half-sister very much, with the result that he felt sick. But it was not
 possible for Amnon to get her, because she was a virgin, \add so they kept men away from
 her\add*. 
 \p
-\v 3 But Amnon had a friend named Jonadab, who was the son of David's brother Shimeah. Jonadab was a very crafty/shrewd man.
+\v 3 But Amnon had a friend named Jonadab, who was the son of David's brother Shimeah. Jonadab was a very crafty\f + \ft Or: shrewd \f* man.
 \p
-\v 4  \add One day\add* Jonadab said to Amnon, “You are the king's son, but every day I see that \f + \fk rhetorical question \f* you seem very
-depressed/sad. What is your problem?” Amnon replied, “I ◄am in love/want to sleep► \f + \fk euphemism \f* with Tamar, my half-brother Absalom's
+\v 4  \add One day\add* Jonadab said to Amnon, “You are the king's son, but every day I see that \\f + \\ft rhetorical question \\f* you seem very
+depressed\f + \ft Or: sad \f*. What is your problem?” Amnon replied, “I ◄am in love\f + \ft Or: want \f* to sleep► \\f + \\ft euphemism \\f* with Tamar, my half-brother Absalom's
 sister.” 
 \p
 \v 5 Jonadab said to him, “Lie down on your bed, and pretend that you are sick. When your father comes to see you, say to him,
@@ -17,23 +17,23 @@ sister.”
 can serve it to me herself.’ ” 
 \p
 \v 6 So Amnon lay down, and pretended that he was sick. When the king came to see him, Amnon said to him,
-“\add I am sick\add*; please allow my half-sister Tamar come and make a couple scones/dumplings for me while I am watching, and
+“\add I am sick\add*; please allow my half-sister Tamar come and make a couple scones\f + \ft Or: dumplings \f* for me while I am watching, and
 then she can serve them to me.” 
 \p
 \v 7 So David sent a message to Tamar in the palace, saying “Amnon
 \add is sick and he wants you to\add* go to his house and prepare some food for him.”
 \v 8 So Tamar went to Amnon's house, where he was lying in bed. She took some dough and kneaded it, and formed them into some
-scones/dumplings while he was watching her. Then she baked them.
+scones\f + \ft Or: dumplings \f* while he was watching her. Then she baked them.
 \v 9 She took them out of the pan and put them \add on a plate\add* in front of him, but he refused to eat them. Then he said,
 “All the rest of you, leave me!” So all the others left his \add room\add*.
 \p
 \v 10 Then Amnon said to Tamar, “Bring the food into my room and serve it to me.” So Tamar took into his room the
-scones/dumplings that she had made. 
+scones\f + \ft Or: dumplings \f* that she had made. 
 \v 11 But when she brought them close for him to eat them, he grabbed her and said to her, “Come to bed with me!”
 \p
 \v 12 She replied, “No, do not force me to do such a disgraceful thing! We never do things like that in Israel! That would be
-awful/terrible! 
-\v 13 As for me, if I did that, I would not be able to \f + \fk rhetorical question \f* endure being disgraced by having done that. And as for you,
+awful\f + \ft Or: terrible \f*! 
+\v 13 As for me, if I did that, I would not be able to \\f + \\ft rhetorical question \\f* endure being disgraced by having done that. And as for you,
 everyone in Israel would condemn you for having done such a disgraceful deed. So I plead with you, talk to the king. I am sure
 that he will allow me to marry you.” 
 \v 14 But he would not heed her. He was stronger than she was, so he forced her to have sex with him.
@@ -53,8 +53,8 @@ the king at that time.
 \add to show that she was very sad\add*. Then she put her hands on her head
 \add to show that she was grieving\add*, and she went away, crying.
 \p
-\v 20 Her brother Absalom \add saw her and\add* said to her, “Has your half-brother Amnon \f + \fk doublet \f* forced you to have sex with him
-\f + \fk euphemism \f*? Please, my sister, do not tell anyone \f + \ft (OR, do not become depressed/sad) \f*.” So Tamar went to live in Absalom's house, and
+\v 20 Her brother Absalom \add saw her and\add* said to her, “Has your half-brother Amnon \\f + \\ft doublet \\f* forced you to have sex with him
+\\f + \\ft euphemism \\f*? Please, my sister, do not tell anyone \f + \ft (OR, do not become depressed\f + \ft Or: sad \f*) \f*.” So Tamar went to live in Absalom's house, and
 she was very sad and lonely. 
 \p
 \v 21 When King David heard about all this, he became very angry.
@@ -69,7 +69,7 @@ celebrate\add*.
 \p
 \v 25 But the king replied, “No, my son, it would not be good for all of us to go, because it would cause you to do a lot of
 work and spend a lot of money for food.” Absalom continued urging him, but the king would not go. Instead, he said that he
-hoped/desired that God would bless \add them while they celebrated\add*.
+hoped\f + \ft Or: desired \f* that God would bless \add them while they celebrated\add*.
 \p
 \v 26 Then Absalom said, “If you will not go, please allow my half-brother Amnon to go with us.” But the king replied, “Why
 \add do you want\add* him to go with you?” 
@@ -78,7 +78,7 @@ hoped/desired that God would bless \add them while they celebrated\add*.
 \p
 \v 28  \add So they all went. And at the celebration\add*, Absalom commanded his servants, “Notice when Amnon has become a bit
 drunk from the wine. Then when I signal to you, kill him. Do not be afraid; you will be doing this
-\add only\add* because I told you \f + \fk rhetorical question \f* to do it. So be courageous and do it!”
+\add only\add* because I told you \\f + \\ft rhetorical question \\f* to do it. So be courageous and do it!”
 \v 29 So Absalom's servants did what Absalom told them to do. \add They killed
 Amnon\add*. All the rest of David's sons \add saw what happened and\add* fled, riding on their mules.
 \p
@@ -89,13 +89,13 @@ sad\add*, and then he threw himself down on the ground. All the servants who wer
 \p
 \v 32 But Jonadab, the son of David's brother Shimeah, said, “Your Majesty,
 \add I am sure that\add* they have not killed all your sons. \add I am sure
-that\add* only Amnon is dead, because Absalom has determined to do this ever since the day that Amnon raped \f + \fk euphemism \f* his
+that\add* only Amnon is dead, because Absalom has determined to do this ever since the day that Amnon raped \\f + \\ft euphemism \\f* his
 half-sister Tamar. 
 \v 33 So, your majesty, do not believe the report that all your sons are dead.
 \add I am sure that\add* only Amnon is dead.” 
 \p
 \v 34 In the meantime, Absalom ran away. 
-\p Just then, the soldier/sentry who was \add standing on the city
+\p Just then, the soldier\f + \ft Or: sentry \f* who was \add standing on the city
 wall\add* saw a large crowd of people coming down the hill along the road from Horonaim.
 \add He ran and told the king what he had seen\add*. 
 \v 35 Jonadab said to the king, “Aha! What I told you is true. Your other sons

@@ -2,12 +2,12 @@
 \s A psalm written by David for the choir director 
 \q
 \v 1 I waited patiently for Yahweh \add to help me\add*, 
-\q2 and he listened to me \f + \fk doublet \f* when I called out to him. 
+\q2 and he listened to me \\f + \\ft doublet \\f* when I called out to him. 
 \q
 \v 2  \add When I had many troubles, it was as though\add* I was in a deep pit.
 \q2 But he lifted me up out of the mud and slime of that pit; 
 \q he set my feet on a \add solid\add* rock, 
-\q2 and enabled me to walk ◄safely/without falling►. 
+\q2 and enabled me to walk ◄safely\f + \ft Or: without \f* falling►. 
 \q
 \v 3 He has given me a new song to sing, 
 \q2 a song to praise him who is our God. 
@@ -45,7 +45,7 @@
 \q2 I have told them about how you save us. 
 \q2 Yahweh, you know that I have not refused to tell that to them.
 \q
-\v 10 And I have not kept within me the news that you always act justly/fairly;
+\v 10 And I have not kept within me the news that you always act justly\f + \ft Or: fairly \f*;
 \q2 when many of your people have gathered together \add to worship you in the
 temple\add*, 
 \q I have told them that you are faithful to us and save us. 
@@ -53,7 +53,7 @@ temple\add*,
 \b
 \q
 \v 11 Yahweh, do not stop acting mercifully toward me. 
-\q2 Because you faithfully love me \f + \fk personification \f* and are loyal to me, always protect me.
+\q2 Because you faithfully love me \\f + \\ft personification \\f* and are loyal to me, always protect me.
 \q
 \v 12 I have many troubles; I cannot count them. 
 \q2 My sins are like a flood that has covered me [PRS, MET]; 
@@ -65,18 +65,18 @@ temple\add*,
 \v 13 O Yahweh, please save me! 
 \q2 Come quickly to help me! 
 \q
-\v 14 Humble those who are happy about my troubles, and cause them to be disgraced/ashamed.
+\v 14 Humble those who are happy about my troubles, and cause them to be disgraced\f + \ft Or: ashamed \f*.
 \q2 Chase away those who are trying to get rid of me. 
 \q
-\v 15 I hope/desire that those who make fun of me 
+\v 15 I hope\f + \ft Or: desire \f* that those who make fun of me 
 \q2 will be dismayed when you defeat them. 
 \q
-\v 16 But I hope that all those who go to \add worship\add* you will be very joyful \f + \fk doublet \f*.
-\q2 I hope/desire that those who love you because you saved them will shout repeatedly,
+\v 16 But I hope that all those who go to \add worship\add* you will be very joyful \\f + \\ft doublet \\f*.
+\q2 I hope\f + \ft Or: desire \f* that those who love you because you saved them will shout repeatedly,
 \q “Yahweh is great!” 
 \b
 \q
-\v 17 As for me, I am poor and needy \f + \fk doublet \f*; 
+\v 17 As for me, I am poor and needy \\f + \\ft doublet \\f*; 
 \q2 but \add I know that\add* Yahweh has not forgotten me. 
 \q O my God, you are the one who saves and helps me, 
 \q2 so please come quickly \add and help me\add*! 

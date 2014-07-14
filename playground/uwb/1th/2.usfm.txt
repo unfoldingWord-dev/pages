@@ -3,42 +3,42 @@
 \s You and God know that it is true that we behaved in a very virtuous, upright, and irreproachable manner toward you. You know
 also that we continually exhorted, encouraged, and urged that you behave in the way that God's people should.
 \p
-\v 1 My fellow believers, you know that our time with you was very worthwhile/effective \f + \fk litotes \f*.
+\v 1 My fellow believers, you know that our time with you was very worthwhile\f + \ft Or: effective \f* \\f + \\ft litotes \\f*.
 \v 2 Although \add people\add* in Philippi \add city\add* previously mistreated
 us\add (exc)\add* and insulted us, as you know, our God caused us to be courageous. As a result, we told you the good message
-\add that originates/comes from\add* God, even though some \add people in your
-city\add* also strongly ◄opposed \add us/tried to prevent us from telling God's
+\add that originates\f + \ft Or: comes \f* from\add* God, even though some \add people in your
+city\add* also strongly ◄opposed \add us\f + \ft Or: tried \f* to prevent us from telling God's
 message\add*►. 
-\v 3 When we exhorted/urged \f + \ft (OR, tried to convince) \add you to obey God's
+\v 3 When we exhorted\f + \ft Or: urged \f* \f + \ft (OR, tried to convince) \add you to obey God's
 message\add*, we did not speak to you an untrue message. Instead, we spoke a true message. We do not
 \add want to get something for ourselves\add* by immoral means. We do not try to deceive
 \add you or other people\add*. 
 \v 4 On the contrary, we tell God's message because he trusted us to do that, because he examined us and considered
 us\add to be acceptable to tell people\add* the message about Christ. As we teach people, we do not say what they like to hear.
 Instead, \add we say what\add* God \add wants us to say, because\add* he examines everything that we think and what we desire.
-\v 5 We never ◄flattered you/said nice things about you insincerely►, as you know. We were never greedy, so we never needed to
-use words to ◄hide greediness \add from you/cause you to think that we were not
+\v 5 We never ◄flattered you\f + \ft Or: said \f* nice things about you insincerely►, as you know. We were never greedy, so we never needed to
+use words to ◄hide greediness \add from you\f + \ft Or: cause \f* you to think that we were not
 greedy\add*►. God knows that this is true! 
 \v 6 We never tried to get people \add to honor us\add*, 
-\v 7 although we could have demanded \add that you should honor/respect
+\v 7 although we could have demanded \add that you should honor\f + \ft Or: respect \f*
 us\add*, because we are apostles \add who represent\add* (OR, \add speak
 for\add*) \f* Christ. On the contrary, we were gentle when we were among you, as a mother
-\add gently\add* takes care of her own children \f + \fk simile \f*. 
+\add gently\add* takes care of her own children \\f + \\ft simile \\f*. 
 \v 8 So, because we love you, we were delighted to personally tell you the good message that God
-\add gave us\add*. But also we were delighted to lovingly do all that we could do to help you \f + \fk synecdoche \f* because ◄you had become
-very dear to us/we had begun to love you very much►. 
-\v 9 My fellow believers, you remember that we worked very hard \f + \fk doublet \f*
-\add in order to\add* ◄\add support ourselves/earn money to buy what we
+\add gave us\add*. But also we were delighted to lovingly do all that we could do to help you \\f + \\ft synecdoche \\f* because ◄you had become
+very dear to us\f + \ft Or: we \f* had begun to love you very much►. 
+\v 9 My fellow believers, you remember that we worked very hard \\f + \\ft doublet \\f*
+\add in order to\add* ◄\add support ourselves\f + \ft Or: earn \f* money to buy what we
 needed\add*► \add while we were with you\add*. We worked \add during
 the\add* day and \add also at\add* night in order that we would not have to ask any one of you to give us what we needed,
 \add while\add* we proclaimed to you the good message that God \add gave
 us\add*. 
 \v 10 You know that it is true, and God knows that it is true, that we conducted our lives in a very pure, right, and
-irreproachable/faultless \f + \fk doublet \f* manner toward you believers. 
-\v 11 You know also that \add we lovingly behaved/acted toward\add* each one of you as a father
-\add lovingly behaves/acts toward\add* his own children \f + \fk simile \f*. 
-\v 12  \add Specifically, we\add* kept strongly exhorting/urging and encouraging you that you conduct your lives in the way
-that God's people should\add , because\add* he has invited you to become his people over whom he will wonderfully rule \f + \fk hendiadys \f*.
+irreproachable\f + \ft Or: faultless \f* \\f + \\ft doublet \\f* manner toward you believers. 
+\v 11 You know also that \add we lovingly behaved\f + \ft Or: acted \f* toward\add* each one of you as a father
+\add lovingly behaves\f + \ft Or: acts \f* toward\add* his own children \\f + \\ft simile \\f*. 
+\v 12  \add Specifically, we\add* kept strongly exhorting\f + \ft Or: urging \f* and encouraging you that you conduct your lives in the way
+that God's people should\add , because\add* he has invited you to become his people over whom he will wonderfully rule \\f + \\ft hendiadys \\f*.
 \s 1 Thessalonians 2:13-16 
 \s We continually thank God also that you accepted as true a message that does not originate from human beings. Instead, you
 accepted as true the message that originates from God, and the result was that people caused you to suffer as Christ did.
@@ -46,11 +46,11 @@ accepted as true the message that originates from God, and the result was that p
 \v 13 We continually thank God also because when you heard the message
 \add that\add* we told to you, you accepted it as the true message, the good message that God
 \add gave to us\add*. We did not invent it. \add We also thank God\add* that he is changing your lives because you trust this
-message \f + \fk personification \f*. 
+message \\f + \\ft personification \\f*. 
 \v 14 My fellow believers, we \add know that you sincerely believed the message from
 God\add*, because the manner in which you acted was just like the manner in which
 \add the congregations\add* in Judea acted. They also \add worship\add* God,
-\add and they\add* ◄\add have a close relationship with/are united
+\add and they\add* ◄\add have a close relationship with\f + \ft Or: are \f* united
 to\add*► Christ Jesus. Specifically, you endured it \add when\add* your own countrymen
 \add mistreated you because you believe the message from God\add*, in the same manner that those
 \add Jewish believers in Judea\add* endured it \add when\add* the Jews
@@ -61,26 +61,26 @@ to\add*► Christ Jesus. Specifically, you endured it \add when\add* your own co
 \add what is best for\add* all human beings! 
 \v 16  \add Specifically\add*, when we tell \add the good message\add* to non-Jewish people in order that they can be saved
 {\add that God\add* will save them} \add spiritually\add*, these
-\add unbelieving Jews\add* try to stop/prevent us from doing that. Because they continually sin more and more, they are almost
-reaching the limit that has been \add set by God\add* \f + \fk metaphor \f*! \add God\add* will soon punish them \f + \fk metonymy \f*, at last, for all their
+\add unbelieving Jews\add* try to stop\f + \ft Or: prevent \f* us from doing that. Because they continually sin more and more, they are almost
+reaching the limit that has been \add set by God\add* \\f + \\ft metaphor \\f*! \add God\add* will soon punish them \\f + \\ft metonymy \\f*, at last, for all their
 sins! 
 \s 1 Thessalonians 2:17-20 
 \s It is because of you that we are pleased and joyful. So when people forced Silas, Timothy and me to be separated from you
 for a short time, we strongly desired to be with you. 
 \p
-\v 17 My fellow believers, when for a short time \f + \fk idiom \f* \add those people forced us to be
-separated\add* from you, \add we felt like parents\add* ◄who had lost all their children/whose children had died► \f + \fk metaphor \f*.
+\v 17 My fellow believers, when for a short time \\f + \\ft idiom \\f* \add those people forced us to be
+separated\add* from you, \add we felt like parents\add* ◄who had lost all their children\f + \ft Or: whose \f* children had died► \\f + \\ft metaphor \\f*.
 \add Although\add* we were far away from you, \add we were still\add* emotionally
 \add concerned about you\add*, and we strongly desired to be present with you.
 \v 18  \add You can know that\add* we wanted to return to you. Indeed I, Paul,
-\add tried to return\add* twice \f + \fk idiom \f*. But \add we did not return
+\add tried to return\add* twice \\f + \\ft idiom \\f*. But \add we did not return
 because\add* each time Satan \add prevented us from returning\add*.
-\v 19  \add We were strongly desiring to be with you\add*, because truly you \f + \fk rhetorical question \f*
+\v 19  \add We were strongly desiring to be with you\add*, because truly you \\f + \\ft rhetorical question \\f*
 \add are the ones about whom we are proud and are joyful!\add* It is because we are confident that you
-\add will\add* ◄\add remain faithful/continue believing in God\add*► that we
+\add will\add* ◄\add remain faithful\f + \ft Or: continue \f* believing in God\add*► that we
 \add will be\add* joyful! You are the ones who we confidently expect
 \add will keep strongly trusting in God!\add* It is because you \add will\add*
-◄\add remain faithful/continue believing in God\add*► that we \add will\add* be proud
+◄\add remain faithful\f + \ft Or: continue \f* believing in God\add*► that we \add will\add* be proud
 \add of the work that we have done\add* [MET, RHQ] \add when\add* our Lord Jesus
 \add examines what we all have done, at the time\add* when he comes back
 \add to earth!\add* 

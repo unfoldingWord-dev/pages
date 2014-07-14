@@ -1,21 +1,21 @@
 \c 130  
 \s A psalm written for people going up to the temple to worship 
 \q
-\v 1 Yahweh, I have great troubles/difficulties, so I call out to you.
+\v 1 Yahweh, I have great troubles\f + \ft Or: difficulties \f*, so I call out to you.
 \q
 \v 2 Yahweh, hear me, 
-\q2 while I call out to you \f + \fk synecdoche \f* to help me! 
+\q2 while I call out to you \\f + \\ft synecdoche \\f* to help me! 
 \b
 \q
 \v 3 Yahweh, if you kept a record of the sins that we have committed,
-\q2 not one of us \f + \fk rhetorical question \f* would escape from being condemned \add and
+\q2 not one of us \\f + \\ft rhetorical question \\f* would escape from being condemned \add and
 punished\add*! 
 \q
 \v 4 But you forgive us, 
 \q2 with the result that we have an awesome respect for you. 
 \b
 \q
-\v 5 Yahweh has said \add that he would help/rescue me\add*; 
+\v 5 Yahweh has said \add that he would help\f + \ft Or: rescue \f* me\add*; 
 \q2 I trust what he said, and I wait eagerly for him to do that.
 \q
 \v 6 I wait for Yahweh \add to help me\add* 
@@ -26,7 +26,7 @@ punished\add*!
 \v 7 You my fellow Israelis, confidently expect that Yahweh \add will bless
 us\add*. 
 \q2 He will bless us because he faithfully loves us, 
-\q2 and he is very willing to save/rescue us. 
+\q2 and he is very willing to save\f + \ft Or: rescue \f* us. 
 \q
 \v 8 And he will save us Israeli people from \add being punished
 for\add* all the sins that we have committed. 

@@ -5,7 +5,7 @@
 \q
 \v 2 He loves that city, Jerusalem, more than he loves any other city in Israel.
 \q
-\v 3  \add You people in\add* \f + \fk apostrophe \f* the city that God ◄owns/lives in►,
+\v 3  \add You people in\add* \\f + \\ft apostrophe \\f* the city that God ◄owns\f + \ft Or: lives \f* in►,
 \q2 people say wonderful things about your city. 
 \qr (Think about that!) 
 \b
@@ -18,7 +18,7 @@
 \q
 \v 5 And concerning Jerusalem, people will say 
 \q2 \add “It is as though\add* everyone was born there, 
-\q2 and Almighty God will cause that city to remain strong/safe/secure.”
+\q2 and Almighty God will cause that city to remain strong\f + \ft Or: safe \f*\f + \ft Or: secure \f*.”
 \q
 \v 6 Yahweh will write a list of \add the names of\add* the people of various groups
 \add who belong to him\add*, 

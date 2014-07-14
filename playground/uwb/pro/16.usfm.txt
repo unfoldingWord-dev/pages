@@ -1,14 +1,14 @@
 \c 16  
 \q
 \v 1 People plan in their minds what they want to do, 
-\q2 but Yahweh is the one who decides \f + \fk metonymy \f* what really will happen.
+\q2 but Yahweh is the one who decides \\f + \\ft metonymy \\f* what really will happen.
 \b
 \q
 \v 2 In their minds, people think that their actions are right, 
 \q2 but Yahweh really knows why people do what they do. 
 \b
 \q
-\v 3 ◄Request/Rely on► Yahweh to direct what you plan to do; 
+\v 3 ◄Request\f + \ft Or: Rely \f* on► Yahweh to direct what you plan to do; 
 \q2 if you do that, you will succeed in what you plan. 
 \b
 \q
@@ -16,8 +16,8 @@
 \q2 he has even prepared the wicked for the time that he will punish them.
 \b
 \q
-\v 5 Yahweh hates/detests everyone who is proud [IDI]; 
-\q2 you can be certain [IDI] that they will be punished \f + \fk litotes \f*. 
+\v 5 Yahweh hates\f + \ft Or: detests \f* everyone who is proud [IDI]; 
+\q2 you can be certain [IDI] that they will be punished \\f + \\ft litotes \\f*. 
 \b
 \q
 \v 6 Be loyal to Yahweh and faithfully \add obey\add* him; if you do that, he will forgive you for having sinned.
@@ -34,11 +34,11 @@ us).
 \b
 \q
 \v 9 People plan what they want to do, 
-\q2 but Yahweh directs/determines what they will really be able to do.
+\q2 but Yahweh directs\f + \ft Or: determines \f* what they will really be able to do.
 \b
 \q
 \v 10  \add If\add* God directs what a king says, 
-\q2 what he decides is always right/fair. 
+\q2 what he decides is always right\f + \ft Or: fair \f*. 
 \b
 \q
 \v 11 Yahweh wants us to use scales that are correct; 
@@ -46,80 +46,80 @@ us).
 \b
 \q
 \v 12 Kings detest those who do evil, 
-\q2 because \add it is people doing what\add* is fair/right that causes their governments to be \f + \fk metonymy \f* strong.
+\q2 because \add it is people doing what\add* is fair\f + \ft Or: right \f* that causes their governments to be \\f + \\ft metonymy \\f* strong.
 \b
 \q
-\v 13 Kings are delighted to hear people say \f + \fk metonymy \f* what is true;
-\q2 they love those who say what is right/honest. 
+\v 13 Kings are delighted to hear people say \\f + \\ft metonymy \\f* what is true;
+\q2 they love those who say what is right\f + \ft Or: honest \f*. 
 \b
 \q
 \v 14 If a king becomes angry, he may command that someone to be executed,
 \q2 so wise people will try to cause him to be calm. 
 \b
 \q
-\v 15 If a king has a smile \f + \fk metonymy \f* on his face, he will enable people to have a long life (OR, he will not order people to be
+\v 15 If a king has a smile \\f + \\ft metonymy \\f* on his face, he will enable people to have a long life (OR, he will not order people to be
 executed) \f*; 
 \q2 his being pleased with people is as delightful as rain in the springtime
 \add when seeds are planted\add*. 
 \b
 \q
 \v 16 Becoming wise is better that acquiring gold; 
-\q2 getting good understanding/insight is better than acquiring silver.
+\q2 getting good understanding\f + \ft Or: insight \f* is better than acquiring silver.
 \b
 \q
-\v 17 Those whose behavior \f + \fk metaphor \f* is good/right turn away from doing evil;
-\q2 those who guard their conduct \f + \fk metonymy \f* protect their lives. 
+\v 17 Those whose behavior \\f + \\ft metaphor \\f* is good\f + \ft Or: right \f* turn away from doing evil;
+\q2 those who guard their conduct \\f + \\ft metonymy \\f* protect their lives. 
 \b
 \q
-\v 18 Being proud will ◄lead to your having/cause you to have► disasters;
+\v 18 Being proud will ◄lead to your having\f + \ft Or: cause \f* you to have► disasters;
 \q2 despising others will result in your being ruined. 
 \b
 \q
 \v 19 It is better to be humble and be poor 
 \q2 than \add to associate with\add* proud people and \add to become rich
-by\add* dividing with them ◄plunder/goods captured in a battle►.
+by\add* dividing with them ◄plunder\f + \ft Or: goods \f* captured in a battle►.
 \b
 \q
-\v 20 Those who heed good teaching/instruction will prosper; 
+\v 20 Those who heed good teaching\f + \ft Or: instruction \f* will prosper; 
 \q2 happy are those who trust in Yahweh. 
 \b
 \q
-\v 21 People say that those who are wise learn what is right/good behavior,
+\v 21 People say that those who are wise learn what is right\f + \ft Or: good \f* behavior,
 \q2 and those who talk pleasantly are able to influence others \add to do what is
 right\add*. 
 \b
 \q
-\v 22 Being wise is like having a fountain that gives life \f + \fk metaphor \f*,
+\v 22 Being wise is like having a fountain that gives life \\f + \\ft metaphor \\f*,
 \q2 but foolish people are punished as a result of their acting foolishly.
 \b
 \q
 \v 23 Those who are wise think carefully before they talk, 
-\q2 and as a result they are able to influence/persuade others \add to do what is
+\q2 and as a result they are able to influence\f + \ft Or: persuade \f* others \add to do what is
 right\add*. 
 \b
 \q
-\v 24 Kind words are like honey \f + \fk simile \f*: 
-\q2 we enjoy them both, and both cause our bodies to be healthy/strong.
+\v 24 Kind words are like honey \\f + \\ft simile \\f*: 
+\q2 we enjoy them both, and both cause our bodies to be healthy\f + \ft Or: strong \f*.
 \b
 \q
-\v 25 There are some kinds of behavior \f + \fk metaphor \f* that people think are right,
-\q2 but ◄walking on those roads \f + \fk metaphor \f*/continually doing those things► causes those people to die.
+\v 25 There are some kinds of behavior \\f + \\ft metaphor \\f* that people think are right,
+\q2 but ◄walking on those roads \\f + \\ft metaphor \\f*\f + \ft Or: continually \f* doing those things► causes those people to die.
 \b
 \q
-\v 26 If a worker ◄has an appetite/is hungry►, that urges him to work hard
-\q2 because he \f + \fk synecdoche \f* wants to \add earn money to buy things to\add* eat.
+\v 26 If a worker ◄has an appetite\f + \ft Or: is \f* hungry►, that urges him to work hard
+\q2 because he \\f + \\ft synecdoche \\f* wants to \add earn money to buy things to\add* eat.
 \b
 \q
 \v 27 Worthless people plan \add ways to cause\add* trouble \add for
 others\add*, 
-\q2 and \add even\add* what they say \add injures people\add* like a hot fire does \f + \fk simile \f*.
+\q2 and \add even\add* what they say \add injures people\add* like a hot fire does \\f + \\ft simile \\f*.
 \b
 \q
-\v 28 Deceitful people cause strife/quarreling among other people;
+\v 28 Deceitful people cause strife\f + \ft Or: quarreling \f* among other people;
 \q2 those who say about other people what is false cause people who are friends to become enemies.
 \b
 \q
-\v 29 Those who act violently entice/encourage others \add to also act
+\v 29 Those who act violently entice\f + \ft Or: encourage \f* others \add to also act
 violently\add* 
 \q2 and lead them along a road that will end in disaster. 
 \b
@@ -129,14 +129,14 @@ are\add* planning to do something to harm others;
 \q2 they smirk when they are about to do something evil. 
 \b
 \q
-\v 31 Gray hair is like a glorious crown \f + \fk metaphor \f* 
+\v 31 Gray hair is like a glorious crown \\f + \\ft metaphor \\f* 
 \q2 that is given to people who have always behaved righteously.
 \b
 \q
 \v 32 Those who do not become angry quickly are greater than those who are powerful;
-\q2 it is better to ◄control your temper/keep yourself from becoming very angry► than to conquer a city.
+\q2 it is better to ◄control your temper\f + \ft Or: keep \f* yourself from becoming very angry► than to conquer a city.
 \b
 \q
-\v 33 People ◄cast lots/throw marked stones► \add to decide what should be
+\v 33 People ◄cast lots\f + \ft Or: throw \f* marked stones► \add to decide what should be
 done\add*, 
 \q2 but God is the one who truly decides what will happen. 

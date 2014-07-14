@@ -1,12 +1,12 @@
 \c 13  
 \s Regulations concerning contagious skin diseases 
 \p
-\v 1 Yahweh said this to Aaron and Moses/me: 
-\v 2 “When someone has on his skin a swelling or a rash or a shiny/bright spot that may become ◄contagious/a dreaded skin
+\v 1 Yahweh said this to Aaron and Moses\f + \ft Or: me \f*: 
+\v 2 “When someone has on his skin a swelling or a rash or a shiny\f + \ft Or: bright \f* spot that may become ◄contagious\f + \ft Or: a \f* dreaded skin
 disease►, he must be brought to Aaron or to one of his sons who are also priests.
 \v 3 The priest must examine that part of the person's skin. If the hair in that area has become white and it appears that the
 sore is deeper than just on the skin, it is a contagious skin disease. When the priest sees that, he must declare that the
-person must stay away from other people \f + \fk metonymy \f*. 
+person must stay away from other people \\f + \\ft metonymy \\f*. 
 \v 4 If the spot on the person's skin is white but it does not appear that the sore is deeper than just on the skin, the priest
 must tell him to stay away from other people for seven days. 
 \v 5 Then the priest must examine the person again. If the priest sees that the sore has not changed and has not spread, he
@@ -19,7 +19,7 @@ priest will declare that he must stay away from other people.
 \p
 \v 9 When anyone has a contagious skin disease, he must be brought to the priest.
 \v 10 The priest must examine him. And if there is a white swelling in the skin that has caused the hair in that swelling to
-become white, and if the flesh in that area is painful/sensitive,
+become white, and if the flesh in that area is painful\f + \ft Or: sensitive \f*,
 \v 11 it is a permanent skin disease, and the priest will declare that he must stay away from other people. The priest does not
 need to tell that person that he must avoid other people, because other people already are wanting to stay away from him.
 \p
@@ -27,25 +27,25 @@ need to tell that person that he must avoid other people, because other people a
 from his head to his feet, 
 \v 13 and it has caused all his skin to become white, the priest will declare that the person does not have to stay away from
 other people. 
-\v 14 But if the person's flesh is no longer covered by skin and is very painful/sensitive, he has a contagious skin disease,
+\v 14 But if the person's flesh is no longer covered by skin and is very painful\f + \ft Or: sensitive \f*, he has a contagious skin disease,
 \v 15 and when the priest sees that, he will declare that the person must stay away from other people.
 \v 16 But if the person's flesh changes and becomes white, he must go to the priest again.
 \v 17 The priest must examine him again; and if the sores have become white, the priest will declare that the person who had
 been infected is now permitted to be with other people again. 
 \p
 \v 18 When someone has a boil on his skin and it has healed, 
-\v 19 but in the place where the boil was a white swelling or a bright/shiny spot appears, he must go to the priest.
+\v 19 but in the place where the boil was a white swelling or a bright\f + \ft Or: shiny \f* spot appears, he must go to the priest.
 \v 20 The priest must examine it. And if it seems to be deeper than just on the skin, and if the hair in that spot has become
 white, it is a contagious skin disease that has appeared where the boil had been. And the priest will declare that the person
 must stay away from other people. 
 \v 21 But when the priest examines it, if there is no white hair in that spot and it is only on the surface of the skin and has
-become less bright/shiny, then the priest will order him to stay away from other people for seven days.
+become less bright\f + \ft Or: shiny \f*, then the priest will order him to stay away from other people for seven days.
 \v 22 But if it is spreading, it is contagious and the priest will declare that the person must stay away from other people.
 \v 23 But if that spot is unchanged and has not spread, it is only a scar from the boil, and the priest will declare that the
 person is permitted to be with other people again. 
 \p
-\v 24 When someone has a burn on his skin and a bright/shiny or white spot appears, and the flesh in that area is
-sensitive/painful, 
+\v 24 When someone has a burn on his skin and a bright\f + \ft Or: shiny \f* or white spot appears, and the flesh in that area is
+sensitive\f + \ft Or: painful \f*, 
 \v 25 the priest must examine the spot. If the hair in that spot has turned white and it seems to be deeper than just on the
 surface of the skin, it is a contagious skin disease that has appeared where the burn was, and that person must stay away from
 other people. 
@@ -71,7 +71,7 @@ other people for seven more days.
 \add only on the surface of\add* the skin, the priest will declare that the person is permitted to be with people again. The
 person must wash his clothes, and then he can be with other people.
 \v 35 But if the sore later spreads, 
-\v 36 the priest must examine him again. If the itch/sore has spread, the priest does not need to look for yellow hair, because
+\v 36 the priest must examine him again. If the itch\f + \ft Or: sore \f* has spread, the priest does not need to look for yellow hair, because
 it is clear that the person has a contagious skin disease. 
 \v 37 However, if the priest thinks that the spot has not changed, and black hair is growing in that area, it is clear that the
 itch has healed, and the priest will declare that the person is permitted to be with other people again.
@@ -82,7 +82,7 @@ itch has healed, and the priest will declare that the person is permitted to be 
 \p
 \v 40 If a man loses all his hair and becomes bald, he does not need to stay away from other people.
 \v 41 The same is true if he has lost his hair at the front of his scalp and his forehead has become bald.
-\v 42 But if he gets a bright/shiny sore on his bald head or on his forehead, he has a contagious skin disease.
+\v 42 But if he gets a bright\f + \ft Or: shiny \f* sore on his bald head or on his forehead, he has a contagious skin disease.
 \v 43 The priest must examine him. If the swollen sore is a bright spot like
 \add the spot on someone who has\add* a contagious skin disease,
 \v 44 the priest will declare that the man has a contagious skin disease and must not be with other people.
@@ -95,7 +95,7 @@ contagious skin disease!”
 \p
 \v 47-48 Sometimes a person's clothing gets mildew on it. It may be clothing that is woven from wool or made from linen, or
 from leather. 
-\v 49 If the contaminated/mildewed part is greenish or reddish, it is a spreading mildew, and it must be shown to the priest.
+\v 49 If the contaminated\f + \ft Or: mildewed \f* part is greenish or reddish, it is a spreading mildew, and it must be shown to the priest.
 \v 50 The priest will examine it, and then put it in a separate place by itself for seven days.
 \v 51 On the seventh day he must examine it again. If the mildew has spread, it is clear that it is a mildew that destroys
 clothing, and it must not be worn again. 

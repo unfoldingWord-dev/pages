@@ -1,8 +1,8 @@
 \c 22  
 \p
-\v 1 Yahweh also said to Moses/me, 
+\v 1 Yahweh also said to Moses\f + \ft Or: me \f*, 
 \v 2 “Tell Aaron and his sons to greatly respect the sacred offerings that the Israeli people bring to me, in order that by
-doing that you will respect me \f + \fk metonymy \f*, Yahweh. 
+doing that you will respect me \\f + \\ft metonymy \\f*, Yahweh. 
 \p
 \v 3 Tell them that for all future time, if any of their descendants who is unfit to work for me comes near to the sacred
 offerings that the Israeli people dedicate to me, that person will no longer be allowed to work for me. I, Yahweh,
@@ -19,7 +19,7 @@ offerings that are for him to eat.
 be permitted to touch others. I, Yahweh \add am commanding those
 things\add*. 
 \p
-\v 9 The priests must obey my commandments in order that they will not become guilty and die as a result of ◄despising/not
+\v 9 The priests must obey my commandments in order that they will not become guilty and die as a result of ◄despising\f + \ft Or: not \f*
 obeying► them. 
 \p
 \v 10 No one who is not a member of a priest's family is permitted to eat any of a sacred offering, and no one who is visiting
@@ -38,7 +38,7 @@ those offerings as though they are not sacred
 make a payment. I am Yahweh, the one who causes those offerings to be sacred.”
 \s Offerings that are not acceptable 
 \p
-\v 17 Yahweh also said to Moses/me, 
+\v 17 Yahweh also said to Moses\f + \ft Or: me \f*, 
 \v 18 “Speak to Aaron and his sons and to all the Israeli people and tell them that I say this to them: ‘If any of you Israelis
 or foreigners who live in Israel brings to me an animal that will be completely burned
 \add on the altar\add*, either as a result of a solemn promise that you made to me or to be an offering that is given
@@ -47,17 +47,17 @@ voluntarily,
 \v 20 Do not bring any animals that have defects, because I will not accept them for you.
 \v 21  \add Similarly\add*, when someone brings from his cattle or sheep or goats an offering to maintain fellowship with me,
 either to fulfill a promise that he made to me or to be a voluntary offering, in order that I will accept it, it must have no
-defects \f + \fk doublet \f* or blemishes. 
-\v 22 Do not offer to me animals that are blind or injured or maimed/crippled, or any animal that has warts or a festering sore
-\f + \fk doublet \f*. 
+defects \\f + \\ft doublet \\f* or blemishes. 
+\v 22 Do not offer to me animals that are blind or injured or maimed\f + \ft Or: crippled \f*, or any animal that has warts or a festering sore
+\\f + \\ft doublet \\f*. 
 \v 23 You may present to me to be a voluntary offering an ox or a sheep that is injured or stunted, but it will not be accepted
 to fulfill a promise made to me. 
 \v 24 You must not offer to me animals whose testicles are bruised or crushed or torn or cut. You must not injure the testicles
 of any animal in your land, 
-\v 25 and you must not accept such animals that are sold/given to you by a foreigner. You must not offer them to me as food for
+\v 25 and you must not accept such animals that are sold\f + \ft Or: given \f* to you by a foreigner. You must not offer them to me as food for
 me. Such animals will not be accepted by me, because they are deformed or have defects.’ ”
 \p
-\v 26 Yahweh also said to Moses/me, 
+\v 26 Yahweh also said to Moses\f + \ft Or: me \f*, 
 \v 27 “When a calf or lamb or goat is born, it must remain with its mother for seven days. After that, it can be accepted to be
 an offering to me that will be burned. 
 \v 28 Do not slaughter a cow or a sheep and its baby on the same day.
@@ -67,7 +67,7 @@ done\add*, sacrifice it in a way that is acceptable to me.
 \v 30 The meat must be eaten on that day; do not leave any of it until the next morning. I, Yahweh,
 \add am the one who am commanding this\add*. 
 \p
-\v 31 Obey all my commands \f + \fk doublet \f*. I, Yahweh, \add am commanding them\add*;
-\v 32 do not dishonor me \f + \fk metonymy \f* \add by disobeying them\add*. You Israeli people must acknowledge that I, Yahweh, am holy, and I
+\v 31 Obey all my commands \\f + \\ft doublet \\f*. I, Yahweh, \add am commanding them\add*;
+\v 32 do not dishonor me \\f + \\ft metonymy \\f* \add by disobeying them\add*. You Israeli people must acknowledge that I, Yahweh, am holy, and I
 am the one who causes you to be holy. 
 \v 33 And I am the one who brought you out of Egypt in order that I, Yahweh, will be your God.”

@@ -1,7 +1,7 @@
 \c 22  
 \q
-\v 1 ◄Having a good reputation/Being honored by people► is better than having a lot of money;
-\q2 being well respected is better than having plenty of gold or silver \f + \fk doublet \f*.
+\v 1 ◄Having a good reputation\f + \ft Or: Being \f* honored by people► is better than having a lot of money;
+\q2 being well respected is better than having plenty of gold or silver \\f + \\ft doublet \\f*.
 \b
 \q
 \v 2 There is one thing that is true about both rich people and poor people:
@@ -17,22 +17,22 @@
 \b
 \q
 \v 5 Because of the things that wicked people do, \add they have
-difficulties/troubles\add* that will be like thorns and traps on the roads that they walk on \f + \fk metaphor \f*;
-\q2 people who are careful/cautious will be able to stay away from those difficulties.
+difficulties\f + \ft Or: troubles \f*\add* that will be like thorns and traps on the roads that they walk on \\f + \\ft metaphor \\f*;
+\q2 people who are careful\f + \ft Or: cautious \f* will be able to stay away from those difficulties.
 \b
 \q
-\v 6 If you train/teach children to do what is right, 
-\q2 all during their life they will act/behave in that manner. 
+\v 6 If you train\f + \ft Or: teach \f* children to do what is right, 
+\q2 all during their life they will act\f + \ft Or: behave \f* in that manner. 
 \b
 \q
 \v 7 Rich people rule over poor people harshly, 
-\q2 and those who borrow money become like slaves \f + \fk metaphor \f* of the people who lend
+\q2 and those who borrow money become like slaves \\f + \\ft metaphor \\f* of the people who lend
 \add money to them\add*. 
 \b
 \q
 \v 8  \add If you plant corn or rice, corn or rice will grow\add*;
-\q2 \add similarly\add*, if you act unjustly, you will have disasters \f + \fk metaphor \f*;
-\q and if you try to harm/oppress people \add because you are angry with
+\q2 \add similarly\add*, if you act unjustly, you will have disasters \\f + \\ft metaphor \\f*;
+\q and if you try to harm\f + \ft Or: oppress \f* people \add because you are angry with
 them\add*, 
 \q2 you will not be able to do that. 
 \b
@@ -50,8 +50,8 @@ good\add*,
 \q2 the king will be your friend. 
 \b
 \q
-\v 12 Yahweh \f + \fk synecdoche \f* ◄watches over/takes care of► those who have good understanding/sense,
-\q2 but he ruins the plans/affairs of those who always try to deceive others.
+\v 12 Yahweh \\f + \\ft synecdoche \\f* ◄watches over\f + \ft Or: takes \f* care of► those who have good understanding\f + \ft Or: sense \f*,
+\q2 but he ruins the plans\f + \ft Or: affairs \f* of those who always try to deceive others.
 \b
 \q
 \v 13 Lazy people remain in their houses; 
@@ -59,13 +59,13 @@ good\add*,
 \add to go to work\add*!” 
 \b
 \q
-\v 14 What ◄prostitutes/immoral women► say to men \f + \fk metonymy \f* is like a deep pit \f + \fk metaphor \f*
+\v 14 What ◄prostitutes\f + \ft Or: immoral \f* women► say to men \\f + \\ft metonymy \\f* is like a deep pit \\f + \\ft metaphor \\f*
 \add into which those men fall\add*; 
 \q2 those with whom Yahweh is angry will fall into that pit. 
 \b
 \q
-\v 15 Children \f + \fk synecdoche \f* naturally do things that are foolish, 
-\q2 but if you punish/beat/spank them \f + \fk personification \f*, they will ◄stop doing foolish things/learn to behave as they should►.
+\v 15 Children \\f + \\ft synecdoche \\f* naturally do things that are foolish, 
+\q2 but if you punish\f + \ft Or: beat \f*\f + \ft Or: spank \f* them \\f + \\ft personification \\f*, they will ◄stop doing foolish things\f + \ft Or: learn \f* to behave as they should►.
 \b
 \q
 \v 16 Those who oppress poor people in order to become rich, 
@@ -76,18 +76,18 @@ them\add*,
 \s Thirty wise sayings 
 \b
 \q
-\v 17 Now listen \f + \fk metonymy \f* to what wise people have said; 
+\v 17 Now listen \\f + \\ft metonymy \\f* to what wise people have said; 
 \q2 think carefully about what I am teaching you. 
 \q
-\v 18 It will be good to ◄keep them in your minds/always remember them►,
-\q2 because if you do that, you will be able to quote/recite them to others.
+\v 18 It will be good to ◄keep them in your minds\f + \ft Or: always \f* remember them►,
+\q2 because if you do that, you will be able to quote\f + \ft Or: recite \f* them to others.
 \q
 \v 19  \add I want you to\add* trust in Yahweh, 
 \q2 and that is the reason that I am telling them to you, now. 
 \q
-\v 20 I have written \f + \fk rhetorical question \f* thirty ◄sayings/things that wise people have said►
+\v 20 I have written \\f + \\ft rhetorical question \\f* thirty ◄sayings\f + \ft Or: things \f* that wise people have said►
 \q2 from which you will receive good advice and you will be able you to know
-\add many good/useful things\add*. 
+\add many good\f + \ft Or: useful \f* things\add*. 
 \q
 \v 21 From them, you will learn what is right and what is true, 
 \q2 in order that you will be able to bring back a good report \add to those who sent you to
@@ -97,14 +97,14 @@ school\add* \f + \ft (OR, give a good answer \add to those who ask you questions
 \q
 \v 22  \add It is easy to\add* rob poor people who are helpless \add and cannot defend themselves,
 but\add* never do that; 
-\q2 and do not oppress in court those who are needy/afflicted, 
+\q2 and do not oppress in court those who are needy\f + \ft Or: afflicted \f*, 
 \q
 \v 23 because Yahweh will speak to defend them, 
 \q2 and he will punish those who steal things from others—by causing them to die.
 \s -2- 
 \q
 \v 24 Do not become friends with those who often become angry, 
-\q2 and do not associate with those who cannot control their temper/anger,
+\q2 and do not associate with those who cannot control their temper\f + \ft Or: anger \f*,
 \q
 \v 25 because you might start to act like they do 
 \q2 and not be able to stop doing that. 
@@ -115,15 +115,15 @@ but\add* never do that;
 \q if he cannot pay it back, 
 \q
 \v 27 because if you cannot pay it back, 
-\q2 they will surely \f + \fk rhetorical question \f* \add come and\add* take away \add everything you
+\q2 they will surely \\f + \\ft rhetorical question \\f* \add come and\add* take away \add everything you
 own\add*, even your bed. 
 \s -4- 
 \q
-\v 28 Do not \add steal some of your neighbors' land by\add* removing the boundary lines/markers that your ancestors
-placed/set. 
+\v 28 Do not \add steal some of your neighbors' land by\add* removing the boundary lines\f + \ft Or: markers \f* that your ancestors
+placed\f + \ft Or: set \f*. 
 \s -5- 
 \q
-\v 29 Know/Learn \f + \fk rhetorical question \f* this about those who do their work very skillfully:
+\v 29 Know\f + \ft Or: Learn \f* \\f + \\ft rhetorical question \\f* this about those who do their work very skillfully:
 \q2 they will quit working for ordinary people 
 \q2 and will start working for kings 
 \q2 \add because the kings will want people like that to work for

@@ -1,14 +1,14 @@
 \c 9  
 \s The reason that God will enable them to be victorious 
 \p
-\v 1 “You people of Israel, listen to me! You will soon \f + \fk hyperbole \f* cross the Jordan
+\v 1 “You people of Israel, listen to me! You will soon \\f + \\ft hyperbole \\f* cross the Jordan
 \add River\add*. In the land that you will enter, there are large cities that have very high walls
-\add around them that seem to\add* \f + \fk hyperbole \f* extend up to the sky. There are people-groups in that land that are more numerous and
+\add around them that seem to\add* \\f + \\ft hyperbole \\f* extend up to the sky. There are people-groups in that land that are more numerous and
 more powerful than you are. 
 \v 2 Those people are very tall and strong. \add Some of them\add* are giants who are descendants of Anak. You know about them,
-and you have heard people say that no one \f + \fk rhetorical question \f* can defeat the descendants of Anak. But you will expel all of those
+and you have heard people say that no one \\f + \\ft rhetorical question \\f* can defeat the descendants of Anak. But you will expel all of those
 people-groups! 
-\v 3 I want you to know that Yahweh our God will go ahead of you. He will be like a raging/roaring fire. While you advance, he
+\v 3 I want you to know that Yahweh our God will go ahead of you. He will be like a raging\f + \ft Or: roaring \f* fire. While you advance, he
 will defeat and destroy them. As a result, you will quickly be able to expel some of them and kill the others, which is what
 Yahweh promised that you would do. 
 \p
@@ -19,7 +19,7 @@ them as you advance.
 righteous that you will enter and capture that land. It is because those people-groups are very wicked that Yahweh our God will
 expel them as you advance, and because he intends to do what he solemnly promised to your ancestors Abraham, Isaac, and Jacob
 that he would do. 
-\v 6 I want you to know that it is not because you are righteous that Yahweh our God is giving you this good/fertile land. I
+\v 6 I want you to know that it is not because you are righteous that Yahweh our God is giving you this good\f + \ft Or: fertile \f* land. I
 say that because you are \add not righteous\add*; you are a very stubborn [IDI] people.”
 \s Moses reminded them of the golden calf 
 \p
@@ -31,7 +31,7 @@ Egypt until the day that we arrived here, you also have continually rebelled aga
 giving to them, I stayed there forty days and nights, and \add during that
 time\add* I did not eat or drink anything. 
 \v 10 Yahweh gave me the two stone tablets on which he had written
-\add the commandments\add* with his own fingers. They were the words/commandments that he had spoken to your ancestors from the
+\add the commandments\add* with his own fingers. They were the words\f + \ft Or: commandments \f* that he had spoken to your ancestors from the
 fire on that mountain, when they were gathered together \add at the bottom of the
 mountain\add*. 
 \p
@@ -44,7 +44,7 @@ commanded them not to do. They have made for themselves a metal statue
 \p
 \v 13 Then Yahweh said to me, ‘I have been watching these people, and I see that they are very stubborn.
 \v 14 So do not try to stop me. I am going to destroy all of them, with the result that no one anywhere will remember ◄their
-names \f + \fk metonymy \f*/that they ever existed►. Then I will enable you to become
+names \\f + \\ft metonymy \\f*\f + \ft Or: that \f* they ever existed►. Then I will enable you to become
 \add the ancestor of\add* a nation that will be more numerous and more powerful than they are.’
 \p
 \v 15 So I turned and went down the mountain, carrying in my hands the two stone tablets on which the Ten Commandments were
@@ -56,10 +56,10 @@ of\add* a calf \add to worship\add*.
 \v 17 So while they were watching, I lifted up those two stone tablets and threw them
 \add on the ground\add*, and they broke into pieces. 
 \p
-\v 18 Then I ◄prostrated myself/lay► on the ground in Yahweh's presence as I had done before, and I did not eat or drink
+\v 18 Then I ◄prostrated myself\f + \ft Or: lay \f*► on the ground in Yahweh's presence as I had done before, and I did not eat or drink
 anything for forty days and nights. I did that because your ancestors had sinned against Yahweh and caused him to become very
 angry. 
-\v 19 I was afraid/worried that because Yahweh was very angry with them, he would get rid of all of them.
+\v 19 I was afraid\f + \ft Or: worried \f* that because Yahweh was very angry with them, he would get rid of all of them.
 \add But again I prayed that he would not do that\add*, and again he listened to me
 \add and answered my prayer\add*. 
 \v 20 Yahweh was also very angry with Aaron \add for making that golden
@@ -67,13 +67,13 @@ calf\add* and was ready to kill Aaron. But at the same time I prayed for Aaron a
 \add and Yahweh answered my prayer\add*. 
 \v 21 Your ancestors had sinned \add by requesting Aaron to make a metal statue of
 a\add* calf. So I took that statue and \add I melted it\add* in a fire and crushed it and ground it into very tiny pieces
-\f + \fk hyperbole \f*. Then I threw those tiny pieces into the stream that flowed down the mountain.
+\\f + \\ft hyperbole \\f*. Then I threw those tiny pieces into the stream that flowed down the mountain.
 \p
 \v 22 Your ancestors also caused Yahweh to become very angry \add by what they
 did\add* at \add places which they named\add* Taberah, Massah, and Kibroth-Hattaavah.
 \p
 \v 23 And when we were at Kadesh-Barnea, Yahweh said to your ancestors, ‘Go up and capture the land that I am about to give to
-you!’ But they rebelled against him. They did not trust him, and they did not obey what he told \f + \fk metonymy \f* them to do.
+you!’ But they rebelled against him. They did not trust him, and they did not obey what he told \\f + \\ft metonymy \\f* them to do.
 \v 24 Your ancestors rebelled against Yahweh from the first day that I knew them,
 \add in Egypt\add*. 
 \p

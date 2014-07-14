@@ -8,8 +8,8 @@ day. On that day \add the priests\add* must blow their trumpets.
 The animals that you must bring are one young bull, one male sheep, and seven male lambs that are one year-old. They must have
 no defects. 
 \v 3 With these animals bring a grain offering of nice flour mixed with
-\add olive\add* oil. With the bull, bring six quarts/liters. With the male sheep, bring four quarts/liters,
-\v 4 and with each of the seven lambs bring two quarts/liters. 
+\add olive\add* oil. With the bull, bring six quarts\f + \ft Or: liters \f*. With the male sheep, bring four quarts\f + \ft Or: liters \f*,
+\v 4 and with each of the seven lambs bring two quarts\f + \ft Or: liters \f*. 
 \v 5 Also offer one male goat to atone for your sins. 
 \v 6 All of those animals are in addition to the animals that are completely burned
 \add on the altar\add* each morning and on the first day of each month. The offerings of grain and wine must be made exactly as
@@ -20,9 +20,9 @@ I have told you to do. When these offerings are burned, the smell will be very p
 or do any work on that day. 
 \v 8 When you burn offerings \add on the altar\add* on that day, the smell will be very pleasing to me. The animals that you
 must bring are one young bull, one male sheep, and seven male lambs that are one year-old. They must have no defects.
-\v 9 With the bull, bring a grain offering of six quarts/liters of nice flour mixed with
-\add olive\add* oil. With the male sheep, bring four quarts/liters.
-\v 10 With each of the lambs, bring two quarts/liters. 
+\v 9 With the bull, bring a grain offering of six quarts\f + \ft Or: liters \f* of nice flour mixed with
+\add olive\add* oil. With the male sheep, bring four quarts\f + \ft Or: liters \f*.
+\v 10 With each of the lambs, bring two quarts\f + \ft Or: liters \f*. 
 \v 11 Also bring one male goat to remove \add the guilt of\add* your sins, and the animals and grain and wine that you burn
 \add on the altar\add* each day to atone for your sins. Those offerings will be in addition to the animals and grain and wine
 that are completely burned \add on the altar\add* each day.” 
@@ -33,23 +33,23 @@ day. You must continue to celebrate for seven days.
 \v 13 When the offerings are burned \add on the altar\add*, the smell will be very pleasing to me. The animals that you must
 bring are thirteen young bulls, two male sheep, and fourteen male lambs that are a year-old. These animals must have no
 defects. 
-\v 14 With each of the thirteen bulls, bring a grain offering of six quarts/liters of nice flour mixed with
-\add olive\add* oil. With each of the male sheep, bring four quarts/liters.
-\v 15 With each of the fourteen lambs, bring two quarts/liters. 
+\v 14 With each of the thirteen bulls, bring a grain offering of six quarts\f + \ft Or: liters \f* of nice flour mixed with
+\add olive\add* oil. With each of the male sheep, bring four quarts\f + \ft Or: liters \f*.
+\v 15 With each of the fourteen lambs, bring two quarts\f + \ft Or: liters \f*. 
 \v 16 Also bring one male goat to be sacrificed to remove \add the guilt
 of\add* your sins, in addition to the offerings of animals and grain and wine that are completely burned
 \add on the altar\add* each day. 
 \p
 \v 17-34 For the next six days of the festival, you must also bring animals to sacrifice. On the second day, bring twelve
-bulls. On the third/next day, bring eleven bulls. One the fourth/next day, bring ten bulls. On the fifth/next day, bring nine
-bulls. On the sixth/next day, bring eight bulls. On the seventh/last day, bring seven bulls. But on each of those days, all the
+bulls. On the third\f + \ft Or: next \f* day, bring eleven bulls. One the fourth\f + \ft Or: next \f* day, bring ten bulls. On the fifth\f + \ft Or: next \f* day, bring nine
+bulls. On the sixth\f + \ft Or: next \f* day, bring eight bulls. On the seventh\f + \ft Or: last \f* day, bring seven bulls. But on each of those days, all the
 other sacrifices and offerings that you bring will remain the same.
 \p
 \v 35 On the eighth day of the festival, you must \add again\add* gather together to worship me, and do not do any work on that
 day. 
 \v 36 On that day, you must bring to the altar one bull, one full-grown ram, and seven lambs that are a year-old. These animals
 must have no defects. They must all be burned on the altar, and their smell will please me.
-\v 37 Bring also with the bull and the male sheep and each of the lambs the offerings of grain and wine that ◄are required/I
+\v 37 Bring also with the bull and the male sheep and each of the lambs the offerings of grain and wine that ◄are required\f + \ft Or: I \f*
 told you to bring►. 
 \v 38 Also offer one male goat to be sacrificed to remove \add the guilt
 of\add* your sins. These animals will be in addition to the offerings of animals and grain and wine that are completely burned
@@ -60,4 +60,4 @@ of\add* your sins. These animals will be in addition to the offerings of animals
 addition to the offerings that you give to me because you promised to do something, and other special offerings that you want
 to give to me.” 
 \p
-\v 40 Then Moses/I told to the Israeli people all the things that Yahweh had commanded him/me.
+\v 40 Then Moses\f + \ft Or: I \f* told to the Israeli people all the things that Yahweh had commanded him\f + \ft Or: me \f*.

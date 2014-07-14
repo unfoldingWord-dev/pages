@@ -1,14 +1,14 @@
 \c 35  
 \s The promise of restoration 
 \q
-\v 1  \add Some day, it will be as though\add* the desert and other very dry areas are glad \f + \fk doublet \f*;
+\v 1  \add Some day, it will be as though\add* the desert and other very dry areas are glad \\f + \\ft doublet \\f*;
 \q2 the desert will rejoice and flowers will blossom. 
-\q Like crocuses/daffodils, 
+\q Like crocuses\f + \ft Or: daffodils \f*, 
 \q
 \v 2 the desert will produce flowers abundantly; 
 \q2 \add it will be as though\add* everything is rejoicing and singing!
-\q The deserts will become as beautiful as \f + \fk simile \f* the trees in Lebanon,
-\q2 as fertile \f + \fk simile \f* as the plains of the Sharon and Carmel \add areas\add*.
+\q The deserts will become as beautiful as \\f + \\ft simile \\f* the trees in Lebanon,
+\q2 as fertile \\f + \\ft simile \\f* as the plains of the Sharon and Carmel \add areas\add*.
 \q There people will see the glory of Yahweh; 
 \q2 they will see that he is magnificent. 
 \q
@@ -17,7 +17,7 @@
 \v 4 Say to those who are afraid, 
 \q “Be strong and do not be afraid, 
 \q2 because our God is going to come to get revenge \add on his enemies\add*;
-\q he will ◄pay them back/punish them► for what they have done, 
+\q he will ◄pay them back\f + \ft Or: punish \f* them► for what they have done, 
 \q2 and he will rescue you.” 
 \b
 \q
@@ -31,7 +31,7 @@
 \q
 \v 7 The very dry ground will become a pool of water, 
 \q2 and springs will provide water for the dry land. 
-\q Grass and reeds and papyrus will grow in places where the jackals/wolves lived previously.
+\q Grass and reeds and papyrus will grow in places where the jackals\f + \ft Or: wolves \f* lived previously.
 \b
 \q
 \v 8 And there will be a highway through that land; 
@@ -48,4 +48,4 @@
 \q they will sing as they enter the city, 
 \q2 and they will be extremely joyful [MET, PRS] forever. 
 \q No longer will they be sad or mourn; 
-\q2 they will be completely joyful and glad \f + \fk doublet \f*. 
+\q2 they will be completely joyful and glad \\f + \\ft doublet \\f*. 

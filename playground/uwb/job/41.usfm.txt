@@ -1,7 +1,7 @@
 \c 41  
 \s Yahweh challenged Job to try to capture a crocodile 
 \q
-\v 1 “\add Think also about\add* ◄crocodiles/great sea dragons►.
+\v 1 “\add Think also about\add* ◄crocodiles\f + \ft Or: great \f* sea dragons►.
 \q2 Can you catch them with a fishhook 
 \q2 or fasten their jaws with a rope? 
 \q
@@ -9,14 +9,14 @@
 \q2 or thrust hooks through their jaws? 
 \q
 \v 3 Will they plead with you to act mercifully toward them 
-\q2 or ◄use sweet talk/speak to you nicely► \add in order that you will not harm
+\q2 or ◄use sweet talk\f + \ft Or: speak \f* to you nicely► \add in order that you will not harm
 them\add*? 
 \q
 \v 4 Will they make an agreement with you to work for you, 
 \q2 to be your slaves as long as they live? 
 \q
 \v 5 Can you cause them to become pets like you cause birds to become your pets?
-\q2 Can you put a leash/rope \add around their necks\add* so that your servant girls
+\q2 Can you put a leash\f + \ft Or: rope \f* \add around their necks\add* so that your servant girls
 \add can play with them\add*? 
 \q
 \v 6 Will merchants try to buy them \add in the market\add*? 
@@ -31,24 +31,24 @@ them\add*?
 \v 9 It is useless to try to subdue them. 
 \q2 Anyone who tries to subdue one of them will lose his courage.
 \q
-\v 10 No one dares/tries to ◄arouse them/cause them to be angry►.
-\q2 So, \add since I am much more powerful than they are\add*, ◄who would dare to cause me to be angry?/no one would dare to
-cause me to be angry!► \f + \fk rhetorical question \f* 
+\v 10 No one dares\f + \ft Or: tries \f* to ◄arouse them\f + \ft Or: cause \f* them to be angry►.
+\q2 So, \add since I am much more powerful than they are\add*, ◄who would dare to cause me to be angry?\f + \ft Or: no \f* one would dare to
+cause me to be angry!► \\f + \\ft rhetorical question \\f* 
 \q
 \v 11 Also, everything on the earth is mine. 
-\q2 Therefore, no one \f + \fk rhetorical question \f* is able to give anything to me and require me to pay money for it!
+\q2 Therefore, no one \\f + \\ft rhetorical question \\f* is able to give anything to me and require me to pay money for it!
 \b
 \q
-\v 12 I will tell you about \add how strong ◄crocodiles'/great sea
+\v 12 I will tell you about \add how strong ◄crocodiles'\f + \ft Or: great \f* sea
 dragons'►\add* legs are 
 \q2 and how strong their well-formed bodies are. 
 \q
-\v 13 ◄Can anyone strip off their hides?/No one is able to strip off their hides.► \f + \fk rhetorical question \f*
-\q2 ◄Can anyone try to put bridles on them?/No one can try to put bridles on them.► \f + \fk rhetorical question \f* \f + \ft (OR, Can anyone pierce their very
+\v 13 ◄Can anyone strip off their hides?\f + \ft Or: No \f* one is able to strip off their hides.► \\f + \\ft rhetorical question \\f*
+\q2 ◄Can anyone try to put bridles on them?\f + \ft Or: No \f* one can try to put bridles on them.► \\f + \\ft rhetorical question \\f* \f + \ft (OR, Can anyone pierce their very
 thick hides?) 
 \q
-\v 14 ◄Can anyone pry open their jaws, which have terrible teeth in them?/No one can pry open their jaws, which have terrible
-teeth in them!► \f + \fk rhetorical question \f* 
+\v 14 ◄Can anyone pry open their jaws, which have terrible teeth in them?\f + \ft Or: No \f* one can pry open their jaws, which have terrible
+teeth in them!► \\f + \\ft rhetorical question \\f* 
 \q
 \v 15 They have rows of scales on their back 
 \q2 which are as hard as a rock (OR, tightly fastened together) \f*.
@@ -59,13 +59,13 @@ teeth in them!► \f + \fk rhetorical question \f*
 \v 17 The scales are joined very closely to each other, 
 \q2 and they cannot be separated. 
 \q
-\v 18 When ◄crocodiles/great sea dragons► sneeze, \add the tiny drops of water that come out of their
+\v 18 When ◄crocodiles\f + \ft Or: great \f* sea dragons► sneeze, \add the tiny drops of water that come out of their
 noses\add* sparkle in the sunlight. 
 \q2 Their eyes are red like the rising sun. 
 \q
-\v 19  \add It is as though\add* sparks of fire pour out of their mouths \f + \fk doublet \f*.
+\v 19  \add It is as though\add* sparks of fire pour out of their mouths \\f + \\ft doublet \\f*.
 \q
-\v 20 Smoke pours out of their nostrils/noses 
+\v 20 Smoke pours out of their nostrils\f + \ft Or: noses \f* 
 \q2 like steam comes out of a pot that is put over a fire made from dry reeds.
 \q
 \v 21 Their breath can cause coals to blaze, 
@@ -75,16 +75,16 @@ noses\add* sparkle in the sunlight.
 \q2 wherever they go, they cause people to be very afraid. 
 \q
 \v 23 The folds in their flesh are very close together 
-\q2 and are very hard/firm. 
+\q2 and are very hard\f + \ft Or: firm \f*. 
 \q
 \v 24  \add They are fearless\add*, 
 \q2 because the inner parts of their bodies are as hard as a rock,
 \q2 as hard as the lower millstone \add on which grain is ground\add*.
 \q
 \v 25 When they rise up, they cause \add even\add* very strong people to be terrified.
-\q2 As a result, people ◄fall back/run away► when ◄crocodiles/great sea dragons► thrash around.
+\q2 As a result, people ◄fall back\f + \ft Or: run \f* away► when ◄crocodiles\f + \ft Or: great \f* sea dragons► thrash around.
 \q
-\v 26 People \f + \fk personification \f* cannot injure them with swords, 
+\v 26 People \\f + \\ft personification \\f* cannot injure them with swords, 
 \q2 and spears or darts or javelins cannot injure them, either. 
 \q
 \v 27 They \add certainly are not afraid of weapons made of\add* straw or rotten wood,
@@ -95,7 +95,7 @@ noses\add* sparkle in the sunlight.
 \q
 \v 29 They are not afraid of clubs \add anymore than they would be afraid of men
 throwing\add* bits of straw at them, 
-\q2 and they laugh when they hear the whirl/sound of javelins \add being thrown at
+\q2 and they laugh when they hear the whirl\f + \ft Or: sound \f* of javelins \add being thrown at
 them\add*. 
 \q
 \v 30 Their bellies are covered with scales that are as sharp as broken pieces of pottery.
@@ -103,12 +103,12 @@ them\add*.
 \q2 their bellies tear up the ground like a plow. 
 \q
 \v 31 They stir up the water and cause it to foam 
-\q2 as they churn/swim through it. 
+\q2 as they churn\f + \ft Or: swim \f* through it. 
 \q
-\v 32 As they go through the water, their ◄wakes/trails in the water behind them► glisten.
+\v 32 As they go through the water, their ◄wakes\f + \ft Or: trails \f* in the water behind them► glisten.
 \q2 People \add who see it\add* would think that the foam had become white hair.
 \q
-\v 33 There are no creatures on earth that are as fearless as ◄crocodiles/great sea dragons►.
+\v 33 There are no creatures on earth that are as fearless as ◄crocodiles\f + \ft Or: great \f* sea dragons►.
 \q
 \v 34 They are the proudest of all the creatures; 
 \q2 they are \add like\add* kings over all the other wild animals.”

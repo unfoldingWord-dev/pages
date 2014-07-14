@@ -2,7 +2,7 @@
 \s Isaiah praises God for his judgment and his salvation 
 \q
 \v 1 Yahweh, you are my God; 
-\q2 I will honor you and praise you \f + \fk metonymy \f*. 
+\q2 I will honor you and praise you \\f + \\ft metonymy \\f*. 
 \q You do wonderful things; 
 \q2 you said long ago that you would do those things, 
 \q2 and now you have done them like you said that you would. 
@@ -13,24 +13,24 @@
 \q2 they will never be rebuilt. 
 \q
 \v 3 Therefore, people in powerful nations will declare that you are very great,
-\q2 and people in nations \add whose leaders are\add* ruthless/cruel will revere you.
+\q2 and people in nations \add whose leaders are\add* ruthless\f + \ft Or: cruel \f* will revere you.
 \q
-\v 4 Yahweh, you are like \f + \fk simile \f* a strong tower where poor people can ◄find refuge/be safe►,
+\v 4 Yahweh, you are like \\f + \\ft simile \\f* a strong tower where poor people can ◄find refuge\f + \ft Or: be \f* safe►,
 \q2 a place where needy people can go when they are distressed. 
-\q You are like \f + \fk metaphor \f* a place where people can find refuge in a storm
+\q You are like \\f + \\ft metaphor \\f* a place where people can find refuge in a storm
 \q2 and where they can be shaded from the hot sun. 
-\q Ruthless/Cruel people oppress us; 
-\q2 they are like \f + \fk simile \f* a storm beating against a wall, 
+\q Ruthless\f + \ft Or: Cruel \f* people oppress us; 
+\q2 they are like \\f + \\ft simile \\f* a storm beating against a wall, 
 \q2
-\v 5 and like \f + \fk simile \f* the very strong heat in the desert. 
+\v 5 and like \\f + \\ft simile \\f* the very strong heat in the desert. 
 \q But you cause the roaring of people in foreign nations to cease.
 \q2 Like the air cools when a cloud comes overhead, 
-\q2 you stop ruthless/cruel people from singing songs boasting about their being very great.
+\q2 you stop ruthless\f + \ft Or: cruel \f* people from singing songs boasting about their being very great.
 \b
 \q
 \v 6 Here in Jerusalem the Almighty Commander of the armies of angels will prepare a wonderful feast for all the people of the
 world. 
-\q2 It will be a banquet with plenty of good meat and fine well-aged \f + \fk doublet \f* wine.
+\q2 It will be a banquet with plenty of good meat and fine well-aged \\f + \\ft doublet \\f* wine.
 \q
 \v 7  \add People here are\add* sad; 
 \q2 their being sad is like a dark cloud that hangs over them, 
@@ -47,18 +47,18 @@ world.
 \q “Yahweh is our God! 
 \q2 We trusted in him, and he rescued us! 
 \q Yahweh, in whom we trusted, has done it; 
-\q2 we should rejoice because of his saving/rescuing us!” 
+\q2 we should rejoice because of his saving\f + \ft Or: rescuing \f* us!” 
 \b
 \q
-\v 10 Yahweh \f + \fk metonymy \f* will protect and bless Jerusalem. 
+\v 10 Yahweh \\f + \\ft metonymy \\f* will protect and bless Jerusalem. 
 \q2 But he will crush \add the people in the land of\add* Moab; 
-\q2 they will be like \f + \fk simile \f* straw that is trampled in the manure
+\q2 they will be like \\f + \\ft simile \\f* straw that is trampled in the manure
 \add and left to rot\add*. 
 \q
 \v 11 Yahweh will push down the people of Moab 
-\q2 like \f + \fk simile \f* a swimmer pushes down \add the water\add* with his hands.
+\q2 like \\f + \\ft simile \\f* a swimmer pushes down \add the water\add* with his hands.
 \q He will cause them to cease being proud, 
 \q2 and he will show that all the things that they have done are worthless.
 \q
 \v 12 The high walls around the cities of Moab will be torn down;
-\q2 they will be demolished and fall into the dust/dirt. 
+\q2 they will be demolished and fall into the dust\f + \ft Or: dirt \f*. 

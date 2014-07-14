@@ -3,15 +3,15 @@
 \p
 \v 1 Then Yahweh spoke to Job from inside a great windstorm. He said to him,
 \q
-\v 2 “◄Who are you to question what I plan to do?/You have no right/authority to question what I plan to do.► \f + \fk rhetorical question \f*
+\v 2 “◄Who are you to question what I plan to do?\f + \ft Or: You \f* have no right\f + \ft Or: authority \f* to question what I plan to do.► \\f + \\ft rhetorical question \\f*
 \q2 You are speaking ignorantly! 
 \q
 \v 3 I want to ask you some questions, 
-\q2 so, just like men prepare themselves for a difficult task \f + \fk metaphor \f*,
+\q2 so, just like men prepare themselves for a difficult task \\f + \\ft metaphor \\f*,
 \q2 prepare to answer my questions. 
 \b
 \q
-\v 4 ◄Where were you/Were you there with me► \add long ago\add* when I ◄laid the foundations of/created► the earth?
+\v 4 ◄Where were you\f + \ft Or: Were \f* you there with me► \add long ago\add* when I ◄laid the foundations of\f + \ft Or: created \f*► the earth?
 \q2 Since you know so much, tell me \add where you were at that time\add*.
 \q
 \v 5 Do you know how I decided how large the earth would be? 
@@ -56,7 +56,7 @@ land\add*.
 \q
 \v 16 Job, have you traveled to the springs \add in the bottom of the
 ocean\add* from which the water in the seas comes? 
-\q2 Have you investigated/explored the very bottom of the oceans?
+\q2 Have you investigated\f + \ft Or: explored \f* the very bottom of the oceans?
 \q
 \v 17 Has someone shown you the gates to the place where dead people are,
 \q2 the gates to the place where it is very dark? 
@@ -81,24 +81,24 @@ ocean\add* from which the water in the seas comes?
 \q
 \v 23 I store the snow and the hail \add in order that I can use them to help my
 people\add* when they have troubles, 
-\q2 in times when they are fighting wars \f + \fk doublet \f*. 
+\q2 in times when they are fighting wars \\f + \\ft doublet \\f*. 
 \q
 \v 24 And where is the road to the place from which I cause the lightning to flash?
 \q2 Where is the place from where the east wind begins to blow over all the earth?
 \q
 \v 25 Who created the channels in which the rain comes down from the sky?
-\q2 Who makes the roads for the thunder/lightning? 
+\q2 Who makes the roads for the thunder\f + \ft Or: lightning \f*? 
 \q
 \v 26 Who causes rain to fall in the desert, 
 \q2 in places where no one lives? 
 \q
-\v 27 Who sends the rain that gives moisture/water to areas where nothing has grown,
+\v 27 Who sends the rain that gives moisture\f + \ft Or: water \f* to areas where nothing has grown,
 \q2 with the result that grass begins to grow again? 
 \q
 \v 28 Does the rain have a father? 
 \q2 Does the dew also have a father? 
 \q
-\v 29 And from whose womb does ice come \add in the ◄winter/cold
+\v 29 And from whose womb does ice come \add in the ◄winter\f + \ft Or: cold \f*
 season►\add*? 
 \q2 Who gives birth to the frost that comes down from the sky? 
 \q
@@ -106,7 +106,7 @@ season►\add*?
 \q2 and the surface of lakes becomes frozen. 
 \b
 \q
-\v 31 Job, can you fasten the chains that hold the stars together in clusters/groups in the sky?
+\v 31 Job, can you fasten the chains that hold the stars together in clusters\f + \ft Or: groups \f* in the sky?
 \q
 \v 32 Can you tell the stars and planets when they should shine?
 \q2 Can you guide the \add stars in the groups in the northern sky whose names
@@ -123,12 +123,12 @@ are\add* the Big Bear and the Little Bear?
 \q
 \v 36 Who enables the clouds to know when they should cause rain to fall?
 \q
-\v 37 And who is skilled/wise enough to be able to count the clouds?
+\v 37 And who is skilled\f + \ft Or: wise \f* enough to be able to count the clouds?
 \q2 Who can tilt the jugs of water in the sky \add to cause the rain to
 fall\add*, 
 \q
 \v 38 with the result that the dry ground becomes hard 
-\q2 as the dry ◄clods/lumps of soil► \add become wet and\add* stick together?
+\q2 as the dry ◄clods\f + \ft Or: lumps \f* of soil► \add become wet and\add* stick together?
 \b
 \q
 \v 39-40 When a lioness and her cubs crouch in their dens or hide in a thicket,
@@ -138,5 +138,5 @@ fall\add*,
 \q
 \v 41 Who provides dead animals for crows, 
 \q2 when the baby crows are calling out to me \add for food\add*,
-\q2 \add when they are so weak\add* because of their lack of food that they ◄stagger around/can hardly stand up►
+\q2 \add when they are so weak\add* because of their lack of food that they ◄stagger around\f + \ft Or: can \f* hardly stand up►
 \add in their nests\add*?” 

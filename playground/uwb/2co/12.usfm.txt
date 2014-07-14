@@ -30,7 +30,7 @@ see\add* me \add acting\add* and by what you hear me teach.
 \v 7 In order that I might not become proud because of those many wonderful things
 \add that Christ\add* revealed to me, \add God permitted\add* Satan to send a messenger
 \add to humble me\add* \f + \ft (OR, to \add make me sick\add*) \f*. \add What he did to me was painful,
-like\add* \f + \fk metaphor \f* a thorn pricking my body. 
+like\add* \\f + \\ft metaphor \\f* a thorn pricking my body. 
 \v 8 Three times I prayed to the Lord about it, begging him to take this away from me.
 \v 9 But he said to me, “\add No, I will not take this away from you.
 Instead\add*, I will kindly help you, and that will be all that you need, because it is
@@ -52,41 +52,41 @@ for myself from you.
 \p
 \v 11 It has been foolish for me \add to talk about myself like this\add*, but it is you who forced me to do it. Truly
 \add if the Lord would not help me\add*, I would be worthless, \add as my opponents say that I
-am\add*. But none of the men whom you \add wrongfully think\add* \f + \fk irony \f* are great apostles are greater in any way than I am. So
-it would have been right/proper for you to say good things about me.
+am\add*. But none of the men whom you \add wrongfully think\add* \\f + \\ft irony \\f* are great apostles are greater in any way than I am. So
+it would have been right\f + \ft Or: proper \f* for you to say good things about me.
 \v 12  \add You should have done that, because\add* when I was with you
 \add I\add* repeatedly did the things that showed you that \add I am
-truly\add* an apostle, such as performing many \f + \fk doublet \f* miracles. 
+truly\add* an apostle, such as performing many \\f + \\ft doublet \\f* miracles. 
 \v 13 And I have \add certainly treated\add* you as well as \add I
 treated\add* the other congregations \add that I helped to start. Or do you think
 that\add* by not asking you \add to pay me for my work\add*, I was not treating you as well as I treated the other
-congregations? ◄It is foolish for you to\add think that\add* \f + \fk irony \f*
+congregations? ◄It is foolish for you to\add think that\add* \\f + \\ft irony \\f*
 \add it\add* was wrong for me not \add to ask for pay from you for my work, and therefore I should
-ask\add* you to forgive me for that!/Do you \add think that it\add* was wrong for me not
+ask\add* you to forgive me for that!\f + \ft Or: Do \f* you \add think that it\add* was wrong for me not
 \add to ask for pay from you for my work, and therefore I should
-ask\add* you to forgive me for that?► \f + \fk rhetorical question \f* 
+ask\add* you to forgive me for that?► \\f + \\ft rhetorical question \\f* 
 \p
 \v 14 Now listen to me! It is time for me to come to you for a third
 \add visit. When I come\add*, I \add still\add* will not insist that you
 \add pay me for my work\add*, because I do not want \add any of\add* your
-\add money\add* \f + \fk euphemism \f*! What I want is for you \f + \fk metonymy \f* \add to love and appreciate
+\add money\add* \\f + \\ft euphemism \\f*! What I want is for you \\f + \\ft metonymy \\f* \add to love and appreciate
 me\add*. It is not \add normally the duty of\add* children to save
 \add money to provide for the needs of\add* their parents. Instead, it
-\add is the duty of\add* parents to \add provide\add* for their children \f + \fk metaphor \f*. In the same way,
+\add is the duty of\add* parents to \add provide\add* for their children \\f + \\ft metaphor \\f*. In the same way,
 \add it is not your duty to provide for me. Instead, it is my duty to provide spiritual help for you because you are my
 spiritual children\add*. 
 \v 15 So, on my part, \add as a good parent would do\add*, I will be very happy to use everything that I have, and do
 everything that I possibly can, \add in order to help you\add*. And because I love you very much, ◄I will be very disappointed
-if \add you\add* do not love me a little bit, too./will \add you\add* not love me a little bit, too?► \f + \fk rhetorical question \f*
+if \add you\add* do not love me a little bit, too.\f + \ft Or: will \f* \add you\add* not love me a little bit, too?► \\f + \\ft rhetorical question \\f*
 \p
 \v 16  \add You all\add* know that I did not depend on you \add to provide for my
-needs\add*. However, \add there are some who accuse me, saying that\add* \f + \fk irony \f* I was very clever and got money from you by
+needs\add*. However, \add there are some who accuse me, saying that\add* \\f + \\ft irony \\f* I was very clever and got money from you by
 tricking you. 
-\v 17 But did I ever do that? No! I never \f + \fk rhetorical question \f* asked any of the men whom I sent to you
+\v 17 But did I ever do that? No! I never \\f + \\ft rhetorical question \\f* asked any of the men whom I sent to you
 \add to get money\add* from you \add and bring it to me\add*! 
 \v 18 Titus went \add and visited you because\add* I urged him to do so. I also sent the other believer,
-\add whom you know\add*, to go with Titus. \add You know that\add* Titus did not \f + \fk rhetorical question \f* trick
-\add you in order to get money from you. And you certainly know that\add* he and I have always \f + \fk rhetorical question \f* acted in exactly the same
+\add whom you know\add*, to go with Titus. \add You know that\add* Titus did not \\f + \\ft rhetorical question \\f* trick
+\add you in order to get money from you. And you certainly know that\add* he and I have always \\f + \\ft rhetorical question \\f* acted in exactly the same
 \add honest\add* way \add towards you\add*. 
 \s 2 Corinthians 12:19-13:10 
 \s I am worried that when I visit you I will find that many of you are still sinning. I pray that God will help you turn from
@@ -97,7 +97,7 @@ your sinful behavior, so that I will not have to discipline you when I come.
 \add against those who accuse me, you are wrong\add*. I have been saying
 \add these things honestly, knowing\add* that God is listening \add to me. I also speak as one who has a close
 relationship\add* with Christ. Everything that I do and \add everything that I say
-is\add* to \add help you\add* whom I love ◄to grow \add spiritually/\add*to
+is\add* to \add help you\add* whom I love ◄to grow \add spiritually\f + \ft Or:  \f*\add*to
 become\add spiritually\add* mature►. 
 \v 20  \add I have written this way to you\add* because I worry that when I come
 \add to visit you\add*, I will see that \add some of\add* you are
@@ -107,10 +107,10 @@ act\add* in a \add very severe way toward you, and I am sure\add* that you do no
 \add some of you\add* may be quarreling, or that you are being jealous
 \add of each other\add*, or that you quickly \add show others that you
 are\add* very angry \add with them\add*, or that you are acting selfishly, or that
-\add some of\add* you are saying bad things about others, or that you are ◄spreading false rumors/saying false things► about
+\add some of\add* you are saying bad things about others, or that you are ◄spreading false rumors\f + \ft Or: saying \f* false things► about
 each other, or that you are acting proudly, or that you are \add doing
 things\add* in a disorderly manner. 
-\v 21  \add I\add* ◄\add feel anxious/am concerned\add*► \add about you. I worry
+\v 21  \add I\add* ◄\add feel anxious\f + \ft Or: am \f* concerned\add*► \add about you. I worry
 that\add* when I visit you again, God, the one whom I \add serve\add*, will make me feel ashamed of you
 \add when I see that\add* you \add still are not conducting your lives as believers
 should\add*. Then I will feel very sad about \add some of\add* you who were sinning previously and have not turned from your

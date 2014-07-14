@@ -31,7 +31,7 @@ Midian.
 \v 12 Yahweh \add went over\add* to Gideon and said to him, “You mighty warrior, Yahweh is helping you!”
 \p
 \v 13 Gideon replied, “Sir, if Yahweh is helping us, why have all these
-\add bad things\add* happened to us? We heard about \f + \fk rhetorical question \f* all the miracles that Yahweh performed for our ancestors. We heard
+\add bad things\add* happened to us? We heard about \\f + \\ft rhetorical question \\f* all the miracles that Yahweh performed for our ancestors. We heard
 people tell us about how he rescued them from \add being slaves in\add* Egypt. But now Yahweh has abandoned us, and we are
 ruled by the people from Midian.” 
 \p
@@ -49,7 +49,7 @@ really Yahweh.
 \v 18 But do not go away until I go and bring back an offering to you.”
 \p Yahweh answered, “Okay, I will stay here until you return.” 
 \p
-\v 19 Gideon hurried to his home. He \add killed\add* a young goat and cooked it. Then he took ◄a half a bushel/18 liters► of
+\v 19 Gideon hurried to his home. He \add killed\add* a young goat and cooked it. Then he took ◄a half a bushel\f + \ft Or: 18 \f* liters► of
 flour and baked some bread without yeast. Then he put the cooked meat in a basket, and put the broth
 \add from the meat\add* in a pot, and took it to Yahweh, who was sitting under the tree.
 \p
@@ -67,7 +67,7 @@ die\add*!”
 \v 24 Then Gideon built an altar to \add worship\add* Yahweh there. He named it 'Yahweh gives us peace.' That altar is still
 there in Ophrah \add town\add*, in the land that belongs to the descendants of Abiezer.
 \p
-\v 25 That night Yahweh said to Gideon, “Take the second-best/oldest bull from your father's herd, the bull that is seven years
+\v 25 That night Yahweh said to Gideon, “Take the second-best\f + \ft Or: oldest \f* bull from your father's herd, the bull that is seven years
 old. \add Kill it\add*. Then tear down the altar that your father built to
 \add worship\add* the god Baal. Also cut down the pole for worshipping
 \add the goddess\add* Astarte that is there beside it. 
@@ -84,7 +84,7 @@ sacrificed.
 \v 29 The people asked each other, “Who did this?” After they investigated, someone told them that it was Gideon, the son of
 Joash, \add who had done it\add*. 
 \p
-\v 30 They went to Joash and said to him, “Bring your son out here! ◄He must be executed/We must kill him►, because he
+\v 30 They went to Joash and said to him, “Bring your son out here! ◄He must be executed\f + \ft Or: We \f* must kill him►, because he
 destroyed our god Baal's altar and cut down the pole for our goddess Astarte!”
 \p
 \v 31 But Joash replied, “Are you trying to defend Baal? Are you trying to argue his case? Anyone who tries to defend Baal

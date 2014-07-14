@@ -7,7 +7,7 @@
 \q
 \v 2 If you do that, you will be able to choose wisely \add what to
 do\add*, 
-\q2 and you will know \add the right things\add* to say \f + \fk metonymy \f*. 
+\q2 and you will know \add the right things\add* to say \\f + \\ft metonymy \\f*. 
 \q
 \v 3 What an immoral woman says \add to you\add* may be as sweet as honey,
 \q2 and sound smoother than olive oil \add feels on your skin\add*,
@@ -15,7 +15,7 @@ do\add*,
 \v 4 but the result \add of being with her\add* will be bitter like gall
 \q2 and \add injure you as badly\add*, like being cut with a sharp two-edged sword.
 \q
-\v 5 If you go where she goes \f + \fk metonymy \f*, you will go down to where the dead people are.
+\v 5 If you go where she goes \\f + \\ft metonymy \\f*, you will go down to where the dead people are.
 \q2 Her steps will lead you straight to the grave. 
 \q
 \v 6 She is not concerned about the roads that lead to a \add long\add* life.
@@ -24,24 +24,24 @@ do\add*,
 \b
 \q
 \v 7 So now, my sons, listen to me. 
-\q ◄Never turn aside from/always remember► \f + \fk litotes \f* what I am about to tell you.
+\q ◄Never turn aside from\f + \ft Or: always \f* remember► \\f + \\ft litotes \\f* what I am about to tell you.
 \q
 \v 8 Run away from immoral women! 
 \q2 Do not go near the doors of their houses! 
 \q
-\v 9 If you enter the home of one of them, you will lose your ◄self-respect/good reputation►
+\v 9 If you enter the home of one of them, you will lose your ◄self-respect\f + \ft Or: good \f* reputation►
 \q2 and \add that woman's husband\add* will not act mercifully toward you;
 \q he will \add kill you and\add* take everything that you have acquired during your life!
 \q
 \v 10 Foreigners will take your money, 
-\q2 and all the good things that you have worked for will ◄end up in their hands/become their possessions►.
+\q2 and all the good things that you have worked for will ◄end up in their hands\f + \ft Or: become \f* their possessions►.
 \q
 \v 11 And when you about to die, 
 \q you will groan with severe pain 
 \q2 because diseases \add that you have gotten from being immoral\add* are destroying your body.
 \q
 \v 12 Then you will say, “I hated it \add when people tried to\add* correct me.
-\q2 I despised people when they reproved/rebuked me. 
+\q2 I despised people when they reproved\f + \ft Or: rebuked \f* me. 
 \q
 \v 13 I did not heed what my teachers said! 
 \q2 I paid no attention to those who tried to teach me \add something about my
@@ -51,8 +51,8 @@ behavior\add*.
 \q2 and I will be disgraced in public gatherings.” 
 \b
 \q
-\v 15 Like a man is refreshed by drinking water from his own well \f + \fk metaphor \f*,
-\q2 enjoy \add having sex\add* \f + \fk euphemism \f* only with your own wife. 
+\v 15 Like a man is refreshed by drinking water from his own well \\f + \\ft metaphor \\f*,
+\q2 enjoy \add having sex\add* \\f + \\ft euphemism \\f* only with your own wife. 
 \q
 \v 16 Like you would not waste good water by pouring it into the street,
 \q2 \add you should not have sex with other women\add*. [MET, EUP]
@@ -61,13 +61,13 @@ behavior\add*.
 \q2 do not \add have sex with\add* other women. 
 \q
 \v 18 Let your wife be a source of great pleasure to you. 
-\q ◄Be happy/\add Enjoy sex\add*► with the woman whom you married when you were both young.
+\q ◄Be happy\f + \ft Or:  \f*\add Enjoy sex\add*► with the woman whom you married when you were both young.
 \q
 \v 19 She is as pretty and graceful as a young female deer. 
 \q2 Allow her breasts to always satisfy you. 
 \q2 Allow her lovemaking to excite you. 
 \q
-\v 20 My son, do not be \f + \fk rhetorical question \f* captivated/charmed by an immoral woman!
+\v 20 My son, do not be \\f + \\ft rhetorical question \\f* captivated\f + \ft Or: charmed \f* by an immoral woman!
 \q2 Do not fondle the breasts of another man's wife! 
 \b
 \q
@@ -78,4 +78,4 @@ behavior\add*.
 \q2 their sins are like ropes that bind them. 
 \q
 \v 23 Evil men will die because they are unable to say “No” to their desires;
-\q2 they will ◄go astray/be lost► because of the foolish things that they do.
+\q2 they will ◄go astray\f + \ft Or: be \f* lost► because of the foolish things that they do.

@@ -1,11 +1,11 @@
 \c 19  
 \s Other laws 
 \p
-\v 1 Yahweh also said to Moses/me, 
+\v 1 Yahweh also said to Moses\f + \ft Or: me \f*, 
 \v 2 “Speak to all the people of Israel and tell them this: ‘You must be holy, because I, Yahweh your God, am holy,
 \add and I want you to be like me\add*. 
 \p
-\v 3 Each of you must respect your father and your mother. And you must ◄honor/treat respectfully► the Sabbath days. I am
+\v 3 Each of you must respect your father and your mother. And you must ◄honor\f + \ft Or: treat \f* respectfully► the Sabbath days. I am
 Yahweh, your God, \add and that Is what I am commanding you to do\add*.
 \p
 \v 4 Do not worship idols or make metal statues of gods for yourselves. I am Yahweh your God,
@@ -13,7 +13,7 @@ Yahweh, your God, \add and that Is what I am commanding you to do\add*.
 \p
 \v 5 When you bring an offering to maintain fellowship with me, offer it in a way that will cause me to accept it.
 \v 6 The meat should be eaten on the day that you sacrifice it, but you are permitted to eat some of it on the next day.
-Anything that remains until the third/next day must be completely burned.
+Anything that remains until the third\f + \ft Or: next \f* day must be completely burned.
 \v 7 For any of it to be eaten on the third day is very displeasing to me, and I will not accept that offering.
 \v 8 I will punish anyone who eats it \add after the second day\add*, because he will have not respected what I say is holy.
 And that person must no longer be allowed to associate with my people.
@@ -28,7 +28,7 @@ your God, \add am commanding those things\add*.
 \p Do not tell lies. 
 \p Do not deceive each other. 
 \p
-\v 12 Do not show that you do not respect me by using/saying my name to falsely promise that you will do something.
+\v 12 Do not show that you do not respect me by using\f + \ft Or: saying \f* my name to falsely promise that you will do something.
 \add Do not forget that\add* I am Yahweh, your God. 
 \p
 \v 13 Do not cheat anyone or steal from anyone. 
@@ -37,7 +37,7 @@ your God, \add am commanding those things\add*.
 \p
 \v 14 Do not curse deaf people, and do not put things in the path of blind people to cause them to stumble.
 \p
-\v 15 Always \f + \fk litotes \f* judge people fairly \f + \fk doublet \f*. Do not do special favors for either poor people or rich people.
+\v 15 Always \\f + \\ft litotes \\f* judge people fairly \\f + \\ft doublet \\f*. Do not do special favors for either poor people or rich people.
 \p
 \v 16 Do not spread false rumors about other people. 
 \p Do not say anything \add in court\add* that would result in some
@@ -63,10 +63,10 @@ order that he no longer be guilty for his sin.
 forgive him. 
 \p
 \v 23 When you enter the land \add that I have promised to give to
-you\add*, and when you plant various kinds of fruit trees, you must not eat any of their fruit for three years \f + \fk doublet \f*.
+you\add*, and when you plant various kinds of fruit trees, you must not eat any of their fruit for three years \\f + \\ft doublet \\f*.
 \v 24 In the fourth year all of their fruit must be set aside to belong to me; it must be brought to me to be an offering to
 praise me. 
-\v 25 But in the fifth/next year, you will be permitted to eat their fruit. If you do that, your trees will produce much fruit.
+\v 25 But in the fifth\f + \ft Or: next \f* year, you will be permitted to eat their fruit. If you do that, your trees will produce much fruit.
 I, Yahweh your God, \add am promising that\add*. 
 \p
 \v 26 Do not eat any meat that still has \add the animal's\add* blood in it.
@@ -84,7 +84,7 @@ land will be filled with prostitutes and all other kinds of people's wicked beha
 \v 30 Honor my Sabbath days and revere my Sacred Temple, because I, Yahweh,
 \add live there\add*. 
 \p
-\v 31 Do not seek advice from those who ◄consult/talk with► the spirits of dead people \f + \fk doublet \f*, because if you do that, they will
+\v 31 Do not seek advice from those who ◄consult\f + \ft Or: talk \f* with► the spirits of dead people \\f + \\ft doublet \\f*, because if you do that, they will
 defile you. I, Yahweh your God, \add am the one you should consult\add*.
 \p
 \v 32 Stand up when old people \add enter the room\add*, and show that you respect them, and also revere me, your God; that is
@@ -100,5 +100,5 @@ Egypt\add*. I, Yahweh your God, \add am commanding you to do this\add*.
 \add on the scales\add* and measuring baskets and other measuring containers. I am Yahweh, your God, who brought you out of
 Egypt, \add am giving you these laws.\add* 
 \p
-\v 37 Obey carefully \f + \fk doublet \f* all my laws and decrees, because I, Yahweh,
+\v 37 Obey carefully \\f + \\ft doublet \\f* all my laws and decrees, because I, Yahweh,
 \add am the one who am commanding them\add*.’ ” 

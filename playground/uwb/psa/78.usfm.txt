@@ -6,17 +6,17 @@
 \q
 \v 2 I am going to give you some sayings that wise people have said.
 \q2 They will be sayings about things that happened long ago, 
-\q2 things that were difficult to understand \f + \fk metaphor \f*, 
+\q2 things that were difficult to understand \\f + \\ft metaphor \\f*, 
 \q
 \v 3 things that we have heard and known previously, 
 \q2 things that our parents and grandparents told us. 
 \q
-\v 4 We will tell these things to our children \f + \fk litotes \f*, 
+\v 4 We will tell these things to our children \\f + \\ft litotes \\f*, 
 \q but we will also tell to our grandchildren 
-\q2 about Yahweh's power and the glorious/great things that he has done.
+\q2 about Yahweh's power and the glorious\f + \ft Or: great \f* things that he has done.
 \q
 \v 5 He gave laws and commandments to the Israeli people, 
-\q \add those who are the descendants of\add* Jacob \f + \fk doublet \f*, 
+\q \add those who are the descendants of\add* Jacob \\f + \\ft doublet \\f*, 
 \q and he told our ancestors to teach them to their children 
 \q
 \v 6 in order that their children would also know them 
@@ -57,7 +57,7 @@ arrows\add*
 \q and gave to our ancestors plenty of water from deep inside the earth.
 \q
 \v 16 He caused a stream of water to flow from the rock; 
-\q2 the water flowed like a river \f + \fk doublet \f*. 
+\q2 the water flowed like a river \\f + \\ft doublet \\f*. 
 \b
 \q
 \v 17 But \add our ancestors\add* continued to sin against God; 
@@ -69,9 +69,9 @@ arrows\add*
 \v 19 They insulted God by saying, “Can God supply food for us \add here\add* in this desert?
 \q
 \v 20  \add It is true that\add* he struck the rock, 
-\q2 with the result that water gushed/flowed out, 
-\q but ◄can he also provide bread and meat for us, his people?/we doubt that he can also provide bread and meat for us, his
-people.►” \f + \fk rhetorical question \f* 
+\q2 with the result that water gushed\f + \ft Or: flowed \f* out, 
+\q but ◄can he also provide bread and meat for us, his people?\f + \ft Or: we \f* doubt that he can also provide bread and meat for us, his
+people.►” \\f + \\ft rhetorical question \\f* 
 \q
 \v 21 So, when Yahweh heard that, he became very angry, 
 \q2 and he sent a fire to burn up \add some of\add* his Israeli people. [MTY, DOU]
@@ -84,7 +84,7 @@ people.►” \f + \fk rhetorical question \f*
 \q
 \v 24 and then \add food\add* fell down like rain, 
 \q3 \add food which they named\add* 'manna'; 
-\q2 God gave them grain from ◄heaven/the sky►. 
+\q2 God gave them grain from ◄heaven\f + \ft Or: the \f* sky►. 
 \q
 \v 25 So the people ate the food that angels eat, 
 \q2 and God gave to them all the manna that they wanted. 
@@ -95,7 +95,7 @@ people.►” \f + \fk rhetorical question \f*
 \v 27 and the wind brought birds 
 \q2 which were as numerous as the grains of sand on the seashore.
 \q
-\v 28 God caused those birds to fall in the middle of ◄their camp/the area where they had put up their tents►,
+\v 28 God caused those birds to fall in the middle of ◄their camp\f + \ft Or: the \f* area where they had put up their tents►,
 \add and the birds died\add* \f + \ft (OR, \add and the people grabbed them and killed
 them\add*). 
 \q2 \add There were birds\add* all around their tents. 
@@ -123,24 +123,24 @@ them\add*).
 \q they repented and earnestly asked God \add to save them\add*.
 \q
 \v 35 They remembered that God is like a huge rock \add under which they would be
-safe\add* \f + \fk metaphor \f*, 
-\q and that he, who was greater than any other god, is the one who protected/rescued them.
+safe\add* \\f + \\ft metaphor \\f*, 
+\q and that he, who was greater than any other god, is the one who protected\f + \ft Or: rescued \f* them.
 \q
-\v 36 But they \add tried to\add* deceive God by what they said \f + \fk metonymy \f*;
-\q2 their words \f + \fk metonymy \f* were all lies. 
+\v 36 But they \add tried to\add* deceive God by what they said \\f + \\ft metonymy \\f*;
+\q2 their words \\f + \\ft metonymy \\f* were all lies. 
 \q
 \v 37 They were not loyal to him; 
-\q2 they disregarded/ignored the agreement that he had made with them.
+\q2 they disregarded\f + \ft Or: ignored \f* the agreement that he had made with them.
 \q
 \v 38 But God acted mercifully toward his people. 
 \q He forgave them for having sinned 
 \q2 and did not get rid of them. 
 \q Many times he refrained from becoming angry \add with them\add*
-\q and restrained himself from furiously/severely \add punishing
-them\add* \f + \fk metonymy \f*. 
+\q and restrained himself from furiously\f + \ft Or: severely \f* \add punishing
+them\add* \\f + \\ft metonymy \\f*. 
 \q
-\v 39 He remembered/considered that they were only humans who die;
-\q2 they \add disappear quickly\add* \f + \fk simile \f*, like a wind that blows by and then is gone.
+\v 39 He remembered\f + \ft Or: considered \f* that they were only humans who die;
+\q2 they \add disappear quickly\add* \\f + \\ft simile \\f*, like a wind that blows by and then is gone.
 \b
 \q
 \v 40 Many times our ancestors rebelled against God in the desert
@@ -148,10 +148,10 @@ them\add* \f + \fk metonymy \f*.
 \q
 \v 41 Many times they did evil things, to find out \add if they could do those things without God punishing
 them\add*. 
-\q2 They frequently caused the holy God of Israel to become disgusted/sad.
+\q2 They frequently caused the holy God of Israel to become disgusted\f + \ft Or: sad \f*.
 \q
 \v 42 They forgot about his great power, 
-\q2 and they ◄forgot/did not think► about the time when he rescued them from their enemies.
+\q2 and they ◄forgot\f + \ft Or: did \f* not think► about the time when he rescued them from their enemies.
 \q
 \v 43 They forgot about when he performed many miracles 
 \q2 in the area near Zoan \add city\add* in Egypt. 
@@ -178,13 +178,13 @@ them\add*.
 \add everything\add*. 
 \q
 \v 50 He did not lessen his being angry with them, 
-\q2 and he did not ◄spare their lives/prevent them from dying►; 
-\q he sent a ◄plague/serious illness► that killed \add many of\add* them.
+\q2 and he did not ◄spare their lives\f + \ft Or: prevent \f* them from dying►; 
+\q he sent a ◄plague\f + \ft Or: serious \f* illness► that killed \add many of\add* them.
 \q
 \v 51 In that plague he caused all the firstborn sons of the people of Egypt to die.
 \q
 \v 52 Then he led his people out \add of Egypt\add* like \add a shepherd
-leads\add* his sheep \f + \fk simile \f*, 
+leads\add* his sheep \\f + \\ft simile \\f*, 
 \q2 and he guided them \add while they walked\add* through the desert.
 \q
 \v 53 He led them safely, and they were not afraid, 
@@ -192,7 +192,7 @@ leads\add* his sheep \f + \fk simile \f*,
 \q
 \v 54 Later he brought them to \add Canaan\add*, his sacred land,
 \q2 to \add Zion\add* Hill (OR, the hilly area) 
-\q2 and by his power \f + \fk metonymy \f* he enabled them to conquer \add the people who were living
+\q2 and by his power \\f + \\ft metonymy \\f* he enabled them to conquer \add the people who were living
 there\add*. 
 \q
 \v 55 He expelled the people-groups while his people were advancing;
@@ -204,13 +204,13 @@ there\add*.
 \q2 and they did many evil things to see if they could do those things without God punishing them,
 \q2 and they did not obey his commandments. 
 \q
-\v 57 Instead, like their ancestors did, they rebelled against God and ◄were not loyal to/did not faithfully
+\v 57 Instead, like their ancestors did, they rebelled against God and ◄were not loyal to\f + \ft Or: did \f* not faithfully
 \add obey\add*► him; 
 \q2 they were as \add unreliable as\add* a crooked bow \add that does not shoot arrows
-straight\add* \f + \fk simile \f*. 
+straight\add* \\f + \\ft simile \\f*. 
 \q
 \v 58 Because they \add worshiped\add* carved images of their gods on the tops of hills,
-\q they caused God to become angry \f + \fk doublet \f*. 
+\q they caused God to become angry \\f + \\ft doublet \\f*. 
 \q
 \v 59 He saw what they were doing and became very angry, 
 \q2 so he rejected the Israeli people. 
@@ -222,21 +222,21 @@ straight\add* \f + \fk simile \f*.
 \q2 \add which was the symbol of\add* his power and his glory. 
 \q
 \v 62 Because he was angry with his people, 
-\q2 he allowed them to be killed \f + \fk metonymy \f* \add by their enemies\add*.
+\q2 he allowed them to be killed \\f + \\ft metonymy \\f* \add by their enemies\add*.
 \q
 \v 63 Young men were killed in battles, 
 \q2 with the result that the young women had no one to marry. 
 \q
 \v 64 Many priests were killed by \add their enemies'\add* swords,
-\q2 and ◄the people did not allow the priests' widows/the priests' widows were not allowed► to mourn.
+\q2 and ◄the people did not allow the priests' widows\f + \ft Or: the \f* priests' widows were not allowed► to mourn.
 \b
 \q
 \v 65 Later, \add it was as though\add* the Lord awoke from sleeping;
-\q he was like a strong man who ◄became stimulated/felt that he was strong► by (OR, became sober after) \f*
-\add drinking\add* a lot of wine \f + \fk simile \f*. 
+\q he was like a strong man who ◄became stimulated\f + \ft Or: felt \f* that he was strong► by (OR, became sober after) \f*
+\add drinking\add* a lot of wine \\f + \\ft simile \\f*. 
 \q
 \v 66 He pushed their enemies back 
-\q and caused them to be very ashamed for a long time \f + \fk hyperbole \f* 
+\q and caused them to be very ashamed for a long time \\f + \\ft hyperbole \\f* 
 \q2 \add because they had been defeated\add*. 
 \q
 \v 67 But he did not set up his tent where the people of the tribe of Ephraim lived;
@@ -254,8 +254,8 @@ straight\add* \f + \fk simile \f*.
 \q2 and took him from the pastures 
 \q2
 \v 71 where he was taking care of his \add father's\add* sheep, 
-\q and appointed him to be the leader \f + \fk metaphor \f* of the Israeli people,
+\q and appointed him to be the leader \\f + \\ft metaphor \\f* of the Israeli people,
 \q2 the people who belonged to God. 
 \q
 \v 72 David took care of the Israeli people sincerely and wholeheartedly,
-\q2 and guided them skillfully/wisely. 
+\q2 and guided them skillfully\f + \ft Or: wisely \f*. 

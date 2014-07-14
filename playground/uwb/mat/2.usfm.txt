@@ -3,7 +3,7 @@
 \s After some astrologers saw an unusual star, they traveled westwards to find the place where the infant Jesus was. King Herod
 helped direct them, but then an angel told them not to go back to King Herod.
 \p
-\v 1 Jesus was born in Bethlehem \add town\add* in Judea \add province\add* during the time \f + \fk metonymy \f* that King Herod
+\v 1 Jesus was born in Bethlehem \add town\add* in Judea \add province\add* during the time \\f + \\ft metonymy \\f* that King Herod
 \add the Great ruled there. Some time\add* after Jesus was born, some men who studied the stars and who lived in a
 \add country\add* east \add of Judea\add* came to Jerusalem \add city\add*.
 \v 2 They asked \add people\add*, “Where is the one who has been born
@@ -24,8 +24,8 @@ that\add* the Messiah was to be born.
 here\add* in Judea \add province\add*, because it was written by the prophet
 \add Micah\add* {the prophet \add Micah\add* wrote} \add long ago what God
 said\add*: 
-\v 6 ‘You \add who live in\add* Bethlehem \add town\add* \f + \fk apostrophe \f*, in Judea
-\add province\add*, your town is certainly very important \f + \fk litotes \f*, because a man from your
+\v 6 ‘You \add who live in\add* Bethlehem \add town\add* \\f + \\ft apostrophe \\f*, in Judea
+\add province\add*, your town is certainly very important \\f + \\ft litotes \\f*, because a man from your
 \add town\add* will become a ruler. He will guide my people \add who live
 in\add* Israel.’” 
 \p
@@ -43,7 +43,7 @@ above\add the house\add* where the child was.
 \v 10 When they saw the star, they rejoiced greatly \add and followed
 it\add*. 
 \v 11 They \add found\add* the house and entered it and saw the child and his mother, Mary. They bowed down and worshipped him.
-Then they opened their treasure \add boxes\add* \f + \fk metonymy \f* and they gave gold,
+Then they opened their treasure \add boxes\add* \\f + \\ft metonymy \\f* and they gave gold,
 \add costly\add* frankincense, and myrrh to him. 
 \v 12  \add Because\add* God \add knew that King Herod planned to kill
 Jesus\add*, in a dream the men who studied the stars were warned {he warned the men who studied the stars} that they should not
@@ -73,14 +73,14 @@ soldiers killed the infant boys\add*, they fulfilled what Jeremiah the prophet w
 \q
 \v 18  \add Women\add* in Ramah were weeping and wailing loudly.
 \add Women who were the descendants\add* of Rachel, \add the ancestor of the women
-there\add* \f + \fk synecdoche \f*, were grieving for \add what happened to\add* their children.
+there\add* \\f + \\ft synecdoche \\f*, were grieving for \add what happened to\add* their children.
 \add Even though people tried to comfort them\add*, they would not be comforted {stop mourning} because their children were
-dead \f + \fk euphemism \f*. 
+dead \\f + \\ft euphemism \\f*. 
 \p
 \v 19 After Herod died \add and while Joseph and his family were still in
 Egypt\add*, an angel that the Lord \add had sent\add* appeared to Joseph in Egypt in a dream.
 \v 20 He said to Joseph, “Take the child and his mother and go back to
-\add the country of\add* Israel \add to live\add*, because the people who were looking for the child \f + \fk euphemism \f*
+\add the country of\add* Israel \add to live\add*, because the people who were looking for the child \\f + \\ft euphemism \\f*
 \add in order to kill him\add* have died.” 
 \v 21 So Joseph took the child and his mother, and they went back to Israel.
 \s Matthew 2:22-23 

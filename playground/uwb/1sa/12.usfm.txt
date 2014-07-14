@@ -2,12 +2,12 @@
 \s Samuel's final speech 
 \p
 \v 1 Then Samuel said this to all the Israeli people: “I have done everything that you told me to do, and I have
-given/appointed a king to rule you. 
+given\f + \ft Or: appointed \f* a king to rule you. 
 \v 2 My own sons \add are grown up and\add* with you now, but I have appointed Saul
 \add instead of one of them\add*, and he is now your leader. I am now old, and
 \add my hair\add* is gray. I have been your leader ever since I was a boy.
 \v 3 Now tell me, while Yahweh is listening, and while the king whom he has chosen is listening, whose ox or donkey have I
-stolen \add during all those years\add*? Whom have I cheated? Whom have I oppressed/treated badly? From whom have I accepted a
+stolen \add during all those years\add*? Whom have I cheated? Whom have I oppressed\f + \ft Or: treated \f* badly? From whom have I accepted a
 bribe, in order that I would ignore \add the evil things he had done\add*? If I have done any of these things, tell me, and I
 will pay back what I owe.” 
 \p
@@ -41,12 +41,12 @@ your king!
 \v 13 So now, look, here is the king whom you have chosen. You asked for a king, and Yahweh has now appointed a king for you.
 \v 14 If you will revere Yahweh and if you serve him, and if you listen to what he says and obey what he commands, and if you
 and the king who rules over you do what Yahweh your God wants you to do,
-\add ◄things will go well for you all/Yahweh will bless you►\add*.
+\add ◄things will go well for you all\f + \ft Or: Yahweh \f* will bless you►\add*.
 \v 15 But if you do not listen to what Yahweh says, if you disobey what he commands, then he will punish [MY] you, just as he
 punished our ancestors. 
 \p
 \v 16 Now stand here quietly and see the great thing that Yahweh is about to do.
-\v 17 You know that \f + \fk rhetorical question \f* it does not rain at this time of the year, during the time when you harvest wheat. But I will ask
+\v 17 You know that \\f + \\ft rhetorical question \\f* it does not rain at this time of the year, during the time when you harvest wheat. But I will ask
 Yahweh to send thunder \add and lightning\add* and rain today. When he does that, you will realize that Yahweh considers that
 you have done a very wicked thing by requesting a king.” 
 \p

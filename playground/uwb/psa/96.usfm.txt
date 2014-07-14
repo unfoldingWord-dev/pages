@@ -3,10 +3,10 @@
 \v 1 Sing to Yahweh a new song! 
 \q You people throughout the earth, sing to Yahweh! 
 \q
-\v 2 Sing to Yahweh and praise him \f + \fk metonymy \f*! 
-\q2 Every day proclaim \add to others\add* that he has saved/rescued us.
+\v 2 Sing to Yahweh and praise him \\f + \\ft metonymy \\f*! 
+\q2 Every day proclaim \add to others\add* that he has saved\f + \ft Or: rescued \f* us.
 \q
-\v 3 Tell about his glory/greatness to all people-groups; 
+\v 3 Tell about his glory\f + \ft Or: greatness \f* to all people-groups; 
 \q2 tell all people-groups the marvelous \add things that he has
 done\add*. 
 \b
@@ -23,21 +23,21 @@ done\add*.
 \b
 \q
 \v 7 You people in nations all over the earth, praise Yahweh! 
-\q Praise Yahweh for his glorious power \f + \fk hendiadys \f*! 
+\q Praise Yahweh for his glorious power \\f + \\ft hendiadys \\f*! 
 \q
 \v 8 Praise Yahweh like he deserves to be praised, 
 \q2 Bring an offering and come to his temple. 
 \q2
-\v 9 Bow down before Yahweh \add when he appears\add* in his holy/sacred temple;
+\v 9 Bow down before Yahweh \add when he appears\add* in his holy\f + \ft Or: sacred \f* temple;
 \q2 everyone on the earth should, tremble in front of him, 
 \q2 because he is majestic and holy. 
 \b
 \q
 \v 10 Say to all the people-groups, “Yahweh is the king! 
-\q2 He put the world in its place, and nothing will ever be able to move/shake it.
+\q2 He put the world in its place, and nothing will ever be able to move\f + \ft Or: shake \f* it.
 \q He will judge all the people-groups fairly.” 
 \q
-\v 11  \add All the beings that are in\add* \f + \fk metonymy \f* the heavens should be glad, and all
+\v 11  \add All the beings that are in\add* \\f + \\ft metonymy \\f* the heavens should be glad, and all
 \add the people on the\add* earth should rejoice. 
 \q2 The oceans and all the creatures that are in the oceans should roar
 \add to praise Yahweh\add*. 
@@ -46,6 +46,6 @@ done\add*.
 \q When they do that, \add it will be as though\add* all the trees in the forests will sing joyfully
 \q2
 \v 13 in front of Yahweh. 
-\q That will happen when he comes to judge \add everyone on\add* \f + \fk metonymy \f* the earth.
-\q2 He will judge all the people fairly/justly, according to \add what he knows
+\q That will happen when he comes to judge \add everyone on\add* \\f + \\ft metonymy \\f* the earth.
+\q2 He will judge all the people fairly\f + \ft Or: justly \f*, according to \add what he knows
 is\add* true. 

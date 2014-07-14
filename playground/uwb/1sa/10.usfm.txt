@@ -3,7 +3,7 @@
 \p
 \v 1 Then Samuel took a small jar of olive oil and poured \add some
 of\add* it on Saul's head. Then he kissed Saul \add on the cheek\add*, and told him, “I am doing this because Yahweh has chosen
-you to be the leader of his Israeli people \f + \fk rhetorical question \f*. 
+you to be the leader of his Israeli people \\f + \\ft rhetorical question \\f*. 
 \v 2 When you leave me today, when you arrive near Rachel's tomb at Zelzah, in the area where the descendants of Benjamin live,
 you will meet two men. They will say to you, ‘The donkeys have been found, but now your father is worrying about you, and he is
 asking people, “Have you seen my son?” ’ 
@@ -19,8 +19,8 @@ coming down from the altar on top of the hill. There will be people in front of 
 \add various musical instruments:\add* a harp, a tambourine, a flute, and a lyre. And all of them will be speaking ecstatic
 messages. 
 \v 6 At that time the Spirit of Yahweh will come upon you, and you also will speak messages that come from God. ◄You will be
-changed/The Spirit of Yahweh will change you►, so that you will become like a different person.
-\v 7 After those things occur, do whatever you think is right to do, and God will ◄be with/help► you.
+changed\f + \ft Or: The \f* Spirit of Yahweh will change you►, so that you will become like a different person.
+\v 7 After those things occur, do whatever you think is right to do, and God will ◄be with\f + \ft Or: help \f*► you.
 \p
 \v 8 Then go ahead of me, down to Gilgal \add city\add*, and wait for me there, for seven days. Then I will join you there, to
 burn sacrifices and offer other sacrifices to enable you to continue to have fellowship with God. When I arrive there, I will
@@ -34,10 +34,10 @@ that day.
 were\add* approaching Saul and his servant, God's Spirit came upon Saul powerfully, and he also began to speak messages from
 God. 
 \v 11 When people who had known Saul previously heard him speaking messages from God as the prophets were doing, they said to
-each other, “What has happened to this son of Kish? Is he now really one of the ◄prophets/men who speak messages from God►?”
+each other, “What has happened to this son of Kish? Is he now really one of the ◄prophets\f + \ft Or: men \f* who speak messages from God►?”
 \p
-\v 12 One of the men who lived there replied, “◄It does not matter who the parents of these other prophets are./All prophets
-receive their power to speak messages from God, not from their parents.► \f + \fk rhetorical question \f*
+\v 12 One of the men who lived there replied, “◄It does not matter who the parents of these other prophets are.\f + \ft Or: All \f* prophets
+receive their power to speak messages from God, not from their parents.► \\f + \\ft rhetorical question \\f*
 \add What matters is that, amazingly, Saul is speaking messages from
 God\add*.” And that is why, \add when people are very skeptical about some report, they think about what happened to Saul,
 and\add* said, “Is Saul really one of the prophets?” 
@@ -49,17 +49,17 @@ donkeys. When we could not find them, we came here to ask Samuel
 \p
 \v 15 Saul's uncle replied, “What did Samuel tell you?” 
 \p
-\v 16 Saul replied, “He assured us that ◄someone had found the donkeys/the donkeys had been found►.” But he did not tell his
+\v 16 Saul replied, “He assured us that ◄someone had found the donkeys\f + \ft Or: the \f* donkeys had been found►.” But he did not tell his
 uncle what Samuel had said about him becoming the king \add of Israel\add*.
 \p
 \v 17  \add Later\add* Samuel summoned the people of Israel to gather at Mizpah to
 \add hear a message from\add* Yahweh. 
 \v 18 After they arrived, he said to them, “This is what Yahweh, the God we Israeli people
 \add worship\add*, says: ‘I brought you Israeli people out of Egypt. I rescued your
-\add ancestors\add* from the power \f + \fk metonymy \f* of the rulers of Egypt and from all the other kings who oppressed them.
-\v 19 I am the one who saves you from all your troubles and difficulties \f + \fk doublet \f*. But today you have rejected me, your God, and
+\add ancestors\add* from the power \\f + \\ft metonymy \\f* of the rulers of Egypt and from all the other kings who oppressed them.
+\v 19 I am the one who saves you from all your troubles and difficulties \\f + \\ft doublet \\f*. But today you have rejected me, your God, and
 you have said “We don't care! Give us a king!” So \add I will do what you
-want\add*. Now have \add representatives of\add* your tribes and of your clans stand here ◄in the presence of Yahweh/as Yahweh
+want\add*. Now have \add representatives of\add* your tribes and of your clans stand here ◄in the presence of Yahweh\f + \ft Or: as \f* Yahweh
 is listening►.’ ” 
 \p
 \v 20 When those representatives came near to Samuel, \add God indicated
@@ -70,18 +70,18 @@ that\add* he had chosen someone from the tribe descended from Benjamin.
 \v 22 So they asked Yahweh, “Where is Saul?” Yahweh replied, “He is hiding among the army equipment.”
 \p
 \v 23 So they quickly went there \add and found him\add*, and brought him
-\add in front of all the people\add*. They could see that \add truly\add* he was a head/foot taller than anyone else.
-\v 24 Then Samuel said to all the people there, “This is \f + \fk rhetorical question \f* the man whom Yahweh has chosen to be your king. Among all us
-Israeli people, there is no one like him!” Then all the people shouted, “We hope/desire that this king will live a long time!”
+\add in front of all the people\add*. They could see that \add truly\add* he was a head\f + \ft Or: foot \f* taller than anyone else.
+\v 24 Then Samuel said to all the people there, “This is \\f + \\ft rhetorical question \\f* the man whom Yahweh has chosen to be your king. Among all us
+Israeli people, there is no one like him!” Then all the people shouted, “We hope\f + \ft Or: desire \f* that this king will live a long time!”
 \p
 \v 25 Then Samuel told the people what things that the king would force them to do, and all the things the king was required to
 do. He wrote all those things on a scroll, and then he put it in a place where Yahweh could see it. Then Samuel sent all the
 people home. 
 \p
 \v 26 When Saul returned to his home in Gibeah \add town\add*, a group of men decided to continually accompany Saul. They did
-that because God ◄motivated them/put it in their minds► to do that.
+that because God ◄motivated them\f + \ft Or: put \f* it in their minds► to do that.
 \v 27 But some worthless men said, “◄How can this man save us \add from our
-enemies\add*?/This man will not be able to save us \add from our
-enemies\add*.►” \f + \fk rhetorical question \f* They despised him, and refused to give him any gifts
+enemies\add*?\f + \ft Or: This \f* man will not be able to save us \add from our
+enemies\add*.►” \\f + \\ft rhetorical question \\f* They despised him, and refused to give him any gifts
 \add to show that they would be loyal to him\add*. But Saul did not say anything
 \add to rebuke them\add*. 

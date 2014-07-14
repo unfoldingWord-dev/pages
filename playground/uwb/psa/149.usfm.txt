@@ -11,7 +11,7 @@
 \q2 You people of Jerusalem, rejoice because of what \add God\add* your king
 \add has done for you\add*! 
 \q
-\v 3 Praise Yahweh by dancing, by beating/playing tambourines 
+\v 3 Praise Yahweh by dancing, by beating\f + \ft Or: playing \f* tambourines 
 \q2 and by playing harps to praise him! 
 \q
 \v 4 Yahweh is pleased with his people; 
@@ -22,7 +22,7 @@ enemies\add*.
 \q2 and sing joyfully all during the night! 
 \b
 \q
-\v 6 They \f + \fk metonymy \f* should shout loudly to praise God; 
+\v 6 They \\f + \\ft metonymy \\f* should shout loudly to praise God; 
 \q2 but they should also hold sharp swords in their hands, 
 \q
 \v 7 ready to use them to defeat the \add soldiers of\add* nations
@@ -31,7 +31,7 @@ enemies\add*.
 \q
 \v 8 and to fasten their kings and other leaders with iron chains,
 \q
-\v 9 to judge \add and punish\add* the people of those nations, like God wrote/declared should be done.
-\q2 It is ◄a privilege/an honor► for God's faithful people to do that!
+\v 9 to judge \add and punish\add* the people of those nations, like God wrote\f + \ft Or: declared \f* should be done.
+\q2 It is ◄a privilege\f + \ft Or: an \f* honor► for God's faithful people to do that!
 \b
 \q Praise Yahweh! 

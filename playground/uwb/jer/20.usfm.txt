@@ -2,7 +2,7 @@
 \s Pashhur arrested Jeremiah 
 \p
 \v 1 Pashhur, the son of Immer, was a priest who supervised the temple guards. He heard these things that I had prophesied.
-\v 2 So \add he arrested me\add*. Then he \add commanded guards to\add* whip me and fasten my feet in ◄stocks/a wooden frame►
+\v 2 So \add he arrested me\add*. Then he \add commanded guards to\add* whip me and fasten my feet in ◄stocks\f + \ft Or: a \f* wooden frame►
 at the Benjamin Gate of Yahweh's temple. 
 \v 3 The next day, when Pashhur released me, I said to him, “Pashhur, Yahweh is giving you a new name. From now on, your name
 will be 'Surrounded by Terror,' 
@@ -18,7 +18,7 @@ have prophesied things that are lies will die there and be buried there.’ ”
 \v 7  \add One day I said this to Yahweh\add*: 
 \q “Yahweh, \add when you chose me to be a prophet\add*, you deceived me, and I allowed you to deceive me.
 \q2 You insisted that I \add become a prophet\add* because you are stronger than I am.
-\q And now everyone \f + \fk hyperbole \f* ridicules me. 
+\q And now everyone \\f + \\ft hyperbole \\f* ridicules me. 
 \q2 They make fun of me all the day. 
 \q
 \v 8 When I tell \add people your messages\add*, I shout saying,
@@ -26,8 +26,8 @@ have prophesied things that are lies will die there and be buried there.’ ”
 \q So because I tell them those messages from you, 
 \q2 they insult me and scoff at me all the day. 
 \q
-\v 9 But if I would say, ‘I will never mention Yahweh or say anything about him, \f + \fk metonymy \f*’
-\q2 \add it would be as though\add* your message would burn in my inner being like \f + \fk simile \f* a fire;
+\v 9 But if I would say, ‘I will never mention Yahweh or say anything about him, \\f + \\ft metonymy \\f*’
+\q2 \add it would be as though\add* your message would burn in my inner being like \\f + \\ft simile \\f* a fire;
 \q2 it would be like a fire in my bones. 
 \q Sometimes I try to remain silent and not proclaim your messages,
 \q2 but I am not able to do that. 
@@ -40,7 +40,7 @@ to\add* be terrified everywhere.
 \q \add They are saying\add*, ‘Perhaps we can cause him to say something wrong,
 \q2 and if he does, we will be able to defeat him.’ 
 \q
-\v 11 But you, Yahweh, are helping me like \f + \fk simile \f* a strong warrior,
+\v 11 But you, Yahweh, are helping me like \\f + \\ft simile \\f* a strong warrior,
 \q2 so \add it is as though\add* he will cause those who persecute me to stumble, and they will not defeat me.
 \q They will be completely disgraced because of being unable to defeat me;
 \q2 and other people will never forget that they were disgraced.
@@ -56,16 +56,16 @@ me\add*,
 \v 13 Sing to Yahweh! 
 \q2 Praise Yahweh! 
 \q He rescues poor and needy people, 
-\q2 from those \f + \fk synecdoche \f* who are wicked. 
+\q2 from those \\f + \\ft synecdoche \\f* who are wicked. 
 \b
 \q
-\v 14 But I hope/desire that the day that I was born will be cursed.
+\v 14 But I hope\f + \ft Or: desire \f* that the day that I was born will be cursed.
 \q2 I do not want anyone to celebrate that day. 
 \q
 \v 15 And as for that man who brought to my father the news, 
 \q2 and caused him to be very happy, by saying 
 \q2 “You wife has given birth to a son for you,” 
-\q I hope/desire that he also will be cursed. 
+\q I hope\f + \ft Or: desire \f* that he also will be cursed. 
 \q
 \v 16 Allow him to be destroyed like the cities that Yahweh destroyed long ago,
 \q2 without acting mercifully toward them. 
@@ -74,8 +74,8 @@ me\add*,
 \q
 \v 17  \add I want that to happen to him because\add* he did not kill me when I was born.
 \q2 I wish that I had died in my mother's womb, 
-\q2 and that my mother's body would have been like \f + \fk metaphor \f* my grave.
+\q2 and that my mother's body would have been like \\f + \\ft metaphor \\f* my grave.
 \q
 \v 18 I have continually experienced much trouble and sorrow, 
 \q2 and I am disgraced now when I am about to die; 
-\q why was it necessary \f + \fk rhetorical question \f* for me to me born? 
+\q why was it necessary \\f + \\ft rhetorical question \\f* for me to me born? 

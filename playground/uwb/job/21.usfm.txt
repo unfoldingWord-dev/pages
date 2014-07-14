@@ -10,9 +10,9 @@
 \q2 Then, after I am finished speaking, you can continue to make fun of me.
 \b
 \q
-\v 4 It is certainly not \f + \fk rhetorical question \f* people against whom I am complaining,
+\v 4 It is certainly not \\f + \\ft rhetorical question \\f* people against whom I am complaining,
 \add but God\add*! 
-\q2 And it is certainly \f + \fk rhetorical question \f* right for me to be impatient! 
+\q2 And it is certainly \\f + \\ft rhetorical question \\f* right for me to be impatient! 
 \q
 \v 5 Look at me! Does what you see not cause you to be appalled 
 \q2 and to put your hands over your mouths \add and say no more\add*?
@@ -28,36 +28,36 @@
 \q2 and they watch them while they \add grow up and\add* start to live in their own houses.
 \q
 \v 9 Wicked people live in their own houses without being afraid,
-\q2 and God does not punish \f + \fk metonymy \f* them. 
+\q2 and God does not punish \\f + \\ft metonymy \\f* them. 
 \q
 \v 10 Their bulls always mate with the cows successfully, 
 \q2 and the cows give birth to calves and never miscarry. 
 \q
 \v 11 Wicked people send their young children outside \add to play\add*,
-\q2 and the children play \add happily\add* like \f + \fk simile \f* lambs \add in a
+\q2 and the children play \add happily\add* like \\f + \\ft simile \\f* lambs \add in a
 pasture\add*. 
 \q
 \v 12 Some children dance and sing, while others shake tambourines and play lyres,
 \q2 and they are happy when they hear people playing flutes. 
 \q
 \v 13 Wicked people enjoy having good things all the time that they are alive,
-\q2 and they die quietly/peacefully and go down to the place of the dead.
+\q2 and they die quietly\f + \ft Or: peacefully \f* and go down to the place of the dead.
 \q
-\v 14 While they are alive, they say to God, ‘◄Allow us to be alone/Do not bother us►;
+\v 14 While they are alive, they say to God, ‘◄Allow us to be alone\f + \ft Or: Do \f* not bother us►;
 \q2 we do not want to know how you desire us to conduct our lives!
 \q
 \v 15 Why do you, Almighty God, think that we should serve you? 
-\q2 ◄What advantage do we get if we pray to you?/It is useless for us to pray to you.► \f + \fk rhetorical question \f*’
+\q2 ◄What advantage do we get if we pray to you?\f + \ft Or: It \f* is useless for us to pray to you.► \\f + \\ft rhetorical question \\f*’
 \q
 \v 16 Think about it: wicked people think that it is because of what they have done that they have become prosperous,
 \q2 but I do not understand why they think like that. 
 \b
 \q
-\v 17 ◄How often does it happen that wicked people die \f + \fk metaphor \f* before they are old?/Very seldom do wicked people die \f + \fk metaphor \f* before
-they are old.► \f + \fk rhetorical question \f* 
-\q2 ◄Do they ever experience disasters?/They seldom experience disasters.► \f + \fk rhetorical question \f*
-\q2 ◄Does God ever punish them because of being very angry with them?/God never punishes them because of being very angry with
-them.► \f + \fk rhetorical question \f* 
+\v 17 ◄How often does it happen that wicked people die \\f + \\ft metaphor \\f* before they are old?\f + \ft Or: Very \f* seldom do wicked people die \\f + \\ft metaphor \\f* before
+they are old.► \\f + \\ft rhetorical question \\f* 
+\q2 ◄Do they ever experience disasters?\f + \ft Or: They \f* seldom experience disasters.► \\f + \\ft rhetorical question \\f*
+\q2 ◄Does God ever punish them because of being very angry with them?\f + \ft Or: God \f* never punishes them because of being very angry with
+them.► \\f + \\ft rhetorical question \\f* 
 \q
 \v 18  \add He does not blow\add* them away like wind blows away straw;
 \q2 they are never carried off by a whirlwind. 
@@ -69,15 +69,15 @@ children\add*,
 \q2 in order that the sinners will know \add that it is because of their own sins that they are being
 punished\add*. 
 \q
-\v 20 I hope/wish that wicked people will experience themselves being destroyed,
+\v 20 I hope\f + \ft Or: wish \f* that wicked people will experience themselves being destroyed,
 \q2 that they will experience being punished by an angry Almighty God.
 \q
 \v 21 After wicked people are dead, 
-\q2 they are not at all concerned \f + \fk rhetorical question \f* about what happens to their families \f + \fk metonymy \f*.
+\q2 they are not at all concerned \\f + \\ft rhetorical question \\f* about what happens to their families \\f + \\ft metonymy \\f*.
 \b
 \q
 \v 22 Since God judges \add everyone\add*, even those that are in heaven,
-\q2 ◄who can teach God anything?/certainly no one can teach God anything.► \f + \fk rhetorical question \f*
+\q2 ◄who can teach God anything?\f + \ft Or: certainly \f* no one can teach God anything.► \\f + \\ft rhetorical question \\f*
 \q
 \v 23 Some people die while they are very healthy, 
 \q2 while they are peaceful, when they are not afraid of anything.
@@ -105,16 +105,16 @@ wicked\add*.
 \q
 \v 30 that wicked people usually do not suffer at the time when there are great disasters;
 \q2 that wicked people are the ones who are rescued when God is angry
-\add and punishes people\add* \f + \fk metonymy \f*? 
+\add and punishes people\add* \\f + \\ft metonymy \\f*? 
 \q
-\v 31 There is no one \f + \fk rhetorical question \f* who accuses wicked people, 
-\q2 and there in no one who ◄pays them back/gives them the punishment that they deserve► for all the evil things that they have
+\v 31 There is no one \\f + \\ft rhetorical question \\f* who accuses wicked people, 
+\q2 and there in no one who ◄pays them back\f + \ft Or: gives \f* them the punishment that they deserve► for all the evil things that they have
 done. 
 \q
 \v 32 When the corpses of wicked people are carried to their graves,
 \q2 and people are put there to guard those graves, 
 \q
-\v 33 a huge number \f + \fk hyperbole \f* of people go to the grave site; 
+\v 33 a huge number \\f + \\ft hyperbole \\f* of people go to the grave site; 
 \q2 some go in front of the procession and some come behind, 
 \q2 and those wicked people who have died surely feel good when people throw clods of dirt on their graves.
 \b

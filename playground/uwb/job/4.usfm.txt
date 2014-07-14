@@ -4,28 +4,28 @@
 \v 1 Then Eliphaz replied to Job. He said, 
 \q
 \v 2 “Will you please allow me to say something to you? 
-\q2 I am not \f + \fk rhetorical question \f* able to remain silent \add any longer\add*. 
+\q2 I am not \\f + \\ft rhetorical question \\f* able to remain silent \add any longer\add*. 
 \q
-\v 3 In the past, you have instructed/taught many people, 
+\v 3 In the past, you have instructed\f + \ft Or: taught \f* many people, 
 \q2 and you have encouraged those who were weak. 
 \q
-\v 4 By what you said, you have helped those who ◄needed spiritual help/almost quit trusting in God► \f + \fk metaphor \f*,
-\q2 and you have enabled them to become spiritually strong again \f + \fk metaphor \f*.
+\v 4 By what you said, you have helped those who ◄needed spiritual help\f + \ft Or: almost \f* quit trusting in God► \\f + \\ft metaphor \\f*,
+\q2 and you have enabled them to become spiritually strong again \\f + \\ft metaphor \\f*.
 \q
 \v 5 But now, when you experience disasters, you become discouraged.
 \q2 The disasters hit you, and you are stunned. 
 \q
-\v 6 You revere God; ◄does that not cause you to trust \add in him\add*?/that should cause you to trust
-\add in him\add*.► \f + \fk rhetorical question \f* 
-\q2 If you were guiltless, you would \f + \fk rhetorical question \f* be confident that \add God\add* would not
+\v 6 You revere God; ◄does that not cause you to trust \add in him\add*?\f + \ft Or: that \f* should cause you to trust
+\add in him\add*.► \\f + \\ft rhetorical question \\f* 
+\q2 If you were guiltless, you would \\f + \\ft rhetorical question \\f* be confident that \add God\add* would not
 \add have allowed\add* these disasters to happen to you! 
 \b
 \q
 \v 7 Think about this: do innocent people die \add while they are still
-young\add* \f + \fk rhetorical question \f*? 
-\q2 Does God get rid of godly people \f + \fk rhetorical question \f*? \add No\add*! 
+young\add* \\f + \\ft rhetorical question \\f*? 
+\q2 Does God get rid of godly people \\f + \\ft rhetorical question \\f*? \add No\add*! 
 \q
-\v 8 What I have experienced is this: \add just as\add* \f + \fk metaphor \f* farmers who plant bad
+\v 8 What I have experienced is this: \add just as\add* \\f + \\ft metaphor \\f* farmers who plant bad
 \add seeds\add* do not harvest \add good crops\add*, 
 \q2 \add those who start\add* trouble for others later bring trouble on themselves.
 \q
@@ -33,7 +33,7 @@ young\add* \f + \fk rhetorical question \f*?
 \q2 when he is very angry with them. 
 \q
 \v 10  \add Even though wicked people may be very powerful like\add* young lions,
-\q2 \add God\add* will get rid of them \f + \fk metaphor \f*. 
+\q2 \add God\add* will get rid of them \\f + \\ft metaphor \\f*. 
 \q
 \v 11  \add They will die like older\add* lions that starve to death when there are no animals that they can kill and eat,
 \q2 and \add their children will be separated from each other like\add* the young lions separate from each other
@@ -43,7 +43,7 @@ young\add* \f + \fk rhetorical question \f*?
 \v 12 I heard a message that someone came 
 \q2 and whispered to me. 
 \q
-\v 13 He spoke to me at night when I was having a bad dream that disturbed/frightened me
+\v 13 He spoke to me at night when I was having a bad dream that disturbed\f + \ft Or: frightened \f* me
 \q2 while I was fast asleep. 
 \q
 \v 14 It caused me to be afraid and tremble; 
@@ -56,8 +56,8 @@ young\add* \f + \fk rhetorical question \f*?
 \q2 But \add I could sense that\add* there was some being in front of me,
 \q and it said in a quiet voice, 
 \q
-\v 17 ‘◄Can human beings be righteous in God's sight?/No human beings can be righteous in God's sight!► \f + \fk rhetorical question \f*
-\q ◄Their creator cannot consider them to be pure./Can their creator consider them to be pure?► \f + \fk rhetorical question \f*
+\v 17 ‘◄Can human beings be righteous in God's sight?\f + \ft Or: No \f* human beings can be righteous in God's sight!► \\f + \\ft rhetorical question \\f*
+\q ◄Their creator cannot consider them to be pure.\f + \ft Or: Can \f* their creator consider them to be pure?► \\f + \\ft rhetorical question \\f*
 \q
 \v 18 God cannot be sure that his own angels \add will always do what is
 right\add*; 
@@ -69,5 +69,5 @@ right\add*;
 \v 20 People are sometimes well in the morning, but in the evening they are dead.
 \q2 They are gone forever and do not even know it \f + \ft (OR, and no one pays any attention to it) \f*.
 \q
-\v 21 They are like \f + \fk metaphor \f* tents that collapse \add suddenly:\add*
+\v 21 They are like \\f + \\ft metaphor \\f* tents that collapse \add suddenly:\add*
 \q2 they die \add suddenly\add* without becoming wise.’ ” 

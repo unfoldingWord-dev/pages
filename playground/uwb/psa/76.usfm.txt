@@ -2,7 +2,7 @@
 \s A psalm written by Asaph for the choir director, to be accompanied by stringed instruments
 \q
 \v 1 People in Judah know God; 
-\q the Israeli people honor him \f + \fk metonymy \f*. 
+\q the Israeli people honor him \\f + \\ft metonymy \\f*. 
 \q
 \v 2 His home is in Jerusalem; 
 \q2 he lives on Zion \add Hill\add*. 
@@ -18,14 +18,14 @@
 \q
 \v 5 Their brave soldiers \add were killed, and then those who killed
 them\add* took away everything that those soldiers had. 
-\q Those enemies died \f + \fk euphemism \f*, 
+\q Those enemies died \\f + \\ft euphemism \\f*, 
 \q2 so they were unable to use their weapons anymore! 
 \q
 \v 6 When you, the God whom Jacob \add worshiped\add*, rebuked your enemies,
 \q2 the result was that their horses and their riders fell down dead.
 \q
 \v 7 But you cause everyone to be afraid. 
-\q When you are angry \add and you punish people\add*, no one can \f + \fk rhetorical question \f* endure it.
+\q When you are angry \add and you punish people\add*, no one can \\f + \\ft rhetorical question \\f* endure it.
 \q
 \v 8 From heaven you proclaimed that you would judge people, 
 \q2 and then everyone on the earth was afraid and did not say anything more,
@@ -37,7 +37,7 @@ people\add*
 \b
 \q
 \v 10 When \add you punish those\add* with whom you are angry, your people will praise you,
-\q2 and \add your enemies\add* who ◄survive/are not killed► will worship you on your festival days.
+\q2 and \add your enemies\add* who ◄survive\f + \ft Or: are \f* not killed► will worship you on your festival days.
 \b
 \q
 \v 11 So give to Yahweh the offerings that you promised to give to him;

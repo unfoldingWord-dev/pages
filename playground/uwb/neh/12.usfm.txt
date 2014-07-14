@@ -1,7 +1,7 @@
 \c 12  
 \s A list of the priests and Levites who returned 
 \p
-\v 1  \add Many\add* priests and descendants of Levi returned ◄from Babylonia/to Jerusalem► with Zerubbabel and Jeshua. They
+\v 1  \add Many\add* priests and descendants of Levi returned ◄from Babylonia\f + \ft Or: to \f* Jerusalem► with Zerubbabel and Jeshua. They
 included 
 \li Seraiah, Jeremiah, Ezra, 
 \li
@@ -40,7 +40,7 @@ Eliashib, who was the father of Joiada,
 \li Joseph, from the clan of Shecaniah; 
 \li
 \v 15 Adna, from the clan of Harim; 
-\li Helkai, from the clan of Meremoth/Maraioth; 
+\li Helkai, from the clan of Meremoth\f + \ft Or: Maraioth \f*; 
 \li
 \v 16 Zechariah, from the clan of Iddo; 
 \li Meshullam, from the clan of Ginnethon; 
@@ -55,14 +55,14 @@ Eliashib, who was the father of Joiada,
 \v 19 Mattenai, from the clan of Joiarib; 
 \li Uzzi, from the clan of Jedaiah; 
 \li
-\v 20 Kallai, from the clan of Sallu/Sallai; 
+\v 20 Kallai, from the clan of Sallu\f + \ft Or: Sallai \f*; 
 \li Eber, from the clan of Amok; 
 \li
 \v 21 Hashabiah, from the clan of Hilkiah; 
 \li and Nethanel, from the clan of Jedaiah. 
 \s Duties of priests and Levites 
 \p
-\v 22 During the years that Eliashib, Joiada, Johanan, and Jaddua were supreme priests, they ◄wrote/kept a list of► the names
+\v 22 During the years that Eliashib, Joiada, Johanan, and Jaddua were supreme priests, they ◄wrote\f + \ft Or: kept \f* a list of► the names
 of the clans who were descendants of Levi. When Darius was the king of Persia, they stopped writing that list.
 \v 23 They wrote the names of the leaders of the clans who were descendants of Levi in the Book of Events in Israel, but they
 stopped writing those names when Eliashib's grandson Johanan \add was the supreme
@@ -122,7 +122,7 @@ be very happy. The women and the children also rejoiced. People far away could h
 \v 44 On that day, men were appointed {they appointed men} to be in charge of the storerooms where they kept the money that
 people contributed \add for the temple\add*. They also kept there the
 \add other things that the people contributed\add*—the tithes and the first part of the grain and fruit that was harvested each
-year. Those men collected those things from the fields/farms near the cities, and
+year. Those men collected those things from the fields\f + \ft Or: farms \f* near the cities, and
 \add took them to Jerusalem and\add* gave them to the priests and the descendants of Levi, as
 \add Moses had said in his\add* laws that they should do. All the Israeli people were happy about the work that the priests and
 the descendants of Levi did, 
@@ -131,7 +131,7 @@ temple also did their work as King David and his son Solomon had declared that t
 \v 46 Ever since the time that David had been the king and Asaph had been his chief musician, the musicians had led the people
 while they sang songs to praise and thank God. 
 \v 47 During the years that Zerubbabel and I governed the Israeli people, they all contributed the food that the singers and
-temple gatekeepers needed each day. They gave ◄a tithe/10%► of their crops to the descendants of Levi
-\add who helped the priests\add*, and the descendants of Levi gave ◄a tithe/10%► of that to
+temple gatekeepers needed each day. They gave ◄a tithe\f + \ft Or: 10 \f*%► of their crops to the descendants of Levi
+\add who helped the priests\add*, and the descendants of Levi gave ◄a tithe\f + \ft Or: 10 \f*%► of that to
 \add the priests, who were\add* descendants of Aaron \add the first supreme
 priest\add*. 

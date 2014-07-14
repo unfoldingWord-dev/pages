@@ -5,8 +5,8 @@
 \v 2 In that vision I was in Susa, the capital city of Elam Province. I was standing alongside the Ulai Canal.
 \v 3 I looked up and saw a ram that was standing alongside the canal. It had two long horns, but the one that grew last was
 longer than the one that grew first. 
-\v 4 The ram butted/knocked away \add with its horns\add* everything that was west and everything that was north and everything
-that was south of it. There were no other animals that were able to oppose it, and none that could rescue/save other animals
+\v 4 The ram butted\f + \ft Or: knocked \f* away \add with its horns\add* everything that was west and everything that was north and everything
+that was south of it. There were no other animals that were able to oppose it, and none that could rescue\f + \ft Or: save \f* other animals
 from its power. The ram did whatever it wanted to do and became very powerful.
 \p
 \v 5 While I thinking \add about what I had seen\add*, I saw a goat come from the west. It ran across the land very quickly,
@@ -25,13 +25,13 @@ toward the east and then toward the beautiful \add land of Israel\add*.
 \v 10  \add The man who was represented by\add* that horn became very strong, with the result that he attacked some of the
 \add soldiers of the\add* army of heaven, and \f + \ft (OR, meaning) \f* the stars in the sky
 \add which represented God's people\add*. He threw some of them to the ground and trampled on them.
-\v 11 He ◄defied/considered himself to be greater than► the leader of the army of heaven, and prevented priests from offering
-sacrifices to him. He also ◄defiled the temple/caused the temple to become unholy►.
+\v 11 He ◄defied\f + \ft Or: considered \f* himself to be greater than► the leader of the army of heaven, and prevented priests from offering
+sacrifices to him. He also ◄defiled the temple\f + \ft Or: caused \f* the temple to become unholy►.
 \v 12 Then God's people allowed the \add man who was represented
-by\add* that horn to control/rule them, with the result that they sinned by offering sacrifices to him. And he threw to the
+by\add* that horn to control\f + \ft Or: rule \f* them, with the result that they sinned by offering sacrifices to him. And he threw to the
 ground the \add laws that contained the\add* true religion. Everything that he did was successful.
 \p
-\v 13 Then I heard two angels who were talking to each other. One of them asked, “How long will the things/events that were in
+\v 13 Then I heard two angels who were talking to each other. One of them asked, “How long will the things\f + \ft Or: events \f* that were in
 this vision continue? How long will the man who rebels against God and causes
 \add the temple\add* to be defiled be able to prevent priests from offering sacrifices? How long will he trample on the temple
 and on the armies of heaven?” 
@@ -42,7 +42,7 @@ purified.”
 \s Gabriel explained the vision 
 \p
 \v 15 While I, Daniel, was trying to understand what the vision meant, suddenly
-\add an angel\add* who resembled a man stood/appeared in front of me.
+\add an angel\add* who resembled a man stood\f + \ft Or: appeared \f* in front of me.
 \v 16 And I heard a man call out from the \add other side of\add* the Ulai Canal, saying, “Gabriel, explain to him the meaning
 of the vision that he saw!” 
 \p
@@ -62,17 +62,17 @@ me and lifted me up in order that I could stand again.
 \add represents\add* its first king. 
 \v 22 As for the four horns that grew after the first horn was broken off, they
 \add represent\add* four kingdoms into which that first kingdom will be divided
-\add after the first king dies\add*. Those four kingdoms will not be as strong/powerful as the first kingdom was.
+\add after the first king dies\add*. Those four kingdoms will not be as strong\f + \ft Or: powerful \f* as the first kingdom was.
 \p
 \v 23 The people in those kingdoms will become very wicked, with the result that it will be necessary for them to be punished.
-But near the time when those kingdoms will end, one of those kingdoms will have a king who will be very proud/defiant [IDI]. He
+But near the time when those kingdoms will end, one of those kingdoms will have a king who will be very proud\f + \ft Or: defiant \f* [IDI]. He
 will also be very fierce and very deceitful. 
 \v 24 He will become very powerful, but it will not be because of what he himself does. He will terribly destroy things in many
 places, and he will succeed in doing everything that he wants to. He will get rid of many powerful men, and also some of God's
 people. 
-\v 25 Because he is very cunning/clever, he will succeed by doing things that deceive many people. He will be proud of himself.
+\v 25 Because he is very cunning\f + \ft Or: clever \f*, he will succeed by doing things that deceive many people. He will be proud of himself.
 He will get rid of many people when they think that they are safe. He will also rebel against
-\add God\add* \f + \fk euphemism \f*, who is the greatest king. But \add God\add* will destroy him, without the help \f + \fk metonymy \f* of any human being.
+\add God\add* \\f + \\ft euphemism \\f*, who is the greatest king. But \add God\add* will destroy him, without the help \\f + \\ft metonymy \\f* of any human being.
 \p
 \v 26 What you saw in the vision about \add priests being prevented from
 making\add* sacrifices in the morning and in the evening, which I explained to you, will surely happen. But
@@ -80,4 +80,4 @@ making\add* sacrifices in the morning and in the evening, which I explained to y
 others\add*, because it will be many years before those things happen.”
 \p
 \v 27 Then I, Daniel, became weak, and I was sick for several days. Then I arose and returned to doing the work that the king
-had given to me, but I was perplexed/confused about the vision, and I could not understand it.
+had given to me, but I was perplexed\f + \ft Or: confused \f* about the vision, and I could not understand it.

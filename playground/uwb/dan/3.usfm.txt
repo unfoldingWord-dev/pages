@@ -1,7 +1,7 @@
 \c 3  
 \s Nebuchadnezzar had a gold statue made 
 \p
-\v 1 King Nebuchadnezzar ordered his men to make a gold statue. It was ◄90 ft./27 meters► high and ◄9 ft./2.7 meters► wide.
+\v 1 King Nebuchadnezzar ordered his men to make a gold statue. It was ◄90 ft.\f + \ft Or: 27 \f* meters► high and ◄9 ft.\f + \ft Or: 2 \f*.7 meters► wide.
 They set it up in the Dura plain in Babylon province. 
 \v 2 Then he sent messages to all the provincial governors, the district governors, the chief advisors, the counselors, the
 various judges, and all the other officials in the province. He told them to come to the dedication of the statue that he had
@@ -33,7 +33,7 @@ they were brought to him,
 have set up? 
 \v 15  \add If that is true\add*, I will give you one more chance. If you bow down to worship the statue that I have set up
 when you hear the sounds of the musical instruments, fine. But if you refuse, you will be thrown immediately into the blazing
-furnace. Then ◄what god will be able to rescue you from my power?/no god will be able to rescue you from my power!►” \f + \fk rhetorical question \f*
+furnace. Then ◄what god will be able to rescue you from my power?\f + \ft Or: no \f* god will be able to rescue you from my power!►” \\f + \\ft rhetorical question \\f*
 \p
 \v 16 Shadrach, Meshach, and Abednego replied, “Nebuchadnezzar, we do not need to defend our
 \add actions\add* to you in this matter. 

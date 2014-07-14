@@ -1,6 +1,6 @@
 \c 17  
 \q
-\v 1 It is better \add to eat\add* a dry piece \add of bread\add* and not have strife/quarrels
+\v 1 It is better \add to eat\add* a dry piece \add of bread\add* and not have strife\f + \ft Or: quarrels \f*
 \q2 than to have a big feast in a house where everyone is quarreling.
 \b
 \q
@@ -14,20 +14,20 @@
 \add to see if they are pure\add*. 
 \b
 \q
-\v 4 Those who do what is evil pay attention to people who say \f + \fk metonymy \f* what is evil,
+\v 4 Those who do what is evil pay attention to people who say \\f + \\ft metonymy \\f* what is evil,
 \q2 and liars pay attention to \add other people's\add* lies. 
 \b
 \q
 \v 5 Those who make fun of poor people insult God, the one who made the poor people,
-\q2 and those who are happy when \add someone else has\add* troubles will certainly be punished \f + \fk litotes \f*
+\q2 and those who are happy when \add someone else has\add* troubles will certainly be punished \\f + \\ft litotes \\f*
 \add by God\add*. 
 \b
 \q
-\v 6 Old people are \add usually\add* proud of \f + \fk metaphor \f* their grandchildren,
+\v 6 Old people are \add usually\add* proud of \\f + \\ft metaphor \\f* their grandchildren,
 \q2 just like children are \add usually\add* proud of their parents.
 \b
 \q
-\v 7 Fine/Eloquent speech is not suitable for foolish people to say,
+\v 7 Fine\f + \ft Or: Eloquent \f* speech is not suitable for foolish people to say,
 \q2 just like lies are not suitable for respected people to say.
 \b
 \q
@@ -36,7 +36,7 @@ do\add*;
 \q2 they think that because of the bribe, that person will do whatever they want him to do.
 \b
 \q
-\v 9 If you want people to like/love you, forgive them for the wrong things that they do to you.
+\v 9 If you want people to like\f + \ft Or: love \f* you, forgive them for the wrong things that they do to you.
 \q2 If you continue to remind them about those wrong things, they will no longer be your friends.
 \b
 \q
@@ -53,7 +53,7 @@ do\add*;
 \b
 \q
 \v 13 If someone does something evil in return for something good being done to him,
-\q2 evil/trouble will never leave that person's family. 
+\q2 evil\f + \ft Or: trouble \f* will never leave that person's family. 
 \b
 \q
 \v 14 Starting a quarrel is like allowing water to start to leak out of a dam;
@@ -61,11 +61,11 @@ do\add*;
 \b
 \q
 \v 15 There are two things that Yahweh hates: 
-\q2 ◄condemning innocent people/saying that people who have done nothing wrong must be punished►,
+\q2 ◄condemning innocent people\f + \ft Or: saying \f* that people who have done nothing wrong must be punished►,
 \q2 and declaring that people who have done wicked things should not be punished.
 \b
 \q
-\v 16 It is useless to allow foolish people \f + \fk rhetorical question \f* to try to become wise by paying for it,
+\v 16 It is useless to allow foolish people \\f + \\ft rhetorical question \\f* to try to become wise by paying for it,
 \q2 because they do not have enough good sense to become wise. 
 \b
 \q
@@ -78,12 +78,12 @@ money back
 \q2 if that other person is unable to pay back the money that he borrowed.
 \b
 \q
-\v 19 Those who like to sin \add also\add* like to cause strife/trouble;
+\v 19 Those who like to sin \add also\add* like to cause strife\f + \ft Or: trouble \f*;
 \q2 and those who build fancy doors into their houses \add to show that they are very
 wealthy\add* \f + \ft (OR, speak proudly) \f* are inviting disaster. 
 \b
 \q
-\v 20 Those who ◄have perverse minds/are always thinking about doing evil things► will not prosper,
+\v 20 Those who ◄have perverse minds\f + \ft Or: are \f* always thinking about doing evil things► will not prosper,
 \q2 and disasters will happen to those who always tell lies. 
 \b
 \q
@@ -92,11 +92,11 @@ wealthy\add* \f + \ft (OR, speak proudly) \f* are inviting disaster.
 \b
 \q
 \v 22 Being cheerful is like swallowing good medicine; 
-\q2 being discouraged/gloomy all the time will ◄drain away your energy/cause you to become weak► \f + \fk metonymy \f*.
+\q2 being discouraged\f + \ft Or: gloomy \f* all the time will ◄drain away your energy\f + \ft Or: cause \f* you to become weak► \\f + \\ft metonymy \\f*.
 \b
 \q
-\v 23 Wicked people/judges accept bribes that are given to them secretly,
-\q2 and as a result they do not decide matters justly/fairly. 
+\v 23 Wicked people\f + \ft Or: judges \f* accept bribes that are given to them secretly,
+\q2 and as a result they do not decide matters justly\f + \ft Or: fairly \f*. 
 \b
 \q
 \v 24 Those who have good sense determine to do what is wise, 
@@ -109,12 +109,12 @@ wealthy\add* \f + \ft (OR, speak proudly) \f* are inviting disaster.
 \b
 \q
 \v 26 It is not right to force someone who has done nothing wrong to pay a fine;
-\q2 it is wrong to punish good/respected people. 
+\q2 it is wrong to punish good\f + \ft Or: respected \f* people. 
 \b
 \q
 \v 27 Those who have good sense do not talk a lot, 
-\q2 and those who ◄control their tempers/keep themselves from becoming very angry► 1are truly wise.
+\q2 and those who ◄control their tempers\f + \ft Or: keep \f* themselves from becoming very angry► 1are truly wise.
 \b
 \q
 \v 28 People may think that foolish people who do not say anything are wise;
-\q2 if foolish people ◄do not say anything/keep their mouths shut►, others will think that they are very intelligent.
+\q2 if foolish people ◄do not say anything\f + \ft Or: keep \f* their mouths shut►, others will think that they are very intelligent.

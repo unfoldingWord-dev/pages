@@ -6,7 +6,7 @@ the universe would no longer delay in completing his purpose for his creation.
 \p
 \v 1  \add In the vision\add* I saw another mighty angel that was coming down out of heaven. A cloud
 \add surrounded him\add*. There was a rainbow over his head. His face
-\add shone\add* \f + \fk simile \f* like the sun. His legs looked like pillars of fire.
+\add shone\add* \\f + \\ft simile \\f* like the sun. His legs looked like pillars of fire.
 \v 2 He had in his hand a small scroll that was open. He set his right foot on the ocean and his left foot on the land.
 \v 3 He shouted something with a loud voice, a voice like the roar of a lion. When he shouted this, it thundered seven
 \add times\add*, speaking \add words that I could understand\add*.
@@ -32,6 +32,6 @@ angel who is standing on the ocean and on the land.”
 will \add taste\add* sweet like honey, but it will make your stomach bitter.”
 \v 10 I took the little scroll from the angel's hand and ate it. In my mouth it
 \add tasted\add* sweet like honey, but when I had eaten it, \add it\add* made my stomach bitter.
-\v 11 The one whose \add voice spoke from heaven said to me\add*, “You must ◄prophesy again/proclaim again what I will reveal
+\v 11 The one whose \add voice spoke from heaven said to me\add*, “You must ◄prophesy again\f + \ft Or: proclaim \f* again what I will reveal
 to you► about many people-\add groups\add*, many nations, \add speakers
-of\add* many languages \f + \fk metonymy \f*, and many kings.” 
+of\add* many languages \\f + \\ft metonymy \\f*, and many kings.” 

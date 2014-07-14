@@ -4,18 +4,18 @@
 \v 1 Yahweh, listen [IDI] to what I say and answer me, 
 \q2 because I am weak and needy. 
 \q
-\v 2 Prevent me from dying now, because I ◄am loyal to/continue to believe in► you;
-\q2 save/rescue me, because I serve you and I trust in you, my God.
+\v 2 Prevent me from dying now, because I ◄am loyal to\f + \ft Or: continue \f* to believe in► you;
+\q2 save\f + \ft Or: rescue \f* me, because I serve you and I trust in you, my God.
 \q
 \v 3 Lord, act kindly toward me, 
 \q2 because I cry out to you all during each day. 
 \q
 \v 4 Lord, cause me to be glad, 
-\q2 because I ◄pray to/worship► [IDI] you. 
+\q2 because I ◄pray to\f + \ft Or: worship \f*► [IDI] you. 
 \b
 \q
 \v 5 Lord, you are good \add to us\add*, and you forgive us; 
-\q you faithfully love very much all those who ◄pray/call out► to you.
+\q you faithfully love very much all those who ◄pray\f + \ft Or: call \f* out► to you.
 \q
 \v 6 Lord, listen to my prayer; 
 \q2 hear me when I cry out to you to help me. 
@@ -29,15 +29,15 @@
 \q not one of them has done \add the great things\add* that you have done.
 \q
 \v 9 Lord, \add some day, people from\add* all the nations that you have established will come and bow down in front of you
-\q2 and they will praise you \f + \fk metonymy \f*. 
+\q2 and they will praise you \\f + \\ft metonymy \\f*. 
 \q
-\v 10 You are great, and you do wonderful/marvelous things; 
+\v 10 You are great, and you do wonderful\f + \ft Or: marvelous \f* things; 
 \q2 only you are God. 
 \b
 \q
 \v 11 Yahweh, teach me what you want me to do 
 \q2 in order that I may conduct my life according to what you say, which is true.
-\q Cause/Teach me to have an awesome respect for you with all my inner being.
+\q Cause\f + \ft Or: Teach \f* me to have an awesome respect for you with all my inner being.
 \q
 \v 12 Lord, my God, I will thank you with all my inner being, 
 \q2 and I will praise you forever. 
@@ -47,8 +47,8 @@
 \b
 \q
 \v 14 But God, proud men are \add trying to\add* attack me; 
-\q2 a gang/group of cruel men are wanting to kill me; 
-\q2 they are men who do not have any ◄respect for/interest in► you.
+\q2 a gang\f + \ft Or: group \f* of cruel men are wanting to kill me; 
+\q2 they are men who do not have any ◄respect for\f + \ft Or: interest \f* in► you.
 \q
 \v 15 But Lord, you always act mercifully and kindly; 
 \q2 you do not become angry quickly, 
@@ -56,7 +56,7 @@
 \q2 and always do for us what you have promised to do. 
 \q
 \v 16 Look down toward me and act mercifully to me; 
-\q2 cause me to be strong and save/rescue me 
+\q2 cause me to be strong and save\f + \ft Or: rescue \f* me 
 \q2 who serves you \add faithfully\add* like my mother did. 
 \q
 \v 17 Yahweh, do something to show me that you are being good to me

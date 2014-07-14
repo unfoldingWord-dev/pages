@@ -47,7 +47,7 @@ him\add*. Then she exclaimed in Aramaic, “Rabboni!” which means ‘Teacher�
 \p
 \v 19 On that Sunday evening \add we\add* disciples gathered together. The doors were locked
 {\add We\add* locked the doors} because we were afraid that \add the Jewish
-leaders\add* \f + \fk synecdoche \f* \add might arrest us. Suddenly\add* Jesus appeared
+leaders\add* \\f + \\ft synecdoche \\f* \add might arrest us. Suddenly\add* Jesus appeared
 \add miraculously\add* and stood among us! He said to us, “May God give you
 \add inner\add* peace!” 
 \v 20 After he said that, he showed us \add the wounds in\add* his hands and his side. We were very happy when we saw the Lord!
@@ -71,7 +71,7 @@ hands and put my fingers in the place where the nails were, and put my hands int
 \add miraculously\add* and stood among us. He said, “May God give peace to you!”
 \v 27 Then he \add showed\add* Thomas \add his hands\add* and said to him, “Put your finger here! Look at
 \add the wounds in\add* my hands! Reach out your hand and put it in
-\add the wound in\add* my side! Stop doubting [LIT/DOU]! Instead, believe
+\add the wound in\add* my side! Stop doubting [LIT\f + \ft Or: DOU \f*]! Instead, believe
 \add that I am alive again\add*!” 
 \v 28 Thomas answered him, “\add You are truly\add* my Lord and my God!”
 \v 29 Jesus said to him, “Because you have seen me, you have believed
@@ -83,6 +83,6 @@ hands and put my fingers in the place where the nails were, and put my hands int
 \v 30  \add We\add* disciples saw Jesus perform many other miracles, but
 \add I\add* have not written about them in this book. 
 \v 31 But these \add that I have written about, I\add* have written about them in order that you may believe that Jesus is the
-Messiah, ◄the Son of God/the man who is also God►, and in order that you may have
-\add eternal\add* life \add by trusting\add* ◄in him\add /\add*in what he
-\add has done for you\add*► \f + \fk metonymy \f*. 
+Messiah, ◄the Son of God\f + \ft Or: the \f* man who is also God►, and in order that you may have
+\add eternal\add* life \add by trusting\add* ◄in him\add \f + \ft Or:  \f*\add*in what he
+\add has done for you\add*► \\f + \\ft metonymy \\f*. 

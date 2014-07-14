@@ -5,12 +5,12 @@
 it\add*. He \add hired\add* fifty men to run in front of him \add to honor him while he was riding around Jerusalem in the
 chariot\add*. 
 \v 2 Furthermore, he always rose early \add each morning\add* and stood by the city gate. Whenever someone came there with a
-dispute/quarrel with someone that he wanted the king to decide, Absalom would call out to him, asking “What city are you from?”
+dispute\f + \ft Or: quarrel \f* with someone that he wanted the king to decide, Absalom would call out to him, asking “What city are you from?”
 When the person told him what \add city and\add* tribe he was from,
-\v 3 Absalom would say to him, “Listen, \add I am sure that\add* what you are saying/claiming is right. But there is no one
-whom the king has appointed/authorized to listen to \add people like\add* you.”
+\v 3 Absalom would say to him, “Listen, \add I am sure that\add* what you are saying\f + \ft Or: claiming \f* is right. But there is no one
+whom the king has appointed\f + \ft Or: authorized \f* to listen to \add people like\add* you.”
 \v 4 Absalom would then add, “I wish that I were a judge in this land. If I were a judge, anyone who had a dispute could come
-to me, and I would decide it fairly/justly.” 
+to me, and I would decide it fairly\f + \ft Or: justly \f*.” 
 \p
 \v 5 And whenever anyone came near to Absalom to bow respectfully in front of him, Absalom would reach out and embrace him and
 kiss him. 
@@ -23,7 +23,7 @@ persuaded all the Israeli people to be more pleased with him [IDI]
 \v 8 When I was living in Geshur, in Syria, I promised Yahweh that if he brought me back to Jerusalem, I would worship him
 \add in Hebron\add*.” 
 \p
-\v 9 The king replied, “I will permit you to go safely/peacefully.” So Absalom went to Hebron.
+\v 9 The king replied, “I will permit you to go safely\f + \ft Or: peacefully \f*.” So Absalom went to Hebron.
 \p
 \v 10 But \add while he was there\add*, he secretly sent messengers to all the tribes in Israel, to tell them, “When you hear
 the sound of the trumpets \add being blown\add*, shout ‘Absalom has become the king at Hebron!’ ”
@@ -34,7 +34,7 @@ the sound of the trumpets \add being blown\add*, shout ‘Absalom has become the
 and who were ready to rebel \add against David\add* became larger.
 \s David escaped from Jerusalem 
 \p
-\v 13 Soon a messenger came to David and said to him, “All \f + \fk hyperbole \f* the Israeli people \f + \fk synecdoche \f* are joining Absalom to rebel against
+\v 13 Soon a messenger came to David and said to him, “All \\f + \\ft hyperbole \\f* the Israeli people \\f + \\ft synecdoche \\f* are joining Absalom to rebel against
 you!” 
 \p
 \v 14 So David said to all his officials, “We must leave immediately if we want to escape from Absalom! We must go quickly,
@@ -48,11 +48,11 @@ with him.
 \v 18 The king and his officials stood there while his bodyguards went by in front of him. Six hundred soldiers from Gath
 \add city\add* also walked by in front of him. 
 \p
-\v 19 Then David said to Ittai, \add the leader of\add* the soldiers from Gath, “◄Why are you going with us?/You should not be
-going with us.► \f + \fk rhetorical question \f* Go back and stay with \add Absalom the new\add* king. You are not an Israeli; you are living away from
+\v 19 Then David said to Ittai, \add the leader of\add* the soldiers from Gath, “◄Why are you going with us?\f + \ft Or: You \f* should not be
+going with us.► \\f + \\ft rhetorical question \\f* Go back and stay with \add Absalom the new\add* king. You are not an Israeli; you are living away from
 your own land. 
-\v 20 You have lived here \add in Israel\add* for only a short time \f + \fk hyperbole \f*. And we do not even know where we will be going. So
-it is not right \f + \fk rhetorical question \f* for me to force you to wander around with us. And take your troops with you. And I hope/wish that Yahweh
+\v 20 You have lived here \add in Israel\add* for only a short time \\f + \\ft hyperbole \\f*. And we do not even know where we will be going. So
+it is not right \\f + \\ft rhetorical question \\f* for me to force you to wander around with us. And take your troops with you. And I hope\f + \ft Or: wish \f* that Yahweh
 will faithfully love and be loyal to you.” 
 \p
 \v 21 But Ittai replied, “Your Majesty, as surely as you live, wherever you go, I will go; I will stay with you, whether they
@@ -62,7 +62,7 @@ kill me {I am killed} or allow me {am allowed} to live.”
 \add with David\add* 
 \p
 \v 23 All the people \add along the road\add* cried when they saw them walking by. The king and all the others crossed the
-Kidron Ravine/Valley and then they all went \add up the hill\add* toward the desert.
+Kidron Ravine\f + \ft Or: Valley \f* and then they all went \add up the hill\add* toward the desert.
 \p
 \v 24 Abiathar and Zadok, \add the priests\add*, were walking with them. The descendants of Levi
 \add who helped the priests\add* also went with them, carrying the sacred chest that contained the Ten Commandments. But they
@@ -72,7 +72,7 @@ set it on the ground until all the others had left the city.
 some day allow me to return to see it and the place where it is kept.
 \v 26 But if he says that he is not pleased with me, then I am willing for him to do to me whatever he thinks is good.”
 \p
-\v 27 He also said to Zadok, “Listen \add to what I suggest\add*! Return to the city peacefully/safely, and take your son
+\v 27 He also said to Zadok, “Listen \add to what I suggest\add*! Return to the city peacefully\f + \ft Or: safely \f*, and take your son
 Ahimaaz and Abiathar's son Jonathan with you. 
 \v 28 I will wait in the desert at the place where people can walk across the river, until you send a message to me.”
 \v 29 So Zadok and Abiathar carried the sacred chest back to Jerusalem, and they stayed there.
@@ -91,7 +91,7 @@ considered\add* to be foolish!”
 \v 34 But if you return to the city, \add you can help me by\add* saying to Absalom, ‘Your Majesty, I will serve you as
 faithfully as I served your father.’ If you do that \add and stay near
 Absalom\add*, you will be able to oppose any advice that Ahithophel gives to Absalom.
-\v 35 Zadok and Abiathar the priests are already there \f + \fk rhetorical question \f*. Whatever you hear people say in the king's palace, tell it to
+\v 35 Zadok and Abiathar the priests are already there \\f + \\ft rhetorical question \\f*. Whatever you hear people say in the king's palace, tell it to
 Zadok and Abiathar. 
 \v 36 Keep in mind that Zadok's son Ahimaaz and Abiathar's son Jonathan are also there. You can tell them whatever you find
 out, and send them to report it to me.” 
