@@ -1,8 +1,35 @@
 
-----
-
-**[[playground:uwb|unfoldingWord Bible]]**
-
-{{page>playground:uwb}}
+  - [[playground:uwb:ACT:1.usfm|ACT:1.usfm]]
+  - [[playground:uwb:ACT:2.usfm|ACT:2.usfm]]
+  - [[playground:uwb:ACT:3.usfm|ACT:3.usfm]]
+  - [[playground:uwb:ACT:4.usfm|ACT:4.usfm]]
+  - [[playground:uwb:ACT:5.usfm|ACT:5.usfm]]
+  - [[playground:uwb:ACT:6.usfm|ACT:6.usfm]]
+  - [[playground:uwb:ACT:7.usfm|ACT:7.usfm]]
+  - [[playground:uwb:ACT:8.usfm|ACT:8.usfm]]
+  - [[playground:uwb:ACT:9.usfm|ACT:9.usfm]]
+  - [[playground:uwb:ACT:10.usfm|ACT:10.usfm]]
+  - [[playground:uwb:ACT:11.usfm|ACT:11.usfm]]
+  - [[playground:uwb:ACT:12.usfm|ACT:12.usfm]]
+  - [[playground:uwb:ACT:13.usfm|ACT:13.usfm]]
+  - [[playground:uwb:ACT:14.usfm|ACT:14.usfm]]
+  - [[playground:uwb:ACT:15.usfm|ACT:15.usfm]]
+  - [[playground:uwb:ACT:16.usfm|ACT:16.usfm]]
+  - [[playground:uwb:ACT:17.usfm|ACT:17.usfm]]
+  - [[playground:uwb:ACT:18.usfm|ACT:18.usfm]]
+  - [[playground:uwb:ACT:19.usfm|ACT:19.usfm]]
+  - [[playground:uwb:ACT:20.usfm|ACT:20.usfm]]
+  - [[playground:uwb:ACT:21.usfm|ACT:21.usfm]]
+  - [[playground:uwb:ACT:22.usfm|ACT:22.usfm]]
+  - [[playground:uwb:ACT:23.usfm|ACT:23.usfm]]
+  - [[playground:uwb:ACT:24.usfm|ACT:24.usfm]]
+  - [[playground:uwb:ACT:25.usfm|ACT:25.usfm]]
+  - [[playground:uwb:ACT:26.usfm|ACT:26.usfm]]
+  - [[playground:uwb:ACT:27.usfm|ACT:27.usfm]]
+  - [[playground:uwb:ACT:28.usfm|ACT:28.usfm]]
+  - [[playground:uwb:ACT:0.usfm|ACT:0.usfm]]
+  - [[playground:uwb:LEV:1.usfm|LEV:1.usfm]]
+  - [[playground:uwb:LEV:2.usfm|LEV:2.usfm]]
+  - [[playground:uwb:LEV:3.usfm|LEV:3.usfm]]
 
 ~~NOCACHE~~
