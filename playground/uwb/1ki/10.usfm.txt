@@ -1,7 +1,7 @@
 \c 10  
 \s The queen of Sheba visited Solomon 
 \p
-\v 1 The queen \add who ruled the\add* Sheba \add area\add* heard that Yahweh [MTY] had caused Solomon to become famous, so she
+\v 1 The queen \add who ruled the\add* Sheba \add area\add* heard that Yahweh \f + \fr metonymy \f* had caused Solomon to become famous, so she
 traveled to Jerusalem to ask him questions that were difficult \add to
 answer\add*. 
 \v 2 She came with a large group of wealthy/influential people, and she brought camels that were loaded with spices, and

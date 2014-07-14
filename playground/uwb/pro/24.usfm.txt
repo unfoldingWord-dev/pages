@@ -5,7 +5,7 @@
 \q2 do not desire to associate with them, 
 \q
 \v 2 because they are constantly thinking about acting violently,
-\q2 and whenever they speak [MTY], they talk about ◄causing trouble/hurting someone►.
+\q2 and whenever they speak \f + \fr metonymy \f*, they talk about ◄causing trouble/hurting someone►.
 \s -20- 
 \q
 \v 3 People make good houses (OR, families) by doing what is wise,
@@ -38,13 +38,13 @@ good\add*.
 \q2 you are \add truly\add* very weak. 
 \s -25- 
 \q
-\v 11  \add If it is unjustly decided\add* that someone must be executed, try hard to rescue them [DOU].
+\v 11  \add If it is unjustly decided\add* that someone must be executed, try hard to rescue them \f + \fr doublet \f*.
 \q
 \v 12 If you say, “I did not know anything about it, \add so ◄it is not my concern/I did not try to help
 him►\add*,” 
 \q2 remember that God knows what we have done, 
 \q and he knows what we were thinking [IDI, RHQ], 
-\q2 and he will certainly [RHQ] repay us as we deserve for what we have done or for not doing what we should have done.
+\q2 and he will certainly \f + \fr rhetorical question \f* repay us as we deserve for what we have done or for not doing what we should have done.
 \s -26- 
 \q
 \v 13 My child/son, eat honey, because it is good \add for you\add*;
@@ -53,7 +53,7 @@ him►\add*,”
 \v 14 Similarly, being wise is good for your soul; 
 \q if you become wise, 
 \q2 you will be \add happy in\add* the future, 
-\q2 and \add God\add* will certainly \add do for you what you are\add* confidently expecting him to do [LIT].
+\q2 and \add God\add* will certainly \add do for you what you are\add* confidently expecting him to do \f + \fr litotes \f*.
 \s -27- 
 \q
 \v 15 Do not be like wicked people who \add hide and\add* wait to break into the houses of righteous/good people
@@ -73,17 +73,17 @@ him►\add*,”
 \s -29- 
 \q
 \v 19 Do not become angry/upset about those who do what is evil,
-\q2 and do not [SYN] envy them, 
+\q2 and do not \f + \fr synecdoche \f* envy them, 
 \q
 \v 20 because \add nothing good\add* will happen to wicked people;
-\q2 they are like a lamp that will soon be extinguished [MET]. 
+\q2 they are like a lamp that will soon be extinguished \f + \fr metaphor \f*. 
 \s -30- 
 \q
 \v 21 My child/son, have an awesome respect for Yahweh and also honor the king,
 \q2 and do not associate with people who want to rebel against either of them,
 \q
 \v 22 because disasters will suddenly happen to those people; 
-\q2 and no one knows [RHQ] what great disasters that God or the king can cause to happen to them.
+\q2 and no one knows \f + \fr rhetorical question \f* what great disasters that God or the king can cause to happen to them.
 \s More sayings from wise people 
 \p
 \v 23 Here are more things that wise people have said: 
@@ -105,7 +105,7 @@ him►\add*,”
 \b
 \q
 \v 28  \add In the courtroom\add* do not testify against someone when you have no reason to do that,
-\q2 and do not \add try to\add* deceive people by what you say [MTY].
+\q2 and do not \add try to\add* deceive people by what you say \f + \fr metonymy \f*.
 \q
 \v 29 Do not say, “I will do to him what he did to me; 
 \q2 I will pay him back for \add the bad things that\add* he did to me.”

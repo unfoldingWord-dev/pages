@@ -29,9 +29,9 @@ me\add*.
 \b
 \q
 \v 9 Do not get rid of me like you get rid of sinners; 
-\q2 do not cause me to die like you cause those who murder [MTY] people to die,
+\q2 do not cause me to die like you cause those who murder \f + \fr metonymy \f* people to die,
 \q
-\v 10 and people who [SYN] are ready to do wicked things 
+\v 10 and people who \f + \fr synecdoche \f* are ready to do wicked things 
 \q2 and people who are always taking bribes. 
 \q
 \v 11 But as for me, I always try to do what is right. 

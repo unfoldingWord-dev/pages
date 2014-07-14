@@ -7,13 +7,13 @@ existed.
 \v 2 I saw \add God's\add* holy city, which is the new \add city
 of\add* Jerusalem. It was coming down out of heaven from God. \add The
 city\add* had been prepared \add and decorated\add* {\add God\add* had prepared
-\add and decorated the city\add*} as [SIM] a bride is decorated {decorates herself}
+\add and decorated the city\add*} as \f + \fr simile \f* a bride is decorated {decorates herself}
 \add beautifully in order to marry\add* her husband. 
 \v 3 I heard a loud voice that spoke from the throne \add of God\add*. It said, “Listen to this! Now God will live with people.
-He will live \add right in the midst of\add* them [DOU]! They will be his people. God himself will be with them, and he will be
+He will live \add right in the midst of\add* them \f + \fr doublet \f*! They will be his people. God himself will be with them, and he will be
 their God. 
 \v 4  \add As a result\add*, he will \add cause them to no longer be sad. It will be as though he
-will\add* [MTY] wipe every tear from their eyes. \add None of them\add* will ever again die or mourn or cry [DOU] or suffer
+will\add* \f + \fr metonymy \f* wipe every tear from their eyes. \add None of them\add* will ever again die or mourn or cry \f + \fr doublet \f* or suffer
 pain, because the former things \add that make us sad\add* will have passed away.”
 \s Revelation 21:5-8 
 \s God declares that he has made everything new and that everything has been accomplished. He declares himself to be the
@@ -24,8 +24,8 @@ will be the lot of all the wicked.
 \add now\add* making everything new!” He said \add to me\add*: “Write these things
 \add that I have told you\add*, because you can trust \add that I will certainly cause them to
 happen\add*.” 
-\v 6 He said to me, “I have completed \add all these things\add*! I am the one who began all things [MET] and the one who will
-cause all things to end [MET]. To everyone who is \add spiritually\add* thirsty [MET], I will ◄freely give/give as a free gift►
+\v 6 He said to me, “I have completed \add all these things\add*! I am the one who began all things \f + \fr metaphor \f* and the one who will
+cause all things to end \f + \fr metaphor \f*. To everyone who is \add spiritually\add* thirsty \f + \fr metaphor \f*, I will ◄freely give/give as a free gift►
 water from the spring \add that causes people\add* to live \add forever\add*.
 \v 7 I will give this to every person who is victorious over \add the evil
 powers\add* (OR\add , over Satan\add*). I will be their God, and they will be my children.
@@ -37,9 +37,9 @@ those who worship idols, and every liar, will \add all suffer\add* in the lake t
 \s One of the seven angels who had the seven bowls offered to show to John the Bride of the Lamb.
 \p
 \v 9 One of the seven angels who had one of the seven bowls that had been full of
-\add the wine/liquid causing\add* [MTY] the seven last plagues came and said to me, “Come
+\add the wine/liquid causing\add* \f + \fr metonymy \f* the seven last plagues came and said to me, “Come
 \add with me\add* and I will show you \add the people who have permanently united with Christ, the one who is like
-a\add* lamb! They will be \add like\add* [MET] a bride \add for him\add*.”
+a\add* lamb! They will be \add like\add* \f + \fr metaphor \f* a bride \add for him\add*.”
 \s Revelation 21:10-14 
 \s An angel showed John the city of God, the New Jerusalem, that was coming down out of heaven from God, shining with his
 glory, having a huge wall with twelve gates and twelve huge foundation stones.
@@ -97,10 +97,10 @@ huge\add* pearls. Each gate was like \add it was\add* a single pearl. The
 \p
 \v 22 There was no temple in the city. The Lord God Almighty \add himself\add*, and the
 \add one who is like a\add* lamb, are \add there, so there was no need
-for\add* [MET] a temple. 
+for\add* \f + \fr metaphor \f* a temple. 
 \v 23 The city will not need the sun or the moon to light the city, because the glory of God will light the city, and
 \add Jesus, the one who is like a\add* lamb, will also be its light.
-\v 24 The people of [MTY] the nations will live with the light of the city
+\v 24 The people of \f + \fr metonymy \f* the nations will live with the light of the city
 \add shining upon them\add*. And the kings of the earth will bring their wealth into the city
 \add to honor God and the one who is like a lamb\add*. 
 \v 25 The gates of the city will not be shut {No one will shut the gates of the city}

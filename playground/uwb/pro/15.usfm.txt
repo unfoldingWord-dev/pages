@@ -4,16 +4,16 @@
 \q2 but if you reply harshly to them, it causes them to become more angry.
 \b
 \q
-\v 2 When wise people speak [MTY], it causes those who hear what they say to want to know more;
-\q2 foolish people continually say [MTY] what is foolish. 
+\v 2 When wise people speak \f + \fr metonymy \f*, it causes those who hear what they say to want to know more;
+\q2 foolish people continually say \f + \fr metonymy \f* what is foolish. 
 \b
 \q
-\v 3 Yahweh sees [MTY] \add what is happening\add* everywhere; 
+\v 3 Yahweh sees \f + \fr metonymy \f* \add what is happening\add* everywhere; 
 \q2 he observes what bad \add people do\add* as well as what good
 \add people do\add*. 
 \b
 \q
-\v 4 Those who speak [MTY] kindly to people are like [MET] trees
+\v 4 Those who speak \f + \fr metonymy \f* kindly to people are like \f + \fr metaphor \f* trees
 \add whose fruit gives\add* life; 
 \q2 speaking what is false causes people to ◄despair/feel very discouraged►.
 \b
@@ -26,7 +26,7 @@
 \q2 the wealth of wicked people causes them to have troubles/difficulties.
 \b
 \q
-\v 7 What wise people teach [MTY] causes others to know much more,
+\v 7 What wise people teach \f + \fr metonymy \f* causes others to know much more,
 \q2 but foolish people cannot teach others what is useful. 
 \b
 \q
@@ -42,8 +42,8 @@
 \q2 those who do not want to be corrected will die. 
 \b
 \q
-\v 11 Yahweh knows \add what is happening in\add* the place where dead people [DOU] are,
-\q2 so he certainly knows [RHQ] what people are thinking in people's inner beings.
+\v 11 Yahweh knows \add what is happening in\add* the place where dead people \f + \fr doublet \f* are,
+\q2 so he certainly knows \f + \fr rhetorical question \f* what people are thinking in people's inner beings.
 \b
 \q
 \v 12 Some people do not want to be corrected; 
@@ -56,11 +56,11 @@ that\add* they are sad.
 \b
 \q
 \v 14 Those who have good sense want to learn more; 
-\q2 foolish people [MTY] are very satisfied with being foolish/ignorant.
+\q2 foolish people \f + \fr metonymy \f* are very satisfied with being foolish/ignorant.
 \b
 \q
 \v 15 Those who are oppressed constantly have difficulties, 
-\q2 but those who (OR, if they) are happy, \add it is as though\add* [MET] they are having a big feast every day.
+\q2 but those who (OR, if they) are happy, \add it is as though\add* \f + \fr metaphor \f* they are having a big feast every day.
 \b
 \q
 \v 16 Being poor and revering Yahweh 
@@ -76,10 +76,10 @@ that\add* they are sad.
 \q2 but those who do not quickly become angry cause people to act peacefully.
 \b
 \q
-\v 19 Lazy people constantly \add have difficulties\add* [MET]; \add it is as though they are
+\v 19 Lazy people constantly \add have difficulties\add* \f + \fr metaphor \f*; \add it is as though they are
 walking\add* through thorns; 
 \q2 but those who are honest and hard-working \add will have few difficulties; it is as though they are
-walking\add* on a level highway [MET]. 
+walking\add* on a level highway \f + \fr metaphor \f*. 
 \b
 \q
 \v 20 Children who are wise cause their parents to be happy; 
@@ -119,13 +119,13 @@ them\add*;
 \q2 wicked people very quickly say what is evil. 
 \b
 \q
-\v 29 Yahweh does not listen [MTY] to what wicked people \add request him to
+\v 29 Yahweh does not listen \f + \fr metonymy \f* to what wicked people \add request him to
 do\add*; 
 \q2 he listens to righteous people when they pray. 
 \b
 \q
 \v 30 If people have a smile on their faces, it makes them/others happy,
-\q2 and when they hear good news, it refreshes their spirits [MTY].
+\q2 and when they hear good news, it refreshes their spirits \f + \fr metonymy \f*.
 \b
 \q
 \v 31 If people pay attention when people correct/warn them, 

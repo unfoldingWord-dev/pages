@@ -10,7 +10,7 @@ finished► (although we had not yet put the doors in the gates).
 \p
 \v 3 So I sent messengers to them, to tell them, “I am doing an important work, and I cannot go down there. ◄Why should I stop
 this work just to go down to \add talk with\add* you?/I do not want to stop this work just to go down to
-\add talk with\add* you.►” [RHQ] 
+\add talk with\add* you.►” \f + \fr rhetorical question \f* 
 \v 4 They sent me the same message four times, and each time when I replied to them I said the same thing.
 \p
 \v 5 Then Sanballat sent one of his servants to me, bringing a fifth message. This one was written, but it was not sealed.
@@ -35,13 +35,13 @@ working \add on the wall\add*. So I actually became more determined (OR, I praye
 house, because he was not able (OR, allowed) to leave his house. He said to me, “You and I must enter the very sacred place in
 the temple and lock the doors, because people are going to come to kill you at night.”
 \p
-\v 11 I replied, “I ◄am not that kind of person/do not do things like that► [RHQ]! I would not run and hide in the temple to
+\v 11 I replied, “I ◄am not that kind of person/do not do things like that► \f + \fr rhetorical question \f*! I would not run and hide in the temple to
 save my life! No, I will not do that!” 
 \v 12 When I thought \add about what he had said\add*, I realized that God had not told Shemaiah to say that to me. I realized
 that Tobiah and Sanballat had bribed him \add to say that to me\add*.
 \v 13 They had bribed him to cause me to be afraid. They wanted me to
 \add disobey God's commands\add* and sin \add by hiding in the temple\add*. If I did that, they would be able to ruin my
-reputation [MTY] and discredit me. 
+reputation \f + \fr metonymy \f* and discredit me. 
 \p
 \v 14  \add So I prayed\add*, “My God, do not forget what Tobiah and Sanballat have done. Punish them. And do not forget that
 the female prophet Noadiah and some of the other prophets have also tried to cause me to be afraid.”

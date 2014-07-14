@@ -4,7 +4,7 @@
 \v 1  \add Two of\add* Aaron's sons, Nadab and Abihu, took the pans in which they burned incense. They put some burning coals
 in them, and put incense on top of the coals, but this fire was not acceptable
 \add to Yahweh\add* because it was not the kind that he had commanded them to burn.
-\v 2 So suddenly a fire from Yahweh appeared and burned them up [DOU] in the presence of Yahweh.
+\v 2 So suddenly a fire from Yahweh appeared and burned them up \f + \fr doublet \f* in the presence of Yahweh.
 \v 3 Then Moses/I said to Aaron, “That is what Yahweh predicted. He said,
 \q Those priests who come near to me, 
 \q2 I will show them that they must ◄respect me/treat me as being holy►;
@@ -22,8 +22,8 @@ in them, and put incense on top of the coals, but this fire was not acceptable
 do\add*. Do not allow the hair on your \add heads\add* to remain uncombed, and do not tear your clothes. But your relatives and
 all your fellow Israelis are allowed to mourn for those whom Yahweh destroyed by fire.
 \v 7 But you must not leave the entrance of the Sacred Tent \add to join those who are
-mourning\add*, because if you do that, you also will die, and Yahweh will punish [MTY] all the people of Israel. Do not forget
-that Yahweh has set you apart [MTY] to work for him there, \add and he does not want you to become defiled by touching a
+mourning\add*, because if you do that, you also will die, and Yahweh will punish \f + \fr metonymy \f* all the people of Israel. Do not forget
+that Yahweh has set you apart \f + \fr metonymy \f* to work for him there, \add and he does not want you to become defiled by touching a
 corpse\add*.” So they did what Moses/I told them to do. 
 \p
 \v 8 Then Yahweh said to Aaron, 
@@ -54,6 +54,6 @@ enable the Israeli people to no longer be guilty for their sins and to be forgiv
 \p
 \v 19 Aaron replied to Moses/me. “Today the people brought to Yahweh their offering to become acceptable to him, and the
 offering to be completely burned, \add and surely that pleased Yahweh\add*, but
-\add think about\add* the \add terrible thing\add* that happened to my other two sons! Would [RHQ] Yahweh have been pleased if
+\add think about\add* the \add terrible thing\add* that happened to my other two sons! Would \f + \fr rhetorical question \f* Yahweh have been pleased if
 I had eaten some of the offering to cause the people to become acceptable to God?”
 \v 20 When Moses/I heard that, he/I was satisfied. 

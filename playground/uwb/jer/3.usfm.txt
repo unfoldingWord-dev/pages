@@ -1,14 +1,14 @@
 \c 3  
 \q
 \v 1 “\add Moses wrote that\add* if a man divorces his wife and then she marries another man,
-\q2 her first husband certainly must not [RHQ] take her back again
+\q2 her first husband certainly must not \f + \fr rhetorical question \f* take her back again
 \add to be his wife\add*, 
-\q because that would certainly [RHQ] cause the whole nation to become unacceptable to me.
+\q because that would certainly \f + \fr rhetorical question \f* cause the whole nation to become unacceptable to me.
 \q But you have more \add idols than\add* prostitutes have men whom they have slept with!
-\q2 So, \add why should I accept you if\add* you return to me?” [RHQ] says Yahweh.
+\q2 So, \add why should I accept you if\add* you return to me?” \f + \fr rhetorical question \f* says Yahweh.
 \q
 \v 2 “Look up at the barren hilltops. 
-\q2 On every hilltop there are [RHQ] \add idols that you have worshiped\add*.
+\q2 On every hilltop there are \f + \fr rhetorical question \f* \add idols that you have worshiped\add*.
 \q \add It is as though\add* they are all lovers with whom you have had sex.
 \q2 \add It is as though\add* you have sat along the roadsides like an Arab, waiting
 \add to attack and steal things from\add* those who pass by. 
@@ -16,25 +16,25 @@
 \q2 you have caused the entire land to become unacceptable to me.
 \q
 \v 3 That is why I have not sent you any rain at the times of the year when you needed it.
-\q But you are like prostitutes [MET] 
+\q But you are like prostitutes \f + \fr metaphor \f* 
 \q2 who are not at all ashamed \add for what they have done\add*.
 \q
 \v 4 Now each of you says to me, ‘You are my father! 
 \q2 You have loved me ever since I was young! 
 \q
-\v 5 So surely you will not [RHQ] be angry with me forever!’ 
+\v 5 So surely you will not \f + \fr rhetorical question \f* be angry with me forever!’ 
 \q But you will not quit sinning!” 
 \s Israel's idolatry 
 \p
 \v 6  \add One day\add* when Josiah was the king of Judah, Yahweh said to me, “Have you seen what the people of Israel have
 done? They have turned away from me, like a woman who has abandoned her husband and sleeps with other men. They have gone up on
-every hilltop and under every big tree and worshiped idols there [MET].
+every hilltop and under every big tree and worshiped idols there \f + \fr metaphor \f*.
 \v 7 I thought that they would return to me, so I said to them, ‘Come back to me!’ But they refused. So I sent them away
 \add to other countries, like a man\add* writes a note saying that he is divorcing his wife and then sends his wife away
-because she has committed adultery [MET]. 
+because she has committed adultery \f + \fr metaphor \f*. 
 \v 8 The people of Judah saw what I did to them. But they are just like the people of Israel. They are not afraid
 \add of what I will do to them\add*. They also \add have turned away from me and are worshiping idols
-like\add* women who abandon their husbands and go to other men [MET].
+like\add* women who abandon their husbands and go to other men \f + \fr metaphor \f*.
 \v 9 They thought that worshiping idols did not matter to me, so they have made the entire land unacceptable to me by
 worshiping idols of wood and stone. 
 \v 10 The people of Judah have pretended to return to me, but they have not really done that.
@@ -62,7 +62,7 @@ worshiping idols of wood and stone.
 \q2 leaders who will guide you \add well\add* because they will know and understand
 \add what pleases me\add*. 
 \q
-\v 16 And when you become very numerous [DOU] in your land, 
+\v 16 And when you become very numerous \f + \fr doublet \f* in your land, 
 \q2 you will not need to talk about the Sacred Chest that contained the Ten Commandments.
 \q You will not think about it, 
 \q2 and you will not want to make a new one. 
@@ -71,7 +71,7 @@ worshiping idols of wood and stone.
 \q People from all nations will come there to worship me. 
 \q2 And they will no longer stubbornly do the evil things that they desire in their inner beings.
 \q
-\v 18 At that time you people [MTY] of Israel and the people of Judah will return from
+\v 18 At that time you people \f + \fr metonymy \f* of Israel and the people of Judah will return from
 \add being ◄exiled/forced to live► in\add* lands to the northeast.
 \q2 You will return to the land that I gave to your ancestors to belong to them forever.
 \p
@@ -107,6 +107,6 @@ to acquire.
 \q2 He has taken away their flocks \add of sheep\add* and herds \add of
 cattle\add*, their sons and their daughters. 
 \q
-\v 25 So, now we should lie down feeling very ashamed [DOU], 
+\v 25 So, now we should lie down feeling very ashamed \f + \fr doublet \f*, 
 \q2 because we and our ancestors have sinned against Yahweh our God,
 \q and we have never obeyed him.” 

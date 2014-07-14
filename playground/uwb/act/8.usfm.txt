@@ -14,13 +14,13 @@
 \v 4 The believers who had left Jerusalem went to different places, where they continued preaching the message about Jesus.
 \v 5  \add One of those believers whose name was\add* Philip went down
 \add from Jerusalem\add* to a city in Samaria \add province\add*. There he was telling
-\add the people that Jesus is\add* [MTY] the Messiah. 
+\add the people that Jesus is\add* \f + \fr metonymy \f* the Messiah. 
 \v 6 Many people there heard Philip \add speak\add* and saw the miraculous things that he was doing. So they all ◄paid close
 attention to/listened carefully to► his words. 
 \v 7 For \add example, when Philip commanded\add* evil spirits who controlled many people
 \add that they should come out of them\add*, they came out, while those spirits screamed. Also, many people who were paralyzed
 and \add many others\add* who were lame were healed. 
-\v 8 So \add many people\add* [MTY] in that city greatly rejoiced.
+\v 8 So \add many people\add* \f + \fr metonymy \f* in that city greatly rejoiced.
 \s Acts 8:9-13 
 \s Philip baptized many Samaritans, including a sorcerer. 
 \p
@@ -31,8 +31,8 @@ the people in Samaria \add province by doing that\add*. He continually claimed t
 \add because\add* God has caused him to be a great \add person\add*.”
 \v 11 They continued to listen to him carefully, because for a long time he had astonished them by practicing sorcery.
 \v 12 But then they believed Philip's \add message\add* when he preached to them about
-\add how\add* God desires to rule [MET] \add the lives of people who believe in
-him\add*, and about Jesus being the Messiah [MTY]. Both the men and the women who believed in Jesus were baptized.
+\add how\add* God desires to rule \f + \fr metaphor \f* \add the lives of people who believe in
+him\add*, and about Jesus being the Messiah \f + \fr metonymy \f*. Both the men and the women who believed in Jesus were baptized.
 {\add Philip\add* was baptizing both the men and the women \add who had come to believe in
 Jesus\add*}. 
 \v 13 Simon himself believed \add Philip's message\add* and, after he was baptized {after
@@ -41,16 +41,16 @@ Jesus\add*}.
 \s Acts 8:14-17 
 \s Samaritan believers received the power of the Holy Spirit. 
 \p
-\v 14 When the apostles in Jerusalem heard that \add many people\add* [PRS]
+\v 14 When the apostles in Jerusalem heard that \add many people\add* \f + \fr personification \f*
 \add throughout\add* Samaria \add district\add* had believed the message from God
 \add about Jesus\add*, they sent Peter and John there. 
 \v 15 When Peter and John arrived in Samaria, they prayed for those
 \add new believers\add* in order that the Holy Spirit's \add power\add* would come to them.
 \v 16  \add Peter and John realized that\add* the Holy Spirit had not yet begun to empower any of them. They had been baptized
-{\add Philip\add* had baptized them} \add because they had believed\add* in [MTY] the Lord Jesus,
+{\add Philip\add* had baptized them} \add because they had believed\add* in \f + \fr metonymy \f* the Lord Jesus,
 \add but they did not know about the Holy Spirit\add*. 
 \v 17  \add Then Peter and John\add* placed their hands on \add the heads
-of\add* each person, and they received the \add power of\add* [MTY] the Holy Spirit.
+of\add* each person, and they received the \add power of\add* \f + \fr metonymy \f* the Holy Spirit.
 \s Acts 8:18-24 
 \s Peter denounced Simon the sorcerer. 
 \p
@@ -91,7 +91,7 @@ that extends from Jerusalem to Gaza.” \add That was\add* a road in a desert ar
 \add God\add*, 
 \v 28 and he was returning \add home\add* and was seated \add riding\add* in his chariot.
 \add As he was riding\add*, he was reading \add out loud from\add* what the prophet Isaiah
-\add had written\add* [MTY] \add long ago\add*. 
+\add had written\add* \f + \fr metonymy \f* \add long ago\add*. 
 \s Acts 8:29-31 
 \s The official could not understand what he was reading. 
 \p
@@ -102,7 +102,7 @@ it\add*. Then he heard the official reading what the prophet Isaiah
 \add had written\add*. He asked the man, “Do you\add (sg)\add* understand what you are reading?”
 \v 31 He answered Philip, “\add No!\add* ◄I cannot possibly\add understand
 it\add* if \add there is\add* no one to explain it to me!/How can I
-\add understand it\add* if \add there is\add* no one to explain it to me?► [RHQ]”
+\add understand it\add* if \add there is\add* no one to explain it to me?► \f + \fr rhetorical question \f*”
 \s Acts 8:31b-35 
 \s Philip preached about Jesus to the official. 
 \p Then the man said to Philip, “Please come up \add and\add* sit beside me.”
@@ -111,7 +111,7 @@ it\add* if \add there is\add* no one to explain it to me!/How can I
 \q He will \add be silent when\add* they lead him away to kill him
 \q \add like when people lead\add* a sheep \add away to kill it\add*.
 \q As a young sheep is silent when its wool is being cut off {someone cuts off its wool},
-\add similarly\add* he will not protest [MTY] \add when people cause him to
+\add similarly\add* he will not protest \f + \fr metonymy \f* \add when people cause him to
 suffer\add*. 
 \q
 \v 33 When he will be humiliated by being accused falsely {people will humiliate
@@ -123,8 +123,8 @@ having\add any descendants\add* on the earth.
 \v 34 The official asked Philip \add concerning these words that he was
 reading\add*, “Tell me, who was the prophet writing about? \add Was he
 writing\add* about himself or about someone else?” 
-\v 35 So Philip replied [MTY] to him and began \add to explain\add* that Scripture passage. He told him the good message about
-[MTY] Jesus. \add So the official understood and believed in Jesus\add*.
+\v 35 So Philip replied \f + \fr metonymy \f* to him and began \add to explain\add* that Scripture passage. He told him the good message about
+\f + \fr metonymy \f* Jesus. \add So the official understood and believed in Jesus\add*.
 \s Acts 8:36-39 
 \s Philip baptized the official. Then the Spirit took Philip away.
 \p
@@ -132,7 +132,7 @@ writing\add* about himself or about someone else?”
 of\add* water \add near the road\add*. Then the official said \add to
 Philip\add*, “Look, \add there is a pond of\add* water! ◄I would like you to baptize me, because I do not know of anything that
 would prevent me from being baptized {prevent \add you\add* from baptizing me.}/Do you know of anything that would prevent me
-from being baptized {prevent \add you\add* from baptizing me}?► [RHQ]”
+from being baptized {prevent \add you\add* from baptizing me}?► \f + \fr rhetorical question \f*”
 \v 38 So the official told \add the driver\add* to stop the chariot. Then both Philip and the official went down into the
 \add pond of\add* water, and \add Philip\add* baptized him. 
 \v 39 When they came up out of the water, suddenly God's Spirit took Philip away. The official never saw Philip again. But

@@ -11,7 +11,7 @@
 \v 3 You have done awesome deeds which we were not expecting you to do;
 \q2 the mountains shook when you came down \add at Sinai Mountain\add*.
 \q
-\v 4 Since ◄long ago/the world began►, no one [SYN] has ever seen or heard about a God like you;
+\v 4 Since ◄long ago/the world began►, no one \f + \fr synecdoche \f* has ever seen or heard about a God like you;
 \q2 you help those who ◄depend on/trust in► you. 
 \q
 \v 5 You help those who joyfully do what is right, 
@@ -22,8 +22,8 @@
 \q2 so only if we continually do what you want us to do will we be saved.
 \q
 \v 6 We have all become people who are not fit to worship you; 
-\q2 all of the good things that we have done are only like [SIM] filthy/blood-stained rags.
-\q Because of our sins, we are like [SIM] leaves that dry up 
+\q2 all of the good things that we have done are only like \f + \fr simile \f* filthy/blood-stained rags.
+\q Because of our sins, we are like \f + \fr simile \f* leaves that dry up 
 \q2 and are blown away by the wind. 
 \q
 \v 7 None \add of our people\add* worships you, 
@@ -32,14 +32,14 @@
 \q2 It is as though you have caused us to be forced to continue our sinful behavior.
 \q
 \v 8 Yahweh, you are our father. 
-\q2 We are like [MET] clay, 
-\q2 and you created us, like [MET] a potter \add creates pottery\add*.
+\q2 We are like \f + \fr metaphor \f* clay, 
+\q2 and you created us, like \f + \fr metaphor \f* a potter \add creates pottery\add*.
 \q
 \v 9 Yahweh, do not continue to be angry with us; 
 \q2 do not keep thinking about our sins forever. 
 \q Do not forget that we are all your people. 
 \q
-\v 10 All of your towns \add in Judah\add* have become like [MET] deserts;
+\v 10 All of your towns \add in Judah\add* have become like \f + \fr metaphor \f* deserts;
 \q2 even Jerusalem has been destroyed. 
 \q
 \v 11 Your glorious temple on Zion Hill, where our ancestors worshiped you,

@@ -8,14 +8,14 @@ scroll.
 outside as well as on its inside, and it was sealed {Someone had written on the outside as well as on the inside of the scroll
 and sealed it} with seven seals. 
 \v 2 I saw a strong angel who was announcing in a loud voice, “◄The person who is worthy to break the seals of the scroll and
-then to open it should come to do it!/Who is worthy to break the seals of the scroll and then to open it?►” [RHQ]
+then to open it should come to do it!/Who is worthy to break the seals of the scroll and then to open it?►” \f + \fr rhetorical question \f*
 \v 3 But no created being in heaven nor any created being on the earth nor any created being under the earth was able to open
 the scroll and see what was written on it. 
 \v 4 I cried loudly because there was no one worthy to do that. 
 \v 5 But one of the elders said to me, “Do not cry any longer! Look, the one who is called the Lion from the tribe of Judah,
 the Messiah who is the descendant of King David, has overcome Satan! As a result, he is worthy to break the seven seals on the
 scroll and open it!” 
-\v 6 Then I saw Jesus, the one who is like a [MET] sacrificial lamb, standing there. He stood near the throne, in the midst of
+\v 6 Then I saw Jesus, the one who is like a \f + \fr metaphor \f* sacrificial lamb, standing there. He stood near the throne, in the midst of
 the four living creatures and the elders. It appeared that he had been killed {that people had killed him}, but he was alive
 again. He had seven horns, and he had seven eyes that symbolize the Spirit of God who has all kinds of power (OR, who is also
 symbolized as seven spirits). \add He\add* sends \add God's\add* Spirit out into all the earth.
@@ -27,11 +27,11 @@ him\add*. They each had a harp, and they had golden bowls full of incense that
 \v 9 The living \add creatures\add* and the elders sang a new song. They sang:
 \q You are worthy to receive the scroll and to open its seals, 
 \q because you were killed, and because you redeemed/bought 
-\q people for God from every tribe, language [MTY], people-group,
+\q people for God from every tribe, language \f + \fr metonymy \f*, people-group,
 \q and nation with the blood that flowed from your body when you died.
 \q
 \v 10 You have caused them to become a people over whom our God rules,
-\q and to become priests who serve him, and they will rule on [MTY] the earth.
+\q and to become priests who serve him, and they will rule on \f + \fr metonymy \f* the earth.
 \p
 \v 11 As I \add continued to\add* look, I heard the voices of many angels around the throne and around the living
 \add creatures\add* and the elders. There were millions of them, a

@@ -1,16 +1,16 @@
 \c 37  
 \s Elihu continued his final speech 
 \q
-\v 1 “My heart thumps wildly [DOU] when \add I think about\add* that.
+\v 1 “My heart thumps wildly \f + \fr doublet \f* when \add I think about\add* that.
 \q
 \v 2 Listen, all of you, to the thunder, 
-\q2 which is like God's voice [DOU]. 
+\q2 which is like God's voice \f + \fr doublet \f*. 
 \q
 \v 3 He sends thunder all across the sky, 
 \q2 and he sends lighting to the most distant places on the earth.
 \q
 \v 4 After \add the lightning flashes\add*, we hear the thunder 
-\q2 which is like [MET] God's majestic voice; 
+\q2 which is like \f + \fr metaphor \f* God's majestic voice; 
 \q2 he does not restrain the lightning when he speaks. 
 \q
 \v 5 When God speaks, it is awesome, like thunder; 
@@ -19,7 +19,7 @@
 \v 6 He commands the snow to fall on the ground, 
 \q2 and \add sometimes\add* he causes it to rain very hard. 
 \q
-\v 7 And \add when God does that\add*, it prevents people [SYN] from working,
+\v 7 And \add when God does that\add*, it prevents people \f + \fr synecdoche \f* from working,
 \q2 in order that all people may know that he is the one who has done that (OR, what he can do).
 \q
 \v 8  \add When it rains\add*, the animals go into their hiding places,
@@ -29,7 +29,7 @@
 start\add*, 
 \q2 and the cold wind comes from the north. 
 \q
-\v 10  \add In the ◄winter/cold season►, the cold north wind is like\add* God's breath that causes [MET] water to freeze
+\v 10  \add In the ◄winter/cold season►, the cold north wind is like\add* God's breath that causes \f + \fr metaphor \f* water to freeze
 \q2 and the lakes/streams to become ice. 
 \q
 \v 11 God fills the clouds with moisture/hail, 
@@ -46,18 +46,18 @@ start\add*,
 \q2 stop and think about the wonderful things that God does. 
 \q
 \v 15 ◄Do you know how God commands the lightning to flash down from his clouds?/We do not know how God commands the lightning
-to flash down from his clouds.► [RHQ] 
+to flash down from his clouds.► \f + \fr rhetorical question \f* 
 \q
 \v 16 Only God knows everything perfectly; 
 \q2 so ◄do you know how he causes the clouds to ‘move/float’ ‘amazingly/wonderfully’ across the sky?/you certainly do not know
-how he causes the clouds to ‘move/float’ ‘amazingly/wonderfully’ across the sky!► [RHQ]
+how he causes the clouds to ‘move/float’ ‘amazingly/wonderfully’ across the sky!► \f + \fr rhetorical question \f*
 \q
 \v 17 No, you just sweat there in your clothes; 
 \q2 \add it is very oppressive\add* when the \add hot\add* wind stops blowing from the south and
 \add all the leaves on the trees\add* ◄become still/do not move►.
 \q
-\v 18 ◄Can you stretch out the skies like God does and make them as hard as [SIM] a sheet of polished brass?/You certainly
-cannot stretch out the skies like God does and make them as hard as [SIM] a sheet of polished brass!► [RHQ]
+\v 18 ◄Can you stretch out the skies like God does and make them as hard as \f + \fr simile \f* a sheet of polished brass?/You certainly
+cannot stretch out the skies like God does and make them as hard as \f + \fr simile \f* a sheet of polished brass!► \f + \fr rhetorical question \f*
 \b
 \q
 \v 19 Job, tell us(exc) what we should say to God; 

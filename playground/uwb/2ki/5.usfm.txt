@@ -21,13 +21,13 @@ and\add* 750 pounds of silver, 150 pounds of gold, and ten sets of clothing, to 
 \p
 \v 7  \add When he arrived in Samaria, he gave the letter to the
 king\add* of Israel. The king read the letter. Then, being very dismayed, the king tore his clothes and said, “I am not God
-[RHQ]! I am not able to enable people to live or to die [RHQ]! Why does
+\f + \fr rhetorical question \f*! I am not able to enable people to live or to die \f + \fr rhetorical question \f*! Why does
 \add the king\add* who wrote this letter request me to cure this man of his leprosy?
 \add I think that because I do not have power to do that\add*, the king of Syria will be angry, and
 \add his army\add* will invade/attack us again!” 
 \p
 \v 8 But the prophet Elisha heard that the king of Israel had torn his robe
-\add and said that\add*. So he sent a message to the king, saying, “Why are you upset/frustrated [RHQ]? Send Naaman to me, and
+\add and said that\add*. So he sent a message to the king, saying, “Why are you upset/frustrated \f + \fr rhetorical question \f*? Send Naaman to me, and
 he will find out that \add because\add* I am a true prophet \add here\add* in Israel,
 \add I can help/heal him\add*.” 
 \v 9 So Naaman went with his horses and chariots to Elisha's house and waited outside the door.
@@ -38,12 +38,12 @@ longer have leprosy.”
 \v 11 But Naaman became very angry. He said, “I thought that surely he would wave his hand over the leprosy, and pray to Yahweh
 his god, and heal me! 
 \v 12 Surely the Abana River and the Pharpar River in Damascus \add in my own country of
-Syria\add* are [RHQ] better than any of the rivers in Israel! Why can I not wash in those rivers and be healed?” [RHQ] So he
+Syria\add* are \f + \fr rhetorical question \f* better than any of the rivers in Israel! Why can I not wash in those rivers and be healed?” \f + \fr rhetorical question \f* So he
 turned and walked away with great anger/disgust. 
 \p
 \v 13 But his servants came to him, and \add one of them\add* said, “Sir, if that prophet had told you to do something
-difficult, you would certainly [RHQ] have done it. So you should certainly do what he says and wash
-\add in the Jordan River\add* to be healed!” [RHQ] 
+difficult, you would certainly \f + \fr rhetorical question \f* have done it. So you should certainly do what he says and wash
+\add in the Jordan River\add* to be healed!” \f + \fr rhetorical question \f* 
 \v 14 So Naaman went down to the Jordan \add River\add* and washed himself seven times, as ◄the prophet/Elisha► told him to do.
 Then his skin was restored/healed, and it became healthy/smooth, like the skin of a young child.
 \p
@@ -84,7 +84,7 @@ servants and sent the servants back to Naaman. Then he took those things into hi
 \v 25 When he went to Elisha, Elisha asked him, “Where did you go, Gehazi?” Gehazi replied, “I did not go anywhere.”
 \p
 \v 26 Elisha asked him, “Do you not \add realize that\add* my spirit was there when Naaman got out of his chariot to talk with
-you? This is certainly not [RHQ] the time to accept gifts of money and clothes and olive groves and vineyards and sheep and
+you? This is certainly not \f + \fr rhetorical question \f* the time to accept gifts of money and clothes and olive groves and vineyards and sheep and
 oxen and servants! 
 \v 27 Because you have done this, you and your children and all your descendants, forever, will have leprosy just like Naaman
 had!” And when Gehazi left the room, he was a leper! His skin was as white as snow!

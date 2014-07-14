@@ -51,11 +51,11 @@ punish me for my sins by causing my son to die?”
 \add body\add* on his bed. 
 \v 20 Then Elijah cried out to Yahweh, “O Yahweh my God, this widow
 \add has kindly allowed\add* me to stay in her home. So why have you brought this tragedy to her and caused her son to die?”
-[RHQ] 
+\f + \fr rhetorical question \f* 
 \v 21 Then Elijah stretched himself on top of the boy's \add body\add* and called out to Yahweh saying, “Yahweh my God, please
 allow this boy to become alive again!” He did this three times. 
 \p
-\v 22 Yahweh heard what Elijah prayed, and \add he caused\add* the boy to become alive again [DOU].
+\v 22 Yahweh heard what Elijah prayed, and \add he caused\add* the boy to become alive again \f + \fr doublet \f*.
 \v 23 Elijah carried the boy down \add the steps\add* and gave him to his mother. He said, “Look, your son is alive!”
 \p
 \v 24 The woman said to Elijah, “Now I know \add for certain\add* that you are a prophet and that the words that you speak are

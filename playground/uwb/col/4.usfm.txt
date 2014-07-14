@@ -6,15 +6,15 @@
 \s Pray to God persistently. And pray that God will give me opportunities to declare the message about Christ.
 \p
 \v 2 Pray to God persistently, and as you pray be alert and be thanking God.
-\v 3 Since I am in prison [MTY] because \add I declared the message about
-Christ\add* that God has now revealed, pray also for me that God will give me opportunities [MTY] to speak, in order that I
+\v 3 Since I am in prison \f + \fr metonymy \f* because \add I declared the message about
+Christ\add* that God has now revealed, pray also for me that God will give me opportunities \f + \fr metonymy \f* to speak, in order that I
 might declare it. 
 \v 4 That is, pray for me that \add God will enable me to\add* make his message known publicly. I need to do this because I
 know that I should declare it. 
 \s Colossians 4:5-6 
 \s Always speak wisely and graciously to those who do not believe in the Lord Jesus.
 \p
-\v 5 Act wisely towards those who do not believe in the Lord Jesus [MTY]; use every opportunity to do that.
+\v 5 Act wisely towards those who do not believe in the Lord Jesus \f + \fr metonymy \f*; use every opportunity to do that.
 \v 6 In particular, always speak graciously and in a pleasant way
 \add to those who do not believe in the Lord Jesus\add*. As a result, you will come to know in what manner you should answer
 each one of them. 
@@ -63,4 +63,4 @@ that I am in prison.
 \p
 \v 18 I, Paul, ◄am thinking fondly about you/send you my greetings►. Having taken the pen from my scribe, I am now writing this
 myself in order that you may know that I have truly sent this letter. Remember to pray about the fact that I am in prison
-[MTY]. I pray that our Lord Jesus Christ would continue to act graciously towards you all.
+\f + \fr metonymy \f*. I pray that our Lord Jesus Christ would continue to act graciously towards you all.

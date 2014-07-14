@@ -68,9 +68,9 @@ children and go \add back to their homes\add*.”
 \v 23 David replied, “No, my fellow Israelis, that would not be right. Yahweh has protected us and enabled us to defeat the
 enemies who attacked our town. 
 \v 24 ◄Who will pay attention to you if you say things like that?/No one will pay attention to you if you say things like
-that.► [RHQ] The men who stayed here with our supplies will get the same amount that the men who went into the battle will get.
+that.► \f + \fr rhetorical question \f* The men who stayed here with our supplies will get the same amount that the men who went into the battle will get.
 They will all receive the same amount.” 
-\v 25 David made that to be a law [DOU] for the Israeli people, and that is still a law in Israel.
+\v 25 David made that to be a law \f + \fr doublet \f* for the Israeli people, and that is still a law in Israel.
 \p
 \v 26 When David \add and all the others\add* arrived in Ziklag, David sent to his friends who were leaders in Judah some of
 the things that they had captured from the Amalek people-group. He said to them, “Here is a present for you. These are things

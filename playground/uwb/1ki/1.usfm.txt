@@ -8,7 +8,7 @@ can sleep close to you and enable you to become warm.”
 \p
 \v 3  \add The king gave them permission, so\add* they searched throughout Israel for a beautiful young woman. They found a
 woman named Abishag, from Shunem \add town\add*, and brought her to the king.
-\v 4 She was \add truly\add* very beautiful. She took care of [DOU] the king, but the king did not have sex with her.
+\v 4 She was \add truly\add* very beautiful. She took care of \f + \fr doublet \f* the king, but the king did not have sex with her.
 \s Adonijah tried to become the king 
 \p
 \v 5-6  \add After Absalom died\add*, David's oldest son was Adonijah, whose mother was Haggith. He was a very
@@ -32,7 +32,7 @@ to come. He also invited all of the king's officials from Judah to come to the c
 \v 11 Nathan \add found out what they were doing, so he went to\add* Solomon's mother Bathsheba and asked her, “Have you not
 heard that Haggith's son Adonijah is causing himself to become the king? And King David does not know about it!
 \v 12 So if you want to save yourself and your son Solomon from being killed, allow me to tell you what you should do.
-\v 13 Go immediately to King David. Say to him, ‘Your Majesty, you solemnly promised me [RHQ] that my son Solomon would become
+\v 13 Go immediately to King David. Say to him, ‘Your Majesty, you solemnly promised me \f + \fr rhetorical question \f* that my son Solomon would become
 the king after you \add die\add* and that he would sit on your throne
 \add and rule\add*. So why is it that Adonijah \add has said that
 he\add* is now the king?’ 
@@ -49,9 +49,9 @@ he\add* is now the king?’
 \v 19 He has sacrificed a lot of oxen and fattened cattle and sheep, and he has invited all of your other sons to the
 celebration. He has also invited Abiathar the priest and Joab the commander of your army, but he did not invite your son
 Solomon. 
-\v 20 Your Majesty, all the people [SYN] of Israel are expecting you to tell them who is the one who will become king after you
+\v 20 Your Majesty, all the people \f + \fr synecdoche \f* of Israel are expecting you to tell them who is the one who will become king after you
 are no longer the king. 
-\v 21 If you do not do that, what will happen is that after you die [EUP] people will consider that my son Solomon and I are
+\v 21 If you do not do that, what will happen is that after you die \f + \fr euphemism \f* people will consider that my son Solomon and I are
 rebelling, \add and they will execute us because we did not help Adonijah to become
 king\add*.” 
 \p
@@ -67,7 +67,7 @@ army commander, and Abiathar the priest. They are all eating and drinking with h
 Adonijah will live a long time!’ 
 \v 26 But he did not invite me or Zadok the priest or Benaiah or Solomon.
 \v 27 Did you, being the king, say that they should do this without telling your other officials who you want to become king
-[MTY] after you are no longer the king?” 
+\f + \fr metonymy \f* after you are no longer the king?” 
 \s David arranged for Solomon to be declared king 
 \p
 \v 28 Then King David said, “Tell Bathsheba to come in here again.” So
@@ -77,7 +77,7 @@ Adonijah will live a long time!’
 \add worship\add* listening, that your son Solomon would be king after I am no longer the king. Today, as surely as Yahweh
 lives, \add I solemnly declare that\add* I will do what I promised.”
 \v 31 Bathsheba knelt down with her face on the ground and said, “Your Majesty, I hope/desire that you will live for many more
-years [HYP]!” 
+years \f + \fr hyperbole \f*!” 
 \p
 \v 32 Then King David said, “Summon Zadok the priest, Nathan the prophet, and Benaiah.”
 \add So someone went and summoned them\add*. When they came in, 
@@ -113,9 +113,9 @@ whom we can trust, so you must be bringing us good news!”
 mule. 
 \v 45 They \add went down to\add* Gihon \add spring\add*, and there Zadok and Nathan anointed him to become the king. Now they
 have returned from there to the city, shouting joyfully. That is why there is that great/loud noise that you are hearing.
-\v 46 So Solomon is now our king [MTY]. 
+\v 46 So Solomon is now our king \f + \fr metonymy \f*. 
 \v 47 Furthermore, the palace officials came to His Majesty, King David, to tell him that they approved of what he had done.
-They said, ‘We wish/hope that our God will enable Solomon [MTY] to become more famous than you have been and enable him to be a
+They said, ‘We wish/hope that our God will enable Solomon \f + \fr metonymy \f* to become more famous than you have been and enable him to be a
 better king than you have been.’ When they said that, the king, lying on his bed, bowed his head to worship
 \add Yahweh\add*. 
 \v 48 Then he said, ‘I praise Yahweh, the God whom we Israelis \add worship\add*, because he has allowed one of my sons to

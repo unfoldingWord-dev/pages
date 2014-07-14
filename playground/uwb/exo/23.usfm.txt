@@ -19,10 +19,10 @@ load\add*, help the owner to get the donkey up again, \add even if\add* he is so
 \v 6 Decide the cases of poor people who are on trial \add as\add* fairly
 \add as you judge the cases of other people\add*. 
 \p
-\v 7 Do not accuse people falsely. Do not decide that innocent and righteous [DOU] people should be executed, because I will
+\v 7 Do not accuse people falsely. Do not decide that innocent and righteous \f + \fr doublet \f* people should be executed, because I will
 ◄punish/not forgive► people who do such an evil thing. 
 \p
-\v 8 Do not accept money that is a bribe, because officials who accept bribes are not able to [MTY] decide what is right to do,
+\v 8 Do not accept money that is a bribe, because officials who accept bribes are not able to \f + \fr metonymy \f* decide what is right to do,
 and they do not allow innocent people to be treated fairly. 
 \p
 \v 9 Do not mistreat foreigners \add who live among you\add*. You know
@@ -39,13 +39,13 @@ harvest►, allow the wild animals to eat them. Do the same thing with your grap
 \add who live among you\add* also \add to\add* \add rest and\add* have their strength refreshed.
 \p
 \v 13 Make certain that you obey everything that I have commanded
-\add you to do\add*. Do not pray to [MTY] other gods. Do not even mention their names.”
+\add you to do\add*. Do not pray to \f + \fr metonymy \f* other gods. Do not even mention their names.”
 \s Rules about three annual festivals 
 \p
 \v 14 “Every year you must celebrate three festivals to \add honor\add* me.
 \v 15  \add The first one\add* is the festival of bread that has no yeast. Celebrate it in the month
 \add that is named\add* Abib. That is the month in which you left Egypt. Celebrate it in the way that I commanded you. Always
-bring [LIT] an offering when you come to worship me. 
+bring \f + \fr litotes \f* an offering when you come to worship me. 
 \v 16 The second one is the festival of harvesting. During that festival you must offer to me the first parts/harvest of your
 crops that grow from the seeds that you planted. The third one is the festival of shelters. That will be after you finish
 harvesting your grain and grapes and fruit. 
@@ -62,9 +62,9 @@ harvest. When you kill a ◄young animal/kid \add or lamb or calf►\add*, do no
 \p
 \v 20-21 “Note this: I am going to send an angel ahead of you, to guard you as you travel and to bring you safely to the place
 that I have prepared \add for you\add*. Pay attention to what he says and obey him. Do not rebel against him, because he will
-have my authority [MTY] and he will ◄punish/not forgive► [LIT] you if you rebel against him.
+have my authority \f + \fr metonymy \f* and he will ◄punish/not forgive► \f + \fr litotes \f* you if you rebel against him.
 \v 22 But if you pay attention to what he says and if you do all that I tell you
-\add to do\add*, I will fight strongly [DOU] against all of your enemies.
+\add to do\add*, I will fight strongly \f + \fr doublet \f* against all of your enemies.
 \v 23 My angel will go ahead of you, and will take you to where the Amor and Heth and Periz and Canaan and Hiv and Jebus
 people-groups live, and I will completely get rid of them. 
 \v 24 Do not bow down before their gods/idols or worship them. And do not do the things
@@ -87,9 +87,9 @@ live everywhere in the land.
 \v 31 I will cause the borders of your land to extend from the ◄Red Sea/Gulf of Aqaba►
 \add in the southeast\add* to the Mediterranean Sea \add in the northwest\add*, and from the
 \add Sinai\add* Desert \add in the southwest\add* to the \add Euphrates\add* River
-\add in the northeast of the country\add*. I will give you the power [MTY] to expel the people who live there, so that you will
+\add in the northeast of the country\add*. I will give you the power \f + \fr metonymy \f* to expel the people who live there, so that you will
 expel them as you occupy more of the country. 
 \v 32 You must not make any agreement/treaty with those people or with their gods.
 \v 33 Do not allow \add those people\add* to live in your land, in order that they do not cause you to sin against me. If you
 worship their gods, \add you will not be able to escape from worshiping them and sinning against me, just like someone
-caught\add* in a trap \add is unable to escape\add* [MET].” 
+caught\add* in a trap \add is unable to escape\add* \f + \fr metaphor \f*.” 

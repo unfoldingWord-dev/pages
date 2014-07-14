@@ -1,7 +1,7 @@
 \c 8  
 \s Wisdom calls to us 
 \q
-\v 1 It is as if wisdom, with great understanding \add of many things\add*, is calling [PRS] out
+\v 1 It is as if wisdom, with great understanding \add of many things\add*, is calling \f + \fr personification \f* out
 \add to people\add*. 
 \q
 \v 2 Wisdom stands on hilltops and at crossroads. 
@@ -18,7 +18,7 @@
 \q2 What I say is what is fair/right. 
 \q
 \v 7 I speak what is true; 
-\q2 I detest speaking [MTY] what is false/deceptive. 
+\q2 I detest speaking \f + \fr metonymy \f* what is false/deceptive. 
 \q
 \v 8 Everything that I say is honest; 
 \q2 there is nothing that I say that deceives people. 
@@ -111,4 +111,4 @@ out\add*.
 \q2 and Yahweh will be pleased with them. 
 \q
 \v 36 But those who stray away from me just harm themselves. 
-\q2 All those who hate me, \add it is as though\add* [IRO] they are loving death.”
+\q2 All those who hate me, \add it is as though\add* \f + \fr irony \f* they are loving death.”

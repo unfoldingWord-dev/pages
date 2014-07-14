@@ -9,7 +9,7 @@ to Egypt,
 \v 3 Stay in this land for a while, and I will help you and bless you, because it is to you and your descendants that I will
 give all these lands, and I will do what I solemnly promised to your father.
 \v 4 I will cause your descendants to be as numerous as the stars in the sky. I will give to your descendants all these lands,
-and I will cause your descendants to be a blessing to the people of [MTY] all nations on the earth.
+and I will cause your descendants to be a blessing to the people of \f + \fr metonymy \f* all nations on the earth.
 \v 5 I will do that because Abraham obeyed me. He obeyed all that I told him to do, all that I commanded him to do, all that I
 declared and all the laws that I gave him.” 
 \p Isaac went and asked King Abimelech if he would permit him to live in the Gerar area. The king said, “Okay,”
@@ -23,8 +23,8 @@ but if I say that she is my wife, no negotiation is possible\add* right away. Th
 window in his palace and was surprised to see Isaac caressing his wife Rebekah.
 \v 9 So Abimelech summoned Isaac and said to him, “Now I realize that she is really your wife! So why did you say, ‘She is my
 sister’?” Isaac replied to him, “I said that because I thought that someone here might kill me to get her.”
-\v 10 Abimelech said, “◄You should not have done this to us!/Why did you do this?► [RHQ] One of our people might have ◄had sex
-with/slept with► [EUP] your wife, and you would have caused us to be guilty of a great sin!”
+\v 10 Abimelech said, “◄You should not have done this to us!/Why did you do this?► \f + \fr rhetorical question \f* One of our people might have ◄had sex
+with/slept with► \f + \fr euphemism \f* your wife, and you would have caused us to be guilty of a great sin!”
 \v 11 Then Abimelech commanded all his people, saying, “Do not harm/molest this man or his wife! Anyone who does that will
 surely be executed!” 
 \s The Philistines argued with Abraham about wells 
@@ -63,7 +63,7 @@ the commander of his army.
 you come to me now?” 
 \v 28 One of them answered, “We have seen that Yahweh helps you. So we said to each other, ‘We should have an agreement between
 us and you. We should make a peace treaty with you, 
-\v 29 stating that you will not harm us, in the same way that we did not molest [EUP] you.’ We always treated you well and sent
+\v 29 stating that you will not harm us, in the same way that we did not molest \f + \fr euphemism \f* you.’ We always treated you well and sent
 you away peacefully. And now Yahweh is blessing you.” 
 \v 30 So Isaac made a feast for them, and they all ate and drank.
 \v 31 Early the next morning they all ◄swore/solemnly promised► to each other that they would do what they had promised. Then

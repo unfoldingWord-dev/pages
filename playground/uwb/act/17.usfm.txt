@@ -28,7 +28,7 @@ house\add*. They wanted to bring Paul and Silas outside to where the crowd
 \v 6 They discovered that Paul and Silas were not there, but they found Jason
 \add and grabbed him\add*. They dragged him and some of the \add other\add* believers to where the city officials/authorities
 and \add many other people were gathered\add*. The men \add who had brought
-Jason\add* shouted, “Those \add two\add* men have caused trouble [IDM] everywhere [HYP]
+Jason\add* shouted, “Those \add two\add* men have caused trouble \f + \fr idiom \f* everywhere \f + \fr hyperbole \f*
 \add they have gone\add*. Now they have come to our city, 
 \v 7 and \add this fellow\add* Jason invited them to stay at his house. All the people
 \add of this sect\add* oppose what our Emperor has decreed. They say that another person, whose name is Jesus, is
@@ -68,7 +68,7 @@ him\add*, “Tell Silas and Timothy to come to me \add here in Athens\add* as so
 \s In Athens, idols distressed Paul, so he talked to many people about Jesus.
 \p
 \v 16 In Athens, Paul waited for Silas and Timothy \add to arrive. In the meantime, he walked around in the city.
-He\add* became very distressed/disturbed because he saw that throughout [HYP] the city there were many idols.
+He\add* became very distressed/disturbed because he saw that throughout \f + \fr hyperbole \f* the city there were many idols.
 \v 17 So he went to the Jewish meeting place and talked \add about
 Jesus\add* with the Jews, and also with the Greeks who had accepted what the Jews believe. He also went to the public
 square/center every day and talked to the people \add whom he met\add* there.
@@ -78,7 +78,7 @@ square/center every day and talked to the people \add whom he met\add* there.
 \v 18 Paul met some teachers who liked to talk about what people should believe.
 \add People called\add* some of them Epicureans and \add they called\add* others Stoics. They told Paul
 \add what they believed\add*, and they asked him \add what he believed.
-Then\add* some of them said \add to one another\add*, “This ignorant person is just talking nonsense [RHQ]!” Others said,
+Then\add* some of them said \add to one another\add*, “This ignorant person is just talking nonsense \f + \fr rhetorical question \f*!” Others said,
 “\add We(exc) think\add* that he is teaching people about ◄foreign
 gods/\add new\add* gods that we\add (exc)\add* have not heard about►.” They said that because Paul was telling them that Jesus
 \add had died and\add* had become alive again \add afterwards. They had not heard that message
@@ -106,7 +106,7 @@ religious/think that it is very important to worship many gods►.
 \p
 \v 24 He is the God who made the world and everything in it. Because he rules over all
 \add beings in\add* heaven and \add on\add* earth, he does not dwell in shrines that people have made.
-\v 25 He does not need to have anything made for him by people [MTY] {to have people [MTY] make [MTY] anything for him},
+\v 25 He does not need to have anything made for him by people \f + \fr metonymy \f* {to have people \f + \fr metonymy \f* make \f + \fr metonymy \f* anything for him},
 because everything that exists belongs to him. He is the one who causes
 ◄us\add (inc)\add*/all people► to live and breathe, and \add he gives
 us\add* all the things \add that we(inc) need\add*. 
@@ -115,7 +115,7 @@ us\add* all the things \add that we(inc) need\add*.
 now live everywhere on the earth. He also decided where each ethnic group of people should live and how long they should live
 \add there\add*. 
 \v 27 He wanted people to realize that they need him. Then maybe they would seek for him and find him.
-\add God wants us to seek him\add*, although he is \add really\add* close [LIT] to each one of us.
+\add God wants us to seek him\add*, although he is \add really\add* close \f + \fr litotes \f* to each one of us.
 \v 28 As someone has said, ‘\add It is only\add* because he enables us that
 we\add (inc)\add* live and move and do \add what we do\add*.’ And, as some of your own poets have said,
 ‘We\add (inc)\add* are God's children.’ 
@@ -127,7 +127,7 @@ make those images}, \add but they are not alive\add*.
 do\add*, he did not \add immediately\add* punish \add them for what they
 did\add*. But now God commands all people everywhere to turn away from their evil behavior.
 \v 31  \add He tells us\add* that on a certain day that he has chosen he is going to judge
-\add all of us(inc) people in\add* [MTY] the world. He has appointed a
+\add all of us(inc) people in\add* \f + \fr metonymy \f* the world. He has appointed a
 \add certain\add* man to judge \add us, and that man will judge each of
 us\add* fairly/justly. God has shown to all \add people that he has appointed that man to judge
 everyone\add*, because God ◄caused him to become alive again after he had died/raised him from the dead►.”

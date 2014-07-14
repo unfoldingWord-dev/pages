@@ -14,20 +14,20 @@ born\add*.
 \q The things that God \add has done to me\add* have terrified me.
 \q
 \v 5 Just like a wild donkey does not \add complain by\add* braying when it has plenty of grass to eat,
-\q2 and an ox does not \add complain by\add* bellowing when it has food to eat [MET],
+\q2 and an ox does not \add complain by\add* bellowing when it has food to eat \f + \fr metaphor \f*,
 \q \add I would not complain if you were really helping/comforting
 me\add*. 
 \q
-\v 6 People complain [RHQ] when they must eat food which has no salt
-\q2 or other slimy tasteless food [MET], 
+\v 6 People complain \f + \fr rhetorical question \f* when they must eat food which has no salt
+\q2 or other slimy tasteless food \f + \fr metaphor \f*, 
 \q \add and that is what your words are like, Eliphaz\add*. 
 \q
 \v 7 Just like I have I do not want to eat food \add like that\add*,
-\q2 and my palate loathes/detests that kind of food [MET], 
+\q2 and my palate loathes/detests that kind of food \f + \fr metaphor \f*, 
 \q \add I do not appreciate what you have said to me\add*. 
 \b
 \q
-\v 8 I wish that God would do for me what I have requested from him [DOU].
+\v 8 I wish that God would do for me what I have requested from him \f + \fr doublet \f*.
 \q
 \v 9 I wish that he would crush me \add and let me die\add*. 
 \q2 I wish that he would reach out his hand and take away my life.
@@ -36,11 +36,11 @@ me\add*.
 \q2 I have always obeyed what \add God\add*, the Holy One, has commanded.
 \b
 \q
-\v 11 But now I do not have [RHQ] enough strength to endure all these things.
+\v 11 But now I do not have \f + \fr rhetorical question \f* enough strength to endure all these things.
 \q2 And since I have nothing \add to hope for\add* in ◄the future/this life►,
-\q2 it is difficult for me to be patient now [RHQ]. 
+\q2 it is difficult for me to be patient now \f + \fr rhetorical question \f*. 
 \q
-\v 12 I am not [RHQ] strong like rocks are, 
+\v 12 I am not \f + \fr rhetorical question \f* strong like rocks are, 
 \q2 and my body is not made of bronze. 
 \q
 \v 13 So I am not able to help myself, 
@@ -76,11 +76,11 @@ water\add*,
 \q You have seen that terrible things have happened to me, 
 \q2 and you are afraid \add that God might do similar things to you\add*.
 \q
-\v 22  \add After I lost all my wealth\add*, ◄did I ask any of you for money?/I did not ask any of you for money.► [RHQ]
-\q2 Did I plead with any of you to spend some of your money to help me [RHQ]?
+\v 22  \add After I lost all my wealth\add*, ◄did I ask any of you for money?/I did not ask any of you for money.► \f + \fr rhetorical question \f*
+\q2 Did I plead with any of you to spend some of your money to help me \f + \fr rhetorical question \f*?
 \q
-\v 23 Have I asked any of you to rescue me from my enemies [RHQ]?
-\q2 Have I asked you to save me from those who ◄oppressed me/treated me badly► [RHQ]?
+\v 23 Have I asked any of you to rescue me from my enemies \f + \fr rhetorical question \f*?
+\q2 Have I asked you to save me from those who ◄oppressed me/treated me badly► \f + \fr rhetorical question \f*?
 \add No\add*! 
 \s Job insisted he had done no wrong 
 \q
@@ -89,10 +89,10 @@ water\add*,
 \q
 \v 25 When people speak what is true, that will not hurt the person who hears it,
 \q2 but what you say, criticizing me, \add is not true, so your saying
-it\add* proves nothing [RHQ]! 
+it\add* proves nothing \f + \fr rhetorical question \f*! 
 \q
 \v 26 I am a man who has nothing to hope for, 
-\q2 but you try to correct me, and you think what I say is nothing but wind [RHQ]!
+\q2 but you try to correct me, and you think what I say is nothing but wind \f + \fr rhetorical question \f*!
 \q
 \v 27 You do not sympathize with me at all \add for all that I am
 suffering\add*. 
@@ -100,10 +100,10 @@ suffering\add*.
 \add as a prize\add*! 
 \b
 \q
-\v 28 Please look at me! I will not [RHQ] lie while I am looking at your faces.
+\v 28 Please look at me! I will not \f + \fr rhetorical question \f* lie while I am looking at your faces.
 \q
 \v 29 Stop \add saying that I have sinned\add*, and stop criticizing me unjustly!
 \q2 You should realize that I have not done things that are wrong.
 \q
 \v 30 Do you think that I am lying? 
-\q2 No, I am not lying, because I know what is right and what is wrong [RHQ].”
+\q2 No, I am not lying, because I know what is right and what is wrong \f + \fr rhetorical question \f*.”

@@ -6,7 +6,7 @@
 ancestors from Egypt. 
 \v 2  \add In order to celebrate that festival\add*, go to the place that Yahweh will choose
 \add for you to worship him\add*, and offer \add there one young
-animal\add* from your cattle or your sheep to be the Passover sacrifice, to honor Yahweh [MTY].
+animal\add* from your cattle or your sheep to be the Passover sacrifice, to honor Yahweh \f + \fr metonymy \f*.
 \v 3  \add When you eat the Passover meal\add*, the bread that you eat must not have yeast in it. You must eat this kind of
 bread, which will be called the bread of suffering/misery, for seven days. This is to help you to remember all during the time
 that you are alive that when your ancestors left Egypt, \add where they were suffering because you were
@@ -52,7 +52,7 @@ work that you have done
 \v 16 So, each year all of you Israeli men must gather \add with your
 families\add* to worship Yahweh our God at the place that he will choose,
 \add to celebrate three festivals:\add* the Passover Festival, the Harvest Festival, and the Festival of Living in Temporary
-Shelters. Each of you men must bring [LIT] an offering \add for Yahweh to these
+Shelters. Each of you men must bring \f + \fr litotes \f* an offering \add for Yahweh to these
 festivals\add* 
 \v 17 in proportion to the blessings that Yahweh has given him \add during that
 year\add*.” 
@@ -64,7 +64,7 @@ year\add*.”
 because if a judge accepts a bribe, even if he is wise and honest, it will be very difficult for him to judge fairly [IDI];
 \add he will do what the person who gave him the bribe wants him to do and declare
 that\add* the righteous/innocent people \add must be punished\add*.
-\v 20 You must be completely fair and just [DOU], in order that you will enter and occupy the land that Yahweh our God is
+\v 20 You must be completely fair and just \f + \fr doublet \f*, in order that you will enter and occupy the land that Yahweh our God is
 giving to you.” 
 \s Warning against worshiping other gods 
 \p

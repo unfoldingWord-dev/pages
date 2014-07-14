@@ -3,9 +3,9 @@
 \s Jesus taught them that they needed to remain closely united to him in order to live in a way that would please God.
 \p
 \v 1  \add Jesus talked to us as we were walking along. Speaking figuratively of the need for us to live in a way that God
-wants us to, he said\add*, “I am like [MET] a genuine vine, \add not like those Jewish leaders who do not teach the
-truth\add*. My father is like [MET] a gardener who \add works to\add* take care of a vineyard.
-\v 2  \add Just like a gardener\add* cuts off the branches that bear no grapes [MET],
+wants us to, he said\add*, “I am like \f + \fr metaphor \f* a genuine vine, \add not like those Jewish leaders who do not teach the
+truth\add*. My father is like \f + \fr metaphor \f* a gardener who \add works to\add* take care of a vineyard.
+\v 2  \add Just like a gardener\add* cuts off the branches that bear no grapes \f + \fr metaphor \f*,
 \add God gets rid of those who do not please him even though they say that they belong to
 him\add*. Those branches that bear fruit, \add the gardener\add* trims so that they may bear more grapes.
 \add Similarly, my Father disciplines/corrects those who live as he wants them to
@@ -15,20 +15,20 @@ live\add*.
 \v 4 Remain having a close relationship with me. \add If you do that\add*, I will remain having a close relationship with you.
 A branch \add of a vine\add* cannot bear fruit \add if it is cut off and
 left\add* by itself. To bear fruit, it must remain attached to the vine. Similarly, you cannot
-\add live the way that God wants you to\add* if you do not remain united to me [MET].
+\add live the way that God wants you to\add* if you do not remain united to me \f + \fr metaphor \f*.
 \p
-\v 5 I am \add like\add* [MET] a vine. You are \add like\add* [MET] the branches. All those who have a close relationship with
+\v 5 I am \add like\add* \f + \fr metaphor \f* a vine. You are \add like\add* \f + \fr metaphor \f* the branches. All those who have a close relationship with
 me and with whom I have a close relationship will \add do much that pleases God,
-like\add* [MET] \add a vine that\add* bears much fruit. \add Remember
-that\add* you can do nothing [HYP] \add that truly pleases God\add* without my
+like\add* \f + \fr metaphor \f* \add a vine that\add* bears much fruit. \add Remember
+that\add* you can do nothing \f + \fr hyperbole \f* \add that truly pleases God\add* without my
 \add help\add*. 
 \v 6  \add A gardener cuts off and\add* throws away useless branches. Then, after they dry up,
-\add he\add* picks them up and throws them into a fire and burns them [SIM]. Similarly, everyone who does not remain having a
+\add he\add* picks them up and throws them into a fire and burns them \f + \fr simile \f*. Similarly, everyone who does not remain having a
 close relationship with me, \add God\add* will get rid of. 
 \v 7 If you remain having a close relationship with me and you keep
 \add living in accordance with\add* my message, you can ask \add God to
 do\add* anything for you, and he will do it. 
-\v 8 The way my Father is honored is by your {The way you honor my Father is by} doing much that pleases him [MET], and by
+\v 8 The way my Father is honored is by your {The way you honor my Father is by} doing much that pleases him \f + \fr metaphor \f*, and by
 doing that you will show that you are my disciples. 
 \p
 \v 9 I have loved you just as \add my\add* Father has loved me. Now keep living in
@@ -46,21 +46,21 @@ someone in a greater way than that.
 \add why\add* their masters \add want them to\add* do things. Instead, I have said that you are my friends, because I,
 \add acting like a friend\add*, have revealed to you everything that my Father told me.
 \v 16 You did not decide to become my \add disciples\add*. Instead, I chose you, so that you would do many things that please
-him [MET]. The results of what you do will last \add forever\add*. I also chose you so that
-\add my\add* Father will do for you whatever you, using my authority, ask him to do [MTY].
+him \f + \fr metaphor \f*. The results of what you do will last \add forever\add*. I also chose you so that
+\add my\add* Father will do for you whatever you, using my authority, ask him to do \f + \fr metonymy \f*.
 \v 17  \add I repeat what\add* I have commanded you: Love each other.”
 \s John 15:18-16:4 
 \s Jesus taught them that those who were opposed to God would hate them, too.
 \p
 \v 18 “The people who are opposed to God will hate you. When that happens, remember that they hated me first.
-\v 19 If you belonged to those who are opposed to God [MTY], they would love
-\add you like they love\add* those who belong to them. But you do not belong to those who are opposed to God [MTY]. Instead, I
-chose you so that you would separate yourselves from [MTY] them. That is why those who are opposed to God [MTY] hate you.
+\v 19 If you belonged to those who are opposed to God \f + \fr metonymy \f*, they would love
+\add you like they love\add* those who belong to them. But you do not belong to those who are opposed to God \f + \fr metonymy \f*. Instead, I
+chose you so that you would separate yourselves from \f + \fr metonymy \f* them. That is why those who are opposed to God \f + \fr metonymy \f* hate you.
 \v 20 Remember these words that I told you: ‘No servant is greater than his master.’
 \add That means that you, who are like my servants, cannot expect people to treat you better than they treat
 me\add*. So, since they have ◄persecuted me/caused me to suffer►, they will ◄persecute you/cause you to suffer► also. If they
 had paid attention to the things I taught them, they would pay attention to what you teach them.
-\v 21 They will treat you like that because you \add belong to\add* me [MTY], and because they do not know the one who sent me.
+\v 21 They will treat you like that because you \add belong to\add* me \f + \fr metonymy \f*, and because they do not know the one who sent me.
 \v 22 If I had not come and spoken \add God's message\add* to them, they would not be guilty
 \add of rejecting me and my message\add*. But now \add I have come and told them God's message,
 so\add* they will have no excuse \add when God judges them\add* for their sin.
@@ -75,4 +75,4 @@ this that \add ◄someone/the Psalmist\add*► wrote in their Scriptures}: ‘Th
 you. He is the Spirit \add who will teach you God's\add* truth. He will come from my Father. He will tell people about me.
 \v 27 But you \add disciples\add* must also tell people \add about
 me\add*, because you have been with me from the time when I started
-\add my ministry\add* [MTY].” 
+\add my ministry\add* \f + \fr metonymy \f*.” 

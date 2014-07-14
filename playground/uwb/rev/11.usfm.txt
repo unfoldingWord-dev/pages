@@ -8,19 +8,19 @@ awesome.
 \v 1  \add An angel gave\add* to me a reed similar to a measuring stick. He said
 \add to me\add*, “\add Christ says this: ‘Go\add* to the temple \add where people
 worship\add* God, measure it and the altar \add in it\add*, and count the people who worship there.
-\v 2 But do not measure the courtyard outside \add of the temple\add* [DOU], because
+\v 2 But do not measure the courtyard outside \add of the temple\add* \f + \fr doublet \f*, because
 \add it\add* has been given {\add God\add* has given it} to \add the\add* non-Jewish
 \add people. As a result\add*, they will trample \add Jerusalem city\add* for forty-two months.
 \v 3 I will appoint my two ◄witnesses/men who will tell others about me►. They will proclaim what I reveal to them for one
 thousand two hundred and sixty days. They will wear \add rough\add* clothes made from goat's hair
 \add to show that they are sad about people's sin\add*.’” 
 \v 4 Those \add witnesses are the ones\add* that are represented by the two olive trees and the two lampstands that are in the
-presence of the Lord \add who rules\add* the earth [SYM]. 
+presence of the Lord \add who rules\add* the earth \f + \fr symbol \f*. 
 \v 5 If enemies try to harm those \add witnesses\add*, fire will come from the mouths of the witnesses and destroy them. If
 people want to harm them, \add the two witnesses\add* will certainly kill them similarly.
 \v 6 Those \add witnesses\add* will have authority over the sky in order to keep rain from falling during the time that they
 are proclaiming what God reveals to them. They also will have authority to cause water
-\add everywhere\add* to become \add red like\add* [MET] blood, and
+\add everywhere\add* to become \add red like\add* \f + \fr metaphor \f* blood, and
 \add authority\add* to send down to the earth all kinds of plagues. They will do this as often as they want to.
 \v 7 When they have finished proclaiming \add to people the message from
 God\add*, the beast that comes up ◄from the underworld/from the deep dark pit► will attack them, overcome them, and will kill
@@ -29,7 +29,7 @@ them.
 the city that is symbolically named Sodom or Egypt \add because its people are very evil, like the people who lived in Sodom
 and Egypt\add*. 
 \v 9 Individuals of many people-\add groups\add*, tribes, language
-\add groups\add* [MTY], and nations will look at their dead bodies for three and a half days. But they will not allow
+\add groups\add* \f + \fr metonymy \f*, and nations will look at their dead bodies for three and a half days. But they will not allow
 \add anyone\add* to bury their bodies. 
 \v 10 When the \add rebellious\add* people who live on the earth
 \add see that the witnesses are dead\add*, they will rejoice and celebrate. They will send gifts to each other, because these
@@ -39,7 +39,7 @@ see them will be terrified.
 \v 12 The \add two witnesses\add* will hear a loud voice from heaven saying to them: “Come up here!” Then they will go up into
 heaven in a cloud. Their enemies will see them \add as they ascend\add*.
 \v 13 At that same time there will be a great earthquake, as a result of which a tenth of
-\add the buildings in\add* [MTY] the city will collapse, and seven thousand people will die. The rest of the people will be
+\add the buildings in\add* \f + \fr metonymy \f* the city will collapse, and seven thousand people will die. The rest of the people will be
 afraid and \add acknowledge\add* that the God \add who rules in\add* heaven is awesome.
 \p
 \v 14 That will be the second terrible event. \add Be aware that\add* the third tragic event will happen soon.
@@ -50,7 +50,7 @@ flashed, thunder reverberated, the earth shook, and large hail fell.
 \p
 \v 15 Then the seventh angel blew \add his trumpet\add*. Voices in heaven shouted loudly, “Our Lord
 \add God\add* and the Messiah \add whom he has appointed\add* can now govern
-\add all the people in\add* [MTY] the world, and they will continue to rule those people forever!”
+\add all the people in\add* \f + \fr metonymy \f* the world, and they will continue to rule those people forever!”
 \v 16 The twenty-four elders who sit on their thrones in God's presence ◄prostrated themselves/bowed down low► and worshipped
 him. 
 \v 17 They said: 
@@ -61,11 +61,11 @@ him.
 \q everyone who has rebelled against you, 
 \q and you now rule over all the people in the world. 
 \q
-\v 18 The unbelieving people of [MTY] the nations were angrily raging at you.
+\v 18 The unbelieving people of \f + \fr metonymy \f* the nations were angrily raging at you.
 \q As a result you have become very angry with them. 
 \q You have decided that this is the appropriate time for you to judge all the dead people.
 \q You have also decided that it is the time for you to reward all your servants,
-\q both the prophets and the rest of your people who reverence you [MTY],
+\q both the prophets and the rest of your people who reverence you \f + \fr metonymy \f*,
 \q whether they were considered socially significant/important or socially insignificant/unimportant.
 \q It is time for you to reward all of them! 
 \q You have also decided it is the time for you to destroy the people who are destroying others on the earth.

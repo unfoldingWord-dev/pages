@@ -7,14 +7,14 @@ the supreme priest”
 \q while you plan to harm godly people. 
 \q
 \v 2 All during the day you plan to get rid of others; 
-\q what you say [MTY] \add injures others\add* like a sharp razor [SIM],
+\q what you say \f + \fr metonymy \f* \add injures others\add* like a sharp razor \f + \fr simile \f*,
 \q2 and you are always deceiving others. 
 \q
 \v 3 You like \add doing what is\add* evil more than you like doing what is good,
 \q2 and you like telling lies more than you like telling the truth.
 \qr (Think about that!) 
 \q
-\v 4 You who say things [MTY] to deceive people, 
+\v 4 You who say things \f + \fr metonymy \f* to deceive people, 
 \q2 you like to say ◄things that hurt people/cruel things►! 
 \b
 \q
@@ -37,5 +37,5 @@ the supreme priest”
 \b
 \q
 \v 9 God, I will always thank you for the things that you have done.
-\q2 As I stand before godly people, I will proclaim that you are good (OR, the many good [MTY]
+\q2 As I stand before godly people, I will proclaim that you are good (OR, the many good \f + \fr metonymy \f*
 \add things you have done for us\add*). 

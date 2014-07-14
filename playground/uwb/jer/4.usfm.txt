@@ -20,23 +20,23 @@ it\add*.
 receive\add*. 
 \q
 \v 4 Purify your inner beings and your minds for me. 
-\q2 If you do not do that, my being angry with you [MTY] 
+\q2 If you do not do that, my being angry with you \f + \fr metonymy \f* 
 \q2 because of all the sins that you have committed 
 \q2 will be like a fire that will be impossible to extinguish.” 
 \s Disaster from the north 
 \q
-\v 5 “Declare this [DOU] to \add all the people in\add* Jerusalem and the rest of Judea;
+\v 5 “Declare this \f + \fr doublet \f* to \add all the people in\add* Jerusalem and the rest of Judea;
 \q2 blow the trumpets everywhere in the land to warn the people.
 \q Tell them that they should flee to 
 \q2 the cities that have high walls around them. 
 \q
 \v 6 Shout to the people of Jerusalem, 
 \q ‘Run away now! Do not delay, 
-\q2 because I am about to bring a terrible disaster [DOU] upon you
+\q2 because I am about to bring a terrible disaster \f + \fr doublet \f* upon you
 \q2 that will come from the north. 
 \q
 \v 7  \add An army\add* that has destroyed many nations will attack you
-\q2 like [MET] a lion that comes out of its den \add to attack other
+\q2 like \f + \fr metaphor \f* a lion that comes out of its den \add to attack other
 animals\add*. 
 \q \add The soldiers of that army\add* have taken down their tents
 \q2 and they are ready to march toward your land. 
@@ -52,23 +52,23 @@ animals\add*.
 \q2 The priests and the prophets will be terrified. 
 \p
 \v 10 Then I replied, “Yahweh my God, you completely deceived the people by telling them that there would be peace in
-Jerusalem, but now \add our enemies\add* [PRS] are ready to slaughter us with their swords!”
+Jerusalem, but now \add our enemies\add* \f + \fr personification \f* are ready to slaughter us with their swords!”
 \b
 \p
 \v 11 When that happens, \add Yahweh\add* will say to the people of Jerusalem,
 \q \add “A huge army will come to attack you\add*. 
 \q2 They will not \add be like a gentle breeze that\add* separates the wheat from the chaff.
-\q They will be like a very hot wind that blows in from the desert [MET].
+\q They will be like a very hot wind that blows in from the desert \f + \fr metaphor \f*.
 \q
-\v 12 They will be like [MET] a strong blast that I will send. 
+\v 12 They will be like \f + \fr metaphor \f* a strong blast that I will send. 
 \q2 Now I am declaring that I will punish/destroy you.” 
 \b
 \q
-\v 13 Our enemies are about to rush down on us; their chariots are like [SIM] whirlwinds.
+\v 13 Our enemies are about to rush down on us; their chariots are like \f + \fr simile \f* whirlwinds.
 \q2 Their horses are faster than eagles. 
 \q It will be terrible for us! 
 \q
-\v 14 You people of Jerusalem [APO], cleanse/purify your inner beings,
+\v 14 You people of Jerusalem \f + \fr apostrophe \f*, cleanse/purify your inner beings,
 \q2 in order that Yahweh will rescue you. 
 \q How long will you continue to think about \add doing\add* evil deeds?
 \q
@@ -80,7 +80,7 @@ Jerusalem, but now \add our enemies\add* [PRS] are ready to slaughter us with th
 \q Yahweh says, “An army is coming to Jerusalem from far away; 
 \q2 they will shout a battle-cry against the cities of Judah. 
 \q
-\v 17 They will set up tents around Jerusalem like people set up temporary shelters [SIM] around a field
+\v 17 They will set up tents around Jerusalem like people set up temporary shelters \f + \fr simile \f* around a field
 \add at harvest time\add*. 
 \q2 That will happen because the people of Judah have rebelled against me.
 \q
@@ -109,7 +109,7 @@ Jerusalem, but now \add our enemies\add* [PRS] are ready to slaughter us with th
 \q
 \v 22  \add Yahweh says\add*, “My people are very foolish! 
 \q2 They do not have a relationship with me. 
-\q They are like [MET] stupid children 
+\q They are like \f + \fr metaphor \f* stupid children 
 \q2 who do not understand \add anything\add*. 
 \q They very cleverly do what is wrong, 
 \q2 but they do not know how to do what is good.” 
@@ -162,6 +162,6 @@ enemies\add*.
 \q
 \v 31  \add It is as though\add* I already hear \add the people in
 Jerusalem\add* crying very loudly, 
-\q2 like [SIM] a woman cries when she is giving birth to her first child;
+\q2 like \f + \fr simile \f* a woman cries when she is giving birth to her first child;
 \q she gasps for breath and pleads for someone to help her, 
 \q2 crying, “Something terrible is happening to me; they are about to murder me!”

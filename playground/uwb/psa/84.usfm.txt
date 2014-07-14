@@ -4,12 +4,12 @@
 \v 1 Lord, you who are the Almighty Commander of the armies of angels,
 \q2 your temple is very beautiful! 
 \q
-\v 2 I [SYN] would like to be there; 
-\q2 Yahweh, I desire that very much [DOU]. 
+\v 2 I \f + \fr synecdoche \f* would like to be there; 
+\q2 Yahweh, I desire that very much \f + \fr doublet \f*. 
 \q2 With all my inner being I sing joyfully to you, the all-powerful God.
 \b
 \q
-\v 3 Even sparrows and swallows have built nests \add near your temple\add* [DOU];
+\v 3 Even sparrows and swallows have built nests \add near your temple\add* \f + \fr doublet \f*;
 \q2 they take care of their young babies near the altars \add where people offer sacrifices
 to\add* you, 
 \q2 who are the commander of the armies of heaven, and my king and my God.
@@ -35,8 +35,8 @@ to\add* you,
 \q God, who \add is worshiped by\add* us ◄descendants of Jacob/Israeli people►, hear [IDI] what I am saying!
 \qr (Think about that!) 
 \q
-\v 9 God, act kindly toward [IDI] our king, the one who protects us [MTY],
-\q2 the one whom you have chosen [MTY] \add to rule us\add*. 
+\v 9 God, act kindly toward [IDI] our king, the one who protects us \f + \fr metonymy \f*,
+\q2 the one whom you have chosen \f + \fr metonymy \f* \add to rule us\add*. 
 \b
 \q
 \v 10  \add For me\add*, spending one day in your temple 
@@ -47,7 +47,7 @@ inside\add*,
 \add live\add*. 
 \q
 \v 11 Yahweh our God is like the sun \add that shines on us\add* and like a shield
-\add that protects us\add* [MET]; 
+\add that protects us\add* \f + \fr metaphor \f*; 
 \q2 he acts favorably toward us and honors us. 
 \q Yahweh does not refuse to give any good thing/blessing to those who do what is right.
 \b

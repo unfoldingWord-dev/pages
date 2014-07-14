@@ -1,20 +1,20 @@
-100  
-\s A psalm of thanksgiving
+\c 100  
+\s A psalm of thanksgiving 
 \q
-\v 1 Everyone in the world should shout joyfully to Yahweh!
+\v 1 Everyone in the world should shout joyfully to Yahweh! 
 \q2
-\v 2 We should worship Yahweh gladly!
-\q2 We should come before him singing joyful songs.
+\v 2 We should worship Yahweh gladly! 
+\q2 We should come before him singing joyful songs. 
 \q
-\v 3 We should acknowledge/recognize that Yahweh is God;
-\q2 it is he who made us, and so we belong to him.
+\v 3 We should acknowledge/recognize that Yahweh is God; 
+\q2 it is he who made us, and so we belong to him. 
 \q2 We are the people that he takes care of \f + \fr metaphor \f*; 
 \q2 we are like sheep that are cared for by their shepherd. 
 \b
 \q
-\v 4 Enter the gates \add of his temple\add* thanking him;
+\v 4 Enter the gates \add of his temple\add* thanking him; 
 \q2 enter the courtyard \add of the temple\add* singing songs to praise him!
-\q Thank him and praise him,
+\q Thank him and praise him, 
 \q
 \v 5 because Yahweh always \add does\add* good \add things for us\add*.
 \q2 He faithfully loves us, 

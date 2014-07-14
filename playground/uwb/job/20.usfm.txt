@@ -14,7 +14,7 @@
 \q2 ever since people were first put on the earth, 
 \q
 \v 5 that wicked people \add like you\add* do not continue to rejoice for a long time,
-\q2 that ungodly people are happy only for a ◄moment/very short time► [HYP]?
+\q2 that ungodly people are happy only for a ◄moment/very short time► \f + \fr hyperbole \f*?
 \q
 \v 6 Even though their \add reputation/pride\add* reaches up to the sky
 \q2 and their fame goes up as high as the clouds, 
@@ -22,14 +22,14 @@
 \v 7 they will disappear forever, like their own dung, 
 \q2 and those who knew them will ask, ‘◄Where did they go/What happened to them►?’
 \q
-\v 8 They will disappear like [SIM] a dream does, 
+\v 8 They will disappear like \f + \fr simile \f* a dream does, 
 \q2 and they will exist no more. 
 \q They will vanish, like visions \add that people see during\add* the night.
 \q
 \v 9 Those who saw those people previously will never see them again,
-\q2 even \add the people who lived in\add* their houses [MTY] will not see them anymore.
+\q2 even \add the people who lived in\add* their houses \f + \fr metonymy \f* will not see them anymore.
 \q
-\v 10 Their children will be forced to return the valuable things that they stole from poor people [DOU].
+\v 10 Their children will be forced to return the valuable things that they stole from poor people \f + \fr doublet \f*.
 \q
 \v 11 Previously their bodies were young and strong, 
 \q2 but they will die and \add their bodies will\add* be buried in the ground.
@@ -48,12 +48,12 @@
 \q2 like people do not keep the food that they vomit. 
 \q God takes their wealth from them. 
 \q
-\v 16 What wicked people do is \add like\add* [MET] swallowing snake poison;
-\q2 it will kill them like [MET] the bite of a poisonous snake kills people.
+\v 16 What wicked people do is \add like\add* \f + \fr metaphor \f* swallowing snake poison;
+\q2 it will kill them like \f + \fr metaphor \f* the bite of a poisonous snake kills people.
 \q
 \v 17 They will not remain alive to see the abundant blessings [IDI]
 \add from God\add* 
-\q2 that are like [MET] a stream that flows by. 
+\q2 that are like \f + \fr metaphor \f* a stream that flows by. 
 \q
 \v 18 They will be forced to give back the things that they stole from the poor;
 \q2 they will not be able to continue to enjoy those things. 
@@ -72,11 +72,11 @@
 \q
 \v 22 When they are extremely prosperous/wealthy, 
 \q2 they will suddenly experience a lot of trouble. 
-\q2 ◄Misery will strike them and crush them [PRS]/They will suffer very greatly►.
+\q2 ◄Misery will strike them and crush them \f + \fr personification \f*/They will suffer very greatly►.
 \q
 \v 23 When the wicked people are filling their stomachs, 
 \q2 God will show that he is very angry with them and punish them;
-\q2 the punishment that he \add gives them\add* will fall on them like [MET] rain.
+\q2 the punishment that he \add gives them\add* will fall on them like \f + \fr metaphor \f* rain.
 \q
 \v 24 They will try to escape from \add being killed by\add* iron weapons,
 \q2 but arrows with bronze points will pierce them. 
@@ -89,10 +89,10 @@
 \q2 a fire that is not lit by humans, \add but from God\add*, will burn them up
 \q2 and also destroy the things that are left in their tents. 
 \q
-\v 27 The \add angels in\add* heaven [MTY] will reveal the sins that those wicked people have committed,
+\v 27 The \add angels in\add* heaven \f + \fr metonymy \f* will reveal the sins that those wicked people have committed,
 \q2 and \add people on\add* earth will stand up and testify against them.
 \q
-\v 28 On the day when God punishes [MTY] people, 
+\v 28 On the day when God punishes \f + \fr metonymy \f* people, 
 \q2 all the possessions in the wicked people's houses will be carried away by a flood.
 \q
 \v 29 That is what will happen to wicked people \add like you\add*;

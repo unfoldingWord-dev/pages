@@ -36,11 +36,11 @@ city\add*,
 \q
 \v 9 God, here in your temple we think about your faithfully loving us.
 \q
-\v 10 You [MTY] are famous and ◄are praised/people praise you► all over the earth,
-\q2 because you rule powerfully [MTY] and justly. 
+\v 10 You \f + \fr metonymy \f* are famous and ◄are praised/people praise you► all over the earth,
+\q2 because you rule powerfully \f + \fr metonymy \f* and justly. 
 \q
 \v 11 The people who live near Zion Hill should be happy! 
-\q The people in all the cities [MTY] of Judah should rejoice 
+\q The people in all the cities \f + \fr metonymy \f* of Judah should rejoice 
 \q2 because you judge people fairly. 
 \b
 \q

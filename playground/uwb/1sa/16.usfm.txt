@@ -2,11 +2,11 @@
 \s Samuel appointed David to be king 
 \p
 \v 1 Finally, Yahweh said to Samuel, “I have decided that I will not allow Saul to continue to be the king. So you should not
-[RHQ] keep feeling sad \add about what he has done\add*. Put some olive oil in a small container and go to Bethlehem
+\f + \fr rhetorical question \f* keep feeling sad \add about what he has done\add*. Put some olive oil in a small container and go to Bethlehem
 \add to anoint someone with the oil, and appoint him to be king\add*. I am sending you there to a man named Jesse, because I
 have chosen one of his sons to be the king \add of Israel\add*.”
 \p
-\v 2 But Samuel said, “I am afraid [RHQ] to do that! If Saul hears about it, he will kill me!” Yahweh said, “Take a
+\v 2 But Samuel said, “I am afraid \f + \fr rhetorical question \f* to do that! If Saul hears about it, he will kill me!” Yahweh said, “Take a
 ◄heifer/young female cow► with you, and say to people that you have come to
 \add kill it and\add* offer it as a sacrifice to me. 
 \p

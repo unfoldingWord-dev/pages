@@ -17,7 +17,7 @@ Philistia army was. The cliff on one side of the pass was named Bozez, and the o
 \add town\add*. 
 \p
 \v 6 Jonathan said to the young man who carried his weapons, “Come with me. We will go to where those ◄pagans/people who do not
-believe in Yahweh► [MTY] have set up their tents. Perhaps Yahweh will help us. It does not matter whether we are only two men
+believe in Yahweh► \f + \fr metonymy \f* have set up their tents. Perhaps Yahweh will help us. It does not matter whether we are only two men
 or many people; nothing can hinder Yahweh from enabling us to defeat them.”
 \p
 \v 7 The young man who was carrying Jonathan's weapons said, “Do what you think is the best thing for us to do. I will be
@@ -133,7 +133,7 @@ wrong\add*.”
 having done that!” 
 \p
 \v 45 But the Israeli soldiers said to Saul, “Jonathan has won a great victory for all us Israelis. Should he be executed for
-eating some honey [RHQ]? Certainly not! Just as surely as Yahweh lives, we will not allow you to injure him in any manner
+eating some honey \f + \fr rhetorical question \f*? Certainly not! Just as surely as Yahweh lives, we will not allow you to injure him in any manner
 [IDI], \add because\add* today God helped Jonathan \add to kill many soldiers of the Philistia
 army\add*!” 
 \p So \add by saying that\add* the Israeli soldiers rescued Jonathan, and he was not executed.

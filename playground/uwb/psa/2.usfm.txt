@@ -1,14 +1,14 @@
 \c 2  
 \q
 \v 1 ◄Why do the \add leaders of\add* nations rage \add against God\add*?/It is foolish for the nations to be angry
-\add with God\add*.► [RHQ] 
+\add with God\add*.► \f + \fr rhetorical question \f* 
 \q2 ◄Why do people plan to rebel \add against God\add* even though it is in vain?/It is useless for people to plan to rebel
-\add against God\add*!► [RHQ] 
+\add against God\add*!► \f + \fr rhetorical question \f* 
 \q
 \v 2 The kings of the nations on earth prepared to revolt; 
 \q2 the rulers plotted together \add to fight\add* against Yahweh and against his ◄Messiah/chosen king►.
 \q
-\v 3 They shouted, “We should free ourselves from their control [MET];
+\v 3 They shouted, “We should free ourselves from their control \f + \fr metaphor \f*;
 \q2 we should not let them rule over us any longer!” 
 \b
 \q
@@ -24,15 +24,15 @@
 \q
 \v 7  \add And his king says\add*, “I will proclaim what Yahweh has decreed.
 \q He said to me, ‘\add It is as though\add* you are my son; 
-\q2 today I have declared to everyone that \add it is as though\add* [MET] I am your father.
+\q2 today I have declared to everyone that \add it is as though\add* \f + \fr metaphor \f* I am your father.
 \q
 \v 8 Request me to give you the nations, 
 \q2 so that they belong to you \add permanently\add*, 
 \q2 and I will give them to you. 
 \q Even the most remote nations will be yours. 
 \q
-\v 9 You will defeat them completely [MET]; 
-\q2 you will \add destroy them like people\add* smash a clay pot with an iron rod. [SIM]’ ”
+\v 9 You will defeat them completely \f + \fr metaphor \f*; 
+\q2 you will \add destroy them like people\add* smash a clay pot with an iron rod. \f + \fr simile \f*’ ”
 \b
 \q
 \v 10 So then, you kings and other rulers on the earth, act wisely!
@@ -45,4 +45,4 @@
 \q2 If you do not do that, he will be angry, 
 \q2 and he will suddenly get rid of you. 
 \q Do not forget that he can, in one moment, show that he is very angry!
-\q2 But he is very pleased with all those who request him to protect them [MET].
+\q2 But he is very pleased with all those who request him to protect them \f + \fr metaphor \f*.

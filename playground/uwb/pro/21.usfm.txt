@@ -1,18 +1,18 @@
 \c 21  
 \q
-\v 1 Yahweh controls what kings do [MTY] like he controls streams;
+\v 1 Yahweh controls what kings do \f + \fr metonymy \f* like he controls streams;
 \q2 he causes kings to do just what he wants them to do. 
 \b
 \q
 \v 2 People always think that what they do is right, 
-\q2 but Yahweh judges our ◄motives/reasons for doing things► [MTY].
+\q2 but Yahweh judges our ◄motives/reasons for doing things► \f + \fr metonymy \f*.
 \b
 \q
 \v 3 Doing what is right and fair is more acceptable to Yahweh 
 \q2 than bringing sacrifices to him. 
 \b
 \q
-\v 4 Being proud and arrogant [DOU] is like a lamp [MTY] \add that
+\v 4 Being proud and arrogant \f + \fr doublet \f* is like a lamp \f + \fr metonymy \f* \add that
 guides\add* wicked people; 
 \q2 being proud and arrogant characterizes ◄wicked people's whole behavior/everything that wicked people do►.
 \b
@@ -22,15 +22,15 @@ need\add*;
 \q2 those who act too quickly \add to become rich\add* will become poor.
 \b
 \q
-\v 6 Money that people acquire \add by cheating others\add* by lying [MTY] to them will soon disappear like a mist,
+\v 6 Money that people acquire \add by cheating others\add* by lying \f + \fr metonymy \f* to them will soon disappear like a mist,
 \q2 and doing that will soon lead to their death. 
 \b
 \q
 \v 7 Wicked people refuse to do what is right/just, 
-\q2 but they will be ruined because of the violent things [PRS] that they do.
+\q2 but they will be ruined because of the violent things \f + \fr personification \f* that they do.
 \b
 \q
-\v 8 Guilty people \add continually do what is evil; it is as though\add* [MET] they are walking on a crooked road;
+\v 8 Guilty people \add continually do what is evil; it is as though\add* \f + \fr metaphor \f* they are walking on a crooked road;
 \q2 but righteous/innocent people always do what is right. 
 \b
 \q
@@ -39,7 +39,7 @@ yourself\add*
 \q2 than to live inside the house with a wife who is always nagging/quarreling.
 \b
 \q
-\v 10 Wicked people [SYN] are always wanting \add to do what is\add* evil;
+\v 10 Wicked people \f + \fr synecdoche \f* are always wanting \add to do what is\add* evil;
 \q2 they never act mercifully toward anyone. 
 \b
 \q
@@ -73,11 +73,11 @@ them\add*.
 \b
 \q
 \v 17 Those who spend their money to buy ◄pleasure/things that cause them to feel happy► will become poor;
-\q2 those who love \add to spend money to buy\add* wine and nice/fancy food [MTY] will never become rich.
+\q2 those who love \add to spend money to buy\add* wine and nice/fancy food \f + \fr metonymy \f* will never become rich.
 \b
 \q
 \v 18 Wicked people bring to themselves the sufferings 
-\q2 that they were trying to cause righteous people to experience [DOU].
+\q2 that they were trying to cause righteous people to experience \f + \fr doublet \f*.
 \b
 \q
 \v 19 It is better to live \add alone\add* in a desert 
@@ -98,16 +98,16 @@ them\add*.
 \add would protect them\add*. 
 \b
 \q
-\v 23 Those who are very careful about what they say [MTY] 
+\v 23 Those who are very careful about what they say \f + \fr metonymy \f* 
 \q2 are able to avoid trouble. 
 \b
 \q
-\v 24 Those who make fun of \add everything that is good\add* are proud and conceited [DOU];
+\v 24 Those who make fun of \add everything that is good\add* are proud and conceited \f + \fr doublet \f*;
 \q2 they always act inconsiderately toward others. 
 \b
 \q
 \v 25 Lazy people, who refuse to work, will die \add of hunger\add*
-\q2 because they [SYN] do not earn \add money to buy food\add*. 
+\q2 because they \f + \fr synecdoche \f* do not earn \add money to buy food\add*. 
 \b
 \q
 \v 26 All during the day \add wicked people\add* crave to obtain things,

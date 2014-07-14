@@ -14,23 +14,23 @@
 \q
 \v 4 Do you understand things the way that we humans do? 
 \q
-\v 5 ◄Do you live for only a few years, like we do?/You certainly do not live for only a few years, like we do.► [RHQ]
+\v 5 ◄Do you live for only a few years, like we do?/You certainly do not live for only a few years, like we do.► \f + \fr rhetorical question \f*
 \q
-\v 6 So, why do you [RHQ] continue to search for my faults 
+\v 6 So, why do you \f + \fr rhetorical question \f* continue to search for my faults 
 \q2 and to hunt for my sins? 
 \q
 \v 7 You know that I am not guilty, 
-\q2 and that no one can rescue me from your power [MTY]. 
+\q2 and that no one can rescue me from your power \f + \fr metonymy \f*. 
 \b
 \q
 \v 8 With your hands you created me and shaped/formed my body; 
 \q2 but now you are \add deciding\add* that you should not have done that, and you are destroying me.
 \q
 \v 9 Do not forget that you made me from \add a piece of\add* clay;
-\q2 are you going to cause me to become dirt again [RHQ]? 
+\q2 are you going to cause me to become dirt again \f + \fr rhetorical question \f*? 
 \q
-\v 10 You certainly [RHQ] directed/controlled it when I was conceived,
-\q2 and you formed me inside my mother's womb [MET]. 
+\v 10 You certainly \f + \fr rhetorical question \f* directed/controlled it when I was conceived,
+\q2 and you formed me inside my mother's womb \f + \fr metaphor \f*. 
 \q
 \v 11 You fastened my bones together with sinews, 
 \q2 and then you covered them with flesh inside my skin. 
@@ -52,7 +52,7 @@ me\add*.
 ashamed\add*, 
 \q2 because I am very disgraced and feel miserable. 
 \q
-\v 16 And if I am proud, you hunt me like [SIM] a lion hunts \add for some animal to
+\v 16 And if I am proud, you hunt me like \f + \fr simile \f* a lion hunts \add for some animal to
 kill\add*, 
 \q2 and you act powerfully to injure me. 
 \q
@@ -63,16 +63,16 @@ wrong\add*,
 \b
 \q
 \v 18 God, why did you allow me to be born? 
-\q2 I wish/desire that I had died before anyone [SYN] saw me. 
+\q2 I wish/desire that I had died before anyone \f + \fr synecdoche \f* saw me. 
 \q
 \v 19  \add I consider that\add* it would have been better if I had been carried directly from my mother's womb to the grave
 \q2 than for me to live. 
 \q
-\v 20  \add I think that\add* [RHQ] there are only a few days for me to remain alive;
+\v 20  \add I think that\add* \f + \fr rhetorical question \f* there are only a few days for me to remain alive;
 \q2 so ◄allow me to be alone/stop attacking me►, in order that I may be a little cheerful
 \q
 \v 21 before I go to the place from which I will never return, 
-\q2 where it is always gloomy and very dark [DOU], 
+\q2 where it is always gloomy and very dark \f + \fr doublet \f*, 
 \q
 \v 22 a place of darkness and dark shadows, where everything is confused/disordered,
 \q2 where \add even the small\add* light there is like darkness (OR, there is no light, only darkness).’ ”

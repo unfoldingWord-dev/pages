@@ -2,7 +2,7 @@
 \s Eliphaz continued replying to Job 
 \q
 \v 1 “Job, \add it is okay that you\add* continue to cry out for someone to help you,
-\q2 but \add I am certain that\add* [RHQ] no angel will come to help you!
+\q2 but \add I am certain that\add* \f + \fr rhetorical question \f* no angel will come to help you!
 \q
 \v 2 Foolish people die because of being ◄resentful/very angry at someone►;
 \q2 people who are easily deceived are destroyed by their being jealous
@@ -42,15 +42,15 @@
 \v 12 He causes crafty/cunning people to not be able to do what they plan to do,
 \q2 with the result that they achieve nothing. 
 \q
-\v 13 He causes people who \add think that they are\add* [IRO] wise to be trapped by the cunning things they try to do,
+\v 13 He causes people who \add think that they are\add* \f + \fr irony \f* wise to be trapped by the cunning things they try to do,
 \q2 with the result that they do not succeed. 
 \q
 \v 14  \add It is as though\add* even in the daytime they are covered by darkness,
 \q2 and grope around \add trying to find the road\add* at noontime like people do at night.
 \q
 \v 15 But God saves helpless people from being harmed by what \add wicked
-people\add* say [MTY], 
-\q2 he saves needy people from being injured by [MTY] powerful people.
+people\add* say \f + \fr metonymy \f*, 
+\q2 he saves needy people from being injured by \f + \fr metonymy \f* powerful people.
 \q
 \v 16 So, poor people confidently expect \add that good things will happen to
 them\add* 
@@ -61,15 +61,15 @@ them\add*
 \q2 so do not despise/dislike it when \add God\add* who is all-powerful disciplines you.
 \q
 \v 18 He wounds people, but then he puts bandages on those wounds;
-\q2 he hurts people, but he [SYN] also heals them. 
+\q2 he hurts people, but he \f + \fr synecdoche \f* also heals them. 
 \q
 \v 19 He will rescue you many times from your troubles, 
 \q2 with the result that nothing evil will happen to you. 
 \q
 \v 20 When there is a famine, he will not allow you to die, 
-\q2 and when there is a war, you will not be killed [MTY]. 
+\q2 and when there is a war, you will not be killed \f + \fr metonymy \f*. 
 \q
-\v 21 God will protect you when people slander [MTY] you; 
+\v 21 God will protect you when people slander \f + \fr metonymy \f* you; 
 \q2 you will not be afraid when many things \add around you\add* are destroyed.
 \q
 \v 22 You will \add be able to\add* laugh/scoff when things are destroyed and when there is famine,

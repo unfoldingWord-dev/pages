@@ -9,7 +9,7 @@ devil was tempting him}, and Jesus did not eat anything. When that time ended, h
 \add very\add* hungry. 
 \v 3 Then the devil said to Jesus, “Because you \add claim that you\add*
 ◄\add have a relationship with\add* God as a son \add has with his
-father\add* [MET]/are the man who is both God and man►, \add prove it
+father\add* \f + \fr metaphor \f*/are the man who is both God and man►, \add prove it
 by\add* telling these stones to become bread \add so that you can eat
 them!\add*” 
 \v 4 Jesus replied, “\add No, I will not change stones into bread, because it is
@@ -28,7 +28,7 @@ Scriptures\add*, ‘It is the Lord, your God, whom you must worship, and you mus
 \p
 \v 9 Then the devil took \add Jesus\add* to Jerusalem. He set him on the highest part of the Temple and said to him, “Because
 you \add claim that you\add* ◄\add have a relationship with God as a son has with his
-father\add* [MET]/are the man who is both God and man►, \add prove it
+father\add* \f + \fr metaphor \f*/are the man who is both God and man►, \add prove it
 by\add* jumping down from here. 
 \v 10  \add You will not be hurt\add*, because it is written {the
 \add Psalmist\add* wrote} \add in the Scriptures\add*, ‘God will command his angels to protect
@@ -62,7 +62,7 @@ went ◄to the synagogue/to the Jewish meeting place►, as he usually did. He s
 \add wanted to\add* read. \add He read these words\add*: 
 \q
 \v 18 The Spirit ◄of the Lord/of God► is upon me. 
-\q He has appointed [MTY] me to declare God's good news to the poor.
+\q He has appointed \f + \fr metonymy \f* me to declare God's good news to the poor.
 \q He has sent me \add here\add* to proclaim that God will deliver those whom
 \add Satan\add* has captured, and 
 \q he will \add enable me to\add* enable those who are blind to see.
@@ -73,13 +73,13 @@ went ◄to the synagogue/to the Jewish meeting place►, as he usually did. He s
 \add act\add* favorably \add toward people\add*. 
 \p
 \v 20 Then he rolled up the scroll and gave it back to the attendant, and sat down
-\add to teach the people\add*. Everyone in the synagogue was looking intently [MTY] at him.
-\v 21 He said to them, “Today as you have been hearing [MTY] \add me
+\add to teach the people\add*. Everyone in the synagogue was looking intently \f + \fr metonymy \f* at him.
+\v 21 He said to them, “Today as you have been hearing \f + \fr metonymy \f* \add me
 speak\add*, \add I am beginning\add* to fulfill this Scripture passage.”
 \v 22  \add At first\add* everyone there spoke well about him, and they were amazed at the charming words that he spoke.
 \add But then some of\add* them said, “◄He is \add only\add* Joseph's son!/Isn't he
-\add only\add* Joseph's son?► [RHQ] \add So\add* ◄\add it is useless for us(exc) to listen to what he says!/why should we(exc)
-listen to what he says\add*?► [RHQ]” 
+\add only\add* Joseph's son?► \f + \fr rhetorical question \f* \add So\add* ◄\add it is useless for us(exc) to listen to what he says!/why should we(exc)
+listen to what he says\add*?► \f + \fr rhetorical question \f*” 
 \v 23 He said to them, “Surely \add some of\add* you will quote to me the proverb that says, ‘Doctor, heal yourself!’
 \add What you will mean is\add*, ‘People told us that you did miracles in Capernaum
 \add town, but we(exc) do not know if those reports are true. So\add* do miracles here in your own hometown, too!’”
@@ -87,7 +87,7 @@ listen to what he says\add*?► [RHQ]”
 \add the message of\add* a prophet when he speaks in his hometown,
 \add just like you(pl) are not accepting my message now\add*. 
 \v 25 But think about this: There were many widows in Israel during the time when
-\add the prophet\add* Elijah \add lived. During that time\add*, because of there being no rain [MTY] for three years and six
+\add the prophet\add* Elijah \add lived. During that time\add*, because of there being no rain \f + \fr metonymy \f* for three years and six
 months, there was a great famine throughout the country. 
 \v 26 But \add God\add* did not send Elijah to \add help\add* any of those
 \add Jewish\add* widows. \add God sent him\add* to Zarepath \add town\add* near Sidon
@@ -114,14 +114,14 @@ throw him off the cliff \add and kill him\add*.
 evil spirit. That man shouted very loudly, 
 \v 34 “Hey! Jesus, from Nazareth! \add We(exc) evil spirits\add* have nothing in common with you, so
 ◄\add do not interfere with us now!/why should you interfere with us
-now\add*?► [RHQ] ◄Do not destroy us \add now!\add*/Have you come to destroy us
-\add now\add*?► [RHQ] I know who you are. You are the Holy One \add who has
+now\add*?► \f + \fr rhetorical question \f* ◄Do not destroy us \add now!\add*/Have you come to destroy us
+\add now\add*?► \f + \fr rhetorical question \f* I know who you are. You are the Holy One \add who has
 come\add* from God!” 
 \v 35 Jesus rebuked \add the evil spirit\add*, saying, “Be quiet! And come out
 \add of the man\add*!” The demon threw the man down on the ground in the midst of the people. But without harming the man, the
 demon left him. 
 \v 36 The people were all amazed. They said to each other, “◄What he says to the demons
-\add has great power!/\add*What \add kind of\add* teaching is this?► [RHQ] He speaks to them like he knows that they must obey
+\add has great power!/\add*What \add kind of\add* teaching is this?► \f + \fr rhetorical question \f* He speaks to them like he knows that they must obey
 him, and as a result they leave people!” 
 \v 37 The people were telling everyone in \add every village\add* in the surrounding region what Jesus
 \add had done\add*. 
@@ -136,7 +136,7 @@ family\add* (OR\add , the disciples\add*) asked Jesus to \add heal\add* her.
 \p
 \v 40 When the sun was setting \add that day, and the restriction about not
 traveling\add* ◄on \add the Sabbath/on the Jewish rest day\add*►
-\add was ended\add*, many people [HYP] whose \add friends or relatives\add* were sick or who had various diseases brought them
+\add was ended\add*, many people \f + \fr hyperbole \f* whose \add friends or relatives\add* were sick or who had various diseases brought them
 to Jesus. He put his hands on them and healed \add all of\add* them.
 \v 41 He also was \add expelling demons\add* from many people. As the demons left those people, they shouted to Jesus, “You are
 ◄the Son of God/the one who is God and man►!” But he rebuked those demons and would not allow them to tell
@@ -147,7 +147,7 @@ to Jesus. He put his hands on them and healed \add all of\add* them.
 \p
 \v 42  \add Early\add* the next morning \add Jesus\add* left that house and went to an uninhabited place
 \add to pray\add*. Many people searched for him, and when they found him they kept urging him not to leave them.
-\v 43 But he said to them, “I must tell \add people\add* in other towns also the good message about how God wants to rule [MET]
+\v 43 But he said to them, “I must tell \add people\add* in other towns also the good message about how God wants to rule \f + \fr metaphor \f*
 their lives, because that is what I was sent {\add God\add* sent me} to do.”
 \v 44 So he kept preaching in ◄the synagogues/Jewish worship places►
 \add in various towns\add* in Judea \add province\add*. 

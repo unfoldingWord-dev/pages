@@ -6,10 +6,10 @@
 \v 2 You must tell everything I command you \add to your older\add* brother Aaron, and he will tell that to the king. He must
 tell the king to let the Israeli people leave his land. 
 \v 3 But I will make the king stubborn [IDI]. As a result, even though I perform many kinds of ◄miracles/terrifying things►
-[DOU] \add here\add* in Egypt, 
-\v 4 the king will not pay any attention to what you say. Then I will punish [MTY] the people of Egypt [MTY] very severely
-[MTY], and I will lead/bring the tribes of the Israeli people out of Egypt.
-\v 5 Then, when I show my great power [MTY] to the Egyptian people and bring the Israeli people out from among them, they will
+\f + \fr doublet \f* \add here\add* in Egypt, 
+\v 4 the king will not pay any attention to what you say. Then I will punish \f + \fr metonymy \f* the people of Egypt \f + \fr metonymy \f* very severely
+\f + \fr metonymy \f*, and I will lead/bring the tribes of the Israeli people out of Egypt.
+\v 5 Then, when I show my great power \f + \fr metonymy \f* to the Egyptian people and bring the Israeli people out from among them, they will
 know that I am Yahweh, \add the all-powerful God\add*.” 
 \p
 \v 6 Aaron and Moses/I did what Yahweh told them/us to do. They \add went and spoke to the
@@ -40,7 +40,7 @@ that\add*, but you have not paid any attention to it.
 \v 17  \add So now\add* Yahweh says this: “This is the way you will know that I am Yahweh,
 \add the all-powerful God\add*. Watch this: I am going to strike the water that is in the Nile
 \add River\add* with the stick that is in my hand. \add When I do
-that\add*, the water will become blood (OR, \add red like\add* blood [MTY]).
+that\add*, the water will become blood (OR, \add red like\add* blood \f + \fr metonymy \f*).
 \v 18 Then the fish in the Nile \add River\add* will die, and the
 \add water in\add* the river will stink, and the Egyptians will not be able to drink water from the Nile River.” ’ ”
 \p
@@ -57,7 +57,7 @@ Everywhere in Egypt \add the water\add* became \add red like\add* blood.
 \v 22 But the men who performed magic did the same thing using their magic. So the king remained stubborn [IDI], and he would
 not pay attention to what Aaron and Moses/I said, just as Yahweh had predicted.
 \v 23 The king turned and went back to his palace, and he did not think anymore about it [IDI].
-\v 24 The Egyptians [HYP] dug \add into the ground\add* near the Nile
+\v 24 The Egyptians \f + \fr hyperbole \f* dug \add into the ground\add* near the Nile
 \add River\add* to get water to drink, because they could not drink the water from the river.
 \s Moses and Aaron caused frogs to appear everywhere 
 \p

@@ -2,9 +2,9 @@
 \s A psalm written by one of the descendants of Korah for the choir director
 \q
 \v 1 Deer desire to drink water from a stream of cool water. 
-\q2 In the same way [SIM], God, I need you very much. 
+\q2 In the same way \f + \fr simile \f*, God, I need you very much. 
 \q
-\v 2 I desire to have fellowship with [MET] you, the all-powerful God.
+\v 2 I desire to have fellowship with \f + \fr metaphor \f* you, the all-powerful God.
 \q2 \add I say to myself\add*, “When will I be able to go \add back to the temple in
 Israel\add* 
 \q2 and worship in your presence again?” 
@@ -22,7 +22,7 @@ done\add*;
 \q2 we were a large group who were celebrating. 
 \b
 \q
-\v 5 So \add I say to\add* myself, “◄Why am I sad and discouraged?/I should not be sad and discouraged!► [RHQ]
+\v 5 So \add I say to\add* myself, “◄Why am I sad and discouraged?/I should not be sad and discouraged!► \f + \fr rhetorical question \f*
 \q I confidently expect God \add to bless me\add*, 
 \q2 and again I will praise him, 
 \q2 my God, the one who saves me.” 
@@ -33,7 +33,7 @@ done\add*;
 \q \add You are there in Israel\add* where the Jordan \add River\add* rushes down from the bottom of Hermon
 \add Mountain\add* and Mizar Mountain. 
 \q
-\v 7 But here, the great sorrow that I feel is like water that you send down [MET];
+\v 7 But here, the great sorrow that I feel is like water that you send down \f + \fr metaphor \f*;
 \q2 it is like a waterfall that tumbles down and floods over me.
 \b
 \q
@@ -43,19 +43,19 @@ done\add*;
 \b
 \q
 \v 9 I say to God, who is like a huge rock \add under which I can
-hide\add* [MET], 
+hide\add* \f + \fr metaphor \f*, 
 \q “◄Why have you forgotten me, with the result that I ‘mourn/cry’ constantly because my enemies act cruelly toward me?/It
 seems that you have forgotten me, with the result that I ‘mourn/cry’ constantly because my enemies act cruelly toward me.►”
-[RHQ] 
+\f + \fr rhetorical question \f* 
 \q
 \v 10 They make fun of me constantly; 
-\q2 they continually ask, “Why does your god not help you?” [RHQ]
+\q2 they continually ask, “Why does your god not help you?” \f + \fr rhetorical question \f*
 \q And when they insult me \add like that\add*, 
 \q2 \add it is like\add* wounds that shatter/smash my bones. 
 \b
 \q
 \v 11 But \add I say to\add* myself, 
-\q2 “◄Why am I sad and discouraged?/I should not be sad and discouraged!► [RHQ]
+\q2 “◄Why am I sad and discouraged?/I should not be sad and discouraged!► \f + \fr rhetorical question \f*
 \q I will confidently expect God \add to bless me\add*, 
 \q2 and I will praise him again, 
 \q2 my God, the one who saves me.” 

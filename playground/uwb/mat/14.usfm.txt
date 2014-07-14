@@ -80,7 +80,7 @@ out because we were afraid.
 \v 31 Immediately Jesus stretched out his hand and grabbed him. He said to Peter, “You only trust a little bit
 \add in my power\add*! ◄Why did you doubt \add that I could keep you from
 sinking\add*?/You should not have doubted \add that I could keep you from
-sinking\add*!► [RHQ]” 
+sinking\add*!► \f + \fr rhetorical question \f*” 
 \v 32 Then Jesus and Peter got in the boat, and the wind \add immediately\add* stopped blowing.
 \v 33 All \add of us disciples\add* who were in the boat worshipped Jesus and said, “Truly you are the Son of God!”
 \s Matthew 14:34-36 
@@ -89,7 +89,7 @@ sinking\add*!► [RHQ]”
 \v 34 When we had gone further around\add the lake in the boat\add*, we came to the shore at Gennesaret
 \add town\add*. 
 \v 35 The men of that area recognized Jesus. So they sent \add people to inform those who
-lived\add* in that whole surrounding region [MTY] \add that Jesus was in their
+lived\add* in that whole surrounding region \f + \fr metonymy \f* \add that Jesus was in their
 area\add*. \add So the people\add* brought to Jesus all the sick people
 \add who lived in that region\add*. 
 \v 36  \add The sick people\add* kept begging him to allow them to touch

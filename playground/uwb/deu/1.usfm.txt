@@ -34,7 +34,7 @@ myself.
 \v 10 Yahweh our God has caused us Israelis to now become as numerous as the stars in the sky.
 \v 11 And I hope/desire that Yahweh, the God whom our ancestors \add worshiped\add*, will cause us to become 1,000 times as
 numerous as we are now and that he will bless us just like he promised to do.
-\v 12 But I certainly cannot [RHQ] ◄solve/deal with► all of your complaints/problems.
+\v 12 But I certainly cannot \f + \fr rhetorical question \f* ◄solve/deal with► all of your complaints/problems.
 \v 13 So choose some men from your tribes who are wise and who have good sense and who are respected. Then I will appoint them
 to be your leaders.’ 
 \p
@@ -75,14 +75,14 @@ was giving to us is very good/fertile.”
 commanded them to do, and they would not go into that land. 
 \v 27 Your ancestors \add stayed\add* in their tents and complained saying ‘Yahweh hates us. So he has brought us here from
 Egypt just to allow the Amor people-group to destroy us. 
-\v 28 ◄Why should we go there?/We do not want to go there.► [RHQ] The men whom we sent there have caused us to become very
+\v 28 ◄Why should we go there?/We do not want to go there.► \f + \fr rhetorical question \f* The men whom we sent there have caused us to become very
 discouraged/afraid. They have told us that the people there are much stronger and taller than we are and that there are
-extremely high [HYP] walls around their towns. Also they reported that they saw
+extremely high \f + \fr hyperbole \f* walls around their towns. Also they reported that they saw
 \add giants there that are\add* descendants of Anak.’ 
 \p
-\v 29 Then I said to your ancestors, ‘Do not be afraid ◄at all/even a little bit► [DOU] of those people!
+\v 29 Then I said to your ancestors, ‘Do not be afraid ◄at all/even a little bit► \f + \fr doublet \f* of those people!
 \v 30 Yahweh our God will go ahead of you, and he will fight for you, just like you saw him do for you in Egypt
-\v 31 and in the desert. You saw how he brought you safely here, like a man would carry his son. [SIM]’
+\v 31 and in the desert. You saw how he brought you safely here, like a man would carry his son. \f + \fr simile \f*’
 \p
 \v 32-33  \add I reminded them that\add* he always went ahead of them while they traveled
 \add in the desert\add*. He directed them by \add a pillar of\add* fire during the night and
@@ -119,5 +119,5 @@ region.
 \add a swarm of\add* bees do, and they pursued their men \add south\add* from the Edom area and defeated them at Hormah
 \add city\add*. 
 \v 45 So your ancestors went back \add to Kadesh-Barnea\add* and cried out to request Yahweh
-\add to help them\add*, but he did not heed them. He did not pay any attention to them [DOU].
+\add to help them\add*, but he did not heed them. He did not pay any attention to them \f + \fr doublet \f*.
 \v 46 So we stayed there at Kadesh-Barnea for a long time.” 

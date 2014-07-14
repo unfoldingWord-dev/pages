@@ -5,22 +5,22 @@ caused others to suffer.
 \p
 \v 1 Now \add I have something to say to\add* the rich people \add who do not believe in Christ and
 who\add* ◄\add oppress you/cause you to suffer\add*►. Listen \add to
-me\add*, you rich people! You should weep and wail \add loudly\add* [DOU] because you will experience terrible troubles [PRS]!
-\v 2 Your wealth \add of various kinds\add* is \add worthless\add* [MET],
-\add as though it were\add* rotted. Your fine clothes are \add worthless\add* [MET],
+me\add*, you rich people! You should weep and wail \add loudly\add* \f + \fr doublet \f* because you will experience terrible troubles \f + \fr personification \f*!
+\v 2 Your wealth \add of various kinds\add* is \add worthless\add* \f + \fr metaphor \f*,
+\add as though it were\add* rotted. Your fine clothes are \add worthless\add* \f + \fr metaphor \f*,
 \add as though\add* termites had ruined them. 
-\v 3 Your gold and silver are \add worthless\add* [MET], \add as though they
-were\add* corroded. \add When God judges you\add*, this worthless wealth [MTY] of yours will be evidence [PRS] that you are
+\v 3 Your gold and silver are \add worthless\add* \f + \fr metaphor \f*, \add as though they
+were\add* corroded. \add When God judges you\add*, this worthless wealth \f + \fr metonymy \f* of yours will be evidence \f + \fr personification \f* that you are
 guilty \add of being greedy\add*, and as rust and fire \add destroy\add* [MET, SYN] things,
-\add God\add* will severely punish you [SIM]. You have ◄\add in vain/uselessly\add*► ◄stored up/accumulated►
+\add God\add* will severely punish you \f + \fr simile \f*. You have ◄\add in vain/uselessly\add*► ◄stored up/accumulated►
 \add wealth\add* in a time when \add God\add* is about to \add judge
-you\add* [MTY]. 
+you\add* \f + \fr metonymy \f*. 
 \v 4 Think \add about what you have done\add*. You have not paid wages to the workmen who have harvested your fields for you,
-\add with the result that\add* [PRS] those reapers are crying out
+\add with the result that\add* \f + \fr personification \f* those reapers are crying out
 \add to God for him to help them\add*. \add And God\add*, the all-powerful Lord, has heard their loud cries.
 \v 5 You have lived luxuriously, just to have pleasure \add here\add* on earth.
-\add Just like cattle fatten themselves, not realizing that\add* they will be slaughtered [MET], you have
-\add lived just for pleasure\add* [MTY], \add not realizing that God will severely punish
+\add Just like cattle fatten themselves, not realizing that\add* they will be slaughtered \f + \fr metaphor \f*, you have
+\add lived just for pleasure\add* \f + \fr metonymy \f*, \add not realizing that God will severely punish
 you\add*. 
 \v 6 You have \add arranged for others/judges to\add* condemn innocent people. You have
 \add arranged for others to kill\add* some people. \add And even
@@ -45,7 +45,7 @@ patiently for the rain \add that comes\add* at the planting season and for more 
 \add and punished by the Lord Jesus\add* {in order that \add the Lord
 Jesus\add* will not condemn you}. It is he who will judge us, and he is ready to appear.
 \v 10 My fellow believers, as an example \add of how to be patient\add*, ◄consider/think about► the prophets whom the Lord
-\add God sent long ago\add* to speak his messages [MTY]. \add Although people
+\add God sent long ago\add* to speak his messages \f + \fr metonymy \f*. \add Although people
 caused\add* them to suffer much, they endured it patiently. 
 \v 11 And we know that \add God\add* ◄approves of/is pleased with► those who endure
 \add suffering for him\add*. You have also heard about Job. You know
@@ -57,21 +57,21 @@ that\add although he suffered much\add*, the Lord \add God\add* finally brought 
 \p
 \v 12 Also, my fellow believers, \add I want to say\add* something important
 \add about how you talk\add*. \add If you say that you will do something\add*, do not say, “If I do not do it, may
-\add God in\add* heaven [MTY] punish me.” Do not even say, “If I do not do it, may
-\add someone here on\add* earth [MTY] punish me.” Do not say anything like that. Instead, if you say ‘Yes,’ then
+\add God in\add* heaven \f + \fr metonymy \f* punish me.” Do not even say, “If I do not do it, may
+\add someone here on\add* earth \f + \fr metonymy \f* punish me.” Do not say anything like that. Instead, if you say ‘Yes,’ then
 \add do what you said that you would do\add*. If you say ‘No,’ then do not
 \add do it\add*. Otherwise, \add God\add* will condemn you. 
 \s James 5:13-18 
 \s Whatever your circumstances are, pray, trusting in God, and he will certainly help you, both physically and spiritually. So
 confess your sins to each other and pray for each other, because God answers prayer.
 \p
-\v 13 Whoever among you is experiencing trouble [RHQ] should pray
-\add that God would help him. Whoever\add* is cheerful/happy [RHQ] should sing songs of praise
+\v 13 Whoever among you is experiencing trouble \f + \fr rhetorical question \f* should pray
+\add that God would help him. Whoever\add* is cheerful/happy \f + \fr rhetorical question \f* should sing songs of praise
 \add to God\add*. 
-\v 14 Whoever among you is sick [RHQ] should call the leaders of the
-congregation\add to come to pray for him\add*. They should put \add olive\add* oil on him and, with the Lord's authority [MTY]
+\v 14 Whoever among you is sick \f + \fr rhetorical question \f* should call the leaders of the
+congregation\add to come to pray for him\add*. They should put \add olive\add* oil on him and, with the Lord's authority \f + \fr metonymy \f*
 (OR, calling on the Lord \add to heal him\add*), pray. 
-\v 15 And if they truly trust \add in the Lord\add* when they pray [PRS], the sick person will be healed. The Lord will heal
+\v 15 And if they truly trust \add in the Lord\add* when they pray \f + \fr personification \f*, the sick person will be healed. The Lord will heal
 him. And if that person has sinned ◄\add in a way that caused him to be/and because of that he
 became\add*► \add sick, if he\add* ◄\add confesses what he did/says that he did what is
 wrong\add*►, he will be forgiven {\add the Lord\add* will forgive him}.
@@ -82,7 +82,7 @@ sins\add*, tell each other the sinful things that you have done, and pray for ea
 \v 17  \add Although the prophet\add* Elijah was ◄an ordinary person/just a human being► like us, he earnestly prayed that it
 would not rain. \add As a result\add*, it did not rain for three and a half years.
 \v 18 Then he prayed again, \add asking God to send rain\add*, and
-\add as a result God\add* [MTY] sent rain, and plants \add grew and\add* produced crops
+\add as a result God\add* \f + \fr metonymy \f* sent rain, and plants \add grew and\add* produced crops
 \add again\add*. 
 \s James 5:19-20 
 \s If anyone turns away from God's true message, you believers should urge him to once again obey God so that God will forgive

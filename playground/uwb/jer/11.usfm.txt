@@ -8,7 +8,7 @@ of\add* the people of Jerusalem and the other cities in Judah. Then tell that ag
 \add worship\add*, said that I will curse everyone who does not obey what was written in that agreement that I made with them.
 \v 4 It is the same agreement that I made with their ancestors when I brought them out of Egypt.
 \add What happened to them in Egypt was terrible; it was as though they
-were\add* living in a hot furnace [MET]. When I brought them out of Egypt, I told them to obey me, and to do everything that I
+were\add* living in a hot furnace \f + \fr metaphor \f*. When I brought them out of Egypt, I told them to obey me, and to do everything that I
 had commanded them to do. I also told them that if they obeyed me, they would be my people and I would be their God.
 \v 5  \add Now tell these people that if they obey me\add*, I will do what I promised to do for their ancestors. I will enable
 them to continue living in this very fertile [IDI] land in which they now live.”
@@ -39,9 +39,9 @@ burn incense \add to those gods\add* as there are streets in Jerusalem.
 attention; and if they cry out to me for help when they are in distress, I will not listen to them.”
 \p
 \v 15 Then Yahweh said, 
-\q “The people \add of Judah\add* whom I love certainly no longer have [RHQ] a right to come to my temple,
+\q “The people \add of Judah\add* whom I love certainly no longer have \f + \fr rhetorical question \f* a right to come to my temple,
 \q2 because they continually do many evil things. 
-\q \add They think that\add* continually making sacrifices of meat to me certainly will [RHQ] protect them from disasters,
+\q \add They think that\add* continually making sacrifices of meat to me certainly will \f + \fr rhetorical question \f* protect them from disasters,
 \q2 with the result that they will be able to rejoice. 
 \q
 \v 16 I previously said that they were like an olive tree full of green leaves
@@ -59,10 +59,10 @@ the armies of angels, planted,
 \v 18 Yahweh revealed to me that my enemies were planning to kill me.
 \v 19  \add Before he did that\add*, I was like a lamb that was being led away to be slaughtered; I did not know what they were
 planning to do. I did not know that they were saying, “Let's get rid of this tree and its fruit,” so
-\add I did not know\add* that they intended to kill me, in order that no one would remember me [MTY].
+\add I did not know\add* that they intended to kill me, in order that no one would remember me \f + \fr metonymy \f*.
 \q
 \v 20 Then I prayed, “The Almighty Commander of the armies of angels you judge people justly/fairly,
-\q2 and you examine everything that we are thinking [DOU]. 
+\q2 and you examine everything that we are thinking \f + \fr doublet \f*. 
 \q Allow me to watch you getting revenge on the people \add who want to kill
 me\add*, 
 \q2 because I trust that you will do for me what is right.” 

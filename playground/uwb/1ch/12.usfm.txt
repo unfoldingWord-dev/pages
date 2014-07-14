@@ -24,7 +24,7 @@ right arms or their left arms to do that. They were relatives of Saul from the t
 \p
 \v 8 Some men from the tribe of Gad \add east of the Jordan River\add* joined David when he was at his fortress in
 \add the caves in\add* the desert. They were brave warriors who were trained for fighting battles and able to use shields and
-spears well. They [SYN] were as fierce as [SIM, MTY] lions, and they could run as fast as [HYP, SIM] deer/gazelles on the
+spears well. They \f + \fr synecdoche \f* were as fierce as [SIM, MTY] lions, and they could run as fast as [HYP, SIM] deer/gazelles on the
 hills/mountains. 
 \li
 \v 9 Ezer was their leader. 
@@ -51,14 +51,14 @@ both sides of the river.
 \p
 \v 16 Some other men from the tribe of Benjamin and from Judah also came to David in his fortress.
 \v 17 David went out \add of the cave\add* to meet them and said to them, “If you have come peacefully to help me, I am eager
-to have to join with me. But if you have come to enable my enemies to capture me, even though I [SYN] have not done anything to
+to have to join with me. But if you have come to enable my enemies to capture me, even though I \f + \fr synecdoche \f* have not done anything to
 harm you, I hope/wish that the God whom our ancestors worshiped/belonged to will see it and condemn/punish you.”
 \p
 \v 18 Then \add God's\add* Spirit came upon Amasai, who was the leader of the thirty
 \add greatest warriors\add*, and he said, 
 \q David, we want to be with you; 
 \q2 you who are the son of Jesse, we will join you. 
-\q We know that things will go very well [DOU] for you and for those who are with you,
+\q We know that things will go very well \f + \fr doublet \f* for you and for those who are with you,
 \q2 because your God is helping you. 
 \p
 \v 19 So David welcomed those men, and he appointed them to be leaders of his soldiers. Some men from the tribe of Manasseh
@@ -71,7 +71,7 @@ Michael, \add another man whose name was\add* Jozabad, Elihu, and Zillethai. Eac
 \add in Saul's army\add*. 
 \v 21 They were all brave soldiers, and they helped David to fight against the groups of men who roamed throughout the country,
 robbing people. So those men became commanders in David's army. 
-\v 22 Every day more men joined David's men, and his army became large, like [SIM] the army of God [OR, a very huge army].
+\v 22 Every day more men joined David's men, and his army became large, like \f + \fr simile \f* the army of God [OR, a very huge army].
 \s Others joined David at Hebron 
 \p
 \v 23 These are the numbers of soldiers who were ready for battle who joined David at Hebron

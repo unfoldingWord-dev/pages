@@ -3,7 +3,7 @@
 \p
 \v 1 Meanwhile, the guards of Jericho shut the gates of the city tightly, because
 \add they were afraid\add* of the Israeli \add army\add*. No one was allowed to go into the city or go out of it.
-\v 2 Then Yahweh said to Joshua, “Listen \add to what I say\add*! I am going to enable your army [SYN] to capture/conquer [MTY]
+\v 2 Then Yahweh said to Joshua, “Listen \add to what I say\add*! I am going to enable your army \f + \fr synecdoche \f* to capture/conquer \f + \fr metonymy \f*
 Jericho and its king and its soldiers. 
 \v 3 So your army must march around the city for six days, once each day.
 \v 4 Tell seven priests to march around with them. Each priest must carry a trumpet. Four other priests must carry the sacred
@@ -47,7 +47,7 @@ Joshua commanded the people, “Shout, because Yahweh is going to enable you to 
 \v 17 Yahweh has declared that you must destroy [IDI] the city and everything in it
 \add to show that it belongs to him\add*. You must spare only Rahab the prostitute and the others who are in her house, because
 she hid the spies whom we sent there. 
-\v 18 And because Yahweh has declared that everything must be destroyed [IDI], you must not take [EUP] any of the things in the
+\v 18 And because Yahweh has declared that everything must be destroyed [IDI], you must not take \f + \fr euphemism \f* any of the things in the
 city. If you take anything, you will cause Yahweh to destroy our own camp and cause terrible things to happen to us.
 \v 19 But all the silver and gold and articles made from iron and bronze that you find, you must set apart for Yahweh. You must
 put those things in his treasury.” 

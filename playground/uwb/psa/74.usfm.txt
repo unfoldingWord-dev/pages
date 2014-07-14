@@ -2,7 +2,7 @@
 \s A psalm written by Asaph 
 \q
 \v 1 God, why have you abandoned/rejected us? 
-\q2 Will you keep rejecting us forever [RHQ]? 
+\q2 Will you keep rejecting us forever \f + \fr rhetorical question \f*? 
 \q Why are you angry with us, 
 \q2 since we are like sheep in your pasture \add and you are like our
 shepherd\add*? [MET, RHQ] 
@@ -34,23 +34,23 @@ shepherd\add*? [MET, RHQ]
 \q2 and no one knows how long \add this situation will continue\add*.
 \b
 \q
-\v 10 God, how long will our enemies make fun of you [RHQ]? 
-\q Will they insult you [MTY] forever [RHQ]? 
+\v 10 God, how long will our enemies make fun of you \f + \fr rhetorical question \f*? 
+\q Will they insult you \f + \fr metonymy \f* forever \f + \fr rhetorical question \f*? 
 \q
 \v 11 Why do you refuse to help [MTY, RHQ] us? 
 \q2 Why do you keep your hand inside your cloak \add instead of using it to destroy our
-enemies\add* [RHQ]? 
+enemies\add* \f + \fr rhetorical question \f*? 
 \b
 \q
-\v 12 God, you have been our king \add during all the years\add* since we came out of Egypt [HYP],
+\v 12 God, you have been our king \add during all the years\add* since we came out of Egypt \f + \fr hyperbole \f*,
 \q and you have enabled us to defeat \add our enemies\add* in the land
 \add of Israel\add*. 
 \q
 \v 13 By your power you caused the \add Red\add* Sea to divide; 
 \q2 \add it was as though\add* you smashed the heads of the \add rulers of Egypt who were
-like\add* huge sea dragons [MET]. 
+like\add* huge sea dragons \f + \fr metaphor \f*. 
 \q
-\v 14  \add It was as though\add* you crushed the head of the king of Egypt [MET]
+\v 14  \add It was as though\add* you crushed the head of the king of Egypt \f + \fr metaphor \f*
 \q2 and gave his body to the animals in the desert to eat. 
 \q
 \v 15 You caused springs and streams to flow, 
@@ -64,16 +64,16 @@ like\add* huge sea dragons [MET].
 \b
 \q
 \v 18 Yahweh, do not forget that your enemies laugh at you, 
-\q and that it is foolish people who despise you [MTY]. 
+\q and that it is foolish people who despise you \f + \fr metonymy \f*. 
 \q
-\v 19 Do not abandon your helpless people [MET] in the hands of their cruel enemies;
+\v 19 Do not abandon your helpless people \f + \fr metaphor \f* in the hands of their cruel enemies;
 \q do not forget your suffering/persecuted people. 
 \q
 \v 20 ◄Continue thinking about/Do not forget► the agreement that you made with us;
 \q2 Remember that there are violent people in every dark place on the earth.
 \q
 \v 21 Do not allow your oppressed people to be disgraced; 
-\q2 help those poor and needy people in order that they will again praise you [MTY].
+\q2 help those poor and needy people in order that they will again praise you \f + \fr metonymy \f*.
 \b
 \q
 \v 22 God, arise and defend yourself \add by defending your people\add*!

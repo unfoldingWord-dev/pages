@@ -66,7 +66,7 @@ of\add* Issachar;
 \add territory of the\add* tribe of Judah. 
 \s Solomon's kingdom 
 \p
-\v 20 There were as many people in Judah and Israel as there are grains of sand [HYP] on the seashore. They
+\v 20 There were as many people in Judah and Israel as there are grains of sand \f + \fr hyperbole \f* on the seashore. They
 \add had plenty to\add* eat and drink and they were happy. 
 \v 21 Solomon's kingdom extended from the Euphrates \add River in the
 northeast\add* to the Philistia \add area in the west\add* and to the border of Egypt
@@ -88,7 +88,7 @@ and fig trees.
 chariots). 
 \p
 \v 27 His twelve governors supplied the food that King Solomon needed for himself and for all those who ate in the palace. Each
-governor supplied food for one month each year. They provided everything [LIT] that Solomon required.
+governor supplied food for one month each year. They provided everything \f + \fr litotes \f* that Solomon required.
 \v 28 They also brought \add stalks of\add* barley and wheat for the fast horses
 \add that pulled the chariots\add* and for the \add other work\add* horses. They brought it to the places where the horses were
 kept. 

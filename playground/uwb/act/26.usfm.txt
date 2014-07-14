@@ -7,13 +7,13 @@
 ◄\add dramatically/to salute the king\add*► and began to defend himself. He said,
 \v 2 “King Agrippa, I consider that I am fortunate that today, while
 you\add (sg)\add* listen, I can defend myself from all the things about which the Jewish
-\add leaders\add* [SYN] are accusing me. 
+\add leaders\add* \f + \fr synecdoche \f* are accusing me. 
 \v 3 I am really fortunate, because you\add (sg)\add* know all about the customs of us Jews and the questions that
 we\add (exc)\add* argue about. So I ask you, please listen patiently to what I say.”
 \s Acts 26:4-8 
 \s Paul told about being a Pharisee who believed that God would resurrect people.
 \p
-\v 4 “Many [HYP] of my fellow Jews know about how I have conducted my life, from the time I was a child. They know how I lived
+\v 4 “Many \f + \fr hyperbole \f* of my fellow Jews know about how I have conducted my life, from the time I was a child. They know how I lived
 in the area where I \add was born\add* and \add also later\add* in Jerusalem.
 \v 5 They have known for many years, and they could tell you, if they wanted to, that
 \add since I was very young\add* I obeyed the customs of our religion very carefully, just like the
@@ -23,14 +23,14 @@ what he promised our\add (exc)\add* ancestors.
 \v 7 Our twelve tribes are \add also\add* confidently waiting for God to do
 \add for us what he promised\add*, as they respectfully worship him, day and night.
 \add Respected\add* king, I confidently expect\add that God will do what he promised, and they also believe that! But that is
-the reason\add* that these Jewish leaders [SYN] are accusing me!
+the reason\add* that these Jewish leaders \f + \fr synecdoche \f* are accusing me!
 \v 8 You \add people\add* believe that God can cause those who have died to become alive again, so ◄why
 \add do you refuse to believe that he raised Jesus from the dead?/you should not refuse to believe that he raised Jesus from
-the dead!\add*► [RHQ]” 
+the dead!\add*► \f + \fr rhetorical question \f*” 
 \s Acts 26:9-11 
 \s Paul told about how he had persecuted Christians. 
 \p
-\v 9 “\add Formerly\add* I, too, was sure that I should do everything that I could to oppose Jesus [MTY], the man from Nazareth
+\v 9 “\add Formerly\add* I, too, was sure that I should do everything that I could to oppose Jesus \f + \fr metonymy \f*, the man from Nazareth
 \add town\add*. 
 \v 10 So that is what I did \add when I lived\add* in Jerusalem. I put many of the believers in jail, as the chief priests
 there had authorized me \add to do\add*. When \add the Jewish leaders
@@ -50,8 +50,8 @@ there\add*.
 \add bright\add* light in the sky. It was even brighter than the sun! It shone all around me, and also around the men who were
 traveling with me. 
 \v 14 We\add (exc)\add* all fell to the ground. Then I heard the voice of someone speaking to me in my own Hebrew language
-[MTY]. He said ‘Saul, Saul, ◄stop causing me to suffer!/why are you causing me to suffer?► [RHQ]
-You\add (sg)\add* are \add hurting yourself by trying to hurt me\add* [MET],
+\f + \fr metonymy \f*. He said ‘Saul, Saul, ◄stop causing me to suffer!/why are you causing me to suffer?► \f + \fr rhetorical question \f*
+You\add (sg)\add* are \add hurting yourself by trying to hurt me\add* \f + \fr metaphor \f*,
 \add like an ox\add* kicking against \add its owner's\add* goad.’
 \v 15 Then I asked, ‘Who are you, Lord?’ The Lord said to me, ‘I am Jesus.
 You\add (sg)\add* are harming me \add by harming my followers\add*.
@@ -61,14 +61,14 @@ you\add (sg)\add* to tell you that I have chosen you to serve me. You must tell 
 \add will show you when\add* I will \add later\add* appear to you.
 \v 17 I will protect you \add from those who will try to harm you,
 both\add* your own people and \add also\add* those who are not Jewish. I am sending you to them
-\v 18 to help them to realize [MTY] what is true and to stop believing what is false [MET]. I am sending you to them so that
+\v 18 to help them to realize \f + \fr metonymy \f* what is true and to stop believing what is false \f + \fr metaphor \f*. I am sending you to them so that
 they may let God control them and not let Satan control them anymore.
 \add Then God\add* will forgive their sins and will accept them as his people because they believe in me.’
 \add That is what Jesus said to me\add*.” 
 \s Acts 26:19-20 
 \s Paul said that he obeyed what Jesus commanded him from heaven.
 \p
-\v 19 “So, King Agrippa, I fully obeyed [LIT] what \add the Lord Jesus told me to do when he spoke to
+\v 19 “So, King Agrippa, I fully obeyed \f + \fr litotes \f* what \add the Lord Jesus told me to do when he spoke to
 me\add* from heaven. 
 \v 20 First, I preached to \add the Jews\add* in Damascus. Then I
 \add preached to the Jews\add* in Jerusalem and throughout \add the rest
@@ -79,7 +79,7 @@ stopped their sinful behavior.”
 \s Paul said that he proclaimed what the prophets had written about the Messiah.
 \p
 \v 21 “It is because I \add preached\add* this message \add that
-some\add* [SYN] Jews seized me \add when I was\add* in the Temple
+some\add* \f + \fr synecdoche \f* Jews seized me \add when I was\add* in the Temple
 \add courtyard and\add* tried to kill me. 
 \v 22 However, God has been helping me \add from that time, and he is still helping
 me\add* today. So I stand here and I tell \add all of you people\add*, those who are important and those who are not,
@@ -97,23 +97,23 @@ studied too much, and it has made you insane!”
 \v 25 But Paul answered, “Your Excellency, Festus, I am not raving
 \add insanely\add*! On the contrary, what I am saying is true and sensible!
 \v 26 King Agrippa knows the things \add that I have been talking
-about\add*, and I can speak confidently to him \add about them\add*. I am sure that he knows [LIT] these things, because people
-everywhere [IDM] have heard [LIT] about what happened \add to Jesus\add*.”
+about\add*, and I can speak confidently to him \add about them\add*. I am sure that he knows \f + \fr litotes \f* these things, because people
+everywhere \f + \fr idiom \f* have heard \f + \fr litotes \f* about what happened \add to Jesus\add*.”
 \v 27 Then Paul asked, “King Agrippa, do you believe \add what\add* the prophets
 \add wrote\add*? I know that you\add (sg)\add* believe it.” 
 \v 28 Then Agrippa \add answered\add* Paul, “◄\add I hope that you(sg)\add* do not think that by the few things
 \add that you have just now said\add* you can persuade me to become a Christian!/You do not think,
 \add do you\add*, that by the few things \add that you have just now
-said\add* you can persuade me to become a Christian?►” [RHQ] 
+said\add* you can persuade me to become a Christian?►” \f + \fr rhetorical question \f* 
 \v 29 Paul replied, “Whether it takes a short time or a long time, it does not matter. I pray to God that you and also all of
 the others who are listening to me today will also \add believe in
-Jesus\add* like I do, but I do not want you to become prisoners [MTY]
+Jesus\add* like I do, but I do not want you to become prisoners \f + \fr metonymy \f*
 \add like I am\add*.” 
 \s Acts 26:30-32 
 \s The officials said that Paul was innocent but must go to Rome.
 \p
 \v 30 Then the king, the governor, Bernice, and all the others got up
 \v 31 and left \add the room. While\add* they were talking to one another they said to each other, “There is no reason why ◄the
-authorities/we► should execute this man, or that he should even be kept in prison [MTY].”
+authorities/we► should execute this man, or that he should even be kept in prison \f + \fr metonymy \f*.”
 \v 32 Agrippa said to Festus, “If this man had not asked that the Emperor judge him, he could have been released
 {\add we(inc)\add* could have released him}.” 

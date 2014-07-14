@@ -7,7 +7,7 @@
 \q
 \v 2 If you do that, you will be able to choose wisely \add what to
 do\add*, 
-\q2 and you will know \add the right things\add* to say [MTY]. 
+\q2 and you will know \add the right things\add* to say \f + \fr metonymy \f*. 
 \q
 \v 3 What an immoral woman says \add to you\add* may be as sweet as honey,
 \q2 and sound smoother than olive oil \add feels on your skin\add*,
@@ -15,7 +15,7 @@ do\add*,
 \v 4 but the result \add of being with her\add* will be bitter like gall
 \q2 and \add injure you as badly\add*, like being cut with a sharp two-edged sword.
 \q
-\v 5 If you go where she goes [MTY], you will go down to where the dead people are.
+\v 5 If you go where she goes \f + \fr metonymy \f*, you will go down to where the dead people are.
 \q2 Her steps will lead you straight to the grave. 
 \q
 \v 6 She is not concerned about the roads that lead to a \add long\add* life.
@@ -24,7 +24,7 @@ do\add*,
 \b
 \q
 \v 7 So now, my sons, listen to me. 
-\q ◄Never turn aside from/always remember► [LIT] what I am about to tell you.
+\q ◄Never turn aside from/always remember► \f + \fr litotes \f* what I am about to tell you.
 \q
 \v 8 Run away from immoral women! 
 \q2 Do not go near the doors of their houses! 
@@ -51,8 +51,8 @@ behavior\add*.
 \q2 and I will be disgraced in public gatherings.” 
 \b
 \q
-\v 15 Like a man is refreshed by drinking water from his own well [MET],
-\q2 enjoy \add having sex\add* [EUP] only with your own wife. 
+\v 15 Like a man is refreshed by drinking water from his own well \f + \fr metaphor \f*,
+\q2 enjoy \add having sex\add* \f + \fr euphemism \f* only with your own wife. 
 \q
 \v 16 Like you would not waste good water by pouring it into the street,
 \q2 \add you should not have sex with other women\add*. [MET, EUP]
@@ -67,7 +67,7 @@ behavior\add*.
 \q2 Allow her breasts to always satisfy you. 
 \q2 Allow her lovemaking to excite you. 
 \q
-\v 20 My son, do not be [RHQ] captivated/charmed by an immoral woman!
+\v 20 My son, do not be \f + \fr rhetorical question \f* captivated/charmed by an immoral woman!
 \q2 Do not fondle the breasts of another man's wife! 
 \b
 \q

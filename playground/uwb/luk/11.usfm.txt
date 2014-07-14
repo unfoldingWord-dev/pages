@@ -6,9 +6,9 @@
 \add what to say when\add* we\add (exc)\add* pray, as John \add the
 Baptizer\add* taught his disciples!” 
 \v 2 He said to them, “When you pray, say \add things like this\add*: ‘Father, we want
-you\add (sg)\add* [MTY] to be honored/revered. \add We want people to let
+you\add (sg)\add* \f + \fr metonymy \f* to be honored/revered. \add We want people to let
 you(sg)\add* [MTY, MET] rule over their lives. 
-\v 3 Give us\add (exc)\add* each day the food [SYN] that we need.
+\v 3 Give us\add (exc)\add* each day the food \f + \fr synecdoche \f* that we need.
 \v 4 Forgive us \add for\add* the wrong things that we have done, because we forgive people for the wrong things that they do
 to us. Do not let us do wrong things when we are tempted {\add someone or
 something\add* tempts us}.’” 
@@ -25,7 +25,7 @@ house\add*, but I have no food \add ready\add* to give to him!’
 ashamed you continue asking him to do that), he certainly will get up and give you whatever you need.
 \v 9 So I tell you this: Keep asking \add God for what you need\add*. If you do that,
 \add he\add* will give it to you\add (pl)\add*. Confidently keep expecting
-\add God to give you the things that you need\add*, and \add he\add* will give them to you [MET].
+\add God to give you the things that you need\add*, and \add he\add* will give them to you \f + \fr metaphor \f*.
 \add It will be like\add* looking for what you need and finding it. Keep on
 \add praying urgently to God. Then God will answer you. It will be
 like\add* knocking \add on a door\add*. And \add God\add* will open
@@ -36,9 +36,9 @@ asking\add . He\add* will open \add the way\add* for people \add to get the thin
 for\add*. 
 \v 11 If one of you had a son who asked you\add (sg)\add* for a fish
 \add to eat\add*, ◄you\add (sg)\add* certainly would not give him a
-\add poisonous\add* snake instead!/would you give him a \add poisonous\add* snake instead?► [RHQ]
+\add poisonous\add* snake instead!/would you give him a \add poisonous\add* snake instead?► \f + \fr rhetorical question \f*
 \v 12 If he asked you for an egg, ◄you\add (sg)\add* certainly would not give him a scorpion!/would you give him a scorpion?►
-[RHQ] 
+\f + \fr rhetorical question \f* 
 \v 13 Even though you people are evil, you know how to give good things to your children. So your Father in heaven will
 certainly \add give good things\add* to those who ask him, \add including\add* giving the Holy Spirit,
 \add who is the best gift\add*.” 
@@ -46,7 +46,7 @@ certainly \add give good things\add* to those who ask him, \add including\add* g
 \s Jesus taught people various things about demons. 
 \p
 \v 14  \add One day there was a man there who, because a demon controlled
-him\add* [MTY], was unable to speak. After \add Jesus expelled\add* the demon, the man
+him\add* \f + \fr metonymy \f*, was unable to speak. After \add Jesus expelled\add* the demon, the man
 \add began to\add* talk. \add Most of\add* the people \add there\add* were amazed.
 \v 15 But some of them said, “It is Beelzebub, the ruler of the demons, who enables
 \add this man\add* to expel demons!” 
@@ -56,22 +56,22 @@ him\add* [MTY], was unable to speak. After \add Jesus expelled\add* the demon, t
 ridiculous\add*. 
 \v 17 But he knew what they were thinking. So he said to them, “If
 \add the people in\add* one nation fight against each other, their nation will be destroyed
-{\add they\add* will destroy their nation}. If \add the people in\add* [MTY] one house are divided, they will cease to remain
+{\add they\add* will destroy their nation}. If \add the people in\add* \f + \fr metonymy \f* one house are divided, they will cease to remain
 as one \add family\add*. 
 \v 18  \add Similarly\add*, if Satan \add and his demons\add* were fighting against each other, ◄his rule over them would
-\add certainly\add* not last!/how would his rule over them last?► [RHQ]
+\add certainly\add* not last!/how would his rule over them last?► \f + \fr rhetorical question \f*
 \add I say this\add* because you are saying that I am expelling demons by
 \add the power of\add* the ruler of \add his own demons\add*! 
 \v 19 Furthermore, if \add it is true that\add* Satan enables me to expel demons,
 \add is it also true that\add* your disciples \add who\add* expel demons
-\add do so\add* by \add Satan's\add* power [RHQ]? \add No, that is not
+\add do so\add* by \add Satan's\add* power \f + \fr rhetorical question \f*? \add No, that is not
 true\add*. So they will show that you \add are not thinking logically\add*.
-\v 20 But because it is by the power [MTY] of God \add that I expel
-demons\add*, I am showing you \add that the power of\add* God to [MET] rule
+\v 20 But because it is by the power \f + \fr metonymy \f* of God \add that I expel
+demons\add*, I am showing you \add that the power of\add* God to \f + \fr metaphor \f* rule
 \add people's lives\add* has come to you.” 
 \p
 \v 21 Then, \add to show that by expelling evil spirits he was making it clear that he was much more powerful than Satan, Jesus
-said\add* [MET], “When a strong man who has many weapons guards his own house, no one can steal the things in his house.
+said\add* \f + \fr metaphor \f*, “When a strong man who has many weapons guards his own house, no one can steal the things in his house.
 \v 22 But when someone else who is stronger attacks that man and subdues him, he is able to take away the weapons in which the
 man trusted. Then he can take from that man's house anything he \add wants
 to\add*. 
@@ -120,18 +120,18 @@ ways\add*. Therefore, at the time when God judges \add all people\add*, the peop
 you and condemn you.” 
 \p
 \v 33  \add Then, to show them that they did not need more miracles, but that they needed only to understand better what he had
-already told them, he said to them\add* [MET], “People who light a lamp do not then hide it, or put it under a basket. Instead,
+already told them, he said to them\add* \f + \fr metaphor \f*, “People who light a lamp do not then hide it, or put it under a basket. Instead,
 they put it on a lampstand so that those who enter \add the house\add* can see
 \add things from\add* its light. \add Similarly, I have not concealed God's truth. I have revealed it to
 you\add*. 
-\v 34 Your eyes [MET] are like a lamp for your body, because they enable you to see things. If your eyes are healthy, you are
-able to see everything well [MET]. \add Similarly, if you(sg) accept my teaching, you will be able to know all that God wants
-you to know\add*. But if your eyes are bad, you are not able to see anything. It is like being in darkness [MET].
+\v 34 Your eyes \f + \fr metaphor \f* are like a lamp for your body, because they enable you to see things. If your eyes are healthy, you are
+able to see everything well \f + \fr metaphor \f*. \add Similarly, if you(sg) accept my teaching, you will be able to know all that God wants
+you to know\add*. But if your eyes are bad, you are not able to see anything. It is like being in darkness \f + \fr metaphor \f*.
 \add And similarly, if you(pl) do not accept what I teach, you will not be able to know all the things that God wants you to
 know\add*. 
 \v 35 Therefore, \add you(pl) do not need to see more miracles. You need to think carefully about what I have
 already\add* told you, so that the things that you have heard from others do not cause you to remain in spiritual darkness
-[MET]. 
+\f + \fr metaphor \f*. 
 \v 36 If you \add live completely according to God's truth, you will be able to know everything that God wants you to know. It
 will be like\add* being in a room with a lamp shining brightly, enabling you to see everything clearly.”
 \s Luke 11:37-54 (Mt. 23:1-36; Mk. 12:38-40) 
@@ -144,12 +144,12 @@ eating. \add The Pharisees washed their hands in a certain way to be cleansed fr
 They were afraid that God might reject them if they\add* had \add touched something unacceptable to
 God\add*. 
 \v 39 The Lord \add Jesus\add* said to Him, “You Pharisees are \add concerned about things that are outside your bodies, not
-with what is in your\add* ◄\add inner beings/hearts\add*► [MET]. You wash the outside of cups and dishes
+with what is in your\add* ◄\add inner beings/hearts\add*► \f + \fr metaphor \f*. You wash the outside of cups and dishes
 \add before you eat because you think that doing that will make you acceptable to
 God\add*, but within yourselves you are very greedy and wicked. 
 \v 40 You foolish people! \add God\add* is concerned about things that are outside
 \add our bodies\add*, but ◄he is certainly also concerned about our inner
-\add beings\add*!/isn't he also concerned about our hearts?► [RHQ]
+\add beings\add*!/isn't he also concerned about our hearts?► \f + \fr rhetorical question \f*
 \v 41 Give \add money\add* to those who are poor. \add Give according to what you know
 within\add* your ◄inner beings\add /hearts\add*► \add that you should
 give\add*. Then you \add will be surprised to realize that\add* you will be acceptable
@@ -164,32 +164,32 @@ give\add*. Then you \add will be surprised to realize that\add* you will be acce
 you\add*, and you like people to greet you \add respectfully\add* in the marketplaces.
 \v 44 There will be terrible punishment for you, because you are like ground where there is no marker
 \add to indicate that there is a\add* grave \add underneath\add*. People walk there, but they cannot see
-\add what is rotten down below\add* [MET]! \add Similarly, people who see you do not realize how polluted you are within
+\add what is rotten down below\add* \f + \fr metaphor \f*! \add Similarly, people who see you do not realize how polluted you are within
 yourselves\add*.” 
 \p
 \v 45 One of those who taught the \add Jewish\add* laws replied, “Teacher, by saying this
 you\add (sg)\add* are criticizing us \add also\add*!” 
 \v 46 Jesus said, “It will be terrible also for you who teach the
 \add Jewish\add* laws! You require people \add to obey many rules that are difficult to
-obey\add* [MET]. \add That is like making them\add* carry heavy burdens on their backs. But you yourselves do not obey the laws
+obey\add* \f + \fr metaphor \f*. \add That is like making them\add* carry heavy burdens on their backs. But you yourselves do not obey the laws
 \add that you require others to obey\add*. (OR, you do not do anything to help
 \add others to obey the laws\add*.) 
 \v 47 There will be terrible punishment for you! You decorate the tombs of the prophets whom your ancestors killed,
 \add but you do not live according to what the prophets taught\add*.
 \v 48 So you are declaring that you approve of what your ancestors did. They killed the prophets, and you
 \add are not honoring them! You just\add* decorate their tombs! 
-\v 49 So God, who is very wise [PRS], said, ‘I will send prophets and apostles
+\v 49 So God, who is very wise \f + \fr personification \f*, said, ‘I will send prophets and apostles
 \add to you Jews\add*. \add You\add* will kill some of them and cause some of them to suffer greatly.
 \v 50  \add As a result, I\add* will consider that many of you people
-\add who have observed my Son's ministry\add* will be guilty [MTY]
+\add who have observed my Son's ministry\add* will be guilty \f + \fr metonymy \f*
 \add of murder, as if you had\add* killed all the prophets that other people have killed, from the time I created the world,
 \v 51 starting from \add Adam's son Cain\add* killing \add his brother\add* Abel and continuing until they killed the prophet
 Zechariah \add in the holy place\add* between the altar and the temple.’ Yes, what I am saying
-\add is true\add* [MTY]. \add God\add* will punish you people who have observed my ministry whom
-\add he\add* considers to be guilty [MTY] for \add killing\add* all those prophets!
+\add is true\add* \f + \fr metonymy \f*. \add God\add* will punish you people who have observed my ministry whom
+\add he\add* considers to be guilty \f + \fr metonymy \f* for \add killing\add* all those prophets!
 \v 52 There will be terrible punishment for you men who teach the
 \add Jewish\add* laws, because you have \add not let people\add* know
-\add God's truth\add* [MET]! \add It is as though you are\add* taking away a key
+\add God's truth\add* \f + \fr metaphor \f*! \add It is as though you are\add* taking away a key
 \add to a house\add*. You are not going into \add the house\add* yourselves, and you are not letting other people enter it,
 either.” 
 \p

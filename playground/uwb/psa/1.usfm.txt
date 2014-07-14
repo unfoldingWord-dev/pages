@@ -1,8 +1,8 @@
 \c 1  
 \s The people God is pleased with 
 \q
-\v 1  \add Yahweh\add* is pleased with those who do not do what the [MET] wicked people advise them to do,
-\q2 and who do not imitate the behavior of [MET] of sinful people,
+\v 1  \add Yahweh\add* is pleased with those who do not do what the \f + \fr metaphor \f* wicked people advise them to do,
+\q2 and who do not imitate the behavior of \f + \fr metaphor \f* of sinful people,
 \q and who do not join with people who ◄ridicule/sneer at► \add God\add*.
 \q
 \v 2 Those whom God is pleased with delight in doing the things that Yahweh has instructed/taught us to do.
@@ -18,7 +18,7 @@
 \q2 Wicked people are as worthless as chaff 
 \q2 that is blown away by the wind. 
 \q
-\v 5 Therefore, wicked people ◄will not be acquitted/will be condemned► [LIT] when
+\v 5 Therefore, wicked people ◄will not be acquitted/will be condemned► \f + \fr litotes \f* when
 \add God\add* judges people, 
 \q2 and furthermore, sinful people will not even be present when God gathers righteous people together,
 \q

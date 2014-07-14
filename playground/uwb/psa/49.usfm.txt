@@ -11,11 +11,11 @@
 \v 3 because what I am thinking is very sensible, 
 \q2 and what I say will enable you to become wise. 
 \q
-\v 4 I think about [MTY] ◄proverbs/wise sayings►, 
+\v 4 I think about \f + \fr metonymy \f* ◄proverbs/wise sayings►, 
 \q2 and while I play my harp, I explain what they mean. 
 \b
 \q
-\v 5 I am not [RHQ] afraid when I am in trouble/danger, 
+\v 5 I am not \f + \fr rhetorical question \f* afraid when I am in trouble/danger, 
 \q2 when I am surrounded by my enemies, 
 \q
 \v 6 by evil men who trust that \add things will always go well for them

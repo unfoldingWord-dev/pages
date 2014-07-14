@@ -2,18 +2,18 @@
 \s 2 Corinthians 3:1-6 
 \s The way you now live proves that we teach the truth about Jesus Christ.
 \p
-\v 1  \add As I write these things about myself\add*, I am [RHQ] not
+\v 1  \add As I write these things about myself\add*, I am \f + \fr rhetorical question \f* not
 \add doing it\add* to boast about how good I am, \add as some of you say I
 do\add*. Some people always carry letters with them that tell how well they work,
-\add that other people\add* have \add written\add*. But I do not [RHQ] need
+\add that other people\add* have \add written\add*. But I do not \f + \fr rhetorical question \f* need
 \add to bring\add* letters like that \add when I come to you\add*. Nor do I need to ask you
 \add to write\add* letters like that \add for me when I go to other
 congregations\add*. 
-\v 2 You yourselves are [MET] \add like a\add* letter that recommends my work
+\v 2 You yourselves are \f + \fr metaphor \f* \add like a\add* letter that recommends my work
 \add for God to everyone\add*. People see \add how Christ changed\add* your
 \add lives when you believed the message that I taught you\add*. Everyone
 \add who knows you\add* can see \add the result of my work for God\add*.
-\v 3 You are [MET] \add like\add* a letter that Christ himself \add has
+\v 3 You are \f + \fr metaphor \f* \add like\add* a letter that Christ himself \add has
 written\add* that says good things about \add my work for God in your
 lives\add*. You show \add people by the way you now conduct your lives that God has changed your
 lives\add* as a result of my work \add among you. People did\add* not
@@ -22,7 +22,7 @@ paper\add* with \add pen and\add* ink. Instead, \add they saw how\add* the Spiri
 \add has changed your lives\add*. Nor \add did people find out about you by
 reading\add* a letter that was carved on stone slabs \add like the stone slabs that God gave to
 Moses\add*. Instead, \add it was the change that God's Spirit made
-in\add* your lives [MET] \add that they saw\add*. 
+in\add* your lives \f + \fr metaphor \f* \add that they saw\add*. 
 \p
 \v 4 I \add can very\add* confidently \add write these things about the work that Silas, Timothy, and I did among you, because
 God knows that what I write is true. We(exc) are true workers\add* for
@@ -56,7 +56,7 @@ him\add*, surely when we\add (exc)\add* teach \add people about how
 God's\add* Spirit will \add change their lives\add*, ◄\add God will
 show\add* in an even more wonderful way \add that\add* it is \add his message./will not God
 show\add* in an even more wonderful way \add that\add* it is \add his
-message\add*?► [RHQ] 
+message\add*?► \f + \fr rhetorical question \f* 
 \v 9 The message \add that Moses taught them was wonderful, but when people
 heard\add* that message, \add they realized that they were sinners and that
 God\add* would punish them. But God's message that we\add (exc) teach is
@@ -81,7 +81,7 @@ people\add*, as Moses did. Moses put a veil over his face so that the Israelites
 away\add*. 
 \v 14 But the Israelites stubbornly refused to \add understand that the old agreement would
 end\add*. Even now, when they read the old agreement, \add they still do not realize that it has ended. It is as
-if\add* [MET] that same veil \add that Moses put on his face\add* is now over their
+if\add* \f + \fr metaphor \f* that same veil \add that Moses put on his face\add* is now over their
 \add minds, keeping them from understanding God's true message\add*. They will
 \add understand that message\add* only when \add they come to trust\add* in Christ. Then
 \add it will be as though God\add* has removed the veil. 
@@ -92,7 +92,7 @@ if\add* [MET] that same veil \add that Moses put on his face\add* is now over th
 \v 17  \add It is by the power of his\add* Spirit that the Lord \add works in our
 lives\add*, and the Lord's Spirit has set us free \add from trying to obey the all the rules and rituals that God gave
 Moses\add*. 
-\v 18  \add It is as though God\add* has removed the veil from our faces [MET]. We realize how awesome Jesus is. As we realize
+\v 18  \add It is as though God\add* has removed the veil from our faces \f + \fr metaphor \f*. We realize how awesome Jesus is. As we realize
 that, we are continually being changed {\add the Holy Spirit is\add* continually changing us} to become more and more like
 Jesus, \add so that people can see\add*, more and more, how awesome
 \add Jesus is\add*. It is the Spirit of the Lord who does \add this\add*.

@@ -18,11 +18,11 @@ son}, because of \add what I will do\add*.”
 was\add* for two more days. 
 \p
 \v 7 Then he said to us disciples, “Let's go back to Judea.” 
-\v 8 We said, “Teacher, just a short while ago the Jewish \add leaders\add* [SYN] wanted to
+\v 8 We said, “Teacher, just a short while ago the Jewish \add leaders\add* \f + \fr synecdoche \f* wanted to
 \add kill you by\add* throwing stones at you. So ◄\add we think that you should
-not\add* go back there again!/\add are you sure that you want to\add* go back there again?► [RHQ]”
+not\add* go back there again!/\add are you sure that you want to\add* go back there again?► \f + \fr rhetorical question \f*”
 \v 9  \add To show us that nothing bad could happen to him until the time that God had
-chosen\add* [MET], Jesus replied, “There are [RHQ] twelve hours in the daytime,
+chosen\add* \f + \fr metaphor \f*, Jesus replied, “There are \f + \fr rhetorical question \f* twelve hours in the daytime,
 \add which is enough time to do what God wants us to do\add*. People who walk in the daytime will not stumble
 \add over things they cannot see\add*, because they see things by the light from the sun.
 \v 10 It is when people walk in the nighttime that they stumble over things, because they have no light.”
@@ -82,14 +82,14 @@ my \add younger\add* brother would not have died!”
 \v 36 Then \add some of\add* the Jews said, “Look how much he loved Lazarus!”
 \v 37 But some others said, “He enabled a blind man to see. So ◄he should have been able
 to\add heal this man so that\add* he did not die!/why did he not
-\add heal this man so that\add* he did not die?► [RHQ]” 
+\add heal this man so that\add* he did not die?► \f + \fr rhetorical question \f*” 
 \p
 \v 38 Within himself Jesus was again very angry \add about Lazarus
 dying\add* (OR, very troubled). He came to the tomb. It was a cave. The entrance had been covered with a large stone.
 \v 39 Jesus said, “Take away the stone!” Martha, \add who, as I mentioned before, was an
 older\add* sister of the man who had died, said, “Lord, his \add body\add* has been
 \add in the tomb\add* for four days, so now there will be a bad smell!”
-\v 40 Jesus said to her, “I told [RHQ] you that if you believed \add in\add*
+\v 40 Jesus said to her, “I told \f + \fr rhetorical question \f* you that if you believed \add in\add*
 ◄\add me/what I can do\add*►, you would see how great God is! Have
 \add you forgotten that\add*?” 
 \s John 11:41-48 
@@ -121,7 +121,7 @@ other\add*, “What are we going to do \add about Jesus\add*? He is performing m
 \p
 \v 49 One of the \add Jewish Council\add* members was Caiaphas. He was the Jewish high priest that year.
 \add Hinting that they should get rid of Jesus\add*, he said to them, “You
-\add talk as though you\add* do not know anything [HYP]! 
+\add talk as though you\add* do not know anything \f + \fr hyperbole \f*! 
 \v 50 You do not realize that it would be much better for us if one man died for the sake of the people rather than that
 \add the Romans kill\add* all the \add people of our Jewish\add* nation.”
 \v 51 He said that, not because he thought of it himself. Instead, since he was the high priest that year, he was prophesying

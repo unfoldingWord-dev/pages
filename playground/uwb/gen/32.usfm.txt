@@ -23,7 +23,7 @@ back to your own land and to your relatives, and I will ◄cause good things hap
 \v 10 I am not worthy for you to have acted kindly and faithfully in so many ways toward me, your servant. I had only this
 walking stick with me when I crossed the Jordan River \add on my way to
 Haran\add*, but now I am so wealthy that there are two large groups of my family and possessions.
-\v 11 So now I pray that you will rescue me from the power [MTY] of my brother Esau, because I am afraid that he and his men
+\v 11 So now I pray that you will rescue me from the power \f + \fr metonymy \f* of my brother Esau, because I am afraid that he and his men
 will come and attack and kill me and the children and their mothers.
 \v 12 But do not forget that you have said, ‘I will certainly enable you to prosper, and I will cause your descendants to be as
 numerous as the grains of sand on the seashore, which are so many that no one can count them.’ ”
@@ -42,7 +42,7 @@ herdsmen. He said to them, “When you meet Esau, I want you to say to him the s
 \v 20 And be sure to say ‘Your servant Jacob is coming behind us.’ ” Jacob told them to say that because he was thinking,
 “Perhaps these gifts that I am sending ahead of me will cause him to ◄act peacefully toward/stop being angry with► me. Later,
 when I see him, perhaps he will act kindly toward me.” 
-\v 21 So the men taking the gifts [PRS] went ahead, but Jacob himself stayed in the camp that night.
+\v 21 So the men taking the gifts \f + \fr personification \f* went ahead, but Jacob himself stayed in the camp that night.
 \s Jacob wrestled with Yahweh 
 \p
 \v 22 Some time during that night, Jacob got up and took his two wives, his two female slaves, and his eleven sons and his
@@ -58,7 +58,7 @@ you go!”
 \v 28 The man said, “Your name will no longer be Jacob. Your name will be Israel,
 \add which means 'he struggles with God,'\add* because you have struggled with God and with people, and you have won.”
 \v 29 Jacob said, “Now, please tell me your name!” The man replied, “◄Why do you ask me what my name is?/You should not have to
-ask me what my name is!►” [RHQ] But he blessed Jacob there. 
+ask me what my name is!►” \f + \fr rhetorical question \f* But he blessed Jacob there. 
 \v 30 So Jacob named the place Peniel, which means 'God's face,' saying “I looked directly at God, but I did not die because of
 doing that.” 
 \p

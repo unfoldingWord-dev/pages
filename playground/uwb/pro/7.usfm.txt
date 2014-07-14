@@ -2,7 +2,7 @@
 \s More warnings about adultery 
 \q
 \v 1 My son, heed my advice, 
-\q2 and \add guard my instructions as you would\add* [MET] guard a treasure.
+\q2 and \add guard my instructions as you would\add* \f + \fr metaphor \f* guard a treasure.
 \q
 \v 2 Obey my commands, 
 \q2 and as a result you will live a good life. 
@@ -12,13 +12,13 @@ you\add*;
 \q
 \v 3 Tie my commands around your fingers \add in order that they will remind you to obey
 them\add*. 
-\q2 Keep them in your inner being [MET]. 
+\q2 Keep them in your inner being \f + \fr metaphor \f*. 
 \q
 \v 4  \add Love\add* wisdom like you \add love\add* your sister.
 \q2 Understand what is wise, 
 \q2 \add and let that be as dear to you as\add* members of your family.
 \q
-\v 5 If you are wise and if you understand what is wise [PRS], you will not
+\v 5 If you are wise and if you understand what is wise \f + \fr personification \f*, you will not
 \add sleep with\add* an immoral woman; 
 \q2 you will not listen to a woman who tries to entice you \add to sleep with
 her\add* by what she says. 
@@ -33,14 +33,14 @@ her\add* by what she says.
 \v 8 He crossed the street near \add the house of\add* an immoral woman.
 \q2 He was walking along the path toward her house 
 \q
-\v 9 at twilight, when it was getting dark [DOU]. 
+\v 9 at twilight, when it was getting dark \f + \fr doublet \f*. 
 \b
 \q
 \v 10 Suddenly the woman came out to see/meet him. 
 \q2 She was dressed ◄seductively/like a prostitute►, intending to persuade him to sleep with her.
 \q
 \v 11 She was a loud talker, one who was rebellious; 
-\q2 she [SYN] never stayed at home. 
+\q2 she \f + \fr synecdoche \f* never stayed at home. 
 \q
 \v 12 She often went into the city streets and plazas/markets, 
 \q2 waiting to trap some man. 
@@ -94,4 +94,4 @@ her\add* by what she says.
 \q2 truly, no one can count the men she has killed. 
 \q
 \v 27 The road to her house is the road to the grave. 
-\q2 Those who enter her bedroom [PRS] will die as a result. 
+\q2 Those who enter her bedroom \f + \fr personification \f* will die as a result. 

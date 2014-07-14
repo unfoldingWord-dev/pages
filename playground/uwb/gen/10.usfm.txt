@@ -37,7 +37,7 @@ Zeboiim \add towns\add*, and even as far as Lasha \add town\add*.
 \v 23 The sons of Aram were Uz, Hul, Gether, and Mash. 
 \v 24 Arphaxad became the father of Shelah. Shelah became the father of Eber.
 \v 25 Eber became the father of two sons. One of them was named Peleg, which means 'division,' because during the time he
-lived, people on [MTY] the earth became divided and scattered everywhere. Peleg's younger brother was Joktan.
+lived, people on \f + \fr metonymy \f* the earth became divided and scattered everywhere. Peleg's younger brother was Joktan.
 \v 26 Joktan became the ancestor of Almodad, Sheleph, Hazarmaveth, Jerah,
 \v 27 Hadoram, Uzal, Diklah, 
 \v 28 Obal, Abimael, Sheba, 

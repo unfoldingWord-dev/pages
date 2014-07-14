@@ -1,16 +1,16 @@
 \c 39  
 \s A psalm written by David for Jeduthun, the choir director 
 \q
-\v 1 I said \add to myself\add*, “I will be careful not to sin by the things that I say [MTY].
+\v 1 I said \add to myself\add*, “I will be careful not to sin by the things that I say \f + \fr metonymy \f*.
 \q I will not say anything \add to complain to you\add* 
 \q2 while wicked people are near to me \add and can hear me\add*.”
 \q
-\v 2 So I was completely silent [DOU], and I did not even talk about things that were good,
+\v 2 So I was completely silent \f + \fr doublet \f*, and I did not even talk about things that were good,
 \q2 but it was useless because I began to suffer even more. 
 \q
 \v 3 I became very anxious/worried [IDI] in my inner being. 
 \q2 As I thought \add about my troubles\add*, I became more worried.
-\q2 Then finally I said [MTY], 
+\q2 Then finally I said \f + \fr metonymy \f*, 
 \b
 \q
 \v 4 “Yahweh, show/tell me how long I will live. 
@@ -19,7 +19,7 @@
 \q
 \v 5  \add It seems that\add* you have caused me to live only a short time;
 \q2 ◄my lifetime/all the time that I have lived► seems nothing to you.
-\q2 The time that all we humans live is \add as short as\add* [MET] a puff of wind.
+\q2 The time that all we humans live is \add as short as\add* \f + \fr metaphor \f* a puff of wind.
 \qr (Think about that!) 
 \q
 \v 6 Then we disappear like a shadow does. 
@@ -27,7 +27,7 @@
 \q2 We \add sometimes\add* get a lot of money, but we do not know who will get it
 \add after we die\add*. 
 \q
-\v 7 So now, Yahweh, if I expect [RHQ] \add to receive blessings from other
+\v 7 So now, Yahweh, if I expect \f + \fr rhetorical question \f* \add to receive blessings from other
 people\add*, I will be disappointed. 
 \q2 You are the \add only\add* one from whom I confidently expect
 \add to receive blessings\add*. 
@@ -40,7 +40,7 @@ people\add*, I will be disappointed.
 suffer\add*. 
 \q
 \v 10 But now, please stop punishing me! 
-\q2 \add If you do not do that\add*, I am about to die because of the ways that you [SYN] have struck/afflicted me.
+\q2 \add If you do not do that\add*, I am about to die because of the ways that you \f + \fr synecdoche \f* have struck/afflicted me.
 \q
 \v 11 When you rebuke someone and punish him for the sin that he has committed,
 \q2 you destroy the things that ◄he loves/are precious to him►, like moths'

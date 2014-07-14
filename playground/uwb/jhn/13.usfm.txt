@@ -17,7 +17,7 @@ other\add*. \add So\add* he got up from where he was eating. He took off his
 \v 5 Then he poured some water in a basin. He began to wash our feet, and then dry them with the towel that he had wrapped
 around himself. 
 \p
-\v 6 When he came to Simon Peter, Peter said to him, “Lord, it is not right for you [RHQ] to
+\v 6 When he came to Simon Peter, Peter said to him, “Lord, it is not right for you \f + \fr rhetorical question \f* to
 \add humble yourself by\add* washing my feet!” 
 \v 7 Jesus replied to him, “Now you do not understand \add the meaning
 of\add* what I am doing, but you will understand later.” 
@@ -26,7 +26,7 @@ cannot continue ◄to be my \add disciple/to belong to\add* me►.”
 \v 9 So Simon Peter said to him, “Lord, \add in that case\add*, do not wash only my feet. Wash my hands and my head,
 \add too\add*!” 
 \v 10  \add Then, to show him that after God had cleansed people from being guilty for sin, they needed only for God to forgive
-their daily sins\add* [MET], Jesus said to him, “Those who have recently bathed need only to have their feet washed,
+their daily sins\add* \f + \fr metaphor \f*, Jesus said to him, “Those who have recently bathed need only to have their feet washed,
 \add because they get dirty very quickly on the dusty roads\add*. The
 \add rest of their bodies are\add* clean. Similarly, I have made you
 \add disciples\add* free/clean \add from the guilt of your sins\add*, although not all of you are free from guilt.”
@@ -51,7 +51,7 @@ other\add*.
 \v 18 “I am not saying that \add God will bless\add* all of you. I knew
 \add what all of you were like when\add* I chose you. But \add I also chose the one who will betray
 me\add*, in order that what is written in Scripture might be fulfilled {to fulfill what someone/the psalmist wrote in
-Scripture}, ‘The one who is \add acting like he is my friend by\add* eating with me has become my enemy [IDM].’
+Scripture}, ‘The one who is \add acting like he is my friend by\add* eating with me has become my enemy \f + \fr idiom \f*.’
 \p
 \v 19 I am telling you \add about someone betraying me\add* before it happens, in order that when it happens, you may continue
 to believe that I am ◄\add the Messiah/who I say I am\add*►. 
@@ -77,7 +77,7 @@ us\add*, some thought Jesus was telling him to \add go and\add* buy some things 
 \add Passover\add* celebration. \add Some thought he was telling
 him\add* to give some money to poor people. 
 \v 30 As soon as Judas had eaten the bread, he left. It was dark
-\add outside\add*, and it was dark [MET] \add in his soul, too\add*.
+\add outside\add*, and it was dark \f + \fr metaphor \f* \add in his soul, too\add*.
 \s John 13:31-35 
 \s Jesus commanded his disciples that they should love each other.
 \p
@@ -89,12 +89,12 @@ very soon.
 \p
 \v 33  \add You whom I love as though you were\add* my children, I will continue with you only a short time longer. Then you
 will look for me, but I will not be here. Just like I told the Jewish
-\add leaders\add* [SYN], I am telling you now, that where I am going, you cannot come
+\add leaders\add* \f + \fr synecdoche \f*, I am telling you now, that where I am going, you cannot come
 \add yet\add*. 
 \v 34 Now I am giving you a new commandment: you must love each other. You must love each other in the way that I have loved
 you. 
 \v 35 If you keep loving each other, everyone \add who is aware of
-that\add* [HYP] will know that you are my disciples.” 
+that\add* \f + \fr hyperbole \f* will know that you are my disciples.” 
 \s John 13:36-38 
 \s Jesus also prophesied that Peter would deny that he knew Jesus.
 \p
@@ -102,7 +102,7 @@ that\add* [HYP] will know that you are my disciples.”
 now, but you will come there later.” 
 \v 37 Peter said, “Lord, why can I not come with you now? I \add am
 ready\add* to die for you!” 
-\v 38 Jesus answered, “\add You say\add* [RHQ] that you \add are
+\v 38 Jesus answered, “\add You say\add* \f + \fr rhetorical question \f* that you \add are
 ready\add* to die for me. But the truth is that before the rooster crows
 \add early tomorrow morning\add*, you will say three times that you do not
 \add know\add* me!” 

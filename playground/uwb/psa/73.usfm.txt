@@ -6,7 +6,7 @@
 \b
 \q
 \v 2 As for me, I almost \add stopped trusting in God\add*; 
-\q \add it was as though\add* my feet slipped and I stumbled [MET],
+\q \add it was as though\add* my feet slipped and I stumbled \f + \fr metaphor \f*,
 \q
 \v 3 because I envied those who proudly \add said that they did not need
 God\add*, 
@@ -29,23 +29,23 @@ God\add*,
 \v 8 They scoff at \add other people\add*, and they talk about doing evil things to them;
 \q they are proud while they plan to oppress others. 
 \q
-\v 9 They say evil things about God [MTY] whom is in heaven, 
+\v 9 They say evil things about God \f + \fr metonymy \f* whom is in heaven, 
 \q2 and they talk boastfully/proudly about things \add that they have
 done\add* here on the earth. 
 \q
 \v 10 The result is that people listen to what they say and praise them
 \q2 and do not think that they have done anything that is wrong.
 \q
-\v 11 Wicked people say \add to themselves\add*, “God will certainly not [RHQ] know
+\v 11 Wicked people say \add to themselves\add*, “God will certainly not \f + \fr rhetorical question \f* know
 \add what we have done\add*; 
-\q2 people say that he is greater than any other god, but he cannot [RHQ] find out.”
+\q2 people say that he is greater than any other god, but he cannot \f + \fr rhetorical question \f* find out.”
 \b
 \q
 \v 12 That is what wicked people are like; 
 \q2 they never worry about anything, and they are always becoming richer.
 \b
 \q
-\v 13 So, \add God\add*, I think it is useless that I have [RHQ] always done what you want me to,
+\v 13 So, \add God\add*, I think it is useless that I have \f + \fr rhetorical question \f* always done what you want me to,
 \q2 and I have not committed sins. 
 \q
 \v 14 During each day I have problems, 
@@ -86,7 +86,7 @@ die\add*.
 \v 24 You guide me by teaching me, 
 \q2 and ◄at the end \add of my life\add*/when I die►, you will receive me and honor me.
 \q
-\v 25 You are in heaven and I belong to you [RHQ], 
+\v 25 You are in heaven and I belong to you \f + \fr rhetorical question \f*, 
 \q and there is nothing on this earth that I desire more than that.
 \q
 \v 26 My body and my mind may become very weak, 

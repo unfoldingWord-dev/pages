@@ -15,7 +15,7 @@ God\add*.” So \add Moses/I told them that, and\add* they did what he/I told th
 \p
 \v 5 When someone told the king that the Israeli people had left
 \add during the night\add*, he and his officials changed their minds and said, “◄What have we done?/What we have done was
-stupid!► [RHQ] The Israeli people will no longer be our slaves!”
+stupid!► \f + \fr rhetorical question \f* The Israeli people will no longer be our slaves!”
 \v 6 So the king got his chariot and his army ready. 
 \v 7 Then he selected six hundred of the best chariots, and in each chariot he placed a driver, a soldier, and a commander, and
 they left. Other chariots, with a driver and a soldier in each of them, also went along.
@@ -27,9 +27,9 @@ they were camped near the sea, close to Pi-Hahiroth, in front of Baal-Zephon.
 \v 10 When the king's army got near, the Israeli people were surprised to see that the Egyptians were marching toward them.
 They were terrified; so they cried out to Yahweh \add to help them\add*.
 \v 11 Then they said to Moses/me, “Is it because there were no places in Egypt
-\add where we could\add* be buried that you have brought us here to die in this desert [RHQ]? Look what you have done to us by
-bringing us out of Egypt [RHQ]! 
-\v 12 That is what we told you when we were in Egypt! We said, ‘Leave us alone, and let us work for the Egyptians [RHQ]!’ It
+\add where we could\add* be buried that you have brought us here to die in this desert \f + \fr rhetorical question \f*? Look what you have done to us by
+bringing us out of Egypt \f + \fr rhetorical question \f*! 
+\v 12 That is what we told you when we were in Egypt! We said, ‘Leave us alone, and let us work for the Egyptians \f + \fr rhetorical question \f*!’ It
 would have been better for us to be slaves for the Egyptians than to die here in the desert!”
 \p
 \v 13 Moses/I replied to the people, “Do not be afraid! Stand firm, and see how Yahweh will rescue you! He will save you today,
@@ -77,5 +77,5 @@ Israelis into the sea. Every one of the Egyptians drowned.
 \p
 \v 30 That is the way Yahweh saved the Israeli people from the Egyptian army on that day. The Israeli people saw the Egyptians
 lying dead, \add with their bodies washed up\add* on the shore. 
-\v 31 The Israelis saw what Yahweh did to the Egyptians by his great power [MTY], and they were in awe of Yahweh. They trusted
+\v 31 The Israelis saw what Yahweh did to the Egyptians by his great power \f + \fr metonymy \f*, and they were in awe of Yahweh. They trusted
 in Yahweh and they also trusted in Moses/me. 

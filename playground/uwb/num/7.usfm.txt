@@ -1,7 +1,7 @@
 \c 7  
 \s The offerings brought to the Sacred Tent 
 \p
-\v 1 When Moses/I had finished setting up the Sacred Tent, he/I dedicated [MTY] it to Yahweh. He/I also dedicated the things
+\v 1 When Moses/I had finished setting up the Sacred Tent, he/I dedicated \f + \fr metonymy \f* it to Yahweh. He/I also dedicated the things
 that are inside the tent, and the altar \add for burning sacrifices\add*, and all the things that would be used at the altar.
 \v 2 Then the leaders of \add the twelve\add* Israeli tribes, the same men who had
 \add helped Aaron and Moses/me\add* to count the men \add who could fight in
@@ -20,7 +20,7 @@ supervisor of all their work.
 \v 9 But he/I did not give any carts or oxen to the descendants of Kohath, because they took care of the sacred items that were
 to be carried on their shoulders, \add not on carts\add*. 
 \p
-\v 10 On the day that the altar was dedicated [MTY], the \add twelve\add* leaders brought other gifts to be dedicated and put
+\v 10 On the day that the altar was dedicated \f + \fr metonymy \f*, the \add twelve\add* leaders brought other gifts to be dedicated and put
 them in front of the altar. 
 \v 11 Yahweh said to Moses/me, “Each of the next twelve days one leader should bring his gifts for the dedication of the
 altar.” 

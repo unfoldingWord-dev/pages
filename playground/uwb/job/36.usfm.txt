@@ -11,7 +11,7 @@
 \q2 in order to show that God, my creator, is just/fair. 
 \q
 \v 4 I am not saying anything to you that is false; 
-\q2 I, who am standing in front of you, am someone who understands things ◄very well/perfectly► [HYP].
+\q2 I, who am standing in front of you, am someone who understands things ◄very well/perfectly► \f + \fr hyperbole \f*.
 \b
 \q
 \v 5 Hey, God is \add very\add* powerful, and he does not despise anyone,
@@ -20,7 +20,7 @@
 \v 6 He does not allow wicked people to remain alive, 
 \q2 and he always acts justly toward those who are poor. 
 \q
-\v 7 He always watches over [MTY] those who are righteous; 
+\v 7 He always watches over \f + \fr metonymy \f* those who are righteous; 
 \q2 he allows them to sit on thrones \add and rule\add* with kings,
 \q2 and they are honored forever. 
 \q
@@ -31,7 +31,7 @@
 \q2 he shows them the sins that they have committed, 
 \q2 and he shows them that they have been proud/arrogant. 
 \q
-\v 10 He causes them to listen [MTY] to what he is warning them,
+\v 10 He causes them to listen \f + \fr metonymy \f* to what he is warning them,
 \q2 and he commands them to turn away from \add doing what is\add* evil.
 \q
 \v 11 If they ◄listen to/heed► him and serve him, \add after they get out of
@@ -48,24 +48,24 @@ prison\add*
 \q2 \add even\add* when God is punishing them. 
 \q
 \v 14 They die while they are still young, 
-\q2 disgraced because of their very immoral behavior [EUP]. 
+\q2 disgraced because of their very immoral behavior \f + \fr euphemism \f*. 
 \q
 \v 15 But God teaches people by causing them to suffer; 
-\q2 by afflicting them, he causes them to listen to [MTY] what he is telling them.
+\q2 by afflicting them, he causes them to listen to \f + \fr metonymy \f* what he is telling them.
 \b
 \q
 \v 16 And Job, \add I think that\add* God \add wants to\add* bring you out of your troubles
 \q2 and allow you to live without distress; 
 \q2 he wants your table to be full of very nice food. 
 \q
-\v 17 But now, you are being punished [MTY] as wicked people are punished;
-\q2 \add God\add* [PRS] has been punishing you ◄justly/as you deserve►.
+\v 17 But now, you are being punished \f + \fr metonymy \f* as wicked people are punished;
+\q2 \add God\add* \f + \fr personification \f* has been punishing you ◄justly/as you deserve►.
 \q
 \v 18 So be careful that you are not deceived by \add desiring to
 acquire\add* money 
 \q2 or that you are not ruined by \add accepting\add* large bribes.
 \q
-\v 19 If that happens, it certainly will not [RHQ] help you to cry out when you are distressed;
+\v 19 If that happens, it certainly will not \f + \fr rhetorical question \f* help you to cry out when you are distressed;
 \q2 all of your strength will not help you. 
 \q
 \v 20 Do not wish that it would be nighttime \add in order that God will not see you and punish
@@ -77,10 +77,10 @@ you\add*,
 \b
 \q
 \v 22 Hey, God is extremely powerful; 
-\q2 there is certainly [RHQ] no teacher who teaches like he does.
+\q2 there is certainly \f + \fr rhetorical question \f* no teacher who teaches like he does.
 \q
-\v 23 No one has [RHQ] told him what he should do, 
-\q2 and no one has [RHQ] said to him, ‘You have done what is wrong!’
+\v 23 No one has \f + \fr rhetorical question \f* told him what he should do, 
+\q2 and no one has \f + \fr rhetorical question \f* said to him, ‘You have done what is wrong!’
 \q
 \v 24 People have always sung to praise him, 
 \q2 so you also should never forget to praise him for what he has done.
@@ -98,7 +98,7 @@ you\add*,
 \v 28 the rain pours down from the sky/clouds 
 \q2 and causes abundant showers to fall on everyone. 
 \q
-\v 29 No one can [RHQ] understand how the clouds move \add across the
+\v 29 No one can \f + \fr rhetorical question \f* understand how the clouds move \add across the
 sky\add* 
 \q2 or how it thunders in the sky where God lives. 
 \q

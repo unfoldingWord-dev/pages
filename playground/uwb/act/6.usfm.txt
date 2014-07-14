@@ -13,7 +13,7 @@ to the widows who speak Greek!”
 \v 2 So, \add after the\add* twelve \add apostles had heard what they were
 saying\add*, they summoned all the \add other\add* believers \add in Jerusalem to
 meet\add* together. Then the apostles said \add to them\add*, “We\add (exc)\add* would not be doing right if we stopped
-\add preaching and teaching\add* God's message \add about Jesus\add* in order to distribute food [MTY]
+\add preaching and teaching\add* God's message \add about Jesus\add* in order to distribute food \f + \fr metonymy \f*
 \add and money to the widows\add*! 
 \v 3 So, fellow believers, carefully choose seven men from among you, men whom
 \add you\add* know that the Spirit \add of God\add* controls completely and who are very wise. Then
@@ -69,4 +69,4 @@ angry\add at Stephen, including\add* the elders and the teachers of the
 \p
 \v 15 When all \add the people\add* who were sitting in the Council
 \add room heard that, and as they\add* all stared at Stephen, they saw that his face was
-\add shining\add* [SIM] like the face of an angel. 
+\add shining\add* \f + \fr simile \f* like the face of an angel. 

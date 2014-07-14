@@ -1,39 +1,39 @@
 \c 62  
 \s Isaiah's prayer for Jerusalem 
 \q
-\v 1 Because I am very concerned about \add the people of\add* Jerusalem [DOU],
+\v 1 Because I am very concerned about \add the people of\add* Jerusalem \f + \fr doublet \f*,
 \q2 I will do something to help them. 
 \q I will not stop praying for them 
 \q2 until they are rescued/freed \add from their oppressors\add*,
 \q until that becomes as apparent to everyone as the dawn \add every
 morning\add*, 
-\q2 until people can see it as clearly as [SIM] they see a torch shining brightly
+\q2 until people can see it as clearly as \f + \fr simile \f* they see a torch shining brightly
 \add at night\add*. 
 \b
 \q
 \v 2  \add Some day\add* the \add people of many\add* nations will know that Yahweh has rescued you,
 \add his people\add*. 
 \q2 Their kings will see that your city is very great/glorious. 
-\q And Yahweh [MTY] will give your \add city\add* a new name. 
+\q And Yahweh \f + \fr metonymy \f* will give your \add city\add* a new name. 
 \q
 \v 3  \add It will be as though\add* Yahweh will hold you up in his hands in order that everyone can see you.
-\q2 Under his authority [MTY], you will be like a glorious headband/turban worn by a king.
+\q2 Under his authority \f + \fr metonymy \f*, you will be like a glorious headband/turban worn by a king.
 \q
 \v 4 Your \add city\add* will never again be called 'the deserted/abandoned city' and your country will never again be called
 'the desolate land;' 
 \q2 it will be called 'the land that Yahweh delights in,' 
 \q2 and \add it will also be called\add* 'married to Yahweh.' 
 \q It will be called that because Yahweh will be delighted with you,
-\q2 \add and it will be as though\add* you are his bride [MET]. 
+\q2 \add and it will be as though\add* you are his bride \f + \fr metaphor \f*. 
 \q
 \v 5 You people will live in all the country of Judah 
-\q2 like [SIM] a young man lives with his bride. 
+\q2 like \f + \fr simile \f* a young man lives with his bride. 
 \q And our God will be happy that you \add belong to\add* him 
-\q2 like [SIM] a bridegroom is happy that his bride \add belongs to
+\q2 like \f + \fr simile \f* a bridegroom is happy that his bride \add belongs to
 him\add*. 
 \q
 \v 6 You people of Jerusalem, I have placed watchmen on your walls;
-\q2 they will [LIT] earnestly pray to Yahweh day and night. 
+\q2 they will \f + \fr litotes \f* earnestly pray to Yahweh day and night. 
 \q You watchmen, you must not stop \add praying\add* 
 \q2 and reminding Yahweh \add about what he has promised to do\add*.
 \q
@@ -42,7 +42,7 @@ him\add*.
 \b
 \q
 \v 8 Yahweh has raised his right hand to solemnly promise to the people of Jerusalem,
-\q2 “I will use my power [MTY] and never again allow your enemies to defeat you;
+\q2 “I will use my power \f + \fr metonymy \f* and never again allow your enemies to defeat you;
 \q \add soldiers from other nations will never come again\add* to take away your grain
 \q2 and the wine that you worked hard \add to produce\add*. 
 \q

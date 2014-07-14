@@ -37,7 +37,7 @@ your God, \add am commanding those things\add*.
 \p
 \v 14 Do not curse deaf people, and do not put things in the path of blind people to cause them to stumble.
 \p
-\v 15 Always [LIT] judge people fairly [DOU]. Do not do special favors for either poor people or rich people.
+\v 15 Always \f + \fr litotes \f* judge people fairly \f + \fr doublet \f*. Do not do special favors for either poor people or rich people.
 \p
 \v 16 Do not spread false rumors about other people. 
 \p Do not say anything \add in court\add* that would result in some
@@ -63,7 +63,7 @@ order that he no longer be guilty for his sin.
 forgive him. 
 \p
 \v 23 When you enter the land \add that I have promised to give to
-you\add*, and when you plant various kinds of fruit trees, you must not eat any of their fruit for three years [DOU].
+you\add*, and when you plant various kinds of fruit trees, you must not eat any of their fruit for three years \f + \fr doublet \f*.
 \v 24 In the fourth year all of their fruit must be set aside to belong to me; it must be brought to me to be an offering to
 praise me. 
 \v 25 But in the fifth/next year, you will be permitted to eat their fruit. If you do that, your trees will produce much fruit.
@@ -84,7 +84,7 @@ land will be filled with prostitutes and all other kinds of people's wicked beha
 \v 30 Honor my Sabbath days and revere my Sacred Temple, because I, Yahweh,
 \add live there\add*. 
 \p
-\v 31 Do not seek advice from those who ◄consult/talk with► the spirits of dead people [DOU], because if you do that, they will
+\v 31 Do not seek advice from those who ◄consult/talk with► the spirits of dead people \f + \fr doublet \f*, because if you do that, they will
 defile you. I, Yahweh your God, \add am the one you should consult\add*.
 \p
 \v 32 Stand up when old people \add enter the room\add*, and show that you respect them, and also revere me, your God; that is
@@ -100,5 +100,5 @@ Egypt\add*. I, Yahweh your God, \add am commanding you to do this\add*.
 \add on the scales\add* and measuring baskets and other measuring containers. I am Yahweh, your God, who brought you out of
 Egypt, \add am giving you these laws.\add* 
 \p
-\v 37 Obey carefully [DOU] all my laws and decrees, because I, Yahweh,
+\v 37 Obey carefully \f + \fr doublet \f* all my laws and decrees, because I, Yahweh,
 \add am the one who am commanding them\add*.’ ” 

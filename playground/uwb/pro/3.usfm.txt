@@ -15,7 +15,7 @@ you\add*;
 \q2 Keep those things in your mind/inner being. 
 \q
 \v 4 If you do, God and people will approve of you 
-\q2 and think highly of you [MTY]. 
+\q2 and think highly of you \f + \fr metonymy \f*. 
 \b
 \q
 \v 5 Trust in Yahweh completely with your inner being, 
@@ -57,7 +57,7 @@ making\add* wine.
 \v 15 Being wise is more precious than ◄jewels/precious stones►;
 \q2 there is nothing that you desire \add that is as valuable\add* as wisdom.
 \q
-\v 16 With one hand wisdom [PRS] enables you to live a long life,
+\v 16 With one hand wisdom \f + \fr personification \f* enables you to live a long life,
 \q2 and with the other hand wisdom enables you to become rich and to be honored.
 \q
 \v 17 If you are wise, you will ◄walk along pleasant paths/be happy►,
@@ -80,7 +80,7 @@ making\add* wine.
 \v 22 you will live many years and be honored and respected {people will honor and respect you}.
 \q
 \v 23 If you do what is right and smart, you will be able to walk safely,
-\q2 and you will not ◄stumble/do things that are wrong► [MET]. 
+\q2 and you will not ◄stumble/do things that are wrong► \f + \fr metaphor \f*. 
 \q
 \v 24 You will be able to lie down \add at night\add* and not be afraid of anything,
 \q2 and you will sleep peacefully. 
@@ -115,7 +115,7 @@ you\add*.
 \q2 but he is a friend to all those who do what is right. 
 \b
 \q
-\v 33 Yahweh curses the families [MTY] of those who are wicked, 
+\v 33 Yahweh curses the families \f + \fr metonymy \f* of those who are wicked, 
 \q2 but he blesses the families of those who are good/righteous.
 \q
 \v 34 Yahweh makes fun of those who make fun of others, 

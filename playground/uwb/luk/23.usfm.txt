@@ -5,7 +5,7 @@
 \v 1 Then the whole group got up and took him to Pilate, \add the Roman
 governor\add*. 
 \v 2 They began to accuse him, saying, “We\add (exc)\add* have determined that this fellow has caused political trouble in our
-country. He has been \add telling people that they should\add* not pay taxes to the Roman government [MTY]. Also, he says that
+country. He has been \add telling people that they should\add* not pay taxes to the Roman government \f + \fr metonymy \f*. Also, he says that
 he is the Messiah, a king!” 
 \v 3 Pilate asked him, “Do you\add (sg) claim that you are\add* the King of the Jews?” He replied,
 “\add It is\add* as you have \add just\add* now said.” 
@@ -57,7 +57,7 @@ done nothing for which he deserves to die. So I will \add have my
 soldiers\add* whip him and then release him.” 
 \v 23 But they kept insisting. They shouted loudly that \add Jesus\add* should be nailed {that
 \add Pilate\add* should \add have his soldiers\add* nail \add Jesus\add*} to a cross. Finally, because they continued to shout
-[PRS] \add so loudly\add*, 
+\f + \fr personification \f* \add so loudly\add*, 
 \v 24 Pilate decided to do what they requested. 
 \v 25 The man who had been {whom they had} put in prison because he had rebelled
 \add against the government\add* and who had murdered \add someone\add*, he released! That was the man whom the crowd had asked
@@ -74,16 +74,16 @@ Then\add* they put it on Simon's shoulders, and \add told him to\add* carry it b
 \add to show how sad they were\add*, and wailing for him. 
 \v 28 But Jesus turned to them and said, “You women of Jerusalem, do not cry for me! Instead, cry because of
 \add what is going to happen to\add* yourselves and your children!
-\v 29 I want you to know that there will soon be a time when people will say, ‘Women [SYN] who have never borne children or
+\v 29 I want you to know that there will soon be a time when people will say, ‘Women \f + \fr synecdoche \f* who have never borne children or
 nursed babies are fortunate!’ 
 \v 30 Then, \add in order that they will not have to suffer greatly when their enemies destroy this
 city\add*, people who are left in the city will say to the mountains, ‘Fall down on us!’ And people will say to the hills,
 ‘Cover us!’ 
-\v 31  \add I am innocent\add* [MET]. \add I am like\add* a living tree
+\v 31  \add I am innocent\add* \f + \fr metaphor \f*. \add I am like\add* a living tree
 \add that people do not try to burn. But the people of Jerusalem deserve that their enemies punish them. They are
 like\add* dry wood that is ready to \add burn\add*. So if they \add nail me to the
 cross\add*, ◄\add their enemies\add* will certainly do much worse things to them!/what worse things will God do to them?►
-[RHQ]” 
+\f + \fr rhetorical question \f*” 
 \s Luke 23:32-49 
 \s The things that happened when Jesus died. 
 \p
@@ -98,7 +98,7 @@ the right \add side of Jesus\add* and one at his left \add side\add*.
 like dice, \add to decide which piece of clothing each one would
 get\add*. 
 \v 35 Many people stood nearby, watching. And the \add Jewish\add* leaders ◄made fun of/ridiculed►
-\add Jesus\add*, saying, “He \add said\add* [IRO] \add that he\add* saved other people! If he is the Messiah, the one God has
+\add Jesus\add*, saying, “He \add said\add* \f + \fr irony \f* \add that he\add* saved other people! If he is the Messiah, the one God has
 chosen, he should save himself!” 
 \v 36 The soldiers also ridiculed him because he \add claimed to be a
 king\add*. They came up to him and offered him some sour wine. 
@@ -112,7 +112,7 @@ king\add*. They came up to him and offered him some sour wine.
 powerful!\add* So save yourself, and save us, too!” 
 \v 40 But the other \add criminal\add* rebuked him, saying, “◄You\add (sg)\add* should be afraid of God
 \add punishing you\add*!/Are you not afraid of God \add punishing
-you\add*?► [RHQ] They are punishing him \add and us\add* similarly.
+you\add*?► \f + \fr rhetorical question \f* They are punishing him \add and us\add* similarly.
 \v 41 They have justly decided that we\add (inc) two\add* must die. They are punishing us as we deserve
 \add for the evil things that we did\add*. But this man has done nothing wrong!”
 \v 42 Then he said, “Jesus, \add please\add* remember me \add and take care of
@@ -126,8 +126,8 @@ you\add (sg)\add* will be with me in the place where everyone is happy!” (OR, 
 \add that closed off the most holy place\add* in the Temple split into two pieces.
 \add That signified that ordinary people could now go into the presence of
 God\add*. 
-\v 46  \add As that happened\add*, Jesus shouted loudly, “Father, I put my spirit into your care [MTY]!” When he said that, he
-stopped breathing [EUP] \add and died\add*. 
+\v 46  \add As that happened\add*, Jesus shouted loudly, “Father, I put my spirit into your care \f + \fr metonymy \f*!” When he said that, he
+stopped breathing \f + \fr euphemism \f* \add and died\add*. 
 \p
 \v 47 When the officer \add who supervised the soldiers who were executing
 Jesus\add* saw what happened, he praised God \add for the way Jesus

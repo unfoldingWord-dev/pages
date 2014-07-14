@@ -1,14 +1,14 @@
 \c 35  
 \s The promise of restoration 
 \q
-\v 1  \add Some day, it will be as though\add* the desert and other very dry areas are glad [DOU];
+\v 1  \add Some day, it will be as though\add* the desert and other very dry areas are glad \f + \fr doublet \f*;
 \q2 the desert will rejoice and flowers will blossom. 
 \q Like crocuses/daffodils, 
 \q
 \v 2 the desert will produce flowers abundantly; 
 \q2 \add it will be as though\add* everything is rejoicing and singing!
-\q The deserts will become as beautiful as [SIM] the trees in Lebanon,
-\q2 as fertile [SIM] as the plains of the Sharon and Carmel \add areas\add*.
+\q The deserts will become as beautiful as \f + \fr simile \f* the trees in Lebanon,
+\q2 as fertile \f + \fr simile \f* as the plains of the Sharon and Carmel \add areas\add*.
 \q There people will see the glory of Yahweh; 
 \q2 they will see that he is magnificent. 
 \q
@@ -48,4 +48,4 @@
 \q they will sing as they enter the city, 
 \q2 and they will be extremely joyful [MET, PRS] forever. 
 \q No longer will they be sad or mourn; 
-\q2 they will be completely joyful and glad [DOU]. 
+\q2 they will be completely joyful and glad \f + \fr doublet \f*. 

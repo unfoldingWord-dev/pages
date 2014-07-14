@@ -10,7 +10,7 @@ them \add from a scroll that Solomon had written\add*.
 \b
 \q
 \v 3  \add It is not possible for anyone to measure\add* how high the sky is or how deep the earth/ocean is;
-\q2 likewise [SIM], it is not possible for us to know all that kings are thinking.
+\q2 likewise \f + \fr simile \f*, it is not possible for us to know all that kings are thinking.
 \b
 \q
 \v 4 If workers burn out the impure bits that are in silver, 
@@ -33,7 +33,7 @@ important \add may sit closer to the king\add*.
 \v 8 Do not quickly go to a court \add to tell the judge about\add* something that you have seen,
 \q2 because another witness may later \add say something that proves that you are wrong, and as a
 result\add* you will be disgraced/ashamed. 
-\q2 If that happens, ◄what will you do?/you will not know what to do.► [RHQ]
+\q2 If that happens, ◄what will you do?/you will not know what to do.► \f + \fr rhetorical question \f*
 \b
 \q
 \v 9 If you and someone else think differently about some matter,
@@ -46,25 +46,25 @@ result\add* you will be disgraced/ashamed.
 \b
 \q
 \v 11 Something that is said that is very appropriate 
-\q2 is \add as delightful as seeing\add* [SIM] gold apples/ornaments in a silver bowl.
+\q2 is \add as delightful as seeing\add* \f + \fr simile \f* gold apples/ornaments in a silver bowl.
 \b
 \q
-\v 12 When a wise person rebukes/warns someone [SYN] who is willing to listen,
-\q2 that is \add as valuable as\add* [SIM] a gold ring or a gold chain.
+\v 12 When a wise person rebukes/warns someone \f + \fr synecdoche \f* who is willing to listen,
+\q2 that is \add as valuable as\add* \f + \fr simile \f* a gold ring or a gold chain.
 \b
 \q
 \v 13 A messenger who ◄is reliable/tells someone else exactly what he was told to say► refreshes
 \add the spirits of\add* his bosses who sent him 
-\q2 like [SIM] ◄snow/cold water► refreshes \add the ground\add* at the time that people harvest crops.
+\q2 like \f + \fr simile \f* ◄snow/cold water► refreshes \add the ground\add* at the time that people harvest crops.
 \b
 \q
 \v 14 When someone promises to give a gift to us but never gives it,
-\q2 \add that disappoints us\add* as much as [SIM] clouds and wind that come but do not bring any rain.
+\q2 \add that disappoints us\add* as much as \f + \fr simile \f* clouds and wind that come but do not bring any rain.
 \b
 \q
 \v 15 If someone keeps requesting a ruler long enough to do something, he will
 \add often\add* agree to do it; 
-\q2 similarly, by speaking [MTY] gently we can \add often\add* convince
+\q2 similarly, by speaking \f + \fr metonymy \f* gently we can \add often\add* convince
 \add others that what we say is right\add* [IDI]. 
 \b
 \q
@@ -77,7 +77,7 @@ him\add*;
 \b
 \q
 \v 18 To falsely accuse others \add in court\add* 
-\q2 is like [SIM] \add attacking them with\add* a war-club or a sword or a sharp arrow.
+\q2 is like \f + \fr simile \f* \add attacking them with\add* a war-club or a sword or a sharp arrow.
 \b
 \q
 \v 19 Depending on unreliable people when you have troubles 
@@ -87,7 +87,7 @@ him\add*;
 \q
 \v 20 Singing to someone who is depressed \add just causes him to feel
 worse\add*; 
-\q2 it is like [SIM] taking off clothes on a very cold day 
+\q2 it is like \f + \fr simile \f* taking off clothes on a very cold day 
 \q2 or like putting vinegar on a wound. 
 \b
 \q
@@ -99,7 +99,7 @@ worse\add*;
 \b
 \q
 \v 23 When wind blows from the north, it will rain; 
-\q2 similarly [SIM], if we ◄gossip/tell secrets► about others, that causes them to look at us very angrily.
+\q2 similarly \f + \fr simile \f*, if we ◄gossip/tell secrets► about others, that causes them to look at us very angrily.
 \b
 \q
 \v 24 It is better to live ◄\add alone/by yourself\add*► in the corner of an attic/housetop
@@ -107,11 +107,11 @@ worse\add*;
 \b
 \q
 \v 25 Receiving good news from a country far away refreshes our spirits
-\q2 like [SIM] cold water refreshes our bodies when we are very thirsty.
+\q2 like \f + \fr simile \f* cold water refreshes our bodies when we are very thirsty.
 \b
 \q
 \v 26 When a righteous/good person ◄gives in/yields► to wicked people,
-\q2 that is \add as bad\add* as [SIM] a spring that becomes muddied or a fountain that becomes polluted.
+\q2 that is \add as bad\add* as \f + \fr simile \f* a spring that becomes muddied or a fountain that becomes polluted.
 \b
 \q
 \v 27 It is not good to eat too much honey, 

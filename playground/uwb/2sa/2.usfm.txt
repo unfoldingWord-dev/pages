@@ -8,7 +8,7 @@ there.” Then David asked, “To which town should I go?” Yahweh replied, “
 \add city\add*, and Abigail, the widow of Nabal from Carmel \add city\add*.
 \v 3 He also took the men who had been with him, and their families. They all started to live in villages near Hebron.
 \v 4 Then the men of Judah came to Hebron, and \add one of\add* them poured olive oil on David's head
-\add to show they were appointing him to be\add* [MTY] the king of the tribe [MTY] of Judah.
+\add to show they were appointing him to be\add* \f + \fr metonymy \f* the king of the tribe \f + \fr metonymy \f* of Judah.
 \p When David found out that the people of Jabesh \add town\add* in the Gilead
 \add region\add* had buried Saul's body, 
 \v 5 he sent messengers to the men of Jabesh to tell them this: “I desire/hope that Yahweh will bless you for having shown, by
@@ -56,8 +56,8 @@ could run as fast as a wild gazelle/antelope.
 else\add*!” But Asahel would not stop pursuing Abner. 
 \p
 \v 22 So Abner yelled at him again, “Stop ◄chasing after/pursuing► me! ◄Why should I kill you?/It would not be good for me to
-kill you!► [RHQ] If I did that, ◄how could I ‘face/be reconciled with’ your brother Joab?/it would be very difficult for me to
-‘face/be reconciled with’ your brother Joab.► [RHQ]” 
+kill you!► \f + \fr rhetorical question \f* If I did that, ◄how could I ‘face/be reconciled with’ your brother Joab?/it would be very difficult for me to
+‘face/be reconciled with’ your brother Joab.► \f + \fr rhetorical question \f*” 
 \p
 \v 23 But Asahel refused to stop pursuing Abner. So Abner \add suddenly turned
 and\add* thrust the butt end of his spear into Asahel's stomach. Because he thrust it very strongly, that end of the spear
@@ -69,10 +69,10 @@ body\add*.
 to the desert near Gibeon. 
 \v 25 The men from the tribe of Benjamin gathered around Abner in one group, and stood at the top of a hill.
 \p
-\v 26 Then Abner called out to Joab, saying “Are we going to continue to fight forever [RHQ]? Do you not realize that
-\add if we continue fighting\add*, the result will be very bad [RHQ]? We are all descendants of Jacob.
+\v 26 Then Abner called out to Joab, saying “Are we going to continue to fight forever \f + \fr rhetorical question \f*? Do you not realize that
+\add if we continue fighting\add*, the result will be very bad \f + \fr rhetorical question \f*? We are all descendants of Jacob.
 \add So we should stop fighting each other\add*! ◄How long will it be until you tell your soldiers to stop pursuing us?/Tell
-your soldiers to stop pursuing us.►” [RHQ] 
+your soldiers to stop pursuing us.►” \f + \fr rhetorical question \f* 
 \p
 \v 27 Joab replied, “Just as surely as God lives, if you had not said that, my soldiers would have continued pursuing your men
 until tomorrow morning!” 

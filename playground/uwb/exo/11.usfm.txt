@@ -2,7 +2,7 @@
 \s Yahweh declared that all the oldest sons of the Egyptians would die, and then the king's officials would plead for the
 Israeli people to leave Egypt 
 \p
-\v 1 Then Yahweh said to Moses/me, “I will bring one more disaster on the king of Egypt and on all his people [MTY]. After
+\v 1 Then Yahweh said to Moses/me, “I will bring one more disaster on the king of Egypt and on all his people \f + \fr metonymy \f*. After
 that, he will let you leave. In fact, he will expel you all. 
 \v 2 So now speak to all the \add Israeli\add* people. Tell them to ask all their
 \add Egyptian\add* neighbors, both men and women, to give them some silver and gold jewelry.”

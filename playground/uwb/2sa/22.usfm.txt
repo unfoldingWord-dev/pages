@@ -3,11 +3,11 @@
 \p
 \v 1 After Yahweh had rescued David from Saul and his other enemies, David sang a song to Yahweh.
 \v 2  \add This is what\add* he sang: 
-\q Yahweh, you are like a huge rock \add under which I can hide\add* [MET];
+\q Yahweh, you are like a huge rock \add under which I can hide\add* \f + \fr metaphor \f*;
 \q2 you are like my fortress, and you rescue me. 
 \q
 \v 3 Yahweh, you protect me; you are like a shield; 
-\q2 you are the powerful one [MET] who saves me; 
+\q2 you are the powerful one \f + \fr metaphor \f* who saves me; 
 \q you are like a place where I ◄find refuge/am safe►. 
 \q2 You save me from those who act violently toward me. 
 \q
@@ -16,7 +16,7 @@
 \q2 and you rescue me from my enemies. 
 \b
 \q
-\v 5 I almost died [PRS]; it was like [MET] a huge wave had crashed over me,
+\v 5 I almost died \f + \fr personification \f*; it was like \f + \fr metaphor \f* a huge wave had crashed over me,
 \q and almost destroyed me like a flood. 
 \q
 \v 6 I thought that I would die; it was as though death wrapped ropes around me;
@@ -39,7 +39,7 @@
 \q2 there was a thick dark \add cloud\add* under your feet. 
 \q
 \v 11 You rode \add through the sky\add* on a winged creature; 
-\q2 the wind enabled you to travel \add swiftly\add* [MET], like a bird.
+\q2 the wind enabled you to travel \add swiftly\add* \f + \fr metaphor \f*, like a bird.
 \q
 \v 12 The darkness was around you, like a blanket; 
 \q2 thick clouds that were full of water surrounded you. 
@@ -51,7 +51,7 @@
 \q2 it was your voice, God, you who are greater than all other gods, that was heard.
 \q
 \v 15 When you sent flashes of lightning, 
-\q2 \add it was as though\add* [MET] you shot your arrows and scattered your enemies.
+\q2 \add it was as though\add* \f + \fr metaphor \f* you shot your arrows and scattered your enemies.
 \q
 \v 16 Then the bottom of the ocean was uncovered; 
 \q2 the foundations of the world could be seen 
@@ -96,9 +96,9 @@
 \q2 but you are hostile to those who are perverse/wicked. 
 \q
 \v 28 You rescue those who are humble, 
-\q2 but you watch [MTY] those who are proud and humiliate them. 
+\q2 but you watch \f + \fr metonymy \f* those who are proud and humiliate them. 
 \q
-\v 29 Yahweh, you are \add like\add* [MET] a lamp 
+\v 29 Yahweh, you are \add like\add* \f + \fr metaphor \f* a lamp 
 \q2 that causes it to become light when I am in the darkness. 
 \q
 \v 30 With your strength/help I can run through a line of enemy soldiers
@@ -107,22 +107,22 @@
 \q
 \v 31 My God whom I worship, everything that you do is perfect; 
 \q2 you always do what you promise that you will do. 
-\q You are like a shield [MET] to all those who request you to protect them.
+\q You are like a shield \f + \fr metaphor \f* to all those who request you to protect them.
 \q
-\v 32 Yahweh, you are [RHQ] the only one who is God; 
-\q2 only you are like a huge rock [MET] \add under which we are protected/safe\add*.
+\v 32 Yahweh, you are \f + \fr rhetorical question \f* the only one who is God; 
+\q2 only you are like a huge rock \f + \fr metaphor \f* \add under which we are protected/safe\add*.
 \q
 \v 33 God, you \add whom I worship\add* are a strong refuge for me;
 \q2 you keep me safe on the roads that I \add walk on\add*. 
 \q
 \v 34  \add When I walk\add* in the mountains, 
-\q2 you enable me to walk safely, without stumbling [MET] 
+\q2 you enable me to walk safely, without stumbling \f + \fr metaphor \f* 
 \q2 like a deer runs. 
 \q
 \v 35 You teach me \add how to fight\add* in a battle 
 \q2 in order that I can shoot arrows well from a very strong bow.
 \q
-\v 36  \add It is as though\add* [MET] you have given me a shield
+\v 36  \add It is as though\add* \f + \fr metaphor \f* you have given me a shield
 \q2 by which you have saved/rescued me, 
 \q2 and you have answered my prayers and caused me to become famous/great.
 \q
@@ -145,8 +145,8 @@
 \v 42 They ◄looked for/wanted► someone to rescue them, but no one did.
 \q2 They cried out to you, Yahweh, \add for help\add*, but you did not answer them.
 \q
-\v 43 I crushed them, and as a result they became like [SIM] tiny particles of dust.
-\q2 I trampled them, and they became like [SIM] mud in the streets.
+\v 43 I crushed them, and as a result they became like \f + \fr simile \f* tiny particles of dust.
+\q2 I trampled them, and they became like \f + \fr simile \f* mud in the streets.
 \b
 \q
 \v 44 You rescued me from those who tried to rebel \add against me\add*,
@@ -160,8 +160,8 @@
 \q2 and they came to me, trembling, from the places where they were hiding.
 \b
 \q
-\v 47 Yahweh, you are alive! I praise you! You are like [MET] a huge rock under which I am safe/protected!
-\q2 You are the one who rescues me [MET]. 
+\v 47 Yahweh, you are alive! I praise you! You are like \f + \fr metaphor \f* a huge rock under which I am safe/protected!
+\q2 You are the one who rescues me \f + \fr metaphor \f*. 
 \q2 Everyone should exalt/honor/praise you. 
 \q
 \v 48 You enable me to conquer my enemies; 

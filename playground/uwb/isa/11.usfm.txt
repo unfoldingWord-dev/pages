@@ -1,7 +1,7 @@
 \c 11  
 \s David's descendant will bring peace 
 \q
-\v 1 Like [MET] a new branch/shoot often grows from the stump of a tree,
+\v 1 Like \f + \fr metaphor \f* a new branch/shoot often grows from the stump of a tree,
 \q2 there will be a descendant of King David who will be a new king.
 \q
 \v 2 The Spirit of Yahweh will always be with him. 
@@ -16,15 +16,15 @@ things\add*;
 \q
 \v 4 He will judge \add the cases of\add* needy people fairly; 
 \q2 and he will act justly toward poor people. 
-\q He will punish evil people as a result of what he decides [MTY];
-\q2 he will get rid of wicked people because of [MTY] \add their
+\q He will punish evil people as a result of what he decides \f + \fr metonymy \f*;
+\q2 he will get rid of wicked people because of \f + \fr metonymy \f* \add their
 behavior\add*. 
 \q
 \v 5 He will always act righteously; 
-\q2 his doing that will \add accompany him like\add* [MET] a belt
+\q2 his doing that will \add accompany him like\add* \f + \fr metaphor \f* a belt
 \add around his waist\add*. 
 \q He will always speak what is true; 
-\q2 his doing that will \add accompany him like\add* [MET] a sash
+\q2 his doing that will \add accompany him like\add* \f + \fr metaphor \f* a sash
 \add around his waist\add* 
 \b
 \q
@@ -47,7 +47,7 @@ behavior\add*.
 \v 9 No creatures will harm or kill other creatures on \add Zion
 Hill\add*, my holy hill; 
 \q and the earth will be filled with people who know Yahweh 
-\q2 like [SIM] the seas are full of water. 
+\q2 like \f + \fr simile \f* the seas are full of water. 
 \p
 \v 10 At that time, a descendant of King David will \add hold up\add* a flag
 \q2 to signal to the people of all people-groups \add that they should gather around

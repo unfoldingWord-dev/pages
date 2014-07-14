@@ -5,7 +5,7 @@
 \add city\add*. He said to them and to all his mother's relatives,
 \v 2 “Ask all the leaders of your city: ‘Do you \add think it would
 be\add* good for all seventy of Gideon's sons to rule over you? Or would it be better to have only one man,
-\add Abimelech\add*, to rule over you?’ And do not forget that I am your relative! [MTY]”
+\add Abimelech\add*, to rule over you?’ And do not forget that I am your relative! \f + \fr metonymy \f*”
 \p
 \v 3 So Abimelech's mother's brothers spoke to all the leaders of Shechem about what Abimelech had said. They said to each
 other, “We should allow Abimelech to rule over us, because he is our relative.”
@@ -23,18 +23,18 @@ people \add down below\add*, “You leaders of Shechem, listen to me, in order t
 \v 8 One day the trees decided to appoint a king to rule over all of them. So they said to the olive tree, ‘You be our king!’
 \p
 \v 9 But the olive tree said, ‘No! \add I will not be your king\add*! Men and gods enjoy the oil from my fruit. I will not
-[RHQ] stop producing \add olives from which we make\add* that oil, in order to rule over you other trees!’
+\f + \fr rhetorical question \f* stop producing \add olives from which we make\add* that oil, in order to rule over you other trees!’
 \p
 \v 10 Then the trees said to the fig tree, ‘You come and be our king!’
 \p
-\v 11 But the fig tree replied, ‘No! I do not want to [RHQ] stop producing my good sweet fruit, and go and rule over you other
+\v 11 But the fig tree replied, ‘No! I do not want to \f + \fr rhetorical question \f* stop producing my good sweet fruit, and go and rule over you other
 trees!’ 
 \p
 \v 12 Then the trees said to the grapevine, ‘Come and be our king!’
 \p
 \v 13 But the grapevine replied, ‘No! \add I will not be your king\add*! The new wine
 \add that is made from my grapes\add* causes people and gods \add who drink
-it\add* to become very happy. I do not want to stop producing grapes and go and rule over you other trees!’ [RHQ]
+it\add* to become very happy. I do not want to stop producing grapes and go and rule over you other trees!’ \f + \fr rhetorical question \f*
 \p
 \v 14 Then all the trees said to the thornbush, ‘Come and be our king!’
 \p
@@ -43,8 +43,8 @@ it\add* to become very happy. I do not want to stop producing grapes and go and 
 huge cedar trees in Lebanon \add country\add*!’ ” 
 \p
 \v 16  \add After Jotham finished telling them this parable, he said\add*, “So now
-\add I ask you\add*, were you being completely honest and sincere when you appointed Abimelech to be your king [RHQ]? And have
-you acted fairly toward Gideon and his family [RHQ]? Have you rewarded Gideon by honoring him as he deserved
+\add I ask you\add*, were you being completely honest and sincere when you appointed Abimelech to be your king \f + \fr rhetorical question \f*? And have
+you acted fairly toward Gideon and his family \f + \fr rhetorical question \f*? Have you rewarded Gideon by honoring him as he deserved
 \add because of all the good things he did for you\add*? No! 
 \v 17  \add Do not forget that\add* my father fought a battle for you, and he was willing to die for you
 \add if that were necessary\add*, to save you from the power of the Midian people-group.
@@ -75,10 +75,10 @@ someone told Abimelech about it, \add so he did not go near them\add*.
 \add to make juice, and then they made wine\add*. Then they had a feast in the temple of their god, and they ate
 \add a lot of food\add* and drank \add a lot of wine\add*. Then they cursed Abimelech.
 \v 28 Gaal said, “◄Why should \add we allow\add* Abimelech to rule over us?/We should not allow Abimelech to rule over us!►
-[RHQ] He is only one of Gideon's sons, \add so he really does not belong to
-us\add* [RHQ]! And he appointed Zebul, the governor of our city, to be his deputy! We should ◄serve/be loyal to►
+\f + \fr rhetorical question \f* He is only one of Gideon's sons, \add so he really does not belong to
+us\add* \f + \fr rhetorical question \f*! And he appointed Zebul, the governor of our city, to be his deputy! We should ◄serve/be loyal to►
 \add one of the descendants of\add* Hamor, \add the founder of our
-city\add*, to be our leader, not Abimelech [RHQ]! 
+city\add*, to be our leader, not Abimelech \f + \fr rhetorical question \f*! 
 \v 29 If you would appoint me to be your leader, I would get rid of Abimelech. I would say to him, ‘Get your army ready,
 \add and then come to fight us\add*!’ ” 
 \p

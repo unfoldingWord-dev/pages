@@ -55,7 +55,7 @@ Yahweh, our God, will enable you to defeat/kill them. [IDI]”
 \v 20 So Joshua's army did what he told them to do. They killed almost all of the enemy soldiers, but a few of them were able
 to reach their cities and be safe inside the walls of the cities.
 \v 21 Then Joshua's army returned to Joshua, who was still in their camp at Makkedah. No one in the land dared to criticize
-[MTY] the Israelis. 
+\f + \fr metonymy \f* the Israelis. 
 \p
 \v 22 Then Joshua said, “Open the entrance of the cave, and bring out to me those five kings!”
 \v 23 So the soldiers brought those five kings out of the cave—the kings of Jerusalem, Hebron, Jarmuth, Lachish, and Eglon.
@@ -75,21 +75,21 @@ not leave anyone alive. They did to the king of Makkedah the same thing that the
 \p
 \v 29 That same day, Joshua and his Israeli army went \add southwest\add* from Makkedah to Libnah
 \add city\add* and attacked it. 
-\v 30 Yahweh enabled the Israelis to conquer [MTY] that city and its king. They killed everyone in the city; they did not
+\v 30 Yahweh enabled the Israelis to conquer \f + \fr metonymy \f* that city and its king. They killed everyone in the city; they did not
 ◄spare anyone/allow anyone to remain alive►. They \add killed\add* the king of Libnah just like they had killed the king of
 Jericho. 
 \p
 \v 31 Then Joshua and his army went \add south\add* from Libnah to Lachish
 \add city\add*. They surrounded the city and attacked it. 
-\v 32 On the second day of the battle, Yahweh enabled the Israelis to conquer [MTY] the city. And like they had done at Libnah,
-they killed everyone [DOU] in the city. 
+\v 32 On the second day of the battle, Yahweh enabled the Israelis to conquer \f + \fr metonymy \f* the city. And like they had done at Libnah,
+they killed everyone \f + \fr doublet \f* in the city. 
 \v 33 King Horam from Gezer \add city and his army\add* came to help
 \add the soldiers of\add* Lachish, but Joshua's \add army\add* defeated Horam and his army, and did not allow any of them to
 remain alive. 
 \p
 \v 34 Then Joshua and his army went \add west\add* from Lachish to Eglon
 \add city\add*. They surrounded the city and attacked it. 
-\v 35 On that day, they captured the city and killed [MTY] everyone in it [DOU], just like they had done at Lachish.
+\v 35 On that day, they captured the city and killed \f + \fr metonymy \f* everyone in it \f + \fr doublet \f*, just like they had done at Lachish.
 \p
 \v 36 Then Joshua and his army went \add west from Eglon\add* up
 \add into the hills\add* to Hebron \add city\add*. They attacked the city
@@ -98,12 +98,12 @@ remain alive.
 \p
 \v 38 Then Joshua and his army turned \add south\add* and went to Debir
 \add city\add* and attacked it. 
-\v 39 They captured the city and its king, and also captured the nearby towns. Then they killed everyone [DOU]; they did to the
+\v 39 They captured the city and its king, and also captured the nearby towns. Then they killed everyone \f + \fr doublet \f*; they did to the
 people there the same thing that they had done at Hebron and Libnah.
 \p
 \v 40 Thus, Joshua \add and his army\add* conquered the entire southern part of Canaan. They defeated the kings
 \add who ruled\add* the hilly area, the dry southern area, the \add western\add* foothills, and the
-\add eastern\add* slopes. They killed everyone [DOU] in those areas; they did not allow anyone to remain alive.
+\add eastern\add* slopes. They killed everyone \f + \fr doublet \f* in those areas; they did not allow anyone to remain alive.
 \v 41 Joshua's soldiers captured all the cities from Kadesh-Barnea
 \add city\add* in the far south to Gaza \add city\add* near the coast, including all the Goshen area, and north to Gibeon
 \add city\add*. 

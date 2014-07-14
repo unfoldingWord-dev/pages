@@ -4,13 +4,13 @@
 \v 1 These are the ◄proverbs/wise sayings► that come from Solomon, the King of Israel, who was the son of
 \add King\add* David. 
 \q
-\v 2 ◄These proverbs [PRS] can teach people/By studying these proverbs, people can learn► how to be wise
+\v 2 ◄These proverbs \f + \fr personification \f* can teach people/By studying these proverbs, people can learn► how to be wise
 \q2 and how to obey what these proverbs teach them. 
 \q They will also help people to understand which teachings are wise.
 \q
-\v 3 These proverbs [PRS] will teach you how to discipline/control yourselves,
+\v 3 These proverbs \f + \fr personification \f* will teach you how to discipline/control yourselves,
 \q2 how to conduct your lives, 
-\q2 and how to do what is right and just [DOU]. 
+\q2 and how to do what is right and just \f + \fr doublet \f*. 
 \q
 \v 4 They will show people who do not yet know much how to do things that are smart.
 \q2 They will show young people how to become wise and how to make good plans/decisions.
@@ -39,10 +39,10 @@
 \q say “No” to them. 
 \q
 \v 11 They may say, “Come with us! Join us! 
-\q2 We will hide and then kill [MTY] someone \add who passes by\add*.
+\q2 We will hide and then kill \f + \fr metonymy \f* someone \add who passes by\add*.
 \q2 We will ambush some helpless/innocent people. 
 \q
-\v 12 We will kill them [HYP] and get rid of them completely, 
+\v 12 We will kill them \f + \fr hyperbole \f* and get rid of them completely, 
 \q2 just like \add people who are buried in\add* graves are gone forever.
 \q While they are in good health, we will send them to the place where dead people are.
 \q
@@ -54,10 +54,10 @@
 \q2 We will share with you the things that we steal.” 
 \q
 \v 15 My son, do not go with them! 
-\q2 Do not ◄walk on the roads that they walk on/do what they do► [MET]!
+\q2 Do not ◄walk on the roads that they walk on/do what they do► \f + \fr metaphor \f*!
 \q
 \v 16 They rush to do evil deeds! 
-\q2 They hurry to murder [MTY] people. 
+\q2 They hurry to murder \f + \fr metonymy \f* people. 
 \q
 \v 17 It is useless to put out a ◄trap/net to catch a bird► because when a bird sees it,
 \q2 \add it stays away from it\add*. 
@@ -72,17 +72,17 @@
 \q2 They will only destroy themselves! 
 \s Wisdom shouts in the streets 
 \q
-\v 20 Wisdom is [PRS] like a woman who shouts to people in the streets.
+\v 20 Wisdom is \f + \fr personification \f* like a woman who shouts to people in the streets.
 \q2 It is as if wisdom calls out to people in the ◄plazas/town squares►.
 \q
 \v 21 It is as if wisdom calls out in noisy places, 
 \q2 and at the entrances to the cities. 
 \b
 \q
-\v 22 It is as if wisdom says, “How long will you stupid people continue to enjoy doing foolish things [RHQ]?
-\q2 How long will you people who ridicule God enjoy doing that [RHQ]?
+\v 22 It is as if wisdom says, “How long will you stupid people continue to enjoy doing foolish things \f + \fr rhetorical question \f*?
+\q2 How long will you people who ridicule God enjoy doing that \f + \fr rhetorical question \f*?
 \q2 How long will you foolish people refuse to know \add what things are
-right\add* [RHQ]? 
+right\add* \f + \fr rhetorical question \f*? 
 \q
 \v 23 If you pay attention to me when I rebuke you, 
 \q2 I will pour out to you what I am thinking in my inner being;

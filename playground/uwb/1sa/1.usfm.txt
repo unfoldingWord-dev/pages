@@ -18,8 +18,8 @@ permitted her to give birth to any children.
 children. 
 \v 7 This happened every year. When they went up to the temple of Yahweh
 \add at Shiloh\add*, Peninnah ridiculed Hannah so much that Hannah cried and would not eat.
-\v 8 Then Elkanah would say to her, “Hannah, ◄why are you crying?/please quit crying!► [RHQ] ◄Why are you not eating?/Please
-eat something!► [RHQ] Why are you so upset/sad? You have me; is that not more important to you than if you had ten sons? (OR, I
+\v 8 Then Elkanah would say to her, “Hannah, ◄why are you crying?/please quit crying!► \f + \fr rhetorical question \f* ◄Why are you not eating?/Please
+eat something!► \f + \fr rhetorical question \f* Why are you so upset/sad? You have me; is that not more important to you than if you had ten sons? (OR, I
 \add love you\add* more than your sons \add would love you\add*, even if you had ten sons.)”
 \p
 \v 9 One year, after they had finished eating and drinking at Shiloh, Hannah stood up
@@ -33,11 +33,11 @@ life. And \add to show that he is dedicated to you\add*, ◄no one will ever
 \v 12 As she was praying like that to Yahweh, Eli the priest saw Hannah's lips
 \add moving as she was praying\add*. 
 \v 13 But Hannah was only praying silently; she was not making any sound. So Eli thought that she was drunk.
-\v 14 He said to her, “How long will you continue to get drunk [RHQ]? ◄Throw away your wine/Quit drinking wine►!”
+\v 14 He said to her, “How long will you continue to get drunk \f + \fr rhetorical question \f*? ◄Throw away your wine/Quit drinking wine►!”
 \p
 \v 15 Hannah replied, “Sir, I am not drunk! I have not been drinking wine or any other alcoholic drink. I feel very miserable
 and I have been telling Yahweh about how I feel. 
-\v 16 Do not think that I am a worthless/wicked woman! I have been praying like this because I am very miserable. [DOU]”
+\v 16 Do not think that I am a worthless/wicked woman! I have been praying like this because I am very miserable. \f + \fr doublet \f*”
 \p
 \v 17 Eli replied, “I wish/desire that things will go well for you. I desire that God, the one we Israeli people
 \add worship\add*, will give you what you requested from him.” 

@@ -3,19 +3,19 @@
 \p
 \v 1 Then Eliphaz replied, saying this: 
 \q
-\v 2 “◄Can anyone be useful to God?/Certainly no one can be useful to God.► [RHQ]
+\v 2 “◄Can anyone be useful to God?/Certainly no one can be useful to God.► \f + \fr rhetorical question \f*
 \q2 People who are wise can be useful to themselves, \add but not to
 God\add*. 
 \q
 \v 3 If you were righteous, ◄would that benefit Almighty \add God\add*?/that certainly would not benefit Almighty
-\add God\add*.► [RHQ] 
+\add God\add*.► \f + \fr rhetorical question \f* 
 \q2 If you had ◄lived a perfect life/never done anything that is wrong►, would that help him?
 \b
 \q
 \v 4 Is it because you have an awesome respect for God that he punishes you?
 \q2 Is that the reason that he puts you on trial? 
 \q
-\v 5 No, it certainly must be [RHQ] because you are extremely wicked.
+\v 5 No, it certainly must be \f + \fr rhetorical question \f* because you are extremely wicked.
 \q2 It must be that no one can count the evil things that you have done!
 \q
 \v 6 You must have lent money to others and wrongly forced them to give you things to guarantee that they would pay that money
@@ -35,15 +35,15 @@ back to you;
 \q2 and suddenly there are things that terrify you and cause you to tremble.
 \q
 \v 11  \add It is as though\add* it has become very dark, with the result that you cannot see anything,
-\q2 and \add it is as though\add* [MET] a flood covers you. 
+\q2 and \add it is as though\add* \f + \fr metaphor \f* a flood covers you. 
 \b
 \q
-\v 12  \add But consider this, Job:\add* God lives [RHQ] high up in the heavens.
-\q2 From there he [RHQ] looks down on the highest stars. 
+\v 12  \add But consider this, Job:\add* God lives \f + \fr rhetorical question \f* high up in the heavens.
+\q2 From there he \f + \fr rhetorical question \f* looks down on the highest stars. 
 \q
 \v 13 So why do you say, ‘What does God know \add about what we are
 doing\add*? 
-\q2 \add He is hidden from us by\add* dark clouds, so ◄how can he judge us?/he certainly cannot judge us.► [RHQ]’
+\q2 \add He is hidden from us by\add* dark clouds, so ◄how can he judge us?/he certainly cannot judge us.► \f + \fr rhetorical question \f*’
 \q
 \v 14  \add Do you think that\add* while he walks on the dome that covers the sky,
 \q2 there are thick clouds around him, with the result that he cannot see
@@ -53,10 +53,10 @@ doing\add*?
 \q2 that evil people have done \add for many years\add*? 
 \q
 \v 16 They suddenly died while they were still young; 
-\q2 they disappeared \add like everything disappears when there is\add* a flood [MET].
+\q2 they disappeared \add like everything disappears when there is\add* a flood \f + \fr metaphor \f*.
 \q
 \v 17 They kept saying to God, ‘◄Allow us to be alone/Do not bother us►,’
-\q2 and they also said \add defiantly\add*, ‘Almighty \add God\add* can do nothing [RHQ] to
+\q2 and they also said \add defiantly\add*, ‘Almighty \add God\add* can do nothing \f + \fr rhetorical question \f* to
 \add harm\add* us!’ 
 \q
 \v 18 But it was God who filled their houses with good things, 

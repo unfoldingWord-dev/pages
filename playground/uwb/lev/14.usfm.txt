@@ -116,6 +116,6 @@ blood of the dead bird, and sprinkle some of that blood on the house seven times
 \add finish the ritual for\add* causing the house to be acceptable for people to live in it again.
 \p
 \v 54 Those are the regulations for contagious diseases, for itching sores,
-\v 55 for mildew [DOU] on clothes or in a house, 
+\v 55 for mildew \f + \fr doublet \f* on clothes or in a house, 
 \v 56 and for swellings, rashes, or bright spots \add on sores\add*,
 \v 57 to determine whether people will still be permitted to touch those things or not.”

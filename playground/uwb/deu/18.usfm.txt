@@ -45,7 +45,7 @@ allow you to do that.
 \v 15  \add Some day\add* he will send from among you a prophet like me. He
 \add is the one who will tell you what will happen in the future\add*, and he is the one whom you must heed.
 \v 16 On the day that your ancestors were gathered at the bottom of Sinai Mountain, they pleaded with me saying, ‘We do not
-want Yahweh to speak [MTY] to us again, and we do not want to see this huge fire
+want Yahweh to speak \f + \fr metonymy \f* to us again, and we do not want to see this huge fire
 \add that is burning on the mountain\add*!’ \add Your ancestors said that because they were
 afraid\add* that they would die \add if Yahweh spoke to them again\add*.
 \p
@@ -54,7 +54,7 @@ afraid\add* that they would die \add if Yahweh spoke to them again\add*.
 that I tell him to say. 
 \v 19 He will speak for me. And I will punish anyone who does not heed what he says.
 \v 20 But if any person \add says that he is\add* a prophet and dares to speak a message which he falsely says comes from me
-but which I did not tell him to speak, or anyone who speaks a message that he says other gods [MTY] have revealed to him, he
+but which I did not tell him to speak, or anyone who speaks a message that he says other gods \f + \fr metonymy \f* have revealed to him, he
 must be executed \add for doing that\add*.’ 
 \p
 \v 21 But if you say to yourself, ‘How can we know if a message \add that someone tells

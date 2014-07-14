@@ -5,7 +5,7 @@
 \v 2 “Tell the Israeli people that they should choose some cities to which people
 \add can run\add* in order to be safe/protected, like I told Moses that you should do.
 \v 3 If someone kills another person accidentally, not intending to kill that person, the one who killed that person may
-run/escape to one of these cities and be safe/protected from someone trying to get revenge for that person's death [MTY].
+run/escape to one of these cities and be safe/protected from someone trying to get revenge for that person's death \f + \fr metonymy \f*.
 \p
 \v 4 When the one who killed someone arrives at the gate of one of those cities, he must stop there and tell the leaders of the
 city what happened. \add If they believe him\add*, they must allow him to enter the city, and they must give him a place to

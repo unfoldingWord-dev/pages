@@ -9,13 +9,13 @@ wandered in the Edom area for many years.
 \add and travel\add* toward the north. 
 \v 4 And tell the people that they are about to travel near the land that belongs to the descendants of Esau, who are also
 descendants of Isaac. They live in \add the hilly\add* Edom region. They will be afraid of you,
-\v 5 but do not start to fight against them, because I am not going to give you even a tiny bit [HYP] of their land. I have
+\v 5 but do not start to fight against them, because I am not going to give you even a tiny bit \f + \fr hyperbole \f* of their land. I have
 given that land to the descendants of Esau. 
 \v 6  \add When you travel near their land\add*, buy food and water from them.’
 \p
-\v 7 Do not forget that Yahweh our God has blessed you in everything that you [SYN] have done. He knows
+\v 7 Do not forget that Yahweh our God has blessed you in everything that you \f + \fr synecdoche \f* have done. He knows
 \add what has happened to you while\add* you have wandered in this huge desert. But he has been with you during those forty
-years, and as a result you have had everything that you needed [LIT].
+years, and as a result you have had everything that you needed \f + \fr litotes \f*.
 \p
 \v 8 So we continued to travel. We avoided going through the hilly area where the descendants of Esau live. We stayed away from
 the road through the Jordan \add River Valley\add* past Ezion-Geber and Elath
@@ -37,7 +37,7 @@ Yahweh gave to them.
 years, all the Israeli ◄fighting men/soldiers► of that generation had died, as Yahweh had solemnly said would happen.
 \v 15 They died because Yahweh opposed them, until he had gotten rid of all of them.
 \p
-\v 16 After all the men who had been old enough to fight in wars had died [DOU],
+\v 16 After all the men who had been old enough to fight in wars had died \f + \fr doublet \f*,
 \v 17 Yahweh said to me, 
 \v 18 ‘Today you all must travel through the Moab region, near Ar,
 \add their capital city\add*. 
@@ -79,7 +79,7 @@ areas.’
 \p
 \v 32 Then Sihon came out \add of the city\add* with all his army to fight against us at Jahaz
 \add town\add*. 
-\v 33 But God enabled us to defeat [DOU] them, and we killed Sihon and his sons and all his soldiers.
+\v 33 But God enabled us to defeat \f + \fr doublet \f* them, and we killed Sihon and his sons and all his soldiers.
 \v 34 We captured all their cities and destroyed them all. We killed all the men and women and children; we did not allow any
 of them to remain alive. 
 \v 35 We took the valuable things that were in the cities that we captured and also their cattle.

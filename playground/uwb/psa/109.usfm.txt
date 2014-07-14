@@ -5,7 +5,7 @@
 \q so please answer \add my prayer\add*, 
 \q
 \v 2 because wicked people slander me 
-\q2 and tell [MTY] lies about me. 
+\q2 and tell \f + \fr metonymy \f* lies about me. 
 \q
 \v 3 They are constantly saying that they hate me, 
 \q and they say evil things about me for no reason. 
@@ -41,7 +41,7 @@
 \q2 and \add after he dies\add*, cause that no one will pity his children.
 \q
 \v 13 Cause that all his descendants will die 
-\q2 and that his grandchildren will not remember who he [MTY] was.
+\q2 and that his grandchildren will not remember who he \f + \fr metonymy \f* was.
 \q
 \v 14 Yahweh, remember \add and do not forgive\add* his ancestors for the evil things that they did,
 \q2 and do not even forgive the sins that his mother committed; 
@@ -59,12 +59,12 @@
 \q He did not want to bless others, 
 \q2 so cause that no one will bless him! 
 \q
-\v 18 He cursed other people \add as often/easily\add* as he put on his clothes [SIM];
+\v 18 He cursed other people \add as often/easily\add* as he put on his clothes \f + \fr simile \f*;
 \q2 cause that the terrible things that he wanted to happen to others will
 \add happen to him and\add* enter his body like water \add that he
-drinks\add* [SIM], 
+drinks\add* \f + \fr simile \f*, 
 \q2 like olive oil soaks into a person's bones \add when it is rubbed on his
-skin\add* [SIM]. 
+skin\add* \f + \fr simile \f*. 
 \q
 \v 19 Cause that those terrible things will cling to him like his clothes
 \q and be around him like the belt that he wears every day. 
@@ -82,7 +82,7 @@ skin\add* [SIM].
 \q2 and my inner being is ◄full of pain/very troubled/discouraged►.
 \q
 \v 23  \add I think that\add* my time \add to remain alive\add* is short,
-\q2 like an evening shadow \add that will soon disappear\add* [SIM].
+\q2 like an evening shadow \add that will soon disappear\add* \f + \fr simile \f*.
 \q2 I will be blown away like a locust/grasshopper is blown \add by the
 wind\add*. 
 \q
@@ -105,13 +105,13 @@ result\add* to be disgraced/ashamed,
 \q and cause me to be glad/happy! 
 \q
 \v 29 Cause those who accuse me to be completely disgraced; 
-\q2 cause other people to see that they are disgraced, as easily as they see the clothes that they wear [SIM]!
+\q2 cause other people to see that they are disgraced, as easily as they see the clothes that they wear \f + \fr simile \f*!
 \b
 \q
 \v 30 But I will thank Yahweh very greatly; 
 \q2 I will praise him when I am among the crowd of people \add who are worshiping
 him\add*. 
 \q
-\v 31 I will do that because he defends [MTY] needy people \add like
+\v 31 I will do that because he defends \f + \fr metonymy \f* needy people \add like
 me\add*, 
 \q2 and saves us from those who have decided/declared that we must be executed.

@@ -37,7 +37,7 @@ Lasea town.
 \s Paul warned them not to travel on, but the ship's officials decided to go on anyway.
 \p
 \v 9 Much time had passed, so it would have been dangerous if we\add (exc)\add* had traveled
-\add farther\add* by ship \add because after that time of the year\add* [MTY]
+\add farther\add* by ship \add because after that time of the year\add* \f + \fr metonymy \f*
 \add the sea often became very stormy\add*. So Paul said to the men
 \add on the ship\add*, 
 \v 10 “Men, I perceive that \add if we(inc) travel by ship\add* now, it will be disastrous for us. A storm may destroy the ship
@@ -71,7 +71,7 @@ ship\add*, it might run onto the sandbanks off the coast of Libya to the south
 so\add*, the wind continued to move the ship along. \add The wind and the
 waves\add* continued to toss the ship about roughly, so on the next day the sailors began to throw overboard the things that
 the ship was carrying. 
-\v 19 On the third \add day after the stormy wind had begun to blow\add*, the sailors/we [MTY] threw overboard
+\v 19 On the third \add day after the stormy wind had begun to blow\add*, the sailors/we \f + \fr metonymy \f* threw overboard
 \add most of\add* the sails, ropes, and poles, \add in order to make the ship
 lighter\add*. 
 \v 20 The wind continued to blow very strongly, \add and the sky was full of dark
@@ -84,7 +84,7 @@ we\add (exc)\add* finally thought that we would drown in the sea.
 \v 21 None of us on the ship had eaten for many days. \add Then one
 day\add*, Paul stood up in front of us and said, “\add Friends\add*, you should have listened to me
 \add when I said\add* that we\add (inc)\add* should not sail from Crete. Then we would have been safe, and the ship and its
-cargo would be in good condition [LIT]. 
+cargo would be in good condition \f + \fr litotes \f*. 
 \v 22 But now, I urge you, do not be afraid, because none of us will die.
 \add The storm\add* will destroy the ship but not us. 
 \v 23 I \add know this\add*, because last night God, the one to whom I belong and whom I serve,
@@ -122,11 +122,11 @@ saved.”
 \v 33 Just before dawn, Paul urged everyone\add on the ship\add* to eat some food. He said, “For the past fourteen days you
 have been waiting and watching and not eating anything. 
 \v 34 So, \add now\add* I urge you to eat some food. We\add (inc)\add* need to do that in order to stay alive. I
-\add tell you to do that because I know that\add* none of you will drown [IDM].”
+\add tell you to do that because I know that\add* none of you will drown \f + \fr idiom \f*.”
 \v 35 After Paul had said that, while everyone was watching, he took some bread and thanked God
 \add for it. Then he broke the bread and began to eat some of it\add*.
 \v 36 The \add rest of us\add* became encouraged, so we\add (exc)\add* all ate some food.
-\v 37 Altogether there were 276 of us [SYN] on the ship. 
+\v 37 Altogether there were 276 of us \f + \fr synecdoche \f* on the ship. 
 \v 38 When everyone had eaten as much as they wanted, they threw the grain
 \add that the ship was carrying\add* into the sea, and this made the ship lighter.
 \s Acts 27:39-41 

@@ -4,17 +4,17 @@
 \v 1 One day a prophet, obeying what Yahweh commanded him to do, went from Judah
 \add north\add* to Bethel. He arrived there right at the time that Jeroboam was standing at the altar, ready to burn incense.
 \v 2 Saying what Yahweh told him to say, the prophet shouted, “This is what Yahweh says
-\add about this\add* altar [APO]: I want you to know that \add some
-day\add* a descendant [MTY] of King David will be born. His name will be Josiah, and he will come here. He will slaughter at
+\add about this\add* altar \f + \fr apostrophe \f*: I want you to know that \add some
+day\add* a descendant \f + \fr metonymy \f* of King David will be born. His name will be Josiah, and he will come here. He will slaughter at
 this altar the priests who are burning incense for sacrifices on the hills
-\add in this area\add*, and he will burn the bones of dead people on this altar.” [APO]
+\add in this area\add*, and he will burn the bones of dead people on this altar.” \f + \fr apostrophe \f*
 \v 3 Then the prophet also said, “This is what will prove to you that Yahweh has said this: This altar will be split apart, and
 the ashes that are on it will be scattered.” 
 \p
 \v 4 When King Jeroboam heard the prophet say that, he pointed his finger at him and said to his servants, “Seize that man!”
 But immediately the king's arm became paralyzed/stiff, with the result that he could not move it.
 \v 5 And the altar immediately split apart, and the ashes spilled out
-\add on the ground\add*, which is what the prophet said that Yahweh [MTY] had predicted would happen.
+\add on the ground\add*, which is what the prophet said that Yahweh \f + \fr metonymy \f* had predicted would happen.
 \p
 \v 6 Then the king said to the prophet, “Please pray that Yahweh will be merciful to me and heal my arm!” So the prophet
 prayed, and Yahweh completely healed the king's arm. 
@@ -22,7 +22,7 @@ prayed, and Yahweh completely healed the king's arm.
 \v 7 Then the king said to the prophet, “Come home with me and eat some food. And I will also give you a reward
 \add for what you have done\add*!” 
 \p
-\v 8 But the prophet replied, “Even if you would \add promise to\add* give me half of everything that you own [MTY], I will not
+\v 8 But the prophet replied, “Even if you would \add promise to\add* give me half of everything that you own \f + \fr metonymy \f*, I will not
 go with you, and I will not eat or drink anything with you here,
 \v 9 because Yahweh commanded me not to eat or drink anything here. He also commanded me not to return home on the road on
 which I came here.” 

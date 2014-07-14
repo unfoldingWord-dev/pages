@@ -14,7 +14,7 @@
 \q
 \v 3 Your \add capital city\add* is high in the rocky cliffs, 
 \q2 and you are very proud; 
-\q you think that you are safe because no army can attack you [RHQ],
+\q you think that you are safe because no army can attack you \f + \fr rhetorical question \f*,
 \q2 but you [IDI] have deceived yourselves. 
 \q
 \v 4 And I tell you that even if \add you had wings and\add* could fly higher than eagles fly,
@@ -23,8 +23,8 @@
 \b
 \q
 \v 5 When thieves break into someone's house during the night, 
-\q2 they certainly [RHQ] steal only the things that they want. 
-\q And people who pick grapes always [RHQ] leave a few grapes on the vines.
+\q2 they certainly \f + \fr rhetorical question \f* steal only the things that they want. 
+\q And people who pick grapes always \f + \fr rhetorical question \f* leave a few grapes on the vines.
 \q2 But your country will be completely destroyed! 
 \q
 \v 6 Everything that is valuable will be taken away. 
@@ -34,7 +34,7 @@
 \q2 and they will force you to leave your country/land. 
 \q Those with whom you have peace now will trick/deceive you and defeat you.
 \q2 Those who eat meals with you now are planning to trap you, 
-\q and then they will say to you, ‘You are not [RHQ] as clever as you thought you were!’
+\q and then they will say to you, ‘You are not \f + \fr rhetorical question \f* as clever as you thought you were!’
 \b
 \q
 \v 8 I, Yahweh, declare that at the time that I destroy Edom, 
@@ -76,17 +76,17 @@ punish\add* all the nations.
 \q The same evil things that you have done to others will happen to you.
 \q
 \v 16 My people in Jerusalem have been punished; 
-\q2 \add it is as though\add* [MET] they drank a cup of very bitter liquid on Zion, my sacred hill,
+\q2 \add it is as though\add* \f + \fr metaphor \f* they drank a cup of very bitter liquid on Zion, my sacred hill,
 \q2 because I was very angry with them. 
-\q But I will punish [MET] all the other nations even more severely,
+\q But I will punish \f + \fr metaphor \f* all the other nations even more severely,
 \q2 and cause them to disappear completely. 
 \q
 \v 17 But some people in Jerusalem will escape, 
 \q2 and Jerusalem will become a very holy/sacred place. 
 \q Then the descendants of Jacob will conquer and possess again the land that truly belongs to them.
 \q
-\v 18 The descendants [MTY] of Jacob and his son Joseph will be like [MET] a fire,
-\q2 and the people [MTY] of Edom will be like [MET] stubble that will be completely burned in that fire.
+\v 18 The descendants \f + \fr metonymy \f* of Jacob and his son Joseph will be like \f + \fr metaphor \f* a fire,
+\q2 and the people \f + \fr metonymy \f* of Edom will be like \f + \fr metaphor \f* stubble that will be completely burned in that fire.
 \q2 Not one person will remain alive. 
 \q \add That will surely happen because\add* I, Yahweh, have said it.”
 \b

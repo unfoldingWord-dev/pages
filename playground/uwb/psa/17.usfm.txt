@@ -4,7 +4,7 @@
 \v 1 Yahweh, listen to me while I plead with you to act justly toward me.
 \q2 Hear me while I call out to you to help me. 
 \q Pay attention to what I say while I pray 
-\q2 because I am speaking [MTY] honestly/truthfully. 
+\q2 because I am speaking \f + \fr metonymy \f* honestly/truthfully. 
 \q
 \v 2 You are the one who is able to declare that I ◄am innocent/have not done anything that was wrong►
 \q2 because you see/know that I am telling the truth. 
@@ -19,17 +19,17 @@
 \q and I have not acted cruelly toward others. 
 \q
 \v 5 I have always done what you told me to do [IDI], 
-\q2 I have ◄never failed to do/always done► [LIT] those things. 
+\q2 I have ◄never failed to do/always done► \f + \fr litotes \f* those things. 
 \b
 \q
 \v 6 O God, I pray to you because you answer me; 
-\q2 please listen [MTY] to what I am saying. 
+\q2 please listen \f + \fr metonymy \f* to what I am saying. 
 \q
 \v 7 Show me that you faithfully love me. 
-\q2 By your great power [MTY] rescue those who ◄run to/trust in► you to protect them from their enemies.
+\q2 By your great power \f + \fr metonymy \f* rescue those who ◄run to/trust in► you to protect them from their enemies.
 \q
 \v 8 Protect me as carefully as people protect their own eyes; 
-\q2 protect me like \add birds\add* protect \add their babies\add* under their wings [MET].
+\q2 protect me like \add birds\add* protect \add their babies\add* under their wings \f + \fr metaphor \f*.
 \q
 \v 9 Do not allow wicked people to attack me; 
 \q2 my enemies surround me, wanting to kill me. 
@@ -41,7 +41,7 @@
 \v 11 They have hunted/searched for me and found me. 
 \q2 They surround me, watching for an opportunity to throw me to the ground.
 \q
-\v 12 They are like lions [SIM] that are ready to tear apart the animals that they capture;
+\v 12 They are like lions \f + \fr simile \f* that are ready to tear apart the animals that they capture;
 \q2 They are like young lions that are hiding, waiting to pounce
 \add on some animal\add*. 
 \b
@@ -49,11 +49,11 @@
 \v 13 Yahweh, arise and ◄oppose/fight against► my enemies and defeat them!
 \q2 With your sword, save me from those wicked people! 
 \q
-\v 14 Yahweh, by your power [MTY] rescue me from those people who are interested
+\v 14 Yahweh, by your power \f + \fr metonymy \f* rescue me from those people who are interested
 \add only\add* in things here in this world. 
 \b
 \q But you provide plenty of food for those whom you love dearly;
 \q2 their children also have many things that their grandchildren will inherit.
 \q
-\v 15 Yahweh, because I act righteously, I will \add some day\add* see you [SYN].
+\v 15 Yahweh, because I act righteously, I will \add some day\add* see you \f + \fr synecdoche \f*.
 \q2 When I awake, I will see you face-to-face, and then I will be happy.

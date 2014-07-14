@@ -25,7 +25,7 @@ fourth generation/their children and grandchildren and great-grandchildren►.
 (OR, I will love for thousands of generations). 
 \li
 \v 11 Do not use/speak my name carelessly (OR, for wrong/evil purposes), because I am Yahweh God, the one whom you
-\add should worship\add*, and I will certainly punish those who use/speak my name for wrong/evil purposes [LIT].
+\add should worship\add*, and I will certainly punish those who use/speak my name for wrong/evil purposes \f + \fr litotes \f*.
 \li
 \v 12 Do not forget that the seventh day \add of every week\add* is mine and dedicate those days to me just like I, Yahweh your
 God, am commanding you. 
@@ -62,11 +62,11 @@ gave them to me.
 \v 23 After your ancestors heard \add Yahweh's\add* voice when he spoke to them out of the darkness, while there was a big fire
 burning on the mountain, their leaders and elders came to me, 
 \v 24 and \add one of\add* them said, ‘Listen to us! Yahweh our God showed us that he is very great and glorious when we heard
-him speak [MTY] from the fire. Today we have realized that it is possible for us humans to continue to live even though God has
+him speak \f + \fr metonymy \f* from the fire. Today we have realized that it is possible for us humans to continue to live even though God has
 spoken to us. 
-\v 25 But we are afraid that we will die [RHQ] if we hear Yahweh our God speak [MTY] to us again; his terrible fire will
+\v 25 But we are afraid that we will die \f + \fr rhetorical question \f* if we hear Yahweh our God speak \f + \fr metonymy \f* to us again; his terrible fire will
 destroy/kill us. 
-\v 26 ◄Who has/Certainly no human has► remained alive after hearing the all-powerful God speak [MTY] to them from a fire.
+\v 26 ◄Who has/Certainly no human has► remained alive after hearing the all-powerful God speak \f + \fr metonymy \f* to them from a fire.
 \v 27  \add So Moses\add*, you go up the mountain and listen to everything that Yahweh our God will say. Then
 \add come back and\add* tell us everything that he has said, and we will listen to what he has said and obey it.’
 \p

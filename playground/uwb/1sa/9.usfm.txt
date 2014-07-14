@@ -45,7 +45,7 @@ on the way to where people were going to offer sacrifices.
 \v 16 “At this time tomorrow, I will send to you a man from the land where the descendants of Benjamin live. Pour olive oil
 \add on his head to indicate that he will\add* be the leader of my Israeli people. I have seen that my people are suffering
 \add because the Philistine people are oppressing them\add*, and I have heard my people as they have called out to me
-\add for help\add*. The man whom you anoint will rescue my people from the power [MTY] of the Philistine people.”
+\add for help\add*. The man whom you anoint will rescue my people from the power \f + \fr metonymy \f* of the Philistine people.”
 \p
 \v 17 When Samuel saw Saul, Yahweh said to him, “This is the man I told you about yesterday! He is the one who will rule my
 people!” 
@@ -57,9 +57,9 @@ Samuel\add*. He went over to him and asked him, “Can you tell me, where is the
 \v 19 Samuel replied, “I am that man. Go ahead of me with your servant to the place where the people make sacrifices. Both of
 you will eat with me today. Tomorrow morning I will tell you what you are wanting to know, and then I will send you home.
 \v 20 Also, do not worry anymore about those donkeys that wandered away three days ago. ◄Someone has found them/They have been
-found►. But \add what you need to know is that\add* it is you and your family that all the Israeli people are wanting!” [RHQ]
+found►. But \add what you need to know is that\add* it is you and your family that all the Israeli people are wanting!” \f + \fr rhetorical question \f*
 \p
-\v 21 Saul replied, “I am from the tribe of Benjamin [RHQ]. That is the smallest tribe in Israel [RHQ]! And my family is the
+\v 21 Saul replied, “I am from the tribe of Benjamin \f + \fr rhetorical question \f*. That is the smallest tribe in Israel \f + \fr rhetorical question \f*! And my family is the
 least important family in our tribe! So why are you talking to me like this,
 \add about the Israeli people wanting me and my family\add*?” 
 \p

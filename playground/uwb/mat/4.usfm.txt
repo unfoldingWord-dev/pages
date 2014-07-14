@@ -7,12 +7,12 @@ order that the devil would tempt him}.
 \v 2 After he did not eat food day and night for forty days, he was hungry.
 \v 3  \add Satan\add*, the tempter, came to him and said, “Because you
 \add claim that you have a relationship with\add* God \add as\add* a son
-\add has with his father\add* [MET], \add prove it\add* by commanding these stones to become bread
+\add has with his father\add* \f + \fr metaphor \f*, \add prove it\add* by commanding these stones to become bread
 \add so that you can eat them\add*!” 
 \v 4 But Jesus said \add to him\add*, “\add No! I will not change stones into bread,
 because\add* it is written \add in the Scriptures\add* {in the Scriptures\add Moses\add* wrote},
-\add ‘Eating\add* food [SYN] \add sustains\add* people \add physically,
-but\add* it does not sustain them \add spiritually\add* [SYN]. Instead,
+\add ‘Eating\add* food \f + \fr synecdoche \f* \add sustains\add* people \add physically,
+but\add* it does not sustain them \add spiritually\add* \f + \fr synecdoche \f*. Instead,
 \add paying attention to\add* everything that God has spoken \add to them is what sustains people
 spiritually\add*.’” 
 \v 5 Then the devil took Jesus to \add Jerusalem\add*, the city that is dedicated to God. He set him on the highest part of the
@@ -55,9 +55,9 @@ Isaiah wrote}:
 \add which is\add* near \add Galilee Lake and\add* on the eastern side of the Jordan
 \add River. They are\add* the regions in Galilee \add District where
 many\add* non-Jews \add are living\add*. 
-\v 16  \add Although the people there will be like\add* people who sit in a dark place [MET],
-\add they will suddenly perceive clearly a new teaching, as\add* people who have seen a big light shining on them [MET]
-perceive everything clearly\add . The\add* people who are located in a dangerous [MET] region
+\v 16  \add Although the people there will be like\add* people who sit in a dark place \f + \fr metaphor \f*,
+\add they will suddenly perceive clearly a new teaching, as\add* people who have seen a big light shining on them \f + \fr metaphor \f*
+perceive everything clearly\add . The\add* people who are located in a dangerous \f + \fr metaphor \f* region
 \add will suddenly perceive clearly what God teaches\add*, as people on whom a light shines perceive things clearly [MET, DOU].
 \p
 \v 17 From that time, \add while\add* Jesus was \add in Capernaum city, he began to preach this to people: “God [MTY/EUP] will
@@ -72,7 +72,7 @@ you\add*.”
 \add fishing\add* net into the lake because they \add earned money
 by\add* catching\add and selling\add* fish. 
 \v 19 He said to them, “\add Just like you have been\add* gathering fish, come with me and I will teach you how to gather
-people \add to become my disciples\add*.” [MET] 
+people \add to become my disciples\add*.” \f + \fr metaphor \f* 
 \v 20 They immediately left \add the work that they were doing with\add* their
 \add fishing\add* nets, and they went with him. 
 \p
@@ -88,7 +88,7 @@ and\add* go with him.
 \add District\add*. He was teaching \add the people\add* in the buildings where we Jews worship God. He was preaching the good
 message that tells how to become members of the group of people whose lives God rules over. He was also healing all
 \add the Galileans\add* who had diseases or who were sick. 
-\v 24 When people who lived in other parts of Syria \add District\add* heard [PRS] what he was doing, they brought to him
+\v 24 When people who lived in other parts of Syria \add District\add* heard \f + \fr personification \f* what he was doing, they brought to him
 people who suffered from illnesses, people who suffered from many kinds of diseases, people who
 \add suffered from\add* severe pains, people who were controlled by demons {whom demons controlled}, people who were
 epileptics, and people who were paralyzed. And Jesus healed them.

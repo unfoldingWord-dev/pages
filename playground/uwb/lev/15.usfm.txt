@@ -2,7 +2,7 @@
 \s Discharges from bodies 
 \p
 \v 1 Yahweh also said to Moses/me and Aaron, 
-\v 2 “Tell this to the Israelis: When an unusual fluid comes out of a man's sexual organs [EUP], that fluid should not be
+\v 2 “Tell this to the Israelis: When an unusual fluid comes out of a man's sexual organs \f + \fr euphemism \f*, that fluid should not be
 touched. 
 \v 3 Whether that fluid is blocked or continues to drip, it causes him to be someone who should not be touched.
 \p
@@ -34,7 +34,7 @@ Sacred Tent, and give them to the priest.
 be completely burned \add on the altar\add*. As a result of the priest doing that, the man will no longer be guilty for having
 sinned. 
 \p
-\v 16 When semen accidentally flows from a man's sexual organs [EUP], he must bathe his whole body, and no one should touch him
+\v 16 When semen accidentally flows from a man's sexual organs \f + \fr euphemism \f*, he must bathe his whole body, and no one should touch him
 until that evening. 
 \v 17 Any clothing or leather that has semen on it must be washed, and no one should touch it until that evening.
 \v 18 When a man has sex with a woman and some semen spills, both of them must bathe, and no one should touch them until that
@@ -61,7 +61,7 @@ anyone else until that evening.
 \v 29 On the eighth/next day, she must take two doves or two pigeons to the priest at the entrance of the Sacred Tent.
 \v 30 The priest will sacrifice one of them to be an offering to enable her to become acceptable to Yahweh again, and
 completely burn the other one \add on the altar\add*. By doing that he will cause Yahweh to consider her no longer guilty for
-having sinned [DOU]. 
+having sinned \f + \fr doublet \f*. 
 \p
 \v 31 You must warn the Israeli people not to do things that ◄defile them/cause them to be unacceptable to me►. If they become
 ◄unacceptable to me/defiled►, they will defile my Sacred Tent which is among them, and as a result they will die.”

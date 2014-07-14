@@ -55,14 +55,14 @@ Babylon\add*.
 \q
 \v 10 My people \add in Judah\add*, \add the army of Babylon has
 caused\add* you to suffer greatly 
-\q2 as though [MET] you were grain that was threshed and ◄winnowed/thrown up into the air for the wind to blow away the chaff►.
+\q2 as though \f + \fr metaphor \f* you were grain that was threshed and ◄winnowed/thrown up into the air for the wind to blow away the chaff►.
 \q But now I have told you what the Almighty Commander of the armies of angels the God whom we Israelis
 \add worship\add*, told me \add about Babylon\add*. 
 \s A message about Edom 
 \p
 \v 11  \add I received\add* this message \add from Yahweh\add* about Edom:
 \q Someone from Edom has been calling/shouting to me saying, 
-\q2 “Watchman, how long will it be before the night is ended? [DOU]”
+\q2 “Watchman, how long will it be before the night is ended? \f + \fr doublet \f*”
 \q
 \v 12 I, the watchman, replied, 
 \q2 “It will soon be morning, but after that, it will soon be night again.

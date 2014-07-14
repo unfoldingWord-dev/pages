@@ -23,17 +23,17 @@ it\add*.” So David collected a great amount of building materials before he di
 \p
 \v 6 Then David summoned his son Solomon, and told him that he should arrange for a temple to be built for Yahweh, the God whom
 the Israelis \add worshiped\add*. 
-\v 7 He said to him, “I wanted [IDI] to build a temple to honor [MTY] Yahweh, my God.
-\v 8 But Yahweh told \add a prophet to\add* tell me, ‘You have killed many men [MTY] in the big battles that you have fought. I
+\v 7 He said to him, “I wanted [IDI] to build a temple to honor \f + \fr metonymy \f* Yahweh, my God.
+\v 8 But Yahweh told \add a prophet to\add* tell me, ‘You have killed many men \f + \fr metonymy \f* in the big battles that you have fought. I
 have seen the blood of all the people whom you killed, so you will not be the one who will arrange for a temple to be built to
-honor me [MTY]. 
+honor me \f + \fr metonymy \f*. 
 \v 9 But you will have a son \add who will be king of Israel after you
 die\add*. He will be a man who is peaceful and quiet, \add not a man who kills
 others\add*. And I will cause that there will be peace between him and his enemies who are in all the nearby lands. His name
 will be Solomon, \add which sounds like the word for peace\add*. During the time that he is king, people in Israel will be
 peaceful and safe. 
-\v 10 He is the one who will arrange for a temple to be built to honor me [MTY]. He will be
-\add like\add* a son to me, and I will cause some of his descendants to rule [MTY] over Israel forever [HYP].’
+\v 10 He is the one who will arrange for a temple to be built to honor me \f + \fr metonymy \f*. He will be
+\add like\add* a son to me, and I will cause some of his descendants to rule \f + \fr metonymy \f* over Israel forever \f + \fr hyperbole \f*.’
 \p
 \v 11 So now, my son, I hope/wish that Yahweh will help you, and enable you to be successful in arranging for building the
 temple of Yahweh, your God, which is what he said that you would do.
@@ -52,7 +52,7 @@ and men who are very skilled at making various kinds of things.
 \add I say to you\add*, begin the work \add of building the temple\add*, and I hope/wish that Yahweh will help/be with you.”
 \p
 \v 17 Then David commanded that all the Israeli leaders must assist Solomon. He said to them,
-\v 18 “Yahweh our God is certainly with/helping you [RHQ]. He has allowed you to have peace with all the nearby nations [RHQ].
+\v 18 “Yahweh our God is certainly with/helping you \f + \fr rhetorical question \f*. He has allowed you to have peace with all the nearby nations \f + \fr rhetorical question \f*.
 He has enabled my \add army\add* to conquer [IDI] them, so now Yahweh and my people control them.
 \v 19 Now you must obey Yahweh with your entire inner beings. Help Solomon to arrange for building the temple for Yahweh God,
 in order that you can bring the chest that contains the Ten Commandments and the other sacred items that belong to God into the

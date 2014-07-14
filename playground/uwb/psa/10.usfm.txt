@@ -1,13 +1,13 @@
 \c 10  
 \q
 \v 1 Yahweh, ◄why are you far away \add from us\add*?/it seems that you are far away
-\add from us\add*.► [RHQ] 
-\q2 Why do you not pay attention when we have troubles [RHQ]? 
+\add from us\add*.► \f + \fr rhetorical question \f* 
+\q2 Why do you not pay attention when we have troubles \f + \fr rhetorical question \f*? 
 \b
 \q
 \v 2 People who are proud eagerly cause poor people to suffer. 
 \q2 So \add cause what they do to others to happen to them, like\add* people being caught in the same traps that they set to
-catch others [MET]! 
+catch others \f + \fr metaphor \f*! 
 \q
 \v 3 They boast about the \add evil\add* things that they want to do.
 \q2 They praise people who seize from others things that do not belong to them, and they curse you, Yahweh.
@@ -23,14 +23,14 @@ catch others [MET]!
 \v 6 In their inner beings they think, “Nothing bad will happen to us!
 \q2 We will never have troubles!” 
 \q
-\v 7 When they talk [MTY], they are always cursing, lying, and threatening to harm others.
-\q2 They constantly say [MTY] evil things that show that they are ready to do cruel things to others.
+\v 7 When they talk \f + \fr metonymy \f*, they are always cursing, lying, and threatening to harm others.
+\q2 They constantly say \f + \fr metonymy \f* evil things that show that they are ready to do cruel things to others.
 \q
 \v 8 They hide in villages, ready to ◄ambush/suddenly attack► and kill people who ◄are innocent/have done nothing wrong►.
 \q2 They constantly search for people who will not be able to ◄resist/defend themselves►
 \add when they are attacked\add*. 
 \q
-\v 9 They are like [MET] lions that crouch down and hide, 
+\v 9 They are like \f + \fr metaphor \f* lions that crouch down and hide, 
 \q2 waiting to pounce on some animal. 
 \q2 They are like hunters that catch some helpless animal with a net and then drag it away.
 \b
@@ -47,14 +47,14 @@ do\add*.
 \q2 Punish [IDI] those wicked people! 
 \q2 And do not forget those who are suffering! 
 \q
-\v 13 Wicked people revile you [RHQ] continually. 
+\v 13 Wicked people revile you \f + \fr rhetorical question \f* continually. 
 \q2 They think, “God will never punish us!” 
 \q
 \v 14 But you see the trouble and the distress \add that they cause\add*.
 \q2 People who are suffering expect that you will help them; 
 \q2 and you help orphans, also. 
 \q
-\v 15 ◄Break the arms/Destroy the power► of wicked [DOU] people!
+\v 15 ◄Break the arms/Destroy the power► of wicked \f + \fr doublet \f* people!
 \q2 Continue to pursue and punish them for the wicked things that they do, until they stop doing those things.
 \b
 \q

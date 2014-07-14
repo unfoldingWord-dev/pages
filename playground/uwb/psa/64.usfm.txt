@@ -8,18 +8,18 @@
 \q2 protect me from that group of men who do what is evil. 
 \b
 \q
-\v 3 The hostile things they say [MTY] are like [SIM] sharp swords;
-\q2 their cruel words are like [SIM] arrows. 
+\v 3 The hostile things they say \f + \fr metonymy \f* are like \f + \fr simile \f* sharp swords;
+\q2 their cruel words are like \f + \fr simile \f* arrows. 
 \q
 \v 4 Without being afraid, they \add lie about people and slander
 people\add* who have not done what is wrong, 
 \q2 like someone who suddenly jumps up from where he is hiding and shoots
-\add arrows\add* at his enemy [MET]. 
+\add arrows\add* at his enemy \f + \fr metaphor \f*. 
 \b
 \q
 \v 5 They encourage each other about doing the evil things that they are planning to do;
 \q2 they talk \add with each other\add* about where they can set traps to catch people,
-\q2 and they think, “No one [RHQ] will see what we are doing, 
+\q2 and they think, “No one \f + \fr rhetorical question \f* will see what we are doing, 
 \q
 \v 6 because we have planned very well the crime that we are going to commit!”
 \q2 What people can think and plan in their inner beings is truly amazing/surprising!
@@ -28,7 +28,7 @@ people\add* who have not done what is wrong,
 \v 7 But \add it will be as though\add* God will shoot his arrows at them,
 \q2 and suddenly they will be wounded. 
 \q
-\v 8 Because of what they say [MTY], he will get rid of them, 
+\v 8 Because of what they say \f + \fr metonymy \f*, he will get rid of them, 
 \q2 and then everyone who sees \add what has happened to\add* them will shake their heads
 \add to ridicule them\add*. 
 \b

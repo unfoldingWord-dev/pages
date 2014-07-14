@@ -32,7 +32,7 @@ sitting\add*.”
 \q
 \v 9 I want/desire that the righteous behavior of your priests \add will always be
 evident\add*, 
-\q2 \add just like the beautiful\add* robes that they wear [MET],
+\q2 \add just like the beautiful\add* robes that they wear \f + \fr metaphor \f*,
 \q and that your people will always shout joyfully. 
 \b
 \q
@@ -42,7 +42,7 @@ evident\add*,
 \q
 \v 11 Yahweh, you made a solemn promise to David, 
 \q2 a promise that you will not ◄break/take back►. 
-\q You said, “I will cause your descendants to rule [MTY] as kings like you.
+\q You said, “I will cause your descendants to rule \f + \fr metonymy \f* as kings like you.
 \q2
 \v 12 If they obey my agreement with them 
 \q2 and obey all the commands that I will give them, 
@@ -52,7 +52,7 @@ evident\add*,
 \v 13 Yahweh has chosen Jerusalem; 
 \q he has wanted to make that city his home; 
 \q
-\v 14 he said, “This is the city where I will live forever [DOU];
+\v 14 he said, “This is the city where I will live forever \f + \fr doublet \f*;
 \q2 this is the place where I wanted to stay. 
 \q
 \v 15 I will give to the people of Jerusalem all that they need;
@@ -60,13 +60,13 @@ evident\add*,
 \q
 \v 16 I will cause the priests \add to behave in a manner worthy
 of\add* ones whom I have saved; 
-\q2 \add that will be as evident as the beautiful\add* robes that they wear [MET];
+\q2 \add that will be as evident as the beautiful\add* robes that they wear \f + \fr metaphor \f*;
 \q2 and all my people who live there will shout joyfully. 
 \b
 \q
-\v 17 There \add in Jerusalem\add* I will cause one of David's descendants [MET] to become a great king;
+\v 17 There \add in Jerusalem\add* I will cause one of David's descendants \f + \fr metaphor \f* to become a great king;
 \q2 he also will be my chosen king, 
-\q and he will be like a \add bright\add* lamp [MET] \add that shines
+\q and he will be like a \add bright\add* lamp \f + \fr metaphor \f* \add that shines
 continually\add*. 
 \q
 \v 18 I will \add defeat his\add* enemies and cause them to be very ashamed/disgraced;

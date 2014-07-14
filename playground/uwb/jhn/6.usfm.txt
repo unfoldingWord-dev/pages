@@ -18,7 +18,7 @@ to buy bread so that each person could have a little bit!”
 \v 8 Another one of \add us\add* disciples, Andrew, who was Simon Peter's
 \add younger\add* brother, said to him, 
 \v 9 “There is a boy here who has five small barley loaves and two
-\add cooked\add* fish. But ◄they will not help much among so many people!/what good will that do among so many people?► [RHQ]”
+\add cooked\add* fish. But ◄they will not help much among so many people!/what good will that do among so many people?► \f + \fr rhetorical question \f*”
 \v 10 Jesus said, “Tell the people to sit down!” There was plenty of grass there, so they all sat down. There were about five
 thousand men \add among those\add* who sat down. 
 \v 11 Then Jesus took the small loaves and the fish and thanked \add God\add* for them. Then he
@@ -86,10 +86,10 @@ miracle\add* in the desolate area. This is written {\add The Psalmist\add* wrote
 \add ancestors\add* that food from heaven. No, it was my Father \add who gave it to them. And my Father is the
 one\add* who gives you the true food from heaven. 
 \v 33 The true bread from God came down from heaven, and he is the one who will give
-\add eternal\add* life to \add the people of\add* the world [MTY].”
+\add eternal\add* life to \add the people of\add* the world \f + \fr metonymy \f*.”
 \p
 \v 34  \add Not understanding what he meant\add*, they said to him, “Sir, give us that kind of bread all the time!”
-\v 35 Jesus said to them, “\add Just like\add* food [MET] \add sustains physical
+\v 35 Jesus said to them, “\add Just like\add* food \f + \fr metaphor \f* \add sustains physical
 life\add*, I am the \add one who enables you to have spiritual\add* life. Those who
 \add eat ordinary food and drinks will later be hungry and thirsty\add*. But those who come to me
 \add to receive that life\add* will never again \add lack anything
@@ -97,22 +97,22 @@ spiritually\add*.
 \v 36 I told you before that you have seen my \add miracles, but after seeing them, instead of understanding who I
 am\add*, you have not believed in me. 
 \v 37 All the people that \add my\add* Father entrusts to me will come to me, and I will certainly ◄welcome/never send away►
-[LIT] anyone who comes to me. 
+\f + \fr litotes \f* anyone who comes to me. 
 \v 38 When I came down from heaven, it was not to do what I want. Instead, I came to do what
 ◄\add God/my Father\add*►, who sent me, wants. 
-\v 39 What the one who sent me wants is that I ◄keep forever all/never lose any► [LIT] of those whom he has entrusted to me. He
+\v 39 What the one who sent me wants is that I ◄keep forever all/never lose any► \f + \fr litotes \f* of those whom he has entrusted to me. He
 wants me to cause all of them to become alive again ◄on the last day/on the day
-\add when I judge everyone\add*► [MTY]. 
+\add when I judge everyone\add*► \f + \fr metonymy \f*. 
 \v 40  \add Long ago in the desolate area when those who were bitten by snakes looked at the bronze replica of a snake, they
-were healed\add* [MET]. What my Father wants is that \add similarly\add* everyone who looks at
+were healed\add* \f + \fr metaphor \f*. What my Father wants is that \add similarly\add* everyone who looks at
 \add what\add* I \add have done\add* and believes in me will have eternal life. I will cause them to become alive again ◄on the
-last day/on the day \add when I judge everyone\add*► [MTY].” 
+last day/on the day \add when I judge everyone\add*► \f + \fr metonymy \f*.” 
 \p
-\v 41 The Jewish \add leaders\add* [SYN] began to grumble about him because he said, “I am the one who is
+\v 41 The Jewish \add leaders\add* \f + \fr synecdoche \f* began to grumble about him because he said, “I am the one who is
 \add like\add* true bread who came down from heaven.” 
-\v 42 They said, “◄This man is Jesus, the son of Joseph!/Isn't this man the son of Joseph?► [RHQ] We know
+\v 42 They said, “◄This man is Jesus, the son of Joseph!/Isn't this man the son of Joseph?► \f + \fr rhetorical question \f* We know
 \add the names of\add* both his father and his mother. \add He certainly did not come from
-heaven\add*, so ◄he is \add lying\add* by saying ‘I came from heaven.’/why is he now saying, ‘I came from heaven?’► [RHQ]”
+heaven\add*, so ◄he is \add lying\add* by saying ‘I came from heaven.’/why is he now saying, ‘I came from heaven?’► \f + \fr rhetorical question \f*”
 \v 43 Jesus replied to them, “Stop grumbling among yourselves \add about what I just
 said\add*! 
 \v 44  \add My\add* Father, who sent me, makes people want to come to me. No others will come to me
@@ -126,7 +126,7 @@ Isaiah\add*► {◄\add One of the prophets/The prophet Isaiah\add*► wrote}
 \v 46 I came from God. I am the only one who has seen \add my\add* Father. No one else has seen him.
 \v 47 Listen to this carefully: Everyone who believes ◄\add my message/in
 me\add*► has eternal life. 
-\v 48  \add Just like\add* food [MET] \add sustains your physical
+\v 48  \add Just like\add* food \f + \fr metaphor \f* \add sustains your physical
 life\add*, I am the \add one who enables you to have spiritual\add* life.
 \v 49 Even though your ancestors ate the manna \add while they were
 traveling\add* in the desolate area, they died \add anyway\add*.
@@ -134,13 +134,13 @@ traveling\add* in the desolate area, they died \add anyway\add*.
 \add spirits\add* will never die. 
 \v 51 I am the one who came down from heaven to enable people to have
 \add spiritual\add* life. If people take what I will give them, they will live forever. What I will give them is my flesh,
-which I will give to \add all the people in\add* [MTY] the world in order that they may have
+which I will give to \add all the people in\add* \f + \fr metonymy \f* the world in order that they may have
 \add spiritual\add* life.” 
 \p
-\v 52 Then the Jewish \add leaders\add* [SYN] began to argue among themselves. They said, “◄There is no way this man can give
-us his flesh to eat!/How can this man give us his flesh to eat?►” [RHQ]
+\v 52 Then the Jewish \add leaders\add* \f + \fr synecdoche \f* began to argue among themselves. They said, “◄There is no way this man can give
+us his flesh to eat!/How can this man give us his flesh to eat?►” \f + \fr rhetorical question \f*
 \v 53 So, \add speaking figuratively of the need for them to accept for themselves the benefits of his sacrificing himself and
-shedding his blood to atone for their sins\add* [MET], Jesus said to them, “Listen carefully to this:
+shedding his blood to atone for their sins\add* \f + \fr metaphor \f*, Jesus said to them, “Listen carefully to this:
 \add Although\add* I am the one who came from heaven, if you do not eat my flesh and drink my blood, you will not have eternal
 life. 
 \v 54 Those who eat my flesh and drink my blood have eternal life, and I will cause them to become alive again at ◄the last
@@ -159,18 +159,18 @@ that\add* lives, sent me, and I live because \add my\add* Father has
 \s Some of Jesus' disciples left him because of this teaching. 
 \p
 \v 60 After they heard him say that, many of his disciples said, “What he is teaching is hard
-\add to understand\add*; ◄it is very difficult for anyone to accept it!/how can anyone accept it?► [RHQ]”
+\add to understand\add*; ◄it is very difficult for anyone to accept it!/how can anyone accept it?► \f + \fr rhetorical question \f*”
 \v 61 Jesus was aware that his disciples were grumbling about it, so he said to them, “◄I am sorry that this is offending
-you./Is this offending you?► [RHQ] 
+you./Is this offending you?► \f + \fr rhetorical question \f* 
 \v 62 ◄\add Perhaps you will believe my message\add* if you see me, the one who came from heaven, ascending
 \add there\add* to where I was before!/\add (What will you think if you see
-me\add*, the one who came from heaven, ascending \add there\add* to where I was before)?► [RHQ]
+me\add*, the one who came from heaven, ascending \add there\add* to where I was before)?► \f + \fr rhetorical question \f*
 \v 63  \add God's\add* Spirit is the one who gives people \add eternal\add* life. Human efforts are no help at all
 \add for giving people eternal life\add*. The message I have spoken to you
 \add gives spiritual\add* life (OR, \add comes from\add* God's Spirit
 \add and gives eternal\add* life.) 
 \v 64 But there are some of you who do not believe \add my message.” Jesus said
-that\add* because he knew from the time he started [MTY] \add his
+that\add* because he knew from the time he started \f + \fr metonymy \f* \add his
 ministry\add* which of them would not believe his message. He also knew who would ◄betray him/enable his enemies to seize him►.
 \p
 \v 65 Then he continued by saying, “That is why I told you that only those whom my Father has enabled
@@ -181,11 +181,11 @@ life\add*.”
 \v 67 So he said to \add us\add* twelve \add apostles\add*, “You do not want to leave me also, do you?”
 \v 68 Simon Peter replied to him, “Lord, \add we\add* will not\add leave
 you\add*, \add because\add* ◄there is no other person \add like you\add* to whom we can go!/what other person is there like
-\add you\add* to whom we can go?► [RHQ] You have the message about eternal life!
+\add you\add* to whom we can go?► \f + \fr rhetorical question \f* You have the message about eternal life!
 \v 69 We have come to believe for certain that you are the holy one
 \add who has come\add* from God!” 
 \v 70 Then Jesus replied to us, “\add You are saying that as though
-all\add* you twelve\add men\add* whom I have chosen [RHQ] believe that. But one of you is
+all\add* you twelve\add men\add* whom I have chosen \f + \fr rhetorical question \f* believe that. But one of you is
 \add under the control of\add* Satan!” 
 \v 71 He was talking about Judas, the \add son\add* of Simon, from Kerioth
 \add village\add*. \add Even though\add* Judas was one of us twelve

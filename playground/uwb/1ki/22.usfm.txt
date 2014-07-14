@@ -33,7 +33,7 @@ were sitting on thrones at the place where people threshed grain, near the gate 
 \add that resembled\add* horns of a bull. Then he proclaimed \add to
 Ahab\add*, “This is what Yahweh says: ‘With horns like these your
 \add army\add* will keep attacking the Syrians like \add a bull attacks another
-animal\add* [MET], until you completely destroy them!’ ” 
+animal\add* \f + \fr metaphor \f*, until you completely destroy them!’ ” 
 \p
 \v 12 All the \add other\add* prophets \add of Ahab\add* agreed. They said, “Yes! If you go up to attack Ramoth
 \add city\add* in the Gilead \add region\add*, you will be successful, because Yahweh will enable you to defeat them!”
@@ -47,7 +47,7 @@ king's army will be successful►.”
 \v 15 When Micaiah came to Ahab, Ahab asked him, “Micaiah, should we go to fight against
 \add the people of\add* Ramoth, or not?” 
 \p Micaiah replied, “Sure, go! Yahweh will enable your army to defeat them!”
-\v 16 But King Ahab \add realized that Micaiah was ◄lying/being sarcastic►\add*, so he said to Micaiah, “I have told you [RHQ]
+\v 16 But King Ahab \add realized that Micaiah was ◄lying/being sarcastic►\add*, so he said to Micaiah, “I have told you \f + \fr rhetorical question \f*
 many times that you must always tell only the truth when you say what Yahweh
 \add has revealed to you\add*!” 
 \p
@@ -55,7 +55,7 @@ many times that you must always tell only the truth when you say what Yahweh
 mountains. They seemed to be like sheep that did not have a shepherd. And Yahweh said, ‘Their master has been killed. So tell
 them all to go home peacefully.’ ” 
 \p
-\v 18 Ahab said to Jehoshaphat, “I told you [RHQ] that he never predicts that anything good will happen to me! He
+\v 18 Ahab said to Jehoshaphat, “I told you \f + \fr rhetorical question \f* that he never predicts that anything good will happen to me! He
 \add always\add* predicts that bad things will happen to me.” 
 \p
 \v 19 But Micaiah continued, saying, “Listen to what Yahweh showed to me!
@@ -73,7 +73,7 @@ and do it!’
 terrible will happen to you.” 
 \p
 \v 24 Then Zedekiah walked over to Micaiah and slapped him on his face. He said, “Do you think that Yahweh's Spirit left me in
-order to speak to you?” [RHQ] 
+order to speak to you?” \f + \fr rhetorical question \f* 
 \p
 \v 25 Micaiah replied, “You will find out for yourself \add to which of us Yahweh's Spirit has truly
 spoken\add* on the day when you go into a room of some house to hide

@@ -30,7 +30,7 @@ shafts\add*.
 \q
 \v 8 Lions or other proud wild animals have not walked on the roads near those mines.
 \q
-\v 9 Miners dig [MTY] very hard rock; 
+\v 9 Miners dig \f + \fr metonymy \f* very hard rock; 
 \q2 \add it is as though\add* they turn the mountains upside down
 \add to get the ore\add*. 
 \q
@@ -49,7 +49,7 @@ streams\add*.
 \q2 no one can find it \add here on this earth\add* where they are living.
 \q
 \v 14  \add It is as though\add* water that is deep \add inside the
-earth\add* and \add water that is in\add* the seas say [PRS], 
+earth\add* and \add water that is in\add* the seas say \f + \fr personification \f*, 
 \q2 ‘Wisdom is not here!’ 
 \q
 \v 15 People cannot buy wisdom 
@@ -71,10 +71,10 @@ earth\add* and \add water that is in\add* the seas say [PRS],
 \v 20 So, where does wisdom come from? 
 \q2 Where can we find out how to truly understand things? 
 \q
-\v 21 No living humans can see it [MTY]; 
-\q2 and birds cannot see it while they are flying [MTY]. 
+\v 21 No living humans can see it \f + \fr metonymy \f*; 
+\q2 and birds cannot see it while they are flying \f + \fr metonymy \f*. 
 \q
-\v 22  \add It is as though\add* the places where people go after they die say [PRS],
+\v 22  \add It is as though\add* the places where people go after they die say \f + \fr personification \f*,
 \q2 ‘We have only heard rumors about \add where to find wisdom\add*.’
 \q
 \v 23 God is \add the only one who\add* knows how to find wisdom;

@@ -15,9 +15,9 @@ decisions.
 \v 4 Then one of Sennacherib's important officials told them to take this message to Hezekiah:
 \p “This is what the king of Assyria, the great king, says: What are you trusting in to rescue you?
 \v 5 You say that you have weapons to fight us and some country's promises
-\add to help you\add*, \add and that will enable you to defeat us\add*, but than is only talk [RHQ]. Who do you think will help
+\add to help you\add*, \add and that will enable you to defeat us\add*, but than is only talk \f + \fr rhetorical question \f*. Who do you think will help
 you to rebel against my \add soldiers from Assyria\add*? 
-\v 6 Listen to me! You are relying on \add the army of\add* Egypt. But that will be like [MET] using a broken reed for a
+\v 6 Listen to me! You are relying on \add the army of\add* Egypt. But that will be like \f + \fr metaphor \f* using a broken reed for a
 walking stick on which you could lean. But it would pierce the hand of anyone who would lean on it! That is what the king of
 Egypt would be like for anyone who relied on him \add for help\add*.
 \v 7 But perhaps you will say to me, ‘No, we are relying on Yahweh our God
@@ -29,9 +29,9 @@ Egypt would be like for anyone who relied on him \add for help\add*.
 \v 8 So I suggest that you make a deal with my master/boss, the king of Assyria. I will give you 2,000 horses, but
 \add I do not think that\add* you can find 2,000 of your men who can ride on them!
 \v 9 You are expecting the king of Egypt to send chariots and men riding horses
-\add to assist you\add*. But they certainly would not [RHQ] be able to resist/defeat even the most insignificant/unimportant
+\add to assist you\add*. But they certainly would not \f + \fr rhetorical question \f* be able to resist/defeat even the most insignificant/unimportant
 official in the army of Assyria! 
-\v 10 Furthermore, \add do not think that\add* [RHQ] we have come here to attack and destroy this land without Yahweh's orders!
+\v 10 Furthermore, \add do not think that\add* \f + \fr rhetorical question \f* we have come here to attack and destroy this land without Yahweh's orders!
 It is Yahweh himself who told us to come here and destroy this land!”
 \p
 \v 11 Then Eliakim, Shebna, and Joah said to the official from Assyria, “Please speak to us in your Aramaic language, because
@@ -39,7 +39,7 @@ we understand it. Do not speak to us in our Hebrew language, because the people 
 \add and become frightened\add*.” 
 \p
 \v 12 But the official replied, “Do you think that my master sent me to say these things only to you, and not to the people
-standing on the wall [RHQ]? \add If you reject this message\add*, the
+standing on the wall \f + \fr rhetorical question \f*? \add If you reject this message\add*, the
 \add people in this city\add* will soon need to eat their own dung and drink their own urine, just like you will,
 \add because there will be nothing more for you to eat or drink\add*.
 \p
@@ -57,11 +57,11 @@ own trees, and to drink water from your own well.
 make bread and \add vineyards to produce grapes for making\add* new wine and, and where we make lots of bread.”
 \p
 \v 18 Do not allow Hezekiah to mislead you by saying, “Yahweh will rescue us.” The gods that people of other nations worship
-have never [RHQ] rescued any of them from the power [MTY] of the king of Assyria!
+have never \f + \fr rhetorical question \f* rescued any of them from the power \f + \fr metonymy \f* of the king of Assyria!
 \v 19 Why were the gods of Hamath and Arpad \add cities\add*, and the gods of Sepharvaim unable to rescue Samaria from my power
-[MTY]? 
-\v 20 No, no god [RHQ] of any nation \add which that army has attacked\add* has been able to rescue their people from me. So
-why do you think that Yahweh will rescue you people of Jerusalem from my power [MTY]?’ ”
+\f + \fr metonymy \f*? 
+\v 20 No, no god \f + \fr rhetorical question \f* of any nation \add which that army has attacked\add* has been able to rescue their people from me. So
+why do you think that Yahweh will rescue you people of Jerusalem from my power \f + \fr metonymy \f*?’ ”
 \p
 \v 21 But the people \add who were listening\add* were silent. No one said anything, because King
 \add Hezekiah\add* had commanded, “\add When the official from Assyria talks to

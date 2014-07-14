@@ -22,8 +22,8 @@ and a ram \add as a sacrifice to you\add* on each altar.”
 \q He said, ‘Come and curse the descendants of Jacob for me! 
 \q2 Come and say that bad things will happen to these Israeli people!’
 \q
-\v 8 But ◄how can I curse people whom God has not cursed?/I certainly cannot curse people whom God has not cursed!► [RHQ]
-\q ◄How can I condemn people whom Yahweh has not condemned?/I cannot condemn people whom Yahweh has not condemned!► [RHQ]
+\v 8 But ◄how can I curse people whom God has not cursed?/I certainly cannot curse people whom God has not cursed!► \f + \fr rhetorical question \f*
+\q ◄How can I condemn people whom Yahweh has not condemned?/I cannot condemn people whom Yahweh has not condemned!► \f + \fr rhetorical question \f*
 \q
 \v 9 I have seen them from the tops of the rocky peaks, 
 \q2 I have seen them from the hills. 
@@ -31,15 +31,15 @@ and a ram \add as a sacrifice to you\add* on each altar.”
 \q2 They have separated themselves from (OR, they are not like) other nations.
 \q
 \v 10 ◄Who can count the descendants of Jacob; they are as numerous as particles of ‘dust/dirt’?/No one can count the
-descendants of Jacob; they are as numerous as particles of ‘dust/dirt’!► [RHQ]
-\q ◄Who can count even a quarter of the Israeli people?/No one can count even a quarter of the Israeli people!► [RHQ]
+descendants of Jacob; they are as numerous as particles of ‘dust/dirt’!► \f + \fr rhetorical question \f*
+\q ◄Who can count even a quarter of the Israeli people?/No one can count even a quarter of the Israeli people!► \f + \fr rhetorical question \f*
 \q I wish/hope that I will die like righteous people die; 
 \q2 I hope that I will die \add peacefully\add* like they will die.”
 \p
-\v 11 Then Balak said, “What have you done to me [RHQ]? I brought you here to curse my enemies, but instead you have ◄blessed
+\v 11 Then Balak said, “What have you done to me \f + \fr rhetorical question \f*? I brought you here to curse my enemies, but instead you have ◄blessed
 them/asked Yahweh to bless them►!” 
 \p
-\v 12 But Balaam replied, “I can [RHQ] say only what Yahweh tells me to say. I cannot say anything else.”
+\v 12 But Balaam replied, “I can \f + \fr rhetorical question \f* say only what Yahweh tells me to say. I cannot say anything else.”
 \s Balaam prophesied about the Israelis again 
 \p
 \v 13 Then King Balak told Balaam, “Come with me to another place. There you will see only part of the Israeli people, and you
@@ -57,13 +57,13 @@ the sacrifices. Balak asked him, “What did Yahweh say?”
 \p
 \v 18 Then Balaam told him this message: 
 \q “Balak, listen carefully; 
-\q2 hear what I have to say, you son of Zippor [DOU]! 
+\q2 hear what I have to say, you son of Zippor \f + \fr doublet \f*! 
 \q
 \v 19 God is not a human being. 
 \q2 Humans lie, but God never lies. 
 \q He never changes his mind/thoughts, as humans do. 
 \q Whatever he has said that he will do, he does. 
-\q Whatever he has promised to do, he has [RHQ] done it. 
+\q Whatever he has promised to do, he has \f + \fr rhetorical question \f* done it. 
 \q
 \v 20 He commanded me \add to request him\add* to bless \add the
 Israelis\add*, 
@@ -73,12 +73,12 @@ Israelis\add*,
 \v 21 Yahweh their God is with/helping them; 
 \q2 they have declared that he is their true king. 
 \q So the descendants of Jacob will not be harmed; 
-\q2 they will not have any troubles [DOU]. 
+\q2 they will not have any troubles \f + \fr doublet \f*. 
 \q
 \v 22 God brought them out of \add being slaves\add* in Egypt; 
 \q2 he is as strong as a wild ox. 
 \q
-\v 23 When people curse [PRS] the descendants of Jacob, they will not be harmed;
+\v 23 When people curse \f + \fr personification \f* the descendants of Jacob, they will not be harmed;
 \q2 when people work sorcery on them, it will have no power. 
 \q So now people will say about the descendants of Jacob, 
 \q2 ‘God has done wonderful things for the Israelis!’ 

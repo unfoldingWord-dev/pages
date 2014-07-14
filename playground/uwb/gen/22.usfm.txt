@@ -37,7 +37,7 @@ provide” (OR, he will be seen).
 \v 16 He said, “I, Yahweh your Lord, am telling you that you did what I told you, and you have not held back your only son
 \add that is with you\add*. So I say, ‘I solemnly swear, with myself as my witness,
 \v 17 that some day your descendants will be as numerous as the stars in the sky and the grains of sand on the seashore. And
-your descendants will defeat their enemies and capture their cities [SYN].’
+your descendants will defeat their enemies and capture their cities \f + \fr synecdoche \f*.’
 \v 18 You obeyed me, so by means of your descendants the people of all the nations on the earth will be blessed.”
 \v 19 Then Abraham and Isaac returned to where his servants were waiting, and they went back together to Beersheba, and Abraham
 stayed there. 

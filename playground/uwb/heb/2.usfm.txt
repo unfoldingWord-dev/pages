@@ -4,18 +4,18 @@
 \p
 \v 1 So, \add since that is true\add*, we must pay very great attention to what we have heard
 \add about God's Son\add*, in order that we do not drift away from it,
-\add as a boat drifts off its course when people do not guide it\add* [MET].
+\add as a boat drifts off its course when people do not guide it\add* \f + \fr metaphor \f*.
 \v 2  \add God's laws that\add* were spoken by angels were valid, and God justly punished all who transgressed them and all who
-disobeyed [DOU] them. 
+disobeyed \f + \fr doublet \f* them. 
 \v 3 So, ◄we will certainly not escape \add God punishing us\add* if we ignore such a great
-\add message about how God\add* [MTY] saves us!/how can we escape
+\add message about how God\add* \f + \fr metonymy \f* saves us!/how can we escape
 \add God punishing us\add* if we ignore such a great \add message about how
-God\add* [MTY] saves us?► [RHQ] This \add new message\add* was first spoken by the Lord
+God\add* \f + \fr metonymy \f* saves us?► \f + \fr rhetorical question \f* This \add new message\add* was first spoken by the Lord
 \add Jesus\add* {The Lord \add Jesus\add* first spoke this \add message\add*}. Then it was confirmed to us by those who heard
 \add what the Lord told them\add* {those who heard \add what the Lord told
 them\add* confirmed it to us}. 
 \v 4 God also confirmed to us \add that this message was true\add* by
-\add enabling believers to do\add* many things that showed God's power, to do other miraculous things [DOU], and
+\add enabling believers to do\add* many things that showed God's power, to do other miraculous things \f + \fr doublet \f*, and
 \add to do other things\add* by the gifts that the Holy Spirit distributed to them according to what
 \add God\add* desired. 
 \s Hebrews 2:5-9a 
@@ -27,16 +27,16 @@ them\add* confirmed it to us}.
 \v 6 Someone spoke to\add God about this\add* somewhere \add in the
 Scriptures\add*, saying, 
 \q ◄No one is worthy enough for you to think about him!/Who is \add worthy
-enough\add* for you to think about him?► [RHQ] 
+enough\add* for you to think about him?► \f + \fr rhetorical question \f* 
 \q ◄No human is \add worthy enough\add* for you to care for him!/Is any human
-\add worthy enough\add* for you to care for him?► [RHQ] 
+\add worthy enough\add* for you to care for him?► \f + \fr rhetorical question \f* 
 \q
 \v 7  \add So it is surprising that\add* you have caused people to be for a little while inferior in rank to angels.
-\q You have greatly honored [DOU] them [MET], as \add kings are honored
+\q You have greatly honored \f + \fr doublet \f* them \f + \fr metaphor \f*, as \add kings are honored
 with\add* a crown. 
 \q
-\v 8 You have put everything under their control [MET]. 
-\p God has determined that people will rule over everything [LIT]. That
+\v 8 You have put everything under their control \f + \fr metaphor \f*. 
+\p God has determined that people will rule over everything \f + \fr litotes \f*. That
 \add means that nothing will be omitted from their control\add*. But now, at this present time, we perceive that people do not
 yet have authority over everything. 
 \v 9 But we do know about Jesus, \add who truly has authority over
@@ -44,22 +44,22 @@ everything!\add*
 \s Hebrews 2:9b-13 
 \s Jesus, the creator of everything, is the one who died for us, makes us holy, and proclaims us to be his brothers and
 sisters. 
-\p Jesus, for a little, while became inferior \add in rank\add* to angels in order to die on behalf of [MET] everyone. He
+\p Jesus, for a little, while became inferior \add in rank\add* to angels in order to die on behalf of \f + \fr metaphor \f* everyone. He
 became inferior when he suffered \add and\add* died, as God in his kindness
-\add planned\add*. But now he has been greatly \add honored\add* [DOU]
+\add planned\add*. But now he has been greatly \add honored\add* \f + \fr doublet \f*
 \add by being\add* crowned \add as kings are\add*. 
 \v 10 It was fitting that \add God\add* make\add Jesus\add* ◄perfect/all that God intended him to be►. He was enabling many
-people who would belong to him [MET] to share his glory. God \add is the one
+people who would belong to him \f + \fr metaphor \f* to share his glory. God \add is the one
 who\add* created all things, and \add he is the one\add* for whom all
 things\add exist\add*. \add He perfected Jesus\add* by causing him to suffer
 \add and die\add*. \add Jesus\add* is the one who enables \add God\add* to save people.
 \v 11  \add Jesus\add*, the one who ◄makes people holy/sets people apart for God►, and the ones who are ◄made holy/set apart
 for God► {whom he ◄makes holy/sets apart \add for God\add*►}, all belong to God's family.
-\add As a result, Christ\add* gladly [LIT] proclaims them to be \add like\add* his own
+\add As a result, Christ\add* gladly \f + \fr litotes \f* proclaims them to be \add like\add* his own
 brothers\add and sisters\add*. 
 \v 12  \add The Psalmist wrote what Christ said to God about us becoming\add* his brothers, in these words,
 \q I will proclaim to my brothers how awesome you are (OR, what you
-◄\add are like/have done\add*►) [MTY]. 
+◄\add are like/have done\add*►) \f + \fr metonymy \f*. 
 \q I will sing praise to you in the midst of the congregation! 
 \p
 \v 13 And a prophet wrote \add in\add* another \add Scripture passage what Christ said about
@@ -71,10 +71,10 @@ his\add* children,
 \s Hebrews 2:14-18 
 \s It is Jesus, not angels, who became a human to help us as our high priest.
 \p
-\v 14 So, since those \add whom God calls his\add* children are all human beings [MTY], Jesus also became a human being
+\v 14 So, since those \add whom God calls his\add* children are all human beings \f + \fr metonymy \f*, Jesus also became a human being
 \add just like them\add*. The devil has the power to cause people
 \add to be afraid\add* to die, but Christ became human in order that by his dying he might make the devil powerless.
-\v 15  \add Jesus did that\add* to free all of us who are like slaves [MET] all the time we live, because we are
+\v 15  \add Jesus did that\add* to free all of us who are like slaves \f + \fr metaphor \f* all the time we live, because we are
 \add forced to\add* be afraid to die. 
 \v 16 Because \add Jesus became a human being\add*, it is not angels that he wants to help. No, it is we who trust God as
 Abraham did whom he wants to help. 

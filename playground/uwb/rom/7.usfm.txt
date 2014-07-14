@@ -4,8 +4,8 @@
 required to obey all the Jewish rituals and laws. 
 \p
 \v 1 My fellow believers, you know about laws. So ◄you certainly know (OR, I want you to remember) that people have to obey
-laws [PRS] \add only\add* while \add they are\add* alive./do you not know that people have to obey laws [PRS]
-\add only\add* while \add they are\add* alive?► [RHQ] 
+laws \f + \fr personification \f* \add only\add* while \add they are\add* alive./do you not know that people have to obey laws \f + \fr personification \f*
+\add only\add* while \add they are\add* alive?► \f + \fr rhetorical question \f* 
 \v 2 For example, a woman is required by the law {the law requires a woman}
 \add to obey and be faithful to her husband\add* as long as he is alive. But if her husband dies, she is
 freed\add from having to\add* {\add no longer has to\add*} \add obey\add* the law about
@@ -14,17 +14,17 @@ freed\add from having to\add* {\add no longer has to\add*} \add obey\add* the la
 is alive. But if her husband dies, she no longer \add has to obey\add* that law. Then she will not be an adulteress if she
 marries another man. 
 \v 4 Likewise, my fellow believers, \add just like people are free from having to obey any law after they
-die\add* [MET], you \add and I\add* have been freed {\add God\add* has freed you
-\add and me\add*} from having \add to obey\add* all the Jewish rituals and laws [MET].
+die\add* \f + \fr metaphor \f*, you \add and I\add* have been freed {\add God\add* has freed you
+\add and me\add*} from having \add to obey\add* all the Jewish rituals and laws \f + \fr metaphor \f*.
 \add That is because it is as though\add* we died with Christ \add when he was
-crucified\add*. Now you \add and I\add* belong to someone else [MET],
+crucified\add*. Now you \add and I\add* belong to someone else \f + \fr metaphor \f*,
 \add like a woman who marries again after her husband dies belongs to another
 man\add*. Specifically, you \add and I\add* belong to \add Christ\add*, who has been raised from the dead {whom
-\add God\add* has caused to live again after he died}, in order that we may live righteously [IDM] to
+\add God\add* has caused to live again after he died}, in order that we may live righteously \f + \fr idiom \f* to
 \add honor\add* God. 
 \v 5 When our self-directed nature \add controlled\add* us, desires
 \add that led us to\add* sin were acting in our bodies. \add Those desires were increased because of our knowing
-God's\add* laws [PRS]. As a result \add we did evil things\add* [IDM]
+God's\add* laws \f + \fr personification \f*. As a result \add we did evil things\add* \f + \fr idiom \f*
 \add that\add* caused us to be separated from God. 
 \v 6 But now we are freed {free} from \add having\add* \add to obey all the
 Jewish\add* rituals—\add it is as though\add* we have died. The result is that now we are not controlled by those rituals
@@ -36,27 +36,27 @@ obey\add* those rituals, which is the old way, but in the new way, as
 what the laws do are simply to reveal that what we are doing is sinful.
 \p
 \v 7  \add Someone might object\add*, saying, “◄The laws \add that God gave
-Moses\add* must be evil \add if our sinful desires\add* are increased because of our knowing those laws. [MTY]/Are not the laws
+Moses\add* must be evil \add if our sinful desires\add* are increased because of our knowing those laws. \f + \fr metonymy \f*/Are not the laws
 \add that God gave Moses\add* evil \add if they stir up our sinful
 desires\add*?►” [MTY, RHQ] \add I would reply\add* that they certainly are not
 \add evil, even though our sinful desires are increased\add*. What I would reply is that I,
 \add for example\add*, realized that \add what I was doing\add* was sinful only
 because\add of what is written\add* {\add Moses wrote\add*} \add in\add* those laws. For example, I realized that coveting
-\add is sinful\add* only because he wrote in those laws [PRS], “You must not covet.”
+\add is sinful\add* only because he wrote in those laws \f + \fr personification \f*, “You must not covet.”
 \v 8 And because of what that commandment \add stated\add*, my sinful
-\add desire to have things that belong to others\add* [PRS] caused me to covet in many ways.
-\add Our desire to\add* sin is not stimulated [MET] when there is no law
+\add desire to have things that belong to others\add* \f + \fr personification \f* caused me to covet in many ways.
+\add Our desire to\add* sin is not stimulated \f + \fr metaphor \f* when there is no law
 \add that prohibits our doing sinful things\add*. 
 \v 9 Formerly, when I did not \add know\add* what God's laws \add required\add*, I used to live
 \add without worrying about what I was doing\add*. But when I \add became aware that
-God\add* commanded, \add “You must not covet\add*,” I suddenly realized [PRS] that I was sinning,
+God\add* commanded, \add “You must not covet\add*,” I suddenly realized \f + \fr personification \f* that I was sinning,
 \v 10 and \add I realized that\add* I was separated from God. The laws that
 \add I thought would enable me to\add* live \add eternally as a result of my obeying
 them\add* caused me \add to realize that\add* I was separated from God!
-\v 11  \add My desire to\add* sin found a way [PRS] to deceive me
+\v 11  \add My desire to\add* sin found a way \f + \fr personification \f* to deceive me
 \add by making me think wrongly that\add* I could keep \add on sinning and at the same time
 obey\add* those laws \add enough so that I would live eternally\add*, and
-\add thus it\add* caused me to be separated from God [PRS]. 
+\add thus it\add* caused me to be separated from God \f + \fr personification \f*. 
 \v 12 So \add we conclude that\add* the laws \add that God gave to
 Moses\add* are holy. What God commanded \add about not coveting, along with all the other things that he
 commanded\add*, is also holy, and it is just and good. 
@@ -65,7 +65,7 @@ commanded\add*, is also holy, and it is just and good.
 commit sin that causes us to sin and become spiritually dead. 
 \p
 \v 13 So, \add if someone were to object\add* saying, “\add The laws that God gave
-Moses\add*, which are good, ◄resulted in my being separated from God!/did they result in my being separated from God?► [RHQ]”
+Moses\add*, which are good, ◄resulted in my being separated from God!/did they result in my being separated from God?► \f + \fr rhetorical question \f*”
 \add I would reply\add*, “Certainly they did not \add do that!\add*” But instead, those
 \add laws\add*, which are good, stimulated \add my desire to\add* sin. I knew that the result was that I was separated from
 God. And also, because I \add learned what God had\add* commanded,
@@ -77,34 +77,34 @@ unless Christ frees us from being controlled by these desires.
 \p
 \v 14 We know that the laws \add that God gave Moses came from God's\add* Spirit. But as for me, I am
 \add influenced by my\add* self-directed nature. \add It is as though\add* I have been forced to become a slave of
-\add my desire to\add* sin [MET]. 
-\v 15 The things that I do, I \add often\add* [HYP] do not understand. That is,
-\add sometimes\add* [HYP] it is \add the good things\add* that I want
-\add to do\add* that I do not do. \add And sometimes\add* [HYP] it is the
+\add my desire to\add* sin \f + \fr metaphor \f*. 
+\v 15 The things that I do, I \add often\add* \f + \fr hyperbole \f* do not understand. That is,
+\add sometimes\add* \f + \fr hyperbole \f* it is \add the good things\add* that I want
+\add to do\add* that I do not do. \add And sometimes\add* \f + \fr hyperbole \f* it is the
 \add evil\add* things that I detest that I do. 
 \v 16 Since I \add do\add* the \add evil\add* things that I do not want
 \add to\add* do, I agree that the laws \add of God\add* are good.
 \v 17 So, it is not that I do \add evil things because I wish to do
 them\add*. Instead, \add I do sinful things because the desire to\add* sin
-\add causes me to do them\add*. The \add desire to\add* sin ◄in within/permeates► me [PRS].
-\v 18 I know that my self-directed nature will not \add let me\add* [PRS]
+\add causes me to do them\add*. The \add desire to\add* sin ◄in within/permeates► me \f + \fr personification \f*.
+\v 18 I know that my self-directed nature will not \add let me\add* \f + \fr personification \f*
 \add do\add* anything that is good. I know this because I want \add to do what is
 good\add*, but I do not do what is good. 
 \v 19 I do not do the good things that I want to do. Instead, it is evil things that I do not want to do that I do.
 \v 20 Because I do \add evil things\add* that I do not want to do, it is not that I do
 \add evil things because I want to\add*. Instead, \add I do them
-because\add* my self-directed nature, which permeates me [PRS], \add causes me to do
+because\add* my self-directed nature, which permeates me \f + \fr personification \f*, \add causes me to do
 them\add*. 
 \v 21 I find, then, that what always happens is that when I want to do what is good, there is an evil
-\add desire\add* present within me that [PRS] \add prevents me from doing
+\add desire\add* present within me that \f + \fr personification \f* \add prevents me from doing
 good\add*. 
 \v 22 With my new inner nature I like the laws of God very much.
 \v 23 Nevertheless, I sense that there is a different force that is in ◄my body/me► [PRS, SYN]. It is opposed to what with my
-mind \add I desire to do\add* [MET], and it puts me inescapably under the control of [MET] the sinful
-\add desires\add* that I have [SYN]. 
+mind \add I desire to do\add* \f + \fr metaphor \f*, and it puts me inescapably under the control of \f + \fr metaphor \f* the sinful
+\add desires\add* that I have \f + \fr synecdoche \f*. 
 \v 24 ◄\add When I consider this\add*, I \add feel that I\add* am a very wretched person. I want someone to set me free from
 the control of what my body \add desires\add*, in order that I might not be separated from God./Will someone set me free from
-the control of what my body \add desires\add*, in order that I might not be separated from God?► [RHQ]
+the control of what my body \add desires\add*, in order that I might not be separated from God?► \f + \fr rhetorical question \f*
 \add I also think that what I have experienced is the same as what all believers
 experience\add*. 
 \v 25 I thank God that it is by Jesus Christ our Lord \add that we can be free from the control of what our bodies

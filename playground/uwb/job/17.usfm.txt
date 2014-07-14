@@ -5,7 +5,7 @@
 \q2 my grave is waiting for me. 
 \q
 \v 2 Those who are around me are making fun of me; 
-\q2 I [SYN] watch them while they taunt/belittle me.” 
+\q2 I \f + \fr synecdoche \f* watch them while they taunt/belittle me.” 
 \s Job pleads with God 
 \q
 \v 3 “God, \add it is as though I am in prison\add*; 
@@ -29,7 +29,7 @@ me\add*.
 \q
 \v 7 ◄My eyes have become dim/I cannot see well► because I am extremely sad,
 \q2 and my arms and legs are \add very thin, with the result that they almost do not
-cast\add* [MET] a shadow. 
+cast\add* \f + \fr metaphor \f* a shadow. 
 \q
 \v 8 Those who \add say that they\add* are good/righteous are shocked
 \add when they see what has happened to me\add*, 
@@ -47,7 +47,7 @@ me\add*,
 \q2 I would not find one among them who is wise. 
 \q
 \v 11 My time to live is almost ended; I have not been able to do the things that I planned to do;
-\q2 \add I have not been able to accomplish anything that\add* I [SYN] desired.
+\q2 \add I have not been able to accomplish anything that\add* I \f + \fr synecdoche \f* desired.
 \q
 \v 12 My friends do not know when it is night and when it is day;
 \q2 when it is night, they claim that it is daylight; 
@@ -61,10 +61,10 @@ me\add*,
 \add because that is where I will always be\add*.’ 
 \q
 \v 15 But if I say those things, ◄will there be anything good that I can confidently expect to happen to me?/there will be
-nothing good that I can confidently expect to happen to me.► [RHQ]
+nothing good that I can confidently expect to happen to me.► \f + \fr rhetorical question \f*
 \q2 ◄Is there anyone who knows anything good that I can expect when I am there?/No one knows anything good that I can expect
-when I am there.► [RHQ] 
+when I am there.► \f + \fr rhetorical question \f* 
 \q
 \v 16 After I descend to the place where the dead are, ◄will I be able to confidently expect anything good there?/I certainly
-will not be able to confidently expect anything good there.► [RHQ]
-\q2 \add It will be as though\add* [RHQ] I and the things I hope for will descend with me into the dust.”
+will not be able to confidently expect anything good there.► \f + \fr rhetorical question \f*
+\q2 \add It will be as though\add* \f + \fr rhetorical question \f* I and the things I hope for will descend with me into the dust.”

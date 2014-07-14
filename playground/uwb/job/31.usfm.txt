@@ -6,13 +6,13 @@
 her\add*. 
 \q
 \v 2  \add If I did not do what I promised\add*, 
-\q2 what would God who is in heaven [MTY] do to me [RHQ]? 
-\q2 Almighty \add God\add* would certainly not [RHQ] give me any reward!
+\q2 what would God who is in heaven \f + \fr metonymy \f* do to me \f + \fr rhetorical question \f*? 
+\q2 Almighty \add God\add* would certainly not \f + \fr rhetorical question \f* give me any reward!
 \q
-\v 3  \add Previously I thought that\add* surely [RHQ] it was unrighteous people who would experience calamities,
+\v 3  \add Previously I thought that\add* surely \f + \fr rhetorical question \f* it was unrighteous people who would experience calamities,
 \q2 and that it was those who do what is wrong who would experience disasters.
 \q
-\v 4 God certainly sees [RHQ] everything that I do, 
+\v 4 God certainly sees \f + \fr rhetorical question \f* everything that I do, 
 \q2 \add so why is he causing me to suffer\add*? 
 \q2 \add It is as though\add* he counts every step that I take. 
 \b
@@ -20,12 +20,12 @@ her\add*.
 \v 5  \add I solemnly declare that\add* I have never acted wickedly
 \q2 and have never tried to deceive people. 
 \q
-\v 6 I request only that God judge me fairly [MET], 
+\v 6 I request only that God judge me fairly \f + \fr metaphor \f*, 
 \q2 and if he does that, he will know that I ◄am innocent/have not done what is wrong►.
 \q
 \v 7 If \add it were true that\add* I have turned away from \add walking
 on\add* the right paths, 
-\q2 or that I [SYN] have desired the things that I look at [MTY],
+\q2 or that I \f + \fr synecdoche \f* have desired the things that I look at \f + \fr metonymy \f*,
 \q2 or that my hands have been stained \add because of my committing
 sins\add*, 
 \q
@@ -34,18 +34,18 @@ sins\add*,
 \q2 and that others will uproot the \add fruit trees\add* that I planted.
 \b
 \q
-\v 9 If \add it were true that\add* I [SYN] have been attracted by some other man's wife,
+\v 9 If \add it were true that\add* I \f + \fr synecdoche \f* have been attracted by some other man's wife,
 \q2 or that I have hidden myself and waited outside the door to her
 \add house\add*, 
 \q
 \v 10 I hope/desire that my wife will become the servant/slave of another man
-\q2 and have sex [EUP] with him. 
+\q2 and have sex \f + \fr euphemism \f* with him. 
 \q
 \v 11  \add For me to do\add* that would be a terrible sin, 
 \q2 and the judges would decide that I should be punished. 
 \q
 \v 12 My \add committing adultery\add* would \add produce in me a fire
-like\add* [MET] the fire that burns people in hell, 
+like\add* \f + \fr metaphor \f* the fire that burns people in hell, 
 \q2 and it would burn up everything that I own. 
 \b
 \q
@@ -54,10 +54,10 @@ like\add* [MET] the fire that burns people in hell,
 \q
 \v 14 God would arise \add and declare that he would punish me\add*;
 \q2 and when he would do that, what would I do? 
-\q2 If he would ask me \add about what I have done\add*, ◄what would I answer?/I would not be able to answer.► [RHQ]
+\q2 If he would ask me \add about what I have done\add*, ◄what would I answer?/I would not be able to answer.► \f + \fr rhetorical question \f*
 \q
-\v 15 God, who created me, certainly also created my servants [RHQ];
-\q2 surely he is the one who formed them and me in our mothers' wombs [RHQ];
+\v 15 God, who created me, certainly also created my servants \f + \fr rhetorical question \f*;
+\q2 surely he is the one who formed them and me in our mothers' wombs \f + \fr rhetorical question \f*;
 \q2 \add so we all should behave toward each other equally\add*.
 \b
 \q
@@ -88,7 +88,7 @@ from\add* the wool of my sheep
 me\add*. 
 \b
 \q
-\v 24 If \add it were true that\add* I trusted in my gold/money [DOU],
+\v 24 If \add it were true that\add* I trusted in my gold/money \f + \fr doublet \f*,
 \q
 \v 25 or that I rejoiced because I had acquired many things 
 \q2 and had become very rich, 
@@ -96,21 +96,21 @@ me\add*.
 \v 26 or that I looked at the sun when it was shining 
 \q2 or looked at the beautiful moon 
 \q
-\v 27 and I [SYN] had been tempted \add to worship them\add* 
+\v 27 and I \f + \fr synecdoche \f* had been tempted \add to worship them\add* 
 \q2 by kissing my hand to revere them, 
 \q
 \v 28 those things also would be sins for which the judges would say that I must be punished,
 \q2 because I would have been rejecting God \add by doing those things\add*.
 \b
 \q
-\v 29-30  \add It is not true that\add* I [SYN] sinned by requesting God to curse people who hated me
+\v 29-30  \add It is not true that\add* I \f + \fr synecdoche \f* sinned by requesting God to curse people who hated me
 \q2 and to cause them to die; 
 \q or that I was glad when they were ruined 
-\q2 and rejoiced when they experienced disasters [DOU]; 
+\q2 and rejoiced when they experienced disasters \f + \fr doublet \f*; 
 \q
 \v 31-32  \add or that\add* I never welcomed travelers to stay in my tent
 \q2 and did not open my doors to them, but \add forced them to\add* sleep in the streets.
-\q2 All the men who work for me certainly know that [RHQ]! 
+\q2 All the men who work for me certainly know that \f + \fr rhetorical question \f*! 
 \q
 \v 33 Some people try to hide their sins, 
 \q2 but I have never done that; 

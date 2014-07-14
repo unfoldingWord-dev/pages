@@ -17,8 +17,8 @@ us\add*.
 who love you and who do what you have commanded \add that we should
 do\add*. 
 \v 5 But we \add Israelis\add* have sinned. We have done things that are wrong. We have done wicked things, and we have
-rebelled against you. We have turned away from \add obeying\add* your commands [DOU].
-\v 6 Your prophets spoke for you [MTY], \add giving your messages
+rebelled against you. We have turned away from \add obeying\add* your commands \f + \fr doublet \f*.
+\v 6 Your prophets spoke for you \f + \fr metonymy \f*, \add giving your messages
 to\add* our kings, to our other rulers, to our other ancestors, and to all the Israeli people, but we have not ◄paid attention
 to/heeded► those prophets. 
 \pi
@@ -43,7 +43,7 @@ from our sinning and by heeding your truth, to persuade you to act mercifully to
 \v 14 So, because we did not obey you, you prepared to punish us, and then you did punish us, because you always do what is
 righteous/just/fair. 
 \pi
-\v 15 Lord our God, you brought your people out of Egypt by your great power [MTY], and by doing that you have caused people
+\v 15 Lord our God, you brought your people out of Egypt by your great power \f + \fr metonymy \f*, and by doing that you have caused people
 from that time until the present time to know that you are great [IDI]
 \add even though\add* we have sinned and done wicked things. 
 \v 16 Lord, Jerusalem is your city, and \add your temple was built
@@ -54,7 +54,7 @@ because of our sins and because of the evil things that our ancestors did. But n
 \v 17 Lord our God, listen to what I am praying and pleading for you to do. ◄For your own sake/In order that people will know
 that you are very great►, act kindly [IDI] concerning your temple, which was destroyed
 \add by the armies of Babylonia\add*. 
-\v 18 My God, listen to \add my prayer\add*. Look at us and see our troubles, and see that this city that belongs to you [MTY]
+\v 18 My God, listen to \add my prayer\add*. Look at us and see our troubles, and see that this city that belongs to you \f + \fr metonymy \f*
 is ruined/destroyed. We are praying to you because you are merciful, not because we have done what is right/good.
 \v 19 Lord, listen to us! Lord, forgive us! Lord, this city and these people belong to you, so
 \add we plead with you to\add* heed what we are saying and act \add to help
@@ -65,7 +65,7 @@ us\add* right now, ◄for your own sake/in order that people will know that you 
 would restore \add the temple on\add* the sacred hill \add in Jerusalem\add*.
 \v 21 While I was praying, Gabriel, the angel/one whom I had seen in the vision previously, came flying rapidly to me, at the
 time in the evening when the priests offered sacrifices. 
-\v 22 He said to me, “Daniel, I have come to you to enable you to understand [DOU] clearly
+\v 22 He said to me, “Daniel, I have come to you to enable you to understand \f + \fr doublet \f* clearly
 \add the message that God gave to Jeremiah\add*. 
 \v 23 When you began to plead with God, he gave me a message \add to give to
 you\add*. He loves you very much, so \add he has sent me\add* to tell you what he said to me. So now ◄pay attention/listen
@@ -85,7 +85,7 @@ years later, Jerusalem will be rebuilt, and it will have streets and will have a
 people\add* have a lot of troubles/difficulties/suffering. 
 \v 26 After those 434 years, the leader/king whom God has appointed will be killed ◄unjustly/without having done anything
 wrong►. After that, the temple will be destroyed by \add the army
-of\add* a powerful ruler. The city and the temple will be destroyed like a flood [MET]
+of\add* a powerful ruler. The city and the temple will be destroyed like a flood \f + \fr metaphor \f*
 \add destroys everything\add*. That will be the beginning of the war and destruction that
 \add God\add* has decreed will happen. 
 \v 27 That ruler will make a strong agreement with many people. He will promise to do what he has said in that agreement for

@@ -1,16 +1,16 @@
 \c 26  
 \q
-\v 1 Just like [SIM] it is not appropriate for snow to fall in summer time, or rain to fall at harvest time,
+\v 1 Just like \f + \fr simile \f* it is not appropriate for snow to fall in summer time, or rain to fall at harvest time,
 \q2 it is not appropriate to praise/honor foolish people. 
 \b
 \q
-\v 2 Like [SIM] birds that fly by and do not alight/land on anything,
+\v 2 Like \f + \fr simile \f* birds that fly by and do not alight/land on anything,
 \q2 if someone curses you, it cannot hurt you if you ◄do not deserve them/have not done to him what is wrong►.
 \b
 \q
 \v 3 It is necessary to whip a horse and to put a bridle on a donkey
 \add to force them to go where we want them to go\add*, 
-\q2 and similarly [SIM] \add it is often necessary to strike foolish people
+\q2 and similarly \f + \fr simile \f* \add it is often necessary to strike foolish people
 with\add* a stick \add to cause them to do what is right\add*. 
 \b
 \q
@@ -29,18 +29,18 @@ him\add*,
 \b
 \q
 \v 7 A lame man cannot use his legs, 
-\q2 and similarly [SIM] \add it is useless for\add* a foolish person to speak [MTY] ◄proverbs/wise sayings►.
+\q2 and similarly \f + \fr simile \f* \add it is useless for\add* a foolish person to speak \f + \fr metonymy \f* ◄proverbs/wise sayings►.
 \b
 \q
 \v 8 Tying a stone in a sling \add so that it cannot be thrown at a
 target\add* 
-\q2 is \add as foolish as\add* [SIM] honoring a foolish person. 
+\q2 is \add as foolish as\add* \f + \fr simile \f* honoring a foolish person. 
 \b
 \q
 \v 9 If a drunk person waves some thorns/brambles with his hand,
 \q2 \add he is not able to accomplish anything useful by doing that\add* (OR,
 \add he does not feel it when a thorn sticks in his hand\add*); 
-\q similarly, if foolish people speak [MTY] proverbs, 
+\q similarly, if foolish people speak \f + \fr metonymy \f* proverbs, 
 \q2 \add they do not help anyone who hears them\add*. 
 \b
 \q
@@ -51,11 +51,11 @@ foolish\add*.
 \b
 \q
 \v 11 Doing something stupid a second time is foolish; 
-\q2 it is \add like\add* [SIM] a dog returning to \add eat\add* what it has vomited.
+\q2 it is \add like\add* \f + \fr simile \f* a dog returning to \add eat\add* what it has vomited.
 \b
 \q
 \v 12  \add God\add* can help/bless foolish people more easily 
-\q2 than he can help/bless people who are not wise [RHQ], but think that they are wise.
+\q2 than he can help/bless people who are not wise \f + \fr rhetorical question \f*, but think that they are wise.
 \b
 \q
 \v 13 Lazy people just \add stay inside their houses and do nothing\add*;
@@ -64,7 +64,7 @@ foolish\add*.
 \q
 \v 14 A door continually swings back and forth on its hinges \add and does not go
 anywhere\add*; 
-\q2 similarly [SIM], lazy people \add just continually turn over\add* in their beds
+\q2 similarly \f + \fr simile \f*, lazy people \add just continually turn over\add* in their beds
 \add and never do anything\add*. 
 \b
 \q
@@ -77,7 +77,7 @@ anywhere\add*;
 \b
 \q
 \v 17 Anyone who ◄meddles/involves himself► in a quarrel that does not concern him
-\q2 is \add as foolish as\add* [SIM] someone who tries to grab a passing dog by its ears.
+\q2 is \add as foolish as\add* \f + \fr simile \f* someone who tries to grab a passing dog by its ears.
 \b
 \q
 \v 18 Crazy people who shoot burning arrows to kill people 
@@ -87,7 +87,7 @@ anywhere\add*;
 \b
 \q
 \v 20 If there is no more firewood \add to put on the fire\add*, the fire will go out;
-\q2 similarly [SIM], if there are no people who ◄gossip/tell people things that are not true►, quarreling will end.
+\q2 similarly \f + \fr simile \f*, if there are no people who ◄gossip/tell people things that are not true►, quarreling will end.
 \b
 \q
 \v 21 Putting charcoal on burning coals or putting wood on a fire causes the fire to keep burning;
@@ -95,7 +95,7 @@ anywhere\add*;
 \b
 \q
 \v 22 People \add enjoy listening to what gossips say about others just
-like\add* [SIM] they enjoy tasty food; 
+like\add* \f + \fr simile \f* they enjoy tasty food; 
 \q2 they \add enjoy listening to what gossips tell them like\add* they enjoy swallowing tasty food.
 \b
 \q
@@ -103,7 +103,7 @@ like\add* [SIM] they enjoy tasty food;
 \q2 are like a nice glaze/covering on a \add cheap\add* clay pot.
 \b
 \q
-\v 24 Those who hate someone and are saying [MTY] something very different from what they are thinking are hypocrites;
+\v 24 Those who hate someone and are saying \f + \fr metonymy \f* something very different from what they are thinking are hypocrites;
 \q2 in their inner beings they are planning \add to harm that person\add*.
 \q
 \v 25 When they say nice things, do not believe them, 
@@ -119,5 +119,5 @@ like\add* [SIM] they enjoy tasty food;
 \add to crush someone\add*. 
 \b
 \q
-\v 28 Those [MTY] who tell lies to (OR, about) others really hate them,
+\v 28 Those \f + \fr metonymy \f* who tell lies to (OR, about) others really hate them,
 \q2 and those who deceive others ruin them. 

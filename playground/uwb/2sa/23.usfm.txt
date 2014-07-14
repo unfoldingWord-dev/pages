@@ -8,7 +8,7 @@
 \b
 \q
 \v 2 The Spirit of Yahweh tells me what to say; 
-\q the message that I speak [MTY] comes from him. 
+\q the message that I speak \f + \fr metonymy \f* comes from him. 
 \q
 \v 3 God, the one whom we Israeli \add people worship\add*, has spoken;
 \q2 the one who protects us people of Israel said to me, 
@@ -19,14 +19,14 @@
 \q2 and causes the grass to \add sprout/sparkle\add* after the rain ends.”
 \b
 \q
-\v 5 And truly, that is how God will surely bless my family [RHQ]
+\v 5 And truly, that is how God will surely bless my family \f + \fr rhetorical question \f*
 \q2 because he made an agreement with me that will endure forever,
 \q2 an agreement in which he promises that no part of it will ever be changed.
-\q He will surely cause me to prosper [RHQ], 
+\q He will surely cause me to prosper \f + \fr rhetorical question \f*, 
 \q2 and he will always help me, 
 \q and that is all that I desire. 
 \q
-\v 6 But \add he will get rid of\add* godless/evil people like [SIM] people throw away thorns
+\v 6 But \add he will get rid of\add* godless/evil people like \f + \fr simile \f* people throw away thorns
 \q2 that \add injure people if they try to\add* pick them up with their hands.
 \q
 \v 7 Someone \add who wants to get rid of thornbushes\add* does not grab them;
@@ -65,7 +65,7 @@ some water from the well near the gate at Bethlehem!”
 \v 16 So his three greatest warriors forced through the camp of Philistia soldiers and drew some water from the well, and
 brought it to David. But he would not drink it. Instead, he poured it out
 \add on the ground\add* to be an offering to Yahweh. 
-\v 17 He said, “Yahweh, it would certainly not be right for me to drink this water! That would be like [RHQ] drinking the blood
+\v 17 He said, “Yahweh, it would certainly not be right for me to drink this water! That would be like \f + \fr rhetorical question \f* drinking the blood
 of these men who were willing/ready to die for me!” So he refused to drink it.
 \p That was one of the things that those three great warriors did.
 \s The list of the great warriors 

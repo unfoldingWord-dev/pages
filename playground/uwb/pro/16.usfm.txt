@@ -1,7 +1,7 @@
 \c 16  
 \q
 \v 1 People plan in their minds what they want to do, 
-\q2 but Yahweh is the one who decides [MTY] what really will happen.
+\q2 but Yahweh is the one who decides \f + \fr metonymy \f* what really will happen.
 \b
 \q
 \v 2 In their minds, people think that their actions are right, 
@@ -17,7 +17,7 @@
 \b
 \q
 \v 5 Yahweh hates/detests everyone who is proud [IDI]; 
-\q2 you can be certain [IDI] that they will be punished [LIT]. 
+\q2 you can be certain [IDI] that they will be punished \f + \fr litotes \f*. 
 \b
 \q
 \v 6 Be loyal to Yahweh and faithfully \add obey\add* him; if you do that, he will forgive you for having sinned.
@@ -46,10 +46,10 @@ us).
 \b
 \q
 \v 12 Kings detest those who do evil, 
-\q2 because \add it is people doing what\add* is fair/right that causes their governments to be [MTY] strong.
+\q2 because \add it is people doing what\add* is fair/right that causes their governments to be \f + \fr metonymy \f* strong.
 \b
 \q
-\v 13 Kings are delighted to hear people say [MTY] what is true;
+\v 13 Kings are delighted to hear people say \f + \fr metonymy \f* what is true;
 \q2 they love those who say what is right/honest. 
 \b
 \q
@@ -57,7 +57,7 @@ us).
 \q2 so wise people will try to cause him to be calm. 
 \b
 \q
-\v 15 If a king has a smile [MTY] on his face, he will enable people to have a long life (OR, he will not order people to be
+\v 15 If a king has a smile \f + \fr metonymy \f* on his face, he will enable people to have a long life (OR, he will not order people to be
 executed); 
 \q2 his being pleased with people is as delightful as rain in the springtime
 \add when seeds are planted\add*. 
@@ -67,8 +67,8 @@ executed);
 \q2 getting good understanding/insight is better than acquiring silver.
 \b
 \q
-\v 17 Those whose behavior [MET] is good/right turn away from doing evil;
-\q2 those who guard their conduct [MTY] protect their lives. 
+\v 17 Those whose behavior \f + \fr metaphor \f* is good/right turn away from doing evil;
+\q2 those who guard their conduct \f + \fr metonymy \f* protect their lives. 
 \b
 \q
 \v 18 Being proud will ◄lead to your having/cause you to have► disasters;
@@ -89,7 +89,7 @@ by\add* dividing with them ◄plunder/goods captured in a battle►.
 right\add*. 
 \b
 \q
-\v 22 Being wise is like having a fountain that gives life [MET],
+\v 22 Being wise is like having a fountain that gives life \f + \fr metaphor \f*,
 \q2 but foolish people are punished as a result of their acting foolishly.
 \b
 \q
@@ -98,21 +98,21 @@ right\add*.
 right\add*. 
 \b
 \q
-\v 24 Kind words are like honey [SIM]: 
+\v 24 Kind words are like honey \f + \fr simile \f*: 
 \q2 we enjoy them both, and both cause our bodies to be healthy/strong.
 \b
 \q
-\v 25 There are some kinds of behavior [MET] that people think are right,
-\q2 but ◄walking on those roads [MET]/continually doing those things► causes those people to die.
+\v 25 There are some kinds of behavior \f + \fr metaphor \f* that people think are right,
+\q2 but ◄walking on those roads \f + \fr metaphor \f*/continually doing those things► causes those people to die.
 \b
 \q
 \v 26 If a worker ◄has an appetite/is hungry►, that urges him to work hard
-\q2 because he [SYN] wants to \add earn money to buy things to\add* eat.
+\q2 because he \f + \fr synecdoche \f* wants to \add earn money to buy things to\add* eat.
 \b
 \q
 \v 27 Worthless people plan \add ways to cause\add* trouble \add for
 others\add*, 
-\q2 and \add even\add* what they say \add injures people\add* like a hot fire does [SIM].
+\q2 and \add even\add* what they say \add injures people\add* like a hot fire does \f + \fr simile \f*.
 \b
 \q
 \v 28 Deceitful people cause strife/quarreling among other people;
@@ -129,7 +129,7 @@ are\add* planning to do something to harm others;
 \q2 they smirk when they are about to do something evil. 
 \b
 \q
-\v 31 Gray hair is like a glorious crown [MET] 
+\v 31 Gray hair is like a glorious crown \f + \fr metaphor \f* 
 \q2 that is given to people who have always behaved righteously.
 \b
 \q

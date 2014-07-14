@@ -12,7 +12,7 @@ do\add*).
 \p
 \v 3 I replied, “Your majesty, I hope you will live a very long time! But ◄how can I prevent myself from being sad, because the
 city where my ancestors are buried \add has been destroyed\add* and is in ruins?/I cannot keep myself from looking sad, because
-the city where my ancestors are buried \add has been destroyed\add* and is in ruins.► [RHQ] Even the city gates have been
+the city where my ancestors are buried \add has been destroyed\add* and is in ruins.► \f + \fr rhetorical question \f* Even the city gates have been
 completely burned.” 
 \p
 \v 4 The king replied, “What do you want me to do \add for you\add*?”
@@ -67,7 +67,7 @@ wall. If we do that, we will no longer feel humiliated/disgraced.”
 \p
 \v 19 But when Sanballat, Tobiah, and Gershom the Arab \add king of Kedar
 region\add* heard about what we planned to do, they made fun of us and ridiculed us. They said, “What is this work that you are
-doing? Are you rebelling against the king \add again\add*?” [RHQ]
+doing? Are you rebelling against the king \add again\add*?” \f + \fr rhetorical question \f*
 \p
 \v 20 But I replied, “Our God who \add is/rules in\add* heaven will help our plans to succeed. But as for you, you have no
 right to decide anything about this city, because you have not participated in what has happened in this city in previous

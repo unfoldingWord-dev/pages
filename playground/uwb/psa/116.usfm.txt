@@ -7,7 +7,7 @@
 \q2 so I will call out to him all during my life. 
 \b
 \q
-\v 3 Everything around me [MET] caused me to think that I would die;
+\v 3 Everything around me \f + \fr metaphor \f* caused me to think that I would die;
 \q2 I was very afraid that I would \add die and go to\add* the place where dead people are.
 \q I was very distressed/worried and afraid. 
 \q
@@ -26,7 +26,7 @@
 \q2 because Yahweh has done very good things for me. 
 \b
 \q
-\v 8 Yahweh has saved me [SYN] from dying, 
+\v 8 Yahweh has saved me \f + \fr synecdoche \f* from dying, 
 \q2 and has kept/protected me from \add troubles that would cause me
 to\add* cry. 
 \q He has kept/protected me from ◄stumbling/being defeated►. 
@@ -41,13 +41,13 @@ to\add* cry.
 \q2 \add I continued to trust in Yahweh\add*. 
 \b
 \q
-\v 12 So now \add I will tell you\add* [RHQ] what I will offer to Yahweh,
+\v 12 So now \add I will tell you\add* \f + \fr rhetorical question \f* what I will offer to Yahweh,
 \q2 because of all the good things that he has done for me. 
 \q
 \v 13 I will offer to him a cup \add of wine\add* 
 \q2 to thank him for saving/rescuing me. 
 \q
-\v 14 When I am together with many [HYP] people who belong to Yahweh,
+\v 14 When I am together with many \f + \fr hyperbole \f* people who belong to Yahweh,
 \q2 I will give to him the offerings that I solemnly promised to give to him.
 \b
 \q
@@ -59,9 +59,9 @@ to\add* cry.
 \b
 \q
 \v 17 So I will offer to him a sacrifice to thank him, 
-\q and I will ◄pray to him/continue to request that he [MTY] help me►.
+\q and I will ◄pray to him/continue to request that he \f + \fr metonymy \f* help me►.
 \q
-\v 18-19 When I am together with many of [HYP] the people who belong to Yahweh,
+\v 18-19 When I am together with many of \f + \fr hyperbole \f* the people who belong to Yahweh,
 \q2 \add in the courtyard\add* outside his temple in Jerusalem, 
 \q2 I will give to him the offerings that I solemnly promised to give to him.
 \b

@@ -7,7 +7,7 @@
 \v 2 Yahweh is like a huge rock [DOU, MET] \add under which I can hide from my
 enemies\add*; 
 \q2 he is like a strong fortress, the one who protects me; 
-\q he protects me like a shield [MET] \add protects a soldier\add*;
+\q he protects me like a shield \f + \fr metaphor \f* \add protects a soldier\add*;
 \q2 he is the one to whom I go ◄for refuge/to be protected/safe►,
 \q2 and he defends me by his great power [IDI]. 
 \q
@@ -15,11 +15,11 @@ enemies\add*;
 \q2 and he rescued me from my enemies. 
 \b
 \q
-\v 4 All around me were dangerous situations in which I might be killed [PRS];
-\q2 it was as though there were huge waves [MET] that almost crashed on me and killed me.
+\v 4 All around me were dangerous situations in which I might be killed \f + \fr personification \f*;
+\q2 it was as though there were huge waves \f + \fr metaphor \f* that almost crashed on me and killed me.
 \q
 \v 5  \add It was as though\add* the place where dead people are had ropes that were wrapped around me,
-\q2 or it was as though there was a trap [MET] that would \add seize
+\q2 or it was as though there was a trap \f + \fr metaphor \f* that would \add seize
 and\add* kill me. 
 \q
 \v 6 But when I was very distressed, I called out to Yahweh, 
@@ -27,8 +27,8 @@ and\add* kill me.
 \q2 He listened to me when I cried out \add for help\add*. 
 \b
 \q
-\v 7 Then the earth quaked/shook strongly [DOU], 
-\q2 and the mountains shook very strongly from their centers [DOU]
+\v 7 Then the earth quaked/shook strongly \f + \fr doublet \f*, 
+\q2 and the mountains shook very strongly from their centers \f + \fr doublet \f*
 \q2 because Yahweh was angry. 
 \q
 \v 8  \add It was as though\add* smoke poured out from his nostrils,
@@ -40,8 +40,8 @@ and\add* kill me.
 \v 10 He flew, riding on the back of a creature that had wings, 
 \q2 traveling \add fast\add*, being blown along by the wind. 
 \q
-\v 11 Darkness was all around him \add like a blanket\add* [MET];
-\q2 dark clouds, full of water moisture, covered him [MET]. 
+\v 11 Darkness was all around him \add like a blanket\add* \f + \fr metaphor \f*;
+\q2 dark clouds, full of water moisture, covered him \f + \fr metaphor \f*. 
 \q
 \v 12 Hailstones and flashes of lightning were around him; 
 \q2 hail and burning coals fell down from the sky. 
@@ -85,7 +85,7 @@ and\add* kill me.
 \q2 I have kept myself from sinning. 
 \q
 \v 24 So he rewards me because I do what is right; 
-\q2 he knows that I [SYN] have not committed sins. 
+\q2 he knows that I \f + \fr synecdoche \f* have not committed sins. 
 \b
 \q
 \v 25 Yahweh, you are faithful to those who faithfully \add do what you tell them to
@@ -109,9 +109,9 @@ cities\add*.
 \q
 \v 30 Everything that Yahweh my God does is perfect. 
 \q2 We can depend on him to do what he promises. 
-\q He is like a shield [MET] to protect all those who go to him for refuge.
+\q He is like a shield \f + \fr metaphor \f* to protect all those who go to him for refuge.
 \q
-\v 31 Yahweh is [RHQ] the only one who is God; 
+\v 31 Yahweh is \f + \fr rhetorical question \f* the only one who is God; 
 \q2 only he is like a huge rock \add under which we can be safe\add*.
 \q
 \v 32 God is the one who enables me to be strong 
@@ -125,7 +125,7 @@ cities\add*.
 \b
 \q
 \v 35 Yahweh, you protect and save me with your shield; 
-\q2 you have made me safe by your power [MTY]. 
+\q2 you have made me safe by your power \f + \fr metonymy \f*. 
 \q2 I have become ◄strong/a great \add king\add*► because you have helped me.
 \q
 \v 36 You have made a wide path for me, 
@@ -149,9 +149,9 @@ cities\add*.
 \q2 but no one saved them. 
 \q
 \v 42 I pulverize them, 
-\q2 with the result that they become like [MET] the dust that the wind
+\q2 with the result that they become like \f + \fr metaphor \f* the dust that the wind
 \add blows away\add*; 
-\q2 I throw them out like [SIM] \add people throw\add* dirt out into the streets.
+\q2 I throw them out like \f + \fr simile \f* \add people throw\add* dirt out into the streets.
 \b
 \q
 \v 43 You enabled me to defeat those who fought against me, 
@@ -168,7 +168,7 @@ kingdom\add*.
 \b
 \q
 \v 46 Yahweh is alive! 
-\q2 Praise the one who is like a huge rock [MET] \add under which I am
+\q2 Praise the one who is like a huge rock \f + \fr metaphor \f* \add under which I am
 safe\add*! 
 \q2 Exalt the God who saves me! 
 \q

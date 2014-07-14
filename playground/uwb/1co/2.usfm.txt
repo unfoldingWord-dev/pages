@@ -13,12 +13,12 @@ think was very wise.
 \add to do what Christ wanted me to do\add*. I was afraid \add that I would not be able to do
 it\add*, and because of that I was trembling very much. 
 \v 4 When I taught you and preached to you, I did not speak words that
-\add unbelievers would consider\add* [IRO] wise in order to convince them that my message was true. Instead,
+\add unbelievers would consider\add* \f + \fr irony \f* wise in order to convince them that my message was true. Instead,
 \add God's\add* Spirit showed that it was true by \add enabling me
 to\add* powerfully \add perform miracles\add*. 
 \v 5  \add I taught and preached that way\add* in order that you might believe
 \add my message\add*, not because you heard words that people \add considered to
-be\add* [IRO] wise, but \add because you realized\add* God's power.
+be\add* \f + \fr irony \f* wise, but \add because you realized\add* God's power.
 \s 1 Corinthians 2:6-16 
 \s Unbelievers do not consider that my message is wise, because I speak what God's Spirit reveals to me.
 \p
@@ -46,7 +46,7 @@ thinking.
 \v 12 It was not the ideas that unbelievers teach that we accepted. Instead, it was the Spirit who came from God that we
 received, in order that we might know the things that God has freely done for us.
 \v 13 Those are the things that I tell you about. As I do that, I do not tell you things that someone
-\add whom others thought\add* was [IRO] wise taught me. Instead, I tell you truths that
+\add whom others thought\add* was \f + \fr irony \f* wise taught me. Instead, I tell you truths that
 \add God's\add* Spirit taught \add me\add*, and I explain those spiritual truths to people whose thinking is guided by God's
 Spirit (OR, I teach spiritual \add truths to\add* spiritual \add people\add*).
 \v 14 Those who are unbelievers reject the truths that \add God's\add* Spirit teaches
@@ -56,6 +56,6 @@ Spirit\add*.
 \v 15 We who have God's Spirit can judge correctly the \add value
 of\add* all truths \add that the Spirit reveals\add*, but \add unbelievers\add* cannot evaluate us correctly.
 \v 16 As \add one of our prophets wrote: \add* 
-\q No human [RHQ] has known what the Lord is thinking. 
-\q No human [RHQ] is able to instruct him. 
-\q But we believers are able to think about things [MTY] in the way that Christ thinks about them,
+\q No human \f + \fr rhetorical question \f* has known what the Lord is thinking. 
+\q No human \f + \fr rhetorical question \f* is able to instruct him. 
+\q But we believers are able to think about things \f + \fr metonymy \f* in the way that Christ thinks about them,

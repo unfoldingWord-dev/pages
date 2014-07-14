@@ -36,18 +36,18 @@ safe\add*’,
 true\add*, but it is a lie. 
 \q2 Those people are deceiving you, and what they say is worthless.
 \q
-\v 9 You think that [RHQ] you can steal things, murder people, commit adultery, tell lies in court, and worship Baal and all
+\v 9 You think that \f + \fr rhetorical question \f* you can steal things, murder people, commit adultery, tell lies in court, and worship Baal and all
 those other gods that you did not know about previously, 
 \q2
 \v 10 and then come here and stand in front of this temple, which is my temple, and say ‘Nothing bad will happen to us!’,
 \q2 while you continue to do all those abominable things. 
 \q
-\v 11 Do you realize that you are causing this temple, which is my temple, to become like [MET] a den where thieves hide [RHQ]?
+\v 11 Do you realize that you are causing this temple, which is my temple, to become like \f + \fr metaphor \f* a den where thieves hide \f + \fr rhetorical question \f*?
 \q2 Do you not know that I see \add all the evil things that you people do
 there\add*? 
 \b
 \p
-\v 12  \add Long ago\add* I put my Sacred Tent at Shiloh \add city\add*, to be a place where people would worship me [MTY].
+\v 12  \add Long ago\add* I put my Sacred Tent at Shiloh \add city\add*, to be a place where people would worship me \f + \fr metonymy \f*.
 \q Think about how I \add destroyed it\add* because my people, the Israeli people, did many wicked things there.
 \q
 \v 13 And while you were continually doing those wicked things, 
@@ -56,7 +56,7 @@ there\add*?
 \q2 but you refused to answer me. 
 \q
 \v 14 Therefore, just like I destroyed Shiloh, I will now destroy this temple
-\q2 that was built for people to worship me [MTY], 
+\q2 that was built for people to worship me \f + \fr metonymy \f*, 
 \q this temple that you trust in, 
 \q2 in this place that I gave to you and your ancestors. 
 \q
@@ -78,20 +78,20 @@ called\add* the Queen of Heaven.
 \q And \add on their altars\add* they pour out offerings of wine to their other idols.
 \q2 All of those things cause me to become extremely angry! 
 \q
-\v 19 But I am not [RHQ] the one whom they are hurting; 
-\q2 they are really [RHQ] hurting themselves \add by doing these things for which they should
+\v 19 But I am not \f + \fr rhetorical question \f* the one whom they are hurting; 
+\q2 they are really \f + \fr rhetorical question \f* hurting themselves \add by doing these things for which they should
 be\add* very ashamed!” 
 \b
 \p
 \v 20 So Yahweh the Lord says this: 
 \q2 “Because I am extremely angry with \add what happens at\add* this place,
-\q2 I will punish these people severely [MTY]; 
-\q my being very angry will be like [MET] a fire that will not be extinguished,
+\q2 I will punish these people severely \f + \fr metonymy \f*; 
+\q my being very angry will be like \f + \fr metaphor \f* a fire that will not be extinguished,
 \q2 and I will destroy the people, their animals, their fruit trees, and their crops.”
 \b
 \p
 \v 21 Therefore, this is what the Almighty Commander of the armies of angels says:
-\q “Take away [IRO] your offerings that you bring to burn completely on your altars and your other sacrifices;
+\q “Take away \f + \fr irony \f* your offerings that you bring to burn completely on your altars and your other sacrifices;
 \q2 \add don't give them to me\add*; eat them yourselves! 
 \q
 \v 22 When I led your ancestors out of Egypt, 
@@ -102,7 +102,7 @@ be\add* very ashamed!”
 \q If you do the things that I want you to do, 
 \q2 everything will go well for you.’ 
 \q
-\v 24 But your ancestors would not pay any attention [DOU] to me.
+\v 24 But your ancestors would not pay any attention \f + \fr doublet \f* to me.
 \q2 They continued to do \add the evil things\add* that they wanted to do,
 \q everything that in their stubborn inner beings they desired to do.
 \q2 Instead of coming closer to me, they went further away from me.
@@ -127,7 +127,7 @@ be\add* very ashamed!”
 \v 29 So, \add tell them to\add* cut off their hair \add to show that they are
 mourning\add*; 
 \q2 tell them to go up into the hills and sing a sad funeral song,
-\q because I have completely rejected [DOU] this generation of people who have made me angry.”
+\q because I have completely rejected \f + \fr doublet \f* this generation of people who have made me angry.”
 \s The Valley of Slaughter 
 \p
 \v 30 Yahweh says this: “The people of Judah have done many things that I say are evil.

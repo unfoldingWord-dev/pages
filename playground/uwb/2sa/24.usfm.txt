@@ -30,7 +30,7 @@ people-groups lived. Then they went \add east\add* to Beersheba, in the southern
 \add and counting the people\add*, they returned to Jerusalem. 
 \p
 \v 9 They reported to the king the number of people that they had counted. There were 800,000 men in Israel and 500,00 men in
-Judah who were able to become soldiers in the army [MTY]. 
+Judah who were able to become soldiers in the army \f + \fr metonymy \f*. 
 \p
 \v 10 But after David's men had counted the people, David regretted [IDI] that he had told them to do that.
 \add One night\add* he said to Yahweh, “I have committed a very big sin. Please forgive me, because what I have done is very
@@ -46,7 +46,7 @@ army\add* running away from your enemies, or three days when there will be a ◄
 think about it and choose \add which one you want\add*, and \add tell
 me\add*, and I will return to Yahweh and tell him what your answer is.”
 \p
-\v 14 David said to Gad, “All those are very terrible things for me to choose between! But allow Yahweh to punish [MTY] me,
+\v 14 David said to Gad, “All those are very terrible things for me to choose between! But allow Yahweh to punish \f + \fr metonymy \f* me,
 because he is very merciful. Do not allow humans to punish me, \add because they will not be
 merciful\add*.” 
 \p
@@ -61,7 +61,7 @@ chosen/set. All over the land, from Dan to Beersheba, there were 70,000 Israelis
 \p
 \v 17 When David saw the angel who was causing the people to become sick and die, he said to Yahweh, “Truly, I am the one who
 has committed the sin. I have done a very wicked thing, but these people are
-\add as innocent as\add* sheep [MET]. They have certainly not [RHQ] done anything
+\add as innocent as\add* sheep \f + \fr metaphor \f*. They have certainly not \f + \fr rhetorical question \f* done anything
 \add that is wrong\add*. So you should punish [IDI] me and my family,
 \add not these people\add*!” 
 \p

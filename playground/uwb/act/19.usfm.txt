@@ -15,10 +15,10 @@ showing\add*?” They replied, “\add We were showing\add* that we\add (exc)\ad
 \add also\add* told the people to believe in the one who would come after he
 \add had come\add*, and that was Jesus.” 
 \v 5 So, when those men heard that, they were baptized \add to affirm that they
-believed\add* [MTY] in the Lord Jesus. 
+believed\add* \f + \fr metonymy \f* in the Lord Jesus. 
 \v 6 After that, Paul placed his hands on their heads\add one by
 one\add*, and the \add power of the\add* Holy Spirit came upon\add each
-of\add* them. The \add Holy Spirit\add* enabled them to speak in various languages [MTY]
+of\add* them. The \add Holy Spirit\add* enabled them to speak in various languages \f + \fr metonymy \f*
 \add that they had not learned\add*, and they also spoke messages
 \add that the Holy Spirit\add* revealed to them. 
 \v 7 There were about twelve men \add whom Paul baptized and who received the power of the Holy
@@ -28,7 +28,7 @@ Spirit\add*.
 \p
 \v 8 For three months after that, Paul entered the Jewish meeting place
 \add in Ephesus on each\add* Sabbath/Jewish day of rest, and he spoke boldly. He convincingly taught
-\add the people\add* about how God wanted to rule [MET] \add their
+\add the people\add* about how God wanted to rule \f + \fr metaphor \f* \add their
 lives\add*. 
 \v 9  \add A few of the people in the meeting house believed the message about
 Jesus\add*. But some of the people would not believe that message and did not want to
@@ -36,12 +36,12 @@ Jesus\add*. But some of the people would not believe that message and did not wa
 \add for people to receive eternal life about which Paul was preaching\add*. So Paul left them and took the believers with him
 \add to meet in another place\add*. He taught every day in a lecture hall
 \add that a man whose name was\add* Tyrannus \add lectured in/owned\add*.
-\v 10 For two years Paul continued to teach people in that building. In this way, most of [HYP] the Jews and non-Jews who lived
+\v 10 For two years Paul continued to teach people in that building. In this way, most of \f + \fr hyperbole \f* the Jews and non-Jews who lived
 in Asia \add province\add* heard the message about the Lord \add Jesus\add*.
 \s Acts 19:11-12 
 \s God enabled Paul to do amazing miracles. 
 \p
-\v 11 Also, God gave Paul the power [MTY] to do amazing miracles.
+\v 11 Also, God gave Paul the power \f + \fr metonymy \f* to do amazing miracles.
 \v 12  \add If those who were sick could not come to Paul, handkerchiefs or aprons that Paul had touched would be taken
 and\add* placed on the sick people {\add others\add* would take \add and place
 on\add* the sick people handkerchiefs or aprons that Paul had touched}. As a result, those sick people would people become
@@ -52,19 +52,19 @@ well, and evil spirits that troubled people would leave.
 \v 13 There were also some Jews who traveled around \add to\add* various
 places\add , and\add* they commanded the evil spirits in those places to depart
 \add from them. Certain ones of those Jews once\add* tried to command the evil spirits to come out of people by saying “I
-command you by the authority [MTY] of the Lord Jesus, the man about whom Paul preaches, to come out!”
+command you by the authority \f + \fr metonymy \f* of the Lord Jesus, the man about whom Paul preaches, to come out!”
 \v 14 There were seven men who were doing that. They were sons of a man named Sceva, a Jew,
 \add who called himself\add* a chief priest. 
 \v 15 But \add one day as they were doing that\add*, the evil spirit
 \add refused to come out of that person. Instead, he\add* said to them, “I know Jesus, and I know
 \add that he has authorized\add* Paul \add to expel demons\add*. ◄But no one has authorized
 you\add to do anything to me!\add*/who authorized you \add to do anything to
-me\add*?► [RHQ]” 
+me\add*?► \f + \fr rhetorical question \f*” 
 \v 16  \add After saying that, suddenly\add* the man who was controlled by the evil spirit jumped on the seven Jewish men,
 \add one after another\add*, knocked all of them down, and beat each of them severely. He tore off their clothes and wounded
 them, causing them to bleed. So, \add greatly frightened, they all\add* ran out of the house.
-\v 17 All the people who lived in Ephesus, both Jews and non-Jews, heard what had happened. So they were afraid [MTY]. They
-honored the Lord Jesus [MTY] \add because they realized that he was very
+\v 17 All the people who lived in Ephesus, both Jews and non-Jews, heard what had happened. So they were afraid \f + \fr metonymy \f*. They
+honored the Lord Jesus \f + \fr metonymy \f* \add because they realized that he was very
 powerful\add*. 
 \s Acts 19:18-22 
 \s Many believers confessed their former sins and burned their books of magic.
@@ -75,7 +75,7 @@ been doing.
 \add that told how to work\add* magic and burned them in a public place. When people added up how much those scrolls had cost,
 they realized that altogether the amount was fifty thousand valuable silver coins.
 \p
-\v 20 As a result, many more people heard [MTY] the message about the Lord
+\v 20 As a result, many more people heard \f + \fr metonymy \f* the message about the Lord
 \add Jesus\add*, and the message powerfully \add changed their lives\add*.
 \p
 \v 21 After those things had happened, Paul decided that he wanted to go to Jerusalem, but he decided that
@@ -86,12 +86,12 @@ they realized that altogether the amount was fifty thousand valuable silver coin
 \s Acts 19:23-24 
 \s Demetrius made silver shrines of the goddess Artemis. 
 \p
-\v 23  \add Soon after that\add*, some of the people there tried to make a lot of [LIT] trouble for the people who believed the
+\v 23  \add Soon after that\add*, some of the people there tried to make a lot of \f + \fr litotes \f* trouble for the people who believed the
 way \add God revealed for us(inc) to receive eternal life\add*. 
 \v 24 There was a man there whose name was Demetrius who made little images out of silver.
 \add They were models\add* of the temple of \add a goddess whose name
 was\add* Artemis. Demetrius and the other men \add who made those little
-images\add* earned a lot of [LIT] money \add from selling those images\add*.
+images\add* earned a lot of \f + \fr litotes \f* money \add from selling those images\add*.
 \s Acts 19:25-31 
 \s Demetrius incited people to shout and to riot. 
 \p
@@ -105,7 +105,7 @@ make\add*. This fellow tells people that the gods that we have made
 them\add*. 
 \v 27  \add If people continue to listen to him\add*, soon they will ruin our business. Besides, they will no longer think that
 they should \add come to\add* the temple of Artemis \add to worship her.
-People\add* all over our Asia \add province\add* and everywhere [HYP] else worship
+People\add* all over our Asia \add province\add* and everywhere \f + \fr hyperbole \f* else worship
 \add our great\add* goddess \add Artemis. Soon people\add* may no longer consider that Artemis is great!”
 \v 28 All the men there were very angry \add at Paul\add* when they heard what Demetrius said. They began to shout, “The
 goddess Artemis of us Ephesians is very great!” 
@@ -136,7 +136,7 @@ there\add* unitedly \add and\add* repeatedly shouted for about two hours, “Gre
 \s The city secretary quieted, warned and dismissed the crowd. 
 \p
 \v 35 Then the city secretary made the crowd stop shouting, and he said to them, “My fellow-citizens, everyone in the world
-knows [RHQ] that \add we(inc) people who live in\add* Ephesus \add city\add* guard the temple
+knows \f + \fr rhetorical question \f* that \add we(inc) people who live in\add* Ephesus \add city\add* guard the temple
 \add where we worship\add* the great \add goddess\add* Artemis. Also,
 \add everyone knows that we(inc) watch over\add* the \add sacred\add* image
 \add of our goddess\add* that fell down from heaven! 

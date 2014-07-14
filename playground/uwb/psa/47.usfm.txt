@@ -11,7 +11,7 @@
 \add that lived in Canaan\add*. 
 \q
 \v 4 He chose for us this land where we now live; 
-\q2 we Israeli people [MTY], whom he loves, are proud that we own this land.
+\q2 we Israeli people \f + \fr metonymy \f*, whom he loves, are proud that we own this land.
 \qr (Think about that!) 
 \b
 \q
@@ -19,7 +19,7 @@
 \q2 The people shouted joyfully and blew trumpets as Yahweh went up.
 \q
 \v 6 Sing songs to praise our God! 
-\q2 Sing to praise him [DOU]! 
+\q2 Sing to praise him \f + \fr doublet \f*! 
 \q2 Sing to God, our king! 
 \b
 \q

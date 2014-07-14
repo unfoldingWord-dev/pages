@@ -5,7 +5,7 @@
 \v 1  \add Now I will say more about\add* this \add man\add* Melchizedek. He was the king of Salem
 \add city and was\add* a priest of God, the one who is greater \add than anyone
 else\add*. He met Abraham who was returning \add home\add* after
-\add he and his men\add* had defeated the \add armies of four\add* kings [SYN]. Melchizedek
+\add he and his men\add* had defeated the \add armies of four\add* kings \f + \fr synecdoche \f*. Melchizedek
 \add asked God to\add* bless Abraham. 
 \v 2 Then Abraham gave to him one tenth of all \add the spoils he\add* took after
 winning\add the battle. Melchizedek's name\add* means firstly ‘king
@@ -43,21 +43,21 @@ him\add*—who received tithes \add from the people\add*—paid tithes
 acknowledged that the work Melchizedek did as a priest was greater than the work Levi
 did\add*, 
 \v 10 since \add the sperm from which all those priests were eventually
-born\add* was still in Abraham's body [EUP] when Melchizedek met Abraham.
+born\add* was still in Abraham's body \f + \fr euphemism \f* when Melchizedek met Abraham.
 \s Hebrews 7:11-19 
 \s The former Jewish priests were not adequate, so a new one like Melchizedek had to come.
 \p
 \v 11  \add God\add* gave his laws to his people at the same time he gave regulations about the priests. So, if what the
 priests who were descended from Levi did could have provided a way for God to completely
 \add forgive\add* people \add for disobeying those laws\add*, ◄certainly no other priest like Melchizedek would have been
-necessary./why would another priest like Melchizedek have been necessary?► [RHQ] Instead, priests who were descended from
+necessary./why would another priest like Melchizedek have been necessary?► \f + \fr rhetorical question \f* Instead, priests who were descended from
 Aaron, \add Levi's descendant, would have been adequate\add*. 
 \v 12  \add But we know they were not adequate, because a new type of priest like Melchizedek has
 come\add*. And since \add God\add* has appointed a new type of priest, he also had to change the regulations
 \add concerning how priests were appointed\add* {\add he appointed
 priests\add*}. 
 \v 13  \add Jesus\add*, the one about whom I am saying these things, is a descendant of someone else,
-\add not a descendant of Levi\add*. None of the men from whom Jesus descended ever served as priests [MTY].
+\add not a descendant of Levi\add*. None of the men from whom Jesus descended ever served as priests \f + \fr metonymy \f*.
 \v 14  \add We know that\add* since it is obvious that it is from
 \add the tribe of\add* Judah that our Lord was descended. Moses never said that any of Judah's descendants would
 \add become\add* priests. 
@@ -84,7 +84,7 @@ us\add* we can come near to God.
 \s Jesus lives eternally as a high priest to plead with God for us.
 \p
 \v 20 Furthermore, \add when God appointed Christ, it was when God\add* solemnly declared
-\add that Christ would be a priest\add* [LIT]. When \add God appointed
+\add that Christ would be a priest\add* \f + \fr litotes \f*. When \add God appointed
 former\add* priests, it was not by his solemnly declaring \add that they would be
 priests\add*. 
 \v 21 However, when he \add appointed Christ to be a priest\add*, it was by these words that
@@ -96,7 +96,7 @@ priests\add*.
 \v 22 Because of that, Jesus guarantees that \add the new\add* covenant will be better
 \add than the old one\add*. 
 \p
-\v 23 And formerly, the priests could not keep serving \add as priests\add*, because they all died [PRS]. So there were many
+\v 23 And formerly, the priests could not keep serving \add as priests\add*, because they all died \f + \fr personification \f*. So there were many
 priests \add to take the place of the ones who died\add*. 
 \v 24 But because \add Jesus\add* lives eternally, he will continue to be a high priest forever.
 \v 25 So, he can completely and eternally save those who come to God by
@@ -114,8 +114,8 @@ atone\add* for their own sins, and then \add to atone for other\add* people
 \add who have sinned\add*. \add But because Jesus never sinned\add*, he does not need to do that. The only thing
 \add he needed to do to save people\add* was to sacrifice himself once!
 \v 28  \add We need a high priest like\add* him, because \add Moses\add* wrote in the laws
-\add that God gave him\add* [PRS] that the ones who would be appointed to be priests would be men who tended
-\add to sin easily\add*. But \add God\add* solemnly \add declared\add* [PRS] after
+\add that God gave him\add* \f + \fr personification \f* that the ones who would be appointed to be priests would be men who tended
+\add to sin easily\add*. But \add God\add* solemnly \add declared\add* \f + \fr personification \f* after
 \add he had given\add* his laws \add to Moses\add* that \add he would
 appoint\add* ◄his Son/the man who is also God► \add to be a high priest.
 Now\add* ◄\add his Son/the man who is also God\add*► has forever become all that God intends him to be.

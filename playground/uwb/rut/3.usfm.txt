@@ -1,7 +1,7 @@
 \c 3  
 \s Ruth asked Boaz to marry her so she would have a home and other things she needed
 \p
-\v 1 One day, Naomi said to Ruth, “My daughter, I think that I should [RHQ] try to arrange for you to have a husband [MTY] who
+\v 1 One day, Naomi said to Ruth, “My daughter, I think that I should \f + \fr rhetorical question \f* try to arrange for you to have a husband \f + \fr metonymy \f* who
 will ◄take care of/provide for► you. 
 \v 2 Boaz, the man with whose servant girls you have been \add gathering
 grain\add*, is a close relative \add of our dead husbands\add*. Listen
@@ -56,4 +56,4 @@ told her everything that Boaz had done for her \add and said to her\add*.
 \v 17 She also said \add to Naomi\add*, “He gave me all this barley, saying ‘I do not want you to return to your mother-in-law
 empty-handed.’ ” 
 \v 18 Then Naomi said, “My daughter, just wait until we see what happens.
-\add I am sure that\add* Boaz will surely take care of [LIT] the matter today. [LIT]”
+\add I am sure that\add* Boaz will surely take care of \f + \fr litotes \f* the matter today. \f + \fr litotes \f*”

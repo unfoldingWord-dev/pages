@@ -5,14 +5,14 @@
 \q I will sing about \add your\add* faithfully loving \add us\add* (OR, my being loyal to you and acting justly/fairly
 \add toward people\add*). 
 \q
-\v 2  \add I promise that\add* while I rule people [MTY], 
+\v 2  \add I promise that\add* while I rule people \f + \fr metonymy \f*, 
 \q2 I will behave in such a way that no one will be able to criticize me.
 \q2 Yahweh, ◄when will you come to \add help\add* me?/I need you to come to
-\add help\add* me.► [RHQ] 
+\add help\add* me.► \f + \fr rhetorical question \f* 
 \q I will do things that are right. 
 \b
 \q
-\v 3 I will not allow anyone who does what is evil to come to me [SYN].
+\v 3 I will not allow anyone who does what is evil to come to me \f + \fr synecdoche \f*.
 \q I hate the deeds of those who ◄\add turn away from/sin against\add*► you;
 \q2 I will ◄completely avoid those people/not allow those people to come near me►.
 \b
@@ -22,7 +22,7 @@
 \b
 \q
 \v 5 I will get rid of anyone who secretly slanders someone else,
-\q and I will not ◄tolerate/allow to be near me► anyone who is proud and arrogant [DOU].
+\q and I will not ◄tolerate/allow to be near me► anyone who is proud and arrogant \f + \fr doublet \f*.
 \b
 \q
 \v 6 I will approve of [IDI] people in this land who ◄are loyal to/faithfully

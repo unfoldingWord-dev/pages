@@ -3,7 +3,7 @@
 \s The list of women who helped Jesus. 
 \p
 \v 1 Soon after that, Jesus went, along with his twelve \add disciples\add*, through various cities and villages. As they went,
-he was telling people the good message about how God wants ◄to have complete control/to rule► [MET]
+he was telling people the good message about how God wants ◄to have complete control/to rule► \f + \fr metaphor \f*
 \add over their lives\add*. 
 \v 2 Some women from whom he had expelled evil spirits and healed of diseases also
 \add went with him\add*. These included Mary, the woman from Magdala
@@ -23,7 +23,7 @@ of\add* moist \add soil\add*. As soon as the seeds grew, the plants dried up bec
 of\add* thorny \add weeds\add*. The thorny weeds grew \add together\add* with the young plants, and
 \add they\add* crowded out \add the plants\add*. 
 \v 8 But some of the seeds fell on good soil and grew \add well\add*.
-\add Each seed later\add* produced a hundred \add grains\add*.” Then Jesus shouted to them, “If you want to understand [MTY]
+\add Each seed later\add* produced a hundred \add grains\add*.” Then Jesus shouted to them, “If you want to understand \f + \fr metonymy \f*
 this, you must consider \add carefully what I have just said\add*!”
 \s Luke 8:9-15 
 \s Jesus explained that the story represented different ways people respond to his teaching.
@@ -31,7 +31,7 @@ this, you must consider \add carefully what I have just said\add*!”
 \v 9 Jesus' disciples \add later\add* asked him about the meaning of the parable
 \add he had just told\add*. 
 \v 10 He said, “God is revealing to you what he did not reveal before, about
-\add how he wants to\add* rule [MET] \add over people's lives\add*. But when I am telling other people about
+\add how he wants to\add* rule \f + \fr metaphor \f* \add over people's lives\add*. But when I am telling other people about
 \add these things, I tell them\add* only in parables. The result will be
 \add like a prophet predicted long ago:\add* 
 \q They will see \add what I am doing\add*, but will not perceive
@@ -44,7 +44,7 @@ fell\add*. When these people hear God's message, the devil comes and causes them
 they do not believe it and will not be saved {\add God\add* will not save them}.
 \v 13  \add Some people are like\add* the \add soil with\add* rock
 \add underneath\add*. When they hear \add God's\add* message, they accept it joyfully.
-\add But because it does not penetrate deeply\add* [MET] \add into their inner
+\add But because it does not penetrate deeply\add* \f + \fr metaphor \f* \add into their inner
 beings\add*, they believe it for \add only\add* a \add short\add* time.
 \add They are like the plants that\add* did not have \add deep\add* roots. When difficult things happen to them, they stop
 believing \add God's message\add*. 
@@ -55,13 +55,13 @@ of\add* thorny \add weeds\add* in it. They are people who accept
 \add spiritually\add* mature. 
 \v 15 But \add some people are like\add* the good soil. They hear
 \add God's\add* message and accept it. They \add become\add* good, honest people, and they continue doing things
-\add that please God\add* [MET].” 
+\add that please God\add* \f + \fr metaphor \f*.” 
 \s Luke 8:16-18 
 \s Jesus explained the need to make his truth clear to others. 
 \p
 \v 16 “After people light a lamp, they do not cover it with a basket or put it under a bed. Instead, they put it on a
 lampstand, so that those who enter \add the house\add* can see \add things
-from\add* its light [MET]. \add Similarly, you must tell God's truth to others so that they can know what I can do for
+from\add* its light \f + \fr metaphor \f*. \add Similarly, you must tell God's truth to others so that they can know what I can do for
 them\add*. 
 \v 17  \add God wants to\add* make clear all \add of his truth\add* that was not evident previously.
 \add He intends\add* that all of\add the truth\add* that \add he\add* had not revealed before be told openly {that
@@ -78,7 +78,7 @@ truth\add* that \add he\add* has not revealed before}.
 because there was a large crowd \add around him in the house\add*.
 \v 20 Someone told him, “Your mother and your \add younger\add* brothers are standing outside, wanting to see you.”
 \v 21 He replied, “Those who hear God's message and obey it are \add as dear to
-me\add* [MET] as my mother and my brothers.” 
+me\add* \f + \fr metaphor \f* as my mother and my brothers.” 
 \s Luke 8:22-25 
 \s Jesus calmed a storm. 
 \p
@@ -90,8 +90,8 @@ they were in danger.
 We\add (inc)\add* are going to drown!” He got up and rebuked the wind and told the waves to be calm. The wind stopped blowing
 and the waves calmed down. \add The lake\add* became calm. 
 \v 25 He said to them, “◄I \add am disappointed that\add* you did not trust me
-\add to help you\add*!/Why did you not trust me \add to help you\add*?►” [RHQ] They were afraid. They were also amazed. They
-said to each other, “◄What kind of man is this?/This man is not like ordinary men!► [RHQ] He
+\add to help you\add*!/Why did you not trust me \add to help you\add*?►” \f + \fr rhetorical question \f* They were afraid. They were also amazed. They
+said to each other, “◄What kind of man is this?/This man is not like ordinary men!► \f + \fr rhetorical question \f* He
 \add not only commands people, but\add* when he commands the wind and the water, they also obey him!”
 \s Luke 8:26-39 
 \s Jesus expelled many demons from a man. 
@@ -109,7 +109,7 @@ and shackles. Then he would be sent away by the demons {the demons would send hi
 \p When Jesus stepped out of the boat onto the shore, the man saw him. He
 \add ran to Jesus\add* and prostrated himself before him. Then Jesus commanded, “You evil spirit, come out of that man!” But it
 \add did not leave immediately. Instead, it\add* caused the man to shout very loudly, “Jesus, Son of the great God in heaven,
-since we\add (inc)\add* have nothing in common, \add leave me alone\add* [RHQ]! I beg you, do not torture me
+since we\add (inc)\add* have nothing in common, \add leave me alone\add* \f + \fr rhetorical question \f*! I beg you, do not torture me
 \add now\add*!” 
 \v 30  \add In order to expel the demon more easily\add*, Jesus asked
 \add the demon\add*, “What is your\add (sg)\add* name?” He replied, “My name is Crowd/Mob.”
@@ -131,7 +131,7 @@ him\add*. He had clothes on, and his mind was normal again. Then those people be
 \v 36 The people who had seen what happened told those \add who had just
 arrived\add* how \add Jesus\add* had healed the man whom demons were controlling
 \add before\add*. 
-\v 37 Then \add those people and\add* many other people [HYP] from the area near Gerasa asked Jesus to leave their area. They
+\v 37 Then \add those people and\add* many other people \f + \fr hyperbole \f* from the area near Gerasa asked Jesus to leave their area. They
 were very afraid of \add what else Jesus would do to them\add*. So
 \add Jesus and the disciples\add* got into the boat to go back across the lake.
 \v 38 The man from whom he had \add expelled\add* the demons begged him saying,
@@ -149,7 +149,7 @@ welcomed him.
 \v 42 because my only daughter, who is about twelve years old, is dying!”
 \p As Jesus went with him, many people crowded close to Jesus. 
 \v 43 Then a woman came near. She had been suffering from constant
-\add vaginal\add* [EUP] bleeding for twelve years, but she could not be healed by anyone {no one could heal her}.
+\add vaginal\add* \f + \fr euphemism \f* bleeding for twelve years, but she could not be healed by anyone {no one could heal her}.
 \v 44 She came behind \add Jesus\add* and touched the edge of his robe
 \add in order to be healed\add*. At once her bleeding stopped. 
 \v 45 Jesus said, “Who touched me?” When everyone said that they had not touched him, Peter said, “Lord, there is a great crowd
@@ -162,14 +162,14 @@ you\add*!”
 \add She was afraid that because she had disobeyed the law that a woman with such a condition should not touch others, Jesus
 might scold her for doing that\add*. She prostrated herself before him. As the other people were listening, she told why she
 had touched him and how she had been healed immediately. 
-\v 48  \add Jesus\add* said to her, “◄Ma'am/My dear woman►, because you believed [PRS]
+\v 48  \add Jesus\add* said to her, “◄Ma'am/My dear woman►, because you believed \f + \fr personification \f*
 \add that I could heal you, I\add* have healed you. Go \add from here, and may you experience
 God's\add* peace \add within you\add*.” 
 \p
 \v 49 While he was still talking \add to her\add*, a man from Jairus' house came and said to him, “Your daughter has died. So
 ◄it is useless that you bother the teacher any longer \add by urging him to go to your
 house\add*!/why do you bother the teacher any longer \add by urging him to go to your
-house\add*?► [RHQ]” 
+house\add*?► \f + \fr rhetorical question \f*” 
 \v 50 But when Jesus heard that, he said to Jairus, “Do not think that there is nothing more that can be done. Just believe
 that \add I can help her. If you(sg) do that\add*, she will live again.”
 \v 51 When they arrived outside the house, he allowed only Peter, John, James, and the girl's mother and father to go in the
@@ -177,7 +177,7 @@ house with him.
 \v 52 All the people \add there\add* were crying and beating their breasts
 \add to show that they were sad\add*. But, \add knowing that he would cause the girl to live
 again\add*, he said to them, “Stop crying! She is not dead! She is
-\add just\add* sleeping [MET]!” 
+\add just\add* sleeping \f + \fr metaphor \f*!” 
 \v 53 The people laughed at him, because they knew that \add the
 girl\add* was dead. 
 \v 54 But \add Jesus\add* took hold of her hand and called to her, saying, “Child, get up!”

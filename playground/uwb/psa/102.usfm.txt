@@ -9,10 +9,10 @@
 \q2 and answer me quickly now, when I am calling out to you! 
 \b
 \q
-\v 3 My life is ending, like smoke that disappears [SIM]; 
-\q I have \add a big fever which\add* burns my body like a fire burns [SIM].
+\v 3 My life is ending, like smoke that disappears \f + \fr simile \f*; 
+\q I have \add a big fever which\add* burns my body like a fire burns \f + \fr simile \f*.
 \q
-\v 4  \add I feel like\add* I am drying up like grass [SIM] that has been beaten/trampled down,
+\v 4  \add I feel like\add* I am drying up like grass \f + \fr simile \f* that has been beaten/trampled down,
 \q2 and I no longer have a desire to eat food. 
 \q
 \v 5 I groan loudly, 
@@ -24,27 +24,27 @@ thin\add*.
 \q
 \v 7 I lie awake \add at night\add*; 
 \q2 \add because there is no one to comfort me\add*, 
-\q2 I am like a lonely bird \add sitting\add* on a housetop [SIM].
+\q2 I am like a lonely bird \add sitting\add* on a housetop \f + \fr simile \f*.
 \q
 \v 8 All during each day my enemies insult me; 
 \q2 those who make fun of me mention my name 
 \q2 \add and say, “May you be like him”\add* when they curse people.
 \q
-\v 9-10 Because you are very angry [DOU] with me, 
+\v 9-10 Because you are very angry \f + \fr doublet \f* with me, 
 \q now \add I sit in\add* ashes \add while I am suffering greatly\add*;
 \q2 and those ashes \add fall on\add* the bread/food that I eat,
 \q2 and what I drink has my tears mixed with it. 
 \q \add It is as though\add* you have picked me up and thrown me away!
 \q
 \v 11 My time \add to remain alive\add* is short, 
-\q2 like an evening shadow \add that will soon be gone\add* [SIM].
+\q2 like an evening shadow \add that will soon be gone\add* \f + \fr simile \f*.
 \q2 I am withering like grass withers \add in the hot sun\add*. 
 \b
 \q
-\v 12 But Yahweh, you are our king who rules [MTY] forever; 
+\v 12 But Yahweh, you are our king who rules \f + \fr metonymy \f* forever; 
 \q people who are not yet born will remember you. 
 \q
-\v 13 You will arise and act mercifully toward \add the people of\add* [MTY] Jerusalem;
+\v 13 You will arise and act mercifully toward \add the people of\add* \f + \fr metonymy \f* Jerusalem;
 \q2 it is now time for you to do that; 
 \q this is the time for you to be kind to them. 
 \q
@@ -53,14 +53,14 @@ thin\add*.
 \q because now there is rubble everywhere, 
 \q2 we, your people, are very sad when we see it. 
 \q
-\v 15 Yahweh, \add some day\add* the people of other nations will have an awesome respect for you [MTY];
+\v 15 Yahweh, \add some day\add* the people of other nations will have an awesome respect for you \f + \fr metonymy \f*;
 \q all the kings on the earth will see that you are very glorious/great.
 \q
 \v 16 You will rebuild Jerusalem, 
 \q2 and you will appear there with your glory/brightness. 
 \q
 \v 17 You will listen to the prayers of your people who are homeless,
-\q2 and you will ◄not ignore them/do what they request► [LIT] 
+\q2 and you will ◄not ignore them/do what they request► \f + \fr litotes \f* 
 \q2 when they plead with you to help them. 
 \b
 \q
@@ -68,13 +68,13 @@ thin\add*.
 \q2 in order that people in future years \add will know what\add* you have done,
 \q2 in order that people who are not born yet will praise you. 
 \q
-\v 19 They will know that you looked down from your holy/sacred place in heaven [DOU]
+\v 19 They will know that you looked down from your holy/sacred place in heaven \f + \fr doublet \f*
 \q and saw \add what was happening on\add* the earth. 
 \q
 \v 20 They will know that you hear prisoners groaning 
 \q2 and that you will set free those who have been told, “You will be executed.”
 \q
-\v 21 As a result, people in Jerusalem will praise you [DOU] for what you
+\v 21 As a result, people in Jerusalem will praise you \f + \fr doublet \f* for what you
 \add have done\add* 
 \q2
 \v 22 when many people \add from other people-groups\add* and \add those who are citizens of

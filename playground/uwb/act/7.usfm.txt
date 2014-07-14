@@ -43,11 +43,11 @@ eight days old, Abraham circumcised him. \add Later\add* Isaac's son, Jacob, was
 \p
 \v 9 “\add You know that\add* Jacob's \add older\add* sons became jealous
 \add because their father favored their younger brother\add* Joseph. So they sold him
-\add to merchants/traders who took him\add* [MTY] to Egypt. There he became a slave
+\add to merchants/traders who took him\add* \f + \fr metonymy \f* to Egypt. There he became a slave
 \add of an official who lived there\add*. But God \add helped\add* Joseph.
 \v 10 He protected him whenever people caused him to suffer. He enabled Joseph to be wise; and he caused Pharaoh, the king of
 Egypt, to think well of Joseph. So Pharaoh appointed him to rule
-\add over\add* Egypt and to look after all of Pharaoh's property [MTY].”
+\add over\add* Egypt and to look after all of Pharaoh's property \f + \fr metonymy \f*.”
 \s Acts 7:11-15a 
 \s There was a famine in Canaan, so Jacob's family moved to Egypt.
 \p
@@ -65,7 +65,7 @@ Hebrews \add and that those men who had come from Canaan were his
 brothers\add*. 
 \v 14 Then after Joseph sent \add his brothers back home, they\add* told their father Jacob
 \add that Joseph wanted\add* him and his entire family to come \add to Egypt. At that
-time\add* ◄\add Jacob's family consisted of\add* seventy-five people/there were seventy-five people in Jacob's family► [SYN].
+time\add* ◄\add Jacob's family consisted of\add* seventy-five people/there were seventy-five people in Jacob's family► \f + \fr synecdoche \f*.
 \v 15  \add So when\add* Jacob \add heard that, he and all his family\add* went to
 \add live in\add* Egypt.” 
 \s Acts 7:15b-16 
@@ -83,19 +83,19 @@ body\add* in Shechem in the ground that \add Jacob\add* had bought from Hamor's 
 \v 17 “Our ancestors had become very numerous when it was almost time for
 \add God to rescue them\add* from Egypt, \add as\add* he had promised Abraham that he would do.
 \v 18 Another king had begun to rule in Egypt. He did not know that Joseph,
-\add long before that time, had greatly helped the people of Egypt\add* [MTY].
+\add long before that time, had greatly helped the people of Egypt\add* \f + \fr metonymy \f*.
 \v 19 That king cruelly tried to get rid of our ancestors. He oppressed them and caused them to suffer greatly. He
 \add even commanded\add* them to leave their baby \add boys\add* outside
 \add their homes\add* so that they would die.” 
 \s Acts 7:20-22 
 \s Moses, who grew up as an Egyptian, spoke and acted powerfully.
 \p
-\v 20 “During that time Moses was born, and he was a very beautiful [LIT]
+\v 20 “During that time Moses was born, and he was a very beautiful \f + \fr litotes \f*
 \add child\add*. So his parents \add secretly\add* cared for him in their house for three months.
 \v 21 Then they had to put him outside \add the house, but\add* Pharaoh's daughter
 \add found him and\add* adopted him and cared for him as \add though he
 were\add* her own son. 
-\v 22 Moses was taught {\add The Egyptian teachers\add* taught Moses} many kinds of wise things [HYP] that the people in Egypt
+\v 22 Moses was taught {\add The Egyptian teachers\add* taught Moses} many kinds of wise things \f + \fr hyperbole \f* that the people in Egypt
 knew, and \add when he grew up\add*, he spoke powerfully and did things powerfully.”
 \s Acts 7:23-29 
 \s Moses killed an Egyptian, so he had to flee to Midian. 
@@ -103,17 +103,17 @@ knew, and \add when he grew up\add*, he spoke powerfully and did things powerful
 \v 23 “\add One day\add* when Moses was about forty years old, he decided that he would
 \add go and\add* see his fellow Israelites. \add So he went to the place where they
 worked\add*. 
-\v 24 He saw an Egyptian beating one of the Israelites. So he went over to help [MTY] the Israelite man who was being hurt/beat
+\v 24 He saw an Egyptian beating one of the Israelites. So he went over to help \f + \fr metonymy \f* the Israelite man who was being hurt/beat
 {whom \add the Egyptian\add* was hurting/beating}, and he ◄got revenge on/paid back► the Israelite man by killing the Egyptian
 \add who was hurting/beating him\add*. 
 \v 25 Moses was thinking that his fellow Israelites would understand that God had sent him to free them
 \add from being slaves\add*. But they did not understand that. 
 \v 26 The next day, Moses saw two Israelite men fighting \add each
 other\add*. He tried to make them stop fighting by saying to them, ‘Men, you two are fellow
-\add Israelites! So\add* ◄stop hurting each other!/why are you hurting each other?► [RHQ]’
+\add Israelites! So\add* ◄stop hurting each other!/why are you hurting each other?► \f + \fr rhetorical question \f*’
 \v 27 But the man who was injuring the other man pushed Moses away and said to him, ‘◄No one appointed
 you\add (sg)\add* to rule and judge us\add (exc)\add*!/Do you\add (sg)\add* think someone appointed
-you\add (sg)\add* to rule and judge us\add (exc)\add*?► [RHQ] 
+you\add (sg)\add* to rule and judge us\add (exc)\add*?► \f + \fr rhetorical question \f* 
 \v 28 Do you want to kill me as you killed the Egyptian yesterday?’
 \v 29 When Moses heard that, \add he thought to himself, ‘Obviously, people know what I have done, and someone will kill me.’
 He was afraid, so\add* he fled \add from Egypt\add* to Midian land. He lived there
@@ -140,7 +140,7 @@ groan \add because those people continually oppress them\add*. So I have come do
 \s God sent Moses to lead Israel and tell them of the Prophet who would come.
 \p
 \v 35 “This Moses \add is the one who had tried to help our Israelite people,
-but\add* whom they rejected \add by saying\add*, ‘No one [RHQ] appointed you to rule and judge
+but\add* whom they rejected \add by saying\add*, ‘No one \f + \fr rhetorical question \f* appointed you to rule and judge
 \add us!’\add* Moses \add is the one whom\add* God \add himself\add* sent to rule them and to free them
 \add from being slaves. He is the one whom\add* an angel in the bush
 \add commanded to do that\add*. 
@@ -170,9 +170,9 @@ we\add (exc)\add* do not know what has happened to him!’
 themselves had made. 
 \v 42 So God rejected them. He abandoned them to worship the sun, moon and stars in the sky. This agrees with the words that
 one of the prophets wrote that God said, 
-\q You Israelite \add people\add* [MTY], when you \add repeatedly\add* killed animals and offered them as sacrifices during
+\q You Israelite \add people\add* \f + \fr metonymy \f*, when you \add repeatedly\add* killed animals and offered them as sacrifices during
 those forty years \add that you were\add* in the desert, ◄you \add most
-certainly\add* were not offering them to me!/what makes you think that you were offering them to me?► [RHQ]
+certainly\add* were not offering them to me!/what makes you think that you were offering them to me?► \f + \fr rhetorical question \f*
 \v 43  \add On the contrary\add*, you carried \add with you from place to
 place\add* the tent \add that contained the idol\add* representing
 \add the god\add* Molech \add that you worshipped\add*. You also
@@ -202,22 +202,22 @@ showed\add that he was there with them\add*. They had made the tent exactly like
 \s People can worship God anywhere, not only at certain places. 
 \p
 \v 48 “However, \add we(inc) know that\add* God is greater than everything, and he does not live in
-\add houses that\add* people [SYN] have made. It is like the prophet
+\add houses that\add* people \f + \fr synecdoche \f* have made. It is like the prophet
 \add Isaiah\add* wrote. He wrote \add these words that God had spoken:\add*
 \q
 \v 49-50 Heaven is ◄my throne/the place from which I rule the entire universe►, and the earth is ◄my
-footstool/\add merely like\add* a stool on which I may rest my feet►. I myself [SYN] have made everything
+footstool/\add merely like\add* a stool on which I may rest my feet►. I myself \f + \fr synecdoche \f* have made everything
 \add both in heaven and on the earth\add*. So you \add human beings\add*,
 ◄\add you\add* really cannot build a house that would be \add adequate\add* for me!/do you think you can build a house that
-would be \add appropriate\add* for me?► [RHQ] You cannot [RHQ] make a place good enough for me
+would be \add appropriate\add* for me?► \f + \fr rhetorical question \f* You cannot \f + \fr rhetorical question \f* make a place good enough for me
 \add to live in!\add*” 
 \s Acts 7:51-53 
 \s Stephen said that those who were listening to him were opposing God.
 \p
-\v 51 “You people are extremely stubborn [MET], not wanting to obey God or listen [MTY]
+\v 51 “You people are extremely stubborn \f + \fr metaphor \f*, not wanting to obey God or listen \f + \fr metonymy \f*
 \add to him!\add* You are exactly like your ancestors! You always resist the Holy Spirit
 \add as they did\add*! 
-\v 52 Your ancestors caused [RHQ] every prophet to suffer, \add including
+\v 52 Your ancestors caused \f + \fr rhetorical question \f* every prophet to suffer, \add including
 Moses\add*. They even killed those who long ago announced \add that the
 Messiah\add* would come, the one who always did what pleased God.
 \add And the Messiah has come! He is the one whom\add* you \add recently\add* turned over
@@ -249,5 +249,5 @@ and\add* they put their clothes \add on the ground\add* next to a young man whos
 \s He asked the Lord to forgive them and he died. The disciples fled, some men buried Stephen, and Saul harassed believers. But
 the believers preached about Jesus wherever they were scattered.
 \p
-\v 60 Then Stephen fell on his knees and cried out, “Lord, do not punish them (OR, forgive them) [LIT] for this sin!” After he
+\v 60 Then Stephen fell on his knees and cried out, “Lord, do not punish them (OR, forgive them) \f + \fr litotes \f* for this sin!” After he
 had said that, he died. 

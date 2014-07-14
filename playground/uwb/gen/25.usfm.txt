@@ -11,7 +11,7 @@ people-group, and the Leum people-group.
 \v 6 But while Abraham was still living, he gave gifts to the sons of his ◄concubines/slaves that he had taken to be his
 secondary wives►, and then he sent them away to live in a land to the east, to keep them far from his son.
 \v 7 Abraham lived until he was 175 years old. 
-\v 8 He died at a very old age, and joined his ancestors who had died previously [DOU].
+\v 8 He died at a very old age, and joined his ancestors who had died previously \f + \fr doublet \f*.
 \v 9 His sons Isaac and Ishmael buried his body in the cave at Machpelah area, near Mamre, in the field that
 \add Abraham had bought from\add* Ephron, one of the descendants of Heth.
 \v 10 That was the field that Abraham previously bought there. Isaac and Ishmael buried his body there, where Abraham
@@ -27,7 +27,7 @@ Kedar, Adbeel, Mibsam,
 \v 15 Hadar, Tema, Jetur, Naphish, and Kedemah. 
 \v 16 The twelve sons of Ishmael became the leaders/chiefs of people-groups that had those names. They each had their own
 settlement and campsite. 
-\v 17 Ishmael lived until he was 137 years old. Then he died [EUP] and joined his ancestors who had previously died.
+\v 17 Ishmael lived until he was 137 years old. Then he died \f + \fr euphemism \f* and joined his ancestors who had previously died.
 \v 18 His descendants ◄settled/went to live► in the area between Shur and Havilah, near the border of Egypt as a person travels
 toward Asshur. All of their camps were close to each other (OR, they all frequently attacked each other).
 \s The birth of Esau and Jacob 
@@ -40,7 +40,7 @@ wife, and Yahweh answered his prayer. His wife Rebekah became pregnant.
 \v 22 There were two babies in her womb, and they kept jostling each other. So she said, “Why is it
 \add that this is happening to me\add*?” So she asked Yahweh about it.
 \v 23 Yahweh said to her, “The older one of the twins within you will serve the younger one. The twins will be ancestors of two
-nations. And those two people-groups will separate from each other.” [CHI]
+nations. And those two people-groups will separate from each other.” \f + \fr chiasmus \f*
 \p
 \v 24 When Rebekah gave birth, it was true! Twin boys were born!
 \v 25 The first one born was red, and his body had hair all over it, like a garment made of hair. So they named him Esau, which
@@ -60,7 +60,7 @@ name was Edom, which sounds like the Hebrew word that means 'red.')
 \v 31 Jacob said, “I will give you some if you sell me ◄your birthright/the privileges you have because you are the firstborn
 son►.” 
 \v 32 Esau replied, “Well, I am about to die from being so hungry.
-\add If I die now\add*, ◄my birthright will not benefit me./what good will my birthright be to me?►” [RHQ]
+\add If I die now\add*, ◄my birthright will not benefit me./what good will my birthright be to me?►” \f + \fr rhetorical question \f*
 \v 33 Jacob said, “◄Swear to/Solemnly promise► me that you are giving me your birthright!” So that is what Esau did. He sold
 his birthright to Jacob. 
 \v 34 Then Jacob gave to Esau some bread and some stew made of lentils/beans. Esau ate and drank, and then he got up and left.

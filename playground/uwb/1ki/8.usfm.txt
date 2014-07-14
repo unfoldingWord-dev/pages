@@ -10,7 +10,7 @@ part of the city called 'the City of David'.
 \v 3 When they had all arrived, the priests lifted up the Sacred Chest
 \v 4 and brought it to the temple. The descendants of Levi \add who assisted the
 priests\add* helped them to carry to the temple the Sacred Tent and all the sacred things that had been in the tent.
-\v 5 Then King Solomon and many of [HYP] the Israeli people who had gathered in front of Yahweh's Sacred Chest. And they
+\v 5 Then King Solomon and many of \f + \fr hyperbole \f* the Israeli people who had gathered in front of Yahweh's Sacred Chest. And they
 sacrificed a huge amount of sheep and oxen. No one was able to count the sacrifices
 \add because there were very many\add*. 
 \p
@@ -36,7 +36,7 @@ Yahweh ◄made an agreement with the people/told the people what he wanted them 
 \p
 \v 14 Then, while all the people stood there, the king turned around and faced them, and he
 \add asked God to\add* bless them. 
-\v 15 He said, “Praise Yahweh, the God whom we Israelis \add belong\add*! By his own power [MTY] he has done what he promised
+\v 15 He said, “Praise Yahweh, the God whom we Israelis \add belong\add*! By his own power \f + \fr metonymy \f* he has done what he promised
 to my father David. What he promised was this: 
 \pi
 \v 16 From the time that I brought my people out of Egypt, I have never chosen any city in Israel in which a temple should be
@@ -46,10 +46,10 @@ built for my people to worship me there. But I chose you, David, to rule my peop
 worship Yahweh our God there. 
 \v 18 But Yahweh said to him, ‘You have wanted to build a temple for me, and what you wanted to do was good.
 \v 19 However, I you are not the one not \add who I want\add* to build it. It is one of your sons, who
-\add I want to\add* build a [MTY] temple for me.’ 
+\add I want to\add* build a \f + \fr metonymy \f* temple for me.’ 
 \p
 \v 20 And now Yahweh has done what he promised to do. I have become the king of Israel to succeed my father, and I am ruling my
-people, like Yahweh promised. I have \add arranged for\add* this temple to be built for us Israelis to worship Yahweh [MTY],
+people, like Yahweh promised. I have \add arranged for\add* this temple to be built for us Israelis to worship Yahweh \f + \fr metonymy \f*,
 the God, to whom we Israelis belong. 
 \v 21 I have also provided a place \add in the temple\add* for the Sacred Chest in which are the two stone tablets
 \add on which are engraved the Ten Commandments of\add* the agreement that Yahweh made with our ancestors when he brought them
@@ -65,20 +65,20 @@ do what you want us to do.
 \pi
 \v 24 You have done the things that you promised my father David, who served you
 \add very well\add*, that you would do. Truly, you promised to do these things for him, and today we see that by your power
-[MTY] you have today. 
+\f + \fr metonymy \f* you have today. 
 \pi
 \v 25 So now, Yahweh, the God whom we Israelis \add worship/belong
 to\add*, please do the things that you promised my father that you would do. You told him that there would always be some of
-his descendants who would rule[MTY] Israel, if they would conduct their lives as he did.
+his descendants who would rule\f + \fr metonymy \f* Israel, if they would conduct their lives as he did.
 \v 26 So now, God of us Israeli people, cause what you promised to do for my father David, who served you
 \add well\add*, to happen. 
 \pi
-\v 27 But God, ◄will you really live on the earth among people?/you cannot really live on the earth.► [RHQ] There is surely not
-[RHQ] enough space for you in the sky, or even in the heaven. So there is surely not [RHQ] enough space for you to live in this
+\v 27 But God, ◄will you really live on the earth among people?/you cannot really live on the earth.► \f + \fr rhetorical question \f* There is surely not
+\f + \fr rhetorical question \f* enough space for you in the sky, or even in the heaven. So there is surely not \f + \fr rhetorical question \f* enough space for you to live in this
 temple that my workers have built. 
 \v 28 But Yahweh, my God, please listen to me while I am praying to you this day,
-\v 29 Please be protecting [MTY] this temple night and day. This is the place about which you have said, ‘I [MTY] will always
-be there [MTY].’ I request that you listen to me whenever I turn my face toward this temple and pray.
+\v 29 Please be protecting \f + \fr metonymy \f* this temple night and day. This is the place about which you have said, ‘I \f + \fr metonymy \f* will always
+be there \f + \fr metonymy \f*.’ I request that you listen to me whenever I turn my face toward this temple and pray.
 \v 30 I request that when I pray to you and your people pray to you while they turn their faces toward this place, that in your
 home in heaven you will hear us and forgive us \add for the sins that we have
 committed\add*. 
@@ -90,14 +90,14 @@ be punished, and declare that the other person ◄is innocent/has not done what 
 \pi
 \v 33 And when your Israeli people are defeated by their enemies
 \add in a battle\add* because they have sinned against you, \add and if they are forced to go to some distant
-country\add*, if they turn away from their sinful behavior and turn toward this temple and acknowledge/admit that you [MTY]
+country\add*, if they turn away from their sinful behavior and turn toward this temple and acknowledge/admit that you \f + \fr metonymy \f*
 \add have justly punished them\add*, and if they plead \add that you will forgive
 them\add*, 
 \v 34 listen to them from heaven, and forgive your Israeli people for the sins that they
 \add have committed\add*, and bring them back to this land that you gave to our ancestors.
 \pi
 \v 35 And when you do not allow any rain to fall [DOU, MTY] on the land because your people have sinned against you, if they
-turn toward this temple and admit that you [MTY] \add have justly punished
+turn toward this temple and admit that you \f + \fr metonymy \f* \add have justly punished
 them\add*, if they turn away from their sinful behavior and \add humbly\add* pray to you,
 \v 36 listen to them in heaven, and forgive your Israeli people for the sins
 \add that they have committed\add*. Teach them the right way to conduct their lives. Then send rain on this land that you have
@@ -107,42 +107,42 @@ given to your people to belong to them \add permanently\add*.
 sick►, or if \add their crops are destroyed by\add* ◄blight/very hot winds► or by mildew or by locusts or grasshoppers, or when
 their enemies surround any of their cities \add in order to attack
 them\add*, if any of those bad things happen to them, 
-\v 38 when your Israeli people earnestly plead [DOU] with you knowing in their inner beings that they are suffering
+\v 38 when your Israeli people earnestly plead \f + \fr doublet \f* with you knowing in their inner beings that they are suffering
 \add because they have sinned\add*, and if they stretch out their arms toward this temple and pray,
 \v 39 listen to them from your home in heaven, and forgive them, and help them. You are the only one who knows what people are
-thinking [MTY], so act toward each person as he deserves, 
+thinking \f + \fr metonymy \f*, so act toward each person as he deserves, 
 \v 40 in order that your people may then have an awesome respect for you, all the years that they live in this land that you
 gave to our ancestors. 
 \pi
 \v 41-42 There will be some foreigners who do not belong to your Israeli people who have come here from countries far away
-because they have heard that you are very great and that you [MTY] perform great miracles [MTY]. If they come here to this
-temple to worship you [MTY] and prays, 
+because they have heard that you are very great and that you \f + \fr metonymy \f* perform great miracles \f + \fr metonymy \f*. If they come here to this
+temple to worship you \f + \fr metonymy \f* and prays, 
 \v 43 in your home in heaven, listen to his prayer, and do for them what they request you to do. Do that in order that all the
 people-groups in the world will know about you and revere you, like we your Israeli people do. And then they will know that
-this temple that I have \add caused to be\add* built to honor you [MTY],
+this temple that I have \add caused to be\add* built to honor you \f + \fr metonymy \f*,
 \add and is where you should be worshiped\add*. 
 \pi
 \v 44 And if you send your people to go to fight against their enemies, if they pray to you, wherever they are, if they turn
 toward this city that you have chosen and toward this temple that I have caused to be built for you,
 \v 45 listen in heaven to their prayers; listen to what they plead for you to do, and assist them.
 \pi
-\v 46  \add It is true that\add* everyone sins [LIT]. So, if your people sin against you, and you become angry with them, you
+\v 46  \add It is true that\add* everyone sins \f + \fr litotes \f*. So, if your people sin against you, and you become angry with them, you
 may allow their enemies to defeat them and capture them and take them away to their enemies' country, even to countries that
 are far away. 
 \v 47 If that happens, while they are in those countries to which they were forced to go, if they sincerely repent and plead
-with you there saying ‘We have sinned and have done things that are very wicked [DOU],’
+with you there saying ‘We have sinned and have done things that are very wicked \f + \fr doublet \f*,’
 \v 48 if they very truly and sincerely repent, and turn toward this land that you gave to our ancestors, and toward this city
 that you have chosen \add to be the place where we should worship
 you\add*, and toward this temple that I have \add caused to be\add* built for you,, and pray,
 \v 49 then from your home in heaven listen to them while they plead
 \add for your help\add*, and assist them. 
-\v 50 Forgive them for all the sins [DOU] that they \add have committed\add* against you and cause their enemies to act kindly
+\v 50 Forgive them for all the sins \f + \fr doublet \f* that they \add have committed\add* against you and cause their enemies to act kindly
 toward them. 
 \v 51 Do not forget that the Israelis are your people; they are your special possession; you brought
 \add our ancestors\add* out of Egypt where \add they were greatly suffering as
 though\add* they were in a blazing furnace. 
 \pi
-\v 52 I request that you always listen to [MTY] your Israeli people and to their king, and heed their prayers whenever they
+\v 52 I request that you always listen to \f + \fr metonymy \f* your Israeli people and to their king, and heed their prayers whenever they
 call out to you \add to help them\add*. 
 \v 53 You chose them from all the other people-groups in the world to belong to you, which is what you told Moses to tell them
 when you brought our ancestors out of Egypt.” 
@@ -156,9 +156,9 @@ when you brought our ancestors out of Egypt.”
 \v 56 “Praise Yahweh, who has given us his people peace, like he promised that he would do. He has done every one of the good
 things that he promised to Moses, the man who served him \add very
 well\add*. 
-\v 57 I pray that our God will be with us like he was with our ancestors, and that he will never, never abandon us [DOU].
-\v 58 I pray that he will cause us [SYN] to loyally serve [IDI] him, to conduct our lives as he wants us to, and to obey all
-his commandments and statutes and laws [DOU] that he gave to our ancestors.
+\v 57 I pray that our God will be with us like he was with our ancestors, and that he will never, never abandon us \f + \fr doublet \f*.
+\v 58 I pray that he will cause us \f + \fr synecdoche \f* to loyally serve [IDI] him, to conduct our lives as he wants us to, and to obey all
+his commandments and statutes and laws \f + \fr doublet \f* that he gave to our ancestors.
 \v 59 I pray that Yahweh our God will never forget these words that I have prayed, pleading for his help; I pray that he will
 think about them by day and by night. I pray that he will always act mercifully toward us Israeli people and toward our king,
 giving us the things that we need day by day. 

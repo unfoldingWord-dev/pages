@@ -3,13 +3,13 @@
 \p
 \v 1 Then Elihu \add continued by\add* saying this: 
 \q
-\v 2 “You men who \add think that you\add* [SAR] are very wise, hear me;
+\v 2 “You men who \add think that you\add* \f + \fr sarcasm \f* are very wise, hear me;
 \q2 listen to what I am saying, you men who \add say that\add* you know so much.
 \q
-\v 3 And when we [SYN] hear what other people \add like you\add* say,
-\q2 we [RHQ] think carefully about what they say \add to determine what is good and what is
+\v 3 And when we \f + \fr synecdoche \f* hear what other people \add like you\add* say,
+\q2 we \f + \fr rhetorical question \f* think carefully about what they say \add to determine what is good and what is
 bad\add*, 
-\q2 like we [SYN] taste food \add to determine what is good\add*.
+\q2 like we \f + \fr synecdoche \f* taste food \add to determine what is good\add*.
 \q
 \v 4 We need to decide \add who is saying\add* what is right 
 \q2 and to determine among ourselves what is good/best. 
@@ -23,7 +23,7 @@ bad\add*,
 \q2 he has caused me to suffer, and I will certainly die.’ 
 \q
 \v 7 ◄Is there any person like Job, who insults others as easily as people accept a drink of water?/There is no person like
-Job, who insults others as easily as people accept a drink of water.► [RHQ]
+Job, who insults others as easily as people accept a drink of water.► \f + \fr rhetorical question \f*
 \q
 \v 8 He habitually associates with people who do what is evil 
 \q2 and spends time with wicked people. 
@@ -32,16 +32,16 @@ Job, who insults others as easily as people accept a drink of water.► [RHQ]
 \b
 \q
 \v 10 So, you men who \add claim that you\add* understand everything, listen to me!
-\q Almighty God would never consider doing anything that is wicked or wrong [DOU]!
+\q Almighty God would never consider doing anything that is wicked or wrong \f + \fr doublet \f*!
 \q
 \v 11 He ◄pays back/punishes► people for what they have done; 
 \q2 he gives them what they deserve for the way that they have conducted their lives.
 \q
 \v 12 Truly, Almighty God never does what is wicked; 
-\q2 he always [LIT] does what is fair/just. 
+\q2 he always \f + \fr litotes \f* does what is fair/just. 
 \q
-\v 13 The authority that he has to rule everything on the earth, no one [RHQ] gave it to him;
-\q2 no one [RHQ] put him in control of the whole world. 
+\v 13 The authority that he has to rule everything on the earth, no one \f + \fr rhetorical question \f* gave it to him;
+\q2 no one \f + \fr rhetorical question \f* put him in control of the whole world. 
 \q2 \add He has always had that authority\add*. 
 \q
 \v 14 If he would take his spirit back to himself, 
@@ -53,7 +53,7 @@ Job, who insults others as easily as people accept a drink of water.► [RHQ]
 \v 16 So, \add Job\add*, if \add you say that you\add* understand everything,
 \q2 listen to what I am saying. 
 \q
-\v 17 God could certainly not [RHQ] govern the world if he hated doing what is fair/just.
+\v 17 God could certainly not \f + \fr rhetorical question \f* govern the world if he hated doing what is fair/just.
 \q2 So, will you condemn God, who is righteous and powerful, \add saying that what he has done is
 wrong\add*? 
 \q
@@ -66,13 +66,13 @@ wrong\add*?
 \q
 \v 20 They \add often\add* die suddenly; 
 \q2 he strikes them at midnight and they die; 
-\q2 he gets rid of mighty people without the help of any humans [SYN].
+\q2 he gets rid of mighty people without the help of any humans \f + \fr synecdoche \f*.
 \b
 \q
-\v 21 He sees [MTY] everything that people do; 
+\v 21 He sees \f + \fr metonymy \f* everything that people do; 
 \q2 \add when we walk\add*, he watches every step that we take. 
 \q
-\v 22 There is no gloom or darkness [DOU] that is very dark, 
+\v 22 There is no gloom or darkness \f + \fr doublet \f* that is very dark, 
 \q2 with the result that sinners can hide \add from God\add* in that darkness.
 \q
 \v 23 God does not \add need to\add* set a time 

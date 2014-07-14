@@ -3,8 +3,8 @@
 \p
 \v 1 One day Dinah, the daughter of Jacob and Leah, went to visit some of the women in that area.
 \v 2 Shechem, one of the sons of Hamor, who was descended from the Hiv people-group, saw her. He wanted her. So he grabbed her
-and forced her to have sex [EUP] with him. 
-\v 3 He [SYN] was very much attracted to her, and fell in love with her, and he tried to get her to love him.
+and forced her to have sex \f + \fr euphemism \f* with him. 
+\v 3 He \f + \fr synecdoche \f* was very much attracted to her, and fell in love with her, and he tried to get her to love him.
 \v 4 So Shechem said to his father Hamor, “Please get this girl for me. I want her to become my wife!”
 \p
 \v 5 Jacob very soon found out that his daughter Dinah had been disgraced/defiled. But his sons were in the fields with his
@@ -45,7 +45,7 @@ find land that they want, they can buy it. There is plenty of land for them to l
 daughters, and their young men can marry our daughters. 
 \v 22 But these men will agree to live among us and become one people-group with us only if all our males are circumcised, as
 they are. 
-\v 23 But if we do that, just think! Their livestock and their possessions and their other animals will become ours [RHQ]! So
+\v 23 But if we do that, just think! Their livestock and their possessions and their other animals will become ours \f + \fr rhetorical question \f*! So
 we should agree to do what they suggest, and then they will live among us!”
 \v 24 Shechem was the most respected person in his household, so all the men who were there at the city gate agreed to what
 Hamor and Shechem suggested. So every male in the city was circumcised.
@@ -65,4 +65,4 @@ was in the houses.
 people-group and everyone else who lives in this land will ◄hate me/say my name stinks►! I do not have many men to fight for
 us, so if they all gather together and come to me and attack us, they will destroy us and all our household!”
 \v 31 But they replied, “◄Should we have allowed Shechem to treat our sister like a prostitute?/We could not just let Shechem
-treat our sister like a prostitute!►” [RHQ] 
+treat our sister like a prostitute!►” \f + \fr rhetorical question \f* 

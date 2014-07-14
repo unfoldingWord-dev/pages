@@ -4,11 +4,11 @@
 \v 1 Yahweh, I have great troubles/difficulties, so I call out to you.
 \q
 \v 2 Yahweh, hear me, 
-\q2 while I call out to you [SYN] to help me! 
+\q2 while I call out to you \f + \fr synecdoche \f* to help me! 
 \b
 \q
 \v 3 Yahweh, if you kept a record of the sins that we have committed,
-\q2 not one of us [RHQ] would escape from being condemned \add and
+\q2 not one of us \f + \fr rhetorical question \f* would escape from being condemned \add and
 punished\add*! 
 \q
 \v 4 But you forgive us, 

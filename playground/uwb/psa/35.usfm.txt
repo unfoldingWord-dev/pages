@@ -4,10 +4,10 @@
 \v 1 Yahweh, fight against those who fight against me! 
 \q2 Fight with my enemies when they fight me! 
 \q
-\v 2 Be like a shield [DOU] to protect me 
+\v 2 Be like a shield \f + \fr doublet \f* to protect me 
 \q2 and come to help me! 
 \q
-\v 3 Lift up your spear [DOU] and \add throw it\add* at those who pursue me!
+\v 3 Lift up your spear \f + \fr doublet \f* and \add throw it\add* at those who pursue me!
 \q2 Promise me that you will enable me to defeat \add my enemies\add*.
 \b
 \q
@@ -31,9 +31,9 @@
 \v 9 Then I will rejoice in what you, Yahweh, have done for me, 
 \q2 I will be glad that you have rescued me. 
 \q
-\v 10 With my whole inner being [SYN] I will say, 
-\q2 “There is no one like Yahweh [RHQ]! 
-\q No one else can rescue helpless people from powerful people [RHQ].
+\v 10 With my whole inner being \f + \fr synecdoche \f* I will say, 
+\q2 “There is no one like Yahweh \f + \fr rhetorical question \f*! 
+\q No one else can rescue helpless people from powerful people \f + \fr rhetorical question \f*.
 \q2 No one else can rescue weak and needy people from those who want to rob them.”
 \b
 \q
@@ -61,7 +61,7 @@ them\add*.
 \v 17 Yahweh, how long will you only watch them doing this? 
 \q2 Rescue me from their attacking me; 
 \q Save me from being killed by these men who are attacking me 
-\q2 like [MET] lions \add that are attacking other animals\add*!
+\q2 like \f + \fr metaphor \f* lions \add that are attacking other animals\add*!
 \q
 \v 18 Then, when many of your people gather, 
 \q2 I will praise you 

@@ -18,9 +18,9 @@ Israelis to also sin. And the statue of the goddess Asherah remained in Samaria
 \v 7 Jehoahaz had only fifty men who rode on horses and ten chariots and 10,000 other soldiers, because the army of Syria had
 killed all the rest, walking over them like people walk on dirt.
 \p
-\v 8  \add If you want to read about\add* [RHQ] everything else that Jehoahaz did, you can read about it in the book called
+\v 8  \add If you want to read about\add* \f + \fr rhetorical question \f* everything else that Jehoahaz did, you can read about it in the book called
 'The History of the Kings of Israel.' 
-\v 9 Jehoahaz died [EUP] and was buried in Samaria. Then his son Jehoash became the king.
+\v 9 Jehoahaz died \f + \fr euphemism \f* and was buried in Samaria. Then his son Jehoash became the king.
 \s King Jehoash ruled Israel 
 \p
 \v 10 Jehoash, the son of Jehoahaz, started to rule in Israel after King Joash had been ruling in Judah for 23 years. Jehoash
@@ -65,7 +65,7 @@ your army would have defeated the Syrian \add army\add* until they were complete
 \p
 \v 22 King Hazael of Syria \add sent soldiers to\add* oppress the Israeli people all during the years that Jehoahaz
 \add ruled Judah\add*. 
-\v 23 But Yahweh was very kind [DOU] to the Israeli people. He helped them because of the agreement that he had made with
+\v 23 But Yahweh was very kind \f + \fr doublet \f* to the Israeli people. He helped them because of the agreement that he had made with
 \add their ancestors\add* Abraham, Isaac, and Jacob. He would not get rid of the Israelis, and he still has not rejected them.
 \p
 \v 24 When Hazael the king of Syria died, his son Ben-Hadad became the king.

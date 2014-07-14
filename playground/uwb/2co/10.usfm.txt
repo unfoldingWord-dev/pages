@@ -18,12 +18,12 @@ believers.
 else\add* in the world, I do not fight \add against those who oppose
 me\add* in the way that people who are not believers fight those who oppose them.
 \v 4  \add I will tell you what I mean by that: Just like soldiers
-use\add* various weapons \add to fight their enemies\add* [MET],
+use\add* various weapons \add to fight their enemies\add* \f + \fr metaphor \f*,
 \add I\add* ◄\add fight against/oppose\add*► \add those who\add* oppose God's message, but I do it in a different way. I do not
 \add use human arguments and clever/sweet talk\add*, like unbelievers do. Instead,
 \add I fight against my opponents\add* by the powerful means that God
 \add has given me\add*. With that power \add I destroy their arguments against God's message and against me, just like soldiers
-destroy\add* [MET] the fortresses \add of their enemies\add*. 
+destroy\add* \f + \fr metaphor \f* the fortresses \add of their enemies\add*. 
 \v 5  \add Specifically\add*, I show that the \add human\add* arguments that they use to deceive
 \add people are completely wrong\add*. When they \add proudly say things
 that\add* keep other people from knowing God, \add I show them that they are completely wrong. I also enable people
@@ -59,7 +59,7 @@ say\add* he is weak, and he certainly is not a skillful speaker.”
 I come. \add I will do what I wrote that I would do\add*. 
 \p
 \v 12  \add Those who oppose me\add* tell others how good they are.
-\add If they really were superior to me\add* [IRO], I would not be so bold as to say that I
+\add If they really were superior to me\add* \f + \fr irony \f*, I would not be so bold as to say that I
 \add was equal to them, or\add* to compare myself with them\add . But they are not superior to
 me\add*. They make up their own standards \add about what God's servants should be
 like\add*, and then they look at their own \add conduct\add* and decide

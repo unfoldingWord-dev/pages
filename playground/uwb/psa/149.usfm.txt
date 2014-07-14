@@ -22,7 +22,7 @@ enemies\add*.
 \q2 and sing joyfully all during the night! 
 \b
 \q
-\v 6 They [MTY] should shout loudly to praise God; 
+\v 6 They \f + \fr metonymy \f* should shout loudly to praise God; 
 \q2 but they should also hold sharp swords in their hands, 
 \q
 \v 7 ready to use them to defeat the \add soldiers of\add* nations

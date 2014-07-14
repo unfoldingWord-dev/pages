@@ -50,24 +50,24 @@
 \q2 they will enjoy the blessings that they will receive for their good deeds.
 \q
 \v 11 But terrible things will happen to wicked people; 
-\q2 they will be ◄paid back/punished► for \add the evil things that\add* [MTY] they have done.
+\q2 they will be ◄paid back/punished► for \add the evil things that\add* \f + \fr metonymy \f* they have done.
 \b
 \q
 \v 12 Now, youths \add who have become leaders\add* treat my people cruelly,
 \q2 and women rule over my people. 
 \q My people, your leaders are misleading you; 
-\q2 they are causing you to go down the wrong road [MET]. 
+\q2 they are causing you to go down the wrong road \f + \fr metaphor \f*. 
 \b
 \q
 \v 13  \add It is as though\add* Yahweh has sat in his place in a courtroom
 \q2 and is ready to judge his people. 
 \q
 \v 14 He will stand up to declare why the elders and rulers of his people should be punished:
-\q he says, “The people of Israel are like [MET] a vineyard that I planted,
+\q he says, “The people of Israel are like \f + \fr metaphor \f* a vineyard that I planted,
 \q2 but you have ruined it! 
 \q2 Your houses are full of things that you have stolen from poor people.
 \q
-\v 15 You should stop [RHQ] crushing my people! 
+\v 15 You should stop \f + \fr rhetorical question \f* crushing my people! 
 \q2 \add It is as though\add* you are pushing the faces of poor people into the dirt!”
 \q That is what the Almighty Commander of the armies of angels says.
 \s A warning to the women of Jerusalem 
@@ -101,5 +101,5 @@ captives\add*.
 \v 25 Their husbands will be killed by their enemies' swords, 
 \q2 and their soldiers will also die in battles. 
 \q
-\v 26 People [PRS] will mourn and cry at the gates \add of the city\add*.
-\q2 The city will \add be like\add* [MET] a woman who sits on the ground because everything that she owned is gone.
+\v 26 People \f + \fr personification \f* will mourn and cry at the gates \add of the city\add*.
+\q2 The city will \add be like\add* \f + \fr metaphor \f* a woman who sits on the ground because everything that she owned is gone.

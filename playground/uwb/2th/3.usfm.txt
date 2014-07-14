@@ -3,12 +3,12 @@
 \s Pray that more and more people will believe the message about our Lord Jesus.
 \p
 \v 1 As for the other matters, \add our\add* fellow believers, pray for us that more and more
-\add people will\add* hear [PRS] our message \add about our\add* Lord
+\add people will\add* hear \f + \fr personification \f* our message \add about our\add* Lord
 \add Jesus\add*. Pray that they will believe this message, as you
 \add have done\add*. 
 \v 2 Pray also for us that we will be rescued {that God will rescue us} from those very perverse/evil people
 \add here\add* who \add cause us to suffer. Pray like that\add* because
-\add they and many others\add* refuse to believe [LIT] \add this
+\add they and many others\add* refuse to believe \f + \fr litotes \f* \add this
 message\add*. 
 \s 2 Thessalonians 3:3-5 
 \s Our Lord Jesus will cause you to continue to be steadfast and he will protect you from the evil one.
@@ -25,7 +25,7 @@ obey what we are commanding \add you in this letter\add*.
 \s 2 Thessalonians 3:6-11 
 \s We command you to disassociate yourselves from every fellow believer who refuses to work.
 \p
-\v 6  \add Our\add* fellow believers, we command you, with the authority [MTY] that our Lord Jesus Christ
+\v 6  \add Our\add* fellow believers, we command you, with the authority \f + \fr metonymy \f* that our Lord Jesus Christ
 \add has given to us\add*, that you stop associating with every fellow believer who is lazy and refuses to work. That is, you
 must stay away from those who are not \add conducting their lives\add* in the manner that we taught you.
 \v 7  \add We tell you this\add* because you yourselves know that you should
@@ -34,7 +34,7 @@ must stay away from those who are not \add conducting their lives\add* in the ma
 living\add* among you. 
 \v 8 Specifically, we did not eat anyone's food if we did not pay
 \add that person\add* for it. Instead, we worked very hard ◄\add to support ourselves/to earn the money to buy what we
-needed\add*►. We worked hard [DOU] during the day and the night, in order that we would not have to depend on any of you
+needed\add*►. We worked hard \f + \fr doublet \f* during the day and the night, in order that we would not have to depend on any of you
 \add to supply what we needed\add*. 
 \v 9 We have always had the right \add to depend on you for money, but instead we worked hard in order to make
 ourselves\add* examples for you, in order that you should behave like we behave.
@@ -47,7 +47,7 @@ doing!\add*
 \s We command those fellow believers who are not working to support themselves by settling down and working.
 \p
 \v 12 We command those fellow believers who are not working, and urge
-\add them\add* by the authority [MTY] of our Lord Jesus Christ, that they settle down and ◄support themselves by working/work
+\add them\add* by the authority \f + \fr metonymy \f* of our Lord Jesus Christ, that they settle down and ◄support themselves by working/work
 to earn money to buy what they need►. 
 \s 2 Thessalonians 3:13 
 \s You others, do not stop doing what is right because you are discouraged.
@@ -71,7 +71,7 @@ situation/whatever happens►.
 \s In closing, I pray that our Lord Jesus will continue to bless you all. I, Paul, am greeting you and I am writing this myself
 in order that you may know that it is I who have sent this letter.
 \p I \add pray that our\add* Lord \add Jesus will continue to\add* help you all.
-\v 17 Now, having taken the pen from my scribe, I, Paul, am sending this greeting to you as I write this myself [SYN]. I do
+\v 17 Now, having taken the pen from my scribe, I, Paul, am sending this greeting to you as I write this myself \f + \fr synecdoche \f*. I do
 this in all my letters in order that you may know that it is truly I who have sent this letter. This is how I always end my
 letters. 
 \v 18 I pray that our Lord Jesus Christ will continue to act kindly to you all.

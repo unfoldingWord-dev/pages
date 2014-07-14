@@ -13,7 +13,7 @@ do\add*.
 \q You have trusted in \add the army of\add* the king of Egypt to protect you;
 \q you have \add trusted in them\add* 
 \q2 like people sit in the shade \add to protect themselves from the
-sun\add* [MET]. 
+sun\add* \f + \fr metaphor \f*. 
 \q
 \v 3 But the result of your trusting in the king of Egypt is that you will be
 \add disappointed and\add* disgraced; 
@@ -25,7 +25,7 @@ sun\add* [MET].
 \v 5 but all those \add who trust in the King of Egypt\add* will be humiliated,
 \q2 because that nation will not be able to help you; 
 \q the treaty that you have made \add requesting help from them\add* will be useless;
-\q2 instead, the result will be that you will be humiliated and disgraced [DOU].”
+\q2 instead, the result will be that you will be humiliated and disgraced \f + \fr doublet \f*.”
 \p
 \v 6  \add I received from Yahweh\add* this message about the animals in the southern part of Judah:
 \q That area is one where \add people experience a lot of\add* troubles and difficulties,
@@ -55,7 +55,7 @@ sun\add* [MET].
 \q Tell us pleasant things; 
 \q2 do not tell us visions about things that are true! 
 \q
-\v 11 Stop doing what you have been doing [DOU]; 
+\v 11 Stop doing what you have been doing \f + \fr doublet \f*; 
 \q2 stop telling us what the Holy One of Israel \add says to us\add*!”
 \p
 \v 12 Therefore, this is what the Holy One of Israel says: 
@@ -64,7 +64,7 @@ sun\add* [MET].
 \q
 \v 13 Therefore, the result of your sin \add of rejecting me\add* will be that you will
 \add suddenly experience disasters\add*; 
-\q2 what will happen to you will be like [SIM] a cracked wall that suddenly collapses [DOU].
+\q2 what will happen to you will be like \f + \fr simile \f* a cracked wall that suddenly collapses \f + \fr doublet \f*.
 \q
 \v 14 You will be smashed like a clay jar is smashed \add when it is
 dropped\add*, 
@@ -87,7 +87,7 @@ us\add*!’
 \v 17  \add As a result\add*, a thousand of you will flee when only one of them pursues you!
 \q When five of their soldiers threaten \add to kill you\add*, 
 \q2 all of you will flee. 
-\q \add Only a few of\add* you will be left, like [SIM] a single flagpole on top of a mountain
+\q \add Only a few of\add* you will be left, like \f + \fr simile \f* a single flagpole on top of a mountain
 \q2 with one signal flag on the pole.” 
 \b
 \q
@@ -97,10 +97,10 @@ us\add*!’
 \q2 he is pleased with those who patiently trust in him. 
 \s Yahweh will help his people 
 \p
-\v 19 You people who live in Jerusalem [DOU], \add some day\add* you will not cry anymore. Yahweh will be kind to you when you
+\v 19 You people who live in Jerusalem \f + \fr doublet \f*, \add some day\add* you will not cry anymore. Yahweh will be kind to you when you
 call out to him for help. He will answer/help you as soon as he hears you call.
-\v 20 Although now Yahweh has caused you to daily experience [MET] great troubles and suffer much, he, your teacher, will not
-hide himself from you. He [SYN] will teach you many things clearly.
+\v 20 Although now Yahweh has caused you to daily experience \f + \fr metaphor \f* great troubles and suffer much, he, your teacher, will not
+hide himself from you. He \f + \fr synecdoche \f* will teach you many things clearly.
 \v 21 And you will hear him speak to you to guide you. Right behind you he will say, “This is the road on which you should
 walk; walk on this road!” 
 \v 22 When that happens, you will destroy all your idols that are covered with silver or gold. You will throw them away like
@@ -114,31 +114,31 @@ harvests, and plenty of big fields with grass for your cattle to eat.
 will be streams flowing down every hill and mountain \add in Judah\add*.
 \v 26 The moon will seem to shine as brightly as the sun, and the sun will seem to shine seven times as brightly as previously.
 That is what it will be like when Yahweh causes \add the suffering
-of\add* his people \add to cease; it will be as though\add* [MET] he will be putting bandages on their wounds and healing them.
+of\add* his people \add to cease; it will be as though\add* \f + \fr metaphor \f* he will be putting bandages on their wounds and healing them.
 \b
 \q
 \v 27  \add It is as though\add* we see Yahweh coming from far away;
 \q2 he is extremely angry, 
 \q and there are thick clouds of smoke around him. 
-\q2 By what he says [MTY] he shows that he is angry; 
-\q2 what he says is like [SIM] a devastating/destructive fire. 
+\q2 By what he says \f + \fr metonymy \f* he shows that he is angry; 
+\q2 what he says is like \f + \fr simile \f* a devastating/destructive fire. 
 \q
-\v 28 His breath is like [SIM] a flood that covers \add his enemies\add* up to their necks.
-\q2 He will separate [MET] the nations in order to destroy some of them;
+\v 28 His breath is like \f + \fr simile \f* a flood that covers \add his enemies\add* up to their necks.
+\q2 He will separate \f + \fr metaphor \f* the nations in order to destroy some of them;
 \q2 \add it is as though\add* he will put hooks in their mouths and take them away.
 \q
 \v 29 But \add his people\add* will sing joyfully 
 \q2 like they sing during the nights when they celebrate a holy festival.
 \q They will be very joyful, 
-\q2 like [SIM] \add a large group of his people\add* are joyful when they go up to Zion Hill in Jerusalem,
+\q2 like \f + \fr simile \f* \add a large group of his people\add* are joyful when they go up to Zion Hill in Jerusalem,
 \q along with men playing flutes 
 \q \add when they are all going there to worship Yahweh\add*. 
-\q2 He is like [MET] a huge rock under which we Israeli people \add are
+\q2 He is like \f + \fr metaphor \f* a huge rock under which we Israeli people \add are
 safe\add*. 
 \q
 \v 30 And Yahweh will enable us to hear him speaking powerfully/majestically.
-\q2 He will show us that he [SYN] is very powerful. 
-\q We will see him [SYN] smash \add his enemies\add*. 
+\q2 He will show us that he \f + \fr synecdoche \f* is very powerful. 
+\q We will see him \f + \fr synecdoche \f* smash \add his enemies\add*. 
 \q2 Being very angry, he will descend with a big rainstorm and thunder and hail
 \add to punish them\add*. 
 \q

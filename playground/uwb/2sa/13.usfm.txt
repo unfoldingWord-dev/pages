@@ -2,14 +2,14 @@
 \s Amnon raped Absalom's sister 
 \p
 \v 1 David's son Absalom had a beautiful half-sister named Tamar. Another of David's sons, Amnon, was attracted to Tamar.
-\v 2 He wanted \add to have sex with\add* [EUP] his half-sister very much, with the result that he felt sick. But it was not
+\v 2 He wanted \add to have sex with\add* \f + \fr euphemism \f* his half-sister very much, with the result that he felt sick. But it was not
 possible for Amnon to get her, because she was a virgin, \add so they kept men away from
 her\add*. 
 \p
 \v 3 But Amnon had a friend named Jonadab, who was the son of David's brother Shimeah. Jonadab was a very crafty/shrewd man.
 \p
-\v 4  \add One day\add* Jonadab said to Amnon, “You are the king's son, but every day I see that [RHQ] you seem very
-depressed/sad. What is your problem?” Amnon replied, “I ◄am in love/want to sleep► [EUP] with Tamar, my half-brother Absalom's
+\v 4  \add One day\add* Jonadab said to Amnon, “You are the king's son, but every day I see that \f + \fr rhetorical question \f* you seem very
+depressed/sad. What is your problem?” Amnon replied, “I ◄am in love/want to sleep► \f + \fr euphemism \f* with Tamar, my half-brother Absalom's
 sister.” 
 \p
 \v 5 Jonadab said to him, “Lie down on your bed, and pretend that you are sick. When your father comes to see you, say to him,
@@ -33,7 +33,7 @@ scones/dumplings that she had made.
 \p
 \v 12 She replied, “No, do not force me to do such a disgraceful thing! We never do things like that in Israel! That would be
 awful/terrible! 
-\v 13 As for me, if I did that, I would not be able to [RHQ] endure being disgraced by having done that. And as for you,
+\v 13 As for me, if I did that, I would not be able to \f + \fr rhetorical question \f* endure being disgraced by having done that. And as for you,
 everyone in Israel would condemn you for having done such a disgraceful deed. So I plead with you, talk to the king. I am sure
 that he will allow me to marry you.” 
 \v 14 But he would not heed her. He was stronger than she was, so he forced her to have sex with him.
@@ -53,8 +53,8 @@ the king at that time.
 \add to show that she was very sad\add*. Then she put her hands on her head
 \add to show that she was grieving\add*, and she went away, crying.
 \p
-\v 20 Her brother Absalom \add saw her and\add* said to her, “Has your half-brother Amnon [DOU] forced you to have sex with him
-[EUP]? Please, my sister, do not tell anyone (OR, do not become depressed/sad).” So Tamar went to live in Absalom's house, and
+\v 20 Her brother Absalom \add saw her and\add* said to her, “Has your half-brother Amnon \f + \fr doublet \f* forced you to have sex with him
+\f + \fr euphemism \f*? Please, my sister, do not tell anyone (OR, do not become depressed/sad).” So Tamar went to live in Absalom's house, and
 she was very sad and lonely. 
 \p
 \v 21 When King David heard about all this, he became very angry.
@@ -78,7 +78,7 @@ hoped/desired that God would bless \add them while they celebrated\add*.
 \p
 \v 28  \add So they all went. And at the celebration\add*, Absalom commanded his servants, “Notice when Amnon has become a bit
 drunk from the wine. Then when I signal to you, kill him. Do not be afraid; you will be doing this
-\add only\add* because I told you [RHQ] to do it. So be courageous and do it!”
+\add only\add* because I told you \f + \fr rhetorical question \f* to do it. So be courageous and do it!”
 \v 29 So Absalom's servants did what Absalom told them to do. \add They killed
 Amnon\add*. All the rest of David's sons \add saw what happened and\add* fled, riding on their mules.
 \p
@@ -89,7 +89,7 @@ sad\add*, and then he threw himself down on the ground. All the servants who wer
 \p
 \v 32 But Jonadab, the son of David's brother Shimeah, said, “Your Majesty,
 \add I am sure that\add* they have not killed all your sons. \add I am sure
-that\add* only Amnon is dead, because Absalom has determined to do this ever since the day that Amnon raped [EUP] his
+that\add* only Amnon is dead, because Absalom has determined to do this ever since the day that Amnon raped \f + \fr euphemism \f* his
 half-sister Tamar. 
 \v 33 So, your majesty, do not believe the report that all your sons are dead.
 \add I am sure that\add* only Amnon is dead.” 

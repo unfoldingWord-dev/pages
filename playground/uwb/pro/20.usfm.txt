@@ -4,7 +4,7 @@
 \q2 it is foolish to become drunk/intoxicated. 
 \b
 \q
-\v 2 Being afraid of a king when he is angry is like [SIM] being afraid of a lion when it growls/roars;
+\v 2 Being afraid of a king when he is angry is like \f + \fr simile \f* being afraid of a lion when it growls/roars;
 \q2 if you cause the king to become angry, he will execute you. 
 \b
 \q
@@ -23,7 +23,7 @@ time\add*,
 \q
 \v 6 Many people proclaim that they can be trusted \add to do what they say that they will
 do\add*, 
-\q2 but it is very difficult to find [RHQ] someone who can really be trusted.
+\q2 but it is very difficult to find \f + \fr rhetorical question \f* someone who can really be trusted.
 \b
 \q
 \v 7 If parents conduct their lives as they should, 
@@ -31,10 +31,10 @@ do\add*,
 \b
 \q
 \v 8 A king who sits on his throne to judge people 
-\q2 can \add easily\add* [MTY] find out what things that people have done are good and what things are evil.
+\q2 can \add easily\add* \f + \fr metonymy \f* find out what things that people have done are good and what things are evil.
 \b
 \q
-\v 9 There is no one [RHQ] who can truthfully say, “I do not know of any wrong things that I have done;
+\v 9 There is no one \f + \fr rhetorical question \f* who can truthfully say, “I do not know of any wrong things that I have done;
 \q2 I have ◄gotten rid of all my sinful behavior/quit doing what is sinful►.”
 \b
 \q
@@ -62,10 +62,10 @@ price\add*.
 \b
 \q
 \v 15 Gold and precious stones are \add valuable\add*, 
-\q2 but wise words [MTY] are more valuable. 
+\q2 but wise words \f + \fr metonymy \f* are more valuable. 
 \b
 \q
-\v 16 If you foolishly promise to a stranger that you will pay what he owes if he is unable to pay it [DOU],
+\v 16 If you foolishly promise to a stranger that you will pay what he owes if he is unable to pay it \f + \fr doublet \f*,
 \q2 \add you deserve to\add* have someone take your coat from you.
 \b
 \q
@@ -101,19 +101,19 @@ suggest\add*, your plans will succeed;
 \q
 \v 24 Yahweh is the one who has decided what will happen to us, 
 \q2 so ◄how can we ‘understand/know’ what will happen before it happens?/we humans certainly cannot ‘understand/know’ what will
-happen before it happens.► [RHQ] 
+happen before it happens.► \f + \fr rhetorical question \f* 
 \b
 \q
 \v 25 You should think carefully before you solemnly promise to dedicate something to God,
 \q2 because later you might be sorry you have promised to do it.
 \b
 \q
-\v 26 Wise kings find out [MET] which people have done what is wrong,
+\v 26 Wise kings find out \f + \fr metaphor \f* which people have done what is wrong,
 \q2 and they punish them very severely [IDI]. 
 \b
 \q
 \v 27 Our consciences are like lamps that Yahweh \add has given to us to enable us to know what is in our inner
-beings\add* [MET]; 
+beings\add* \f + \fr metaphor \f*; 
 \q2 they reveal what is hidden deep in our ◄minds/inner beings►.
 \b
 \q
@@ -122,7 +122,7 @@ beings\add* [MET];
 \b
 \q
 \v 29 We honor/admire young people because they are strong, 
-\q2 but we respect [MTY] old people more because they are wise. 
+\q2 but we respect \f + \fr metonymy \f* old people more because they are wise. 
 \b
 \q
 \v 30 When we are beaten or whipped, it can cause us to quit doing what is evil in our lives;

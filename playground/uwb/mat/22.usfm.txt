@@ -5,7 +5,7 @@
 \v 1 Then Jesus told \add the Jewish leaders\add* other parables
 \add in order to illustrate what will happen to the people who do not accept him as the King God promised to
 send\add*. \add This is one of those parables:\add* 
-\v 2 “\add God\add* [MTY/EUP] \add is like\add* a king [SIM] who
+\v 2 “\add God\add* [MTY/EUP] \add is like\add* a king \f + \fr simile \f* who
 \add told his servants that they should\add* make a wedding feast for his son.
 \v 3  \add When\add* the feast\add was ready\add*, the king sent his servants to tell the people who had been {whom he had}
 invited that it was time for them to come to the wedding feast. \add The servants did
@@ -36,7 +36,7 @@ clothes \add that had been provided for the guests to wear\add* at a wedding
 \add feast\add*. 
 \v 12 The king said to him, ‘Friend, ◄you should never have entered this hall, because you are not wearing the clothes
 \add that guests wear\add* at wedding \add feasts\add*!/how did you enter this hall, because you are not wearing the clothes
-\add that are appropriate for guests to wear\add* at a wedding \add feast\add*?► [RHQ]’ The man did not say anything,
+\add that are appropriate for guests to wear\add* at a wedding \add feast\add*?► \f + \fr rhetorical question \f*’ The man did not say anything,
 \add because he did not know what to say\add*. 
 \v 13 Then the king said to his attendants, ‘Tie this person's feet and hands and throw him outside where there is total
 darkness. People who are there cry out \add because they are suffering\add* and they gnash their teeth
@@ -54,13 +54,13 @@ authorities required them to pay\add*. They also sent some members of the party 
 \add The members of that party thought that the Israelites should pay only the tax that the Roman government required them to
 pay\add*. \add Those who were sent came and\add* said to Jesus, “Teacher, we know that you are truthful and that you teach the
 truth about what God wants\add us to do\add*. We also know that you do not change what you teach because of what someone says
-about you, even if it is an important person who does not like what you [IDM] teach.
-\v 17 So tell us what you think [RHQ] \add about this matter\add*: Is it right that we pay taxes to the Roman government [MTY],
+about you, even if it is an important person who does not like what you \f + \fr idiom \f* teach.
+\v 17 So tell us what you think \f + \fr rhetorical question \f* \add about this matter\add*: Is it right that we pay taxes to the Roman government \f + \fr metonymy \f*,
 or not?” 
 \v 18 But Jesus knew that what they really wanted to do was evil.
 \add They were wanting him to say something that would get him in trouble with either the Jewish authorities or the Roman
 authorities. So he said to them\add*, “You are ◄hypocrites/pretending to ask a legitimate question►, but you are just wanting
-[RHQ] me to say something for which you can accuse me. 
+\f + \fr rhetorical question \f* me to say something for which you can accuse me. 
 \v 19 Show me \add one of\add* the coins with \add which people pay\add*
 the\add Roman\add* tax.” So they showed him \add a coin called\add* a denarius.
 \v 20 He said to them, “Whose picture is \add on\add* this \add coin\add*? And
@@ -99,7 +99,7 @@ because\add* after \add God causes all dead\add* people\add to\add* live again, 
 \add people\add* will be like the angels in heaven. \add They do not
 marry\add*. 
 \v 31 But as to dead people becoming alive again, God said something about that. ◄I'm sure you have read it./Have you not read
-it?► [RHQ] \add Long after Abraham, Isaac, and Jacob had died, God said to
+it?► \f + \fr rhetorical question \f* \add Long after Abraham, Isaac, and Jacob had died, God said to
 Moses\add*, 
 \v 32 ‘I am the God whom Abraham \add worships\add* and the God whom Isaac
 \add worships\add* and the God whom Jacob worships.’ It is not dead people who worship God. It is living people who worship
@@ -119,7 +119,7 @@ Moses\add*. He wanted to see if Jesus \add could answer\add* his question well
 \add or if he would say something wrong\add*. He asked him, 
 \v 36 “Teacher, which commandment in the laws \add that God gave
 Moses\add* is the most important?” 
-\v 37 Jesus \add quoted the Scriptures as he replied\add*, “‘You must love the Lord your God with all [IDM] your ◄inner
+\v 37 Jesus \add quoted the Scriptures as he replied\add*, “‘You must love the Lord your God with all \f + \fr idiom \f* your ◄inner
 being/heart►. \add Show that you love him\add* in all that you desire, in all that you feel, and in all that you think.’
 \v 38 That is the most important commandment \add in the laws that God gave
 Moses\add*. 
@@ -137,13 +137,13 @@ Scriptures\add* and also of all that the prophets \add wrote\add*.”
 \v 43 Jesus said to them, “\add If the Messiah is King David's descendant\add*, then ◄David should not have called him ‘Lord’
 when David was saying \add what\add* the \add Holy\add* Spirit \add prompted him
 to\add* say./Why did David call the Messiah ‘Lord’ when David was speaking
-\add what\add* the \add Holy\add* Spirit \add prompted him to\add* say?► [RHQ]
+\add what\add* the \add Holy\add* Spirit \add prompted him to\add* say?► \f + \fr rhetorical question \f*
 \v 44  \add David wrote this in the Scriptures about the Messiah\add*: ‘God said to my Lord, “Sit
 \add here beside me\add* on my right, \add where I will greatly honor
-you\add* [MTY]. \add Sit here\add* while I completely defeat your enemies [MTY].”’
+you\add* \f + \fr metonymy \f*. \add Sit here\add* while I completely defeat your enemies \f + \fr metonymy \f*.”’
 \v 45 So, since \add King\add* David called \add the Messiah\add* ‘my Lord’,
 ◄\add the Messiah\add* cannot be \add just someone\add* descended from David!/how can he be
-\add only\add* the descendant of \add King\add* David?► [RHQ] \add He must be much greater than
+\add only\add* the descendant of \add King\add* David?► \f + \fr rhetorical question \f* \add He must be much greater than
 David\add*!” 
 \v 46 No one \add who heard what Jesus said\add* was able to think of even one word to say to him
 \add in response\add*. And after that, no one else ever dared to ask him another question

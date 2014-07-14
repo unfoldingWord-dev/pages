@@ -3,7 +3,7 @@
 \s Jewish leaders arrested Peter and John, but many people became believers.
 \p
 \v 1  \add Meanwhile, in the temple courtyard, there were some\add* priests, the officer who was in charge of the temple
-police, and \add also some\add* [SYN] Sadducee \add sect members\add*. These men came to Peter and John while the two of them
+police, and \add also some\add* \f + \fr synecdoche \f* Sadducee \add sect members\add*. These men came to Peter and John while the two of them
 were speaking to the people. 
 \v 2 These men were very angry, because the \add two\add* apostles were teaching the people
 \add about Jesus\add*. What they were telling them was that because
@@ -26,9 +26,9 @@ they\add* gathered together \add in one place\add* in Jerusalem.
 \v 6 Annas, \add the former\add* high priest, Caiaphas \add who was the new high
 priest\add*, \add two other former high priests whose names were\add* John and Alexander, and other men who were related to the
 high priest \add were there\add*. 
-\v 7 They \add commanded guards to\add* bring Peter and John into the courtroom [MTY] and have them stand in front of them.
+\v 7 They \add commanded guards to\add* bring Peter and John into the courtroom \f + \fr metonymy \f* and have them stand in front of them.
 \add Then one of\add* the leaders questioned \add the two of\add* them, saying, “Who
-\add do you two claim\add* gave you the power \add to heal this man\add*? And who authorized [MTY] you to do this [DOU]?”
+\add do you two claim\add* gave you the power \add to heal this man\add*? And who authorized \f + \fr metonymy \f* you to do this \f + \fr doublet \f*?”
 \s Acts 4:8-12 
 \s Peter told them that Jesus healed the man and only Jesus could save people.
 \p
@@ -38,15 +38,15 @@ high priest \add were there\add*.
 \v 9 Today you are questioning us concerning our performing a good deed for a man who was crippled, and you asked us how he
 became healed. 
 \v 10 So \add we(exc) want\add* you and all \add of our other\add* fellow Israelites to know this: It is because Jesus the
-Messiah [MTY] from Nazareth healed him that this man is able to stand before you.
+Messiah \f + \fr metonymy \f* from Nazareth healed him that this man is able to stand before you.
 \add God considers that\add* it was you who nailed Jesus to a cross, but God caused him to become alive again.
 \v 11  \add In the Psalms this was written about the Messiah:\add*
-\q He is \add like\add* [MET] the stone that was rejected by the builders {that the builders rejected}.
+\q He is \add like\add* \f + \fr metaphor \f* the stone that was rejected by the builders {that the builders rejected}.
 \q But that stone became the most important stone in the building
 \add that they were building\add*. 
 \p \add Jesus is that stone, and\add* you \add are those builders who threw away the stone that was the most important
 one\add*. 
-\v 12 So he alone can save us [MTY]. \add God\add* has sent only one person [MTY] into the world who can save us
+\v 12 So he alone can save us \f + \fr metonymy \f*. \add God\add* has sent only one person \f + \fr metonymy \f* into the world who can save us
 \add from the guilt of our sins, and that person is Jesus!\add*”
 \s Acts 4:13-14 
 \s The Jewish leaders realized that Peter and John had been associating with Jesus.
@@ -65,15 +65,15 @@ leaders were amazed, and they realized that these men had associated with Jesus.
 \add about Peter and John\add*. 
 \v 16  \add Being frustrated, one after another\add*, said, “◄There is really nothing that we can do to
 \add punish\add* these \add two\add* men!/How can we\add (inc)\add* do anything to
-\add punish\add* these \add two\add* men?► [RHQ] Almost everyone [HYP] who is living in Jerusalem knows that they have done an
+\add punish\add* these \add two\add* men?► \f + \fr rhetorical question \f* Almost everyone \f + \fr hyperbole \f* who is living in Jerusalem knows that they have done an
 amazing miracle, so we cannot tell people that it did not happen!
 \v 17 However, \add we\add* must not allow other people to hear about
 \add this miracle\add*. So we must tell these men that \add we will punish them if
-they\add* continue to tell other people about this [MTY] man \add who they say gave them the power to do
+they\add* continue to tell other people about this \f + \fr metonymy \f* man \add who they say gave them the power to do
 it\add*.” 
 \v 18 So the Jewish leaders \add commanded guards\add* to bring the two apostles
 \add into that room again. After they did so\add*, they \add commanded\add* them both that they should never speak about Jesus,
-and they should not teach \add anyone about him\add* [MTY] \add again\add*.
+and they should not teach \add anyone about him\add* \f + \fr metonymy \f* \add again\add*.
 \s Acts 4:19-20 
 \s Peter and John said that they needed to continue speaking about Jesus.
 \p
@@ -100,8 +100,8 @@ apostles\add*. So, because they could not decide how to punish Peter and John,
 \add other Jewish\add* elders had said to them. 
 \v 24 When they heard that, they \add all\add* agreed as they prayed to God, and
 \add one of\add* them prayed, “O Lord! You\add (sg)\add* made the sky, the earth and the oceans, and everything in them.
-\v 25 The Holy Spirit caused our ancestor, \add King\add* David [MTY], who served you, to write these words:
-\q \add It is ridiculous\add* [RHQ] that the non-Jews became angry and the Israelite people planned uselessly
+\v 25 The Holy Spirit caused our ancestor, \add King\add* David \f + \fr metonymy \f*, who served you, to write these words:
+\q \add It is ridiculous\add* \f + \fr rhetorical question \f* that the non-Jews became angry and the Israelite people planned uselessly
 \add against God\add*. 
 \q
 \v 26 The kings in the world prepared to fight\add God's Ruler\add*, and the
@@ -111,19 +111,19 @@ apostles\add*. So, because they could not decide how to punish Peter and John,
 \v 27  \add We know that what you(sg) said long ago was true\add*, because
 \add King\add* Herod and the \add governor\add*, Pontius Pilate, and many other people, both non-Jews and Israelites, assembled
 together \add here\add* in this city. \add They\add* planned \add to
-kill\add* Jesus, who devotedly served you \add and\add* whom you appointed [MTY]
+kill\add* Jesus, who devotedly served you \add and\add* whom you appointed \f + \fr metonymy \f*
 \add to be the Messiah\add*. 
 \v 28  \add Because\add* you\add (sg)\add* are all-powerful, those people did
-\add only\add* what you [SYN] allowed \add them to do\add*. It was what you decided long ago would happen.”
+\add only\add* what you \f + \fr synecdoche \f* allowed \add them to do\add*. It was what you decided long ago would happen.”
 \s Acts 4:29-30 
 \s The believers asked God to help them speak boldly to people about Jesus.
 \p
 \v 29 “So now, Lord, listen to what they are saying about punishing us! Help us who serve
 you\add (sg)\add* to very boldly speak messages from you\add (sg) about
 Jesus\add*! 
-\v 30  \add Also\add*, by your power [MTY] miraculously heal \add sick
-people\add* and do other amazing miracles [SYN] that show people your power! Ask Jesus, who always serves you,
-\add to give us the authority\add* [MTY] \add to do such miracles!\add*”
+\v 30  \add Also\add*, by your power \f + \fr metonymy \f* miraculously heal \add sick
+people\add* and do other amazing miracles \f + \fr synecdoche \f* that show people your power! Ask Jesus, who always serves you,
+\add to give us the authority\add* \f + \fr metonymy \f* \add to do such miracles!\add*”
 \s Acts 4:31 
 \s God shook the place where they were, and his Spirit enabled them to speak his words boldly.
 \p
@@ -142,7 +142,7 @@ God\add* had ◄caused the Lord Jesus to become alive again/raised the Lord Jesu
 \v 34  \add Some of\add* the believers who owned land or houses would occasionally sell
 \add some of\add* their property. Then they would bring \add the money for what they
 sold\add* 
-\v 35 and they would present it to the apostles [MTY]. Then \add the
+\v 35 and they would present it to the apostles \f + \fr metonymy \f*. Then \add the
 apostles\add* would give money to any \add believer\add* who needed
 \add it\add*. So no one among the believers was lacking anything.
 \s Acts 4:36-37 
@@ -150,7 +150,7 @@ apostles\add* would give money to any \add believer\add* who needed
 \p
 \v 36  \add For example, there was\add* Joseph. \add He was\add* a descendant of Levi
 \add and he was born\add* on Cyprus \add Island\add*. The apostles called him Barnabas;
-\add in the Jewish language\add* that name means a person who [IDM] always encourages
+\add in the Jewish language\add* that name means a person who \f + \fr idiom \f* always encourages
 \add others\add*. 
 \v 37 He sold one of his fields, and brought the money to the apostles
 \add for them to distribute to other believers\add*. 

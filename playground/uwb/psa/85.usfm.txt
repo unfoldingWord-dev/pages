@@ -6,7 +6,7 @@ in\add* this land;
 \q you have enabled us Israeli people to become prosperous again.
 \q
 \v 2 You forgave us, your people, for the sins that we had committed;
-\q2 you pardoned us for all our sins [DOU]. 
+\q2 you pardoned us for all our sins \f + \fr doublet \f*. 
 \qr (Think about that!) 
 \q
 \v 3 You stopped being angry with us 
@@ -18,7 +18,7 @@ in\add* this land;
 \q
 \v 5 ◄Will you continue to be angry with us forever?/Please do not continue to be angry with us forever.► [DOU, RHQ]
 \q
-\v 6 Please enable us [RHQ] to prosper again 
+\v 6 Please enable us \f + \fr rhetorical question \f* to prosper again 
 \q2 in order that we, your people, will rejoice about what you \add have done for
 us\add*. 
 \q
@@ -35,7 +35,7 @@ us\add*.
 \b
 \q
 \v 10 When that happens, he will both faithfully love us and faithfully
-\add do for us what he promised to do\add* [PRS]; 
+\add do for us what he promised to do\add* \f + \fr personification \f*; 
 \q and we will act/behave righteously, and he will give us peace,
 \q2 which will be like a kiss that he gives us. 
 \q

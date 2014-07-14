@@ -41,7 +41,7 @@ that had been dedicated \add to Yahweh to be destroyed\add*.
 \v 19 When Azubah died, Caleb married Ephrath. Their son was Hur.
 \v 20 Hur was the father of Uri, and Uri was the father of Bezalel.
 \li
-\v 21 When Hezron was sixty years old, he married [EUP] Makir's daughter, who was the sister of Gilead. The son of Hezron and
+\v 21 When Hezron was sixty years old, he married \f + \fr euphemism \f* Makir's daughter, who was the sister of Gilead. The son of Hezron and
 Makir was Segub. 
 \v 22 Segub was the father of Jair. Jair's \add army\add* controlled twenty-three cities in the region ruled by Gilead.
 \v 23 But \add the armies of\add* Geshur and Aram captured those towns controlled by Jair. They also captured Kenath
@@ -135,4 +135,4 @@ and the Zor clan.
 \li2
 \v 55 Salma's descendants also included the families at Jabez \add town\add* who wrote and copied important documents. These
 were the Tirath clan, the Shimeath clan, and the Sucath clan. They were all from the Ken people- group who came from Hammath
-\add city\add*, and who had married members of the family [MTY] of Rechab.
+\add city\add*, and who had married members of the family \f + \fr metonymy \f* of Rechab.

@@ -33,12 +33,12 @@ name\add*, the man did not know who it was \add who had healed him\add*.
 \add told the man his name, and\add* said to him, “Listen! You are healed! So stop sinning! If you do not stop sinning,
 something will happen to you that will be worse \add than the illness you had
 before\add*!” 
-\v 15 The man went away and told the Jewish \add leaders\add* [SYN] that it was Jesus who had healed him.
-\v 16 So the Jewish \add leaders\add* [SYN] started to harass Jesus, because Jesus was doing these things ◄on the Sabbath/on
+\v 15 The man went away and told the Jewish \add leaders\add* \f + \fr synecdoche \f* that it was Jesus who had healed him.
+\v 16 So the Jewish \add leaders\add* \f + \fr synecdoche \f* started to harass Jesus, because Jesus was doing these things ◄on the Sabbath/on
 the Jewish rest day►. 
 \v 17 Then Jesus replied to them, “My Father has always been working every day,
 \add including\add* ◄\add the Sabbath/the day of rest\add*►, up until now. I am doing the same thing!”
-\v 18 The Jewish leaders [SYN] considered that he was disobeying their rules about ◄the Sabbath/the day of rest►, and that by
+\v 18 The Jewish leaders \f + \fr synecdoche \f* considered that he was disobeying their rules about ◄the Sabbath/the day of rest►, and that by
 saying that God was his Father, he was making himself equal with God. And they considered that both these things were grounds
 for killing him. So they sought even harder for a way to kill him.
 \s John 5:19-45 
@@ -87,12 +87,12 @@ me\add*, he told the truth \add about me\add*.
 me\add*. But instead, I am reminding \add you about what John told people about
 me\add*, in order that you will \add believe it and\add* be saved
 {\add God\add* will save you}. 
-\v 35  \add John's message about me\add* (OR, \add John\add*) [MET] was
+\v 35  \add John's message about me\add* (OR, \add John\add*) \f + \fr metaphor \f* was
 \add like\add* a lamp that shines brightly. For a short while you were willing to be made happy
 \add by that message\add* {to let \add that message\add* make you happy}.
 \p
 \v 36 But there is something else that tells you about me. \add It should prove who I
-am\add* more than what John \add said about me\add*. The miracles [PRS] that
+am\add* more than what John \add said about me\add*. The miracles \f + \fr personification \f* that
 \add my\add* Father told me to do, the miracles that I am performing, show (OR, prove) to people that my Father sent me.
 \v 37 Furthermore, \add my\add* Father, who sent me, tells people about me. You have never heard his voice or seen him.
 \v 38 Furthermore, you have not believed in \add me\add*, the one he sent. So you have not
@@ -104,11 +104,11 @@ am\add* more than what John \add said about me\add*. The miracles [PRS] that
 \p
 \v 41 It does not \add matter to\add* me whether people praise me.
 \v 42 But you \add want people to praise you\add*. I know that within yourselves you do not love God.
-\v 43 Although I have come to earth with my Father's authority [MTY], you do not accept me. But if someone else comes with his
-own authority [MTY], you accept him! 
+\v 43 Although I have come to earth with my Father's authority \f + \fr metonymy \f*, you do not accept me. But if someone else comes with his
+own authority \f + \fr metonymy \f*, you accept him! 
 \v 44 You accept your praising each other, but you do not try to do things that will result in God himself praising you. So
 ◄there is no way you can believe \add in me\add*!/how can you believe
-\add my message\add*?► [RHQ] 
+\add my message\add*?► \f + \fr rhetorical question \f* 
 \p
 \v 45 But do not think that I am the one who will accuse you while
 \add my\add* Father is listening! No, it is Moses who will accuse you! You thought that he would
@@ -116,4 +116,4 @@ own authority [MTY], you accept him!
 \v 46 Moses wrote about me, so if you had believed what he \add wrote\add*, you would have believed what I
 \add said\add*! 
 \v 47 But because you did not believe what he wrote \add about me\add*, ◄you will certainly not believe what I say!/how will
-you believe what I say?► [RHQ]” 
+you believe what I say?► \f + \fr rhetorical question \f*” 

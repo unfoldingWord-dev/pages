@@ -4,7 +4,7 @@
 \v 1 O God, save me, 
 \q2 because \add I am in great danger\add*. 
 \q2 \add It is as though\add* the flood water is up to my neck, \add and I am about to
-drown\add* [MET]. 
+drown\add* \f + \fr metaphor \f*. 
 \q
 \v 2 I continue to sink in the deep mud, 
 \q2 and there is no solid ground for me to stand on. 
@@ -18,7 +18,7 @@ me\add*,
 \q2 my eyes are swollen. 
 \q
 \v 4 Those who hate me when there is no reason to hate me 
-\q2 are more than the number of hairs on my head [HYP]! 
+\q2 are more than the number of hairs on my head \f + \fr hyperbole \f*! 
 \q Those who want to get rid of me are strong, 
 \q2 and they tell lies about me. 
 \q They demand that I return to them things that I did not steal!
@@ -68,7 +68,7 @@ sad\add*,
 \q
 \v 15 Do not allow the floods to swirl around me, 
 \q2 do not allow the deep mud to swallow me; 
-\q2 keep me from sinking into the pit \add of death\add* [MET]. 
+\q2 keep me from sinking into the pit \add of death\add* \f + \fr metaphor \f*. 
 \q
 \v 16 O Yahweh, answer my prayer and help me 
 \q2 because you are good and love me faithfully, 
@@ -96,7 +96,7 @@ sad\add*,
 \q2 and when I was thirsty, they gave me sour wine to drink. 
 \b
 \q
-\v 22 I hope/desire that the feasts [MTY] \add that they enjoy\add* will ◄become a snare for/bring trouble to► them,
+\v 22 I hope/desire that the feasts \f + \fr metonymy \f* \add that they enjoy\add* will ◄become a snare for/bring trouble to► them,
 \q2 and that \add those whom they invite to\add* the sacrificial feasts will also be trapped.
 \q
 \v 23 I hope/desire that their eyes become dim so that they cannot see anything,
@@ -115,7 +115,7 @@ sad\add*,
 \q2 do not acquit/pardon them \add for the evil things that they have
 done\add*. 
 \q
-\v 28 Erase their names [SYN] from the book \add containing the names of those who have
+\v 28 Erase their names \f + \fr synecdoche \f* from the book \add containing the names of those who have
 eternal\add* life; 
 \q2 do not include them in the list of righteous people. 
 \b

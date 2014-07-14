@@ -1,19 +1,19 @@
 \c 11  
 \s A psalm written by David for the choir director 
 \q
-\v 1 I trust that Yahweh will protect [MTY] me. 
-\q2 So do not [RHQ] say to me, “You need to escape/flee to the mountains like birds do,
+\v 1 I trust that Yahweh will protect \f + \fr metonymy \f* me. 
+\q2 So do not \f + \fr rhetorical question \f* say to me, “You need to escape/flee to the mountains like birds do,
 \q
 \v 2 because wicked people have hidden in the darkness, 
 \q they have pulled back their bowstrings and aimed their arrows
 \q2 to shoot them at godly/righteous [IDI] people. 
 \q
 \v 3 When people are not punished for disobeying the laws, 
-\q2 ◄what can righteous people do?/there is not much that righteous people can do.►” [RHQ]
+\q2 ◄what can righteous people do?/there is not much that righteous people can do.►” \f + \fr rhetorical question \f*
 \b
 \q
 \v 4 But Yahweh is sitting on his throne in his sacred temple in heaven,
-\q2 and he [SYN] watches everything that people do. 
+\q2 and he \f + \fr synecdoche \f* watches everything that people do. 
 \q
 \v 5 Yahweh examines what righteous people do and what wicked people do,
 \q2 and he hates those who like to perform violent actions \add to injure

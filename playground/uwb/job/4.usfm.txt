@@ -4,28 +4,28 @@
 \v 1 Then Eliphaz replied to Job. He said, 
 \q
 \v 2 “Will you please allow me to say something to you? 
-\q2 I am not [RHQ] able to remain silent \add any longer\add*. 
+\q2 I am not \f + \fr rhetorical question \f* able to remain silent \add any longer\add*. 
 \q
 \v 3 In the past, you have instructed/taught many people, 
 \q2 and you have encouraged those who were weak. 
 \q
-\v 4 By what you said, you have helped those who ◄needed spiritual help/almost quit trusting in God► [MET],
-\q2 and you have enabled them to become spiritually strong again [MET].
+\v 4 By what you said, you have helped those who ◄needed spiritual help/almost quit trusting in God► \f + \fr metaphor \f*,
+\q2 and you have enabled them to become spiritually strong again \f + \fr metaphor \f*.
 \q
 \v 5 But now, when you experience disasters, you become discouraged.
 \q2 The disasters hit you, and you are stunned. 
 \q
 \v 6 You revere God; ◄does that not cause you to trust \add in him\add*?/that should cause you to trust
-\add in him\add*.► [RHQ] 
-\q2 If you were guiltless, you would [RHQ] be confident that \add God\add* would not
+\add in him\add*.► \f + \fr rhetorical question \f* 
+\q2 If you were guiltless, you would \f + \fr rhetorical question \f* be confident that \add God\add* would not
 \add have allowed\add* these disasters to happen to you! 
 \b
 \q
 \v 7 Think about this: do innocent people die \add while they are still
-young\add* [RHQ]? 
-\q2 Does God get rid of godly people [RHQ]? \add No\add*! 
+young\add* \f + \fr rhetorical question \f*? 
+\q2 Does God get rid of godly people \f + \fr rhetorical question \f*? \add No\add*! 
 \q
-\v 8 What I have experienced is this: \add just as\add* [MET] farmers who plant bad
+\v 8 What I have experienced is this: \add just as\add* \f + \fr metaphor \f* farmers who plant bad
 \add seeds\add* do not harvest \add good crops\add*, 
 \q2 \add those who start\add* trouble for others later bring trouble on themselves.
 \q
@@ -33,7 +33,7 @@ young\add* [RHQ]?
 \q2 when he is very angry with them. 
 \q
 \v 10  \add Even though wicked people may be very powerful like\add* young lions,
-\q2 \add God\add* will get rid of them [MET]. 
+\q2 \add God\add* will get rid of them \f + \fr metaphor \f*. 
 \q
 \v 11  \add They will die like older\add* lions that starve to death when there are no animals that they can kill and eat,
 \q2 and \add their children will be separated from each other like\add* the young lions separate from each other
@@ -56,8 +56,8 @@ young\add* [RHQ]?
 \q2 But \add I could sense that\add* there was some being in front of me,
 \q and it said in a quiet voice, 
 \q
-\v 17 ‘◄Can human beings be righteous in God's sight?/No human beings can be righteous in God's sight!► [RHQ]
-\q ◄Their creator cannot consider them to be pure./Can their creator consider them to be pure?► [RHQ]
+\v 17 ‘◄Can human beings be righteous in God's sight?/No human beings can be righteous in God's sight!► \f + \fr rhetorical question \f*
+\q ◄Their creator cannot consider them to be pure./Can their creator consider them to be pure?► \f + \fr rhetorical question \f*
 \q
 \v 18 God cannot be sure that his own angels \add will always do what is
 right\add*; 
@@ -69,5 +69,5 @@ right\add*;
 \v 20 People are sometimes well in the morning, but in the evening they are dead.
 \q2 They are gone forever and do not even know it (OR, and no one pays any attention to it).
 \q
-\v 21 They are like [MET] tents that collapse \add suddenly:\add*
+\v 21 They are like \f + \fr metaphor \f* tents that collapse \add suddenly:\add*
 \q2 they die \add suddenly\add* without becoming wise.’ ” 

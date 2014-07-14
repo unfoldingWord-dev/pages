@@ -5,7 +5,7 @@
 \q
 \v 2 “Yes, I certainly know that \add much of\add* what you said is true.
 \q2 But ◄how can anyone say to God, ‘I ‘am innocent/have not done what is wrong’ and prove it?’/no one can say to God ‘I ‘am
-innocent/have not done what is wrong’ and prove it.’► [RHQ] 
+innocent/have not done what is wrong’ and prove it.’► \f + \fr rhetorical question \f* 
 \q
 \v 3 If someone wanted to argue with God \add about that\add*, 
 \q2 God could ask him a thousand questions 
@@ -35,16 +35,16 @@ called\add* The Dipper/Bear, Orion, the Pleiades, and the stars in the southern 
 \v 11 He passes by where I am, but I do not see him; 
 \q2 he moves further on, but I do not see him go. 
 \q
-\v 12 If he \add wants to\add* snatch something away, no one [RHQ] can hinder him;
-\q2 no one dares to ask him, ‘Why are you doing that?’ [RHQ] 
+\v 12 If he \add wants to\add* snatch something away, no one \f + \fr rhetorical question \f* can hinder him;
+\q2 no one dares to ask him, ‘Why are you doing that?’ \f + \fr rhetorical question \f* 
 \q
 \v 13 God will not very easily stop being angry; 
-\q2 he defeated [MTY] those who \add tried to\add* help Rahab, \add the great sea
+\q2 he defeated \f + \fr metonymy \f* those who \add tried to\add* help Rahab, \add the great sea
 monster\add*. 
 \b
 \q
 \v 14 So, \add if God took me to court\add*, 
-\q2 what could I say [MTY] to answer him? 
+\q2 what could I say \f + \fr metonymy \f* to answer him? 
 \q
 \v 15 Even though I ◄would be innocent/would not have done what is wrong►, I would not be able to answer him.
 \q2 All I could do would be to request God, my judge/accuser, to act mercifully toward me.
@@ -62,9 +62,9 @@ monster\add*.
 defeat\add* him, 
 \q2 because he is stronger than I am. 
 \q If I would request him to appear in court, 
-\q2 there is no one who could [RHQ] force him to go there. 
+\q2 there is no one who could \f + \fr rhetorical question \f* force him to go there. 
 \q
-\v 20 Even though I was innocent, what I would say would cause him to say that I must be punished [MTY];
+\v 20 Even though I was innocent, what I would say would cause him to say that I must be punished \f + \fr metonymy \f*;
 \q2 even though I had not done anything wrong, he would prove that I am guilty.
 \b
 \q
@@ -116,7 +116,7 @@ innocent\add*
 \v 33 There is no one to ◄mediate/hear us and decide who is right►,
 \q2 no one who has authority over both of us [IDI]. 
 \q
-\v 34 I wish/desire that he would stop punishing [MTY] me, 
+\v 34 I wish/desire that he would stop punishing \f + \fr metonymy \f* me, 
 \q2 and that he would not continue to terrify me. 
 \q
 \v 35 If he did that, I would declare \add that I am innocent\add* without being afraid of him,

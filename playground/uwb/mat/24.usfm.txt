@@ -5,7 +5,7 @@
 \v 1 Jesus left the Temple \add courtyard\add*. As he was walking along,
 \add we\add* disciples came to him to ask him to note \add how beautiful\add* the Temple
 buildings\add were\add*. 
-\v 2 He said to us, “These buildings that you are looking at [RHQ]
+\v 2 He said to us, “These buildings that you are looking at \f + \fr rhetorical question \f*
 \add are wonderful, but\add* I want to tell you \add something about them. They will be completely
 destroyed\add* {\add Foreign invaders will completely destroy them\add*}. Every stone
 \add in these buildings\add* will be thrown down {they will throw down every stone in these buildings}. Not one stone will be
@@ -20,7 +20,7 @@ to\add* come again, and \add to indicate\add* that this world is ending?”
 \p
 \v 4 Jesus replied, “\add All that I will say is\add*, be sure that no one deceives you
 \add about what will happen\add*! 
-\v 5 Many \add people\add* will come and say ◄that I sent them/that they have my authority► [MTY]. They will say, ‘I am the
+\v 5 Many \add people\add* will come and say ◄that I sent them/that they have my authority► \f + \fr metonymy \f*. They will say, ‘I am the
 Messiah’, and they will deceive many \add people\add*. 
 \v 6 You will hear about wars \add that are close\add* and wars that are far away, but do not let that trouble you. Keep in
 mind that \add God has said that\add* those things must happen. But
@@ -31,20 +31,20 @@ world\add* has come!
 places. 
 \v 8 These things will happen first. Then there will be other things that
 \add will happen before I return. What will happen will be as painful
-as\add* birth pains [MET]. 
+as\add* birth pains \f + \fr metaphor \f*. 
 \p
 \v 9 “At that time \add people who oppose you\add* will take you to
 \add the authorities, who\add* will mistreat you and kill you. You will be hated by
-\add people who live in\add* all nations [PRS] {\add People who live
-in\add* all nations [PRS] will hate you} because \add you believe in me
-[MTY]\add*. 
+\add people who live in\add* all nations \f + \fr personification \f* {\add People who live
+in\add* all nations \f + \fr personification \f* will hate you} because \add you believe in me
+\f + \fr metonymy \f*\add*. 
 \v 10 Also, many \add people\add* will stop believing \add in me because of the way they will
 suffer\add*. They will betray each other and will hate each other.
 \v 11 Many will come saying that they are prophets, but they will be lying, and they will deceive many people.
 \v 12 Because there will be more and more \add people\add* who will disobey
-\add God's\add* laws [PRS], many \add people\add* will no longer [MET] love
-\add their fellow believers\add* [PRS]. 
-\v 13 But \add all\add* those who keep on \add believing in me\add* [EUP] to the end
+\add God's\add* laws \f + \fr personification \f*, many \add people\add* will no longer \f + \fr metaphor \f* love
+\add their fellow believers\add* \f + \fr personification \f*. 
+\v 13 But \add all\add* those who keep on \add believing in me\add* \f + \fr euphemism \f* to the end
 \add of their lives\add* will be saved. 
 \v 14 Furthermore, the good message about my ruling over people's lives will be preached in every part of the world, in order
 that people of all ethnic groups may hear it. Then the end \add of the
@@ -71,8 +71,8 @@ on\add* our day of rest\add will not help you as you flee, so\add* pray also tha
 \v 21 because people will suffer very severely \add when those things
 happen\add*. People have never suffered that severely since \add God\add* created the world until now, and no one will ever
 \add suffer like that again\add*. 
-\v 22 If \add God had not decided to\add* shorten that time [MTY]
-\add when people will suffer so much\add*, everyone [LIT] would die. But
+\v 22 If \add God had not decided to\add* shorten that time \f + \fr metonymy \f*
+\add when people will suffer so much\add*, everyone \f + \fr litotes \f* would die. But
 \add he has decided to\add* shorten it because \add he is concerned\add*
 about\add the people\add* whom \add he\add* has chosen.” 
 \s Matthew 24:23-28 
@@ -90,10 +90,10 @@ has\add* chosen. So, at that time, if someone says to you, ‘Look, here
 \add Likewise, if someone says to you\add*, ‘Look, he is in a secret room!’ do not believe
 \add that person\add*, 
 \v 27 because just like lightning flashes from the east to the west
-\add and people everywhere can\add* see it [SIM], when \add I\add*, the one who came from heaven, return again,
+\add and people everywhere can\add* see it \f + \fr simile \f*, when \add I\add*, the one who came from heaven, return again,
 \add everyone will see me\add*. 
 \v 28  \add When I return, it will be as obvious to everyone as the fact
-that\add* wherever you see vultures gathering, you know that there will be an animal carcass [MET] there. (OR, Just like the
+that\add* wherever you see vultures gathering, you know that there will be an animal carcass \f + \fr metaphor \f* there. (OR, Just like the
 vultures gather together wherever there is an animal carcass, God will punish sinful people wherever they are.)”
 \s Matthew 24:29-31 
 \s Jesus told his disciples what will happen at the time of his return.
@@ -108,7 +108,7 @@ from\add* all ethnic groups of the earth will \add mourn because they will be
 afraid\add* of \add God punishing them\add*. They will see \add me\add*, the one who came from heaven, coming on the clouds
 with power and great glory \add as I return to the earth\add*. 
 \v 31 I will send my angels \add to the earth\add* from everywhere in the heavens.
-\add They will be\add* blowing trumpets loudly. \add Then\add* from throughout the whole earth [DOU] they will gather the
+\add They will be\add* blowing trumpets loudly. \add Then\add* from throughout the whole earth \f + \fr doublet \f* they will gather the
 people whom I have chosen.” 
 \s Matthew 24:32-35 
 \s Jesus told his disciples how to know when the time of his return was near.
@@ -117,11 +117,11 @@ people whom I have chosen.”
 \add how\add* fig trees \add grow\add*. \add In this area\add*, when the branches
 \add of a fig tree\add* become tender and its leaves begin to sprout, you know that summer is near.
 \v 33 Similarly, when you see all these things that I \add have just described
-happening\add*, you will know that \add the time for me to return\add* is very close [MET].
+happening\add*, you will know that \add the time for me to return\add* is very close \f + \fr metaphor \f*.
 \v 34 Keep this in mind: All of these events will happen before all the people who have observed the things that I have done
-have died [EUP]. 
+have died \f + \fr euphemism \f*. 
 \v 35  \add You can be certain that these\add* things that I have told
-\add you\add* about will happen. You can be more certain of that than you can be certain that the earth and sky [LIT] will
+\add you\add* about will happen. You can be more certain of that than you can be certain that the earth and sky \f + \fr litotes \f* will
 continue to exist.” 
 \s Matthew 24:36-44 
 \s Jesus told his disciples to be ready because they do not know the time of his return.
@@ -156,7 +156,7 @@ come\add*.”
 \s Matthew 24:45-51 
 \s Jesus told a parable to warn his disciples not to act wickedly, thinking that he would not return soon.
 \p
-\v 45 “Think about what every faithful and wise servant is like [RHQ]. The house owner appoints one servant to supervise the
+\v 45 “Think about what every faithful and wise servant is like \f + \fr rhetorical question \f*. The house owner appoints one servant to supervise the
 other servants. He tells him to give them food at the proper times.
 \add Then he leaves on a long trip\add*. 
 \v 46 If the servant is doing that \add work\add* when the house owner
@@ -167,7 +167,7 @@ servant\add* to be the supervisor of all his possessions.
 away\add* for a long time, \add so he probably\add* will not return
 soon\add and find out what I am doing.’\add* 
 \v 49  \add So he\add* will begin to beat the other servants and eat and drink with those who are drunk.
-\v 50  \add Then\add* the house owner will come back at a time when the servant does not expect him [DOU].
-\v 51 He will punish that servant severely [HYP], (OR, cut that servant into two pieces) and he will put him where ◄the
+\v 50  \add Then\add* the house owner will come back at a time when the servant does not expect him \f + \fr doublet \f*.
+\v 51 He will punish that servant severely \f + \fr hyperbole \f*, (OR, cut that servant into two pieces) and he will put him where ◄the
 hypocrites/the ones who only pretended to be good► are put. In that place the people cry and grind their teeth
 \add because they suffer very much\add*.” 

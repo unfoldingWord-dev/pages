@@ -22,7 +22,7 @@ the\add* Psalmist wrote in the Scriptures,
 \v 6 And he also said \add to Christ what the Psalmist wrote\add* in another Scripture passage,
 \q You are a priest eternally just like Melchizedek was a priest.
 \p
-\v 7 When Christ lived on the earth [MTY], he prayed [DOU] to God and tearfully cried out loudly to him.
+\v 7 When Christ lived on the earth \f + \fr metonymy \f*, he prayed \f + \fr doublet \f* to God and tearfully cried out loudly to him.
 \add Specifically\add*, he asked \add God\add*, who was able to help him, that he would not
 \add fear the sufferings just before\add* he died. As a result, God listened to him, because Christ reverently submitted
 \add to what God wanted him to do\add*. 
@@ -42,12 +42,12 @@ you\add* because you now understand things so slowly.
 \add spiritual truths to others\add*. But you still need someone to teach you again the truths that God has revealed.
 \add I am talking about\add* the truths that we teach people \add when
 they\add* first \add believe in Christ\add*. You need \add those elementary
-truths\add* like babies need milk [MET]. You are not \add ready for advanced teaching, which is
-like\add* the solid food \add which mature people need\add* [MET].
+truths\add* like babies need milk \f + \fr metaphor \f*. You are not \add ready for advanced teaching, which is
+like\add* the solid food \add which mature people need\add* \f + \fr metaphor \f*.
 \v 13 Remember that those \add who are still learning these elementary
-truths\add* [MET] have not become familiar with \add what God\add* says concerning becoming/being righteous. They are
-\add just like\add* [MET] babies \add who need\add* milk! 
+truths\add* \f + \fr metaphor \f* have not become familiar with \add what God\add* says concerning becoming/being righteous. They are
+\add just like\add* \f + \fr metaphor \f* babies \add who need\add* milk! 
 \v 14 But \add the more advanced spiritual truth\add* is for people who are
-\add spiritually\add* mature, just like [MET] solid food is for \add people who are
+\add spiritually\add* mature, just like \f + \fr metaphor \f* solid food is for \add people who are
 physically\add* mature. They can tell the difference between what is good and what is evil, because they have trained
 themselves \add to keep doing that\add*. 

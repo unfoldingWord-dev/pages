@@ -1,9 +1,9 @@
 \c 52  
 \s Jerusalem's suffering will end 
 \q
-\v 1  \add You people who live in the\add* holy city of Jerusalem [APO], wake up!
+\v 1  \add You people who live in the\add* holy city of Jerusalem \f + \fr apostrophe \f*, wake up!
 \q2 Be strong again! 
-\q Show that [MTY] your city is beautiful and glorious; 
+\q Show that \f + \fr metonymy \f* your city is beautiful and glorious; 
 \q2 foreigners who do not believe in God will not enter your city again
 \add to attack you\add*. 
 \q
@@ -29,15 +29,15 @@ of\add* Assyria.
 \q My people are being forced to be slaves again, this time by the
 \add people of Babylonia\add*. 
 \q2 And \add those who have conquered them this time have also\add* paid me nothing,
-\q and they despise me [MTY] continually [DOU]. 
+\q and they despise me \f + \fr metonymy \f* continually \f + \fr doublet \f*. 
 \q
-\v 6 But my people will then have a close relationship with [MTY] me,
+\v 6 But my people will then have a close relationship with \f + \fr metonymy \f* me,
 \q2 and when that happens, they will know that I am the one who predicted/promised
 \add that it would happen\add*. 
 \q It is I, \add Yahweh, who will do it\add*.” 
 \s A message of encouragement for Jerusalem 
 \q
-\v 7 It is a wonderful thing when messengers [MTY] arrive on the mountains/hills,
+\v 7 It is a wonderful thing when messengers \f + \fr metonymy \f* arrive on the mountains/hills,
 \q2 bringing good news, 
 \q the news about \add God giving us\add* peace and saving us, 
 \q the news that the God to whom we \add Israeli people\add* belong is now ruling/king!

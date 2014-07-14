@@ -9,7 +9,7 @@ if you do that, they will surely persuade you [IDI] to worship the gods that the
 \v 3 Solomon married 700 women who were kings' daughters. He also had 300 wives who were his slaves/servants. And his wives
 caused him to turn away \add from worshiping God\add*. 
 \v 4 By the time that Solomon became old, they had persuaded him to worship the gods from their countries. He was not
-completely dedicated/committed to Yahweh his God like his father [SYN] David had been.
+completely dedicated/committed to Yahweh his God like his father \f + \fr synecdoche \f* David had been.
 \v 5 Solomon worshiped Astarte, the goddess that the people of Sidon
 \add worshiped\add*, and he worshiped Molech, the disgusting god that the Ammon people-group
 \add worshiped\add*. 
@@ -27,7 +27,7 @@ him to not worship foreign gods, Solomon refused to obey Yahweh. So Yahweh was a
 \v 11 and said to him, “You have chosen to disobey the agreement that I made with you and to disobey what I commanded you. So I
 am surely not going to allow you to rule all of your kingdom. I am going to allow one of your officials to rule it.
 \v 12 But, because of what \add I promised\add* your father David, I will allow you to rule all your kingdom while you are
-still \add living\add*. \add After you die\add*, I will not allow your son to rule the whole kingdom [MTY].
+still \add living\add*. \add After you die\add*, I will not allow your son to rule the whole kingdom \f + \fr metonymy \f*.
 \v 13 But I will not take all the kingdom away from him. Instead, I will allow him to rule one tribe, because of what I
 promised to David, who served me \add well\add*, and because \add I want David's descendants to rule
 in\add* Jerusalem, \add where my temple is located\add*.” 
@@ -49,7 +49,7 @@ of Egypt. The king gave Hadad some land and ordered his servants to give him som
 where he lived with the king's sons. 
 \b
 \p
-\v 21 While Hadad was in Egypt, he heard that David had died [EUP], and that Joab, the commander of David's army, was also
+\v 21 While Hadad was in Egypt, he heard that David had died \f + \fr euphemism \f*, and that Joab, the commander of David's army, was also
 dead. So he said to the king of Egypt, “Please allow me to return to my own country.”
 \p
 \v 22 But the king said to him, “Why do you want to go back to your country? Is there something that you lack that you want me
@@ -95,8 +95,8 @@ has not conducted his life as I wanted him to. He has not obeyed my statutes and
 king\add*, and who served me \add well\add*, and who always obeyed my commandments and laws.
 \v 35 But I will take the \add other\add* ten tribes of his kingdom and give them to you
 \add to rule\add*. 
-\v 36 I will allow Solomon's son to rule one tribe, in order that descendants [MET] of David will always rule in Jerusalem, the
-city that I have chosen to be the place where \add my people worship\add* me [MTY].
+\v 36 I will allow Solomon's son to rule one tribe, in order that descendants \f + \fr metaphor \f* of David will always rule in Jerusalem, the
+city that I have chosen to be the place where \add my people worship\add* me \f + \fr metonymy \f*.
 \v 37 I will enable you to become the king of Israel, and you will rule over all the territory that you want to.
 \v 38 If you obey all that I command you to do, and conduct your life as I want you to, and if you do what I say is right by
 obeying my laws and commandments like David did, I will help you. I will make sure that your descendants will rule after you
@@ -111,5 +111,5 @@ Egypt. He went to Shishak, the king of Egypt, and stayed with him until after So
 \v 41  \add A record of\add* all the other things that Solomon did, and all the wise things that he
 \add said/wrote\add*, was written in the Book Telling what Solomon Did.
 \v 42 He was the king in Jerusalem who ruled over all of Israel for forty years.
-\v 43 Then Solomon died [EUP], and was buried in the \add part of Jerusalem
+\v 43 Then Solomon died \f + \fr euphemism \f*, and was buried in the \add part of Jerusalem
 called\add* 'the City of David.' And his son Rehoboam became the king.
