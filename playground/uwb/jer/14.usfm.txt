@@ -88,8 +88,8 @@ deserve to be punished.
 \q If I walk along the streets of the city, 
 \q2 I see \add corpses of people who died\add* from hunger. 
 \q The prophets and the priests travel through the land, preaching to people,
-\q2 but they do not know \add what they are doing\add* (OR, \add in a
-land\add* that they know nothing about).’ ” 
+\q2 but they do not know \add what they are doing\add* \f + \fr (OR, \add in a
+land\add* that they know nothing about) \f*.’ ” 
 \s Jeremiah's prayer 
 \p
 \v 19 Then I prayed this: 

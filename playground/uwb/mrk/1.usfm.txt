@@ -1,7 +1,7 @@
 \c 1  
 \p
-\v 1-2 ◄\add This is/I want to tell you\add*► the good message about Jesus Christ, the Son of God (OR, the man who was also
-God). \add What I want to tell you\add* begins just like the prophet Isaiah
+\v 1-2 ◄\add This is/I want to tell you\add*► the good message about Jesus Christ, the Son of God \f + \fr (OR, the man who was also
+God) \f*. \add What I want to tell you\add* begins just like the prophet Isaiah
 \add said it would begin, when\add* he wrote \add these words that God said to his
 Son:\add* 
 \q Listen! I am sending my messenger ahead of you. He will prepare

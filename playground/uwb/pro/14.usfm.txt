@@ -70,7 +70,7 @@ happened\add*.
 \b
 \q
 \v 17 Those who quickly become angry [IDI] do foolish things; 
-\q2 people hate those who plan to do wicked things (OR, those who have good sense remain calm/patient).
+\q2 people hate those who plan to do wicked things \f + \fr (OR, those who have good sense remain calm/patient).
 \b
 \q
 \v 18 Foolish people get what they deserve for doing foolish things;
@@ -137,7 +137,7 @@ money\add*.
 \q
 \v 32 Wicked people ruin themselves by the evil things that they do,
 \q2 but righteous/good people are kept safe/protected even when they die (OR, because of their continually doing what is
-right). 
+right) \f*. 
 \b
 \q
 \v 33 Those who have good sense always think what is wise; 

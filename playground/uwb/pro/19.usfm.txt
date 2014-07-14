@@ -68,7 +68,7 @@ food\add*.
 \b
 \q
 \v 16 Those who obey \add God's\add* commandments will remain alive for a long time;
-\q2 those who despise/disobey them (OR, those who do not control their own conduct) will die
+\q2 those who despise/disobey them \f + \fr (OR, those who do not control their own conduct) \f* will die
 \add while they are still young\add*. 
 \b
 \q

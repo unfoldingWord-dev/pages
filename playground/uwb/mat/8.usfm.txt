@@ -127,4 +127,4 @@ controlled}.
 \add who lived in\add* that town \f + \fr metonymy \f* went to meet Jesus. When they saw him
 \add and the two men who had been controlled by the demons\add*, they begged Jesus to leave their region
 \add because they thought that he would destroy more things than just the
-pigs\add* (OR, \add because they realized he must be very powerful\add*).
+pigs\add* \f + \fr (OR, \add because they realized he must be very powerful\add*) \f*.

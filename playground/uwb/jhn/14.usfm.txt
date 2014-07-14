@@ -2,7 +2,7 @@
 \s John 14:1-14 
 \s Jesus encouraged his disciples and told them that he is the only way to the Father.
 \p
-\v 1  \add Jesus continued by saying to us\add*, “Stop being anxious/worried. Keep on trusting in God (OR, You are trusting in
+\v 1  \add Jesus continued by saying to us\add*, “Stop being anxious/worried. Keep on trusting in God \f + \fr (OR, You are trusting in
 God); also keep trusting in me. 
 \v 2 Where my Father is \add in heaven\add* there is plenty of room! If that were not true, I would have told you. I am about
 to go \add there\add* to prepare a place for you. 
@@ -57,7 +57,7 @@ be inside you.
 \add When I rise from the dead\add*, I will come back to you.) 
 \v 19 Soon those who do not belong to God \f + \fr metonymy \f* will not see me anymore. But
 \add when the Spirit comes to you, it will be as though\add* you will be seeing me again (OR, But
-\add after I become alive again\add*, you will see me again.) Because I will be alive again, you also will have
+\add after I become alive again\add*, you will see me again.) \f* Because I will be alive again, you also will have
 \add eternal\add* life. 
 \v 20 At that time you will know that I have a close relationship with my Father, and you will have a close relationship with
 me, and I will have a close relationship with you. 

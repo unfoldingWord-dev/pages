@@ -88,7 +88,7 @@ wear\add*.
 \q
 \v 26 When she speaks, she says what is wise. 
 \q When she gives instructions, 
-\q2 she speaks \f + \fr metonymy \f* kindly (OR, faithfully). 
+\q2 she speaks \f + \fr metonymy \f* kindly \f + \fr (OR, faithfully) \f*. 
 \q
 \v 27 She watches over everything that is done in her household,
 \q2 and she [IDI] is never lazy. 

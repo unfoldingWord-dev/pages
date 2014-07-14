@@ -18,7 +18,7 @@ red\add* carnelian \add jewel\add*. Around the throne was a rainbow that
 \add sitting\add*. They were wearing \add pure\add* white garments and had golden crowns on their heads.
 \v 5 From the throne there came lightning and rumblings and thundering. Seven torches of fire were burning in front of the
 throne. Those \add represent\add* the Spirit of God, who has all kinds of
-\add power\add* (OR, who is \add also\add* symbolized as seven spirits).
+\add power\add* \f + \fr (OR, who is \add also\add* symbolized as seven spirits).
 \v 6 In front of the throne \add there was what looked\add* like an ocean
 \add made of\add* glass. It was \add clear\add*, like crystal. On each of the four sides of the throne there was a living
 \add creature\add*. Each one was covered with eyes in front and behind.
@@ -34,7 +34,7 @@ around \add their bodies\add* and under \add their wings\add*. Day and night the
 forever. Whenever they do that, the twenty-four elders ◄prostrate themselves/kneel down► before the one who sits on the throne,
 and they worship him, the one who lives forever. They lay their crowns in front of the throne and sing:
 \q
-\v 11 Our(exc) Lord and God, 
+\v 11 Our(exc) \f* Lord and God, 
 \q you are worthy that all beings praise you, 
 \q you are worthy that all beings honor you, and 
 \q you are worthy that all beings acknowledge 

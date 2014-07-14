@@ -110,7 +110,7 @@ dead\add*►.
 \add where they\add* buried his body is \add still\add* here today.
 \v 30 So \add we(inc) know that David was not speaking those words about himself.
 But\add* because he was a prophet, \add he spoke about the Messiah\add*. David knew that God had strongly promised him that he
-would cause one of his descendants to become king \f + \fr metonymy \f* like David was king. (OR, to
+would cause one of his descendants to become king \f + \fr metonymy \f* like David was king. \f + \fr (OR, to
 \add be the Messiah who would\add* rule \add God's people\add* like David had ruled
 \add them\add*.) 
 \v 31 David knew beforehand \add what God would do\add*, so he \add was able
@@ -146,7 +146,7 @@ that\add* you are the ones who nailed Jesus to a cross.”
 us\add*?” 
 \p
 \v 38 Peter \add answered\add* them, “Each of you should turn away from your sinful behavior. Then
-\add we(exc)\add* will baptize you, if \add you now believe\add* in Jesus Christ. Then
+\add we(exc) \f*\add* will baptize you, if \add you now believe\add* in Jesus Christ. Then
 \add God\add* will give you the Holy Spirit. 
 \v 39  \add God\add* has promised \add to do that\add* \f + \fr metonymy \f* for you and your descendants, and for all
 \add others who believe in him\add*, even those who \add live\add* far away

@@ -26,7 +26,7 @@ lives\add*, but after a few days \f + \fr litotes \f* \add God\add* will put the
 \p
 \v 6 One day when the \add apostles\add* met together \add with Jesus\add*, they asked him, “Lord, will
 you\add (sg)\add* now become the King \f + \fr metaphor \f* over \add us\add* Israelite people
-\add like King David, who ruled long ago\add*?” (OR, “Lord, will
+\add like King David, who ruled long ago\add*?” \f + \fr (OR, “Lord, will
 you\add (sg)\add* now \add defeat the Romans and\add* restore the kingdom
 \add to us\add* Israelite people?”) 
 \v 7 He replied to them, “You do not \add need\add* to know the time
@@ -119,5 +119,5 @@ You\add (sg)\add* know what everyone is really like. So \add please\add* show us
 \add one of\add* the \add apostles\add* shook \add in a container\add* small objects/stones
 \add that\add* they \add had marked to determine which man God had
 chosen\add*. And the small object/stone \add that they had marked\add* for Matthias fell
-\add out of the container\add*). So Matthias was considered {they considered Matthias}
+\add out of the container\add*) \f*. So Matthias was considered {they considered Matthias}
 \add to be an apostle\add* along with the \add other\add* eleven apostles.

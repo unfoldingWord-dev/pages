@@ -2,7 +2,7 @@
 \s Instructions for the coverings for the Sacred Tent 
 \p
 \v 1 “\add Tell the people to\add* make the Sacred Tent using ten long strips of fine linen. They must take blue, purple, and
-red thread (OR, weave the strips from blue, purple, and red thread), and
+red thread \f + \fr (OR, weave the strips from blue, purple, and red thread), and
 \add a skilled craftsman\add* must embroider these strips with \add designs that
 represent\add* the winged creatures \add that are above the chest\add*.
 \v 2 Each strip is to be ◄fourteen yards/twelve meters► long and two yards/meters wide.
@@ -47,7 +47,7 @@ made\add* to fit into the bases.
 to\add* make six frames. 
 \v 23 Also, \add tell them to\add* make two extra frames, one for each corner of the rear of the Sacred Tent,
 \add to provide extra support\add*. 
-\v 24 The two corner frames must be separated at the bottom but joined at the top (OR, joined at both the bottom and the top).
+\v 24 The two corner frames must be separated at the bottom but joined at the top (OR, joined at both the bottom and the top) \f*.
 At the top of each of the two corner frames there must be a gold ring for holding the crossbar.
 \v 25 In that way, \add for the rear of the Sacred Tent\add* there will be eight frames, and there will be sixteen bases, two
 under each frame. 

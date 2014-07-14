@@ -135,8 +135,8 @@ high\add*.
 \b
 \q
 \v 30 Those who live righteously will live \add for a long time\add*,
-\q2 but those who act violently will destroy \add their own\add* lives (OR, those who are wise will have many people come and
-live with them). 
+\q2 but those who act violently will destroy \add their own\add* lives \f + \fr (OR, those who are wise will have many people come and
+live with them) \f*. 
 \b
 \q
 \v 31  \add Sometimes\add* righteous people are rewarded here on the earth,

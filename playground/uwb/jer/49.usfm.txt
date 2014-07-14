@@ -161,7 +161,7 @@ army\add*;
 \q2 they \add do not have allies who will help them\add* and do not have walls with gates that have bars in them.
 \q
 \v 32 Your troops will seize their camels and other livestock. 
-\q2 I will scatter in every direction [IDI] those people who live in remote places (OR, who cut their hair short).
+\q2 I will scatter in every direction [IDI] those people who live in remote places \f + \fr (OR, who cut their hair short) \f*.
 \q I will bring disasters to them from every direction. 
 \q
 \v 33 Hazor will become a place where jackals/wolves live, 

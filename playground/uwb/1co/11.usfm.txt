@@ -7,7 +7,7 @@
 \v 2 I praise you because you remember all the things \add that I taught
 you\add* and because you follow the instructions that I gave you. You have done just like I told you to do.
 \v 3  \add Now\add*, I want you to know that the one who has authority over \f + \fr metonymy \f* every man is Christ, and the ones who have
-authority over women are men (OR, their husbands), and the one who has authority over Christ is God.
+authority over women are men \f + \fr (OR, their husbands), and the one who has authority over Christ is God.
 \v 4  \add So\add* if any man \add wears a covering over\add* his head when he prays or speaks a message God gave him, he
 disgraces himself \f + \fr synecdoche \f*. 
 \v 5 Also, if any woman does not wear a covering over her head when she prays or speaks a message that God gave her, she
@@ -84,7 +84,7 @@ again\add* to remember my \add offering myself as a sacrifice for
 you\add*.” 
 \v 25 Similarly, after they ate their meal, he took a cup \f + \fr metonymy \f* \add of
 wine\add*. He \add thanked God for it. Then he gave it to his disciples\add*, saying,
-“\add The wine in\add* \f + \fr metonymy \f* this cup \add represents\add* \f + \fr metaphor \f* (OR, is) my blood
+“\add The wine in\add* \f + \fr metonymy \f* this cup \add represents\add* \f + \fr metaphor \f* (OR, is) \f* my blood
 \add that will flow from my body\add* ◄\add to put into effect/to
 establish\add*► the new agreement \add that God is making with people\add*. Whenever you drink wine in this way, do it to
 remember that \add my blood flowed for you\add*.” 

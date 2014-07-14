@@ -106,11 +106,11 @@ finds out what everyone thinks and desires \f + \fr metonymy \f*. I will reward 
 believers\add* in Thyatira. \add It is good\add* that you do not accept that
 \add false\add* teaching. \add It is good that you reject\add* what those
 \add teachers\add* call their ‘secret \add practices,’ practices
-that\add* Satan \add inspired\add* (OR, what those teachers \add facetiously\add* call the secret, profound
+that\add* Satan \add inspired\add* \f + \fr (OR, what those teachers \add facetiously\add* call the secret, profound
 \add practices that\add* Satan \add inspires\add*). I will not burden you with any other commands
 \add than that which you already have\add*. 
 \v 25 Just keep \add believing firmly in me, and obey me\add* until I come.
-\v 26 As for those who conquer \add Satan\add* and who (OR, \add because\add* they) keep on doing until they die what I
+\v 26 As for those who conquer \add Satan\add* and who (OR, \add because\add* they) \f* keep on doing until they die what I
 command, I will give them my authority, just like I myself received it from my Father.
 \add They will exercise that authority\add* over the nations \add that rebel against
 God\add*. 

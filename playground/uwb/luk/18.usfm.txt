@@ -22,7 +22,7 @@ you\add* have done has been right?► \f + \fr rhetorical question \f* He will d
 \v 8 But I tell you, \add some day\add* he will show that what you did was right, and he will do it quickly. But when
 \add I\add*, the one who came from heaven, return to earth, ◄there may not be
 \add many people who will still\add* be trusting \add that I will vindicate
-them\add* (OR, who will still be trusting in me)./will there be \add many people who will
+them\add* \f + \fr (OR, who will still be trusting in me)./will there be \add many people who will
 still\add* be trusting \add that I will vindicate them\add* (OR, who will still be trusting in me)?► \f + \fr rhetorical question \f*”
 \s Luke 18:9-14 
 \s Jesus taught about not thinking that we are better than others in God's sight.
@@ -125,7 +125,7 @@ there\add*, everything that has been written by the prophets {that the prophets 
 \add Messiah\add* descended from \add King\add* David, pity me!”
 \v 40 Jesus stopped and told \add people\add* to bring the man to him. When
 \add the blind man\add* came near, Jesus asked him, 
-\v 41 “What do you\add (sg)\add* want me to do for you?” He replied, “Lord, enable me to see
+\v 41 “What do you\add (sg) \f*\add* want me to do for you?” He replied, “Lord, enable me to see
 \add again\add*!” 
 \v 42 Jesus said to him, “\add Then\add* see! Because you have trusted \f + \fr personification \f*
 \add in me\add*, \add I\add* have healed you!” 

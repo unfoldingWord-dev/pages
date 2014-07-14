@@ -141,7 +141,7 @@ But Jesus rebuked the evil spirit and healed the boy. Then he returned him to hi
 \s Jesus predicted his arrest. 
 \p While they were all amazed at all the miracles \add Jesus\add* was doing, he said to his disciples,
 \v 44 “Think carefully \f + \fr metonymy \f* about what I am about to tell you: \add Even though I
-am\add* the one who came from heaven, \add I will soon\add* be handed over to the authorities (OR, my enemies)
+am\add* the one who came from heaven, \add I will soon\add* be handed over to the authorities \f + \fr (OR, my enemies)
 {\add someone\add* is about to enable \f + \fr metonymy \f* my enemies to seize me}.”
 \v 45 But \add the disciples\add* did not understand what he was saying;
 \add God\add* prevented them from understanding it, so that they would not know
@@ -187,7 +187,7 @@ you\add (sg)\add* want us\add (exc)\add* to pray that \add God\add* will send fi
 \s Jesus told three people what it would cost them if they became his disciples.
 \p
 \v 57 As Jesus and the disciples were walking along the road, one man said to him, “I will go with
-you\add (sg)\add* wherever you go!” 
+you\add (sg) \f*\add* wherever you go!” 
 \v 58  \add In order that the man might know what he could expect if he went with
 him\add*, Jesus said to him, “Foxes have holes \add in the ground in which to
 live\add*, and birds have nests, but \add even though I am\add* the one who came from heaven, I do not have a home where I can

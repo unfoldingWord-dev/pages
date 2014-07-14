@@ -3,7 +3,7 @@
 \v 1  \add I\add*, Paul, \add am writing this letter\add*. Silas and Timothy
 \add are with me\add*. \add We(exc) are sending this letter\add* to
 \add you who are\add* the congregation \add of believers\add* in Thessalonica
-\add city\add*. We\add (inc)\add* all \add worship\add* (OR, \add trust
+\add city\add*. We\add (inc)\add* all \add worship\add* \f + \fr (OR, \add trust
 in\add*) God \add our\add* Father \f + \fr metaphor \f* and \add our\add* Lord Jesus Christ.
 \add We three desire/pray that God, our Father, and Jesus Christ, our Lord, will continue
 to\add* act kindly toward you and \add will continue to\add* cause you to have
@@ -14,7 +14,7 @@ Holy Spirit enabled us to powerfully tell you the good message, and although peo
 a result, you inspired all the believers who are in Macedonia and Achaia to trust in God firmly, as you do.
 \p
 \v 2 We always thank God for you all \add when\add* we mention you while we pray (OR,
-\add when\add* we pray \add for you\add*). 
+\add when\add* we pray \add for you\add*) \f*. 
 \v 3  \add We thank God because\add* we continually remember that you work
 \add for God because\add* you trust \add in him\add* and you earnestly/energetically help people because you love them. You
 also endure \add it when people cause you to suffer\add*. You endure it because you confidently expect that our Lord Jesus

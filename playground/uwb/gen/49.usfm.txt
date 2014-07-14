@@ -104,7 +104,7 @@
 \q God Almighty will bless them 
 \q by sending them rain from the sky 
 \q and by giving them water from deep/far below the ground. 
-\q He will give them many cattle and children \f + \fr metaphor \f* (OR, and their cattle will have many offspring).
+\q He will give them many cattle and children \f + \fr metaphor \f* \f + \fr (OR, and their cattle will have many offspring) \f*.
 \q
 \v 26 The blessings that I want God to give you are great ones. 
 \q They are greater than the blessings that come from the eternal mountains,

@@ -50,7 +50,7 @@ and\add* kill me.
 \q2 and \add his enemies\add* heard his voice that sounded like thunder.
 \q
 \v 14 He shot his arrows at them and caused them to scatter; 
-\q2 His flashes of lightning caused them to become very confused (OR, to run away).
+\q2 His flashes of lightning caused them to become very confused \f + \fr (OR, to run away).
 \q
 \v 15 The bottom of the ocean became visible, 
 \q2 and the foundations of the earth were uncovered, 
@@ -142,7 +142,7 @@ cities\add*.
 \q2 in order that I can fight battles and defeat my enemies. 
 \q
 \v 40 You caused my enemies to run away (OR, you enabled me to put my foot on my enemies' necks
-\add after I captured them and forced them to lie on the ground\add*);
+\add after I captured them and forced them to lie on the ground\add*) \f*;
 \q2 I have gotten rid of all those who hated me. 
 \q
 \v 41 They called out for someone to help them, 

@@ -27,7 +27,7 @@ like\add*.
 \v 5 Everything that God has said is true; 
 \q2 he is like a shield \f + \fr metaphor \f* for all those who request him to protect them.
 \q
-\v 6 Do not add to (OR, change) what God has said; 
+\v 6 Do not add to \f + \fr (OR, change) what God has said; 
 \q2 if you do that, he will rebuke you and show that you are lying.
 \b
 \q
@@ -77,7 +77,7 @@ like\add*.
 \b
 \q
 \v 17 Those who \f + \fr synecdoche \f* make fun of their fathers 
-\q2 or refuse to obey their mothers (OR, despise their aged mothers)
+\q2 or refuse to obey their mothers (OR, despise their aged mothers) \f*
 \q should \add die and\add* have their eyes pecked out by crows,
 \q2 and the rest of their corpses should be fed to the vultures.
 \b

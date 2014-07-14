@@ -66,7 +66,7 @@ do\add*.
 \q
 \v 16 Rulers who do not have good sense cruelly oppress \add the people they
 rule\add*, 
-\q2 but rulers who do not want to become rich by cheating/deceiving people will live (OR, rule) for a long time.
+\q2 but rulers who do not want to become rich by cheating/deceiving people will live \f + \fr (OR, rule) \f* for a long time.
 \b
 \q
 \v 17 Those who are guilty of murdering \f + \fr metonymy \f* another person 

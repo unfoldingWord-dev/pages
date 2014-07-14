@@ -35,7 +35,7 @@ hear\add*!
 \add Bethlehem, the town where King\add* David grew up. That baby will
 \add eventually\add* save you \add from the guilt of your sins!\add* He is the Messiah,
 \add your\add* Lord! 
-\v 12 I will tell you how \add you will recognize him\add* (OR, how you will know
+\v 12 I will tell you how \add you will recognize him\add* \f + \fr (OR, how you will know
 \add that what I say is true\add*): \add In Bethlehem\add* you will find a baby who has been wrapped
 {\add whose mother\add* has wrapped him} in strips of cloth and placed in a trough where
 \add people\add* put food for the animals.” 
@@ -137,7 +137,7 @@ father and I have been very worried as we\add (exc)\add* have been searching for
 \v 49 He said to them, \add speaking about the Temple being God his Father's
 house\add*, “◄I am surprised that you\add (dl)\add* did \add not
 know\add* where to find me!/Why did you \add not know\add* where to find me?► \f + \fr rhetorical question \f*
-◄You\add (dl)\add* should have known that it was necessary for me to be in my Father's house!/Did you not know that it was
+◄You\add (dl) \f*\add* should have known that it was necessary for me to be in my Father's house!/Did you not know that it was
 necessary for me to be in my Father's house?► \f + \fr rhetorical question \f*” 
 \v 50 But they did not understand \add the meaning of\add* what he said to them.
 \v 51 Then he returned with them down to Nazareth. He always obeyed them. But his mother kept thinking about all those things.

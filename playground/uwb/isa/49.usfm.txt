@@ -96,8 +96,8 @@ the child to whom she has given birth!► \f + \fr rhetorical question \f*
 \v 16 Note that I have written your \add names\add* on the palms of my hands;
 \q2 in my mind I can always see the walls of your city. 
 \q
-\v 17 Soon your children will be returning there (OR, Those who rebuild your city will work more quickly than those who
-destroyed it), 
+\v 17 Soon your children will be returning there \f + \fr (OR, Those who rebuild your city will work more quickly than those who
+destroyed it) \f*, 
 \q2 and all those who destroyed your city will leave. 
 \q
 \v 18 You will look around and see 

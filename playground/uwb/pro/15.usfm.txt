@@ -60,7 +60,7 @@ that\add* they are sad.
 \b
 \q
 \v 15 Those who are oppressed constantly have difficulties, 
-\q2 but those who (OR, if they) are happy, \add it is as though\add* \f + \fr metaphor \f* they are having a big feast every day.
+\q2 but those who \f + \fr (OR, if they) \f* are happy, \add it is as though\add* \f + \fr metaphor \f* they are having a big feast every day.
 \b
 \q
 \v 16 Being poor and revering Yahweh 

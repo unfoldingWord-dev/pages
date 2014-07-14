@@ -15,13 +15,13 @@ message\add*.
 \p
 \v 3  \add Remember that our\add* Lord \add Jesus\add* is trustworthy!
 \add So we are sure that\add* he will cause you to continue to be steadfast.
-\add We are also sure that\add* he will protect you from \add Satan\add*, the evil one (OR, from evil).
+\add We are also sure that\add* he will protect you from \add Satan\add*, the evil one \f + \fr (OR, from evil).
 \v 4  \add Because of your close relationship with our\add* Lord
 \add Jesus\add*, we are confident about you that you are obeying what we have commanded you, and we are confident that you will
 obey what we are commanding \add you in this letter\add*. 
 \v 5  \add We pray that our\add* Lord \add Jesus\add* would enable you to continue
 \add knowing\add* that God loves you. \add We pray\add* also that Christ will cause you to continue
-\add being\add* steadfast (OR, being steadfast as he \add was steadfast\add*).
+\add being\add* steadfast (OR, being steadfast as he \add was steadfast\add*) \f*.
 \s 2 Thessalonians 3:6-11 
 \s We command you to disassociate yourselves from every fellow believer who refuses to work.
 \p

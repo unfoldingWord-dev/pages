@@ -82,8 +82,8 @@ shepherd\add*.
 shepherd\add* \f + \fr metaphor \f*, my \add people pay attention to what I say\add*. I know them, and they have become my disciples.
 \v 28 I will give them eternal life. No one will separate them from me, not ever. No one shall ever pull them away from
 belonging to me. 
-\v 29  \add Those\add* that my Father has given to me are more precious than anything else (OR, My Father, who has given them
-to me, is greater than anything that opposes them). So no one can pull them away from belonging to him \f + \fr metonymy \f*.
+\v 29  \add Those\add* that my Father has given to me are more precious than anything else \f + \fr (OR, My Father, who has given them
+to me, is greater than anything that opposes them) \f*. So no one can pull them away from belonging to him \f + \fr metonymy \f*.
 \v 30  \add My\add* father and I are equal.” 
 \p
 \v 31 The Jewish \add leaders\add* \f + \fr synecdoche \f* again picked up stones to throw at him

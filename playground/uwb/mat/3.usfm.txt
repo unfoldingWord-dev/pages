@@ -55,7 +55,7 @@ would severely punish the others.
 \v 11 “As for me, I \add am not very important, because\add* I baptize you
 \add only\add* with water. I \add baptize you\add* because of your feeling sorry that you have sinned. But someone else will
 come soon who is very great; \add he will do powerful deeds\add*
-(OR\add , act powerfully\add*)\add . Because he is\add* superior to me, I am not worthy
+\f + \fr (OR\add , act powerfully\add*)\add . Because he is\add* superior to me, I am not worthy
 \add even to do a menial task for him, such as\add* to carry his sandals.
 \p He will put \add his\add* Holy Spirit \add within\add* you \add to truly
 change\add* the way you live \f + \fr metaphor \f*, and \add he will judge others of you and punish you
@@ -77,7 +77,7 @@ him}.
 \bd you\bd* {\bd you\bd* to baptize \bd me\bd*} \add because you are superior to me. Since you are not a
 sinner\add*, ◄\add you(sg)\add* should not come to me \add to be baptized by
 me\add* {\add to ask that I baptize you(sg)\add*}!/why do you come to me
-\add to be baptized by me\add* {\add ask that I baptize you(sg)\add*} \f + \fr rhetorical question \f*?►”
+\add to be baptized by me\add* {\add ask that I baptize you(sg) \f*\add*} \f + \fr rhetorical question \f*?►”
 \v 15 But Jesus said to him, “Baptize me at this time, because in this way we
 \add two\add* will do \add everything that God\add* requires.” Then John consented to baptize him.
 \p

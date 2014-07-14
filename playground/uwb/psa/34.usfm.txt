@@ -71,9 +71,9 @@ help\add*.
 \q3 they will not break any bones of those righteous people. 
 \b
 \q
-\v 21 Wicked people will be killed by their own evil deeds (OR, by
+\v 21 Wicked people will be killed by their own evil deeds \f + \fr (OR, by
 \add people doing to them\add* the same evil things \add that the wicked do to
-others\add*) \f + \fr personification \f*, 
+others\add*) \f* \f + \fr personification \f*, 
 \q2 and Yahweh will punish those who oppose righteous people. 
 \q
 \v 22 Yahweh will save those who serve him. 

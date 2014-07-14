@@ -44,7 +44,7 @@ child\add* by the hand.
 \v 10 “This is the covenant that I will make with the Israelites \f + \fr metonymy \f*,
 \q after \add the first covenant has ended\add*” \f + \fr metonymy \f*,” says the Lord:
 \q “I will enable them to understand my laws \f + \fr metonymy \f*, 
-\q and I will enable them to obey them (OR, truly know them) \f + \fr metonymy \f* sincerely.
+\q and I will enable them to obey them \f + \fr (OR, truly know them) \f* \f + \fr metonymy \f* sincerely.
 \q I will be their God, and they will be my people \f + \fr doublet \f*. 
 \q
 \v 11  \add As a result\add*, no one will \add need to\add* teach a fellow citizen

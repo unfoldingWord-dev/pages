@@ -20,7 +20,7 @@ sits on the throne. Then they said, “\add It\add* is true! ◄Hallelujah!/Prai
 \v 5 Someone spoke from the throne and said, “All you who are his servants, praise our God! All you who reverence him,
 \add whether you are socially\add* significant or insignificant, praise him!
 \add Everyone!\add*” 
-\v 6 I heard something like the noise of a huge crowd \add of people\add*, like the sound of a huge waterfall (OR, a great/wide
+\v 6 I heard something like the noise of a huge crowd \add of people\add*, like the sound of a huge waterfall \f + \fr (OR, a great/wide
 river of rushing water), and like the sound of loud thunder. They were shouting:
 \q ◄Hallelujah!/Praise God!► Because the Lord God, the Almighty One, reigns!
 \q
@@ -45,7 +45,7 @@ a\add* lamb, \add permanently uniting with his people, like someone\add* \f + \f
 your\add (sg)\add* fellow believers who tell people about Jesus. God is the one whom you should worship, because it is the
 Spirit of God who gives people the power to tell others about Jesus (OR,
 \add those who tell others about\add* Jesus are \add truly\add* declaring
-\add the words that the Spirit of God has given them\add*)!” 
+\add the words that the Spirit of God has given them\add*) \f*!” 
 \s Revelation 19:11-16 
 \s John saw heaven open and saw the one whom he described as King of kings and Lord of lords mounted on a white horse.
 \p

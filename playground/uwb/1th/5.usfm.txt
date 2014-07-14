@@ -6,7 +6,7 @@ We must not be like them. On the contrary, we must be vigilant and self-controll
 \v 1 My fellow believers, \add I want to tell you more\add* about the time or period
 \add when the Lord Jesus will come back. Really\add*, you do not need that I write to you about that,
 \v 2 because you yourselves know accurately \add about it already! You
-know\add* that the Lord \add Jesus will return\add* \f + \fr metonymy \f* \add unexpectedly\add* (OR,
+know\add* that the Lord \add Jesus will return\add* \f + \fr metonymy \f* \add unexpectedly\add* \f + \fr (OR,
 \add when some people are unprepared\add*). \add People will not expect him, just like no one knows
 when\add* a thief \add comes unexpectedly\add* at night \f + \fr simile \f*. 
 \v 3  \add At a future time\add* many people will say, “\add All
@@ -77,7 +77,7 @@ all people who are weak \add in any way\add*. We also urge you to be patient wit
 \v 18 and thank \add God\add* ◄in all \add circumstances/\add*regardless
 \add of what happens\add*►. God wants you \add to behave\add* like that
 \add because of what\add* Christ Jesus \add has done for you\add* (OR, because you have a close relationship with Christ
-Jesus). 
+Jesus) \f*. 
 \s 1 Thessalonians 5:19-22 
 \s Evaluate all messages that people claim that the Holy Spirit gave them. Accept authentic messages and obey them.
 \p

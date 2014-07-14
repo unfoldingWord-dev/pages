@@ -8,7 +8,7 @@
 \add other\add* officials to a big banquet/feast. He invited all the commanders of the armies of Persia and Media to come to
 the banquet. He also invited the governors and other leaders of the provinces.
 \v 4  \add The celebration\add* lasted for six months. During that time the king showed to the guests all his wealth and other
-things that showed how great his kingdom was (OR, how great a king he was).
+things that showed how great his kingdom was \f + \fr (OR, how great a king he was) \f*.
 \p
 \v 5 At the end of those six months, the king invited people to another banquet. He invited to the banquet all the men who
 worked in the palace, including those who had important jobs and those who had unimportant jobs.

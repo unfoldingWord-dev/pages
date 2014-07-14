@@ -29,7 +29,7 @@ Kedar, Adbeel, Mibsam,
 settlement and campsite. 
 \v 17 Ishmael lived until he was 137 years old. Then he died \f + \fr euphemism \f* and joined his ancestors who had previously died.
 \v 18 His descendants ◄settled/went to live► in the area between Shur and Havilah, near the border of Egypt as a person travels
-toward Asshur. All of their camps were close to each other (OR, they all frequently attacked each other).
+toward Asshur. All of their camps were close to each other \f + \fr (OR, they all frequently attacked each other).
 \s The birth of Esau and Jacob 
 \p
 \v 19 ◄This is an account of/I will now tell you about► Abraham's son, Isaac. Abraham became the father of Isaac,
@@ -56,7 +56,7 @@ more.
 \p
 \v 29 One day while Jacob was cooking some stew, Esau came home from the field, very hungry.
 \v 30 He said to Jacob, “Give me some of that red stew to eat right now, because I am very hungry!” (That is why Esau's other
-name was Edom, which sounds like the Hebrew word that means 'red.')
+name was Edom, which sounds like the Hebrew word that means 'red.') \f*
 \v 31 Jacob said, “I will give you some if you sell me ◄your birthright/the privileges you have because you are the firstborn
 son►.” 
 \v 32 Esau replied, “Well, I am about to die from being so hungry.

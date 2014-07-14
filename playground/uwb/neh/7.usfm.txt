@@ -42,7 +42,7 @@ Baanah.
 \li2
 \v 14 760 men from the clan of Zaccai; 
 \li2
-\v 15 648 men from the clan of Bani (OR, Binnui); 
+\v 15 648 men from the clan of Bani \f + \fr (OR, Binnui); 
 \li2
 \v 16 628 men from the clan of Bebai; 
 \li2
@@ -150,7 +150,7 @@ Baanah.
 \b
 \pi
 \v 61-62 Another group of 642 people from the clans of Delaiah, Tobiah, and Nekoda returned from the towns of Tel-Melah,
-Tel-Harsha, Kerub, Addan (\add who is also known as Addon\add*), and Immer
+Tel-Harsha, Kerub, Addan (\add who is also known as Addon\add*) \f*, and Immer
 \add in Babylonia\add*. But they could not prove that they were descendants of Israelis.
 \b
 \pi

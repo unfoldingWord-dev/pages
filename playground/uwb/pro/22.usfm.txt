@@ -91,7 +91,7 @@ them\add*,
 \q
 \v 21 From them, you will learn what is right and what is true, 
 \q2 in order that you will be able to bring back a good report \add to those who sent you to
-school\add* (OR, give a good answer \add to those who ask you questions\add*).
+school\add* \f + \fr (OR, give a good answer \add to those who ask you questions\add*) \f*.
 \s -1- 
 \b
 \q

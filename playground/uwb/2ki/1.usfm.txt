@@ -25,7 +25,7 @@ recover\add*.► \f + \fr rhetorical question \f* Go \add tell the king that\add
 \p
 \v 7 The king said to them, “The man who came to meet you and told that to you, what was his appearance like?”
 \p
-\v 8 They replied, “He was wearing a cloak made from \add camel\add* hair (OR, he was a man with a long beard) and had a
+\v 8 They replied, “He was wearing a cloak made from \add camel\add* hair \f + \fr (OR, he was a man with a long beard) \f* and had a
 \add wide\add* leather belt around his waist.” The king exclaimed, “That was Elijah!”
 \p
 \v 9 Then the king sent an officer with fifty soldiers to seize Elijah. They found Elijah sitting on the top of a hill. The

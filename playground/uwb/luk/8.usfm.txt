@@ -99,7 +99,7 @@ said to each other, “◄What kind of man is this?/This man is not like ordinar
 \v 26 Jesus and his disciples arrived at the region near Gerasa, a
 \add town\add* which \add was on the eastern\add* side of Lake \add Galilee\add*.
 \v 27  \add There was\add* a man \add in that region\add* in whom demons lived.
-\add He was\add* from the town \add of Gerasa\add*. (OR, \add In that area there
+\add He was\add* from the town \add of Gerasa\add*. \f + \fr (OR, \add In that area there
 was\add* a man \add from that town\add* whom demons controlled.) For a long time he had not worn clothes. He did not live in a
 house. Instead, he lived in burial caves. 
 \v 28-29 Many times \add demons\add* attacked him. He was guarded
@@ -171,7 +171,7 @@ God's\add* peace \add within you\add*.”
 house\add*!/why do you bother the teacher any longer \add by urging him to go to your
 house\add*?► \f + \fr rhetorical question \f*” 
 \v 50 But when Jesus heard that, he said to Jairus, “Do not think that there is nothing more that can be done. Just believe
-that \add I can help her. If you(sg) do that\add*, she will live again.”
+that \add I can help her. If you(sg) \f* do that\add*, she will live again.”
 \v 51 When they arrived outside the house, he allowed only Peter, John, James, and the girl's mother and father to go in the
 house with him. 
 \v 52 All the people \add there\add* were crying and beating their breasts

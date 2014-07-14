@@ -24,7 +24,7 @@
 \v 6  \add Sometimes\add* the people of many nations are terrified;
 \q2 kingdoms ◄are overthrown/cease to exist►; 
 \q God speaks \add loudly like thunder\add*, 
-\q2 and the earth melts (OR, people everywhere become terrified) \f + \fr metaphor \f*.
+\q2 and the earth melts \f + \fr (OR, people everywhere become terrified) \f + \fr metaphor \f*.
 \b
 \q
 \v 7 But Yahweh, the commander of the armies of heaven, is with us;
@@ -46,4 +46,4 @@
 \q
 \v 11  \add So never forget that\add* Yahweh, the commander of the armies of heaven, is with us;
 \q2 the God whom Jacob worshiped (OR, we Israeli people worship) is our refuge.
-\qr (Think about that!) 
+\qr (Think about that!) \f* 

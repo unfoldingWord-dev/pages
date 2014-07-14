@@ -34,8 +34,8 @@ earth.
 \q You will be like a light to the other nations. 
 \q
 \v 7 You will enable blind [IDI] people to see, 
-\q2 you will free those who are in prison (OR, who are bound \add by the guilt of their
-sins\add*) \f + \fr metaphor \f* 
+\q2 you will free those who are in prison \f + \fr (OR, who are bound \add by the guilt of their
+sins\add*) \f* \f + \fr metaphor \f* 
 \q2 and release those who are in dark dungeons. 
 \b
 \q

@@ -55,7 +55,7 @@ to\add* cry.
 \q
 \v 16 I am one of those who serve Yahweh; 
 \q2 I serve him like my mother did. 
-\q2 He has freed/saved me from dying (OR, from being fastened by chains).
+\q2 He has freed/saved me from dying \f + \fr (OR, from being fastened by chains) \f*.
 \b
 \q
 \v 17 So I will offer to him a sacrifice to thank him, 

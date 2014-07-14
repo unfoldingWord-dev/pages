@@ -1,6 +1,6 @@
 \c 3  
 \p
-\v 1 Anyone who aspires to be an elder \add in the congregation\add* (OR, a bishop) desires a noble/honorable task.
+\v 1 Anyone who aspires to be an elder \add in the congregation\add* \f + \fr (OR, a bishop) desires a noble/honorable task.
 \v 2  \add Since that is a task that others should respect\add*, an overseer must
 \add conduct himself\add* in such a way that \add no one\add* can truly ◄say that he has done
 \add anything that is\add* wrong/find fault with him►. Specifically,
@@ -50,7 +50,7 @@ spiritual truth that we say/sing about \add Christ\add* (OR, We affirm this teac
 shows us how to live ◄in a godly manner/in a manner that pleases God►. It is what God has now revealed, even though it was not
 known before\add . We\add* ◄\add affirm/say that it is true\add*► concerning Jesus Christ that,
 \q He is the one who appeared on the earth in a human body. 
-\q God's Spirit showed/demonstrated that he is/was truly the Messiah (OR, that he always acted righteously);
+\q God's Spirit showed/demonstrated that he is/was truly the Messiah (OR, that he always acted righteously) \f*;
 \q Angels saw him; people preached about him in many nations; 
 \q People in many parts of the world believed the message about him.
 \q God took him up into heaven. 

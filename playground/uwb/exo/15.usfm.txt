@@ -18,7 +18,7 @@ since:\add*
 \v 4 He has thrown the king's chariots and his army 
 \q2 into the sea; 
 \q His best officers 
-\q2 all drowned in the Red Sea (OR, Gulf of Suez). 
+\q2 all drowned in the Red Sea \f + \fr (OR, Gulf of Suez). 
 \q
 \v 5 The \add water covered them like\add* a flood; 
 \q2 they sank to the bottom like a stone. 
@@ -90,7 +90,7 @@ up her tambourine,
 \q He has thrown the horses and their riders into the sea.” 
 \s Yahweh made bitter water become good water to drink 
 \p
-\v 22 Then Moses/I led the Israeli people away from the Red Sea (OR, Gulf of Suez). They/we went to the desert at Shur. They/We
+\v 22 Then Moses/I led the Israeli people away from the Red Sea (OR, Gulf of Suez) \f*. They/we went to the desert at Shur. They/We
 walked for three days, but they/we could not find any water. 
 \v 23 So they/we \add went on and\add* came to a \add place named\add* Marah.
 \add There was\add* water \add there, but\add* they/we could not drink it, because it was bitter. That is why they named the

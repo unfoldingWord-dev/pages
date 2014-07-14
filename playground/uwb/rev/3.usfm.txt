@@ -4,7 +4,7 @@
 \p
 \v 1 “Write \add this message\add* to the leader \f + \fr metaphor \f* of the congregation in Sardis
 \add city\add*: ‘I am saying these things \add to you. I am\add* the one who can give
-\add to people\add* all the power of God's Spirit (OR, in whom is the Spirit of God who has all kinds of power; OR,
+\add to people\add* all the power of God's Spirit \f + \fr (OR, in whom is the Spirit of God who has all kinds of power; OR,
 \add who has God's Spirit, who is symbolized as\add* seven spirits), and
 \add I am the one\add* who has the seven stars. I know everything that you have done.
 You\add (pl)\add* appear to be alive \add spiritually\add*, but\add you are so weak spiritually it is as
@@ -41,7 +41,7 @@ authority to allow people to enter\add* my kingdom\add . I am\add* the one who o
 \add doors\add* so that no one can close them, and who closes doors so that no one can open them.
 \v 8 I know everything you have done. Be aware that I have opened before you a door that no one can close.
 \add I know that although\add* you do not have \add many believers\add* (OR, much
-\add spiritual\add* strength) \f + \fr metonymy \f* \add in your congregation\add*, you have obeyed what I say, and you have not denied
+\add spiritual\add* strength) \f* \f + \fr metonymy \f* \add in your congregation\add*, you have obeyed what I say, and you have not denied
 \add that you believe in\add* me \f + \fr metonymy \f*. 
 \v 9  \add I am aware that\add* some of your people meet together with those who
 \add follow/worship\add* Satan. They claim to be Jews, but I know that they are not true Jews. They are lying. I will cause

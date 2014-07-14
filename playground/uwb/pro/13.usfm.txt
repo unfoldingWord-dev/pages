@@ -48,7 +48,7 @@ probably\add* will lose it quickly,
 \q
 \v 12 When people do not receive the things that they are expecting to receive, they ◄are despaired/become devastated►;
 \q2 but if you receive what you are desiring to get, that will be like a tree \f + \fr metaphor \f*
-\add whose fruit gives you\add* life (OR, that will cause you to be joyful).
+\add whose fruit gives you\add* life \f + \fr (OR, that will cause you to be joyful).
 \b
 \q
 \v 13 Those who despise the good advice \add that others give them\add* are bringing ruin on themselves;
@@ -60,7 +60,7 @@ probably\add* will lose it quickly,
 \b
 \q
 \v 15 People respect those who have good sense, 
-\q2 but those who cannot be trusted are on the road to being ruined/destroyed (OR, will have a lot of difficulties/troubles).
+\q2 but those who cannot be trusted are on the road to being ruined/destroyed (OR, will have a lot of difficulties/troubles) \f*.
 \b
 \q
 \v 16 Those who have good sense always think carefully/wisely before they do something;

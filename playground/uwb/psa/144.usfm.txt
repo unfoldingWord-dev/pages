@@ -59,8 +59,8 @@ tall\add*
 \q I wish/hope that the sheep in our fields will give birth to tens of thousands of baby lambs.
 \q
 \v 14 I wish/hope that our cows will give birth to many calves 
-\q2 without having any miscarriages or deaths when they are born (OR, that no enemies will break through our city walls and
-take us ◄into exile/to their own countries►). 
+\q2 without having any miscarriages or deaths when they are born \f + \fr (OR, that no enemies will break through our city walls and
+take us ◄into exile/to their own countries►) \f*. 
 \q I wish/hope that \add there will not be a time when\add* the people in our streets cry out in distress
 \q2 \add because foreign armies are invading\add*. 
 \b

@@ -75,4 +75,4 @@ wrong\add*,
 \q2 where it is always gloomy and very dark \f + \fr doublet \f*, 
 \q
 \v 22 a place of darkness and dark shadows, where everything is confused/disordered,
-\q2 where \add even the small\add* light there is like darkness (OR, there is no light, only darkness).’ ”
+\q2 where \add even the small\add* light there is like darkness \f + \fr (OR, there is no light, only darkness) \f*.’ ”

@@ -174,7 +174,7 @@ care\add* expect those people\add to care for those things\add* very well. Simil
 \s Jesus warned them that they would face opposition even within their own families.
 \p
 \v 49 “I came to earth to bring \add trials\add* \f + \fr metaphor \f*, \add which will separate and purify you
-as\add* fire \add purifies metal\add* (OR, to cause judgment/divisions). I wish that the time when
+as\add* fire \add purifies metal\add* \f + \fr (OR, to cause judgment/divisions). I wish that the time when
 \add you\add* will be purified {when \add God\add* will purify you} (OR, when divisions will be caused {to cause divisions
 among people}) had already begun. 
 \v 50 I must soon suffer \f + \fr idiom \f* greatly. I am distressed, and I will continue to be distressed until my suffering is finished.
@@ -202,7 +202,7 @@ what happens.
 \add thing for you to do now while you still have time to do that\add*?► \f + \fr rhetorical question \f*
 \v 58  \add If you do not do that, God will punish you\add* \f + \fr metaphor \f*.
 \add It will be like what happens when\add* someone takes one of you to court, saying that
-you\add (sg)\add* have done something very bad. You should try to settle things with him while you are still on the way to the
+you\add (sg) \f*\add* have done something very bad. You should try to settle things with him while you are still on the way to the
 court. If he forces you to go to the judge, the judge will decide that you are guilty and put you into the hands of the court
 officer. Then that officer will put you in prison. 
 \v 59 I tell you that if you go to prison, you will never get out,

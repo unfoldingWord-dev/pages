@@ -29,7 +29,7 @@ shepherd\add*? [MET, RHQ]
 \v 8 They said to themselves, “We will destroy the Israelis completely,”
 \q2 and they also burned down all the other places where we gathered to worship God.
 \q
-\v 9 All our sacred symbols (OR, miracles) are gone; 
+\v 9 All our sacred symbols \f + \fr (OR, miracles) \f* are gone; 
 \q2 there are no prophets now/anymore, 
 \q2 and no one knows how long \add this situation will continue\add*.
 \b

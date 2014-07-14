@@ -58,7 +58,7 @@ him.
 has chosen us in order that we may live peacefully. 
 \v 16  \add You women believers should allow your unbelieving spouses to leave you if they want
 to\add*, because ◄there is no way that you can be sure that God will save your husband if you stay together./how can you be
-sure that God will save your husband if you stay together?► \f + \fr rhetorical question \f* (OR, perhaps God will save your husband if you stay
+sure that God will save your husband if you stay together?► \f + \fr rhetorical question \f* \f + \fr (OR, perhaps God will save your husband if you stay
 together.) Similarly, you men \add who are believers\add*, ◄there is no way that you can be sure that God will save your wives
 if you stay together/how can you be sure that God will save your wives if you stay together?► \f + \fr rhetorical question \f* (OR, perhaps God will save
 your wives if you stay together.) 
@@ -153,7 +153,7 @@ marry her. He will not be sinning \add by doing that\add*. \vp 37\vp* But if a m
 \add that it is better\add* for him not to get married, and if nothing is forcing
 \add them to get married\add*, if he is free to make his own decision on the matter, if he decides not to get married, he is
 doing what is right. \vp 38\vp* So any man who decides that he should get married to the woman he is engaged to is doing what
-is good, but if he decides that he should not get married, he is doing something even better.)
+is good, but if he decides that he should not get married, he is doing something even better.) \f*
 \s 1 Corinthians 7:39-40 
 \s Women whose husbands have died are free to get remarried, but only to believers. However, they will probably remain happier
 if they do not marry again. 

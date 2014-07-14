@@ -57,7 +57,7 @@ better\add*.
 \b
 \q
 \v 13  \add You deserve to\add* have your property taken from you
-\q2 if you foolishly promise to a stranger (OR, a strange woman) that you will pay what she owes if she is unable to pay it
+\q2 if you foolishly promise to a stranger \f + \fr (OR, a strange woman) \f* that you will pay what she owes if she is unable to pay it
 \f + \fr doublet \f*. 
 \b
 \q

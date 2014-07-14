@@ -108,7 +108,7 @@ city\add*.”
 \q2 his name is 'the Almighty Commander of the armies of angels.'
 \b
 \q
-\v 20 Yahweh says \add about the army of Babylonia\add* (OR, about a nation that will attack Babylonia),
+\v 20 Yahweh says \add about the army of Babylonia\add* \f + \fr (OR, about a nation that will attack Babylonia) \f*,
 \q “You are like \f + \fr metaphor \f* my battle-axe and war-club; 
 \q with your \add power\add* I shatter nations 
 \q2 and destroy many kingdoms. 

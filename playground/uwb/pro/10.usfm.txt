@@ -37,7 +37,7 @@
 \b
 \q
 \v 9 Honest people will walk/live safely, 
-\q2 but others (OR, God) will find out those who are dishonest. 
+\q2 but others \f + \fr (OR, God) will find out those who are dishonest. 
 \b
 \q
 \v 10 Those who wink their eyes \add to signal that they are about to do something that is
@@ -129,7 +129,7 @@ them\add*, and that causes them to be happy/joyful;
 \b
 \q
 \v 30 Righteous people will always be secure \f + \fr litotes \f*, 
-\q2 but wicked people will be removed from their land (OR, from this earth).
+\q2 but wicked people will be removed from their land (OR, from this earth) \f*.
 \b
 \q
 \v 31 Righteous people \f + \fr metonymy \f* say things that are wise, 

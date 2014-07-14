@@ -102,7 +102,7 @@ city\add*;
 \q
 \v 21 Animals that live in the desert will be there; 
 \q2 jackals/wolves will live in \add the ruins of\add* the houses.
-\q Owls (OR, Ostriches) will live in \add the ruins\add*, 
+\q Owls \f + \fr (OR, Ostriches) \f* will live in \add the ruins\add*, 
 \q2 and wild goats will romp/jump around there. 
 \q
 \v 22 Hyenas will howl in the \add ruined\add* towers, 

@@ -73,7 +73,7 @@ God\add*.
 \s God's suffering servant 
 \q
 \v 13 Yahweh says, “Listen carefully! 
-\q2 My servant will act wisely (OR, do the right things to accomplish what he wants to),
+\q2 My servant will act wisely \f + \fr (OR, do the right things to accomplish what he wants to) \f*,
 \q and I will highly exalt him.” 
 \q
 \v 14 But many people will be appalled when they see what has happened to him.

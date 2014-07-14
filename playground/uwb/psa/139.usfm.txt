@@ -61,7 +61,7 @@ me\add*.
 \q2 You did that before any of those days had even started! 
 \b
 \q
-\v 17 God, what you think about me is very precious (OR, is very hard to understand).
+\v 17 God, what you think about me is very precious \f + \fr (OR, is very hard to understand) \f*.
 \q2 There is a huge amount of the things that you think about. 
 \q
 \v 18 If I could count them, \add I would see that\add* they are more than the grains of sand

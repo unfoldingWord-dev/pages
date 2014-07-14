@@ -2,7 +2,7 @@
 \s -6- 
 \q
 \v 1 When you sit down to eat a meal with a ◄government official/king►,
-\q2 think carefully about what (OR, who) is in front of you. 
+\q2 think carefully about what \f + \fr (OR, who) \f* is in front of you. 
 \q
 \v 2 Even if you ◄have a big appetite/want to eat a lot of food►,
 \q2 restrain yourself. 

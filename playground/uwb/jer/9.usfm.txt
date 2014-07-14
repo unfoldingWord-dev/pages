@@ -121,8 +121,8 @@ places\add*.
 \q
 \v 25-26 There will be a time when I will punish all those people of Egypt and of the Moab people-group and of the Edom
 people-group and of the Ammon people-group, 
-\q2 all those people who live close to desert areas (OR, who cut their hair short
-\add to please their gods\add*) far from Judah, 
+\q2 all those people who live close to desert areas \f + \fr (OR, who cut their hair short
+\add to please their gods\add*) \f* far from Judah, 
 \q2 all those people who have \add changed their bodies by\add* circumcising them \f + \fr metaphor \f*
 \q2 but who have not \add changed\add* their inner beings. 
 \q I will punish the people of Judah also, 

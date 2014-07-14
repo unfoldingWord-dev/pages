@@ -36,7 +36,7 @@ out\add*
 \s David's three greatest warriors 
 \p
 \v 8 These are the names of David's three greatest warriors. 
-\p The first was Esh-Baal, \add whose other name was Jashobeam\add*, from the Hachmon clan (OR, the son of Hachmon). He was the
+\p The first was Esh-Baal, \add whose other name was Jashobeam\add*, from the Hachmon clan \f + \fr (OR, the son of Hachmon) \f*. He was the
 leader of the three men. One time he fought against eight hundred enemies and killed them all with his spear.
 \p
 \v 9 The second/next one of the three greatest warriors was Eleazar, who was the son of Dodo from the clan of Ahoh. One day he

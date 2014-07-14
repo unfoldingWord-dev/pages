@@ -18,7 +18,7 @@ me!\add* I have protected for myself \add not just you, but\add* 7000
 \add other\add* men who have not worshipped \add the false god\add* Baal. ◄Remember that!/Do you not remember that?► \f + \fr rhetorical question \f*”
 \v 5 So, similarly, there is also at this time a small group \add of us
 Jews\add* who have become \add believers. God\add* has chosen us
-\add to become believers\add* (OR, \add his people\add*) only because he acts kindly toward us, in ways that we do not deserve.
+\add to become believers\add* \f + \fr (OR, \add his people\add*) only because he acts kindly toward us, in ways that we do not deserve.
 \v 6 Since it is because he acts kindly \add toward those whom he chooses, it
 is\add* not because they have done good things \add that he has chosen
 them\add*. If \add God chose people because they did good deeds\add*, then it would not be because he was acting toward them in
@@ -152,7 +152,7 @@ them because of their ancestors. It is his purpose to act mercifully towards the
 fulfilled\add*►: 
 \p The one who sets \add his people\add* free will originate from
 \add the place where\add* God dwells (OR, from the Jews) \f + \fr metonymy \f*. Then he will remove the guilt of the Israelite people (OR,
-descendants of Jacob) \f + \fr metonymy \f*. 
+descendants of Jacob) \f* \f + \fr metonymy \f*. 
 \p
 \v 27 And \add as God says\add*, 
 \p The contract that I will make with them is that I will forgive their sins.

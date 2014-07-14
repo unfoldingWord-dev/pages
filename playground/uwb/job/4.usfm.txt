@@ -67,7 +67,7 @@ right\add*;
 \q2 who are crushed as easily as moths are crushed! 
 \q
 \v 20 People are sometimes well in the morning, but in the evening they are dead.
-\q2 They are gone forever and do not even know it (OR, and no one pays any attention to it).
+\q2 They are gone forever and do not even know it \f + \fr (OR, and no one pays any attention to it) \f*.
 \q
 \v 21 They are like \f + \fr metaphor \f* tents that collapse \add suddenly:\add*
 \q2 they die \add suddenly\add* without becoming wise.’ ” 

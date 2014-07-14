@@ -21,7 +21,7 @@ house\add*, but I have no food \add ready\add* to give to him!’
 {\add We(exc)\add* have locked the door} and all my family are in bed.
 \add So\add* I cannot get up and give you\add (sg)\add* anything!’
 \v 8 I will tell you that even if he does not \add want to\add* get up and give you
-\add any food\add*, to avoid being ashamed \add for not helping you\add* because you are his friend (OR, if without being
+\add any food\add*, to avoid being ashamed \add for not helping you\add* because you are his friend \f + \fr (OR, if without being
 ashamed you continue asking him to do that), he certainly will get up and give you whatever you need.
 \v 9 So I tell you this: Keep asking \add God for what you need\add*. If you do that,
 \add he\add* will give it to you\add (pl)\add*. Confidently keep expecting
@@ -173,7 +173,7 @@ you\add (sg)\add* are criticizing us \add also\add*!”
 \add Jewish\add* laws! You require people \add to obey many rules that are difficult to
 obey\add* \f + \fr metaphor \f*. \add That is like making them\add* carry heavy burdens on their backs. But you yourselves do not obey the laws
 \add that you require others to obey\add*. (OR, you do not do anything to help
-\add others to obey the laws\add*.) 
+\add others to obey the laws\add*.) \f* 
 \v 47 There will be terrible punishment for you! You decorate the tombs of the prophets whom your ancestors killed,
 \add but you do not live according to what the prophets taught\add*.
 \v 48 So you are declaring that you approve of what your ancestors did. They killed the prophets, and you

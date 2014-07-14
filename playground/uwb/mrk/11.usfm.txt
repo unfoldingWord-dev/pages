@@ -61,8 +61,8 @@ that\add*?► \f + \fr rhetorical question \f*”
 \add later\add* heard \add about what he had done\add*. So they planned how they might kill him,
 \add but they knew that it would be difficult\add*, because they realized that the crowd was amazed at what he was teaching and
 they feared \add that the people would soon decide that Jesus had more authority over the Temple than they
-did\add* (OR, \add feared what the people would do if they tried to arrest
-Jesus\add*). 
+did\add* \f + \fr (OR, \add feared what the people would do if they tried to arrest
+Jesus\add*) \f*. 
 \v 19 That evening, \add Jesus and his disciples\add* left the city
 \add and again slept in Bethany\add*. 
 \s MARK 11:20-25 

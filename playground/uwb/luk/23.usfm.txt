@@ -118,7 +118,7 @@ you\add*?► \f + \fr rhetorical question \f* They are punishing him \add and us
 \v 42 Then he said, “Jesus, \add please\add* remember me \add and take care of
 me\add* when you become king!” 
 \v 43 Jesus replied, “I want you\add (sg)\add* to know that today
-you\add (sg)\add* will be with me in the place where everyone is happy!” (OR, that today you will be with me in Paradise!)
+you\add (sg)\add* will be with me in the place where everyone is happy!” \f + \fr (OR, that today you will be with me in Paradise!) \f*
 \p
 \v 44  \add Then it\add* was about noontime. It became dark over the whole land,
 \add and it stayed dark\add* until three o'clock in the afternoon.

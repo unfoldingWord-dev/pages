@@ -17,7 +17,7 @@ the tune 'Dove on distant oaks'
 \q2 Ordinary humans certainly cannot \f + \fr rhetorical question \f* harm me! 
 \b
 \q
-\v 5 All day long my enemies claim that I said things that I did not say (OR, try to destroy what I am doing);
+\v 5 All day long my enemies claim that I said things that I did not say \f + \fr (OR, try to destroy what I am doing);
 \q2 they are always thinking of ways to harm me. 
 \q
 \v 6 In order to cause trouble for me, they hide 
@@ -52,4 +52,4 @@ the tune 'Dove on distant oaks'
 \q2 Ordinary humans certainly cannot \f + \fr rhetorical question \f* harm me! 
 \q2 As a result, I will continue to live in your presence in the light that
 \add shines on those who are still\add* alive (OR, in the light that
-\add enables people to\add* live). 
+\add enables people to\add* live) \f*. 

@@ -96,7 +96,7 @@ people.►” \f + \fr rhetorical question \f*
 \q2 which were as numerous as the grains of sand on the seashore.
 \q
 \v 28 God caused those birds to fall in the middle of ◄their camp/the area where they had put up their tents►,
-\add and the birds died\add* (OR, \add and the people grabbed them and killed
+\add and the birds died\add* \f + \fr (OR, \add and the people grabbed them and killed
 them\add*). 
 \q2 \add There were birds\add* all around their tents. 
 \q
@@ -232,7 +232,7 @@ straight\add* \f + \fr simile \f*.
 \b
 \q
 \v 65 Later, \add it was as though\add* the Lord awoke from sleeping;
-\q he was like a strong man who ◄became stimulated/felt that he was strong► by (OR, became sober after)
+\q he was like a strong man who ◄became stimulated/felt that he was strong► by (OR, became sober after) \f*
 \add drinking\add* a lot of wine \f + \fr simile \f*. 
 \q
 \v 66 He pushed their enemies back 

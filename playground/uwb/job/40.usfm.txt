@@ -55,7 +55,7 @@ questions\add*!► \f + \fr rhetorical question \f*
 \v 16 Their legs/thighs are very strong, 
 \q2 and the muscles of their bellies are very powerful. 
 \q
-\v 17 Their tails are stiff (OR, bend down) like the branches of a cedar tree.
+\v 17 Their tails are stiff \f + \fr (OR, bend down) \f* like the branches of a cedar tree.
 \q2 The sinews/muscles of their thighs are close together. 
 \q
 \v 18 Their thigh bones are like tubes made of bronze, 

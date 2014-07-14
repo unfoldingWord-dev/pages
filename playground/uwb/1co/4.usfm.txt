@@ -2,7 +2,7 @@
 \s 1 Corinthians 4:1-7 
 \s Stop judging your leaders' value; do not be proud of one and despise another.
 \p
-\v 1 So, people ought to consider us \add apostles\add* (OR, Apollos and me) to be
+\v 1 So, people ought to consider us \add apostles\add* \f + \fr (OR, Apollos and me) to be
 \add merely\add* servants of Christ. God has given to us\add (exc) the work
 of\add* telling others the message that God has now revealed to us.
 \v 2 With respect to doing that, those who are given work are required {give others some work to do require them} to do that
@@ -37,7 +37,7 @@ God\add*./did you not receive them \add from God\add*?► \f + \fr rhetorical qu
 wish that you really were ruling \add with him\add*, in order that we
 \add apostles\add* might also rule with you! 
 \v 9 But it seems as though God has put us \add apostles\add* on display at the end of the line.
-We\add (exc)\add* are like men who have been condemned to die, who have been put in the arena where everyone can see
+We\add (exc) \f*\add* are like men who have been condemned to die, who have been put in the arena where everyone can see
 \add the wild animals\add* killing them. And not only people, but even angels all over the world
 \add are watching us, as people\add* watch those who are performing a play
 \add in a theater\add*. 

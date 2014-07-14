@@ -27,7 +27,7 @@ do\add*,
 \b
 \q
 \v 7 If parents conduct their lives as they should, 
-\q2 \add God\add* blesses their children (OR, their children are very happy/fortunate).
+\q2 \add God\add* blesses their children \f + \fr (OR, their children are very happy/fortunate) \f*.
 \b
 \q
 \v 8 A king who sits on his throne to judge people 

@@ -10,7 +10,7 @@ also\add* promised \add something\add*. \add He promised\add*,
 \p
 \v 3  \add If you do\add* that, you will prosper, and you will live a long time on the earth.
 \p
-\v 4 You parents (OR, You fathers), do not treat your children so severely that they become angry. Instead, bring them up well
+\v 4 You parents \f + \fr (OR, You fathers), do not treat your children so severely that they become angry. Instead, bring them up well
 by instructing them and by disciplining them in \add the manner that\add* the Lord
 \add Jesus wants you to do\add*. 
 \p
@@ -89,7 +89,7 @@ for each other, and that he will continue to act kindly toward you all.
 \p
 \v 21 In order that you may know about \add what is happening\add* to me and what I am doing, I am sending Tychicus
 \add to you with this letter\add*. He will tell you everything \add that is happening
-here\add*. He is a fellow believer whom we all \add (inc)\add* love very much, and he serves the Lord
+here\add*. He is a fellow believer whom we all \add (inc) \f*\add* love very much, and he serves the Lord
 \add Jesus\add* faithfully. 
 \v 22 That is the reason that I am sending him \add to you\add*; I want you to know ◄how my companions and I are/what is
 happening to my companions and me►, and I want him to encourage you \f + \fr synecdoche \f*.

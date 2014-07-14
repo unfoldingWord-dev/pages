@@ -24,7 +24,7 @@ understand\add*:
 \q The wild animals and the birds have all died 
 \q2 because the people are very wicked. 
 \q All this has happened because the people have said, 
-\q2 “Yahweh does not know what we are doing (OR, what will happen to us)!”
+\q2 “Yahweh does not know what we are doing \f + \fr (OR, what will happen to us) \f*!”
 \s Yahweh replied to Jeremiah 
 \p
 \v 5  \add Then to show me that I needed to be prepared to endure even greater difficulties, Yahweh said to

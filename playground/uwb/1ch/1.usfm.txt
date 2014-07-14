@@ -11,7 +11,7 @@ was\add* Lamech. \add Lamech's son was\add* Noah.
 \v 4  \add Noah's sons were\add* Shem, Ham, and Japheth. 
 \s2 The descendants of Japheth 
 \li
-\v 5 The sons (OR, descendants) of Japheth were Gomer, Magog, Madai, Javan, Tubal, Meshech, and Tiras.
+\v 5 The sons \f + \fr (OR, descendants) of Japheth were Gomer, Magog, Madai, Javan, Tubal, Meshech, and Tiras.
 \li
 \v 6 The sons (OR, descendants) of Gomer were Ashkenaz, Riphath, and Togarmah.
 \li
@@ -100,7 +100,7 @@ region\add*.
 \v 41 Anah's son was Dishon. 
 \li2 Dishon's sons were Hemdan (OR, Hamran), Eshban, Ithran, and Keran.
 \li
-\v 42 Ezer's sons were Bilhan, Zaavan, and Akan (OR, Jaakan). 
+\v 42 Ezer's sons were Bilhan, Zaavan, and Akan (OR, Jaakan) \f*. 
 \li2 Dishan's sons were Uz and Aran. 
 \s2 The kings of Edom 
 \li

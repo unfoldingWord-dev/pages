@@ -1,7 +1,7 @@
 \c 126  
 \s A psalm written for people going up to the temple to worship 
 \q
-\v 1 When Yahweh brought \add us Israeli people\add* back to Jerusalem (OR, enabled us Israelis to prosper again),
+\v 1 When Yahweh brought \add us Israeli people\add* back to Jerusalem \f + \fr (OR, enabled us Israelis to prosper again) \f*,
 \q \add it was wonderful\add*; 
 \q2 it seemed as though \f + \fr simile \f* we were dreaming. 
 \q

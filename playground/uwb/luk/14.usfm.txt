@@ -10,7 +10,7 @@ him\add*.
 \v 3 Jesus said to them, “Is it permitted in \add our(inc)\add* Jewish laws to heal
 \add someone\add* ◄on our Jewish rest day/on the Sabbath►, or not?”
 \v 4  \add They knew that their laws permitted it, but they thought that healing was work, which they thought was wrong to
-do\add* ◄on the Sabbath/on the Jewish rest day► (OR\add , they knew that their laws permitted it, but they did not want to
+do\add* ◄on the Sabbath/on the Jewish rest day► \f + \fr (OR\add , they knew that their laws permitted it, but they did not want to
 admit it\add*). So they did not reply. Then Jesus put his hands on the man and healed him. Then he told him to go
 \add home\add*. 
 \v 5 Then he said to the rest of them, “If you had a son or an ox that fell into a well on a ◄Sabbath/our day of rest►, would
@@ -109,7 +109,7 @@ determine whether you had enough money to complete it.
 army\add*, he would send messengers to \add the other king\add* while the other army was still far away. He would tell the
 messengers to say to that king, ‘What things must I do to have peace with your country?’
 \v 33 So, similarly, if any one of you does not first decide that
-you\add (sg)\add* are \add willing to\add* give up all that you have, you cannot be my disciple.”
+you\add (sg) \f*\add* are \add willing to\add* give up all that you have, you cannot be my disciple.”
 \s Luke 14:34-35 
 \s Jesus warned about losing our usefulness to God. 
 \p
