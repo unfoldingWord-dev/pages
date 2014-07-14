@@ -1,7 +1,7 @@
 \c 5  
 \p
 \v 1 If \add a judge\add* orders any of you to tell \add in court\add* something that you have seen or something that you heard
-someone say, if you refuse to say what you know is true, you must ◄pay a penalty/be punished► \f + \fr metonymy \f* for refusing to tell what
+someone say, if you refuse to say what you know is true, you must ◄pay a penalty/be punished► \f + \fk metonymy \f* for refusing to tell what
 you know. 
 \p
 \v 2 If you accidentally touch something which God considers impure, such as the carcass of a wild animal or the carcass of a

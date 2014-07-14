@@ -9,7 +9,7 @@
 \add try to\add* deceive me!” 
 \b
 \q
-\v 3 You people who lie to me, \add I will tell you\add* \f + \fr rhetorical question \f* what
+\v 3 You people who lie to me, \add I will tell you\add* \f + \fk rhetorical question \f* what
 \add God\add* will do to you 
 \q2 and what he will do to punish you. 
 \q
@@ -18,7 +18,7 @@
 of\add* a broom tree. 
 \b
 \q
-\v 5 It is terrible for me, living among cruel/savage \f + \fr doublet \f* people
+\v 5 It is terrible for me, living among cruel/savage \f + \fk doublet \f* people
 \q2 \add like those who live\add* in Meshech \add region\add* and Kedar
 \add region\add*. 
 \q

@@ -1,12 +1,12 @@
 \c 9  
 \s The reason that God will enable them to be victorious 
 \p
-\v 1 “You people of Israel, listen to me! You will soon \f + \fr hyperbole \f* cross the Jordan
+\v 1 “You people of Israel, listen to me! You will soon \f + \fk hyperbole \f* cross the Jordan
 \add River\add*. In the land that you will enter, there are large cities that have very high walls
-\add around them that seem to\add* \f + \fr hyperbole \f* extend up to the sky. There are people-groups in that land that are more numerous and
+\add around them that seem to\add* \f + \fk hyperbole \f* extend up to the sky. There are people-groups in that land that are more numerous and
 more powerful than you are. 
 \v 2 Those people are very tall and strong. \add Some of them\add* are giants who are descendants of Anak. You know about them,
-and you have heard people say that no one \f + \fr rhetorical question \f* can defeat the descendants of Anak. But you will expel all of those
+and you have heard people say that no one \f + \fk rhetorical question \f* can defeat the descendants of Anak. But you will expel all of those
 people-groups! 
 \v 3 I want you to know that Yahweh our God will go ahead of you. He will be like a raging/roaring fire. While you advance, he
 will defeat and destroy them. As a result, you will quickly be able to expel some of them and kill the others, which is what
@@ -44,7 +44,7 @@ commanded them not to do. They have made for themselves a metal statue
 \p
 \v 13 Then Yahweh said to me, ‘I have been watching these people, and I see that they are very stubborn.
 \v 14 So do not try to stop me. I am going to destroy all of them, with the result that no one anywhere will remember ◄their
-names \f + \fr metonymy \f*/that they ever existed►. Then I will enable you to become
+names \f + \fk metonymy \f*/that they ever existed►. Then I will enable you to become
 \add the ancestor of\add* a nation that will be more numerous and more powerful than they are.’
 \p
 \v 15 So I turned and went down the mountain, carrying in my hands the two stone tablets on which the Ten Commandments were
@@ -67,13 +67,13 @@ calf\add* and was ready to kill Aaron. But at the same time I prayed for Aaron a
 \add and Yahweh answered my prayer\add*. 
 \v 21 Your ancestors had sinned \add by requesting Aaron to make a metal statue of
 a\add* calf. So I took that statue and \add I melted it\add* in a fire and crushed it and ground it into very tiny pieces
-\f + \fr hyperbole \f*. Then I threw those tiny pieces into the stream that flowed down the mountain.
+\f + \fk hyperbole \f*. Then I threw those tiny pieces into the stream that flowed down the mountain.
 \p
 \v 22 Your ancestors also caused Yahweh to become very angry \add by what they
 did\add* at \add places which they named\add* Taberah, Massah, and Kibroth-Hattaavah.
 \p
 \v 23 And when we were at Kadesh-Barnea, Yahweh said to your ancestors, ‘Go up and capture the land that I am about to give to
-you!’ But they rebelled against him. They did not trust him, and they did not obey what he told \f + \fr metonymy \f* them to do.
+you!’ But they rebelled against him. They did not trust him, and they did not obey what he told \f + \fk metonymy \f* them to do.
 \v 24 Your ancestors rebelled against Yahweh from the first day that I knew them,
 \add in Egypt\add*. 
 \p

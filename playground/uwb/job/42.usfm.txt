@@ -7,7 +7,7 @@
 \q2 and that no one can stop you from doing what you want to do.
 \q
 \v 3  \add You asked me\add*, ‘◄Who are you, who by speaking ignorantly, question what I plan to do?/You have no right to
-question what I plan to do by speaking ignorantly.►’ \f + \fr rhetorical question \f* 
+question what I plan to do by speaking ignorantly.►’ \f + \fk rhetorical question \f* 
 \q2 It is true that I spoke about things that I did not understand,
 \q2 things that are very wonderful/marvelous, 
 \q2 and therefore I am not able to know them. 
@@ -40,7 +40,7 @@ what Job said about me was right/true.”
 \v 10 After Job prayed for his three friends, Yahweh \add healed him
 and\add* caused him to become rich again. Yahweh gave him twice as many things as he had before.
 \v 11 Then all his brothers and sisters, and all the people who had known him before, came to his house, and they ate a meal
-together. They consoled/comforted \f + \fr doublet \f* him because of all the troubles that Yahweh had allowed to happen to him. Each of them
+together. They consoled/comforted \f + \fk doublet \f* him because of all the troubles that Yahweh had allowed to happen to him. Each of them
 gave him a piece of silver and a gold ring. 
 \p
 \v 12 Then Yahweh blessed Job in the second half of his life more than he had blessed him in the first half of his life. He now
@@ -51,4 +51,4 @@ acquired/owned 14,000 sheep, 6,000 camels, 2,000 oxen, and 1,000 female donkeys.
 that they would inherit some of his possessions, just like their brothers would inherit some.
 \p
 \v 16 After that, Job lived 140 more years. Before he died, he ◄saw/enjoyed being with► his great-great-grandchildren.
-\v 17 He was very old \f + \fr doublet \f* when he died. 
+\v 17 He was very old \f + \fk doublet \f* when he died. 

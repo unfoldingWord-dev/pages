@@ -8,13 +8,13 @@
 \v 2 Yahweh should be praised now and forever! 
 \q
 \v 3 People who live in the east and people who live in the west,
-\q2 everyone, should praise Yahweh \f + \fr metonymy \f*! 
+\q2 everyone, should praise Yahweh \f + \fk metonymy \f*! 
 \b
 \q
-\v 4 Yahweh rules \f + \fr metonymy \f* over all the nations, 
+\v 4 Yahweh rules \f + \fk metonymy \f* over all the nations, 
 \q and he shows high in the heavens that his glory is very great.
 \q
-\v 5 There is no one \f + \fr rhetorical question \f* who is like Yahweh, our God, 
+\v 5 There is no one \f + \fk rhetorical question \f* who is like Yahweh, our God, 
 \q2 who lives/sits/rules in the highest heaven, 
 \q2
 \v 6 and looks far down through the heavens and sees the \add people

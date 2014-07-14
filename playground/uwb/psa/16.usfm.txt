@@ -14,7 +14,7 @@
 \v 4 Those who choose to worship other gods will have many things that cause them to be sad.
 \q2 I will not join them when they make sacrifices \add to their
 gods\add*; 
-\q I will not even join them when they speak \f + \fr metonymy \f* the names of their gods.
+\q I will not even join them when they speak \f + \fk metonymy \f* the names of their gods.
 \b
 \q
 \v 5 Yahweh, you are the one whom I have chosen, 
@@ -22,7 +22,7 @@ gods\add*;
 \q You protect me and control what happens to me. 
 \q
 \v 6 Yahweh has given me a wonderful place in which to live; 
-\q2 I am delighted with all the things that he has given me \f + \fr metaphor \f*.
+\q2 I am delighted with all the things that he has given me \f + \fk metaphor \f*.
 \b
 \q
 \v 7 I will praise Yahweh, the one who teaches/disciplines me; 

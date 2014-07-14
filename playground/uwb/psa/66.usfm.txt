@@ -4,7 +4,7 @@
 \v 1  \add Tell\add* everyone on the earth 
 \q2 that they should sing joyfully to praise God! 
 \q
-\v 2 They should sing songs that say that God \f + \fr metonymy \f* is very great,
+\v 2 They should sing songs that say that God \f + \fk metonymy \f* is very great,
 \q2 and they should tell everyone that he is very glorious! 
 \q
 \v 3 They should say to God, “The things that you do are awesome!
@@ -13,7 +13,7 @@
 \q
 \v 4 Everyone on the earth \add should\add* worship God 
 \q2 and sing to praise him 
-\q2 and honor him \f + \fr metonymy \f*. 
+\q2 and honor him \f + \fk metonymy \f*. 
 \qr (Think about that!) 
 \b
 \q
@@ -42,14 +42,14 @@ do\add*,
 \q you have allowed us to experience great difficulties \add to make our lives become
 pure\add* 
 \q2 as people put precious metals in a hot fire \add to burn out what is
-impure\add* \f + \fr metaphor \f*. 
+impure\add* \f + \fk metaphor \f*. 
 \q
-\v 11  \add It is as if\add* you allowed us to fall into traps \f + \fr metaphor \f*,
+\v 11  \add It is as if\add* you allowed us to fall into traps \f + \fk metaphor \f*,
 \q2 and you \add forced us to endure difficult things which were
-like\add* putting heavy loads on our backs \f + \fr metaphor \f*. 
+like\add* putting heavy loads on our backs \f + \fk metaphor \f*. 
 \q
 \v 12 You allowed our enemies to trample on us; 
-\q2 we \add experienced difficulties/troubles that were like\add* \f + \fr metaphor \f* walking through fires and floods,
+\q2 we \add experienced difficulties/troubles that were like\add* \f + \fk metaphor \f* walking through fires and floods,
 \q but now you have brought us into a place where ◄we are safe/we have plenty►.
 \b
 \q
@@ -72,7 +72,7 @@ like\add* putting heavy loads on our backs \f + \fr metaphor \f*.
 \q2 and I will tell you what he has done for me. 
 \q
 \v 17 I called out to him to help me, 
-\q2 and I praised him while I was speaking to him \f + \fr metonymy \f*. 
+\q2 and I praised him while I was speaking to him \f + \fk metonymy \f*. 
 \q
 \v 18 If I had ignored the sins that I had committed, 
 \q2 the Lord would not have paid any attention to me. 

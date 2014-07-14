@@ -4,7 +4,7 @@
 \v 1 When Abram was 99 years old, Yahweh appeared to Abram again and said to him, “I am God Almighty. I want you to conduct
 your life in a way that I will see as one that cannot be criticized.
 \v 2 If you do that, I will make an agreement with you in which I will promise to enable you to have very many descendants.”
-\f + \fr metonymy \f* 
+\f + \fk metonymy \f* 
 \v 3 Abram prostrated himself with his face on the ground. Then God said to him,
 \v 4 “Listen to this! This is the agreement I am making with you: the people of many nations will be your descendants.
 \v 5 And no longer will your name be Abram. Instead, your name will be Abraham,
@@ -47,7 +47,7 @@ ancestor of people of many nations. Kings of some people-groups will be descende
 \v 19 Then God replied, “\add No\add*! Your wife Sarah will bear a son for you. You must name him Isaac. I will establish my
 agreement with him, one which will be an everlasting covenant for him and his descendants.
 \v 20 As for Ishmael, I have heard what you asked me to do for him. I will bless him so that he also will have many
-descendants. Among his descendants will be rulers of twelve nations. And I will cause his descendants \f + \fr metonymy \f* to become a great
+descendants. Among his descendants will be rulers of twelve nations. And I will cause his descendants \f + \fk metonymy \f* to become a great
 nation. 
 \v 21 But I will establish my agreement with Isaac, the son whom Sarah will give birth to at this time next year.”
 \v 22 When God finished talking to Abraham, God disappeared from his sight.

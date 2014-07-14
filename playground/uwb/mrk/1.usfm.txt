@@ -1,20 +1,20 @@
 \c 1  
 \p
-\v 1-2 ◄\add This is/I want to tell you\add*► the good message about Jesus Christ, the Son of God \f + \fr (OR, the man who was also
+\v 1-2 ◄\add This is/I want to tell you\add*► the good message about Jesus Christ, the Son of God \f + \ft (OR, the man who was also
 God) \f*. \add What I want to tell you\add* begins just like the prophet Isaiah
 \add said it would begin, when\add* he wrote \add these words that God said to his
 Son:\add* 
 \q Listen! I am sending my messenger ahead of you. He will prepare
 \add people for\add* your\add coming\add*. 
 \v 3 He will call out to people \add who pass by where he is\add* in the desolate area, “As people straighten out pathways
-\add before an important official arrives\add* \f + \fr metaphor \f*, make\add yourselves\add* ready \f + \fr doublet \f*
+\add before an important official arrives\add* \f + \fk metaphor \f*, make\add yourselves\add* ready \f + \fk doublet \f*
 \add in order that you will be prepared when\add* the Lord \add comes\add*.”
 \p
 \v 4  \add The messenger that Isaiah predicted was\add* John. \add People called
 him\add* ‘The Baptizer’. In the desolate area near the Jordan River he kept telling people, “If you want God to forgive you for
 having sinned, you must turn away from your sinful behavior \add before you ask me
 to\add* baptize\add you\add*.” 
-\v 5 A great number \f + \fr hyperbole \f* of people who lived in Jerusalem \add city\add* and
+\v 5 A great number \f + \fk hyperbole \f* of people who lived in Jerusalem \add city\add* and
 \add elsewhere\add* in the Judea \add district\add* were going out to where John was. There,
 \add after hearing John's message\add*, they \add responded by\add* confessing the sinful things
 \add that they had done\add*. Then they were being baptized by John {John was baptizing them} in the Jordan River.
@@ -37,7 +37,7 @@ Satan testing him; and by the angels taking care of him.
 \add River\add*. 
 \v 10 Immediately after \add Jesus\add* came up out of the water, he saw heaven opened up
 \add and he saw\add* the Spirit \add of God\add* descending on himself. He came in the form of a dove.
-\v 11 And \add God\add* \f + \fr metonymy \f* spoke to him from heaven saying, “You are my Son, the one whom I love dearly. I am very pleased
+\v 11 And \add God\add* \f + \fk metonymy \f* spoke to him from heaven saying, “You are my Son, the one whom I love dearly. I am very pleased
 with you.” 
 \v 12 ◄Then/Right away► the Spirit \add of God\add* sent Jesus into the desolate area.
 \v 13 He was there for forty days. During that time, he was tempted by Satan {Satan tempted him}. There were wild animals
@@ -61,7 +61,7 @@ rule\add*►!”
 \add fishing\add* net into the lake. They \add earned money by\add* catching
 \add and selling\add* fish. 
 \v 17 Then Jesus said to them, “\add Just like you have been\add* gathering fish, come with me and I will
-\add teach\add* you how to \add gather people to become my disciples\add*” \f + \fr metaphor \f*.
+\add teach\add* you how to \add gather people to become my disciples\add*” \f + \fk metaphor \f*.
 \v 18 Immediately they abandoned \add the work that they were doing
 with\add* their nets, and they went with him. 
 \v 19 After they had gone on a little further, Jesus saw \add two other
@@ -83,15 +83,15 @@ taught\add*. Instead, he taught with \add his own\add* authority.
 and he shouted, 
 \v 24 “Jesus, from Nazareth \add town, since\add* we \add evil spirits\add* have nothing in common with you,
 ◄\add do not interfere with us\add*!/what do you want with us \add evil
-spirits\add*?► \f + \fr rhetorical question \f* ◄Do not destroy us \add now\add*!/Have you come to destroy us
-\add now\add*?► \f + \fr rhetorical question \f* I know who you are. I know that you are the holy one
+spirits\add*?► \f + \fk rhetorical question \f* ◄Do not destroy us \add now\add*!/Have you come to destroy us
+\add now\add*?► \f + \fk rhetorical question \f* I know who you are. I know that you are the holy one
 \add who has come\add* from God!” 
 \v 25 Jesus rebuked \add the evil spirit\add*, saying, “Be quiet! And come out
 \add of the man\add*!” 
 \v 26 The evil spirit shook the man hard. He screamed loudly, and then he came out of the man
 \add and left\add*. 
 \v 27 All \add the people who were there\add* were amazed. As a result, they discussed this among themselves,
-\add exclaiming\add*, “◄This is \add amazing\add*!/What is this?► \f + \fr rhetorical question \f* Not only does he teach in a new and authoritative way,
+\add exclaiming\add*, “◄This is \add amazing\add*!/What is this?► \f + \fk rhetorical question \f* Not only does he teach in a new and authoritative way,
 but also the evil spirits obey him \add when\add* he commands\add them\add*!”
 \v 28 The people very soon told \add many others\add* throughout the whole Galilee district what Jesus
 \add had done\add*. 
@@ -124,7 +124,7 @@ that yet\add*.
 \add the house\add* and went away \add from the town\add* to a place where there were no people. Then he prayed there.
 \v 36 Simon and his companions searched for him. When they found him,
 \add wanting him to go back to town to help other people\add*, they said to him,
-\v 37 “\add Come back to the town with us, because\add* many \f + \fr hyperbole \f* people
+\v 37 “\add Come back to the town with us, because\add* many \f + \fk hyperbole \f* people
 \add in Capernaum\add* are looking for you!” 
 \v 38 He said to them, “\add No\add*, let's go on to the neighboring towns in order that I can preach there also, because the
 reason that I came \add into the world\add* was to \add preach to
@@ -153,6 +153,6 @@ leprosy should offer, in order that he\add* may offer it \add as a sacrifice to
 God\add*.” 
 \v 45 The man went \add and presented himself to the priest. But
 then\add* he began to tell many people about \add how Jesus had healed
-him\add* \f + \fr doublet \f*. As a result, Jesus was no longer able to enter any town publicly
+him\add* \f + \fk doublet \f*. As a result, Jesus was no longer able to enter any town publicly
 \add because the crowds would surround him\add*. Instead, he remained outside
 \add the towns\add* in places \add where no people lived\add*. But people kept coming to him from all over that region.

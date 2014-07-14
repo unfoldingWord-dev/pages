@@ -2,17 +2,17 @@
 \q
 \v 1  \add I tell\add* myself that I should praise Yahweh. 
 \q Yahweh, my God, you are very great! 
-\q2 Like a king has on his royal robes \f + \fr metaphor \f*, 
+\q2 Like a king has on his royal robes \f + \fk metaphor \f*, 
 \q you have honor and majesty/greatness all around you! 
 \q
-\v 2 You \add created/caused\add* light to be like your robe \f + \fr metaphor \f*.
+\v 2 You \add created/caused\add* light to be like your robe \f + \fk metaphor \f*.
 \q2 You put the stars in the sky like a man sets up a tent. 
 \q2
 \v 3 You made/put your home \add in heaven\add*, above the rain clouds in the sky,
-\add like a man puts the\add* rafters of his house in place \f + \fr metaphor \f*.
+\add like a man puts the\add* rafters of his house in place \f + \fk metaphor \f*.
 \q You made/caused the clouds to be like chariots \add to carry you\add*.
 \q
-\v 4 You caused the winds to be like your messengers \f + \fr metaphor \f*, 
+\v 4 You caused the winds to be like your messengers \f + \fk metaphor \f*, 
 \q and flames of fire to be like your servants. 
 \b
 \q
@@ -51,10 +51,10 @@
 \q2 In that way \add animals and people\add* get their food from
 \add what grows in\add* the soil. 
 \q
-\v 15 We get \add grapes to make\add* \f + \fr metonymy \f* wine to \add drink and\add* make us cheerful,
-\q2 and we get \add olives to make\add* \f + \fr metonymy \f* olive oil to \add put on
+\v 15 We get \add grapes to make\add* \f + \fk metonymy \f* wine to \add drink and\add* make us cheerful,
+\q2 and we get \add olives to make\add* \f + \fk metonymy \f* olive oil to \add put on
 our\add* skin and make/cause it to shine, 
-\q2 and we get \add grain to make\add* \f + \fr metonymy \f* bread to give us strength.
+\q2 and we get \add grain to make\add* \f + \fk metonymy \f* bread to give us strength.
 \q
 \v 16 Yahweh, you \add send plenty of rain to\add* water your trees,
 \q2 the cedar trees that you planted in Lebanon. 
@@ -86,7 +86,7 @@ food\add*.
 \q2 You were very wise as you made them all. 
 \q2 The earth is full of the creatures that you \add made\add*. 
 \q
-\v 25  \add We see\add* the ocean which is very large \f + \fr doublet \f*! 
+\v 25  \add We see\add* the ocean which is very large \f + \fk doublet \f*! 
 \q2 It is full of many kinds of living creatures, 
 \q2 big ones and little ones. 
 \q

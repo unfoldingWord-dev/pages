@@ -24,7 +24,7 @@
 \v 6  \add Sometimes\add* the people of many nations are terrified;
 \q2 kingdoms ◄are overthrown/cease to exist►; 
 \q God speaks \add loudly like thunder\add*, 
-\q2 and the earth melts \f + \fr (OR, people everywhere become terrified) \f + \fr metaphor \f*.
+\q2 and the earth melts \f + \ft (OR, people everywhere become terrified) \f + \fk metaphor \f*.
 \b
 \q
 \v 7 But Yahweh, the commander of the armies of heaven, is with us;
@@ -32,7 +32,7 @@
 \qr (Think about that!) 
 \b
 \q
-\v 8 Come and ◄see/think about► the amazing things that Yahweh has done \f + \fr doublet \f*!
+\v 8 Come and ◄see/think about► the amazing things that Yahweh has done \f + \fk doublet \f*!
 \q
 \v 9 He stops wars all over the world; 
 \q2 he breaks bows \add and arrows\add*; 

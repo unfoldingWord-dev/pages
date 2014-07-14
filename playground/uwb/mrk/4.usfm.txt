@@ -24,7 +24,7 @@ of\add* thorny plants. \add The\add* seeds \add grew, but\add* the thorny plants
 produced \add plenty of\add* grain. \add Some\add* plants bore 30
 \add grains\add*. \add Some\add* bore 60 \add grains\add*. \add Some\add* bore 100
 \add grains\add*.” 
-\v 9 Then Jesus said, “If you want to understand this \f + \fr metonymy \f*, you should consider
+\v 9 Then Jesus said, “If you want to understand this \f + \fk metonymy \f*, you should consider
 \add carefully what I have just said\add*.” 
 \p
 \v 10  \add Later\add*, when only the twelve \add disciples\add* and a few
@@ -35,23 +35,23 @@ known}. But I tell about this \add only\add* ◄in parables/figuratively► to t
 \add yet invited God to rule their lives\add*. 
 \v 12 As a result \add it is true what a prophet has written\add*,
 \q Although they see \add what I do\add*, they do not perceive \add what it
-means\add* \f + \fr doublet \f*. Although they hear \add what I say\add*, they do not understand
-\add what it means\add* \f + \fr doublet \f*. So they do not ◄repent/turn away from their sinful behavior► in order that they would be
+means\add* \f + \fk doublet \f*. Although they hear \add what I say\add*, they do not understand
+\add what it means\add* \f + \fk doublet \f*. So they do not ◄repent/turn away from their sinful behavior► in order that they would be
 forgiven {\add God\add* would forgive them}.” 
 \p
 \v 13 He also said to them, “◄\add I am disappointed that\add* you do not understand this illustration!/Can you not understand
-this illustration?► \f + \fr rhetorical question \f* \add If you do not understand\add* this, ◄you will certainly not understand any of the
+this illustration?► \f + \fk rhetorical question \f* \add If you do not understand\add* this, ◄you will certainly not understand any of the
 \add other\add* illustrations!/how will you understand any of the
-\add other\add* illustrations?► \f + \fr rhetorical question \f* \add Nevertheless, I will explain it to
+\add other\add* illustrations?► \f + \fk rhetorical question \f* \add Nevertheless, I will explain it to
 you\add*. 
 \v 14  \add In the illustration that I told you\add*, the man who sows
-\add seeds represents someone who\add* declares God's message \f + \fr doublet \f*.
+\add seeds represents someone who\add* declares God's message \f + \fk doublet \f*.
 \v 15  \add Some people are like\add* the path on which \add some
 of\add* the seeds fell. When they hear \add the message\add*, Satan comes at once and causes them to forget what they have
 heard. 
 \v 16  \add Some people are like the ground where the soil was not very deep
 over\add* the rock. When they hear \add God's\add* message, they immediately accept it with joy.
-\v 17 But, because \add the message does not penetrate deeply\add* \f + \fr metaphor \f*
+\v 17 But, because \add the message does not penetrate deeply\add* \f + \fk metaphor \f*
 \add into their hearts/inner beings, they\add* believe it for \add only a short time. They are like the plants
 that\add* did not have deep roots. When others treat such people badly or cause them to suffer because
 \add they believe\add*, those people \add who are suffering\add* soon stop believing God's message.
@@ -70,10 +70,10 @@ produced\add* 30, 60 or 100 \add grains\add*.”
 \v 21 He also told them \add another parable\add*, saying, “◄People certainly do not
 \add light\add* an oil lamp and then bring it \add in the house\add* in order that it may be put {someone may put it} under a
 container or under a bed./Would anyone \add light\add* an oil lamp and then bring it
-\add in the house\add* in order that it may be put {someone may put it} under a container or under a bed?► \f + \fr rhetorical question \f* ◄No,
+\add in the house\add* in order that it may be put {someone may put it} under a container or under a bed?► \f + \fk rhetorical question \f* ◄No,
 \add they light it\add* in order that it may be put {someone may put it} in a place
 \add where it lights the house\add*.\add /Wouldn't they light it\add* in order that it may be put {someone may put it} in a
-place \add where it lights the house\add*?► \f + \fr rhetorical question \f* 
+place \add where it lights the house\add*?► \f + \fk rhetorical question \f* 
 \v 22  \add Similarly\add*, there are some \add parts of God's message\add* that people do not know.
 \add But he intends that\add* people will understand all the things that they do not know
 \add now\add*. 
@@ -91,18 +91,18 @@ you\add*, for \add God\add* will let you \add understand\add* to the same degree
 greatly increase. 
 \p
 \v 26 Jesus also said, “God \add has the power to change\add* people who let him rule their lives. I
-\add will illustrate how that can happen\add* \f + \fr metaphor \f*. A man planted seeds in the ground.
+\add will illustrate how that can happen\add* \f + \fk metaphor \f*. A man planted seeds in the ground.
 \v 27 Afterwards he slept each night and rose each day \add without worrying about the
 seeds\add*. \add During that time\add* the seeds sprouted and grew in a way that he did not understand, because by itself the
 soil \add caused the plants to grow and produce grain\add*. 
 \v 28 First the stalks \add appeared\add*. Then the heads \add appeared\add*. Then the full kernels in the heads
 \add appeared\add*. 
-\v 29 As soon as the grain was ripe he sent \add people\add* \f + \fr metonymy \f* to harvest it because it was time to harvest
+\v 29 As soon as the grain was ripe he sent \add people\add* \f + \fk metonymy \f* to harvest it because it was time to harvest
 \add the grain\add*.” 
 \p
-\v 30  \add Jesus told them\add* another\add parable. He\add* said, “I will tell you \f + \fr rhetorical question \f* how the
+\v 30  \add Jesus told them\add* another\add parable. He\add* said, “I will tell you \f + \fk rhetorical question \f* how the
 \add number of people\add* whose lives God rules in a new way \add will continue to
-grow\add* \f + \fr (OR, each continue to have more and more influence in this world) \f*. I hope \f + \fr rhetorical question \f* that this illustration will show this
+grow\add* \f + \ft (OR, each continue to have more and more influence in this world) \f*. I hope \f + \fk rhetorical question \f* that this illustration will show this
 \add to you\add*. 
 \v 31  \add You know what happens to\add* mustard seeds when we plant them. Though mustard seeds are among the smallest of
 seeds, \add here in Israel\add* they become large plants. 
@@ -126,12 +126,12 @@ boat\add*.”
 \add of water!\add* 
 \v 38 Jesus was in the back part of the boat. He was sleeping, \add with his
 head\add* on a cushion. So they woke him up and said to him, “Teacher! ◄You ought to be concerned that we are about to
-perish!/Are you not concerned that we are about to perish?► \f + \fr rhetorical question \f*”
-\v 39 So Jesus got up and rebuked the wind. Then he said to the lake, “Be quiet! Be still! \f + \fr doublet \f*” The wind stopped blowing and
+perish!/Are you not concerned that we are about to perish?► \f + \fk rhetorical question \f*”
+\v 39 So Jesus got up and rebuked the wind. Then he said to the lake, “Be quiet! Be still! \f + \fk doublet \f*” The wind stopped blowing and
 then \add the lake\add* became very calm. 
 \v 40 He said to the disciples, “◄\add I am disappointed that\add* you are afraid
-\add like that\add*!/Why are you afraid \add like that\add*?► \f + \fr rhetorical question \f* Do you not yet believe
+\add like that\add*!/Why are you afraid \add like that\add*?► \f + \fk rhetorical question \f* Do you not yet believe
 \add that I can protect you\add*?” 
 \v 41 They were very awestruck. They said to one another, “◄What kind of man is he?/This man
-is\add not like ordinary\add* men!► \f + \fr rhetorical question \f* \add Not only do the demons obey him,
+is\add not like ordinary\add* men!► \f + \fk rhetorical question \f* \add Not only do the demons obey him,
 but\add* even the wind and the waves obey him!” 

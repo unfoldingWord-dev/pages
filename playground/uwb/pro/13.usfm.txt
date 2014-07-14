@@ -4,23 +4,23 @@
 \q2 those who do not allow others to correct them do not pay attention when others rebuke them
 \add for their bad behavior\add*. 
 \q
-\v 2 Good people are rewarded [IDI] for the good things \f + \fr metaphor \f* that they say,
+\v 2 Good people are rewarded [IDI] for the good things \f + \fk metaphor \f* that they say,
 \q2 but those who desire to deceive others are very eager to act violently.
 \b
 \q
-\v 3 Those who are very careful about what they say \f + \fr metonymy \f* will preserve their own lives;
+\v 3 Those who are very careful about what they say \f + \fk metonymy \f* will preserve their own lives;
 \q2 those who talk ◄without thinking/too much► will ruin themselves.
 \b
 \q
-\v 4 People who are lazy want things very much, but they will not get anything \f + \fr hyperbole \f*.
+\v 4 People who are lazy want things very much, but they will not get anything \f + \fk hyperbole \f*.
 \q2 People who work hard will get all that they want. 
 \b
 \q
 \v 5 Righteous/Honest people hate/detest lies, 
-\q2 but what wicked people do ◄is very disgraceful/stinks► \f + \fr doublet \f*.
+\q2 but what wicked people do ◄is very disgraceful/stinks► \f + \fk doublet \f*.
 \b
 \q
-\v 6 The behavior \f + \fr personification \f* of those who always do what is right will protect them,
+\v 6 The behavior \f + \fk personification \f* of those who always do what is right will protect them,
 \q2 but sinful behavior will ruin wicked people. 
 \b
 \q
@@ -33,8 +33,8 @@ killed\add*,
 \q2 but poor people \add do not have to worry about that because\add* no one threatens to kill them.
 \b
 \q
-\v 9 Righteous people are like a lamp \f + \fr metaphor \f* that shines brightly,
-\q2 but wicked people are like \f + \fr metaphor \f* a lamp that will \add soon\add* be extinguished.
+\v 9 Righteous people are like a lamp \f + \fk metaphor \f* that shines brightly,
+\q2 but wicked people are like \f + \fk metaphor \f* a lamp that will \add soon\add* be extinguished.
 \b
 \q
 \v 10 People who are arrogant/proud always cause strife; 
@@ -47,16 +47,16 @@ probably\add* will lose it quickly,
 \b
 \q
 \v 12 When people do not receive the things that they are expecting to receive, they ◄are despaired/become devastated►;
-\q2 but if you receive what you are desiring to get, that will be like a tree \f + \fr metaphor \f*
-\add whose fruit gives you\add* life \f + \fr (OR, that will cause you to be joyful).
+\q2 but if you receive what you are desiring to get, that will be like a tree \f + \fk metaphor \f*
+\add whose fruit gives you\add* life \f + \ft (OR, that will cause you to be joyful).
 \b
 \q
 \v 13 Those who despise the good advice \add that others give them\add* are bringing ruin on themselves;
 \q2 those who pay attention to that advice will ◄be secure/succeed►.
 \b
 \q
-\v 14 What wise people teach is like a fountain whose water gives life \f + \fr metaphor \f*;
-\q2 what they teach you will help you to escape when something dangerous is threatening to kill you \f + \fr metaphor \f*.
+\v 14 What wise people teach is like a fountain whose water gives life \f + \fk metaphor \f*;
+\q2 what they teach you will help you to escape when something dangerous is threatening to kill you \f + \fk metaphor \f*.
 \b
 \q
 \v 15 People respect those who have good sense, 
@@ -84,7 +84,7 @@ behavior\add*.
 \q2 those who ◄are close friends of/associate with► foolish people will ◄regret it/be ruined►.
 \b
 \q
-\v 21 Sinners have trouble \f + \fr personification \f* wherever they go, 
+\v 21 Sinners have trouble \f + \fk personification \f* wherever they go, 
 \q2 but things will go well for righteous people. 
 \b
 \q
@@ -102,4 +102,4 @@ behavior\add*.
 \b
 \q
 \v 25 Righteous people have enough food to eat and be satisfied,
-\q2 but the stomachs of wicked people \f + \fr synecdoche \f* are always empty. 
+\q2 but the stomachs of wicked people \f + \fk synecdoche \f* are always empty. 

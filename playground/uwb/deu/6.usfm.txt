@@ -28,7 +28,7 @@ to eat,
 \v 12 be sure that you do not forget Yahweh who rescued you from being slaves
 \add in Egypt and gave all these things to you\add*. 
 \p
-\v 13 You must have an awesome respect for Yahweh our God, and you must serve only him and say that he should \f + \fr metonymy \f* punish you
+\v 13 You must have an awesome respect for Yahweh our God, and you must serve only him and say that he should \f + \fk metonymy \f* punish you
 if you do not do what you have promised. 
 \v 14 You must not worship any other gods, the gods that the people-groups who will live near you worship.
 \v 15 Yahweh our God, who lives among you, ◄will not accept/will punish► people who worship anyone or anything else. So if you
@@ -42,8 +42,8 @@ the good/fertile land that Yahweh solemnly promised to give to our ancestors.
 \p
 \v 20 In the future, when your children ask you, ‘Why did Yahweh our God command us to obey all these rules and regulations?’
 \v 21 tell them, ‘Our ancestors were slaves of the king in Egypt, but Yahweh brought them out of Egypt by his great power
-\f + \fr metonymy \f*. 
-\v 22 They saw him do many kinds of miracles \f + \fr doublet \f* and do terrifying things to the people of Egypt and to the king and his
+\f + \fk metonymy \f*. 
+\v 22 They saw him do many kinds of miracles \f + \fk doublet \f* and do terrifying things to the people of Egypt and to the king and his
 officials. 
 \v 23 He rescued our ancestors from Egypt and brought them here to give them this land, just like he solemnly promised our
 ancestors that he would do. 

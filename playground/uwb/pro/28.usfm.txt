@@ -9,7 +9,7 @@
 \b
 \q
 \v 3 A poor person who oppresses other poor people 
-\q2 is like \f + \fr metaphor \f* a very heavy/hard rain that \add destroys the crops\add* with the result that there is no food
+\q2 is like \f + \fk metaphor \f* a very heavy/hard rain that \add destroys the crops\add* with the result that there is no food
 \add for people to eat\add*. 
 \b
 \q
@@ -30,11 +30,11 @@
 children do. 
 \b
 \q
-\v 8 When people become very rich by charging very big interest \f + \fr doublet \f*,
+\v 8 When people become very rich by charging very big interest \f + \fk doublet \f*,
 \q2 their money will eventually go to someone who does kind things for the poor.
 \b
 \q
-\v 9 If people do not obey \f + \fr metonymy \f* God's laws, 
+\v 9 If people do not obey \f + \fk metonymy \f* God's laws, 
 \q2 God ◄detests their prayers/considers that their prayers stink►.
 \b
 \q
@@ -61,15 +61,15 @@ do\add*.
 \b
 \q
 \v 15 Wicked people who \add mistreat\add* poor people whom they rule
-\q2 are \add as dangerous to them as\add* \f + \fr simile \f* a lion roaring at them or a bear springing up at them.
+\q2 are \add as dangerous to them as\add* \f + \fk simile \f* a lion roaring at them or a bear springing up at them.
 \b
 \q
 \v 16 Rulers who do not have good sense cruelly oppress \add the people they
 rule\add*, 
-\q2 but rulers who do not want to become rich by cheating/deceiving people will live \f + \fr (OR, rule) \f* for a long time.
+\q2 but rulers who do not want to become rich by cheating/deceiving people will live \f + \ft (OR, rule) \f* for a long time.
 \b
 \q
-\v 17 Those who are guilty of murdering \f + \fr metonymy \f* another person 
+\v 17 Those who are guilty of murdering \f + \fk metonymy \f* another person 
 \q2 will ◄be fugitives/keep running away► until they die; 
 \q2 do not help them to escape. 
 \b
@@ -84,11 +84,11 @@ crops\add* and always have plenty of food to eat,
 \b
 \q
 \v 20  \add God\add* will greatly bless those who ◄are trustworthy/always do what they say that they will do►,
-\q2 but he will certainly punish \f + \fr litotes \f* those who try to become rich quickly.
+\q2 but he will certainly punish \f + \fk litotes \f* those who try to become rich quickly.
 \b
 \q
 \v 21 It is not good for judges to decide matters unfairly/unjustly,
-\q2 but some people will do what is wrong even if they receive only a very small bribe \f + \fr hyperbole \f*
+\q2 but some people will do what is wrong even if they receive only a very small bribe \f + \fk hyperbole \f*
 \add for doing it\add*. 
 \b
 \q

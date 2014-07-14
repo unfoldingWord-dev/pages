@@ -4,11 +4,11 @@
 \v 1 Rachel realized that she was not becoming pregnant and giving birth to any children for Jacob. So she became jealous of
 her older sister, Leah, because Leah had given birth to four sons. She said to Jacob, “Enable me to become pregnant and give
 birth to children. If you do not do that, I will die!” 
-\v 2 Jacob became angry with Rachel and said, “◄I am not God!/Am I God?► \f + \fr rhetorical question \f* He is the one who has prevented you from
+\v 2 Jacob became angry with Rachel and said, “◄I am not God!/Am I God?► \f + \fk rhetorical question \f* He is the one who has prevented you from
 becoming pregnant!” 
-\v 3 Then she said, “Look, here is my female slave, Bilhah. ◄Sleep with/Have sex with► \f + \fr euphemism \f* her, so that she may become
+\v 3 Then she said, “Look, here is my female slave, Bilhah. ◄Sleep with/Have sex with► \f + \fk euphemism \f* her, so that she may become
 pregnant and give birth to children for me. In that way it will be as though ◄I have children/her children are mine►.”
-\v 4 So she gave him her slave, Bilhah, to be another wife for him, and Jacob had sex \f + \fr euphemism \f* with her.
+\v 4 So she gave him her slave, Bilhah, to be another wife for him, and Jacob had sex \f + \fk euphemism \f* with her.
 \v 5 She became pregnant and bore Jacob a son. 
 \v 6 Rachel said, “God has ◄vindicated me/judged my case and has decided that what I have done is right►. He has also heard my
 requests and has given me a son.” So she named him Dan, which sounds like the Hebrew word that means 'he judged.'
@@ -26,8 +26,8 @@ Zilpah, and gave her to Jacob to be another wife for him.
 \v 14 During the time when they were harvesting wheat, Reuben went out into the fields and saw some ◄mandrakes/plants that
 women eat to help them to become pregnant►. He brought some of them to his mother Leah. But Rachel saw them and said to Leah,
 “Please give me some of those plants that your son brought to you!”
-\v 15 But Leah said to her, “No! ◄It was bad that you stole my husband!/Is it not bad enough that you stole my husband?► \f + \fr rhetorical question \f*
-Now ◄are you going to take my son's mandrake plants?/you want to take my son's mandrake plants also!►” \f + \fr rhetorical question \f* So Rachel said,
+\v 15 But Leah said to her, “No! ◄It was bad that you stole my husband!/Is it not bad enough that you stole my husband?► \f + \fk rhetorical question \f*
+Now ◄are you going to take my son's mandrake plants?/you want to take my son's mandrake plants also!►” \f + \fk rhetorical question \f* So Rachel said,
 “All right, Jacob can sleep with you tonight, if you give me some of your son's mandrake plants.”
 \add So Leah ◄agreed/gave her some►\add*. 
 \p

@@ -18,17 +18,17 @@ since:\add*
 \v 4 He has thrown the king's chariots and his army 
 \q2 into the sea; 
 \q His best officers 
-\q2 all drowned in the Red Sea \f + \fr (OR, Gulf of Suez). 
+\q2 all drowned in the Red Sea \f + \ft (OR, Gulf of Suez). 
 \q
 \v 5 The \add water covered them like\add* a flood; 
 \q2 they sank to the bottom like a stone. 
 \q
 \v 6 O Yahweh, your right arm has awesome power; 
-\q2 with that power \f + \fr metonymy \f*, O Yahweh, you have crushed/smashed the enemy into pieces.
+\q2 with that power \f + \fk metonymy \f*, O Yahweh, you have crushed/smashed the enemy into pieces.
 \q
 \v 7 You have gloriously defeated your enemies. 
 \q Because you were angry with them, you have \add destroyed them\add*
-\q2 like a fire burns up straw \f + \fr simile \f*. 
+\q2 like a fire burns up straw \f + \fk simile \f*. 
 \q
 \v 8 You blew on the sea, 
 \q2 and the water piled up high; 
@@ -48,10 +48,10 @@ since:\add*
 \q2 and then the sea covered them. 
 \q They sank like lead/rocks in the big waves. 
 \q
-\v 11 Yahweh, among their gods, there is no god like you \f + \fr rhetorical question \f*! 
+\v 11 Yahweh, among their gods, there is no god like you \f + \fk rhetorical question \f*! 
 \q2 You are glorious, completely different from all that you made.
-\q ◄There is no one like you!/What god is like you?► \f + \fr rhetorical question \f* 
-\q2 There is no one who can perform all kinds of miracles \f + \fr doublet \f* like you do \f + \fr rhetorical question \f*!
+\q ◄There is no one like you!/What god is like you?► \f + \fk rhetorical question \f* 
+\q2 There is no one who can perform all kinds of miracles \f + \fk doublet \f* like you do \f + \fk rhetorical question \f*!
 \q
 \v 12 When you stretched out your right hand, 
 \q2 the earth swallowed up \add our enemies\add*! 
@@ -67,13 +67,13 @@ done\add*;
 \v 15 The chiefs in Edom will be dismayed. 
 \q2 The leaders in Moab will be so afraid, they will shake. All those who live in Canaan will faint.
 \q
-\v 16 They will be terrified and fearful because of your great strength \f + \fr metonymy \f*.
+\v 16 They will be terrified and fearful because of your great strength \f + \fk metonymy \f*.
 \q2 But they will be as silent as stones 
 \q2 until your people march past them, 
 \q2 the people you freed from being slaves in Egypt, 
 \q2
 \v 17 to go to \add Canaan land\add*. 
-\q You will enable them to live \f + \fr metaphor \f* on your hill, 
+\q You will enable them to live \f + \fk metaphor \f* on your hill, 
 \q2 at the place that you, O Yahweh, have chosen to be your home,
 \q in the ◄holy place/temple► 
 \q2 that you yourself will build. 

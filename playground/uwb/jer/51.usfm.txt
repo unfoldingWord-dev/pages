@@ -3,7 +3,7 @@
 \p
 \v 1 This is what Yahweh says: 
 \q “I will inspire/motivate \add an army\add* to destroy Babylon
-\add like a powerful\add* wind \f + \fr metaphor \f*, 
+\add like a powerful\add* wind \f + \fk metaphor \f*, 
 \q2 and also to destroy the people of Babylonia. 
 \q
 \v 2 I will send a foreign army to come to get rid of Babylonia 
@@ -32,7 +32,7 @@ Babylon\add*!
 \q It will be the time when I will get revenge; 
 \q2 I will do to them what they deserve. 
 \q
-\v 7 Babylon has been like \f + \fr metaphor \f* a gold cup in my hand, a cup that is
+\v 7 Babylon has been like \f + \fk metaphor \f* a gold cup in my hand, a cup that is
 \add full of wine\add* 
 \q2 that caused people all over the earth who drank some of it to become drunk.
 \q \add It is as though\add* the \add rulers of\add* the nations drank the wine from Babylon,
@@ -78,7 +78,7 @@ entered\add* his temple \add in Jerusalem\add* and defiled it.
 \q
 \v 14 The Almighty Commander of the armies of angels has solemnly promised, using his own name,
 \q “Your cities will be filled with your enemies; 
-\q2 I will cause them to be like \f + \fr simile \f* a swarm of locusts; 
+\q2 I will cause them to be like \f + \fk simile \f* a swarm of locusts; 
 \q2 and they will shout triumphantly \add when they conquer your
 city\add*.” 
 \s A song to praise Yahweh 
@@ -93,7 +93,7 @@ city\add*.”
 \q2 and releases the winds from his storehouses. 
 \b
 \q
-\v 17 People are senseless, and they know very little \f + \fr hyperbole \f*; 
+\v 17 People are senseless, and they know very little \f + \fk hyperbole \f*; 
 \q those who make idols are always disappointed, 
 \q2 because their idols do nothing for them. 
 \q The images/statues that they make are not real \add gods\add*;
@@ -108,8 +108,8 @@ city\add*.”
 \q2 his name is 'the Almighty Commander of the armies of angels.'
 \b
 \q
-\v 20 Yahweh says \add about the army of Babylonia\add* \f + \fr (OR, about a nation that will attack Babylonia) \f*,
-\q “You are like \f + \fr metaphor \f* my battle-axe and war-club; 
+\v 20 Yahweh says \add about the army of Babylonia\add* \f + \ft (OR, about a nation that will attack Babylonia) \f*,
+\q “You are like \f + \fk metaphor \f* my battle-axe and war-club; 
 \q with your \add power\add* I shatter nations 
 \q2 and destroy many kingdoms. 
 \q
@@ -129,7 +129,7 @@ city\add*.”
 \q “Soon I will repay/punish you people in Babylon and in the rest of Babylonia
 \q2 for all the evil things that you have done in Jerusalem. 
 \q
-\v 25 Babylonia is \f + \fr apostrophe \f* like \f + \fr metaphor \f* a great mountain 
+\v 25 Babylonia is \f + \fk apostrophe \f* like \f + \fk metaphor \f* a great mountain 
 \q2 \add from which bandits descend\add* to ◄plunder/steal things from► people all over the earth.
 \q But I, Yahweh, am the enemy of you \add people of Babylonia\add*.
 \q2 I will raise my fist to strike you. 
@@ -148,7 +148,7 @@ city\add*.”
 \q2 Summon the armies of the kingdoms \add north of Babylonia\add*—from Ararat, Minni, and Ashkenaz.
 \q Appoint a commander for them, 
 \q and bring a great number of horses; 
-\q2 \add there must be a huge number of horses\add*; that huge number will resemble \f + \fr simile \f* a swarm of locusts.
+\q2 \add there must be a huge number of horses\add*; that huge number will resemble \f + \fk simile \f* a swarm of locusts.
 \q
 \v 28 Prepare the armies \add of other nations\add*, 
 \q2 armies that will be led by the kings of Media \add and Persia\add*,
@@ -162,7 +162,7 @@ city\add*.”
 \q
 \v 30  \add When their enemies attack\add*, the strongest warriors in Babylon will not fight.
 \q2 They will remain in their barracks, without any strength. 
-\q They will be as timid/weak as \f + \fr simile \f* women. 
+\q They will be as timid/weak as \f + \fk simile \f* women. 
 \q2 \add The enemy soldiers\add* will burn the buildings in the city
 \q and pull down the bars \add of the city gates\add*. 
 \q
@@ -177,9 +177,9 @@ city\add* will be blocked.
 \p
 \v 33 This is what the Almighty Commander of the armies of angels, the God whom we Israelis
 \add worship\add*, says; 
-\q “Babylon is like \f + \fr simile \f* wheat on the ground where it is about to be threshed
+\q “Babylon is like \f + \fk simile \f* wheat on the ground where it is about to be threshed
 \q2 by \add animals\add* tramping on it. 
-\q2 Very soon their enemies will trample on the city of Babylon \f + \fr metaphor \f*.”
+\q2 Very soon their enemies will trample on the city of Babylon \f + \fk metaphor \f*.”
 \b
 \q
 \v 34  \add The army of\add* Nebuchadnezzar, the king of Babylon, has attacked and crushed us
@@ -189,10 +189,10 @@ city\add* will be blocked.
 \q2 that filled its belly with all our tasty parts, 
 \q2 and then has spit out \add what it did not like\add*. 
 \q
-\v 35 So the people of \f + \fr personification \f* Jerusalem say \add to Yahweh\add*, 
+\v 35 So the people of \f + \fk personification \f* Jerusalem say \add to Yahweh\add*, 
 \q “Cause the people of Babylon to suffer 
 \q2 like they caused us to suffer! 
-\q Cause the people of Babylonia to be punished for killing \f + \fr metonymy \f* our people!”
+\q Cause the people of Babylonia to be punished for killing \f + \fk metonymy \f* our people!”
 \s Yahweh will get revenge on Babylon 
 \p
 \v 36 And this is what Yahweh replies to the people of Jerusalem:
@@ -216,7 +216,7 @@ city\add* will be blocked.
 \q But they will never wake up from that sleep! 
 \q
 \v 40 I will bring them down to a place where they will be slaughtered,
-\q2 like \f + \fr simile \f* someone who takes lambs or rams or goats to where they will be slaughtered
+\q2 like \f + \fk simile \f* someone who takes lambs or rams or goats to where they will be slaughtered
 \add for sacrifices\add*. 
 \b
 \q
@@ -225,7 +225,7 @@ city\add* will be blocked.
 \q But I will cause it to become a \add place about which people of
 all\add* nations are horrified. 
 \q
-\v 42 The \add enemies of Babylon\add* will cover the city like huge waves of the sea \f + \fr doublet \f*.
+\v 42 The \add enemies of Babylon\add* will cover the city like huge waves of the sea \f + \fk doublet \f*.
 \q
 \v 43 The towns in Babylonia will become ruins, 
 \q2 and it will be a land in which no one lives 
@@ -233,14 +233,14 @@ all\add* nations are horrified.
 \q
 \v 44 And I will punish Bel, the god \add that the people\add* of Babylon
 \add worship\add*, 
-\q2 and I will cause the people to give back what they have stolen \f + \fr metaphor \f*.
+\q2 and I will cause the people to give back what they have stolen \f + \fk metaphor \f*.
 \q People of other nations will no longer come to worship Bel. 
 \q2 And the walls of Babylon will collapse.” 
 \s A message for the Israeli people 
 \q
 \v 45  \add Yahweh also says\add*, “My people, come out of Babylon!
 \q2 Flee to escape! 
-\q2 Run, because I, Yahweh, am extremely angry \f + \fr metonymy \f* \add with the people of Babylon, and I will get rid of
+\q2 Run, because I, Yahweh, am extremely angry \f + \fk metonymy \f* \add with the people of Babylon, and I will get rid of
 them\add*! 
 \q
 \v 46 Do not be discouraged/worried [IDI] or afraid 
@@ -255,21 +255,21 @@ defeated\add*;
 \q2 and the corpses of their soldiers will lie in the streets. 
 \q
 \v 48 Then all the \add angels in\add* heaven and all the \add people
-on\add* \f + \fr personification \f* the earth will rejoice, 
+on\add* \f + \fk personification \f* the earth will rejoice, 
 \q2 because from the east will come armies that will destroy Babylon.
 \q
 \v 49 Like \add the soldiers of Babylon\add* killed the people of Israel
-\q2 and also killed others all over the world \f + \fr hyperbole \f*, 
+\q2 and also killed others all over the world \f + \fk hyperbole \f*, 
 \q2 the people of Babylon must also be killed. 
 \q
-\v 50 You Israeli people who have not been killed \f + \fr metonymy \f*, get out of Babylon!
+\v 50 You Israeli people who have not been killed \f + \fk metonymy \f*, get out of Babylon!
 \q2 Do not wait! 
 \q \add Even though you are in a land\add* far away \add from Israel\add*,
 \q2 think about Yahweh, and think about Jerusalem!” 
 \q
 \v 51  \add The Israeli people say\add*, 
 \q2 “We are ashamed. 
-\q We are completely disgraced \f + \fr doublet \f*, 
+\q We are completely disgraced \f + \fk doublet \f*, 
 \q2 because foreigners have entered Yahweh's temple and ◄defiled it/caused it to become unfit for worship►.”
 \b
 \q
@@ -288,7 +288,7 @@ on\add* \f + \fr personification \f* the earth will rejoice,
 \v 55 Yahweh will be destroying Babylon. 
 \q2 He will cause the loud noises in the city to cease. 
 \q
-\v 56 Enemy troops will surge against the city like \f + \fr simile \f* a great wave.
+\v 56 Enemy troops will surge against the city like \f + \fk simile \f* a great wave.
 \q2 They will capture the city's mighty soldiers 
 \q2 and break their weapons. 
 \q That will happen because Yahweh is a God who punishes \add his

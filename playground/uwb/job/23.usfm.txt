@@ -4,16 +4,16 @@
 \v 1 Then Job replied again, saying this: 
 \q
 \v 2 “Today I am again complaining bitterly/strongly \add to God\add*;
-\q2 I continue groaning, but he \f + \fr synecdoche \f* continues to ◄punish me/cause me to suffer►.
+\q2 I continue groaning, but he \f + \fk synecdoche \f* continues to ◄punish me/cause me to suffer►.
 \q
 \v 3 I ◄wish that I knew/want to know► where I could meet/talk with him,
 \q2 so that I could go to the place where he lives. 
 \q
 \v 4 If I could do that, I would tell him why \add I know that\add* I am innocent;
-\q2 I would tell \f + \fr metonymy \f* to him all my ◄arguments/evidence \add to show that I have not done what is
+\q2 I would tell \f + \fk metonymy \f* to him all my ◄arguments/evidence \add to show that I have not done what is
 evil\add*►. 
 \q
-\v 5 Then I would find out and understand what he would reply to me \f + \fr doublet \f*.
+\v 5 Then I would find out and understand what he would reply to me \f + \fk doublet \f*.
 \q
 \v 6 Would he use his great power to argue with me? 
 \q2 No, he would listen to me carefully. 
@@ -31,17 +31,17 @@ endure\add* forever.
 \q2 but I have not seen him anywhere. 
 \q
 \v 10 But he knows how I have conducted my life; 
-\q2 and when he has finished testing me, \add he will see that\add* I am as pure as \f + \fr simile \f* gold
+\q2 and when he has finished testing me, \add he will see that\add* I am as pure as \f + \fk simile \f* gold
 \add whose impurities have all been burned out\add*. 
 \q
-\v 11 I \f + \fr synecdoche \f* have faithfully walked on the road that he showed me;
+\v 11 I \f + \fk synecdoche \f* have faithfully walked on the road that he showed me;
 \q2 I have not turned away from \add obeying\add* him. 
 \q
-\v 12 I have always obeyed what he \f + \fr synecdoche \f* commanded; 
+\v 12 I have always obeyed what he \f + \fk synecdoche \f* commanded; 
 \q2 I have hidden away in my inner being the words that he has spoken.
 \b
 \q
-\v 13 He never changes. There is no one who can \f + \fr rhetorical question \f* stop him \add from doing what he
+\v 13 He never changes. There is no one who can \f + \fk rhetorical question \f* stop him \add from doing what he
 desires\add*. 
 \q2 Whatever he wants to do, he does. 
 \q
@@ -49,9 +49,9 @@ desires\add*.
 \q2 \add and I am sure that\add* he has thought about doing many things for me.
 \q
 \v 15 So I am terrified in his presence; 
-\q2 when I think \add about what he can do\add*, I am very afraid \f + \fr doublet \f*.
+\q2 when I think \add about what he can do\add*, I am very afraid \f + \fk doublet \f*.
 \q
-\v 16 Almighty God has caused me \f + \fr synecdoche \f* to feel timid and terrified \f + \fr doublet \f*.
+\v 16 Almighty God has caused me \f + \fk synecdoche \f* to feel timid and terrified \f + \fk doublet \f*.
 \q
 \v 17  \add It is as though\add* there is only thick darkness in front of me,
 \q2 but it is God that I am afraid of, not the darkness.” 

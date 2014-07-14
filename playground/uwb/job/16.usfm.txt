@@ -6,7 +6,7 @@
 \v 2 “I have heard things like that before; 
 \q2 all of you, \add instead of helping me\add*, are only causing me to feel more miserable.
 \q
-\v 3 Will your speeches, which are only wind, never end \f + \fr rhetorical question \f*? 
+\v 3 Will your speeches, which are only wind, never end \f + \fk rhetorical question \f*? 
 \q2 Eliphaz, what bothers/irritates you very much with the result that you continue replying to me?
 \q
 \v 4  \add If it were you three and not I who were suffering\add*,
@@ -14,12 +14,12 @@
 \q I could make great speeches \add to criticize/condemn you\add*,
 \q2 and I could shake my head at you \add to ridicule you\add*. 
 \q
-\v 5 But, \add unlike all of you\add*, with what I said \f + \fr metonymy \f* I would encourage you
+\v 5 But, \add unlike all of you\add*, with what I said \f + \fk metonymy \f* I would encourage you
 \q2 and try to cause your pain to be less. 
 \b
 \q
 \v 6 But now, if I talk, my pain does not decrease, 
-\q2 and if I am silent, my pain still certainly does not \f + \fr rhetorical question \f* go away.
+\q2 and if I am silent, my pain still certainly does not \f + \fk rhetorical question \f* go away.
 \q
 \v 7 God has now taken away all my strength, 
 \q2 and he has destroyed all my family. 
@@ -30,7 +30,7 @@
 \q2 and they think that proves that I \add am guilty\add*. 
 \q
 \v 9 Because God is very angry with me and hates me, 
-\q2 \add it is as though he is a wild animal that\add* \f + \fr metaphor \f* has gnashed his teeth at me
+\q2 \add it is as though he is a wild animal that\add* \f + \fk metaphor \f* has gnashed his teeth at me
 \q2 because he is my enemy. 
 \q
 \v 10 People gape/stare at me with their mouths open \add to sneer at
@@ -39,20 +39,20 @@ me\add*;
 \q2 and they crowd around me to \add threaten\add* me. 
 \q
 \v 11  \add It is as though\add* God has handed me over to ungodly people
-\q2 and put me into the hands of the wicked \f + \fr doublet \f*. 
+\q2 and put me into the hands of the wicked \f + \fk doublet \f*. 
 \q
 \v 12 Previously, I was living peacefully, 
 \q2 but he crushed me; 
 \q \add it is as though\add* he grabbed my neck and smashed me to pieces.
-\q2 \add It is as though\add* \f + \fr metaphor \f* he set me up like a target 
+\q2 \add It is as though\add* \f + \fk metaphor \f* he set me up like a target 
 \q
 \v 13 and people are surrounding me \add and shooting arrows at me\add*.
 \q His arrows pierce my kidneys 
 \q2 and cause the bile \add from my liver\add* to spill onto the ground,
 \q2 and God does not pity me at all. 
 \q
-\v 14  \add It is as though\add* \f + \fr metaphor \f* I am a wall that he is breaking through;
-\q2 he rushes at me like \f + \fr simile \f* a soldier \add attacking his enemies\add*.
+\v 14  \add It is as though\add* \f + \fk metaphor \f* I am a wall that he is breaking through;
+\q2 he rushes at me like \f + \fk simile \f* a soldier \add attacking his enemies\add*.
 \b
 \q
 \v 15  \add Because I am mourning\add*, I wear pieces of rough cloth that I have sewed together,
@@ -65,7 +65,7 @@ me\add*;
 \q2 and I always pray sincerely/honestly to God. 
 \b
 \q
-\v 18  \add When I die\add*, I want the ground \f + \fr apostrophe \f* to \add act as though I had been murdered
+\v 18  \add When I die\add*, I want the ground \f + \fk apostrophe \f* to \add act as though I had been murdered
 and\add* cry out against those who killed me, 
 \q2 and I do not want anyone to stop me while I am demanding \add that God act justly
 toward\add* me. 

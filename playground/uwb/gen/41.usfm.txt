@@ -10,7 +10,7 @@
 \p
 \v 5 The king went to sleep again, and he had another dream. This time he saw seven heads of grain that were full of kernels of
 grain and ripe, and all growing on one stalk. 
-\v 6 After that, the king saw that seven other heads of grain sprouted on that \f + \fr (OR, on another) stalk. They were thin and had
+\v 6 After that, the king saw that seven other heads of grain sprouted on that \f + \ft (OR, on another) stalk. They were thin and had
 been dried up by the hot east wind. 
 \v 7 Then the thin heads of grain swallowed up the seven ripe full heads. Then the king woke up. He realized that he had been
 dreaming. 
@@ -77,12 +77,12 @@ that the people in this country will not die from hunger.”
 \p
 \v 37 The king and his officials thought that this would be a good plan.
 \v 38 So the king said to them, “◄Can we find any other man like Joseph, a man to whom God has given his Spirit?/It is not
-likely that we will find another man like this man, one to whom God has given his Spirit!►” \f + \fr rhetorical question \f*
+likely that we will find another man like this man, one to whom God has given his Spirit!►” \f + \fk rhetorical question \f*
 \p
 \v 39 Then the king said to Joseph, “Because God has revealed all this to you, it seems to me that there is no one who is as
 wise as you and who can decide wisely about things. 
 \v 40 So I will put you in charge of everything in my palace. All the people here in Egypt must obey what you command. Only
-because I am king \f + \fr metonymy \f* will I have more authority than you.” 
+because I am king \f + \fk metonymy \f* will I have more authority than you.” 
 \p
 \v 41 Then the king said to Joseph, “I am now putting you in charge of the whole country of Egypt.”
 \v 42 The king took from his finger the ring that had his seal on it, and he put it on Joseph's finger. He put robes made of
@@ -117,10 +117,10 @@ land where I have suffered.”
 \v 54 Then the seven years of famine started, just as Joseph had predicted. There was also a famine in all the other nearby
 lands, but although the crops did not grow, there was food everywhere in Egypt, because of the grain they had stored up in the
 cities. 
-\v 55 When all the people of \f + \fr metonymy \f* Egypt had eaten all of their own food and were still hungry, they begged the king for food.
+\v 55 When all the people of \f + \fk metonymy \f* Egypt had eaten all of their own food and were still hungry, they begged the king for food.
 So the king told all the people of Egypt, “Go to Joseph, and do what he tells you to do.”
 \p
 \v 56 When the famine was very bad over the whole country, Joseph ordered his helpers to open the storehouses. Then they sold
 the grain in the storehouses to the people of Egypt, because the famine was very severe all over Egypt.
-\v 57 And people from many \f + \fr hyperbole \f* nearby countries came to Egypt to buy grain from Joseph, because the famine was very severe
-everywhere \f + \fr hyperbole \f*. 
+\v 57 And people from many \f + \fk hyperbole \f* nearby countries came to Egypt to buy grain from Joseph, because the famine was very severe
+everywhere \f + \fk hyperbole \f*. 

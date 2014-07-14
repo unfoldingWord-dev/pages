@@ -4,7 +4,7 @@
 \v 1 That night, all the Israeli people cried loudly. 
 \v 2 The next day they all complained against Aaron and Moses/me. All the men said, “We wish that we had died in Egypt, or in
 this desert! 
-\v 3 Why is Yahweh bringing us to this land, where we men will be killed with swords \f + \fr rhetorical question \f*? And they will take away our wives
+\v 3 Why is Yahweh bringing us to this land, where we men will be killed with swords \f + \fk rhetorical question \f*? And they will take away our wives
 and children \add to be their slaves\add*. \add Instead of going to
 Canaan\add*, it would be better for us to return to Egypt!” 
 \v 4 Then \add some of them\add* said to each other, “We should choose a leader who will take us back to Egypt!”
@@ -15,13 +15,13 @@ Canaan\add*, it would be better for us to return to Egypt!”
 \v 7 They said to the Israeli people, “The land that we explored is very good.
 \v 8 If Yahweh is pleased with us, he will lead us into that very fertile [IDI] land, and he will give it to us.
 \v 9 So do not rebel against Yahweh! And do not be afraid of the people in that land! We will ◄gobble them up/completely
-destroy them► \f + \fr metaphor \f*! They do not have anyone who will protect them, but Yahweh will be with us
+destroy them► \f + \fk metaphor \f*! They do not have anyone who will protect them, but Yahweh will be with us
 \add and help us\add*. So do not be afraid of them!” 
 \p
 \v 10 Then all the Israeli people talked about \add killing Caleb and Joshua
 by\add* throwing stones at them. But \add suddenly\add* Yahweh's glory appeared to them at the Sacred Tent.
-\v 11 Then Yahweh said to Moses/me, “How long will these people reject me \f + \fr rhetorical question \f*? I am tired of them not believing in what I
-\add can do\add*, in spite of all the miracles I have performed among them \f + \fr rhetorical question \f*!
+\v 11 Then Yahweh said to Moses/me, “How long will these people reject me \f + \fk rhetorical question \f*? I am tired of them not believing in what I
+\add can do\add*, in spite of all the miracles I have performed among them \f + \fk rhetorical question \f*!
 \v 12 So I will send a ◄plague/widespread sickness► among them and get rid of them. But I will cause your
 \add descendants\add* to become a great nation. They will be a nation that is much greater and stronger than these people are.”
 \p
@@ -38,7 +38,7 @@ and by that cloud you lead them during the day, and that the cloud becomes like 
 \p
 \v 17 So Yahweh, now show that you are very powerful. You said, 
 \v 18 ‘I do not quickly become angry; instead, I love people greatly, and I forgive people for having sinned and having
-disobeyed my laws. But I will always punish \f + \fr litotes \f* people who are guilty of doing what is wrong. When parents sin, I will punish
+disobeyed my laws. But I will always punish \f + \fk litotes \f* people who are guilty of doing what is wrong. When parents sin, I will punish
 them, but I will also punish their children and their grandchildren and their great-grandchildren and their
 great-great-grandchildren.’ 
 \v 19 So, because you love people like that, forgive these people for the sins that they have committed, just like you have
@@ -61,7 +61,7 @@ that land that he has already seen, and his descendants will inherit/possess som
 \s Yahweh punished the Israelis 
 \p
 \v 26 Then Yahweh said to Aaron and Moses/me, 
-\v 27 “How long will the wicked people of this nation keep complaining about me \f + \fr rhetorical question \f*? I have heard everything that they have
+\v 27 “How long will the wicked people of this nation keep complaining about me \f + \fk rhetorical question \f*? I have heard everything that they have
 grumbled/complained against me. 
 \v 28 So now tell them this: ‘Just as certainly as I, Yahweh, live, I will do exactly what you said would happen.
 \v 29  \add I will cause\add* all of you to die here in this desert! Because you grumbled against me, none of you who are more
@@ -92,7 +92,7 @@ that discouraged the people
 to\add* enter the land that Yahweh promised to give to us.” 
 \p
 \v 41 But Moses/I said, “Yahweh commanded you \add to return to the desert,
-so\add* why are you now disobeying him \f + \fr rhetorical question \f*? It will not ◄succeed/be possible►.
+so\add* why are you now disobeying him \f + \fk rhetorical question \f*? It will not ◄succeed/be possible►.
 \v 42 Do not try to enter the land now! \add If you try\add*, your enemies will defeat you, because Yahweh will not ◄be
 with/help► you. 
 \v 43 When you begin to fight the descendants of Amalek and Canaan, they will slaughter you! Yahweh will abandon you, because

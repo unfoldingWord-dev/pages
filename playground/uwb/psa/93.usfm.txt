@@ -1,7 +1,7 @@
 \c 93  
 \q
 \v 1 Yahweh, you have become the King! 
-\q2 The majesty and the power that you have are like \f + \fr metaphor \f* robes that a king wears.
+\q2 The majesty and the power that you have are like \f + \fk metaphor \f* robes that a king wears.
 \q You put the world firmly in place, and it will never be moved/shaken.
 \q
 \v 2 You started to rule as king a very long time ago; 

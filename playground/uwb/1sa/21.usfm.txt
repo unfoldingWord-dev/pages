@@ -13,7 +13,7 @@ eat\add* [IDI]? Could you give me five loaves of bread, or whatever
 \add other food\add* that you can find?” 
 \p
 \v 4 The priest answered David, “There is no ordinary bread here, but I have some of the sacred bread
-\add that was placed before Yahweh\add*. Your men may eat it if they have not slept with \f + \fr euphemism \f* women
+\add that was placed before Yahweh\add*. Your men may eat it if they have not slept with \f + \fk euphemism \f* women
 \add recently\add*.” 
 \p
 \v 5 David replied, “They have not been near women for many days. I do not allow my men to defile themselves by sleeping with
@@ -41,7 +41,7 @@ good\add* as that one! Give it to me.”
 \add and his men\add* and went to Gath \add city in the Philistia
 region\add*, to stay with King Achish. 
 \v 11 But the officers of King Achish \add objected to David being
-there\add*. They said to King Achish, “This man is \f + \fr rhetorical question \f* David, the king of Israel! He is the one \f + \fr rhetorical question \f* whom
+there\add*. They said to King Achish, “This man is \f + \fk rhetorical question \f* David, the king of Israel! He is the one \f + \fk rhetorical question \f* whom
 \add our enemies\add*, the \add Israeli\add* people, \add honored
 by\add* dancing and singing, 
 \q ‘Saul has killed thousands \add of his enemies\add*, 
@@ -53,5 +53,5 @@ by\add* dancing and singing,
 \add of the city\add* and allowing his saliva to run down his beard.
 \p
 \v 14 Then King Achish said to his men, “Look at this man! He is acting like an insane man! Why have you brought him to me?
-\v 15 Have you brought him because I do not have enough insane men here already \f + \fr rhetorical question \f*? I do not want \f + \fr rhetorical question \f* him to come into my
+\v 15 Have you brought him because I do not have enough insane men here already \f + \fk rhetorical question \f*? I do not want \f + \fk rhetorical question \f* him to come into my
 house!” 

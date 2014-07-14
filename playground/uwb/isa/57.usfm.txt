@@ -13,14 +13,14 @@
 \b
 \q
 \v 3  \add Yahweh says,\add* “But you who practice sorcery, come here!
-\q2 You who worship idols \f + \fr metaphor \f*, 
+\q2 You who worship idols \f + \fk metaphor \f*, 
 \q2 \add listen to me\add*! 
 \q
-\v 4 Do you realize \f + \fr rhetorical question \f* whom you are ridiculing, 
+\v 4 Do you realize \f + \fk rhetorical question \f* whom you are ridiculing, 
 \q2 and whom you are insulting? 
-\q2 Do you realize \f + \fr rhetorical question \f* to whom you are sticking out your tongues?
+\q2 Do you realize \f + \fk rhetorical question \f* to whom you are sticking out your tongues?
 \q \add You are insulting me, Yahweh\add*! 
-\q2 You are \f + \fr rhetorical question \f* always rebelling against me and always lying. 
+\q2 You are \f + \fk rhetorical question \f* always rebelling against me and always lying. 
 \q
 \v 5 You are eager to have sex under every big green tree where you worship your gods.
 \q You kill your children as sacrifices \add to your idols\add* in the dry riverbeds,
@@ -32,12 +32,12 @@
 \q2 and you bring grain \add to burn for\add* an offering to them.
 \q Do you think that I should not punish you for doing all those things?
 \q
-\v 7 You have sex \f + \fr euphemism \f* \add with cult prostitutes\add* on every hill and mountain,
+\v 7 You have sex \f + \fk euphemism \f* \add with cult prostitutes\add* on every hill and mountain,
 \q2 and you go there to offer sacrifices \add to your gods\add*.
 \q
 \v 8 You have put ◄fetishes/pagan symbols► behind your doors and doorposts
 \q2 and you have deserted me. 
-\q You have taken off your clothes \f + \fr euphemism \f* 
+\q You have taken off your clothes \f + \fk euphemism \f* 
 \q2 and climbed into your bed 
 \q and invited more \add of your lovers\add* to come to bed with you.
 \q You have paid them to have sex with you, 
@@ -52,35 +52,35 @@ worship\add*;
 \v 10 You became weary because of doing all those things, 
 \q2 but you never said, ‘It is useless \add for us to do that\add*.’
 \q You found new strength for worshiping idols, 
-\q2 so you continued to do that \f + \fr litotes \f*. 
+\q2 so you continued to do that \f + \fk litotes \f*. 
 \b
 \q
 \v 11 Was it because you were afraid \add of those idols more than you were afraid of
 me\add* that you lied \add about what you were doing\add*, 
 \q2 and you do not even think about [DOU, RHQ] me? 
-\q Was it because I did not punish you for a long time that you are not afraid of me \f + \fr rhetorical question \f*?
+\q Was it because I did not punish you for a long time that you are not afraid of me \f + \fk rhetorical question \f*?
 \q
-\v 12 You \add think that\add* \f + \fr irony \f* the things that you have done are right,
+\v 12 You \add think that\add* \f + \fk irony \f* the things that you have done are right,
 \q2 but I will tell the truth. 
 \q It will not help you to do any of those things. 
 \q
 \v 13 When you cry out \add for help\add* to your collection of idols,
 \q2 they will not rescue you. 
-\q The wind will blow them away \f + \fr doublet \f*. 
+\q The wind will blow them away \f + \fk doublet \f*. 
 \q2 But those who trust in me will live in the land \add of Israel\add*,
 \q and \add they will worship me on\add* \add Zion\add*, my sacred hill.”
 \s Yahweh will rescue his people. 
 \p
 \v 14 Yahweh will say, “Prepare \add yourselves to receive\add* me,
-\q2 like \f + \fr metaphor \f* people build and prepare a road \add for a king to come
+\q2 like \f + \fk metaphor \f* people build and prepare a road \add for a king to come
 on\add*. 
 \q Get rid of \add the things that are causing you to sin\add* 
-\q2 like \f + \fr metaphor \f* people remove from a road ◄obstacles/things that cause people to stumble►.
+\q2 like \f + \fk metaphor \f* people remove from a road ◄obstacles/things that cause people to stumble►.
 \q
 \v 15 Because this is what I, Yahweh, who am holy and greatly honored and who live forever, say:
 \q I live in the highest heaven, where \add everything\add* is holy,
 \q2 but I also am with those who are humble and who are sorry for the sinful things that they have done.
-\q I will greatly encourage \f + \fr doublet \f* those who have repented. 
+\q I will greatly encourage \f + \fk doublet \f* those who have repented. 
 \q
 \v 16 I will not accuse people forever; 
 \q2 I will not always be angry with them, 
@@ -101,6 +101,6 @@ on\add*.
 \q2 and I will cause things to go well for them. 
 \q
 \v 20 Wicked people \add do not have peace in their inner beings\add*;
-\q2 they are like \f + \fr simile \f* a sea \add whose waves are\add* always churning up mud,
+\q2 they are like \f + \fk simile \f* a sea \add whose waves are\add* always churning up mud,
 \q
 \v 21 and I, Yahweh, say that things will never ◄go well/be peaceful► for those who are evil.”

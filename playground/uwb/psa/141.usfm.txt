@@ -6,17 +6,17 @@
 \q Listen to me when I am calling to you. 
 \q
 \v 2 Accept my prayer as though it was incense \add being burned as an
-offering\add* \f + \fr simile \f* to you. 
+offering\add* \f + \fk simile \f* to you. 
 \q2 And accept me while I lift up my hands \add to pray\add* to you
-\q2 like you accept sacrifices \add that are offered to you in the\add* evening \f + \fr simile \f*.
+\q2 like you accept sacrifices \add that are offered to you in the\add* evening \f + \fk simile \f*.
 \b
 \q
-\v 3 Yahweh, do not allow me to say \f + \fr metonymy \f* things that are wrong 
+\v 3 Yahweh, do not allow me to say \f + \fk metonymy \f* things that are wrong 
 \q2 as a sentry/guard \add does not allow people who want to do things that are
-wrong\add* \f + \fr metaphor \f* to enter a door \add of a building\add*. 
+wrong\add* \f + \fk metaphor \f* to enter a door \add of a building\add*. 
 \q
 \v 4 Prevent me from wanting to do anything that is wrong, 
-\q2 and from joining with wicked men when they want to do evil deeds \f + \fr doublet \f*.
+\q2 and from joining with wicked men when they want to do evil deeds \f + \fk doublet \f*.
 \q Do not even allow me to share in eating delightful food with them!
 \b
 \q
@@ -32,7 +32,7 @@ right\add*,
 \v 6 When their rulers are thrown down from the top of rocky cliffs,
 \q2 people will know that what you, Yahweh, said \add about them\add* is true.
 \q
-\v 7 Like a log that is split and cut into small pieces \f + \fr simile \f*, 
+\v 7 Like a log that is split and cut into small pieces \f + \fk simile \f*, 
 \q2 their shattered bones will be scattered \add on the ground\add* near
 \add other\add* graves. 
 \b

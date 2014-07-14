@@ -17,12 +17,12 @@ ruined, and useless.
 \add other places in\add* Judah are very proud of. 
 \v 10 Those wicked people refuse to pay attention to what I say. They stubbornly do just what they desire to do; they worship
 other gods. Therefore, they will become completely useless, like your waistcloth.
-\v 11 Just like a waistcloth clings closely/tightly to a man's waist, I wanted the people \f + \fr metonymy \f* of Israel and Judah to cling
+\v 11 Just like a waistcloth clings closely/tightly to a man's waist, I wanted the people \f + \fk metonymy \f* of Israel and Judah to cling
 closely to me. I wanted them to be my people, people who would praise me and honor me. But they would not pay attention to me.
 \s The warning regarding wine bags 
 \p
 \v 12 So, tell this to them: ‘Yahweh, the God whom you Israeli people worship, says that every leather wineskin should be
-filled with wine.’ And \add when you tell that to them\add*, they will reply, ‘◄Of course/Certainly► we know \f + \fr rhetorical question \f* that all
+filled with wine.’ And \add when you tell that to them\add*, they will reply, ‘◄Of course/Certainly► we know \f + \fk rhetorical question \f* that all
 wineskins should be filled with wine!’ 
 \v 13 And then you must tell them, ‘No, that is not what Yahweh means. What he said means that he will cause this land to be
 filled with people who are drunk. That will include \add all of you\add*—the king who sits on the throne that King David
@@ -31,7 +31,7 @@ previously sat on, the priests and the prophets, and even the common people of J
 mercifully toward you at all; pitying you will not prevent me from getting rid of you.’ ”
 \s A warning that the people of Judah will be exiled 
 \q
-\v 15  \add You people of Judah\add*, pay very careful attention \f + \fr doublet \f*.
+\v 15  \add You people of Judah\add*, pay very careful attention \f + \fk doublet \f*.
 \q2 Do not be proud, because Yahweh has spoken to you. 
 \q
 \v 16  \add It is as though\add* he is ready to bring darkness on you
@@ -44,7 +44,7 @@ mercifully toward you at all; pitying you will not prevent me from getting rid o
 \q2 \add what will happen to you because of\add* your being proud will cause me to cry when I am alone.
 \q My eyes will be filled with tears 
 \q2 because you, Yahweh's people, 
-\q2 \add whom he takes care of like a shepherd takes care of\add* \f + \fr metaphor \f* his flock,
+\q2 \add whom he takes care of like a shepherd takes care of\add* \f + \fk metaphor \f* his flock,
 \q2 will all be \add captured by your enemies and\add* taken to other countries.
 \q
 \v 18  \add You people of Judah\add*, say to the king and to his mother,
@@ -61,13 +61,13 @@ towns\add*.
 \q
 \v 20  \add You leaders of Jerusalem\add*, open your eyes and look:
 \q \add the enemy armies are ready to\add* march down from the north.
-\q \add When that happens\add*, what will happen to \f + \fr rhetorical question \f* the \add people of Judah who are
+\q \add When that happens\add*, what will happen to \f + \fk rhetorical question \f* the \add people of Judah who are
 like\add* a beautiful flock of sheep, 
 \q2 people that he gave to you to take care of? 
 \q
-\v 21 What will you say \f + \fr rhetorical question \f* when Yahweh appoints people from other countries to rule over you,
+\v 21 What will you say \f + \fk rhetorical question \f* when Yahweh appoints people from other countries to rule over you,
 \q2 people who you \add mistakenly\add* thought were your friends?
-\q You will \f + \fr rhetorical question \f* suffer very much pain, 
+\q You will \f + \fk rhetorical question \f* suffer very much pain, 
 \q2 like a woman who is about to give birth to a baby. 
 \q
 \v 22 You will ask yourselves, “Why is this happening to us?” 
@@ -75,9 +75,9 @@ like\add* a beautiful flock of sheep,
 \q That is why \add soldiers of the invading armies\add* will lift up the skirts
 \add of your women\add* and rape them. 
 \q
-\v 23 A man from Ethiopia certainly cannot \f + \fr rhetorical question \f* change the color of his
+\v 23 A man from Ethiopia certainly cannot \f + \fk rhetorical question \f* change the color of his
 \add black\add* skin, 
-\q2 and a leopard certainly cannot \f + \fr rhetorical question \f* change its spots. 
+\q2 and a leopard certainly cannot \f + \fk rhetorical question \f* change its spots. 
 \q Similarly, you cannot start doing what is good, 
 \q2 because you have always done what is evil. 
 \b
@@ -99,4 +99,4 @@ adultery\add*;
 with\add* a female horse. 
 \q I have seen that you worship disgusting idols in the fields and on the hills.
 \q You people of Jerusalem, terrible things will happen to you! 
-\q2 How long will it be \f + \fr rhetorical question \f* until you are acceptable to me again?”
+\q2 How long will it be \f + \fk rhetorical question \f* until you are acceptable to me again?”

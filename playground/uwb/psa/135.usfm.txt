@@ -5,13 +5,13 @@
 \q praise him! 
 \q
 \v 2 You who stand in the temple of Yahweh our God and in the surrounding courtyard,
-\q2 praise him \f + \fr metonymy \f*! 
+\q2 praise him \f + \fk metonymy \f*! 
 \q
 \v 3 Praise Yahweh, because he does good things for us; 
-\q2 sing to him \f + \fr metonymy \f*, because he acts kindly to us. 
+\q2 sing to him \f + \fk metonymy \f*, because he acts kindly to us. 
 \q
 \v 4 He has chosen us, the descendants of Jacob; 
-\q2 he has chosen us Israelis to belong to him \f + \fr doublet \f*. 
+\q2 he has chosen us Israelis to belong to him \f + \fk doublet \f*. 
 \b
 \q
 \v 5 I know that Yahweh is great; 
@@ -29,7 +29,7 @@
 \v 8 He is the one who killed all the firstborn males in Egypt, 
 \q2 the firstborn of people and of animals. 
 \q
-\v 9 There he performed many kinds of miracles \f + \fr doublet \f* 
+\v 9 There he performed many kinds of miracles \f + \fk doublet \f* 
 \q2 to punish the king and all his officials. 
 \q
 \v 10 He destroyed many nations 

@@ -9,7 +9,7 @@ down.
 \v 3 You will not escape from them; they will capture you and take you to the king of Babylon. And then they will take you to
 Babylon.” ’ 
 \p
-\v 4 But King Zedekiah, listen to this that Yahweh has promised: ‘You will not be killed in a battle \f + \fr metonymy \f*;
+\v 4 But King Zedekiah, listen to this that Yahweh has promised: ‘You will not be killed in a battle \f + \fk metonymy \f*;
 \v 5 you will die peacefully. \add When you die\add*, people will burn incense to honor/remember you just as they did for your
 ancestors who were kings before you became king. They will mourn for you, crying, “We are very sad that our king is dead!” I,
 Yahweh, promise that will happen.’ ” 
@@ -32,7 +32,7 @@ ancestors long ago, when I rescued them from being slaves in Egypt.
 ancestors did not pay any attention to what I said. 
 \v 15 Recently, you obeyed my command and stopped doing what was wrong and did what was right. You made a solemn agreement at
 my temple \add that you would free your slaves\add*, and then you freed them.
-\v 16 But now you have disregarded what you solemnly promised, and you have shown contempt for what I \f + \fr metonymy \f* said by taking back
+\v 16 But now you have disregarded what you solemnly promised, and you have shown contempt for what I \f + \fk metonymy \f* said by taking back
 the women and men whom you had freed and said they could live wherever they wanted to. Now you have forced them to be your
 slaves again. 
 \p

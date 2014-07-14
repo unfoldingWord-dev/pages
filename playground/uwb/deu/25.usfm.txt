@@ -16,9 +16,9 @@ grain\add*.
 \s Responsibility to a dead brother 
 \p
 \v 5 If two brothers live on the same property, and one of them who has no son dies, the man's widow should not marry someone
-who is not a member of his family. The dead man's brother must marry her and have sex \f + \fr euphemism \f* with her. It is his duty to do
+who is not a member of his family. The dead man's brother must marry her and have sex \f + \fk euphemism \f* with her. It is his duty to do
 that. 
-\v 6 If she later gives birth to a son, that son is to be considered \f + \fr metonymy \f* the son of the man who died, in order that the dead
+\v 6 If she later gives birth to a son, that son is to be considered \f + \fk metonymy \f* the son of the man who died, in order that the dead
 man's name will not disappear from Israel. 
 \p
 \v 7 But if the dead man's brother does not want to marry that woman, she must stand at the ◄gate/central meeting place► of the

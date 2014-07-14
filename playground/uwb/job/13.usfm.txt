@@ -1,7 +1,7 @@
 \c 13  
 \s Job continued his reply 
 \q
-\v 1 “Hey, I \f + \fr synecdoche \f* have seen everything \add that you have seen\add*,
+\v 1 “Hey, I \f + \fk synecdoche \f* have seen everything \add that you have seen\add*,
 \q2 and I have heard and understood all \add that you have said\add*.
 \q
 \v 2 What you know, I also know; 
@@ -13,8 +13,8 @@ wrong\add*►.
 \q
 \v 4 As for you, you tell lies \add and do not allow people to know what is the
 truth\add*, 
-\q2 like someone covers \add up a bad surface of a wall\add* with whitewash \f + \fr metaphor \f*.
-\q You are all like doctors \f + \fr metaphor \f* that \add give people\add* useless
+\q2 like someone covers \add up a bad surface of a wall\add* with whitewash \f + \fk metaphor \f*.
+\q You are all like doctors \f + \fk metaphor \f* that \add give people\add* useless
 \add medicines\add*. 
 \q
 \v 5 I wish/desire that you would be silent; 
@@ -35,12 +35,12 @@ truth\add*,
 \v 10 If you secretly say/do things to cause God to act favorably toward you,
 \q2 he will surely rebuke you. 
 \q
-\v 11 He will certainly \f + \fr rhetorical question \f* cause you to be terrified by his power/greatness,
+\v 11 He will certainly \f + \fk rhetorical question \f* cause you to be terrified by his power/greatness,
 \q2 you will become extremely afraid. 
 \q
 \v 12 The things that you say \add that you think are\add* wise are
-\add as useless as\add* \f + \fr metaphor \f* as ashes; 
-\q2 what you say to defend yourselves is no better than \f + \fr metaphor \f* clay that quickly crumbles.
+\add as useless as\add* \f + \fk metaphor \f* as ashes; 
+\q2 what you say to defend yourselves is no better than \f + \fk metaphor \f* clay that quickly crumbles.
 \b
 \q
 \v 13 So, be quiet and allow me to speak, 
@@ -58,17 +58,17 @@ say\add*.
 \q2 perhaps, if I can prove that to God, he will save me.” 
 \s Job asks God to tell him what his charges are 
 \q
-\v 17 “God, listen very carefully to what I say \f + \fr doublet \f*. 
+\v 17 “God, listen very carefully to what I say \f + \fk doublet \f*. 
 \q
 \v 18 I am ready to prove that I am innocent, 
 \q2 and I know that you also will declare that I am not guilty. 
 \q
-\v 19 I certainly do not think \f + \fr rhetorical question \f* that \add you or anyone else\add* will say that what I say is not true;
+\v 19 I certainly do not think \f + \fk rhetorical question \f* that \add you or anyone else\add* will say that what I say is not true;
 \q2 if anyone did that, I would ◄be silent/stop talking► and die.
 \b
 \q
 \v 20 I am requesting you to do two things for me; 
-\q2 if you do them, I will ◄not hide from you/come and stand in front of you► \f + \fr litotes \f*.
+\q2 if you do them, I will ◄not hide from you/come and stand in front of you► \f + \fk litotes \f*.
 \q
 \v 21  \add The first thing that I request is that\add* you stop punishing [IDI] me;
 \q2 and \add the second thing that I request is that\add* you stop causing me to be very terrified.
@@ -82,10 +82,10 @@ say\add*.
 \v 24 Why ◄do you refuse to be friendly with/have you abandoned► me [IDI]?
 \q2 Why do you ◄act toward me as though I am/consider me to be► your enemy?
 \q
-\v 25 I am \add as insignificant as\add* \f + \fr metaphor \f* a leaf that the wind blows;
-\q2 why are you trying to cause me to be afraid \f + \fr rhetorical question \f*? 
+\v 25 I am \add as insignificant as\add* \f + \fk metaphor \f* a leaf that the wind blows;
+\q2 why are you trying to cause me to be afraid \f + \fk rhetorical question \f*? 
 \q Why are you pursuing me? 
-\q2 Am I \add useless, nothing more than a bit of\add* dry chaff \f + \fr rhetorical question \f*?
+\q2 Am I \add useless, nothing more than a bit of\add* dry chaff \f + \fk rhetorical question \f*?
 \q
 \v 26  \add It seems that\add* you are writing things to accuse me
 \add of doing things that are wrong\add*, 
@@ -96,5 +96,5 @@ say\add*.
 \q2 \add It is as though\add* you even look closely at my footprints
 \add to see where I have gone\add*. 
 \q
-\v 28 As a result, my body is decaying like \f + \fr simile \f* rotten wood, 
+\v 28 As a result, my body is decaying like \f + \fk simile \f* rotten wood, 
 \q2 like a piece of cloth that is eaten by \add larvae of\add* moths.”

@@ -1,7 +1,7 @@
 \c 1  
 \p
 \v 1  \add You all know me as\add* the \add chief\add* Elder. \add I am writing this
-letter\add* to all of you \f + \fr metaphor \f* in your congregation. \add God has\add* chosen
+letter\add* to all of you \f + \fk metaphor \f* in your congregation. \add God has\add* chosen
 \add you\add*, and I love you truly! Not only do I myself love you, but all those who know
 \add and accept the\add* true message \add that Jesus taught\add* also love you!
 \v 2 All of us \add believe God's\add* true message. It is in our
@@ -14,19 +14,19 @@ believe\add* their true message.
 \s 2 John 4 
 \s I am happy that some of your members are living just like God commanded us to live.
 \p
-\v 4 I am very happy because I learned about some of you \f + \fr synecdoche \f* who are conducting your lives in a manner that is ◄consistent/in
+\v 4 I am very happy because I learned about some of you \f + \fk synecdoche \f* who are conducting your lives in a manner that is ◄consistent/in
 accordance► with \add God's\add* true message. You are doing that just like our Father
 \add God\add* commanded us \add to do\add*. 
 \s 2 John 5-6 
 \s Continue to love each other just like God commanded us to love when we first began to believe his true message.
 \p
-\v 5 And now, dear congregation \f + \fr metaphor \f*, \add there is something that\add* I am requesting you
+\v 5 And now, dear congregation \f + \fk metaphor \f*, \add there is something that\add* I am requesting you
 \add to do\add*. I am writing this not to command that you do something new, but
-\add that you continue to do\add* what God commanded when we first began \f + \fr metonymy \f*
+\add that you continue to do\add* what God commanded when we first began \f + \fk metonymy \f*
 \add to believe his true message. What he commanded\add* is that we love each other.
 \v 6 And \add we really/truly\add* are loving \add God\add* when we are conducting our lives in accordance with whatever he
 commands \add us to do\add*. What he commands us to do is to continue
-\add to love one another\add*. That is exactly what you heard when you first began \f + \fr metonymy \f*
+\add to love one another\add*. That is exactly what you heard when you first began \f + \fk metonymy \f*
 \add to believe God's true message\add*. 
 \s 2 John 7-11 
 \s Be on your guard against teachers of false doctrine, so that you will receive your complete reward of being with God
@@ -34,7 +34,7 @@ eternally. Do not welcome or encourage any of these false teachers in any way.
 \p
 \v 7 Many people who deceive \add others have left your congregation
 and\add* have now gone out among other people who are \add in your
-area\add* \f + \fr metonymy \f*. They are the ones who ◄do not acknowledge/refuse to say► that Jesus Christ became human. They are the very
+area\add* \f + \fk metonymy \f*. They are the ones who ◄do not acknowledge/refuse to say► that Jesus Christ became human. They are the very
 ones who deceive \add people\add* and oppose \add what we teach about\add* Christ.
 \v 8  \add So\add* be sure that \add you do not let those teachers deceive
 you!\add* If you let them deceive you, you will lose \add the reward\add* which we,
@@ -55,8 +55,8 @@ believe\add* what he taught do not have\add a relationship with\add* God.
 greet you. 
 \p
 \v 12  \add Even though\add* I have much \add more that I want\add* to tell you, I have decided not
-\add to say it\add* in a letter \f + \fr metonymy \f*. Instead, I expect to be with you
+\add to say it\add* in a letter \f + \fk metonymy \f*. Instead, I expect to be with you
 \add soon\add* and talk directly with you. Then we can be completely joyful
 \add together\add*. 
-\v 13 Your fellow believers here \f + \fr metaphor \f*, ones whom \add God\add* has also chosen, ◄send their greetings to you/say that they are
+\v 13 Your fellow believers here \f + \fk metaphor \f*, ones whom \add God\add* has also chosen, ◄send their greetings to you/say that they are
 thinking affectionately about you►. 

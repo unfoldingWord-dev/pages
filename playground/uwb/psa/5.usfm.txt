@@ -36,11 +36,11 @@ much\add*.
 \q
 \v 9 My enemies never say what is true; 
 \q2 in their inner beings they want to destroy others. 
-\q The things that they say \f + \fr metonymy \f* are \add as foul as\add* an open grave
+\q The things that they say \f + \fk metonymy \f* are \add as foul as\add* an open grave
 \add where a corpse has been buried\add*. 
 \q2 They use their tongues to tell lies. 
 \q
-\v 10 O God, declare that they are guilty \f + \fr metonymy \f* \add and punish them\add*.
+\v 10 O God, declare that they are guilty \f + \fk metonymy \f* \add and punish them\add*.
 \q2 Cause them to experience the same disasters/troubles that they plan to cause to happen to others.
 \q Get rid of them because they have committed many sins, 
 \q2 and they have rebelled against you. 
@@ -48,9 +48,9 @@ much\add*.
 \q
 \v 11 But cause that all those who go to you to be protected will rejoice;
 \q2 cause them to sing joyfully to you forever. 
-\q Protect those who love you \f + \fr metonymy \f*; 
+\q Protect those who love you \f + \fk metonymy \f*; 
 \q2 they are truly happy because ◄of what you \add do for them/they belong
 to\add* you►. 
 \q
 \v 12 Yahweh, you always bless those who act righteously; 
-\q2 you protect them like a \add soldier is protected by his\add* shield \f + \fr simile \f*.
+\q2 you protect them like a \add soldier is protected by his\add* shield \f + \fk simile \f*.

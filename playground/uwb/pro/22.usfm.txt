@@ -1,7 +1,7 @@
 \c 22  
 \q
 \v 1 ◄Having a good reputation/Being honored by people► is better than having a lot of money;
-\q2 being well respected is better than having plenty of gold or silver \f + \fr doublet \f*.
+\q2 being well respected is better than having plenty of gold or silver \f + \fk doublet \f*.
 \b
 \q
 \v 2 There is one thing that is true about both rich people and poor people:
@@ -17,7 +17,7 @@
 \b
 \q
 \v 5 Because of the things that wicked people do, \add they have
-difficulties/troubles\add* that will be like thorns and traps on the roads that they walk on \f + \fr metaphor \f*;
+difficulties/troubles\add* that will be like thorns and traps on the roads that they walk on \f + \fk metaphor \f*;
 \q2 people who are careful/cautious will be able to stay away from those difficulties.
 \b
 \q
@@ -26,12 +26,12 @@ difficulties/troubles\add* that will be like thorns and traps on the roads that 
 \b
 \q
 \v 7 Rich people rule over poor people harshly, 
-\q2 and those who borrow money become like slaves \f + \fr metaphor \f* of the people who lend
+\q2 and those who borrow money become like slaves \f + \fk metaphor \f* of the people who lend
 \add money to them\add*. 
 \b
 \q
 \v 8  \add If you plant corn or rice, corn or rice will grow\add*;
-\q2 \add similarly\add*, if you act unjustly, you will have disasters \f + \fr metaphor \f*;
+\q2 \add similarly\add*, if you act unjustly, you will have disasters \f + \fk metaphor \f*;
 \q and if you try to harm/oppress people \add because you are angry with
 them\add*, 
 \q2 you will not be able to do that. 
@@ -50,7 +50,7 @@ good\add*,
 \q2 the king will be your friend. 
 \b
 \q
-\v 12 Yahweh \f + \fr synecdoche \f* ◄watches over/takes care of► those who have good understanding/sense,
+\v 12 Yahweh \f + \fk synecdoche \f* ◄watches over/takes care of► those who have good understanding/sense,
 \q2 but he ruins the plans/affairs of those who always try to deceive others.
 \b
 \q
@@ -59,13 +59,13 @@ good\add*,
 \add to go to work\add*!” 
 \b
 \q
-\v 14 What ◄prostitutes/immoral women► say to men \f + \fr metonymy \f* is like a deep pit \f + \fr metaphor \f*
+\v 14 What ◄prostitutes/immoral women► say to men \f + \fk metonymy \f* is like a deep pit \f + \fk metaphor \f*
 \add into which those men fall\add*; 
 \q2 those with whom Yahweh is angry will fall into that pit. 
 \b
 \q
-\v 15 Children \f + \fr synecdoche \f* naturally do things that are foolish, 
-\q2 but if you punish/beat/spank them \f + \fr personification \f*, they will ◄stop doing foolish things/learn to behave as they should►.
+\v 15 Children \f + \fk synecdoche \f* naturally do things that are foolish, 
+\q2 but if you punish/beat/spank them \f + \fk personification \f*, they will ◄stop doing foolish things/learn to behave as they should►.
 \b
 \q
 \v 16 Those who oppress poor people in order to become rich, 
@@ -76,7 +76,7 @@ them\add*,
 \s Thirty wise sayings 
 \b
 \q
-\v 17 Now listen \f + \fr metonymy \f* to what wise people have said; 
+\v 17 Now listen \f + \fk metonymy \f* to what wise people have said; 
 \q2 think carefully about what I am teaching you. 
 \q
 \v 18 It will be good to ◄keep them in your minds/always remember them►,
@@ -85,13 +85,13 @@ them\add*,
 \v 19  \add I want you to\add* trust in Yahweh, 
 \q2 and that is the reason that I am telling them to you, now. 
 \q
-\v 20 I have written \f + \fr rhetorical question \f* thirty ◄sayings/things that wise people have said►
+\v 20 I have written \f + \fk rhetorical question \f* thirty ◄sayings/things that wise people have said►
 \q2 from which you will receive good advice and you will be able you to know
 \add many good/useful things\add*. 
 \q
 \v 21 From them, you will learn what is right and what is true, 
 \q2 in order that you will be able to bring back a good report \add to those who sent you to
-school\add* \f + \fr (OR, give a good answer \add to those who ask you questions\add*) \f*.
+school\add* \f + \ft (OR, give a good answer \add to those who ask you questions\add*) \f*.
 \s -1- 
 \b
 \q
@@ -115,7 +115,7 @@ but\add* never do that;
 \q if he cannot pay it back, 
 \q
 \v 27 because if you cannot pay it back, 
-\q2 they will surely \f + \fr rhetorical question \f* \add come and\add* take away \add everything you
+\q2 they will surely \f + \fk rhetorical question \f* \add come and\add* take away \add everything you
 own\add*, even your bed. 
 \s -4- 
 \q
@@ -123,7 +123,7 @@ own\add*, even your bed.
 placed/set. 
 \s -5- 
 \q
-\v 29 Know/Learn \f + \fr rhetorical question \f* this about those who do their work very skillfully:
+\v 29 Know/Learn \f + \fk rhetorical question \f* this about those who do their work very skillfully:
 \q2 they will quit working for ordinary people 
 \q2 and will start working for kings 
 \q2 \add because the kings will want people like that to work for

@@ -11,7 +11,7 @@
 \add him\add*, ‘The Lord needs them.’ He will \add then allow you
 to\add* lead them away.” 
 \v 4-5 When all this happened, what was written by a prophet {what a prophet wrote about} was fulfilled {happened}. The prophet
-wrote, “Tell the people who live in Jerusalem \f + \fr synecdoche \f*, ‘Look! Your king is coming to you! He will come humbly. He
+wrote, “Tell the people who live in Jerusalem \f + \fk synecdoche \f*, ‘Look! Your king is coming to you! He will come humbly. He
 \add will show that he is humble, because he will be\add* riding on a colt, the offspring of a donkey.’”
 \p
 \v 6 So the \add two\add* disciples went and did what Jesus told them to do.
@@ -25,8 +25,8 @@ Jesus\add*.
 \v 9 The crowds that walked in front of him and those who walked behind him were shouting things like, “Praise the
 \add Messiah\add*, the descendant of \add King\add* David!” “May the Lord
 \add God\add* bless \add this one\add* who comes as \add God's\add* representative and with
-\add God's\add* authority \f + \fr metonymy \f*.” “Praise God, who is in the highest\add heaven\add*!”
-\v 10 As Jesus entered Jerusalem, a crowd of people \f + \fr metonymy \f* from all
+\add God's\add* authority \f + \fk metonymy \f*.” “Praise God, who is in the highest\add heaven\add*!”
+\v 10 As Jesus entered Jerusalem, a crowd of people \f + \fk metonymy \f* from all
 \add over the city\add* became excited and were saying, “Why \add are they
 honoring\add* this man \add like that\add*?” 
 \v 11 The crowd \add that was already following him\add* said, “This is Jesus, the prophet from Nazareth in Galilee!”
@@ -39,7 +39,7 @@ Roman\add* coins, and he overturned the seats of those who were selling pigeons
 \add for sacrifices\add*. 
 \v 13 Then he said to them, “It is {◄\add Jeremiah/A prophet\add*► has} written
 \add in the Scriptures that God said\add*, ‘\add I want\add* my house to be called a place
-where\add people\add* pray’, but you bandits have made it \f + \fr metaphor \f* your hideout!”
+where\add people\add* pray’, but you bandits have made it \f + \fk metaphor \f* your hideout!”
 \p
 \v 14 After that, \add many\add* blind \add people\add* and lame
 \add people\add* came to Jesus in the temple \add in order that he would heal
@@ -49,11 +49,11 @@ them\add*, and he healed them.
 \add Messiah\add*, the descendant of \add King\add* David!” They were indignant
 \add because they did not believe that Jesus was the Messiah\add*.
 \v 16  \add They thought that Jesus should not be allowing the children to say
-that\add*, so they asked him, “\add How can you tolerate\add* this \f + \fr rhetorical question \f*? Do you hear what these
+that\add*, so they asked him, “\add How can you tolerate\add* this \f + \fk rhetorical question \f*? Do you hear what these
 \add children\add* are shouting?” Then Jesus said to them, “Yes, I
 \add hear them, but\add* if you \add remembered what\add* you have read
 \add in the Scriptures about children praising me, you would know that God is
-pleased\add* \f + \fr rhetorical question \f* \add with them\add*. \add The psalmist\add* wrote,
+pleased\add* \f + \fk rhetorical question \f* \add with them\add*. \add The psalmist\add* wrote,
 \add saying to God\add*, ‘You have taught infants and other children to praise you perfectly.’”
 \p
 \v 17 Then Jesus left the city. We \add disciples\add* went \add with
@@ -70,7 +70,7 @@ tree\add*. There were only leaves on it. So \add to illustrate how God would pun
 Israel\add*, he said to the fig tree, “May you never again produce figs!” As a result, the fig tree withered that night.
 \v 20  \add The next day\add* when we disciples saw \add what had happened to the
 tree\add*, we marveled, and we said \add to Jesus\add*, “◄It is astonishing that the fig tree withered so quickly!/How is it
-that the fig tree dried up so quickly?►” \f + \fr rhetorical question \f* 
+that the fig tree dried up so quickly?►” \f + \fk rhetorical question \f* 
 \v 21 Jesus said to us, “Think about this: If you believe \add that God has power to do what you ask him
 to\add* and you do not doubt \add that\add*, you will be able to do
 \add things like what I have\add* done to this fig tree. You will even be able to do
@@ -85,7 +85,7 @@ authority came from.
 \v 23 After that, Jesus went into the Temple \add courtyard\add*. While he was teaching
 \add the people\add*, the chief priests and the elders of the Jewish Council approached him. They asked, “By what authority are
 you doing these things? Who authorized you to do what you did \add here
-yesterday\add* \f + \fr doublet \f*?” 
+yesterday\add* \f + \fk doublet \f*?” 
 \v 24 Jesus said to them, “I also will ask you a question, and if you answer me, I will tell you who authorized me to do these
 things. 
 \v 25 Where did John \add the Baptizer\add* get \add his authority
@@ -93,7 +93,7 @@ to\add* baptize \add those who came to him\add*? \add Did he get
 it\add* from God or from people? [MTY/EUP]” The chief priests and elders debated among themselves
 \add about what they should answer\add*. \add They said to each other\add*, “If we say,
 ‘\add It was\add* [MTY/EUP] from God’, he will say to us, ‘Then ◄you should have believed his
-\add message\add*!/why did you not believe \add John's message\add*?► \f + \fr rhetorical question \f*’
+\add message\add*!/why did you not believe \add John's message\add*?► \f + \fk rhetorical question \f*’
 \v 26 If we say, ‘It was from people’, we are afraid that the crowd
 \add will react violently\add*, because all \add the people\add* believe that John was a prophet
 \add sent by God\add*.” 
@@ -105,7 +105,7 @@ question\add*, I will not tell you who authorized me to do the things I did
 \s Jesus rebuked the religious leaders and said that it is more likely that God would accept notorious sinners than that he
 would accept them. 
 \p
-\v 28  \add Then Jesus said to the chief priests and elders\add*, “Tell me \f + \fr rhetorical question \f* what you think
+\v 28  \add Then Jesus said to the chief priests and elders\add*, “Tell me \f + \fk rhetorical question \f* what you think
 \add about what I am about to tell you\add*. There was a man who had two sons. He went to his older son and said, ‘My son, go
 and work in my vineyard today!’ 
 \v 29 But the son said \add to his father\add*, ‘I do not want to
@@ -154,14 +154,14 @@ grapes\add*.’
 \add renters\add*! Then he will rent the vineyard to others. They will give him
 \add his share of\add* the grapes when they are ripe.” 
 \v 42 Jesus said to them, “\add That is right, so you need to think carefully about these words
-which\add* you have read \f + \fr rhetorical question \f* in the Scriptures: 
+which\add* you have read \f + \fk rhetorical question \f* in the Scriptures: 
 \q The builders rejected a certain stone\add . But others put\add* that same stone
 \add in its proper place, and it\add* has become the most important
-stone\add of the\add* building \f + \fr metaphor \f*. The Lord has done this, and we marvel as we look at it.
+stone\add of the\add* building \f + \fk metaphor \f*. The Lord has done this, and we marvel as we look at it.
 \p
 \v 43 So, \add because you reject me\add*, I am going to tell you this: God will no longer let you
 \add Jews\add* be the people over whom he rules. Instead, he will
-let\add non-Jews\add* be the people over whom he rules, and they will do \f + \fr idiom \f* what he asks them to do.
+let\add non-Jews\add* be the people over whom he rules, and they will do \f + \fk idiom \f* what he asks them to do.
 \v 44  \add The important stone in the building represents me, the Messiah, and those who reject me are like people who fall on
 this stone\add*. Anyone who falls on this stone will be broken into pieces {This cornerstone will break into pieces anyone who
 falls on it}, and it will crush anyone on whom it falls.” 

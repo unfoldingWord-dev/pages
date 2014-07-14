@@ -6,7 +6,7 @@
 \add Jesus is\add* the Lord!” He went to the high priest \add in
 Jerusalem\add* 
 \v 2 and requested him \add to write\add* letters \add introducing
-him\add* to \add the leaders of\add* \f + \fr metonymy \f* the Jewish meeting places in Damascus
+him\add* to \add the leaders of\add* \f + \fk metonymy \f* the Jewish meeting places in Damascus
 \add city. The letters asked them to authorize Saul\add* to seize any men or women who followed the way
 \add that Jesus had taught\add*, and to take them as prisoners to Jerusalem
 \add so that the Jewish leaders could judge and punish them\add*.
@@ -17,7 +17,7 @@ him\add* to \add the leaders of\add* \f + \fr metonymy \f* the Jewish meeting pl
 him\add* were traveling, they were approaching Damascus. Suddenly a
 \add brilliant\add* light from heaven shone around Saul. 
 \v 4  \add Immediately\add* he fell down to the ground. Then he heard the voice
-\add of the Lord\add* say to him, “Saul, Saul, ◄stop causing me to suffer!/why are you causing me to suffer?► \f + \fr rhetorical question \f*”
+\add of the Lord\add* say to him, “Saul, Saul, ◄stop causing me to suffer!/why are you causing me to suffer?► \f + \fk rhetorical question \f*”
 \v 5 Saul asked him, “Lord, who are you?” He replied, “I am Jesus,
 \add and\add* you\add (sg)\add* are causing me to suffer \add by hurting my
 followers!\add* 
@@ -44,13 +44,13 @@ Tarsus\add city\add*, because, surprisingly, at this moment he is praying
 \v 13 But Ananias \add protested\add*, saying, “But Lord, many people have told me about this man! He has done many evil things
 to the people in Jerusalem who \add believe in\add* you! 
 \v 14 And the chief priests have authorized him to come here \add to
-Damascus\add* in order to seize all us who believe in you\add (sg)\add* \f + \fr metonymy \f*
+Damascus\add* in order to seize all us who believe in you\add (sg)\add* \f + \fk metonymy \f*
 \add and take us to Jerusalem\add*!” 
 \v 15 But the Lord \add Jesus\add* told Ananias, “Go to \add Saul! Do what I
-say\add*, because I have chosen him to serve me in order that he might speak about me \f + \fr metonymy \f* both to non-Jewish people and
+say\add*, because I have chosen him to serve me in order that he might speak about me \f + \fk metonymy \f* both to non-Jewish people and
 \add their\add* kings and to the Israelite people. 
 \v 16 I myself will tell him that he must often suffer greatly because of
-\add telling people about\add* me \f + \fr metonymy \f*.” 
+\add telling people about\add* me \f + \fk metonymy \f*.” 
 \v 17 So Ananias went, and \add after he found\add* the house \add where Saul
 was\add*, he entered it. Then, \add as soon as he met Saul\add*, he put his hands on him, and he said, “Brother Saul, the Lord
 Jesus \add himself\add* commanded me to come \add to you\add*. He is the
@@ -70,7 +70,7 @@ was baptized {\add Ananias\add* baptized him} \add immediately\add*.
 \add Various ones of\add* them were saying, “◄\add We(inc) can hardly believe
 that\add* this is the \add same man\add* who persecuted the believers in Jerusalem!/Is this really the
 \add same man\add* who persecuted the believers in Jerusalem?► [RHQ, MTY] And
-we\add (inc)\add* know that he has \f + \fr rhetorical question \f* come here to tie our hands and take us to the chief priests
+we\add (inc)\add* know that he has \f + \fk rhetorical question \f* come here to tie our hands and take us to the chief priests
 \add in Jerusalem\add*!” 
 \v 22 But \add God\add* enabled Saul \add to preach to many people
 even\add* more convincingly. He was proving \add from the Scriptures\add* that Jesus is the Messiah. So the Jewish leaders in
@@ -80,7 +80,7 @@ true\add*►.
 \s Saul escaped from those who plotted to kill him. 
 \p
 \v 23 Some time later, \add after Saul had left Damascus and then
-returned\add*, the Jewish \add leaders\add* \f + \fr synecdoche \f* \add there\add* plotted to kill him.
+returned\add*, the Jewish \add leaders\add* \f + \fk synecdoche \f* \add there\add* plotted to kill him.
 \v 24  \add During each\add* day and night those Jews were continually watching
 \add the people passing through\add* the city gates, in order that
 \add when they saw Saul\add* they might kill him. However, someone told Saul what they planned to do.
@@ -96,11 +96,11 @@ city\add*. They \add used ropes to\add* lower him in a \add large\add* basket th
 \v 27 But Barnabas took him and brought him to the apostles. He explained to the apostles how,
 \add while Saul was traveling\add* along the road \add to Damascus\add*, he had seen the Lord
 \add Jesus\add* and how the Lord had spoken to him \add there. He\add* also told them how Saul had preached boldly about Jesus
-\f + \fr metonymy \f* \add to people\add* in Damascus. \add The apostles believed Barnabas and told the other believers about
+\f + \fk metonymy \f* \add to people\add* in Damascus. \add The apostles believed Barnabas and told the other believers about
 that\add*. 
 \v 28 So Saul began to associate with the apostles \add and other
 believers\add* throughout Jerusalem, and he spoke boldly \add to
-people\add* about \f + \fr metonymy \f* the Lord \add Jesus\add*. 
+people\add* about \f + \fk metonymy \f* the Lord \add Jesus\add*. 
 \s Acts 9:29-30 
 \s The believers sent Saul to Tarsus because some Jews tried to kill him.
 \p

@@ -6,19 +6,19 @@
 you\add*: ‘Let my people go \add to the desert\add*, in order that they may have a feast to
 \add honor\add* me!’ ” 
 \v 2 But the king said, “Who is Yahweh? Why should I pay attention to what he says and let the Israeli
-\add people\add* \f + \fr metonymy \f* go? I do not know Yahweh! And furthermore, I will not let the Israeli
+\add people\add* \f + \fk metonymy \f* go? I do not know Yahweh! And furthermore, I will not let the Israeli
 \add people\add* go!” 
 \v 3 They/we replied, “Yahweh God, the one we Hebrews \add worship\add*, has ◄revealed himself/appeared► to us
 \add and told us what to tell you\add*. So we ask you to \add please\add* let us go on a three day journey into the desert. We
 must offer sacrifices to Yahweh God \add there\add*. \add If we do\add* not do that, he will cause us to die [IDI] from
-diseases or from attacks \add by our enemies\add* \f + \fr metonymy \f*.” 
+diseases or from attacks \add by our enemies\add* \f + \fk metonymy \f*.” 
 \v 4 But the king of Egypt said to them/us, “Moses and Aaron, ◄why are you preventing the Israeli people from working?/stop
-trying to keep the Israeli people from working!► \f + \fr rhetorical question \f* \add Tell those
+trying to keep the Israeli people from working!► \f + \fk rhetorical question \f* \add Tell those
 slaves\add* to return to work!” 
 \v 5 The king also said, “Listen \add to me\add*! \add You\add* people
 \add who now live\add* in this land are now \add more\add* numerous
-\add than we Egyptians\add* \f + \fr (OR, \add the ordinary people in this land are very
-numerous\add*) \f*. So now do you want them \add to stop working and\add* rest \f + \fr rhetorical question \f*?”
+\add than we Egyptians\add* \f + \ft (OR, \add the ordinary people in this land are very
+numerous\add*) \f*. So now do you want them \add to stop working and\add* rest \f + \fk rhetorical question \f*?”
 \s The king increased the amount of work the Israelis were forced to do
 \p
 \v 6 That same day the king commanded the Egyptian slave bosses and the
@@ -34,7 +34,7 @@ time\add* to listen to lies \add from their leaders\add*!”
 \v 10 So the slave bosses and supervisors of the slaves went to where the
 \add Israeli\add* people were and said to them, “The king has said that he will no longer give you any straw.
 \v 11  \add So\add* you yourselves must go and get straw wherever you can find it. But you must still keep working to make the
-same number of bricks as before.” \f + \fr litotes \f* 
+same number of bricks as before.” \f + \fk litotes \f* 
 \v 12 So the Israeli people went all over Egypt to find straw. 
 \v 13 The slave bosses kept telling them insistently, “Finish the work you are required to do each day,
 \add making the same amount of bricks\add* as you did \add before when we gave
@@ -42,7 +42,7 @@ you\add* straw!”
 \v 14  \add When they were not able to do that\add*, the slave bosses had the
 \add Israeli supervisors\add* beaten \add with sticks\add*, and they asked them, “Why have
 \add all the men you are supervising\add* not been able to make \add the same
-number\add* of bricks today/now as \add they did\add* before \f + \fr rhetorical question \f*?”
+number\add* of bricks today/now as \add they did\add* before \f + \fk rhetorical question \f*?”
 \s The king refused to pay attention to the complaints of the Israelis
 \p
 \v 15 Then the Israeli supervisors went to the king and complained, saying
@@ -60,10 +60,10 @@ to decrease the number of bricks \add you must make\add* each day.”
 \v 20 As they left the king's \add palace\add*, they met Aaron and Moses/me, who were waiting for them
 \add there\add*. 
 \v 21 They said to Aaron and Moses/me, “Yahweh has seen \add what\add* you two
-\add have done\add*! He will punish you \f + \fr metonymy \f*, because you have caused the king and his officials to despise us! You have given
-them an excuse \f + \fr metonymy \f* to kill us!” 
+\add have done\add*! He will punish you \f + \fk metonymy \f*, because you have caused the king and his officials to despise us! You have given
+them an excuse \f + \fk metonymy \f* to kill us!” 
 \p
 \v 22 Moses/I left them and prayed to Yahweh again, saying, “O Yahweh, why have you caused all these evil things to happen to
-your people \f + \fr rhetorical question \f*? And why did you send me \add here\add* \f + \fr rhetorical question \f*?
-\v 23 Ever since I went to the king and told him what you told me to say \f + \fr metonymy \f*, he has treated your people very cruelly, and
+your people \f + \fk rhetorical question \f*? And why did you send me \add here\add* \f + \fk rhetorical question \f*?
+\v 23 Ever since I went to the king and told him what you told me to say \f + \fk metonymy \f*, he has treated your people very cruelly, and
 you have not done anything to help/rescue them!” 

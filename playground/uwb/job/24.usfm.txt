@@ -3,8 +3,8 @@
 \q
 \v 1 “◄Why does Almighty \add God\add* not set a time when he will judge
 \add evil people\add*?/I do not understand why Almighty \add God
-does\add* not set a time when he will judge \add evil people\add*.► \f + \fr rhetorical question \f*
-\q2 Those who know him never \f + \fr rhetorical question \f* see him do that! 
+does\add* not set a time when he will judge \add evil people\add*.► \f + \fk rhetorical question \f*
+\q2 Those who know him never \f + \fk rhetorical question \f* see him do that! 
 \q
 \v 2  \add Some evil people\add* remove the markers of \add boundaries of other people's land, in order to steal their
 land\add*; 
@@ -13,7 +13,7 @@ land\add*;
 \v 3  \add Some\add* ◄take away/steal► the donkeys that belong to orphans,
 \q2 and they take widow's oxen to guarantee that the widows will pay back the money that they loaned to those widows.
 \q
-\v 4  \add Some\add* shove poor people off the road \f + \fr (OR, prevent poor people from ◄obtaining their rights/being treated
+\v 4  \add Some\add* shove poor people off the road \f + \ft (OR, prevent poor people from ◄obtaining their rights/being treated
 justly►), 
 \q2 and they force poor people to find places to hide from them.
 \q
@@ -30,7 +30,7 @@ justly►),
 \q2 so they huddle under the rock ledges to be protected \add from the
 rain\add*. 
 \q
-\v 9  \add Some evil men\add* snatch infants away from their mothers \f + \fr synecdoche \f*,
+\v 9  \add Some evil men\add* snatch infants away from their mothers \f + \fk synecdoche \f*,
 \q2 and they say ‘I will return your babies to you when you repay the money that I lent to you.’
 \q
 \v 10 But the poor people walk around with no clothes on; 
@@ -51,7 +51,7 @@ dark\add*;
 \q2 they do not walk on roads that are lighted. 
 \q
 \v 14 Murderers steal things during the night, 
-\q2 and then they arise before dawn in order that they may go out again and kill poor and needy \f + \fr doublet \f* people.
+\q2 and then they arise before dawn in order that they may go out again and kill poor and needy \f + \fk doublet \f* people.
 \q
 \v 15 Those who want to commit adultery wait for twilight/evening;
 \q2 they say ‘I do not want anyone to see me,’ so they keep their faces covered.
@@ -86,12 +86,12 @@ the\add* night that terrify others.”
 \q2 God acts and causes the wicked people to die. 
 \q
 \v 23 God allows them to think that they are secure and safe, 
-\q2 but he is watching \f + \fr metonymy \f* them all the time. 
+\q2 but he is watching \f + \fk metonymy \f* them all the time. 
 \q
 \v 24 They prosper for a little while, 
 \q2 and then \add suddenly\add* they are gone; 
 \q2 they disappear like weeds wither and die; 
-\q2 they are like \f + \fr simile \f* stalks of grain that have been cut off. 
+\q2 they are like \f + \fk simile \f* stalks of grain that have been cut off. 
 \q
-\v 25 If this is not true, is there \f + \fr rhetorical question \f* anyone who will show that I am a liar
+\v 25 If this is not true, is there \f + \fk rhetorical question \f* anyone who will show that I am a liar
 \q2 and prove that what I have said is not true?” 

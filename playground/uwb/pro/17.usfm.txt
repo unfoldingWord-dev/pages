@@ -14,16 +14,16 @@
 \add to see if they are pure\add*. 
 \b
 \q
-\v 4 Those who do what is evil pay attention to people who say \f + \fr metonymy \f* what is evil,
+\v 4 Those who do what is evil pay attention to people who say \f + \fk metonymy \f* what is evil,
 \q2 and liars pay attention to \add other people's\add* lies. 
 \b
 \q
 \v 5 Those who make fun of poor people insult God, the one who made the poor people,
-\q2 and those who are happy when \add someone else has\add* troubles will certainly be punished \f + \fr litotes \f*
+\q2 and those who are happy when \add someone else has\add* troubles will certainly be punished \f + \fk litotes \f*
 \add by God\add*. 
 \b
 \q
-\v 6 Old people are \add usually\add* proud of \f + \fr metaphor \f* their grandchildren,
+\v 6 Old people are \add usually\add* proud of \f + \fk metaphor \f* their grandchildren,
 \q2 just like children are \add usually\add* proud of their parents.
 \b
 \q
@@ -65,7 +65,7 @@ do\add*;
 \q2 and declaring that people who have done wicked things should not be punished.
 \b
 \q
-\v 16 It is useless to allow foolish people \f + \fr rhetorical question \f* to try to become wise by paying for it,
+\v 16 It is useless to allow foolish people \f + \fk rhetorical question \f* to try to become wise by paying for it,
 \q2 because they do not have enough good sense to become wise. 
 \b
 \q
@@ -80,7 +80,7 @@ money back
 \q
 \v 19 Those who like to sin \add also\add* like to cause strife/trouble;
 \q2 and those who build fancy doors into their houses \add to show that they are very
-wealthy\add* \f + \fr (OR, speak proudly) \f* are inviting disaster. 
+wealthy\add* \f + \ft (OR, speak proudly) \f* are inviting disaster. 
 \b
 \q
 \v 20 Those who ◄have perverse minds/are always thinking about doing evil things► will not prosper,
@@ -92,7 +92,7 @@ wealthy\add* \f + \fr (OR, speak proudly) \f* are inviting disaster.
 \b
 \q
 \v 22 Being cheerful is like swallowing good medicine; 
-\q2 being discouraged/gloomy all the time will ◄drain away your energy/cause you to become weak► \f + \fr metonymy \f*.
+\q2 being discouraged/gloomy all the time will ◄drain away your energy/cause you to become weak► \f + \fk metonymy \f*.
 \b
 \q
 \v 23 Wicked people/judges accept bribes that are given to them secretly,

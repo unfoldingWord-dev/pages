@@ -7,11 +7,11 @@
 \q2 rescue me! 
 \q
 \v 2 Listen to me, and save me right now! 
-\q Be like a huge rock \add under which I can hide\add* \f + \fr metaphor \f* 
+\q Be like a huge rock \add under which I can hide\add* \f + \fk metaphor \f* 
 \q2 and like a strong fort in which I will be safe. 
 \q
 \v 3 Yes, you are like my huge rock and my fort; 
-\q2 guide me and lead me \f + \fr doublet \f* in order that I can honor you \f + \fr metonymy \f*.
+\q2 guide me and lead me \f + \fk doublet \f* in order that I can honor you \f + \fk metonymy \f*.
 \q
 \v 4 You are the one who protects me, 
 \q2 so keep me from falling into the hidden traps \add that my enemies have set for
@@ -25,7 +25,7 @@ me\add*.
 \v 6 Yahweh, I hate those who worship useless idols, 
 \q2 but I trust in you. 
 \q
-\v 7 I will be very glad \f + \fr doublet \f* because you faithfully love me. 
+\v 7 I will be very glad \f + \fk doublet \f* because you faithfully love me. 
 \q You see me when I have been afflicted, 
 \q2 and you have known when I have had troubles. 
 \q
@@ -61,7 +61,7 @@ God\add*,
 \v 14 But Yahweh, I trust in you. 
 \q2 You are my God. 
 \q
-\v 15 My whole life \f + \fr metonymy \f* is in your hands; 
+\v 15 My whole life \f + \fk metonymy \f* is in your hands; 
 \q2 save me from my enemies, 
 \q2 from those who pursue me. 
 \q
@@ -73,7 +73,7 @@ God\add*,
 \q I desire that wicked people will be disgraced; 
 \q2 I desire/hope that they will \add soon die and\add* go down to the place where the dead people are.
 \q
-\v 18 I desire that you will cause people \f + \fr metonymy \f* who tell lies to be unable to speak.
+\v 18 I desire that you will cause people \f + \fk metonymy \f* who tell lies to be unable to speak.
 \q2 Do that for people who are proud and those who arrogantly accuse righteous people.
 \b
 \q
@@ -83,7 +83,7 @@ God\add*,
 \q
 \v 20 You hide people in your presence where it is safe, 
 \q2 and protect them from people who plot \add to kill them\add*.
-\q You hide them in safe places from their enemies \f + \fr metonymy \f* who accuse/insult them.
+\q You hide them in safe places from their enemies \f + \fk metonymy \f* who accuse/insult them.
 \b
 \q
 \v 21 Praise Yahweh! 

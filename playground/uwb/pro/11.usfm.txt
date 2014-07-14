@@ -34,16 +34,16 @@
 \q2 instead, it is the wicked who will have troubles. 
 \b
 \q
-\v 9 Godless people can ruin others by what they say \f + \fr metonymy \f*, 
+\v 9 Godless people can ruin others by what they say \f + \fk metonymy \f*, 
 \q2 but righteous people will be saved by their ◄own good sense/being wise►.
 \b
 \q
-\v 10 When things go well for righteous people, \add the people in\add* \f + \fr metonymy \f* their city are happy,
+\v 10 When things go well for righteous people, \add the people in\add* \f + \fk metonymy \f* their city are happy,
 \q2 and they shout joyfully when wicked people die. 
 \b
 \q
 \v 11 When righteous people \add request God to\add* bless a city, that city will become great,
-\q2 but cities are ruined by what wicked people say \f + \fr metonymy \f*. 
+\q2 but cities are ruined by what wicked people say \f + \fk metonymy \f*. 
 \b
 \q
 \v 12 It is foolish to despise others; 
@@ -95,7 +95,7 @@ long\add*.
 \b
 \q
 \v 22  \add It is\add* ◄\add unsuitable/not proper/disgusting\add*► for a beautiful woman not to know what is right to do,
-\q2 like \f + \fr simile \f* \add it is unsuitable/disgusting\add* for a pig to have a gold ring in its snout/nose.
+\q2 like \f + \fk simile \f* \add it is unsuitable/disgusting\add* for a pig to have a gold ring in its snout/nose.
 \b
 \q
 \v 23 When the things that righteous people want happen, it brings good
@@ -129,15 +129,15 @@ high\add*.
 \add in the summer\add*. 
 \b
 \q
-\v 29 Those who bring troubles to their families will inherit nothing \f + \fr metaphor \f*
+\v 29 Those who bring troubles to their families will inherit nothing \f + \fk metaphor \f*
 \add from them\add*, 
 \q2 and those who do foolish things \add like that\add* will some day become the servants of wise people.
 \b
 \q
 \v 30 Those who live righteously will live \add for a long time\add*,
-\q2 but those who act violently will destroy \add their own\add* lives \f + \fr (OR, those who are wise will have many people come and
+\q2 but those who act violently will destroy \add their own\add* lives \f + \ft (OR, those who are wise will have many people come and
 live with them) \f*. 
 \b
 \q
 \v 31  \add Sometimes\add* righteous people are rewarded here on the earth,
-\q2 but it is much more certain that very wicked people \f + \fr doublet \f* will be rewarded by being punished.
+\q2 but it is much more certain that very wicked people \f + \fk doublet \f* will be rewarded by being punished.

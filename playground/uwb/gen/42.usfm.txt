@@ -2,7 +2,7 @@
 \s Joseph's brothers went to Egypt to buy grain, but didn't realize they were buying it from their brother
 \p
 \v 1 When someone told Jacob that there was grain in Egypt that people could buy, he said to his sons, “◄Why do you just sit
-there looking at each other?/Do not just sit there looking at each other!► \f + \fr rhetorical question \f* We need some grain!”
+there looking at each other?/Do not just sit there looking at each other!► \f + \fk rhetorical question \f* We need some grain!”
 \v 2 He said to them, “Someone told me that there is grain for sale in Egypt. Go down there and buy some for us, in order that
 we can stay alive and not die!” 
 \p
@@ -13,7 +13,7 @@ that something terrible might happen to him like what happened to Joseph.
 also. 
 \p
 \v 6 At that time Joseph was the governor of Egypt. He was the one who sold grain to people who came from all over Egypt and
-from many other countries \f + \fr hyperbole \f* to buy grain. So when Joseph's brothers arrived, they prostrated themselves before him with
+from many other countries \f + \fk hyperbole \f* to buy grain. So when Joseph's brothers arrived, they prostrated themselves before him with
 their faces to the ground. 
 \v 7 As soon as Joseph saw his brothers, he recognized them. But he pretended that he did not know them. He spoke harshly to
 them, saying, “Where do you come from?” One of them replied, “We have come from Canaan land, to buy some grain.”
@@ -27,7 +27,7 @@ ourselves if you attack us!”
 \v 12 He said to them, “I do not believe you! You have come just to see whether we would be able to defend ourselves if we were
 attacked!” 
 \v 13 But one of them replied, “No, that is not true! Originally there were twelve of us who were brothers, the sons of one
-man. Our younger brother is with our father. One \add younger\add* brother has died. \f + \fr euphemism \f*”
+man. Our younger brother is with our father. One \add younger\add* brother has died. \f + \fk euphemism \f*”
 \p
 \v 14 Joseph replied, “You are lying! I think it is just as I told you. You are spies!
 \v 15 But this is how I will determine whether what you are saying is true. I think that as surely as the king lives, you are
@@ -46,11 +46,11 @@ families who are very hungry because of the famine.
 is true, and as a result I will not have you executed.” So they agreed to do that.
 \p
 \v 21 They said to each other, “It is surely because of what we did to our
-\add younger\add* brother that ◄we are being punished/God is punishing us►! We saw that he \f + \fr synecdoche \f* was very distressed when he
+\add younger\add* brother that ◄we are being punished/God is punishing us►! We saw that he \f + \fk synecdoche \f* was very distressed when he
 pleaded with us not to harm him. But we did not pay any attention to him, and that is why we are having this trouble!”
 \p
-\v 22 Reuben said to them, “I told you not to harm the boy \f + \fr rhetorical question \f*, but you did not pay attention to what I said! Now we are
-being ◄paid back/punished► for killing him \f + \fr metonymy \f*!” 
+\v 22 Reuben said to them, “I told you not to harm the boy \f + \fk rhetorical question \f*, but you did not pay attention to what I said! Now we are
+being ◄paid back/punished► for killing him \f + \fk metonymy \f*!” 
 \p
 \v 23 While they were talking with Joseph, they were speaking to ◄an interpreter/someone who knew their language and the
 Egyptian language►, but when they said these things among themselves, they were speaking in their own language, and they did
@@ -75,7 +75,7 @@ said to each other, “What is this that God has done to us?”
 \v 30 “The man who governs the whole land of Egypt talked very harshly to us. He acted toward us as though we were spying on
 his country. 
 \v 31 But we told him, ‘We are honest men! We are not spies. 
-\v 32 Originally there were twelve of us who were brothers, the sons of one father. One has died \f + \fr euphemism \f*, and our youngest
+\v 32 Originally there were twelve of us who were brothers, the sons of one father. One has died \f + \fk euphemism \f*, and our youngest
 brother is with our father in Canaan.’ 
 \v 33 The man who is the governor of the land did not believe us, so he said to us, ‘This is how I will know if you are truly
 honest men: leave one of your brothers here with me. Then the rest of you can take some grain for your families that are

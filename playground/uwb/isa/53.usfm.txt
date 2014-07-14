@@ -1,7 +1,7 @@
 \c 53  
 \q
 \v 1 ◄Who will believe what we will tell them \add about God's servant\add*?/Hardly anyone will believe what we will tell them
-\add about God's servant\add*.► \f + \fr rhetorical question \f* 
+\add about God's servant\add*.► \f + \fk rhetorical question \f* 
 \q2 ◄Who will see what Yahweh does by his great power?/Very few people will see what Yahweh does by his great power.► [MTY,
 RHQ] 
 \q
@@ -30,10 +30,10 @@ souls\add*;
 \q2 He will be beaten in order that things will go well for our \add souls\add*;
 \q and because he will be whipped, \add our souls\add* can be healed.
 \q
-\v 6 All of us have gone away \add from God\add* like \f + \fr simile \f* sheep who have strayed away
+\v 6 All of us have gone away \add from God\add* like \f + \fk simile \f* sheep who have strayed away
 \add from their shepherd\add*. 
 \q2 We have turned away \add from doing the things that God wants in
-order\add* to do the things that we want \f + \fr metaphor \f*. 
+order\add* to do the things that we want \f + \fk metaphor \f*. 
 \q We \add deserve to be punished\add*, but Yahweh will punish him instead of punishing us for all of our sins.
 \q
 \v 7 He will be abused and caused to suffer, 
@@ -42,17 +42,17 @@ order\add* to do the things that we want \f + \fr metaphor \f*.
 \q2 \add like they lead\add* a lamb to where it will be slaughtered.
 \q And like a sheep does not ◄bleat/make any noise► when the shearer
 \add cuts off its wool\add*, 
-\q2 he will not say anything \f + \fr metonymy \f* \add to defend himself when he is
+\q2 he will not say anything \f + \fk metonymy \f* \add to defend himself when he is
 killed\add*. 
 \q
 \v 8 After he is arrested and put on trial, 
 \q2 he will be taken away \add and executed\add*. 
-\q And no one \f + \fr rhetorical question \f* will be able to talk about his descendants, 
-\q2 because he will die \f + \fr euphemism \f* \add without being married and having
+\q And no one \f + \fk rhetorical question \f* will be able to talk about his descendants, 
+\q2 because he will die \f + \fk euphemism \f* \add without being married and having
 children\add*; 
 \q2 he will be ◄afflicted/caused to suffer► for the wrong things that we have done.
 \q
-\v 9 Although he will never have done any wrong or deceived \f + \fr metonymy \f* anyone,
+\v 9 Although he will never have done any wrong or deceived \f + \fk metonymy \f* anyone,
 \q2 people will plan to bury his corpse where wicked people are buried,
 \q but instead, a rich man will \add bury him\add* after he dies.
 \b
@@ -62,7 +62,7 @@ children\add*;
 \q But later he will have many \add spiritual\add* children, 
 \q2 and he will live ◄a long time/forever► after he \add dies and\add* becomes alive
 \add again\add*, 
-\q2 and he \f + \fr metonymy \f* will accomplish everything that Yahweh has planned.
+\q2 and he \f + \fk metonymy \f* will accomplish everything that Yahweh has planned.
 \q2
 \v 11 When he sees all that he will accomplish because of his suffering,
 \q he will be satisfied. 
@@ -72,7 +72,7 @@ children\add*;
 \q
 \v 12 So Yahweh will consider him to be one of the truly great people;
 \q2 he will \add be like a king who\add* divides up \add among his
-soldiers\add* the ◄spoils/things they took from their enemies after defeating them► \f + \fr metaphor \f*,
+soldiers\add* the ◄spoils/things they took from their enemies after defeating them► \f + \fk metaphor \f*,
 \q because he will sacrifice himself and die. 
 \q2 \add Even though people\add* will consider him to be a sinner,
 \q he will remove the guilt of many people, 

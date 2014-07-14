@@ -1,29 +1,29 @@
 \c 1  
 \p
-\v 1 The one who expresses \f + \fr metaphor \f* ◄\add God's character/what God is
-like\add*► has always existed ◄from the beginning \f + \fr metonymy \f* \add of everything/before everything
+\v 1 The one who expresses \f + \fk metaphor \f* ◄\add God's character/what God is
+like\add*► has always existed ◄from the beginning \f + \fk metonymy \f* \add of everything/before everything
 began\add*►. He has always existed with God, and he has God's nature.
-\v 2 He always existed with God \add before\add* he began \f + \fr metonymy \f* \add to create
+\v 2 He always existed with God \add before\add* he began \f + \fk metonymy \f* \add to create
 anything\add*. 
-\v 3 He is the one by whom \add God\add* caused everything to exist. He is the one who created absolutely everything \f + \fr litotes \f*.
+\v 3 He is the one by whom \add God\add* caused everything to exist. He is the one who created absolutely everything \f + \fk litotes \f*.
 \v 4 He is the one who \add caused everything to\add* live. He, who caused us people to live,
-\add revealed to us the truth about God as\add* a light \f + \fr metaphor \f* \add reveals what is in the
+\add revealed to us the truth about God as\add* a light \f + \fk metaphor \f* \add reveals what is in the
 darkness\add*. 
-\v 5 People do not want him to reveal \add that what they do is evil\add* \f + \fr metaphor \f*, just
-\add like\add* darkness \add is evil\add*. But \add just like\add* darkness cannot put out light \f + \fr metaphor \f*,
+\v 5 People do not want him to reveal \add that what they do is evil\add* \f + \fk metaphor \f*, just
+\add like\add* darkness \add is evil\add*. But \add just like\add* darkness cannot put out light \f + \fk metaphor \f*,
 \add evil people have never prevented the one who was like a light from revealing God's
-truth\add* \f + \fr (OR, \add evil people have never\add* understood the \add one who was
+truth\add* \f + \ft (OR, \add evil people have never\add* understood the \add one who was
 like\add* a light.) 
 \p
 \v 6 A man whose name was John was sent by God {God sent a man whose name was John}.
-\v 7 He came to tell people \add about the one who was like\add* \f + \fr metaphor \f* a light. He came to show that everything that the
-\add one who was like a light\add* \f + \fr metaphor \f* said was true, in order that he could enable all people to believe
+\v 7 He came to tell people \add about the one who was like\add* \f + \fk metaphor \f* a light. He came to show that everything that the
+\add one who was like a light\add* \f + \fk metaphor \f* said was true, in order that he could enable all people to believe
 \add in the one who was like a light\add*. 
-\v 8 John himself was not the \add one who was like a\add* light \f + \fr metaphor \f*. Instead, he came to tell others about that
+\v 8 John himself was not the \add one who was like a\add* light \f + \fk metaphor \f*. Instead, he came to tell others about that
 \add one who was like a\add* light. 
 \v 9  \add While John was doing that\add*, the one who was truly
 \add like\add* a light was about to show himself to the world. He was the one who enables all people
-\add to know about God, as\add* a light \f + \fr metaphor \f* enables\add people to know what is in the
+\add to know about God, as\add* a light \f + \fk metaphor \f* enables\add people to know what is in the
 darkness\add*. 
 \p
 \v 10 Although the one \add who was like a light\add* was\add here\add* on the earth, and although he was the one whom
@@ -33,14 +33,14 @@ darkness\add*.
 \v 11 Although he came to the land that belonged to him \add because he created it, most
 of\add* his own people, \add the Jews\add*, rejected him (OR, did not accept him).
 \v 12 But those \add of us who welcomed him, God\add* authorized
-\add that we would have a relationship with\add* him \f + \fr metaphor \f* \add like\add* children
+\add that we would have a relationship with\add* him \f + \fk metaphor \f* \add like\add* children
 \add have a relationship with their father\add*. We were people who believed
-\add that what he said\add* about himself \f + \fr metonymy \f* \add was true\add*.
+\add that what he said\add* about himself \f + \fk metonymy \f* \add was true\add*.
 \v 13 We became \add like God's children\add*, not because our ancestors
 \add belonged to God\add*, or because of someone's sexual desires, nor because some man desired to have children like himself.
 Instead, we were caused by God {God caused us} to become \add like\add* his children.
 \p
-\v 14 The one who expresses \f + \fr metaphor \f* ◄\add God's character/what God is
+\v 14 The one who expresses \f + \fk metaphor \f* ◄\add God's character/what God is
 like\add*► became a human being, and he lived among us \add for a
 while\add*. As a result, we saw how wonderful he is. He came from
 \add God\add* his father, and there was no other person as wonderful as he. He was wonderful because he always acted ◄kindly
@@ -62,10 +62,10 @@ told us about God.
 \s When religious authorities asked John about his identity, he said he was preparing people for the coming of the Messiah, who
 was much more important than himself. 
 \p
-\v 19 The Jewish \add leaders\add* \f + \fr synecdoche \f* in Jerusalem \add city\add* sent some
+\v 19 The Jewish \add leaders\add* \f + \fk synecdoche \f* in Jerusalem \add city\add* sent some
 \add Jewish\add* priests and ◄Levites/men who worked in the temple► to where John was to ask him some questions. They said to
 him, “What do you \add claim about\add* yourself?” 
-\v 20 So John told them the truth, and he told them clearly \f + \fr doublet \f*. He said,
+\v 20 So John told them the truth, and he told them clearly \f + \fk doublet \f*. He said,
 “\add I\add* am not ◄the Messiah/God's chosen king►!” 
 \v 21 Then they asked him, “Then what \add do you say about yourself\add*? Are you
 \add the prophet\add* Elijah \add that was prophesied to return\add*
@@ -77,7 +77,7 @@ send\add*►?” He replied, “No.”
 \add Tell us\add* so that we can \add go back and\add* report to those who sent us. What do you say about yourself?”
 \v 23 John replied, “\add I\add* am the one \add the prophet Isaiah
 said\add* would proclaim \add this new message\add* loudly \add to the people who would pass
-by\add* in this desolate area: ‘Prepare \add yourselves to receive\add* the Lord when he comes \f + \fr metaphor \f*,
+by\add* in this desolate area: ‘Prepare \add yourselves to receive\add* the Lord when he comes \f + \fk metaphor \f*,
 \add just like people prepare\add* a road \add for an important official.’\add*”
 \p
 \v 24 Some of those people \add who were questioning\add* John were ones who had been sent by the Pharisee
@@ -92,7 +92,7 @@ Jews\add*?”
 know. 
 \v 27 He \add will preach to you\add* after I \add am gone\add*.
 \add He is so important that\add* I am not worthy to \add serve him as a
-slave\add* \f + \fr metaphor \f* \add by\add* untying his sandals.” 
+slave\add* \f + \fk metaphor \f* \add by\add* untying his sandals.” 
 \p
 \v 28 Those things happened at \add a place called\add* Bethany, on the
 \add east\add* side of the Jordan \add River\add*, where John was baptizing people.
@@ -101,7 +101,7 @@ slave\add* \f + \fr metaphor \f* \add by\add* untying his sandals.”
 confirmed that Jesus was the Son of God. 
 \p
 \v 29 The next day John saw Jesus coming toward him. He said to the people, “Look! Here is the
-\add man whom\add* God \add has appointed to be a sacrifice\add* \f + \fr metaphor \f*,
+\add man whom\add* God \add has appointed to be a sacrifice\add* \f + \fk metaphor \f*,
 \add like\add* the lambs \add that the people of Israel sacrificed! By sacrificing
 himself\add* he will \add make it possible for everyone in\add* the world to be no longer
 \add guilty for having\add* sinned. 
@@ -126,7 +126,7 @@ disciples.
 \p
 \v 35 The next day John was at the same place again ◄with two of us/with two of his disciples►.
 \v 36 When he saw Jesus passing by, he said, “Look! There is the man God
-\add has appointed to be a sacrifice, like\add* the lambs \f + \fr metaphor \f* \add the people of Israel have
+\add has appointed to be a sacrifice, like\add* the lambs \f + \fk metaphor \f* \add the people of Israel have
 sacrificed!\add*” 
 \v 37 ◄When we/those two disciples► heard John say this, we/they went with Jesus.
 \v 38 Jesus turned around and saw us/them coming behind him. So he asked us/them, “What do you want?” We/They replied,
@@ -156,14 +156,14 @@ valley\add*. He went to Galilee \add district\add* and (OR, on the way there he)
 \add town\add*. His father's name is Joseph.” 
 \v 46 Nathaniel replied, “Nazareth? ◄Nothing good can come from \add such an unimportant
 place\add*!/Can anything good come from \add such an unimportant
-place\add*?► \f + \fr rhetorical question \f*” Philip replied, “Come and see!” 
+place\add*?► \f + \fk rhetorical question \f*” Philip replied, “Come and see!” 
 \v 47 When Jesus saw Nathaniel approaching, he said about Nathaniel, “Here is an example of a good Israelite! He never deceives
 anyone!” 
 \v 48 Nathaniel asked him, “How do you know what I \add am like\add*?” Jesus replied, “I saw you before Philip called you, when
 you were \add by yourself\add* under the fig tree.” 
 \v 49 Then Nathaniel declared, “Teacher, you \add must be\add* ◄the Son of God/the person who is both God and man►! You are the
 King of Israel \add we have been waiting for\add*!” 
-\v 50 Jesus replied to him, “You \f + \fr rhetorical question \f* believe \add those things about
+\v 50 Jesus replied to him, “You \f + \fk rhetorical question \f* believe \add those things about
 me\add* because I told you I saw you when you were under the fig tree.
 \add I was able to see you supernaturally even though I was far away from
 you\add*. But you will see \add me do\add* things that are more surprising than that!”

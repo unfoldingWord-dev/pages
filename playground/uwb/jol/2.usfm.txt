@@ -9,23 +9,23 @@ further\add*.
 \q
 \v 2 That will be a very dark and gloomy day; 
 \q2 there will be black clouds and it will be very dark. 
-\q A huge \add swarm of locusts\add* has covered the mountains like \f + \fr simile \f* a black cloud.
+\q A huge \add swarm of locusts\add* has covered the mountains like \f + \fk simile \f* a black cloud.
 \q Nothing like this has ever happened before, 
 \q2 and nothing like this will ever happen again. 
 \q
 \v 3  \add It is as though they bring\add* flames of fire 
 \q2 from which no one can escape. 
-\q In front of them, the land \add was beautiful\add* like \f + \fr simile \f* the garden of Eden,
+\q In front of them, the land \add was beautiful\add* like \f + \fk simile \f* the garden of Eden,
 \q2 but behind them the land is like a desert 
 \q2 and nothing survives. 
 \q
 \v 4  \add The locusts\add* resemble horses, 
-\q2 and they run like \f + \fr simile \f* war horses. 
+\q2 and they run like \f + \fk simile \f* war horses. 
 \q
 \v 5 Leaping over the mountaintops, 
 \q2 they make a noise like rumbling chariots, 
-\q like \f + \fr simile \f* a mighty army that is preparing for a battle, 
-\q2 or like \f + \fr simile \f* the roar of a fire that burns up stubble in a field.
+\q like \f + \fk simile \f* a mighty army that is preparing for a battle, 
+\q2 or like \f + \fk simile \f* the roar of a fire that burns up stubble in a field.
 \b
 \q
 \v 6 When people see them coming, 
@@ -41,7 +41,7 @@ further\add*.
 \q2 that will not cause them to stop. 
 \q
 \v 9 They swarm over the city walls and enter our houses; 
-\q2 they enter through our windows like \f + \fr simile \f* thieves do. 
+\q2 they enter through our windows like \f + \fk simile \f* thieves do. 
 \b
 \q
 \v 10  \add It is as though\add* they cause the earth to shake and the sky to tremble.
@@ -52,7 +52,7 @@ further\add*.
 \v 11 Yahweh leads this army \add of countless locusts\add*, 
 \q2 and they obey his commands. 
 \q This time when he is judging and punishing us is very terrible,
-\q2 with the result that \add it seems that\add* no one \f + \fr rhetorical question \f* can survive it.
+\q2 with the result that \add it seems that\add* no one \f + \fk rhetorical question \f* can survive it.
 \s Yahweh calls them to repent 
 \p
 \v 12 But Yahweh says, 
@@ -63,7 +63,7 @@ me\add*.
 \q
 \v 13 Do not tear your clothes 
 \q2 \add to show that you are sorry\add*; 
-\q2 instead, show \f + \fr metaphor \f* in your inner beings that you are sorry.”
+\q2 instead, show \f + \fk metaphor \f* in your inner beings that you are sorry.”
 \b
 \q Yahweh is merciful and kind; 
 \q2 he does not quickly become angry; 
@@ -72,7 +72,7 @@ me\add*.
 \q2 instead, he greatly and faithfully loves you, 
 \q2 and he does not like to punish us/people. 
 \q
-\v 14 No one knows \f + \fr rhetorical question \f* if he will change his mind \add about punishing
+\v 14 No one knows \f + \fk rhetorical question \f* if he will change his mind \add about punishing
 you\add* 
 \q2 and instead he will act mercifully \add toward you\add*. 
 \q If he does that, he will bless you 
@@ -95,7 +95,7 @@ committed\add*.
 \q “Yahweh, rescue/save us your people; 
 \q2 do not allow people from other nations to despise us; 
 \q do not allow them to ridicule us and say, 
-\q2 ‘Why has \f + \fr rhetorical question \f* their God \add abandoned them\add*?’ ” 
+\q2 ‘Why has \f + \fk rhetorical question \f* their God \add abandoned them\add*?’ ” 
 \s Yahweh promised to prosper them again 
 \q
 \v 18 But Yahweh showed that he was concerned about his people 
@@ -140,7 +140,7 @@ committed\add*.
 \q2 that I sent to attack you. 
 \q
 \v 26 You, my people, will eat until your stomachs are full. 
-\q2 Then you will praise me \f + \fr metonymy \f*, Yahweh, your God, 
+\q2 Then you will praise me \f + \fk metonymy \f*, Yahweh, your God, 
 \q2 for the wonderful things that I have done for you. 
 \q And never again will you be disgraced. 
 \q
@@ -150,7 +150,7 @@ committed\add*.
 \q Never again will you be disgraced.” 
 \s Yahweh promised to send his Spirit 
 \q
-\v 28 “Some time later, I will give my Spirit to many \f + \fr hyperbole \f* people.
+\v 28 “Some time later, I will give my Spirit to many \f + \fk hyperbole \f* people.
 \q2 You sons and daughters will proclaim messages that come directly from me.
 \q Your old men will have dreams \add that come from me\add*, 
 \q2 and your young men will have visions \add that come from me\add*.
@@ -158,13 +158,13 @@ committed\add*.
 \v 29 At that time, I will give my Spirit even to servants, both men and women.
 \q
 \v 30 I will do unusual/amazing things on the earth and in the sky.
-\q2 \add On the earth\add* \f + \fr chiasmus \f*, there will be much blood shed 
+\q2 \add On the earth\add* \f + \fk chiasmus \f*, there will be much blood shed 
 \q2 and there will be very large fires and smoke that resembles huge clouds.
 \q
 \v 31  \add In the sky\add*, the sun will become dark and the moon will become
-\add as red as\add* \f + \fr metaphor \f* blood. 
+\add as red as\add* \f + \fk metaphor \f* blood. 
 \q2 \add Those things will happen\add* before that great and terrible day when I, Yahweh, appear.
 \q
 \v 32 But at that time I will save everyone who worships me. 
-\q2 I promise that some people in Jerusalem \f + \fr doublet \f* will escape those disasters;
+\q2 I promise that some people in Jerusalem \f + \fk doublet \f* will escape those disasters;
 \q2 those whom I have chosen will survive.” 

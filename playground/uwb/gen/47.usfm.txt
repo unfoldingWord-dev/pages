@@ -29,12 +29,12 @@ the land, in Goshen, which is now called Rameses.
 each of them had. 
 \s Joseph arranged for people to buy grain from him during the famine
 \p
-\v 13 There was no food growing in the whole region, because the famine was very severe. The people of Egypt and Canaan \f + \fr metonymy \f*
+\v 13 There was no food growing in the whole region, because the famine was very severe. The people of Egypt and Canaan \f + \fk metonymy \f*
 became weak because they did not have enough food to eat. 
 \v 14 Joseph collected all the money that the people in Egypt and Canaan paid for the grain they were buying from him, and he
 brought the money to the king's palace. 
 \v 15 When the people of Egypt and Canaan had spent all their money for grain, they all kept coming to Joseph and saying,
-“Please give us some food! If you do not give us grain, we will die \f + \fr rhetorical question \f*! We have used all our money to buy food, and we have
+“Please give us some food! If you do not give us grain, we will die \f + \fk rhetorical question \f*! We have used all our money to buy food, and we have
 no money left!” 
 \v 16 Joseph replied, “Since your money is all gone, bring me your livestock. If you do that, I will sell you food in exchange
 for your livestock.” 
@@ -43,7 +43,7 @@ cattle, and their donkeys.
 \p
 \v 18 When that year was ended, the next year they came to him and said, “We cannot hide this from you: we have no more money,
 and now our livestock belongs to you. We have only our bodies and our land to give to you. We have nothing else left.
-\v 19 ◄If you do not give us some food, we will die!/Do you want to watch us die?► \f + \fr rhetorical question \f* If you do not give us seeds, our
+\v 19 ◄If you do not give us some food, we will die!/Do you want to watch us die?► \f + \fk rhetorical question \f* If you do not give us seeds, our
 fields will become useless [IDI]. Buy us and our land in exchange for food. Then we will be the king's slaves, and he will own
 the land. Give us seeds that we can plant and grow food, in order that we will not die, and in order that our land will not
 become like a desert.” 

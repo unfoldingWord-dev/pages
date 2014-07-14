@@ -17,7 +17,7 @@ to\add* build a synagogue for us.”
 \add decided that it was not necessary for Jesus to come to his house. So
 he\add* summoned some friends. He \add told them to\add* go to Jesus and tell him this: “Lord/Sir, do not bother to come.
 \add Because I am a non-Jew\add*, I am not worthy for you\add (sg)\add*,
-\add a Jew\add*, to come into my house \f + \fr metonymy \f* \add and associate with
+\add a Jew\add*, to come into my house \f + \fk metonymy \f* \add and associate with
 me\add*. 
 \v 7 I did not feel worthy to come to you, \add either\add*. But
 \add please\add* command \add that\add* my servant\add be healed\add*, and he will become well!
@@ -73,25 +73,25 @@ am\add* telling \add God's\add* good message to poor people.
 \p
 \v 24 When the men whom John had sent left, Jesus began to talk to the crowd of people about John. He said to them,
 “\add Think about\add* what sort of person you went to see in the desolate area
-\add when you went there to see John\add* \f + \fr rhetorical question \f*. \add You did not go there to listen to a man who constantly changed the nature
-of his message\add* \f + \fr metaphor \f*, \add like\add* a reed that is blown back and forth by the wind \f + \fr rhetorical question \f*.
-\v 25 Then what kind of man did you go there to see \f + \fr rhetorical question \f*? Was he \f + \fr rhetorical question \f* a man who wore expensive clothes? No!
+\add when you went there to see John\add* \f + \fk rhetorical question \f*. \add You did not go there to listen to a man who constantly changed the nature
+of his message\add* \f + \fk metaphor \f*, \add like\add* a reed that is blown back and forth by the wind \f + \fk rhetorical question \f*.
+\v 25 Then what kind of man did you go there to see \f + \fk rhetorical question \f*? Was he \f + \fk rhetorical question \f* a man who wore expensive clothes? No!
 \add You know very well that\add* people who wear beautiful clothes and live in luxury are in kings' palaces,
 \add not in the desolate areas\add*! 
 \v 26 Then what \add kind of person\add* did you go to see? \add Did
-you\add* \f + \fr rhetorical question \f* \add go there to see John because he was\add* a prophet? Yes! But I will tell you that
+you\add* \f + \fk rhetorical question \f* \add go there to see John because he was\add* a prophet? Yes! But I will tell you that
 \add John is\add* more \add important\add* than an \add ordinary\add* prophet.
 \v 27 He is the one about whom \add these words\add* that God said to the Messiah have been written
 {\add the prophet Malachi\add* wrote \add these words\add*} \add in the
 Scriptures\add*: ‘Listen! I am going to send my messenger ahead of
-you\add (sg)\add* \f + \fr synecdoche \f*. He will prepare \add people\add* for your coming.’
+you\add (sg)\add* \f + \fk synecdoche \f*. He will prepare \add people\add* for your coming.’
 \p
 \v 28 I tell you that from among all the people who have ever lived,
 \add God considers that\add* no one is greater than John. However,
-\add God considers\add* everyone who has let God rule their \add lives\add* \f + \fr metaphor \f* to be greater than
+\add God considers\add* everyone who has let God rule their \add lives\add* \f + \fk metaphor \f* to be greater than
 \add John\add*, \add even if they are\add* insignificant \add people\add*.”
 \p
-\v 29 When they heard \add what Jesus said\add* \f + \fr (OR, \add what John
+\v 29 When they heard \add what Jesus said\add* \f + \ft (OR, \add what John
 preached\add*), all the people, including tax collectors, \add whom many people
 despised\add*, agreed that God's way was right. By being baptized by John {By
 \add letting\add* John baptize them}, \add they had agreed that what God required people to do in order to be saved was
@@ -101,20 +101,20 @@ right\add*.
 \p
 \v 31  \add Then Jesus also said\add*, “◄\add Many of\add* you people have heard what
 \add John and I\add* have taught. I will illustrate what you are like./Do you know what
-\add many of\add* you people who have heard what \add John and I\add* have taught are like?► \f + \fr rhetorical question \f*
+\add many of\add* you people who have heard what \add John and I\add* have taught are like?► \f + \fk rhetorical question \f*
 \v 32 You are like children who are \add playing games\add* in an open area.
 \add Some of them\add* are calling to \add the others\add*, saying,
 “We\add (exc)\add* played happy music for you on the flute, but you did not dance! Then we sang sad funeral songs for you, but
 you did not cry!” 
 \v 33  \add Similarly, you people are dissatisfied with both John the Baptizer and
 me!\add* When John came and \add preached to you\add*, he did not eat
-\add ordinary\add* food \f + \fr synecdoche \f* or drink wine, \add like most people
+\add ordinary\add* food \f + \fk synecdoche \f* or drink wine, \add like most people
 do\add*. But you \add rejected him\add*, saying, ‘A demon is controlling him!’
 \v 34 In\add contrast\add*, \add I\add*, the one who came from heaven, eat
 \add the same food\add* and drink \add wine as others do\add*. But you
 \add reject me\add*, saying, ‘Look! \add This man\add* eats too much food and drinks too much wine, and he associates with tax
 collectors and \add other\add* sinners!’ 
-\v 35 But those who are \add truly God's\add* children \f + \fr personification \f* realize that
+\v 35 But those who are \add truly God's\add* children \f + \fk personification \f* realize that
 \add what John and I do is truly\add* wise.” 
 \s Luke 7:36-50 
 \s Jesus told why he appreciated the sinful woman pouring perfume on his feet.
@@ -122,14 +122,14 @@ collectors and \add other\add* sinners!’
 \v 36  \add One day\add* one of the Pharisees \add named Simon\add* invited Jesus to eat a meal with him. So Jesus went to the
 man's house and reclined \add to eat\add*. 
 \v 37 There was a woman in that city \add who many people knew had
-been\add* a prostitute \f + \fr euphemism \f*. She heard that Jesus was eating in the Pharisee's house. So she went there, taking a stone jar
+been\add* a prostitute \f + \fk euphemism \f*. She heard that Jesus was eating in the Pharisee's house. So she went there, taking a stone jar
 that contained perfume. 
 \v 38  \add As they were reclining to eat\add*, the woman stood behind
 \add Jesus, at his\add* feet. As she was crying \add because she was sorry for her sins, her tears fell on Jesus'
 feet\add*. Then she wiped his feet with her hair, and kissed his feet, and anointed them with the perfume.
 \v 39 When the Pharisee who had invited \add Jesus\add* saw that, he thought within himself,
 “\add Prophets know about other people's lives\add*, \add so\add* if Jesus were a prophet, he would have known who this woman
-is who is touching him, and what kind of a person she is. He would have known that she is a prostitute! \f + \fr euphemism \f*”
+is who is touching him, and what kind of a person she is. He would have known that she is a prostitute! \f + \fk euphemism \f*”
 \v 40 Jesus said to him, “Simon, there is something I want to tell
 you\add (sg)\add*.” He replied, “Teacher, what is it?” 
 \v 41 Jesus replied, “Two people owed some money to a man who \add earned money
@@ -140,7 +140,7 @@ by\add* lending \add it to others\add*. One owed him five hundred silver coins, 
 \add will love him more\add*.” Jesus said to him, “That is correct.”
 \v 44 Then he turned toward the woman, and said to Simon, “◄Think about
 \add what\add* this woman \add has done\add*!/Do you\add (sg) \f*\add* see
-\add what\add* this woman \add has done\add*?► \f + \fr rhetorical question \f* When I entered your house, you
+\add what\add* this woman \add has done\add*?► \f + \fk rhetorical question \f* When I entered your house, you
 \add did not follow our custom of welcoming guests by\add* giving me any water
 \add to wash\add* my feet, but this woman has wet my feet with her tears and then wiped them with her hair!
 \v 45 You did not \add follow our custom of greeting by\add* kissing me, but since I came in she has not stopped kissing my
@@ -156,7 +156,7 @@ that\add* she loves \add me\add* very much. But a person who has
 have\add* forgiven \add you\add*} \add for\add* your sins.” 
 \v 49 Then those who were eating with him said among themselves, “◄This man must
 \add think that he is God!/\add*Who does this man \add think that
-he\add* is \f + \fr rhetorical question \f*►, saying that he can forgive \add people for\add* their sins?”
-\v 50 But Jesus said to the woman, “Because you have trusted \f + \fr personification \f*
+he\add* is \f + \fk rhetorical question \f*►, saying that he can forgive \add people for\add* their sins?”
+\v 50 But Jesus said to the woman, “Because you have trusted \f + \fk personification \f*
 \add in me, God\add* has saved you \add from the guilt of your sins\add*. May
 \add God\add* give you inner peace as you go!” 

@@ -14,8 +14,8 @@ claims\add* that I wrote in a letter.
 message\add*. 
 \s 2 Thessalonians 2:3b-5 
 \s The Lord will come only after that time when the man who will sin very greatly will appear.
-\p \add The Lord\add* will not come \f + \fr metonymy \f* \add immediately\add*. First,
-\add many people\add* \f + \fr personification \f* will rebel \add against God\add*. The result of their rebelling will be that
+\p \add The Lord\add* will not come \f + \fk metonymy \f* \add immediately\add*. First,
+\add many people\add* \f + \fk personification \f* will rebel \add against God\add*. The result of their rebelling will be that
 \add they will accept and obey\add* the man who will sin very greatly
 \add against God\add*. 
 \v 4 He will be the \add supreme\add* enemy \add of God\add*. He will
@@ -25,26 +25,26 @@ worship. \add As a result of wanting people to worship him\add*, he will
 \add God\add* will \add certainly\add* punish that man forever! 
 \v 5 ◄I am sure that you remember that I kept telling you these things while I was still with you
 \add there in Thessalonica\add*./Do you not remember that I continued telling to you these things while I was still with you
-\add there in Thessalonica\add*?► \f + \fr rhetorical question \f* 
+\add there in Thessalonica\add*?► \f + \fk rhetorical question \f* 
 \s 2 Thessalonians 2:6-8 
 \s This man will be revealed by God when he who is now preventing him from being revealed will have been removed by God.
 \p
-\v 6 You also know that there is something \f + \fr (OR, someone) \f* that is preventing this man
+\v 6 You also know that there is something \f + \ft (OR, someone) \f* that is preventing this man
 \add from being revealed\add* {\add from revealing himself\add*}. He is being ◄held back/restrained►
 \add now\add* in order that he be revealed {that he reveal himself} at the time that
-\add God has planned\add* \f + \fr metonymy \f*. 
+\add God has planned\add* \f + \fk metonymy \f*. 
 \v 7  \add Although Satan\add* is already secretly causing \add people\add* to reject
 \add God's\add* laws, ◄the one/God► who is preventing \add this man from revealing
 himself\add* now\add will continue to prevent him\add* until he/\add God\add* removes him.
 \v 8 It is then that \add God will allow\add* this man, who rejects
-\add God's\add* laws \add completely\add*, to be revealed {to reveal himself}. Then the Lord Jesus, by what he commands \f + \fr metonymy \f*,
+\add God's\add* laws \add completely\add*, to be revealed {to reveal himself}. Then the Lord Jesus, by what he commands \f + \fk metonymy \f*,
 will destroy him. Jesus, by his own glorious arrival, will cause him to become
 \add completely\add* powerless. 
 \s 2 Thessalonians 2:9-12 
 \s When this man is present, he will completely deceive those who will perish.
 \p
 \v 9 But \add before Jesus destroys him\add*, Satan will give him very great power. As a result, he
-\add will do all kinds of supernatural\add* miracles and amazing deeds \f + \fr doublet \f* that will seem as though
+\add will do all kinds of supernatural\add* miracles and amazing deeds \f + \fk doublet \f* that will seem as though
 \add God has enabled him to do them\add*. 
 \v 10 And by doing wicked \add deeds\add*, he will completely deceive those who will
 \add certainly\add* ◄perish/go to hell►. \add He will deceive them\add* because they will have refused to love the true
@@ -59,7 +59,7 @@ punished\add* who did not believe the true \add message\add*, but who instead gl
 \s God chose you and summoned you in order that you should be saved and share in Christ's glory.
 \p
 \v 13  \add Our\add* fellow believers, whom our Lord \add Jesus\add* loves, we thank God very frequently for you. It is
-appropriate/right for us to do that, because God chose you ◄from the beginning \f + \fr metonymy \f*
+appropriate/right for us to do that, because God chose you ◄from the beginning \f + \fk metonymy \f*
 \add of creation/before the world existed\add*► in order that he might save
 \add you\add* as a result of \add your\add* believing the true \add message\add* and as a result of
 \add God's\add* Spirit setting you apart \add for God\add*. 

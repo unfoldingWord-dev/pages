@@ -41,7 +41,7 @@ area\add* to see his/my people, \add the Hebrews\add*. He/I saw how they were be
 \v 13 The next day he/I returned \add to the same place\add*. He/I was surprised to see two Hebrew men who were fighting
 \add each other\add*. He/I said to the man who started the fight, “Why are you striking your fellow
 \add Hebrew\add*?” 
-\v 14 The man replied, “◄Who made you our ruler and judge?/No one made you our ruler and judge!► \f + \fr rhetorical question \f*
+\v 14 The man replied, “◄Who made you our ruler and judge?/No one made you our ruler and judge!► \f + \fk rhetorical question \f*
 \add You have no right to interfere with us\add*! Are you going to kill me just like you killed that Egyptian man
 \add yesterday\add*?” Then Moses/I was afraid, \add because\add* he/I thought,
 “\add Since that man knows what I did\add*, surely \add other people\add* know,
@@ -59,12 +59,12 @@ the girls, and got water for their sheep.
 \v 18 When the girls returned to their father \add Jethro\add*, \add whose other name
 is\add* Reuel, he asked them, “How is it that you were able to \add give water to the sheep
 and\add* come home so quickly today?” 
-\v 19 They replied, “A man from Egypt kept \f + \fr metonymy \f* other shepherds from sending us away. He also got water for us
+\v 19 They replied, “A man from Egypt kept \f + \fk metonymy \f* other shepherds from sending us away. He also got water for us
 \add from the well\add* and gave water to the flock \add of sheep\add*.”
 \p
 \v 20 He said to his daughters, “Where is he? ◄Why did you leave him
-\add out there\add*?/You should not leave him out there!► \f + \fr rhetorical question \f* Invite him
-\add in\add*, so he can have something to eat \f + \fr metonymy \f*!” 
+\add out there\add*?/You should not leave him out there!► \f + \fk rhetorical question \f* Invite him
+\add in\add*, so he can have something to eat \f + \fk metonymy \f*!” 
 \v 21  \add So they did\add*, and Moses/I \add accepted and ate with
 them\add*. And Moses/I decided to live there. Later Jethro gave him/me his daughter Zipporah
 \add to be his/my wife\add*. 
@@ -74,7 +74,7 @@ them\add*. And Moses/I decided to live there. Later Jethro gave him/me his daugh
 \p
 \v 23 Many years later the king of Egypt died. The Israeli people
 \add in Egypt\add* were still groaning because of the \add hard work they had to do
-as\add* slaves. They called out for \add someone to\add* help them, and God heard them call out \f + \fr personification \f*.
+as\add* slaves. They called out for \add someone to\add* help them, and God heard them call out \f + \fk personification \f*.
 \v 24 He heard them groaning. And he ◄thought about/did not forget► that he had solemnly promised to Abraham, Isaac, and Jacob
 \add to bless their descendants\add*. 
 \v 25 God saw how the Israeli people were \add being badly treated\add*, and he was concerned about them.

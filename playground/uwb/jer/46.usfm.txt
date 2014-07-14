@@ -21,7 +21,7 @@ troops\add*,
 \q Sharpen your spears, 
 \q2 and put on your armor!’ 
 \q
-\v 5 But what \f + \fr rhetorical question \f* do I see? 
+\v 5 But what \f + \fk rhetorical question \f* do I see? 
 \q2 I see that the soldiers of Egypt will be terrified and will be fleeing.
 \q Even the bravest of their soldiers will be running away, 
 \q2 without even looking backward! 
@@ -51,11 +51,11 @@ troops\add*,
 \q
 \v 10 But, \add you need to know that\add* this is the day when I, Yahweh, the Almighty Commander of the armies of angels, will
 get revenge on my enemies. 
-\q With my sword \f + \fr personification \f* I will kill \add my enemies\add* until I am satisfied;
+\q With my sword \f + \fk personification \f* I will kill \add my enemies\add* until I am satisfied;
 \q2 my sword will \add be like a monster that\add* [MET, PRS] drinks the blood
 \add of the animals it kills\add* until it is no longer thirsty.
 \q \add The enemy soldiers who will be killed\add* in the north beside the Euphrates River
-\q2 \add will be like\add* \f + \fr metaphor \f* a sacrifice to me, the Almighty Commander of the armies of angels.
+\q2 \add will be like\add* \f + \fk metaphor \f* a sacrifice to me, the Almighty Commander of the armies of angels.
 \b
 \q
 \v 11 You people [IDI] of Egypt, 
@@ -107,11 +107,11 @@ Egypt\add*.
 \q2 it will become a ruin, and no people will be living there. 
 \b
 \q
-\v 20 Egypt is like \f + \fr simile \f* a beautiful young cow, 
+\v 20 Egypt is like \f + \fk simile \f* a beautiful young cow, 
 \q2 but \add a powerful king\add* from the northeast will come to attack it
-\q2 like a horsefly \f + \fr metaphor \f* \add bites a cow\add*. 
+\q2 like a horsefly \f + \fk metaphor \f* \add bites a cow\add*. 
 \q
-\v 21 The ◄mercenaries/soldiers from other countries who have been hired► will become like \f + \fr simile \f* fat calves;
+\v 21 The ◄mercenaries/soldiers from other countries who have been hired► will become like \f + \fk simile \f* fat calves;
 \q2 but they also will turn around and run away; 
 \q they will not stand there \add and fight\add*, 
 \q2 because it will be a day when there will be a great disaster for Egypt,
@@ -121,10 +121,10 @@ Egypt\add*.
 \q2 as silently as a snake slithers/crawls away. 
 \q The army of the enemy will advance; 
 \q2 they will march along carrying their axes 
-\q2 like \f + \fr simile \f* men who cut down trees. 
+\q2 like \f + \fk simile \f* men who cut down trees. 
 \q
 \v 23 I, Yahweh, say that they will kill the soldiers \add of Egypt\add*
-\q2 as though \f + \fr simile \f* they were a forest of trees, 
+\q2 as though \f + \fk simile \f* they were a forest of trees, 
 \q2 because the enemy soldiers will be as numerous as \add a swarm
 of\add* locusts. 
 \q
@@ -141,7 +141,7 @@ officers. But many years later, people will live in Egypt again.
 \add That will surely happen because\add* I, Yahweh, have said it.’
 \q
 \v 27 But you people of Israel who serve me, 
-\q2 do not be at all dismayed \f + \fr doublet \f* now, 
+\q2 do not be at all dismayed \f + \fk doublet \f* now, 
 \q because some day I will bring you back from distant places; 
 \q2 I will bring your descendants from the land to which they were exiled.
 \q2 Then you Israeli people will again live peacefully and safely,

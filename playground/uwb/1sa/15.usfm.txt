@@ -45,12 +45,12 @@ offer them as sacrifices to Yahweh, your God. But we have completely destroyed a
 \p
 \v 16 Samuel said to Saul, “Stop \add talking\add*! Allow me to tell you what Yahweh said to me last night.”
 \p Saul replied, “Tell me \add what he said\add*.” 
-\v 17 Samuel said, “Previously you did not think that you were important. But now you have become \f + \fr rhetorical question \f* the leader of the
+\v 17 Samuel said, “Previously you did not think that you were important. But now you have become \f + \fk rhetorical question \f* the leader of the
 tribes of Israel. Yahweh appointed you to be their king. 
 \v 18 And Yahweh sent you to do something \add for him\add*. He said to you, ‘Go and get rid of all those sinful people, the
 Amalek people-group. Attack them and kill all of them.’ 
-\v 19 So why did you not obey Yahweh \f + \fr rhetorical question \f*? Why did your men take the best animals \f + \fr rhetorical question \f*? Why did you do what Yahweh said was
-evil?” \f + \fr rhetorical question \f* 
+\v 19 So why did you not obey Yahweh \f + \fk rhetorical question \f*? Why did your men take the best animals \f + \fk rhetorical question \f*? Why did you do what Yahweh said was
+evil?” \f + \fk rhetorical question \f* 
 \p
 \v 20 Saul replied to Samuel, “Hey, I did what Yahweh sent me to do! I brought back King Agag, but we killed everyone else!
 \v 21 My men brought back only the best sheep and cattle and other things, in order to sacrifice them to Yahweh your God here
@@ -59,7 +59,7 @@ at Gilgal.”
 \v 22 But Samuel replied, 
 \q “Which \add do you think\add* pleases Yahweh more, animals that are completely burned
 \add on the altar\add* and other sacrifices, 
-\q or people obeying him \f + \fr synecdoche \f*? 
+\q or people obeying him \f + \fk synecdoche \f*? 
 \q It is better to obey \add Yahweh\add* than \add to offer\add* sacrifices
 \add to him\add*. 
 \q It is better to pay attention to what he says than \add to burn\add* the fat of rams,

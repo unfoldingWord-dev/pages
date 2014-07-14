@@ -6,7 +6,7 @@
 \q2 ◄I rejoice/he rejoices► greatly because you have rescued me/him
 \add from my/his enemies\add*. 
 \q
-\v 2 You have given me/him the things that I/he \f + \fr synecdoche \f* desired 
+\v 2 You have given me/him the things that I/he \f + \fk synecdoche \f* desired 
 \q2 and you have not refused to do what I requested you to do. 
 \qr (Think about that!) 
 \q
@@ -14,7 +14,7 @@
 \q2 You placed a gold crown on my/his head. 
 \q
 \v 4 I/He asked you to enable me/him to live \add for a long time\add*,
-\q2 and that is what you gave me/him, a very long \f + \fr hyperbole \f* life. 
+\q2 and that is what you gave me/him, a very long \f + \fk hyperbole \f* life. 
 \q
 \v 5 ◄I am/He is► greatly honored because you have helped me/him to defeat my/his enemies;
 \q2 you have given me/him splendor and majesty/praise. 
@@ -28,7 +28,7 @@
 \q2 disastrous things will never happen to me/him. 
 \b
 \q
-\v 8 You will enable me/him to capture \f + \fr metonymy \f* all my/his enemies 
+\v 8 You will enable me/him to capture \f + \fk metonymy \f* all my/his enemies 
 \q2 and all those who hate me/him. 
 \q
 \v 9 When you appear, you will throw them into a fiery furnace. 

@@ -2,7 +2,7 @@
 \s Luke 14:1-6 
 \s Jesus told the Jewish leaders that they were being hypocritical about not helping people on the Sabbath.
 \p
-\v 1 One ◄Jewish day of rest/Sabbath day►, Jesus went to eat \f + \fr synecdoche \f* at the house of an important Pharisee. Some
+\v 1 One ◄Jewish day of rest/Sabbath day►, Jesus went to eat \f + \fk synecdoche \f* at the house of an important Pharisee. Some
 \add men who studied the Jewish\add* laws and other Pharisees who were there were watching him carefully
 \add to see if he would do something for which they could accuse
 him\add*. 
@@ -10,7 +10,7 @@ him\add*.
 \v 3 Jesus said to them, “Is it permitted in \add our(inc)\add* Jewish laws to heal
 \add someone\add* ◄on our Jewish rest day/on the Sabbath►, or not?”
 \v 4  \add They knew that their laws permitted it, but they thought that healing was work, which they thought was wrong to
-do\add* ◄on the Sabbath/on the Jewish rest day► \f + \fr (OR\add , they knew that their laws permitted it, but they did not want to
+do\add* ◄on the Sabbath/on the Jewish rest day► \f + \ft (OR\add , they knew that their laws permitted it, but they did not want to
 admit it\add*). So they did not reply. Then Jesus put his hands on the man and healed him. Then he told him to go
 \add home\add*. 
 \v 5 Then he said to the rest of them, “If you had a son or an ox that fell into a well on a ◄Sabbath/our day of rest►, would
@@ -56,7 +56,7 @@ He\add* will repay you \add at the time\add* when \add he causes\add* righteous 
 \add has truly\add* blessed \add us Jews\add* who will eat \add with the
 Messiah\add* when he starts to rule!” 
 \v 16 But \add to show that many Jews whom God had invited would not accept God's
-invitation\add* \f + \fr metaphor \f*, Jesus replied to him, “One time a man \add decided\add* to prepare a large feast. He invited many people
+invitation\add* \f + \fk metaphor \f*, Jesus replied to him, “One time a man \add decided\add* to prepare a large feast. He invited many people
 to come. 
 \v 17 When it was the day for the feast, he sent his servant to tell those who had been {whom he had} invited, ‘Come
 \add now\add* because everything is ready!’ 
@@ -87,21 +87,21 @@ city\add*. Search for people along the highways. Search also along the narrow ro
 \p
 \v 25 Large groups of people were traveling with \add Jesus\add*. He turned and said to them,
 \v 26 “If anyone comes to me who loves his father and mother and wife and children and brothers and sisters
-\add more than\add* \f + \fr hyperbole \f* \add he loves me\add*, he cannot be my disciple. He must even love me more than he loves his own
+\add more than\add* \f + \fk hyperbole \f* \add he loves me\add*, he cannot be my disciple. He must even love me more than he loves his own
 life! 
-\v 27  \add People who are ready to execute a prisoner make\add* him carry his cross \f + \fr metaphor \f*
+\v 27  \add People who are ready to execute a prisoner make\add* him carry his cross \f + \fk metaphor \f*
 \add to the place where others will nail him\add* on it. Only those who are willing
 \add to allow others to hurt them and disgrace them\add* like that because of being my disciples, and who are willing to obey
 what I teach, can be my disciples. 
-\v 28  \add I will illustrate\add* \f + \fr metaphor \f*. If one of you desired to build a ◄tower/big house►, ◄you would surely first sit down
-and determine how much it would cost!/would you not first sit down and determine how much it would cost?► \f + \fr rhetorical question \f* Then you would
+\v 28  \add I will illustrate\add* \f + \fk metaphor \f*. If one of you desired to build a ◄tower/big house►, ◄you would surely first sit down
+and determine how much it would cost!/would you not first sit down and determine how much it would cost?► \f + \fk rhetorical question \f* Then you would
 determine whether you had enough money to complete it. 
 \v 29  \add If you did not do that\add*, if you laid the foundation and were not able to finish
 \add the rest of the tower\add*, everyone who saw it would make fun of you.
 \v 30 They would say, ‘This man started to build \add a tower\add*, but he was not able to finish it!’
 \v 31 Or, if a king decided to \add send his army to\add* war against another king, ◄he would surely first sit down
 \add with those who\add* advised \add him\add*./would he not first sit down
-\add with those who\add* advised \add him\add*?► \f + \fr rhetorical question \f* They would determine whether
+\add with those who\add* advised \add him\add*?► \f + \fk rhetorical question \f* They would determine whether
 \add his army\add*, which had only ten thousand soldiers, could defeat the
 \add other army\add*, which had twenty thousand soldiers, and was about to attack his
 \add army\add*. 
@@ -113,10 +113,10 @@ you\add (sg) \f*\add* are \add willing to\add* give up all that you have, you ca
 \s Luke 14:34-35 
 \s Jesus warned about losing our usefulness to God. 
 \p
-\v 34  \add Jesus also said, “You are like\add* \f + \fr metaphor \f* salt, which is useful
+\v 34  \add Jesus also said, “You are like\add* \f + \fk metaphor \f* salt, which is useful
 \add to put on food\add*. But ◄salt certainly cannot be made {\add you\add* certainly cannot make salt} to taste salty again if
-it stops tasting salty!/can salt be made {can \add you\add* make salt} to taste salty again if it quits tasting salty?► \f + \fr rhetorical question \f*
+it stops tasting salty!/can salt be made {can \add you\add* make salt} to taste salty again if it quits tasting salty?► \f + \fk rhetorical question \f*
 \v 35  \add If salt does not taste salty anymore\add*, it is not good for the soil or even for the manure heap.
 \add People\add* throw it away. \add The same thing will happen to you if you become useless to
-God\add*. If you want to understand what I just said \f + \fr idiom \f*, you must consider
+God\add*. If you want to understand what I just said \f + \fk idiom \f*, you must consider
 \add carefully\add* what you have heard!” 

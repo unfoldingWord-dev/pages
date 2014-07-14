@@ -13,12 +13,12 @@ competent/able/qualified to teach others.
 \v 3 Endure as I do what we suffer for Christ Jesus, like a good soldier
 \add endures what he suffers\add*. 
 \v 4  \add You know that\add* soldiers, in order to please their captain, do not ◄become involved in civilian affairs/spend
-time doing other kinds of work► \f + \fr metaphor \f*. \add So, like soldiers, do not let other matters ◄distract you as you serve/hinder you
+time doing other kinds of work► \f + \fk metaphor \f*. \add So, like soldiers, do not let other matters ◄distract you as you serve/hinder you
 from serving\add*► \add Christ Jesus!\add* 
 \v 5  \add Similarly, you know that\add* athletes who do not obey the rules of the contest will not be given {not win} the
-prize \f + \fr metaphor \f*. \add So, like athletes, do all that Christ Jesus has commanded so that God will reward
+prize \f + \fk metaphor \f*. \add So, like athletes, do all that Christ Jesus has commanded so that God will reward
 you!\add* 
-\v 6  \add You also know that\add* a hard-working farmer should be the first to receive some of the harvest \f + \fr metaphor \f*.
+\v 6  \add You also know that\add* a hard-working farmer should be the first to receive some of the harvest \f + \fk metaphor \f*.
 \add So, like farmers, work hard for Christ Jesus and expect that God will reward
 you!\add* 
 \v 7 Think about what I have just written, because, \add if you do\add*, the Lord will enable you to understand everything
@@ -29,13 +29,13 @@ you!\add*
 when I tell them the message \add about Christ\add*. 
 \v 9 I am suffering \add here in prison\add* because \add some people
 oppose\add* the good message \add that I tell\add*. They have even put me in chains as if I were a criminal. Nevertheless, the
-message from God is not chained {nothing is preventing \f + \fr metaphor \f* \add others from
+message from God is not chained {nothing is preventing \f + \fk metaphor \f* \add others from
 proclaiming\add* the message from God}. 
 \v 10 Therefore I \add willingly\add* endure all \add that I am suffering\add* for the sake of those
 \add whom God has\add* chosen. \add I do this\add* in order that Christ Jesus will save them, too, and that they will be
 forever with \add him in the\add* glorious \add place where he is\add*.
 \v 11  \add Endure everything as you remember\add* that these words
-\add that we all say/sing\add* \f + \fr (OR, \add that we teach people\add*)
+\add that we all say/sing\add* \f + \ft (OR, \add that we teach people\add*)
 \add are trustworthy\add*, 
 \q Since we have stopped behaving as we did in the past, 
 \q as though we died when he died, 
@@ -71,7 +71,7 @@ ashamed of (OR, will be pleased about) \add what he does\add*.
 \v 16 ◄Stay away from/Do not talk with► \add those who talk foolishly
 and\add* ◄\add godlessly/say things that displease God\add*►, because
 \add those who talk foolishly\add* will become even more ◄ungodly/displeasing to God►,
-\v 17 and \add because\add* their message will \add harm people\add* \f + \fr simile \f*
+\v 17 and \add because\add* their message will \add harm people\add* \f + \fk simile \f*
 \add like\add* gangrene/cancer does. \add You know\add* Hymenaeus and Philetus. They are
 \add two\add* such people \add who talk in this manner\add*. 
 \v 18  \add Specifically\add*, they teach a wrong message; \add that
@@ -79,8 +79,8 @@ is\add*, they say \add wrongly that God will not raise the dead people
 because\add* he has already given us \add spiritual\add* life. \add They claim that our spiritual life is the only new life
 that we will receive. By saying that\add*, they cause some people
 \v 19 not to continue to believe \add in Christ\add*. However, \add the congregations
-of\add* God are strong \f + \fr metaphor \f*. \add They are like\add* a strong foundation on which is written: “The Lord knows the people who
-really belong to him,” and “Every person who calls Jesus \f + \fr metonymy \f* ‘Lord’ must stop doing wicked deeds”.
+of\add* God are strong \f + \fk metaphor \f*. \add They are like\add* a strong foundation on which is written: “The Lord knows the people who
+really belong to him,” and “Every person who calls Jesus \f + \fk metonymy \f* ‘Lord’ must stop doing wicked deeds”.
 \s 2 Timothy 2:20-22 
 \s Avoid the bad things that some young people desire to do. Do good instead.
 \p
@@ -91,7 +91,7 @@ who\add* ◄\add are ready/desire\add*► \add to do great things for the Lord J
 false doctrines/teachings who are not\add*. 
 \v 21 Therefore, those who rid themselves of \add what is evil in their
 lives\add* will be able to\add work well for the Lord. They will be
-like\add* utensils \f + \fr metaphor \f* used at special \add occasions\add*, set apart for and especially useful to the owner
+like\add* utensils \f + \fk metaphor \f* used at special \add occasions\add*, set apart for and especially useful to the owner
 \add of the big house. They will be like fine utensils\add* that have been prepared {are ready} to do any kind of good work.
 \v 22  \add Because of that\add*, you\add (sg)\add* must avoid doing the wrong actions that
 \add many\add* young people desire to do. Instead, you must earnestly do right actions, believe
@@ -110,6 +110,6 @@ things\add*, they begin to quarrel.
 \v 25  \add That is, they should\add* gently instruct/teach people who oppose
 \add the true message. They should do that\add* in order that perhaps God will cause others to completely change what they
 think, so that they may acknowledge/believe the true \add message\add*.
-\v 26 In that way they may get free from \add what is like\add* \f + \fr metaphor \f* a trap
+\v 26 In that way they may get free from \add what is like\add* \f + \fk metaphor \f* a trap
 \add set by\add* the devil. The devil has deceived them in order that
 \add they might do\add* what he wants \add them to do\add*. 

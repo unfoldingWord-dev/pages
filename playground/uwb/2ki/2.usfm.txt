@@ -56,7 +56,7 @@ so\add* Elisha picked it up and returned to the bank of the Jordan
 things\add*?” Then the water separated, and a path opened up for him, and Elisha went across.
 \p
 \v 15 When the group of prophets from Jericho saw what happened, they exclaimed, “Elisha now has the power that Elijah had!”
-\f + \fr metonymy \f* They walked over to him and bowed down in front of him. 
+\f + \fk metonymy \f* They walked over to him and bowed down in front of him. 
 \v 16  \add One of\add* them said, “Sir, if you permit us, fifty of our strongest men will go and search for your master
 \add on the other side of the river\add*. Perhaps the Spirit of Yahweh has left him on some mountain or in some valley.”
 \p Elisha replied, “No, do not send them.” 
@@ -64,7 +64,7 @@ things\add*?” Then the water separated, and a path opened up for him, and Elis
 \v 17 But they continued to urge him. Finally he was tired of saying “No,” and he said, “Okay, send them.” So fifty men
 searched for three days, but they did not find Elijah. 
 \v 18 They returned to Jericho, and Elisha was still there. He said to them, “I told you that you should not go,
-\add because you would not find him\add*!” \f + \fr rhetorical question \f* 
+\add because you would not find him\add*!” \f + \fk rhetorical question \f* 
 \s Elisha made the water pure 
 \p
 \v 19 Then the leaders of Jericho city came to talk with Elisha. One of them said, “Our master, we have a problem. You can see
@@ -74,7 +74,7 @@ that this is a very nice place \add to live in\add*. But the water is bad, and a
 \p
 \v 21 Then he went out to the spring \add from which the people in the town got
 water\add*. He threw the salt into the spring. Then he said, “This is what Yahweh says: ‘I have made this water good/pure. No
-longer will anyone who drinks it die, and now crops will be able to grow.’ ” \f + \fr litotes \f*
+longer will anyone who drinks it die, and now crops will be able to grow.’ ” \f + \fk litotes \f*
 \v 22 And the water became pure, just as Elisha said it would be. Since that time it has always remained pure.
 \s Elisha cursed boys who made fun of him 
 \p

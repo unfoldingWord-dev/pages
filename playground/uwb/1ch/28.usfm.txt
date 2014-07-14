@@ -9,17 +9,17 @@ officials, and his mighty soldiers and bravest warriors.
 \v 2 David stood up and said, “My fellow Israelis, listen to me. I wanted [IDI] to build a temple to be a place where we would
 put the Sacred Chest of Yahweh, where it would stay permanently. And I made plans to build it.
 \v 3 But God said to me, ‘You are not the one who will \add arrange
-to\add* build a temple for me \f + \fr metonymy \f*, because you are a warrior and you have killed many people \f + \fr metonymy \f*
+to\add* build a temple for me \f + \fk metonymy \f*, because you are a warrior and you have killed many people \f + \fk metonymy \f*
 \add in battles\add*.’ 
 \p
 \v 4 But Yahweh, the God to whom we Israelis belong, had chosen me and my descendants to be the kings of Israel forever.
-\add First\add* he chose the tribe of Judah, and from the people \f + \fr metonymy \f* of Judah he chose my family, and from my father's sons
+\add First\add* he chose the tribe of Judah, and from the people \f + \fk metonymy \f* of Judah he chose my family, and from my father's sons
 he chose me to be the king over all of Israel. 
-\v 5 Yahweh has given me many sons, but from them he chose my son Solomon to be the next king to rule \f + \fr metonymy \f* his kingdom of
+\v 5 Yahweh has given me many sons, but from them he chose my son Solomon to be the next king to rule \f + \fk metonymy \f* his kingdom of
 Israel. 
 \v 6 He said to me, ‘Solomon your son is the one who will \add arrange
 to\add* build my temple and the courtyards around it, because I have chosen him to be
-\add like\add* my son and I will be \add like\add* \f + \fr metaphor \f* his father.
+\add like\add* my son and I will be \add like\add* \f + \fk metaphor \f* his father.
 \v 7 I will enable his kingdom to endure forever if he continues to obey my laws and commands, like you are doing now.’
 \p
 \v 8 So now, while all you \add people of Israel\add*, all of you who belong to Yahweh, are watching, and while God is
@@ -50,7 +50,7 @@ for each silver dish;
 golden statues of winged creatures that would be above the Sacred Chest of Yahweh,
 \add like\add* a chariot for him. 
 \p
-\v 19 Then David said, “I have written \add all these plans\add* while Yahweh was directing \f + \fr metonymy \f* me. He has enabled me to
+\v 19 Then David said, “I have written \add all these plans\add* while Yahweh was directing \f + \fk metonymy \f* me. He has enabled me to
 understand all the details of his plan \add for the temple that is to be
 built\add*.” 
 \p

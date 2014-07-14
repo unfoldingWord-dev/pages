@@ -31,7 +31,7 @@ us\add*!
 \q2 and he gives hungry people plenty of good things \add to eat\add*.
 \b
 \q
-\v 10 Some of them were in very dark \f + \fr hendiadys \f* places \add in\add* ◄\add Babylonia/other
+\v 10 Some of them were in very dark \f + \fk hendiadys \f* places \add in\add* ◄\add Babylonia/other
 countries\add*►; 
 \q2 they were prisoners, suffering because of chains \add fastened to their hands and
 feet\add*. 
@@ -130,7 +130,7 @@ country\add*.
 \q
 \v 39 When the number of people becomes smaller and they have been humiliated
 \add by their enemies\add* 
-\q2 by being oppressed and caused to suffer \f + \fr doublet \f*, 
+\q2 by being oppressed and caused to suffer \f + \fk doublet \f*, 
 \q
 \v 40 Yahweh shows contempt for the leaders who oppress them, 
 \q2 and causes them to wander in deserts where there are no roads.

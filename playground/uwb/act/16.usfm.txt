@@ -62,8 +62,8 @@ Jesus\add*.
 and\add* sold \add expensive\add* purple cloth. She had accepted what the Jews believe about God. The Lord
 \add God\add* caused her to pay attention to the message that Paul preached, and she believed it.
 \add The members of her household also heard the good message and believed in
-Jesus\add* \f + \fr metonymy \f*. 
-\v 15 After \add Paul and Silas\add* baptized Lydia and the others who lived in her house \f + \fr metonymy \f* {After Lydia and the others who
+Jesus\add* \f + \fk metonymy \f*. 
+\v 15 After \add Paul and Silas\add* baptized Lydia and the others who lived in her house \f + \fk metonymy \f* {After Lydia and the others who
 lived in her house were baptized}, she invited us to \add go and stay
 in\add* her home. She said, “You\add (pl)\add* know that I \add now\add* believe in the Lord
 \add Jesus\add*, so \add please\add* come and stay in my house.” She persuaded us
@@ -81,7 +81,7 @@ were\add* her owners, in return for her telling them things that
 \add so that he will not punish you/to be\add* saved►” 
 \v 18 She continued to do that for many days. Finally Paul became irritated. So he turned
 \add toward the young woman\add* and rebuked the evil spirit \add that was in her. He
-said\add*, “By the authority \f + \fr metonymy \f* of Jesus Christ, I command you\add (sg)\add* to come out of this young woman!” Right away
+said\add*, “By the authority \f + \fk metonymy \f* of Jesus Christ, I command you\add (sg)\add* to come out of this young woman!” Right away
 the evil spirit left her. 
 \v 19 And then her owners realized that she could no longer earn money for them
 \add because she could no longer predict what would happen to people, so they were
@@ -89,7 +89,7 @@ angry\add*. They grabbed Paul and Silas and forcefully took them to the public s
 \add the place where\add* the government authorities and \add a lot of other people were
 gathered\add*. 
 \v 20 The owners \add of the young woman\add* brought them to the city officials and told them, “These men are Jews, and they
-are greatly troubling \add the people in\add* \f + \fr metonymy \f* our city. 
+are greatly troubling \add the people in\add* \f + \fk metonymy \f* our city. 
 \v 21 They are teaching that we\add (inc)\add* should follow customs that our laws do not allow us Romans to consider
 \add to be correct\add* or to obey!” 
 \v 22 Many of the crowd joined \add those who were accusing\add* Paul and Silas, and started beating them. Then the
@@ -108,7 +108,7 @@ legs\add*. Then he fastened their ankles in \add grooves\add* between two large 
 \p
 \v 25 About midnight, Paul and Silas were praying \add aloud\add* and praising God by singing hymns. The
 \add other\add* prisoners were listening attentively to them. 
-\v 26 Suddenly there was a very strong earthquake. It shook the entire jail \f + \fr synecdoche \f* and its foundation \f + \fr synecdoche \f*.
+\v 26 Suddenly there was a very strong earthquake. It shook the entire jail \f + \fk synecdoche \f* and its foundation \f + \fk synecdoche \f*.
 \add The earthquake caused\add* all the doors \add of the jail\add* to open suddenly, and
 \add caused\add* all the chains that fastened the prisoners to fall off.
 \v 27 The jailer woke up and saw that the doors of the jail were open. He thought that the prisoners had escaped. So he pulled
@@ -122,7 +122,7 @@ We\add (exc) prisoners\add* are all here!”
 \v 30 Then he brought Paul and Silas out \add of the jail\add* and asked: “Sirs, what do I need to do to be saved
 \add from being punished for my sins\add*?” 
 \v 31  \add They answered\add*, “Trust in \add what\add* the Lord Jesus
-\add has done for you\add*, and you will be saved {\add God\add* will save you}, and the others who live in \f + \fr metonymy \f* your house
+\add has done for you\add*, and you will be saved {\add God\add* will save you}, and the others who live in \f + \fk metonymy \f* your house
 will \add also\add* be saved \add if they believe in Jesus\add*.”
 \p
 \v 32-34 Then the jailer took Paul and Silas into his house, washed their wounds, and gave them a meal.
@@ -144,7 +144,7 @@ message\add (sg)\add* saying that I should release you\add (sg)\add* and Silas
 to\add* beat us in front of a crowd before \add those authorities\add* had learned if
 we\add (exc)\add* had done anything wrong! Then they \add ordered men
 to\add* shove us into jail! \add But that was not legal, because\add*
-we\add (exc)\add* are Roman citizens! And now they want \f + \fr rhetorical question \f* to send us away secretly! We will not accept that! Those
+we\add (exc)\add* are Roman citizens! And now they want \f + \fk rhetorical question \f* to send us away secretly! We will not accept that! Those
 \add Roman\add* officials must come themselves and\add tell us that they are
 sorry\add*, and take us out \add of jail\add*.” 
 \v 38 So the police officers \add went and\add* told the city authorities

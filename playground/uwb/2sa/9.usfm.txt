@@ -23,10 +23,10 @@ Jerusalem\add*.
 \p
 \v 7 David said to him, “Do not be afraid; I will be kind to you because Jonathan your father
 \add was my friend was\add*. I will give back to you all the land that belonged to your grandfather Saul. And
-\add I want\add* you to always eat with me at my house \f + \fr metonymy \f*.” 
+\add I want\add* you to always eat with me at my house \f + \fk metonymy \f*.” 
 \p
 \v 8 Mephibosheth bowed \add in front of David again\add* and said, “Sir, I am
-\add as worthless as\add* \f + \fr metaphor \f* a dead dog; I do not deserve \f + \fr rhetorical question \f* that you act kindly toward me!”
+\add as worthless as\add* \f + \fk metaphor \f* a dead dog; I do not deserve \f + \fk rhetorical question \f* that you act kindly toward me!”
 \p
 \v 9 Then the king summoned Saul's servant Ziba and said to him, “Saul was your master; now I am giving to Mephibosheth
 everything that belonged to Saul and his family. 

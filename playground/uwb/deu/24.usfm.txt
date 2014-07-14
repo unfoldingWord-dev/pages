@@ -3,13 +3,13 @@
 \p
 \v 1 “Suppose a man marries a woman and later decides that he does not want her because there is something
 offensive/disgraceful concerning her. And suppose he writes a paper in which he says that he is divorcing her, and he gives the
-paper to her \f + \fr synecdoche \f* and sends her away from his house. 
+paper to her \f + \fk synecdoche \f* and sends her away from his house. 
 \v 2 Then suppose that she goes and marries another man, 
 \v 3 and that man \add later also\add* decides that he does not like her, and he writes a paper in which he says that he is
 divorcing her, and he sends her away from his house. Or, suppose that the second husband dies.
 \v 4 If either of those things happen, her first husband must not marry her again. He must consider that she has become
 unacceptable to Yahweh. Yahweh would consider it to be disgusting
-\add if he married her again\add*. You must not sin \f + \fr metonymy \f* by doing that in the land that Yahweh our God is giving to you.
+\add if he married her again\add*. You must not sin \f + \fk metonymy \f* by doing that in the land that Yahweh our God is giving to you.
 \s Various laws 
 \p
 \v 5 When some man has just become married, he must not \add be required
@@ -38,16 +38,16 @@ guarantee \add that he will return what he has borrowed\add*.
 \v 13 When the sun sets, take the cloak back to him, in order that he may wear it while he sleeps. If you do that, he will
 \add ask God to\add* bless you, and Yahweh our God will be pleased with you.
 \p
-\v 14 Do not mistreat any servants whom you have hired who are poor and needy \f + \fr doublet \f*, whether they are Israelis or foreigners
+\v 14 Do not mistreat any servants whom you have hired who are poor and needy \f + \fk doublet \f*, whether they are Israelis or foreigners
 who are living in your town. 
 \v 15 Every day, before sunset, you must pay/give them the money that they have earned. They are poor and they need to get
-their pay. If you do not pay them right away, they will cry out against you to Yahweh, and he will punish \f + \fr metonymy \f* you for having
+their pay. If you do not pay them right away, they will cry out against you to Yahweh, and he will punish \f + \fk metonymy \f* you for having
 sinned like that. 
 \p
 \v 16 Parents must not be executed for crimes that their children have committed, and children must not be executed for crimes
 that their parents have committed. People should be executed only for the crimes that they themselves have committed.
 \p
-\v 17 You must \f + \fr litotes \f* do for foreigners \add who live\add* among you and for orphans the things that the laws state that must be
+\v 17 You must \f + \fk litotes \f* do for foreigners \add who live\add* among you and for orphans the things that the laws state that must be
 done for them. And \add if you lend something to\add* a widow, do not take her coat from her as a guarantee
 \add that she will return it\add*. 
 \v 18 Do not forget that you \add had great troubles\add* when you were slaves in Egypt, and Yahweh our God rescued you from

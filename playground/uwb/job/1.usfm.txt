@@ -1,7 +1,7 @@
 \c 1  
 \s Job and his family 
 \p
-\v 1 In the land named Uz, there was a man named Job. He was a very godly/righteous \f + \fr doublet \f* man, who greatly respected/revered
+\v 1 In the land named Uz, there was a man named Job. He was a very godly/righteous \f + \fk doublet \f* man, who greatly respected/revered
 God and always avoided doing evil things. 
 \v 2 He had seven sons and three daughters. 
 \v 3 He owned 7,000 sheep, 3,000 camels, 1,000 oxen, and 500 female donkeys. He also had many servants. He was the richest man
@@ -19,12 +19,12 @@ the altar as sacrifices, one for each of his children. He said to himself, “Pe
 \p Satan replied, “I have come from the earth, where I been traveling back and forth, seeing what is happening.”
 \p
 \v 8 Yahweh said to Satan, “Have you ◄noticed/thought about► my \add faithful\add* servant Job? He is very godly/righteous
-\f + \fr doublet \f*, he greatly respects/reveres me, and he always avoids doing evil things. There is no one else on the earth like him.”
+\f + \fk doublet \f*, he greatly respects/reveres me, and he always avoids doing evil things. There is no one else on the earth like him.”
 \v 9 Satan replied to Yahweh, “\add What you say is true\add*, but Job greatly respects you
-\add only\add* because of what \add you have done for him\add* \f + \fr rhetorical question \f*.
-\v 10 You have always \f + \fr rhetorical question \f* protected \f + \fr metaphor \f* him and his family and everything that he owns. You have made him very
+\add only\add* because of what \add you have done for him\add* \f + \fk rhetorical question \f*.
+\v 10 You have always \f + \fk rhetorical question \f* protected \f + \fk metaphor \f* him and his family and everything that he owns. You have made him very
 prosperous/rich. He has very many livestock all over this land. 
-\v 11 But if you take away \f + \fr metonymy \f* everything that he has, he will curse you openly. [IDI]”
+\v 11 But if you take away \f + \fk metonymy \f* everything that he has, he will curse you openly. [IDI]”
 \p
 \v 12 Yahweh replied to Satan, “◄All right/Okay►, I will permit you to take away everything that he has. But do not harm him.”
 \p Then Satan left, \add and he prepared to cause many disastrous things to happen to
@@ -38,7 +38,7 @@ brother.
 \add who were working in the fields\add* and took away all the oxen and donkeys! I am the only one who escaped to
 \add come and\add* tell you what happened.” 
 \p
-\v 16 While he was still talking to Job, another messenger arrived. He said to Job, “Lightning from the sky \f + \fr metonymy \f* struck and
+\v 16 While he was still talking to Job, another messenger arrived. He said to Job, “Lightning from the sky \f + \fk metonymy \f* struck and
 killed all the sheep and all the men who were taking care of the sheep! I am the only one who escaped to
 \add come and\add* tell you \add what happened\add*.” 
 \p
@@ -61,6 +61,6 @@ God\add*.
 \q When I die, I will not take any clothes with me. 
 \q Yahweh gave me \add everything that I possessed\add*, 
 \q and \add now\add* he has taken it all away. 
-\q But ◄we should/I will► always praise Yahweh! \f + \fr metonymy \f*” 
+\q But ◄we should/I will► always praise Yahweh! \f + \fk metonymy \f*” 
 \p
 \v 22 In spite of all these \add things that happened to Job\add*, he did not sin by saying that what God had done was wrong.

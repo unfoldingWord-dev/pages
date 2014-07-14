@@ -6,12 +6,12 @@
 \p
 \v 2 I praise you because you remember all the things \add that I taught
 you\add* and because you follow the instructions that I gave you. You have done just like I told you to do.
-\v 3  \add Now\add*, I want you to know that the one who has authority over \f + \fr metonymy \f* every man is Christ, and the ones who have
-authority over women are men \f + \fr (OR, their husbands), and the one who has authority over Christ is God.
+\v 3  \add Now\add*, I want you to know that the one who has authority over \f + \fk metonymy \f* every man is Christ, and the ones who have
+authority over women are men \f + \ft (OR, their husbands), and the one who has authority over Christ is God.
 \v 4  \add So\add* if any man \add wears a covering over\add* his head when he prays or speaks a message God gave him, he
-disgraces himself \f + \fr synecdoche \f*. 
+disgraces himself \f + \fk synecdoche \f*. 
 \v 5 Also, if any woman does not wear a covering over her head when she prays or speaks a message that God gave her, she
-disgraces herself (OR, she dishonors her husband). That would be acting like \f + \fr simile \f*
+disgraces herself (OR, she dishonors her husband). That would be acting like \f + \fk simile \f*
 \add women who are ashamed because\add* their heads have been shaved.
 \v 6 So, if women do not wear coverings over their heads \add when they pray or speak messages that God gave
 them\add*, they should let someone shave their heads \add so that they will be
@@ -19,7 +19,7 @@ ashamed\add*. But since women are ashamed if someone cuts their hair
 \add short\add* or shaves off their hair, they should wear coverings over their heads
 \add when they pray or speak messages that God gave them\add*. 
 \v 7 Men should not wear coverings over their heads \add when they pray or speak messages that God gave
-them\add*, because they represent what God is like \f + \fr metaphor \f* and they show how great God is. But women show how great men (OR,
+them\add*, because they represent what God is like \f + \fk metaphor \f* and they show how great God is. But women show how great men (OR,
 their husbands) are. 
 \v 8  \add Remember that God intends that men have authority over women. We know
 that\add* because \add God\add* did not make \add the first\add* man,
@@ -29,7 +29,7 @@ that\add* because \add God\add* did not make \add the first\add* man,
 help\add* the woman. Instead, \add he\add* created the woman \add to
 help\add* the man. 
 \v 10 For that reason, women should wear something \add to cover\add* their heads
-\add as a symbol of their being under their husbands'\add* \f + \fr metonymy \f* authority. They should also
+\add as a symbol of their being under their husbands'\add* \f + \fk metonymy \f* authority. They should also
 \add cover their heads\add* so that the angels \add will see that and
 rejoice\add*. 
 \p
@@ -37,10 +37,10 @@ rejoice\add*.
 first\add* woman from \add the first\add* man, \add now\add* it is women who
 \add give birth\add* to men. So men cannot be independent of women, nor can women be independent of men. But all things,
 \add including men and women\add*, come from God. 
-\v 13 Consider this for yourselves: Is it proper for \f + \fr rhetorical question \f* women to pray to God while they do not have coverings over their
+\v 13 Consider this for yourselves: Is it proper for \f + \fk rhetorical question \f* women to pray to God while they do not have coverings over their
 heads? 
 \v 14 ◄Everyone senses that it is disgraceful for men to have long hair./Do you not know naturally that it is disgraceful for
-men to have long hair?► \f + \fr rhetorical question \f* 
+men to have long hair?► \f + \fk rhetorical question \f* 
 \v 15 But it is very delightful if women have long hair, because
 \add God\add* gave them long hair to be like a \add beautiful\add* covering
 \add for their heads\add*. 
@@ -60,7 +60,7 @@ other\add*. To some extent I believe that is true.
 \v 19 It seems that you must divide into \add groups that despise each
 other\add* in order that it might be clear/evident which people among you
 \add God\add* approves of! 
-\v 20 When you gather together, you \f + \fr irony \f* eat the meal \add that you say is to remember the death
+\v 20 When you gather together, you \f + \fk irony \f* eat the meal \add that you say is to remember the death
 of\add* the Lord \add Jesus for us\add*. 
 \v 21 But \add what happens when\add* you eat is that each person eats his own meal before
 \add he thinks about sharing his food with anyone else\add*. As a result,
@@ -68,51 +68,51 @@ of\add* the Lord \add Jesus for us\add*.
 \add So it is not a meal that honors the Lord\add*. 
 \v 22 ◄\add You act as though\add* you do not have your own houses in which you can eat and drink
 \add whatever you want to\add*!/Do you not have your own houses in which you can eat and drink
-\add whatever you want to\add*?► \f + \fr rhetorical question \f* Do you not realize \f + \fr rhetorical question \f* \add that by acting selfishly in this
+\add whatever you want to\add*?► \f + \fk rhetorical question \f* Do you not realize \f + \fk rhetorical question \f* \add that by acting selfishly in this
 way\add*, it is God's people whom you are despising, and it is the poor people
-\add in your group\add* whom you are treating as though they were not important? What shall I say to you about that \f + \fr rhetorical question \f*? Do
-\add you expect\add* me to praise you\add about what you do\add* \f + \fr rhetorical question \f*? I certainly will not praise you!
+\add in your group\add* whom you are treating as though they were not important? What shall I say to you about that \f + \fk rhetorical question \f*? Do
+\add you expect\add* me to praise you\add about what you do\add* \f + \fk rhetorical question \f*? I certainly will not praise you!
 \s 1 Corinthians 11:23-26 
 \s The Lord gave us instructions about the significance of the Lord's Supper.
 \p
 \v 23 The Lord taught me these things that I also taught you: During the night that Jesus was betrayed
 {\add Judas\add* enabled \add the enemies of\add* the Lord Jesus to seize him}, he took some bread.
 \v 24 After he thanked God for it, he broke it into pieces. \add Then he gave it to his
-disciples\add* and said, “This bread \add represents\add* \f + \fr metaphor \f* (OR, is) my body, that
+disciples\add* and said, “This bread \add represents\add* \f + \fk metaphor \f* (OR, is) my body, that
 \add I am about to sacrifice\add* for you. Eat bread in this \add way again and
 again\add* to remember my \add offering myself as a sacrifice for
 you\add*.” 
-\v 25 Similarly, after they ate their meal, he took a cup \f + \fr metonymy \f* \add of
+\v 25 Similarly, after they ate their meal, he took a cup \f + \fk metonymy \f* \add of
 wine\add*. He \add thanked God for it. Then he gave it to his disciples\add*, saying,
-“\add The wine in\add* \f + \fr metonymy \f* this cup \add represents\add* \f + \fr metaphor \f* (OR, is) \f* my blood
+“\add The wine in\add* \f + \fk metonymy \f* this cup \add represents\add* \f + \fk metaphor \f* (OR, is) \f* my blood
 \add that will flow from my body\add* ◄\add to put into effect/to
 establish\add*► the new agreement \add that God is making with people\add*. Whenever you drink wine in this way, do it to
 remember that \add my blood flowed for you\add*.” 
 \v 26  \add Remember that\add* until the Lord \add Jesus\add* returns
 \add to the earth\add*, whenever you eat the \add bread that represents his
-body\add* and drink the wine \f + \fr metonymy \f* \add that represents his blood\add*, you are telling other people that he died
+body\add* and drink the wine \f + \fk metonymy \f* \add that represents his blood\add*, you are telling other people that he died
 \add for you\add*. 
 \s 1 Corinthians 11:27-34 
 \s God punishes those who eat the Lord's Supper in a way that does not express the unity of his people.
 \p
-\v 27 So, those who eat that bread and drink that wine \f + \fr metonymy \f* in a way that is not proper
+\v 27 So, those who eat that bread and drink that wine \f + \fk metonymy \f* in a way that is not proper
 \add for those who belong to the Lord\add* are guilty of \add acting in a way that is contrary to
 what\add* our \add Lord intended when he offered\add* his body \add as a
 sacrifice\add* and his blood \add flowed when he died\add*. 
-\v 28 Before any believer eats that bread and drinks that wine \f + \fr metonymy \f*, he should think carefully about
+\v 28 Before any believer eats that bread and drinks that wine \f + \fk metonymy \f*, he should think carefully about
 \add what he is doing\add*, 
 \v 29 because if anyone eats \add the bread that represents Christ's
 body\add* and drinks \add the wine that represents his blood\add* without recognizing that all God's
 \add people should be united, God will\add* punish him \add for doing
 that\add*. 
-\v 30 Many people in your group are weak and sick, and several have died \f + \fr euphemism \f* because of
+\v 30 Many people in your group are weak and sick, and several have died \f + \fk euphemism \f* because of
 \add the way they acted when they ate that bread and drank that wine\add*.
 \v 31 If we would think carefully about what we \add are doing\add*,
 \add God\add* would not judge \add and punish\add* us \add like that\add*.
 \v 32 But when the Lord judges \add and punishes\add* us \add for acting
 wrongly\add*, he disciplines us \add to correct us\add*, in order that he will not
 \add need to\add* punish us when he punishes \add the people who do not trust in
-Christ\add* \f + \fr metonymy \f*. 
+Christ\add* \f + \fk metonymy \f*. 
 \p
 \v 33 So, my fellow believers, when you gather together to eat \add food to remember the Lord's dying for
 you\add*, wait until everyone \add has arrived so that you can find out who does not have enough

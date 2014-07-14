@@ -13,9 +13,9 @@ appointed\add*.
 \v 5 Yahweh caused Uzziah to become a leper, and he was a leper all the remaining years that he lived.
 \add He was not allowed to live in the palace\add*. He lived alone in a house, and his son Jotham ruled the country.
 \p
-\v 6  \add If you want to know about\add* everything else that Uzziah did, it is written \f + \fr rhetorical question \f* in the book named 'The History
+\v 6  \add If you want to know about\add* everything else that Uzziah did, it is written \f + \fk rhetorical question \f* in the book named 'The History
 of the Kings of Judah.' 
-\v 7 Uzziah died \f + \fr euphemism \f*, and they buried him in \add the part of Jerusalem
+\v 7 Uzziah died \f + \fk euphemism \f*, and they buried him in \add the part of Jerusalem
 called\add* 'the City of David,' where his ancestors had been buried. Then his son Jotham became the king.
 \s King Zechariah of Israel 
 \p
@@ -58,9 +58,9 @@ strongly.
 \v 20 Menahem obtained that money from the rich men in Israel. He compelled each of them to contribute fifty pieces of silver.
 So Tiglath-Pileser \add took that money and\add* went back home.
 \p
-\v 21  \add If you want to know more about\add* everything that Menahem did, it is written \f + \fr rhetorical question \f* in the book named 'The history
+\v 21  \add If you want to know more about\add* everything that Menahem did, it is written \f + \fk rhetorical question \f* in the book named 'The history
 of the Kings of Israel.' 
-\v 22 Menahem died \f + \fr euphemism \f* and was buried, and his son Pekahiah became the king of Israel.
+\v 22 Menahem died \f + \fk euphemism \f* and was buried, and his son Pekahiah became the king of Israel.
 \s King Pekahiah of Israel 
 \p
 \v 23 When King Uzziah had been ruling Judah for almost fifty years, Menahem's son Pekahiah became the king of Israel. He ruled
@@ -97,9 +97,9 @@ daughter of Zadok.
 \v 35 But he did not destroy the places on the tops of hills where the people worshiped Yahweh, and the people continued to
 burn incense there \add to honor Yahweh\add*. Jotham's workers built the Upper Gate of the temple.
 \p
-\v 36  \add If you want to know more about\add* everything else that Jotham did, it is written \f + \fr rhetorical question \f* in the book named 'The
+\v 36  \add If you want to know more about\add* everything else that Jotham did, it is written \f + \fk rhetorical question \f* in the book named 'The
 History of the Kings of Judah.' 
 \v 37 It was during the time that Jotham was the king that Yahweh sent King Rezin of Syria and King Pekah of Israel
 \add with their armies\add* to attack Judah. 
-\v 38 Jotham died \f + \fr euphemism \f* and was buried where his ancestors had been buried in
+\v 38 Jotham died \f + \fk euphemism \f* and was buried where his ancestors had been buried in
 \add the part of Jerusalem called\add* 'the City of David.' Then his son Ahaz became the king of Judah.

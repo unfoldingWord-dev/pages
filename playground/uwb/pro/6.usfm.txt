@@ -32,7 +32,7 @@ agreement\add*!
 \q2 gathering and storing food to eat during the winter. 
 \b
 \q
-\v 9 But you lazy loafer, how long will you continue to sleep \f + \fr rhetorical question \f*?
+\v 9 But you lazy loafer, how long will you continue to sleep \f + \fk rhetorical question \f*?
 \q2 Are you never going to get up from sleeping \add and go to work\add*?
 \q
 \v 10 You sleep a for a little time; \add you say, “I will take\add* just a short nap.”
@@ -59,11 +59,11 @@ do\add*.
 \v 16 There are six, maybe seven, kinds of people that Yahweh hates. They are:
 \q3
 \v 17 People who show by their eyes that they are very proud; 
-\q3 people who lie \f + \fr metonymy \f*; 
-\q3 people \f + \fr synecdoche \f* who kill others \f + \fr synecdoche \f* who have done nothing wrong;
+\q3 people who lie \f + \fk metonymy \f*; 
+\q3 people \f + \fk synecdoche \f* who kill others \f + \fk synecdoche \f* who have done nothing wrong;
 \q3
 \v 18 people who plan to do evil deeds; 
-\q3 people \f + \fr synecdoche \f* who run quickly to do wrong things; 
+\q3 people \f + \fk synecdoche \f* who run quickly to do wrong things; 
 \q3
 \v 19 people who easily tell lies in court; 
 \q3 and people who cause strife between family members. 
@@ -75,15 +75,15 @@ do\add*.
 \v 21 Keep in your inner being the things that we have said. 
 \q2 Those things should be like a beautiful necklace around your neck.
 \q
-\v 22  \add If you follow our advice, it will be as though\add* what we have taught you \f + \fr personification \f* will lead you, wherever you go.
+\v 22  \add If you follow our advice, it will be as though\add* what we have taught you \f + \fk personification \f* will lead you, wherever you go.
 \q2 When you sleep, they will protect you. 
 \q2 And when you wake up in the morning, they will teach/instruct you.
 \q
-\v 23 These commands and what we teach you will be like a lamp to light your path \f + \fr metaphor \f*.
+\v 23 These commands and what we teach you will be like a lamp to light your path \f + \fk metaphor \f*.
 \q When we rebuke you and correct/punish you, 
 \q2 we will be showing you the road to having a good life. 
 \q
-\v 24 Heeding \f + \fr personification \f* these commands and things that we have taught you will enable you to keep away from immoral women
+\v 24 Heeding \f + \fk personification \f* these commands and things that we have taught you will enable you to keep away from immoral women
 \q2 and from \add listening to\add* the enticing words of an adulterous woman.
 \q
 \v 25 Even if such a woman is beautiful and has lovely eyes, do not desire to go with her.
@@ -92,13 +92,13 @@ do\add*.
 \v 26  \add Do not forget that\add* you can hire a prostitute for only a loaf of bread,
 \q2 but \add if you sleep with\add* another man's wife, ◄it may cost you/you may lose► your life.
 \q
-\v 27 Can you carry hot coals in your pocket and not be burned \f + \fr rhetorical question \f*?
+\v 27 Can you carry hot coals in your pocket and not be burned \f + \fk rhetorical question \f*?
 \q
 \v 28 Can you walk on burning coals and not scorch/burn your feet?
 \q
 \v 29  \add No\add*! And the same way, anyone who ◄sleeps with/has sex with► another man's wife will
 \add suffer for doing that\add*. 
-\q2 He will certainly \f + \fr litotes \f* be punished severely. 
+\q2 He will certainly \f + \fk litotes \f* be punished severely. 
 \b
 \q
 \v 30 We do not despise a thief if he steals some food because he is very hungry.

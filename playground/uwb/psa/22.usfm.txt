@@ -3,7 +3,7 @@
 \q
 \v 1 My God, my God, why have you abandoned/deserted me? 
 \q2 Why do you stay so far from me, 
-\q2 and why do you not hear/help me \f + \fr rhetorical question \f*? 
+\q2 and why do you not hear/help me \f + \fk rhetorical question \f*? 
 \q Why do you not hear me when I am groaning? 
 \q
 \v 2 My God, every day I call to you during the daytime, but you do not answer me.
@@ -11,7 +11,7 @@
 \b
 \q
 \v 3 But you are holy. 
-\q2 You sit on your throne as king, and we the people of Israel praise you \f + \fr personification \f*.
+\q2 You sit on your throne as king, and we the people of Israel praise you \f + \fk personification \f*.
 \q
 \v 4 Our ancestors trusted in you. 
 \q \add Because\add* they trusted in you, you rescued them. 
@@ -24,9 +24,9 @@ them\add* as you said that you would►.
 \v 6 But \add you have not rescued me\add*! 
 \q2 \add People despise me and consider that I am not a man\add*;
 \q2 \add they think that\add* I am a worm! 
-\q Everyone \f + \fr hyperbole \f* scorns me and despises me. 
+\q Everyone \f + \fk hyperbole \f* scorns me and despises me. 
 \q
-\v 7 Everyone who sees me \f + \fr hyperbole \f* makes fun of me. 
+\v 7 Everyone who sees me \f + \fk hyperbole \f* makes fun of me. 
 \q2 They sneer at me and \add insult me by\add* shaking their heads
 \add at me as though I were an evil man\add*. 
 \q They say, 
@@ -43,7 +43,7 @@ did\add* when I was born?
 \v 10  \add It was as though\add* you adopted me right when I was born.
 \q2 You have ◄been my God/taken care of me► ever since I was born.
 \q
-\v 11 So, ◄do not stay far from/stay close to► \f + \fr litotes \f* me now 
+\v 11 So, ◄do not stay far from/stay close to► \f + \fk litotes \f* me now 
 \q2 because \add enemies who will cause me much\add* trouble are near me,
 \q2 and there is no one \add else\add* who can help me. 
 \b
@@ -52,24 +52,24 @@ did\add* when I was born?
 \q2 \add Fierce people, like those\add* strong bulls that graze \add on the
 hills\add* in Bashan \add area\add*, encircle me. 
 \q
-\v 13  \add They are like\add* roaring lions that are attacking the animals that they want to kill \f + \fr metaphor \f*
+\v 13  \add They are like\add* roaring lions that are attacking the animals that they want to kill \f + \fk metaphor \f*
 \add and eat\add*; 
 \q2 they rush toward me \add to kill\add* me; 
 \q they \add are like lions that\add* have their mouths open, \add ready to chew their victims to
-pieces\add* \f + \fr metaphor \f*. 
+pieces\add* \f + \fk metaphor \f*. 
 \q
-\v 14 I am completely exhausted \f + \fr metaphor \f*, 
+\v 14 I am completely exhausted \f + \fk metaphor \f*, 
 \q2 and all my bones are out of their joints/places. 
 \q I \add no longer expect that God will save me\add*; 
 \q2 \add that expectation is gone completely\add*, like wax that has melted away.
 \q
-\v 15 My strength is \add all dried up\add* \f + \fr metaphor \f* 
+\v 15 My strength is \add all dried up\add* \f + \fk metaphor \f* 
 \q2 like a broken piece of a clay jar that has dried \add in the
 sun\add*. 
 \q2 \add I am so thirsty that\add* my tongue sticks to the roof of my mouth.
 \q2 O God, \add I think that you are about to let\add* my body die and become dust!
 \q
-\v 16 My enemies \f + \fr metaphor \f* surround me like a pack/group of wild dogs.
+\v 16 My enemies \f + \fk metaphor \f* surround me like a pack/group of wild dogs.
 \q2 A group of evil men has encircled me, \add ready to attack me\add*.
 \q2 They have already gnashed my hands and my feet. 
 \q
@@ -86,15 +86,15 @@ to\add* me.
 \q come quickly and help me! 
 \q
 \v 20 Rescue me from \add those who want to kill me with\add* their swords.
-\q2 Save my life from the power of those who are \add like wild/fierce\add* dogs \f + \fr metaphor \f*.
+\q2 Save my life from the power of those who are \add like wild/fierce\add* dogs \f + \fk metaphor \f*.
 \q
 \v 21 Snatch me away from \add my enemies who are\add* like lions whose jaws
 \add are already open, ready to chew me up\add*! 
 \q2 Grab me away from \add those men who are like\add* wild oxen
-\add that attack other animals with\add* their horns \f + \fr metaphor \f*! 
+\add that attack other animals with\add* their horns \f + \fk metaphor \f*! 
 \b
 \q
-\v 22  \add If you save me from them\add*, I will declare to my fellow Israelis how great you \f + \fr metonymy \f* are.
+\v 22  \add If you save me from them\add*, I will declare to my fellow Israelis how great you \f + \fk metonymy \f* are.
 \q2 I will praise you among the group of your people \add gathered together to worship
 you\add*. 
 \q

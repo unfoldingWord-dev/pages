@@ -3,11 +3,11 @@
 \p
 \v 1 Then Yahweh spoke to Job from inside a great windstorm. He said to him,
 \q
-\v 2 “◄Who are you to question what I plan to do?/You have no right/authority to question what I plan to do.► \f + \fr rhetorical question \f*
+\v 2 “◄Who are you to question what I plan to do?/You have no right/authority to question what I plan to do.► \f + \fk rhetorical question \f*
 \q2 You are speaking ignorantly! 
 \q
 \v 3 I want to ask you some questions, 
-\q2 so, just like men prepare themselves for a difficult task \f + \fr metaphor \f*,
+\q2 so, just like men prepare themselves for a difficult task \f + \fk metaphor \f*,
 \q2 prepare to answer my questions. 
 \b
 \q
@@ -81,7 +81,7 @@ ocean\add* from which the water in the seas comes?
 \q
 \v 23 I store the snow and the hail \add in order that I can use them to help my
 people\add* when they have troubles, 
-\q2 in times when they are fighting wars \f + \fr doublet \f*. 
+\q2 in times when they are fighting wars \f + \fk doublet \f*. 
 \q
 \v 24 And where is the road to the place from which I cause the lightning to flash?
 \q2 Where is the place from where the east wind begins to blow over all the earth?

@@ -2,7 +2,7 @@
 \s Acts 12:1-4 
 \s Herod had James killed and Peter put in prison. 
 \p
-\v 1 It was about this time that King Herod \add Agrippa sent soldiers\add* \f + \fr metonymy \f* who seized
+\v 1 It was about this time that King Herod \add Agrippa sent soldiers\add* \f + \fk metonymy \f* who seized
 \add and put in prison\add* some of the \add leaders\add* of the congregation
 \add in Jerusalem. He did that\add* because he wanted to make the believers suffer.
 \v 2 He commanded \add a soldier\add* to cut off the head of \add the
@@ -43,9 +43,9 @@ that\add led\add* out into the city. The gate opened by itself, and Peter and th
 \v 11 Then Peter \add finally\add* realized that \add what had\add*
 \add happened to him was not a vision, but\add* it had really happened. So he said
 \add to himself\add*, “Now I really know that the Lord \add God\add* sent an angel
-\add to help me\add*. He rescued me from what Herod planned to do \f + \fr metonymy \f*
+\add to help me\add*. He rescued me from what Herod planned to do \f + \fk metonymy \f*
 \add to me\add* and \add also\add* from all the things that the Jewish
-\add leaders\add* \f + \fr synecdoche \f* expected \add that Herod would do to me\add*.”
+\add leaders\add* \f + \fk synecdoche \f* expected \add that Herod would do to me\add*.”
 \s Acts 12:12-17 
 \s Peter reported to the other believers. 
 \p
@@ -61,7 +61,7 @@ believers\add* that Peter was standing outside the door.
 \v 15 But \add one of\add* them said to her, “You\add (sg)\add* are crazy!” But she continued saying that it was
 \add really true. Then\add* they repeatedly said, “\add No\add*,
 \add it cannot be Peter\add*. It is \add probably\add* the angel
-\add who was guarding\add* him\add who has come\add* \f + \fr (OR, It is the angel
+\add who was guarding\add* him\add who has come\add* \f + \ft (OR, It is the angel
 \add who has guarded/protected\add* him, \add and he has come to tell us
 that\add* Peter \add has died\add*.) \f*” 
 \v 16 But Peter continued knocking \add on the door. So when someone

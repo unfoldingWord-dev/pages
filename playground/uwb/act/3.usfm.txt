@@ -10,12 +10,12 @@ the time when people prayed \add there publicly\add*.
 \add or leaving\add* the temple courtyard to give him some money.
 \p
 \v 3 As Peter and John were about to enter \add the Temple courtyard\add*, he saw them and asked them several times to give him
-some money. \f + \fr (OR, he said to them several times, “Please give me some money!”)
+some money. \f + \ft (OR, he said to them several times, “Please give me some money!”)
 \v 4 As Peter and John looked directly at him, Peter said to him, “Look at us!”
 \v 5 So he looked directly at them, expecting to get some \add money\add* from them.
-\v 6 Then Peter said to him, “I do not have any money \f + \fr metonymy \f*, but what I
+\v 6 Then Peter said to him, “I do not have any money \f + \fk metonymy \f*, but what I
 \add can do\add*, I will \add do\add* for you. Jesus Christ, \add who
-was\add* from Nazareth \add town\add*, has authorized \f + \fr metonymy \f* me \add to heal you! So get up
+was\add* from Nazareth \add town\add*, has authorized \f + \fk metonymy \f* me \add to heal you! So get up
 and\add* walk!” 
 \v 7 Then Peter grasped his right hand and helped him to stand up. Immediately the man's feet and ankles became strong.
 \v 8 He jumped up and began to walk! Then he entered the Temple \add area\add* with them, walking and leaping and praising God!
@@ -33,8 +33,8 @@ him.
 \s Peter explained that Jesus healed the man, and they should repent.
 \p
 \v 12 When Peter saw that, he said to them, “fellow Israelites, ◄you should not be surprised about what has happened to this
-man!/why are you so surprised about what has happened to this man?► \f + \fr rhetorical question \f* And you should not stare at us, either! You seem to
-\f + \fr rhetorical question \f* think that the two of us enabled this man to walk because we\add (exc)\add* ourselves are powerful or because we please
+man!/why are you so surprised about what has happened to this man?► \f + \fk rhetorical question \f* And you should not stare at us, either! You seem to
+\f + \fk rhetorical question \f* think that the two of us enabled this man to walk because we\add (exc)\add* ourselves are powerful or because we please
 God very much! 
 \v 13  \add So I will tell you what is really happening\add*. Our ancestors, including Abraham, Isaac, and Jacob, worshipped
 God. And now he has greatly honored Jesus, who always served him. Your
@@ -57,7 +57,7 @@ we\add (exc)\add* trusted in Jesus that he has completely healed this man for al
 \add to Jesus\add* because you \add and they\add* did not know \add that he was the
 Messiah\add*. 
 \v 18 However, \add your putting him to death\add* was what God had predicted that people would do.
-\add Long ago\add* he told all the prophets \f + \fr metonymy \f* to write \add what people would do to the Messiah. They
+\add Long ago\add* he told all the prophets \f + \fk metonymy \f* to write \add what people would do to the Messiah. They
 wrote\add* that the Messiah, whom God \add would send\add*, would suffer
 \add and die\add*. 
 \v 19 So, turn away from your sinful behavior and ask God\add to help
@@ -72,15 +72,15 @@ people\add*.
 Messiah\add*: ‘The Lord ◄your God/the God whom you \add worship\add*► will cause someone to become a prophet to tell you
 \add words from God. God will send him\add* as \add he sent\add* me,
 \add and he will be\add* from among your own people. You must listen to everything that this prophet tells you
-\add and obey him\add* \f + \fr synecdoche \f*. 
+\add and obey him\add* \f + \fk synecdoche \f*. 
 \v 23  \add Those who\add* do not listen to \add that prophet and
 obey\add* him will no longer belong to God's people, and \add God\add* will get rid of them’.”
 \v 24  \add Peter continued\add*, “All the prophets have told \add about what would happen
-during\add* these days \f + \fr metonymy \f* \add in which we(inc) are living. Those prophets
+during\add* these days \f + \fk metonymy \f* \add in which we(inc) are living. Those prophets
 include\add* Samuel \add and all the others who\add* later also spoke
 \add about these events\add* before they happened. 
 \v 25 You \add as well as we(exc) \f*\add* are the people \add to whom God sent the Messiah,
-as\add* the prophets said \f + \fr metonymy \f* \add that he would\add*. And when God strongly promised
+as\add* the prophets said \f + \fk metonymy \f* \add that he would\add*. And when God strongly promised
 \add to bless\add* our ancestors, he also surely promised to bless you. He said to Abraham
 \add concerning the Messiah\add*, ‘\add I\add* will bless all people on the earth as a result of
 \add what\add* your descendant \add will do\add*.’” 

@@ -55,11 +55,11 @@ Asaph's son Joah, who communicated the king's messages to the people.
 \p
 \v 19 One of Sennacherib's important officials told them to take this message to Hezekiah:
 \p “This is what the king of Assyria, the great king, says: ‘What are you trusting in
-\add to rescue you\add* \f + \fr rhetorical question \f*? 
+\add to rescue you\add* \f + \fk rhetorical question \f*? 
 \v 20 You say that you have weapons to fight us and some country promises
-\add to help you\add*, \add and that will enable you to defeat us\add*, but that is only talk \f + \fr rhetorical question \f*. Who do you think will help
+\add to help you\add*, \add and that will enable you to defeat us\add*, but that is only talk \f + \fk rhetorical question \f*. Who do you think will help
 you to rebel against my \add soldiers from Assyria\add*? 
-\v 21 Listen to me! You are relying on the \add army of\add* Egypt. But that is like \f + \fr metaphor \f* using a broken reed for a walking
+\v 21 Listen to me! You are relying on the \add army of\add* Egypt. But that is like \f + \fk metaphor \f* using a broken reed for a walking
 stick on which you could lean. But it would pierce the hand of anyone who would lean on it! That is what the king of Egypt
 would be like for anyone who relied on him \add for help\add*. 
 \v 22 But perhaps you will say to me, “No, we are ◄relying on/trusting in► Yahweh our God
@@ -71,23 +71,23 @@ would be like for anyone who relied on him \add for help\add*.
 \v 23 So I suggest that you make a deal between you and my master/boss, the king of Assyria. I will give you 2,000 horses, but
 \add I do not think that\add* you are able to find 2000 of your men who can ride on them!
 \v 24 You are expecting the king of Egypt to send chariots and men riding horses
-\add to assist you\add*. But they certainly would not \f + \fr rhetorical question \f* be able to resist/defeat even the most insignificant/unimportant
+\add to assist you\add*. But they certainly would not \f + \fk rhetorical question \f* be able to resist/defeat even the most insignificant/unimportant
 official in the army of Assyria! 
 \v 25 Furthermore, ◄do you think that we have come to destroy Jerusalem without Yahweh's help?/do not think that we have come
-to Jerusalem without Yahweh's help.► \f + \fr rhetorical question \f* It is Yahweh himself who told us to come here and destroy this land!”
+to Jerusalem without Yahweh's help.► \f + \fk rhetorical question \f* It is Yahweh himself who told us to come here and destroy this land!”
 \p
 \v 26 Then Eliakim, Shebna and Joah said to the official from Assyria, “Sir, please speak to us in your Aramaic language,
 because we understand it. Do not speak to us in our Hebrew language, because the people who are standing on the wall will
 understand it \add and be frightened\add*.” 
 \p
-\v 27 But the official replied, “Do you think \f + \fr rhetorical question \f* that my master sent me to say these things only to you and not to the
+\v 27 But the official replied, “Do you think \f + \fk rhetorical question \f* that my master sent me to say these things only to you and not to the
 people who are standing on the wall? \add If you reject this message\add*, the
 \add people in this city\add* will soon need to eat their own dung and drink their own urine, just like you will,
 \add because there will be nothing more for you to eat or drink\add*.”
 \p
 \v 28 Then the official stood up and shouted in the Hebrew language
 \add to the people sitting on the wall\add*. He said, “Listen this message from the great king, the king of Assyria. He says,
-\v 29 ‘Do not allow Hezekiah to deceive you. He will not be able to rescue you from my power \f + \fr metonymy \f*.
+\v 29 ‘Do not allow Hezekiah to deceive you. He will not be able to rescue you from my power \f + \fk metonymy \f*.
 \v 30 Do not allow him to persuade you to rely on Yahweh, saying that Yahweh will rescue you, and that the army of Assyria will
 never capturing this city!’ 
 \p
@@ -98,12 +98,12 @@ trees, and to drink water from your own wells.
 make bread and vineyards to \add produce grapes for making\add* wine. It will be a land that has plenty of olive trees and
 honey. If you do what the king of Assyria commands, you will not die. You will continue to live.
 \p Do not allow Hezekiah to persuade you to trust in Yahweh saying that he will rescue you!
-\v 33 The gods that people of other nations worship have never rescued them from the power \f + \fr metonymy \f* of the king of Assyria \f + \fr rhetorical question \f*!
-\v 34 Why were the gods of Hamath and Arpad \add cities\add* unable to rescue their people from the king of Assyria \f + \fr rhetorical question \f*? What
+\v 33 The gods that people of other nations worship have never rescued them from the power \f + \fk metonymy \f* of the king of Assyria \f + \fk rhetorical question \f*!
+\v 34 Why were the gods of Hamath and Arpad \add cities\add* unable to rescue their people from the king of Assyria \f + \fk rhetorical question \f*? What
 happened to the gods of Sepharvaim, Hena, and Ivvah, \add towns that we completely destroyed and their gods
-disappeared\add* \f + \fr rhetorical question \f*? Did any god rescue Samaria from my power?
-\v 35 No, none of the gods of the countries \add that my army attacked\add* rescued their people \f + \fr rhetorical question \f* from me! So why do you
-think that Yahweh will rescue you people of Jerusalem from my power \f + \fr metonymy \f*?’ ”
+disappeared\add* \f + \fk rhetorical question \f*? Did any god rescue Samaria from my power?
+\v 35 No, none of the gods of the countries \add that my army attacked\add* rescued their people \f + \fk rhetorical question \f* from me! So why do you
+think that Yahweh will rescue you people of Jerusalem from my power \f + \fk metonymy \f*?’ ”
 \p
 \v 36 But the people \add who were listening\add* were silent. No one said anything, because King Hezekiah had told them,
 “\add When the official from Assyria talks to you\add*, do not answer him.”

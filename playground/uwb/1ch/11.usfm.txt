@@ -4,7 +4,7 @@
 \v 1 Then the people of Israel came to David at Hebron \add town\add* and said to him, “Listen, we have the same ancestors
 [IDI] that you have. 
 \v 2 In the past, when Saul was our king, it was you who led our Israeli
-\add soldiers in our battles\add*. You are the one to whom our God promised, ‘You will be the leader \f + \fr metaphor \f* of my people; you
+\add soldiers in our battles\add*. You are the one to whom our God promised, ‘You will be the leader \f + \fk metaphor \f* of my people; you
 will be their king.’ ” 
 \p
 \v 3 So all the Israeli elders came to David at Hebron. And David made a sacred agreement with them while Yahweh was listening.
@@ -50,7 +50,7 @@ some water from the well near the gate at Bethlehem!”
 \v 18 So the three greatest warriors forced through the camp of Philistia soldiers and drew some water from the well, and
 brought it to David. But he would not drink it. Instead, he poured it out
 \add on the ground to be an offering\add* to Yahweh. 
-\v 19 He said, “Yahweh, it would certainly not be right for me to drink this water! That would be like \f + \fr rhetorical question \f* drinking the blood
+\v 19 He said, “Yahweh, it would certainly not be right for me to drink this water! That would be like \f + \fk rhetorical question \f* drinking the blood
 of these men who were willing/ready to die for me!” So he refused to drink it.
 \p That was one of the things that David's three greatest warriors did.
 \p

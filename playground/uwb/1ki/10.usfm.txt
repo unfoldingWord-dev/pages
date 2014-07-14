@@ -1,7 +1,7 @@
 \c 10  
 \s The queen of Sheba visited Solomon 
 \p
-\v 1 The queen \add who ruled the\add* Sheba \add area\add* heard that Yahweh \f + \fr metonymy \f* had caused Solomon to become famous, so she
+\v 1 The queen \add who ruled the\add* Sheba \add area\add* heard that Yahweh \f + \fk metonymy \f* had caused Solomon to become famous, so she
 traveled to Jerusalem to ask him questions that were difficult \add to
 answer\add*. 
 \v 2 She came with a large group of wealthy/influential people, and she brought camels that were loaded with spices, and
@@ -9,7 +9,7 @@ valuable gems/stones, and a lot of gold. When she met Solomon, she asked him que
 was interested. 
 \v 3 Solomon answered all her questions. He explained everything that she asked about, even things that were very difficult.
 \v 4 The queen realized that Solomon was very wise. She saw his palace,
-\v 5 she saw the food that was served on his table \add every day\add*, she saw where his officials lived \f + \fr (OR, how his
+\v 5 she saw the food that was served on his table \add every day\add*, she saw where his officials lived \f + \ft (OR, how his
 officials were seated at the table), their uniforms, the servants who served the food and wine, and the sacrifices that he took
 to the temple to be offered. She was extremely amazed [IDI]. 
 \p

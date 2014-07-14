@@ -2,7 +2,7 @@
 \s -6- 
 \q
 \v 1 When you sit down to eat a meal with a ◄government official/king►,
-\q2 think carefully about what \f + \fr (OR, who) \f* is in front of you. 
+\q2 think carefully about what \f + \ft (OR, who) \f* is in front of you. 
 \q
 \v 2 Even if you ◄have a big appetite/want to eat a lot of food►,
 \q2 restrain yourself. 
@@ -14,9 +14,9 @@
 \v 4 Do not cause yourself to become very tired by working very hard to become rich;
 \q2 be wise and stop doing that, 
 \q
-\v 5 because as soon as you look \f + \fr metonymy \f* at \add all the money that you have
+\v 5 because as soon as you look \f + \fk metonymy \f* at \add all the money that you have
 acquired\add*, it will be gone; 
-\q2 it will disappear as if it suddenly grew wings \f + \fr simile \f* 
+\q2 it will disappear as if it suddenly grew wings \f + \fk simile \f* 
 \q2 and flew up into the sky like an eagle. 
 \s -8- 
 \q
@@ -54,10 +54,10 @@ meal\add* will be wasted.
 \v 14 and it may save them from \add going to\add* the place where dead people are.
 \s -13- 
 \q
-\v 15 My son/child, if you \f + \fr synecdoche \f* become wise, 
-\q2 I \f + \fr synecdoche \f* will be very happy. 
+\v 15 My son/child, if you \f + \fk synecdoche \f* become wise, 
+\q2 I \f + \fk synecdoche \f* will be very happy. 
 \q
-\v 16 I \f + \fr synecdoche \f* will rejoice when I hear you \f + \fr synecdoche \f* say what is right/wise.
+\v 16 I \f + \fk synecdoche \f* will rejoice when I hear you \f + \fk synecdoche \f* say what is right/wise.
 \s -14- 
 \q
 \v 17 Do not envy sinful people; 
@@ -78,7 +78,7 @@ meal\add* will be wasted.
 \s -16- 
 \q
 \v 22 Pay attention to what your father tells you, 
-\q2 and ◄do not neglect/take care of► \f + \fr litotes \f* your mother when she is old.
+\q2 and ◄do not neglect/take care of► \f + \fk litotes \f* your mother when she is old.
 \q
 \v 23 Try to know/learn what is wise, and get good instruction and understanding;
 \q2 and do not throw those things away. 
@@ -93,16 +93,16 @@ meal\add* will be wasted.
 \v 26 My son, heed what I say to you, 
 \q2 and allow what I do to be an example for you. 
 \q
-\v 27 Prostitutes and immoral women \f + \fr doublet \f* are like \f + \fr metaphor \f* a deep pit
+\v 27 Prostitutes and immoral women \f + \fk doublet \f* are like \f + \fk metaphor \f* a deep pit
 \q2 or well \add that you may fall into\add*. 
 \q
-\v 28 They wait for you like robbers \f + \fr simile \f*, 
+\v 28 They wait for you like robbers \f + \fk simile \f*, 
 \q2 and they cause many men to ◄be unfaithful to/have sex with women who are not► their wives.
 \s -18- 
 \q
-\v 29 I will tell you \f + \fr rhetorical question \f* what kind of people are always miserable and sad.
-\q2 I will tell you \f + \fr rhetorical question \f* which people are always causing arguments/quarrels and who are always complaining.
-\q I will tell you \f + \fr rhetorical question \f* who are injured in fights 
+\v 29 I will tell you \f + \fk rhetorical question \f* what kind of people are always miserable and sad.
+\q2 I will tell you \f + \fk rhetorical question \f* which people are always causing arguments/quarrels and who are always complaining.
+\q I will tell you \f + \fk rhetorical question \f* who are injured in fights 
 \q2 and whose eyes are always red/bloodshot. 
 \q
 \v 30 It is those who drink a lot of wine, 
@@ -112,13 +112,13 @@ meal\add* will be wasted.
 \add poured out\add* into cups, 
 \q2 and which tastes good as you drink it, 
 \q
-\v 32 because \add the next morning you will feel like\add* you have been bitten by a poisonous snake \f + \fr doublet \f*.
+\v 32 because \add the next morning you will feel like\add* you have been bitten by a poisonous snake \f + \fk doublet \f*.
 \q
-\v 33 You \f + \fr synecdoche \f* will \add think that you are\add* seeing strange/weird things,
-\q2 and you \f + \fr synecdoche \f* will not be able to think clearly or speak clearly.
+\v 33 You \f + \fk synecdoche \f* will \add think that you are\add* seeing strange/weird things,
+\q2 and you \f + \fk synecdoche \f* will not be able to think clearly or speak clearly.
 \q
 \v 34 You will think you are in a ship that is tossing on the sea;
-\q2 you be like \f + \fr simile \f* someone who is trying to sleep when the ship is rolling from one side to the other.
+\q2 you be like \f + \fk simile \f* someone who is trying to sleep when the ship is rolling from one side to the other.
 \q
 \v 35 You will say, “\add I think that\add* someone struck me, but he did not hurt me;
 \q2 he hit me, but I did not feel it. 

@@ -3,8 +3,8 @@
 \p
 \v 1 Then Yahweh said to Moses/me, “Go to the king and say to him, ‘This is what Yahweh, the one
 \add we\add* Hebrews \add worship\add*, says: “Allow my people to go, in order that they may worship me.
-\v 2 If you still refuse to let them go \f + \fr doublet \f*, 
-\v 3 I warn you that I will punish you with my power \f + \fr metonymy \f* by sending a terrible disease on all your animals—on your horses,
+\v 2 If you still refuse to let them go \f + \fk doublet \f*, 
+\v 3 I warn you that I will punish you with my power \f + \fk metonymy \f* by sending a terrible disease on all your animals—on your horses,
 donkeys, camels, on your cattle, and on your flocks \add of sheep and
 goats\add*. 
 \v 4 But I, Yahweh, will distinguish between \add what I do to\add* the animals that belong to the Israeli people and
@@ -12,7 +12,7 @@ goats\add*.
 \v 5  \add Tell him that\add* I have determined/decided that tomorrow is the day that I will do this in this land.”
 \p
 \v 6 The next day Yahweh did just what he said \add that he would
-do\add*. A terrible disease afflicted all of the Egyptians' animals, and many of them \f + \fr hyperbole \f* died. But none of the Israeli
+do\add*. A terrible disease afflicted all of the Egyptians' animals, and many of them \f + \fk hyperbole \f* died. But none of the Israeli
 people's animals died. 
 \v 7 The king sent \add men to investigate\add*, and they were surprised
 \add to see\add* that none of the Israeli people's animals had died. But
@@ -27,7 +27,7 @@ cause boils to afflict both the Egyptian people and their animals, all over the 
 \v 10 So they both got some ashes/soot and \add went and\add* stood in front of the king. Moses/I threw the ashes/soot up into
 the air. The ashes/soot spread all over, causing boils to afflict the
 \add Egyptian\add* people and their animals. All the boils became open sores.
-\v 11 Even the men who worked magic had boils. The result was that they were not able to come to \f + \fr (OR, oppose) \f* Moses/me, because
+\v 11 Even the men who worked magic had boils. The result was that they were not able to come to \f + \ft (OR, oppose) \f* Moses/me, because
 the men who worked magic had boils just like all \add the rest of\add* the Egyptian people.
 \v 12 But Yahweh caused the king to \add continue to\add* be stubborn [IDI]. He did not pay any attention to what they/we
 \add said\add*, just as Yahweh had told Moses/me \add would happen\add*.
@@ -37,12 +37,12 @@ the men who worked magic had boils just like all \add the rest of\add* the Egypt
 that Yahweh God, the one that the Hebrew people \add worship\add*, says this: ‘Let my people go, in order that they may worship
 me \add in the desert\add*. 
 \v 14  \add If you do not let them go\add*, this time I will \add punish\add* with plagues
-\add not only\add* your officials and the rest of your people, but I will punish you yourself \f + \fr synecdoche \f*, in order that you will
+\add not only\add* your officials and the rest of your people, but I will punish you yourself \f + \fk synecdoche \f*, in order that you will
 know there is no \add god\add* like me anywhere in the world. 
-\v 15 By this time I could have used my power \f + \fr metonymy \f* to strike you and your people with terrible diseases that would have wiped
+\v 15 By this time I could have used my power \f + \fk metonymy \f* to strike you and your people with terrible diseases that would have wiped
 you all from the earth. 
 \v 16 But I have let you live. The reason I have let you live is to show you my power, with the result that
-\add people\add* all over the earth \f + \fr hyperbole \f* will know how great I \f + \fr metonymy \f* am.
+\add people\add* all over the earth \f + \fk hyperbole \f* will know how great I \f + \fk metonymy \f* am.
 \v 17 You are still acting proudly and refusing to let my people go.
 \v 18 So listen \add to this:\add* about this time tomorrow I will cause very heavy hail to fall
 \add in Egypt\add*. From the time Egypt first became \add a country\add*, there has never been a hailstorm

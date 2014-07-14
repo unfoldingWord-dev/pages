@@ -18,7 +18,7 @@
 \b
 \q
 \v 5 Those who ◄flatter others/say nice things to others merely to cause them to feel good► are really setting a trap for them
-\f + \fr (OR, for themselves) \f + \fr synecdoche \f*. 
+\f + \ft (OR, for themselves) \f + \fk synecdoche \f*. 
 \b
 \q
 \v 6 Evil people will be trapped by the sins that they commit, 
@@ -70,7 +70,7 @@ that\add* cause everyone in the city to ◄be agitated/in turmoil►;
 \q
 \v 17 If you discipline your children, they will no longer \add do things
 that\add* will cause you to be worried; 
-\q2 they will do things that will delight you \f + \fr synecdoche \f*. 
+\q2 they will do things that will delight you \f + \fk synecdoche \f*. 
 \b
 \q
 \v 18 When the people \add of a nation\add* do not receive/hear messages that come directly from God, they do not control their
@@ -82,7 +82,7 @@ behavior.
 \q2 they understand what you are saying, but they do not pay attention to it.
 \b
 \q
-\v 20  \add God\add* can help/bless foolish people more easily \f + \fr rhetorical question \f*
+\v 20  \add God\add* can help/bless foolish people more easily \f + \fk rhetorical question \f*
 \q2 than he can help/bless people who speak without thinking first.
 \b
 \q
@@ -105,7 +105,7 @@ behavior.
 \q2 \add and as a result, God will curse them\add*. 
 \b
 \q
-\v 25 It is like a dangerous trap \f + \fr metaphor \f* for people to be ◄afraid of/worried about► what others will think about them,
+\v 25 It is like a dangerous trap \f + \fk metaphor \f* for people to be ◄afraid of/worried about► what others will think about them,
 \q2 but those who trust in Yahweh are safe/protected. 
 \b
 \q

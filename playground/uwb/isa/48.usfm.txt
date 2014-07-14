@@ -1,7 +1,7 @@
 \c 48  
 \s The people of Israel are stubborn 
 \q
-\v 1  \add Yahweh says\add*, “You descendants \f + \fr metonymy \f* of Jacob, 
+\v 1  \add Yahweh says\add*, “You descendants \f + \fk metonymy \f* of Jacob, 
 \q2 who are also descendants of Judah and are now called \add the people
 of\add* Israel, 
 \q2 Listen to me! 
@@ -14,11 +14,11 @@ of\add* Israel,
 \q2 and \add you insincerely say\add* that you are relying on me, the God to whom you people of Israel belong,
 \q2 the one who is the Almighty Commander of the armies of angels.
 \q
-\v 3 Long ago I \f + \fr metonymy \f* predicted what would happen \f + \fr doublet \f*. 
+\v 3 Long ago I \f + \fk metonymy \f* predicted what would happen \f + \fk doublet \f*. 
 \q2 And then suddenly, I caused those things to happen. 
 \q
 \v 4 I knew that you people are very stubborn; 
-\q2 I knew that your heads are \f + \fr metaphor \f* as hard as iron or brass \f + \fr doublet \f*.
+\q2 I knew that your heads are \f + \fk metaphor \f* as hard as iron or brass \f + \fk doublet \f*.
 \q
 \v 5 That is why I told you those things long ago. 
 \q2 Long before they occurred, I announced that they would occur,
@@ -28,7 +28,7 @@ of\add* Israel,
 \q
 \v 6 You have heard those things \add that I predicted\add* 
 \q2 and now you have seen that they have all occurred, 
-\q so why do you not admit it \f + \fr rhetorical question \f*? 
+\q so why do you not admit it \f + \fk rhetorical question \f*? 
 \b
 \q Now I will tell you new things, 
 \q2 things that you have not known previously. 
@@ -40,38 +40,38 @@ of\add* Israel,
 \v 8  \add I will tell you about\add* things that you have never heard about or understood before.
 \q2 Even long ago you did not pay attention to me [IDI]. 
 \q I know that you act very deceitfully/treacherously; 
-\q2 you have rebelled against me since you first became a nation \f + \fr metonymy \f*.
+\q2 you have rebelled against me since you first became a nation \f + \fk metonymy \f*.
 \q
 \v 9 But, for my own sake, in order that I will be honored, 
-\q2 I will not punish \f + \fr metonymy \f* you immediately 
+\q2 I will not punish \f + \fk metonymy \f* you immediately 
 \q2 and I will not completely get rid of you. 
 \q
 \v 10 I have purified you, but not the way \add people refine\add* silver.
 \q Instead, I have caused you to suffer very much \add to get rid of your impure
 behavior\add* 
-\q2 like \f + \fr metaphor \f* \add people put metal in a very hot\add* furnace \add to get rid of the
+\q2 like \f + \fk metaphor \f* \add people put metal in a very hot\add* furnace \add to get rid of the
 impurities\add*. 
 \q
-\v 11 But for my \f + \fr metonymy \f* own sake I will delay punishing you more;
+\v 11 But for my \f + \fk metonymy \f* own sake I will delay punishing you more;
 \q I will do it for my own sake 
-\q2 in order that my reputation will not be damaged \f + \fr rhetorical question \f*. 
+\q2 in order that my reputation will not be damaged \f + \fk rhetorical question \f*. 
 \q I will not allow any \add person or any idol\add* to be honored as I
 \add deserve to be\add* honored.” 
 \s The people of Israel should leave Babylon because that city will be destroyed
 \q
-\v 12 “You descendants \f + \fr metonymy \f* of Jacob, you people of Israel whom I have chosen,
+\v 12 “You descendants \f + \fk metonymy \f* of Jacob, you people of Israel whom I have chosen,
 \q2 listen to me! 
 \q Only I am God; 
 \q2 I am the one who begins everything and who causes everything to end.
 \q
-\v 13 I \f + \fr synecdoche \f* am the one who laid the foundation of he earth. 
+\v 13 I \f + \fk synecdoche \f* am the one who laid the foundation of he earth. 
 \q2 I stretched out the sky with my hand. 
 \q And when I tell \add the stars\add* to appear, 
 \q2 they all do what I tell them. 
 \b
 \q
 \v 14 All of you, gather together and listen to me. 
-\q2 None of your idols have \f + \fr rhetorical question \f* told this to you: 
+\q2 None of your idols have \f + \fk rhetorical question \f* told this to you: 
 \q I, Yahweh, have chosen \add Cyrus\add* to assist me, 
 \q2 and he will do to Babylon what I want him to do, 
 \q2 and his army will get rid of the army of Babylonia. 
@@ -83,7 +83,7 @@ impurities\add*.
 \b
 \p
 \v 16 Come close to me and listen to what I say. 
-\q Long ago \f + \fr metonymy \f* I told you plainly/clearly \f + \fr litotes \f* \add what would
+\q Long ago \f + \fk metonymy \f* I told you plainly/clearly \f + \fk litotes \f* \add what would
 happen\add*, 
 \q2 and when those things occurred, I was \add causing them to happen\add*.”
 \b
@@ -93,19 +93,19 @@ message\add*.
 \v 17 This is what Yahweh, the one who saves you, the Holy God of us Israelis, says:
 \q2 “I am Yahweh, your God; 
 \q I teach you what is important for you \add to know\add*; 
-\q2 I direct you and lead you to the roads that you should walk on \f + \fr metaphor \f*.
+\q2 I direct you and lead you to the roads that you should walk on \f + \fk metaphor \f*.
 \q
 \v 18 I wish that you had paid attention to my commands! 
 \q2 If you had done that, things would have gone well for you 
-\q2 like \f + \fr simile \f* a river that flows gently; 
+\q2 like \f + \fk simile \f* a river that flows gently; 
 \q you would have been successful again and again, 
-\q2 like \f + \fr simile \f* waves that come without ceasing. 
+\q2 like \f + \fk simile \f* waves that come without ceasing. 
 \q
-\v 19 Your descendants would have been \add as many as\add* \f + \fr metaphor \f* the grains of sand
+\v 19 Your descendants would have been \add as many as\add* \f + \fk metaphor \f* the grains of sand
 \add on the seashore\add* 
 \q2 \add which no one can count\add*. 
 \q I would not have needed to get rid of them; 
-\q2 the country of \f + \fr metonymy \f* Israel would not have been destroyed.” 
+\q2 the country of \f + \fk metonymy \f* Israel would not have been destroyed.” 
 \b
 \q
 \v 20  \add However, now I tell you\add*, 

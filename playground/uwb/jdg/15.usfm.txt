@@ -2,11 +2,11 @@
 \s Samson got revenge on the Philistines 
 \p
 \v 1 During the time that they harvested wheat, Samson took a young goat to Timnah as a present for his wife. He planned to
-sleep with \f + \fr euphemism \f* his wife, but her father would not let him go into
+sleep with \f + \fk euphemism \f* his wife, but her father would not let him go into
 \add her room\add*. 
 \p
 \v 2 He said to Samson, “I really thought that you hated her. So I gave her to the man who was her best friend at the wedding,
-and she married him. But look, her younger sister is \f + \fr rhetorical question \f* more beautiful than she is. You can marry her!”
+and she married him. But look, her younger sister is \f + \fk rhetorical question \f* more beautiful than she is. You can marry her!”
 \p
 \v 3 Samson replied, “No! And this time I have a right to get revenge on you Philistines!”
 \v 4 Then he went out \add into the fields\add* and caught 300 foxes. He tied their tails together, two-by-two. He fastened

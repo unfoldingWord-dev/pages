@@ -13,21 +13,21 @@
 \q2 and I do not know \add much\add* about God. 
 \q
 \v 4  \add But let me say this:\add* 
-\q No one \f + \fr rhetorical question \f* has ascended to heaven \add to find out what God is
+\q No one \f + \fk rhetorical question \f* has ascended to heaven \add to find out what God is
 like\add* and returned \add to tell us\add*. 
-\q No one \f + \fr rhetorical question \f* has gathered/held the wind in his hand. 
-\q No one \f + \fr rhetorical question \f* has wrapped the water \add in the ocean\add* in \add a piece
+\q No one \f + \fk rhetorical question \f* has gathered/held the wind in his hand. 
+\q No one \f + \fk rhetorical question \f* has wrapped the water \add in the ocean\add* in \add a piece
 of\add* cloth 
-\q2 and no one \f + \fr rhetorical question \f* has established the boundaries of the earth.
-\q \add If you know those things, tell me\add* \f + \fr rhetorical question \f* his name, and the names of his children \f + \fr sarcasm \f*.
+\q2 and no one \f + \fk rhetorical question \f* has established the boundaries of the earth.
+\q \add If you know those things, tell me\add* \f + \fk rhetorical question \f* his name, and the names of his children \f + \fk sarcasm \f*.
 \q \add But you do not know those things, so you cannot speak with authority about what God is
 like\add*. 
 \b
 \q
 \v 5 Everything that God has said is true; 
-\q2 he is like a shield \f + \fr metaphor \f* for all those who request him to protect them.
+\q2 he is like a shield \f + \fk metaphor \f* for all those who request him to protect them.
 \q
-\v 6 Do not add to \f + \fr (OR, change) what God has said; 
+\v 6 Do not add to \f + \ft (OR, change) what God has said; 
 \q2 if you do that, he will rebuke you and show that you are lying.
 \b
 \q
@@ -39,7 +39,7 @@ like\add*.
 \q2 Just give me the food that I need; 
 \q
 \v 9 because if I become rich, 
-\q2 I might say that I do not \f + \fr rhetorical question \f* know you and that I do not need you;
+\q2 I might say that I do not \f + \fk rhetorical question \f* know you and that I do not need you;
 \q and if I become poor, 
 \q2 I might dishonor you by stealing things. 
 \s More wise sayings 
@@ -59,16 +59,16 @@ like\add*.
 \q2 they think that they are very good and they despise others. 
 \q
 \v 14 Some people \add act very cruelly toward others\add*; 
-\q2 \add it is as though\add* \f + \fr metaphor \f* they have teeth that are like sharp knives;
+\q2 \add it is as though\add* \f + \fk metaphor \f* they have teeth that are like sharp knives;
 \q they severely oppress poor people 
 \q2 and try to cause them to disappear from the land. 
 \b
 \q
 \v 15 Leeches \add are always wanting more blood to suck\add*; 
-\q2 \add similarly, greedy people are always saying\add* “Give me some!” or “Give me more!” \f + \fr metaphor \f*
+\q2 \add similarly, greedy people are always saying\add* “Give me some!” or “Give me more!” \f + \fk metaphor \f*
 \b
 \q There are four things that are never ◄satisfied/content with what they have►;
-\q2 they always want more \f + \fr litotes \f*: 
+\q2 they always want more \f + \fk litotes \f*: 
 \q
 \v 16 The place where the dead people are; 
 \q women who do not have any children; 
@@ -76,7 +76,7 @@ like\add*.
 \q and a fire that always needs more wood. 
 \b
 \q
-\v 17 Those who \f + \fr synecdoche \f* make fun of their fathers 
+\v 17 Those who \f + \fk synecdoche \f* make fun of their fathers 
 \q2 or refuse to obey their mothers (OR, despise their aged mothers) \f*
 \q should \add die and\add* have their eyes pecked out by crows,
 \q2 and the rest of their corpses should be fed to the vultures.
@@ -92,7 +92,7 @@ like\add*.
 \b
 \q
 \v 20 This is what a woman who ◄is not faithful to/does not have sex only with► her husband does:
-\q2 she commits adultery \f + \fr euphemism \f*, and then bathes 
+\q2 she commits adultery \f + \fk euphemism \f*, and then bathes 
 \q2 and says, “I have not done anything that is wrong!” 
 \b
 \q
@@ -122,7 +122,7 @@ safe\add*.
 \q2 but they are \add cleverly able to get\add* inside kings' palaces.
 \b
 \q
-\v 29 There are four animals that strut around and look very impressive while they walk \f + \fr doublet \f*:
+\v 29 There are four animals that strut around and look very impressive while they walk \f + \fk doublet \f*:
 \q
 \v 30 Lions, which are stronger than all other animals 
 \q2 and are not afraid of any of them; 

@@ -2,7 +2,7 @@
 \s 1 Corinthians 4:1-7 
 \s Stop judging your leaders' value; do not be proud of one and despise another.
 \p
-\v 1 So, people ought to consider us \add apostles\add* \f + \fr (OR, Apollos and me) to be
+\v 1 So, people ought to consider us \add apostles\add* \f + \ft (OR, Apollos and me) to be
 \add merely\add* servants of Christ. God has given to us\add (exc) the work
 of\add* telling others the message that God has now revealed to us.
 \v 2 With respect to doing that, those who are given work are required {give others some work to do require them} to do that
@@ -12,7 +12,7 @@ I do not even judge myself \add about that\add*.
 \v 4 I do not think that I have done anything wrong, but that does not prove that I have done nothing wrong. The Lord is the
 one who judges me. 
 \v 5 So stop judging any of us\add (exc)\add* before the time \add when God judges
-everyone\add* \f + \fr metonymy \f*! Do not judge us before the Lord comes. He is the one who will reveal the sinful things that people have
+everyone\add* \f + \fk metonymy \f*! Do not judge us before the Lord comes. He is the one who will reveal the sinful things that people have
 done secretly. He will even reveal what people have thought in their minds. At that time God will praise each person
 as\add each one of them deserves\add*. 
 \p
@@ -21,19 +21,19 @@ for your sake, in order that you may learn \add to live according
 to\add* the saying, “Do not act contrary to what is {what they have} written
 \add in the Scriptures\add*.” If you follow that rule, you will not be proud of one
 \add spiritual leader\add* and despise another. 
-\v 7 ◄No one has made any of you superior to others!/Why do any of you think that you are superior to others?► \f + \fr rhetorical question \f*
+\v 7 ◄No one has made any of you superior to others!/Why do any of you think that you are superior to others?► \f + \fk rhetorical question \f*
 \add All the abilities\add* that you have, ◄you received\add from
-God\add*./did you not receive them \add from God\add*?► \f + \fr rhetorical question \f* So if you received them all
+God\add*./did you not receive them \add from God\add*?► \f + \fk rhetorical question \f* So if you received them all
 \add from God\add*, ◄you should not boast \add thinking\add*, “I got these abilities
 \add from myself\add*, \add not from God\add*!”/why do you boast
 \add thinking\add*, “I got these abilities \add from myself\add*,
-\add not from God\add*?”► \f + \fr rhetorical question \f* 
+\add not from God\add*?”► \f + \fk rhetorical question \f* 
 \s 1 Corinthians 4:8-13 
 \s It is disgusting that you are so proud of your spiritual gifts and that you despise us apostles.
 \p
-\v 8  \add It is disgusting that you act as though\add* \f + \fr irony \f* you have already received everything that you need
-\add spiritually\add*. You act as though \f + \fr irony \f* you were \add spiritually\add* rich (OR, you had received all
-\add the spiritual gifts you need\add*). You act as though \f + \fr irony \f* you had already begun to rule as kings with Christ. Well, I
+\v 8  \add It is disgusting that you act as though\add* \f + \fk irony \f* you have already received everything that you need
+\add spiritually\add*. You act as though \f + \fk irony \f* you were \add spiritually\add* rich (OR, you had received all
+\add the spiritual gifts you need\add*). You act as though \f + \fk irony \f* you had already begun to rule as kings with Christ. Well, I
 wish that you really were ruling \add with him\add*, in order that we
 \add apostles\add* might also rule with you! 
 \v 9 But it seems as though God has put us \add apostles\add* on display at the end of the line.
@@ -41,9 +41,9 @@ We\add (exc) \f*\add* are like men who have been condemned to die, who have been
 \add the wild animals\add* killing them. And not only people, but even angels all over the world
 \add are watching us, as people\add* watch those who are performing a play
 \add in a theater\add*. 
-\v 10 Many people consider us to be \f + \fr irony \f* fools because \add we preach
-about\add* Christ, but you proudly \add think \f + \fr irony \f* that\add* you are wise because ◄of your close relationship with/you belong
-to► Christ. Many people \add consider us\add* \f + \fr irony \f* to be unimpressive, but you
+\v 10 Many people consider us to be \f + \fk irony \f* fools because \add we preach
+about\add* Christ, but you proudly \add think \f + \fk irony \f* that\add* you are wise because ◄of your close relationship with/you belong
+to► Christ. Many people \add consider us\add* \f + \fk irony \f* to be unimpressive, but you
 \add proudly think that you\add* impress others. People respect you, but they do not respect us.
 \v 11 Up to this present time we have often been hungry. We have often been thirsty. We have ragged clothes. Often we have been
 beaten {others have beaten us}. We \add have traveled so much that
@@ -52,7 +52,7 @@ we\add* have no regular homes to live in.
 \add by people\add* {When \add people\add* curse us}, we \add ask God
 to\add* bless them. When we are persecuted {When \add people\add* cause us to suffer}, we endure it.
 \v 13 When we are slandered \add by people\add* {When \add people\add* slander us}, we reply kindly to them. Up to this present
-time \add unbelievers\add* \add consider us to be worthless\add* \f + \fr metaphor \f*,
+time \add unbelievers\add* \add consider us to be worthless\add* \f + \fk metaphor \f*,
 \add as though we were\add* garbage and a rubbish heap. 
 \s 1 Corinthians 4:14-17 
 \s Imitate the way in which I serve Christ. 
@@ -61,7 +61,7 @@ time \add unbelievers\add* \add consider us to be worthless\add* \f + \fr metaph
 \add though you were\add* my dear children. 
 \v 15 I say that because as \add an apostle of\add* Christ Jesus I
 \add was the first one who\add* proclaimed the good message to you. As a result, I was the one who enabled you to receive
-eternal life. So even if there were thousands of Christians who instruct you \f + \fr metaphor \f*, I am the only one who became
+eternal life. So even if there were thousands of Christians who instruct you \f + \fk metaphor \f*, I am the only one who became
 \add like\add* a father to you. 
 \v 16 So I urge you to \add live for Christ\add* the way I do. 
 \v 17 In order to \add help you do that\add*, I have sent/will be sending Timothy to you. I love him

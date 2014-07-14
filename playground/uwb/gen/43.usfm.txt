@@ -4,7 +4,7 @@
 \v 1 The famine in Canaan got worse. 
 \v 2 Finally, when Jacob and his family had eaten all the grain they had brought from Egypt, Jacob said to them, “Go back to
 Egypt and buy some more grain for us!” 
-\v 3 But Judah said to him, “The man who sold us the grain warned us sternly, ‘I will not let you see me \f + \fr synecdoche \f* again if you
+\v 3 But Judah said to him, “The man who sold us the grain warned us sternly, ‘I will not let you see me \f + \fk synecdoche \f* again if you
 come and your younger brother is not with you.’ 
 \v 4 So, if you will send our younger brother with us, we will go down to Egypt and buy some grain for you.
 \v 5 But if you will not send him, we will not go down there, because that man said to us, ‘I will not let you see me again if
@@ -13,7 +13,7 @@ your younger brother is not with you.’ ”
 \v 7 One of them replied, “The man asked about us and about our family. He said, ‘Is your father still living? Do you have
 another brother?’ We had to answer his questions. ◄We could not know that he would say, ‘The next time that you come down here,
 bring your brother with you!’/How could we know that he would say, ‘The next time that you come down here, bring your brother
-with you!’►” \f + \fr rhetorical question \f* 
+with you!’►” \f + \fk rhetorical question \f* 
 \p
 \v 8 Then Judah said to his father Jacob, “Send the boy with me, and we will go immediately, in order that we and you and our
 children may get grain and not die from hunger. 

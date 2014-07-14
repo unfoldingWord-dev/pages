@@ -23,7 +23,7 @@ sad\add*.
 \q2 because there is no grass in the fields \add for them to eat\add*.
 \q
 \v 6 The wild donkeys stand on the barren hills, 
-\q2 panting like \f + \fr simile \f* thirsty jackals/wolves. 
+\q2 panting like \f + \fk simile \f* thirsty jackals/wolves. 
 \q They become blind 
 \q2 because there is no grass to eat. 
 \b
@@ -31,7 +31,7 @@ sad\add*.
 \v 7  \add The people say\add*, “Yahweh, we have turned away from you and sinned many times,
 \q2 and now we know that we are being punished because of our sins,
 \q but please help us 
-\q2 in order that everyone can see that you are very great \f + \fr metonymy \f*.
+\q2 in order that everyone can see that you are very great \f + \fk metonymy \f*.
 \q
 \v 8 You are the one whom we Israelis confidently expect \add to do good things for
 us\add* 
@@ -49,7 +49,7 @@ us\add*?
 \p
 \v 10 And this is what Yahweh says to those people: 
 \q “You love to wander away \add from me\add*; 
-\q2 you run \f + \fr metonymy \f* from one \add idol\add* to another. 
+\q2 you run \f + \fk metonymy \f* from one \add idol\add* to another. 
 \q Therefore, now I will no longer accept you, 
 \q2 and I will punish you for your sins.” 
 \b
@@ -60,10 +60,10 @@ offerings \add of animals\add* to be completely burned \add on the
 altar\add* and their offerings of grain, I will not accept them. Instead, I will get rid of them by wars, by famines, and by
 diseases.” 
 \p
-\v 13 Then I replied to him, “Yahweh my God, their prophets are telling the people that they will not experience wars \f + \fr metonymy \f* or
+\v 13 Then I replied to him, “Yahweh my God, their prophets are telling the people that they will not experience wars \f + \fk metonymy \f* or
 famines. They are telling the people that you will surely allow us to have peace in our land for many years.”
 \p
-\v 14 Yahweh replied to me, “Those prophets say that they are speaking what I tell them to say \f + \fr metonymy \f*, but they are telling
+\v 14 Yahweh replied to me, “Those prophets say that they are speaking what I tell them to say \f + \fk metonymy \f*, but they are telling
 lies. I did not send them, so what they are saying is false. They say that they have received visions from me, and that they
 are telling things that I have revealed to them, but that is not true. They are saying foolish things that they have only
 thought of themselves. 
@@ -79,23 +79,23 @@ deserve to be punished.
 \q ‘Day and night my eyes are full of tears. 
 \q2 I cannot stop crying. 
 \q I cry for my people, 
-\q2 who are \add very precious to me, as if they were\add* \f + \fr metaphor \f* my daughters.
+\q2 who are \add very precious to me, as if they were\add* \f + \fk metaphor \f* my daughters.
 \q2 I cry for them because they have been severely wounded; 
-\q2 they have been severely crushed \f + \fr doublet \f*. 
+\q2 they have been severely crushed \f + \fk doublet \f*. 
 \q
 \v 18 If I go out into the fields, 
 \q2 I see \add corpses of\add* people who have been slaughtered by our enemies.
 \q If I walk along the streets of the city, 
 \q2 I see \add corpses of people who died\add* from hunger. 
 \q The prophets and the priests travel through the land, preaching to people,
-\q2 but they do not know \add what they are doing\add* \f + \fr (OR, \add in a
+\q2 but they do not know \add what they are doing\add* \f + \ft (OR, \add in a
 land\add* that they know nothing about) \f*.’ ” 
 \s Jeremiah's prayer 
 \p
 \v 19 Then I prayed this: 
 \q “Yahweh, have you completely rejected \add the people of\add* Judah?
-\q2 Do you really despise \add the people of\add* Jerusalem \f + \fr metonymy \f*?
-\q Why have you \f + \fr rhetorical question \f* wounded us very badly, 
+\q2 Do you really despise \add the people of\add* Jerusalem \f + \fk metonymy \f*?
+\q Why have you \f + \fk rhetorical question \f* wounded us very badly, 
 \q2 with the result that we will never be healed? 
 \q We hoped that we would have peace, 
 \q2 but there was no peace. 
@@ -106,13 +106,13 @@ land\add* that they know nothing about) \f*.’ ”
 \q2 and that our ancestors also did many wicked things. 
 \q We have all sinned against you. 
 \q
-\v 21 But Yahweh, in order that we may honor \f + \fr metonymy \f* you, 
+\v 21 But Yahweh, in order that we may honor \f + \fk metonymy \f* you, 
 \q2 do not despise/abandon us. 
-\q Do not dishonor \add the city where\add* \f + \fr metonymy \f* your glorious throne is.
+\q Do not dishonor \add the city where\add* \f + \fk metonymy \f* your glorious throne is.
 \q Please do not forget us, 
 \q2 and do not ◄break your agreement with us/stop doing what you agreed to do for us►.
 \q
-\v 22 Those idols that \add have been brought from\add* other nations certainly cannot \f + \fr rhetorical question \f* bring rain to us,
-\q2 and the sky certainly cannot \f + \fr rhetorical question \f* cause rain to fall. 
+\v 22 Those idols that \add have been brought from\add* other nations certainly cannot \f + \fk rhetorical question \f* bring rain to us,
+\q2 and the sky certainly cannot \f + \fk rhetorical question \f* cause rain to fall. 
 \q Yahweh our God, you are the only one who can do things like that.
 \q2 So we will confidently expect you \add to help us\add*.” 

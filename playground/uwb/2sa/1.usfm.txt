@@ -30,18 +30,18 @@ I took the crown that was on his head and the band/bracelet that was on his arm,
 \add to show that they were very sad\add*. 
 \v 12 They mourned for Saul and his son Jonathan, and they cried and ◄fasted/abstained from eating food► until it was evening.
 They also mourned for all the army of Yahweh, and for all the Israeli people, because many of their soldiers had been killed in
-the battle \f + \fr metonymy \f*. 
+the battle \f + \fk metonymy \f*. 
 \p
 \v 13 Then David asked the young man who had told him \add about the
 battle\add*, “Where are you from?” He replied, “My father is a descendant of Amalek, but we live in Israel.”
 \p
 \v 14 David asked him, “◄Why were you not afraid \add that you would be punished if
-you\add* killed Saul, whom Yahweh had appointed \f + \fr metonymy \f* \add to be the
+you\add* killed Saul, whom Yahweh had appointed \f + \fk metonymy \f* \add to be the
 king\add*?/You should have been afraid \add that you would be punished if
-you\add* killed Saul, whom Yahweh had appointed \f + \fr metonymy \f* \add to be the
-king\add*.► \f + \fr rhetorical question \f* 
+you\add* killed Saul, whom Yahweh had appointed \f + \fk metonymy \f* \add to be the
+king\add*.► \f + \fk rhetorical question \f* 
 \v 15-16 You yourself said, ‘I killed the man whom Yahweh appointed to be the king.’ So you have caused yourself to be guilty
-\f + \fr metonymy \f* of causing your own death!” Then David summoned one of his soldiers and said to him, “Kill him!” So the soldier killed
+\f + \fk metonymy \f* of causing your own death!” Then David summoned one of his soldiers and said to him, “Kill him!” So the soldier killed
 him by striking him \add with a sword\add*. 
 \s David's song about Saul and Jonathan 
 \p
@@ -49,7 +49,7 @@ him by striking him \add with a sword\add*.
 \v 18 and he commanded that it be taught to the people of Judah.
 \add The song is called\add* ‘The Bow \add and arrow\add*’ and it has been written in the Book of Jashar:
 \q
-\v 19 You Israeli people, your glorious \f + \fr metonymy \f* leaders have been killed on the mountains!
+\v 19 You Israeli people, your glorious \f + \fk metonymy \f* leaders have been killed on the mountains!
 \q2 \add It is very sad that\add* these mighty men have died! 
 \b
 \q
@@ -60,19 +60,19 @@ him by striking him \add with a sword\add*.
 \q2 do not allow those ◄pagan women/women who do not know God► to rejoice.
 \q
 \v 21 I hope/desire that there will be no rain or dew on the mountains of the Gilboa
-\add area\add* \f + \fr apostrophe \f*, 
+\add area\add* \f + \fk apostrophe \f*, 
 \q and that no grain will grow in the fields there, 
 \q2 because there the shield of Saul, the mighty \add king\add*, fell on the ground.
 \q No one rubbed \add olive\add* oil on Saul's shield; 
 \q
 \v 22 instead, it was stained with the blood of those whom he had killed,
 \q2 and the fat of mighty enemy soldiers was smeared on it. 
-\q Jonathan \f + \fr personification \f* did not retreat carrying his bow \add and arrows\add*,
+\q Jonathan \f + \fk personification \f* did not retreat carrying his bow \add and arrows\add*,
 \q2 and Saul always \add defeated his enemies when he fought them\add* with his sword. [PRS, LIT]
 \b
 \q
 \v 23 Saul and Jonathan were loved and they pleased many people.
-\q2 They were together \f + \fr litotes \f* while they lived and when they died.
+\q2 They were together \f + \fk litotes \f* while they lived and when they died.
 \q \add In battles\add* they were swifter than eagles and they were stronger than lions.
 \b
 \q

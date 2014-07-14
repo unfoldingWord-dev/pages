@@ -23,7 +23,7 @@
 \v 6 By enabling his people to capture the lands that belonged to other people-groups,
 \q he has shown to us, his people, that he is very powerful. 
 \q
-\v 7 He \f + \fr metonymy \f* faithfully \add does what he has promised\add* and always does what is just/fair,
+\v 7 He \f + \fk metonymy \f* faithfully \add does what he has promised\add* and always does what is just/fair,
 \q2 and we can depend on him \add to help us\add* when he commands us to do things.
 \q
 \v 8 What he commands must be obeyed forever; 
@@ -31,7 +31,7 @@
 \q
 \v 9 He rescued us, his people, \add from being slaves in Egypt\add*,
 \q2 and he made an agreement with us that will last forever. 
-\q2 He \f + \fr metonymy \f* is holy and awesome! 
+\q2 He \f + \fk metonymy \f* is holy and awesome! 
 \b
 \q
 \v 10 Having an awesome respect for Yahweh is the way to become wise.

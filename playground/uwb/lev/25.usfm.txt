@@ -42,7 +42,7 @@ Celebration\add*.
 \v 17 Do not cheat each other; instead, revere me; I, Yahweh your God,
 \add am the one who am commanding this\add*. 
 \p
-\v 18 Obey all my laws \f + \fr doublet \f* carefully. If you do that, you will continue to live safely in your country \f + \fr doublet \f*.
+\v 18 Obey all my laws \f + \fk doublet \f* carefully. If you do that, you will continue to live safely in your country \f + \fk doublet \f*.
 \v 19 And crops will grow well on the land, and you will have plenty to eat.
 \v 20 But you may ask, ‘If we do not plant or harvest our crops during the seventh year, what will we have to eat?’
 \v 21  \add My answer is that\add* I will bless you very much during the sixth/previous year, with the result that during that
@@ -82,8 +82,8 @@ by\add* other Israelis, that land will become theirs again in the Year of Celebr
 \v 34 But the pastureland near their towns must not be sold. It must belong to the original owners permanently/forever.
 \p
 \v 35 If one of your fellow Israelis becomes poor and is unable to buy what he needs [IDI], others of you must help him like
-you would help a foreigner who is living among you \f + \fr doublet \f* temporarily.
-\v 36  \add If you lend money to him\add*, do not charge any kind of interest \f + \fr doublet \f*. Instead,
+you would help a foreigner who is living among you \f + \fk doublet \f* temporarily.
+\v 36  \add If you lend money to him\add*, do not charge any kind of interest \f + \fk doublet \f*. Instead,
 \add show by what you do that\add* you revere me, your God, and help that man, in order that he will be able to continue to
 live among you. 
 \v 37 If you lend him money, do not charge interest; and if you sell food to him,
@@ -105,7 +105,7 @@ in your country. Then you will own them.
 \v 46 They will be your slaves for the remaining years of your life, and after you die, it is permitted for your children to
 own them. But you must not act in brutal ways toward your fellow Israelis.
 \p
-\v 47 If a foreigner who is living among you \f + \fr doublet \f* becomes rich, and if one of your fellow Israelis becomes poor and sells
+\v 47 If a foreigner who is living among you \f + \fk doublet \f* becomes rich, and if one of your fellow Israelis becomes poor and sells
 himself to that foreigner or to a member of his clan/family, 
 \v 48 it is permitted for someone to pay for him to be freed. It is permitted for one of his relatives to pay for him to be
 released: 

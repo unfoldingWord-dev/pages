@@ -2,7 +2,7 @@
 \p
 \v 1 Then Hannah prayed, saying, 
 \q “In my inner being I rejoice in what you, Yahweh, \add have done\add*.
-\q2 I am strong \f + \fr metaphor \f* because I belong to you. 
+\q2 I am strong \f + \fk metaphor \f* because I belong to you. 
 \q I ◄laugh at/ridicule► my enemies, 
 \q2 because you, Yahweh has rescued me \add from being taunted by
 them\add*. 
@@ -46,8 +46,8 @@ again.
 \q Yahweh, you are the one who laid the foundations of the earth,
 \q2 and you have set the whole world on those foundations. 
 \q
-\v 9 You will protect your loyal/faithful people \f + \fr synecdoche \f*, 
-\q but you will cause the wicked to die \f + \fr euphemism \f* \add and descend\add* to the dark
+\v 9 You will protect your loyal/faithful people \f + \fk synecdoche \f*, 
+\q but you will cause the wicked to die \f + \fk euphemism \f* \add and descend\add* to the dark
 \add place where the dead go\add*. 
 \q2 We do not defeat \add our enemies\add* by our own strength; 
 \q
@@ -62,7 +62,7 @@ in\add* the most remote places on the earth.
 Yahweh. 
 \s Eli's sons were wicked 
 \p
-\v 12 Eli's two sons, \add who were also priests\add*, were very wicked. They did not know \f + \fr (OR, respect/obey) \f* Yahweh.
+\v 12 Eli's two sons, \add who were also priests\add*, were very wicked. They did not know \f + \ft (OR, respect/obey) \f* Yahweh.
 \v 13 While the people were boiling the meat from their sacrifices
 \add in the huge pot at the temple\add*, one of Eli's sons, \add would send his servant, and he would come with a large
 three-pronged fork in his hand\add*. 
@@ -96,11 +96,11 @@ and his family would return home.
 \v 22 Eli became very old. He often heard about all the \add evil\add* things that his sons were doing to the Israeli people.
 He heard that they \add sometimes\add* ◄slept with/had sex with► the women who worked at the entrance to the tent where
 \add God\add* spoke to \add his people\add*. 
-\v 23 He said to them, “◄It is terrible that you do such things!/Why do you do such things?► \f + \fr rhetorical question \f* Many people keep telling me
+\v 23 He said to them, “◄It is terrible that you do such things!/Why do you do such things?► \f + \fk rhetorical question \f* Many people keep telling me
 about the evil things that you do. 
-\v 24 My sons, stop it! The reports \add about you\add* that the people who belong to Yahweh tell others are terrible \f + \fr euphemism \f*!
+\v 24 My sons, stop it! The reports \add about you\add* that the people who belong to Yahweh tell others are terrible \f + \fk euphemism \f*!
 \v 25 If one person sins against another person, God can ◄intercede/act as a referee► between them. But if someone sins against
-Yahweh, no one can \f + \fr rhetorical question \f* ◄intercede/act as a referee► between them!” But Eli's sons would not listen to what their father said.
+Yahweh, no one can \f + \fk rhetorical question \f* ◄intercede/act as a referee► between them!” But Eli's sons would not listen to what their father said.
 This was because Yahweh had decided \add that someone needed\add* to kill them.
 \s A prophet warned what would happen to Eli and his family people
 \p
@@ -113,11 +113,11 @@ descendants\add* to be priests for me. I appointed them to go up to my altar, to
 \add and eat some of the meat\add* that the Israeli people burned
 \add on the altar\add*. 
 \v 29 So why do you show disrespect for the sacrifices and offerings that I commanded
-\add the people to bring\add* to me \f + \fr rhetorical question \f*? You are honoring your sons more than you are honoring me, by allowing them to get
+\add the people to bring\add* to me \f + \fk rhetorical question \f*? You are honoring your sons more than you are honoring me, by allowing them to get
 fat from eating the best parts of all the sacrifices that the Israeli people bring to me!’
 \p
 \v 30 Therefore, this is what Yahweh, the God whom we Israelis \add worship\add*, declares: ‘I definitely promised that Aaron
-and his descendants would continue to serve \f + \fr idiom \f* me forever. But now I declare this: it will not continue like that! I will
+and his descendants would continue to serve \f + \fk idiom \f* me forever. But now I declare this: it will not continue like that! I will
 honor those who honor me, but I will despise those who despise me.
 \v 31 Listen carefully! There will soon be a time when I will cause all the strong
 \add young men\add* in your family to die. The result will be that no men in your family will
@@ -130,8 +130,8 @@ blind, and then he will always be sad and grieving. But all your other descendan
 \v 34 And your two sons, Hophni and Phinehas, will both die on the same day. And that will prove to you
 \add that all that I have said will come true/happen\add*. 
 \p
-\v 35 I have chosen another man to be my priest. He is one who will serve me faithfully: he will do everything I want \f + \fr doublet \f* him
-to do. And I will enable him to have many descendants \f + \fr idiom \f* who will be priests and always serve me by helping the king whom I
+\v 35 I have chosen another man to be my priest. He is one who will serve me faithfully: he will do everything I want \f + \fk doublet \f* him
+to do. And I will enable him to have many descendants \f + \fk idiom \f* who will be priests and always serve me by helping the king whom I
 will choose. 
 \v 36 All of your descendants who remain alive will have to go to that priest and ask him to give them money and food, and they
 will each have to say, “Please allow me to help the other priests, in order that I may

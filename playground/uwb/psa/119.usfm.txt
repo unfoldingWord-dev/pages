@@ -24,7 +24,7 @@
 \v 8 I will obey all ◄your statutes/that you have decreed that we should do►;
 \q2 do not desert/abandon me! 
 \q
-\v 9  \add I know\add* \f + \fr rhetorical question \f* how a youth can ◄keep his life pure/avoid sinning►;
+\v 9  \add I know\add* \f + \fk rhetorical question \f* how a youth can ◄keep his life pure/avoid sinning►;
 \q2 it is by obeying ◄your words/what you have told us to do►. 
 \q
 \v 10 I try to serve you with my entire inner being; 
@@ -36,7 +36,7 @@
 \v 12 Yahweh, I praise you; 
 \q2 teach me ◄your statutes/what you have decreed►. 
 \q
-\v 13 I \f + \fr metonymy \f* declare ◄with my mouth/to others► ◄your regulations/the rules that you have given to us►.
+\v 13 I \f + \fk metonymy \f* declare ◄with my mouth/to others► ◄your regulations/the rules that you have given to us►.
 \q
 \v 14 I delight to obey ◄your requirements/what you have instructed us to do►;
 \q I enjoy that more than being very rich. 
@@ -54,7 +54,7 @@
 \q2 in order that I may see the wonderful things that \add are written\add* in your laws.
 \q
 \v 19 I am living \add here\add* on the earth for only a short time;
-\q2 ◄do not prevent me from \add understanding\add*/help me to understand► \f + \fr litotes \f* ◄your commands/what you have commanded►.
+\q2 ◄do not prevent me from \add understanding\add*/help me to understand► \f + \fk litotes \f* ◄your commands/what you have commanded►.
 \q
 \v 20 In my inner being I strongly desire to know all the time ◄your regulations/the rules that you have given to us►.
 \q
@@ -124,7 +124,7 @@ to\add*► you;
 \q2 The ◄regulations/rules that you have given to us► are very good!
 \q
 \v 40 I very much desire \add to obey\add* ◄your principles of behavior/what you have declared that we should do►;
-\q2 because you are righteous, allow me to continue to live \f + \fr (OR, be good to me).
+\q2 because you are righteous, allow me to continue to live \f + \ft (OR, be good to me).
 \b
 \q
 \v 41 Yahweh, show me that you faithfully love me, 
@@ -133,7 +133,7 @@ to\add*► you;
 \v 42 After you do that, I will be able to reply to those who insult me,
 \q2 because I trust in ◄your word/what you have promised that you would do►.
 \q
-\v 43 ◄Never prevent me from speaking/Always enable me to \f + \fr litotes \f* speak► your truth,
+\v 43 ◄Never prevent me from speaking/Always enable me to \f + \fk litotes \f* speak► your truth,
 \q2 because I have confidence in ◄your regulations/the rules that you have given us►.
 \q
 \v 44 I will always obey your laws, 
@@ -158,7 +158,7 @@ to\add*► you;
 \add good things from you\add*. 
 \q
 \v 50 When I have been suffering, you comforted me; 
-\q2 you did what you promised me, and that \f + \fr personification \f* revived me. 
+\q2 you did what you promised me, and that \f + \fk personification \f* revived me. 
 \q
 \v 51 Proud people are always making fun of me, 
 \q2 but I do not ◄turn away from/stop► \add obeying\add* your laws.
@@ -172,7 +172,7 @@ to\add*► you;
 \v 54 While I have been living here for a short time on the earth,
 \q2 I have written songs about ◄your statutes/what you have decreed that we should do►.
 \q
-\v 55 Yahweh, during the night I think about you \f + \fr metonymy \f*, 
+\v 55 Yahweh, during the night I think about you \f + \fk metonymy \f*, 
 \q2 and so I obey your laws. 
 \q
 \v 56 What I have always done is to obey ◄your principles of behavior/what you have declared that we should do►.
@@ -191,7 +191,7 @@ to\add*► you;
 \q2 I do not delay at all. 
 \q
 \v 61 Wicked people have \add tried to\add* seize me \add like a hunter tries to catch an
-animal\add* with a net \f + \fr metaphor \f*, 
+animal\add* with a net \f + \fk metaphor \f*, 
 \q2 but I do not forget your laws. 
 \q
 \v 62 In the middle of the night I awake, 
@@ -228,7 +228,7 @@ should do►.
 \v 71 It was good for me that you afflicted/punished me, 
 \q2 because the result was that I learned ◄your statutes/what you have decreed that we should do►.
 \q
-\v 72 The laws that you \f + \fr metonymy \f* gave/told to us are \add worth\add* more to me than gold,
+\v 72 The laws that you \f + \fk metonymy \f* gave/told to us are \add worth\add* more to me than gold,
 \q2 more than thousands of pieces of gold and silver. 
 \b
 \q
@@ -268,7 +268,7 @@ do\add*.
 \v 82 My eyes are tired from waiting a long time for you to do what you promised/said that you would do,
 \q2 and I ask, “When will you help/encourage me?” 
 \q
-\v 83 I have become \add as useless as\add* \f + \fr metaphor \f* a wineskin that is
+\v 83 I have become \add as useless as\add* \f + \fk metaphor \f* a wineskin that is
 \add shriveled from hanging a long time\add* in the smoke \add inside a
 house\add*, 
 \q2 but I have not forgotten ◄your statutes/what you have decreed that we should do►.
@@ -338,15 +338,15 @@ generation\add*► what you have ◄promised/said that you would do►;
 \q2 because you have taught me \add while I have studied them\add*.
 \q
 \v 103  \add When I read\add* your words, 
-\q2 they are like \f + \fr metaphor \f* sweet things that I taste/eat, 
+\q2 they are like \f + \fk metaphor \f* sweet things that I taste/eat, 
 \q2 yes, they are even sweeter than honey. 
 \q
 \v 104 Because \add I have learned\add* ◄your principles of behavior/what you have declared that we should do►,
 \q2 I am able to understand \add many things\add*; 
 \q2 therefore, I hate all evil things \add that some people do\add*.
 \q
-\v 105 ◄Your words/What you have told us to do► are like \f + \fr metaphor \f* a lamp to guide me,
-\q2 and like a light \f + \fr metaphor \f* to show me the path \add that I should walk
+\v 105 ◄Your words/What you have told us to do► are like \f + \fk metaphor \f* a lamp to guide me,
+\q2 and like a light \f + \fk metaphor \f* to show me the path \add that I should walk
 on\add*. 
 \q
 \v 106 I have solemnly promised, and I am solemnly promising it again,
@@ -356,7 +356,7 @@ on\add*.
 \v 107 Yahweh, I am suffering very much; 
 \q2 cause me to be strong/healthy again, as you have promised to do.
 \q
-\v 108 Yahweh, when I thank you while I pray, it is like \f + \fr metaphor \f* a sacrifice to you;
+\v 108 Yahweh, when I thank you while I pray, it is like \f + \fk metaphor \f* a sacrifice to you;
 \q2 please accept it, 
 \q2 and teach me your ◄regulations/rules that you have given to us►.
 \q
@@ -364,21 +364,21 @@ on\add*.
 \q2 but I do not forget your laws. 
 \q
 \v 110 Wicked people have tried to seize me \add like a hunter tries to catch an
-animal\add* with a trap \f + \fr metaphor \f*, 
+animal\add* with a trap \f + \fk metaphor \f*, 
 \q2 but I have not disobeyed ◄your principles of behavior/what you declared that we should do►.
 \q
 \v 111 ◄Your requirements/What you have instructed us to do► are my possession forever;
-\q2 because of them \f + \fr personification \f*, I am joyful in my inner being. 
+\q2 because of them \f + \fk personification \f*, I am joyful in my inner being. 
 \q
 \v 112 I ◄have decided/am determined► [IDI] to obey ◄your statutes/what you have decreed that we should do► until the day that
-I die \f + \fr metonymy \f*. 
+I die \f + \fk metonymy \f*. 
 \b
 \q
 \v 113 I hate people who are only partly committed to you, 
 \q2 but I love your laws. 
 \q
 \v 114 You are like a place where I can hide \add from my enemies\add*,
-\q2 and you are like a shield \f + \fr metaphor \f* \add behind which I am protected from
+\q2 and you are like a shield \f + \fk metaphor \f* \add behind which I am protected from
 them\add*, 
 \q2 and I trust in your promises. 
 \q
@@ -396,10 +396,10 @@ them\add*,
 \v 118 You reject all those who disobey ◄your statutes/what you have decreed that we should do►;
 \q2 but what they deceitfully plan to do will be ◄useless/in vain►.
 \q
-\v 119 You get rid of all the wicked people on the earth like \f + \fr simile \f* people throw away trash;
+\v 119 You get rid of all the wicked people on the earth like \f + \fk simile \f* people throw away trash;
 \q2 therefore I love ◄your requirements/what you have instructed us to do►.
 \q
-\v 120 I \f + \fr synecdoche \f* tremble because I am afraid of you; 
+\v 120 I \f + \fk synecdoche \f* tremble because I am afraid of you; 
 \q2 I am afraid \add because you punish those who do not obey\add* ◄your regulations/the rules that you have given to us►.
 \b
 \q
@@ -437,11 +437,11 @@ them\add*,
 \q2 what they say causes even people who have not learned your laws to be wise.
 \q
 \v 131 I eagerly desire to know ◄your commands/what you have commanded►,
-\q2 like \f + \fr simile \f* a \add dog\add* that pants with its mouth open \add wanting to be
+\q2 like \f + \fk simile \f* a \add dog\add* that pants with its mouth open \add wanting to be
 fed\add*. 
 \q
 \v 132 Listen to me and act kindly to me, 
-\q2 like you do to all those who love you \f + \fr metonymy \f*. 
+\q2 like you do to all those who love you \f + \fk metonymy \f*. 
 \q
 \v 133 Guide me as you promised/said that you would do and help me not to fall/sin;
 \q2 do not allow evil \add people\add* to control what I do. 
@@ -522,7 +522,7 @@ to do►.
 \q2 allow me to continue to live because of \add my obeying\add* ◄your regulations/the rules that you have given to us►.
 \q
 \v 157 Many people are my enemies and many people ◄cause me to suffer/persecute me►,
-\q2 but I ◄do not turn aside from/have not stopped obeying► \f + \fr litotes \f* ◄your requirements/what you have instructed us to do►.
+\q2 but I ◄do not turn aside from/have not stopped obeying► \f + \fk litotes \f* ◄your requirements/what you have instructed us to do►.
 \q
 \v 158 When I look at those who are not faithful to you, I am disgusted
 \q2 because they do not obey ◄your requirements/what you have instructed us to do►.
@@ -540,7 +540,7 @@ to do►.
 \v 162 I am happy about ◄your words/what you have promised to do for me►,
 \q2 as happy as someone who has found a great treasure. 
 \q
-\v 163 I thoroughly hate \f + \fr doublet \f* all lies 
+\v 163 I thoroughly hate \f + \fk doublet \f* all lies 
 \q2 but I love your laws. 
 \q
 \v 164 Seven/Many times each day I thank you for ◄your regulations/the rules that you have given to us►,
@@ -566,13 +566,13 @@ troubles\add*,
 \v 170 Hear me while I pray 
 \q2 and rescue/save me as you promised/said that you would. 
 \q
-\v 171 I \f + \fr metonymy \f* will always praise you 
+\v 171 I \f + \fk metonymy \f* will always praise you 
 \q2 because you teach me ◄your statues/what you have decreed that we should do►.
 \q
 \v 172 I will sing about ◄your words/what you have promised to do►
 \q2 because ◄all your commands are/everything that you have commanded is► just/fair.
 \q
-\v 173 I request you \f + \fr synecdoche \f* to always be ready to help me 
+\v 173 I request you \f + \fk synecdoche \f* to always be ready to help me 
 \q2 because I have chosen \add to obey\add* ◄your principles of behavior/what you have declared that we should do►.
 \q
 \v 174 Yahweh, I eagerly desire for you to rescue/save me \add from my
@@ -583,5 +583,5 @@ enemies\add*;
 to\add* praise you 
 \q2 and that your regulations/rules that you have given to us will continue to help me.
 \q
-\v 176 I have \add sinned and turned away from you\add* like \f + \fr simile \f* a sheep that has become lost;
+\v 176 I have \add sinned and turned away from you\add* like \f + \fk simile \f* a sheep that has become lost;
 \q2 search for me, because I have not forgotten ◄your commands/what you have commanded us►.

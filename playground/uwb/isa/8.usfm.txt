@@ -6,7 +6,7 @@
 \v 2 So I requested Uriah the Supreme Priest and Jeberekiah's son Zechariah, men who were both honest/trustworthy witnesses, to
 watch me as I was doing that. 
 \p
-\v 3 Then I had sex with \f + \fr euphemism \f* my wife, who was a prophetess, and she became pregnant and then gave birth to a son. Then Yahweh
+\v 3 Then I had sex with \f + \fk euphemism \f* my wife, who was a prophetess, and she became pregnant and then gave birth to a son. Then Yahweh
 said to me, “Give him the name Maher-Shalal-Hash-Baz, 
 \v 4 because before he is old enough to say ‘papa’ or ‘mama’, the king of Assyria will
 \add come with his army and\add* take away all the valuable things in Damascus and in Samaria.”
@@ -16,7 +16,7 @@ Judah,\add*
 \q
 \v 6  \add I have taken good care of\add* you people, 
 \q2 but you have rejected that, \add thinking that\add* my help was very small,
-\q like \f + \fr metaphor \f* the small canal through which water flows from the Gihon Spring into Jerusalem.
+\q like \f + \fk metaphor \f* the small canal through which water flows from the Gihon Spring into Jerusalem.
 \q2 Instead, you have been happy \add to request help from\add* King Rezin and King Pekah.
 \q
 \v 7 Therefore, I will cause the people of Judah to be attacked by
@@ -25,7 +25,7 @@ Judah,\add*
 \q2 Their soldiers will \add be everywhere in your country\add*, like a river that overflows all its banks.
 \q
 \v 8 Those soldiers will go all over Judah - 
-\q2 \add like a river whose water\add* \f + \fr metaphor \f* rises as high as a person's neck.
+\q2 \add like a river whose water\add* \f + \fk metaphor \f* rises as high as a person's neck.
 \q Their army will spread over the land \add quickly\add*, like an eagle,
 \q2 and they will cover your entire land! 
 \q But I will be with you!” 
@@ -42,7 +42,7 @@ Judah,\add*
 \q2 because God is with us! 
 \s Isaiah is urged to have an awesome respect for Yahweh 
 \p
-\v 11 Yahweh strongly warned me \f + \fr metonymy \f* not to act like the other people in Judah did. He said to me,
+\v 11 Yahweh strongly warned me \f + \fk metonymy \f* not to act like the other people in Judah did. He said to me,
 \q
 \v 12 “Do not say that everything that people do is conspiring/rebelling
 \add against the government\add*, 
@@ -54,11 +54,11 @@ Judah,\add*
 \q2 the one you should revere. 
 \q
 \v 14 I will protect you(sg). 
-\q But as for the other people \f + \fr metonymy \f* in Israel and Judah, 
-\q2 I will be like \f + \fr metaphor \f* a stone that causes people to stumble, 
+\q But as for the other people \f + \fk metonymy \f* in Israel and Judah, 
+\q2 I will be like \f + \fk metaphor \f* a stone that causes people to stumble, 
 \q2 like a rock that causes them to fall down. 
 \q And as for the people of Jerusalem, 
-\q2 I will be like \f + \fr metaphor \f* a trap or a snare \f + \fr doublet \f*. 
+\q2 I will be like \f + \fk metaphor \f* a trap or a snare \f + \fk doublet \f*. 
 \q
 \v 15 Many people will stumble and fall down 
 \q2 and never get up again. 
@@ -71,7 +71,7 @@ Judah,\add*
 \q and give his instructions to others who have accompanied me. 
 \q
 \v 17 I will wait to see what Yahweh \add will do\add*. 
-\q He has rejected the descendants \f + \fr metonymy \f* of Jacob, 
+\q He has rejected the descendants \f + \fk metonymy \f* of Jacob, 
 \q2 but I will confidently expect him to help me. 
 \q
 \v 18 I and the children that Yahweh has given to me are like signs to warn the people of Israel;
@@ -80,8 +80,8 @@ Judah,\add*
 \p
 \v 19 Some people may urge you(pl) to ◄consult/go and talk with► those who talk with the spirits of dead people or with those
 who say that they receive messages from those spirits. They whisper and mutter
-\add about what we should do in the future\add*. But God is \f + \fr rhetorical question \f* the one whom we should ask to guide us! It is ridiculous
-\f + \fr rhetorical question \f* for people who are alive to request spirits of dead people to tell us
+\add about what we should do in the future\add*. But God is \f + \fk rhetorical question \f* the one whom we should ask to guide us! It is ridiculous
+\f + \fk rhetorical question \f* for people who are alive to request spirits of dead people to tell us
 \add what we should do\add*! 
 \v 20 Pay attention to God's instructions and teaching! If people do not say things that agree with what God teaches us,
 \add what they say is worthless\add*. \add It is as though\add* those people are in darkness.

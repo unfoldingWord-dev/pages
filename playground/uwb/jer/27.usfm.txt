@@ -16,7 +16,7 @@ time for them \add to rule\add* is finished. Then \add the armies
 of\add* many great kings from many nations will conquer Babylon.’
 \p
 \v 8 But now I tell you that you must \add do what the king of Babylon wants you to
-do\add* \f + \fr metaphor \f*, \add like an ox that has\add* a yoke on its neck \add must do what its master wants it to
+do\add* \f + \fk metaphor \f*, \add like an ox that has\add* a yoke on its neck \add must do what its master wants it to
 do\add*. I will punish any nation that refuses to do that. I will cause those people to experience war and famine and diseases,
 until \add the armies of\add* Babylon have conquered that nation.
 \v 9 So, do not pay attention to your \add false\add* prophets and fortune-tellers and people who predict what will happen by
@@ -25,18 +25,18 @@ country.
 \v 10 Those people are all liars. \add If you believe what they say\add*, it will result in your being exiled from your land. I
 will cause you to be taken from your land, and you will die far away.
 \v 11 But the people of any country who do what the king of Babylon wants them to do will remain in their own country and be
-able to plant their crops \f + \fr metonymy \f* as they always have done. \add That will surely happen
+able to plant their crops \f + \fk metonymy \f* as they always have done. \add That will surely happen
 because\add* I, Yahweh, have said it.” 
 \b
 \p
 \v 12  \add After I gave that message to those ambassadors\add*, I gave the same message to King Zedekiah of Judah. I said to
-him, “If you want to remain alive, do what the king of Babylon and his officials want you to do \f + \fr metaphor \f*.
+him, “If you want to remain alive, do what the king of Babylon and his officials want you to do \f + \fk metaphor \f*.
 \v 13  \add It would be foolish for you not to do that, because the result would be
 that\add* you and your people would die by your enemies' swords or by famine or diseases, which Yahweh will cause any nation to
 experience that refuses to allow the king of Babylon to rule them.
 \v 14 Do not pay attention to those prophets who say to you, ‘The king of Babylon will not conquer your country.’ They are
 liars. 
-\v 15 This is what Yahweh says: ‘I have not appointed those prophets. They are saying that I \f + \fr metonymy \f* gave them messages, but they
+\v 15 This is what Yahweh says: ‘I have not appointed those prophets. They are saying that I \f + \fk metonymy \f* gave them messages, but they
 are lying. So, \add if you believe them\add*, I will expel you from this land. And you and all those prophets will die
 \add in Babylon\add*!’ ” 
 \p
@@ -44,7 +44,7 @@ are lying. So, \add if you believe them\add*, I will expel you from this land. A
 who tell you that all the gold items \add that were taken\add* from my temple
 \add by soldiers from Babylon\add* will soon be returned from Babylon, because what they are prophesying is a lie.
 \v 17 Do not pay attention to what they say. Surrender to the king of Babylon. If you do that, you will remain alive.
-\add If you do not do that\add* \f + \fr rhetorical question \f*, this entire city will be destroyed.
+\add If you do not do that\add* \f + \fk rhetorical question \f*, this entire city will be destroyed.
 \v 18 If they are really prophets who speak messages from me, tell them to plead to me, the Almighty Commander of the armies of
 angels, that \add the soldiers from Babylon\add* will not be allowed to take away to Babylon the valuable items that still
 remain in the temple and in the king's palace and in \add the other palaces

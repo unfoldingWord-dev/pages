@@ -6,7 +6,7 @@
 \v 2 Sing to him; praise him as you sing to him; 
 \q2 tell others about his wonderful miracles. 
 \q
-\v 3 Be happy because \add you know that\add* he \f + \fr metonymy \f* is holy! 
+\v 3 Be happy because \add you know that\add* he \f + \fk metonymy \f* is holy! 
 \q2 You people who worship Yahweh, rejoice! 
 \q
 \v 4 Ask Yahweh to help you and give you his strength, 
@@ -88,8 +88,8 @@
 \v 27 Those two performed amazing miracles among the people of Egypt,
 \q2 in that land where the descendants of Ham lived. 
 \q
-\v 28 Yahweh sent darkness, so that the people of Egypt could not see anything \f + \fr doublet \f*,
-\q2 but the rulers of Egypt refused \f + \fr rhetorical question \f* to obey when \add Moses and
+\v 28 Yahweh sent darkness, so that the people of Egypt could not see anything \f + \fk doublet \f*,
+\q2 but the rulers of Egypt refused \f + \fk rhetorical question \f* to obey when \add Moses and
 Aaron\add* commanded \add them to let the Israeli people leave Egypt\add*.
 \q
 \v 29 Yahweh caused all the water in Egypt to become ◄blood/red like blood►,
@@ -114,7 +114,7 @@ Aaron\add* commanded \add them to let the Israeli people leave Egypt\add*.
 \q2 ruining all the crops. 
 \q
 \v 36 Then Yahweh killed the oldest son in every house \add of the people of
-Egypt\add* \f + \fr doublet \f*. 
+Egypt\add* \f + \fk doublet \f*. 
 \b
 \q
 \v 37 Then he brought the Israeli people out \add from Egypt\add*;
@@ -149,6 +149,6 @@ morning\add*.
 \q2 and the Israelis harvested crops that other people had planted.
 \q
 \v 45 Yahweh did all these things 
-\q2 in order that his people would do all the things that he had commanded them to do \f + \fr doublet \f*.
+\q2 in order that his people would do all the things that he had commanded them to do \f + \fk doublet \f*.
 \b
 \q Praise Yahweh/Hallelujah! 

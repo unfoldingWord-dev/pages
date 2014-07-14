@@ -17,7 +17,7 @@ God\add*,
 \v 4 But what they declare \add about God\add* goes throughout the world,
 \q2 and even people who live in the most distant/remote places on earth can know it.
 \b
-\q The sun is in the skies where God placed it \f + \fr metaphor \f*; 
+\q The sun is in the skies where God placed it \f + \fk metaphor \f*; 
 \q
 \v 5 it rises each morning like a bridegroom \add who is happy\add* as he comes out of his bedroom after his wedding.
 \q2 It is like a strong athlete who is very eager to start running in a race.
@@ -36,7 +36,7 @@ on\add* the other side,
 \v 8 Yahweh's laws are fair/just; 
 \q2 \add when we obey them\add*, we become joyful. 
 \q The commands of Yahweh are clear, 
-\q2 and \add by reading them\add* \f + \fr personification \f* we start to understand \add how God wants us to
+\q2 and \add by reading them\add* \f + \fk personification \f* we start to understand \add how God wants us to
 behave\add*. 
 \q
 \v 9 It is good for people to revere Yahweh; 
@@ -55,7 +55,7 @@ evil\add*,
 \q2 to us who obey them. 
 \b
 \q
-\v 12 But here is no one who can know all his errors \f + \fr rhetorical question \f*; 
+\v 12 But here is no one who can know all his errors \f + \fk rhetorical question \f*; 
 \q2 so Yahweh, forgive me for these things which I do that I do not realize are wrong.
 \q
 \v 13 Keep me from doing things that I know are wrong; 
@@ -63,5 +63,5 @@ evil\add*,
 \q If you do that, I will no longer be guilty for committing such sins,
 \q2 and I will not commit the great sin \add of rebelling terribly\add* against you.
 \q
-\v 14 O Yahweh, you are like a \add huge\add* rock \f + \fr metaphor \f* under which I can be safe; you are the one who protects me.
+\v 14 O Yahweh, you are like a \add huge\add* rock \f + \fk metaphor \f* under which I can be safe; you are the one who protects me.
 \q2 I hope/desire that the things that I say and what I think will always please you.

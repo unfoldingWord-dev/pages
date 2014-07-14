@@ -7,16 +7,16 @@
 \q2 he trains my fingers so that I can \add shoot arrows in a war\add*.
 \q
 \v 2 He is the one who protects me; 
-\q2 he is like a fortress \f + \fr doublet \f* in which I am safe, 
-\q2 he protects me like shields \add protect soldiers\add* \f + \fr metaphor \f*,
+\q2 he is like a fortress \f + \fk doublet \f* in which I am safe, 
+\q2 he protects me like shields \add protect soldiers\add* \f + \fk metaphor \f*,
 \q2 and he gives me refuge. 
 \q He defeats other nations and then puts them under my power. 
 \b
 \q
-\v 3 Yahweh, we people are \add very insignificant/unimportant\add*, so why ◄are you concerned/do you care about us► \f + \fr rhetorical question \f*?
+\v 3 Yahweh, we people are \add very insignificant/unimportant\add*, so why ◄are you concerned/do you care about us► \f + \fk rhetorical question \f*?
 \q \add It is amazing to me that\add* you pay attention to humans.
 \q
-\v 4  \add The time that we live is as short\add* as \f + \fr simile \f* a puff of wind;
+\v 4  \add The time that we live is as short\add* as \f + \fk simile \f* a puff of wind;
 \q2 our time to live disappears like a shadow does. 
 \b
 \q
@@ -28,10 +28,10 @@
 \q
 \v 7  \add It is as though my enemies are like\add* a flood around me;
 \q2 reach your hand down from heaven 
-\q and rescue me from them \f + \fr synecdoche \f*. 
+\q and rescue me from them \f + \fk synecdoche \f*. 
 \q They are men from other countries 
 \q
-\v 8 who \f + \fr synecdoche \f* always tell lies. 
+\v 8 who \f + \fk synecdoche \f* always tell lies. 
 \q \add Even in a courtroom where\add* 
 \q2 they tell lies. 
 \b
@@ -44,22 +44,22 @@
 \b
 \q
 \v 11  \add So I ask you to\add* save me from \add being killed by\add* the swords that those evil people carry.
-\q Rescue me from the power \f + \fr metonymy \f* of those foreigners 
-\q2 who \f + \fr synecdoche \f* always tell lies, 
+\q Rescue me from the power \f + \fk metonymy \f* of those foreigners 
+\q2 who \f + \fk synecdoche \f* always tell lies, 
 \q2 and who raise their right hands \add in courtrooms when they solemnly declare that they will tell the
 truth\add*. 
 \b
 \q
-\v 12 I wish/hope that our young sons will grow up to be like strong plants \f + \fr simile \f*,
+\v 12 I wish/hope that our young sons will grow up to be like strong plants \f + \fk simile \f*,
 \q and I wish/hope that our daughters will grow up to be \add straight and
 tall\add* 
-\q2 like the pillars \f + \fr simile \f* that stand in the corners of palaces.
+\q2 like the pillars \f + \fk simile \f* that stand in the corners of palaces.
 \q
 \v 13 I wish/hope that our barns will be full of many different crops.
 \q I wish/hope that the sheep in our fields will give birth to tens of thousands of baby lambs.
 \q
 \v 14 I wish/hope that our cows will give birth to many calves 
-\q2 without having any miscarriages or deaths when they are born \f + \fr (OR, that no enemies will break through our city walls and
+\q2 without having any miscarriages or deaths when they are born \f + \ft (OR, that no enemies will break through our city walls and
 take us ◄into exile/to their own countries►) \f*. 
 \q I wish/hope that \add there will not be a time when\add* the people in our streets cry out in distress
 \q2 \add because foreign armies are invading\add*. 

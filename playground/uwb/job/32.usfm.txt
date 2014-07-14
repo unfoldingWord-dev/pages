@@ -11,13 +11,13 @@ but they were unable to convince Job \add that what they said was
 true\add*. As a result, \add it seemed that\add* God did what was wrong by punishing Job.
 \v 4 Elihu was younger than the others, so he waited \add until they had finished
 speaking\add* before he replied to Job. 
-\v 5 But when Elihu realized that the three men had no more to say \f + \fr metonymy \f* to Job, he became angry.
+\v 5 But when Elihu realized that the three men had no more to say \f + \fk metonymy \f* to Job, he became angry.
 \p
 \v 6 And this is what he said: 
 \q “I am young, and you all are much older than I am. 
 \q2 So, I was timid, and I was afraid to tell you what I was thinking.
 \q
-\v 7 I said \add to myself\add*, ‘Let those \f + \fr personification \f* who are much older speak,
+\v 7 I said \add to myself\add*, ‘Let those \f + \fk personification \f* who are much older speak,
 \q2 because older people \add should be able to\add* say things that are wise.’
 \q
 \v 8 But the Spirit of Almighty \add God\add* is within people, and it is he that enables them to be wise.
@@ -46,9 +46,9 @@ things\add* to say.
 \q
 \v 15 You three are dismayed \add because you have not been able to convince him that he was
 wrong\add*, 
-\q2 so you are not saying anymore to him \f + \fr doublet \f*. 
+\q2 so you are not saying anymore to him \f + \fk doublet \f*. 
 \q
-\v 16 But because you do not speak, I certainly will not wait any longer \f + \fr rhetorical question \f*;
+\v 16 But because you do not speak, I certainly will not wait any longer \f + \fk rhetorical question \f*;
 \q2 you merely stand there and do not reply anymore. 
 \q
 \v 17 So now I also will reply to Job 
@@ -57,11 +57,11 @@ wrong\add*,
 \v 18 I have plenty to say, 
 \q2 and my spirit compels me to say it. 
 \q
-\v 19 My inner being is like \f + \fr simile \f* a ◄wineskin/bag that has ‘new/fermenting’ wine in it►,
+\v 19 My inner being is like \f + \fk simile \f* a ◄wineskin/bag that has ‘new/fermenting’ wine in it►,
 \q2 and it will soon burst. 
 \q
-\v 20 I must speak \f + \fr metonymy \f*, in order that I do not have to keep holding what I want to say;
-\q2 I must say something \f + \fr metonymy \f* to reply \add to you all\add*. 
+\v 20 I must speak \f + \fk metonymy \f*, in order that I do not have to keep holding what I want to say;
+\q2 I must say something \f + \fk metonymy \f* to reply \add to you all\add*. 
 \q
 \v 21 I will speak \add fairly\add*, not favoring any of you, 
 \q2 and I will not try to flatter anyone. 

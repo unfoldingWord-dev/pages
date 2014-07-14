@@ -8,8 +8,8 @@ sister\add* Miriam died and was buried there.
 \v 2 There was no water for the people to drink there, so they came to Aaron and Moses/me.
 \v 3 They complained and said, “We wish that we had died in front of Yahweh's Sacred Tent when our fellow Israelis died!
 \v 4 ◄Did you bring us, who are Yahweh's people, into this desert to die along with our livestock?/You brought us, who are
-Yahweh's people, into this desert to die along with our livestock!► \f + \fr rhetorical question \f*
-\v 5 Why did you bring us from Egypt to this miserable place \f + \fr rhetorical question \f*? There is no grain, there are no figs, no grapes, and no
+Yahweh's people, into this desert to die along with our livestock!► \f + \fk rhetorical question \f*
+\v 5 Why did you bring us from Egypt to this miserable place \f + \fk rhetorical question \f*? There is no grain, there are no figs, no grapes, and no
 pomegranates here. And there is no water for us to drink!” 
 \p
 \v 6 Aaron and Moses/I turned away from the people and went to the entrance of the Sacred Tent and prostrated
@@ -67,7 +67,7 @@ want only to travel through your country. We do not want anything else.”
 \p
 \v 22 The Israeli people left Kadesh. They went to Hor Mountain,
 \v 23 which is at the border of Edom. While they were there, Yahweh said to Aaron and Moses/me,
-\v 24 “It is time for Aaron to die \f + \fr euphemism \f*. He will not enter the land that I am giving to you Israelis, because the two of you
+\v 24 “It is time for Aaron to die \f + \fk euphemism \f*. He will not enter the land that I am giving to you Israelis, because the two of you
 disobeyed me \add when I told you to speak to the rock to cause\add* the water
 \add to flow\add* at Meribah. 
 \v 25 Now you, Moses, take Aaron and his son Eleazar up on Hor Mountain.

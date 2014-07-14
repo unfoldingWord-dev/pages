@@ -5,14 +5,14 @@
 \v 2 This is what he said: 
 \b
 \q “Yahweh came \add and spoke\add* to us at Sinai \add Mountain\add*;
-\q2 he \add came like\add* \f + \fr metaphor \f* the sun rises in the Edom \add region\add*
+\q2 he \add came like\add* \f + \fk metaphor \f* the sun rises in the Edom \add region\add*
 \q2 and like his light shone on us when we were \add in the desert\add* near Paran Mountain
 \add after we left Sinai Mountain\add*. 
 \q He came with ten thousand angels, 
 \q2 and there was a flaming fire at his right side. 
 \q
 \v 3 Yahweh truly loves his people, 
-\q2 and protects \f + \fr metonymy \f* all those who belong to him. 
+\q2 and protects \f + \fk metonymy \f* all those who belong to him. 
 \q So they prostrate themselves in front of him, 
 \q2 and they listen to his instructions. 
 \q
@@ -45,10 +45,10 @@ you\add*.
 \v 9 The tribe of Levi did what you told them to do 
 \q2 and obeyed the agreement that you \add made with the Israeli
 people\add*; 
-\q those laws were more important to them \f + \fr hyperbole \f* 
+\q those laws were more important to them \f + \fk hyperbole \f* 
 \q2 than their siblings and parents and children. 
 \q
-\v 10 The tribe of Levi will teach the Israeli people \f + \fr doublet \f* your rules and regulations,
+\v 10 The tribe of Levi will teach the Israeli people \f + \fk doublet \f* your rules and regulations,
 \q2 and they are the ones who will burn incense and who will completely burn on the altar the offerings
 \add that the people bring\add*. 
 \q
@@ -62,7 +62,7 @@ people\add*;
 \q They are the tribe that Yahweh loves; 
 \q2 he keeps them safe. 
 \q He protects them continually, 
-\q2 and he lives among their hills \f + \fr metaphor \f*. 
+\q2 and he lives among their hills \f + \fk metaphor \f*. 
 \b
 \p
 \v 13 I say this about \add the tribes of\add* Joseph: 
@@ -73,7 +73,7 @@ people\add*;
 \v 14 by giving them good fruit \add ripened by\add* the sun 
 \q2 and good crops ◄in the right months/at harvest time►. 
 \q
-\v 15 I desire/hope that very nice fruit will grow on trees in their ancient mountains/hills \f + \fr doublet \f*,
+\v 15 I desire/hope that very nice fruit will grow on trees in their ancient mountains/hills \f + \fk doublet \f*,
 \q
 \v 16 and that their land will be filled with many good crops, 
 \q2 blessed by \add Yahweh\add*, the one who appeared to me in a burning bush.
@@ -81,8 +81,8 @@ people\add*;
 \q2 because he was his \add older\add* brothers' leader \add when they were in
 Egypt\add*. 
 \q
-\v 17 The descendants of Joseph will be as strong as \f + \fr simile \f* a bull,
-\q2 \add with their weapons they will wound their enemies like\add* \f + \fr metaphor \f* a wild ox
+\v 17 The descendants of Joseph will be as strong as \f + \fk simile \f* a bull,
+\q2 \add with their weapons they will wound their enemies like\add* \f + \fk metaphor \f* a wild ox
 \add gores other animals\add* with its horns. 
 \q They will push other people-groups, 
 \q2 all of them, to the most distant places on the earth. 
@@ -101,13 +101,13 @@ Egypt\add*.
 \add worship Yahweh\add*, 
 \q2 and they will offer the correct/proper sacrifices to him. 
 \q They will become rich from \add the work that they do on\add* the seas
-\q2 and from \add the things that they make from\add* \f + \fr (OR, \add find
+\q2 and from \add the things that they make from\add* \f + \ft (OR, \add find
 in\add*) \f* the sand \add on the beaches\add*. 
 \b
 \p
 \v 20 I say this about \add the tribe of\add* Gad: 
 \q Praise \add Yahweh\add*, the one who made their \add territory\add* large.
-\q2 The people of their tribe \add will attack their enemies fiercely\add* \f + \fr simile \f* like a lion that crouches,
+\q2 The people of their tribe \add will attack their enemies fiercely\add* \f + \fk simile \f* like a lion that crouches,
 \q2 waiting to tear off the arm or the scalp \add of some animal\add*.
 \q
 \v 21 They chose the best part of the land for themselves; 
@@ -118,7 +118,7 @@ in\add*) \f* the sand \add on the beaches\add*.
 \b
 \p
 \v 22 I say this about \add the tribe\add* of Dan: 
-\q The people of the tribe of Dan are like \f + \fr simile \f* a young lion; 
+\q The people of the tribe of Dan are like \f + \fk simile \f* a young lion; 
 \q2 they leap out from \add their caves in the\add* Bashan \add region to attack their
 enemies\add*. 
 \b
@@ -154,10 +154,10 @@ have\add* bronze and iron bars;
 \q2 and plenty of rain will fall from the sky. 
 \q
 \v 29 You people of Israel, Yahweh ◄has blessed/is pleased with► you.
-\q2 There is certainly \f + \fr rhetorical question \f* no nation like your nation, 
+\q2 There is certainly \f + \fk rhetorical question \f* no nation like your nation, 
 \q2 whom Yahweh has rescued \add from being slaves in Egypt\add*.
-\q \add He will be like\add* \f + \fr metaphor \f* a shield to protect you 
-\q2 and like \f + \fr metaphor \f* a sword to enable you to defeat \add your enemies\add*.
+\q \add He will be like\add* \f + \fk metaphor \f* a shield to protect you 
+\q2 and like \f + \fk metaphor \f* a sword to enable you to defeat \add your enemies\add*.
 \q Your enemies will come to you begging for you \add to act mercifully toward
 them\add*, 
 \q2 but you will trample on their backs/necks.” 

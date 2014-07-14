@@ -27,7 +27,7 @@ them\add*. \add This will surely happen because\add* I, Yahweh, have said it!”
 \p
 \v 9 Then \add it was as though\add* Yahweh touched my mouth and said, “Listen to me! I have put my message into your mouth.
 \v 10 Today I am appointing you to warn nations and kingdoms. You will tell them that I will completely destroy and get rid of
-\f + \fr doublet \f* some of them and that I will establish \f + \fr metaphor \f* others and cause them to be strong.”
+\f + \fk doublet \f* some of them and that I will establish \f + \fk metaphor \f* others and cause them to be strong.”
 \p
 \v 11 Then Yahweh said to me, “Jeremiah, what do you see?” 
 \p I replied, “I see a branch from an almond tree.” 
@@ -37,11 +37,11 @@ them\add*. \add This will surely happen because\add* I, Yahweh, have said it!”
 \add about destroying nations\add* will happen.” 
 \p
 \v 13 Then Yahweh spoke to me again and said, “What do you see now?”
-\p I replied, “I see a pot full of boiling \add water\add* \f + \fr metonymy \f*. It is tipping
+\p I replied, “I see a pot full of boiling \add water\add* \f + \fk metonymy \f*. It is tipping
 \add toward me\add* from the north.” 
 \p
 \v 14 Yahweh replied, “Yes! \add It means that\add* from the north great trouble/destruction will
-\add spread\add* over this land, \add like boiling water\add* \f + \fr metaphor \f* pouring
+\add spread\add* over this land, \add like boiling water\add* \f + \fk metaphor \f* pouring
 \add from a pot\add*. 
 \q
 \v 15 Listen to what I say: 
@@ -52,15 +52,15 @@ them\add*. \add This will surely happen because\add* I, Yahweh, have said it!”
 \q2 \add Their armies\add* will attack \add and break down\add* the walls of this city, and they will do the same thing to all
 the other towns in Judah. 
 \q
-\v 16 I will punish \f + \fr metonymy \f* my people because of all the evil things that they have done;
+\v 16 I will punish \f + \fk metonymy \f* my people because of all the evil things that they have done;
 \q they have abandoned me and they worship gods/idols. 
 \q2 They worship idols that they have made with their own hands!
 \p
 \v 17 So, get up and put on your clothes \add to get ready for action\add*! Then go to the people of Judah and tell them
 everything that I tell you to say. Do not be afraid of them, because
 \add if you are afraid of them\add*, I will cause you to be truly terrified in front of them!
-\v 18 But listen! I will cause you to be \add strong, like\add* \f + \fr metaphor \f* a city that has strong walls around it. You will be
-\add as strong as\add* \f + \fr metaphor \f* an iron pillar or a bronze wall. None of the kings or officials or priests will be able to defeat
+\v 18 But listen! I will cause you to be \add strong, like\add* \f + \fk metaphor \f* a city that has strong walls around it. You will be
+\add as strong as\add* \f + \fk metaphor \f* an iron pillar or a bronze wall. None of the kings or officials or priests will be able to defeat
 you. 
 \v 19 They will oppose you, but they will not be able to defeat you, because I will be with you and will protect you.
 \add That will surely happen because\add* I, Yahweh, have said it!”

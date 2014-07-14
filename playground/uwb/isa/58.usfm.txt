@@ -3,8 +3,8 @@
 \p
 \v 1  \add Yahweh said to me\add*, 
 \q “Shout loudly! 
-\q2 Shout like \f + \fr simile \f* a loud trumpet! 
-\q Shout to warn my Israeli people about their sins \f + \fr doublet \f*! 
+\q2 Shout like \f + \fk simile \f* a loud trumpet! 
+\q Shout to warn my Israeli people about their sins \f + \fk doublet \f*! 
 \q
 \v 2 They worship me every day; 
 \q2 \add they come to my temple because they say that\add* they are eager to know what I want them to do.
@@ -14,9 +14,9 @@
 \q2 and they delight to come to worship me. 
 \q
 \v 3  \add They say\add*, ‘We have ◄fasted/abstained from eating food► to please you,
-\q2 but you did not \f + \fr rhetorical question \f* notice our doing that. 
+\q2 but you did not \f + \fk rhetorical question \f* notice our doing that. 
 \q We humbled ourselves, 
-\q2 but you did not \f + \fr rhetorical question \f* pay any attention!’ 
+\q2 but you did not \f + \fk rhetorical question \f* pay any attention!’ 
 \b
 \q I will tell you why I did not pay attention. 
 \q2 It is because when you fast, 
@@ -27,26 +27,26 @@
 \q2 \add Doing things like that while\add* you fast will certainly not cause me to hear your prayers
 \add where I am\add*, high in heaven. 
 \q
-\v 5 You \add act as though\add* \f + \fr irony \f* you humble yourselves \f + \fr rhetorical question \f* by bowing your heads
-\q2 like \f + \fr simile \f* the tops of reeds bend \add when the wind blows\add*,
-\q and you wear \f + \fr rhetorical question \f* rough clothes and cover your heads with ashes
+\v 5 You \add act as though\add* \f + \fk irony \f* you humble yourselves \f + \fk rhetorical question \f* by bowing your heads
+\q2 like \f + \fk simile \f* the tops of reeds bend \add when the wind blows\add*,
+\q and you wear \f + \fk rhetorical question \f* rough clothes and cover your heads with ashes
 \add like people do when they are grieving\add*. 
 \q That is what you do when you are fasting, 
-\q2 but do you really think \f + \fr rhetorical question \f* that will please me? 
+\q2 but do you really think \f + \fk rhetorical question \f* that will please me? 
 \b
 \q
 \v 6 No, that is not the kind of fasting that I desire. 
-\q What I really want \f + \fr rhetorical question \f* is for you to free those who have been unjustly put in prison \f + \fr doublet \f*,
+\q What I really want \f + \fk rhetorical question \f* is for you to free those who have been unjustly put in prison \f + \fk doublet \f*,
 \q2 and to encourage those who are ◄treated cruelly/oppressed►; 
 \q2 I want you to free those who have been oppressed in any way.
 \q
-\v 7 I want you to \f + \fr rhetorical question \f* share your food with those who are hungry
+\v 7 I want you to \f + \fk rhetorical question \f* share your food with those who are hungry
 \q2 and to allow those who have no houses to stay in your houses.
 \q Give clothes to those who do not have clothes, 
 \q2 and do not hide from your relatives who need help from you. 
 \q
 \v 8 If you do those things, 
-\q \add what you do for others will be like\add* \f + \fr simile \f* a light that shines when it dawns.
+\q \add what you do for others will be like\add* \f + \fk simile \f* a light that shines when it dawns.
 \q2 The troubles \add that have been caused by your sins\add* will end quickly.
 \q Others will know about your righteous behavior, 
 \q2 and with my glorious presence I will protect you from behind
@@ -61,15 +61,15 @@
 \q
 \v 10 Give food to those who are hungry, 
 \q2 and give to people who are afflicted/suffering the things that they need.
-\q \add Your doing that will be like\add* \f + \fr metaphor \f* a light that shines in the darkness;
-\q2 instead of doing evil to people \f + \fr metaphor \f*, \add the good things that you do for them will be
-like\add* \f + \fr simile \f* sunshine at noontime. 
+\q \add Your doing that will be like\add* \f + \fk metaphor \f* a light that shines in the darkness;
+\q2 instead of doing evil to people \f + \fk metaphor \f*, \add the good things that you do for them will be
+like\add* \f + \fk simile \f* sunshine at noontime. 
 \q
 \v 11 I, Yahweh, will guide you continually, 
 \q2 and I will give you good things to satisfy you. 
 \q2 I will enable you to remain strong and healthy. 
-\q You will be like \f + \fr simile \f* a garden that is well watered, 
-\q2 like \f + \fr simile \f* a spring that never dries up. 
+\q You will be like \f + \fk simile \f* a garden that is well watered, 
+\q2 like \f + \fk simile \f* a spring that never dries up. 
 \q
 \v 12  \add Your people\add* will rebuild the cities that were destroyed long ago;
 \q2 they will build \add houses\add* on top of the old foundations.
@@ -78,7 +78,7 @@ like\add* \f + \fr simile \f* sunshine at noontime.
 \q2 and who are repairing the streets where people live. 
 \b
 \q
-\v 13 Do not travel \f + \fr metonymy \f* long distances on Sabbath/rest days, 
+\v 13 Do not travel \f + \fk metonymy \f* long distances on Sabbath/rest days, 
 \q2 and on Sabbath days do not do only the things that you delight to do.
 \q Enjoy the Sabbath days, and consider them to be delightful. 
 \q2 The Sabbath days are my holy days. 
@@ -89,6 +89,6 @@ days\add*.
 \q
 \v 14 I will enable you to be joyful. 
 \q2 I will greatly honor you; 
-\q \add it will be as though\add* \f + \fr metaphor \f* you are riding with me above the highest mountains!
+\q \add it will be as though\add* \f + \fk metaphor \f* you are riding with me above the highest mountains!
 \q2 I will give to you the \add blessings\add* that I gave to your ancestor Jacob.
 \q \add Those things will surely happen because\add* I, Yahweh, have said it.”

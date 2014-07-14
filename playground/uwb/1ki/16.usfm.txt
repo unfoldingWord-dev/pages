@@ -6,13 +6,13 @@ prophet\add* Jehu, Hanani's son, gave Baasha this message that he had received f
 \v 2 “You were very insignificant/unimportant [IDI] when I caused you to become the ruler of my Israeli people. But you have
 caused me to become very angry by doing [IDI] the kinds of evil things that King Jeroboam did. You have also caused me to
 become angry by causing my people to sin. 
-\v 3 So now I will get rid of you and your family \f + \fr metonymy \f*. I will do to you just like I did to Jeroboam and his family.
+\v 3 So now I will get rid of you and your family \f + \fk metonymy \f*. I will do to you just like I did to Jeroboam and his family.
 \v 4  \add The bodies of\add* those in your family who die in this city
 \add will not be buried; they will\add* be eaten by dogs; and \add the bodies
 of\add* those who die in the fields will be eaten by vultures.” 
 \p
 \v 5 The other things that Baasha did during the time that he ruled Israel, and the great things that his
-\add army\add* did, are written \f + \fr rhetorical question \f* in the book named 'The History of the Kings of Israel.'
+\add army\add* did, are written \f + \fk rhetorical question \f* in the book named 'The History of the Kings of Israel.'
 \v 6 When Baasha died, he was buried in Tirzah, \add the capital
 city\add*. Then his son Elah became king. 
 \p
@@ -31,7 +31,7 @@ house of \add a man named\add* Arza. Arza was the man who took care of the thing
 of Judah for 27 years. 
 \s When Zimri was king 
 \p
-\v 11 As soon as Zimri became king \f + \fr metonymy \f*, he killed all of Baasha's family \f + \fr metonymy \f*. He killed every male [IDI] in Baasha's family
+\v 11 As soon as Zimri became king \f + \fk metonymy \f*, he killed all of Baasha's family \f + \fk metonymy \f*. He killed every male [IDI] in Baasha's family
 and all of Baasha's male friends. 
 \v 12 So he got rid of all of Baasha's family. That was just what Yahweh told the prophet Jehu would happen.
 \v 13 Baasha and his son Elah had sinned and induced the Israeli people to sin. They caused Yahweh, the God whom the Israel

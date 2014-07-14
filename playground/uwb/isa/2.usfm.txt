@@ -29,7 +29,7 @@ places/nations\add*.
 \b
 \q
 \v 5 You Israeli people, 
-\q2 let's walk in the light \f + \fr metaphor \f* that comes from Yahweh! 
+\q2 let's walk in the light \f + \fk metaphor \f* that comes from Yahweh! 
 \s A warning about the coming judgment 
 \q
 \v 6 Yahweh, you have abandoned us your people 
@@ -63,15 +63,15 @@ places/nations\add*.
 \b
 \q
 \v 12 The Almighty Commander of the armies of angels has chosen a day
-\q2 when \add he will judge\add* those who are proud, every one of them \f + \fr doublet \f*,
+\q2 when \add he will judge\add* those who are proud, every one of them \f + \fk doublet \f*,
 \q2 and he will humble them. 
 \q
 \v 13  \add He will get rid of all those who think they should be admired
-like\add* \f + \fr metaphor \f* the tall cedar trees in Lebanon, 
+like\add* \f + \fk metaphor \f* the tall cedar trees in Lebanon, 
 \q2 and \add like\add* all the great oak trees in the Bashan \add region\add*.
 \q
 \v 14 He will \add get rid of all those who think they are as great
-as\add* \f + \fr metaphor \f* all the high hills 
+as\add* \f + \fk metaphor \f* all the high hills 
 \q2 and even the high mountains. 
 \q
 \v 15 He will \add get rid of all those who think that they are\add* high towers
@@ -105,5 +105,5 @@ as\add* \f + \fr metaphor \f* all the high hills
 \b
 \q
 \v 22 So, do not trust that people \add will save you\add*, 
-\q2 because they are \add as powerless as\add* \f + \fr metaphor \f* a person's breath.
-\q People certainly cannot help you \f + \fr rhetorical question \f*! 
+\q2 because they are \add as powerless as\add* \f + \fk metaphor \f* a person's breath.
+\q People certainly cannot help you \f + \fk rhetorical question \f*! 

@@ -7,7 +7,7 @@
 \v 2 Suddenly there was a strong earthquake. \add At the same time\add* an angel from God came down from heaven. He
 \add went to the tomb and\add* rolled the stone away \add from the entrance so that everyone could see that the tomb was
 empty\add*. Then he sat on the stone. 
-\v 3 His appearance was \add as bright\add* \f + \fr simile \f* as lightning, and his clothes were as white as snow.
+\v 3 His appearance was \add as bright\add* \f + \fk simile \f* as lightning, and his clothes were as white as snow.
 \v 4 The guards shook because they were very afraid. Then they became
 \add completely motionless\add*, as though they were dead. 
 \p
@@ -37,7 +37,7 @@ they should go to Galilee. They will see me there.”
 \add as a bribe\add*. 
 \v 13 They said, “Tell people, ‘His disciples came during the night and stole his
 \add body\add* while we were sleeping.’ 
-\v 14 If the governor hears \f + \fr metonymy \f* about this, we ourselves will make sure that he does not get angry
+\v 14 If the governor hears \f + \fk metonymy \f* about this, we ourselves will make sure that he does not get angry
 \add and punish you\add*. \add So you will not have to worry\add*.”
 \v 15 So the soldiers took the money and did as they were told {as
 \add the chief priests and elders\add* told them}. And this story has been told {People have told this story} among the Jews to
@@ -52,6 +52,6 @@ the very day \add that I am writing\add* this.
 \v 18 Then Jesus came \add close\add* to \add us\add* and said, “\add My
 Father\add* has given me all authority over everything and everyone in heaven and on earth.
 \v 19 So go, and \add using my authority, teach my message to\add* people of all ethnic groups so that they may become my
-disciples. Baptize them \add to be under the authority of\add* \f + \fr metonymy \f* my Father, and of me, his Son, and of the Holy Spirit.
+disciples. Baptize them \add to be under the authority of\add* \f + \fk metonymy \f* my Father, and of me, his Son, and of the Holy Spirit.
 \v 20 Teach them to obey everything that I have commanded you. And remember that I will be with you always, until the end of
 \add this\add* age.” 

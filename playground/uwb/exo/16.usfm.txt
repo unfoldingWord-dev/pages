@@ -4,7 +4,7 @@
 \v 1 They/We left Elim, and all the Israeli people came to the desert
 \add named\add* Sin. That is between Elim and Sinai \add Mountain\add*. That was on the fifteenth day of the second month after
 they/we left Egypt. 
-\v 2 There in the desert, the Israeli \f + \fr hyperbole \f* people complained against Aaron and Moses/me.
+\v 2 There in the desert, the Israeli \f + \fk hyperbole \f* people complained against Aaron and Moses/me.
 \v 3 They said to them/us, “We wish that Yahweh had killed us in Egypt! There we had meat to eat, and all the bread that we
 wanted. But you have brought us into this desert in order that we will all starve to death!”
 \p
@@ -19,11 +19,11 @@ of\add* bread for you. When I do that, the people must go out of their tents eve
 \v 6 So Aaron and Moses/I said to all the Israeli people, “This evening you will know that it was Yahweh,
 \add not us\add*, who brought you out of Egypt. 
 \v 7 And tomorrow morning you will see how great Yahweh is, because he has heard what you have complained against him. He is
-the one whom you have really complained to, because we are just his servants.” \f + \fr rhetorical question \f*
+the one whom you have really complained to, because we are just his servants.” \f + \fk rhetorical question \f*
 \v 8 Then Moses/I also said, “\add Each\add* evening Yahweh will give you meat to eat, and
 \add each\add* morning he will give you \add something that will take the place
 of\add* bread, because he has heard what you have complained about. Yahweh is the one to whom you have really complained, not
-us. We are just his servants.” \f + \fr rhetorical question \f* 
+us. We are just his servants.” \f + \fk rhetorical question \f* 
 \p
 \v 9 Then Moses/I said to Aaron, “Tell all the Israeli people, ‘Come and stand here in the presence of Yahweh, because he has
 heard what you have been complaining about.’ ” 

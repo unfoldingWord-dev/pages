@@ -20,7 +20,7 @@ things\add*;
 \b
 \q
 \v 4 You are my King and my God; 
-\q2 it is you who enable us, your people \f + \fr metonymy \f*, to defeat our enemies.
+\q2 it is you who enable us, your people \f + \fk metonymy \f*, to defeat our enemies.
 \q
 \v 5 It is by your power that we knock our enemies down and tramp on them.
 \q
@@ -33,7 +33,7 @@ things\add*;
 \q
 \v 8 We have continually boasted about what God \add has done for
 us\add*, 
-\q2 and we will thank him \f + \fr metonymy \f* forever. 
+\q2 and we will thank him \f + \fk metonymy \f* forever. 
 \qr (Think about that!) 
 \b
 \q
@@ -43,10 +43,10 @@ us\add*,
 \v 10 You have caused us to run away from our enemies, 
 \q2 with the result that they captured the things that belonged to us.
 \q
-\v 11 You have allowed us to become like \f + \fr metaphor \f* sheep that were ready to be slaughtered;
+\v 11 You have allowed us to become like \f + \fk metaphor \f* sheep that were ready to be slaughtered;
 \q2 you scattered us \add far away\add* among other nations. 
 \q
-\v 12  \add It is as though\add* \f + \fr metaphor \f* you sold us, your people,
+\v 12  \add It is as though\add* \f + \fk metaphor \f* you sold us, your people,
 \add to our enemies\add* for a very small price, 
 \q2 and you did not gain much profit from selling us! 
 \b
@@ -76,7 +76,7 @@ us\add*,
 \q2 and abandoned us in a deep dark \add ravine\add*. 
 \b
 \q
-\v 20 If we had forgotten to worship \f + \fr metonymy \f* our God, 
+\v 20 If we had forgotten to worship \f + \fk metonymy \f* our God, 
 \q2 or if we had spread out our hands to \add worship\add* a foreign god,
 \q
 \v 21 you certainly would have known that, 

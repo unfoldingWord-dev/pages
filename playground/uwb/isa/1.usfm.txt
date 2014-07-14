@@ -6,9 +6,9 @@ were kings of Judah.
 \s A message about the rebellious nation of Judah 
 \p
 \v 2 This is what Yahweh says: 
-\q “All you \add angels in\add* \f + \fr apostrophe \f* heaven and \add all you people
-on\add* \f + \fr apostrophe \f* earth, listen to me! 
-\q2 The people that I caused to exist and took care of \f + \fr doublet \f* 
+\q “All you \add angels in\add* \f + \fk apostrophe \f* heaven and \add all you people
+on\add* \f + \fk apostrophe \f* earth, listen to me! 
+\q2 The people that I caused to exist and took care of \f + \fk doublet \f* 
 \q2 have rebelled against me. 
 \q
 \v 3 Oxen know their owners, 
@@ -27,12 +27,12 @@ them\add*.”
 \q2 they have ◄abandoned/turned away from► him. 
 \b
 \q
-\v 5 Why do you \f + \fr rhetorical question \f* continue to \add do things for which\add* you should be punished?
+\v 5 Why do you \f + \fk rhetorical question \f* continue to \add do things for which\add* you should be punished?
 \q2 Why do you continue to rebel against Yahweh? 
-\q \add You are like\add* \f + \fr metaphor \f* someone whose head is badly injured
+\q \add You are like\add* \f + \fk metaphor \f* someone whose head is badly injured
 \q2 and whose mind is sick/corrupt. 
 \q
-\v 6  \add It is as though\add* \f + \fr metaphor \f* from the soles/bottoms of your feet to the
+\v 6  \add It is as though\add* \f + \fk metaphor \f* from the soles/bottoms of your feet to the
 \add top of your\add* head 
 \q2 nothing is healthy; 
 \q there are only open wounds and cuts and sores 
@@ -47,8 +47,8 @@ pain\add*.
 \q2 they destroy everything \add that they see\add*. 
 \q
 \v 8 The city of Jerusalem has already been abandoned, 
-\q2 it is like \f + \fr simile \f* a shelter in a vineyard that has been abandoned by the watchmen;
-\q it is like \f + \fr simile \f* a watchman's hut in a field of melons that has been deserted.
+\q2 it is like \f + \fk simile \f* a shelter in a vineyard that has been abandoned by the watchmen;
+\q it is like \f + \fk simile \f* a watchman's hut in a field of melons that has been deserted.
 \q2 It is a city surrounded by its enemies who are waiting to attack it.
 \q
 \v 9 If the Almighty Commander of the armies of angels had not allowed a few of us his people to ◄survive/remain alive►,
@@ -61,7 +61,7 @@ pain\add*.
 \q Listen to this message from Yahweh, \add all of you\add*! 
 \q
 \v 11 He says, “You continue to bring many sacrifices to me, 
-\q2 but I do not \f + \fr rhetorical question \f* want them \add because you do not worship me
+\q2 but I do not \f + \fk rhetorical question \f* want them \add because you do not worship me
 sincerely\add*! 
 \q You bring me many offerings to be completely burned \add on the
 altar\add*, 
@@ -71,7 +71,7 @@ altar\add*,
 \q2 that \add the priest\add* pours \add against the altar\add*.
 \q
 \v 12 When you come to my temple to worship me, 
-\q2 no one \f + \fr rhetorical question \f* told you to trample on my courtyard while you perform all those rituals.
+\q2 no one \f + \fk rhetorical question \f* told you to trample on my courtyard while you perform all those rituals.
 \q
 \v 13 Stop bringing to me those offerings, because they are useless
 \add to me\add*; 
@@ -80,8 +80,8 @@ altar\add*,
 month\add* and your ◄Sabbath days/days of rest► and your other festivals—
 \q2 I detest them because of the wicked things \add that you do\add*!
 \q
-\v 14 I \f + \fr synecdoche \f* hate all your celebrations of the new moon and the other festivals that you celebrate each year.
-\q2 They are like \f + \fr metaphor \f* a heavy burden that I am tired of carrying.
+\v 14 I \f + \fk synecdoche \f* hate all your celebrations of the new moon and the other festivals that you celebrate each year.
+\q2 They are like \f + \fk metaphor \f* a heavy burden that I am tired of carrying.
 \q
 \v 15 So, when you lift up your hands when you pray to me, 
 \q2 I will not even look at you. 
@@ -102,9 +102,9 @@ month\add* and your ◄Sabbath days/days of rest► and your other festivals—
 \q
 \v 18 Yahweh says, “You need to think about the results of what you do.
 \q2 Even though \add the guilt of\add* your sins be \add as evident and as difficult to get rid
-of\add* as \f + \fr simile \f* red stains \add on a white garment\add* \f + \fr doublet \f*, 
+of\add* as \f + \fk simile \f* red stains \add on a white garment\add* \f + \fk doublet \f*, 
 \q \add I will get rid of them completely\add* 
-\q2 \add like someone who can make that stained garment\add* become as white as snow or wool \f + \fr doublet \f*.
+\q2 \add like someone who can make that stained garment\add* become as white as snow or wool \f + \fk doublet \f*.
 \q
 \v 19 If you are willing to obey me, 
 \q2 \add I will enable you\add* to have plenty to eat. 
@@ -116,16 +116,16 @@ of\add* as \f + \fr simile \f* red stains \add on a white garment\add* \f + \fr 
 \q
 \v 21  \add You people of Jerusalem previously\add* faithfully \add worshiped
 only\add* me, 
-\q2 but now you have become like \f + \fr metaphor \f* prostitutes \add who are not faithful to any
+\q2 but now you have become like \f + \fk metaphor \f* prostitutes \add who are not faithful to any
 husband\add*. 
 \q Previously, people there always acted justly/fairly and righteously,
 \q2 but now your city \add is full of\add* murderers. 
 \q
-\v 22 Previously, you were like \f + \fr metaphor \f* pure silver, 
-\q2 but now you have become like \f + \fr metaphor \f* the scum that is left \add when the silver is
+\v 22 Previously, you were like \f + \fk metaphor \f* pure silver, 
+\q2 but now you have become like \f + \fk metaphor \f* the scum that is left \add when the silver is
 purified\add*. 
 \q Previously you were like pure wine, 
-\q2 but you have become like \f + \fr metaphor \f* wine that has a lot of water mixed with it.
+\q2 but you have become like \f + \fk metaphor \f* wine that has a lot of water mixed with it.
 \q
 \v 23 Your leaders are rebels; 
 \q2 they spend time with thieves. 
@@ -141,8 +141,8 @@ them\add*.
 \q2 And I will pay you back for the evil things that you did. 
 \q
 \v 25 I will raise my fist to strike you. 
-\q2 I will \add punish you severely\add* \f + \fr metaphor \f*, 
-\q2 as though \f + \fr metaphor \f* you were silver \add and I needed to heat you very greatly
+\q2 I will \add punish you severely\add* \f + \fk metaphor \f*, 
+\q2 as though \f + \fk metaphor \f* you were silver \add and I needed to heat you very greatly
 to\add* melt you and get rid of the impurities. 
 \q
 \v 26  \add After that happens\add*, I will give you good judges like you had previously;
@@ -165,10 +165,10 @@ to\add* melt you and get rid of the impurities.
 \q2 you will be disgraced because \add you worshiped idols\add* in the gardens where you chose
 \add to worship them\add*. 
 \q
-\v 30 You will be like \f + \fr simile \f* a very large tree which has withered leaves,
-\q2 like \f + \fr simile \f* a garden that \add is dried up because\add* it has no water.
+\v 30 You will be like \f + \fk simile \f* a very large tree which has withered leaves,
+\q2 like \f + \fk simile \f* a garden that \add is dried up because\add* it has no water.
 \q
-\v 31 Those among you who are very strong will become like \f + \fr metaphor \f* dry wood,
-\q2 and the work they do will be like \f + \fr metaphor \f* a spark; 
+\v 31 Those among you who are very strong will become like \f + \fk metaphor \f* dry wood,
+\q2 and the work they do will be like \f + \fk metaphor \f* a spark; 
 \q both they and the evil things that they do will burn up completely,
 \q2 and no one will be able to put out the fire. 

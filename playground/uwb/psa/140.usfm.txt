@@ -7,14 +7,14 @@
 \v 2 They are always planning to do evil things 
 \q2 and they are always inciting/urging people to start quarrels.
 \q
-\v 3 By what they say \f + \fr metonymy \f* \add they injure people like\add* poisonous snakes do;
-\q2 the words that they speak \f + \fr metonymy \f* \add can kill people as easily
+\v 3 By what they say \f + \fk metonymy \f* \add they injure people like\add* poisonous snakes do;
+\q2 the words that they speak \f + \fk metonymy \f* \add can kill people as easily
 as\add* cobras/vipers do. 
 \qr (Think about that!) 
 \b
 \q
-\v 4 Yahweh, protect me from the power \f + \fr metonymy \f* of wicked people. 
-\q2 Keep me safe from violent men who plan to ruin/defeat me \f + \fr synecdoche \f*.
+\v 4 Yahweh, protect me from the power \f + \fk metonymy \f* of wicked people. 
+\q2 Keep me safe from violent men who plan to ruin/defeat me \f + \fk synecdoche \f*.
 \q
 \v 5  \add It is as though\add* proud people have set a trap for me;
 \q2 \add it is as though\add* they have spread their nets to catch me;
@@ -26,7 +26,7 @@ as\add* cobras/vipers do.
 \q2 so listen to me while I cry out to you to help me. 
 \q
 \v 7 Yahweh, my Lord, you are the one who defends me strongly; 
-\q2 you have \add protected me\add* during battles \f + \fr metaphor \f* \add as though you had put a helmet
+\q2 you have \add protected me\add* during battles \f + \fk metaphor \f* \add as though you had put a helmet
 on\add* my head. 
 \q
 \v 8 Yahweh, do not give to wicked people the things that they desire,
@@ -35,7 +35,7 @@ on\add* my head.
 \b
 \q
 \v 9  \add Do not allow\add* my enemies to ◄become proud/defeat me►;
-\q2 cause the evil things that they say \f + \fr metonymy \f* they will do to me to happen to them, instead.
+\q2 cause the evil things that they say \f + \fk metonymy \f* they will do to me to happen to them, instead.
 \q
 \v 10 Cause burning coals to fall on their \add heads\add*! 
 \q2 Cause them to be thrown into deep pits, from which they cannot climb out!
@@ -47,5 +47,5 @@ on\add* my head.
 \v 12 Yahweh, I know that you defend those who are oppressed, 
 \q2 and that you do what is just/fair for those who are needy/poor.
 \q
-\v 13 Righteous people will surely thank you \f + \fr metonymy \f*, 
+\v 13 Righteous people will surely thank you \f + \fk metonymy \f*, 
 \q2 and they will live ◄in your presence/with you►. 

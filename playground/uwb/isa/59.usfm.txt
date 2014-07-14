@@ -1,53 +1,53 @@
 \c 59  
 \s Yahweh will rescue the people of Judah in spite of the evil things they have done
 \q
-\v 1 Listen to this! Yahweh's power \f + \fr metonymy \f* is not ended/gone, with the result that he cannot save you.
-\q2 He has not become deaf \f + \fr metonymy \f*, with the result that he cannot hear
+\v 1 Listen to this! Yahweh's power \f + \fk metonymy \f* is not ended/gone, with the result that he cannot save you.
+\q2 He has not become deaf \f + \fk metonymy \f*, with the result that he cannot hear
 \add you when you call to him for help\add*. 
 \q
 \v 2 But, you have separated yourselves from your God by the sins that you have committed.
 \q Because of your sins, he has turned away from you, 
 \q2 with the result that he does not pay attention to what you request him to do.
 \q
-\v 3 You do violent things \f + \fr metonymy \f* \add to others\add*, 
+\v 3 You do violent things \f + \fk metonymy \f* \add to others\add*, 
 \q2 with the result that your hands are stained with their blood.
-\q You \add constantly\add* tell \f + \fr metonymy \f* lies, 
-\q2 and you say \f + \fr metonymy \f* evil things \add about others\add*. 
+\q You \add constantly\add* tell \f + \fk metonymy \f* lies, 
+\q2 and you say \f + \fk metonymy \f* evil things \add about others\add*. 
 \q
 \v 4 When you accuse someone in court, what you say is not fair and it is not true.
 \q2 You accuse people falsely. 
 \q You are \add constantly\add* planning to cause trouble for others,
 \q2 and then you do those evil things that you planned. 
 \q
-\v 5 What you plan to do to harm people \f + \fr metaphor \f* is as dangerous as the eggs of a ◄cobra/poisonous snake►,
+\v 5 What you plan to do to harm people \f + \fk metaphor \f* is as dangerous as the eggs of a ◄cobra/poisonous snake►,
 \q2 because cobras will hatch from those eggs. 
-\q2 You trap people like \f + \fr metaphor \f* spiders trap/catch insects in their webs.
+\q2 You trap people like \f + \fk metaphor \f* spiders trap/catch insects in their webs.
 \q
-\v 6 We people cannot hide/cover our skins with clothes made of spider webs \f + \fr metaphor \f*,
+\v 6 We people cannot hide/cover our skins with clothes made of spider webs \f + \fk metaphor \f*,
 \q2 and similarly you cannot hide the evil deeds that you have done.
-\q You are \add constantly\add* acting \f + \fr metonymy \f* violently. 
+\q You are \add constantly\add* acting \f + \fk metonymy \f* violently. 
 \q
-\v 7 You \f + \fr synecdoche \f* are very quick to go and do evil deeds, 
-\q2 and you hurry to murder people \f + \fr metonymy \f* who are innocent. 
+\v 7 You \f + \fk synecdoche \f* are very quick to go and do evil deeds, 
+\q2 and you hurry to murder people \f + \fk metonymy \f* who are innocent. 
 \q You are continually thinking about sinning. 
 \q2 Wherever you go, you destroy things and cause people to suffer.
 \q
 \v 8 You do not know how to act peacefully or to treat others fairly.
-\q You always are ◄dishonest/deceiving others► \f + \fr metaphor \f*, 
+\q You always are ◄dishonest/deceiving others► \f + \fk metaphor \f*, 
 \q2 and those who imitate your behavior never have any peace within themselves.
 \b
 \q
 \v 9 Because of that, God does not rescue us \add from our enemies\add*,
 \q2 \add it seems that\add* he is not acting fairly/righteously toward us.
 \q We expect \add God to give us\add* light, 
-\q2 but all he gives us is darkness \f + \fr doublet \f*. 
+\q2 but all he gives us is darkness \f + \fk doublet \f*. 
 \q
-\v 10 We are like \f + \fr simile \f* blind people who have to feel along the wall to be able to walk anywhere.
-\q2 We stumble \add and trip\add* at noontime like \f + \fr simile \f* we would when it is dark.
-\q We are like \f + \fr simile \f* dead people who are among healthy people. 
+\v 10 We are like \f + \fk simile \f* blind people who have to feel along the wall to be able to walk anywhere.
+\q2 We stumble \add and trip\add* at noontime like \f + \fk simile \f* we would when it is dark.
+\q We are like \f + \fk simile \f* dead people who are among healthy people. 
 \q
-\v 11 We growl like \f + \fr simile \f* hungry bears; 
-\q2 we continually moan like \f + \fr simile \f* doves. 
+\v 11 We growl like \f + \fk simile \f* hungry bears; 
+\q2 we continually moan like \f + \fk simile \f* doves. 
 \q We seek \add people who do\add* what is just/fair, 
 \q2 but we cannot find any \add anywhere\add*. 
 \q \add We want God\add* to rescue us, 
@@ -56,7 +56,7 @@
 \q
 \v 12  \add But these things are happening\add* because \add it is as
 though\add* our sins are piled high in the presence of God, 
-\q2 and that they testify \f + \fr personification \f* against us. 
+\q2 and that they testify \f + \fk personification \f* against us. 
 \q We cannot deny it; 
 \q2 we know that we have done many wrong things. 
 \q
@@ -65,12 +65,12 @@ though\add* our sins are piled high in the presence of God,
 \q We ◄oppress people/treat people cruelly► by what we testify \add against
 them\add*; 
 \q2 we do not allow them to get what they have a right to get. 
-\q We \f + \fr synecdoche \f* think about the lies that we can tell, 
+\q We \f + \fk synecdoche \f* think about the lies that we can tell, 
 \q2 and then we tell them. 
 \q
 \v 14  \add In our courts\add*, the judges do not decide cases/matters fairly;
 \q2 no one is acting righteously. 
-\q In plazas where people gather together, no one tells the truth \f + \fr personification \f*;
+\q In plazas where people gather together, no one tells the truth \f + \fk personification \f*;
 \q2 \add it seems that people\add* are not allowed to say what is true.
 \q
 \v 15 No one tells the truth, 
@@ -81,20 +81,20 @@ them\add*;
 \q
 \v 16 He was disgusted when he saw that no one tried to help \add those who were being treated
 cruelly\add*. 
-\q2 So he used his own power \f + \fr metonymy \f* to rescue them; 
-\q it is because he is always righteous that he did that \f + \fr personification \f*. 
+\q2 So he used his own power \f + \fk metonymy \f* to rescue them; 
+\q it is because he is always righteous that he did that \f + \fk personification \f*. 
 \q
-\v 17  \add It is as though he is a soldier who\add* \f + \fr metaphor \f* puts on his armor and a helmet;
-\q2 his continually doing what is right is like \f + \fr metaphor \f* his armor, and his ability to rescue people is like his helmet.
+\v 17  \add It is as though he is a soldier who\add* \f + \fk metaphor \f* puts on his armor and a helmet;
+\q2 his continually doing what is right is like \f + \fk metaphor \f* his armor, and his ability to rescue people is like his helmet.
 \q His being extremely angry and his being ready to get revenge \add on those who do
-evil\add* are like \f + \fr metaphor \f* his robes. 
+evil\add* are like \f + \fk metaphor \f* his robes. 
 \q
 \v 18 He will repay his enemies for the evil things that they have done.
-\q2 He will severely punish \f + \fr metonymy \f* even those who live far \add from
+\q2 He will severely punish \f + \fk metonymy \f* even those who live far \add from
 Jerusalem\add*. 
 \q
-\v 19 When that happens, people everywhere, from the east to the west, will respect and honor Yahweh \f + \fr metonymy \f*,
-\q2 because he will come like \f + \fr simile \f* a rushing river that is pushed along by the strong wind that Yahweh sent.
+\v 19 When that happens, people everywhere, from the east to the west, will respect and honor Yahweh \f + \fk metonymy \f*,
+\q2 because he will come like \f + \fk simile \f* a rushing river that is pushed along by the strong wind that Yahweh sent.
 \b
 \q
 \v 20 And Yahweh says that he will come to Jerusalem to free his people;
@@ -103,5 +103,5 @@ Jerusalem\add*.
 \v 21 This is what Yahweh says to his people: “This is the agreement that I will make with you:
 \q My Spirit will not leave you, 
 \q2 and you will always have my message. 
-\q You will \add be able to\add* declare it \f + \fr metonymy \f*, 
+\q You will \add be able to\add* declare it \f + \fk metonymy \f*, 
 \q2 and your children and grandchildren will be able to declare it forever.”

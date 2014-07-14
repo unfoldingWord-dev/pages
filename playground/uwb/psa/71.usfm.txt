@@ -6,9 +6,9 @@
 \v 2 Because you always do what is right, help me and rescue me;
 \q2 listen to me, and save me! 
 \q
-\v 3 Be like a huge rock \f + \fr metaphor \f* under which I can be safe/protected;
-\q be like a strong fortress in which I am safe me \f + \fr doublet \f*. 
-\q You \add continually\add* command \f + \fr (OR, \add Continually\add* command) \f*
+\v 3 Be like a huge rock \f + \fk metaphor \f* under which I can be safe/protected;
+\q be like a strong fortress in which I am safe me \f + \fk doublet \f*. 
+\q You \add continually\add* command \f + \ft (OR, \add Continually\add* command) \f*
 \add your angels\add* to rescue me. 
 \q
 \v 4 God, rescue me from wicked people, 
@@ -63,17 +63,17 @@ me\add*,
 \q
 \v 18 And now, God, when I am old and my hair is gray, 
 \q2 do not abandon me. 
-\q \add Stay with me\add* while I continue to proclaim to my children and grandchildren \f + \fr hyperbole \f* that you are very powerful \f + \fr doublet \f*.
+\q \add Stay with me\add* while I continue to proclaim to my children and grandchildren \f + \fk hyperbole \f* that you are very powerful \f + \fk doublet \f*.
 \b
 \q
 \v 19 God, you do many righteous deeds; 
 \q2 \add it is as though\add* they extend up to the sky. 
 \q You have done great things; 
-\q2 there is no one like you \f + \fr rhetorical question \f*. 
+\q2 there is no one like you \f + \fk rhetorical question \f*. 
 \q
 \v 20 You have caused me to have many troubles and to suffer much,
 \q but you will cause me to become strong again; 
-\q when I am almost dead \f + \fr hyperbole \f*, you will keep me alive. 
+\q when I am almost dead \f + \fk hyperbole \f*, you will keep me alive. 
 \q
 \v 21 You will cause me to be greatly honored 
 \q2 and you will encourage/comfort me again. 
@@ -85,7 +85,7 @@ do\add*.
 \q I will play hymns to praise you, the holy God whom we Israelis
 \add worship\add*. 
 \q
-\v 23 I \f + \fr synecdoche \f* will shout joyfully while I play \add the harp\add* for you;
+\v 23 I \f + \fk synecdoche \f* will shout joyfully while I play \add the harp\add* for you;
 \q with my entire inner being I will sing 
 \q2 because you have rescued me. 
 \q

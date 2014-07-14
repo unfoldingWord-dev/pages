@@ -1,6 +1,6 @@
 \c 14  
 \q
-\v 1 Wise women \f + \fr personification \f* hold their families together \add by the wise things that they
+\v 1 Wise women \f + \fk personification \f* hold their families together \add by the wise things that they
 do\add*, 
 \q2 but foolish women ruin their families by the foolish things that they do.
 \q
@@ -10,8 +10,8 @@ they\add* have an awesome respect for Yahweh;
 they\add* despise him. 
 \b
 \q
-\v 3 Foolish people will be punished \f + \fr metonymy \f* for what they say, 
-\q2 but wise people will be protected by what they say \f + \fr metonymy \f*. 
+\v 3 Foolish people will be punished \f + \fk metonymy \f* for what they say, 
+\q2 but wise people will be protected by what they say \f + \fk metonymy \f*. 
 \b
 \q
 \v 4 If a man has no oxen \add to plow his field\add*, he does not
@@ -49,7 +49,7 @@ happened\add*.
 \q2 but houses built by good/righteous people will last for a long time.
 \b
 \q
-\v 12 There are some kinds of behavior \f + \fr metaphor \f* that some people \add falsely\add* think are right,
+\v 12 There are some kinds of behavior \f + \fk metaphor \f* that some people \add falsely\add* think are right,
 \q2 but ◄walking on those roads/continually doing those things► causes those people to die.
 \b
 \q
@@ -70,11 +70,11 @@ happened\add*.
 \b
 \q
 \v 17 Those who quickly become angry [IDI] do foolish things; 
-\q2 people hate those who plan to do wicked things \f + \fr (OR, those who have good sense remain calm/patient).
+\q2 people hate those who plan to do wicked things \f + \ft (OR, those who have good sense remain calm/patient).
 \b
 \q
 \v 18 Foolish people get what they deserve for doing foolish things;
-\q2 those with good sense are rewarded \f + \fr metaphor \f* by being able to learn much.
+\q2 those with good sense are rewarded \f + \fk metaphor \f* by being able to learn much.
 \b
 \q
 \v 19  \add Some day\add* evil people will bow down in front of righteous people
@@ -100,7 +100,7 @@ money\add*.
 \q2 but if all you do is to talk \add and not work\add*, you will remain poor.
 \b
 \q
-\v 24 One of the rewards \f + \fr metaphor \f* of being wise is to become rich; 
+\v 24 One of the rewards \f + \fk metaphor \f* of being wise is to become rich; 
 \q2 the reward of acting foolishly is to become more foolish. 
 \b
 \q
@@ -115,12 +115,12 @@ money\add*.
 \q2 and their family will also be protected. 
 \b
 \q
-\v 27 Having an awesome respect for Yahweh is like \f + \fr metaphor \f* having a fountain that gives life;
-\q2 which will help you to escape when something dangerous is threatening to kill you \f + \fr metaphor \f*.
+\v 27 Having an awesome respect for Yahweh is like \f + \fk metaphor \f* having a fountain that gives life;
+\q2 which will help you to escape when something dangerous is threatening to kill you \f + \fk metaphor \f*.
 \b
 \q
 \v 28 If a king rules over many people, many people will be able to honor him;
-\q2 if he has only a few people in his kingdom, he will have very little \f + \fr hyperbole \f* power.
+\q2 if he has only a few people in his kingdom, he will have very little \f + \fk hyperbole \f* power.
 \b
 \q
 \v 29 Those who do not quickly become angry are very wise; 
@@ -128,7 +128,7 @@ money\add*.
 \b
 \q
 \v 30 Having a mind that is peaceful results in having a healthy body;
-\q2 having a mind that is often in turmoil is like \f + \fr metaphor \f* cancer in a person's bones.
+\q2 having a mind that is often in turmoil is like \f + \fk metaphor \f* cancer in a person's bones.
 \b
 \q
 \v 31 Those who oppress poor people are insulting God, the one who made those poor people,
@@ -149,5 +149,5 @@ right) \f*.
 \b
 \q
 \v 35 Kings are pleased with officials who do their work competently/skillfully,
-\q2 but they punish \f + \fr metonymy \f* those who \add do their work in a manner
+\q2 but they punish \f + \fk metonymy \f* those who \add do their work in a manner
 that\add* causes the kings to be disgraced. 

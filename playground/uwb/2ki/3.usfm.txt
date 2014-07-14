@@ -28,7 +28,7 @@ that carried supplies.
 \p
 \v 10 The king of Israel exclaimed, “This is a terrible situation!
 \add It seems that\add* Yahweh will allow the three of us to be captured by
-\add the army of\add* \f + \fr metonymy \f* Moab!” 
+\add the army of\add* \f + \fk metonymy \f* Moab!” 
 \p
 \v 11 Jehoshaphat said, “Is there a prophet here who can ask Yahweh for us
 \add what we should do\add*?” 
@@ -36,7 +36,7 @@ that carried supplies.
 \p
 \v 12 Jehoshaphat said, “\add It will be good to ask him, because\add* he speaks what Yahweh tells him to say.”
 \p So those three kings went to Elisha. 
-\v 13 Elisha said to the king of Israel, “Why do you come to me \f + \fr rhetorical question \f*? Go and ask those prophets that your father and mother
+\v 13 Elisha said to the king of Israel, “Why do you come to me \f + \fk rhetorical question \f*? Go and ask those prophets that your father and mother
 consulted!” 
 \p But Joram replied, “No, \add we want you to ask Yahweh, because it seems
 that\add* Yahweh is going to allow us three kings to be captured by the army of Moab.”

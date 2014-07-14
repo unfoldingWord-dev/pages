@@ -22,7 +22,7 @@ were\add* Parshandatha, Dalphon, Aspatha,
 the things that belonged to the people whom they killed. 
 \v 11  \add At the end of\add* that day someone reported to the king the number of people whom the Jews killed in Susa.
 \v 12 Then the king said to Queen Esther, “The Jews have killed 500 people here in Susa, including the ten sons of Haman!
-\add So I think that\add* they must have killed many more people in the rest of my empire \f + \fr rhetorical question \f*!
+\add So I think that\add* they must have killed many more people in the rest of my empire \f + \fk rhetorical question \f*!
 \add But okay\add*, now what else do you want me to do for you. You tell me, and I will do it.”
 \v 13 Esther replied, “If it pleases you, allow the Jews here in Susa to do again tomorrow
 \add what you commanded them\add* to do today. And command that the bodies of Haman's ten sons be hanged on the gallows/poles.”
@@ -51,7 +51,7 @@ which they changed from being very sorrowful to being very joyful, from crying t
 \v 24  \add They would remember how\add* Haman, son of Hammedatha, a descendant of
 \add King\add* Agag, became an enemy of all the Jews. \add They would
 remember\add* how he had made an evil plan to kill the Jews, and that he had ◄cast lots/thrown small marked stones► to choose
-the day to kill \f + \fr doublet \f* them. 
+the day to kill \f + \fk doublet \f* them. 
 \v 25  \add They would remember\add* that when Esther told the king about Haman's plan, the king arranged that the evil plan
 that Haman had made to kill the Jews would fail, and that he \add would be
 killed\add* instead of the Jews, and that Haman and that his sons were hanged.

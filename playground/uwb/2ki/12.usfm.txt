@@ -10,12 +10,12 @@ Jerusalem\add*.
 \p
 \v 4 Joash said to the priests, “You must take all the money which the people contribute, both the money they are required to
 give and the money that they themselves decide to give, as sacred offerings to buy things for the temple.
-\v 5 Each priest must take the money from people who know him \f + \fr (OR, from one of the treasurers), and he must use that money to
+\v 5 Each priest must take the money from people who know him \f + \ft (OR, from one of the treasurers), and he must use that money to
 repair the temple whenever he sees that there is something that needs to be repaired.”
 \p
 \v 6 But after Joash had been ruling for almost twenty-three years, the priests still had not repaired anything in the temple.
 \v 7 So Joash summoned Jehoiada and the other priests and said to them, “◄Why are you not repairing things in the temple?/You
-should have been repairing things in the temple!► \f + \fr rhetorical question \f* For now on, you must not keep the money that you receive from people
+should have been repairing things in the temple!► \f + \fk rhetorical question \f* For now on, you must not keep the money that you receive from people
 who know you (OR, the treasurers) \f*. You must give it to the people who will be repairing things in the temple!”
 \v 8 The priests agreed to do that, and they also agreed that they themselves would not do the repair work.
 \p
@@ -45,7 +45,7 @@ were kept/stored, and the gold in his palace, and sent it all to King Hazael,
 \add to ◄appease him/persuade him to not attack Jerusalem►\add*. So King Hazael
 \add took his army\add* away from Jerusalem. 
 \p
-\v 19  \add If you want to read more of what\add* Joash did, it is all written \f + \fr rhetorical question \f* in the book named 'The Book of the History
+\v 19  \add If you want to read more of what\add* Joash did, it is all written \f + \fk rhetorical question \f* in the book named 'The Book of the History
 of the Kings of Judah.' 
 \v 20-21 Joash's officials plotted against him, and two of them killed Joash on the road that goes down to the Silla
 \add district\add*. The two men who did that were Jozabad, the son of Shimeath, and Jehozabad, the son of Shomer. Joash was

@@ -13,7 +13,7 @@ descendants became tribes, each with its own language and clans and territory.
 \v 7 The descendants of Cush were Seba, Havilah, Sabtah, Raamah, and Sabteca. The descendants of Raamah were Sheba and Dedan.
 \p
 \v 8 Another one of Cush's descendants was Nimrod. Nimrod was the first person on earth who became a mighty warrior.
-\v 9 Yahweh saw that he had become \f + \fr (OR, caused him to become) \f* a great hunter. That is why people say to a great hunter, “Yahweh
+\v 9 Yahweh saw that he had become \f + \ft (OR, caused him to become) \f* a great hunter. That is why people say to a great hunter, “Yahweh
 ◄sees that you are/has caused you to be► a great hunter like Nimrod.”
 \v 10 Nimrod became a king who ruled in Babylonia land. The first cities over which he ruled were Babel, Erech, Accad, and
 Calneh. 
@@ -37,7 +37,7 @@ Zeboiim \add towns\add*, and even as far as Lasha \add town\add*.
 \v 23 The sons of Aram were Uz, Hul, Gether, and Mash. 
 \v 24 Arphaxad became the father of Shelah. Shelah became the father of Eber.
 \v 25 Eber became the father of two sons. One of them was named Peleg, which means 'division,' because during the time he
-lived, people on \f + \fr metonymy \f* the earth became divided and scattered everywhere. Peleg's younger brother was Joktan.
+lived, people on \f + \fk metonymy \f* the earth became divided and scattered everywhere. Peleg's younger brother was Joktan.
 \v 26 Joktan became the ancestor of Almodad, Sheleph, Hazarmaveth, Jerah,
 \v 27 Hadoram, Uzal, Diklah, 
 \v 28 Obal, Abimael, Sheba, 

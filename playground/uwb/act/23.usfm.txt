@@ -7,7 +7,7 @@ and I do not know of anything that I have done that I knew was wrong/evil.”
 \v 2 When Ananias the high priest \add heard what Paul said\add*, he commanded the men who were standing near Paul to hit him
 on the mouth. 
 \v 3 Then Paul said to Ananias, “God will punish you\add (sg) for
-that\add*, you hypocrite \f + \fr metaphor \f*! You sit there and judge me, using the laws that
+that\add*, you hypocrite \f + \fk metaphor \f*! You sit there and judge me, using the laws that
 \add God gave Moses\add*. But you \add yourself\add* disobey those laws, because you commanded me to be struck
 {\add these men\add* to strike me} \add without having proved that I have done anything that is
 wrong!\add*” 
@@ -51,7 +51,7 @@ You\add (sg)\add* have told people \add here\add* in Jerusalem about me, and you
 \s Acts 23:12-15 
 \s Some Jews plotted to kill Paul. 
 \p
-\v 12 The next morning \add some\add* of the Jews \f + \fr metonymy \f* \add who hated
+\v 12 The next morning \add some\add* of the Jews \f + \fk metonymy \f* \add who hated
 Paul\add* met secretly and talked \add about how they could kill
 him\add*. They promised \add themselves\add* that they would not eat or drink anything until they had killed him. They asked
 God to curse them \add if they did not do what they promised\add*.
@@ -74,7 +74,7 @@ and said, ‘Please take this young man to the commander, because he needs to te
 \add important\add*.’” 
 \v 19 The commander took the young man by the hand, led him off by himself, and asked him, “What do
 you\add (sg)\add* need to tell me?” 
-\v 20 He said, “\add There are some\add* \f + \fr synecdoche \f* Jews who have planned to ask
+\v 20 He said, “\add There are some\add* \f + \fk synecdoche \f* Jews who have planned to ask
 you\add (sg)\add* to bring Paul before their Council tomorrow. They will say that they want to ask him some more questions.
 \add But that is not true\add*. 
 \v 21 Do not do what they ask you\add (sg)\add* to do, because there are more than forty
@@ -103,8 +103,8 @@ certain\add* Jews seized him and were about to kill him. But I heard
 \v 29 I listened \add while they asked this man questions and he answered
 them\add*. The things \add they\add* accused him about were entirely concerned with their
 \add Jewish\add* laws. But Paul has not disobeyed any of our \add Roman\add* laws.
-\add So our officials\add* should not execute him or \add even\add* put him in prison \f + \fr metonymy \f*.
-\v 30  \add Someone\add* told me that some \f + \fr synecdoche \f* Jews were secretly planning to kill this man, so I immediately sent him to
+\add So our officials\add* should not execute him or \add even\add* put him in prison \f + \fk metonymy \f*.
+\v 30  \add Someone\add* told me that some \f + \fk synecdoche \f* Jews were secretly planning to kill this man, so I immediately sent him to
 you, \add so that you(sg) may give him a fair trial there\add*. I have also
 \add commanded\add* the Jews who have accused him to \add go there to Caesarea
 and\add* tell you\add (sg) what they are accusing him about\add*.”

@@ -13,7 +13,7 @@
 \q2 and then they leave their mothers and do not return to them again.
 \b
 \q
-\v 5 Who allows the wild donkeys to go wherever they want \f + \fr doublet \f*?
+\v 5 Who allows the wild donkeys to go wherever they want \f + \fk doublet \f*?
 \q
 \v 6 I am the one who put them in the desert, 
 \q2 in places where grass does not grow. 
@@ -46,7 +46,7 @@ work\add*?
 away\add*, 
 \q2 leaving the eggs to be warmed in the sand. 
 \q
-\v 15 Ostriches do not worry that some wild animal may step on the eggs and crush them \f + \fr doublet \f*.
+\v 15 Ostriches do not worry that some wild animal may step on the eggs and crush them \f + \fk doublet \f*.
 \q
 \v 16 Ostriches act cruelly towards their chicks; 
 \q2 they act as though the chicks belonged to some other ostrich.
@@ -98,7 +98,7 @@ begin\add*,
 there\add*. 
 \q
 \v 29 As they watch carefully from there, 
-\q2 they see far away the animals that they can kill \f + \fr (OR, dead bodies of animals) \f*.
+\q2 they see far away the animals that they can kill \f + \ft (OR, dead bodies of animals) \f*.
 \q
 \v 30 After an eagle kills an animal, 
 \q2 the baby eagles drink the blood of that animal.” 

@@ -14,13 +14,13 @@ wings, they covered their feet with two of their wings, and they flew using two 
 \m
 \v 4 When they spoke, it caused the doorposts/foundations of the temple to shake, and the temple was filled with smoke.
 \p
-\v 5 Then I said, “Terrible things will happen to me, because everything that I say \f + \fr metonymy \f* is sinful, and I live among people
-who constantly say \f + \fr metonymy \f* sinful things. I will be destroyed because I have seen the Almighty Commander of the armies of
+\v 5 Then I said, “Terrible things will happen to me, because everything that I say \f + \fk metonymy \f* is sinful, and I live among people
+who constantly say \f + \fk metonymy \f* sinful things. I will be destroyed because I have seen the Almighty Commander of the armies of
 angels!” 
 \p
 \v 6 Then one of the winged creatures took a hot coal from the altar, using a pair of tongs. He flew to me
 \v 7 and touched my lips with the coal. Then he said, “Look \add at what I have
-done\add*. I have touched your lips \add with this coal\add*. Now your guilt is ended, and your sins are forgiven \f + \fr doublet \f*.”
+done\add*. I have touched your lips \add with this coal\add*. Now your guilt is ended, and your sins are forgiven \f + \fk doublet \f*.”
 \p
 \v 8 Then I heard Yahweh asking, “Whom shall I send \add to be a messenger to my
 people\add*? Who will go \add and speak\add* for us?” I replied, “I am here. Send me!”
@@ -53,6 +53,6 @@ enemies\add*,
 \q
 \v 13 If even one tenth of the people survive and stay there, 
 \q2 \add their enemies\add* will \add invade the land again and\add* burn everything.
-\q But, just like \f + \fr metaphor \f* when an oak tree is cut down, a stump is left
+\q But, just like \f + \fk metaphor \f* when an oak tree is cut down, a stump is left
 \add from which new shoots will grow\add*, 
 \q2 the people who remain \add in this land will be a group that\add* is ◄set apart for/dedicated to► me.”

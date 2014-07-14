@@ -3,7 +3,7 @@
 \s It is only God's Spirit who enables people to say that Jesus is Lord.
 \p
 \v 1 Now, my fellow believers, \add I will answer what you asked\add* about the things God's Spirit
-\add enables believers to do\add*. I want you to know clearly \f + \fr litotes \f*
+\add enables believers to do\add*. I want you to know clearly \f + \fk litotes \f*
 \add about these things\add*. 
 \v 2 You know that before you became Christians, various things led you to
 \add worship\add* idols, which are unable to tell you \add any of God's
@@ -31,19 +31,19 @@ miracles\add*. To others, the Spirit gives the ability to heal \add sick
 people\add*. 
 \v 10 To others, he gives the power \add to perform\add* miracles. To others, he gives the ability to speak messages that come
 directly from God. To others, he gives the ability to tell \add if a message is really from God or
-not\add*. To others he gives the ability to speak messages in languages \f + \fr metonymy \f*
-\add that they have not learned\add*. To others, he gives the ability to tell the meaning of those messages \f + \fr metonymy \f*.
+not\add*. To others he gives the ability to speak messages in languages \f + \fk metonymy \f*
+\add that they have not learned\add*. To others, he gives the ability to tell the meaning of those messages \f + \fk metonymy \f*.
 \v 11 It is the same one Spirit who gives all these abilities. He gives whatever abilities he wants to give, to whatever person
 he wants to give them. 
 \s 1 Corinthians 12:12-31 
 \s A congregation needs all the abilities that God's Spirit gives to its members, but you should especially desire the ones
 that help others the most. 
 \p
-\v 12 Although a person's body has many parts, all the parts form just one body \f + \fr doublet \f*. It is like that
+\v 12 Although a person's body has many parts, all the parts form just one body \f + \fk doublet \f*. It is like that
 \add with those who belong to\add* Christ. 
 \v 13 When we were baptized {When people baptized us}, the one \add Holy\add* Spirit caused us to become one group
 \add of believers\add*. It does not matter whether we are Jews or non-Jews. It does not matter whether we are slaves or not
-slaves. \add When we believed in Christ\add*, the one Spirit came to live \f + \fr metaphor \f* within all of us.
+slaves. \add When we believed in Christ\add*, the one Spirit came to live \f + \fk metaphor \f* within all of us.
 \p
 \v 14  \add Our\add* bodies do not have only one part. They have many parts
 \add with various functions\add*. 
@@ -52,11 +52,11 @@ slaves. \add When we believed in Christ\add*, the one Spirit came to live \f + \
 \add our\add* body. 
 \v 16 If our ear could \add talk and\add* say, “Because I am not
 \add your\add* eye, I am not a part of your body,” it would still be a part of our body.
-\v 17 If our body were only an eye, ◄we would not be able to hear./how could we hear?► \f + \fr rhetorical question \f* If our body were only an ear, ◄we
+\v 17 If our body were only an eye, ◄we would not be able to hear./how could we hear?► \f + \fk rhetorical question \f* If our body were only an ear, ◄we
 would not be able to smell \add anything\add*!/how could we smell
-\add anything\add*?► \f + \fr rhetorical question \f* 
+\add anything\add*?► \f + \fk rhetorical question \f* 
 \v 18 But the truth is that God has put all the parts of our bodies together exactly as he wanted to put them.
-\v 19 If \add our body\add* had only one part, ◄it would not be a body./how would it be a body?► \f + \fr rhetorical question \f*
+\v 19 If \add our body\add* had only one part, ◄it would not be a body./how would it be a body?► \f + \fk rhetorical question \f*
 \v 20 But the truth is that there are many parts \add in our body\add*, but it is still only one body.
 \v 21 That is why if our eye \add could talk\add*, it should never say to our hand, “I do not need you!” And if our head
 \add could talk\add*, it should not say to our feet, “I do not need you!”
@@ -65,10 +65,10 @@ would not be able to smell \add anything\add*!/how could we smell
 that we do not show to people. 
 \v 24 The parts that are \add all right to\add* show people, we do not need to protect. Instead, God, who has put all the parts
 of our bodies together, causes us to care for in a special way the parts that we think are less important.
-\v 25 He does that in order that all the parts of our body will work together harmoniously \f + \fr litotes \f*, and so that all the parts
+\v 25 He does that in order that all the parts of our body will work together harmoniously \f + \fk litotes \f*, and so that all the parts
 will care for all the other parts equally. 
 \v 26 If one part of our body hurts, \add it is as though\add* all the parts of our body are hurting. If we pay special
-attention to one part of our body, \add it is as though\add* all the parts of our body feel pleasure \f + \fr metaphor \f*.
+attention to one part of our body, \add it is as though\add* all the parts of our body feel pleasure \f + \fk metaphor \f*.
 \p
 \v 27  \add Everything I have just said about how the parts of our bodies relate to each other applies to
 how\add* all of you who belong to Christ \add should relate to each
@@ -79,20 +79,20 @@ work\add*.
 \add in rank\add* are those who teach \add spiritual truth\add*. Then there are those who have the power to work miracles,
 those who have the ability to heal \add sick people\add*, those who have the ability to help
 \add others\add*, those who have the ability to govern \add the affairs of the
-congregation\add*, and those who have the ability to speak \add messages\add* in languages \f + \fr metonymy \f*
+congregation\add*, and those who have the ability to speak \add messages\add* in languages \f + \fk metonymy \f*
 \add that they have not learned\add*. 
 \v 29 ◄Certainly not all \add believers\add* are apostles./Are all
-\add believers\add* apostles?► \f + \fr rhetorical question \f* ◄They all do not have the ability to speak messages that come directly from God./Do they
-all have the ability to speak messages that come directly from God?► \f + \fr rhetorical question \f* ◄They do not all have the ability to teach
+\add believers\add* apostles?► \f + \fk rhetorical question \f* ◄They all do not have the ability to speak messages that come directly from God./Do they
+all have the ability to speak messages that come directly from God?► \f + \fk rhetorical question \f* ◄They do not all have the ability to teach
 \add spiritual truth\add*./Do they all have the ability to teach
-\add spiritual truth\add*?► \f + \fr rhetorical question \f* ◄They do not all have the power to work miracles./Do they all have the power to work
-miracles?► \f + \fr rhetorical question \f* 
-\v 30 ◄They do not all have the ability to heal people./Do they all have the ability to heal people?► \f + \fr rhetorical question \f* ◄They do not all
-have the ability to speak \add messages\add* in languages \f + \fr metonymy \f* \add they have not
-learned\add*./Do they all have the ability to speak \add messages\add* in languages \f + \fr metonymy \f*
-\add that they have not learned\add*?► \f + \fr rhetorical question \f* ◄They do not all have the ability to tell others the meaning of those messages./Do
-they all have the ability to tell others the meaning of those messages?► \f + \fr rhetorical question \f*
+\add spiritual truth\add*?► \f + \fk rhetorical question \f* ◄They do not all have the power to work miracles./Do they all have the power to work
+miracles?► \f + \fk rhetorical question \f* 
+\v 30 ◄They do not all have the ability to heal people./Do they all have the ability to heal people?► \f + \fk rhetorical question \f* ◄They do not all
+have the ability to speak \add messages\add* in languages \f + \fk metonymy \f* \add they have not
+learned\add*./Do they all have the ability to speak \add messages\add* in languages \f + \fk metonymy \f*
+\add that they have not learned\add*?► \f + \fk rhetorical question \f* ◄They do not all have the ability to tell others the meaning of those messages./Do
+they all have the ability to tell others the meaning of those messages?► \f + \fk rhetorical question \f*
 \add Certainly not!\add* 
 \v 31 But you should eagerly desire to have \add the abilities that will help other
-believers\add* the most \f + \fr (OR\add , the abilities that God considers\add* to be the most important) \f*. But now I will tell you the
+believers\add* the most \f + \ft (OR\add , the abilities that God considers\add* to be the most important) \f*. But now I will tell you the
 best way \add to use the abilities that God's Spirit has given you\add*.

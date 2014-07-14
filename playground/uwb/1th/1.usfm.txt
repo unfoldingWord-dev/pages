@@ -3,8 +3,8 @@
 \v 1  \add I\add*, Paul, \add am writing this letter\add*. Silas and Timothy
 \add are with me\add*. \add We(exc) are sending this letter\add* to
 \add you who are\add* the congregation \add of believers\add* in Thessalonica
-\add city\add*. We\add (inc)\add* all \add worship\add* \f + \fr (OR, \add trust
-in\add*) God \add our\add* Father \f + \fr metaphor \f* and \add our\add* Lord Jesus Christ.
+\add city\add*. We\add (inc)\add* all \add worship\add* \f + \ft (OR, \add trust
+in\add*) God \add our\add* Father \f + \fk metaphor \f* and \add our\add* Lord Jesus Christ.
 \add We three desire/pray that God, our Father, and Jesus Christ, our Lord, will continue
 to\add* act kindly toward you and \add will continue to\add* cause you to have
 \add inner\add* peace. 
@@ -36,7 +36,7 @@ Christ\add*. You endured just like the Lord \add Jesus Christ\add* endured, and 
 God\add* as you do. 
 \v 8 Other people have heard you tell the message \add from\add* the Lord
 \add Jesus\add*. Then they also have proclaimed the message to people who live throughout Macedonia and Achaia
-\add provinces\add*. Not only that, but \add people who live\add* in many far-away places \f + \fr hyperbole \f* have heard that you trust in
+\add provinces\add*. Not only that, but \add people who live\add* in many far-away places \f + \fk hyperbole \f* have heard that you trust in
 God. As a result, we do not need to tell people \add what God has done in your
 lives\add*. 
 \v 9 People \add who live far from you are telling others what happened when we were with
@@ -45,4 +45,4 @@ that\add* ◄\add you/your ancestors\add*► \add considered to be\add* gods and
 \add As a result\add*, you serve the God who is all-powerful and who is the real God.
 \v 10 They tell us that now you wait expectantly for his Son \add to return to
 earth\add* from heaven. You firmly believe that God caused him to live again after he died. You believe also that Jesus will
-rescue \add all of\add* us, \add who trust in him\add*, from \add God's\add* punishing us \f + \fr metonymy \f*.
+rescue \add all of\add* us, \add who trust in him\add*, from \add God's\add* punishing us \f + \fk metonymy \f*.

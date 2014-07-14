@@ -4,7 +4,7 @@
 \v 1 Some day, people in Judah will sing this song: 
 \q Our city \add of Jerusalem\add* is strong! 
 \q2 Yahweh protects our city; 
-\q2 He is like \f + \fr metaphor \f* a wall that surrounds it. 
+\q2 He is like \f + \fk metaphor \f* a wall that surrounds it. 
 \q
 \v 2 Open the gates of the city for people who are righteous; 
 \q2 allow people who faithfully \add obey Yahweh\add* to enter the city.
@@ -15,7 +15,7 @@
 beings\add*. 
 \q
 \v 4 So always trust in Yahweh, 
-\q2 because is forever like \f + \fr metaphor \f* a huge rock \add under which we are
+\q2 because is forever like \f + \fk metaphor \f* a huge rock \add under which we are
 sheltered/protected/safe\add*. 
 \q
 \v 5 He humbles proud people 
@@ -33,7 +33,7 @@ sheltered/protected/safe\add*.
 \q2 we show that we trust you to help us; 
 \q and what we desire in our inner beings is that you will be honored/praised/exalted.
 \q
-\v 9 All during the nights I \f + \fr synecdoche \f* desire to know you better, 
+\v 9 All during the nights I \f + \fk synecdoche \f* desire to know you better, 
 \q2 and in the mornings I still want to be with you. 
 \q Only when you come to judge \add and punish\add* people who live on the earth
 \q2 will they learn to do what is right. 
@@ -54,7 +54,7 @@ them\add*,
 \q2 all that we have done is what you have enabled us to do. 
 \q
 \v 13 Yahweh, our God, others have ruled over us, 
-\q2 but you \f + \fr metonymy \f* are the only one whom we honor. 
+\q2 but you \f + \fk metonymy \f* are the only one whom we honor. 
 \q
 \v 14 Those who ruled us are now gone; they are dead; 
 \q2 their spirits have left this earth and they will not become alive again.
@@ -75,7 +75,7 @@ us\add*;
 \q2 we suffered very much, too. 
 \q
 \v 18 We had severe pain, 
-\q2 but nothing good resulted \f + \fr metaphor \f* from it. 
+\q2 but nothing good resulted \f + \fk metaphor \f* from it. 
 \q We have not rescued our people \add from being conquered by our
 enemies\add*, 
 \q2 and we have not given birth to children who will \add rule the world
@@ -98,5 +98,5 @@ nations\add*.
 \q
 \v 21 Listen to this: Yahweh will come from heaven 
 \q2 to punish all the people on the earth for the sins that they have committed.
-\q People will be able to see \f + \fr personification \f* the ◄blood of those/the people► who have been murdered;
+\q People will be able to see \f + \fk personification \f* the ◄blood of those/the people► who have been murdered;
 \q2 their murderers will no longer be able to hide. 

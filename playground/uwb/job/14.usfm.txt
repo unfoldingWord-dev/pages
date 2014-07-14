@@ -4,15 +4,15 @@
 \v 1 “We humans are very frail. 
 \q2 We live only a short time, and we experience a lot of trouble.
 \q
-\v 2 We disappear quickly, like flowers that grow from the ground quickly and then wither and die \f + \fr simile \f*.
+\v 2 We disappear quickly, like flowers that grow from the ground quickly and then wither and die \f + \fk simile \f*.
 \q2 We are like shadows that disappear \add when the sun stops shining\add*.
 \q
 \v 3  \add Yahweh\add*, why do you keep watching me \add to see if I am doing something that is
-wrong\add* \f + \fr rhetorical question \f*? 
+wrong\add* \f + \fk rhetorical question \f*? 
 \q2 Are you wanting to take me to court to judge me? 
 \q
 \v 4 People are sinners from the time when they are born; 
-\q2 who can cause them to be sinless? No one \f + \fr rhetorical question \f*! 
+\q2 who can cause them to be sinless? No one \f + \fk rhetorical question \f*! 
 \q
 \v 5 You have decided how long our lives will be. 
 \q2 You have decided how many months we will live, 
@@ -40,7 +40,7 @@ wrong\add* \f + \fr rhetorical question \f*?
 \q
 \v 12 people sometimes \add lie down and die\add* and do not get up again.
 \q Until the heavens disappear, 
-\q2 people who die \f + \fr euphemism \f* do not wake up, 
+\q2 people who die \f + \fk euphemism \f* do not wake up, 
 \q2 and no one can wake them up. 
 \b
 \q
@@ -49,14 +49,14 @@ wrong\add* \f + \fr rhetorical question \f*?
 \q I wish that you would decide how much time I would spend there,
 \q2 and then remember that I \add am there\add*. 
 \q
-\v 14 When we humans die, we will certainly not live again \f + \fr rhetorical question \f*.
+\v 14 When we humans die, we will certainly not live again \f + \fk rhetorical question \f*.
 \q2 If \add I knew that\add* we would live again, I would wait patiently,
 \q2 and I would wait for you to release me \add from my sufferings\add*.
 \q
 \v 15 You would call me, and I would answer. 
 \q2 You would be eager to see me, one of the creatures that you had made.
 \q
-\v 16 You would take care of \f + \fr metaphor \f* me, 
+\v 16 You would take care of \f + \fk metaphor \f* me, 
 \q2 instead of watching me to see if I would sin. 
 \q
 \v 17  \add The record of\add* my sins would be sealed in a small bag,
@@ -69,7 +69,7 @@ wrong\add* \f + \fr rhetorical question \f*?
 \q2 you \add eventually destroy us\add*; you do not allow us to continue to ◄hope/confidently expect►
 \add that we will keep on living\add*. 
 \q
-\v 20 You always defeat us, and then we die \f + \fr euphemism \f*. 
+\v 20 You always defeat us, and then we die \f + \fk euphemism \f*. 
 \q2 You cause our faces to look ugly after we die, 
 \q2 and you send us away. 
 \q

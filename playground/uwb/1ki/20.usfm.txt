@@ -32,15 +32,15 @@ that\add* there will not be enough dust and rubble left for each of my soldiers 
 will strike me dead if we do not do that!” 
 \p
 \v 11 King Ahab replied \add to the messengers\add*, “Tell King Ben-Hadad that a soldier who is putting on his armor
-\add preparing to fight a battle\add* \f + \fr metonymy \f* should not boast at that time; he
+\add preparing to fight a battle\add* \f + \fk metonymy \f* should not boast at that time; he
 \add should wait until\add* after he wins the battle.” 
 \p
 \v 12 Ben-Hadad heard that message while he and the other rulers were drinking
-\add wine\add* in their temporary shelters. He told his men to prepare to attack \f + \fr metonymy \f* the city. So his men did that.
+\add wine\add* in their temporary shelters. He told his men to prepare to attack \f + \fk metonymy \f* the city. So his men did that.
 \s Ahab's soldiers won their first victory over the Syrians 
 \p
 \v 13 At that moment, a prophet came to King Ahab and said to him, “This is what Yahweh says:
-‘\add Do not be at all afraid\add* \f + \fr rhetorical question \f* of the large enemy army that you see! I will enable your army to defeat them today,
+‘\add Do not be at all afraid\add* \f + \fk rhetorical question \f* of the large enemy army that you see! I will enable your army to defeat them today,
 and you will know that it is I, Yahweh, \add who has done it\add*.’ ”
 \p
 \v 14 Ahab asked, “What group \add of our army\add* will defeat them?” The prophet replied, “The young soldiers who are

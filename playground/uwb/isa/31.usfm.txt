@@ -34,14 +34,14 @@ lion\add*,
 \q2 \add and nothing will hinder me\add*. 
 \q
 \v 5 I, the Almighty Commander of the armies of angels, will protect Jerusalem
-\q2 like \f + \fr simile \f* a \add mother\add* bird protects the baby birds/chicks
+\q2 like \f + \fk simile \f* a \add mother\add* bird protects the baby birds/chicks
 \add in her nest\add*: 
 \q I will defend the city 
 \q2 and rescue it from its enemies.” 
 \b
 \p
 \v 6 My people, even though you have greatly rebelled against Yahweh, return to him.
-\v 7 When you do that, each of you will throw away the idols that you \f + \fr synecdoche \f* have sinned by making, idols that are
+\v 7 When you do that, each of you will throw away the idols that you \f + \fk synecdoche \f* have sinned by making, idols that are
 \add covered with\add* silver and gold. 
 \b
 \q
@@ -51,7 +51,7 @@ lion\add*,
 \q2 and \add those who are not killed\add* will ◄panic/be very afraid► and flee.
 \q And some of them will \add be captured\add* and forced to become slaves.
 \q
-\v 9 Even their very strong soldiers \f + \fr metonymy \f* will be terrified; 
+\v 9 Even their very strong soldiers \f + \fk metonymy \f* will be terrified; 
 \q2 they will abandon their battle flags and run away! 
 \q Yahweh will cause his enemies who attack Jerusalem to be destroyed.
 \q Yahweh's presence on Zion Hill is like a fire, 

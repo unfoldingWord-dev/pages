@@ -6,11 +6,11 @@
 \v 2 “I wish/desire that I could be like I was previously, 
 \q2 during the years when God took care of me. 
 \q
-\v 3 During those years, \add it was as though\add* God's lamp \f + \fr metaphor \f* shone on me
+\v 3 During those years, \add it was as though\add* God's lamp \f + \fk metaphor \f* shone on me
 \q2 and gave me light while I walked in the darkness. 
 \q
 \v 4 At that time I was young and strong, 
-\q2 and because God was my friend, \add he protected\add* \f + \fr personification \f* my tent.
+\q2 and because God was my friend, \add he protected\add* \f + \fk personification \f* my tent.
 \q
 \v 5 Almighty \add God\add* was with me during those years 
 \q2 when all my children were around me. 
@@ -25,45 +25,45 @@
 \v 8 and when the young men saw me, they stepped aside \add respectfully\add*,
 \q2 and the old men also stood \add respectfully\add*. 
 \q
-\v 9 The leaders of the people stopped talking \f + \fr doublet \f*, 
+\v 9 The leaders of the people stopped talking \f + \fk doublet \f*, 
 \q
 \v 10 and even the most important men became quiet 
-\q2 and ceased talking \f + \fr metonymy \f* \add in order to hear me speak to them\add*.
+\q2 and ceased talking \f + \fk metonymy \f* \add in order to hear me speak to them\add*.
 \q
-\v 11 When they \f + \fr synecdoche \f* all heard \add what I told them\add*, 
+\v 11 When they \f + \fk synecdoche \f* all heard \add what I told them\add*, 
 \q2 they said good things about me. 
-\q When they \f + \fr synecdoche \f* saw me \f + \fr (OR, what I had done) \f*, they commended me,
+\q When they \f + \fk synecdoche \f* saw me \f + \ft (OR, what I had done) \f*, they commended me,
 \q
 \v 12 because I had helped the poor people when they cried out for help
 \q2 and I aided/helped orphans who had no one else to help them.
 \q
-\v 13 Those who were suffering and about to die praised \f + \fr personification \f* me,
-\q2 and I caused widows \f + \fr synecdoche \f* to sing joyfully, \add because of my helping
+\v 13 Those who were suffering and about to die praised \f + \fk personification \f* me,
+\q2 and I caused widows \f + \fk synecdoche \f* to sing joyfully, \add because of my helping
 them\add*. 
 \q
 \v 14 I always acted justly; 
-\q2 my continually doing that was like \f + \fr metaphor \f* a robe that I wore and a turban
+\q2 my continually doing that was like \f + \fk metaphor \f* a robe that I wore and a turban
 \add that was wrapped around my head\add*. 
 \q
-\v 15  \add It was as though\add* \f + \fr metaphor \f* I was eyes for blind people
+\v 15  \add It was as though\add* \f + \fk metaphor \f* I was eyes for blind people
 \q2 and feet for people who were lame. 
 \q
-\v 16 I was like \f + \fr metaphor \f* a father to the poor people, 
+\v 16 I was like \f + \fk metaphor \f* a father to the poor people, 
 \q2 and in the courts I defended those who were strangers. 
 \q
 \v 17 My causing wicked people \add to be unable to continue oppressing others was
-like\add* \f + \fr metaphor \f* breaking the fangs \add of fierce wild animals\add*
+like\add* \f + \fk metaphor \f* breaking the fangs \add of fierce wild animals\add*
 \q2 and forcing them to drop from their teeth/mouths the animals that they had caught/seized.
 \b
 \q
-\v 18 At that time I thought, ‘Surely I will live securely, until I am very old \f + \fr simile \f*,
+\v 18 At that time I thought, ‘Surely I will live securely, until I am very old \f + \fk simile \f*,
 \q2 and I will die at home \add with my family\add*.’ 
 \q
-\v 19 I was like \f + \fr metaphor \f* a tree whose roots reach down into the water
+\v 19 I was like \f + \fk metaphor \f* a tree whose roots reach down into the water
 \q2 and whose branches become wet with dew each night. 
 \q
 \v 20 People always honored me, 
-\q2 and I was always \add strong like\add* \f + \fr metaphor \f* a new bow. 
+\q2 and I was always \add strong like\add* \f + \fk metaphor \f* a new bow. 
 \b
 \q
 \v 21 When I spoke, people waited to hear \add what I would say\add*
@@ -71,10 +71,10 @@ like\add* \f + \fr metaphor \f* breaking the fangs \add of fierce wild animals\a
 do\add*. 
 \q
 \v 22 After I finished speaking, they did not say anymore; 
-\q2 \add it was as though\add* \f + \fr metaphor \f* my words fell on their ears like drops of rain.
+\q2 \add it was as though\add* \f + \fk metaphor \f* my words fell on their ears like drops of rain.
 \q
 \v 23 They waited for me \add to speak\add* like they wait for rain;
-\q2 they \add appreciated what I said\add* like \f + \fr metaphor \f* \add farmers
+\q2 they \add appreciated what I said\add* like \f + \fk metaphor \f* \add farmers
 appreciate\add* the final rain in the spring \add before the dry
 season\add*. 
 \q
@@ -84,5 +84,5 @@ them\add*;
 \q
 \v 25 I was their leader, and I decided what things \add would be good for them to
 do\add*; 
-\q2 I was among them like \f + \fr simile \f* a king who is among his troops; 
+\q2 I was among them like \f + \fk simile \f* a king who is among his troops; 
 \q2 I was like someone who comforts others who are mourning.” 

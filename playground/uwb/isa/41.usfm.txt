@@ -1,7 +1,7 @@
 \c 41  
 \s Yahweh will help Israel 
 \q
-\v 1  \add Yahweh says\add*, “You \add people who live on\add* \f + \fr apostrophe \f* islands in the ocean,
+\v 1  \add Yahweh says\add*, “You \add people who live on\add* \f + \fk apostrophe \f* islands in the ocean,
 \q2 be silent in front of me \add while I ask you some questions\add*!
 \q Then you can be courageous and talk to me. 
 \q2 We will meet together and decide \add which one of us is right\add*.
@@ -10,20 +10,20 @@
 \v 2 Who has urged this king to come from the east? 
 \q Who has enabled his \add army\add* to righteously defeat many nations
 \q2 and to trample their kings under their feet? 
-\q With their swords they cut \add their enemies\add* into tiny pieces \f + \fr hyperbole \f*;
-\q2 with their arrows they cause their enemies to scatter like \f + \fr simile \f* the wind scatters chaff.
+\q With their swords they cut \add their enemies\add* into tiny pieces \f + \fk hyperbole \f*;
+\q2 with their arrows they cause their enemies to scatter like \f + \fk simile \f* the wind scatters chaff.
 \q
 \v 3 Even though they march through areas where they have not gone previously,
 \q2 they pursue \add their enemies\add* and continue to march, and nothing stops them.
 \q
-\v 4 Who has enabled rulers to do \f + \fr doublet \f* mighty deeds like that? 
+\v 4 Who has enabled rulers to do \f + \fk doublet \f* mighty deeds like that? 
 \q2 Who has done that throughout all generations? 
 \q It is I, Yahweh; 
 \q2 I was the first \add one to do things like that\add*, and I will be the last one
 \add to do them\add*.” 
 \s Idols are useless 
 \q
-\v 5  \add People who live on\add* \f + \fr personification \f* islands in the ocean are afraid while they watch.
+\v 5  \add People who live on\add* \f + \fk personification \f* islands in the ocean are afraid while they watch.
 \q2 People in remote areas tremble and gather together. 
 \q
 \v 6 They encourage each other and say to each other, 
@@ -39,7 +39,7 @@
 \q2 you are \add descendants of\add* Jacob, whom I chose; 
 \q2 you are descendants of Abraham, who \add I said is\add* my friend.
 \q
-\v 9 I summoned you from very distant places \f + \fr doublet \f* on the earth,
+\v 9 I summoned you from very distant places \f + \fk doublet \f* on the earth,
 \q2 and I said ‘I \add want you to\add* serve me; 
 \q I have chosen you, 
 \q2 and I will not reject you.’ 
@@ -52,7 +52,7 @@
 \b
 \q
 \v 11 It is certain that all those who are angry with you \add Israeli
-people\add* will be disgraced \f + \fr doublet \f*. 
+people\add* will be disgraced \f + \fk doublet \f*. 
 \q2 Those who oppose you will be wiped out; 
 \q2 they will all die. 
 \q
@@ -67,20 +67,20 @@ people\add* will be disgraced \f + \fr doublet \f*.
 \q and I say to you, “Do not be afraid, 
 \q2 because I will help you.” 
 \q
-\v 14 Although you people of Israel \f + \fr doublet \f* \add think that you are as insignificant
+\v 14 Although you people of Israel \f + \fk doublet \f* \add think that you are as insignificant
 as\add* worms, 
 \q2 do not be afraid \add of your enemies\add*, 
 \q because I will help you. 
 \q I am Yahweh, the one who rescues you; 
 \q2 I am the Holy One of Israel. 
 \q
-\v 15  \add I will cause\add* you to be like \f + \fr metaphor \f* a ◄threshing sledge/big piece of metal that has sharp teeth for separating
+\v 15  \add I will cause\add* you to be like \f + \fk metaphor \f* a ◄threshing sledge/big piece of metal that has sharp teeth for separating
 grain from chaff►. 
 \q You will tear \add your enemies to bits\add* 
 \q2 causing them to be like bits of chaff on the mountains. 
 \q
 \v 16 You will toss them up into the air, 
-\q2 and a strong wind will blow them away \f + \fr doublet \f*. 
+\q2 and a strong wind will blow them away \f + \fk doublet \f*. 
 \q When that happens, you will rejoice about what I \add have done for
 you\add*; 
 \q2 you will praise me, the Holy One of Israel. 
@@ -93,14 +93,14 @@ you\add*;
 \q
 \v 18 I will cause rivers to flow for them on the barren hills. 
 \q2 I will give them fountains in the valleys. 
-\q I will fill \f + \fr hyperbole \f* the desert with pools of water. 
+\q I will fill \f + \fk hyperbole \f* the desert with pools of water. 
 \q2 Water from springs will flow into rivers, 
 \q2 and the rivers will flow across the dry ground. 
 \q
 \v 19 I will plant trees in the desert— 
 \q2 cedar trees, acacia trees, myrtle trees, olive trees, cypress trees, fir trees, and pine trees.
 \q
-\v 20 I will do that in order that people who see it will think about it, and they will know and understand \f + \fr doublet \f*
+\v 20 I will do that in order that people who see it will think about it, and they will know and understand \f + \fk doublet \f*
 \q2 that it is I, Yahweh, who has done it; 
 \q it is what I, the Holy One of Israel, have done.” 
 \s Yahweh mocks the idols 
@@ -120,7 +120,7 @@ you\add*;
 \q Tell them to do something—either something good or something bad!
 \q2 Tell them to do something that will cause us to be amazed and afraid!
 \q
-\v 24 But \add that is impossible, because\add* idols are absolutely worthless \f + \fr hyperbole \f*;
+\v 24 But \add that is impossible, because\add* idols are absolutely worthless \f + \fk hyperbole \f*;
 \q2 they can do nothing, 
 \q2 and I detest those who decide \add to worship\add* idols.” 
 \s A prediction about Cyrus 
@@ -129,20 +129,20 @@ you\add*;
 army\add* from the north. 
 \q2 I have summoned him to come from \add his country, which is\add* east
 \add of Israel\add*, 
-\q and I have given him my authority \f + \fr metonymy \f*. 
+\q and I have given him my authority \f + \fk metonymy \f*. 
 \q2 I will \add enable his army to conquer other rulers\add*; 
-\q2 they will trample those leaders like \f + \fr simile \f* a man who makes clay pots first tramples the clay.
+\q2 they will trample those leaders like \f + \fk simile \f* a man who makes clay pots first tramples the clay.
 \q
-\v 26 ◄Who told you people long ago that this would happen?/No one told you people long ago that this would happen!► \f + \fr rhetorical question \f*
+\v 26 ◄Who told you people long ago that this would happen?/No one told you people long ago that this would happen!► \f + \fk rhetorical question \f*
 \q2 ◄Who predicted it, with the result that we can say, “What he predicted was correct!”?/No one predicted it, with the result
-that we can say, “What he predicted was correct!”!► \f + \fr rhetorical question \f* 
+that we can say, “What he predicted was correct!”!► \f + \fk rhetorical question \f* 
 \q No one else said that it would happen. 
 \q
 \v 27 I was the first one to tell \add the people of\add* Jerusalem,
 \q2 ‘Listen to this! I have appointed a messenger to tell good news to you!’
 \q
-\v 28 None of your idols told you that \f + \fr doublet \f*. 
+\v 28 None of your idols told you that \f + \fk doublet \f*. 
 \q2 And when I asked them questions, none of them was able to give me any answers.
 \q
-\v 29 Think about it: those idols are all useless, worthless \f + \fr doublet \f* things.
-\q2 They are \add as meaningless as\add* \f + \fr metaphor \f* the wind.” 
+\v 29 Think about it: those idols are all useless, worthless \f + \fk doublet \f* things.
+\q2 They are \add as meaningless as\add* \f + \fk metaphor \f* the wind.” 

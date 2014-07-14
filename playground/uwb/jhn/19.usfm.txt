@@ -8,7 +8,7 @@ bone fastened to it►.
 \add something like\add* a crown. Then they put it on his head. They also put a purple robe on him.
 \add They did these things to ridicule him by pretending that he was a
 king\add*. 
-\v 3 Then they kept coming to him and saying, “Hooray for the King of the Jews \f + \fr irony \f*!” and slapping him
+\v 3 Then they kept coming to him and saying, “Hooray for the King of the Jews \f + \fk irony \f*!” and slapping him
 \add on his face\add*. 
 \p
 \v 4 Once more Pilate came outside and said to the crowd, “Look! I am bringing him out to you so that you may know that I do
@@ -20,7 +20,7 @@ not find that he has done anything for which we should punish him
 cross! Crucify him!” Pilate, \add knowing that they could not legally do it
 themselves\add*, said to them, “You yourselves take him and nail him to a cross! As for me, I do not find that he has done
 anything for which we should punish him.” 
-\v 7 The Jewish \add leaders\add* \f + \fr synecdoche \f* replied, “\add Our ancestor Moses gave
+\v 7 The Jewish \add leaders\add* \f + \fk synecdoche \f* replied, “\add Our ancestor Moses gave
 us\add* the law that says we must kill anyone \add who claims to be
 God\add*. This man claims that he is ◄the Son of/the man who is also► God,
 \add so you must have him killed\add* {\add command your soldiers to kill
@@ -31,12 +31,12 @@ Jesus\add*.
 \add really\add* come from?” But Jesus did not answer him. 
 \v 10 So Pilate said to him, “Are you refusing to answer me? Do you not know that I have authority to release you, and I
 \add also\add* have authority to \add have\add* you crucified {command my soldiers to crucify you}?”
-\v 11 Jesus replied, “The only authority you have is what has been given to you by God \f + \fr metonymy \f* {what God \f + \fr metonymy \f* has given you}.
+\v 11 Jesus replied, “The only authority you have is what has been given to you by God \f + \fk metonymy \f* {what God \f + \fk metonymy \f* has given you}.
 The \add high priest\add* put me into your hands. \add He has done to me what he wanted to do, and you do not really want to do
 it\add*. So he is guilty of committing a greater sin than you are.”
 \p
 \v 12 Because of that, Pilate kept trying to release Jesus. But the Jewish
-\add leaders \add*\f + \fr synecdoche \f*, \add threatening to report to the Emperor that Pilate was not going to punish a man who claimed he was
+\add leaders \add*\f + \fk synecdoche \f*, \add threatening to report to the Emperor that Pilate was not going to punish a man who claimed he was
 a king\add*, continued to shout, “Anyone who claims that he is a king is opposing the Emperor! So if you release this man,
 \add we will make sure that\add* the Emperor\add learns about it, and then he will not consider you
 as\add* his friend!” 
@@ -44,9 +44,9 @@ as\add* his friend!”
 \add about punishing people\add*. The place was called {People called it} The Stone Pavement. In the Aramaic language its name
 was Gabbatha. 
 \v 14 It was almost noontime, on the day that they prepared \add things
-for\add* the Passover \add celebration\add* \f + \fr (OR, the day before the
+for\add* the Passover \add celebration\add* \f + \ft (OR, the day before the
 \add Sabbath during\add* the Passover \add celebration\add*). 
-\p Pilate said to the Jewish \add leaders\add* \f + \fr synecdoche \f*, \add ridiculing
+\p Pilate said to the Jewish \add leaders\add* \f + \fk synecdoche \f*, \add ridiculing
 them\add*, “Look at your king!” 
 \v 15 They shouted, “Take him away! Take him away! \add Have\add* him crucified {Command your soldiers to nail him to a
 cross}!” Pilate said to them, “\add He is\add* your king! Do you really want me to
@@ -91,7 +91,7 @@ result, these words were fulfilled {they fulfilled these words} that
 \add village\add*. 
 \v 26 Jesus saw his mother standing there. He also saw me standing nearby. Then he said to his mother, “This man
 \add will now be like\add* your son.” 
-\v 27 And he said to me, “\add Treat this\add* woman as \f + \fr metaphor \f* your mother.” So from that time I took her to my home
+\v 27 And he said to me, “\add Treat this\add* woman as \f + \fk metaphor \f* your mother.” So from that time I took her to my home
 \add and took care of her\add*. 
 \s John 19:28-37 
 \s Jesus died. 
@@ -111,7 +111,7 @@ Then\add* he dipped\add the sponge into the wine and\add* lifted it up to Jesus'
 \v 31 That was the day that they prepared \add everything for their\add*
 ◄\add Sabbath/day of rest\add*►. The next day was a special day of rest,
 \add because it was the day of rest during the Passover celebration\add*. The Jewish
-\add leaders\add* \f + \fr synecdoche \f* did not want the bodies \add of the three
+\add leaders\add* \f + \fk synecdoche \f* did not want the bodies \add of the three
 men\add* to remain on the cross during their ◄Sabbath/day of rest►
 \add because leaving bodies hanging overnight would be contrary to their Jewish
 laws\add*. So they went to Pilate and asked him \add to command that\add* the legs
@@ -140,7 +140,7 @@ words\add*: ‘They will look on the one whom they have pierced.’
 \v 38 Later, Joseph, from Arimathea \add town, went to Pilate and\add* asked Pilate to
 \add allow him\add* to take Jesus' body \add down from the cross\add*. Joseph was a disciple of Jesus, but he did not tell
 anyone that, because he was afraid of the \add other\add* Jewish
-\add leaders\add* \f + \fr synecdoche \f*. Pilate permitted him to take Jesus' body, so he went, along
+\add leaders\add* \f + \fk synecdoche \f*. Pilate permitted him to take Jesus' body, so he went, along
 \add with others\add*, and took Jesus' body \add down from the cross\add*.
 \v 39 Nicodemus was one of them. He was the man who previously went to visit Jesus at night. Nicodemus bought an
 \add expensive\add* mixture of myrrh and aloe \add spices to put on the

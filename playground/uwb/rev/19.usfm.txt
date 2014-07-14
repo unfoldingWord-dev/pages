@@ -9,8 +9,8 @@ the one who is like a lamb.
 \q
 \v 2 “Praise him because he judges truly and justly!” 
 \q “He has punished the very evil cities that are like a prostitute,
-\q because their people persuaded the other people of earth \f + \fr metonymy \f* to act immorally and idolatrously like they do.”
-\q “Praise him because he has punished them for murdering his servants \f + \fr metonymy \f*!”
+\q because their people persuaded the other people of earth \f + \fk metonymy \f* to act immorally and idolatrously like they do.”
+\q “Praise him because he has punished them for murdering his servants \f + \fk metonymy \f*!”
 \q
 \v 3  \add The crowd\add* shouted a second time saying: 
 \q ◄Hallelujah!/Praise God!► The smoke of the fire that is burning the cities will rise forever!
@@ -20,16 +20,16 @@ sits on the throne. Then they said, “\add It\add* is true! ◄Hallelujah!/Prai
 \v 5 Someone spoke from the throne and said, “All you who are his servants, praise our God! All you who reverence him,
 \add whether you are socially\add* significant or insignificant, praise him!
 \add Everyone!\add*” 
-\v 6 I heard something like the noise of a huge crowd \add of people\add*, like the sound of a huge waterfall \f + \fr (OR, a great/wide
+\v 6 I heard something like the noise of a huge crowd \add of people\add*, like the sound of a huge waterfall \f + \ft (OR, a great/wide
 river of rushing water), and like the sound of loud thunder. They were shouting:
 \q ◄Hallelujah!/Praise God!► Because the Lord God, the Almighty One, reigns!
 \q
 \v 7 We should rejoice, we should be extremely glad, and we should honor him,
 \q because it is now time for Jesus, the one who is like a lamb, to be united
-\q permanently with his people, which will be like a man \f + \fr metaphor \f* marrying his bride, and
+\q permanently with his people, which will be like a man \f + \fk metaphor \f* marrying his bride, and
 \q because those who belong to him have prepared themselves to be united with him.
 \q
-\v 8 God has permitted them to be completely pure, like a bride who \f + \fr metaphor \f* dresses in fine linen that is bright and clean.
+\v 8 God has permitted them to be completely pure, like a bride who \f + \fk metaphor \f* dresses in fine linen that is bright and clean.
 \p Fine \add bright and clean\add* linen represents the righteous acts of God's people.
 \s Revelation 19:9-10 
 \s God will abundantly bless the people who have been invited to celebrate the marriage of the Lamb. Only God should be
@@ -37,7 +37,7 @@ worshipped. All his servants are on an equal basis.
 \p
 \v 9 Then the angel said to me, “Write \add this: God will abundantly\add* bless the people who are {whom
 \add he\add* has} invited to the feast \add that celebrates Jesus, the one who is like
-a\add* lamb, \add permanently uniting with his people, like someone\add* \f + \fr metaphor \f*
+a\add* lamb, \add permanently uniting with his people, like someone\add* \f + \fk metaphor \f*
 \add marrying a wife\add*.” He also said \add to me\add*: “These words that God
 \add declares\add* are true!” 
 \v 10 I \add immediately\add* ◄prostrated myself/knelt down► at his feet in order to worship him. But he said to me, “Do not
@@ -53,16 +53,16 @@ Spirit of God who gives people the power to tell others about Jesus (OR,
 \add Jesus\add*, the one who was riding on the horse, is called ‘Trustworthy and Genuine/True.’ He judges
 \add all people according to\add* what is right, and fights righteously
 \add against his enemies\add*. 
-\v 12 His eyes \add shone like\add* \f + \fr metaphor \f* a flame of fire. There were many royal crowns on his head. A name had been written
+\v 12 His eyes \add shone like\add* \f + \fk metaphor \f* a flame of fire. There were many royal crowns on his head. A name had been written
 \add on him\add*. Only he knows \add the meaning of that name\add*.
 \v 13 The cloak he was wearing was drenched with blood. His name is
 \add also\add* “◄The one who expresses what God is like/The Word of God►.”
 \v 14 The armies of heaven were following him. \add They were\add* riding on white horses. They were wearing clothes
 \add made of\add* clean white linen. 
-\v 15  \add The words\add* that he speaks \add are like\add* \f + \fr metonymy \f* a sharp sword with which he will strike
+\v 15  \add The words\add* that he speaks \add are like\add* \f + \fk metonymy \f* a sharp sword with which he will strike
 \add the rebellious people of\add* the nations. He himself will rule them
-\add powerfully, as though he had\add* \f + \fr metaphor \f* an iron rod. He will crush
-\add his enemies just like\add* \f + \fr metaphor \f* \add a person crushes grapes in
+\add powerfully, as though he had\add* \f + \fk metaphor \f* an iron rod. He will crush
+\add his enemies just like\add* \f + \fk metaphor \f* \add a person crushes grapes in
 a\add* winepress. \add He will do this for\add* God Almighty, who is furiously angry
 \add with them because of their sins\add*. 
 \v 16 On his cloak close to his thigh a name had been written {\add he\add* had written a name}, which is “King who
@@ -74,7 +74,7 @@ When the beast and the false prophet gathered kings with their armies against th
 prophet were thrown into the lake of fire. The sword of the Rider killed rebellious people, and the birds gorged themselves on
 their flesh. 
 \p
-\v 17 I saw an angel who was standing in \add the light of\add* \f + \fr metonymy \f* the sun. He called loudly to all the
+\v 17 I saw an angel who was standing in \add the light of\add* \f + \fk metonymy \f* the sun. He called loudly to all the
 \add flesh-eating\add* birds flying high in the sky, “Come and gather for the great feast that God
 \add is providing for you!\add* 
 \v 18  \add Come\add* and eat the flesh of all \add God's enemies who are
@@ -91,5 +91,5 @@ beast's mark \add on their foreheads\add* and who worshipped its image. The beas
 {\add He\add* threw the beast and the one who falsely said that he spoke messages that came directly from God} alive into the
 lake of fire that burns with sulfur. 
 \v 21 The rider on the horse killed the rest \add of their armies\add* by
-\add his words\add*, \add which were like\add* \f + \fr metonymy \f* a sword that extended from his mouth. All those birds gorged themselves on
+\add his words\add*, \add which were like\add* \f + \fk metonymy \f* a sword that extended from his mouth. All those birds gorged themselves on
 the flesh of \add the people whom he had killed\add*. 

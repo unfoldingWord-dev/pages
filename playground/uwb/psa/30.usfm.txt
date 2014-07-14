@@ -9,7 +9,7 @@
 ill\add*, 
 \q2 and you healed me. 
 \q
-\v 3 You saved/restored me when I was dying \f + \fr metonymy \f*. 
+\v 3 You saved/restored me when I was dying \f + \fk metonymy \f*. 
 \q2 I was nearly dead, 
 \q2 but you caused me to become healthy again. 
 \b
@@ -17,7 +17,7 @@ ill\add*,
 \v 4 All you who belong to Yahweh, sing to praise him! 
 \q2 Think about what God, the holy one, has done, and thank him!
 \q
-\v 5 When he becomes angry, he is angry for only a very short time \f + \fr hyperbole \f*,
+\v 5 When he becomes angry, he is angry for only a very short time \f + \fk hyperbole \f*,
 \q2 but he is good to us all of our life. 
 \q We may cry during the night, 
 \q2 but the next morning we will be joyful. 
@@ -27,7 +27,7 @@ ill\add*,
 \q2 “No one will defeat me!” 
 \q
 \v 7 Yahweh, because you were good to me, 
-\q2 at first you caused me to be safe \add as though I was inside\add* \f + \fr metaphor \f* a mountain.
+\q2 at first you caused me to be safe \add as though I was inside\add* \f + \fk metaphor \f* a mountain.
 \q But then \add I became ill, and I thought that\add* you had turned away from me,
 \q2 and I became afraid. 
 \b
@@ -35,10 +35,10 @@ ill\add*,
 \v 8 Then I called out to you, 
 \q2 and I pleaded for you to help me. 
 \q
-\v 9  \add I said\add*, “Yahweh, what will you gain if I die \f + \fr metonymy \f*?
-\q In what way will it benefit you if I go to the place where the dead people are \f + \fr rhetorical question \f*?
-\q Dead people are certainly not able to praise you \f + \fr rhetorical question \f*, 
-\q2 and they are not able to tell others that you are trustworthy \f + \fr rhetorical question \f*!
+\v 9  \add I said\add*, “Yahweh, what will you gain if I die \f + \fk metonymy \f*?
+\q In what way will it benefit you if I go to the place where the dead people are \f + \fk rhetorical question \f*?
+\q Dead people are certainly not able to praise you \f + \fk rhetorical question \f*, 
+\q2 and they are not able to tell others that you are trustworthy \f + \fk rhetorical question \f*!
 \q
 \v 10 Yahweh, listen to me, and act mercifully to me! 
 \q2 Yahweh, help me!” 

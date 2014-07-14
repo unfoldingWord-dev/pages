@@ -2,7 +2,7 @@
 \s 2 Timothy 3:1-9 
 \s Realize that evil people will cause the last days to be difficult. Avoid such people.
 \p
-\v 1  \add You need to\add* realize that during the last days \f + \fr metonymy \f*
+\v 1  \add You need to\add* realize that during the last days \f + \fk metonymy \f*
 \add before Christ returns, evil people will make\add* it difficult
 \add for believers to behave as they should\add*. 
 \v 2 This is because \add such evil\add* people will be habitually loving themselves and loving money. They will habitually
@@ -10,7 +10,7 @@ boast \add about themselves\add*, they will be proud, and will often say bad thi
 \add about others. They\add* will disobey \add their\add* parents. They will not be thankful, nor will they respect
 \add anything that is good\add*. 
 \v 3 They will not \add even\add* love their own family, nor agree with
-\add anybody\add* \f + \fr (OR, \add they never forgive anyone\add*). They will tell lies about people. They will not control what they
+\add anybody\add* \f + \ft (OR, \add they never forgive anyone\add*). They will tell lies about people. They will not control what they
 say and do, nor allow anyone to control them. They will not love
 \add anything that is\add* good. 
 \v 4 They will ◄betray others/hand others over to their enemies► and act foolishly. They will be overly/very proud of
@@ -27,7 +27,7 @@ true.
 \v 8 Just like Jannes and Jambres \add long ago\add* very much opposed Moses, so also some
 \add people\add* now oppose the true \add message. Those\add* people think only what is evil. God rejects them
 \add because they do not\add* believe \add what is true\add*. 
-\v 9 Nevertheless, they will not continue to succeed, because most \f + \fr hyperbole \f* people will understand clearly that such people are
+\v 9 Nevertheless, they will not continue to succeed, because most \f + \fk hyperbole \f* people will understand clearly that such people are
 foolish, just like people also realized \add clearly that Jannes and Jambres were
 foolish\add*. 
 \s 2 Timothy 3:10-17 

@@ -2,8 +2,8 @@
 \s A psalm written by David 
 \q
 \v 1 Yahweh said to my lord \add the king\add*, 
-\q “Sit here, close to me, in the place of highest honor \f + \fr metonymy \f* 
-\q2 until I completely defeat your enemies \f + \fr metaphor \f* 
+\q “Sit here, close to me, in the place of highest honor \f + \fk metonymy \f* 
+\q2 until I completely defeat your enemies \f + \fk metaphor \f* 
 \q2 and make them like a stool for your feet!” 
 \b
 \q

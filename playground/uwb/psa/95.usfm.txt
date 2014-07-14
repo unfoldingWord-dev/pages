@@ -1,7 +1,7 @@
 \c 95  
 \q
 \v 1 Come, sing to Yahweh; 
-\q2 sing joyfully to the one who protects us \f + \fr metaphor \f* and saves us!
+\q2 sing joyfully to the one who protects us \f + \fk metaphor \f* and saves us!
 \q
 \v 2 We should thank him as we come before him, 
 \q2 and sing ◄joyful songs/joyfully► as we praise him. 
@@ -14,14 +14,14 @@
 \q2 from the deepest places/caves to the highest mountains. 
 \q
 \v 5 The seas are his, because he made them. 
-\q2 He is the one who \f + \fr synecdoche \f* also formed/made the dry land. 
+\q2 He is the one who \f + \fk synecdoche \f* also formed/made the dry land. 
 \b
 \q
 \v 6 We should come, worship, and bow down before him. 
 \q2 We should kneel before Yahweh, the one who made us. 
 \q
 \v 7 He is our God, 
-\q2 and we are the people whom he takes care of \f + \fr metaphor \f*; 
+\q2 and we are the people whom he takes care of \f + \fk metaphor \f*; 
 \q2 like sheep \add that a shepherd\add* takes care of. 
 \b
 \q I desire/pray that today you will hear what Yahweh is saying to you.

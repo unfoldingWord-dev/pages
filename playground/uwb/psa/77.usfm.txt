@@ -44,12 +44,12 @@
 \b
 \q
 \v 13 God, everything that you do is holy; 
-\q2 there is certainly no god \f + \fr rhetorical question \f* who is great like you are! 
+\q2 there is certainly no god \f + \fk rhetorical question \f* who is great like you are! 
 \q
 \v 14 You are God, the one who performs miracles; 
 \q2 you showed to the people of many people-groups that you are powerful.
 \q
-\v 15 By your power \f + \fr metonymy \f* you rescued your people \add from Egypt\add*;
+\v 15 By your power \f + \fk metonymy \f* you rescued your people \add from Egypt\add*;
 \q2 you saved those who were descendants of Jacob and \add his son\add* Joseph.
 \qr (Think about that!) 
 \b
@@ -57,13 +57,13 @@
 \v 16  \add It was as though\add* the waters \add of the Red Sea\add* saw you and became very afraid,
 \q2 and even the deepest part of the water shook. 
 \q
-\v 17 Rain poured down from the clouds \f + \fr personification \f*; 
-\q2 it thundered very loudly \f + \fr personification \f*, 
+\v 17 Rain poured down from the clouds \f + \fk personification \f*; 
+\q2 it thundered very loudly \f + \fk personification \f*, 
 \q2 and lightning flashed in all directions. 
 \q
 \v 18 Thunder crashed in the whirlwind, 
-\q2 and lightning ◄lit up/flashed in► the entire sky \f + \fr hyperbole \f*; 
-\q the earth shook violently \f + \fr doublet \f*. 
+\q2 and lightning ◄lit up/flashed in► the entire sky \f + \fk hyperbole \f*; 
+\q the earth shook violently \f + \fk doublet \f*. 
 \q
 \v 19 Then you walked through the sea 
 \q2 on a path that you made through the deep water, 

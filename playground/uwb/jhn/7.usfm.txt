@@ -11,13 +11,13 @@ there\add* were wanting to kill him.
 people\add* here \add have left you\add*, you should leave and go to Judea
 \add province and perform\add* some miracles there, so that your disciples may see them!
 \v 4 No one who wants to become famous does things secretly. \add You
-say\add* you are doing these miracles, \add so do some miracles there\add* so that everyone \f + \fr metonymy \f* can see them!”
+say\add* you are doing these miracles, \add so do some miracles there\add* so that everyone \f + \fk metonymy \f* can see them!”
 \v 5  \add They said this critically\add*, because even \add though they
 were\add* his own \add younger\add* brothers, they did not believe he
 \add was from God\add*. 
-\v 6 So Jesus said to them, “It is not yet time for me \f + \fr metonymy \f* \add to go to the
+\v 6 So Jesus said to them, “It is not yet time for me \f + \fk metonymy \f* \add to go to the
 celebration\add*. For you, any time is right \add to go to the celebration\add*.
-\v 7  \add The people\add* \f + \fr metonymy \f* \add who\add* ◄\add do not believe in me/do not belong to
+\v 7  \add The people\add* \f + \fk metonymy \f* \add who\add* ◄\add do not believe in me/do not belong to
 God\add*► cannot hate you, but they hate me because I tell them that what they are doing is evil.
 \v 8 You\add (pl)\add* go ahead to the celebration. I am not going up
 \add to Jerusalem\add* to the celebration \add yet\add*, because now is not the right time for me
@@ -32,7 +32,7 @@ with \add us\add* disciples, but no others went with us.
 \v 12 Among the crowds, many people were whispering about Jesus. Some were saying, “He is a good man!” But others were saying
 instead, “No! He is deceiving the crowds!” 
 \v 13 But no one was speaking so that others could hear them, because they were afraid of the Jewish
-\add leaders\add* \f + \fr synecdoche \f*. 
+\add leaders\add* \f + \fk synecdoche \f*. 
 \s John 7:14-36 
 \s After Jesus taught people, the Jewish leaders wanted to arrest him, but many others believed he was the Messiah.
 \p
@@ -41,7 +41,7 @@ instead, “No! He is deceiving the crowds!”
 \v 15 The Jewish \add elders\add* were amazed \add at what he was
 saying\add*. They said, “This man never studied \add in one of our religious
 schools!\add* So ◄how can he have learned \add so much about Scripture\add*?/it is difficult for us to believe that he has
-learned \add so much about Scripture\add*!► \f + \fr rhetorical question \f*” 
+learned \add so much about Scripture\add*!► \f + \fk rhetorical question \f*” 
 \v 16 Jesus replied to them, “What I teach does not come from myself. It comes from
 \add God\add*, the one who sent me. 
 \v 17 Those who choose to do what God wants will find out whether what I teach comes from God or whether I am speaking with
@@ -49,13 +49,13 @@ learned \add so much about Scripture\add*!► \f + \fr rhetorical question \f*�
 \v 18 Those who speak with \add only\add* their own \add authority\add* do that
 \add only\add* so that others will honor them. But I am \add doing things so that
 others\add* will honor the one who sent me, and I am someone who speaks the truth. I never lie.
-\v 19  \add Think about\add* the laws that Moses gave you \f + \fr rhetorical question \f*. None of you
+\v 19  \add Think about\add* the laws that Moses gave you \f + \fk rhetorical question \f*. None of you
 \add completely\add* obeys those laws. So why are you trying to kill me,
 \add saying I do not obey the laws concerning\add* ◄\add the Sabbath/the Jewish day of
 rest\add*►?” 
 \p
 \v 20 Someone in the crowd answered, “\add By saying this you show
-that\add* you are crazy \f + \fr (OR, A demon is controlling you) \f*! Certainly no one is trying to kill you!”
+that\add* you are crazy \f + \ft (OR, A demon is controlling you) \f*! Certainly no one is trying to kill you!”
 \v 21 Jesus replied to them, “Because I did a miracle \add of healing
 someone\add* ◄on the Sabbath/on the Jewish rest day►, you are all shocked.
 \v 22 Moses gave you \add a law that you must\add* circumcise \add the male children and that you must do that exactly seven
@@ -65,14 +65,14 @@ Sabbath/on the Jewish rest day►, \add but that is working, too\add*!
 \v 23 You \add sometimes\add* circumcise boys ◄on the Sabbath/on the Jewish rest day► so that the law of Moses is not disobeyed
 {\add you\add* do not disobey the law of Moses}, so ◄it is ridiculous that you are angry with me, saying
 \add I worked\add* ◄on the Sabbath/on the Jewish rest day► by healing a man!/why are you angry with me, saying
-\add I worked\add* ◄on the Sabbath/on the Jewish rest day► by healing a man?► \f + \fr rhetorical question \f*
+\add I worked\add* ◄on the Sabbath/on the Jewish rest day► by healing a man?► \f + \fk rhetorical question \f*
 \add Healing someone is far more helpful than circumcising a baby
 boy!\add* 
 \v 24 Stop deciding whether my healing this man is wrong according to what you see! Instead, decide according to what is really
 the right action \add to help people!\add*” 
 \p
 \v 25 Some of the people from Jerusalem were saying, “◄This is the man that they are trying to kill!/Isn't this the man that
-they are trying to kill?► \f + \fr rhetorical question \f* 
+they are trying to kill?► \f + \fk rhetorical question \f* 
 \v 26 He is saying these things ◄publicly/in front of many people►, but our
 \add Jewish\add* rulers are not saying anything to \add oppose\add* him. Is that because they have decided that he is truly
 ◄the Messiah/God's chosen king►? 
@@ -82,12 +82,12 @@ will know where he comes from.”
 \v 28  \add They said that because they thought Jesus was born in
 Nazareth\add*. So while Jesus was teaching \add people\add* in the Temple
 \add courtyard\add*, he shouted, “Yes, \add you say that\add* you know me, and
-\add you think\add* you know \f + \fr irony \f* where I am from. But I have come here not ◄because I appointed myself/with my own
+\add you think\add* you know \f + \fk irony \f* where I am from. But I have come here not ◄because I appointed myself/with my own
 authority►. Instead, \add God\add* is the one who truly sent me. You do not know him.
 \v 29 But I know him, because I have come from him. He is the one who sent me!”
 \p
 \v 30 Then they tried to seize him \add because he said that he had come from
-God\add*. But no one put their hands on him \add to do that\add*, because it was not yet the time \f + \fr metonymy \f*
+God\add*. But no one put their hands on him \add to do that\add*, because it was not yet the time \f + \fk metonymy \f*
 \add for him to die\add*. 
 \v 31 But many of the crowd believed that he\add had come from God\add*. They said, “When the Messiah comes, he certainly will
 not do more miracles than this man has done, will he?” 
@@ -96,7 +96,7 @@ seize him.
 \p
 \v 33 Then Jesus said, “I will be with you for only a short time. Then I will return to the one who sent me.
 \v 34 Then you will search for me, but you will not find me. And you will not be able to come to the place where I am.”
-\v 35 So the Jewish \add leaders\add* \f + \fr synecdoche \f* said to themselves, “Where is this man about to go with the result that we will not
+\v 35 So the Jewish \add leaders\add* \f + \fk synecdoche \f* said to themselves, “Where is this man about to go with the result that we will not
 be able to find him? \add Some Jewish people have\add* dispersed
 \add and live\add* among Greek people. He is not intending to go
 \add and live among them\add* and teach them, is he? 
@@ -124,7 +124,7 @@ Galilee\add*, said, “The Messiah will not come from Galilee \add province\add*
 \v 42 ◄Did \add a prophet\add* not write in the Scriptures that the Messiah will come from
 \add King\add* David's family, and be born in Bethlehem, where \add King\add* David
 lived?/\add It is written\add* in the Scriptures that the Messiah will come from
-\add King\add* David's family, and be born in Bethlehem, where \add King\add* David lived!► \f + \fr rhetorical question \f*”
+\add King\add* David's family, and be born in Bethlehem, where \add King\add* David lived!► \f + \fk rhetorical question \f*”
 \v 43 So the people were divided because of \add what they thought
 about\add* Jesus. 
 \v 44 Some people wanted to seize him, but no one laid hands on him
@@ -138,7 +138,7 @@ about\add* Jesus.
 \v 48 ◄None of our rulers nor any of us Pharisees have believed that ‘he
 \add is the Messiah\add*!/he \add came from God\add*!’/Have any of our
 \add Jewish\add* rulers or any of us Pharisees believed that ‘he
-\add is the Messiah\add*?/he \add came from God\add*?’► \f + \fr rhetorical question \f* 
+\add is the Messiah\add*?/he \add came from God\add*?’► \f + \fk rhetorical question \f* 
 \v 49 Not one! But, on the contrary, some of this crowd \add have believed in
 him\add*. They do not know \add the true teachings of\add* our laws! They will go to hell
 \add for listening to him\add*!” 
@@ -147,10 +147,10 @@ him\add*. They do not know \add the true teachings of\add* our laws! They will g
 \add at night\add*. He was also a member of the Jewish council. He said to
 \add the rest of the Council members\add*, 
 \v 51 “\add We\add* have not listened to what he says to find out what he is doing. ◄It is not permitted in
-our\add Jewish\add* law \f + \fr personification \f* for us to say, before questioning someone, that we must punish him!/Is it permitted in
-our\add Jewish\add* law \f + \fr personification \f* for us to say, before questioning someone, that we must punish him?► \f + \fr rhetorical question \f*”
+our\add Jewish\add* law \f + \fk personification \f* for us to say, before questioning someone, that we must punish him!/Is it permitted in
+our\add Jewish\add* law \f + \fk personification \f* for us to say, before questioning someone, that we must punish him?► \f + \fk rhetorical question \f*”
 \v 52 They replied to him, “◄Are you another \add disgusting person\add* from
-Galilee?/\add You talk like\add* another \add disgusting person\add* from Galilee!► \f + \fr rhetorical question \f* Read
+Galilee?/\add You talk like\add* another \add disgusting person\add* from Galilee!► \f + \fk rhetorical question \f* Read
 \add what is written in the Scriptures\add*! You will find that no prophet comes from Galilee
 \add province, like he does\add*!” [
 \v 53 Then they all left and went to their own homes. 

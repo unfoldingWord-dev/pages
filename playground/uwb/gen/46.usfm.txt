@@ -7,7 +7,7 @@ God, the one whom his father Isaac worshiped.
 \v 3 God said, “I am God, the one your father worshiped. Do not be afraid to go down to Egypt, because I will give you many
 descendants, and they will become a great nation there. 
 \v 4 I will go down to Egypt with you, and later I will bring your descendants back to Canaan again. And Joseph will be with
-you \f + \fr metonymy \f* when you die.” [IDI] 
+you \f + \fk metonymy \f* when you die.” [IDI] 
 \p
 \v 5 Jacob left Beersheba, and his sons took their father, their wives, and their children, in the carts that the king had sent
 for them to travel in. 

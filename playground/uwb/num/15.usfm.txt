@@ -41,7 +41,7 @@ same instructions. All of your descendants must also continue to obey these inst
 \v 20  \add Each year\add* set aside some of the first grain that you gather after you have threshed it. Bake a loaf of bread
 from the first flour that you grind and bring it to me to be a sacred offering.
 \v 21 Every year, you and your descendants must continue to make and bring to me
-\add a loaf of bread baked\add* \f + \fr metonymy \f* \add with flour\add* from the first part of the grain that you harvest.
+\add a loaf of bread baked\add* \f + \fk metonymy \f* \add with flour\add* from the first part of the grain that you harvest.
 \s When people sin unintentionally or deliberately 
 \p
 \v 22 There may be times when you Israelis do not obey all these instructions that I have given to Moses to tell you, but not

@@ -7,8 +7,8 @@
 are\add* not true. 
 \q
 \v 2 You are God, the one who protects me; 
-\q2 ◄why have you abandoned me?/it seems that you have abandoned me!► \f + \fr rhetorical question \f*
-\q It does not seem right that \f + \fr rhetorical question \f* I am forced to mourn/cry constantly
+\q2 ◄why have you abandoned me?/it seems that you have abandoned me!► \f + \fk rhetorical question \f*
+\q It does not seem right that \f + \fk rhetorical question \f* I am forced to mourn/cry constantly
 \q2 because of my enemies acting cruelly toward me. 
 \q
 \v 3 Show your light to me and speak your truth to me; 
@@ -21,7 +21,7 @@ are\add* not true.
 \q2 There I will praise you, the God whom I \add worship\add*, while I play my harp.
 \b
 \q
-\v 5 So ◄why am I sad and discouraged?/I should not be sad and discouraged!► \f + \fr rhetorical question \f*
+\v 5 So ◄why am I sad and discouraged?/I should not be sad and discouraged!► \f + \fk rhetorical question \f*
 \q I confidently expect God \add to bless me\add*, 
 \q2 and I will praise him again, 
 \q2 my God, the one who saves me. 

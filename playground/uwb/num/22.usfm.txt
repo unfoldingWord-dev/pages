@@ -81,14 +81,14 @@ me three times?”
 \v 29 Balaam shouted, “I struck you because you have caused me to appear to be foolish! If I had a sword with me, I would kill
 you!” 
 \p
-\v 30 But the donkey answered, “I am your own donkey \f + \fr rhetorical question \f*, the one that you have always ridden! Have I ever done anything like
+\v 30 But the donkey answered, “I am your own donkey \f + \fk rhetorical question \f*, the one that you have always ridden! Have I ever done anything like
 this previously?” 
 \p Balaam said, “No.” 
 \p
 \v 31 Then Yahweh enabled Balaam to see the angel standing on the road, holding a sword in his hand. Balaam
 \add realized that it was an angel and\add* prostrated himself on the ground in front of the angel.
 \p
-\v 32 The angel asked him, “Why did you strike your donkey three times \f + \fr rhetorical question \f*? I have come to block your path because what you
+\v 32 The angel asked him, “Why did you strike your donkey three times \f + \fk rhetorical question \f*? I have come to block your path because what you
 are planning to do is wrong. 
 \v 33 Three times your donkey saw me and turned away from me. If it had not done that, I would certainly have killed you
 already, but I would have allowed the donkey to live.” 
@@ -101,11 +101,11 @@ path. So if you do not want me to continue going, I will return home.”
 \p
 \v 36 When King Balak heard that Balaam was coming, he went to meet him at a Moab town alongside the Arnon
 \add River\add* that was at the border of his own land. 
-\v 37  \add When he arrived where\add* Balaam was, he said to him, “I sent you \f + \fr rhetorical question \f* a message saying that you should come
-immediately \f + \fr rhetorical question \f*! Why did you not come? \add Did you think that\add* I was not able to pay you a lot of money for coming?”
+\v 37  \add When he arrived where\add* Balaam was, he said to him, “I sent you \f + \fk rhetorical question \f* a message saying that you should come
+immediately \f + \fk rhetorical question \f*! Why did you not come? \add Did you think that\add* I was not able to pay you a lot of money for coming?”
 \p
 \v 38 Balaam replied, “I have come here now, but I am not able to say anything
-\add that I want to\add*. I will say only the words that God tells me to say \f + \fr metonymy \f*.”
+\add that I want to\add*. I will say only the words that God tells me to say \f + \fk metonymy \f*.”
 \p
 \v 39 Then Balaam went with Balak to Kiriath-Huzoth \add town\add*.
 \v 40 There Balak killed some cattle and sheep as sacrifices, and offered

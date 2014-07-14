@@ -10,7 +10,7 @@ attention to them.
 \p
 \v 4 Many times Yahweh has sent to you the prophets who served him, but you have not listened to them or paid any attention to
 what they said. 
-\v 5 Each time their message was this: ‘Turn from all your evil behavior \f + \fr metaphor \f*, from all the evil things that you have
+\v 5 Each time their message was this: ‘Turn from all your evil behavior \f + \fk metaphor \f*, from all the evil things that you have
 continually been doing. If you do that, you will be able to stay in this land that Yahweh gave to you and to your ancestors,
 \add to belong to you\add* forever. 
 \v 6 Do not cause Yahweh to become angry by serving and worshiping idols that you have made with your hands. If you do not
@@ -43,11 +43,11 @@ caused my people to become slaves. I will punish them like they deserve for
 \p
 \v 15 Then Yahweh, the God we Israelis \add worship\add*, gave me
 \add a vision. In the vision he was holding a cup of wine\add*. He said, “Take from me this cup that is full of
-\add wine that represents\add* punishment \f + \fr metonymy \f*. I will cause all
+\add wine that represents\add* punishment \f + \fk metonymy \f*. I will cause all
 \add the leaders of\add* the nations to which I will send you to drink
 \add some of\add* the wine in this cup. 
 \v 16 When they drink \add the wine\add*, they will stagger and act like crazy people, because
-\add they will realize that\add* I will ◄massacre many of their people/cause many of their people to be killed► \f + \fr metonymy \f* with
+\add they will realize that\add* I will ◄massacre many of their people/cause many of their people to be killed► \f + \fk metonymy \f* with
 swords.” 
 \p
 \v 17 So, \add in the vision\add*, I took that cup \add full of wine\add* from Yahweh, and I took it to all the nations to
@@ -68,33 +68,33 @@ wine\add* to the kings \add of those places\add*.
 \add Mediterranean\add* Sea, and \add gave some of the wine\add* to the kings
 \add of those places\add*. 
 \v 23  \add In the vision I then went\add* to Dedan, Tema, and Buz
-\add cities in Arabia\add* and to other distant places \f + \fr (OR, places where people cut their hair short) \f*,
+\add cities in Arabia\add* and to other distant places \f + \ft (OR, places where people cut their hair short) \f*,
 \add and gave some of the wine to leaders in those areas\add*. 
 \v 24  \add In the vision I also went to other places in\add* Arabia and to the
 \add kings of tribes\add* in the desert 
 \v 25 and to the kings of the Zimri, Elam, and Media \add people-groups\add*,
 \v 26 and to kings in countries to the north that are near \add to
 Israel\add* and to countries that are far from \add Israel\add*, one after the other—I went to all the kingdoms in the world
-\f + \fr hyperbole \f*. And finally, \add in my vision I went to\add* Babylon, and gave
+\f + \fk hyperbole \f*. And finally, \add in my vision I went to\add* Babylon, and gave
 \add some of\add* the wine to the king of Babylon—the wine \add that symbolized the punishment that Yahweh would give them
-because\add* he was angry with them \f + \fr metonymy \f*. 
+because\add* he was angry with them \f + \fk metonymy \f*. 
 \p
 \v 27 Then \add in the vision\add* Yahweh said to me, “Tell them that this is what the Almighty Commander of the armies of
 angels the God whom we Israelis \add worship\add*, says: ‘Drink from this cup
 \add some of the wine that represents the punishment that I will give
 you\add*. Drink a lot of it and become drunk and vomit. You will fall down and not get up again, because I will cause you to be
-killed in wars \f + \fr metonymy \f* that I will send to you. 
-\v 28 If any of those to whom you give this wine \f + \fr metonymy \f* refuse to drink it, tell them that the Almighty Commander of the armies
+killed in wars \f + \fk metonymy \f* that I will send to you. 
+\v 28 If any of those to whom you give this wine \f + \fk metonymy \f* refuse to drink it, tell them that the Almighty Commander of the armies
 of angels says that they must drink it. 
-\v 29 I am starting to bring disaster to my own \f + \fr metonymy \f* city. \add Do you think
-that\add* you should not be punished \f + \fr rhetorical question \f*? No, you will surely be punished \f + \fr litotes \f* because I am sending wars to all the nations
+\v 29 I am starting to bring disaster to my own \f + \fk metonymy \f* city. \add Do you think
+that\add* you should not be punished \f + \fk rhetorical question \f*? No, you will surely be punished \f + \fk litotes \f* because I am sending wars to all the nations
 on the earth. \add That will surely happen because\add* I, the Almighty Commander of the armies of angels, have said it.’
 \p
 \v 30 Now tell them all those things that I have said, and also say this to them:
 \q ‘Yahweh will \add shout to them\add* from his holy dwelling \add in
-heaven\add* \f + \fr metonymy \f* 
+heaven\add* \f + \fk metonymy \f* 
 \q2 and \add it will sound like\add* the roar of a lion. 
-\q He will shout like \f + \fr simile \f* people shout when they are treading on grapes
+\q He will shout like \f + \fk simile \f* people shout when they are treading on grapes
 \add to make juice for wine\add*; 
 \q2 he will shout to everyone on the earth. 
 \q
@@ -106,7 +106,7 @@ heaven\add* \f + \fr metonymy \f*
 \v 32 Then tell them that this is what the Almighty Commander of the armies of angels says:
 \q ‘Listen to this! 
 \q2 Disasters will happen to one nation after another. 
-\q Punishment \add from me\add* will arise like \f + \fr metaphor \f* a great storm
+\q Punishment \add from me\add* will arise like \f + \fk metaphor \f* a great storm
 \q2 from the most distant places on the earth. 
 \q
 \v 33 When that happens, \add the corpses of\add* those whom I have caused to be slaughtered will fill the earth from the east
@@ -127,9 +127,9 @@ ground\add*.
 \q2 when I, Yahweh, am ruining your nation. 
 \q
 \v 37 Your peaceful meadows will become a wasteland/desert 
-\q2 because I will severely punish \f + \fr metonymy \f* it. 
+\q2 because I will severely punish \f + \fk metonymy \f* it. 
 \q
-\v 38 I will leave \add my dwelling like\add* \f + \fr simile \f* a lion leaves its den
+\v 38 I will leave \add my dwelling like\add* \f + \fk simile \f* a lion leaves its den
 \add to attack other animals\add*, 
 \q2 and I will cause your land to become desolate 
 \q when I, because I am very angry with you, cause your enemies \add to slaughter you with

@@ -28,7 +28,7 @@ official in my kingdom; there will be only two others who will be more important
 \v 9 So King Belshazzar became more afraid. His face became even paler/whiter. And all his officials
 \add who were there at the feast\add* did not know what to do. 
 \p
-\v 10 But when the mother of the king \f + \fr (OR, of the previous king) \f* heard the king and his officials talking loudly
+\v 10 But when the mother of the king \f + \ft (OR, of the previous king) \f* heard the king and his officials talking loudly
 \add about what had happened\add*, she entered the room where they were having the feast. She said
 \add to Belshazzar\add*, “◄Your majesty/O King►, I hope you will live for a long time! But do not be pale and afraid about
 this. 
@@ -42,7 +42,7 @@ difficult to understand. Summon him, and he will tell you what \add this
 writing\add* means.” 
 \s Daniel interpreted the writing 
 \p
-\v 13 So they went and brought me in. The king asked me, “You must be Daniel \f + \fr rhetorical question \f*! They told me that you are one of those who
+\v 13 So they went and brought me in. The king asked me, “You must be Daniel \f + \fk rhetorical question \f*! They told me that you are one of those who
 was brought here from Judah by the previous king. 
 \v 14 I have also heard that the spirit of the gods is in you, and that you are very wise and understand many things.
 \v 15 My wise men and men who work magic have tried to read the writing on this wall and tell me what it means, but are not
@@ -57,11 +57,11 @@ read for you the writing on the wall, and I will tell you what it means.
 \p
 \v 18 ◄Your Majesty/O king►, the Supreme God caused the man who was king before you, Nebuchadnezzar, to become a great ruler,
 who was greatly praised and honored. 
-\v 19 Because God caused him to become very great, people of many \f + \fr hyperbole \f* people-groups and nations and who spoke many different
+\v 19 Because God caused him to become very great, people of many \f + \fk hyperbole \f* people-groups and nations and who spoke many different
 languages were very much afraid of him. He commanded \add his soldiers\add* to kill those whom he wanted to be killed, and he
 ◄spared/allowed to live► those whom he wanted to spare. He honored those whom he wanted to honor, and he caused to be disgraced
 those whom he wanted to be disgraced. 
-\v 20 But when he became very proud and stubborn [IDI], he was removed from being king \f + \fr metonymy \f*. People did not consider him to be
+\v 20 But when he became very proud and stubborn [IDI], he was removed from being king \f + \fk metonymy \f*. People did not consider him to be
 glorious/great anymore. 
 \v 21  \add His officials\add* sent him away in order that he would not be near other people.
 \add God\add* caused him to have a mind like animals have. He lived among the wild donkeys. He ate grass like cows do, and dew
@@ -86,12 +86,12 @@ that you will not rule anymore.
 \pi
 \v 27 Tekel means 'weighed.' \add It is as though God\add* has weighed you on a scale, and you do not weigh what you should,
 \add which means that you have not been doing what you should; you are not fit to be a
-king\add* \f + \fr metaphor \f*. 
+king\add* \f + \fk metaphor \f*. 
 \pi \vp 26-28\vp* This is what those words mean: 
 \pi Mene means 'numbered.' That means that God has been counting the days that you will rule, and he has now ended your
 kingdom. 
 \pi Tekel means 'weighed.' \add It is as though God\add* has weighed you on a scale, and you do not weigh correctly;
-\add you are not fit to be a king\add* \f + \fr metaphor \f*. 
+\add you are not fit to be a king\add* \f + \fk metaphor \f*. 
 \pi
 \v 28 Parsin means 'divided.' That means that \add God\add* has divided your kingdom. Some of it will be ruled by people from
 Media and some will be ruled by people from Persia.” 

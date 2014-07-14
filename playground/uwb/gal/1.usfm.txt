@@ -18,7 +18,7 @@ letter\add* to the congregations that\add are\add* in Galatia \add province\add*
 \s I am disappointed that you are believing a message that is not the good news about Christ, and I ask God to eternally punish
 those who are teaching such a message. 
 \p
-\v 6 I am very disappointed \f + \fr irony \f* that so soon \add after you trusted in
+\v 6 I am very disappointed \f + \fk irony \f* that so soon \add after you trusted in
 Christ\add* you have turned away from \add God\add*. He chose you in order that
 \add you might have what\add* Christ freely/kindly gives. I am also disappointed that so soon you are believing a different
 \add message which some say is\add* “good news.” 
@@ -32,9 +32,9 @@ message that we told you \add before\add*, I \add appeal to God\add* that
 \add what he says is\add* a good message, but it is a message that is different from
 \add the good message\add* that I gave you. So I \add appeal to God\add* that
 \add he\add* severely punish that person. 
-\v 10  \add I said that\add* because \f + \fr rhetorical question \f* I do not desire that people approve me,
+\v 10  \add I said that\add* because \f + \fk rhetorical question \f* I do not desire that people approve me,
 \add contrary to what some have said about me\add*. It is God whom I desire to approve me.
-\add Specifically, I do not say and do\add* \f + \fr rhetorical question \f* things just to please people. If it were still people whom I was trying to
+\add Specifically, I do not say and do\add* \f + \fk rhetorical question \f* things just to please people. If it were still people whom I was trying to
 please, then I would not be one who \add willingly and completely\add* serves Christ.
 \s Galatians 1:11-12 
 \s It was Jesus Christ, not any human, who revealed the message that I proclaim.
@@ -55,7 +55,7 @@ ancestors \add kept\add*.
 \v 15 Nevertheless, before I was born \add God\add* ◄set me apart/selected me►. He chose me
 \add to live eternally\add*, something that I did not deserve. 
 \v 16 He wanted me to know that Jesus is his Son, so that I would tell others the message about his Son in regions where
-non-Jews live. But I did not immediately go to any human beings \f + \fr synecdoche \f* in order to gain
+non-Jews live. But I did not immediately go to any human beings \f + \fk synecdoche \f* in order to gain
 \add an understanding of that message. I received it directly from
 Christ!\add* 
 \v 17 I did not \add immediately\add* leave Damascus and go to Jerusalem
@@ -68,11 +68,11 @@ me\add*, I went up to Jerusalem in order that I might meet Peter. But I stayed w
 Christ\add*. 
 \v 19 I also saw James, the brother of our Lord \add Jesus and the leader of the believers there,
 but\add* I did not see any other apostle. 
-\v 20 God knows that what I am writing to you is completely true \f + \fr litotes \f*!
+\v 20 God knows that what I am writing to you is completely true \f + \fk litotes \f*!
 \v 21 After \add I left Jerusalem\add*, I went to \add the regions
 of\add* Syria and Cilicia. 
 \v 22  \add At that time people in\add* the Christian congregations that are in Judea
-\add province\add* still had not met me \f + \fr synecdoche \f* personally. 
+\add province\add* still had not met me \f + \fk synecdoche \f* personally. 
 \v 23 They only heard \add others say about me\add* repeatedly, “\add Paul\add*, the one who was formerly doing harmful things
 to us, is now telling the \add same message\add* which we believe and which formerly he was trying ◄to destroy/to cause people
 to stop believing►!” 

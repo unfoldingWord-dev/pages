@@ -21,16 +21,16 @@ with hands that they had not washed \add using the special ritual\add*. So they 
 “\add Your\add* disciples disobey the traditions of our ancestors! ◄You should not
 \add let them\add* eat food if they have not washed their hands \add using our special
 ritual\add*!/Why do you \add let them\add* eat food if they have not washed their hands
-\add using our special ritual\add*?► \f + \fr rhetorical question \f*” 
+\add using our special ritual\add*?► \f + \fk rhetorical question \f*” 
 \v 6 Jesus said to them, “Isaiah \add rebuked your ancestors\add*, and his words describe very well you people who only pretend
 to be good! He wrote these words \add that God said\add*: 
-\q These people speak\add as if they\add* honor me, but they \f + \fr synecdoche \f* really do not think about honoring me at all.
+\q These people speak\add as if they\add* honor me, but they \f + \fk synecdoche \f* really do not think about honoring me at all.
 \v 7 It is useless for them to worship me, because they teach only what people have commanded
 \add as if I myself had commanded them\add*. 
 \p
 \v 8 You, \add like your ancestors\add*, refuse \add to do\add* what God has commanded. Instead, you follow only the traditions
 that ◄others/your ancestors► have \add taught\add*.” 
-\v 9 Jesus also said to them, “\add You think\add* \f + \fr irony \f* that you are clever in refusing to do what God commanded just so that
+\v 9 Jesus also said to them, “\add You think\add* \f + \fk irony \f* that you are clever in refusing to do what God commanded just so that
 you can obey your own traditions! 
 \v 10  \add For example, our ancestor\add* Moses \add wrote God's\add* command, ‘Honor your fathers and your mothers’. He also
 wrote, ‘\add The authorities must\add* execute a person who speaks evil about his father or mother.’
@@ -45,7 +45,7 @@ people\add* that they no longer have to help their parents!
 \p
 \v 14 Then Jesus again summoned the crowd \add to come closer. Then\add* he said to them
 \add figuratively\add*, “All of you people listen to me! \add Try
-to\add* understand \f + \fr doublet \f* \add what I am about to tell you\add*. 
+to\add* understand \f + \fk doublet \f* \add what I am about to tell you\add*. 
 \v 15-16 Nothing that people eat causes \add God to\add* consider them to be unacceptable. On the contrary, it is that which
 comes from people's ◄inner beings/hearts► that causes God to reject them.”
 \p
@@ -53,9 +53,9 @@ comes from people's ◄inner beings/hearts► that causes God to reject them.”
 \add that he had just spoken\add*. 
 \v 18 He replied to them, “◄\add I am disappointed that\add* you also do not understand
 \add what it means!\add*/Why can you not understand \add what it
-means\add*?► \f + \fr rhetorical question \f* ◄You ought to understand that nothing that \add enters us
+means\add*?► \f + \fk rhetorical question \f* ◄You ought to understand that nothing that \add enters us
 from\add* outside can cause \add God to\add* consider us unacceptable to him./Can you not understand that nothing that
-\add enters us from\add* outside of us can cause \add God to\add* consider us unacceptable to him?► \f + \fr rhetorical question \f*
+\add enters us from\add* outside of us can cause \add God to\add* consider us unacceptable to him?► \f + \fk rhetorical question \f*
 \v 19 Instead of entering \add and ruining\add* our minds/souls, it goes into our stomachs, and afterwards the refuse passes
 out \add of our bodies\add*.” By saying this, Jesus was declaring that people
 \add can eat\add* any food without causing \add God\add* to reject them.
@@ -82,11 +82,11 @@ her\add*, heard about Jesus. At once she came to him and prostrated herself at h
 Greece\add country\add*, but she was born in \add the region around\add* Phoenicia
 \add town\add* in Syria district. She pleaded with Jesus that he expel the evil spirit from her daughter.
 \v 27 But he \add wanted to see how strongly she believed in him. So, suggesting that he should help the Jews first and not the
-non-Jews whom some Jews called dogs\add* \f + \fr metaphor \f*, \add he\add* spoke to her saying, “First let the children eat all they want,
+non-Jews whom some Jews called dogs\add* \f + \fk metaphor \f*, \add he\add* spoke to her saying, “First let the children eat all they want,
 because it is not good for someone to take the food \add the mother has
 prepared\add* for the children and then throw it to the \add little\add* dogs.”
 \v 28 But \add to show that she believed that non-Jews could also receive help from
-God\add* \f + \fr metaphor \f*, she replied to him, “Sir, \add what you say is\add* correct, but even the
+God\add* \f + \fk metaphor \f*, she replied to him, “Sir, \add what you say is\add* correct, but even the
 \add little\add* dogs, which lie under the table, eat the crumbs that the children
 \add drop\add*.” 
 \v 29  \add Jesus\add* said to her, “Because of what you have said,
@@ -111,7 +111,7 @@ of\add* the man's ears. After he spat \add on his fingers\add*, he touched the m
 \v 34 Then he looked up toward heaven, he sighed \add because he was concerned for the
 man\add*, and then \add in his own language\add* he said to the man's
 \add ears\add*, “Ephphatha”, which means, “Be opened {Open up}!”.
-\v 35 At once the man could hear plainly \f + \fr metonymy \f*. He also began to speak clearly because
+\v 35 At once the man could hear plainly \f + \fk metonymy \f*. He also began to speak clearly because
 \add what was causing him to be unable to speak\add* was healed {Jesus healed
 \add what was causing him to be unable to speak\add*}. 
 \v 36 Jesus told ◄\add the people/his friends\add*► not to tell anyone

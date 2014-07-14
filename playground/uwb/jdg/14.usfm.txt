@@ -49,10 +49,10 @@ my friends, but you have not told me the meaning of the riddle!”
 because she continued to nag him, he told her the meaning of the riddle. Then she told it to the young men.
 \p
 \v 18 So, before sunset on the seventh day, the young men came to Samson and said to him,
-\q What/Nothing is sweeter than honey \f + \fr rhetorical question \f*. 
-\q2 What/Nothing is stronger than a lion \f + \fr rhetorical question \f*! 
+\q What/Nothing is sweeter than honey \f + \fk rhetorical question \f*. 
+\q2 What/Nothing is stronger than a lion \f + \fk rhetorical question \f*! 
 \p Samson replied, “\add Heifers do not\add* plow fields. \add My bride is
-like\add* a young heifer \f + \fr metaphor \f*. 
+like\add* a young heifer \f + \fk metaphor \f*. 
 \q If you had not forced her to ask me, 
 \q2 you would not have determined the meaning of my riddle!” 
 \p

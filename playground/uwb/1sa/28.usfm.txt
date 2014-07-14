@@ -41,7 +41,7 @@ punished for doing this.”
 \v 11 Then the woman said, “Whom do you want me to cause to appear?”
 \p Saul replied, “Cause Samuel to appear.” 
 \p
-\v 12  \add So the woman did that\add*. But when she saw Samuel, she screamed. She said, “You have tricked me \f + \fr rhetorical question \f*! You are
+\v 12  \add So the woman did that\add*. But when she saw Samuel, she screamed. She said, “You have tricked me \f + \fk rhetorical question \f*! You are
 Saul! \add You will execute me for doing this\add*!” 
 \p
 \v 13 Saul said to her, “Do not be afraid. What do you see?” 
@@ -56,7 +56,7 @@ do\add* or give messages to prophets \add to tell me what to do\add*. That is th
 what I should do!” 
 \v 16 Samuel said, “Yahweh has abandoned you and has become your enemy. So ◄why do you ask me
 \add what you should do\add*?/do not ask me \add what you should
-do\add*.► \f + \fr rhetorical question \f* 
+do\add*.► \f + \fk rhetorical question \f* 
 \v 17 He has done what he told me \add previously\add* that he would do to you. He has torn the kingdom away from you, and he
 is giving it to someone who is another Israeli—David. 
 \v 18 You did not obey Yahweh. Yahweh was very angry with the Amalek people-group. You did not

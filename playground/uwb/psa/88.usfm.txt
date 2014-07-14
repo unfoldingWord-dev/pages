@@ -5,12 +5,12 @@
 \add to you\add* to help me, 
 \q and I cry out to you during each night also. 
 \q
-\v 2 Listen [IDI] to my prayer \f + \fr doublet \f*, 
+\v 2 Listen [IDI] to my prayer \f + \fk doublet \f*, 
 \q2 while I cry out to you \add for help\add*! 
 \b
 \q
 \v 3 I have experienced many troubles/difficulties, 
-\q2 and I am about to die \f + \fr metonymy \f* and go where dead people are. 
+\q2 and I am about to die \f + \fk metonymy \f* and go where dead people are. 
 \q
 \v 4 Because I have no more strength, 
 \q2 \add other people also\add* consider that I will soon die. 
@@ -26,7 +26,7 @@
 \q
 \v 7  \add It seems like\add* you are very angry with me, 
 \q and \add it is as though\add* you have crushed me like \add ocean\add* waves
-\add crash down on people\add* \f + \fr metaphor \f*. 
+\add crash down on people\add* \f + \fk metaphor \f*. 
 \qr (Think about that!) 
 \q
 \v 8 You have caused my friends to ◄avoid/stay away from► me; 
@@ -38,15 +38,15 @@
 \q2 I lift up my hands to you \add while I pray\add*. 
 \b
 \q
-\v 10 You certainly do not \f + \fr rhetorical question \f* perform miracles for dead people!
-\q Their spirits do not \f + \fr rhetorical question \f* arise to praise you! 
+\v 10 You certainly do not \f + \fk rhetorical question \f* perform miracles for dead people!
+\q Their spirits do not \f + \fk rhetorical question \f* arise to praise you! 
 \qr (Think about that!) 
 \q
-\v 11 Corpses in the grave certainly do not tell about your faithfully loving us \f + \fr rhetorical question \f*,
+\v 11 Corpses in the grave certainly do not tell about your faithfully loving us \f + \fk rhetorical question \f*,
 \q2 and in the place where people are finally destroyed, 
-\q2 no one tells about what you faithfully \add do for us\add* \f + \fr rhetorical question \f*.
+\q2 no one tells about what you faithfully \add do for us\add* \f + \fk rhetorical question \f*.
 \q
-\v 12 No one in the deep dark pit ever sees the miracles that you perform \f + \fr rhetorical question \f*,
+\v 12 No one in the deep dark pit ever sees the miracles that you perform \f + \fk rhetorical question \f*,
 \q2 and no one in the place where people have been completely forgotten tells about your being good to us.
 \b
 \q
@@ -63,7 +63,7 @@
 \v 16  \add I feel that\add* you have crushed me because of your being angry with me;
 \q2 the terrible things that you are doing to me are almost destroying me.
 \q
-\v 17  \add I feel as though\add* they surround me like a flood \f + \fr simile \f*;
+\v 17  \add I feel as though\add* they surround me like a flood \f + \fk simile \f*;
 \q2 they are ◄closing in on/crushing► me from all sides. 
 \q
 \v 18 You have caused even my friends and others whom I love to avoid me,

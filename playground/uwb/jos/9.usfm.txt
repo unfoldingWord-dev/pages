@@ -18,7 +18,7 @@ the other Israeli leaders, “We have traveled from a distant land. We want you 
 \p
 \v 7 The Israeli leaders said to those men from \add Gilead who were
 from\add* the Hiv people-group, “\add We do not know if you truly live far from
-us\add*. If you live near us, we cannot \f + \fr rhetorical question \f* make a peace agreement with you,
+us\add*. If you live near us, we cannot \f + \fk rhetorical question \f* make a peace agreement with you,
 \add because God has commanded us to get rid of the people that are living near
 us\add*.” 
 \p
@@ -54,7 +54,7 @@ home\add*.
 \p All the Israeli people grumbled against their leaders \add for doing
 that\add*. 
 \v 19 But the leaders answered, “We promised to \add live peacefully with
-them\add*, and Yahweh, the God whom we Israelis \add worship\add*, heard us promise to do that. So now we cannot attack \f + \fr euphemism \f*
+them\add*, and Yahweh, the God whom we Israelis \add worship\add*, heard us promise to do that. So now we cannot attack \f + \fk euphemism \f*
 them. 
 \v 20 This is what we will do: We will not kill them. If we kill them, God will be very angry with us
 \add and punish us\add* because of not doing what we solemnly promised to do.

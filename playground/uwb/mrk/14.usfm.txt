@@ -21,12 +21,12 @@ if he would help them seize Jesus.
 \add fragrant\add* perfume called nard. She opened the jar and then she poured the perfume on Jesus' head.
 \v 4 One of the people \add who were present\add* became angry and said to the others,
 “◄\add It is terrible that she\add* wasted that perfume!/\add Why did
-she\add* waste that perfume?► \f + \fr rhetorical question \f* 
+she\add* waste that perfume?► \f + \fk rhetorical question \f* 
 \v 5 It could have been sold {\add We\add* could have sold it} for ◄a huge amount of money/an amount of money for which a
 person works for a year►, and then \add the money\add* could have been given
 {\add we\add* could have given \add the money\add*} to poor people!” So he rebuked her.
 \v 6 But Jesus said, “Stop \add scolding\add* her! She has done to me what I
-\add consider to be\add* very appropriate/delightful. So ◄you should not bother her!/why do you bother her?► \f + \fr rhetorical question \f*
+\add consider to be\add* very appropriate/delightful. So ◄you should not bother her!/why do you bother her?► \f + \fk rhetorical question \f*
 \v 7 You will always have poor people among you. So you can help them whenever you want to. But I will not
 \add be here among\add* you much longer. \add So it is good for her to show now that she appreciates
 me\add*. 
@@ -36,7 +36,7 @@ me\add*.
 the world, what she has done will be told {people will tell others what she has done
 \add to me\add*}, and as a result people will remember her.” 
 \p
-\v 10 Then Judas Iscariot \f + \fr (OR, the man from Kerioth village) \f* went to the chief priests in order to
+\v 10 Then Judas Iscariot \f + \ft (OR, the man from Kerioth village) \f* went to the chief priests in order to
 \add talk to them about\add* helping them to seize Jesus. He did that
 \add even though\add* he was one of the twelve \add disciples\add*!
 \v 11 When they heard \add what he was willing to do for them\add*, they were very happy. They promised that they would give
@@ -57,7 +57,7 @@ of water. Follow him.
 \v 14 When he enters \add a house\add*, say to the man who owns the house,
 ‘\add Our\add* teacher wants us to prepare \add the meal of\add* the Passover celebration so that he can eat it with us his
 disciples. ◄Please show us the room that he \add arranged with you
-about\add*./Where is the room that he \add arranged with you about\add*?► \f + \fr rhetorical question \f*’
+about\add*./Where is the room that he \add arranged with you about\add*?► \f + \fk rhetorical question \f*’
 \v 15 He will show you a large room that is on the upper floor \add of the
 house\add*. It will be furnished and ready \add for us to eat a meal in
 it\add*. Then prepare the meal there for us.” 
@@ -74,7 +74,7 @@ said represented his body and blood which would be sacrificed.
 \v 18 As they were all sitting there \add and eating\add*, Jesus said, “Listen carefully to this: One of you will enable my
 enemies to seize me. Specifically, it is one of you who \add will do this in spite of the fact that
 he\add* is eating with me \add right now\add*!” 
-\v 19 The disciples became very sad and they said to him one by one, “Surely ◄it is not I!/I am not the one, am I?► \f + \fr rhetorical question \f*”
+\v 19 The disciples became very sad and they said to him one by one, “Surely ◄it is not I!/I am not the one, am I?► \f + \fk rhetorical question \f*”
 \v 20 Then he said to them, “It is one of \add you\add* twelve \add disciples\add*, the one who is dipping
 \add bread\add* into the \add sauce in the\add* dish along with me.
 \v 21 It is certain that \add I\add*, the one who came from heaven, will
@@ -84,10 +84,10 @@ would be better for that man if he had never been born!”
 \p
 \v 22 While they were eating, he took \add a flat loaf of\add* bread and thanked God for it. Then he broke it
 \add into pieces\add* and gave it to them and said to them, “This
-\add bread represents\add* \f + \fr metaphor \f* my body. Take it \add and eat it\add*.”
+\add bread represents\add* \f + \fk metaphor \f* my body. Take it \add and eat it\add*.”
 \v 23 Afterwards, he took a cup \add that contained wine\add* and thanked
 \add God for it\add*. Then he gave it to them, and then, as they all drank from it,
-\v 24 he said to them, “This \add wine represents\add* \f + \fr metaphor \f* my blood, which is about to be shed {which is about to flow from
+\v 24 he said to them, “This \add wine represents\add* \f + \fk metaphor \f* my blood, which is about to be shed {which is about to flow from
 my body} \add when my enemies kill me\add*. With this blood I \add will
 sign\add* the agreement \add that God has made to forgive the sins
 of\add* many people. 
@@ -117,19 +117,19 @@ defend\add* you, I will never deny \add that I know\add* you!” And all
 \add people\add* call Gethsemane. Then he said to \add some/eight
 of\add* his disciples, “Stay here while I pray!” 
 \v 33 Then he took Peter, James, and John with him. He became extremely distressed, and he said to them,
-\v 34 “I \f + \fr synecdoche \f* am very sorrowful. \add It is as if\add* I were about to die.
+\v 34 “I \f + \fk synecdoche \f* am very sorrowful. \add It is as if\add* I were about to die.
 \add You men\add* stay here and keep awake!” 
 \v 35 He went a bit further and threw himself on the ground. Then he prayed that if it were possible, he would not
-\add have to suffer\add* \f + \fr metonymy \f*. 
+\add have to suffer\add* \f + \fk metonymy \f*. 
 \v 36 He said, “O my Father, \add because\add* you are able to do everything, rescue me so that I do not have to suffer
-\add now\add* \f + \fr metonymy \f*! But do not \add do\add* what I want. Instead,
+\add now\add* \f + \fk metonymy \f*! But do not \add do\add* what I want. Instead,
 \add do\add* what you want!” 
 \v 37 Then he returned and found his \add disciples\add* sleeping. He
 \add woke them up and\add* said, “Simon! ◄\add I am disappointed
 that\add* you fell asleep and that you were not able to stay awake for just a short
-time!/\add Why is it that\add* you fell asleep and that you were not able to stay awake for just one hour?► \f + \fr rhetorical question \f*”
+time!/\add Why is it that\add* you fell asleep and that you were not able to stay awake for just one hour?► \f + \fk rhetorical question \f*”
 \v 38  \add And he said to them\add*, “You want \add to do what I
-say\add*, but you are not strong enough \f + \fr metonymy \f* \add to actually do
+say\add*, but you are not strong enough \f + \fk metonymy \f* \add to actually do
 it\add*. So keep awake and pray in order that you can resist when
 \add something like this\add* tempts you!” 
 \v 39 Then he went away again and prayed again what he prayed before.
@@ -140,7 +140,7 @@ them\add*.
 \v 41  \add Then he went and prayed again\add*. He returned a third time;
 \add and he found them sleeping again\add*. He \add woke\add* all of
 \add them and\add* said to them, “◄\add I am disappointed that you
-are\add* sleeping again!/\add Why are you\add* sleeping again?► \f + \fr rhetorical question \f*
+are\add* sleeping again!/\add Why are you\add* sleeping again?► \f + \fk rhetorical question \f*
 \add You have slept\add* enough. The time \add for me to suffer\add* is about to begin. Look! Someone is about to enable sinful
 men to seize me, the one who came from heaven. 
 \v 42  \add So\add* get up! Let's go \add toward him\add*! Look! Here comes the one who is enabling them to seize me!”
@@ -162,7 +162,7 @@ was\add* one of \add Jesus'\add* twelve \add disciples\add*, he came
 with it \add to kill him, but he only\add* cut off his ear. 
 \v 48-49 Jesus said to them, “◄\add It is ridiculous that\add* you come
 \add here to seize\add* me with swords and clubs, as if I were a bandit!/Have you come
-\add here to seize\add* me with swords and clubs, as if I were a bandit \f + \fr rhetorical question \f*?► Day after day I was with you in the Temple
+\add here to seize\add* me with swords and clubs, as if I were a bandit \f + \fk rhetorical question \f*?► Day after day I was with you in the Temple
 \add courtyard\add* teaching\add the people\add*! Why did you not seize me then?
 \add But this is happening\add* in order that \add what the prophets have written
 in\add* the Scriptures \add about me\add* may be fulfilled {may happen}.”
@@ -196,7 +196,7 @@ another temple ◄without help from anyone else/that human hands will not build�
 \p
 \v 60 Then the high priest \add himself\add* stood up in front of them and said to Jesus, “Are you not going to reply? What
 \add do you say about\add* all the things that they are saying in order to accuse you?”
-\v 61 But Jesus was silent and did not reply \f + \fr doublet \f*. Then the high priest
+\v 61 But Jesus was silent and did not reply \f + \fk doublet \f*. Then the high priest
 \add tried again\add*. He asked him, “Are you the Messiah? \add Do you say that you
 are\add* ◄the Son of God/the man who is also God►?” 
 \v 62 Jesus said, “I am. Furthermore, you will see me, the one who came from heaven,
@@ -204,7 +204,7 @@ are\add* ◄the Son of God/the man who is also God►?”
 me\add* coming down through the clouds in the sky!” 
 \v 63  \add In response to Jesus' words\add*, the high priest tore his outer garment.
 \add That was their custom to show that he was shocked that Jesus had said that he was equal to
-God\add*. Then he said, “We certainly do not \f + \fr rhetorical question \f* need any \add more\add* people who will testify
+God\add*. Then he said, “We certainly do not \f + \fk rhetorical question \f* need any \add more\add* people who will testify
 \add against this man\add*, 
 \v 64  \add because\add* you have heard what he said against God!
 \add He claimed to be equal with God\add*! Therefore, what have you decided?” They all said that Jesus was guilty and deserved
@@ -221,7 +221,7 @@ house\add*, one of the girls who worked for the high priest came
 \v 67 When she saw Peter warming himself \add beside the fire\add*, she looked at him
 \add closely\add*. Then she said, “You also were with Jesus, that man from Nazareth
 \add town\add*!” 
-\v 68 But he denied it by saying, “I do not know or understand \f + \fr doublet \f* what you are talking about!” Then he went away
+\v 68 But he denied it by saying, “I do not know or understand \f + \fk doublet \f* what you are talking about!” Then he went away
 \add from there\add* to the gate \add of the courtyard\add*. 
 \v 69  \add Another\add* servant girl saw him there and said again to the people who were standing nearby, “This man is one of
 \add those who have been with that man they arrested\add*.” 

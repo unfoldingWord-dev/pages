@@ -9,24 +9,24 @@ know\add*.
 \v 3 After he had suffered \add and died on the cross\add*, \add he became alive
 again\add*. As he appeared to them \add often\add* during \add the
 next\add* forty days, the apostles saw him many times. He proved to them in many ways that he was alive again. He talked
-\add with them\add* about \add how\add* God would rule \f + \fr metaphor \f* \add the lives of people who accepted him as their
+\add with them\add* about \add how\add* God would rule \f + \fk metaphor \f* \add the lives of people who accepted him as their
 king\add*. 
 \s Acts 1:4-5 
 \s Jesus commanded his apostles to wait for the Holy Spirit. 
 \p
 \v 4  \add One time\add* while he was with them, he told them, “Do not leave Jerusalem
 \add yet\add*. Instead, wait \add here\add* until my Father sends
-\add his Spirit\add* \f + \fr metonymy \f* \add to you\add*, as he promised \add to
+\add his Spirit\add* \f + \fk metonymy \f* \add to you\add*, as he promised \add to
 do\add*. You have heard me speak \add to you\add* about that. 
 \v 5 John baptized people in water\add because they said that they wanted to change their
-lives\add*, but after a few days \f + \fr litotes \f* \add God\add* will put the Holy Spirit within you
+lives\add*, but after a few days \f + \fk litotes \f* \add God\add* will put the Holy Spirit within you
 \add to truly change your lives\add*.” 
 \s Acts 1:6-9 
 \s Jesus said that they would tell about him everywhere, and then he ascended to heaven.
 \p
 \v 6 One day when the \add apostles\add* met together \add with Jesus\add*, they asked him, “Lord, will
-you\add (sg)\add* now become the King \f + \fr metaphor \f* over \add us\add* Israelite people
-\add like King David, who ruled long ago\add*?” \f + \fr (OR, “Lord, will
+you\add (sg)\add* now become the King \f + \fk metaphor \f* over \add us\add* Israelite people
+\add like King David, who ruled long ago\add*?” \f + \ft (OR, “Lord, will
 you\add (sg)\add* now \add defeat the Romans and\add* restore the kingdom
 \add to us\add* Israelite people?”) 
 \v 7 He replied to them, “You do not \add need\add* to know the time
@@ -36,9 +36,9 @@ you\add (sg)\add* now \add defeat the Romans and\add* restore the kingdom
 \add spiritually\add* strong when he comes to live in you. Then you will
 \add powerfully\add* tell people about me in Jerusalem and in all
 \add the other places in\add* Judea \add district\add*, in Samaria
-\add district\add*, and in places far away all over \f + \fr idiom \f* the world.”
+\add district\add*, and in places far away all over \f + \fk idiom \f* the world.”
 \v 9 After he said that, he was taken {\add God\add* took him} up
-\add to heaven\add*, while they were watching. \add He went up into\add* a cloud \f + \fr personification \f*, which prevented them from seeing him
+\add to heaven\add*, while they were watching. \add He went up into\add* a cloud \f + \fk personification \f*, which prevented them from seeing him
 \add anymore\add*. 
 \s Acts 1:10-11 
 \s Angels told the apostles that Jesus would return later. 
@@ -47,7 +47,7 @@ you\add (sg)\add* now \add defeat the Romans and\add* restore the kingdom
 wearing white clothes stood beside them. \add They were angels\add*.
 \v 11 One\add of\add* them said, “You men from Galilee \add district\add*, ◄you do not need to stand
 \add here any longer\add* looking up at the sky!/why do you still stand
-\add here\add* looking up at the sky?► \f + \fr rhetorical question \f* \add Some day\add* this same Jesus, whom
+\add here\add* looking up at the sky?► \f + \fk rhetorical question \f* \add Some day\add* this same Jesus, whom
 \add God\add* took from you up to heaven, will come back \add to
 earth\add*. He will return in the same manner as you \add just now\add* saw him when he went up to heaven,
 \add but he will not return now\add*.” 
@@ -55,7 +55,7 @@ earth\add*. He will return in the same manner as you \add just now\add* saw him 
 \s The apostles and other believers often prayed together. 
 \p
 \v 12 Then \add after the two angels left\add*, the apostles returned to Jerusalem from Olive
-\add Tree\add* Hill, which was about ◄a half mile/one kilometer► \f + \fr metonymy \f* from Jerusalem.
+\add Tree\add* Hill, which was about ◄a half mile/one kilometer► \f + \fk metonymy \f* from Jerusalem.
 \v 13 When they entered \add the city\add*, they went into the upstairs room
 \add in the house\add* where they were staying. \add Those who were there
 included\add* Peter, John, James, Andrew, Philip, Thomas, Bartholomew, Matthew,
@@ -70,7 +70,7 @@ Judas \add the son\add* of \add another man named\add* James.
 \p
 \v 15 During those days Peter stood up among his fellow believers. There were
 \add at that place\add* a group of about 120 of \add Jesus' followers\add*. He said,
-\v 16 “My fellow believers, \add there are words that King\add* David wrote \f + \fr metonymy \f* in the Scriptures long ago that needed to be
+\v 16 “My fellow believers, \add there are words that King\add* David wrote \f + \fk metonymy \f* in the Scriptures long ago that needed to be
 fulfilled {to happen \add as he said they would\add*}. The Holy Spirit,
 \add who knew that Judas would be the one who would fulfill those
 words\add*, told David what to write. 
@@ -99,7 +99,7 @@ of\add* Psalms\add desired to happen\add*: ‘May his house become deserted, and
 \s Peter concluded that they needed to choose a man to replace Judas.
 \p
 \v 21 “So it is necessary \add for us apostles\add* to choose a man
-\add to replace Judas. He must be one who\add* accompanied \f + \fr metonymy \f* us all the time when the Lord Jesus was with us.
+\add to replace Judas. He must be one who\add* accompanied \f + \fk metonymy \f* us all the time when the Lord Jesus was with us.
 \v 22  \add That would be\add* from \add the time when\add* John
 \add the Baptizer\add* baptized \add Jesus\add* until the day when Jesus was taken {when
 \add God\add* took Jesus} from us up \add to heaven\add*. He must be one who saw Jesus alive again
@@ -112,7 +112,7 @@ was\add* Joseph, who was called {whom people called} Barsabbas (OR, Joseph Barsa
 \add also\add* had the \add Roman\add* name Justus. The other man was Matthias.
 \v 24-25 Then they prayed like this: “Lord \add Jesus\add*, Judas stopped being an apostle.
 \add He died and\add* went to the place where he \add deserved to
-be\add* \f + \fr euphemism \f*. \add So we(exc) need to choose someone\add* to replace
+be\add* \f + \fk euphemism \f*. \add So we(exc) need to choose someone\add* to replace
 \add Judas in order\add* that he can serve \add you(sg) by becoming\add* an apostle.
 You\add (sg)\add* know what everyone is really like. So \add please\add* show us which of these two men you have chosen.”
 \v 26 Then they cast lots \add to choose between the two of\add* them, and the lot fell for Matthias. (OR, Then

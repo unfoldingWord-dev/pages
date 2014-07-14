@@ -3,7 +3,7 @@
 \s John saw in the sky a marvelous sign of the seven angels who were responsible to inflict the seven last plagues.
 \p
 \v 1 Something else very unusual \add appeared\add* in the sky. I saw seven angels, whose duty it was to
-\add punish\add* \f + \fr (OR, inflict hardship upon) \add rebellious people\add* with seven different plagues (OR, in seven different
+\add punish\add* \f + \ft (OR, inflict hardship upon) \add rebellious people\add* with seven different plagues (OR, in seven different
 ways) \f*. God is so angry \add with rebellious people that\add* this is the last
 \add time that he will punish them with the purpose of giving them an opportunity to turn away from their sinful
 behavior\add*. 
@@ -13,7 +13,7 @@ God's praise for his mighty deliverance and righteous judgment.
 \p
 \v 2 I saw what looked like an ocean \add that was made of\add* glass and mixed with fire. And I saw the people who overcame
 the beast \add by not worshipping it\add* or its image, or \add allowing its agent to mark them
-with\add* the number that corresponds to the beast's name \f + \fr personification \f*. They were standing by the ocean
+with\add* the number that corresponds to the beast's name \f + \fk personification \f*. They were standing by the ocean
 \add that looked like it was made\add* of glass. They had harps \add for
 praising\add* God. 
 \v 3 They were singing a song \add like\add* God's servant Moses
@@ -25,9 +25,9 @@ like\add* a lamb:
 \q You are king forever! 
 \q
 \v 4 O Lord, you alone are holy! 
-\q People of \f + \fr metonymy \f* all nations will come and worship you, 
+\q People of \f + \fk metonymy \f* all nations will come and worship you, 
 \q because you show everyone that you have judged everyone righteously.
-\q So, ◄everyone will fear you and honor you!/who would not fear and honor you?► \f + \fr rhetorical question \f*.
+\q So, ◄everyone will fear you and honor you!/who would not fear and honor you?► \f + \fk rhetorical question \f*.
 \s Revelation 15:5-8 
 \s John saw angels being given the seven bowls of judgment in the heavenly sanctuary, which became filled with the smoke of
 God's unapproachable glory. 

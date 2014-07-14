@@ -1,7 +1,7 @@
 \c 3  
 \s A psalm written by David when he fled from his son Absalom 
 \q
-\v 1 Yahweh, I have many enemies \f + \fr doublet \f*! 
+\v 1 Yahweh, I have many enemies \f + \fk doublet \f*! 
 \q2 There are many people who oppose/rebel against me. 
 \q
 \v 2 Many people are saying about me, 
@@ -9,8 +9,8 @@
 \qr (Think about that!) 
 \b
 \q2
-\v 3 But Yahweh, you are like a shield \add that protects me\add* \f + \fr metaphor \f*.
-\q You greatly honor me, and you encourage me \f + \fr (OR, enable me to triumph over my enemies) [IDI].
+\v 3 But Yahweh, you are like a shield \add that protects me\add* \f + \fk metaphor \f*.
+\q You greatly honor me, and you encourage me \f + \ft (OR, enable me to triumph over my enemies) [IDI].
 \q
 \v 4 I cry out to you, Yahweh, 
 \q2 and you answer me from \add Zion\add*, your sacred hill. 
@@ -30,7 +30,7 @@ night\add*.
 \q2 My God, come and rescue me \add again\add*! 
 \q You \add insult\add* my enemies by slapping them on their cheeks;
 \q2 \add when you strike them\add*, you break their teeth, 
-\q2 \add with the result that they cannot hurt anyone\add* \f + \fr metaphor \f*.
+\q2 \add with the result that they cannot hurt anyone\add* \f + \fk metaphor \f*.
 \b
 \q
 \v 8 Yahweh, you are the one who saves your people \add from their

@@ -14,7 +14,7 @@ summer\add*,
 \v 3 Trust in Yahweh, and do what is good; 
 \q2 if you do that, you will live safely in the land \add that he has given
 you\add*, 
-\q2 and you will live peacefully \f + \fr metaphor \f*. 
+\q2 and you will live peacefully \f + \fk metaphor \f*. 
 \q
 \v 4 Be delighted with all that Yahweh \add does for you\add*; 
 \q2 if you do that, he will give you the things that you desire most.
@@ -25,7 +25,7 @@ you\add*,
 \q2 and he will do \add whatever is needed to help you\add*. 
 \q
 \v 6 He will show as clearly as the sunlight that you ◄are innocent/have done nothing that is wrong►;
-\q2 he will show \add as clearly\add* as \add the sun at\add* noontime \f + \fr simile \f*
+\q2 he will show \add as clearly\add* as \add the sun at\add* noontime \f + \fk simile \f*
 \q2 that all the things that you have decided are just. 
 \b
 \q
@@ -53,15 +53,15 @@ do\add*.
 \b
 \q
 \v 12 Wicked people plan to harm righteous/godly people; 
-\q2 they snarl at them \f + \fr metaphor \f* like wild animals. 
+\q2 they snarl at them \f + \fk metaphor \f* like wild animals. 
 \q
 \v 13 But Yahweh laughs \add at them\add* 
-\q2 because he knows that some day \f + \fr metonymy \f* \add he will judge and punish\add* the wicked people.
+\q2 because he knows that some day \f + \fk metonymy \f* \add he will judge and punish\add* the wicked people.
 \b
 \q
 \v 14 Wicked people pull out their swords/daggers 
 \q2 and they put strings on their bows, 
-\q ready to kill people who are poor \f + \fr doublet \f* 
+\q ready to kill people who are poor \f + \fk doublet \f* 
 \q2 and to slaughter those who live righteously. 
 \q
 \v 15 But they will be killed by their own swords/daggers, 
@@ -84,7 +84,7 @@ do\add*.
 \q
 \v 20 But wicked people will die; 
 \q2 just like the beautiful wild flowers in the fields \add die under the hot
-sun\add* and disappear like smoke \f + \fr metaphor \f*, 
+sun\add* and disappear like smoke \f + \fk metaphor \f*, 
 \q2 Yahweh \add will cause\add* his enemies to suddenly disappear.
 \b
 \q
@@ -125,7 +125,7 @@ them\add*,
 \b
 \q
 \v 30 Righteous people give wise advice to others, 
-\q2 and they \f + \fr metonymy \f* speak what is just/fair. 
+\q2 and they \f + \fk metonymy \f* speak what is just/fair. 
 \q
 \v 31 They fill their minds with God's laws; 
 \q2 they do not stray from walking \add on God's\add* path. 
@@ -157,12 +157,12 @@ fertile soil,
 \q2 their descendants will have peace in their inner beings. 
 \q
 \v 38 But Yahweh will get rid of the wicked; 
-\q2 he will also get rid of their descendants \f + \fr (OR, as a result, they will not have any descendants) \f*.
+\q2 he will also get rid of their descendants \f + \ft (OR, as a result, they will not have any descendants) \f*.
 \b
 \q
 \v 39 Yahweh rescues righteous people; 
-\q2 in times of trouble he protects them \f + \fr metaphor \f*. 
+\q2 in times of trouble he protects them \f + \fk metaphor \f*. 
 \q
 \v 40 Yahweh helps them and saves them; 
 \q2 he rescues them from \add being attacked/harmed by\add* wicked people
-\q2 because they go to him to be protected \f + \fr metaphor \f*. 
+\q2 because they go to him to be protected \f + \fk metaphor \f*. 

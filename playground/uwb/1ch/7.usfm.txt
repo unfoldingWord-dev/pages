@@ -3,7 +3,7 @@
 \p
 \v 1 Issachar's four sons were Tola, Puah, Jashub, and Shimron. 
 \li
-\v 2 Tola's sons were Uzzi, Rephaiah, Jeriel, Jahmai, Ibsam, and Samuel \f + \fr (OR, Shemuel).
+\v 2 Tola's sons were Uzzi, Rephaiah, Jeriel, Jahmai, Ibsam, and Samuel \f + \ft (OR, Shemuel).
 \li2 They were all leaders of the clans \add descended from\add* them.
 \li In the record of Tola's descendants were the names of 22,600 men who were able to be in the army during the time that David
 was the king \add of Israel\add*. 
@@ -75,7 +75,7 @@ who were able to be in the army.
 killed by some of the men from that city. 
 \q
 \v 22 Their father Ephraim cried/mourned for them for many days, and his family came to comfort him.
-\v 23 Then he and his wife had sex \f + \fr euphemism \f* \add again\add*, and she became pregnant and gave birth to a son. Ephraim named him
+\v 23 Then he and his wife had sex \f + \fk euphemism \f* \add again\add*, and she became pregnant and gave birth to a son. Ephraim named him
 Beriah \add which resembles the word 'trouble'\add* because of the trouble that his family had experienced.
 \v 24 Ephraim's daughter was Sheerah. Her workers built \add three
 towns\add*: Lower Beth-Horon, Upper Beth-Horon, and Uzzen-Sheerah.

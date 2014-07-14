@@ -5,17 +5,17 @@
 \v 1 My fellow believers, \add God\add* has set you apart and has chosen you, just like he chose me. So consider Jesus.
 \add He is God's\add* messenger to us. He is also the high priest whom we say we believe in.
 \v 2 He faithfully \add served God\add*, who appointed him, just like Moses faithfully
-\add served\add* God's people \f + \fr metonymy \f*. 
+\add served\add* God's people \f + \fk metonymy \f*. 
 \v 3-4 Just like every house is made by someone {as someone makes every house}, Jesus made everything, and he is God/Divine. So
 God has considered that Jesus is worthy \add that people honor\add* him more than they honor Moses, just like the one who
 builds a house deserves that people honor him more than they should honor the house
 \add he built\add*. 
 \v 5 Moses very faithfully \add served God as he\add* ◄\add helped/cared
-for\add*► \f + \fr metaphor \f* God's people, just like a servant \add faithfully serves his
+for\add*► \f + \fk metaphor \f* God's people, just like a servant \add faithfully serves his
 master\add*. The result was that Moses testified about what Jesus would say later.
 \v 6 But Christ\add faithfully serves God as he\add* ◄\add helps/cares
 for\add*► his own people [MTY, MET], just like a \add son helps/cares for his own
-family\add*. And we are God's people \f + \fr metonymy \f* if we continue to confidently
+family\add*. And we are God's people \f + \fk metonymy \f* if we continue to confidently
 \add believe in Christ\add* and if we continue to proudly wait for
 \add what God will do for us\add*. 
 \s Hebrews 3:7-11 
@@ -23,8 +23,8 @@ family\add*. And we are God's people \f + \fr metonymy \f* if we continue to con
 \p
 \v 7 The Holy Spirit \add caused the Psalmist to write these words in the Scriptures to the
 Israelites\add*: 
-\q Now, when you\add (pl)\add* hear God speaking to you \f + \fr metonymy \f*, 
-\v 8 do not stubbornly ◄\add disobey/refuse to\add* obey \add him\add*► \f + \fr idiom \f*,
+\q Now, when you\add (pl)\add* hear God speaking to you \f + \fk metonymy \f*, 
+\v 8 do not stubbornly ◄\add disobey/refuse to\add* obey \add him\add*► \f + \fk idiom \f*,
 \add as the your ancestors stubbornly disobeyed him\add* when they rebelled against
 \add him\add* in the desert. 
 \p \add At that time, God said to them\add*, “They tried to determine how many
@@ -38,23 +38,23 @@ though\add* for forty years they saw all the amazing things I did.
 \add wanted them\add* to conduct their lives.’ 
 \p
 \v 11 As a result, because I was angry with them, I solemnly declared, ‘They will not enter
-\add the land of Canaan\add* where I would let them rest \f + \fr metonymy \f*!’
+\add the land of Canaan\add* where I would let them rest \f + \fk metonymy \f*!’
 \s Hebrews 3:12-15 
 \s Beware that you do not stop trusting in Christ. 
 \p
 \v 12 In accordance with that, my fellow believers, beware that none of you wickedly stops trusting
 \add in Christ\add*. That would cause you to reject the all-powerful God.
 \v 13 Instead, each of you must encourage each other every day, while
-\add you still have\add* the opportunity \f + \fr idiom \f*, in order that no one of you may stubbornly
-\add reject God\add* by\add letting others\add* deceive you \f + \fr (OR, as you deceive yourselves),
-\add with the result that\add* you\add (sg)\add* sin \f + \fr personification \f*. 
+\add you still have\add* the opportunity \f + \fk idiom \f*, in order that no one of you may stubbornly
+\add reject God\add* by\add letting others\add* deceive you \f + \ft (OR, as you deceive yourselves),
+\add with the result that\add* you\add (sg)\add* sin \f + \fk personification \f*. 
 \v 14  \add We must do that\add*, because we\add (inc)\add* benefit in
 \add all\add* Christ \add has done\add* only if we firmly keep trusting
 \add in him\add* from the time when we first confidently\add trusted in
-him\add* until \add the time when\add* we die \f + \fr euphemism \f*. 
+him\add* until \add the time when\add* we die \f + \fk euphemism \f*. 
 \v 15  \add We can do this\add* by paying attention to \add what the Psalmist wrote in that Scripture passage in
 which\add* God said, 
-\q Now, when you hear me speaking\add to you(pl)\add* \f + \fr metonymy \f*, do not stubbornly disobey me as
+\q Now, when you hear me speaking\add to you(pl)\add* \f + \fk metonymy \f*, do not stubbornly disobey me as
 \add your ancestors stubbornly disobeyed me\add* when they rebelled
 \add against me\add*. 
 \s Hebrews 3:16-19 
@@ -62,17 +62,17 @@ which\add* God said,
 \p
 \v 16 ◄\add You must keep trusting in God\add* because you must remember who it was who rebelled against God although they
 heard him speaking to them./Do you remember who it was who rebelled against God although they
-heard\add him speaking to them\add*?► \f + \fr rhetorical question \f* It was people who had certainly experienced \f + \fr litotes \f* God's power. ◄It was all those
+heard\add him speaking to them\add*?► \f + \fk rhetorical question \f* It was people who had certainly experienced \f + \fk litotes \f* God's power. ◄It was all those
 people whom Moses led miraculously out of Egypt./Was it not all those people whom Moses led
-\add miraculously\add* out of Egypt?► \f + \fr rhetorical question \f* 
+\add miraculously\add* out of Egypt?► \f + \fk rhetorical question \f* 
 \v 17 And ◄\add you must remember\add* who it was that God was disgusted with for forty years./do you
-\add remember\add* who it was that God was disgusted with for forty years?► \f + \fr rhetorical question \f* ◄It was those same people who had sinned like
+\add remember\add* who it was that God was disgusted with for forty years?► \f + \fk rhetorical question \f* ◄It was those same people who had sinned like
 that, and whose bodies as a result lay where they died in the desert!/Was it not those
 \add same\add* people who had sinned \add like that\add*, and whose bodies as a result lay
-\add where they died\add* in the desert area?► \f + \fr rhetorical question \f* 
+\add where they died\add* in the desert area?► \f + \fk rhetorical question \f* 
 \v 18 And ◄\add you must remember\add* about whom God solemnly declared, “They will not enter the land where I would let them
 rest.”/do you \add remember\add* about whom \add God\add* solemnly declared, “They will not enter the land where I
-\add would let them\add* rest”?► \f + \fr rhetorical question \f* It was those Israelites who disobeyed God.
+\add would let them\add* rest”?► \f + \fk rhetorical question \f* It was those Israelites who disobeyed God.
 \v 19 So, from that example we\add (inc) \f*\add* perceive that it was because they did not keep trusting
 \add in God\add* that they were unable to enter \add the land where they would
 rest\add*. 

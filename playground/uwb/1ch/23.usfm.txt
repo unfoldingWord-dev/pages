@@ -1,7 +1,7 @@
 \c 23  
 \s The duties of the descendants of Levi 
 \p
-\v 1 David was a very old man \f + \fr doublet \f* when he appointed his son Solomon to be the next king.
+\v 1 David was a very old man \f + \fk doublet \f* when he appointed his son Solomon to be the next king.
 \p
 \v 2 David gathered the leaders of Israel and the priests and other descendants of Levi.
 \v 3 He \add commanded some of his officials to\add* count the descendants of Levi who were at least thirty years old, and they
@@ -33,7 +33,7 @@ three sons of Levi — Gershon, Kohath, and Merari.
 \li
 \v 13 There were two sons of Amram: Aaron and Moses. 
 \li2 Aaron and his descendants were set apart to dedicate the very holy things, to offer sacrifices to Yahweh, to serve in his
-presence, and to declare \add to the people what\add* Yahweh \f + \fr metonymy \f* would do to bless them. They were to do those things
+presence, and to declare \add to the people what\add* Yahweh \f + \fk metonymy \f* would do to bless them. They were to do those things
 forever. 
 \li2
 \v 14 The sons of Moses, the man who served God \add well\add*, were counted as part of the tribe of Levi.

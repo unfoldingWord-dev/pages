@@ -2,7 +2,7 @@
 \s A psalm written by David 
 \q
 \v 1  \add I tell\add* myself that I should praise Yahweh. 
-\q2 I will praise him \f + \fr metonymy \f* with all of my inner being, \add because\add* he \f + \fr metonymy \f* is holy.
+\q2 I will praise him \f + \fk metonymy \f* with all of my inner being, \add because\add* he \f + \fk metonymy \f* is holy.
 \q
 \v 2  \add I tell\add* myself that I should praise Yahweh 
 \q2 and never forget all the kind things he has done for me: 
@@ -10,7 +10,7 @@
 \v 3 He forgives all my sins, 
 \q2 and he heals me from all my diseases/sicknesses; 
 \q
-\v 4 he keeps/rescues me from dying \f + \fr metonymy \f*, 
+\v 4 he keeps/rescues me from dying \f + \fk metonymy \f*, 
 \q2 and blesses me by faithfully loving me and acting mercifully to me.
 \q
 \v 5 He gives me good things during my entire life. 
@@ -30,12 +30,12 @@
 \q2 and he will not remain angry forever. 
 \q
 \v 10 He punishes us for our sins, 
-\q2 but he does not punish us \add severely\add* as we deserve \f + \fr doublet \f*!
+\q2 but he does not punish us \add severely\add* as we deserve \f + \fk doublet \f*!
 \q
 \v 11 The skies are very high above the earth, 
 \q2 and Yahweh's faithful love for all those who revere him is just as great.
 \q
-\v 12 He has taken away \add the guilt for\add* \f + \fr metonymy \f* our sins 
+\v 12 He has taken away \add the guilt for\add* \f + \fk metonymy \f* our sins 
 \q2 and put it as far from us as the east is from the west. 
 \q
 \v 13 Just like parents act mercifully toward their children, 
@@ -43,10 +43,10 @@
 \q
 \v 14 He knows what our bodies are like; 
 \q2 he remembers that he \add created us from\add* dust/dirt, 
-\q2 and so we quickly fail \add to do what pleases him\add* \f + \fr metaphor \f*.
+\q2 and so we quickly fail \add to do what pleases him\add* \f + \fk metaphor \f*.
 \q
-\v 15 We humans do not live forever \f + \fr simile \f*; 
-\q2 we are like grass \f + \fr simile \f* \add that withers and dies\add*. 
+\v 15 We humans do not live forever \f + \fk simile \f*; 
+\q2 we are like grass \f + \fk simile \f* \add that withers and dies\add*. 
 \q We are like wild flowers: they bloom \add for a short while\add*,
 \q
 \v 16 but then the \add hot\add* wind blows over them, and they disappear;
@@ -61,7 +61,7 @@
 \q2 to all those who obey what he has commanded. 
 \b
 \q
-\v 19 Yahweh made/caused the heavens to be the place where he rules \f + \fr metonymy \f*;
+\v 19 Yahweh made/caused the heavens to be the place where he rules \f + \fk metonymy \f*;
 \q2 from there he rules over everything. 
 \q
 \v 20 You angels who belong to Yahweh, praise him! 

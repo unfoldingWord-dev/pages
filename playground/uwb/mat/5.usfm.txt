@@ -19,8 +19,8 @@ sinned;\add*
 \q they will inherit the earth \add that God will recreate\add*.
 \q
 \v 6  \add God\add* is pleased with people who sincerely \add desire to
-live\add* righteously \add just like they\add* desire to eat and drink \f + \fr metaphor \f*;
-\q they will be enabled {he will enable them} to do all that he desires \f + \fr metaphor \f*.
+live\add* righteously \add just like they\add* desire to eat and drink \f + \fk metaphor \f*;
+\q they will be enabled {he will enable them} to do all that he desires \f + \fk metaphor \f*.
 \q
 \v 7  \add God\add* is pleased with people who act mercifully; 
 \q he will act mercifully to them. 
@@ -29,7 +29,7 @@ live\add* righteously \add just like they\add* desire to eat and drink \f + \fr 
 \q \add some day\add* they will \add be where\add* God is and will see him.
 \q
 \v 9  \add God\add* is pleased with people who help other people to live peacefully;
-\q they will be considered to be {he will consider that they are} his children \f + \fr metaphor \f*.
+\q they will be considered to be {he will consider that they are} his children \f + \fk metaphor \f*.
 \q
 \v 10  \add God is pleased with\add* people to whom evil things are done {to whom
 \add other people\add* do evil things} because they \add conducted
@@ -40,50 +40,50 @@ themselves\add* righteously;
 \add other people\add* do evil things to you and when \add other
 people\add* say falsely \add that\add* you are evil because \add you believe
 in\add* me. 
-\v 12  \add When that happens\add*, rejoice and be glad \f + \fr doublet \f*, because
+\v 12  \add When that happens\add*, rejoice and be glad \f + \fk doublet \f*, because
 \add God will give\add* you a great reward in heaven. \add God will think highly of
 you\add*, just like \add he thought highly of\add* the prophets whom your
 \add ancestors persecuted\add* long ago. 
 \s Matthew 5:13-16 
 \s Jesus taught that we should live in such a way that other people will see how we live and will praise God.
 \p
-\v 13 “\bd You\bd* are \add able to influence\add* evil \add people\add* \f + \fr metonymy \f*
+\v 13 “\bd You\bd* are \add able to influence\add* evil \add people\add* \f + \fk metonymy \f*
 \add and improve the way they live in order that they do not become more evil, just
 like\add* salt \add is able to improve the flavor of food and to preserve
-it\add* \f + \fr metaphor \f* \add from spoiling\add*. Salt that no longer tastes salty cannot become salty again \f + \fr rhetorical question \f*. As a result, that salt
+it\add* \f + \fk metaphor \f* \add from spoiling\add*. Salt that no longer tastes salty cannot become salty again \f + \fk rhetorical question \f*. As a result, that salt
 becomes useless. It is rejected by people, thrown on the ground, and walked on {People reject it, throw it on the ground and
-walk on it} \f + \fr metaphor \f*. \add Similarly, if the way you live no longer influences people to live in a godly manner, God will reject
+walk on it} \f + \fk metaphor \f*. \add Similarly, if the way you live no longer influences people to live in a godly manner, God will reject
 you\add*. 
-\v 14  \bd You\bd* \add enable\add* evil \add people\add* \f + \fr metonymy \f* \add to perceive God's truth
+\v 14  \bd You\bd* \add enable\add* evil \add people\add* \f + \fk metonymy \f* \add to perceive God's truth
 as\add* a light \add enables people to perceive what is around them. Just
-like\add* everyone can see \f + \fr litotes \f* \add the lights of\add* a city on a hill \f + \fr metaphor \f*,
+like\add* everyone can see \f + \fk litotes \f* \add the lights of\add* a city on a hill \f + \fk metaphor \f*,
 \add other people can see what you do\add*. 
 \v 15 After people light a lamp, they never put it under a basket. Instead,
 \add they put it\add* on a lampstand in their houses in order that it can shine on everyone there.
-\v 16  \add Similarly\add*, you need to do \add what is right\add* \f + \fr metaphor \f* in such a manner that other people can see the good
+\v 16  \add Similarly\add*, you need to do \add what is right\add* \f + \fk metaphor \f* in such a manner that other people can see the good
 deeds that you do, and as a result they will praise your Father \add who
 is\add* in heaven.” 
 \s Matthew 5:17-20 
 \s Jesus taught that it is important to obey all of God's commandments.
 \p
 \v 17 “I came to earth, not to annul the laws \add that God gave
-Moses\add* or \add what\add* the prophets \f + \fr metonymy \f* \add wrote\add*. Instead, I
+Moses\add* or \add what\add* the prophets \f + \fk metonymy \f* \add wrote\add*. Instead, I
 \add came\add* to cause to happen \add what the authors of those books predicted would
 happen\add*. So do not think any longer that I have come \add to
 earth\add* in order that I might annul \add what they wrote\add*.
 \v 18 Keep this in mind: \add Every\add* point of those laws, \add including those points that
-seem\add* least important, and even the smallest details of the laws \f + \fr metonymy \f* will surely be in effect [HYP, LIT] until the
+seem\add* least important, and even the smallest details of the laws \f + \fk metonymy \f* will surely be in effect [HYP, LIT] until the
 heavens and the earth disappear and until all \add that God told their authors to
 write\add* happens. 
 \v 19 Since \add all God's laws are important\add*, if anyone disobeys any of those commandments,
 \add even if it would be\add* one of the least \add important ones\add*, and if that person teaches people
 \add to disobey any of those commandments\add*, it will be said {\add God\add* will say} that that person is the least
-\add important\add* of those in the place where \f + \fr euphemism \f* God rules. But those who obey
+\add important\add* of those in the place where \f + \fk euphemism \f* God rules. But those who obey
 \add those commandments\add* and teach \add other people to obey them, it will be
 said\add* {\add God\add* will say} that they are very important among those that God rules.
 \v 20 Keep this in mind: \add You assume that\add* the Pharisees and the men who teach our laws
 \add faithfully obey\add* what God commands. But if you do not obey those laws better than they obey them, you will by no means
-enter the place where God \f + \fr euphemism \f* rules.” 
+enter the place where God \f + \fk euphemism \f* rules.” 
 \s Matthew 5:11-26 
 \s Jesus taught that we should not be angry and that we should quickly settle accounts with those whom we have wronged.
 \p
@@ -106,7 +106,7 @@ to\add* accuse you, settle accounts with that person quickly while you are walki
 judge\add , because if\add* the judge \add favors the person who is accusing you, he will declare that you are guilty and send
 you\add* to the prison guard, and the prison guard will put you in prison.
 \v 26 Keep this in mind: \add If you go to prison\add*, you will never get out
-\add because you will never be able to\add* pay all that the judge says that you owe \f + \fr metaphor \f*.
+\add because you will never be able to\add* pay all that the judge says that you owe \f + \fk metaphor \f*.
 \add And remember also that\add* you \add ought to settle accounts with God before you die,
 too\add*.” 
 \s Matthew 5:27-30 
@@ -114,17 +114,17 @@ too\add*.”
 \p
 \v 27 “You have heard \add God's\add* commandment, ‘Do not commit adultery.’
 \v 28 But what I say to you is this: If a man only looks at a woman desiring to have sex with her,
-\add God considers that\add* his thinking about sinning sexually \f + \fr metaphor \f* is sin.
-\v 29 If because of what you see \f + \fr metonymy \f* you \add are tempted to\add* sin,
-\add stop looking at those things! Even if you have to\add* gouge out one of your eyes and throw it away \f + \fr hyperbole \f*
+\add God considers that\add* his thinking about sinning sexually \f + \fk metaphor \f* is sin.
+\v 29 If because of what you see \f + \fk metonymy \f* you \add are tempted to\add* sin,
+\add stop looking at those things! Even if you have to\add* gouge out one of your eyes and throw it away \f + \fk hyperbole \f*
 \add to avoid sinning, do it!\add* It is good \add that you not sin
 and\add* as a result \add go to heaven, even though while you are still here on
 earth\add* you lack one \add or both of\add* your eyes. But it is not good
 \add that you continue to have two eyes and sin and, as a result,
 God\add* sends your whole body to hell. 
-\v 30 If you are \add tempted to\add* use one of your hands to sin \f + \fr metonymy \f*,
+\v 30 If you are \add tempted to\add* use one of your hands to sin \f + \fk metonymy \f*,
 \add stop using your hand. Even if you have to\add* cut your hand off and throw it
-away\add to avoid sinning, do it\add* \f + \fr hyperbole \f*! It is good \add that you do not sin and as a result you go to heaven, even though
+away\add to avoid sinning, do it\add* \f + \fk hyperbole \f*! It is good \add that you do not sin and as a result you go to heaven, even though
 while you are still here on earth\add* you lack one \add or both\add* of your
 \add hands\add*. But it is not good \add that you sin and, as a result,
 God\add* sends your whole body to hell.” 
@@ -143,14 +143,14 @@ divorced her}, \add God considers\add* him\add guilty of\add* committing adulter
 \s Jesus taught that people should not add anything to make their words more credible when they promise to do something.
 \p
 \v 33 “You have also heard \add your religious teachers say\add* that it was written {that
-\add Moses\add* wrote} to your ancestors, ‘Make sure that you do what you promised the Lord that you would do!’ \f + \fr doublet \f*
+\add Moses\add* wrote} to your ancestors, ‘Make sure that you do what you promised the Lord that you would do!’ \f + \fk doublet \f*
 \v 34 But \add now listen to what\add* I say to you: Never promise to do anything and then ask a superior being to
 affirm\add that what you are saying will happen. For example, do\add* not
 \add promise that you will give something and then ask spiritual beings
-in\add* heaven \f + \fr metonymy \f* \add to affirm that you will do it\add*, because heaven is where God
-\add sits\add* on his throne \f + \fr metonymy \f* \add to rule over people\add*.
+in\add* heaven \f + \fk metonymy \f* \add to affirm that you will do it\add*, because heaven is where God
+\add sits\add* on his throne \f + \fk metonymy \f* \add to rule over people\add*.
 \v 35  \add Also, do\add* not \add promise that you will give something and then ask spiritual
-beings\add* on earth \f + \fr metonymy \f* \add to affirm that you will do it\add*, because the earth is where God rests his feet \f + \fr metaphor \f*.
+beings\add* on earth \f + \fk metonymy \f* \add to affirm that you will do it\add*, because the earth is where God rests his feet \f + \fk metaphor \f*.
 \add Also, do\add* not \add promise that you will do something and ask religious
 authorities\add* in Jerusalem \add to affirm that you will do it\add*, because Jerusalem is the city where
 \add God\add*, the great King \add rules\add*. 
@@ -190,20 +190,20 @@ written\add* {\add that Moses wrote\add*}, ‘Love the citizens of your country 
 \v 44 But \add now listen to what\add* I say to you: Love your enemies
 \add as well as your friends\add*, and pray for those who cause you to suffer.
 \v 45 Do that in order to imitate what\add God\add*, your Father
-\add who is\add* in heaven, does. He desires that you \f + \fr metaphor \f* do \add like he
+\add who is\add* in heaven, does. He desires that you \f + \fk metaphor \f* do \add like he
 does\add*. \add He acts kindly to all people. For example, he causes\add* the sun to shine
 \add equally\add* on wicked \add people\add* and on good \add people\add*, and
 \add he sends\add* rain \add both\add* on righteous \add people\add* and on unrighteous
 \add people\add*. 
 \v 46 If you love \add only\add* the people who love you, ◄\add do not expect God
 to\add* reward you \add in heaven\add*!/will \add God\add* reward you
-\add in heaven\add*?► \f + \fr rhetorical question \f* \add This is based on the fact that everyone\add*, even the tax collectors,
-\add who you think are very great sinners\add*, love \f + \fr rhetorical question \f* those who love them.
+\add in heaven\add*?► \f + \fk rhetorical question \f* \add This is based on the fact that everyone\add*, even the tax collectors,
+\add who you think are very great sinners\add*, love \f + \fk rhetorical question \f* those who love them.
 \add If you act like them\add*, ◄\add you are not any different from tax collectors!/in what way are you different from tax
-collectors\add*?► \f + \fr rhetorical question \f* 
+collectors\add*?► \f + \fk rhetorical question \f* 
 \v 47 If you want \add God\add* to bless only your friends, ◄you are not acting any better than other people!/are you acting
-any better than other people?► \f + \fr rhetorical question \f* Even the non-Jews, \add who you think sin very
-much\add* \f + \fr (OR, \add you think are unacceptable to God\add*) \f*, want God to bless their friends \f + \fr rhetorical question \f*,
+any better than other people?► \f + \fk rhetorical question \f* Even the non-Jews, \add who you think sin very
+much\add* \f + \ft (OR, \add you think are unacceptable to God\add*) \f*, want God to bless their friends \f + \fk rhetorical question \f*,
 \add but God does not reward them for that\add*. 
 \v 48  \add You need to love those who do not love you\add*, and in that way become perfect as
 \add God\add* your Father, \add who is\add* in heaven, is perfect.”

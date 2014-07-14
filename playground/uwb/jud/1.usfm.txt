@@ -1,9 +1,9 @@
 \c 1  
 \p
-\v 1  \add I am\add* Jude. I \add serve\add* Jesus Christ \add like\add* a voluntary slave \f + \fr metaphor \f*. I am a
+\v 1  \add I am\add* Jude. I \add serve\add* Jesus Christ \add like\add* a voluntary slave \f + \fk metaphor \f*. I am a
 \add younger\add* brother of James, \add the leader of all the congregations. I am
 writing\add* to you whom \add God\add* has chosen \add to belong to him. You
-are\add* loved by God \add our\add* Father and protected by Jesus Christ \f + \fr (OR, whom
+are\add* loved by God \add our\add* Father and protected by Jesus Christ \f + \ft (OR, whom
 \add God\add* has protected \add to present\add* to Jesus Christ).
 \v 2  \add I pray that\add* you will continue to \add experience\add* very much
 \add God acting\add* mercifully toward you, \add causing you to have
@@ -23,7 +23,7 @@ right► if we continue to sin. \add Those people show by the way that they cond
 lives\add* that they do not want to admit/accept that Jesus Christ
 \add is\add* our only Master and Lord. \add It was written\add* long ago
 {\add Someone\add* long ago wrote} that \add God\add* would condemn ◄such ungodly people/people like that whose lives are
-displeasing to him►. But some \add of those\add* people have entered \f + \fr metaphor \f*
+displeasing to him►. But some \add of those\add* people have entered \f + \fk metaphor \f*
 \add like crawling snakes\add* into your congregations \add and oppose the truth about Christ, so you must resist/oppose
 them\add*. 
 \s Jude 5-8 
@@ -39,7 +39,7 @@ positions\add*. Instead, they abandoned the place that \add God\add* gave them t
 \add in heaven\add*. So God has put those angels in chains forever in the darkness
 \add in hell. They will stay there\add* until the great day when
 \add God\add* will judge \add and punish\add* them. 
-\v 7 Similarly, the people who lived \f + \fr metonymy \f* in Sodom and Gomorrah
+\v 7 Similarly, the people who lived \f + \fk metonymy \f* in Sodom and Gomorrah
 \add cities\add* and the nearby cities committed sexual immorality. They sought all kinds of sexual relations that differ
 \add from what God permits. So God destroyed their cities. What happened to those people and those
 angels\add* shows that \add God will\add* punish \add people, such as the ones who teach false
@@ -69,27 +69,27 @@ spiritually dead, restless, shameless, and unreliable.
 \v 11  \add God will do\add* terrible things to those who teach false doctrine! They conduct their lives
 \add wickedly\add* like Cain, \add who murdered his brother because he
 was\add* ◄\add jealous/angry because God accepted his brother's sacrifice and did not accept
-his\add*►. They ◄devote themselves to \f + \fr metaphor \f* \add doing\add* wrong things
+his\add*►. They ◄devote themselves to \f + \fk metaphor \f* \add doing\add* wrong things
 \add like\add* Balaam, who \add tried to induce God's people to sin in order to get the money that was offered to
 him\add*. They will perish like Korah, who rebelled \add against the authority that God gave to
 Moses\add*►. 
 \v 12 Those teachers of false doctrine are \add as dangerous to you
-as\add* \f + \fr metaphor \f* ◄hidden rocks on a reef/rocks underneath the surface of the ocean►
+as\add* \f + \fk metaphor \f* ◄hidden rocks on a reef/rocks underneath the surface of the ocean►
 \add are to a boat\add*. When you gather together \add to eat the meals
 that\add* help you believers to love each other more and have a closer relationship with each other, they
 \add join you and\add* carouse shamelessly, caring \add only\add* for themselves
 \add and not for others. Because they do not do anything to help
-others\add* \f + \fr metaphor \f*, they are \add as useless as\add* clouds that are blown along by the wind {that the wind blows along} but
+others\add* \f + \fk metaphor \f*, they are \add as useless as\add* clouds that are blown along by the wind {that the wind blows along} but
 that do not \add produce/give\add* any rain. \add They are as disappointing
-as\add* \f + \fr metaphor \f* trees that do not produce fruit in the autumn \add as we expect them
-to\add*. They are not only \add spiritually\add* \f + \fr metaphor \f* dead themselves,
+as\add* \f + \fk metaphor \f* trees that do not produce fruit in the autumn \add as we expect them
+to\add*. They are not only \add spiritually\add* \f + \fk metaphor \f* dead themselves,
 \add but they are\add* not \add able to cause others to be\add* alive
-\add spiritually, just like\add* \f + \fr metaphor \f* trees that have been {that
+\add spiritually, just like\add* \f + \fk metaphor \f* trees that have been {that
 \add someone\add* has} uprooted and \add as a result\add* are unable to produce any fruit.
-\v 13 They are \add restless\add* \f + \fr metaphor \f*, \add like\add* the pounding waves of the ocean.
+\v 13 They are \add restless\add* \f + \fk metaphor \f*, \add like\add* the pounding waves of the ocean.
 \add Just like\add* waves \add produce foul-smelling\add* foam on the shore,
-\add those teachers of false doctrine do\add* shameful \f + \fr metonymy \f* \add deeds. We cannot depend/rely on them to show us how to
-conduct our lives\add* \f + \fr metaphor \f*, \add just like we cannot depend/rely
+\add those teachers of false doctrine do\add* shameful \f + \fk metonymy \f* \add deeds. We cannot depend/rely on them to show us how to
+conduct our lives\add* \f + \fk metaphor \f*, \add just like we cannot depend/rely
 on\add* ◄meteors/falling stars► \add to show us the way when we travel\add*.
 \add God\add* has reserved intense darkness for them forever \add in
 hell\add*. 
@@ -137,11 +137,11 @@ of false doctrine, and pity those completely convinced by them.
 \v 22 Mercifully \add help\add* those who are not certain \add what teaching they should
 believe\add*. 
 \v 23  \add Rescue\add* others from \add the influence of those who teach what is
-false\add* \f + \fr metaphor \f*, \add as you would rescue things by\add* snatching
+false\add* \f + \fk metaphor \f*, \add as you would rescue things by\add* snatching
 \add them from\add* a fire. Pity those \add whom the teachers of false doctrine have completely
 convinced\add*, but beware that \add you are not influenced by them\add* {that they do not influence you}. Detest
 \add doing or even thinking about the sins that those people commit, just like you would
-detest\add* \f + \fr metaphor \f* touching not only filthy things but the clothes that were stained by those things {that those things
+detest\add* \f + \fk metaphor \f* touching not only filthy things but the clothes that were stained by those things {that those things
 stained}. 
 \s Jude 24-25 
 \s God, who is able to keep you from being condemned for your sin and to present you guiltless before him, was great and ruled

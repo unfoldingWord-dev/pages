@@ -1,7 +1,7 @@
 \c 4  
 \s Moses urged the people to obey God's laws 
 \p
-\v 1 “Now, you Israeli people, obey all the rules and regulations \f + \fr doublet \f* that I will teach you. If you do that, you will remain
+\v 1 “Now, you Israeli people, obey all the rules and regulations \f + \fk doublet \f* that I will teach you. If you do that, you will remain
 alive and you will enter and occupy/capture the land that Yahweh, the God whom your ancestors
 \add worshiped\add*, is giving to you. 
 \v 2 Do not add anything to what I command you, and do not take anything away from what I tell you. Obey all the commands of
@@ -15,14 +15,14 @@ Yahweh our God that I am giving to you.
 them \add when you are living\add* in the land that you are about to enter and occupy.
 \v 6 Obey them faithfully because, \add if you do that\add*, you will show the people of other nations that you are very wise.
 When they hear about all these laws, they will say, ‘The people of this great nation
-\add of Israel\add* are certainly very wise \f + \fr doublet \f*!’ 
-\v 7 Even if other nations are great, there is none \f + \fr rhetorical question \f* of them that has a god who is as near to them as Yahweh our God is to
+\add of Israel\add* are certainly very wise \f + \fk doublet \f*!’ 
+\v 7 Even if other nations are great, there is none \f + \fk rhetorical question \f* of them that has a god who is as near to them as Yahweh our God is to
 us! Whenever we call out to him \add to help us, he answers/helps
 us\add*! 
-\v 8 And there is no \f + \fr rhetorical question \f* other nation, even if it is a great nation, that has laws that are as just/fair as the laws that I
+\v 8 And there is no \f + \fk rhetorical question \f* other nation, even if it is a great nation, that has laws that are as just/fair as the laws that I
 am telling to you today. 
 \p
-\v 9 But be very careful! [DOU, IDI] Do not forget what you \f + \fr synecdoche \f* have seen
+\v 9 But be very careful! [DOU, IDI] Do not forget what you \f + \fk synecdoche \f* have seen
 \add God do\add*. Remember those things as long as you are alive. Tell them to your children and your grandchildren.
 \v 10 Tell them about the day that your ancestors stood in the presence of Yahweh our God at Sinai Mountain, when he said to
 me, ‘Gather the people together, in order that they can hear what I say. I want them to learn to have an awesome respect for me
@@ -56,15 +56,15 @@ though\add* they were in a blazing furnace, in order that they would be people w
 \v 23 Be sure that you do not forget the agreement that Yahweh our God made with you. He commanded you to not make any kind of
 idol, because he has forbidden that. 
 \v 24  \add You must not do that\add* because Yahweh your God will destroy
-\add anyone who worships idols, like\add* \f + \fr metaphor \f* a fire completely destroys things. He
+\add anyone who worships idols, like\add* \f + \fk metaphor \f* a fire completely destroys things. He
 \add wants people to worship only him\add*; he ◄cannot accept/will punish► people who worship anyone or anything else.
 \p
 \v 25 When you have been in the land \add of Canaan\add* for a long time and you have children and grandchildren, do not sin by
 making an idol that represents anything at all, because Yahweh says that is evil, and if you do that, you will cause him to
 become angry with you \add and punish you\add*. 
-\v 26 Today I am requesting everyone who is in heaven and everyone who is on the earth \f + \fr metonymy \f* to watch what you are doing.
+\v 26 Today I am requesting everyone who is in heaven and everyone who is on the earth \f + \fk metonymy \f* to watch what you are doing.
 \add If you disobey what I am telling you\add*, you will soon all die in the land that you will be crossing the Jordan
-\add River\add* to occupy. You will not live very long there; Yahweh will completely get rid of many \f + \fr hyperbole \f* of you.
+\add River\add* to occupy. You will not live very long there; Yahweh will completely get rid of many \f + \fk hyperbole \f* of you.
 \v 27 And \add the rest of you\add*, Yahweh will force you to go and live among the people of many other nations. Only a few of
 you will ◄survive/remain alive► there. 
 \v 28 When you are in those nations, you will worship gods that are made of wood and stone, gods made by humans, gods that
@@ -80,13 +80,13 @@ him\add*, he will not abandon you or destroy you or forget the agreement that he
 \v 32 “Now think about the past, about the time before you were born, about all the time since God first created people here on
 the earth. You could search everywhere, in heaven and on the earth. ◄Has anything like this ever happened that is as great as
 \add what Yahweh did for the Israeli people\add*?/Certainly nothing has ever happened that is as great as
-\add what Yahweh did for the Israeli people\add*.► \f + \fr rhetorical question \f* ◄Has anyone ever heard of anything like this?/Certainly no one has
-ever heard of anything like this.► \f + \fr rhetorical question \f* 
+\add what Yahweh did for the Israeli people\add*.► \f + \fk rhetorical question \f* ◄Has anyone ever heard of anything like this?/Certainly no one has
+ever heard of anything like this.► \f + \fk rhetorical question \f* 
 \v 33 ◄Has any group ever remained alive after they heard a god speak to them from the middle of a fire, like we did?/Certainly
-no group has ever remained alive after they heard a god speak to them from the middle of a fire, like we did.► \f + \fr rhetorical question \f*
+no group has ever remained alive after they heard a god speak to them from the middle of a fire, like we did.► \f + \fk rhetorical question \f*
 \v 34 Certainly no other god has ever tried to take a \add huge\add* group of people from one nation
 \add to another location\add*, like he did for us when he brought us out of Egypt. We saw Yahweh our God use great power [MTY,
-DOU] when he performed many kinds of \f + \fr doublet \f* miracles, and sent plagues, and did many other very terrifying things, and
+DOU] when he performed many kinds of \f + \fk doublet \f* miracles, and sent plagues, and did many other very terrifying things, and
 \add rescued us when the army of Egypt tried to\add* fight against us.
 \p
 \v 35 Yahweh showed all these things to you, in order that you would know that only he is truly God, and that there is no other

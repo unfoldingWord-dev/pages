@@ -2,7 +2,7 @@
 \s A psalm written by David 
 \q
 \v 1 Yahweh is the one who gives light \add to my soul/spirit\add* and the one who saves me,
-\q2 so I do not \f + \fr rhetorical question \f* need to be afraid of anyone. 
+\q2 so I do not \f + \fk rhetorical question \f* need to be afraid of anyone. 
 \q Yahweh is the one to whom I go for refuge, 
 \q2 so I will never be afraid. 
 \q
@@ -10,7 +10,7 @@
 \q2 they stumble and fall down. 
 \q
 \v 3 Even if an army surrounds me, 
-\q2 I \f + \fr synecdoche \f* will not be afraid. 
+\q2 I \f + \fk synecdoche \f* will not be afraid. 
 \q Even if they attack me, 
 \q2 I will trust \add in God\add*. 
 \b

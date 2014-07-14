@@ -2,7 +2,7 @@
 \s Army Commanders 
 \p
 \v 1 This is a list of the Israeli men who served the king in the army. Some were leaders of families, some were commanders of
-100 men, some were commanders of 1,000 men, and some were other officers. There were 24,000 men \f + \fr doublet \f* in each group. Each group
+100 men, some were commanders of 1,000 men, and some were other officers. There were 24,000 men \f + \fk doublet \f* in each group. Each group
 served one month of each year. 
 \b
 \li
@@ -46,7 +46,7 @@ served\add* during the following/fourth month. Asahel's son Zebadiah became the 
 \add town\add*. 
 \s The administrators of the twelve tribes 
 \li
-\v 16 This is a list of the administrators of the \add twelve\add* tribes \f + \fr doublet \f* of Israel:
+\v 16 This is a list of the administrators of the \add twelve\add* tribes \f + \fk doublet \f* of Israel:
 \li Eliezer the son of Zicri was the administrator of the tribe of Reuben.
 \li Shephatiah the son of Maacah was the administrator of the tribe of Simeon.
 \li
@@ -73,7 +73,7 @@ served\add* during the following/fourth month. Asahel's son Zebadiah became the 
 \add many years previously\add* that there would be \add as many
 people\add* in Israel as there are stars in the sky. 
 \v 24 Joab \add and his helpers\add* started to count the men of Israel, but they did not finish counting them
-\add because Joab knew that Yahweh was angry about their being counted\add*. Yahweh punished \f + \fr metonymy \f* the people of Israel because
+\add because Joab knew that Yahweh was angry about their being counted\add*. Yahweh punished \f + \fk metonymy \f* the people of Israel because
 of this counting, and as a result the total number of Israeli men
 \add able to serve in the army\add* was not written on the scroll about King David's
 \add rule\add*. 

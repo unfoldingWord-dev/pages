@@ -5,7 +5,7 @@
 \q2 “We should go to the temple of Yahweh \add in Jerusalem\add*!”
 \q
 \v 2 And now we are here, 
-\q2 standing inside the gates/city of \f + \fr apostrophe \f* Jerusalem. 
+\q2 standing inside the gates/city of \f + \fk apostrophe \f* Jerusalem. 
 \q
 \v 3 Jerusalem is a city that has been rebuilt, 
 \q2 with the result that people can gather together in it. 

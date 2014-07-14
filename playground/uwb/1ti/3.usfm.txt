@@ -1,6 +1,6 @@
 \c 3  
 \p
-\v 1 Anyone who aspires to be an elder \add in the congregation\add* \f + \fr (OR, a bishop) desires a noble/honorable task.
+\v 1 Anyone who aspires to be an elder \add in the congregation\add* \f + \ft (OR, a bishop) desires a noble/honorable task.
 \v 2  \add Since that is a task that others should respect\add*, an overseer must
 \add conduct himself\add* in such a way that \add no one\add* can truly ◄say that he has done
 \add anything that is\add* wrong/find fault with him►. Specifically,
@@ -14,14 +14,14 @@ for much money.
 \v 4 He must lead and care for his own household/family well. For example, he must be a man whom his children obey and
 completely respect, 
 \v 5 because if anyone does not know how he should lead well and care for well the people who live in his own house, ◄he
-certainly cannot care for God's congregation!/how can he care for God's congregation?► \f + \fr rhetorical question \f*
+certainly cannot care for God's congregation!/how can he care for God's congregation?► \f + \fk rhetorical question \f*
 \v 6 He must not be one who has just recently \add trusted in Jesus\add*, because
 \add if you choose a man\add* like that he might become conceited/proud
 \add because you chose him so soon\add*. As a result of his being conceited/proud, God will condemn him like he condemned the
 devil \add because he was conceited/proud\add*. 
 \v 7 Moreover, \add an elder must conduct himself\add* in such a way that non-Christians speak well of him, because
 \add if he conducts himself like\add* that, people will not ◄reproach/say evil things about► him, and the devil will not
-capture/trap him \f + \fr metaphor \f* \add like people capture animals\add* in a trap.
+capture/trap him \f + \fk metaphor \f* \add like people capture animals\add* in a trap.
 \p
 \v 8  \add Those whom you choose to serve as\add* deacons likewise
 \add must be ones who conduct themselves suitably/appropriately.
@@ -44,7 +44,7 @@ alcohol. They must be faithful in everything that they do.
 \v 15 in order that if I ◄am delayed/things prevent me from coming to you soon►, you will know how believers should conduct
 their lives \add and you will be able to teach that to them\add*.
 \add I am talking about\add* all those who are members of God's family, all the congregations that belong to the all-powerful
-God, all those who uphold/support \f + \fr metaphor \f* the true \add message\add*.
+God, all those who uphold/support \f + \fk metaphor \f* the true \add message\add*.
 \v 16 It is certainly true that \add the message that God\add* has now revealed is very wonderful! From it, we learn this
 spiritual truth that we say/sing about \add Christ\add* (OR, We affirm this teaching to be true and very important.) It is what
 shows us how to live ◄in a godly manner/in a manner that pleases God►. It is what God has now revealed, even though it was not

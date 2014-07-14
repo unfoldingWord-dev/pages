@@ -6,8 +6,8 @@
 \v 2 “How long will you \add three\add* torment me 
 \q2 and crush my spirit by saying to me \add that I am wicked\add*?
 \q
-\v 3 You have already insulted me many \f + \fr hyperbole \f* times; 
-\q2 ◄are you not ashamed for saying these things to me?/you should be ashamed for saying these things to me.► \f + \fr rhetorical question \f*
+\v 3 You have already insulted me many \f + \fk hyperbole \f* times; 
+\q2 ◄are you not ashamed for saying these things to me?/you should be ashamed for saying these things to me.► \f + \fk rhetorical question \f*
 \q
 \v 4 Even if it were true that I have done things that are wrong,
 \q2 I have not injured you! 
@@ -23,18 +23,18 @@
 \q2 but no one answers me. 
 \q I call out loudly, but there is no one, \add not even God\add*, who acts fairly toward me.
 \q
-\v 8  \add It is as though\add* \f + \fr metaphor \f* God has blocked my road, 
+\v 8  \add It is as though\add* \f + \fk metaphor \f* God has blocked my road, 
 \q2 with the result that I cannot go through; 
 \q2 \add it is as though\add* he has forced me to try to find the road in the darkness.
 \q
 \v 9 He has ◄taken away my good reputation/caused people not to honor me anymore►;
-\q2 \add it is as though\add* he removed \f + \fr metaphor \f* a crown from my head.
+\q2 \add it is as though\add* he removed \f + \fk metaphor \f* a crown from my head.
 \q
 \v 10 He batters me from every side, and I will soon die. 
 \q2 He has caused me to no longer confidently expect \add him to do good things for
 me\add*. 
 \q
-\v 11 He attacks me because he is extremely angry with me \f + \fr metaphor \f*,
+\v 11 He attacks me because he is extremely angry with me \f + \fk metaphor \f*,
 \q2 and he considers that I am his enemy. 
 \q
 \v 12  \add It is as though\add* he sends his army to attack me;
@@ -68,10 +68,10 @@ me\add*.
 \b
 \q
 \v 21  \add I plead with\add* you, my \add three\add* friends, pity me,
-\q2 because God has ◄struck \f + \fr euphemism \f* me with his hand/caused me to suffer greatly►.
+\q2 because God has ◄struck \f + \fk euphemism \f* me with his hand/caused me to suffer greatly►.
 \q
 \v 22 Why do you cause me to suffer like God does? 
-\q2 Why do you continue to slander \f + \fr metaphor \f* me? 
+\q2 Why do you continue to slander \f + \fk metaphor \f* me? 
 \b
 \q
 \v 23 I wish/desire that someone would take these words of mine 
@@ -96,6 +96,6 @@ them\add*.
 \v 28 If you three men say, ‘What more can we do cause him to suffer?’
 \q2 and if you say, ‘He is the one who has caused his own \add troubles\add*,’
 \q
-\v 29 you should be afraid that God will punish \f + \fr metonymy \f* you; 
+\v 29 you should be afraid that God will punish \f + \fk metonymy \f* you; 
 \q he punishes those \add like you\add* with whom he is angry; 
 \q2 and when that happens, you will know that there is someone who judges people.”

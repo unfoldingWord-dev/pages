@@ -2,14 +2,14 @@
 \s The request of the daughters of Zelophehad 
 \p
 \v 1 One day the five daughters of Zelophehad came \add to Moses/me\add*. They were Mahlah, Noah, Hoglah, Milcah, and Tirzah.
-\v 2 They came to the entrance of the Sacred Tent and stood in front of Eleazar, Moses/me, the tribal leaders, and many \f + \fr euphemism \f*
+\v 2 They came to the entrance of the Sacred Tent and stood in front of Eleazar, Moses/me, the tribal leaders, and many \f + \fk euphemism \f*
 other Israeli people. 
 \v 3 They said, “Our father died \add during the time that we were\add* in the desert, and he did not have any sons. But he was
 not among those who supported Korah, who rebelled against Yahweh. He died just because he was a sinner
 \add like everyone else\add*. 
 \v 4 ◄Why should the name of his clan disappear \add with the result that we do not receive any
 land\add* only because our father had no sons?/It is not right that the name of his clan disappear
-\add with the result that we do not receive any land\add* only because our father had no sons.► \f + \fr rhetorical question \f* So give us some land like
+\add with the result that we do not receive any land\add* only because our father had no sons.► \f + \fk rhetorical question \f* So give us some land like
 our relatives will be getting!” 
 \p
 \v 5 So Moses/I asked Yahweh \add what to do about\add* their request.
@@ -30,7 +30,7 @@ will be a rule for the Israeli people, because I am giving this as a command to 
 \p
 \v 12 One day, Yahweh said to Moses/me, “Climb to the top of the Abarim mountains
 \add east of the Jordan River\add*. Then look out over the land that I am giving to the Israeli people.
-\v 13 After you have seen it, you will die \f + \fr euphemism \f* just like your \add older\add* brother Aaron did.
+\v 13 After you have seen it, you will die \f + \fk euphemism \f* just like your \add older\add* brother Aaron did.
 \v 14 The reason \add that you will die and not enter that land\add* is that you both disobeyed my instructions/commands in the
 Zin Desert. When the Israeli people rebelled against me there at Meribah, near Kadesh,
 \add I told you to speak to the rock to cause\add* water to flow out of it.
@@ -39,7 +39,7 @@ Zin Desert. When the Israeli people rebelled against me there at Meribah, near K
 \v 15 Then Moses/I said this to Yahweh: 
 \v 16 “Yahweh, you are the God who directs the spirits of all people. So please appoint a new leader for the Israeli people.
 \v 17 Appoint someone who will lead your people when they go to fight a battle, so that they will not
-\add just wander around\add* like sheep that do not have a shepherd.” \f + \fr simile \f*
+\add just wander around\add* like sheep that do not have a shepherd.” \f + \fk simile \f*
 \p
 \v 18 Yahweh replied, “Get Joshua, the son of Nun, who has my Spirit within him. Lay your hands on him
 \add to appoint him\add*. 

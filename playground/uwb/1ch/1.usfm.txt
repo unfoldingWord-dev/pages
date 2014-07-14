@@ -11,7 +11,7 @@ was\add* Lamech. \add Lamech's son was\add* Noah.
 \v 4  \add Noah's sons were\add* Shem, Ham, and Japheth. 
 \s2 The descendants of Japheth 
 \li
-\v 5 The sons \f + \fr (OR, descendants) of Japheth were Gomer, Magog, Madai, Javan, Tubal, Meshech, and Tiras.
+\v 5 The sons \f + \ft (OR, descendants) of Japheth were Gomer, Magog, Madai, Javan, Tubal, Meshech, and Tiras.
 \li
 \v 6 The sons (OR, descendants) of Gomer were Ashkenaz, Riphath, and Togarmah.
 \li

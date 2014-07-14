@@ -10,7 +10,7 @@
 \v 3 we would have all been killed [IDI] 
 \q2 because they were very angry with us! 
 \q
-\v 4 They would have been like \f + \fr metaphor \f* a flood that swept/carried us away;
+\v 4 They would have been like \f + \fk metaphor \f* a flood that swept/carried us away;
 \q \add it would have been as though\add* the water would have covered us,
 \q2
 \v 5 and we would all have drowned in the flood that was ◄raging/flowing very fast►.
@@ -18,7 +18,7 @@
 \q
 \v 6 But praise Yahweh 
 \q2 because he has not allowed our \add enemies to destroy us\add*
-\q2 \add like wild animals\add* \f + \fr metaphor \f* tear apart \add the creatures that they
+\q2 \add like wild animals\add* \f + \fk metaphor \f* tear apart \add the creatures that they
 capture\add*. 
 \q
 \v 7 We have escaped \add from our enemies\add* like a bird escapes from the trap that hunters have set;
@@ -26,5 +26,5 @@ capture\add*.
 us\add* was broken 
 \q2 and we have escaped from it! 
 \q
-\v 8 Yahweh is the one who helps us \f + \fr metonymy \f*; 
+\v 8 Yahweh is the one who helps us \f + \fk metonymy \f*; 
 \q2 he is the one who made heaven and the earth. 

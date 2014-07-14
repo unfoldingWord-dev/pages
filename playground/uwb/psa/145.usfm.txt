@@ -2,10 +2,10 @@
 \s A psalm written by David to praise God 
 \q
 \v 1 My God and King, I will proclaim that you are very great/glorious;
-\q I will praise you \f + \fr metonymy \f* now and forever. 
+\q I will praise you \f + \fk metonymy \f* now and forever. 
 \q
 \v 2 Every day I will praise you; 
-\q2 Yes, I will praise you \f + \fr metonymy \f* forever. 
+\q2 Yes, I will praise you \f + \fk metonymy \f* forever. 
 \b
 \q
 \v 3 Yahweh you are great, and ◄you ought to be praised/people should praise you► very much;
@@ -14,7 +14,7 @@
 \v 4 Parents should tell their children the things that you have done;
 \q2 they should tell their children about your mighty deeds. 
 \q
-\v 5 They should tell them that you are very glorious and majestic \f + \fr doublet \f*,
+\v 5 They should tell them that you are very glorious and majestic \f + \fk doublet \f*,
 \q and I will ◄meditate on/think about► all your wonderful deeds.
 \q
 \v 6 People will speak about your powerful and awesome deeds, 
@@ -70,5 +70,5 @@ them\add*,
 \q2 but he will get rid of all the wicked people. 
 \b
 \q
-\v 21 I \f + \fr synecdoche \f* will always praise Yahweh; 
-\q2 I wish/hope that all humans will praise him \f + \fr metonymy \f* forever. 
+\v 21 I \f + \fk synecdoche \f* will always praise Yahweh; 
+\q2 I wish/hope that all humans will praise him \f + \fk metonymy \f* forever. 

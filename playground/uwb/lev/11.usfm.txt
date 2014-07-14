@@ -28,7 +28,7 @@ example\add*, camels chew their cuds but do not have split hooves; so they are u
 \v 18 white owls, desert owls, vultures that eat dead animals, 
 \v 19 storks, any kind of heron, hoopoes, and bats 
 \p
-\v 20 You must detest \add and not eat\add* flying insects that \add sometimes\add* walk on the ground \f + \fr metonymy \f*.
+\v 20 You must detest \add and not eat\add* flying insects that \add sometimes\add* walk on the ground \f + \fk metonymy \f*.
 \v 21 But you are permitted to eat creatures with wings that sometimes walk on the ground if they have jointed legs for hopping
 around. 
 \v 22 They include locusts, crickets, and grasshoppers. 
@@ -68,7 +68,7 @@ people until that evening.
 \v 41-42 All creatures that crawl along the ground, including those that move on their bellies and those that crawl along, are
 detestable, and they must not be eaten. 
 \v 43 Do not ◄defile yourselves/cause yourselves to become unacceptable to me► by
-\add eating\add* any of those creatures \f + \fr doublet \f*. 
+\add eating\add* any of those creatures \f + \fk doublet \f*. 
 \v 44 I am Yahweh your God, and I am holy, so you must avoid eating things that are defiled. Do not cause yourselves to become
 unacceptable to me by eating creatures that crawl along on the ground.
 \v 45 I am Yahweh, their one who \add freed you from being slaves\add* in Egypt, in order to be your God. Therefore, because I

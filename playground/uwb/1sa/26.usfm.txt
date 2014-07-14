@@ -25,7 +25,7 @@ near his head. Saul was asleep in the middle of the camp. Abner and the other so
 \add by thrusting\add* my spear into him. It will be necessary for me to strike him only once. I will not
 \add need to\add* strike him twice.” 
 \p
-\v 9 But David whispered to Abishai, “No, do not kill Saul. Yahweh has appointed him to be king, so Yahweh will surely \f + \fr rhetorical question \f*
+\v 9 But David whispered to Abishai, “No, do not kill Saul. Yahweh has appointed him to be king, so Yahweh will surely \f + \fk rhetorical question \f*
 punish anyone who kills him. 
 \v 10 Just as surely as Yahweh lives, he himself will punish Saul. Perhaps Yahweh will strike him when it is Saul's time to
 die, or perhaps Saul will be killed in a battle. 
@@ -50,15 +50,15 @@ that were close to his head?”
 voice?” 
 \p David replied, “Yes, your majesty it is my voice.” 
 \p
-\v 18 Then David added, “Sir, why are you pursuing me \f + \fr rhetorical question \f*? What wrong have I done \f + \fr rhetorical question \f*?
+\v 18 Then David added, “Sir, why are you pursuing me \f + \fk rhetorical question \f*? What wrong have I done \f + \fk rhetorical question \f*?
 \v 19 Your majesty, listen to me! If Yahweh has caused you to be angry with me, I should offer a sacrifice
 \add in order to appease him\add*. But if it is people who have caused you to be angry with me, I hope/desire that Yahweh will
 curse them. They have forced me to leave the land that Yahweh gave to me. They have told me, ‘Go somewhere else and worship
 other gods!’ 
-\v 20 Now do not force me to die \f + \fr metonymy \f* far from \add where we worship\add* Yahweh. You, the king of Israel, have come here
+\v 20 Now do not force me to die \f + \fk metonymy \f* far from \add where we worship\add* Yahweh. You, the king of Israel, have come here
 searching for me. \add But I am not wanting to harm you\add*! I am
-\add as harmless as\add* a flea \f + \fr metaphor \f*. \add You are searching for me like
-people\add* hunt for a bird in the mountains! \f + \fr metaphor \f*” 
+\add as harmless as\add* a flea \f + \fk metaphor \f*. \add You are searching for me like
+people\add* hunt for a bird in the mountains! \f + \fk metaphor \f*” 
 \p
 \v 21 Then Saul said, “David, my son. I have sinned \add by trying to kill
 you\add*. So come back home. Today you have considered my life to be very valuable
@@ -67,7 +67,7 @@ you\add*. So come back home. Today you have considered my life to be very valuab
 \v 22 David replied, “I \add will leave\add* your spear here. Send one of your young men here to get it.
 \v 23 Yahweh rewards us for the things that we do that are right and for being loyal
 \add to him\add*. Even when Yahweh placed me where I could easily have killed you, I refused to do that, because you are the
-one whom Yahweh has appointed \f + \fr metonymy \f* to be the king. 
+one whom Yahweh has appointed \f + \fk metonymy \f* to be the king. 
 \v 24 Just like I considered your life to be valuable \add and spared your
 life\add* today, I hope/desire that Yahweh will consider my life to be valuable and
 \add spare my life and\add* save me from all my troubles.” 

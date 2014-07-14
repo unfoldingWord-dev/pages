@@ -46,7 +46,7 @@ to do something like that!
 \add meaning of what the king dreamed\add*, in order that we and the other wise men in Babylon would not be executed.
 \v 19 And that night \add God\add* gave to me a vision in which he revealed the secret. Then I praised God,
 \v 20 saying, 
-\q “We should praise God \f + \fr metonymy \f* forever, 
+\q “We should praise God \f + \fk metonymy \f* forever, 
 \q2 because only he truly is wise and powerful. 
 \q
 \v 21 He determines what events will happen through the years. 
@@ -97,7 +97,7 @@ nothing left. But the rock that smashed the statue became a large mountain that 
 \p
 \v 36 That was what you dreamed. Now I will tell you what it means.
 \v 37 You are a king who rules over many other kings. The God who rules in heaven has caused you to rule over them and has
-given you great power \f + \fr doublet \f* and has honored you. 
+given you great power \f + \fk doublet \f* and has honored you. 
 \v 38 He has caused you to be the ruler over all people, and even the animals and birds are controlled by you. So the head
 \add of the statue\add* represents you. 
 \p

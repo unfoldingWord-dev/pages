@@ -28,7 +28,7 @@ name.
 marry her.’ But a wild animal in Lebanon passed by the thornbush and trampled it.
 \v 10  \add The meaning of what I am say is that\add* your army has defeated the army of Edom, so now you have become very
 proud. But you should be content with defeating the people of Edom, and allow your soldiers to stay at home. If you cause
-trouble \add by fighting against\add* us, you will surely \f + \fr rhetorical question \f* cause a disaster to happen to you and to your people.”
+trouble \add by fighting against\add* us, you will surely \f + \fk rhetorical question \f* cause a disaster to happen to you and to your people.”
 \p
 \v 11 But Amaziah refused to heed Jehoash's message. So he marched with his army to fight against the Israeli army at
 Beth-Shemesh \add city\add* in Judah. 
@@ -43,12 +43,12 @@ captured.
 \v 15  \add If you want to know about\add* all the other things that Jehoash did when he was king, including when he
 \add and his army\add* fought against \add the army of\add* King Amaziah of Judah, they are written in the book named 'The
 History of the Kings of Israel.' 
-\v 16 Jehoash died \f + \fr euphemism \f*, and he was buried in Samaria, where the other kings of Israel had been buried. Then his son Jeroboam
+\v 16 Jehoash died \f + \fk euphemism \f*, and he was buried in Samaria, where the other kings of Israel had been buried. Then his son Jeroboam
 \add #2\add* became the king. 
 \p
 \v 17 Amaziah, the king of Judah, lived for fifteen more years after Jehoash, the king of Israel, died.
 \v 18  \add If you want to know more about everything else that Amaziah
-did\add*, it is written \f + \fr rhetorical question \f* in the book named 'The History of the Kings of Judah.'
+did\add*, it is written \f + \fk rhetorical question \f* in the book named 'The History of the Kings of Judah.'
 \p
 \v 19 Some people in Jerusalem plotted against him, so he fled to Lachish
 \add city\add*. But they followed him there and killed him. 
@@ -76,6 +76,6 @@ causing\add* the Israelis to suffer very much. And there was absolutely no one [
 \v 28  \add If you want to know more about\add* everything else that Jeroboam
 \add #2\add* did, about his fighting courageously in battles, and about his
 \add enabling the Israelis to\add* capture again Damascus and Hamath
-\add cities\add*, they are written \f + \fr rhetorical question \f* in the book named 'The Book of he History of the Kings of Israel.'
-\v 29 Jeroboam \add #2\add* died \f + \fr euphemism \f*, and \add was buried where\add* the other kings of Israel were buried, and his son
+\add cities\add*, they are written \f + \fk rhetorical question \f* in the book named 'The Book of he History of the Kings of Israel.'
+\v 29 Jeroboam \add #2\add* died \f + \fk euphemism \f*, and \add was buried where\add* the other kings of Israel were buried, and his son
 Zechariah became the king. 

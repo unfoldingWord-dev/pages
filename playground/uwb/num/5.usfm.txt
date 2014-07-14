@@ -26,7 +26,7 @@ In addition, the one who did the wrong must give a male sheep to the priest
 \p
 \v 11 Yahweh also said this to Moses/me: 
 \v 12 “Tell this to the Israeli people: ‘Suppose a man thinks that his wife has not always slept faithfully only with him.
-\v 13 Suppose he thinks that she has had sex \f + \fr euphemism \f* with another man, but neither he nor anyone else knows if it is true or not,
+\v 13 Suppose he thinks that she has had sex \f + \fk euphemism \f* with another man, but neither he nor anyone else knows if it is true or not,
 because no one saw her doing that. 
 \v 14 But if the woman's husband is jealous, and if he suspects that she has committed adultery, and he wants to know whether
 that is true or not, 
@@ -43,7 +43,7 @@ is offering to determine whether she has committed adultery or not. The priest m
 \add the bowl that contains\add* bitter water that will cause ◄the woman to be cursed/bad things to happen to the woman►
 \add if she is guilty\add*. 
 \v 19 The priest must require her to solemnly declare \add that she will tell the
-truth\add*. He must say to her, “Has another man had sex \f + \fr euphemism \f* with you? Have you faithfully
+truth\add*. He must say to her, “Has another man had sex \f + \fk euphemism \f* with you? Have you faithfully
 \add slept only with your husband\add* or not? If you have not slept with another man, nothing bad will happen to you if you
 drink the water. 
 \v 20 But if you have had sex with another man, \add Yahweh will curse
@@ -59,7 +59,7 @@ is guilty► \add and then wash the ink off into the bitter water\add*.
 \add that she is holding\add*, and lift it up to dedicate it to me. Then he must put it on the altar
 \v 26 and burn part of it as a sacrifice. Then the woman must drink the bitter water.
 \v 27 If the woman has committed adultery instead of faithfully \add sleeping only
-with\add* \f + \fr euphemism \f* her husband, the water will cause her to suffer greatly. Her stomach will swell up and her womb will shrink,
+with\add* \f + \fk euphemism \f* her husband, the water will cause her to suffer greatly. Her stomach will swell up and her womb will shrink,
 \add and she will be unable to give birth to children\add*. And then her ◄relatives/fellow Israelis► will curse her.
 \v 28 But if she ◄is innocent/has not committed adultery►, her body will not be harmed, and she will still be able to give
 birth to children. 
@@ -67,5 +67,5 @@ birth to children.
 \v 29 That is the ritual that must be performed when a woman who is married has sinned by committing adultery,
 \v 30 or when a man is jealous and suspects that his wife \add has had sex with another
 man\add*. The priest must tell that woman to stand \add at the altar\add* in my presence and obey these instructions.
-\v 31 Even if the woman has not done what the husband suspected, he will not be punished \f + \fr metonymy \f* for doing something wrong
+\v 31 Even if the woman has not done what the husband suspected, he will not be punished \f + \fk metonymy \f* for doing something wrong
 \add by bringing his wife to the priest\add*. But if his wife is guilty, she will suffer as a result.’ ”

@@ -24,7 +24,7 @@ Absalom\add*. They fought the battle in the forest \add where people from the tr
 of\add* Ephraim lived. 
 \v 7 David's soldiers defeated Absalom's soldiers. They killed 20,000 of them!
 \v 8 The battle was fought {They fought the battle} all over that area, and the number of men who died because of
-\add dangerous things in\add* the forest \f + \fr personification \f* was greater than the number of men who were killed ◄in the battle/by swords►.
+\add dangerous things in\add* the forest \f + \fk personification \f* was greater than the number of men who were killed ◄in the battle/by swords►.
 \p
 \v 9 During the battle, Absalom suddenly came near \add some of\add* David's soldiers. Absalom was riding on his mule; and when
 the mule went under the thick branches of a large oak tree, Absalom's head/hair was caught in the branches. The mule kept
@@ -32,7 +32,7 @@ going, but Absalom was left dangling in the air.
 \p
 \v 10 One of David's soldiers saw what happened, and went and told Joab, “I saw Absalom hanging in an oak tree!”
 \p
-\v 11 Joab said to the man, “What? You say that you saw him hanging there, so why did you not kill him immediately \f + \fr rhetorical question \f*?
+\v 11 Joab said to the man, “What? You say that you saw him hanging there, so why did you not kill him immediately \f + \fk rhetorical question \f*?
 \add If you had killed him\add*, I would have given you ten pieces of silver and a belt!”
 \p
 \v 12 The man replied to Joab, “Even if you gave me a thousand pieces of silver, I would not have done anything to harm [IDI]

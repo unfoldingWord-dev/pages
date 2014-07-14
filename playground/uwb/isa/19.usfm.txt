@@ -19,14 +19,14 @@
 \q They will plead with idols and sorcerers and those who talk with spirits of dead people
 \q2 to tell them what they should do. 
 \q
-\v 4 Then I will enable someone who will treat them very cruelly to become their king \f + \fr doublet \f*.
+\v 4 Then I will enable someone who will treat them very cruelly to become their king \f + \fk doublet \f*.
 \q That is what I, the Almighty Commander of the armies of angels, say.
 \b
 \q
 \v 5  \add Some day\add* the water in the \add Nile\add* River will dry up,
-\q2 and the riverbed will become very dry \f + \fr doublet \f*. 
+\q2 and the riverbed will become very dry \f + \fk doublet \f*. 
 \q
-\v 6 The branches of the river will all dry up \f + \fr doublet \f*. 
+\v 6 The branches of the river will all dry up \f + \fk doublet \f*. 
 \q The canals along the river will stink 
 \q2 because of the rotting reeds and ◄bulrushes/tall grass►. 
 \q
@@ -47,12 +47,12 @@
 \v 11 The officials in Zoan \add city in northern Egypt\add* are foolish.
 \q2 The advice that they gave to the king was worthless. 
 \q Why do they continue to tell the king that they are wise, 
-\q2 that they are descendants of wise kings who lived long ago \f + \fr rhetorical question \f*?
+\q2 that they are descendants of wise kings who lived long ago \f + \fk rhetorical question \f*?
 \b
 \q
-\v 12 King, ◄where are your wise counselors now?/You have no wise counselors now!► \f + \fr rhetorical question \f*
+\v 12 King, ◄where are your wise counselors now?/You have no wise counselors now!► \f + \fk rhetorical question \f*
 \q2 If you had any wise counselors, they could tell you what the Almighty Commander of the armies of angels has planned to do
-to Egypt \f + \fr sarcasm \f*! 
+to Egypt \f + \fk sarcasm \f*! 
 \q
 \v 13 Yes, the officials of Zoan have become foolish, 
 \q2 and the leaders in Memphis \add city in northern Egypt\add* have deceived themselves.
@@ -61,12 +61,12 @@ to Egypt \f + \fr sarcasm \f*!
 \v 14 Yahweh has caused them to be very foolish, 
 \q2 with the result that in everything that they do, \add it is as
 though\add* the people of Egypt stagger 
-\q2 like \f + \fr simile \f* a drunken person staggers \add and slips\add* in his own vomit.
+\q2 like \f + \fk simile \f* a drunken person staggers \add and slips\add* in his own vomit.
 \q
 \v 15 There is no one in Egypt, rich or poor, important or unimportant,
 \add who will be able to help them\add*. 
 \p
-\v 16 At that time, the people of Egypt will be \add as helpless\add* as \f + \fr simile \f* women. They will tremble, being terrified
+\v 16 At that time, the people of Egypt will be \add as helpless\add* as \f + \fk simile \f* women. They will tremble, being terrified
 \add because they know that\add* the Almighty Commander of the armies of angels has raised his fist,
 \add ready to strike/punish them\add*. 
 \v 17 The people of Egypt will be afraid of the people of Judah, and anyone who mentions Judah to them will cause them to be

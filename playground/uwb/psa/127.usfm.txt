@@ -20,11 +20,11 @@ buy\add* food,
 \v 4 If a man has sons while he is still young, 
 \q \add when they grow up, they will be able to help him defend his
 family\add* 
-\q2 like \f + \fr simile \f* a soldier \add can defend himself if\add* he has \add a bow
+\q2 like \f + \fk simile \f* a soldier \add can defend himself if\add* he has \add a bow
 and\add* arrows in his hand. 
 \q
 \v 5 A man \add who has many sons\add* is very happy, 
-\q2 like \f + \fr metaphor \f* \add a soldier who has many arrows\add* in his quiver is very happy.
+\q2 like \f + \fk metaphor \f* \add a soldier who has many arrows\add* in his quiver is very happy.
 \q If a man \add with his many grown sons is taken\add* by his enemies to the place where they decide matters, his enemies will
 never be able to defeat that man, 
 \q2 \add because his sons will help to defend him\add*. 

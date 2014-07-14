@@ -18,7 +18,7 @@ be\add* for Moses, and one \add will be\add* for Elijah!”
 \v 6  \add He said this\add* because\add he wanted to say something,
 but\add* he did not know what to say, because he and the other \add two
 disciples\add* were very awestruck. 
-\v 7 Then a \add shining\add* cloud appeared that covered them. \add God\add* \f + \fr euphemism \f* spoke to them from the cloud saying, “This
+\v 7 Then a \add shining\add* cloud appeared that covered them. \add God\add* \f + \fk euphemism \f* spoke to them from the cloud saying, “This
 is my Son. He is the one whom I love. \add Therefore\add*, listen to him!”
 \v 8 When \add the three disciples\add* looked around, they saw that suddenly Jesus was alone with them, and that there was no
 longer anyone \add else\add* there. 
@@ -42,7 +42,7 @@ come\add* first\add so that people would be ready when I came\add*. Elijah's rep
 treated him very badly, just like they wanted to do, just like it was prophesied
 {\add the prophets\add* prophesied} long ago. But, ◄I also want you to consider what is written {what
 \add the prophets\add* wrote} in the Scriptures about me, the one who came from heaven./why have you not thought about what is
-written {what \add the prophets\add* wrote} about me, the one who came from heaven?► \f + \fr rhetorical question \f* It is written {They wrote} that I
+written {what \add the prophets\add* wrote} about me, the one who came from heaven?► \f + \fk rhetorical question \f* It is written {They wrote} that I
 would suffer much and that I would be rejected {that \add many people\add* would reject me}.”
 \s MARK 9:14-29 
 \s Jesus expelled an evil spirit and later explained to the disciples why they had failed to do that.
@@ -62,16 +62,16 @@ stiff. I asked your disciples to expel the spirit, but they were not able to do 
 \add although you\add* have observed how I help people, you do not
 believe\add that you are able to do anything\add*!/Why is it that
 \add although you\add* have observed how I help people, you do not
-believe\add that you are able to do anything\add*?► \f + \fr rhetorical question \f* ◄I have been with you a long time,
+believe\add that you are able to do anything\add*?► \f + \fk rhetorical question \f* ◄I have been with you a long time,
 \add and you still cannot do what I do\add*!/How long do I have to be with you
-\add before you can do what I do\add*?► \f + \fr rhetorical question \f* Bring the boy to me!”
+\add before you can do what I do\add*?► \f + \fk rhetorical question \f* Bring the boy to me!”
 \v 20 So they brought the boy to Jesus. As soon as the evil spirit saw Jesus, it shook the boy severely, and
 \add the boy\add* fell on the ground. He rolled around, and he foamed at the mouth.
 \v 21 Jesus asked the boy's father, “How long has he been like this?” He replied,
 “\add This started to happen\add* when he was a child. 
 \v 22  \add The spirit does not only do this\add*, but he also often throws him into the fire or into the water in order to
 kill him. But, pity us and help us, if you can!” 
-\v 23 Jesus exclaimed to him, “\add Do not say\add* \f + \fr rhetorical question \f* ‘If you can’, for
+\v 23 Jesus exclaimed to him, “\add Do not say\add* \f + \fk rhetorical question \f* ‘If you can’, for
 \add God/I\add* can do anything for people who believe \add in him/me\add*!”
 \v 24 Immediately the child's father shouted, “I believe \add that you can help me, but I do not believe
 strongly\add*. Help me to believe more strongly!” 
@@ -94,7 +94,7 @@ understand what he was saying.
 \add district\add*. Jesus did not want anyone \add else\add* to know
 \add that he was in their area\add* 
 \v 31  \add lest they interrupt him\add* as he taught his disciples. He was telling them,
-“\add Some day my enemies\add* \f + \fr synecdoche \f* will seize \f + \fr metonymy \f* me, the one who came from heaven, and I will be put {they will put me}
+“\add Some day my enemies\add* \f + \fk synecdoche \f* will seize \f + \fk metonymy \f* me, the one who came from heaven, and I will be put {they will put me}
 into the hands of \add other\add* men. Those men will kill me. But on the third day after I am killed {after they kill me}, I
 will become alive again!” 
 \v 32 But they did not understand what he was telling them. Also, they were afraid to ask him about what he had said.
@@ -140,16 +140,16 @@ severely\add* than that \add if you cause a person who believes in me to
 sin\add*. 
 \v 43-44  \add So\add*, if you are \add wanting to use one of\add* [MTY, PRS]
 \add your hands to sin, stop using your hand! Even if you have to\add* cut your hand off and throw it away
-\add to avoid sinning, do it\add* \f + \fr hyperbole \f*! It is good that you not sin and that you live eternally,
+\add to avoid sinning, do it\add* \f + \fk hyperbole \f*! It is good that you not sin and that you live eternally,
 \add even though you lack one of\add* your hands\add while you are here on
 earth\add*. But it is not good that you sin and as a result God throws your whole body into hell. There the fires never go out!
-\v 45-46 If you are \add wanting to use\add* one of \f + \fr personification \f* your feet to sin,
+\v 45-46 If you are \add wanting to use\add* one of \f + \fk personification \f* your feet to sin,
 \add stop using your foot! Even if you have to\add* cut off your
-foot\add to avoid sinning, do it\add* \f + \fr hyperbole \f*! It is good that you not sin and live eternally,
+foot\add to avoid sinning, do it\add* \f + \fk hyperbole \f*! It is good that you not sin and live eternally,
 \add even though\add* you lack one of your feet \add while you are here on
 earth\add*. But is not good that you sin and go to hell. 
 \v 47 If because of what you see [MTY, PRS] you are tempted to sin,
-\add stop looking at those things\add*! Even if you have to gouge out your eye and throw it away \f + \fr hyperbole \f*
+\add stop looking at those things\add*! Even if you have to gouge out your eye and throw it away \f + \fk hyperbole \f*
 \add to avoid sinning, do it! It is good that you not sin and live eternally, even though you lack one
 of\add* your eyes\add while you are here on earth\add*. But it is not good that you sin and, as a result, God puts your whole
 body in hell. 
@@ -158,9 +158,9 @@ body in hell.
 \s Jesus taught that we must endure trials to remain useful to God.
 \p
 \v 49 “\add You must endure difficulties in order that God will be pleased with you. Your difficulties are
-like\add* a fire \add that makes things pure\add* \f + \fr metaphor \f*. \add Your enduring is also
-like\add* \f + \fr metaphor \f* salt being put \add on\add* {people putting salt on their}
+like\add* a fire \add that makes things pure\add* \f + \fk metaphor \f*. \add Your enduring is also
+like\add* \f + \fk metaphor \f* salt being put \add on\add* {people putting salt on their}
 \add sacrifices to make them pure\add*. 
-\v 50 Salt is useful \add to put on food\add*, but you cannot \f + \fr rhetorical question \f* make salt to taste salty again if it becomes flavorless
-\f + \fr metaphor \f*. Similarly, you must remain useful to God\add , because no one can make you useful to God again if you become
+\v 50 Salt is useful \add to put on food\add*, but you cannot \f + \fk rhetorical question \f* make salt to taste salty again if it becomes flavorless
+\f + \fk metaphor \f*. Similarly, you must remain useful to God\add , because no one can make you useful to God again if you become
 useless\add*. You must also live peacefully with each other.” 

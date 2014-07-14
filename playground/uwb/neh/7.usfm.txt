@@ -13,7 +13,7 @@ to assign others to guard the area close to their own houses.
 \p
 \v 4 The city of Jerusalem covered a large area, but \add at that
 time\add* not many people lived in the city, and they had not built many new houses yet {not many new houses had been built}
-\f + \fr hyperbole \f*. 
+\f + \fk hyperbole \f*. 
 \v 5  \add To defend the city, we needed more people there\add*. Then God gave me the idea to summon the leaders and officials
 and other people, and to look in the books \add in which were written the
 names\add* of all the people and their clans. So I found the records of the people who had first returned from Babylonia. This
@@ -42,7 +42,7 @@ Baanah.
 \li2
 \v 14 760 men from the clan of Zaccai; 
 \li2
-\v 15 648 men from the clan of Bani \f + \fr (OR, Binnui); 
+\v 15 648 men from the clan of Bani \f + \ft (OR, Binnui); 
 \li2
 \v 16 628 men from the clan of Bebai; 
 \li2

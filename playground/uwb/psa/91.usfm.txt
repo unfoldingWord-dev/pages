@@ -5,7 +5,7 @@
 \q
 \v 2 I will declare to Yahweh, 
 \q2 “You protect me; 
-\q2 \add you are like\add* a fort \f + \fr metaphor \f* in which I am safe. 
+\q2 \add you are like\add* a fort \f + \fk metaphor \f* in which I am safe. 
 \q2 You are my God, the one in whom I trust.” 
 \b
 \q
@@ -13,9 +13,9 @@
 \q2 and save you from deadly diseases. 
 \q
 \v 4 He will shield/protect you \add like a bird shields/protects its
-chicks\add* \f + \fr metaphor \f* with/under her wings. 
+chicks\add* \f + \fk metaphor \f* with/under her wings. 
 \q2 You will be safe ◄in his care/because he takes care of you►.
-\q2 His faithfully doing what he has promised is like a shield \f + \fr metaphor \f* that will protect you.
+\q2 His faithfully doing what he has promised is like a shield \f + \fk metaphor \f* that will protect you.
 \q
 \v 5 You will not be afraid of things that happen during the night that could ◄terrorize you/cause you to be very afraid►,
 \q2 or of arrows that \add your enemies will shoot at you\add* during the day.
@@ -43,7 +43,7 @@ chicks\add* \f + \fr metaphor \f* with/under her wings.
 \v 12 They will hold you up with their hands, 
 \q2 with the result that you will not hurt your foot on a big stone.
 \q
-\v 13 You will be \add kept safe from being harmed by your enemies\add* \f + \fr metaphor \f*;
+\v 13 You will be \add kept safe from being harmed by your enemies\add* \f + \fk metaphor \f*;
 \q2 \add it will be as though\add* you are stepping on lions and poisonous snakes
 \add without them harming you\add*! 
 \b

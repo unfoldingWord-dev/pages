@@ -14,7 +14,7 @@
 \v 4 You highest heavens, praise him! 
 \q2 And you waters that are high above the sky, praise him! 
 \q
-\v 5 I want all of these to praise Yahweh \f + \fr metonymy \f* 
+\v 5 I want all of these to praise Yahweh \f + \fk metonymy \f* 
 \q2 because by commanding \add that they exist\add*, he created them.
 \q
 \v 6 He determined the places where they should be \add in the sky\add*,
@@ -43,7 +43,7 @@
 \q2 you old people and children, \add everyone\add*, praise Yahweh!
 \b
 \q
-\v 13 I want them \add all\add* to praise Yahweh \f + \fr metonymy \f* 
+\v 13 I want them \add all\add* to praise Yahweh \f + \fk metonymy \f* 
 \q2 because he is greater than anyone else. 
 \q2 His power/glory is greater than \add the power/glory of anything
 on\add* the earth or in heaven. 

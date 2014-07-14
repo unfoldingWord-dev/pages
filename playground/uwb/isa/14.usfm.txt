@@ -14,7 +14,7 @@
 \s The king of Babylon will be killed 
 \p
 \v 3 Some day Yahweh will free you \add Israeli people\add* from suffering and trouble and from being afraid, and from being
-cruelly treated as slaves \f + \fr metonymy \f*. 
+cruelly treated as slaves \f + \fk metonymy \f*. 
 \v 4 When that happens, you will make fun of the king of Babylon by saying this:
 \q “You treated us cruelly, but that has ended! 
 \q2 Your insolently causing others to suffer is finished! 
@@ -28,15 +28,15 @@ cruelly treated as slaves \f + \fr metonymy \f*.
 \q2 by causing them to suffer without stopping. 
 \q
 \v 7 But soon everything will be quiet and peaceful on the earth.
-\q2 Everyone \f + \fr personification \f* will sing again! 
+\q2 Everyone \f + \fk personification \f* will sing again! 
 \q
 \v 8  \add It will be as though\add* even the trees in the forests will joyfully sing this song,
 \q2 the cyprus/pine trees and the cedar trees in Lebanon will sing it:
 \q ‘You ◄have been overthrown/are no longer a ruler►, 
-\q2 and now no one comes to get rid of us \f + \fr metaphor \f*.’ 
+\q2 and now no one comes to get rid of us \f + \fk metaphor \f*.’ 
 \b
 \q
-\v 9 The dead people are \f + \fr personification \f* are eagerly waiting for you to come to the place where they are.
+\v 9 The dead people are \f + \fk personification \f* are eagerly waiting for you to come to the place where they are.
 \q The spirits of the world leaders 
 \q2 will be delighted to welcome you; 
 \q those who were kings of many nations \add before they died\add*
@@ -49,12 +49,12 @@ cruelly treated as slaves \f + \fr metonymy \f*.
 \q2 but all that ended when you died, 
 \q2 along with the sounds of harps \add being played in your palace\add*.
 \q Now \add in your grave\add* maggots will be under you \add like a
-sheet\add* \f + \fr metaphor \f*, 
-\q2 and worms will cover you \add like a blanket\add* \f + \fr metaphor \f*. 
+sheet\add* \f + \fk metaphor \f*, 
+\q2 and worms will cover you \add like a blanket\add* \f + \fk metaphor \f*. 
 \q
-\v 12 You have \add disappeared from the earth like\add* \f + \fr metaphor \f* a star which has fallen from the sky;
+\v 12 You have \add disappeared from the earth like\add* \f + \fk metaphor \f* a star which has fallen from the sky;
 \q you \add were very well-known\add* 
-\q2 like \f + \fr metaphor \f* the morning star \add is seen by everyone\add*; 
+\q2 like \f + \fk metaphor \f* the morning star \add is seen by everyone\add*; 
 \q you destroyed many nations, 
 \q2 but now you have been destroyed. 
 \q
@@ -79,7 +79,7 @@ sheet\add* \f + \fr metaphor \f*,
 \v 18 All the kings of the earth \add who have died\add* were greatly honored when they were buried,
 \q
 \v 19 but your corpse will not be buried; 
-\q2 it will be thrown away like \f + \fr simile \f* a worthless branch \add of a
+\q2 it will be thrown away like \f + \fk simile \f* a worthless branch \add of a
 tree\add*. 
 \q Your corpse will be under a heap of other corpses of soldiers that were killed by their enemies' swords,
 \q2 and their corpses were not buried; 
@@ -107,43 +107,43 @@ in\add* the world,
 \v 23 I will cause Babylon to be a place where owls live, 
 \q2 a place full of swamps; 
 \q I will destroy it completely 
-\q2 \add as though\add* \f + \fr metaphor \f* I was sweeping it with a broom. 
+\q2 \add as though\add* \f + \fk metaphor \f* I was sweeping it with a broom. 
 \q That is what I, the Almighty Commander of the armies of angels, say.”
 \s Yahweh will punish Assyria 
 \p
 \v 24 The Almighty Commander of the armies of angels has also solemnly promised this:
 \b
-\q “The things that I have planned will surely happen \f + \fr doublet \f*. 
+\q “The things that I have planned will surely happen \f + \fk doublet \f*. 
 \q
 \v 25  \add When the army of\add* Assyria is in my land \add of Israel\add*,
 \q I will crush them. 
 \q2 \add It will be as though\add* I will trample them on my mountains.
-\q My people will no longer be the slaves \f + \fr metaphor \f* of the people of Assyria;
-\q2 \add It will be as though\add* \f + \fr metaphor \f* I will take away the burdens that are on their shoulders.
+\q My people will no longer be the slaves \f + \fk metaphor \f* of the people of Assyria;
+\q2 \add It will be as though\add* \f + \fk metaphor \f* I will take away the burdens that are on their shoulders.
 \b
 \q
 \v 26 I have a plan for everyone on the earth, 
-\q2 a plan to show my power \f + \fr metonymy \f* to punish all the nations. 
+\q2 a plan to show my power \f + \fk metonymy \f* to punish all the nations. 
 \q
 \v 27 I, the Almighty Commander of the armies of angels, have spoken,
-\q2 and no one can \f + \fr rhetorical question \f* change my mind. 
+\q2 and no one can \f + \fk rhetorical question \f* change my mind. 
 \q When I raise my fist \add to strike Assyria\add*, 
-\q2 no one \f + \fr rhetorical question \f* will be able to stop me \add from doing that\add*.”
+\q2 no one \f + \fk rhetorical question \f* will be able to stop me \add from doing that\add*.”
 \s Yahweh will punish Philistia 
 \p
 \v 28 I received this message \add from Yahweh\add* during the year that King Ahaz died:
 \b
 \q
-\v 29 You people of Philistia, do not rejoice that the enemy army \f + \fr metaphor \f* that attacked you has been defeated
+\v 29 You people of Philistia, do not rejoice that the enemy army \f + \fk metaphor \f* that attacked you has been defeated
 \q2 and that their king is dead. 
-\q He was \add as dangerous as\add* \f + \fr metaphor \f* a snake, 
+\q He was \add as dangerous as\add* \f + \fk metaphor \f* a snake, 
 \q2 but there will be another king, 
 \q who will be more \add dangerous\add* than a cobra; 
-\q2 he will be like \f + \fr metaphor \f* a quick-moving poisonous snake. 
+\q2 he will be like \f + \fk metaphor \f* a quick-moving poisonous snake. 
 \q
 \v 30 Those of my people who are very poor will take care of their flocks of sheep,
 \q2 and the needy people will lie down safely, 
-\q but I will cause you people \add of Philistia\add* who are still alive \f + \fr doublet \f*
+\q but I will cause you people \add of Philistia\add* who are still alive \f + \fk doublet \f*
 \q2 to die from famine. 
 \b
 \q
@@ -151,12 +151,12 @@ in\add* the world,
 \q2 You should be extremely afraid, 
 \q because \add a very powerful army\add* will come from the north
 \add to attack you\add*; 
-\q2 \add their chariots will stir up the dust like\add* \f + \fr metaphor \f* a cloud of smoke.
+\q2 \add their chariots will stir up the dust like\add* \f + \fk metaphor \f* a cloud of smoke.
 \q Each of their soldiers is ready to fight. 
 \q
 \v 32 If messengers \add from Philistia\add* come to us \add Israeli
 people\add*, 
-\q2 this is what we must \f + \fr rhetorical question \f* tell them: 
+\q2 this is what we must \f + \fk rhetorical question \f* tell them: 
 \q “Yahweh has established Jerusalem, \add not Philistia\add*, 
 \q2 and his people who are oppressed will be safe inside \add the walls
 of\add* Jerusalem.” 

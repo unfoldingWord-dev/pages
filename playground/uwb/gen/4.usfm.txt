@@ -10,12 +10,12 @@ another son, and she named him Abel.
 \v 4 and Abel took from his flock some of the first lambs that had been born and killed them and, as a gift, gave to Yahweh the
 fatty parts, which were the best parts. Yahweh was pleased with Abel and his offering,
 \v 5 but he was not pleased with Cain and his offering. So Cain became very angry, and his face looked dejected.
-\v 6 Yahweh said to Cain, “◄You should not be angry!/Why are you angry?► \f + \fr rhetorical question \f* ◄You should not scowl like that!/Why do you
-scowl like that?► \f + \fr rhetorical question \f* 
-\v 7 If you had done what was right \f + \fr (OR, if you do what is right) \f* \f + \fr rhetorical question \f*, I would accept your offering. But if you do not do
-what is right, \add your desire to\add* sin is \add ready to attack you \f + \fr personification \f* like a wild animal
+\v 6 Yahweh said to Cain, “◄You should not be angry!/Why are you angry?► \f + \fk rhetorical question \f* ◄You should not scowl like that!/Why do you
+scowl like that?► \f + \fk rhetorical question \f* 
+\v 7 If you had done what was right \f + \ft (OR, if you do what is right) \f* \f + \fk rhetorical question \f*, I would accept your offering. But if you do not do
+what is right, \add your desire to\add* sin is \add ready to attack you \f + \fk personification \f* like a wild animal
 that\add* crouches outside the doorway, \add ready to spring on its
-victim\add* \f + \fr metaphor \f*. \add Your desire to\add* sin wants to control you, but you must ◄control/not obey► it.”
+victim\add* \f + \fk metaphor \f*. \add Your desire to\add* sin wants to control you, but you must ◄control/not obey► it.”
 \p
 \v 8 But one day, Cain said to his younger brother Abel, “Let's go to the fields
 \add to hunt for some animals.” So they went together\add*. And when they were in the countryside, suddenly Cain attacked Abel
@@ -23,12 +23,12 @@ and killed him.
 \v 9  \add Then, even though\add* Yahweh \add knew what Cain had
 done\add*, he said to Cain, “\add Do you know\add* where Abel, your younger brother, is?”
 \p Cain replied, “No, I do not know. ◄My job is not to guard my younger brother!/Am I supposed to take care of my younger
-brother?►” \f + \fr rhetorical question \f* 
-\v 10 Yahweh said, “You have done a terrible deed \f + \fr rhetorical question \f*! So now \add it is as
+brother?►” \f + \fk rhetorical question \f* 
+\v 10 Yahweh said, “You have done a terrible deed \f + \fk rhetorical question \f*! So now \add it is as
 though\add* your younger brother's voice is crying to me from the ground, demanding that this must be avenged.
 \v 11 You have killed your younger brother, and it is as though the ground has soaked up your younger brother's blood. So now I
 will expel you from this land and curse your efforts to produce crops.
-\v 12 You will till the ground to plant crops, but the ground will produce very few \f + \fr hyperbole \f* crops. And you will continually
+\v 12 You will till the ground to plant crops, but the ground will produce very few \f + \fk hyperbole \f* crops. And you will continually
 wander around the earth, and not have any place to live permanently.”
 \v 13 Cain replied to Yahweh, “You are punishing me more then I can endure.
 \v 14 You are about to expel me from the ground that I \add have been
@@ -61,7 +61,7 @@ struck me and wounded me, so I killed him.
 if anyone tries to kill me, I will punish him seventy-seven times as much.”
 \s Adam and Eve had another son, Seth 
 \p
-\v 25 Adam continued to ◄have sex/sleep► with \f + \fr euphemism \f* his wife, and she
+\v 25 Adam continued to ◄have sex/sleep► with \f + \fk euphemism \f* his wife, and she
 \add became pregnant and\add* gave birth to another son, whom she named Seth,
 \add which sounds like the Hebrew word that means 'given'\add*, because, she said, “God has given me another child to take the
 place of Abel, since Cain killed him.” 

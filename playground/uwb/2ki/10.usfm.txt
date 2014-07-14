@@ -11,7 +11,7 @@ walls around them. So as soon as you receive this letter,
 \add prepare to\add* fight to defend him.” 
 \p
 \v 4 But \add when they got those letters and read them\add*, they became very afraid. They said, “King Joram and King Ahaziah
-could not resist him; ◄how can we resist him?/we cannot possibly resist him!►” \f + \fr rhetorical question \f*
+could not resist him; ◄how can we resist him?/we cannot possibly resist him!►” \f + \fk rhetorical question \f*
 \p
 \v 5 So the officer who was in charge of the palace and the mayor of the city sent a message to Jehu saying, “We want to serve
 you, and we are ready to do whatever you tell us to do. We will not appoint anyone to become our king. You do whatever you
@@ -29,7 +29,7 @@ heads should be put in two piles at the city gate and that the heads should stay
 \p
 \v 9 The next morning he went out \add to the city gate\add* and said to all the people, “I am the one who plotted against King
 Joram and killed him. You are not guilty of doing that. But \add it was Yahweh, not
-I\add* \f + \fr rhetorical question \f* \add who commanded that\add* all these \add descendants of
+I\add* \f + \fk rhetorical question \f* \add who commanded that\add* all these \add descendants of
 Ahab\add* should be killed. 
 \v 10 So you need to know that everything that Yahweh said would happen has happened. He has caused to happen what he told the
 prophet Elijah would happen.” 
@@ -99,8 +99,8 @@ Jeroboam had committed, sins that induced the Israeli people to sin.
 \add town\add* on the Arnon \add River\add*. That included the Gilead and Bashan
 \add regions\add*, where the tribes of Gad, Reuben, and half of the tribe of Manasseh lived.
 \p
-\v 34  \add If you want to read more\add* about all the other things that Jehu did \f + \fr rhetorical question \f*, they are written in the book named
+\v 34  \add If you want to read more\add* about all the other things that Jehu did \f + \fk rhetorical question \f*, they are written in the book named
 'The Book of the History of the Kings of Israel.' 
 \p
-\v 35 Jehu died \f + \fr euphemism \f*, and was buried in Samaria. His son Jehoahaz became the king in place of his father.
+\v 35 Jehu died \f + \fk euphemism \f*, and was buried in Samaria. His son Jehoahaz became the king in place of his father.
 \v 36 Jehu had ruled in Samaria as the king of Israel for twenty-eight years.

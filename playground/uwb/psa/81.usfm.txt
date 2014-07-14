@@ -18,7 +18,7 @@ enemies\add*;
 \q2
 \v 5 He gave it to the Israeli people when he punished the people of Egypt land.
 \b
-\q I heard someone \f + \fr metonymy \f* whose voice I did not recognize, saying,
+\q I heard someone \f + \fk metonymy \f* whose voice I did not recognize, saying,
 \q
 \v 6 “\add After the rulers of Egypt forced you Israelis to work as
 slaves\add*, 
@@ -42,10 +42,10 @@ you\add*!
 \v 10 I am Yahweh, your God; 
 \q2 It was \add not any of those gods\add* who brought you out of Egypt,
 \q I am the one who did it! 
-\q2 So request what you want me to do for you \f + \fr metonymy \f*, and I will do it.
+\q2 So request what you want me to do for you \f + \fk metonymy \f*, and I will do it.
 \b
 \q
-\v 11 But my people would not listen to me \f + \fr synecdoche \f*; 
+\v 11 But my people would not listen to me \f + \fk synecdoche \f*; 
 \q2 they would not obey me. 
 \q
 \v 12 So because they were very stubborn, 
@@ -56,10 +56,10 @@ you\add*!
 \q that the Israeli people would behave as I want them to do. 
 \q
 \v 14  \add If they did that\add*, I would quickly defeat their enemies;
-\q2 I would strike/punish all of them \f + \fr doublet \f*. 
+\q2 I would strike/punish all of them \f + \fk doublet \f*. 
 \q
 \v 15 Then all those who hate me would ◄cringe before/bow down to► me,
-\q2 and then I would punish them \f + \fr metonymy \f* forever. 
+\q2 and then I would punish them \f + \fk metonymy \f* forever. 
 \q
 \v 16 But I would give you \add Israelis\add* very good wheat/grain,
 \q2 and I would fill your stomachs with wild honey.” 

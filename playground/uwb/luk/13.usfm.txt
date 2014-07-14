@@ -4,7 +4,7 @@
 \p
 \v 1 Some people who were \add listening to Jesus\add* at that time told him about some people from Galilee
 \add district who had gone to Jerusalem\add*. Pilate, \add the Roman
-governor\add*, had \add ordered soldiers to\add* kill them \f + \fr metonymy \f* while they were offering sacrifices
+governor\add*, had \add ordered soldiers to\add* kill them \f + \fk metonymy \f* while they were offering sacrifices
 \add in the Temple there\add*. 
 \v 2 Jesus replied to them, “Do you think \add that this happened to
 those\add* people from Galilee \add because\add* they were more sinful than all the other people from Galilee?
@@ -25,7 +25,7 @@ year\add /Many times\add*► he came to it looking for figs, but there were no f
 \v 7 Then he said to the gardener, ‘Look \add here\add*! I have been looking for fruit on this fig tree every year for the past
 three years, but there have been no figs. Cut it down! ◄It is just using up the nutrients in the soil for nothing!/Why should
 it continue using up the \add nutrients in\add* the soil \add for
-nothing\add*?► \f + \fr rhetorical question \f*’ 
+nothing\add*?► \f + \fk rhetorical question \f*’ 
 \v 8 But the man replied to the owner, ‘Sir, leave it here for another year. I will dig around it and put manure around it.
 \v 9 If it bears fruit next year, we\add (inc)\add* will allow it to keep growing. If it does not bear fruit next year,
 you\add (sg)\add* can cut it down.’” 
@@ -33,7 +33,7 @@ you\add (sg)\add* can cut it down.’”
 \s Jesus told a synagogue leader that he was being hypocritical regarding working on the Sabbath.
 \p
 \v 10 One ◄Sabbath/Jewish day of rest►, \add Jesus\add* was teaching people in one of the Jewish meeting places.
-\v 11 There was a woman there whom an evil spirit \f + \fr metonymy \f* had crippled for eighteen years. She was always bent over; she could
+\v 11 There was a woman there whom an evil spirit \f + \fk metonymy \f* had crippled for eighteen years. She was always bent over; she could
 not stand up straight. 
 \v 12 When Jesus saw her, he called her over to him. He said to her, “Woman,
 \add I am\add* freeing you\add (sg)\add* from your illness!” 
@@ -47,26 +47,26 @@ place\add*► and be healed. Do not come on our Jewish day of rest!”
 are\add* hypocrites! ◄On the Sabbath/On the our Jewish day of rest►,
 \add just like on every other day\add*, ◄each of you unties his ox or donkey, and then leads it from the food trough to where
 it can drink water./does not each of you untie his ox or donkey, and then lead it from the food trough to where it can drink
-water?► \f + \fr rhetorical question \f* \add That is work, too!\add* 
+water?► \f + \fk rhetorical question \f* \add That is work, too!\add* 
 \v 16 This woman \add is more important than an animal; she is a
-Jew\add*, descended from Abraham! But Satan has \add kept her\add* \f + \fr metaphor \f*
+Jew\add*, descended from Abraham! But Satan has \add kept her\add* \f + \fk metaphor \f*
 \add crippled\add* for eighteen years, \add as though\add* he had tied her
 \add and not let her escape!\add* So ◄it is certainly right that she be freed {that
 \add I\add* free her}, \add even if this\add* is a Sabbath day!/was it not right that she be freed {that
-\add I\add* free her}, \add even if this\add* is a Jewish rest day?► \f + \fr rhetorical question \f*”
+\add I\add* free her}, \add even if this\add* is a Jewish rest day?► \f + \fk rhetorical question \f*”
 \v 17 After he said that, all the people \add there\add* who opposed him were ashamed. But all the
 \add other\add* people \add there\add* were happy about all the wonderful things he was doing.
 \s Luke 13:18-21 (Mt. 13:31-33; Mk. 4:30-32) 
 \s Jesus gave two illustrations about God's rule over people's lives.
 \p
 \v 18 Then he said, “◄I will tell you how \add the number of people who
-let\add* God rule \f + \fr metaphor \f* \add their lives will increase\add*./Do you know how
-\add the number of people who let\add* God rule \f + \fr metaphor \f* \add their lives will
-increase\add*?► \f + \fr rhetorical question \f* I will tell you what I can compare it to. 
+let\add* God rule \f + \fk metaphor \f* \add their lives will increase\add*./Do you know how
+\add the number of people who let\add* God rule \f + \fk metaphor \f* \add their lives will
+increase\add*?► \f + \fk rhetorical question \f* I will tell you what I can compare it to. 
 \v 19 It is like a \add tiny\add* mustard seed that a man planted in his field. It grew until it became
 \add big, like\add* a tree. It was \add so big that\add* birds built nests in its branches.”
 \p
-\v 20 Then he said, “I will tell \f + \fr rhetorical question \f* you something else, to illustrate how the people who let God rule \f + \fr metaphor \f*
+\v 20 Then he said, “I will tell \f + \fk rhetorical question \f* you something else, to illustrate how the people who let God rule \f + \fk metaphor \f*
 \add their lives can influence their society more and more\add*.
 \v 21 It is like \add a little bit of\add* yeast that a woman mixed with about fifty pounds of flour.
 \add That small amount of yeast made\add* the whole batch of dough swell up.”
@@ -77,14 +77,14 @@ increase\add*?► \f + \fr rhetorical question \f* I will tell you what I can co
 to Jerusalem. As they went, he was teaching \add the people\add*.
 \v 23 Someone asked him, “Lord, will there be only a few people who are saved {whom
 \add God\add* saves}?” He replied to them, “\add There will not be many,
-because\add* the way \add to heaven\add* \f + \fr metaphor \f* is \add like\add* a narrow door.
+because\add* the way \add to heaven\add* \f + \fk metaphor \f* is \add like\add* a narrow door.
 \v 24  \add Therefore, try hard\add* to enter that narrow doorway, because I tell you that many people will try to enter
 \add heaven by some other way\add*, but they will not be able to get in.
 \v 25  \add God is like\add* the owner of a house. \add Some day\add* he will lock the door. Then
 \add some of\add* you will begin to stand outside the door and knock. You will say, ‘Lord, open the door for us!’ But he will
 reply, ‘\add No, I will not open it, because\add* I do not know you, and I do not know where you are from!’
 \v 26 Then you will say, ‘◄\add You must have forgotten that/Surely you know us,
-because\add*► \f + \fr rhetorical question \f* we\add (exc)\add* ate \add meals\add* with you\add (sg)\add*, and you taught
+because\add*► \f + \fk rhetorical question \f* we\add (exc)\add* ate \add meals\add* with you\add (sg)\add*, and you taught
 \add people\add* in the streets of our \add towns!\add*’ 
 \v 27 But he will say, ‘\add I tell you again\add*, I do not know you, and I do not know where you are from. You
 \add are\add* wicked people! Get away from here!’” 
@@ -105,7 +105,7 @@ in ◄that place where God is ruling/God's kingdom►.
 \p
 \v 31 At that very time, some Pharisees came and said to Jesus, “Leave this area, because
 \add the ruler\add* Herod \add Antipas\add* wants to kill you\add (sg)\add*!”
-\v 32 He replied to them, “Herod is \f + \fr metaphor \f* \add as cruel as\add* a fox,
+\v 32 He replied to them, “Herod is \f + \fk metaphor \f* \add as cruel as\add* a fox,
 \add but also as insignificant as a fox\add*. \add So I do not worry about
 him\add*. But \add to show him that no one can harm me until it is the time and place God has
 determined\add*, go tell him this \add message from me\add*: ‘Listen! I am expelling demons and performing miracles today, and
@@ -114,12 +114,12 @@ determined\add*, go tell him this \add message from me\add*: ‘Listen! I am exp
 \add they killed many other\add* prophets there, and \add since I am also a
 prophet\add*, no other place is appropriate for people to kill \add me\add*.’”
 \p
-\v 34  \add Then Jesus said\add*, “O \add people of\add* \f + \fr metonymy \f* Jerusalem \f + \fr apostrophe \f*! You killed the prophets
+\v 34  \add Then Jesus said\add*, “O \add people of\add* \f + \fk metonymy \f* Jerusalem \f + \fk apostrophe \f*! You killed the prophets
 \add who lived long ago, and you killed others\add*, whom \add God\add* sent to you,
 \add by throwing\add* stones \add at them\add*. Many times I wanted to gather you together
-\add to protect you\add* \f + \fr simile \f* like a hen gathers her young chicks under her wings. But you did not want
+\add to protect you\add* \f + \fk simile \f* like a hen gathers her young chicks under her wings. But you did not want
 \add me to do that\add*. 
-\v 35 So listen to this: Your city \f + \fr metonymy \f* \f + \fr (OR, your temple) is going to be abandoned (OR, God will no longer protect it) \f*. I will
-\f + \fr metonymy \f* also tell you this: I \add will enter your city only once more. After
+\v 35 So listen to this: Your city \f + \fk metonymy \f* \f + \ft (OR, your temple) is going to be abandoned (OR, God will no longer protect it) \f*. I will
+\f + \fk metonymy \f* also tell you this: I \add will enter your city only once more. After
 that\add*, you will not see me until the time when \add I return
-and\add* you say \add about me\add*, ‘God is truly pleased with this man who comes with God's authority \f + \fr metonymy \f*!’”
+and\add* you say \add about me\add*, ‘God is truly pleased with this man who comes with God's authority \f + \fk metonymy \f*!’”

@@ -3,7 +3,7 @@
 \s Jonah refused to do what Yahweh told him to do 
 \p
 \v 1  \add One day\add* Yahweh said to \add the prophet\add* Jonah, the son of Amittai,
-\v 2 “I have \add seen\add* how wicked \add the people of\add* \f + \fr metonymy \f* the great city/Nineveh are. Therefore go there and warn
+\v 2 “I have \add seen\add* how wicked \add the people of\add* \f + \fk metonymy \f* the great city/Nineveh are. Therefore go there and warn
 the people that \add I am planning to\add* destroy their city \add because of their
 sins\add*.” 
 \v 3 But \add instead of going to Nineveh\add*, Jonah \add went in the
@@ -22,7 +22,7 @@ do\add*. \add He got on the ship\add*, and \add then went down\add* to a lower d
 \v 6 Then the captain went \add down\add* to where Jonah was sleeping soundly.
 \add He awoke him\add* and said \add to him\add*, “◄How can you sleep
 \add during a storm like this\add*?/You should not be sleeping \add during a storm like
-this\add*!► \f + \fr rhetorical question \f* Get up and pray to your god! Perhaps he will pity us and save us, in order that we will not drown!”
+this\add*!► \f + \fk rhetorical question \f* Get up and pray to your god! Perhaps he will pity us and save us, in order that we will not drown!”
 \add But Jonah refused to do that\add*. 
 \p
 \v 7 Then the sailors said to each other, “We need to ◄cast lots/shake from a container small objects that we have all marked►,

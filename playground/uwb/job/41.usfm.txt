@@ -33,22 +33,22 @@ them\add*?
 \q
 \v 10 No one dares/tries to ◄arouse them/cause them to be angry►.
 \q2 So, \add since I am much more powerful than they are\add*, ◄who would dare to cause me to be angry?/no one would dare to
-cause me to be angry!► \f + \fr rhetorical question \f* 
+cause me to be angry!► \f + \fk rhetorical question \f* 
 \q
 \v 11 Also, everything on the earth is mine. 
-\q2 Therefore, no one \f + \fr rhetorical question \f* is able to give anything to me and require me to pay money for it!
+\q2 Therefore, no one \f + \fk rhetorical question \f* is able to give anything to me and require me to pay money for it!
 \b
 \q
 \v 12 I will tell you about \add how strong ◄crocodiles'/great sea
 dragons'►\add* legs are 
 \q2 and how strong their well-formed bodies are. 
 \q
-\v 13 ◄Can anyone strip off their hides?/No one is able to strip off their hides.► \f + \fr rhetorical question \f*
-\q2 ◄Can anyone try to put bridles on them?/No one can try to put bridles on them.► \f + \fr rhetorical question \f* \f + \fr (OR, Can anyone pierce their very
+\v 13 ◄Can anyone strip off their hides?/No one is able to strip off their hides.► \f + \fk rhetorical question \f*
+\q2 ◄Can anyone try to put bridles on them?/No one can try to put bridles on them.► \f + \fk rhetorical question \f* \f + \ft (OR, Can anyone pierce their very
 thick hides?) 
 \q
 \v 14 ◄Can anyone pry open their jaws, which have terrible teeth in them?/No one can pry open their jaws, which have terrible
-teeth in them!► \f + \fr rhetorical question \f* 
+teeth in them!► \f + \fk rhetorical question \f* 
 \q
 \v 15 They have rows of scales on their back 
 \q2 which are as hard as a rock (OR, tightly fastened together) \f*.
@@ -63,7 +63,7 @@ teeth in them!► \f + \fr rhetorical question \f*
 noses\add* sparkle in the sunlight. 
 \q2 Their eyes are red like the rising sun. 
 \q
-\v 19  \add It is as though\add* sparks of fire pour out of their mouths \f + \fr doublet \f*.
+\v 19  \add It is as though\add* sparks of fire pour out of their mouths \f + \fk doublet \f*.
 \q
 \v 20 Smoke pours out of their nostrils/noses 
 \q2 like steam comes out of a pot that is put over a fire made from dry reeds.
@@ -84,7 +84,7 @@ noses\add* sparkle in the sunlight.
 \v 25 When they rise up, they cause \add even\add* very strong people to be terrified.
 \q2 As a result, people ◄fall back/run away► when ◄crocodiles/great sea dragons► thrash around.
 \q
-\v 26 People \f + \fr personification \f* cannot injure them with swords, 
+\v 26 People \f + \fk personification \f* cannot injure them with swords, 
 \q2 and spears or darts or javelins cannot injure them, either. 
 \q
 \v 27 They \add certainly are not afraid of weapons made of\add* straw or rotten wood,

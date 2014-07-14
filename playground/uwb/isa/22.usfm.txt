@@ -71,7 +71,7 @@ the palace, and give this message to him:
 \q2 Who gave you the authority to build a beautiful tomb where you will be buried,
 \q2 chiseling it out of the rocky cliff high above this valley? 
 \q
-\v 17 You \add think that you are\add* \f + \fr irony \f* a great man, but Yahweh is about to hurl you away.
+\v 17 You \add think that you are\add* \f + \fk irony \f* a great man, but Yahweh is about to hurl you away.
 \q2 \add It will be as though\add* he will seize you, 
 \q
 \v 18 and roll/crumple you into a ball 
@@ -88,16 +88,16 @@ king\add*, will be very ashamed/disgraced.
 \v 20 Then I will summon Hilkiah's son Eliakim, who has served serve me
 \add well\add*, to replace you. 
 \v 21 I will allow him to wear your robe, and to fasten your sash around him, and I will give to him the authority that you
-had. He will be like \f + \fr metaphor \f* a father to the people of Jerusalem and all the other towns in Judah.
-\v 22 I will give to him authority \f + \fr metonymy \f* over \add what happens in\add* the palace where King David
-\add lived\add*; when he decides something \f + \fr metaphor \f*, no one will be able to oppose it; when he refuses to do something, no one
+had. He will be like \f + \fk metaphor \f* a father to the people of Jerusalem and all the other towns in Judah.
+\v 22 I will give to him authority \f + \fk metonymy \f* over \add what happens in\add* the palace where King David
+\add lived\add*; when he decides something \f + \fk metaphor \f*, no one will be able to oppose it; when he refuses to do something, no one
 will be able to force him to do it. 
 \v 23 I will cause his family to be greatly respected, because I will put him firmly in his position
-\add as supervisor of the workers in the palace\add*, like \f + \fr simile \f* a nail that is firmly hammered into a wall.
+\add as supervisor of the workers in the palace\add*, like \f + \fk simile \f* a nail that is firmly hammered into a wall.
 \v 24 Others will enable him to have much responsibility, with the result that all the members of his family, even the most
 insignificant ones, will be honored.” 
 \p
 \v 25 But the Almighty Commander of the armies of angels also says,
-“\add Shebna is like\add* \f + \fr metaphor \f* a peg that is firmly fastened to the wall. But there will be a time when I will
-\add remove him from his position\add*; he will lose his power/influence, and everything that he promoted \f + \fr metaphor \f* will fail.
+“\add Shebna is like\add* \f + \fk metaphor \f* a peg that is firmly fastened to the wall. But there will be a time when I will
+\add remove him from his position\add*; he will lose his power/influence, and everything that he promoted \f + \fk metaphor \f* will fail.
 \add That will surely happen because\add* I, Yahweh, have said it.”

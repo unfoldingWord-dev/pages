@@ -15,7 +15,7 @@ I very earnestly desire that this holy temple for my God be built.
 \v 4 I am giving 110 tons of gold from Ophir and 260 tons of refined silver to cover the walls of the buildings,
 \v 5 for making the other items of gold and silver, and for the other work to be done by the craftsmen. So now,
 \add I ask you\add*, who is willing to show \add by contributing other gifts for the building of the
-temple\add* \f + \fr euphemism \f* that he has dedicated himself to Yahweh?” 
+temple\add* \f + \fk euphemism \f* that he has dedicated himself to Yahweh?” 
 \p
 \v 6 Then the leaders of the families/clans, the leaders of the tribes of Israel, the commanders of 1,000 soldiers and the
 commanders of 100 soldiers, and the officials who supervised the work that the king wanted done, gave gifts ◄willingly/because
@@ -39,24 +39,24 @@ those things to Yahweh. And King David also was very happy.
 \q You are the king of all the people in this world; 
 \q2 you are the ruler of everything. 
 \q
-\v 12 Because you are very powerful \f + \fr doublet \f* 
+\v 12 Because you are very powerful \f + \fk doublet \f* 
 \q2 you are able to cause anyone to be great and be strong. 
 \q
 \v 13 So now, our God, we thank you, 
-\q2 and we praise you \f + \fr metonymy \f* for being very great. 
+\q2 and we praise you \f + \fk metonymy \f* for being very great. 
 \p
 \v 14 But I and my people are not really able to give anything to you,
 \q2 because everything \add that we have\add* comes from you, 
-\q2 and what we have given to you are only the things that we have received from you \f + \fr metonymy \f*.
+\q2 and what we have given to you are only the things that we have received from you \f + \fk metonymy \f*.
 \q
-\v 15 We are like \f + \fr metaphor \f* foreigners and strangers to you, like our ancestors were.
-\q2 Our years/time here on this earth are like \f + \fr simile \f* a shadow \add that disappears
+\v 15 We are like \f + \fk metaphor \f* foreigners and strangers to you, like our ancestors were.
+\q2 Our years/time here on this earth are like \f + \fk simile \f* a shadow \add that disappears
 quickly\add*; 
 \q2 \add we know that there is\add* nothing that can enable us \add to escape
 dying\add*. 
 \q
-\v 16 Yahweh our God, we have gathered all these things to use in building your \f + \fr metonymy \f* temple,
-\q2 but all of it really belongs to you, and you have given it to us \f + \fr metonymy \f*.
+\v 16 Yahweh our God, we have gathered all these things to use in building your \f + \fk metonymy \f* temple,
+\q2 but all of it really belongs to you, and you have given it to us \f + \fk metonymy \f*.
 \q
 \v 17 My God, I know that you test us people, 
 \q2 and you are pleased if you find out that we do what is right.
@@ -68,7 +68,7 @@ dying\add*.
 this\add* forever, 
 \q2 and that they will always be loyal to you. 
 \q
-\v 19 And now, please enable my son Solomon to faithfully and sincerely \f + \fr doublet \f* obey your commands and laws and decrees \f + \fr doublet \f*
+\v 19 And now, please enable my son Solomon to faithfully and sincerely \f + \fk doublet \f* obey your commands and laws and decrees \f + \fk doublet \f*
 \q2 and to do everything that is needed to build this beautiful building
 \q2 for which I have provided \add all these things\add*.” 
 \p
@@ -99,5 +99,5 @@ son Solomon became the king \add of Israel\add*.
 \p
 \v 29 A record of all the things that King David did while he ruled, from the beginning to the end, was on scrolls written by
 the prophets Samuel, Nathan, and Gad. 
-\v 30 They told about his powerful rule \f + \fr hendiadys \f*, and all the things that happened to him and to the people of Israel and in the
+\v 30 They told about his powerful rule \f + \fk hendiadys \f*, and all the things that happened to him and to the people of Israel and in the
 kingdoms of other countries \add while he was ruling Israel\add*.

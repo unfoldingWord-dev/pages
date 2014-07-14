@@ -16,8 +16,8 @@
 \add Jesus\add*, “Lord, I want you\add (sg)\add* to know that I am going to give half of what I own to poor people. And as for
 the people whom I have cheated, I will pay them back four times the amount
 \add I have gotten from them by cheating\add*.” 
-\v 9 Jesus said to him, “Today \add God\add* has forgiven \f + \fr personification \f* \add you and the other people
-in\add* \f + \fr metonymy \f* this house, because you\add (sg)\add* also \add have shown that you have trusted in God
+\v 9 Jesus said to him, “Today \add God\add* has forgiven \f + \fk personification \f* \add you and the other people
+in\add* \f + \fk metonymy \f* this house, because you\add (sg)\add* also \add have shown that you have trusted in God
 as\add* your ancestor Abraham \add did\add*. 
 \v 10 Remember this: \add I\add*, the one who came from heaven, came to seek and save
 \add people like you(sg)\add* who have \add gone astray from God, just like a shepherd who searches for
@@ -55,15 +55,15 @@ know\add* you are a man who does not do foolish things with your money. You
 \add even\add* take \add from others money\add* that does not really belong to
 you\add , like a farmer who\add* harvests grain \add from another man's
 field\add* where he did not\add even\add* do the planting.’ 
-\v 22 He said to that servant, ‘You wicked servant! I will condemn you by the very words \f + \fr metonymy \f* that you
+\v 22 He said to that servant, ‘You wicked servant! I will condemn you by the very words \f + \fk metonymy \f* that you
 \add have just now spoken\add*! ◄You know that I do not \add do foolish things with my
 money\add*./Did you not know that I do not \add do foolish things with my
-money\add*?► \f + \fr rhetorical question \f* \add You said\add* that I \add even\add* take
+money\add*?► \f + \fk rhetorical question \f* \add You said\add* that I \add even\add* take
 \add from others money\add* that does not really \add belong to me\add*,
 \add like a farmer who\add* harvests grain \add from another man's
 field\add* where he did not\add even\add* do the planting. 
 \v 23 So ◄you should at least have given my money to money lenders!/why did you not
-\add at least\add* give my money to bankers?► \f + \fr rhetorical question \f* Then \add when I
+\add at least\add* give my money to bankers?► \f + \fk rhetorical question \f* Then \add when I
 returned\add* I could have collected that amount plus the interest
 \add it would have earned!\add*’ 
 \v 24 Then \add the king\add* said to those who were standing near, ‘Take the coin from him and give it to
@@ -99,7 +99,7 @@ it\add*.
 \v 37 As they came near \add to Jerusalem\add*, on the road that descends from Olive
 \add Tree\add* Hill, the whole crowd of his disciples began to rejoice and praise God loudly for all the great miracles that
 they had seen \add Jesus do\add*. 
-\v 38 They were saying things like, “May the Lord\add God\add* bless our king who comes representing \f + \fr metonymy \f* him!” “May there be
+\v 38 They were saying things like, “May the Lord\add God\add* bless our king who comes representing \f + \fk metonymy \f* him!” “May there be
 peace \add between God\add* in heaven \add and us his people\add*!” “May
 \add everyone\add* praise God!” 
 \v 39 Some of the Pharisees who were in the crowd said to him, “Teacher, rebuke your disciples
@@ -112,7 +112,7 @@ peace \add between God\add* in heaven \add and us his people\add*!” “May
 \v 41 When \add Jesus\add* came near \add to\add* Jerusalem and saw the city, he cried about
 \add its people\add*. 
 \v 42 He said, “\add My disciples know what they need to do\add* to have peace
-\add with God\add*; I wish that even today \add the rest of\add* you people knew it. But now you are unable to know \f + \fr metonymy \f* it.
+\add with God\add*; I wish that even today \add the rest of\add* you people knew it. But now you are unable to know \f + \fk metonymy \f* it.
 \v 43 I want you to know this: Soon \add your enemies\add* will come and will set up a barricade around your
 \add city\add*. They will surround \add the city\add* and attack
 \add it\add* on all sides. 
