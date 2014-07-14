@@ -1,5 +1,8 @@
 ====== Guidelines for the Translation Notes of Mark ======
 
+(This is an “under construction” page. The audience Door43 contributors who are creating the Translation Notes and other resources that MTT's will use. Please add your comments and suggestions for content to the Discussion below.)
+
+
 ===== Purpose of the Translation Notes: =====
 
   * The Notes are intended to explain how to **translate** the text. They are not for Bible study, doctrinal teaching, preaching, etc. 
