@@ -1,4 +1,4 @@
-====== [MTY] Metonymy |məˈtänəmē| ======
+====== [MTY] Metonymy [məˈtänəmē] ======
 
 
 === In metonymy some thing or some idea is called not by its own name, but by the name of something associated with that thing or idea. ===
@@ -6,9 +6,6 @@
 
 For Example:\\ 
 //…and to wait for his Son from heaven, whom he raised from the dead, Jesus our deliverer from __the coming wrath__.// 1 Thes 1:10 NET
-
-
-OR
 
 
 //They tell us that now you wait expectantly for his Son to return to earth from heaven. You firmly believe that God caused him to lie again after he died. You believe also that Jesus will rescue all of us, who trust in him from __God’s punishing us__.// 1 Thes 1:10 TFT
@@ -21,13 +18,10 @@ In this example of metonymy God’s punishment is called God’s wrath. Punishme
 
 
 Another Example:\\ 
-Do not extinguish __the Spirit__. 1 Thes 5:19, NET
+//Do not extinguish __the Spirit__.// 1 Thes 5:19, NET
 
 
-OR
-
-
-Do not refuse __the urging from God’s Spirit__ when he is working [MTY] among you. That would be like throwing water on a fire [MET]. 1 Thes 5:19, TFT
+//Do not refuse __the urging from God’s Spirit__ when he is working [MTY] among you. That would be like throwing water on a fire [MET]//. 1 Thes 5:19, TFT
 
 
 In this example of metonymy, the urging of God’s Spirit is referred to simply as the Spirit - the one who does the urging. No one can quench or kill the Spirit himself. But we could quench his urging, or his working among us, by not obeying him.
