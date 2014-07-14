@@ -1,0 +1,7 @@
+\id LEV - Translation 4 Translators 1 
+\ide 65001 - Unicode (UTF-8)
+\h Leviticus 
+\toc1 Leviticus 
+\toc2 Leviticus 
+\toc3 Lev 
+\mt Leviticus 

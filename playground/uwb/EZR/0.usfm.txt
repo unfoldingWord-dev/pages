@@ -1,0 +1,7 @@
+\id EZR - Translation 4 Translators 1 
+\ide 65001 - Unicode (UTF-8)
+\h Ezra 
+\toc1 Ezra 
+\toc2 Ezra 
+\toc3 Ezr 
+\mt Ezra 

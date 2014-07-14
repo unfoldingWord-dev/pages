@@ -1,0 +1,7 @@
+\id ACT - Translation 4 Translators 1 
+\ide 65001 - Unicode (UTF-8)
+\h ACTS 
+\toc1 Acts 
+\toc2 Acts 
+\toc3 Ac 
+\mt Acts 

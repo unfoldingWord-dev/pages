@@ -1,0 +1,7 @@
+\id RUT - Translation 4 Translators 1 
+\ide 65001 - Unicode (UTF-8)
+\h Ruth 
+\toc1 Ruth 
+\toc2 Ruth 
+\toc3 Ru 
+\mt RUTH 

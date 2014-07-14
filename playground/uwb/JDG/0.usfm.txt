@@ -1,0 +1,7 @@
+\id JDG - Translation 4 Translators 1 
+\ide 65001 - Unicode (UTF-8)
+\h Judges 
+\toc1 Judges 
+\toc2 Judges 
+\toc3 Jdg 
+\mt Judges 

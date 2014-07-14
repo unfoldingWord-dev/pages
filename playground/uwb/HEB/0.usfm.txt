@@ -1,0 +1,7 @@
+\id HEB - Translation 4 Translators 1 
+\ide 65001 - Unicode (UTF-8)
+\h HEBREWS 
+\toc1 Hebrews 
+\toc2 Hebrews 
+\toc3 Heb 
+\mt Hebrews 

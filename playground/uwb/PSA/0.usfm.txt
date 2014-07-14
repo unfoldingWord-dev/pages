@@ -1,0 +1,7 @@
+\id PSA - Translation 4 Translators 1 
+\ide 65001 - Unicode (UTF-8)
+\h Psalms 
+\toc1 Psalms 
+\toc2 Psalms 
+\toc3 Ps 
+\mt PSALMS 

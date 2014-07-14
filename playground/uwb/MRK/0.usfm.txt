@@ -1,0 +1,7 @@
+\id MRK MRK- Translation 4 Translators 1 
+\ide 65001 - Unicode (UTF-8)
+\h MARK 
+\toc1 Mark 
+\toc2 Mark 
+\toc3 Mk 
+\mt Mark 

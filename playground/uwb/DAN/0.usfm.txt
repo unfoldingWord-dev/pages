@@ -1,0 +1,7 @@
+\id DAN - Translation 4 Translators 1 
+\ide 65001 - Unicode (UTF-8)
+\h Daniel 
+\toc1 Daniel 
+\toc2 Daniel 
+\toc3 Da 
+\mt DANIEL 

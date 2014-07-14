@@ -1,0 +1,7 @@
+\id DEU - Translation 4 Translators 1 
+\ide 65001 - Unicode (UTF-8)
+\h Deuteronomy 
+\toc1 Deuteronomy 
+\toc2 Deuteronomy 
+\toc3 Dt 
+\mt Moses' first speech 

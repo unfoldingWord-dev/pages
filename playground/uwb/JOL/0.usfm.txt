@@ -1,0 +1,7 @@
+\id JOL - Translation 4 Translators 1 
+\ide 65001 - Unicode (UTF-8)
+\h Joel 
+\toc1 Joel 
+\toc2 Joel 
+\toc3 Jol 
+\mt Joel 

@@ -1,0 +1,135 @@
+\c 1  
+\s A list of genealogies 
+\s2 The descendants of Adam 
+\p
+\v 1  \add The first person God created was Adam\add*. Adam's \add son
+was\add* Seth. \add Seth's son was\add* Enosh. \add Enosh's son was\add* Kenan.
+\v 2  \add Kenan's son was\add* Mahalalel. \add Mahalalel's son was\add* Jared.
+\add Jared's son was\add* Enoch. 
+\v 3  \add Enoch's son was\add* Methuselah. \add Methusalah's son
+was\add* Lamech. \add Lamech's son was\add* Noah. 
+\v 4  \add Noah's sons were\add* Shem, Ham, and Japheth. 
+\s2 The descendants of Japheth 
+\li
+\v 5 The sons (OR, descendants) of Japheth were Gomer, Magog, Madai, Javan, Tubal, Meshech, and Tiras.
+\li
+\v 6 The sons (OR, descendants) of Gomer were Ashkenaz, Riphath, and Togarmah.
+\li
+\v 7 The descendants of Javan were Elishah, Tarshish, Kittim, and Rodanim.
+\s2 The descendants of Ham 
+\li
+\v 8 The sons of Ham were Cush, Mizraim (OR, Egypt), Put, and Canaan.
+\li
+\v 9 The descendants of Cush were Seba, Havilah, Sabta, Raamah, and Sabteca.
+\li2 The sons (OR, descendants) of Raamah were Sheba and Dedan. 
+\li
+\v 10 Cush's son was Nimrod. When he grew up, he became a mighty warrior on the earth.
+\li
+\v 11 Mizraim (OR, Egypt) was the ancestor of the Lud people-group, the Anam people-group, the Lehab people-group, the Naphtuh
+people-group, 
+\li2
+\v 12 the Pathrus people-group, the Casluh people-group, and the Caphtor people-group. The people of the Philistia
+\add region\add* were descended from the Casluh people-group. 
+\li
+\v 13 Canaan's first son was Sidon. He was also the ancestor of the Heth people-group,
+\li2
+\v 14 the Jebus people-group, the Amor people-group, the Girgash people-group,
+\v 15 the Hiv people-group, the Ark people-group, the Sin people-group,
+\v 16 the Arvad people-group, the Zemar people-group, and the Hamath people-group.
+\s2 The descendants of Shem 
+\li
+\v 17 The sons of Shem were Elam, Asshur, Arphaxad, Lud, and Aram.
+\li2 Aram's sons were Uz, Hul, Gether, and Meshech. 
+\li
+\v 18 Arphaxad was the father of Shelah, who was the father of Eber.
+\li
+\v 19 Eber had two sons. One was named Peleg \add which sounds like the word that means
+'divided'\add* because during the time that he lived, the \add people
+on\add* the earth were divided \add into various language groups\add*.
+\li2 Peleg's \add younger\add* brother was Joktan. 
+\li
+\v 20 Joktan was the ancestor of Almodad, Sheleph, Hazarmaveth, Jerah,
+\li2
+\v 21 Hadoram, Uzal, Diklah, 
+\v 22 Obal, Abimael, Sheba, 
+\v 23 Ophir, Havilah, and Jobab. 
+\b
+\li2
+\v 24 The descendants of Shem, \add in order from him to Abraham\add*, were Arphaxad, Shelah,
+\li2
+\v 25 Eber, Peleg, Reu, 
+\li2
+\v 26 Serug, Nahor, Terah, 
+\li2
+\v 27 and Abram, whose \add name was later changed to\add* Abraham.
+\s2 The descendants of Abraham 
+\li
+\v 28 Abraham's sons were Isaac and Ishmael. 
+\li
+\v 29  \add The son of Abraham's wife Hagar\add* was Ishmael. Ishmael's
+\add twelve\add* sons were Nebaioth, Kedar, Adbeel, Mibsam, 
+\li2
+\v 30 Mishma, Dumah, Hadad, Tema, 
+\v 31 Jetur, Naphish, and Kedemah. 
+\li
+\v 32 Abraham's slave wife was Keturah. Her sons were Zimran, Jokshan, Medan, Midian, Ishbak, and Shuah.
+\li2 Jokshan's sons were Sheba and Dedan. 
+\li
+\v 33 Midian's sons were Ephah, Epher, Hanoch, Abida, and Eldaah.
+\s2 The descendants of Esau 
+\li
+\v 34 Abraham was the father of Isaac, and Isaac's sons were Esau and
+\add Jacob, whose name was later changed to\add* Israel. 
+\li
+\v 35 The sons of Esau were Eliphaz, Reuel, Jeush, Jalam, and Korah.
+\li
+\v 36 The sons of Eliphaz were Teman, Omar, Zepho (OR, Zephi), Gatam, Kenaz, Timna, and Amalek.
+\li
+\v 37 Reuel's sons were Nahath, Zerah, Shammah, and Mizzah. 
+\s2 The descendants of Seir 
+\li
+\v 38  \add Another descendant of Esau was Seir. His descendants lived in the Edom
+region\add*. 
+\li2 Seir's sons were Lotan, Shobal, Zibeon, Anah, Dishon, Ezer, and Dishan.
+\li
+\v 39 Lotan's sons were Hori and Homam, and Lotan's sister was Timna.
+\li
+\v 40 Shobal's sons were Alvan, Manahath, Ebal, Shepho, and Onam.
+\li2 Zibeon's sons were Aiah and Anah. 
+\li
+\v 41 Anah's son was Dishon. 
+\li2 Dishon's sons were Hemdan (OR, Hamran), Eshban, Ithran, and Keran.
+\li
+\v 42 Ezer's sons were Bilhan, Zaavan, and Akan (OR, Jaakan). 
+\li2 Dishan's sons were Uz and Aran. 
+\s2 The kings of Edom 
+\li
+\v 43  \add These are the names of\add* the kings that ruled the Edom
+\add region\add* before any kings ruled over Israel: 
+\li2 Bela, the son of Beor, was king in Edom, and the name of the city
+\add in which he lived\add* was Dinhabah. 
+\li
+\v 44 When Bela died, Zerah's son Jobab became the king. He was from Bozrah
+\add city\add*. 
+\li
+\v 45 When Jobab died, Husham became the king. He was from the region where the Teman people-group lived.
+\li
+\v 46 When Husham died, Bedad's son Hadad became the king. He \add ruled
+in\add* Avith city. Hadad's \add army\add* defeated \add the army of
+the\add* Midian \add people-group\add* in the Moab \add region\add*.
+\li
+\v 47 When Hadad died, Samlah became the king. He was from Masrekah
+\add town\add*. 
+\li
+\v 48 When Samlah died, Shaul became the king. He was from Rehoboth
+\add city\add* along the \add Euphrates\add* river. 
+\li
+\v 49 When Shaul died, Achbor's son Baal-Hanan became the king. 
+\li
+\v 50 When Baal-Hanan died, Hadad became the king. He was from Pau city. His wife's name was Mehetabel; she was the daughter of
+Matred and the granddaughter of Me-Zahab. 
+\v 51 The leaders of the clans of the Edom people-group were Timna, Alvah, Jetheth,
+\li2
+\v 52 Oholibamah, Elah, Pinon, 
+\v 53 Kenaz, Teman, Mibzar, 
+\v 54 Magdiel, and Iram. 

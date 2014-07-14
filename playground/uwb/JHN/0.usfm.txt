@@ -1,0 +1,7 @@
+\id JHN - Translation 4 Translators 1 
+\ide 65001 - Unicode (UTF-8)
+\h JOHN 
+\toc1 John 
+\toc2 John 
+\toc3 Jn 
+\mt John 

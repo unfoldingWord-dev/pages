@@ -1,0 +1,111 @@
+\c 27  
+\s Army Commanders 
+\p
+\v 1 This is a list of the Israeli men who served the king in the army. Some were leaders of families, some were commanders of
+100 men, some were commanders of 1,000 men, and some were other officers. There were 24,000 men [DOU] in each group. Each group
+served one month of each year. 
+\b
+\li
+\v 2 Jashobeam, the son of Zabdiel, was in charge of the group that served during the first month
+\add of each year\add*. 
+\v 3 He was a descendant of Perez, and he was the commander of all the army officers during the first month of each year.
+\li
+\v 4 Dodai, from the clan of Ahohi, was the commander of the group that served during the following/second month of each year.
+Mikloth was his assistant/chief officer. 
+\li
+\v 5 Benaiah the son of Jehoiada the Supreme Priest was the commander of the group that served during the following/third
+month. 
+\v 6 He was the one who was a mighty warrior among David's thirty greatest soldiers, and he was their leader. His son Ammizabad
+was his assistant. 
+\li
+\v 7 Asahel, Joab's \add younger\add* brother, was \add the commander of the group that
+served\add* during the following/fourth month. Asahel's son Zebadiah became the commander after Asahel
+\add was killed\add*. 
+\li
+\v 8 The commander for the following/fifth month was Shamhuth, a descendant of Izrah.
+\li
+\v 9 The commander for the following/sixth month was Ira the son of Ikkesh from Tekoa
+\add town\add*. 
+\li
+\v 10 The commander for the following/seventh month was Helez a member of the Pelon
+\add clan\add* from the tribe of Ephraim. 
+\li
+\v 11 The commander for the following/eighth month was Sibbecai, a descendant of Zerah from Hushah
+\add town\add*. 
+\li
+\v 12 The commander for the following/ninth month was Abiezer from Anathoth
+\add city\add* in the tribe of Benjamin. 
+\li
+\v 13 The commander for the following/tenth month was Maharai, a descendant of Zerah from Netophah
+\add town\add*. 
+\li
+\v 14 The commander for the following/eleventh month was Benaiah from Pirathon
+\add town\add* in the tribe of Ephraim. 
+\li
+\v 15 The commander for the last month \add of each year\add* was Heldai, a descendant of Othniel from Netophath
+\add town\add*. 
+\s The administrators of the twelve tribes 
+\li
+\v 16 This is a list of the administrators of the \add twelve\add* tribes [DOU] of Israel:
+\li Eliezer the son of Zicri was the administrator of the tribe of Reuben.
+\li Shephatiah the son of Maacah was the administrator of the tribe of Simeon.
+\li
+\v 17 Hashabiah the son of Kemuel was the administrator of the tribe of Levi.
+\li Zadok was the administrator of the tribe of Aaron. 
+\li
+\v 18 Elihu, David's \add older\add* brother, was the administrator of the tribe of Judah.
+\li Omri the son of Michael was the administrator of the tribe of Issachar.
+\li
+\v 19 Ishmaiah the son of Obadiah was the administrator of the tribe of Zebulun.
+\li Jerimoth the son of Azriel was the administrator of the tribe of Naphtali.
+\li
+\v 20 Hoshea the son of Azaziah was the administrator of the tribe of Ephraim.
+\li Joel the son of Pedaiah was the administrator of the tribe of the
+\add western\add* half of the tribe of Manasseh. 
+\li
+\v 21 Iddo the son of Zechariah was the administrator of the \add eastern\add* half of the tribe of Manasseh, in the Gilead
+\add region\add*. 
+\li Jaasiel the son of Abner was the administrator of the tribe of Benjamin.
+\li
+\v 22 Azarel the son of Jeroham was the administrator of the tribe of Dan.
+\p
+\v 23 David did not \add tell Joab to\add* count the men who were less then twenty years old, because Yahweh had promised
+\add many years previously\add* that there would be \add as many
+people\add* in Israel as there are stars in the sky. 
+\v 24 Joab \add and his helpers\add* started to count the men of Israel, but they did not finish counting them
+\add because Joab knew that Yahweh was angry about their being counted\add*. Yahweh punished [MTY] the people of Israel because
+of this counting, and as a result the total number of Israeli men
+\add able to serve in the army\add* was not written on the scroll about King David's
+\add rule\add*. 
+\s The king's other officials 
+\p
+\v 25 Azmaveth the son of Adiel was in charge of the king's storehouses.
+\li Jonathan the son of Uzziah was is charge of the storehouses in other towns and villages in Israel, and also in charge of
+the watchtowers. 
+\p
+\v 26 Ezri the son of Kelub was in charge of the workers who farmed the land
+\add that belonged to the king\add*. 
+\p
+\v 27 Shimei from Ramath \add town\add* was in charge of the king's vineyards.
+\li Zabdi from Shepham \add town\add* was in charge of storing the wine from the
+\add grapes produced in\add* vineyards. 
+\p
+\v 28 Baal-Hanan from Geder \add city\add* was in charge of storing the olive oil.
+\p
+\v 29 Shitrai from the Sharon Plain was in charge of the herds of cattle that ◄grazed/ate grass► there.
+\li Shaphat the son of Adlai was in charge of the cattle in the valleys.
+\p
+\v 30 Obil, a descendant of Ishmael, was in charge of the camels.
+\li Jehdeiah from Meronoth \add town\add* was in charge of the donkeys.
+\p
+\v 31 Jaziz, a descendant of Hagar, was in charge of the \add king's\add* flocks of sheep.
+\li3 All of those officials were in charge of the things that belonged to king David.
+\p
+\v 32 David's uncle Jonathan was a wise counselor for him. 
+\li Jehiel, the son of Hacmoni, taught the king's sons. 
+\p
+\v 33 Ahithophel was the king's official counselor. 
+\li
+\v 34 Hushai from the Ark people-group was the king's special friend.
+\li2 Benaiah's son Jehoiada became the king's advisor after Ahithophel died, and later Abiathar became his advisor.
+\p Joab was the chief commander of the army. 

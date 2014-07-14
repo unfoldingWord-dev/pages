@@ -1,0 +1,7 @@
+\id OBA - Translation 4 Translators 1 
+\ide 65001 - Unicode (UTF-8)
+\h OBADIAH 
+\toc1 Obadiah 
+\toc2 Obadiah 
+\toc3 Ob 
+\mt Obadiah 

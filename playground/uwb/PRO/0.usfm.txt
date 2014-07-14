@@ -1,0 +1,7 @@
+\id PRO - Translation 4 Translators 1 
+\ide 65001 - Unicode (UTF-8)
+\h Proverbs 
+\toc1 Proverbs 
+\toc2 Proverbs 
+\toc3 Pr 
+\mt Proverbs 

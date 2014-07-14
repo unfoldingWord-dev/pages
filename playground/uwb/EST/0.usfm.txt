@@ -1,0 +1,7 @@
+\id EST - Translation 4 Translators 1 
+\ide 65001 - Unicode (UTF-8)
+\h Esther 
+\toc1 Esther 
+\toc2 Esther 
+\toc3 Est 
+\mt Esther 

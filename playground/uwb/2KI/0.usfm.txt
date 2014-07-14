@@ -1,0 +1,7 @@
+\id 2KI - Translation 4 Translators 1 
+\ide 65001 - Unicode (UTF-8)
+\h 2 Kings 
+\toc1 2 Kings 
+\toc2 2 Kings 
+\toc3 2 Ki 
+\mt SECOND KINGS 
