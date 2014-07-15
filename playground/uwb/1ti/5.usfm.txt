@@ -35,10 +35,10 @@ children \add properly\f + \ft Or: well \f*\add*, if they have welcomed and care
 believers. 
 \v 11 As for younger widows, do not put their names on that list, because they
 \add promise to do work for the congregation, but instead of doing that, they
-usually\add* want to marry \add again\add* \f + \ft Or: marry an unbeliever) when they have strong desires.
+usually\add* want to marry \add again\add* \f + \ft Or: marry an unbeliever \f* when they have strong desires.
 \v 12 If that happens, they may become guilty of not having done what they had promised
-\add to do for the congregation\add* (OR, promised \add Christ that they would
-do\add*.) 
+\add to do for the congregation\add* \f + \ft Or: promised \add Christ that they would
+do\add*. \f* 
 \v 13 In addition, they \add generally\add* become lazy. Specifically, as they
 \add just\add* go about from house to house they also begin to gossip\f + \ft Or: to talk about people \f* and to meddle in other people's
 affairs, saying what they should not say. 
@@ -83,6 +83,6 @@ elder\add*. Keep your life pure in every way.
 \v 24  \add I tell you not\add* \add to set apart\f + \ft Or: appoint\add* \f*
 \add elders hastily, without seeing how they conduct their lives,
 because\add* some people \add sin secretly\add*, so that it is not known what they have done until after someone examines them
-(OR, before God judges them \f*. But some people sin openly, so that people know what they have done before anyone examines them.
+\f + \ft Or: before God judges them \f*. But some people sin openly, so that people know what they have done before anyone examines them.
 \v 25 Similarly, although \add some people\add* do good deeds openly, with the result that people know what they have done,
 some people \add do good deeds secretly\add*, yet the good deeds that they have done cannot remain secret either.

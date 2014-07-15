@@ -24,7 +24,7 @@ race\add*.
 \v 5 It was our ancestors, \add Abraham, Isaac, and Jacob, whom God chose to found our
 nation\add*. And, \add most importantly\add*, it was from us Israelites that the Messiah received his human nature.
 \add Nevertheless, most of my fellow Israelites have rejected Christ\add*, who is the one who controls all things! He is God,
-the one who is worthy that we praise him forever! This is true! \f + \ft Or: Amen!)
+the one who is worthy that we praise him forever! This is true! \f + \ft Or: Amen! \f*
 \s Romans 9:6-13 
 \s This does not prove that God has failed to do for Abraham what he promised, because, as Scripture illustrates, it is not all
 who are naturally descended from Jacob or Abraham whom God considers to be his children, but it is those who were born as a
@@ -46,8 +46,8 @@ Abraham\add* whom God\add considers as\add* his children. Instead it is those wh
 \v 9  \add You know that what God\add* promised \add to Abraham\add* was this: “About this time
 \add next year\add* Sarah \add your wife\add* will bear a son \add as a result of my
 enabling\add* \f + \ft metonymy \f* \add her\add*.” \add So Abraham knew that it was not through Ishmael, the son that he already had, that God
-would fulfill what he had promised him\add* (OR, \add that his true descendants would
-come\add*). 
+would fulfill what he had promised him\add* \f + \ft Or: \add that his true descendants would
+come\add* \f*. 
 \v 10 And not only then did God show \add that he did not determine who would be his true children according to who their
 ancestors were. He showed it again\add* when Rebecca conceived \add twins\add* by our ancestor Isaac.
 \v 11-12 Before \add the twins, Jacob and Esau\add*, were born, when neither one had yet done anything good or bad,
@@ -109,7 +109,7 @@ for people\add*.
 \v 22 Although God desires to show that he is angry \add about sin\add*, and
 \add although he desires to\add* make clear that he can powerfully
 \add punish people who have sinned\add*, he tolerated very patiently the people \f + \ft metaphor \f* who caused him to be angry and who
-deserved to be destroyed (OR, who were made to be destroyed \f*. 
+deserved to be destroyed \f + \ft Or: who were made to be destroyed \f*. 
 \v 23  \add God has been patient\add* in order that he might make clear how very wonderfully
 \add he acts toward those\add* \f + \ft metaphor \f* whom he intended to act mercifully towards and whom he prepared ahead of time in order
 that they might \add live\add* gloriously \add in heaven\add*. 

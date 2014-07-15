@@ -28,12 +28,12 @@ like\add* a true son \f + \ft metaphor \f* \add to me because I led\f + \ft Or: 
 \s Appoint as elders men whom no one can justly criticize. 
 \p
 \v 6  \add When you appoint men as elders\add*, you must choose men whom no one can
-\add justly\add* accuse of \add habitually\add* doing what is wrong \f + \ft Or: whom everyone speaks well of). Specifically, appoint
+\add justly\add* accuse of \add habitually\add* doing what is wrong \f + \ft Or: whom everyone speaks well of \f*. Specifically, appoint
 men who have been faithful to their wives. Appoint men whose children faithfully obey
 \add them. Do not appoint men whose children habitually\add* do all the things that their bodies urge them to do, or who refuse
 to obey their parents. 
-\v 7 Leaders \add of the congregation\add* must be \add men\add* who, as everyone knows, habitually do what is good (OR,
-\add whom\add* no one can \add justly\add* accuse of doing what is wrong), because it is on God's behalf that they will
+\v 7 Leaders \add of the congregation\add* must be \add men\add* who, as everyone knows, habitually do what is good \f + \ft Or:
+\add whom\add* no one can \add justly\add* accuse of doing what is wrong \f*, because it is on God's behalf that they will
 direct\f + \ft Or: serve \f* \add the congregation. Specifically, they must\add* not be arrogant\f + \ft Or: proud \f*. They must not easily become angry. They
 must not \add be men who\add* drink much alcohol. They must not \add be men
 who\add* \add act\add* violently\f + \ft Or: fight \f* \add when they are angry. They
@@ -43,7 +43,7 @@ must do \add what God considers\add* to be right. They must be holy\f + \ft Or: 
 their minds tell them is right to do \add and not what their emotions\f + \ft Or: desires \f* urge them to
 do\add*. 
 \v 9 They must firmly believe in the message \add about Jesus Christ\add* exactly as
-\add I\f + \ft Or: we \f*(inc \f*\add* taught it, in order that they might be able to teach
+\add I\f + \ft Or: we \f*(inc)\add* taught it, in order that they might be able to teach
 \add the believers\add* what is correct and to urge \add them to follow it well. If they firmly accept our
 message\add*, they will be able to convince those who oppose \add what is correct that they are
 wrong\add*. 

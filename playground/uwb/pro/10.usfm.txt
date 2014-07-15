@@ -37,7 +37,7 @@
 \b
 \q
 \v 9 Honest people will walk\f + \ft Or: live \f* safely, 
-\q2 but others \f + \ft Or: God) will find out those who are dishonest. 
+\q2 but others \f + \ft Or: God \f* will find out those who are dishonest. 
 \b
 \q
 \v 10 Those who wink their eyes \add to signal that they are about to do something that is
@@ -74,7 +74,7 @@ them\add*.
 \q
 \v 17 Those who pay attention when others try to correct them\f + \ft Or: teach them what they are doing that is wrong \f* will live
 happily\f + \ft Or: for many years \f*; 
-\q2 but those who reject being rebuked will not find the road to life (OR, cause others to go astray).
+\q2 but those who reject being rebuked will not find the road to life \f + \ft Or: cause others to go astray \f*.
 \b
 \q
 \v 18 Those who will not admit that they hate others are liars, 
@@ -96,7 +96,7 @@ do\add*.
 \b
 \q
 \v 22 Yahweh blesses \add some people\add* by enabling them to become rich
-\q2 and working hard will not make them to become richer (OR, and he will not also cause them to become sad).
+\q2 and working hard will not make them to become richer \f + \ft Or: and he will not also cause them to become sad \f*.
 \b
 \q
 \v 23 Foolish people have fun\f + \ft Or: enjoy \f* doing what is wrong, 
@@ -129,7 +129,7 @@ them\add*, and that causes them to be happy\f + \ft Or: joyful \f*;
 \b
 \q
 \v 30 Righteous people will always be secure \f + \ft litotes \f*, 
-\q2 but wicked people will be removed from their land (OR, from this earth \f*.
+\q2 but wicked people will be removed from their land \f + \ft Or: from this earth \f*.
 \b
 \q
 \v 31 Righteous people \f + \ft metonymy \f* say things that are wise, 

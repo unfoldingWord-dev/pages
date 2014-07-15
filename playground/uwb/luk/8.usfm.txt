@@ -100,7 +100,7 @@ said to each other, “What kind of man is this?\f + \ft Or: This man is not lik
 \add town\add* which \add was on the eastern\add* side of Lake \add Galilee\add*.
 \v 27  \add There was\add* a man \add in that region\add* in whom demons lived.
 \add He was\add* from the town \add of Gerasa\add*. \f + \ft Or: \add In that area there
-was\add* a man \add from that town\add* whom demons controlled.) For a long time he had not worn clothes. He did not live in a
+was\add* a man \add from that town\add* whom demons controlled. \f* For a long time he had not worn clothes. He did not live in a
 house. Instead, he lived in burial caves. 
 \v 28-29 Many times \add demons\add* attacked him. He was guarded
 {\add People\add* tried to guard him} \add so that he would not injure
@@ -126,8 +126,8 @@ the town what had happened.
 \v 35 So people went out to see what had happened. When they came to where Jesus was, they saw that the man from whom Jesus had
 \add expelled\add* the demons was sitting at the feet of Jesus, \add listening to
 him\add*. He had clothes on, and his mind was normal again. Then those people became afraid
-\add because they thought that he would destroy more of their property\add* (OR,
-\add because they realized that he must be very powerful\add*). 
+\add because they thought that he would destroy more of their property\add* \f + \ft Or:
+\add because they realized that he must be very powerful\add* \f*. 
 \v 36 The people who had seen what happened told those \add who had just
 arrived\add* how \add Jesus\add* had healed the man whom demons were controlling
 \add before\add*. 
@@ -157,8 +157,8 @@ of people around you\add (sg)\add* and crowding against you, \add so any one of 
 you\add*!” 
 \v 46 But Jesus said, “\add I know that\add* someone \add deliberately\add* touched me,
 \add because\add* my power has healed someone \add who touched me\add*.”
-\v 47 When the woman realized that she could not prevent \add Jesus\add* (OR,
-\add people\add*) from knowing that \add she was healed\add*, her body began to shake.
+\v 47 When the woman realized that she could not prevent \add Jesus\add* \f + \ft Or:
+\add people\add* \f* from knowing that \add she was healed\add*, her body began to shake.
 \add She was afraid that because she had disobeyed the law that a woman with such a condition should not touch others, Jesus
 might scold her for doing that\add*. She prostrated herself before him. As the other people were listening, she told why she
 had touched him and how she had been healed immediately. 
@@ -171,7 +171,7 @@ God's\add* peace \add within you\add*.”
 house\add*!\f + \ft Or: why \f* do you bother the teacher any longer \add by urging him to go to your
 house\add*?► \f + \ft rhetorical question \f*” 
 \v 50 But when Jesus heard that, he said to Jairus, “Do not think that there is nothing more that can be done. Just believe
-that \add I can help her. If you(sg \f* do that\add*, she will live again.”
+that \add I can help her. If you(sg) do that\add*, she will live again.”
 \v 51 When they arrived outside the house, he allowed only Peter, John, James, and the girl's mother and father to go in the
 house with him. 
 \v 52 All the people \add there\add* were crying and beating their breasts

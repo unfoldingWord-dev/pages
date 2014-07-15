@@ -20,7 +20,7 @@ want\add it to go\add*.
 \v 5 Similarly, \add although\add* our tongues are very small, \add if we do not control
 them\add*, we can \add harm\add* many people by what we proudly say \f + \ft metonymy \f*. Think
 \add also\add* about how \add just\add* a small \add flame of\add* fire can cause a large forest \f + \ft Or: a large area of
-brushwood) to burn. 
+brushwood \f* to burn. 
 \p
 \v 6  \add Just like a fire damages a forest\add* \f + \ft metaphor \f*, when we say things that are evil,
 \add we harm many people\add*. What we say \f + \ft metonymy \f* reveals that there is much evil within us. What we say contaminates\f + \ft Or: defiles \f*
@@ -57,7 +57,7 @@ succeeding► and always want to have what you want, regardless of what others w
 \add wants them to be\add*. Instead, they are only thinking and acting like
 \add ungodly people\f + \ft Or: people who do not please God\add* \f*. They think and act according to their own
 \add evil\add* desires. They do what the demons \add want them to
-do\add* (OR, they think and act as demons \add do\add* \f*. 
+do\add* \f + \ft Or: they think and act as demons \add do\add* \f*. 
 \v 16  \add Keep in mind that\add* people who have such attitudes are unruly\f + \ft Or: do not submit to authority \f*
 and\add do\add* all kinds of evil things. 
 \v 17 But \add when people\add* are wise \f + \ft personification \f* in the way that God \f + \ft metonymy \f*

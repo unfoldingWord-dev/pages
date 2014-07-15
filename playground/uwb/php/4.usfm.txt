@@ -24,12 +24,12 @@ Clement and the rest of my fellow workers, whose names \add are\add* in the book
 God will grant you profound peace. 
 \p
 \v 4  \add Because you have a relationship with\add* the Lord, always rejoice! I say again, rejoice!
-\v 5  \add Act in such a way that\add* everyone can know that you are gentle. The Lord is near \f + \ft Or: coming soon).
+\v 5  \add Act in such a way that\add* everyone can know that you are gentle. The Lord is near \f + \ft Or: coming soon \f*.
 \v 6 Do not worry about anything. Instead, in every situation, pray
 \add to God\add*, tell him what you need, and ask him \add to help
 you\add* \f + \ft doublet \f*. Also thank \add him for what he does for you\add*.
-\v 7 As a result, God will enable you not to worry \add about anything\add* \f + \ft metonymy \f* (OR, God will protect your minds
-\add in every way\add*) \f + \ft personification \f*. \add That is\add*, he will cause you to have
+\v 7 As a result, God will enable you not to worry \add about anything\add* \f + \ft metonymy \f* \f + \ft Or: God will protect your minds
+\add in every way\add* \f* \f + \ft personification \f*. \add That is\add*, he will cause you to have
 \add inner\add* peace \add because you have a relationship with\add* Christ Jesus. You will not be able to understand \f + \ft personification \f*
 \add how you can be so peaceful in such difficult circumstances!\add*
 \s Philippians 4:8-9 
@@ -64,8 +64,8 @@ content\add* in any and every \add situation\add* \f + \ft doublet \f*. \add Spe
 \add how to be content when\add* I lack \add things\add*. 
 \v 13 I am able to cope with\f + \ft Or: to handle \f* every situation because
 \add Christ\add* gives me the strength to do that. 
-\v 14 Nevertheless, you did very well in that you \add helped me\add* (OR,
-\add gave me money\add*) \f + \ft euphemism \f* while I have been suffering hardship.
+\v 14 Nevertheless, you did very well in that you \add helped me\add* \f + \ft Or:
+\add gave me money\add* \f* \f + \ft euphemism \f* while I have been suffering hardship.
 \s Philippians 4:15-17 
 \s You Philippians know that in the early days of preaching the good news in your region you were the only congregation that
 sent me money. I do not say this because I desire your gifts, but I desire that God would abundantly bless you for aiding me.
@@ -99,7 +99,7 @@ supply everything that you need.
 greeting each one of God's people there. 
 \p
 \v 21 Greet \add for me\f + \ft Or: us \f*(exc)\add* all of God's people \add there, that is, all those who have a relationship
-with\add* Christ Jesus. The fellow believers who \add serve God together\add* with me here send their greetings to you (OR, say
+with\add* Christ Jesus. The fellow believers who \add serve God together\add* with me here send their greetings to you \f + \ft Or: say
 they are thinking fondly of you \f*. 
 \v 22 All of God's people \add here\add* send their greetings to you. Especially the
 \add fellow believers who work\add* in the palace of the emperor send their greetings to you.

@@ -10,7 +10,7 @@
 \b
 \q2
 \v 3 But Yahweh, you are like a shield \add that protects me\add* \f + \ft metaphor \f*.
-\q You greatly honor me, and you encourage me \f + \ft Or: enable me to triumph over my enemies) [IDI].
+\q You greatly honor me, and you encourage me \f + \ft Or: enable me to triumph over my enemies \f* [IDI].
 \q
 \v 4 I cry out to you, Yahweh, 
 \q2 and you answer me from \add Zion\add*, your sacred hill. 
@@ -36,4 +36,4 @@ night\add*.
 \v 8 Yahweh, you are the one who saves your people \add from their
 enemies\add*. 
 \q2 Yahweh, bless your people! 
-\qr (Think about that! \f* 
+\qr (Think about that!) 

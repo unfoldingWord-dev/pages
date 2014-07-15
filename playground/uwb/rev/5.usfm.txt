@@ -18,7 +18,7 @@ scroll and open it!”
 \v 6 Then I saw Jesus, the one who is like a \f + \ft metaphor \f* sacrificial lamb, standing there. He stood near the throne, in the midst of
 the four living creatures and the elders. It appeared that he had been killed {that people had killed him}, but he was alive
 again. He had seven horns, and he had seven eyes that symbolize the Spirit of God who has all kinds of power \f + \ft Or: who is also
-symbolized as seven spirits). \add He\add* sends \add God's\add* Spirit out into all the earth.
+symbolized as seven spirits \f*. \add He\add* sends \add God's\add* Spirit out into all the earth.
 \v 7 He came and took the scroll from the right hand of the one who sits on the throne.
 \v 8 When he took the scroll, the four living \add creatures\add* and the twenty-four elders prostrated themselves\f + \ft Or: knelt down \f*
 before \add Jesus\add*, the \add one who is like a\add* lamb, \add to worship
@@ -44,7 +44,7 @@ him\add*. They each had a harp, and they had golden bowls full of incense that
 \q He is worthy of being honored and praised by all created beings!”
 \p
 \v 13 I also heard every creature that is in heaven and on the earth and under the earth and on the ocean, every creature in
-all those places, saying (OR, singing \f*: 
+all those places, saying \f + \ft Or: singing \f*: 
 \q “We must forever praise and honor the one who sits on the throne
 \q and the one who is like a lamb, 
 \q May they reign with complete power forever!” 

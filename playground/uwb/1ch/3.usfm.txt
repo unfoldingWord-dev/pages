@@ -18,9 +18,9 @@
 \q After that, David ruled in Jerusalem for 33 years. 
 \m
 \v 5 Many of David's children were born in Jerusalem. Bathsheba, the daughter of Ammiel, gave birth to four of his sons:
-Shammua \f + \ft Or: Shimea), Shobab, Nathan, and Solomon. 
+Shammua \f + \ft Or: Shimea \f*, Shobab, Nathan, and Solomon. 
 \li2
-\v 6 Nine \add other sons of David were also born there. They were\add* Ibhar, Elishua (OR, Elishama), Eliphelet,
+\v 6 Nine \add other sons of David were also born there. They were\add* Ibhar, Elishua \f + \ft Or: Elishama \f*, Eliphelet,
 \v 7 Nogah, Nepheg, Japhia, 
 \v 8 Elishama, Eliada, and Eliphelet. 
 \v 9 In addition to all those sons, David's slave wives also gave birth to sons. David also had one daughter whose name was
@@ -49,7 +49,7 @@ Tamar.
 \li
 \v 15 Josiah's oldest son was Johanan. His other sons were Jehoiakim, Zedekiah, and Shallum.
 \li
-\v 16 Jehoiakim's sons were Jehoiachin (OR, Jeconiah \f* and Zedekiah.
+\v 16 Jehoiakim's sons were Jehoiachin \f + \ft Or: Jeconiah \f* and Zedekiah.
 \s2 Other descendants of King David after the people of Judah were exiled
 \li
 \v 17  \add King\add* Jehoiachin was captured \add and taken to Babylon\add*. His sons were Shealtiel,

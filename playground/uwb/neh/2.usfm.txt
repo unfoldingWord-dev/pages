@@ -8,7 +8,7 @@ Empire\add*, during the spring\f + \ft Or: before the hot season \f* of that yea
 \v 2 So he asked me, “Why are you sad? \add I know that\add* you are not sick. It must be that you are sad in your inner
 being.” Then I was very afraid, \add because it was not proper to be sad when I came to the
 king\add* \f + \ft Or: \add because I was worried what the king would do to me if he refused to do what I was about to request him to
-do\add*). 
+do\add* \f*. 
 \p
 \v 3 I replied, “Your majesty, I hope you will live a very long time! But ◄how can I prevent myself from being sad, because the
 city where my ancestors are buried \add has been destroyed\add* and is in ruins?\f + \ft Or: I \f* cannot keep myself from looking sad, because
@@ -47,11 +47,11 @@ that someone had come to help the Israeli people.
 Three days after I arrived in Jerusalem, I went out of the city in the evening, taking a few men with me. I was riding a
 donkey; we had no other animals with us. 
 \p
-\v 13 We left the city, going out through the Valley Gate, then past the well called the Jackal (OR, Dragon's) Well, and then
+\v 13 We left the city, going out through the Valley Gate, then past the well called the Jackal \f + \ft Or: Dragon's \f* Well, and then
 past the gate called the Rubbish\f + \ft Or: Garbage \f* Gate. We inspected all the walls that had been broken down and all the gates that had
 been burned down. 
 \v 14 Then we went to the Fountain Gate and to the pool called the King's Pool, but my donkey could not get through
-\add the narrow opening\add* (OR, \add the rubble\add* \f*. 
+\add the narrow opening\add* \f + \ft Or: \add the rubble\add* \f*. 
 \v 15 So we turned back and went along the \add Kidron\add* Valley. We inspected the wall there before we turned back\f + \ft Or: around \f*
 and entered the city again at the Valley Gate. 
 \v 16 The \add city\add* officials did not know where I had gone or what I was doing, because I had not told anyone about what

@@ -92,7 +92,7 @@ you\add (sg)\add* \f + \ft synecdoche \f*. He will prepare \add people\add* for 
 \add John\add*, \add even if they are\add* insignificant \add people\add*.”
 \p
 \v 29 When they heard \add what Jesus said\add* \f + \ft Or: \add what John
-preached\add*), all the people, including tax collectors, \add whom many people
+preached\add* \f*, all the people, including tax collectors, \add whom many people
 despised\add*, agreed that God's way was right. By being baptized by John {By
 \add letting\add* John baptize them}, \add they had agreed that what God required people to do in order to be saved was
 right\add*. 
@@ -139,7 +139,7 @@ by\add* lending \add it to others\add*. One owed him five hundred silver coins, 
 \v 43 Simon replied, “I think that the one who owed the most money and did not have to pay it back
 \add will love him more\add*.” Jesus said to him, “That is correct.”
 \v 44 Then he turned toward the woman, and said to Simon, “◄Think about
-\add what\add* this woman \add has done\add*!\f + \ft Or: Do \f* you\add (sg \f*\add* see
+\add what\add* this woman \add has done\add*!\f + \ft Or: Do \f* you\add (sg)\add* see
 \add what\add* this woman \add has done\add*?► \f + \ft rhetorical question \f* When I entered your house, you
 \add did not follow our custom of welcoming guests by\add* giving me any water
 \add to wash\add* my feet, but this woman has wet my feet with her tears and then wiped them with her hair!

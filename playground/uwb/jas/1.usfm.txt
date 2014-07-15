@@ -2,7 +2,7 @@
 \p
 \v 1  \add I\add*, James, am a servant of God and the Lord Jesus Christ.
 \add I am writing this letter\add* to \add all\add* the Jewish people
-\add who trust in Christ\add* \f + \ft Or: to all God's people) who are scattered throughout the world.
+\add who trust in Christ\add* \f + \ft Or: to all God's people \f* who are scattered throughout the world.
 \add I send my\add* greetings to \add you all\add*. 
 \s James 1:2-4 
 \s When you experience difficulties that test whether or not you will continue to trust God, rejoice greatly and keep on
@@ -14,8 +14,8 @@ to\add* test whether or not you will continue to trust \add him. Whenever that h
 to\add* realize more and more that \add if you continue to trust
 him\add*, you will be able to bravely\f + \ft Or: patiently \f* endure difficulties.
 \v 4 Keep on enduring difficulties \add bravely\f + \ft Or: patiently \f* by trusting God more and more
-firmly\add* \f + \ft personification \f*, in order that you may become all that he intends you to be \f + \ft doublet \f* (OR,
-\add spiritually\add* mature and complete), not lacking ◄any \add good quality\f + \ft Or: anything \f* you need to conduct your lives as God
+firmly\add* \f + \ft personification \f*, in order that you may become all that he intends you to be \f + \ft doublet \f* \f + \ft Or:
+\add spiritually\add* mature and complete \f*, not lacking ◄any \add good quality\f + \ft Or: anything \f* you need to conduct your lives as God
 wants you to\add*►. 
 \s James 1:5-8 
 \s If you want to have wisdom to know what to do when difficulties come, ask God to help you, and firmly trust him.
@@ -37,12 +37,12 @@ are\add* unstable\f + \ft Or: undecided \f* in all that they do.
 \s Believers who are poor and those who are rich should both value highly what God has done for them, rather than focusing on
 their material resources that will disappear. 
 \p
-\v 9 Believers who are poor should be happy \add that God\add* considers them very valuable (OR, has exalted them
-\add spiritually\add*) \f + \ft metonymy \f*. 
+\v 9 Believers who are poor should be happy \add that God\add* considers them very valuable \f + \ft Or: has exalted them
+\add spiritually\add* \f* \f + \ft metonymy \f*. 
 \v 10 And \add believers\add* who are rich should be happy \add that\add* they have humbled themselves
-\add in order to trust in Jesus Christ\add* (OR, but rich people
+\add in order to trust in Jesus Christ\add* \f + \ft Or: but rich people
 \add can only\add* take pride \add in the fact that God\add* will humble them
-\add when he judges everyone\add* \f + \ft irony \f*), because they \add and their
+\add when he judges everyone\add* \f + \ft irony \f* \f*, because they \add and their
 riches\add* \f + \ft metonymy \f* will pass away, just like wild flowers \add wither\add* \f + \ft simile \f*.
 \v 11 When the sun rises, the scorching hot wind dries plants, and their flowers fall and are no longer beautiful. Similarly,
 rich people will die \f + \ft metaphor \f* while they are busy working, \add leaving behind their
@@ -84,7 +84,7 @@ to\add*► \add him\add*.
 \s James 1:19-20 
 \s Every one of you should eagerly pay attention to God's message and should not speak hastily or be quick to get angry.
 \p
-\v 19 My fellow believers whom I love, you know (OR, I want you to now) that every one of you should be eager to pay attention
+\v 19 My fellow believers whom I love, you know \f + \ft Or: I want you to now \f* that every one of you should be eager to pay attention
 to \add God's true message\add*. You should not hastily speak \add your own
 thoughts\add*, nor be quick to get angry, 
 \v 20 because when any one \add of you gets\add* angry, you will not be doing the righteous things that God
@@ -93,7 +93,7 @@ thoughts\add*, nor be quick to get angry,
 \s So stop doing all kinds of evil, and do what God commands in his message, instead of just listening to it. God approves of
 those who do what he wants them to do. 
 \p
-\v 21 So stop doing all kinds of evil \f + \ft doublet \f*, and humbly accept (OR, submit to \f* the message that
+\v 21 So stop doing all kinds of evil \f + \ft doublet \f*, and humbly accept \f + \ft Or: submit to \f* the message that
 \add God\add* planted in your inner beings\f + \ft Or: hearts \f*, \add because\add* he is able to save you \f + \ft synecdoche \f*
 \add if you accept his message\add*. 
 \v 22 Do \add what God commands in\add* his message. Do not only listen

@@ -27,7 +27,7 @@ lives\add*, but after a few days \f + \ft litotes \f* \add God\add* will put the
 \v 6 One day when the \add apostles\add* met together \add with Jesus\add*, they asked him, “Lord, will
 you\add (sg)\add* now become the King \f + \ft metaphor \f* over \add us\add* Israelite people
 \add like King David, who ruled long ago\add*?” \f + \ft Or: “Lord, will
-you\add (sg)\add* now \add defeat the Romans and\add* restore the kingdom
+you\add (sg \f*\add* now \add defeat the Romans and\add* restore the kingdom
 \add to us\add* Israelite people?”) 
 \v 7 He replied to them, “You do not \add need\add* to know the time
 \add periods\add* and days \add when that will happen\add*. My Father alone has decided
@@ -92,8 +92,8 @@ them\add*. When Judas \add hanged himself\add*, his body fell down
 \s Peter quoted from the Psalms about Judas. 
 \p
 \v 20  \add Peter also said\add*, “\add I perceive that what happened to Judas is like what the writer
-of\add* Psalms\add desired to happen\add*: ‘May his house become deserted, and may there be no one to live in it.’ (OR,
-‘\add Judge him, Lord, so that neither he nor\add* anyone \add else\add* may live in his house!)’ And it seems that
+of\add* Psalms\add desired to happen\add*: ‘May his house become deserted, and may there be no one to live in it.’ \f + \ft Or:
+‘\add Judge him, Lord, so that neither he nor\add* anyone \add else\add* may live in his house! \f*’ And it seems that
 \add these other words that David wrote also refer to Judas:\add* ‘Let someone else take over his work as a leader.’ ”
 \s Acts 1:21-22 
 \s Peter concluded that they needed to choose a man to replace Judas.
@@ -108,14 +108,14 @@ of\add* Psalms\add desired to happen\add*: ‘May his house become deserted, and
 \s Jesus' followers prayed and then chose Matthias to replace Judas.
 \p
 \v 23 So the \add apostles and other believers\add* suggested \add the names of two men who qualified. One man
-was\add* Joseph, who was called {whom people called} Barsabbas (OR, Joseph Barsabbas) who
+was\add* Joseph, who was called {whom people called} Barsabbas \f + \ft Or: Joseph Barsabbas \f* who
 \add also\add* had the \add Roman\add* name Justus. The other man was Matthias.
 \v 24-25 Then they prayed like this: “Lord \add Jesus\add*, Judas stopped being an apostle.
 \add He died and\add* went to the place where he \add deserved to
 be\add* \f + \ft euphemism \f*. \add So we(exc) need to choose someone\add* to replace
 \add Judas in order\add* that he can serve \add you(sg) by becoming\add* an apostle.
 You\add (sg)\add* know what everyone is really like. So \add please\add* show us which of these two men you have chosen.”
-\v 26 Then they cast lots \add to choose between the two of\add* them, and the lot fell for Matthias. (OR, Then
+\v 26 Then they cast lots \add to choose between the two of\add* them, and the lot fell for Matthias. \f + \ft Or: Then
 \add one of\add* the \add apostles\add* shook \add in a container\add* small objects\f + \ft Or: stones \f*
 \add that\add* they \add had marked to determine which man God had
 chosen\add*. And the small object\f + \ft Or: stone \f* \add that they had marked\add* for Matthias fell

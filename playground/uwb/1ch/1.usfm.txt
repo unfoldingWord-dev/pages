@@ -11,21 +11,21 @@ was\add* Lamech. \add Lamech's son was\add* Noah.
 \v 4  \add Noah's sons were\add* Shem, Ham, and Japheth. 
 \s2 The descendants of Japheth 
 \li
-\v 5 The sons \f + \ft Or: descendants) of Japheth were Gomer, Magog, Madai, Javan, Tubal, Meshech, and Tiras.
+\v 5 The sons \f + \ft Or: descendants \f* of Japheth were Gomer, Magog, Madai, Javan, Tubal, Meshech, and Tiras.
 \li
-\v 6 The sons (OR, descendants) of Gomer were Ashkenaz, Riphath, and Togarmah.
+\v 6 The sons \f + \ft Or: descendants \f* of Gomer were Ashkenaz, Riphath, and Togarmah.
 \li
 \v 7 The descendants of Javan were Elishah, Tarshish, Kittim, and Rodanim.
 \s2 The descendants of Ham 
 \li
-\v 8 The sons of Ham were Cush, Mizraim (OR, Egypt), Put, and Canaan.
+\v 8 The sons of Ham were Cush, Mizraim \f + \ft Or: Egypt \f*, Put, and Canaan.
 \li
 \v 9 The descendants of Cush were Seba, Havilah, Sabta, Raamah, and Sabteca.
-\li2 The sons (OR, descendants) of Raamah were Sheba and Dedan. 
+\li2 The sons \f + \ft Or: descendants \f* of Raamah were Sheba and Dedan. 
 \li
 \v 10 Cush's son was Nimrod. When he grew up, he became a mighty warrior on the earth.
 \li
-\v 11 Mizraim (OR, Egypt) was the ancestor of the Lud people-group, the Anam people-group, the Lehab people-group, the Naphtuh
+\v 11 Mizraim \f + \ft Or: Egypt \f* was the ancestor of the Lud people-group, the Anam people-group, the Lehab people-group, the Naphtuh
 people-group, 
 \li2
 \v 12 the Pathrus people-group, the Casluh people-group, and the Caphtor people-group. The people of the Philistia
@@ -83,7 +83,7 @@ on\add* the earth were divided \add into various language groups\add*.
 \li
 \v 35 The sons of Esau were Eliphaz, Reuel, Jeush, Jalam, and Korah.
 \li
-\v 36 The sons of Eliphaz were Teman, Omar, Zepho (OR, Zephi), Gatam, Kenaz, Timna, and Amalek.
+\v 36 The sons of Eliphaz were Teman, Omar, Zepho \f + \ft Or: Zephi \f*, Gatam, Kenaz, Timna, and Amalek.
 \li
 \v 37 Reuel's sons were Nahath, Zerah, Shammah, and Mizzah. 
 \s2 The descendants of Seir 
@@ -98,9 +98,9 @@ region\add*.
 \li2 Zibeon's sons were Aiah and Anah. 
 \li
 \v 41 Anah's son was Dishon. 
-\li2 Dishon's sons were Hemdan (OR, Hamran), Eshban, Ithran, and Keran.
+\li2 Dishon's sons were Hemdan \f + \ft Or: Hamran \f*, Eshban, Ithran, and Keran.
 \li
-\v 42 Ezer's sons were Bilhan, Zaavan, and Akan (OR, Jaakan \f*. 
+\v 42 Ezer's sons were Bilhan, Zaavan, and Akan \f + \ft Or: Jaakan \f*. 
 \li2 Dishan's sons were Uz and Aran. 
 \s2 The kings of Edom 
 \li

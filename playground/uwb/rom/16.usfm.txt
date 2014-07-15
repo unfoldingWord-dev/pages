@@ -25,8 +25,8 @@ Tell my dear friend Epaenetus the same thing. He is the first man in Asia
 \v 6 Tell Mary, who has worked hard \add for Christ\add* in order to
 \add help\add* you, that I send my greetings to\f + \ft Or: am thinking fondly of \f* her.
 \v 7 Tell the same thing to Andronicus and \add his wife\add* Junia \f + \ft Or: and
-\add his sister\add* Junia) who are my fellow Jews and who were also
-\add previously\add* in prison with me. They are well-known\f + \ft Or: respected \f* (OR, respected by the) apostles, and they became
+\add his sister\add* Junia \f* who are my fellow Jews and who were also
+\add previously\add* in prison with me. They are well-known\f + \ft Or: respected \f* \f + \ft Or: respected by the \f* apostles, and they became
 Christians before I did. 
 \v 8 I also send my greetings to Ampliatus, who is a dear friend because of his relationship with the Lord.
 \v 9 I also send my greetings to Urbanus, who works for Christ with us, and to my dear friend Stachys.
@@ -42,8 +42,8 @@ to Persis. \add We all\add* love her and she has worked very hard for the Lord.
 though\add* I \add were her son\add* \f + \ft metaphor \f*. 
 \v 14 Tell Asyncritus and Phlegon and Hermes and Patrobas and Hermas and the fellow believers who
 \add meet\add* with them that I am sending my greetings to them.
-\v 15 I also send my greetings to Philologus, to \add his wife\add* Julia (OR,
-\add his sister\add* Julia), to Nereus and his sister, and to Olympas, and to all God's people who
+\v 15 I also send my greetings to Philologus, to \add his wife\add* Julia \f + \ft Or:
+\add his sister\add* Julia \f*, to Nereus and his sister, and to Olympas, and to all God's people who
 \add meet\add* with them. 
 \v 16 Greet one another affectionately, but in a pure way, \add when you gather
 together\add*. The \add believers in\add* all the Christian congregations \f + \ft hyperbole \f*
@@ -55,7 +55,7 @@ soon crush Satan under your feet.
 \p
 \v 17 My fellow believers, I exhort you that you beware of those people who are causing divisions among you and who cause
 people to turn away \add from God\add* \f + \ft metonymy \f* \add because they teach things
-that\add* are contrary to the message \add about Christ\add* that you have learned (OR, that others taught you). Keep away from
+that\add* are contrary to the message \add about Christ\add* that you have learned \f + \ft Or: that others taught you \f*. Keep away from
 such people! 
 \v 18 They do not serve our Lord Christ! On the contrary, they only want to satisfy their own desires \f + \ft metonymy \f*! Also, by all the
 eloquent things that they say \f + \ft doublet \f* they deceive the minds of those people who do not realize
@@ -91,7 +91,7 @@ Christ\add , I tell about God\add*, the one who is able to strengthen you
 \v 26 but which has now been {which \add he\add* has now} revealed.
 \add I, along with others, have proclaimed\add* what the prophets wrote
 \add about Christ\add*. We are doing what the eternal God commanded
-\add us(exc \f*\f + \ft Or: me \f* to do\add*. We want \add people in\add* all ethnic groups to know
+\add us(exc)\f + \ft Or: me \f* to do\add*. We want \add people in\add* all ethnic groups to know
 \add Christ\add* so that they can believe \add in him\add* and obey\add him\add*.
 \v 27  \add I desire that by\add* Jesus Christ \add enabling us,
 we\add* will forever praise the one who alone is God, who alone is

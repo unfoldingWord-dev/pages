@@ -15,7 +15,7 @@
 \b
 \q
 \v 4 Sing to God; sing to praise him; 
-\q sing a song \f + \ft Or: make a road) for him who rides on the clouds;
+\q sing a song \f + \ft Or: make a road \f* for him who rides on the clouds;
 \q his name is Yahweh; be glad when you are in his presence. 
 \q
 \v 5 God, who lives in his sacred temple, is like \f + \ft metaphor \f* a father to those who are orphans,
@@ -57,7 +57,7 @@ families\add*.
 \q
 \v 14 When Almighty \add God\add* scattered the \add enemy\add* kings
 \add and their armies\add*, 
-\q2 \add the number of weapons that they abandoned there\add* seemed like there had been a snowstorm on Zalmon (OR, a black)
+\q2 \add the number of weapons that they abandoned there\add* seemed like there had been a snowstorm on Zalmon \f + \ft Or: a black \f*
 \add Mountain\add*! 
 \b
 \q
@@ -127,14 +127,14 @@ drowned\add*.
 \q rebuke\f + \ft Or: trample \f* them until they bow down and give you gifts of silver.
 \q2 Scatter the people who delight to make wars. 
 \q
-\v 31 Then people will bring gifts of bronze (OR, of cloth) to you from Egypt;
+\v 31 Then people will bring gifts of bronze \f + \ft Or: of cloth \f* to you from Egypt;
 \q2 if you do that, the people in Ethiopia will lift up their hands
 \add to praise you\add*. 
 \b
 \q
 \v 32 You people who are citizens of kingdoms\f + \ft Or: countries \f* all over the world, sing to God!
 \q Sing praises to the Lord! 
-\qr (Think about that! \f* 
+\qr (Think about that!) 
 \q
 \v 33 Sing to the God, the one who rides in the sky, 
 \q2 the sky that \add he created\add* long ago. 

@@ -45,13 +45,13 @@ dragons'►\add* legs are
 \q
 \v 13 Can anyone strip off their hides?\f + \ft Or: No one is able to strip off their hides. \f* \f + \ft rhetorical question \f*
 \q2 Can anyone try to put bridles on them?\f + \ft Or: No one can try to put bridles on them. \f* \f + \ft rhetorical question \f* \f + \ft Or: Can anyone pierce their very
-thick hides?) 
+thick hides? \f* 
 \q
 \v 14 ◄Can anyone pry open their jaws, which have terrible teeth in them?\f + \ft Or: No \f* one can pry open their jaws, which have terrible
 teeth in them!► \f + \ft rhetorical question \f* 
 \q
 \v 15 They have rows of scales on their back 
-\q2 which are as hard as a rock (OR, tightly fastened together \f*.
+\q2 which are as hard as a rock \f + \ft Or: tightly fastened together \f*.
 \q
 \v 16 The scales are very close together, 
 \q2 with the result that not even air can get between them. 

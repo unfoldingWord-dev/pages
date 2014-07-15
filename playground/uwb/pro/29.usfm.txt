@@ -18,7 +18,7 @@
 \b
 \q
 \v 5 Those who flatter others\f + \ft Or: say nice things to others merely to cause them to feel good \f* are really setting a trap for them
-\f + \ft Or: for themselves) ( synecdoche ). 
+\f + \ft Or: for themselves \f* \f + \ft synecdoche \f*. 
 \b
 \q
 \v 6 Evil people will be trapped by the sins that they commit, 
@@ -35,7 +35,7 @@ that\add* cause everyone in the city to be agitated\f + \ft Or: in turmoil \f*;
 \b
 \q
 \v 9 If a wise person sues a foolish person, 
-\q2 the foolish person merely laughs at him and yells at him and will not be quiet (OR, the dispute will not be resolved \f*.
+\q2 the foolish person merely laughs at him and yells at him and will not be quiet \f + \ft Or: the dispute will not be resolved \f*.
 \b
 \q
 \v 10 Those who murder others hate people who are honest\f + \ft Or: always do what is right \f*,

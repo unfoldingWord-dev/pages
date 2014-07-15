@@ -24,11 +24,11 @@
 \v 6  \add Sometimes\add* the people of many nations are terrified;
 \q2 kingdoms are overthrown\f + \ft Or: cease to exist \f*; 
 \q God speaks \add loudly like thunder\add*, 
-\q2 and the earth melts \f + \ft Or: people everywhere become terrified) ( metaphor ).
+\q2 and the earth melts \f + \ft Or: people everywhere become terrified \f* \f + \ft metaphor \f*.
 \b
 \q
 \v 7 But Yahweh, the commander of the armies of heaven, is with us;
-\q2 the God whom Jacob worshiped (OR, we Israeli people worship) is our refuge.
+\q2 the God whom Jacob worshiped \f + \ft Or: we Israeli people worship \f* is our refuge.
 \qr (Think about that!) 
 \b
 \q
@@ -45,5 +45,5 @@
 \b
 \q
 \v 11  \add So never forget that\add* Yahweh, the commander of the armies of heaven, is with us;
-\q2 the God whom Jacob worshiped (OR, we Israeli people worship) is our refuge.
-\qr (Think about that! \f* 
+\q2 the God whom Jacob worshiped \f + \ft Or: we Israeli people worship \f* is our refuge.
+\qr (Think about that!) 

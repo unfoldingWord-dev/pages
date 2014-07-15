@@ -10,7 +10,7 @@
 \p
 \v 5 The king went to sleep again, and he had another dream. This time he saw seven heads of grain that were full of kernels of
 grain and ripe, and all growing on one stalk. 
-\v 6 After that, the king saw that seven other heads of grain sprouted on that \f + \ft Or: on another) stalk. They were thin and had
+\v 6 After that, the king saw that seven other heads of grain sprouted on that \f + \ft Or: on another \f* stalk. They were thin and had
 been dried up by the hot east wind. 
 \v 7 Then the thin heads of grain swallowed up the seven ripe full heads. Then the king woke up. He realized that he had been
 dreaming. 
@@ -94,7 +94,7 @@ So the king put Joseph in charge of everything in the country.
 \v 44 The king said to Joseph, “I am the king, but no one in the whole land of Egypt will do anything [IDI] if you do not
 permit them to do it.” 
 \v 45 The king gave Joseph a new name, Zaphenath-Paneah. He also gave him Asenath to be his wife. She was the daughter of
-Potiphera, who was a priest in a temple in On \add city\add*. Then Joseph became known (OR, traveled \f* through all the land of
+Potiphera, who was a priest in a temple in On \add city\add*. Then Joseph became known \f + \ft Or: traveled \f* through all the land of
 Egypt. 
 \p
 \v 46 Joseph was thirty years old when he started to work for the king of Egypt. To do his work, he left the king's palace and

@@ -150,7 +150,7 @@ promised\add*.
 \v 43 You have caused his sword to become useless, 
 \q2 and you have not helped him in his battles. 
 \q
-\v 44 You have caused his splendor to end \f + \ft Or: You have taken away his power as king ( metonymy ))
+\v 44 You have caused his splendor to end \f + \ft Or: You have taken away his power as king ( metonymy ) \f*
 \q2 and knocked his throne to the ground. 
 \q
 \v 45 You have caused him to become old when he is still young 
@@ -167,7 +167,7 @@ promised\add*.
 \q
 \v 48 No one can \f + \ft rhetorical question \f* keep on living and never die; 
 \q2 No one can \f + \ft rhetorical question \f* avoid going\f + \ft Or: Everyone will go \f* to the place of the dead.
-\qr (Think about that! \f* 
+\qr (Think about that!) 
 \b
 \q
 \v 49 Yahweh, you promised long ago 

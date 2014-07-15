@@ -39,7 +39,7 @@ target\add*
 \q
 \v 9 If a drunk person waves some thorns\f + \ft Or: brambles \f* with his hand,
 \q2 \add he is not able to accomplish anything useful by doing that\add* \f + \ft Or:
-\add he does not feel it when a thorn sticks in his hand\add*); 
+\add he does not feel it when a thorn sticks in his hand\add* \f*; 
 \q similarly, if foolish people speak \f + \ft metonymy \f* proverbs, 
 \q2 \add they do not help anyone who hears them\add*. 
 \b
@@ -119,5 +119,5 @@ like\add* \f + \ft simile \f* they enjoy tasty food;
 \add to crush someone\add*. 
 \b
 \q
-\v 28 Those \f + \ft metonymy \f* who tell lies to (OR, about \f* others really hate them,
+\v 28 Those \f + \ft metonymy \f* who tell lies to \f + \ft Or: about \f* others really hate them,
 \q2 and those who deceive others ruin them. 

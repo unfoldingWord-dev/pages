@@ -130,7 +130,7 @@ you\add (sg)\add* have answered very well!”
 \s Luke 20:41-44 (Mt. 22:41-45; Mk. 12:35-37) 
 \s Jesus showed them that the Messiah must be greater than King David.
 \p
-\v 41  \add Later\add* he said to them, “◄I will show you \f + \ft Or: prove to you) that people
+\v 41  \add Later\add* he said to them, “◄I will show you \f + \ft Or: prove to you \f* that people
 \add are wrong who\add* say that the Messiah is \add merely\add* a descendant of
 \add King\add* David!\f + \ft Or: Why \f* do people say that the Messiah is \add merely\add* a descendant of
 \add King\add* David?► \f + \ft rhetorical question \f* 
@@ -146,7 +146,7 @@ you(sg)\add* \f + \ft metonymy \f*.
 \add King\add* David!\f + \ft Or: how \f* can the Messiah be \add just\add* someone descended from
 \add King\add* David?► \f + \ft rhetorical question \f* \add What I just said proves that he is much greater than David, isn't that
 right?\add*” 
-\s Luke 20:45-47 (Mt. 23:1-36; Mk. 12:38-40 \f* 
+\s Luke 20:45-47 (Mt. 23:1-36; Mk. 12:38-40) 
 \s Jesus warned them not to show off like the teachers of the Jewish laws did.
 \p
 \v 45 While all the \add other\add* people were listening, \add Jesus\add* said to his disciples,

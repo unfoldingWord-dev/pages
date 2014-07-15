@@ -1,6 +1,6 @@
 \c 3  
 \p
-\v 1 Anyone who aspires to be an elder \add in the congregation\add* \f + \ft Or: a bishop) desires a noble( Or: honorable ) task.
+\v 1 Anyone who aspires to be an elder \add in the congregation\add* \f + \ft Or: a bishop \f* desires a noble\f + \ft Or: honorable \f* task.
 \v 2  \add Since that is a task that others should respect\add*, an overseer must
 \add conduct himself\add* in such a way that \add no one\add* can truly say that he has done
 \add anything that is\add* wrong\f + \ft Or: find fault with him \f*. Specifically,
@@ -31,7 +31,7 @@ not like to drink much alcohol. They must not be greedy\f + \ft Or: have a stron
 \add to us\add*. 
 \v 10  \add Like you do for the elders\add*, you must examine ◄\add their character\f + \ft Or: how \f* they conduct their
 lives\add*► \add before you appoint them to serve\add*. Then if they are without fault, let them serve as deacons.
-\v 11 Their wives (OR, The women who are deacons) likewise \add must conduct themselves suitably\f + \ft Or: appropriately \f*. Specifically,
+\v 11 Their wives \f + \ft Or: The women who are deacons \f* likewise \add must conduct themselves suitably\f + \ft Or: appropriately \f*. Specifically,
 they must be\add* serious\f + \ft Or: worthy that people respect them \f*. They must not speak evil about people. They must not drink much
 alcohol. They must be faithful in everything that they do. 
 \v 12 Deacons must be faithful to their wives, and they must lead well and care well for their children and
@@ -46,11 +46,11 @@ their lives \add and you will be able to teach that to them\add*.
 \add I am talking about\add* all those who are members of God's family, all the congregations that belong to the all-powerful
 God, all those who uphold\f + \ft Or: support \f* \f + \ft metaphor \f* the true \add message\add*.
 \v 16 It is certainly true that \add the message that God\add* has now revealed is very wonderful! From it, we learn this
-spiritual truth that we say\f + \ft Or: sing \f* about \add Christ\add* (OR, We affirm this teaching to be true and very important.) It is what
+spiritual truth that we say\f + \ft Or: sing \f* about \add Christ\add* \f + \ft Or: We affirm this teaching to be true and very important. \f* It is what
 shows us how to live in a godly manner\f + \ft Or: in a manner that pleases God \f*. It is what God has now revealed, even though it was not
 known before\add . We\add* \add affirm\f + \ft Or: say that it is true\add* \f* concerning Jesus Christ that,
 \q He is the one who appeared on the earth in a human body. 
-\q God's Spirit showed\f + \ft Or: demonstrated \f* that he is\f + \ft Or: was \f* truly the Messiah (OR, that he always acted righteously \f*;
+\q God's Spirit showed\f + \ft Or: demonstrated \f* that he is\f + \ft Or: was \f* truly the Messiah \f + \ft Or: that he always acted righteously \f*;
 \q Angels saw him; people preached about him in many nations; 
 \q People in many parts of the world believed the message about him.
 \q God took him up into heaven. 

@@ -3,7 +3,7 @@
 \p
 \v 1 Issachar's four sons were Tola, Puah, Jashub, and Shimron. 
 \li
-\v 2 Tola's sons were Uzzi, Rephaiah, Jeriel, Jahmai, Ibsam, and Samuel \f + \ft Or: Shemuel).
+\v 2 Tola's sons were Uzzi, Rephaiah, Jeriel, Jahmai, Ibsam, and Samuel \f + \ft Or: Shemuel \f*.
 \li2 They were all leaders of the clans \add descended from\add* them.
 \li In the record of Tola's descendants were the names of 22,600 men who were able to be in the army during the time that David
 was the king \add of Israel\add*. 
@@ -117,7 +117,7 @@ Dor, and the nearby villages.
 \v 34 Japhlet's \add younger\add* brother was Shomer. 
 \li2 Shomer's sons were Rohgah, Hubbah, and Aram. 
 \li
-\v 35 Shomer's \add younger\add* brother was Hotham (OR, Helem \f*.
+\v 35 Shomer's \add younger\add* brother was Hotham \f + \ft Or: Helem \f*.
 \li2 Hotham's sons were Zophah, Imna, Shelesh, and Amal. 
 \li
 \v 36 Zophah's sons were Suah, Harnepher, Shual, Beri, Imrah, 

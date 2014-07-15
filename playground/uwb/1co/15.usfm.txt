@@ -82,9 +82,9 @@ will cause everything to be under Christ's \add authority\add* \f + \ft metonymy
 \add the authority of\add* God, the one who gave him that authority. Then God will be completely in control of everything
 \f + \ft idiom \f*, everywhere. 
 \p
-\v 29  \add Now think about this: Some among you\add* are being baptized \f + \ft Or: are baptizing people) on behalf of those who died
-\add before someone baptized them\add* (OR, who died \add before they became
-believers\add*). If, \add as some people say, believers\add* will not be raised
+\v 29  \add Now think about this: Some among you\add* are being baptized \f + \ft Or: are baptizing people \f* on behalf of those who died
+\add before someone baptized them\add* \f + \ft Or: who died \add before they became
+believers\add* \f*. If, \add as some people say, believers\add* will not be raised
 \add from the dead\add* {\add God\add* will not cause \add believers\add* to become alive again}, what is the value in those
 people doing that?\f + \ft Or: there is no value in those people doing that! \f* \f + \ft rhetorical question \f* If
 \add God\add* will not cause any \add believers\add* to become alive again, it is senseless to be baptized {baptize anyone} on
@@ -121,8 +121,8 @@ that\add* a seed that is planted in the ground must completely change its form \
 \v 37 A seed, such as a wheat seed, is very different from the plant that sprouts from it.
 \v 38 God gives everything that lives the form that he desires. He gives each seed its own form.
 \v 39  \add Similarly\add*, people, animals, birds, and fish all have flesh, but each one has a different kind of flesh.
-\v 40 Also, there are angelic beings in heaven (OR, stars and planets in the sky), and there are people with bodies on the
-earth. The angelic beings (OR, stars and planets) are beautiful in one way, and people on earth are beautiful in a different
+\v 40 Also, there are angelic beings in heaven \f + \ft Or: stars and planets in the sky \f*, and there are people with bodies on the
+earth. The angelic beings \f + \ft Or: stars and planets \f* are beautiful in one way, and people on earth are beautiful in a different
 way. 
 \v 41 The sun is bright in one way, and the moon is bright in a different way, and the stars are bright in a different way. And
 even the various stars are different from each other in how bright they are.
@@ -137,7 +137,7 @@ die\add* are weak. But our new bodies will be strong.
 \v 44 The bodies that we have before we die are natural bodies. But
 \add our new bodies\add* will be ones that \add God's\add* Spirit
 \add controls\f + \ft Or: gives us\add* \f*. Just like there are natural bodies, there are bodies that
-\add God's\add* Spirit \add completely\add* controls (OR, makes alive).
+\add God's\add* Spirit \add completely\add* controls \f + \ft Or: makes alive \f*.
 \p
 \v 45  \add In the Scriptures\add* it is written {we read} that \add when\add* the first man, Adam,
 \add was created\add*, he became a living human being. \add Christ later also became a human
@@ -152,7 +152,7 @@ our natural bodies first.
 \v 49 And just like \add God\add* gave us bodies like the first man on earth had, so we
 \add believers will have bodies\add* like \add Christ\add* has, who is now in heaven.
 \p
-\v 50 My fellow believers, I want you to know that we\add (inc \f*\add* \f + \ft synecdoche \f* cannot go
+\v 50 My fellow believers, I want you to know that we\add (inc)\add* \f + \ft synecdoche \f* cannot go
 \add to heaven, where\add* God rules \add over everything\add*, with our physical bodies, because our bodies
 \add cannot last forever\add*. They will die and decay. 
 \v 51 But I will tell you something that \add God\add* has not revealed

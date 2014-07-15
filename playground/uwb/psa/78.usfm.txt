@@ -97,7 +97,7 @@ people.►” \f + \ft rhetorical question \f*
 \q
 \v 28 God caused those birds to fall in the middle of their camp\f + \ft Or: the area where they had put up their tents \f*,
 \add and the birds died\add* \f + \ft Or: \add and the people grabbed them and killed
-them\add*). 
+them\add* \f*. 
 \q2 \add There were birds\add* all around their tents. 
 \q
 \v 29 So the people \add cooked the birds and\add* ate the meat and their stomachs were full,
@@ -156,7 +156,7 @@ them\add*.
 \v 43 They forgot about when he performed many miracles 
 \q2 in the area near Zoan \add city\add* in Egypt. 
 \q
-\v 44 He caused the \add Nile\add* River (OR, their sources of water) to become
+\v 44 He caused the \add Nile\add* River \f + \ft Or: their sources of water \f* to become
 \add red like\add* blood, 
 \q2 with the result that the people of Egypt had no water to drink.
 \q
@@ -191,7 +191,7 @@ leads\add* his sheep \f + \ft simile \f*,
 \q but their enemies were drowned in the sea. 
 \q
 \v 54 Later he brought them to \add Canaan\add*, his sacred land,
-\q2 to \add Zion\add* Hill (OR, the hilly area) 
+\q2 to \add Zion\add* Hill \f + \ft Or: the hilly area \f* 
 \q2 and by his power \f + \ft metonymy \f* he enabled them to conquer \add the people who were living
 there\add*. 
 \q
@@ -232,7 +232,7 @@ straight\add* \f + \ft simile \f*.
 \b
 \q
 \v 65 Later, \add it was as though\add* the Lord awoke from sleeping;
-\q he was like a strong man who became stimulated\f + \ft Or: felt that he was strong \f* by (OR, became sober after \f*
+\q he was like a strong man who became stimulated\f + \ft Or: felt that he was strong \f* by \f + \ft Or: became sober after \f*
 \add drinking\add* a lot of wine \f + \ft simile \f*. 
 \q
 \v 66 He pushed their enemies back 

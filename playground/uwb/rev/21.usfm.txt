@@ -65,7 +65,7 @@ a\add* lamb.
 \add he reported that it was\add* 1500 miles\f + \ft Or: 2400 kilometers \f* long, and that its width and height were each the same as
 \add its length\add*. 
 \v 17 He measured its wall \add and reported that it was\add* ◄\add 216 ft.\f + \ft Or: 70 \f*
-meters\add*► \add thick\add* \f + \ft Or: \add high\add*). The angel used the measure that people
+meters\add*► \add thick\add* \f + \ft Or: \add high\add* \f*. The angel used the measure that people
 \add normally use\add*. 
 \s Revelation 21:18-27 
 \s John described the composition of the city, its wall, its foundations, its gates, and its street, emphasizing the extreme
@@ -92,7 +92,7 @@ like\add* hyacinth, the twelfth \add foundation stone was a purple stone
 like\add* amethyst. 
 \v 21 The twelve gates \add of the city\add* were \add something like
 huge\add* pearls. Each gate was like \add it was\add* a single pearl. The
-\add ground of\add* the main plaza of the city (OR, The streets of the city \f*
+\add ground of\add* the main plaza of the city \f + \ft Or: The streets of the city \f*
 \add appeared to be\add* pure gold \add that looked\add* like clear glass.
 \p
 \v 22 There was no temple in the city. The Lord God Almighty \add himself\add*, and the
