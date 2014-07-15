@@ -1,7 +1,7 @@
 \c 27  
 \q
 \v 1 Do not boast about \add what you will do\add* tomorrow, 
-\q2 because you do not know what will happen \\f + \\ft personification \\f* on the next day.
+\q2 because you do not know what will happen \f + \ft personification \f* on the next day.
 \b
 \q
 \v 2 Do not praise yourself [MTY, PRS]; allow others to praise you.
@@ -11,11 +11,11 @@
 \v 3  \add It causes pain to our bodies to carry heavy\add* stones or
 \add a pail full of\add* sand, 
 \q2 but doing something stupid\f + \ft Or: foolish \f* \add can cause\add* bigger
-\add pain to other people's ◄spirits\f + \ft Or: inner \f* beings\add*►. 
+\add pain to other people's spirits\f + \ft Or: inner beings\add* \f*. 
 \b
 \q
 \v 4 It is cruel to be angry with others, and our being angry sometimes destroys others,
-\q2 but being jealous of someone is \\f + \\ft rhetorical question \\f* often more cruel than that.
+\q2 but being jealous of someone is \f + \ft rhetorical question \f* often more cruel than that.
 \b
 \q
 \v 5 It is better to correct someone openly 
@@ -33,7 +33,7 @@ to\add* deceive you.
 \b
 \q
 \v 8 Anyone who wanders far from his home\f + \ft Or: family \f* 
-\q2 is like \\f + \\ft simile \\f* a bird that is far from its nest. 
+\q2 is like \f + \ft simile \f* a bird that is far from its nest. 
 \b
 \q
 \v 9  \add Putting olive\add* oil and perfume on a person's skin causes him to feel good,
@@ -57,8 +57,8 @@ better\add*.
 \b
 \q
 \v 13  \add You deserve to\add* have your property taken from you
-\q2 if you foolishly promise to a stranger \f + \ft (OR, a strange woman) \f* that you will pay what she owes if she is unable to pay it
-\\f + \\ft doublet \\f*. 
+\q2 if you foolishly promise to a stranger \f + \ft Or: a strange woman \f* that you will pay what she owes if she is unable to pay it
+\f + \ft doublet \f*. 
 \b
 \q
 \v 14 If you rise early in the morning and call out a greeting to your neighbor
@@ -70,12 +70,12 @@ better\add*.
 you\add* 
 \q2 is as bad as listening to rain continually dripping on a rainy day.
 \q
-\v 16 Trying to restrain\f + \ft Or: stop \f* her from doing that is as difficult \\f + \\ft simile \\f* as trying to stop the wind
+\v 16 Trying to restrain\f + \ft Or: stop \f* her from doing that is as difficult \f + \ft simile \f* as trying to stop the wind
 \q2 or trying to hold oil in your hand. 
 \b
 \q
 \v 17 We can use one iron tool to sharpen another iron tool; 
-\q2 similarly \\f + \\ft simile \\f*, \add when one person shares\add* what he is thinking, it can help other people
+\q2 similarly \f + \ft simile \f*, \add when one person shares\add* what he is thinking, it can help other people
 \add to think more clearly\add*. 
 \b
 \q
@@ -84,32 +84,32 @@ you\add*
 \b
 \q
 \v 19  \add When a person looks\add* in the water, he sees his own face;
-\q2 similarly \\f + \\ft simile \\f*, \add when we look at\add* a person's behavior, we know what is in his inner being.
+\q2 similarly \f + \ft simile \f*, \add when we look at\add* a person's behavior, we know what is in his inner being.
 \b
 \q
 \v 20  \add It is as though\add* the place where the dead people are is always wanting more people to
 \add die and\add* come there; 
-\q2 and humans \\f + \\ft synecdoche \\f* are always wanting to acquire more things, too.
+\q2 and humans \f + \ft synecdoche \f* are always wanting to acquire more things, too.
 \b
 \q
 \v 21  \add Workers put\add* silver and gold in a very hot furnace
 \add to burn out what is impure\add*, 
-\q2 and \\f + \\ft simile \\f* people learn \add what we are really like when they see how we react when
+\q2 and \f + \ft simile \f* people learn \add what we are really like when they see how we react when
 people\add* praise us. 
 \b
 \q
-\v 22 Even if you beat\f + \ft Or: crush \f* a fool severely like \\f + \\ft metaphor \\f* you pulverize grain with a pestle,
-\q2 you probably will not be able to cause him to stop ◄being foolish\f + \ft Or: doing \f* foolish things►.
+\v 22 Even if you beat\f + \ft Or: crush \f* a fool severely like \f + \ft metaphor \f* you pulverize grain with a pestle,
+\q2 you probably will not be able to cause him to stop being foolish\f + \ft Or: doing foolish things \f*.
 \b
 \q
 \v 23 Take good care of your flocks of sheep 
 \q and herds of cattle, 
 \q2
 \v 24 because the money that you acquired \add from selling animals
-previously\add* will not ◄last\f + \ft Or: stay \f* with you► forever; 
-\q2 similarly \\f + \\ft simile \\f*, governments \\f + \\ft metonymy \\f* certainly do not \\f + \\ft rhetorical question \\f* last forever.
+previously\add* will not last\f + \ft Or: stay with you \f* forever; 
+\q2 similarly \f + \ft simile \f*, governments \f + \ft metonymy \f* certainly do not \f + \ft rhetorical question \f* last forever.
 \q
-\v 25 After you cut the hay \\f + \\ft doublet \\f* and \add store it to feed the animals in the winter
+\v 25 After you cut the hay \f + \ft doublet \f* and \add store it to feed the animals in the winter
 while\add* a new crop of hay is growing, 
 \q
 \v 26 you will be able to \add shear the sheep and\add* make clothes from the wool,

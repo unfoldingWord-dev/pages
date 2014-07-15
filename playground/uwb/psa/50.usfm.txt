@@ -57,7 +57,7 @@ me\add*.
 \q2 If you do that, I will rescue you, and then you will praise me.
 \q
 \v 16 But I say this to the wicked people: 
-\q ◄Why do you\f + \ft Or: It \f* does not benefit you at all to► \\f + \\ft rhetorical question \\f* recite my commandments
+\q Why do you\f + \ft Or: It does not benefit you at all to \f* \f + \ft rhetorical question \f* recite my commandments
 \q2 or talk about the agreement that I made with you, 
 \q
 \v 17 because you have refused to allow me to discipline you, 
@@ -66,7 +66,7 @@ me\add*.
 \v 18 Every time that you see a thief, you become his friend, 
 \q2 and you spend much time with those who commit adultery. 
 \q
-\v 19 You are always talking \\f + \\ft metonymy \\f* about doing wicked things, 
+\v 19 You are always talking \f + \ft metonymy \f* about doing wicked things, 
 \q2 and you are always trying to deceive people. 
 \q
 \v 20 You are always accusing members of your own family 

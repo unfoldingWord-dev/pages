@@ -4,14 +4,14 @@
 \v 1 Then Yahweh said to Job, 
 \q
 \v 2 “Do you still want to argue with me, the Almighty One? 
-\q2 Since you criticize me, ◄you should be able to answer my questions!\f + \ft Or: why \f* are you not able to answer my questions?► \\f + \\ft rhetorical question \\f*”
+\q2 Since you criticize me, you should be able to answer my questions!\f + \ft Or: why are you not able to answer my questions? \f* \f + \ft rhetorical question \f*”
 \s Job replied to Yahweh 
 \p
 \v 3 Then Job replied to Yahweh, 
 \q
 \v 4 “\add Now I realize that\add* I am completely worthless. So ◄how could I answer
 \add those questions\add*?\f + \ft Or: I \f* could not possibly answer \add those
-questions\add*!► \\f + \\ft rhetorical question \\f* 
+questions\add*!► \f + \ft rhetorical question \f* 
 \q2 I will put my hand over my mouth \add and not say anything\add*.
 \q
 \v 5 I have already said more than I should have said, 
@@ -21,14 +21,14 @@ questions\add*!► \\f + \\ft rhetorical question \\f*
 \v 6 Then Yahweh \add again\add* spoke to Job from inside the great windstorm. He said,
 \q
 \v 7 “I want to ask you some more questions. 
-\q2 So as men prepare themselves for a difficult task \\f + \\ft metaphor \\f*, 
+\q2 So as men prepare themselves for a difficult task \f + \ft metaphor \f*, 
 \q2 prepare yourself again to answer some more questions. 
 \b
 \q
 \v 8 Are you going to accuse me and say that I am unjust? 
 \q2 Are you going to say that what I have done is wrong, in order that you can say that what you have done is right?
 \q
-\v 9 Do you have the same amount of power \\f + \\ft metonymy \\f* as I do? 
+\v 9 Do you have the same amount of power \f + \ft metonymy \f* as I do? 
 \q2 Can your voice sound as loud as thunder, as mine can? 
 \q
 \v 10 If you can do that, put on the robes 
@@ -55,7 +55,7 @@ questions\add*!► \\f + \\ft rhetorical question \\f*
 \v 16 Their legs\f + \ft Or: thighs \f* are very strong, 
 \q2 and the muscles of their bellies are very powerful. 
 \q
-\v 17 Their tails are stiff \f + \ft (OR, bend down) \f* like the branches of a cedar tree.
+\v 17 Their tails are stiff \f + \ft Or: bend down \f* like the branches of a cedar tree.
 \q2 The sinews\f + \ft Or: muscles \f* of their thighs are close together. 
 \q
 \v 18 Their thigh bones are like tubes made of bronze, 
@@ -64,8 +64,8 @@ questions\add*!► \\f + \\ft rhetorical question \\f*
 \v 19 Hippopotamuses\f + \ft Or: Behemoths \f* are among the strongest of the animals that I made,
 \q2 and I, who created them, am the only one who can kill them. 
 \q
-\v 20 On the hills grows food \\f + \\ft personification \\f* for them to eat 
-\q2 while many \\f + \\ft hyperbole \\f* other wild animals play nearby. 
+\v 20 On the hills grows food \f + \ft personification \f* for them to eat 
+\q2 while many \f + \ft hyperbole \f* other wild animals play nearby. 
 \q
 \v 21 They lie down \add in the water\add* under the lotus plants;
 \q2 they hide in tall reeds in the swamps. 
@@ -77,5 +77,5 @@ questions\add*!► \\f + \\ft rhetorical question \\f*
 \q2 they are not even disturbed\f + \ft Or: frightened \f* when \add rivers like
 the\add* Jordan \add River\add* rush over them. 
 \q
-\v 24 No one can \\f + \\ft rhetorical question \\f* catch them by blinding their eyes 
+\v 24 No one can \f + \ft rhetorical question \f* catch them by blinding their eyes 
 \q2 or by piercing their noses with the teeth of a trap!” 

@@ -41,9 +41,9 @@ to:\add*
 \add north\add* into the hilly area. 
 \v 18 See what the land is like. See if the people who live there are strong or weak. See if there are many people or only a
 few people. 
-\v 19 Find out what kind of land they live in \\f + \\ft rhetorical question \\f*. Is it good or bad? Find out about the towns in which they live \\f + \\ft rhetorical question \\f*. Do
+\v 19 Find out what kind of land they live in \f + \ft rhetorical question \f*. Is it good or bad? Find out about the towns in which they live \f + \ft rhetorical question \f*. Do
 they have walls around them or not? 
-\v 20 Find out about the soil \\f + \\ft rhetorical question \\f*. Is it ◄fertile\f + \ft Or: good \f* for growing crops► or not? Find out if there are trees there \\f + \\ft rhetorical question \\f*.
+\v 20 Find out about the soil \f + \ft rhetorical question \f*. Is it fertile\f + \ft Or: good for growing crops \f* or not? Find out if there are trees there \f + \ft rhetorical question \f*.
 Try to bring back some of the fruit that grows in that land.” \add He said that
 because\add* it was the beginning of the time to harvest grapes.
 \p
@@ -82,4 +82,4 @@ the land, because we are certainly able to conquer it!”
 explored is very large; we cannot conquer it. And all the people whom we saw are very tall.
 \v 33 We even saw the descendants of Nephili there. The descendants of Anak
 \add whom we saw there\add* are descended from the \add giant\add* Nephili people. When we saw them, we felt
-\add as small as\add* grasshoppers \\f + \\ft simile \\f*, and they thought that we looked like grasshoppers too!”
+\add as small as\add* grasshoppers \f + \ft simile \f*, and they thought that we looked like grasshoppers too!”

@@ -2,7 +2,7 @@
 \s Joseph told two other prisoners the meaning of their dreams 
 \p
 \v 1 Some time later, two of the king of Egypt's officials did things that displeased him. One was his chief ◄drink-server\f + \ft Or: man \f*
-who prepared the wine and served it to the king►, and the other was his chief ◄baker\f + \ft Or: man \f* who baked bread for the king►.
+who prepared the wine and served it to the king►, and the other was his chief baker\f + \ft Or: man who baked bread for the king \f*.
 \v 2 The king became angry with both of them. 
 \v 3 So he had them put in prison, in the house of the captain of the palace guards. That was the place where Joseph was being
 kept. 
@@ -15,7 +15,7 @@ different meaning.
 \v 6 The next morning, when Joseph came to them, he saw that both of them were dejected\f + \ft Or: worried \f*.
 \v 7 So he asked them, “Why do you look so sad today?” 
 \v 8 One of them answered, “We both had dreams last night, but there is no one who can tell us the meaning of the dreams.”
-Joseph said to them, “It is God who can \\f + \\ft rhetorical question \\f* tell the meaning of dreams. So tell me what you dreamed, and God will tell me the
+Joseph said to them, “It is God who can \f + \ft rhetorical question \f* tell the meaning of dreams. So tell me what you dreamed, and God will tell me the
 meaning.” 
 \v 9 So the king's chief drink-server told his dream to Joseph. He said, “In my dream I saw a grapevine in front of me.
 \v 10 On the vine there were three branches. After the branches budded, they blossomed, and then they produced clusters of
@@ -39,7 +39,7 @@ was on my head!”
 \v 19 Within three days the king will command that your head be cut off. Then your body will be hung on a tree, and vultures
 will come and eat your flesh.” 
 \p
-\v 20 The third day after that was the ◄king's birthday\f + \ft Or: day \f* they celebrated when the king became one year older►. On that day
+\v 20 The third day after that was the king's birthday\f + \ft Or: day they celebrated when the king became one year older \f*. On that day
 the king invited all his officials to celebrate his birthday. During the celebration, while they were all gathered there, the
 king summoned his chief drink-server and chief baker from the prison.
 \v 21 He said that his chief drink-server could have his previous job again, so that again he took cups of wine to the king.

@@ -9,7 +9,7 @@
 \b
 \q
 \v 3 A poor person who oppresses other poor people 
-\q2 is like \\f + \\ft metaphor \\f* a very heavy\f + \ft Or: hard \f* rain that \add destroys the crops\add* with the result that there is no food
+\q2 is like \f + \ft metaphor \f* a very heavy\f + \ft Or: hard \f* rain that \add destroys the crops\add* with the result that there is no food
 \add for people to eat\add*. 
 \b
 \q
@@ -26,28 +26,28 @@
 \b
 \q
 \v 7 Young people who obey the laws are wise [IDI]; 
-\q2 parents whose children associate with those who ◄carouse\f + \ft Or: go \f* to wild parties► are humiliated\f + \ft Or: disgraced \f* because of what their
+\q2 parents whose children associate with those who carouse\f + \ft Or: go to wild parties \f* are humiliated, Or: disgraced because of what their
 children do. 
 \b
 \q
-\v 8 When people become very rich by charging very big interest \\f + \\ft doublet \\f*,
+\v 8 When people become very rich by charging very big interest \f + \ft doublet \f*,
 \q2 their money will eventually go to someone who does kind things for the poor.
 \b
 \q
-\v 9 If people do not obey \\f + \\ft metonymy \\f* God's laws, 
-\q2 God ◄detests their prayers\f + \ft Or: considers \f* that their prayers stink►.
+\v 9 If people do not obey \f + \ft metonymy \f* God's laws, 
+\q2 God detests their prayers\f + \ft Or: considers that their prayers stink \f*.
 \b
 \q
 \v 10 Those who cause honest\f + \ft Or: good \f* people to do what is evil 
 \q2 will fall into their own pits\f + \ft Or: traps \f*, 
-\q2 but good things will happen to those who ◄are innocent\f + \ft Or: have \f* not done what is wrong►.
+\q2 but good things will happen to those who are innocent\f + \ft Or: have not done what is wrong \f*.
 \b
 \q
 \v 11  \add Many\add* rich people think that they are wise, 
 \q2 but poor people who have good sense will find out whether the rich people really are wise or not.
 \b
 \q
-\v 12 When righteous\f + \ft Or: good \f* people ◄succeed\f + \ft Or: win \f* \add elections\add*►, everyone ◄celebrates\f + \ft Or: is \f* happy►;
+\v 12 When righteous\f + \ft Or: good \f* people succeed\f + \ft Or: win \add elections\add*►, everyone ◄celebrates, Or: is happy \f*;
 \q2 but when wicked people win, everyone hides \add because they are afraid of what the wicked people will
 do\add*. 
 \b
@@ -61,16 +61,16 @@ do\add*.
 \b
 \q
 \v 15 Wicked people who \add mistreat\add* poor people whom they rule
-\q2 are \add as dangerous to them as\add* \\f + \\ft simile \\f* a lion roaring at them or a bear springing up at them.
+\q2 are \add as dangerous to them as\add* \f + \ft simile \f* a lion roaring at them or a bear springing up at them.
 \b
 \q
 \v 16 Rulers who do not have good sense cruelly oppress \add the people they
 rule\add*, 
-\q2 but rulers who do not want to become rich by cheating\f + \ft Or: deceiving \f* people will live \f + \ft (OR, rule) \f* for a long time.
+\q2 but rulers who do not want to become rich by cheating\f + \ft Or: deceiving \f* people will live \f + \ft Or: rule \f* for a long time.
 \b
 \q
-\v 17 Those who are guilty of murdering \\f + \\ft metonymy \\f* another person 
-\q2 will ◄be fugitives\f + \ft Or: keep \f* running away► until they die; 
+\v 17 Those who are guilty of murdering \f + \ft metonymy \f* another person 
+\q2 will be fugitives\f + \ft Or: keep running away \f* until they die; 
 \q2 do not help them to escape. 
 \b
 \q
@@ -80,15 +80,15 @@ rule\add*,
 \q
 \v 19 Farmers who work hard in their fields will \add produce good
 crops\add* and always have plenty of food to eat, 
-\q2 but those who spend all their time ◄on useless projects\f + \ft Or: doing \f* things that do not benefit anyone► will become very poor.
+\q2 but those who spend all their time on useless projects\f + \ft Or: doing things that do not benefit anyone \f* will become very poor.
 \b
 \q
-\v 20  \add God\add* will greatly bless those who ◄are trustworthy\f + \ft Or: always \f* do what they say that they will do►,
-\q2 but he will certainly punish \\f + \\ft litotes \\f* those who try to become rich quickly.
+\v 20  \add God\add* will greatly bless those who are trustworthy\f + \ft Or: always do what they say that they will do \f*,
+\q2 but he will certainly punish \f + \ft litotes \f* those who try to become rich quickly.
 \b
 \q
 \v 21 It is not good for judges to decide matters unfairly\f + \ft Or: unjustly \f*,
-\q2 but some people will do what is wrong even if they receive only a very small bribe \\f + \\ft hyperbole \\f*
+\q2 but some people will do what is wrong even if they receive only a very small bribe \f + \ft hyperbole \f*
 \add for doing it\add*. 
 \b
 \q
@@ -97,7 +97,7 @@ crops\add* and always have plenty of food to eat,
 \b
 \q
 \v 23 Those who rebuke someone will be appreciated\f + \ft Or: thanked \f* more 
-\q2 than those who \add say nice things to others merely\add* to ◄flatter them\f + \ft Or: cause \f* them to feel good►.
+\q2 than those who \add say nice things to others merely\add* to flatter them\f + \ft Or: cause them to feel good \f*.
 \b
 \q
 \v 24 Anyone who steals things from his father or his mother 
@@ -110,7 +110,7 @@ crops\add* and always have plenty of food to eat,
 \b
 \q
 \v 26 Those who believe that what they think \add is always right\add* are foolish;
-\q2 those who act wisely will ◄escape danger\f + \ft Or: be \f* safe►. 
+\q2 those who act wisely will escape danger\f + \ft Or: be safe \f*. 
 \b
 \q
 \v 27 Those who give things to poor people will not become poor,

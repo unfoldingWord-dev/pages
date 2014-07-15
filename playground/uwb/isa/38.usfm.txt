@@ -12,7 +12,7 @@ pleased you!” Then Hezekiah started to cry loudly.
 \v 4  \add I left his room, but\add* Yahweh gave me this message:
 \v 5 “Go back to Hezekiah and tell him that this is what I, the God to whom your ancestor King David belonged, say: ‘I have
 heard what you prayed, and I have seen you crying. So listen: I will enable you to live fifteen years more.
-\v 6 And, I will rescue and this city from the power \\f + \\ft metonymy \\f* of the king of Assyria. I will defend this city.
+\v 6 And, I will rescue and this city from the power \f + \ft metonymy \f* of the king of Assyria. I will defend this city.
 \p
 \v 7 And this is what I will do to prove that I will do what I have just now promised. I will cause the shadow of the sun to
 move ten steps backward on the sundial that was built by King Ahaz.’ ”
@@ -31,14 +31,14 @@ live\add*?”
 \q2 or be with others who now are alive in this world. 
 \q
 \v 12  \add It is as if\add* my life has been taken away 
-\q2 like \\f + \\ft simile \\f* a tent \add whose pegs\add* have been pulled up by a shepherd and taken away.
+\q2 like \f + \ft simile \f* a tent \add whose pegs\add* have been pulled up by a shepherd and taken away.
 \q My time to live has been cut short, 
 \q2 like a piece of cloth that a weaver \add cuts and\add* rolls up
 \add after he has finished weaving a cloth\add*.” 
 \q2 Suddenly, \add it seemed that\add* my life was ending. 
 \q
 \v 13 I waited patiently all during the night, 
-\q2 but \add my pain was as though\add* \\f + \\ft metaphor \\f* I was being torn apart by lions.
+\q2 but \add my pain was as though\add* \f + \ft metaphor \f* I was being torn apart by lions.
 \q2 \add It seemed that\add* my life was finished. 
 \q
 \v 14  \add I was delirious, and\add* I chirped like a swift or a swallow,
@@ -47,12 +47,12 @@ live\add*?”
 \q2 I cried out, ‘Yahweh, help me, because I am distressed!’ 
 \b
 \q
-\v 15 But there was really nothing\\f + \\ft rhetorical question \\f* that I could say and ask him to reply to me,
+\v 15 But there was really nothing\f + \ft rhetorical question \f* that I could say and ask him to reply to me,
 \q2 because it was Yahweh who sent this illness. 
 \q So now I will live humbly during my \add remaining\add* years
 \q2 because I am very anguished in my soul. 
 \q
-\v 16 Yahweh, the sufferings \f + \ft (OR, the promises) \f* that you give are good,
+\v 16 Yahweh, the sufferings \f + \ft Or: the promises \f* that you give are good,
 \q2 because what you do and what you say bring new life and health to us.
 \q And you have restored\f + \ft Or: healed \f* me 
 \q2 and allowed me to continue to live! 
@@ -62,7 +62,7 @@ live\add*?”
 \q and as a result you have rescued me from dying 
 \q2 and have also forgiven all my sins. 
 \q
-\v 18 Dead people \\f + \\ft metonymy \\f* cannot praise you; 
+\v 18 Dead people \f + \ft metonymy \f* cannot praise you; 
 \q2 they cannot sing to praise you. 
 \q Those who have descended to their graves 
 \q2 cannot confidently expect you to faithfully \add do things for

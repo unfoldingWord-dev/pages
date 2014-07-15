@@ -5,12 +5,12 @@
 \v 1  \add Jesus\add* also said to his disciples, “Once there was a rich man who had a household manager.
 \add One day\add* he was told {\add someone\add* told him} that \add the
 manager\add* was managing the rich man's money badly. 
-\v 2 So he summoned \add the manager\add* and said to him, ‘◄It is terrible what they are saying about
-you\add (sg)\add*!\f + \ft Or: Is \f* it true what they are saying about you\add (sg)\add* \\f + \\ft rhetorical question \\f*?► Give me a written account of
+\v 2 So he summoned \add the manager\add* and said to him, ‘It is terrible what they are saying about
+you\add (sg)\add*!\f + \ft Or: Is it true what they are saying about you\add (sg)\add* \f + \ft rhetorical question \f*? \f* Give me a written account of
 \add the funds\add* you have been managing, because you can no longer be my
 \add household\add* manager!’ 
 \v 3 Then the manager said to himself, ‘My master is going to dismiss me from my work, so ◄I do not know what to do.\f + \ft Or: what \f* shall
-I do \\f + \\ft rhetorical question \\f*?► I am not strong enough to \add work by\add* digging ditches, and I am ashamed to beg
+I do \f + \ft rhetorical question \f*?► I am not strong enough to \add work by\add* digging ditches, and I am ashamed to beg
 \add for money\add*.’ 
 \v 4  \add Suddenly he had an idea\add*. ‘I know what I will do, so that people will take me into their houses
 \add and provide for me\add* after I am dismissed {after my master dismisses me} from my work!’
@@ -22,7 +22,7 @@ change it to 400 \add gallons!\add*’
 ‘Take your bill and change it to eight hundred \add bushels\add*!’
 \add He did similar things for the others who owed his master money\add*.
 \v 8 When his master \add heard what the manager had done\add*, he admired the dishonest manager for the clever thing he had
-done. \add The truth\add* is that the ungodly people in this world act more wisely toward other people than godly people \\f + \\ft metaphor \\f*
+done. \add The truth\add* is that the ungodly people in this world act more wisely toward other people than godly people \f + \ft metaphor \f*
 act. 
 \v 9  \add So\add* I tell you\add (pl)\add* this: Use the money that you have
 \add here\add* on earth to help others so that they will become your friends. Then when
@@ -37,11 +37,11 @@ handle\add* important \add matters\add*.
 \v 11 So if you have not faithfully handled the money that \add God has given you
 here\add* on earth, ◄he will certainly not allow you to possess the true
 \add spiritual\add* riches\add in heaven!\add*\f + \ft Or: would \f* he allow you to possess the true
-\add spiritual\add* riches\add in heaven\add*?► \\f + \\ft rhetorical question \\f* 
+\add spiritual\add* riches\add in heaven\add*?► \f + \ft rhetorical question \f* 
 \v 12 And if you have not faithfully managed things that belong to other people,
 ◄\add God\add* will certainly not allow you to receive \add treasures in heaven
 that\add* would belong to you!\f + \ft Or: would \f* God allow you to receive \add treasures in heaven
-that\add* would belong to you?► \\f + \\ft rhetorical question \\f* 
+that\add* would belong to you?► \f + \ft rhetorical question \f* 
 \v 13 No servant is able to serve two \add different\add* bosses
 \add at the same time. If he tried to do that\add*, he would hate one of them and love the other one, or he would be loyal to
 one of them and despise the other one. \add Similarly\add*, you cannot
@@ -52,12 +52,12 @@ one of them and despise the other one. \add Similarly\add*, you cannot
 \p
 \v 14 There were some Pharisees \add there\add*. They loved \add to
 acquire\add* money. When they heard Jesus say that, they ridiculed him.
-\v 15 But he said to them, “You try to make other people think that you are righteous, but God knows your ◄inner
-beings\f + \ft Or: hearts \f*►. \add So he will reject you. Keep in mind that many\add* things that people think are important, God thinks are
+\v 15 But he said to them, “You try to make other people think that you are righteous, but God knows your inner
+beings\f + \ft Or: hearts \f*. \add So he will reject you. Keep in mind that many\add* things that people think are important, God thinks are
 detestable. 
 \p
-\v 16 The laws that \add God gave Moses\add* and what the prophets \\f + \\ft metonymy \\f*
-\add wrote\add* were ◄\add in effect\f + \ft Or: what \f* you needed to obey\add*► until John
+\v 16 The laws that \add God gave Moses\add* and what the prophets \f + \ft metonymy \f*
+\add wrote\add* were \add in effect\f + \ft Or: what you needed to obey\add* \f* until John
 \add the Baptizer\add* came. Since then \add I\add* have been preaching about how God wants to
 \add rule people's lives in a new way\add*, and many people are \add accepting that message
 and\add* very eagerly asking God to control \add their lives. But that does not mean that God has abolished the laws that he
@@ -71,7 +71,7 @@ that\add* any man who divorces his wife and marries another woman is committing 
 \s Luke 16:19-31 
 \s Jesus warned what would happen to those who did not share their possessions with poor people.
 \p
-\v 19  \add Jesus also said\add* \\f + \\ft metaphor \\f*, “Once there was a rich man who wore
+\v 19  \add Jesus also said\add* \f + \ft metaphor \f*, “Once there was a rich man who wore
 \add expensive\add* purple and linen \add garments\add*. He ate luxuriously every day.
 \v 20 And every day a poor man whose name was Lazarus was laid {\add some people
 also\add* laid a poor man whose name was Lazarus} at the gate of the rich man's
@@ -100,12 +100,12 @@ you\add (sg)\add* to send \add Lazarus\add* to my father's house.
 \add we(exc)\add* suffer great pain!’ 
 \v 29 But Abraham replied, ‘\add No, I will not do that, because your
 brothers\add* are able to \add go to the Jewish meeting places where the
-priests\add* read what Moses and the prophets \add wrote\add*. They should listen to what Moses and the prophets \\f + \\ft metonymy \\f*
+priests\add* read what Moses and the prophets \add wrote\add*. They should listen to what Moses and the prophets \f + \ft metonymy \f*
 \add wrote\add*!’ 
 \v 30 But the rich man replied, ‘No, father Abraham, \add that will not be
 enough\add*! But if someone from those who have died goes back to them
 \add and warns them\add*, they will turn from their sinful behavior.’
 \v 31  \add Abraham\add* said to him, ‘No! If they do not listen to
-\add what\add* \\f + \\ft metonymy \\f* Moses and the prophets \\f + \\ft metonymy \\f* \add wrote\add*, even if someone would rise from among the dead
+\add what\add* \f + \ft metonymy \f* Moses and the prophets \f + \ft metonymy \f* \add wrote\add*, even if someone would rise from among the dead
 \add and go and warn them\add*, they would not be convinced {he could not convince them}
 \add that they should turn from their sinful behavior\add*.’ ” 

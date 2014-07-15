@@ -1,9 +1,9 @@
 \c 52  
 \s Jerusalem's suffering will end 
 \q
-\v 1  \add You people who live in the\add* holy city of Jerusalem \\f + \\ft apostrophe \\f*, wake up!
+\v 1  \add You people who live in the\add* holy city of Jerusalem \f + \ft apostrophe \f*, wake up!
 \q2 Be strong again! 
-\q Show that \\f + \\ft metonymy \\f* your city is beautiful and glorious; 
+\q Show that \f + \ft metonymy \f* your city is beautiful and glorious; 
 \q2 foreigners who do not believe in God will not enter your city again
 \add to attack you\add*. 
 \q
@@ -22,22 +22,22 @@
 \p
 \v 4 Yahweh our Lord also says this: 
 \q “Long ago, my people went to Egypt to live there. 
-\q2 Later they were being ◄oppressed\f + \ft Or: treated \f* cruelly► by \add the soldiers
+\q2 Later they were being oppressed\f + \ft Or: treated cruelly \f* by \add the soldiers
 of\add* Assyria. 
 \p
 \v 5 But now think about what is happening: 
 \q My people are being forced to be slaves again, this time by the
 \add people of Babylonia\add*. 
 \q2 And \add those who have conquered them this time have also\add* paid me nothing,
-\q and they despise me \\f + \\ft metonymy \\f* continually \\f + \\ft doublet \\f*. 
+\q and they despise me \f + \ft metonymy \f* continually \f + \ft doublet \f*. 
 \q
-\v 6 But my people will then have a close relationship with \\f + \\ft metonymy \\f* me,
+\v 6 But my people will then have a close relationship with \f + \ft metonymy \f* me,
 \q2 and when that happens, they will know that I am the one who predicted\f + \ft Or: promised \f*
 \add that it would happen\add*. 
 \q It is I, \add Yahweh, who will do it\add*.” 
 \s A message of encouragement for Jerusalem 
 \q
-\v 7 It is a wonderful thing when messengers \\f + \\ft metonymy \\f* arrive on the mountains\f + \ft Or: hills \f*,
+\v 7 It is a wonderful thing when messengers \f + \ft metonymy \f* arrive on the mountains\f + \ft Or: hills \f*,
 \q2 bringing good news, 
 \q the news about \add God giving us\add* peace and saving us, 
 \q the news that the God to whom we \add Israeli people\add* belong is now ruling\f + \ft Or: king \f*!
@@ -67,13 +67,13 @@ God\add*.
 \q
 \v 12 But it will not \add be necessary for you to\add* leave suddenly,
 \q2 to flee in panic, 
-\q because Yahweh will ◄go in front of\f + \ft Or: lead \f*► you; 
+\q because Yahweh will go in front of\f + \ft Or: lead \f* you; 
 \q2 and he will also protect you \add from being attacked\add* at the rear
 \add while you travel\add*. 
 \s God's suffering servant 
 \q
 \v 13 Yahweh says, “Listen carefully! 
-\q2 My servant will act wisely \f + \ft (OR, do the right things to accomplish what he wants to) \f*,
+\q2 My servant will act wisely \f + \ft Or: do the right things to accomplish what he wants to \f*,
 \q and I will highly exalt him.” 
 \q
 \v 14 But many people will be appalled when they see what has happened to him.

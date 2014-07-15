@@ -1,6 +1,6 @@
 \c 1  
 \p
-\v 1  \add This is\add* the record of the ancestors of Jesus ◄Christ\f + \ft Or: the \f* Messiah►, the descendant of
+\v 1  \add This is\add* the record of the ancestors of Jesus Christ\f + \ft Or: the Messiah \f*, the descendant of
 \add King\add* David and of Abraham, \add from whom all we Jews have
 descended\add*. 
 \v 2 Abraham was the father of Isaac. Isaac was the father of Jacob. Jacob was the father of Judah and Judah's
@@ -44,13 +44,13 @@ Israelites\add*} away to Babylon until \add the time when\add* the Messiah
 it was the power of the Holy Spirit that had enabled her to be pregnant.
 \p
 \v 18 This is \add the account of what happened just before\add* Jesus Christ was born. Mary, his mother, {had publicly
-promised Joseph that she would marry him} had been publicly promised to marry Joseph. Before they began to live together \\f + \\ft euphemism \\f*,
+promised Joseph that she would marry him} had been publicly promised to marry Joseph. Before they began to live together \f + \ft euphemism \f*,
 \add Mary\add* realized that she was pregnant. \add It was the power
-of\add* the Holy Spirit that had caused her to become pregnant \\f + \\ft euphemism \\f*.
+of\add* the Holy Spirit that had caused her to become pregnant \f + \ft euphemism \f*.
 \v 19 Joseph, \add whom people considered to be\add* her husband, was a man who obeyed God's commands.
 \add One of those commands was that men must divorce women who had acted immorally. So when Joseph learned that Mary was
 pregnant, he assumed that she was pregnant as a result of her acting
-immorally\add*. So he decided ◄to divorce her\f + \ft Or: to \f* break the engagement►. But because he did not want to shame her publicly, he
+immorally\add*. So he decided to divorce her\f + \ft Or: to break the engagement \f*. But because he did not want to shame her publicly, he
 decided to divorce her privately. 
 \v 20 While he was seriously considering this, much to his surprise, in a dream he saw an angel whom the
 Lord\add sent\add*. The angel said, “Joseph, descendant of \add King\add* David, do not be afraid that
@@ -67,5 +67,5 @@ with us.’
 \v 24 When Joseph got up from sleep, he did what the angel whom the Lord
 \add had sent\add* commanded him to do. He \add began to live with
 Mary\add* as his wife. 
-\v 25 But he did not have sexual relations with her \\f + \\ft euphemism \\f* until she had given birth to a son. And
+\v 25 But he did not have sexual relations with her \f + \ft euphemism \f* until she had given birth to a son. And
 \add Joseph\add* named him Jesus. 

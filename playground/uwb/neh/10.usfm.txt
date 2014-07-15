@@ -1,7 +1,7 @@
 \c 10  
 \s Those who signed the agreement 
 \p
-\v 1 ◄This is a list\f + \ft Or: These \f* are the names► of those who signed the agreement:
+\v 1 This is a list\f + \ft Or: These are the names \f* of those who signed the agreement:
 \b
 \li I, Nehemiah, the governor; and also Zedekiah. 
 \b
@@ -77,9 +77,9 @@ to Moses. They agreed to obey everything that Yahweh our God had commanded, and 
 \pi
 \v 31 If people from other countries who live in this land bring us grain or other things to sell to us on Sabbath days or any
 other sacred day, we will not buy anything from them. And in every seventh year, we will not plant any crops, and we will
-◄cancel all debts\f + \ft Or: declare \f* that people will no longer have to pay back what they owe us►.
+cancel all debts\f + \ft Or: declare that people will no longer have to pay back what they owe us \f*.
 \pi
-\v 32 We also promise that every year we will pay ◄one-eighth of an ounce\f + \ft Or: 4 \f* grams► of silver for the work of taking care of the
+\v 32 We also promise that every year we will pay one-eighth of an ounce\f + \ft Or: 4 grams \f* of silver for the work of taking care of the
 temple. 
 \v 33 With that money they can buy these things: the sacred bread
 \add that is placed before God\add*, the grain that is burned \add on the

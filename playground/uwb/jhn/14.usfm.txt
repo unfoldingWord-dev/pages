@@ -2,7 +2,7 @@
 \s John 14:1-14 
 \s Jesus encouraged his disciples and told them that he is the only way to the Father.
 \p
-\v 1  \add Jesus continued by saying to us\add*, “Stop being anxious\f + \ft Or: worried \f*. Keep on trusting in God \f + \ft (OR, You are trusting in
+\v 1  \add Jesus continued by saying to us\add*, “Stop being anxious\f + \ft Or: worried \f*. Keep on trusting in God \f + \ft Or: You are trusting in
 God); also keep trusting in me. 
 \v 2 Where my Father is \add in heaven\add* there is plenty of room! If that were not true, I would have told you. I am about
 to go \add there\add* to prepare a place for you. 
@@ -12,8 +12,8 @@ that so that you may also be where I am.
 \p
 \v 5 Thomas said to him, “Lord, we do not know where you are going.
 \add So\add* how can we know the road?” 
-\v 6 Jesus said to him, “I am the road \\f + \\ft metaphor \\f* \add to where my Father
-is\add*. I am the \add one who reveals\add* \\f + \\ft metaphor \\f* the truth \add about
+\v 6 Jesus said to him, “I am the road \f + \ft metaphor \f* \add to where my Father
+is\add*. I am the \add one who reveals\add* \f + \ft metaphor \f* the truth \add about
 God\add* and the \add one who gives eternal\add* life \add to people\add*. I am the only one who can
 \add enable people\add* to come to \add my\add* Father. There is no other way.
 \v 7 If you \add really\add* knew who I was, you would have known my Father also. From now on, you know him, and
@@ -22,10 +22,10 @@ God\add* and the \add one who gives eternal\add* life \add to people\add*. I am 
 \v 8 Philip said to him, “Lord, show us your Father and that will be enough for us!”
 \v 9 Jesus said to him, “Philip, I have been with you for a long time. So ◄surely you should know who I
 \add really am\add*!\f + \ft Or: why \f* have you not come to know who I \add really
-am\add*?► \\f + \\ft rhetorical question \\f* Those who have seen me, \add it is as though\add* they have seen
+am\add*?► \f + \ft rhetorical question \f* Those who have seen me, \add it is as though\add* they have seen
 \add my\add* Father. So ◄why do you say ‘Show us \add your\add* Father’?\f + \ft Or: you \f* should not say ‘Show us
-\add your\add* Father’!► \\f + \\ft rhetorical question \\f* 
-\v 10 Do you not \\f + \\ft rhetorical question \\f* believe that I have a close relationship with
+\add your\add* Father’!► \f + \ft rhetorical question \f* 
+\v 10 Do you not \f + \ft rhetorical question \f* believe that I have a close relationship with
 \add my\add* Father, and that \add my\add* Father has a close relationship with me? The messages that I tell you do not come
 from me. They come from my Father, who has a close relationship with me. He is enabling me to
 \add teach these things, and\add* to work the miracles that he \add wants me to
@@ -41,7 +41,7 @@ done\add*.
 \v 13 And whatever you, using my authority, ask me to do, I will do it, in order that I can show
 \add you\add* how great \add my\add* Father is. 
 \v 14 Anything that you ask \add my Father to do, anything that you
-ask\add* with my \add authority\add* \\f + \\ft metonymy \\f*, I will do.” 
+ask\add* with my \add authority\add* \f + \ft metonymy \f*, I will do.” 
 \s John 14:15-31 
 \s Jesus promised to send the Holy Spirit to them. 
 \p
@@ -49,15 +49,15 @@ ask\add* with my \add authority\add* \\f + \\ft metonymy \\f*, I will do.”
 \v 16 Then I myself will request \add my\add* Father, and he will send you someone else who will ◄encourage\f + \ft Or: be \f* like a legal
 counsel for► you. 
 \v 17  \add I am talking about\add* the Spirit, who \add will teach you
-God's\add* truth. He will be with you forever. Those who are opposed to God \\f + \\ft metonymy \\f* cannot receive him, because they cannot
+God's\add* truth. He will be with you forever. Those who are opposed to God \f + \ft metonymy \f* cannot receive him, because they cannot
 understand what he \add does\add*, and they cannot know who he is. But you know who he is, because he is with you and he will
 be inside you. 
-\v 18  \add When I leave you\add*, I will not let you be alone\f + \ft Or: helpless \f* \\f + \\ft metaphor \\f*.
+\v 18  \add When I leave you\add*, I will not let you be alone\f + \ft Or: helpless \f* \f + \ft metaphor \f*.
 \add When I send the Spirit, it will be like\add* I am coming back to you (OR,
 \add When I rise from the dead\add*, I will come back to you.) 
-\v 19 Soon those who do not belong to God \\f + \\ft metonymy \\f* will not see me anymore. But
+\v 19 Soon those who do not belong to God \f + \ft metonymy \f* will not see me anymore. But
 \add when the Spirit comes to you, it will be as though\add* you will be seeing me again (OR, But
-\add after I become alive again\add*, you will see me again.) \f* Because I will be alive again, you also will have
+\add after I become alive again\add*, you will see me again. \f* Because I will be alive again, you also will have
 \add eternal\add* life. 
 \v 20 At that time you will know that I have a close relationship with my Father, and you will have a close relationship with
 me, and I will have a close relationship with you. 
@@ -67,20 +67,20 @@ like\add*.”
 \p
 \v 22 Then Judas spoke to him. He was not Judas Iscariot, \add but instead a disciple whose other name was
 Thaddeus\add*. He said, “Lord, what has happened so that you can fully reveal to us what you are like, and not reveal that to
-those who do not belong to God \\f + \\ft metonymy \\f*?” 
+those who do not belong to God \f + \ft metonymy \f*?” 
 \v 23 Jesus replied to him, “Those who love me will obey what I have told them. My Father will
 \add also\add* love them. It is those people whom my Father and I will
-\add be able to\add* come to and ◄live with\f + \ft Or: have \f* a personal relationship with►.
+\add be able to\add* come to and live with\f + \ft Or: have a personal relationship with \f*.
 \v 24 But those who do not love me will not obey what I have told them.
 \add So I cannot reveal to them what I am really like\add*. 
 \p These words that I am telling you have not come just from me. They came from
 \add my\add* Father, the one who sent me. 
 \v 25 I have told you all these things while I am still with you.
-\v 26 But \add my\add* Father will send the Holy Spirit. He is the one who will ◄encourage\f + \ft Or: be \f* like a legal counsel for► you. He
-will come with my authority \\f + \\ft metonymy \\f*. He will teach you all of \add God's truth that you need to
+\v 26 But \add my\add* Father will send the Holy Spirit. He is the one who will encourage\f + \ft Or: be like a legal counsel for \f* you. He
+will come with my authority \f + \ft metonymy \f*. He will teach you all of \add God's truth that you need to
 know\add*. He will also cause you to remember all the things that I have told you.
 \v 27 As I leave you, I am causing you to have \add inner\add* peace. This
-\add inner\add* peace comes from me. I am not causing you to have something that those who do not belong to God \\f + \\ft metonymy \\f* can give
+\add inner\add* peace comes from me. I am not causing you to have something that those who do not belong to God \f + \ft metonymy \f* can give
 you. \add So\add* stop being anxious\f + \ft Or: worried \f*, and do not be afraid.
 \p
 \v 28 You heard me say to you, ‘I am going away, but \add later\add* I will come back to you.’ If you loved me, you would be
@@ -91,6 +91,6 @@ glad that I am going back to \add my\add* Father, because \add my\add* Father is
 \v 30 I will not \add be able to\add* talk to you much longer, because what happens to me will be as though
 \add Satan\add*, the ruler of this world, is coming\add to attack
 me\add*. But he has no \add control over what happens to\add* me.
-\v 31 Instead, the people who do not belong to God \\f + \\ft metonymy \\f* must learn
+\v 31 Instead, the people who do not belong to God \f + \ft metonymy \f* must learn
 \add from what happens to me\add* that I love \add my\add* Father, and I am doing the things that he has commanded me to do.
 Now, let's get up and leave here.” 

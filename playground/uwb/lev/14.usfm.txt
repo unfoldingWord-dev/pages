@@ -6,7 +6,7 @@
 \v 3 The person must be brought to the priest. The priest will take him outside the camp
 \add to where that person has been staying\add*, and examine him. If the skin disease has been healed,
 \v 4 the priest will say that someone must bring two living birds that are acceptable to Yahweh, along with some cedar wood,
-some scarlet\f + \ft Or: red \f* yarn, and some springs of ◄hyssop\f + \ft Or: a \f* very leafy plant►.
+some scarlet\f + \ft Or: red \f* yarn, and some springs of hyssop\f + \ft Or: a very leafy plant \f*.
 \v 5 Then the priest will command that one of the birds be killed while
 \add it is being held\add* over a clay pot containing water from a spring.
 \v 6 Then the priest will dip the other bird, along with the cedar wood, the scarlet\f + \ft Or: red \f* yarn and the hyssop, into the blood of
@@ -21,7 +21,7 @@ the camp, but he must stay outside his tent for seven days.
 clothes and bathe, and then he will be allowed to be with other people again.
 \p
 \v 10 The next day that person must bring two male lambs and one female lamb that is a year-old, all of them with no defects.
-He must also bring six quarts\f + \ft Or: liters \f* of fine flour, mixed with olive oil, to be an offering, and ◄0.6 of a pint\f + \ft Or: 0 \f*.3 of a liter►
+He must also bring six quarts\f + \ft Or: liters \f* of fine flour, mixed with olive oil, to be an offering, and 0.6 of a pint\f + \ft Or: 0.3 of a liter \f*
 of olive oil. 
 \v 11 The priest who declares that the person's skin disease is ended must bring that person and his offerings to Yahweh at the
 entrance of the Sacred Tent. 
@@ -116,6 +116,6 @@ blood of the dead bird, and sprinkle some of that blood on the house seven times
 \add finish the ritual for\add* causing the house to be acceptable for people to live in it again.
 \p
 \v 54 Those are the regulations for contagious diseases, for itching sores,
-\v 55 for mildew \\f + \\ft doublet \\f* on clothes or in a house, 
+\v 55 for mildew \f + \ft doublet \f* on clothes or in a house, 
 \v 56 and for swellings, rashes, or bright spots \add on sores\add*,
 \v 57 to determine whether people will still be permitted to touch those things or not.”

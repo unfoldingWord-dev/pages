@@ -4,7 +4,7 @@
 \p
 \v 1  \add There was\add* a man \add who lived\add* in Caesarea \add city\add* whose name was Cornelius. He was an officer who
 commanded 100 men in a large group of \add Roman\add* soldiers from Italy.
-\v 2 He always tried to do what would please God; he and his entire household \\f + \\ft metonymy \\f*
+\v 2 He always tried to do what would please God; he and his entire household \f + \ft metonymy \f*
 \add were non-Jews who\add* habitually worshipped God. He sometimes gave money to help poor
 \add Jewish\add* people, and he prayed to God regularly. 
 \p
@@ -33,17 +33,17 @@ Caesarea\add*.
 Joppa\add*, Peter went up on the \add flat\add* housetop to pray.
 \v 10 He became hungry and wanted something to eat. While someone was preparing the food,
 \add Peter\add* saw \add this\add* vision: 
-\v 11 ◄He saw heaven open\f + \ft Or: He \f* saw an opening in the sky► and something like a large sheet was being lowered
+\v 11 He saw heaven open\f + \ft Or: He saw an opening in the sky \f* and something like a large sheet was being lowered
 \add to the ground\add*. \add It was tied at\add* its four corners
 \add with ropes\add*. 
 \v 12 Inside the sheet were all kinds of creatures. \add These included animals and birds that the Mosaic laws forbade Jews to
 eat\add*. Some had four feet, others crawled on the ground, and others were wild birds.
-\v 13 Then \add he heard\add* God \\f + \\ft synecdoche \\f* say to him, “Peter, stand up, kill
+\v 13 Then \add he heard\add* God \f + \ft synecdoche \f* say to him, “Peter, stand up, kill
 \add and cook some of these\add* and eat \add their meat\add*!” 
 \v 14 But Peter replied, “Lord, surely you\add (sg)\add* do not \add really want me to do
 that\add* I have never eaten any \add meat\add* that \add our Jewish law
 says\add* is unacceptable to God or \add something that we(exc)\add* must not eat!”
-\v 15  \add Then Peter heard\add* \\f + \\ft metonymy \\f* God talk to him a second time. He said,
+\v 15  \add Then Peter heard\add* \f + \ft metonymy \f* God talk to him a second time. He said,
 “\add I am\add* God, \add so\add* if I have made something acceptable
 \add to eat\add*, do not say that it is not acceptable \add to eat\add*!”
 \v 16  \add This happened\add* three \add times, so he knew that he had to think carefully about what it might
@@ -67,8 +67,8 @@ non-Jews\add*, because I have sent them \add here\add*!”
 \v 21 So Peter went down to the men and said to them, “\add Greetings!\add* I am
 \add the man\add* you are looking for. Why have you come?” 
 \v 22 One of them replied, “Cornelius, who is a \add Roman\add* army officer,
-\add sent us here\add*. He is a righteous man who worships God, and all of the Jewish people \\f + \\ft hyperbole \\f*
-\add who know about him\add* say that he is a very good man. An angel ◄who was sent from God\f + \ft Or: whom \f* God sent► said to him, ‘Tell
+\add sent us here\add*. He is a righteous man who worships God, and all of the Jewish people \f + \ft hyperbole \f*
+\add who know about him\add* say that he is a very good man. An angel who was sent from God\f + \ft Or: whom God sent \f* said to him, ‘Tell
 some men to \add go to Joppa to see Simon Peter and\add* bring him here, so that
 you\add (sg)\add* can hear what he has to say.’” 
 \v 23 So Peter \add said that he would go with them, and then he\add* invited them into
@@ -118,7 +118,7 @@ here\add*, and I \add certainly\add* thank you for coming. Now we\add (exc)\add*
 \s Acts 10:34-38 
 \s Peter reminded them of what they knew about Jesus. 
 \p
-\v 34 So Peter began to speak \\f + \\ft metonymy \\f* to them. He said, “\add Now\add* I understand that it is true that God does not favor only
+\v 34 So Peter began to speak \f + \ft metonymy \f* to them. He said, “\add Now\add* I understand that it is true that God does not favor only
 certain groups \add of people\add*. 
 \v 35 Instead, from every group of people he accepts \add everyone
 who\add* honors him and who does what pleases him. 
@@ -130,7 +130,7 @@ He\add* is \add also the\add* Lord \add who rules\add* over all \add people\add*
 \v 37 You know what \add he\add* did throughout the land of Judea, beginning in Galilee. He began
 \add to do those things\add* after John had been proclaiming\add to people that they should turn away from their sinful
 behavior before\add* he baptized them. 
-\v 38 You know that God gave \\f + \\ft metonymy \\f* his Holy Spirit to Jesus, \add the
+\v 38 You know that God gave \f + \ft metonymy \f* his Holy Spirit to Jesus, \add the
 man\add* from Nazareth \add town\add*, and gave him the power \add to do miracles. You also
 know\add* how Jesus went to many places, always doing good deeds and healing
 \add people. Specifically\add*, he was continually healing all the people whom the devil was causing to suffer.
@@ -148,30 +148,30 @@ again\add*.
 \v 41 God\add did\add* not \add let\add* all the \add Jewish\add* people see him. Instead, he had chosen us
 \add apostles\add* beforehand to see \add Jesus after he became alive
 again\add* and to tell others \add about him\add*. We \add apostles are the
-people\add* who ate meals with him ◄after he had become alive \add again\add*\f + \ft Or: after \f* he had risen from the dead►.
+people\add* who ate meals with him after he had become alive \add again\add*\f + \ft Or: after he had risen from the dead \f*.
 \v 42 God commanded us to preach to the people and tell them that Jesus is the one whom he has appointed to
 \add some day\add* judge \add everyone. He will judge all\add* those who will
 \add still\add* be living and all those who will have died \add by that
 time\add*. 
 \v 43 All of the prophets \add who wrote about the Messiah long ago\add* told
-\add people\add* about him. \add They wrote\add* that if people believe in the Messiah \\f + \\ft metonymy \\f*, God would forgive
+\add people\add* about him. \add They wrote\add* that if people believe in the Messiah \f + \ft metonymy \f*, God would forgive
 \add them for\add* their sins, because of what \add the Messiah would
 do\add* for them.” 
 \s Acts 10:44-48 
 \s The Holy Spirit came down on the non-Jewish believers. 
 \p
-\v 44 While Peter was still speaking those words, suddenly the Holy Spirit ◄came down on\f + \ft Or: began \f* to control► all
+\v 44 While Peter was still speaking those words, suddenly the Holy Spirit came down on\f + \ft Or: began to control \f* all
 \add those non-Jewish people\add* who were listening to the message.
 \v 45 The Jewish believers who had come with Peter \add from Joppa\add* were amazed that
 \add God\add* had generously given the Holy Spirit to the non-Jewish people, too.
 \v 46  \add The Jewish believers knew that God had done that\add* because they were hearing those people speaking languages
-\\f + \\ft metonymy \\f* \add that they had not learned\add* and telling how great God is.
+\f + \ft metonymy \f* \add that they had not learned\add* and telling how great God is.
 \v 47 Then Peter said \add to the other Jewish believers who were
 there\add*, “\add God\add* has given them the Holy Spirit just like
-\add he gave him\add* to us \add Jewish believers\add*, so ◄surely all of you would agree that
-\add we(exc)\add* should baptize these people!\f + \ft Or: would \f* any of you forbid that these people should be baptized?► \\f + \\ft rhetorical question \\f*”
+\add he gave him\add* to us \add Jewish believers\add*, so surely all of you would agree that
+\add we(exc)\add* should baptize these people!\f + \ft Or: would any of you forbid that these people should be baptized? \f* \f + \ft rhetorical question \f*”
 \v 48 Then Peter told those \add non-Jewish\add* people that they should be baptized
-\add to show that they had believed\add* \\f + \\ft metonymy \\f* in the \add Lord\add* Jesus Christ.
+\add to show that they had believed\add* \f + \ft metonymy \f* in the \add Lord\add* Jesus Christ.
 \add So they baptized all of them. After they were baptized\add*, they requested that Peter stay
 \add with them\add* several days. \add So Peter and the other Jewish believers did
 that\add*. 

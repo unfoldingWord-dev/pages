@@ -7,7 +7,7 @@
 \add from\add* God \add about Jesus\add*. 
 \v 2 So when Peter \add and the six other believers\add* returned
 \add from Caesarea\add* to Jerusalem, \add some\add* Jewish believers criticized Peter,
-\add because they thought that Jews should not associate with non-Jews\add* \\f + \\ft metonymy \\f*.
+\add because they thought that Jews should not associate with non-Jews\add* \f + \ft metonymy \f*.
 \v 3 They said to him, “Not only was it wrong for you(sg) to visit non-Jewish people, you
 \add even\add* ate with them!” 
 \s Acts 11:4-10 
@@ -20,11 +20,11 @@ like a large sheet was being lowered from heaven. \add It was tied with
 ropes\add* at its four corners, and it came down to where I was.
 \v 6 As I was looking intently into it, I saw some tame animals \add but also animals that our laws forbid us to eat,
 including\add* wild animals, snakes, and wild birds. 
-\v 7 Then I heard God \\f + \\ft metonymy \\f* commanding me, ‘Peter, rise up, kill
+\v 7 Then I heard God \f + \ft metonymy \f* commanding me, ‘Peter, rise up, kill
 \add some of these\add*, and \add cook and\add* eat \add their meat\add*!’
 \v 8 But I replied, ‘Lord, \add you(sg)\add* surely do not \add really want me to do
-that\add*, because I have never eaten \\f + \\ft metonymy \\f* meat \add from any animal\add* that
-\add our laws say\add* that we\add (exc)\add* must not eat \\f + \\ft synecdoche \\f*!’
+that\add*, because I have never eaten \f + \ft metonymy \f* meat \add from any animal\add* that
+\add our laws say\add* that we\add (exc)\add* must not eat \f + \ft synecdoche \f*!’
 \v 9 God spoke from heaven \add to me\add* a second time, ‘\add I
 am\add* God, \add so\add* if I have made something acceptable \add to
 eat\add*, do not say that it is not acceptable \add to eat\add*!’
@@ -41,9 +41,9 @@ where I was staying.
 we\add (exc)\add* went into that \add non-Jewish\add* man's house.
 \v 13 He told us that he had seen an angel standing in his house. The angel told him, ‘Tell some
 \add men\add* to go to Joppa and bring back Simon whose other name is Peter.
-\v 14 He will tell you\add (sg)\add* how you and everyone \\f + \\ft metonymy \\f* else in your house will be saved {how
-\add God\add* will save you and everyone \\f + \\ft metonymy \\f* else in your house}.’
-\v 15 After I started to speak, the Holy Spirit \add suddenly\add* came down on them, just like he had first \\f + \\ft metonymy \\f* come on us
+\v 14 He will tell you\add (sg)\add* how you and everyone \f + \ft metonymy \f* else in your house will be saved {how
+\add God\add* will save you and everyone \f + \ft metonymy \f* else in your house}.’
+\v 15 After I started to speak, the Holy Spirit \add suddenly\add* came down on them, just like he had first \f + \ft metonymy \f* come on us
 \add during the Pentecost festival\add*. 
 \v 16 Then I remembered what the Lord had said: ‘John caused people to be baptized in water, but
 \add God\add* will cause the Holy Spirit \add to enter you and change your
@@ -52,7 +52,7 @@ lives.’\add*
 us\add (inc)\add* after we believed in the Lord Jesus Christ. So,
 ◄\add I\add* could not \add possibly\add* tell God that he did wrong\add when he gave them the Holy
 Spirit!\add*\f + \ft Or: how \f* could I \add tell\add* God that he did wrong\add when he gave them the Holy
-Spirit\add*?► \\f + \\ft rhetorical question \\f* \add He was showing that he had received them!\add*”
+Spirit\add*?► \f + \ft rhetorical question \f* \add He was showing that he had received them!\add*”
 \s Acts 11:18 
 \s They praised God that he also saves non-Jewish people. 
 \p
@@ -73,14 +73,14 @@ Jesus\add*, but they told only other Jewish people.
 \add city in north Africa\add*. They went to Antioch \add city\add*,
 and\add although they told other Jews about\add* the Lord Jesus, they also told non-Jewish people
 \add there\add*. 
-\v 21 The Lord \add God\add* \\f + \\ft metonymy \\f* was powerfully enabling those
+\v 21 The Lord \add God\add* \f + \ft metonymy \f* was powerfully enabling those
 \add believers to preach effectively. As a result\add*, very many
 \add non-Jewish\add* people believed \add their message and\add* trusted in the Lord
 \add Jesus\add*. 
 \s Acts 11:22-24 
 \s Barnabas encouraged the believers at Antioch. 
 \p
-\v 22 The group of believers in Jerusalem heard \\f + \\ft metonymy \\f* \add people say that many people in Antioch were believing in Jesus.
+\v 22 The group of believers in Jerusalem heard \f + \ft metonymy \f* \add people say that many people in Antioch were believing in Jesus.
 So\add* the \add leaders\add* of the congregation in \add Jerusalem\add* asked Barnabas to go to Antioch.
 \v 23 When he got \add there\add*, he realized that God had acted kindly toward
 \add the believers. So\add* he was very happy, and he continually encouraged all of the
@@ -105,7 +105,7 @@ Saul\add* met \add regularly\add* with the congregation \add there\add* and taug
 \add believers who were\add* prophets arrived there from Jerusalem.
 \v 28 One of them, whose name was Agabus, stood up \add in order to
 speak\add*. \add God's\add* Spirit enabled him to prophesy ◄that there would soon be a famine in many countries\f + \ft Or: that \f*
-\add people\add* in many countries \\f + \\ft hyperbole \\f* would soon \add suffer because
+\add people\add* in many countries \f + \ft hyperbole \f* would soon \add suffer because
 they\add* would not have enough \add food\add* to eat►. (That famine happened when Claudius was the
 \add Roman Emperor\add*.) 
 \v 29 When the believers \add there heard what Agabus said\add*, they decided that they would send

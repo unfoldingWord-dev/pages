@@ -4,15 +4,15 @@
 \v 1 Yahweh also said this: 
 \q “\add All of\add* heaven is like my throne, 
 \q2 and the whole earth is like my footstool. 
-\q So you could certainly not \\f + \\ft rhetorical question \\f* build a house 
+\q So you could certainly not \f + \ft rhetorical question \f* build a house 
 \q2 \add that would be adequate\add* for me to live in and rest!
 \q
-\v 2 I \\f + \\ft metonymy \\f* have created everything; 
+\v 2 I \f + \ft metonymy \f* have created everything; 
 \q2 all things exist because I made them. 
 \q \add That is true because\add* I, Yahweh have said it. 
 \b
 \q The people I am most pleased with are those who are humble, 
-\q2 who \add patiently endure it when they\add* ◄suffer\f + \ft Or: are \f* afflicted►,
+\q2 who \add patiently endure it when they\add* suffer\f + \ft Or: are afflicted \f*,
 \q2 and who tremble when they hear me \add rebuking them\add*. 
 \q
 \v 3 You have chosen to continually do the things that you want to do:
@@ -49,55 +49,55 @@
 \q2 while he is punishing his enemies! 
 \b
 \q
-\v 7 No one \\f + \\ft rhetorical question \\f* ever heard that a woman gave birth to a baby 
+\v 7 No one \f + \ft rhetorical question \f* ever heard that a woman gave birth to a baby 
 \q2 when she was just starting to have birth pains. 
 \q
-\v 8 Certainly no one \\f + \\ft rhetorical question \\f* ever heard about such a thing happening,
+\v 8 Certainly no one \f + \ft rhetorical question \f* ever heard about such a thing happening,
 \q2 and no one has ever seen it happen. 
-\q \add Similarly\add*, no one ever \\f + \\ft rhetorical question \\f* heard that a nation was created in one instant,
+\q \add Similarly\add*, no one ever \f + \ft rhetorical question \f* heard that a nation was created in one instant,
 \q2 not even in one day. 
-\q But Jerusalem is like \\f + \\ft metaphor \\f* a woman who gives birth to children
+\q But Jerusalem is like \f + \ft metaphor \f* a woman who gives birth to children
 \q2 as soon as she starts to have birth pains. 
 \q
-\v 9 Women certainly do not \\f + \\ft rhetorical question \\f* bring infants to the time when they are ready to be born and then do not allow them to be
+\v 9 Women certainly do not \f + \ft rhetorical question \f* bring infants to the time when they are ready to be born and then do not allow them to be
 born. 
-\q2 \add Similarly, he will do for Jerusalem\add* \\f + \\ft metaphor \\f* \add what he has promised to
+\q2 \add Similarly, he will do for Jerusalem\add* \f + \ft metaphor \f* \add what he has promised to
 do\add*: 
 \q \add he will cause Jerusalem to be full of people again\add*.
 \q2 \add That will happen because\add* Yahweh has said it. 
 \q
-\v 10 You people in \\f + \\ft apostrophe \\f* Jerusalem, rejoice! 
+\v 10 You people in \f + \ft apostrophe \f* Jerusalem, rejoice! 
 \q2 And all you people who love Jerusalem should also be happy. 
 \q You people who were sad because of \add what happened to Jerusalem\add*,
 \q2 you should now be glad. 
 \q
 \v 11  \add You people in Jerusalem\add* will \add have everything that you
 need\add* 
-\q2 like \\f + \\ft metaphor \\f* a baby that gets all it needs from its mother's breasts.
-\q You will enjoy all the abundant and glorious things \\f + \\ft metaphor \\f* in the city.
+\q2 like \f + \ft metaphor \f* a baby that gets all it needs from its mother's breasts.
+\q You will enjoy all the abundant and glorious things \f + \ft metaphor \f* in the city.
 \p
 \v 12 Yahweh has promised, 
 \q “I will cause Jerusalem to be full of valuable things that come from other nations;
-\q2 those things will pour into Jerusalem; it will be like \\f + \\ft simile \\f* a big flood.
+\q2 those things will pour into Jerusalem; it will be like \f + \ft simile \f* a big flood.
 \q I will take care of the people of Jerusalem 
 \q2 like women care for the babies that they nurse. 
 \q
-\v 13 I will comfort you people in Jerusalem like \\f + \\ft metaphor \\f* mothers comfort their children.”
+\v 13 I will comfort you people in Jerusalem like \f + \ft metaphor \f* mothers comfort their children.”
 \b
 \q
 \v 14 When you see \add those things happen\add*, 
-\q2 you \\f + \\ft synecdoche \\f* will rejoice. 
+\q2 you \f + \ft synecdoche \f* will rejoice. 
 \q Your old bones will become strong again 
-\q2 like \\f + \\ft simile \\f* grass that grows quickly\f + \ft Or: well \f* in the springtime. 
-\q \add When that happens\add*, everyone will know that Yahweh has power \\f + \\ft metonymy \\f* to help those who worship and obey him,
+\q2 like \f + \ft simile \f* grass that grows quickly\f + \ft Or: well \f* in the springtime. 
+\q \add When that happens\add*, everyone will know that Yahweh has power \f + \ft metonymy \f* to help those who worship and obey him,
 \q2 but that he is angry with his enemies. 
 \q
 \v 15 Yahweh will come down with flames of fire, 
-\q2 and his chariots \add will come down\add* like \\f + \\ft simile \\f* a whirlwind;
+\q2 and his chariots \add will come down\add* like \f + \ft simile \f* a whirlwind;
 \q he will be extremely angry, 
 \q2 and he will punish \add his enemies\add* by burning them in a fire.
 \q
-\v 16  \add It is as though\add* \\f + \\ft metaphor \\f* Yahweh has a big sword, 
+\v 16  \add It is as though\add* \f + \ft metaphor \f* Yahweh has a big sword, 
 \q2 and he will judge and execute many people. 
 \b
 \p
@@ -113,15 +113,15 @@ them that I am very great.
 \add distant\add* countries: to Tarshish, Put, Lud, Meshech, Tubal, Javan, and to distant islands. I will send them to proclaim
 to nations that have never heard about me that I am very great and glorious.
 \v 20 Then they will bring back here your relatives \add who have been ◄exiled\f + \ft Or: forced \f* to go to other
-countries►\add*, to be like \\f + \\ft simile \\f* an offering to me. They will come on horses, in chariots, on mules, and on camels. They will
-come to Zion, my sacred Hill in Jerusalem. That will be like \\f + \\ft simile \\f* the offerings that my Israeli people used to bring in the
+countries►\add*, to be like \f + \ft simile \f* an offering to me. They will come on horses, in chariots, on mules, and on camels. They will
+come to Zion, my sacred Hill in Jerusalem. That will be like \f + \ft simile \f* the offerings that my Israeli people used to bring in the
 correct manner to the temple. 
 \v 21 I solemnly promise that I will appoint some of them to be priests, and others to do other work in my temple.
 \add That will surely happen because\add* I, Yahweh, have said it.
 \b
 \p
 \v 22 I also promise that just like the new heaven and the new earth will last forever, you will always have descendants, and
-you \\f + \\ft metonymy \\f* will always be honored. 
+you \f + \ft metonymy \f* will always be honored. 
 \v 23 At every festival to celebrate the Sabbath \add each week\add* and the new moon
 \add each month\add*, everyone will \add come and\add* worship me.
 \add That will surely happen because\add* I, Yahweh, have said it.

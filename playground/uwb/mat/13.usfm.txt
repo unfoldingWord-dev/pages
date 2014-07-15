@@ -5,7 +5,7 @@
 \v 1 That same day Jesus, \add along with us\add* disciples, left the house
 \add where he was teaching and went\add* to \add Galilee lake\add*. He sat down there,
 \v 2 and a very large crowd gathered around him to \add listen to his
-teaching\add*. So, \add in order that they would not jostle him\add* \f + \ft (OR,
+teaching\add*. So, \add in order that they would not jostle him\add* \f + \ft Or:
 \add to speak to the people better\add*), he got into a boat and sat down
 \add to teach them\add*. The crowd stood on the shore \add and was
 listening\add*. 
@@ -26,7 +26,7 @@ and\add* produced \add a lot of\add* grain. Some \add plants produced\add* one h
 times\add as many seeds as were planted\add*. Some \add plants produced\add* sixty times
 \add as much\add*. Some \add plants produced\add* thirty times\add as
 much\add*. 
-\v 9 If you want to understand this \\f + \\ft metonymy \\f*, you should consider \add carefully what I have just
+\v 9 If you want to understand this \f + \ft metonymy \f*, you should consider \add carefully what I have just
 said\add*.” 
 \s Matthew 13:10-17 
 \s Jesus told the disciples why he taught them using parables. 
@@ -43,24 +43,24 @@ means\add*.
 \v 14 What these people do completely fulfills what \add God told\add* the prophet Isaiah
 \add to say long ago to the people who did not\add* try to understand what he said,
 \p You will hear \add what I say\add*, but you will not understand it. You will keep seeing
-\add what I do\add*, but you will not understand \add what it means\add* \\f + \\ft doublet \\f*.
+\add what I do\add*, but you will not understand \add what it means\add* \f + \ft doublet \f*.
 \p
 \v 15  \add God also said to Isaiah\add*, 
-\q These people have become unresponsive \\f + \\ft metonymy \\f* \add to what they see me do and to what they hear me
-say\add*. They listen unwillingly \\f + \\ft metonymy \\f* \add to what I say\add*, and they do not pay attention to \\f + \\ft metonymy \\f*
-\add what I do\add*. If it were not so, they would perceive \\f + \\ft metonymy \\f*
-\add what I am doing\add*, they would understand \\f + \\ft metonymy \\f* \add what I say to
+\q These people have become unresponsive \f + \ft metonymy \f* \add to what they see me do and to what they hear me
+say\add*. They listen unwillingly \f + \ft metonymy \f* \add to what I say\add*, and they do not pay attention to \f + \ft metonymy \f*
+\add what I do\add*. If it were not so, they would perceive \f + \ft metonymy \f*
+\add what I am doing\add*, they would understand \f + \ft metonymy \f* \add what I say to
 them\add*, and they would turn \add away from their sinful lives\add* and
 turn\add to me\add*, and I would save them \add from being punished for their
-sins\add* \\f + \\ft metaphor \\f*. 
+sins\add* \f + \ft metaphor \f*. 
 \p
-\v 16 But as for you, God is pleased with you because you \\f + \\ft synecdoche \\f* have seen
-\add what I have done\add* and because you \\f + \\ft synecdoche \\f* understand \add what I
-say\add* \\f + \\ft doublet \\f*. 
+\v 16 But as for you, God is pleased with you because you \f + \ft synecdoche \f* have seen
+\add what I have done\add* and because you \f + \ft synecdoche \f* understand \add what I
+say\add* \f + \ft doublet \f*. 
 \v 17 Note this: Many prophets and righteous people \add who lived long
 ago\add* longed to see what you are seeing \add me do\add*, but they did not see it. They longed to hear the things that you
 have been hearing \add me say\add*, but they did not hear \add what you hear me
-say\add*.” \\f + \\ft doublet \\f* 
+say\add*.” \f + \ft doublet \f* 
 \s Matthew 13:18-23 
 \s Jesus explained that the parable about the kinds of soil illustrates four different ways people respond to his teaching.
 \p
@@ -69,8 +69,8 @@ you\add*, listen as I \add explain\add* the parable about the man who sowed
 \add seeds in various kinds of soil\add*. 
 \v 19 The people who hear about how God rules over people's lives and do not understand
 \add what they have heard\add* are \add like\add* the path where
-\add some of\add* the seeds fell. \add Satan\add*, the Evil One, comes and causes these people to forget \\f + \\ft metaphor \\f* what they have
-heard \\f + \\ft metaphor \\f*. 
+\add some of\add* the seeds fell. \add Satan\add*, the Evil One, comes and causes these people to forget \f + \ft metaphor \f* what they have
+heard \f + \ft metaphor \f*. 
 \v 20  \add Some people are like the\add* shallow soil on top of rock. When they hear God's message, they immediately accept it
 joyfully. 
 \v 21  \add But because it does not penetrate deeply into their hearts, they believe it for
@@ -79,7 +79,7 @@ have\add deep\add* roots. When they are treated badly and caused to suffer becau
 \add God's message\add*, they soon stop believing \add it\add*. 
 \v 22  \add Some people are like the soil that had the roots of\add* thorny
 \add weeds\add* in it. They hear God's message, but they desire to be rich,
-\add so they\add* worry \add only\add* about [MTY, PRS] material things. As a result, they \\f + \\ft personification \\f* forget
+\add so they\add* worry \add only\add* about [MTY, PRS] material things. As a result, they \f + \ft personification \f* forget
 \add God's\add* message and they do not do [IDI] the things that God wants them to do.
 \v 23 But \add some people are like the\add* good soil where \add some of the
 seeds\add* fell. \add Just like the plants that grew in this soil\add* produced a lot of grain,
@@ -98,8 +98,8 @@ servants\add* to sow good \add wheat\add* seed in his field.
 field\add*, an enemy of the landowner came and scattered weed \add seeds\add* in the midst of the wheat. Then he left.
 \v 26 After \add the seeds\add* sprouted and the green plants \add grew\add*, the heads of grain began to form. But the weeds
 also grew. 
-\v 27 So the servants of the landowner came and said to him, ‘Sir, you \\f + \\ft rhetorical question \\f*
-\add gave us good seeds and those are the ones we\add* \\f + \\ft rhetorical question \\f* \add planted\add* in your field. So where did the weeds come
+\v 27 So the servants of the landowner came and said to him, ‘Sir, you \f + \ft rhetorical question \f*
+\add gave us good seeds and those are the ones we\add* \f + \ft rhetorical question \f* \add planted\add* in your field. So where did the weeds come
 from?’ 
 \v 28 The landowner said to them, ‘\add My\add* enemy did this.’ His servants said to him, ‘So, do you want us to pull up
 \add the weeds and\add* put them in a pile?’ 
@@ -112,23 +112,23 @@ gather the weeds, tie them into bundles to be burned. Then gather the wheat
 \s Jesus illustrated the effects of people letting God rule their lives.
 \p
 \v 31 Jesus also told this parable: “The \add number of\add* (OR\add , God's influence in the lives
-of\add*) \f* \add people whose\add* lives God rules over \add will continue to grow. It is very
+of\add* \f* \add people whose\add* lives God rules over \add will continue to grow. It is very
 much\add* like mustard seeds grow after a man plants them in his field.
 \v 32 Although mustard seeds are among the smallest of all the seeds\add that people plant, here in Israel they become large
 plants. When the plants have fully grown, they are larger than the other garden plants. They become shrubs that are large
 enough for the birds to build nests in their branches.”\add* 
 \p
-\v 33 Jesus also told this parable: “\add The way people who let\add* God [MTY\f + \ft Or: EUP \f*] rule their lives \\f + \\ft metaphor \\f*
+\v 33 Jesus also told this parable: “\add The way people who let\add* God [MTY\f + \ft Or: EUP \f*] rule their lives \f + \ft metaphor \f*
 \add can influence the world\add* is like yeast that a woman mixed with about fifty pounds of flour.
 \add That small amount of yeast made\add* the whole batch of dough swell up.”
 \s Matthew 13:34-35 
 \s Jesus' use of parables fulfilled a prophecy in Scripture. 
 \p
-\v 34 Jesus told the crowd parables \add to teach them\add* all these things. When he spoke \\f + \\ft hyperbole \\f* to them he habitually used
+\v 34 Jesus told the crowd parables \add to teach them\add* all these things. When he spoke \f + \ft hyperbole \f* to them he habitually used
 such illustrations. 
 \v 35 By doing that, \add he\add* fulfilled what \add God told one
 of\add* the prophets to write \add long ago\add*. 
-\p I will speak \\f + \\ft metonymy \\f* in parables; I will tell \add parables to teach\add* what I have kept secret since I created the world.
+\p I will speak \f + \ft metonymy \f* in parables; I will tell \add parables to teach\add* what I have kept secret since I created the world.
 \s Matthew 13:36-43 
 \s Jesus explained the parable about wheat and weeds. The wheat represents those who obey God, and the weeds represents those
 who disobey God. The reaping represents judgment. 
@@ -137,8 +137,8 @@ who disobey God. The reaping represents judgment.
 \add we\add* disciples approached him and said, “Explain to us the parable about the weeds
 \add that grew\add* in the \add wheat\add* field.” 
 \v 37 He answered, “The one who sows the good seed represents \add me\add*, the one who came from heaven.
-\v 38 The field represents this world \\f + \\ft metonymy \\f*, \add where people live\add*. The seeds
-\add that grew\add* well represent the people who let God rule their lives \\f + \\ft metaphor \\f*. The weeds represent the people who do what
+\v 38 The field represents this world \f + \ft metonymy \f*, \add where people live\add*. The seeds
+\add that grew\add* well represent the people who let God rule their lives \f + \ft metaphor \f*. The weeds represent the people who do what
 \add the devil\add*, the Evil One, \add tells them to do\add*. 
 \v 39 The enemy who sowed the weed seeds represents the devil. The
 \add time when the reapers will\add* harvest \add the grain\add* represents the time when the world will end. The reapers
@@ -147,13 +147,13 @@ represent the angels.
 \add the judging of people, which God will do\add* when the world will end.
 \add It will be like this\add*: 
 \v 41 I, the one who came from heaven, will send my angels and they will gather
-\add from everywhere the people\add* who cause others to quit believing in me \\f + \\ft metaphor \\f* and all those who disobey
+\add from everywhere the people\add* who cause others to quit believing in me \f + \ft metaphor \f* and all those who disobey
 \add God's\add* commands. 
 \v 42 They will throw those people into the fires of\add hell\add*. There they will weep and grind their teeth
 \add because of the great pain that they are suffering\add*. 
 \v 43  \add God's\add* brightness will shine \add on\add* the people who have lived as he wants them to. It will shine
 \add on them as brightly\add* as the sun \add shines\add*. It will shine on them in the place where
-\add God\add*, their Father, rules over them. If you want to understand this \\f + \\ft metonymy \\f*, you should think
+\add God\add*, their Father, rules over them. If you want to understand this \f + \ft metonymy \f*, you should think
 \add carefully\add* about what I have just said.” 
 \s Matthew 13:44-50 
 \s Jesus illustrated the value of letting God rule our lives. 
@@ -203,12 +203,12 @@ took\add us\add* and left that \add area\add*.
 \v 54 We went to \add Nazareth, his hometown. ◄On the Sabbath\f + \ft Or: On \f* the Jewish rest
 day\add*► he began to teach the people in the Jewish worship house. The result was that the people there were astonished.
 But\add some\add* said, “\add This man is just an ordinary person like
-us\add*! \add So\add* how is it that he knows so much and understands so much \\f + \\ft rhetorical question \\f*? And how is it that he is able to do
-\add such\add* miracles \\f + \\ft rhetorical question \\f*? 
+us\add*! \add So\add* how is it that he knows so much and understands so much \f + \ft rhetorical question \f*? And how is it that he is able to do
+\add such\add* miracles \f + \ft rhetorical question \f*? 
 \v 55 ◄He is \add just\add* the son of the carpenter!\f + \ft Or: Isn \f*'t he \add just\add* the son of the carpenter
-\add that lived here\add*?► \\f + \\ft rhetorical question \\f* His mother is Mary, and his younger brothers are James, Joseph, Simon and Judas \\f + \\ft rhetorical question \\f*!
+\add that lived here\add*?► \f + \ft rhetorical question \f* His mother is Mary, and his younger brothers are James, Joseph, Simon and Judas \f + \ft rhetorical question \f*!
 \v 56 ◄And his sisters \add also live\add* here in our \add town\add*.\f + \ft Or: Do \f* not his sisters
-\add live\add* in our \add town\add*?► \\f + \\ft rhetorical question \\f* So how is he able to do all
+\add live\add* in our \add town\add*?► \f + \ft rhetorical question \f* So how is he able to do all
 these\add miracles\add*?” 
 \v 57 The people were unable to accept\add that\add* he\add was the Messiah.
 So\add* Jesus said to them, “\add People\add* honor \add me and other\add* prophets

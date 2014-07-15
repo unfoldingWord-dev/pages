@@ -34,7 +34,7 @@ the sound of the trumpets \add being blown\add*, shout ‘Absalom has become the
 and who were ready to rebel \add against David\add* became larger.
 \s David escaped from Jerusalem 
 \p
-\v 13 Soon a messenger came to David and said to him, “All \\f + \\ft hyperbole \\f* the Israeli people \\f + \\ft synecdoche \\f* are joining Absalom to rebel against
+\v 13 Soon a messenger came to David and said to him, “All \f + \ft hyperbole \f* the Israeli people \f + \ft synecdoche \f* are joining Absalom to rebel against
 you!” 
 \p
 \v 14 So David said to all his officials, “We must leave immediately if we want to escape from Absalom! We must go quickly,
@@ -49,10 +49,10 @@ with him.
 \add city\add* also walked by in front of him. 
 \p
 \v 19 Then David said to Ittai, \add the leader of\add* the soldiers from Gath, “◄Why are you going with us?\f + \ft Or: You \f* should not be
-going with us.► \\f + \\ft rhetorical question \\f* Go back and stay with \add Absalom the new\add* king. You are not an Israeli; you are living away from
+going with us.► \f + \ft rhetorical question \f* Go back and stay with \add Absalom the new\add* king. You are not an Israeli; you are living away from
 your own land. 
-\v 20 You have lived here \add in Israel\add* for only a short time \\f + \\ft hyperbole \\f*. And we do not even know where we will be going. So
-it is not right \\f + \\ft rhetorical question \\f* for me to force you to wander around with us. And take your troops with you. And I hope\f + \ft Or: wish \f* that Yahweh
+\v 20 You have lived here \add in Israel\add* for only a short time \f + \ft hyperbole \f*. And we do not even know where we will be going. So
+it is not right \f + \ft rhetorical question \f* for me to force you to wander around with us. And take your troops with you. And I hope\f + \ft Or: wish \f* that Yahweh
 will faithfully love and be loyal to you.” 
 \p
 \v 21 But Ittai replied, “Your Majesty, as surely as you live, wherever you go, I will go; I will stay with you, whether they
@@ -91,7 +91,7 @@ considered\add* to be foolish!”
 \v 34 But if you return to the city, \add you can help me by\add* saying to Absalom, ‘Your Majesty, I will serve you as
 faithfully as I served your father.’ If you do that \add and stay near
 Absalom\add*, you will be able to oppose any advice that Ahithophel gives to Absalom.
-\v 35 Zadok and Abiathar the priests are already there \\f + \\ft rhetorical question \\f*. Whatever you hear people say in the king's palace, tell it to
+\v 35 Zadok and Abiathar the priests are already there \f + \ft rhetorical question \f*. Whatever you hear people say in the king's palace, tell it to
 Zadok and Abiathar. 
 \v 36 Keep in mind that Zadok's son Ahimaaz and Abiathar's son Jonathan are also there. You can tell them whatever you find
 out, and send them to report it to me.” 

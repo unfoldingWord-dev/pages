@@ -8,20 +8,20 @@
 \v 2 But I will cause you to experience a great disaster, 
 \q2 and when that happens, 
 \q2 people will weep and lament very much. 
-\q Your city will become like \\f + \\ft metaphor \\f* an altar to me 
+\q Your city will become like \f + \ft metaphor \f* an altar to me 
 \q2 \add where people are burned as sacrifices\add*. 
 \q
 \v 3 I will cause your enemies \add to come to your city\add*; 
 \q2 they will surround it by \add building\add* towers 
 \q2 and putting in place other things with which to attack you. 
 \q
-\v 4 Then you will talk \add as though you were\add* buried deep in the ground \\f + \\ft doublet \\f*;
+\v 4 Then you will talk \add as though you were\add* buried deep in the ground \f + \ft doublet \f*;
 \q2 it will sound like someone whispering from under the ground,
-\q like \\f + \\ft simile \\f* a ghost speaking from a grave. 
+\q like \f + \ft simile \f* a ghost speaking from a grave. 
 \q
 \v 5 But, suddenly your enemies will be blown away like dust; 
 \q their armies will disappear 
-\q2 like \\f + \\ft simile \\f* chaff that is blown away \add by the wind\add*. 
+\q2 like \f + \ft simile \f* chaff that is blown away \add by the wind\add*. 
 \q It will happen very suddenly: 
 \q
 \v 6 The Almighty Commander of the armies of angels will come \add to help
@@ -30,7 +30,7 @@ you\add*
 \q2 with a strong wind and a big storm and a fire that will burn up everything.
 \q
 \v 7 Then the armies of all the nations that will be attacking Jerusalem will quickly disappear like a dream in the night
-\\f + \\ft doublet \\f*. 
+\f + \ft doublet \f*. 
 \q2 Those who will be attacking Jerusalem will suddenly vanish\f + \ft Or: disappear \f*.
 \q
 \v 8 People who are asleep dream about eating food, 
@@ -44,13 +44,13 @@ up\add*,
 \b
 \q
 \v 9 You \add people of Jerusalem\add*, be amazed and surprised \add about
-this\add* \\f + \\ft irony \\f*! 
-\q2 Do not believe \add what I have said\add* \\f + \\ft irony \\f*! 
-\q And continue to be blind \\f + \\ft irony \\f* \add about what Yahweh is doing\add*.
+this\add* \f + \ft irony \f*! 
+\q2 Do not believe \add what I have said\add* \f + \ft irony \f*! 
+\q And continue to be blind \f + \ft irony \f* \add about what Yahweh is doing\add*.
 \q2 You are stupid, but it is not because you have drunk a lot of wine.
 \q2 You stagger, but not from drinking alcoholic drinks. 
 \q
-\v 10 Because Yahweh has prevented the prophets \\f + \\ft doublet \\f* from understanding
+\v 10 Because Yahweh has prevented the prophets \f + \ft doublet \f* from understanding
 \add and telling you his messages\add*, 
 \q2 \add it is as though\add* he has caused you to be fast\f + \ft Or: deeply \f* asleep.
 \b
@@ -61,7 +61,7 @@ those who can read \add and request they read it\add*, they will say, “We cann
 “\add We cannot read it because\add* we do not know how to read.”
 \p
 \v 13 So the Lord says, “These people say that they belong to me.
-\q They honor me by what they say \\f + \\ft metonymy \\f*, 
+\q They honor me by what they say \f + \ft metonymy \f*, 
 \q2 but they do not think [IDI] about what I \add desire\add*. 
 \q When they worship me, 
 \q2 all they do is recite rules that people have made and that they have memorized.
@@ -76,12 +76,12 @@ they\add* are intelligent are not really intelligent.
 \v 15 Terrible things will happen to those who try to conceal from me, Yahweh,
 \q2 the \add evil\add* things that they plan to do; 
 \q they do those deeds in the darkness 
-\q2 and they think, ‘Yahweh certainly cannot \\f + \\ft rhetorical question \\f* see us; 
-\q2 he cannot \\f + \\ft rhetorical question \\f* know what we are doing!’ 
+\q2 and they think, ‘Yahweh certainly cannot \f + \ft rhetorical question \f* see us; 
+\q2 he cannot \f + \ft rhetorical question \f* know what we are doing!’ 
 \q
 \v 16 They are extremely foolish! 
 \q2 \add They act as though\add* they were the potters and I was the clay!
-\q Something that was created should certainly never \\f + \\ft rhetorical question \\f* say to the one who made it,
+\q Something that was created should certainly never \f + \ft rhetorical question \f* say to the one who made it,
 \q2 ‘You did not make me!’ 
 \q A jar should never say, 
 \q2 ‘The potter who made me did not know what he was doing!’ ” 

@@ -10,14 +10,14 @@ do\add* is not good;
 \b
 \q
 \v 3 Some people are ruined as a result of their own foolish actions,
-\q2 and when that happens, they \\f + \\ft synecdoche \\f* angrily say that it is Yahweh's fault.
+\q2 and when that happens, they \f + \ft synecdoche \f* angrily say that it is Yahweh's fault.
 \b
 \q
 \v 4 Those who are rich easily find people who want to be their friends,
 \q2 but when \add people become\add* poor, their friends \add often\add* desert them.
 \b
 \q
-\v 5 Those who tell lies in court will surely be punished \\f + \\ft litotes \\f*;
+\v 5 Those who tell lies in court will surely be punished \f + \ft litotes \f*;
 \q2 they will not escape it. 
 \b
 \q
@@ -34,11 +34,11 @@ do\add* is not good;
 \q2 those who get good sense will prosper. 
 \b
 \q
-\v 9 Those who tell lies in court will certainly be punished \\f + \\ft litotes \\f*;
+\v 9 Those who tell lies in court will certainly be punished \f + \ft litotes \f*;
 \q2 they will be ruined. 
 \b
 \q
-\v 10 It is not appropriate for foolish people to live ◄luxuriously\f + \ft Or: like \f* rich people►,
+\v 10 It is not appropriate for foolish people to live luxuriously\f + \ft Or: like rich people \f*,
 \q2 and it is even less appropriate for slaves to rule important officials.
 \b
 \q
@@ -47,14 +47,14 @@ do\add* is not good;
 \b
 \q
 \v 12 When a king is angry, \add that causes people to be afraid of
-him\add*, like the roar of a lion \add causes people to be afraid\add* \\f + \\ft simile \\f*,
+him\add*, like the roar of a lion \add causes people to be afraid\add* \f + \ft simile \f*,
 \q2 but if he acts kindly toward people, \add they like it when there
 is\add* dew on the grass \add in the morning\add*. 
 \b
 \q
 \v 13 Foolish children can cause disasters to happen to their parents.
-\q2 A wife who constantly ◄nags\f + \ft Or: quarrels \f* with► \add her husband annoys him
-like\add* water that continually drips does \\f + \\ft metaphor \\f*. 
+\q2 A wife who constantly nags\f + \ft Or: quarrels with \f* \add her husband annoys him
+like\add* water that continually drips does \f + \ft metaphor \f*. 
 \b
 \q
 \v 14 We can inherit a house or money from our parents \add when they
@@ -68,12 +68,12 @@ food\add*.
 \b
 \q
 \v 16 Those who obey \add God's\add* commandments will remain alive for a long time;
-\q2 those who despise\f + \ft Or: disobey \f* them \f + \ft (OR, those who do not control their own conduct) \f* will die
+\q2 those who despise\f + \ft Or: disobey \f* them \f + \ft Or: those who do not control their own conduct \f* will die
 \add while they are still young\add*. 
 \b
 \q
 \v 17 When we give things to poor people, \add it is as though\add* we are lending to Yahweh,
-\q2 and he will ◄pay us back\f + \ft Or: reward \f* us for what we did►. 
+\q2 and he will pay us back\f + \ft Or: reward us for what we did \f*. 
 \b
 \q
 \v 18 Discipline your children while \add they are young\add*, while you still hope that
@@ -82,7 +82,7 @@ food\add*.
 \add themselves\add*. 
 \b
 \q
-\v 19 Those who ◄do not control their temper\f + \ft Or: quickly \f* become very angry► will have to endure what happens as a result;
+\v 19 Those who do not control their temper\f + \ft Or: quickly become very angry \f* will have to endure what happens as a result;
 \q2 but if we rescue them from those troubles once, we will have to continue rescuing them.
 \b
 \q
@@ -107,7 +107,7 @@ money\add*.
 \q2 they put their hand in a dish \add to take some food\add* but do not even lift the food up to their mouths.
 \b
 \q
-\v 25 If you punish someone who makes fun of those who are wise, those who ◄are naive\f + \ft Or: need \f* to be instructed► will learn to do
+\v 25 If you punish someone who makes fun of those who are wise, those who are naive\f + \ft Or: need to be instructed \f* will learn to do
 what is smart; 
 \q2 if you rebuke those who are wise, they will \add listen to what you say
 and\add* become wiser. 
@@ -124,7 +124,7 @@ and\add* become wiser.
 \v 28 Worthless witnesses \add in court\add* make fun of \add judges who try
 to\add* make fair decisions, 
 \q2 and wicked people \add enjoy\add* doing evil like they enjoy eating
-\add good food\add* \\f + \\ft metaphor \\f*. 
+\add good food\add* \f + \ft metaphor \f*. 
 \b
 \q
 \v 29 God is ready to punish those who make fun of him\f + \ft Or: religion \f*;

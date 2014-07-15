@@ -1,7 +1,7 @@
 \c 12  
 \s A list of the priests and Levites who returned 
 \p
-\v 1  \add Many\add* priests and descendants of Levi returned ◄from Babylonia\f + \ft Or: to \f* Jerusalem► with Zerubbabel and Jeshua. They
+\v 1  \add Many\add* priests and descendants of Levi returned from Babylonia\f + \ft Or: to Jerusalem \f* with Zerubbabel and Jeshua. They
 included 
 \li Seraiah, Jeremiah, Ezra, 
 \li
@@ -62,7 +62,7 @@ Eliashib, who was the father of Joiada,
 \li and Nethanel, from the clan of Jedaiah. 
 \s Duties of priests and Levites 
 \p
-\v 22 During the years that Eliashib, Joiada, Johanan, and Jaddua were supreme priests, they ◄wrote\f + \ft Or: kept \f* a list of► the names
+\v 22 During the years that Eliashib, Joiada, Johanan, and Jaddua were supreme priests, they wrote\f + \ft Or: kept a list of \f* the names
 of the clans who were descendants of Levi. When Darius was the king of Persia, they stopped writing that list.
 \v 23 They wrote the names of the leaders of the clans who were descendants of Levi in the Book of Events in Israel, but they
 stopped writing those names when Eliashib's grandson Johanan \add was the supreme
@@ -131,7 +131,7 @@ temple also did their work as King David and his son Solomon had declared that t
 \v 46 Ever since the time that David had been the king and Asaph had been his chief musician, the musicians had led the people
 while they sang songs to praise and thank God. 
 \v 47 During the years that Zerubbabel and I governed the Israeli people, they all contributed the food that the singers and
-temple gatekeepers needed each day. They gave ◄a tithe\f + \ft Or: 10 \f*%► of their crops to the descendants of Levi
-\add who helped the priests\add*, and the descendants of Levi gave ◄a tithe\f + \ft Or: 10 \f*%► of that to
+temple gatekeepers needed each day. They gave a tithe\f + \ft Or: 10% \f* of their crops to the descendants of Levi
+\add who helped the priests\add*, and the descendants of Levi gave a tithe\f + \ft Or: 10% \f* of that to
 \add the priests, who were\add* descendants of Aaron \add the first supreme
 priest\add*. 

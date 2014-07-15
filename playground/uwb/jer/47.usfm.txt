@@ -5,7 +5,7 @@
 \add city in Philistia\add* was captured by the army of Egypt. 
 \p
 \v 2 This is what Yahweh said: 
-\q “\add An army\add* \\f + \\ft metaphor \\f* will be coming from the northeast 
+\q “\add An army\add* \f + \ft metaphor \f* will be coming from the northeast 
 \q2 that will cover the land like a flood. 
 \q They will destroy the land and everything in it; 
 \q2 they will destroy people and cities. 
@@ -17,7 +17,7 @@
 chariots\add*. 
 \q Men will run away; 
 \q2 they will not stop to help their children; 
-\q2 they will be completely weak and helpless \\f + \\ft metonymy \\f*. 
+\q2 they will be completely weak and helpless \f + \ft metonymy \f*. 
 \q
 \v 4 It will be the time for all the people of Philistia to be destroyed,
 \q2 and the time to prevent the remaining soldiers from helping the people of Tyre and Sidon
@@ -32,15 +32,15 @@ ashamed\add*.
 mourning\add*. 
 \q \add All you people who live\add* along the coast of the \add Mediterranean
 Sea\add* who are still alive, 
-\q2 how long \\f + \\ft rhetorical question \\f* will you gash yourselves \add because you are
+\q2 how long \f + \ft rhetorical question \f* will you gash yourselves \add because you are
 mourning\add*?” 
 \b
 \q
-\v 6  \add The people of Philistia say\add*, “Yahweh, when \\f + \\ft rhetorical question \\f* will you
-\add tell our enemies to stop killing us with\add* \\f + \\ft personification \\f* their swords?
-\q2 Tell them to \\f + \\ft personification \\f* put them back into their sheaths and allow them to stay there!”
+\v 6  \add The people of Philistia say\add*, “Yahweh, when \f + \ft rhetorical question \f* will you
+\add tell our enemies to stop killing us with\add* \f + \ft personification \f* their swords?
+\q2 Tell them to \f + \ft personification \f* put them back into their sheaths and allow them to stay there!”
 \q
-\v 7 But it would not be right \\f + \\ft rhetorical question \\f* for their swords to stay there,
+\v 7 But it would not be right \f + \ft rhetorical question \f* for their swords to stay there,
 \q2 because Yahweh has commanded their enemies \add to do something
 more\add*; 
 \q Yahweh intends to tell them to attack \add all the people living

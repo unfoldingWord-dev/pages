@@ -4,17 +4,17 @@
 \p
 \v 1 Then Jesus said to the crowd and to us his disciples, 
 \v 2 “\bd Moses\bd* was the \add renowned\add* teacher who taught
-\add the people the laws that God gave him\add* \\f + \\ft metonymy \\f*. Now, the Pharisees and the men who teach our
-\add Jewish\add* laws have made themselves the ones who interpret those laws \\f + \\ft idiom \\f*.
+\add the people the laws that God gave him\add* \f + \ft metonymy \f*. Now, the Pharisees and the men who teach our
+\add Jewish\add* laws have made themselves the ones who interpret those laws \f + \ft idiom \f*.
 \v 3 Consequently, you should do \bd whatever they tell you that you must
 do.\bd* But do not do what they do, because they themselves do not do what they tell
 \add you that you must do\add*. 
 \v 4 They \add require you to obey many rules that are difficult to
 obey\add*. But \bd they themselves\bd* \add do not help anyone obey those rules. It
-is\add* as if they are tying up loads that are hard to carry and putting them on your shoulders \\f + \\ft metaphor \\f*
+is\add* as if they are tying up loads that are hard to carry and putting them on your shoulders \f + \ft metaphor \f*
 \add for you to carry. But they\add* \bd themselves\bd* \add do not desire to help anyone obey those laws. They are
 like\add* people who do not want to lift \add even the slightest
-load\add* that they \add could lift\add* \\f + \\ft metaphor \\f* 
+load\add* that they \add could lift\add* \f + \ft metaphor \f* 
 \v 5  \add with\add* one finger. Whatever they do, they do it to be seen by other people {so that other people will see them
 doing that}. \add For example\add*, they make extra wide the tiny boxes containing portions of Scripture that they wear on
 their arms. They enlarge the tassels on their robes, \add to make others think that they are
@@ -43,12 +43,12 @@ them\add* to be important must serve others as servants do.
 \add Jewish\add* laws and you Pharisees are hypocrites! There will be terrible punishment for
 \add you, because by teaching what is false\add*, you \add prevent
 people\add* [MTY\f + \ft Or: HYP \f*] \add who are thinking about letting\add* God rule their lives
-\add from doing that\add* \\f + \\ft metaphor \\f*. \add What you are doing is like\add* closing a gate \\f + \\ft metaphor \\f*
+\add from doing that\add* \f + \ft metaphor \f*. \add What you are doing is like\add* closing a gate \f + \ft metaphor \f*
 \add so that people who\add* are wanting to enter \add a city cannot go
 in\add*. As for \bd you,\bd* \add you do not let\add* God \add rule your lives. Neither do you
 allow\add* other people \add to let God rule their lives. What you do is
 like\add* not going into a \add house\add* yourselves, and not allowing others to enter it
-\add either\add* \\f + \\ft metaphor \\f*.\f +  \fk very  severely.”\f*” 
+\add either\add* \f + \ft metaphor \f*.\f +  \fk very  severely.”\f*” 
 \s Matthew 23:15 
 \s Jesus also warned the religious leaders about zealously encouraging others to believe what they teach.
 \p
@@ -61,13 +61,13 @@ hell than you yourselves \add deserve to\add*.”
 \s Jesus rebuked the religious leaders about their silly ideas about supporting their promises with oaths.
 \p
 \v 16 “You \add Jewish leaders\add*, your punishment will be terrible! You are
-\add like people who are\add* blind \\f + \\ft metaphor \\f* who are trying to lead others. You say,
+\add like people who are\add* blind \f + \ft metaphor \f* who are trying to lead others. You say,
 ‘\add In the case of\add* those who promise to \add do\add* something and then ask the Temple
 \add to affirm what they have promised\add*, it means nothing \add if they do not do
 what\add* they have promised. But if they ask the gold that is in the Temple
 \add to affirm what they have promised\add*, they must do what they promised.’
-\v 17 You are fools, and you are \add like people who are\add* blind \\f + \\ft metaphor \\f*! The gold
-\add that is in the Temple\add* is important, but \add the Temple\add* is even more important \\f + \\ft rhetorical question \\f*, because it is the Temple
+\v 17 You are fools, and you are \add like people who are\add* blind \f + \ft metaphor \f*! The gold
+\add that is in the Temple\add* is important, but \add the Temple\add* is even more important \f + \ft rhetorical question \f*, because it is the Temple
 that the gold is in that sets the gold apart for a special use for God.
 \v 18 Also \add you say\add*, ‘In the case of those who promise to
 \add do\add* something and then ask \add the altar to affirm what they have
@@ -75,8 +75,8 @@ promised\add*, it means nothing \add if they do not do what they have
 promised\add*. But if they ask the gift \add that\add* they have put on the altar
 \add to support what they have promised\add*, they must do \add what they
 promised\add*.’ 
-\v 19  \add You are like people who are\add* blind \\f + \\ft metaphor \\f*. The gift
-\add that is offered\add* on the altar is important, but the altar is even more important \\f + \\ft rhetorical question \\f* because it is the altar on
+\v 19  \add You are like people who are\add* blind \f + \ft metaphor \f*. The gift
+\add that is offered\add* on the altar is important, but the altar is even more important \f + \ft rhetorical question \f* because it is the altar on
 which the offering is offered that sets it apart for a special use for God.
 \v 20 So, those who promise to do something, and then ask the altar
 \add to affirm what they have promised\add* are asking everything on the
@@ -102,7 +102,7 @@ act\add* justly toward others, you do not act mercifully toward people, and you 
 touching gnats and camels makes you unacceptable to God. What you are doing is
 like\add* straining a gnat \add out of a jar of water so that you do not swallow it and thereby become unacceptable to
 God\add*, and \add at the same time\add* swallowing a camel \add with the
-water\add* \\f + \\ft metaphor \\f*!” 
+water\add* \f + \ft metaphor \f*!” 
 \s Matthew 23:25-26 
 \s Jesus also rebuked the religious leaders about being greedy and selfish.
 \p
@@ -112,37 +112,37 @@ like\add* cups and plates that have been cleaned on the outside, but on the insi
 \add they are very filthy\add*. 
 \v 26 You blind Pharisees! First you must \add stop being greedy and
 selfish\add*. \add Then you will be able to do what\add* is \add righteous. That will be
-like\add* cleaning the inside of a cup first. Then when you clean \\f + \\ft metaphor \\f* the outside
+like\add* cleaning the inside of a cup first. Then when you clean \f + \ft metaphor \f* the outside
 \add of the cup\add*, \add the cup will truly be clean\add*.” 
 \s Matthew 23:27-28 
 \s Jesus rebuked the religious leaders for being hypocrites and pretending to be righteous.
 \p
 \v 27 “You men who teach the \add Jewish\add* laws and you Pharisees, your punishment will be terrible! You are hypocrites! You
-are like tombs \\f + \\ft simile \\f* that are painted white \add so that people can see them and avoid touching
+are like tombs \f + \ft simile \f* that are painted white \add so that people can see them and avoid touching
 them\add*. The outside surfaces are beautiful, but inside they are full of dead people's bones and filth.
-\v 28 You are \add like those tombs\add*. When people look at you, they think that you are righteous, but in your ◄inner
-beings\f + \ft Or: hearts \f*► you are hypocrites and you disobey \add God's\add* commands.”
+\v 28 You are \add like those tombs\add*. When people look at you, they think that you are righteous, but in your inner
+beings\f + \ft Or: hearts \f* you are hypocrites and you disobey \add God's\add* commands.”
 \s Matthew 23:29-36 
 \s Jesus accused the religious leaders of being guilty of killing all the prophets.
 \p
 \v 29 “You men who teach the \add Jewish\add* laws and you Pharisees are hypocrites! Your punishment will be terrible! You
 rebuild the tombs of the \add prophets whom others killed long ago\add*. You decorate the monuments
 \add that honor\add* righteous \add people\add*. 
-\v 30 You say, ‘If we had \add lived\add* when our ancestors \\f + \\ft metaphor \\f*
-\add lived\add*, we would not have helped \\f + \\ft metaphor \\f* those who killed \\f + \\ft metonymy \\f* the prophets.’
+\v 30 You say, ‘If we had \add lived\add* when our ancestors \f + \ft metaphor \f*
+\add lived\add*, we would not have helped \f + \ft metaphor \f* those who killed \f + \ft metonymy \f* the prophets.’
 \v 31 Thus \add you recognize that you should honor the prophets, but you disregard the word of God that other men whom God has
-sent teach you. In that way\add* you testify against yourselves that you are descendants and disciples \\f + \\ft metaphor \\f* of those who
+sent teach you. In that way\add* you testify against yourselves that you are descendants and disciples \f + \ft metaphor \f* of those who
 killed the prophets. 
-\v 32  \bd You\bd* are as ready to murder people as \\f + \\ft metaphor \\f* your ancestors were!
+\v 32  \bd You\bd* are as ready to murder people as \f + \ft metaphor \f* your ancestors were!
 \v 33  \add You people are so wicked\add*! You are \add as dangerous as
 poisonous\add* snakes [DOU, MET]! ◄You \add foolishly\add* think that you will escape being punished in hell!\f + \ft Or: Do \f* you
 \add foolishly\add* think that you will escape when \add God\add* punishes
-\add wicked people\add* in hell?► \\f + \\ft rhetorical question \\f* 
+\add wicked people\add* in hell?► \f + \ft rhetorical question \f* 
 \v 34 Take note that this is why I will send prophets, wise men, and other men who will teach you
 \add my message\add*. You will kill some of them by nailing them to crosses, and you will kill some in other ways. You will
 whip some of them in the places where you worship and \add you will\add* chase them from city to city.
-\v 35 As a result, God will consider that you are guilty for killing \\f + \\ft synecdoche \\f* all the righteous
-\add people\add*, including killing \\f + \\ft metonymy \\f* \add Adam's son\add* Abel, who was a righteous man \\f + \\ft synecdoche \\f*, and Zechariah, the son of
+\v 35 As a result, God will consider that you are guilty for killing \f + \ft synecdoche \f* all the righteous
+\add people\add*, including killing \f + \ft metonymy \f* \add Adam's son\add* Abel, who was a righteous man \f + \ft synecdoche \f*, and Zechariah, the son of
 Barachiah, whom you \add are guilty of\add* killing \add in the holy
 place\add* between the Temple and the altar, and for killing \add all the
 prophets\add* who lived between \add the times that those two men
@@ -154,9 +154,9 @@ lived\add*.
 \p
 \v 37 “O \add people of\add* Jerusalem [MTY, APO], you killed the prophets
 \add who lived long ago\add*, and you killed others whom \add God\add* sent to you. You killed them by throwing stones at them
-\\f + \\ft doublet \\f*! Many times I wanted to gather you together \add to protect
-you\add*, like a hen gathers her young chicks under her wings \\f + \\ft metaphor \\f*. But you did not want
+\f + \ft doublet \f*! Many times I wanted to gather you together \add to protect
+you\add*, like a hen gathers her young chicks under her wings \f + \ft metaphor \f*. But you did not want
 \add me to do that\add*. 
-\v 38 So listen to this: Your city \\f + \\ft synecdoche \\f* will become an uninhabited place.
+\v 38 So listen to this: Your city \f + \ft synecdoche \f* will become an uninhabited place.
 \v 39 Keep this in mind: You will see me again only when I \add return\add*, and you say
-\add about me\add*, ‘\add God\add* is truly pleased with this man who comes with God's authority \\f + \\ft metonymy \\f*.’”
+\add about me\add*, ‘\add God\add* is truly pleased with this man who comes with God's authority \f + \ft metonymy \f*.’”

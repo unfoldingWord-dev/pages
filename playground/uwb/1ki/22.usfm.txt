@@ -19,21 +19,21 @@ city\add*?”
 \v 7 But Jehoshaphat asked, “Is there no prophet of Yahweh here whom we can ask?”
 \p
 \v 8 The king of Israel replied, “There is one man we can talk to, to ask him if he can ask to find out what Yahweh wants. His
-name is Micaiah; he is the son of Imlah. But I hate him, because when he ◄prophesies\f + \ft Or: tells \f* what God says to him► he never says
+name is Micaiah; he is the son of Imlah. But I hate him, because when he prophesies\f + \ft Or: tells what God says to him \f* he never says
 that anything good \add will happen to me\add*. He always predicts that bad things will happen to me.”
 \p Jehoshaphat replied, “King Ahab, you should not say that!” 
 \p
 \v 9 So the king of Israel told one of his officers to summon Micaiah immediately.
 \s Micaiah prophesied against Ahab 
 \p
-\v 10 The king of Israel and the king of Judah were wearing their ◄royal robes\f + \ft Or: robes \f* that showed that they were kings►. They
+\v 10 The king of Israel and the king of Judah were wearing their royal robes\f + \ft Or: robes that showed that they were kings \f*. They
 were sitting on thrones at the place where people threshed grain, near the gate of Samaria
-\add city\add*. All of Ahab's prophets were standing in front of the kings, ◄prophesying\f + \ft Or: predicting \f* what was going to happen►.
+\add city\add*. All of Ahab's prophets were standing in front of the kings, prophesying\f + \ft Or: predicting what was going to happen \f*.
 \v 11 One of them, whose name was Zedekiah, the son of Kenaanah, had made from iron something
 \add that resembled\add* horns of a bull. Then he proclaimed \add to
 Ahab\add*, “This is what Yahweh says: ‘With horns like these your
 \add army\add* will keep attacking the Syrians like \add a bull attacks another
-animal\add* \\f + \\ft metaphor \\f*, until you completely destroy them!’ ” 
+animal\add* \f + \ft metaphor \f*, until you completely destroy them!’ ” 
 \p
 \v 12 All the \add other\add* prophets \add of Ahab\add* agreed. They said, “Yes! If you go up to attack Ramoth
 \add city\add* in the Gilead \add region\add*, you will be successful, because Yahweh will enable you to defeat them!”
@@ -47,7 +47,7 @@ king's army will be successful►.”
 \v 15 When Micaiah came to Ahab, Ahab asked him, “Micaiah, should we go to fight against
 \add the people of\add* Ramoth, or not?” 
 \p Micaiah replied, “Sure, go! Yahweh will enable your army to defeat them!”
-\v 16 But King Ahab \add realized that Micaiah was ◄lying\f + \ft Or: being \f* sarcastic►\add*, so he said to Micaiah, “I have told you \\f + \\ft rhetorical question \\f*
+\v 16 But King Ahab \add realized that Micaiah was lying\f + \ft Or: being sarcastic \f*\add*, so he said to Micaiah, “I have told you \f + \ft rhetorical question \f*
 many times that you must always tell only the truth when you say what Yahweh
 \add has revealed to you\add*!” 
 \p
@@ -55,7 +55,7 @@ many times that you must always tell only the truth when you say what Yahweh
 mountains. They seemed to be like sheep that did not have a shepherd. And Yahweh said, ‘Their master has been killed. So tell
 them all to go home peacefully.’ ” 
 \p
-\v 18 Ahab said to Jehoshaphat, “I told you \\f + \\ft rhetorical question \\f* that he never predicts that anything good will happen to me! He
+\v 18 Ahab said to Jehoshaphat, “I told you \f + \ft rhetorical question \f* that he never predicts that anything good will happen to me! He
 \add always\add* predicts that bad things will happen to me.” 
 \p
 \v 19 But Micaiah continued, saying, “Listen to what Yahweh showed to me!
@@ -73,7 +73,7 @@ and do it!’
 terrible will happen to you.” 
 \p
 \v 24 Then Zedekiah walked over to Micaiah and slapped him on his face. He said, “Do you think that Yahweh's Spirit left me in
-order to speak to you?” \\f + \\ft rhetorical question \\f* 
+order to speak to you?” \f + \ft rhetorical question \f* 
 \p
 \v 25 Micaiah replied, “You will find out for yourself \add to which of us Yahweh's Spirit has truly
 spoken\add* on the day when you go into a room of some house to hide
@@ -98,7 +98,7 @@ are a king►.” So Ahab disguised himself, and they both went into the battle.
 \p
 \v 31 The King of Syria told this to his thirty-two men who were driving the chariots: “Attack only the king of Israel!”
 \v 32 So when the men who were driving the Syrian chariots saw Jehoshaphat
-\add wearing the ◄royal robes\f + \ft Or: clothes \f* that showed he was the king►\add*, they pursued him. They shouted, “There is the king of
+\add wearing the royal robes\f + \ft Or: clothes that showed he was the king \f*\add*, they pursued him. They shouted, “There is the king of
 Israel!” But when Jehoshaphat cried out, 
 \v 33 they realized that he was not the king of Israel. So they stopped pursuing him.
 \p

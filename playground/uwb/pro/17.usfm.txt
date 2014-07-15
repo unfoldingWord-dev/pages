@@ -14,16 +14,16 @@
 \add to see if they are pure\add*. 
 \b
 \q
-\v 4 Those who do what is evil pay attention to people who say \\f + \\ft metonymy \\f* what is evil,
+\v 4 Those who do what is evil pay attention to people who say \f + \ft metonymy \f* what is evil,
 \q2 and liars pay attention to \add other people's\add* lies. 
 \b
 \q
 \v 5 Those who make fun of poor people insult God, the one who made the poor people,
-\q2 and those who are happy when \add someone else has\add* troubles will certainly be punished \\f + \\ft litotes \\f*
+\q2 and those who are happy when \add someone else has\add* troubles will certainly be punished \f + \ft litotes \f*
 \add by God\add*. 
 \b
 \q
-\v 6 Old people are \add usually\add* proud of \\f + \\ft metaphor \\f* their grandchildren,
+\v 6 Old people are \add usually\add* proud of \f + \ft metaphor \f* their grandchildren,
 \q2 just like children are \add usually\add* proud of their parents.
 \b
 \q
@@ -61,11 +61,11 @@ do\add*;
 \b
 \q
 \v 15 There are two things that Yahweh hates: 
-\q2 ◄condemning innocent people\f + \ft Or: saying \f* that people who have done nothing wrong must be punished►,
+\q2 condemning innocent people\f + \ft Or: saying that people who have done nothing wrong must be punished \f*,
 \q2 and declaring that people who have done wicked things should not be punished.
 \b
 \q
-\v 16 It is useless to allow foolish people \\f + \\ft rhetorical question \\f* to try to become wise by paying for it,
+\v 16 It is useless to allow foolish people \f + \ft rhetorical question \f* to try to become wise by paying for it,
 \q2 because they do not have enough good sense to become wise. 
 \b
 \q
@@ -80,10 +80,10 @@ money back
 \q
 \v 19 Those who like to sin \add also\add* like to cause strife\f + \ft Or: trouble \f*;
 \q2 and those who build fancy doors into their houses \add to show that they are very
-wealthy\add* \f + \ft (OR, speak proudly) \f* are inviting disaster. 
+wealthy\add* \f + \ft Or: speak proudly \f* are inviting disaster. 
 \b
 \q
-\v 20 Those who ◄have perverse minds\f + \ft Or: are \f* always thinking about doing evil things► will not prosper,
+\v 20 Those who have perverse minds\f + \ft Or: are always thinking about doing evil things \f* will not prosper,
 \q2 and disasters will happen to those who always tell lies. 
 \b
 \q
@@ -92,7 +92,7 @@ wealthy\add* \f + \ft (OR, speak proudly) \f* are inviting disaster.
 \b
 \q
 \v 22 Being cheerful is like swallowing good medicine; 
-\q2 being discouraged\f + \ft Or: gloomy \f* all the time will ◄drain away your energy\f + \ft Or: cause \f* you to become weak► \\f + \\ft metonymy \\f*.
+\q2 being discouraged\f + \ft Or: gloomy \f* all the time will drain away your energy\f + \ft Or: cause you to become weak \f* \f + \ft metonymy \f*.
 \b
 \q
 \v 23 Wicked people\f + \ft Or: judges \f* accept bribes that are given to them secretly,
@@ -113,8 +113,8 @@ wealthy\add* \f + \ft (OR, speak proudly) \f* are inviting disaster.
 \b
 \q
 \v 27 Those who have good sense do not talk a lot, 
-\q2 and those who ◄control their tempers\f + \ft Or: keep \f* themselves from becoming very angry► 1are truly wise.
+\q2 and those who control their tempers\f + \ft Or: keep themselves from becoming very angry \f* 1are truly wise.
 \b
 \q
 \v 28 People may think that foolish people who do not say anything are wise;
-\q2 if foolish people ◄do not say anything\f + \ft Or: keep \f* their mouths shut►, others will think that they are very intelligent.
+\q2 if foolish people do not say anything\f + \ft Or: keep their mouths shut \f*, others will think that they are very intelligent.

@@ -5,7 +5,7 @@
 \add city\add* and the country of Babylonia. 
 \p
 \v 2 This is what Yahweh says: 
-\q “Proclaim \\f + \\ft doublet \\f* a message among the nations; 
+\q “Proclaim \f + \ft doublet \f* a message among the nations; 
 \q2 do not withhold any of it; 
 \q raise up a signal flag 
 \q2 to announce that Babylon will be captured. 
@@ -30,11 +30,11 @@
 \q2 They will make an everlasting agreement with me that they will never forget.
 \b
 \q
-\v 6 My people have been like \\f + \\ft metaphor \\f* lost sheep. 
+\v 6 My people have been like \f + \ft metaphor \f* lost sheep. 
 \q2 Their \add leaders\f + \ft Or: rulers \f*\add* have caused them \add to abandon
 me\add* 
-\q2 like \\f + \\ft metaphor \\f* shepherds who have allowed their sheep to wander in the hills and mountains.
-\q \add My people are like\add* \\f + \\ft metaphor \\f* sheep 
+\q2 like \f + \ft metaphor \f* shepherds who have allowed their sheep to wander in the hills and mountains.
+\q \add My people are like\add* \f + \ft metaphor \f* sheep 
 \q2 that do not know the path to return to the sheepfold. 
 \q
 \v 7 All their enemies who found them attacked them. 
@@ -48,13 +48,13 @@ them\add*.’
 \q
 \v 8 But now, \add I say to the leaders of my people\add*, ‘Flee from Babylon!
 \q2 Leave the land of Babylonia! 
-\q Be like \\f + \\ft simile \\f* male goats that go in front of the rest of the flock;
+\q Be like \f + \ft simile \f* male goats that go in front of the rest of the flock;
 \q2 lead my people \add back to their own land\add*. 
 \q
 \v 9 Do that because I am going to gather an army of great nations to the north
 \add of Babylon\add*. 
 \q2 They will join together to attack Babylon and will capture it.
-\q Their arrows will be like \\f + \\ft simile \\f* skilled warriors 
+\q Their arrows will be like \f + \ft simile \f* skilled warriors 
 \q2 that always hit what they are aiming at. 
 \q
 \v 10 Babylonia will be conquered, 
@@ -62,12 +62,12 @@ them\add*.’
 \q2 \add That will surely happen because\add* I, Yahweh, have said it.’ ”
 \s The conquest of Babylon 
 \q
-\v 11 “You people \add of Babylon\add* who ◄plundered\f + \ft Or: stole \f* everything valuable from► my chosen people,
-\q2 now you are very happy \\f + \\ft doublet \\f*. 
-\q You run around joyfully like \\f + \\ft simile \\f* a calf in a meadow, 
-\q2 and are happy like \\f + \\ft simile \\f* male horses are happy when they are neighing.
+\v 11 “You people \add of Babylon\add* who plundered\f + \ft Or: stole everything valuable from \f* my chosen people,
+\q2 now you are very happy \f + \ft doublet \f*. 
+\q You run around joyfully like \f + \ft simile \f* a calf in a meadow, 
+\q2 and are happy like \f + \ft simile \f* male horses are happy when they are neighing.
 \q
-\v 12 But soon your people will be very disgraced \\f + \\ft doublet \\f* \add as a result of being
+\v 12 But soon your people will be very disgraced \f + \ft doublet \f* \add as a result of being
 conquered\add*. 
 \q2 Your country will be the most insignificant nation; 
 \q2 it will be a desert, a dry and deserted land. 
@@ -75,13 +75,13 @@ conquered\add*.
 \v 13 Because I, Yahweh, am angry with you people of Babylon, 
 \q2 I will cause your city to become completely deserted. 
 \q All who pass by will be horrified 
-\q2 and will ◄gasp\f + \ft Or: be \f* shocked► because of the destruction there.
+\q2 and will gasp\f + \ft Or: be shocked \f* because of the destruction there.
 \b
 \q
 \v 14  \add All you nations that surround Babylon\add*, 
 \q2 prepare to attack it! 
 \q Tell your archers to shoot at their enemies; 
-\q2 shoot all of you arrows at them \\f + \\ft litotes \\f*, 
+\q2 shoot all of you arrows at them \f + \ft litotes \f*, 
 \q2 because the people\f + \ft Or: leaders \f* of Babylon have sinned against me, Yahweh.
 \q
 \v 15 Shout \add war-cries\add* against Babylon from all sides of the city.
@@ -96,10 +96,10 @@ Babylon\add*,
 \q2 and those who reap the harvests! 
 \q Because of the swords carried by those who will attack Babylon,
 \q2 \add those people in Babylon who have come from other countries\add*
-\q2 should all run away, back to their own countries \\f + \\ft doublet \\f*!” 
+\q2 should all run away, back to their own countries \f + \ft doublet \f*!” 
 \s God's people will return to Israel 
 \q
-\v 17 “The Israeli people are like \\f + \\ft metaphor \\f* sheep 
+\v 17 “The Israeli people are like \f + \ft metaphor \f* sheep 
 \q2 that have been scattered by lions. 
 \q First the army of the king of Assyria defeated them. 
 \q2 Then \add the army of\add* King Nebuchadnezzar of Babylon smashed them.
@@ -115,7 +115,7 @@ Babylon\add*,
 \q and the people in the hill areas of Ephraim and Gilead will have all they want to eat.
 \q
 \v 20 At that time, there will not be people in Israel and in Judah who
-\add are still guilty for having\add* sinned \\f + \\ft doublet \\f*, 
+\add are still guilty for having\add* sinned \f + \ft doublet \f*, 
 \q2 because I will forgive the small group of people whom I enable to still be alive.’ ”
 \s God's punishment on Babylon 
 \q
@@ -128,7 +128,7 @@ Babylon\add*,
 \v 22 Shout your battle cries throughout the land; 
 \q2 shout \add when you are causing\add* great destruction. 
 \q
-\v 23  \add The army of Babylon is like\add* \\f + \\ft metaphor \\f* the most powerful hammer on the earth,
+\v 23  \add The army of Babylon is like\add* \f + \ft metaphor \f* the most powerful hammer on the earth,
 \q2 but it will be completely shattered. 
 \q Babylon will be deserted among the other nations.’ 
 \q
@@ -146,11 +146,11 @@ Babylon\add*,
 \v 26 So, \add you enemies of Babylonia\add*, come from distant lands and attack it.
 \q2 Break open the places where they store the grain. 
 \q Crush the walls of the city and the houses 
-\q2 and pile up \add the rubble like\add* \\f + \\ft simile \\f* heaps of grain. 
+\q2 and pile up \add the rubble like\add* \f + \ft simile \f* heaps of grain. 
 \q Destroy everything; 
 \q2 do not leave anything that is not destroyed. 
 \q
-\v 27 Destroy all the young \add men who are as strong as\add* \\f + \\ft metaphor \\f* bulls;
+\v 27 Destroy all the young \add men who are as strong as\add* \f + \ft metaphor \f* bulls;
 \q2 take them to where you will slaughter them. 
 \q It will be terrible for them, 
 \q2 because it will be time for them to be punished. 
@@ -160,10 +160,10 @@ Babylon\add*,
 \add in Jerusalem\add*. 
 \b
 \q
-\v 29 Summon archers \\f + \\ft doublet \\f* to come to attack Babylon; 
+\v 29 Summon archers \f + \ft doublet \f* to come to attack Babylon; 
 \q2 surround the city 
 \q2 in order that no one will escape. 
-\q Do to the people of Babylon what they have done to others \\f + \\ft doublet \\f*,
+\q Do to the people of Babylon what they have done to others \f + \ft doublet \f*,
 \q2 because they have defied me, the Holy One of the Israeli people.
 \q
 \v 30 The young men of Babylon will fall in the streets; 
@@ -172,7 +172,7 @@ Babylon\add*,
 \v 31 I, the Almighty Commander of the armies of angels, say this:
 \q2 ‘You arrogant\f + \ft Or: proud \f* people, 
 \q it is now the time; 
-\q2 it is the day \\f + \\ft doublet \\f* when I will punish you. 
+\q2 it is the day \f + \ft doublet \f* when I will punish you. 
 \q
 \v 32 Your land is full of proud people, 
 \q2 but you will stumble and fall, 
@@ -181,7 +181,7 @@ Babylon\add*,
 \q2 that will burn up everything that is nearby.’ 
 \p
 \v 33 I, the Almighty Commander of the armies of angels, also say this:
-\q ‘The people of Israel and Judah were ◄oppressed\f + \ft Or: treated \f* cruelly►;
+\q ‘The people of Israel and Judah were oppressed\f + \ft Or: treated cruelly \f*;
 \q2 those who captured them guarded them carefully \add and would not allow them to leave
 Babylon\add*. 
 \q
@@ -192,7 +192,7 @@ Babylon\add*.
 \q but the people of Babylonia will not have peace. 
 \b
 \q
-\v 35  \add I will send enemy soldiers carrying\add* swords \\f + \\ft personification \\f* to strike the people of Babylonia;
+\v 35  \add I will send enemy soldiers carrying\add* swords \f + \ft personification \f* to strike the people of Babylonia;
 \q2 they will strike the officials and wise men 
 \q2 and all the other people who live in Babylon. 
 \q
@@ -203,8 +203,8 @@ Babylon\add*.
 \q
 \v 37 They will strike their horses and chariots 
 \q2 and the foreigners who are in the army of Babylonia, 
-\q2 and they will all become \add as weak\add* as \\f + \\ft metaphor \\f* women. 
-\q They will seize \\f + \\ft metonymy \\f* all the valuable things there in Babylon
+\q2 and they will all become \add as weak\add* as \f + \ft metaphor \f* women. 
+\q They will seize \f + \ft metonymy \f* all the valuable things there in Babylon
 \q2 and take them away. 
 \q
 \v 38 I will cause the streams to become dry. 
@@ -216,10 +216,10 @@ them\add* to become crazy.
 \v 39 Soon only hyenas and other wild creatures will live there;
 \q2 and it will be a place where owls live. 
 \q People will never live there again; 
-\q2 it will be uninhabited forever \\f + \\ft doublet \\f*. 
+\q2 it will be uninhabited forever \f + \ft doublet \f*. 
 \q
 \v 40 I will destroy Babylon like I destroyed Sodom and Gomorrah and the nearby towns;
-\q2 no one will ever live there again \\f + \\ft doublet \\f*. 
+\q2 no one will ever live there again \f + \ft doublet \f*. 
 \b
 \q
 \v 41 Look! A great army will come from the north. 
@@ -229,7 +229,7 @@ Babylon\add*.
 \v 42 Their army has bows \add and arrows\add* and spears; 
 \q2 they are very cruel, and do not act mercifully to anyone. 
 \q As they ride along on their horses, 
-\q2 the sound of the horses' hooves is like \\f + \\ft simile \\f* the roaring of the ocean
+\q2 the sound of the horses' hooves is like \f + \ft simile \f* the roaring of the ocean
 \add waves\add*; 
 \q they are riding in battle formation 
 \q2 to attack you, you people of Babylon. 
@@ -239,19 +239,19 @@ Babylon\add*.
 \q “I have heard reports about the enemy \add approaching\add*; 
 \q2 so I am very frightened, with the result that I am weak. 
 \q I am very fearful, and anguished\f + \ft Or: worried \f*, 
-\q2 like \\f + \\ft simile \\f* a woman who is about to give birth to a baby.” 
+\q2 like \f + \ft simile \f* a woman who is about to give birth to a baby.” 
 \q
 \v 44 I, Yahweh, will come to Babylon \add suddenly\add* like a lion comes out of the jungle
 \q2 and \add leaps on the sheep that are eating\add* the good pastureland.
 \q I will quickly chase the people of Babylonia from their land.
 \q2 And then I will appoint for them \add a leader\add* whom I will choose;
-\q I will do that because there is no one \\f + \\ft rhetorical question \\f* like me who can say that what I have done is not right.
-\q2 No ruler can \\f + \\ft rhetorical question \\f* oppose me. 
+\q I will do that because there is no one \f + \ft rhetorical question \f* like me who can say that what I have done is not right.
+\q2 No ruler can \f + \ft rhetorical question \f* oppose me. 
 \q
 \v 45 Listen to what I have planned to do to the people of Babylon
 \add city\add* and the rest of Babylonia: 
 \q even the little children will be dragged away, 
-\q2 and I will completely destroy the people \\f + \\ft metaphor \\f* who live there.
+\q2 and I will completely destroy the people \f + \ft metaphor \f* who live there.
 \q
 \v 46 When Babylon is destroyed, the noise will be extremely loud,
 \q2 with the result that the earth will shake, 

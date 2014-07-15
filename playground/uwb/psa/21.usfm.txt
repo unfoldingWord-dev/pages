@@ -2,11 +2,11 @@
 \s A psalm written by David for the choir director 
 \b
 \q
-\v 1 Yahweh, ◄I, your king am glad\f + \ft Or: the \f* king is glad► because you have caused me\f + \ft Or: him \f* to be strong.
-\q2 ◄I rejoice\f + \ft Or: he \f* rejoices► greatly because you have rescued me\f + \ft Or: him \f*
+\v 1 Yahweh, I, your king am glad\f + \ft Or: the king is glad \f* because you have caused me, Or: him to be strong.
+\q2 I rejoice\f + \ft Or: he rejoices \f* greatly because you have rescued me, Or: him
 \add from my\f + \ft Or: his \f* enemies\add*. 
 \q
-\v 2 You have given me\f + \ft Or: him \f* the things that I\f + \ft Or: he \f* \\f + \\ft synecdoche \\f* desired 
+\v 2 You have given me\f + \ft Or: him \f* the things that I\f + \ft Or: he \f* \f + \ft synecdoche \f* desired 
 \q2 and you have not refused to do what I requested you to do. 
 \qr (Think about that!) 
 \q
@@ -14,21 +14,21 @@
 \q2 You placed a gold crown on my\f + \ft Or: his \f* head. 
 \q
 \v 4 I\f + \ft Or: He \f* asked you to enable me\f + \ft Or: him \f* to live \add for a long time\add*,
-\q2 and that is what you gave me\f + \ft Or: him \f*, a very long \\f + \\ft hyperbole \\f* life. 
+\q2 and that is what you gave me\f + \ft Or: him \f*, a very long \f + \ft hyperbole \f* life. 
 \q
-\v 5 ◄I am\f + \ft Or: He \f* is► greatly honored because you have helped me\f + \ft Or: him \f* to defeat my\f + \ft Or: his \f* enemies;
+\v 5 I am\f + \ft Or: He is \f* greatly honored because you have helped me\f + \ft Or: him \f* to defeat my, Or: his enemies;
 \q2 you have given me\f + \ft Or: him \f* splendor and majesty\f + \ft Or: praise \f*. 
 \q
 \v 6 You will bless me\f + \ft Or: him \f* forever, 
 \q2 and you have caused me\f + \ft Or: him \f* to be joyful in your presence. 
 \q
 \v 7 Yahweh, you are God Almighty, 
-\q2 and ◄I trust\f + \ft Or: the \f* king trusts► in you. 
+\q2 and I trust\f + \ft Or: the king trusts \f* in you. 
 \q Because you faithfully love me\f + \ft Or: him \f*, 
 \q2 disastrous things will never happen to me\f + \ft Or: him \f*. 
 \b
 \q
-\v 8 You will enable me\f + \ft Or: him \f* to capture \\f + \\ft metonymy \\f* all my\f + \ft Or: his \f* enemies 
+\v 8 You will enable me\f + \ft Or: him \f* to capture \f + \ft metonymy \f* all my\f + \ft Or: his \f* enemies 
 \q2 and all those who hate me\f + \ft Or: him \f*. 
 \q
 \v 9 When you appear, you will throw them into a fiery furnace. 

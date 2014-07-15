@@ -5,10 +5,10 @@
 \q2 he faithfully loves us forever\f + \ft Or: continually \f*! 
 \q
 \v 2  \add Because Yahweh has done many great things\add*, 
-\q2 no one can \\f + \\ft rhetorical question \\f* tell all the great things that Yahweh has done,
+\q2 no one can \f + \ft rhetorical question \f* tell all the great things that Yahweh has done,
 \q2 and no one can praise him enough\f + \ft Or: sufficiently \f*. 
 \q
-\v 3 ◄Happy are\f + \ft Or: He \f* is pleased with► those who act fairly\f + \ft Or: justly \f*,
+\v 3 Happy are\f + \ft Or: He is pleased with \f* those who act fairly, Or: justly,
 \q2 with those who always do what is right. 
 \q
 \v 4 Yahweh, be kind to me when you help your people; 
@@ -21,7 +21,7 @@
 \b
 \q
 \v 6 We and our ancestors have sinned; 
-\q2 we have done what is wicked and what is evil \\f + \\ft doublet \\f*. 
+\q2 we have done what is wicked and what is evil \f + \ft doublet \f*. 
 \q
 \v 7 When our ancestors were in Egypt, 
 \q2 they did not pay attention to the wonderful things that Yahweh did;
@@ -34,9 +34,9 @@
 \q
 \v 9 He rebuked the Red Sea and it became dry, 
 \q2 and then while he led our ancestors, 
-\q2 they walked through it as though it were as dry as a desert \\f + \\ft simile \\f*.
+\q2 they walked through it as though it were as dry as a desert \f + \ft simile \f*.
 \q
-\v 10 In that way he rescued them from the power \\f + \\ft metonymy \\f* of their enemies who hated them \\f + \\ft doublet \\f*.
+\v 10 In that way he rescued them from the power \f + \ft metonymy \f* of their enemies who hated them \f + \ft doublet \f*.
 \q
 \v 11 Then their enemies were drowned in the water \add of the Red
 Sea\add*; 
@@ -66,7 +66,7 @@ priest\add*,
 \q2 and also buried Abiram and his family. 
 \q
 \v 18 And \add God sent\add* a fire down \add from heaven\add* 
-\q2 which burned up all the wicked people who ◄supported them\f + \ft Or: agreed \f* with► them.
+\q2 which burned up all the wicked people who supported them\f + \ft Or: agreed with \f* them.
 \b
 \q
 \v 19 Then the \add Israeli leaders\add* made a gold \add statue of
@@ -87,7 +87,7 @@ a\add* calf at Sinai \add Mountain\add*
 \q2 And as a result God did not destroy them. 
 \b
 \q
-\v 24  \add Later\add*, our ancestors ◄refused\f + \ft Or: were \f* afraid► to enter beautiful
+\v 24  \add Later\add*, our ancestors refused\f + \ft Or: were afraid \f* to enter beautiful
 \add Canaan\add* land 
 \q2 because they did not believe \add that God would enable them to take the land from the people who were living there
 as\add* he had promised. 
@@ -95,7 +95,7 @@ as\add* he had promised.
 \v 25 They stayed in their tents and grumbled 
 \q2 and would not pay attention to what Yahweh said that they should do.
 \q
-\v 26 So he solemnly \\f + \\ft metonymy \\f* told them 
+\v 26 So he solemnly \f + \ft metonymy \f* told them 
 \q2 that he would cause them to die there in the desert, 
 \q2
 \v 27 and that he would scatter their descendants among the \add people
@@ -113,7 +113,7 @@ other\add* lifeless gods.
 \q
 \v 30 But Phinehas stood up and punished\f + \ft Or: killed \f* \add the ones who had sinned
 greatly\add*, 
-\q2 and as a result the ◄plague\f + \ft Or: serious \f* disease► ended. 
+\q2 and as a result the plague\f + \ft Or: serious disease \f* ended. 
 \q
 \v 31 People have remembered that righteous deed that Phinehas did,
 \q2 and in future years people will remember it. 
@@ -134,19 +134,19 @@ Yahweh\add*
 \q2 and they started to do the evil things that those people did.
 \q
 \v 36 Our ancestors worshiped the idols of those people, 
-\q2 which resulted in their being destroyed\f + \ft Or: exiled \f*\f + \ft Or: taken \f* to another country \\f + \\ft metaphor \\f*.
+\q2 which resulted in their being destroyed\f + \ft Or: exiled \f*\f + \ft Or: taken \f* to another country \f + \ft metaphor \f*.
 \q
 \v 37  \add Some of\add* the Israelis sacrificed their sons and daughters to the demons
 \add that those idols represented\add*. 
 \q
-\v 38 They killed \\f + \\ft metonymy \\f* their own children, who ◄were innocent\f + \ft Or: had \f* not things that were wrong►,
+\v 38 They killed \f + \ft metonymy \f* their own children, who were innocent\f + \ft Or: had not things that were wrong \f*,
 \q and offered them as sacrifices to the idols in Canaan. 
-\q2 As a result, Canaan land was polluted by those murders \\f + \\ft metonymy \\f*.
+\q2 As a result, Canaan land was polluted by those murders \f + \ft metonymy \f*.
 \q
 \v 39 So by their deeds they caused themselves to become unacceptable to God;
 \q2 \add because they did not faithfully worship only God\add*, 
 \q2 \add they became like\add* women who sleep with other men \add instead of sleeping only with their
-husbands\add* \\f + \\ft metaphor \\f*. 
+husbands\add* \f + \ft metaphor \f*. 
 \b
 \q
 \v 40 So Yahweh became very angry with his people; 
@@ -156,8 +156,8 @@ husbands\add* \\f + \\ft metaphor \\f*.
 him\add* to conquer them, 
 \q2 so those who hated our ancestors started to rule over them. 
 \q
-\v 42 Their enemies ◄oppressed them\f + \ft Or: treated \f* them cruelly► 
-\q2 and caused them to be completely controlled by their enemies \\f + \\ft metaphor \\f*.
+\v 42 Their enemies oppressed them\f + \ft Or: treated them cruelly \f* 
+\q2 and caused them to be completely controlled by their enemies \f + \ft metaphor \f*.
 \q
 \v 43 Many times Yahweh rescued them, 
 \q2 but they continued to rebel against him, 
@@ -172,12 +172,12 @@ him\add* to conquer them,
 \q2 and because he never stopped loving them very much, 
 \q2 he changed his mind \add about punishing them more\add*. 
 \q
-\v 46 He caused all those who had taken the Israelis \add to Babylonia\add* to ◄feel sorry for\f + \ft Or: pity \f*► them.
+\v 46 He caused all those who had taken the Israelis \add to Babylonia\add* to feel sorry for\f + \ft Or: pity \f* them.
 \b
 \q
 \v 47 Yahweh our God, rescue\f + \ft Or: save \f* us 
 \q and bring us back \add to Israel\add* from among those people-groups
-\q2 in order that we may thank you \\f + \\ft metonymy \\f* 
+\q2 in order that we may thank you \f + \ft metonymy \f* 
 \q2 and joyfully praise you. 
 \b
 \q

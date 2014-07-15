@@ -14,7 +14,7 @@ much\add*.
 \b
 \q
 \v 4 You are not a god who is pleased with wicked people; 
-\q2 you do not ◄associate with\f + \ft Or: invite \f* into your house► those who do what is evil.
+\q2 you do not associate with\f + \ft Or: invite into your house \f* those who do what is evil.
 \q
 \v 5 You do not allow those who are proud to come to you to worship you.
 \q2 You hate all those who do evil things. 
@@ -36,11 +36,11 @@ much\add*.
 \q
 \v 9 My enemies never say what is true; 
 \q2 in their inner beings they want to destroy others. 
-\q The things that they say \\f + \\ft metonymy \\f* are \add as foul as\add* an open grave
+\q The things that they say \f + \ft metonymy \f* are \add as foul as\add* an open grave
 \add where a corpse has been buried\add*. 
 \q2 They use their tongues to tell lies. 
 \q
-\v 10 O God, declare that they are guilty \\f + \\ft metonymy \\f* \add and punish them\add*.
+\v 10 O God, declare that they are guilty \f + \ft metonymy \f* \add and punish them\add*.
 \q2 Cause them to experience the same disasters\f + \ft Or: troubles \f* that they plan to cause to happen to others.
 \q Get rid of them because they have committed many sins, 
 \q2 and they have rebelled against you. 
@@ -48,9 +48,9 @@ much\add*.
 \q
 \v 11 But cause that all those who go to you to be protected will rejoice;
 \q2 cause them to sing joyfully to you forever. 
-\q Protect those who love you \\f + \\ft metonymy \\f*; 
+\q Protect those who love you \f + \ft metonymy \f*; 
 \q2 they are truly happy because ◄of what you \add do for them\f + \ft Or: they \f* belong
 to\add* you►. 
 \q
 \v 12 Yahweh, you always bless those who act righteously; 
-\q2 you protect them like a \add soldier is protected by his\add* shield \\f + \\ft simile \\f*.
+\q2 you protect them like a \add soldier is protected by his\add* shield \f + \ft simile \f*.

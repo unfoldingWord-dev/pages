@@ -2,15 +2,15 @@
 \s A message about punishing the evil kings of Judah 
 \p
 \v 1 This is another message that Yahweh gave to me: “Go down to the palace of the king of Judah and say this to him:
-\v 2 ‘You are the king of Judah. You are the ruler \\f + \\ft metonymy \\f*, like King David was. You and your officials and your people must
+\v 2 ‘You are the king of Judah. You are the ruler \f + \ft metonymy \f*, like King David was. You and your officials and your people must
 listen 
 \v 3 to what Yahweh says: “Act fairly and justly. Do what is right. Help those who have been robbed. Rescue people from those
 who oppress them. Stop doing evil deeds. Do not mistreat those who have come here from other countries, and do not mistreat
-orphans and widows. Stop murdering here \add in Jerusalem\add* \\f + \\ft metonymy \\f* those who ◄are innocent\f + \ft Or: have \f* not done things that are
+orphans and widows. Stop murdering here \add in Jerusalem\add* \f + \ft metonymy \f* those who ◄are innocent\f + \ft Or: have \f* not done things that are
 wrong►. 
-\v 4 If you obey these commands carefully, there will always be some descendant of King David who will be ruling here \\f + \\ft metonymy \\f* in
+\v 4 If you obey these commands carefully, there will always be some descendant of King David who will be ruling here \f + \ft metonymy \f* in
 Jerusalem. The king and his officials and other people will ride through the gates of the city in chariots and on horses.
-\v 5 But if you refuse to pay attention to these commands, I, Yahweh, solemnly declare, with myself \\f + \\ft metonymy \\f* as a witness, that
+\v 5 But if you refuse to pay attention to these commands, I, Yahweh, solemnly declare, with myself \f + \ft metonymy \f* as a witness, that
 this palace will become a pile of rubble.” ’ ” 
 \p
 \v 6 And this is what Yahweh says about the king's palace: 
@@ -28,7 +28,7 @@ this palace will become a pile of rubble.” ’ ”
 \v 8 People from many nations will walk past the ruins of this city and say to each other, “Why did Yahweh destroy this city
 that was very great?” 
 \v 9 And other people will reply, “He did it because his people stopped obeying the agreement that they had made with Yahweh
-their God. Instead, they worshiped \\f + \\ft doublet \\f* other gods.” 
+their God. Instead, they worshiped \f + \ft doublet \f* other gods.” 
 \b
 \q
 \v 10  \add Yahweh also says\add*, “Do not mourn for King \add Josiah\add*;
@@ -57,17 +57,17 @@ forced\add* unjustly to do that work;
 \q2 and paint them bright red.’ ” 
 \b
 \q
-\v 15 But it is certainly not \\f + \\ft rhetorical question \\f* having a beautiful cedar palace that causes a king to be great!
-\q Jehoiakim's father, Josiah, also had \\f + \\ft rhetorical question \\f* plenty of things to eat and drink.
+\v 15 But it is certainly not \f + \ft rhetorical question \f* having a beautiful cedar palace that causes a king to be great!
+\q Jehoiakim's father, Josiah, also had \f + \ft rhetorical question \f* plenty of things to eat and drink.
 \q2 But Josiah always did things that are right and just, 
 \q2 and that is why God blessed him. 
 \q
 \v 16 Josiah acted justly\f + \ft Or: fairly \f* and helped poor and needy people,
 \q2 so things went well for him. 
-\q Yahweh says, “That is \\f + \\ft rhetorical question \\f* the way a person should behave who knows me.
+\q Yahweh says, “That is \f + \ft rhetorical question \f* the way a person should behave who knows me.
 \q
-\v 17 But Jehoiakim, you \\f + \\ft metonymy \\f* are greedy and desire only to obtain things by acting dishonestly.
-\q2 You murder \\f + \\ft metonymy \\f* innocent people, 
+\v 17 But Jehoiakim, you \f + \ft metonymy \f* are greedy and desire only to obtain things by acting dishonestly.
+\q2 You murder \f + \ft metonymy \f* innocent people, 
 \q you oppress poor people, 
 \q2 and you treat people cruelly and violently.” 
 \b
@@ -103,7 +103,7 @@ say\add*.’
 \v 23 Now, \add your king\add* enjoys living in the cedar rooms in his palace,
 \q2 but soon he will be punished, 
 \q and then he will groan 
-\q2 like \\f + \\ft simile \\f* a woman who is giving birth to a baby.” 
+\q2 like \f + \ft simile \f* a woman who is giving birth to a baby.” 
 \s God will punish King Jehoiachin 
 \p
 \v 24 Yahweh says this: “Jehoiachin, son of King Jehoiakim of Judah, as surely as I am alive,
@@ -114,9 +114,9 @@ them to capture you.
 born there, but you will both die there. 
 \v 27 You will never return to this land that you will very much desire to return to.”
 \q
-\v 28  \add Someone said\add*, “Jehoiachin will be \\f + \\ft rhetorical question \\f* like a broken pot
+\v 28  \add Someone said\add*, “Jehoiachin will be \f + \ft rhetorical question \f* like a broken pot
 \q2 that is despised and which no one wants. 
-\q He and his children will be ◄exiled\f + \ft Or: forced \f* to go► to a foreign land.
+\q He and his children will be exiled\f + \ft Or: forced to go \f* to a foreign land.
 \q
 \v 29  \add I want\add* the people in this land to listen carefully to this message from Yahweh.”
 \q

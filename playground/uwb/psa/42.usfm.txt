@@ -2,9 +2,9 @@
 \s A psalm written by one of the descendants of Korah for the choir director
 \q
 \v 1 Deer desire to drink water from a stream of cool water. 
-\q2 In the same way \\f + \\ft simile \\f*, God, I need you very much. 
+\q2 In the same way \f + \ft simile \f*, God, I need you very much. 
 \q
-\v 2 I desire to have fellowship with \\f + \\ft metaphor \\f* you, the all-powerful God.
+\v 2 I desire to have fellowship with \f + \ft metaphor \f* you, the all-powerful God.
 \q2 \add I say to myself\add*, “When will I be able to go \add back to the temple in
 Israel\add* 
 \q2 and worship in your presence again?” 
@@ -22,7 +22,7 @@ done\add*;
 \q2 we were a large group who were celebrating. 
 \b
 \q
-\v 5 So \add I say to\add* myself, “◄Why am I sad and discouraged?\f + \ft Or: I \f* should not be sad and discouraged!► \\f + \\ft rhetorical question \\f*
+\v 5 So \add I say to\add* myself, “Why am I sad and discouraged?\f + \ft Or: I should not be sad and discouraged! \f* \f + \ft rhetorical question \f*
 \q I confidently expect God \add to bless me\add*, 
 \q2 and again I will praise him, 
 \q2 my God, the one who saves me.” 
@@ -33,29 +33,29 @@ done\add*;
 \q \add You are there in Israel\add* where the Jordan \add River\add* rushes down from the bottom of Hermon
 \add Mountain\add* and Mizar Mountain. 
 \q
-\v 7 But here, the great sorrow that I feel is like water that you send down \\f + \\ft metaphor \\f*;
+\v 7 But here, the great sorrow that I feel is like water that you send down \f + \ft metaphor \f*;
 \q2 it is like a waterfall that tumbles down and floods over me.
 \b
 \q
-\v 8 I desire that \f + \ft (OR, I know that) Yahweh will show me each day that he faithfully loves me,
-\q2 in order that each night I will (OR, each night I) \f* sing to him
+\v 8 I desire that \f + \ft Or: I know that) Yahweh will show me each day that he faithfully loves me,
+\q2 in order that each night I will (OR, each night I \f* sing to him
 \q2 and pray to him, the God who causes me to live. 
 \b
 \q
 \v 9 I say to God, who is like a huge rock \add under which I can
-hide\add* \\f + \\ft metaphor \\f*, 
+hide\add* \f + \ft metaphor \f*, 
 \q “◄Why have you forgotten me, with the result that I ‘mourn\f + \ft Or: cry \f*’ constantly because my enemies act cruelly toward me?\f + \ft Or: It \f*
 seems that you have forgotten me, with the result that I ‘mourn\f + \ft Or: cry \f*’ constantly because my enemies act cruelly toward me.►”
-\\f + \\ft rhetorical question \\f* 
+\f + \ft rhetorical question \f* 
 \q
 \v 10 They make fun of me constantly; 
-\q2 they continually ask, “Why does your god not help you?” \\f + \\ft rhetorical question \\f*
+\q2 they continually ask, “Why does your god not help you?” \f + \ft rhetorical question \f*
 \q And when they insult me \add like that\add*, 
 \q2 \add it is like\add* wounds that shatter\f + \ft Or: smash \f* my bones. 
 \b
 \q
 \v 11 But \add I say to\add* myself, 
-\q2 “◄Why am I sad and discouraged?\f + \ft Or: I \f* should not be sad and discouraged!► \\f + \\ft rhetorical question \\f*
+\q2 “Why am I sad and discouraged?\f + \ft Or: I should not be sad and discouraged! \f* \f + \ft rhetorical question \f*
 \q I will confidently expect God \add to bless me\add*, 
 \q2 and I will praise him again, 
 \q2 my God, the one who saves me.” 

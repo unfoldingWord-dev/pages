@@ -28,7 +28,7 @@ that carried supplies.
 \p
 \v 10 The king of Israel exclaimed, “This is a terrible situation!
 \add It seems that\add* Yahweh will allow the three of us to be captured by
-\add the army of\add* \\f + \\ft metonymy \\f* Moab!” 
+\add the army of\add* \f + \ft metonymy \f* Moab!” 
 \p
 \v 11 Jehoshaphat said, “Is there a prophet here who can ask Yahweh for us
 \add what we should do\add*?” 
@@ -36,7 +36,7 @@ that carried supplies.
 \p
 \v 12 Jehoshaphat said, “\add It will be good to ask him, because\add* he speaks what Yahweh tells him to say.”
 \p So those three kings went to Elisha. 
-\v 13 Elisha said to the king of Israel, “Why do you come to me \\f + \\ft rhetorical question \\f*? Go and ask those prophets that your father and mother
+\v 13 Elisha said to the king of Israel, “Why do you come to me \f + \ft rhetorical question \f*? Go and ask those prophets that your father and mother
 consulted!” 
 \p But Joram replied, “No, \add we want you to ask Yahweh, because it seems
 that\add* Yahweh is going to allow us three kings to be captured by the army of Moab.”
@@ -59,7 +59,7 @@ trees, stop water from flowing from their springs, and ruin their fertile fields
 \p
 \v 21 When the people of Moab heard that the three kings had come
 \add with their armies\add* to fight against them, all the men who were able to fight in battles, from the youngest men to the
-oldest ones, were summoned, and they ◄took their positions\f + \ft Or: prepared \f* to fight► at the
+oldest ones, were summoned, and they took their positions\f + \ft Or: prepared to fight \f* at the
 \add southern\add* border of their land. 
 \v 22 But when they rose early the next morning, they saw that the water across from them appeared to be as red as blood.
 \v 23 They exclaimed, “It is blood! The three enemy armies must have fought and killed each other! So let's go and take

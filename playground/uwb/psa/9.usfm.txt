@@ -4,7 +4,7 @@
 \v 1 Yahweh, I will praise you with all of my inner being. 
 \q2 I will tell others about all the wonderful things that you have done.
 \q
-\v 2 I will sing to celebrate what you \\f + \\ft metonymy \\f*, who are much greater than all other gods,
+\v 2 I will sing to celebrate what you \f + \ft metonymy \f*, who are much greater than all other gods,
 \add have done\add*. 
 \b
 \q
@@ -26,13 +26,13 @@
 \v 7 But Yahweh rules forever. 
 \q2 He judges \add people while he sits\add* on his throne to judge people,
 \q
-\v 8 and he will judge all the people in \\f + \\ft synecdoche \\f* the world justly;
-\q2 he will judge the people \add of all nations\add* fairly \\f + \\ft doublet \\f*.
+\v 8 and he will judge all the people in \f + \ft synecdoche \f* the world justly;
+\q2 he will judge the people \add of all nations\add* fairly \f + \ft doublet \f*.
 \q
 \v 9 Yahweh will be a refuge for those who are oppressed; 
 \q2 he will be like a shelter for them when they have trouble. 
 \q
-\v 10 Those who know Yahweh \\f + \\ft metonymy \\f* trust in him; 
+\v 10 Those who know Yahweh \f + \ft metonymy \f* trust in him; 
 \q2 he never abandons those who come to him ◄\add for help\f + \ft Or: to \f* worship
 him\add*►. 
 \b
@@ -50,12 +50,12 @@ him\add*►.
 \q Look at the ways that my enemies have injured me. 
 \q2 Do not allow me to die \add because of these injuries\add*. 
 \q
-\v 14 I want to live in order that I can praise you at the gates of Jerusalem \\f + \\ft metonymy \\f*
+\v 14 I want to live in order that I can praise you at the gates of Jerusalem \f + \ft metonymy \f*
 \q2 and to rejoice because you rescued me. 
 \q
-\v 15  \add It is as though\add* the \add wicked people of many\add* nations have dug a pit for me to fall into \\f + \\ft metaphor \\f*,
+\v 15  \add It is as though\add* the \add wicked people of many\add* nations have dug a pit for me to fall into \f + \ft metaphor \f*,
 \q2 but they have fallen into that same pit. 
-\q \add It is as if\add* they spread out a net to catch me \\f + \\ft metaphor \\f*,
+\q \add It is as if\add* they spread out a net to catch me \f + \ft metaphor \f*,
 \q2 but their feet have been caught in that same net. 
 \q
 \v 16 Because of what you have done, people know that you decide matters fairly\f + \ft Or: justly \f*,
@@ -64,7 +64,7 @@ him\add*►.
 \b
 \q
 \v 17 Wicked people will all \add die and\add* be buried in their graves,
-\q2 and \add their spirits\add* will go to be with all those who have ◄forgotten about\f + \ft Or: rejected \f*► you.
+\q2 and \add their spirits\add* will go to be with all those who have forgotten about\f + \ft Or: rejected \f* you.
 \q
 \v 18 But you will not forget those who are needy\f + \ft Or: poor \f*; 
 \q2 what they confidently expect will never be in vain. 

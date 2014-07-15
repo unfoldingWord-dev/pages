@@ -2,7 +2,7 @@
 \s The results of wisdom 
 \q
 \v 1 My son, listen to what I say, 
-\q2 and \add consider my instructions to be as valuable as\add* \\f + \\ft metaphor \\f* a treasure.
+\q2 and \add consider my instructions to be as valuable as\add* \f + \ft metaphor \f* a treasure.
 \q
 \v 2 Pay attention to wisdom 
 \q2 and try hard to understand what is wise. 
@@ -21,35 +21,35 @@ know\add*.
 \q2 He is the one who tells us things that we need to know and understand.
 \q
 \v 7 He gives good advice to those who conduct their lives as they should.
-\q2 He protects \\f + \\ft metaphor \\f* those who do what is right. 
+\q2 He protects \f + \ft metaphor \f* those who do what is right. 
 \q
 \v 8 He guards those who act justly\f + \ft Or: fairly \f* toward others, 
 \q2 and he watches over those who are faithful\f + \ft Or: loyal \f* to him. 
 \q
-\v 9  \add If you ask God for wisdom\add*, you will understand what is right and just \\f + \\ft doublet \\f* to do,
+\v 9  \add If you ask God for wisdom\add*, you will understand what is right and just \f + \ft doublet \f* to do,
 \q2 and you will know the right way to conduct your lives, 
 \q
 \v 10 because you will have wisdom in your inner being; 
 \q2 knowing \add what God wants you to know\add* will cause you to be joyful.
 \q
-\v 11 If you know \\f + \\ft personification \\f* how to choose what is right to do 
+\v 11 If you know \f + \ft personification \f* how to choose what is right to do 
 \q and if you understand \add what God wants\add* you to do, 
 \q2 God will protect you and guard you and keep you safe. 
 \q
-\v 12 If you are wise \\f + \\ft personification \\f*, you will not do what evil people do,
+\v 12 If you are wise \f + \ft personification \f*, you will not do what evil people do,
 \q2 and you will not \add believe what\add* deceitful people say.
 \q
 \v 13 Deceitful people have stopped acting fairly\f + \ft Or: justly \f* toward others
-\q2 and ◄walk on dark and evil paths\f + \ft Or: do \f* what evil people do► \\f + \\ft metaphor \\f*.
+\q2 and walk on dark and evil paths\f + \ft Or: do what evil people do \f* \f + \ft metaphor \f*.
 \q
 \v 14 They enjoy doing what is wrong; 
 \q2 they like to do what is evil and to deceive people. 
 \q
-\v 15 They ◄walk on crooked paths\f + \ft Or: always \f* deceive others► 
+\v 15 They walk on crooked paths\f + \ft Or: always deceive others \f* 
 \q2 and are always dishonest. 
 \b
 \q
-\v 16 If you are wise \\f + \\ft personification \\f*, you will also be saved from ◄immoral women\f + \ft Or: prostitutes \f*►;
+\v 16 If you are wise \f + \ft personification \f*, you will also be saved from immoral women\f + \ft Or: prostitutes \f*;
 \q2 you will not pay attention when adulterous women try to seduce\f + \ft Or: entice \f* you by what they say.
 \q
 \v 17 Those women have left the husbands whom they married when they were young;
@@ -60,13 +60,13 @@ adultery\add*.
 \q2 you will die \add when you are still young\add*; 
 \q2 the road \add to their houses\add* leads to hell. 
 \q
-\v 19 No man who ◄visits\f + \ft Or: sleeps \f* with► a woman like that will again
+\v 19 No man who visits\f + \ft Or: sleeps with \f* a woman like that will again
 \add live harmoniously with his family\add*. 
 \q2 He will never have a \add happy\add* life again. 
 \b
 \q
 \v 20 If \add you are wise\add*, you should behave like good men behave.
-\q2 You should ◄stay on the paths that righteous people walk on\f + \ft Or: do \f* what godly people do► \\f + \\ft metaphor \\f*,
+\q2 You should stay on the paths that righteous people walk on\f + \ft Or: do what godly people do \f* \f + \ft metaphor \f*,
 \q
 \v 21 because only godly people will live in this land \add and receive God's
 blessings\add*; 

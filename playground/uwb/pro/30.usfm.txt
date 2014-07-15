@@ -13,21 +13,21 @@
 \q2 and I do not know \add much\add* about God. 
 \q
 \v 4  \add But let me say this:\add* 
-\q No one \\f + \\ft rhetorical question \\f* has ascended to heaven \add to find out what God is
+\q No one \f + \ft rhetorical question \f* has ascended to heaven \add to find out what God is
 like\add* and returned \add to tell us\add*. 
-\q No one \\f + \\ft rhetorical question \\f* has gathered\f + \ft Or: held \f* the wind in his hand. 
-\q No one \\f + \\ft rhetorical question \\f* has wrapped the water \add in the ocean\add* in \add a piece
+\q No one \f + \ft rhetorical question \f* has gathered\f + \ft Or: held \f* the wind in his hand. 
+\q No one \f + \ft rhetorical question \f* has wrapped the water \add in the ocean\add* in \add a piece
 of\add* cloth 
-\q2 and no one \\f + \\ft rhetorical question \\f* has established the boundaries of the earth.
-\q \add If you know those things, tell me\add* \\f + \\ft rhetorical question \\f* his name, and the names of his children \\f + \\ft sarcasm \\f*.
+\q2 and no one \f + \ft rhetorical question \f* has established the boundaries of the earth.
+\q \add If you know those things, tell me\add* \f + \ft rhetorical question \f* his name, and the names of his children \f + \ft sarcasm \f*.
 \q \add But you do not know those things, so you cannot speak with authority about what God is
 like\add*. 
 \b
 \q
 \v 5 Everything that God has said is true; 
-\q2 he is like a shield \\f + \\ft metaphor \\f* for all those who request him to protect them.
+\q2 he is like a shield \f + \ft metaphor \f* for all those who request him to protect them.
 \q
-\v 6 Do not add to \f + \ft (OR, change) what God has said; 
+\v 6 Do not add to \f + \ft Or: change) what God has said; 
 \q2 if you do that, he will rebuke you and show that you are lying.
 \b
 \q
@@ -39,13 +39,13 @@ like\add*.
 \q2 Just give me the food that I need; 
 \q
 \v 9 because if I become rich, 
-\q2 I might say that I do not \\f + \\ft rhetorical question \\f* know you and that I do not need you;
+\q2 I might say that I do not \f + \ft rhetorical question \f* know you and that I do not need you;
 \q and if I become poor, 
 \q2 I might dishonor you by stealing things. 
 \s More wise sayings 
 \b
 \q
-\v 10 Do not ◄slander\f + \ft Or: say \f* bad things about► a worker to his boss;
+\v 10 Do not slander\f + \ft Or: say bad things about \f* a worker to his boss;
 \q2 if you do that, the worker will curse you, and cause you to have trouble.
 \b
 \q
@@ -59,16 +59,16 @@ like\add*.
 \q2 they think that they are very good and they despise others. 
 \q
 \v 14 Some people \add act very cruelly toward others\add*; 
-\q2 \add it is as though\add* \\f + \\ft metaphor \\f* they have teeth that are like sharp knives;
+\q2 \add it is as though\add* \f + \ft metaphor \f* they have teeth that are like sharp knives;
 \q they severely oppress poor people 
 \q2 and try to cause them to disappear from the land. 
 \b
 \q
 \v 15 Leeches \add are always wanting more blood to suck\add*; 
-\q2 \add similarly, greedy people are always saying\add* “Give me some!” or “Give me more!” \\f + \\ft metaphor \\f*
+\q2 \add similarly, greedy people are always saying\add* “Give me some!” or “Give me more!” \f + \ft metaphor \f*
 \b
-\q There are four things that are never ◄satisfied\f + \ft Or: content \f* with what they have►;
-\q2 they always want more \\f + \\ft litotes \\f*: 
+\q There are four things that are never satisfied\f + \ft Or: content with what they have \f*;
+\q2 they always want more \f + \ft litotes \f*: 
 \q
 \v 16 The place where the dead people are; 
 \q women who do not have any children; 
@@ -76,8 +76,8 @@ like\add*.
 \q and a fire that always needs more wood. 
 \b
 \q
-\v 17 Those who \\f + \\ft synecdoche \\f* make fun of their fathers 
-\q2 or refuse to obey their mothers (OR, despise their aged mothers) \f*
+\v 17 Those who \f + \ft synecdoche \f* make fun of their fathers 
+\q2 or refuse to obey their mothers (OR, despise their aged mothers \f*
 \q should \add die and\add* have their eyes pecked out by crows,
 \q2 and the rest of their corpses should be fed to the vultures.
 \b
@@ -88,11 +88,11 @@ like\add*.
 \v 19 How eagles fly in the sky, 
 \q how snakes are able to move\f + \ft Or: crawl \f* across a big rock, 
 \q how ships sail on the seas, 
-\q and how a man ◄courts\f + \ft Or: falls \f* in love with► a woman. 
+\q and how a man courts\f + \ft Or: falls in love with \f* a woman. 
 \b
 \q
-\v 20 This is what a woman who ◄is not faithful to\f + \ft Or: does \f* not have sex only with► her husband does:
-\q2 she commits adultery \\f + \\ft euphemism \\f*, and then bathes 
+\v 20 This is what a woman who is not faithful to\f + \ft Or: does not have sex only with \f* her husband does:
+\q2 she commits adultery \f + \ft euphemism \f*, and then bathes 
 \q2 and says, “I have not done anything that is wrong!” 
 \b
 \q
@@ -122,13 +122,13 @@ safe\add*.
 \q2 but they are \add cleverly able to get\add* inside kings' palaces.
 \b
 \q
-\v 29 There are four animals that strut around and look very impressive while they walk \\f + \\ft doublet \\f*:
+\v 29 There are four animals that strut around and look very impressive while they walk \f + \ft doublet \f*:
 \q
 \v 30 Lions, which are stronger than all other animals 
 \q2 and are not afraid of any of them; 
 \q
 \v 31 male goats, strutting roosters, 
-\q and kings who ◄parade\f + \ft Or: walk \f* proudly back and forth► in front of the people whom they rule.
+\q and kings who parade\f + \ft Or: walk proudly back and forth \f* in front of the people whom they rule.
 \b
 \q
 \v 32 If you have acted foolishly, exalting yourself, 

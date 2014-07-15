@@ -15,7 +15,7 @@
 \b
 \q
 \v 4 Will those evil people never learn \add what God will do to punish
-them\add* \\f + \\ft rhetorical question \\f*? 
+them\add* \f + \ft rhetorical question \f*? 
 \q They act violently toward Yahweh's people while eating the food that he provides),
 \q2 and they never pray to Yahweh. 
 \q
@@ -24,9 +24,9 @@ them\add* \\f + \\ft rhetorical question \\f*?
 him\add*. 
 \q
 \v 6 Those who do evil may prevent helpless people from doing what they plan to do,
-\q2 but Yahweh protects them \\f + \\ft metaphor \\f*. 
+\q2 but Yahweh protects them \f + \ft metaphor \f*. 
 \b
 \q
-\v 7 I wish\f + \ft Or: desire \f* that \add Yahweh\add* would come from Jerusalem \\f + \\ft metonymy \\f* and rescue us Israeli people!
+\v 7 I wish\f + \ft Or: desire \f* that \add Yahweh\add* would come from Jerusalem \f + \ft metonymy \f* and rescue us Israeli people!
 \q2 Yahweh, when you bless your people again, 
 \q2 all of us Israeli people, who are the descendants of Jacob, will rejoice.

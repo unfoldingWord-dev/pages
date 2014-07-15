@@ -1,9 +1,9 @@
 \c 1  
 \p
-\v 1  \add I am\add* Jude. I \add serve\add* Jesus Christ \add like\add* a voluntary slave \\f + \\ft metaphor \\f*. I am a
+\v 1  \add I am\add* Jude. I \add serve\add* Jesus Christ \add like\add* a voluntary slave \f + \ft metaphor \f*. I am a
 \add younger\add* brother of James, \add the leader of all the congregations. I am
 writing\add* to you whom \add God\add* has chosen \add to belong to him. You
-are\add* loved by God \add our\add* Father and protected by Jesus Christ \f + \ft (OR, whom
+are\add* loved by God \add our\add* Father and protected by Jesus Christ \f + \ft Or: whom
 \add God\add* has protected \add to present\add* to Jesus Christ).
 \v 2  \add I pray that\add* you will continue to \add experience\add* very much
 \add God acting\add* mercifully toward you, \add causing you to have
@@ -11,8 +11,8 @@ inner\add* peace, and loving \add you\add*.
 \s Jude 3-4 
 \s Proclaim the truth that we believe and strongly defend it against those who oppose it.
 \p
-\v 3 You whom I love, I ◄was very eager\f + \ft Or: very \f* much wanted► to write to you about that which we all ◄share\f + \ft Or: have \f* in common►, which
-is how ◄\add God\f + \ft Or: Jesus \f* Christ\add*► \add has\add* saved \add us\add*. But now I realize that it is necessary
+\v 3 You whom I love, I was very eager\f + \ft Or: very much wanted► to write to you about that which we all ◄share, Or: have in common \f*, which
+is how \add God\f + \ft Or: Jesus Christ\add* \f* \add has\add* saved \add us\add*. But now I realize that it is necessary
 \add for me\add* to write to you in order to exhort you to defend the
 \add truth about Christ\add* that we believe. \add Jesus and his
 apostles\add* gave that truth once for all to us who belong to God,
@@ -23,7 +23,7 @@ right► if we continue to sin. \add Those people show by the way that they cond
 lives\add* that they do not want to admit\f + \ft Or: accept \f* that Jesus Christ
 \add is\add* our only Master and Lord. \add It was written\add* long ago
 {\add Someone\add* long ago wrote} that \add God\add* would condemn ◄such ungodly people\f + \ft Or: people \f* like that whose lives are
-displeasing to him►. But some \add of those\add* people have entered \\f + \\ft metaphor \\f*
+displeasing to him►. But some \add of those\add* people have entered \f + \ft metaphor \f*
 \add like crawling snakes\add* into your congregations \add and oppose the truth about Christ, so you must resist\f + \ft Or: oppose \f*
 them\add*. 
 \s Jude 5-8 
@@ -39,7 +39,7 @@ positions\add*. Instead, they abandoned the place that \add God\add* gave them t
 \add in heaven\add*. So God has put those angels in chains forever in the darkness
 \add in hell. They will stay there\add* until the great day when
 \add God\add* will judge \add and punish\add* them. 
-\v 7 Similarly, the people who lived \\f + \\ft metonymy \\f* in Sodom and Gomorrah
+\v 7 Similarly, the people who lived \f + \ft metonymy \f* in Sodom and Gomorrah
 \add cities\add* and the nearby cities committed sexual immorality. They sought all kinds of sexual relations that differ
 \add from what God permits. So God destroyed their cities. What happened to those people and those
 angels\add* shows that \add God will\add* punish \add people, such as the ones who teach false
@@ -47,19 +47,19 @@ doctrine\add*, in the eternal fire \add of hell\add*.
 \v 8 Similarly, these \add ungodly people in your midst\add* also defile their own bodies
 \add by living immorally\add*, because \add they claim\f + \ft Or: say \f* that God
 revealed\add* in visions \add that they should act that way\add*. They refuse to
-\add allow\add* anyone to have authority over them, and they ◄revile\f + \ft Or: speak \f* evil about►
+\add allow\add* anyone to have authority over them, and they revile\f + \ft Or: speak evil about \f*
 \add God's\add* glorious\f + \ft Or: wonderful \f* \add angels\add*. 
 \s Jude 9-10 
 \s Those teachers of false doctrine revile the spiritual beings that they do not understand. But God will destroy them.
 \p
-\v 9 When ◄the devil\f + \ft Or: Satan \f*► argued with the chief angel, Michael, about
+\v 9 When the devil\f + \ft Or: Satan \f* argued with the chief angel, Michael, about
 \add who would take away\add* the body of \add the prophet\add* Moses
 \add to bury it\add*, Michael did not \add do as these teachers of false doctrine do. Even though Michael has much more
-authority than they do\add*, he did not disrespectfully ◄revile\f + \ft Or: say \f* evil things to► Satan and accuse\f + \ft Or: condemn \f* him. Instead, he
+authority than they do\add*, he did not disrespectfully revile\f + \ft Or: say evil things to \f* Satan and accuse, Or: condemn him. Instead, he
 \add only\add* said, “\add I desire that\add* the Lord \add God\add* will rebuke you!”
-\v 10 But the \add ones in your midst\add* who teach false doctrine ◄revile\f + \ft Or: speak \f* evil against► the
+\v 10 But the \add ones in your midst\add* who teach false doctrine revile\f + \ft Or: speak evil against \f* the
 \add spiritual\add* beings that they do not understand. They also
-\add do the evil things that they desire\add*, things that they know about ◄naturally\f + \ft Or: without \f* needing to think►, things that
+\add do the evil things that they desire\add*, things that they know about naturally\f + \ft Or: without needing to think \f*, things that
 they just do without considering\add the consequences\f + \ft Or: results \f*\add*, like animals. So they destroy themselves.
 \add But they will also be punished by God\add* {\add God will also\add* punish them}.
 \s Jude 11-13 
@@ -69,28 +69,28 @@ spiritually dead, restless, shameless, and unreliable.
 \v 11  \add God will do\add* terrible things to those who teach false doctrine! They conduct their lives
 \add wickedly\add* like Cain, \add who murdered his brother because he
 was\add* ◄\add jealous\f + \ft Or: angry \f* because God accepted his brother's sacrifice and did not accept
-his\add*►. They ◄devote themselves to \\f + \\ft metaphor \\f* \add doing\add* wrong things
+his\add*►. They devote themselves to \f + \ft metaphor \f* \add doing\add* wrong things
 \add like\add* Balaam, who \add tried to induce God's people to sin in order to get the money that was offered to
 him\add*. They will perish like Korah, who rebelled \add against the authority that God gave to
 Moses\add*►. 
 \v 12 Those teachers of false doctrine are \add as dangerous to you
-as\add* \\f + \\ft metaphor \\f* ◄hidden rocks on a reef\f + \ft Or: rocks \f* underneath the surface of the ocean►
+as\add* \f + \ft metaphor \f* ◄hidden rocks on a reef\f + \ft Or: rocks underneath the surface of the ocean \f*
 \add are to a boat\add*. When you gather together \add to eat the meals
 that\add* help you believers to love each other more and have a closer relationship with each other, they
 \add join you and\add* carouse shamelessly, caring \add only\add* for themselves
 \add and not for others. Because they do not do anything to help
-others\add* \\f + \\ft metaphor \\f*, they are \add as useless as\add* clouds that are blown along by the wind {that the wind blows along} but
+others\add* \f + \ft metaphor \f*, they are \add as useless as\add* clouds that are blown along by the wind {that the wind blows along} but
 that do not \add produce\f + \ft Or: give \f*\add* any rain. \add They are as disappointing
-as\add* \\f + \\ft metaphor \\f* trees that do not produce fruit in the autumn \add as we expect them
-to\add*. They are not only \add spiritually\add* \\f + \\ft metaphor \\f* dead themselves,
+as\add* \f + \ft metaphor \f* trees that do not produce fruit in the autumn \add as we expect them
+to\add*. They are not only \add spiritually\add* \f + \ft metaphor \f* dead themselves,
 \add but they are\add* not \add able to cause others to be\add* alive
-\add spiritually, just like\add* \\f + \\ft metaphor \\f* trees that have been {that
+\add spiritually, just like\add* \f + \ft metaphor \f* trees that have been {that
 \add someone\add* has} uprooted and \add as a result\add* are unable to produce any fruit.
-\v 13 They are \add restless\add* \\f + \\ft metaphor \\f*, \add like\add* the pounding waves of the ocean.
+\v 13 They are \add restless\add* \f + \ft metaphor \f*, \add like\add* the pounding waves of the ocean.
 \add Just like\add* waves \add produce foul-smelling\add* foam on the shore,
-\add those teachers of false doctrine do\add* shameful \\f + \\ft metonymy \\f* \add deeds. We cannot depend\f + \ft Or: rely \f* on them to show us how to
-conduct our lives\add* \\f + \\ft metaphor \\f*, \add just like we cannot depend\f + \ft Or: rely \f*
-on\add* ◄meteors\f + \ft Or: falling \f* stars► \add to show us the way when we travel\add*.
+\add those teachers of false doctrine do\add* shameful \f + \ft metonymy \f* \add deeds. We cannot depend\f + \ft Or: rely \f* on them to show us how to
+conduct our lives\add* \f + \ft metaphor \f*, \add just like we cannot depend\f + \ft Or: rely \f*
+on\add* meteors\f + \ft Or: falling stars \f* \add to show us the way when we travel\add*.
 \add God\add* has reserved intense darkness for them forever \add in
 hell\add*. 
 \s Jude 14-16 
@@ -100,13 +100,13 @@ and are arrogant flatterers.
 \v 14 Enoch, the sixth \add person in the line of people who descended\add* from Adam, prophesied this about those
 \add teachers of false doctrine\add*: “Listen carefully to this: The Lord will certainly come with a countless number of his
 holy \add angels\add* in order 
-\v 15 to judge everyone, and to punish all wicked and ◄ungodly people\f + \ft Or: people \f* whose lives are displeasing to God► for all the
-◄ungodly things\f + \ft Or: things \f* that displease God► that they did in ◄an ungodly way\f + \ft Or: a \f* way that displeases God►, and for all the harsh
+\v 15 to judge everyone, and to punish all wicked and ungodly people\f + \ft Or: people whose lives are displeasing to God \f* for all the
+ungodly things\f + \ft Or: things that displease God► that they did in ◄an ungodly way, Or: a way that displeases God \f*, and for all the harsh
 things that ungodly sinful people have spoken against him.” 
 \v 16 Those \add teachers\add* of \add false doctrine\add* grumble
 \add about\add* the \add things that God does\add*. They complain
 \add about what happens to them\add*. They do the sinful things that
-their\add bodies\add* desire. They talk boastfully. They ◄flatter\f + \ft Or: say \f* nice things to► people, only in order to get
+their\add bodies\add* desire. They talk boastfully. They flatter\f + \ft Or: say nice things to \f* people, only in order to get
 \add those people to give them the\add* things that they want. 
 \s Jude 17-19 
 \s The apostles predicted that wicked people like the teachers of false doctrine would come. They divide believers, are
@@ -116,7 +116,7 @@ self-directed, and devoid of God's Spirit.
 the apostles of our Lord Jesus Christ said would happen}. 
 \v 18 They told you, “In the final period of time \add in which we are now
 living\add* there will be people who will laugh at \add the truths that God has
-revealed\add*. They will do the ◄ungodly things\f + \ft Or: things \f* that are displeasing to God► that their
+revealed\add*. They will do the ungodly things\f + \ft Or: things that are displeasing to God \f* that their
 \add bodies\add* desire.” 
 \v 19  \add That describes\add* the teachers of false doctrine\add well,
 because\add* they are the ones who cause \add believers\add* to divide among themselves. They do what their own minds tell them
@@ -124,7 +124,7 @@ to do. The Spirit \add of God\add* does not live within them.
 \s Jude 20-21 
 \s Believe the truth more firmly, pray by the power of the Spirit, and keep expecting God's mercy.
 \p
-\v 20 But you people whom I love, ◄establish yourselves\f + \ft Or: continue \f* to trust► firmly in the very sacred truths that you believe.
+\v 20 But you people whom I love, establish yourselves\f + \ft Or: continue to trust \f* firmly in the very sacred truths that you believe.
 Pray by \add letting\add* the Holy Spirit enable\f + \ft Or: empower \f* you. 
 \v 21 Keep conducting your lives in \add a way that is appropriate for those
 whom\add* God loves. Keep constantly expecting that our Lord Jesus Christ will
@@ -137,20 +137,20 @@ of false doctrine, and pity those completely convinced by them.
 \v 22 Mercifully \add help\add* those who are not certain \add what teaching they should
 believe\add*. 
 \v 23  \add Rescue\add* others from \add the influence of those who teach what is
-false\add* \\f + \\ft metaphor \\f*, \add as you would rescue things by\add* snatching
+false\add* \f + \ft metaphor \f*, \add as you would rescue things by\add* snatching
 \add them from\add* a fire. Pity those \add whom the teachers of false doctrine have completely
 convinced\add*, but beware that \add you are not influenced by them\add* {that they do not influence you}. Detest
 \add doing or even thinking about the sins that those people commit, just like you would
-detest\add* \\f + \\ft metaphor \\f* touching not only filthy things but the clothes that were stained by those things {that those things
+detest\add* \f + \ft metaphor \f* touching not only filthy things but the clothes that were stained by those things {that those things
 stained}. 
 \s Jude 24-25 
 \s God, who is able to keep you from being condemned for your sin and to present you guiltless before him, was great and ruled
 before time began, is still like that, and will remain so forever.
 \p
-\v 24 God is able to keep you from ceasing to trust in him (OR, from sinning) \f*, and he is able to present you before his
+\v 24 God is able to keep you from ceasing to trust in him (OR, from sinning \f*, and he is able to present you before his
 glorious presence. \add In his presence\add*, there will be nothing
 \add for which\add* you \add will\add* be condemned {\add he can\add* condemn you}, and you will be rejoicing greatly.
 \v 25 He is the only true God. He has saved us as a result of what Jesus Christ our Lord
 \add did for us\add*. God was glorious and great and mighty and he
 \add ruled\add* with great authority before time began. \add He is still like
-that\add*, and \add he will remain like that\add* forever! ◄Amen!\f + \ft Or: That \f* is true!►
+that\add*, and \add he will remain like that\add* forever! Amen!\f + \ft Or: That is true! \f*

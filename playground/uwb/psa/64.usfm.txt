@@ -8,18 +8,18 @@
 \q2 protect me from that group of men who do what is evil. 
 \b
 \q
-\v 3 The hostile things they say \\f + \\ft metonymy \\f* are like \\f + \\ft simile \\f* sharp swords;
-\q2 their cruel words are like \\f + \\ft simile \\f* arrows. 
+\v 3 The hostile things they say \f + \ft metonymy \f* are like \f + \ft simile \f* sharp swords;
+\q2 their cruel words are like \f + \ft simile \f* arrows. 
 \q
 \v 4 Without being afraid, they \add lie about people and slander
 people\add* who have not done what is wrong, 
 \q2 like someone who suddenly jumps up from where he is hiding and shoots
-\add arrows\add* at his enemy \\f + \\ft metaphor \\f*. 
+\add arrows\add* at his enemy \f + \ft metaphor \f*. 
 \b
 \q
 \v 5 They encourage each other about doing the evil things that they are planning to do;
 \q2 they talk \add with each other\add* about where they can set traps to catch people,
-\q2 and they think, “No one \\f + \\ft rhetorical question \\f* will see what we are doing, 
+\q2 and they think, “No one \f + \ft rhetorical question \f* will see what we are doing, 
 \q
 \v 6 because we have planned very well the crime that we are going to commit!”
 \q2 What people can think and plan in their inner beings is truly amazing\f + \ft Or: surprising \f*!
@@ -28,7 +28,7 @@ people\add* who have not done what is wrong,
 \v 7 But \add it will be as though\add* God will shoot his arrows at them,
 \q2 and suddenly they will be wounded. 
 \q
-\v 8 Because of what they say \\f + \\ft metonymy \\f*, he will get rid of them, 
+\v 8 Because of what they say \f + \ft metonymy \f*, he will get rid of them, 
 \q2 and then everyone who sees \add what has happened to\add* them will shake their heads
 \add to ridicule them\add*. 
 \b
@@ -40,5 +40,5 @@ also\add*;
 \q
 \v 10 Righteous people should rejoice because of what Yahweh \add has
 done\add*; 
-\q2 they should go to him to ◄find refuge\f + \ft Or: be \f* safe►; 
+\q2 they should go to him to find refuge\f + \ft Or: be safe \f*; 
 \q and all those who are godly will praise him. 

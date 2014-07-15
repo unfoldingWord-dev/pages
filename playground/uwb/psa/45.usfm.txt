@@ -7,7 +7,7 @@
 \b
 \q
 \v 2  \add O King\add*, you are the most handsome man in the world,
-\q2 and you always speak \\f + \\ft metonymy \\f* eloquently! 
+\q2 and you always speak \f + \ft metonymy \f* eloquently! 
 \q So God has always blessed you. 
 \q
 \v 3 You who are a mighty warrior, put on your sword! 
@@ -16,36 +16,36 @@
 \v 4 Ride on like a great chief 
 \q2 to defend the truth that you speak 
 \q2 and the fair decisions that you make! 
-\q Because you are strong \\f + \\ft metonymy \\f*, 
+\q Because you are strong \f + \ft metonymy \f*, 
 \q2 you will do awesome deeds. 
 \q
 \v 5 Your arrows are sharp, 
 \q2 and they pierce the hearts of your enemies. 
 \q2 Soldiers of many nations will fall at your feet. 
 \q
-\v 6 The kingdom \\f + \\ft metonymy \\f* that God will give to you will remain forever.
-\q2 You rule \\f + \\ft metonymy \\f* people justly. 
+\v 6 The kingdom \f + \ft metonymy \f* that God will give to you will remain forever.
+\q2 You rule \f + \ft metonymy \f* people justly. 
 \q
 \v 7 You love right actions, 
 \q2 and you hate evil actions. 
-\q Therefore God, your God, has chosen \\f + \\ft metonymy \\f* you \add to be king\add*
-\q2 and caused you to be happier \\f + \\ft metaphor \\f* than any other king. 
+\q Therefore God, your God, has chosen \f + \ft metonymy \f* you \add to be king\add*
+\q2 and caused you to be happier \f + \ft metaphor \f* than any other king. 
 \q
 \v 8 The perfume of various spices is on your robes. 
-\q2 People ◄entertain you\f + \ft Or: make \f* you happy► in ivory palaces 
+\q2 People entertain you\f + \ft Or: make you happy \f* in ivory palaces 
 \q2 by playing stringed instruments. 
 \q
-\v 9 Among the women who stay in the place where the women who sleep with you \\f + \\ft euphemism \\f* stay are daughters of other kings.
+\v 9 Among the women who stay in the place where the women who sleep with you \f + \ft euphemism \f* stay are daughters of other kings.
 \q2 And at your right hand stands \add your bride\add*, the queen, wearing beautiful ornaments of gold that comes from Ophir.
 \b
 \q
 \v 10  \add Now I will say something\add* to your bride: 
-\q Listen to me carefully \\f + \\ft doublet \\f*! 
+\q Listen to me carefully \f + \ft doublet \f*! 
 \q2 Forget the people who live in your home country, 
 \q2 forget your relatives! 
 \q
 \v 11 Because you are very beautiful, 
-\q2 the king will desire \add to sleep with\add* \\f + \\ft euphemism \\f* you. 
+\q2 the king will desire \add to sleep with\add* \f + \ft euphemism \f* you. 
 \q2 He is your master, so you must obey him. 
 \q
 \v 12 The people from Tyre \add city\add* will bring gifts to you;
@@ -59,13 +59,13 @@
 \q2 her companions will lead her to you. 
 \q2 She will have many other young women who accompany her. 
 \q
-\v 15 They will be very joyful \\f + \\ft doublet \\f* as they are led along 
+\v 15 They will be very joyful \f + \ft doublet \f* as they are led along 
 \q2 to enter your palace. 
 \b
 \q
 \v 16 Some day, your sons and your grandsons will become kings, 
 \q2 just like your ancestors were. 
-\q You will enable them to become rulers in many countries \\f + \\ft hyperbole \\f*.
+\q You will enable them to become rulers in many countries \f + \ft hyperbole \f*.
 \q
-\v 17 And as for me, I will enable people in every generation to remember the great things that you \\f + \\ft metonymy \\f* have done,
+\v 17 And as for me, I will enable people in every generation to remember the great things that you \f + \ft metonymy \f* have done,
 \q2 and people will praise you forever. 

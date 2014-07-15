@@ -2,17 +2,17 @@
 \s Matthew 28:1-10 
 \s After an angel appeared to several women and showed them the tomb was empty, Jesus appeared to them.
 \p
-\v 1 After ◄the Sabbath\f + \ft Or: the \f* Jewish day of rest► \add ended\add*, on Sunday morning at dawn, Mary from Magdala
+\v 1 After the Sabbath\f + \ft Or: the Jewish day of rest \f* \add ended\add*, on Sunday morning at dawn, Mary from Magdala
 \add town\add* and the other Mary went to look at the tomb. 
 \v 2 Suddenly there was a strong earthquake. \add At the same time\add* an angel from God came down from heaven. He
 \add went to the tomb and\add* rolled the stone away \add from the entrance so that everyone could see that the tomb was
 empty\add*. Then he sat on the stone. 
-\v 3 His appearance was \add as bright\add* \\f + \\ft simile \\f* as lightning, and his clothes were as white as snow.
+\v 3 His appearance was \add as bright\add* \f + \ft simile \f* as lightning, and his clothes were as white as snow.
 \v 4 The guards shook because they were very afraid. Then they became
 \add completely motionless\add*, as though they were dead. 
 \p
 \v 5 The angel said to the two women, “You should not be afraid! I know that you are looking for Jesus, who was {whom they}
-◄nailed to a cross\f + \ft Or: crucified \f*►. 
+nailed to a cross\f + \ft Or: crucified \f*. 
 \v 6 He is not here! \add God\add* has ◄caused him to be alive again\f + \ft Or: raised \f* him
 \add from the dead\add*►, just like \add Jesus\add* told you \add would
 happen!\add* Come and see the place where his body lay! 
@@ -25,7 +25,7 @@ what\add* I have told you!”
 happened\add*. 
 \v 9 Suddenly, \add as they were running\add*, Jesus appeared to them. He said, “Greetings!” The women came close to him. They
 knelt down and clasped his feet and worshipped him. 
-\v 10 Then Jesus said to them, “Do not be afraid! Go and tell ◄all my disciples\f + \ft Or: all \f* those who have been accompanying me► that
+\v 10 Then Jesus said to them, “Do not be afraid! Go and tell all my disciples\f + \ft Or: all those who have been accompanying me \f* that
 they should go to Galilee. They will see me there.” 
 \s Matthew 28:11-15 
 \s What the guards were told to tell people about why Jesus' body was gone.
@@ -37,7 +37,7 @@ they should go to Galilee. They will see me there.”
 \add as a bribe\add*. 
 \v 13 They said, “Tell people, ‘His disciples came during the night and stole his
 \add body\add* while we were sleeping.’ 
-\v 14 If the governor hears \\f + \\ft metonymy \\f* about this, we ourselves will make sure that he does not get angry
+\v 14 If the governor hears \f + \ft metonymy \f* about this, we ourselves will make sure that he does not get angry
 \add and punish you\add*. \add So you will not have to worry\add*.”
 \v 15 So the soldiers took the money and did as they were told {as
 \add the chief priests and elders\add* told them}. And this story has been told {People have told this story} among the Jews to
@@ -52,6 +52,6 @@ the very day \add that I am writing\add* this.
 \v 18 Then Jesus came \add close\add* to \add us\add* and said, “\add My
 Father\add* has given me all authority over everything and everyone in heaven and on earth.
 \v 19 So go, and \add using my authority, teach my message to\add* people of all ethnic groups so that they may become my
-disciples. Baptize them \add to be under the authority of\add* \\f + \\ft metonymy \\f* my Father, and of me, his Son, and of the Holy Spirit.
+disciples. Baptize them \add to be under the authority of\add* \f + \ft metonymy \f* my Father, and of me, his Son, and of the Holy Spirit.
 \v 20 Teach them to obey everything that I have commanded you. And remember that I will be with you always, until the end of
 \add this\add* age.” 

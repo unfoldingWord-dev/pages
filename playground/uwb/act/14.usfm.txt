@@ -16,10 +16,10 @@ deserve is true.
 \s Before people could attack the apostles, they escaped to Lystra and Derbe.
 \p
 \v 4 The people \add who lived\add* in \add Iconium\add* city strongly disagreed with each other
-\add concerning the message about Jesus\add*. Some of them agreed with the Jews \\f + \\ft synecdoche \\f*
+\add concerning the message about Jesus\add*. Some of them agreed with the Jews \f + \ft synecdoche \f*
 \add who did not believe that message\add*. Others agreed with the
 \add two\add* apostles. 
-\v 5 Then the non-Jewish people and the Jewish \add leaders\add* \\f + \\ft synecdoche \\f*
+\v 5 Then the non-Jewish people and the Jewish \add leaders\add* \f + \ft synecdoche \f*
 \add who opposed Paul and Barnabas\add* talked among themselves about how they could mistreat Paul and Barnabas. Some of the
 important men in that city agreed to help them. Together, they decided that they would
 \add kill Paul and Barnabas by\add* throwing stones at them. 
@@ -41,7 +41,7 @@ that\add*, he \add immediately\add* jumped up and began to walk \add normally\ad
 \s The apostles stopped the people from worshipping them. 
 \p
 \v 11 When the crowd saw what Paul had done, \add they thought that Paul and
-Barnabas\add* ◄\add were\f + \ft Or: must \f* be\add*► \add the gods that they worshipped\add*. So they shouted
+Barnabas\add* \add were\f + \ft Or: must be\add* \f* \add the gods that they worshipped\add*. So they shouted
 \add excitedly\add* in their \add own\add* Lycaonia language, “\add Look! These people
 are\add* the gods \add that we(inc) worship! They\add* have made themselves look like people and have come down
 \add from the sky\f + \ft Or: heaven \f* to help us\add*!” 
@@ -57,14 +57,14 @@ bulls \add as part of a ceremony\add* to worship Paul and Barnabas.
 \v 14 But when the apostles, Barnabas and Paul, heard about that,
 \add and understood that the people thought that they were gods and wanted to sacrifice the bulls to worship
 them\add*, they \add were very distressed\add*, so they tore their own clothes. They rushed among the people, shouting,
-\v 15 “Men, ◄you must not kill those bulls \add to worship us(dl)!\add*\f + \ft Or: why \f* are you doing this?► \\f + \\ft rhetorical question \\f*
+\v 15 “Men, you must not kill those bulls \add to worship us(dl)!\add*\f + \ft Or: why are you doing this? \f* \f + \ft rhetorical question \f*
 \add We are not gods!\add* We are just human beings like you! We have come to tell you some good news!
 \add We have come to tell you about\add* the God who is all-powerful. He wants you to stop worshipping other gods, because they
 cannot help you. This true God made the heaven\f + \ft Or: sky \f* and the earth and the oceans and everything in it.
 \v 16 In the past, all of you non-Jewish people \add worshipped whatever gods that you wanted
 to\add*. God let you worship them, \add because you did not know
 him\add*. 
-\v 17 But he has shown us \\f + \\ft litotes \\f* \add that\add* he acts kindly\add toward
+\v 17 But he has shown us \f + \ft litotes \f* \add that\add* he acts kindly\add toward
 us(inc)\add*. He is the one who causes it to rain and causes crops to grow. He is the one who gives you plenty of food, and
 makes you very happy.” 
 \v 18 The people heard what \add Paul\add* said, but they still thought that they should sacrifice those bulls to worship Paul
@@ -91,14 +91,14 @@ ground\add*. And Paul \add became conscious! He\add* stood up and went back into
 \add started on their way back. They\add* went again to Lystra. \add Then they went from
 there\add* to Iconium, and \add then they went\add* to Antioch \add in Pisidia
 province\add*. 
-\v 22  \add In each town\add*, they helped the believers \\f + \\ft synecdoche \\f* to become strong
+\v 22  \add In each town\add*, they helped the believers \f + \ft synecdoche \f* to become strong
 \add spiritually\add*, and they urged them to keep on trusting in
 \add the Lord Jesus\add*. They told \add the believers\add*, “It is necessary that
 \add we endure\add* people often persecuting us\add (inc)\add* before we enter the place where God will rule
 \add over us forever\add*.” 
 \v 23 Paul and Barnabas appointed leaders for each congregation.
 \add And before Paul and Barnabas left each town, they gathered the believers together and spent some
-time\add* praying and ◄fasting\f + \ft Or: not \f* eating any food►. Then Paul and Barnabas entrusted the
+time\add* praying and fasting\f + \ft Or: not eating any food \f*. Then Paul and Barnabas entrusted the
 \add leaders and other believers\add* to the Lord \add Jesus\add*, in whom they had believed,
 \add in order that he would care for them\add*. 
 \s Acts 14:24-28 
@@ -115,6 +115,6 @@ province\add*. That was the place where Paul and Barnabas had been appointed {wh
 places\add* and preach. \add Antioch was the place where the believers\add* had asked God to kindly help Paul and Barnabas in
 the work that they had now completed. 
 \v 27 When they arrived in Antioch, they called the believers together. Then Paul and Barnabas told them all that God had
-helped them to do. \add Specifically, they told them how God\add* had enabled \\f + \\ft idiom \\f*
+helped them to do. \add Specifically, they told them how God\add* had enabled \f + \ft idiom \f*
 \add many\add* non-Jewish people to believe \add in Jesus\add*. 
 \v 28 Then Paul and Barnabas stayed in Antioch with the \add other\add* believers for several months.

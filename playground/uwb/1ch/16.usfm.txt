@@ -21,13 +21,13 @@ lyres and harps.
 \p
 \v 7 On that day, David gave to Asaph and his helpers this psalm to praise Yahweh:
 \q
-\v 8 Thank God, and pray to him \\f + \\ft metonymy \\f*. 
+\v 8 Thank God, and pray to him \f + \ft metonymy \f*. 
 \q2 Tell the people of all nations what he has done. 
 \q
 \v 9 Sing to him; sing songs to praise him. 
 \q2 Tell about all his miraculous deeds. 
 \q
-\v 10 Be glad that you belong to him \\f + \\ft metonymy \\f*; 
+\v 10 Be glad that you belong to him \f + \ft metonymy \f*; 
 \q2 those who want \add to know\add* Yahweh better should rejoice.
 \q
 \v 11 Trust in Yahweh and in his power; 
@@ -58,7 +58,7 @@ lyres and harps.
 \q
 \v 19  \add He said that to them\add* when they were only a few of them,
 \q2 a tiny group of people who were living in that land 
-\q2 ◄like strangers\f + \ft Or: that \f* belonged to other people►; 
+\q2 like strangers\f + \ft Or: that belonged to other people \f*; 
 \q
 \v 20 they continued to wander from one place to another, 
 \q2 from one kingdom to another. 
@@ -88,9 +88,9 @@ done\add*.
 \b
 \q
 \v 28 You people in nations all over the world, praise Yahweh! 
-\q2 Praise Yahweh for his glorious power \\f + \\ft hendiadys \\f*! 
+\q2 Praise Yahweh for his glorious power \f + \ft hendiadys \f*! 
 \q2
-\v 29 Praise Yahweh like he \\f + \\ft metonymy \\f* deserves to be praised. 
+\v 29 Praise Yahweh like he \f + \ft metonymy \f* deserves to be praised. 
 \q Bring an offering and come to his temple. 
 \q2 Worship Yahweh because he is holy. 
 \q
@@ -105,7 +105,7 @@ done\add*.
 \q2 the fields and everything that is in them should rejoice. 
 \q
 \v 33 When they do that, \add it will be as though\add* the trees in the forest will sing joyfully in front of Yahweh.
-\q2 That will happen when he comes to judge \add everyone on\add* \\f + \\ft metonymy \\f* the earth.
+\q2 That will happen when he comes to judge \add everyone on\add* \f + \ft metonymy \f* the earth.
 \b
 \q
 \v 34 Thank Yahweh, because \add everything that he does\add* is good.
@@ -113,12 +113,12 @@ done\add*.
 \q
 \v 35 Say to him, “God, you are the one who rescues us, 
 \q2 so gather us together and save us from \add the armies of\add* other nations.
-\q When you do that, we will thank you \\f + \\ft metonymy \\f*, 
+\q When you do that, we will thank you \f + \ft metonymy \f*, 
 \q2 and we will be happy to praise you.” 
 \q
 \v 36 Praise Yahweh, the God of us Israeli people, 
 \q2 He has always existed, and he will exist forever. 
-\p After the people \add finished singing that song\add*, they all said “◄Amen\f + \ft Or: May \f* it be so►!”, and they praised Yahweh.
+\p After the people \add finished singing that song\add*, they all said “Amen\f + \ft Or: May it be so \f*!”, and they praised Yahweh.
 \m
 \v 37 Then David left Asaph and the other members of his clan there in front of the
 \add tent in which\add* Yahweh's Sacred Chest had been placed. He told them that they must do their work there every day.
@@ -130,7 +130,7 @@ Yahweh's Sacred Tent, at the place where the Israeli people worshiped
 \add God there\add* in Gibeon \add city\add*. 
 \v 40 Every morning and every evening they burned offerings on the altar, obeying the rules\f + \ft Or: laws \f* that had been written
 \add by Moses\add*, rules\f + \ft Or: laws \f* which Yahweh had given to the Israeli people.
-\v 41 With them were Heman and Jeduthun and other descendants of Levi. They \\f + \\ft metonymy \\f* were chosen to sing songs to praise Yahweh
+\v 41 With them were Heman and Jeduthun and other descendants of Levi. They \f + \ft metonymy \f* were chosen to sing songs to praise Yahweh
 because he faithfully loves his people forever. 
 \v 42 Heman and Jeduthun were appointed to play the trumpets and cymbals when
 \add the Other descendants of Levi sang sacred songs\add*. The sons of Jeduthun were appointed to guard the gates

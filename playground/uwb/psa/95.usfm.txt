@@ -1,10 +1,10 @@
 \c 95  
 \q
 \v 1 Come, sing to Yahweh; 
-\q2 sing joyfully to the one who protects us \\f + \\ft metaphor \\f* and saves us!
+\q2 sing joyfully to the one who protects us \f + \ft metaphor \f* and saves us!
 \q
 \v 2 We should thank him as we come before him, 
-\q2 and sing ◄joyful songs\f + \ft Or: joyfully \f*► as we praise him. 
+\q2 and sing joyful songs\f + \ft Or: joyfully \f* as we praise him. 
 \b
 \q
 \v 3 Because Yahweh is a great God, 
@@ -14,14 +14,14 @@
 \q2 from the deepest places\f + \ft Or: caves \f* to the highest mountains. 
 \q
 \v 5 The seas are his, because he made them. 
-\q2 He is the one who \\f + \\ft synecdoche \\f* also formed\f + \ft Or: made \f* the dry land. 
+\q2 He is the one who \f + \ft synecdoche \f* also formed\f + \ft Or: made \f* the dry land. 
 \b
 \q
 \v 6 We should come, worship, and bow down before him. 
 \q2 We should kneel before Yahweh, the one who made us. 
 \q
 \v 7 He is our God, 
-\q2 and we are the people whom he takes care of \\f + \\ft metaphor \\f*; 
+\q2 and we are the people whom he takes care of \f + \ft metaphor \f*; 
 \q2 like sheep \add that a shepherd\add* takes care of. 
 \b
 \q I desire\f + \ft Or: pray \f* that today you will hear what Yahweh is saying to you.
@@ -29,13 +29,13 @@
 \v 8 He says, “Do not become stubborn [IDI] like your \add ancestors\add* did at Meribah,
 \q2 and like they did at Massah in the desert. 
 \q
-\v 9 There your ancestors ◄wanted to see\f + \ft Or: tried \f* to determine► if they could do many very evil things
+\v 9 There your ancestors wanted to see\f + \ft Or: tried to determine \f* if they could do many very evil things
 \add without my punishing them\add*. 
 \q2 Even though they had seen me perform \add many\add* miracles, they tested whether I
 \add would continue to be patient with them\add*. 
 \q
 \v 10 For forty years I was angry with those people, 
-\q2 and I said, ‘Those people ◄are fickle\f + \ft Or: say \f* that they want to please me, but they do things that I detest►.
+\q2 and I said, ‘Those people are fickle\f + \ft Or: say that they want to please me, but they do things that I detest \f*.
 \q2 They refuse to obey my commands.’ 
 \q
 \v 11 So because I was very angry, I solemnly said\f + \ft Or: declared \f* about them:

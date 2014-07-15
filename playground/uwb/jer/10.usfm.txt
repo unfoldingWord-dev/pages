@@ -14,7 +14,7 @@
 \v 4 Then people decorate the idol with silver and gold. 
 \q2 Then they fasten it securely with nails in order that it will not topple\f + \ft Or: fall \f* over.
 \q
-\v 5 Then the idol \add stands there\add* like \\f + \\ft simile \\f* a scarecrow in a field of cucumbers\f + \ft Or: melons \f*.
+\v 5 Then the idol \add stands there\add* like \f + \ft simile \f* a scarecrow in a field of cucumbers\f + \ft Or: melons \f*.
 \q2 It cannot speak, 
 \q and people must carry it, 
 \q2 because it cannot walk. 
@@ -24,16 +24,16 @@
 \s Hymn of praise to Yahweh 
 \q
 \v 6 Yahweh, there is no one like you. 
-\q2 You \\f + \\ft metonymy \\f* are great, and you are very powerful. 
+\q2 You \f + \ft metonymy \f* are great, and you are very powerful. 
 \q
 \v 7 You are the king of all the nations! 
-\q2 Everyone should \\f + \\ft rhetorical question \\f* revere you, 
+\q2 Everyone should \f + \ft rhetorical question \f* revere you, 
 \q2 because that is what you deserve. 
 \q Among all the wise people on the earth 
 \q2 and in all the kingdoms where they live, 
-\q2 ◄there is no one like you.\f + \ft Or: who \f* can compare with you?► 
+\q2 there is no one like you.\f + \ft Or: who can compare with you? \f* 
 \q
-\v 8 Those people who \add think that they are\add* very wise \\f + \\ft irony \\f* are stupid and foolish \\f + \\ft doublet \\f*.
+\v 8 Those people who \add think that they are\add* very wise \f + \ft irony \f* are stupid and foolish \f + \ft doublet \f*.
 \q2 The idols that they worship are only made of wood! 
 \q2 Those idols certainly cannot teach them anything. 
 \q
@@ -63,7 +63,7 @@ disappear from the earth.”
 \q2 and releases the winds from his storehouses. 
 \b
 \q
-\v 14 People are senseless and know very little \\f + \\ft hyperbole \\f*; 
+\v 14 People are senseless and know very little \f + \ft hyperbole \f*; 
 \q those who make idols are always disappointed 
 \q2 because their idols do nothing for them. 
 \q The images\f + \ft Or: statues \f* that they make are not real \add gods\add*;
@@ -84,7 +84,7 @@ disappear from the earth.”
 \q
 \v 18 I will soon throw you out of this land 
 \q2 and cause you to experience great troubles, 
-\q2 with the result that you will have severe pain \f + \ft (OR, none of you will be left here) \f*.”
+\q2 with the result that you will have severe pain \f + \ft Or: none of you will be left here \f*.”
 \b
 \q
 \v 19  \add The people replied, “It is as though\add* we have been badly wounded,
@@ -97,10 +97,10 @@ disappear from the earth.”
 \q our children have gone away from us and will not return; 
 \q2 there are no people left to rebuild our great tent. 
 \q
-\v 21 Our leaders \\f + \\ft metaphor \\f* no longer have any sense; 
-\q2 they no longer ask Yahweh to ◄guide them\f + \ft Or: tell \f* them what to do►,
+\v 21 Our leaders \f + \ft metaphor \f* no longer have any sense; 
+\q2 they no longer ask Yahweh to guide them\f + \ft Or: tell them what to do \f*,
 \q so they will no longer prosper, 
-\q2 and all those over whom they rule \\f + \\ft metaphor \\f* will be scattered. 
+\q2 and all those over whom they rule \f + \ft metaphor \f* will be scattered. 
 \q
 \v 22 Listen! Our enemies' armies in the north are making a very big noise\f + \ft Or: commotion \f*
 \q2 \add as they march toward us\add*. 
@@ -115,7 +115,7 @@ disappear from the earth.”
 \q2 Do not correct\f + \ft Or: punish \f* us when you are angry, 
 \q2 because we would die if you did that. 
 \q
-\v 25 Punish \\f + \\ft metonymy \\f* all the nations whose people do not acknowledge\f + \ft Or: say \f* that you are God;
+\v 25 Punish \f + \ft metonymy \f* all the nations whose people do not acknowledge\f + \ft Or: say \f* that you are God;
 \q2 punish all the nations whose people do not worship you, 
-\q because they are completely destroying \\f + \\ft doublet \\f* us people of Israel
+\q because they are completely destroying \f + \ft doublet \f* us people of Israel
 \q2 and they are causing our land to soon be only a desert. 

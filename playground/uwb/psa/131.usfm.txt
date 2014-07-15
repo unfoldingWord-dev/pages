@@ -2,11 +2,11 @@
 \s A psalm written by David for people going up to the temple to worship
 \q
 \v 1 Yahweh, I am not proud 
-\q2 and I have not thought highly about ◄myself\f + \ft Or: the \f* things that I have done►.
+\q2 and I have not thought highly about myself\f + \ft Or: the things that I have done \f*.
 \q And I do not worry about things \add that you have done\add* that are very big or very wonderful.
 \q
 \v 2 Instead, I am calm and peaceful in my inner being, 
-\q2 like a small child who lies quietly at its mother's breast \\f + \\ft simile \\f*.
+\q2 like a small child who lies quietly at its mother's breast \f + \ft simile \f*.
 \q2 In the same way, I am peaceful within my inner being. 
 \b
 \q

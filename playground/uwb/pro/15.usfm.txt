@@ -4,18 +4,18 @@
 \q2 but if you reply harshly to them, it causes them to become more angry.
 \b
 \q
-\v 2 When wise people speak \\f + \\ft metonymy \\f*, it causes those who hear what they say to want to know more;
-\q2 foolish people continually say \\f + \\ft metonymy \\f* what is foolish. 
+\v 2 When wise people speak \f + \ft metonymy \f*, it causes those who hear what they say to want to know more;
+\q2 foolish people continually say \f + \ft metonymy \f* what is foolish. 
 \b
 \q
-\v 3 Yahweh sees \\f + \\ft metonymy \\f* \add what is happening\add* everywhere; 
+\v 3 Yahweh sees \f + \ft metonymy \f* \add what is happening\add* everywhere; 
 \q2 he observes what bad \add people do\add* as well as what good
 \add people do\add*. 
 \b
 \q
-\v 4 Those who speak \\f + \\ft metonymy \\f* kindly to people are like \\f + \\ft metaphor \\f* trees
+\v 4 Those who speak \f + \ft metonymy \f* kindly to people are like \f + \ft metaphor \f* trees
 \add whose fruit gives\add* life; 
-\q2 speaking what is false causes people to ◄despair\f + \ft Or: feel \f* very discouraged►.
+\q2 speaking what is false causes people to despair\f + \ft Or: feel very discouraged \f*.
 \b
 \q
 \v 5 Foolish children despise their parents when their parents correct\f + \ft Or: discipline \f* them;
@@ -26,7 +26,7 @@
 \q2 the wealth of wicked people causes them to have troubles\f + \ft Or: difficulties \f*.
 \b
 \q
-\v 7 What wise people teach \\f + \\ft metonymy \\f* causes others to know much more,
+\v 7 What wise people teach \f + \ft metonymy \f* causes others to know much more,
 \q2 but foolish people cannot teach others what is useful. 
 \b
 \q
@@ -42,8 +42,8 @@
 \q2 those who do not want to be corrected will die. 
 \b
 \q
-\v 11 Yahweh knows \add what is happening in\add* the place where dead people \\f + \\ft doublet \\f* are,
-\q2 so he certainly knows \\f + \\ft rhetorical question \\f* what people are thinking in people's inner beings.
+\v 11 Yahweh knows \add what is happening in\add* the place where dead people \f + \ft doublet \f* are,
+\q2 so he certainly knows \f + \ft rhetorical question \f* what people are thinking in people's inner beings.
 \b
 \q
 \v 12 Some people do not want to be corrected; 
@@ -56,11 +56,11 @@ that\add* they are sad.
 \b
 \q
 \v 14 Those who have good sense want to learn more; 
-\q2 foolish people \\f + \\ft metonymy \\f* are very satisfied with being foolish\f + \ft Or: ignorant \f*.
+\q2 foolish people \f + \ft metonymy \f* are very satisfied with being foolish\f + \ft Or: ignorant \f*.
 \b
 \q
 \v 15 Those who are oppressed constantly have difficulties, 
-\q2 but those who \f + \ft (OR, if they) \f* are happy, \add it is as though\add* \\f + \\ft metaphor \\f* they are having a big feast every day.
+\q2 but those who \f + \ft Or: if they \f* are happy, \add it is as though\add* \f + \ft metaphor \f* they are having a big feast every day.
 \b
 \q
 \v 16 Being poor and revering Yahweh 
@@ -76,10 +76,10 @@ that\add* they are sad.
 \q2 but those who do not quickly become angry cause people to act peacefully.
 \b
 \q
-\v 19 Lazy people constantly \add have difficulties\add* \\f + \\ft metaphor \\f*; \add it is as though they are
+\v 19 Lazy people constantly \add have difficulties\add* \f + \ft metaphor \f*; \add it is as though they are
 walking\add* through thorns; 
 \q2 but those who are honest and hard-working \add will have few difficulties; it is as though they are
-walking\add* on a level highway \\f + \\ft metaphor \\f*. 
+walking\add* on a level highway \f + \ft metaphor \f*. 
 \b
 \q
 \v 20 Children who are wise cause their parents to be happy; 
@@ -119,13 +119,13 @@ them\add*;
 \q2 wicked people very quickly say what is evil. 
 \b
 \q
-\v 29 Yahweh does not listen \\f + \\ft metonymy \\f* to what wicked people \add request him to
+\v 29 Yahweh does not listen \f + \ft metonymy \f* to what wicked people \add request him to
 do\add*; 
 \q2 he listens to righteous people when they pray. 
 \b
 \q
 \v 30 If people have a smile on their faces, it makes them\f + \ft Or: others \f* happy,
-\q2 and when they hear good news, it refreshes their spirits \\f + \\ft metonymy \\f*.
+\q2 and when they hear good news, it refreshes their spirits \f + \ft metonymy \f*.
 \b
 \q
 \v 31 If people pay attention when people correct\f + \ft Or: warn \f* them, 
@@ -133,7 +133,7 @@ do\add*;
 \b
 \q
 \v 32 If people refuse to listen when others try to correct them, they are despising\f + \ft Or: hurting \f* themselves;
-\q2 those who ◄pay attention\f + \ft Or: heed \f*► when others warn them ◄become wiser\f + \ft Or: acquire \f* good sense►.
+\q2 those who pay attention\f + \ft Or: heed► when others warn them ◄become wiser, Or: acquire good sense \f*.
 \b
 \q
 \v 33 If you revere Yahweh, you will learn how to become wise, 

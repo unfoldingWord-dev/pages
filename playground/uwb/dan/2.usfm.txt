@@ -24,7 +24,7 @@ you. So tell me what I dreamed and what it means!”
 that I would do. 
 \v 9 If you do not tell me what I dreamed, you will be punished.
 \add I think\add* that you have all agreed to tell me lies and other wicked things, because you hope that I will change
-◄\add my mind\f + \ft Or: what \f* I am thinking\add*►. But tell me the dream, and then I will know that you can also tell me what it means.”
+\add my mind\f + \ft Or: what I am thinking\add* \f*. But tell me the dream, and then I will know that you can also tell me what it means.”
 \p
 \v 10 The men who studied the stars replied to the king, “There is no one on the earth who can do what you ask! There is no
 king, even a great and mighty king, who has ever asked his men who work magic or his fortune-tellers or men who study the stars
@@ -46,7 +46,7 @@ to do something like that!
 \add meaning of what the king dreamed\add*, in order that we and the other wise men in Babylon would not be executed.
 \v 19 And that night \add God\add* gave to me a vision in which he revealed the secret. Then I praised God,
 \v 20 saying, 
-\q “We should praise God \\f + \\ft metonymy \\f* forever, 
+\q “We should praise God \f + \ft metonymy \f* forever, 
 \q2 because only he truly is wise and powerful. 
 \q
 \v 21 He determines what events will happen through the years. 
@@ -97,7 +97,7 @@ nothing left. But the rock that smashed the statue became a large mountain that 
 \p
 \v 36 That was what you dreamed. Now I will tell you what it means.
 \v 37 You are a king who rules over many other kings. The God who rules in heaven has caused you to rule over them and has
-given you great power \\f + \\ft doublet \\f* and has honored you. 
+given you great power \f + \ft doublet \f* and has honored you. 
 \v 38 He has caused you to be the ruler over all people, and even the animals and birds are controlled by you. So the head
 \add of the statue\add* represents you. 
 \p

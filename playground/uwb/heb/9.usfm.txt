@@ -3,7 +3,7 @@
 \s A description of the man-made sanctuary that accompanied the first covenant.
 \p
 \v 1  \add To continue\add*: In the first \add covenant God\add* regulated how people
-\add should perform\add* rituals, and \add he told them to make\add* \\f + \\ft metonymy \\f* a sanctuary.
+\add should perform\add* rituals, and \add he told them to make\add* \f + \ft metonymy \f* a sanctuary.
 \v 2  \add That sanctuary\add* was a tent that \add the Israelites\add* set up. In its outer room there was the lampstand and
 the table \add on which they put\add* the bread that \add the priests\add* presented
 \add to God. That room\add* was called ‘the holy place.’ 
@@ -26,17 +26,17 @@ forgive\add*► \add those who had sinned. I\add* do not \add need\add* to write
 \v 6 After all those things were prepared {After they had prepared all those things like that}
 \add in the two rooms of the tent\add*, the \add Jewish\add* priests habitually went into the outer
 \add room of the\add* tent to perform their rituals. 
-\v 7 But into the inner room, only the high priest \add went\add*, once a year. He always took \\f + \\ft litotes \\f* the blood
+\v 7 But into the inner room, only the high priest \add went\add*, once a year. He always took \f + \ft litotes \f* the blood
 \add of animals that they had slaughtered\add*. He offered them \add to
 God\add* for his own \add sins\add* and for the sins that other people had committed. They included sins that they did not
 realize \add were sinful\add*. 
 \v 8 By those things the Holy Spirit indicated that \add just like
 God\add* did not reveal the way \add for ordinary people\add* to enter into the inner room while the outer room still existed
-\\f + \\ft metaphor \\f*, \add similarly he did not reveal the way for ordinary people to enter the presence of God while the Jewish system of
+\f + \ft metaphor \f*, \add similarly he did not reveal the way for ordinary people to enter the presence of God while the Jewish system of
 offering sacrifices was in effect\add*. 
-\v 9  \add The things that the priests did inside the outer room\add* \\f + \\ft metonymy \\f* symbolized
+\v 9  \add The things that the priests did inside the outer room\add* \f + \ft metonymy \f* symbolized
 \add what was true\add* during the time \add when the first covenant was in
-effect\add*. According to \add the first covenant\add* \f + \ft (OR\add , In that outer
+effect\add*. According to \add the first covenant\add* (OR\add , In that outer
 room\add*), \add priests\add* offered gifts and other sacrifices to God. But
 \add by offering them\add*, the people who brought them were unable to make themselves feel that they were no longer guilty for
 having sinned. 
@@ -48,8 +48,8 @@ to\add* wash various things. \add God\add* declared that those regulations about
 \s Christ redeemed us by offering his own blood as a sacrifice. 
 \p
 \v 11 But when Christ came as our high priest, \add he brought\add* the good things that are now available. When he appeared,
-\add he went into God's presence in heaven. That is like a\add* \\f + \\ft metaphor \\f* very great and perfect tent not made by humans {which no
-human made} \\f + \\ft synecdoche \\f*; that is, it is not part of the world \add God\add* created. It was better
+\add he went into God's presence in heaven. That is like a\add* \f + \ft metaphor \f* very great and perfect tent not made by humans {which no
+human made} \f + \ft synecdoche \f*; that is, it is not part of the world \add God\add* created. It was better
 \add than the tent Moses set up here on earth\add*. 
 \v 12  \add When a high priest goes into the inner room in the tent each year, he
 takes\add* goats' blood and calves' blood \add to offer as a sacrifice\add*. But Christ did not
@@ -65,21 +65,21 @@ when\add* his blood flowed \add when he died for us\add* [PRS, MTY], we will be 
 \add for having\add* done those things \add that those who are spiritually\add* dead do.
 \add As a result\add*, we can serve the all-powerful God. \add The priests always offer to God
 animals\add* with no defects. Similarly, when Christ offered himself
-\add as a sacrifice\add* to God, he was sinless \\f + \\ft metaphor \\f*. He did that as a result of
+\add as a sacrifice\add* to God, he was sinless \f + \ft metaphor \f*. He did that as a result of
 \add God's\add* eternal Spirit \add helping him\add*. 
 \s Hebrews 9:15-22 
 \s Christ has put the new covenant into effect with his own blood.
 \p
-\v 15  \add By\add* dying \add for us\add*, \add Christ\add* ◄\add redeemed\f + \ft Or:  \f*\add*set free from the penalty for their sins► even
+\v 15  \add By\add* dying \add for us\add*, \add Christ\add* \add redeemed\f + \ft Or: \add*set free from the penalty for their sins \f* even
 those who disobeyed the \add conditions of\add* (OR: \add during the time
-of\add*) \f* the first covenant. So, \add because\add* no \add one could be made perfect by obeying the old
+of\add*) the first covenant. So, \add because\add* no \add one could be made perfect by obeying the old
 covenant\add*, now Christ establishes \add between God and people\add* a new covenant. He does that in order that those whom
 God has chosen may eternally have \add the blessings that God\add* has promised them.
 \v 16 A covenant \add is like a will. In the case of a will\add*,
 \add in order to put its provisions into effect\add*, someone must prove that the one who made it has died.
 \v 17 A will goes into effect \add only when the one who makes the
 will\add* has died. It is not in effect when the one who made it is still alive.
-\v 18 And so \add God\add* put the first covenant into effect only \\f + \\ft litotes \\f* by means of
+\v 18 And so \add God\add* put the first covenant into effect only \f + \ft litotes \f* by means of
 \add animals'\add* blood that was shed \add when they were slaughtered\add*.
 \v 19 After Moses had declared to all the Israelites everything that God commanded in the laws
 \add that God gave him\add*, he took calves' and goats' blood \add mixed\add* with water. He
@@ -97,11 +97,11 @@ God\add* cannot forgive \add the person who is making the sacrifice\add*.
 our guilt. 
 \p
 \v 23 So, by rituals like that, it was necessary for \add the priests\add* to cleanse the things that symbolized what Christ
-does \\f + \\ft metonymy \\f* in heaven. But God has to \add consecrate\add* the \add people who will
-enter\add* \\f + \\ft metonymy \\f* heaven \add by means of\add* better sacrifices than those.
+does \f + \ft metonymy \f* in heaven. But God has to \add consecrate\add* the \add people who will
+enter\add* \f + \ft metonymy \f* heaven \add by means of\add* better sacrifices than those.
 \v 24 Christ did not enter a sanctuary that humans made. That one only represented the true
 \add sanctuary\add*. Instead, he entered heaven itself, in order to now be in God's presence
-◄\add to plead with\add* God for\f + \ft Or: to \f* \add represent\add*► us. 
+\add to plead with\add* God for\f + \ft Or: to \add represent\add* \f* us. 
 \v 25 The \add Jewish\add* high priest enters the very holy place once every year, taking blood that is not his own,
 \add to offer it as a sacrifice\add*. But when Christ entered heaven, it was not in order to offer himself repeatedly like
 that. 

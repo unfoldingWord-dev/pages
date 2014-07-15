@@ -2,7 +2,7 @@
 \s Instructions for the incense altar 
 \p
 \v 1 “\add Tell the skilled workers to\add* make an altar from acacia wood, for burning incense.
-\v 2 It is to be square, ◄18 in.\f + \ft Or: 45 \f* cm.► on each side. It is to be ◄3 ft.\f + \ft Or: 90 \f* cm.► high.
+\v 2 It is to be square, 18 in.\f + \ft Or: 45 cm.► on each side. It is to be ◄3 ft., Or: 90 cm. \f* high.
 \add Tell them to\add* make \add a projection that looks like\add* a horn on each of the top corners. The projections must be
 carved from the same block of wood that the altar \add is made from\add*.
 \v 3  \add They must\add* cover the top and the four sides, including the projections, with pure gold. Put a gold border around
@@ -19,23 +19,23 @@ future generations.
 \v 9 The priests must not burn on the altar any incense that I have not told you to burn, or burn any animal on it, or any
 grain offering for me, or pour any wine on it as an offering. 
 \v 10 One time every year Aaron must perform the ritual for making this altar pure. He must do it by putting on its four
-projections some of the blood from the animal that was sacrificed to ◄cover\f + \ft Or: remove \f* the guilt of► people's sins. This ritual is
+projections some of the blood from the animal that was sacrificed to cover\f + \ft Or: remove the guilt of \f* people's sins. This ritual is
 to be done by Aaron and his descendants throughout all future generations. This altar must be completely dedicated to me,
 Yahweh.” 
 \s Instructions for the money to take care of the Sacred Tent 
 \p
 \v 11 Yahweh also said to Moses\f + \ft Or: me \f*, 
-\v 12 “When your \add leaders\add* ◄take a census of\f + \ft Or: count \f*► the Israeli people, each man
+\v 12 “When your \add leaders\add* take a census of\f + \ft Or: count \f* the Israeli people, each man
 \add who is counted\add* must pay to me a price to save his life. They must do this in order that no disaster will happen to
 them \add while the people are being counted\add*. 
-\v 13 Every man who is counted must pay to me ◄0.2 ounces\f + \ft Or: 5 \f*.7 grams► of silver. They must use the official standard when they
+\v 13 Every man who is counted must pay to me 0.2 ounces\f + \ft Or: 5.7 grams \f* of silver. They must use the official standard when they
 weigh the silver. 
 \v 14 All the men who are at least twenty years old must pay this amount to me when the people are counted.
 \v 15 Rich men must not pay more than this amount, and poor men must not pay less than this amount, when they pay this money to
 save their lives. 
 \v 16 Your leaders must collect this money from the Israeli people and give it
-\add to those who will\add* take care of the Sacred Tent. This money is the payment for their lives, ◄to enable me not to
-forget them\f + \ft Or: and \f* then I will remember to protect them►.” 
+\add to those who will\add* take care of the Sacred Tent. This money is the payment for their lives, to enable me not to
+forget them\f + \ft Or: and then I will remember to protect them \f*.” 
 \s Instructions for the washbasin 
 \p
 \v 17 Yahweh \add also\add* said to Moses\f + \ft Or: me \f*, 
@@ -50,11 +50,11 @@ obey this ritual throughout all generations.”
 \s Instructions for the oil for anointing 
 \p
 \v 22 Yahweh also said to Moses\f + \ft Or: me \f*, 
-\v 23 “\add Tell the people to\add* collect some of the finest spices— ◄12 pounds\f + \ft Or: 6 \f* kg.► of ◄liquid myrrh\f + \ft Or: sweet \f*-smelling sap
-named myrrh►, ◄6 pounds\f + \ft Or: 3 \f* kg.► of sweet-smelling cinnamon, ◄6 pounds\f + \ft Or: 3 \f* kg.► of a sweet-smelling cane\f + \ft Or: reed \f*,
-\v 24 and ◄12 pounds\f + \ft Or: 6 \f* kg.► of ◄cassia\f + \ft Or: a \f* sweet-smelling bark named cassia►.
+\v 23 “\add Tell the people to\add* collect some of the finest spices— 12 pounds\f + \ft Or: 6 kg. \f* of ◄liquid myrrh, Or: sweet-smelling sap
+named myrrh►, 6 pounds\f + \ft Or: 3 kg.► of sweet-smelling cinnamon, ◄6 pounds\f + \ft Or: 3 \f* kg. \f* of a sweet-smelling cane, Or: reed,
+\v 24 and 12 pounds\f + \ft Or: 6 kg.► of ◄cassia, Or: a sweet-smelling bark named cassia \f*.
 \add Be sure\add* that they use the official standard when they weigh these things. Tell an expert perfumer to mix these with
-◄1 gallon\f + \ft Or: 4 \f* liters► of olive oil 
+1 gallon\f + \ft Or: 4 liters \f* of olive oil 
 \v 25 to make sacred oil for anointing. 
 \v 26 Use this oil for anointing the Sacred Tent, the sacred chest,
 \v 27 the table and all the things that are used with it, the lampstand and all the things that are used to take care of it,

@@ -1,8 +1,8 @@
 \c 23  
 \s Treat people and animals fairly 
 \p
-\v 1 “Do not tell to others ◄false rumors\f + \ft Or: untrue \f* reports► about other people. Do not help someone who is guilty by ◄testifying
-falsely\f + \ft Or: lying \f*► \add about what happened\add*. 
+\v 1 “Do not tell to others false rumors\f + \ft Or: untrue reports \f* about other people. Do not help someone who is guilty by testifying
+falsely\f + \ft Or: lying \f* \add about what happened\add*. 
 \p
 \v 2 Do not join with a group of people who are planning do something evil. Do not testify in the way the
 \add crowd wants you to\add*, if that will prevent \add the judge from deciding the
@@ -19,10 +19,10 @@ load\add*, help the owner to get the donkey up again, \add even if\add* he is so
 \v 6 Decide the cases of poor people who are on trial \add as\add* fairly
 \add as you judge the cases of other people\add*. 
 \p
-\v 7 Do not accuse people falsely. Do not decide that innocent and righteous \\f + \\ft doublet \\f* people should be executed, because I will
-◄punish\f + \ft Or: not \f* forgive► people who do such an evil thing. 
+\v 7 Do not accuse people falsely. Do not decide that innocent and righteous \f + \ft doublet \f* people should be executed, because I will
+punish\f + \ft Or: not forgive \f* people who do such an evil thing. 
 \p
-\v 8 Do not accept money that is a bribe, because officials who accept bribes are not able to \\f + \\ft metonymy \\f* decide what is right to do,
+\v 8 Do not accept money that is a bribe, because officials who accept bribes are not able to \f + \ft metonymy \f* decide what is right to do,
 and they do not allow innocent people to be treated fairly. 
 \p
 \v 9 Do not mistreat foreigners \add who live among you\add*. You know
@@ -39,13 +39,13 @@ harvest►, allow the wild animals to eat them. Do the same thing with your grap
 \add who live among you\add* also \add to\add* \add rest and\add* have their strength refreshed.
 \p
 \v 13 Make certain that you obey everything that I have commanded
-\add you to do\add*. Do not pray to \\f + \\ft metonymy \\f* other gods. Do not even mention their names.”
+\add you to do\add*. Do not pray to \f + \ft metonymy \f* other gods. Do not even mention their names.”
 \s Rules about three annual festivals 
 \p
 \v 14 “Every year you must celebrate three festivals to \add honor\add* me.
 \v 15  \add The first one\add* is the festival of bread that has no yeast. Celebrate it in the month
 \add that is named\add* Abib. That is the month in which you left Egypt. Celebrate it in the way that I commanded you. Always
-bring \\f + \\ft litotes \\f* an offering when you come to worship me. 
+bring \f + \ft litotes \f* an offering when you come to worship me. 
 \v 16 The second one is the festival of harvesting. During that festival you must offer to me the first parts\f + \ft Or: harvest \f* of your
 crops that grow from the seeds that you planted. The third one is the festival of shelters. That will be after you finish
 harvesting your grain and grapes and fruit. 
@@ -56,24 +56,24 @@ yeast. \add When you\add* offer sacrifices, \add burn\add* the fat
 \add from the animals on that same day\add*. Do not allow any fat to remain until the next morning.
 \p
 \v 19 Each year, when you harvest your crops, bring to the place where you worship me, Yahweh God, the first part of what you
-harvest. When you kill a ◄young animal\f + \ft Or: kid \f* \add or lamb or calf►\add*, do not
+harvest. When you kill a young animal\f + \ft Or: kid \add or lamb or calf \f*\add*, do not
 \add prepare to eat it by\add* boiling it in its mother's milk.”
 \s Yahweh gave the Israeli people several promises 
 \p
 \v 20-21 “Note this: I am going to send an angel ahead of you, to guard you as you travel and to bring you safely to the place
 that I have prepared \add for you\add*. Pay attention to what he says and obey him. Do not rebel against him, because he will
-have my authority \\f + \\ft metonymy \\f* and he will ◄punish\f + \ft Or: not \f* forgive► \\f + \\ft litotes \\f* you if you rebel against him.
+have my authority \f + \ft metonymy \f* and he will punish\f + \ft Or: not forgive \f* \f + \ft litotes \f* you if you rebel against him.
 \v 22 But if you pay attention to what he says and if you do all that I tell you
-\add to do\add*, I will fight strongly \\f + \\ft doublet \\f* against all of your enemies.
+\add to do\add*, I will fight strongly \f + \ft doublet \f* against all of your enemies.
 \v 23 My angel will go ahead of you, and will take you to where the Amor and Heth and Periz and Canaan and Hiv and Jebus
 people-groups live, and I will completely get rid of them. 
 \v 24 Do not bow down before their gods\f + \ft Or: idols \f* or worship them. And do not do the things
 \add that they think that their gods want\add* them to do. Completely destroy their gods\f + \ft Or: idols \f*, and smash to pieces their
 sacred stones. 
 \p
-\v 25 You must worship me, Yahweh God. \add If you do that\add*, I will bless your \f + \ft (OR, bless
-\add you by giving you\add*) \f* food and water, and I will protect you from becoming sick.
-\v 26 No women in your land will have ◄miscarriages\f + \ft Or: babies \f* that will die after being born prematurely►, and no women will be
+\v 25 You must worship me, Yahweh God. \add If you do that\add*, I will bless your \f + \ft Or: bless
+\add you by giving you\add* \f* food and water, and I will protect you from becoming sick.
+\v 26 No women in your land will have miscarriages\f + \ft Or: babies that will die after being born prematurely \f*, and no women will be
 unable to become pregnant. I will enable you to live a long time.
 \p
 \v 27 I will cause the people who oppose you to become very afraid of me. I will cause the people whom you fight against to
@@ -84,12 +84,12 @@ would be very many wild animals ◄\add that would attack you\f + \ft Or: you \f
 control\add*►. 
 \v 30 I will expel those people-groups slowly, a few at a time, until the number of your people increases and you are able to
 live everywhere in the land. 
-\v 31 I will cause the borders of your land to extend from the ◄Red Sea\f + \ft Or: Gulf \f* of Aqaba►
+\v 31 I will cause the borders of your land to extend from the Red Sea\f + \ft Or: Gulf of Aqaba \f*
 \add in the southeast\add* to the Mediterranean Sea \add in the northwest\add*, and from the
 \add Sinai\add* Desert \add in the southwest\add* to the \add Euphrates\add* River
-\add in the northeast of the country\add*. I will give you the power \\f + \\ft metonymy \\f* to expel the people who live there, so that you will
+\add in the northeast of the country\add*. I will give you the power \f + \ft metonymy \f* to expel the people who live there, so that you will
 expel them as you occupy more of the country. 
 \v 32 You must not make any agreement\f + \ft Or: treaty \f* with those people or with their gods.
 \v 33 Do not allow \add those people\add* to live in your land, in order that they do not cause you to sin against me. If you
 worship their gods, \add you will not be able to escape from worshiping them and sinning against me, just like someone
-caught\add* in a trap \add is unable to escape\add* \\f + \\ft metaphor \\f*.” 
+caught\add* in a trap \add is unable to escape\add* \f + \ft metaphor \f*.” 

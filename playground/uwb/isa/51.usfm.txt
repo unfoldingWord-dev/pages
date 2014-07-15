@@ -5,9 +5,9 @@
 \q2 who want to do what I want you to do, 
 \q listen to me! 
 \q2 Think about Abraham! 
-\q2 \add It is as though\add* \\f + \\ft metaphor \\f* he was a huge rock cliff; 
+\q2 \add It is as though\add* \f + \ft metaphor \f* he was a huge rock cliff; 
 \q and when you \add people of Israel became a nation\add*, 
-\q2 \add it was as though\add* \\f + \\ft metaphor \\f* you were cut from that rock \\f + \\ft doublet \\f*.
+\q2 \add it was as though\add* \f + \ft metaphor \f* you were cut from that rock \f + \ft doublet \f*.
 \q
 \v 2 Think about your ancestor Abraham and \add his wife\add* Sarah, of whom all of you are descendants.
 \q2 When I first spoke to Abraham, 
@@ -23,22 +23,22 @@
 \q2 they will thank me and sing. 
 \b
 \q
-\v 4 My people of Judah, listen carefully \\f + \\ft doublet \\f* to me, 
+\v 4 My people of Judah, listen carefully \f + \ft doublet \f* to me, 
 \q2 because \add I want you to\add* proclaim my laws; 
-\q the just\f + \ft Or: right \f* things that I do will be like \\f + \\ft metaphor \\f* a light for the people of the nations.
+\q the just\f + \ft Or: right \f* things that I do will be like \f + \ft metaphor \f* a light for the people of the nations.
 \q
-\v 5 I will soon\f + \ft Or: quickly \f* rescue you \\f + \\ft doublet \\f*; 
-\q2 by my power \\f + \\ft metonymy \\f* I will bring you back \add from being exiled in
-Babylonia\add* \\f + \\ft doublet \\f*. 
+\v 5 I will soon\f + \ft Or: quickly \f* rescue you \f + \ft doublet \f*; 
+\q2 by my power \f + \ft metonymy \f* I will bring you back \add from being exiled in
+Babylonia\add* \f + \ft doublet \f*. 
 \q The people who live on islands in the ocean will wait for me \add to help
 them\add*, 
-\q2 confidently expecting for me to use my power \\f + \\ft metonymy \\f*. 
+\q2 confidently expecting for me to use my power \f + \ft metonymy \f*. 
 \q
 \v 6 Look up at the sky, 
 \q2 and look at the earth, 
 \q2 \add and see what they are like now\add*, 
-\q because \add some day\add* the sky will disappear like \\f + \\ft simile \\f* smoke,
-\q2 and the earth will wear out like \\f + \\ft simile \\f* old clothes wear out,
+\q because \add some day\add* the sky will disappear like \f + \ft simile \f* smoke,
+\q2 and the earth will wear out like \f + \ft simile \f* old clothes wear out,
 \q2 and people on the earth will die like gnats\f + \ft Or: flies \f*. 
 \q But I will rescue\f + \ft Or: save \f* you, and you will remain free forever,
 \q2 and I will rule you righteously\f + \ft Or: fairly \f* forever. 
@@ -51,7 +51,7 @@ them\add*,
 \q2 do not be disturbed\f + \ft Or: upset \f* when people revile you, 
 \q
 \v 8 because \add some day they will be destroyed\add* 
-\q2 like \\f + \\ft metaphor \\f* clothing that is eaten by ◄\add larvae of\add* moths\f + \ft Or: cockroaches \f*►,
+\q2 like \f + \ft metaphor \f* clothing that is eaten by \add larvae of\add* moths\f + \ft Or: cockroaches \f*,
 \q like wool garments that have been eaten by worms. 
 \q2 I will save them, and they will be saved forever.” 
 \s A prayer for God's help 
@@ -61,29 +61,29 @@ them\add*,
 \q2 Show your power! 
 \q Do mighty things 
 \q2 like you did long ago, 
-\q2 when you stabbed \\f + \\ft rhetorical question \\f* that sea monster\f + \ft Or: dragon \f* Rahab and cut it into pieces.
+\q2 when you stabbed \f + \ft rhetorical question \f* that sea monster\f + \ft Or: dragon \f* Rahab and cut it into pieces.
 \q
-\v 10 Surely you are \\f + \\ft rhetorical question \\f* the one who caused the Red Sea to become dry
+\v 10 Surely you are \f + \ft rhetorical question \f* the one who caused the Red Sea to become dry
 \q and made a path through that deep water 
 \q2 in order that your people could cross it! 
 \q
 \v 11 And those whom Yahweh will rescue \add from being exiled in
 Babylonia\add* 
 \q2 will similarly return to Jerusalem, singing. 
-\q2 Their being joyful forever will be like \\f + \\ft metaphor \\f* a crown on their heads.
+\q2 Their being joyful forever will be like \f + \ft metaphor \f* a crown on their heads.
 \q They will not be sad or mourn anymore; 
 \q2 they will be completely joyful and happy. 
 \b
 \q
 \v 12  \add Yahweh says\add*, 
 \q2 “I am the one who encourages you. 
-\q So ◄why are you\f + \ft Or: you \f* should not be► \\f + \\ft rhetorical question \\f* afraid of humans 
-\q2 who will \add wither and disappear like\add* \\f + \\ft metaphor \\f* grass. 
+\q So why are you\f + \ft Or: you should not be \f* \f + \ft rhetorical question \f* afraid of humans 
+\q2 who will \add wither and disappear like\add* \f + \ft metaphor \f* grass. 
 \q
-\v 13 ◄Why have you\f + \ft Or: You \f* should not have► \\f + \\ft rhetorical question \\f* forgotten me, Yahweh, the one who created your nation,
+\v 13 Why have you\f + \ft Or: You should not have \f* \f + \ft rhetorical question \f* forgotten me, Yahweh, the one who created your nation,
 \q2 the one who stretched out the sky 
 \q2 and laid the foundations of the earth. 
-\q ◄Why are you\f + \ft Or: You \f* should not be► \\f + \\ft rhetorical question \\f* continually afraid of those who are angry with you and ◄oppress you\f + \ft Or: treat \f* you cruelly►
+\q Why are you\f + \ft Or: You should not be► \f + \ft rhetorical question \f* continually afraid of those who are angry with you and ◄oppress you, Or: treat you cruelly \f*
 \q2 and want to get rid of you. 
 \q \add You should not be afraid of them now\add*, 
 \q2 because those angry people have now disappeared! 
@@ -95,22 +95,22 @@ Babylonia\add*
 \q2 the one who stirs up the sea and causes the waves to roar; 
 \q2 I am the Almighty Commander of the armies of angels! 
 \q
-\v 16 I have given you my message \\f + \\ft metonymy \\f* to proclaim, 
-\q2 and I have protected you by my hand \\f + \\ft metonymy \\f*. 
+\v 16 I have given you my message \f + \ft metonymy \f* to proclaim, 
+\q2 and I have protected you by my hand \f + \ft metonymy \f*. 
 \q I stretched out the sky 
 \q2 and laid the foundation of the earth. 
 \q And I am the one who says to you Israeli people, 
 \q2 ‘You are my people!’ ” 
 \s A warning to the people of Jerusalem 
 \q
-\v 17  \add You people of\add* \\f + \\ft apostrophe \\f* Jerusalem, wake up \\f + \\ft doublet \\f*! 
-\q2 You have experienced Yahweh severely punishing \\f + \\ft metonymy \\f* you. 
+\v 17  \add You people of\add* \f + \ft apostrophe \f* Jerusalem, wake up \f + \ft doublet \f*! 
+\q2 You have experienced Yahweh severely punishing \f + \ft metonymy \f* you. 
 \q Yahweh has caused you to suffer much, 
 \q2 all that he wanted you to suffer, 
-\q like \\f + \\ft metaphor \\f* someone who causes another person to suffer 
-\q2 by forcing him to drink every drop of \\f + \\ft metonymy \\f* a cupful of bitter liquid.
+\q like \f + \ft metaphor \f* someone who causes another person to suffer 
+\q2 by forcing him to drink every drop of \f + \ft metonymy \f* a cupful of bitter liquid.
 \q
-\v 18 Now you do not have any children who are alive \\f + \\ft doublet \\f* 
+\v 18 Now you do not have any children who are alive \f + \ft doublet \f* 
 \q2 and able to take your hand and guide you. 
 \q
 \v 19 You have experienced several disasters: 
@@ -118,10 +118,10 @@ Babylonia\add*
 \q \add your cities have been\add* destroyed; 
 \q2 \add many people have\add* died from hunger; 
 \q2 \add many people have been\add* killed by your enemies' swords.
-\q Now, there is no one \\f + \\ft rhetorical question \\f* left to console\f + \ft Or: comfort \f* you and sympathize with you.
+\q Now, there is no one \f + \ft rhetorical question \f* left to console\f + \ft Or: comfort \f* you and sympathize with you.
 \q
 \v 20 Your children have fainted and lie in the streets; 
-\q2 they are \add as helpless as\add* \\f + \\ft simile \\f* an antelope \add that has been
+\q2 they are \add as helpless as\add* \f + \ft simile \f* an antelope \add that has been
 caught\add* in a net. 
 \q What has happened to them is because Yahweh has been very angry with them;
 \q2 he has rebuked them severely. 
@@ -133,11 +133,11 @@ caught\add* in a net.
 \q
 \v 22 Yahweh, your Lord and your God, 
 \q2 the one who argues\f + \ft Or: pleads \f* your case, says this: 
-\q “Note this: \add It is as though\add* \\f + \\ft metaphor \\f* I have taken that cup of bitter liquid from your hands;
+\q “Note this: \add It is as though\add* \f + \ft metaphor \f* I have taken that cup of bitter liquid from your hands;
 \q2 I will not be angry with you and cause you to suffer anymore.
 \q
 \v 23 Instead, I will cause those who have tormented you to suffer;
 \q2 \add I will severely punish\add* those who said to you, 
 \q2 ‘Prostrate yourselves in order that we may walk on you; 
 \q \add lie down on your stomachs\add* 
-\q2 in order that your backs will be like \\f + \\ft simile \\f* streets that we can walk on.’ ”
+\q2 in order that your backs will be like \f + \ft simile \f* streets that we can walk on.’ ”

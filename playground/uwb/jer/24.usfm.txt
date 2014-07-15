@@ -2,7 +2,7 @@
 \s Good figs and bad figs 
 \p
 \v 1  \add The army of\add* King Nebuchadnezzar of Babylon captured Jehoiachin, the king of Judah, and his officials, and all
-his skilled workers \\f + \\ft doublet \\f* and took them to Babylon. After that happened, Yahweh gave me a vision.
+his skilled workers \f + \ft doublet \f* and took them to Babylon. After that happened, Yahweh gave me a vision.
 \add In the vision\add* I saw two baskets of figs that had been placed in front of the temple.
 \v 2 One basket was full of good figs, like the kind that ripen first. The other basket was filled with figs that were
 bad\f + \ft Or: rotten \f*, with the result that they could not be eaten. 
@@ -12,14 +12,14 @@ bad\f + \ft Or: rotten \f*, with the result that they could not be eaten.
 \p
 \v 4 Then Yahweh me gave me this message: 
 \v 5 “This is what I, Yahweh, the God whom the Israeli people \add say that they
-worship\add*, say: The good figs represent \\f + \\ft simile \\f* the people of Judah whom I exiled to Babylonia.
-\v 6 I \\f + \\ft synecdoche \\f* will ◄watch over\f + \ft Or: take \f* care of► them well, and some day I will bring them back here
-\add to Judah\add*. I will establish them and cause them to be strong. I will cause them to be prosperous \\f + \\ft metaphor \\f*, and I will not
+worship\add*, say: The good figs represent \f + \ft simile \f* the people of Judah whom I exiled to Babylonia.
+\v 6 I \f + \ft synecdoche \f* will watch over\f + \ft Or: take care of \f* them well, and some day I will bring them back here
+\add to Judah\add*. I will establish them and cause them to be strong. I will cause them to be prosperous \f + \ft metaphor \f*, and I will not
 exile them again. 
 \v 7 I will enable them to desire to know [IDI] in their inner beings that I am Yahweh. They will be my people, and I will be
 their God, because they will return to me sincerely. 
 \p
-\v 8 But I, Yahweh, also say, the bad figs represent \\f + \\ft simile \\f* Zedekiah, the king of Judah, and his officials, and all the other
+\v 8 But I, Yahweh, also say, the bad figs represent \f + \ft simile \f* Zedekiah, the king of Judah, and his officials, and all the other
 people who remain in Jerusalem, and those who have gone to Egypt. I will do to them like people do to rotten figs.
 \v 9 I will \add cause them to experience calamities\f + \ft Or: disasters \f*\add*, with the result that people in every nation on the earth
 will be horrified, and will hate them because they are evil people. Wherever I scatter them, people will make fun of them, and

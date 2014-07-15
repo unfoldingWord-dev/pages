@@ -2,10 +2,10 @@
 \s Instructions for the coverings for the Sacred Tent 
 \p
 \v 1 “\add Tell the people to\add* make the Sacred Tent using ten long strips of fine linen. They must take blue, purple, and
-red thread \f + \ft (OR, weave the strips from blue, purple, and red thread), and
+red thread \f + \ft Or: weave the strips from blue, purple, and red thread), and
 \add a skilled craftsman\add* must embroider these strips with \add designs that
 represent\add* the winged creatures \add that are above the chest\add*.
-\v 2 Each strip is to be ◄fourteen yards\f + \ft Or: twelve \f* meters► long and two yards\f + \ft Or: meters \f* wide.
+\v 2 Each strip is to be fourteen yards\f + \ft Or: twelve meters \f* long and two yards, Or: meters wide.
 \v 3  \add Tell them to\add* sew five strips together to make one set, and sew the other five strips together to make another
 set. 
 \v 4 For each set, \add they must\add* make loops of blue \add cloth\add* and fasten them along the outer edge of the strip, at
@@ -15,7 +15,7 @@ the end of each set.
 the Sacred Tent will be \add as though it was\add* one piece. 
 \p
 \v 7 Also, \add tell them to\add* make a cover for the Sacred Tent from eleven pieces of cloth made from goats' hair.
-\v 8 Each piece of cloth is to be ◄fifteen yards\f + \ft Or: thirteen \f* meters► long and two yards\f + \ft Or: meters \f* wide.
+\v 8 Each piece of cloth is to be fifteen yards\f + \ft Or: thirteen meters \f* long and two yards, Or: meters wide.
 \v 9  \add Tell them to\add* sew five of these pieces of cloth together to make one set, and sew the other six pieces of cloth
 together to make another set. \add They\add* must fold the sixth piece
 \add of cloth\add* in half to make it double over the front of the Sacred Tent.
@@ -29,12 +29,12 @@ was\add* one piece.
 \v 13 The extra half yard\f + \ft Or: meter \f* of each cover, the part that extends beyond
 \add the linen cloth\add* on each side, must hang over the two sides of the Sacred Tent, to protect the sides.
 \v 14  \add Tell them to\add* make two more covers for the Sacred Tent. One is to be made from rams' skins that have been
-◄tanned\f + \ft Or: dyed \f* red►, and the top cover is to be made from goatskin leather.”
+tanned\f + \ft Or: dyed red \f*, and the top cover is to be made from goatskin leather.”
 \s Instructions for the framework for the Sacred Tent 
 \p
 \v 15 “\add Tell them to\add* make \add forty-eight\add* frames from acacia wood, frames that will be set up
 \add to hang the Sacred Tent covers from them\add*. 
-\v 16 Each frame is to be ◄five yards\f + \ft Or: four \f* meters► long and ◄27 in.\f + \ft Or: 66 \f* cm.► wide.
+\v 16 Each frame is to be five yards\f + \ft Or: four meters► long and ◄27 in., Or: 66 cm. \f* wide.
 \v 17  \add They\add* must make two projections at the bottom of each frame. These will be to fasten the frames to the bases
 underneath them. They must make these projections at the bottom of each frame.
 \v 18 Make twenty frames for the south side of the Sacred Tent. 
@@ -47,7 +47,7 @@ made\add* to fit into the bases.
 to\add* make six frames. 
 \v 23 Also, \add tell them to\add* make two extra frames, one for each corner of the rear of the Sacred Tent,
 \add to provide extra support\add*. 
-\v 24 The two corner frames must be separated at the bottom but joined at the top (OR, joined at both the bottom and the top) \f*.
+\v 24 The two corner frames must be separated at the bottom but joined at the top (OR, joined at both the bottom and the top \f*.
 At the top of each of the two corner frames there must be a gold ring for holding the crossbar.
 \v 25 In that way, \add for the rear of the Sacred Tent\add* there will be eight frames, and there will be sixteen bases, two
 under each frame. 

@@ -1,7 +1,7 @@
 \c 3  
 \s They rebuilt the wall around Jerusalem 
 \p
-\v 1  \add ◄This is a list\f + \ft Or: These \f* are the names► of the people who helped to rebuild the wall around
+\v 1  \add This is a list\f + \ft Or: These are the names \f* of the people who helped to rebuild the wall around
 Jerusalem\add*. Eliashib the supreme priest and the other priests began to rebuild it at the Sheep Gate. They also put the
 gates in their places. They built the wall as far as the Tower of 100 Soldiers and
 \add further north\add* to the Tower of Hananel, and they dedicated it to God.
@@ -36,7 +36,7 @@ wall\add* near his house. Next to him, Hattush the son of Hashabneiah repaired
 work\add*. 
 \p
 \v 13 Hanun and people from Zanoah \add city\add* repaired the Valley Gate. They put the gates in their places, and also put in
-the bolts and bars \add for locking the gate\add*. They repaired the wall for ◄1500 ft.\f + \ft Or: 500 \f* meters►, as far as the Dung Gate.
+the bolts and bars \add for locking the gate\add*. They repaired the wall for 1500 ft.\f + \ft Or: 500 meters \f*, as far as the Dung Gate.
 \p
 \v 14 Malchijah the son of Rechab, who ruled Beth-Haccherem District, repaired the Dung Gate. He also put in their places the
 bolts and bars \add for locking the gate\add*. 
@@ -54,7 +54,7 @@ Keilah District, repaired the next section on behalf of the people of his distri
 \v 18 Bavvai the son of Henadad, who ruled the other half of the Keilah District, repaired
 \add the next section\add* along with other descendants of Levi.
 \v 19 Next to him, Ezer the son of Jeshua, who ruled Mizpah \add city\add*, repaired another section in front of
-\add the steps which\add* went up to the ◄armory\f + \ft Or: building \f* where the weapons are kept►, as far as where the wall turns
+\add the steps which\add* went up to the armory\f + \ft Or: building where the weapons are kept \f*, as far as where the wall turns
 \add a bit to the right\add*. 
 \v 20 Next to him, Baruch the son of Zabbai repaired a section, as far as the door of the house of Eliashib the supreme priest.
 \v 21 Next to him, Meremoth the son of Uriah and grandson of Hakkoz, repaired a section from the door of Eliashib's house to
@@ -78,7 +78,7 @@ repaired\add*.
 \v 28 A group of priests repaired \add the wall\add* north from the Horse Gate. Each one repaired the section near his own
 house. 
 \v 29 Next to them, Zadok the son of Immer repaired \add the section\add* in front of his house. Next to him, Shemaiah the son
-of Shecaniah, who ◄was the gatekeeper at\f + \ft Or: opened \f* and closed► the East Gate, repaired
+of Shecaniah, who was the gatekeeper at\f + \ft Or: opened and closed \f* the East Gate, repaired
 \add the next section\add*. 
 \v 30 Next to him, Hananiah the son of Shelemiah, and Hanun the sixth son of Zalaph, repaired a section. That was the second
 \add section that they repaired\add*. 

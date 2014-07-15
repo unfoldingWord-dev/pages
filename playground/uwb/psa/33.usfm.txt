@@ -18,14 +18,14 @@
 \b
 \q
 \v 6 Yahweh created everything in the sky by commanding it. 
-\q2 By what he said \\f + \\ft metonymy \\f* he created all the stars. 
+\q2 By what he said \f + \ft metonymy \f* he created all the stars. 
 \q
 \v 7 He gathered all the water into one huge mass 
 \q2 like someone scoops liquid into a container. 
 \q
-\v 8 Everyone on the earth should have a reverential respect for Yahweh \\f + \\ft doublet \\f*.
+\v 8 Everyone on the earth should have a reverential respect for Yahweh \f + \ft doublet \f*.
 \q
-\v 9 When he spoke, the world ◄was created\f + \ft Or: started \f* to exist►. 
+\v 9 When he spoke, the world was created\f + \ft Or: started to exist \f*. 
 \q2 Everything started to exist as a result of him commanding it.
 \q
 \v 10 Yahweh frustrates the things that the \add pagan\add* nations decide to do.
@@ -40,7 +40,7 @@
 \q
 \v 13 Yahweh looks down from heaven and sees all us people. 
 \q
-\v 14 From where he rules \\f + \\ft metonymy \\f*, he looks down on all the people who live on the earth.
+\v 14 From where he rules \f + \ft metonymy \f*, he looks down on all the people who live on the earth.
 \q
 \v 15 He formed our inner beings, 
 \q2 and he sees everything that we do. 
@@ -56,15 +56,15 @@
 \v 18 Do not forget that Yahweh watches over those who have a reverential respect for him,
 \q2 those who confidently expect him to faithfully love them. 
 \q
-\v 19 He saves them \\f + \\ft synecdoche \\f* from dying \add before they should die\add*
+\v 19 He saves them \f + \ft synecdoche \f* from dying \add before they should die\add*
 \q2 and preserves them when there is a famine. 
 \b
 \q
 \v 20 We trust that Yahweh will help us; 
-\q2 he protects us like a shield protects a soldier \\f + \\ft metaphor \\f*. 
+\q2 he protects us like a shield protects a soldier \f + \ft metaphor \f*. 
 \q
 \v 21 We rejoice because of what he \add has done for us\add*; 
-\q2 we trust in him because he \\f + \\ft metonymy \\f* is holy. 
+\q2 we trust in him because he \f + \ft metonymy \f* is holy. 
 \q
 \v 22 Yahweh, we pray that you will always faithfully love us 
 \q2 while we confidently expect you \add to do great things for us\add*.

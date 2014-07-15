@@ -6,7 +6,7 @@
 \v 2 Sing to him; praise him as you sing to him; 
 \q2 tell others about his wonderful miracles. 
 \q
-\v 3 Be happy because \add you know that\add* he \\f + \\ft metonymy \\f* is holy! 
+\v 3 Be happy because \add you know that\add* he \f + \ft metonymy \f* is holy! 
 \q2 You people who worship Yahweh, rejoice! 
 \q
 \v 4 Ask Yahweh to help you and give you his strength, 
@@ -36,7 +36,7 @@
 \b
 \q
 \v 12  \add He said that to them\add* when they were only a few of them,
-\q2 a tiny group of people who were living in that land ◄like strangers\f + \ft Or: that \f* belonged to other people►.
+\q2 a tiny group of people who were living in that land like strangers\f + \ft Or: that belonged to other people \f*.
 \q
 \v 13 They continued to wander from one place to another, 
 \q2 from one kingdom to another. 
@@ -57,8 +57,8 @@
 \q2 they put his legs in shackles that bruised his feet, 
 \q and they put an iron collar around his neck. 
 \q
-\v 19 There, Yahweh ◄refined Joseph's character\f + \ft Or: tested \f* Joseph to see if Joseph would continue to trust him►,
-\q2 until what Joseph predicted would happen ◄came true\f + \ft Or: happened \f*►.
+\v 19 There, Yahweh refined Joseph's character\f + \ft Or: tested Joseph to see if Joseph would continue to trust him \f*,
+\q2 until what Joseph predicted would happen came true\f + \ft Or: happened \f*.
 \q
 \v 20 The king of Egypt summoned him, and he set Joseph free; 
 \q2 this ruler of many people-groups released Joseph from prison.
@@ -66,7 +66,7 @@
 \v 21 Then he appointed him to take care of everything in the king's household,
 \q2 to take care of everything that the king possessed. 
 \q
-\v 22 ◄Joseph was permitted\f + \ft Or: He \f* permitted Joseph► to command the king's servants
+\v 22 Joseph was permitted\f + \ft Or: He permitted Joseph \f* to command the king's servants
 \q2 to do anything that Joseph wanted them to do, 
 \q2 and even to tell the king's advisors the things that they should do
 \add for the people of Egypt\add*. 
@@ -78,7 +78,7 @@
 \v 24 And \add years later\add* Yahweh caused the descendants of Jacob to become very numerous.
 \q2 As a result, their enemies, \add the Egyptians\add*, considered that the Israelis were too strong.
 \q
-\v 25 So Yahweh caused the rulers of Egypt to ◄turn against\f + \ft Or: hate \f*► the Israeli people,
+\v 25 So Yahweh caused the rulers of Egypt to turn against\f + \ft Or: hate \f* the Israeli people,
 \q2 and they planned ways to get rid of his people. 
 \q
 \v 26 But then Yahweh sent his servant Moses 
@@ -88,11 +88,11 @@
 \v 27 Those two performed amazing miracles among the people of Egypt,
 \q2 in that land where the descendants of Ham lived. 
 \q
-\v 28 Yahweh sent darkness, so that the people of Egypt could not see anything \\f + \\ft doublet \\f*,
-\q2 but the rulers of Egypt refused \\f + \\ft rhetorical question \\f* to obey when \add Moses and
+\v 28 Yahweh sent darkness, so that the people of Egypt could not see anything \f + \ft doublet \f*,
+\q2 but the rulers of Egypt refused \f + \ft rhetorical question \f* to obey when \add Moses and
 Aaron\add* commanded \add them to let the Israeli people leave Egypt\add*.
 \q
-\v 29 Yahweh caused all the water in Egypt to become ◄blood\f + \ft Or: red \f* like blood►,
+\v 29 Yahweh caused all the water in Egypt to become blood\f + \ft Or: red like blood \f*,
 \q2 and his doing that caused all the fish to die. 
 \q
 \v 30 Then he caused the land to become full of frogs; 
@@ -114,7 +114,7 @@ Aaron\add* commanded \add them to let the Israeli people leave Egypt\add*.
 \q2 ruining all the crops. 
 \q
 \v 36 Then Yahweh killed the oldest son in every house \add of the people of
-Egypt\add* \\f + \\ft doublet \\f*. 
+Egypt\add* \f + \ft doublet \f*. 
 \b
 \q
 \v 37 Then he brought the Israeli people out \add from Egypt\add*;
@@ -149,6 +149,6 @@ morning\add*.
 \q2 and the Israelis harvested crops that other people had planted.
 \q
 \v 45 Yahweh did all these things 
-\q2 in order that his people would do all the things that he had commanded them to do \\f + \\ft doublet \\f*.
+\q2 in order that his people would do all the things that he had commanded them to do \f + \ft doublet \f*.
 \b
 \q Praise Yahweh\f + \ft Or: Hallelujah \f*! 

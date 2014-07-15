@@ -2,27 +2,27 @@
 \s A psalm written by David for the choir director, to be accompanied by musical instruments
 \q
 \v 1 God, listen to me, 
-\q2 and answer my prayer \\f + \\ft doublet \\f*. 
+\q2 and answer my prayer \f + \ft doublet \f*. 
 \q
 \v 2 While I am discouraged and far from my home, 
 \q I am calling out to you. 
 \b
-\q Lead me to \add a place that will be like\add* a high rock \\f + \\ft metaphor \\f*
+\q Lead me to \add a place that will be like\add* a high rock \f + \ft metaphor \f*
 \q2 on top of which I will be safe. 
 \q
 \v 3 You have been my refuge; 
-\q2 you have been like a strong tower \\f + \\ft metaphor \\f* 
+\q2 you have been like a strong tower \f + \ft metaphor \f* 
 \q2 \add in which I am safe\add* from being attacked by my enemies.
 \b
 \q
-\v 4 Allow me to live close to your temple all during my life \\f + \\ft hyperbole \\f*!
-\q Allow me to be safe \\f + \\ft metaphor \\f*, \add like a little bird is safe\add* under
+\v 4 Allow me to live close to your temple all during my life \f + \ft hyperbole \f*!
+\q Allow me to be safe \f + \ft metaphor \f*, \add like a little bird is safe\add* under
 \add its mother's\add* wings. 
 \qr (Think about that!) 
 \q
 \v 5 God, you heard me when I solemnly promised \add to give offerings to
 you\add*; 
-\q2 you have given to me the blessings that belong to those who have an awesome respect for you \\f + \\ft metonymy \\f*.
+\q2 you have given to me the blessings that belong to those who have an awesome respect for you \f + \ft metonymy \f*.
 \b
 \q
 \v 6  \add I am\add* the king \add of Israel\add*; 
@@ -33,5 +33,5 @@ you\add*;
 \q2 watch over us while you faithfully love us and do for us what you promised.
 \b
 \q
-\v 8 If you do that, I will always sing to praise you \\f + \\ft metonymy \\f* 
+\v 8 If you do that, I will always sing to praise you \f + \ft metonymy \f* 
 \q2 while I offer to you each day the sacrifices that I promised to give to you.

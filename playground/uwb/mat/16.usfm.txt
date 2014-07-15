@@ -3,7 +3,7 @@
 \s Jesus again told the religious leaders that the only miracle that he would do for them was one like God did for Jonah.
 \p
 \v 1  \add Some\add* Pharisees and Sadducees came to \add Jesus\add* and asked him
-\add to perform\add* a miracle that would prove \add that\add* God \\f + \\ft euphemism \\f*
+\add to perform\add* a miracle that would prove \add that\add* God \f + \ft euphemism \f*
 \add had sent him\add*. 
 \v 2 He answered them, “\add In this country\add*, in the evening you say,
 ‘\add It will be\add* good weather \add tomorrow\add*, because the sky is red.’
@@ -11,10 +11,10 @@
 clouds have formed.’ You understand how to predict \add the weather by looking at the
 sky\add*, but you cannot \add seem to look at what is happening\add*
 now\add and by that\add* understand \add what God is doing\add*.
-\v 4  \add You\add* evil people have seen me\add perform miracles\add* but you do not faithfully worship God \\f + \\ft metaphor \\f*. You want to
+\v 4  \add You\add* evil people have seen me\add perform miracles\add* but you do not faithfully worship God \f + \ft metaphor \f*. You want to
 see \add me perform\add* a miracle \add that would prove that God has sent
 me\add*. But \add God\add* will \add enable you to see\add* only one miracle. It will be
-\add like\add* what happened \\f + \\ft metaphor \\f* to Jonah, \add the prophet, who was inside a huge fish for three days and then came out of
+\add like\add* what happened \f + \ft metaphor \f* to Jonah, \add the prophet, who was inside a huge fish for three days and then came out of
 it to live again\add*.” Then Jesus left them and sailed away, \add along with us
 disciples\add*. 
 \s Matthew 16:5-12 
@@ -23,7 +23,7 @@ disciples\add*.
 \v 5  \add We\add* forgot to take bread when \add we\add* sailed to another edge of
 \add the lake\add*. 
 \v 6  \add Then\add* Jesus said to us, “Beware \add that you do not
-accept\add* the yeast \\f + \\ft metaphor \\f* that the Pharisees and Sadducees \add distribute\add*.”
+accept\add* the yeast \f + \ft metaphor \f* that the Pharisees and Sadducees \add distribute\add*.”
 \v 7 Then, \add not realizing that he was speaking figuratively\add*,
 \add we\add* said to one another, “\add He must have said that\add* because we forgot to bring any bread!”
 \v 8 Because Jesus knew what\add we were saying\add*, he said \add to
@@ -31,23 +31,23 @@ us\add*, “◄I am disappointed that you are discussing among yourselves,
 \add thinking\add* that \add it was because\add* you did not bring any bread
 \add that I talked about the yeast of the Pharisees and Sadducees\add*.\f + \ft Or: Why \f* are you discussing among yourselves thinking that
 it was because you did not bring any bread \add that I talked about the yeast of the Pharisees and
-Sadducees\add*?► \\f + \\ft rhetorical question \\f* You believe only a little \add what I am able to do for
+Sadducees\add*?► \f + \ft rhetorical question \f* You believe only a little \add what I am able to do for
 you\add*. 
 \v 9 ◄You should understand \add that I can continue to do miracles to provide for what you
 need.\f + \ft Or:  \f*\add*Do you not yet understand \add that I can provide miraculously for you if you need
-food\add*?► \\f + \\ft rhetorical question \\f* Do you not remember that five thousand \add people ate when I multiplied
+food\add*?► \f + \ft rhetorical question \f* Do you not remember that five thousand \add people ate when I multiplied
 the\add* five small loaves \add and the two fish? And after everyone had enough to
 eat\add*, you collected \add twelve\add* baskets \add of left-over
-pieces\add* \\f + \\ft rhetorical question \\f*! 
-\v 10  \add Do you not remember\add* \\f + \\ft rhetorical question \\f* \add that\add* four thousand
+pieces\add* \f + \ft rhetorical question \f*! 
+\v 10  \add Do you not remember\add* \f + \ft rhetorical question \f* \add that\add* four thousand
 \add people ate when I multiplied the\add* seven small loaves \add and a few
 fish\add*? And \add after everyone had enough to eat\add*, you collected
 \add seven\add* large baskets \add of left-over pieces\add*! 
 \v 11 ◄You should have understood that I was not speaking about \add real\add* bread
 \add that contains yeast\add*.\f + \ft Or: Why \f* have you not understood that I was not speaking about
-\add real\add* bread \add that contains yeast?\add*► \\f + \\ft rhetorical question \\f* What I
+\add real\add* bread \add that contains yeast?\add*► \f + \ft rhetorical question \f* What I
 \add was saying\add* was that you should \add not accept what\add* the Pharisees and Sadducees
-\add say, because it would affect you like\add* yeast \add affects\add* \\f + \\ft metaphor \\f*
+\add say, because it would affect you like\add* yeast \add affects\add* \f + \ft metaphor \f*
 \add dough\add*.” 
 \v 12 Then we understood that he was not talking about the yeast that is
 \add in\add* bread. Instead, \add he was talking\add* about the \add wrong\add* teaching of the Pharisees and Sadducees.
@@ -65,19 +65,19 @@ prophet\add* Elijah, \add who has returned from heaven as God promised\add*.
 again\add*.” 
 \v 15 Jesus said to us, “\add What about\add* you? Who do you say that I am?”
 \v 16 Simon Peter said to him, “You are the Messiah! You are the Son of the all-powerful God.”
-\v 17 Then Jesus said to him, “Simon, son of Jonah, \add God\add* is pleased with you. What you just said was not \\f + \\ft synecdoche \\f*
+\v 17 Then Jesus said to him, “Simon, son of Jonah, \add God\add* is pleased with you. What you just said was not \f + \ft synecdoche \f*
 revealed to you by any human. Instead, \add it was\add* my Father
 \add who lives\add* in heaven \add who revealed this to you\add*.
 \v 18 I will also tell you this: You are Peter, \add which means
 rock\add*. \add You are like\add* a rock. What you \add and your fellow apostles
-teach\add* \f + \ft (OR, \add what\add* you\add do\add*) \add will be like a foundation on which
-I\add* will create congregations of people who \add believe in\add* me. And the demons \\f + \\ft personification \\f*,
+teach\add* \f + \ft Or: \add what\add* you\add do\add*) \add will be like a foundation on which
+I\add* will create congregations of people who \add believe in\add* me. And the demons \f + \ft personification \f*,
 \add who live\add* where the dead people who lived evil lives are, will not be able to
-\add come and\add* prevent \\f + \\ft metaphor \\f* \add me from doing\add* that.” 
+\add come and\add* prevent \f + \ft metaphor \f* \add me from doing\add* that.” 
 \v 19  \add Then, speaking to all of us, he said\add*, “I will enable
-you\add (pl) \f*\add* to have authority \\f + \\ft metonymy \\f* over the groups of people over whose lives
-\add God\add* rules. Whatever you forbid regarding those people \\f + \\ft metonymy \\f*, it will have been forbidden by God. Whatever you permit
-\\f + \\ft metaphor \\f* regarding them, it will have been permitted by God.” 
+you\add (pl \f*\add* to have authority \f + \ft metonymy \f* over the groups of people over whose lives
+\add God\add* rules. Whatever you forbid regarding those people \f + \ft metonymy \f*, it will have been forbidden by God. Whatever you permit
+\f + \ft metaphor \f* regarding them, it will have been permitted by God.” 
 \v 20 Then Jesus warned \add us\add* disciples strongly not to tell anyone
 \add at that time\add* that he is the Messiah. 
 \s Matthew 16:21-23 
@@ -91,7 +91,7 @@ you\add (pl) \f*\add* to have authority \\f + \\ft metonymy \\f* over the groups
 die\add*, he took Jesus aside and began to rebuke him\add for talking about suffering and
 dying\add*. He said, “Lord, may \add God\add* never permit that to happen to you! That must certainly not happen!”
 \v 23 Then Jesus turned \add to look at\add* Peter, and he said to him, “Stop talking to me
-\add like that\add* \\f + \\ft metonymy \\f*! \add Stop saying what\add* Satan \\f + \\ft metaphor \\f*
+\add like that\add* \f + \ft metonymy \f*! \add Stop saying what\add* Satan \f + \ft metaphor \f*
 \add would say, and stop\add* trying to prevent \add from happening what God has
 planned!\add* You are a hindrance to me, because you are not thinking like God thinks. Instead,
 \add you are thinking\add* like people \add think\add*!” 
@@ -101,7 +101,7 @@ planned!\add* You are a hindrance to me, because you are not thinking like God t
 \v 24 Then Jesus said to \add us\add* disciples, “If any one \add of
 you\add* wants to be my disciple, you must not do \add only\add* what you yourself
 want\add to do\add*. \add You\add* must be willing to \add let people hurt you and disgrace you. That is like what they do to
-criminals whom they force to\add* carry a cross \\f + \\ft metaphor \\f* \add to the place where the criminals will be executed. That is what
+criminals whom they force to\add* carry a cross \f + \ft metaphor \f* \add to the place where the criminals will be executed. That is what
 anyone who wants to\add* be my disciple\add must do\add*. 
 \v 25  \add You must do that\add*, because those who try to save their lives
 \add by denying that they belong to me when people want to kill them for believing in
@@ -110,7 +110,7 @@ me\add* will not live \add eternally\add*, but those who are killed
 \v 26 People \add might\add* get everything \add they want\add* in this world, but
 ◄\add if they do not become my disciples\add*, they would really be gaining nothing
 \add because\add* they would not get eternal life!\f + \ft Or: what \f* would they gain
-\add if they do not become my disciples and thus\add* do not get eternal life?► \\f + \\ft rhetorical question \\f* ◄There is absolutely nothing that people
+\add if they do not become my disciples and thus\add* do not get eternal life?► \f + \ft rhetorical question \f* ◄There is absolutely nothing that people
 can give \add to God\add* that would enable them to gain eternal life.\f + \ft Or: What \f* can people give
 \add to God\add* that could enable them to gain eternal life?► [MTY, RHQ]
 \v 27  \add Listen carefully: I\add*, the one who came from heaven,

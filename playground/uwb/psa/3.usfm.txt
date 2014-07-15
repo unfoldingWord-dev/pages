@@ -1,7 +1,7 @@
 \c 3  
 \s A psalm written by David when he fled from his son Absalom 
 \q
-\v 1 Yahweh, I have many enemies \\f + \\ft doublet \\f*! 
+\v 1 Yahweh, I have many enemies \f + \ft doublet \f*! 
 \q2 There are many people who oppose\f + \ft Or: rebel \f* against me. 
 \q
 \v 2 Many people are saying about me, 
@@ -9,8 +9,8 @@
 \qr (Think about that!) 
 \b
 \q2
-\v 3 But Yahweh, you are like a shield \add that protects me\add* \\f + \\ft metaphor \\f*.
-\q You greatly honor me, and you encourage me \f + \ft (OR, enable me to triumph over my enemies) [IDI].
+\v 3 But Yahweh, you are like a shield \add that protects me\add* \f + \ft metaphor \f*.
+\q You greatly honor me, and you encourage me \f + \ft Or: enable me to triumph over my enemies) [IDI].
 \q
 \v 4 I cry out to you, Yahweh, 
 \q2 and you answer me from \add Zion\add*, your sacred hill. 
@@ -19,7 +19,7 @@
 \q
 \v 5  \add At night\add* I lie down and sleep, and I awake \add in the morning feeling
 good\f + \ft Or: refreshed \f*\add* 
-\q2 because you, Yahweh, ◄take care of\f + \ft Or: protect \f*► me \add all during the
+\q2 because you, Yahweh, take care of\f + \ft Or: protect \f* me \add all during the
 night\add*. 
 \q
 \v 6 There may be thousands of \add enemy\add* soldiers who surround me,
@@ -30,10 +30,10 @@ night\add*.
 \q2 My God, come and rescue me \add again\add*! 
 \q You \add insult\add* my enemies by slapping them on their cheeks;
 \q2 \add when you strike them\add*, you break their teeth, 
-\q2 \add with the result that they cannot hurt anyone\add* \\f + \\ft metaphor \\f*.
+\q2 \add with the result that they cannot hurt anyone\add* \f + \ft metaphor \f*.
 \b
 \q
 \v 8 Yahweh, you are the one who saves your people \add from their
 enemies\add*. 
 \q2 Yahweh, bless your people! 
-\qr (Think about that!) \f* 
+\qr (Think about that! \f* 

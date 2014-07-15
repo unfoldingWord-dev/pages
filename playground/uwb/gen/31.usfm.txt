@@ -1,7 +1,7 @@
 \c 31  
 \s Jacob's family fled from Laban 
 \p
-\v 1 Someone told Jacob that Laban's sons were complaining and saying, “Jacob has become very rich by taking everything \\f + \\ft hyperbole \\f*
+\v 1 Someone told Jacob that Laban's sons were complaining and saying, “Jacob has become very rich by taking everything \f + \ft hyperbole \f*
 that belonged to our father.” 
 \v 2 And Jacob noticed that Laban was not acting friendly toward him as he had done before.
 \v 3 Then Yahweh said to Jacob, “Go back to your country and your relatives, and I will help you there.”
@@ -11,7 +11,7 @@ were.
 \v 5 When they arrived, he said to them, “I see that your father does not act friendly toward me as he did previously. But God,
 whom my father worshiped, has helped me. 
 \v 6 You two know that I have worked very hard for your father, 
-\v 7 but many times \\f + \\ft hyperbole \\f* he has cheated me by decreasing my wages. But God has not allowed him to harm me.
+\v 7 but many times \f + \ft hyperbole \f* he has cheated me by decreasing my wages. But God has not allowed him to harm me.
 \v 8 When Laban said, ‘The speckled animals are the ones that I will give you to be your wages,’ then all the animals gave
 birth to young ones that were speckled. When he changed and said, ‘The ones that have black and white stripes on them will be
 your wages,’ then all the animals gave birth to young ones that were striped.
@@ -27,8 +27,8 @@ are speckled or spotted. This is happening because I have seen all that Laban ha
 oil on the stone and made a solemn promise to me. So now leave this land immediately, and return to the land where you were
 born.’ ” 
 \p
-\v 14 Rachel and Leah replied to him, “Our father will not give us anything more when he dies \\f + \\ft rhetorical question \\f*.
-\v 15 He treats us as though we were foreigners \\f + \\ft rhetorical question \\f*! Your working for him all these years was like a payment that you gave
+\v 14 Rachel and Leah replied to him, “Our father will not give us anything more when he dies \f + \ft rhetorical question \f*.
+\v 15 He treats us as though we were foreigners \f + \ft rhetorical question \f*! Your working for him all these years was like a payment that you gave
 him as a price for us, but we will not inherit any of that money that he got as a price for us. He has spent it all!
 \v 16 Surely all of the wealth that God took away from our father belongs to us and to our children. So do whatever God has
 told you to do!” 
@@ -47,16 +47,16 @@ south toward the hilly area of Gilead region.
 \v 22 On the third day after they left, someone told Laban that Jacob and his family had left.
 \v 23 So he took some of his relatives with him and started to pursue Jacob. They walked for seven days.
 \v 24 Then God appeared to Laban in a dream at night. He said to him, “When you catch up to Jacob, be sure that you do not say
-anything at all \\f + \\ft hyperbole \\f* to him in an angry manner!” 
+anything at all \f + \ft hyperbole \f* to him in an angry manner!” 
 \p
 \v 25 The next day, by the time Laban caught up with Jacob, Jacob and his household had set up their tents in the hilly Gilead
 area. So Laban and his relatives set up their tents there, too. 
 \v 26 Then Laban went to Jacob and said to him, “Why have you done this? You have deceived me by carrying away my daughters as
-though you had captured them in a war \\f + \\ft metonymy \\f*! 
+though you had captured them in a war \f + \ft metonymy \f*! 
 \v 27 Why did you run away and deceive me? Why did you not tell me that you were going to leave, so that we could have rejoiced
 and sung while people played music on tambourines and harps before I said ‘goodbye’ to you?
 \v 28 ◄You did not even let me kiss my grandchildren and my daughters goodbye before they left!\f + \ft Or: Why \f* did you not allow me to
-kiss my grandchildren and daughters goodbye before they left?► \\f + \\ft rhetorical question \\f* What you have done was foolish!
+kiss my grandchildren and daughters goodbye before they left?► \f + \ft rhetorical question \f* What you have done was foolish!
 \v 29 My relatives and I have the power to harm you, but last night the God whom your father worships said to me in a dream,
 ‘Be sure that you do not say anything at all to Laban in an angry way.’
 \v 30 Now, I know you have left because you long to go back home. But why did you steal my wooden idols?”
@@ -72,7 +72,7 @@ for the idols, but he did not find them. After he left their tents, he entered R
 \v 34 But Rachel had previously taken the idols and put them in the saddle of a camel, and she was sitting on the saddle. So
 when Laban searched all over for them inside Rachel's tent, he did not find them.
 \v 35 Rachel said to her father, “Do not be angry with me, sir, but I cannot stand up in your presence
-\add to show respect for you\add*, because I am having my monthly menstrual period. \\f + \\ft euphemism \\f*” So when Laban searched some more, he
+\add to show respect for you\add*, because I am having my monthly menstrual period. \f + \ft euphemism \f*” So when Laban searched some more, he
 did not find the wooden idols. 
 \p
 \v 36 Then Jacob became angry. He rebuked Laban, saying, “What crime did I commit? For what sin that I committed have you
@@ -85,17 +85,17 @@ animals safely►. I have not \add killed and\add* eaten any rams from your floc
 \v 39 When one of your animals was attacked and mauled\f + \ft Or: killed \f* by a wild animal, I did not bring it to you. I replaced the dead
 animal with a living one of my own animals. Whenever one of your animals was stolen, during the day or during the night, you
 demanded that I replace it with one of my own animals. 
-\v 40 I suffered from the heat during the day and from the cold at night. I was often not even able to sleep \\f + \\ft personification \\f*!
+\v 40 I suffered from the heat during the day and from the cold at night. I was often not even able to sleep \f + \ft personification \f*!
 \v 41 I lived in your household for twenty years. I worked for you for fourteen years to buy your two daughters, and for six
-more years to buy some of your sheep and goats. During that time, you changed and reduced my wages many times \\f + \\ft hyperbole \\f*.
+more years to buy some of your sheep and goats. During that time, you changed and reduced my wages many times \f + \ft hyperbole \f*.
 \v 42 If God, the one whom my grandfather Abraham worshiped and before whom my father Isaac trembled in fear, had not been with
-me and helped me, you would have sent me away ◄with nothing in my hands\f + \ft Or: owning \f* nothing►! But God saw how much I was suffering
+me and helped me, you would have sent me away with nothing in my hands\f + \ft Or: owning nothing \f*! But God saw how much I was suffering
 and how hard I was working, so last night he told you that what you have done to me was wrong.”
 \s Jacob and Laban made a solemn promise not to harm each other 
 \p
 \v 43 Laban replied, “These two women are my daughters, and their children are my grandchildren, and the animals are my
-animals. Everything you see here is mine \\f + \\ft hyperbole \\f*! But what can I do today to keep my daughters or the children they have given
-birth to \\f + \\ft rhetorical question \\f*? 
+animals. Everything you see here is mine \f + \ft hyperbole \f*! But what can I do today to keep my daughters or the children they have given
+birth to \f + \ft rhetorical question \f*? 
 \v 44 I cannot do anything in order to keep them, so hey, we should make a peace agreement, you and I, and do something that
 will remind us about our agreement.” 
 \p
@@ -114,7 +114,7 @@ that God sees what you and I are doing!”
 \p
 \v 51 Laban also said to Jacob, “You see this large stone and this pile of rocks that we have set up to be between us.
 \v 52 Both this pile of rocks and this large stone will remind us, that I will not go past these rocks to harm you, and you
-will not go past these rocks to harm me. We will ask the God whom Abraham and his father Nahor worshiped to punish \\f + \\ft metonymy \\f* either
+will not go past these rocks to harm me. We will ask the God whom Abraham and his father Nahor worshiped to punish \f + \ft metonymy \f* either
 one of us, if we harm the other one.” 
 \p
 \v 53 So Jacob solemnly promised to do what they said in their peace agreement. And he asked God, the one before whom his

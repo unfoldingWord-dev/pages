@@ -10,10 +10,10 @@ to\add* the tomb.
 \v 4 They did not know what to think about that. Then suddenly two men stood by them wearing bright shining clothes!
 \v 5 The \add women\add* were frightened. As they prostrated themselves on the ground, the two men said to them, “◄You should
 not be seeking someone who is alive in \add a place where they bury\add* dead people!\f + \ft Or: Why \f* are you seeking in
-\add a place where they bury\add* dead people someone who is alive?► \\f + \\ft rhetorical question \\f*
-\v 6 He is not here; he has ◄become alive again\f + \ft Or: risen \f* from the dead►! Remember that while he was still with you in Galilee
+\add a place where they bury\add* dead people someone who is alive?► \f + \ft rhetorical question \f*
+\v 6 He is not here; he has become alive again\f + \ft Or: risen from the dead \f*! Remember that while he was still with you in Galilee
 \add district\add* he said to you, 
-\v 7 ‘\add Even though I\add* am the one who came from heaven, \add someone\add* will enable sinful men to seize \\f + \\ft metonymy \\f* me. They
+\v 7 ‘\add Even though I\add* am the one who came from heaven, \add someone\add* will enable sinful men to seize \f + \ft metonymy \f* me. They
 will \add kill me by\add* nailing me to a cross. But on the third day
 \add after that\add*, I will become alive \add again\add*.’” 
 \v 8 The \add women\add* remembered that he had said that. 
@@ -25,7 +25,7 @@ will \add kill me by\add* nailing me to a cross. But on the third day
 \v 11 But they thought that what the women \add said\add* was nonsense. They did not believe what the women said.
 \v 12 But Peter got up and ran to the tomb \add anyway\add*. He stooped down
 \add and looked inside\add*. He saw the linen cloths \add in which Jesus' body had been
-wrapped\add*. \add The cloths were\add* by themselves \f + \ft (OR, \add He did not
+wrapped\add*. \add The cloths were\add* by themselves \f + \ft Or: \add He did not
 see\add* anything else). So, wondering what had happened, he went to where he was staying.
 \s Luke 24:13-35 
 \s Jesus appeared to two disciples as they were walking to Emmaus.
@@ -35,13 +35,13 @@ kilometers► from Jerusalem.
 \v 14 They were talking with each other about all the things that had happened
 \add to Jesus\add*. 
 \v 15 While they were talking and discussing those things, Jesus himself approached them and started walking with them.
-\v 16 But they were prevented {\add something\add* prevented them} from recognizing \\f + \\ft metonymy \\f* him.
+\v 16 But they were prevented {\add something\add* prevented them} from recognizing \f + \ft metonymy \f* him.
 \v 17  \add Jesus\add* said to them, “What have you two been talking about while you were walking?” They stopped, and their
 faces looked very sad. 
 \v 18 One of them, whose name was Cleopas, said, “◄You\add (sg)\add* must be the only person who is visiting Jerusalem
 \add for the Passover festival\add* who does not know the events that have happened there in recent days!\f + \ft Or: Are \f* you the only
 person who is visiting Jerusalem \add for the Passover festival\add* who does not know the events that have happened there in
-recent days?► \\f + \\ft rhetorical question \\f*” 
+recent days?► \f + \ft rhetorical question \f*” 
 \v 19 He said to them, “What events?” They replied, “\add The things that
 happened\add* to Jesus, \add the man\add* from Nazareth, who was a prophet. Many people saw him
 \add perform\add* great miracles, and God\add enabled him\add* to teach wonderful
@@ -62,9 +62,9 @@ they did not see \add Jesus\add*.”
 \v 26 ◄\add You should certainly have known that\add* it was necessary that the Messiah should suffer all those things
 \add and die\add*, and then enter his glorious \add home in heaven\add*!\f + \ft Or: Was \f* it not necessary that the Messiah should suffer
 all those things \add and die\add*, and then enter his glorious \add home in
-heaven\add*?► \\f + \\ft rhetorical question \\f*” 
+heaven\add*?► \f + \ft rhetorical question \f*” 
 \v 27 Then he explained to them all the things that \add the prophets\add* had written in the Scriptures about himself. He
-started with what Moses \\f + \\ft metonymy \\f* \add wrote\add* and then explained to them what all the
+started with what Moses \f + \ft metonymy \f* \add wrote\add* and then explained to them what all the
 \add other\add* prophets \add wrote\add*. 
 \p
 \v 28 They came near to the village to \add which the two men\add* were going. He indicated that he would go further,
@@ -73,11 +73,11 @@ started with what Moses \\f + \\ft metonymy \\f* \add wrote\add* and then explai
 \add the house\add* to stay with them. 
 \v 30 When they sat down to eat, he took some bread and \add asked God
 to\add* bless it. He broke it and gave \add some pieces\add* to them.
-\v 31 And then \add God\add* enabled them to recognize \\f + \\ft metonymy \\f* him. But
+\v 31 And then \add God\add* enabled them to recognize \f + \ft metonymy \f* him. But
 \add immediately\add* he disappeared! 
 \v 32 They said to each other, “\add While we were walking\add* along the road and he talked with us and
 \add enabled\add* us\add (exc)\add* to understand the Scriptures, we
-\add became so excited that it was as though\add* \\f + \\ft metaphor \\f* a fire was burning within us \\f + \\ft rhetorical question \\f*!
+\add became so excited that it was as though\add* \f + \ft metaphor \f* a fire was burning within us \f + \ft rhetorical question \f*!
 \add We should not stay here; we should go tell others what happened!\add*”
 \v 33 So they left immediately and returned to Jerusalem. There they found the eleven
 \add apostles\add* and others who had gathered together with them.
@@ -92,21 +92,21 @@ them\add*.
 \v 36 As they were saying that, Jesus himself \add suddenly\add* appeared among them. He said to them,
 “\add May God give\add* you \add inner\add* peace!” 
 \v 37 They were startled and afraid, \add because\add* they thought that they were seeing a ghost!
-\v 38 He said to them, “◄You should not be alarmed!\f + \ft Or: Why \f* are you alarmed?► \\f + \\ft rhetorical question \\f* And ◄you should not be doubting
+\v 38 He said to them, “You should not be alarmed!\f + \ft Or: Why are you alarmed? \f* \f + \ft rhetorical question \f* And ◄you should not be doubting
 \add that I am alive\add*\f + \ft Or: Jesus \f*!\f + \ft Or: why \f* are you doubting \add that I am
-alive\add*\f + \ft Or: Jesus \f*?► \\f + \\ft rhetorical question \\f* 
+alive\add*\f + \ft Or: Jesus \f*?► \f + \ft rhetorical question \f* 
 \v 39 Look at \add the wounds in\add* my hands and my feet! You can touch me and see
 \add my body\add*. Then you can see that it is really I myself. \add You can tell that I am really
 alive\add* because ghosts do not have bodies, as you see that I have!”
 \v 40 After he said that, he showed them \add the wounds in\add* his hands and his feet.
 \v 41 They were joyful and amazed, \add but\add* they still did not believe
 \add that he was really alive\add* (OR, \add that he was the one that they were
-seeing\add*) \f*. \add So\add* he said to them, “Do you have anything here to eat?”
+seeing\add* \f*. \add So\add* he said to them, “Do you have anything here to eat?”
 \v 42  \add So\add* they gave him a piece of broiled fish. 
 \v 43 While they were watching, he took it and ate it. 
 \p
 \v 44 Then he said to them, “\add I will repeat\add* what I told you while I was still with you: Everything that was written
-about me by Moses and the \add other\add* prophets \\f + \\ft metonymy \\f* and in the Psalms must be fulfilled!”
+about me by Moses and the \add other\add* prophets \f + \ft metonymy \f* and in the Psalms must be fulfilled!”
 \v 45 Then he enabled them to understand \add the things that had been written about him
 in\add* the Scriptures. 
 \v 46 He said to them, “This is what they wrote: That the Messiah would suffer
@@ -115,11 +115,11 @@ in\add* the Scriptures.
 {\add that his followers\add* must preach \add the message\add*}
 \add everywhere that people\add* must turn from their sinful ways for
 \add God\add* to forgive their sins. \add They wrote that his followers should preach that message,
-claiming\add* his authority \\f + \\ft metonymy \\f*. They wrote that they should start
+claiming\add* his authority \f + \ft metonymy \f*. They wrote that they should start
 \add preaching\add* it in Jerusalem and then \add go and\add* preach it to all ethnic groups.
 \v 48 You \add apostles\add* must tell people that you know that those things
 \add that happened to me\add* are true. 
-\v 49 And I want you to know that I will send the \add Holy Spirit\add* \\f + \\ft metonymy \\f* to you, as my Father promised that
+\v 49 And I want you to know that I will send the \add Holy Spirit\add* \f + \ft metonymy \f* to you, as my Father promised that
 \add he would do\add*. But you must stay in this city until God fills you with the power
 \add of his Spirit\add*.” 
 \s Luke 24:50-53 
@@ -129,4 +129,4 @@ claiming\add* his authority \\f + \\ft metonymy \\f*. They wrote that they shoul
 \add village\add*. There he lifted up his hands and blessed them.
 \v 51 As he was doing that, he left them \add and went up to heaven\add*.
 \v 52 They worshipped him. And then they returned to Jerusalem very joyfully.
-\v 53 Each day \\f + \\ft synecdoche \\f* they went into the Temple \add courtyard\add*, and spent a lot of time praising God.
+\v 53 Each day \f + \ft synecdoche \f* they went into the Temple \add courtyard\add*, and spent a lot of time praising God.

@@ -1,13 +1,13 @@
 \c 12  
 \s The ten tribes rebelled against Rehoboam 
 \p
-\v 1 All \\f + \\ft hyperbole \\f* the people of \add northern\add* Israel went to Shechem
+\v 1 All \f + \ft hyperbole \f* the people of \add northern\add* Israel went to Shechem
 \add city\add* in order to appoint Rehoboam to be their king. So Rehoboam also went there.
 \v 2 When Jeroboam, who was still in Egypt, heard about that, he returned from Egypt
 \add to Israel\add*. 
 \v 3 The \add leaders of the northern tribes\add* summoned him, and they went together
 \add to talk\add* to Rehoboam. They said to him, 
-\v 4 “Your father \add Solomon\add* forced us to work very hard \\f + \\ft metaphor \\f* for him. If you ◄lighten these loads\f + \ft Or: do \f* not force us to
+\v 4 “Your father \add Solomon\add* forced us to work very hard \f + \ft metaphor \f* for him. If you ◄lighten these loads\f + \ft Or: do \f* not force us to
 work that hard►, and if you charge us less taxes than we were paying to him, we will serve you
 \add faithfully\add*.” 
 \p
@@ -21,7 +21,7 @@ answer\add*.” So those leaders and Jeroboam left.
 will always serve you faithfully.” 
 \p
 \v 8 But he ignored what the older men advised him to do. Instead, he consulted the younger men who had grown up with him, who
-were now ◄his advisors\f + \ft Or: the \f* ones who told him what would be good to do►.
+were now his advisors\f + \ft Or: the ones who told him what would be good to do \f*.
 \v 9 He said to them, “What do you say that I should answer the men who are asking me to reduce the
 \add work and taxes\add* that my father required from them?” 
 \p
@@ -40,10 +40,10 @@ occur, what he had told the prophet Ahijah about Jeroboam \add becoming king of 
 tribes\add*. 
 \p
 \v 16 When the Israeli leaders realized that the king did not pay any attention to what they said, they shouted,
-\q “We do not \\f + \\ft rhetorical question \\f* want anything to do with this descendant of King David!
+\q “We do not \f + \ft rhetorical question \f* want anything to do with this descendant of King David!
 \q2 We will not pay attention to what this grandson of Jesse says!
 \q You people of Israel, let's go home! 
-\q2 As for this descendant of David \\f + \\ft metonymy \\f*, he can rule his own kingdom \\f + \\ft metonymy \\f*!”
+\q2 As for this descendant of David \f + \ft metonymy \f*, he can rule his own kingdom \f + \ft metonymy \f*!”
 \p So the Israeli leaders returned to their homes. 
 \v 17 And \add after that\add*, the \add only Israeli\add* people whom Rehoboam ruled over were those who lived in the
 territory of \add the tribe of\add* Judah. 
@@ -53,16 +53,16 @@ people\add*. Adoniram was the man who supervised \add all the men who
 were\add* forced to work \add for Rehoboam\add*. But the Israeli people killed him by throwing stones at him. When that
 happened, King Rehoboam quickly got in his chariot and escaped to Jerusalem.
 \v 19 Ever since that time, the people of the \add northern tribes
-of\add* Israel have been rebelling against the descendants \\f + \\ft metonymy \\f* of
+of\add* Israel have been rebelling against the descendants \f + \ft metonymy \f* of
 \add King\add* David. 
 \p
 \v 20 When the Israeli people heard that Jeroboam had returned \add from
 Egypt\add*, they invited him to come to a meeting, and there they appointed him to be the king of Israel. Only the people of
 the tribe of Judah continued to be loyal to \add the kings descended from
-King\add* \\f + \\ft metonymy \\f* David. 
+King\add* \f + \ft metonymy \f* David. 
 \p
-\v 21 When Rehoboam arrived in Jerusalem, he gathered 180,000 of the best soldiers from the tribes \\f + \\ft metonymy \\f* of Judah and Benjamin.
-He wanted them to fight against the northern tribes of \\f + \\ft metonymy \\f* Israel
+\v 21 When Rehoboam arrived in Jerusalem, he gathered 180,000 of the best soldiers from the tribes \f + \ft metonymy \f* of Judah and Benjamin.
+He wanted them to fight against the northern tribes of \f + \ft metonymy \f* Israel
 \add and defeat them\add*, in order that he could \add rule all the tribes
 of\add* his kingdom again. 
 \p
@@ -80,7 +80,7 @@ his workers then left there and went to Peniel \add town\add*, and they built wa
 \p
 \v 26-27 Then Jeroboam said to himself, “If my people \add continue
 to\add* go to Jerusalem and offer sacrifices to Yahweh at the temple there, soon they will again become loyal to Rehoboam, the
-king of Judah \\f + \\ft doublet \\f*, and they will kill me.” 
+king of Judah \f + \ft doublet \f*, and they will kill me.” 
 \p
 \v 28 So he consulted \add his advisors, and then he did what they
 suggested\add*. He \add told his workers to\add* make gold \add statues

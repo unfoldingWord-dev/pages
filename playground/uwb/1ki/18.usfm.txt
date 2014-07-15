@@ -9,7 +9,7 @@
 \v 4 One time when \add Queen\add* Jezebel had \add tried to\add* kill all Yahweh's prophets, Obadiah hid a hundred of them in
 two caves. He put fifty prophets in each cave, and he brought food and water to them.
 \p
-\v 5  \add By this time, the ◄famine\f + \ft Or: lack \f* of food and water► had become very severe in
+\v 5  \add By this time, the famine\f + \ft Or: lack of food and water \f* had become very severe in
 Samaria\add*. So Ahab summoned Obadiah and said to him, “We must check\f + \ft Or: look \f* near every spring and in every valley to see if we
 can find enough grass to give to some of my horses and mules, so that they will not all die.”
 \v 6 So they both started walking through the land. Obadiah went by himself in one direction, and Ahab went in another
@@ -20,10 +20,10 @@ and said, “Is it really you, Elijah, my master?”
 \p
 \v 8 Elijah replied, “Yes. Now go and tell \add Ahab\add*, your master, that I am here.”
 \p
-\v 9 Obadiah objected. He said, “Sir, I have not \\f + \\ft rhetorical question \\f* harmed you at all. So why are you sending me back to Ahab? He will kill
+\v 9 Obadiah objected. He said, “Sir, I have not \f + \ft rhetorical question \f* harmed you at all. So why are you sending me back to Ahab? He will kill
 me! 
 \v 10 Yahweh your God \add knows that I am telling the truth when\add* I solemnly declare that King Ahab has searched in every
-kingdom all over the world \\f + \\ft hyperbole \\f* to find you. Each time that some king said to him, ‘Elijah is not here,’ Ahab demanded that
+kingdom all over the world \f + \ft hyperbole \f* to find you. Each time that some king said to him, ‘Elijah is not here,’ Ahab demanded that
 the king of that country solemnly swear\f + \ft Or: declare \f* that the king was telling the truth.
 \v 11 Now you say to me, ‘Go and tell your master that Elijah is here!’
 \v 12 But as soon as I leave you, the Spirit of Yahweh will carry you away, and I will not know where he will take you. So when
@@ -50,7 +50,7 @@ caused trouble! You have refused to obey Yahweh's commands, and you have worship
 \p
 \v 20 So Ahab summoned all his prophets and all the other \add Israeli\add* people to the top of Carmel Mountain,
 \add and Elijah went up there too\add* 
-\v 21 Then Elijah stood in front of them and said, “How long \\f + \\ft rhetorical question \\f* are you going to be undecided
+\v 21 Then Elijah stood in front of them and said, “How long \f + \ft rhetorical question \f* are you going to be undecided
 \add about who is truly God\add*? If Yahweh is \add truly\add* God, then worship\f + \ft Or: serve \f* him. If Baal is truly God, then
 worship\f + \ft Or: serve \f* him!” But the people said nothing \add in reply, because they were afraid of what Jezebel would do to them if
 they admitted that they worshiped Yahweh\add*. 
@@ -60,14 +60,14 @@ they admitted that they worshiped Yahweh\add*.
 \add kill it and\add* cut it into pieces and lay the pieces on the wood that is on the altar that they made. But they must not
 light a fire \add under the wood\add*. \add I will kill the other bull and cut it in pieces and lay the pieces on the altar
 that I make\add*. 
-\v 24 Then they must call to their god \\f + \\ft metonymy \\f*, and I will call to Yahweh. The god who answers by lighting a fire
+\v 24 Then they must call to their god \f + \ft metonymy \f*, and I will call to Yahweh. The god who answers by lighting a fire
 \add to the wood that is on that altar\add* is \add the true\add* God!”
 \p Then all the people thought that Elijah's suggestion was good.
 \p
 \v 25 Then Elijah said to the prophets of Baal, “You call to Baal first, because there are many of you. Choose one of the bulls
 and prepare it, and then call to your god. But do not light a fire under the wood!”
 \v 26 So they killed one of the bulls and cut it up and placed the pieces on the altar. Then they called out to Baal all
-morning. They shouted, “Baal, answer us!” But no one answered. There was no reply at all \\f + \\ft doublet \\f*.
+morning. They shouted, “Baal, answer us!” But no one answered. There was no reply at all \f + \ft doublet \f*.
 \p Then they danced wildly around the altar that they had made. 
 \p
 \v 27 About noontime, Elijah started to make fun of them. He said,
@@ -79,10 +79,10 @@ has gone to the toilet. Or perhaps he is traveling to somewhere, or perhaps he i
 attention. 
 \p
 \v 30 Then Elijah called to the people saying, “Come closer!” So they all crowded around him. Then Elijah repaired the altar of
-Yahweh that had been ◄ruined\f + \ft Or: torn \f* down► \add by the prophets of Baal\add*.
+Yahweh that had been ruined\f + \ft Or: torn down \f* \add by the prophets of Baal\add*.
 \v 31 Then he took twelve \add large\add* stones, each one to represent one of the Israeli tribes.
 \v 32 With these stones he rebuilt Yahweh's altar. Then around the altar he dug a little ditch that was large enough to hold
-about ◄three gallons\f + \ft Or: 12 \f* liters► of water. 
+about three gallons\f + \ft Or: 12 liters \f* of water. 
 \v 33 He piled wood on top of the stones. He killed the bull and cut it in pieces. Then he laid the pieces on top of the wood.
 Then he said, “Fill four large jars with water, and pour the water on top of the pieces of meat and the wood.” So they did
 that. 
@@ -123,4 +123,4 @@ the rain will stop him!”
 \v 45 Very soon the sky was full of black clouds. There was a strong wind, and then it began to rain very hard. Ahab got into
 his chariot and started to return to Jezreel \add city\add*. 
 \v 46 Yahweh gave extra strength to Elijah. He tucked his cloak into his belt
-\add in order to run fast\add*, and he ran ahead of Ahab's \add chariot\add* ◄all the way\f + \ft Or: 17 \f* miles\f + \ft Or: 26 \f* km.► to Jezreel.
+\add in order to run fast\add*, and he ran ahead of Ahab's \add chariot\add* all the way\f + \ft Or: 17 miles, Or: 26 km. \f* to Jezreel.

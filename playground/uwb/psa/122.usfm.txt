@@ -5,7 +5,7 @@
 \q2 “We should go to the temple of Yahweh \add in Jerusalem\add*!”
 \q
 \v 2 And now we are here, 
-\q2 standing inside the gates\f + \ft Or: city \f* of \\f + \\ft apostrophe \\f* Jerusalem. 
+\q2 standing inside the gates\f + \ft Or: city \f* of \f + \ft apostrophe \f* Jerusalem. 
 \q
 \v 3 Jerusalem is a city that has been rebuilt, 
 \q2 with the result that people can gather together in it. 
@@ -19,7 +19,7 @@
 \b
 \q
 \v 6 Pray that there will be peace in Jerusalem; 
-\q I wish\f + \ft Or: hope \f* that those who love Jerusalem will ◄prosper\f + \ft Or: live \f* peacefully►.
+\q I wish\f + \ft Or: hope \f* that those who love Jerusalem will prosper\f + \ft Or: live peacefully \f*.
 \q
 \v 7 I hope\f + \ft Or: wish \f* that there will be peace inside the walls of the city
 \q2 and that people who are inside the palaces will be safe. 

@@ -172,11 +172,11 @@ Rehum, and Baanah.
 \tr
 \tc1  
 \v 42 139 
-\tc2 ◄gatekeepers\f + \ft Or: men \f* who guarded the gates of the temple► who were descendants of Shallum, Ater, Talmon, Akkub, Hatita, and
+\tc2 gatekeepers\f + \ft Or: men who guarded the gates of the temple \f* who were descendants of Shallum, Ater, Talmon, Akkub, Hatita, and
 Shobai 
 \b
 \p
-\v 43 The ◄temple workers\f + \ft Or: men \f* who would work in the temple► who were descendants of these men:
+\v 43 The temple workers\f + \ft Or: men who would work in the temple \f* who were descendants of these men:
 \li2 Ziha, Hasupha, Tabbaoth, 
 \li2
 \v 44 Keros, Siaha, Padon, 
@@ -239,7 +239,7 @@ were given to the priests.
 \p
 \v 68 When they arrived at the temple of Yahweh in Jerusalem, some of the clan leaders gave money for
 \add the supplies needed to\add* rebuild the temple at the place where the temple had been previously.
-\v 69 They all gave as much money as they were able to give. Altogether they gave 61,000 gold coins, ◄6,250 pounds\f + \ft Or: 3 \f*,000 kg.►
+\v 69 They all gave as much money as they were able to give. Altogether they gave 61,000 gold coins, 6,250 pounds\f + \ft Or: 3,000 kg. \f*
 of silver, and 100 robes for the priests. 
 \p
 \v 70 Then the priests, the descendants of Levi, the musicians, the temple guards, and some of the other people started to live

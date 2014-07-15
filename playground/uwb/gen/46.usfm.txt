@@ -7,7 +7,7 @@ God, the one whom his father Isaac worshiped.
 \v 3 God said, “I am God, the one your father worshiped. Do not be afraid to go down to Egypt, because I will give you many
 descendants, and they will become a great nation there. 
 \v 4 I will go down to Egypt with you, and later I will bring your descendants back to Canaan again. And Joseph will be with
-you \\f + \\ft metonymy \\f* when you die.” [IDI] 
+you \f + \ft metonymy \f* when you die.” [IDI] 
 \p
 \v 5 Jacob left Beersheba, and his sons took their father, their wives, and their children, in the carts that the king had sent
 for them to travel in. 
@@ -15,7 +15,7 @@ for them to travel in.
 acquired in Canaan. 
 \v 7 Jacob went to Egypt with all his sons and his daughters and grandsons and granddaughters—his whole family.
 \p
-\v 8-25 ◄This is\f + \ft Or: I \f* will now give you► a list of the names of the members of Jacob's family who went with him to Egypt:
+\v 8-25 This is\f + \ft Or: I will now give you \f* a list of the names of the members of Jacob's family who went with him to Egypt:
 \li Reuben, Jacob's oldest son; 
 \li Reuben's sons Hanoch, Pallu, Hezron, and Carmi; 
 \li Simeon and his sons Jemuel, Jamin, Ohad, Jakin, Zohar, and Shaul, who was the son of a Canaan people-group woman;

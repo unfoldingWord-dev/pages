@@ -1,8 +1,8 @@
 \c 13  
 \s A psalm written by David for the choir director 
 \q
-\v 1 Yahweh, how long will you continue to forget about me \\f + \\ft rhetorical question \\f*?
-\q2 Will you hide yourself \\f + \\ft synecdoche \\f* from me forever? 
+\v 1 Yahweh, how long will you continue to forget about me \f + \ft rhetorical question \f*?
+\q2 Will you hide yourself \f + \ft synecdoche \f* from me forever? 
 \q
 \v 2 How long must I endure anguish\f + \ft Or: worry \f* within myself? 
 \q2 Must I be miserable\f + \ft Or: sad \f* every day? 

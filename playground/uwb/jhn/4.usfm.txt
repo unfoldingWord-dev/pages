@@ -21,12 +21,12 @@ ago\add*.
 \add lived there\add* in Samaria came to get some water \add from the
 well\add*. Jesus said to her, “Will you give me \add from the well\add* some water
 \add to drink\add*?” The \add woman knew that\add* Jews did not like
-◄\add to touch things that belong to\add* Samaritans\f + \ft Or:  \f*\add to\add* come near Samaritans►, \f + \ft (OR, Jews did not like to associate
+\add to touch things that belong to\add* Samaritans\f + \ft Or: \add to\add* come near Samaritans \f*, \f + \ft Or: Jews did not like to associate
 with Samaritans,) 
 \v 9 so the woman said to him, “You are a Jew, and I am from Samaria. Furthermore, I am a woman. So
 ◄\add I am surprised\add* that you are asking me for a drink \add of
 water\add*!\f + \ft Or: how \f* is it that you are asking me for a drink \add of
-water\add*?► \\f + \\ft rhetorical question \\f*” 
+water\add*?► \f + \ft rhetorical question \f*” 
 \v 10 Jesus replied to her, “If you\add (sg)\add* knew what God \add wanted
 to\add* give you, and if you knew who I am, the one who is asking you for a drink, you would have asked me, and I would have
 given you water that gives life.” 
@@ -82,7 +82,7 @@ know\add*, we were surprised that he was talking to a woman. However, none of us
 asked him, “Why are you talking with her?” 
 \p
 \v 28 The woman left her water jar there and went into the town. She said to the people there,
-\v 29 “Come and see a man who \add was able to\add* tell me all about my past life \\f + \\ft hyperbole \\f*,
+\v 29 “Come and see a man who \add was able to\add* tell me all about my past life \f + \ft hyperbole \f*,
 \add even though I never met him before\add*! Could this man be the Messiah?”
 \v 30 So \add many people\add* left the town and started going where Jesus was.
 \s John 4:31-38 
@@ -94,18 +94,18 @@ brought\add*!”
 \v 32 But he said to us, “I have food to eat that you do not know anything about!”
 \v 33 So we started saying to each other, “◄Surely no one has brought him any food
 \add when we\add* were not \add here\add*!\f + \ft Or: Has \f* anyone brought him any food
-\add when we\add* were not\add here\add*?► \\f + \\ft rhetorical question \\f*” 
+\add when we\add* were not\add here\add*?► \f + \ft rhetorical question \f*” 
 \v 34 Jesus said to us, “Doing what \add my Father\add* who sent me wants
 \add me to do\add* and finishing the work he \add gave me to do\add* is
-◄\add what sustains me\f + \ft Or: like \f*\add* my food► \\f + \\ft metaphor \\f*. 
-\v 35  \add At this time of the year\add* you are saying (OR, your ancestors used to say) \f*, ‘There are four months left before
+\add what sustains me\f + \ft Or: like\add* my food \f* \f + \ft metaphor \f*. 
+\v 35  \add At this time of the year\add* you are saying (OR, your ancestors used to say \f*, ‘There are four months left before
 we harvest \add the crops\add*.’ But I say to you, look carefully
 \add at the non-Jewish people around here. God says, ‘They are ready to accept my
-message\add* \\f + \\ft metaphor \\f*, \add like crops in\add* fields that are ready for people to harvest.
-\v 36  \add If you enable them to accept my message\add*, I will reward you \\f + \\ft metaphor \\f*,
+message\add* \f + \ft metaphor \f*, \add like crops in\add* fields that are ready for people to harvest.
+\v 36  \add If you enable them to accept my message\add*, I will reward you \f + \ft metaphor \f*,
 \add as an owner of a field\add* pays those who harvest the crops. Because of your work, people will gain eternal life.’
-\add I have been telling people God's message. That is like\add* \\f + \\ft metaphor \\f* a man who plants seeds.
-\add You will help people to accept my message. That will be like\add* \\f + \\ft metaphor \\f* harvesting crops.
+\add I have been telling people God's message. That is like\add* \f + \ft metaphor \f* a man who plants seeds.
+\add You will help people to accept my message. That will be like\add* \f + \ft metaphor \f* harvesting crops.
 \add When that happens\add*, both you and I will rejoice. 
 \v 37 As a result, this saying will become true: One person plants
 \add seeds\add*, but others harvest \add the crops\add*. 
@@ -117,13 +117,13 @@ message\add*, and now you will be harvesting the results of their work.”
 \p
 \v 39 Many of the Samaria \add district\add* people who \add lived\add* in that town believed that Jesus
 \add was the Messiah\add* because they heard what that woman said
-\add about Jesus\add*, “That man \add was able to\add* tell me all about my past life \\f + \\ft hyperbole \\f*!”
+\add about Jesus\add*, “That man \add was able to\add* tell me all about my past life \f + \ft hyperbole \f*!”
 \v 40 So when those people of Samaria came to him, they urged him to stay with them. So we stayed there two days.
-\v 41 Many more of them believed ◄\add in Jesus\f + \ft Or: that \f* he was the Messiah\add*► because of his message.
+\v 41 Many more of them believed \add in Jesus\f + \ft Or: that he was the Messiah\add* \f* because of his message.
 \v 42 They told the woman, “We believe in Jesus \add now\add*, but not
 \add just\add* because of what you told us. Now we have heard \add his
 message\add* ourselves. And now we know that this man truly is the one who
-\add can\add* save the \add people in the\add* world \\f + \\ft metonymy \\f* \add from the guilt of their
+\add can\add* save the \add people in the\add* world \f + \ft metonymy \f* \add from the guilt of their
 sins\add*.” 
 \s John 4:43-54 
 \s After Jesus healed an official's son, the official and his family believed that Jesus is the Messiah.
@@ -146,12 +146,12 @@ Capernaum\add* and heal my son, who is about to die!”
 \add more\add* miracles!” 
 \v 49 But the official said to him, “Sir, ◄\add I\add* believe \add in you\f + \ft Or: I \f* believe that you came from
 God\add*►. \add So please\add* come down \add to my home\add* before my son dies!”
-\v 50 Jesus said to him, “Then you may go \add home\add*. Your son ◄will live\f + \ft Or: not \f* die►!” The man believed what Jesus said, and
+\v 50 Jesus said to him, “Then you may go \add home\add*. Your son will live\f + \ft Or: not die \f*!” The man believed what Jesus said, and
 left. 
 \v 51  \add The next day\add* while he was on the way home, his servants met him. They told him, “Your child is going to live!”
 \v 52 He asked them, “At what time did my son start to become well?” They said to him, “His fever ceased yesterday
 \add afternoon\add* at one o'clock.” 
-\v 53 Then the boy's father realized that this was the time Jesus told him, “Your son will ◄live\f + \ft Or: not \f* die►.” So he and all the
+\v 53 Then the boy's father realized that this was the time Jesus told him, “Your son will live\f + \ft Or: not die \f*.” So he and all the
 people in his house believed \add that Jesus was the Messiah\add*.
 \p
 \v 54 That was the second miracle that Jesus performed in Galilee

@@ -5,14 +5,14 @@
 \v 1 While they were doing that, many thousands of people gathered
 \add around Jesus\add*. There were so many that they were stepping on each other. Then he said to his disciples, “Beware of
 \add becoming\add* hypocrites \add like\add* the Pharisees. Their
-\add evil influence\add* \\f + \\ft metaphor \\f* \add spreads to others like\add* yeast
+\add evil influence\add* \f + \ft metaphor \f* \add spreads to others like\add* yeast
 \add spreads its influence in dough\add*. 
 \v 2 People will not be able to continue concealing the things that
 \add they or other\add* people try to conceal now. \add God\add* will
 \add some day\add* cause the things that are hidden now to be known
 {\add everyone\add* to know the things that they hide now}. 
 \v 3 All the things that you say in the dark \add secretly, some
-day\add* will be heard {people will hear them} in the daylight. The things you have whispered \\f + \\ft synecdoche \\f* among yourselves in your
+day\add* will be heard {people will hear them} in the daylight. The things you have whispered \f + \ft synecdoche \f* among yourselves in your
 rooms will be proclaimed {\add people\add* will proclaim them} publicly.”
 \s Luke 12:4-12 
 \s Jesus told them not to be afraid to tell others of their faith in him.
@@ -24,7 +24,7 @@ rooms will be proclaimed {\add people\add* will proclaim them} publicly.”
 \add God\add*, because he not only has \add the power to\add* cause people to die, he has the power to throw them into hell
 afterward! Yes, he is truly the one that you should be afraid of!
 \v 6  \add Think about\add* the sparrows. \add They have so little
-value\add* that \add you\add* can \\f + \\ft rhetorical question \\f* buy five of them for only two small coins. But not one of them is ever forgotten by God
+value\add* that \add you\add* can \f + \ft rhetorical question \f* buy five of them for only two small coins. But not one of them is ever forgotten by God
 {God never forgets one of them}! 
 \v 7 You are more valuable \add to God\add* than many sparrows. So do not be afraid
 \add of what people can do to you\add*! \add God\add* even knows how many hairs there are on each of your heads,
@@ -52,7 +52,7 @@ came from heaven, but \add he\add* will not forgive anyone who says evil things 
 \add the part that belongs\add* to me!” 
 \v 14 But Jesus replied to him, “Man, ◄no one appointed me in order that I would settle
 \add matters when people are\add* disputing about property!\f + \ft Or: did \f* anyone appoint me in order that I would settle
-\add matters when people are\add* disputing about property?► \\f + \\ft rhetorical question \\f*”
+\add matters when people are\add* disputing about property?► \f + \ft rhetorical question \f*”
 \v 15 Then he said to the whole crowd, “Guard yourselves very carefully, in order that you do not desire other people's things
 in any way! No one can make his life secure by \add obtaining\add* many possessions.”
 \p
@@ -62,13 +62,13 @@ in any way! No one can make his life secure by \add obtaining\add* many possessi
 \v 18 Then he said to himself, ‘\add I know\add* what I will do! I will tear down my grain bins and then build larger ones!
 Then I will store all my wheat and other goods in \add the big new
 bins\add*. 
-\v 19  \add Then\add* I will say to myself \\f + \\ft synecdoche \\f*, “Now I have plenty of things stored up.
+\v 19  \add Then\add* I will say to myself \f + \ft synecdoche \f*, “Now I have plenty of things stored up.
 \add They will last\add* for many years. \add So now\add* I will take life easy. I will eat and drink
 \add all that I want to\add* and be happy \add for a long time\add*!”’
 \v 20 But God said to him, ‘You foolish \add man\add*! Tonight you will die! ◄Then all
 \add the goods\add* you have saved up \add for yourself\add* will
 \add belong to someone else, not to\add* you!\f + \ft Or: Do \f* you think that you
-\add will benefit from\add* all that you have stored up for yourself?► \\f + \\ft rhetorical question \\f*’”
+\add will benefit from\add* all that you have stored up for yourself?► \f + \ft rhetorical question \f*’”
 \p
 \v 21  \add Then Jesus ended this illustration by saying\add*, “That is what will happen to those who store up goods just for
 themselves, but who do not value the things \add that\add* God \add considers\add* valuable.”
@@ -79,16 +79,16 @@ themselves, but who do not value the things \add that\add* God \add considers\ad
 \add things you need\add* in order to live. Do not worry about \add whether you will have enough
 food\add* to eat or\add enough clothes\add* to wear. 
 \v 23 It is important to have sufficient food and clothing, but ◄the way you conduct your lives is more important.\f + \ft Or: is \f* not the
-way you conduct your lives more important?► \\f + \\ft rhetorical question \\f* 
+way you conduct your lives more important?► \f + \ft rhetorical question \f* 
 \v 24 Think about the birds: They do not plant \add seeds\add*, and they do not harvest
 \add crops\add*. They do not have rooms or buildings in which to store crops. But God provides food for them.
 \add And\add* you are certainly much more valuable than birds. \add So God will certainly provide what you
 need!\add* 
 \v 25 ◄There is not a one of you who can add a little bit to how long he lives by worrying about it!\f + \ft Or: Is \f* there any of you who
-can add a little bit to how long he lives by worrying about it?► \\f + \\ft rhetorical question \\f*
+can add a little bit to how long he lives by worrying about it?► \f + \ft rhetorical question \f*
 \v 26 That is a small thing to do. So since you cannot do that, ◄you certainly should not worry about other things that
 \add you need to have in order to live!\add*\f + \ft Or: why \f* do you worry about other things that
-\add you need to have in order to live\add*?► \\f + \\ft rhetorical question \\f* 
+\add you need to have in order to live\add*?► \f + \ft rhetorical question \f* 
 \v 27 Think about the way that flowers grow \add in the fields\add*. They do not work
 \add to earn money\add*, and they do not make their own clothes. But I tell you that
 \add even though King\add* Solomon, \add who lived long ago, wore very beautiful
@@ -98,7 +98,7 @@ clothes\add*, his clothes were not as beautiful as one of those \add flowers\add
 \add to be burned to make heat for baking\add* bread. \add So they really are not worth very much. But you are very precious
 to\add* God, \add and he\add* will \add care for you\add* much more
 \add than he cares for the grass by filling it with beautiful flowers\add*. So he will certainly provide clothes for you, who
-\add live much longer than the grass. Why\add* \\f + \\ft rhetorical question \\f* \add do you\add* trust him so little?
+\add live much longer than the grass. Why\add* \f + \ft rhetorical question \f* \add do you\add* trust him so little?
 \v 29 Do not always be concerned about having enough to eat and drink, and do not be worrying about those things.
 \v 30 The people who do not know God are always worried about such things. But your Father
 \add in heaven\add* knows that you need those things, \add so you should not worry about
@@ -119,10 +119,10 @@ most\add* valuable are \add the things\add* that you will be constantly concerne
 \s Luke 12:35-48 
 \s Jesus told them that they should be ready for his return. 
 \p
-\v 35 “Be always ready \add for doing God's work\add* \\f + \\ft metaphor \\f*, like
+\v 35 “Be always ready \add for doing God's work\add* \f + \ft metaphor \f*, like
 \add people\add* who have put on their work clothes and are ready
 \add during the day\add*, with their lamps burning all night. 
-\v 36 Be \add ready for me to return\add* \\f + \\ft metaphor \\f*, like servants who are waiting for their master to return after being at a
+\v 36 Be \add ready for me to return\add* \f + \ft metaphor \f*, like servants who are waiting for their master to return after being at a
 wedding feast \add for several days\add*. They are \add waiting to\add* open the door for him and
 \add start working for him again\add* as soon as he arrives and knocks at the door.
 \v 37 If those servants are awake when he returns, \add he will\add* be very pleased with them. I will tell you this: He will
@@ -153,7 +153,7 @@ soon\add and find out what I am doing\add*.’ \add Then he might\add* start to 
 \add other\add* servants, both male and female ones. \add He might also
 start\add* to eat \add a lot of food\add* and get drunk. 
 \v 46  \add If he does that, and if\add* his master returns on a day that he does not know about, at a time when the servant
-does not expect him, then his master will ◄cut him into two pieces\f + \ft Or: punish \f* him severely► \\f + \\ft hyperbole \\f* and put him
+does not expect him, then his master will cut him into two pieces\f + \ft Or: punish him severely \f* \f + \ft hyperbole \f* and put him
 \add in the place where he puts all\add* those who do not \add serve
 him\add* faithfully. 
 \v 47 Every servant who knows what his master wants him to do but who does not get himself ready and does not do what his
@@ -173,11 +173,11 @@ care\add* expect those people\add to care for those things\add* very well. Simil
 \s Luke 12:49-53 
 \s Jesus warned them that they would face opposition even within their own families.
 \p
-\v 49 “I came to earth to bring \add trials\add* \\f + \\ft metaphor \\f*, \add which will separate and purify you
-as\add* fire \add purifies metal\add* \f + \ft (OR, to cause judgment\f + \ft Or: divisions \f*). I wish that the time when
+\v 49 “I came to earth to bring \add trials\add* \f + \ft metaphor \f*, \add which will separate and purify you
+as\add* fire \add purifies metal\add* \f + \ft Or: to cause judgment\f + \ft Or: divisions \f*). I wish that the time when
 \add you\add* will be purified {when \add God\add* will purify you} (OR, when divisions will be caused {to cause divisions
 among people}) had already begun. 
-\v 50 I must soon suffer \\f + \\ft idiom \\f* greatly. I am distressed, and I will continue to be distressed until my suffering is finished.
+\v 50 I must soon suffer \f + \ft idiom \f* greatly. I am distressed, and I will continue to be distressed until my suffering is finished.
 \v 51 Do you think that as a result of my coming to earth people will live together peacefully? No! I must tell you,
 \add that is not what will happen! Instead, people\add* will be divided.
 \v 52 Because some people in one house \add will believe in me and some will
@@ -195,17 +195,17 @@ mother. A woman will oppose her daughter-in-law, or a woman will oppose her moth
 what happens. 
 \v 56 You hypocrites! By observing the clouds and the wind, you are able to discern what is happening regarding
 \add the weather\add*. It is disgusting that you are not able to discern
-\add what God is doing\add* at this present time \\f + \\ft rhetorical question \\f*! 
+\add what God is doing\add* at this present time \f + \ft rhetorical question \f*! 
 \p
 \v 57 ◄Each of you ought to determine now what is the right thing for you to do,
 \add while you still have time to do that\add*!\f + \ft Or: Why \f* cannot each of you determine what is the right
-\add thing for you to do now while you still have time to do that\add*?► \\f + \\ft rhetorical question \\f*
-\v 58  \add If you do not do that, God will punish you\add* \\f + \\ft metaphor \\f*.
+\add thing for you to do now while you still have time to do that\add*?► \f + \ft rhetorical question \f*
+\v 58  \add If you do not do that, God will punish you\add* \f + \ft metaphor \f*.
 \add It will be like what happens when\add* someone takes one of you to court, saying that
-you\add (sg) \f*\add* have done something very bad. You should try to settle things with him while you are still on the way to the
+you\add (sg \f*\add* have done something very bad. You should try to settle things with him while you are still on the way to the
 court. If he forces you to go to the judge, the judge will decide that you are guilty and put you into the hands of the court
 officer. Then that officer will put you in prison. 
 \v 59 I tell you that if you go to prison, you will never get out,
 \add because you will never be able to\add* pay every bit \add of what the judge says you
-owe\add* \\f + \\ft metaphor \\f*. \add Similarly, you ought to settle accounts with God before you die,
+owe\add* \f + \ft metaphor \f*. \add Similarly, you ought to settle accounts with God before you die,
 too\add*.” 

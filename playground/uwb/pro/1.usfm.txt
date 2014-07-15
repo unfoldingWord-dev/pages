@@ -1,16 +1,16 @@
 \c 1  
 \s The purpose of Proverbs 
 \p
-\v 1 These are the ◄proverbs\f + \ft Or: wise \f* sayings► that come from Solomon, the King of Israel, who was the son of
+\v 1 These are the proverbs\f + \ft Or: wise sayings \f* that come from Solomon, the King of Israel, who was the son of
 \add King\add* David. 
 \q
-\v 2 ◄These proverbs \\f + \\ft personification \\f* can teach people\f + \ft Or: By \f* studying these proverbs, people can learn► how to be wise
+\v 2 These proverbs \f + \ft personification \f* can teach people\f + \ft Or: By studying these proverbs, people can learn \f* how to be wise
 \q2 and how to obey what these proverbs teach them. 
 \q They will also help people to understand which teachings are wise.
 \q
-\v 3 These proverbs \\f + \\ft personification \\f* will teach you how to discipline\f + \ft Or: control \f* yourselves,
+\v 3 These proverbs \f + \ft personification \f* will teach you how to discipline\f + \ft Or: control \f* yourselves,
 \q2 how to conduct your lives, 
-\q2 and how to do what is right and just \\f + \\ft doublet \\f*. 
+\q2 and how to do what is right and just \f + \ft doublet \f*. 
 \q
 \v 4 They will show people who do not yet know much how to do things that are smart.
 \q2 They will show young people how to become wise and how to make good plans\f + \ft Or: decisions \f*.
@@ -20,7 +20,7 @@
 \q and those who understand \add these teachings\add* will receive good advice\f + \ft Or: guidance \f*.
 \q
 \v 6 Then they will be able to understand the meaning of proverbs and parables\f + \ft Or: metaphors \f*,
-\q2 these wise sayings and ◄riddles\f + \ft Or: sayings \f* that are difficult to understand►.
+\q2 these wise sayings and riddles\f + \ft Or: sayings that are difficult to understand \f*.
 \b
 \q
 \v 7 If \add you want to be\add* wise, you must begin by revering Yahweh.
@@ -39,10 +39,10 @@
 \q say “No” to them. 
 \q
 \v 11 They may say, “Come with us! Join us! 
-\q2 We will hide and then kill \\f + \\ft metonymy \\f* someone \add who passes by\add*.
+\q2 We will hide and then kill \f + \ft metonymy \f* someone \add who passes by\add*.
 \q2 We will ambush some helpless\f + \ft Or: innocent \f* people. 
 \q
-\v 12 We will kill them \\f + \\ft hyperbole \\f* and get rid of them completely, 
+\v 12 We will kill them \f + \ft hyperbole \f* and get rid of them completely, 
 \q2 just like \add people who are buried in\add* graves are gone forever.
 \q While they are in good health, we will send them to the place where dead people are.
 \q
@@ -54,12 +54,12 @@
 \q2 We will share with you the things that we steal.” 
 \q
 \v 15 My son, do not go with them! 
-\q2 Do not ◄walk on the roads that they walk on\f + \ft Or: do \f* what they do► \\f + \\ft metaphor \\f*!
+\q2 Do not walk on the roads that they walk on\f + \ft Or: do what they do \f* \f + \ft metaphor \f*!
 \q
 \v 16 They rush to do evil deeds! 
-\q2 They hurry to murder \\f + \\ft metonymy \\f* people. 
+\q2 They hurry to murder \f + \ft metonymy \f* people. 
 \q
-\v 17 It is useless to put out a ◄trap\f + \ft Or: net \f* to catch a bird► because when a bird sees it,
+\v 17 It is useless to put out a trap\f + \ft Or: net to catch a bird \f* because when a bird sees it,
 \q2 \add it stays away from it\add*. 
 \q
 \v 18 But these wicked people are not like the birds 
@@ -72,17 +72,17 @@
 \q2 They will only destroy themselves! 
 \s Wisdom shouts in the streets 
 \q
-\v 20 Wisdom is \\f + \\ft personification \\f* like a woman who shouts to people in the streets.
-\q2 It is as if wisdom calls out to people in the ◄plazas\f + \ft Or: town \f* squares►.
+\v 20 Wisdom is \f + \ft personification \f* like a woman who shouts to people in the streets.
+\q2 It is as if wisdom calls out to people in the plazas\f + \ft Or: town squares \f*.
 \q
 \v 21 It is as if wisdom calls out in noisy places, 
 \q2 and at the entrances to the cities. 
 \b
 \q
-\v 22 It is as if wisdom says, “How long will you stupid people continue to enjoy doing foolish things \\f + \\ft rhetorical question \\f*?
-\q2 How long will you people who ridicule God enjoy doing that \\f + \\ft rhetorical question \\f*?
+\v 22 It is as if wisdom says, “How long will you stupid people continue to enjoy doing foolish things \f + \ft rhetorical question \f*?
+\q2 How long will you people who ridicule God enjoy doing that \f + \ft rhetorical question \f*?
 \q2 How long will you foolish people refuse to know \add what things are
-right\add* \\f + \\ft rhetorical question \\f*? 
+right\add* \f + \ft rhetorical question \f*? 
 \q
 \v 23 If you pay attention to me when I rebuke you, 
 \q2 I will pour out to you what I am thinking in my inner being;

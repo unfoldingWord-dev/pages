@@ -37,13 +37,13 @@ hungry\add*.
 \b
 \q
 \v 10 He is not pleased with strong horses 
-\q2 or with men who can run \\f + \\ft metonymy \\f* fast. 
+\q2 or with men who can run \f + \ft metonymy \f* fast. 
 \q
 \v 11 Instead, what pleases him are those who have an awesome respect for him,
 \q2 those who confidently expect him to continue to faithfully love them.
 \b
 \q
-\v 12 You people of \\f + \\ft apostrophe \\f* Jerusalem, praise Yahweh! 
+\v 12 You people of \f + \ft apostrophe \f* Jerusalem, praise Yahweh! 
 \q2 Praise your God! 
 \q
 \v 13 He \add guards your city\add* by keeping its gates strong.
@@ -54,16 +54,16 @@ you\add*.
 \q2 He gives you plenty of very good wheat\f + \ft Or: grain \f* to eat. 
 \b
 \q
-\v 15 He ◄sends his commands down\f + \ft Or: commands \f* what he wants to be done► on the earth,
+\v 15 He sends his commands down\f + \ft Or: commands what he wants to be done \f* on the earth,
 \q2 and his words quickly reach the place to which he sends them.
 \q
-\v 16 He sends snow which \add covers the ground\add* like a white wool blanket \\f + \\ft simile \\f*,
+\v 16 He sends snow which \add covers the ground\add* like a white wool blanket \f + \ft simile \f*,
 \q2 and he scatters frost \add on the ground\add* like \add wind
-scatters\add* ashes \\f + \\ft simile \\f*. 
+scatters\add* ashes \f + \ft simile \f*. 
 \q
-\v 17 He sends hail down like ◄pebbles\f + \ft Or: tiny \f* stones►; 
+\v 17 He sends hail down like pebbles\f + \ft Or: tiny stones \f*; 
 \q2 \add when that happens\add*, ◄it is very difficult to endure because the air becomes very cold.\f + \ft Or: who \f* can endure because the
-air becomes very cold?► \\f + \\ft rhetorical question \\f* 
+air becomes very cold?► \f + \ft rhetorical question \f* 
 \q
 \v 18 But he commands the wind to blow and it blows. 
 \q2 Then the hail melts and \add the water\add* flows \add into the

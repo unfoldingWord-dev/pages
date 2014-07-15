@@ -7,7 +7,7 @@
 \q2 and that no one can stop you from doing what you want to do.
 \q
 \v 3  \add You asked me\add*, ‘◄Who are you, who by speaking ignorantly, question what I plan to do?\f + \ft Or: You \f* have no right to
-question what I plan to do by speaking ignorantly.►’ \\f + \\ft rhetorical question \\f* 
+question what I plan to do by speaking ignorantly.►’ \f + \ft rhetorical question \f* 
 \q2 It is true that I spoke about things that I did not understand,
 \q2 things that are very wonderful\f + \ft Or: marvelous \f*, 
 \q2 and therefore I am not able to know them. 
@@ -19,7 +19,7 @@ question what I plan to do by speaking ignorantly.►’ \\f + \\ft rhetorical q
 \v 5 I had heard about you previously, 
 \q2 but now \add it is as though\add* I have seen you with my own eyes.
 \q
-\v 6 Therefore I ◄am ashamed of\f + \ft Or: withdraw \f*► what I said, 
+\v 6 Therefore I am ashamed of\f + \ft Or: withdraw \f* what I said, 
 \q2 and I sit in dust and ashes to show that I am sorry \add for what I
 said\add*.” 
 \s Yahweh said he disapproved of what Job's three friends said 
@@ -40,7 +40,7 @@ what Job said about me was right\f + \ft Or: true \f*.”
 \v 10 After Job prayed for his three friends, Yahweh \add healed him
 and\add* caused him to become rich again. Yahweh gave him twice as many things as he had before.
 \v 11 Then all his brothers and sisters, and all the people who had known him before, came to his house, and they ate a meal
-together. They consoled\f + \ft Or: comforted \f* \\f + \\ft doublet \\f* him because of all the troubles that Yahweh had allowed to happen to him. Each of them
+together. They consoled\f + \ft Or: comforted \f* \f + \ft doublet \f* him because of all the troubles that Yahweh had allowed to happen to him. Each of them
 gave him a piece of silver and a gold ring. 
 \p
 \v 12 Then Yahweh blessed Job in the second half of his life more than he had blessed him in the first half of his life. He now
@@ -50,5 +50,5 @@ acquired\f + \ft Or: owned \f* 14,000 sheep, 6,000 camels, 2,000 oxen, and 1,000
 \v 15 In all of \add Uz\add* land there were no young women who were as beautiful as the daughters of Job, and Job declared
 that they would inherit some of his possessions, just like their brothers would inherit some.
 \p
-\v 16 After that, Job lived 140 more years. Before he died, he ◄saw\f + \ft Or: enjoyed \f* being with► his great-great-grandchildren.
-\v 17 He was very old \\f + \\ft doublet \\f* when he died. 
+\v 16 After that, Job lived 140 more years. Before he died, he saw\f + \ft Or: enjoyed being with \f* his great-great-grandchildren.
+\v 17 He was very old \f + \ft doublet \f* when he died. 

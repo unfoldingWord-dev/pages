@@ -10,8 +10,8 @@ understand\add*:
 \q2 Why do things go very well for dishonest\f + \ft Or: unfaithful \f* people? 
 \q
 \v 2 You allow them to prosper 
-\q2 like \\f + \\ft metaphor \\f* trees that grow tall and bear a lot of fruit. 
-\q They always say \\f + \\ft metonymy \\f* good things about you, 
+\q2 like \f + \ft metaphor \f* trees that grow tall and bear a lot of fruit. 
+\q They always say \f + \ft metonymy \f* good things about you, 
 \q2 but in their inner beings, they are really far from you. 
 \q
 \v 3 But Yahweh, as for me, you know what is in my inner being. 
@@ -20,11 +20,11 @@ understand\add*:
 \q2 like \add people drag away\add* sheep that they are going to butcher.
 \q Set them aside like sheep that are about to be slaughtered! 
 \q
-\v 4 This land is \\f + \\ft rhetorical question \\f* becoming very dry and even the grass is withering.
+\v 4 This land is \f + \ft rhetorical question \f* becoming very dry and even the grass is withering.
 \q The wild animals and the birds have all died 
 \q2 because the people are very wicked. 
 \q All this has happened because the people have said, 
-\q2 “Yahweh does not know what we are doing \f + \ft (OR, what will happen to us) \f*!”
+\q2 “Yahweh does not know what we are doing \f + \ft Or: what will happen to us \f*!”
 \s Yahweh replied to Jeremiah 
 \p
 \v 5  \add Then to show me that I needed to be prepared to endure even greater difficulties, Yahweh said to
@@ -36,7 +36,7 @@ me\add*,
 \add River\add*? 
 \q
 \v 6  \add Already\add* your brothers and \add other members of\add* your own family oppose you.
-\q2 They ◄plot against\f + \ft Or: plan \f* to do evil things to► you and they say bad things about you.
+\q2 They plot against\f + \ft Or: plan to do evil things to \f* you and they say bad things about you.
 \q2 So even if they say nice things about you, 
 \q do not trust them! 
 \b
@@ -45,11 +45,11 @@ me\add*,
 \q2 the people whom I chose to belong to me. 
 \q I have allowed their enemies to conquer the people whom I love.
 \q
-\v 8 My people have become to me like \\f + \\ft simile \\f* a lion in the forest.
+\v 8 My people have become to me like \f + \ft simile \f* a lion in the forest.
 \q2 \add It is as though\add* they roar at me like a lion, 
 \q2 so now I hate them. 
 \q
-\v 9 My chosen people have \\f + \\ft rhetorical question \\f* become like speckled hawks 
+\v 9 My chosen people have \f + \ft rhetorical question \f* become like speckled hawks 
 \q2 that are surrounded by vultures \add waiting to eat their flesh after they are
 dead\add*. 
 \q Tell all the wild animals to come 
@@ -63,10 +63,10 @@ armies\add* and devastated\f + \ft Or: destroyed \f* my people
 \v 11 They have caused it to become completely empty; 
 \q2 \add it is as though\add* I hear the land crying sadly\f + \ft Or: mournfully \f*.
 \q The whole land is desolate, 
-\q2 and no one ◄worries about\f + \ft Or: pays \f* any attention to► it. 
+\q2 and no one worries about\f + \ft Or: pays any attention to \f* it. 
 \q
 \v 12 The soldiers of our enemies have marched across all the barren hilltops.
-\q But I, Yahweh, am using those armies \\f + \\ft metonymy \\f* to punish your land from one end to the other,
+\q But I, Yahweh, am using those armies \f + \ft metonymy \f* to punish your land from one end to the other,
 \q2 and no one will escape. 
 \q
 \v 13  \add It is as though\add* my people planted wheat, 

@@ -1,8 +1,8 @@
 \c 3  
 \s Ruth asked Boaz to marry her so she would have a home and other things she needed
 \p
-\v 1 One day, Naomi said to Ruth, “My daughter, I think that I should \\f + \\ft rhetorical question \\f* try to arrange for you to have a husband \\f + \\ft metonymy \\f* who
-will ◄take care of\f + \ft Or: provide \f* for► you. 
+\v 1 One day, Naomi said to Ruth, “My daughter, I think that I should \f + \ft rhetorical question \f* try to arrange for you to have a husband \f + \ft metonymy \f* who
+will take care of\f + \ft Or: provide for \f* you. 
 \v 2 Boaz, the man with whose servant girls you have been \add gathering
 grain\add*, is a close relative \add of our dead husbands\add*. Listen
 \add carefully\add*. Tonight he will be at the ground where \add the barley
@@ -28,7 +28,7 @@ and lay down \add there\add*.
 care of \add someone like me whose dead husband was\add* your close relative, spread the corner of your cloak over my
 \add feet to show that you will marry me\add*.” 
 \p
-\v 10 Boaz replied, “Young lady, I hope that Yahweh will ◄bless\f + \ft Or: be \f* kind to► you! You acted kindly
+\v 10 Boaz replied, “Young lady, I hope that Yahweh will bless\f + \ft Or: be kind to \f* you! You acted kindly
 \add toward your mother-in-law\add* previously, and now you are acting even more kindly
 \add toward me by wanting to marry me, instead of wanting to marry a young
 man\add*. You have not looked for either a rich young man or a poor young man,
@@ -49,11 +49,11 @@ and\add* take care of you.
 \v 14 So she lay at his feet until morning. But she got up and left before it was light enough that people would be able to
 recognize her, because Boaz said, “I do not want anyone to know that a woman was here.”
 \v 15 He also said to her, “Bring to me your cloak and spread it out.” When she did that, he poured into it six measures\f + \ft Or: 24 \f*
-liters\f + \ft Or: 50 \f* pounds of barley, and put in on her back. Then he \f + \ft (OR, she) \f* went back to the town.
+liters\f + \ft Or: 50 \f* pounds of barley, and put in on her back. Then he \f + \ft Or: she \f* went back to the town.
 \p
-\v 16 When Ruth arrived home, her mother-in-law asked her, “My daughter, how did ◄things go\f + \ft Or: Boaz \f* act toward you►?” Then Ruth
+\v 16 When Ruth arrived home, her mother-in-law asked her, “My daughter, how did things go\f + \ft Or: Boaz act toward you \f*?” Then Ruth
 told her everything that Boaz had done for her \add and said to her\add*.
 \v 17 She also said \add to Naomi\add*, “He gave me all this barley, saying ‘I do not want you to return to your mother-in-law
 empty-handed.’ ” 
 \v 18 Then Naomi said, “My daughter, just wait until we see what happens.
-\add I am sure that\add* Boaz will surely take care of \\f + \\ft litotes \\f* the matter today. \\f + \\ft litotes \\f*”
+\add I am sure that\add* Boaz will surely take care of \f + \ft litotes \f* the matter today. \f + \ft litotes \f*”

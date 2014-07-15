@@ -2,7 +2,7 @@
 \s A psalm written by Asaph 
 \q
 \v 1 God, other people-groups have invaded your land. 
-\q2 They have ◄desecrated your temple\f + \ft Or: caused \f* your temple to be unfit for worship►,
+\q2 They have desecrated your temple\f + \ft Or: caused your temple to be unfit for worship \f*,
 \q and they have destroyed all the buildings in Jerusalem. 
 \q
 \v 2  \add Instead of burying\add* the corpses of your people \add whom they
@@ -13,7 +13,7 @@ killed\add*,
 \v 3 When they killed your people, 
 \q your people's blood flowed like water through \add the streets
 of\add* Jerusalem, 
-\q2 and there was \add almost\add* no one \\f + \\ft hyperbole \\f* left to bury their corpses.
+\q2 and there was \add almost\add* no one \f + \ft hyperbole \f* left to bury their corpses.
 \q
 \v 4 The people-groups that live in countries that surround our land insult us;
 \q2 they laugh at us and deride\f + \ft Or: belittle \f* us. 
@@ -38,9 +38,9 @@ of\add* Jerusalem,
 \v 9 God, you have saved\f + \ft Or: rescued \f* \add us many times\add*, 
 \q2 so help us \add now\add*; 
 \q rescue us and forgive us for having sinned 
-\q2 in order that other people will honor you \\f + \\ft metonymy \\f*. 
+\q2 in order that other people will honor you \f + \ft metonymy \f*. 
 \q
-\v 10 It is not right that \\f + \\ft rhetorical question \\f* the other people-groups say \add about
+\v 10 It is not right that \f + \ft rhetorical question \f* the other people-groups say \add about
 us\add*, 
 \q2 “If their God \add is very powerful\add*, why does he not \add help
 them\add*?” 
@@ -56,4 +56,4 @@ them\add*?”
 \q
 \v 13 After you do that, we, whom you \add take care of like a shepherd takes care
 of\add* his sheep, will continue praising you; 
-\q2 we will continue to praise you forever \\f + \\ft hyperbole \\f*. 
+\q2 we will continue to praise you forever \f + \ft hyperbole \f*. 

@@ -6,13 +6,13 @@
 dug\add*. 
 \q
 \v 2 People dig iron \add ore\add* out of the ground, 
-\q2 and they ◄smelt copper\f + \ft Or: heat \f* copper ore to get the copper from it►.
+\q2 and they smelt copper\f + \ft Or: heat copper ore to get the copper from it \f*.
 \q
 \v 3 Men use lamps while they work far down under the ground 
 \q2 to search for the ore inside the mines 
 \q2 where it is very dark. 
 \q
-\v 4 They dig ◄shafts\f + \ft Or: narrow \f* holes very deep down into the ground► in places that are far from where people live,
+\v 4 They dig shafts\f + \ft Or: narrow holes very deep down into the ground \f* in places that are far from where people live,
 \q2 where travelers do not go. 
 \q They work far away from other people, 
 \q2 swinging back and forth on ropes \add as they descend into the mine
@@ -21,7 +21,7 @@ shafts\add*.
 \v 5 Food grows on the surface of the ground, 
 \q2 but down under the ground, \add where there is no food\add*, the miners make fires to break apart the rocks.
 \q
-\v 6 The stones \add that are dug from under the ground\add* contain ◄sapphires\f + \ft Or: very \f* valuable blue stones►,
+\v 6 The stones \add that are dug from under the ground\add* contain sapphires\f + \ft Or: very valuable blue stones \f*,
 \q2 and the dirt contains bits of gold. 
 \q
 \v 7  \add Some birds have very good eyes\add*, 
@@ -30,12 +30,12 @@ shafts\add*.
 \q
 \v 8 Lions or other proud wild animals have not walked on the roads near those mines.
 \q
-\v 9 Miners dig \\f + \\ft metonymy \\f* very hard rock; 
+\v 9 Miners dig \f + \ft metonymy \f* very hard rock; 
 \q2 \add it is as though\add* they turn the mountains upside down
 \add to get the ore\add*. 
 \q
 \v 10 They cut tunnels through the rocks, 
-\q2 and they find ◄precious\f + \ft Or: very \f* valuable► things. 
+\q2 and they find precious\f + \ft Or: very valuable \f* things. 
 \q
 \v 11 They dam up small streams in order that water does not flow,
 \q2 and they bring up into the light things that are hidden \add in the ground and in the
@@ -49,7 +49,7 @@ streams\add*.
 \q2 no one can find it \add here on this earth\add* where they are living.
 \q
 \v 14  \add It is as though\add* water that is deep \add inside the
-earth\add* and \add water that is in\add* the seas say \\f + \\ft personification \\f*, 
+earth\add* and \add water that is in\add* the seas say \f + \ft personification \f*, 
 \q2 ‘Wisdom is not here!’ 
 \q
 \v 15 People cannot buy wisdom 
@@ -64,17 +64,17 @@ earth\add* and \add water that is in\add* the seas say \\f + \\ft personificatio
 \v 18 Wisdom is worth more than coral or crystal\f + \ft Or: pure \f* quartz; 
 \q2 the price of wisdom is higher\f + \ft Or: more \f* than the price of pearls.
 \q
-\v 19 The prices of ◄topaz\f + \ft Or: very \f* valuable yellow stones► from Ethiopia and of pure gold
+\v 19 The prices of topaz\f + \ft Or: very valuable yellow stones \f* from Ethiopia and of pure gold
 \q2 are lower\f + \ft Or: less \f* than the price of wisdom. 
 \b
 \q
 \v 20 So, where does wisdom come from? 
 \q2 Where can we find out how to truly understand things? 
 \q
-\v 21 No living humans can see it \\f + \\ft metonymy \\f*; 
-\q2 and birds cannot see it while they are flying \\f + \\ft metonymy \\f*. 
+\v 21 No living humans can see it \f + \ft metonymy \f*; 
+\q2 and birds cannot see it while they are flying \f + \ft metonymy \f*. 
 \q
-\v 22  \add It is as though\add* the places where people go after they die say \\f + \\ft personification \\f*,
+\v 22  \add It is as though\add* the places where people go after they die say \f + \ft personification \f*,
 \q2 ‘We have only heard rumors about \add where to find wisdom\add*.’
 \q
 \v 23 God is \add the only one who\add* knows how to find wisdom;
@@ -91,7 +91,7 @@ earth\add* and \add water that is in\add* the seas say \\f + \\ft personificatio
 ground\add*, 
 \q
 \v 27 at that time he saw wisdom and decided that it is extremely valuable.
-\q2 He examined it and ◄approved it\f + \ft Or: said \f* that it was very good►.
+\q2 He examined it and approved it\f + \ft Or: said that it was very good \f*.
 \q
 \v 28 And then he said to humans, ‘Listen! To have an awesome respect for me is
 \add what will enable you to become\add* wise; 

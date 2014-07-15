@@ -6,13 +6,13 @@
 \v 2 “Job, how much longer will you talk like this? 
 \q2 What you say is only a big wind. 
 \q
-\v 3 Almighty God certainly never does \\f + \\ft rhetorical question \\f* what is unfair\f + \ft Or: unjust \f*.
-\q2 He always does \\f + \\ft litotes \\f* what is right\f + \ft Or: fair \f*. 
+\v 3 Almighty God certainly never does \f + \ft rhetorical question \f* what is unfair\f + \ft Or: unjust \f*.
+\q2 He always does \f + \ft litotes \f* what is right\f + \ft Or: fair \f*. 
 \q
 \v 4 So, it is evident that your children have sinned against him,
 \q2 therefore he has caused them to be punished for evil things that they have done.
 \q
-\v 5 But, if you will now earnestly request \\f + \\ft doublet \\f* Almighty God to help you,
+\v 5 But, if you will now earnestly request \f + \ft doublet \f* Almighty God to help you,
 \q
 \v 6 and if you are pure and honest\f + \ft Or: righteous \f*, 
 \q2 he will surely do something good for you 
@@ -26,14 +26,14 @@
 \q2 and consider what our ancestors found out. 
 \q
 \v 9  \add It seems as though\add* we were born only yesterday 
-\q2 and we know very little \\f + \\ft hyperbole \\f*; 
-\q our time here on the earth \add disappears quickly, like\add* a shadow \\f + \\ft metaphor \\f*.
+\q2 and we know very little \f + \ft hyperbole \f*; 
+\q our time here on the earth \add disappears quickly, like\add* a shadow \f + \ft metaphor \f*.
 \q
-\v 10 So, ◄why do you not\f + \ft Or: you \f* should► allow your ancestors to teach you and tell you something.
+\v 10 So, why do you not\f + \ft Or: you should \f* allow your ancestors to teach you and tell you something.
 \q2 Allow them to tell you from what they learned! 
 \q
-\v 11 Papyrus can certainly not \\f + \\ft rhetorical question \\f* grow in places where there is no marsh\f + \ft Or: swamp \f*;
-\q2 reeds certainly cannot \\f + \\ft rhetorical question \\f* flourish\f + \ft Or: grow \f* where there is no water.
+\v 11 Papyrus can certainly not \f + \ft rhetorical question \f* grow in places where there is no marsh\f + \ft Or: swamp \f*;
+\q2 reeds certainly cannot \f + \ft rhetorical question \f* flourish\f + \ft Or: grow \f* where there is no water.
 \q
 \v 12  \add If they do not have enough water\add*, while they are still blossoming,
 \q2 they wither more quickly than other plants wither. 
@@ -45,13 +45,13 @@ them\add*.
 \q
 \v 14 The things they confidently expect to happen do not happen;
 \q2 things they trust \add will help them\add* are \add as fragile
-as\add* \\f + \\ft metaphor \\f* a spider's web. 
+as\add* \f + \ft metaphor \f* a spider's web. 
 \q
-\v 15 If they lean against a house \f + \ft (OR, trust in their wealth; OR, lean on a spider web) \f*, it does not ◄endure\f + \ft Or: protect \f* them►
-\\f + \\ft litotes \\f*; 
+\v 15 If they lean against a house \f + \ft Or: trust in their wealth; OR, lean on a spider web \f*, it does not endure\f + \ft Or: protect them \f*
+\f + \ft litotes \f*; 
 \q2 they cling to things \add to be protected\add*, but those things do not remain firm.
 \q
-\v 16 Godless people \add are like plants\add* \\f + \\ft metaphor \\f* that are watered before the sun rises;
+\v 16 Godless people \add are like plants\add* \f + \ft metaphor \f* that are watered before the sun rises;
 \q2 their shoots spread all over the gardens. 
 \q
 \v 17 The roots of those plants twist around the piles of stones
@@ -62,14 +62,14 @@ as\add* \\f + \\ft metaphor \\f* a spider's web.
 \q2 \add And that is what happens to wicked people who do not heed what God
 says\add*. 
 \q
-\v 19 Truly, evil people \\f + \\ft metaphor \\f* are not joyful \\f + \\ft irony \\f* for a long time;
+\v 19 Truly, evil people \f + \ft metaphor \f* are not joyful \f + \ft irony \f* for a long time;
 \q2 other people come and take their places. 
 \b
 \q
 \v 20 So, \add I tell you, Job\add*, God will not reject you if you are very godly\f + \ft Or: righteous \f*,
 \q2 but he does not help [IDI] evil people. 
 \q
-\v 21 He will enable you \\f + \\ft metonymy \\f* to continually laugh 
+\v 21 He will enable you \f + \ft metonymy \f* to continually laugh 
 \q2 and to always shout \add joyfully\add*. 
 \q
 \v 22 But those who hate you will be very ashamed, 

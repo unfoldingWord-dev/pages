@@ -1,17 +1,17 @@
 \c 14  
 \q
-\v 1 Wise women \\f + \\ft personification \\f* hold their families together \add by the wise things that they
+\v 1 Wise women \f + \ft personification \f* hold their families together \add by the wise things that they
 do\add*, 
 \q2 but foolish women ruin their families by the foolish things that they do.
 \q
 \v 2 By continually behaving\f + \ft Or: acting \f* righteously, \add people show that
 they\add* have an awesome respect for Yahweh; 
-\q2 those who ◄walk on crooked paths\f + \ft Or: always \f* deceive others► \add show that
+\q2 those who walk on crooked paths\f + \ft Or: always deceive others \f* \add show that
 they\add* despise him. 
 \b
 \q
-\v 3 Foolish people will be punished \\f + \\ft metonymy \\f* for what they say, 
-\q2 but wise people will be protected by what they say \\f + \\ft metonymy \\f*. 
+\v 3 Foolish people will be punished \f + \ft metonymy \f* for what they say, 
+\q2 but wise people will be protected by what they say \f + \ft metonymy \f*. 
 \b
 \q
 \v 4 If a man has no oxen \add to plow his field\add*, he does not
@@ -19,7 +19,7 @@ they\add* despise him.
 \q2 but if he has oxen, \add they will enable\add* him to produce an abundant crop.
 \b
 \q
-\v 5 Witnesses who are reliable always say what ◄is true\f + \ft Or: really \f* happened►,
+\v 5 Witnesses who are reliable always say what is true\f + \ft Or: really happened \f*,
 \q2 but witnesses that are not reliable constantly tell lies \add about what
 happened\add*. 
 \b
@@ -49,8 +49,8 @@ happened\add*.
 \q2 but houses built by good\f + \ft Or: righteous \f* people will last for a long time.
 \b
 \q
-\v 12 There are some kinds of behavior \\f + \\ft metaphor \\f* that some people \add falsely\add* think are right,
-\q2 but ◄walking on those roads\f + \ft Or: continually \f* doing those things► causes those people to die.
+\v 12 There are some kinds of behavior \f + \ft metaphor \f* that some people \add falsely\add* think are right,
+\q2 but walking on those roads\f + \ft Or: continually doing those things \f* causes those people to die.
 \b
 \q
 \v 13  \add Sometimes\add* when people laugh, they are really sad in their inner beings,
@@ -66,15 +66,15 @@ happened\add*.
 \b
 \q
 \v 16 Wise people are careful and avoid doing things that will cause them trouble;
-\q2 foolish people are careless and act ◄too quickly\f + \ft Or: without \f* thinking►.
+\q2 foolish people are careless and act too quickly\f + \ft Or: without thinking \f*.
 \b
 \q
 \v 17 Those who quickly become angry [IDI] do foolish things; 
-\q2 people hate those who plan to do wicked things \f + \ft (OR, those who have good sense remain calm\f + \ft Or: patient \f*).
+\q2 people hate those who plan to do wicked things \f + \ft Or: those who have good sense remain calm\f + \ft Or: patient \f*).
 \b
 \q
 \v 18 Foolish people get what they deserve for doing foolish things;
-\q2 those with good sense are rewarded \\f + \\ft metaphor \\f* by being able to learn much.
+\q2 those with good sense are rewarded \f + \ft metaphor \f* by being able to learn much.
 \b
 \q
 \v 19  \add Some day\add* evil people will bow down in front of righteous people
@@ -96,11 +96,11 @@ money\add*.
 \q2 people faithfully love, respect and are loyal to those who plan to do what is good.
 \b
 \q
-\v 23 If you work hard, you will ◄accomplish something good\f + \ft Or: get \f* a good income►,
+\v 23 If you work hard, you will accomplish something good\f + \ft Or: get a good income \f*,
 \q2 but if all you do is to talk \add and not work\add*, you will remain poor.
 \b
 \q
-\v 24 One of the rewards \\f + \\ft metaphor \\f* of being wise is to become rich; 
+\v 24 One of the rewards \f + \ft metaphor \f* of being wise is to become rich; 
 \q2 the reward of acting foolishly is to become more foolish. 
 \b
 \q
@@ -115,12 +115,12 @@ money\add*.
 \q2 and their family will also be protected. 
 \b
 \q
-\v 27 Having an awesome respect for Yahweh is like \\f + \\ft metaphor \\f* having a fountain that gives life;
-\q2 which will help you to escape when something dangerous is threatening to kill you \\f + \\ft metaphor \\f*.
+\v 27 Having an awesome respect for Yahweh is like \f + \ft metaphor \f* having a fountain that gives life;
+\q2 which will help you to escape when something dangerous is threatening to kill you \f + \ft metaphor \f*.
 \b
 \q
 \v 28 If a king rules over many people, many people will be able to honor him;
-\q2 if he has only a few people in his kingdom, he will have very little \\f + \\ft hyperbole \\f* power.
+\q2 if he has only a few people in his kingdom, he will have very little \f + \ft hyperbole \f* power.
 \b
 \q
 \v 29 Those who do not quickly become angry are very wise; 
@@ -128,7 +128,7 @@ money\add*.
 \b
 \q
 \v 30 Having a mind that is peaceful results in having a healthy body;
-\q2 having a mind that is often in turmoil is like \\f + \\ft metaphor \\f* cancer in a person's bones.
+\q2 having a mind that is often in turmoil is like \f + \ft metaphor \f* cancer in a person's bones.
 \b
 \q
 \v 31 Those who oppress poor people are insulting God, the one who made those poor people,
@@ -137,7 +137,7 @@ money\add*.
 \q
 \v 32 Wicked people ruin themselves by the evil things that they do,
 \q2 but righteous\f + \ft Or: good \f* people are kept safe\f + \ft Or: protected \f* even when they die (OR, because of their continually doing what is
-right) \f*. 
+right \f*. 
 \b
 \q
 \v 33 Those who have good sense always think what is wise; 
@@ -149,5 +149,5 @@ right) \f*.
 \b
 \q
 \v 35 Kings are pleased with officials who do their work competently\f + \ft Or: skillfully \f*,
-\q2 but they punish \\f + \\ft metonymy \\f* those who \add do their work in a manner
+\q2 but they punish \f + \ft metonymy \f* those who \add do their work in a manner
 that\add* causes the kings to be disgraced. 

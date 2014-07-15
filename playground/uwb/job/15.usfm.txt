@@ -3,19 +3,19 @@
 \p
 \v 1 Then Eliphaz replied to Job: 
 \q
-\v 2 “If you were truly wise \\f + \\ft rhetorical question \\f*, you would not have replied to us by claiming that you know a lot;
-\q2 what you are saying is just a lot of hot air \\f + \\ft metaphor \\f*. 
+\v 2 “If you were truly wise \f + \ft rhetorical question \f*, you would not have replied to us by claiming that you know a lot;
+\q2 what you are saying is just a lot of hot air \f + \ft metaphor \f*. 
 \q
-\v 3 You should not \\f + \\ft rhetorical question \\f* be saying things that do not benefit anyone,
+\v 3 You should not \f + \ft rhetorical question \f* be saying things that do not benefit anyone,
 \q2 using words that do no one any good. 
 \q
 \v 4 You are showing that you do not have a reverential respect for God,
 \q2 and you are hindering people from meditating\f + \ft Or: thinking \f* about God.
 \q
-\v 5 What you say \\f + \\ft metonymy \\f* shows that you are very wicked; 
+\v 5 What you say \f + \ft metonymy \f* shows that you are very wicked; 
 \q2 you talk like deceptive\f + \ft Or: crafty \f* people talk. 
 \q
-\v 6 Everything that you say \\f + \\ft metonymy \\f* shows that you should be punished;
+\v 6 Everything that you say \f + \ft metonymy \f* shows that you should be punished;
 \q2 so, it is not necessary for me to show that. 
 \b
 \q
@@ -26,8 +26,8 @@ because\add* you are the first person who was ever born? [SAR, RHQ]
 \v 8 Were you listening when God made all his plans? [SAR, RHQ] 
 \q2 Or do you think that you are the only person who is wise? 
 \q
-\v 9 ◄What do you know that we do not know?\f + \ft Or: You \f* do not know anything that we do not know.► \\f + \\ft rhetorical question \\f*
-\q2 You do not understand \\f + \\ft rhetorical question \\f* anything that is not also clear to us.
+\v 9 What do you know that we do not know?\f + \ft Or: You do not know anything that we do not know. \f* \f + \ft rhetorical question \f*
+\q2 You do not understand \f + \ft rhetorical question \f* anything that is not also clear to us.
 \q
 \v 10 My friends and I are also wise; 
 \q2 \add we acquired wisdom\add* from old gray-haired people, 
@@ -35,25 +35,25 @@ because\add* you are the first person who was ever born? [SAR, RHQ]
 \q
 \v 11 God wants to comfort you, 
 \q and to speak gently\f + \ft Or: kindly \f* to you; 
-\q2 ◄is that not enough for you\f + \ft Or: do \f* you need more than that►? 
+\q2 is that not enough for you\f + \ft Or: do you need more than that \f*? 
 \q
 \v 12 Why do you allow yourself to be excited by your emotions? 
 \q2 Why are \add you very angry, with the result that\add* your eyes flash?
 \q
 \v 13 You are angry [IDI] with God, 
-\q2 and so you \\f + \\ft metonymy \\f* are criticizing\f + \ft Or: denouncing \f* him. 
+\q2 and so you \f + \ft metonymy \f* are criticizing\f + \ft Or: denouncing \f* him. 
 \b
 \q
 \v 14 ◄How can any person, \add including you\add*, be sinless?\f + \ft Or: No \f* person,
-\add including you\add*, can be sinless.► \\f + \\ft rhetorical question \\f* 
+\add including you\add*, can be sinless.► \f + \ft rhetorical question \f* 
 \q2 ◄How can anyone on the earth be \add completely\add* righteous?\f + \ft Or: No \f* one on the earth can be
-\add completely\add* righteous.► \\f + \\ft rhetorical question \\f* 
+\add completely\add* righteous.► \f + \ft rhetorical question \f* 
 \q
 \v 15 Hey, God does not even trust his angels; 
 \q2 he does not consider even them to be \add completely\add* pure.
 \q
 \v 16 So, he certainly does not \add trust\add* abominable\f + \ft Or: disgusting \f* and depraved\f + \ft Or: corrupt \f* people
-\q2 who commit evil deeds \add as easily as\add* they drink water \\f + \\ft metaphor \\f*.
+\q2 who commit evil deeds \add as easily as\add* they drink water \f + \ft metaphor \f*.
 \b
 \q
 \v 17 Job, listen to what I will tell you. 
@@ -66,7 +66,7 @@ because\add* you are the first person who was ever born? [SAR, RHQ]
 \q2 no one from another country caused them to think wrongly [IDI].
 \q
 \v 20 It is wicked people who suffer with great pain all the time that they are alive;
-\q2 that is what happens to those who ◄oppress\f + \ft Or: act \f* violently toward► others.
+\q2 that is what happens to those who oppress\f + \ft Or: act violently toward \f* others.
 \q
 \v 21 They constantly hear sounds that terrify them; 
 \q2 while they are prospering, bandits attack them. 
@@ -79,9 +79,9 @@ because\add* you are the first person who was ever born? [SAR, RHQ]
 \q
 \v 24 Because they are afraid of those things happening to them, they are afraid and worry
 \q2 that these things will attack them like \add the army of\add* a king waits to attack
-\add their enemies and cause them to suffer\add* \\f + \\ft simile \\f*. 
+\add their enemies and cause them to suffer\add* \f + \ft simile \f*. 
 \q
-\v 25  \add These things happen to them\add* because they ◄shook their fists\f + \ft Or: dared \f* to fight► against Almighty God
+\v 25  \add These things happen to them\add* because they shook their fists\f + \ft Or: dared to fight \f* against Almighty God
 \q2 and thought that they were strong enough to defeat him. 
 \q
 \v 26 They stubbornly [IDI] rush to attack God 
@@ -105,9 +105,9 @@ themselves\add*.
 \q2 then things that are worthless will be all that they get. 
 \q
 \v 32 While they are still young, they will disappear; 
-\q2 they will be like \\f + \\ft metaphor \\f* branches that wither and never become green again.
+\q2 they will be like \f + \ft metaphor \f* branches that wither and never become green again.
 \q
-\v 33 They will be like \\f + \\ft simile \\f* vines whose grapes fall off before they are ripe,
+\v 33 They will be like \f + \ft simile \f* vines whose grapes fall off before they are ripe,
 \q2 like olive trees whose blossoms fall off before they produce any fruit.
 \q
 \v 34 Groups of wicked\f + \ft Or: godless \f* people will not have any descendants,

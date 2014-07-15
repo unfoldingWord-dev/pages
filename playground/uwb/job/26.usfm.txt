@@ -4,13 +4,13 @@
 \v 1 Job replied \add to Bildad\add*, saying this \add sarcastically:\add*
 \q
 \v 2 “I am a very weak and helpless man; 
-\q2 and ◄\add you certainly have\add* helped me \\f + \\ft sarcasm \\f* very much.\f + \ft Or:  \f*\add do you think that you
-have\add* helped me \\f + \\ft sarcasm \\f* very much?► \\f + \\ft rhetorical question \\f* 
+\q2 and ◄\add you certainly have\add* helped me \f + \ft sarcasm \f* very much.\f + \ft Or:  \f*\add do you think that you
+have\add* helped me \f + \ft sarcasm \f* very much?► \f + \ft rhetorical question \f* 
 \q
-\v 3 ◄You certainly have counseled me well—me, who am not wise at
-all.\f + \ft Or:  \f*\add Do you think that\add* you have counseled me well—me, who am not wise at all?► \\f + \\ft rhetorical question \\f*
+\v 3 You certainly have counseled me well—me, who am not wise at
+all.\f + \ft Or: \add Do you think that\add* you have counseled me well—me, who am not wise at all? \f* \f + \ft rhetorical question \f*
 \q ◄You surely have given a lot of very good advice to me.\f + \ft Or:  \f*\add Do you think
-that\add* you have given a lot of very good advice to me?► \\f + \\ft rhetorical question \\f*
+that\add* you have given a lot of very good advice to me?► \f + \ft rhetorical question \f*
 \q
 \v 4 Who helped you to say all those \add great\f + \ft Or: wise \f*\add* things?
 \q2 Who inspired you to speak like you did?” 
@@ -28,13 +28,13 @@ that\add* you have given a lot of very good advice to me?► \\f + \\ft rhetoric
 \v 8 He fills the thick\f + \ft Or: dense \f* clouds with water 
 \q2 and prevents that water from bursting the clouds. 
 \q
-\v 9 He causes clouds to ◄obscure\f + \ft Or: prevent \f* us from seeing► the moon.
+\v 9 He causes clouds to obscure\f + \ft Or: prevent us from seeing \f* the moon.
 \q
 \v 10 He separated the light from the darkness 
 \q2 and put the horizon to mark the place where the night ends and the daytime begins.
 \q
 \v 11 When he \add is angry, it is as though\add* he rebukes the pillars that hold up the sky.
-\q2 They are ◄shocked\f + \ft Or: very \f* fearful►, and they tremble. 
+\q2 They are shocked\f + \ft Or: very fearful \f*, and they tremble. 
 \q
 \v 12 By his power he calmed the sea; 
 \q2 by his skill\f + \ft Or: wisdom \f* he destroyed Rahab, the huge sea monster.
@@ -46,4 +46,4 @@ that\add* you have given a lot of very good advice to me?► \\f + \\ft rhetoric
 \q2 \add it is as though\add* we are hearing only whispers of his powerful voice.
 \q2 When we hear thunder, \add we say\add*, ‘◄Who can really understand
 \add how great\add* his power is?\f + \ft Or: No \f* one can really understand \add how
-great\add* his power is!► \\f + \\ft rhetorical question \\f*’ ” 
+great\add* his power is!► \f + \ft rhetorical question \f*’ ” 

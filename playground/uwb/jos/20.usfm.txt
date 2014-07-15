@@ -5,7 +5,7 @@
 \v 2 “Tell the Israeli people that they should choose some cities to which people
 \add can run\add* in order to be safe\f + \ft Or: protected \f*, like I told Moses that you should do.
 \v 3 If someone kills another person accidentally, not intending to kill that person, the one who killed that person may
-run\f + \ft Or: escape \f* to one of these cities and be safe\f + \ft Or: protected \f* from someone trying to get revenge for that person's death \\f + \\ft metonymy \\f*.
+run\f + \ft Or: escape \f* to one of these cities and be safe\f + \ft Or: protected \f* from someone trying to get revenge for that person's death \f + \ft metonymy \f*.
 \p
 \v 4 When the one who killed someone arrives at the gate of one of those cities, he must stop there and tell the leaders of the
 city what happened. \add If they believe him\add*, they must allow him to enter the city, and they must give him a place to
@@ -25,7 +25,7 @@ Kiriath-Arba (which is \add now named\add* Hebron) in the hilly area where the t
 \v 8 Bezer, on the east side of the Jordan \add River\add* near Jericho, in the flat land in the desert where the tribe of
 Reuben lived; Ramoth in the Gilead \add region\add* in the land where the tribe of Gad lived; and Golan in the Bashan region
 where the tribe of Manasseh lived. 
-\v 9 Any Israeli or any foreigner who lived among us, anyone who killed someone ◄accidentally\f + \ft Or: without \f* planning to do it►, was
+\v 9 Any Israeli or any foreigner who lived among us, anyone who killed someone accidentally\f + \ft Or: without planning to do it \f*, was
 allowed to run to one of those cities, and be safe\f + \ft Or: protected \f* from some relative of the person who died coming there and killing
 him to get revenge. He could stay in that city until there was a trial there
 \add to decide whether he was telling the truth or not when he said that he did not plan to kill that

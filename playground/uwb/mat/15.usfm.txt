@@ -6,10 +6,10 @@
 \add to talk to\add* Jesus. They said, 
 \v 2 “◄We think it is disgusting that your disciples disobey the traditions of our ancestors!\f + \ft Or: Why \f* do your disciples disobey
 \add what our ancestors wrote down and\add* our \add elders taught
-us\add*?► \\f + \\ft rhetorical question \\f* They do not perform the proper ritual of washing their hands before they eat!”
+us\add*?► \f + \ft rhetorical question \f* They do not perform the proper ritual of washing their hands before they eat!”
 \v 3 Jesus answered them, “◄What is really disgusting is that \bd you\bd* refuse to obey God's
 commands\add just\add* so that you can follow what your ancestors taught you!\f + \ft Or: Why \f* do you refuse to obey what God commanded
-\add people to do, just\add* so that you can follow your own traditions?► \\f + \\ft rhetorical question \\f*
+\add people to do, just\add* so that you can follow your own traditions?► \f + \ft rhetorical question \f*
 \v 4 God gave these \add two\add* commands: ‘Honor your father and your mother,’ and ‘People who speak evil about their father
 or mother must be executed.’ 
 \v 5 But you tell people, ‘You can say to your father or mother, “What I was going to give to you
@@ -20,7 +20,7 @@ give\add to God\add*.”’
 \v 7 You only pretend to be good! Isaiah prophesied accurately about you
 \add also when he quoted what God said about your ancestors. God
 said\add*, 
-\v 8 ‘These people talk \add as if they\add* honor me \\f + \\ft metonymy \\f*, but they do not think about honoring me at all \\f + \\ft metaphor \\f*.
+\v 8 ‘These people talk \add as if they\add* honor me \f + \ft metonymy \f*, but they do not think about honoring me at all \f + \ft metaphor \f*.
 \v 9 It is useless for them to worship me, because they teach what people thought up
 \add as if I myself had commanded it\add*.’” 
 \s Matthew 15:10-11 
@@ -31,21 +31,21 @@ eat.
 \add what I am about to tell you\add*, and\add try to\add* understand it.
 \v 11 Nothing that a person puts into his mouth \add to eat\add* causes
 \add God to consider\add* that person to be unacceptable. Instead, it is
-\add the words\add* that come out of people's mouths \\f + \\ft synecdoche \\f* that cause
+\add the words\add* that come out of people's mouths \f + \ft synecdoche \f* that cause
 \add God to reject them\add*.” 
 \s Matthew 15:12-20 
 \s Jesus explained that people's inner thoughts are what make them unacceptable to God.
 \p
 \v 12 Later we disciples went to Jesus and said, “Do you know that the Pharisees heard what you said, and as a result they felt
-offended \\f + \\ft rhetorical question \\f*?” 
+offended \f + \ft rhetorical question \f*?” 
 \v 13 Then, \add to teach us what God would do to the Pharisees\add*, Jesus told
 \add us this parable\add*: “My Father in heaven \add will\add* get rid of all
 \add those who teach things that are contrary to his truth, just like a
-farmer\add* gets rid of plants that he did not plant by pulling them up along with their roots \\f + \\ft metaphor \\f*.
+farmer\add* gets rid of plants that he did not plant by pulling them up along with their roots \f + \ft metaphor \f*.
 \v 14 Do not pay any attention to \add the Pharisees\add*. They \add do not help people who do not know God's
 truth\add* to \add understand it, just like\add* blind guides \add do not
-help\add* blind \add people to perceive where they should go\add* \\f + \\ft metaphor \\f*. If a blind person
-\add tries to\add* lead \add another\add* blind person, they will both fall into a hole \\f + \\ft metaphor \\f*.
+help\add* blind \add people to perceive where they should go\add* \f + \ft metaphor \f*. If a blind person
+\add tries to\add* lead \add another\add* blind person, they will both fall into a hole \f + \ft metaphor \f*.
 \add Similarly, both the Pharisees and their disciples will end up in
 hell\add*.” 
 \p
@@ -53,14 +53,14 @@ hell\add*.”
 eats\add*.” 
 \v 16 He replied \add to them\add*, “◄I am disappointed that even you,
 \add who should understand what I teach\add*, still do not understand!\f + \ft Or: Why \f* is it that even you
-\add who should understand what I teach\add*, still do not understand?► \\f + \\ft rhetorical question \\f*
+\add who should understand what I teach\add*, still do not understand?► \f + \ft rhetorical question \f*
 \v 17 ◄You ought to understand that all \add food that people\add* eat enters their stomachs, and later the refuse passes out
 of their \add bodies\add*.\f + \ft Or: Cannot \f* you understand that all \add food that
 people\add* eat enters their stomachs and later the refuse passes out
-\add of their bodies\add*?► \\f + \\ft rhetorical question \\f* \add Because food does not alter what we think and desire, what we eat does not cause God to
+\add of their bodies\add*?► \f + \ft rhetorical question \f* \add Because food does not alter what we think and desire, what we eat does not cause God to
 consider that we are unacceptable to him\add*. 
 \v 18  \add You should know that\add* what comes out of \add people's\add* mouths,
-\add meaning everything that they say\add* \\f + \\ft synecdoche \\f*, comes from their inner beings\f + \ft Or: hearts \f*. Many of the
+\add meaning everything that they say\add* \f + \ft synecdoche \f*, comes from their inner beings\f + \ft Or: hearts \f*. Many of the
 \add things that they say\add* cause \add God to consider\add* them to be unacceptable
 \add to him\add*. 
 \v 19 It is people's innermost beings that \add cause them\add* to think things that are evil, to murder people, to
@@ -83,8 +83,8 @@ her.”
 \add knowing that the woman was not a Jew\add*, we said to him, “Tell her to leave because she keeps
 \add bothering us\add* by yelling behind us!” 
 \v 24 But Jesus said \add to her\add*, “I have been sent {\add God\add* has sent me} to
-\add help\add* only the Israelite people \add at this time\add* \\f + \\ft synecdoche \\f*.
-\add They are like\add* sheep that have gotten lost \\f + \\ft metaphor \\f* \add because they do not know the way to
+\add help\add* only the Israelite people \add at this time\add* \f + \ft synecdoche \f*.
+\add They are like\add* sheep that have gotten lost \f + \ft metaphor \f* \add because they do not know the way to
 heaven\add*.” 
 \v 25 But she came \add closer\add* to Jesus and knelt down in front of him
 \add to worship him\add*. She pled, “Lord\f + \ft Or: Sir \f*, help me!” 
@@ -108,7 +108,7 @@ eat\add*!”
 \add near there\add* and sat down \add to teach the people\add*.
 \v 30 Crowds kept coming to him for the next two days and brought lame, crippled, and blind people, those who were unable to
 talk, and many others \add who had various sicknesses\add*. They laid them in front of Jesus
-\add so that he would heal them\add* \\f + \\ft synecdoche \\f*. And he healed them. 
+\add so that he would heal them\add* \f + \ft synecdoche \f*. And he healed them. 
 \v 31 The crowd saw \add him heal\add* people who could not talk, crippled people, lame people, and blind people, and they were
 amazed. They said, “Praise God \add who rules over us who live in\add* Israel!”
 \s Matthew 15:32-39 
@@ -119,8 +119,8 @@ amazed. They said, “Praise God \add who rules over us who live in\add* Israel!
 \add left\add* to eat. I feel sorry for them. I do not want to send them away
 \add while they are still\add* hungry, \add because if I did that\add*, they might faint on the
 way\add home\add*.” 
-\v 33 We disciples said to him, “In this place where nobody lives, ◄we cannot possibly obtain enough food to feed such a large
-crowd!\f + \ft Or: how \f* can we obtain a large enough amount of food to feed such a large crowd?► \\f + \\ft rhetorical question \\f*”
+\v 33 We disciples said to him, “In this place where nobody lives, we cannot possibly obtain enough food to feed such a large
+crowd!\f + \ft Or: how can we obtain a large enough amount of food to feed such a large crowd? \f* \f + \ft rhetorical question \f*”
 \v 34 Jesus asked us, “How many small loaves do you have?” We said to him,
 “\add We have\add* seven small loaves and a few \add cooked\add* fish.”
 \v 35 He told the people to sit on the ground. 

@@ -12,10 +12,10 @@ be\add* humiliated;
 \q2 the enemies of Moab will plan to destroy \add the capital city\add*, Heshbon.
 \q2 They will say, ‘Come, let's cause Moab to no longer be a nation.’
 \q You people in Madmen \add town\add*, you also will be silenced;
-\q2 enemy armies \\f + \\ft metonymy \\f* will pursue you. 
+\q2 enemy armies \f + \ft metonymy \f* will pursue you. 
 \q
 \v 3 Listen to the people of Horonaim \add town\add* screaming; 
-\q2 they will be wailing because their town will have been devastated and destroyed \\f + \\ft doublet \\f*.
+\q2 they will be wailing because their town will have been devastated and destroyed \f + \ft doublet \f*.
 \q
 \v 4 All of Moab will be ruined; 
 \q2 even the little children will cry \add loudly\add*. 
@@ -46,13 +46,13 @@ anymore\add*,
 \b
 \q
 \v 10 Yahweh will curse anyone who will not eagerly do what he desires,
-\q2 anyone who refrains from using his sword to kill \\f + \\ft metonymy \\f* others
+\q2 anyone who refrains from using his sword to kill \f + \ft metonymy \f* others
 \add in Moab\add*. 
 \b
 \q
 \v 11 The people of Moab have always felt secure; 
-\q2 they have never been ◄exiled\f + \ft Or: forced \f* \add by their enemies\add* to go to other countries►.
-\q They are like \\f + \\ft metaphor \\f* wine that has been left undisturbed \add in a container for many days to give it good
+\q2 they have never been exiled\f + \ft Or: forced \add by their enemies\add* to go to other countries \f*.
+\q They are like \f + \ft metaphor \f* wine that has been left undisturbed \add in a container for many days to give it good
 flavor\add*, 
 \q so now it is smells good, 
 \q2 and it tastes good. 
@@ -97,10 +97,10 @@ Moab and all the towns in it will be destroyed.
 \q
 \v 20 They will reply, 
 \q2 “Moab is ruined and we are disgraced!” 
-\q So weep and wail \\f + \\ft doublet \\f*. 
+\q So weep and wail \f + \ft doublet \f*. 
 \q2 Proclaim at the Aroer \add River\add* that Moab has been destroyed.
 \q
-\v 21 Yahweh will have punished the towns of Moab that are on the ◄plateau\f + \ft Or: high \f* level►:
+\v 21 Yahweh will have punished the towns of Moab that are on the plateau\f + \ft Or: high level \f*:
 \q2 Holon and Jahaz and Mephaath, 
 \q2
 \v 22 Dibon and Nebo and Beth-Diblathaim, 
@@ -110,21 +110,21 @@ Moab and all the towns in it will be destroyed.
 \v 24 Kerioth and Bozrah, 
 \q2 cities that are near each other and towns that are far away from each other.
 \q
-\v 25 Yahweh says, “The power \\f + \\ft metonymy \\f* of Moab will be finished; 
-\q2 \add it is as though\add* \\f + \\ft metaphor \\f* it will have a broken arm. 
+\v 25 Yahweh says, “The power \f + \ft metonymy \f* of Moab will be finished; 
+\q2 \add it is as though\add* \f + \ft metaphor \f* it will have a broken arm. 
 \q
 \v 26 You people of Moab have rebelled against me, Yahweh; 
-\q2 so now \add I will cause\add* you all to stagger like \\f + \\ft simile \\f* drunken people.
+\q2 so now \add I will cause\add* you all to stagger like \f + \ft simile \f* drunken people.
 \q You people of Moab will wallow in your own vomit 
 \q2 and be ridiculed. 
 \q
-\v 27 You people of Moab ridiculed the people of Israel \\f + \\ft rhetorical question \\f*. 
-\q Although they were thieves, they were never caught \\f + \\ft rhetorical question \\f*. 
-\q2 You shook your head at them scornfully and despised them \\f + \\ft rhetorical question \\f*.
+\v 27 You people of Moab ridiculed the people of Israel \f + \ft rhetorical question \f*. 
+\q Although they were thieves, they were never caught \f + \ft rhetorical question \f*. 
+\q2 You shook your head at them scornfully and despised them \f + \ft rhetorical question \f*.
 \q
 \v 28 You people who live in Moab, 
 \q2 you should abandon your towns and go and live in caves. 
-\q Be like \\f + \\ft simile \\f* doves that make their nests in the entrances of caves.”
+\q Be like \f + \ft simile \f* doves that make their nests in the entrances of caves.”
 \b
 \q
 \v 29 We have all heard that the people of Moab are very proud; 
@@ -144,7 +144,7 @@ Moab\add*.
 \add city\add*. 
 \q
 \v 33 But no one will be joyful or happy in Moab now; 
-\q2 your fruit and grapes that ripen in the ◄summer\f + \ft Or: hot \f* season► will soon be destroyed.
+\q2 your fruit and grapes that ripen in the summer\f + \ft Or: hot season \f* will soon be destroyed.
 \q There will be no grape juice coming from the winepresses, 
 \q2 so there will be no wine. 
 \q People will not shout joyfully 
@@ -162,8 +162,8 @@ Moab\add*.
 \v 35 I, Yahweh, say that I will get rid of the people who offer sacrifices on the hilltops,
 \q2 and burn incense to their gods. 
 \q
-\v 36 I \\f + \\ft synecdoche \\f* moan for the people of Moab and Kir-Hareseth 
-\q2 like \\f + \\ft simile \\f* \add someone playing a funeral song on\add* a flute,
+\v 36 I \f + \ft synecdoche \f* moan for the people of Moab and Kir-Hareseth 
+\q2 like \f + \ft simile \f* \add someone playing a funeral song on\add* a flute,
 \q2 because all their wealth will disappear. 
 \q
 \v 37 The men will shave their heads and their beards to show that they are mourning.
@@ -171,7 +171,7 @@ Moab\add*.
 \q
 \v 38 In every home and in the town plazas\f + \ft Or: centers \f* in Moab there will be people who are mourning,
 \q2 because I will have destroyed Moab 
-\q2 like \\f + \\ft simile \\f* someone smashes an old jar that no one wants anymore.
+\q2 like \f + \ft simile \f* someone smashes an old jar that no one wants anymore.
 \q
 \v 39 Moab will be completely shattered! 
 \q2 And you will hear the people wailing loudly! 
@@ -182,12 +182,12 @@ there\add*.
 \p
 \v 40 This is what I, Yahweh, say: 
 \q ‘Look! Their enemies will be swooping\f + \ft Or: rushing \f* down over Moab 
-\q2 like an eagle \\f + \\ft simile \\f* swoops down \add to seize an animal\add*.
+\q2 like an eagle \f + \ft simile \f* swoops down \add to seize an animal\add*.
 \q
 \v 41 Its cities will be captured, 
 \q2 its fortresses will be seized. 
 \q Even their warriors will be \add afraid\add*, 
-\q2 like \\f + \\ft simile \\f* a woman who is about to give birth. 
+\q2 like \f + \ft simile \f* a woman who is about to give birth. 
 \q
 \v 42 Moab boasted against me, Yahweh, 
 \q2 so it will be destroyed. 
@@ -203,7 +203,7 @@ there\add*.
 \q2 but they will not be able to go any further, 
 \q because a fire will burn in Heshbon, 
 \q2 which is the city where King Sihon lived long ago, 
-\q and it will burn up all the people \\f + \\ft synecdoche \\f* in Moab 
+\q and it will burn up all the people \f + \ft synecdoche \f* in Moab 
 \q2 who noisily\f + \ft Or: loudly \f* boasted very much. 
 \q
 \v 46 You people of Moab, terrible things will happen to you! 

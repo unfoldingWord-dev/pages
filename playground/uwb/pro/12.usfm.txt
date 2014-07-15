@@ -1,7 +1,7 @@
 \c 12  
 \q
-\v 1 Those who want to know \add what is right to do\add* want to be ◄disciplined\f + \ft Or: corrected \f*► when they do what is wrong;
-\q2 it is foolish to not want to be ◄corrected\f + \ft Or: told \f* that what you did is wrong►.
+\v 1 Those who want to know \add what is right to do\add* want to be disciplined\f + \ft Or: corrected \f* when they do what is wrong;
+\q2 it is foolish to not want to be corrected\f + \ft Or: told that what you did is wrong \f*.
 \b
 \q
 \v 2 Yahweh is pleased with good people, 
@@ -9,21 +9,21 @@
 \b
 \q
 \v 3 People do not become secure\f + \ft Or: safe \f* by doing what is wicked; 
-\q2 righteous people will be very safe and secure \\f + \\ft litotes \\f* like \\f + \\ft metaphor \\f* a tree that has deep roots.
+\q2 righteous people will be very safe and secure \f + \ft litotes \f* like \f + \ft metaphor \f* a tree that has deep roots.
 \b
 \q
 \v 4 A good wife is one who causes her husband to be greatly honored,
 \q2 but a wife who does things that cause her husband to be ashamed
-\add will destroy him\add* like \\f + \\ft simile \\f* cancer \add destroys\add* his bones.
+\add will destroy him\add* like \f + \ft simile \f* cancer \add destroys\add* his bones.
 \b
 \q
 \v 5 What righteous people want to do is \add to treat people\add* fairly;
 \q2 what wicked people want to do is to deceive people. 
 \b
 \q
-\v 6 What wicked people say is like a trap \\f + \\ft metaphor \\f* that kills \\f + \\ft metonymy \\f* people
+\v 6 What wicked people say is like a trap \f + \ft metaphor \f* that kills \f + \ft metonymy \f* people
 \add who pass by\add*, 
-\q2 but what righteous people say \\f + \\ft metonymy \\f* rescues those whom \add wicked people threaten to
+\q2 but what righteous people say \f + \ft metonymy \f* rescues those whom \add wicked people threaten to
 harm\add*. 
 \b
 \q
@@ -32,7 +32,7 @@ harm\add*.
 \b
 \q
 \v 8 People will praise those who have good sense, 
-\q2 but people will despise those ◄who are always thinking about doing evil things\f + \ft Or: whose \f* thinking is twisted►.
+\q2 but people will despise those who are always thinking about doing evil things\f + \ft Or: whose thinking is twisted \f*.
 \b
 \q
 \v 9 It is better to be a humble\f + \ft Or: ordinary \f* person who has only one servant
@@ -49,15 +49,15 @@ crops\add* that will give them plenty to eat,
 \b
 \q
 \v 12 Wicked people desire to take away what \add other\add* evil people have,
-\q2 but \add Yahweh\add* enables righteous\f + \ft Or: godly \f* people to be steadfast and productive \\f + \\ft metaphor \\f*.
+\q2 but \add Yahweh\add* enables righteous\f + \ft Or: godly \f* people to be steadfast and productive \f + \ft metaphor \f*.
 \b
 \q
-\v 13 Evil people are trapped by the evil things that they say \\f + \\ft metonymy \\f*,
+\v 13 Evil people are trapped by the evil things that they say \f + \ft metonymy \f*,
 \q2 but righteous people escape from trouble. 
 \b
 \q
 \v 14 People are rewarded for \add the good things\add* that they say to others,
-\q2 and people are also rewarded for the good work that they do \\f + \\ft metonymy \\f*.
+\q2 and people are also rewarded for the good work that they do \f + \ft metonymy \f*.
 \b
 \q
 \v 15 Foolish people always think that what they are doing is right;
@@ -72,11 +72,11 @@ crops\add* that will give them plenty to eat,
 \q2 but untruthful\f + \ft Or: dishonest \f* people tell nothing but lies. 
 \b
 \q
-\v 18 What some people say \add hurts people badly\add*, as much as \\f + \\ft simile \\f* a sword can;
-\q2 but what wise people say ◄heals \add others' souls\add*\f + \ft Or: comforts \f* others►.
+\v 18 What some people say \add hurts people badly\add*, as much as \f + \ft simile \f* a sword can;
+\q2 but what wise people say heals \add others' souls\add*\f + \ft Or: comforts others \f*.
 \b
 \q
-\v 19 When people tell \\f + \\ft metonymy \\f* lies, others soon realize that what they said is not true [IDI];
+\v 19 When people tell \f + \ft metonymy \f* lies, others soon realize that what they said is not true [IDI];
 \q2 but when people say what is true, others know forever that what they said is true.
 \b
 \q
@@ -84,19 +84,19 @@ crops\add* that will give them plenty to eat,
 \q2 but things will go well for those who plan to do good things.
 \b
 \q
-\v 21 Bad things \add usually\add* \\f + \\ft hyperbole \\f* do not happen to righteous people,
+\v 21 Bad things \add usually\add* \f + \ft hyperbole \f* do not happen to righteous people,
 \q2 but wicked people always have troubles. 
 \b
 \q
-\v 22 Yahweh detests those \\f + \\ft metonymy \\f* who tell lies, 
+\v 22 Yahweh detests those \f + \ft metonymy \f* who tell lies, 
 \q2 but he is delighted with those who faithfully do what they promise that they will do.
 \b
 \q
 \v 23 Those with good sense do not reveal all that they know; 
-\q2 foolish people show \add clearly\add* by what they say that they ◄are ignorant\f + \ft Or: have \f* not learned much►.
+\q2 foolish people show \add clearly\add* by what they say that they are ignorant\f + \ft Or: have not learned much \f*.
 \b
 \q
-\v 24 Those \\f + \\ft synecdoche \\f* who work hard become rulers of others; 
+\v 24 Those \f + \ft synecdoche \f* who work hard become rulers of others; 
 \q2 those who are lazy become others' slaves. 
 \b
 \q
@@ -104,14 +104,14 @@ crops\add* that will give them plenty to eat,
 \q2 but when others speak kindly to them, it causes them to be cheerful again.
 \b
 \q
-\v 26 Godly\f + \ft Or: Righteous \f* people try to \add give good advice to\add* their friends \f + \ft (OR, try to make friends with others),
+\v 26 Godly\f + \ft Or: Righteous \f* people try to \add give good advice to\add* their friends \f + \ft Or: try to make friends with others),
 \q2 but the manner in which wicked people live misleads them. 
 \b
 \q
 \v 27 Lazy people do not even \add cook the meat of\add* the animals that they catch\f + \ft Or: kill \f*,
-\q2 but those who work hard will acquire (OR, are like) \f* a valuable treasure.
+\q2 but those who work hard will acquire (OR, are like \f* a valuable treasure.
 \b
 \q
-\v 28 Those who ◄live righteously\f + \ft Or: continually \f* do what is right► are
+\v 28 Those who live righteously\f + \ft Or: continually do what is right \f* are
 \add walking\add* on the road to a long life, 
-\q2 ◄it is not a road to death\f + \ft Or: they \f* will not die when they are still young►.
+\q2 it is not a road to death\f + \ft Or: they will not die when they are still young \f*.

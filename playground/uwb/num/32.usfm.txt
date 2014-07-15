@@ -11,10 +11,10 @@
 \add towns\add*. 
 \v 5 If it pleases you, we would like this land to be ours, instead of land on the other side of the Jordan River.”
 \p
-\v 6 Moses\f + \ft Or: I \f* replied to the leaders of the tribes of Gad and Reuben, “It is not right for \\f + \\ft rhetorical question \\f* your fellow Israelis to go to
+\v 6 Moses\f + \ft Or: I \f* replied to the leaders of the tribes of Gad and Reuben, “It is not right for \f + \ft rhetorical question \f* your fellow Israelis to go to
 fight in wars and you stay here! 
 \v 7  \add If you do that\add*, you will cause the other Israelis to be discouraged, with the result that they will not cross
-\add the Jordan River\add* to the land that Yahweh is giving to them \\f + \\ft rhetorical question \\f*.
+\add the Jordan River\add* to the land that Yahweh is giving to them \f + \ft rhetorical question \f*.
 \v 8 Our ancestors did the same kind of thing. I sent them from Kadesh-Barnea to see what the land
 \add of Canaan\add* was like. 
 \v 9 They went as far as Eshcol Valley, but when they saw \add the huge people
@@ -52,7 +52,7 @@ people that you would do, and you may keep this land to be your own, given to yo
 \v 24 Now you can build cities for your families and pens for your animals, but after doing that, you must do what you have
 promised.” 
 \p
-\v 25 The leaders of the tribes of Gad and Reuben replied, “We will do what you have asked us to do \\f + \\ft metonymy \\f*, because you are our
+\v 25 The leaders of the tribes of Gad and Reuben replied, “We will do what you have asked us to do \f + \ft metonymy \f*, because you are our
 leader. 
 \v 26 Our wives and children and our cattle and sheep and goats will stay here in the cities of the Gilead area,
 \v 27 but we will prepare to go to battle. We will take our weapons and go across

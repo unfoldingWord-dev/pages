@@ -9,35 +9,35 @@ that God our Father will be acting kindly towards you, and that he will cause yo
 \s Colossians 1:3-8 
 \s We thank God for you very often that you believe in Christ Jesus and that you love all God's people.
 \p
-\v 3 Very often \\f + \\ft hyperbole \\f* we thank God, the Father of our Lord Jesus Christ, while we are praying for you,
+\v 3 Very often \f + \ft hyperbole \f* we thank God, the Father of our Lord Jesus Christ, while we are praying for you,
 \v 4 because we have heard that you believe in Christ Jesus, and that you love all God's people.
-\v 5 You do that because you confidently expect to receive that which God is ◄reserving\f + \ft Or: keeping \f* safe► for you in heaven, which
+\v 5 You do that because you confidently expect to receive that which God is reserving\f + \ft Or: keeping safe \f* for you in heaven, which
 you heard about previously when you heard the true message, that is, the message
 \add about Christ\add*. 
-\v 6  \add People\add* proclaimed it \\f + \\ft personification \\f* to you, just like \add people\add* have proclaimed it in many different countries
+\v 6  \add People\add* proclaimed it \f + \ft personification \f* to you, just like \add people\add* have proclaimed it in many different countries
 [HYP, IDM]. The true message is changing more and more people's lives, just like it changed your lives because you heard it and
 you truly experienced that God acts kindly towards us in ways we do not deserve.
 \v 7 That is just what Epaphras taught you \add would happen\add*. We love Epaphras. He serves Christ together with us and
 works for Christ faithfully for your benefit. 
 \v 8 He told us that you love \add all God's people\add*, just like God's Spirit
-\add has enabled you to\add* \f + \ft (OR, spiritually). 
+\add has enabled you to\add* \f + \ft Or: spiritually). 
 \s Colossians 1:9-12 
 \s We have also been praying very often to God for you. We pray that you will know truly all that he wants you to do, in order
 that you will conduct yourselves as the Lord's people should. 
 \p
-\v 9 Because of what we heard about you, we have also been praying \\f + \\ft litotes \\f* very often to God for you \\f + \\ft hyperbole \\f*, ever since we heard
+\v 9 Because of what we heard about you, we have also been praying \f + \ft litotes \f* very often to God for you \f + \ft hyperbole \f*, ever since we heard
 this report about you. We pray that you will know truly all that God wants you to do; that is, that you will become very wise,
 and that you will understand spiritual matters well. 
 \v 10 We have been praying that in order that you will conduct yourselves as the Lord's people should conduct themselves, in
 order that you will please the Lord in every way. Specifically, we have been praying that in order that you will be doing every
-sort of good deed \\f + \\ft idiom \\f* and in order that you will be getting to know God truly, more and more.
+sort of good deed \f + \ft idiom \f* and in order that you will be getting to know God truly, more and more.
 \v 11 And we pray that \add God\add* will greatly strengthen you
 \add spiritually\add* to the extent of the mighty power that he has shown
 \add to people\add*, in order that you will always be steadfast and patient
 \add when you experience difficulties\add*, while \add at the same
 time\add* you will be rejoicing. 
 \v 12 And we pray that you will be thanking God our Father, because he has qualified you\f + \ft Or: us \f* so that you\f + \ft Or: we \f* are also worthy to
-receive the things that he will give to his people in heaven \\f + \\ft synecdoche \\f*.
+receive the things that he will give to his people in heaven \f + \ft synecdoche \f*.
 \s Colossians 1:13-20 
 \s God our Father has caused you to be ruled by his Son, who existed before and ranks above everything that has been created.
 \p
@@ -55,7 +55,7 @@ were created {because \add God\add* created everything} in order that everything
 \v 17 and because it is his Son who existed before anything else existed, and because God sustains everything by what his Son
 \add does\add*. 
 \v 18 And \add God's Son ranks above everything\add*, because it is he who
-\add rules over his people\add* \\f + \\ft metaphor \\f* \add as a person's\add* head
+\add rules over his people\add* \f + \ft metaphor \f* \add as a person's\add* head
 \add controls his physical\add* body, because he causes them to live
 \add spiritually\add*. \add His Son\add* is the first one who rose from among those who have died, in order that he should
 become more important than anything and everyone. 
@@ -88,14 +88,14 @@ important than everything and everyone.
 \p
 \v 21 As for you, \add although\add* formerly God \add considered you
 his\add* enemies (OR, \add God considered you\add* as alienated \add from
-him\add*) \f* and \add although\add* you were formerly hostile \add to
+him\add* \f* and \add although\add* you were formerly hostile \add to
 God\add* because you thought evil thoughts and because you did evil deeds,
 \v 22 nevertheless, God our Father has now reconciled you \add to himself. He did
 that\add* as a result of his Son dying physically. He did it in order that you should be completely holy when he brings you
 into his presence. 
-\v 23 But he wants you to continue \\f + \\ft doublet \\f* to believe the message about Christ; specifically, he wants you to continue to be
+\v 23 But he wants you to continue \f + \ft doublet \f* to believe the message about Christ; specifically, he wants you to continue to be
 stable\f + \ft Or: steadfast \f* and to continue to confidently expect to receive that which you heard about when you heard that message. That
-message has been proclaimed {They have proclaimed that message} to people in very many places \\f + \\ft hyperbole \\f*; and I, Paul, have also
+message has been proclaimed {They have proclaimed that message} to people in very many places \f + \ft hyperbole \f*; and I, Paul, have also
 become one who tells it to people. 
 \s Colossians 1:24-29 
 \s I am completing what Christ appointed me to do, that I should suffer physically for the benefit of the church. And I
@@ -114,7 +114,7 @@ message from\f + \ft Or: about \f* God.
 Specifically, this message declares that Christ, \add by his Spirit\add*, will live in you who are non-Jews, with the result
 that you confidently expect that you will share in \add God's\add* glory.
 \v 28 We proclaim about Christ \add to every class of persons\add*; specifically, we warn them, and specifically, we teach
-everyone very wisely. We do this in order that every person who ◄has a close relationship with\f + \ft Or: is \f* united to► Christ may be ◄all
-that God wants them to be\f + \ft Or: perfect \f*► when we present them to Christ.
+everyone very wisely. We do this in order that every person who has a close relationship with\f + \ft Or: is united to \f* Christ may be all
+that God wants them to be\f + \ft Or: perfect \f* when we present them to Christ.
 \v 29 In order that I might \add achieve\f + \ft Or: accomplish \f* this\add*, I am also working hard; that is, I am exerting myself as a
 result of Christ's empowering me very greatly. 

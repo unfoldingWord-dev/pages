@@ -3,10 +3,10 @@
 \p
 \v 1 These are sayings\f + \ft Or: messages \f* that \add God gave to\add* Lemuel's mother, and which his mother taught him:
 \q
-\v 2 You are my son; I gave birth to you \\f + \\ft rhetorical question \\f*; 
+\v 2 You are my son; I gave birth to you \f + \ft rhetorical question \f*; 
 \q2 you are the son that \add God gave me\add* in answer to my prayers.
 \q
-\v 3 Do not exhaust all your energy \add having sex\add* \\f + \\ft euphemism \\f* with women
+\v 3 Do not exhaust all your energy \add having sex\add* \f + \ft euphemism \f* with women
 \add to whom you are not married\add*, 
 \q2 with women who have ruined kings \add by having sex with them\add*.
 \b
@@ -18,27 +18,27 @@
 \q2 and they do no not do what is right for poor\f + \ft Or: afflicted \f* people.
 \q
 \v 6 Give strong\f + \ft Or: alcoholic \f* drinks to those who are dying 
-\q2 and to those who are ◄greatly distressed\f + \ft Or: suffering \f* very much►.
+\q2 and to those who are greatly distressed\f + \ft Or: suffering very much \f*.
 \q
 \v 7 If they drink, they will forget that they are poor, 
 \q2 and they will not think about their distress\f + \ft Or: troubles \f* anymore.
 \b
 \q
-\v 8 Speak \\f + \\ft metonymy \\f* to defend people who are unable to defend themselves;
+\v 8 Speak \f + \ft metonymy \f* to defend people who are unable to defend themselves;
 \q2 speak to encourage others to do what is right for those who are helpless.
 \q
-\v 9 Speak \\f + \\ft metonymy \\f* ◄on their behalf\f + \ft Or: to \f* help them► and try to cause judges to decide matters fairly\f + \ft Or: justly \f*;
+\v 9 Speak \f + \ft metonymy \f* on their behalf\f + \ft Or: to help them \f* and try to cause judges to decide matters fairly, Or: justly;
 \q2 try to cause others to do for poor and needy people what should be done for them.
 \b
 \s Praise for a good wife 
 \b
 \q
-\v 10 It is very difficult \add for a man\add* to \\f + \\ft rhetorical question \\f* find a wife who is good and who is capable
+\v 10 It is very difficult \add for a man\add* to \f + \ft rhetorical question \f* find a wife who is good and who is capable
 \add of doing many things\add*. 
 \q2 \add Any woman who is like that\add* is worth more than jewels.
 \q
 \v 11 Her husband completely trusts her, 
-\q2 and \add because of her\add*, he has everything that he needs \\f + \\ft litotes \\f*.
+\q2 and \add because of her\add*, he has everything that he needs \f + \ft litotes \f*.
 \q
 \v 12 She never does anything that would harm him; 
 \q2 she does good things for him all the days of her life. 
@@ -46,7 +46,7 @@
 \v 13 She finds wool and flax \add in the market\add*, 
 \q2 and she enjoys spinning it \add to make yarn\add*. 
 \q
-\v 14 She is like \\f + \\ft simile \\f* a ship that brings from far away goods\f + \ft Or: merchandise \f* to sell,
+\v 14 She is like \f + \ft simile \f* a ship that brings from far away goods\f + \ft Or: merchandise \f* to sell,
 \q2 because she buys food that comes from far away. 
 \q
 \v 15 She gets up before dawn to prepare food for her family. 
@@ -55,19 +55,19 @@
 \v 16 She goes out and looks at a field \add that someone wants to
 sell\add*; 
 \q2 and \add if it is a good field\add*, she buys it. 
-\q She \add buys\add* grapevine plants \\f + \\ft metonymy \\f* with the money that she has earned,
+\q She \add buys\add* grapevine plants \f + \ft metonymy \f* with the money that she has earned,
 \q2 and then she plants them. 
 \q
 \v 17 She works very hard [IDI]; 
 \q2 she makes her arms strong \add by the work she does\add*. 
 \q
 \v 18 She knows when she is getting a good profit from her business.
-\q \add When it is necessary\add*, she works \\f + \\ft metonymy \\f* until it is late at night.
+\q \add When it is necessary\add*, she works \f + \ft metonymy \f* until it is late at night.
 \q
-\v 19 She holds the ◄spindle\f + \ft Or: rod \f* which twists the thread that she is making►,
-\q2 and then she spins the thread \\f + \\ft metonymy \\f* \add that she will use\add*.
+\v 19 She holds the spindle\f + \ft Or: rod which twists the thread that she is making \f*,
+\q2 and then she spins the thread \f + \ft metonymy \f* \add that she will use\add*.
 \q
-\v 20 She generously helps \\f + \\ft metonymy \\f* those who are poor and needy \\f + \\ft doublet \\f*.
+\v 20 She generously helps \f + \ft metonymy \f* those who are poor and needy \f + \ft doublet \f*.
 \q
 \v 21 She is not worried that \add the people in her house will be cold
 in\add* the winter, 
@@ -84,11 +84,11 @@ wear\add*.
 \q2 She sells sashes to shop owners. 
 \q
 \v 25 She is strong in her character and respected\f + \ft Or: dignified \f*, 
-\q2 and she ◄laughs at\f + \ft Or: is \f* not afraid of► \add what will happen in\add* the future.
+\q2 and she laughs at\f + \ft Or: is not afraid of \f* \add what will happen in\add* the future.
 \q
 \v 26 When she speaks, she says what is wise. 
 \q When she gives instructions, 
-\q2 she speaks \\f + \\ft metonymy \\f* kindly \f + \ft (OR, faithfully) \f*. 
+\q2 she speaks \f + \ft metonymy \f* kindly \f + \ft Or: faithfully \f*. 
 \q
 \v 27 She watches over everything that is done in her household,
 \q2 and she [IDI] is never lazy. 
@@ -108,4 +108,4 @@ like\add*.
 \q2 but women who have an awesome respect\f + \ft Or: reverence \f* for Yahweh should be honored.
 \q
 \v 31 Reward women who are like that, 
-\q2 and praise them in public \\f + \\ft metonymy \\f* for what they have done. 
+\q2 and praise them in public \f + \ft metonymy \f* for what they have done. 

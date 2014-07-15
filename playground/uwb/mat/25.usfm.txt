@@ -3,7 +3,7 @@
 \s Jesus taught in a parable that his disciples should always be ready for his return.
 \p
 \v 1  \add Jesus continued by saying, “I will tell you something else about the time when I return
-from\add* heaven as king \\f + \\ft metaphor \\f*. \add What will happen to many people who say that they know me will
+from\add* heaven as king \f + \ft metaphor \f*. \add What will happen to many people who say that they know me will
 be\add* like \add what happened to\add* ten virgins who took their lanterns and went to the place where they would meet a
 bridegroom \add and go to his wedding celebration\add*. 
 \v 2 Five of the virgins were foolish and five of them were wise.
@@ -28,7 +28,7 @@ oil\add*, the bridegroom arrived. So the \add wise virgins\add*, who were ready,
 \v 12 But he said \add to them\add*, ‘The truth is that I do not know you, so I
 \add will not open the door for you\add*!’” 
 \v 13  \add Then Jesus continued by saying\add*, “So, in order that\add this will not happen to
-you\add*, keep expecting \add that I will return\add*, because you do not know when \\f + \\ft metonymy \\f*
+you\add*, keep expecting \add that I will return\add*, because you do not know when \f + \ft metonymy \f*
 \add it will be\add*.” 
 \s Matthew 22:14-30 
 \s Jesus told a parable to teach his disciples about making good use of what God has given them.
@@ -73,7 +73,7 @@ take\add from others money\add* that does not really belong to me\add , like a f
 who\add* harvests \add grain from another man's field\add* where I did not even plant
 \add the seeds\add*!\f + \ft Or: Did \f* you not know that I \add take from others money that does not really belong to me, like a
 farmer\add* who harvests \add grain from another man's field\add* where I did not even plant
-\add the seeds\add*?► \\f + \\ft rhetorical question \\f* 
+\add the seeds\add*?► \f + \ft rhetorical question \f* 
 \v 27 So then, you should have put my money \add on deposit\add* in a bank, so that when I returned I would get it back with
 the interest \add it earned\add*!’ 
 \v 28  \add Then the boss said to his other servants\add*, ‘Take the thousand dollars from him, and give it to
@@ -91,7 +91,7 @@ pain\add*.’ ”
 \v 31 “When I, the one who came from heaven, come again, I will come with all my radiance
 and\add bring\add* all my angels with me. Then I will sit as a king on my wonderful throne
 \add to judge people\add*. 
-\v 32 People from all nations \\f + \\ft metonymy \\f* will be gathered in front of me
+\v 32 People from all nations \f + \ft metonymy \f* will be gathered in front of me
 {\add The angels\add* will gather in front of me people from all nations}. Then I will separate them, one from another, as a
 shepherd separates his sheep from his goats. 
 \v 33 I will put \add the righteous people\add* on my right and \add the unrighteous ones on my left, as
@@ -102,11 +102,11 @@ side\add*.”
 From the time he created the world, he has been preparing to allow you to
 \add receive the blessings that he will give to all those\add* who let him rule their lives.
 \add Now is the time for\add* you to receive \add those blessings\add*!
-\v 35  \add They belong to you\add*, because you gave me something to eat when I was hungry. \f + \ft (OR,
-\add They belong to you\add*. It is as though you gave me something to eat when I was hungry.) \f* You gave me something to drink
+\v 35  \add They belong to you\add*, because you gave me something to eat when I was hungry. \f + \ft Or:
+\add They belong to you\add*. It is as though you gave me something to eat when I was hungry. \f* You gave me something to drink
 when I was thirsty. When I was a stranger \add in your town\add*, you invited me
 \add to stay\add* in\add your houses\add*. 
-\v 36 When I needed clothes \\f + \\ft metonymy \\f*, you gave me some. When I was sick, you took care of me. When I was in prison, you came to
+\v 36 When I needed clothes \f + \ft metonymy \f*, you gave me some. When I was sick, you took care of me. When I was in prison, you came to
 visit me.’ 
 \p
 \v 37 Then the righteous people will reply, ‘Lord, when were you hungry and we saw you and gave you something to eat? When were
@@ -120,12 +120,12 @@ you thirsty and we gave you something to drink?
 \add it was as though\add* you did it for me.’ 
 \p
 \v 41 Then I will say to those on my left, ‘You people who have been cursed
-\add by God\add* {whom God has cursed}, leave me! Go into the eternal fire that God has prepared for ◄the devil\f + \ft Or: Satan \f*► and his
+\add by God\add* {whom God has cursed}, leave me! Go into the eternal fire that God has prepared for the devil\f + \ft Or: Satan \f* and his
 angels! 
 \v 42  \add It is right for you to go there\add*, because you did not give me anything to eat when I was hungry. You did not
 give me anything to drink when I was thirsty. 
 \v 43 You did not invite me into \add your homes\add* when I was a stranger
-\add in your town\add*. You did not give me any clothes when I needed them \\f + \\ft metonymy \\f*. You did not take care of me when I was sick
+\add in your town\add*. You did not give me any clothes when I needed them \f + \ft metonymy \f*. You did not take care of me when I was sick
 or in prison.’ 
 \p
 \v 44 They will answer, ‘Lord, when were you hungry or thirsty or a stranger or needing clothes or sick or in prison, and we

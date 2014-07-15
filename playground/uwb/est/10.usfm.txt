@@ -1,7 +1,7 @@
 \c 10  
 \p
 \v 1 King Xerxes required that all the people in his empire pay taxes. Even the people who lived on the islands
-\add in the Mediterranean Sea\add* \f + \ft (OR, in coastal areas) \f* were required to pay taxes.
+\add in the Mediterranean Sea\add* \f + \ft Or: in coastal areas \f* were required to pay taxes.
 \v 2 And all the great things that Xerxes did because of his power were written in the scroll called\f + \ft Or: entitled \f* 'The record of
 the things done by the kings of Media and Persia.' In this book were also written
 \add the things done\add* by Mordecai, the man whom the king had greatly honored.

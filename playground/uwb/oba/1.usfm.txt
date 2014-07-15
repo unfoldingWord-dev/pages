@@ -14,7 +14,7 @@
 \q
 \v 3 Your \add capital city\add* is high in the rocky cliffs, 
 \q2 and you are very proud; 
-\q you think that you are safe because no army can attack you \\f + \\ft rhetorical question \\f*,
+\q you think that you are safe because no army can attack you \f + \ft rhetorical question \f*,
 \q2 but you [IDI] have deceived yourselves. 
 \q
 \v 4 And I tell you that even if \add you had wings and\add* could fly higher than eagles fly,
@@ -23,18 +23,18 @@
 \b
 \q
 \v 5 When thieves break into someone's house during the night, 
-\q2 they certainly \\f + \\ft rhetorical question \\f* steal only the things that they want. 
-\q And people who pick grapes always \\f + \\ft rhetorical question \\f* leave a few grapes on the vines.
+\q2 they certainly \f + \ft rhetorical question \f* steal only the things that they want. 
+\q And people who pick grapes always \f + \ft rhetorical question \f* leave a few grapes on the vines.
 \q2 But your country will be completely destroyed! 
 \q
 \v 6 Everything that is valuable will be taken away. 
 \q2 \add Your enemies\add* will find and take away even the valuable things that you have hidden.
 \q
-\v 7 All ◄your allies\f + \ft Or: nations \f* who promised to help you► will turn against you,
+\v 7 All your allies\f + \ft Or: nations who promised to help you \f* will turn against you,
 \q2 and they will force you to leave your country\f + \ft Or: land \f*. 
 \q Those with whom you have peace now will trick\f + \ft Or: deceive \f* you and defeat you.
 \q2 Those who eat meals with you now are planning to trap you, 
-\q and then they will say to you, ‘You are not \\f + \\ft rhetorical question \\f* as clever as you thought you were!’
+\q and then they will say to you, ‘You are not \f + \ft rhetorical question \f* as clever as you thought you were!’
 \b
 \q
 \v 8 I, Yahweh, declare that at the time that I destroy Edom, 
@@ -42,7 +42,7 @@
 they\add* were wise. 
 \q
 \v 9 The soldiers from Teman \add town\add* will become terrified;
-\q2 all you people who are descendants of Esau will be ◄wiped out\f + \ft Or: killed \f*►.”
+\q2 all you people who are descendants of Esau will be wiped out\f + \ft Or: killed \f*.”
 \s The reasons for Edom's punishment 
 \q
 \v 10 “You acted cruelly to your relatives who are descendants of Jacob,
@@ -50,11 +50,11 @@ they\add* were wise.
 \q2 So now you will be disgraced, and you will be destroyed forever.
 \q
 \v 11 Foreigners entered the gates of Jerusalem 
-\q2 and ◄cast lots\f + \ft Or: threw \f* small stones that were marked► to decide what valuable things they would take away;
+\q2 and cast lots\f + \ft Or: threw small stones that were marked \f* to decide what valuable things they would take away;
 \q but you were as bad as those foreigners, 
 \q2 because you just stood there and did not help the Israelis. 
 \q
-\v 12 You should not have ◄gloated\f + \ft Or: been \f* happy► about the disaster that the Israelis were experiencing.
+\v 12 You should not have gloated\f + \ft Or: been happy \f* about the disaster that the Israelis were experiencing.
 \q2 You should not have been happy when their towns were ruined.
 \q You should not have made fun of them when they were suffering.
 \q
@@ -76,17 +76,17 @@ punish\add* all the nations.
 \q The same evil things that you have done to others will happen to you.
 \q
 \v 16 My people in Jerusalem have been punished; 
-\q2 \add it is as though\add* \\f + \\ft metaphor \\f* they drank a cup of very bitter liquid on Zion, my sacred hill,
+\q2 \add it is as though\add* \f + \ft metaphor \f* they drank a cup of very bitter liquid on Zion, my sacred hill,
 \q2 because I was very angry with them. 
-\q But I will punish \\f + \\ft metaphor \\f* all the other nations even more severely,
+\q But I will punish \f + \ft metaphor \f* all the other nations even more severely,
 \q2 and cause them to disappear completely. 
 \q
 \v 17 But some people in Jerusalem will escape, 
 \q2 and Jerusalem will become a very holy\f + \ft Or: sacred \f* place. 
 \q Then the descendants of Jacob will conquer and possess again the land that truly belongs to them.
 \q
-\v 18 The descendants \\f + \\ft metonymy \\f* of Jacob and his son Joseph will be like \\f + \\ft metaphor \\f* a fire,
-\q2 and the people \\f + \\ft metonymy \\f* of Edom will be like \\f + \\ft metaphor \\f* stubble that will be completely burned in that fire.
+\v 18 The descendants \f + \ft metonymy \f* of Jacob and his son Joseph will be like \f + \ft metaphor \f* a fire,
+\q2 and the people \f + \ft metonymy \f* of Edom will be like \f + \ft metaphor \f* stubble that will be completely burned in that fire.
 \q2 Not one person will remain alive. 
 \q \add That will surely happen because\add* I, Yahweh, have said it.”
 \b
@@ -96,7 +96,7 @@ punish\add* all the nations.
 \add region\add* and the areas of Ephraim and Samaria. 
 \q And people of the tribe of Benjamin will conquer the Gilead \add region\add*.
 \q
-\v 20 Those who return from being ◄exiled in\f + \ft Or: forced \f* to go to► \add Babylon\add* will
+\v 20 Those who return from being exiled in\f + \ft Or: forced to go to \f* \add Babylon\add* will
 \add return to their land\add* 
 \q2 \add and\add* capture the Phoenicia \add region\add* as far north as Zarephath
 \add on the coast of the Mediterranean Sea\add*. 

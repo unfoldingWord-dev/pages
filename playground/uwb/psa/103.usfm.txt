@@ -2,7 +2,7 @@
 \s A psalm written by David 
 \q
 \v 1  \add I tell\add* myself that I should praise Yahweh. 
-\q2 I will praise him \\f + \\ft metonymy \\f* with all of my inner being, \add because\add* he \\f + \\ft metonymy \\f* is holy.
+\q2 I will praise him \f + \ft metonymy \f* with all of my inner being, \add because\add* he \f + \ft metonymy \f* is holy.
 \q
 \v 2  \add I tell\add* myself that I should praise Yahweh 
 \q2 and never forget all the kind things he has done for me: 
@@ -10,32 +10,32 @@
 \v 3 He forgives all my sins, 
 \q2 and he heals me from all my diseases\f + \ft Or: sicknesses \f*; 
 \q
-\v 4 he keeps\f + \ft Or: rescues \f* me from dying \\f + \\ft metonymy \\f*, 
+\v 4 he keeps\f + \ft Or: rescues \f* me from dying \f + \ft metonymy \f*, 
 \q2 and blesses me by faithfully loving me and acting mercifully to me.
 \q
 \v 5 He gives me good things during my entire life. 
 \q2 He makes me feel young and strong like eagles. 
 \b
 \q
-\v 6 Yahweh judges justly and ◄vindicates\f + \ft Or: does \f* what is right for► all those who have been treated unfairly.
+\v 6 Yahweh judges justly and vindicates\f + \ft Or: does what is right for \f* all those who have been treated unfairly.
 \q
 \v 7  \add Long ago\add* he revealed to Moses what he planned to do;
 \q2 he showed to the \add ancestors of us\add* Israeli people the mighty things that he was able to do.
 \q
 \v 8 Yahweh acts mercifully and kindly; 
-\q2 he does not quickly ◄get angry\f + \ft Or: punish \f* us► \add when we sin\add*;
+\q2 he does not quickly get angry\f + \ft Or: punish us \f* \add when we sin\add*;
 \q he is always \add showing us that he\add* faithfully loves us.
 \q
 \v 9 He will not keep rebuking us, 
 \q2 and he will not remain angry forever. 
 \q
 \v 10 He punishes us for our sins, 
-\q2 but he does not punish us \add severely\add* as we deserve \\f + \\ft doublet \\f*!
+\q2 but he does not punish us \add severely\add* as we deserve \f + \ft doublet \f*!
 \q
 \v 11 The skies are very high above the earth, 
 \q2 and Yahweh's faithful love for all those who revere him is just as great.
 \q
-\v 12 He has taken away \add the guilt for\add* \\f + \\ft metonymy \\f* our sins 
+\v 12 He has taken away \add the guilt for\add* \f + \ft metonymy \f* our sins 
 \q2 and put it as far from us as the east is from the west. 
 \q
 \v 13 Just like parents act mercifully toward their children, 
@@ -43,10 +43,10 @@
 \q
 \v 14 He knows what our bodies are like; 
 \q2 he remembers that he \add created us from\add* dust\f + \ft Or: dirt \f*, 
-\q2 and so we quickly fail \add to do what pleases him\add* \\f + \\ft metaphor \\f*.
+\q2 and so we quickly fail \add to do what pleases him\add* \f + \ft metaphor \f*.
 \q
-\v 15 We humans do not live forever \\f + \\ft simile \\f*; 
-\q2 we are like grass \\f + \\ft simile \\f* \add that withers and dies\add*. 
+\v 15 We humans do not live forever \f + \ft simile \f*; 
+\q2 we are like grass \f + \ft simile \f* \add that withers and dies\add*. 
 \q We are like wild flowers: they bloom \add for a short while\add*,
 \q
 \v 16 but then the \add hot\add* wind blows over them, and they disappear;
@@ -61,7 +61,7 @@
 \q2 to all those who obey what he has commanded. 
 \b
 \q
-\v 19 Yahweh made\f + \ft Or: caused \f* the heavens to be the place where he rules \\f + \\ft metonymy \\f*;
+\v 19 Yahweh made\f + \ft Or: caused \f* the heavens to be the place where he rules \f + \ft metonymy \f*;
 \q2 from there he rules over everything. 
 \q
 \v 20 You angels who belong to Yahweh, praise him! 

@@ -3,18 +3,18 @@
 \p
 \v 1 Then Job said \add to his three friends\add*, 
 \q
-\v 2 “◄There is no doubt\f + \ft Or: You \f* think► \\f + \\ft sarcasm \\f* that you are the people
+\v 2 “There is no doubt\f + \ft Or: You think \f* \f + \ft sarcasm \f* that you are the people
 \add whom everyone should listen to\add*, 
 \q2 and that when you die, there will be no more wise people. 
 \q
 \v 3 But I have as much good sense as you do; 
-\q2 I am ◄not less wise than\f + \ft Or: certainly \f* as wise as \\f + \\ft litotes \\f*► you. 
-\q2 Certainly everyone \add knows\add* \\f + \\ft rhetorical question \\f* all that you have said.
+\q2 I am not less wise than\f + \ft Or: certainly as wise as \f + \ft litotes \f* \f* you. 
+\q2 Certainly everyone \add knows\add* \f + \ft rhetorical question \f* all that you have said.
 \b
 \q
 \v 4 My friends all laugh at me now. 
 \q2 Previously I habitually requested God to help me, and he answered\f + \ft Or: helped \f* me.
-\q I am righteous and very godly \\f + \\ft doublet \\f*, but everyone laughs at me.
+\q I am righteous and very godly \f + \ft doublet \f*, but everyone laughs at me.
 \q
 \v 5 Those \add like you\add* who have no troubles make fun of me;
 \q2 they cause those \add like me\add* who are already suffering to have more troubles.
@@ -32,16 +32,16 @@
 \v 8  \add If you could\add* ask the creatures \add that crawl\add* on the ground, or the fish in the sea,
 \q2 they would tell you \add about God\add*. 
 \q
-\v 9 All of them certainly know \\f + \\ft rhetorical question \\f* that it is Yahweh who has made them by his hands.
+\v 9 All of them certainly know \f + \ft rhetorical question \f* that it is Yahweh who has made them by his hands.
 \q
 \v 10 He directs the lives of all living creatures; 
 \q2 he gives breath to all us humans \add to enable us to remain
 alive\add*. 
 \q
-\v 11 And when we \\f + \\ft synecdoche \\f* hear what other people \add like you\add* say,
-\q2 we \\f + \\ft rhetorical question \\f* think carefully about what they say \add to determine what is good and what is
+\v 11 And when we \f + \ft synecdoche \f* hear what other people \add like you\add* say,
+\q2 we \f + \ft rhetorical question \f* think carefully about what they say \add to determine what is good and what is
 bad\add*, 
-\q2 like we \\f + \\ft synecdoche \\f* taste food \add to determine what is good and what is
+\q2 like we \f + \ft synecdoche \f* taste food \add to determine what is good and what is
 bad\add*. 
 \q
 \v 12 Old people are \add often\add* very wise, 
@@ -88,4 +88,4 @@ work\add*,
 \q2 and then he causes them to wander around, lost, in an empty desert.
 \q
 \v 25 They grope around in the darkness, without any light, 
-\q2 and he causes them to stagger like \\f + \\ft simile \\f* people who are drunk.”
+\q2 and he causes them to stagger like \f + \ft simile \f* people who are drunk.”

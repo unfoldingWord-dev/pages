@@ -7,7 +7,7 @@
 \b
 \q
 \v 2 Money that you get by doing dishonest\f + \ft Or: wicked \f* things will really not benefit you;
-\q2 but by living righteously you will live for ◄a long time\f + \ft Or: many \f* years►.
+\q2 but by living righteously you will live for a long time\f + \ft Or: many years \f*.
 \b
 \q
 \v 3 Yahweh does not allow righteous people to starve, 
@@ -23,13 +23,13 @@
 \b
 \q
 \v 6 Righteous people will be blessed \add by God\add*; 
-\q2 \add the nice things\add* that wicked people say \\f + \\ft metonymy \\f* \add sometimes\add* conceals the fact that they
+\q2 \add the nice things\add* that wicked people say \f + \ft metonymy \f* \add sometimes\add* conceals the fact that they
 \add are planning to\add* act violently. 
 \b
 \q
 \v 7 After righteous people \add die\add*, other people are blessed as they remember
 \add what those people did before they died\add*; 
-\q2 but we will soon forget wicked people \\f + \\ft metonymy \\f* after they die. 
+\q2 but we will soon forget wicked people \f + \ft metonymy \f* after they die. 
 \b
 \q
 \v 8 Wise people heed good instruction\f + \ft Or: advice \f*, 
@@ -37,7 +37,7 @@
 \b
 \q
 \v 9 Honest people will walk\f + \ft Or: live \f* safely, 
-\q2 but others \f + \ft (OR, God) will find out those who are dishonest. 
+\q2 but others \f + \ft Or: God) will find out those who are dishonest. 
 \b
 \q
 \v 10 Those who wink their eyes \add to signal that they are about to do something that is
@@ -45,8 +45,8 @@ wrong\add* cause trouble,
 \q2 but those who rebuke others truthfully cause them to be peaceful.
 \b
 \q
-\v 11 What righteous people say \\f + \\ft metonymy \\f* is like a fountain that ◄gives life\f + \ft Or: enables \f* people to live many years► \\f + \\ft metaphor \\f*,
-\q2 but what wicked people say \\f + \\ft metonymy \\f* hides the fact that they intend to act violently.
+\v 11 What righteous people say \f + \ft metonymy \f* is like a fountain that gives life\f + \ft Or: enables people to live many years \f* \f + \ft metaphor \f*,
+\q2 but what wicked people say \f + \ft metonymy \f* hides the fact that they intend to act violently.
 \b
 \q
 \v 12 When we hate others, it causes quarrels, 
@@ -54,7 +54,7 @@ wrong\add* cause trouble,
 do\add*. 
 \b
 \q
-\v 13 Those who have good sense say \\f + \\ft metonymy \\f* what is wise, 
+\v 13 Those who have good sense say \f + \ft metonymy \f* what is wise, 
 \q2 but people who do not have good sense must be punished. 
 \b
 \q
@@ -63,7 +63,7 @@ do\add*.
 \b
 \q
 \v 15 The wealth that rich people have \add protects them like a city is protected by
-a\add* strong wall around it \\f + \\ft metaphor \\f*, 
+a\add* strong wall around it \f + \ft metaphor \f*, 
 \q2 but people who are poor suffer much \add because they have no one to help
 them\add*. 
 \b
@@ -72,8 +72,8 @@ them\add*.
 \q2 but all that sinful people gain is to sin more. 
 \b
 \q
-\v 17 Those who pay attention when others try to ◄correct them\f + \ft Or: teach \f* them what they are doing that is wrong► will live
-◄happily\f + \ft Or: for \f* many years►; 
+\v 17 Those who pay attention when others try to correct them\f + \ft Or: teach them what they are doing that is wrong \f* will live
+happily\f + \ft Or: for many years \f*; 
 \q2 but those who reject being rebuked will not find the road to life (OR, cause others to go astray).
 \b
 \q
@@ -86,11 +86,11 @@ say\add*;
 \q2 if you are wise, you will refuse to say very much. 
 \b
 \q
-\v 20 What righteous\f + \ft Or: good \f* people say \\f + \\ft metonymy \\f* is \add as valuable as\add* pure silver \\f + \\ft metaphor \\f*;
+\v 20 What righteous\f + \ft Or: good \f* people say \f + \ft metonymy \f* is \add as valuable as\add* pure silver \f + \ft metaphor \f*;
 \q2 what wicked people think is worthless. 
 \b
 \q
-\v 21 What righteous people say \\f + \\ft metonymy \\f* benefits many people, 
+\v 21 What righteous people say \f + \ft metonymy \f* benefits many people, 
 \q2 but foolish people die because of the stupid \add things that they
 do\add*. 
 \b
@@ -99,7 +99,7 @@ do\add*.
 \q2 and working hard will not make them to become richer (OR, and he will not also cause them to become sad).
 \b
 \q
-\v 23 Foolish people ◄have fun\f + \ft Or: enjoy \f*► doing what is wrong, 
+\v 23 Foolish people have fun\f + \ft Or: enjoy \f* doing what is wrong, 
 \q2 but wise\f + \ft Or: sensible \f* people enjoy doing what is wise. 
 \b
 \q
@@ -107,7 +107,7 @@ do\add*.
 \q2 but what wicked people are afraid of is what will happen to them.
 \b
 \q
-\v 25 When storms come, the wicked will ◄be blown away\f + \ft Or: never \f* be safe►,
+\v 25 When storms come, the wicked will be blown away\f + \ft Or: never be safe \f*,
 \q2 but righteous people will be safe forever. 
 \b
 \q
@@ -124,17 +124,17 @@ them\add*, and that causes them to be happy\f + \ft Or: joyful \f*;
 \q2 but when wicked people confidently expect something good to happen, it does not happen.
 \b
 \q
-\v 29 Yahweh protects \\f + \\ft metaphor \\f* those who conduct their lives righteously,
+\v 29 Yahweh protects \f + \ft metaphor \f* those who conduct their lives righteously,
 \q2 but he destroys those who do what is evil. 
 \b
 \q
-\v 30 Righteous people will always be secure \\f + \\ft litotes \\f*, 
-\q2 but wicked people will be removed from their land (OR, from this earth) \f*.
+\v 30 Righteous people will always be secure \f + \ft litotes \f*, 
+\q2 but wicked people will be removed from their land (OR, from this earth \f*.
 \b
 \q
-\v 31 Righteous people \\f + \\ft metonymy \\f* say things that are wise, 
-\q2 but \add God\add* will shut the mouths of people \\f + \\ft metonymy \\f* who say what is not true.
+\v 31 Righteous people \f + \ft metonymy \f* say things that are wise, 
+\q2 but \add God\add* will shut the mouths of people \f + \ft metonymy \f* who say what is not true.
 \b
 \q
-\v 32 Righteous people \\f + \\ft metonymy \\f* know what to say that is acceptable,
-\q2 but wicked people \\f + \\ft metonymy \\f* are constantly saying things that are not true.
+\v 32 Righteous people \f + \ft metonymy \f* know what to say that is acceptable,
+\q2 but wicked people \f + \ft metonymy \f* are constantly saying things that are not true.

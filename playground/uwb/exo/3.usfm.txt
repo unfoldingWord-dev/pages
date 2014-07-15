@@ -3,9 +3,9 @@
 \p
 \v 1 Moses\f + \ft Or: I \f* was taking care of the sheep that belonged to his\f + \ft Or: my \f* father-in-law Jethro, the priest of the Midian
 \add people\add*. He\f + \ft Or: I \f* led the flock across the desert and came to Horeb,
-\add the mountain\add* \add that was later called Sinai\add*, the ◄mountain that
-\add was dedicated to\add* God\f + \ft Or: taboo \f* mountain►. 
-\v 2  \add One day\add* Yahweh ◄appeared\f + \ft Or: revealed \f* himself► to him\f + \ft Or: me \f*,
+\add the mountain\add* \add that was later called Sinai\add*, the mountain that
+\add was dedicated to\add* God\f + \ft Or: taboo mountain \f*. 
+\v 2  \add One day\add* Yahweh appeared\f + \ft Or: revealed himself \f* to him, Or: me,
 \add looking like\add* an angel. The angel appeared as a flame of fire in the midst of a bush
 \add that was burning\add*. Moses\f + \ft Or: I \f* looked at it, and he was surprised that the bush was burning, but it was not burning up.
 \v 3 Moses\f + \ft Or: I \f* said, “I will go closer and try to see this strange sight! Why is the bush not burning up?”
@@ -19,19 +19,19 @@ off your sandals \add to show respect to me\add*.”
 \add that God would kill him if\add* he looked at God. 
 \p
 \v 7 Then Yahweh said, “I have seen how cruelly \add they are treating\add* my people in Egypt. I have heard them
-◄wailing\f + \ft Or: crying \f* out► \add for help\add* because of what the slave-drivers
+wailing\f + \ft Or: crying out \f* \add for help\add* because of what the slave-drivers
 \add are forcing them to do\add*. I know how my people are suffering.
-\v 8 So I have come down \add from heaven\add* to rescue them from the Egyptians \\f + \\ft synecdoche \\f*. I have come to bring them up from that
+\v 8 So I have come down \add from heaven\add* to rescue them from the Egyptians \f + \ft synecdoche \f*. I have come to bring them up from that
 land \add to the highlands of Canaan\add*. I will bring them to a land that is good\f + \ft Or: fertile \f* and that has plenty of space. It
-will be very good for raising livestock and growing crops \\f + \\ft metonymy \\f*. It is the land where the descendants of Canaan, Heth, Amor,
+will be very good for raising livestock and growing crops \f + \ft metonymy \f*. It is the land where the descendants of Canaan, Heth, Amor,
 Periz, Hiv, and Jebus \add live\add*. 
-\v 9 Truly I have now heard my Israeli people crying \\f + \\ft personification \\f*. I have seen how the Egyptians oppress them.
+\v 9 Truly I have now heard my Israeli people crying \f + \ft personification \f*. I have seen how the Egyptians oppress them.
 \v 10 So go \add back\add* to Egypt. I am sending you to the king, in order that
 \add he may permit\add* you to bring my people, the Israeli people, out of Egypt.”
 \p
-\v 11 But Moses\f + \ft Or: I \f* replied to God, “I have no status \\f + \\ft rhetorical question \\f*! ◄I cannot go to the king and
+\v 11 But Moses\f + \ft Or: I \f* replied to God, “I have no status \f + \ft rhetorical question \f*! ◄I cannot go to the king and
 \add ask him to permit me\add* to bring the Israeli people out of Egypt!\f + \ft Or: How \f* can I go to the king and
-\add ask him to allow me\add* to bring the Israeli people out of Egypt?►” \\f + \\ft rhetorical question \\f*
+\add ask him to allow me\add* to bring the Israeli people out of Egypt?►” \f + \ft rhetorical question \f*
 \v 12 He said, “I will be with you. And when you bring \add my\add* people out of Egypt, all of you will worship me
 \add right\add* here on this mountain. That will prove that I am the one who sent you
 \add to them\add*.” 
@@ -52,19 +52,19 @@ your ancestors \add worshiped\add*, the one Abraham, Isaac, and Jacob
 you. 
 \v 17 I promise that I will rescue you from being oppressed in Egypt, and
 \add I will take you\add* to the land where the descendants of Canaan, Heth, Amor, Periz, Hiv, and Jebus
-\add live\add*. It is a land good for raising livestock and growing crops \\f + \\ft metonymy \\f*.” ’
+\add live\add*. It is a land good for raising livestock and growing crops \f + \ft metonymy \f*.” ’
 \v 18 My people will do what you say. Then you and the Israeli elders\f + \ft Or: leaders \f* will go to the king of Egypt, and you will say to
 him, ‘Yahweh, who is God, the one we Hebrews \add worship\add*, has revealed himself to us. So now we ask you, allow us to
 travel for three days to \add a place in\add* the desert, in order that there we may offer sacrifices to Yahweh, our God.’
 \v 19 But I know that the king of Egypt will allow you to go only if he realizes I am
-\add more\add* powerful \\f + \\ft metonymy \\f* \add than he is\add*. 
-\v 20 So I will use my power \\f + \\ft metonymy \\f* to strike\f + \ft Or: punish \f* \add the people
-of\add* Egypt \\f + \\ft metonymy \\f* by performing many miracles there. Then he will allow you to leave.
+\add more\add* powerful \f + \ft metonymy \f* \add than he is\add*. 
+\v 20 So I will use my power \f + \ft metonymy \f* to strike\f + \ft Or: punish \f* \add the people
+of\add* Egypt \f + \ft metonymy \f* by performing many miracles there. Then he will allow you to leave.
 \v 21  \add When that happens\add*, I will cause the people of Egypt to respect you.
 \add The result will be that\add* when you leave Egypt, ◄you will not go empty-handed\f + \ft Or: they \f* will give you many
 \add valuable\add* things to take with you►. 
 \v 22  \add At that time\add*, each \add Israeli\add* woman will ask her
-\add Egyptian\add* neighbor and each \add Egyptian\add* woman who is living in her \f + \ft (OR, her neighbor's) \f* house to
+\add Egyptian\add* neighbor and each \add Egyptian\add* woman who is living in her \f + \ft Or: her neighbor's \f* house to
 \add give her\add* some silver and gold jewelry and some \add nice\add* clothes.
 \add She will give them some\add*, and you will put them on your sons and daughters
-\add to take with you\add*. In that way you will ◄take away\f + \ft Or: confiscate \f*► the wealth of the Egyptian people.”
+\add to take with you\add*. In that way you will take away\f + \ft Or: confiscate \f* the wealth of the Egyptian people.”

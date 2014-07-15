@@ -6,11 +6,11 @@
 \q I have given him my Spirit, 
 \q2 and he will make certain that all the people-groups do what is right\f + \ft Or: just \f*.
 \q
-\v 2 He will not \add show his power by\add* shouting \\f + \\ft doublet \\f* 
+\v 2 He will not \add show his power by\add* shouting \f + \ft doublet \f* 
 \q2 or by talking very loudly. 
 \q
-\v 3 He will not get rid of anyone who is \add weak like\add* \\f + \\ft metaphor \\f* a smashed reed,
-\q2 and he will not \add end the life of anyone who is helpless like\add* \\f + \\ft metaphor \\f* someone would extinguish a dimly burning wick
+\v 3 He will not get rid of anyone who is \add weak like\add* \f + \ft metaphor \f* a smashed reed,
+\q2 and he will not \add end the life of anyone who is helpless like\add* \f + \ft metaphor \f* someone would extinguish a dimly burning wick
 \add of an oil lamp\add*. 
 \q He will faithfully\f + \ft Or: continually \f* make sure that judges decide cases justly.
 \q2
@@ -23,7 +23,7 @@ earth.
 \v 5 Yahweh our God created the sky 
 \q2 and spread it out. 
 \q He also created the earth and everything on it. 
-\q2 He gives breath to all the people on the earth and causes them to live \\f + \\ft doublet \\f*.
+\q2 He gives breath to all the people on the earth and causes them to live \f + \ft doublet \f*.
 \q \add And he is the one who says to his special servant\add*, 
 \q
 \v 6 “I, Yahweh, have chosen you 
@@ -34,8 +34,8 @@ earth.
 \q You will be like a light to the other nations. 
 \q
 \v 7 You will enable blind [IDI] people to see, 
-\q2 you will free those who are in prison \f + \ft (OR, who are bound \add by the guilt of their
-sins\add*) \f* \\f + \\ft metaphor \\f* 
+\q2 you will free those who are in prison \f + \ft Or: who are bound \add by the guilt of their
+sins\add* \f* \f + \ft metaphor \f* 
 \q2 and release those who are in dark dungeons. 
 \b
 \q
@@ -61,22 +61,22 @@ sins\add*) \f* \\f + \\ft metaphor \\f*
 \v 12 Even people who live on distant islands should honor Yahweh
 \q2 and sing to praise him. 
 \q
-\v 13  \add It will be as though\add* Yahweh will march out like \\f + \\ft simile \\f* a mighty soldier;
+\v 13  \add It will be as though\add* Yahweh will march out like \f + \ft simile \f* a mighty soldier;
 \q2 he will show that he is very angry. 
 \q He will shout a battle-cry, 
 \q2 and then he will defeat all his enemies. 
 \b
 \q
-\v 14  \add He will say\add*, “I have remained silent \\f + \\ft doublet \\f* for a long time;
+\v 14  \add He will say\add*, “I have remained silent \f + \ft doublet \f* for a long time;
 \q2 I have restrained myself \add from doing what I need to do\add*.
-\q But now, like \\f + \\ft simile \\f* a woman who is giving birth to a baby, I will cry out and gasp and pant.
+\q But now, like \f + \ft simile \f* a woman who is giving birth to a baby, I will cry out and gasp and pant.
 \q
 \v 15 I will level off the hills and mountains, 
 \q2 and I will cause all the plants and trees to dry up. 
 \q I will cause the rivers to become small streams, and little islands will appear in them,
 \q2 and I will cause all the pools to become dry. 
 \q
-\v 16 My people \add who have been taken to Babylonia\add* are like \\f + \\ft metaphor \\f* blind people,
+\v 16 My people \add who have been taken to Babylonia\add* are like \f + \ft metaphor \f* blind people,
 \q2 but I will lead them along a road on which they have not walked before,
 \q on a road that they have not seen before. 
 \q2 They have felt \add very helpless, as though\add* they were walking in the darkness,
@@ -92,13 +92,13 @@ sins\add*) \f* \\f + \\ft metaphor \\f*
 \q
 \v 18 You \add Israeli people who have acted toward God like\add* deaf people, listen
 \add to what Yahweh says\add*! 
-\q2 “You who have been like \\f + \\ft metaphor \\f* blind people, look! 
+\q2 “You who have been like \f + \ft metaphor \f* blind people, look! 
 \q
-\v 19 No people are \\f + \\ft rhetorical question \\f* as blind as my people, who \add should have
+\v 19 No people are \f + \ft rhetorical question \f* as blind as my people, who \add should have
 been\add* serving me. 
-\q2 No people are \\f + \\ft rhetorical question \\f* as much like \\f + \\ft metaphor \\f* deaf people as \add the Israelis, who should have
+\q2 No people are \f + \ft rhetorical question \f* as much like \f + \ft metaphor \f* deaf people as \add the Israelis, who should have
 been\add* my messengers. 
-\q No people are \\f + \\ft rhetorical question \\f* as much like \\f + \\ft metaphor \\f* blind people as those whom I chose to serve me.
+\q No people are \f + \ft rhetorical question \f* as much like \f + \ft metaphor \f* blind people as those whom I chose to serve me.
 \q
 \v 20 You see and know what are the right things to do, but you do not do them.
 \q2 You hear \add what I say to you\add*, but you do not pay attention.”
@@ -106,7 +106,7 @@ been\add* my messengers.
 \v 21 Because Yahweh is righteous, 
 \q2 he has honored his glorious laws. 
 \q
-\v 22 But \add the armies of Babylon have destroyed Jerusalem\add* and have completely ◄plundered\f + \ft Or: taken \f* away► \\f + \\ft doublet \\f* all the
+\v 22 But \add the armies of Babylon have destroyed Jerusalem\add* and have completely plundered\f + \ft Or: taken away \f* \f + \ft doublet \f* all the
 valuable things, 
 \q2 and they have captured Yahweh's people 
 \q2 and taken them away and put them in prison. 
@@ -125,7 +125,7 @@ valuable things,
 \q
 \v 25 Therefore, he was extremely angry with us, 
 \q2 and he caused our soldiers to be destroyed in battles. 
-\q \add It was as though\add* \\f + \\ft metaphor \\f* he lit a fire around us, 
+\q \add It was as though\add* \f + \ft metaphor \f* he lit a fire around us, 
 \q2 but we did not understand \add what he was trying to tell us\add*.
 \q \add His being angry with us was like\add* a fire that would burn us up,
 \q2 but we did not pay attention [IDI]. 

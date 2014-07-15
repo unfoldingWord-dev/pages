@@ -1,7 +1,7 @@
 \c 5  
 \s The descendants of Adam 
 \p
-\v 1 ◄This is\f + \ft Or: I \f* will now give► a list of the descendants of Adam. When God created humans, he caused them to be like him in
+\v 1 This is\f + \ft Or: I will now give \f* a list of the descendants of Adam. When God created humans, he caused them to be like him in
 many ways. 
 \v 2 He created one man and one woman. He blessed them, and on the day that he created them, he called them 'human beings.'
 \v 3 When Adam was 130 years old, he became the father of a son who was just like him. That was the son he named Seth.

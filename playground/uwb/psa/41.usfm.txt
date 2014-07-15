@@ -17,12 +17,12 @@ time\add*.
 \q2 \add I know that I am sick because\add* have sinned against you.”
 \q
 \v 5 My enemies say cruel things about me; 
-\q2 they say, “How soon will he die, and then everyone will forget about him \\f + \\ft metonymy \\f* \f + \ft (OR, he will not have
-\add any descendants to continue\add* his name) \f*?” 
+\q2 they say, “How soon will he die, and then everyone will forget about him \f + \ft metonymy \f* \f + \ft Or: he will not have
+\add any descendants to continue\add* his name \f*?” 
 \q
 \v 6 When my enemies come to me, they falsely say that they \add are concerned about
 me\add*. 
-\q2 They listen to bad news about ◄me\f + \ft Or: my \f* health►. 
+\q2 They listen to bad news about me\f + \ft Or: my health \f*. 
 \q2 Then they go away and tell everywhere what is happening to me.
 \b
 \q
@@ -34,7 +34,7 @@ me\add*.
 \q
 \v 9 Even my best friend, whom I trusted very much, 
 \q2 who often ate with me, 
-\q2 has ◄betrayed me\f + \ft Or: put \f* me into my enemies' hands► [IDI]. 
+\q2 has betrayed me\f + \ft Or: put me into my enemies' hands \f* [IDI]. 
 \b
 \q
 \v 10 But Yahweh, act mercifully to me, and enable me to become healthy again.

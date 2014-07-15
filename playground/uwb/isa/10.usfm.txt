@@ -11,8 +11,8 @@
 \q
 \v 3 When I punish you, 
 \q2 by sending people from distant lands to cause you to experience disasters,
-\q ◄to whom will you run to get help?\f + \ft Or: there \f* will be no one who can help you.► \\f + \\ft rhetorical question \\f*
-\q2 Your valuable possessions will certainly \add not be safe\add* \\f + \\ft rhetorical question \\f* anywhere.
+\q to whom will you run to get help?\f + \ft Or: there will be no one who can help you. \f* \f + \ft rhetorical question \f*
+\q2 Your valuable possessions will certainly \add not be safe\add* \f + \ft rhetorical question \f* anywhere.
 \q
 \v 4 You will be able only to stumble along as you are taken away with other prisoners,
 \q2 or else your corpses will lie on the ground with others who have been killed.
@@ -22,14 +22,14 @@
 \s A warning to Assyria 
 \q
 \v 5  \add Yahweh says\add*, “Terrible things will happen to Assyria.
-\q2 \add It is true that their army\add* is like a rod\f + \ft Or: club \f* \\f + \\ft doublet \\f* with which I
+\q2 \add It is true that their army\add* is like a rod\f + \ft Or: club \f* \f + \ft doublet \f* with which I
 \add punish other nations\add* 
-\q2 because I am very angry with those nations \\f + \\ft doublet \\f*. 
+\q2 because I am very angry with those nations \f + \ft doublet \f*. 
 \q
 \v 6 Sometimes I send them to attack a godless nation, 
 \q2 to fight against other people who have caused me to be angry.
 \q I send them to capture people and to seize and take away their possessions,
-\q2 and to trample them like \\f + \\ft simile \\f* people walk on mud in the streets.
+\q2 and to trample them like \f + \ft simile \f* people walk on mud in the streets.
 \q
 \v 7 But the \add king of Assyria\add* does not understand, 
 \q2 he does not realize \add that he is only like a weapon in my
@@ -52,41 +52,41 @@ conquer\add*!
 \q2 just like we destroyed Samaria and the idols that were there!’
 \p
 \v 12 But, \add I, Yahweh, say that\add* after I \add have used Assyria
-to\add* finish what I want to do to punish the people in Jerusalem \\f + \\ft doublet \\f*, I will punish the king of Assyria because he has been
-very proud and arrogant\f + \ft Or: boastful \f* \\f + \\ft doublet \\f*. 
+to\add* finish what I want to do to punish the people in Jerusalem \f + \ft doublet \f*, I will punish the king of Assyria because he has been
+very proud and arrogant\f + \ft Or: boastful \f* \f + \ft doublet \f*. 
 \q
-\v 13 He says, ‘By my own great power \\f + \\ft metonymy \\f* I have done these things.
+\v 13 He says, ‘By my own great power \f + \ft metonymy \f* I have done these things.
 \q2 I have been able to do them because I am very wise and very intelligent.
 \q My army removed the barriers \add at the borders\add* of nations
 \q2 and carried away all their valuable things. 
-\q My army has knocked down their kings like \\f + \\ft simile \\f* a ferocious bull would.
+\q My army has knocked down their kings like \f + \ft simile \f* a ferocious bull would.
 \q
-\v 14 Like \\f + \\ft metaphor \\f* a farmer reaches into a bird's nest \add to take away the
+\v 14 Like \f + \ft metaphor \f* a farmer reaches into a bird's nest \add to take away the
 eggs\add*, 
-\q2 we have taken away the treasures of other countries \\f + \\ft doublet \\f*. 
+\q2 we have taken away the treasures of other countries \f + \ft doublet \f*. 
 \q The people were not like birds that would flap their wings or chirp loudly
 \add to protest about their eggs being stolen\add*; 
 \q2 the people did not object at all \add to their treasures being
 stolen\add*.’ 
 \b
 \q
-\v 15 But \add I, Yahweh, say that\add* an axe certainly cannot \\f + \\ft rhetorical question \\f* boast about being stronger than the person who uses it,
+\v 15 But \add I, Yahweh, say that\add* an axe certainly cannot \f + \ft rhetorical question \f* boast about being stronger than the person who uses it,
 \q2 and a saw is not greater than the person who uses it. 
-\q A rod cannot control the one who holds it \\f + \\ft rhetorical question \\f*, 
-\q2 and a wooden club cannot lift up a person \\f + \\ft rhetorical question \\f*. 
+\q A rod cannot control the one who holds it \f + \ft rhetorical question \f*, 
+\q2 and a wooden club cannot lift up a person \f + \ft rhetorical question \f*. 
 \q \add So the king of Assyria should not boast that he has done these things with his own wisdom and
 strength\add*. 
 \q
 \v 16 And I, the Almighty Commander of the armies of angels, will send a plague among the proud soldiers of Assyria;
-\q2 it will be like \\f + \\ft metaphor \\f* a fire that will kill them and get rid of their glory\f + \ft Or: wealth \f*.
+\q2 it will be like \f + \ft metaphor \f* a fire that will kill them and get rid of their glory\f + \ft Or: wealth \f*.
 \q
-\v 17 I, Yahweh, who am like \\f + \\ft metaphor \\f* a light for the people of Israel, will be the fire;
+\v 17 I, Yahweh, who am like \f + \ft metaphor \f* a light for the people of Israel, will be the fire;
 \q2 I, the Holy One, will be like a flame. 
-\q \add The soldiers of Assyria are like\add* \\f + \\ft metaphor \\f* thorns and briers,
+\q \add The soldiers of Assyria are like\add* \f + \ft metaphor \f* thorns and briers,
 \q2 and I will burn them up in one night. 
 \q
 \v 18 There are glorious forests and fertile farmlands in Assyria, but I will completely destroy them;
-\q2 they will be like \\f + \\ft simile \\f* a very sick person who shrivels up and then dies.
+\q2 they will be like \f + \ft simile \f* a very sick person who shrivels up and then dies.
 \q
 \v 19 There will be very few trees left in those forests; 
 \q2 even a child will be able to count them.” 
@@ -119,11 +119,11 @@ exiled\add*.
 \v 26 The Almighty Commander of the armies of angels will strike them with his whip.
 \q2 He will do to them like he did when he helped Gideon \add and his 300
 soldiers\add* to defeat the \add army of the\add* Midian people-group
-\q2 and like he did when he showed his mighty power\\f + \\ft metonymy \\f* \add by causing the army of Egypt to
+\q2 and like he did when he showed his mighty power\f + \ft metonymy \f* \add by causing the army of Egypt to
 drown\add* in the \add Red\add* Sea. 
 \q
 \v 27 Some day, Yahweh will cause the army of Assyria to stop oppressing you, his people;
-\q2 he will end your suffering and your being slaves of the people of Assyria \\f + \\ft metaphor \\f*;
+\q2 he will end your suffering and your being slaves of the people of Assyria \f + \ft metaphor \f*;
 \q he will take away the load that you people of Judah have been carrying,
 \q2 and cause things to go well for you. 
 \s The Assyrians will invade Judah 
@@ -155,8 +155,8 @@ Jerusalem\add*.
 \b
 \q
 \v 33 But listen to this! The Almighty Commander of the armies of angels
-\q2 with his great power will destroy \\f + \\ft metaphor \\f* the mighty army of Assyria.
-\q \add It is as though they are\add* a huge tree \\f + \\ft metaphor \\f* that he will cut down.
+\q2 with his great power will destroy \f + \ft metaphor \f* the mighty army of Assyria.
+\q \add It is as though they are\add* a huge tree \f + \ft metaphor \f* that he will cut down.
 \q
 \v 34 He will destroy the \add soldiers of Assyria\add* 
 \q2 like men use big axes to cut down the tall trees in the forests of Lebanon.

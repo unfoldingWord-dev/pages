@@ -1,7 +1,7 @@
 \c 8  
 \s Wisdom calls to us 
 \q
-\v 1 It is as if wisdom, with great understanding \add of many things\add*, is calling \\f + \\ft personification \\f* out
+\v 1 It is as if wisdom, with great understanding \add of many things\add*, is calling \f + \ft personification \f* out
 \add to people\add*. 
 \q
 \v 2 Wisdom stands on hilltops and at crossroads. 
@@ -18,7 +18,7 @@
 \q2 What I say is what is fair\f + \ft Or: right \f*. 
 \q
 \v 7 I speak what is true; 
-\q2 I detest speaking \\f + \\ft metonymy \\f* what is false\f + \ft Or: deceptive \f*. 
+\q2 I detest speaking \f + \ft metonymy \f* what is false\f + \ft Or: deceptive \f*. 
 \q
 \v 8 Everything that I say is honest; 
 \q2 there is nothing that I say that deceives people. 
@@ -90,7 +90,7 @@ world\add*;
 \q2 so that the water in the seas would not go past those boundaries,
 \q and when he put down the foundations which support the earth.
 \q2
-\v 30 I was at the side of Yahweh, the master worker \f + \ft (OR, as though I was his child) \f*.
+\v 30 I was at the side of Yahweh, the master worker \f + \ft Or: as though I was his child \f*.
 \q I caused him to be happy every day, and I was always rejoicing when I was with him.
 \q
 \v 31 I was delighted with the world that he created; 
@@ -111,4 +111,4 @@ out\add*.
 \q2 and Yahweh will be pleased with them. 
 \q
 \v 36 But those who stray away from me just harm themselves. 
-\q2 All those who hate me, \add it is as though\add* \\f + \\ft irony \\f* they are loving death.”
+\q2 All those who hate me, \add it is as though\add* \f + \ft irony \f* they are loving death.”

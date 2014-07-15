@@ -6,23 +6,23 @@
 \add also\add* sold some land. 
 \v 2 He kept for himself some of the money \add he had received for the
 land\add*, and his wife knew that he had done that. Then he brought the rest of the money and presented it to the apostles
-\\f + \\ft metonymy \\f*. 
+\f + \ft metonymy \f*. 
 \s Acts 5:3-6 
 \s People were terrified when they saw or heard that Ananias had died.
 \p
-\v 3 Then Peter said, “Ananias, you\add (sg)\add* let Satan completely control you \\f + \\ft metonymy \\f* so that
-you\add (sg) tried to\add* deceive the Holy Spirit \add and us(exc)\add*. ◄That
-was\add terrible!\f + \ft Or: Why \f* did you do such a terrible thing\add*?► \\f + \\ft rhetorical question \\f*
+\v 3 Then Peter said, “Ananias, you\add (sg)\add* let Satan completely control you \f + \ft metonymy \f* so that
+you\add (sg) tried to\add* deceive the Holy Spirit \add and us(exc)\add*. That
+was\add terrible!\f + \ft Or: Why did you do such a terrible thing\add*? \f* \f + \ft rhetorical question \f*
 \add You\add* have kept for yourself some of the money you\add (sg)\add* received for
 \add selling\add* the land, \add pretending that you(sg) were giving us all of
 it\add*. 
-\v 4 Before you\add (sg)\add* sold that land, you truly owned \\f + \\ft rhetorical question \\f* it. And after you sold it, you could \\f + \\ft rhetorical question \\f* certainly still
+\v 4 Before you\add (sg)\add* sold that land, you truly owned \f + \ft rhetorical question \f* it. And after you sold it, you could \f + \ft rhetorical question \f* certainly still
 have used the money any way you wanted \add to\add*. So why did you\add (sg)
-ever\add* think \\f + \\ft rhetorical question \\f* about doing this \add wicked\add* thing? You were not
+ever\add* think \f + \ft rhetorical question \f* about doing this \add wicked\add* thing? You were not
 \add merely trying to\add* deceive us! No, \add you tried to deceive\add* God
 \add himself!\add*” 
 \v 5 When Ananias heard that, \add immediately\add* he fell down dead. So all
-\add who were there\add* who heard \add about Ananias' death\add* became terrified \\f + \\ft personification \\f*.
+\add who were there\add* who heard \add about Ananias' death\add* became terrified \f + \ft personification \f*.
 \v 6 Some young men came in, wrapped his \add body\add* \add with a
 sheet\add*, and carried it out \add and\add* buried it. 
 \s Acts 5:7-11 
@@ -33,16 +33,16 @@ sheet\add*, and carried it out \add and\add* buried it.
 brought\add*, he asked her, “Tell me, is this the amount \add of money you two received
 for\add* the land you sold?” She said, “Yes, that's \add what we(exc)
 received\add*.” 
-\v 9 So Peter said to her, “\add You both did a terrible thing!\add* You two agreed \\f + \\ft rhetorical question \\f* to try to determine if you could do
+\v 9 So Peter said to her, “\add You both did a terrible thing!\add* You two agreed \f + \ft rhetorical question \f* to try to determine if you could do
 that without the Spirit of the Lord \add God\add* revealing \add to anyone that you two tried to deceive
-them!\add* Listen! \add Do you(sg) hear the\add* footsteps \\f + \\ft synecdoche \\f* of the men who buried your husband? They are right outside
+them!\add* Listen! \add Do you(sg) hear the\add* footsteps \f + \ft synecdoche \f* of the men who buried your husband? They are right outside
 this door, and they will carry your \add corpse\add* out \add to bury it,
 too\add*!” 
 \v 10 Immediately Sapphira fell down dead at Peter's feet. Then the young men came in. When they saw that she was dead, they
 carried her \add body\add* out and buried it beside her husband's
 \add body\add*. 
 \p
-\v 11 So all the believers \add in Jerusalem\add* became greatly frightened \\f + \\ft personification \\f*
+\v 11 So all the believers \add in Jerusalem\add* became greatly frightened \f + \ft personification \f*
 \add because of what God had done to Ananias and Sapphira. And\add* all
 \add the others\add* who heard \add people tell about\add* those things also
 \add became greatly frightened\add*. 
@@ -108,18 +108,18 @@ apostles\add*.
 \p
 \v 27 After \add the captain and his officers\add* had brought \add the apostles to the Council
 room\add*, they commanded them to stand in front of the Council members, and the high priest questioned them.
-\v 28 He said to them\add accusingly\add*, “We\add (exc)\add* strongly commanded you not to teach people about that man \\f + \\ft metonymy \\f*
+\v 28 He said to them\add accusingly\add*, “We\add (exc)\add* strongly commanded you not to teach people about that man \f + \ft metonymy \f*
 \add Jesus\add*! But \add you have disobeyed us, and\add* you have taught people all over Jerusalem
 \add about him!\add* Furthermore, you are trying to make it seem that
-we\add (exc)\add* are the ones who are guilty \\f + \\ft metonymy \\f* for that man's death!”
+we\add (exc)\add* are the ones who are guilty \f + \ft metonymy \f* for that man's death!”
 \v 29 But Peter, \add speaking for himself\add* and the other apostles, replied,
 “We\add (exc)\add* have to obey \add what\add* God \add commands us to
 do\add*, not what \add you\add* people \add tell us to do\add*! 
 \v 30 God considers that you are the ones who killed Jesus by nailing him to a cross! But God, whom our ancestors
-\add worshipped\add*, ◄caused Jesus to become alive again after he died\f + \ft Or: raised \f* Jesus from the dead►.
+\add worshipped\add*, caused Jesus to become alive again after he died\f + \ft Or: raised Jesus from the dead \f*.
 \v 31 God has greatly honored Jesus. \add He has taken him up to heaven! He has authorized
 him\add* to be the one who will save us and to rule \add over our lives! God did
-this\add* so that he might enable \add us\add* Israelites \\f + \\ft metonymy \\f* to turn away from
+this\add* so that he might enable \add us\add* Israelites \f + \ft metonymy \f* to turn away from
 \add our\add* sinful behavior and \add that he might\add* forgive
 \add us for our sins\add*. 
 \v 32 We\add (exc)\add* tell people about these things \add that we know happened to
@@ -141,7 +141,7 @@ government\add*. He told people that he was an important person, and about four 
 \add him. But he was killed\add* {\add soldiers\add* killed him} and all those who had been accompanying him were scattered.
 \add So they\add* were not able to do anything \add that they had
 planned\add*. 
-\v 37 After that, during the time when they were ◄writing down names of the people\f + \ft Or: taking \f* the census►
+\v 37 After that, during the time when they were writing down names of the people\f + \ft Or: taking the census \f*
 \add in order to tax people, a man named\add* Judas from Galilee
 \add province\add* rebelled \add against the Roman government\add*. He persuaded some people to accompany him. But
 \add soldiers\add* killed him, too, and all those who had accompanied him went off in different directions.
@@ -153,12 +153,12 @@ planned\add*.
 Gamaliel said. 
 \v 40 They told the \add temple guards to bring the apostles and beat\f + \ft Or: flog \f* them. So the
 guards\add* brought them \add into the Council room\add* and beat\f + \ft Or: flogged \f* them. Then the Council members commanded them not to
-speak to people about \\f + \\ft metonymy \\f* Jesus, and they released the apostles.
+speak to people about \f + \ft metonymy \f* Jesus, and they released the apostles.
 \s Acts 5:41-42 
 \s The apostles rejoiced and continued to tell others about Jesus.
 \p
 \v 41 So the apostles went out from the Council. They were rejoicing, because
-\add they knew God\add* had honored them \add by letting people\add* disgrace them because they were followers \\f + \\ft metonymy \\f* of Jesus.
+\add they knew God\add* had honored them \add by letting people\add* disgrace them because they were followers \f + \ft metonymy \f* of Jesus.
 \v 42 And every day \add the apostles went to\add* the temple \add area\add* and to various
-\add people's\add* houses, \add and\add* they continued \\f + \\ft litotes \\f* teaching
+\add people's\add* houses, \add and\add* they continued \f + \ft litotes \f* teaching
 \add people\add* and telling \add them\add* that Jesus is the Messiah.

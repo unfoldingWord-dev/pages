@@ -2,9 +2,9 @@
 \s Eliphaz continued replying to Job 
 \q
 \v 1 “Job, \add it is okay that you\add* continue to cry out for someone to help you,
-\q2 but \add I am certain that\add* \\f + \\ft rhetorical question \\f* no angel will come to help you!
+\q2 but \add I am certain that\add* \f + \ft rhetorical question \f* no angel will come to help you!
 \q
-\v 2 Foolish people die because of being ◄resentful\f + \ft Or: very \f* angry at someone►;
+\v 2 Foolish people die because of being resentful\f + \ft Or: very angry at someone \f*;
 \q2 people who are easily deceived are destroyed by their being jealous
 \add of others\add*. 
 \q
@@ -12,7 +12,7 @@
 \q2 but suddenly \add they experienced disaster\f + \ft Or: trouble \f* because\add* I cursed their home.
 \q
 \v 4 Their sons are never safe; 
-\q2 they ◄lose their case\f + \ft Or: are \f* condemned► when someone ◄takes them to court\f + \ft Or: sues \f* them►
+\q2 they lose their case\f + \ft Or: are condemned► when someone ◄takes them to court, Or: sues them \f*
 \q2 because there is no one to defend them. 
 \q
 \v 5 Hungry people \add steal\add* the crops that foolish people harvest, and eat those crops;
@@ -28,7 +28,7 @@
 \q
 \v 8 If I were \add suffering like\add* you are, I would ask God
 \add for help\add* 
-\q2 and tell him ◄what I am complaining about\f + \ft Or: about \f* my suffering►.
+\q2 and tell him what I am complaining about\f + \ft Or: about my suffering \f*.
 \q
 \v 9 He does great things, things that we cannot understand; 
 \q2 we cannot even count the marvelous things that he does. 
@@ -37,20 +37,20 @@
 \q2 he sends water on our fields. 
 \q
 \v 11 He exalts those who are humble, 
-\q2 and causes those who mourn to be joyful \f + \ft (OR, safe, prosperous) \f*.
+\q2 and causes those who mourn to be joyful \f + \ft Or: safe, prosperous \f*.
 \q
 \v 12 He causes crafty\f + \ft Or: cunning \f* people to not be able to do what they plan to do,
 \q2 with the result that they achieve nothing. 
 \q
-\v 13 He causes people who \add think that they are\add* \\f + \\ft irony \\f* wise to be trapped by the cunning things they try to do,
+\v 13 He causes people who \add think that they are\add* \f + \ft irony \f* wise to be trapped by the cunning things they try to do,
 \q2 with the result that they do not succeed. 
 \q
 \v 14  \add It is as though\add* even in the daytime they are covered by darkness,
 \q2 and grope around \add trying to find the road\add* at noontime like people do at night.
 \q
 \v 15 But God saves helpless people from being harmed by what \add wicked
-people\add* say \\f + \\ft metonymy \\f*, 
-\q2 he saves needy people from being injured by \\f + \\ft metonymy \\f* powerful people.
+people\add* say \f + \ft metonymy \f*, 
+\q2 he saves needy people from being injured by \f + \ft metonymy \f* powerful people.
 \q
 \v 16 So, poor people confidently expect \add that good things will happen to
 them\add* 
@@ -61,15 +61,15 @@ them\add*
 \q2 so do not despise\f + \ft Or: dislike \f* it when \add God\add* who is all-powerful disciplines you.
 \q
 \v 18 He wounds people, but then he puts bandages on those wounds;
-\q2 he hurts people, but he \\f + \\ft synecdoche \\f* also heals them. 
+\q2 he hurts people, but he \f + \ft synecdoche \f* also heals them. 
 \q
 \v 19 He will rescue you many times from your troubles, 
 \q2 with the result that nothing evil will happen to you. 
 \q
 \v 20 When there is a famine, he will not allow you to die, 
-\q2 and when there is a war, you will not be killed \\f + \\ft metonymy \\f*. 
+\q2 and when there is a war, you will not be killed \f + \ft metonymy \f*. 
 \q
-\v 21 God will protect you when people slander \\f + \\ft metonymy \\f* you; 
+\v 21 God will protect you when people slander \f + \ft metonymy \f* you; 
 \q2 you will not be afraid when many things \add around you\add* are destroyed.
 \q
 \v 22 You will \add be able to\add* laugh\f + \ft Or: scoff \f* when things are destroyed and when there is famine,
@@ -80,7 +80,7 @@ them\add*
 \q2 and you will not worry about \add being attacked by\add* wild animals there.
 \q
 \v 24 In your tent, you will know that things will go well for you,
-\q2 and when you look at your livestock, you will see that ◄they are all there\f + \ft Or: none \f* of them is missing►.
+\q2 and when you look at your livestock, you will see that they are all there\f + \ft Or: none of them is missing \f*.
 \q
 \v 25 You will be sure that you will have many descendants, 
 \q2 who will be as numerous as blades of grass. 

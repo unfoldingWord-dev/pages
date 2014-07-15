@@ -2,7 +2,7 @@
 \s A psalm that is to be sung on Sabbath days 
 \q
 \v 1 Yahweh, it is good for people to thank you 
-\q2 and to sing to praise you \\f + \\ft metonymy \\f* who are greater than any other god.
+\q2 and to sing to praise you \f + \ft metonymy \f* who are greater than any other god.
 \q
 \v 2 It is good to proclaim every morning that you faithfully love us,
 \q2 and each night \add to sing songs that\add* declare that you always do what you have promised to do,
@@ -12,7 +12,7 @@
 \b
 \q
 \v 4 Yahweh, you have caused me to be glad; 
-\q2 I sing joyfully because of what you \\f + \\ft synecdoche \\f* have done. 
+\q2 I sing joyfully because of what you \f + \ft synecdoche \f* have done. 
 \q
 \v 5 Yahweh, the things that you do are great! 
 \q2 But it is difficult for us to understand \add all\add* that you think.
@@ -21,26 +21,26 @@
 \q2 things that stupid people cannot understand. 
 \q
 \v 7 They do not understand that although the number of wicked people increases
-\add like blades of\add* grass do \\f + \\ft simile \\f*, 
+\add like blades of\add* grass do \f + \ft simile \f*, 
 \q2 and those who do what is evil prosper, 
 \q they will be completely destroyed. 
 \b
 \q
-\v 8 But Yahweh, you will ◄be exalted\f + \ft Or: be \f* honored\f + \ft Or: rule \f*► forever. 
+\v 8 But Yahweh, you will be exalted\f + \ft Or: be honored, Or: rule \f* forever. 
 \b
 \q
 \v 9 Yahweh, your enemies will \add certainly\add* die, 
 \q2 and those who do wicked things will be defeated\f + \ft Or: scattered \f*. 
 \q
-\v 10 But you have caused me to be as strong \\f + \\ft metonymy \\f* as \\f + \\ft simile \\f* a wild ox;
-\q you have caused me to be very joyful \\f + \\ft metonymy \\f*. 
+\v 10 But you have caused me to be as strong \f + \ft metonymy \f* as \f + \ft simile \f* a wild ox;
+\q you have caused me to be very joyful \f + \ft metonymy \f*. 
 \q
-\v 11 I \\f + \\ft synecdoche \\f* have seen you defeat my enemies, 
+\v 11 I \f + \ft synecdoche \f* have seen you defeat my enemies, 
 \q2 and I have heard those evil men wail\f + \ft Or: scream \f* while they were being slaughtered.
 \b
 \q
 \v 12 But righteous people will prosper like [SIL] palm trees that grow well,
-\q2 or like \\f + \\ft simile \\f* cedar trees that grow in Lebanon. 
+\q2 or like \f + \ft simile \f* cedar trees that grow in Lebanon. 
 \q
 \v 13  \add They are like the trees\add* that grow near the temple of Yahweh
 \add in Jerusalem\add*, 
@@ -48,7 +48,7 @@
 \q
 \v 14 Even when righteous people become old, they do many things [IDI]
 \add that please God\add*. 
-\q2 They remain strong and full of energy, \add like trees that\add* \\f + \\ft metaphor \\f* remain full of sap.
+\q2 They remain strong and full of energy, \add like trees that\add* \f + \ft metaphor \f* remain full of sap.
 \q2
 \v 15 That shows that Yahweh is just; 
 \q2 he is like a huge rock \add under which I am safe\f + \ft Or: protected \f*\add*,

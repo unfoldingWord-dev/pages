@@ -5,7 +5,7 @@
 \q2 my grave is waiting for me. 
 \q
 \v 2 Those who are around me are making fun of me; 
-\q2 I \\f + \\ft synecdoche \\f* watch them while they taunt\f + \ft Or: belittle \f* me.” 
+\q2 I \f + \ft synecdoche \f* watch them while they taunt\f + \ft Or: belittle \f* me.” 
 \s Job pleads with God 
 \q
 \v 3 “God, \add it is as though I am in prison\add*; 
@@ -27,13 +27,13 @@ me\add*.
 \v 6 But now people use that saying of our ancestors when they talk about me;
 \q2 they spit in my face \add to insult me\add*. 
 \q
-\v 7 ◄My eyes have become dim\f + \ft Or: I \f* cannot see well► because I am extremely sad,
+\v 7 My eyes have become dim\f + \ft Or: I cannot see well \f* because I am extremely sad,
 \q2 and my arms and legs are \add very thin, with the result that they almost do not
-cast\add* \\f + \\ft metaphor \\f* a shadow. 
+cast\add* \f + \ft metaphor \f* a shadow. 
 \q
 \v 8 Those who \add say that they\add* are good\f + \ft Or: righteous \f* are shocked
 \add when they see what has happened to me\add*, 
-\q2 and people who \add say that they\add* ◄are innocent\f + \ft Or: have \f* not done anything that is wrong► say that I am wicked\f + \ft Or: godless \f* and
+\q2 and people who \add say that they\add* are innocent\f + \ft Or: have not done anything that is wrong \f* say that I am wicked, Or: godless and
 should be punished. 
 \q
 \v 9 Those who \add claim that they\add* are righteous will continue to do what
@@ -47,7 +47,7 @@ me\add*,
 \q2 I would not find one among them who is wise. 
 \q
 \v 11 My time to live is almost ended; I have not been able to do the things that I planned to do;
-\q2 \add I have not been able to accomplish anything that\add* I \\f + \\ft synecdoche \\f* desired.
+\q2 \add I have not been able to accomplish anything that\add* I \f + \ft synecdoche \f* desired.
 \q
 \v 12 My friends do not know when it is night and when it is day;
 \q2 when it is night, they claim that it is daylight; 
@@ -61,10 +61,10 @@ me\add*,
 \add because that is where I will always be\add*.’ 
 \q
 \v 15 But if I say those things, ◄will there be anything good that I can confidently expect to happen to me?\f + \ft Or: there \f* will be
-nothing good that I can confidently expect to happen to me.► \\f + \\ft rhetorical question \\f*
+nothing good that I can confidently expect to happen to me.► \f + \ft rhetorical question \f*
 \q2 ◄Is there anyone who knows anything good that I can expect when I am there?\f + \ft Or: No \f* one knows anything good that I can expect
-when I am there.► \\f + \\ft rhetorical question \\f* 
+when I am there.► \f + \ft rhetorical question \f* 
 \q
 \v 16 After I descend to the place where the dead are, ◄will I be able to confidently expect anything good there?\f + \ft Or: I \f* certainly
-will not be able to confidently expect anything good there.► \\f + \\ft rhetorical question \\f*
-\q2 \add It will be as though\add* \\f + \\ft rhetorical question \\f* I and the things I hope for will descend with me into the dust.”
+will not be able to confidently expect anything good there.► \f + \ft rhetorical question \f*
+\q2 \add It will be as though\add* \f + \ft rhetorical question \f* I and the things I hope for will descend with me into the dust.”

@@ -2,11 +2,11 @@
 \s A warning about the Assyrian attack 
 \p
 \v 1 Then Yahweh said to me, “Make a large signboard. And write clearly on it, ‘Maher-Shalal-Hash-Baz’
-\add which means 'quickly ◄plunder\f + \ft Or: take \f* by force► and steal everything'\add*.”
+\add which means 'quickly plunder\f + \ft Or: take by force \f* and steal everything'\add*.”
 \v 2 So I requested Uriah the Supreme Priest and Jeberekiah's son Zechariah, men who were both honest\f + \ft Or: trustworthy \f* witnesses, to
 watch me as I was doing that. 
 \p
-\v 3 Then I had sex with \\f + \\ft euphemism \\f* my wife, who was a prophetess, and she became pregnant and then gave birth to a son. Then Yahweh
+\v 3 Then I had sex with \f + \ft euphemism \f* my wife, who was a prophetess, and she became pregnant and then gave birth to a son. Then Yahweh
 said to me, “Give him the name Maher-Shalal-Hash-Baz, 
 \v 4 because before he is old enough to say ‘papa’ or ‘mama’, the king of Assyria will
 \add come with his army and\add* take away all the valuable things in Damascus and in Samaria.”
@@ -16,7 +16,7 @@ Judah,\add*
 \q
 \v 6  \add I have taken good care of\add* you people, 
 \q2 but you have rejected that, \add thinking that\add* my help was very small,
-\q like \\f + \\ft metaphor \\f* the small canal through which water flows from the Gihon Spring into Jerusalem.
+\q like \f + \ft metaphor \f* the small canal through which water flows from the Gihon Spring into Jerusalem.
 \q2 Instead, you have been happy \add to request help from\add* King Rezin and King Pekah.
 \q
 \v 7 Therefore, I will cause the people of Judah to be attacked by
@@ -25,7 +25,7 @@ Judah,\add*
 \q2 Their soldiers will \add be everywhere in your country\add*, like a river that overflows all its banks.
 \q
 \v 8 Those soldiers will go all over Judah - 
-\q2 \add like a river whose water\add* \\f + \\ft metaphor \\f* rises as high as a person's neck.
+\q2 \add like a river whose water\add* \f + \ft metaphor \f* rises as high as a person's neck.
 \q Their army will spread over the land \add quickly\add*, like an eagle,
 \q2 and they will cover your entire land! 
 \q But I will be with you!” 
@@ -42,23 +42,23 @@ Judah,\add*
 \q2 because God is with us! 
 \s Isaiah is urged to have an awesome respect for Yahweh 
 \p
-\v 11 Yahweh strongly warned me \\f + \\ft metonymy \\f* not to act like the other people in Judah did. He said to me,
+\v 11 Yahweh strongly warned me \f + \ft metonymy \f* not to act like the other people in Judah did. He said to me,
 \q
 \v 12 “Do not say that everything that people do is conspiring\f + \ft Or: rebelling \f*
 \add against the government\add*, 
 \q2 like other people say, 
-\q and do not ◄be afraid of\f + \ft Or: worry \f* about► the things that other people are afraid of.
+\q and do not be afraid of\f + \ft Or: worry about \f* the things that other people are afraid of.
 \q
 \v 13 I, the Almighty Commander of the armies of angels, am the one you should consider to be holy.
 \q2 I am the one you should fear, 
 \q2 the one you should revere. 
 \q
 \v 14 I will protect you(sg). 
-\q But as for the other people \\f + \\ft metonymy \\f* in Israel and Judah, 
-\q2 I will be like \\f + \\ft metaphor \\f* a stone that causes people to stumble, 
+\q But as for the other people \f + \ft metonymy \f* in Israel and Judah, 
+\q2 I will be like \f + \ft metaphor \f* a stone that causes people to stumble, 
 \q2 like a rock that causes them to fall down. 
 \q And as for the people of Jerusalem, 
-\q2 I will be like \\f + \\ft metaphor \\f* a trap or a snare \\f + \\ft doublet \\f*. 
+\q2 I will be like \f + \ft metaphor \f* a trap or a snare \f + \ft doublet \f*. 
 \q
 \v 15 Many people will stumble and fall down 
 \q2 and never get up again. 
@@ -71,17 +71,17 @@ Judah,\add*
 \q and give his instructions to others who have accompanied me. 
 \q
 \v 17 I will wait to see what Yahweh \add will do\add*. 
-\q He has rejected the descendants \\f + \\ft metonymy \\f* of Jacob, 
+\q He has rejected the descendants \f + \ft metonymy \f* of Jacob, 
 \q2 but I will confidently expect him to help me. 
 \q
 \v 18 I and the children that Yahweh has given to me are like signs to warn the people of Israel;
 \q2 we are warnings from the Almighty Commander of the armies of angels
 \q2 the one who lives in his temple on Zion Hill \add in Jerusalem\add*.
 \p
-\v 19 Some people may urge you(pl) to ◄consult\f + \ft Or: go \f* and talk with► those who talk with the spirits of dead people or with those
+\v 19 Some people may urge you(pl) to consult\f + \ft Or: go and talk with \f* those who talk with the spirits of dead people or with those
 who say that they receive messages from those spirits. They whisper and mutter
-\add about what we should do in the future\add*. But God is \\f + \\ft rhetorical question \\f* the one whom we should ask to guide us! It is ridiculous
-\\f + \\ft rhetorical question \\f* for people who are alive to request spirits of dead people to tell us
+\add about what we should do in the future\add*. But God is \f + \ft rhetorical question \f* the one whom we should ask to guide us! It is ridiculous
+\f + \ft rhetorical question \f* for people who are alive to request spirits of dead people to tell us
 \add what we should do\add*! 
 \v 20 Pay attention to God's instructions and teaching! If people do not say things that agree with what God teaches us,
 \add what they say is worthless\add*. \add It is as though\add* those people are in darkness.

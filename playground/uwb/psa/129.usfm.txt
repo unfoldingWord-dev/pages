@@ -1,17 +1,17 @@
 \c 129  
 \s A psalm written for people going up to the temple to worship 
 \q
-\v 1  \add I say that\add* my enemies have ◄afflicted\f + \ft Or: caused \f* trouble for► me ever since I was young.
+\v 1  \add I say that\add* my enemies have afflicted\f + \ft Or: caused trouble for \f* me ever since I was young.
 \q \add Now I request you, my fellow\add* Israelis, to repeat those same words:
 \q
 \v 2 “Our enemies have afflicted us since our nation began, 
 \q2 but they have not defeated us! 
 \q
-\v 3  \add Our enemies struck us with whips\add* that cut into our backs \\f + \\ft metaphor \\f*
+\v 3  \add Our enemies struck us with whips\add* that cut into our backs \f + \ft metaphor \f*
 \q2 like a \add farmer uses a\add* plow to cuts deep furrows into the ground.”
 \q
 \v 4 But Yahweh is righteous, 
-\q2 and he has freed me from being a slave \\f + \\ft metonymy \\f* of wicked people.
+\q2 and he has freed me from being a slave \f + \ft metonymy \f* of wicked people.
 \b
 \q
 \v 5 I wish\f + \ft Or: hope \f* that all those who hate Jerusalem\f + \ft Or: Israel \f* will be ashamed because of being defeated.
