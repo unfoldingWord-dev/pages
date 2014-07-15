@@ -1,7 +1,7 @@
 \c 27  
 \s Instructions for the altar 
 \p
-\v 1 “Tell them to make an altar from acacia wood. It is to be square, 7-1\f + \ft Or: 2 ft.\f + \ft Or: 2 \f*.2 meters \f* on each side, and make it ◄4-1, Or: 2
+\v 1 “Tell them to make an altar from acacia wood. It is to be square, 7-1\f + \ft Or: 2 ft.( Or: 2 ).2 meters \f* on each side, and make it ◄4-1, Or: 2
 ft.\f + \ft Or: 1 \f*.3 meters► high. 
 \v 2  \add They\add* must make \add a projection that looks like\add* a horn on each of the top corners. The projections must
 be carved from the same block of wood as the altar. \add Tell them

@@ -1,6 +1,6 @@
 \c 3  
 \p
-\v 1 Anyone who aspires to be an elder \add in the congregation\add* \f + \ft Or: a bishop) desires a noble\f + \ft Or: honorable \f* task.
+\v 1 Anyone who aspires to be an elder \add in the congregation\add* \f + \ft Or: a bishop) desires a noble( Or: honorable ) task.
 \v 2  \add Since that is a task that others should respect\add*, an overseer must
 \add conduct himself\add* in such a way that \add no one\add* can truly say that he has done
 \add anything that is\add* wrong\f + \ft Or: find fault with him \f*. Specifically,

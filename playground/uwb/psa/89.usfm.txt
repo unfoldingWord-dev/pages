@@ -150,7 +150,7 @@ promised\add*.
 \v 43 You have caused his sword to become useless, 
 \q2 and you have not helped him in his battles. 
 \q
-\v 44 You have caused his splendor to end \f + \ft Or: You have taken away his power as king \f + \ft metonymy \f*)
+\v 44 You have caused his splendor to end \f + \ft Or: You have taken away his power as king ( metonymy ))
 \q2 and knocked his throne to the ground. 
 \q
 \v 45 You have caused him to become old when he is still young 

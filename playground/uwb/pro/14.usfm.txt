@@ -70,7 +70,7 @@ happened\add*.
 \b
 \q
 \v 17 Those who quickly become angry [IDI] do foolish things; 
-\q2 people hate those who plan to do wicked things \f + \ft Or: those who have good sense remain calm\f + \ft Or: patient \f*).
+\q2 people hate those who plan to do wicked things \f + \ft Or: those who have good sense remain calm( Or: patient )).
 \b
 \q
 \v 18 Foolish people get what they deserve for doing foolish things;
