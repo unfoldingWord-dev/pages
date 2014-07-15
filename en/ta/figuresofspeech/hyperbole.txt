@@ -8,11 +8,8 @@
 
 
 "I’ve told you __a million times__ not to do that" means "I've told you __too many times__ not to do that."\\ 
-"I’m __starving__. I haven’t eaten anything since early morning" means "I'm extremely hungry. I haven't eaten since early morning."\\ 
-"It took __forever__ for him to finish the job" means "It took him a very long time to finish the job."\\ 
-"He’s got __tons__ of money" means "He has a lot of money."
-
-
+"I’m __starving__. I haven’t eaten anything since early morning" means "I'm too hungry. I want something to eat now. I haven't eaten since early morning."\\ 
+"It took __forever__ for him to finish the job" means "It took him too long to finish the job."\\ 
 **Examples from the Bible** 
 
 

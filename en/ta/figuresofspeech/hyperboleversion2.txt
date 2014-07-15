@@ -4,13 +4,21 @@
 === A hyperbole is a deliberate exaggeration used to indicate the speaker’s feeling or opinion about something. ===
 
 
+**Examples from English** 
+
+
+<font 14px line-height: 19px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19px;;;#ffffff>“I’ve told you</font> <font 14px line-height: 19px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19px;;;#ffffff>a million times</font> <font 14px line-height: 19px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19px;;;#ffffff>not to do that” means “I've told you</font> <font 14px line-height: 19px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19px;;;#ffffff>too many times</font> <font 14px line-height: 19px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19px;;;#ffffff>not to do that.”</font> \\ 
+<font 14px line-height: 19px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19px;;;#ffffff>“I’m</font> <font 14px line-height: 19px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19px;;;#ffffff>starving</font> <font 14px line-height: 19px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19px;;;#ffffff>. I haven’t eaten anything since early morning” means “I'm too hungry. I want something to eat now. I haven't eaten since early morning.”</font> \\ 
+<font 14px line-height: 19px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19px;;;#ffffff>“It took</font> <font 14px line-height: 19px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19px;;;#ffffff>forever</font> <font 14px line-height: 19px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19px;;;#ffffff>for him to finish the job” means “It took him too long to finish the job.”</font> 
+
+
 **Examples from the Bible** 
 
 
-//Other people have heard you tell the message from the Lord Jesus. Then they also have proclaimed the message to people who live throughout Macedonia and Achaia provinces. Not only that, but people who live in __many far-away places__// [HYP]//have heard that you trust in God. As a result, we do not need to tell people what God has done in your lives. // 1 Thes 1:8 (TFT)
+//Other people have heard you tell the message from the Lord Jesus. Then they also have proclaimed the message to people who live throughout Macedonia and Achaia provinces. Not only that, but people who live in __many far-away places__//[HYP]//have heard that you trust in God. As a result, we do not need to tell people what God has done in your lives. // 1 Thes 1:8 (TFT)
 
 
-//Paul wrote that people __in every place__were talking about the Thessalonians. This is an example of hyperbole. He meant that people in “many far away places” were talking about them. Paul probably used this hyperbole to show how happy he was that the Thessalonians' faith in God was so great that many people had heard about it.// 
+//Paul wrote that people __in every ____place__were talking about the Thessalonians. This is an example of hyperbole. He meant that people in “many far away places” were talking about them. Paul probably used this hyperbole to show how happy he was that the Thessalonians' faith in God was so great that many people had heard about it.// 
 
 
 //————–// 
