@@ -5,11 +5,17 @@
 
 ===== Division Principles: =====
 
+  * Remember that the passage and notes need to be able to fit the small display of a mobile phone or tablet.
+  * Short chunks will be less overwhelming for novice translators to tackle, and will encourage them in the translation process by allowing them to see quick and steady progress through the project.
   * Keep sections short so that excessive scrolling will not be necessary in order to view all the notes. Ideal length would be 2-4 verses, depending on the length of the verses.
   * Use natural divisions as much as possible--clear paragraph divisions, sharp subject or location changes, etc.
+  * When faced with a short passage with distinct topics, consider dividing them for clarity of explanation, even though this would result in very short chunks.
+  * When faced with a passage with a single thought or argument, consider making the chunk a bit longer to include the whole thought, unless it would be unbearably long.
   * Consider the theological and grammatical complexity of the verses when dividing. More complex passages should be shorter, if possible.
   * Give extra weight to the structure of the original-language text rather than to English-langauge divisions.
+  * As of 07/15/14, divisions must occur at verse breaks. The software is unable to accommodate a chunk such as "3-5a."
   * 
+  * Final principle: It can be fixed. Don't agonize over the divisions. They can be changed later (with some effort) if a better division is discovered during the development of the notes.
 
 
 
