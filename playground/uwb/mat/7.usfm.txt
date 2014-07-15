@@ -7,7 +7,7 @@
 will be condemned {\add God\add* will condemn you}. 
 \v 3 ◄None of you should be concerned \add about someone else's small
 faults\add* \f + \ft metaphor \f*!\f + \ft Or: Why \f* should any of you be concerned \add about someone else's small
-faults\add*?► [MET, RHQ] \add That would be like noticing\add* a speck in that person's eye. But you should
+faults\add*?► \f + \ft metaphor, rhetorical question \f* \add That would be like noticing\add* a speck in that person's eye. But you should
 \add be concerned about your own big faults. They are like\add* \f + \ft metaphor \f* planks in your own eye, which you do not notice.
 \v 4 ◄You should not say to other people \add about their minor faults\add*, ‘Let me remove the specks from your eyes!’\f + \ft Or: Why \f* do
 you say to other people \add about their minor faults\add*, ‘Let me remove the specks from your eyes?’► \f + \ft rhetorical question \f*
@@ -56,10 +56,10 @@ in\add* the laws \add that God gave him\add* and \add also what\add* the prophet
 \s Jesus taught that we should try to walk on the narrow road that leads to heaven.
 \p
 \v 13-14 “\add Going to\add* where people live eternally \add with God in
-heaven\add* is difficult. \add It is like\add* going along a narrow road [PRS, MET] that leads to a narrow gate. Not many
+heaven\add* is difficult. \add It is like\add* going along a narrow road \f + \ft personification, metaphor \f* that leads to a narrow gate. Not many
 people find that way. \add The way\add* that most \add people take\add* is easy,
 \add but it results in their being punished\add* {\add God punishing
-them\add*} \add in hell. That way is like a\add* wide road that people walk on [PRS, MET] until they reach the wide gate, but
+them\add*} \add in hell. That way is like a\add* wide road that people walk on \f + \ft personification, metaphor \f* until they reach the wide gate, but
 that road and that gate lead to where \add they\add* will be destroyed
 {\add God\add* will destroy them}. Many people enter that gate. So I
 \add am telling you to leave the wide road and\add* enter the narrow gate
@@ -93,7 +93,7 @@ do\add*, \add you will know if they are false prophets\add*.”
 \add because they do not do what he desires\add*. \add Only\add* those people who do what my Father, who is in heaven, desires
 \add will go there\add*. 
 \v 22 On the day \f + \ft metonymy \f* \add that God judges everyone\add*, many \add people, trying to tell me that they deserve to go to
-heaven\add*, will say to me, ‘Lord, we(exc) spoke God's message as your representatives [MTY, RHQ]! As your representatives
+heaven\add*, will say to me, ‘Lord, we(exc) spoke God's message as your representatives \f + \ft metonymy, rhetorical question \f*! As your representatives
 we(exc) expelled demons from \add people\add* \f + \ft rhetorical question \f*! And as your representatives, many times we(exc) performed miracles \f + \ft rhetorical question \f*!’
 \v 23 Then I will declare to them, ‘I have never said that you belonged to me. Go away from me, you who do what is evil!’ ”
 \s Matthew 7:24-27 

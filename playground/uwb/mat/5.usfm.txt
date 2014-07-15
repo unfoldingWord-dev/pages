@@ -72,7 +72,7 @@ Moses\add* or \add what\add* the prophets \f + \ft metonymy \f* \add wrote\add*.
 happen\add*. So do not think any longer that I have come \add to
 earth\add* in order that I might annul \add what they wrote\add*.
 \v 18 Keep this in mind: \add Every\add* point of those laws, \add including those points that
-seem\add* least important, and even the smallest details of the laws \f + \ft metonymy \f* will surely be in effect [HYP, LIT] until the
+seem\add* least important, and even the smallest details of the laws \f + \ft metonymy \f* will surely be in effect \f + \ft hyperbole, litotes \f* until the
 heavens and the earth disappear and until all \add that God told their authors to
 write\add* happens. 
 \v 19 Since \add all God's laws are important\add*, if anyone disobeys any of those commandments,

@@ -33,7 +33,7 @@ things\add*, \add but\add* I am speaking as ordinary humans \add speak\add*.
 \v 6 We should certainly not \add conclude that God should not judge
 us\add*, because if God \add did not judge us Jews\add*, ◄it would not possibly be right for him to judge
 \add anyone in\add* the world \f + \ft metonymy \f*!\f + \ft Or: how \f* could he judge \add anyone
-in\add* the world?► [MTY, RHQ] 
+in\add* the world?► \f + \ft metonymy, rhetorical question \f* 
 \v 7 But \add someone might object and say to me\add*, “The fact that God truly
 \add keeps his promises\add* becomes very clear\f + \ft Or: evident \f* because of my not doing
 \add what God has commanded\add*. But the result is that people praise God! So ◄God should no longer say that I should be

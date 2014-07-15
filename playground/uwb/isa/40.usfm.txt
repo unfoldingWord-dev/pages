@@ -82,7 +82,7 @@ as\add* \f + \ft metaphor \f* one drop from a bucket \add full of water\add*.
 \q and there are not enough animals in Lebanon to offer as sacrifices to him.
 \q
 \v 17 The nations of the world are completely insignificant\f + \ft Or: unimportant \f* to him;
-\q2 he considers that they are worthless and less than nothing [HYP, DOU].
+\q2 he considers that they are worthless and less than nothing \f + \ft hyperbole, doublet \f*.
 \b
 \q
 \v 18 So, to whom can you compare God? 

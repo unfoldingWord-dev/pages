@@ -58,7 +58,7 @@ many\add* non-Jews \add are living\add*.
 \v 16  \add Although the people there will be like\add* people who sit in a dark place \f + \ft metaphor \f*,
 \add they will suddenly perceive clearly a new teaching, as\add* people who have seen a big light shining on them \f + \ft metaphor \f*
 perceive everything clearly\add . The\add* people who are located in a dangerous \f + \ft metaphor \f* region
-\add will suddenly perceive clearly what God teaches\add*, as people on whom a light shines perceive things clearly [MET, DOU].
+\add will suddenly perceive clearly what God teaches\add*, as people on whom a light shines perceive things clearly \f + \ft metaphor, doublet \f*.
 \p
 \v 17 From that time, \add while\add* Jesus was \add in Capernaum city, he began to preach this to people: “God [MTY\f + \ft Or: EUP \f*] will
 very soon begin to rule, and he will judge you when he rules\add*. So

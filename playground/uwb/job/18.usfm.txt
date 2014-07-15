@@ -6,7 +6,7 @@
 \v 2 “When are you going to stop talking \f + \ft rhetorical question \f*? 
 \q2 If you would stop talking and listen, we could tell you something.
 \q
-\v 3 Why do you think that we are as stupid as cattle? [DOU, RHQ]
+\v 3 Why do you think that we are as stupid as cattle? \f + \ft doublet, rhetorical question \f*
 \q
 \v 4 By being very angry, you are only hurting yourself. 
 \q2 Do you think that everyone on the earth must leave to prove that you

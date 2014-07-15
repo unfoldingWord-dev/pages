@@ -119,7 +119,7 @@ right\add* \f + \ft rhetorical question \f*?
 \v 30 They would not accept my advice, 
 \q2 and they did not pay attention when I tried to correct them.
 \q
-\v 31 So they will endure what will result [MET, DOU] from the evil way they have lived\f + \ft Or: behaved \f*
+\v 31 So they will endure what will result \f + \ft metaphor, doublet \f* from the evil way they have lived\f + \ft Or: behaved \f*
 \q2 and the evil things they have planned to do. 
 \q
 \v 32 Those who turn away from me are stupid\f + \ft Or: foolish \f*; 

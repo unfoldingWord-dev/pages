@@ -113,7 +113,7 @@ God\add* certainly did not \add change his mind when he did that!\add* If God ha
 \v 22 But instead, \add what we read in\add* the Scriptures \f + \ft personification \f* is that God
 \add caused all people to be unable to escape being punished for\add* their
 \add sins\add* \f + \ft metaphor \f*, just like \add people\add* in prison \add are unable to
-escape\add* [PRS, MET]. \add God did that in order that he might give what he promised to those who trust Jesus Christ,
+escape\add* \f + \ft personification, metaphor \f*. \add God did that in order that he might give what he promised to those who trust Jesus Christ,
 just\add* because they trust him. 
 \v 23 Before \add God revealed the good message about\add* trusting
 \add in Christ\add*, the laws \f + \ft personification \f* that God gave to Moses were \add confining\f + \ft Or: imprisoning \f* us
@@ -123,11 +123,11 @@ Jews\add* \f + \ft metaphor \f*, \add as\add* a prisoner \add in jail is\add* co
 \add concerning Christ, the message that God would\add* reveal \add later\add*.
 \v 24  \add Like a father supervises his immature son by appointing
 a\add* servant to take care of him \f + \ft metaphor \f*, \add God\add* was supervising us
-\add by\add* his laws [MET, PRS] until Christ came. \add He did this\add* in order that he might erase the record of our sins
+\add by\add* his laws \f + \ft metaphor, personification \f* until Christ came. \add He did this\add* in order that he might erase the record of our sins
 \add only\add* because we trust \add Christ\add*. 
 \v 25 But \add now that God\add* has revealed the message \add about trusting in
 Christ\add*, the laws \add that God gave to Moses\add* are no longer supervising us
-\add Jews\add* [PRS, MET]. 
+\add Jews\add* \f + \ft personification, metaphor \f*. 
 \s Galatians 3:26-29 
 \s Because of our relationship with Christ we are Abraham's spiritual descendants, and God's heirs, no longer like slaves.
 \p

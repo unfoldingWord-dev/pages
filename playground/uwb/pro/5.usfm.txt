@@ -55,7 +55,7 @@ behavior\add*.
 \q2 enjoy \add having sex\add* \f + \ft euphemism \f* only with your own wife. 
 \q
 \v 16 Like you would not waste good water by pouring it into the street,
-\q2 \add you should not have sex with other women\add*. [MET, EUP]
+\q2 \add you should not have sex with other women\add*. \f + \ft metaphor, euphemism \f*
 \q
 \v 17 Enjoy \add having sex only\add* with your wife; 
 \q2 do not \add have sex with\add* other women. 

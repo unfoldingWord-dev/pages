@@ -118,6 +118,6 @@ God\add*.
 them\add* \f + \ft hyperbole \f* with an iron rod. They \add will destroy evildoers\add* just like
 \add people\add* shatter clay pots \f + \ft metaphor \f*. 
 \v 28 I will also give to \add everyone who conquers Satan a share in the glory
-like\add* the morning star \add has\add* [MTY, MET]. 
+like\add* the morning star \add has\add* \f + \ft metonymy, metaphor \f*. 
 \v 29 Everyone who wants to understand \f + \ft metonymy \f* must listen carefully to the message that
 \add God's\add* Spirit speaks to the congregations.’” 

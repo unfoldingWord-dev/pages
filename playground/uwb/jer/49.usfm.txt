@@ -179,7 +179,7 @@ army\add*;
 \q
 \v 36 I will bring their enemies from all directions, [IDI, DOU]
 \q2 and they will scatter the people of Elam in all directions. 
-\q The people of Elam will be exiled to every nation on the earth. [LIT, HYP]
+\q The people of Elam will be exiled to every nation on the earth. \f + \ft litotes, hyperbole \f*
 \q
 \v 37 Because I am very angry with the people of Elam, 
 \q2 I will enable their enemies to smash Elam; 

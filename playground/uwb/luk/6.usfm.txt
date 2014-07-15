@@ -141,7 +141,7 @@ fully trains a student}, the student can become like his teacher \f + \ft metaph
 \add So you should be content to be like me\add*. 
 \p
 \v 41 Why do you notice\add someone else's small faults\add*?\f + \ft Or: None \f* of you should be concerned about
-\add someone else's small faults\add* [MET, RHQ]. \add That would be
+\add someone else's small faults\add* \f + \ft metaphor, rhetorical question \f*. \add That would be
 like\add* noticing a speck in that person's eye. But you should be concerned about
 \add your own big faults. They are like\add* planks in your own eye,
 \add which you do not notice\add*. 

@@ -5,7 +5,7 @@
 \q2 Will you keep rejecting us forever \f + \ft rhetorical question \f*? 
 \q Why are you angry with us, 
 \q2 since we are like sheep in your pasture \add and you are like our
-shepherd\add*? [MET, RHQ] 
+shepherd\add*? \f + \ft metaphor, rhetorical question \f* 
 \q
 \v 2 Do not forget your people whom you chose long ago, 
 \q2 the people whom you freed \add from being slaves in Egypt\add* and caused to become your tribe.
@@ -37,7 +37,7 @@ shepherd\add*? [MET, RHQ]
 \v 10 God, how long will our enemies make fun of you \f + \ft rhetorical question \f*? 
 \q Will they insult you \f + \ft metonymy \f* forever \f + \ft rhetorical question \f*? 
 \q
-\v 11 Why do you refuse to help [MTY, RHQ] us? 
+\v 11 Why do you refuse to help \f + \ft metonymy, rhetorical question \f* us? 
 \q2 Why do you keep your hand inside your cloak \add instead of using it to destroy our
 enemies\add* \f + \ft rhetorical question \f*? 
 \b

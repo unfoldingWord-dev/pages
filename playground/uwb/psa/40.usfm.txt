@@ -56,7 +56,7 @@ temple\add*,
 \q2 Because you faithfully love me \f + \ft personification \f* and are loyal to me, always protect me.
 \q
 \v 12 I have many troubles; I cannot count them. 
-\q2 My sins are like a flood that has covered me [PRS, MET]; 
+\q2 My sins are like a flood that has covered me \f + \ft personification, metaphor \f*; 
 \q2 \add they are so many that\add* I cannot see \add all of them\add*.
 \q The sins that I have committed are more than the hairs on my head.
 \q2 I am very discouraged. 

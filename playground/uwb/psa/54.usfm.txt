@@ -2,7 +2,7 @@
 \s A psalm written by David for the choir director, to be accompanied by stringed instruments; it was written when the people
 of Ziph went to Saul and told him that David was hiding in their area
 \q
-\v 1 God, by your power [MTY, DOU] save me \add from my enemies\add*,
+\v 1 God, by your power \f + \ft metonymy, doublet \f* save me \add from my enemies\add*,
 \q2 and show people that I have not done anything that is wrong!
 \q
 \v 2 God, listen to my prayer; 

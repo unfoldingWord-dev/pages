@@ -38,7 +38,7 @@ what the laws do are simply to reveal that what we are doing is sinful.
 \v 7  \add Someone might object\add*, saying, “◄The laws \add that God gave
 Moses\add* must be evil \add if our sinful desires\add* are increased because of our knowing those laws. \f + \ft metonymy \f*\f + \ft Or: Are \f* not the laws
 \add that God gave Moses\add* evil \add if they stir up our sinful
-desires\add*?►” [MTY, RHQ] \add I would reply\add* that they certainly are not
+desires\add*?►” \f + \ft metonymy, rhetorical question \f* \add I would reply\add* that they certainly are not
 \add evil, even though our sinful desires are increased\add*. What I would reply is that I,
 \add for example\add*, realized that \add what I was doing\add* was sinful only
 because\add of what is written\add* {\add Moses wrote\add*} \add in\add* those laws. For example, I realized that coveting
@@ -99,7 +99,7 @@ them\add*.
 \add desire\add* present within me that \f + \ft personification \f* \add prevents me from doing
 good\add*. 
 \v 22 With my new inner nature I like the laws of God very much.
-\v 23 Nevertheless, I sense that there is a different force that is in my body\f + \ft Or: me \f* [PRS, SYN]. It is opposed to what with my
+\v 23 Nevertheless, I sense that there is a different force that is in my body\f + \ft Or: me \f* \f + \ft personification, synecdoche \f*. It is opposed to what with my
 mind \add I desire to do\add* \f + \ft metaphor \f*, and it puts me inescapably under the control of \f + \ft metaphor \f* the sinful
 \add desires\add* that I have \f + \ft synecdoche \f*. 
 \v 24 ◄\add When I consider this\add*, I \add feel that I\add* am a very wretched person. I want someone to set me free from

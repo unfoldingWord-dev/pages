@@ -104,7 +104,7 @@ you\add (sg)\add* make me this way?”► \f + \ft rhetorical question \f*
 \add of clay\add* make one pot that people will honor and \add make
 another\add* one for ordinary purposes \f + \ft metaphor \f*.\f + \ft Or: does \f* not a potter have the right to
 \add take\add* some clay and from one lump \add of clay\add* make one pot that people will honor and
-\add make another\add* pot for ordinary purposes?► [MET, RHQ] \add Similarly, God has the right to carry out what he purposes
+\add make another\add* pot for ordinary purposes?► \f + \ft metaphor, rhetorical question \f* \add Similarly, God has the right to carry out what he purposes
 for people\add*. 
 \v 22 Although God desires to show that he is angry \add about sin\add*, and
 \add although he desires to\add* make clear that he can powerfully
@@ -134,7 +134,7 @@ that\add* land, as he said that he would do.
 \v 29  \add Also, we can understand from what the prophet\add* Isaiah
 said\add that God would not save\add* anyone if he did not show mercy,
 \q If the Lord, who controls everything in heaven, had not mercifully allowed some of our descendants to survive, we would have
-become like the people of the cities of Sodom and Gomorrah, who were [SIM, DOU] completely destroyed.
+become like the people of the cities of Sodom and Gomorrah, who were \f + \ft simile, doublet \f* completely destroyed.
 \s Romans 9:30-33 
 \s The non-Jews found the way by which God could declare them righteous. The Jews did not succeed in fulfilling what the Mosaic
 laws require. Instead, they tried to find a way to be declared righteous by doing things in order that God would accept them.

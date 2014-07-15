@@ -58,4 +58,4 @@ for\add* \f + \ft doublet \f* \add their\add* sins.”
 \p
 \v 13 Since God spoke about a new \add covenant\add*, he considered that the first
 \add covenant\add* was no longer in use, and that it would soon disappear, just
-like\add anything that\add* gets old \add will disappear\add* [MET, DOU].
+like\add anything that\add* gets old \add will disappear\add* \f + \ft metaphor, doublet \f*.

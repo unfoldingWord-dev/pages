@@ -4,7 +4,7 @@
 \v 1 “But now, Job, listen carefully 
 \q2 to all that I am going to say \f + \ft doublet \f*. 
 \q
-\v 2 I am ready to tell you [MTY, DOU] \add what I think\add*. 
+\v 2 I am ready to tell you \f + \ft metonymy, doublet \f* \add what I think\add*. 
 \q
 \v 3 In my inner being I know that I am speaking honestly 
 \q2 and that I am speaking \f + \ft metonymy \f* sincerely. 

@@ -7,7 +7,7 @@
 \q You say, ‘God knows that I am innocent,’ 
 \q
 \v 3 and you say to God, ‘What good have I received for not sinning?
-\q2 What benefit have I received from that?’ [DOU, RHQ] 
+\q2 What benefit have I received from that?’ \f + \ft doublet, rhetorical question \f* 
 \q
 \v 4 Well, I will answer you, 
 \q2 and I will answer your three friends, too. 

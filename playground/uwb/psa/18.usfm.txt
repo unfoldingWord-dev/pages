@@ -4,7 +4,7 @@
 \v 1 Yahweh, I love you, the one who enables me to be strong. 
 \b
 \q
-\v 2 Yahweh is like a huge rock [DOU, MET] \add under which I can hide from my
+\v 2 Yahweh is like a huge rock \f + \ft doublet, metaphor \f* \add under which I can hide from my
 enemies\add*; 
 \q2 he is like a strong fortress, the one who protects me; 
 \q he protects me like a shield \f + \ft metaphor \f* \add protects a soldier\add*;

@@ -41,7 +41,7 @@ day\add , they have\add* eyes but they cannot see \add spiritually\add* \f + \ft
 dull\add* \f + \ft metaphor \f*, 
 \q \add Make them stupid\add* \f + \ft metonymy \f*, \add like animals that are\add* caught in snares!
 \q May they \add feel secure because of the things that they enjoy but which will catch them like
-a\add* trap [DOU, MET], with the result that you will destroy them.
+a\add* trap \f + \ft doublet, metaphor \f*, with the result that you will destroy them.
 \q
 \v 10 May their ability to perceive \add danger\add* be dulled {Dull their ability to perceive
 \add spiritually\add*} \f + \ft metaphor \f*, with the result that they will not

@@ -52,7 +52,7 @@ troops\add*,
 \v 10 But, \add you need to know that\add* this is the day when I, Yahweh, the Almighty Commander of the armies of angels, will
 get revenge on my enemies. 
 \q With my sword \f + \ft personification \f* I will kill \add my enemies\add* until I am satisfied;
-\q2 my sword will \add be like a monster that\add* [MET, PRS] drinks the blood
+\q2 my sword will \add be like a monster that\add* \f + \ft metaphor, personification \f* drinks the blood
 \add of the animals it kills\add* until it is no longer thirsty.
 \q \add The enemy soldiers who will be killed\add* in the north beside the Euphrates River
 \q2 \add will be like\add* \f + \ft metaphor \f* a sacrifice to me, the Almighty Commander of the armies of angels.
@@ -76,7 +76,7 @@ get revenge on my enemies.
 \q2 Proclaim it in Migdol, Memphis, and Tahpenes \add cities\add*!
 \q ‘Get into your positions\f + \ft Or: Line up \f* \add for the battle\add*; 
 \q2 Prepare to defend yourselves, 
-\q2 because everyone around you will be killed.’ [PRS, MTY] 
+\q2 because everyone around you will be killed.’ \f + \ft personification, metonymy \f* 
 \q
 \v 15 Your god is a bull; 
 \q2 Why does he fall down? 

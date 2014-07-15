@@ -74,7 +74,7 @@ arrows\add*
 people.►” \f + \ft rhetorical question \f* 
 \q
 \v 21 So, when Yahweh heard that, he became very angry, 
-\q2 and he sent a fire to burn up \add some of\add* his Israeli people. [MTY, DOU]
+\q2 and he sent a fire to burn up \add some of\add* his Israeli people. \f + \ft metonymy, doublet \f*
 \q2
 \v 22 He did that because they did not trust in him, 
 \q2 and they did not believe that he would rescue them. 

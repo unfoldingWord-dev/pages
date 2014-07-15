@@ -43,7 +43,7 @@ vineyards and fields.’ ”
 \p
 \v 16 After I had given the papers\f + \ft Or: papyri \f* to Baruch, I prayed to Yahweh, saying this:
 \mi
-\v 17 “Yahweh, you are my Lord! You made the sky and the earth by your very great power. [MTY, DOU] Nothing is too difficult
+\v 17 “Yahweh, you are my Lord! You made the sky and the earth by your very great power. \f + \ft metonymy, doublet \f* Nothing is too difficult
 for you \add to do\add*. 
 \v 18 You show thousands of people that you faithfully love them, but you punish people for the sins that their parents have
 committed. You are the great and powerful God, the Almighty Commander of the armies of angels.

@@ -33,7 +33,7 @@ gods\add*;
 \q2 so nothing will perturb me\f + \ft Or: cause me to be worried \f*. 
 \b
 \q
-\v 9 Therefore I am glad and I [MTY, DOU] rejoice; 
+\v 9 Therefore I am glad and I \f + \ft metonymy, doublet \f* rejoice; 
 \q2 and I can rest securely 
 \q
 \v 10 because you, Yahweh, will not allow my soul\f + \ft Or: spirit \f* to remain in the place where the dead people are,

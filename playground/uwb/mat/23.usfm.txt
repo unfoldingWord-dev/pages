@@ -135,7 +135,7 @@ sent teach you. In that way\add* you testify against yourselves that you are des
 killed the prophets. 
 \v 32  \bd You\bd* are as ready to murder people as \f + \ft metaphor \f* your ancestors were!
 \v 33  \add You people are so wicked\add*! You are \add as dangerous as
-poisonous\add* snakes [DOU, MET]! ◄You \add foolishly\add* think that you will escape being punished in hell!\f + \ft Or: Do \f* you
+poisonous\add* snakes \f + \ft doublet, metaphor \f*! ◄You \add foolishly\add* think that you will escape being punished in hell!\f + \ft Or: Do \f* you
 \add foolishly\add* think that you will escape when \add God\add* punishes
 \add wicked people\add* in hell?► \f + \ft rhetorical question \f* 
 \v 34 Take note that this is why I will send prophets, wise men, and other men who will teach you
@@ -152,7 +152,7 @@ lived\add*.
 \s Matthew 23:37-39 
 \s Jesus expressed his sorrow about what would happen to Jerusalem.
 \p
-\v 37 “O \add people of\add* Jerusalem [MTY, APO], you killed the prophets
+\v 37 “O \add people of\add* Jerusalem \f + \ft metonymy, apostrophe \f*, you killed the prophets
 \add who lived long ago\add*, and you killed others whom \add God\add* sent to you. You killed them by throwing stones at them
 \f + \ft doublet \f*! Many times I wanted to gather you together \add to protect
 you\add*, like a hen gathers her young chicks under her wings \f + \ft metaphor \f*. But you did not want

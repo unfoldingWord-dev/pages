@@ -20,10 +20,10 @@
 \b
 \q
 \v 7  \add Tell me\add*, do you \add know more than everyone else
-because\add* you are the first person who was ever born? [SAR, RHQ]
+because\add* you are the first person who was ever born? \f + \ft sarcasm, rhetorical question \f*
 \q2 Were you born before the hills \add were created\add*? 
 \q
-\v 8 Were you listening when God made all his plans? [SAR, RHQ] 
+\v 8 Were you listening when God made all his plans? \f + \ft sarcasm, rhetorical question \f* 
 \q2 Or do you think that you are the only person who is wise? 
 \q
 \v 9 What do you know that we do not know?\f + \ft Or: You do not know anything that we do not know. \f* \f + \ft rhetorical question \f*

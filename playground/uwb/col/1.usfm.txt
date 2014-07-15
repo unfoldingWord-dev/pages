@@ -15,7 +15,7 @@ that God our Father will be acting kindly towards you, and that he will cause yo
 you heard about previously when you heard the true message, that is, the message
 \add about Christ\add*. 
 \v 6  \add People\add* proclaimed it \f + \ft personification \f* to you, just like \add people\add* have proclaimed it in many different countries
-[HYP, IDM]. The true message is changing more and more people's lives, just like it changed your lives because you heard it and
+\f + \ft hyperbole, idiom \f*. The true message is changing more and more people's lives, just like it changed your lives because you heard it and
 you truly experienced that God acts kindly towards us in ways we do not deserve.
 \v 7 That is just what Epaphras taught you \add would happen\add*. We love Epaphras. He serves Christ together with us and
 works for Christ faithfully for your benefit. 
@@ -41,7 +41,7 @@ receive the things that he will give to his people in heaven \f + \ft synecdoche
 \s Colossians 1:13-20 
 \s God our Father has caused you to be ruled by his Son, who existed before and ranks above everything that has been created.
 \p
-\v 13 God our Father rescued us \add spiritually\add* so that the evil one no longer rules us [MET, MTY], and he transferred us
+\v 13 God our Father rescued us \add spiritually\add* so that the evil one no longer rules us \f + \ft metaphor, metonymy \f*, and he transferred us
 \add spiritually\add* so that his Son, whom he loves, rules us. 
 \v 14 That is, because of our relationship with his Son \f + \ft Or: because of what his Son did \f*, God has redeemed\f + \ft Or: bought \f* us; in
 particular, he has forgiven our sins. 

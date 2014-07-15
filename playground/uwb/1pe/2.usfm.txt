@@ -56,7 +56,7 @@ God\add*,
 \s 1 Peter 2:11-12 
 \s Avoid obeying your self-directed natures. Conduct your lives in a good way among unbelievers.
 \p
-\v 11 You people whom I love, I urge you to consider that you are like foreigners [MET, DOU]
+\v 11 You people whom I love, I urge you to consider that you are like foreigners \f + \ft metaphor, doublet \f*
 \add whose real home is in heaven\add*. As a result, avoid doing the things that your self-directed nature desires, because
 those desires fight against\f + \ft Or: always oppose \f* your souls. 
 \v 12 Keep conducting your lives in a good way among those who do not know God.

@@ -16,7 +16,7 @@ in\add* this land;
 \v 4 Now, God, the one who saves\f + \ft Or: rescues \f* us, restore us\f + \ft Or: make us prosperous again \f*
 \q and stop being angry with us! 
 \q
-\v 5 Will you continue to be angry with us forever?\f + \ft Or: Please do not continue to be angry with us forever. \f* [DOU, RHQ]
+\v 5 Will you continue to be angry with us forever?\f + \ft Or: Please do not continue to be angry with us forever. \f* \f + \ft doublet, rhetorical question \f*
 \q
 \v 6 Please enable us \f + \ft rhetorical question \f* to prosper again 
 \q2 in order that we, your people, will rejoice about what you \add have done for
@@ -45,5 +45,5 @@ us\add*.
 \v 12 Yes, Yahweh will do good things for us, 
 \q2 and there will be great harvests in our land. 
 \q
-\v 13  \add Yahweh always acts\add* righteously [PRS, MET]; 
+\v 13  \add Yahweh always acts\add* righteously \f + \ft personification, metaphor \f*; 
 \q2 he acts righteously wherever he goes. 

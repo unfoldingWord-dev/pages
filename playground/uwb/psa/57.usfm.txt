@@ -30,9 +30,9 @@ as\add* sharp swords \add hurt people\add* \f + \ft metaphor \f*.
 \q2 And show your glory to people all over the earth! 
 \b
 \q
-\v 6  \add It is as if\add* [MET, HYP] my enemies spread a net to seize me,
+\v 6  \add It is as if\add* \f + \ft metaphor, hyperbole \f* my enemies spread a net to seize me,
 \q2 and I became very distressed [IDI]. 
-\q \add It is as if\add* [MET, HYP] they dug a deep pit along the path where I walk,
+\q \add It is as if\add* \f + \ft metaphor, hyperbole \f* they dug a deep pit along the path where I walk,
 \q2 but they themselves fell into it! 
 \qr (Think about that!) 
 \b
