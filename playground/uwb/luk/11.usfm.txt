@@ -18,7 +18,7 @@ you\add \f + \ft singular \f* stand outside and\add* call out to him, 'My friend
 \v 6 Another friend of mine who is traveling has just arrived \add at my
 house\add*, but I have no food \add ready\add* to give to him!' 
 \v 7 Suppose that he answers you from inside \add the house\add*, 'Do not bother me! The door has been locked
-\f + \ft Or:\add We\f + \ft exclusive \f*\add* have locked the door \f* and all my family are in bed.
+\f + \ft Or:\add We( exclusive )\add* have locked the door \f* and all my family are in bed.
 \add So\add* I cannot get up and give you\add \f + \ft singular \f*\add* anything!'
 \v 8 I will tell you that even if he does not \add want to\add* get up and give you
 \add any food\add*, to avoid being ashamed \add for not helping you\add* because you are his friend \f + \ft Or: if without being

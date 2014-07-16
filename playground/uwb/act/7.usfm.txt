@@ -112,7 +112,7 @@ worked\add*.
 other\add*. He tried to make them stop fighting by saying to them, 'Men, you two are fellow
 \add Israelites! So\add* stop hurting each other!\f + \ft Or: why are you hurting each other? \f* \f + \ft rhetorical question \f*'
 \v 27 But the man who was injuring the other man pushed Moses away and said to him, 'No one appointed
-you\add \f + \ft singular \f*\add* to rule and judge us\add \f + \ft exclusive \f*\add*!\f + \ft Or: Do you\add \f + \ft singular \f*\add* think someone appointed
+you\add \f + \ft singular \f*\add* to rule and judge us\add \f + \ft exclusive \f*\add*!\f + \ft Or: Do you\add ( singular )\add* think someone appointed
 you\add \f + \ft singular \f*\add* to rule and judge us\add \f + \ft exclusive \f*\add*? \f* \f + \ft rhetorical question \f* 
 \v 28 Do you want to kill me as you killed the Egyptian yesterday?'
 \v 29 When Moses heard that, \add he thought to himself, 'Obviously, people know what I have done, and someone will kill me.'

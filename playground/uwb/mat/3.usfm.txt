@@ -76,8 +76,8 @@ him \f*.
 \v 14  \add When Jesus asked John to baptize him\add*, John objected, saying, "I need to be baptized by
 \bd you\bd* \f + \ft Or:\bd you\bd* to baptize \bd me\bd* \f* \add because you are superior to me. Since you are not a
 sinner\add*, \add you\f + \ft singular \f*\add* should not come to me \add to be baptized by
-me\add* \f + \ft Or:\add to ask that I baptize you\f + \ft singular \f*\add* \f*!\f + \ft Or: why do you come to me
-\add to be baptized by me\add* \f + \ft Or:\add ask that I baptize you\f + \ft singular \f*\add* \f* \f + \ft rhetorical question \f*? \f*"
+me\add* \f + \ft Or:\add to ask that I baptize you( singular )\add* \f*!\f + \ft Or: why do you come to me
+\add to be baptized by me\add* \f + \ft Or:\add ask that I baptize you( singular )\add* \f* \f + \ft rhetorical question \f*? \f*"
 \v 15 But Jesus said to him, "Baptize me at this time, because in this way we
 \add two\add* will do \add everything that God\add* requires." Then John consented to baptize him.
 \p
