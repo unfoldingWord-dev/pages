@@ -3,8 +3,8 @@
 \s As Christ suffered, he learned to be a compassionate high priest by obeying God.
 \p
 \v 1 Every \add Jewish\add* high priest was chosen by \add God\add*
-{\add God\add* chose every \add Jewish\add* high priest} from among\add ordinary\add* men. They were appointed
-{\add He\add* appointed them} in order that they would come before him on behalf of the people.
+\f + \ft Or:\add God\add* chose every \add Jewish\add* high priest \f* from among\add ordinary\add* men. They were appointed
+\f + \ft Or:\add He\add* appointed them \f* in order that they would come before him on behalf of the people.
 \add Specifically, God appointed them\add* in order that they would bring gifts
 \add to him on behalf of the people\add*, and in order to sacrifice
 \add animals to him\add* for people who sinned. 

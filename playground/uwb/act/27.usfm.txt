@@ -55,7 +55,7 @@ there\add*.
 \add westward\add* along the \add southern\add* shore of Crete \add Island\add*.
 \v 14 But after a while, a wind that was very strong blew across the island
 \add from the north side and hit the ship. That wind was called\add*
-{\add People\add* called that wind} "the Northeast Wind." 
+\f + \ft Or:\add People\add* called that wind \f* "the Northeast Wind." 
 \v 15 It blew strongly against the \add front of\add* the ship. The result was that we could not keep going in the direction
 \add in which we had been going\add*. So the sailors let the wind move the ship in the direction
 \add that the wind\add* was blowing. 
@@ -101,8 +101,8 @@ we\add \f + \ft inclusive \f*\add* will go ashore \add there\add*."
 \s Paul thwarted some sailors who tried to sneak ashore in the lifeboat.
 \p
 \v 27 On the fourteenth night \add after the storm had begun, the
-ship\add* was still being blown {the wind was still blowing \add the
-ship\add*} across the Adriatic sea. About midnight, the sailors sensed that the ship was getting close to land.
+ship\add* was still being blown \f + \ft Or:the wind was still blowing \add the
+ship\add* \f* across the Adriatic sea. About midnight, the sailors sensed that the ship was getting close to land.
 \v 28 So they lowered \add a rope\add* to measure how deep \add the water
 was\add*. When they pulled the rope up again, they measured it and saw that the water was 120 ft.\f + \ft Or: 37 meters \f* deep. They went a
 little farther and lowered the rope again. \add That time\add*, they saw that the water was

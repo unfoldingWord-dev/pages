@@ -43,7 +43,7 @@ us\add*.
 \add another person\add*: \add It does\add* not \add mean\add* that we loved God, but
 \add it means\add* that God loved us and sent his Son\f + \ft Or: the one who was also God \f* to sacrifice
 \add his life\add* in order that \add our sins might be forgiven\add*
-{\add he might forgive\add* our sins}. 
+\f + \ft Or:\add he might forgive\add* our sins \f*. 
 \v 11 Dear friends, since God loves us like that, we certainly ought to love each other!
 \s 1 John 4:12-21 
 \s In order to be assured that we are conducting our lives according to God's character, we must love God and our fellow

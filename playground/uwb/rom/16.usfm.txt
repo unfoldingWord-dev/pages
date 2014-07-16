@@ -86,9 +86,9 @@ toward you all. Amen!\f + \ft Or: May \f* it be so!"\f*
 \p
 \v 25 As \add I\add* proclaim\add the good message about\add* Jesus
 Christ\add , I tell about God\add*, the one who is able to strengthen you
-\add spiritually\add*. I also proclaim the \add truth\add* that was not revealed {which
-\add God\add* did not reveal} in all previous ages\f + \ft Or: times \f* 
-\v 26 but which has now been {which \add he\add* has now} revealed.
+\add spiritually\add*. I also proclaim the \add truth\add* that was not revealed \f + \ft Or:which
+\add God\add* did not reveal \f* in all previous ages\f + \ft Or: times \f* 
+\v 26 but which has now been \f + \ft Or:which \add he\add* has now \f* revealed.
 \add I, along with others, have proclaimed\add* what the prophets wrote
 \add about Christ\add*. We are doing what the eternal God commanded
 \add us\f + \ft exclusive \f*\f + \ft Or: me \f* to do\add*. We want \add people in\add* all ethnic groups to know

@@ -12,8 +12,8 @@ non-Jew\add*? \f* \f + \ft rhetorical question \f* Being circumcised does not be
 all\add*!" 
 \v 2  \add I would reply that being Jews\add* benefits\add us\add* in many ways \f + \ft hyperbole \f*. First of all, it benefits us because it
 was to \add our ancestors\add* that God's words, \add words that contain his
-promises\add*, were given {that \add God\add* gave his words, \add words that contain his
-promises\add*}. 
+promises\add*, were given \f + \ft Or:that \add God\add* gave his words, \add words that contain his
+promises\add* \f*. 
 \v 3 Many \add Jews did not obey God as they promised that they would. So someone might
 ask\add*, "Does their not being faithful mean that God will not \add bless us
 Jews\add* as he promised \add that he would\add*?" 
@@ -23,8 +23,8 @@ Jews\add* as he promised \add that he would\add*?"
 \add What King David wrote about God's justly saying that he would punish him for his sins is also true of those who accuse God
 of not keeping his promises. What he said to God was\add*, "So everyone must acknowledge that what
 you\add \f + \ft singular \f*\add* have said \add about them\add* \f + \ft Or: \add their
-sin\add* \f* is true, and you will always win the case when you are accused {when
-\add people\add* accuse you}." 
+sin\add* \f* is true, and you will always win the case when you are accused \f + \ft Or:when
+\add people\add* accuse you \f*." 
 \p
 \v 5 So if we \add Jews'\add* being wicked \f + \ft personification \f* shows that it is right that God
 \add does not bless us\add*, what shall we say\f + \ft Or: conclude \f*? Shall we conclude that it is not right for God to be angry
@@ -37,8 +37,8 @@ in\add* the world? \f* \f + \ft metonymy, rhetorical question \f*
 \v 7 But \add someone might object and say to me\add*, "The fact that God truly
 \add keeps his promises\add* becomes very clear\f + \ft Or: evident \f* because of my not doing
 \add what God has commanded\add*. But the result is that people praise God! So God should no longer say that I should be
-punished {that \add he\add* should punish me} on account of my having sinned!\f + \ft Or: why should God still say that I should be
-punished {that \add he\add* should punish me} on account of my having sinned? \f* \f + \ft rhetorical question \f*
+punished \f + \ft Or:that \add he\add* should punish me \f* on account of my having sinned!\f + \ft Or: why should God still say that I should be
+punished \f + \ft Or:that \add he\add* should punish me \f* on account of my having sinned? \f* \f + \ft rhetorical question \f*
 \v 8  \add If what you, Paul, say is true\add*, then we might as well\f + \ft Or: it is all right for us to \f* do evil things in order that
 good things \add like that\add* will result! For example, \add then people will praise
 God!\add*" Some people speak evil about me by their \add falsely\add* saying that I say
@@ -52,9 +52,9 @@ that all people are condemned by God for their sin.
 God\add* will treat us \add Jews\add* more favorably \add and will
 treat\add* the non-Jews less\add favorably\add* \f + \ft rhetorical question \f*?" \add I would reply that we
 can\add* certainly not \add conclude that!\add* I have already shown you that all people, the Jews and also the non-Jews, have
-sinned and \add so they deserve to be punished\add* {\add that God will punish
-them\add*} \f + \ft personification \f*. 
-\v 10  \add The following words\add* that are written {prophets have written}
+sinned and \add so they deserve to be punished\add* \f + \ft Or:\add that God will punish
+them\add* \f* \f + \ft personification \f*. 
+\v 10  \add The following words\add* that are written \f + \ft Or:prophets have written \f*
 \add in the Scriptures support this\add*, 
 \p No person is righteous. There is not even one righteous person!
 \v 11 There is no one who understands \add how to live properly\add* \f + \ft Or:
@@ -64,7 +64,7 @@ them\add*} \f + \ft personification \f*.
 useless \add to God\add* \f*. There is no one who acts righteously; no, there is not even one!
 \q
 \v 13 What people say \f + \ft metonymy \f* \add is foul\f + \ft Or: bad \f*, like the smell that comes
-from\add* a grave that has been {that \add people\add* have} opened \f + \ft metaphor \f*.
+from\add* a grave that has been \f + \ft Or:that \add people\add* have \f* opened \f + \ft metaphor \f*.
 \add By what people say\add* \f + \ft metonymy \f*, they deceive people. 
 \q \add By what they say\add* \f + \ft metonymy \f* \add they injure people, just
 like\add* the poison of snakes \add injures people\add* \f + \ft metaphor \f*. 
@@ -97,17 +97,17 @@ presented Christ as the one who would atone for sins by dying on the cross.
 \p
 \v 21 But God's erasing the record of our sins\f + \ft Or: declaring us no longer guilty \f* does not depend on
 \add our obeying\add* the laws \add that he gave Moses\add*. It has now been
-{\add God\add* has now} revealed \add to us\add* how he erases the record of our sins
+\f + \ft Or:\add God\add* has now \f* revealed \add to us\add* how he erases the record of our sins
 \add by a different way\add*. It was written about \add by Moses\add*
-{\add Moses\add* wrote about it} in the laws \f + \ft personification \f* \add God gave\add* him, and it was also written about by the prophets {the
-prophets also wrote about it}. 
+\f + \ft Or:\add Moses\add* wrote about it \f* in the laws \f + \ft personification \f* \add God gave\add* him, and it was also written about by the prophets \f + \ft Or:the
+prophets also wrote about it \f*. 
 \v 22 God erases the record of our sins because we trust in \add what\add* Jesus Christ
 \add has done for us\add*. God does this for every person who trusts
 \add in Christ\add*, because \add he considers\add* that there is no difference
 \add between Jews and non-Jews\add*. 
 \v 23 All people have done evil, and all people have failed to accomplish the glorious
 \add goals\add* that God \add set for them\add*. 
-\v 24 Our record of sins has been erased {God erased the record of our sins} by his acting kindly
+\v 24 Our record of sins has been erased \f + \ft Or:God erased the record of our sins \f* by his acting kindly
 \add to forgive our sins\add*, without our doing anything to earn it. Christ Jesus accomplished this
 \add by dying for us\add*. 
 \v 25 God showed that Christ was the one who would atone for \f + \ft Or: forgive \f* our sins
@@ -130,8 +130,8 @@ nullify, the Mosaic laws.
 \add about God erasing the record of our sins because of our obeying those
 laws\add*? \f* \f + \ft rhetorical question \f* Instead, \add it is because of our\add* believing\f + \ft Or: trusting \f*\add in Christ that God erases the record of our
 sins\add*. 
-\v 28  \add We cannot boast about that\add*, because we conclude that the record of our sins is erased {God erases the record
-of our sins} because of our trusting \add in Christ\add*. God does not erase the record of our sins because of our obeying the
+\v 28  \add We cannot boast about that\add*, because we conclude that the record of our sins is erased \f + \ft Or:God erases the record
+of our sins \f* because of our trusting \add in Christ\add*. God does not erase the record of our sins because of our obeying the
 laws \add that he gave to Moses, because it is impossible for us to completely obey
 them\add*. 
 \v 29 You who are Jews certainly should not \add think that is you\add* are the only ones whom God

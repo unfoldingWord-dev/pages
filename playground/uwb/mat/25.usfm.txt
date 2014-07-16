@@ -21,8 +21,8 @@ your\add olive\add* oil, because our lanterns are about to go out!'
 store and buy some for yourselves!' 
 \v 10 But while \add the foolish virgins\add* were going to buy \add some
 oil\add*, the bridegroom arrived. So the \add wise virgins\add*, who were ready, went with him to the wedding hall
-\add where the bride was waiting\add*. Then the door was closed {someone closed the door
-\add of that hall\add*}. 
+\add where the bride was waiting\add*. Then the door was closed \f + \ft Or:someone closed the door
+\add of that hall\add* \f*. 
 \v 11 Later, the rest of the virgins came \add to the hall\add* and they called
 \add to the bridegroom\add*, 'Sir, open \add the door\add* for us!'
 \v 12 But he said \add to them\add*, 'The truth is that I do not know you, so I
@@ -92,13 +92,13 @@ pain\add*.' "
 and\add bring\add* all my angels with me. Then I will sit as a king on my wonderful throne
 \add to judge people\add*. 
 \v 32 People from all nations \f + \ft metonymy \f* will be gathered in front of me
-{\add The angels\add* will gather in front of me people from all nations}. Then I will separate them, one from another, as a
+\f + \ft Or:\add The angels\add* will gather in front of me people from all nations \f*. Then I will separate them, one from another, as a
 shepherd separates his sheep from his goats. 
 \v 33 I will put \add the righteous people\add* on my right and \add the unrighteous ones on my left, as
 a\add* shepherd puts sheep \add on one side\add* and goats \add on the other
 side\add*." 
 \p
-\v 34 Then I will say to those on my right, 'You people who have been blessed by my Father {whom my Father has blessed}, come!
+\v 34 Then I will say to those on my right, 'You people who have been blessed by my Father \f + \ft Or:whom my Father has blessed \f*, come!
 From the time he created the world, he has been preparing to allow you to
 \add receive the blessings that he will give to all those\add* who let him rule their lives.
 \add Now is the time for\add* you to receive \add those blessings\add*!
@@ -120,7 +120,7 @@ you thirsty and we gave you something to drink?
 \add it was as though\add* you did it for me.' 
 \p
 \v 41 Then I will say to those on my left, 'You people who have been cursed
-\add by God\add* {whom God has cursed}, leave me! Go into the eternal fire that God has prepared for the devil\f + \ft Or: Satan \f* and his
+\add by God\add* \f + \ft Or:whom God has cursed \f*, leave me! Go into the eternal fire that God has prepared for the devil\f + \ft Or: Satan \f* and his
 angels! 
 \v 42  \add It is right for you to go there\add*, because you did not give me anything to eat when I was hungry. You did not
 give me anything to drink when I was thirsty. 
@@ -136,5 +136,5 @@ did not help you?'
 \add it was as though\add* you did not do anything\add to help\add* me.'
 \p
 \v 46 Then those people\add on my left\add* will go away to the place where
-\add they\add* will be punished {\add God\add* will punish them} eternally, but the righteous people will go to where they will
+\add they\add* will be punished \f + \ft Or:\add God\add* will punish them \f* eternally, but the righteous people will go to where they will
 live forever \add with God\add*." 

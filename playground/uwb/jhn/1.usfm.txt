@@ -15,7 +15,7 @@ darkness\add*.
 truth\add* \f + \ft Or: \add evil people have never\add* understood the \add one who was
 like\add* a light. \f* 
 \p
-\v 6 A man whose name was John was sent by God {God sent a man whose name was John}.
+\v 6 A man whose name was John was sent by God \f + \ft Or:God sent a man whose name was John \f*.
 \v 7 He came to tell people \add about the one who was like\add* \f + \ft metaphor \f* a light. He came to show that everything that the
 \add one who was like a light\add* \f + \ft metaphor \f* said was true, in order that he could enable all people to believe
 \add in the one who was like a light\add*. 
@@ -38,7 +38,7 @@ of\add* his own people, \add the Jews\add*, rejected him \f + \ft Or: did not ac
 \add that what he said\add* about himself \f + \ft metonymy \f* \add was true\add*.
 \v 13 We became \add like God's children\add*, not because our ancestors
 \add belonged to God\add*, or because of someone's sexual desires, nor because some man desired to have children like himself.
-Instead, we were caused by God {God caused us} to become \add like\add* his children.
+Instead, we were caused by God \f + \ft Or:God caused us \f* to become \add like\add* his children.
 \p
 \v 14 The one who expresses \f + \ft metaphor \f* \add God's character\f + \ft Or: what God is
 like\add* \f* became a human being, and he lived among us \add for a
@@ -69,7 +69,7 @@ him, "What do you \add claim about\add* yourself?"
 "\add I\add* am not the Messiah\f + \ft Or: God's chosen king \f*!" 
 \v 21 Then they asked him, "Then what \add do you say about yourself\add*? Are you
 \add the prophet\add* Elijah \add that was prophesied to return\add*
-{\add someone\f + \ft Or: another prophet\add* \f* \add prophesied would return\add*}
+\f + \ft Or:\add someone\f + \ft Or: another prophet\add* \f* \add prophesied would return\add* \f*
 \add before the Messiah\add*?" He replied, "No, \add I\add* am not." Then they asked him, "Are you the prophet
 \add like Moses that\add* \add we are waiting for\f + \ft Or: God promised to
 send\add* \f*?" He replied, "No." 
@@ -81,7 +81,7 @@ by\add* in this desolate area: 'Prepare \add yourselves to receive\add* the Lord
 \add just like people prepare\add* a road \add for an important official.'\add*"
 \p
 \v 24 Some of those people \add who were questioning\add* John were ones who had been sent by the Pharisee
-\add religious group\add* {whom the Pharisee \add religious group\add* had sent}.
+\add religious group\add* \f + \ft Or:whom the Pharisee \add religious group\add* had sent \f*.
 \v 25 They asked John, "Since \add you say\add* you are not the Messiah, nor
 \add the prophet\add* Elijah, nor the prophet \add like Moses\add*,
 \add what authority\add* do you have? \add Furthermore\add*, why are you baptizing
@@ -141,7 +141,7 @@ about 4 PM until the next day \f*.
 \v 41  \add After Andrew left Jesus\add*, the first thing he did was to find his own
 \add older\add* brother Simon and say to him, "We have found the Messiah!"
 \v 42 Then he took Simon to Jesus. Jesus looked intently at him, and then said, "You are Simon. Your father's name is John. You
-will be given {\add I\add* will give you} the name Cephas." \add Cephas is an Aramaic name that means 'solid rock.'
+will be given \f + \ft Or:\add I\add* will give you \f* the name Cephas." \add Cephas is an Aramaic name that means 'solid rock.'
 It\add* means\add the same in Greek as the name\add* Peter. 
 \s John 1:43-51 
 \s Jesus told Nathaniel that he knew about him supernaturally, but that he would do things that were more surprising than that.

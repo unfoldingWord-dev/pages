@@ -32,7 +32,7 @@ me\add*.
 rely upon what I have done and who I am better than anyone else could, if it were beneficial for my salvation.
 \p \add In fact\add*, \add if I could benefit from it for my salvation\add*, I could rely upon what I have done and who I am
 \f + \ft metonymy, synecdoche \f* more than anyone else could. I will tell you why. 
-\v 5 I \add was circumcised\add* {\add Someone\add* circumcised me} when I was one week old. I am from the people of Israel. I
+\v 5 I \add was circumcised\add* \f + \ft Or:\add Someone\add* circumcised me \f* when I was one week old. I am from the people of Israel. I
 am from the tribe of Benjamin. I am completely Hebrew in every way.
 \add While I was\add* a member of the Pharisee \add sect\add*, I
 \add strictly obeyed\add* the laws \add that God gave Moses\add*.

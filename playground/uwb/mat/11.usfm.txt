@@ -25,8 +25,8 @@ enabling\add* deaf people to hear and dead people to become alive again. I
 \v 7 When John's disciples had gone away, Jesus began to talk to the crowd of people about John. He said to them,
 "\add Think about\add* what sort of person you went to see in the desolate area
 \add when you went there to see John\add*. \add You did not go there to listen to a man who constantly changed his message,
-like\add* a reed that is blown {blows} back and forth in the wind \f + \ft metaphor \f*!\f + \ft Or: Did you go
-there\add to listen to a man whose message changes continually like\add* long grass that is blown {blows} back and forth in the
+like\add* a reed that is blown \f + \ft Or:blows \f* back and forth in the wind \f + \ft metaphor \f*!\f + \ft Or: Did you go
+there\add to listen to a man whose message changes continually like\add* long grass that is blown \f + \ft Or:blows \f* back and forth in the
 wind \add changes its direction\add*? \f* \f + \ft metaphor, rhetorical question \f* 
 \v 8 Then what \add kind of person\add* did you go \add there\add* to see \f + \ft rhetorical question \f*?
 \add You did not go there to see\add* a man who was wearing expensive
@@ -38,7 +38,7 @@ clothes.\add \f + \ft Or: Did you go there to see\add* a man who was wearing exp
 say \f*? Yes! But I will tell you that \add John\add* is more \add important\add* than an
 \add ordinary\add* prophet. 
 \v 10 He is the one \add to whom God was referring when he said to the Messiah these
-words\add* that are written {about whom \add the prophet Malachi\add* wrote}
+words\add* that are written \f + \ft Or:about whom \add the prophet Malachi\add* wrote \f*
 \add in the Scriptures:\add* 
 \q Listen! I am going to send my messenger \add to go\add* before you \f + \ft synecdoche \f* to
 prepare\add the people\add* \f + \ft metaphor \f* for your coming. 
@@ -99,10 +99,10 @@ of\add* Tyre and Sidon \f + \ft metonymy \f*, but he will punish you even more s
 \add all people\add*. 
 \v 23 I \add also have something to say to\add* you \add people who live
 in\add* Capernaum \add city\add* \f + \ft metonymy \f*. Do not \add think that\add* you will be honored
-{that\add God\add* will honor you} in heaven!\f + \ft Or: Do you think that you will be honored
-{that\add God\add* will honor you} in heaven? \f* \f + \ft rhetorical question \f* \add That will not happen! On the
-contrary\add*, \add after you die, you will be sent\add* {\add God\add* will send you} down into the place where
-\add sinful people\add* will be punished {he will punish sinful people}
+\f + \ft Or:that\add God\add* will honor you \f* in heaven!\f + \ft Or: Do you think that you will be honored
+\f + \ft Or:that\add God\add* will honor you \f* in heaven? \f* \f + \ft rhetorical question \f* \add That will not happen! On the
+contrary\add*, \add after you die, you will be sent\add* \f + \ft Or:\add God\add* will send you \f* down into the place where
+\add sinful people\add* will be punished \f + \ft Or:he will punish sinful people \f*
 \add forever\add*! \add God destroyed the ancient city of\add* Sodom
 \add because the people who lived in that city were extremely wicked\add*. If I had performed in
 \add Sodom the miracles that I performed in your city, the people there would have turned away from their wicked behavior

@@ -4,8 +4,8 @@
 \p
 \v 1 About that time the Emperor Augustus commanded that \add his officials
 must\add* write down the names\f + \ft Or: \add a census be taken\add* \f* of all the people who lived in countries
-\add controlled\add* by the Roman \add government\add* {that the Roman
-\add government controlled\add*}, \add so that the government could collect taxes from
+\add controlled\add* by the Roman \add government\add* \f + \ft Or:that the Roman
+\add government controlled\add* \f*, \add so that the government could collect taxes from
 them\add*. 
 \v 2 That was the first time that they wrote down the names\f + \ft Or: took a census \f* in Syria
 \add province, which included Judea district\add*. They did this while Quirinius was the governor of the province.
@@ -14,8 +14,8 @@ ancestor\add* had lived, so that \add the officials\add* could write down their 
 \v 4 So, because Joseph was a descendant of \add King\add* David, he went up from Nazareth, the town in Galilee
 \add district where he lived\add*, to Bethlehem town in Judea \add district\add*. That was the town where
 \add King\add* David \add grew up\add*. 
-\v 5 Joseph went with Mary, who \add was considered\add* {whom \add people
-considered\add*} \add to be\add* his wife, who was now pregnant. They went so that they could put his name and Mary's name
+\v 5 Joseph went with Mary, who \add was considered\add* \f + \ft Or:whom \add people
+considered\add* \f* \add to be\add* his wife, who was now pregnant. They went so that they could put his name and Mary's name
 \add in the record book\add*. 
 \v 6-7 When they arrived \add in Bethlehem\add*, there was no place for them to stay in the house where travelers stay.
 \add So they stayed in a cattle shed\add*. When the time for Mary to give birth arrived, she gave birth to her first son there.
@@ -37,7 +37,7 @@ hear\add*!
 \add your\add* Lord! 
 \v 12 I will tell you how \add you will recognize him\add* \f + \ft Or: how you will know
 \add that what I say is true\add* \f*: \add In Bethlehem\add* you will find a baby who has been wrapped
-{\add whose mother\add* has wrapped him} in strips of cloth and placed in a trough where
+\f + \ft Or:\add whose mother\add* has wrapped him \f* in strips of cloth and placed in a trough where
 \add people\add* put food for the animals." 
 \p
 \v 13 Suddenly a large group of angels from heaven appeared and joined the other angel. They all praised God, singing\f + \ft Or: saying \f*,
@@ -49,9 +49,9 @@ see this \add wonderful\add* thing that has happened, which the Lord\f + \ft Or:
 \v 16 So they went quickly. They found the \add place where\add* Mary and Joseph
 \add were staying\add*, and \add they saw\add* the baby lying in the trough where
 \add people\add* put food for the animals. 
-\v 17 Then they told \add Mary and Joseph and others\add* what had been told them {what
-\add the angel\add* had told them} about this child. 
-\v 18 Everyone who heard what was said by the shepherds {what the shepherds said} to them was amazed.
+\v 17 Then they told \add Mary and Joseph and others\add* what had been told them \f + \ft Or:what
+\add the angel\add* had told them \f* about this child. 
+\v 18 Everyone who heard what was said by the shepherds \f + \ft Or:what the shepherds said \f* to them was amazed.
 \v 19 But Mary \add did not talk to others about what the angels
 said\add*; she just kept thinking very much about it. 
 \v 20 The shepherds returned \add to their sheep\add*. They kept praising God very much for all the things that they had heard
@@ -62,9 +62,9 @@ and seen, \add because\add* everything \add happened\add* exactly like
 \p
 \v 21 Seven days later, when \add the priests\add* circumcised the baby,
 \add his parents\add* named him Jesus. That was the name that \add they were told
-by\add* the angel {the angel \add told them\add*} \add to\add* give him before Mary became pregnant.
+by\add* the angel \f + \ft Or:the angel \add told them\add* \f* \add to\add* give him before Mary became pregnant.
 \p
-\v 22-23 It had been written by Moses {Moses had written} \add long
+\v 22-23 It had been written by Moses \f + \ft Or:Moses had written \f* \add long
 ago\add* in a law that God gave him, that when a woman gave birth to her first son, the parents had to take him
 \add to the Temple\add* in Jerusalem in order that they might dedicate him to the Lord\f + \ft Or: to God \f*. So when the time came for them
 to do those rituals so that \add God would consider\add* them pure again, Mary and Joseph took Jesus there.
@@ -79,8 +79,8 @@ them\add*.
 God and he obeyed God's laws. The Holy Spirit was \add directing\add* him as he was waiting for
 \add God\add* \f + \ft metonymy \f* \add to\add* encourage the Israelite \add people by sending the
 Messiah\add*. 
-\v 26 It was \add previously\add* revealed by the Holy Spirit {The Holy Spirit
-\add previously\add* revealed} to him that he would see God's \add promised\add* Messiah before he died.
+\v 26 It was \add previously\add* revealed by the Holy Spirit \f + \ft Or:The Holy Spirit
+\add previously\add* revealed \f* to him that he would see God's \add promised\add* Messiah before he died.
 \v 27 When Joseph and Mary brought their baby Jesus \add to the Temple\add* in order to perform the rituals that
 \add God had commanded\add* in his laws, the Spirit led Simeon to enter the Temple
 \add courtyard, and revealed to him that Jesus was the Messiah\add*.
@@ -96,8 +96,8 @@ peacefully.
 \v 34 "Note what I say: \add God\add* has determined that because of this child, many Israelite people will
 \add turn away from God\add*, and many others will turn to God \f + \ft metaphor \f*. Although he will be like a sign \f + \ft metaphor \f*
 \add to warn people\add*, \add many\add* people will oppose him.
-\v 35 As a result, the \add evil\add* thoughts of many people will be made evident {he will reveal the
-\add evil\add* thoughts of many people}. \add Furthermore, the cruel things that they will do to
+\v 35 As a result, the \add evil\add* thoughts of many people will be made evident \f + \ft Or:he will reveal the
+\add evil\add* thoughts of many people \f*. \add Furthermore, the cruel things that they will do to
 him\add* \f + \ft metaphor \f* \add will be like\add* a sword that will pierce your soul\f + \ft Or: inner being \f*."
 \s Luke 2:36-38 
 \s Anna praised God for Jesus and told others about him. 

@@ -9,7 +9,7 @@ rule \f + \ft metonymy \f* with God \f + \ft euphemism \f* at the place of great
 \add represented\add*. The Lord set up the true place of worship. No human
 \add set it up\add*. 
 \p
-\v 3 Every high priest was appointed {\add God\add* appointed every high priest} to offer
+\v 3 Every high priest was appointed \f + \ft Or:\add God\add* appointed every high priest \f* to offer
 \add to God\add* gifts and sacrifices \add for people who sinned\add*. So, since
 \add Christ became a high priest\add*, he also had to offer something.
 \v 4 Since there are already \add Jewish\add* priests who offer gifts as God's laws
@@ -21,7 +21,7 @@ said\add*, "Be sure that you \add \f + \ft singular \f*\add* make everything acc
 \v 6 But now as it is, \add Christ\add* ministers in a more excellent way
 \add than the Jewish priests do\add*. Likewise, the \add new\add* covenant that he established
 \add between God and people\add* is better \add than the old one. When the new covenant was
-established\add* {\add God established the new covenant\add*}, he promised us better things
+established\add* \f + \ft Or:\add God established the new covenant\add* \f*, he promised us better things
 \add than the laws that God gave Moses did\add*. 
 \s Hebrews 8:7-13 
 \s The first covenant was not adequate, so God needed a new one.

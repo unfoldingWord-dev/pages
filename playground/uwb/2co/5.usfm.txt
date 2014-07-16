@@ -6,7 +6,7 @@ earthly bodies.
 \v 1 We know that \add these bodies\add* we live in \add here in this world are
 like\add* \f + \ft metaphor \f* tents. \add They are like temporary living\f + \ft Or: dwelling \f*
 places\add*. \add So we should not be concerned about what happens to our
-bodies\add*. We know that if we are killed {if \add someone\add* kills us}, God will give us
+bodies\add*. We know that if we are killed \f + \ft Or:if \add someone\add* kills us \f*, God will give us
 \add permanent living places. Those permanent living places\add* \f + \ft metaphor \f* will not be houses that people have made. They
 \add will be new bodies in which we will live forever\add* in heaven.
 \v 2  \add While we are here on earth, we suffer\add*. We often groan because we desire
@@ -43,7 +43,7 @@ do\add*. Whether we\add \f + \ft exclusive \f*\add* are \add still living\add* h
 \add in heaven\add*, we want to please him. 
 \v 10  \add And we need to try hard to do that\add* because each one of us
 \add believers\add* must stand before Christ \add to be\add* judged\add by
-him\add* {\add when he will\add* judge \add his people\add*}. \add At that
+him\add* \f + \ft Or:\add when he will\add* judge \add his people\add* \f*. \add At that
 time\add* he will \add reward each one of\add* us according to what we have done
 \add while we lived in this world\add* in these bodies. \add He will reward us according
 to\add* whether we have done good or whether we have done evil. 
@@ -78,8 +78,8 @@ as\add* \f + \ft metaphor \f* a corpse is.
 \v 15 When \add Christ\add* died for the sake of all people, he died in order that
 \add we believers who are alive now\add* should not conduct our lives in a way that will just
 \add please ourselves\add*. Instead, \add we should conduct our lives in a way that will
-please\add* him, \add because\add* he is the one who died for us and was raised {whom
-\add God\add* raised} to life again. 
+please\add* him, \add because\add* he is the one who died for us and was raised \f + \ft Or:whom
+\add God\add* raised \f* to life again. 
 \p
 \v 16 So, \add because I realize how much Christ loves all people\add*, I no longer think about people in the way that those
 who do not believe \add in Christ\add* think about \add them\add*. Before I
@@ -102,7 +102,7 @@ of\add* \f + \ft metonymy \f* the world to have a peaceful relationship with him
 \v 20 So, it is I and my companions who are Christ's representatives
 \add in this world. When we tell people the message about Christ\add*, it is God himself who is pleading with them by means of
 what we \add say\add*. So, as true representatives of Christ, we plead with you:
-\add Believe God's true message about Christ in order that you may\add* be reconciled to {have a peaceful relationship with}
+\add Believe God's true message about Christ in order that you may\add* be reconciled to \f + \ft Or:have a peaceful relationship with \f*
 him. 
 \v 21  \add You must believe that even though\add* Jesus never sinned, God
 \add punished him for all the\add* sinful things \add that people do,

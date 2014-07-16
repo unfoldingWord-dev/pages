@@ -9,14 +9,14 @@ Jewish believer, but his father was a Greek.
 \v 3 and Paul wanted to take Timothy with him \add when he went\add* to other places, so he circumcised Timothy.
 \add He did that so that\add* the Jews who lived in those places
 \add would accept Timothy\add*, because they knew that his non-Jewish father
-\add had not allowed him to be circumcised\add* {\add anyone to circumcise his
-son\add*}. 
+\add had not allowed him to be circumcised\add* \f + \ft Or:\add anyone to circumcise his
+son\add* \f*. 
 \s Acts 16:4-5 
 \s Paul, Silas and Timothy told believers in Galatia what the church leaders had decided.
 \p
 \v 4  \add So Timothy went with Paul and Silas\add* and they traveled to many other towns.
 \add In each town\add* they told \add the\add* believers the rules that had been decided by the apostles and elders in
-Jerusalem {that the apostles and elders in Jerusalem had decided} that
+Jerusalem \f + \ft Or:that the apostles and elders in Jerusalem had decided \f* that
 \add non-Jewish\add* believers should obey. 
 \p
 \v 5  \add God was helping\add* the believers in those towns to trust more strongly
@@ -25,7 +25,7 @@ Jerusalem {that the apostles and elders in Jerusalem had decided} that
 \s Because of a vision in Troas, Paul went to preach in Macedonia.
 \p
 \v 6 Paul and his companions wanted\f + \ft Or: planned \f* to enter Asia \add province\add* and preach the message
-\add about Jesus\add* there, but they were prevented by the Holy Spirit {the Holy Spirit prevented them}
+\add about Jesus\add* there, but they were prevented by the Holy Spirit \f + \ft Or:the Holy Spirit prevented them \f*
 \add from going there. So\add* they traveled through Phrygia and Galatia
 \add provinces\add*. 
 \v 7 They arrived at the border of Mysia \add province\add* and they wanted to go
@@ -63,8 +63,8 @@ and\add* sold \add expensive\add* purple cloth. She had accepted what the Jews b
 \add God\add* caused her to pay attention to the message that Paul preached, and she believed it.
 \add The members of her household also heard the good message and believed in
 Jesus\add* \f + \ft metonymy \f*. 
-\v 15 After \add Paul and Silas\add* baptized Lydia and the others who lived in her house \f + \ft metonymy \f* {After Lydia and the others who
-lived in her house were baptized}, she invited us to \add go and stay
+\v 15 After \add Paul and Silas\add* baptized Lydia and the others who lived in her house \f + \ft metonymy \f* \f + \ft Or:After Lydia and the others who
+lived in her house were baptized \f*, she invited us to \add go and stay
 in\add* her home. She said, "You\add \f + \ft plural \f*\add* know that I \add now\add* believe in the Lord
 \add Jesus\add*, so \add please\add* come and stay in my house." She persuaded us
 \add to do that, so we\f + \ft exclusive \f* stayed there\add*. 
@@ -122,13 +122,13 @@ We\add \f + \ft exclusive \f* prisoners\add* are all here!"
 \v 30 Then he brought Paul and Silas out \add of the jail\add* and asked: "Sirs, what do I need to do to be saved
 \add from being punished for my sins\add*?" 
 \v 31  \add They answered\add*, "Trust in \add what\add* the Lord Jesus
-\add has done for you\add*, and you will be saved {\add God\add* will save you}, and the others who live in \f + \ft metonymy \f* your house
+\add has done for you\add*, and you will be saved \f + \ft Or:\add God\add* will save you \f*, and the others who live in \f + \ft metonymy \f* your house
 will \add also\add* be saved \add if they believe in Jesus\add*."
 \p
 \v 32-34 Then the jailer took Paul and Silas into his house, washed their wounds, and gave them a meal.
 \add He woke up all the people in his house and\add* Paul and Silas told all of them the message about the Lord
 \add Jesus. They all believed in him\add*. Immediately \add after that, the jailer and all his family were
-baptized\add* {\add Paul and Silas\add* baptized the jailer and all his family}. They were very happy, because now they all
+baptized\add* \f + \ft Or:\add Paul and Silas\add* baptized the jailer and all his family \f*. They were very happy, because now they all
 believed in God. 
 \s Acts 16:35-40 
 \s Paul and Silas encouraged the believers and then left Philippi.
@@ -150,7 +150,7 @@ sorry\add*, and take us out \add of jail\add*."
 \v 38 So the police officers \add went and\add* told the city authorities
 \add what Paul had said\add*. When those authorities heard that Paul and Silas were Roman citizens, they were afraid
 \add that someone would report to more important officials what they had done, and as a result they would be
-punished\add* {\add those officials would punish them\add*}. 
+punished\add* \f + \ft Or:\add those officials would punish them\add* \f*. 
 \v 39 So the city authorities came to Paul and Silas and told them that they were sorry for what they had done to them. The
 authorities brought them out of the jail, and repeatedly asked them to leave the city
 \add soon\add*. 

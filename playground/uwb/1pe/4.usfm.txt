@@ -19,7 +19,7 @@ anymore when they participate in that kind of wild behavior \add that\add*
 \v 5 But \add God\add* is ready to judge the people who are living
 \add now\add* and the people who have died, and he is the one who will decide whether he approves of what they have done.
 \v 6 That is the reason why the message \add about Christ\add* was preached
-{\add people\add* preached the message \add about Christ\add*} to believers who have now died.
+\f + \ft Or:\add people\add* preached the message \add about Christ\add* \f* to believers who have now died.
 \add That message was preached to them\add* in order that even though
 \add sinful\add* people might judge them \add and say that they are
 guilty\add*, God's Spirit would \add enable them to\add* live \add eternally\add*.
@@ -37,7 +37,7 @@ community\add*, \add and do it\add* without complaining.
 various gifts that God has kindly given them. 
 \v 11 Those who speak \add to the congregation\add* should do that as though they are speaking the
 \add very\add* words of God. Those who do kind deeds to others should do it with the strength that God gives them, in order
-that God may be honored by all this {that all this may honor God} as Jesus Christ
+that God may be honored by all this \f + \ft Or:that all this may honor God \f* as Jesus Christ
 \add enables us to do it. I pray that we will\add* praise \add God\add* \f + \ft Or:
 \add Jesus\add* \f* and give him the authority \add to rule over us\add* forever. May it be so!\f + \ft Or: Amen! \f*
 \s 1 Peter 4:12-19 
@@ -51,7 +51,7 @@ to you.
 \v 13 Instead, rejoice that you are suffering the same kinds of things that Christ endured. Rejoice
 when\add you suffer\add*, in order that you may also be very glad \f + \ft doublet \f* when Christ returns and reveals how glorious\f + \ft Or: wonderful \f*
 he is. 
-\v 14 If you are insulted {If \add people\add* insult you} because you believe in Christ \f + \ft metonymy \f*,
+\v 14 If you are insulted \f + \ft Or:If \add people\add* insult you \f* because you believe in Christ \f + \ft metonymy \f*,
 \add God is\add* pleased with you, because it shows that the Spirit of God, the Spirit who
 \add reveals how\add* great \add God is\add*, lives within you. 
 \v 15 If you suffer, do not let that suffering be the result of your being a murderer or a thief or as a result of doing some

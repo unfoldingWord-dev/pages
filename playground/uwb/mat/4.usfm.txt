@@ -2,15 +2,15 @@
 \s Matthew 4:1-11 
 \s After Jesus fasted forty days, Satan tempted him in various ways.
 \p
-\v 1 Then Jesus was led by the Spirit {\add God's\add* Spirit led Jesus} into a desolate area to be tempted by the devil {in
-order that the devil would tempt him}. 
+\v 1 Then Jesus was led by the Spirit \f + \ft Or:\add God's\add* Spirit led Jesus \f* into a desolate area to be tempted by the devil \f + \ft Or:in
+order that the devil would tempt him \f*. 
 \v 2 After he did not eat food day and night for forty days, he was hungry.
 \v 3  \add Satan\add*, the tempter, came to him and said, "Because you
 \add claim that you have a relationship with\add* God \add as\add* a son
 \add has with his father\add* \f + \ft metaphor \f*, \add prove it\add* by commanding these stones to become bread
 \add so that you can eat them\add*!" 
 \v 4 But Jesus said \add to him\add*, "\add No! I will not change stones into bread,
-because\add* it is written \add in the Scriptures\add* {in the Scriptures\add Moses\add* wrote},
+because\add* it is written \add in the Scriptures\add* \f + \ft Or:in the Scriptures\add Moses\add* wrote \f*,
 \add 'Eating\add* food \f + \ft synecdoche \f* \add sustains\add* people \add physically,
 but\add* it does not sustain them \add spiritually\add* \f + \ft synecdoche \f*. Instead,
 \add paying attention to\add* everything that God has spoken \add to them is what sustains people
@@ -24,8 +24,8 @@ by\add* jumping down \add to the ground. You will not be hurt\add*, because it i
 \add when you are falling\add*, in order that \add you will not get
 hurt\add*. You will not \add even\add* strike your foot on a stone.'"
 \v 7 But Jesus said, "\add No! I\add* will not\add jump down, because\add* in another place
-\add in the Scriptures\add* it is written {there are these words that
-\add Moses\add* wrote}: 'Do not \add try to\add* test the Lord your God
+\add in the Scriptures\add* it is written \f + \ft Or:there are these words that
+\add Moses\add* wrote \f*: 'Do not \add try to\add* test the Lord your God
 \add to see if he will prevent something bad from happening to you when you do something
 foolish!\add*'" 
 \v 8 Then the devil took him on \add top of\add* a very high mountain. There he showed him all the nations in the world and the
@@ -40,16 +40,16 @@ you\add \f + \ft plural \f*\add* must worship, and you\add \f + \ft plural \f*\a
 \s Jesus went to Galilee and preached that people needed to repent to belong to the group whom God would consider his people.
 \p
 \v 12  \add While\add* Jesus \add was in Judea, John the Baptizer's
-disciples\add* told him that John had been put in prison and kept there {that
+disciples\add* told him that John had been put in prison and kept there \f + \ft Or:that
 \add Herod Antipas\add* had put John \add the Baptizer\add* in prison
-\add and kept him there\add*}. \add So\add* Jesus returned to Galilee
+\add and kept him there\add* \f*. \add So\add* Jesus returned to Galilee
 \add District\add*. While he was in Galilee, he first went to Nazareth town.
 \v 13 Then he left Nazareth and went to Capernaum \add city in order to live there. Capernaum is located beside Galilee Lake in
 the region which was formerly\add* the regions of \add the tribes
 of\add* Zebulun and Naphtali. 
 \v 14  \add One reason that he went there\add* was so that \add these
-words\add* that were written by the prophet Isaiah might be fulfilled {so that he might fulfill these words that the prophet
-Isaiah wrote}: 
+words\add* that were written by the prophet Isaiah might be fulfilled \f + \ft Or:so that he might fulfill these words that the prophet
+Isaiah wrote \f*: 
 \p
 \v 15 Zebulun \add region\add* and Naphtali \add region are on\add* the road
 \add which is\add* near \add Galilee Lake and\add* on the eastern side of the Jordan
@@ -90,7 +90,7 @@ message that tells how to become members of the group of people whose lives God 
 \add the Galileans\add* who had diseases or who were sick. 
 \v 24 When people who lived in other parts of Syria \add District\add* heard \f + \ft personification \f* what he was doing, they brought to him
 people who suffered from illnesses, people who suffered from many kinds of diseases, people who
-\add suffered from\add* severe pains, people who were controlled by demons {whom demons controlled}, people who were
+\add suffered from\add* severe pains, people who were controlled by demons \f + \ft Or:whom demons controlled \f*, people who were
 epileptics, and people who were paralyzed. And Jesus healed them.
 \v 25 Then crowds started to go with him. \add They were people from\add* Galilee
 \add District\add*, from the Decapolis\f + \ft Or: from the Ten Towns \add area\add* \f*, from Jerusalem

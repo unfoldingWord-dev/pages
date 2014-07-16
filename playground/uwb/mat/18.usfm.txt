@@ -36,7 +36,7 @@ to\add* gouge out one of your eyes and throw it away \add to avoid sinning, do
 it\add* \f + \ft hyperbole \f*! It is good\add that you not sin and\add* go where you will live
 \add with God eternally, even though while you are still here on
 earth\add* you have only one eye. But it is not good that you continue to have your two eyes
-\add and do the sinful things you want to, and as a result\add*, you are thrown {God throws you} into hell where there is
+\add and do the sinful things you want to, and as a result\add*, you are thrown \f + \ft Or:God throws you \f* into hell where there is
 eternal fire burning." 
 \s Matthew 18:10-14 
 \s Jesus taught that God is deeply concerned if even one person goes astray from him.
@@ -64,11 +64,11 @@ you\add*, you will have restored \add your friendship with\add* that person.
 \v 16 If that person will not listen to you \add nor feel sorry that he has sinned against
 you\add*, go get one or two other people \add who will listen to what you both have to
 say\add*. Have them go with you so that \add what is written\add*
-{\add Moses wrote\add*} \add in the Scriptures might happen:\add*
+\f + \ft Or:\add Moses wrote\add* \f* \add in the Scriptures might happen:\add*
 '\add When one person accuses another in some matter\add*, it should be confirmed by
-\add at least\add* two or three people {\add at least\add* two or three people should confirm it}
-\add before that person can be declared\add* guilty {\add before they declare that person
-guilty\add*}.' 
+\add at least\add* two or three people \f + \ft Or:\add at least\add* two or three people should confirm it \f*
+\add before that person can be declared\add* guilty \f + \ft Or:\add before they declare that person
+guilty\add* \f*.' 
 \v 17 If the one who has sinned against you will not listen to them
 \add or does not feel sorry that he has sinned against you\add*, tell that to the congregation
 \add so that they can rebuke him\add*. If that person will not listen to the congregation
@@ -77,7 +77,7 @@ like\add* you \add would exclude\add* pagans, tax collectors, \add and others wh
 greatly\add*. 
 \v 18 Keep this in mind: Whatever you decide on earth \add about
 punishing\add* or \add not punishing a member of your congregation\add* is what has also been decided by
-\add God\add* in heaven {what \add God\add* in heaven has also decided}.
+\add God\add* in heaven \f + \ft Or:what \add God\add* in heaven has also decided \f*.
 \v 19 Also note this: If \add at least\add* two of you \add who live\add* here on earth agree together about whatever you ask
 \add God\add* for \f + \ft doublet \f*, \add God\add*, my Father \add who is\add* in heaven, will give you what you ask for.
 \v 20  \add This is true\add*, because wherever \add at least\add* two or three of you assemble because you believe in me
@@ -94,8 +94,8 @@ him\add* as many as seven times?"
 must\add* \add forgive him\add* 77 times\f + \ft Or: never stop forgiving him \f*.
 \v 23  \add In order to illustrate\add* why \add you should do this\add*, I
 \add will tell you a story in which\add* God [MTY\f + \ft Or: EUP \f*], \add who cares
-for\add* the people whose lives he rules over, is compared {I compare God,
-\add who cares for\add* the people whose lives he rules over} to a king
+for\add* the people whose lives he rules over, is compared \f + \ft Or:I compare God,
+\add who cares for\add* the people whose lives he rules over \f* to a king
 \add and his officials\add*. That king told \add some of his servants that he
 wanted\add* his officials to pay what they owed him. 
 \v 24  \add So those officials were brought to the king to\add* settle
@@ -103,7 +103,7 @@ wanted\add* his officials to pay what they owed him.
 brought\add* owed the king several million dollars. 
 \v 25 But because he did not have \add enough money\add* to pay \add what he
 owed\add*, the king demanded that he, his wife, his children and all he possessed be sold
-\add to someone else and that the king\add* be repaid \add with\add* {receive}
+\add to someone else and that the king\add* be repaid \add with\add* \f + \ft Or:receive \f*
 \add the money that was paid for them\add*. 
 \v 26 Then that official, \add knowing that he did not have the money to pay that huge
 debt\add*, fell on his knees \add in front of the king\add* and he begged him saying, 'Be patient with me, and I will pay you

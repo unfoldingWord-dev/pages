@@ -15,7 +15,7 @@ competent\f + \ft Or: able \f*\f + \ft Or: qualified \f* to teach others.
 \v 4  \add You know that\add* soldiers, in order to please their captain, do not become involved in civilian affairs\f + \ft Or: spend
 time doing other kinds of work \f* \f + \ft metaphor \f*. \add So, like soldiers, do not let other matters distract you as you serve\f + \ft Or: hinder you
 from serving\add* \f* \add Christ Jesus!\add* 
-\v 5  \add Similarly, you know that\add* athletes who do not obey the rules of the contest will not be given {not win} the
+\v 5  \add Similarly, you know that\add* athletes who do not obey the rules of the contest will not be given \f + \ft Or:not win \f* the
 prize \f + \ft metaphor \f*. \add So, like athletes, do all that Christ Jesus has commanded so that God will reward
 you!\add* 
 \v 6  \add You also know that\add* a hard-working farmer should be the first to receive some of the harvest \f + \ft metaphor \f*.
@@ -24,13 +24,13 @@ you!\add*
 \v 7 Think about what I have just written, because, \add if you do\add*, the Lord will enable you to understand everything
 \add that you need to understand\add*. 
 \v 8  \add Endure everything by\add* remembering how Jesus Christ
-\add endured it when he suffered\add*. Remember that he was raised {God raised him} from the dead and
+\add endured it when he suffered\add*. Remember that he was raised \f + \ft Or:God raised him \f* from the dead and
 \add God affirmed\f + \ft Or: declared \f* him to be king as\add* his ancestor \add King\add* David was. Those are things that I tell to people
 when I tell them the message \add about Christ\add*. 
 \v 9 I am suffering \add here in prison\add* because \add some people
 oppose\add* the good message \add that I tell\add*. They have even put me in chains as if I were a criminal. Nevertheless, the
-message from God is not chained {nothing is preventing \f + \ft metaphor \f* \add others from
-proclaiming\add* the message from God}. 
+message from God is not chained \f + \ft Or:nothing is preventing ( metaphor ) \add others from
+proclaiming\add* the message from God \f*. 
 \v 10 Therefore I \add willingly\add* endure all \add that I am suffering\add* for the sake of those
 \add whom God has\add* chosen. \add I do this\add* in order that Christ Jesus will save them, too, and that they will be
 forever with \add him in the\add* glorious \add place where he is\add*.
@@ -92,7 +92,7 @@ false doctrines\f + \ft Or: teachings \f* who are not\add*.
 \v 21 Therefore, those who rid themselves of \add what is evil in their
 lives\add* will be able to\add work well for the Lord. They will be
 like\add* utensils \f + \ft metaphor \f* used at special \add occasions\add*, set apart for and especially useful to the owner
-\add of the big house. They will be like fine utensils\add* that have been prepared {are ready} to do any kind of good work.
+\add of the big house. They will be like fine utensils\add* that have been prepared \f + \ft Or:are ready \f* to do any kind of good work.
 \v 22  \add Because of that\add*, you\add \f + \ft singular \f*\add* must avoid doing the wrong actions that
 \add many\add* young people desire to do. Instead, you must earnestly do right actions, believe
 \add the true teaching\add*, love \add God and others, and you must continually be

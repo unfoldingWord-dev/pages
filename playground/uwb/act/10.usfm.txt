@@ -54,8 +54,8 @@ birds\add* up into the sky again \f*.
 \s Acts 10:17-23a 
 \s The Holy Spirit commanded Peter to go with the non-Jewish men.
 \p
-\v 17 While Peter was trying to understand what that vision meant, the men who had been sent by Cornelius {whom Cornelius had
-sent} \add arrived. They asked people how to get to\add* Simon's house.
+\v 17 While Peter was trying to understand what that vision meant, the men who had been sent by Cornelius \f + \ft Or:whom Cornelius had
+sent \f* \add arrived. They asked people how to get to\add* Simon's house.
 \add So they found his house\add* and were standing outside the gate.
 \v 18 They called and were asking if a man named Simon, whose other name was Peter, was staying there.
 \v 19 While Peter was still trying to understand \add what\add* the vision
@@ -103,8 +103,8 @@ me\add*, why have you asked me to come \add here\add*?"
 \v 30 Cornelius replied, "About this time four days ago I was praying
 \add to God\add* in my house, \add as I regularly do\add* at three o'clock in the afternoon. Suddenly a man whose clothes
 \add shone\add* brightly stood in front of me, 
-\v 31 and said, 'Cornelius, when you\add \f + \ft singular \f*\add* have prayed, you have been heard by God {God has heard
-\add when\add* you\add \f + \ft singular \f*\add* have prayed \add to him\add*}. He has also noticed that you have
+\v 31 and said, 'Cornelius, when you\add \f + \ft singular \f*\add* have prayed, you have been heard by God \f + \ft Or:God has heard
+\add when\add* you\add \f + \ft singular \f*\add* have prayed \add to him\add* \f*. He has also noticed that you have
 \add often\add* given money to \add help\add* poor people, \add and he is pleased with
 that\add*. 
 \v 32 So now, send \add messengers to go\add* to Joppa city\add , in

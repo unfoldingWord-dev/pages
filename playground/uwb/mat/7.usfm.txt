@@ -4,7 +4,7 @@
 \p
 \v 1 "Do not talk about how sinfully others have acted, in order that God will not say how sinfully you have acted.
 \v 2 If you condemn \add other people\add*, \add God\add* will condemn you. To the same extent that you condemn others, you
-will be condemned {\add God\add* will condemn you}. 
+will be condemned \f + \ft Or:\add God\add* will condemn you \f*. 
 \v 3 None of you should be concerned \add about someone else's small
 faults\add* \f + \ft metaphor \f*!\f + \ft Or: Why should any of you be concerned \add about someone else's small
 faults\add*? \f* \f + \ft metaphor, rhetorical question \f* \add That would be like noticing\add* a speck in that person's eye. But you should
@@ -32,7 +32,7 @@ you\add*."
 them to you. It will be like\add* \f + \ft metaphor \f* looking for what you need and finding it. Keep on
 \add praying persistently to God. Then God will answer you. It will be
 like\add* \f + \ft metaphor \f* knocking \add on a door in order to enter a room\add*. And the way will be opened
-{\add God\add* will open the way} for you \add to get what you pray
+\f + \ft Or:\add God\add* will open the way \f* for you \add to get what you pray
 for\add*. 
 \v 8 Remember that \add God\add* will give things to everyone who continues to ask
 \add him for them\add*. \add He\add* will give things to whoever confidently keeps
@@ -58,10 +58,10 @@ in\add* the laws \add that God gave him\add* and \add also what\add* the prophet
 \v 13-14 "\add Going to\add* where people live eternally \add with God in
 heaven\add* is difficult. \add It is like\add* going along a narrow road \f + \ft personification, metaphor \f* that leads to a narrow gate. Not many
 people find that way. \add The way\add* that most \add people take\add* is easy,
-\add but it results in their being punished\add* {\add God punishing
-them\add*} \add in hell. That way is like a\add* wide road that people walk on \f + \ft personification, metaphor \f* until they reach the wide gate, but
+\add but it results in their being punished\add* \f + \ft Or:\add God punishing
+them\add* \f* \add in hell. That way is like a\add* wide road that people walk on \f + \ft personification, metaphor \f* until they reach the wide gate, but
 that road and that gate lead to where \add they\add* will be destroyed
-{\add God\add* will destroy them}. Many people enter that gate. So I
+\f + \ft Or:\add God\add* will destroy them \f*. Many people enter that gate. So I
 \add am telling you to leave the wide road and\add* enter the narrow gate
 \add to heaven\add*." 
 \s Matthew 7:15-20 
@@ -78,9 +78,9 @@ grapes\add*, so no one can pick grapes from thornbushes.\f + \ft Or: can anyone 
 \v 17  \add Here is another example\add*: All good fruit trees produce good fruit, but all rotten trees produce worthless
 fruit. 
 \v 18 No good fruit tree is able to produce worthless fruit, and no rotten tree is able to produce good fruit.
-\v 19  \add And\add* all the trees that do not produce good fruit are chopped down and burned in the fire {people chop them
-down and burn them in the fire} \add to get rid of them\add*. \add Similarly\add*, those who falsely claim to be
-prophets\add will be thrown\add* {\add God will throw false prophets\add*}
+\v 19  \add And\add* all the trees that do not produce good fruit are chopped down and burned in the fire \f + \ft Or:people chop them
+down and burn them in the fire \f* \add to get rid of them\add*. \add Similarly\add*, those who falsely claim to be
+prophets\add will be thrown\add* \f + \ft Or:\add God will throw false prophets\add* \f*
 \add into the fires of hell\add*. 
 \v 20 By seeing \add what plants\add* produce, you know \add what kind of
 plants\add* they are. \add Similarly, when you see what the people who come to you
@@ -101,7 +101,7 @@ we\f + \ft exclusive \f* expelled demons from \add people\add* \f + \ft rhetoric
 \p
 \v 24 "So then, anyone who hears what I say and does what I command, will be like a wise man who built his house on rock.
 \v 25  \add Even though\add* the rain came down and the river flooded, and the winds blew and beat against that house, it did
-not fall down because it had been built {he built it} on a solid foundation.
+not fall down because it had been built \f + \ft Or:he built it \f* on a solid foundation.
 \v 26 On the other hand, anyone who hears what I say but does not obey what I say will be like a foolish man who built his
 house on the sand. 
 \v 27 When the rain fell and the river flooded, and the winds blew and beat against that house, it crashed down and broke

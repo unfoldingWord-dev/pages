@@ -2,13 +2,13 @@
 \s Mark 2:1-12 
 \s By healing a paralyzed man Jesus demonstrated his authority to forgive sins as well as to heal.
 \p
-\v 1  \add Jesus and his disciples\add* returned to Capernaum \add town\add*. A few days later, because it was {people} heard
+\v 1  \add Jesus and his disciples\add* returned to Capernaum \add town\add*. A few days later, because it was \f + \ft Or:people \f* heard
 that Jesus was in \add his\add* house, 
 \v 2 many people gathered there. As a result, \add after the people filled the
 house\add*, there was no longer space to stand \add in the house
 or\add* around the doorway \add outside\add*. Jesus preached \add God's\add* message to them.
-\v 3 Some people came to the house bringing to Jesus a man who was paralyzed. He was carried by four men {Four men carried
-\add him\add*} \add on a sleeping pad\add*. 
+\v 3 Some people came to the house bringing to Jesus a man who was paralyzed. He was carried by four men \f + \ft Or:Four men carried
+\add him\add* \f* \add on a sleeping pad\add*. 
 \v 4 They were not able to bring the man to Jesus because there was a crowd there. So they
 \add went up the steps to the flat roof and\add* removed \add some
 of\add* the tiles \add above\add* where Jesus was. Then, after they made a
@@ -25,7 +25,7 @@ should not question within yourselves \add whether I have the right to forgive t
 sins\add*!\f + \ft Or: Why do you question \add whether I have the right to forgive this man's
 sins\add*? \f* \f + \ft rhetorical question \f* 
 \v 9 It is \add not risky\add* \f + \ft rhetorical question \f* for someone to tell the man who is paralyzed, 'Your sins are forgiven
-{\add I\add* forgive your sins},' \add because no one can prove that it has
+\f + \ft Or:\add I\add* forgive your sins \f*,' \add because no one can prove that it has
 happened\add*. But no one would say to him, 'Get up, pick up your stretcher, and then walk away',
 \add unless he really had the power to heal him, because people can easily see whether it happens or
 not\add*. 
@@ -52,7 +52,7 @@ disciple\add*!" So he got up and went with Jesus.
 \add everywhere\add* with Jesus. 
 \v 16 The \add men who taught the Jewish\add* laws \add who were
 there\add* and who were members of the Pharisee \add sect\add* saw that Jesus was eating with men who collected taxes and
-\add others who were considered\add* {\add whom they considered\add*}
+\add others who were considered\add* \f + \ft Or:\add whom they considered\add* \f*
 \add to be\add* sinners. So they said to his disciples, "It is disgusting that he eats with
 \add such disgusting\add* men as those who collect taxes, and with
 \add other\add* sinners!\f + \ft Or: Why is it that he eats with \add such disgusting\add* men as those who collect taxes, and with
@@ -79,7 +79,7 @@ that\add* \f + \ft rhetorical question \f*?"
 food while he was still with them\add*. So he said to them, "When a man is marrying a woman, his friends will certainly not
 abstain from food while he is still with them, will they \f + \ft rhetorical question \f*? No. During the time that he is with them, they will not abstain
 from food \add because they are happy together\add*. 
-\v 20 But some day, he will be taken away {his \add enemies\add* will take him away} from them. Then, in those days, they will
+\v 20 But some day, he will be taken away \f + \ft Or:his \add enemies\add* will take him away \f* from them. Then, in those days, they will
 abstain from food, \add because they will be sad\add*." 
 \p
 \v 21  \add Jesus wanted to show that those who desire to live in accordance with his new message should not try to continue to

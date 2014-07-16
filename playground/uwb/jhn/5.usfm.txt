@@ -14,7 +14,7 @@ had."\f*
 \v 6 Jesus saw him lying there and found out that the man had been like that for a long time. He said to the man, "Do you want
 to become well?" 
 \v 7 The paralyzed man replied to him, "\add Yes\add*, sir, \add I want to get well,
-but\add* there is no one to help me get down into the pool when the water is stirred {stirs}. While I am trying to get
+but\add* there is no one to help me get down into the pool when the water is stirred \f + \ft Or:stirs \f*. While I am trying to get
 \add to the pool\add*, someone else always gets there before me."
 \v 8 Jesus said to him, "Get up! Then pick up your mat and walk!"
 \v 9 The man immediately was healed. He picked up his mat and started walking!
@@ -86,10 +86,10 @@ me\add*, he told the truth \add about me\add*.
 \v 34 I do not \add need that\add* people tell others \add about
 me\add*. But instead, I am reminding \add you about what John told people about
 me\add*, in order that you will \add believe it and\add* be saved
-{\add God\add* will save you}. 
+\f + \ft Or:\add God\add* will save you \f*. 
 \v 35  \add John's message about me\add* \f + \ft Or: \add John\add* \f* \f + \ft metaphor \f* was
 \add like\add* a lamp that shines brightly. For a short while you were willing to be made happy
-\add by that message\add* {to let \add that message\add* make you happy}.
+\add by that message\add* \f + \ft Or:to let \add that message\add* make you happy \f*.
 \p
 \v 36 But there is something else that tells you about me. \add It should prove who I
 am\add* more than what John \add said about me\add*. The miracles \f + \ft personification \f* that

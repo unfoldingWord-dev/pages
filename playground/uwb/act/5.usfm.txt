@@ -62,8 +62,8 @@ streets and laying them on stretchers and mats, in order that \add when\add* Pet
 \add he would touch them, or\add* at least his shadow might come upon some of them
 \add and heal them\add*. 
 \v 16 Crowds of people were also coming \add to the apostles\add* from the towns near Jerusalem. They were bringing their sick
-\add relatives\f + \ft Or: friends \f*\add* and those who were being tormented\f + \ft Or: troubled \f* by evil spirits {whom evil spirits were
-tormenting\f + \ft Or: troubling \f*}, and \add God\add* healed all of them. 
+\add relatives\f + \ft Or: friends \f*\add* and those who were being tormented\f + \ft Or: troubled \f* by evil spirits \f + \ft Or:whom evil spirits were
+tormenting( Or: troubling ) \f*, and \add God\add* healed all of them. 
 \s Acts 5:17-21a 
 \s Jewish leaders jailed the apostles, but an angel freed them to teach people.
 \p
@@ -138,7 +138,7 @@ need to think carefully about what you want to do to these men, \add and I will 
 why\add*. 
 \v 36 Some years ago \add a man named\add* Theudas rebelled \add against the Roman
 government\add*. He told people that he was an important person, and about four hundred men joined
-\add him. But he was killed\add* {\add soldiers\add* killed him} and all those who had been accompanying him were scattered.
+\add him. But he was killed\add* \f + \ft Or:\add soldiers\add* killed him \f* and all those who had been accompanying him were scattered.
 \add So they\add* were not able to do anything \add that they had
 planned\add*. 
 \v 37 After that, during the time when they were writing down names of the people\f + \ft Or: taking the census \f*

@@ -60,7 +60,7 @@ later betrayed Jesus.\f + \ft Or: enabled the Jewish leaders to seize Jesus. \f*
 disciples there. There was also a large group of people who had come from Jerusalem and from many
 \add other\add* places \add in\add* Judea \add district\add*, and from the coastal areas near Tyre and Sidon
 \add cities\add*. 
-\v 18 They came to hear Jesus talk to them and to be healed {and for him to heal them} from their diseases. He also healed
+\v 18 They came to hear Jesus talk to them and to be healed \f + \ft Or:and for him to heal them \f* from their diseases. He also healed
 those whom evil spirits had troubled. 
 \v 19 Everyone \add in the crowd\add* tried to touch him, because he was healing everyone by
 \add his\f + \ft Or: God \f*'s\add* power. 
@@ -136,8 +136,8 @@ Jewish religious leaders\add*: "You certainly would not \add expect\add* a blind
 \add expect\add* a blind man to lead\add another\add* blind man? \f* \f + \ft rhetorical question \f* If he tried to do
 \add that\add*, they would both probably fall into a hole!\f + \ft Or: wouldn't they both probably fall into a hole? \f* \f + \ft rhetorical question \f*
 \add I am your teacher, and you disciples should be like me\add*.
-\v 40 A disciple should not \add expect to be\add* greater than his teacher. But if a student is fully trained {if someone
-fully trains a student}, the student can become like his teacher \f + \ft metaphor \f*.
+\v 40 A disciple should not \add expect to be\add* greater than his teacher. But if a student is fully trained \f + \ft Or:if someone
+fully trains a student \f*, the student can become like his teacher \f + \ft metaphor \f*.
 \add So you should be content to be like me\add*. 
 \p
 \v 41 Why do you notice\add someone else's small faults\add*?\f + \ft Or: None \f* of you should be concerned about
@@ -173,7 +173,7 @@ but you do not do what I tell you!\f + \ft Or: why do you say that I am your mas
 \v 47 Some people come to me, and hear my messages and obey them. I will tell you what they are like.
 \v 48 They are like a man who dug deep \add into the ground to prepare to build his
 house\add*. He made sure that the foundation was on solid ground. Then when there was a flood, the water tried to wash away the
-house. But the river could not shake the house, because it was built {he built it} on a solid
+house. But the river could not shake the house, because it was built \f + \ft Or:he built it \f* on a solid
 \add foundation\add*. 
 \v 49 But some people hear my messages but do not obey them. They are like a man who built a house on top of the ground without
 \add digging\add* a foundation. When the river flooded, the house collapsed immediately and was completely ruined.

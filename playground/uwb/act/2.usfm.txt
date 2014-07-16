@@ -10,8 +10,8 @@
 \v 3 Then they saw \add what looked\add* like flames of fire. These flames separated
 \add from one another\add*, and \add one of them\add* came down on
 \add the head of\add* each of the believers. 
-\v 4 Then all of the believers were completely controlled\f + \ft Or: empowered \f* by the Holy Spirit {the Holy Spirit completely
-controlled\f + \ft Or: empowered \f* all of the believers}, and he enabled them to begin speaking other languages \f + \ft metonymy \f*
+\v 4 Then all of the believers were completely controlled\f + \ft Or: empowered \f* by the Holy Spirit \f + \ft Or:the Holy Spirit completely
+controlled( Or: empowered ) all of the believers \f*, and he enabled them to begin speaking other languages \f + \ft metonymy \f*
 \add that they had not learned\add*. 
 \s Acts 2:5-13 
 \s Jews from many places were amazed to hear their native languages spoken by the believers.
@@ -70,8 +70,8 @@ happen\add* before the important and splendid\f + \ft Or: amazing \f* day \f + \
 I\add*, the Lord \add God, will come to judge everyone\add*. 
 \v 21  \add Before that time\add*, all those who ask \add me\add* \f + \ft metonymy \f*
 \add to save them from the guilt of their sins\add* will be saved
-{\add I\add*, the Lord, will save all those who ask \add me\add* \f + \ft metonymy \f*
-\add to save them from the guilt of their sins\add*.}' " 
+\f + \ft Or:\add I\add*, the Lord, will save all those who ask \add me\add* \f + \ft metonymy \f*
+\add to save them from the guilt of their sins\add*. \f*' " 
 \s Acts 2:22-24 
 \s Peter said, "You killed Jesus but God caused him to live again."
 \p
@@ -106,7 +106,7 @@ dead\add* \f*.
 \p
 \v 29  \add Peter\add* continued, "My fellow Jews, I can tell you confidently that
 \add our royal\add* ancestor, \add King\add* David, died, and that his
-\add body\add* was buried {that \add people\add* buried his \add body\add*}. And the place
+\add body\add* was buried \f + \ft Or:that \add people\add* buried his \add body\add* \f*. And the place
 \add where they\add* buried his body is \add still\add* here today.
 \v 30 So \add we\f + \ft inclusive \f* know that David was not speaking those words about himself.
 But\add* because he was a prophet, \add he spoke about the Messiah\add*. David knew that God had strongly promised him that he
@@ -180,4 +180,4 @@ their food \f + \ft synecdoche \f* \add with each other\add*, as they ate togeth
 \v 47  \add As they did so\add*, they were praising God, and all the
 \add other\add* people \add in Jerusalem\add* were \add thinking\add* favorably about them.
 \add As those things were happening\add*, every day the Lord \add Jesus\add* increased the number of people who were being
-saved {whom he was saving} \add from the guilt of their sins\add*.
+saved \f + \ft Or:whom he was saving \f* \add from the guilt of their sins\add*.

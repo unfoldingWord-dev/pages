@@ -13,8 +13,8 @@ helped direct them, but then an angel told them not to go back to King Herod.
 \add We saw it while we were in our country\add* east \add of here\add*. So we have come to worship him."
 \p
 \v 3 When King Herod heard \add what those men were asking\add*, he became worried
-\add that someone else might be proclaimed\add* {\add people might proclaim someone
-else\add*} \add king of the Jews to replace him\add*. Many \add of the
+\add that someone else might be proclaimed\add* \f + \ft Or:\add people might proclaim someone
+else\add* \f* \add king of the Jews to replace him\add*. Many \add of the
 people\add* of Jerusalem \add city\add* \f + \ft metonymy, hyperbole \f* \add also\add* became worried
 \add because they were afraid of what King Herod might do\add*. 
 \v 4 Then Herod gathered together all the ruling priests and men who taught the people the
@@ -22,7 +22,7 @@ people\add* of Jerusalem \add city\add* \f + \ft metonymy, hyperbole \f* \add al
 that\add* the Messiah was to be born. 
 \v 5 They said to him, "\add He will be born\add* in Bethlehem \add town,
 here\add* in Judea \add province\add*, because it was written by the prophet
-\add Micah\add* {the prophet \add Micah\add* wrote} \add long ago what God
+\add Micah\add* \f + \ft Or:the prophet \add Micah\add* wrote \f* \add long ago what God
 said\add*: 
 \v 6 'You \add who live in\add* Bethlehem \add town\add* \f + \ft apostrophe \f*, in Judea
 \add province\add*, your town is certainly very important \f + \ft litotes \f*, because a man from your
@@ -46,7 +46,7 @@ it\add*.
 Then they opened their treasure \add boxes\add* \f + \ft metonymy \f* and they gave gold,
 \add costly\add* frankincense, and myrrh to him. 
 \v 12  \add Because\add* God \add knew that King Herod planned to kill
-Jesus\add*, in a dream the men who studied the stars were warned {he warned the men who studied the stars} that they should not
+Jesus\add*, in a dream the men who studied the stars were warned \f + \ft Or:he warned the men who studied the stars \f* that they should not
 return to \add King\add* Herod. So they returned to their country,
 \add but instead of traveling back on the same road, they\add* went on a different road.
 \s Matthew 2:13-21 
@@ -58,12 +58,12 @@ return to \add King\add* Herod. So they returned to their country,
 leave\add*, because\add King\add* Herod is about \add to send soldiers\add* to look for the child so that they can kill him."
 \v 14 So Joseph got up, he took the child and his mother \add that\add* night, and they fled into Egypt.
 \v 15 They stayed there until \add King\add* Herod died, \add and then they left
-Egypt\add*. By doing that, it was {they} fulfilled what the prophet
-\add Hosea\add* wrote, which had been said by the Lord {which the Lord had said},
+Egypt\add*. By doing that, it was \f + \ft Or:they \f* fulfilled what the prophet
+\add Hosea\add* wrote, which had been said by the Lord \f + \ft Or:which the Lord had said \f*,
 \q I have told my son to come out of Egypt. 
 \m
 \v 16  \add While King\add* Herod \add was still living\add*, because he realized that he had been tricked by the men who
-studied the stars {the men who studied the stars had tricked him}, he became furious. Then,
+studied the stars \f + \ft Or:the men who studied the stars had tricked him \f*, he became furious. Then,
 \add assuming that Jesus was still in Bethlehem or the surrounding
 regions\add*, Herod sent \add soldiers there\add* to kill all the boy babies two years old and younger.
 \add Herod calculated how old the baby was\add*, according to what the men who studied the stars told him
@@ -74,7 +74,7 @@ soldiers killed the infant boys\add*, they fulfilled what Jeremiah the prophet w
 \v 18  \add Women\add* in Ramah were weeping and wailing loudly.
 \add Women who were the descendants\add* of Rachel, \add the ancestor of the women
 there\add* \f + \ft synecdoche \f*, were grieving for \add what happened to\add* their children.
-\add Even though people tried to comfort them\add*, they would not be comforted {stop mourning} because their children were
+\add Even though people tried to comfort them\add*, they would not be comforted \f + \ft Or:stop mourning \f* because their children were
 dead \f + \ft euphemism \f*. 
 \p
 \v 19 After Herod died \add and while Joseph and his family were still in
@@ -89,8 +89,8 @@ fulfilled.
 \p
 \v 22 When Joseph heard that Archaelaus now ruled in Judea \add district\add* instead of his father,
 \add King\add* Herod \add the Great\add*, he was afraid to go there. Because he was warned
-{\add God\add* warned Joseph} in a dream \add that it was still dangerous for them to live in
+\f + \ft Or:\add God\add* warned Joseph \f* in a dream \add that it was still dangerous for them to live in
 Judea\add*, he \add and Mary and Jesus\add* went into Galilee \add District\add*
-\v 23 to the town called Nazareth \add to live there\add*. The result was that what had been said by the ancient prophets {what
-the ancient prophets had said} \add about the Messiah\add*, that he would be called {people would call him} a Nazareth-man, was
-fulfilled {came true}. 
+\v 23 to the town called Nazareth \add to live there\add*. The result was that what had been said by the ancient prophets \f + \ft Or:what
+the ancient prophets had said \f* \add about the Messiah\add*, that he would be called \f + \ft Or:people would call him \f* a Nazareth-man, was
+fulfilled \f + \ft Or:came true \f*. 

@@ -85,7 +85,7 @@ you\add \f + \ft plural \f*\add* to have authority \f + \ft metonymy \f* over th
 \p
 \v 21 From that time Jesus began to teach \add us\add* disciples that it was necessary for him to go to Jerusalem
 \add city\add*. There the ruling elders, the chief priests, and the men who taught the
-\add Jewish\add* laws would cause him to suffer and be killed {die}. Then on the third day
+\add Jewish\add* laws would cause him to suffer and be killed \f + \ft Or:die \f*. Then on the third day
 \add after that\add*, he would become alive again. 
 \v 22  \add Because Peter assumed that the Messiah would not suffer and
 die\add*, he took Jesus aside and began to rebuke him\add for talking about suffering and

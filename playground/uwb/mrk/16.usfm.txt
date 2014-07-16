@@ -12,13 +12,13 @@ custom\add*.
 \v 3  \add While they were going there\add*, they were saying to each other, "Who will roll away for us the stone
 \add that blocks\add* the entrance of the tomb?" 
 \v 4  \add After they arrived\add*, they looked up and saw that the stone had
-\add already\add* been rolled away {that someone had \add already\add* rolled away the stone}.
+\add already\add* been rolled away \f + \ft Or:that someone had \add already\add* rolled away the stone \f*.
 \add They were surprised because it\add* would have been difficult to move such a huge stone.
 \v 5 They entered the tomb and saw \add an angel who looked like\add* a young man. He was sitting at the right side
 \add of the cave\add*. He was wearing a \add shining\add* white robe. As a result, they were astonished.
 \v 6 The young man said to them, "Do not be astonished! I \add know
-that\add* you are looking for Jesus, the man from Nazareth \add town\add*, who was nailed to a cross {whom they nailed to a
-cross}. But he has become alive again! He is not here! Look! \add Here
+that\add* you are looking for Jesus, the man from Nazareth \add town\add*, who was nailed to a cross \f + \ft Or:whom they nailed to a
+cross \f*. But he has become alive again! He is not here! Look! \add Here
 is\add* the place where they placed his \add body\add*. 
 \v 7 But, instead \add of remaining here\add*, go and tell his disciples. Particularly
 \add be sure\add* that you tell Peter. Tell them, '\add Jesus\add* is going ahead of you to Galilee
@@ -52,8 +52,8 @@ would accompany their ministry.
 \p
 \v 15  \add Later\add* he said to them, "Go into the whole world and preach the good message to everyone!
 \v 16 Everyone who believes \add your message\add* and who is baptized will be saved
-{\add God\add* will save}. But everyone who does not believe it will be condemned
-{\add God\add* will condemn}. 
+\f + \ft Or:\add God\add* will save \f*. But everyone who does not believe it will be condemned
+\f + \ft Or:\add God\add* will condemn \f*. 
 \v 17 Those who believe \add my good message\add* will perform miracles. Specifically, by my power they will expel evil
 spirits. They will speak in languages that they have not learned.
 \v 18 If they pick up snakes \add accidentally\add* or if they drink any poisonous
@@ -61,7 +61,7 @@ spirits. They will speak in languages that they have not learned.
 \add people in order that God will heal them\add*, those sick people will become well."
 \p
 \v 19 After the Lord Jesus had said this to \add the disciples, he was
-taken\add* {\add God\add* took him} up into heaven. Then he sat down on his throne beside God
+taken\add* \f + \ft Or:\add God\add* took him \f* up into heaven. Then he sat down on his throne beside God
 \add to rule with him\add*. 
 \v 20  \add As for the disciples\add*, they went out \add from Jerusalem, and then they preached everywhere. Wherever they
 went\add*, the Lord enabled them to perform miracles. \add By doing

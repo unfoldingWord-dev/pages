@@ -60,7 +60,7 @@ that\add* you yourselves do not have what you need. No, what I want is that
 day\add* when you do not have enough\f + \ft Or: all that you need \f* and they have more than they need, they will
 \add be able to\add* help you. Then everyone will have enough \f + \ft Or: In that way each will share alike \f*.
 \v 15  \add If that happens, the result will be like it is written\add*
-{\add like someone\f + \ft Or: Moses \f*\add* wrote} \add in the Scriptures about the time when God provided manna for his
+\f + \ft Or:\add like someone, Or: Moses\add* wrote \f* \add in the Scriptures about the time when God provided manna for his
 people\add*, 
 \p If someone gathered a lot \add of manna\add*, he still did not have more than he needed,
 \add because he gave some to someone who did not have enough\add*. And those who gathered only a little
@@ -79,7 +79,7 @@ in Corinth.
 well\add*. All the groups of believers \add in this area\add* think highly of him because he has
 \add faithfully taught\add* the good message \add about Christ\add*.
 \v 19 Not only that, but he was appointed by the congregations \add in this
-area\add* {the congregations \add in this area\add* appointed him} to
+area\add* \f + \ft Or:the congregations \add in this area\add* appointed him \f* to
 \add go\add* there with us\add \f + \ft exclusive \f*\add*. He \add will go\add* with us
 \add when we take\add* the generous gift of money \f + \ft euphemism \f* \add to the believers in Jerusalem. We are taking
 this\add* gift to honor the Lord \add Jesus\add* and to show them that we all

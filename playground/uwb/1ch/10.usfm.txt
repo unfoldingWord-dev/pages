@@ -2,7 +2,7 @@
 \s The death of King Saul 
 \p
 \v 1 The army of Philistia \add again\add* fought against the Israelis. The Israeli soldiers ran away from them, and many
-Israelis were killed {the soldiers of Philistia killed many Israelis} on Gilboa Mountain.
+Israelis were killed \f + \ft Or:the soldiers of Philistia killed many Israelis \f* on Gilboa Mountain.
 \v 2 The soldiers of Philistia fought caught up with Saul and his sons, and they killed his sons Jonathan, Abinadab, and
 Malchishua. 
 \v 3 The fighting was very fierce around Saul, and the archers\f + \ft Or: men who shot arrows \f* shot Saul and wounded him severely.

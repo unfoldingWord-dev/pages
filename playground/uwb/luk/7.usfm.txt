@@ -36,8 +36,8 @@ found anyone who trusted \add in me like this non-Jewish man does\add*. No one f
 \v 11 Soon after that, Jesus went to a town called Nain. His disciples and a large crowd
 \add of other people\add* went with him. 
 \v 12 As they approached the town gate, the corpse of a young man who had just died was being carried out
-\add on a stretcher\add* {\add people\add* were carrying out \add on a
-stretcher\add* the corpse of a young man who had just died}. His mother was a widow, and he was her only son. A large group of
+\add on a stretcher\add* \f + \ft Or:\add people\add* were carrying out \add on a
+stretcher\add* the corpse of a young man who had just died \f*. His mother was a widow, and he was her only son. A large group of
 people from the town were accompanying them. 
 \v 13 When the Lord saw her, he pitied her. He said to her, "Do not cry!"
 \v 14 Then, \add ignoring the Jewish laws about not coming near a
@@ -82,7 +82,7 @@ of his message\add* \f + \ft metaphor \f*, \add like\add* a reed that is blown b
 you\add* \f + \ft rhetorical question \f* \add go there to see John because he was\add* a prophet? Yes! But I will tell you that
 \add John is\add* more \add important\add* than an \add ordinary\add* prophet.
 \v 27 He is the one about whom \add these words\add* that God said to the Messiah have been written
-{\add the prophet Malachi\add* wrote \add these words\add*} \add in the
+\f + \ft Or:\add the prophet Malachi\add* wrote \add these words\add* \f* \add in the
 Scriptures\add*: 'Listen! I am going to send my messenger ahead of
 you\add \f + \ft singular \f*\add* \f + \ft synecdoche \f*. He will prepare \add people\add* for your coming.'
 \p
@@ -93,11 +93,11 @@ you\add \f + \ft singular \f*\add* \f + \ft synecdoche \f*. He will prepare \add
 \p
 \v 29 When they heard \add what Jesus said\add* \f + \ft Or: \add what John
 preached\add* \f*, all the people, including tax collectors, \add whom many people
-despised\add*, agreed that God's way was right. By being baptized by John {By
-\add letting\add* John baptize them}, \add they had agreed that what God required people to do in order to be saved was
+despised\add*, agreed that God's way was right. By being baptized by John \f + \ft Or:By
+\add letting\add* John baptize them \f*, \add they had agreed that what God required people to do in order to be saved was
 right\add*. 
-\v 30 But the Pharisees and the men who taught the \add Jewish\add* laws were not baptized by John {did not
-\add let\add* John baptize them} because they rejected what God wanted them to do.
+\v 30 But the Pharisees and the men who taught the \add Jewish\add* laws were not baptized by John \f + \ft Or:did not
+\add let\add* John baptize them \f* because they rejected what God wanted them to do.
 \p
 \v 31  \add Then Jesus also said\add*, "\add Many of\add* you people have heard what
 \add John and I\add* have taught. I will illustrate what you are like.\f + \ft Or: Do you know what
@@ -148,12 +148,12 @@ feet!
 \v 46 You did not \add follow our custom of welcoming guests by\add* anointing my head with
 \add olive\add* oil, but she has anointed my feet with fragrant perfume.
 \v 47 So I will tell you that even though she has sinned very much, she has been forgiven
-{\add I\add* have forgiven her}. \add By what she has done she has shown
+\f + \ft Or:\add I\add* have forgiven her \f*. \add By what she has done she has shown
 that\add* she loves \add me\add* very much. But a person who has
 \add sinned\add* just a little bit, but whom \add I\add* have forgiven, will love
 \add me just a little bit\add*." 
-\v 48 Then he said to the woman, "You have been forgiven {\add I
-have\add* forgiven \add you\add*} \add for\add* your sins." 
+\v 48 Then he said to the woman, "You have been forgiven \f + \ft Or:\add I
+have\add* forgiven \add you\add* \f* \add for\add* your sins." 
 \v 49 Then those who were eating with him said among themselves, "This man must
 \add think that he is God!\f + \ft Or: \add*Who does this man \add think that
 he\add* is \f + \ft rhetorical question \f* \f*, saying that he can forgive \add people for\add* their sins?"

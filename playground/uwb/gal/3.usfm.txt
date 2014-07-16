@@ -5,7 +5,7 @@ experience his working among you.
 \p
 \v 1 You \add fellow believers who live in\add* Galatia are very foolish! Someone must have put an evil spell on you!\f + \ft Or: Did
 someone put an evil spell on you? \f* \f + \ft rhetorical question \f* I clearly explained to you \f + \ft synecdoche \f*
-\add what\add* Jesus Christ \add accomplished when\add* he was crucified {he died on the cross}.
+\add what\add* Jesus Christ \add accomplished when\add* he was crucified \f + \ft Or:he died on the cross \f*.
 \v 2  \add So\add*, I want you to tell me one thing: \add Do you think
 that\add* it was because you obeyed the laws God gave Moses that you received the
 \add Holy\add* Spirit? \add Do you not know that\add* \f + \ft rhetorical question \f* it was because
@@ -29,7 +29,7 @@ justified by obeying the laws that God gave Moses are condemned by God.
 \p
 \v 6  \add What you have experienced is\add* as \add Moses wrote in the Scriptures
 about\add* Abraham. \add He wrote that Abraham\add* trusted God, and as a result, he was considered as being righteous
-{\add God\add* erased the record of his sins}. 
+\f + \ft Or:\add God\add* erased the record of his sins \f*. 
 \v 7 You must realize, therefore, that it is those who trust \add in what Christ has done
 who\add* are \add like\add* Abraham's descendants \f + \ft metaphor \f* \add because they trust in God as Abraham
 did\add*. 
@@ -59,8 +59,8 @@ receive the Spirit.
 \v 13 Even though we humans have not continuously and completely obeyed God's laws, Christ rescued us from
 \add God\add* punishing us eternally. Christ rescued us by his being
 \add the one God condemned\add* instead of God condemning us. What is written
-{\add someone\f + \ft Or: Moses \f*\add* wrote} \add in the Scriptures\add* shows that this is true. It is written
-{\add He\add* wrote}, "\add God has already\add* decided that he will punish eternally anyone
+\f + \ft Or:\add someone, Or: Moses\add* wrote \f* \add in the Scriptures\add* shows that this is true. It is written
+\f + \ft Or:\add He\add* wrote \f*, "\add God has already\add* decided that he will punish eternally anyone
 \add whom people execute for his crimes and whose body they\add* hang on a tree."
 \v 14 Christ rescued us in order that as a result of what Christ Jesus
 \add has done, God might bless the non-Jews, in a way similar to the
@@ -73,7 +73,7 @@ Christ. Just like God gave his blessings to Abraham just because he promised to 
 \p
 \v 15 My fellow believers, I will now \add illustrate\add* by referring to human
 \add relationships. After an agreement is confirmed by two people\add*
-{\add two people have signed\add* an agreement}, no one can reject it or add to it.
+\f + \ft Or:\add two people have signed\add* an agreement \f*, no one can reject it or add to it.
 \v 16  \add God\add* declared to Abraham and his descendant that he was promising
 \add to give blessings to Abraham\add*. \add The words that God spoke were not "and
 your\add* descendants." \add He was not\add* referring to many persons. Instead, he was referring to one person, who is Christ,
@@ -97,7 +97,7 @@ give\add* his laws \add to Moses?" I would reply that\add* it was in order that
 \add people might realize\add* how sinful they were. \add Those laws were
 valid\add* until \add Jesus came. He was\add* the descendant that God
 \add was referring to when he made\add* the promises to Abraham.
-\add The laws\add* were given {\add God\add* gave \add his laws\add*}
+\add The laws\add* were given \f + \ft Or:\add God\add* gave \add his laws\add* \f*
 \add to Moses\add* by God's causing angels to \add speak to him. Moses was
 the\add* mediator, \add the one who told the laws to the people\add*.
 \v 20 Now, \add when\add* a mediator \add functions\add*, one \add person\add* is not

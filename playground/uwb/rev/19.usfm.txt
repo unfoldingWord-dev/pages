@@ -35,8 +35,8 @@ river of rushing water \f*, and like the sound of loud thunder. They were shouti
 \s God will abundantly bless the people who have been invited to celebrate the marriage of the Lamb. Only God should be
 worshipped. All his servants are on an equal basis. 
 \p
-\v 9 Then the angel said to me, "Write \add this: God will abundantly\add* bless the people who are {whom
-\add he\add* has} invited to the feast \add that celebrates Jesus, the one who is like
+\v 9 Then the angel said to me, "Write \add this: God will abundantly\add* bless the people who are \f + \ft Or:whom
+\add he\add* has \f* invited to the feast \add that celebrates Jesus, the one who is like
 a\add* lamb, \add permanently uniting with his people, like someone\add* \f + \ft metaphor \f*
 \add marrying a wife\add*." He also said \add to me\add*: "These words that God
 \add declares\add* are true!" 
@@ -49,7 +49,7 @@ Spirit of God who gives people the power to tell others about Jesus \f + \ft Or:
 \s Revelation 19:11-16 
 \s John saw heaven open and saw the one whom he described as King of kings and Lord of lords mounted on a white horse.
 \p
-\v 11 I saw heaven opened {open}, and I was surprised to see a white horse.
+\v 11 I saw heaven opened \f + \ft Or:open \f*, and I was surprised to see a white horse.
 \add Jesus\add*, the one who was riding on the horse, is called 'Trustworthy and Genuine\f + \ft Or: True \f*.' He judges
 \add all people according to\add* what is right, and fights righteously
 \add against his enemies\add*. 
@@ -65,7 +65,7 @@ Spirit of God who gives people the power to tell others about Jesus \f + \ft Or:
 \add his enemies just like\add* \f + \ft metaphor \f* \add a person crushes grapes in
 a\add* winepress. \add He will do this for\add* God Almighty, who is furiously angry
 \add with them because of their sins\add*. 
-\v 16 On his cloak close to his thigh a name had been written {\add he\add* had written a name}, which is "King who
+\v 16 On his cloak close to his thigh a name had been written \f + \ft Or:\add he\add* had written a name \f*, which is "King who
 \add rules over all other\add* kings and Lord who \add rules over all
 other\add* lords." 
 \s Revelation 19:17-21 
@@ -85,10 +85,10 @@ were\add* free or slave, \add socially\add* insignificant or significant.
 \add All kinds\add*!" 
 \v 19 Then I saw the beast and the kings of earth with their armies gathered together to fight against the rider on the horse,
 and against his army. 
-\v 20 The beast and the false prophet were captured {\add He\add* captured the beast and the false prophet}. The false prophet
+\v 20 The beast and the false prophet were captured \f + \ft Or:\add He\add* captured the beast and the false prophet \f*. The false prophet
 is the one who had performed miracles in the beast's presence. By doing that he had deceived the people who had accepted the
 beast's mark \add on their foreheads\add* and who worshipped its image. The beast and the false prophet were thrown
-{\add He\add* threw the beast and the one who falsely said that he spoke messages that came directly from God} alive into the
+\f + \ft Or:\add He\add* threw the beast and the one who falsely said that he spoke messages that came directly from God \f* alive into the
 lake of fire that burns with sulfur. 
 \v 21 The rider on the horse killed the rest \add of their armies\add* by
 \add his words\add*, \add which were like\add* \f + \ft metonymy \f* a sword that extended from his mouth. All those birds gorged themselves on

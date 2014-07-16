@@ -41,9 +41,9 @@ you\add \f + \ft singular \f*\add* have become a person who disobeys \add God's\
 \s Continually act mercifully toward others, because God will not act mercifully to those who do not act mercifully toward
 others. 
 \p
-\v 12 Continually speak and act \add toward others\add* as people should who will be judged {whom
-\add God\add* will judge} by the law that frees us \add from being
-punished\add* {\add God punishing us\add*} \add for our sins\add*.
+\v 12 Continually speak and act \add toward others\add* as people should who will be judged \f + \ft Or:whom
+\add God\add* will judge \f* by the law that frees us \add from being
+punished\add* \f + \ft Or:\add God punishing us\add* \f* \add for our sins\add*.
 \v 13  \add Speak and act like that\add*, because when \add God\add* judges us, he will not act mercifully toward those who do
 not act mercifully toward others. But when we \add are\add* merciful
 \add to others, we can rejoice\add*, because \add our being\add* merciful
@@ -89,10 +89,10 @@ God\add*!
 \add what that person says\add* will not benefit him. 
 \v 21 It was certainly\add because of\add* what our \add revered\add* ancestor Abraham did, when he
 \add prepared to\add* sacrifice his son Isaac, that he was considered
-\add by God\add* {that \add God\add* considered him} to be a righteous,
+\add by God\add* \f + \ft Or:that \add God\add* considered him \f* to be a righteous,
 \add obedient\add* person.\f + \ft Or: Was it not \add because of\add* what our
 \add revered\add* ancestor Abraham did, when he \add prepared to\add* sacrifice his son Isaac, that he was considered
-\add by God\add* {that \add God\add* considered him} to be a righteous,
+\add by God\add* \f + \ft Or:that \add God\add* considered him \f* to be a righteous,
 \add obedient\add* person? \f* \f + \ft rhetorical question \f* 
 \v 22 You\add \f + \ft singular \f*\add* can realize that he was not only trusting
 \add in God\add*, but he was also doing \add what God told him to
@@ -100,7 +100,7 @@ do\add*, and \add you\f + \ft singular \f* can realize\add* that he was able to 
 \add in God more\add* completely because of having done \add what God told him to
 do\add*. 
 \v 23 And \add so it happened as it is written in the\add* Scriptures: 'Because Abraham truly trusted in God, he was considered
-\add by God\add* to be {\add God\add* considered that he was} righteous.' And
+\add by God\add* to be \f + \ft Or:\add God\add* considered that he was \f* righteous.' And
 \add God also\add* said \add about Abraham\add*, "He is my friend."
 \v 24  \add From the example of Abraham\add*, you can realize that it is because people do good deeds that
 \add God\add* considers them to be righteous, and not only because they trust

@@ -48,7 +48,7 @@ love\add* \f* \f + \ft metaphor \f* my own self \f + \ft metonymy \f*, I am send
 \add to keep him here with me\add*, I decided not to \add keep him here. I decided that I
 should\add* not do anything without your permitting it. \add I decided that you should help me only if
 you\add* really want to help me. 
-\v 15 Perhaps the reason that \add God permitted\add* Onesimus to be separated from {to leave} you for a little while was that
+\v 15 Perhaps the reason that \add God permitted\add* Onesimus to be separated from \f + \ft Or:to leave \f* you for a little while was that
 \add he would believe in Christ, and as a result\add* you would have him back\f + \ft Or: with you \f* forever!
 \v 16  \add You will no longer have him only\add* as a slave. Instead,
 \add you will have him\add* as \add someone who is\add* more than a slave.

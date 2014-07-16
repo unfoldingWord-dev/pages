@@ -15,8 +15,8 @@ enabled Jesus' enemies to seize him.
 money\add* to poor people!\f + \ft Or: Why did \add we\add* not sell this perfume and give
 \add the money for it\add* to the poor people? \f* \f + \ft rhetorical question \f* We could have gotten three hundred days' wages for it!"
 \v 6 He said that, not because he cared about the poor people, but instead, because he was a thief. He was the one who kept the
-bag \add of funds that people gave to help Jesus and us his disciples\add*, and he often stole some of the money that was {that
-\add people\add*} put into it. 
+bag \add of funds that people gave to help Jesus and us his disciples\add*, and he often stole some of the money that was \f + \ft Or:that
+\add people\add* \f* put into it. 
 \v 7 Then Jesus said, "Do not bother her! \add She bought\add* this perfume
 \add in order to save it\add* until the day when they will bury me
 \add after I die\add*. 
@@ -43,8 +43,8 @@ say\add* that Jesus was coming to Jerusalem.
 \add God\add* bless the one who is coming with his authority \f + \ft metonymy \f*!" Some other people were shouting,
 "\add May God bless\add* the King of Israel!" 
 \v 14 When Jesus \add came near to Jerusalem\add*, he got a young donkey and sat on it
-\add as he rode into the city\add*. By doing this, \add he fulfilled\add* what had been written {what
-\add a prophet\add* had written} \add in Scripture\add*, 
+\add as he rode into the city\add*. By doing this, \add he fulfilled\add* what had been written \f + \ft Or:what
+\add a prophet\add* had written \f* \add in Scripture\add*, 
 \q
 \v 15 You people of Jerusalem, 
 \q do not be afraid! 
@@ -52,7 +52,7 @@ say\add* that Jesus was coming to Jerusalem.
 \q He is riding on a donkey's colt! 
 \p
 \v 16 At first \add we\add* disciples did not understand those things. But after Jesus had returned to heaven, we realized that
-those things had been written {that \add a prophet\add* had written those things} about him, and that
+those things had been written \f + \ft Or:that \add a prophet\add* had written those things \f* about him, and that
 \add by\add* doing those things for him \add the people had fulfilled what the prophet
 prophesied\add*. 
 \p
@@ -98,14 +98,14 @@ but\add* it was not for my benefit. It was for your benefit!
 \v 31 Now is the time for \add God\add* to judge \add the people
 in\add* \f + \ft metonymy \f* the world. Now is the time when \add I\add* will destroy
 \add the power of Satan\add*, the one who rules this world. 
-\v 32 But as for me, when I am lifted {when \add men\add* lift me} up from the ground
+\v 32 But as for me, when I am lifted \f + \ft Or:when \add men\add* lift me \f* up from the ground
 \add on a cross, I will make a way for\add* gathering everyone to myself."
 \v 33 He said this to show us the way in which he was going to die.
 \p
 \v 34  \add Someone in\add* the crowd answered him, "We understand from the Scriptures that the Messiah will live forever. So
 why do you say that the one who came from heaven, \add who is the
-Messiah\add*, will be lifted up {that \add men\add* will lift up the one who came from heaven,
-\add who is the Messiah\add*,} on a cross? What kind of man who came from heaven are
+Messiah\add*, will be lifted up \f + \ft Or:that \add men\add* will lift up the one who came from heaven,
+\add who is the Messiah\add*, \f* on a cross? What kind of man who came from heaven are
 you\add talking about\add*? \f + \ft Or: That's not the \add kind\add* of Messiah
 \add we are expecting\add*! \f*" 
 \v 35 Then Jesus said to them, "\add My message is like\add* \f + \ft metaphor \f* a light for you.

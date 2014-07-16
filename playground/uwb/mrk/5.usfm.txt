@@ -10,9 +10,9 @@ lived\add*.
 \v 3  \add Because that man was violent and people were afraid of
 him\add*, they had tied him up many times. \add As he grew more violent\add*, no one was able to tie him up any longer, not
 even with chains, 
-\v 4 because the chains would be broken by him {he would break the chains} whenever he was bound {they bound him} with them.
-The iron shackles would also be smashed by him {He would also smash the iron shackles} whenever they were fastened {they
-fastened them} \add on his feet\add*. 
+\v 4 because the chains would be broken by him \f + \ft Or:he would break the chains \f* whenever he was bound \f + \ft Or:they bound him \f* with them.
+The iron shackles would also be smashed by him \f + \ft Or:He would also smash the iron shackles \f* whenever they were fastened \f + \ft Or:they
+fastened them \f* \add on his feet\add*. 
 \v 5 He lived in one of the caves \add where they bury dead people\add*. During both night and day he would scream among the
 caves and in the hills. He would also cut himself with \add sharp\add* stones.
 \add That day\add* he came out of the caves. 
@@ -60,19 +60,19 @@ how much the Lord \add God\add* has done for you, and tell them how
 Jesus, he prostrated himself at his feet. 
 \v 23 Then he pleaded with Jesus earnestly, "My daughter is \add sick
 and\add* nearly dead! \add Please\add* come \add to my house\add* and place your hands on her in order that she will be healed
-{to heal her}, so that she will not die!" 
+\f + \ft Or:to heal her \f*, so that she will not die!" 
 \v 24 So Jesus \add and the disciples\add* went with him. 
 \p A large crowd followed \add Jesus\add* and \add many\add* pushed close to him.
 \v 25 There was a woman \add in the crowd\add* who had vaginal bleeding \f + \ft euphemism \f*
 \add every day\add* for twelve years. 
 \v 26 She had suffered much while many doctors\add treated her\add*. But although she had spent all
-\add her money\add* to pay the doctors, she had not been helped {they had not helped her}. Instead, she had become worse \f + \ft euphemism \f*.
+\add her money\add* to pay the doctors, she had not been helped \f + \ft Or:they had not helped her \f*. Instead, she had become worse \f + \ft euphemism \f*.
 \v 27 After she heard that Jesus \add healed people\add*, she came
 \add to where he was and pushed\add* in the crowd\add close\add* behind Jesus.
 \v 28 She did that because she was thinking, "If I \add touch him
-or\add* even if I touch his clothes, I will be healed {his power will heal me}." So she touched Jesus' clothes.
-\v 29 At once her bleeding stopped. At the same time, she sensed within herself that she had been cured of {that
-\add he\add* had cured} her illness. 
+or\add* even if I touch his clothes, I will be healed \f + \ft Or:his power will heal me \f*." So she touched Jesus' clothes.
+\v 29 At once her bleeding stopped. At the same time, she sensed within herself that she had been cured of \f + \ft Or:that
+\add he\add* had cured \f* her illness. 
 \v 30 Jesus \add also\add* immediately sensed within himself that his power had healed someone. So he turned around in the
 crowd and then he asked, "Who touched my clothes?" 
 \v 31  \add One of\add* his disciples replied, "You can see that many people are crowding close to you!
@@ -111,5 +111,5 @@ language\add*, "Talitha, Koum!" That means, "Little girl, get up!"
 walk\add*, because she was twelve years old.) \add When this happened, all who were
 present\add* were very astonished. 
 \v 43 Jesus ordered them strictly, "Do not tell anyone about \add what I have
-done!\add*" Afterwards he told them that something to eat should be brought to her {that they should bring her something to
-eat}. 
+done!\add*" Afterwards he told them that something to eat should be brought to her \f + \ft Or:that they should bring her something to
+eat \f*. 

@@ -67,7 +67,7 @@ you should answer the high priest!\f + \ft Or: Is that the way you should answer
 \v 23 Jesus replied to him, "If I had said something that was contrary
 \add to your laws\add*, you could have told \add me that what I said
 that\add* was wrong. But because I said only what was right, you should not be striking me!\f + \ft Or: why are you striking me? \f* \f + \ft rhetorical question \f*"
-\v 24 Then after Jesus' hands were tied {after they tied Jesus hands}
+\v 24 Then after Jesus' hands were tied \f + \ft Or:after they tied Jesus hands \f*
 \add again\add*, Annas sent him to Caiaphas, the high priest. 
 \s John 18:25-27 
 \s Peter denied two more times that he knew Jesus. 
@@ -85,8 +85,8 @@ happen\add*.
 \v 28 Then the \add Jewish leaders\add* \f + \ft synecdoche \f* led Jesus from the
 \add home of\add* Caiaphas to the headquarters \add of Pilate, the Roman
 governor\add*. It was before dawn. \add Pilate was a non-Jew\add*,
-\add and they thought that if they entered his headquarters\add*, they would become unacceptable to God {God would reject
-them}, \add and as a result\add* they would not be able to eat \add the food
+\add and they thought that if they entered his headquarters\add*, they would become unacceptable to God \f + \ft Or:God would reject
+them \f*, \add and as a result\add* they would not be able to eat \add the food
 during\add* the Passover \add celebration\add*. \add Because of that, they did not want to enter Pilate's
 headquarters\add*. 
 \v 29 So Pilate came out to \add talk to\add* them. He said, "What law do you say that this man has disobeyed?"
@@ -97,7 +97,7 @@ Instead\add*, they said, "If this man were not a criminal, we would not have bro
 because\add* we Jews have no right to execute anyone!" 
 \v 32  \add The Romans executed people by nailing them to a cross\add*.
 \add So\add*, as a result of what \add the Jewish leaders said\add*, it was fulfilled
-{\add the Romans\add* would fulfill} what Jesus had said previously about the way he was going to die.
+\f + \ft Or:\add the Romans\add* would fulfill \f* what Jesus had said previously about the way he was going to die.
 \p
 \v 33 Pilate then went back inside his headquarters. He summoned Jesus.
 \add Because the Jewish leaders had said that Jesus claimed to be a
@@ -110,8 +110,8 @@ matters\add*? \f* \f + \ft rhetorical question \f* It was your fellow Jews and y
 \add to make them want to execute you\add*?" 
 \v 36 Jesus replied, "It is not people in \f + \ft metonymy \f* this world who are
 \add making me\add* king. If it was people in this world who were making me a king, my disciples would have fought in order
-that the Jewish \add leaders\add* \f + \ft synecdoche \f* would be prevented {to prevent the Jewish
-\add leaders\add* \f + \ft synecdoche \f*} from seizing me. But it is not \add someone here
+that the Jewish \add leaders\add* \f + \ft synecdoche \f* would be prevented \f + \ft Or:to prevent the Jewish
+\add leaders\add* \f + \ft synecdoche \f* \f* from seizing me. But it is not \add someone here
 in\add* this world who is making me a king." 
 \v 37 Then Pilate said to him, "So \add are you saying that\add* you are a king?" Jesus replied,
 "\add Yes\add*, what you have said about my being a king \add is

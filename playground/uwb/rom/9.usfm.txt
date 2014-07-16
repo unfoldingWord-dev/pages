@@ -58,8 +58,8 @@ ancestors were. He showed it again\add* when Rebecca conceived \add twins\add* b
 \add eternal destiny\add* does not depend on what they do. Instead, their destiny depends on
 \add God\add*, the one who chooses them. 
 \v 13 And \add this teaching is\add* \add supported\f + \ft Or: shown to be
-true\add* \f* \add by\add* what is written \add in the Scriptures\add* {what
-\add a prophet\add* recorded} \add that God said\add*: "I favored Jacob,
+true\add* \f* \add by\add* what is written \add in the Scriptures\add* \f + \ft Or:what
+\add a prophet\add* recorded \f* \add that God said\add*: "I favored Jacob,
 \add the younger son\add*. I did not favor \f + \ft hyperbole \f* Esau, \add the older
 son\add*." 
 \s Romans 9:14-18 
@@ -127,7 +127,7 @@ love \f + \ft hyperbole \f* before, I love now.
 \v 27 Isaiah also exclaimed concerning the Israelites: 
 \q Even though the Israelites are \add so many that no one can count them,
 like\add* sand \add particles beside\add* the ocean, \add only\add* the small part of them will be saved
-{\add God\add* will save \add only\add* the small part of them},
+\f + \ft Or:\add God\add* will save \add only\add* the small part of them \f*,
 \v 28 because the Lord will punish completely and speedily the \add people who live in
 that\add* land, as he said that he would do. 
 \p

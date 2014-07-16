@@ -71,7 +71,7 @@ You\add could even\add* say to this hill, 'Move from here to there!' and it woul
 \p
 \v 22 When \add we disciples\add* had gathered together in Galilee
 \add district\add*, Jesus said to us, "\add I\add*, the one who came from heaven, will soon be handed over
-{\add Someone\add* will soon hand me, the one who came from heaven, over} to the authorities \f + \ft synecdoche \f*.
+\f + \ft Or:\add Someone\add* will soon hand me, the one who came from heaven, over \f* to the authorities \f + \ft synecdoche \f*.
 \v 23 They will kill me. But \add God\add* will cause me to become alive again on the third day
 \add after I am killed\add*." \add When we heard that\add*, we became very sad.
 \s Matthew 17:24-27 

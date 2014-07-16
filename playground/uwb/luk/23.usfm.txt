@@ -48,18 +48,18 @@ year."\f*
 us\add \f + \ft exclusive \f*\add*!" 
 \v 19 Barrabas was a man who had tried to persuade people in the city to rebel
 \add against the Roman government. While doing that\add*, he had murdered
-\add someone\add*. So he had been put {they had put him} in prison,
+\add someone\add*. So he had been put \f + \ft Or:they had put him \f* in prison,
 \add where he was waiting for them to execute him\add*. 
 \v 20 Because Pilate wanted to release Jesus, he tried to persuade the crowd again.
 \v 21 But they kept shouting, "\add Command your soldiers to\add* kill him by nailing him to a cross!" Have him crucified!"
 \v 22 He \add spoke to them\add* a third time and asked them, "Why? What crime has he committed? I have concluded that he has
 done nothing for which he deserves to die. So I will \add have my
 soldiers\add* whip him and then release him." 
-\v 23 But they kept insisting. They shouted loudly that \add Jesus\add* should be nailed {that
-\add Pilate\add* should \add have his soldiers\add* nail \add Jesus\add*} to a cross. Finally, because they continued to shout
+\v 23 But they kept insisting. They shouted loudly that \add Jesus\add* should be nailed \f + \ft Or:that
+\add Pilate\add* should \add have his soldiers\add* nail \add Jesus\add* \f* to a cross. Finally, because they continued to shout
 \f + \ft personification \f* \add so loudly\add*, 
 \v 24 Pilate decided to do what they requested. 
-\v 25 The man who had been {whom they had} put in prison because he had rebelled
+\v 25 The man who had been \f + \ft Or:whom they had \f* put in prison because he had rebelled
 \add against the government\add* and who had murdered \add someone\add*, he released! That was the man whom the crowd had asked
 him \add to release\add*. He put Jesus into the hands \add of the
 soldiers\add*, to do what \add the crowd\add* wanted. 
@@ -87,9 +87,9 @@ cross\add*, \add their enemies\add* will certainly do much worse things to them!
 \s Luke 23:32-49 
 \s The things that happened when Jesus died. 
 \p
-\v 32 Two other men who were criminals were also being led away {\add The
-soldiers\add* also led away two other men who were criminals}. They were going to be executed
-{\add The soldiers\add* were going to execute them} \add with Jesus\add*.
+\v 32 Two other men who were criminals were also being led away \f + \ft Or:\add The
+soldiers\add* also led away two other men who were criminals \f*. They were going to be executed
+\f + \ft Or:\add The soldiers\add* were going to execute them \f* \add with Jesus\add*.
 \v 33 When they came to the place which is called 'The Skull', they nailed
 \add Jesus\add* to a cross\add after removing his clothes\add*. They did the same thing to the two criminals. They put one at
 the right \add side of Jesus\add* and one at his left \add side\add*.

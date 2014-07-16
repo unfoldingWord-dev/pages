@@ -5,7 +5,7 @@ quarreling about which leader to whom you are loyal.
 \p
 \v 1 My fellow believers, \add when I was with you previously\add*, I was not able to teach you as
 \add I would teach people who are controlled by the Holy\add* Spirit
-{\add whom the Holy\add* Spirit\add controls\add*}. Instead, \add I had to teach you as I would
+\f + \ft Or:\add whom the Holy\add* Spirit\add controls\add* \f*. Instead, \add I had to teach you as I would
 teach\add* people whom their self-directed nature controls. \add I taught very simple concepts to you who had recently
 believed\add* in Christ, \add as a parent would speak very simple
 words\add* to a baby. 
@@ -71,7 +71,7 @@ valuable or not. If \add the materials that are used to\add* build a house
 \add Similarly, if we have taught others things that are valuable and long-lasting, God will give us a
 reward\add*. 
 \v 15 If \add the things that we have taught\add* are not valuable and long-lasting \f + \ft metaphor \f*,
-\add we will not get a reward\add*. We will be saved {\add God\add* will save us}
+\add we will not get a reward\add*. We will be saved \f + \ft Or:\add God\add* will save us \f*
 \add from hell\add*, but \add that is all that we will get. We will be like a man
 who\add* escapes from a fire \add without saving any of his possessions\add*.
 \s 1 Corinthians 3:16-17 

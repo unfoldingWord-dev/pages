@@ -56,7 +56,7 @@ it is not right \f + \ft rhetorical question \f* for me to force you to wander a
 will faithfully love and be loyal to you." 
 \p
 \v 21 But Ittai replied, "Your Majesty, as surely as you live, wherever you go, I will go; I will stay with you, whether they
-kill me {I am killed} or allow me {am allowed} to live." 
+kill me \f + \ft Or:I am killed \f* or allow me \f + \ft Or:am allowed \f* to live." 
 \p
 \v 22 David replied to Ittai, "Okay, march with us!" So Ittai and all his troops and their families went
 \add with David\add* 

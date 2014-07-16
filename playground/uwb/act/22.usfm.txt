@@ -10,7 +10,7 @@ own\add* Hebrew language, they became even more quiet and really listened. Then 
 \add city\add*, in Cilicia \add province\add*, but I grew up here in Jerusalem.
 \add When I was young, for many years\add* I studied the laws \add that Moses gave to our
 ancestors\add*. I was taught by \add the famous teacher\add* Gamaliel \f + \ft metonymy \f*
-{\add The famous teacher\add* Gamaliel taught \f + \ft metonymy \f* me}. \add I have\add* carefully
+\f + \ft Or:\add The famous teacher\add* Gamaliel taught \f + \ft metonymy \f* me \f*. \add I have\add* carefully
 \add obeyed those laws, because\add* I have wanted to obey God. I
 \add am sure that\add* many of you also carefully obey \add those
 laws\add*. 
@@ -18,13 +18,13 @@ laws\add*.
 \add that people call\add* the Way \add that Jesus taught. I continually looked for
 ways\add* to kill \add them. Whenever I found\add* men or women \add who believed that
 message\add*, I \add commanded that\add* they should be seized and thrown
-{\add people to\add* seize them and throw them} into jail. 
+\f + \ft Or:\add people to\add* seize them and throw them \f* into jail. 
 \v 5 The high priest knows this, and so do the \add other respected men who belong to our
 Jewish\add* Council. They gave me letters to \add take to\add* their fellow Jews in Damascus
 \add city. By means of those letters, they authorized me to\add* go to there and find people who believed in
 \add Jesus. They had written in the letters that I was to bring those
 people\add* as prisoners to Jerusalem, so that they would be punished here
-{\add the leaders here\add* could punish them}. 
+\f + \ft Or:\add the leaders here\add* could punish them \f*. 
 \p \add So I went on my way to Damascus\add*. 
 \v 6 About noon, I and my companions were getting near Damascus. Suddenly a bright light from the sky flashed all around me.
 \v 7  \add The light was so bright that\add* I fell to the ground. Then I heard the voice
@@ -64,7 +64,7 @@ here!\add* Leave Jerusalem immediately, because the people \add here\add* will n
 you\add \f + \ft singular \f*\add* tell \add them\add* about me!' 
 \v 19 But I \add protested and\add* said to him, 'Lord, they know that I went to many of our meeting houses looking for people
 who believe in you. I was putting in jail those \add whom I found\add* who believed in you, and I was even beating them.
-\v 20  \add They remember that\add* when Stephen was killed \f + \ft metonymy \f* {when people killed \f + \ft metonymy \f* Stephen} because he told people
+\v 20  \add They remember that\add* when Stephen was killed \f + \ft metonymy \f* \f + \ft Or:when people killed ( metonymy ) Stephen \f* because he told people
 about you, I stood there \add watching it all\add* and approving
 \add what they were doing\add*. I \add even\add* guarded the outer garments that those who were murdering him
 \add had thrown aside\add*! \add So if I stay here, the fact that I have changed how I think about you will surely impress
@@ -82,7 +82,7 @@ Jews\add*.
 \p
 \v 23 While they continued shouting, \add "Kill him!"\add* they took off their cloaks and threw dust into the air,
 \add which showed how angry they were\add*. 
-\v 24 So the commander \add commanded\add* that Paul be taken {\add soldiers\add* to take Paul} into the barracks. He told
+\v 24 So the commander \add commanded\add* that Paul be taken \f + \ft Or:\add soldiers\add* to take Paul \f* into the barracks. He told
 \add the soldiers\add* that they should strike Paul with a whip \add that had pieces of bone\f + \ft Or: metal \f* on the end of
 it\add*, in order to make him tell what he had done that made the Jews shout so angrily.
 \add So the soldiers took Paul into the barracks\add*. 

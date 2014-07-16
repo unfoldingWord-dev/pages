@@ -48,12 +48,12 @@ me\add*.
 \add as a sacrifice for us\add*, in order that everyone who believes in him would not be separated from God forever. Instead,
 they would have eternal life. 
 \v 17 When God sent his Son into the world, his purpose was not to punish the
-\add people in\add* \f + \ft metonymy \f* the world for their sins. Instead, he sent him in order that they might be saved by him {he might
-save them} \add from being\add* \add guilty\f + \ft Or: punished\add* \f* \add for their
+\add people in\add* \f + \ft metonymy \f* the world for their sins. Instead, he sent him in order that they might be saved by him \f + \ft Or:he might
+save them \f* \add from being\add* \add guilty\f + \ft Or: punished\add* \f* \add for their
 sins\add*. 
-\v 18 Everyone who trusts in his Son, \add God says that they\add* will not be punished {that he will not punish them}. But God
-has already \add said that\add* everyone who does not trust in his Son will be punished {that he will punish everyone who does
-not trust in his Son}, because they have not trusted in what his only Son
+\v 18 Everyone who trusts in his Son, \add God says that they\add* will not be punished \f + \ft Or:that he will not punish them \f*. But God
+has already \add said that\add* everyone who does not trust in his Son will be punished \f + \ft Or:that he will punish everyone who does
+not trust in his Son \f*, because they have not trusted in what his only Son
 \add has done for them\add*. 
 \v 19 The \add one who was like a\add* light \f + \ft metaphor \f* \add to reveal God's truth to
 us\add* came into the world. But people loved doing what was \add evil,
@@ -62,11 +62,11 @@ like\add* darkness \f + \ft metaphor \f* \add is evil\add*, instead of loving th
 \add and condemn them\add*. 
 \v 20 Everyone who does what is evil hates the \add one who is like
 a\add* light, and they will not come to the \add one who is like
-a\add* light, because it would be shown {\add the one who is like a
-light\add* would show} that their deeds \add are evil, and he would rebuke
+a\add* light, because it would be shown \f + \ft Or:\add the one who is like a
+light\add* would show \f* that their deeds \add are evil, and he would rebuke
 them\add*. 
 \v 21 But those who live according to \add God's\add* truth come to the
-\add one who is like a\add* light, in order that it may be seen clearly {that people may see clearly} that the things they have
+\add one who is like a\add* light, in order that it may be seen clearly \f + \ft Or:that people may see clearly \f* that the things they have
 done they did them because \add they have depended\add* on God. 
 \s John 3:22-36 
 \s When many people began to become Jesus' disciples, and John the Baptizer declared that Jesus was greater then he, the Jewish
@@ -77,8 +77,8 @@ leaders rejected John's and Jesus' testimony that Jesus was equal to God.
 \p
 \v 23 John \add the Baptizer\add* was also baptizing people. He was doing that at Aenon
 \add village\add* near Salim \add town in Samaria district\add*, because there were many springs in that area.
-\add Many\add* people kept coming \add to John\add* and were being baptized {he was baptizing them}.
-\v 24 That happened before John was put {they put John} in prison.
+\add Many\add* people kept coming \add to John\add* and were being baptized \f + \ft Or:he was baptizing them \f*.
+\v 24 That happened before John was put \f + \ft Or:they put John \f* in prison.
 \v 25 Then some of John's disciples and a certain Jew started arguing about the Jewish rituals of washing things
 \add to make them acceptable to God\add*. 
 \v 26 Then those disciples went to John and said to him, "Teacher,
@@ -88,7 +88,7 @@ the one you were telling us about. Well, now he is baptizing people, and many pe
 \v 27 John replied, "A person can become \add important\add* only if God \f + \ft metonymy \f* permits it.
 \add So\add* we\add should not be jealous about Jesus being popular\add*!
 \v 28 You yourselves can verify what I said. I told you that I am not the Messiah\f + \ft Or: God's promised king \f*. Instead, I
-\add told you that\add* I was sent {that \add God\add* sent me} to prepare the way for him.
+\add told you that\add* I was sent \f + \ft Or:that \add God\add* sent me \f* to prepare the way for him.
 \v 29  \add Let me illustrate\add* \f + \ft metaphor \f*: \add He is like a\add*
 \add bridegroom\f + \ft Or: man who is being married\add* \f*, \add and I am like his
 friend\add*. The friend of the bridegroom stands there and waits

@@ -5,8 +5,8 @@
 \v 1  \add One day Jesus\add* said to his disciples, "Things that will tempt
 \add people\add* to sin are certain to happen, but it will be terrible for anyone who causes them to happen!
 \v 2 Suppose you caused one of these people who \add do not believe in me very
-strongly\add* to sin. If a huge stone was fastened {someone fastened a huge stone} around your neck and you were thrown {and
-threw you} into the sea, \add you would consider that a severe punishment, but God will
+strongly\add* to sin. If a huge stone was fastened \f + \ft Or:someone fastened a huge stone \f* around your neck and you were thrown \f + \ft Or:and
+threw you \f* into the sea, \add you would consider that a severe punishment, but God will
 punish\add* you even more severely \add if you cause someone to sin!\add*
 \v 3 Be careful \add how you act\add*. If you \add know about\add* a fellow believer who sins,
 you\add \f + \ft singular \f*\add* should rebuke him. If he \add says that he\add* is sorry for having sinned
@@ -31,11 +31,11 @@ roots\add* and plant yourself in the sea!' and it would obey you!"
 you\add \f + \ft singular \f*\add* would not say \f + \ft rhetorical question \f*, 'Sit down and eat immediately!'
 \v 8 Instead, you would say to him, 'Put on your apron and prepare a meal for me! Then serve it to me so that I can eat and
 drink it! Afterwards you\add \f + \ft singular \f*\add* can eat and drink.' 
-\v 9 You will not thank your servant for doing the work that he had been told {you had told him} to do!\f + \ft Or: Would you thank your
-servant because he did the work that he had been told {you had told him} to do? \f* \f + \ft rhetorical question \f*
+\v 9 You will not thank your servant for doing the work that he had been told \f + \ft Or:you had told him \f* to do!\f + \ft Or: Would you thank your
+servant because he did the work that he had been told ( Or:you had told him ) to do? \f* \f + \ft rhetorical question \f*
 \v 10 Similarly, when you\add \f + \ft plural \f*\add* have done everything that
 \add God\add* has told you to do, you should say, 'We\add \f + \ft inclusive \f*\add* are not worthy
-\add of God thanking us\add* {\add being thanked\add*}. We are only God's servants. We have only done the things that he told
+\add of God thanking us\add* \f + \ft Or:\add being thanked\add* \f*. We are only God's servants. We have only done the things that he told
 us to do.'" 
 \s Luke 17:11-19 
 \s Jesus healed ten lepers, but only a non-Jewish one thanked him.
@@ -62,7 +62,7 @@ to me!"
 \s Jesus taught that God's rule is within our lives. 
 \p
 \v 20  \add One day\add* Jesus was asked by \add some\add* Pharisees \f + \ft synecdoche \f*
-{\add some\add* Pharisees \f + \ft synecdoche \f* asked \add Jesus\add*}, "When is God
+\f + \ft Or:\add some\add* Pharisees \f + \ft synecdoche \f* asked \add Jesus\add* \f*, "When is God
 \add going\add* to rule as king?" He replied, "God's ruling \f + \ft metaphor \f* is not something people will be able to see with their eyes.
 \v 21 And people will not be able to say, 'Look! He is \add ruling\add* here!' Or 'He is
 \add ruling\add* there!' because, \add contrary to what you think\add*, God's ruling is within people's inner beings \f + \ft Or: is
@@ -79,8 +79,8 @@ already happening among you \f*."
 \add everyone can see it. Similarly\add* \f + \ft simile \f*, at the time \f + \ft metonymy \f* when
 \add I\add*, the one who came from heaven, come back again, \add everyone will see
 me\add*. 
-\v 25 But before that happens, I must suffer in many ways \f + \ft Or: very much \f*. And I will be rejected by people {people will reject
-me}, \add even though\add* they \add have observed me doing good for
+\v 25 But before that happens, I must suffer in many ways \f + \ft Or: very much \f*. And I will be rejected by people \f + \ft Or:people will reject
+me \f*, \add even though\add* they \add have observed me doing good for
 people\add*. 
 \v 26 But when \add I\add*, the one who came from heaven, \add come again,
 people\add* will be doing things just like people were doing at the time when \f + \ft metonymy \f* Noah
@@ -107,11 +107,11 @@ and became a pillar of salt\add*.
 \add for my sake\add* will live \add eternally\add*. 
 \v 34 I tell you this: On the night \add when I return\add*, there will be two people
 \add sleeping\add* in one bed. The one \add who believes in me\add* will be taken
-{\add God\add* will take the one \add who believes in me\add*} \add to
-heaven\add*, and the other one will be left \add behind and punished\add* {and
-\add he\add* will leave the other one \add behind and punish him\add*}.
+\f + \ft Or:\add God\add* will take the one \add who believes in me\add* \f* \add to
+heaven\add*, and the other one will be left \add behind and punished\add* \f + \ft Or:and
+\add he\add* will leave the other one \add behind and punish him\add* \f*.
 \v 35-36 Two women will be grinding grain together; one will be taken and the other left
-{\add God\add* will take one and leave the other} \add behind\add*."
+\f + \ft Or:\add God\add* will take one and leave the other \f* \add behind\add*."
 \v 37  \add His disciples\add* said to him, "Lord, where \add will this
 happen\add*?" He replied to them, "Wherever there is an animal carcass, the vultures will gather
 \add to eat it\add* \f + \ft metaphor \f*. \add Similarly, wherever there are people who are spiritually dead, God will punish

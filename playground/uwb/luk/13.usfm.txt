@@ -51,9 +51,9 @@ water? \f* \f + \ft rhetorical question \f* \add That is work, too!\add*
 \v 16 This woman \add is more important than an animal; she is a
 Jew\add*, descended from Abraham! But Satan has \add kept her\add* \f + \ft metaphor \f*
 \add crippled\add* for eighteen years, \add as though\add* he had tied her
-\add and not let her escape!\add* So it is certainly right that she be freed {that
-\add I\add* free her}, \add even if this\add* is a Sabbath day!\f + \ft Or: was it not right that she be freed {that
-\add I\add* free her}, \add even if this\add* is a Jewish rest day? \f* \f + \ft rhetorical question \f*"
+\add and not let her escape!\add* So it is certainly right that she be freed \f + \ft Or:that
+\add I\add* free her \f*, \add even if this\add* is a Sabbath day!\f + \ft Or: was it not right that she be freed \f + \ft Or:that
+\add I\add* free her \f*, \add even if this\add* is a Jewish rest day? \f* \f + \ft rhetorical question \f*"
 \v 17 After he said that, all the people \add there\add* who opposed him were ashamed. But all the
 \add other\add* people \add there\add* were happy about all the wonderful things he was doing.
 \s Luke 13:18-21 (Mt. 13:31-33; Mk. 4:30-32) 
@@ -75,8 +75,8 @@ increase\add*? \f* \f + \ft rhetorical question \f* I will tell you what I can c
 \p
 \v 22  \add Jesus\add* continued traveling, along \add with the disciples\add*, through various towns and villages on the way
 to Jerusalem. As they went, he was teaching \add the people\add*.
-\v 23 Someone asked him, "Lord, will there be only a few people who are saved {whom
-\add God\add* saves}?" He replied to them, "\add There will not be many,
+\v 23 Someone asked him, "Lord, will there be only a few people who are saved \f + \ft Or:whom
+\add God\add* saves \f*?" He replied to them, "\add There will not be many,
 because\add* the way \add to heaven\add* \f + \ft metaphor \f* is \add like\add* a narrow door.
 \v 24  \add Therefore, try hard\add* to enter that narrow doorway, because I tell you that many people will try to enter
 \add heaven by some other way\add*, but they will not be able to get in.

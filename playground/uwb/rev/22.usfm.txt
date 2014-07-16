@@ -14,7 +14,7 @@ where God and the \add one who is like a\add* lamb \add were sitting\add*.
 \v 3 There will never be \add anyone or anything there that God\add* will curse. The throne of God and of the
 \add one who is like a\add* lamb will be in the city. And his servants will worship him there.
 \v 4 They will see him face-to-face, and his name will be \add written\add*
-{\add he\add* will \add write\add* his name} on their foreheads.
+\f + \ft Or:\add he\add* will \add write\add* his name \f* on their foreheads.
 \v 5 There will never again be night. \add God's servants\add* will not need the light of a lamp or the light of the sun,
 because the Lord God will shine his light upon them. And they will rule forever.
 \s Revelation 22:6-7 
@@ -83,12 +83,12 @@ revelation.
 \p
 \v 18 "I, \add Jesus, solemnly\add* warn everyone who hears the message about what
 \add I\add* have foretold in this book: If anyone adds anything to this message, God will cause him to experience the plagues
-that are {that \add I\add* have} described in this book. 
+that are \f + \ft Or:that \add I\add* have \f* described in this book. 
 \v 19 If anyone takes away any of the message about what \add I\add* have foretold in this book, God will take away that
 person's right \add to eat fruit from\add* \f + \ft metonymy \f* the tree \add that enables
 people\add* to live \add forever\add*. He \add will also take away\add* that person's right
 \add to enter\add* God's city. \add Both these things\add* are described
-{\add I\add* have described \add both these things\add*} in this book."
+\f + \ft Or:\add I\add* have described \add both these things\add* \f* in this book."
 \s Revelation 22:20 
 \s Jesus declares that he is certainly coming soon. 
 \p

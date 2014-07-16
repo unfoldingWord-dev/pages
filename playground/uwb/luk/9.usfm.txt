@@ -70,9 +70,9 @@ again."
 \add yet\add*. 
 \v 22 Then he said, "\add Even though I am\add* the one who came from heaven, it is necessary that I suffer very much. It is
 also necessary that I be rejected by the elders and the chief priests and the men who teach
-the\add Jewish\add* laws {that the \add Jewish\add* elders and the chief priests and the men who teach the
-\add Jewish\add* laws will reject me}. It is necessary that I be killed {that
-\add people\add* will kill me}. Then on the third day \add after
+the\add Jewish\add* laws \f + \ft Or:that the \add Jewish\add* elders and the chief priests and the men who teach the
+\add Jewish\add* laws will reject me \f*. It is necessary that I be killed \f + \ft Or:that
+\add people\add* will kill me \f*. Then on the third day \add after
 that\add*, I will become alive again." 
 \p
 \v 23 Then he said to all of them, "If any one \add of you\add* wants to be my disciple, you must not do
@@ -142,7 +142,7 @@ But Jesus rebuked the evil spirit and healed the boy. Then he returned him to hi
 \p While they were all amazed at all the miracles \add Jesus\add* was doing, he said to his disciples,
 \v 44 "Think carefully \f + \ft metonymy \f* about what I am about to tell you: \add Even though I
 am\add* the one who came from heaven, \add I will soon\add* be handed over to the authorities \f + \ft Or: my enemies \f*
-{\add someone\add* is about to enable \f + \ft metonymy \f* my enemies to seize me}."
+\f + \ft Or:\add someone\add* is about to enable \f + \ft metonymy \f* my enemies to seize me \f*."
 \v 45 But \add the disciples\add* did not understand what he was saying;
 \add God\add* prevented them from understanding it, so that they would not know
 \add yet\add* what he meant. And they were afraid to ask him about

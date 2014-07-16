@@ -10,10 +10,10 @@
 \v 2 People will not be able to continue concealing the things that
 \add they or other\add* people try to conceal now. \add God\add* will
 \add some day\add* cause the things that are hidden now to be known
-{\add everyone\add* to know the things that they hide now}. 
+\f + \ft Or:\add everyone\add* to know the things that they hide now \f*. 
 \v 3 All the things that you say in the dark \add secretly, some
-day\add* will be heard {people will hear them} in the daylight. The things you have whispered \f + \ft synecdoche \f* among yourselves in your
-rooms will be proclaimed {\add people\add* will proclaim them} publicly."
+day\add* will be heard \f + \ft Or:people will hear them \f* in the daylight. The things you have whispered \f + \ft synecdoche \f* among yourselves in your
+rooms will be proclaimed \f + \ft Or:\add people\add* will proclaim them \f* publicly."
 \s Luke 12:4-12 
 \s Jesus told them not to be afraid to tell others of their faith in him.
 \p
@@ -25,7 +25,7 @@ rooms will be proclaimed {\add people\add* will proclaim them} publicly."
 afterward! Yes, he is truly the one that you should be afraid of!
 \v 6  \add Think about\add* the sparrows. \add They have so little
 value\add* that \add you\add* can \f + \ft rhetorical question \f* buy five of them for only two small coins. But not one of them is ever forgotten by God
-{God never forgets one of them}! 
+\f + \ft Or:God never forgets one of them \f*! 
 \v 7 You are more valuable \add to God\add* than many sparrows. So do not be afraid
 \add of what people can do to you\add*! \add God\add* even knows how many hairs there are on each of your heads,
 \add so that if you\f + \ft singular \f* lose one hair, he knows about it. So nothing bad can happen to you without his knowing
@@ -131,8 +131,8 @@ put on \add the kind of clothes\add* that servants wear and tell them to sit dow
 \add awake and\add* ready \add for him\add*, he will be very pleased with them.
 \v 39 But you must also remember this: If owners of a house knew what time the thief was coming, they
 \add would stay awake and\add* would not allow the house to be broken into
-\add and their goods to be stolen\add* {\add the thief\add* to break into the house
-\add and steal their goods\add*}. 
+\add and their goods to be stolen\add* \f + \ft Or:\add the thief\add* to break into the house
+\add and steal their goods\add* \f*. 
 \v 40 Similarly, you must be ready \add for me to return\add*, because
 \add I\add*, the one who came from heaven, will come \add again\add* at a time when you do not expect
 \add me to come\add*." 
@@ -157,13 +157,13 @@ does not expect him, then his master will cut him into two pieces\f + \ft Or: pu
 \add in the place where he puts all\add* those who do not \add serve
 him\add* faithfully. 
 \v 47 Every servant who knows what his master wants him to do but who does not get himself ready and does not do what his
-master desires will be beaten severely {\add The master\add* will beat severely every servant who knows what his master wants
-him to do but who does not get himself ready and does not do what his master desires}.
+master desires will be beaten severely \f + \ft Or:\add The master\add* will beat severely every servant who knows what his master wants
+him to do but who does not get himself ready and does not do what his master desires \f*.
 \v 48 But every \add servant\add* who did not know \add what his master
 wanted\add* him to do, and who did things for which he deserved to be punished, will be beaten lightly
-{\add the master\add* will beat lightly every \add servant\add* who did not know
+\f + \ft Or:\add the master\add* will beat lightly every \add servant\add* who did not know
 \add what his master wanted\add* him to do and did the things for which he deserved that
-\add his master\add* would beat him}. \add God will treat his people similarly, because
+\add his master\add* would beat him \f*. \add God will treat his people similarly, because
 he\add* expects a lot from those people whom \add he\add* has allowed
 \add to understand a lot\add*. People who entrust things \add to others'
 care\add* expect those people\add to care for those things\add* very well. Similarly,
@@ -175,8 +175,8 @@ care\add* expect those people\add to care for those things\add* very well. Simil
 \p
 \v 49 "I came to earth to bring \add trials\add* \f + \ft metaphor \f*, \add which will separate and purify you
 as\add* fire \add purifies metal\add* \f + \ft Or: to cause judgment( Or: divisions ) \f*. I wish that the time when
-\add you\add* will be purified {when \add God\add* will purify you} \f + \ft Or: when divisions will be caused {to cause divisions
-among people} \f* had already begun. 
+\add you\add* will be purified \f + \ft Or:when \add God\add* will purify you \f* \f + \ft Or: when divisions will be caused ( Or:to cause divisions
+among people ) \f* had already begun. 
 \v 50 I must soon suffer \f + \ft idiom \f* greatly. I am distressed, and I will continue to be distressed until my suffering is finished.
 \v 51 Do you think that as a result of my coming to earth people will live together peacefully? No! I must tell you,
 \add that is not what will happen! Instead, people\add* will be divided.

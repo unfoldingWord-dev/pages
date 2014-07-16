@@ -65,7 +65,7 @@ harm you, I hope\f + \ft Or: wish \f* that the God whom our ancestors worshiped\
 also joined David when he went with the soldiers of Philistia to fight against Saul's
 \add army\add*. But David and his men did not really help the army of Philistia. After the leaders of Philistia talked about
 \add David and his soldiers\add*, they sent David away. They said, "If David joins his master Saul again, we will all be killed
-{his army will kill all of us}!" 
+\f + \ft Or:his army will kill all of us \f*!" 
 \v 20 When David went to Ziklag, these were the men from the tribe of Manasseh who went with him: Adnah, Jozabad, Jediael,
 Michael, \add another man whose name was\add* Jozabad, Elihu, and Zillethai. Each of them had been a commander of 1,000 men
 \add in Saul's army\add*. 

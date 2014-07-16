@@ -7,7 +7,7 @@
 \add there, and said\add*, "\add You\add* \add must\add* be circumcised\f + \ft Or: must have God's mark put on you \f*
 \add to indicate you belong to God\add*, as Moses \add commanded\add* in the laws that
 \add he received from God\add*. If you do not do that, you will not be saved
-{\add God\add* will not save you}." 
+\f + \ft Or:\add God\add* will not save you \f*." 
 \v 2 Paul and Barnabas strongly disagreed with those Jews and started arguing
 \add with them. So the believers at Antioch\add* appointed Paul and Barnabas and some of the other believers to go to
 Jerusalem, in order that they would\f + \ft Or: could \f* discuss this matter with the apostles and
@@ -16,15 +16,15 @@ Jerusalem, in order that they would\f + \ft Or: could \f* discuss this matter wi
 \s Paul and Barnabas reported what God had enabled them to do. 
 \p
 \v 3 After Paul, Barnabas, and the others were given things for their trip by the congregation
-\add at Antioch\add* {After the congregation \add at Antioch\add* gave Paul, Barnabas, and the others things for their trip},
+\add at Antioch\add* \f + \ft Or:After the congregation \add at Antioch\add* gave Paul, Barnabas, and the others things for their trip \f*,
 they traveled through Phoenicia and Samaria \add provinces. When they stopped at different places in those
 provinces\add*, they reported \add to the believers\add* that \add many\add* non-Jews
 \add in Antioch\add* had become believers. As a result, all the believers
 \add in those places\add* rejoiced greatly. 
 \v 4 And when Paul, Barnabas, and the others arrived in Jerusalem, they were welcomed by the apostles, the
 \add other\add* elders, and the \add other members of the\add* congregation
-\add there\add* {the apostles, the \add other\add* elders, and the
-\add other members of the\add* congregation \add there\add* welcomed them}. Then Paul and Barnabas reported the things that God
+\add there\add* \f + \ft Or:the apostles, the \add other\add* elders, and the
+\add other members of the\add* congregation \add there\add* welcomed them \f*. Then Paul and Barnabas reported the things that God
 had enabled them to do \add among non-Jewish people\add*. 
 \s Acts 15:5 
 \s Some Jewish believers said that non-Jewish believers must obey Moses' laws.
@@ -60,8 +60,8 @@ Jews\add* have never been able to bear \add the burden of obeying those
 laws!\add* 
 \v 11 But we\add \f + \ft inclusive \f* know that it is not because\add* we\add \f + \ft inclusive \f* try to obey those laws that God saves us\f + \ft inclusive \f* Jews. On the
 contrary\add*, we\add \f + \ft inclusive \f*\add* know that it is because of what the Lord Jesus did for
-us\add \f + \ft inclusive \f*\add* that we did not deserve that we\add \f + \ft inclusive \f*\add* are saved {that
-\add God\add* saves us} \add from the guilt of our sins. God saves us
+us\add \f + \ft inclusive \f*\add* that we did not deserve that we\add \f + \ft inclusive \f*\add* are saved \f + \ft Or:that
+\add God\add* saves us \f* \add from the guilt of our sins. God saves us
 Jews\add* exactly like \add he saves\add* those \add non-Jews who believe in the Lord
 Jesus\add*." 
 \s Acts 15:12 
@@ -79,13 +79,13 @@ Jerusalem\add*, spoke to them. \add He said\add*, "Fellow believers, listen to m
 \v 14 Simon \add Peter\add* has told you how God previously blessed the non-Jews. God did that by choosing from among them a
 people who would belong to him \f + \ft metonymy \f*. 
 \v 15  \add These\add* words that \add God spoke\add*, words that were written by
-\add one of\add* the prophets {that one of the prophets wrote} \add long
+\add one of\add* the prophets \f + \ft Or:that one of the prophets wrote \f* \add long
 ago\add*, agree with that, 
 \q
 \v 16 Later on I will return and I will re-establish the kingdom \f + \ft metaphor \f* that David
-\add ruled\add* and that has been {that \add people\add* have} destroyed. My
-\add doing that will be like\add* rebuilding\add a house\add* that has been {that
-\add people\add* have} torn down. 
+\add ruled\add* and that has been \f + \ft Or:that \add people\add* have \f* destroyed. My
+\add doing that will be like\add* rebuilding\add a house\add* that has been \f + \ft Or:that
+\add people\add* have \f* torn down. 
 \v 17 I will do that in order that all other people might seek\add me\add*, the Lord
 \add God. I will do that in order that\add* all the non-Jews whom I have called
 \add to belong\add* to me \f + \ft metonymy \f* might seek me. \add You can be certain that this will happen because
@@ -100,12 +100,12 @@ obey\add* all \add our laws\add* and rituals.
 \v 20 Instead, we should write \add a letter\add* to them, \add one requiring only four things: They
 should\add* not eat \add meat\f + \ft Or: food \f* that people\add* have offered to idols, they should not have sex with someone to whom they
 are not married, they should not \add eat meat from animals that have been killed
-by\add* being strangled {\add people have strangled\add*}, and \add they should not
+by\add* being strangled \f + \ft Or:\add people have strangled\add* \f*, and \add they should not
 eat\add* the blood \add of animals\add*. 
 \v 21 In many cities, for a very long time people have been proclaiming
 \add the laws that\add* Moses \add wrote\add* \f + \ft metonymy \f*, \add laws prohibiting those
-things\add*. And every Sabbath\f + \ft Or: Jewish day of rest \f* \add those laws\add* are read {someone reads
-\add those laws\add*} in the Jewish meeting places. \add So if the non-Jews want to know more about those laws, they can find
+things\add*. And every Sabbath\f + \ft Or: Jewish day of rest \f* \add those laws\add* are read \f + \ft Or:someone reads
+\add those laws\add* \f* in the Jewish meeting places. \add So if the non-Jews want to know more about those laws, they can find
 out in our meeting houses\add*." 
 \s Acts 15:22-29 
 \s The church leaders sent messengers with a letter to non-Jewish believers.
@@ -129,7 +129,7 @@ Barnabas and Paul, whom we\add \f + \ft exclusive \f*\add* love very much.
 \v 26 Those two have put their lives in danger because of their \add serving\add* our Lord \f + \ft metonymy \f* Jesus Christ.
 \v 27 We\add \f + \ft exclusive \f* have also chosen\add* Judas and Silas to go to you. They will tell you the same things
 \add that we are writing\add*. 
-\v 28 The Holy Spirit and \add also\add* we decided that you should not be required {that we should not require you} to obey a
+\v 28 The Holy Spirit and \add also\add* we decided that you should not be required \f + \ft Or:that we should not require you \f* to obey a
 lot of burdensome \add Jewish\add* laws. Instead, \add we\add* only
 \add require you to obey\add* the following instructions, 
 \q

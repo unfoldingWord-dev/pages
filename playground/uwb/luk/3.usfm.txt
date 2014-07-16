@@ -12,7 +12,7 @@ from your sinful behavior \f* \add before you ask me\add* to baptize
 \add you\add*!" 
 \p
 \v 4 John was the one who \add fulfilled\add* these words that had
-\add been written\add* by the prophet Isaiah {that the prophet Isaiah had written} on a scroll
+\add been written\add* by the prophet Isaiah \f + \ft Or:that the prophet Isaiah had written \f* on a scroll
 \add long ago\add*: 
 \pi In a desolate area, someone \f + \ft synecdoche \f* will be heard shouting \add to the people who pass
 by\add*, 
@@ -32,7 +32,7 @@ you!\add*
 \v 6 Then people \f + \ft synecdoche \f* everywhere will understand how God can save \f + \ft metonymy \f*
 \add people\add*. 
 \p
-\v 7 Although large groups of people came to John to be baptized {in order that he would baptize them},
+\v 7 Although large groups of people came to John to be baptized \f + \ft Or:in order that he would baptize them \f*,
 \add he knew that many of them were not sincere\add*. So he kept saying to them, "You
 \add people are evil\add* \f + \ft metaphor \f* \add like\add* poisonous snakes!
 \add I\add* warn you that \add God\add* will some day punish \f + \ft metonymy \f*
@@ -56,7 +56,7 @@ repented\add*?"
 \v 11 He answered them, "If any of you has two shirts, you should give one of them to someone who has no shirt. If any of you
 has \add plenty of\add* food, you should give some to those who have no food."
 \v 12  \add Some\add* tax collectors came \add and asked\add* to be baptized
-{\add asked him\add* to baptize them}. They asked him, "Teacher, what shall
+\f + \ft Or:\add asked him\add* to baptize them \f*. They asked him, "Teacher, what shall
 we\add \f + \ft exclusive \f*\add* do \add to please God\add*?" 
 \v 13 He said to them, "Do not take from the people any more money than
 \add the Roman government\add* tells you to take!" 
@@ -75,7 +75,7 @@ and\add* untie his sandals \f + \ft metaphor \f* \add like\add* a slave would do
 lives\add*, and \add he will judge others of you and punish you in\add* the fire \f + \ft metaphor \f*
 \add in hell\add*. 
 \v 17 He \add is like a man\add* \f + \ft metaphor \f* \add who wants to\add* clear away the grain on the ground where it has been threshed
-{they have threshed it}. That man \add uses\add* a huge fork \add to throw the grain into the
+\f + \ft Or:they have threshed it \f*. That man \add uses\add* a huge fork \add to throw the grain into the
 air\add* to separate the wheat from the chaff \f + \ft metaphor \f*, and then he cleans up the threshing area.
 \add Similarly, God\add* will \add separate righteous people from the evil people, like a man
 who\add* gathers the wheat into his storage area, and then he will burn
@@ -90,8 +90,8 @@ God\add*, as he told them the good message \add from God\add*.
 \s Luke 3:21-22 
 \s John baptized Jesus. 
 \p
-\v 21  \add But before John was put in prison\add*, when many people were being baptized {when he was baptizing many people},
-after Jesus was baptized and {he baptized Jesus} and Jesus was praying, the sky opened.
+\v 21  \add But before John was put in prison\add*, when many people were being baptized \f + \ft Or:when he was baptizing many people \f*,
+after Jesus was baptized and \f + \ft Or:he baptized Jesus \f* and Jesus was praying, the sky opened.
 \v 22 Then the Holy Spirit, resembling a dove, descended upon \add Jesus\add*. And
 \add God\add* [SYN\f + \ft Or: EUP \f*] spoke to Jesus from heaven, saying, "You\add \f + \ft singular \f*\add* are my Son, the one whom I love dearly. I am
 very pleased with you!" 
@@ -99,7 +99,7 @@ very pleased with you!"
 \s The list of Jesus' ancestors. 
 \p
 \v 23 When Jesus began \add his work for God\add*, he was about thirty years old. It was
-{\add People\add*} thought that he was \add the son of\add* Joseph.
+\f + \ft Or:\add People\add* \f* thought that he was \add the son of\add* Joseph.
 \add Joseph was the son\add* of Heli. 
 \v 24  \add Heli was the son\add* of Matthat. \add Matthat was the
 son\add* of Levi. \add Levi was the son\add* of Melchi. \add Melchi was the

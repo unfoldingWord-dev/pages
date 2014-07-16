@@ -36,8 +36,8 @@ left\add*.
 \v 14 But \add many of\add* his fellow-citizens hated him. So they sent some messengers after him to tell
 \add the Emperor\add*, 'We\add \f + \ft exclusive \f*\add* do not want this man to be our king!'
 \v 15 But \add the Emperor\add* made him king anyway. \add Later\add* the
-\add new king\add* returned. Then he commanded that the servants to whom he had given the coins should be summoned {that
-someone should summon the servants to whom he had given the coins}. He wanted to know how much they had gained by doing
+\add new king\add* returned. Then he commanded that the servants to whom he had given the coins should be summoned \f + \ft Or:that
+someone should summon the servants to whom he had given the coins \f*. He wanted to know how much they had gained by doing
 business with the coins. 
 \v 16 The first man came \add to him\add* and said, 'Sir, with your one coin
 \add I\add* have earned ten more \add coins\add*!' 
@@ -71,9 +71,9 @@ returned\add* I could have collected that amount plus the interest
 \v 25 They protested, 'But Sir, he already has ten \add coins\add*!'
 \v 26  \add But the king said\add*, 'I tell you this: To the people who
 \add use well what\add* they have \add received\add*, more will be given
-{\add I\add* will give more}. But from the people who \add do\add* not
+\f + \ft Or:\add I\add* will give more \f*. But from the people who \add do\add* not
 \add use well what they have received\add*, even what they \add already\add* have will be taken away
-{\add I\add* will take away even what they already have}. 
+\f + \ft Or:\add I\add* will take away even what they already have \f*. 
 \v 27 Now, \add as for\add* those enemies of mine who did not want me to rule over them, bring them here and execute them while
 I am watching!'" 
 \s Luke 19:28-40 (Mt. 21:1-9; Mk. 11:1-10; Jn. 12:12-15) 
@@ -81,11 +81,11 @@ I am watching!'"
 \p
 \v 28 After \add Jesus\add* said those things, he \add continued on the
 road\add* up to Jerusalem, going ahead of the disciples. 
-\v 29 When they got near Bethphage and Bethany \add villages\add*, near the hill that is called {that they call} Olive
+\v 29 When they got near Bethphage and Bethany \add villages\add*, near the hill that is called \f + \ft Or:that they call \f* Olive
 \add Tree\add* Hill, 
 \v 30 he said to two of \add his\add* disciples, "Go to the village just ahead
 \add of you\add*. As you \add two\add* enter \add it\add*, you will see a young animal that no one has ever ridden that has
-been {someone has} tied up. Untie it and bring it \add to me\add*.
+been \f + \ft Or:someone has \f* tied up. Untie it and bring it \add to me\add*.
 \v 31 If anyone asks you, 'Why are you untying it?' say \add to him\add*, 'The Lord needs it.'"
 \v 32  \add So\add* the \add two disciples\add* went \add to the
 village\add* and found the \add animal\add*, just like he had told them.
@@ -127,7 +127,7 @@ people\f + \ft Or: children \f*. \add When they finish destroying everything\add
 \add courtyard\add*. He saw in that place the people who were selling
 \add things\add*, 
 \v 46 and he began to chase them out. He said to them, "It has been written
-{\add A prophet\add* wrote} \add in the Scriptures that God said\add*,
+\f + \ft Or:\add A prophet\add* wrote \f* \add in the Scriptures that God said\add*,
 '\add I want\add* my house to be a place where people pray'; but you bandits have made it a cave where you can
 \add hide\add*!" 
 \p

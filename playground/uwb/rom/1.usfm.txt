@@ -1,14 +1,14 @@
 \c 1  
 \p
 \v 1  \add I\add*, Paul, who serve Christ Jesus, \add am writing this
-letter\add*. God chose me to be an apostle, and I was appointed by him {he appointed me} in order that
+letter\add*. God chose me to be an apostle, and I was appointed by him \f + \ft Or:he appointed me \f* in order that
 \add I should proclaim\add* the good message\f + \ft Or: the gospel \f* that \add comes from
 him\add*. 
 \v 2 Long before \add Jesus came to earth, God\add* promised \add that he would
 reveal\add* this good message by means of what his prophets \add wrote\add* in the sacred Scriptures.
 \v 3 This good message is \add about the one whom we know as\add* his Son. As to his Son's physical\f + \ft Or: human \f* nature, he was born a
 descendant of \add King\add* David. 
-\v 4 As to his divine nature, it was shown {\add God\add* showed} powerfully that he is God's own Son\f + \ft Or: God who became human \f*.
+\v 4 As to his divine nature, it was shown \f + \ft Or:\add God\add* showed \f* powerfully that he is God's own Son\f + \ft Or: God who became human \f*.
 \add God\add* showed this by his Holy Spirit causing him to become alive again after he died. He is Jesus Christ our Lord.
 \v 5 He is the one who appointed me, who did not deserve it, \add to
 be\add* an apostle. He did that in order that \add many\add* among the non-Jews would honor
@@ -41,7 +41,7 @@ truth when I say that I always mention you whenever \f + \ft doublet \f* I pray
 \add in Jesus\add*. 
 \v 13 My fellow believers, many times I planned to visit you. I certainly want you to know \f + \ft litotes \f* that.
 \add But I have not been able to come to you because\add* I have been hindered
-{\add things\add* have always prevented me} until the present time. I have wanted to come in order that I might help you to
+\f + \ft Or:\add things\add* have always prevented me \f* until the present time. I have wanted to come in order that I might help you to
 mature spiritually \f + \ft idiom \f*, as \add I have helped people to mature
 spiritually\add* in many other non-Jewish groups \f + \ft hyperbole \f*. 
 \v 14 I feel obliged \add to proclaim the good message to all non-Jewish
@@ -68,8 +68,8 @@ ago\add* wrote \add that God said\add*, "Those whose record of sin
 \p
 \v 18 From \add where God rules in\add* heaven he is making it clear to all
 \add non-Jewish\add* people who show no respect for God and who do wicked things, that he is angry with them
-\add and that they deserve to be punished\add* {\add that he would punish
-them\add*} \f + \ft metonymy \f*. By means of \add their behaving\add* wickedly, they keep other people
+\add and that they deserve to be punished\add* \f + \ft Or:\add that he would punish
+them\add* \f* \f + \ft metonymy \f*. By means of \add their behaving\add* wickedly, they keep other people
 \add from believing what they know\add* to be true \add about God\add*.
 \s Romans 1:19-23 
 \s Everyone can clearly know what God is like; so no one has a basis for saying, "We never knew about God."

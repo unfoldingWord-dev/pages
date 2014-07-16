@@ -33,10 +33,10 @@ the people in Samaria \add province by doing that\add*. He continually claimed t
 \v 12 But then they believed Philip's \add message\add* when he preached to them about
 \add how\add* God desires to rule \f + \ft metaphor \f* \add the lives of people who believe in
 him\add*, and about Jesus being the Messiah \f + \ft metonymy \f*. Both the men and the women who believed in Jesus were baptized.
-{\add Philip\add* was baptizing both the men and the women \add who had come to believe in
-Jesus\add*}. 
-\v 13 Simon himself believed \add Philip's message\add* and, after he was baptized {after
-\add Philip\add* baptized him}, he began to constantly accompany Philip. Simon was continually amazed because he often saw
+\f + \ft Or:\add Philip\add* was baptizing both the men and the women \add who had come to believe in
+Jesus\add* \f*. 
+\v 13 Simon himself believed \add Philip's message\add* and, after he was baptized \f + \ft Or:after
+\add Philip\add* baptized him \f*, he began to constantly accompany Philip. Simon was continually amazed because he often saw
 \add Philip\add* doing many kinds of miraculous things. 
 \s Acts 8:14-17 
 \s Samaritan believers received the power of the Holy Spirit. 
@@ -47,7 +47,7 @@ Jesus\add*}.
 \v 15 When Peter and John arrived in Samaria, they prayed for those
 \add new believers\add* in order that the Holy Spirit's \add power\add* would come to them.
 \v 16  \add Peter and John realized that\add* the Holy Spirit had not yet begun to empower any of them. They had been baptized
-{\add Philip\add* had baptized them} \add because they had believed\add* in \f + \ft metonymy \f* the Lord Jesus,
+\f + \ft Or:\add Philip\add* had baptized them \f* \add because they had believed\add* in \f + \ft metonymy \f* the Lord Jesus,
 \add but they did not know about the Holy Spirit\add*. 
 \v 17  \add Then Peter and John\add* placed their hands on \add the heads
 of\add* each person, and they received the \add power of\add* \f + \ft metonymy \f* the Holy Spirit.
@@ -110,14 +110,14 @@ it\add* if \add there is\add* no one to explain it to me!\f + \ft Or: How can I
 \v 32 The part of the Scriptures that the official was reading was this:
 \q He will \add be silent when\add* they lead him away to kill him
 \q \add like when people lead\add* a sheep \add away to kill it\add*.
-\q As a young sheep is silent when its wool is being cut off {someone cuts off its wool},
+\q As a young sheep is silent when its wool is being cut off \f + \ft Or:someone cuts off its wool \f*,
 \add similarly\add* he will not protest \f + \ft metonymy \f* \add when people cause him to
 suffer\add*. 
 \q
-\v 33 When he will be humiliated by being accused falsely {people will humiliate
-him\add by accusing him falsely\add*}, 
+\v 33 When he will be humiliated by being accused falsely \f + \ft Or:people will humiliate
+him\add by accusing him falsely\add* \f*, 
 \q \add the rulers\add* will not consider him innocent\f + \ft Or: will consider him guilty \f*.
-\q No one will possibly be able to tell about his descendants, because he will be killed {people will kill him} without him
+\q No one will possibly be able to tell about his descendants, because he will be killed \f + \ft Or:people will kill him \f* without him
 having\add any descendants\add* on the earth. 
 \p
 \v 34 The official asked Philip \add concerning these words that he was
@@ -131,8 +131,8 @@ writing\add* about himself or about someone else?"
 \v 36-37 While they were traveling along the road, they came to \add a place where there was a pond
 of\add* water \add near the road\add*. Then the official said \add to
 Philip\add*, "Look, \add there is a pond of\add* water! I would like you to baptize me, because I do not know of anything that
-would prevent me from being baptized {prevent \add you\add* from baptizing me.}\f + \ft Or: Do you know of anything that would prevent me
-from being baptized {prevent \add you\add* from baptizing me}? \f* \f + \ft rhetorical question \f*"
+would prevent me from being baptized \f + \ft Or:prevent \add you\add* from baptizing me. \f*\f + \ft Or: Do you know of anything that would prevent me
+from being baptized \f + \ft Or:prevent \add you\add* from baptizing me \f*? \f* \f + \ft rhetorical question \f*"
 \v 38 So the official told \add the driver\add* to stop the chariot. Then both Philip and the official went down into the
 \add pond of\add* water, and \add Philip\add* baptized him. 
 \v 39 When they came up out of the water, suddenly God's Spirit took Philip away. The official never saw Philip again. But

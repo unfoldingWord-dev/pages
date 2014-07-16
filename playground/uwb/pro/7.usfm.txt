@@ -56,7 +56,7 @@ her\add* by what she says.
 \q2 I was searching for you and now I have found you! 
 \q
 \v 16 I have put on my bed sheets\f + \ft Or: bedspreads \f* that were made from very fine linen
-\add that were imported\add* {\add people brought\add*} from Egypt.
+\add that were imported\add* \f + \ft Or:\add people brought\add* \f* from Egypt.
 \q
 \v 17 I have sprinkled \add sweet-smelling\add* perfumes on my bed—
 \q2 myrrh and aloes and cinnamon. 

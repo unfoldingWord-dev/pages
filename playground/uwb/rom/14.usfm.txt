@@ -20,7 +20,7 @@ are you to decide whether they have done wrong\add*? \f* \f + \ft rhetorical que
 eat everything, because they are \add also God's servants! And just
 like\add* it is the servants' own master who accepts or condemns \f + \ft metonymy \f* his servants,
 \add it is God who accepts or condemns us\add*. And \add believers\add* will be accepted
-\add by\add* the Lord {\add the Lord\add* will accept \add believers\add*}
+\add by\add* the Lord \f + \ft Or:\add the Lord\add* will accept \add believers\add* \f*
 \add regardless of whether they eat meat or not\add*, because he is able to keep them
 \add trusting in him\add*. 
 \s Romans 14:5-9 
@@ -64,7 +64,7 @@ when\add* all of us will stand before God in order that he will say whether or n
 regulations\add*, should not despise your fellow believers \add who practice
 them\add*!\f + \ft Or: why do you despise your fellow believers \add who practice
 them\add*? \f* \f + \ft rhetorical question \f* 
-\v 11  \add We know this\add* because it is written {\add a prophet\f + \ft Or: Isaiah \f*\add* wrote}
+\v 11  \add We know this\add* because it is written \f + \ft Or:\add a prophet, Or: Isaiah\add* wrote \f*
 \add what God has said\add*: 
 \q Everyone will bow down before me! That is as \add certain as the fact
 that\add* I live \f + \ft idiom \f*! Everyone \f + \ft synecdoche \f* will acknowledge \add that because I
@@ -85,7 +85,7 @@ with\add* \f + \ft Or: \add my belonging to\add* \f* the Lord Jesus that there i
 \add So you should not encourage them to eat it\add*. 
 \v 15 If you \add eat\add* food \f + \ft metaphor \f* that anyone for whom Christ died
 \add thinks that it is wrong to eat, that person might be encouraged\add*
-{\add you might be encouraging that person\add*} \add to do something that he believes is wrong. As a result, you might cause
+\f + \ft Or:\add you might be encouraging that person\add* \f* \add to do something that he believes is wrong. As a result, you might cause
 that\add* fellow believer \add to stop trusting in God\add*. He would thus be ruined
 \add spiritually\add* just because you have stopped behaving as one who loves
 \add others should behave!\add* 
@@ -117,6 +117,6 @@ is\add* pleased with those who do what they know is right and as a result do not
 only\add* those things that they believe are right. 
 \v 23 But some believers are not certain \add that God will approve of their eating a certain kind of
 food\add*. So if they eat it, \add they think that God will punish\add* them. And they
-\add truly\add* will be punished {\add God truly\add* will punish them}, because
+\add truly\add* will be punished \f + \ft Or:\add God truly\add* will punish them \f*, because
 \add they have done things that they\add* believe \add are not right\add*. Those who do anything without being certain
 \add that God considers it to be right\add* are sinning. 

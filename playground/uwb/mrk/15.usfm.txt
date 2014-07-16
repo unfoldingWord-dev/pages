@@ -19,8 +19,8 @@ surprised.
 \v 6 It was the governor's custom \add each year\add* during the
 \add Passover\add* celebration to release \add one person who was in prison. He customarily
 released\add* whichever prisoner the people requested. 
-\v 7  \add At that time\add* there was a man called Barabbas who had been {whom
-\add the soldiers had\add*} \add put in prison with some other men\add*. Those men had
+\v 7  \add At that time\add* there was a man called Barabbas who had been \f + \ft Or:whom
+\add the soldiers had\add* \f* \add put in prison with some other men\add*. Those men had
 murdered\add some soldiers\add* when they rebelled \add against the Roman
 government\add*. 
 \v 8 A crowd approached \add Pilate\add* and asked him \add to release
@@ -40,7 +40,7 @@ disciples\add*.
 "\add Command your soldiers to\add* crucify him!" 
 \v 15 So, because Pilate wanted to please the crowd, he released Barabbas for them. Then, after
 \add his soldiers\add* had whipped Jesus with leather straps into which they had fastened metal pieces,
-\add Pilate told the soldiers to take him away\add* in order that he would be crucified {they would crucify him}.
+\add Pilate told the soldiers to take him away\add* in order that he would be crucified \f + \ft Or:they would crucify him \f*.
 \s MARK 15:16-20 
 \s The soldiers ridiculed Jesus as being a king. 
 \p
@@ -65,7 +65,7 @@ led him outside \add of the city\add* in order to nail him to a cross.
 \add for Jesus\add*. 
 \v 22 They brought them both to a place that they \add call\add* Golgotha. That name means, 'a place
 \add like\add* a skull'. 
-\v 23 Then they tried to give Jesus wine that was {that they} mixed with
+\v 23 Then they tried to give Jesus wine that was \f + \ft Or:that they \f* mixed with
 \add medicine called\add* myrrh. \add They wanted him to drink it so that he would not feel so much pain when they crucified
 him\add*. But he did not drink it. 
 \v 24  \add Some\add* of the \add soldiers took his clothes\add*. Then they nailed him to a cross. Afterwards, they divided his
@@ -75,7 +75,7 @@ clothes among themselves by gambling with \add something like\add* dice. They di
 \s People passing by, as well as the Jewish leaders and two criminals crucified with Jesus, insulted him.
 \p
 \v 25 It was nine o'clock in the morning when they crucified him.
-\v 26 They \add attached to the cross above Jesus' head\add* a sign on which it had been written {someone had written} the
+\v 26 They \add attached to the cross above Jesus' head\add* a sign on which it had been written \f + \ft Or:someone had written \f* the
 reason why \add they were nailing him to the cross\add*. \add But
 all\add* that it said was, "The King of the Jews." 
 \v 27-28 They also nailed to crosses two men who were bandits. They nailed one to a cross at the right side
@@ -124,7 +124,7 @@ was also Salome.
 \add town came there\add*. He was a member of the \add Jewish\add* council, one whom everyone respected. He was also one of
 those who had been waiting expectantly for the \add time when\add*
 God\add would send\add* his king to begin to rule. \add He knew that, according to Jewish law, people's bodies had to be
-buried\add* {\add someone had to bury people's bodies\add*} \add on the day they died. He also realized
+buried\add* \f + \ft Or:\add someone had to bury people's bodies\add* \f* \add on the day they died. He also realized
 that\add* it was the day when \add people\add* prepared \add things
 for\add* \add the Jewish day of rest\f + \ft Or: the Sabbath\add* \f*, \add and that the Sabbath would start when the sun
 set\add*. So he became courageous and went to Pilate and asked Pilate
@@ -139,4 +139,4 @@ the soldiers \add who crucified Jesus\add*, and he asked him if \add Jesus\add* 
 \add previously\add* had been dug out of the rock \add cliff\add*. Then they rolled a
 \add huge flat\add* stone in front of the entrance to the tomb. 
 \v 47 Mary \add from\add* Magdala \add village\add* and Mary the mother of Joses were watching where Jesus'
-\add body\add* was placed {where they placed Jesus' \add body\add*}.
+\add body\add* was placed \f + \ft Or:where they placed Jesus' \add body\add* \f*.

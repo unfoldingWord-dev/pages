@@ -55,7 +55,7 @@ we\add \f + \ft exclusive \f* were coming\add*. So they came out \add from Rome\
 \add Road,'\add* and others met us at \add the town called\add* 'The Three Inns.' When Paul saw those believers, he thanked God
 and was encouraged. 
 \v 16 After we\add \f + \ft exclusive \f*\add* arrived in Rome, Paul was permitted
-{\add a Roman official who was responsible for guarding Paul\add* permitted Paul} to live
+\f + \ft Or:\add a Roman official who was responsible for guarding Paul\add* permitted Paul \f* to live
 \add in a house\add* by himself. But\add there was always\add* a soldier there to guard him.
 \s Acts 28:17-22 
 \s The Jewish leaders asked Paul to tell them about Christianity.
@@ -67,7 +67,7 @@ leaders\add* in Jerusalem \add seized\add* \f + \ft metonymy \f* \add me. But be
 sent me\add* to Caesarea for Roman \add authorities\f + \ft Or: officials \f* to put me on
 trial\add*. 
 \v 18 The Roman authorities\f + \ft Or: officials \f* questioned me and wanted to release me, because I had not done any
-\add bad\add* thing for which I should be executed {they should kill me}.
+\add bad\add* thing for which I should be executed \f + \ft Or:they should kill me \f*.
 \v 19 But when the Jewish \add leaders\add* \f + \ft synecdoche \f* there opposed \add what the Roman authorities wanted to
 do\add*, I had to formally request that the Emperor \add judge me here in
 Rome\add*. But my reason for doing that was not that I wanted to accuse our leaders about anything.
@@ -78,8 +78,8 @@ us\add \f + \ft inclusive \f*\add* Jews."
 \add our fellow Jews\add* in Judea about you. Also, none of our fellow Jews who have arrived
 \add here from Judea\add* has said anything bad about you. 
 \v 22 But we\add \f + \ft exclusive \f*\add* want to hear what you\add \f + \ft singular \f*\add* think about this
-\add Christian\add* sect\f + \ft Or: group \f*, because we know that in many places \f + \ft hyperbole \f* bad things are being said {people are saying bad
-things} about it." 
+\add Christian\add* sect\f + \ft Or: group \f*, because we know that in many places \f + \ft hyperbole \f* bad things are being said \f + \ft Or:people are saying bad
+things \f* about it." 
 \s Acts 28:23-31 
 \s Paul told the Jews that non-Jews would believe the gospel. 
 \p
@@ -88,8 +88,8 @@ arrived\add*, those Jews came back to the place where Paul was staying, and they
 them from morning until evening. He talked to them about how God wants to rule
 \add people's lives\add* \f + \ft metaphor \f*. He tried to convince them that Jesus
 \add is the Messiah\add* by reminding them what Moses and the other prophets had written \f + \ft metonymy \f*.
-\v 24 Some of those Jews believed that what was said \add by Paul\add* {what
-\add Paul\add* said} about Jesus \add was true\add*, but others did not believe
+\v 24 Some of those Jews believed that what was said \add by Paul\add* \f + \ft Or:what
+\add Paul\add* said \f* about Jesus \add was true\add*, but others did not believe
 \add that it was true\add*. 
 \v 25 So they began to argue with one another. \add Paul realized that some of them did not want to listen to him,
 so\add* when they were about to leave, he said, "The Holy Spirit said something to your\f + \ft Or: our \f*(incl) ancestors. He spoke these

@@ -22,7 +22,7 @@ like\add* sheep that have gotten lost \f + \ft metaphor \f* have gone away \add 
 shepherd\add*. 
 \v 7 When you go \add to them\add*, proclaim to them that God [EUP\f + \ft Or: MTY \f*] will soon begin to rule over people.
 \v 8 Heal sick people, cause dead people to become alive, heal people who have leprosy, and cause demons to leave people
-\add who are controlled by them\add* {\add whom demons control\add*}. Do not charge money
+\add who are controlled by them\add* \f + \ft Or:\add whom demons control\add* \f*. Do not charge money
 \add for helping people, because God\add* did not charge you anything
 \add for helping you\add*. 
 \v 9-10 Do not take any money with you \f + \ft metonymy \f*, nor a knapsack. Do not take an extra shirt, nor sandals
@@ -34,8 +34,8 @@ you go\add*.
 \add ask God to\add* bless the people \add who live there\add* \f + \ft metonymy \f*. Stay in that home until you leave
 \add that town or village\add*. 
 \v 13 If the people who live in \f + \ft metonymy \f* that house are worthy \add of being
-blessed\add* {\add God blessing them\add*}, \add God\add* will bless them. If the people who live in that house are not worthy
-\add of being blessed\add* {\add of God blessing them\add*}\add ,
+blessed\add* \f + \ft Or:\add God blessing them\add* \f*, \add God\add* will bless them. If the people who live in that house are not worthy
+\add of being blessed\add* \f + \ft Or:\add of God blessing them\add* \f*\add ,
 God\add* will bless you \add instead of blessing them\add*. 
 \v 14 If the people \add who live in any house or town\add* do not welcome you
 \add to their home or town\add*, nor listen to your message, leave that house or town. And as you leave, shake off the dust
@@ -55,18 +55,18 @@ should\add* wisely \add stay away from such people, like you stay away from
 poisonous\add* snakes \f + \ft simile \f*. You should be as harmless as doves are \f + \ft simile \f*.
 \v 17 Also, be on guard against \add our religious leaders\add*. They will arrest you and take you to the members of the
 religious councils \add to put you on trial and punish you because you are my
-disciples\add*. You will be whipped {The local leaders will whip you}
+disciples\add*. You will be whipped \f + \ft Or:The local leaders will whip you \f*
 \add in\add* their meeting places. 
 \v 18  \add And\add* because \add you teach\add* about me, you will be taken
-{\add the religious leaders\add* will take you} to governors and kings
+\f + \ft Or:\add the religious leaders\add* will take you \f* to governors and kings
 \add in order that they may put you on trial and punish you\add*. As a result, you will testify to those rulers and to
 \add other\add* non-Jews\add about what I have done\add*. 
 \v 19 When \add the religious leaders\add* arrest you, do not be worried about what you will say
 \add to them\add*, because at that very time \add the\add* Holy Spirit will tell you the words that you should say.
 \v 20 It is not that you \add will decide what to\add* say. Instead, you will say what the Spirit of your
 \add heavenly\add* Father tells \add you to say\add*. 
-\v 21  \add You will be taken\add* {\add People who do not believe in me
-will\add* take you} to the authorities to be killed\add because you believe in me. For
+\v 21  \add You will be taken\add* \f + \ft Or:\add People who do not believe in me
+will\add* take you \f* to the authorities to be killed\add because you believe in me. For
 example\add*, people will do that to their brothers, and fathers will do that to their children. Children will rebel against
 their parents and cause\add them\add* to be killed. 
 \v 22 Many people will hate you \add because you believe in me\add*. Nevertheless,
@@ -91,8 +91,8 @@ like\add* members of my household \f + \ft metaphor \f*!"
 \s Jesus instructed his disciples that they should not fear those who persecute them.
 \p
 \v 26 "Do not be afraid of \add people who insult you and do evil things to you. God
-wants\add* everything that is unknown now to be revealed {\add God wants you
-to\add* reveal everything \add that is unknown now\add*}. \add He
+wants\add* everything that is unknown now to be revealed \f + \ft Or:\add God wants you
+to\add* reveal everything \add that is unknown now\add* \f*. \add He
 does\add* not \add want his truth\add* to remain hidden \f + \ft metaphor \f* and kept secret \f + \ft doublet \f*.
 \v 27  \add So, instead of being afraid\add*, what I say to you \add secretly as people
 do\add* at night \f + \ft metonymy \f*, tell \add publicly as people do\add* during the daytime \f + \ft metonymy \f*. What I

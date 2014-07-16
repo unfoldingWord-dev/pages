@@ -3,7 +3,7 @@
 \s Jesus taught that we should handle our money in ways that are pleasing to God.
 \p
 \v 1  \add Jesus\add* also said to his disciples, "Once there was a rich man who had a household manager.
-\add One day\add* he was told {\add someone\add* told him} that \add the
+\add One day\add* he was told \f + \ft Or:\add someone\add* told him \f* that \add the
 manager\add* was managing the rich man's money badly. 
 \v 2 So he summoned \add the manager\add* and said to him, 'It is terrible what they are saying about
 you\add \f + \ft singular \f*\add*!\f + \ft Or: Is it true what they are saying about you\add \f + \ft singular \f*\add* \f + \ft rhetorical question \f*? \f* Give me a written account of
@@ -13,7 +13,7 @@ you\add \f + \ft singular \f*\add*!\f + \ft Or: Is it true what they are saying 
 I do ( rhetorical question )? \f* I am not strong enough to \add work by\add* digging ditches, and I am ashamed to beg
 \add for money\add*.' 
 \v 4  \add Suddenly he had an idea\add*. 'I know what I will do, so that people will take me into their houses
-\add and provide for me\add* after I am dismissed {after my master dismisses me} from my work!'
+\add and provide for me\add* after I am dismissed \f + \ft Or:after my master dismisses me \f* from my work!'
 \v 5 So \add one by one\add* he summoned the people who owed his master money. He asked the first one, 'How much do
 you\add \f + \ft singular \f*\add* owe my master?' 
 \v 6 The man replied, 'Eight hundred gallons of olive oil.' The manager said to him, 'Take your bill and sit down and quickly
@@ -66,22 +66,22 @@ established previously\add*.
 \p
 \v 18  \add For example, because God considers that a marriage lasts until either the husband or the wife dies, he considers
 that\add* any man who divorces his wife and marries another woman is committing adultery. He also
-\add considers that\add* any man who marries a woman who has been divorced by her husband {whose husband has divorced her} is
+\add considers that\add* any man who marries a woman who has been divorced by her husband \f + \ft Or:whose husband has divorced her \f* is
 \add also\add* committing adultery." 
 \s Luke 16:19-31 
 \s Jesus warned what would happen to those who did not share their possessions with poor people.
 \p
 \v 19  \add Jesus also said\add* \f + \ft metaphor \f*, "Once there was a rich man who wore
 \add expensive\add* purple and linen \add garments\add*. He ate luxuriously every day.
-\v 20 And every day a poor man whose name was Lazarus was laid {\add some people
-also\add* laid a poor man whose name was Lazarus} at the gate of the rich man's
+\v 20 And every day a poor man whose name was Lazarus was laid \f + \ft Or:\add some people
+also\add* laid a poor man whose name was Lazarus \f* at the gate of the rich man's
 \add house\add*. Lazarus' body was covered with sores. 
 \v 21 He \add was so hungry that he\add* wanted to eat the scraps
 \add of food\add* that fell from the table where the rich man \add ate\add*. Furthermore,
 \add to make things worse\add*, dogs came and licked his sores. 
-\v 22  \add Eventually\add* the poor man died. Then he was taken by the angels {the angels took him} to
+\v 22  \add Eventually\add* the poor man died. Then he was taken by the angels \f + \ft Or:the angels took him \f* to
 \add start feasting\add* next to his \add great ancestor\add* Abraham. The rich man also died, and his body was buried
-{\add some people\add* buried his body}. 
+\f + \ft Or:\add some people\add* buried his body \f*. 
 \v 23 In the place where dead people wait \add for God to judge them\add*, he was suffering great pain. He looked up and saw
 Abraham far away, and he saw Lazarus sitting close to Abraham. 
 \v 24 So he shouted, 'Father Abraham, I am suffering very much in this fire! So
@@ -107,5 +107,5 @@ enough\add*! But if someone from those who have died goes back to them
 \add and warns them\add*, they will turn from their sinful behavior.'
 \v 31  \add Abraham\add* said to him, 'No! If they do not listen to
 \add what\add* \f + \ft metonymy \f* Moses and the prophets \f + \ft metonymy \f* \add wrote\add*, even if someone would rise from among the dead
-\add and go and warn them\add*, they would not be convinced {he could not convince them}
+\add and go and warn them\add*, they would not be convinced \f + \ft Or:he could not convince them \f*
 \add that they should turn from their sinful behavior\add*.' " 

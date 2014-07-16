@@ -84,7 +84,7 @@ them, he would not save anyone\add*. So Jesus replied again to them, "My dear fr
 \v 25 It is impossible for a camel to go through the eye of a needle. It is almost as difficult \f + \ft hyperbole \f* for rich people
 \add to decide\add* to let God rule their \add lives\add*." 
 \v 26 The disciples were very astonished. So they said to each other, "If that is so, it will be unlikely that anyone will be
-saved {that God will save anyone}!\f + \ft Or: will \add God\add* save anyone? \f* \f + \ft rhetorical question \f*"
+saved \f + \ft Or:that God will save anyone \f*!\f + \ft Or: will \add God\add* save anyone? \f* \f + \ft rhetorical question \f*"
 \v 27 Jesus looked at them and then he said, "\add Yes\add*, it is impossible for people
 \add to save themselves!\add* But God certainly can \add save them\add*, because God can do anything!"
 \v 28 Peter exclaimed, "\add You know that\add* we have left behind everything and we have become your disciples.
@@ -113,8 +113,8 @@ him\add*, and the other people who were with them were afraid \add about what wo
 he took the twelve disciples to a place by themselves\add*. Then he began to tell them again about what was going to happen to
 him, saying, 
 \v 33 "Listen carefully! We are going up to Jerusalem. There the chief priests and the men who teach the Jewish laws will be
-enabled {someone will help the chief priests and those who teach our
-\add Jewish\add* laws} to seize me. Then they will declare that I must die,
+enabled \f + \ft Or:someone will help the chief priests and those who teach our
+\add Jewish\add* laws \f* to seize me. Then they will declare that I must die,
 \add even though\add* I am the one who came from heaven. Then they will take me to the Roman
 \add authorities\add*. 
 \v 34 Those men will ridicule me. They will spit on me. They will whip me. Then they will kill me. But on the third day after
@@ -129,11 +129,11 @@ him, "Teacher, we want you to do for us what we will ask you to do!"
 \v 37 They said to him, "When you \add rule\add* gloriously, \add let us rule with
 you\add*. Let one of us \add sit\add* at your right side and one sit at your left side."
 \v 38 But Jesus said to them, "You do not understand what you are asking for." Then he asked them, "Can you endure suffering
-\f + \ft metonymy \f* like I am about to suffer? Can you endure being killed \f + \ft metonymy \f* as I will be killed {people killing you as they will kill
-me}?" 
+\f + \ft metonymy \f* like I am about to suffer? Can you endure being killed \f + \ft metonymy \f* as I will be killed \f + \ft Or:people killing you as they will kill
+me \f*?" 
 \v 39 They said to him, "\add Yes\add*, we are able \add to do that\add*!" Then Jesus said to them,
 "\add It is true that\add* you will endure suffering \f + \ft metonymy \f* like I will suffer, and you will endure being killed as I will be
-killed {people killing you as they will kill me}. 
+killed \f + \ft Or:people killing you as they will kill me \f*. 
 \v 40 But I am not the one who chooses the ones who will sit next to me
 \add and rule with me. God will give\add* those places to the ones he appoints."
 \p
@@ -147,10 +147,10 @@ positions\add*.
 \add the rest of\add* you. 
 \v 44 Furthermore, if anyone among you wants \add God to consider
 him\add* to be the most important, he must \add act like\add* a servant for the rest of you.
-\v 45  \add You should imitate me\add*. Even though I am the one who has come from heaven, I did not come to be served {for
-others to serve me}. On the contrary, I came in order to serve others and to allow others to kill me, in order that my dying
+\v 45  \add You should imitate me\add*. Even though I am the one who has come from heaven, I did not come to be served \f + \ft Or:for
+others to serve me \f*. On the contrary, I came in order to serve others and to allow others to kill me, in order that my dying
 for people would be like a payment to rescue \add many people from being
-punished\add* {\add God punishing them\add*} \add for their sins\add*."
+punished\add* \f + \ft Or:\add God punishing them\add* \f* \add for their sins\add*."
 \s MARK 10:46-52 
 \s After a blind man called out and asked Jesus to have mercy on him, Jesus healed him.
 \p

@@ -17,7 +17,7 @@ to\add* baptize\add you\add*."
 \v 5 A great number \f + \ft hyperbole \f* of people who lived in Jerusalem \add city\add* and
 \add elsewhere\add* in the Judea \add district\add* were going out to where John was. There,
 \add after hearing John's message\add*, they \add responded by\add* confessing the sinful things
-\add that they had done\add*. Then they were being baptized by John {John was baptizing them} in the Jordan River.
+\add that they had done\add*. Then they were being baptized by John \f + \ft Or:John was baptizing them \f* in the Jordan River.
 \v 6 John wore \add rough\add* clothes made of camel's hair. And
 \add as the prophet Elijah had done\add*, he wore a leather belt around his waist; and what he ate was
 \add only\add* grasshoppers and honey \add that he found\add* in that desolate area.
@@ -33,19 +33,19 @@ Satan testing him; and by the angels taking care of him.
 \p
 \v 9 During that time \add when John was preaching\add*, Jesus came from Nazareth
 \add town\add*, which is in Galilee \add district\add*. He went to
-\add where John was preaching\add* and he was baptized by John {John baptized him} in the Jordan
+\add where John was preaching\add* and he was baptized by John \f + \ft Or:John baptized him \f* in the Jordan
 \add River\add*. 
 \v 10 Immediately after \add Jesus\add* came up out of the water, he saw heaven opened up
 \add and he saw\add* the Spirit \add of God\add* descending on himself. He came in the form of a dove.
 \v 11 And \add God\add* \f + \ft metonymy \f* spoke to him from heaven saying, "You are my Son, the one whom I love dearly. I am very pleased
 with you." 
 \v 12 Then\f + \ft Or: Right away \f* the Spirit \add of God\add* sent Jesus into the desolate area.
-\v 13 He was there for forty days. During that time, he was tempted by Satan {Satan tempted him}. There were wild animals
+\v 13 He was there for forty days. During that time, he was tempted by Satan \f + \ft Or:Satan tempted him \f*. There were wild animals
 \add there\add* also. But angels took care of him. 
 \s Mark 1:14-15 
 \s After John was arrested, Jesus came and preached the good message that came from God.
 \p
-\v 14 Later, after John was put in prison {after \add soldiers\add* put John in prison}
+\v 14 Later, after John was put in prison \f + \ft Or:after \add soldiers\add* put John in prison \f*
 \add because he had rebuked the governor Herod Antipas for his sins\add*, Jesus went to Galilee
 \add district\add*. There he was preaching the good message \add that
 came\add* from God. 
@@ -140,7 +140,7 @@ Jesus and then he pleaded with him saying, "\add Please heal me, because I
 know\add* you are able to heal me if you want to!" 
 \v 41 Jesus felt very sorry for him. \add So he ignored the religious laws about coming close to people who had that
 disease\add*. He reached out his hand and touched the man. Then he said to him, "Since I am willing
-\add to heal you\add*, be healed {I heal you} \add now\add*!" 
+\add to heal you\add*, be healed \f + \ft Or:I heal you \f* \add now\add*!" 
 \v 42 Immediately the man was healed! He was no longer a leper! 
 \v 43 Jesus spoke sternly to him before he sent him away. 
 \v 44 What Jesus said was, "Go to a local priest and show yourself to him

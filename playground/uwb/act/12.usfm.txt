@@ -19,7 +19,7 @@ soldiers to execute Peter\add*.
 \s Acts 12:5-11 
 \s An angel freed Peter from prison. 
 \p
-\v 5 So \add for several days\add* Peter was kept {they kept Peter} in prison. But the
+\v 5 So \add for several days\add* Peter was kept \f + \ft Or:they kept Peter \f* in prison. But the
 \add other believers\add* in the congregation at \add Jerusalem\add* were praying earnestly to God
 \add that he would help\add* Peter. 
 \v 6 The night \add before\add* Herod planned to bring Peter out
@@ -79,8 +79,8 @@ finally\add* opened the door, they saw that it was Peter, and they were complete
 Then he questioned the soldiers \add who had been guarding Peter\add*, and asked them,
 "\add How did Peter get away when you were there guarding him?\add*"
 \add But they could not explain it. So\add* he commanded them to be led away
-\add to be executed\add* {\add other soldiers\add* to lead them away
-\add to execute them\add*}. \add Afterwards\add*, Herod went from Judea
+\add to be executed\add* \f + \ft Or:\add other soldiers\add* to lead them away
+\add to execute them\add* \f*. \add Afterwards\add*, Herod went from Judea
 \add province\add* down to Caesarea \add city\add*, where he stayed
 \add for some time\add*. 
 \s Acts 12:20-23 

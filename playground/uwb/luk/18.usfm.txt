@@ -43,10 +43,10 @@ unworthy\add*. He would not even look up toward heaven. Instead, he beat on his 
 \add to show that he was sorry for his sin\add*. He said, 'God, I am a sinner; be merciful to me
 \add and forgive me\add*!'" 
 \v 14  \add Then Jesus said\add*, "I tell you\add \f + \ft plural \f*\add* that as the tax collector went home, the record of his sins was
-erased {\add God\add* erased the record of his sins}, not that of the Pharisee.
+erased \f + \ft Or:\add God\add* erased the record of his sins \f*, not that of the Pharisee.
 \add Remember this\add*: Those who exalt themselves will be humbled
-{\add God\add* will humble all those who exalt themselves}, but those who humble themselves will be exalted
-{\add he\add* will exalt those who humble themselves}." 
+\f + \ft Or:\add God\add* will humble all those who exalt themselves \f*, but those who humble themselves will be exalted
+\f + \ft Or:\add he\add* will exalt those who humble themselves \f*." 
 \s Luke 18:15-17 
 \s Jesus taught about accepting God's rule in our lives as easily as little children do.
 \p
@@ -85,7 +85,7 @@ you\add \f + \ft singular \f*\add* have not \add done\add* yet. Sell all that yo
 \add lives\add*." 
 \v 26  \add The Jews thought that God favored rich people, so they thought that if God did not save rich people he would not
 save others, either\add*. So \add one of the disciples\add* who heard him say that replied, "If that is so, it seems that no
-one will be saved {\add that God\add* will not save anyone} \f + \ft rhetorical question \f*!"
+one will be saved \f + \ft Or:\add that God\add* will not save anyone \f* \f + \ft rhetorical question \f*!"
 \v 27 But he said, "It is impossible for people \add to save themselves\add*. But
 \add God can save them, because\add* God can do anything!" 
 \v 28 Then Peter said, "\add You know that we\f + \ft exclusive \f* have left\add* everything we had and have become your disciples \f + \ft rhetorical question \f*.
@@ -102,14 +102,14 @@ lives\add*,
 \p
 \v 31  \add Jesus\add* took the twelve \add disciples\add* to a place by themselves and said to them, "Listen carefully!
 We\add \f + \ft inclusive \f*\add* are \add now\add* going up to Jerusalem. \add While we are
-there\add*, everything that has been written by the prophets {that the prophets have written} about
-\add me\add*, the one who came from heaven, will be fulfilled {will occur}.
-\v 32 I will be put {\add My enemies\add* will put me} into the hands of non-Jews.
+there\add*, everything that has been written by the prophets \f + \ft Or:that the prophets have written \f* about
+\add me\add*, the one who came from heaven, will be fulfilled \f + \ft Or:will occur \f*.
+\v 32 I will be put \f + \ft Or:\add My enemies\add* will put me \f* into the hands of non-Jews.
 \add The non-Jews\add* will make fun of me and mistreat me and spit on me.
 \v 33 They will whip me, and \add then\add* they will kill me. But on the third day
 \add after that\add* I will become alive again." 
 \v 34 But \add the disciples\add* did not understand any of those things that
-\add he said\add*. They were prevented {\add Something\add* prevented them} from understanding the meaning of what
+\add he said\add*. They were prevented \f + \ft Or:\add Something\add* prevented them \f* from understanding the meaning of what
 \add he\add* was telling \add them\add*. 
 \s Luke 18:35-43 
 \s Jesus healed a blind man. 

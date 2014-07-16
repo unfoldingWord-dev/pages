@@ -2,7 +2,7 @@
 \p
 \v 1  \add Dear\add* Theophilus, 
 \p In my first book \add that I wrote for you\add*, I wrote about many of the things that Jesus did and taught
-\v 2 until the day on which he was taken {\add God\add* took him} up
+\v 2 until the day on which he was taken \f + \ft Or:\add God\add* took him \f* up
 \add to heaven\add*. Before \add he went to heaven\add*, saying what the Holy Spirit
 \add told him\add*, he told the apostles whom he had chosen \add the things that he wanted them to
 know\add*. 
@@ -37,7 +37,7 @@ you\add (sg \f*\add* now \add defeat the Romans and\add* restore the kingdom
 \add powerfully\add* tell people about me in Jerusalem and in all
 \add the other places in\add* Judea \add district\add*, in Samaria
 \add district\add*, and in places far away all over \f + \ft idiom \f* the world."
-\v 9 After he said that, he was taken {\add God\add* took him} up
+\v 9 After he said that, he was taken \f + \ft Or:\add God\add* took him \f* up
 \add to heaven\add*, while they were watching. \add He went up into\add* a cloud \f + \ft personification \f*, which prevented them from seeing him
 \add anymore\add*. 
 \s Acts 1:10-11 
@@ -71,10 +71,10 @@ Judas \add the son\add* of \add another man named\add* James.
 \v 15 During those days Peter stood up among his fellow believers. There were
 \add at that place\add* a group of about 120 of \add Jesus' followers\add*. He said,
 \v 16 "My fellow believers, \add there are words that King\add* David wrote \f + \ft metonymy \f* in the Scriptures long ago that needed to be
-fulfilled {to happen \add as he said they would\add*}. The Holy Spirit,
+fulfilled \f + \ft Or:to happen \add as he said they would\add* \f*. The Holy Spirit,
 \add who knew that Judas would be the one who would fulfill those
 words\add*, told David what to write. 
-\v 17  \add Although\add* Judas had been chosen {\add Jesus\add* had chosen Judas}, along with
+\v 17  \add Although\add* Judas had been chosen \f + \ft Or:\add Jesus\add* had chosen Judas \f*, along with
 \add the rest of\add* us\add \f + \ft exclusive \f*\add* to serve \add as an apostle\add*, Judas was the person who guided the people who seized
 Jesus." 
 \s Acts 1:18-19 
@@ -101,14 +101,14 @@ of\add* Psalms\add desired to happen\add*: 'May his house become deserted, and m
 \v 21 "So it is necessary \add for us apostles\add* to choose a man
 \add to replace Judas. He must be one who\add* accompanied \f + \ft metonymy \f* us all the time when the Lord Jesus was with us.
 \v 22  \add That would be\add* from \add the time when\add* John
-\add the Baptizer\add* baptized \add Jesus\add* until the day when Jesus was taken {when
-\add God\add* took Jesus} from us up \add to heaven\add*. He must be one who saw Jesus alive again
+\add the Baptizer\add* baptized \add Jesus\add* until the day when Jesus was taken \f + \ft Or:when
+\add God\add* took Jesus \f* from us up \add to heaven\add*. He must be one who saw Jesus alive again
 \add after he died\add*." 
 \s Acts 1:23-26 
 \s Jesus' followers prayed and then chose Matthias to replace Judas.
 \p
 \v 23 So the \add apostles and other believers\add* suggested \add the names of two men who qualified. One man
-was\add* Joseph, who was called {whom people called} Barsabbas \f + \ft Or: Joseph Barsabbas \f* who
+was\add* Joseph, who was called \f + \ft Or:whom people called \f* Barsabbas \f + \ft Or: Joseph Barsabbas \f* who
 \add also\add* had the \add Roman\add* name Justus. The other man was Matthias.
 \v 24-25 Then they prayed like this: "Lord \add Jesus\add*, Judas stopped being an apostle.
 \add He died and\add* went to the place where he \add deserved to
@@ -119,5 +119,5 @@ You\add \f + \ft singular \f*\add* know what everyone is really like. So \add pl
 \add one of\add* the \add apostles\add* shook \add in a container\add* small objects\f + \ft Or: stones \f*
 \add that\add* they \add had marked to determine which man God had
 chosen\add*. And the small object\f + \ft Or: stone \f* \add that they had marked\add* for Matthias fell
-\add out of the container\add* \f*. So Matthias was considered {they considered Matthias}
+\add out of the container\add* \f*. So Matthias was considered \f + \ft Or:they considered Matthias \f*
 \add to be an apostle\add* along with the \add other\add* eleven apostles.

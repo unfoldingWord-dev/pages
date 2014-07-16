@@ -33,7 +33,7 @@ eat\add*, do not say that it is not acceptable \add to eat\add*!'
 \s Acts 11:11-17 
 \s Peter said that the Holy Spirit came to be with the non-Jewish believers. Peter accepted those non-Jews as fellow believers.
 \p
-\v 11 "At that exact moment, three men who had been {whom \add Cornelius\add* had} sent from Caesarea arrived at the house
+\v 11 "At that exact moment, three men who had been \f + \ft Or:whom \add Cornelius\add* had \f* sent from Caesarea arrived at the house
 where I was staying. 
 \v 12  \add God's\add* Spirit told me that I should be willing to go with them
 \add even though they were not Jews\add*. These six \add Jewish\add* believers
@@ -41,8 +41,8 @@ where I was staying.
 we\add \f + \ft exclusive \f*\add* went into that \add non-Jewish\add* man's house.
 \v 13 He told us that he had seen an angel standing in his house. The angel told him, 'Tell some
 \add men\add* to go to Joppa and bring back Simon whose other name is Peter.
-\v 14 He will tell you\add \f + \ft singular \f*\add* how you and everyone \f + \ft metonymy \f* else in your house will be saved {how
-\add God\add* will save you and everyone \f + \ft metonymy \f* else in your house}.'
+\v 14 He will tell you\add \f + \ft singular \f*\add* how you and everyone \f + \ft metonymy \f* else in your house will be saved \f + \ft Or:how
+\add God\add* will save you and everyone \f + \ft metonymy \f* else in your house \f*.'
 \v 15 After I started to speak, the Holy Spirit \add suddenly\add* came down on them, just like he had first \f + \ft metonymy \f* come on us
 \add during the Pentecost festival\add*. 
 \v 16 Then I remembered what the Lord had said: 'John caused people to be baptized in water, but
@@ -97,7 +97,7 @@ try\add* to find Saul.
 \add to help teach the believers. So during\add* a whole year \add Barnabas and
 Saul\add* met \add regularly\add* with the congregation \add there\add* and taught many of them
 \add about Jesus. It was\add* at Antioch that the believers were first called Christians
-{\add that people\add* first called the believers Christians}. 
+\f + \ft Or:\add that people\add* first called the believers Christians \f*. 
 \s Acts 11:27-30 
 \s Believers in Antioch helped needy believers in Judea. 
 \p

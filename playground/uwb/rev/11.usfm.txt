@@ -9,7 +9,7 @@ awesome.
 \add to me\add*, "\add Christ says this: 'Go\add* to the temple \add where people
 worship\add* God, measure it and the altar \add in it\add*, and count the people who worship there.
 \v 2 But do not measure the courtyard outside \add of the temple\add* \f + \ft doublet \f*, because
-\add it\add* has been given {\add God\add* has given it} to \add the\add* non-Jewish
+\add it\add* has been given \f + \ft Or:\add God\add* has given it \f* to \add the\add* non-Jewish
 \add people. As a result\add*, they will trample \add Jerusalem city\add* for forty-two months.
 \v 3 I will appoint my two witnesses\f + \ft Or: men who will tell others about me \f*. They will proclaim what I reveal to them for one
 thousand two hundred and sixty days. They will wear \add rough\add* clothes made from goat's hair
@@ -70,6 +70,6 @@ him.
 \q It is time for you to reward all of them! 
 \q You have also decided it is the time for you to destroy the people who are destroying others on the earth.
 \p
-\v 19 Then God's temple in heaven was opened {was open} and \add I\add* saw in the temple the sacred box\f + \ft Or: chest \f* that contains
+\v 19 Then God's temple in heaven was opened \f + \ft Or:was open \f* and \add I\add* saw in the temple the sacred box, Or: chest that contains
 God's covenant. Lightning was flashing, it was thundering and rumbling, the earth shook, and large hail
 \add fell from the sky\add*. 

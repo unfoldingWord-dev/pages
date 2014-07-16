@@ -35,7 +35,7 @@ pad\add*, and went home!
 \add and become my disciple\add*!" So I got up and went with him.
 \v 10  \add Then I invited\add* Jesus and his disciples to my home for a meal. While
 \add they\add* were sitting and eating in my home, many tax collectors and
-\add other people who were\add* {whom \add the Pharisees\add*} \add considered to be
+\add other people who were\add* \f + \ft Or:whom \add the Pharisees\add* \f* \add considered to be
 habitual\add* sinners came unexpectedly to eat with us. 
 \v 11 When the Pharisees saw \add that, they came\add* to us disciples and said,
 "\add It is disgusting that\add* your teacher, \add who claims to be
@@ -66,8 +66,8 @@ mourn while he was still with them\add*. So he \add gave them this
 illustration\add*: "When the bridegroom is with \add his friends at the time of the
 wedding\add*, the groom's friends certainly do not mourn, do they?\f + \ft Or: do the groom's friends mourn? \f* \f + \ft rhetorical question \f*
 \add No, they do not mourn, because they are not sad at that time. But
-when\add* the bridegroom is taken {\add someone\add* takes the groom\add \f + \ft Or: his \f*
-enemies\add* take the groom} from them, they will abstain from food,
+when\add* the bridegroom is taken \f + \ft Or:\add someone\add* takes the groom\add , Or: his
+enemies\add* take the groom \f* from them, they will abstain from food,
 \add because then they will be sad\add*." 
 \p
 \v 16  \add Jesus wanted to show them that people who desire to live in accordance with his new message should not try to
@@ -78,7 +78,7 @@ garment\add*, the patch would \add shrink\add* and tear the garment, and the hol
 \v 17 Neither does anyone pour freshly-\add squeezed\add* grape juice into old skin bags
 \add to store it\add*. If anyone did that, those skin bags would tear
 \add because they would not stretch when the grape juice ferments and expands.
-They\add* would be ruined, and the wine would be spilled {spill}
+They\add* would be ruined, and the wine would be spilled \f + \ft Or:spill \f*
 \add on the ground\add*. Instead, \add people\add* put new wine into new skin bags,
 \add and the bags will stretch when the wine ferments\add*. As a result, both
 \add the wine and the bags\add* are preserved." 
@@ -126,7 +126,7 @@ now\add*!"
 \s Jesus expelled a demon, but the Pharisees accused him of doing such things by Satan's power.
 \p
 \v 32 When \add Jesus and we disciples\add* left \add his house\add*, some people brought to Jesus a man who was unable to
-speak because he was controlled by a demon {a demon controlled him}.
+speak because he was controlled by a demon \f + \ft Or:a demon controlled him \f*.
 \v 33 After Jesus had expelled the demon, the man who had been unable to speak began to speak! The crowd
 \add who saw this\add* marveled. They said, "Never before have \add we
 seen\add* anything as \add marvelous\add* as this happen in Israel!"
@@ -143,7 +143,7 @@ had\add* various diseases and illnesses.
 \v 36 When he saw the crowd of people, he pitied them because they were harassed and dejected.
 \add They were\add* like sheep that do not have a shepherd \f + \ft simile \f*.
 \v 37 Then he gave \add this illustration\add* to us disciples: "\add The people who are ready to receive my message are like
-a\add* field that is ready to be harvested {for people to harvest}. But there are only a few
+a\add* field that is ready to be harvested \f + \ft Or:for people to harvest \f*. But there are only a few
 \add of you who are teaching people my message\add*. 
 \v 38 So pray and ask the Lord \add God\add* to send \add more\add* workers
 \add who will gather people together and teach them my message, just like a landowner sends

@@ -7,9 +7,9 @@
 buildings\add were\add*. 
 \v 2 He said to us, "These buildings that you are looking at \f + \ft rhetorical question \f*
 \add are wonderful, but\add* I want to tell you \add something about them. They will be completely
-destroyed\add* {\add Foreign invaders will completely destroy them\add*}. Every stone
-\add in these buildings\add* will be thrown down {they will throw down every stone in these buildings}. Not one stone will be
-left {They will not leave one stone} on top of another stone." 
+destroyed\add* \f + \ft Or:\add Foreign invaders will completely destroy them\add* \f*. Every stone
+\add in these buildings\add* will be thrown down \f + \ft Or:they will throw down every stone in these buildings \f*. Not one stone will be
+left \f + \ft Or:They will not leave one stone \f* on top of another stone." 
 \s Matthew 24:3-14 
 \s Jesus told his disciples about the distressing things that would happen before his return.
 \p
@@ -35,8 +35,8 @@ as\add* birth pains \f + \ft metaphor \f*.
 \p
 \v 9 "At that time \add people who oppose you\add* will take you to
 \add the authorities, who\add* will mistreat you and kill you. You will be hated by
-\add people who live in\add* all nations \f + \ft personification \f* {\add People who live
-in\add* all nations \f + \ft personification \f* will hate you} because \add you believe in me
+\add people who live in\add* all nations \f + \ft personification \f* \f + \ft Or:\add People who live
+in\add* all nations \f + \ft personification \f* will hate you \f* because \add you believe in me
 \f + \ft metonymy \f*\add*. 
 \v 10 Also, many \add people\add* will stop believing \add in me because of the way they will
 suffer\add*. They will betray each other and will hate each other.
@@ -101,8 +101,8 @@ vultures gather together wherever there is an animal carcass, God will punish si
 \v 29 "Immediately after many people have suffered during those days,
 \add the universe will become dark\add*. The sun will become dark. The moon will not shine. The stars will fall from the sky.
 And the powerful \add objects\add* in the sky will be shaken. \f + \ft Or: And the spiritual beings in space will be deposed. \f*
-\v 30 After that, something \add will be seen\add* {\add people will observe
-something\add*} in the sky that indicates that \add I\add*, the one who came from heaven,
+\v 30 After that, something \add will be seen\add* \f + \ft Or:\add people will observe
+something\add* \f* in the sky that indicates that \add I\add*, the one who came from heaven,
 \add am returning to the earth\add*. Then \add unbelieving people
 from\add* all ethnic groups of the earth will \add mourn because they will be
 afraid\add* of \add God punishing them\add*. They will see \add me\add*, the one who came from heaven, coming on the clouds
@@ -139,8 +139,8 @@ know\add* when \add I, the one who came from heaven\add*, will return,
 \add and they will not\add* be \add expecting me\add*. 
 \v 40 When I \add return\add*, I \add will not take all people up to heaven. I will take only those who trust in me. For
 example\add*, two \add people\add* will be in the fields. One of them will be taken
-{\add I\add* will take one of them} up \add to heaven\add* and the other
-\add person\add* will be left {and I will leave the other \add person\add*}
+\f + \ft Or:\add I\add* will take one of them \f* up \add to heaven\add* and the other
+\add person\add* will be left \f + \ft Or:and I will leave the other \add person\add* \f*
 \add here to be punished\add*. 
 \v 41  \add Similarly\add*, two \add women\add* will be at the mill grinding grain. One of them will be taken up
 \add to heaven\add* and the other will be left. 

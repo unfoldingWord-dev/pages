@@ -10,15 +10,15 @@ you\add \f + \ft singular \f*\add* \f + \ft metonymy \f* to be honored\f + \ft O
 you\f + \ft singular \f*\add* \f + \ft metonymy, metaphor \f* rule over their lives. 
 \v 3 Give us\add \f + \ft exclusive \f*\add* each day the food \f + \ft synecdoche \f* that we need.
 \v 4 Forgive us \add for\add* the wrong things that we have done, because we forgive people for the wrong things that they do
-to us. Do not let us do wrong things when we are tempted {\add someone or
-something\add* tempts us}.'" 
+to us. Do not let us do wrong things when we are tempted \f + \ft Or:\add someone or
+something\add* tempts us \f*.'" 
 \p
 \v 5 Then he said to them, "Suppose that one of you goes to the house of a friend at midnight. Suppose that
 you\add \f + \ft singular \f* stand outside and\add* call out to him, 'My friend, please lend me three buns!
 \v 6 Another friend of mine who is traveling has just arrived \add at my
 house\add*, but I have no food \add ready\add* to give to him!' 
 \v 7 Suppose that he answers you from inside \add the house\add*, 'Do not bother me! The door has been locked
-{\add We\f + \ft exclusive \f*\add* have locked the door} and all my family are in bed.
+\f + \ft Or:\add We\f + \ft exclusive \f*\add* have locked the door \f* and all my family are in bed.
 \add So\add* I cannot get up and give you\add \f + \ft singular \f*\add* anything!'
 \v 8 I will tell you that even if he does not \add want to\add* get up and give you
 \add any food\add*, to avoid being ashamed \add for not helping you\add* because you are his friend \f + \ft Or: if without being
@@ -56,7 +56,7 @@ him\add* \f + \ft metonymy \f*, was unable to speak. After \add Jesus expelled\a
 ridiculous\add*. 
 \v 17 But he knew what they were thinking. So he said to them, "If
 \add the people in\add* one nation fight against each other, their nation will be destroyed
-{\add they\add* will destroy their nation}. If \add the people in\add* \f + \ft metonymy \f* one house are divided, they will cease to remain
+\f + \ft Or:\add they\add* will destroy their nation \f*. If \add the people in\add* \f + \ft metonymy \f* one house are divided, they will cease to remain
 as one \add family\add*. 
 \v 18  \add Similarly\add*, if Satan \add and his demons\add* were fighting against each other, his rule over them would
 \add certainly\add* not last!\f + \ft Or: how would his rule over them last? \f* \f + \ft rhetorical question \f*
@@ -84,7 +84,7 @@ my\add disciples\add* are causing \add those people\add* to go away
 areas seeking \add someone in whom it can\add* rest. If it does not find anyone, it says
 \add to itself\add*, 'I will return to the person in whom I used to live!'
 \v 25 So it goes back and finds that \add the Spirit of God is not in control of that person's life. The person's life is
-like\add* a house that has been {that someone has} swept clean and everything put {put everything} in order,
+like\add* a house that has been \f + \ft Or:that someone has \f* swept clean and everything put \f + \ft Or:put everything \f* in order,
 \add but a house that is empty\add*. 
 \v 26 Then \add this evil spirit\add* goes and gets seven other spirits that are
 \add even\add* more evil than it is. They \add all\add* enter \add that

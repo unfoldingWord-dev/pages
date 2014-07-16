@@ -31,7 +31,7 @@ evil\f + \ft Or: danger \f*\add*.
 love\add*, 
 \q2 many people will honor you. 
 \q
-\v 9 If you become wise, that will for you be like a beautiful wreath that is put {someone puts} on your head;
+\v 9 If you become wise, that will for you be like a beautiful wreath that is put \f + \ft Or:someone puts \f* on your head;
 \q2 it will be like a king's glorious crown." 
 \q3 \add That is what my father told me\add*. 
 \b

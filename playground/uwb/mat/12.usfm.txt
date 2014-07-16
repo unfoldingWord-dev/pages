@@ -13,12 +13,12 @@ hungry\add*.
 \add in our\add* laws \f + \ft personification \f* \add for us\add* to do on our day of rest!"
 \v 3  \add Jesus wanted to show them that the record in the Scriptures indicated that God permitted people to disobey certain
 religious laws when they needed food\add*. \add So\add* he said to them,
-"\add It is written\add* {\add Someone wrote\add*} \add in the Scriptures\add* \f + \ft rhetorical question \f* what
+"\add It is written\add* \f + \ft Or:\add Someone wrote\add* \f* \add in the Scriptures\add* \f + \ft rhetorical question \f* what
 \add our revered ancestor King\add* David did when he and the men with him were hungry. You have read about that,
 \add but you do not think about what it implies!\f + \ft Or: so why do you not think about what it
 implies\add*? \f* \f + \ft rhetorical question \f* 
 \v 4 David entered the big tent \add where they worshipped\add* God
-\add and asked for some food. The high priest gave him\add* the bread that had been {they had} presented
+\add and asked for some food. The high priest gave him\add* the bread that had been \f + \ft Or:they had \f* presented
 \add to God\add*. According to the laws \add of Moses\add*, only priests were permitted to eat that bread, but David and the
 men who were with him ate it. And\add God did not consider that what they did was
 wrong\add*! 
@@ -66,7 +66,7 @@ him\add*, he \add took us disciples and\add* went away from there. Crowds,
 them\add*, and he healed them all. 
 \v 16 But he told them firmly that they should not tell \add other people
 yet\add* who he was. 
-\v 17  \add By acting humbly like that\add* he fulfilled what was written by Isaiah the prophet {what Isaiah the prophet wrote}
+\v 17  \add By acting humbly like that\add* he fulfilled what was written by Isaiah the prophet \f + \ft Or:what Isaiah the prophet wrote \f*
 \add long ago about the Messiah\add*. \add Isaiah wrote\add* that God said:
 \q
 \v 18 Take note of my servant whom I have chosen, the one whom I love and with whom I am pleased. I will put my Spirit in him,
@@ -84,7 +84,7 @@ them\add*.
 unforgivable sin against the Holy Spirit. 
 \p
 \v 22 One day when Jesus was at home, \add some men\add* brought to
-\add Jesus\add* a man \add who, because of being\add* controlled by a demon {a demon controlled him}, was blind and unable to
+\add Jesus\add* a man \add who, because of being\add* controlled by a demon \f + \ft Or:a demon controlled him \f*, was blind and unable to
 speak. \add Jesus\add* healed him \add by expelling the demon\add*. As a result, the
 man\add began to\add* talk and \add was able to\add* see. 
 \v 23 All the crowd \add who saw it\add* marveled. They began asking
@@ -97,7 +97,7 @@ enables\add this man\add* to expel demons \add from people!\add*"
 \v 25 But Jesus knew what\add the Pharisees\add* were thinking \add and
 saying\add*. So, \add in order to show them that what they said did not make
 sense\add*, he said to them, "If \add the people in\add* \f + \ft metonymy \f* one nation fight against each other,
-\add they\add* will destroy their nation {their nation will be destroyed}. If
+\add they\add* will destroy their nation \f + \ft Or:their nation will be destroyed \f*. If
 \add people who live in\add* the same city or house fight each other, they will certainly not remain
 \add as one group or family\add*. 
 \v 26  \add Similarly\add*, if Satan were expelling his own \add demons\add* \f + \ft metonymy \f*,
@@ -125,12 +125,12 @@ people\add* to \f + \ft doublet \f* go away \add from me\add*.
 \v 31 You \add are saying that it is not the Holy Spirit who is enabling me to expel
 demons\add*. So I will say this to you: \add If\add* those who offend and slander other people in any way
 are\add then sorry and ask God to forgive them, God\add* will forgive them. But people who discredit what the Holy Spirit does
-will not be forgiven {\add God\add* will not forgive \add people\add* who discredit what the Holy Spirit does}.
+will not be forgiven \f + \ft Or:\add God\add* will not forgive \add people\add* who discredit what the Holy Spirit does \f*.
 \v 32  \add God is willing to\add* forgive people who criticize \add me\add*, the One who came from heaven. But I
 \add warn you that\add* those who say evil things about what the Holy Spirit
-\add does\add* will not be forgiven {\add God\add* will not forgive people who speak evil words about what the Holy Spirit
-\add does\add*}. They will not be forgiven {\add He\add* will not forgive them} now, and they will never be forgiven
-{\add he\add* will never forgive them}." 
+\add does\add* will not be forgiven \f + \ft Or:\add God\add* will not forgive people who speak evil words about what the Holy Spirit
+\add does\add* \f*. They will not be forgiven \f + \ft Or:\add He\add* will not forgive them \f* now, and they will never be forgiven
+\f + \ft Or:\add he\add* will never forgive them \f*." 
 \s Matthew 12:33-37 
 \s Jesus said that we can judge what people are like by seeing what they do.
 \p

@@ -14,14 +14,14 @@ sins\add*.
 \s In spite of much suffering, we have lived as servants of God should live.
 \p
 \v 3 Neither I nor the men \add working\add* with me do anything that would hinder people from trusting in Christ, and so we
-cannot be accused {no one can accuse \add us\add*} \add of not\add* serving
+cannot be accused \f + \ft Or:no one can accuse \add us\add* \f* \add of not\add* serving
 \add God properly\add*. 
 \v 4 Instead, in everything \add that we\f + \ft exclusive \f* say and do\add*, we show
 \add people\add* that we serve God faithfully. We patiently endure
 \add all the things that happen to us. People cause us\add* many troubles and, as a result, we are anxious
 \add and often do not know what to do\add*. 
-\v 5 Sometimes we have been beaten \add and bound\add* {People have beaten
-\add us and tied us\add*} \add with\add* chains in prison. \add Angry
+\v 5 Sometimes we have been beaten \add and bound\add* \f + \ft Or:People have beaten
+\add us and tied us\add* \f* \add with\add* chains in prison. \add Angry
 mobs\add* have attacked us, \add wanting to kill us\add*. We have continued working
 \add for God until we had no more strength to work\add*. We have had many sleepless nights, and we have
 \add often been without food\add*. 
@@ -42,7 +42,7 @@ say\add* good things \add about us. We keep teaching\add* the truth,
 \v 9  \add Some people\add* know \add well that we are true servants of God, and yet
 others\add*, who know us, refuse to \add believe that. People have often tried
 to\add* kill us\add \f + \ft inclusive \f*\add*, yet we are still alive. We have \add often\add* been beaten, but we have not been killed
-{\add People have often\add* beaten us\add \f + \ft exclusive \f*\add*, but \add they\add* have not killed us}.
+\f + \ft Or:\add People have often\add* beaten us\add \f + \ft exclusive \f*\add*, but \add they\add* have not killed us \f*.
 \v 10 Although we\add \f + \ft exclusive \f*\add* are often very sad \add because people have rejected our
 message\add*, we are always happy \add because of all that God has done for
 us\add*. Even though we\add \f + \ft exclusive \f*\add* are poor, we make \add it possible

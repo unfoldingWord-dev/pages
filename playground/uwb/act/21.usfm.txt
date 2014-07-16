@@ -52,8 +52,8 @@ Spirit says, 'The Jewish \add leaders\add* \f + \ft synecdoche \f* in Jerusalem 
 not go up to Jerusalem!" 
 \v 13 But Paul replied, "Please stop crying and trying to discourage me \f + \ft idiom \f*
 \add from going!\add*\f + \ft Or: Why are you crying and trying to discourage me ( idiom )
-\add from going\add*? \f* \f + \ft rhetorical question \f* I am willing to be put {\add for people\add* to put me} in prison and also to be killed
-{\add for them\add* to kill me} in Jerusalem because I \add serve\add* \f + \ft metonymy \f* the Lord Jesus."
+\add from going\add*? \f* \f + \ft rhetorical question \f* I am willing to be put \f + \ft Or:\add for people\add* to put me \f* in prison and also to be killed
+\f + \ft Or:\add for them\add* to kill me \f* in Jerusalem because I \add serve\add* \f + \ft metonymy \f* the Lord Jesus."
 \v 14 When \add we\f + \ft exclusive \f* realized that\add* he was determined \add to go to
 Jerusalem\add*, we did not try \add any longer\add* to persuade him
 \add not to go\add*. We said, "May the Lord \add God\add* do what he wants\f + \ft Or: the Lord's will be done \f*!"
@@ -79,8 +79,8 @@ Jerusalem\add*, we did not try \add any longer\add* to persuade him
 us\add \f + \ft inclusive \f*\add* Jewish people \add here\add* who have believed
 \add in the Lord Jesus\add*. Also, you know that we\add \f + \ft inclusive \f*\add* all continue very carefully to obey the laws
 \add that Moses gave us\add*. 
-\v 21  \add But our fellow Jewish believers\add* have been told {have heard
-\add people say\add*} that when you are among non-Jews, you tell the Jewish believers who live there that they should stop
+\v 21  \add But our fellow Jewish believers\add* have been told \f + \ft Or:have heard
+\add people say\add* \f* that when you are among non-Jews, you tell the Jewish believers who live there that they should stop
 obeying \add the laws\add* \f + \ft metonymy \f* \add of\add* Moses\f + \ft Or: \add that\add*
 Moses\add received from God\add* \f*. \add People say that\add* you tell
 \add those Jewish believers\add* not to circumcise their sons and not to practice our
@@ -94,8 +94,8 @@ true\add*.
 \v 24 Go with these men \add to the Temple\add* and \add ritually\add* purify yourself along with them. Then,
 \add when it is time for them to offer the sacrifices for that ritual\add*, pay for what they offer
 \add as sacrifices\add*. After that, they can shave their heads \add to show that they have done what they promised to do. And
-when people see you in the courts of the Temple with those men\add*, they will know that what they have been told {what people
-have told them} about you is not true. Instead, all of them will know that you obey all our Jewish laws
+when people see you in the courts of the Temple with those men\add*, they will know that what they have been told \f + \ft Or:what people
+have told them \f* about you is not true. Instead, all of them will know that you obey all our Jewish laws
 \add and rituals\add*. 
 \v 25 As for the non-Jewish believers, \add we elders here in Jerusalem have
 talked\add* about \add which of our laws\add* they \add should obey,
@@ -127,7 +127,7 @@ help \add us to punish this\add* man! This is the one who is \add constantly\add
 \v 30  \add People\add* throughout \f + \ft metonymy \f* the city heard that there was trouble
 \add at the Temple courtyard\add*, and they came running there. They grabbed Paul and dragged him outside of the Temple
 \add area\add*. The gates \add to the Temple courtyard were shut\add*
-{\add The Temple guards\add* shut the doors \add to the Temple courts\add*} immediately,
+\f + \ft Or:\add The Temple guards\add* shut the doors \add to the Temple courts\add* \f* immediately,
 \add so that the people would not riot inside the Temple area\add*.
 \s Acts 21:31-32 
 \s Roman soldiers ran to where those Jews were trying to kill Paul.
@@ -148,14 +148,14 @@ of\add* soldiers and ran to \add the Temple area where\add* the crowd was. When 
 \v 34 Some of the many people there were shouting one thing, \add and\add* some were shouting something else. Because they
 continued shouting so loudly, the commander could not understand
 \add what they were shouting. So\add* he \add commanded\add* that Paul be taken
-{\add the soldiers\add* to take Paul} into the barracks \add so that he could question him
+\f + \ft Or:\add the soldiers\add* to take Paul \f* into the barracks \add so that he could question him
 there\add*. 
 \v 35  \add The soldiers\add* led Paul to the steps \add of the barracks\add*, but many people continued to follow them, trying
 to kill \add Paul. So the commander told\add* the soldiers to carry Paul
 \add up the steps into the barracks\add*. 
 \v 36 The crowd that followed kept shouting, "Kill him! Kill him!"
 \p
-\v 37 As Paul was about to be taken {\add the soldiers\add* were about to take Paul} into the barracks, he said
+\v 37 As Paul was about to be taken \f + \ft Or:\add the soldiers\add* were about to take Paul \f* into the barracks, he said
 \add in Greek\add* to the commander, "May I speak to you?" The commander said, "I am surprised that you can speak the Greek
 \add language\add*!\f + \ft Or: Can you\add \f + \ft singular \f*\add* speak the Greek \add language\add*? \f*" \f + \ft rhetorical question \f*
 \v 38 "I \add thought\add* that you\add \f + \ft singular \f*\add* were that fellow\f + \ft Or: Are you not that fellow \f* from Egypt \f + \ft rhetorical question \f* who wanted to

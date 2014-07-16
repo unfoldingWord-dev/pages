@@ -73,9 +73,9 @@ time\add* \add Jacob's family consisted of\add* seventy-five people\f + \ft Or: 
 \p "\add Later on\add*, Jacob died \add there\add*, and our \add other\add* ancestors,
 \add his sons, also died there\add*. 
 \v 16  \add But\add* the bodies \add of Jacob and Joseph\add* were brought
-{\add they\add* brought the bodies \add of Jacob and Joseph\add*}
-\add back to our land\add*, and \add Jacob's body\add* was buried {they buried
-\add Jacob's body\add*} \add in the tomb that Abraham had bought, and they buried Joseph's
+\f + \ft Or:\add they\add* brought the bodies \add of Jacob and Joseph\add* \f*
+\add back to our land\add*, and \add Jacob's body\add* was buried \f + \ft Or:they buried
+\add Jacob's body\add* \f* \add in the tomb that Abraham had bought, and they buried Joseph's
 body\add* in Shechem in the ground that \add Jacob\add* had bought from Hamor's sons."
 \s Acts 7:17-19 
 \s An Egyptian king who did not know about Joseph began to oppress the Israelites.
@@ -95,7 +95,7 @@ body\add* in Shechem in the ground that \add Jacob\add* had bought from Hamor's 
 \v 21 Then they had to put him outside \add the house, but\add* Pharaoh's daughter
 \add found him and\add* adopted him and cared for him as \add though he
 were\add* her own son. 
-\v 22 Moses was taught {\add The Egyptian teachers\add* taught Moses} many kinds of wise things \f + \ft hyperbole \f* that the people in Egypt
+\v 22 Moses was taught \f + \ft Or:\add The Egyptian teachers\add* taught Moses \f* many kinds of wise things \f + \ft hyperbole \f* that the people in Egypt
 knew, and \add when he grew up\add*, he spoke powerfully and did things powerfully."
 \s Acts 7:23-29 
 \s Moses killed an Egyptian, so he had to flee to Midian. 
@@ -104,7 +104,7 @@ knew, and \add when he grew up\add*, he spoke powerfully and did things powerful
 \add go and\add* see his fellow Israelites. \add So he went to the place where they
 worked\add*. 
 \v 24 He saw an Egyptian beating one of the Israelites. So he went over to help \f + \ft metonymy \f* the Israelite man who was being hurt\f + \ft Or: beat \f*
-{whom \add the Egyptian\add* was hurting\f + \ft Or: beating \f*}, and he got revenge on\f + \ft Or: paid back \f* the Israelite man by killing the Egyptian
+\f + \ft Or:whom \add the Egyptian\add* was hurting, Or: beating \f*, and he got revenge on\f + \ft Or: paid back \f* the Israelite man by killing the Egyptian
 \add who was hurting\f + \ft Or: beating \f* him\add*. 
 \v 25 Moses was thinking that his fellow Israelites would understand that God had sent him to free them
 \add from being slaves\add*. But they did not understand that. 
@@ -178,9 +178,9 @@ place\add* the tent \add that contained the idol\add* representing
 \add the god\add* Molech \add that you worshipped\add*. You also
 \add carried with you\add* the image of the star \add called\add* Rephan.
 \add Those\add* were idols that you had made, \add and you\add* worshipped\add them instead of
-me\add*. So I will \add cause you to\add* be taken away {\add people
-to\add* take you} \add from your own country. You will be taken\add*
-{\add They will take you\add*} \add far from your homes to regions\add* even farther than Babylon
+me\add*. So I will \add cause you to\add* be taken away \f + \ft Or:\add people
+to\add* take you \f* \add from your own country. You will be taken\add*
+\f + \ft Or:\add They will take you\add* \f* \add far from your homes to regions\add* even farther than Babylon
 \add country\add*." 
 \s Acts 7:44-47 
 \s The Israelite people worshipped God at the tent Moses built and later in the temple that Solomon built.

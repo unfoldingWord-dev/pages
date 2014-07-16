@@ -7,7 +7,7 @@
 send\add*. \add This is one of those parables:\add* 
 \v 2 "\add God\add* [MTY\f + \ft Or: EUP \f*] \add is like\add* a king \f + \ft simile \f* who
 \add told his servants that they should\add* make a wedding feast for his son.
-\v 3  \add When\add* the feast\add was ready\add*, the king sent his servants to tell the people who had been {whom he had}
+\v 3  \add When\add* the feast\add was ready\add*, the king sent his servants to tell the people who had been \f + \ft Or:whom he had \f*
 invited that it was time for them to come to the wedding feast. \add The servants did
 that\add*. But the people who had been invited did not want to come.
 \v 4 So he sent other servants \add to\add* again\add tell the people whom he had invited that they should come to the
@@ -21,7 +21,7 @@ the fattened calves have been butchered \add and cooked\add*. Everything is read
 \v 7  \add When the king heard what had happened\add*, he became furious. He commanded his soldiers to go and kill those
 murderers and burn their cities. 
 \v 8  \add After his soldiers had done that\add*, the king said to his other servants, 'I have prepared the
-\add wedding\add* feast, but the people who were {whom I} invited do not deserve to
+\add wedding\add* feast, but the people who were \f + \ft Or:whom I \f* invited do not deserve to
 \add come to it because they did not consider it an honor to have been
 invited\add*. 
 \v 9 So, go to the intersections of the main streets. Tell whomever you find that they should come to the

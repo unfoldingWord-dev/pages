@@ -11,9 +11,9 @@ disobeyed \f + \ft doublet \f* them.
 \add message about how God\add* \f + \ft metonymy \f* saves us!\f + \ft Or: how can we escape
 \add God punishing us\add* if we ignore such a great \add message about how
 God\add* \f + \ft metonymy \f* saves us? \f* \f + \ft rhetorical question \f* This \add new message\add* was first spoken by the Lord
-\add Jesus\add* {The Lord \add Jesus\add* first spoke this \add message\add*}. Then it was confirmed to us by those who heard
-\add what the Lord told them\add* {those who heard \add what the Lord told
-them\add* confirmed it to us}. 
+\add Jesus\add* \f + \ft Or:The Lord \add Jesus\add* first spoke this \add message\add* \f*. Then it was confirmed to us by those who heard
+\add what the Lord told them\add* \f + \ft Or:those who heard \add what the Lord told
+them\add* confirmed it to us \f*. 
 \v 4 God also confirmed to us \add that this message was true\add* by
 \add enabling believers to do\add* many things that showed God's power, to do other miraculous things \f + \ft doublet \f*, and
 \add to do other things\add* by the gifts that the Holy Spirit distributed to them according to what
@@ -54,7 +54,7 @@ who\add* created all things, and \add he is the one\add* for whom all
 things\add exist\add*. \add He perfected Jesus\add* by causing him to suffer
 \add and die\add*. \add Jesus\add* is the one who enables \add God\add* to save people.
 \v 11  \add Jesus\add*, the one who makes people holy\f + \ft Or: sets people apart for God \f*, and the ones who are made holy\f + \ft Or: set apart
-for God \f* {whom he makes holy\f + \ft Or: sets apart \add for God\add* \f*}, all belong to God's family.
+for God \f* \f + \ft Or:whom he makes holy\f + \ft Or: sets apart \add for God\add* \f* \f*, all belong to God's family.
 \add As a result, Christ\add* gladly \f + \ft litotes \f* proclaims them to be \add like\add* his own
 brothers\add and sisters\add*. 
 \v 12  \add The Psalmist wrote what Christ said to God about us becoming\add* his brothers, in these words,

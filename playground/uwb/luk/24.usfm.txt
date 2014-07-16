@@ -35,7 +35,7 @@ kilometers \f* from Jerusalem.
 \v 14 They were talking with each other about all the things that had happened
 \add to Jesus\add*. 
 \v 15 While they were talking and discussing those things, Jesus himself approached them and started walking with them.
-\v 16 But they were prevented {\add something\add* prevented them} from recognizing \f + \ft metonymy \f* him.
+\v 16 But they were prevented \f + \ft Or:\add something\add* prevented them \f* from recognizing \f + \ft metonymy \f* him.
 \v 17  \add Jesus\add* said to them, "What have you two been talking about while you were walking?" They stopped, and their
 faces looked very sad. 
 \v 18 One of them, whose name was Cleopas, said, "You\add \f + \ft singular \f*\add* must be the only person who is visiting Jerusalem
@@ -112,7 +112,7 @@ in\add* the Scriptures.
 \v 46 He said to them, "This is what they wrote: That the Messiah would suffer
 \add and die\add*, but on the third day after that he would become alive again.
 \v 47  \add They\add* also \add wrote that the message\add* must be preached
-{\add that his followers\add* must preach \add the message\add*}
+\f + \ft Or:\add that his followers\add* must preach \add the message\add* \f*
 \add everywhere that people\add* must turn from their sinful ways for
 \add God\add* to forgive their sins. \add They wrote that his followers should preach that message,
 claiming\add* his authority \f + \ft metonymy \f*. They wrote that they should start

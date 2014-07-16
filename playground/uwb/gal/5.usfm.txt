@@ -10,8 +10,8 @@ to\add* \f* \add obey all the Jewish rituals\add* that Christ freed us
 and\add* do not \add live like\add* slaves again \f + \ft metaphor \f* \add by letting others force you to obey those rules and rituals
 again\add*. 
 \v 2 Consider very carefully what I, Paul, \add an apostle\add*, now tell you: If you are permitting yourself to be circumcised
-{someone to circumcise you}, what Christ \add has done for you\add* will not benefit you at all.
-\v 3 Instead, I solemnly declare again to every man who is circumcised {has someone circumcise him}
+\f + \ft Or:someone to circumcise you \f*, what Christ \add has done for you\add* will not benefit you at all.
+\v 3 Instead, I solemnly declare again to every man who is circumcised \f + \ft Or:has someone circumcise him \f*
 \add in order for God to accept him\add*, that you must \add perfectly\add* obey all of the laws
 \add that God gave Moses, in order for God to save you\add*. 
 \v 4 Those of you who are sure that God will erase the record of your sins because you obey the laws
@@ -72,7 +72,7 @@ say\add* \f + \ft metaphor \f*, I warn you that \add if you continue doing that\
 These two are always fighting with\f + \ft Or: opposing \f* each other. The result is that you do not
 \add constantly\add* do the \add good\add* deeds that you truly desire
 \add to do\add*. 
-\v 18 But when you are led by God's Spirit {when God's Spirit directs you}, you
+\v 18 But when you are led by God's Spirit \f + \ft Or:when God's Spirit directs you \f*, you
 \add can do what pleases God\add*, now that you are no longer obligated
 \add to obey all\add* the laws \add that God gave Moses\add*. 
 \s Galatians 5:19-24 

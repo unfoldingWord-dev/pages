@@ -4,8 +4,8 @@
 \p
 \v 1 As Jesus left the Jordan \add River valley, the Holy Spirit
 was\add* completely controlling him. 
-\v 2 For forty days the Spirit led him around in the desolate area. During that time Jesus was being tempted by the devil {the
-devil was tempting him}, and Jesus did not eat anything. When that time ended, he was
+\v 2 For forty days the Spirit led him around in the desolate area. During that time Jesus was being tempted by the devil \f + \ft Or:the
+devil was tempting him \f*, and Jesus did not eat anything. When that time ended, he was
 \add very\add* hungry. 
 \v 3 Then the devil said to Jesus, "Because you \add claim that you\add*
 \add have a relationship with\add* God as a son \add has with his
@@ -13,7 +13,7 @@ father\add* \f + \ft metaphor \f*\f + \ft Or: are the man who is both God and ma
 by\add* telling these stones to become bread \add so that you can eat
 them!\add*" 
 \v 4 Jesus replied, "\add No, I will not change stones into bread, because it is
-written\add* {\add Moses\add* wrote} \add in the Scriptures\add* that
+written\add* \f + \ft Or:\add Moses\add* wrote \f* \add in the Scriptures\add* that
 \add eating\add* food sustains people physically, but it does not
 \add sustain them spiritually. They also need food for their spirits\add*."
 \v 5 Then the devil took him on top of \add a high mountain\add* and showed him in an instant all the nations in the world.
@@ -23,20 +23,20 @@ this\add* because \add God\add* has permitted me \add to control these
 areas\add*, and I can allow anyone I desire to rule them! 
 \v 7 So if you worship me, I will \add let\add* you \add rule\add* them all!"
 \v 8 But Jesus replied, "\add No, I\add* will not \add worship you,
-because\add* it is written {\add the Psalmist\add* wrote} \add in the
+because\add* it is written \f + \ft Or:\add the Psalmist\add* wrote \f* \add in the
 Scriptures\add*, 'It is the Lord, your God, whom you must worship, and you must serve only him!'"
 \p
 \v 9 Then the devil took \add Jesus\add* to Jerusalem. He set him on the highest part of the Temple and said to him, "Because
 you \add claim that you\add* \add have a relationship with God as a son has with his
 father\add* \f + \ft metaphor \f*\f + \ft Or: are the man who is both God and man \f*, \add prove it
 by\add* jumping down from here. 
-\v 10  \add You will not be hurt\add*, because it is written {the
-\add Psalmist\add* wrote} \add in the Scriptures\add*, 'God will command his angels to protect
+\v 10  \add You will not be hurt\add*, because it is written \f + \ft Or:the
+\add Psalmist\add* wrote \f* \add in the Scriptures\add*, 'God will command his angels to protect
 you\add \f + \ft singular \f*\add*. 
 \v 11 They will lift you up in their hands \add when you are falling\add*, so that
 \add you will not get hurt\add*. You will not \add even\add* strike your foot on a stone.'"
 \v 12 But Jesus replied, "\add No, I\add* will not \add do that,
-because\add* it is written {\add Moses\add* wrote} \add in the Scriptures\add*: 'Do not try to test the Lord your God
+because\add* it is written \f + \ft Or:\add Moses\add* wrote \f* \add in the Scriptures\add*: 'Do not try to test the Lord your God
 \add to see if he will prevent something bad from happening to you when you do something
 foolish\add*'." 
 \p
@@ -49,7 +49,7 @@ him later at an appropriate time.
 People\add* throughout all that region heard about what he \add was
 doing\add*. 
 \v 15 He taught \add people\add* in their synagogues\f + \ft Or: meeting places \f*.
-\add As a result\add*, he was praised by everyone {everyone praised him}.
+\add As a result\add*, he was praised by everyone \f + \ft Or:everyone praised him \f*.
 \s Luke 4:16-30 
 \s The people of Jesus' hometown tried to kill him after he rebuked them for rejecting him.
 \p
@@ -57,8 +57,8 @@ doing\add*.
 went to the synagogue\f + \ft Or: to the Jewish meeting place \f*, as he usually did. He stood up
 \add to indicate that he wanted\add* to read \add Scriptures\add* to them.
 \v 17 A scroll containing \add the words\add* that the prophet Isaiah
-\add had written\add* was given to him {\add Someone\add* gave to him a scroll containing
-\add the words\add* that the prophet Isaiah \add had written\add*}. He opened the scroll and found the place from which he
+\add had written\add* was given to him \f + \ft Or:\add Someone\add* gave to him a scroll containing
+\add the words\add* that the prophet Isaiah \add had written\add* \f*. He opened the scroll and found the place from which he
 \add wanted to\add* read. \add He read these words\add*: 
 \q
 \v 18 The Spirit of the Lord\f + \ft Or: of God \f* is upon me. 
@@ -66,8 +66,8 @@ went to the synagogue\f + \ft Or: to the Jewish meeting place \f*, as he usually
 \q He has sent me \add here\add* to proclaim that God will deliver those whom
 \add Satan\add* has captured, and 
 \q he will \add enable me to\add* enable those who are blind to see.
-\q He will enable me to free people who have been oppressed {whom
-\add others\add* have oppressed}. 
+\q He will enable me to free people who have been oppressed \f + \ft Or:whom
+\add others\add* have oppressed \f*. 
 \q
 \v 19 And he sent me to declare that now is the time when the Lord\f + \ft Or: God \f* will
 \add act\add* favorably \add toward people\add*. 
@@ -148,6 +148,6 @@ the Son of God\f + \ft Or: the one who is God and man \f*!" But he rebuked those
 \v 42  \add Early\add* the next morning \add Jesus\add* left that house and went to an uninhabited place
 \add to pray\add*. Many people searched for him, and when they found him they kept urging him not to leave them.
 \v 43 But he said to them, "I must tell \add people\add* in other towns also the good message about how God wants to rule \f + \ft metaphor \f*
-their lives, because that is what I was sent {\add God\add* sent me} to do."
+their lives, because that is what I was sent \f + \ft Or:\add God\add* sent me \f* to do."
 \v 44 So he kept preaching in the synagogues\f + \ft Or: Jewish worship places \f*
 \add in various towns\add* in Judea \add province\add*. 

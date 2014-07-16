@@ -77,7 +77,7 @@ making\add* wine.
 \v 21 My son, always keep doing things that are right and things that are smart.
 \q2 If you do that, 
 \q
-\v 22 you will live many years and be honored and respected {people will honor and respect you}.
+\v 22 you will live many years and be honored and respected \f + \ft Or:people will honor and respect you \f*.
 \q
 \v 23 If you do what is right and smart, you will be able to walk safely,
 \q2 and you will not stumble\f + \ft Or: do things that are wrong \f* \f + \ft metaphor \f*. 
@@ -121,5 +121,5 @@ you\add*.
 \v 34 Yahweh makes fun of those who make fun of others, 
 \q2 but he kindly helps those who are humble. 
 \q
-\v 35 Wise people will be honored {people will honor wise people},
+\v 35 Wise people will be honored \f + \ft Or:people will honor wise people \f*,
 \q2 but foolish people will be dishonored\f + \ft Or: disgraced \f*. 

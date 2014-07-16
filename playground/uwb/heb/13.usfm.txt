@@ -6,7 +6,7 @@
 \v 2 Do not forget to be hospitable to needy travelers \f + \ft litotes \f*. You need to know that by being hospitable, some people have
 entertained angels without knowing it. 
 \v 3 Remember \add to help\add* those who are in prison \add because they are
-Christians\add*, as though you were in prison with them. Remember those who are being mistreated {whom people are mistreating}
+Christians\add*, as though you were in prison with them. Remember those who are being mistreated \f + \ft Or:whom people are mistreating \f*
 \add because they are believers. As you do that\add*, consider that you are also alive \f + \ft metonymy \f*,
 \add and you could suffer as they do\add*. 
 \s Hebrews 13:4-6 
@@ -32,7 +32,7 @@ diverted to strange teachings.
 died\add*. Remember how they conducted their lives. By considering how they died\f + \ft Or: what resulted from how they lived \f*, imitate
 how they believed \add in Christ\f + \ft Or: God \f*\add*. 
 \v 8 Jesus Christ \add is\add* the same now as he was previously, and he will be the same forever.
-\v 9  \add So\add*, do not let yourselves be diverted {let anything divert you} so that you believe various teachings
+\v 9  \add So\add*, do not let yourselves be diverted \f + \ft Or:let anything divert you \f* so that you believe various teachings
 \add that are contrary to God's truth\add*. It is good that God acts kindly toward us so that we may be strengthened
 spiritually. \add Obeying rules about\add* various foods, rules that have not benefited those who obeyed them, will not benefit
 us. 
@@ -43,8 +43,8 @@ Jerusalem where we must offer sacrifices, but instead we wait for a future everl
 \v 10 We have \add Jesus\add* \f + \ft metonymy \f*. All those who continue to observe the Jewish rituals \f + \ft metonymy \f* of sacrifice have no right to
 obtain the benefits of his sacrifice \f + \ft metaphor \f*. 
 \v 11 After the high priest brings into the most holy place the blood of animals
-\add that they have sacrificed to atone\add* for sins, the bodies of those animals are burned {they burn the bodies of those
-animals} outside the camp. 
+\add that they have sacrificed to atone\add* for sins, the bodies of those animals are burned \f + \ft Or:they burn the bodies of those
+animals \f* outside the camp. 
 \v 12 Similarly, Jesus suffered \add and died\add* outside the gate
 \add of Jerusalem\add* in order that he might make \add us\add*, his people, holy by
 \add offering\add* his own blood \add as a sacrifice to atone for our
@@ -101,7 +101,7 @@ result of Jesus Christ \add doing this for us\add*. May Jesus Christ be praised 
 \s Since Timothy has been released from prison, he will accompany me when I go to see you.
 \p
 \v 23 I want you to know that our fellow believer Timothy has been released
-{\add the authorities\add* have released our fellow believer Timothy}
+\f + \ft Or:\add the authorities\add* have released our fellow believer Timothy \f*
 \add from prison\add*. If he comes here soon, he will accompany me when I go to see you.
 \s Hebrews 13:24 
 \s Greet your spiritual leaders and all other believers; the believers who are from Italy send you their greetings.

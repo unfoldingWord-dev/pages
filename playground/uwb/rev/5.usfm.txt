@@ -5,8 +5,8 @@ Redeemer. The twenty-four elders and the four living creatures acknowledged that
 scroll. 
 \p
 \v 1 I saw that there was a scroll in the right hand of the one who was sitting on the throne. The scroll was written on its
-outside as well as on its inside, and it was sealed {Someone had written on the outside as well as on the inside of the scroll
-and sealed it} with seven seals. 
+outside as well as on its inside, and it was sealed \f + \ft Or:Someone had written on the outside as well as on the inside of the scroll
+and sealed it \f* with seven seals. 
 \v 2 I saw a strong angel who was announcing in a loud voice, "The person who is worthy to break the seals of the scroll and
 then to open it should come to do it!\f + \ft Or: Who is worthy to break the seals of the scroll and then to open it? \f*" \f + \ft rhetorical question \f*
 \v 3 But no created being in heaven nor any created being on the earth nor any created being under the earth was able to open
@@ -16,7 +16,7 @@ the scroll and see what was written on it.
 the Messiah who is the descendant of King David, has overcome Satan! As a result, he is worthy to break the seven seals on the
 scroll and open it!" 
 \v 6 Then I saw Jesus, the one who is like a \f + \ft metaphor \f* sacrificial lamb, standing there. He stood near the throne, in the midst of
-the four living creatures and the elders. It appeared that he had been killed {that people had killed him}, but he was alive
+the four living creatures and the elders. It appeared that he had been killed \f + \ft Or:that people had killed him \f*, but he was alive
 again. He had seven horns, and he had seven eyes that symbolize the Spirit of God who has all kinds of power \f + \ft Or: who is also
 symbolized as seven spirits \f*. \add He\add* sends \add God's\add* Spirit out into all the earth.
 \v 7 He came and took the scroll from the right hand of the one who sits on the throne.
@@ -37,7 +37,7 @@ him\add*. They each had a harp, and they had golden bowls full of incense that
 \add creatures\add* and the elders. There were millions of them, a
 \add crowd so large that no one could count them\add*. 
 \v 12 They were singing in a loud voice: 
-\q "The one who is like a lamb, who was killed {whom his enemies killed}
+\q "The one who is like a lamb, who was killed \f + \ft Or:whom his enemies killed \f*
 \q and who became alive again, is worthy that all created beings acknowledge
 \q that he is infinitely powerful, infinitely rich, 
 \q infinitely wise, and infinitely strong! 

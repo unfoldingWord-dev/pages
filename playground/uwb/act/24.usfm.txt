@@ -6,8 +6,8 @@
 Caesarea\add*, went down \add there from Jerusalem\add*, along with some
 \add other Jewish\add* elders and a lawyer \add whose name was\add* Tertullus. There they formally told the governor what Paul
 had done \add that they considered\add* wrong. 
-\v 2  \add The governor commanded\add* Paul to be brought {\add a
-soldier\add* to bring Paul} in. \add When Paul arrived\add*, Tertullus began to accuse him. He said
+\v 2  \add The governor commanded\add* Paul to be brought \f + \ft Or:\add a
+soldier\add* to bring Paul \f* in. \add When Paul arrived\add*, Tertullus began to accuse him. He said
 \add to the governor\add*, "Honorable Governor Felix, during the many years that
 you\add \f + \ft singular \f*\add* have ruled us, we\add \f + \ft exclusive \f*\add* have lived well\f + \ft Or: peacefully \f*. By planning wisely, you have improved many
 things in this province. 
@@ -44,9 +44,9 @@ me\add* causing people to riot in \add any Jewish meeting place\add*, or causing
 \v 14 But I admit to you\add \f + \ft singular \f* that this is true\add*: I do worship the God that our ancestors
 \add worshipped. It is true that\add* I follow the way that \add Jesus taught
 us\add*. The Jewish leaders call that a false religion\f + \ft Or: teaching \f*. I also believe everything that was written
-\add by Moses\add* {that \add Moses wrote\add*} in the laws that
-\add God gave him\add* and everything that was written by the \add other\add* prophets {that the
-\add other\add* prophets wrote} \add in their books\add* \f + \ft metonymy \f*. 
+\add by Moses\add* \f + \ft Or:that \add Moses wrote\add* \f* in the laws that
+\add God gave him\add* and everything that was written by the \add other\add* prophets \f + \ft Or:that the
+\add other\add* prophets wrote \f* \add in their books\add* \f + \ft metonymy \f*. 
 \v 15 I confidently expect, just like \add some of\add* these men also expect, that
 \add some day God\add* will cause everyone who has died to become alive again. He will cause to become alive again\f + \ft Or: raise from
 the dead \f* both those who were righteous and those who were wicked.
@@ -56,7 +56,7 @@ is right.
 to my fellow Jews \add who are\add* poor, and to offer sacrifices
 \add to God\add*. 
 \v 18 Some \add Jews\add* saw me in the temple \add courts\add* after I had completed the ritual by which a person is made
-{that makes a person} pure. There was no crowd with me, and I was not causing
+\f + \ft Or:that makes a person \f* pure. There was no crowd with me, and I was not causing
 \add people\add* to riot. 
 \v 19 But it was some \add other\add* Jews \add who had come\add* from Asia
 \add province who really caused people to riot. They\add* should be here in front of
@@ -79,7 +79,7 @@ you\add \f + \ft singular \f*\add* what \add they think\add* I did that was wron
 matters that concern you all." 
 \v 23 Then he told the officer \add who was guarding Paul\add* to
 \add take Paul back to the prison and\add* make sure that Paul was guarded all the time. But he said that Paul was not to be
-chained {that the officer was not to fasten chains on him}, and if his friends came to visit him,
+chained \f + \ft Or:that the officer was not to fasten chains on him \f*, and if his friends came to visit him,
 \add the officer\add* should allow them to help Paul \add in any way that they
 wished\add*. 
 \s Acts 24:24-27 
@@ -87,7 +87,7 @@ wished\add*.
 \p
 \v 24 Several days later Felix and his wife Drusilla, who was a Jew, came
 \add back to Caesarea after having been away for a few days\add*. Felix
-\add commanded\add* Paul to be brought in {\add a soldier to\add* bring Paul in}. Then Felix listened to what Paul
+\add commanded\add* Paul to be brought in \f + \ft Or:\add a soldier to\add* bring Paul in \f*. Then Felix listened to what Paul
 \add said to him\add*. Paul spoke about what \add Christians\add* believe about the Messiah Jesus.
 \v 25 Paul explained \add to them about what God requires people\add* to do in order to please him.
 \add He also explained about God requiring people to\add* control how they

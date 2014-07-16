@@ -4,7 +4,7 @@
 \p
 \v 1 Early on Sunday morning, while it was still dark, Mary, the woman from Magdala
 \add village\add*, went to the \add burial\add* cave \add with some other
-women\add*. She saw that the stone had been removed {that someone had removed the stone} from the
+women\add*. She saw that the stone had been removed \f + \ft Or:that someone had removed the stone \f* from the
 \add entrance to the\add* cave. 
 \v 2 So she ran to where Simon Peter and I \add were staying in Jerusalem\add*. She said to us, "They have taken the Lord's
 \add body\add* out of the burial cave, and we do not know where they have put it!"
@@ -14,8 +14,8 @@ women\add*. She saw that the stone had been removed {that someone had removed th
 \add where his body had been laid\add*, but I did not go inside.
 \v 6 Then Simon Peter, who was running behind me, arrived. He went inside the cave. He, too, saw the strips of linen cloth
 lying there. 
-\v 7 He also \add saw the\add* cloth that they had \add wrapped\add* around Jesus' head. It had been folded and put {Someone
-had folded it and put it} aside, separate from the linen strips.
+\v 7 He also \add saw the\add* cloth that they had \add wrapped\add* around Jesus' head. It had been folded and put \f + \ft Or:Someone
+had folded it and put it \f* aside, separate from the linen strips.
 \v 8 Then I also went inside. I saw \add those things\add* and I believed
 \add that Jesus had truly become alive again\add*. 
 \v 9 Before this happened, we did not understand from \add what the prophets had written
@@ -46,7 +46,7 @@ him\add*. Then she exclaimed in Aramaic, "Rabboni!" which means 'Teacher'.
 \s Jesus appeared to many of his disciples. 
 \p
 \v 19 On that Sunday evening \add we\add* disciples gathered together. The doors were locked
-{\add We\add* locked the doors} because we were afraid that \add the Jewish
+\f + \ft Or:\add We\add* locked the doors \f* because we were afraid that \add the Jewish
 leaders\add* \f + \ft synecdoche \f* \add might arrest us. Suddenly\add* Jesus appeared
 \add miraculously\add* and stood among us! He said to us, "May God give you
 \add inner\add* peace!" 
@@ -67,7 +67,7 @@ hands and put my fingers in the place where the nails were, and put my hands int
 \s Jesus appeared to all of his disciples, including Thomas. 
 \p
 \v 26 A week later we were in \add the house\add* again. This time Thomas was with us. Although the doors had been locked
-{\add we\add* had locked the doors}, Jesus \add again\add* appeared
+\f + \ft Or:\add we\add* had locked the doors \f*, Jesus \add again\add* appeared
 \add miraculously\add* and stood among us. He said, "May God give peace to you!"
 \v 27 Then he \add showed\add* Thomas \add his hands\add* and said to him, "Put your finger here! Look at
 \add the wounds in\add* my hands! Reach out your hand and put it in

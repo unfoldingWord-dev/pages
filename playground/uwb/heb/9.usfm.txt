@@ -23,7 +23,7 @@ forgive\add* \f* \add those who had sinned. I\add* do not \add need\add* to writ
 \s Hebrews 9:6-10 
 \s Offerings that were made under the first covenant were not able to remove a sense of guilt for sin.
 \p
-\v 6 After all those things were prepared {After they had prepared all those things like that}
+\v 6 After all those things were prepared \f + \ft Or:After they had prepared all those things like that \f*
 \add in the two rooms of the tent\add*, the \add Jewish\add* priests habitually went into the outer
 \add room of the\add* tent to perform their rituals. 
 \v 7 But into the inner room, only the high priest \add went\add*, once a year. He always took \f + \ft litotes \f* the blood
@@ -48,8 +48,8 @@ to\add* wash various things. \add God\add* declared that those regulations about
 \s Christ redeemed us by offering his own blood as a sacrifice. 
 \p
 \v 11 But when Christ came as our high priest, \add he brought\add* the good things that are now available. When he appeared,
-\add he went into God's presence in heaven. That is like a\add* \f + \ft metaphor \f* very great and perfect tent not made by humans {which no
-human made} \f + \ft synecdoche \f*; that is, it is not part of the world \add God\add* created. It was better
+\add he went into God's presence in heaven. That is like a\add* \f + \ft metaphor \f* very great and perfect tent not made by humans \f + \ft Or:which no
+human made \f* \f + \ft synecdoche \f*; that is, it is not part of the world \add God\add* created. It was better
 \add than the tent Moses set up here on earth\add*. 
 \v 12  \add When a high priest goes into the inner room in the tent each year, he
 takes\add* goats' blood and calves' blood \add to offer as a sacrifice\add*. But Christ did not

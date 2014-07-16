@@ -5,24 +5,24 @@
 \v 1 Now, my fellow believers, I want to remind you about the message about Christ that I preached to you. It is the message
 that you received and that you have continued to trust firmly. 
 \v 2 If you keep on firmly\add believing\add* this message that I preached to you, you will be saved
-{\add God\add* will save you}. If you do not continue to believe it, your believing
+\f + \ft Or:\add God\add* will save you \f*. If you do not continue to believe it, your believing
 \add in Christ\add* was all for nothing\f + \ft Or: useless \f*! 
 \p
 \v 3 The most important part of the message that I received \add from the Lord
 Jesus\add*, and that I told you, was this: Christ died to \add take away the
 guilt\add* of our sins, as the Scriptures \add said that he would
 do\add*. 
-\v 4 His \add body\add* was buried {They buried his \add body\add*}. On the third day
-\add after that\add*, he was raised {\add God\add* caused him to become alive} again, as the Scriptures
+\v 4 His \add body\add* was buried \f + \ft Or:They buried his \add body\add* \f*. On the third day
+\add after that\add*, he was raised \f + \ft Or:\add God\add* caused him to become alive \f* again, as the Scriptures
 \add said would happen\add*. 
-\v 5 After that, \add Christ\add* was seen by {appeared to} Peter. Then he appeared to
+\v 5 After that, \add Christ\add* was seen by \f + \ft Or:appeared to \f* Peter. Then he appeared to
 \add ten of\add* the twelve \add apostles\add*. 
-\v 6 Later he was seen by {appeared to} more than five hundred of our fellow believers. Most of those are still living, but
+\v 6 Later he was seen by \f + \ft Or:appeared to \f* more than five hundred of our fellow believers. Most of those are still living, but
 some of them have died \f + \ft euphemism \f*. 
-\v 7 Then he was seen by {appeared \add to\add*} \add his younger
+\v 7 Then he was seen by \f + \ft Or:appeared \add to\add* \f* \add his younger
 brother\add* James, \add who became the leader of the congregation in
 Jerusalem\add*. Then he appeared to all of the apostles. 
-\v 8 Finally, he was seen by {appeared to} me, but I became an apostle in a way that was very unusual \f + \ft metaphor \f*.
+\v 8 Finally, he was seen by \f + \ft Or:appeared to \f* me, but I became an apostle in a way that was very unusual \f + \ft metaphor \f*.
 \v 9 The fact is, I \add consider that I\add* am the least important of the apostles. I do not deserve to be an apostle,
 because I persecuted God's groups of believers\f + \ft Or: caused God's groups of believers to suffer \f*
 \add everywhere I went\add*. 
@@ -35,21 +35,21 @@ preaching\add*. We all preached \add the same message\add*, and that message is 
 \s 1 Corinthians 15:12-34 
 \s Christ has truly risen from the dead, and he will some day raise all believers.
 \p
-\v 12 So now \add let me ask you this\add*: Since \add we\add* have all preached to you that Christ was raised again {that
-\add God\add* caused Christ to become alive} after he died, no one among you should be saying that
+\v 12 So now \add let me ask you this\add*: Since \add we\add* have all preached to you that Christ was raised again \f + \ft Or:that
+\add God\add* caused Christ to become alive \f* after he died, no one among you should be saying that
 \add God\add* will not cause \add believers\add* to become alive again after they die!\f + \ft Or: why do some of you say that
 \add God\add* will not cause \add believers\add* to become alive again after they die? \f* \f + \ft rhetorical question \f*
 \v 13 If \add it is true that God\add* will not cause anyone to become alive again, that situation would mean that Christ was
-not raised from the dead {\add he\add* did not cause Christ to become alive again}!
-\v 14 And if Christ was not raised from the dead {if \add God\add* did not cause Christ to become alive again}, then what we
+not raised from the dead \f + \ft Or:\add he\add* did not cause Christ to become alive again \f*!
+\v 14 And if Christ was not raised from the dead \f + \ft Or:if \add God\add* did not cause Christ to become alive again \f*, then what we
 preached to you was useless, and your believing \add in Christ\add* is useless.
 \v 15  \add If it is true that\add* no one will be raised from the dead
-{\add that God\add* will not cause anyone to become alive again after he dies},
+\f + \ft Or:\add that God\add* will not cause anyone to become alive again after he dies \f*,
 we\add \f + \ft exclusive \f*\add* have been guilty of lying to you about God, because we told you that God caused Christ to become alive again.
-\v 16 But if it were really true that no one who has died will raised {that
-\add God will\add* not cause anyone who has died to become alive} again, then Christ was not raised
-{\add he\add* did not cause Christ to become alive} again either!
-\v 17 If it were true that Christ was not raised {that \add God\add* did not cause Christ to become alive} again after he died,
+\v 16 But if it were really true that no one who has died will raised \f + \ft Or:that
+\add God will\add* not cause anyone who has died to become alive \f* again, then Christ was not raised
+\f + \ft Or:\add he\add* did not cause Christ to become alive \f* again either!
+\v 17 If it were true that Christ was not raised \f + \ft Or:that \add God\add* did not cause Christ to become alive \f* again after he died,
 you have believed in Christ for nothing, \add because\add* God will still
 \add punish\add* you for \f + \ft metonymy \f* your sins. 
 \v 18 And those people who died \f + \ft euphemism \f* \add while they were trusting\add* in Christ will go to hell.
@@ -57,15 +57,15 @@ you have believed in Christ for nothing, \add because\add* God will still
 \add that he will reward us in heaven\add*. If we have confidently expected this in vain, people should pity us more than they
 pity anyone else! 
 \p
-\v 20 But \add the truth is that\add* Christ has been raised from the dead {that
-\add God\add* has caused Christ to live again after he had died}, and that guarantees\f + \ft Or: because of that, it is certain \f* \f + \ft metaphor \f*
+\v 20 But \add the truth is that\add* Christ has been raised from the dead \f + \ft Or:that
+\add God\add* has caused Christ to live again after he had died \f*, and that guarantees\f + \ft Or: because of that, it is certain \f* \f + \ft metaphor \f*
 that he will also cause those \add believers\add* who have died \f + \ft euphemism \f* to become alive again.
 \v 21 What one man, \add Adam, did affects us all\add*. We all die. Similarly, what one
 man—\add Christ\add*—did \add affects us\f + \ft inclusive \f* all\add*: God will cause
 \add all believers\add* to become alive again. 
 \v 22 Because of what Adam did, all \add of us who are descended\add* from him die. Similarly, because of what
 \add Christ did\add*, all of us who have a close relationship with him will be made
-{\add God\add* will make all of us who have a close relationship with Christ} alive
+\f + \ft Or:\add God\add* will make all of us who have a close relationship with Christ \f* alive
 \add after we die\add*. 
 \v 23 But we must all take our turn. \add God raised\add* Christ first \f + \ft metaphor \f*. And when Christ
 returns\add , God will cause\add* those who belong to Christ to become alive again.
@@ -85,27 +85,27 @@ will cause everything to be under Christ's \add authority\add* \f + \ft metonymy
 \v 29  \add Now think about this: Some among you\add* are being baptized \f + \ft Or: are baptizing people \f* on behalf of those who died
 \add before someone baptized them\add* \f + \ft Or: who died \add before they became
 believers\add* \f*. If, \add as some people say, believers\add* will not be raised
-\add from the dead\add* {\add God\add* will not cause \add believers\add* to become alive again}, what is the value in those
+\add from the dead\add* \f + \ft Or:\add God\add* will not cause \add believers\add* to become alive again \f*, what is the value in those
 people doing that?\f + \ft Or: there is no value in those people doing that! \f* \f + \ft rhetorical question \f* If
-\add God\add* will not cause any \add believers\add* to become alive again, it is senseless to be baptized {baptize anyone} on
-behalf of someone who has died.\f + \ft Or: why would someone be baptized {baptize anyone} on behalf of someone who has died? \f* \f + \ft rhetorical question \f*
+\add God\add* will not cause any \add believers\add* to become alive again, it is senseless to be baptized \f + \ft Or:baptize anyone \f* on
+behalf of someone who has died.\f + \ft Or: why would someone be baptized ( Or:baptize anyone ) on behalf of someone who has died? \f* \f + \ft rhetorical question \f*
 \v 30 Furthermore, \add if God will not cause us believers to become alive
 again\add*, it is \f + \ft rhetorical question \f* very foolish for me and the other apostles to be constantly
 \add putting ourselves\add* in danger \add because we tell people God's good
 message\add*! 
-\v 31 My fellow believers, every day I \add am in danger of\add* being killed {people killing me}! That is as true as it is
+\v 31 My fellow believers, every day I \add am in danger of\add* being killed \f + \ft Or:people killing me \f*! That is as true as it is
 that I am pleased with you because of your close relationship with Christ Jesus our Lord.
 \v 32  \add If God will not cause us believers to become alive again after we
 die\add*, I will receive no benefit at all \add from having opposed those who attacked me so
 strongly\add* in Ephesus \add city\add*.\f + \ft Or: what will I gain \add from having opposed those who attacked me so
 strongly\add* in Ephesus \add city\add*? \f* \f + \ft rhetorical question \f* They were \add fighting me
 like\add* wild beasts! If we \add believers\add* will not be raised
-\add from the dead\add* {If \add God\add* will not cause us \add believers\add* to live again}, we might as well say
+\add from the dead\add* \f + \ft Or:If \add God\add* will not cause us \add believers\add* to live again \f*, we might as well say
 \add as people often say\add*: "Tomorrow we are going to die, so we might as well enjoy now everything that we can. We might as
 well feast and get drunk!" 
 \v 33 Do not let \add yourselves be deceived by those who say that God will not cause believers to live
-again\add* {Do not let \add people who say that God will not cause believers to live
-again\add* deceive you}. If you associate with evil people \add who say such
+again\add* \f + \ft Or:Do not let \add people who say that God will not cause believers to live
+again\add* deceive you \f*. If you associate with evil people \add who say such
 things\add*, they will influence you to do evil things\f + \ft Or: destroy your good moral way of living \f*.
 \v 34 Start thinking correctly again \add about these matters\add*, as you should, and
 \add stop your sinful behavior which has resulted from\add* your wrong thinking.
@@ -114,8 +114,8 @@ they\add have this wrong thinking\add*. I say that to make you ashamed.
 \s 1 Corinthians 15:35-58 
 \s In heaven we will have glorious indestructible bodies. 
 \p
-\v 35 But some of you are asking, "How will dead people be raised {How will
-\add God\add* cause dead people to become alive} again? What kind of bodies will they have?"
+\v 35 But some of you are asking, "How will dead people be raised \f + \ft Or:How will
+\add God\add* cause dead people to become alive \f* again? What kind of bodies will they have?"
 \v 36  \add Anyone who asks such questions is\add* foolish. You \add know
 that\add* a seed that is planted in the ground must completely change its form \f + \ft metaphor \f* before it sprouts.
 \v 37 A seed, such as a wheat seed, is very different from the plant that sprouts from it.
@@ -139,13 +139,13 @@ die\add* are weak. But our new bodies will be strong.
 \add controls\f + \ft Or: gives us\add* \f*. Just like there are natural bodies, there are bodies that
 \add God's\add* Spirit \add completely\add* controls \f + \ft Or: makes alive \f*.
 \p
-\v 45  \add In the Scriptures\add* it is written {we read} that \add when\add* the first man, Adam,
+\v 45  \add In the Scriptures\add* it is written \f + \ft Or:we read \f* that \add when\add* the first man, Adam,
 \add was created\add*, he became a living human being. \add Christ later also became a human
 being\add*. But\add he is different from Adam, because he\add* became a person who gives us
 \add spiritual\add* life. 
 \v 46 But our bodies that God's Spirit will completely control\f + \ft Or: will give us \f* are not the first bodies that we have. We have
 our natural bodies first. 
-\v 47 The first man, \add Adam\add*, was created {\add God\add* created the first man, Adam} from the dust of the earth. But
+\v 47 The first man, \add Adam\add*, was created \f + \ft Or:\add God\add* created the first man, Adam \f* from the dust of the earth. But
 \add Christ\add*, the one who came later, came from heaven. 
 \v 48 Everyone on earth \add has a body\add* like the first man on the earth had. And in heaven,
 \add everyone will have a body like Christ\add*, the man who came from heaven, has.
@@ -157,17 +157,17 @@ our natural bodies first.
 \add cannot last forever\add*. They will die and decay. 
 \v 51 But I will tell you something that \add God\add* has not revealed
 \add before\add*: \add Some of\add* us \add believers\add* will not die \f + \ft euphemism \f*. However, all of us will be changed
-{\add God\add* will change all of us}. 
+\f + \ft Or:\add God\add* will change all of us \f*. 
 \v 52  \add It will happen\add* suddenly, as \add fast as someone
 can\add* blink his eye \f + \ft metaphor \f*, when \add we hear the sound of God's\add* trumpet for the last time. When we hear that trumpet,
-all \add the believers\add* who have died will become alive and will have bodies that are changed {that
-\add God\add* has changed}, bodies that will never decay. 
+all \add the believers\add* who have died will become alive and will have bodies that are changed \f + \ft Or:that
+\add God\add* has changed \f*, bodies that will never decay. 
 \v 53 And the \add bodies of us who are alive at that time\add* will
-\add also\add* be changed {And \add God\add* will \add also\add* change the
-\add bodies of us who are alive at that time\add*}. These bodies of ours that die and decay must be transformed into
+\add also\add* be changed \f + \ft Or:And \add God\add* will \add also\add* change the
+\add bodies of us who are alive at that time\add* \f*. These bodies of ours that die and decay must be transformed into
 \add new bodies that\add* will never die; \add it will be like someone\add* \f + \ft metaphor \f* getting rid of
 \add his old clothes\add* and putting on \add new ones\add*. 
-\v 54 When that happens, what is written {what \add a prophet\f + \ft Or: Isaiah\add* \f* wrote}
+\v 54 When that happens, what is written \f + \ft Or:what \add a prophet\f + \ft Or: Isaiah\add* \f* wrote \f*
 \add in the Scriptures\add* will come true\f + \ft Or: happen \f*, 
 \p \add God\add* will completely get rid of \f + \ft metaphor \f* death. Our dying will no longer have any power to defeat us;
 \v 55 Death \f + \ft apostrophe \f* will not win a victory over us. Death will not be able to hurt us.

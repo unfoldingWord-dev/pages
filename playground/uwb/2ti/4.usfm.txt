@@ -23,7 +23,7 @@ bring in many teachers for themselves who will tell them just what they want to 
 \p
 \v 6  \add Timothy, I say these things to\add* you because as for me,
 \add it is as though\add* \f + \ft metaphor \f* \add they are now about to kill me. It is as though my blood
-will\add* be poured out {they will kill me} \add as a sacrifice on the
+will\add* be poured out \f + \ft Or:they will kill me \f* \add as a sacrifice on the
 altar\add*; that is, \add I know\add* that it is the time for me to die \f + \ft euphemism \f*.
 \v 7  \add And as to telling people the\add* good \add message and defending
 it\add*, I have exerted myself thoroughly\f + \ft Or: done it with all my energy \f* \f + \ft metaphor \f*,
@@ -61,10 +61,10 @@ can\add*, because he very much opposes the message that we \add proclaim\add*.
 \p
 \v 16 When I first defended myself\add in court here\add*, no one came along
 \add to help defend\add* me. Instead, they all left me. \add I pray\add* that it will not be counted against
-{\add God\add* will forgive} them \f + \ft litotes \f* \add for leaving me\add*.
+\f + \ft Or:\add God\add* will forgive \f* them \f + \ft litotes \f* \add for leaving me\add*.
 \v 17 Nevertheless, the Lord was with me and strengthened me. He enabled me to fully preach the message, and all the non-Jewish
 people \add in the court\add* \f + \ft Or: people from many nations \f* heard it. And I was rescued
-\add by the Lord\add* {\add the Lord\add* rescued me} \add from great danger, as if I were
+\add by the Lord\add* \f + \ft Or:\add the Lord\add* rescued me \f* \add from great danger, as if I were
 taken\add* \f + \ft metaphor \f* out of a lion's \f + \ft Or: wild animal's \f* mouth. 
 \v 18  \add Therefore, I am sure that\add* the Lord will rescue me from everything that is truly evil and will bring me safely
 to heaven, where he rules. Praise him forever! Amen!\f + \ft Or: May it be so! \f*

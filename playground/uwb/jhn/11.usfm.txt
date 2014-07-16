@@ -11,8 +11,8 @@
 Lazarus\add*, saying, 'Lord, the one you love \add very much\add* is very sick.'
 \v 4  \add They hoped that Jesus would come\add*, but when Jesus heard the message, he said, "The
 \add purpose of his\add* being sick is not that he would die. Instead, the purpose is
-\add that people may realize\add* how great God is, and that I, God's son, may be honored {that people may honor me, God's
-son}, because of \add what I will do\add*." 
+\add that people may realize\add* how great God is, and that I, God's son, may be honored \f + \ft Or:that people may honor me, God's
+son \f*, because of \add what I will do\add*." 
 \v 5 Jesus loved Martha and her \add younger\add* sister\add Mary\add* and Lazarus.
 \v 6 But when Jesus heard that Lazarus was sick, he stayed \add where he
 was\add* for two more days. 
@@ -37,7 +37,7 @@ asleep.
 died\add*, because I want you to believe \add more firmly that I\add*
 \add am the Messiah\f + \ft Or: came from God\add* \f*. So now, \add instead of staying
 here\add*, let's go to him." 
-\v 16 Then Thomas, who was {whom they} called 'The Twin', said to the rest of us disciples, "Let's all go, so that we may die
+\v 16 Then Thomas, who was \f + \ft Or:whom they \f* called 'The Twin', said to the rest of us disciples, "Let's all go, so that we may die
 with him \add when his enemies kill him\add*." 
 \s John 11:17-40 
 \s Lazarus' sisters expressed disappointment that Jesus did not come and heal Lazarus before he died.

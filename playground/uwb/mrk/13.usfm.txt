@@ -7,8 +7,8 @@
 \add are\add*!" 
 \v 2 Jesus said to him, "\add Yes\add*, these buildings that you are looking
 \add at\add* \f + \ft rhetorical question \f* \add are wonderful\add*, but I \add want to tell you something
-about\add* them. They will be destroyed {\add Foreign invaders\add* will destroy
-\add them\add*} \add completely, with the result that\add* no stone here
+about\add* them. They will be destroyed \f + \ft Or:\add Foreign invaders\add* will destroy
+\add them\add* \f* \add completely, with the result that\add* no stone here
 \add in this Temple area\add* will be left on top of another stone."
 \s MARK 13:3-37 
 \s Jesus taught his disciples about the events that will precede his coming again.
@@ -16,9 +16,9 @@ about\add* them. They will be destroyed {\add Foreign invaders\add* will destroy
 \v 3 After they arrived on Olive \add Tree\add* Hill across \add the
 valley\add* from the Temple, Jesus sat down. When Peter, James, John, and Andrew were alone with him, they asked him,
 \v 4 "Tell us, when will \add that\add* happen \add to the buildings of the Temple? Tell us what will happen that will show us
-that all these things that God has planned\add* are about to be finished {that
+that all these things that God has planned\add* are about to be finished \f + \ft Or:that
 \add God\add* is about to finish all these things \add that he has
-planned\add*}." 
+planned\add* \f*." 
 \v 5 Jesus replied to them, "\add I cannot give you a simple answer to your questions. All I will say
 is\add*, beware that no one deceives you \add concerning what will
 happen\add*! 
@@ -35,10 +35,10 @@ like\add* the first pains a woman \add suffers\add* who is about to bear a child
 \p
 \v 9 Be ready for \add what people will do to you at that time\add*. Because
 \add you believe in\add* me, they will arrest you and put you on trial before the religious councils. In the synagogue\f + \ft Or: In the
-Jewish meeting place \f*, you will be beaten {others will beat you}. You will be put
-{\add People will put\add* you} \add on trial\add* in the presence of high government authorities. As a result, you will be
+Jewish meeting place \f*, you will be beaten \f + \ft Or:others will beat you \f*. You will be put
+\f + \ft Or:\add People will put\add* you \f* \add on trial\add* in the presence of high government authorities. As a result, you will be
 able to tell them \add about me\add*. 
-\v 10 My good message must be proclaimed {\add You\add* must proclaim my good message} to
+\v 10 My good message must be proclaimed \f + \ft Or:\add You\add* must proclaim my good message \f* to
 \add people in\add* all people-groups before \add God finishes all that he has
 planned\add*. 
 \v 11 And when people arrest you in order to prosecute you \add because you believe in
@@ -50,10 +50,10 @@ me\add*, do not worry before that happens about what you will say. Instead, say 
 me\add* will betray\f + \ft Or: help others seize \f* their brothers \add and sisters\add* in order that
 \add the government\add* can execute them. Parents \add will betray\add* their children, and children will betray their parents
 so that \add the government\add* will kill their parents. 
-\v 13  \add In general\add*, you will be hated by most \f + \ft hyperbole \f* people {most \f + \ft hyperbole \f* people will hate you} because
+\v 13  \add In general\add*, you will be hated by most \f + \ft hyperbole \f* people \f + \ft Or:most ( hyperbole ) people will hate you \f* because
 \add you believe in\add* me. But all you who continue \add to trust in me
-strongly\add* until your life is finished will be saved {\add God\add* will save all you who continue
-\add to trust in me strongly\add* until your life ends}. 
+strongly\add* until your life is finished will be saved \f + \ft Or:\add God\add* will save all you who continue
+\add to trust in me strongly\add* until your life ends \f*. 
 \p
 \v 14  \add During that time\add* the disgusting \add thing\f + \ft Or: person \f* that the prophet Daniel
 described\add* will enter the Temple. It\f + \ft Or: He \f* will defile \add the Temple when he enters it and will cause people to abandon it.
@@ -86,7 +86,7 @@ cannot do \f* \f + \ft doublet \f*. They will even try to deceive \add you\add* 
 \p
 \v 24 After the time when people suffer like that, the sun will become dark, the moon will not shine,
 \v 25 the stars will fall from the sky, and all things in the sky will be shaken
-{\add God will cause\add* all things in the sky to shake}. 
+\f + \ft Or:\add God will cause\add* all things in the sky to shake \f*. 
 \v 26 Then people will see \add me\add*, the one who came from heaven, coming through the clouds powerfully and gloriously.
 \v 27 Then I will send out my angels in order that they gather together the people whom
 \add God\add* has chosen from \add everywhere, and that includes\add* all the most remote places on earth \f + \ft idiom, doublet \f*.

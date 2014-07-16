@@ -17,12 +17,12 @@ replied, "That means nothing to us!\f + \ft Or: What does that mean to us? \f* \
 \p
 \v 6  \add Later\add* the high priests \add found\add* the coins. They picked them up and said, "This is money that we
 paid\add to have a man killed\add* \f + \ft metonymy \f*, and our law does not allow\add such
-money\add* to be put {us to put \add such money\add*} into the \add Temple
+money\add* to be put \f + \ft Or:us to put \add such money\add* \f* into the \add Temple
 treasury\add*." 
-\v 7 So they decided to use that money to buy the field where clay was dug for making pots {men dug ground for making pots}.
+\v 7 So they decided to use that money to buy the field where clay was dug for making pots \f + \ft Or:men dug ground for making pots \f*.
 \add They made that field\add* a place where they buried strangers
 \add who died in Jerusalem\add*. 
-\v 8 That is why that place is still called {why they still call that place} 'The field of blood.'
+\v 8 That is why that place is still called \f + \ft Or:why they still call that place \f* 'The field of blood.'
 \v 9  \add By buying that field\add*, they fulfilled these words that the prophet Jeremiah wrote
 \add long ago\add*: 
 \p They took the thirty silver coins; That was what the leaders of Israel decided
@@ -35,7 +35,7 @@ treasury\add*."
 \add claim to be\add* the king of the Jews?" Jesus replied, "\add It
 is\add* as you have \add just\add* said." 
 \p
-\v 12 When he was accused by the chief priests and elders {When the chief priests and elders accused him} about various things,
+\v 12 When he was accused by the chief priests and elders \f + \ft Or:When the chief priests and elders accused him \f* about various things,
 he did not answer. 
 \v 13 So Pilate said to him, "You hear how many things they are saying to accuse you;
 \add are you not going to reply\add*?" 
@@ -59,13 +59,13 @@ not condemn that righteous man!"
 \p
 \v 20 But the chief priests and elders persuaded the crowd to ask
 \add Pilate to\add* release Barabbas, and to \add order\add* that Jesus be executed
-{that\add his soldiers\add* execute Jesus}. 
+\f + \ft Or:that\add his soldiers\add* execute Jesus \f*. 
 \v 21 So when the governor asked them, "Which of the two men do you want me to release for you?" They replied, "Barabbas!"
 \v 22 Pilate, \add very astonished\add*, asked, "So what shall I do with Jesus who
 \add some of you\add* say is the Messiah?" They all answered, "\add Command
-that\add* he be crucified! {\add Command your soldiers\add* to crucify him\f + \ft Or: to nail him to a cross \f*}!"
+that\add* he be crucified! \f + \ft Or:\add Command your soldiers\add* to crucify him\f + \ft Or: to nail him to a cross \f* \f*!"
 \v 23 Pilate replied, "Why? What crime has he committed?" But they shouted even louder,
-"\add Have\add* him crucified {\add Command that your soldiers\add* crucify him}!"
+"\add Have\add* him crucified \f + \ft Or:\add Command that your soldiers\add* crucify him \f*!"
 \p
 \v 24 Pilate realized that he was accomplishing nothing. He saw that instead, the people were starting to riot. So he took
 \add a basin of\add* water and washed his hands as the crowd was watching. He said,
@@ -105,9 +105,9 @@ dice \add to decide which piece of clothing each one would get\add*.
 \v 36 Then the soldiers sat down there to guard him, \add to prevent anyone from trying to rescue
 him\add*. 
 \v 37 They fastened \add to the cross\add* above Jesus' head a \add sign on which had
-been\add* {\add they had\add*} written why \add they\add* were nailing him to the cross.
+been\add* \f + \ft Or:\add they had\add* \f* written why \add they\add* were nailing him to the cross.
 \add But all\add* it said was, 'This is Jesus, the King of the Jews.'
-\v 38 Two bandits were also nailed {They also nailed two bandits} on crosses. One was nailed to a cross on the right side
+\v 38 Two bandits were also nailed \f + \ft Or:They also nailed two bandits \f* on crosses. One was nailed to a cross on the right side
 \add of Jesus\add* and one to a cross on the left side. 
 \v 39 The people who were passing by insulted him by shaking their heads
 \add as if he were an evil man\add*. 
@@ -162,7 +162,7 @@ and the mother of James and John.
 came\add there\add*. He was from Arimathea \add town\add*. He also was a disciple of Jesus.
 \v 58 He then went to Pilate and asked Pilate to \add allow him to
 take\add* the body of Jesus \add and bury it\add*. Pilate ordered that
-\add he\add* be allowed to {\add his soldiers\add* let \add Joseph\add*} take
+\add he\add* be allowed to \f + \ft Or:\add his soldiers\add* let \add Joseph\add* \f* take
 \add the body\add*. 
 \v 59 So Joseph \add and others\add* took the body and wrapped it in a clean white cloth.
 \v 60 Then they placed it in Joseph's own new tomb that had been dug out of the rock
@@ -176,7 +176,7 @@ take\add* the body of Jesus \add and bury it\add*. Pilate ordered that
 \add some of\add* the Pharisees went to Pilate. 
 \v 63 They said, "Sir, we remember that while that deceiver was still alive, he said, 'Three days after I
 \add die I\add* will become alive again.' 
-\v 64 So we ask you to order that the tomb be guarded {that \add soldiers\add* guard the tomb} for three days. If you do not do
+\v 64 So we ask you to order that the tomb be guarded \f + \ft Or:that \add soldiers\add* guard the tomb \f* for three days. If you do not do
 that, his disciples may come and steal the body. Then they will tell people that he has risen from the dead. If they deceive
 \add people by saying that\add*, it will be worse than the way he deceived people before
 \add by saying that he was the Messiah\add*." 

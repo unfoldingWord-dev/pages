@@ -108,15 +108,15 @@ of\add* us that \add God\add* has sent the message about \add how
 he\add* saves people. 
 \v 27 The people who were living in Jerusalem and their rulers did not realize that this man
 \add Jesus was the one whom God had sent to save them\add*. Although messages from \f + \ft metonymy \f* the prophets have been read
-\add aloud\add* {someone has read \add aloud\add* messages from \f + \ft metonymy \f* the prophets} every Sabbath\f + \ft Or: Jewish day of rest \f*, they
+\add aloud\add* \f + \ft Or:someone has read \add aloud\add* messages from \f + \ft metonymy \f* the prophets \f* every Sabbath\f + \ft Or: Jewish day of rest \f*, they
 did not understand \add what the prophets wrote about the Messiah.
 So\add* the \add Jewish leaders\add* condemned Jesus \add to die\add*, which was just like the prophets predicted.
 \v 28  \add Many people accused Jesus of doing wicked things\add*, but they could not prove that he had done anything for which
-he deserved to die. They insistently asked Pilate \add the governor\add* to command that Jesus be executed {to command soldiers
-to execute Jesus}. \add So Pilate did what they asked him to do\add*.
+he deserved to die. They insistently asked Pilate \add the governor\add* to command that Jesus be executed \f + \ft Or:to command soldiers
+to execute Jesus \f*. \add So Pilate did what they asked him to do\add*.
 \v 29 They did \add to Jesus\add* all the things that \add the prophets long ago
 had\add* written \add that people would do to\add* him. \add They killed Jesus by nailing him to a cross.
-Then\add* his body was taken {\add some people took\add* his body} down from the cross and placed it in a tomb.
+Then\add* his body was taken \f + \ft Or:\add some people took\add* his body \f* down from the cross and placed it in a tomb.
 \v 30 However, God raised him from the dead\f + \ft Or: caused him to live again after he had died \f*
 \v 31 and for many days he \add repeatedly\add* appeared to \add his
 followers\add* who had come along with him from Galilee \add province\add* to Jerusalem. Those
@@ -154,7 +154,7 @@ friends\add*, it is important for you to know that \add we\f + \ft exclusive \f*
 \add that God\add* can forgive you for your sins as a result of \add what\add* Jesus
 \add has done\add*. Because of \add what\add* Jesus \add has done\add*,
 \add God\add* considers that everyone who believes \add in Jesus\add* is no longer guilty \f + \ft Or: the record has been erased
-{\add God\add* has erased the record} \f* concerning everything that they
+\f + \ft Or:\add God\add* has erased the record \f* \f* concerning everything that they
 \add have done that displeased God. But\add* when \add God\add* does
 \add that for you\add*, it is not as a result of \add your obeying\add* the laws
 \add that\add* Moses \add wrote\add*. 

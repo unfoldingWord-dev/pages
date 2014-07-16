@@ -13,14 +13,14 @@
 \q
 \v 4  \add God\add* is pleased with people who mourn \add because they have
 sinned;\add* 
-\q they will be encouraged {he will encourage them.} 
+\q they will be encouraged \f + \ft Or:he will encourage them. \f* 
 \q
 \v 5  \add God\add* is pleased with people who are meek; 
 \q they will inherit the earth \add that God will recreate\add*.
 \q
 \v 6  \add God\add* is pleased with people who sincerely \add desire to
 live\add* righteously \add just like they\add* desire to eat and drink \f + \ft metaphor \f*;
-\q they will be enabled {he will enable them} to do all that he desires \f + \ft metaphor \f*.
+\q they will be enabled \f + \ft Or:he will enable them \f* to do all that he desires \f + \ft metaphor \f*.
 \q
 \v 7  \add God\add* is pleased with people who act mercifully; 
 \q he will act mercifully to them. 
@@ -29,10 +29,10 @@ live\add* righteously \add just like they\add* desire to eat and drink \f + \ft 
 \q \add some day\add* they will \add be where\add* God is and will see him.
 \q
 \v 9  \add God\add* is pleased with people who help other people to live peacefully;
-\q they will be considered to be {he will consider that they are} his children \f + \ft metaphor \f*.
+\q they will be considered to be \f + \ft Or:he will consider that they are \f* his children \f + \ft metaphor \f*.
 \q
-\v 10  \add God is pleased with\add* people to whom evil things are done {to whom
-\add other people\add* do evil things} because they \add conducted
+\v 10  \add God is pleased with\add* people to whom evil things are done \f + \ft Or:to whom
+\add other people\add* do evil things \f* because they \add conducted
 themselves\add* righteously; 
 \q he will allow them to be where he rules over people. 
 \q
@@ -51,8 +51,8 @@ you\add*, just like \add he thought highly of\add* the prophets whom your
 \add and improve the way they live in order that they do not become more evil, just
 like\add* salt \add is able to improve the flavor of food and to preserve
 it\add* \f + \ft metaphor \f* \add from spoiling\add*. Salt that no longer tastes salty cannot become salty again \f + \ft rhetorical question \f*. As a result, that salt
-becomes useless. It is rejected by people, thrown on the ground, and walked on {People reject it, throw it on the ground and
-walk on it} \f + \ft metaphor \f*. \add Similarly, if the way you live no longer influences people to live in a godly manner, God will reject
+becomes useless. It is rejected by people, thrown on the ground, and walked on \f + \ft Or:People reject it, throw it on the ground and
+walk on it \f* \f + \ft metaphor \f*. \add Similarly, if the way you live no longer influences people to live in a godly manner, God will reject
 you\add*. 
 \v 14  \bd You\bd* \add enable\add* evil \add people\add* \f + \ft metonymy \f* \add to perceive God's truth
 as\add* a light \add enables people to perceive what is around them. Just
@@ -77,21 +77,21 @@ heavens and the earth disappear and until all \add that God told their authors t
 write\add* happens. 
 \v 19 Since \add all God's laws are important\add*, if anyone disobeys any of those commandments,
 \add even if it would be\add* one of the least \add important ones\add*, and if that person teaches people
-\add to disobey any of those commandments\add*, it will be said {\add God\add* will say} that that person is the least
+\add to disobey any of those commandments\add*, it will be said \f + \ft Or:\add God\add* will say \f* that that person is the least
 \add important\add* of those in the place where \f + \ft euphemism \f* God rules. But those who obey
 \add those commandments\add* and teach \add other people to obey them, it will be
-said\add* {\add God\add* will say} that they are very important among those that God rules.
+said\add* \f + \ft Or:\add God\add* will say \f* that they are very important among those that God rules.
 \v 20 Keep this in mind: \add You assume that\add* the Pharisees and the men who teach our laws
 \add faithfully obey\add* what God commands. But if you do not obey those laws better than they obey them, you will by no means
 enter the place where God \f + \ft euphemism \f* rules." 
 \s Matthew 5:11-26 
 \s Jesus taught that we should not be angry and that we should quickly settle accounts with those whom we have wronged.
 \p
-\v 21 "You have heard \add your religious teachers say\add* that it was said {that
-\add Moses\add* said} to your ancestors, 'Do not murder \add anyone.' This implied
+\v 21 "You have heard \add your religious teachers say\add* that it was said \f + \ft Or:that
+\add Moses\add* said \f* to your ancestors, 'Do not murder \add anyone.' This implied
 that\add* if someone murders \add another person\add*, the judge will condemn that person
-\add and\add* sentence him to be\add executed\add* {\add say that someone must execute
-him\add*}. 
+\add and\add* sentence him to be\add executed\add* \f + \ft Or:\add say that someone must execute
+him\add* \f*. 
 \v 22 But what I say to you is this: \add If you are\add* angry with someone,
 \add God\add* will judge you. If you say to someone, '\add You are
 worthless\add*,' the Jewish Council will judge you. If you say \add to
@@ -131,19 +131,19 @@ God\add* sends your whole body to hell."
 \s Matthew 5:31-32 
 \s Jesus taught that people should not divorce their spouses. 
 \p
-\v 31 "It is written {\add Moses\add* wrote}, 'If a man is divorcing his wife, he should write a document
+\v 31 "It is written \f + \ft Or:\add Moses\add* wrote \f*, 'If a man is divorcing his wife, he should write a document
 \add on which he states that he is\add* divorcing her.' 
 \v 32 But \add now listen to what\add* I say to you: \add A man\add* may
 \add divorce his wife\add* only if she has committed adultery, \add and not for any other
 reason\add*. If a man divorces his wife \add for any other reason, and he has sex with another
 woman\add*, he makes his wife become one against whom he has committed adultery,
-\add because in God's estimation she still is his wife\add*. Also, if a man marries a woman who is divorced {whose husband has
-divorced her}, \add God considers\add* him\add guilty of\add* committing adultery."
+\add because in God's estimation she still is his wife\add*. Also, if a man marries a woman who is divorced \f + \ft Or:whose husband has
+divorced her \f*, \add God considers\add* him\add guilty of\add* committing adultery."
 \s Matthew 5:33-37 
 \s Jesus taught that people should not add anything to make their words more credible when they promise to do something.
 \p
-\v 33 "You have also heard \add your religious teachers say\add* that it was written {that
-\add Moses\add* wrote} to your ancestors, 'Make sure that you do what you promised the Lord that you would do!' \f + \ft doublet \f*
+\v 33 "You have also heard \add your religious teachers say\add* that it was written \f + \ft Or:that
+\add Moses\add* wrote \f* to your ancestors, 'Make sure that you do what you promised the Lord that you would do!' \f + \ft doublet \f*
 \v 34 But \add now listen to what\add* I say to you: Never promise to do anything and then ask a superior being to
 affirm\add that what you are saying will happen. For example, do\add* not
 \add promise that you will give something and then ask spiritual beings
@@ -156,8 +156,8 @@ authorities\add* in Jerusalem \add to affirm that you will do it\add*, because J
 \add God\add*, the great King \add rules\add*. 
 \p
 \v 36  \add Also, do not promise that you will do something and then say
-that\add* your head \add should be cut off\add* {\add someone should cut
-off\add* your head} \add if you do not do it\add*. You are not \add even\add* able to
+that\add* your head \add should be cut off\add* \f + \ft Or:\add someone should cut
+off\add* your head \f* \add if you do not do it\add*. You are not \add even\add* able to
 \add change the color of the hair of your head by\add* making one
 \add black\add* hair white or one \add white\add* hair black. 
 \v 37  \add If you talk about doing something\add*, just say 'Yes, I
@@ -167,12 +167,12 @@ say\add* anything more than that, it is from \add Satan\add*, the Evil One."
 \s Jesus taught that everyone should be kind to all people, even to people who mistreat us.
 \p
 \v 38 "You have heard \add your religious teachers say\add* that
-\add it is written\add* {\add Moses wrote\add*}, '\add Retaliate like
+\add it is written\add* \f + \ft Or:\add Moses wrote\add* \f*, '\add Retaliate like
 this\add*: \add If someone damages\add* one of your eyes, \add someone should
 damage\add* one of that person's eyes. \add If someone damages\add* one of your teeth,
 \add someone should damage\add* one of that person's teeth.' 
 \v 39 But \add now listen to what\add* I say to you: Do not take revenge for evil
-\add deeds done\add* {\add that other people do\add*} \add to you\add*. Instead, if someone
+\add deeds done\add* \f + \ft Or:\add that other people do\add* \f* \add to you\add*. Instead, if someone
 \add insults you by\add* striking you on one cheek, turn your other cheek toward that person
 \add in order that he can strike it also\add*. 
 \v 40 If someone wants to sue you and take your inner garment\f + \ft Or: shirt \f*, give him your outer garment\f + \ft Or: coat \f* also.
@@ -186,7 +186,7 @@ for\add*. If someone requests you to lend him \add something\add*, do not refuse
 \s Jesus taught that we should love the people whom we would not normally love.
 \p
 \v 43 "You have heard \add your religious teachers say that it is
-written\add* {\add that Moses wrote\add*}, 'Love the citizens of your country and hate your enemies.'
+written\add* \f + \ft Or:\add that Moses wrote\add* \f*, 'Love the citizens of your country and hate your enemies.'
 \v 44 But \add now listen to what\add* I say to you: Love your enemies
 \add as well as your friends\add*, and pray for those who cause you to suffer.
 \v 45 Do that in order to imitate what\add God\add*, your Father
