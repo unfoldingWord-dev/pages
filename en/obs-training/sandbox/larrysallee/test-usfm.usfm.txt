@@ -1,4 +1,4 @@
-====== Test ======
+====== Test use of 2nd level section code in USFM ======
 
 
 \c 1 
