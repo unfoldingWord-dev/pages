@@ -1,7 +1,7 @@
 \c 28  
 \s Job states some general truths about God's wisdom 
 \q
-\v 1 “It is true that there are places where men dig to find silver,
+\v 1 "It is true that there are places where men dig to find silver,
 \q2 and there are places where people refine\f + \ft Or: purify \f* gold \add that they have
 dug\add*. 
 \q
@@ -50,7 +50,7 @@ streams\add*.
 \q
 \v 14  \add It is as though\add* water that is deep \add inside the
 earth\add* and \add water that is in\add* the seas say \f + \ft personification \f*, 
-\q2 ‘Wisdom is not here!’ 
+\q2 'Wisdom is not here!' 
 \q
 \v 15 People cannot buy wisdom 
 \q2 by paying for it with silver or gold. 
@@ -75,7 +75,7 @@ earth\add* and \add water that is in\add* the seas say \f + \ft personification 
 \q2 and birds cannot see it while they are flying \f + \ft metonymy \f*. 
 \q
 \v 22  \add It is as though\add* the places where people go after they die say \f + \ft personification \f*,
-\q2 ‘We have only heard rumors about \add where to find wisdom\add*.’
+\q2 'We have only heard rumors about \add where to find wisdom\add*.'
 \q
 \v 23 God is \add the only one who\add* knows how to find wisdom;
 \q2 he knows where it is, 
@@ -93,6 +93,6 @@ ground\add*,
 \v 27 at that time he saw wisdom and decided that it is extremely valuable.
 \q2 He examined it and approved it\f + \ft Or: said that it was very good \f*.
 \q
-\v 28 And then he said to humans, ‘Listen! To have an awesome respect for me is
+\v 28 And then he said to humans, 'Listen! To have an awesome respect for me is
 \add what will enable you to become\add* wise; 
-\q2 and to truly understand everything, you must first turn away from doing what is evil.’ ”
+\q2 and to truly understand everything, you must first turn away from doing what is evil.' "

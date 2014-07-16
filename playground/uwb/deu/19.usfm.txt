@@ -1,7 +1,7 @@
 \c 19  
 \s The cities of refuge 
 \p
-\v 1 “After Yahweh our God has gotten rid of the people-groups from the land that he is giving to you, and after you have
+\v 1 "After Yahweh our God has gotten rid of the people-groups from the land that he is giving to you, and after you have
 expelled them from their cities and you start to live in their houses,
 \v 2-3 you must divide into three parts the land that he is giving to you. Then choose a city in each part. You must make good
 roads \add in order that people can get to those cities easily\add*. Someone who kills another person can escape to one of
@@ -44,8 +44,8 @@ people, and in order that things will go well for you.
 neighbors' property boundaries which were placed there long ago.
 \s Warnings about witnesses 
 \p
-\v 15 If someone is accused of committing a crime, one witness\f + \ft Or: person who says, ‘I saw him do it’ \f* is not enough. There must
-be at least two witnesses\f + \ft Or: people who say, ‘We saw him do it’ \f*. \add If there is only one
+\v 15 If someone is accused of committing a crime, one witness\f + \ft Or: person who says, 'I saw him do it' \f* is not enough. There must
+be at least two witnesses\f + \ft Or: people who say, 'We saw him do it' \f*. \add If there is only one
 witness\add*, the judge must not believe that what he says is true.
 \p
 \v 16 If someone tries to do wrong to another person by falsely accusing him,
@@ -61,4 +61,4 @@ dare to act that way anymore.
 \v 21 You must not pity people who are punished like that. The rule should be that a person who has murdered someone else must
 be executed; one of a person's eyes must be gouged out if he has gouged out someone else's eye, one tooth of a person who has
 knocked out the tooth of another person must be knocked out; one hand of a person who has cut off the hand of another person
-must likewise be cut off; one foot of a person who has cut off the foot of another person must also be cut off.”
+must likewise be cut off; one foot of a person who has cut off the foot of another person must also be cut off."

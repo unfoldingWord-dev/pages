@@ -1,11 +1,11 @@
 \c 17  
 \s Warning against sacrificing defective animals 
 \p
-\v 1 “Do not sacrifice to Yahweh our God any cattle or sheep or goats that have any defects, because Yahweh hates that kind of
-gift.” 
+\v 1 "Do not sacrifice to Yahweh our God any cattle or sheep or goats that have any defects, because Yahweh hates that kind of
+gift." 
 \s Punishment for idolatry 
 \p
-\v 2 “When you are living in any of the towns \add in the land\add* that Yahweh our God is giving to you, suppose there is some
+\v 2 "When you are living in any of the towns \add in the land\add* that Yahweh our God is giving to you, suppose there is some
 man or woman who sins by disobeying the agreement that Yahweh has made with you.
 \v 3 Suppose that person has worshiped and served other gods, or the sun, or the moon, or the stars.
 \v 4 If someone tells you that some person has been doing that, you must investigate it thoroughly. If
@@ -15,10 +15,10 @@ or her.
 \v 6 But you are allowed to execute such people only if at least two witnesses testify that they saw them
 \add doing that\add*. They must not be executed if there is only one witness.
 \v 7 The witnesses\f + \ft Or: ones who saw them doing it \f* must be the first ones to throw stones at them. Then the other people \f + \ft metonymy \f*
-\add should throw stones at them\add*. By doing that, you will get rid of this evil practice from among you.”
+\add should throw stones at them\add*. By doing that, you will get rid of this evil practice from among you."
 \s Judging difficult cases 
 \p
-\v 8 “Sometimes it will be very difficult for the judges to decide what really happened. He might be trying to decide whether,
+\v 8 "Sometimes it will be very difficult for the judges to decide what really happened. He might be trying to decide whether,
 when someone injured or killed another person, he did it accidentally or deliberately. Or he might be trying to decide if some
 person is sueing another person unfairly. If in some town it is very difficult to know what really happened, with the result
 that the judge cannot decide it, you should go to the place that Yahweh our God has chosen for you
@@ -31,16 +31,16 @@ decided [IDI].
 \v 12 You must execute anyone who proudly\f + \ft Or: arrogantly \f* disobeys the judge or the priest who stands there in the presence of
 Yahweh \add and decides what should be done\add*. By doing that, you will get rid of this evil practice from among you.
 \v 13 Then\f + \ft Or: Because \f* \add after that person is executed\add*, all the people will hear about it, and they will be afraid, and
-none of them will act that way anymore.” 
+none of them will act that way anymore." 
 \s Proper behavior for a king 
 \p
-\v 14 “\add I know that\add* after you have occupied the land that Yahweh our God is giving to you, and you are living there,
-you will say, ‘We should have a king to rule over us, like the kings that other nations around us have.’
+\v 14 "\add I know that\add* after you have occupied the land that Yahweh our God is giving to you, and you are living there,
+you will say, 'We should have a king to rule over us, like the kings that other nations around us have.'
 \v 15 Yahweh our God will permit you to have a king, but be sure that you appoint someone whom he has chosen. That man must be
 an Israeli; you must not appoint someone who is a foreigner to be your king.
 \v 16  \add After he becomes the king\add*, he should not acquire a large number of horses for himself. He should not send
-people to Egypt to buy horses for him, because Yahweh said to you, ‘Never return to Egypt
-\add for anything!’\add* 
+people to Egypt to buy horses for him, because Yahweh said to you, 'Never return to Egypt
+\add for anything!'\add* 
 \v 17 And he must not have a lot of wives, because if he did that, they would turn him \f + \ft synecdoche \f* away from
 \add worshiping only\add* Yahweh. And he must not acquire a lot of silver and gold.
 \p
@@ -50,4 +50,4 @@ is kept by the priests descended from Levi.
 awesome respect for Yahweh, and to faithfully obey \f + \ft doublet \f* all the rules and regulations
 \add that are written\add* in these laws. 
 \v 20 If he does that, he \f + \ft synecdoche \f* will not think that he is better\f + \ft Or: more important \f* than [IDI] his fellow Israelis, and he will
-completely obey \f + \ft litotes \f* Yahweh's commands. As a result, he and his descendants will rule as kings in Israel for many years.”
+completely obey \f + \ft litotes \f* Yahweh's commands. As a result, he and his descendants will rule as kings in Israel for many years."

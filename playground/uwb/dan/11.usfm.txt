@@ -3,7 +3,7 @@
 \v 1 As for me, during the first year that Darius was king, I helped and encouraged him.
 \s The message about the kings of Egypt and Syria 
 \p
-\v 2  \add The angel also said\add*, “And what I am going to reveal to you now will truly
+\v 2  \add The angel also said\add*, "And what I am going to reveal to you now will truly
 \add happen\add*. There will be three more kings to rule Persia,
 \add one after the other\add*. Then there will be a fourth king, who will be much richer than the others. As a result of
 \add his giving\add* a lot of money \add to people, they will enable him
@@ -58,8 +58,8 @@ to\add* destroy the kingdom of Egypt, he will give her to the king of Egypt to b
 \add Mediterranean\add* Sea, and his \add army\add* will conquer many of them. But
 \add the army of\add* a leader from another country will defeat the army of Syria and will stop their king from continuing to
 be proud. He will do to the king of Syria what he deserved for being very insolent.
-\v 19 Then the king of Syria will return to the fortresses in his own land. But he will be defeated, and he will ◄die\f + \ft Or: be \f*
-assassinated► \f + \ft euphemism \f* there. 
+\v 19 Then the king of Syria will return to the fortresses in his own land. But he will be defeated, and he will die\f + \ft Or: be
+assassinated \f* \f + \ft euphemism \f* there. 
 \p
 \v 20 Then another king will succeed him\f + \ft Or: become king \f*. That king will send one of his officers to oppress the people
 \add in Jerusalem\add* by forcing them to pay big taxes, in order to get more money for his kingdom. But after a few years
@@ -98,8 +98,8 @@ what those who have abandoned the Jewish religion advise\f + \ft Or: want \f* hi
 the priests from offering sacrifices each day, and they will put
 \add in the temple\add* something that is disgusting\f + \ft Or: abominable \f*.
 \p
-\v 32 By deceiving those who have abandoned the Jewish religion, he will win them to ◄become his supporters\f + \ft Or: help \f* him to do what
-he wants to do►. But those who are devoted to their God will firmly oppose them.
+\v 32 By deceiving those who have abandoned the Jewish religion, he will win them to become his supporters\f + \ft Or: help him to do what
+he wants to do \f*. But those who are devoted to their God will firmly oppose them.
 \v 33 And wise \add Israeli\add* leaders will teach others also. But for a while, some of those wise leaders will be killed in
 battles, and some will be burned to death, and some will be robbed, and some will be put in prison.
 \p
@@ -138,4 +138,4 @@ he will become very angry, and send his army to fight furiously and kill many
 \add of their enemies\add*. 
 \v 45 The \add king of Syria\add* will set up his royal tents in the area between the
 \add Mediterranean\add* Sea and the hill \add in Jerusalem\add* on which the temple exists\f + \ft Or: was built \f*. But he will be killed
-there, because there will be no one to help him.” 
+there, because there will be no one to help him." 

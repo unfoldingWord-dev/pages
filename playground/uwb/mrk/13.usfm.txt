@@ -2,28 +2,28 @@
 \s MARK 13:1-2 
 \s Jesus prophesied that the Temple would be completely destroyed.
 \p
-\v 1 While Jesus was leaving the Temple \add area\add*, one of his disciples said to him, “Teacher, look at how marvelous
+\v 1 While Jesus was leaving the Temple \add area\add*, one of his disciples said to him, "Teacher, look at how marvelous
 \add these\add* huge stones \add are\add* and how wonderful \add these\add* buildings
-\add are\add*!” 
-\v 2 Jesus said to him, “\add Yes\add*, these buildings that you are looking
+\add are\add*!" 
+\v 2 Jesus said to him, "\add Yes\add*, these buildings that you are looking
 \add at\add* \f + \ft rhetorical question \f* \add are wonderful\add*, but I \add want to tell you something
 about\add* them. They will be destroyed {\add Foreign invaders\add* will destroy
 \add them\add*} \add completely, with the result that\add* no stone here
-\add in this Temple area\add* will be left on top of another stone.”
+\add in this Temple area\add* will be left on top of another stone."
 \s MARK 13:3-37 
 \s Jesus taught his disciples about the events that will precede his coming again.
 \p
 \v 3 After they arrived on Olive \add Tree\add* Hill across \add the
 valley\add* from the Temple, Jesus sat down. When Peter, James, John, and Andrew were alone with him, they asked him,
-\v 4 “Tell us, when will \add that\add* happen \add to the buildings of the Temple? Tell us what will happen that will show us
+\v 4 "Tell us, when will \add that\add* happen \add to the buildings of the Temple? Tell us what will happen that will show us
 that all these things that God has planned\add* are about to be finished {that
 \add God\add* is about to finish all these things \add that he has
-planned\add*}.” 
-\v 5 Jesus replied to them, “\add I cannot give you a simple answer to your questions. All I will say
+planned\add*}." 
+\v 5 Jesus replied to them, "\add I cannot give you a simple answer to your questions. All I will say
 is\add*, beware that no one deceives you \add concerning what will
 happen\add*! 
-\v 6 Many people will come and say that I sent them\f + \ft Or: that they have my authority \f* \f + \ft metonymy \f*. They will say, ‘I am
-\add the Messiah!\add*’ They will deceive many people. 
+\v 6 Many people will come and say that I sent them\f + \ft Or: that they have my authority \f* \f + \ft metonymy \f*. They will say, 'I am
+\add the Messiah!\add*' They will deceive many people. 
 \v 7 Whenever people tell you about wars \add that are close\add* or wars that are far away, do not be troubled.
 \add God has said\add* that those things must happen. \add But when they do happen, do not
 think\add* that \add God\add* will finish all \add that he has planned\add* at that time!
@@ -34,8 +34,8 @@ like\add* the first pains a woman \add suffers\add* who is about to bear a child
 \add They will suffer much more after that\add*. 
 \p
 \v 9 Be ready for \add what people will do to you at that time\add*. Because
-\add you believe in\add* me, they will arrest you and put you on trial before the religious councils. ◄In the synagogue\f + \ft Or: In \f* the
-Jewish meeting place►, you will be beaten {others will beat you}. You will be put
+\add you believe in\add* me, they will arrest you and put you on trial before the religious councils. In the synagogue\f + \ft Or: In the
+Jewish meeting place \f*, you will be beaten {others will beat you}. You will be put
 {\add People will put\add* you} \add on trial\add* in the presence of high government authorities. As a result, you will be
 able to tell them \add about me\add*. 
 \v 10 My good message must be proclaimed {\add You\add* must proclaim my good message} to
@@ -77,10 +77,10 @@ way\add* again. \add So\add* pray that \add this painful time\add* will not happ
 \add decided to\add* shorten that time because \add he is concerned about
 you\add* people whom he has chosen \f + \ft doublet \f*. 
 \v 21-22  \add At that time people who will\add* falsely \add say that they
-are\add* Messiahs and prophets will appear. Then they will perform many kinds ◄of miracles\f + \ft Or: of \f* things that ordinary people
-cannot do► \f + \ft doublet \f*. They will even try to deceive \add you\add* people whom God has chosen,
-\add but they will not\add* be able to do that. So at that time if someone says to you, ‘Look, here is the Messiah!’ or
-\add if someone says\add*, ‘Look, there he is!’ do not believe it!
+are\add* Messiahs and prophets will appear. Then they will perform many kinds of miracles\f + \ft Or: of things that ordinary people
+cannot do \f* \f + \ft doublet \f*. They will even try to deceive \add you\add* people whom God has chosen,
+\add but they will not\add* be able to do that. So at that time if someone says to you, 'Look, here is the Messiah!' or
+\add if someone says\add*, 'Look, there he is!' do not believe it!
 \v 23 Be alert! Remember that\add I\add* have warned you about all this before
 \add it happens\add*! 
 \p
@@ -117,5 +117,5 @@ whether\add* his master will return in the evening, at midnight, when the rooste
 \add when I will return\add*. 
 \v 36  \add May it not happen that\add* when I come suddenly, I will find that you are not ready!
 \v 37 These words that I am saying to you \add disciples\add* I am saying to everyone
-\add who believes in me: Always\add* be ready!” \add That is what Jesus warned his
+\add who believes in me: Always\add* be ready!" \add That is what Jesus warned his
 disciples\add*. 

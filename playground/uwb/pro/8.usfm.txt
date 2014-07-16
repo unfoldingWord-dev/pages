@@ -8,7 +8,7 @@
 \q
 \v 3 Wisdom also stands at the city gates and shouts loudly, 
 \q
-\v 4 “I am calling to everyone! 
+\v 4 "I am calling to everyone! 
 \q2 I am shouting loudly to all people! 
 \q
 \v 5 You people who do not know how to do things that are smart to do, get sound judgment;
@@ -111,4 +111,4 @@ out\add*.
 \q2 and Yahweh will be pleased with them. 
 \q
 \v 36 But those who stray away from me just harm themselves. 
-\q2 All those who hate me, \add it is as though\add* \f + \ft irony \f* they are loving death.”
+\q2 All those who hate me, \add it is as though\add* \f + \ft irony \f* they are loving death."

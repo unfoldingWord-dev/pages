@@ -8,8 +8,8 @@
 \q2 My body \f + \ft synecdoche \f* shakes because I am experiencing much pain. 
 \q
 \v 3 Yahweh, I am greatly troubled in my inner being. 
-\q2 How long ◄\add must I endure this\f + \ft Or: will \f* it be before you help
-me\add*► \f + \ft rhetorical question \f*? 
+\q2 How long \add must I endure this\f + \ft Or: will it be before you help
+me\add* \f* \f + \ft rhetorical question \f*? 
 \b
 \q
 \v 4 Yahweh, please come and rescue me. 

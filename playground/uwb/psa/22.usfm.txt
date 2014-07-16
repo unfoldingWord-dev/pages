@@ -17,8 +17,8 @@
 \q \add Because\add* they trusted in you, you rescued them. 
 \q
 \v 5 When they cried out to you, you saved them. 
-\q2 They trusted in you, and ◄they were not disappointed\f + \ft Or: you \f* \add saved
-them\add* as you said that you would►. 
+\q2 They trusted in you, and they were not disappointed\f + \ft Or: you \add saved
+them\add* as you said that you would \f*. 
 \b
 \q
 \v 6 But \add you have not rescued me\add*! 
@@ -31,10 +31,10 @@ them\add* as you said that you would►.
 \add at me as though I were an evil man\add*. 
 \q They say, 
 \q
-\v 8 “He trusts in Yahweh, 
+\v 8 "He trusts in Yahweh, 
 \q2 so Yahweh should save him! 
 \q \add He says that\add* Yahweh is very pleased with him; 
-\q2 if that is so, Yahweh should rescue him!” 
+\q2 if that is so, Yahweh should rescue him!" 
 \q
 \v 9  \add Why do\add* you \add not\add* protect me \add now as you
 did\add* when I was born? 
@@ -131,4 +131,4 @@ you\add*.
 \q2 Our descendants will be told about what Yahweh \add has done\add*.
 \q
 \v 31 People who are not yet born, \add who will live in future years\add*, will be told how Yahweh rescued his people.
-\q2 People will tell them, “Yahweh did it!” 
+\q2 People will tell them, "Yahweh did it!" 

@@ -18,8 +18,8 @@ workers\add* had to unload the cargo.
 \p
 \v 4  \add Someone told us\add* where the believers in Tyre lived, so
 we\add (exc) went and\add* stayed with them for seven days. Because
-\add God's\add* Spirit revealed to them ◄\add that people would cause Paul to suffer\f + \ft Or: Paul \f* would
-suffer\add*► \add in Jerusalem\add*, they told Paul that he should not go there.
+\add God's\add* Spirit revealed to them \add that people would cause Paul to suffer\f + \ft Or: Paul would
+suffer\add* \f* \add in Jerusalem\add*, they told Paul that he should not go there.
 \v 5 But when it was time \add for the ship to leave again\add*, we
 \add prepared to\add* continue going \add to Jerusalem\add*. When we left
 \add Tyre\add*, all the men and their wives and children went with us
@@ -44,19 +44,19 @@ revealed to them.
 \v 10 After \add we(exc) had been in Philip's house for\add* several days, a believer whose name was Agabus came down from
 Judea \add district\add* and arrived \add in Caesarea\add*. He \add frequently\add* spoke messages that the Holy Spirit had
 told him. 
-\v 11 Coming over to where we were, he took off Paul's belt. Then he tied his own feet and hands with it and said, “The Holy
-Spirit says, ‘The Jewish \add leaders\add* \f + \ft synecdoche \f* in Jerusalem will tie up
+\v 11 Coming over to where we were, he took off Paul's belt. Then he tied his own feet and hands with it and said, "The Holy
+Spirit says, 'The Jewish \add leaders\add* \f + \ft synecdoche \f* in Jerusalem will tie up
 \add the hands and feet of\add* the owner of this belt, like this, and they will put him in the hands of non-Jewish people
-\add as a prisoner\add*.’” 
-\v 12 When \add the rest of\add* us heard that, we and \add other\add* believers there repeatedly pled with Paul, “Please do
-not go up to Jerusalem!” 
-\v 13 But Paul replied, “◄Please stop crying and trying to discourage me \f + \ft idiom \f*
-\add from going!\add*\f + \ft Or: Why \f* are you crying and trying to discourage me \f + \ft idiom \f*
-\add from going\add*?► \f + \ft rhetorical question \f* I am willing to be put {\add for people\add* to put me} in prison and also to be killed
-{\add for them\add* to kill me} in Jerusalem because I \add serve\add* \f + \ft metonymy \f* the Lord Jesus.”
+\add as a prisoner\add*.'" 
+\v 12 When \add the rest of\add* us heard that, we and \add other\add* believers there repeatedly pled with Paul, "Please do
+not go up to Jerusalem!" 
+\v 13 But Paul replied, "Please stop crying and trying to discourage me \f + \ft idiom \f*
+\add from going!\add*\f + \ft Or: Why are you crying and trying to discourage me ( idiom )
+\add from going\add*? \f* \f + \ft rhetorical question \f* I am willing to be put {\add for people\add* to put me} in prison and also to be killed
+{\add for them\add* to kill me} in Jerusalem because I \add serve\add* \f + \ft metonymy \f* the Lord Jesus."
 \v 14 When \add we(exc) realized that\add* he was determined \add to go to
 Jerusalem\add*, we did not try \add any longer\add* to persuade him
-\add not to go\add*. We said, “May the Lord \add God\add* do what he wants\f + \ft Or: the Lord's will be done \f*!”
+\add not to go\add*. We said, "May the Lord \add God\add* do what he wants\f + \ft Or: the Lord's will be done \f*!"
 \s Acts 21:15-16 
 \s Paul and other believers went from Caesarea to Jerusalem. 
 \p
@@ -74,15 +74,15 @@ Jerusalem\add*, we did not try \add any longer\add* to persuade him
 \add who was the leader of the congregation there\add*. All of the
 \add other\add* leaders\f + \ft Or: elders \f* \add of the congregation in Jerusalem\add* were also there.
 \v 19 Paul greeted them, and then he reported all of the things that God had enabled him to do among the non-Jewish people.
-\v 20 When they heard that, James and the other elders said, “Praise the Lord!” Then
-\add one of\add* them said to Paul, “Brother\f + \ft Or: Friend \f*, you\add (sg)\add* know that there are very many thousands of
+\v 20 When they heard that, James and the other elders said, "Praise the Lord!" Then
+\add one of\add* them said to Paul, "Brother\f + \ft Or: Friend \f*, you\add (sg)\add* know that there are very many thousands of
 us\add (inc)\add* Jewish people \add here\add* who have believed
 \add in the Lord Jesus\add*. Also, you know that we\add (inc)\add* all continue very carefully to obey the laws
 \add that Moses gave us\add*. 
 \v 21  \add But our fellow Jewish believers\add* have been told {have heard
 \add people say\add*} that when you are among non-Jews, you tell the Jewish believers who live there that they should stop
-obeying \add the laws\add* \f + \ft metonymy \f* ◄\add of\add* Moses\f + \ft Or:  \f*\add that\add*
-Moses\add received from God\add*►. \add People say that\add* you tell
+obeying \add the laws\add* \f + \ft metonymy \f* \add of\add* Moses\f + \ft Or: \add that\add*
+Moses\add received from God\add* \f*. \add People say that\add* you tell
 \add those Jewish believers\add* not to circumcise their sons and not to practice our
 \add other\add* customs. \add We(exc) do not believe that this is
 true\add*. 
@@ -103,7 +103,7 @@ and\add* we\add (exc)\add* wrote them \add a letter, telling them\add* what we d
 \add We wrote\add* that they should not eat meat that people have offered as a sacrifice to any idol,
 \add that they should not eat\add* blood \add from animals\add* and that
 \add they should not eat\add* meat from animals \add that people have killed
-by\add* strangling\add them. We also told them that\add* they should not have sex with someone to whom they are not married.”
+by\add* strangling\add them. We also told them that\add* they should not have sex with someone to whom they are not married."
 \v 26 So Paul \add agreed to do what they asked\add*, and the next day he took the
 \add four\add* men, and together they ritually purified themselves. After that, Paul went to the Temple
 \add courts and\add* told \add the priest\add* what day they would
@@ -118,12 +118,12 @@ by\add* strangling\add them. We also told them that\add* they should not have se
 him\add*. On another day they had seen Paul \add walking around\add* in Jerusalem with Trophimus, who was a non-Jew. Their laws
 did not permit non-Jews to be in the Temple, and they thought that Paul had brought Trophimus into the Temple
 \add courtyard that day. So\add* they called out to many other Jews
-\add who were in the Temple courtyard\add* to \add help them\add* seize \f + \ft metonymy \f* Paul. They shouted, “Fellow Israelites, come and
+\add who were in the Temple courtyard\add* to \add help them\add* seize \f + \ft metonymy \f* Paul. They shouted, "Fellow Israelites, come and
 help \add us to punish this\add* man! This is the one who is \add constantly\add* teaching people wherever
 \add he goes that they\add* should despise the \add Jewish\add* people.
 \add He teaches people that they should no longer obey\add* the laws
 \add of Moses\add* nor respect this holy \add Temple\add*. He has even brought non-Jews here into
-\add the court of\add* our Temple, causing God to consider it no longer holy!”
+\add the court of\add* our Temple, causing God to consider it no longer holy!"
 \v 30  \add People\add* throughout \f + \ft metonymy \f* the city heard that there was trouble
 \add at the Temple courtyard\add*, and they came running there. They grabbed Paul and dragged him outside of the Temple
 \add area\add*. The gates \add to the Temple courtyard were shut\add*
@@ -144,7 +144,7 @@ of\add* soldiers and ran to \add the Temple area where\add* the crowd was. When 
 \p
 \v 33 The commander came to \add where Paul was and\add* seized him. He
 \add commanded soldiers\add* to fasten a chain to \add each of\add* Paul's
-\add arms\add*. Then he asked \add the people in the crowd\add*, “Who is this man, and what has he done?”
+\add arms\add*. Then he asked \add the people in the crowd\add*, "Who is this man, and what has he done?"
 \v 34 Some of the many people there were shouting one thing, \add and\add* some were shouting something else. Because they
 continued shouting so loudly, the commander could not understand
 \add what they were shouting. So\add* he \add commanded\add* that Paul be taken
@@ -153,18 +153,18 @@ there\add*.
 \v 35  \add The soldiers\add* led Paul to the steps \add of the barracks\add*, but many people continued to follow them, trying
 to kill \add Paul. So the commander told\add* the soldiers to carry Paul
 \add up the steps into the barracks\add*. 
-\v 36 The crowd that followed kept shouting, “Kill him! Kill him!”
+\v 36 The crowd that followed kept shouting, "Kill him! Kill him!"
 \p
 \v 37 As Paul was about to be taken {\add the soldiers\add* were about to take Paul} into the barracks, he said
-\add in Greek\add* to the commander, “May I speak to you?” The commander said, “I am surprised that you can speak the Greek
-\add language\add*!\f + \ft Or: Can you\add (sg)\add* speak the Greek \add language\add*? \f*” \f + \ft rhetorical question \f*
-\v 38 “I \add thought\add* that you\add (sg)\add* were that fellow\f + \ft Or: Are you not that fellow \f* from Egypt \f + \ft rhetorical question \f* who wanted to
+\add in Greek\add* to the commander, "May I speak to you?" The commander said, "I am surprised that you can speak the Greek
+\add language\add*!\f + \ft Or: Can you\add (sg)\add* speak the Greek \add language\add*? \f*" \f + \ft rhetorical question \f*
+\v 38 "I \add thought\add* that you\add (sg)\add* were that fellow\f + \ft Or: Are you not that fellow \f* from Egypt \f + \ft rhetorical question \f* who wanted to
 rebel \add against the government not long ago\add*, and who took four thousand violent terrorists
 \add with him\add* out into the desert, \add so that we could not catch
-him\add*?” 
-\v 39 Paul answered, “\add No, I am not!\add* I am a Jew. I \add was
+him\add*?" 
+\v 39 Paul answered, "\add No, I am not!\add* I am a Jew. I \add was
 born\add* in Tarsus, which is an important \f + \ft litotes \f* city in Cilicia
-\add province\add*. I request that you\add (sg)\add* let me speak to the people.”
+\add province\add*. I request that you\add (sg)\add* let me speak to the people."
 \v 40 Then the commander permitted Paul \add to speak. So\add* Paul stood on the steps and motioned with his hand
 \add for the crowd to be quiet. And after\add* the people in the crowd became quiet, Paul spoke to them in
 \add their own\add* Hebrew language \f + \ft metonymy \f*. 

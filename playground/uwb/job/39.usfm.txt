@@ -1,7 +1,7 @@
 \c 39  
 \s Yahweh continued his reply to Job 
 \q
-\v 1 “Job, do you know at what time\f + \ft Or: season \f* \add of the year\add* the female mountain goats give birth?
+\v 1 "Job, do you know at what time\f + \ft Or: season \f* \add of the year\add* the female mountain goats give birth?
 \q2 Have you watched the wild deer while their calves were being born?
 \q
 \v 2 Do you know how many months pass from the time they become pregnant until their calves are born?
@@ -101,4 +101,4 @@ there\add*.
 \q2 they see far away the animals that they can kill \f + \ft Or: dead bodies of animals \f*.
 \q
 \v 30 After an eagle kills an animal, 
-\q2 the baby eagles drink the blood of that animal.” 
+\q2 the baby eagles drink the blood of that animal." 

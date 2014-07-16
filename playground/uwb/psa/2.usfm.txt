@@ -1,15 +1,15 @@
 \c 2  
 \q
-\v 1 ◄Why do the \add leaders of\add* nations rage \add against God\add*?\f + \ft Or: It \f* is foolish for the nations to be angry
-\add with God\add*.► \f + \ft rhetorical question \f* 
-\q2 ◄Why do people plan to rebel \add against God\add* even though it is in vain?\f + \ft Or: It \f* is useless for people to plan to rebel
-\add against God\add*!► \f + \ft rhetorical question \f* 
+\v 1 Why do the \add leaders of\add* nations rage \add against God\add*?\f + \ft Or: It is foolish for the nations to be angry
+\add with God\add*. \f* \f + \ft rhetorical question \f* 
+\q2 Why do people plan to rebel \add against God\add* even though it is in vain?\f + \ft Or: It is useless for people to plan to rebel
+\add against God\add*! \f* \f + \ft rhetorical question \f* 
 \q
 \v 2 The kings of the nations on earth prepared to revolt; 
 \q2 the rulers plotted together \add to fight\add* against Yahweh and against his Messiah\f + \ft Or: chosen king \f*.
 \q
-\v 3 They shouted, “We should free ourselves from their control \f + \ft metaphor \f*;
-\q2 we should not let them rule over us any longer!” 
+\v 3 They shouted, "We should free ourselves from their control \f + \ft metaphor \f*;
+\q2 we should not let them rule over us any longer!" 
 \b
 \q
 \v 4 But the one who sits \add on his throne\add* in heaven laughs
@@ -19,11 +19,11 @@
 \v 5 Then, because he is angry with them, he rebukes them. 
 \q2 He causes them to be terrified when \add they realize\add* that he will furiously punish them.
 \q
-\v 6  \add Yahweh says\add*, “I have put my king on a throne on Zion, my sacred hill
-\add in Jerusalem\add*.” 
+\v 6  \add Yahweh says\add*, "I have put my king on a throne on Zion, my sacred hill
+\add in Jerusalem\add*." 
 \q
-\v 7  \add And his king says\add*, “I will proclaim what Yahweh has decreed.
-\q He said to me, ‘\add It is as though\add* you are my son; 
+\v 7  \add And his king says\add*, "I will proclaim what Yahweh has decreed.
+\q He said to me, '\add It is as though\add* you are my son; 
 \q2 today I have declared to everyone that \add it is as though\add* \f + \ft metaphor \f* I am your father.
 \q
 \v 8 Request me to give you the nations, 
@@ -32,7 +32,7 @@
 \q Even the most remote nations will be yours. 
 \q
 \v 9 You will defeat them completely \f + \ft metaphor \f*; 
-\q2 you will \add destroy them like people\add* smash a clay pot with an iron rod. \f + \ft simile \f*’ ”
+\q2 you will \add destroy them like people\add* smash a clay pot with an iron rod. \f + \ft simile \f*' "
 \b
 \q
 \v 10 So then, you kings and other rulers on the earth, act wisely!

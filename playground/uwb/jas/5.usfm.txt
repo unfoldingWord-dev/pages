@@ -12,7 +12,7 @@ me\add*, you rich people! You should weep and wail \add loudly\add* \f + \ft dou
 \v 3 Your gold and silver are \add worthless\add* \f + \ft metaphor \f*, \add as though they
 were\add* corroded. \add When God judges you\add*, this worthless wealth \f + \ft metonymy \f* of yours will be evidence \f + \ft personification \f* that you are
 guilty \add of being greedy\add*, and as rust and fire \add destroy\add* \f + \ft metaphor, synecdoche \f* things,
-\add God\add* will severely punish you \f + \ft simile \f*. You have \add in vain\f + \ft Or: uselessly\add*► ◄stored up, Or: accumulated \f*
+\add God\add* will severely punish you \f + \ft simile \f*. You have \add in vain\f + \ft Or: uselessly\add* \f* stored up\f + \ft Or: accumulated \f*
 \add wealth\add* in a time when \add God\add* is about to \add judge
 you\add* \f + \ft metonymy \f*. 
 \v 4 Think \add about what you have done\add*. You have not paid wages to the workmen who have harvested your fields for you,
@@ -53,13 +53,13 @@ that\add although he suffered much\add*, the Lord \add God\add* finally brought 
 \add to Job because\add* he endured \add that suffering\add* \f + \ft Or: because he continued
 \add to trust God\add* \f*. \add And from that we know\add* that the Lord is very compassionate and kind.
 \s James 5:12 
-\s Do not say, “If I am lying, may God punish me.” Instead, always tell the truth, lest God condemn you.
+\s Do not say, "If I am lying, may God punish me." Instead, always tell the truth, lest God condemn you.
 \p
 \v 12 Also, my fellow believers, \add I want to say\add* something important
-\add about how you talk\add*. \add If you say that you will do something\add*, do not say, “If I do not do it, may
-\add God in\add* heaven \f + \ft metonymy \f* punish me.” Do not even say, “If I do not do it, may
-\add someone here on\add* earth \f + \ft metonymy \f* punish me.” Do not say anything like that. Instead, if you say ‘Yes,’ then
-\add do what you said that you would do\add*. If you say ‘No,’ then do not
+\add about how you talk\add*. \add If you say that you will do something\add*, do not say, "If I do not do it, may
+\add God in\add* heaven \f + \ft metonymy \f* punish me." Do not even say, "If I do not do it, may
+\add someone here on\add* earth \f + \ft metonymy \f* punish me." Do not say anything like that. Instead, if you say 'Yes,' then
+\add do what you said that you would do\add*. If you say 'No,' then do not
 \add do it\add*. Otherwise, \add God\add* will condemn you. 
 \s James 5:13-18 
 \s Whatever your circumstances are, pray, trusting in God, and he will certainly help you, both physically and spiritually. So
@@ -72,9 +72,9 @@ confess your sins to each other and pray for each other, because God answers pra
 congregation\add to come to pray for him\add*. They should put \add olive\add* oil on him and, with the Lord's authority \f + \ft metonymy \f*
 \f + \ft Or: calling on the Lord \add to heal him\add* \f*, pray. 
 \v 15 And if they truly trust \add in the Lord\add* when they pray \f + \ft personification \f*, the sick person will be healed. The Lord will heal
-him. And if that person has sinned ◄\add in a way that caused him to be\f + \ft Or: and \f* because of that he
-became\add*► \add sick, if he\add* ◄\add confesses what he did\f + \ft Or: says \f* that he did what is
-wrong\add*►, he will be forgiven {\add the Lord\add* will forgive him}.
+him. And if that person has sinned \add in a way that caused him to be\f + \ft Or: and because of that he
+became\add* \f* \add sick, if he\add* \add confesses what he did\f + \ft Or: says that he did what is
+wrong\add* \f*, he will be forgiven {\add the Lord\add* will forgive him}.
 \v 16 So, \add because the Lord is able to heal the sick and to forgive
 sins\add*, tell each other the sinful things that you have done, and pray for each other in order that you may be healed {that
 \add God\add* may heal you} \add physically and spiritually\add*. If righteous people

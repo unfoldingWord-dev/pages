@@ -3,7 +3,7 @@
 \p
 \v 1 Job replied \add to Eliphaz and the others:\add* 
 \q
-\v 2 “I have heard things like that before; 
+\v 2 "I have heard things like that before; 
 \q2 all of you, \add instead of helping me\add*, are only causing me to feel more miserable.
 \q
 \v 3 Will your speeches, which are only wind, never end \f + \ft rhetorical question \f*? 
@@ -82,4 +82,4 @@ toward\add* me.
 \q
 \v 22  \add I say this\add* because within a few years \add I will
 die\add*; 
-\q2 I will walk along the road from which I will never return.” 
+\q2 I will walk along the road from which I will never return." 

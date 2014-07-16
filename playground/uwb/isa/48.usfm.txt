@@ -1,7 +1,7 @@
 \c 48  
 \s The people of Israel are stubborn 
 \q
-\v 1  \add Yahweh says\add*, “You descendants \f + \ft metonymy \f* of Jacob, 
+\v 1  \add Yahweh says\add*, "You descendants \f + \ft metonymy \f* of Jacob, 
 \q2 who are also descendants of Judah and are now called \add the people
 of\add* Israel, 
 \q2 Listen to me! 
@@ -23,8 +23,8 @@ of\add* Israel,
 \v 5 That is why I told you those things long ago. 
 \q2 Long before they occurred, I announced that they would occur,
 \q in order that \add when they happened\add* you could not say 
-\q2 ‘Our idols did it; 
-\q2 our statue made of wood and our idol made of metal caused them to happen.’
+\q2 'Our idols did it; 
+\q2 our statue made of wood and our idol made of metal caused them to happen.'
 \q
 \v 6 You have heard those things \add that I predicted\add* 
 \q2 and now you have seen that they have all occurred, 
@@ -35,7 +35,7 @@ of\add* Israel,
 \q
 \v 7 I am causing them to happen now; 
 \q2 they are not things I did long ago. 
-\q So you cannot say, ‘We already knew about those things.’ 
+\q So you cannot say, 'We already knew about those things.' 
 \q
 \v 8  \add I will tell you about\add* things that you have never heard about or understood before.
 \q2 Even long ago you did not pay attention to me [IDI]. 
@@ -56,10 +56,10 @@ impurities\add*.
 \q I will do it for my own sake 
 \q2 in order that my reputation will not be damaged \f + \ft rhetorical question \f*. 
 \q I will not allow any \add person or any idol\add* to be honored as I
-\add deserve to be\add* honored.” 
+\add deserve to be\add* honored." 
 \s The people of Israel should leave Babylon because that city will be destroyed
 \q
-\v 12 “You descendants \f + \ft metonymy \f* of Jacob, you people of Israel whom I have chosen,
+\v 12 "You descendants \f + \ft metonymy \f* of Jacob, you people of Israel whom I have chosen,
 \q2 listen to me! 
 \q Only I am God; 
 \q2 I am the one who begins everything and who causes everything to end.
@@ -85,13 +85,13 @@ impurities\add*.
 \v 16 Come close to me and listen to what I say. 
 \q Long ago \f + \ft metonymy \f* I told you plainly\f + \ft Or: clearly \f* \f + \ft litotes \f* \add what would
 happen\add*, 
-\q2 and when those things occurred, I was \add causing them to happen\add*.”
+\q2 and when those things occurred, I was \add causing them to happen\add*."
 \b
 \q And now Yahweh the Lord and his Spirit have sent me \add to give you a
 message\add*. 
 \q
 \v 17 This is what Yahweh, the one who saves you, the Holy God of us Israelis, says:
-\q2 “I am Yahweh, your God; 
+\q2 "I am Yahweh, your God; 
 \q I teach you what is important for you \add to know\add*; 
 \q2 I direct you and lead you to the roads that you should walk on \f + \ft metaphor \f*.
 \q
@@ -105,7 +105,7 @@ message\add*.
 \add on the seashore\add* 
 \q2 \add which no one can count\add*. 
 \q I would not have needed to get rid of them; 
-\q2 the country of \f + \ft metonymy \f* Israel would not have been destroyed.” 
+\q2 the country of \f + \ft metonymy \f* Israel would not have been destroyed." 
 \b
 \q
 \v 20  \add However, now I tell you\add*, 
@@ -120,4 +120,4 @@ message\add*.
 \q2 and caused water to gush\f + \ft Or: flow \f* out for them \add to drink\add*.
 \b
 \q
-\v 22 “But things will not go well \add like that\add* for wicked people,” says Yahweh.
+\v 22 "But things will not go well \add like that\add* for wicked people," says Yahweh.

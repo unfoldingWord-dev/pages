@@ -59,7 +59,7 @@ foolish\add*.
 \b
 \q
 \v 13 Lazy people just \add stay inside their houses and do nothing\add*;
-\q2 they keep saying “\add I think\add* there is a lion in the street!”
+\q2 they keep saying "\add I think\add* there is a lion in the street!"
 \b
 \q
 \v 14 A door continually swings back and forth on its hinges \add and does not go
@@ -83,7 +83,7 @@ anywhere\add*;
 \v 18 Crazy people who shoot burning arrows to kill people 
 \q
 \v 19 are as foolish as those who deceive someone else 
-\q2 and then say, “I was only joking.” 
+\q2 and then say, "I was only joking." 
 \b
 \q
 \v 20 If there is no more firewood \add to put on the fire\add*, the fire will go out;

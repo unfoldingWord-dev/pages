@@ -1,7 +1,7 @@
 \c 29  
 \s Instructions for dedicating the priests 
 \p
-\v 1 “This is what you must do to dedicate Aaron and his sons to serve me
+\v 1 "This is what you must do to dedicate Aaron and his sons to serve me
 \add by being\add* priests: select one young bull and two rams that do not have any defects.
 \v 2 Bake three \add kinds of bread\add* using finely-ground wheat flour, but without yeast: bake some buns\f + \ft Or: small loaves \f* that
 do not have any olive oil in them, bake some buns that have olive oil in the dough, and bake some thin wafers that will be
@@ -102,4 +102,4 @@ holy\f + \ft Or: sacred \f*.
 \add by being\add* priests. 
 \v 45 I will live among the Israeli people, and I will be their God.
 \v 46 They will know that I am Yahweh God, the one who brought them out of Egypt in order that I might live among them. I am
-Yahweh, their \add almighty\add* God.” 
+Yahweh, their \add almighty\add* God." 

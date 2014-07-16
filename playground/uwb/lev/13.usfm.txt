@@ -2,8 +2,8 @@
 \s Regulations concerning contagious skin diseases 
 \p
 \v 1 Yahweh said this to Aaron and Moses\f + \ft Or: me \f*: 
-\v 2 “When someone has on his skin a swelling or a rash or a shiny\f + \ft Or: bright \f* spot that may become ◄contagious\f + \ft Or: a \f* dreaded skin
-disease►, he must be brought to Aaron or to one of his sons who are also priests.
+\v 2 "When someone has on his skin a swelling or a rash or a shiny\f + \ft Or: bright \f* spot that may become contagious\f + \ft Or: a dreaded skin
+disease \f*, he must be brought to Aaron or to one of his sons who are also priests.
 \v 3 The priest must examine that part of the person's skin. If the hair in that area has become white and it appears that the
 sore is deeper than just on the skin, it is a contagious skin disease. When the priest sees that, he must declare that the
 person must stay away from other people \f + \ft metonymy \f*. 
@@ -88,8 +88,8 @@ itch has healed, and the priest will declare that the person is permitted to be 
 \v 44 the priest will declare that the man has a contagious skin disease and must not be with other people.
 \p
 \v 45 Anyone who has a contagious skin disease must wear torn clothes and not comb his hair.
-\add When he is near other people\add*, he must cover the lower part to his face and call out “Do not come near me! I have a
-contagious skin disease!” 
+\add When he is near other people\add*, he must cover the lower part to his face and call out "Do not come near me! I have a
+contagious skin disease!" 
 \v 46 He is not allowed to be with other people as long as he has the disease. He must live alone, outside the camp.
 \s Regulations concerning mildew 
 \p
@@ -112,4 +112,4 @@ that had the mildew in it.
 \v 58 But after the clothing is washed and the mildew disappears, it must be washed again, and then it can be worn again.
 \p
 \v 59 Those are the regulations concerning mildew on things made of wool or linen or leather, for deciding whether those things
-can continue to be worn or not.” 
+can continue to be worn or not." 

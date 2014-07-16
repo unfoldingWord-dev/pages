@@ -1,7 +1,7 @@
 \c 26  
 \s Instructions for the coverings for the Sacred Tent 
 \p
-\v 1 “\add Tell the people to\add* make the Sacred Tent using ten long strips of fine linen. They must take blue, purple, and
+\v 1 "\add Tell the people to\add* make the Sacred Tent using ten long strips of fine linen. They must take blue, purple, and
 red thread \f + \ft Or: weave the strips from blue, purple, and red thread \f*, and
 \add a skilled craftsman\add* must embroider these strips with \add designs that
 represent\add* the winged creatures \add that are above the chest\add*.
@@ -29,12 +29,12 @@ was\add* one piece.
 \v 13 The extra half yard\f + \ft Or: meter \f* of each cover, the part that extends beyond
 \add the linen cloth\add* on each side, must hang over the two sides of the Sacred Tent, to protect the sides.
 \v 14  \add Tell them to\add* make two more covers for the Sacred Tent. One is to be made from rams' skins that have been
-tanned\f + \ft Or: dyed red \f*, and the top cover is to be made from goatskin leather.”
+tanned\f + \ft Or: dyed red \f*, and the top cover is to be made from goatskin leather."
 \s Instructions for the framework for the Sacred Tent 
 \p
-\v 15 “\add Tell them to\add* make \add forty-eight\add* frames from acacia wood, frames that will be set up
+\v 15 "\add Tell them to\add* make \add forty-eight\add* frames from acacia wood, frames that will be set up
 \add to hang the Sacred Tent covers from them\add*. 
-\v 16 Each frame is to be five yards\f + \ft Or: four meters► long and ◄27 in., Or: 66 cm. \f* wide.
+\v 16 Each frame is to be five yards\f + \ft Or: four meters \f* long and 27 in.\f + \ft Or: 66 cm. \f* wide.
 \v 17  \add They\add* must make two projections at the bottom of each frame. These will be to fasten the frames to the bases
 underneath them. They must make these projections at the bottom of each frame.
 \v 18 Make twenty frames for the south side of the Sacred Tent. 
@@ -61,10 +61,10 @@ side of the Sacred Tent to the other.
 \v 29  \add Tell them to\add* cover the frames with gold, and make gold rings to fasten the crossbars to the frames. The
 crossbars must \add also\add* be covered with gold. 
 \v 30 Erect the Sacred Tent in the way that I have shown you \add here\add* on
-\add this\add* mountain.” 
+\add this\add* mountain." 
 \s Instructions for the Very Holy Place and the curtain 
 \p
-\v 31 “\add Tell them to\add* make a curtain from fine linen. A skilled craftsman must embroider it with blue, purple, and red
+\v 31 "\add Tell them to\add* make a curtain from fine linen. A skilled craftsman must embroider it with blue, purple, and red
 yarn\f + \ft Or: thread \f*, making \add designs to represent\add* the winged creatures
 \add that are above the chest\add*. 
 \v 32  \add Tell them to\add* suspend\f + \ft Or: hang \f* the curtain from four posts made from acacia wood and covered with gold. Set
@@ -81,4 +81,4 @@ cover\f + \ft Or: forgive \f* people's sins.
 linen, and a skilled weaver must embroider it with blue, purple, and red yarn\f + \ft Or: thread \f*.
 \v 37 To hold up this curtain, \add they\add* must make five posts from acacia wood.
 \add They\add* must cover them with gold, and fasten gold clasps\f + \ft Or: fasteners \f* to them. Also
-\add they\add* must make a bronze base for each of these posts.”
+\add they\add* must make a bronze base for each of these posts."

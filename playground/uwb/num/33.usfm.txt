@@ -4,8 +4,8 @@
 \v 1 Here is a list of the places where the\f + \ft Or: we \f* Israelis went as Aaron and Moses\f + \ft Or: I \f* led them\f + \ft Or: us \f* after they\f + \ft Or: we \f* left Egypt.
 \v 2 Yahweh commanded Moses\f + \ft Or: me \f* to write down the names of the places where they\f + \ft Or: we \f* went.
 \pi
-\v 3 On the fifteenth day of the first month \add of the year\add*, the day after we celebrated the ◄Passover\f + \ft Or: the \f* time when
-Yahweh killed all the firstborn sons of the people of Egypt►, they\f + \ft Or: we \f* left Rameses
+\v 3 On the fifteenth day of the first month \add of the year\add*, the day after we celebrated the Passover\f + \ft Or: the time when
+Yahweh killed all the firstborn sons of the people of Egypt \f*, they\f + \ft Or: we \f* left Rameses
 \add city in Egypt\add* and marched boldly while the Egyptian army was coming behind them\f + \ft Or: us \f*.
 \v 4 As they\f + \ft Or: we \f* left, the people of Egypt were still burying the bodies of their firstborn sons.
 \add By killing them\add*, Yahweh showed that the gods that the people of Egypt worshiped were false gods.
@@ -106,7 +106,7 @@ miles\f + \ft Or: km \f*.\add* from Beth-Jeshimoth to Acacia.
 \p
 \v 50 While we were there on the plains of the Moab \add region\add* near the Jordan
 \add River\add*, across from Jericho, Yahweh spoke to Moses\f + \ft Or: me \f*. He said,
-\v 51 “Tell this to the Israeli people: ‘When you cross the Jordan
+\v 51 "Tell this to the Israeli people: 'When you cross the Jordan
 \add River\add* and enter the Canaan \add region\add*, 
 \v 52 you must force all the people who live there to leave. Destroy all their carved statues and all their idols made of
 metal. Wreck all the places where they worship \add their idols\add*.
@@ -117,4 +117,4 @@ metal. Wreck all the places where they worship \add their idols\add*.
 smaller areas to the groups that have fewer people. Each tribe will receive its own land.
 \v 55 If you do not force the people who live there to leave, they will cause you to have much trouble. They will be like sharp
 hooks in your eyes, and like thorns in your sides. And they will bring trouble to you, in that land where you will be living.
-\v 56 And then I will punish you, as I had planned to punish them.’ ”
+\v 56 And then I will punish you, as I had planned to punish them.' "

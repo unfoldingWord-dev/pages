@@ -2,7 +2,7 @@
 \s The boundaries of the land of Canaan 
 \p
 \v 1 Yahweh said to Moses\f + \ft Or: me \f*, 
-\v 2 “Tell this to the Israeli people: ‘You will soon enter Canaan land, and it will become yours. These will be the borders of
+\v 2 "Tell this to the Israeli people: 'You will soon enter Canaan land, and it will become yours. These will be the borders of
 the land: 
 \v 3 On the south you will receive part of the Zin Desert, near the border of the Edom
 \add region\add*. On the east side, the border will start at the south end of the Dead Sea.
@@ -24,16 +24,16 @@ Azmon.
 \add south\add* to Shepham. 
 \v 11 From there it will extend east of Ain to Riblah and then along the hills that are east of Galilee Lake.
 \v 12 Then the border will extend south along the Jordan \add River\add* and end at the Dead Sea.
-\p Those will be the borders around your country.’ ” 
+\p Those will be the borders around your country.' " 
 \p
-\v 13 So Moses\f + \ft Or: I \f* \add told all that\add* to the Israeli people. Then he\f + \ft Or: I \f* said to them, “That is the land that you will
+\v 13 So Moses\f + \ft Or: I \f* \add told all that\add* to the Israeli people. Then he\f + \ft Or: I \f* said to them, "That is the land that you will
 receive. You must throw lots\f + \ft Or: stones that have been marked \f* to decide which area will go to each of the nine and a half tribes,
 because Yahweh has commanded that it should be divided among them.
 \v 14 The tribes of Reuben, Gad, and half of the tribe of Manasseh have already received the land in which they will live.
-\v 15 They have received land on the east side of the Jordan \add River\add*, across from Jericho.”
+\v 15 They have received land on the east side of the Jordan \add River\add*, across from Jericho."
 \p
 \v 16 Then Yahweh said to Moses\f + \ft Or: me \f*, 
-\v 17 “These are the men who will divide the land: first, Eleazar and Joshua.
+\v 17 "These are the men who will divide the land: first, Eleazar and Joshua.
 \v 18 But other leaders \add from each of the twelve tribes will help them divide the
 land\add*. 
 \q
@@ -46,6 +46,6 @@ land\add*.
 \li From the tribe of Zebulun appoint Parnach's son Elizaphan. 
 \li From the tribe of Issachar appoint Azzan's son Paltiel. 
 \li From the tribe of Asher appoint Shelomi's son Ahihud. 
-\li From the tribe of Naphtali appoint Ammihud's son Pedahel.” 
+\li From the tribe of Naphtali appoint Ammihud's son Pedahel." 
 \p
 \v 29 Yahweh commanded that all those were the men who should divide the Canaan region among the Israeli people.

@@ -1,6 +1,6 @@
 \c 32  
 \q
-\v 1 “Listen to me, \add all you who are in the\add* heavens, 
+\v 1 "Listen to me, \add all you who are in the\add* heavens, 
 \q2 and \add all you who are on the\add* earth, listen to what I say \f + \ft metonymy \f*.
 \q
 \v 2 I wish\f + \ft Or: desire \f* that my teaching will fall on you like rain drops
@@ -22,9 +22,9 @@
 \q2 You are extremely wicked and deceitful \f + \ft doublet \f*. 
 \q
 \v 6 You foolish and senseless \f + \ft doublet \f* people, 
-\q2 ◄is this the way that you should repay Yahweh \add for all that he has done for
-you\add*?\f + \ft Or: this \f* is certainly not the way that you should repay Yahweh
-\add for all that he has done for you\add*.► \f + \ft rhetorical question \f* 
+\q2 is this the way that you should repay Yahweh \add for all that he has done for
+you\add*?\f + \ft Or: this is certainly not the way that you should repay Yahweh
+\add for all that he has done for you\add*. \f* \f + \ft rhetorical question \f* 
 \q He is your father; he created you \f + \ft rhetorical question \f*; 
 \q2 he caused you to become a nation. 
 \b
@@ -91,7 +91,7 @@ them\add*,
 \v 19 When Yahweh saw that \add they had abandoned him\add*, he became angry,
 \q2 so he rejected \add the Israeli people who are like\add* his sons and daughters.
 \q
-\v 20 He said, ‘They are very wicked\f + \ft Or: stubborn \f* people, 
+\v 20 He said, 'They are very wicked\f + \ft Or: stubborn \f* people, 
 \q2 very unfaithful; 
 \q so I will no longer help them, 
 \q2 and then I will watch and see what happens to them. 
@@ -125,8 +125,8 @@ me\add*.
 \q
 \v 27 But \add if I did that\add*, their enemies would wrongly boast
 \q2 that they were the ones who had \add gotten rid of my people\add*;
-\q they would say, “We \f + \ft synecdoche \f* are the ones who defeated them; 
-\q2 it was not Yahweh who has done all these things.” ’ 
+\q they would say, "We \f + \ft synecdoche \f* are the ones who defeated them; 
+\q2 it was not Yahweh who has done all these things." ' 
 \b
 \q
 \v 28 You Israelis are a nation of people who do not have any sense.
@@ -154,7 +154,7 @@ of\add* Sodom and Gomorrah \add cities\add*;
 \v 33 the wine \add from those grapes\add* is like the poison of snakes \f + \ft doublet \f*.
 \b
 \q
-\v 34  \add Yahweh says\add*, ‘I know \f + \ft rhetorical question \f* \add what I have planned to do to the Israeli people and to their
+\v 34  \add Yahweh says\add*, 'I know \f + \ft rhetorical question \f* \add what I have planned to do to the Israeli people and to their
 enemies\add*, 
 \q2 and I have locked up those plans \add as someone would lock up his valuable
 possessions\add* \f + \ft metaphor \f*. 
@@ -163,7 +163,7 @@ possessions\add* \f + \ft metaphor \f*.
 \add to my people\add*, 
 \q2 at the right time for them to be punished [IDI]; 
 \q they will soon experience disasters, 
-\q2 and I will punish\f + \ft Or: destroy \f* them quickly.’ 
+\q2 and I will punish\f + \ft Or: destroy \f* them quickly.' 
 \b
 \q
 \v 36 But Yahweh will say that you who are truly his people are innocent\f + \ft Or: have not done things that are wrong \f*,
@@ -171,7 +171,7 @@ possessions\add* \f + \ft metaphor \f*.
 \q when he sees that you are helpless, 
 \q2 and that there are very few of you, slaves or free people, who are still alive.
 \q
-\v 37 Then Yahweh will ask you, ‘Where are the gods 
+\v 37 Then Yahweh will ask you, 'Where are the gods 
 \q2 that you thought would protect you \f + \ft metaphor \f*? 
 \q
 \v 38 You gave to those gods the best parts of the animals that you sacrificed,
@@ -197,29 +197,29 @@ possessions\add* \f + \ft metaphor \f*.
 \v 42 I will kill all \add of my enemies\add* with a sword; 
 \q2 it will be as though I had arrows that will be covered with their blood.
 \q I will kill \f + \ft metonymy \f* all those whom I capture 
-\q2 and cut off their long-haired heads.’ 
+\q2 and cut off their long-haired heads.' 
 \b
 \q
 \v 43 You people of all nations, you should praise Yahweh's people,
 \q2 because Yahweh gets revenge on those who kill the people who serve him;
 \q and he cleanses his people's land 
-\q2 which has become defiled because of their sins.” 
+\q2 which has become defiled because of their sins." 
 \b
 \p
 \v 44 Joshua and Moses\f + \ft Or: I \f* sang\f + \ft Or: recited \f* that song while the Israeli people were listening.
 \v 45 When they\f + \ft Or: we \f* finished singing to them this song, 
-\v 46 Moses\f + \ft Or: I \f* said, “Never forget all these commands that I have been giving you today. Teach these laws to your children, in
+\v 46 Moses\f + \ft Or: I \f* said, "Never forget all these commands that I have been giving you today. Teach these laws to your children, in
 order that they will faithfully obey all of them. 
 \v 47 These instructions are very important \f + \ft litotes \f*. \add If you obey\add* them, you will live a long time in the land that you
-are about to cross the Jordan \add River\add* to occupy.” 
+are about to cross the Jordan \add River\add* to occupy." 
 \s God told Moses that he would see the land from far away 
 \p
 \v 48 On that same day, Yahweh said to Moses\f + \ft Or: me \f*, 
-\v 49 “Go to the Abarim mountain range \add here\add* in the Moab region, across from Jericho. Climb Nebo Mountain, and look
+\v 49 "Go to the Abarim mountain range \add here\add* in the Moab region, across from Jericho. Climb Nebo Mountain, and look
 \add toward the west\add* to see Canaan land, the land that I am about to give to the Israeli people.
 \v 50 You will die on that mountain \f + \ft euphemism, doublet \f*, like your \add older\add* brother Aaron died on Hor Mountain.
 \v 51 You will die because both of you disobeyed me in the presence of the Israeli people, when you all were at Meribah Springs
 near Kadesh \add town\add* in the Zin Desert. You did not honor and respect me in the presence of the Israeli people in the way
 that I deserve because I am God. 
 \v 52  \add When you are on that mountain where I told you to go\add*, you will see in the distance in front of you the land
-that I am about to give to the Israeli people, but you will not enter it.”
+that I am about to give to the Israeli people, but you will not enter it."

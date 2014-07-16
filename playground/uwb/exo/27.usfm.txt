@@ -1,8 +1,8 @@
 \c 27  
 \s Instructions for the altar 
 \p
-\v 1 “Tell them to make an altar from acacia wood. It is to be square, 7-1\f + \ft Or: 2 ft.( Or: 2 ).2 meters \f* on each side, and make it ◄4-1, Or: 2
-ft.\f + \ft Or: 1 \f*.3 meters► high. 
+\v 1 "Tell them to make an altar from acacia wood. It is to be square, 7-1\f + \ft Or: 2 ft., Or: 2.2 meters \f* on each side, and make it 4-1\f + \ft Or: 2
+ft.( Or: 1 ).3 meters \f* high. 
 \v 2  \add They\add* must make \add a projection that looks like\add* a horn on each of the top corners. The projections must
 be carved from the same block of wood as the altar. \add Tell them
 to\add* cover the whole altar with gold. 
@@ -17,10 +17,10 @@ corners of the altar a bronze ring for carrying the altar.
 \v 7  \add They must\add* put the poles through the rings on each side of the altar. The poles are for carrying the altar.
 \v 8 The altar will be like a box, made from boards \add of acacia
 wood\add*. \add They must\add* make it according to these instructions that I am giving you
-\add here\add* on \add this\add* mountain.” 
+\add here\add* on \add this\add* mountain." 
 \s Instructions for the courtyard 
 \p
-\v 9 “Around the Sacred Tent there is to be a courtyard. To form the courtyard,
+\v 9 "Around the Sacred Tent there is to be a courtyard. To form the courtyard,
 \add tell them to\add* make curtains of fine linen. On the south side, the curtain is to be 50 yards\f + \ft Or: 44 meters \f* long.
 \v 10  \add To support\f + \ft Or: hang \f* the curtain\add*, \add tell them to\add* make twenty bronze posts, and one bronze base for each
 post. To fasten the curtains to the posts, \add they must\add* make silver hooks, and
@@ -37,7 +37,7 @@ and red yarn\f + \ft Or: thread \f*. It must be supported by\f + \ft Or: hung fr
 \v 17 All the posts around the courtyard must be connected with metal rods covered with silver. The clasps\f + \ft Or: fasteners \f* must be
 made of silver, and the bases must be made of bronze. 
 \v 18 The whole courtyard, \add from the east entrance to the west
-end\add*, must be 50 yards\f + \ft Or: 44 meters► long, and the curtains that enclose it must be ◄7.5 ft., Or: 2.2 meters \f* high. All the
+end\add*, must be 50 yards\f + \ft Or: 44 meters \f* long, and the curtains that enclose it must be 7.5 ft.\f + \ft Or: 2.2 meters \f* high. All the
 curtains must be made of fine linen, and all the bases \add under the
 posts\add* must be made of bronze. 
 \v 19 All the things that are not made of gold that are to be used inside the Sacred Tent and in the courtyard, and all the
@@ -49,4 +49,4 @@ tent pegs to support the Sacred Tent and the curtains, must be made of bronze.
 \add sacred chest which contains the stone slabs on which I have
 written\add* my commandments. Aaron must take care of the lamps.
 \add After he dies\add*, his descendants must do this work. The lamps are to burn every night, from evening until morning. The
-Israeli people must obey this regulation throughout all future generations.”
+Israeli people must obey this regulation throughout all future generations."

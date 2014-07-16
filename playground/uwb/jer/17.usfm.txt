@@ -1,7 +1,7 @@
 \c 17  
 \s Yahweh's promise to punish Judah 
 \q
-\v 1  \add Yahweh said, “It is as though a list of\add* the sins
+\v 1  \add Yahweh said, "It is as though a list of\add* the sins
 \add committed by the people of\add* Judah is engraved with an iron chisel, or engraved using the fine point of a very hard
 stone, 
 \q2 on the altars \add where they worship idols\add*. 
@@ -23,10 +23,10 @@ gods\add*, and to the poles \add that represent the goddess\add* Asherah
 \q2 and you will become their slaves. 
 \q \add I will do that\add* because I am extremely angry \add with
 you\add*; 
-\q2 my being angry is like a fire that will burn forever.” 
+\q2 my being angry is like a fire that will burn forever." 
 \p
 \v 5 This is also what Yahweh says: 
-\q “I will curse\f + \ft Or: condemn \f* those who trust in human beings \add to help
+\q "I will curse\f + \ft Or: condemn \f* those who trust in human beings \add to help
 them\add*, 
 \q2 those who rely on their own strength 
 \q2 and turn away from me with their inner beings. 
@@ -54,7 +54,7 @@ them\add*,
 \v 10 But I, Yahweh, search what is in everyone's inner being, 
 \q2 and I examine what they are thinking. 
 \q I will give all people rewards, 
-\q2 what they deserve for what they have done.” 
+\q2 what they deserve for what they have done." 
 \b
 \q
 \v 11  \add I, Jeremiah, agree, because I know that\add* people who become rich by doing things that are unjust
@@ -80,8 +80,8 @@ disappear\add*,
 \q2 because you are the only one whom I praise. 
 \q
 \v 15 People often ridicule me and say, 
-\q “You tell us messages that you say came from Yahweh, 
-\q2 but why have the things that you predicted not happened?\f + \ft Or: those predictions have not come true! \f*” \f + \ft rhetorical question \f*
+\q "You tell us messages that you say came from Yahweh, 
+\q2 but why have the things that you predicted not happened?\f + \ft Or: those predictions have not come true! \f*" \f + \ft rhetorical question \f*
 \q
 \v 16 Yahweh, you \add appointed me to take care of your people like\add* a shepherd
 \add takes care of his sheep\add* \f + \ft metaphor \f*; I have not abandoned that work,
@@ -98,14 +98,14 @@ disappear\add*,
 \q2 Do to them many things that will completely destroy them! 
 \s Keeping the Sabbath day holy 
 \p
-\v 19 This is what Yahweh said to me: “Go to the city gates in Jerusalem. First go to the gate where the kings of Judah go in
+\v 19 This is what Yahweh said to me: "Go to the city gates in Jerusalem. First go to the gate where the kings of Judah go in
 and out of the city, and then go to each of the other gates. 
-\v 20 Say to the people \add at each gate\add*, ‘You kings of Judah and everyone else who is living in Jerusalem and all you
+\v 20 Say to the people \add at each gate\add*, 'You kings of Judah and everyone else who is living in Jerusalem and all you
 other people of Judah who enter these gates, listen to this message from Yahweh!
-\v 21 He says, “Listen to this warning carefully! Stop \add doing work on Sabbath\f + \ft Or: our rest \f*
+\v 21 He says, "Listen to this warning carefully! Stop \add doing work on Sabbath\f + \ft Or: our rest \f*
 days\add*! Stop carrying loads through these gates on those days!
-\v 22 Do not carry loads out of your houses or do any other work on Sabbath days! Instead, cause Sabbath days to be ◄holy\f + \ft Or: set \f*
-apart for me►. I commanded your ancestors to do that, 
+\v 22 Do not carry loads out of your houses or do any other work on Sabbath days! Instead, cause Sabbath days to be holy\f + \ft Or: set
+apart for me \f*. I commanded your ancestors to do that, 
 \v 23 but they did not listen to me or obey me. When I did things to correct them, they stubbornly [IDI] refused to pay
 attention to what I said or to accept it. 
 \v 24 But I say that if you obey me, and if you do not carry loads through these gates
@@ -119,4 +119,4 @@ these gates, riding in chariots and on horses, and there will be people living i
 the tribe of Benjamin lives and from the western foothills and from the desert in the south.
 \v 27 But if you do not pay attention to what I say, and if you refuse to dedicate the Sabbath days to me, and if you continue
 to carry loads through these gates into the city on Sabbath days, I will burn these gates completely. The fire will spread to
-the palaces, and no one will be able to put out that fire.” ’ ” 
+the palaces, and no one will be able to put out that fire." ' " 

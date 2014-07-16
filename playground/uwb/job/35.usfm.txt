@@ -3,11 +3,11 @@
 \p
 \v 1 Then Elihu also said this: 
 \q
-\v 2 “\add Job\add*, do you think that what you said is right\f + \ft Or: correct \f*?
-\q You say, ‘God knows that I am innocent,’ 
+\v 2 "\add Job\add*, do you think that what you said is right\f + \ft Or: correct \f*?
+\q You say, 'God knows that I am innocent,' 
 \q
-\v 3 and you say to God, ‘What good have I received for not sinning?
-\q2 What benefit have I received from that?’ \f + \ft doublet, rhetorical question \f* 
+\v 3 and you say to God, 'What good have I received for not sinning?
+\q2 What benefit have I received from that?' \f + \ft doublet, rhetorical question \f* 
 \q
 \v 4 Well, I will answer you, 
 \q2 and I will answer your three friends, too. 
@@ -31,12 +31,12 @@
 \q2 they call for help because of the things that powerful people do \f + \ft metonymy \f* to them.
 \q
 \v 10 But no one\f + \ft Or: none of them \f* calls out \add to God\add*, 
-\q2 saying ‘Why does God, my creator, \add not help me\add*? 
+\q2 saying 'Why does God, my creator, \add not help me\add*? 
 \q2 He should enable me to sing \add joyful\add* songs, \add instead of very sad
 songs\add*, during the night. 
 \q
 \v 11 He \add should be able to\add* teach us more than all the wild animals do;
-\q2 he should enable us to become wiser than all the birds are!’
+\q2 he should enable us to become wiser than all the birds are!'
 \q
 \v 12 People cry out \add for help\add*, 
 \q2 but God does not answer them, 
@@ -55,4 +55,4 @@ done\add*,
 \q
 \v 16 You say things that are useless; 
 \q2 you say a lot of things without knowing \add what you are talking
-about\add*.” 
+about\add*." 

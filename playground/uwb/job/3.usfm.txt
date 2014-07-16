@@ -4,7 +4,7 @@
 \v 1 Finally, Job spoke, and he cursed the day that he was born.
 \v 2 He said, 
 \q
-\v 3 “I wish that the day when I was born could be eradicated, 
+\v 3 "I wish that the day when I was born could be eradicated, 
 \q2 and also the night when I was conceived. 
 \q
 \v 4 I wish that the day when I was born would have become darkness.
@@ -65,9 +65,9 @@ died\add*.
 \q2 and those who were slaves are no longer controlled by their masters.
 \b
 \q
-\v 20 ◄Why does God allow those who are suffering greatly \add like
-me\add* to continue to remain alive?\f + \ft Or: I \f* do not understand why God allows those who are suffering greatly
-\add like me\add* to continue to remain alive.► \f + \ft rhetorical question \f* 
+\v 20 Why does God allow those who are suffering greatly \add like
+me\add* to continue to remain alive?\f + \ft Or: I do not understand why God allows those who are suffering greatly
+\add like me\add* to continue to remain alive. \f* \f + \ft rhetorical question \f* 
 \q2 Why does he allow those who are very miserable\f + \ft Or: distressed \f* to keep living \f + \ft rhetorical question \f*?
 \q
 \v 21 They long\f + \ft Or: want \f* to die, but they do not die. 
@@ -88,4 +88,4 @@ me\add* to continue to remain alive?\f + \ft Or: I \f* do not understand why God
 \v 26 Now I have no peace \add in my inner being\add*, 
 \q2 I have no quietness; 
 \q I cannot rest; 
-\q2 instead, I have only troubles.” 
+\q2 instead, I have only troubles." 

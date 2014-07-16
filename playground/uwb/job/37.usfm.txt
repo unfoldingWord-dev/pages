@@ -1,7 +1,7 @@
 \c 37  
 \s Elihu continued his final speech 
 \q
-\v 1 “My heart thumps wildly \f + \ft doublet \f* when \add I think about\add* that.
+\v 1 "My heart thumps wildly \f + \ft doublet \f* when \add I think about\add* that.
 \q
 \v 2 Listen, all of you, to the thunder, 
 \q2 which is like God's voice \f + \ft doublet \f*. 
@@ -45,19 +45,19 @@ start\add*,
 \v 14 Job, listen to this; 
 \q2 stop and think about the wonderful things that God does. 
 \q
-\v 15 ◄Do you know how God commands the lightning to flash down from his clouds?\f + \ft Or: We \f* do not know how God commands the lightning
-to flash down from his clouds.► \f + \ft rhetorical question \f* 
+\v 15 Do you know how God commands the lightning to flash down from his clouds?\f + \ft Or: We do not know how God commands the lightning
+to flash down from his clouds. \f* \f + \ft rhetorical question \f* 
 \q
 \v 16 Only God knows everything perfectly; 
-\q2 so ◄do you know how he causes the clouds to ‘move\f + \ft Or: float \f*’ ‘amazingly\f + \ft Or: wonderfully \f*’ across the sky?\f + \ft Or: you \f* certainly do not know
-how he causes the clouds to ‘move\f + \ft Or: float \f*’ ‘amazingly\f + \ft Or: wonderfully \f*’ across the sky!► \f + \ft rhetorical question \f*
+\q2 so do you know how he causes the clouds to 'move\f + \ft Or: float' 'amazingly( Or: wonderfully )' across the sky?, Or: you certainly do not know
+how he causes the clouds to 'move\f + \ft Or: float \f*' 'amazingly\f + \ft Or: wonderfully \f*' across the sky! \f* \f + \ft rhetorical question \f*
 \q
 \v 17 No, you just sweat there in your clothes; 
 \q2 \add it is very oppressive\add* when the \add hot\add* wind stops blowing from the south and
 \add all the leaves on the trees\add* become still\f + \ft Or: do not move \f*.
 \q
-\v 18 ◄Can you stretch out the skies like God does and make them as hard as \f + \ft simile \f* a sheet of polished brass?\f + \ft Or: You \f* certainly
-cannot stretch out the skies like God does and make them as hard as \f + \ft simile \f* a sheet of polished brass!► \f + \ft rhetorical question \f*
+\v 18 Can you stretch out the skies like God does and make them as hard as \f + \ft simile \f* a sheet of polished brass?\f + \ft Or: You certainly
+cannot stretch out the skies like God does and make them as hard as ( simile ) a sheet of polished brass! \f* \f + \ft rhetorical question \f*
 \b
 \q
 \v 19 Job, tell us(exc) what we should say to God; 
@@ -80,4 +80,4 @@ cannot stretch out the skies like God does and make them as hard as \f + \ft sim
 \q2 and he will never oppress us. 
 \q
 \v 24 That is the reason that we have an awesome respect for him;
-\q2 he does not pay attention to those who proudly, \add but wrongly\add*, think that they are wise.”
+\q2 he does not pay attention to those who proudly, \add but wrongly\add*, think that they are wise."

@@ -3,7 +3,7 @@
 \p
 \v 1 Then Yahweh spoke to Job from inside a great windstorm. He said to him,
 \q
-\v 2 “Who are you to question what I plan to do?\f + \ft Or: You have no right, Or: authority to question what I plan to do. \f* \f + \ft rhetorical question \f*
+\v 2 "Who are you to question what I plan to do?\f + \ft Or: You have no right, Or: authority to question what I plan to do. \f* \f + \ft rhetorical question \f*
 \q2 You are speaking ignorantly! 
 \q
 \v 3 I want to ask you some questions, 
@@ -11,7 +11,7 @@
 \q2 prepare to answer my questions. 
 \b
 \q
-\v 4 Where were you\f + \ft Or: Were you there with me► \add long ago\add* when I ◄laid the foundations of, Or: created \f* the earth?
+\v 4 Where were you\f + \ft Or: Were you there with me \f* \add long ago\add* when I laid the foundations of\f + \ft Or: created \f* the earth?
 \q2 Since you know so much, tell me \add where you were at that time\add*.
 \q
 \v 5 Do you know how I decided how large the earth would be? 
@@ -36,8 +36,8 @@
 land\add*. 
 \q
 \v 11  \add I pointed to the shore\add* and said to the water, 
-\q2 ‘I permit you to come up to here, but I do not permit you to come any farther.
-\q2 Your powerful waves must stop there!’ 
+\q2 'I permit you to come up to here, but I do not permit you to come any farther.
+\q2 Your powerful waves must stop there!' 
 \b
 \q
 \v 12 Job, have you ever commanded the morning \add to begin\add*?
@@ -98,8 +98,8 @@ people\add* when they have troubles,
 \v 28 Does the rain have a father? 
 \q2 Does the dew also have a father? 
 \q
-\v 29 And from whose womb does ice come \add in the ◄winter\f + \ft Or: cold \f*
-season►\add*? 
+\v 29 And from whose womb does ice come \add in the winter\f + \ft Or: cold
+season \f*\add*? 
 \q2 Who gives birth to the frost that comes down from the sky? 
 \q
 \v 30  \add In the winter\add*, the water \add freezes and\add* becomes hard, like a rock,
@@ -119,7 +119,7 @@ are\add* the Big Bear and the Little Bear?
 \v 34 Can you shout to the clouds and cause rain to pour down on you?
 \q
 \v 35 Can you cause flashes of lightning to come down and strike where you want it to strike?
-\q2 Do those flashes say to you, ‘Where do you want us to strike next?’
+\q2 Do those flashes say to you, 'Where do you want us to strike next?'
 \q
 \v 36 Who enables the clouds to know when they should cause rain to fall?
 \q
@@ -139,4 +139,4 @@ fall\add*,
 \v 41 Who provides dead animals for crows, 
 \q2 when the baby crows are calling out to me \add for food\add*,
 \q2 \add when they are so weak\add* because of their lack of food that they stagger around\f + \ft Or: can hardly stand up \f*
-\add in their nests\add*?” 
+\add in their nests\add*?" 

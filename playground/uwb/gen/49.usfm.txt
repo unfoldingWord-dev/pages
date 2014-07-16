@@ -3,7 +3,7 @@
 \p
 \v 1 Jacob summoned all his sons, and said to them, 
 \q
-\v 2 “Gather around close to me in order that I can tell you what will happen in the future.
+\v 2 "Gather around close to me in order that I can tell you what will happen in the future.
 \q My sons, come and listen to me. 
 \q I am your father, Jacob. 
 \q
@@ -24,11 +24,11 @@
 \v 6 I do not want to be with you when you make evil plans \f + \ft doublet \f*.
 \q I do not want to join you in your meetings, 
 \q because you killed people when you became very angry, 
-\q and you hamstrung\f + \ft Or: cut the tendons in the legs of► oxen just to ◄have fun, Or: see them suffer \f*.
+\q and you hamstrung\f + \ft Or: cut the tendons in the legs of \f* oxen just to have fun\f + \ft Or: see them suffer \f*.
 \q
-\v 7 God says, ‘I will curse\f + \ft Or: cause bad things to happen to \f* them for being very angry,
+\v 7 God says, 'I will curse\f + \ft Or: cause bad things to happen to \f* them for being very angry,
 \q for acting very cruelly when they were very furious. 
-\q I will scatter their descendants \f + \ft metonymy \f* throughout Israel land.’
+\q I will scatter their descendants \f + \ft metonymy \f* throughout Israel land.'
 \q
 \v 8 Judah, your \add older and younger\add* brothers will praise you.
 \q They will bow down before you, 
@@ -72,12 +72,12 @@
 \v 17 Your descendants will be like snakes at the side of a road,
 \q like poisonous snakes lying beside a path. 
 \q They will strike the heels of horses that pass by, 
-\q causing the riders to fall backwards as the horses rear up on their hind legs.”
+\q causing the riders to fall backwards as the horses rear up on their hind legs."
 \p
-\v 18 Then Jacob prayed, “Yahweh, I am waiting for you to rescue me from my enemies.”
+\v 18 Then Jacob prayed, "Yahweh, I am waiting for you to rescue me from my enemies."
 \p
 \v 19 Then Jacob continued telling his sons what would happen in the future. He said,
-\q “Gad, your tribe\f + \ft Or: descendants \f* will be attacked by a group of bandits,
+\q "Gad, your tribe\f + \ft Or: descendants \f* will be attacked by a group of bandits,
 \q but your tribe\f + \ft Or: descendants \f* will pursue and attack them \f + \ft metonymy \f*.
 \q
 \v 20 Asher, your descendants will eat good-tasting food; 
@@ -116,20 +116,20 @@ brother\add*.
 \v 27 Benjamin, your descendants will be like \f + \ft metaphor \f* vicious\f + \ft Or: fierce \f* wolves:
 \q In the morning they will kill their enemies 
 \q like a wolf devours its prey\f + \ft Or: the animals that it has killed \f*,
-\q and in the evening they will divide among their warriors the spoils that they seized from their enemies.”
+\q and in the evening they will divide among their warriors the spoils that they seized from their enemies."
 \p
 \v 28 Those twelve sons are the ancestors of the twelve tribes of Israel. That is what their father said to them as he blessed
 them, telling to each one words that were appropriate for him. 
 \s Jacob died 
 \p
-\v 29 Then Jacob said to his sons, “I will soon die and join my ancestors \f + \ft euphemism \f* who have already died. Bury my body where some
+\v 29 Then Jacob said to his sons, "I will soon die and join my ancestors \f + \ft euphemism \f* who have already died. Bury my body where some
 of my ancestors are buried, in the cave that is in the field that was bought from Ephron, who belonged to the Heth
 people-group. 
 \v 30 That field is in the Machpelah area, east of Mamre \add town\add*, in Canaan land. My grandfather Abraham bought it from
 Ephron to use as a burial place. 
 \v 31 That is where they buried him and his wife Sarah. That is where they buried my father Isaac and his wife Rebekah. And
 that is where I buried my wife Leah. 
-\v 32 That field and the cave in it were bought from the Heth people-group; so that is where I want you to bury me.”
+\v 32 That field and the cave in it were bought from the Heth people-group; so that is where I want you to bury me."
 \p
 \v 33 When Jacob finished giving those instructions to his sons, he lay down on his bed again. Then he stopped breathing and
 died [IDI]. 

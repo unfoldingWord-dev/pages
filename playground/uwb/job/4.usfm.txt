@@ -3,7 +3,7 @@
 \p
 \v 1 Then Eliphaz replied to Job. He said, 
 \q
-\v 2 “Will you please allow me to say something to you? 
+\v 2 "Will you please allow me to say something to you? 
 \q2 I am not \f + \ft rhetorical question \f* able to remain silent \add any longer\add*. 
 \q
 \v 3 In the past, you have instructed\f + \ft Or: taught \f* many people, 
@@ -15,8 +15,8 @@
 \v 5 But now, when you experience disasters, you become discouraged.
 \q2 The disasters hit you, and you are stunned. 
 \q
-\v 6 You revere God; ◄does that not cause you to trust \add in him\add*?\f + \ft Or: that \f* should cause you to trust
-\add in him\add*.► \f + \ft rhetorical question \f* 
+\v 6 You revere God; does that not cause you to trust \add in him\add*?\f + \ft Or: that should cause you to trust
+\add in him\add*. \f* \f + \ft rhetorical question \f* 
 \q2 If you were guiltless, you would \f + \ft rhetorical question \f* be confident that \add God\add* would not
 \add have allowed\add* these disasters to happen to you! 
 \b
@@ -56,7 +56,7 @@ young\add* \f + \ft rhetorical question \f*?
 \q2 But \add I could sense that\add* there was some being in front of me,
 \q and it said in a quiet voice, 
 \q
-\v 17 ‘Can human beings be righteous in God's sight?\f + \ft Or: No human beings can be righteous in God's sight! \f* \f + \ft rhetorical question \f*
+\v 17 'Can human beings be righteous in God's sight?\f + \ft Or: No human beings can be righteous in God's sight! \f* \f + \ft rhetorical question \f*
 \q Their creator cannot consider them to be pure.\f + \ft Or: Can their creator consider them to be pure? \f* \f + \ft rhetorical question \f*
 \q
 \v 18 God cannot be sure that his own angels \add will always do what is
@@ -70,4 +70,4 @@ right\add*;
 \q2 They are gone forever and do not even know it \f + \ft Or: and no one pays any attention to it \f*.
 \q
 \v 21 They are like \f + \ft metaphor \f* tents that collapse \add suddenly:\add*
-\q2 they die \add suddenly\add* without becoming wise.’ ” 
+\q2 they die \add suddenly\add* without becoming wise.' " 

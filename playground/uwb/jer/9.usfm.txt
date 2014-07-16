@@ -13,7 +13,7 @@
 \s Yahweh replied to Jeremiah 
 \p
 \v 3  \add Yahweh replied to me\add*, 
-\q “They use their tongues \add to tell\add* \f + \ft metaphor \f* lies 
+\q "They use their tongues \add to tell\add* \f + \ft metaphor \f* lies 
 \q2 like people shoot \add arrows\add* with bows. 
 \q It is because they tell lies that they have become more powerful in this land,
 \q2 and they do not know me. 
@@ -39,33 +39,33 @@ people\add*,
 \q2 there is absolutely nothing else \f + \ft rhetorical question \f* that I can do. 
 \q
 \v 8 What they say \f + \ft metonymy \f* \add injures people like\add* \f + \ft metaphor \f* poisoned arrows do.
-\q They say to their neighbors, ‘I hope things will go well for you,’
+\q They say to their neighbors, 'I hope things will go well for you,'
 \q2 while they are planning to kill them. 
 \q
 \v 9 Should I not punish them for doing that \f + \ft rhetorical question \f*? 
-\q2 Yes, I should certainly get revenge on\f + \ft Or: give what they deserve to \f* the people of a nation that does things like that!”
+\q2 Yes, I should certainly get revenge on\f + \ft Or: give what they deserve to \f* the people of a nation that does things like that!"
 \b
 \q
-\v 10 So, I will weep and wail for \add the people who live in\add* the mountains and in the ◄pastures\f + \ft Or: places \f* where the
-livestock eat the grass►, 
+\v 10 So, I will weep and wail for \add the people who live in\add* the mountains and in the pastures\f + \ft Or: places where the
+livestock eat the grass \f*, 
 \q2 because those areas will be desolate, and no one will live there.
 \q There will be no cattle there to call to each other, 
 \q2 and all the birds and wild animals will have fled \add to other
 places\add*. 
 \b
 \q
-\v 11 Yahweh also says, “I will cause Jerusalem to become a heap of ruins,
+\v 11 Yahweh also says, "I will cause Jerusalem to become a heap of ruins,
 \q2 and only jackals\f + \ft Or: wolves \f* will live there. 
 \q I will destroy the towns of Judah, with the result that they will be completely deserted;
-\q2 no people will live there.” 
+\q2 no people will live there." 
 \b
 \p
-\v 12  \add I said\add*,, “Only people who are very wise \f + \ft rhetorical question \f* can understand these things.
+\v 12  \add I said\add*,, "Only people who are very wise \f + \ft rhetorical question \f* can understand these things.
 \q2 Only those who have been taught by Yahweh can \f + \ft rhetorical question \f* explain these things to others.
 \q The wise people are \f + \ft rhetorical question \f* the only ones who can explain why the land will be completely ruined
-\q2 with the result that everyone \f + \ft rhetorical question \f* will be afraid to travel through it.”
+\q2 with the result that everyone \f + \ft rhetorical question \f* will be afraid to travel through it."
 \p
-\v 13 Yahweh replied, “These things will happen because my people have rejected my laws which I gave to them;
+\v 13 Yahweh replied, "These things will happen because my people have rejected my laws which I gave to them;
 \q2 they have not obeyed me or my instructions. 
 \q
 \v 14 Instead, they have stubbornly done the things that they wanted in their inner beings to do.
@@ -77,21 +77,21 @@ places\add*.
 \q
 \v 16 I will scatter them to many nations which neither they nor their ancestors have known anything about;
 \q2 I will \add enable their enemies to\add* strike them with swords
-\q2 until I have destroyed them.” 
+\q2 until I have destroyed them." 
 \b
 \p
 \v 17 This is what the Almighty Commander of the armies of angels says:
-\q “Think about \add what is happening\add*, 
+\q "Think about \add what is happening\add*, 
 \q2 then summon those women who mourn \add when someone has died\add*.
 \q
 \v 18 Tell them to come quickly and start to wail, 
 \q2 with the result that tears will stream down from your(pl) eyes.
 \q
 \v 19 Listen to the people of Jerusalem crying\f + \ft Or: lamenting \f*, saying,
-\q2 ‘We have been ruined\f + \ft Or: destroyed \f*! 
+\q2 'We have been ruined\f + \ft Or: destroyed \f*! 
 \q2 We have experienced a terrible disaster! 
 \q Now we are very ashamed, 
-\q2 because our houses have been destroyed \add by our enemies\add*, and we are being forced to leave our land.’ ”
+\q2 because our houses have been destroyed \add by our enemies\add*, and we are being forced to leave our land.' "
 \b
 \q
 \v 20 You women, listen to what Yahweh says \f + \ft metonymy \f*. 
@@ -108,7 +108,7 @@ places\add*.
 \q2 and there will be no one \add still alive\add* to bury them.
 \p
 \v 23 Yahweh says this: 
-\q “Wise men should not boast about their being wise, 
+\q "Wise men should not boast about their being wise, 
 \q2 strong men should not boast about their being strong; 
 \q2 and rich people should not boast about their being rich. 
 \q
@@ -126,4 +126,4 @@ people-group and of the Ammon people-group,
 \q2 all those people who have \add changed their bodies by\add* circumcising them \f + \ft metaphor \f*
 \q2 but who have not \add changed\add* their inner beings. 
 \q I will punish the people of Judah also, 
-\q2 because they have not changed their inner beings, either.” 
+\q2 because they have not changed their inner beings, either." 

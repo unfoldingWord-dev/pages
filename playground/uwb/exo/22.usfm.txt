@@ -1,7 +1,7 @@
 \c 22  
 \s Laws regarding possessions 
 \p
-\v 1 Yahweh also said, “If someone steals a bull or a sheep, and then slaughters it
+\v 1 Yahweh also said, "If someone steals a bull or a sheep, and then slaughters it
 \add to sell it or to sacrifice it\add* or sells its \add meat to someone
 else\add*, he must pay five bulls for the bull \add that he stole\add*, and
 \add he must pay\add* four sheep for the sheep \add that he stole\add*.
@@ -51,10 +51,10 @@ killed and show it to the animal's owner. If he does that, he will not have to p
 must pay the owner for the animal. 
 \v 15 But if that happens when the owner of the animal is there, the one who borrowed it will not have to pay back anything. If
 the man who borrowed it only rented it, the money that he paid to rent it will be enough to pay for the animal
-\add dying or being injured\add*.” 
+\add dying or being injured\add*." 
 \s Laws concerning everyday life 
 \p
-\v 16 “If a man persuades a girl\f + \ft Or: woman \f* to have sex with him, a girl\f + \ft Or: woman \f* who is a virgin\f + \ft Or: has never had sex with any man \f* and
+\v 16 "If a man persuades a girl\f + \ft Or: woman \f* to have sex with him, a girl\f + \ft Or: woman \f* who is a virgin\f + \ft Or: has never had sex with any man \f* and
 who is not engaged to be married, he must pay the bride price for her and marry her.
 \v 17 But if her father refuses to allow her to marry him, he must pay to the woman's father the amount of money that is equal
 to the amount of bride price money that men pay for virgins. 
@@ -83,7 +83,7 @@ they sleep at night.\f + \ft Or: What else will he cover himself with during the
 \add If you do not act mercifully toward him by returning his cloak\add*, when he cries out to me asking for my help, I will
 help him, because I \add always act\add* mercifully. 
 \p
-\v 28 Do not revile\f + \ft Or: speak evil about► God, and do not ◄curse, Or: ask God to do harmful things to \f* any ruler of your people.
+\v 28 Do not revile\f + \ft Or: speak evil about \f* God, and do not curse\f + \ft Or: ask God to do harmful things to \f* any ruler of your people.
 \p
 \v 29 Do not withhold from\f + \ft Or: Give \f* me the best parts of the grain that you harvest and of the olive oil and the wine that you
 produce. 
@@ -94,4 +94,4 @@ days. On the eighth day, offer them to me \add as a sacrifice\add*.
 \p
 \v 31 You are people who are completely dedicated to\f + \ft Or: set apart for \f* me.
 \add And I detest\add* the meat of any animal that has been killed by wild animals. Therefore you should not eat such meat.
-Instead, throw it where the dogs \add can eat it\add*.” 
+Instead, throw it where the dogs \add can eat it\add*." 

@@ -1,11 +1,11 @@
 \c 10  
 \s Job again complained to God 
 \q
-\v 1 “I detest continuing to live. 
+\v 1 "I detest continuing to live. 
 \q And I will not be silent and stop saying what I am complaining about.
 \q2 Instead, being very unhappy, I will speak [IDI]. 
 \q
-\v 2 I will say to God, ‘Do not say that I must be punished; 
+\v 2 I will say to God, 'Do not say that I must be punished; 
 \q2 instead, tell me what wrong you are saying that I have done.
 \q
 \v 3 Does it seem to be good for you to oppress me, 
@@ -75,4 +75,4 @@ wrong\add*,
 \q2 where it is always gloomy and very dark \f + \ft doublet \f*, 
 \q
 \v 22 a place of darkness and dark shadows, where everything is confused\f + \ft Or: disordered \f*,
-\q2 where \add even the small\add* light there is like darkness \f + \ft Or: there is no light, only darkness \f*.’ ”
+\q2 where \add even the small\add* light there is like darkness \f + \ft Or: there is no light, only darkness \f*.' "

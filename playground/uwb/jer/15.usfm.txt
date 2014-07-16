@@ -1,11 +1,11 @@
 \c 15  
 \s Yahweh said what would happen to the people of Judah 
 \p
-\v 1 Then Yahweh said this to me: “Even if Moses and Samuel could
+\v 1 Then Yahweh said this to me: "Even if Moses and Samuel could
 \add come back from their graves and\add* and stand in front of me
 \add and plead with me for these Israeli people\add*, I would not act mercifully [IDI] toward these people.
 \add I would tell you to\add* send them away from me. Cause them to leave me!
-\v 2 And if they ask you, ‘Where shall we go?’, tell them, ‘This is what Yahweh says:
+\v 2 And if they ask you, 'Where shall we go?', tell them, 'This is what Yahweh says:
 \q The ones that I say must die, will die: 
 \q The ones that I say must die in wars \f + \ft metonymy \f*, will die in wars.
 \q The ones that I say must die from hunger, will die from hunger.
@@ -20,7 +20,7 @@ earth to be horrified concerning \add what will happen in Judah to\add* my peopl
 \q
 \v 5 You people of Jerusalem, no one will \f + \ft rhetorical question \f* feel sorry for you.
 \q2 No one will \f + \ft rhetorical question \f* weep\f + \ft Or: cry \f* for you. 
-\q2 No one will \f + \ft rhetorical question \f* stop\f + \ft Or: go to your houses► and ask ◄how you are, Or: if you are well \f*.
+\q2 No one will \f + \ft rhetorical question \f* stop\f + \ft Or: go to your houses \f* and ask how you are\f + \ft Or: if you are well \f*.
 \q
 \v 6 You people have abandoned me; 
 \q2 you have continued to walk away from me \f + \ft doublet \f*. 
@@ -45,20 +45,20 @@ by\add* winnowing it\f + \ft Or: throwing it up to allow the wind to blow it awa
 \q because most of her children will be dead, 
 \q2 and she will be disgraced and humiliated \f + \ft doublet \f*. 
 \q And her children who are still alive, I will enable your enemies to kill them.
-\q2 \add That will surely happen because\add* I, Yahweh, have said it.’ ”
+\q2 \add That will surely happen because\add* I, Yahweh, have said it.' "
 \s Jeremiah's complaint and Yahweh's reply 
 \p
-\v 10 I said to my mother, “I am very sad; 
+\v 10 I said to my mother, "I am very sad; 
 \q I wish that you had not given birth to me; 
 \q2 everyone in this land opposes me and quarrels with me. 
 \q I am not a person who lends \add money to people and threatens to sue\f + \ft Or: harm \f* them if they do not pay me back when they
 should\add*, 
 \q2 and I am not a person who borrows \add money from others and then refuses to pay it
 back\add*, 
-\q but everyone \f + \ft hyperbole \f* curses me.” 
+\q but everyone \f + \ft hyperbole \f* curses me." 
 \p
 \v 11 But Yahweh replied to me, 
-\q “Jeremiah, I will take care of you. 
+\q "Jeremiah, I will take care of you. 
 \q And at times when your enemies have troubles and disasters, 
 \q2 they will \add come to you and\add* plead for you \add to help
 them\add*. 
@@ -78,10 +78,10 @@ them\add*
 \q2 and to take you to other lands that you do not even know about,
 \q2 and force you to become their slaves. 
 \q That will happen because I am extremely angry \add with you\add*;
-\q2 my being angry is like \f + \ft simile \f* a fire that will burn forever.”
+\q2 my being angry is like \f + \ft simile \f* a fire that will burn forever."
 \s Another complaint by Jeremiah, and Yahweh's reply 
 \q
-\v 15 Then I said, “Yahweh, you know \add what is happening to me\add*.
+\v 15 Then I said, "Yahweh, you know \add what is happening to me\add*.
 \q2 Please come and help me\f + \ft Or: take care of me \f*. 
 \q2 Punish those who are persecuting me\f + \ft Or: causing me to suffer \f*. 
 \q Please do not continue to be patient with them 
@@ -104,11 +104,11 @@ them\add*
 \q2 It seems that \f + \ft rhetorical question \f* my wounds cannot be healed. 
 \q \add Sometimes you help me, sometimes you do not help me\add*.
 \q2 It seems that you are as undependable as a brook that has water in it only during certain seasons;
-\q2 you are like a spring that has dried up.” 
+\q2 you are like a spring that has dried up." 
 \b
 \p
 \v 19 Then Yahweh replied to me saying this: 
-\q “If you begin again to \add trust in\add* me, 
+\q "If you begin again to \add trust in\add* me, 
 \q I will restore you, 
 \q2 in order that you can continue to serve me. 
 \q If you proclaim good\f + \ft Or: valuable \f* messages and not worthless ones,
@@ -124,4 +124,4 @@ them\add*
 \q
 \v 21 Truly, I will keep you safe from those wicked people, 
 \q2 I will rescue you when you are seized by cruel people. 
-\q \add That will happen because\add* I, Yahweh, have said it.” 
+\q \add That will happen because\add* I, Yahweh, have said it." 

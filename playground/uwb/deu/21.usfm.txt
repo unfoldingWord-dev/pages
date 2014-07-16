@@ -1,7 +1,7 @@
 \c 21  
 \s When no one knows who murdered someone else 
 \p
-\v 1 “Suppose someone has been murdered in a field in the land that Yahweh our God is giving to you, and you do not know who
+\v 1 "Suppose someone has been murdered in a field in the land that Yahweh our God is giving to you, and you do not know who
 killed that person. 
 \v 2  \add If that happens\add*, your elders and judges must go out to where that person's corpse was found and measure the
 distance from there to each of the nearby towns. 
@@ -12,10 +12,10 @@ there in that valley.
 \v 5 The priests must go there also, because Yahweh our God has chosen them from the tribe of Levi to serve him and to be his
 representatives \f + \ft metonymy \f* when they bless people. And he has also chosen them to settle disputes in which someone has been injured.
 \v 6 The elders from the closest town must wash their hands over the young cow whose neck was broken,
-\v 7 and they must say, ‘We did not murder this person \f + \ft metonymy \f*, and we did not see who did it.
+\v 7 and they must say, 'We did not murder this person \f + \ft metonymy \f*, and we did not see who did it.
 \v 8 Yahweh, forgive us, your Israeli people whom you rescued \add from
-Egypt\add*. Do not consider us to be guilty\f + \ft Or: that we should be punished because \f* of murdering someone who ◄is innocent, Or: had not
-done something that is wrong►. Instead, forgive us.’ 
+Egypt\add*. Do not consider us to be guilty\f + \ft Or: that we should be punished because \f* of murdering someone who is innocent\f + \ft Or: had not
+done something that is wrong \f*. Instead, forgive us.' 
 \v 9 By doing that, you will be doing what Yahweh considers to be right, and you will not be considered to be guilty for
 murdering that person. 
 \s The rule about marrying woman who are captured 
@@ -48,8 +48,8 @@ firstborn son, and he must be given the share that he should receive because of 
 attention to what they tell him \f + \ft metonymy \f*. 
 \v 19 If that happens, his parents must take him to the gate of\f + \ft Or: central meeting place in \f* the city where he lives and have him
 stand in front of the elders of the city. 
-\v 20 Then the parents must say to the elders of that city, ‘This son of ours is stubborn and always rebelling against us. He
-will not pay attention to what we tell him \f + \ft metonymy \f*. He wastes a lot of money \f + \ft Or: eats too much food \f* and gets drunk.’
+\v 20 Then the parents must say to the elders of that city, 'This son of ours is stubborn and always rebelling against us. He
+will not pay attention to what we tell him \f + \ft metonymy \f*. He wastes a lot of money \f + \ft Or: eats too much food \f* and gets drunk.'
 \v 21 Then all the elders of that city must execute him by throwing stones at him. By doing that, you will get rid of this evil
 practice from among you. And everyone in Israel will hear \add about what
 happened\add* and they will be afraid \add to do what he did\add*.
@@ -58,4 +58,4 @@ happened\add* and they will be afraid \add to do what he did\add*.
 \v 22 If someone is executed for having committed a crime for which he deserves to die, and you hang his corpse on a post,
 \v 23 you must not allow his corpse to remain there all night. You must bury it on the day that he died, because if you keep
 the corpse on a post, God will curse the land. \add You must bury the corpse that
-day\add*, in order that you do not defile the land that Yahweh our God is giving to you.”
+day\add*, in order that you do not defile the land that Yahweh our God is giving to you."

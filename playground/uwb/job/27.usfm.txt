@@ -3,7 +3,7 @@
 \p
 \v 1 Job replied again \add to his three friends\add*, by saying this:
 \q
-\v 2 “Almighty God has refused to treat me justly\f + \ft Or: fairly \f*. 
+\v 2 "Almighty God has refused to treat me justly\f + \ft Or: fairly \f*. 
 \q2 He has caused me to feel bitter\f + \ft Or: resentful \f*. 
 \q2 But just as surely as he lives, 
 \q
@@ -27,14 +27,14 @@
 \q2 there is absolutely nothing good \f + \ft rhetorical question \f* that they can confidently expect
 \add to happen to them\add*. 
 \q
-\v 9 When they experience troubles, ◄will God hear them call out
-\add to him for help\add*?\f + \ft Or: God \f* certainly will not hear them call out
-\add to him for help\add*.► \f + \ft rhetorical question \f* 
+\v 9 When they experience troubles, will God hear them call out
+\add to him for help\add*?\f + \ft Or: God certainly will not hear them call out
+\add to him for help\add*. \f* \f + \ft rhetorical question \f* 
 \q
-\v 10 ◄Will they be happy about what Almighty \add God\add* does?\f + \ft Or: They \f* certainly will not be happy about what Almighty
-\add God\add* does.► \f + \ft rhetorical question \f* 
-\q2 ◄Will they \add begin to\add* pray to him frequently?\f + \ft Or: They \f* certainly will not
-\add begin to\add* pray to him frequently.► \f + \ft rhetorical question \f* 
+\v 10 Will they be happy about what Almighty \add God\add* does?\f + \ft Or: They certainly will not be happy about what Almighty
+\add God\add* does. \f* \f + \ft rhetorical question \f* 
+\q2 Will they \add begin to\add* pray to him frequently?\f + \ft Or: They certainly will not
+\add begin to\add* pray to him frequently. \f* \f + \ft rhetorical question \f* 
 \q2 \add Certainly not\add*! 
 \b
 \q
@@ -80,4 +80,4 @@ done\add*;
 \q
 \v 23 That wind is like someone clapping his hands \f + \ft metaphor \f* at them
 \add to ridicule them\add*, 
-\q2 howling at them wherever they run to.” 
+\q2 howling at them wherever they run to." 

@@ -1,7 +1,7 @@
 \c 14  
 \s Job prayed to God 
 \q
-\v 1 “We humans are very frail. 
+\v 1 "We humans are very frail. 
 \q2 We live only a short time, and we experience a lot of trouble.
 \q
 \v 2 We disappear quickly, like flowers that grow from the ground quickly and then wither and die \f + \ft simile \f*.
@@ -78,4 +78,4 @@ wrong\add* \f + \ft rhetorical question \f*?
 \q2 And if they become disgraced, we do not see that, either. 
 \q
 \v 22 We will feel our own pains; we will not feel anything else;
-\q2 we will be sorry for ourselves, not for anyone else.” 
+\q2 we will be sorry for ourselves, not for anyone else." 

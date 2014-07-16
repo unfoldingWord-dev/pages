@@ -1,7 +1,7 @@
 \c 5  
 \s Eliphaz continued replying to Job 
 \q
-\v 1 “Job, \add it is okay that you\add* continue to cry out for someone to help you,
+\v 1 "Job, \add it is okay that you\add* continue to cry out for someone to help you,
 \q2 but \add I am certain that\add* \f + \ft rhetorical question \f* no angel will come to help you!
 \q
 \v 2 Foolish people die because of being resentful\f + \ft Or: very angry at someone \f*;
@@ -12,7 +12,7 @@
 \q2 but suddenly \add they experienced disaster\f + \ft Or: trouble \f* because\add* I cursed their home.
 \q
 \v 4 Their sons are never safe; 
-\q2 they lose their case\f + \ft Or: are condemned► when someone ◄takes them to court, Or: sues them \f*
+\q2 they lose their case\f + \ft Or: are condemned \f* when someone takes them to court\f + \ft Or: sues them \f*
 \q2 because there is no one to defend them. 
 \q
 \v 5 Hungry people \add steal\add* the crops that foolish people harvest, and eat those crops;
@@ -91,4 +91,4 @@ them\add*
 \q
 \v 27  \add My friends and I\add* have thought carefully about these things, and
 \add we know that\add* they are true, 
-\q2 so pay attention to what I have said!” 
+\q2 so pay attention to what I have said!" 

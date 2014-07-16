@@ -2,10 +2,10 @@
 \s Food that is acceptable to God and food that is not 
 \p
 \v 1 Yahweh said to Aaron and Moses\f + \ft Or: me \f*, 
-\v 2 “Tell the Israeli people that \add this is what Yahweh says\add*: ‘From all the animals that live on the land, these are
+\v 2 "Tell the Israeli people that \add this is what Yahweh says\add*: 'From all the animals that live on the land, these are
 the ones that you are permitted to eat: 
-\v 3 The ones that have hooves that are completely split, and those that ◄chew their cuds\f + \ft Or: bring \f* their food up from their
-stomachs to chew it again►. 
+\v 3 The ones that have hooves that are completely split, and those that chew their cuds\f + \ft Or: bring their food up from their
+stomachs to chew it again \f*. 
 \p
 \v 4 There are some animals that chew their cuds but do not have split hooves, and some animals that have split hooves but do
 not chew their cuds. You must not eat any of those animals. \add For
@@ -77,4 +77,4 @@ am holy, you must be holy.
 \v 46 Those are the regulations concerning animals and birds, all the living creatures that live in water or scurry along on
 the ground. 
 \v 47 You must learn what things \add I say\add* are acceptable to me and what things are not, and learn what things you are
-permitted to eat and what things you are not permitted to eat.’ ”
+permitted to eat and what things you are not permitted to eat.' "

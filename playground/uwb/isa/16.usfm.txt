@@ -1,7 +1,7 @@
 \c 16  
 \p
 \v 1  \add The rulers of Moab will say to each other\add*, 
-\q “We must send some lambs from Sela \add city\add* as a gift to the ruler of Judah
+\q "We must send some lambs from Sela \add city\add* as a gift to the ruler of Judah
 \add to persuade him to not allow his army to attack us anymore\add*.
 \q2 We should send them through the desert to the king \add in Jerusalem\add*.
 \q
@@ -9,14 +9,14 @@
 \add River\add*; 
 \q2 they will be like \f + \ft simile \f* birds that have been pushed out of their nests.
 \q
-\v 3 They will cry out, ‘Help us! 
+\v 3 They will cry out, 'Help us! 
 \q2 Tell us what we should do! 
 \q Protect us completely \f + \ft metaphor \f*, 
 \q2 we who are running away \add from our enemies\add*, 
 \q and do not betray us\f + \ft Or: tell our enemies where we are \f*. 
 \q
 \v 4 Allow \add those of us\add* who are fleeing from Moab to stay with you;
-\q2 hide\f + \ft Or: protect \f* us from \add our enemies who want to\add* destroy us!’
+\q2 hide\f + \ft Or: protect \f* us from \add our enemies who want to\add* destroy us!'
 \b
 \q \add Some day\add* there will be no one to oppress us, 
 \q2 and our enemies will stop destroying \add our land\add*. 
@@ -25,7 +25,7 @@
 \q2 who will be \add a descendant of King\add* David. 
 \q2 As he rules \f + \ft metonymy \f*, he will be merciful and truthful. 
 \q He will always do what is fair\f + \ft Or: just \f* 
-\q2 and quickly do what is righteous.” 
+\q2 and quickly do what is righteous." 
 \b
 \q
 \v 6 We \add people of Judah\add* have heard about \add the people

@@ -1,7 +1,7 @@
 \c 30  
 \s Bringing them back to Israel 
 \p
-\v 1 “I have now told you about the ways that Yahweh our God will bless you
+\v 1 "I have now told you about the ways that Yahweh our God will bless you
 \add if you obey him\add* and the ways that he will curse you \add if you disobey
 him\add*. I am saying that you must choose which you want. But when
 \add you choose not to obey his laws\add*, some day you will be living in the countries to which he will scatter you, and you
@@ -30,12 +30,12 @@ with all that you feel.
 \v 11 The commands that I am giving to you today are not very difficult for you
 \add to obey\add*, and they are not \add difficult to know because
 of\add* being far from you. 
-\v 12 They are not in heaven, with the result that you need to say, ‘◄Who will need to go up to heaven for us to bring them
-\add down here to us\add* in order that we can hear them and obey them?\f + \ft Or: Someone \f* will need to go up to heaven for us to bring
-them \add down here to us\add* in order that we can hear them and obey them.►’ \f + \ft rhetorical question \f*
-\v 13 And they are not on the other side of the sea, with the result that you need to say, ‘◄Who will need to cross the sea for
-us and bring them back to us, in order that we can hear them and obey them?\f + \ft Or: Someone \f* will need to cross the sea for us and bring
-them back to us, in order that we can hear them and obey them.►’ \f + \ft rhetorical question \f*
+\v 12 They are not in heaven, with the result that you need to say, 'Who will need to go up to heaven for us to bring them
+\add down here to us\add* in order that we can hear them and obey them?\f + \ft Or: Someone will need to go up to heaven for us to bring
+them \add down here to us\add* in order that we can hear them and obey them. \f*' \f + \ft rhetorical question \f*
+\v 13 And they are not on the other side of the sea, with the result that you need to say, 'Who will need to cross the sea for
+us and bring them back to us, in order that we can hear them and obey them?\f + \ft Or: Someone will need to cross the sea for us and bring
+them back to us, in order that we can hear them and obey them. \f*' \f + \ft rhetorical question \f*
 \v 14  \add We do not need to do that because\add* his commands are here with you. You know them \f + \ft metonymy \f* and you have memorized
 them\f + \ft Or: put them in your minds \f*. So you can \add easily\add* obey them.
 \p
@@ -57,4 +57,4 @@ whether you \add want to\add* live for a long time or to soon die, whether
 \add you want Yahweh to\add* bless you or to curse you. So choose to live.
 \v 20  \add Choose to\add* love Yahweh our God, and to obey him \f + \ft metonymy \f*, and to be faithful to\f + \ft Or: have a close relationship with \f*
 him. If you do that, you and your descendants will live for a long time in the land that Yahweh solemnly promised to your
-ancestors Abraham, Isaac, and Jacob, that he would give to them.”
+ancestors Abraham, Isaac, and Jacob, that he would give to them."

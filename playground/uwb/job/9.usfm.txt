@@ -3,9 +3,9 @@
 \p
 \v 1 Then Job replied, 
 \q
-\v 2 “Yes, I certainly know that \add much of\add* what you said is true.
-\q2 But ◄how can anyone say to God, ‘I ‘am innocent\f + \ft Or: have \f* not done what is wrong’ and prove it?’\f + \ft Or: no \f* one can say to God ‘I ‘am
-innocent\f + \ft Or: have \f* not done what is wrong’ and prove it.’► \f + \ft rhetorical question \f* 
+\v 2 "Yes, I certainly know that \add much of\add* what you said is true.
+\q2 But how can anyone say to God, 'I 'am innocent\f + \ft Or: have not done what is wrong' and prove it?', Or: no one can say to God 'I 'am
+innocent( Or: have ) not done what is wrong' and prove it.' \f* \f + \ft rhetorical question \f* 
 \q
 \v 3 If someone wanted to argue with God \add about that\add*, 
 \q2 God could ask him a thousand questions 
@@ -36,7 +36,7 @@ called\add* The Dipper\f + \ft Or: Bear \f*, Orion, the Pleiades, and the stars 
 \q2 he moves further on, but I do not see him go. 
 \q
 \v 12 If he \add wants to\add* snatch something away, no one \f + \ft rhetorical question \f* can hinder him;
-\q2 no one dares to ask him, ‘Why are you doing that?’ \f + \ft rhetorical question \f* 
+\q2 no one dares to ask him, 'Why are you doing that?' \f + \ft rhetorical question \f* 
 \q
 \v 13 God will not very easily stop being angry; 
 \q2 he defeated \f + \ft metonymy \f* those who \add tried to\add* help Rahab, \add the great sea
@@ -91,8 +91,8 @@ fairly\add*.
 \v 26 My life goes by very rapidly, like a boat made from reeds sailing swiftly,
 \q2 or like an eagle that swoops down to seize a small animal. 
 \q
-\v 27 If I smile and say \add to God\add*, ‘I will forget what I am complaining about;
-\q2 I will stop looking sad and try to be cheerful\f + \ft Or: happy \f*,’ 
+\v 27 If I smile and say \add to God\add*, 'I will forget what I am complaining about;
+\q2 I will stop looking sad and try to be cheerful\f + \ft Or: happy \f*,' 
 \q
 \v 28 then I become afraid because of all that I am suffering 
 \q2 because I know that God does not consider that I am innocent.
@@ -121,4 +121,4 @@ innocent\add*
 \q
 \v 35 If he did that, I would declare \add that I am innocent\add* without being afraid of him,
 \q2 because I know within myself that I really have not \add done what is wrong like God thinks that I
-have\add*.” 
+have\add*." 

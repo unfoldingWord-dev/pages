@@ -1,6 +1,6 @@
 \c 52  
-\s A psalm written by David for the choir director, when Doeg went to Saul and said, “David has gone to talk with Ahimelech,
-the supreme priest” 
+\s A psalm written by David for the choir director, when Doeg went to Saul and said, "David has gone to talk with Ahimelech,
+the supreme priest" 
 \q
 \v 1 You \add think that you\add* are strong 
 \q2 and brag about the sins that you have committed, 
@@ -26,9 +26,9 @@ the supreme priest”
 \v 6 When righteous people see that, they will be awestruck, 
 \q2 and they will laugh at \add what happened to\add* you, and say,
 \q
-\v 7 “Look \add what happened to\add* the man who would not ask God to protect him;
+\v 7 "Look \add what happened to\add* the man who would not ask God to protect him;
 \q2 he trusted that his great wealth \add would save him\add*; 
-\q2 he trusted in the money that he got by wickedly taking it from others!”
+\q2 he trusted in the money that he got by wickedly taking it from others!"
 \b
 \q
 \v 8 But I am \add secure\f + \ft Or: safe \f* because I worship\add* in God's temple;

@@ -1,7 +1,7 @@
 \c 41  
 \s Yahweh challenged Job to try to capture a crocodile 
 \q
-\v 1 “\add Think also about\add* crocodiles\f + \ft Or: great sea dragons \f*.
+\v 1 "\add Think also about\add* crocodiles\f + \ft Or: great sea dragons \f*.
 \q2 Can you catch them with a fishhook 
 \q2 or fasten their jaws with a rope? 
 \q
@@ -32,23 +32,23 @@ them\add*?
 \q2 Anyone who tries to subdue one of them will lose his courage.
 \q
 \v 10 No one dares\f + \ft Or: tries \f* to arouse them\f + \ft Or: cause them to be angry \f*.
-\q2 So, \add since I am much more powerful than they are\add*, ◄who would dare to cause me to be angry?\f + \ft Or: no \f* one would dare to
-cause me to be angry!► \f + \ft rhetorical question \f* 
+\q2 So, \add since I am much more powerful than they are\add*, who would dare to cause me to be angry?\f + \ft Or: no one would dare to
+cause me to be angry! \f* \f + \ft rhetorical question \f* 
 \q
 \v 11 Also, everything on the earth is mine. 
 \q2 Therefore, no one \f + \ft rhetorical question \f* is able to give anything to me and require me to pay money for it!
 \b
 \q
-\v 12 I will tell you about \add how strong ◄crocodiles'\f + \ft Or: great \f* sea
-dragons'►\add* legs are 
+\v 12 I will tell you about \add how strong crocodiles'\f + \ft Or: great sea
+dragons' \f*\add* legs are 
 \q2 and how strong their well-formed bodies are. 
 \q
 \v 13 Can anyone strip off their hides?\f + \ft Or: No one is able to strip off their hides. \f* \f + \ft rhetorical question \f*
 \q2 Can anyone try to put bridles on them?\f + \ft Or: No one can try to put bridles on them. \f* \f + \ft rhetorical question \f* \f + \ft Or: Can anyone pierce their very
 thick hides? \f* 
 \q
-\v 14 ◄Can anyone pry open their jaws, which have terrible teeth in them?\f + \ft Or: No \f* one can pry open their jaws, which have terrible
-teeth in them!► \f + \ft rhetorical question \f* 
+\v 14 Can anyone pry open their jaws, which have terrible teeth in them?\f + \ft Or: No one can pry open their jaws, which have terrible
+teeth in them! \f* \f + \ft rhetorical question \f* 
 \q
 \v 15 They have rows of scales on their back 
 \q2 which are as hard as a rock \f + \ft Or: tightly fastened together \f*.
@@ -82,7 +82,7 @@ noses\add* sparkle in the sunlight.
 \q2 as hard as the lower millstone \add on which grain is ground\add*.
 \q
 \v 25 When they rise up, they cause \add even\add* very strong people to be terrified.
-\q2 As a result, people fall back\f + \ft Or: run away► when ◄crocodiles, Or: great sea dragons \f* thrash around.
+\q2 As a result, people fall back\f + \ft Or: run away \f* when crocodiles\f + \ft Or: great sea dragons \f* thrash around.
 \q
 \v 26 People \f + \ft personification \f* cannot injure them with swords, 
 \q2 and spears or darts or javelins cannot injure them, either. 
@@ -111,4 +111,4 @@ them\add*.
 \v 33 There are no creatures on earth that are as fearless as crocodiles\f + \ft Or: great sea dragons \f*.
 \q
 \v 34 They are the proudest of all the creatures; 
-\q2 they are \add like\add* kings over all the other wild animals.”
+\q2 they are \add like\add* kings over all the other wild animals."

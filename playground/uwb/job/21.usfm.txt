@@ -3,7 +3,7 @@
 \p
 \v 1 Then Job replied this: 
 \q
-\v 2 “Listen to what I say, all of you; 
+\v 2 "Listen to what I say, all of you; 
 \q2 that is the only thing that you can do that will comfort me.
 \q
 \v 3 Be patient with me, and allow me to speak. 
@@ -21,8 +21,8 @@
 \q2 I am frightened and my entire body shakes. 
 \b
 \q
-\v 7  \add But allow me to ask this:\add* ‘Why do wicked people continue to live,
-\q2 and become prosperous, and not die until they are very old?’
+\v 7  \add But allow me to ask this:\add* 'Why do wicked people continue to live,
+\q2 and become prosperous, and not die until they are very old?'
 \q
 \v 8 They see their children around them, 
 \q2 and they watch them while they \add grow up and\add* start to live in their own houses.
@@ -43,27 +43,27 @@ pasture\add*.
 \v 13 Wicked people enjoy having good things all the time that they are alive,
 \q2 and they die quietly\f + \ft Or: peacefully \f* and go down to the place of the dead.
 \q
-\v 14 While they are alive, they say to God, ‘Allow us to be alone\f + \ft Or: Do not bother us \f*;
+\v 14 While they are alive, they say to God, 'Allow us to be alone\f + \ft Or: Do not bother us \f*;
 \q2 we do not want to know how you desire us to conduct our lives!
 \q
 \v 15 Why do you, Almighty God, think that we should serve you? 
-\q2 What advantage do we get if we pray to you?\f + \ft Or: It is useless for us to pray to you. \f* \f + \ft rhetorical question \f*’
+\q2 What advantage do we get if we pray to you?\f + \ft Or: It is useless for us to pray to you. \f* \f + \ft rhetorical question \f*'
 \q
 \v 16 Think about it: wicked people think that it is because of what they have done that they have become prosperous,
 \q2 but I do not understand why they think like that. 
 \b
 \q
-\v 17 ◄How often does it happen that wicked people die \f + \ft metaphor \f* before they are old?\f + \ft Or: Very \f* seldom do wicked people die \f + \ft metaphor \f* before
-they are old.► \f + \ft rhetorical question \f* 
+\v 17 How often does it happen that wicked people die \f + \ft metaphor \f* before they are old?\f + \ft Or: Very seldom do wicked people die ( metaphor ) before
+they are old. \f* \f + \ft rhetorical question \f* 
 \q2 Do they ever experience disasters?\f + \ft Or: They seldom experience disasters. \f* \f + \ft rhetorical question \f*
-\q2 ◄Does God ever punish them because of being very angry with them?\f + \ft Or: God \f* never punishes them because of being very angry with
-them.► \f + \ft rhetorical question \f* 
+\q2 Does God ever punish them because of being very angry with them?\f + \ft Or: God never punishes them because of being very angry with
+them. \f* \f + \ft rhetorical question \f* 
 \q
 \v 18  \add He does not blow\add* them away like wind blows away straw;
 \q2 they are never carried off by a whirlwind. 
 \q
-\v 19 You say, ‘When people have committed sins, 
-\q2 God waits and punishes their children because of those sins;’
+\v 19 You say, 'When people have committed sins, 
+\q2 God waits and punishes their children because of those sins;'
 \q but \add I say that\add* God should punish those who sin, \add not their
 children\add*, 
 \q2 in order that the sinners will know \add that it is because of their own sins that they are being
@@ -97,8 +97,8 @@ wicked\add*.
 \v 27 Listen, I know what you \add three\add* are thinking. 
 \q2 I know the evil things that you plan to do to me. 
 \q
-\v 28 You say, ‘What happened to the tents in which wicked people were living?
-\q2 The houses of evil rulers have been destroyed!’ 
+\v 28 You say, 'What happened to the tents in which wicked people were living?
+\q2 The houses of evil rulers have been destroyed!' 
 \q
 \v 29 But have you never inquired of people who travel much? 
 \q2 Do you not believe their reports about what they have seen, 
@@ -120,4 +120,4 @@ done.
 \b
 \q
 \v 34 So how can you console me by talking nonsense? 
-\q2 Every reply that you give me is full of lies!” 
+\q2 Every reply that you give me is full of lies!" 

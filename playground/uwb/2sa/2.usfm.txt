@@ -1,8 +1,8 @@
 \c 2  
 \s David was appointed to be the king of Judah 
 \p
-\v 1 Some time after that, David asked Yahweh, “Should I go up to one of the towns in Judah?” Yahweh replied, “Yes, go up
-there.” Then David asked, “To which town should I go?” Yahweh replied, “To Hebron.”
+\v 1 Some time after that, David asked Yahweh, "Should I go up to one of the towns in Judah?" Yahweh replied, "Yes, go up
+there." Then David asked, "To which town should I go?" Yahweh replied, "To Hebron."
 \p
 \v 2 So David went up there, taking his two wives, Ahinoam who was from Jezreel
 \add city\add*, and Abigail, the widow of Nabal from Carmel \add city\add*.
@@ -11,12 +11,12 @@ there.” Then David asked, “To which town should I go?” Yahweh replied, “
 \add to show they were appointing him to be\add* \f + \ft metonymy \f* the king of the tribe \f + \ft metonymy \f* of Judah.
 \p When David found out that the people of Jabesh \add town\add* in the Gilead
 \add region\add* had buried Saul's body, 
-\v 5 he sent messengers to the men of Jabesh to tell them this: “I desire\f + \ft Or: hope \f* that Yahweh will bless you for having shown, by
+\v 5 he sent messengers to the men of Jabesh to tell them this: "I desire\f + \ft Or: hope \f* that Yahweh will bless you for having shown, by
 burying the body of Saul your king, that you were loyal to him. 
 \v 6 Now I also desire\f + \ft Or: hope \f* that Yahweh will faithfully love you and be loyal to you. And I will do good things for you because
 of what you have done \add for Saul\add*. 
 \v 7 Now, although Saul your king is dead, be strong and courageous, like the people of Judah, who have appointed me to be
-their king.” 
+their king." 
 \s Ishbosheth was appointed to be the king of Israel 
 \p
 \v 8  \add While this was happening\add*, Ner's son Abner, the commander of Saul's army, took Saul's son Ishbosheth and went
@@ -37,11 +37,11 @@ tribe of Judah was loyal to David\f + \ft Or: wanted David to be their king \f*,
 \add went from Hebron to Gibeon\add*, and they met at the pool there. They all sat down, the one group on one side of the pool
 and the other group on the other side. 
 \p
-\v 14 Abner said to Joab, “Let's tell some of our young men to fight each other!” Joab replied, “Okay!”
+\v 14 Abner said to Joab, "Let's tell some of our young men to fight each other!" Joab replied, "Okay!"
 \p
 \v 15 So twelve men from the tribe of Benjamin fought for Ishbosheth, against twelve of David's soldiers.
 \v 16 Each of them grabbed the head of the man against whom he was fighting, and thrust his sword into his that man's side. The
-result was that all twenty-four of them fell down dead. So that area in Gibeon is now called ‘Field of Swords.’
+result was that all twenty-four of them fell down dead. So that area in Gibeon is now called 'Field of Swords.'
 \p
 \v 17 Then \add the others started to fight\add*. It was a very fierce battle. Abner and the men of Israel were defeated by
 David's soldiers. 
@@ -50,14 +50,14 @@ David's soldiers.
 \v 18 Zeruiah's three sons were there \add on that day:\add* Joab, Abishai, and Asahel. Asahel was able to run very fast; he
 could run as fast as a wild gazelle\f + \ft Or: antelope \f*. 
 \v 19 Asahel started to pursue Abner. He ran straight toward Abner, without stopping.
-\v 20 Abner looked behind him, and said “Is that you, Asahel?” Asahel replied, “Yes!”
+\v 20 Abner looked behind him, and said "Is that you, Asahel?" Asahel replied, "Yes!"
 \p
-\v 21 Abner yelled at him, “Turn to one side or the other, \add and pursue someone
-else\add*!” But Asahel would not stop pursuing Abner. 
+\v 21 Abner yelled at him, "Turn to one side or the other, \add and pursue someone
+else\add*!" But Asahel would not stop pursuing Abner. 
 \p
-\v 22 So Abner yelled at him again, “Stop chasing after\f + \ft Or: pursuing \f* me! ◄Why should I kill you?, Or: It would not be good for me to
-kill you!► \f + \ft rhetorical question \f* If I did that, ◄how could I ‘face\f + \ft Or: be \f* reconciled with’ your brother Joab?\f + \ft Or: it \f* would be very difficult for me to
-‘face\f + \ft Or: be \f* reconciled with’ your brother Joab.► \f + \ft rhetorical question \f*” 
+\v 22 So Abner yelled at him again, "Stop chasing after\f + \ft Or: pursuing \f* me! Why should I kill you?\f + \ft Or: It would not be good for me to
+kill you! \f* \f + \ft rhetorical question \f* If I did that, how could I 'face\f + \ft Or: be reconciled with' your brother Joab?, Or: it would be very difficult for me to
+'face( Or: be ) reconciled with' your brother Joab. \f* \f + \ft rhetorical question \f*" 
 \p
 \v 23 But Asahel refused to stop pursuing Abner. So Abner \add suddenly turned
 and\add* thrust the butt end of his spear into Asahel's stomach. Because he thrust it very strongly, that end of the spear
@@ -69,13 +69,13 @@ body\add*.
 to the desert near Gibeon. 
 \v 25 The men from the tribe of Benjamin gathered around Abner in one group, and stood at the top of a hill.
 \p
-\v 26 Then Abner called out to Joab, saying “Are we going to continue to fight forever \f + \ft rhetorical question \f*? Do you not realize that
+\v 26 Then Abner called out to Joab, saying "Are we going to continue to fight forever \f + \ft rhetorical question \f*? Do you not realize that
 \add if we continue fighting\add*, the result will be very bad \f + \ft rhetorical question \f*? We are all descendants of Jacob.
-\add So we should stop fighting each other\add*! ◄How long will it be until you tell your soldiers to stop pursuing us?\f + \ft Or: Tell \f*
-your soldiers to stop pursuing us.►” \f + \ft rhetorical question \f* 
+\add So we should stop fighting each other\add*! How long will it be until you tell your soldiers to stop pursuing us?\f + \ft Or: Tell
+your soldiers to stop pursuing us. \f*" \f + \ft rhetorical question \f* 
 \p
-\v 27 Joab replied, “Just as surely as God lives, if you had not said that, my soldiers would have continued pursuing your men
-until tomorrow morning!” 
+\v 27 Joab replied, "Just as surely as God lives, if you had not said that, my soldiers would have continued pursuing your men
+until tomorrow morning!" 
 \p
 \v 28 So Joab blew a trumpet \add to signal that they should stop
 fighting\add*. So all his men did that. They did not pursue the soldiers of Israel anymore, and they stopped fighting.

@@ -1,7 +1,7 @@
 \c 10  
 \q
-\v 1 Yahweh, ◄why are you far away \add from us\add*?\f + \ft Or: it \f* seems that you are far away
-\add from us\add*.► \f + \ft rhetorical question \f* 
+\v 1 Yahweh, why are you far away \add from us\add*?\f + \ft Or: it seems that you are far away
+\add from us\add*. \f* \f + \ft rhetorical question \f* 
 \q2 Why do you not pay attention when we have troubles \f + \ft rhetorical question \f*? 
 \b
 \q
@@ -20,13 +20,13 @@ catch others \f + \ft metaphor \f*!
 \q2 They do not think that they will be condemned\f + \ft Or: punished \f* for their deeds,
 \q2 and they sneer at\f + \ft Or: make fun of \f* their enemies. 
 \q
-\v 6 In their inner beings they think, “Nothing bad will happen to us!
-\q2 We will never have troubles!” 
+\v 6 In their inner beings they think, "Nothing bad will happen to us!
+\q2 We will never have troubles!" 
 \q
 \v 7 When they talk \f + \ft metonymy \f*, they are always cursing, lying, and threatening to harm others.
 \q2 They constantly say \f + \ft metonymy \f* evil things that show that they are ready to do cruel things to others.
 \q
-\v 8 They hide in villages, ready to ambush\f + \ft Or: suddenly attack► and kill people who ◄are innocent, Or: have done nothing wrong \f*.
+\v 8 They hide in villages, ready to ambush\f + \ft Or: suddenly attack \f* and kill people who are innocent\f + \ft Or: have done nothing wrong \f*.
 \q2 They constantly search for people who will not be able to resist\f + \ft Or: defend themselves \f*
 \add when they are attacked\add*. 
 \q
@@ -38,9 +38,9 @@ catch others \f + \ft metaphor \f*!
 \v 10 Just like helpless animals are crushed, 
 \q2 people who cannot defend themselves are killed because wicked people are very strong.
 \q
-\v 11 The wicked people say, “God will not pay any attention \add to what we
+\v 11 The wicked people say, "God will not pay any attention \add to what we
 do\add*. 
-\q2 His eyes are covered, with the result that he never sees anything.”
+\q2 His eyes are covered, with the result that he never sees anything."
 \b
 \q
 \v 12 Yahweh God, arise \add and help us\add*! 
@@ -48,7 +48,7 @@ do\add*.
 \q2 And do not forget those who are suffering! 
 \q
 \v 13 Wicked people revile you \f + \ft rhetorical question \f* continually. 
-\q2 They think, “God will never punish us!” 
+\q2 They think, "God will never punish us!" 
 \q
 \v 14 But you see the trouble and the distress \add that they cause\add*.
 \q2 People who are suffering expect that you will help them; 

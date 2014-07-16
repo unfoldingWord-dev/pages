@@ -1,8 +1,8 @@
 \c 1  
 \p
-\v 1 The one who expresses \f + \ft metaphor \f* ◄\add God's character\f + \ft Or: what \f* God is
-like\add*► has always existed ◄from the beginning \f + \ft metonymy \f* \add of everything\f + \ft Or: before \f* everything
-began\add*►. He has always existed with God, and he has God's nature.
+\v 1 The one who expresses \f + \ft metaphor \f* \add God's character\f + \ft Or: what God is
+like\add* \f* has always existed from the beginning \f + \ft metonymy \f* \add of everything\f + \ft Or: before everything
+began\add* \f*. He has always existed with God, and he has God's nature.
 \v 2 He always existed with God \add before\add* he began \f + \ft metonymy \f* \add to create
 anything\add*. 
 \v 3 He is the one by whom \add God\add* caused everything to exist. He is the one who created absolutely everything \f + \ft litotes \f*.
@@ -40,17 +40,17 @@ of\add* his own people, \add the Jews\add*, rejected him \f + \ft Or: did not ac
 \add belonged to God\add*, or because of someone's sexual desires, nor because some man desired to have children like himself.
 Instead, we were caused by God {God caused us} to become \add like\add* his children.
 \p
-\v 14 The one who expresses \f + \ft metaphor \f* ◄\add God's character\f + \ft Or: what \f* God is
-like\add*► became a human being, and he lived among us \add for a
+\v 14 The one who expresses \f + \ft metaphor \f* \add God's character\f + \ft Or: what God is
+like\add* \f* became a human being, and he lived among us \add for a
 while\add*. As a result, we saw how wonderful he is. He came from
 \add God\add* his father, and there was no other person as wonderful as he. He was wonderful because he always acted kindly
 toward us\f + \ft Or: in ways we did not deserve \f*, and he always \add spoke\add* truthfully to us
 \add about God\add*. 
 \p
 \v 15  \add One day\add* when John was telling people about him,
-\add he saw Jesus\add*. Then he shouted to them, “I told you \add previously\add* that someone will come later who is more
+\add he saw Jesus\add*. Then he shouted to them, "I told you \add previously\add* that someone will come later who is more
 important than I am, since he existed \add long\add* before me. This
-\add is the man I was talking about\add*!” 
+\add is the man I was talking about\add*!" 
 \v 16 We have all benefited very much from what he has done. Again and again, he has acted in kindness toward us in ways we did
 not deserve. 
 \v 17 Moses proclaimed \add God's\add* laws \add to our ancestors\add*. But what Jesus Christ did for us
@@ -64,35 +64,35 @@ was much more important than himself.
 \p
 \v 19 The Jewish \add leaders\add* \f + \ft synecdoche \f* in Jerusalem \add city\add* sent some
 \add Jewish\add* priests and Levites\f + \ft Or: men who worked in the temple \f* to where John was to ask him some questions. They said to
-him, “What do you \add claim about\add* yourself?” 
+him, "What do you \add claim about\add* yourself?" 
 \v 20 So John told them the truth, and he told them clearly \f + \ft doublet \f*. He said,
-“\add I\add* am not the Messiah\f + \ft Or: God's chosen king \f*!” 
-\v 21 Then they asked him, “Then what \add do you say about yourself\add*? Are you
+"\add I\add* am not the Messiah\f + \ft Or: God's chosen king \f*!" 
+\v 21 Then they asked him, "Then what \add do you say about yourself\add*? Are you
 \add the prophet\add* Elijah \add that was prophesied to return\add*
 {\add someone\f + \ft Or: another prophet\add* \f* \add prophesied would return\add*}
-\add before the Messiah\add*?” He replied, “No, \add I\add* am not.” Then they asked him, “Are you the prophet
-\add like Moses that\add* ◄\add we are waiting for\f + \ft Or: God \f* promised to
-send\add*►?” He replied, “No.” 
-\v 22 So they asked him, “Then who do you \add claim to be\add*?
-\add Tell us\add* so that we can \add go back and\add* report to those who sent us. What do you say about yourself?”
-\v 23 John replied, “\add I\add* am the one \add the prophet Isaiah
+\add before the Messiah\add*?" He replied, "No, \add I\add* am not." Then they asked him, "Are you the prophet
+\add like Moses that\add* \add we are waiting for\f + \ft Or: God promised to
+send\add* \f*?" He replied, "No." 
+\v 22 So they asked him, "Then who do you \add claim to be\add*?
+\add Tell us\add* so that we can \add go back and\add* report to those who sent us. What do you say about yourself?"
+\v 23 John replied, "\add I\add* am the one \add the prophet Isaiah
 said\add* would proclaim \add this new message\add* loudly \add to the people who would pass
-by\add* in this desolate area: ‘Prepare \add yourselves to receive\add* the Lord when he comes \f + \ft metaphor \f*,
-\add just like people prepare\add* a road \add for an important official.’\add*”
+by\add* in this desolate area: 'Prepare \add yourselves to receive\add* the Lord when he comes \f + \ft metaphor \f*,
+\add just like people prepare\add* a road \add for an important official.'\add*"
 \p
 \v 24 Some of those people \add who were questioning\add* John were ones who had been sent by the Pharisee
 \add religious group\add* {whom the Pharisee \add religious group\add* had sent}.
-\v 25 They asked John, “Since \add you say\add* you are not the Messiah, nor
+\v 25 They asked John, "Since \add you say\add* you are not the Messiah, nor
 \add the prophet\add* Elijah, nor the prophet \add like Moses\add*,
 \add what authority\add* do you have? \add Furthermore\add*, why are you baptizing
 \add Jews, treating them as though they were non-Jews who wanted to become
-Jews\add*?” 
-\v 26 John replied, “I am \add just\add* baptizing people with water
+Jews\add*?" 
+\v 26 John replied, "I am \add just\add* baptizing people with water
 \add to prepare them to welcome the Messiah\add*. But\add right now\add* someone is standing among you whom you people do not
 know. 
 \v 27 He \add will preach to you\add* after I \add am gone\add*.
 \add He is so important that\add* I am not worthy to \add serve him as a
-slave\add* \f + \ft metaphor \f* \add by\add* untying his sandals.” 
+slave\add* \f + \ft metaphor \f* \add by\add* untying his sandals." 
 \p
 \v 28 Those things happened at \add a place called\add* Bethany, on the
 \add east\add* side of the Jordan \add River\add*, where John was baptizing people.
@@ -100,73 +100,73 @@ slave\add* \f + \ft metaphor \f* \add by\add* untying his sandals.”
 \s John the Baptizer announced that Jesus was the one who would become a sacrifice to remove guilt for sin, and how God had
 confirmed that Jesus was the Son of God. 
 \p
-\v 29 The next day John saw Jesus coming toward him. He said to the people, “Look! Here is the
+\v 29 The next day John saw Jesus coming toward him. He said to the people, "Look! Here is the
 \add man whom\add* God \add has appointed to be a sacrifice\add* \f + \ft metaphor \f*,
 \add like\add* the lambs \add that the people of Israel sacrificed! By sacrificing
 himself\add* he will \add make it possible for everyone in\add* the world to be no longer
 \add guilty for having\add* sinned. 
-\v 30 He is the one about whom I said \add before\add*, ‘Someone will come later who is more important than I am, since he
-existed \add long\add* before me.’ 
+\v 30 He is the one about whom I said \add before\add*, 'Someone will come later who is more important than I am, since he
+existed \add long\add* before me.' 
 \v 31 I myself did not \add previously\add* recognize that he \add was the
 Messiah\add*. But \add now I know who he is\add*, and I have baptized people with water to enable
-\add you people of\add* Israel to recognize who he is.” 
+\add you people of\add* Israel to recognize who he is." 
 \p
-\v 32 John spoke clearly \add what God had shown him about Jesus\add*. He said, “I saw
+\v 32 John spoke clearly \add what God had shown him about Jesus\add*. He said, "I saw
 \add God's\add* Spirit as he was descending from heaven in the form of a dove. The Spirit remained on Jesus.
 \v 33 I myself did not know \add previously\add* that he \add was the
 Messiah\add*. However, \add God\add* sent me to baptize people with
 water\add , people who said they wanted to turn from their sinful ways. While I was doing
-that\add*, God told me, ‘The man on whom you will see my Spirit descend and remain is the one who will put the Holy Spirit
-within you\add (pl) to truly change your lives\add*.’ 
-\v 34 I saw \add the Spirit descend on him\add*, and I tell you that he is ◄the Son of God\f + \ft Or: the \f* person who is both God and
-man►.” 
+that\add*, God told me, 'The man on whom you will see my Spirit descend and remain is the one who will put the Holy Spirit
+within you\add (pl) to truly change your lives\add*.' 
+\v 34 I saw \add the Spirit descend on him\add*, and I tell you that he is the Son of God\f + \ft Or: the person who is both God and
+man \f*." 
 \s John 1:35-42 
 \s After John declared again that Jesus would be a sacrifice to remove guilt for sin, four men decided to become Jesus'
 disciples. 
 \p
 \v 35 The next day John was at the same place again with two of us\f + \ft Or: with two of his disciples \f*.
-\v 36 When he saw Jesus passing by, he said, “Look! There is the man God
+\v 36 When he saw Jesus passing by, he said, "Look! There is the man God
 \add has appointed to be a sacrifice, like\add* the lambs \f + \ft metaphor \f* \add the people of Israel have
-sacrificed!\add*” 
+sacrificed!\add*" 
 \v 37 When we\f + \ft Or: those two disciples \f* heard John say this, we, Or: they went with Jesus.
-\v 38 Jesus turned around and saw us\f + \ft Or: them \f* coming behind him. So he asked us\f + \ft Or: them \f*, “What do you want?” We\f + \ft Or: They \f* replied,
-“Teacher, \add tell us\add* where you are staying, \add because we want to talk with
-you\add*.” 
-\v 39 He replied, “Come \add with me\add*, and you will see \add where I am
-staying\add*!” So we\f + \ft Or: they \f* went with him and saw where he was staying. We\f + \ft Or: They \f* stayed with him until about 4 o'clock \f + \ft Or: from
+\v 38 Jesus turned around and saw us\f + \ft Or: them \f* coming behind him. So he asked us\f + \ft Or: them \f*, "What do you want?" We\f + \ft Or: They \f* replied,
+"Teacher, \add tell us\add* where you are staying, \add because we want to talk with
+you\add*." 
+\v 39 He replied, "Come \add with me\add*, and you will see \add where I am
+staying\add*!" So we\f + \ft Or: they \f* went with him and saw where he was staying. We\f + \ft Or: They \f* stayed with him until about 4 o'clock \f + \ft Or: from
 about 4 PM until the next day \f*. 
 \p
 \v 40 One of us\f + \ft Or: One of the two men \f* who heard what John had said and who went with Jesus was Andrew, Simon Peter's
 \add younger\add* brother. 
 \v 41  \add After Andrew left Jesus\add*, the first thing he did was to find his own
-\add older\add* brother Simon and say to him, “We have found the Messiah!”
-\v 42 Then he took Simon to Jesus. Jesus looked intently at him, and then said, “You are Simon. Your father's name is John. You
-will be given {\add I\add* will give you} the name Cephas.” \add Cephas is an Aramaic name that means ‘solid rock.’
+\add older\add* brother Simon and say to him, "We have found the Messiah!"
+\v 42 Then he took Simon to Jesus. Jesus looked intently at him, and then said, "You are Simon. Your father's name is John. You
+will be given {\add I\add* will give you} the name Cephas." \add Cephas is an Aramaic name that means 'solid rock.'
 It\add* means\add the same in Greek as the name\add* Peter. 
 \s John 1:43-51 
 \s Jesus told Nathaniel that he knew about him supernaturally, but that he would do things that were more surprising than that.
 \p
 \v 43 The next day \add Jesus\add* decided to leave \add the Jordan River
 valley\add*. He went to Galilee \add district\add* and \f + \ft Or: on the way there he \f* found a man named Philip. Jesus said to him,
-“Come with me!” 
+"Come with me!" 
 \v 44 Philip and Andrew and Peter were all from Bethsaida \add town\add*.
-\v 45 Then Philip \add searched for\add* Nathaniel and found him, and said to him, “We have met
+\v 45 Then Philip \add searched for\add* Nathaniel and found him, and said to him, "We have met
 \add the Messiah\add*, the one Moses \add wrote about!\add* The prophets also
 \add prophesied that he would come\add*. He is Jesus, from Nazareth
-\add town\add*. His father's name is Joseph.” 
-\v 46 Nathaniel replied, “Nazareth? ◄Nothing good can come from \add such an unimportant
-place\add*!\f + \ft Or: Can \f* anything good come from \add such an unimportant
-place\add*?► \f + \ft rhetorical question \f*” Philip replied, “Come and see!” 
-\v 47 When Jesus saw Nathaniel approaching, he said about Nathaniel, “Here is an example of a good Israelite! He never deceives
-anyone!” 
-\v 48 Nathaniel asked him, “How do you know what I \add am like\add*?” Jesus replied, “I saw you before Philip called you, when
-you were \add by yourself\add* under the fig tree.” 
-\v 49 Then Nathaniel declared, “Teacher, you \add must be\add* the Son of God\f + \ft Or: the person who is both God and man \f*! You are the
-King of Israel \add we have been waiting for\add*!” 
-\v 50 Jesus replied to him, “You \f + \ft rhetorical question \f* believe \add those things about
+\add town\add*. His father's name is Joseph." 
+\v 46 Nathaniel replied, "Nazareth? Nothing good can come from \add such an unimportant
+place\add*!\f + \ft Or: Can anything good come from \add such an unimportant
+place\add*? \f* \f + \ft rhetorical question \f*" Philip replied, "Come and see!" 
+\v 47 When Jesus saw Nathaniel approaching, he said about Nathaniel, "Here is an example of a good Israelite! He never deceives
+anyone!" 
+\v 48 Nathaniel asked him, "How do you know what I \add am like\add*?" Jesus replied, "I saw you before Philip called you, when
+you were \add by yourself\add* under the fig tree." 
+\v 49 Then Nathaniel declared, "Teacher, you \add must be\add* the Son of God\f + \ft Or: the person who is both God and man \f*! You are the
+King of Israel \add we have been waiting for\add*!" 
+\v 50 Jesus replied to him, "You \f + \ft rhetorical question \f* believe \add those things about
 me\add* because I told you I saw you when you were under the fig tree.
 \add I was able to see you supernaturally even though I was far away from
-you\add*. But you will see \add me do\add* things that are more surprising than that!”
-\v 51 Then Jesus said to him, “This is the absolute truth: \add Just like what your ancestor Jacob saw long ago in a
+you\add*. But you will see \add me do\add* things that are more surprising than that!"
+\v 51 Then Jesus said to him, "This is the absolute truth: \add Just like what your ancestor Jacob saw long ago in a
 vision\add*, some day you\add (pl)\add* will see heaven opened up, and you will see God's angels ascending from me and
-descending on me, the one who came from heaven.” 
+descending on me, the one who came from heaven." 

@@ -4,7 +4,7 @@
 \v 1 Yahweh, listen to what I am praying; 
 \q hear me while I cry out to you! 
 \q
-\v 2 Do not turn away\f + \ft Or: hide yourself► from me when I ◄have troubles, Or: am distressed \f*!
+\v 2 Do not turn away\f + \ft Or: hide yourself \f* from me when I have troubles\f + \ft Or: am distressed \f*!
 \q Listen to me, 
 \q2 and answer me quickly now, when I am calling out to you! 
 \b
@@ -28,7 +28,7 @@ thin\add*.
 \q
 \v 8 All during each day my enemies insult me; 
 \q2 those who make fun of me mention my name 
-\q2 \add and say, “May you be like him”\add* when they curse people.
+\q2 \add and say, "May you be like him"\add* when they curse people.
 \q
 \v 9-10 Because you are very angry \f + \ft doublet \f* with me, 
 \q now \add I sit in\add* ashes \add while I am suffering greatly\add*;
@@ -72,7 +72,7 @@ thin\add*.
 \q and saw \add what was happening on\add* the earth. 
 \q
 \v 20 They will know that you hear prisoners groaning 
-\q2 and that you will set free those who have been told, “You will be executed.”
+\q2 and that you will set free those who have been told, "You will be executed."
 \q
 \v 21 As a result, people in Jerusalem will praise you \f + \ft doublet \f* for what you
 \add have done\add* 
@@ -84,7 +84,7 @@ other\add* kingdoms gather to worship you.
 \v 23  \add But now\add* you have caused me to become weak while I am still young;
 \q2 \add I think that\add* I will not remain alive very long\f + \ft Or: soon die \f*.
 \q
-\v 24 I say to you, “My God, do not take me away \add from the earth\add* now,
+\v 24 I say to you, "My God, do not take me away \add from the earth\add* now,
 \q2 before I become old! 
 \q You live forever! 
 \q
@@ -101,4 +101,4 @@ other\add* kingdoms gather to worship you.
 \q2 you never die. 
 \q
 \v 28  \add Some day\add* our children will live safely \add in Jerusalem\add*,
-\q and their descendants will be protected in your presence.” 
+\q and their descendants will be protected in your presence." 

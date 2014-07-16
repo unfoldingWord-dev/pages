@@ -2,7 +2,7 @@
 \s Rituals for those healed of contagious skin diseases 
 \p
 \v 1 Yahweh also said to Moses\f + \ft Or: me \f*, 
-\v 2 “These are the regulations for anyone who has been healed of a contagious skin disease.
+\v 2 "These are the regulations for anyone who has been healed of a contagious skin disease.
 \v 3 The person must be brought to the priest. The priest will take him outside the camp
 \add to where that person has been staying\add*, and examine him. If the skin disease has been healed,
 \v 4 the priest will say that someone must bring two living birds that are acceptable to Yahweh, along with some cedar wood,
@@ -71,16 +71,16 @@ that Yahweh has forgiven him for having sinned.
 By doing that, the priest will declare that the person is no longer guilty for having sinned.
 \p
 \v 32 Those are the regulations for anyone who has a contagious skin disease and who is poor and cannot afford the usual
-offerings, in order that he can be with people again.” 
+offerings, in order that he can be with people again." 
 \s Instructions regarding mildew in a house 
 \p
 \v 33 Yahweh also said to Aaron and Moses\f + \ft Or: me \f*, 
-\v 34 “I am about to give you Canaan land to belong to your people permanently. When you enter that land, there will be times
+\v 34 "I am about to give you Canaan land to belong to your people permanently. When you enter that land, there will be times
 when I cause\f + \ft Or: allow \f* mildew to appear inside one of your houses. 
-\v 35 If that happens, the owner of that house must go to the priest and tell him, ‘There is something in my house that looks
-like mildew.’ 
-\v 36 Then the priest will say to him, ‘Take everything out of the house before I enter the house to examine the mildew. If you
-do not do that, I will declare that everything in the house is contaminated.’
+\v 35 If that happens, the owner of that house must go to the priest and tell him, 'There is something in my house that looks
+like mildew.' 
+\v 36 Then the priest will say to him, 'Take everything out of the house before I enter the house to examine the mildew. If you
+do not do that, I will declare that everything in the house is contaminated.'
 \v 37  \add After the owner takes everything outside of his house\add*, the priest will go in and inspect the house. If the
 mildew has caused greenish or reddish spots\f + \ft Or: depressions \f* on the walls that seem to be deeper than only on the surface of the
 walls, 
@@ -118,4 +118,4 @@ blood of the dead bird, and sprinkle some of that blood on the house seven times
 \v 54 Those are the regulations for contagious diseases, for itching sores,
 \v 55 for mildew \f + \ft doublet \f* on clothes or in a house, 
 \v 56 and for swellings, rashes, or bright spots \add on sores\add*,
-\v 57 to determine whether people will still be permitted to touch those things or not.”
+\v 57 to determine whether people will still be permitted to touch those things or not."

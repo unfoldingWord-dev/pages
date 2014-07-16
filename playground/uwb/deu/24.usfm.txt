@@ -1,7 +1,7 @@
 \c 24  
 \s Laws about divorcing and remarrying 
 \p
-\v 1 “Suppose a man marries a woman and later decides that he does not want her because there is something
+\v 1 "Suppose a man marries a woman and later decides that he does not want her because there is something
 offensive\f + \ft Or: disgraceful \f* concerning her. And suppose he writes a paper in which he says that he is divorcing her, and he gives the
 paper to her \f + \ft synecdoche \f* and sends her away from his house. 
 \v 2 Then suppose that she goes and marries another man, 
@@ -63,4 +63,4 @@ there\add* for foreigners, orphans, and widows. If you do that, Yahweh will bles
 \add to try to find more\add*. Leave them for the foreigners, orphans, and widows
 \add among you\add*. 
 \v 22 Do not forget that \add Yahweh acted kindly toward you when\add* you were slaves in Egypt. That is why I am commanding
-you \add to be kind to those who are needy\add*.” 
+you \add to be kind to those who are needy\add*." 

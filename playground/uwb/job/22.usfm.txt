@@ -3,12 +3,12 @@
 \p
 \v 1 Then Eliphaz replied, saying this: 
 \q
-\v 2 “Can anyone be useful to God?\f + \ft Or: Certainly no one can be useful to God. \f* \f + \ft rhetorical question \f*
+\v 2 "Can anyone be useful to God?\f + \ft Or: Certainly no one can be useful to God. \f* \f + \ft rhetorical question \f*
 \q2 People who are wise can be useful to themselves, \add but not to
 God\add*. 
 \q
-\v 3 If you were righteous, ◄would that benefit Almighty \add God\add*?\f + \ft Or: that \f* certainly would not benefit Almighty
-\add God\add*.► \f + \ft rhetorical question \f* 
+\v 3 If you were righteous, would that benefit Almighty \add God\add*?\f + \ft Or: that certainly would not benefit Almighty
+\add God\add*. \f* \f + \ft rhetorical question \f* 
 \q2 If you had lived a perfect life\f + \ft Or: never done anything that is wrong \f*, would that help him?
 \b
 \q
@@ -41,9 +41,9 @@ back to you;
 \v 12  \add But consider this, Job:\add* God lives \f + \ft rhetorical question \f* high up in the heavens.
 \q2 From there he \f + \ft rhetorical question \f* looks down on the highest stars. 
 \q
-\v 13 So why do you say, ‘What does God know \add about what we are
+\v 13 So why do you say, 'What does God know \add about what we are
 doing\add*? 
-\q2 \add He is hidden from us by\add* dark clouds, so how can he judge us?\f + \ft Or: he certainly cannot judge us. \f* \f + \ft rhetorical question \f*’
+\q2 \add He is hidden from us by\add* dark clouds, so how can he judge us?\f + \ft Or: he certainly cannot judge us. \f* \f + \ft rhetorical question \f*'
 \q
 \v 14  \add Do you think that\add* while he walks on the dome that covers the sky,
 \q2 there are thick clouds around him, with the result that he cannot see
@@ -55,9 +55,9 @@ doing\add*?
 \v 16 They suddenly died while they were still young; 
 \q2 they disappeared \add like everything disappears when there is\add* a flood \f + \ft metaphor \f*.
 \q
-\v 17 They kept saying to God, ‘Allow us to be alone\f + \ft Or: Do not bother us \f*,’
-\q2 and they also said \add defiantly\add*, ‘Almighty \add God\add* can do nothing \f + \ft rhetorical question \f* to
-\add harm\add* us!’ 
+\v 17 They kept saying to God, 'Allow us to be alone\f + \ft Or: Do not bother us \f*,'
+\q2 and they also said \add defiantly\add*, 'Almighty \add God\add* can do nothing \f + \ft rhetorical question \f* to
+\add harm\add* us!' 
 \q
 \v 18 But it was God who filled their houses with good things, 
 \q2 so I cannot at all understand why wicked people think like they do.
@@ -66,8 +66,8 @@ doing\add*?
 \v 19 But when God punishes wicked people, and righteous people see that, they are glad,
 \q2 and they laugh, ridiculing the wicked people. 
 \q
-\v 20 They say, ‘Now our enemies have been destroyed, 
-\q2 and all \add their possessions\add* that were left have been burned in a fire.’
+\v 20 They say, 'Now our enemies have been destroyed, 
+\q2 and all \add their possessions\add* that were left have been burned in a fire.'
 \b
 \q
 \v 21 So, \add Job\add*, be reconciled to God and make peace with him;
@@ -98,4 +98,4 @@ as\add* your gold and your silver have been,
 \q2 but he saves those who are downcast\f + \ft Or: discouraged \f*. 
 \q
 \v 30 God rescues those who are innocent\f + \ft Or: have not done things that are wrong \f*,
-\q2 so he will rescue you if you start doing things that are right\f + \ft Or: are not guilty [IDI] of doing things that are wrong \f*.”
+\q2 so he will rescue you if you start doing things that are right\f + \ft Or: are not guilty [IDI] of doing things that are wrong \f*."

@@ -1,7 +1,7 @@
 \c 13  
 \s The areas that the Israelis had not yet captured 
 \p
-\v 1 When Joshua was very old, Yahweh said to him, “Joshua, you are now an old man, but there is still a lot of land
+\v 1 When Joshua was very old, Yahweh said to him, "Joshua, you are now an old man, but there is still a lot of land
 \add for your army\add* to capture. 
 \v 2 Here is a list of the land that remains: the Geshur region and all the area where the Philistia people-group live;
 \v 3 the area where the Canaan people-group live, from the Shihor River
@@ -17,7 +17,7 @@ leave that area before you Israelis arrive there. Be sure to give that area to t
 among them, like I told you to do. 
 \v 7 Divide all that land among the nine Israeli tribes and half of the tribe of Manasseh,
 \add the tribes that do not have land on the east side of the Jordan
-River\add*.” 
+River\add*." 
 \s The land east of the Jordan River 
 \m
 \v 8 Half of the tribe of Manasseh and the tribes of Reuben and Gad had already been told what land they would receive, because

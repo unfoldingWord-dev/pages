@@ -2,7 +2,7 @@
 \s A message about Moab 
 \p
 \v 1 This is a message about Moab. The Almighty Commander of the armies of angels said:
-\q “Terrible things will happen to Nebo \add town\add*; 
+\q "Terrible things will happen to Nebo \add town\add*; 
 \q2 it will soon be ruined. 
 \q Kiriathaim \add city\add* will be captured and \add all its people will
 be\add* humiliated; 
@@ -10,7 +10,7 @@ be\add* humiliated;
 \q
 \v 2 No one will boast about Moab again; 
 \q2 the enemies of Moab will plan to destroy \add the capital city\add*, Heshbon.
-\q2 They will say, ‘Come, let's cause Moab to no longer be a nation.’
+\q2 They will say, 'Come, let's cause Moab to no longer be a nation.'
 \q You people in Madmen \add town\add*, you also will be silenced;
 \q2 enemy armies \f + \ft metonymy \f* will pursue you. 
 \q
@@ -25,8 +25,8 @@ be\add* humiliated;
 \q Others will wail on the road down to Horonaim, 
 \q2 being very sad because of their town being destroyed. 
 \q
-\v 6  \add Someone will say to them\add*, ‘Flee! 
-\q2 Hide in the desert!’ 
+\v 6  \add Someone will say to them\add*, 'Flee! 
+\q2 Hide in the desert!' 
 \q
 \v 7 But you trusted that because you were rich and powerful, \add you would be
 safe\add*; 
@@ -42,7 +42,7 @@ safe\add*;
 \v 9 Spread salt on the ground 
 \q2 in order that it will become a wasteland because \add nothing will grow there
 anymore\add*, 
-\q2 and no one will be living in it!” 
+\q2 and no one will be living in it!" 
 \b
 \q
 \v 10 Yahweh will curse anyone who will not eagerly do what he desires,
@@ -69,8 +69,8 @@ flavor\add*,
 \add was smashed\add* at Bethel. 
 \b
 \q
-\v 14 The soldiers of Moab previously said, “We are warriors; 
-\q2 we have fought bravely in battles!” 
+\v 14 The soldiers of Moab previously said, "We are warriors; 
+\q2 we have fought bravely in battles!" 
 \q
 \v 15 But now our King, who is Yahweh, who is called 'the Almighty Commander of the armies of angels,' says that the country of
 Moab and all the towns in it will be destroyed. 
@@ -82,7 +82,7 @@ Moab and all the towns in it will be destroyed.
 \v 17 You people who live in nations near Moab, 
 \q2 who know that it is very famous, 
 \q should mourn for Moab, 
-\q and say, “Its glorious power \f + \ft metonymy, doublet \f* is completely ended\f + \ft Or: broken \f*.”
+\q and say, "Its glorious power \f + \ft metonymy, doublet \f* is completely ended\f + \ft Or: broken \f*."
 \b
 \q
 \v 18 You people of Dibon \add city\add*, stop being proud because of being honored,
@@ -93,10 +93,10 @@ Moab and all the towns in it will be destroyed.
 \v 19 You people of Aroer \add town\add*, 
 \q2 stand along the road and watch. 
 \q Shout to the men and women who will be fleeing from Moab, 
-\q2 “What has happened there?” 
+\q2 "What has happened there?" 
 \q
 \v 20 They will reply, 
-\q2 “Moab is ruined and we are disgraced!” 
+\q2 "Moab is ruined and we are disgraced!" 
 \q So weep and wail \f + \ft doublet \f*. 
 \q2 Proclaim at the Aroer \add River\add* that Moab has been destroyed.
 \q
@@ -110,7 +110,7 @@ Moab and all the towns in it will be destroyed.
 \v 24 Kerioth and Bozrah, 
 \q2 cities that are near each other and towns that are far away from each other.
 \q
-\v 25 Yahweh says, “The power \f + \ft metonymy \f* of Moab will be finished; 
+\v 25 Yahweh says, "The power \f + \ft metonymy \f* of Moab will be finished; 
 \q2 \add it is as though\add* \f + \ft metaphor \f* it will have a broken arm. 
 \q
 \v 26 You people of Moab have rebelled against me, Yahweh; 
@@ -124,13 +124,13 @@ Moab and all the towns in it will be destroyed.
 \q
 \v 28 You people who live in Moab, 
 \q2 you should abandon your towns and go and live in caves. 
-\q Be like \f + \ft simile \f* doves that make their nests in the entrances of caves.”
+\q Be like \f + \ft simile \f* doves that make their nests in the entrances of caves."
 \b
 \q
 \v 29 We have all heard that the people of Moab are very proud; 
 \q2 they are extremely proud and conceited\f + \ft Or: arrogant \f*. [IDI, DOU] 
 \q
-\v 30 But Yahweh says, “I know about that, 
+\v 30 But Yahweh says, "I know about that, 
 \q2 but it is useless for them to boast 
 \q2 because it will accomplish nothing. 
 \q
@@ -181,7 +181,7 @@ Moab\add*.
 there\add*. 
 \p
 \v 40 This is what I, Yahweh, say: 
-\q ‘Look! Their enemies will be swooping\f + \ft Or: rushing \f* down over Moab 
+\q 'Look! Their enemies will be swooping\f + \ft Or: rushing \f* down over Moab 
 \q2 like an eagle \f + \ft simile \f* swoops down \add to seize an animal\add*.
 \q
 \v 41 Its cities will be captured, 
@@ -196,7 +196,7 @@ there\add*.
 \q
 \v 44 Those who are terrified and try to run away will fall into deep pits.
 \q2 Whoever climbs out of a pit will be caught in a trap, 
-\q because I will punish them at the time that I have appointed.’
+\q because I will punish them at the time that I have appointed.'
 \b
 \q
 \v 45 The people will flee as far as Heshbon \add city\add*, 
@@ -213,5 +213,5 @@ countries\add*.
 \b
 \q
 \v 47 But some day, I will enable the people of Moab to return to their land again.
-\q2 \add That will surely happen because\add* I, Yahweh, have said it.”
+\q2 \add That will surely happen because\add* I, Yahweh, have said it."
 \p That is the end of what Jeremiah prophesied about Moab. 

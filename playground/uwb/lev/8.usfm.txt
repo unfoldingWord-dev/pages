@@ -2,13 +2,13 @@
 \s Aaron and his sons were appointed to be priests 
 \p
 \v 1 Yahweh also said to Moses\f + \ft Or: me \f*, 
-\v 2 “Bring Aaron and his sons, and bring their ◄special clothes\f + \ft Or: clothes \f* that they will wear while they do the work of
-priests►, the oil for anointing them, the bull to be offered to cause them to become acceptable to God, the two rams
+\v 2 "Bring Aaron and his sons, and bring their special clothes\f + \ft Or: clothes that they will wear while they do the work of
+priests \f*, the oil for anointing them, the bull to be offered to cause them to become acceptable to God, the two rams
 \add to be slaughtered\add*, and the basket containing bread made without yeast.
-\v 3 Then gather all the people at the entrance to the Sacred Tent.”
+\v 3 Then gather all the people at the entrance to the Sacred Tent."
 \v 4 Moses\f + \ft Or: I \f* did what Yahweh told him\f + \ft Or: me \f* to do, and all the people gathered there.
 \p
-\v 5 Then Moses\f + \ft Or: I \f* said to the people, “This is what Yahweh has commanded us to do.”
+\v 5 Then Moses\f + \ft Or: I \f* said to the people, "This is what Yahweh has commanded us to do."
 \v 6 Then he\f + \ft Or: I \f* brought Aaron and his sons forward and washed them.
 \v 7 He\f + \ft Or: I \f* put the special tunic\f + \ft Or: shirt \f* on Aaron, tied the sash\f + \ft Or: waistband \f* around him, put on the special robe on him, and put on
 him the sacred vest\f + \ft Or: apron \f*. He\f + \ft Or: I \f* fastened the sacred vest\f + \ft Or: apron \f* around him, using the skillfully woven waistband.
@@ -64,7 +64,7 @@ was Moses'\f + \ft Or: my \f* share of the ram that was sacrificed to dedicate t
 sons\add*, and some of the blood that was on the altar and sprinkled it on Aaron and his sons and on their clothes. By doing
 that, he\f + \ft Or: I \f* consecrated Aaron and his sons and their clothes. 
 \p
-\v 31 Then Moses\f + \ft Or: I \f* said to Aaron and his sons, “Boil the meat at the entrance of the Sacred Tent, and eat it there with the
+\v 31 Then Moses\f + \ft Or: I \f* said to Aaron and his sons, "Boil the meat at the entrance of the Sacred Tent, and eat it there with the
 bread that is in the basket, like I told you to do. 
 \v 32 Burn up any of the meat and bread that remains. 
 \v 33 The time for you to be set apart as priests will be seven days, so do not leave the entrance of the Sacred Tent for seven
@@ -72,6 +72,6 @@ days.
 \v 34 What we have done today is what Yahweh commanded to cause that you will be forgiven for your sins.
 \v 35 You must stay at the entrance of the Sacred Tent for seven days and seven nights and do what Yahweh requires, in order
 that you will not die \add because of disobeying him\add*. \add I am telling you
-that\add* because that is what Yahweh has commanded me to tell you.”
+that\add* because that is what Yahweh has commanded me to tell you."
 \p
 \v 36 So Aaron and his sons did everything that Yahweh told Moses\f + \ft Or: me \f* to tell them.

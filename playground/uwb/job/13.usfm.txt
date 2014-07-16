@@ -1,15 +1,15 @@
 \c 13  
 \s Job continued his reply 
 \q
-\v 1 “Hey, I \f + \ft synecdoche \f* have seen everything \add that you have seen\add*,
+\v 1 "Hey, I \f + \ft synecdoche \f* have seen everything \add that you have seen\add*,
 \q2 and I have heard and understood all \add that you have said\add*.
 \q
 \v 2 What you know, I also know; 
 \q2 I do not know less than\f + \ft Or: know as much as \f* you. 
 \q
 \v 3 But I would like to speak to Almighty God, \add not to you\add*;
-\q2 I would like to argue with him \add and prove that I ◄am innocent\f + \ft Or: have \f* not done things that are
-wrong\add*►. 
+\q2 I would like to argue with him \add and prove that I am innocent\f + \ft Or: have not done things that are
+wrong\add* \f*. 
 \q
 \v 4 As for you, you tell lies \add and do not allow people to know what is the
 truth\add*, 
@@ -55,10 +55,10 @@ say\add*.
 \q
 \v 16 No wicked\f + \ft Or: godless \f* person would dare to stand in the presence of God,
 \q \add but because I say that I have not done things that are wrong\add*,
-\q2 perhaps, if I can prove that to God, he will save me.” 
+\q2 perhaps, if I can prove that to God, he will save me." 
 \s Job asks God to tell him what his charges are 
 \q
-\v 17 “God, listen very carefully to what I say \f + \ft doublet \f*. 
+\v 17 "God, listen very carefully to what I say \f + \ft doublet \f*. 
 \q
 \v 18 I am ready to prove that I am innocent, 
 \q2 and I know that you also will declare that I am not guilty. 
@@ -97,4 +97,4 @@ say\add*.
 \add to see where I have gone\add*. 
 \q
 \v 28 As a result, my body is decaying like \f + \ft simile \f* rotten wood, 
-\q2 like a piece of cloth that is eaten by \add larvae of\add* moths.”
+\q2 like a piece of cloth that is eaten by \add larvae of\add* moths."

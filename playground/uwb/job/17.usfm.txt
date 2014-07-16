@@ -1,14 +1,14 @@
 \c 17  
 \s Job continued his reply 
 \q
-\v 1 “My time to live is almost ended; I have no strength left; 
+\v 1 "My time to live is almost ended; I have no strength left; 
 \q2 my grave is waiting for me. 
 \q
 \v 2 Those who are around me are making fun of me; 
-\q2 I \f + \ft synecdoche \f* watch them while they taunt\f + \ft Or: belittle \f* me.” 
+\q2 I \f + \ft synecdoche \f* watch them while they taunt\f + \ft Or: belittle \f* me." 
 \s Job pleads with God 
 \q
-\v 3 “God, \add it is as though I am in prison\add*; 
+\v 3 "God, \add it is as though I am in prison\add*; 
 \q please pay the money in order that I may be released, 
 \q2 because there is certainly no one else who will help me. 
 \q
@@ -17,9 +17,9 @@ me\add*;
 \q2 do not allow them to triumph over me, \add saying that I have done things that are
 wrong\add*. 
 \q
-\v 5  \add Our ancestors often said, ‘It often happens that\add* when someone betrays his friends in order to get some of their
+\v 5  \add Our ancestors often said, 'It often happens that\add* when someone betrays his friends in order to get some of their
 property, 
-\q2 it is that person's children who will be punished for it;’ 
+\q2 it is that person's children who will be punished for it;' 
 \q \add so I desire\f + \ft Or: hope \f* that will be true of these friends of mine who are lying about
 me\add*. 
 \b
@@ -56,15 +56,15 @@ me\add*,
 \v 13 I may say that my home will be the place where dead people are,
 \q2 where I will sleep in the darkness. 
 \q
-\v 14 I may say to the grave, ‘Where I am buried will be \add like\add* a father to me.’
-\q2 I may say to the maggots, ‘You will be \add like\add* a mother or younger sisters to me
-\add because that is where I will always be\add*.’ 
+\v 14 I may say to the grave, 'Where I am buried will be \add like\add* a father to me.'
+\q2 I may say to the maggots, 'You will be \add like\add* a mother or younger sisters to me
+\add because that is where I will always be\add*.' 
 \q
-\v 15 But if I say those things, ◄will there be anything good that I can confidently expect to happen to me?\f + \ft Or: there \f* will be
-nothing good that I can confidently expect to happen to me.► \f + \ft rhetorical question \f*
-\q2 ◄Is there anyone who knows anything good that I can expect when I am there?\f + \ft Or: No \f* one knows anything good that I can expect
-when I am there.► \f + \ft rhetorical question \f* 
+\v 15 But if I say those things, will there be anything good that I can confidently expect to happen to me?\f + \ft Or: there will be
+nothing good that I can confidently expect to happen to me. \f* \f + \ft rhetorical question \f*
+\q2 Is there anyone who knows anything good that I can expect when I am there?\f + \ft Or: No one knows anything good that I can expect
+when I am there. \f* \f + \ft rhetorical question \f* 
 \q
-\v 16 After I descend to the place where the dead are, ◄will I be able to confidently expect anything good there?\f + \ft Or: I \f* certainly
-will not be able to confidently expect anything good there.► \f + \ft rhetorical question \f*
-\q2 \add It will be as though\add* \f + \ft rhetorical question \f* I and the things I hope for will descend with me into the dust.”
+\v 16 After I descend to the place where the dead are, will I be able to confidently expect anything good there?\f + \ft Or: I certainly
+will not be able to confidently expect anything good there. \f* \f + \ft rhetorical question \f*
+\q2 \add It will be as though\add* \f + \ft rhetorical question \f* I and the things I hope for will descend with me into the dust."

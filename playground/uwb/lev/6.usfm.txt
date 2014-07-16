@@ -1,7 +1,7 @@
 \c 6  
 \p
 \v 1 Yahweh also said to Moses\f + \ft Or: me \f*, 
-\v 2 “If you sin against Yahweh by deceiving someone — if you refuse to return what someone has lent you, of if you steal
+\v 2 "If you sin against Yahweh by deceiving someone — if you refuse to return what someone has lent you, of if you steal
 something of his, of if you find something and claim that you do not have it,
 \v 3 you are guilty. You must return to its owner what you have stolen or what someone has lent you and you have not returned,
 or what you found that someone else had lost, 
@@ -10,11 +10,11 @@ or what you found that someone else had lost,
 \v 6 You must also bring to the priest a ram to be an offering to Yahweh in order that you will no longer be guilty. The ram
 that you bring must be one that has no defects, one that is worth the right amount.
 \v 7 Then the priest will offer that ram to be a sacrifice that will cause you to no longer be guilty, and you will be forgiven
-for the wrong things that you did.” 
+for the wrong things that you did." 
 \s The burnt offerings 
 \p
 \v 8 Yahweh also said to Moses\f + \ft Or: me \f*, 
-\v 9 “Tell this to Aaron and his sons: ‘These are the regulations concerning the offerings that will be completely burned
+\v 9 "Tell this to Aaron and his sons: 'These are the regulations concerning the offerings that will be completely burned
 \add on the altar\add*: The offering must remain on the altar all during the night, and the fire on the altar must always be
 kept burning. 
 \v 10  \add The next morning\add* the priest must put on his linen under-clothes and linen outer clothes. Then he must remove
@@ -24,7 +24,7 @@ acceptable to Yahweh.
 \v 12 The fire on the altar must always be kept burning; the priest must not allow it to go out\f + \ft Or: quit burning \f*. Each morning
 the priest must put more firewood on the fire. Then he must arrange more offerings on the fire, and burn on the altar the fat
 of the offerings to be burned to maintain fellowship \add with Yahweh\add*.
-\v 13 The fire on the altar must be kept burning continually; the priest must not allow it to go out.’ ”
+\v 13 The fire on the altar must be kept burning continually; the priest must not allow it to go out.' "
 \s The grain offerings 
 \p
 \v 14 These are the regulations concerning the offerings made from grain: Aaron's sons must bring them to Yahweh in front of
@@ -40,7 +40,7 @@ to Yahweh and burned in the fire \add on the altar\add*. Anyone else who touches
 punished by God. 
 \p
 \v 19 Yahweh also said to Moses\f + \ft Or: me \f*, 
-\v 20 “Tell Aaron and his sons that this is the offering that they must bring to Yahweh on the day that any of them is
+\v 20 "Tell Aaron and his sons that this is the offering that they must bring to Yahweh on the day that any of them is
 ordained\f + \ft Or: becomes a priest \f*: That person must bring two quarts, Or: liters of fine flour as an offering made from grain. He must
 bring half of it in the morning and half of it in the evening. 
 \v 21 He must mix it well with olive oil and bake it in a shallow pan. He must then break it into small pieces to be burned
@@ -48,11 +48,11 @@ bring half of it in the morning and half of it in the evening.
 \v 22 I have commanded that the descendants of Aaron who are appointed to become the Supreme Priests after Aaron dies are the
 ones who must prepare those things. They must be completely burned
 \add on the altar\add* to be sacrifices to Yahweh. 
-\v 23 Every offering that a priest gives that is made from grain must be completely burned; none of it is to be eaten.”
+\v 23 Every offering that a priest gives that is made from grain must be completely burned; none of it is to be eaten."
 \s The sin offering 
 \p
 \v 24 Yahweh also said to Moses\f + \ft Or: me \f*, 
-\v 25 “Tell Aaron and his sons, ‘These are the regulations concerning the offerings to cause people to become acceptable to God
+\v 25 "Tell Aaron and his sons, 'These are the regulations concerning the offerings to cause people to become acceptable to God
 again: 
 \v 26 The animals must be slaughtered in Yahweh's presence in the same place that the animals that are to be completely burned
 \add on the altar\add* are slaughtered, in the courtyard in front of the Sacred Tent.
@@ -63,4 +63,4 @@ must wash the clothes in a holy place.
 \add afterwards\add* and rinsed with water. 
 \v 29 Any male in a priest's family may eat some of the cooked meat; that meat is very holy.
 \v 30 But if the blood of those offerings is brought into the Sacred Tent to enable the people to be forgiven for having
-sinned, the meat of those animals must not be eaten. The meat must be completely burned.’ ”
+sinned, the meat of those animals must not be eaten. The meat must be completely burned.' "

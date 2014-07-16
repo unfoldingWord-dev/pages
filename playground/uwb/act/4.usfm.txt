@@ -7,8 +7,8 @@ police, and \add also some\add* \f + \ft synecdoche \f* Sadducee \add sect membe
 were speaking to the people. 
 \v 2 These men were very angry, because the \add two\add* apostles were teaching the people
 \add about Jesus\add*. What they were telling them was that because
-◄\add God caused Jesus to become alive again\f + \ft Or: God \f* raised\add* Jesus
-\add from the dead\add*►, \add God\add* would cause other people who had died to become alive again.
+\add God caused Jesus to become alive again\f + \ft Or: God raised\add* Jesus
+\add from the dead\add* \f*, \add God\add* would cause other people who had died to become alive again.
 \v 3 So those officials seized Peter and John. Then they put them in jail.
 \add They had to wait\add* until the next day \add to question Peter and
 John\add*, because it was already evening \add and it was contrary to their Jewish law to question people at
@@ -27,12 +27,12 @@ they\add* gathered together \add in one place\add* in Jerusalem.
 priest\add*, \add two other former high priests whose names were\add* John and Alexander, and other men who were related to the
 high priest \add were there\add*. 
 \v 7 They \add commanded guards to\add* bring Peter and John into the courtroom \f + \ft metonymy \f* and have them stand in front of them.
-\add Then one of\add* the leaders questioned \add the two of\add* them, saying, “Who
-\add do you two claim\add* gave you the power \add to heal this man\add*? And who authorized \f + \ft metonymy \f* you to do this \f + \ft doublet \f*?”
+\add Then one of\add* the leaders questioned \add the two of\add* them, saying, "Who
+\add do you two claim\add* gave you the power \add to heal this man\add*? And who authorized \f + \ft metonymy \f* you to do this \f + \ft doublet \f*?"
 \s Acts 4:8-12 
 \s Peter told them that Jesus healed the man and only Jesus could save people.
 \p
-\v 8 So as the Holy Spirit completely controlled Peter, he said to them, “You
+\v 8 So as the Holy Spirit completely controlled Peter, he said to them, "You
 \add fellow Israelites\add* who rule us and \add all of you other\add* elders,
 \add listen\add*! 
 \v 9 Today you are questioning us concerning our performing a good deed for a man who was crippled, and you asked us how he
@@ -47,7 +47,7 @@ Messiah \f + \ft metonymy \f* from Nazareth healed him that this man is able to 
 \p \add Jesus is that stone, and\add* you \add are those builders who threw away the stone that was the most important
 one\add*. 
 \v 12 So he alone can save us \f + \ft metonymy \f*. \add God\add* has sent only one person \f + \ft metonymy \f* into the world who can save us
-\add from the guilt of our sins, and that person is Jesus!\add*”
+\add from the guilt of our sins, and that person is Jesus!\add*"
 \s Acts 4:13-14 
 \s The Jewish leaders realized that Peter and John had been associating with Jesus.
 \p
@@ -63,26 +63,26 @@ leaders were amazed, and they realized that these men had associated with Jesus.
 \v 15 So the \add Jewish leaders\add* commanded \add guards\add* to take Peter, John, and the man outside of the room
 \add where those leaders were meeting. After they did so\add*, the leaders talked with each other
 \add about Peter and John\add*. 
-\v 16  \add Being frustrated, one after another\add*, said, “◄There is really nothing that we can do to
-\add punish\add* these \add two\add* men!\f + \ft Or: How \f* can we\add (inc)\add* do anything to
-\add punish\add* these \add two\add* men?► \f + \ft rhetorical question \f* Almost everyone \f + \ft hyperbole \f* who is living in Jerusalem knows that they have done an
+\v 16  \add Being frustrated, one after another\add*, said, "There is really nothing that we can do to
+\add punish\add* these \add two\add* men!\f + \ft Or: How can we\add (inc)\add* do anything to
+\add punish\add* these \add two\add* men? \f* \f + \ft rhetorical question \f* Almost everyone \f + \ft hyperbole \f* who is living in Jerusalem knows that they have done an
 amazing miracle, so we cannot tell people that it did not happen!
 \v 17 However, \add we\add* must not allow other people to hear about
 \add this miracle\add*. So we must tell these men that \add we will punish them if
 they\add* continue to tell other people about this \f + \ft metonymy \f* man \add who they say gave them the power to do
-it\add*.” 
+it\add*." 
 \v 18 So the Jewish leaders \add commanded guards\add* to bring the two apostles
 \add into that room again. After they did so\add*, they \add commanded\add* them both that they should never speak about Jesus,
 and they should not teach \add anyone about him\add* \f + \ft metonymy \f* \add again\add*.
 \s Acts 4:19-20 
 \s Peter and John said that they needed to continue speaking about Jesus.
 \p
-\v 19 But Peter and John replied, “Would God think that it is right
+\v 19 But Peter and John replied, "Would God think that it is right
 \add for us two\add* to obey you and not \add to obey\add* him? \add We(exc) will
 let\add* you decide \add what you think is proper\add*. 
 \v 20  \add But as for us, we cannot obey you\add*. We will not stop telling people about the things that
 we\add (exc)\add* have seen \add Jesus do\add* and what we have heard
-\add him teach\add*.” 
+\add him teach\add*." 
 \s Acts 4:21-22 
 \s The Jewish leaders threatened to punish Peter and John and then released them.
 \p
@@ -99,7 +99,7 @@ apostles\add*. So, because they could not decide how to punish Peter and John,
 \v 23 After Peter and John had been released, they went to the other believers and reported all that the chief priests and
 \add other Jewish\add* elders had said to them. 
 \v 24 When they heard that, they \add all\add* agreed as they prayed to God, and
-\add one of\add* them prayed, “O Lord! You\add (sg)\add* made the sky, the earth and the oceans, and everything in them.
+\add one of\add* them prayed, "O Lord! You\add (sg)\add* made the sky, the earth and the oceans, and everything in them.
 \v 25 The Holy Spirit caused our ancestor, \add King\add* David \f + \ft metonymy \f*, who served you, to write these words:
 \q \add It is ridiculous\add* \f + \ft rhetorical question \f* that the non-Jews became angry and the Israelite people planned uselessly
 \add against God\add*. 
@@ -114,21 +114,21 @@ together \add here\add* in this city. \add They\add* planned \add to
 kill\add* Jesus, who devotedly served you \add and\add* whom you appointed \f + \ft metonymy \f*
 \add to be the Messiah\add*. 
 \v 28  \add Because\add* you\add (sg)\add* are all-powerful, those people did
-\add only\add* what you \f + \ft synecdoche \f* allowed \add them to do\add*. It was what you decided long ago would happen.”
+\add only\add* what you \f + \ft synecdoche \f* allowed \add them to do\add*. It was what you decided long ago would happen."
 \s Acts 4:29-30 
 \s The believers asked God to help them speak boldly to people about Jesus.
 \p
-\v 29 “So now, Lord, listen to what they are saying about punishing us! Help us who serve
+\v 29 "So now, Lord, listen to what they are saying about punishing us! Help us who serve
 you\add (sg)\add* to very boldly speak messages from you\add (sg) about
 Jesus\add*! 
 \v 30  \add Also\add*, by your power \f + \ft metonymy \f* miraculously heal \add sick
 people\add* and do other amazing miracles \f + \ft synecdoche \f* that show people your power! Ask Jesus, who always serves you,
-\add to give us the authority\add* \f + \ft metonymy \f* \add to do such miracles!\add*”
+\add to give us the authority\add* \f + \ft metonymy \f* \add to do such miracles!\add*"
 \s Acts 4:31 
 \s God shook the place where they were, and his Spirit enabled them to speak his words boldly.
 \p
 \v 31 When the believers had finished praying, the place where they were meeting shook. All of them were completely
-controlled\f + \ft Or: empowered► by the Holy Spirit {the Holy Spirit ◄completely controlled, Or: empowered \f* all of them}, with the result that
+controlled\f + \ft Or: empowered \f* by the Holy Spirit {the Holy Spirit completely controlled\f + \ft Or: empowered \f* all of them}, with the result that
 they began to speak boldly the words that God \add told them to speak\add*.
 \s Acts 4:32-35 
 \s The believers shared everything, and the apostles told others about Jesus.

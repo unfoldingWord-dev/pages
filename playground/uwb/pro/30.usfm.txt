@@ -65,7 +65,7 @@ like\add*.
 \b
 \q
 \v 15 Leeches \add are always wanting more blood to suck\add*; 
-\q2 \add similarly, greedy people are always saying\add* “Give me some!” or “Give me more!” \f + \ft metaphor \f*
+\q2 \add similarly, greedy people are always saying\add* "Give me some!" or "Give me more!" \f + \ft metaphor \f*
 \b
 \q There are four things that are never satisfied\f + \ft Or: content with what they have \f*;
 \q2 they always want more \f + \ft litotes \f*: 
@@ -93,7 +93,7 @@ like\add*.
 \q
 \v 20 This is what a woman who is not faithful to\f + \ft Or: does not have sex only with \f* her husband does:
 \q2 she commits adultery \f + \ft euphemism \f*, and then bathes 
-\q2 and says, “I have not done anything that is wrong!” 
+\q2 and says, "I have not done anything that is wrong!" 
 \b
 \q
 \v 21 There are four things that no \add one in\add* the world can tolerate:

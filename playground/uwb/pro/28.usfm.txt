@@ -47,7 +47,7 @@ children do.
 \q2 but poor people who have good sense will find out whether the rich people really are wise or not.
 \b
 \q
-\v 12 When righteous\f + \ft Or: good \f* people succeed\f + \ft Or: win \add elections\add*►, everyone ◄celebrates, Or: is happy \f*;
+\v 12 When righteous\f + \ft Or: good \f* people succeed\f + \ft Or: win \add elections\add* \f*, everyone celebrates\f + \ft Or: is happy \f*;
 \q2 but when wicked people win, everyone hides \add because they are afraid of what the wicked people will
 do\add*. 
 \b
@@ -101,7 +101,7 @@ crops\add* and always have plenty of food to eat,
 \b
 \q
 \v 24 Anyone who steals things from his father or his mother 
-\q2 and says “That is not sinful” 
+\q2 and says "That is not sinful" 
 \q2 is as bad as a bandit. 
 \b
 \q

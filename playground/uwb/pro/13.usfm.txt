@@ -81,7 +81,7 @@ behavior\add*.
 \b
 \q
 \v 20 Those who habitually associate with wise people become wise;
-\q2 those who are close friends of\f + \ft Or: associate with► foolish people will ◄regret it, Or: be ruined \f*.
+\q2 those who are close friends of\f + \ft Or: associate with \f* foolish people will regret it\f + \ft Or: be ruined \f*.
 \b
 \q
 \v 21 Sinners have trouble \f + \ft personification \f* wherever they go, 

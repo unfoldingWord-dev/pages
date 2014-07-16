@@ -1,8 +1,8 @@
 \c 21  
 \s Rules for priests 
 \p
-\v 1 Yahweh also said to Moses\f + \ft Or: me \f*, “Speak to the priests, the sons of Aaron, and say to them,
-\v 2 ‘You priests must not cause yourselves to become unfit to do my work by your
+\v 1 Yahweh also said to Moses\f + \ft Or: me \f*, "Speak to the priests, the sons of Aaron, and say to them,
+\v 2 'You priests must not cause yourselves to become unfit to do my work by your
 \add touching\add* corpses. Priests are permitted to touch only the corpses of close relatives, such as the priest's mother or
 father or his son or daughter or his brother. 
 \v 3 Priests are also permitted to touch the corpse of a sister if she is not married, because she has no husband
@@ -41,10 +41,10 @@ this\add*.
 \v 14 You priests must not marry widows or prostitutes or divorced women. You must marry only virgins from among your own
 people, 
 \v 15 because if you did that, \add if you later have\add* sons, they would not be acceptable to be priests among your people.
-I am Yahweh, who sets priests apart to be holy.’ ” 
+I am Yahweh, who sets priests apart to be holy.' " 
 \p
 \v 16 Yahweh also said to Moses\f + \ft Or: me \f*, 
-\v 17 “Say this to Aaron: ‘For all future time, none of your descendants who has any defects
+\v 17 "Say this to Aaron: 'For all future time, none of your descendants who has any defects
 \add on his body\add* will be allowed to come near \add the altar\add* to offer
 \add sacrifices to me which will be like\add* \f + \ft metaphor \f* my food: 
 \v 18 no one who is blind or lame or deformed, or whose \add face
@@ -57,6 +57,6 @@ to me, his God, sacrifices that will be burned.
 \v 22 Priests who have defects are permitted to eat the various kinds of holy food offered to me.
 \v 23 But because of their defects, they must not go near the curtain
 \add in the Sacred Temple\add* or near the altar, because if they did that, they would desecrate my temple. I am Yahweh, the
-one who sets those places apart as being holy.’ ” 
+one who sets those places apart as being holy.' " 
 \p
 \v 24 So Moses\f + \ft Or: I \f* told this to Aaron and to his sons and to all the Israeli people.

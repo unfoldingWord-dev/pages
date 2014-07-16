@@ -1,7 +1,7 @@
 \c 7  
 \s Job complains to God 
 \q
-\v 1 “People need to work hard on this earth, like soldiers do; 
+\v 1 "People need to work hard on this earth, like soldiers do; 
 \q all during the time that we are alive, we work hard \f + \ft rhetorical question \f*, like laborers\f + \ft Or: servants \f* do.
 \q
 \v 2 We are like \f + \ft simile \f* slaves who keep wanting to be in the cool shade,
@@ -11,7 +11,7 @@
 \add to remain alive\add*; 
 \q he has allotted\f + \ft Or: given \f* to me many nights during which I feel miserable.
 \q
-\v 4 When I lie down \add at night\add* I say, ‘How long will it be until I get up?’
+\v 4 When I lie down \add at night\add* I say, 'How long will it be until I get up?'
 \q2 But the nights are long, and I toss\f + \ft Or: turn over and over \f* \add on my
 bed\add* until the dawn. 
 \q
@@ -46,8 +46,8 @@ dead\add*.
 \v 12  \add God\add*, why do you watch closely what I am doing? 
 \q2 \add Do you think that\add* I am a \add dangerous\add* sea monster?
 \q
-\v 13 When I \add lie down at night\add*, I say \add to myself\add*, ‘I will be comforted here on my bed;
-\q2 my pain will be less while I am sleeping.’ 
+\v 13 When I \add lie down at night\add*, I say \add to myself\add*, 'I will be comforted here on my bed;
+\q2 my pain will be less while I am sleeping.' 
 \q
 \v 14 But then you give me dreams that cause me to be afraid; 
 \q2 you give me visions that terrify me, 
@@ -66,9 +66,9 @@ dead\add*.
 \q2 and examine us every moment \add to see if we are doing what is
 right\add*. 
 \q
-\v 19 ◄When will you stop looking at me and leave me alone \add for a little
-time\add*, long enough to swallow my spit?\f + \ft Or: Please \f* stop looking at me and leave me alone
-\add for a little time\add*, long enough to swallow my spit.► \f + \ft rhetorical question \f*
+\v 19 When will you stop looking at me and leave me alone \add for a little
+time\add*, long enough to swallow my spit?\f + \ft Or: Please stop looking at me and leave me alone
+\add for a little time\add*, long enough to swallow my spit. \f* \f + \ft rhetorical question \f*
 \q
 \v 20  \add Why do\add* you watch me constantly? 
 \q2 If I sin, that certainly does not harm you! 
@@ -79,4 +79,4 @@ time\add*, long enough to swallow my spit?\f + \ft Or: Please \f* stop looking a
 \q2 and the things that I have done that are wrong? 
 \q Soon I will lie in my grave; 
 \q2 you will search for me, but \add you will not find me because\add* I will be
-\add dead and\add* gone.” 
+\add dead and\add* gone." 

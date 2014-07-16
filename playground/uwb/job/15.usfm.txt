@@ -3,7 +3,7 @@
 \p
 \v 1 Then Eliphaz replied to Job: 
 \q
-\v 2 “If you were truly wise \f + \ft rhetorical question \f*, you would not have replied to us by claiming that you know a lot;
+\v 2 "If you were truly wise \f + \ft rhetorical question \f*, you would not have replied to us by claiming that you know a lot;
 \q2 what you are saying is just a lot of hot air \f + \ft metaphor \f*. 
 \q
 \v 3 You should not \f + \ft rhetorical question \f* be saying things that do not benefit anyone,
@@ -44,10 +44,10 @@ because\add* you are the first person who was ever born? \f + \ft sarcasm, rheto
 \q2 and so you \f + \ft metonymy \f* are criticizing\f + \ft Or: denouncing \f* him. 
 \b
 \q
-\v 14 ◄How can any person, \add including you\add*, be sinless?\f + \ft Or: No \f* person,
-\add including you\add*, can be sinless.► \f + \ft rhetorical question \f* 
-\q2 ◄How can anyone on the earth be \add completely\add* righteous?\f + \ft Or: No \f* one on the earth can be
-\add completely\add* righteous.► \f + \ft rhetorical question \f* 
+\v 14 How can any person, \add including you\add*, be sinless?\f + \ft Or: No person,
+\add including you\add*, can be sinless. \f* \f + \ft rhetorical question \f* 
+\q2 How can anyone on the earth be \add completely\add* righteous?\f + \ft Or: No one on the earth can be
+\add completely\add* righteous. \f* \f + \ft rhetorical question \f* 
 \q
 \v 15 Hey, God does not even trust his angels; 
 \q2 he does not consider even them to be \add completely\add* pure.
@@ -74,7 +74,7 @@ because\add* you are the first person who was ever born? \f + \ft sarcasm, rheto
 \v 22 Wicked people surely know that they will not escape from darkness\f + \ft Or: death \f*,
 \q2 because \add they are sure that\add* someone is waiting to kill them with a sword.
 \q
-\v 23 They wander around, searching for food, saying ‘Where can I find some?’
+\v 23 They wander around, searching for food, saying 'Where can I find some?'
 \q2 And they know that they will soon experience disasters. 
 \q
 \v 24 Because they are afraid of those things happening to them, they are afraid and worry
@@ -115,4 +115,4 @@ themselves\add*.
 using\add* money they received from bribes. 
 \q
 \v 35 They plan to cause trouble and to do evil things, 
-\q2 and in their inner beings they are always preparing to deceive people.”
+\q2 and in their inner beings they are always preparing to deceive people."

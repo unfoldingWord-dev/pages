@@ -3,7 +3,7 @@
 \p
 \v 1 Then Elihu \add continued by\add* saying this: 
 \q
-\v 2 “You men who \add think that you\add* \f + \ft sarcasm \f* are very wise, hear me;
+\v 2 "You men who \add think that you\add* \f + \ft sarcasm \f* are very wise, hear me;
 \q2 listen to what I am saying, you men who \add say that\add* you know so much.
 \q
 \v 3 And when we \f + \ft synecdoche \f* hear what other people \add like you\add* say,
@@ -14,21 +14,21 @@ bad\add*,
 \v 4 We need to decide \add who is saying\add* what is right 
 \q2 and to determine among ourselves what is good\f + \ft Or: best \f*. 
 \q
-\v 5 Job has said, ‘I am innocent, 
+\v 5 Job has said, 'I am innocent, 
 \q2 but God has refused to judge me fairly\f + \ft Or: justly \f*. 
 \q
 \v 6 Even though I have always done what is right, 
 \q2 he is lying about me. 
 \q Even though I have not done what is wrong, 
-\q2 he has caused me to suffer, and I will certainly die.’ 
+\q2 he has caused me to suffer, and I will certainly die.' 
 \q
-\v 7 ◄Is there any person like Job, who insults others as easily as people accept a drink of water?\f + \ft Or: There \f* is no person like
-Job, who insults others as easily as people accept a drink of water.► \f + \ft rhetorical question \f*
+\v 7 Is there any person like Job, who insults others as easily as people accept a drink of water?\f + \ft Or: There is no person like
+Job, who insults others as easily as people accept a drink of water. \f* \f + \ft rhetorical question \f*
 \q
 \v 8 He habitually associates with people who do what is evil 
 \q2 and spends time with wicked people. 
 \q
-\v 9 He has said, ‘It is useless for people to try to please God.’
+\v 9 He has said, 'It is useless for people to try to please God.'
 \b
 \q
 \v 10 So, you men who \add claim that you\add* understand everything, listen to me!
@@ -108,13 +108,13 @@ ruler\add*,
 \q2 no one will be able to prevent that ruler \add doing those things\add*.
 \b
 \q
-\v 31 Job, have you or anyone else ever said to God, ‘I have been punished
+\v 31 Job, have you or anyone else ever said to God, 'I have been punished
 \add for my sins\add*, 
 \q2 and I will not sin anymore; 
 \q
 \v 32 so teach\f + \ft Or: show \f* me what \add sins I have committed\add*; 
 \q if I have done anything that is evil, 
-\q2 I will not do it anymore.’? 
+\q2 I will not do it anymore.'? 
 \q
 \v 33  \add Job\add*, you object to what God has done to you, 
 \q2 but do you think that he will do what you want him to do? 
@@ -125,8 +125,8 @@ ruler\add*,
 \v 34 People who have good sense, those who are wise and who listen to what I say,
 \q2 will say to me, 
 \q
-\v 35 ‘Job is speaking ignorantly; 
-\q2 what he says is nonsense.’ 
+\v 35 'Job is speaking ignorantly; 
+\q2 what he says is nonsense.' 
 \q
 \v 36 I think that Job should be taken to a court and put on trial\f + \ft Or: judged \f* thoroughly,
 \q2 because he answers \add us his friends\add* like wicked men would answer.
@@ -134,4 +134,4 @@ ruler\add*,
 \v 37 To add to the \add other\add* sins that he has committed, he is rebelling
 \add against God\add*; 
 \q2 he shows us that he does not respect God [IDI], 
-\q2 making long speeches \add saying that God has punished him unjustly\add*.”
+\q2 making long speeches \add saying that God has punished him unjustly\add*."

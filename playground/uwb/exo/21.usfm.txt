@@ -1,7 +1,7 @@
 \c 21  
 \s Instructions for treating slaves 
 \p
-\v 1 “Here are some \add other\add* instructions to give to \add the Israeli
+\v 1 "Here are some \add other\add* instructions to give to \add the Israeli
 people\add*: 
 \v 2 When\f + \ft Or: If \f* you buy a Hebrew slave, he is to serve you for \add only\add* six years. In the seventh year you must free him
 \add from\add* \add being your slave\add*, and he is not required to pay you anything
@@ -12,8 +12,8 @@ people\add*:
 \v 4 If a slave's master gives him a wife, and she gives birth to sons or daughters
 \add while her husband is a slave\add*, only the man is to be freed. His wife and children will continue to be slaves of their
 master. 
-\v 5 But when it is time for the slave to be set free, if the slave says, ‘I love my master and my wife and my children, and I
-do not want to be set free,’ 
+\v 5 But when it is time for the slave to be set free, if the slave says, 'I love my master and my wife and my children, and I
+do not want to be set free,' 
 \v 6 then his master must take him to \add the place where they worship\add* God \f + \ft Or: to
 \add the owner's\add* house \f*. There he must make the slave stand against the door or the doorpost. Then the master will use an
 awl\f + \ft Or: pointed metal rod \f* to make a hole in the slave's ear. Then \add he will fasten a tag to the slave's ear to indicate
@@ -56,8 +56,8 @@ struck him must be punished.
 \add and then dies\add*, you must not punish the one who struck him. Not having that slave to be able to work for him any
 longer is enough punishment. 
 \p
-\v 22 Suppose two people are fighting and they hurt a pregnant woman with the result that ◄she has a miscarriage\f + \ft Or: her \f* baby is
-born prematurely and dies►. If the woman is not harmed in any other way, the one who injured her must pay a fine. He must pay
+\v 22 Suppose two people are fighting and they hurt a pregnant woman with the result that she has a miscarriage\f + \ft Or: her baby is
+born prematurely and dies \f*. If the woman is not harmed in any other way, the one who injured her must pay a fine. He must pay
 whatever the woman's husband demands, after a judge approves of the fine.
 \v 23 But if the woman is injured in some additional way, the one who injured her must be caused to suffer in exactly the same
 way \add that he caused her to suffer\add*. If she dies, he must be executed.
@@ -90,4 +90,4 @@ that is living, and they must divide \add between them\add* the money
 of\add* the animal that died. 
 \v 36 However, if people know that the bull often attacked other animals previously, and its owner did not keep it inside a
 fence, then the owner of that bull must give the owner of the bull that died one of his own bulls, but he can take away the
-animal that died \add and do whatever he wants to with it\add*.”
+animal that died \add and do whatever he wants to with it\add*."

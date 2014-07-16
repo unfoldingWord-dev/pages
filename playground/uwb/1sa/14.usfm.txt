@@ -1,8 +1,8 @@
 \c 14  
 \s Jonathan and his armor-bearer killed many Philistines 
 \p
-\v 1 One day, Jonathan said to the young man who carried his weapons, “Come with me; we will go over to where the Philistia
-soldiers have put up their tents.” \add So they went\add*, but Jonathan did not tell his father
+\v 1 One day, Jonathan said to the young man who carried his weapons, "Come with me; we will go over to where the Philistia
+soldiers have put up their tents." \add So they went\add*, but Jonathan did not tell his father
 \add what they were going to do\add*. 
 \p
 \v 2 On that day, Saul and the 600 soldiers who were with him were sitting around a pomegranate tree at a place where the
@@ -16,25 +16,25 @@ Philistia army was. The cliff on one side of the pass was named Bozez, and the o
 \v 5 One cliff faced north toward Micmash, and the cliff on the other side faced south toward Geba
 \add town\add*. 
 \p
-\v 6 Jonathan said to the young man who carried his weapons, “Come with me. We will go to where those ◄pagans\f + \ft Or: people \f* who do not
-believe in Yahweh► \f + \ft metonymy \f* have set up their tents. Perhaps Yahweh will help us. It does not matter whether we are only two men
-or many people; nothing can hinder Yahweh from enabling us to defeat them.”
+\v 6 Jonathan said to the young man who carried his weapons, "Come with me. We will go to where those pagans\f + \ft Or: people who do not
+believe in Yahweh \f* \f + \ft metonymy \f* have set up their tents. Perhaps Yahweh will help us. It does not matter whether we are only two men
+or many people; nothing can hinder Yahweh from enabling us to defeat them."
 \p
-\v 7 The young man who was carrying Jonathan's weapons said, “Do what you think is the best thing for us to do. I will be
-helping you.” 
+\v 7 The young man who was carrying Jonathan's weapons said, "Do what you think is the best thing for us to do. I will be
+helping you." 
 \p
-\v 8 Then Jonathan said, “Okay, come with me. We will cross the valley to where the Philistia army is, and allow them to see
+\v 8 Then Jonathan said, "Okay, come with me. We will cross the valley to where the Philistia army is, and allow them to see
 us. 
-\v 9 If they then say to us, ‘You two stay there until we come down to you,’ we will stay there and not go up to them.
-\v 10 But if they say to us, ‘Come up here \add and fight against\add* us,’ that will show us that Yahweh will enable us to
-defeat them. Then we will go up and fight them.” 
+\v 9 If they then say to us, 'You two stay there until we come down to you,' we will stay there and not go up to them.
+\v 10 But if they say to us, 'Come up here \add and fight against\add* us,' that will show us that Yahweh will enable us to
+defeat them. Then we will go up and fight them." 
 \p
-\v 11 When the two of them crossed the valley, the Philistia soldiers saw them coming. They said, “Look! The Hebrews are
-crawling out of the holes in which they have been hiding!” 
-\v 12 Then the Philistia soldiers who were closest to Jonathan and the young man who carried his weapons said, “Come up here,
-and we will teach you something \add about how to fight\add* [IDI]!”
-\p Jonathan said to the young man who was with him, “Come behind me and climb up, because Yahweh is going to help us to defeat
-them!” 
+\v 11 When the two of them crossed the valley, the Philistia soldiers saw them coming. They said, "Look! The Hebrews are
+crawling out of the holes in which they have been hiding!" 
+\v 12 Then the Philistia soldiers who were closest to Jonathan and the young man who carried his weapons said, "Come up here,
+and we will teach you something \add about how to fight\add* [IDI]!"
+\p Jonathan said to the young man who was with him, "Come behind me and climb up, because Yahweh is going to help us to defeat
+them!" 
 \v 13 So Jonathan climbed up, using his hands and his feet \add because it was very
 steep\add*. The young man climbed up following him. As Jonathan climbed, he struck and killed many Philistia soldiers, and the
 young man who was with him killed many more as he followed behind Jonathan.
@@ -49,14 +49,14 @@ afraid.
 \add town\add* in the land of the tribe of Benjamin. They saw that the soldiers of the Philistia army were running away in all
 directions. 
 \v 17 Saul \add realized that some of his soldiers must have attacked the Philistia
-army\add*. So he said to the soldiers who were with him, “Check to see if any of our men are not here.” So they checked, and
+army\add*. So he said to the soldiers who were with him, "Check to see if any of our men are not here." So they checked, and
 found out that Jonathan and the man who carried his weapons were gone.
 \p
-\v 18 So Saul said to Ahijah \add the priest\add*, “Bring the sacred vest here
-\add and find out what we should do\add*.” On that day Ahijah was wearing the sacred vest, going in front of the Israelis.
+\v 18 So Saul said to Ahijah \add the priest\add*, "Bring the sacred vest here
+\add and find out what we should do\add*." On that day Ahijah was wearing the sacred vest, going in front of the Israelis.
 \v 19 But while Saul was talking to the priest, \add he saw that\add* the Philistia soldiers were becoming more
-panicked\f + \ft Or: confused \f*. So Saul said to Ahijah, “Take your hand down \add from the sacred vest. Do not waste any more time using the
-marked stones in the vest to find out what Yahweh wants us to do.”\add*
+panicked\f + \ft Or: confused \f*. So Saul said to Ahijah, "Take your hand down \add from the sacred vest. Do not waste any more time using the
+marked stones in the vest to find out what Yahweh wants us to do."\add*
 \p
 \v 20 Then Saul gathered his men and they went toward the battle. They found that the Philistia soldiers were so confused that
 they were striking each other with their swords. 
@@ -69,9 +69,9 @@ when they heard that the Philistia soldiers were running away, they
 \add town\add*. 
 \s The dispute about Jonathan eating honey 
 \p
-\v 24 Before Saul's soldiers went to the battle, Saul declared to them solemnly, “I do not want any of you to eat any food
+\v 24 Before Saul's soldiers went to the battle, Saul declared to them solemnly, "I do not want any of you to eat any food
 before this evening, before we have defeated all our enemies. If anyone eats anything,
-\add Yahweh\add* will curse\f + \ft Or: punish \f* him.” So none of the Israeli soldiers ate any food, and they became faint\f + \ft Or: weak \f* because they
+\add Yahweh\add* will curse\f + \ft Or: punish \f* him." So none of the Israeli soldiers ate any food, and they became faint\f + \ft Or: weak \f* because they
 were very hungry. 
 \p
 \v 25 The Israeli army went into the forest, and they found honeycombs on the ground, but they did not eat any honey.
@@ -80,62 +80,62 @@ were very hungry.
 morning\add*. So \add when he saw\add* a honeycomb, he dipped the end of his walking stick into it and ate some honey. After he
 ate the honey, he felt stronger. 
 \p
-\v 28 But one of the Israeli soldiers saw him and said to him, “Your father solemnly declared to us that
+\v 28 But one of the Israeli soldiers saw him and said to him, "Your father solemnly declared to us that
 \add Yahweh\add* would curse\f + \ft Or: punish \f* anyone who ate any food today. So now we are
 \add very tired and\add* weak from being hungry \add because we obeyed
-him\add*.” 
-\v 29 Jonathan exclaimed, “My father had caused trouble for all of us! See how refreshed\f + \ft Or: strong \f* I am after eating a little
+him\add*." 
+\v 29 Jonathan exclaimed, "My father had caused trouble for all of us! See how refreshed\f + \ft Or: strong \f* I am after eating a little
 honey! 
 \v 30 If he had permitted all of us to eat from the food we took from our enemies while we were pursuing them, we would have
-been able to kill many more of their soldiers!” 
+been able to kill many more of their soldiers!" 
 \p
 \v 31 The Israelis pursued and killed Philistia soldiers all that day, from Micmash
 \add town west\add* to Aijalon. But they continued to become more weak from being hungry.
 \v 32 They had taken \add many\add* sheep and cattle that the Philistia soldiers had abandoned. Now, because they were
 extremely hungry, they butchered some of those animals and ate the meat without draining the blood from the animals.
-\v 33 One of the soldiers told Saul, “Look! The men are sinning against Yahweh by eating meat that still has blood in it!”
-\p Saul replied \add to the men who were near him\add*, “They have disobeyed Yahweh! Roll a large stone over here!”
+\v 33 One of the soldiers told Saul, "Look! The men are sinning against Yahweh by eating meat that still has blood in it!"
+\p Saul replied \add to the men who were near him\add*, "They have disobeyed Yahweh! Roll a large stone over here!"
 \p
-\v 34 After they did that, he said to those men, “Go and tell all the soldiers that each of them must bring an ox or a sheep to
+\v 34 After they did that, he said to those men, "Go and tell all the soldiers that each of them must bring an ox or a sheep to
 me, and kill it here on this stone, \add and drain the blood\add* before he eats any of the meat. They should not sin against
-Yahweh by eating meat \add from some animal\add* without draining its blood.” So that night all the soldiers brought animals
+Yahweh by eating meat \add from some animal\add* without draining its blood." So that night all the soldiers brought animals
 and slaughtered them there. Then Saul built an altar to \add worship\add* Yahweh.
 \v 35 That was the first \add time that he built an\add* altar for Yahweh.
 \s The soldiers rescued Jonathan from Saul 
 \p
-\v 36 Then Saul said \add to the Israeli soldiers\add*, “Let's pursue the Philistia soldiers tonight. We can attack them all
-night. We will not allow any of them to escape alive.” 
-\p The Israeli soldiers answered, “We will do whatever you think is the best thing for us to do.”
-\p But the priest said, “We should ask Yahweh \add what he thinks we should
-do\add*.” 
-\v 37 So Saul asked God, “Should we pursue the Philistine soldiers? Will you enable us to defeat them?” But God did not answer
+\v 36 Then Saul said \add to the Israeli soldiers\add*, "Let's pursue the Philistia soldiers tonight. We can attack them all
+night. We will not allow any of them to escape alive." 
+\p The Israeli soldiers answered, "We will do whatever you think is the best thing for us to do."
+\p But the priest said, "We should ask Yahweh \add what he thinks we should
+do\add*." 
+\v 37 So Saul asked God, "Should we pursue the Philistine soldiers? Will you enable us to defeat them?" But God did not answer
 Saul that day. 
 \p
 \v 38 Then Saul summoned all the leaders of his army. He said to them,
-“\add I am sure that God has not answered me because\add* someone has sinned. We must find out what sin someone has committed.
+"\add I am sure that God has not answered me because\add* someone has sinned. We must find out what sin someone has committed.
 \v 39 Yahweh has rescued us \add from the Philistia army\add*. Just as certain as Yahweh lives, whoever has sinned must be
-executed. Even if it is my son Jonathan who has sinned, he must be executed.”
+executed. Even if it is my son Jonathan who has sinned, he must be executed."
 \p \add His men knew who was guilty\add*, but none of them said anything
 \add to Saul\add*. 
-\v 40 Then Saul said to all the Israeli soldiers, “You stand on one side. My son Jonathan and I will stand on the other side.”
-\p His men replied, “Do whatever you think is best.” 
-\v 41 Then Saul prayed to Yahweh, the Israelis' God, “Tell me who is guilty and who is not guilty.” Then the priest cast
+\v 40 Then Saul said to all the Israeli soldiers, "You stand on one side. My son Jonathan and I will stand on the other side."
+\p His men replied, "Do whatever you think is best." 
+\v 41 Then Saul prayed to Yahweh, the Israelis' God, "Tell me who is guilty and who is not guilty." Then the priest cast
 lots\f + \ft Or: threw the stones that were marked \f*, and they indicated that it we
 \add either\add* Jonathan or Saul who was the guilty one, and that the other men were not guilty.
-\v 42 Then Saul said to the priest, “Throw the stones again to indicate which of us two is guilty.” So he did, and the stones
+\v 42 Then Saul said to the priest, "Throw the stones again to indicate which of us two is guilty." So he did, and the stones
 indicated that Jonathan was the guilty one. 
 \p
-\v 43 Then Saul said to Jonathan, “Tell me what you have done \add that was
-wrong\add*.” 
-\p Jonathan replied, “I ate a little bit of honey. It was only a little bit that was on the end of my stick. Do I
-\add deserve to be\add* executed \add because of doing that\add*?”
-\v 44 Saul replied, “Yes, you must be executed! I hope\f + \ft Or: wish \f* that God will strike me and kill me if you are not executed for
-having done that!” 
+\v 43 Then Saul said to Jonathan, "Tell me what you have done \add that was
+wrong\add*." 
+\p Jonathan replied, "I ate a little bit of honey. It was only a little bit that was on the end of my stick. Do I
+\add deserve to be\add* executed \add because of doing that\add*?"
+\v 44 Saul replied, "Yes, you must be executed! I hope\f + \ft Or: wish \f* that God will strike me and kill me if you are not executed for
+having done that!" 
 \p
-\v 45 But the Israeli soldiers said to Saul, “Jonathan has won a great victory for all us Israelis. Should he be executed for
+\v 45 But the Israeli soldiers said to Saul, "Jonathan has won a great victory for all us Israelis. Should he be executed for
 eating some honey \f + \ft rhetorical question \f*? Certainly not! Just as surely as Yahweh lives, we will not allow you to injure him in any manner
 [IDI], \add because\add* today God helped Jonathan \add to kill many soldiers of the Philistia
-army\add*!” 
+army\add*!" 
 \p So \add by saying that\add* the Israeli soldiers rescued Jonathan, and he was not executed.
 \v 46 Then Saul ordered his soldiers to stop pursuing the Philistia army, so the Philistia soldiers returned to their homes.
 \s Saul's army defeated many of their enemies 

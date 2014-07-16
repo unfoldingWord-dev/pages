@@ -28,7 +28,7 @@ sad\add*.
 \q2 because there is no grass to eat. 
 \b
 \q
-\v 7  \add The people say\add*, “Yahweh, we have turned away from you and sinned many times,
+\v 7  \add The people say\add*, "Yahweh, we have turned away from you and sinned many times,
 \q2 and now we know that we are being punished because of our sins,
 \q but please help us 
 \q2 in order that everyone can see that you are very great \f + \ft metonymy \f*.
@@ -45,25 +45,25 @@ us\add*?
 \q2 Why do you act like you are unable to save anyone, even though you are a strong warrior?
 \q Yahweh, you are here among us, 
 \q2 and \add others know that\add* we are your people, 
-\q2 so do not abandon us!” 
+\q2 so do not abandon us!" 
 \p
 \v 10 And this is what Yahweh says to those people: 
-\q “You love to wander away \add from me\add*; 
+\q "You love to wander away \add from me\add*; 
 \q2 you run \f + \ft metonymy \f* from one \add idol\add* to another. 
 \q Therefore, now I will no longer accept you, 
-\q2 and I will punish you for your sins.” 
+\q2 and I will punish you for your sins." 
 \b
 \p
-\v 11 Then Yahweh said to me, “Do not pray for these people anymore.
+\v 11 Then Yahweh said to me, "Do not pray for these people anymore.
 \v 12 When they fast\f + \ft Or: abstain from food in order to honor me \f*, I will not pay any attention. When they bring to me their
 offerings \add of animals\add* to be completely burned \add on the
 altar\add* and their offerings of grain, I will not accept them. Instead, I will get rid of them by wars, by famines, and by
-diseases.” 
+diseases." 
 \p
-\v 13 Then I replied to him, “Yahweh my God, their prophets are telling the people that they will not experience wars \f + \ft metonymy \f* or
-famines. They are telling the people that you will surely allow us to have peace in our land for many years.”
+\v 13 Then I replied to him, "Yahweh my God, their prophets are telling the people that they will not experience wars \f + \ft metonymy \f* or
+famines. They are telling the people that you will surely allow us to have peace in our land for many years."
 \p
-\v 14 Yahweh replied to me, “Those prophets say that they are speaking what I tell them to say \f + \ft metonymy \f*, but they are telling
+\v 14 Yahweh replied to me, "Those prophets say that they are speaking what I tell them to say \f + \ft metonymy \f*, but they are telling
 lies. I did not send them, so what they are saying is false. They say that they have received visions from me, and that they
 are telling things that I have revealed to them, but that is not true. They are saying foolish things that they have only
 thought of themselves. 
@@ -76,7 +76,7 @@ will\add* be thrown into the streets of Jerusalem, and there will not be anyone 
 deserve to be punished. 
 \p
 \v 17  \add So, Jeremiah\add*, tell this to them \add about yourself\add*:
-\q ‘Day and night my eyes are full of tears. 
+\q 'Day and night my eyes are full of tears. 
 \q2 I cannot stop crying. 
 \q I cry for my people, 
 \q2 who are \add very precious to me, as if they were\add* \f + \ft metaphor \f* my daughters.
@@ -89,11 +89,11 @@ deserve to be punished.
 \q2 I see \add corpses of people who died\add* from hunger. 
 \q The prophets and the priests travel through the land, preaching to people,
 \q2 but they do not know \add what they are doing\add* \f + \ft Or: \add in a
-land\add* that they know nothing about \f*.’ ” 
+land\add* that they know nothing about \f*.' " 
 \s Jeremiah's prayer 
 \p
 \v 19 Then I prayed this: 
-\q “Yahweh, have you completely rejected \add the people of\add* Judah?
+\q "Yahweh, have you completely rejected \add the people of\add* Judah?
 \q2 Do you really despise \add the people of\add* Jerusalem \f + \ft metonymy \f*?
 \q Why have you \f + \ft rhetorical question \f* wounded us very badly, 
 \q2 with the result that we will never be healed? 
@@ -115,4 +115,4 @@ land\add* that they know nothing about \f*.’ ”
 \v 22 Those idols that \add have been brought from\add* other nations certainly cannot \f + \ft rhetorical question \f* bring rain to us,
 \q2 and the sky certainly cannot \f + \ft rhetorical question \f* cause rain to fall. 
 \q Yahweh our God, you are the only one who can do things like that.
-\q2 So we will confidently expect you \add to help us\add*.” 
+\q2 So we will confidently expect you \add to help us\add*." 

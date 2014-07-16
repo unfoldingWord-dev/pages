@@ -1,8 +1,8 @@
 \c 15  
 \s The year for canceling debts 
 \p
-\v 1 “At the end of every seven years, you must ◄cancel all debts\f + \ft Or: tell \f* people who owe you money that they do not need to pay it
-back►. 
+\v 1 "At the end of every seven years, you must cancel all debts\f + \ft Or: tell people who owe you money that they do not need to pay it
+back \f*. 
 \v 2 Do it like this: each of you who has lent money to a fellow Israeli must cancel that debt. You must not insist that he pay
 it back. You must do that because Yahweh has declared that the debts must be canceled
 \add every seven years\add*. 
@@ -19,17 +19,17 @@ finances\add* of many people-groups, but they will not control your
 \v 7 In the towns that Yahweh our God is giving to you, if there are any Israelis who are poor, do not be selfish [IDI] and
 refuse [IDI] to help them. 
 \v 8 Instead, be generous [IDI] and lend to them the money that they need.
-\v 9 Be sure that you do not say to yourself, ‘The year when debts will be canceled is near,
+\v 9 Be sure that you do not say to yourself, 'The year when debts will be canceled is near,
 \add so I do not want to lend anyone any money now, because he will not need to pay it back when that year
-comes\add*.’ It would be evil to even think that. If you act in an unfriendly way toward a needy fellow Israeli, and give him
+comes\add*.' It would be evil to even think that. If you act in an unfriendly way toward a needy fellow Israeli, and give him
 nothing, he will cry out to Yahweh against you, and \add Yahweh will say
 that\add* you have sinned \add by not helping that person\add*. 
 \v 10 Give freely to poor people and give generously [IDI]. 
 \v 11 If you do that, Yahweh will bless you in everything that you do. There will always be some poor people in your land, so I
-command you to give generously to poor \f + \ft doublet \f* people.” 
+command you to give generously to poor \f + \ft doublet \f* people." 
 \s Freeing slaves 
 \p
-\v 12 “If any of your fellow Israeli men or women sell themselves to one of you
+\v 12 "If any of your fellow Israeli men or women sell themselves to one of you
 \add to become your slave\add*, you must free them after they have worked for you for six years. When the seventh year comes,
 you must free them. 
 \v 13 When you free them, do not allow them to go empty-handed\f + \ft Or: without giving them anything \f*.
@@ -37,7 +37,7 @@ you must free them.
 \v 15 Do not forget that your ancestors were once slaves in Egypt, and Yahweh our God freed them. That is the reason that I am
 now commanding you to do this. 
 \p
-\v 16 But one of your slaves may say, ‘I do not want to leave you.’ He loves you and your family, because you have treated him
+\v 16 But one of your slaves may say, 'I do not want to leave you.' He loves you and your family, because you have treated him
 well. 
 \v 17 If he says that, take him to the door of your house and, \add while he stands against the
 doorway\add*, pierce one of his earlobes with an awl\f + \ft Or: a sharp pointed tool \f*. That will indicate that he will be your slave for
@@ -46,10 +46,10 @@ you\add*.
 \p
 \v 18 Do not complain when you are required to free your slaves.
 \add Keep in mind that\add* they served you for six years, and you paid them only half as much as you pay the servants that you
-hire. \add If you free them\add*, Yahweh our God will bless you in everything that you do.”
+hire. \add If you free them\add*, Yahweh our God will bless you in everything that you do."
 \s Rules about sacrificing firstborn animals 
 \p
-\v 19 “Set aside for\f + \ft Or: Dedicate to \f* Yahweh our God the firstborn male animals from your cattle and sheep. Do not force them to
+\v 19 "Set aside for\f + \ft Or: Dedicate to \f* Yahweh our God the firstborn male animals from your cattle and sheep. Do not force them to
 do any work for you, and do not shear\f + \ft Or: cut off \f* the wool \add of the firstborn animals to sell the
 wool\add*. 
 \v 20 You and your family may \add kill them and\add* eat their meat in the presence of Yahweh at the place that Yahweh chooses
@@ -60,4 +60,4 @@ sacrifice them to Yahweh our God.
 them to become unacceptable to God and those who have not done such things are permitted to eat that meat, just like anyone is
 permitted to eat the meat of a deer or an antelope. 
 \v 23 But you must not eat any of the blood; you must drain all the blood on the ground
-\add when you kill those animals\add*.” 
+\add when you kill those animals\add*." 

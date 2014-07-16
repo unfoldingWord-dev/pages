@@ -1,23 +1,23 @@
 \c 17  
 \s Yahweh changed Abram's name to Abraham and made an agreement with him
 \p
-\v 1 When Abram was 99 years old, Yahweh appeared to Abram again and said to him, “I am God Almighty. I want you to conduct
+\v 1 When Abram was 99 years old, Yahweh appeared to Abram again and said to him, "I am God Almighty. I want you to conduct
 your life in a way that I will see as one that cannot be criticized.
-\v 2 If you do that, I will make an agreement with you in which I will promise to enable you to have very many descendants.”
+\v 2 If you do that, I will make an agreement with you in which I will promise to enable you to have very many descendants."
 \f + \ft metonymy \f* 
 \v 3 Abram prostrated himself with his face on the ground. Then God said to him,
-\v 4 “Listen to this! This is the agreement I am making with you: the people of many nations will be your descendants.
+\v 4 "Listen to this! This is the agreement I am making with you: the people of many nations will be your descendants.
 \v 5 And no longer will your name be Abram. Instead, your name will be Abraham,
-\add which means ‘father of many nations,’\add* because the people of many nations will descend from you.
+\add which means 'father of many nations,'\add* because the people of many nations will descend from you.
 \v 6 I will enable you to have very many descendants, and I will cause them to become great nations\f + \ft Or: people \f*-groups, and some of
 your descendants will become kings. 
 \v 7 I will make this agreement between me and you and your descendants. It will be an everlasting agreement to be in effect
 for many generations. This agreement is that I will be your God, and the God of your descendants.
 \v 8 I will give to you and to your descendants the land around which you are now traveling, all of Canaan land. It will be an
-everlasting possession for them, and I will be their God.” 
+everlasting possession for them, and I will be their God." 
 \s God told Abraham that all the males must be circumcised as part of that agreement
 \p
-\v 9 Then God said to Abraham, “Now you must obey \add your part
+\v 9 Then God said to Abraham, "Now you must obey \add your part
 of\add* the agreement that I am making with you, and your descendants must also obey it, for all generations.
 \v 10 This is the agreement that I am making, between myself and you and all your descendants: every male among you must be
 circumcised. 
@@ -30,26 +30,26 @@ your household.
 circumcised. Your bodies will have this mark to show \add you have
 accepted\add* this everlasting agreement I am making. 
 \v 14 You must expel from your community any male who has not been circumcised, because that person has disobeyed my
-agreement.” 
+agreement." 
 \s God changed Sarai's name to Sarah 
 \p
-\v 15 God also said to Abraham, “As for Sarai, your wife, you must not call her Sarai any longer.
+\v 15 God also said to Abraham, "As for Sarai, your wife, you must not call her Sarai any longer.
 \add Since I changed your name your name, I will change her name
 also\add*. Her name will now be Sarah. 
 \v 16 I will bless her, and she will surely give birth to a son for you. And I will bless her so much that she will be the
-ancestor of people of many nations. Kings of some people-groups will be descended from her.”
+ancestor of people of many nations. Kings of some people-groups will be descended from her."
 \s God promised Abraham and Sarah that they would have a son 
 \p
 \v 17 Abraham prostrated himself with his face on the ground in respect before God. But then he laughed as he said to himself,
-“Can a man who is a hundred years old become a father of a son? And since Sarah is ninety years old, how can she bear a child?”
-\v 18 Then Abraham said to God, “Perhaps you will let Ishmael receive your blessing
-\add and inherit all I possess\add*.” 
-\v 19 Then God replied, “\add No\add*! Your wife Sarah will bear a son for you. You must name him Isaac. I will establish my
+"Can a man who is a hundred years old become a father of a son? And since Sarah is ninety years old, how can she bear a child?"
+\v 18 Then Abraham said to God, "Perhaps you will let Ishmael receive your blessing
+\add and inherit all I possess\add*." 
+\v 19 Then God replied, "\add No\add*! Your wife Sarah will bear a son for you. You must name him Isaac. I will establish my
 agreement with him, one which will be an everlasting covenant for him and his descendants.
 \v 20 As for Ishmael, I have heard what you asked me to do for him. I will bless him so that he also will have many
 descendants. Among his descendants will be rulers of twelve nations. And I will cause his descendants \f + \ft metonymy \f* to become a great
 nation. 
-\v 21 But I will establish my agreement with Isaac, the son whom Sarah will give birth to at this time next year.”
+\v 21 But I will establish my agreement with Isaac, the son whom Sarah will give birth to at this time next year."
 \v 22 When God finished talking to Abraham, God disappeared from his sight.
 \p
 \v 23 On that same day, Abraham took his son Ishmael and all the males that were in his household, including the sons of all

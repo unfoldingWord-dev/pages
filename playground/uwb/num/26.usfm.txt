@@ -2,11 +2,11 @@
 \s The people were counted again 
 \p
 \v 1 After the plague \add ended\add*, Yahweh said to Eleazar and Moses\f + \ft Or: me \f*,
-\v 2 “Count all the people of Israel \add again\add*. Write down the names of all the men who are at least 20 years old who are
-able to fight \add in battles\add*, along with their family names.”
+\v 2 "Count all the people of Israel \add again\add*. Write down the names of all the men who are at least 20 years old who are
+able to fight \add in battles\add*, along with their family names."
 \v 3 So while the Israelis were on the plains where the Moab people-group lived, Eleazar and Moses\f + \ft Or: I \f* told this to the Israeli
 leaders: 
-\v 4 “Write down the names of all the Israeli men who are at least 20 years old, as Yahweh has commanded us.”
+\v 4 "Write down the names of all the Israeli men who are at least 20 years old, as Yahweh has commanded us."
 \p \add So they did that\add*, and this is a record of all the descendants of Jacob who came out of Egypt
 \add who were still alive\add*. 
 \li
@@ -58,10 +58,10 @@ Shillem.
 \b
 \p
 \v 52 Then Yahweh said to Moses\f + \ft Or: me \f*, 
-\v 53 “Divide Canaan land among the tribes. Distribute the land according the number of people in each tribe that are on your
+\v 53 "Divide Canaan land among the tribes. Distribute the land according the number of people in each tribe that are on your
 lists. 
 \v 54-56 Decide by casting lots\f + \ft Or: throwing stones which are marked \f* to determine which group will get which area, but give the
-largest areas to the groups with the most people.” 
+largest areas to the groups with the most people." 
 \p
 \v 57 The leaders also counted the male descendants of Levi. They were in clans descended from Gershon, Kohath, and Merari.
 \v 58 These also included people from the clans of Libni, Hebron, Mahli, Mushi, and Korah. All of them were descendants of
@@ -80,5 +80,5 @@ people-group lived, on the \add east\add* side of the Jordan River, across from 
 \add city\add*. 
 \v 64 None of the men whom they counted were on the lists that were made by Aaron and Moses\f + \ft Or: I \f* when the Israelis were in the
 Sinai Desert, 
-\v 65 because Yahweh had said about them, “They will all die in this desert,”
+\v 65 because Yahweh had said about them, "They will all die in this desert,"
 \add and that is what happened\add*. The only ones who were still alive were Jephunneh's son Caleb and Nun's son Joshua.

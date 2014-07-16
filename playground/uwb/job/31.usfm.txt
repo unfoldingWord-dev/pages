@@ -1,7 +1,7 @@
 \c 31  
 \s Job stated his innocence 
 \q
-\v 1 “I made to myself a solemn promise 
+\v 1 "I made to myself a solemn promise 
 \q2 that I would not look at a young woman with a desire \add to have sex with
 her\add*. 
 \q
@@ -65,8 +65,8 @@ like\add* \f + \ft metaphor \f* the fire that burns people in hell,
 \q2 I have taken care of them since they were young. 
 \q So, if \add it were true that\add* I ate all my food myself and did not share some of it with orphans,
 \q2 or that I refused to give poor people the things that they wanted,
-\q2 or that I caused widows to live ◄in despair\f + \ft Or: without \f* hope \add that they would receive any help from
-anyone\add*►, 
+\q2 or that I caused widows to live in despair\f + \ft Or: without hope \add that they would receive any help from
+anyone\add* \f*, 
 \q
 \v 19 or that I had seen people die \add from cold\add* because they had no clothes,
 \q2 or that I had seen poor people who did not have clothes \add to keep them
@@ -142,6 +142,6 @@ afraid\add*.
 \add from hunger\add*; 
 \q
 \v 40 then I wish\f + \ft Or: desire \f* that thorns would grow \add in my fields\add* instead of wheat,
-\q2 and that bad weeds would grow instead of barley!” 
+\q2 and that bad weeds would grow instead of barley!" 
 \b
 \q That is the end of what Job said \add to his three friends\add*.

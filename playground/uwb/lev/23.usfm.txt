@@ -2,7 +2,7 @@
 \s Religious celebrations 
 \p
 \v 1 Yahweh said to Moses\f + \ft Or: me \f*, 
-\v 2 “Tell the Israeli people about the festivals that I have appointed, the days when you all must gather together
+\v 2 "Tell the Israeli people about the festivals that I have appointed, the days when you all must gather together
 \add to worship me\add*. 
 \s The Sabbath 
 \p
@@ -12,20 +12,20 @@ sacred\f + \ft Or: holy \f* day when you must gather together \add to worship me
 \p
 \v 4 There are other festivals that I have established\f + \ft Or: appointed \f* for you. Those will also be sacred\f + \ft Or: holy \f* days when you must
 gather together \add to worship me\add*. 
-\v 5  \add The first festival is\add* ◄the Passover\f + \ft Or: when \f* you remember that I spared your ancestors when I killed all the
-firstborn Egyptian sons►. That festival will begin at twilight\f + \ft Or: dusk \f*\f + \ft Or: sunset \f* on the appointed day ◄each Spring\f + \ft Or: in \f* March or April
-each year►. 
+\v 5  \add The first festival is\add* the Passover\f + \ft Or: when you remember that I spared your ancestors when I killed all the
+firstborn Egyptian sons \f*. That festival will begin at twilight\f + \ft Or: dusk \f*\f + \ft Or: sunset \f* on the appointed day each Spring\f + \ft Or: in March or April
+each year \f*. 
 \v 6 The next day, the festival of eating bread that has no yeast will begin. That festival will continue for seven days.
 During that time, the bread that you eat must be made without yeast.
 \v 7 On the first day of that festival, you all must stop your regular work and you must gather together
 \add to worship me\add*. 
 \v 8 On each of the next seven days, you must present to me \add several animals to
 be\add* an offering\f + \ft Or: sacrifice \f* to be completely burned \add on the
-altar\add*. On the seventh day, you all must again stop your regular work and gather to worship me.”
+altar\add*. On the seventh day, you all must again stop your regular work and gather to worship me."
 \s The festival of the beginning of the harvest 
 \p
 \v 9 Yahweh also told Moses\f + \ft Or: me \f* 
-\v 10 to tell the Israeli people \add about other festivals\add*. He said, “When you arrive in the land which I am giving to
+\v 10 to tell the Israeli people \add about other festivals\add*. He said, "When you arrive in the land which I am giving to
 you, and you harvest your crops \add for the first time\add* there, bring to the priest some of the first grain that you
 harvest. 
 \v 11 On the day after the \add next\add* Sabbath\f + \ft Or: rest \f* day, the priest will lift it up
@@ -60,22 +60,22 @@ and you must obey them wherever you live.
 \v 22 When you harvest the grain in your fields, do not harvest the grain along the edges of the fields, and do not pick up the
 grain that the harvesters drop. Leave that grain for the poor people and for the foreigners who are living among you.
 \add Do not forget that it is\add* I, Yahweh your God, \add who am commanding these
-things\add*!” 
+things\add*!" 
 \s The festival of trumpets 
 \p
 \v 23 Yahweh also told Moses\f + \ft Or: me \f* 
 \v 24 to give these instructions\f + \ft Or: commands \f* to the Israeli people:
-“\add Each year\add* in September, on the day that I have appointed, you all must celebrate a day in which you will completely
+"\add Each year\add* in September, on the day that I have appointed, you all must celebrate a day in which you will completely
 rest. You must not do any work on that day. When \add the priests\add* blow their trumpets loudly, you all must gather together
 to worship me. 
 \v 25 All of you must stop doing your regular work on that day. Instead, you must present offerings to me that will be burned
-\add on the altar\add*.” 
+\add on the altar\add*." 
 \s The festival of atonement 
 \p
 \v 26 Yahweh also said to Moses\f + \ft Or: me \f*, 
-\v 27 “You must celebrate a day \add on which you request that I\add* forgive you for the sins that you have committed. That
-day will be nine days after the festival \add when the priests blow\add* the trumpets. On that day you must ◄fast\f + \ft Or: abstain \f* from
-eating food►. You must gather together to worship me, and present offerings to me that will be burned
+\v 27 "You must celebrate a day \add on which you request that I\add* forgive you for the sins that you have committed. That
+day will be nine days after the festival \add when the priests blow\add* the trumpets. On that day you must fast\f + \ft Or: abstain from
+eating food \f*. You must gather together to worship me, and present offerings to me that will be burned
 \add on the altar\add*. 
 \v 28 You must not do any work on that day, because it is the day when the priests will offer sacrifices to me to atone
 for\f + \ft Or: ask me to forgive \f* your sins. 
@@ -85,11 +85,11 @@ for\f + \ft Or: ask me to forgive \f* your sins.
 \v 32 That day will be a day of complete rest for you all, and on that day you must fast\f + \ft Or: abstain from eating food \f*
 \add to show that you are sorry for having sinned\add*. That day of rest and fasting\f + \ft Or: abstaining from eating food \f* will begin
 on the evening before the day in which you ask me to forgive you for your sins, and it will end on the evening of the following
-day.” 
+day." 
 \s The festival of shelters 
 \p
 \v 33 Yahweh also said to Moses\f + \ft Or: me \f*, 
-\v 34 “Tell the Israeli people that \add each year\add* they must also celebrate a festival of living in temporary shelters.
+\v 34 "Tell the Israeli people that \add each year\add* they must also celebrate a festival of living in temporary shelters.
 That festival will begin five days after the day in which they request me to forgive them for their sins. It will last for
 seven days. 
 \v 35 On the first day of that festival, the people must gather together to worship me, and they must not do any regular work
@@ -119,7 +119,7 @@ festival. You must celebrate it in September.
 shelters\f + \ft Or: huts \f*. 
 \v 43 That will remind your descendants that their ancestors lived in shelters
 \add for many years\add* after I rescued them from Egypt. \add Do not forget
-that\add* I, Yahweh your God, \add am the one who is commanding this\add*.”
+that\add* I, Yahweh your God, \add am the one who is commanding this\add*."
 \p
 \v 44 So Moses\f + \ft Or: I \f* gave to the Israeli people all those instructions concerning the festivals that Yahweh
 \add wanted them to celebrate\add* each year. 

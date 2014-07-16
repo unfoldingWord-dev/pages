@@ -1,7 +1,7 @@
 \c 25  
 \s Yahweh gave Moses instructions about a big Sacred Tent for their worship
 \p
-\v 1 Yahweh said to Moses\f + \ft Or: me \f*, “There \add are many things that I
+\v 1 Yahweh said to Moses\f + \ft Or: me \f*, "There \add are many things that I
 want\add* you to tell to the Israeli people. 
 \p
 \v 2 Tell them that they must give offerings\f + \ft Or: gifts \f* to me. Receive from the people every offering\f + \ft Or: gift \f* that they want to give to
@@ -18,11 +18,11 @@ in\add* the olive oil for anointing \add the priests\add* and in the sweet-smell
 vest\add*. 
 \v 8 Tell the people to make a big Sacred Tent for me, so that I can live in it in their midst.
 \v 9 They must make the Sacred Tent and all the things that will be used inside it according to the plan\f + \ft Or: model \f* that I will show
-you.” 
+you." 
 \s Instructions for making the sacred chest 
 \p
-\v 10 “\add Tell the people to\add* make a \add sacred\add* chest from acacia wood. It is to be 45 in.\f + \ft Or: 110 cm. \f* long, 27
-in.\f + \ft Or: 66 cm.► wide, and ◄27 in., Or: 66 cm. \f* high. 
+\v 10 "\add Tell the people to\add* make a \add sacred\add* chest from acacia wood. It is to be 45 in.\f + \ft Or: 110 cm. \f* long, 27
+in.\f + \ft Or: 66 cm. \f* wide, and 27 in.\f + \ft Or: 66 cm. \f* high. 
 \v 11 Cover it with pure gold inside and outside the chest and put a gold border around the top of it.
 \v 12  \add They must\add* make\f + \ft Or: cast \f* four rings from gold and fasten them to the legs of the chest. Put two rings on each side
 of the chest. 
@@ -36,7 +36,7 @@ which\add* I have written my commandments.
 \p
 \v 17  \add Tell them to\add* make a lid for the chest from pure gold.
 \add It will be the place where I will\add* cover\f + \ft Or: forgive \f* people's sins. It
-\add also\add* is to be 45 in.\f + \ft Or: 110 cm.► long and ◄27 in., Or: 66 cm. \f* wide.
+\add also\add* is to be 45 in.\f + \ft Or: 110 cm. \f* long and 27 in.\f + \ft Or: 66 cm. \f* wide.
 \v 18  \add Tell them to\add* hammer \add a large lump of\add* gold into the form of two creatures that have wings.
 \v 19 One of these is to be put at each end of the chest, but the gold
 \add from which\add* they \add are made\add* must be joined to the gold from which the lid
@@ -44,10 +44,10 @@ which\add* I have written my commandments.
 \v 20  \add Tell them to place the\add* winged creatures so that their wings touch each other and spread out over the lid.
 \v 21 Put the stone slabs that I will give you inside the chest. Then fasten the lid onto the top of the chest.
 \v 22 I will set times to talk with you there. From above the lid of the chest, between the two winged creatures, I will tell
-to you all my laws that \add you must tell\add* to the Israeli people.”
+to you all my laws that \add you must tell\add* to the Israeli people."
 \s Instructions for the table for the sacred bread 
 \p
-\v 23 “\add Tell them to\add* make a table from acacia wood. It is to be 36 in.\f + \ft Or: 88 cm.► long, ◄18 in., Or: 66 cm. \f* wide, and 27
+\v 23 "\add Tell them to\add* make a table from acacia wood. It is to be 36 in.\f + \ft Or: 88 cm. \f* long, 18 in.\f + \ft Or: 66 cm. \f* wide, and 27
 in.\f + \ft Or: 66 cm. \f* high. 
 \v 24  \add Tell them to\add* cover it with pure gold and put a gold border around it.
 \v 25  \add Tell them to\add* make a rim all around it, 3 in.\f + \ft Or: 7.5 cm. \f* wide, and put a gold border around the rim.
@@ -59,10 +59,10 @@ rings.
 \v 29 Also \add tell them to\add* make plates, cups, jars, and bowls to be used
 \add when the priests\add* pour out wine \add to offer to me\add*. They must all be made from pure gold.
 \v 30 On the table, in front of the chest, there must always be the loaves of sacred bread
-\add that the priests\add* \add have offered\add* to me.” 
+\add that the priests\add* \add have offered\add* to me." 
 \s Instructions for the lampstand 
 \p
-\v 31 “\add Tell them to\add* make a lampstand from pure gold. They must hammer
+\v 31 "\add Tell them to\add* make a lampstand from pure gold. They must hammer
 \add one large lump of\add* gold to make its base and its shaft.
 \add The branches of the lampstand\add*, the cups for holding the oil, the flower buds and the
 \add flower\add* petals \add that decorate the branches of the lamp, the base, and the shaft are all to be hammered
@@ -83,4 +83,4 @@ others are to be put on top of the branches\add*. Place these cups so that
 wicks\add* and trays \add in which to put the burned wicks\add*.
 \v 39  \add Tell them to\add* use 75 pounds\f + \ft Or: 35 kg. \f* of pure gold to make the lampstand and the tongs and the trays.
 \v 40 Make sure that they make these things according to the instructions that I am giving you
-\add here\add* on \add this\add* mountain.” 
+\add here\add* on \add this\add* mountain." 

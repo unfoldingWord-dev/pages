@@ -36,9 +36,9 @@
 \b
 \q
 \v 10 My son, if sinners tempt\f + \ft Or: entice \f* you \add to do what is wrong\add*,
-\q say “No” to them. 
+\q say "No" to them. 
 \q
-\v 11 They may say, “Come with us! Join us! 
+\v 11 They may say, "Come with us! Join us! 
 \q2 We will hide and then kill \f + \ft metonymy \f* someone \add who passes by\add*.
 \q2 We will ambush some helpless\f + \ft Or: innocent \f* people. 
 \q
@@ -51,7 +51,7 @@
 \q
 \v 14 So, come with us! 
 \q Join our group! 
-\q2 We will share with you the things that we steal.” 
+\q2 We will share with you the things that we steal." 
 \q
 \v 15 My son, do not go with them! 
 \q2 Do not walk on the roads that they walk on\f + \ft Or: do what they do \f* \f + \ft metaphor \f*!
@@ -79,7 +79,7 @@
 \q2 and at the entrances to the cities. 
 \b
 \q
-\v 22 It is as if wisdom says, “How long will you stupid people continue to enjoy doing foolish things \f + \ft rhetorical question \f*?
+\v 22 It is as if wisdom says, "How long will you stupid people continue to enjoy doing foolish things \f + \ft rhetorical question \f*?
 \q2 How long will you people who ridicule God enjoy doing that \f + \ft rhetorical question \f*?
 \q2 How long will you foolish people refuse to know \add what things are
 right\add* \f + \ft rhetorical question \f*? 
@@ -126,4 +126,4 @@ right\add* \f + \ft rhetorical question \f*?
 \q2 they will die because of doing that. 
 \q
 \v 33 But those who pay attention to me will live peacefully and safely,
-\q2 and they will not be afraid that something will harm them.” 
+\q2 and they will not be afraid that something will harm them." 

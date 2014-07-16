@@ -1,7 +1,7 @@
 \c 14  
 \s A psalm written by David for the choir director 
 \q
-\v 1  \add Only\add* foolish people say to themselves, “There is no God!”
+\v 1  \add Only\add* foolish people say to themselves, "There is no God!"
 \q People who say those things are corrupt\f + \ft Or: worthless \f*; they do abominable\f + \ft Or: detestable \f* deeds;
 \q2 there is not one \add of them\add* who does what is good\f + \ft Or: right \f*.
 \b

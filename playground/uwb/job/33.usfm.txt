@@ -1,7 +1,7 @@
 \c 33  
 \s Elihu challenged Job 
 \q
-\v 1 “But now, Job, listen carefully 
+\v 1 "But now, Job, listen carefully 
 \q2 to all that I am going to say \f + \ft doublet \f*. 
 \q
 \v 2 I am ready to tell you \f + \ft metonymy, doublet \f* \add what I think\add*. 
@@ -25,22 +25,22 @@
 \v 8 I have heard you \f + \ft doublet \f* speaking, 
 \q2 and this is what you have said: 
 \q
-\v 9 ‘I am innocent; I have not committed any sins; 
+\v 9 'I am innocent; I have not committed any sins; 
 \q2 I am pure; I have not done things that are wrong. 
 \q
 \v 10 But God finds reasons to accuse me, 
 \q2 and he considers that I am his enemy. 
 \q
 \v 11  \add It is as though\add* he has put my feet in stocks\f + \ft Or: between wooden blocks to prevent me from walking \f*,
-\q2 and he watches everything that I do.’ \f + \ft metonymy \f* 
+\q2 and he watches everything that I do.' \f + \ft metonymy \f* 
 \b
 \q
 \v 12 But what you \add have said\add* is wrong, 
 \q2 and I will tell you \add what you have said that is wrong\add*.
 \q2 God is much greater than any human. 
 \q
-\v 13 So, ◄why are you arguing against God, saying ‘He never answers my questions’?\f + \ft Or: you \f* should not be arguing against God,
-saying ‘He never answers my questions.’► \f + \ft rhetorical question \f* 
+\v 13 So, why are you arguing against God, saying 'He never answers my questions'?\f + \ft Or: you should not be arguing against God,
+saying 'He never answers my questions.' \f* \f + \ft rhetorical question \f* 
 \q
 \v 14 God does speak \add to us\add* in various ways, 
 \q2 but we do not pay any attention to what he says. 
@@ -76,23 +76,23 @@ young\add*.
 \q2 to tell us what are the right things for us \add to do\add*.
 \q
 \v 24 The angel is kind to us and says to God, 
-\q2 ‘Release that person, 
+\q2 'Release that person, 
 \q so that he does not descend to the place where dead people are!
 \q2 Do that because I have found the money to pay so that he can be released!
 \q
 \v 25 Allow his body to be strong again; 
-\q2 allow him to be strong like he was when he was a youth!’ 
+\q2 allow him to be strong like he was when he was a youth!' 
 \q
 \v 26 When that happens, that person will pray to God, and God will accept\f + \ft Or: answer \f* him;
 \q2 he will enter God's presence\f + \ft Or: worship God \f* joyfully, 
 \q2 and then he will tell others how God saved him \add from dying\add*.
 \q
 \v 27 He will sing as he tells everyone, 
-\q ‘I sinned, and I did things that were not right, 
+\q 'I sinned, and I did things that were not right, 
 \q2 but God did not punish me in the way that I deserved. 
 \q
 \v 28 He has saved me from dying and going to the place where dead people are,
-\q2 and I will continue to enjoy being alive.’ 
+\q2 and I will continue to enjoy being alive.' 
 \b
 \q
 \v 29 God does all these things for us many times; 
@@ -108,4 +108,4 @@ young\add*.
 \q2 say it, because I would like to find a way to declare that you are innocent\f + \ft Or: have not done what is wrong \f*.
 \q
 \v 33 But if you have nothing more that you want to say, then just listen to me,
-\q2 and I will teach you how to become wise.” 
+\q2 and I will teach you how to become wise." 

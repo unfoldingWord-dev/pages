@@ -1,7 +1,7 @@
 \c 22  
 \s Various other laws 
 \p
-\v 1 “If you see some Israeli's ox or sheep that has strayed away, do not act as though you did not see it. Take it back
+\v 1 "If you see some Israeli's ox or sheep that has strayed away, do not act as though you did not see it. Take it back
 \add to its owner\add*. 
 \v 2 But if the owner does not live near you, or if you do not know who the owner is, take the animal to your house.
 \add It can stay with you\add* until the owner comes, searching for it. Then you must give the animal to him.
@@ -21,8 +21,8 @@ with the baby birds, do not take the mother bird \add and kill it\add*.
 will go well for you and that you will live for a long time. 
 \p
 \v 8 If you build a new house, you must put a railing\f + \ft Or: low wall \f* around the edge of the roof. If you do that, and if someone
-falls off the roof \add and dies\add*, ◄you will not be guilty of causing that person to die\f + \ft Or: his \f* death \f + \ft metonymy \f* will not be your
-fault►. 
+falls off the roof \add and dies\add*, you will not be guilty of causing that person to die\f + \ft Or: his death ( metonymy ) will not be your
+fault \f*. 
 \p
 \v 9 Do not plant any crop in the area where your grapevines are growing. If you do, you are not allowed to harvest the crops
 that you have planted or to harvest the grapes \add to make wine from
@@ -41,10 +41,10 @@ fields\add*.
 \v 15 If that happens, the young woman's parents must take the sheet that was on the bed when that man and their daughter were
 married, which still has bloodstains on it, and show it to the elders of the city at the gate of\f + \ft Or: central meeting place in \f* the
 city. 
-\v 16 Then the father of the young woman must say to the elders, ‘I gave my daughter to this man to be his wife. But now he
+\v 16 Then the father of the young woman must say to the elders, 'I gave my daughter to this man to be his wife. But now he
 says that he doesn't want her anymore. 
 \v 17 And he has falsely said that she was not a virgin when he married her. But look! Here is what proves that my daughter was
-a virgin! Look at the bloodstains on the sheet where they slept the night that they were married!’ And he will show the sheet
+a virgin! Look at the bloodstains on the sheet where they slept the night that they were married!' And he will show the sheet
 to the elders. 
 \v 18 Then the elders of that city must take that man and whip him.
 \v 19 They shall require that he pay a fine of 100 pieces of silver and give the money to the father of the young woman,
@@ -78,4 +78,4 @@ there was no one there who could rescue her.
 \v 29 that man must pay 50 pieces of silver to the young woman's father, and he must marry her, because he forced her to have
 sex with him. He is not allowed to divorce her during the rest of his life.
 \p
-\v 30 A man must not disgrace his father by having sex with any of his father's wives.”
+\v 30 A man must not disgrace his father by having sex with any of his father's wives."

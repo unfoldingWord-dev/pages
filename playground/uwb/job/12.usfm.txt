@@ -3,7 +3,7 @@
 \p
 \v 1 Then Job said \add to his three friends\add*, 
 \q
-\v 2 “There is no doubt\f + \ft Or: You think \f* \f + \ft sarcasm \f* that you are the people
+\v 2 "There is no doubt\f + \ft Or: You think \f* \f + \ft sarcasm \f* that you are the people
 \add whom everyone should listen to\add*, 
 \q2 and that when you die, there will be no more wise people. 
 \q
@@ -88,4 +88,4 @@ work\add*,
 \q2 and then he causes them to wander around, lost, in an empty desert.
 \q
 \v 25 They grope around in the darkness, without any light, 
-\q2 and he causes them to stagger like \f + \ft simile \f* people who are drunk.”
+\q2 and he causes them to stagger like \f + \ft simile \f* people who are drunk."

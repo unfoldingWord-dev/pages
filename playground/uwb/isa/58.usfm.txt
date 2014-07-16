@@ -2,7 +2,7 @@
 \s True worship 
 \p
 \v 1  \add Yahweh said to me\add*, 
-\q “Shout loudly! 
+\q "Shout loudly! 
 \q2 Shout like \f + \ft simile \f* a loud trumpet! 
 \q Shout to warn my Israeli people about their sins \f + \ft doublet \f*! 
 \q
@@ -13,10 +13,10 @@
 \q They request me to decide matters justly, 
 \q2 and they delight to come to worship me. 
 \q
-\v 3  \add They say\add*, ‘We have fasted\f + \ft Or: abstained from eating food \f* to please you,
+\v 3  \add They say\add*, 'We have fasted\f + \ft Or: abstained from eating food \f* to please you,
 \q2 but you did not \f + \ft rhetorical question \f* notice our doing that. 
 \q We humbled ourselves, 
-\q2 but you did not \f + \ft rhetorical question \f* pay any attention!’ 
+\q2 but you did not \f + \ft rhetorical question \f* pay any attention!' 
 \b
 \q I will tell you why I did not pay attention. 
 \q2 It is because when you fast, 
@@ -53,7 +53,7 @@
 \q2 \add like I protected the Israeli people when they left Egypt\add*.
 \q
 \v 9 Then you will call out to me, 
-\q2 and I will quickly answer and say ‘I am here \add to help you\add*.’
+\q2 and I will quickly answer and say 'I am here \add to help you\add*.'
 \b
 \q Stop oppressing people\f + \ft Or: treating people cruelly \f*; 
 \q2 stop falsely accusing people; 
@@ -91,4 +91,4 @@ days\add*.
 \q2 I will greatly honor you; 
 \q \add it will be as though\add* \f + \ft metaphor \f* you are riding with me above the highest mountains!
 \q2 I will give to you the \add blessings\add* that I gave to your ancestor Jacob.
-\q \add Those things will surely happen because\add* I, Yahweh, have said it.”
+\q \add Those things will surely happen because\add* I, Yahweh, have said it."

@@ -20,7 +20,7 @@ enemies\add*;
 \b
 \q I heard someone \f + \ft metonymy \f* whose voice I did not recognize, saying,
 \q
-\v 6 “\add After the rulers of Egypt forced you Israelis to work as
+\v 6 "\add After the rulers of Egypt forced you Israelis to work as
 slaves\add*, 
 \q I took those \add heavy\add* burdens off your backs, 
 \q2 and I enabled you to lay down those heavy baskets \add of bricks that you were
@@ -62,4 +62,4 @@ you\add*!
 \q2 and then I would punish them \f + \ft metonymy \f* forever. 
 \q
 \v 16 But I would give you \add Israelis\add* very good wheat\f + \ft Or: grain \f*,
-\q2 and I would fill your stomachs with wild honey.” 
+\q2 and I would fill your stomachs with wild honey." 

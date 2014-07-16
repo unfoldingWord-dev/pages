@@ -1,7 +1,7 @@
 \c 29  
 \s Gifts for building the temple 
 \p
-\v 1 Then King David said to all the people who had gathered there, “My son, Solomon, the one whom God has chosen
+\v 1 Then King David said to all the people who had gathered there, "My son, Solomon, the one whom God has chosen
 \add to be the next king\add*, is young and does not have much experience. This work of
 \add building the temple\add* is great\f + \ft Or: important \f*, because this glorious building will not be
 \add to honor\add* people, but to honor Yahweh our God. 
@@ -15,11 +15,11 @@ I very earnestly desire that this holy temple for my God be built.
 \v 4 I am giving 110 tons of gold from Ophir and 260 tons of refined silver to cover the walls of the buildings,
 \v 5 for making the other items of gold and silver, and for the other work to be done by the craftsmen. So now,
 \add I ask you\add*, who is willing to show \add by contributing other gifts for the building of the
-temple\add* \f + \ft euphemism \f* that he has dedicated himself to Yahweh?” 
+temple\add* \f + \ft euphemism \f* that he has dedicated himself to Yahweh?" 
 \p
 \v 6 Then the leaders of the families\f + \ft Or: clans \f*, the leaders of the tribes of Israel, the commanders of 1,000 soldiers and the
-commanders of 100 soldiers, and the officials who supervised the work that the king wanted done, gave gifts ◄willingly\f + \ft Or: because \f*
-they wanted to give them►. 
+commanders of 100 soldiers, and the officials who supervised the work that the king wanted done, gave gifts willingly\f + \ft Or: because
+they wanted to give them \f*. 
 \v 7 For the work at the temple they gave 190 tons and 185 pounds\f + \ft Or: 84 kg. \f* of gold, 375 tons of silver, 675 tons of bronze, and
 3,750 tons of iron. 
 \v 8 And any people who owned valuable stones gave them to be put in the storeroom of the temple. Jehiel, a descendant of
@@ -29,7 +29,7 @@ those things to Yahweh. And King David also was very happy.
 \s David's prayer 
 \p
 \v 10 Then, while all the people there were listening, David prayed. He said,
-\q “We praise you, Yahweh, 
+\q "We praise you, Yahweh, 
 \q2 the God whom our ancestor Jacob worshiped. 
 \q2 We will praise you forever! 
 \q
@@ -70,9 +70,9 @@ this\add* forever,
 \q
 \v 19 And now, please enable my son Solomon to faithfully and sincerely \f + \ft doublet \f* obey your commands and laws and decrees \f + \ft doublet \f*
 \q2 and to do everything that is needed to build this beautiful building
-\q2 for which I have provided \add all these things\add*.” 
+\q2 for which I have provided \add all these things\add*." 
 \p
-\v 20 Then David said to all the people who were gathered there, “Praise Yahweh our God!” So they all praised Yahweh the God
+\v 20 Then David said to all the people who were gathered there, "Praise Yahweh our God!" So they all praised Yahweh the God
 whom their ancestors \add also worshiped\f + \ft Or: belonged to\add* \f*. They prostrated themselves on the ground in front of Yahweh and in
 front of the king. 
 \s Solomon was crowned to become the king 

@@ -2,7 +2,7 @@
 \s The seventh year 
 \p
 \v 1 Yahweh said to Moses\f + \ft Or: me \f* on Sinai Mountain, 
-\v 2 “Tell the Israelis \add that I, Yahweh, say this\add*: ‘When you enter the land that I am about to give you, every seventh
+\v 2 "Tell the Israelis \add that I, Yahweh, say this\add*: 'When you enter the land that I am about to give you, every seventh
 year you must \add honor\add* me by \add not planting any seeds. It will be as though you
 are\add* allowing the ground to rest. 
 \v 3 For six years you are plant seeds in your fields and prune your grapevines and harvest the crops.
@@ -13,19 +13,19 @@ you must allow the land to rest for that one year.
 \v 6 But you are permitted to eat whatever crops grow by themselves during that year without having been planted. You and your
 male and female servants, and workers whom you have hired, and people who are living among you for temporarily, are permitted
 to eat it. 
-\v 7 Also, \add during that year\add* your livestock and the wild animals in you land are permitted to eat it.’ ”
+\v 7 Also, \add during that year\add* your livestock and the wild animals in you land are permitted to eat it.' "
 \s The fiftieth year 
 \p
-\v 8-9 “Also, after every forty-nine years has ended, you must do this: ◄on the tenth day of the seventh month\f + \ft Or: at \f* the end of
-September►\add of the next\f + \ft Or: 50th \f* year\add*, blow trumpets throughout the country, to declare that it will be a day on which you
+\v 8-9 "Also, after every forty-nine years has ended, you must do this: on the tenth day of the seventh month\f + \ft Or: at the end of
+September \f*\add of the next\f + \ft Or: 50th \f* year\add*, blow trumpets throughout the country, to declare that it will be a day on which you
 request that I will forgive you for the sins that you have committed.
 \v 10 Set apart that year, and proclaim that throughout the country, it will be a year of freeing land and people: all the
 people \add who sold their property\add* will receive back the property that they previously owned, and slaves must be
 freed\f + \ft Or: allowed to return to \add their property and\add* their families \f*.
 \v 11 That year will be a Year of Celebration; \add during that year\add* do not plant anything, and do not harvest the
 grain\f + \ft Or: wheat \f* that grows without having been planted, or the grapes that grow without the vines being pruned.
-\v 12 It will be a Year of Sacred Celebration, so eat \add only\add* what grows in the fields ◄by itself\f + \ft Or: without \f* any work being
-done to produce anything►. 
+\v 12 It will be a Year of Sacred Celebration, so eat \add only\add* what grows in the fields by itself\f + \ft Or: without any work being
+done to produce anything \f*. 
 \p
 \v 13 In that Year of Celebration, everyone must return to their own property.
 \p
@@ -44,7 +44,7 @@ Celebration\add*.
 \p
 \v 18 Obey all my laws \f + \ft doublet \f* carefully. If you do that, you will continue to live safely in your country \f + \ft doublet \f*.
 \v 19 And crops will grow well on the land, and you will have plenty to eat.
-\v 20 But you may ask, ‘If we do not plant or harvest our crops during the seventh year, what will we have to eat?’
+\v 20 But you may ask, 'If we do not plant or harvest our crops during the seventh year, what will we have to eat?'
 \v 21  \add My answer is that\add* I will bless you very much during the sixth\f + \ft Or: previous \f* year, with the result that during that
 year there will be enough crops to provide food for you for three years!
 \v 22 Then, after you plant seed during the eighth\f + \ft Or: next \f* year \add and wait for the crops to
@@ -122,4 +122,4 @@ treat a hired worker, and all of you must make sure that his owner does not trea
 \v 54 And even if a fellow Israeli who has sold himself to a rich man is not able to pay for himself to be freed by any of
 these ways, he and his children must be freed in the Year of Celebration,
 \v 55 because \add it is as though\add* you Israelis are my slaves\f + \ft Or: servants \f*, whom I, Yahweh your God, freed from
-\add being slaves\add* in Egypt.” 
+\add being slaves\add* in Egypt." 

@@ -1,7 +1,7 @@
 \c 55  
 \s The future glory of Jerusalem 
 \q
-\v 1 “All you people who are \add in exile\add*, 
+\v 1 "All you people who are \add in exile\add*, 
 \q2 listen to me! 
 \q \add It is as though\add* \f + \ft metaphor \f* you are thirsty, 
 \q2 so come and get water from me! 
@@ -12,11 +12,11 @@
 \q
 \v 2  \add What you really need is to have a close relationship with
 me\add*, 
-\q2 so ◄why do you spend money to buy things that do not supply what you really need?\f + \ft Or: you \f* should not spend money to buy things
-that do not supply what you really need.► \f + \ft rhetorical question \f* 
-\q ◄Why do you work hard to get money to buy things that do not ‘satisfy your
-\add inner beings\add*\f + \ft Or: cause \f* you to be happy’?\f + \ft Or: You \f* should not work hard to get money to buy things that do not ‘satisfy your
-\add inner beings\add*\f + \ft Or: cause \f* you to be happy’.► \f + \ft rhetorical question \f* 
+\q2 so why do you spend money to buy things that do not supply what you really need?\f + \ft Or: you should not spend money to buy things
+that do not supply what you really need. \f* \f + \ft rhetorical question \f* 
+\q Why do you work hard to get money to buy things that do not 'satisfy your
+\add inner beings\add*\f + \ft Or: cause you to be happy'?, Or: You should not work hard to get money to buy things that do not 'satisfy your
+\add inner beings\add*\f + \ft Or: cause \f* you to be happy'. \f* \f + \ft rhetorical question \f* 
 \q Pay attention to what I say 
 \q2 and acquire what is really good \f + \ft metaphor \f*! 
 \q If you do that, then in your soul you will truly be happy \f + \ft metaphor \f*.
@@ -75,4 +75,4 @@ plant\add* and \add grain to produce flour to make\add* bread for people to eat.
 \q2 pine\f + \ft Or: cypress \f* trees and myrtle trees will grow \add in your land\add*.
 \q As a result of that, people will honor me much more; 
 \q2 and what I do will remind everyone that \add I do what I have
-promised\add*.” 
+promised\add*." 

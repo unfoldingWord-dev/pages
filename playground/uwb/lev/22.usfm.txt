@@ -1,7 +1,7 @@
 \c 22  
 \p
 \v 1 Yahweh also said to Moses\f + \ft Or: me \f*, 
-\v 2 “Tell Aaron and his sons to greatly respect the sacred offerings that the Israeli people bring to me, in order that by
+\v 2 "Tell Aaron and his sons to greatly respect the sacred offerings that the Israeli people bring to me, in order that by
 doing that you will respect me \f + \ft metonymy \f*, Yahweh. 
 \p
 \v 3 Tell them that for all future time, if any of their descendants who is unfit to work for me comes near to the sacred
@@ -19,8 +19,8 @@ offerings that are for him to eat.
 be permitted to touch others. I, Yahweh \add am commanding those
 things\add*. 
 \p
-\v 9 The priests must obey my commandments in order that they will not become guilty and die as a result of ◄despising\f + \ft Or: not \f*
-obeying► them. 
+\v 9 The priests must obey my commandments in order that they will not become guilty and die as a result of despising\f + \ft Or: not
+obeying \f* them. 
 \p
 \v 10 No one who is not a member of a priest's family is permitted to eat any of a sacred offering, and no one who is visiting
 the priest or whom the priest has hired is permitted to eat it. 
@@ -35,11 +35,11 @@ priest for the offering, and pay him an extra one-fifth of its value.
 \v 15 When the priests bring offerings to me, the sacred offerings that the Israeli people bring to them, they must not treat
 those offerings as though they are not sacred 
 \v 16 by allowing those who are not priests to eat any of those offerings. If they did that, they would become guilty and must
-make a payment. I am Yahweh, the one who causes those offerings to be sacred.”
+make a payment. I am Yahweh, the one who causes those offerings to be sacred."
 \s Offerings that are not acceptable 
 \p
 \v 17 Yahweh also said to Moses\f + \ft Or: me \f*, 
-\v 18 “Speak to Aaron and his sons and to all the Israeli people and tell them that I say this to them: ‘If any of you Israelis
+\v 18 "Speak to Aaron and his sons and to all the Israeli people and tell them that I say this to them: 'If any of you Israelis
 or foreigners who live in Israel brings to me an animal that will be completely burned
 \add on the altar\add*, either as a result of a solemn promise that you made to me or to be an offering that is given
 voluntarily, 
@@ -55,10 +55,10 @@ to fulfill a promise made to me.
 \v 24 You must not offer to me animals whose testicles are bruised or crushed or torn or cut. You must not injure the testicles
 of any animal in your land, 
 \v 25 and you must not accept such animals that are sold\f + \ft Or: given \f* to you by a foreigner. You must not offer them to me as food for
-me. Such animals will not be accepted by me, because they are deformed or have defects.’ ”
+me. Such animals will not be accepted by me, because they are deformed or have defects.' "
 \p
 \v 26 Yahweh also said to Moses\f + \ft Or: me \f*, 
-\v 27 “When a calf or lamb or goat is born, it must remain with its mother for seven days. After that, it can be accepted to be
+\v 27 "When a calf or lamb or goat is born, it must remain with its mother for seven days. After that, it can be accepted to be
 an offering to me that will be burned. 
 \v 28 Do not slaughter a cow or a sheep and its baby on the same day.
 \p
@@ -70,4 +70,4 @@ done\add*, sacrifice it in a way that is acceptable to me.
 \v 31 Obey all my commands \f + \ft doublet \f*. I, Yahweh, \add am commanding them\add*;
 \v 32 do not dishonor me \f + \ft metonymy \f* \add by disobeying them\add*. You Israeli people must acknowledge that I, Yahweh, am holy, and I
 am the one who causes you to be holy. 
-\v 33 And I am the one who brought you out of Egypt in order that I, Yahweh, will be your God.”
+\v 33 And I am the one who brought you out of Egypt in order that I, Yahweh, will be your God."

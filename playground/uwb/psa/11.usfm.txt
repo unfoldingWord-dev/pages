@@ -2,14 +2,14 @@
 \s A psalm written by David for the choir director 
 \q
 \v 1 I trust that Yahweh will protect \f + \ft metonymy \f* me. 
-\q2 So do not \f + \ft rhetorical question \f* say to me, “You need to escape\f + \ft Or: flee \f* to the mountains like birds do,
+\q2 So do not \f + \ft rhetorical question \f* say to me, "You need to escape\f + \ft Or: flee \f* to the mountains like birds do,
 \q
 \v 2 because wicked people have hidden in the darkness, 
 \q they have pulled back their bowstrings and aimed their arrows
 \q2 to shoot them at godly\f + \ft Or: righteous \f* [IDI] people. 
 \q
 \v 3 When people are not punished for disobeying the laws, 
-\q2 what can righteous people do?\f + \ft Or: there is not much that righteous people can do. \f*” \f + \ft rhetorical question \f*
+\q2 what can righteous people do?\f + \ft Or: there is not much that righteous people can do. \f*" \f + \ft rhetorical question \f*
 \b
 \q
 \v 4 But Yahweh is sitting on his throne in his sacred temple in heaven,

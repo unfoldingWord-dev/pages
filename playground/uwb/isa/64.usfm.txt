@@ -1,6 +1,6 @@
 \c 64  
 \q
-\v 1 “Yahweh, I wish that you would tear open the sky and come down,
+\v 1 "Yahweh, I wish that you would tear open the sky and come down,
 \q2 and cause the mountains to shake in your presence. 
 \q
 \v 2 Be like a fire that burns twigs 
@@ -48,4 +48,4 @@
 \q
 \v 12 Yahweh, you see all those things, so we worry that you will refrain
 \add from helping us\add*, 
-\q2 and that you will cause us to suffer much more.” 
+\q2 and that you will cause us to suffer much more." 

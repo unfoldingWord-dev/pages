@@ -1,10 +1,10 @@
 \c 10  
 \s A new copy of the Ten Commandments 
 \p
-\v 1 “Then Yahweh said to me, ‘Cut two stone tablets like the first ones. And make a wooden chest to put them in. Then
+\v 1 "Then Yahweh said to me, 'Cut two stone tablets like the first ones. And make a wooden chest to put them in. Then
 \add bring the tablets\add* up to me on this mountain. 
 \v 2 I will write on those tablets the same words that I wrote on the first tablets, the ones that you broke. Then you can put
-them in the chest.’ 
+them in the chest.' 
 \p
 \v 3 So I made a chest. I used wood from an acacia tree to make it. Then I cut two tablets of stone like the first ones, and I
 went up the mountain carrying the tablets. 
@@ -13,7 +13,7 @@ went up the mountain carrying the tablets.
 the fire on the mountain, when they were gathered \add at the bottom of the
 mountain\add*. Then Yahweh gave the tablets to me, 
 \v 5 and I turned and went down the mountain. Then, just as he had commanded, I put them in the chest that I had made. And they
-are still there.” 
+are still there." 
 \p
 \v 6 (Then, from the wells that belonged to the people of Jaakan, the Israeli people traveled to Moserah. There Aaron died and
 was buried, and his son Eleazar took his place and became the supreme priest.
@@ -25,14 +25,14 @@ was buried, and his son Eleazar took his place and became the supreme priest.
 \v 9 That is the reason that the tribe of Levi did not receive any land like the other tribes did. What they received was the
 work\f + \ft Or: privilege \f* of being Yahweh's \add priests\add*, which is what he said that they should do.)
 \p
-\v 10 “I stayed on the mountain forty days and nights, just like I did the first time.
+\v 10 "I stayed on the mountain forty days and nights, just like I did the first time.
 \add I prayed to\add* Yahweh, and he answered my prayers\f + \ft Or: did what I requested \f* again and said that he would not destroy your
 ancestors. 
-\v 11 Then Yahweh said to me, ‘Continue your journey, going in front of the people, to occupy the land that I solemnly promised
-your ancestors that I would give to you.’ ” 
+\v 11 Then Yahweh said to me, 'Continue your journey, going in front of the people, to occupy the land that I solemnly promised
+your ancestors that I would give to you.' " 
 \s What Yahweh required 
 \p
-\v 12 “Now, you Israeli people, \add I will tell you\add* \f + \ft rhetorical question \f* what Yahweh our God requires\f + \ft Or: demands \f* that you do. He requires
+\v 12 "Now, you Israeli people, \add I will tell you\add* \f + \ft rhetorical question \f* what Yahweh our God requires\f + \ft Or: demands \f* that you do. He requires
 you to have an awesome respect for him, to conduct your lives as he wants you to, to love him, and to serve him with all that
 you desire and all that you feel, 
 \v 13 and to obey all of his commandments \f + \ft doublet \f* which I am giving to you today for your benefit.
@@ -43,7 +43,7 @@ that is on it.
 \add on the earth\add* he chose us, their descendants, and we are still his people.
 \v 16 So you must change your inner beings \f + \ft metaphor \f* and stop being stubborn [IDI].
 \v 17 Yahweh our God is greater than all gods, and he is greater than all rulers. He is very powerful \f + \ft doublet \f* and awesome. He is
-impartial\f + \ft Or: does not do things that favor one ◄group, Or: person► more than others \f*, and he does not accept bribes.
+impartial\f + \ft Or: does not do things that favor one ◄group, Or: person \f* more than others►, and he does not accept bribes.
 \v 18 He makes sure that orphans and widows are treated fairly. He loves even foreigners\f + \ft Or: people from other countries \f* who live
 among us Israeli people, and he gives them food and clothes. 
 \v 19 So you must love those foreigners too, because you were once foreigners when you were living in Egypt.
@@ -51,4 +51,4 @@ among us Israeli people, and he gives them food and clothes.
 say that he should punish you if you do not do what you promise.
 \v 21 He is the one whom you must praise. He is our God, and we have seen the great and awesome things that he has done for us.
 \v 22 When our ancestors, \add Jacob and his family\add*, went down to Egypt, there were only seventy of them. But now Yahweh
-our God has caused us to be as numerous as the stars in the sky.”
+our God has caused us to be as numerous as the stars in the sky."

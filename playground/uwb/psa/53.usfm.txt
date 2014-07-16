@@ -1,7 +1,7 @@
 \c 53  
 \s A psalm written by David for the choir director, to be sung using a tune called 'Mahalath'
 \q
-\v 1 Only foolish people say to themselves, “There is no God!” 
+\v 1 Only foolish people say to themselves, "There is no God!" 
 \q People who say that are corrupt; they commit terrible sins; 
 \q2 there is not one of them who does what is good\f + \ft Or: right \f*. 
 \b

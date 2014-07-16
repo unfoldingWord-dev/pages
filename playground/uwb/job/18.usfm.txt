@@ -3,7 +3,7 @@
 \p
 \v 1 Then Bildad replied again: 
 \q
-\v 2 “When are you going to stop talking \f + \ft rhetorical question \f*? 
+\v 2 "When are you going to stop talking \f + \ft rhetorical question \f*? 
 \q2 If you would stop talking and listen, we could tell you something.
 \q
 \v 3 Why do you think that we are as stupid as cattle? \f + \ft doublet, rhetorical question \f*
@@ -49,8 +49,8 @@ others\add*.
 \q2 and brought to the one who rules over the dead. 
 \q
 \v 15 Now other people live in their tents\f + \ft Or: houses \f*, 
-\q2 but only after they sprinkle sulfur on those tents\f + \ft Or: houses \f* \add to ◄disinfect them\f + \ft Or: get \f* rid of the
-diseases►\add*! 
+\q2 but only after they sprinkle sulfur on those tents\f + \ft Or: houses \f* \add to disinfect them\f + \ft Or: get rid of the
+diseases \f*\add*! 
 \q
 \v 16  \add Because those who died had no descendants\add*, 
 \q2 they were like trees whose roots have dried up and whose branches have all withered \f + \ft metaphor \f*.
@@ -70,4 +70,4 @@ everyone\add*,
 \q
 \v 21 And that is what happens to ungodly\f + \ft Or: sinful \f* people \add like
 you\add*, 
-\q2 to people who have no interest in\f + \ft Or: have rejected \f* God.” 
+\q2 to people who have no interest in\f + \ft Or: have rejected \f* God." 

@@ -1,7 +1,7 @@
 \c 54  
 \s Yahweh promised that his people would return to Jerusalem 
 \q
-\v 1 Yahweh says, “You \add people of Jerusalem\add* \f + \ft metaphor \f*, start to sing!
+\v 1 Yahweh says, "You \add people of Jerusalem\add* \f + \ft metaphor \f*, start to sing!
 \q2 You who are like \f + \ft metaphor \f* women who have never given birth to children, sing loudly and shout joyfully,
 \q because you, who are like \f + \ft metaphor \f* childless women who have been abandoned
 \add by their husbands\add*, will soon have more children 
@@ -36,7 +36,7 @@ you\add*
 \q2 and then her husband abandoned her. 
 \q
 \v 7 I abandoned you people of Jerusalem for a while, 
-\q2 but now I am saying, ‘I will take you back.’ 
+\q2 but now I am saying, 'I will take you back.' 
 \q
 \v 8 I was very angry with you for a while, 
 \q2 and I turned away from you. 
@@ -91,4 +91,4 @@ cities\add*.
 \q and when others try to accuse you, you will refute them\f + \ft Or: show that they are wrong \f*.
 \q2 That is the reward that I will give to the people who serve me;
 \q I will defend them; 
-\q2 that is what I, Yahweh, promise.” 
+\q2 that is what I, Yahweh, promise." 

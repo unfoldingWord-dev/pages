@@ -1,7 +1,7 @@
 \c 28  
 \s Instructions for the priests' clothing 
 \p
-\v 1 “Summon your \add older\add* brother Aaron and his sons—Nadab, Abihu, Eleazar, and Ithamar.
+\v 1 "Summon your \add older\add* brother Aaron and his sons—Nadab, Abihu, Eleazar, and Ithamar.
 \add Set them apart\f + \ft Or: They are the ones whom I have chosen\add* \f* from the
 \add rest of\add* the Israeli people, in order that they can serve me
 \add by being\add* priests. 
@@ -14,10 +14,10 @@
 embroidered tunic\f + \ft Or: gown \f*, a turban\f + \ft Or: cloth to wrap around his head \f*, and a sash, Or: waistband. These are the clothes that your
 \add older\add* brother Aaron and his sons must wear as they serve me
 \add by doing the work that\add* priests do. 
-\v 5 The skilled workmen must use fine linen and blue, purple, and red yarn\f + \ft Or: thread \f* to make these clothes.”
+\v 5 The skilled workmen must use fine linen and blue, purple, and red yarn\f + \ft Or: thread \f* to make these clothes."
 \s Instructions for the sacred apron 
 \p
-\v 6 “The skilled workmen must make the sacred apron from fine linen, and skillfully embroider it with blue, purple, and red
+\v 6 "The skilled workmen must make the sacred apron from fine linen, and skillfully embroider it with blue, purple, and red
 yarn\f + \ft Or: thread \f*. 
 \v 7 It must have two shoulder straps, to join the front part to the back part.
 \v 8 A carefully-woven belt, which must be made from the same materials as the sacred apron, must be
@@ -32,10 +32,10 @@ apron\add*, to represent the twelve Israeli tribes. In that way, Aaron will carr
 order that \add I\add*, Yahweh, will never forget \add my people\add* \f + \ft Or: in order that
 \add he will always\add* remember that \add those tribes belong to\add* Yahweh \f*.
 \v 13 The settings for the stones must be made from gold. 
-\v 14  \add Tell them to\add* make two tiny chains that are braided like cords, and fasten the chains to the settings.”
+\v 14  \add Tell them to\add* make two tiny chains that are braided like cords, and fasten the chains to the settings."
 \s Instructions for the sacred pouch 
 \p
-\v 15 “\add Tell the skilled workman to\add* make a sacred pouch for Aaron to wear over his chest\f + \ft Or: breast \f*.
+\v 15 "\add Tell the skilled workman to\add* make a sacred pouch for Aaron to wear over his chest\f + \ft Or: breast \f*.
 \add He will use the things he puts into the pouch\add* to determine
 \add my answers to the questions he asks\add*. It must be made of the same materials as the sacred apron, and embroidered in
 the same way. 
@@ -69,10 +69,10 @@ people\add* \f + \ft Or: \add that he represents my people when he talks to me,
 Yahweh\add* \f*. 
 \v 30 Put into the sacred pouch the two things that the priest will use to determine my answers to the questions he asks. In
 that way, they will be close to his chest\f + \ft Or: breast \f* when he enters \add the Holy place to
-talk\add* to me. He will use them to determine what is my will for the Israeli people.”
+talk\add* to me. He will use them to determine what is my will for the Israeli people."
 \s Instructions for other clothes for the priests 
 \p
-\v 31 “\add Tell them to\add* use only blue \add cloth\add* to make the robe that is to be worn underneath the priest's sacred
+\v 31 "\add Tell them to\add* use only blue \add cloth\add* to make the robe that is to be worn underneath the priest's sacred
 apron. 
 \v 32 It is to have an opening through which \add the priest\add* can put his head. They must sew a border around this opening,
 to keep the material from tearing. 
@@ -84,7 +84,7 @@ Tent, the bells will ring \add as he walks\add*. As a result, he will not die
 \add because of disobeying my instructions\add*. 
 \p
 \v 36  \add Tell them to\add* make a tiny ornament of pure gold, and tell a skilled workman\f + \ft Or: gem-cutter \f* to engrave on it the
-words, ‘Dedicated to Yahweh.’ 
+words, 'Dedicated to Yahweh.' 
 \v 37 They should fasten this ornament to the front of the turban by a blue cord.
 \v 38 Aaron must always wear this on his forehead. In that way, Aaron himself will show
 \add that he accepts\add* the guilt if the Israeli people offer \add their
@@ -102,4 +102,4 @@ work by anointing them \add with olive oil\add*, in order that they may serve me
 thighs, in order that no one can see their private parts. 
 \v 43 Aaron and his sons must always wear those undershorts when they enter the Sacred Tent or when they come near to the altar
 to offer sacrifices in the Holy Place. If they do not obey this ritual, I will cause them to die. Aaron and all his male
-descendants must obey this rule forever.” 
+descendants must obey this rule forever." 

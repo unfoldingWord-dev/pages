@@ -1,8 +1,8 @@
 \c 3  
 \s They rebuilt the altar in Jerusalem 
 \p
-\v 1  \add After the Israeli people returned to Jerusalem\add*, and they began to live in their towns, ◄in the autumn of\f + \ft Or: after \f*
-the hot season ended in► that year, they all gathered together in Jerusalem.
+\v 1  \add After the Israeli people returned to Jerusalem\add*, and they began to live in their towns, in the autumn of\f + \ft Or: after
+the hot season ended in \f* that year, they all gathered together in Jerusalem.
 \v 2 Then Jeshua, the son of Jehozadak, and his fellow priests, and Zerubbabel the son of Shealtiel and his friends, all began
 to rebuild the altar of God, the one whom the Israeli people \add worshiped\add*. They did that in order that they could
 sacrifice burned offerings on it, according to what the prophet Moses had written in the laws

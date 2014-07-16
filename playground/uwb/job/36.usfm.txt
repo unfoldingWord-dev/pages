@@ -3,7 +3,7 @@
 \p
 \v 1 Elihu \add finished speaking by\add* saying this: 
 \q
-\v 2 “\add Job\add*, be patient with me a little longer, 
+\v 2 "\add Job\add*, be patient with me a little longer, 
 \q2 because I have something else to teach you. 
 \q2 I have something else to say that God \add wants you to know\add*.
 \q
@@ -80,7 +80,7 @@ you\add*,
 \q2 there is certainly \f + \ft rhetorical question \f* no teacher who teaches like he does.
 \q
 \v 23 No one has \f + \ft rhetorical question \f* told him what he should do, 
-\q2 and no one has \f + \ft rhetorical question \f* said to him, ‘You have done what is wrong!’
+\q2 and no one has \f + \ft rhetorical question \f* said to him, 'You have done what is wrong!'
 \q
 \v 24 People have always sung to praise him, 
 \q2 so you also should never forget to praise him for what he has done.
@@ -112,4 +112,4 @@ sky\add*
 \q2 and then he commands it to strike where he wants it to. 
 \q
 \v 33 When we hear his thunder, we know that there will be a storm,
-\q2 and the cattle know it, too.” 
+\q2 and the cattle know it, too." 

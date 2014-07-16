@@ -3,7 +3,7 @@
 \p
 \v 1 Then Job spoke again, saying \add to Eliphaz\add*, 
 \q
-\v 2 “If all my troubles and misery could be put on a scale and weighed,
+\v 2 "If all my troubles and misery could be put on a scale and weighed,
 \q
 \v 3 they would be heavier than all the sands \add on the shores\add* of the oceans.
 \q2 That is why I spoke very rashly\f + \ft Or: without thinking clearly \f* \add about the day that I was
@@ -106,4 +106,4 @@ suffering\add*.
 \q2 You should realize that I have not done things that are wrong.
 \q
 \v 30 Do you think that I am lying? 
-\q2 No, I am not lying, because I know what is right and what is wrong \f + \ft rhetorical question \f*.”
+\q2 No, I am not lying, because I know what is right and what is wrong \f + \ft rhetorical question \f*."

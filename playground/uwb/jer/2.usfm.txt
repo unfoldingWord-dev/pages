@@ -5,7 +5,7 @@
 \q
 \v 2  \add to proclaim to everyone in Jerusalem. He said that I should tell them
 this:\add* \f + \ft metaphor \f* 
-\q “I, Yahweh, remember that you very much wanted to please me \add long
+\q "I, Yahweh, remember that you very much wanted to please me \add long
 ago\add*. 
 \q2 \add You tried to please me like\add* a bride \add tries to please her
 husband\add*; 
@@ -17,23 +17,23 @@ husband\add*;
 \q I promised to punish all those who harmed you, my people, 
 \q2 and truly I did send disasters on them. 
 \q2 \add That happened because\add* I, Yahweh, said \add that it would
-happen\add*.” 
+happen\add*." 
 \b
 \q
 \v 4 So, you \add descendants of\add* \f + \ft metonymy \f* Jacob, all you people of \f + \ft metonymy \f* Israel,
 \p
 \v 5 listen to what Yahweh says: 
-\q2 “◄What sin did I commit \f + \ft rhetorical question \f* that caused your ancestors to turn far away from me?\f + \ft Or: Though \f* your ancestors found no fault in
-me, they turned far away from me.► 
+\q2 "What sin did I commit \f + \ft rhetorical question \f* that caused your ancestors to turn far away from me?\f + \ft Or: Though your ancestors found no fault in
+me, they turned far away from me. \f* 
 \q They worshiped worthless idols, 
 \q2 and they themselves became worthless. 
 \q
-\v 6 They did not say, ‘Yahweh brought us \add safely\add* out of Egypt,
+\v 6 They did not say, 'Yahweh brought us \add safely\add* out of Egypt,
 \q and he led us through a desert 
 \q2 where there were a lot of pits; 
 \q he led us where there was no water and where it was very dangerous,
 \q2 through a land where no one lives, and no one even travels. 
-\q So where is Yahweh now?\f + \ft Or: So he should be helping us now! \f* \f + \ft rhetorical question \f*’
+\q So where is Yahweh now?\f + \ft Or: So he should be helping us now! \f* \f + \ft rhetorical question \f*'
 \q
 \v 7 And when I brought you into a very fertile land, 
 \q2 in order that you could enjoy all the fruit and \add other\add* good things that you would harvest,
@@ -41,15 +41,15 @@ me, they turned far away from me.►
 \q2 and to become disgusting\f + \ft Or: detestable \f* to me. 
 \q
 \v 8 Your priests also did not say, 
-\q2 ‘Where is Yahweh now?\f + \ft Or: Yahweh should be helping us now! \f*’ \f + \ft rhetorical question \f*
+\q2 'Where is Yahweh now?\f + \ft Or: Yahweh should be helping us now! \f*' \f + \ft rhetorical question \f*
 \q Those who teach\f + \ft Or: explain \f* God's laws do not \add want to\add* know me,
 \q2 and your leaders have rebelled against me. 
 \q Your prophets gave you messages from \add their god\add* Baal,
-\q2 and they worship worthless idols.” 
+\q2 and they worship worthless idols." 
 \s Yahweh accused the Israeli people 
 \b
 \q
-\v 9 “So, I will accuse you in court. 
+\v 9 "So, I will accuse you in court. 
 \q In future years, I will say what your children and your grandchildren have done that is wrong.
 \q \add That will happen because\add* I, Yahweh, have said \add that it will
 happen\add*. 
@@ -92,8 +92,8 @@ obtain\add* fresh water,
 \v 17 But it is \f + \ft rhetorical question \f* because you abandoned me, Yahweh, 
 \q2 that these disasters have happened to you. 
 \q
-\v 18 So ◄why are you trying to make an alliance with \f + \ft metaphor \f* the rulers of Egypt?\f + \ft Or: it \f* certainly will not help you to make an
-alliance with the rulers of Egypt.► \f + \ft rhetorical question \f* 
+\v 18 So why are you trying to make an alliance with \f + \ft metaphor \f* the rulers of Egypt?\f + \ft Or: it certainly will not help you to make an
+alliance with the rulers of Egypt. \f* \f + \ft rhetorical question \f* 
 \q2 Why are you trying to make an alliance with \f + \ft metaphor \f* the rulers of Assyria who live near the
 \add Euphrates\add* River? 
 \q
@@ -119,8 +119,8 @@ me, Yahweh, your God,
 \q \add This is true because\add* I, Yahweh, have said it. 
 \q
 \v 23 You say that you have not sinned. 
-\q You say ‘We have not become unacceptable to God; 
-\q2 we have not worshiped Baal.’ 
+\q You say 'We have not become unacceptable to God; 
+\q2 we have not worshiped Baal.' 
 \q But think about \add the disgusting things that you do very eagerly\add* in
 \add Hinnom\add* Valley \add outside Jerusalem\add*. 
 \q2 You are like desperate female camels, running here and there
@@ -135,17 +135,17 @@ me, Yahweh, your God,
 \v 25 You constantly run here and there \add to find idols to worship\add*, with the result that your sandals are worn out,
 \q2 and your throats have become dry. 
 \q \add I told you to stop doing that\add* 
-\q2 but you said, ‘We cannot stop, because we love foreign gods,
-\q2 and we must worship them.’ ” 
+\q2 but you said, 'We cannot stop, because we love foreign gods,
+\q2 and we must worship them.' " 
 \b
 \p
 \v 26  \add Yahweh says this:\add* 
-\q “A robber is disgraced when he is caught. 
+\q "A robber is disgraced when he is caught. 
 \q2 And all of you, including your kings and priests and prophets, are similarly disgraced.
 \q
 \v 27 You say to \add a piece of\add* wood \add that is carved to become a sacred
-idol\add*, ‘You are our father!’ 
-\q2 And you say to a stone \add that you have set up\add*, ‘You are our mother!’
+idol\add*, 'You are our father!' 
+\q2 And you say to a stone \add that you have set up\add*, 'You are our mother!'
 \q You have rejected [IDI] me, 
 \q2 but when you experience troubles, 
 \q you cry out to me to rescue you. 
@@ -169,8 +169,8 @@ you\add*,
 \v 31 You people of Israel, pay attention to what I say. 
 \q I have certainly \f + \ft rhetorical question \f* never \add abandoned you\add* in a desert;
 \q2 I have never \add left you\add* in a very dark land. 
-\q So, why do you, my people, say ‘We are free from God's control;
-\q2 we will not return to \add worship\add* God anymore’? 
+\q So, why do you, my people, say 'We are free from God's control;
+\q2 we will not return to \add worship\add* God anymore'? 
 \q
 \v 32 A young woman would certainly never \f + \ft rhetorical question \f* forget \add to wear\add* her jewelry,
 \q2 and a bride would never \f + \ft rhetorical question \f* forget to wear her wedding dress,
@@ -183,10 +183,10 @@ with\add*.
 \v 34 Although you have on your clothes the blood of poor people whom you have murdered,
 \q2 people who were innocent\f + \ft Or: had not done things that are wrong \f*,
 \q
-\v 35 you say ‘We have not done anything that is wrong; 
-\q2 so surely \add Yahweh\add* is not angry with us.’ 
+\v 35 you say 'We have not done anything that is wrong; 
+\q2 so surely \add Yahweh\add* is not angry with us.' 
 \q But I will punish \f + \ft metonymy \f* you \add severely\add* 
-\q2 for saying ‘We have not sinned.’ 
+\q2 for saying 'We have not sinned.' 
 \b
 \q
 \v 36 Previously you requested \add the army of\add* Assyria to help you,
@@ -197,4 +197,4 @@ with\add*.
 \v 37 They will capture you, and you will be \add their prisoners\add* \f + \ft metonymy \f*,
 \q2 led to Egypt, \add very ashamed\add* with your hands on your heads.
 \q That will happen because I, Yahweh, have rejected those nations that you are relying on,
-\q2 and they will not be able to help you at all.” 
+\q2 and they will not be able to help you at all." 

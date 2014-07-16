@@ -2,7 +2,7 @@
 \s A psalm written by David for people going up to the temple to worship
 \q
 \v 1 I was glad\f + \ft Or: happy \f* when people said to me, 
-\q2 “We should go to the temple of Yahweh \add in Jerusalem\add*!”
+\q2 "We should go to the temple of Yahweh \add in Jerusalem\add*!"
 \q
 \v 2 And now we are here, 
 \q2 standing inside the gates\f + \ft Or: city \f* of \f + \ft apostrophe \f* Jerusalem. 
@@ -25,7 +25,7 @@
 \q2 and that people who are inside the palaces will be safe. 
 \q
 \v 8 For the sake of my relatives and friends I say, 
-\q2 “I wish\f + \ft Or: hope \f* that inside Jerusalem people will live peacefully.”
+\q2 "I wish\f + \ft Or: hope \f* that inside Jerusalem people will live peacefully."
 \q
 \v 9 And because I love the temple of Yahweh our God, 
 \q2 I pray that things will go well for the people who live \add in

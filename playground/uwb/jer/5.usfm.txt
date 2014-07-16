@@ -1,15 +1,15 @@
 \c 5  
 \s No one in Judah is honest 
 \q
-\v 1 Yahweh said to \add the people of Jerusalem\add*, “Go up and down every street.
+\v 1 Yahweh said to \add the people of Jerusalem\add*, "Go up and down every street.
 \q2 Search in the marketplaces to find people who do what is fair\f + \ft Or: right \f*,
 \q2 who try to be faithful to me. 
 \q \add If you find even one person like that\add*, 
 \q2 I will forgive \add the people of Jerusalem and not destroy\add* their city.
 \q
-\v 2 But when people there say, ‘I solemnly declare that as surely as Yahweh lives,
-\add I will do what he says\add*,’ 
-\q2 they are lying.” 
+\v 2 But when people there say, 'I solemnly declare that as surely as Yahweh lives,
+\add I will do what he says\add*,' 
+\q2 they are lying." 
 \b
 \q
 \v 3 Yahweh, you are certainly \f + \ft rhetorical question \f* searching for \add people who tell
@@ -19,14 +19,14 @@ the\add* truth.
 \q They were extremely stubborn [IDI] 
 \q2 and refused to return to you. 
 \q
-\v 4 I thought, “\add We cannot expect\add* these people \add to act righteously, because
+\v 4 I thought, "\add We cannot expect\add* these people \add to act righteously, because
 they\add* are poor; 
 \q2 they do not have any sense. 
 \q They do not know the way Yahweh wants them to conduct their lives;
 \q2 they do not know what God requires them to do. 
 \q
 \v 5 So, I will go and talk to their leaders, 
-\q2 because they surely know how God wants them to conduct their lives.”
+\q2 because they surely know how God wants them to conduct their lives."
 \q But they also have stopped obeying Yahweh \f + \ft metaphor \f*, 
 \q2 and they will not allow him to lead them. 
 \q
@@ -37,7 +37,7 @@ they\add* are poor;
 \q2 and have turned away from him very frequently. 
 \b
 \q
-\v 7 Yahweh says, “I cannot \f + \ft rhetorical question \f* forgive these people; 
+\v 7 Yahweh says, "I cannot \f + \ft rhetorical question \f* forgive these people; 
 \q2 even their children have abandoned me. 
 \q When they solemnly declare something, they ask their gods \add to show that what they say is
 true\add*. 
@@ -51,7 +51,7 @@ true\add*.
 \q2 I will certainly get revenge \f + \ft rhetorical question \f* on this nation whose people behave like that!
 \b
 \q
-\v 10  \add I will say to your enemies\add*, ‘The people \add of Judah and Israel are like a
+\v 10  \add I will say to your enemies\add*, 'The people \add of Judah and Israel are like a
 vineyard\add*. 
 \q Go along the rows in their vineyards 
 \q and get rid of \add most of\add* the people, 
@@ -60,20 +60,20 @@ vineyard\add*.
 \q \add so get rid of them\add*, 
 \q2 \add like a gardener\add* \f + \ft metaphor \f* lops\f + \ft Or: cuts \f* off branches from a vine.
 \q
-\v 11 The people of Israel and Judah have turned away from me completely.’
+\v 11 The people of Israel and Judah have turned away from me completely.'
 \q
 \v 12 They have lied about me and said, 
-\q2 ‘He will not punish us! 
+\q2 'He will not punish us! 
 \q2 He will not send disasters on us! 
 \q2 We will not experience wars or famines! 
 \q
 \v 13 What \add God's\add* prophets say is nothing but wind! 
 \q2 They do not have messages \add from God\add*! 
-\q2 We would like \add the disasters that they predict\add* to happen to them!’ ”
+\q2 We would like \add the disasters that they predict\add* to happen to them!' "
 \b
 \p
 \v 14 So, this is what Yahweh, the commander of the armies of angels in heaven, has said to me:
-\q “Because my people are saying those things, 
+\q "Because my people are saying those things, 
 \q2 I will give you a message to tell them \f + \ft metonymy \f* that will be like \f + \ft metaphor \f* a fire,
 \q2 and \add these people will be\add* like \f + \ft metaphor \f* wood that the fire will burn up.
 \q
@@ -97,12 +97,12 @@ cattle\add*.
 \p
 \v 18 But even when those things happen, I will not get rid of all of you.
 \q
-\v 19 And when the people ask, ‘Why is Yahweh doing this to us?’
-\q2 you will tell them, ‘You rejected him and worshiped foreign gods in your own land,
-\q2 so now you will become slaves of foreigners in a land that is not your land.’ ”
+\v 19 And when the people ask, 'Why is Yahweh doing this to us?'
+\q2 you will tell them, 'You rejected him and worshiped foreign gods in your own land,
+\q2 so now you will become slaves of foreigners in a land that is not your land.' "
 \b
 \q
-\v 20  \add Yahweh said to me\add*, “Proclaim this to the people of Israel and Judah:
+\v 20  \add Yahweh said to me\add*, "Proclaim this to the people of Israel and Judah:
 \q
 \v 21 Listen to this, you people who are foolish and who do not have any sense:
 \q2 You have eyes, but \add it is as though\add* you cannot see;
@@ -120,9 +120,9 @@ land\add*.
 \q2 You have constantly turned away from me. 
 \q
 \v 24 You do not say to yourselves, 
-\q2 ‘We should have an awesome respect for Yahweh our God, 
+\q2 'We should have an awesome respect for Yahweh our God, 
 \q2 the one who sends us rain at the times than we need it, 
-\q2 the one who causes the grain to become ripe at the harvest season.’
+\q2 the one who causes the grain to become ripe at the harvest season.'
 \q
 \v 25 It is because of the wrong things that you have done, that those good things have not happened;
 \q2 it is because of the sins that you have committed that you have been prevented from receiving those blessings.
@@ -150,4 +150,4 @@ captured\add*,
 \v 31 Prophets speak only lies 
 \q2 and priests rule by their own authority, 
 \q and you people like that! 
-\q2 But when you start to experience disasters, what will you do \f + \ft rhetorical question \f*?”
+\q2 But when you start to experience disasters, what will you do \f + \ft rhetorical question \f*?"

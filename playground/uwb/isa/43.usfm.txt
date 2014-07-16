@@ -3,7 +3,7 @@
 \q
 \v 1 But now, you people of Israel, listen to Yahweh, the one who established your nation.
 \q2 The one who caused you to become a nation \f + \ft doublet \f* says this: 
-\q “Do not be afraid, 
+\q "Do not be afraid, 
 \q2 because I previously rescued you. 
 \q I enabled you to have a personal relationship with me \f + \ft metonymy \f*, and you belong to me.
 \q
@@ -33,12 +33,12 @@ Arabia\add* in order that you can be saved.
 \q2 \add Some day\add* I will gather your descendants from the east and from the west.
 \q
 \v 6 I will command the \add rulers of the nations to\add* the north and to the south,
-\q2 ‘Allow all the people of Israel to return \add to their country\add*,
+\q2 'Allow all the people of Israel to return \add to their country\add*,
 \q2 from the most distant places on the earth. 
 \q
 \v 7 Allow all those who belong to me \f + \ft metonymy \f* to return, 
 \q2 because I have caused them to become a nation in order that they would honor me;
-\q2 I am the one who has done that \f + \ft doublet \f*.’ 
+\q2 I am the one who has done that \f + \ft doublet \f*.' 
 \q
 \v 8 Summon the people who have eyes but \add it is as though\add* they are blind;
 \q2 summon those who have ears but \add because they do not listen to me, it is as
@@ -46,13 +46,13 @@ though\add* they are deaf.
 \q
 \v 9 Gather people of all nations together, 
 \q2 ones from all people-groups, 
-\q \add and ask them this\add*: ‘Has any of their idols foretold the things that are happening now?
-\q2 And can any of them predict what will happen in the future?’
-\q Then bring people who will testify and say ‘I heard them predict things,
-\q2 and what they predicted was what happened,’ 
-\q2 \add but they will be lying\add*.” 
+\q \add and ask them this\add*: 'Has any of their idols foretold the things that are happening now?
+\q2 And can any of them predict what will happen in the future?'
+\q Then bring people who will testify and say 'I heard them predict things,
+\q2 and what they predicted was what happened,' 
+\q2 \add but they will be lying\add*." 
 \q
-\v 10 But Yahweh says, “You people of Israel are my witnesses\f + \ft Or: know what I have done \f*,
+\v 10 But Yahweh says, "You people of Israel are my witnesses\f + \ft Or: know what I have done \f*,
 \q2 and you are the ones who serve me. 
 \q I chose you in order that you would know me, believe in me, 
 \q2 and understand that I am the only one who is \add truly\add* God.
@@ -71,11 +71,11 @@ it\add*.
 \q2
 \v 13 I am God, the one who has existed forever and who will exist forever;
 \q no one can snatch people from my hand, 
-\q2 and no one can alter\f + \ft Or: change \f* what I have done.” 
+\q2 and no one can alter\f + \ft Or: change \f* what I have done." 
 \s God promises to rescue his people from Babylon 
 \q
 \v 14 Yahweh, the Holy One of Israel, is the one who rescues you; and this is what he says:
-\q2 “For your sake, I will send \add an army\add* to \add attack\add* Babylon.
+\q2 "For your sake, I will send \add an army\add* to \add attack\add* Babylon.
 \q2 They will force the people of the city to flee in ships which they have been proud of.
 \q
 \v 15 I am Yahweh, your Holy One, 
@@ -137,4 +137,4 @@ you\add* to bring to me were not a burden to you.
 \q
 \v 28 That is why I have caused your priests to be disgraced; 
 \q2 and I have allowed others to destroy you people of Israel 
-\q2 and caused you to be despised.” 
+\q2 and caused you to be despised." 
