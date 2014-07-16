@@ -1,8 +1,8 @@
 ====== Test Transclude of USFM ======
 
-===== Mark 1:12-13 =====
+===== Acts 1:1-3 =====
 
-{{page>:en:bible-training:42mrk:01:12}}
+{{page>:en:obs-training:sandbox:chrisjarka:page1.usfm}}
 
 
 ===== Important Terms: =====
