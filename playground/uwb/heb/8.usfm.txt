@@ -17,7 +17,7 @@ rule \f + \ft metonymy \f* with God \f + \ft euphemism \f* at the place of great
 \v 5 The \add Jewish\add* priests perform rituals which are only a model \f + \ft doublet \f* of
 \add what Christ would do in heaven\add* \f + \ft metonymy \f*. What \add God\add* told Moses when Moses was about to set up the tent
 \add for worshipping him supports the idea that those rituals were only a model. God
-said\add*, "Be sure that you \add (sg)\add* make everything according to the model that I showed you on Sinai Mountain!"
+said\add*, "Be sure that you \add \f + \ft singular \f*\add* make everything according to the model that I showed you on Sinai Mountain!"
 \v 6 But now as it is, \add Christ\add* ministers in a more excellent way
 \add than the Jewish priests do\add*. Likewise, the \add new\add* covenant that he established
 \add between God and people\add* is better \add than the old one. When the new covenant was

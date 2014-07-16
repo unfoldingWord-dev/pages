@@ -37,12 +37,12 @@ Jerusalem {that the apostles and elders in Jerusalem had decided} that
 \add who was a native\add* of Macedonia \add province\add*. He was standing
 \add some distance away\add*, and he was earnestly calling to Paul,
 "\add Please\add* come over \add here\add* to Macedonia and help us!"
-\v 10  \add The next morning\add* we\add (exc)\add* immediately got ready to go to Macedonia, because we believed that God had
+\v 10  \add The next morning\add* we\add \f + \ft exclusive \f*\add* immediately got ready to go to Macedonia, because we believed that God had
 called us to \add go and\add* preach the good message to the people there.
 \s Acts 16:11-12 
 \s Paul's company went from Troas to Philippi. 
 \p
-\v 11 So we\add (exc)\add* got on a ship in Troas and sailed across
+\v 11 So we\add \f + \ft exclusive \f*\add* got on a ship in Troas and sailed across
 \add the sea\add* to Samothrace \add Island. We spent the night there\add*, and the next day
 \add we sailed again across the sea and arrived\add* at Neapolis
 \add port\f + \ft Or: town \f*\add*. 
@@ -51,7 +51,7 @@ called us to \add go and\add* preach the good message to the people there.
 \s Acts 16:13-15 
 \s Paul preached the gospel and Lydia became a believer. 
 \p
-\v 13 On the first Sabbath\f + \ft Or: Jewish day of rest \f* \add after we(exc)
+\v 13 On the first Sabbath\f + \ft Or: Jewish day of rest \f* \add after we\f + \ft exclusive \f*
 arrived\add*, we went outside the city gate \add down\add* to the river. We had heard
 \add someone say\add* that \add Jewish\add* people gathered to pray there.
 \add When we arrived there, we saw\add* some women who had gathered
@@ -65,13 +65,13 @@ and\add* sold \add expensive\add* purple cloth. She had accepted what the Jews b
 Jesus\add* \f + \ft metonymy \f*. 
 \v 15 After \add Paul and Silas\add* baptized Lydia and the others who lived in her house \f + \ft metonymy \f* {After Lydia and the others who
 lived in her house were baptized}, she invited us to \add go and stay
-in\add* her home. She said, "You\add (pl)\add* know that I \add now\add* believe in the Lord
+in\add* her home. She said, "You\add \f + \ft plural \f*\add* know that I \add now\add* believe in the Lord
 \add Jesus\add*, so \add please\add* come and stay in my house." She persuaded us
-\add to do that, so we(exc) stayed there\add*. 
+\add to do that, so we\f + \ft exclusive \f* stayed there\add*. 
 \s Acts 16:16-24 
 \s Paul expelled a demon from a slave girl, so officials imprisoned Paul and Silas.
 \p
-\v 16 Another day, while we\add (exc)\add* were going to the place where people regularly gathered to pray, we met a young
+\v 16 Another day, while we\add \f + \ft exclusive \f*\add* were going to the place where people regularly gathered to pray, we met a young
 woman who was a slave. An evil spirit was enabling her to be a ventriloquist and to tell people what would happen
 \add to them\add*. People paid a lot of money to \add the men who
 were\add* her owners, in return for her telling them things that
@@ -81,7 +81,7 @@ were\add* her owners, in return for her telling them things that
 \add so that he will not punish you\f + \ft Or: to be\add* saved \f*" 
 \v 18 She continued to do that for many days. Finally Paul became irritated. So he turned
 \add toward the young woman\add* and rebuked the evil spirit \add that was in her. He
-said\add*, "By the authority \f + \ft metonymy \f* of Jesus Christ, I command you\add (sg)\add* to come out of this young woman!" Right away
+said\add*, "By the authority \f + \ft metonymy \f* of Jesus Christ, I command you\add \f + \ft singular \f*\add* to come out of this young woman!" Right away
 the evil spirit left her. 
 \v 19 And then her owners realized that she could no longer earn money for them
 \add because she could no longer predict what would happen to people, so they were
@@ -90,7 +90,7 @@ angry\add*. They grabbed Paul and Silas and forcefully took them to the public s
 gathered\add*. 
 \v 20 The owners \add of the young woman\add* brought them to the city officials and told them, "These men are Jews, and they
 are greatly troubling \add the people in\add* \f + \ft metonymy \f* our city. 
-\v 21 They are teaching that we\add (inc)\add* should follow customs that our laws do not allow us Romans to consider
+\v 21 They are teaching that we\add \f + \ft inclusive \f*\add* should follow customs that our laws do not allow us Romans to consider
 \add to be correct\add* or to obey!" 
 \v 22 Many of the crowd joined \add those who were accusing\add* Paul and Silas, and started beating them. Then the
 \add Roman\add* authorities commanded \add soldiers\add* to tear the shirts off Paul and Silas and to beat them
@@ -115,7 +115,7 @@ legs\add*. Then he fastened their ankles in \add grooves\add* between two large 
 out his sword in order to kill himself, \add because he knew that the officials would kill him if the prisoners
 escaped\add*. 
 \v 28 Paul \add saw the jailer and\add* shouted to him, "Do not harm yourself!
-We\add (exc) prisoners\add* are all here!" 
+We\add \f + \ft exclusive \f* prisoners\add* are all here!" 
 \v 29 The jailer shouted \add to someone\add* to bring torches\f + \ft Or: lanterns \f*,
 \add and after they brought them\add*, he rushed into the jail and knelt down in front of Paul and Silas.
 \add He was very much afraid, so\add* much so that he was trembling\f + \ft Or: shaking \f*.
@@ -138,13 +138,13 @@ believed in God.
 \add two\add* prisoners go \add now\add*!'" 
 \v 36  \add After the officers went and told that to\add* the jailer, he
 \add went and\add* told Paul, "The \add Roman\add* authorities have sent a
-message\add (sg)\add* saying that I should release you\add (sg)\add* and Silas
+message\add \f + \ft singular \f*\add* saying that I should release you\add \f + \ft singular \f*\add* and Silas
 \add from prison\add*. So you \add two\add* can leave \add the jail\add* now. Now you can go peacefully!"
 \v 37 But Paul said to the police officers, "The authorities \add commanded men
 to\add* beat us in front of a crowd before \add those authorities\add* had learned if
-we\add (exc)\add* had done anything wrong! Then they \add ordered men
+we\add \f + \ft exclusive \f*\add* had done anything wrong! Then they \add ordered men
 to\add* shove us into jail! \add But that was not legal, because\add*
-we\add (exc)\add* are Roman citizens! And now they want \f + \ft rhetorical question \f* to send us away secretly! We will not accept that! Those
+we\add \f + \ft exclusive \f*\add* are Roman citizens! And now they want \f + \ft rhetorical question \f* to send us away secretly! We will not accept that! Those
 \add Roman\add* officials must come themselves and\add tell us that they are
 sorry\add*, and take us out \add of jail\add*." 
 \v 38 So the police officers \add went and\add* told the city authorities

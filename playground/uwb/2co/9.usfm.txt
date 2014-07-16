@@ -15,7 +15,7 @@ want\add* to give \add a gift\add*.
 \v 3 However, I am sending Titus and the other two believers in order that
 \add they will be able to help you finish collecting the money. Then when I and others arrive later, the people with me will
 see for themselves that\add* the things that I have been boasting about you are true \f + \ft litotes \f*.
-\add I want\add* you \add to have your gift\add* ready \add for us(exc) to take to
+\add I want\add* you \add to have your gift\add* ready \add for us\f + \ft exclusive \f* to take to
 Jerusalem\add*, just like I have been telling them that you were ready.
 \v 4 When I come, if any of \add the believers from\add* Macedonia come with me,
 \add I do not want them to find that your gift is\add* \f + \ft metonymy, euphemism \f* not ready. If that were
@@ -35,10 +35,10 @@ generously, and your generosity will cause many other people to praise and honor
 \add Similarly, if you give just a little to help others, God will give you only a few blessings. But if you give willingly and
 cheerfully to help people, you will receive in return many blessings from
 God\add*. 
-\v 7 Each of you should decide within yourself how much you\add (sg)\add* should give,
-\add and then give that amount\add*. You\add (sg)\add* should not
+\v 7 Each of you should decide within yourself how much you\add \f + \ft singular \f*\add* should give,
+\add and then give that amount\add*. You\add \f + \ft singular \f*\add* should not
 \add be thinking to yourself\add*, "\add I really\add* do not want to give this money."
-\add And you(sg) should\add* not give \add just\add* because someone tells
+\add And you\f + \ft singular \f* should\add* not give \add just\add* because someone tells
 \add you to give. Instead, you should give willingly and cheerfully\add*, because God loves those who give cheerfully.
 \v 8 Moreover, God can enable you to \add give to others cheerfully. If you give that
 way\add*, God will \add in return\add* give you many good blessings. He will do that so that at all times you will always have
@@ -56,7 +56,7 @@ whom\add* it is written {\add about whom\add* someone\f + \ft Or: the Psalmist \
 more to generously \add help those who are needy\add*. 
 \v 11  \add God\add* will \add give you\add* many blessings in many different ways as a result of your generously
 \add helping others\add*. Furthermore, \add the\add* generous\add gift that you are getting ready
-for\add* us\add (exc) to take to the believers in Judea province\add* will cause
+for\add* us\add \f + \ft exclusive \f* to take to the believers in Judea province\add* will cause
 \add many people\add* to thank God. 
 \p
 \v 12  \add Also remember that\add* when you give money to \f + \ft euphemism \f* help God's people, you not only give them what they need, but
@@ -69,5 +69,5 @@ possessions\add* so that they and other \add believers will all have\add*
 \v 14 Also, when they pray for you, \add asking God to bless you, they will remember how grateful they
 are\add* \f + \ft idiom \f* that God \add caused you to give\add* very willingly and cheerfully.
 \v 15  \add Finally, we should all\add* thank God \add because he gave us the greatest gift of all when he sent his Son to
-save\f + \ft Or: rescue \f* us(inc)\add* \add from the guilt of our sin\f + \ft Or: from being punished for our
+save\f + \ft Or: rescue \f* us\f + \ft inclusive \f*\add* \add from the guilt of our sin\f + \ft Or: from being punished for our
 sin\add* \f*. That is a gift too wonderful for anyone to be able to tell about completely!

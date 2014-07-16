@@ -35,8 +35,8 @@ commandment was \add also given\add* by \add Jesus our\add* King \f + \ft metony
 \add his other\add* laws, \add God considers them\add* to be \add as guilty as anyone who has
 disobeyed\add* all \add of\add* God's\add laws\add*. 
 \v 11 For example, \add God\add* said, "Do not commit adultery," but he also said, "Do not murder anyone."
-\add So\add* if you\add (sg)\add* do not commit adultery but you\add (sg)\add* murder someone,
-you\add (sg)\add* have become a person who disobeys \add God's\add* laws.
+\add So\add* if you\add \f + \ft singular \f*\add* do not commit adultery but you\add \f + \ft singular \f*\add* murder someone,
+you\add \f + \ft singular \f*\add* have become a person who disobeys \add God's\add* laws.
 \s James 2:12-13 
 \s Continually act mercifully toward others, because God will not act mercifully to those who do not act mercifully toward
 others. 
@@ -62,7 +62,7 @@ deeds\add*? \f* \f + \ft rhetorical question \f*
 \v 15  \add To illustrate\add*, suppose that fellow believers, either men or women, are continually lacking clothing or lacking
 food for each day. 
 \v 16 And suppose that one of you says to them, "May \add God\add* bless you and supply the clothing and food that you need!"
-but you\add (sg)\add* do not give them the things that they need. That would be no help
+but you\add \f + \ft singular \f*\add* do not give them the things that they need. That would be no help
 \add to them\add*!\f + \ft Or: What help is that \add to them\add*? \f* \f + \ft rhetorical question \f* 
 \v 17 Similarly, \add those who do\add* not do good deeds \add to help others, what they have said
 about\add* their believing \add in Christ\add* is \add as useless\add* \f + \ft metaphor \f*
@@ -77,14 +77,14 @@ trust in God.
 \v 18 But someone may say \add to me\add*, "\add God saves\add* some people only
 \add because\add* they trust \add in him\add*, and \add he saves\add* others
 \add because\add* they do good deeds \add to people\add*." \add I would answer that
-person\add*, "\add You(sg) cannot\add* prove to me that people truly trust
+person\add*, "\add You\f + \ft singular \f* cannot\add* prove to me that people truly trust
 \add in God if\add* they do not do good deeds \add to others\add*! But by doing good deeds
 \add to others\add* I will prove to you that I truly trust \add in
 God\add*! 
 \v 19  \add Think about it\add*! You believe that there is only one God, and you are right
 \add to believe that\add*. But the demons also believe that, but they tremble
 \add because they know that God is going to punish them\add*. 
-\v 20 Also, you foolish person, I will \f + \ft rhetorical question \f* prove to you\add (sg)\add* that
+\v 20 Also, you foolish person, I will \f + \ft rhetorical question \f* prove to you\add \f + \ft singular \f*\add* that
 \add if someone says\add*, 'I trust \add in God\add*,' but he does not do good deeds,
 \add what that person says\add* will not benefit him. 
 \v 21 It was certainly\add because of\add* what our \add revered\add* ancestor Abraham did, when he
@@ -94,9 +94,9 @@ God\add*!
 \add revered\add* ancestor Abraham did, when he \add prepared to\add* sacrifice his son Isaac, that he was considered
 \add by God\add* {that \add God\add* considered him} to be a righteous,
 \add obedient\add* person? \f* \f + \ft rhetorical question \f* 
-\v 22 You\add (sg)\add* can realize that he was not only trusting
+\v 22 You\add \f + \ft singular \f*\add* can realize that he was not only trusting
 \add in God\add*, but he was also doing \add what God told him to
-do\add*, and \add you(sg) can realize\add* that he was able to trust
+do\add*, and \add you\f + \ft singular \f* can realize\add* that he was able to trust
 \add in God more\add* completely because of having done \add what God told him to
 do\add*. 
 \v 23 And \add so it happened as it is written in the\add* Scriptures: 'Because Abraham truly trusted in God, he was considered

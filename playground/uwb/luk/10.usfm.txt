@@ -10,7 +10,7 @@ message\add* are like a field \add of\add* \f + \ft metaphor \f* \add grain\add*
 \add to bring them to God\add*. So pray and ask the Lord \add God\add* to send
 \add more\add* workers\add who will gather people together and teach them my message, just like a landowner sends
 workers\add* into his fields \add to gather the\add* harvest. 
-\v 3 Start going; but \add remember that\add* I am sending you\add (pl)\add* out
+\v 3 Start going; but \add remember that\add* I am sending you\add \f + \ft plural \f*\add* out
 \add to tell my message to people who will try to get rid of you. You will
 be\add* like lambs among wolves. 
 \v 4 Do not take along \add any money in\add* a purse. Do not take a traveler's bag. Do not take
@@ -32,7 +32,7 @@ whom you go\add*.
 \add time for\add* God to send his king to rule \f + \ft metaphor \f* \add your lives\add*.'
 \v 10 But if you enter a town whose \add people\add* do not welcome you, go into its
 \add main\add* streets and say, 
-\v 11 '\add Because you have refused to hear our message, we(exc) will not only
+\v 11 '\add Because you have refused to hear our message, we\f + \ft exclusive \f* will not only
 leave\add*, we will also shake off the dust of your town that clings to our sandals, to warn you
 \add that God will reject\f + \ft Or: punish \f* you\add*. But \add we want you to know
 that\add* it is almost \add the time when\add* God will start to rule!'
@@ -70,8 +70,8 @@ that\add* those who listen to your \add message\add* are listening to me, and th
 \p
 \v 17 The seventy-two \add people whom Jesus appointed went and did as he told them
 to\add*. When they returned, they were very joyful. They said, "Lord,
-\add people did what we(exc) told them to do! But\add* demons also obeyed us when by
-your\add (sg)\add* authority \f + \ft metonymy \f* \add we commanded them to leave
+\add people did what we\f + \ft exclusive \f* told them to do! But\add* demons also obeyed us when by
+your\add \f + \ft singular \f*\add* authority \f + \ft metonymy \f* \add we commanded them to leave
 people\add*!" 
 \v 18 He replied, "\add When those demons were obeying you, because God had enabled you to defeat them, it was as
 though\add* \f + \ft metaphor \f* I saw Satan fall from heaven \add as suddenly and
@@ -84,7 +84,7 @@ quickly\add* as lightning \add strikes\add*!
 \add because you will be with God forever\add*." 
 \p
 \v 21 At that time the Holy Spirit caused \add Jesus\add* to be very happy. He said, "Father,
-you\add (sg)\add* rule over \add everything in\add* heaven and \add on\add* the earth! Some
+you\add \f + \ft singular \f*\add* rule over \add everything in\add* heaven and \add on\add* the earth! Some
 \add people think that they are\add* wise \add because\add* they are well-educated. But I thank you that you have prevented
 them from \add knowing\add* these things\add . Instead\add*, you have revealed them to
 \add people who accept your truth as readily\add* \f + \ft metaphor \f* \add as\add* little children
@@ -108,13 +108,13 @@ ago\add* desired to see the things that you are seeing \add me do\add*, but thos
 \v 25  \add One day as Jesus was teaching people\add*, a man who had studied carefully the laws that
 \add God gave Moses\add* was there. He wanted to ask Jesus a difficult question. So he stood up and asked, "Teacher, what shall
 I do in order to live \add with God\add* forever?" 
-\v 26 Jesus said to him, "You\add (sg)\add* have read \f + \ft rhetorical question \f* what
+\v 26 Jesus said to him, "You\add \f + \ft singular \f*\add* have read \f + \ft rhetorical question \f* what
 \add Moses\add* has written in the laws that \add God gave him\add*. What did Moses write about that?"
-\v 27 The man replied, "\add He wrote that\add* we\add (inc)\add* must love the Lord our God in our inner beings\f + \ft Or: hearts \f*.
+\v 27 The man replied, "\add He wrote that\add* we\add \f + \ft inclusive \f*\add* must love the Lord our God in our inner beings\f + \ft Or: hearts \f*.
 \add We must show that\add* by what we feel and by what we do and by what we think.
 \add He\add* also \add wrote that we must love\add* people that we come in contact with as much as
 \add we love\add* ourselves." 
-\v 28 Jesus replied, "You\add (sg)\add* have answered \add your question\add* correctly. If you do all that
+\v 28 Jesus replied, "You\add \f + \ft singular \f*\add* have answered \add your question\add* correctly. If you do all that
 \add continually\add*, you will live \add with God forever\add*."
 \p
 \v 29 But the man wanted to defend \add the way\add* he \add acted toward people that he came in contact
@@ -136,11 +136,11 @@ by on the other side \add of the road\add*.
 \add to help heal them\add*. He wound strips of cloth \add around the
 wounds\add*. He placed the man on his own donkey and took him to an inn and took care of him.
 \v 35 The next morning he gave two silver coins to the innkeeper and said, 'Take care of this man. If
-you\add (sg)\add* spend more than this amount \add to care for him\add*, I will pay you back when I return.'"
+you\add \f + \ft singular \f*\add* spend more than this amount \add to care for him\add*, I will pay you back when I return.'"
 \v 36 Then Jesus said, "Three people \add saw\add* the man whom bandits attacked. Which one of them
 \add acted in a loving way toward\add* that man?" 
 \v 37 The man who studied the Scriptures replied, "The one who acted mercifully toward him." Jesus said to him,
-"You\add (sg)\add* go and act like that \add toward\add* everyone whom
+"You\add \f + \ft singular \f*\add* go and act like that \add toward\add* everyone whom
 \add you can help\add*!" 
 \s Luke 10:38-42 
 \s Jesus rebuked Martha for being too concerned about household chores.
@@ -151,7 +151,7 @@ you\add (sg)\add* spend more than this amount \add to care for him\add*, I will 
 \v 40 But Martha was very much concerned about preparing \add the
 meal\add*. She went to Jesus and said, "Lord, do you not care that my sister has left me to prepare everything by myself?\f + \ft Or: you
 do not seem to care that my sister has left me to prepare everything by myself! \f* \f + \ft rhetorical question \f* Tell her that she should help me!"
-\v 41 But the Lord replied, "Martha, Martha, you\add (sg)\add* are very worried about many things.
+\v 41 But the Lord replied, "Martha, Martha, you\add \f + \ft singular \f*\add* are very worried about many things.
 \v 42 But only one thing is truly necessary, and that is, \add to listen to what I am
 teaching\add*. Mary has decided to \add do that\add*, and that is better.
 \add The blessing that she is receiving from doing that\add* will not be taken away from her {No one will take away from her

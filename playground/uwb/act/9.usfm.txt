@@ -19,10 +19,10 @@ him\add* were traveling, they were approaching Damascus. Suddenly a
 \v 4  \add Immediately\add* he fell down to the ground. Then he heard the voice
 \add of the Lord\add* say to him, "Saul, Saul, stop causing me to suffer!\f + \ft Or: why are you causing me to suffer? \f* \f + \ft rhetorical question \f*"
 \v 5 Saul asked him, "Lord, who are you?" He replied, "I am Jesus,
-\add and\add* you\add (sg)\add* are causing me to suffer \add by hurting my
+\add and\add* you\add \f + \ft singular \f*\add* are causing me to suffer \add by hurting my
 followers!\add* 
 \v 6 Now instead \add of continuing to do that\add*, stand up and go into the city!
-\add Someone there\add* will tell you\add (sg)\add* what I \add want\add* you to do."
+\add Someone there\add* will tell you\add \f + \ft singular \f*\add* what I \add want\add* you to do."
 \v 7 The men who were traveling with Saul \add became so frightened that
 they\add* could not say anything. \add They just\add* stood there. They only heard the sound
 \add when the Lord spoke\add*, but they did not see anyone. 
@@ -36,7 +36,7 @@ they\add* could not say anything. \add They just\add* stood there. They only hea
 \add Ananias was seeing\add* a vision, the Lord \add Jesus\add* said to him, "Ananias!" He replied, "Lord, I
 \add am listening\add*." 
 \v 11 The Lord Jesus told him, "Go to Straight Street to the house that belongs to Judas. Ask
-\add someone there if you(sg) can talk to\add* a man named Saul from
+\add someone there if you\f + \ft singular \f* can talk to\add* a man named Saul from
 Tarsus\add city\add*, because, surprisingly, at this moment he is praying
 \add to me\add*. 
 \v 12  \add Saul has seen\add* a vision in which a man named Ananias entered
@@ -44,7 +44,7 @@ Tarsus\add city\add*, because, surprisingly, at this moment he is praying
 \v 13 But Ananias \add protested\add*, saying, "But Lord, many people have told me about this man! He has done many evil things
 to the people in Jerusalem who \add believe in\add* you! 
 \v 14 And the chief priests have authorized him to come here \add to
-Damascus\add* in order to seize all us who believe in you\add (sg)\add* \f + \ft metonymy \f*
+Damascus\add* in order to seize all us who believe in you\add \f + \ft singular \f*\add* \f + \ft metonymy \f*
 \add and take us to Jerusalem\add*!" 
 \v 15 But the Lord \add Jesus\add* told Ananias, "Go to \add Saul! Do what I
 say\add*, because I have chosen him to serve me in order that he might speak about me \f + \ft metonymy \f* both to non-Jewish people and
@@ -54,7 +54,7 @@ say\add*, because I have chosen him to serve me in order that he might speak abo
 \v 17 So Ananias went, and \add after he found\add* the house \add where Saul
 was\add*, he entered it. Then, \add as soon as he met Saul\add*, he put his hands on him, and he said, "Brother Saul, the Lord
 Jesus \add himself\add* commanded me to come \add to you\add*. He is the
-\add same\add* one who appeared to you\add (sg)\add* while you were traveling along the road to here.
+\add same\add* one who appeared to you\add \f + \ft singular \f*\add* while you were traveling along the road to here.
 \add He sent me to you\add* in order that you might see again and that you might be completely controlled by the Holy Spirit
 {that the Holy Spirit might completely control you}." 
 \v 18 Instantly, things like \add fish\add* scales fell from Saul's eyes, and he was able to see again. Then he stood up and
@@ -67,10 +67,10 @@ was baptized {\add Ananias\add* baptized him} \add immediately\add*.
 \v 20 Right away he began to preach \add to people about Jesus\add* in the Jewish meeting places
 \add there. He told them\add* that Jesus is the Son of\f + \ft Or: the man who is also \f* God.
 \v 21 And all the people who heard him \add preach\add* were amazed.
-\add Various ones of\add* them were saying, "\add We(inc) can hardly believe
+\add Various ones of\add* them were saying, "\add We\f + \ft inclusive \f* can hardly believe
 that\add* this is the \add same man\add* who persecuted the believers in Jerusalem!\f + \ft Or: Is this really the
 \add same man\add* who persecuted the believers in Jerusalem? \f* \f + \ft rhetorical question, metonymy \f* And
-we\add (inc)\add* know that he has \f + \ft rhetorical question \f* come here to tie our hands and take us to the chief priests
+we\add \f + \ft inclusive \f*\add* know that he has \f + \ft rhetorical question \f* come here to tie our hands and take us to the chief priests
 \add in Jerusalem\add*!" 
 \v 22 But \add God\add* enabled Saul \add to preach to many people
 even\add* more convincingly. He was proving \add from the Scriptures\add* that Jesus is the Messiah. So the Jewish leaders in
@@ -126,7 +126,7 @@ reverence\f + \ft Or: honor \f* the Lord \add Jesus, and the Holy Spirit\add* wa
 \add town\add*. 
 \v 33 There he met a man whose name was Aeneas. Aeneas had not been able to get up from
 \add his\add* bed for eight years, because he was paralyzed. 
-\v 34 Peter said to him, "Aeneas, Jesus Christ heals you\add (sg) right
+\v 34 Peter said to him, "Aeneas, Jesus Christ heals you\add \f + \ft singular \f* right
 now\add*! Get up and roll up your mat!" Right away Aeneas stood up.
 \v 35 Most of the people who lived in Lydda and on Sharon \add Plain\add* saw Aeneas
 \add after the Lord had healed him\add*, so they believed in the Lord

@@ -2,7 +2,7 @@
 \s Acts 28:1-6 
 \s The Maltese thought that Paul was a god because a snake did not harm him.
 \p
-\v 1 After we\add (exc)\add* had arrived safely \add on the shore\add*, we learned that it was an island called Malta.
+\v 1 After we\add \f + \ft exclusive \f*\add* had arrived safely \add on the shore\add*, we learned that it was an island called Malta.
 \v 2 The people who lived there received us kindly. They lit a fire and invited us to come and warm ourselves, because it was
 raining and it was cold. 
 \v 3 Paul gathered some sticks and put them on the fire. But \add among those sticks
@@ -50,11 +50,11 @@ land\add* to Rome.
 \s Christians came out from Rome and escorted Paul into that city.
 \p
 \v 15  \add A group of\add* believers \add who lived in Rome\add* had heard that
-we\add (exc) were coming\add*. So they came out \add from Rome\add* to meet us.
+we\add \f + \ft exclusive \f* were coming\add*. So they came out \add from Rome\add* to meet us.
 \add Some of\add* them met us at \add the town called\add* 'The Market on Appian
 \add Road,'\add* and others met us at \add the town called\add* 'The Three Inns.' When Paul saw those believers, he thanked God
 and was encouraged. 
-\v 16 After we\add (exc)\add* arrived in Rome, Paul was permitted
+\v 16 After we\add \f + \ft exclusive \f*\add* arrived in Rome, Paul was permitted
 {\add a Roman official who was responsible for guarding Paul\add* permitted Paul} to live
 \add in a house\add* by himself. But\add there was always\add* a soldier there to guard him.
 \s Acts 28:17-22 
@@ -73,11 +73,11 @@ do\add*, I had to formally request that the Emperor \add judge me here in
 Rome\add*. But my reason for doing that was not that I wanted to accuse our leaders about anything.
 \v 20 So I have requested you \add to come\add* here so that I can tell you why I am a prisoner. It is because I believe in
 \f + \ft metonymy \f* our Messiah, the one \add God long ago promised to send\add* to
-us\add (inc)\add* Jews." 
-\v 21 Then \add the Jewish leaders\add* said, "We\add (exc)\add* have not received any letters from
+us\add \f + \ft inclusive \f*\add* Jews." 
+\v 21 Then \add the Jewish leaders\add* said, "We\add \f + \ft exclusive \f*\add* have not received any letters from
 \add our fellow Jews\add* in Judea about you. Also, none of our fellow Jews who have arrived
 \add here from Judea\add* has said anything bad about you. 
-\v 22 But we\add (exc)\add* want to hear what you\add (sg)\add* think about this
+\v 22 But we\add \f + \ft exclusive \f*\add* want to hear what you\add \f + \ft singular \f*\add* think about this
 \add Christian\add* sect\f + \ft Or: group \f*, because we know that in many places \f + \ft hyperbole \f* bad things are being said {people are saying bad
 things} about it." 
 \s Acts 28:23-31 

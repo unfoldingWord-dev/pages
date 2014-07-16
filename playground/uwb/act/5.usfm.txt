@@ -10,14 +10,14 @@ land\add*, and his wife knew that he had done that. Then he brought the rest of 
 \s Acts 5:3-6 
 \s People were terrified when they saw or heard that Ananias had died.
 \p
-\v 3 Then Peter said, "Ananias, you\add (sg)\add* let Satan completely control you \f + \ft metonymy \f* so that
-you\add (sg) tried to\add* deceive the Holy Spirit \add and us(exc)\add*. That
+\v 3 Then Peter said, "Ananias, you\add \f + \ft singular \f*\add* let Satan completely control you \f + \ft metonymy \f* so that
+you\add \f + \ft singular \f* tried to\add* deceive the Holy Spirit \add and us\f + \ft exclusive \f*\add*. That
 was\add terrible!\f + \ft Or: Why did you do such a terrible thing\add*? \f* \f + \ft rhetorical question \f*
-\add You\add* have kept for yourself some of the money you\add (sg)\add* received for
-\add selling\add* the land, \add pretending that you(sg) were giving us all of
+\add You\add* have kept for yourself some of the money you\add \f + \ft singular \f*\add* received for
+\add selling\add* the land, \add pretending that you\f + \ft singular \f* were giving us all of
 it\add*. 
-\v 4 Before you\add (sg)\add* sold that land, you truly owned \f + \ft rhetorical question \f* it. And after you sold it, you could \f + \ft rhetorical question \f* certainly still
-have used the money any way you wanted \add to\add*. So why did you\add (sg)
+\v 4 Before you\add \f + \ft singular \f*\add* sold that land, you truly owned \f + \ft rhetorical question \f* it. And after you sold it, you could \f + \ft rhetorical question \f* certainly still
+have used the money any way you wanted \add to\add*. So why did you\add \f + \ft singular \f*
 ever\add* think \f + \ft rhetorical question \f* about doing this \add wicked\add* thing? You were not
 \add merely trying to\add* deceive us! No, \add you tried to deceive\add* God
 \add himself!\add*" 
@@ -31,11 +31,11 @@ sheet\add*, and carried it out \add and\add* buried it.
 \v 7 About three hours later, his wife came in\add , but\add* she did not know what had happened.
 \v 8  \add As\add* Peter \add showed her the money\add* that\add Ananias had
 brought\add*, he asked her, "Tell me, is this the amount \add of money you two received
-for\add* the land you sold?" She said, "Yes, that's \add what we(exc)
+for\add* the land you sold?" She said, "Yes, that's \add what we\f + \ft exclusive \f*
 received\add*." 
 \v 9 So Peter said to her, "\add You both did a terrible thing!\add* You two agreed \f + \ft rhetorical question \f* to try to determine if you could do
 that without the Spirit of the Lord \add God\add* revealing \add to anyone that you two tried to deceive
-them!\add* Listen! \add Do you(sg) hear the\add* footsteps \f + \ft synecdoche \f* of the men who buried your husband? They are right outside
+them!\add* Listen! \add Do you\f + \ft singular \f* hear the\add* footsteps \f + \ft synecdoche \f* of the men who buried your husband? They are right outside
 this door, and they will carry your \add corpse\add* out \add to bury it,
 too\add*!" 
 \v 10 Immediately Sapphira fell down dead at Peter's feet. Then the young men came in. When they saw that she was dead, they
@@ -87,7 +87,7 @@ the entire Council of Israel. \add After they all gathered together\add*, they s
 \add guards\add* to the jail to bring in the apostles. 
 \v 22 But when the guards arrived at the jail, they discovered that the apostles were not there. So they returned to the
 Council, and \add one of\add* them reported, 
-\v 23 "We\add (exc)\add* saw that the jail \add doors\add* were very securely locked, and the guards were standing at the
+\v 23 "We\add \f + \ft exclusive \f*\add* saw that the jail \add doors\add* were very securely locked, and the guards were standing at the
 doors. But when we opened \add the doors and went in to get those
 men\add*, none \add of them was\add* inside \add the jail\add*!"
 \v 24 When the captain of the temple guards and the chief priests heard that, they became greatly
@@ -108,12 +108,12 @@ apostles\add*.
 \p
 \v 27 After \add the captain and his officers\add* had brought \add the apostles to the Council
 room\add*, they commanded them to stand in front of the Council members, and the high priest questioned them.
-\v 28 He said to them\add accusingly\add*, "We\add (exc)\add* strongly commanded you not to teach people about that man \f + \ft metonymy \f*
+\v 28 He said to them\add accusingly\add*, "We\add \f + \ft exclusive \f*\add* strongly commanded you not to teach people about that man \f + \ft metonymy \f*
 \add Jesus\add*! But \add you have disobeyed us, and\add* you have taught people all over Jerusalem
 \add about him!\add* Furthermore, you are trying to make it seem that
-we\add (exc)\add* are the ones who are guilty \f + \ft metonymy \f* for that man's death!"
+we\add \f + \ft exclusive \f*\add* are the ones who are guilty \f + \ft metonymy \f* for that man's death!"
 \v 29 But Peter, \add speaking for himself\add* and the other apostles, replied,
-"We\add (exc)\add* have to obey \add what\add* God \add commands us to
+"We\add \f + \ft exclusive \f*\add* have to obey \add what\add* God \add commands us to
 do\add*, not what \add you\add* people \add tell us to do\add*! 
 \v 30 God considers that you are the ones who killed Jesus by nailing him to a cross! But God, whom our ancestors
 \add worshipped\add*, caused Jesus to become alive again after he died\f + \ft Or: raised Jesus from the dead \f*.
@@ -122,7 +122,7 @@ him\add* to be the one who will save us and to rule \add over our lives! God did
 this\add* so that he might enable \add us\add* Israelites \f + \ft metonymy \f* to turn away from
 \add our\add* sinful behavior and \add that he might\add* forgive
 \add us for our sins\add*. 
-\v 32 We\add (exc)\add* tell people about these things \add that we know happened to
+\v 32 We\add \f + \ft exclusive \f*\add* tell people about these things \add that we know happened to
 Jesus\add*, and the Holy Spirit, whom God has sent to \add us\add* who obey him, is also confirming
 \add that these things are true\add*." 
 \v 33 When the Council members heard those words, they became very angry

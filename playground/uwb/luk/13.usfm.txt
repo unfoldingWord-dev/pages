@@ -27,8 +27,8 @@ three years, but there have been no figs. Cut it down! It is just using up the n
 it continue using up the \add nutrients in\add* the soil \add for
 nothing\add*? \f* \f + \ft rhetorical question \f*' 
 \v 8 But the man replied to the owner, 'Sir, leave it here for another year. I will dig around it and put manure around it.
-\v 9 If it bears fruit next year, we\add (inc)\add* will allow it to keep growing. If it does not bear fruit next year,
-you\add (sg)\add* can cut it down.'" 
+\v 9 If it bears fruit next year, we\add \f + \ft inclusive \f*\add* will allow it to keep growing. If it does not bear fruit next year,
+you\add \f + \ft singular \f*\add* can cut it down.'" 
 \s Luke 13:10-17 
 \s Jesus told a synagogue leader that he was being hypocritical regarding working on the Sabbath.
 \p
@@ -36,14 +36,14 @@ you\add (sg)\add* can cut it down.'"
 \v 11 There was a woman there whom an evil spirit \f + \ft metonymy \f* had crippled for eighteen years. She was always bent over; she could
 not stand up straight. 
 \v 12 When Jesus saw her, he called her over to him. He said to her, "Woman,
-\add I am\add* freeing you\add (sg)\add* from your illness!" 
+\add I am\add* freeing you\add \f + \ft singular \f*\add* from your illness!" 
 \v 13 He put his hands on her. Immediately she stood up straight, and she praised God!
 \v 14 But the man in charge of the synagogue\f + \ft Or: of the meeting place \f* was angry because Jesus had healed her on the Sabbath\f + \ft Or: on
 the Jewish rest day \f*. \add He considered that healing was doing work\add*. So he said to the people, "There are six days
 \add each week\add* in which \add our Jewish\add* laws permit people to work.
 \add If you need healing\add*, those are the days to come \add to the synagogue\f + \ft Or: to the meeting
 place\add* \f* and be healed. Do not come on our Jewish day of rest!"
-\v 15 Then the Lord replied to him, "You\add (sg) and your fellow religious leaders
+\v 15 Then the Lord replied to him, "You\add \f + \ft singular \f* and your fellow religious leaders
 are\add* hypocrites! On the Sabbath\f + \ft Or: On the our Jewish day of rest \f*,
 \add just like on every other day\add*, each of you unties his ox or donkey, and then leads it from the food trough to where
 it can drink water.\f + \ft Or: does not each of you untie his ox or donkey, and then lead it from the food trough to where it can drink
@@ -84,7 +84,7 @@ because\add* the way \add to heaven\add* \f + \ft metaphor \f* is \add like\add*
 \add some of\add* you will begin to stand outside the door and knock. You will say, 'Lord, open the door for us!' But he will
 reply, '\add No, I will not open it, because\add* I do not know you, and I do not know where you are from!'
 \v 26 Then you will say, '\add You must have forgotten that\f + \ft Or: Surely you know us,
-because\add* \f* \f + \ft rhetorical question \f* we\add (exc)\add* ate \add meals\add* with you\add (sg)\add*, and you taught
+because\add* \f* \f + \ft rhetorical question \f* we\add \f + \ft exclusive \f*\add* ate \add meals\add* with you\add \f + \ft singular \f*\add*, and you taught
 \add people\add* in the streets of our \add towns!\add*' 
 \v 27 But he will say, '\add I tell you again\add*, I do not know you, and I do not know where you are from. You
 \add are\add* wicked people! Get away from here!'" 
@@ -104,7 +104,7 @@ in that place where God is ruling\f + \ft Or: God's kingdom \f*.
 \s Jesus stated that it was necessary for him as a prophet to die in Jerusalem.
 \p
 \v 31 At that very time, some Pharisees came and said to Jesus, "Leave this area, because
-\add the ruler\add* Herod \add Antipas\add* wants to kill you\add (sg)\add*!"
+\add the ruler\add* Herod \add Antipas\add* wants to kill you\add \f + \ft singular \f*\add*!"
 \v 32 He replied to them, "Herod is \f + \ft metaphor \f* \add as cruel as\add* a fox,
 \add but also as insignificant as a fox\add*. \add So I do not worry about
 him\add*. But \add to show him that no one can harm me until it is the time and place God has

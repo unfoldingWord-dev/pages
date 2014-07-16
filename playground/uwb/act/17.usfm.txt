@@ -79,8 +79,8 @@ square\f + \ft Or: center \f* every day and talked to the people \add whom he me
 \add People called\add* some of them Epicureans and \add they called\add* others Stoics. They told Paul
 \add what they believed\add*, and they asked him \add what he believed.
 Then\add* some of them said \add to one another\add*, "This ignorant person is just talking nonsense \f + \ft rhetorical question \f*!" Others said,
-"\add We(exc) think\add* that he is teaching people about foreign
-gods\f + \ft Or: \add new\add* gods that we\add (exc)\add* have not heard about \f*." They said that because Paul was telling them that Jesus
+"\add We\f + \ft exclusive \f* think\add* that he is teaching people about foreign
+gods\f + \ft Or: \add new\add* gods that we\add \f + \ft exclusive \f*\add* have not heard about \f*." They said that because Paul was telling them that Jesus
 \add had died and\add* had become alive again \add afterwards. They had not heard that message
 before\add*. 
 \s Acts 17:19-21 
@@ -88,8 +88,8 @@ before\add*.
 \p
 \v 19 So they took him to the place where the city council met. \add When they
 arrived\add* there, they said to Paul, "\add Please\add* tell us, what is this new message that
-you\add (sg)\add* are teaching people? 
-\v 20 You are teaching some things that startle us\add (exc)\add*, so we want to know what they mean."
+you\add \f + \ft singular \f*\add* are teaching people? 
+\v 20 You are teaching some things that startle us\add \f + \ft exclusive \f*\add*, so we want to know what they mean."
 \v 21  \add They said that, because\add* the people of Athens and also the people from other regions who lived there
 continually talked about what was new \add to them\add*, or they listened to
 \add others tell\add* what was new. 
@@ -101,15 +101,15 @@ religious\f + \ft Or: think that it is very important to worship many gods \f*.
 \v 23 I \add say that\add* because, while I was walking along and observing the objects
 \add that represent different gods that\add* you worship, I even saw an altar that had these words
 \add that someone had\add* carved \add on it: THIS HONORS\add* THE GOD
-\add THAT WE(exc)\add* DO NOT KNOW. So now I will tell you about
+\add THAT WE\f + \ft exclusive \f*\add* DO NOT KNOW. So now I will tell you about
 \add that God\add* whom you worship but you do not know. 
 \p
 \v 24 He is the God who made the world and everything in it. Because he rules over all
 \add beings in\add* heaven and \add on\add* earth, he does not dwell in shrines that people have made.
 \v 25 He does not need to have anything made for him by people \f + \ft metonymy \f* {to have people \f + \ft metonymy \f* make \f + \ft metonymy \f* anything for him},
 because everything that exists belongs to him. He is the one who causes
-us\add (inc)\add*\f + \ft Or: all people \f* to live and breathe, and \add he gives
-us\add* all the things \add that we(inc) need\add*. 
+us\add \f + \ft inclusive \f*\add*\f + \ft Or: all people \f* to live and breathe, and \add he gives
+us\add* all the things \add that we\f + \ft inclusive \f* need\add*. 
 \p
 \v 26  \add In the beginning\add*, God created one couple, and from them God produced all the ethnic groups\f + \ft Or: the nations \f* that
 now live everywhere on the earth. He also decided where each ethnic group of people should live and how long they should live
@@ -117,17 +117,17 @@ now live everywhere on the earth. He also decided where each ethnic group of peo
 \v 27 He wanted people to realize that they need him. Then maybe they would seek for him and find him.
 \add God wants us to seek him\add*, although he is \add really\add* close \f + \ft litotes \f* to each one of us.
 \v 28 As someone has said, '\add It is only\add* because he enables us that
-we\add (inc)\add* live and move and do \add what we do\add*.' And, as some of your own poets have said,
-'We\add (inc)\add* are God's children.' 
+we\add \f + \ft inclusive \f*\add* live and move and do \add what we do\add*.' And, as some of your own poets have said,
+'We\add \f + \ft inclusive \f*\add* are God's children.' 
 \p
-\v 29 Therefore, because we are God's children, we\add (inc)\add* should not think that he is anything like an image
+\v 29 Therefore, because we are God's children, we\add \f + \ft inclusive \f*\add* should not think that he is anything like an image
 \add that people have made\add* of gold or silver or stone. Those images are designed and skillfully made {People design and
 make those images}, \add but they are not alive\add*. 
 \v 30 During the times when people did not know \add what God wanted them to
 do\add*, he did not \add immediately\add* punish \add them for what they
 did\add*. But now God commands all people everywhere to turn away from their evil behavior.
 \v 31  \add He tells us\add* that on a certain day that he has chosen he is going to judge
-\add all of us(inc) people in\add* \f + \ft metonymy \f* the world. He has appointed a
+\add all of us\f + \ft inclusive \f* people in\add* \f + \ft metonymy \f* the world. He has appointed a
 \add certain\add* man to judge \add us, and that man will judge each of
 us\add* fairly\f + \ft Or: justly \f*. God has shown to all \add people that he has appointed that man to judge
 everyone\add*, because God caused him to become alive again after he had died\f + \ft Or: raised him from the dead \f*."
@@ -136,7 +136,7 @@ everyone\add*, because God caused him to become alive again after he had died\f 
 \p
 \v 32 When the men of the council heard \add Paul say\add* that \add a
 man\add* had become alive again after he had died\f + \ft Or: \add someone\add* had been raised from the dead \f*, some of them laughed
-scornfully. But others said, "We\add (exc)\add* would like you\add (sg)\add* to tell us more about this, some other time."
+scornfully. But others said, "We\add \f + \ft exclusive \f*\add* would like you\add \f + \ft singular \f*\add* to tell us more about this, some other time."
 \v 33 After they said that, Paul departed from the council \add meeting\add*.
 \v 34 However, some of the people there went along with Paul and became believers. Among those
 \add who believed in Jesus\add* was a member of the council whose\add name

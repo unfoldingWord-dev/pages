@@ -48,8 +48,8 @@ his son if his son were to ask for bread? \f* \f + \ft rhetorical question \f*
 \s Matthew 7:12 
 \s Jesus taught that we should treat others as we would like them to treat us.
 \p
-\v 12 "So in whatever way you want others to act toward you\add (pl)\add*, that is the way
-you\add (pl)\add* should act toward them, because that \add sums up what Moses wrote
+\v 12 "So in whatever way you want others to act toward you\add \f + \ft plural \f*\add*, that is the way
+you\add \f + \ft plural \f*\add* should act toward them, because that \add sums up what Moses wrote
 in\add* the laws \add that God gave him\add* and \add also what\add* the prophets
 \add wrote long ago\add*." 
 \s Matthew 7:13-14 
@@ -93,8 +93,8 @@ do\add*, \add you will know if they are false prophets\add*."
 \add because they do not do what he desires\add*. \add Only\add* those people who do what my Father, who is in heaven, desires
 \add will go there\add*. 
 \v 22 On the day \f + \ft metonymy \f* \add that God judges everyone\add*, many \add people, trying to tell me that they deserve to go to
-heaven\add*, will say to me, 'Lord, we(exc) spoke God's message as your representatives \f + \ft metonymy, rhetorical question \f*! As your representatives
-we(exc) expelled demons from \add people\add* \f + \ft rhetorical question \f*! And as your representatives, many times we(exc) performed miracles \f + \ft rhetorical question \f*!'
+heaven\add*, will say to me, 'Lord, we\f + \ft exclusive \f* spoke God's message as your representatives \f + \ft metonymy, rhetorical question \f*! As your representatives
+we\f + \ft exclusive \f* expelled demons from \add people\add* \f + \ft rhetorical question \f*! And as your representatives, many times we\f + \ft exclusive \f* performed miracles \f + \ft rhetorical question \f*!'
 \v 23 Then I will declare to them, 'I have never said that you belonged to me. Go away from me, you who do what is evil!' "
 \s Matthew 7:24-27 
 \s Jesus warned that undesirable things would happen to those who did not obey his teaching.

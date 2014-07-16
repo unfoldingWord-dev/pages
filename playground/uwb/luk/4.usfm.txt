@@ -32,7 +32,7 @@ father\add* \f + \ft metaphor \f*\f + \ft Or: are the man who is both God and ma
 by\add* jumping down from here. 
 \v 10  \add You will not be hurt\add*, because it is written {the
 \add Psalmist\add* wrote} \add in the Scriptures\add*, 'God will command his angels to protect
-you\add (sg)\add*. 
+you\add \f + \ft singular \f*\add*. 
 \v 11 They will lift you up in their hands \add when you are falling\add*, so that
 \add you will not get hurt\add*. You will not \add even\add* strike your foot on a stone.'"
 \v 12 But Jesus replied, "\add No, I\add* will not \add do that,
@@ -78,14 +78,14 @@ went to the synagogue\f + \ft Or: to the Jewish meeting place \f*, as he usually
 speak\add*, \add I am beginning\add* to fulfill this Scripture passage."
 \v 22  \add At first\add* everyone there spoke well about him, and they were amazed at the charming words that he spoke.
 \add But then some of\add* them said, "He is \add only\add* Joseph's son!\f + \ft Or: Isn't he
-\add only\add* Joseph's son? \f* \f + \ft rhetorical question \f* \add So\add* \add it is useless for us(exc) to listen to what he says!\f + \ft Or: why should we(exc)
+\add only\add* Joseph's son? \f* \f + \ft rhetorical question \f* \add So\add* \add it is useless for us\f + \ft exclusive \f* to listen to what he says!\f + \ft Or: why should we( exclusive )
 listen to what he says\add*? \f* \f + \ft rhetorical question \f*" 
 \v 23 He said to them, "Surely \add some of\add* you will quote to me the proverb that says, 'Doctor, heal yourself!'
 \add What you will mean is\add*, 'People told us that you did miracles in Capernaum
-\add town, but we(exc) do not know if those reports are true. So\add* do miracles here in your own hometown, too!'"
+\add town, but we\f + \ft exclusive \f* do not know if those reports are true. So\add* do miracles here in your own hometown, too!'"
 \v 24 Then he said, "It is certainly true that \add people\add* do not accept
 \add the message of\add* a prophet when he speaks in his hometown,
-\add just like you(pl) are not accepting my message now\add*. 
+\add just like you\f + \ft plural \f* are not accepting my message now\add*. 
 \v 25 But think about this: There were many widows in Israel during the time when
 \add the prophet\add* Elijah \add lived. During that time\add*, because of there being no rain \f + \ft metonymy \f* for three years and six
 months, there was a great famine throughout the country. 
@@ -112,7 +112,7 @@ throw him off the cliff \add and kill him\add*.
 \add he spoke\add* \add with authority\f + \ft Or: as people speak who have\add* the right to command others what to do \f*.
 \v 33  \add That day\add*, \f + \ft Or: On one of those Jewish days of rest, \f* there was a man in the synagogue who was controlled by an
 evil spirit. That man shouted very loudly, 
-\v 34 "Hey! Jesus, from Nazareth! \add We(exc) evil spirits\add* have nothing in common with you, so
+\v 34 "Hey! Jesus, from Nazareth! \add We\f + \ft exclusive \f* evil spirits\add* have nothing in common with you, so
 \add do not interfere with us now!\f + \ft Or: why should you interfere with us
 now\add*? \f* \f + \ft rhetorical question \f* Do not destroy us \add now!\add*\f + \ft Or: Have you come to destroy us
 \add now\add*? \f* \f + \ft rhetorical question \f* I know who you are. You are the Holy One \add who has

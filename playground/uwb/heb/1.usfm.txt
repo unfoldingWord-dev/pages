@@ -18,7 +18,7 @@ like\add*. He sustains everything\f + \ft Or: carries everything forward to its 
 \add have to God\add*. 
 \v 5  \add We know that\add* because \add in the Scriptures\add* no one \f + \ft rhetorical question \f* ever reported that God said to any angel
 \add what he said to his Son\add*, 
-\q You\add (sg)\add* are my Son! 
+\q You\add \f + \ft singular \f*\add* are my Son! 
 \q Today I have declared to all that I am your Father \f + \ft doublet \f*! 
 \q And he said in another Scripture passage, 
 \q I will be his Father, 
@@ -35,7 +35,7 @@ like\add* \f + \ft metaphor \f* winds and flames of fire.
 \p
 \v 8 But on the other hand, \add in the Scriptures it is written that God
 said\add* this to his Son: 
-\q You \add (sg)\add* who are \add also\add* God will rule forever \f + \ft metonymy \f*,
+\q You \add \f + \ft singular \f*\add* who are \add also\add* God will rule forever \f + \ft metonymy \f*,
 \q and you will reign righteously over your kingdom \f + \ft metonymy \f*. 
 \q
 \v 9 You have loved \add people's\add* righteous \add deeds\add* and you have hated

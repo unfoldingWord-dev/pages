@@ -34,7 +34,7 @@ Antioch\add* to Seleucia \add port\add*. From there they went by ship to Salamis
 language\add*, was opposing them. He repeatedly tried to persuade the governor not to believe
 \add in Jesus\add*. 
 \v 9 Then Saul, who now called himself Paul, empowered by the Holy Spirit, looked intently at the magician and said,
-\v 10 "You\add (sg)\add* are serving the devil and you oppose everything that is good! You are always lying
+\v 10 "You\add \f + \ft singular \f*\add* are serving the devil and you oppose everything that is good! You are always lying
 \add to people\add* and doing \add other\add* evil things to them. You must stop saying that the truth about the Lord
 \add God is a pack of lies!\add*\f + \ft Or: When will you stop changing what is true about the Lord
 \add God and saying\add* what is not true about him? \f* \f + \ft rhetorical question \f* 
@@ -58,7 +58,7 @@ synagogue\f + \ft Or: the \f* Jewish meeting place and sat down.
 other\add* prophets \add had written\add* \f + \ft metonymy \f*. Then the leaders of the Jewish meeting place gave
 \add someone this\add* note \add to take\add* to Paul and Barnabas: "fellow Jews, if
 \add one of\add* you wants to speak to the people \add here\add* to encourage them, please speak
-\add to us(exc) now\add*." 
+\add to us\f + \ft exclusive \f* now\add*." 
 \s Acts 13:16-20 
 \s Paul said that God helped Israel and gave them the land of Canaan.
 \p
@@ -66,7 +66,7 @@ other\add* prophets \add had written\add* \f + \ft metonymy \f*. Then the leader
 him\add*. Then he said, "fellow Israelis and you \add non-Jewish
 people\add* who \add also\add* worship God, \add please\add* listen
 \add to me\add*! 
-\v 17 God, whom we\add (inc)\add* Israelites worship, chose our ancestors
+\v 17 God, whom we\add \f + \ft inclusive \f*\add* Israelites worship, chose our ancestors
 \add to be his people\add*, and he caused them to become very numerous while they were foreigners living in Egypt.
 \add Then after many years\add*, God helped them \f + \ft metonymy \f* powerfully and led them out of there.
 \v 18  \add Even though they repeatedly disobeyed him, he\add* cared for them for about forty years
@@ -126,11 +126,11 @@ followers\add* who had come along with him from Galilee \add province\add* to Je
 \p
 \v 32 "\add Right\add* now we \add two\add* are proclaiming to you this good message. We want to tell you that God has
 fulfilled what he promised to \add our Jewish\add* ancestors! 
-\v 33 He has now done that for us\add (inc) who are\add* their descendants,
+\v 33 He has now done that for us\add \f + \ft inclusive \f* who are\add* their descendants,
 \add and also for you who are not Jews\add*, by causing Jesus to live again. That is just like what
 \add David\add* wrote in the second Psalm that \add God said when he was sending his
 Son\add*, 
-\q You \add (sg)\add* are my Son; 
+\q You \add \f + \ft singular \f*\add* are my Son; 
 \q Today I have shown everyone\add that I really am\add* your Father.
 \p
 \v 34  \add God\add* has raised \add the Messiah\add* from the dead\f + \ft Or: caused
@@ -139,7 +139,7 @@ Son\add*,
 \add promised\add* David \add that I would do\add*.' 
 \v 35 So \add in writing\add* another \add Psalm, David\add* said this
 \add to God about the Messiah\add*: 'Because I am devoted to you and always obey
-\add you, when I die\add* you\add (sg)\add* will not let my body decay.'
+\add you, when I die\add* you\add \f + \ft singular \f*\add* will not let my body decay.'
 \v 36 While David was living, he did what God wanted him to do. And when he died \f + \ft euphemism \f*, his
 \add body\add* was buried, \add as\add* his ancestors' \add bodies had been
 buried\add*, and his body decayed. \add So he could not have been speaking about himself in this
@@ -150,7 +150,7 @@ again \f*, and \add therefore\add* his body did not decay."
 \s Paul informed them that God would forgive their sins if they believed in Jesus.
 \p
 \v 38-39 "Therefore, \add my\add* fellow Israelis \add and other
-friends\add*, it is important for you to know that \add we(exc)\add* are declaring to you
+friends\add*, it is important for you to know that \add we\f + \ft exclusive \f*\add* are declaring to you
 \add that God\add* can forgive you for your sins as a result of \add what\add* Jesus
 \add has done\add*. Because of \add what\add* Jesus \add has done\add*,
 \add God\add* considers that everyone who believes \add in Jesus\add* is no longer guilty \f + \ft Or: the record has been erased

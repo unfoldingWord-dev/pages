@@ -16,8 +16,8 @@ and associated with the true believers. They did that in order that they might o
 \add from having to obey all the Jewish laws and rituals\add* because of our close relationship with Christ Jesus \f + \ft metaphor \f*. Those
 people wanted to make us \add like\add* slaves \f + \ft metaphor \f* \add of those rituals by convincing us that we cannot trust Christ solely
 but that we must also obey all the Jewish rituals\add*. 
-\v 5 But not even briefly did we\add (exc)\add* do what they wanted
-\add about circumcision. We(exc) resisted them\add* in order that the truth of the message about Christ might continue to
+\v 5 But not even briefly did we\add \f + \ft exclusive \f*\add* do what they wanted
+\add about circumcision. We\f + \ft exclusive \f* resisted them\add* in order that the truth of the message about Christ might continue to
 \add benefit\add* you. 
 \v 6 The \add leaders in Jerusalem\add*, whom your new teachers respect, did not add anything to what I preach.
 \add And I would add that\add* what status those leaders had did not influence me, because God does not favor certain\f + \ft Or: important \f*
@@ -32,10 +32,10 @@ persons \f + \ft idiom \f* more than others.
 whom your new teachers \add respect because they are\add* leaders \f + \ft metaphor \f*
 \add of the believers\add*, shook hands with us \f + \ft idiom \f* \add to show that they agreed that Barnabas and I are serving the Lord
 just like they are, and that we are preaching the same message that they are
-preaching\add*. They also agreed that we\add (exc)\add* are the ones whom God was sending to
+preaching\add*. They also agreed that we\add \f + \ft exclusive \f*\add* are the ones whom God was sending to
 \add tell his message to\add* non-Jews, but that God is sending them to
 \add tell his message to\add* Jews \f + \ft metonymy \f*. 
-\v 10 They merely urged that we\add (exc)\add* still remember to help the poor
+\v 10 They merely urged that we\add \f + \ft exclusive \f*\add* still remember to help the poor
 \add fellow believers who live in Jerusalem\add*. That is exactly what I have been eager to do.
 \s Galatians 2:11-21 
 \s Later I rebuked Peter for not behaving according to the gospel, in that he was encouraging non-Jews to adopt Jewish laws and
@@ -55,29 +55,29 @@ right \f* along with \add Peter\add*. The result was that they convinced even Ba
 \add stop associating with the non-Jewish believers!\add* 
 \v 14 But when I realized that they were not acting according to the truth of the message about Christ,
 \add when\add* all \add the fellow believers there\add* were present, I told Peter
-\add the following\add*: "Although you\add (sg)\add* are a Jew, \add you often conduct
+\add the following\add*: "Although you\add \f + \ft singular \f*\add* are a Jew, \add you often conduct
 yourself\add* like non-Jews \add do by disregarding Jewish laws about food. When you are among
-non-Jews\add*, you\add (sg)\add* do not customarily conduct yourself at all like Jews
-\add do\add*. So, now it is wrong that you\add (sg)\add* are causing non-Jews
+non-Jews\add*, you\add \f + \ft singular \f*\add* do not customarily conduct yourself at all like Jews
+\add do\add*. So, now it is wrong that you\add \f + \ft singular \f*\add* are causing non-Jews
 \add to think that they must obey all\add* the Jewish rituals and customs!\f + \ft Or: why are
-you\add (sg)\add* causing non-Jews \add to think that they must obey
+you\add \f + \ft singular \f*\add* causing non-Jews \add to think that they must obey
 all\add* the Jewish rituals and customs? \f* \f + \ft rhetorical question \f*" 
-\v 15 Some of us \add believers\add* were born as Jews. We\add (exc)\add* were
+\v 15 Some of us \add believers\add* were born as Jews. We\add \f + \ft exclusive \f*\add* were
 \bd not born as non-Jews.\bd* \add We Jews have always considered non-Jews to
 be\add* \bd 'sinners'\bd* \add because they do not obey the Jewish rituals and
 laws\add*. 
-\v 16 But we\add (exc)\add* now know that it is not because some person obeys the laws
+\v 16 But we\add \f + \ft exclusive \f*\add* now know that it is not because some person obeys the laws
 \add that God gave to Moses\add* that \add God\add* erases the record of that person's sins.
 \add God erases the record of a person's sins only if that person trusts in what Jesus Christ has
-done\add*. Even we\add (exc)\add* Jews trusted \bd Christ Jesus.\bd*
-We\add (exc)\add* did that in order that \add God\add* would erase the record of our sins because of our trusting Christ, and
+done\add*. Even we\add \f + \ft exclusive \f*\add* Jews trusted \bd Christ Jesus.\bd*
+We\add \f + \ft exclusive \f*\add* did that in order that \add God\add* would erase the record of our sins because of our trusting Christ, and
 not because of our obeying the laws \add that God gave to Moses. God has said
 that\add* he will \add never\add* erase the record of people's sins just
 \bd because of their obeying those laws.\bd* 
-\v 17 Furthermore, because we\add (exc) Jews\add* desired that \add God\add* would erase the record of our sins because of our
+\v 17 Furthermore, because we\add \f + \ft exclusive \f* Jews\add* desired that \add God\add* would erase the record of our sins because of our
 relationship with Christ, \add it means that\add* we realized that we ourselves were sinners
-\add like non-Jews, whom we called\add* sinners, \add because we(exc) also were not obeying the Jewish rituals and
-laws\add*. \add But\add* \add we(inc) certainly cannot conclude\add* that it is Christ who causes us to
+\add like non-Jews, whom we called\add* sinners, \add because we\f + \ft exclusive \f* also were not obeying the Jewish rituals and
+laws\add*. \add But\add* \add we\f + \ft inclusive \f* certainly cannot conclude\add* that it is Christ who causes us to
 sin.\f + \ft Or: \add should we conclude\add* that it is Christ who causes us to sin? \f* \f + \ft rhetorical question \f*
 \add No, Christ\add* certainly does not \add cause anyone to sin\add*.
 \p

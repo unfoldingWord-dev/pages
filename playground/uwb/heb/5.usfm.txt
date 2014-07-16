@@ -17,7 +17,7 @@ priest\add*. Instead, God chose each man \add to become a high priest\add*, as h
 \v 5 Similarly, Christ also did not honor himself by appointing himself to become a high priest. Instead, God
 \add appointed him by\add* saying to \add him what he never said to any other priest, what
 the\add* Psalmist wrote in the Scriptures, 
-\q You\add (sg)\add* are my Son! Today I have declared that I am your Father!
+\q You\add \f + \ft singular \f*\add* are my Son! Today I have declared that I am your Father!
 \p
 \v 6 And he also said \add to Christ what the Psalmist wrote\add* in another Scripture passage,
 \q You are a priest eternally just like Melchizedek was a priest.
@@ -35,7 +35,7 @@ saves\add* eternally all who obey him.
 \s Hebrews 5:11-14 
 \s You are not ready for more advanced spiritual truth. 
 \p
-\v 11 Although there is much to say \add to you(pl)\add* about \add how Christ resembles
+\v 11 Although there is much to say \add to you\f + \ft plural \f*\add* about \add how Christ resembles
 Melchizedek\add*, this is hard \add for me\add* to explain \add to
 you\add* because you now understand things so slowly. 
 \v 12  \add You became Christians long ago. So\add* by now you should be teaching

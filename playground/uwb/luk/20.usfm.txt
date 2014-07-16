@@ -11,13 +11,13 @@ the \add Jewish\add* laws, and \add other Jewish\add* elders came to him.
 \v 4 where did John \add the Baptizer\add* get \add his authority
 to\add* baptize \add those who came to him\add*? \add Did he get
 it\add* from God [MTY\f + \ft Or: EUP \f*] or from people?" 
-\v 5 They discussed this among themselves. They said, "\add If we(inc)
+\v 5 They discussed this among themselves. They said, "\add If we\f + \ft inclusive \f*
 say\add*, '\add It was\add* from God [MTY\f + \ft Or: EUP \f*],' he will say to us,
 '\add Then\add* you should have believed John's \add message\add*!\f + \ft Or: why did you not believe what John preached? \f* \f + \ft rhetorical question \f*'
 \v 6 But if we say, 'It was \add from\add* people,' the people \add here\add* will
 \add kill us by\add* throwing stones at us, because they \add all\add* believe that John was a prophet
 \add from God\add*." 
-\v 7 So they replied, "We\add (exc)\add* do not know where \add John got his
+\v 7 So they replied, "We\add \f + \ft exclusive \f*\add* do not know where \add John got his
 authority\add*." 
 \v 8 Then Jesus said to them, "\add Because you did not answer my
 question\add*, I will not tell you who authorized me to do those things
@@ -69,8 +69,8 @@ people\add there would do if they did that\add*.
 \add which they could accuse\add* him. They wanted to be able to turn him over to the authority of the governor
 \add of the province. But they also knew that the Jews were disgusted with having to pay taxes to the
 government\add*. 
-\v 21  \add So\add* one of them asked him, "Teacher, we\add (exc)\add* know that
-you\add (sg)\add* speak and teach what is right. You tell the truth even if important people do not like it. You teach
+\v 21  \add So\add* one of them asked him, "Teacher, we\add \f + \ft exclusive \f*\add* know that
+you\add \f + \ft singular \f*\add* speak and teach what is right. You tell the truth even if important people do not like it. You teach
 truthfully what God wants us to do. 
 \v 22  \add So tell us what you think about this matter\add*: Is it right that we pay taxes to the Roman government \f + \ft metonymy \f*, or
 not?" 
@@ -119,12 +119,12 @@ caused\add* them to be alive again \add will show\add* that they are God's child
 \add worships\add* and the God whom Isaac \add worships\add* and the God whom Jacob
 \add worships\add*. 
 \v 38 It is not dead people who worship God. It is living people who worship him.
-\add Abraham, Isaac and Jacob died long before Moses lived, but God said that they were still worshipping him, so we(inc) know
+\add Abraham, Isaac and Jacob died long before Moses lived, but God said that they were still worshipping him, so we\f + \ft inclusive \f* know
 their spirits were still alive!\add* All \add people\add* whose \add spirits\add* are alive
 \add again after they die continue to live to honor him\add*!" 
 \p
 \v 39 Some of the men who taught the \add Jewish\add* laws replied, "Teacher,
-you\add (sg)\add* have answered very well!" 
+you\add \f + \ft singular \f*\add* have answered very well!" 
 \v 40 After that, they no longer dared to ask him any more questions
 \add like that to try to trap him\add*. 
 \s Luke 20:41-44 (Mt. 22:41-45; Mk. 12:35-37) 
@@ -138,7 +138,7 @@ you\add (sg)\add* have answered very well!"
 Messiah\add*, 
 \q God said to my Lord, 
 \q Sit \add here beside me\add* on my right, \add where I will highly honor
-you(sg)\add* \f + \ft metonymy \f*. 
+you\f + \ft singular \f*\add* \f + \ft metonymy \f*. 
 \v 43  \add Sit here\add* while I completely defeat your enemies.
 \p
 \v 44 King David calls \add the Messiah\add* '\add my\add* Lord'! So

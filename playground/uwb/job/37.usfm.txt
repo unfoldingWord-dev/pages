@@ -60,7 +60,7 @@ how he causes the clouds to 'move\f + \ft Or: float \f*' 'amazingly\f + \ft Or: 
 cannot stretch out the skies like God does and make them as hard as ( simile ) a sheet of polished brass! \f* \f + \ft rhetorical question \f*
 \b
 \q
-\v 19 Job, tell us(exc) what we should say to God; 
+\v 19 Job, tell us\f + \ft exclusive \f* what we should say to God; 
 \q2 we do not know anything [IDI]. 
 \q2 As a result, we do not know what to say to him to defend ourselves.
 \q

@@ -37,7 +37,7 @@ high priest \add were there\add*.
 \add listen\add*! 
 \v 9 Today you are questioning us concerning our performing a good deed for a man who was crippled, and you asked us how he
 became healed. 
-\v 10 So \add we(exc) want\add* you and all \add of our other\add* fellow Israelites to know this: It is because Jesus the
+\v 10 So \add we\f + \ft exclusive \f* want\add* you and all \add of our other\add* fellow Israelites to know this: It is because Jesus the
 Messiah \f + \ft metonymy \f* from Nazareth healed him that this man is able to stand before you.
 \add God considers that\add* it was you who nailed Jesus to a cross, but God caused him to become alive again.
 \v 11  \add In the Psalms this was written about the Messiah:\add*
@@ -64,7 +64,7 @@ leaders were amazed, and they realized that these men had associated with Jesus.
 \add where those leaders were meeting. After they did so\add*, the leaders talked with each other
 \add about Peter and John\add*. 
 \v 16  \add Being frustrated, one after another\add*, said, "There is really nothing that we can do to
-\add punish\add* these \add two\add* men!\f + \ft Or: How can we\add (inc)\add* do anything to
+\add punish\add* these \add two\add* men!\f + \ft Or: How can we\add \f + \ft inclusive \f*\add* do anything to
 \add punish\add* these \add two\add* men? \f* \f + \ft rhetorical question \f* Almost everyone \f + \ft hyperbole \f* who is living in Jerusalem knows that they have done an
 amazing miracle, so we cannot tell people that it did not happen!
 \v 17 However, \add we\add* must not allow other people to hear about
@@ -78,10 +78,10 @@ and they should not teach \add anyone about him\add* \f + \ft metonymy \f* \add 
 \s Peter and John said that they needed to continue speaking about Jesus.
 \p
 \v 19 But Peter and John replied, "Would God think that it is right
-\add for us two\add* to obey you and not \add to obey\add* him? \add We(exc) will
+\add for us two\add* to obey you and not \add to obey\add* him? \add We\f + \ft exclusive \f* will
 let\add* you decide \add what you think is proper\add*. 
 \v 20  \add But as for us, we cannot obey you\add*. We will not stop telling people about the things that
-we\add (exc)\add* have seen \add Jesus do\add* and what we have heard
+we\add \f + \ft exclusive \f*\add* have seen \add Jesus do\add* and what we have heard
 \add him teach\add*." 
 \s Acts 4:21-22 
 \s The Jewish leaders threatened to punish Peter and John and then released them.
@@ -99,7 +99,7 @@ apostles\add*. So, because they could not decide how to punish Peter and John,
 \v 23 After Peter and John had been released, they went to the other believers and reported all that the chief priests and
 \add other Jewish\add* elders had said to them. 
 \v 24 When they heard that, they \add all\add* agreed as they prayed to God, and
-\add one of\add* them prayed, "O Lord! You\add (sg)\add* made the sky, the earth and the oceans, and everything in them.
+\add one of\add* them prayed, "O Lord! You\add \f + \ft singular \f*\add* made the sky, the earth and the oceans, and everything in them.
 \v 25 The Holy Spirit caused our ancestor, \add King\add* David \f + \ft metonymy \f*, who served you, to write these words:
 \q \add It is ridiculous\add* \f + \ft rhetorical question \f* that the non-Jews became angry and the Israelite people planned uselessly
 \add against God\add*. 
@@ -108,18 +108,18 @@ apostles\add*. So, because they could not decide how to punish Peter and John,
 \add other\add* rulers assembled together \add with them\add* to oppose the Lord
 \add God\add* and the one whom he had appointed \add to be the Messiah\add*.
 \p
-\v 27  \add We know that what you(sg) said long ago was true\add*, because
+\v 27  \add We know that what you\f + \ft singular \f* said long ago was true\add*, because
 \add King\add* Herod and the \add governor\add*, Pontius Pilate, and many other people, both non-Jews and Israelites, assembled
 together \add here\add* in this city. \add They\add* planned \add to
 kill\add* Jesus, who devotedly served you \add and\add* whom you appointed \f + \ft metonymy \f*
 \add to be the Messiah\add*. 
-\v 28  \add Because\add* you\add (sg)\add* are all-powerful, those people did
+\v 28  \add Because\add* you\add \f + \ft singular \f*\add* are all-powerful, those people did
 \add only\add* what you \f + \ft synecdoche \f* allowed \add them to do\add*. It was what you decided long ago would happen."
 \s Acts 4:29-30 
 \s The believers asked God to help them speak boldly to people about Jesus.
 \p
 \v 29 "So now, Lord, listen to what they are saying about punishing us! Help us who serve
-you\add (sg)\add* to very boldly speak messages from you\add (sg) about
+you\add \f + \ft singular \f*\add* to very boldly speak messages from you\add \f + \ft singular \f* about
 Jesus\add*! 
 \v 30  \add Also\add*, by your power \f + \ft metonymy \f* miraculously heal \add sick
 people\add* and do other amazing miracles \f + \ft synecdoche \f* that show people your power! Ask Jesus, who always serves you,

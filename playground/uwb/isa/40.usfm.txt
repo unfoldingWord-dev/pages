@@ -98,7 +98,7 @@ as\add* \f + \ft metaphor \f* one drop from a bucket \add full of water\add*.
 \q2 to carve an idol that will not fall down! 
 \b
 \q
-\v 21 Have you(pl) not heard this? 
+\v 21 Have you\f + \ft plural \f* not heard this? 
 \q2 Do you not understand it? 
 \q Are you unable to hear what God said long ago— 
 \q2 \add messages that he gave\add* before he created the earth?

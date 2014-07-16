@@ -11,8 +11,8 @@ Gennesaret Lake, \add which is also called Lake Galilee\add*.
 \add who were on the shore\add*. 
 \v 4 After he finished speaking \add to them\add*, he said to Simon, "Push the boat out to where the water is deep. Then let
 your nets down \add into the water\add* to catch \add some fish\add*!"
-\v 5 Simon replied, "Master, we\add (exc)\add* worked hard all night but we did not catch any
-\add fish\add*! But because you\add (sg)\add* tell me to do it, I will let down the nets."
+\v 5 Simon replied, "Master, we\add \f + \ft exclusive \f*\add* worked hard all night but we did not catch any
+\add fish\add*! But because you\add \f + \ft singular \f*\add* tell me to do it, I will let down the nets."
 \v 6 When Peter \add and the men with him\add* had done that, they caught so many fish that their nets were breaking.
 \v 7 They motioned to their partners in the other boat to come and help them. So they came and filled both the boats
 \add with fish from the net\add*. The result was that the boats were so full that they began to sink.
@@ -20,7 +20,7 @@ your nets down \add into the water\add* to catch \add some fish\add*!"
 Zebedee, who were Simon's partners, were among those who were amazed. When Simon,
 \add whose other name was\add* Peter, saw \add the fish, feeling ashamed to be in the presence of someone who obviously had
 God's power\add*, he prostrated himself before Jesus and said, "Lord, you should go away from me, because I am a sinful man!"
-\v 10 But Jesus said to Simon, "Do not be afraid! \add Up until now you(sg) have been gathering
+\v 10 But Jesus said to Simon, "Do not be afraid! \add Up until now you\f + \ft singular \f* have been gathering
 fish\add* \f + \ft metaphor \f*, but from now on you will gather people \add to become my
 disciples\add*." 
 \v 11 So after they brought the boats to the shore, they left their business \f + \ft hyperbole \f*
@@ -73,14 +73,14 @@ this man \add think he is, saying\add* that? He is insulting God! Nobody can for
 forgiven. But no one\add* \f + \ft rhetorical question \f*\add , without having the power to
 heal\add*, would say to \add him\add*, 'Get up and walk!' \add because people could easily see whether he was healed or
 not\add*. 
-\v 24 But \add as a result of my healing this man\add* you\add (pl)\add* will know that
+\v 24 But \add as a result of my healing this man\add* you\add \f + \ft plural \f*\add* will know that
 \add God\add* has authorized \add me\add*, the one who came from heaven, to forgive the sins
 \add of people while I am on\add* the earth, \add as well as to heal
 people\add*." Then he said to the man who was paralyzed, "To you I say, 'Get up, pick up your sleeping pad, and go home!'"
 \v 25 Immediately the man \add was healed\add*! He got up in front of them. He picked up the
 \add sleeping pad\add* on which he had been lying, and he went home, praising God.
 \v 26 All the people \add there\add* were amazed! They praised God and were completely awestruck. They kept saying,
-"We\add (inc)\add* have seen wonderful things today!" 
+"We\add \f + \ft inclusive \f*\add* have seen wonderful things today!" 
 \s Luke 5:27-32 
 \s Jesus answered criticism about associating with sinful people.
 \p
@@ -93,8 +93,8 @@ him, "Come with me \add and become my disciple\add*!"
 disciples\add*. There was a large group of tax collectors and others eating together with them.
 \v 30 The men who were there who taught the \add Jewish\add* laws, ones who belonged to the Pharisee
 \add sect\add*, complained to Jesus' disciples, saying, "\add It is disgusting
-that\add* you are eating with tax collectors and\add others who we(exc) consider to
-be\add* sinners!\f + \ft Or: Why are you eating with tax collectors \add and others who we(exc) consider to
+that\add* you are eating with tax collectors and\add others who we\f + \ft exclusive \f* consider to
+be\add* sinners!\f + \ft Or: Why are you eating with tax collectors \add and others who we\f + \ft exclusive \f* consider to
 be\add* sinners? \f*" \f + \ft rhetorical question \f* 
 \v 31 Then, \add to indicate that it was those who knew that they had sinned who were coming to him for
 help\add*, Jesus said to them, "\add It is\add* people who are sick who need a doctor, not those who are well \f + \ft metaphor \f*.

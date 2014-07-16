@@ -6,7 +6,7 @@
 \add One day\add* he was told {\add someone\add* told him} that \add the
 manager\add* was managing the rich man's money badly. 
 \v 2 So he summoned \add the manager\add* and said to him, 'It is terrible what they are saying about
-you\add (sg)\add*!\f + \ft Or: Is it true what they are saying about you\add (sg)\add* \f + \ft rhetorical question \f*? \f* Give me a written account of
+you\add \f + \ft singular \f*\add*!\f + \ft Or: Is it true what they are saying about you\add \f + \ft singular \f*\add* \f + \ft rhetorical question \f*? \f* Give me a written account of
 \add the funds\add* you have been managing, because you can no longer be my
 \add household\add* manager!' 
 \v 3 Then the manager said to himself, 'My master is going to dismiss me from my work, so I do not know what to do.\f + \ft Or: what shall
@@ -15,7 +15,7 @@ I do ( rhetorical question )? \f* I am not strong enough to \add work by\add* di
 \v 4  \add Suddenly he had an idea\add*. 'I know what I will do, so that people will take me into their houses
 \add and provide for me\add* after I am dismissed {after my master dismisses me} from my work!'
 \v 5 So \add one by one\add* he summoned the people who owed his master money. He asked the first one, 'How much do
-you\add (sg)\add* owe my master?' 
+you\add \f + \ft singular \f*\add* owe my master?' 
 \v 6 The man replied, 'Eight hundred gallons of olive oil.' The manager said to him, 'Take your bill and sit down and quickly
 change it to 400 \add gallons!\add*' 
 \v 7 He said to another man, 'How much do you owe?' The man replied, 'A thousand bushels of wheat.' The manager said to him,
@@ -24,7 +24,7 @@ change it to 400 \add gallons!\add*'
 \v 8 When his master \add heard what the manager had done\add*, he admired the dishonest manager for the clever thing he had
 done. \add The truth\add* is that the ungodly people in this world act more wisely toward other people than godly people \f + \ft metaphor \f*
 act. 
-\v 9  \add So\add* I tell you\add (pl)\add* this: Use the money that you have
+\v 9  \add So\add* I tell you\add \f + \ft plural \f*\add* this: Use the money that you have
 \add here\add* on earth to help others so that they will become your friends. Then when
 \add you die and\add* you cannot \add take\add* any money with you,
 \add God and his angels\add* will welcome you into a home \add in
@@ -87,17 +87,17 @@ Abraham far away, and he saw Lazarus sitting close to Abraham.
 \v 24 So he shouted, 'Father Abraham, I am suffering very much in this fire! So
 \add please\add* pity me, and send Lazarus \add here\add* so that he can dip his finger in water
 \add and touch\add* my tongue to cool it!' 
-\v 25 But Abraham replied, 'Son, remember that while you\add (sg)\add* were alive
+\v 25 But Abraham replied, 'Son, remember that while you\add \f + \ft singular \f*\add* were alive
 \add on earth\add* you enjoyed \add many\add* good things. But Lazarus was miserable. Now
 \add it is fair that\add* he is happy here, and you are suffering.
-\v 26 Besides that, there is a huge ravine between you\add (sg)\add* and us. So those who want to go from here to where
-you\add (sg)\add* are, are not able to. Furthermore, no one can cross from there to where
-we\add (exc)\add* are.' 
+\v 26 Besides that, there is a huge ravine between you\add \f + \ft singular \f*\add* and us. So those who want to go from here to where
+you\add \f + \ft singular \f*\add* are, are not able to. Furthermore, no one can cross from there to where
+we\add \f + \ft exclusive \f*\add* are.' 
 \v 27 Then the rich man said, 'If that is so, father \add Abraham\add*, I ask
-you\add (sg)\add* to send \add Lazarus\add* to my father's house.
+you\add \f + \ft singular \f*\add* to send \add Lazarus\add* to my father's house.
 \v 28 I have five brothers \add who live there\add*. Tell him to warn them
 \add to turn away from their sinful behavior so that\add* they do not also come to this place, where
-\add we(exc)\add* suffer great pain!' 
+\add we\f + \ft exclusive \f*\add* suffer great pain!' 
 \v 29 But Abraham replied, '\add No, I will not do that, because your
 brothers\add* are able to \add go to the Jewish meeting places where the
 priests\add* read what Moses and the prophets \add wrote\add*. They should listen to what Moses and the prophets \f + \ft metonymy \f*

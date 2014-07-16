@@ -44,25 +44,25 @@ punishment?\add* \f*
 \v 8 Do the deeds that are appropriate for people who have truly turned from their sinful behavior!
 \add God promised to give Abraham many\add* descendants. In order to fulfill that promise, God does not need you! I tell you
 that he can change these stones to make them descendants of Abraham! So do not begin to say to yourselves,
-'We\add (exc)\add* are descendants of Abraham, \add so God will not punish us, even though we
+'We\add \f + \ft exclusive \f*\add* are descendants of Abraham, \add so God will not punish us, even though we
 have\add* sinned!' 
 \v 9  \add God is ready to punish you if you do not turn away from your sinful behavior, just like a
 man\add* \f + \ft metaphor \f* lays his axe at the roots \add of a fruit\add* tree\add to chop it down and throw it into the fire if it does
 not produce good fruit\add* \f + \ft metaphor \f*." 
 \p
 \v 10  \add Then\add* various ones in the crowd asked him, "What shall
-we\add (exc)\add* do \add to escape God punishing us\add* (OR), \add to show that we have
+we\add \f + \ft exclusive \f*\add* do \add to escape God punishing us\add* (OR), \add to show that we have
 repented\add*?" 
 \v 11 He answered them, "If any of you has two shirts, you should give one of them to someone who has no shirt. If any of you
 has \add plenty of\add* food, you should give some to those who have no food."
 \v 12  \add Some\add* tax collectors came \add and asked\add* to be baptized
 {\add asked him\add* to baptize them}. They asked him, "Teacher, what shall
-we\add (exc)\add* do \add to please God\add*?" 
+we\add \f + \ft exclusive \f*\add* do \add to please God\add*?" 
 \v 13 He said to them, "Do not take from the people any more money than
 \add the Roman government\add* tells you to take!" 
-\v 14 Some soldiers asked him, "What about us? What should we\add (exc)\add* do
+\v 14 Some soldiers asked him, "What about us? What should we\add \f + \ft exclusive \f*\add* do
 \add to please God\add*?" He said to them, "Do not \add say to anyone\add*,
-'\add If you(sg) do not give me\add* some money, I will hurt you,' and do not
+'\add If you\f + \ft singular \f* do not give me\add* some money, I will hurt you,' and do not
 take\add people to court and\add* falsely accuse them of doing something wrong! And be content with your wages."
 \p
 \v 15 People were expecting \add that the Messiah would come soon\add*. Because of that, many of them wondered about John.
@@ -93,7 +93,7 @@ God\add*, as he told them the good message \add from God\add*.
 \v 21  \add But before John was put in prison\add*, when many people were being baptized {when he was baptizing many people},
 after Jesus was baptized and {he baptized Jesus} and Jesus was praying, the sky opened.
 \v 22 Then the Holy Spirit, resembling a dove, descended upon \add Jesus\add*. And
-\add God\add* [SYN\f + \ft Or: EUP \f*] spoke to Jesus from heaven, saying, "You\add (sg)\add* are my Son, the one whom I love dearly. I am
+\add God\add* [SYN\f + \ft Or: EUP \f*] spoke to Jesus from heaven, saying, "You\add \f + \ft singular \f*\add* are my Son, the one whom I love dearly. I am
 very pleased with you!" 
 \s Luke 3:23-38 
 \s The list of Jesus' ancestors. 

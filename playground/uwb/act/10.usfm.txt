@@ -12,8 +12,8 @@ commanded 100 men in a large group of \add Roman\add* soldiers from Italy.
 saw\add* a vision. He clearly saw an angel whom God \add had sent\add*. The angel came into
 \add his room\add* and said to him, "Cornelius!" 
 \v 4 Cornelius stared at the angel and became terrified. Then he asked
-\add fearfully\add*, "Sir, what do you\add (sg)\add* want?" The angel answered him,
-"You\add (sg)\add* have pleased God because you have been praying
+\add fearfully\add*, "Sir, what do you\add \f + \ft singular \f*\add* want?" The angel answered him,
+"You\add \f + \ft singular \f*\add* have pleased God because you have been praying
 \add regularly to him\add* and you often give money to \add help\add* poor
 people\add . Those things have been\add* like a sacrifice \add to
 God\add*. 
@@ -40,9 +40,9 @@ Joppa\add*, Peter went up on the \add flat\add* housetop to pray.
 eat\add*. Some had four feet, others crawled on the ground, and others were wild birds.
 \v 13 Then \add he heard\add* God \f + \ft synecdoche \f* say to him, "Peter, stand up, kill
 \add and cook some of these\add* and eat \add their meat\add*!" 
-\v 14 But Peter replied, "Lord, surely you\add (sg)\add* do not \add really want me to do
+\v 14 But Peter replied, "Lord, surely you\add \f + \ft singular \f*\add* do not \add really want me to do
 that\add* I have never eaten any \add meat\add* that \add our Jewish law
-says\add* is unacceptable to God or \add something that we(exc)\add* must not eat!"
+says\add* is unacceptable to God or \add something that we\f + \ft exclusive \f*\add* must not eat!"
 \v 15  \add Then Peter heard\add* \f + \ft metonymy \f* God talk to him a second time. He said,
 "\add I am\add* God, \add so\add* if I have made something acceptable
 \add to eat\add*, do not say that it is not acceptable \add to eat\add*!"
@@ -62,7 +62,7 @@ sent} \add arrived. They asked people how to get to\add* Simon's house.
 \add meant\add*, \add God's\add* Spirit said to him, "Listen! Three men
 \add are here who\add* want to see you. 
 \v 20 So get up and go downstairs and go with them! Do not think that
-you\add (sg)\add* should not go with them \add because of their being
+you\add \f + \ft singular \f*\add* should not go with them \add because of their being
 non-Jews\add*, because I have sent them \add here\add*!" 
 \v 21 So Peter went down to the men and said to them, "\add Greetings!\add* I am
 \add the man\add* you are looking for. Why have you come?" 
@@ -70,7 +70,7 @@ non-Jews\add*, because I have sent them \add here\add*!"
 \add sent us here\add*. He is a righteous man who worships God, and all of the Jewish people \f + \ft hyperbole \f*
 \add who know about him\add* say that he is a very good man. An angel who was sent from God\f + \ft Or: whom God sent \f* said to him, 'Tell
 some men to \add go to Joppa to see Simon Peter and\add* bring him here, so that
-you\add (sg)\add* can hear what he has to say.'" 
+you\add \f + \ft singular \f*\add* can hear what he has to say.'" 
 \v 23 So Peter \add said that he would go with them, and then he\add* invited them into
 \add the house\add* and told them that they could stay \add there that
 night\add*. 
@@ -91,7 +91,7 @@ you\add*!"
 \add a large room inside the house\add*. Peter saw that many people had gathered together
 \add there\add*. 
 \v 28 Then Peter said to them, "You all know that any \add of us\add* Jews think we are disobeying
-\add our Jewish\add* laws if we\add (exc)\add* associate with a non-Jewish person or
+\add our Jewish\add* laws if we\add \f + \ft exclusive \f*\add* associate with a non-Jewish person or
 \add if we even\add* visit him. However, God has shown me \add in a
 vision\add* that I should not say about anyone that God will not accept him.
 \v 29 So when you sent \add some men\add* to ask me to come \add here\add*, I came
@@ -103,16 +103,16 @@ me\add*, why have you asked me to come \add here\add*?"
 \v 30 Cornelius replied, "About this time four days ago I was praying
 \add to God\add* in my house, \add as I regularly do\add* at three o'clock in the afternoon. Suddenly a man whose clothes
 \add shone\add* brightly stood in front of me, 
-\v 31 and said, 'Cornelius, when you\add (sg)\add* have prayed, you have been heard by God {God has heard
-\add when\add* you\add (sg)\add* have prayed \add to him\add*}. He has also noticed that you have
+\v 31 and said, 'Cornelius, when you\add \f + \ft singular \f*\add* have prayed, you have been heard by God {God has heard
+\add when\add* you\add \f + \ft singular \f*\add* have prayed \add to him\add*}. He has also noticed that you have
 \add often\add* given money to \add help\add* poor people, \add and he is pleased with
 that\add*. 
 \v 32 So now, send \add messengers to go\add* to Joppa city\add , in
 order\add* to ask Simon whose other name is Peter to come \add here\add*. He is staying near the ocean in a house that belongs
 to \add another\add* man named Simon, who makes leather. \add When Simon Peter comes, he will tell you a message from
 God\add*.' 
-\v 33 So I immediately sent \add some men who asked\add* you\add (sg) to come
-here\add*, and I \add certainly\add* thank you for coming. Now we\add (exc)\add* all are gathered
+\v 33 So I immediately sent \add some men who asked\add* you\add \f + \ft singular \f* to come
+here\add*, and I \add certainly\add* thank you for coming. Now we\add \f + \ft exclusive \f*\add* all are gathered
 \add here, knowing that\add* God is with us, in order to hear all the things that the Lord
 \add God\add* has commanded you \add to say. So please speak to us\add*."
 \s Acts 10:34-38 
@@ -143,7 +143,7 @@ know\add* how Jesus went to many places, always doing good deeds and healing
 \add The leaders in Jerusalem\add* had him killed by being nailed to a cross.
 \v 40 However, God caused him to become alive again on the third day
 \add after he had died\add*. God \add also\add* enabled \add some of
-us(exc)\add* to see him \add so that we would know that he was alive
+us\f + \ft exclusive \f*\add* to see him \add so that we would know that he was alive
 again\add*. 
 \v 41 God\add did\add* not \add let\add* all the \add Jewish\add* people see him. Instead, he had chosen us
 \add apostles\add* beforehand to see \add Jesus after he became alive
@@ -169,7 +169,7 @@ do\add* for them."
 \v 47 Then Peter said \add to the other Jewish believers who were
 there\add*, "\add God\add* has given them the Holy Spirit just like
 \add he gave him\add* to us \add Jewish believers\add*, so surely all of you would agree that
-\add we(exc)\add* should baptize these people!\f + \ft Or: would any of you forbid that these people should be baptized? \f* \f + \ft rhetorical question \f*"
+\add we\f + \ft exclusive \f*\add* should baptize these people!\f + \ft Or: would any of you forbid that these people should be baptized? \f* \f + \ft rhetorical question \f*"
 \v 48 Then Peter told those \add non-Jewish\add* people that they should be baptized
 \add to show that they had believed\add* \f + \ft metonymy \f* in the \add Lord\add* Jesus Christ.
 \add So they baptized all of them. After they were baptized\add*, they requested that Peter stay

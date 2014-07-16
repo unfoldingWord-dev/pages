@@ -3,12 +3,12 @@
 \s Stephen started to answer the high priest's accusations by talking about Abraham.
 \p
 \v 1 Then the high priest asked Stephen, "Are the things that \add these people are saying about
-you(sg)\add* true?" 
+you\f + \ft singular \f*\add* true?" 
 \v 2 Stephen replied, "Fellow Jews and respected leaders, \add please\add* listen to me! The glorious God
-\add whom we(inc) worship\add* appeared to our ancestor Abraham while he was still
+\add whom we\f + \ft inclusive \f* worship\add* appeared to our ancestor Abraham while he was still
 \add living\add* in Mesopotamia \add region\add*, before he moved to Haran
 \add town\add*. 
-\v 3 God said to him, 'Leave this land where you\add (sg)\add* and your relatives
+\v 3 God said to him, 'Leave this land where you\add \f + \ft singular \f*\add* and your relatives
 \add are living\add*, and go into the land to which I will lead you.'
 \v 4 So Abraham left that land, \add which was also called\add* Chaldea, and he arrived in Haran
 \add town\add* and lived there. After his father died, God told him to move to this land in which you
@@ -37,7 +37,7 @@ descendants\add* should be circumcised \add to show that they all belonged to
 God\add* and that they would obey what he had told Abraham to do. Later Abraham's son, Isaac, was born, and when Isaac was
 eight days old, Abraham circumcised him. \add Later\add* Isaac's son, Jacob, was born, and Isaac
 \add similarly circumcised\add* him. And Jacob \add similarly circumcised\add* his twelve sons. They are the twelve men
-\add from whom we(inc) Jews have all descended\add*." 
+\add from whom we\f + \ft inclusive \f* Jews have all descended\add*." 
 \s Acts 7:9-10 
 \s God helped Joseph, so Pharaoh appointed him to govern Egypt. 
 \p
@@ -112,8 +112,8 @@ worked\add*.
 other\add*. He tried to make them stop fighting by saying to them, 'Men, you two are fellow
 \add Israelites! So\add* stop hurting each other!\f + \ft Or: why are you hurting each other? \f* \f + \ft rhetorical question \f*'
 \v 27 But the man who was injuring the other man pushed Moses away and said to him, 'No one appointed
-you\add (sg)\add* to rule and judge us\add (exc)\add*!\f + \ft Or: Do you\add (sg)\add* think someone appointed
-you\add (sg)\add* to rule and judge us\add (exc)\add*? \f* \f + \ft rhetorical question \f* 
+you\add \f + \ft singular \f*\add* to rule and judge us\add \f + \ft exclusive \f*\add*!\f + \ft Or: Do you\add \f + \ft singular \f*\add* think someone appointed
+you\add \f + \ft singular \f*\add* to rule and judge us\add \f + \ft exclusive \f*\add*? \f* \f + \ft rhetorical question \f* 
 \v 28 Do you want to kill me as you killed the Egyptian yesterday?'
 \v 29 When Moses heard that, \add he thought to himself, 'Obviously, people know what I have done, and someone will kill me.'
 He was afraid, so\add* he fled \add from Egypt\add* to Midian land. He lived there
@@ -131,7 +131,7 @@ up\add*. As he went over to look more closely, he heard the Lord
 \add was so afraid that he\add* began to shake. He was afraid to look
 \add at the bush any longer\add*. 
 \v 33 Then the Lord \add God\add* said to him, 'Take your sandals off
-\add to show that you(sg) reverence me\add*. Because I \add am here\add*, the place where you are standing is holy\f + \ft Or: sacred \f*.
+\add to show that you\f + \ft singular \f* reverence me\add*. Because I \add am here\add*, the place where you are standing is holy\f + \ft Or: sacred \f*.
 \v 34 I have surely seen how the people of Egypt are continually causing my people to suffer. I have heard my people when they
 groan \add because those people continually oppress them\add*. So I have come down to rescue them
 \add from Egypt\add*. Now get ready, because I am going to send you
@@ -164,7 +164,7 @@ God\add* words that tell us how to live \add eternally, and Moses\add* passed
 leader\add* and decided that they wanted to return to Egypt. 
 \v 40 So they told \add his older brother\add* Aaron, 'Make idols for us who will be our gods to lead us
 \add back to Egypt\add*! As for that fellow Moses who led us out of Egypt
-we\add (exc)\add* do not know what has happened to him!' 
+we\add \f + \ft exclusive \f*\add* do not know what has happened to him!' 
 \v 41 So, they made an image \add out of gold that looked like\add* a calf. Then they sacrificed
 \add animals and offered other things\add* to \add honor\add* that idol, and they sang and danced to honor the idol that they
 themselves had made. 
@@ -201,7 +201,7 @@ showed\add that he was there with them\add*. They had made the tent exactly like
 \s Acts 7:48-50 
 \s People can worship God anywhere, not only at certain places. 
 \p
-\v 48 "However, \add we(inc) know that\add* God is greater than everything, and he does not live in
+\v 48 "However, \add we\f + \ft inclusive \f* know that\add* God is greater than everything, and he does not live in
 \add houses that\add* people \f + \ft synecdoche \f* have made. It is like the prophet
 \add Isaiah\add* wrote. He wrote \add these words that God had spoken:\add*
 \q

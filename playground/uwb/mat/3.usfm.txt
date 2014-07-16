@@ -75,9 +75,9 @@ the\add people who are like\add* chaff with a fire that will never be put out \f
 him}. 
 \v 14  \add When Jesus asked John to baptize him\add*, John objected, saying, "I need to be baptized by
 \bd you\bd* {\bd you\bd* to baptize \bd me\bd*} \add because you are superior to me. Since you are not a
-sinner\add*, \add you(sg)\add* should not come to me \add to be baptized by
-me\add* {\add to ask that I baptize you(sg)\add*}!\f + \ft Or: why do you come to me
-\add to be baptized by me\add* {\add ask that I baptize you(sg)\add*} \f + \ft rhetorical question \f*? \f*"
+sinner\add*, \add you\f + \ft singular \f*\add* should not come to me \add to be baptized by
+me\add* {\add to ask that I baptize you\f + \ft singular \f*\add*}!\f + \ft Or: why do you come to me
+\add to be baptized by me\add* {\add ask that I baptize you\f + \ft singular \f*\add*} \f + \ft rhetorical question \f*? \f*"
 \v 15 But Jesus said to him, "Baptize me at this time, because in this way we
 \add two\add* will do \add everything that God\add* requires." Then John consented to baptize him.
 \p

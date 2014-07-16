@@ -77,9 +77,9 @@ who\add* escapes from a fire \add without saving any of his possessions\add*.
 \s 1 Corinthians 3:16-17 
 \s God will destroy anyone who destroys the unity of a congregation.
 \p
-\v 16 You need to remember that God \add is present among\add* you\add (pl) as he was present in
+\v 16 You need to remember that God \add is present among\add* you\add \f + \ft plural \f* as he was present in
 the\add* Temple \add in Jerusalem\add*.\f + \ft Or: Do you not know that God
-\add is present among\add* you\add (pl) as he was present in the\add* Temple
+\add is present among\add* you\add \f + \ft plural \f* as he was present in the\add* Temple
 \add in Jerusalem\add*? \f* \f + \ft rhetorical question \f* God's Spirit lives within you. 
 \v 17 So, \add just like\add* God will destroy anyone who tries to destroy his Temple,
 \add he will destroy anyone who destroys the unity of a congregation. He will do
@@ -102,7 +102,7 @@ from\add* the Scriptures\add what God says about\add* that,
 are\add* \f + \ft irony \f* wise. 
 \p
 \v 21 So stop boasting about \add how good one Christian leader is or how good another Christian leader
-is\add*! All \add of us(exc) exist as leaders only to help\add* you!
+is\add*! All \add of us\f + \ft exclusive \f* exist as leaders only to help\add* you!
 \v 22 Specifically, do not boast about me, or about Apollos, or about Peter! Everything in the world exists to
 \add benefit\add* you \add believers\add*. Whether you live or whether you die, the things that are happening now or the things
 that will happen in the future, they are all to benefit you. 

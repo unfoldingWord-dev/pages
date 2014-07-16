@@ -4,9 +4,9 @@
 \p
 \v 1  \add God will severely punish non-Jewish people who habitually do evil deeds, because he has clearly revealed that he is
 angry with them\add*. So, \add when God judges people\add*, he will not excuse any one of you Jews
-\add to whom I am writing\add*. You\add (sg)\add* say that \add God
+\add to whom I am writing\add*. You\add \f + \ft singular \f*\add* say that \add God
 should\add* punish \add non-Jews for doing evil deeds\add*. But when any one of you says that, it is yourself whom you are
-saying that God should punish, because you\add (sg)\add* do \add some
+saying that God should punish, because you\add \f + \ft singular \f*\add* do \add some
 of\add* the same \add evil\add* deeds \add that the non-Jews do\add*.
 \v 2 We know very well that God will judge and punish fairly \add non-Jewish\add* people who do such
 \add evil\add* deeds. 
@@ -15,9 +15,9 @@ certainly not think that you yourself will be able to escape from being punished
 able to escape from being punished by God? \f* \f + \ft rhetorical question \f* 
 \v 4 And you should not say, "God is acting very tolerantly and patiently toward me,
 \add so I do not need to turn away from my sin\add* \f + \ft doublet \f*." You should realize that God is acting in a kind manner
-\add toward you\add* in order to encourage you\add (sg)\add* to turn away from your sinful behavior!\f + \ft Or: Do you not realize that
+\add toward you\add* in order to encourage you\add \f + \ft singular \f*\add* to turn away from your sinful behavior!\f + \ft Or: Do you not realize that
 God is acting in a kind manner \add toward you\add* in order to encourage
-you\add (sg)\add* to turn away from your sinful behavior? \f* \f + \ft rhetorical question \f*
+you\add \f + \ft singular \f*\add* to turn away from your sinful behavior? \f* \f + \ft rhetorical question \f*
 \v 5 But instead, by your stubbornly refusing to turn away from your sinful behavior \f + \ft doublet \f*, you are causing \f + \ft metaphor \f* God to punish
 you even more severely. \add He will do that\add* at the time when he shows that he is angry and judges people fairly.
 \s Romans 2:6-11 
@@ -69,8 +69,8 @@ will judge them \add even\add* for the things that they have done secretly. He w
 insult God. 
 \p
 \v 17  \add Now I have something to say to any one of\add* you \add Jews to whom I am
-writing\add*: You\add (sg)\add* boast about yourself saying, "I am a Jew."
-You\add (sg)\add* trust \add that God will save you because you possess\add* the laws
+writing\add*: You\add \f + \ft singular \f*\add* boast about yourself saying, "I am a Jew."
+You\add \f + \ft singular \f*\add* trust \add that God will save you because you possess\add* the laws
 \add that he gave to Moses\add*. You boast that \add you belong to\add* God.
 \v 18 You know what God desires. Because you have been taught {\add people\add* have taught you}
 \add God's\add* laws, you are able to know which things are right and to choose to do them.
@@ -106,7 +106,7 @@ God.
 \p
 \v 25 Any one of you who \add is\add* circumcised \add to show that he belong to
 God\add* can benefit from that if he obeys the laws \add God gave to
-Moses\add*. But if you\add (sg), a circumcised person\add*, disobey
+Moses\add*. But if you\add \f + \ft singular \f*, a circumcised person\add*, disobey
 \add God's\add* laws, \add God will consider that\add* you who are circumcised are no better
 \add in God's sight\add* than\add someone who is\add* not circumcised.
 \v 26 This means that God will certainly consider that even \add non-Jews who
@@ -114,7 +114,7 @@ are\add* not circumcised can become his people if they obey the things that he c
 that even \add non-Jews who are\add* not circumcised can ◄become his people\f + \ft Or: become \f* acceptable to him \f* if they obey the things
 that he commanded in his laws?► \f + \ft rhetorical question \f* 
 \v 27  \add If any one of\add* you disobeys God's laws, even though
-\add you(sg) have\add* the Scriptures and even though someone has circumcised you {you are circumcised}
+\add you\f + \ft singular \f* have\add* the Scriptures and even though someone has circumcised you {you are circumcised}
 \add God will punish you\add*. And those people who are not circumcised, but who obey God's laws,
 \add will declare that God is right\add* when he says that he will punish you.
 \v 28 It is not those who perform rituals \add to show they are God's

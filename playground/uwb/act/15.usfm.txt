@@ -47,7 +47,7 @@ Jesus\add*.
 \v 8 God knows \add and judges\add* people according to what they think,
 \add not according to who their ancestors were\add*. By sending the Holy Spirit to
 \add the non-Jews\add*, just like \add he had\add* also done for
-us\add (inc)\add* Jews, he showed \add me and others\add* that he had accepted them
+us\add \f + \ft inclusive \f*\add* Jews, he showed \add me and others\add* that he had accepted them
 \add to be his people\add*. 
 \v 9  \add God\add* saved us \add Jews\add* and those \add non-Jews\add* similarly, making them clean inside simply as a result
 of their believing \add in the Lord Jesus. That was exactly how he has forgiven
@@ -55,12 +55,12 @@ us\add*.
 \v 10  \add You are wanting to force the non-Jewish believers to obey our Jewish rituals and
 laws\add*—laws that God has shown that he does not require them to obey \f + \ft metaphor \f*.
 \add Your doing that is like\add* putting a heavy burden on their necks! So then, stop making God angry by doing that!\f + \ft Or: why are
-you making God angry by doing that? \f* \f + \ft rhetorical question \f* Our ancestors and we\add (inc)
+you making God angry by doing that? \f* \f + \ft rhetorical question \f* Our ancestors and we\add \f + \ft inclusive \f*
 Jews\add* have never been able to bear \add the burden of obeying those
 laws!\add* 
-\v 11 But we\add (inc) know that it is not because\add* we\add (inc) try to obey those laws that God saves us(inc) Jews. On the
-contrary\add*, we\add (inc)\add* know that it is because of what the Lord Jesus did for
-us\add (inc)\add* that we did not deserve that we\add (inc)\add* are saved {that
+\v 11 But we\add \f + \ft inclusive \f* know that it is not because\add* we\add \f + \ft inclusive \f* try to obey those laws that God saves us\f + \ft inclusive \f* Jews. On the
+contrary\add*, we\add \f + \ft inclusive \f*\add* know that it is because of what the Lord Jesus did for
+us\add \f + \ft inclusive \f*\add* that we did not deserve that we\add \f + \ft inclusive \f*\add* are saved {that
 \add God\add* saves us} \add from the guilt of our sins. God saves us
 Jews\add* exactly like \add he saves\add* those \add non-Jews who believe in the Lord
 Jesus\add*." 
@@ -94,7 +94,7 @@ words\add*.
 \v 18 I \add caused my people to know about them\add* long ago."
 \p
 \v 19  \add James continued by saying\add*, "Therefore I have decided
-\add that we(inc)\add* should stop bothering the non-Jewish people who are turning
+\add that we\f + \ft inclusive \f*\add* should stop bothering the non-Jewish people who are turning
 \add away from their sins and turning\add* to God. \add That is, we should stop demanding that they
 obey\add* all \add our laws\add* and rituals. 
 \v 20 Instead, we should write \add a letter\add* to them, \add one requiring only four things: They
@@ -117,17 +117,17 @@ and Barnabas, to Antioch, to \add let the believers there know what the
 leaders\add* at Jerusalem had decided. So they chose Judas, who was also called Barsabbas, and Silas, who were leaders among
 the believers \add at Jerusalem\add*. 
 \v 23 Then they wrote the following letter \add that they asked Judas and Silas to take to the believers at
-Antioch\add*: "\add We(exc)\add* apostles and \add other\add* leaders who are your fellow believers
+Antioch\add*: "\add We\f + \ft exclusive \f*\add* apostles and \add other\add* leaders who are your fellow believers
 \add send our greetings to you as we write this to you\add* non-Jewish believers
 \add who live\add* in Antioch and \add other places in\add* Syria and Cilicia
 \add provinces\add*. 
 \v 24 People have told us that some men from among us went \add to
 you\add*, although we had not told \add them to do that\add*. They troubled\f + \ft Or: distressed \f* you \f + \ft synecdoche \f*
 \add by telling you things\add* that confused your thinking. 
-\v 25 So \add while we(exc) met together here\add*, we decided to choose some men and ask them to go to you, along with
-Barnabas and Paul, whom we\add (exc)\add* love very much. 
+\v 25 So \add while we\f + \ft exclusive \f* met together here\add*, we decided to choose some men and ask them to go to you, along with
+Barnabas and Paul, whom we\add \f + \ft exclusive \f*\add* love very much. 
 \v 26 Those two have put their lives in danger because of their \add serving\add* our Lord \f + \ft metonymy \f* Jesus Christ.
-\v 27 We\add (exc) have also chosen\add* Judas and Silas to go to you. They will tell you the same things
+\v 27 We\add \f + \ft exclusive \f* have also chosen\add* Judas and Silas to go to you. They will tell you the same things
 \add that we are writing\add*. 
 \v 28 The Holy Spirit and \add also\add* we decided that you should not be required {that we should not require you} to obey a
 lot of burdensome \add Jewish\add* laws. Instead, \add we\add* only

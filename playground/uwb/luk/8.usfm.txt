@@ -87,7 +87,7 @@ me\add* \f + \ft metaphor \f* as my mother and my brothers."
 \v 23 As they were sailing, he fell asleep. A big windstorm came down on the lake. Soon the boat was filling with water, and
 they were in danger. 
 \v 24 They woke him up. They said \add to him\add*, "Master! Master!
-We\add (inc)\add* are going to drown!" He got up and rebuked the wind and told the waves to be calm. The wind stopped blowing
+We\add \f + \ft inclusive \f*\add* are going to drown!" He got up and rebuked the wind and told the waves to be calm. The wind stopped blowing
 and the waves calmed down. \add The lake\add* became calm. 
 \v 25 He said to them, "I \add am disappointed that\add* you did not trust me
 \add to help you\add*!\f + \ft Or: Why did you not trust me \add to help you\add*? \f*" \f + \ft rhetorical question \f* They were afraid. They were also amazed. They
@@ -109,10 +109,10 @@ and shackles. Then he would be sent away by the demons {the demons would send hi
 \p When Jesus stepped out of the boat onto the shore, the man saw him. He
 \add ran to Jesus\add* and prostrated himself before him. Then Jesus commanded, "You evil spirit, come out of that man!" But it
 \add did not leave immediately. Instead, it\add* caused the man to shout very loudly, "Jesus, Son of the great God in heaven,
-since we\add (inc)\add* have nothing in common, \add leave me alone\add* \f + \ft rhetorical question \f*! I beg you, do not torture me
+since we\add \f + \ft inclusive \f*\add* have nothing in common, \add leave me alone\add* \f + \ft rhetorical question \f*! I beg you, do not torture me
 \add now\add*!" 
 \v 30  \add In order to expel the demon more easily\add*, Jesus asked
-\add the demon\add*, "What is your\add (sg)\add* name?" He replied, "My name is Crowd\f + \ft Or: Mob \f*."
+\add the demon\add*, "What is your\add \f + \ft singular \f*\add* name?" He replied, "My name is Crowd\f + \ft Or: Mob \f*."
 \add He said that\add* because many demons had entered that man.
 \v 31  \add The demons\add* kept begging \add Jesus\add* that he would not command them to go into the deep place
 \add where God punishes demons\add*. 
@@ -153,7 +153,7 @@ welcomed him.
 \v 44 She came behind \add Jesus\add* and touched the edge of his robe
 \add in order to be healed\add*. At once her bleeding stopped. 
 \v 45 Jesus said, "Who touched me?" When everyone said that they had not touched him, Peter said, "Lord, there is a great crowd
-of people around you\add (sg)\add* and crowding against you, \add so any one of them might have touched
+of people around you\add \f + \ft singular \f*\add* and crowding against you, \add so any one of them might have touched
 you\add*!" 
 \v 46 But Jesus said, "\add I know that\add* someone \add deliberately\add* touched me,
 \add because\add* my power has healed someone \add who touched me\add*."
@@ -171,7 +171,7 @@ it is useless that you bother the teacher any longer \add by urging him to go to
 house\add*!\f + \ft Or: why do you bother the teacher any longer \add by urging him to go to your
 house\add*? \f* \f + \ft rhetorical question \f*" 
 \v 50 But when Jesus heard that, he said to Jairus, "Do not think that there is nothing more that can be done. Just believe
-that \add I can help her. If you(sg) do that\add*, she will live again."
+that \add I can help her. If you\f + \ft singular \f* do that\add*, she will live again."
 \v 51 When they arrived outside the house, he allowed only Peter, John, James, and the girl's mother and father to go in the
 house with him. 
 \v 52 All the people \add there\add* were crying and beating their breasts

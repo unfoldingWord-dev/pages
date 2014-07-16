@@ -21,7 +21,7 @@ enemies\add*.
 \q
 \v 5 When \add we hear that\add* you have defeated \add your enemies\add*, we will shout joyfully.
 \q2 We will lift up a banner proclaiming that it is God \f + \ft metonymy \f* \add who helps
-us\add*(inc). 
+us\add*\f + \ft inclusive \f*. 
 \q I desire\f + \ft Or: wish \f* that Yahweh will \add do for you\add* all that you request him to do.
 \b
 \q

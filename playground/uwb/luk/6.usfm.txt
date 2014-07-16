@@ -98,10 +98,10 @@ you\add* have all that you need now; you will \add realize\add* that these thing
 \v 28  \add Ask God to\add* bless those who curse you! Pray for those who mistreat you!
 \v 29 If someone \add insults one of you by\add* striking you on one of your cheeks, turn your face
 \add so that he can strike\add* the other cheek \add also\add*. If
-\add a bandit\add* wants to take away your\add (sg)\add* coat, let him also have your shirt.
-\v 30 Give something to everyone who asks you\add (sg) for something\add*. If someone takes away things that belong to
-you\add (sg)\add*, do not ask him to return them. 
-\v 31 In whatever way you\add (pl)\add* want others to act toward you, that is the way that you should act toward them.
+\add a bandit\add* wants to take away your\add \f + \ft singular \f*\add* coat, let him also have your shirt.
+\v 30 Give something to everyone who asks you\add \f + \ft singular \f* for something\add*. If someone takes away things that belong to
+you\add \f + \ft singular \f*\add*, do not ask him to return them. 
+\v 31 In whatever way you\add \f + \ft plural \f*\add* want others to act toward you, that is the way that you should act toward them.
 \p
 \v 32 If you love \add only\add* those who love you, do not \add expect
 God\add* to praise you for \add doing that\add* \f + \ft rhetorical question \f*, \add because\add* even sinners love those who love them.
@@ -145,7 +145,7 @@ fully trains a student}, the student can become like his teacher \f + \ft metaph
 like\add* noticing a speck in that person's eye. But you should be concerned about
 \add your own big faults. They are like\add* planks in your own eye,
 \add which you do not notice\add*. 
-\v 42 You\add (sg)\add* should not say, 'Friend, let me take out that speck in your eye!' when you do not notice the log in
+\v 42 You\add \f + \ft singular \f*\add* should not say, 'Friend, let me take out that speck in your eye!' when you do not notice the log in
 your own eye!\f + \ft Or: Why do you say, 'Friend, let me take out that speck in your eye!' when you do not notice the log in your own
 eye? \f* \f + \ft rhetorical question \f* \add If you do that\add*, you are a hypocrite! You should first
 \add stop committing your own sins. That will be like\add* removing the plank from your own eye. Then, as a result, you will

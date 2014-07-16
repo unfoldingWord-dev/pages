@@ -8,7 +8,7 @@
 \v 2 So when Peter \add and the six other believers\add* returned
 \add from Caesarea\add* to Jerusalem, \add some\add* Jewish believers criticized Peter,
 \add because they thought that Jews should not associate with non-Jews\add* \f + \ft metonymy \f*.
-\v 3 They said to him, "Not only was it wrong for you(sg) to visit non-Jewish people, you
+\v 3 They said to him, "Not only was it wrong for you\f + \ft singular \f* to visit non-Jewish people, you
 \add even\add* ate with them!" 
 \s Acts 11:4-10 
 \s Peter told about his vision. 
@@ -22,9 +22,9 @@ ropes\add* at its four corners, and it came down to where I was.
 including\add* wild animals, snakes, and wild birds. 
 \v 7 Then I heard God \f + \ft metonymy \f* commanding me, 'Peter, rise up, kill
 \add some of these\add*, and \add cook and\add* eat \add their meat\add*!'
-\v 8 But I replied, 'Lord, \add you(sg)\add* surely do not \add really want me to do
+\v 8 But I replied, 'Lord, \add you\f + \ft singular \f*\add* surely do not \add really want me to do
 that\add*, because I have never eaten \f + \ft metonymy \f* meat \add from any animal\add* that
-\add our laws say\add* that we\add (exc)\add* must not eat \f + \ft synecdoche \f*!'
+\add our laws say\add* that we\add \f + \ft exclusive \f*\add* must not eat \f + \ft synecdoche \f*!'
 \v 9 God spoke from heaven \add to me\add* a second time, '\add I
 am\add* God, \add so\add* if I have made something acceptable \add to
 eat\add*, do not say that it is not acceptable \add to eat\add*!'
@@ -38,10 +38,10 @@ where I was staying.
 \v 12  \add God's\add* Spirit told me that I should be willing to go with them
 \add even though they were not Jews\add*. These six \add Jewish\add* believers
 \add from Joppa\add* went with me \add to Caesarea\add*, and then
-we\add (exc)\add* went into that \add non-Jewish\add* man's house.
+we\add \f + \ft exclusive \f*\add* went into that \add non-Jewish\add* man's house.
 \v 13 He told us that he had seen an angel standing in his house. The angel told him, 'Tell some
 \add men\add* to go to Joppa and bring back Simon whose other name is Peter.
-\v 14 He will tell you\add (sg)\add* how you and everyone \f + \ft metonymy \f* else in your house will be saved {how
+\v 14 He will tell you\add \f + \ft singular \f*\add* how you and everyone \f + \ft metonymy \f* else in your house will be saved {how
 \add God\add* will save you and everyone \f + \ft metonymy \f* else in your house}.'
 \v 15 After I started to speak, the Holy Spirit \add suddenly\add* came down on them, just like he had first \f + \ft metonymy \f* come on us
 \add during the Pentecost festival\add*. 
@@ -49,7 +49,7 @@ we\add (exc)\add* went into that \add non-Jewish\add* man's house.
 \add God\add* will cause the Holy Spirit \add to enter you and change your
 lives.'\add* 
 \v 17 God gave those non-Jews the same Holy Spirit that he had given to
-us\add (inc)\add* after we believed in the Lord Jesus Christ. So,
+us\add \f + \ft inclusive \f*\add* after we believed in the Lord Jesus Christ. So,
 \add I\add* could not \add possibly\add* tell God that he did wrong\add when he gave them the Holy
 Spirit!\add*\f + \ft Or: how could I \add tell\add* God that he did wrong\add when he gave them the Holy
 Spirit\add*? \f* \f + \ft rhetorical question \f* \add He was showing that he had received them!\add*"

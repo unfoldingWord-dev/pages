@@ -17,7 +17,7 @@ workers\add* had to unload the cargo.
 \s At Tyre, believers warned Paul not to go to Jerusalem, but he went on.
 \p
 \v 4  \add Someone told us\add* where the believers in Tyre lived, so
-we\add (exc) went and\add* stayed with them for seven days. Because
+we\add \f + \ft exclusive \f* went and\add* stayed with them for seven days. Because
 \add God's\add* Spirit revealed to them \add that people would cause Paul to suffer\f + \ft Or: Paul would
 suffer\add* \f* \add in Jerusalem\add*, they told Paul that he should not go there.
 \v 5 But when it was time \add for the ship to leave again\add*, we
@@ -29,7 +29,7 @@ suffer\add* \f* \add in Jerusalem\add*, they told Paul that he should not go the
 \s Acts 21:7-9 
 \s Paul and his companions sailed from Tyre to Caesarea. 
 \p
-\v 7 After we\add (exc)\add* left Tyre, we continued on \add that
+\v 7 After we\add \f + \ft exclusive \f*\add* left Tyre, we continued on \add that
 ship\add* to Ptolemais \add city\add*. There were believers there, and we greeted them and stayed with them that night.
 \v 8 The next day we left \add Ptolemais\add* and sailed to Caesarea
 \add city\add*, where we stayed in the home of Philip, who \add spent his
@@ -41,7 +41,7 @@ revealed to them.
 \s Acts 21:10-14 
 \s The believers could not persuade Paul from going on to Jerusalem.
 \p
-\v 10 After \add we(exc) had been in Philip's house for\add* several days, a believer whose name was Agabus came down from
+\v 10 After \add we\f + \ft exclusive \f* had been in Philip's house for\add* several days, a believer whose name was Agabus came down from
 Judea \add district\add* and arrived \add in Caesarea\add*. He \add frequently\add* spoke messages that the Holy Spirit had
 told him. 
 \v 11 Coming over to where we were, he took off Paul's belt. Then he tied his own feet and hands with it and said, "The Holy
@@ -54,13 +54,13 @@ not go up to Jerusalem!"
 \add from going!\add*\f + \ft Or: Why are you crying and trying to discourage me ( idiom )
 \add from going\add*? \f* \f + \ft rhetorical question \f* I am willing to be put {\add for people\add* to put me} in prison and also to be killed
 {\add for them\add* to kill me} in Jerusalem because I \add serve\add* \f + \ft metonymy \f* the Lord Jesus."
-\v 14 When \add we(exc) realized that\add* he was determined \add to go to
+\v 14 When \add we\f + \ft exclusive \f* realized that\add* he was determined \add to go to
 Jerusalem\add*, we did not try \add any longer\add* to persuade him
 \add not to go\add*. We said, "May the Lord \add God\add* do what he wants\f + \ft Or: the Lord's will be done \f*!"
 \s Acts 21:15-16 
 \s Paul and other believers went from Caesarea to Jerusalem. 
 \p
-\v 15 After those days \add in Caesarea\add*, we\add (exc)\add* prepared
+\v 15 After those days \add in Caesarea\add*, we\add \f + \ft exclusive \f*\add* prepared
 \add our things\add* and \add left to\add* go \add by land\add* up to Jerusalem.
 \v 16 Some of the believers from Caesarea also went with us. They took us to stay in the house of
 \add a man whose name was\add* Mnason. He was from Cyprus \add Island\add*, and he had believed
@@ -75,16 +75,16 @@ Jerusalem\add*, we did not try \add any longer\add* to persuade him
 \add other\add* leaders\f + \ft Or: elders \f* \add of the congregation in Jerusalem\add* were also there.
 \v 19 Paul greeted them, and then he reported all of the things that God had enabled him to do among the non-Jewish people.
 \v 20 When they heard that, James and the other elders said, "Praise the Lord!" Then
-\add one of\add* them said to Paul, "Brother\f + \ft Or: Friend \f*, you\add (sg)\add* know that there are very many thousands of
-us\add (inc)\add* Jewish people \add here\add* who have believed
-\add in the Lord Jesus\add*. Also, you know that we\add (inc)\add* all continue very carefully to obey the laws
+\add one of\add* them said to Paul, "Brother\f + \ft Or: Friend \f*, you\add \f + \ft singular \f*\add* know that there are very many thousands of
+us\add \f + \ft inclusive \f*\add* Jewish people \add here\add* who have believed
+\add in the Lord Jesus\add*. Also, you know that we\add \f + \ft inclusive \f*\add* all continue very carefully to obey the laws
 \add that Moses gave us\add*. 
 \v 21  \add But our fellow Jewish believers\add* have been told {have heard
 \add people say\add*} that when you are among non-Jews, you tell the Jewish believers who live there that they should stop
 obeying \add the laws\add* \f + \ft metonymy \f* \add of\add* Moses\f + \ft Or: \add that\add*
 Moses\add received from God\add* \f*. \add People say that\add* you tell
 \add those Jewish believers\add* not to circumcise their sons and not to practice our
-\add other\add* customs. \add We(exc) do not believe that this is
+\add other\add* customs. \add We\f + \ft exclusive \f* do not believe that this is
 true\add*. 
 \v 22 But our fellow \add Jewish\add* believers will certainly hear that you have arrived,
 \add and they will be angry with you\add*. So \add you\add* need to do something \f + \ft rhetorical question \f*
@@ -99,7 +99,7 @@ have told them} about you is not true. Instead, all of them will know that you o
 \add and rituals\add*. 
 \v 25 As for the non-Jewish believers, \add we elders here in Jerusalem have
 talked\add* about \add which of our laws\add* they \add should obey,
-and\add* we\add (exc)\add* wrote them \add a letter, telling them\add* what we decided.
+and\add* we\add \f + \ft exclusive \f*\add* wrote them \add a letter, telling them\add* what we decided.
 \add We wrote\add* that they should not eat meat that people have offered as a sacrifice to any idol,
 \add that they should not eat\add* blood \add from animals\add* and that
 \add they should not eat\add* meat from animals \add that people have killed
@@ -157,14 +157,14 @@ to kill \add Paul. So the commander told\add* the soldiers to carry Paul
 \p
 \v 37 As Paul was about to be taken {\add the soldiers\add* were about to take Paul} into the barracks, he said
 \add in Greek\add* to the commander, "May I speak to you?" The commander said, "I am surprised that you can speak the Greek
-\add language\add*!\f + \ft Or: Can you\add (sg)\add* speak the Greek \add language\add*? \f*" \f + \ft rhetorical question \f*
-\v 38 "I \add thought\add* that you\add (sg)\add* were that fellow\f + \ft Or: Are you not that fellow \f* from Egypt \f + \ft rhetorical question \f* who wanted to
+\add language\add*!\f + \ft Or: Can you\add \f + \ft singular \f*\add* speak the Greek \add language\add*? \f*" \f + \ft rhetorical question \f*
+\v 38 "I \add thought\add* that you\add \f + \ft singular \f*\add* were that fellow\f + \ft Or: Are you not that fellow \f* from Egypt \f + \ft rhetorical question \f* who wanted to
 rebel \add against the government not long ago\add*, and who took four thousand violent terrorists
 \add with him\add* out into the desert, \add so that we could not catch
 him\add*?" 
 \v 39 Paul answered, "\add No, I am not!\add* I am a Jew. I \add was
 born\add* in Tarsus, which is an important \f + \ft litotes \f* city in Cilicia
-\add province\add*. I request that you\add (sg)\add* let me speak to the people."
+\add province\add*. I request that you\add \f + \ft singular \f*\add* let me speak to the people."
 \v 40 Then the commander permitted Paul \add to speak. So\add* Paul stood on the steps and motioned with his hand
 \add for the crowd to be quiet. And after\add* the people in the crowd became quiet, Paul spoke to them in
 \add their own\add* Hebrew language \f + \ft metonymy \f*. 

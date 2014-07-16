@@ -25,7 +25,7 @@ lives\add*, but after a few days \f + \ft litotes \f* \add God\add* will put the
 \s Jesus said that they would tell about him everywhere, and then he ascended to heaven.
 \p
 \v 6 One day when the \add apostles\add* met together \add with Jesus\add*, they asked him, "Lord, will
-you\add (sg)\add* now become the King \f + \ft metaphor \f* over \add us\add* Israelite people
+you\add \f + \ft singular \f*\add* now become the King \f + \ft metaphor \f* over \add us\add* Israelite people
 \add like King David, who ruled long ago\add*?" \f + \ft Or: "Lord, will
 you\add (sg \f*\add* now \add defeat the Romans and\add* restore the kingdom
 \add to us\add* Israelite people?") 
@@ -75,7 +75,7 @@ fulfilled {to happen \add as he said they would\add*}. The Holy Spirit,
 \add who knew that Judas would be the one who would fulfill those
 words\add*, told David what to write. 
 \v 17  \add Although\add* Judas had been chosen {\add Jesus\add* had chosen Judas}, along with
-\add the rest of\add* us\add (exc)\add* to serve \add as an apostle\add*, Judas was the person who guided the people who seized
+\add the rest of\add* us\add \f + \ft exclusive \f*\add* to serve \add as an apostle\add*, Judas was the person who guided the people who seized
 Jesus." 
 \s Acts 1:18-19 
 \s How Judas died. 
@@ -112,9 +112,9 @@ was\add* Joseph, who was called {whom people called} Barsabbas \f + \ft Or: Jose
 \add also\add* had the \add Roman\add* name Justus. The other man was Matthias.
 \v 24-25 Then they prayed like this: "Lord \add Jesus\add*, Judas stopped being an apostle.
 \add He died and\add* went to the place where he \add deserved to
-be\add* \f + \ft euphemism \f*. \add So we(exc) need to choose someone\add* to replace
-\add Judas in order\add* that he can serve \add you(sg) by becoming\add* an apostle.
-You\add (sg)\add* know what everyone is really like. So \add please\add* show us which of these two men you have chosen."
+be\add* \f + \ft euphemism \f*. \add So we\f + \ft exclusive \f* need to choose someone\add* to replace
+\add Judas in order\add* that he can serve \add you\f + \ft singular \f* by becoming\add* an apostle.
+You\add \f + \ft singular \f*\add* know what everyone is really like. So \add please\add* show us which of these two men you have chosen."
 \v 26 Then they cast lots \add to choose between the two of\add* them, and the lot fell for Matthias. \f + \ft Or: Then
 \add one of\add* the \add apostles\add* shook \add in a container\add* small objects\f + \ft Or: stones \f*
 \add that\add* they \add had marked to determine which man God had

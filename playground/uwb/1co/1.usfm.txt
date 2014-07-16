@@ -7,9 +7,9 @@
 relationship with\f + \ft Or: you \f* belong to Christ Jesus. God has appointed you to be his people and to live in a morally pure way, just
 like he has appointed all the people everywhere who belong to him to live in a morally pure way. You and they have trusted in
 the Lord Jesus Christ \f + \ft metonymy \f*. He is their sovereign Lord as well as the sovereign Lord of all of
-us\add (inc)\add* who have trusted in him. 
+us\add \f + \ft inclusive \f*\add* who have trusted in him. 
 \p
-\v 3 We\add (exc)\add* desire that God, who is our \add heavenly\add* Father, and Jesus Christ, who is our sovereign Lord, will
+\v 3 We\add \f + \ft exclusive \f*\add* desire that God, who is our \add heavenly\add* Father, and Jesus Christ, who is our sovereign Lord, will
 continue to act kindly toward you and cause you to experience \add inner\add* peace.
 \s 1 Corinthians 1:4-9 
 \s I thank God for you and for all the spiritual abilities that he has given you.
@@ -20,7 +20,7 @@ deserve. He has done this because of your having a close relationship with\f + \
 with\f + \ft Or: being united to \f* Christ. Specifically, God has abundantly \f + \ft hyperbole \f* enabled you to speak messages
 \add that his Spirit revealed to you\add*, and he has abundantly enabled you to know many things \f + \ft hyperbole \f* that his Spirit revealed
 to you. 
-\v 6 In that way, \add he\add* confirmed to you that what we\add (exc)\add* proclaimed about Christ is true.
+\v 6 In that way, \add he\add* confirmed to you that what we\add \f + \ft exclusive \f*\add* proclaimed about Christ is true.
 \v 7 As a result, while you wait for our Lord Jesus Christ to return, within your group you truly possess \f + \ft litotes \f* every ability
 that \add God's\add* Spirit gives \add to believers\add*. 
 \v 8 God will also cause you to steadfastly \add trust Christ to the very end of your

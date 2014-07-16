@@ -10,12 +10,12 @@ just taught you.
 \s I urge Euodia and Syntyche to be reconciled with each other; help them in this since they have both proclaimed the good news
 faithfully together with me and my other fellow workers. 
 \p
-\v 2 I urge \add you(sg)\add*, Euodia, and I urge \add you(sg)\add*, Syntyche, to again have a peaceful relationship with each
+\v 2 I urge \add you\f + \ft singular \f*\add*, Euodia, and I urge \add you\f + \ft singular \f*\add*, Syntyche, to again have a peaceful relationship with each
 other, \add because you both have a relationship with\add* the Lord.
-\v 3 And, my faithful comrade\f + \ft Or: partner \f*, I request that you\add (sg)\add* help them
+\v 3 And, my faithful comrade\f + \ft Or: partner \f*, I request that you\add \f + \ft singular \f*\add* help them
 \add to again have a peaceful relationship with each other\add*, because they have
 \add faithfully proclaimed\add* the message \add about Christ\add* together with me,
-\add even though many people\add* have opposed us\add (exc)\add*. They have faithfully proclaimed that message together with
+\add even though many people\add* have opposed us\add \f + \ft exclusive \f*\add*. They have faithfully proclaimed that message together with
 Clement and the rest of my fellow workers, whose names \add are\add* in the book
 \add in which God has written the names of all those people who will\add* live
 \add forever\add*. 
@@ -91,14 +91,14 @@ you\add*, and \add as a result\add*, I have plenty. I have an abundant supply
 \add sent to me\add*. God considers that your gift is very acceptable, and he is very pleased with it.
 \add Your gift is like\add* a nice-smelling sacrifice \f + \ft metaphor \f*. 
 \v 19  \add Moreover\add*, God, \add whom\add* I \add serve\add*, has an unlimited supply
-\add of everything that we(inc) need\add*. And as a result, because of your relationship with Christ Jesus, he will completely
+\add of everything that we\f + \ft inclusive \f* need\add*. And as a result, because of your relationship with Christ Jesus, he will completely
 supply everything that you need. 
 \v 20  \add So\add*, praise God our Father forever and ever! Amen!
 \s Philippians 4:21-22 
 \s All of God's people here, including those who serve God with me and those who work at the emperor's palace, join me in
 greeting each one of God's people there. 
 \p
-\v 21 Greet \add for me\f + \ft Or: us \f*(exc)\add* all of God's people \add there, that is, all those who have a relationship
+\v 21 Greet \add for me\f + \ft Or: us \f*\f + \ft exclusive \f*\add* all of God's people \add there, that is, all those who have a relationship
 with\add* Christ Jesus. The fellow believers who \add serve God together\add* with me here send their greetings to you \f + \ft Or: say
 they are thinking fondly of you \f*. 
 \v 22 All of God's people \add here\add* send their greetings to you. Especially the

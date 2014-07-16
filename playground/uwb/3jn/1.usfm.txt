@@ -1,6 +1,6 @@
 \c 1  
 \p
-\v 1  \add You(sg) know me as\add* the \add chief\add* Elder. \add I am writing this letter to
+\v 1  \add You\f + \ft singular \f* know me as\add* the \add chief\add* Elder. \add I am writing this letter to
 you\add*, my dear friend Gaius, whom I truly love. 
 \v 2 Dear friend, I ask \add God that things may go\add* well for you in every way,
 \add specifically\add*, that you will be physically healthy just like you are spiritually healthy \f + \ft metonymy \f*.

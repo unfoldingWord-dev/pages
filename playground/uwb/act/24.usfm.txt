@@ -9,18 +9,18 @@ had done \add that they considered\add* wrong.
 \v 2  \add The governor commanded\add* Paul to be brought {\add a
 soldier\add* to bring Paul} in. \add When Paul arrived\add*, Tertullus began to accuse him. He said
 \add to the governor\add*, "Honorable Governor Felix, during the many years that
-you\add (sg)\add* have ruled us, we\add (exc)\add* have lived well\f + \ft Or: peacefully \f*. By planning wisely, you have improved many
+you\add \f + \ft singular \f*\add* have ruled us, we\add \f + \ft exclusive \f*\add* have lived well\f + \ft Or: peacefully \f*. By planning wisely, you have improved many
 things in this province. 
-\v 3  \add Therefore\add*, sir, we\add (exc)\add* always gratefully acknowledge everything that
+\v 3  \add Therefore\add*, sir, we\add \f + \ft exclusive \f*\add* always gratefully acknowledge everything that
 \add you have done\add* for all \add of us\add*, wherever \add you have done those
 things\add*. 
 \v 4 But, so that I will not take up too much of your time, I earnestly request that you kindly listen to me very briefly.
-\v 5 We\add (exc)\add* have observed that this man, \add wherever he
+\v 5 We\add \f + \ft exclusive \f*\add* have observed that this man, \add wherever he
 goes\add*, causes trouble. \add Specifically\add*, he causes all the Jews everywhere \f + \ft hyperbole \f* to riot.
 \add Also\add*, he leads the entire group \add whom people call\add* 'the followers of the Nazarene', a
 \add false\add* sect. 
 \v 6 He even tried to do things in the Temple \add in Jerusalem\add* that would defile it\f + \ft Or: make it unholy \f*. So we
-\add (exc)\add* seized him.\f +  \fqa Jewish law."\f* 
+\add \f + \ft exclusive \f*\add* seized him.\f +  \fqa Jewish law."\f* 
 \v 7 But Lysias, the commander at the Roman fort, came with his soldiers and forcefully took him away from us \f + \ft synecdoche \f*.
 \v 8 Lysias also commanded Paul's accusers to come here and accuse Paul before you. If you question him yourself, you will be
 able to learn that all these things about which we are accusing him are true."
@@ -30,10 +30,10 @@ they\add* told \add the governor that\add* what Tertullus had said was true.
 \s Paul disproved what they had said, but admitted that he was a Christian.
 \p
 \v 10 Then the governor motioned with \add his hand to Paul that\add* he should speak. So Paul replied. He said,
-"\add Governor Felix, I know that you(sg) have judged this Jewish\add* province for many years. Therefore I gladly defend
+"\add Governor Felix, I know that you\f + \ft singular \f* have judged this Jewish\add* province for many years. Therefore I gladly defend
 myself, confident \add that you will listen to me and will judge me
 fairly\add*. 
-\v 11 You\add (sg)\add* can \add easily\add* ascertain that it has not been more than twelve days since\f + \ft Or: only twelve days ago \f*
+\v 11 You\add \f + \ft singular \f*\add* can \add easily\add* ascertain that it has not been more than twelve days since\f + \ft Or: only twelve days ago \f*
 I went up went up to Jerusalem to worship \add God. That is not enough time to cause a lot of
 trouble\add*. 
 \v 12 No one \add can claim legitimately that they\add* saw me arguing with anyone at the Temple courts
@@ -41,7 +41,7 @@ trouble\add*.
 me\add* causing people to riot in \add any Jewish meeting place\add*, or causing trouble anywhere
 \add else\add* in \add Jerusalem city, because I did not do that\add*.
 \v 13 So they cannot prove to you the things about which they are now accusing me.
-\v 14 But I admit to you\add (sg) that this is true\add*: I do worship the God that our ancestors
+\v 14 But I admit to you\add \f + \ft singular \f* that this is true\add*: I do worship the God that our ancestors
 \add worshipped. It is true that\add* I follow the way that \add Jesus taught
 us\add*. The Jewish leaders call that a false religion\f + \ft Or: teaching \f*. I also believe everything that was written
 \add by Moses\add* {that \add Moses wrote\add*} in the laws that
@@ -60,11 +60,11 @@ to my fellow Jews \add who are\add* poor, and to offer sacrifices
 \add people\add* to riot. 
 \v 19 But it was some \add other\add* Jews \add who had come\add* from Asia
 \add province who really caused people to riot. They\add* should be here in front of
-you\add (sg)\add* to accuse me, if they thought that I \add did\add*
+you\add \f + \ft singular \f*\add* to accuse me, if they thought that I \add did\add*
 something\add wrong\add*. 
 \v 20  \add But if they\add* do not \add want to do that\add* \f + \ft Or:
 \add But because they\add* are \add not\add* here \f*, these \add Jewish\add* men who are here should tell
-you\add (sg)\add* what \add they think\add* I did that was wrong, when I
+you\add \f + \ft singular \f*\add* what \add they think\add* I did that was wrong, when I
 \add defended myself\add* before their Council. 
 \v 21  \add They might say that\add* one thing that I shouted as I stood before them
 \add was wrong. What I said\add* was, 'You are judging me today because I believe that
@@ -94,7 +94,7 @@ wished\add*.
 act\add . Paul also told him that there will be a time when God\add* will judge
 \add people\add*. Felix became alarmed \add after hearing those things.
 So\add* he said to Paul, "That is all I \add want to hear\add* now. When there is a time that is convenient I will ask
-you\add (sg)\add* to come \add to me again\add*." 
+you\add \f + \ft singular \f*\add* to come \add to me again\add*." 
 \v 26  \add Felix said that because\add* he hoped that Paul would give him some money for
 \add allowing Paul to get out of prison\add*. So he repeatedly sent for Paul to come, and Paul
 \add repeatedly went and\add* talked with him. \add But he\add* did

@@ -6,14 +6,14 @@ letter\add* to \add you\add*, Philemon, our dear \add friend\add* and fellow wor
 \v 2  \add I am also writing\add* to \add your wife\add*, Apphia, and to Archippus,
 \add who is like\add* \f + \ft metaphor \f* our fellow soldier \add because he serves Christ steadfastly together with
 us\add*. I am also \add writing this\add* to the congregation \add that
-meets\f + \ft Or: gathers \f*\add* in your\add (sg)\add* house. 
+meets\f + \ft Or: gathers \f*\add* in your\add \f + \ft singular \f*\add* house. 
 \v 3  \add I pray that\add* God our Father and our Lord Jesus Christ
 \add will continue to\add* act kindly toward you all and \add will continue
 to\add* cause you to have \add inner\add* peace. 
 \s Philemon 4-7 
 \s I thank God and rejoice greatly because you have shown that you love God's people.
 \p
-\v 4 I always thank my God when I pray for you\add (sg)\add*, because I hear
+\v 4 I always thank my God when I pray for you\add \f + \ft singular \f*\add*, because I hear
 \add people say that\add* you love all God's people \f + \ft chiasmus \f* 
 \v 5 and that you continue to trust in the Lord Jesus. 
 \v 6 I pray that as a result of your knowing all the good things
@@ -82,7 +82,7 @@ believe\add* in Christ.
 \v 22 Also, keep a guest room ready for me \add to stay in\add*, because I confidently expect that as a result of your prayers
 \add for me, I\add* will be released \add from prison and will come\add* to you all.
 \s Philemon 23-25 
-\s My other fellow workers greet you(sg). May the Lord Jesus Christ bless you(pl) spiritually.
+\s My other fellow workers greet you\f + \ft singular \f*. May the Lord Jesus Christ bless you\f + \ft plural \f* spiritually.
 \p
 \v 23 Epaphras, who is \add suffering\add* with me in prison because of
 \add his serving\add* Christ Jesus, sends his greetings to you\f + \ft Or: wants you to know that he is thinking fondly about you \f*.

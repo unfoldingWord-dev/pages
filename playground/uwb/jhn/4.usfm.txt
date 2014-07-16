@@ -27,7 +27,7 @@ with Samaritans, \f*
 \add I am surprised\add* that you are asking me for a drink \add of
 water\add*!\f + \ft Or: how is it that you are asking me for a drink \add of
 water\add*? \f* \f + \ft rhetorical question \f*" 
-\v 10 Jesus replied to her, "If you\add (sg)\add* knew what God \add wanted
+\v 10 Jesus replied to her, "If you\add \f + \ft singular \f*\add* knew what God \add wanted
 to\add* give you, and if you knew who I am, the one who is asking you for a drink, you would have asked me, and I would have
 given you water that gives life." 
 \v 11 She \add thought he was talking about\add* ordinary \add water. So
@@ -62,7 +62,7 @@ one\add*. And the man you are living with now is not your husband! What you have
 \add matter whether\add* you worship \add God our\add* Father on this mountain or in Jerusalem
 \add or somewhere else\add*. 
 \v 22 You \add people from Samaria\add* do not know the one you are worshipping. But
-we\add (exc) Jews\add* know whom we worship, because it is from \add us\add* Jews that
+we\add \f + \ft exclusive \f* Jews\add* know whom we worship, because it is from \add us\add* Jews that
 \add God has sent the one who\add* will save people \add from the guilt of their
 sins\add*. 
 \v 23 However, there will be a time when those who genuinely worship God will worship him as

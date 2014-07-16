@@ -45,7 +45,7 @@ not raised from the dead {\add he\add* did not cause Christ to become alive agai
 preached to you was useless, and your believing \add in Christ\add* is useless.
 \v 15  \add If it is true that\add* no one will be raised from the dead
 {\add that God\add* will not cause anyone to become alive again after he dies},
-we\add (exc)\add* have been guilty of lying to you about God, because we told you that God caused Christ to become alive again.
+we\add \f + \ft exclusive \f*\add* have been guilty of lying to you about God, because we told you that God caused Christ to become alive again.
 \v 16 But if it were really true that no one who has died will raised {that
 \add God will\add* not cause anyone who has died to become alive} again, then Christ was not raised
 {\add he\add* did not cause Christ to become alive} again either!
@@ -61,7 +61,7 @@ pity anyone else!
 \add God\add* has caused Christ to live again after he had died}, and that guarantees\f + \ft Or: because of that, it is certain \f* \f + \ft metaphor \f*
 that he will also cause those \add believers\add* who have died \f + \ft euphemism \f* to become alive again.
 \v 21 What one man, \add Adam, did affects us all\add*. We all die. Similarly, what one
-man—\add Christ\add*—did \add affects us(inc) all\add*: God will cause
+man—\add Christ\add*—did \add affects us\f + \ft inclusive \f* all\add*: God will cause
 \add all believers\add* to become alive again. 
 \v 22 Because of what Adam did, all \add of us who are descended\add* from him die. Similarly, because of what
 \add Christ did\add*, all of us who have a close relationship with him will be made
@@ -152,7 +152,7 @@ our natural bodies first.
 \v 49 And just like \add God\add* gave us bodies like the first man on earth had, so we
 \add believers will have bodies\add* like \add Christ\add* has, who is now in heaven.
 \p
-\v 50 My fellow believers, I want you to know that we\add (inc)\add* \f + \ft synecdoche \f* cannot go
+\v 50 My fellow believers, I want you to know that we\add \f + \ft inclusive \f*\add* \f + \ft synecdoche \f* cannot go
 \add to heaven, where\add* God rules \add over everything\add*, with our physical bodies, because our bodies
 \add cannot last forever\add*. They will die and decay. 
 \v 51 But I will tell you something that \add God\add* has not revealed

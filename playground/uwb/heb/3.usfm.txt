@@ -23,7 +23,7 @@ family\add*. And we are God's people \f + \ft metonymy \f* if we continue to con
 \p
 \v 7 The Holy Spirit \add caused the Psalmist to write these words in the Scriptures to the
 Israelites\add*: 
-\q Now, when you\add (pl)\add* hear God speaking to you \f + \ft metonymy \f*, 
+\q Now, when you\add \f + \ft plural \f*\add* hear God speaking to you \f + \ft metonymy \f*, 
 \v 8 do not stubbornly \add disobey\f + \ft Or: refuse to\add* obey \add him\add* \f* \f + \ft idiom \f*,
 \add as the your ancestors stubbornly disobeyed him\add* when they rebelled against
 \add him\add* in the desert. 
@@ -47,14 +47,14 @@ though\add* for forty years they saw all the amazing things I did.
 \v 13 Instead, each of you must encourage each other every day, while
 \add you still have\add* the opportunity \f + \ft idiom \f*, in order that no one of you may stubbornly
 \add reject God\add* by\add letting others\add* deceive you \f + \ft Or: as you deceive yourselves \f*,
-\add with the result that\add* you\add (sg)\add* sin \f + \ft personification \f*. 
-\v 14  \add We must do that\add*, because we\add (inc)\add* benefit in
+\add with the result that\add* you\add \f + \ft singular \f*\add* sin \f + \ft personification \f*. 
+\v 14  \add We must do that\add*, because we\add \f + \ft inclusive \f*\add* benefit in
 \add all\add* Christ \add has done\add* only if we firmly keep trusting
 \add in him\add* from the time when we first confidently\add trusted in
 him\add* until \add the time when\add* we die \f + \ft euphemism \f*. 
 \v 15  \add We can do this\add* by paying attention to \add what the Psalmist wrote in that Scripture passage in
 which\add* God said, 
-\q Now, when you hear me speaking\add to you(pl)\add* \f + \ft metonymy \f*, do not stubbornly disobey me as
+\q Now, when you hear me speaking\add to you\f + \ft plural \f*\add* \f + \ft metonymy \f*, do not stubbornly disobey me as
 \add your ancestors stubbornly disobeyed me\add* when they rebelled
 \add against me\add*. 
 \s Hebrews 3:16-19 
@@ -73,6 +73,6 @@ that, and whose bodies as a result lay where they died in the desert!\f + \ft Or
 \v 18 And \add you must remember\add* about whom God solemnly declared, "They will not enter the land where I would let them
 rest."\f + \ft Or: do you \add remember\add* about whom \add God\add* solemnly declared, "They will not enter the land where I
 \add would let them\add* rest"? \f* \f + \ft rhetorical question \f* It was those Israelites who disobeyed God.
-\v 19 So, from that example we\add (inc)\add* perceive that it was because they did not keep trusting
+\v 19 So, from that example we\add \f + \ft inclusive \f*\add* perceive that it was because they did not keep trusting
 \add in God\add* that they were unable to enter \add the land where they would
 rest\add*. 

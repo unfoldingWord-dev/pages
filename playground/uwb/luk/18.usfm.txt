@@ -35,14 +35,14 @@ Jerusalem\add* to pray. One was a Pharisee. The other was a tax collector.
 \add Some\add* extort money \add from others\add*; some treat others unjustly; some commit adultery.
 \add I do not do such things. And I am certainly not\add* like this tax collector
 \add who cheats people!\add* 
-\v 12  \add Our law says that we(exc) should\add* fast\f + \ft Or: abstain from food \f*
+\v 12  \add Our law says that we\f + \ft exclusive \f* should\add* fast\f + \ft Or: abstain from food \f*
 \add once a week\add*, \add but I do more than that. I\add* fast twice a week! I give
 \add you\add* ten percent of all that I earn!' 
 \v 13 But the tax collector stood far \add from the other people in the Temple courtyard because he felt very
 unworthy\add*. He would not even look up toward heaven. Instead, he beat on his chest
 \add to show that he was sorry for his sin\add*. He said, 'God, I am a sinner; be merciful to me
 \add and forgive me\add*!'" 
-\v 14  \add Then Jesus said\add*, "I tell you\add (pl)\add* that as the tax collector went home, the record of his sins was
+\v 14  \add Then Jesus said\add*, "I tell you\add \f + \ft plural \f*\add* that as the tax collector went home, the record of his sins was
 erased {\add God\add* erased the record of his sins}, not that of the Pharisee.
 \add Remember this\add*: Those who exalt themselves will be humbled
 {\add God\add* will humble all those who exalt themselves}, but those who humble themselves will be exalted
@@ -62,18 +62,18 @@ people who are\add humble and trusting\add* like they are who can experience God
 \s Jesus taught that rich people do not easily let God rule their lives.
 \p
 \v 18 A \add Jewish\add* leader asked \add Jesus\add*, "Good teacher, what shall I do in order to have eternal life?"
-\v 19 Jesus said to him, "Only God is good! No one \add else\add* is good! So you(sg) should consider carefully what
+\v 19 Jesus said to him, "Only God is good! No one \add else\add* is good! So you\f + \ft singular \f* should consider carefully what
 \add you are implying by\add* calling me good!\f + \ft Or: \add Do you realize that you are implying that I am God
 by\add* calling me good? \f* \f + \ft rhetorical question \f* 
 \p
-\v 20  \add But to answer your question\add*, you\add (sg)\add* know the commandments that
+\v 20  \add But to answer your question\add*, you\add \f + \ft singular \f*\add* know the commandments that
 \add God gave Moses. He commanded such things as\add* 'do not commit adultery, do not commit murder, do not steal, do not
 testify falsely \add about what you have seen or heard\add*, honor your father and mother.' "
 \v 21 The man said, "I have obeyed all those \add commandments\add* ever since I was young.
 \add So\add* \add there must be something else I have not done.\f + \ft Or: is that
 enough\add*? \f*" 
 \v 22 When Jesus heard \add him say\add* that, he replied to him, "There is one thing that
-you\add (sg)\add* have not \add done\add* yet. Sell all that you own. Then give
+you\add \f + \ft singular \f*\add* have not \add done\add* yet. Sell all that you own. Then give
 \add the money\add* to poor people. \add The result will be that\add* you will have
 \add spiritual\add* riches in heaven. Then come and be my disciple!"
 \v 23 The man went away sad when he heard that, because he was very rich
@@ -88,7 +88,7 @@ save others, either\add*. So \add one of the disciples\add* who heard him say th
 one will be saved {\add that God\add* will not save anyone} \f + \ft rhetorical question \f*!"
 \v 27 But he said, "It is impossible for people \add to save themselves\add*. But
 \add God can save them, because\add* God can do anything!" 
-\v 28 Then Peter said, "\add You know that we(exc) have left\add* everything we had and have become your disciples \f + \ft rhetorical question \f*.
+\v 28 Then Peter said, "\add You know that we\f + \ft exclusive \f* have left\add* everything we had and have become your disciples \f + \ft rhetorical question \f*.
 \add So what about us?\add* (OR\add , So will God accept\f + \ft Or: save \f* us?\add*")
 \v 29 He said to them, "Keep this in mind: Those who have left \add their\add* homes,
 \add their\add* wives, \add their\add* brothers, \add their\add* parents,
@@ -101,7 +101,7 @@ lives\add*,
 \s Jesus again predicted his death and resurrection. 
 \p
 \v 31  \add Jesus\add* took the twelve \add disciples\add* to a place by themselves and said to them, "Listen carefully!
-We\add (inc)\add* are \add now\add* going up to Jerusalem. \add While we are
+We\add \f + \ft inclusive \f*\add* are \add now\add* going up to Jerusalem. \add While we are
 there\add*, everything that has been written by the prophets {that the prophets have written} about
 \add me\add*, the one who came from heaven, will be fulfilled {will occur}.
 \v 32 I will be put {\add My enemies\add* will put me} into the hands of non-Jews.
@@ -125,7 +125,7 @@ there\add*, everything that has been written by the prophets {that the prophets 
 \add Messiah\add* descended from \add King\add* David, pity me!"
 \v 40 Jesus stopped and told \add people\add* to bring the man to him. When
 \add the blind man\add* came near, Jesus asked him, 
-\v 41 "What do you\add (sg)\add* want me to do for you?" He replied, "Lord, enable me to see
+\v 41 "What do you\add \f + \ft singular \f*\add* want me to do for you?" He replied, "Lord, enable me to see
 \add again\add*!" 
 \v 42 Jesus said to him, "\add Then\add* see! Because you have trusted \f + \ft personification \f*
 \add in me\add*, \add I\add* have healed you!" 

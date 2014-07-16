@@ -53,7 +53,7 @@ Judah,\add*
 \q2 I am the one you should fear, 
 \q2 the one you should revere. 
 \q
-\v 14 I will protect you(sg). 
+\v 14 I will protect you\f + \ft singular \f*. 
 \q But as for the other people \f + \ft metonymy \f* in Israel and Judah, 
 \q2 I will be like \f + \ft metaphor \f* a stone that causes people to stumble, 
 \q2 like a rock that causes them to fall down. 
@@ -78,7 +78,7 @@ Judah,\add*
 \q2 we are warnings from the Almighty Commander of the armies of angels
 \q2 the one who lives in his temple on Zion Hill \add in Jerusalem\add*.
 \p
-\v 19 Some people may urge you(pl) to consult\f + \ft Or: go and talk with \f* those who talk with the spirits of dead people or with those
+\v 19 Some people may urge you\f + \ft plural \f* to consult\f + \ft Or: go and talk with \f* those who talk with the spirits of dead people or with those
 who say that they receive messages from those spirits. They whisper and mutter
 \add about what we should do in the future\add*. But God is \f + \ft rhetorical question \f* the one whom we should ask to guide us! It is ridiculous
 \f + \ft rhetorical question \f* for people who are alive to request spirits of dead people to tell us

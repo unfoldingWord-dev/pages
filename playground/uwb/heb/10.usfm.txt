@@ -16,7 +16,7 @@ sacrifices? \f* \f + \ft rhetorical question \f*
 \p
 \v 5 So, as \add Christ\add* was coming into the world, he said \add to his Father about offering himself as a sacrifice for
 people's sin, in words that the Psalmist wrote\add*, 
-\q It is not sacrifices and offerings that you\add (sg)\add* have wanted,
+\q It is not sacrifices and offerings that you\add \f + \ft singular \f*\add* have wanted,
 \q but you have prepared for me a body \add to serve you\add*. 
 \q
 \v 6 Animals that are completely burned up as sacrifices have not pleased you,
@@ -85,7 +85,7 @@ presence\add*.
 longer are \add guilty for having done\add* evil. \add Just like the priests
 ceremonially\add* washed their bodies with pure water \add to prepare themselves to serve
 God\add*, we are allowing \add God\add* to continually make us pure. So,
-we\add (inc)\add* must approach \add God\add* sincerely by confidently trusting
+we\add \f + \ft inclusive \f*\add* must approach \add God\add* sincerely by confidently trusting
 \add in him\add*. 
 \v 23 We must unwaveringly keep professing \add what we believe. Since
 God\add* faithfully \add does all\add* he promised \add to do\add*, we must confidently expect
@@ -100,7 +100,7 @@ Lord\add*, as some people have done. Instead, each one of us must encourage\f + 
 \s Hebrews 10:26-31 
 \s If we have known and then rejected the message about Christ, God will surely punish us.
 \p
-\v 26  \add We(inc) must do those things\add*, because if we deliberately and habitually sin after we have known the true
+\v 26  \add We\f + \ft inclusive \f* must do those things\add*, because if we deliberately and habitually sin after we have known the true
 \add message about Christ\add*, no other sacrifice will remove our guilt for having sinned in this way.
 \v 27 Instead, we must fearfully expect that \add God will\add* judge us, and then he will angrily
 \add punish\add* his enemies in a furious fire \f + \ft metaphor \f*. 

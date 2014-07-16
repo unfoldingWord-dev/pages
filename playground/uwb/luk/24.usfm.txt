@@ -38,7 +38,7 @@ kilometers \f* from Jerusalem.
 \v 16 But they were prevented {\add something\add* prevented them} from recognizing \f + \ft metonymy \f* him.
 \v 17  \add Jesus\add* said to them, "What have you two been talking about while you were walking?" They stopped, and their
 faces looked very sad. 
-\v 18 One of them, whose name was Cleopas, said, "You\add (sg)\add* must be the only person who is visiting Jerusalem
+\v 18 One of them, whose name was Cleopas, said, "You\add \f + \ft singular \f*\add* must be the only person who is visiting Jerusalem
 \add for the Passover festival\add* who does not know the events that have happened there in recent days!\f + \ft Or: Are you the only
 person who is visiting Jerusalem \add for the Passover festival\add* who does not know the events that have happened there in
 recent days? \f* \f + \ft rhetorical question \f*" 
@@ -48,7 +48,7 @@ happened\add* to Jesus, \add the man\add* from Nazareth, who was a prophet. Many
 \add messages!\add* 
 \v 20 But our chief priests and leaders handed him over \add to the Roman authorities. The
 authorities\add* sentenced him to die, and they killed him by nailing him to a cross.
-\v 21 We\add (exc)\add* were hoping that he was the one who would free
+\v 21 We\add \f + \ft exclusive \f*\add* were hoping that he was the one who would free
 \add us\add* Israelites \add from our enemies\add*! But \add this does not seem possible now,
 because\add* three days have \add already\add* passed since that happened.
 \v 22 On the other hand, some women from our group amazed us. Early this morning they went to the tomb,
@@ -76,7 +76,7 @@ to\add* bless it. He broke it and gave \add some pieces\add* to them.
 \v 31 And then \add God\add* enabled them to recognize \f + \ft metonymy \f* him. But
 \add immediately\add* he disappeared! 
 \v 32 They said to each other, "\add While we were walking\add* along the road and he talked with us and
-\add enabled\add* us\add (exc)\add* to understand the Scriptures, we
+\add enabled\add* us\add \f + \ft exclusive \f*\add* to understand the Scriptures, we
 \add became so excited that it was as though\add* \f + \ft metaphor \f* a fire was burning within us \f + \ft rhetorical question \f*!
 \add We should not stay here; we should go tell others what happened!\add*"
 \v 33 So they left immediately and returned to Jerusalem. There they found the eleven

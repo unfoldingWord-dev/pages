@@ -3,7 +3,7 @@
 \s Paul and other prisoners sailed from Caesarea to Crete. 
 \p
 \v 1 When \add the Governor and those who advised him\add* decided that it was time for
-us\add (exc)\add* to get on a ship and go to Italy, they put Paul and some other prisoners into the hands\f + \ft Or: care \f* of an army
+us\add \f + \ft exclusive \f*\add* to get on a ship and go to Italy, they put Paul and some other prisoners into the hands\f + \ft Or: care \f* of an army
 captain whose name was Julius. \add He was the one who would guard us on the
 journey\add*. Julius was \add an officer\add* in charge of \add a group
 of\add* a hundred \add soldiers that people called\add* 'the Emperor Augustus Group.'
@@ -16,7 +16,7 @@ ship\add* was going to \add return there, stopping at\add* cities along the coas
 \add who lived there\add*, so that they could give him whatever he might need.
 \add So Paul visited the believers there\add*. 
 \v 4 Then the ship left \add Sidon\add*, but the winds were blowing against
-us\add (exc)\add*, so \add the ship\add* went along \add the north\add* side of Cyprus
+us\add \f + \ft exclusive \f*\add*, so \add the ship\add* went along \add the north\add* side of Cyprus
 \add Island\add*, the side that is sheltered \add from the wind\add*.
 \v 5 After that, we crossed over the sea close to the coast of Cilicia and Pamphylia
 \add provinces. The ship\add* arrived at Myra \add city, which is\add* in Lycia
@@ -36,16 +36,16 @@ Lasea town.
 \s Acts 27:9-20 
 \s Paul warned them not to travel on, but the ship's officials decided to go on anyway.
 \p
-\v 9 Much time had passed, so it would have been dangerous if we\add (exc)\add* had traveled
+\v 9 Much time had passed, so it would have been dangerous if we\add \f + \ft exclusive \f*\add* had traveled
 \add farther\add* by ship \add because after that time of the year\add* \f + \ft metonymy \f*
 \add the sea often became very stormy\add*. So Paul said to the men
 \add on the ship\add*, 
-\v 10 "Men, I perceive that \add if we(inc) travel by ship\add* now, it will be disastrous for us. A storm may destroy the ship
+\v 10 "Men, I perceive that \add if we\f + \ft inclusive \f* travel by ship\add* now, it will be disastrous for us. A storm may destroy the ship
 and the cargo, and possibly we will drown." 
 \v 11 But the officer \add did not listen to\add* what Paul said. Instead, he decided to do what the pilot
 \add of the ship\add* and the owner of the ship advised. 
 \v 12 The harbor where the ship had stopped was not a good place to remain during the winter
-\add when the weather frequently becomes stormy. So most of the people on the ship decided that we(exc) should leave there,
+\add when the weather frequently becomes stormy. So most of the people on the ship decided that we\f + \ft exclusive \f* should leave there,
 because they hoped that we\add* could stay at Phoenix \add port\add* during the winter, if we could possibly arrive there. That
 harbor was open to the sea in two directions, \add but the strong winds did not blow
 there\add*. 
@@ -77,26 +77,26 @@ lighter\add*.
 \v 20 The wind continued to blow very strongly, \add and the sky was full of dark
 clouds\add* day and night. We could not see the sun or the stars for many days,
 \add so we could not determine where we were. And the wind\add* continued to blow violently. So
-we\add (exc)\add* finally thought that we would drown in the sea.
+we\add \f + \ft exclusive \f*\add* finally thought that we would drown in the sea.
 \s Acts 27:21-26 
 \s Paul told them that an angel from God said that they would all survive.
 \p
 \v 21 None of us on the ship had eaten for many days. \add Then one
 day\add*, Paul stood up in front of us and said, "\add Friends\add*, you should have listened to me
-\add when I said\add* that we\add (inc)\add* should not sail from Crete. Then we would have been safe, and the ship and its
+\add when I said\add* that we\add \f + \ft inclusive \f*\add* should not sail from Crete. Then we would have been safe, and the ship and its
 cargo would be in good condition \f + \ft litotes \f*. 
 \v 22 But now, I urge you, do not be afraid, because none of us will die.
 \add The storm\add* will destroy the ship but not us. 
 \v 23 I \add know this\add*, because last night God, the one to whom I belong and whom I serve,
 \add sent\add* an angel \add who came and\add* stood by me. 
-\v 24 The angel said to me, 'Paul, do not be afraid! You\add (sg)\add* must
+\v 24 The angel said to me, 'Paul, do not be afraid! You\add \f + \ft singular \f*\add* must
 \add go to Rome\add* and stand before the Emperor there \add so that he can judge
 you\add*. I want you to know that God has granted to you \add that\add* all those who are traveling by ship with you
 \add will also survive\add*.' 
 \v 25 So cheer up, \add my\add* friends, because I believe that God will make this happen, exactly as
 \add the angel\add* told me. 
 \v 26 However, \add the ship\add* will crash on some island, \add and\add*
-we\add (inc)\add* will go ashore \add there\add*." 
+we\add \f + \ft inclusive \f*\add* will go ashore \add there\add*." 
 \s Acts 27:27-32 
 \s Paul thwarted some sailors who tried to sneak ashore in the lifeboat.
 \p
@@ -121,18 +121,18 @@ saved."
 \p
 \v 33 Just before dawn, Paul urged everyone\add on the ship\add* to eat some food. He said, "For the past fourteen days you
 have been waiting and watching and not eating anything. 
-\v 34 So, \add now\add* I urge you to eat some food. We\add (inc)\add* need to do that in order to stay alive. I
+\v 34 So, \add now\add* I urge you to eat some food. We\add \f + \ft inclusive \f*\add* need to do that in order to stay alive. I
 \add tell you to do that because I know that\add* none of you will drown \f + \ft idiom \f*."
 \v 35 After Paul had said that, while everyone was watching, he took some bread and thanked God
 \add for it. Then he broke the bread and began to eat some of it\add*.
-\v 36 The \add rest of us\add* became encouraged, so we\add (exc)\add* all ate some food.
+\v 36 The \add rest of us\add* became encouraged, so we\add \f + \ft exclusive \f*\add* all ate some food.
 \v 37 Altogether there were 276 of us \f + \ft synecdoche \f* on the ship. 
 \v 38 When everyone had eaten as much as they wanted, they threw the grain
 \add that the ship was carrying\add* into the sea, and this made the ship lighter.
 \s Acts 27:39-41 
 \s The waves began to break up the ship after it struck a shoal.
 \p
-\v 39 At dawn, \add we(exc) could see\add* land, \add but the sailors\add* did not recognize
+\v 39 At dawn, \add we\f + \ft exclusive \f* could see\add* land, \add but the sailors\add* did not recognize
 \add the place\add*. However, they could see that there was a bay and
 \add a wide area of\add* sand at the water's edge. They planned that, if it was possible, they would steer the ship onto
 \add the beach\add*. 
@@ -155,4 +155,4 @@ escape\add*.
 \v 43 But \add Julius\add*, the army captain, wanted to save Paul, so he stopped the soldiers from doing what they planned to
 do. Instead, he \add commanded\add* first that everyone who could swim should jump into the water and swim to land.
 \v 44  \add Then he told\add* the others \add to hold\add* on to planks or pieces from the ship
-\add and go towards shore. We(exc) did what he said, and\add* in that way all of us arrived safely on land.
+\add and go towards shore. We\f + \ft exclusive \f* did what he said, and\add* in that way all of us arrived safely on land.

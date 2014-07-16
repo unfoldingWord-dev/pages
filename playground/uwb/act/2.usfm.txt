@@ -25,7 +25,7 @@ hearing \add one of\add* the believers speaking in that person's own language.
 \v 7 They were completely amazed, and they said \add to each other\add*, "All these men who are speaking have \f + \ft rhetorical question \f*
 \add always\add* resided in Galilee \add district, so they would not know our
 languages\add*. 
-\v 8 \add We(inc) do not understand\add* how these men can speak our own native languages!\f + \ft Or: How can these men speak our own
+\v 8 \add We\f + \ft inclusive \f* do not understand\add* how these men can speak our own native languages!\f + \ft Or: How can these men speak our own
 native languages? \f* \f + \ft rhetorical question \f* \add But\add* all of us hear them \add doing
 that\add*! 
 \v 9  \add Some of us are from the regions of\add* Parthia and Media and Elam, and
@@ -47,7 +47,7 @@ Jesus\add*. They said, "\add These people are talking like this because\add* the
 \v 14 So Peter stood up with the \add other\add* eleven \add apostles\add* and spoke loudly to the
 \add crowd of\add* people, saying, "\add My\add* fellow Jews and you
 \add others\add* who are staying in Jerusalem, listen to me, all of you, and I will explain to you what is happening!
-\v 15  \add Some of\add* you think that \add we(exc) are drunk\add*, but we are not drunk. It is
+\v 15  \add Some of\add* you think that \add we\f + \ft exclusive \f* are drunk\add*, but we are not drunk. It is
 \add only\add* nine o'clock in the morning, \add and people here never get drunk at this
 time\add* in the day! 
 \v 16 Instead, \add what has happened to us is\add* the \add miraculous\add* thing that the prophet Joel wrote about
@@ -93,7 +93,7 @@ him \f + \ft personification \f* to remain dead. God caused him to become alive 
 \p I knew \add that\add* you, Lord \add God, would always\add* near me. You are right beside \f + \ft metonymy \f* me, so I will not be afraid
 of \add those who want to harm me\add*. 
 \v 26 Because of that I \f + \ft synecdoche \f* joyfully praise \add you, O God\add*. And I am completely confident that
-\add you(sg) will\add* \add cause my body\add* to become alive \add again\add*\f + \ft Or: \add raise me from the
+\add you\f + \ft singular \f* will\add* \add cause my body\add* to become alive \add again\add*\f + \ft Or: \add raise me from the
 dead\add* \f*. 
 \v 27 You will not allow my spirit to remain in the place where the dead are. You will not
 \add even\add* let my body decay, \add because\add* I am devoted to you and always obey
@@ -108,7 +108,7 @@ dead\add* \f*.
 \add our royal\add* ancestor, \add King\add* David, died, and that his
 \add body\add* was buried {that \add people\add* buried his \add body\add*}. And the place
 \add where they\add* buried his body is \add still\add* here today.
-\v 30 So \add we(inc) know that David was not speaking those words about himself.
+\v 30 So \add we\f + \ft inclusive \f* know that David was not speaking those words about himself.
 But\add* because he was a prophet, \add he spoke about the Messiah\add*. David knew that God had strongly promised him that he
 would cause one of his descendants to become king \f + \ft metonymy \f* like David was king. \f + \ft Or: to
 \add be the Messiah who would\add* rule \add God's people\add* like David had ruled
@@ -120,13 +120,13 @@ died\add*. He said that God would not let the Messiah remain in the place of the
 \s Peter said, "Jesus has abundantly given us the Holy Spirit, shown by what you see and hear."
 \p
 \v 32 "\add After\add* this \add man\add* Jesus \add had died\add*, God caused him to become alive
-\add again\add*. All of us(exc), \add his followers\add*, have seen
+\add again\add*. All of us\f + \ft exclusive \f*, \add his followers\add*, have seen
 \add and tell people\add* that Jesus has become alive again. 
 \v 33 God has greatly honored Jesus \add by causing him to rule\add* right beside him \f + \ft metonymy \f*
 \add in heaven\add*. Jesus has received the Holy Spirit from \add God\add* his Father,
 \add just like\add* God promised. \add So\add* Jesus has generously\f + \ft Or: abundantly \f* given us the Holy Spirit,
 \add and he has shown that by\add* what you are seeing and hearing.
-\v 34  \add We(inc) know that David was not speaking about himself\add* because David did not go up into heaven
+\v 34  \add We\f + \ft inclusive \f* know that David was not speaking about himself\add* because David did not go up into heaven
 \add as Jesus did\add*. \add Besides that\add*, David himself said
 \add this about the Messiah\add*: 
 \q The Lord \add God\add* said to my Lord \add the Messiah\add*, 'Reign here beside me,
@@ -142,11 +142,11 @@ that\add* you are the ones who nailed Jesus to a cross."
 \s Peter told them to repent, and said that believers would baptize them.
 \p
 \v 37 When the people heard what \add Peter's said\add*, they felt very guilty \f + \ft idiom \f*. So they asked him and the other apostles,
-"Fellow-countrymen, what should we\add (exc)\add* do \add so that God will forgive
+"Fellow-countrymen, what should we\add \f + \ft exclusive \f*\add* do \add so that God will forgive
 us\add*?" 
 \p
 \v 38 Peter \add answered\add* them, "Each of you should turn away from your sinful behavior. Then
-\add we(exc)\add* will baptize you, if \add you now believe\add* in Jesus Christ. Then
+\add we\f + \ft exclusive \f*\add* will baptize you, if \add you now believe\add* in Jesus Christ. Then
 \add God\add* will give you the Holy Spirit. 
 \v 39  \add God\add* has promised \add to do that\add* \f + \ft metonymy \f* for you and your descendants, and for all
 \add others who believe in him\add*, even those who \add live\add* far away

@@ -9,13 +9,13 @@ there\add* \f + \ft synecdoche \f* began to grumble, saying, "This man welcomes 
 \add defiles himself by eating\add* with them!" 
 \v 3 So Jesus told them this parable: 
 \v 4 "Suppose that one of you had a hundred sheep. If one of them were lost,
-you\add (sg)\add* would certainly leave the ninety-nine sheep in the pastureland, and go and search for the one lost sheep
+you\add \f + \ft singular \f*\add* would certainly leave the ninety-nine sheep in the pastureland, and go and search for the one lost sheep
 until you found it.\f + \ft Or: would you not leave the ninety-nine sheep in the pastureland, and go and search for the one lost sheep
 until you found it? \f* \f + \ft rhetorical question \f* 
-\v 5 When you\add (sg)\add* found it, you would lay it on your shoulders and be happy.
+\v 5 When you\add \f + \ft singular \f*\add* found it, you would lay it on your shoulders and be happy.
 \v 6 When you brought it home, you would call together your friends and neighbors and say to them, 'Be happy with me, because I
 have found my sheep that was lost!' 
-\v 7 I tell you\add (pl)\add* that similarly\add God\add* will be very happy about each and every sinner who turns from doing
+\v 7 I tell you\add \f + \ft plural \f*\add* that similarly\add God\add* will be very happy about each and every sinner who turns from doing
 evil. God does not \add need to\add* be happy about ninety-nine people who
 \add think that they\add* are \f + \ft irony \f* righteous and think that they do not need to turn from doing evil.
 \p
@@ -31,7 +31,7 @@ just\add* one sinner who turns from doing evil."
 \p
 \v 11 Then \add he told them this parable to compare what the Pharisees and teachers of the Jewish law thought about those who
 turn from their sinful behavior with what God thinks about such people\add*. He said, "A certain man had two sons.
-\v 12 One day the younger son said to his father, 'Father, \add I do not want to wait until you(sg)
+\v 12 One day the younger son said to his father, 'Father, \add I do not want to wait until you\f + \ft singular \f*
 die\add*. Give me now the share of your property that belongs to me!' So the man divided his property between his two sons.
 \v 13 A few days later, the younger son \add sold his share\add*. He gathered his money and other things together and went to a
 country far away. There he spent all his money foolishly in reckless\f + \ft Or: wild \f* living.
@@ -44,7 +44,7 @@ him anything.
 \v 17 Finally he thought clearly about what he had done. He said to himself, 'All of my father's hired servants have plenty of
 food! They have more \f + \ft synecdoche \f* than they can eat, but here I am dying because I do not have anything to eat \f + \ft hyperbole \f*!
 \v 18 So I will leave here and go back to my father. I will say to him, "Father, I have sinned against God \f + \ft metonymy, euphemism \f* and
-against you\add (sg)\add*. 
+against you\add \f + \ft singular \f*\add*. 
 \v 19 I am no longer worthy to be called {of \add you\add* calling me} your son. Just hire me to be like one of the other hired
 servants."' 
 \v 20 So he left there and went back to his father's house. But while he was still some distance from the house, his father saw
@@ -57,7 +57,7 @@ him. He pitied him. He ran to his son and embraced him and kissed him
 \add to show that I am honoring him again as my son!\add* Put sandals on his feet
 \add to show that I do not consider him as a slave!\add* 
 \v 23 Then bring the fat calf and kill it \add and cook it\add*!
-We\add (inc)\add* must eat and celebrate, 
+We\add \f + \ft inclusive \f*\add* must eat and celebrate, 
 \v 24 because this is my son! \add It is as though\add* \f + \ft metaphor \f* he was dead and is alive again!
 \add It is as though\add* he was lost and now has been found!' So they did that, and they all began to celebrate.
 \p

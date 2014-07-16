@@ -31,7 +31,7 @@ soldiers to execute Peter\add*.
 said, "Get up quickly!" \add While Peter was getting up\add*, the chains fell off from his wrists.
 \add However, the soldiers were not aware of what was happening\add*.
 \v 8 Then the angel said to him, "Put on your clothes and sandals!" So Peter did. Then the angel said to him, "Fasten your
-belt\f + \ft Or: girdle \f* \add around you(sg)\add* and put on your sandals!" So Peter did that. Then the angel told him, "Wrap your cloak
+belt\f + \ft Or: girdle \f* \add around you\f + \ft singular \f*\add* and put on your sandals!" So Peter did that. Then the angel told him, "Wrap your cloak
 around you and follow me!" 
 \v 9 So, \add after Peter put on his cloak and sandals\add*, he followed
 \add the angel\add* out \add of the prison cell\add*, but he had no idea that what the angel was doing was really happening. He
@@ -58,7 +58,7 @@ name was Mark. Many \add believers\add* had assembled there, and they were prayi
 \add and excited\add* that she did not open the door! Instead, she ran back
 \add into the house\add*. She \add excitedly\add* announced \add to the other
 believers\add* that Peter was standing outside the door. 
-\v 15 But \add one of\add* them said to her, "You\add (sg)\add* are crazy!" But she continued saying that it was
+\v 15 But \add one of\add* them said to her, "You\add \f + \ft singular \f*\add* are crazy!" But she continued saying that it was
 \add really true. Then\add* they repeatedly said, "\add No\add*,
 \add it cannot be Peter\add*. It is \add probably\add* the angel
 \add who was guarding\add* him\add who has come\add* \f + \ft Or: It is the angel

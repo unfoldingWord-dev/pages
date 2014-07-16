@@ -44,8 +44,8 @@ king\f + \ft Or: have complete control \add over people's lives\add* \f*. He als
 the people so that they can go to the surrounding villages and other places where they can get some food and find places to
 stay." 
 \v 13 But he said to them, "\add No\add*, you \add yourselves\add* give them something to eat!" They replied,
-"We\add (exc)\add* have only five small loaves and two \add cooked\add* fish. Are
-you\add (sg)\add* going to \add give\add* us \add the money\add* to go somewhere and buy food for all these people?"
+"We\add \f + \ft exclusive \f*\add* have only five small loaves and two \add cooked\add* fish. Are
+you\add \f + \ft singular \f*\add* going to \add give\add* us \add the money\add* to go somewhere and buy food for all these people?"
 \v 14 There were about five thousand men \add there\add*. He replied to the disciples,
 "\add No\add*, \add just\add* tell the people to sit down. Tell them to sit in groups, with about fifty people in each group."
 \v 15 After they told the people that, they all sat down. 
@@ -64,8 +64,8 @@ them to the crowd.
 \add the prophet\add* Elijah, \add who has returned from heaven as God
 promised\add*. Others say that you are one of the \add other\add* prophets who lived long ago, who has come back to life
 again." 
-\v 20 He asked them, "What about you\add (pl)\add*? Who do you say that I am?" Peter replied,
-"You\add (sg)\add* are the Messiah, who \add has come from\add* God."
+\v 20 He asked them, "What about you\add \f + \ft plural \f*\add*? Who do you say that I am?" Peter replied,
+"You\add \f + \ft singular \f*\add* are the Messiah, who \add has come from\add* God."
 \v 21 Then Jesus warned them strongly not to tell that to anyone
 \add yet\add*. 
 \v 22 Then he said, "\add Even though I am\add* the one who came from heaven, it is necessary that I suffer very much. It is
@@ -91,7 +91,7 @@ get eternal life by \add becoming my disciples\add*!\f + \ft Or: are they really
 \v 26 Those who reject my message\add and\add* refuse to say that
 \add they belong\add* to me, \add I\add*, the one who came from heaven, will also refuse to say that
 \add they belong to me\add* when I come back with the holy angels, and have the glorious brightness that my Father has.
-\v 27 But listen carefully! Some of you\add (pl)\add* who are here now will see God ruling \f + \ft metaphor \f*
+\v 27 But listen carefully! Some of you\add \f + \ft plural \f*\add* who are here now will see God ruling \f + \ft metaphor \f*
 \add in many powerful ways\add*. You will see it before you die!"
 \s Luke 9:28-36 
 \s Jesus talked with Moses and Elijah. 
@@ -132,7 +132,7 @@ violently and causes him to foam at the mouth. It does not leave until my child 
 anything\add*! What you \add think\add* is perverted! How long must I be with you
 \add before you are able to do what I do\add* \f + \ft rhetorical question \f*? \add How long must
 I\add* endure your \add lack of faith\add*?" \add Then he said to the boy's
-father\add*, "Bring your\add (sg)\add* son here \add to me\add*!"
+father\add*, "Bring your\add \f + \ft singular \f*\add* son here \add to me\add*!"
 \v 42 While they were bringing the boy to Jesus, the demon attacked the boy, threw him to the ground, and shook him severely.
 But Jesus rebuked the evil spirit and healed the boy. Then he returned him to his father's
 \add care\add*. 
@@ -162,7 +162,7 @@ considers\add* to be great."
 \s Luke 9:49-50 
 \s Jesus told them not to forbid others from expelling demons. 
 \p
-\v 49 John replied to \add Jesus\add*, "Master, we\add (exc)\add* saw a man who was expelling demons,
+\v 49 John replied to \add Jesus\add*, "Master, we\add \f + \ft exclusive \f*\add* saw a man who was expelling demons,
 \add claiming\add* that \add he had\add* authority from you \f + \ft metonymy \f* to do that. So we told him to stop doing it, because he is
 not one of us \add disciples\add*." 
 \v 50 But Jesus said to him \add and the other disciples\add*, "Do not tell him not to
@@ -179,7 +179,7 @@ not one of us \add disciples\add*."
 worship God. So\add*, because Jesus had firmly resolved to go to Jerusalem, they would not let him come
 \add to their village\add*. 
 \v 54 When two of his disciples, James and John, heard about that, they said, "Lord, do
-you\add (sg)\add* want us\add (exc)\add* to pray that \add God\add* will send fire down from heaven,
+you\add \f + \ft singular \f*\add* want us\add \f + \ft exclusive \f*\add* to pray that \add God\add* will send fire down from heaven,
 \add as the prophet Elijah did long ago\add*, and destroy those people?"
 \v 55 But Jesus turned and rebuked them \add for saying that\add*.
 \v 56 So they went to a different village. 
@@ -187,7 +187,7 @@ you\add (sg)\add* want us\add (exc)\add* to pray that \add God\add* will send fi
 \s Jesus told three people what it would cost them if they became his disciples.
 \p
 \v 57 As Jesus and the disciples were walking along the road, one man said to him, "I will go with
-you\add (sg)\add* wherever you go!" 
+you\add \f + \ft singular \f*\add* wherever you go!" 
 \v 58  \add In order that the man might know what he could expect if he went with
 him\add*, Jesus said to him, "Foxes have holes \add in the ground in which to
 live\add*, and birds have nests, but \add even though I am\add* the one who came from heaven, I do not have a home where I can

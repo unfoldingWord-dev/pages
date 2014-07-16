@@ -6,7 +6,7 @@
 message\add about the Lord Jesus\add*. Many of those who heard what they taught wrote down for us accounts of the things that
 \add Jesus did from the time when\add* he began\add his ministry\add*.
 \v 3 I myself have studied carefully these accounts. So I decided that it would be good for me also to write for
-you\add (sg)\add* an accurate account of these matters. 
+you\add \f + \ft singular \f*\add* an accurate account of these matters. 
 \v 4 I want you to know the truth about what you have been taught {what others have taught you}.
 \s Luke 1:5-25 
 \s An angel told Zechariah that his wife Elizabeth would bear a son, John.
@@ -28,7 +28,7 @@ Jerusalem\add*, and he was serving as a priest in God's presence.
 \add where the priests burned\add* incense. 
 \v 12 When Zechariah saw the angel, he was startled and became very afraid.
 \v 13 But the angel said to him, "Zechariah, do not be afraid! When
-you\add (sg)\add* prayed \add asking God for a son\add* \f + \ft Or: \add that God would send the
+you\add \f + \ft singular \f*\add* prayed \add asking God for a son\add* \f + \ft Or: \add that God would send the
 Messiah\add* \f*, God heard what you prayed. \add So\add* your wife Elizabeth shall bear a son for you. You must name him John.
 \v 14 He will cause you to be very happy, and many other people will also be happy because he is born.
 \v 15 God will consider him to be very important. He must never drink wine or any other alcoholic drink,
@@ -45,12 +45,12 @@ control him} from before he is born.
 \p
 \v 18 Then Zechariah said to the angel, "I am very old, and my wife is also so old
 \add that she cannot bear a child. So\add* I cannot \add believe\add* that what
-you\add (sg)\add* said \add will happen\add*!\f + \ft Or: how can I \add believe\add* that what
-you\add (sg)\add* said \add will happen\add*? \f* \f + \ft rhetorical question \f*" 
+you\add \f + \ft singular \f*\add* said \add will happen\add*!\f + \ft Or: how can I \add believe\add* that what
+you\add \f + \ft singular \f*\add* said \add will happen\add*? \f* \f + \ft rhetorical question \f*" 
 \p
 \v 19 Then the angel said to him, "I am \add God's chief angel\add*, Gabriel!
 \add I do what God tells me, because\add* I constantly stand in God's presence! I was sent
-{\add He\add* sent me} to tell you\add (sg)\add* this good message
+{\add He\add* sent me} to tell you\add \f + \ft singular \f*\add* this good message
 \add about what will happen to you\add*. 
 \v 20 What I have told you will certainly happen at the time \add God
 decides\add*, but you did not believe my words. So now \add God will
@@ -81,12 +81,12 @@ sent the angel Gabriel} \add again\add*.
 \add district\add*, to a virgin whose name was Mary. It had been
 {\add Her parents\add* had} promised that she would marry a man named Joseph, who was descended from
 \add King\add* David. 
-\v 28 The angel said to her, "Greetings! The Lord\f + \ft Or: God \f* is with you\add (sg)\add* and you will be greatly blessed
+\v 28 The angel said to her, "Greetings! The Lord\f + \ft Or: God \f* is with you\add \f + \ft singular \f*\add* and you will be greatly blessed
 {\add has decided to\add* greatly bless you}!" 
 \v 29 But Mary was greatly confused \add when she heard\add* that. She wondered what
 \add the angel meant\add* by these words. 
 \v 30 Then the angel said to her, "Mary, God is very pleased with
-you\add (sg)\add*, so do not be afraid. 
+you\add \f + \ft singular \f*\add*, so do not be afraid. 
 \v 31 You will become pregnant and bear a son, and you must name him Jesus.
 \v 32 He will become great. He will be called {\add People will\add* call him} the Son of God\f + \ft Or: the man who is also God \f*. God,
 the Lord, will make him a king \f + \ft metonymy \f* as his ancestor \add King\add* David was.
@@ -95,7 +95,7 @@ the Lord, will make him a king \f + \ft metonymy \f* as his ancestor \add King\a
 \p
 \v 34 Then Mary said to the angel, "I am a virgin, so how can I \add have a
 baby\add*?" 
-\v 35 The angel replied, "The Holy Spirit will come to you\add (sg)\add* and the power of God [MTY\f + \ft Or: EUP \f*] will be on you
+\v 35 The angel replied, "The Holy Spirit will come to you\add \f + \ft singular \f*\add* and the power of God [MTY\f + \ft Or: EUP \f*] will be on you
 \add to enable you to become pregnant\add*. So the child \add you
 will\add* bear will be completely set apart {give himself completely} to obey God, and he will be called
 {\add people\add* will say that he is} the Son of God\f + \ft Or: the man who is also God \f*.
@@ -104,7 +104,7 @@ will\add* bear will be completely set apart {give himself completely} to obey Go
 \add pregnant\add* \f + \ft euphemism \f* \add for almost\add* six months, and will bear a son!
 \v 37  \add You should not be surprised at that\add*, because God can do everything!"
 \v 38 Then Mary said, "All right, I want to serve the Lord\f + \ft Or: God \f*, so may what
-you\add (sg)\add* have said about me come true!" Then the angel left her.
+you\add \f + \ft singular \f*\add* have said about me come true!" Then the angel left her.
 \s Luke 1:39-45 
 \s Mary visited Elizabeth. 
 \p
@@ -181,7 +181,7 @@ that\add* God would be helping him \f + \ft synecdoche \f* \add in a powerful wa
 \v 67  \add After\add* Zechariah's \add son was born\add*, Zechariah was completely directed by the Holy Spirit {the Holy
 Spirit completely directed Zechariah} as he spoke these words that came from God:
 \q
-\v 68 Praise the Lord, the God whom we(inc) people of Israel worship,
+\v 68 Praise the Lord, the God whom we\f + \ft inclusive \f* people of Israel worship,
 \q because he has come to set us, his people, free from our enemies.
 \q
 \v 69 He is sending us someone who will powerfully \f + \ft metonymy \f* save us,

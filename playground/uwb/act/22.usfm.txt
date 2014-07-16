@@ -29,31 +29,31 @@ people\add* as prisoners to Jerusalem, so that they would be punished here
 \v 6 About noon, I and my companions were getting near Damascus. Suddenly a bright light from the sky flashed all around me.
 \v 7  \add The light was so bright that\add* I fell to the ground. Then I heard the voice
 \add of someone\add* speaking to me \add from up in the sky. The one who was speaking to me
-said\add*, 'Saul! Saul! Why do you\add (sg)\add* do things to harm me?'
+said\add*, 'Saul! Saul! Why do you\add \f + \ft singular \f*\add* do things to harm me?'
 \v 8 I answered, 'Who are you, Sir?' He replied, 'I am Jesus from Nazareth. I
-\add am the one\add* whom you\add (sg)\add* are harming \add by doing things to harm my
+\add am the one\add* whom you\add \f + \ft singular \f*\add* are harming \add by doing things to harm my
 followers\add*.' 
 \v 9 The men who were \add traveling\add* with me saw the \add very
 bright\add* light, \add and they heard a voice\add*, but they did not understand what the voice said to me.
 \v 10 Then I asked, 'Lord, what \add do you want\add* me to do?' The Lord told me, 'Get up and go into Damascus!
-\add A man\add* there will tell you\add (sg)\add* all that I have planned for you to do.'
+\add A man\add* there will tell you\add \f + \ft singular \f*\add* all that I have planned for you to do.'
 \v 11  \add After that, I could not see\add*, because the \add very
 bright\add* light had caused me to become blind. So my companions took me by the hand and led me until
-\add we(exc) arrived\add* in Damascus. 
+\add we\f + \ft exclusive \f* arrived\add* in Damascus. 
 \v 12  \add A couple of days\add* later, a man whose name was Ananias came to
 \add see\add* me. He was a man who \add greatly respected God and\add* carefully obeyed
 \add our Jewish\add* laws. All the Jews living in Damascus said good things about him.
 \v 13 He came and stood beside me and said to me, '\add My\add* friend Saul, see
 \add again\add*!' Instantly I could see! I saw him \add standing there beside
 me\add*. 
-\v 14 Then he said: 'The God whom \add we(inc) worship and\add* whom our ancestors
+\v 14 Then he said: 'The God whom \add we\f + \ft inclusive \f* worship and\add* whom our ancestors
 \add worshipped\add* has chosen you and will show you what he wants
 \add you to do. He has allowed you\add* to see the righteous one,
 \add the Messiah\add*, and you have heard him speaking \add to you\add*.
 \v 15 He wants you to tell people everywhere what you have seen and heard
 \add from him\add*. 
 \v 16 So now do not delay!\f + \ft Or: why delay? \f* \f + \ft rhetorical question \f* Stand up, let \add me\add* baptize you, and by praying to the Lord
-\add Jesus ask God\add* to forgive you\add (sg)\add* for your sins!' "
+\add Jesus ask God\add* to forgive you\add \f + \ft singular \f*\add* for your sins!' "
 \s Acts 22:17-22 
 \s Paul told about the Lord's commanding him to go to non-Jewish people.
 \p
@@ -61,7 +61,7 @@ me\add*.
 vision \add in which\add* 
 \v 18 I saw the Lord speaking to me. He said to me, '\add Do not stay
 here!\add* Leave Jerusalem immediately, because the people \add here\add* will not believe\f + \ft Or: listen to \f* what
-you\add (sg)\add* tell \add them\add* about me!' 
+you\add \f + \ft singular \f*\add* tell \add them\add* about me!' 
 \v 19 But I \add protested and\add* said to him, 'Lord, they know that I went to many of our meeting houses looking for people
 who believe in you. I was putting in jail those \add whom I found\add* who believed in you, and I was even beating them.
 \v 20  \add They remember that\add* when Stephen was killed \f + \ft metonymy \f* {when people killed \f + \ft metonymy \f* Stephen} because he told people
@@ -70,7 +70,7 @@ about you, I stood there \add watching it all\add* and approving
 \add had thrown aside\add*! \add So if I stay here, the fact that I have changed how I think about you will surely impress
 those leaders of our people\add*.' 
 \v 21 But the Lord said to me, 'No, \add do not stay here\add*! Leave
-\add Jerusalem, because\add* I am going to send you\add (sg)\add* far away
+\add Jerusalem, because\add* I am going to send you\add \f + \ft singular \f*\add* far away
 \add from here\add* to non-Jewish people!' " 
 \v 22 The people listened \add quietly\add* to what Paul was saying until
 \add he mentioned the Lord sending him to non-Jewish people\add*. Then they began shouting
@@ -88,7 +88,7 @@ it\add*, in order to make him tell what he had done that made the Jews shout so 
 \add So the soldiers took Paul into the barracks\add*. 
 \v 25 Then they stretched his arms out \add and tied them\add* so that they could whip him
 \add on his back. But\add* Paul said to the officer who was standing nearby
-\add watching\add*, "\add You(sg) should think carefully about this!\add* You will certainly be \f + \ft rhetorical question \f* acting unlawfully if you
+\add watching\add*, "\add You\f + \ft singular \f* should think carefully about this!\add* You will certainly be \f + \ft rhetorical question \f* acting unlawfully if you
 whip me, a Roman \add citizen whom\add* no \add one has put on trial
 and\add* condemned!" 
 \v 26 When the officer heard that, he went to the commander and reported it to him. He said
@@ -96,7 +96,7 @@ and\add* condemned!"
 \add command us to whip him\add*!\f + \ft Or: Do you really want \add us to whip
 him\add*? \f* \f + \ft rhetorical question \f*" 
 \v 27 The commander \add was surprised when he heard that. He himself\add* went
-\add into the barracks\add* and said to Paul, "Tell me, are you\add (sg)
+\add into the barracks\add* and said to Paul, "Tell me, are you\add \f + \ft singular \f*
 really\add* a Roman \add citizen\add*?" Paul answered, "Yes, I \add am\add*."
 \v 28 Then the commander said, "\add I am also a Roman citizen\add*. I paid a lot of money to become a
 \add Roman\add* citizen." Paul said, "But I was born a \add Roman\add* citizen,

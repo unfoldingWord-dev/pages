@@ -10,13 +10,13 @@ die.
 come and heal his slave. 
 \v 4 When they came to where Jesus was, they earnestly asked Jesus
 \add to return with them\add*. They said, "This officer deserves that
-you\add (sg)\add* do this \add for him\add*, 
+you\add \f + \ft singular \f*\add* do this \add for him\add*, 
 \v 5 because he loves us \add Jewish\add* people, and he \add paid the money
 to\add* build a synagogue for us." 
 \v 6 So Jesus went with them. When he was near the \add officer's\add* house, the officer
 \add decided that it was not necessary for Jesus to come to his house. So
 he\add* summoned some friends. He \add told them to\add* go to Jesus and tell him this: "Lord\f + \ft Or: Sir \f*, do not bother to come.
-\add Because I am a non-Jew\add*, I am not worthy for you\add (sg)\add*,
+\add Because I am a non-Jew\add*, I am not worthy for you\add \f + \ft singular \f*\add*,
 \add a Jew\add*, to come into my house \f + \ft metonymy \f* \add and associate with
 me\add*. 
 \v 7 I did not feel worthy to come to you, \add either\add*. But
@@ -58,8 +58,8 @@ and\add* told him about those things.
 \add told them\add* to go to the Lord and ask him: "Are you \add the Messiah who the prophets prophesied would
 come\add*, or is it someone else that we should expect \add to come\add*?"
 \v 20 When those two men came to Jesus, they said, "John the Baptizer sent us to ask
-you\add (sg)\add* this: Are you \add the Messiah that\add* we are expecting
-\add God\add* to send, or shall we\add (exc)\add* expect someone else?"
+you\add \f + \ft singular \f*\add* this: Are you \add the Messiah that\add* we are expecting
+\add God\add* to send, or shall we\add \f + \ft exclusive \f*\add* expect someone else?"
 \v 21 At that very time Jesus was healing many people of their diseases and
 \add other\add* sicknesses, he was \add casting out\add* evil spirits, and he was causing many blind people to be able to see.
 \v 22 So he answered those two men, "Go back and report to John what you have seen
@@ -84,7 +84,7 @@ you\add* \f + \ft rhetorical question \f* \add go there to see John because he w
 \v 27 He is the one about whom \add these words\add* that God said to the Messiah have been written
 {\add the prophet Malachi\add* wrote \add these words\add*} \add in the
 Scriptures\add*: 'Listen! I am going to send my messenger ahead of
-you\add (sg)\add* \f + \ft synecdoche \f*. He will prepare \add people\add* for your coming.'
+you\add \f + \ft singular \f*\add* \f + \ft synecdoche \f*. He will prepare \add people\add* for your coming.'
 \p
 \v 28 I tell you that from among all the people who have ever lived,
 \add God considers that\add* no one is greater than John. However,
@@ -104,7 +104,7 @@ right\add*.
 \add many of\add* you people who have heard what \add John and I\add* have taught are like? \f* \f + \ft rhetorical question \f*
 \v 32 You are like children who are \add playing games\add* in an open area.
 \add Some of them\add* are calling to \add the others\add*, saying,
-"We\add (exc)\add* played happy music for you on the flute, but you did not dance! Then we sang sad funeral songs for you, but
+"We\add \f + \ft exclusive \f*\add* played happy music for you on the flute, but you did not dance! Then we sang sad funeral songs for you, but
 you did not cry!" 
 \v 33  \add Similarly, you people are dissatisfied with both John the Baptizer and
 me!\add* When John came and \add preached to you\add*, he did not eat
@@ -131,7 +131,7 @@ feet\add*. Then she wiped his feet with her hair, and kissed his feet, and anoin
 "\add Prophets know about other people's lives\add*, \add so\add* if Jesus were a prophet, he would have known who this woman
 is who is touching him, and what kind of a person she is. He would have known that she is a prostitute! \f + \ft euphemism \f*"
 \v 40 Jesus said to him, "Simon, there is something I want to tell
-you\add (sg)\add*." He replied, "Teacher, what is it?" 
+you\add \f + \ft singular \f*\add*." He replied, "Teacher, what is it?" 
 \v 41 Jesus replied, "Two people owed some money to a man who \add earned money
 by\add* lending \add it to others\add*. One owed him five hundred silver coins, and the other owed him fifty silver coins.
 \v 42 Neither of them was able to pay back \add what he owed\add*, so the man
@@ -139,7 +139,7 @@ by\add* lending \add it to others\add*. One owed him five hundred silver coins, 
 \v 43 Simon replied, "I think that the one who owed the most money and did not have to pay it back
 \add will love him more\add*." Jesus said to him, "That is correct."
 \v 44 Then he turned toward the woman, and said to Simon, "Think about
-\add what\add* this woman \add has done\add*!\f + \ft Or: Do you\add (sg)\add* see
+\add what\add* this woman \add has done\add*!\f + \ft Or: Do you\add \f + \ft singular \f*\add* see
 \add what\add* this woman \add has done\add*? \f* \f + \ft rhetorical question \f* When I entered your house, you
 \add did not follow our custom of welcoming guests by\add* giving me any water
 \add to wash\add* my feet, but this woman has wet my feet with her tears and then wiped them with her hair!

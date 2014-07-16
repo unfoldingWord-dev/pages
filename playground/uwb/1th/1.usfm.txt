@@ -1,9 +1,9 @@
 \c 1  
 \p
 \v 1  \add I\add*, Paul, \add am writing this letter\add*. Silas and Timothy
-\add are with me\add*. \add We(exc) are sending this letter\add* to
+\add are with me\add*. \add We\f + \ft exclusive \f* are sending this letter\add* to
 \add you who are\add* the congregation \add of believers\add* in Thessalonica
-\add city\add*. We\add (inc)\add* all \add worship\add* \f + \ft Or: \add trust
+\add city\add*. We\add \f + \ft inclusive \f*\add* all \add worship\add* \f + \ft Or: \add trust
 in\add* \f* God \add our\add* Father \f + \ft metaphor \f* and \add our\add* Lord Jesus Christ.
 \add We three desire\f + \ft Or: pray \f* that God, our Father, and Jesus Christ, our Lord, will continue
 to\add* act kindly toward you and \add will continue to\add* cause you to have

@@ -1,7 +1,7 @@
 \c 7  
 \p
 \v 1 My friends, whom I love, because \add God\add* has promised like this
-\add to accept us(inc) as his children\add*, we\add (inc)\add* must stop doing anything that is sinful. We must not do sinful
+\add to accept us\f + \ft inclusive \f* as his children\add*, we\add \f + \ft inclusive \f*\add* must stop doing anything that is sinful. We must not do sinful
 things with our bodies, and we must not \add think\add* sinful thoughts.
 \add Because\add* we greatly revere God, we must strive to \add live\add* a completely pure life. By doing that we will become
 the kind of people that he wants us to be. 
@@ -9,7 +9,7 @@ the kind of people that he wants us to be.
 \s I love you all and I have great confidence in you. 
 \p
 \v 2 So, as I just wrote, I want you to love me \f + \ft Or: us ( idiom ) \add who are true apostles of
-Christ\add* \f*. I\f + \ft Or: we \f*\add (exc)\add* have never done anything wrong to any of you. I\f + \ft Or: we \f* have not done anything to harm any one of
+Christ\add* \f*. I\f + \ft Or: we \f*\add \f + \ft exclusive \f*\add* have never done anything wrong to any of you. I\f + \ft Or: we \f* have not done anything to harm any one of
 you spiritually or financially. Nor have I\f + \ft Or: we \f* tried to get money from
 \add you\add* for myself\f + \ft Or: for ourselves \f*. 
 \v 3  \add It is true that some people among you have said that I have done such things.
@@ -22,7 +22,7 @@ I have endured.
 \p
 \v 5 Now \add I will write more about what I was saying about Titus\add*. When I
 \add left Troas and\add* came \add here to\add* Macedonia \add province\add*, I still did not get rest for my body. Everywhere
-we\add (exc)\add* went, \add people were constantly\add* causing us trouble.
+we\add \f + \ft exclusive \f*\add* went, \add people were constantly\add* causing us trouble.
 \add And not only were\add* people \add constantly causing us\add* trouble, but I was greatly concerned
 \add about you all\add*. 
 \v 6 But God, who always encourages his people when they are discouraged, encouraged us by
@@ -61,8 +61,8 @@ as I told you to do. By doing\add* all of those things, you have shown
 \add I wrote it\add* so that, when you \add read the letter\add*, God would enable you to realize how much you really do
 respect \add my authority\add*. 
 \v 13 So, \add because you listened to me and did what I asked you to
-do\add*, I was\f + \ft Or: we\add (exc)\add* were all \f* encouraged. Not only was I\f + \ft Or: were we \f* encouraged, but I
-was\f + \ft Or: we\add (exc)\add* were \f* \add also\add* very happy to see how happy Titus was
+do\add*, I was\f + \ft Or: we\add \f + \ft exclusive \f*\add* were all \f* encouraged. Not only was I\f + \ft Or: were we \f* encouraged, but I
+was\f + \ft Or: we\add \f + \ft exclusive \f*\add* were \f* \add also\add* very happy to see how happy Titus was
 \add when he arrived here. He told me\f + \ft Or: us \f* that\add* he did not need to worry anymore, because
 \add he saw\add* that you all \add had a good attitude toward me\add*.
 \v 14 I had told Titus that I was pleased about you. And I did not need to be ashamed

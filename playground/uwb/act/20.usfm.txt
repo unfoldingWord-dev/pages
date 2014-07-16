@@ -21,20 +21,20 @@ were\add* Sopater, \add who was\add* a son of Pyrrhus, who grew up in Berea
 \v 5 Those \add seven\add* men went ahead of \add Paul and me, Luke, by ship from Macedonia,
 so\add* they got to Troas \add before we did and\add* waited for
 \add the two of\add* us there. 
-\v 6  \add But we two(exc) traveled by land as far as\add* Philippi
+\v 6  \add But we two\f + \ft exclusive \f* traveled by land as far as\add* Philippi
 \add city\add*. After the Jewish festival \add when they eat\add* unleavened bread, we got on a ship
 \add that was going from\add* the port near \add Philippi to Troas
-city\add*. After five days we\add (exc)\add* arrived at Troas and we met the other men who had traveled there
+city\add*. After five days we\add \f + \ft exclusive \f*\add* arrived at Troas and we met the other men who had traveled there
 \add ahead of us\add*. Then we \add all\add* stayed in Troas for seven days.
 \s Acts 20:7-12 
 \s At Troas, Paul encouraged believers by resurrecting Eutychus.
 \p
 \v 7 On Sunday evening\f + \ft Or: On the evening of the first day of the week \f*,
-we\add (exc) and the other believers there\add* gathered together to celebrate the Lord's Supper
+we\add \f + \ft exclusive \f* and the other believers there\add* gathered together to celebrate the Lord's Supper
 \add and to eat other food\add* \f + \ft synecdoche \f*. Paul spoke to the believers. He continued teaching them until midnight, because he was
 planning to leave \add Troas\add* the next day. 
 \v 8 Many \add oil\add* lamps were burning in the upstairs room in which
-we\add (exc)\add* had gathered, \add so the fumes caused some people to become
+we\add \f + \ft exclusive \f*\add* had gathered, \add so the fumes caused some people to become
 sleepy\add*. 
 \v 9 A young man whose name was Eutychus was there. He was seated on
 \add the sill of\add* an \add open\add* window\add on the third story of the
@@ -55,7 +55,7 @@ Afterwards, Paul conversed with the believers until dawn. Then he left.
 \v 13 We then went to the ship. Paul did not get on the ship \add with us in
 Troas\add*, because he preferred to go \add more quickly\add* overland to Assos
 \add town\add*. The rest of us got on the ship and sailed for Assos.
-\v 14 We\add (exc)\add* met Paul in Assos. He got on \add the ship\add* with us, and we sailed to Mitylene
+\v 14 We\add \f + \ft exclusive \f*\add* met Paul in Assos. He got on \add the ship\add* with us, and we sailed to Mitylene
 \add town\add*. 
 \v 15 The day after \add we reached Mitylene\add*, we \add sailed from there
 and\add* arrived \add at a place\add* near Kios\add Island\add*. The day after that, we sailed to
@@ -99,7 +99,7 @@ to suffer \f + \ft personification \f*.
 \v 26 So I want you all to understand that if anyone \add who has heard me
 preach\add* dies \add without trusting in Jesus\add*, it is not my fault \f + \ft metonymy \f*,
 \v 27 because I told you \f + \ft litotes \f* everything \f + \ft hyperbole \f* that God has planned for
-us\add (inc)\add*. 
+us\add \f + \ft inclusive \f*\add*. 
 \v 28  \add You leaders\add* must continue to believe and obey \add God's message. You must also
 help\add* all the other believers \f + \ft metaphor \f* for whom the Holy Spirit has caused you to be responsible \f + \ft metonymy \f*. Watch over \f + \ft metaphor \f*
 yourselves and the other believers \add as\add* a shepherd\add watches over his
@@ -118,7 +118,7 @@ with tears\add in my eyes not to believe any other message\add*."
 \s Paul entrusted them to God and to the message about God's goodness.
 \p
 \v 32 "\add Now as I leave you\add* I ask God to protect you and to keep you believing the message
-\add that he saves us(inc)\add* by doing for us what we do not deserve.
+\add that he saves us\f + \ft inclusive \f*\add* by doing for us what we do not deserve.
 \add If you continue believing\add* the message \add that I told
 you\add*, you will become \add spiritually mature\add*, and God will give you the blessings that he has promised to give to all
 of those who belong to him. 
@@ -126,9 +126,9 @@ of those who belong to him.
 \v 33  \add As for myself\add*, I have not desired anyone's money \f + \ft metonymy \f* or
 \add fine\add* clothing. 
 \v 34 You yourselves know that I have worked \add with my hands\add* \f + \ft metonymy \f* to earn the money that my companions and I needed.
-\v 35 In everything that I did, I showed you that we\add (inc)\add* should work hard in order
+\v 35 In everything that I did, I showed you that we\add \f + \ft inclusive \f*\add* should work hard in order
 \add to have enough money\add* to give some to those who are needy.
-We\add (inc)\add* should remember that our Lord Jesus himself said, 'You are happy when people give you what you need, but God
+We\add \f + \ft inclusive \f*\add* should remember that our Lord Jesus himself said, 'You are happy when people give you what you need, but God
 will be happy with you when you give other people what they need.' "
 \s Acts 20:36-38 
 \s Paul prayed with them and they sadly bade him farewell. 

@@ -11,9 +11,9 @@ that\add* I also belong to the \add people of\add* Israel. I am a descendant of 
 \add to be people whom he would bless in a special way\add*. Remember \f + \ft rhetorical question \f* what is written \f + \ft personification \f* in the Scriptures about
 Elijah when he \add mistakenly\add* complained to God about \add the people
 of\add* Israel, saying: 
-\v 3 "Lord, they have killed \add the rest of\add* your\add (sg)\add* prophets, they have destroyed your altars. I am the only
+\v 3 "Lord, they have killed \add the rest of\add* your\add \f + \ft singular \f*\add* prophets, they have destroyed your altars. I am the only
 one \add who believes in you\add* who remains \add alive\add*, and now they are trying to kill me!"
-\v 4 God answered him like this: "\add You(sg) are not the only one who believes in
+\v 4 God answered him like this: "\add You\f + \ft singular \f* are not the only one who believes in
 me!\add* I have protected for myself \add not just you, but\add* 7000
 \add other\add* men who have not worshipped \add the false god\add* Baal. Remember that!\f + \ft Or: Do you not remember that? \f* \f + \ft rhetorical question \f*"
 \v 5 So, similarly, there is also at this time a small group \add of us
@@ -96,7 +96,7 @@ people\add* break off\add dead\add* branches \add of a tree\add*}. And each of y
 of\add* a wild\f + \ft Or: uncultivated \f* olive tree \add that\add* was {\add that
 someone\add*} grafted among the branches \f + \ft Or: onto one of the branches \f*
 \add that were left on a cultivated olive tree\add*. \add God has
-caused\add* you \add to benefit from how he blessed our(exc) first Jewish ancestors, as
+caused\add* you \add to benefit from how he blessed our\f + \ft exclusive \f* first Jewish ancestors, as
 branches\add* benefit from the nutritious sap from the root of a
 \add cultivated\add* olive tree \f + \ft metaphor \f*. 
 \v 18 However, you \add non-Jews\add* must not despise \add the Jews whom God

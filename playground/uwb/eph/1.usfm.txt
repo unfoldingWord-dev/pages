@@ -31,10 +31,10 @@ that because he wanted to do that, and because he planned to do that by means of
 things\f + \ft Or: beings \f* on earth \f + \ft Or: all beings in heaven and all things on earth \f*, and cause Christ to be the one who will rule them
 \f + \ft metaphor \f*. 
 \v 11 Because of our close relationship with Christ, God has also chosen
-us\add (inc)\add* \f + \ft Or: us\add (exc \f*\add* Jews) to receive what he has promised
+us\add \f + \ft inclusive \f*\add* \f + \ft Or: us\add (exc \f*\add* Jews) to receive what he has promised
 \add to give\add* us. He decided long ago to do that. It was exactly what he planned. He accomplishes everything exactly as he
 plans and desires, 
-\v 12 in order that we(exc) Jews, who confidently expected the Messiah to do great things for us before the non-Jews expected
+\v 12 in order that we\f + \ft exclusive \f* Jews, who confidently expected the Messiah to do great things for us before the non-Jews expected
 such things \f + \ft Or: we \add (inc \f*\add* who were already confidently expecting Christ
 \add to do great things for us\add*) will praise him for his greatness.
 \v 13 You \add Ephesians\add* also heard the true message, the good message about how God saves you.

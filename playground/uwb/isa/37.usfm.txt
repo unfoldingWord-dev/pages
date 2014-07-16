@@ -115,7 +115,7 @@ Jerusalem\add*.'
 \b
 \p
 \v 30 Then I said to Hezekiah, 'This will prove to you that what I said will happen:
-\q "This year, you(pl) will eat only the crops that grow by themselves,
+\q "This year, you\f + \ft plural \f* will eat only the crops that grow by themselves,
 \q2 and next year the same thing will happen. 
 \q But in the third year you will plant crops and harvest them; 
 \q2 you will take care of your vineyards and eat the grapes. 

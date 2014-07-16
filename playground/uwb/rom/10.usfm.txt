@@ -34,11 +34,11 @@ us!\add*
 Christ has already come down to save us, and has already risen from the
 dead!\add* 
 \v 8 But instead, \add those who believe in Christ\add* \f + \ft personification \f* can say what \f + \ft rhetorical question \f*
-\add Moses also said\add*, "You\add (sg)\add* can find out about
+\add Moses also said\add*, "You\add \f + \ft singular \f*\add* can find out about
 \add God's\add* message very easily. You can speak \f + \ft metonymy \f* about it; you can think \f + \ft metonymy \f* about it." This is the message that we
 proclaim, that people must believe \add in Christ\add*. 
 \v 9  \add This message is that\add* if anyone of you confesses\f + \ft Or: says \f* publicly that Jesus is Lord, and if
-you\add (sg)\add* believe inwardly that God raised him from the dead\f + \ft Or: after he died \f*, you will be saved
+you\add \f + \ft singular \f*\add* believe inwardly that God raised him from the dead\f + \ft Or: after he died \f*, you will be saved
 {\add God\add* will save you}. 
 \v 10 If people believe inwardly \add that Christ died and that God caused him to become alive
 again\add* \f + \ft chiasmus \f*, the result is that \add God will erase the record of their
@@ -74,8 +74,8 @@ him\add*!\f + \ft Or: how can they hear \add about him\add* if someone does not 
 \v 16  \add I would reply in this way to people who say such things: God has indeed sent people to preach the message about
 Christ\add*. But not all \add the people of Israel\add* have paid attention to the good message!
 \add It is like what\add* Isaiah said \add when he felt very discouraged\add*, "Lord, it seems as if hardly anyone believed
-what they heard us\add (exc)\add* preach!\f + \ft Or: has anyone believed what they heard
-us\add (exc)\add* preach? \f* \f + \ft rhetorical question \f*" 
+what they heard us\add \f + \ft exclusive \f*\add* preach!\f + \ft Or: has anyone believed what they heard
+us\add \f + \ft exclusive \f*\add* preach? \f* \f + \ft rhetorical question \f*" 
 \v 17 So then, \add I tell you that people\add* are believing \add in
 Christ\add* as a result of hearing \add the message about him\add*, and people are hearing
 \add the message\add* as a result of \add people\add* preaching \add about\add* Christ!

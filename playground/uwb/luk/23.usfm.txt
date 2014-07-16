@@ -4,10 +4,10 @@
 \p
 \v 1 Then the whole group got up and took him to Pilate, \add the Roman
 governor\add*. 
-\v 2 They began to accuse him, saying, "We\add (exc)\add* have determined that this fellow has caused political trouble in our
+\v 2 They began to accuse him, saying, "We\add \f + \ft exclusive \f*\add* have determined that this fellow has caused political trouble in our
 country. He has been \add telling people that they should\add* not pay taxes to the Roman government \f + \ft metonymy \f*. Also, he says that
 he is the Messiah, a king!" 
-\v 3 Pilate asked him, "Do you\add (sg) claim that you are\add* the King of the Jews?" He replied,
+\v 3 Pilate asked him, "Do you\add \f + \ft singular \f* claim that you are\add* the King of the Jews?" He replied,
 "\add It is\add* as you have \add just\add* now said." 
 \v 4 Pilate said to the chief priests and \add the rest of\add* the crowd, "I do not conclude that this man is guilty of any
 crime." 
@@ -40,12 +40,12 @@ them\add*.
 any of the things that you are accusing him about. 
 \v 15  \add Obviously\add* Herod did not \add conclude that\add* either, because he sent him back to me
 \add without punishing him\add*. \add So it\add* is clear that this man has not done anything for which
-we\add (inc)\add* should kill him. 
+we\add \f + \ft inclusive \f*\add* should kill him. 
 \v 16-17 So I will \add have my soldiers\add* whip him and then release
 him."\f + Pilate had to release one prisoner for the people during the Passover festival each
 year."\f* 
 \v 18 But the whole crowd shouted, "Execute this man! Release Barrabas for
-us\add (exc)\add*!" 
+us\add \f + \ft exclusive \f*\add*!" 
 \v 19 Barrabas was a man who had tried to persuade people in the city to rebel
 \add against the Roman government. While doing that\add*, he had murdered
 \add someone\add*. So he had been put {they had put him} in prison,
@@ -102,23 +102,23 @@ get\add*.
 chosen, he should save himself!" 
 \v 36 The soldiers also ridiculed him because he \add claimed to be a
 king\add*. They came up to him and offered him some sour wine. 
-\v 37 They said to him, "If you\add (sg)\add* are the King of the Jews, save yourself!"
+\v 37 They said to him, "If you\add \f + \ft singular \f*\add* are the King of the Jews, save yourself!"
 \v 38  \add They\add* also \add fastened on the cross\add* above his head a sign
 \add that stated\add* why \add they\add* were nailing him to the cross.
 \add But all it said was\add*, 'This is the King of the Jews'. 
 \p
 \v 39 One of the criminals who was hanging \add on a cross\add* began to insult him, saying,
-"You\add (sg) said that you\add* are the Messiah, so \add you must be
+"You\add \f + \ft singular \f* said that you\add* are the Messiah, so \add you must be
 powerful!\add* So save yourself, and save us, too!" 
-\v 40 But the other \add criminal\add* rebuked him, saying, "You\add (sg)\add* should be afraid of God
+\v 40 But the other \add criminal\add* rebuked him, saying, "You\add \f + \ft singular \f*\add* should be afraid of God
 \add punishing you\add*!\f + \ft Or: Are you not afraid of God \add punishing
 you\add*? \f* \f + \ft rhetorical question \f* They are punishing him \add and us\add* similarly.
-\v 41 They have justly decided that we\add (inc) two\add* must die. They are punishing us as we deserve
+\v 41 They have justly decided that we\add \f + \ft inclusive \f* two\add* must die. They are punishing us as we deserve
 \add for the evil things that we did\add*. But this man has done nothing wrong!"
 \v 42 Then he said, "Jesus, \add please\add* remember me \add and take care of
 me\add* when you become king!" 
-\v 43 Jesus replied, "I want you\add (sg)\add* to know that today
-you\add (sg)\add* will be with me in the place where everyone is happy!" \f + \ft Or: that today you will be with me in Paradise! \f*
+\v 43 Jesus replied, "I want you\add \f + \ft singular \f*\add* to know that today
+you\add \f + \ft singular \f*\add* will be with me in the place where everyone is happy!" \f + \ft Or: that today you will be with me in Paradise! \f*
 \p
 \v 44  \add Then it\add* was about noontime. It became dark over the whole land,
 \add and it stayed dark\add* until three o'clock in the afternoon.

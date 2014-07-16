@@ -11,7 +11,7 @@ were restraining the winds that blew from all directions \f + \ft metonymy \f* t
 them\add*. He called out with a loud voice to the four angels to whom
 \add he\add* had given \add power\add* to harm the earth and the ocean. He said
 \v 3  \add to them\add*, "Do not harm the earth or the ocean or the trees until
-we\add (exc)\add* have marked the servants of our\add (inc)\add* God on their foreheads."
+we\add \f + \ft exclusive \f*\add* have marked the servants of our\add \f + \ft inclusive \f*\add* God on their foreheads."
 \v 4  \add Then the angel and his fellow angels marked all God's
 servants\add*. I heard the number of people who were marked {whom
 \add the angels\add* marked} \add because of their being God's servants. The number
@@ -35,14 +35,14 @@ people\add* that no one would be able to count them. \add They were\add* from ev
 and every language \f + \ft metonymy \f*. They were standing before the throne and before
 \add Jesus, the one who is like a\add* lamb. They were wearing white robes and held palm branches
 \add to wave\add* with their hands \add in order to celebrate\add*.
-\v 10 They shouted loudly, "\add O\add* our\add (exc)\add* God, you who sit on the throne, and
+\v 10 They shouted loudly, "\add O\add* our\add \f + \ft exclusive \f*\add* God, you who sit on the throne, and
 \add Jesus, you who are like a\add* lamb, \add you two\add* have delivered
-\add us(exc) from Satan's power!\add*" 
+\add us\f + \ft exclusive \f* from Satan's power!\add*" 
 \v 11 All the angels were standing around the throne and around the elders and the four living
 \add creatures\add*. They all bowed down before the throne with their faces
 \add to the ground\add* and worshipped God. 
-\v 12 They said, "May it be so! \add We(exc)\add* praise, thank, and honor
-\add you\add*, our\add (exc)\add* God, forever! \add We(exc) acknowledge\add* that you are completely wise, the powerful one,
+\v 12 They said, "May it be so! \add We\f + \ft exclusive \f*\add* praise, thank, and honor
+\add you\add*, our\add \f + \ft exclusive \f*\add* God, forever! \add We\f + \ft exclusive \f* acknowledge\add* that you are completely wise, the powerful one,
 who is able to do all things forever! It is so!\f + \ft Or: Amen! \f*" 
 \s Revelation 7:13-17 
 \s One of the elders explained to John about the saints who are dressed in white robes.
