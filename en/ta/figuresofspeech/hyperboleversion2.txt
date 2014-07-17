@@ -6,26 +6,32 @@
 
 **Examples from English** 
 
-
-<font 14px line-height: 19px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19px;;;#ffffff>“I’ve told you</font> <font 14px line-height: 19px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19px;;;#ffffff>a million times</font> <font 14px line-height: 19px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19px;;;#ffffff>not to do that” means “I've told you</font> <font 14px line-height: 19px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19px;;;#ffffff>too many times</font> <font 14px line-height: 19px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19px;;;#ffffff>not to do that.”</font> \\ 
-<font 14px line-height: 19px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19px;;;#ffffff>“I’m</font> <font 14px line-height: 19px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19px;;;#ffffff>starving</font> <font 14px line-height: 19px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19px;;;#ffffff>. I haven’t eaten anything since early morning” means “I'm too hungry. I want something to eat now. I haven't eaten since early morning.”</font> \\ 
-<font 14px line-height: 19px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19px;;;#ffffff>“It took</font> <font 14px line-height: 19px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19px;;;#ffffff>forever</font> <font 14px line-height: 19px;/Lato, sans-serif;;rgb(51, 51, 51) font-family: Lato, sans-serif; font-size: 14px; line-height: 19px;;;#ffffff>for him to finish the job” means “It took him too long to finish the job.”</font> 
-
+“I’ve told you __a million times__ not to do that” means “I've told you __too many__ times not to do that.”\\ 
+“I’m __starving__. I haven’t eaten anything since early morning” means “I'm __too hungry__. I want something to eat now. I haven't eaten since early morning.” \\ 
+“It took __forever__ for him to finish the job” means “It took him __too long__ to finish the job.”
 
 **Examples from the Bible** 
 
+__many people__ [HYP] whose //friends or relatives// were sick or who had various diseases brought them to Jesus. Luke 4:40 (TFT)
 
-//Other people have heard you tell the message from the Lord Jesus. Then they also have proclaimed the message to people who live throughout Macedonia and Achaia provinces. Not only that, but people who live in __many far-away places__//[HYP]//have heard that you trust in God. As a result, we do not need to tell people what God has done in your lives. // 1 Thes 1:8 (TFT)
+Luke wrote that __all__ brought their sick ones to Jesus. This is a hyperbole. Probably not everyone did this. But many did.
+----------------
 
 
-//Paul wrote that people __in every ____place__were talking about the Thessalonians. This is an example of hyperbole. He meant that people in “many far away places” were talking about them. Paul probably used this hyperbole to show how happy he was that the Thessalonians' faith in God was so great that many people had heard about it.// 
+//In general//, __most people__ will [HYP] hate you because //you believe in// me [MTY]. Luke 21:17 (TFT)
+
+When Jesus said that "everyone" would hate his followers, he meant that most people would hate his followers. He said “everyone” to emphasize how difficult things would be for his followers.
+----------------
+
+… Not only that, but //people who live// in __many far-away places__//[HYP]//have heard that you trust in God…. // 1 Thes 1:8b (TFT)
+
+Paul wrote that people __in every ____place__were talking about the Thessalonians. This is an example of hyperbole. He meant that people in “many far away places” were talking about them. Paul probably used this hyperbole to show how happy he was that the Thessalonians' faith in God was so great that many people had heard about it. 
 
 
 //————–// 
 
 
-//So, if you are wanting to use one of// [MTY, PRS] //your hands to sin, stop using your hand! __Even if you have to cut your hand off and throw it away__ to avoid sinning, do it// [HYP]! Mark 9:43a, TFT
-
+//So,// if you are //wanting to use one of// [MTY, PRS] //your hands to sin, stop using your hand! Even if you have to// __cut your hand off__ and throw it away //to avoid sinning, do it// [HYP]! Mark 9:43a (TFT)
 
 Jesus told people to cut off their hand if it caused them to sin. He meant that they we should do whatever we need to do in order not to sin. He used this hyperbole to show how extremely important it is to stop sinning.
 
@@ -33,7 +39,19 @@ Jesus told people to cut off their hand if it caused them to sin. He meant that 
 ----
 
 
-//__In general__, you will be hated by __most__ // [HYP] people {__most__ [HYP]//people will hate you} because you believe in me//. Mark 13:13a (TFT)
+//__In general__,// you will be hated by __most__  [HYP] people {__most__ [HYP] people will hate you} because //you believe in// me. Mark 13:13a (TFT)
 
 
 Jesus said that “everyone” would hate his followers. This was hyperbole. He meant that “most people” would hate his followers. He said “everyone” to emphasize how difficult things would be for his followers.
+
+
+
+
+-----------------------------
+
+
+
+
+
+
+
