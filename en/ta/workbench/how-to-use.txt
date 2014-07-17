@@ -58,7 +58,7 @@ Please add a **discussion panel**  to the bottom of every page. A discussion pan
 
 
 <code>
-Type in ~~Discussion~~ at the bottom of the page. The discussion panel will appear below your information.
+Type in ~~DISCUSSION~~ at the bottom of the page. The discussion panel will appear below your information.
 </code>
 
 
