@@ -5,3 +5,7 @@ The “Translation Academy” is intended to enable anyone, anywhere to learn th
 
 
 We need “Domain Experts” to start identifying the modules that are needed in each area of focus, and then writing up the content and (soon) recording the teaching videos. The draft of the big picture overview is nearly ready for distribution and will be made available here and on the [[https://team.door43.org/groups/translation-academy/|Translation Academy Group on Team43]].
+
+Ready to begin?   
+  * Go to the [[en:ta:workbench|Translation Academy Workbench]] page to read about the status of your materials.
+  * Go to the [[en:ta:workbench:how-to-use|How to Add My Information]] page to learn how to add your information.
