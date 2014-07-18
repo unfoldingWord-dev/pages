@@ -1,11 +1,22 @@
-====== [MTY] Metonymy [məˈtänəmē] ======
+====== [MTY] Metonymy [məˈtänəmē], Metonym ======
 
 
 === In metonymy some thing or some idea is called not by its own name, but by the name of something associated with that thing or idea. ===
 
 
-Examples from the Bible\\
+**Examples from the Bible**\\
  
+
+God, the Lord, __will make him a___//__king__// [MTY] as his ancestor King David was. Luke 1:32 (TFT)
+
+The angel told Mary that God would give her son King David's throne. A throne represents the king's authority. When he said that God would give him David's throne, "throne" was a metonym for "kingship". God would give him kingship. That is, God would make him king.
+---------------
+
+He will be the King of //the Jews//, the descendants [MTY] of //your ancestor// Jacob, forever. Luke 1:33a (TFT)
+
+The angel said that Mary's son would be king over the house of Jacob. The house
+---------------
+
 They tell us that now you wait expectantly for his Son //to return to earth// from heaven. You firmly believe that God caused him to live again after he died. You believe also that Jesus will rescue //all of// us, //who trust in him// from __God’s punishing us__. 1 Thes 1:10 (TFT)
 
 Paul wrote that Jesus will deliver us from "the coming wrath". "The coming wrath" refers to God's punishment. Punishment is what God does because of his wrath.
