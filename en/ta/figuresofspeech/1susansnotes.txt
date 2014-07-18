@@ -5,3 +5,5 @@ Some of these pages have discussion sections included because I'm not sure about
 Some of these pages have a lot of examples. When it's time we can choose the best. It's probably good to have a few easy ones to help people get the point, along with a few difficult ones.  SQ
 
 Susan, do not use italics to mark text as scripture. Reserve italics for implied info in the TFT. SQ
+
+~~DISCUSSION~~
