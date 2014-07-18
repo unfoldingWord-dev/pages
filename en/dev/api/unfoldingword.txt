@@ -18,6 +18,7 @@ api.unfoldingword.org/obs/txt/1/[langcode]/obs-[langcode].json
 
 e.g. api.unfoldingword.org/obs/txt/1/en/obs-en.json
 
+
 ===== Audio =====
 
 
@@ -34,3 +35,6 @@ api.unfoldingword.org/obs/jpg/1/[langcode]/[heightpx]/obs-[langcode]-[chapter]-[
 
 
 e.g. api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-01.jpg
+
+
+Visit http://door43.org/en/uwadmin/home to export another language.
