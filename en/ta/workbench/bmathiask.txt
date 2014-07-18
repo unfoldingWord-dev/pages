@@ -1,1 +1,61 @@
-Page for Mathias
+//**Branches of Linguistics/Properties of Language in General:** // 
+
+
+Languages have two main components: 1) sound, 2) meaning
+
+
+1) Sound:
+
+
+**//Phonology/Phonetics//**: speech sounds; sounds that humans make in speaking their languages
+
+
+2) Meaning:
+
+
+**//Syntax//**: word order; the order of words in sentences
+
+
+**//Morphology//**: how words are formed (//**roots **//& //**affixes**//)//. **Affix **//is a general term for //**prefixes **//and //**suffixes**//.
+
+
+**//Semantics//**: meaning; the meaning of words and sentences
+
+
+//**Parts of Speech Definitions:** // 
+
+
+//**Noun**//: a "thing" word
+
+
+**//Adjective//**: a describing word
+
+
+//**Verb**//: an action word
+
+
+//**Transitive verb**//: an action word that MAY OR MAY NOT happen TO something
+
+
+//**Intransitive Verb**//: an action word that CANNOT happen TO something
+
+
+Most action words can be //**Transitive **//or //**Intransitive**//.
+
+
+e.g. 'to fail'...I failed, I failed __the test__ 
+
+
+However, any action word that CANNOT happen TO something is strictly **//Intransitive//**.
+
+
+e.g. 'to sit'...*I sat __the chair__ 
+
+
+//**Subject**//: the "do-er" of an action
+
+
+//**Direct Object**//: the thing that an action gets done to
+
+
+**//Preposition//**: a location-related word that goes before a "thing" word, e.g. in, on, at, to
