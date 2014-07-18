@@ -24,7 +24,7 @@ You can watch this [[http://youtu.be/dpsJRDAa3I8|video]] (45 seconds long) to se
 
 Door43 has a [[:playground:playground|test page]] that you can freely edit to try things out. 
 
-Note: if you want to learn how to switch between the editors click here.http://door43.org/en/obs-training/get-started/switching_editors
+Note: if you want to learn how to switch between the editors click [[en:obs-training:get-started:switching_editors|here.]]
 
 
 ===== 3. Choose a Story =====
@@ -33,9 +33,8 @@ Note: if you want to learn how to switch between the editors click here.http://d
 Let's start with a story about Jesus and his disciples. Click for the story [[:en:obs:31-jesus-walks-on-water|31. Jesus Walks on Water]].
 
 <code>
-**You might find it convenient to right click on links and choose "Open in new window."** 
+You might find it convenient to right click on links and choose "Open in new window."
 </code>
-
 
 
 ===== 4. Choose the language into which you want to translate =====
@@ -43,7 +42,7 @@ Let's start with a story about Jesus and his disciples. Click for the story [[:e
 
 In the sidebar of Story 31, you should see a language selection dropdown. When you click it, you will see a list of available languages, sorted by language code. If you see the language into which you would like to translate, click it.
 
-If you need a language added to Door43, please  [[http://distantshoresmedia/contact|contact us]].
+If you need a language added to Door43, please  [[http://distantshoresmedia.org/contact|contact us]].
 
 ===== 5. Start Translating =====
 
