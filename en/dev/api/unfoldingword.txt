@@ -3,16 +3,17 @@
 
 Official specification for unfoldingWord API, version 1:
 
+
 ===== Catalog =====
 
 
-api.unfoldingword.org/obs/txt/1/obs-catalog.json
+    api.unfoldingword.org/obs/txt/1/obs-catalog.json
 
 
 ===== JSON Text =====
 
 
-api.unfoldingword.org/obs/txt/1/[langcode]/obs-[langcode].json
+    api.unfoldingword.org/obs/txt/1/[langcode]/obs-[langcode].json
 
 
 e.g. api.unfoldingword.org/obs/txt/1/en/obs-en.json
@@ -21,7 +22,7 @@ e.g. api.unfoldingword.org/obs/txt/1/en/obs-en.json
 ===== Audio =====
 
 
-api.unfoldingword.org/obs/mp3/1/[langcode]/obs-[langcode]-[frame].[format]
+    api.unfoldingword.org/obs/mp3/1/[langcode]/obs-[langcode]-[frame].[format]
 
 
 e.g. api.unfoldingword.org/obs/mp3/1/en/obs-en-01.mp3
@@ -30,10 +31,10 @@ e.g. api.unfoldingword.org/obs/mp3/1/en/obs-en-01.mp3
 ===== Images =====
 
 
-api.unfoldingword.org/obs/jpg/1/[langcode]/[heightpx]/obs-[langcode]-[chapter]-[frame].[format]
+    api.unfoldingword.org/obs/jpg/1/[langcode]/[heightpx]/obs-[langcode]-[chapter]-[frame].[format]
 
 
 e.g. api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-01.jpg
 
 
-Visit http://door43.org/en/uwadmin/home to export another language.
+Visit [[http://door43.org/en/uwadmin/home|http://door43.org/en/uwadmin/home]] to export another language.
