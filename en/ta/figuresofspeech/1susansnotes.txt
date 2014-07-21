@@ -1,9 +1,29 @@
-Pages whose URL name ends with “Version2” have only the TNT. The explanations of the examples account for the fact that the figure of speech was used in the source text (Greek or Hebrew) but in most cases it was not used in the TNT. SQ
+Pages whose URL name ends with “Version2” have only the TFT. The explanations of the examples account for the fact that the figure of speech was used in the source text (Greek or Hebrew) but in most cases it was not used in the TNT. SQ
 
 Some of these pages have discussion sections included because I'm not sure about everything that I have written and would like some help. SQ
 
 Some of these pages have a lot of examples. When it's time we can choose the best. It's probably good to have a few easy ones to help people get the point, along with a few difficult ones.  SQ
 
 Susan, do not use italics to mark text as scripture. Reserve italics for implied info in the TFT. SQ
+
+Figures of Speech marked in TFT: \\ 
+[APO] = apostrophe \\ 
+[CHI] = chiasmus \\ 
+[DOU] = doublet \\ 
+[EUP] = euphemism \\ 
+[HEN] = hendiadys \\ 
+[HYP] = hyperbole \\ 
+[IDM] = idiom \\ 
+[IRO] = irony \\ 
+[LIT] = litotes \\ 
+[MET] = metaphor \\ 
+[MTY] = metonymy \\ 
+[PRS] = personification \\ 
+[RHQ] = rhetorical question \\ 
+[SIM] = simile \\ 
+[SYM] = symbol \\ 
+[SAR] = sarcasm \\ 
+[SYN] = synecdoche \\ 
+[TRI] = triple__t__  \\ 
 
 ~~DISCUSSION~~
