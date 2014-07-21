@@ -11,6 +11,7 @@
   * Use natural divisions as much as possible--clear paragraph divisions, sharp subject or location changes, etc.
   * When faced with a short passage with distinct topics, consider dividing them for clarity of explanation, even though this would result in very short chunks.
   * When faced with a passage with a single thought or argument, consider making the chunk a bit longer to include the whole thought, unless it would be unbearably long.
+  * Look for occasions to include explanations of key terms and important phrases within the boundaries of a chunk.
   * Consider the theological and grammatical complexity of the verses when dividing. More complex passages should be shorter, if possible.
   * Give extra weight to the structure of the original-language text rather than to English-langauge divisions.
   * As of 07/15/14, divisions must occur at verse breaks. The software is unable to accommodate a chunk such as "3-5a."
