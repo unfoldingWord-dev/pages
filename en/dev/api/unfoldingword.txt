@@ -1,8 +1,7 @@
 ====== unfoldingWord API ======
 
 
-Proposed URI for unfoldingWord API:
-
+Official specification for unfoldingWord API, version 1:
 
 ===== Catalog =====
 
