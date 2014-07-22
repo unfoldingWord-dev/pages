@@ -1,0 +1,29 @@
+====== Luke Checking Questions ======
+
+These questions will be used by validating organizations to review translations for accuracy. 
+
+This is a draft list. Please add your suggested questions to the list, and your comments to the Discussion section.
+
+  - **Q?**
+    *//A. [ch:vv]//
+  - **Q?**
+    *//A. [ch:vv]//
+  - **Q?**
+    *//A. [ch:vv]//
+  - **Q?**
+    *//A. [ch:vv]//
+  - **Q?**
+    *//A. [ch:vv]//
+  - **Q?**
+    *//A. [ch:vv]//
+  - **Q?**
+    *//A. [ch:vv]//
+  - **Q?**
+    *//A. [ch:vv]//
+  - **Q?**
+    *//A. [ch:vv]//
+  - **Q?**
+    *//A. [ch:vv]//
+
+
+~~DISCUSSION~~
