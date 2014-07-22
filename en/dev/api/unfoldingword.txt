@@ -36,5 +36,7 @@ e.g. api.unfoldingword.org/obs/mp3/1/en/obs-en-01.mp3
 
 e.g. api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-01.jpg
 
+e.g. api.unfoldingword.org/obs/jpg/1/en/2160px/obs-en-01-01.jpg
+
 
 Visit [[http://door43.org/en/uwadmin/home|http://door43.org/en/uwadmin/home]] to export another language.
