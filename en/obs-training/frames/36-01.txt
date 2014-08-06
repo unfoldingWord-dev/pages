@@ -11,7 +11,7 @@
   * **James** - This is a different James than the one who wrote the Book of James in the Bible. To make this clear, some languages may need to use two slightly different names or to spell them differently. 
   
 
-**[[:en:obs-training:frames:35-13|<<]] | [[:en:obs-training:36-the-transfiguration|Up]] | [[:en:obs-training:frames:36-02|>>]]**
+**[[:en:obs-training:frames:35-13|<<]] | [[:en:obs-training:36|Up]] | [[:en:obs-training:frames:36-02|>>]]**
 
 
 ~~DISCUSSION:closed~~

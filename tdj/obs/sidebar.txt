@@ -1,0 +1,13 @@
+
+----
+~~NOCACHE~~
+**[[tdj:obs|Open Bible Stories]]**
+
+{{page>tdj:obs:stories}}
+
+**Recent Changes**
+{{changes>ns = tdj:obs}}
+
+**Latest Status**
+{{page>en:uwadmin:tdj:obs:status}}
+

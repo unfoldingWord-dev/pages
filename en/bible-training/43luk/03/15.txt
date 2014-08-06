@@ -1,11 +1,14 @@
-====== Luke 3:15-17 ======
+====== Luke 3:15-16 ======
 
 
-===== Text: =====
+===== TFT Text: =====
+
+People were expecting //that the Messiah would come soon//. Because of that, many of them wondered about John. //Some of them asked him// if he was //the Messiah//. John replied to them all, “No, //I am not//. I used //only// water when I baptized you. But the Messiah will soon come! He is far greater than I am. //He is so great that// I am not worthy to //be like his slave and// untie his sandals [MET] //like// a slave would do! He will put //his// Holy Spirit within [MTY] you //to truly change your lives//, and //he will judge others of you and punish you in// the fire [MET] //in hell//. 
 
 
-(formatted text transcluded from USFM file)
+===== UFW Text: =====
 
+<sup>15</sup> As the people were in expectation, and all men reasoned in their hearts concerning John, whether perhaps he was the Christ, <sup>16</sup> John answered them all, “I indeed baptize you with water, but he comes who is mightier than I, the strap of whose sandals I am not worthy to loosen. He will baptize you in the Holy Spirit and fire, 
 
 ===== Important Terms: =====
 
@@ -25,7 +28,7 @@
 
 
 
-**[[en/bible-training/43luk/03/14|<<]] | [[en/bible-training/43luk/03/18|>>]]** 
+**[[en/bible-training/43luk/03/14|<<]] | [[en/bible-training/43luk/03/17|>>]]** 
 
 
 ~~DISCUSSION~~

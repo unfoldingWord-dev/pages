@@ -1,21 +1,46 @@
 ====== Luke 1:46-48 ======
 
 
-===== Text: =====
+===== TFT Text: =====
 
 
-(formatted text transcluded from USFM file)
+<sup>46</sup> Then Mary //praised God by// saying/singing:\\
+
+O, how I [SYN] praise ◄the Lord/God►!\\
+<sup>47</sup> I rejoice in my inner being because God is the one who saves me.\\
+<sup>48</sup> I was only his lowly servant girl, but he did not forget me.\\
+
+
+===== UFW Text: =====
+
+<sup>46</sup> Mary said,
+
+“My soul magnifies the Lord.\\
+<sup>47</sup> My spirit has rejoiced in God my Savior,\\
+<sup>48</sup> for he has looked at the humble state of his servant.\\
+For behold, from now on, all generations will call me blessed. \\
 
 
 ===== Important Terms: =====
 
-  * **[[:en:key-terms:term|term]]**
-  * **[[:en:key-terms:term|term]]**
-
+  * **[[:en:uwb:notes:key-terms:mary|Mary]]**
+  * **[[:en:uwb:notes:key-terms:soul|soul]]**
+  * **[[:en:uwb:notes:key-terms:lord-god|Lord]]**
+  * **[[:en:uwb:notes:key-terms:spirit|spirit]]**
+  * **[[:en:uwb:notes:key-terms:rejoice|rejoice]]**
+  * **[[:en:uwb:notes:key-terms:god|God]]**
+  * **[[:en:uwb:notes:key-terms:savior|Savior]]**
+  * **[[:en:uwb:notes:key-terms:humble|humble]]**
+  * **[[:en:uwb:notes:key-terms:servant|servant]]**
+  * **[[:en:uwb:notes:key-terms:generation|generation]]** (?)
+  * **[[:en:uwb:notes:key-terms:bless|bless]]**
 
 ===== Translation Notes: =====
 
-  * **text** - note
+  * **My soul...My Spirit** - Mary is using a form of poetry where she states the same thing in two slightly different ways. Both "soul" and "spirit" refer to the spiritual part of a person. She is saying that her worship comes from deep inside her. If possible, translate this with two different words that have that similar meaning.
+  * **looked at** - That is, "paid special attention to."
+  * **humble state** - That is, the "lowly condition" or, "simple nature."
+  * **all generations** - That is, "people from every future generation."
 
 
 ===== Links: =====

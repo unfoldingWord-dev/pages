@@ -12,7 +12,7 @@
   * **where the enemy was strongest** - That is, the location in the battle where the most fighting was going on. 
   
 
-**[[:en:obs-training:frames:17-11|<<]] | [[:en:obs-training:17-gods-covenant-with-david|Up]] | [[:en:obs-training:frames:17-13|>>]]**
+**[[:en:obs-training:frames:17-11|<<]] | [[:en:obs-training:17|Up]] | [[:en:obs-training:frames:17-13|>>]]**
 
 
 ~~DISCUSSION:closed~~

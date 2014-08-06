@@ -9,3 +9,10 @@
 
   * [[blx:obs|Open Bible Stories (blx)]]
 
+
+**Recent Changes**
+{{changes>ns = blx}}
+
+**Latest Status**
+{{page>en:uwadmin:blx:obs:status}}
+

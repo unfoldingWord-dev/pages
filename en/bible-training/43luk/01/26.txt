@@ -1,22 +1,39 @@
 ====== Luke 1:26-29 ======
 
 
-===== Text: =====
+===== TFT Text: =====
+
+<sup>26</sup> When Elizabeth had been //pregnant [EUP] for almost// six months, the angel Gabriel was sent by God {God sent the angel Gabriel} //again//. <sup>27</sup> //This time// he went to Nazareth //town// in Galilee //district//, to a virgin whose name was Mary. It had been {//Her parents// had} promised that she would marry a man named Joseph, who was descended from //King// David. <sup>28</sup> The angel said to her, “Greetings! ◄The Lord/God► is with you (sg) and you will be greatly blessed {//has decided to// greatly bless you}!” <sup>29</sup> But Mary was greatly confused //when she heard that//. She wondered what //the angel meant// by these words.
 
 
-(formatted text transcluded from USFM file)
+===== UFW Text: =====
+
+<sup>26</sup> Now in the sixth month, the angel Gabriel was sent from God to a city of Galilee, named Nazareth, <sup>27</sup> to a virgin pledged to be married to a man whose name was Joseph, of David’s house. The virgin’s name was Mary. <sup>28</sup> Having come in, the angel said to her, “Rejoice, you highly favored one! The Lord is with you. Blessed are you among women!” <sup>29</sup> But when she saw him, she was greatly troubled at the saying, and considered what kind of salutation this might be.
 
 
 ===== Important Terms: =====
 
-  * **[[:en:key-terms:term|term]]**
-  * **[[:en:key-terms:term|term]]**
-
-
+  * **[[:en:uwb:notes:key-terms:angel|angel]]**
+  * **[[:en:uwb:notes:key-terms:gabriel|Gabriel]]**
+  * **[[:en:uwb:notes:key-terms:god|God]]**
+  * **[[:en:uwb:notes:key-terms:galilee|Galilee]]**
+  * **[[:en:uwb:notes:key-terms:nazareth|Nazareth]]**
+  * **[[:en:uwb:notes:key-terms:virgin|virgin]]**
+  * **[[:en:uwb:notes:key-terms:joseph-nt|Joseph]]**
+  * **[[:en:uwb:notes:key-terms:david|David]]**
+  * **[[:en:uwb:notes:key-terms:mary|Mary]]**
+  * **[[:en:uwb:notes:key-terms:lord-god|Lord]]** (separate KT from "lord/master"?)
+  * **[[:en:uwb:notes:key-terms:bless|bless]]**
 ===== Translation Notes: =====
 
-  * **text** - note
-
+  * **in the sixth month** - That is, "in the sixth month of Elizabeth's pregnancy."
+  * **the angel Gabriel was sent by God** - For languages that do not have a passive form, this could be stated as, "God sent the angel Gabriel." See [TA: Active/Passive].
+  * **pledged to be married** - That is, "who was promised to be married." The custom of the day was for the parents to arrange the marriage and to make the promise.
+  * **of David's house** - That is, "a descendent of David."
+  * **rejoice, you highly favored one** - see discussion of //charis// wordplay below
+  * **is with you** - This expression means that God approves of her, or has positive thoughts about her.
+  * **Blessed are you among women** - That is, "you are one of the most blessed women."
+  * **greatly troubled** - That is, "shocked," "surprised," or "very concerned."
 
 ===== Links: =====
 

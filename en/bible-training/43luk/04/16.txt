@@ -1,12 +1,14 @@
 ====== Luke 4:16 ======
 
 
-===== Text: =====
+===== TFT Text: =====
+
+Then //Jesus// went to Nazareth, //the town// where he grew up. ◄On the Sabbath/On the Jewish rest day► he went ◄to the synagogue/to the Jewish meeting place►, as he usually did. He stood up //to indicate that he wanted// to read //Scriptures// to them.
 
 
-(formatted text transcluded from USFM file)
+===== UFW Text: =====
 
-
+<sup>16</sup> He came to Nazareth, where he had been brought up. He entered, as was his custom, into the synagogue on the Sabbath day, and stood up to read. The book of the prophet Isaiah was handed to him. [moved verse break]
 ===== Important Terms: =====
 
   * **[[:en:key-terms:term|term]]**
@@ -25,7 +27,7 @@
 
 
 
-**[[en/bible-training/43luk/04/13|<<]] | [[en/bible-training/43luk/04/17|>>]]** 
+**[[en/bible-training/43luk/04/14|<<]] | [[en/bible-training/43luk/04/17|>>]]** 
 
 
 ~~DISCUSSION~~

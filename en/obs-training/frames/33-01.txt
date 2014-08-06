@@ -10,7 +10,7 @@
   * **One day** - This phrase introduces an event that happened in the past, but does not state the specific time. Many languages have a similar way to begin telling a true story.
   
 
-**[[:en:obs-training:frames:32-16|<<]] | [[:en:obs-training:33-the-story-of-the-farmer|Up]] | [[:en:obs-training:frames:33-02|>>]]**
+**[[:en:obs-training:frames:32-16|<<]] | [[:en:obs-training:33|Up]] | [[:en:obs-training:frames:33-02|>>]]**
 
 
 ~~DISCUSSION:closed~~

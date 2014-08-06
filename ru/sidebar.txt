@@ -12,3 +12,11 @@
 **About Door43**
 
   * [[ru:license|Лицензия]]
+
+
+**Recent Changes**
+{{changes>ns = ru}}
+
+**Latest Status**
+{{page>en:uwadmin:ru:obs:status}}
+

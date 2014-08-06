@@ -1,21 +1,41 @@
 ====== Luke 1:30-33 ======
 
 
-===== Text: =====
+===== TFT Text: =====
+
+<sup>30</sup> Then the angel said to her, “Mary, God is very pleased with you (sg), so do not be afraid. <sup>31</sup> You will become pregnant and bear a son, and you must name him Jesus. <sup>32</sup> He will become great. He will be called {//People will// call him} ◄the Son of God/the man who is also God►. God, the Lord, will make him a king [MTY] as his ancestor //King// David was. <sup>33</sup> He will be the King of //the// Jews, the descendants [MTY] of //your ancestor// Jacob, forever. He will rule as king forever!”
 
 
-(formatted text transcluded from USFM file)
+===== UFW Text: =====
+
+<sup>30</sup> The angel said to her, “Don’t be afraid, Mary, for you have found favor with God. <sup>31</sup> Behold, you will conceive in your womb, and give birth to a son, and will call his name ‘Jesus.’ <sup>32</sup> He will be great, and will be called the Son of the Most High. The Lord God will give him the throne of his father, David, <sup>33</sup> and he will reign over the house of Jacob forever. There will be no end to his Kingdom.” 
 
 
 ===== Important Terms: =====
 
-  * **[[:en:key-terms:term|term]]**
-  * **[[:en:key-terms:term|term]]**
-
-
+  * **[[:en:uwb:notes:key-terms:angel|angel]]**
+  * **[[:en:uwb:notes:key-terms:mary|Mary]]**
+  * **[[:en:uwb:notes:key-terms:grace|favor]]** ("grace")
+  * **[[:en:uwb:notes:key-terms:god|God]]**
+  * **[[:en:uwb:notes:key-terms:jesus|Jesus]]**
+  * **[[:en:uwb:notes:key-terms:god-son|Son]]**
+  * **[[:en:uwb:notes:key-terms:most-high|Most High]]**
+  * **[[:en:uwb:notes:key-terms:lord-god|Lord God]]**
+  * **[[:en:uwb:notes:key-terms:throne|throne]]** (?)
+  * **[[:en:uwb:notes:key-terms:father|father]]** (include cross-generational aspect)
+  * **[[:en:uwb:notes:key-terms:david|David]]**
+  * **[[:en:uwb:notes:key-terms:house|house]]** (add wider sense)
+  * **[[:en:uwb:notes:key-terms:jacob|Jacob]]** (separate man and tribe?)
+  * **[[:en:uwb:notes:key-terms:kingdom|Kingdom]]**
 ===== Translation Notes: =====
 
-  * **text** - note
+  * **found favor with God** - This can also be translated as, "God is pleased with you."
+  * **conceive in your womb** - Each language group may have a particular way of expressing that the baby was formed inside of the mother's body.
+  * **call his name** - That is, "name him."
+  * **will be called** - This can be translated as, "they will call" or, "people will call."
+  * **give him the throne** - This expression means, "make him king."  See [MTY]
+  * **his father, David** - That is, "his ancestor, David." Scripture sometimes skips generations when expressing "father" or "son."
+  * **house of Jacob** - That is, "the descendants of Jacob" or, "the nation of Israel." God changed Jacob's name to Israel.
 
 
 ===== Links: =====

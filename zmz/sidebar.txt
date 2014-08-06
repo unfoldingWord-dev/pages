@@ -1,0 +1,18 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[zmz:home|Door43 (zmz)]]
+  * [[en:license|License]]
+
+**Resources**
+
+  * [[zmz:obs|Open Bible Stories (zmz)]]
+
+**Recent Changes**
+{{changes>ns = zmz}}
+
+**Latest Status**
+{{page>en:uwadmin:zmz:obs:status}}
+

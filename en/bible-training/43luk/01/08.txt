@@ -1,23 +1,31 @@
 ====== Luke 1:8-10 ======
 
 
-===== Text: =====
+===== TFT Text: =====
+
+<sup>8</sup> One day //Zechariah's// group was doing their work //in the Temple in Jerusalem//, and he was serving as a priest in God's presence. <sup>9</sup> Following their custom, //the other priests// chose him by lot to enter the Lord's temple and burn incense. <sup>10</sup> While he was burning the incense, many people were outside //in the courtyard,// praying.
 
 
-(formatted text transcluded from USFM file)
+===== UFW Text: =====
+
+<sup>8</sup> Now while he executed the priest’s office before God in the order of his division, <sup>9</sup> according to the custom of the priest’s office, his lot was to enter into the temple of the Lord and burn incense. <sup>10</sup> The whole multitude of the people were praying outside at the hour of incense. 
 
 
 ===== Important Terms: =====
 
-  * **[[:en:key-terms:term|term]]**
-  * **[[:en:key-terms:term|term]]**
-
-
+  * **[[:en:uwb:notes:key-terms:priest's|priest]]**
+  * **[[:en:uwb:notes:key-terms:temple|temple]]**
+  * **[[:en:uwb:notes:key-terms:incense|incense]]**
+  * **[[:en:uwb:notes:key-terms:praying|pray]]**
 ===== Translation Notes: =====
 
-  * **text** - note
-
-
+  * **executed the priest's office** - That is, "did the work of a priest" or "served as priest".
+  * **before God** - That is, "in God's presence."
+  * **according to the custom of the priests office** - That is, "in the way that the priests normally chose priests to do a certain task."
+  * **in the order of his division** - That is, "with the priests in his group" or "with the priests who belonged to the group that he belonged to."
+  * **his lot was** - That is, "he was chosen by lot". This could also be translated as "The priests chose him by lot." To choose by lot is to ...
+  * **The whole multitude** - That is, "Many people"
+  * **at the hour of incense** - That is, "at the time for burning incense" or "at the time that the chosen priest would burn incense. 
 ===== Links: =====
 
   * **[[en/bible-training/43luk/questions/comprehension/01|Luke Chapter 1 Comprehension Questions]]**

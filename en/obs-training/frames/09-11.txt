@@ -11,7 +11,7 @@
   * **wilderness** - See how you translated this in **[[:en:obs-training:frames:09-10|[09-10]]]**.
   
 
-**[[:en:obs-training:frames:09-10|<<]] | [[:en:obs-training:09-god-calls-moses|Up]] | [[:en:obs-training:frames:09-12|>>]]**
+**[[:en:obs-training:frames:09-10|<<]] | [[:en:obs-training:09|Up]] | [[:en:obs-training:frames:09-12|>>]]**
 
 
 ~~DISCUSSION:closed~~

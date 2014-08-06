@@ -9,3 +9,10 @@
 
   * [[bhj:obs|Open Bible Stories (bhj)]]
 
+
+**Recent Changes**
+{{changes>ns = bhj}}
+
+**Latest Status**
+{{page>en:uwadmin:bhj:obs:status}}
+

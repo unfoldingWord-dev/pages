@@ -12,7 +12,7 @@
   * **This pattern repeated many times** - This could be translated as, “These things kept happening again and again” or, “These things happened many times.” 
   
 
-**[[:en:obs-training:frames:16-16|<<]] | [[:en:obs-training:16-the-deliverers|Up]] | [[:en:obs-training:frames:16-18|>>]]**
+**[[:en:obs-training:frames:16-16|<<]] | [[:en:obs-training:16|Up]] | [[:en:obs-training:frames:16-18|>>]]**
 
 
 ~~DISCUSSION:closed~~

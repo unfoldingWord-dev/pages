@@ -1,23 +1,28 @@
 ====== Luke 1:56-58 ======
 
 
-===== Text: =====
+===== TFT Text: =====
+
+<sup>56</sup> Mary stayed with Elizabeth for about three months. Then she returned to her home. <sup>57</sup> When it was time for Elizabeth to bear her child, she bore a son. <sup>58</sup> Her neighbors and relatives heard how ◄the Lord/God► had greatly blessed her, so they were happy along with //Elizabeth//.
 
 
-(formatted text transcluded from USFM file)
+===== UFW Text: =====
 
+<sup>56</sup> Mary stayed with her about three months, and then returned to her house. <sup>57</sup> Now the time that Elizabeth should give birth was fulfilled, and she gave birth to a son. <sup>58</sup> Her neighbors and her relatives heard that the Lord had magnified his mercy towards her, and they rejoiced with her.
 
 ===== Important Terms: =====
 
-  * **[[:en:key-terms:term|term]]**
-  * **[[:en:key-terms:term|term]]**
+  * **[[:en:key-terms:mercy|mercy]]**
+  * **[[:en:key-terms:rejoiced|rejoice]]**
+
 
 
 ===== Translation Notes: =====
 
-  * **text** - note
-
-
+  * **Mary stayed with her** - That is, "Mary stayed with Elizabeth"
+  * **returned to her house** - That is, "Mary returned to her house" "... to Mary's house."
+  * **Her neighbors and her relatives** - That is, "Elizabeth's neighbors and relatives"
+  * **had magnified his mercy towards her** - That is, "had been very merciful toward Elizabeth" or "was very kind to Elizabeth."
 ===== Links: =====
 
   * **[[en/bible-training/43luk/questions/comprehension/01|Luke Chapter 1 Comprehension Questions]]**

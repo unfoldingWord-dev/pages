@@ -5,3 +5,7 @@
 
 {{page>frd:obs:stories}}
 
+
+**Latest Status**
+{{page>en:uwadmin:frd:obs:status}}
+

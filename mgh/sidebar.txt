@@ -1,0 +1,18 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mgh:home|Door43 (mgh)]]
+  * [[en:license|License]]
+
+**Resources**
+
+  * [[mgh:obs|Open Bible Stories (mgh)]]
+
+**Recent Changes**
+{{changes>ns = mgh}}
+
+**Latest Status**
+{{page>en:uwadmin:mgh:obs:status}}
+

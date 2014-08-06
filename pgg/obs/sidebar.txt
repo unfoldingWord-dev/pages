@@ -5,3 +5,7 @@
 
 {{page>pgg:obs:stories}}
 
+
+**Latest Status**
+{{page>en:uwadmin:pgg:obs:status}}
+

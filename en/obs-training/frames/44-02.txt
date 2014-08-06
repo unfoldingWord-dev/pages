@@ -11,7 +11,7 @@
   * **get up** - That is, "stand up."
   
 
-**[[:en:obs-training:frames:44-01|<<]] | [[:en:obs-training:44-peter-and-john-heal-a-beggar|Up]] | [[:en:obs-training:frames:44-03|>>]]**
+**[[:en:obs-training:frames:44-01|<<]] | [[:en:obs-training:44|Up]] | [[:en:obs-training:frames:44-03|>>]]**
 
 
 ~~DISCUSSION:closed~~

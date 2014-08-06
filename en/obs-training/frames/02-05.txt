@@ -13,6 +13,6 @@ The woman saw that the fruit was beautiful and looked delicious. She also wanted
     * **who was with her** - This is important information because it shows that the man was present when the woman made the decision to eat the fruit. 
 
 
-**[[:en:obs-training:frames:02-04|<<]] | [[:en:obs-training:02-sin-enters-the-world|Up]] | [[:en:obs-training:frames:02-06|>>]]**
+**[[:en:obs-training:frames:02-04|<<]] | [[:en:obs-training:02|Up]] | [[:en:obs-training:frames:02-06|>>]]**
 
 ~~DISCUSSION:closed~~

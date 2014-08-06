@@ -1,12 +1,14 @@
 ====== Luke 3:21-22 ======
 
 
-===== Text: =====
+===== TFT Text: =====
+
+//But before John was put in prison//, when many people were being baptized {when he was baptizing many people}, after Jesus was baptized and {he baptized Jesus} and Jesus was praying, the sky opened. Then the Holy Spirit, resembling a dove, descended upon //Jesus//. And //God// [SYN/EUP] spoke to Jesus from heaven, saying, “You (sg) are my Son, the one whom I love dearly. I am very pleased with you!” 
 
 
-(formatted text transcluded from USFM file)
+===== UFW Text: =====
 
-
+<sup>21</sup> Now when all the people were baptized, Jesus also had been baptized, and was praying. The sky was opened, <sup>22</sup> and the Holy Spirit descended in a bodily form like a dove on him; and a voice came out of the sky, saying “You are my beloved Son. In you I am well pleased.” 
 ===== Important Terms: =====
 
   * **[[:en:key-terms:term|term]]**

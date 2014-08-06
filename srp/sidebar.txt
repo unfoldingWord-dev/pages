@@ -9,3 +9,10 @@
 
   * [[srp:obs|Open Bible Stories (srp)]]
 
+
+**Recent Changes**
+{{changes>ns = srp}}
+
+**Latest Status**
+{{page>en:uwadmin:srp:obs:status}}
+

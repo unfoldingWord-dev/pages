@@ -1,0 +1,17 @@
+
+----
+~~NOCACHE~~
+**[[zmz:obs|Open Bible Stories]]**
+
+{{page>zmz:obs:stories}}
+
+**Recent Changes**
+{{changes>ns = zmz:obs}}
+
+**Latest Status**
+{{page>en:uwadmin:zmz:obs:status}}
+
+
+**Latest Status**
+{{page>en:uwadmin:zmz:obs:status}}
+

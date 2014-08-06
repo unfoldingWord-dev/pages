@@ -13,7 +13,7 @@
   * **ignored** – That is, “did not help.” 
 
 
-**[[:en:obs-training:frames:27-06|<<]] | [[:en:obs-training:27-the-story-of-the-good-samaritan|Up]] | [[:en:obs-training:frames:27-08|>>]]**
+**[[:en:obs-training:frames:27-06|<<]] | [[:en:obs-training:27|Up]] | [[:en:obs-training:frames:27-08|>>]]**
 
 
 ~~DISCUSSION:closed~~

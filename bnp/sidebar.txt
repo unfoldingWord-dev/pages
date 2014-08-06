@@ -9,3 +9,10 @@
 
   * [[bnp:obs|Open Bible Stories (bnp)]]
 
+
+**Recent Changes**
+{{changes>ns = bnp}}
+
+**Latest Status**
+{{page>en:uwadmin:bnp:obs:status}}
+

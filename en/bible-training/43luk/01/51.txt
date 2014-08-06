@@ -1,23 +1,41 @@
 ====== Luke 1:51-53 ======
 
 
-===== Text: =====
+===== TFT Text: =====
+
+<sup>51</sup> He shows people that he [MTY] is very powerful.\\
+He scatters those who think proudly within their inner beings.\\
+<sup>52</sup> He sends mighty kings away and does not let them rule [MTY] anymore, but he honors the people who are oppressed (OR, humble).\\
+<sup>53</sup> He gives good things to eat to those who are hungry, but he sends away the rich people without giving them anything.\\
 
 
-(formatted text transcluded from USFM file)
+===== UFW Text: =====
+
+<sup>51</sup> He has shown strength with his arm.\\
+He has scattered the proud in the imagination of their hearts.\\
+<sup>52</sup> He has put down princes from their thrones.\\
+And has exalted the lowly.\\
+<sup>53</sup> He has filled the hungry with good things.\\
+He has sent the rich away empty.\\
 
 
 ===== Important Terms: =====
 
-  * **[[:en:key-terms:term|term]]**
-  * **[[:en:key-terms:term|term]]**
+  * **[[:en:key-terms:proud|proud]]**
+  * **[[:en:key-terms:heart|heart]]** (explain symbolic use)
+  * **[[:en:key-terms:throne|throne]]**
+  * **[[:en:key-terms:exalt|exalt]]**
+
 
 
 ===== Translation Notes: =====
 
-  * **text** - note
-
-
+  * **He has shown strength with his arm** - That is, "The Lord has shown people his strength by the great things he does." God does not have arms, but people usually need strong arms in order to do great things. So the great things God does is referred to as "his arm."
+  * **He has scattered [the proud]** - That is, "He has chased [proud people] away so that they all run off in different directions."
+  * **He has brought down rulers from their thrones** - This could be translated as "He has taken away the authority of kings," or "He has made rulers stop ruling". A throne is a chair that a king sits on, and it is a symbol of his authority. If a king is brought down from his throne, it means he no longer has the authority to reign as king.
+  * **has exalted the lowly** - That is, "lifted up lowly people". In this metaphor, people who are important are higher than people who are less important. If your language does not have this kind of metaphor, you could translate this as "has made humble people important" or "has given honor to unimportant people."
+  * **has filled the hungry with good things** - That is, "has given plenty of good food to those were hungry"
+  * **has sent the rich away empty** - That is "has sent away from him those who were rich without giving them anything," or "has sent wealthy people away from him empty-handed."
 ===== Links: =====
 
   * **[[en/bible-training/43luk/questions/comprehension/01|Luke Chapter 1 Comprehension Questions]]**

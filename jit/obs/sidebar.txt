@@ -5,3 +5,7 @@
 
 {{page>jit:obs:stories}}
 
+
+**Latest Status**
+{{page>en:uwadmin:jit:obs:status}}
+

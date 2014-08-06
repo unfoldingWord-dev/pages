@@ -13,7 +13,7 @@
   * //A Bible story from// - These references may be slightly different in some Bible translations.
   
 
-**[[:en:obs-training:frames:36-06|<<]] | [[:en:obs-training:36-the-transfiguration|Up]] | [[:en:obs-training:frames:37-01|>>]]**
+**[[:en:obs-training:frames:36-06|<<]] | [[:en:obs-training:36|Up]] | [[:en:obs-training:frames:37-01|>>]]**
 
 
 ~~DISCUSSION:closed~~

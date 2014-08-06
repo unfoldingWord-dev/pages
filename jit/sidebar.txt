@@ -9,3 +9,10 @@
 
   * [[jit:obs|Open Bible Stories (jit)]]
 
+
+**Recent Changes**
+{{changes>ns = jit}}
+
+**Latest Status**
+{{page>en:uwadmin:jit:obs:status}}
+

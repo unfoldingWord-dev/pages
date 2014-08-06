@@ -1,53 +1,53 @@
 
 
-    - [[:ru:obs:01-the-creation|Сотворение мира]]
-    - [[:ru:obs:02-sin-enters-the-world|В мир приходит грех​]]
-    - [[:ru:obs:03-the-flood|Потоп​]]
-    - [[:ru:obs:04-gods-covenant-with-abraham|Божий завет с Авраамом​]]
-    - [[:ru:obs:05-the-son-of-promise|Сын Обещания​]]
-    - [[:ru:obs:06-god-provides-for-isaac|Бог обеспечивает Исаака]]​
-    - [[:ru:obs:07-god-blesses-jacob|Бог благословляет Иакова​]]
-    - [[:ru:obs:08-god-saves-joseph-and-his-family|Бог спасает Иосифа и его семью​]]
-    - [[:ru:obs:09-god-calls-moses|Бог призывает Моисея​]]
-    - [[:ru:obs:10-the-ten-plagues|Десять бедствий]]**[[:ru:obs:10-the-ten-plagues|​]]**
-    - [[:ru:obs:11-the-passover|Еврейская Пасха​]]
-    - [[:ru:obs:12-the-exodus|Исход​]]
-    - [[:ru:obs:13-gods-covenant-with-israel|Божий завет с Израилем​]]
-    - [[:ru:obs:14-wandering-in-the-wilderness|Скитания в пустыне]]​
-    - [[:ru:obs:15-the-promised-land|Обетованная земля]]​
-    - [[:ru:obs:16-the-deliverers|Освободители]]​
-    - [[:ru:obs:17-gods-covenant-with-david|Божий завет с Давидом]]​
-    - [[:ru:obs:18-the-divided-kingdom|Разделённое царство]]​
-    - [[:ru:obs:19-the-prophets|Пророки]]​
-    - [[:ru:obs:20-the-exile-and-return|Пленение и возвращение]]​
-    - [[:ru:obs:21-god-promises-the-messiah|Бог обещает Мессию]]​
-    - [[:ru:obs:22-the-birth-of-john|Рождение Иоанна]]​
-    - [[:ru:obs:23-the-birth-of-jesus|Рождение Иисуса​]]
-    - [[:ru:obs:24-john-baptizes-jesus|Иоанн крестит Иисуса​]]
-    - [[:ru:obs:25-satan-tempts-jesus|Сатана искушает Иисуса]]​
-    - [[:ru:obs:26-jesus-starts-his-ministry|Иисус начинает Своё служение]]​
-    - [[:ru:obs:27-the-story-of-the-good-samaritan|История о добром самарянине]]​
-    - [[:ru:obs:28-the-rich-young-ruler|Богатый молодой руководитель​]]
-    - [[:ru:obs:29-the-story-of-the-unmerciful-servant|История немилосердного слуги​]]
-    - [[:ru:obs:30-jesus-feeds-five-thousand-people|Иисус кормит пять тысяч человек]]​
-    - [[:ru:obs:31-jesus-walks-on-water|Иисус ходит по воде]]​
-    - [[:ru:obs:32-jesus-heals-a-demon-possessed-man|Иисус исцеляет бесноватого человека и больную женщину​]]
-    - [[:ru:obs:33-the-story-of-the-farmer|История фермера​]]
-    - [[:ru:obs:34-jesus-teaches-other-stories|Иисус преподаёт другие истории]]​
-    - [[:ru:obs:35-the-story-of-the-compassionate-father|История сострадательного отца]]​
-    - [[:ru:obs:36-the-transfiguration|Преображение]]​
-    - [[:ru:obs:37-jesus-raises-lazarus-from-the-dead|Иисус воскрешает Лазаря из мёртвых]]​
-    - [[:ru:obs:38-jesus-is-betrayed|Иисуса предают]]​
-    - [[:ru:obs:39-jesus-is-put-on-trial|Иисус предан суду​]]
-    - [[:ru:obs:40-jesus-is-crucified|Иисус распят]]​
-    - [[:ru:obs:41-god-raises-jesus-from-the-dead|Бог воскрешает Иисуса из мёртвых​]]
-    - [[:ru:obs:42-jesus-returns-to-heaven|Иисус возвращается на небеса]]​
-    - [[:ru:obs:43-the-church-begins|Церковь начинается]]​
-    - [[:ru:obs:44-peter-and-john-heal-a-beggar|Пётр и Иоанн исцеляют нищего​]]
-    - [[:ru:obs:45-philip-and-the-ethiopian-official|Филипп и Эфиопский чиновник​]]
-    - [[:ru:obs:46-paul-becomes-a-christian|Павел становится Христианином]]​
-    - [[:ru:obs:47-paul-and-silas-in-philippi|Павел]][[:ru:obs:47-paul-and-silas-in-philippi| и ]][[:ru:obs:47-paul-and-silas-in-philippi|Сила]][[:ru:obs:47-paul-and-silas-in-philippi| в Филиппах​]]
-    - [[:ru:obs:48-jesus-is-the-promised-messiah|Иисус – обещанный Мессия​]]
-    - [[:ru:obs:49-gods-new-covenant|Божий Новый Завет​]]
-    - [[:ru:obs:50-jesus-returns|Иисус возвращается​]]
+    - [[:ru:obs:01|Сотворение мира]]
+    - [[:ru:obs:02|В мир приходит грех​]]
+    - [[:ru:obs:03|Потоп​]]
+    - [[:ru:obs:04|Божий завет с Авраамом​]]
+    - [[:ru:obs:05|Сын Обещания​]]
+    - [[:ru:obs:06|Бог обеспечивает Исаака]]​
+    - [[:ru:obs:07|Бог благословляет Иакова​]]
+    - [[:ru:obs:08|Бог спасает Иосифа и его семью​]]
+    - [[:ru:obs:09|Бог призывает Моисея​]]
+    - [[:ru:obs:10|Десять бедствий]]**[[:ru:obs:10|​]]**
+    - [[:ru:obs:11|Еврейская Пасха​]]
+    - [[:ru:obs:12|Исход​]]
+    - [[:ru:obs:13|Божий завет с Израилем​]]
+    - [[:ru:obs:14|Скитания в пустыне]]​
+    - [[:ru:obs:15|Обетованная земля]]​
+    - [[:ru:obs:16|Освободители]]​
+    - [[:ru:obs:17|Божий завет с Давидом]]​
+    - [[:ru:obs:18|Разделённое царство]]​
+    - [[:ru:obs:19|Пророки]]​
+    - [[:ru:obs:20|Пленение и возвращение]]​
+    - [[:ru:obs:21|Бог обещает Мессию]]​
+    - [[:ru:obs:22|Рождение Иоанна]]​
+    - [[:ru:obs:23|Рождение Иисуса​]]
+    - [[:ru:obs:24|Иоанн крестит Иисуса​]]
+    - [[:ru:obs:25|Сатана искушает Иисуса]]​
+    - [[:ru:obs:26|Иисус начинает Своё служение]]​
+    - [[:ru:obs:27|История о добром самарянине]]​
+    - [[:ru:obs:28|Богатый молодой руководитель​]]
+    - [[:ru:obs:29|История немилосердного слуги​]]
+    - [[:ru:obs:30|Иисус кормит пять тысяч человек]]​
+    - [[:ru:obs:31|Иисус ходит по воде]]​
+    - [[:ru:obs:32|Иисус исцеляет бесноватого человека и больную женщину​]]
+    - [[:ru:obs:33|История фермера​]]
+    - [[:ru:obs:34|Иисус преподаёт другие истории]]​
+    - [[:ru:obs:35|История сострадательного отца]]​
+    - [[:ru:obs:36|Преображение]]​
+    - [[:ru:obs:37|Иисус воскрешает Лазаря из мёртвых]]​
+    - [[:ru:obs:38|Иисуса предают]]​
+    - [[:ru:obs:39|Иисус предан суду​]]
+    - [[:ru:obs:40|Иисус распят]]​
+    - [[:ru:obs:41|Бог воскрешает Иисуса из мёртвых​]]
+    - [[:ru:obs:42|Иисус возвращается на небеса]]​
+    - [[:ru:obs:43|Церковь начинается]]​
+    - [[:ru:obs:44|Пётр и Иоанн исцеляют нищего​]]
+    - [[:ru:obs:45|Филипп и Эфиопский чиновник​]]
+    - [[:ru:obs:46|Павел становится Христианином]]​
+    - [[:ru:obs:47|Павел]][[:ru:obs:47| и ]][[:ru:obs:47|Сила]][[:ru:obs:47| в Филиппах​]]
+    - [[:ru:obs:48|Иисус – обещанный Мессия​]]
+    - [[:ru:obs:49|Божий Новый Завет​]]
+    - [[:ru:obs:50|Иисус возвращается​]]
 

@@ -1,0 +1,13 @@
+
+----
+~~NOCACHE~~
+**[[mgh:obs|Open Bible Stories]]**
+
+{{page>mgh:obs:stories}}
+
+**Recent Changes**
+{{changes>ns = mgh:obs}}
+
+**Latest Status**
+{{page>en:uwadmin:mgh:obs:status}}
+

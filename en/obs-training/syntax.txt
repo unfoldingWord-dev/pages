@@ -1,36 +1,67 @@
 ====== Formatting Content ======
 
-**DokuWiki** supports some simple markup language, which tries to make the files to be as readable as possible. This page contains the possible syntax you may use when editing the pages. Simply have a look at the source of this page by pressing "Edit this page". If you want to try something, just use the [[playground:playground|playground]] page. 
+
+**DokuWiki** supports some simple markup language, which tries to make the files to be as readable as possible. This page contains the possible syntax you may use when editing the pages. Simply have a look at the source of this page by pressing "Edit this page". If you want to try something, just use the [[:playground:playground|playground]] page.
+
 
 ===== Basic Text Formatting =====
 
-DokuWiki supports **bold**, //italic//, __underlined__ and ''monospaced'' texts. Of course you can **__//''combine''//__** all these.
 
-  DokuWiki supports **bold**, //italic//, __underlined__ 
-  and ''monospaced'' texts.
-  Of course you can **__//''combine''//__** all these.
+DokuWiki supports **bold**, //italic//, __underlined__ and ''monospaced'' texts. Of course you can **__//''combine'' //__**all these.
+<code>
+DokuWiki supports **bold**, //italic//, __underlined__ 
+and ''monospaced'' texts.
+Of course you can **__//''combine''//__** all these.
+</code>
 
-You can use <sub>subscript</sub> and <sup>superscript</sup>, too.
 
-  You can use <sub>subscript</sub> and 
-  <sup>superscript</sup>, too.
+You can use <sub>subscript</sub>and <sup>superscript</sup> , too.
+
+
+<code>
+You can use <sub>subscript</sub> and 
+<sup>superscript</sup>, too.
+</code>
+
 
 You can mark something as <del>deleted</del> as well.
+<code>
+You can mark something as <del>deleted</del> as well.
+</code>
 
-  You can mark something as <del>deleted</del> as well.
 
 **Paragraphs** are created from blank lines. If you want to **force a newline** without a paragraph, you can use two backslashes followed by a whitespace or the end of line.
 
-This is some text with some linebreaks\\ Note that the
-two backslashes are only recognized at the end of a line\\
-or followed by\\ a whitespace \\this happens without it.
 
-  This is some text with some linebreaks\\ Note that the
-  two backslashes are only recognized at the end of a line\\
-  or followed by\\ a whitespace \\this happens without it.
+This is some text with some linebreaks\\ 
+Note that the two backslashes are only recognized at the end of a line\\ 
+or followed by\\ 
+a whitespace %this happens without it.
+
+
+<code>
+This is some text with some linebreaks\\ 
+Note that the
+two backslashes are only recognized at the end of a line\\ 
+or followed by\\ 
+a whitespace \\this happens without it.
+</code>
+
 
 You should use forced newlines only if really needed.
 
+
+==== Pasting Content from Word, LibreOffice, or Web Browsers ====
+
+
+Use the Graphical Editor (FCK Editor, the default) for formatted content in a document or web page. Look for the “Paste from Word” button on the toolbar. (It looks like a clipboard with a W on it.)
+
+
+A dialog window opens, paste in the formatted content (with **bold**, //italics//, etc.) and then click “OK.” The text is pasted it into the page on Door43 with the formatting.
+
+
 ==== That is about all you will need to know to type in your translated story. ====
-Go [[wiki:syntax|here]] for more information on formatting the text.\\
+
+
+Go [[:wiki:syntax|here]] for more information on formatting the text.\\ 
 Here is information on the toolbar icons: [[doku>toolbar|quickbuttons]].

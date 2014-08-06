@@ -1,22 +1,44 @@
-====== Luke 1:76-79 ======
+====== Luke 1:76-77 ======
 
 
-===== Text: =====
+===== TFT Text: =====
 
+<sup>76</sup> //Then Zechariah said this to// his little son:\\
 
-(formatted text transcluded from USFM file)
+My child, you will be called {people will say that you are} a prophet\\
+whom God [MTY/EUP] has sent;\\
+you will begin your work before ◄the Lord/Messiah► comes;\\
+you will prepare people so that they will be ready for him.\\
+(OR, you will begin your work before the Messiah comes).\\
+<sup>77</sup> You will tell God's people how he will forgive them and save them from being punished for their sins.\\
+
+===== UFW Text: =====
+
+<sup>76</sup> And you, child, will be called a prophet of the Most High,\\
+for you will go before the face of the Lord to prepare his ways,\\
+<sup>77</sup> to give knowledge of salvation to his people by the remission of their sins,\\
 
 
 ===== Important Terms: =====
 
-  * **[[:en:key-terms:term|term]]**
-  * **[[:en:key-terms:term|term]]**
 
+    * **[[:en:key-terms:term|prophet]]**
+    * **[[:en:key-terms:term|Most High]]**
+    * **[[:en:key-terms:term|Lord]]**
+    * **[[:en:key-terms:term|salvation]]**
+    * **[[:en:key-terms:term|forgiveness]]**
+    * **[[:en:key-terms:term|sins]]**
 
 ===== Translation Notes: =====
 
-  * **text** - note
 
+    * **you, child**  - This a form of direct address. It may be more natural to say "you, my child," especially since Zacharias is prophesying about his infant son John.
+    * **will be called a**** prophet **- This means he actually will be a prophet and people will know him as such. It does not mean that he will just be called that. To make that clear, this could be translated as "will be a prophet." //[the second sentence of this note could be deleted]//
+    * **of the Most High**  - That is, "who serves the Most High God" or "who speaks for the Most High God."
+    * **before the face of the Lord**- That is, "in the presence of the Lord."
+    * **to prepare his ways**  - That is, "to prepare people for his coming" or "get people ready to meet him."
+    * **to give knowledge of salvation**  - That is, "to teach people about how God will save them."
+    * **by the forgiveness of their sins**  - That is, "through forgiving them their sins."
 
 ===== Links: =====
 
@@ -24,8 +46,7 @@
   * **[[en/bible-training/43luk/questions/checking/luke-checking|Luke Checking Questions]]**
 
 
-
-**[[en/bible-training/43luk/01/69|<<]] | [[en/bible-training/43luk/01/80|>>]]** 
+**[[en/bible-training/43luk/01/69|<<]] | [[en/bible-training/43luk/01/78|>>]]** 
 
 
 ~~DISCUSSION~~

@@ -5,3 +5,7 @@
 
 {{page>srp:obs:stories}}
 
+
+**Latest Status**
+{{page>en:uwadmin:srp:obs:status}}
+

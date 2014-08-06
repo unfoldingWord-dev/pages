@@ -1,12 +1,14 @@
 ====== Luke 3:18-20 ======
 
 
-===== Text: =====
+===== TFT Text: =====
+
+John kept telling them many things to urge them //to turn to God//, as he told them the good message //from God//. He also rebuked //the ruler of the district//, Herod //Antipas//. //He rebuked him for marrying// Herodias, his brother's wife, //while his brother was still alive//, and for doing many other evil things. But Herod //had his soldiers// put John in prison. That was another evil thing he did. 
 
 
-(formatted text transcluded from USFM file)
+===== UFW Text: =====
 
-
+<sup>18</sup> Then with many other exhortations he preached good news to the people, <sup>19</sup> but Herod the tetrarch, being reproved by him for Herodias, his brother’s wife, and for all the evil things which Herod had done, <sup>20</sup> added this also to them all, that he shut up John in prison. 
 ===== Important Terms: =====
 
   * **[[:en:key-terms:term|term]]**

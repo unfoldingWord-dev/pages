@@ -15,5 +15,6 @@
     * [[:pt-br:obs|Português do Brasil]] – //in progress//
     * [[:ru:obs|Русский]] – //in progress//
     * [[:sw:obs|Kiswahili]] – //in progress//
+    * [[:wo:obs|Woloff]] - //in progress//
     * [[:xmf:obs|მარგალური]] – //in progress//
     * [[:zh:obs|中文]] - //in progress//

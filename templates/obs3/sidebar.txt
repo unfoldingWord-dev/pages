@@ -1,0 +1,18 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[LANGCODE:home|Door43 (LANGCODE)]]
+  * [[en:license|License]]
+
+**Resources**
+
+  * [[LANGCODE:obs|Open Bible Stories (LANGCODE)]]
+
+**Recent Changes**
+{{changes>ns = LANGCODE}}
+
+**Latest Status**
+{{page>en:uwadmin:LANGCODE:obs:status}}
+

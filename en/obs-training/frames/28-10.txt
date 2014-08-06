@@ -17,7 +17,7 @@
   * //A Bible story from// - These references may be slightly different in some Bible translations.
   
 
-**[[:en:obs-training:frames:28-09|<<]] | [[:en:obs-training:28-the-rich-young-ruler|Up]] | [[:en:obs-training:frames:29-01|>>]]**
+**[[:en:obs-training:frames:28-09|<<]] | [[:en:obs-training:28|Up]] | [[:en:obs-training:frames:29-01|>>]]**
 
 
 ~~DISCUSSION:closed~~

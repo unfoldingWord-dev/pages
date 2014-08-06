@@ -23,3 +23,10 @@
     * [[:en:pet|PET]]
  
 
+
+**Recent Changes**
+{{changes>ns = id}}
+
+**Latest Status**
+{{page>en:uwadmin:id:obs:status}}
+

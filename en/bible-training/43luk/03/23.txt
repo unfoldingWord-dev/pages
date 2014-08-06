@@ -1,11 +1,17 @@
-====== Luke 3:23-27 ======
+====== Luke 3:23======
 
 
-===== Text: =====
+===== TFT Text: =====
+
+When Jesus began //his work for God//, he was about thirty years old. It was {//People//} thought that he was //the son of// Joseph.\\
+//Joseph was the son// of Heli.\\
+//Heli was the son// of Matthat.\\
 
 
-(formatted text transcluded from USFM file)
+===== UFW Text: =====
 
+<sup>23</sup> Jesus himself, when he began to teach, was about thirty years old, being the son (as was supposed) of Joseph, 
+the son of Heli, 
 
 ===== Important Terms: =====
 
@@ -24,7 +30,7 @@
   * **[[en/bible-training/43luk/questions/checking/luke-checking|Luke Checking Questions]]**
 
 
-**[[en/bible-training/43luk/03/21|<<]] | [[en/bible-training/43luk/03/28|>>]]** 
+**[[en/bible-training/43luk/03/21|<<]] | [[en/bible-training/43luk/03/24|>>]]** 
 
 
 ~~DISCUSSION~~

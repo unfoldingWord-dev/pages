@@ -1,30 +1,41 @@
 ====== Luke 1:1-4 ======
 
 
-===== Text: =====
+===== TFT Text: =====
+
+<sup>1-2</sup> My noble //friend// Theophilus, many people saw the things that //Jesus// did while he was with us, from the time when he started [MTY] //his ministry//. They served God //by teaching people// the message //about the Lord Jesus//. Many of those who heard what they taught wrote down for us accounts of the things that //Jesus did from the time when// he began //his ministry//. <sup>3</sup> I myself have studied carefully these accounts. So I decided that it would be good for me also to write for you (sg) an accurate account of these matters. <sup>4</sup> I want you to know the truth about what you have been taught {what others have taught you}.
 
 
-(formatted text transcluded from USFM file)
+===== UFW Text: =====
+
+<sup>1</sup> Many people have (undertaken/attempted/tried) to write an orderly account about those matters (which have been fulfilled) among us. <sup>2</sup> These events were reported to us by those who from the beginning were eyewitnesses and became servants of the word. <sup>3</sup> So, since I also have accurately researched everything that happened from the beginning, I thought it would be good for me to write it down for you in an orderly way, most excellent Theophilus, <sup>4</sup> so that you might know that the things which you were taught are true.
 
 
 ===== Important Terms: =====
 
-  * **[[:en:key-terms:term|term]]**
-  * **[[:en:key-terms:term|term]]**
+  * **[[:en:uwb:notes:key-terms:fulfill|fulfill]]**
+  * **[[:en:uwb:notes:key-terms:servant|servant]]**
 
 
-===== Translation Notes: =====
+ ===== Translation Notes: =====
 
-  * **text** - note
+  * **undertaken** - That is, "taken on the work" or, "done the work."
+  * **account** - That is, "narrative" or, "report" or, "true story."
+  * **which have been fulfilled** -  That is, "that Jesus did" or "that God caused to happen."
+  * **us** - The word "us" in this section probably excludes Theophilus. See [inclusive/exclusive]
+  * **from the beginning** - That is, "from the beginning of these events."
+  * **servants of the word** - That is, "people who taught God's message" or "people who proclaimed Jesus' message."
+  * **researched** - That is, "investigated" or, "examined thoroughly."
+  * **most excellent Theophilus** - Luke was writing this book to a man named Theophilus. Luke showed him respect by calling him "most excellent". This greeting may also be put at the beginning of the first sentence. See [translate names]
 
 
 ===== Links: =====
 
-  * **[[en/bible-training/43luk/questions/comprehension/01|Luke Chapter 1 Comprehension Questions]]**
-  * **[[en/bible-training/43luk/questions/checking/luke-checking|Luke Checking Questions]]**
+    * **[[:en:bible-training:43luk:questions:comprehension:01|Luke Chapter 1 Comprehension Questions]]**
+    * **[[:en:bible-training:43luk:questions:checking:luke-checking|Luke Checking Questions]]** 
 
 
-**[[en/bible-training/43luk/01/05|>>]]** 
+**[[:en:bible-training:43luk:01:05|>>]]** 
 
 
 ~~DISCUSSION~~

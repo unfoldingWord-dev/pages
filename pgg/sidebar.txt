@@ -9,3 +9,10 @@
 
   * [[pgg:obs|Open Bible Stories (pgg)]]
 
+
+**Recent Changes**
+{{changes>ns = pgg}}
+
+**Latest Status**
+{{page>en:uwadmin:pgg:obs:status}}
+

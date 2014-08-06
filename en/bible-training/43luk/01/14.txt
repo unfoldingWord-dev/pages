@@ -1,23 +1,30 @@
-====== Luke 1:14-17 ======
+====== Luke 1:14-15 ======
 
 
-===== Text: =====
+===== TFT Text: =====
+
+<sup>14</sup> He will cause you to be very happy, and many other people will also be happy because he is born. <sup>15</sup> God will consider him to be very important. He must never drink wine or any other alcoholic drink, //in order that he will be completely dedicated to God//. He will be controlled by the Holy Spirit {The Holy Spirit will control him} from before he is born. 
 
 
-(formatted text transcluded from USFM file)
+===== UFW Text: =====
+
+<sup>14</sup> You will have joy and gladness; and many will rejoice at his birth. <sup>15</sup> For he will be great in the sight of the Lord, and he will drink no wine nor strong drink. He will be filled with the Holy Spirit, even from his mother’s womb. 
 
 
 ===== Important Terms: =====
 
-  * **[[:en:key-terms:term|term]]**
-  * **[[:en:key-terms:term|term]]**
-
+  * **[[:en:uwb:notes:key-terms:filled|fill]]**  
+  * **[[:en:uwb:notes:key-terms:wine|wine]]**
+  * **[[:en:uwb:notes:key-terms:Holy Spirit|Holy Spirit]]**
 
 ===== Translation Notes: =====
 
-  * **text** - note
-
-
+  * **have joy and gladness** - That is, "be joyful and glad" or "be very joyful," or "will rejoice greatly""
+  * **many will rejoice** - That is, "many people will be joyful."
+  * **at his birth** - That is, "because he is born" or "when he is born"
+  * **He will be great in the sight of the Lord** - That is, "The Lord will consider him to be very important."
+  * **strong drink** - A strong drink is one that can make people drunk.
+  * **He will be filled with the Holy Spirit** - That is, "He will be controlled by the Holy Spirit" or "The Holy Spirit will control him."
 ===== Links: =====
 
   * **[[en/bible-training/43luk/questions/comprehension/01|Luke Chapter 1 Comprehension Questions]]**
@@ -26,7 +33,7 @@
 
 
 
-**[[en/bible-training/43luk/01/11|<<]] | [[en/bible-training/43luk/01/18|>>]]** 
+**[[en/bible-training/43luk/01/11|<<]] | [[en/bible-training/43luk/01/16|>>]]** 
 
 
 ~~DISCUSSION~~

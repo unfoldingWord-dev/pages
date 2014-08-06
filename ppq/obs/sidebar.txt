@@ -5,3 +5,7 @@
 
 {{page>ppq:obs:stories}}
 
+
+**Latest Status**
+{{page>en:uwadmin:ppq:obs:status}}
+

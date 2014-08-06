@@ -1,12 +1,14 @@
 ====== Luke 2:33-35 ======
 
 
-===== Text: =====
+===== TFT Text: =====
+
+His parents marveled about what //Simeon// said about //Jesus//. Then Simeon blessed them, and said to Mary, “Note what I say: //God// has determined that because of this child, many Israelite people will //turn away from God//, and many others will turn to God [MET]. Although he will be like a sign [MET] //to warn people, many// people will oppose him. As a result, the //evil// thoughts of many people will be made evident {he will reveal the //evil// thoughts of many people}. //Furthermore, the cruel things that they will do to him// [MET] //will be like// a sword that will pierce your ◄soul/inner being►.”
 
 
-(formatted text transcluded from USFM file)
+===== UFW Text: =====
 
-
+<sup>33</sup> Joseph and his mother were marveling at the things which were spoken concerning him, <sup>34</sup> and Simeon blessed them, and said to Mary, his mother, “Behold, this child is set for the falling and the rising of many in Israel, and for a sign which is spoken against. <sup>35</sup> Yes, a sword will pierce through your own soul, that the thoughts of many hearts may be revealed.” 
 ===== Important Terms: =====
 
   * **[[:en:key-terms:term|term]]**
@@ -25,7 +27,7 @@
 
 
 
-**[[en/bible-training/43luk/02/28|<<]] | [[en/bible-training/43luk/02/36|>>]]** 
+**[[en/bible-training/43luk/02/30|<<]] | [[en/bible-training/43luk/02/36|>>]]** 
 
 
 ~~DISCUSSION~~

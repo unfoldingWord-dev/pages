@@ -17,7 +17,7 @@
   * //A Bible story from// - These references may be slightly different in some Bible translations.
 
 
-**[[:en:obs-training:frames:12-13|<<]] | [[:en:obs-training:12-the-exodus|Up]] | [[:en:obs-training:frames:13-01|>>]]**
+**[[:en:obs-training:frames:12-13|<<]] | [[:en:obs-training:12|Up]] | [[:en:obs-training:frames:13-01|>>]]**
 
 
 ~~DISCUSSION:closed~~

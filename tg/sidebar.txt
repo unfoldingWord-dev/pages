@@ -9,3 +9,10 @@
 
   * [[tg:obs|Open Bible Stories (tg)]]
 
+
+**Recent Changes**
+{{changes>ns = tg}}
+
+**Latest Status**
+{{page>en:uwadmin:tg:obs:status}}
+

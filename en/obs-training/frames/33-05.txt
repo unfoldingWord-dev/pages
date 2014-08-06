@@ -12,7 +12,7 @@
   * **He who has ears, let him hear!** - This saying means, “Everyone who hears what I am saying should listen to me carefully” or, “If anyone hears what I have said, he should pay attention to what I mean.” This can also be translated as a command. “Since you have ears to hear, listen carefully to what I am saying.” 
   
 
-**[[:en:obs-training:frames:33-04|<<]] | [[:en:obs-training:33-the-story-of-the-farmer|Up]] | [[:en:obs-training:frames:33-06|>>]]**
+**[[:en:obs-training:frames:33-04|<<]] | [[:en:obs-training:33|Up]] | [[:en:obs-training:frames:33-06|>>]]**
 
 
 ~~DISCUSSION:closed~~

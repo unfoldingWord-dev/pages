@@ -9,3 +9,10 @@
 
   * [[bal:obs|Open Bible Stories (bal)]]
 
+
+**Recent Changes**
+{{changes>ns = bal}}
+
+**Latest Status**
+{{page>en:uwadmin:bal:obs:status}}
+

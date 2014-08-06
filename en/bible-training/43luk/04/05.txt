@@ -1,10 +1,16 @@
-====== Luke 4:5-8 ======
+====== Luke 4:5-7 ======
 
 
-===== Text: =====
+===== TFT Text: =====
+
+<sup>5</sup> Then the devil took him on top of //a high mountain// and showed him in an instant all the nations in the world. <sup>6</sup> Then he said to //Jesus//, “I will give you the authority //to rule// all these areas and will make you famous. //I can do this// because //God// has permitted me //to control these areas//, and I can allow anyone I desire to rule them! <sup>7</sup> So if you worship me, I will //let// you //rule// them all!” 
 
 
-(formatted text transcluded from USFM file)
+
+===== UFW Text: =====
+
+<sup>5</sup> The devil, leading him up on a high mountain, showed him all the kingdoms of the world in a moment of time. <sup>6</sup> The devil said to him, “I will give you all this authority, and their glory, for it has been delivered to me; and I give it to whomever I want. <sup>7</sup> If you therefore will worship before me, it will all be yours.” 
+
 
 
 ===== Important Terms: =====
@@ -25,7 +31,7 @@
 
 
 
-**[[en/bible-training/43luk/04/03|<<]] | [[en/bible-training/43luk/04/09|>>]]** 
+**[[en/bible-training/43luk/04/03|<<]] | [[en/bible-training/43luk/04/08|>>]]** 
 
 
 ~~DISCUSSION~~

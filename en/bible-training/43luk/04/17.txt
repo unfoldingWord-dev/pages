@@ -1,11 +1,16 @@
-====== Luke 4:17-19 ======
+====== Luke 4:17 ======
 
 
-===== Text: =====
+===== TFT Text: =====
+
+A scroll containing //the words// that the prophet Isaiah //had written// was given to him {//Someone// gave to him a scroll containing //the words// that the prophet Isaiah //had written//}. He opened the scroll and found the place from which he //wanted to// read. 
 
 
-(formatted text transcluded from USFM file)
+===== UFW Text: =====
 
+<sup>17</sup> He opened the book, and found the place where it was written, 
+ “The Spirit of the Lord is on me, 
+because he has anointed me to preach good news to the poor. [moved verse break]
 
 ===== Important Terms: =====
 
@@ -24,7 +29,7 @@
   * **[[en/bible-training/43luk/questions/checking/luke-checking|Luke Checking Questions]]**
 
 
-**[[en/bible-training/43luk/04/16|<<]] | [[en/bible-training/43luk/04/20|>>]]** 
+**[[en/bible-training/43luk/04/16|<<]] | [[en/bible-training/43luk/04/18|>>]]** 
 
 
 ~~DISCUSSION~~

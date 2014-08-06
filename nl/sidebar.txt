@@ -9,3 +9,10 @@
 
   * [[nl:obs|Open Bible Stories (nl)]]
 
+
+**Recent Changes**
+{{changes>ns = nl}}
+
+**Latest Status**
+{{page>en:uwadmin:nl:obs:status}}
+

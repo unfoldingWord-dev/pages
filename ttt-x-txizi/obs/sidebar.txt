@@ -1,0 +1,13 @@
+
+----
+~~NOCACHE~~
+**[[ttt-x-txizi:obs|Open Bible Stories]]**
+
+{{page>ttt-x-txizi:obs:stories}}
+
+**Recent Changes**
+{{changes>ns = ttt-x-txizi:obs}}
+
+**Latest Status**
+{{page>en:uwadmin:ttt-x-txizi:obs:status}}
+

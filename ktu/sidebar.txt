@@ -1,0 +1,18 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ktu:home|Door43 (ktu)]]
+  * [[en:license|License]]
+
+**Resources**
+
+  * [[ktu:obs|Open Bible Stories (ktu)]]
+
+**Recent Changes**
+{{changes>ns = ktu}}
+
+**Latest Status**
+{{page>en:uwadmin:ktu:obs:status}}
+

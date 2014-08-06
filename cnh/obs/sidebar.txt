@@ -5,3 +5,7 @@
 
 {{page>cnh:obs:stories}}
 
+
+**Latest Status**
+{{page>en:uwadmin:cnh:obs:status}}
+

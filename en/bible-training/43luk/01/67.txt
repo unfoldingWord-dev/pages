@@ -1,32 +1,53 @@
 ====== Luke 1:67-68 ======
 
 
-===== Text: =====
+===== TFT Text: =====
 
 
-(formatted text transcluded from USFM file)
+<sup>67</sup> //After// Zechariah's son //was born//, Zechariah was completely directed by the Holy Spirit {the Holy Spirit completely directed Zechariah} as he spoke these words that came from God:\\ 
+<sup>68</sup> Praise the Lord, the God whom we (inc) people of Israel worship,\\ 
+because he has come to set us, his people, free from our enemies.
+
+
+===== UFW Text: =====
+
+
+<sup>67</sup> His father, Zacharias, was filled with the Holy Spirit, and prophesied, saying,
+
+
+<sup>68</sup> “Blessed be the Lord, the God of Israel,\\ 
+for he has visited and redeemed his people;
 
 
 ===== Important Terms: =====
 
-  * **[[:en:key-terms:term|term]]**
-  * **[[:en:key-terms:term|term]]**
 
+    * **[[:en:key-terms:term|Holy Spirit]]**
+    * **[[:en:key-terms:term|prophesied]]**
+    * **[[:en:key-terms:term|blessed]]**
+    * **[[:en:key-terms:term|redeemed]]**
 
 ===== Translation Notes: =====
 
-  * **text** - note
+
+  * **filled with** - That is, "completely enabled by." Zacharias was speaking a message that was "totally inspired by" the Holy Spirit.
+  * **and prophesied, saying** - This could be translated as, "and began to prophesy. This is what he said…" Consider the most natural way to introduce a direct quote in your language. [or, "in the target language"]
+  * **Blessed be the Lord** - That is, "May the Lord be praised" or, "I praise the Lord."
+  * **the God of Israel** - That is, "the God who reigns over Israel" or "the God whom Israel worships." Make sure it is clear that "the Lord" and "the God.." are referring to the same God. If that is not clear, you could say,"...the Lord, that is, the God..." 
+  * **has visited** - This is an idiom that means, "has come to help" or "is here to take care of." The word "visit" implies that someone is there in person, such as visiting someone who is sick or in prison.
+  * ** his people** - That is, "the people who belong to him."
+  * ** has visited and (has) redeemed his people** - Another way to translate this phrase would be, "has come to help his people and has redeemed them."
+
 
 
 ===== Links: =====
 
-  * **[[en/bible-training/43luk/questions/comprehension/01|Luke Chapter 1 Comprehension Questions]]**
-  * **[[en/bible-training/43luk/questions/checking/luke-checking|Luke Checking Questions]]**
+  * **[[:en:bible-training:43luk:questions:comprehension:01|Luke Chapter 1 Comprehension Questions]]**
+  * **[[:en:bible-training:43luk:questions:checking:luke-checking|Luke Checking Questions]]**
 
 
 
-
-**[[en/bible-training/43luk/01/64|<<]] | [[en/bible-training/43luk/01/69|>>]]** 
+**[[:en:bible-training:43luk:01:64|<<]] | [[:en:bible-training:43luk:01:69|>>]]**
 
 
 ~~DISCUSSION~~

@@ -1,22 +1,32 @@
 ====== Luke 1:80 ======
 
 
-===== Text: =====
+===== TFT Text: =====
+
+<sup>80</sup> //Later,// Zechariah's son grew up and became spiritually strong. Then he lived in a desolate region until he began to preach to the Israelite people.
 
 
-(formatted text transcluded from USFM file)
+===== UFW Text: =====
+
+<sup>80</sup> The child was growing, and becoming strong in spirit, and was in the desert until the day of his public appearance to Israel.
 
 
 ===== Important Terms: =====
 
-  * **[[:en:key-terms:term|term]]**
-  * **[[:en:key-terms:term|term]]**
 
+    * **[[:en:key-terms:term|spirit]]**
+    * **[[:en:key-terms:term|desert]]**
+    * **[[:en:key-terms:term|Israel]]**
 
 ===== Translation Notes: =====
 
-  * **text** - note
 
+    * **kept growing**  - That is, "grew up (and became a man)." The translation of this should make it clear that he was no longer a child when he lived out in the deserted regions.
+    * **becoming strong in spirit**  - That is, "he became stronger and stronger spiritually" or "developed a strong moral character" or "grew stronger in his relationship with God."
+    * **and was ****in the desert**- It may be more clear to start a new sentence here and say, "Then he lived out in the desert regions for awhile…"
+    * **desert**- That is, "desert regions" or "desolate places." These were places where very few people were living, usually because there wasn't much water available. //[Make this a key term page since it occurs a number of times in the NT?]//
+    * **until the day of**** his public appearance**  - John continued to live out in the desert even after he started preaching publicly. So it may be more clear to say, "even up to the time when he began to preach publicly."
+    * **to Israel**  - That is, "to the people of Israel" or "to the Israelite people."
 
 ===== Links: =====
 
@@ -24,9 +34,7 @@
   * **[[en/bible-training/43luk/questions/checking/luke-checking|Luke Checking Questions]]**
 
 
-
-
-**[[en/bible-training/43luk/01/76|<<]] | [[en/bible-training/43luk/02/01|>>]]** 
+**[[en/bible-training/43luk/01/78|<<]] | [[en/bible-training/43luk/02/01|>>]]** 
 
 
 ~~DISCUSSION~~

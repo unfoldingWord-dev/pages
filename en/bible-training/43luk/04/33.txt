@@ -1,12 +1,14 @@
 ====== Luke 4:33-34 ======
 
 
-===== Text: =====
+===== TFT Text: =====
+
+paste
 
 
-(formatted text transcluded from USFM file)
+===== UFW Text: =====
 
-
+<sup>33</sup> In the synagogue there was a man who had a spirit of an unclean demon, and he cried out with a loud voice, <sup>34</sup> saying, “Ah! what have we to do with you, Jesus of Nazareth? Have you come to destroy us? I know you who you are: the Holy One of God!” 
 ===== Important Terms: =====
 
   * **[[:en:key-terms:term|term]]**

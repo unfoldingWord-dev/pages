@@ -5,3 +5,7 @@
 
 {{page>gaj:obs:stories}}
 
+
+**Latest Status**
+{{page>en:uwadmin:gaj:obs:status}}
+

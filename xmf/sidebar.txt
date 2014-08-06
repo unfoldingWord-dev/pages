@@ -9,3 +9,10 @@
 
   * [[xmf:obs|Open Bible Stories (xmf)]]
 
+
+**Recent Changes**
+{{changes>ns = xmf}}
+
+**Latest Status**
+{{page>en:uwadmin:xmf:obs:status}}
+

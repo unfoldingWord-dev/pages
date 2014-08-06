@@ -1,10 +1,40 @@
 ====== Luke 3:36-38 ======
 
 
-===== Text: =====
+===== TFT Text: =====
+
+//Shelah was the son// of Cainan.\\
+//Cainan was the son// of Arphaxad.\\
+//Arphaxad was the son// of Shem.\\
+//Shem was the son// of Noah.\\
+//Noah was the son// of Lamech.\\
+//Lamech was the son// of Methuselah.\\
+//Methuselah was the son// of Enoch.\\
+//Enoch was the son// of Jared.\\
+//Jared was the son// of Mahalalel.\\
+//Mahalalel was the son// of Cainan.\\
+//Cainan was the son// of Enos.\\
+//Enos was the son// of Seth.\\
+//Seth was the son// of Adam.\\
+//Adam was the man// God created.
 
 
-(formatted text transcluded from USFM file)
+===== UFW Text: =====
+
+<sup>36</sup> the son of Cainan,
+ the son of Arphaxad, 
+the son of Shem, 
+the son of Noah, 
+the son of Lamech, 
+<sup>37</sup> the son of Methuselah,
+the son of Enoch, 
+the son of Jared, 
+the son of Mahalaleel, 
+the son of Cainan, 
+<sup>38</sup> the son of Enos, 
+the son of Seth, 
+the son of Adam, 
+the son of God. 
 
 
 ===== Important Terms: =====
@@ -25,7 +55,7 @@
 
 
 
-**[[en/bible-training/43luk/03/32|<<]] | [[en/bible-training/43luk/04/01|>>]]** 
+**[[en/bible-training/43luk/03/33|<<]] | [[en/bible-training/43luk/04/01|>>]]** 
 
 
 ~~DISCUSSION~~

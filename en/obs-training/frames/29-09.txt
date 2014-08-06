@@ -17,7 +17,7 @@
   * //A Bible story from// - These references may be slightly different in some Bible translations.
   
 
-**[[:en:obs-training:frames:29-08|<<]] | [[:en:obs-training:29-the-story-of-the-unmerciful-servant|Up]] | [[:en:obs-training:frames:30-01|>>]]**
+**[[:en:obs-training:frames:29-08|<<]] | [[:en:obs-training:29|Up]] | [[:en:obs-training:frames:30-01|>>]]**
 
 
 ~~DISCUSSION:closed~~

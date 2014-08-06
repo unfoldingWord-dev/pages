@@ -1,12 +1,14 @@
 ====== Luke 4:25-27 ======
 
 
-===== Text: =====
+===== TFT Text: =====
+
+<sup>25</sup> But think about this: There were many widows in Israel during the time when //the prophet// Elijah //lived//. //During that time//, because of there being no rain [MTY] for three years and six months, there was a great famine throughout the country. <sup>26</sup> But //God// did not send Elijah to //help// any of those //Jewish// widows. //God sent him// to Zarepath //town// near Sidon //city//, to //help a non-Jewish// widow. <sup>27</sup> There were also many //Jewish// lepers in Israel during the time when the prophet Elisha //lived//. But //Elisha// did not heal any of them. He healed only Naaman, a //non-Jewish// man from Syria.” 
 
 
-(formatted text transcluded from USFM file)
+===== UFW Text: =====
 
-
+<sup>25</sup> But truly I tell you, there were many widows in Israel in the days of Elijah, when the sky was shut up three years and six months, when a great famine came over all the land. <sup>26</sup> Elijah was sent to none of them, except to Zarephath, in the land of Sidon, to a woman who was a widow. <sup>27</sup> There were many lepers in Israel in the time of Elisha the prophet, yet not one of them was cleansed, except Naaman, the Syrian.” 
 ===== Important Terms: =====
 
   * **[[:en:key-terms:term|term]]**

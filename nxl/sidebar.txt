@@ -9,3 +9,10 @@
 
   * [[nxl:obs|Open Bible Stories (nxl)]]
 
+
+**Recent Changes**
+{{changes>ns = nxl}}
+
+**Latest Status**
+{{page>en:uwadmin:nxl:obs:status}}
+

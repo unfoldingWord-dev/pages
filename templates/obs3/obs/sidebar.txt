@@ -1,0 +1,9 @@
+
+----
+~~NOCACHE~~
+**[[LANGCODE:obs|Open Bible Stories]]**
+
+{{page>LANGCODE:obs:stories}}
+
+**Recent Changes**
+{{changes>ns = LANGCODE:obs}}

@@ -16,7 +16,7 @@ Then **[[:en:key-terms:jesus|Jesus]]** said, “I tell you the **[[:en:key-terms
   * //A Bible story from// - These references may be slightly different in some Bible translations.
   
 
-**[[:en:obs-training:frames:34-09|<<]] | [[:en:obs-training:34-jesus-teaches-other-stories|Up]] | [[:en:obs-training:frames:35-01|>>]]**
+**[[:en:obs-training:frames:34-09|<<]] | [[:en:obs-training:34|Up]] | [[:en:obs-training:frames:35-01|>>]]**
 
 
 ~~DISCUSSION:closed~~

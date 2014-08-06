@@ -1,10 +1,15 @@
 ====== Luke 3:10-11 ======
 
 
-===== Text: =====
+===== TFT Text: =====
+
+//Then// various ones in the crowd asked him, “What shall we (exc) do //to escape God punishing us// (OR), //to show that we have repented//?” He answered them, “If any of you has two shirts, you should give one of them to someone who has no shirt. If any of you has //plenty of// food, you should give some to those who have no food.”
 
 
-(formatted text transcluded from USFM file)
+===== UFW Text: =====
+
+<sup>10</sup> The multitudes asked him, “What then must we do?” 
+<sup>11</sup> He answered them, “He who has two coats, let him give to him who has none. He who has food, let him do likewise.” 
 
 
 ===== Important Terms: =====
@@ -25,7 +30,7 @@
 
 
 
-**[[en/bible-training/43luk/03/07|<<]] | [[en/bible-training/43luk/03/12|>>]]** 
+**[[en/bible-training/43luk/03/09|<<]] | [[en/bible-training/43luk/03/12|>>]]** 
 
 
 ~~DISCUSSION~~

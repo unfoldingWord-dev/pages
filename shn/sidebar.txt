@@ -9,3 +9,10 @@
 
   * [[shn:obs|Open Bible Stories (shn)]]
 
+
+**Recent Changes**
+{{changes>ns = shn}}
+
+**Latest Status**
+{{page>en:uwadmin:shn:obs:status}}
+

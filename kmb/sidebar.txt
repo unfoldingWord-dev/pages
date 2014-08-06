@@ -1,0 +1,18 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kmb:home|Door43 (kmb)]]
+  * [[en:license|License]]
+
+**Resources**
+
+  * [[kmb:obs|Open Bible Stories (kmb)]]
+
+**Recent Changes**
+{{changes>ns = kmb}}
+
+**Latest Status**
+{{page>en:uwadmin:kmb:obs:status}}
+

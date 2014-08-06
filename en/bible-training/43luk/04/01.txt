@@ -1,12 +1,14 @@
 ====== Luke 4:1-2 ======
 
 
-===== Text: =====
+===== TFT Text: =====
+
+As Jesus left the Jordan //River valley, the Holy Spirit// was completely controlling him. For forty days the Spirit led him around in the desolate area. During that time Jesus was being tempted by the devil {the devil was tempting him}, and Jesus did not eat anything. When that time ended, he was //very// hungry.
 
 
-(formatted text transcluded from USFM file)
+===== UFW Text: =====
 
-
+<sup>1</sup> Jesus, full of the Holy Spirit, returned from the Jordan, and was led by the Spirit into the wilderness <sup>2</sup> for forty days, being tempted by the devil. He ate nothing in those days. Afterward, when they were completed, he was hungry. 
 ===== Important Terms: =====
 
   * **[[:en:key-terms:term|term]]**

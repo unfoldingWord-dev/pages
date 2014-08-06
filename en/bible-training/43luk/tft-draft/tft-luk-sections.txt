@@ -1,0 +1,263 @@
+====== Luke 1 with Wiki breaks and most USFM code removed ======
+
+\id LUK - UnfoldingWord text
+\ide 65001 - Unicode (UTF-8)
+\h LUKE 
+\toc1 Luke 
+\toc2 Luke 
+\toc3 Luk 
+\mt2 The Gospel that was written by 
+\mt Luke 
+\c 1  
+\p
+
+=== (1:1-4) ===
+\p
+My noble \add friend\add* Theophilus, many people saw the things that
+\add Jesus\add* did while he was with us, from the time when he started 
+\add his ministry\add*. They served God \add by teaching people\add* the
+message\add about the Lord Jesus\add*. Many of those who heard what they taught wrote down for us accounts of the things that
+\add Jesus did from the time when\add* he began\add his ministry\add*.
+I myself have studied carefully these accounts. So I decided that it would be good for me also to write for
+you\add (sg)\add* an accurate account of these matters. 
+I want you to know the truth about what you have been taught.
+
+=== (1:5-7) ===
+\p
+When King Herod \add the Great ruled\add* Judea \add district\add*, there was a
+\add Jewish\add* priest named Zechariah. He belonged to the \add group of priests
+called\add* the Abijah group. He and his wife Elizabeth were both descended from the
+\add first priest of Israel\add*, Aaron. 
+\add God considered that\add* both of them were righteous, because they constantly obeyed without fault everything that
+God had commanded. 
+But they had no children, because Elizabeth was unable to bear children. Furthermore, she and her husband were very old.
+
+=== (1:8-10) ===
+\p
+One day \add Zechariah's\add* group was doing their work \add in the Temple in
+Jerusalem\add*, and he was serving as a priest in God's presence.
+Following their custom, \add the other priests\add* chose him by lot to enter the Lord's temple and burn incense.
+While he was burning the incense, many people were outside
+\add in the courtyard\add*, praying. 
+
+\s5 (1:11-13)
+\p
+Then an angel whom God had \add sent\add* appeared to him. The angel was standing at the right side of the place
+\add where the priests burned\add* incense. 
+When Zechariah saw the angel, he was startled and became very afraid.
+But the angel said to him, “Zechariah, do not be afraid! When
+you\add (sg)\add* prayed \add asking God for a son\add* (OR, \add that God would send the
+Messiah\add*), God heard what you prayed. \add So\add* your wife Elizabeth shall bear a son for you. You must name him John.
+
+\s5 (1:14-17)
+\p
+He will cause you to be very happy, and many other people will also be happy because he is born.
+God will consider him to be very important. He must never drink wine or any other alcoholic drink,
+\add in order that he will be completely dedicated to God\add*. He will be controlled by the Holy Spirit {The Holy Spirit will
+control him} from before he is born. 
+He will \add persuade\add* many people in Israel to turn away
+\add from their sins and please\add* the Lord their God. 
+As \add God's\add* Spirit enables him \add to preach\add* powerfully as
+\add the prophet\add* Elijah did, he will precede \add the Messiah\add*. He will cause parents  to act
+\add peacefully\add* toward their children \add again\add*. He will cause
+\add many\add* people who do not obey \add God to hear and obey\add* the wise things that righteous people
+\add tell them\add*. He will do this in order to make \add many\add* people to be ready when the Lord
+\add comes\add*.” 
+
+\s5 (1:18-20)
+\p
+Then Zechariah said to the angel, “I am very old, and my wife is also so old
+\add that she cannot bear a child. So\add* I cannot \add believe\add* that what
+you\add (sg)\add* said \add will happen\add*!/how can I \add believe\add* that what
+you\add (sg)\add* said \add will happen\add*? ” 
+Then the angel said to him, “I am \add God's chief angel\add*, Gabriel!
+\add I do what God tells me, because\add* I constantly stand in God's presence! I was sent
+to tell you\add (sg)\add* this good message
+\add about what will happen to you\add*. 
+What I have told you will certainly happen at the time \add God
+decides\add*, but you did not believe my words. So now \add God will
+cause\add* that you will be unable to talk until the day \add your son is
+born!\add*” 
+
+\s5 (1:21-23)
+\p
+While \add Zechariah and the angel\add* were talking, the people
+\add in the courtyard\add* were waiting for Zechariah \add to come
+out\add*. They wondered, “Why is he staying in the Temple for such a long time?”
+When he came out, he was not able to speak to them. Because he could not talk, he made motions with his hands
+\add to try to convey what had happened\add*. Then they realized that he had seen a vision
+\add from God\add*/something that \add God\add* showed him while he was in the Temple.
+When Zechariah's time to work \add as a priest in the Temple\add* was finished, he
+\add left Jerusalem and\add* returned to his home. 
+
+\s5 (1:24-25)
+\p
+Some time later his wife Elizabeth became pregnant . She did not go out of her house for five months,
+\add because she knew that people would laugh at her during that time if she told them that she was
+pregnant\add*. 
+But she said to herself, “God has enabled me to become pregnant. At this time he has pitied me and has caused that I will
+no longer be ashamed \add because I have no children\add*!” 
+
+\s5 (1:26-29)
+\p
+When Elizabeth had been \add pregnant\add*  \add for almost\add* six months, the angel Gabriel was sent by God {God
+sent the angel Gabriel} \add again\add*. 
+\add This time\add* he went to Nazareth \add town\add* in Galilee
+\add district\add*, to a virgin whose name was Mary. It had been
+promised that she would marry a man named Joseph, who was descended from
+\add King\add* David. 
+The angel said to her, “Greetings! The Lord/God is with you\add (sg)\add* and you will be greatly blessed
+{\add has decided to\add* greatly bless you}!” 
+But Mary was greatly confused \add when she heard\add* that. She wondered what
+\add the angel meant\add* by these words. 
+
+\s5 (1:30-33)
+\p
+Then the angel said to her, “Mary, God is very pleased with
+you\add (sg)\add*, so do not be afraid. 
+You will become pregnant and bear a son, and you must name him Jesus.
+He will become great. He will be called the Son of God/the man who is also God. God,
+the Lord, will make him a king  as his ancestor \add King\add* David was.
+He will be the King of \add the\add* Jews, the descendants  of
+\add your ancestor\add* Jacob, forever. He will rule as king forever!”
+
+\s5 (1:34-35)
+\p
+Then Mary said to the angel, “I am a virgin, so how can I \add have a
+baby\add*?” 
+The angel replied, “The Holy Spirit will come to you\add (sg)\add* and the power of God  will be on you
+\add to enable you to become pregnant\add*. So the child \add you
+will\add* bear will be completely set apart to obey God, and he will be called
+the Son of God/the man who is also God.
+
+\s5 (1:36-38)
+\p
+\add I also need to tell you something else\add*. Your cousin Elizabeth is very old, and it was thought
+that she could not bear any children. But she has been
+\add pregnant\add*  \add for almost\add* six months, and will bear a son!
+\add You should not be surprised at that\add*, because God can do everything!”
+Then Mary said, “All right, I want to serve the Lord/God, so may what
+you\add (sg)\add* have said about me come true!” Then the angel left her.
+
+\s5 (1:39-41)
+\p
+Very soon after that, Mary got ready and went quickly to a town in the highlands of Judea
+\add district\add* where Zechariah lived. 
+She entered his house and greeted \add his wife\add* Elizabeth.
+As soon as Elizabeth heard Mary greet her, the baby leaped inside
+\add Elizabeth's\add* womb. The Holy Spirit took complete control of Elizabeth,
+
+\s5 (1:42-45)
+\p
+and she said loudly \add to Mary\add*, “\add God\add* has blessed you
+\add more than\add* he has blessed \add any other\add* woman, and
+\add he has\add* blessed the child you will bear! 
+I am not worthy that \add God would allow you\add* to visit me!/Why is
+\add God allowing you\add* to visit me?  You will be the mother of my Lord!
+\add I realize this because\add* as soon as I heard you greet me, the baby inside my womb leaped because he was so happy
+\add that you had come\add*! 
+\add God\add* is pleased with you \add because\add* you believed that what the Lord/God told you would come true.”
+
+\s5 (1:46-48)
+\p
+Then Mary \add praised God by\add* saying/singing: 
+\q O, how I  praise the Lord/God! 
+\q I rejoice in my inner being because God is the one who saves me.
+\q I was only his lowly servant girl, but he did not forget me.
+\q So from now on, people living in all ages/future time will say that God was pleased with me,
+
+\s5 (1:49-50)
+\p
+\q because they will hear about the things that God , the mighty one, has done for me.
+\q He  is awesome! 
+\q He acts mercifully from one generation to the next toward those who respect him.
+
+\s5 (1:51-53)
+\p
+\q He shows people that he  is very powerful. He scatters those who think proudly within their inner beings.
+\q He sends mighty kings away and does not let them rule  anymore, but he honors the people who are oppressed (OR,
+humble). 
+\q He gives good things to eat to those who are hungry, but he sends away the rich people without giving them anything.
+
+\s5 (1:54-55)
+\p
+\q He promised to Abraham and all our other ancestors who descended from him that he would act mercifully toward them
+forever. 
+\q And now he has remembered what he promised. 
+\q So he has helped me and all the other people of  Israel who serve him.
+
+\s5 (1:56-58)
+\p
+Mary stayed with Elizabeth for about three months. Then she returned to her home.
+When it was time for Elizabeth to bear her child, she bore a son.
+Her neighbors and relatives heard how the Lord/God had greatly blessed her, so they were happy along with
+\add Elizabeth\add*. 
+
+\s5 (1:59-63)
+\p
+Seven days later they gathered together for the \add ceremony
+for\add* circumcising the baby \add to show that he belonged to God\add*. Since his father's name was Zechariah, they wanted to give the baby the same name. 
+But his mother said, “No, \add his name will not be Zechariah\add*. His name will be John!”
+\add So\add* they said to her, “\add John\add* is not the name of any of
+your\add (dl)\add* relatives, \add so you(dl) should not give him that
+name\add*!” 
+Then they made motions with their hands to his father, \add for
+him\add* to indicate what name \add he\add* wanted to be given to his son.
+\add So\add* he signaled that they \add should give him\add* a tablet
+\add to write on. When they gave him one\add*, he wrote \add on it\add*, “His name is John.” All those
+\add who were there\add* were surprised! 
+
+\s5 (1:64-66)
+\p
+Immediately Zechariah was able to speak again , and he praised God.
+All their neighbors were amazed/awestruck! They told other people who lived all over the highlands of Judea about what had happened. 
+Everyone who heard about it kept thinking about it. They were saying, “We wonder what work
+\add the child\add* will do \add for God when\add* he \add grows
+up\add* !” They wondered that because \add from what had happened they were sure
+that\add* God would be helping him  \add in a powerful way\add*.
+
+\s5 (1:67-68)
+\p
+\q \add After\add* Zechariah's \add son was born\add*, Zechariah was completely directed by the Holy Spirit {the Holy
+Spirit completely directed Zechariah} as he spoke these words that came from God:
+\q Praise the Lord, the God whom we(inc) people of Israel worship,
+\q because he has come to set us, his people, free from our enemies.
+
+\s5 (1:69-75)
+\p
+\q He is sending us someone who will powerfully  save us,
+\q someone who is descended from  King David, 
+\q who served God well. 
+\q Long ago God caused his prophets to say that he would do that.
+\q He will rescue us from our enemies, 
+\q and he will save us from the power of all those who hate us. 
+\q He will do this because he has not forgotten what he promised our ancestors;
+\q he made an agreement that he would act mercifully to us, their descendants.
+\q That is what he strongly promised our ancestor Abraham that he would do.
+\q God told him that we would be rescued from the power of our enemies,
+\q that he would enable us to serve him without being afraid, 
+\q that he would cause us to be completely dedicated to him, 
+\q and enable us to live righteously all of our lives. 
+
+\s5 (1:76-79)
+\p
+\add Then Zechariah said this to\add* his little son: 
+\q My child, you will be called a prophet
+\q whom God  has sent; 
+\q you will begin your work before the Lord/Messiah comes; 
+\q you will prepare people so that they will be ready for him. 
+\q (OR, you will begin your work before the Messiah comes). 
+\q You will tell God's people how he will forgive them and save them from being punished for their sins.
+\q Our God will do that because he is very kind to us. 
+\q Just like a new day begins when the sun rises , 
+\q God will do that new thing for us when the Messiah comes to us from heaven.
+\q People who do not know God  are like those who sit in the darkness.
+\q They are afraid  that they will soon die. 
+\q But when the Messiah tells us God's message, 
+\q it will be like causing such people to see a bright light. 
+\q He will guide us  so that we will be living peacefully. 
+
+\s5 (1:80)
+\p
+\add Later\add*, Zechariah's son grew up and became spiritually strong. Then he lived in a desolate region until he
+began to preach to the Israelite people. 

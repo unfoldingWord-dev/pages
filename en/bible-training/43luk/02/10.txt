@@ -1,12 +1,14 @@
-====== Luke 2:10-14 ======
+====== Luke 2:10-12 ======
 
 
-===== Text: =====
+===== TFT Text: =====
+
+But the angel said to them, “Do not be afraid! I have come to tell you good news, which will //make you// very happy! This message is for everyone //to hear//! //The message is that// today a baby has been born in //Bethlehem, the town where King David// grew up. That baby will //eventually// save you //from the guilt of your sins//! He is the Messiah, //your// Lord! I will tell you how //you will recognize him// (OR, how you will know //that what I say is true//): //In Bethlehem// you will find a baby who has been wrapped {//whose mother// has wrapped him} in strips of cloth and placed in a trough where //people// put food for the animals.”
 
 
-(formatted text transcluded from USFM file)
+===== UFW Text: =====
 
-
+<sup>10</sup> The angel said to them, “Don’t be afraid, for behold, I bring you good news of great joy which will be to all the people. <sup>11</sup> For there is born to you today, in David’s city, a Savior, who is Christ the Lord. <sup>12</sup> This is the sign to you: you will find a baby wrapped in strips of cloth, lying in a feeding trough.” 
 ===== Important Terms: =====
 
   * **[[:en:key-terms:term|term]]**
@@ -25,7 +27,7 @@
 
 
 
-**[[en/bible-training/43luk/02/08|<<]] | [[en/bible-training/43luk/02/15|>>]]** 
+**[[en/bible-training/43luk/02/08|<<]] | [[en/bible-training/43luk/02/13|>>]]** 
 
 
 ~~DISCUSSION~~

@@ -13,7 +13,7 @@
   * **except for 300 soldiers** - This sentence could be translated as, “So Gideon allowed only 300 men to stay, and the rest of the men went home.” 
   
 
-**[[:en:obs-training:frames:16-09|<<]] | [[:en:obs-training:16-the-deliverers|Up]] | [[:en:obs-training:frames:16-11|>>]]**
+**[[:en:obs-training:frames:16-09|<<]] | [[:en:obs-training:16|Up]] | [[:en:obs-training:frames:16-11|>>]]**
 
 
 ~~DISCUSSION:closed~~

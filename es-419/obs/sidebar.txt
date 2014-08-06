@@ -1,0 +1,13 @@
+
+----
+~~NOCACHE~~
+**[[es-419:obs|Open Bible Stories]]**
+
+{{page>es-419:obs:stories}}
+
+**Recent Changes**
+{{changes>ns = es-419:obs}}
+
+**Latest Status**
+{{page>en:uwadmin:es-419:obs:status}}
+

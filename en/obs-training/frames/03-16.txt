@@ -19,7 +19,7 @@
   * //A Bible story from// - These references may be slightly different in some Bible translations.
   
 
-**[[:en:obs-training:frames:03-15|<<]] | [[:en:obs-training:03-the-flood|Up]] | [[:en:obs-training:frames:04-01|>>]]**
+**[[:en:obs-training:frames:03-15|<<]] | [[:en:obs-training:03|Up]] | [[:en:obs-training:frames:04-01|>>]]**
 
 
 ~~DISCUSSION:closed~~

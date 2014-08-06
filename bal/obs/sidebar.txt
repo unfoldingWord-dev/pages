@@ -5,3 +5,7 @@
 
 {{page>bal:obs:stories}}
 
+
+**Latest Status**
+{{page>en:uwadmin:bal:obs:status}}
+

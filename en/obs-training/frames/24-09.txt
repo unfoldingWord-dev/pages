@@ -2,7 +2,7 @@
 
 {{:en:obs:obs-24-09.jpg?nolink&640x360}}
 
-**[[:en:key-terms:god|God]] had told [[:en:key-terms:john-baptist|John]]**, “The **[[:en:key-terms:holy-spirit|Holy Spirit]]** **will come down and rest on** someone you **[[:en:key-terms:baptize|baptize]]**. That person is the **[[:en:key-terms:god-son|Son of God]]**.” There is only one God. But John heard **[[:en:key-terms:god-father|God the Father]]** speak, and saw **[[:en:key-terms:jesus|Jesus]]** the **[[:en:key-terms:god-son|Son]]** and the Holy Spirit when he baptized Jesus.
+**[[:en:key-terms:god|God]] had told [[:en:key-terms:john-baptist|John]]**, “The **[[:en:key-terms:holy-spirit|Holy Spirit]]** **will come down and rest on** someone you **[[:en:key-terms:baptize|baptize]]**. That person is the **[[:en:key-terms:god-son|Son of God]]**.” There is only one God. But when John baptized Jesus, he heard **[[:en:key-terms:god-father|God the Father]]** speak, he saw God the Son, who is **[[:en:key-terms:jesus|Jesus]]**, and he saw God the Holy Spirit.
 
 //A Bible story from: Matthew 3; Mark 1:9-11; Luke 3:1-23//
 
@@ -13,7 +13,7 @@
   * //A Bible story from// - These references may be slightly different in some Bible translations.
   
 
-**[[:en:obs-training:frames:24-08|<<]] | [[:en:obs-training:24-john-baptizes-jesus|Up]] | [[:en:obs-training:frames:25-01|>>]]**
+**[[:en:obs-training:frames:24-08|<<]] | [[:en:obs-training:24|Up]] | [[:en:obs-training:frames:25-01|>>]]**
 
 
 ~~DISCUSSION:closed~~

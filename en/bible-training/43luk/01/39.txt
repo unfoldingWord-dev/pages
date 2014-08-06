@@ -1,28 +1,36 @@
 ====== Luke 1:39-41 ======
 
 
-===== Text: =====
+===== TFT Text: =====
+
+<sup>39</sup> Very soon after that, Mary got ready and went quickly to a town in the highlands of Judea //district// where Zechariah lived. <sup>40</sup> She entered his house and greeted //his wife// Elizabeth. <sup>41</sup> As soon as Elizabeth heard Mary greet her, the baby leaped inside //Elizabeth's// womb. The Holy Spirit took complete control of Elizabeth, 
 
 
-(formatted text transcluded from USFM file)
+===== UFW Text: =====
+
+<sup>39</sup> Mary arose in those days and went into the hill country with haste, into a city of Judah, <sup>40</sup> and entered into the house of Zacharias and greeted Elizabeth. <sup>41</sup> When Elizabeth heard Mary’s greeting, the baby leaped in her womb, and Elizabeth was filled with the Holy Spirit. 
 
 
 ===== Important Terms: =====
 
-  * **[[:en:key-terms:term|term]]**
-  * **[[:en:key-terms:term|term]]**
-
+  * **[[:en:uwb:notes:key-terms:mary|Mary]]**
+  * **[[:en:uwb:notes:key-terms:Judah|Judah]]**
+  * **[[:en:uwb:notes:key-terms:zacharias|Zacharias]]**
+  * **[[:en:uwb:notes:key-terms:elizabeth|Elizabeth]]**
+  * **[[:en:uwb:notes:key-terms:holy-spirit|Holy Spirit]]**
 
 ===== Translation Notes: =====
 
-  * **text** - note
+  * **in those days** - This can also be translated as, "at that time."
+  * **hill country** - That is, "the mountainous region" or the "hilly area of Israel."
+  * **the baby** - This refers John, who was not yet born.
+  * **filled with the Holy Spirit** - That is, "controlled by the Holy Spirit."
 
 
 ===== Links: =====
 
   * **[[en/bible-training/43luk/questions/comprehension/01|Luke Chapter 1 Comprehension Questions]]**
   * **[[en/bible-training/43luk/questions/checking/luke-checking|Luke Checking Questions]]**
-
 
 
 **[[en/bible-training/43luk/01/36|<<]] | [[en/bible-training/43luk/01/42|>>]]** 

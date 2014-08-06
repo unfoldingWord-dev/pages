@@ -1,11 +1,15 @@
 ====== Luke 3:14 ======
 
 
-===== Text: =====
+===== TFT Text: =====
+
+Some soldiers asked him, “What about us? What should we (exc) do //to please God//?” He said to them, “Do not //say to anyone, ‘If you// (sg) //do not give me// some money, I will hurt you,’ and do not take //people to court and// falsely accuse them of doing something wrong! And be content with your wages.”
 
 
-(formatted text transcluded from USFM file)
+===== UFW Text: =====
 
+<sup>14</sup> Soldiers also asked him, saying, “What about us? What must we do?” 
+He said to them, “Extort from no one by violence, neither accuse anyone wrongfully. Be content with your wages.” 
 
 ===== Important Terms: =====
 

@@ -1,0 +1,13 @@
+
+----
+~~NOCACHE~~
+**[[dgo:obs|Open Bible Stories]]**
+
+{{page>dgo:obs:stories}}
+
+**Recent Changes**
+{{changes>ns = dgo:obs}}
+
+**Latest Status**
+{{page>en:uwadmin:dgo:obs:status}}
+

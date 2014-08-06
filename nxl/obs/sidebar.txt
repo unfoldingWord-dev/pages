@@ -5,3 +5,7 @@
 
 {{page>nxl:obs:stories}}
 
+
+**Latest Status**
+{{page>en:uwadmin:nxl:obs:status}}
+

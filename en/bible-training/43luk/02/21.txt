@@ -1,12 +1,14 @@
 ====== Luke 2:21 ======
 
 
-===== Text: =====
+===== TFT Text: =====
+
+Seven days later, when //the priests// circumcised the baby, //his parents// named him Jesus. That was the name that //they were told by// the angel {the angel //told them//} //to// give him before Mary became pregnant.
 
 
-(formatted text transcluded from USFM file)
+===== UFW Text: =====
 
-
+<sup>21</sup> When eight days were fulfilled for the circumcision of the child, his name was called Jesus, which was given by the angel before he was conceived in the womb. 
 ===== Important Terms: =====
 
   * **[[:en:key-terms:term|term]]**

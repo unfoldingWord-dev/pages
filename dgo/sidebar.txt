@@ -1,0 +1,18 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[dgo:home|Door43 (dgo)]]
+  * [[en:license|License]]
+
+**Resources**
+
+  * [[dgo:obs|Open Bible Stories (dgo)]]
+
+**Recent Changes**
+{{changes>ns = dgo}}
+
+**Latest Status**
+{{page>en:uwadmin:dgo:obs:status}}
+

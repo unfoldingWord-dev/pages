@@ -9,3 +9,10 @@
 
   * [[jmd:obs|Open Bible Stories (jmd)]]
 
+
+**Recent Changes**
+{{changes>ns = jmd}}
+
+**Latest Status**
+{{page>en:uwadmin:jmd:obs:status}}
+

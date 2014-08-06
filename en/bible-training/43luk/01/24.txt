@@ -1,23 +1,28 @@
 ====== Luke 1:24-25 ======
 
 
-===== Text: =====
+===== TFT Text: =====
+
+<sup>24</sup> Some time later his wife Elizabeth became pregnant [EUP]. She did not go out of her house for five months, //because she knew that people would laugh at her during that time if she told them that she was pregnant//. <sup>25</sup> But she said to herself, “God has enabled me to become pregnant. At this time he has pitied me and has caused that I will no longer be ashamed //because I have no children//!”
 
 
-(formatted text transcluded from USFM file)
+===== UFW Text: =====
+
+<sup>24</sup> After these days Elizabeth, his wife, conceived, and she hid herself five months, saying, <sup>25</sup> “Thus has the Lord done to me in the days in which he looked at me, to take away my reproach among men.” 
 
 
 ===== Important Terms: =====
 
-  * **[[:en:key-terms:term|term]]**
-  * **[[:en:key-terms:term|term]]**
-
-
+  * **[[:en:uwb:notes:key-terms:Lord|Lord]]**
 ===== Translation Notes: =====
 
-  * **text** - note
-
-
+  * **After these days** - That is "Sometime later." "These days" refers in general to the time Zacharias was in Jerusalem.
+  * **his wife** - That is, "Zacharias's wife".
+  * **conceived** - That is, became pregnant. Use an expression that will not embarrass people.
+  * **hid herself** - That is, she "remained alone" or "she stayed at home". It's not that she did not want people to be able to find her, but she did not go out in public.
+  * **in the days** -  That is, "when."
+  * **he looked at me** - This is an idiom meaning "he had compassion on me."
+  * **to take away my reproach among men** - That is "to cause people not to despise me."
 ===== Links: =====
 
   * **[[en/bible-training/43luk/questions/comprehension/01|Luke Chapter 1 Comprehension Questions]]**

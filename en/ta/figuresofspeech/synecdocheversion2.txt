@@ -1,7 +1,14 @@
 ====== [SYN] Synecdoche [siˈnekdəkē] ======
 
 
-=== In synecdoche something is called not by its own name, but the name of a part of that thing or the name of something that the thing is a part of. ===
+=== In synecdoche something is not called not by its own name, but by the name of a part of that thing or by the name of something that the thing is a part of. ===
+
+**Examples from English**\\
+"I bought a new __set of wheels__" means "I bought a new __car__." (A set of wheels is a part of a car.)\\
+"__The company__ announced that it was bankrupt" means "__A representative of the company's leadership__ announced that it was bankrupt."  (A representative is just one of the people in the company.) \\ 
+"She washed the __dishes__" means "She washed the __kitchen utensils__ (including any pots, pans, cups, forks, and so on").  (Dishes are just one kind of kitchen utensil.)
+
+**Examples from the Bible**\\
 
 He will cause parents [SYN] to act //peacefully// toward their children //again//.... Luke 1:17b (TFT)
 

@@ -1,0 +1,18 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[es-419:home|Door43 (es-419)]]
+  * [[en:license|License]]
+
+**Resources**
+
+  * [[es-419:obs|Open Bible Stories (es-419)]]
+
+**Recent Changes**
+{{changes>ns = es-419}}
+
+**Latest Status**
+{{page>en:uwadmin:es-419:obs:status}}
+

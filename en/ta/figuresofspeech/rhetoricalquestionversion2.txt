@@ -1,12 +1,16 @@
 ====== [RHQ] Rhetorical Question ======
 
-
 === A rhetorical question is a question that is used for something other than getting information. Often it indicates the speaker’s attitude toward the topic or the listener. ===
 
+**Examples from English**\\ 
+If someone wants to tell someone to do something, but he doesn't want to sound bossy, he might say, "Could you do this for me?" \\ 
+If a child does something foolish, his mother might say to him, "What possessed you to think of doing that?"\\
+If someone thinks that what another person has said could not possibly be true, he might say "Do you expect me to believe that?" \\ 
+If someone wants someone to pay attention to a tree, for example, because he wants to say something about it, he might start off with "Do you see this tree here?" \\ 
+To say that something is obviously true, a person might say "Do fish swim?"
 
-**Examples from the Bible** 
-
-So ◄I cannot //believ//e that what you(sg) said //will happen!// /how can I //believe// that what you(sg) said //will happen//?► [RHQ] Luke 1:18 (TFT).
+**Examples from the Bible** \\
+So ◄I cannot //believe// that what you(sg) said //will happen!// /how can I //believe// that what you(sg) said //will happen//?► [RHQ] Luke 1:18 (TFT).
 
 When Zechariah asked the angel how he could be sure that what the angel said was true, he was asking a rhetorical question. What he meant was that he could not believe that what the angel said was true.
 -------------------
@@ -34,3 +38,5 @@ When John asked the crowds who had warned them to flee from God's punishment, he
 //We were strongly desiring to be with you,// because __truly you__ [RHQ] //__are the ones about whom we are proud and are joyful!__// It is because __we are confident__ that you //will ◄remain faithful/continue believing in God►// that we //will be// joyful. __You are the ones__ that we confidently expect //will keep strongly trusting in God!// It is because you //will ◄remain faithful// / //continue believing in God►// that we //will// be proud //of the work that we have done// [MET, RHQ] //when// our Lord Jesus //examines what we all have done, at the time// when he comes back //to earth//! 1 Thes 2:19 (TFT)
 
 Paul asked who were the ones he and his friends were proud, joyful, and confident about. He used this rhetorical question to help the Thessalonians focus on the fact that they were the ones. Then to emphasize that even more, he answered his rhetorical question with another rhetorical question, "Isn't it you?"
+
+~~DISCUSSION~~

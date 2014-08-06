@@ -13,7 +13,7 @@
   * **large hailstones** - This could be translated as, “very large balls of ice to come down from the sky.” 
   
 
-**[[:en:obs-training:frames:15-08|<<]] | [[:en:obs-training:15-the-promised-land|Up]] | [[:en:obs-training:frames:15-10|>>]]**
+**[[:en:obs-training:frames:15-08|<<]] | [[:en:obs-training:15|Up]] | [[:en:obs-training:frames:15-10|>>]]**
 
 
 ~~DISCUSSION:closed~~

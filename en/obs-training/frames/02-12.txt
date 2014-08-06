@@ -18,6 +18,6 @@ Then **[[:en:key-terms:god|God]]** said, “Now that the human beings have becom
   * //A Bible story from// - These references may be slightly different in some Bible translations.
 
 
-**[[:en:obs-training:frames:02-11|<<]] | [[:en:obs-training:02-sin-enters-the-world|Up]] | [[:en:obs-training:frames:03-01|>>]]**
+**[[:en:obs-training:frames:02-11|<<]] | [[:en:obs-training:02|Up]] | [[:en:obs-training:frames:03-01|>>]]**
 
 ~~DISCUSSION:closed~~

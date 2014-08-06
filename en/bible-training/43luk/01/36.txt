@@ -1,31 +1,44 @@
 ====== Luke 1:36-38 ======
 
 
-===== Text: =====
+===== TFT Text: =====
+
+<sup>36</sup> //I also need to tell you something else.// Your cousin Elizabeth is very old, and it was thought {//people// said} that she could not bear any children. But she has been //pregnant// [EUP] //for almost// six months, and will bear a son! <sup>37</sup> //You should not be surprised at that,// because God can do everything!” <sup>38</sup> Then Mary said, “All right, I want to serve ◄the Lord/God►, so may what you (sg) have said about me come true!” Then the angel left her.
 
 
-(formatted text transcluded from USFM file)
+===== UFW Text: =====
+
+<sup>36</sup> Behold, Elizabeth, your relative, also has conceived a son in her old age; and this is the sixth month with her who was called barren. <sup>37</sup> For nothing spoken by God is impossible.” <sup>38</sup> Mary said, “Behold, the servant of the Lord; let it be done to me according to your word.” The angel departed from her.
 
 
 ===== Important Terms: =====
 
-  * **[[:en:key-terms:term|term]]**
-  * **[[:en:key-terms:term|term]]**
-
+  * **[[:en:uwb:notes:key-terms:elizabeth|Elizabeth]]**
+  * **[[:en:uwb:notes:key-terms:god|God]]** 
+  * **[[:en:uwb:notes:key-terms:mary|Mary]]**
+  * **[[:en:uwb:notes:key-terms:servant|servant]]**
+  * **[[:en:uwb:notes:key-terms:lord-god|Lord]]**
+  * **[[:en:uwb:notes:key-terms:word|word]]** (expanded usage)
+  * **[[:en:uwb:notes:key-terms:angel|angel]]**
 
 ===== Translation Notes: =====
 
-  * **text** - note
+  * **your relative** - If you need to state a specific relationship, Elizabeth was probably Mary's aunt, or great-aunt.
+  * **in her old age** - That is, "when she was old."
+  * **was barren** - This could also be translated as, "was not able to have children."
+  * **the servant** - This could also be translated as, "I am the servant."
+  * **let it be done to me** - That is, "let it happen to me" or, "let these things happen to me."
+  * **according to your word** - That is, "just as you have said."
 
 
 ===== Links: =====
 
-  * **[[en/bible-training/43luk/questions/comprehension/01|Luke Chapter 1 Comprehension Questions]]**
-  * **[[en/bible-training/43luk/questions/checking/luke-checking|Luke Checking Questions]]**
+
+    * **[[:en:bible-training:43luk:questions:comprehension:01|Luke Chapter 1 Comprehension Questions]]**
+    * **[[:en:bible-training:43luk:questions:checking:luke-checking|Luke Checking Questions]]** 
 
 
-
-**[[en/bible-training/43luk/01/34|<<]] | [[en/bible-training/43luk/01/39|>>]]** 
+**[[:en:bible-training:43luk:01:34|<<]] | [[:en:bible-training:43luk:01:39|>>]]** 
 
 
 ~~DISCUSSION~~

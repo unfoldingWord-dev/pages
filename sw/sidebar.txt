@@ -1,11 +1,18 @@
 
 ----
-
+~~NOCACHE~~
 **Door43**
 
   * [[sw:home|Door43 (sw)]]
+  * [[en:license|License]]
 
 **Resources**
 
   * [[sw:obs|Open Bible Stories (sw)]]
+
+**Recent Changes**
+{{changes>ns = sw}}
+
+**Latest Status**
+{{page>en:uwadmin:sw:obs:status}}
 

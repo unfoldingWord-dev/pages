@@ -1,0 +1,13 @@
+
+----
+~~NOCACHE~~
+**[[tll:obs|Open Bible Stories]]**
+
+{{page>tll:obs:stories}}
+
+**Recent Changes**
+{{changes>ns = tll:obs}}
+
+**Latest Status**
+{{page>en:uwadmin:tll:obs:status}}
+

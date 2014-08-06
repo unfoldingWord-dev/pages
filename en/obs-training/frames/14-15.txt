@@ -14,7 +14,7 @@ Then **[[:en:key-terms:god|God]]** told **[[:en:key-terms:moses|Moses]]** to go 
   * //A Bible story from// - These references may be slightly different in some Bible translations.
   
 
-**[[:en:obs-training:frames:14-14|<<]] | [[:en:obs-training:14-wandering-in-the-wilderness|Up]] | [[:en:obs-training:frames:15-01|>>]]**
+**[[:en:obs-training:frames:14-14|<<]] | [[:en:obs-training:14|Up]] | [[:en:obs-training:frames:15-01|>>]]**
 
 
 ~~DISCUSSION:closed~~

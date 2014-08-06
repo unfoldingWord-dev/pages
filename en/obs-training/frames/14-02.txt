@@ -10,7 +10,7 @@
 //(There are no notes for this frame.)//
 
   
-**[[:en:obs-training:frames:14-01|<<]] | [[:en:obs-training:14-wandering-in-the-wilderness|Up]] | [[:en:obs-training:frames:14-03|>>]]**
+**[[:en:obs-training:frames:14-01|<<]] | [[:en:obs-training:14|Up]] | [[:en:obs-training:frames:14-03|>>]]**
 
 
 ~~DISCUSSION:closed~~

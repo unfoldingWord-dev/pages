@@ -6,3 +6,6 @@
 {{page>en:obs:stories}}
 
 ~~NOCACHE~~
+**Latest Status**
+{{page>en:uwadmin:en:obs:status}}
+

@@ -10,7 +10,7 @@ Then **[[:en:key-terms:god|God]]** moved the cloud up and out of the way so that
   * //(There are no notes for this frame.)// 
 
 
-**[[:en:obs-training:frames:12-08|<<]] | [[:en:obs-training:12-the-exodus|Up]] | [[:en:obs-training:frames:12-10|>>]]**
+**[[:en:obs-training:frames:12-08|<<]] | [[:en:obs-training:12|Up]] | [[:en:obs-training:frames:12-10|>>]]**
 
 
 ~~DISCUSSION:closed~~

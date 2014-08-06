@@ -1,22 +1,46 @@
-====== Luke 1:69-75 ======
+====== Luke 1:69-71======
 
 
-===== Text: =====
+===== TFT Text: =====
+
+<sup>69</sup> He is sending us someone who will powerfully [MTY] save us,\\
+someone who is descended from [MTY] King David,\\
+who served God well.\\
+<sup>70</sup> Long ago God caused his prophets to say that he would do that.\\
+<sup>71</sup> He will rescue us from our enemies,\\
+and he will save us from the power of all those who hate us.\\
 
 
-(formatted text transcluded from USFM file)
+===== UFW Text: =====
+
+<sup>69</sup> and has raised up a horn of salvation for us in the house of his servant David\\
+<sup>70</sup> (as he spoke by the mouth of his holy prophets who have been from of old),\\
+<sup>71</sup> salvation from our enemies, and from the hand of all who hate us;\\
 
 
 ===== Important Terms: =====
 
-  * **[[:en:key-terms:term|term]]**
-  * **[[:en:key-terms:term|term]]**
 
+    * **[[:en:key-terms:term|horn]]**
+    * **[[:en:key-terms:term|salvation]]**
+    * **[[:en:key-terms:term|servant]]**
+    * **[[:en:key-terms:term|David]]**
+    * **[[:en:key-terms:term|holy]]**
+    * **[[:en:key-terms:term|prophets]]**
 
 ===== Translation Notes: =====
 
-  * **text** - note
 
+    * **raised up **- In this context this phrase means, "caused to come."
+    * **horn of salvation**- This is an idiom that means, "someone who will powerfully save." An animal's horn was a symbol of strength and power.
+    * **the house of **- This could be translated as, "who is descended from." This is a metonymy in which "house" refers to the family that lives in the house. That meaning can also extend to family members over many generations.
+    * **his servant David **- This could be translated as, "King David, who served him."
+    * **he spoke…his prophets**  - Make sure it is clear that "he" and "his" still refer to "the Lord God" from verse 68 (not to David from verse 69).
+    * **by the mouth of **- This could be translated as, "by means of the words of." This is a metonymy in which "mouth" is used to mean "words" or "message." When God spoke through the prophets, they used their own voices, but God enabled them to speak the words he wanted them to.
+    * **enemies..all who hate us**- This is a parallelism in which "enemies" and "all who hate us" both refer to those who are against God's people. Another way to translate this would be, "people who fight against us and want to harm us."
+    * **hand**- This could be translated as "power" or "control." This is a metonymy in which "hand" is associated with the power or control that is being used to harm God's people.
+    * **all**- This could be translated as, "all the people" or, "everyone."
+    * **and has raised…who**** hate us **- These verses are part of one long sentence in the original language. For some languages it may be more clear to break them up into several sentences. For example, an alternate way to translate this might be, "He has provided someone very powerful to save us, someone who is descended from his servant David. This is what he promised he would do as he spoke through the words of the prophets who lived long ago. He promised to save us from all our enemies and from everyone who wants to harm us."
 
 ===== Links: =====
 
@@ -24,9 +48,7 @@
   * **[[en/bible-training/43luk/questions/checking/luke-checking|Luke Checking Questions]]**
 
 
-
-
-**[[en/bible-training/43luk/01/67|<<]] | [[en/bible-training/43luk/01/76|>>]]** 
+**[[en/bible-training/43luk/01/67|<<]] | [[en/bible-training/43luk/01/72|>>]]** 
 
 
 ~~DISCUSSION~~

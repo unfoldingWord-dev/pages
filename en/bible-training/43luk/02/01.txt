@@ -1,14 +1,24 @@
 ====== Luke 2:1-3 ======
 
 
-===== Text: =====
+===== TFT Text: =====
+
+<sup>1</sup> About that time the Emperor Augustus commanded that ◄//his officials must// write down the names///a census be taken//► of all the people who lived in countries //controlled// by the Roman //government// {that the Roman //government controlled//}, //so that the government could collect taxes from them//. <sup>2</sup> That was the first time that they ◄wrote down the names/took a census► in Syria //province, which included Judea district//. They did this while Quirinius was the governor of the province. <sup>3</sup> Every person had to go to the town where his //most famous ancestor// had lived, so that //the officials// could write down their names.
 
 
-(formatted text transcluded from USFM file)
+===== UFW Text: =====
+
+<sup>1</sup> Now in those days, a decree went out from Caesar Augustus that all the world should be enrolled. <sup>2</sup> This was the first enrollment made when Quirinius was governor of Syria. <sup>3</sup> All went to enroll themselves, everyone to his own city. 
 
 
 ===== Important Terms: =====
 
+  * **[[:en:key-terms:term|term]]**
+  * **[[:en:key-terms:term|term]]**
+  * **[[:en:key-terms:term|term]]**
+  * **[[:en:key-terms:term|term]]**
+  * **[[:en:key-terms:term|term]]**
+  * **[[:en:key-terms:term|term]]**
   * **[[:en:key-terms:term|term]]**
   * **[[:en:key-terms:term|term]]**
 
@@ -16,13 +26,17 @@
 ===== Translation Notes: =====
 
   * **text** - note
+  * **text** - note
+  * **text** - note
+  * **text** - note
+  * **text** - note
+  * **text** - note
 
 
 ===== Links: =====
 
   * **[[en/bible-training/43luk/questions/comprehension/02|Luke Chapter 2 Comprehension Questions]]**
   * **[[en/bible-training/43luk/questions/checking/luke-checking|Luke Checking Questions]]**
-
 
 
 **[[en/bible-training/43luk/01/05|<<]] | [[en/bible-training/43luk/02/04|>>]]** 

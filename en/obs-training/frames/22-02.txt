@@ -13,7 +13,7 @@
   * **How will I know this will happen?** - Another way to translate this would be, “How can I be sure that this will truly happen?” 
   
 
-**[[:en:obs-training:frames:22-01|<<]] | [[:en:obs-training:22-the-birth-of-john|Up]] | [[:en:obs-training:frames:22-03|>>]]**
+**[[:en:obs-training:frames:22-01|<<]] | [[:en:obs-training:22|Up]] | [[:en:obs-training:frames:22-03|>>]]**
 
 
 ~~DISCUSSION:closed~~

@@ -1,11 +1,14 @@
 ====== Luke 4:20-22 ======
 
 
-===== Text: =====
+===== TFT Text: =====
+
+<sup>20</sup> Then he rolled up the scroll and gave it back to the attendant, and sat down //to teach the people//. Everyone in the synagogue was looking intently [MTY] at him. <sup>21</sup> He said to them, “Today as you have been hearing [MTY] //me speak, I am beginning// to fulfill this Scripture passage.” <sup>22</sup>  //At first// everyone there spoke well about him, and they were amazed at the charming words that he spoke. //But then some of// them said, “◄He is //only// Joseph's son!/Isn't he //only// Joseph's son?► [RHQ] //So// ◄//it is useless for us// (exc) //to listen to what he says!/why should we (exc) listen to what he says//?► [RHQ]”
 
 
-(formatted text transcluded from USFM file)
-
+===== UFW Text: =====
+<sup>20</sup> He closed the book, gave it back to the attendant, and sat down. The eyes of all in the synagogue were fastened on him. <sup>21</sup> He began to tell them, “Today, this Scripture has been fulfilled in your hearing.” 
+<sup>22</sup> All testified about him, and wondered at the gracious words which proceeded out of his mouth, and they said, “Isn’t this Joseph’s son?” 
 
 ===== Important Terms: =====
 
@@ -25,7 +28,7 @@
 
 
 
-**[[en/bible-training/43luk/04/17|<<]] | [[en/bible-training/43luk/04/23|>>]]** 
+**[[en/bible-training/43luk/04/18|<<]] | [[en/bible-training/43luk/04/23|>>]]** 
 
 
 ~~DISCUSSION~~

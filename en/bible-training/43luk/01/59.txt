@@ -1,13 +1,19 @@
-====== Luke 1:59-63 ======
+====== Luke 1:59-61 ======
 
 
-===== Text: =====
+===== TFT Text: =====
+
+<sup>59</sup> Seven days later they gathered together for the //ceremony for// circumcising the baby //to show that he belonged to God//. Since his father's name was Zechariah, they wanted to give the baby the same name. <sup>60</sup> But his mother said, “No, //his name will not be Zechariah.// His name will be John!” <sup>61</sup> So they said to her, “//John// is not the name of any of your (dl) relatives, //so you// (dl) //should not give him that name//!” 
 
 
-(formatted text transcluded from USFM file)
+===== UFW Text: =====
+
+<sup>59</sup> On the eighth day, they came to circumcise the child; and they would have called him Zacharias, after the name of his father. <sup>60</sup> His mother answered, “Not so; but he will be called John.” <sup>61</sup> They said to her, “There is no one among your relatives who is called by this name.” 
 
 
 ===== Important Terms: =====
+
+  * **[[:en:key-terms:circumcise|circumcise]]**
 
   * **[[:en:key-terms:term|term]]**
   * **[[:en:key-terms:term|term]]**
@@ -15,6 +21,11 @@
 
 ===== Translation Notes: =====
 
+  * **On the eighth day** - That is, "On the eighth day after the baby was born," or "Seven days after the baby was born"
+  * **They came ... they would ... They said** - "They" refers to the relatives and neighbors of Zacharias and Elizabeth. (Luke did not write who specifically who would circumcise the baby, but that person and others came for the event.)
+  * **they would have called him** - That is, "they were going to name him" or "they wanted to give  him the name"
+  * **by this name** - Since Elizabeth had said the name and they were talking to her, some translators might prefer to write "by that name."
+  * **text** - note
   * **text** - note
 
 
@@ -25,7 +36,7 @@
 
 
 
-**[[en/bible-training/43luk/01/56|<<]] | [[en/bible-training/43luk/01/64|>>]]** 
+**[[en/bible-training/43luk/01/56|<<]] | [[en/bible-training/43luk/01/62|>>]]** 
 
 
 ~~DISCUSSION~~

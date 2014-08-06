@@ -1,23 +1,30 @@
 ====== Luke 1:18-20 ======
 
 
-===== Text: =====
+===== TFT Text: =====
+
+<sup>18</sup> Then Zechariah said to the angel, “I am very old, and my wife is also so old //that she cannot bear a child//. So ◄I //cannot //believe// that what you (sg) said //will happen//!/how can I //believe// that what you (sg) said will// happen?► [RHQ]” <sup>19</sup> Then the angel said to him, “I am //God's chief angel,// Gabriel! //I do what God tells me, because// I constantly stand in God's presence! I was sent {He sent me} to tell you (sg) this good message //about what will happen to you//. <sup>20</sup> What I have told you will certainly happen at the time //God decides//, but you did not believe my words. So now //God will cause// that you will be unable to talk until the day //your son is born//!”
 
 
-(formatted text transcluded from USFM file)
+===== UFW Text: =====
+
+<sup>18</sup> Zacharias said to the angel, “How can I be sure of this? For I am an old man, and my wife is well advanced in years.” <sup>19</sup> The angel answered him, “I am Gabriel, who stands in the presence of God. I was sent to speak to you, and to bring you this good news. <sup>20</sup> Behold, you will be silent and not able to speak, until the day that these things will happen, because you didn’t believe my words, which will be fulfilled in their proper time.” 
 
 
 ===== Important Terms: =====
 
-  * **[[:en:key-terms:term|term]]**
-  * **[[:en:key-terms:term|term]]**
-
-
+  * **[[:en:uwb:notes:key-terms:angel|angel]]**
+  * **[[:en:uwb:notes:key-terms:Gabriel|Gabriel]]**
+  * **[[:en:uwb:notes:key-terms:God|God]]**
+  * **[[:en:uwb:notes:key-terms:fulfilled|fulfill]]**
 ===== Translation Notes: =====
 
-  * **text** - note
-
-
+  * **How can I be sure of this?** - That is, "How can I know that what you said will happen?" Zacharias wanted the angel to give him proof that what he said was true.
+  * **is well advanced in years** - That is, "is old" or "is an old woman." Zacharias was telling why he did not believe that he and his wife could have child.
+  * **I am Gabriel, who stands in the presence of God.** 
+  * **I was sent** - That is, "God sent me."
+  * **to bring you this good news** - That is, "to tell you this good message". "This good news" is what the angel had told Zacharias in Luke 1:13-17.
+  * **you didn't believe my words** - That is "you didn't believe what I said."
 ===== Links: =====
 
   * **[[en/bible-training/43luk/questions/comprehension/01|Luke Chapter 1 Comprehension Questions]]**
@@ -25,7 +32,7 @@
 
 
 
-**[[en/bible-training/43luk/01/14|<<]] | [[en/bible-training/43luk/01/21|>>]]** 
+**[[en/bible-training/43luk/01/16|<<]] | [[en/bible-training/43luk/01/21|>>]]** 
 
 
 ~~DISCUSSION~~

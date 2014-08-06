@@ -1,13 +1,20 @@
 ====== Luke 1:64-66 ======
 
 
-===== Text: =====
+===== TFT Text: =====
+
+<sup>64</sup> Immediately Zechariah was able to speak again [MTY], and he praised God. <sup>65</sup> All their neighbors were amazed/awestruck! They told other people who lived all over the highlands of Judea about what had happened. <sup>66</sup> Everyone who heard about it kept thinking about it. They were saying, “We wonder what work //the child// will do //for God when he grows up// [RHQ]!” They wondered that because //from what had happened they were sure that// God would be helping him [SYN] //in a powerful way//.
 
 
-(formatted text transcluded from USFM file)
+===== UFW Text: =====
+
+<sup>64</sup> His mouth was opened immediately, and his tongue freed, and he spoke, blessing God. <sup>65</sup> Fear came on all who lived around them, and all these sayings were talked about throughout all the hill country of Judea. <sup>66</sup> All who heard them laid them up in their heart, saying, “What then will this child be?” The hand of the Lord was with him.
 
 
 ===== Important Terms: =====
+
+  * **[[:en:key-terms:bless|bless]]**
+  * **[[:en:key-terms:fear|fear]]**
 
   * **[[:en:key-terms:term|term]]**
   * **[[:en:key-terms:term|term]]**
@@ -15,9 +22,14 @@
 
 ===== Translation Notes: =====
 
-  * **text** - note
-
-
+  * **his mouth was opened ... his tongue freed** - These are idioms meaning that now he was able to speak. He could now communicate by using his mouth.
+  * **he spoke, blessing God** - Now that he could speak he actually did speak, and what he said was in praise of God.
+  * **Fear came on all who lived  around them** - That is "All who lived around were afraid" because they saw that God is powerful. "All who lived around them" does not refer just to their immediate neighbors, but all who lived in that area.
+  * **all these sayings were talked about ** - That is, "people talked about all these things that had happened"
+  * **laid them up in their heart** - That is, "kept thinking about them" or "wondered about them". "Them" refers to the things that happened.
+  * **saying** - This could also be translated as "wondering" or "thinking". 
+  * **What then will this child be?** - This is a rhetorical question that shows the people's surprise. Because of what they had heard about the baby, they realized that he would grow up to be an important man. This could also be translated as "What kind of great person will this child grow up to be?" or "What a great man this child will be!"
+  * **the hand of the Lord was with him** - That is, "The Lord's power was with him" or "The Lord was working in him powerfully." This is an example of synecdoche in which the phrase "the hand of the Lord" refers to the Lord's power.
 ===== Links: =====
 
   * **[[en/bible-training/43luk/questions/comprehension/01|Luke Chapter 1 Comprehension Questions]]**

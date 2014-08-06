@@ -11,6 +11,6 @@
   * **An enemy must have planted them** - If possible, translate this in a way that indicates that the speaker did not see this happen.
   
 
-**[[:en:obs-training:frames:50-05|<<]] | [[:en:obs-training:50-jesus-returns|Up]] | [[:en:obs-training:frames:50-07|>>]]**
+**[[:en:obs-training:frames:50-05|<<]] | [[:en:obs-training:50|Up]] | [[:en:obs-training:frames:50-07|>>]]**
 
 ~~DISCUSSION:closed~~

@@ -17,7 +17,7 @@
   * //A Bible story from// - These references may be slightly different in some Bible translations.
   
 
-**[[:en:obs-training:frames:16-17|<<]] | [[:en:obs-training:16-the-deliverers|Up]] | [[:en:obs-training:frames:17-01|>>]]**
+**[[:en:obs-training:frames:16-17|<<]] | [[:en:obs-training:16|Up]] | [[:en:obs-training:frames:17-01|>>]]**
 
 
 ~~DISCUSSION:closed~~

@@ -15,3 +15,5 @@ Join us on **[[https://team.door43.org|Team43]]** to meet the team, get assistan
 //Door43 is an open project that is managed by [[http://distantshoresmedia.org|Distant Shores Media]] and many volunteers.// 
 
 
+==== Recent Changes ====
+{{changes>ns = -playground&count=40 }}

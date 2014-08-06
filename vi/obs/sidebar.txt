@@ -9,3 +9,7 @@
 {{page>vi:obs:stories}}
 
 
+
+**Latest Status**
+{{page>en:uwadmin:vi:obs:status}}
+

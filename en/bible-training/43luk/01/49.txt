@@ -1,20 +1,37 @@
 ====== Luke 1:49-50 ======
 
 
-===== Text: =====
+===== TFT Text: =====
+
+<sup>49</sup> So from now on, people living in all ◄ages/future time► will say that God was pleased with me,
+because they will hear about the things that God [MTY], the mighty one, has done for me.\\
+He [MTY] is awesome!\\
+<sup>50</sup> He acts mercifully from one generation to the next toward those who respect him.\\
 
 
-(formatted text transcluded from USFM file)
+===== UFW Text: =====
+
+<sup>49</sup> For he who is mighty has done great things for me.\\
+Holy is his name.\\
+<sup>50</sup> His mercy is for generations of generations on those who fear him.\\
 
 
 ===== Important Terms: =====
 
-  * **[[:en:key-terms:term|term]]**
-  * **[[:en:key-terms:term|term]]**
+  * **[[:en:key-terms:holy|holy]]**
+  * **[[:en:key-terms:mercy|mercy]]**
+  * **[[:en:key-terms:generation|generation]]**
+  * **[[:en:key-terms:fear|fear]]** (probably good to list nuances)
+
 
 
 ===== Translation Notes: =====
 
+  * **text** - note
+  * **text** - note
+  * **text** - note
+  * **text** - note
+  * **text** - note
   * **text** - note
 
 

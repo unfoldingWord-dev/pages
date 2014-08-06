@@ -1,51 +1,51 @@
 <USFM>
 \c 12
-\p
-\p
-\b
-\q1
-\v 1
-\q2
+\p 
 \p
 \b
 \q1
-\v 2
-\q2
+\v 1 Orang yang sangat gemar menuntut ilmu dapat menerima teguran,
+\q2 tetapi orang yang tidak mau ditegur adalah bodoh.
+\p 
+\b
+\q1
+\v 2 Orang baik berkenan di hadapan TUHAN,
+\q2 tetapi TUHAN mengutuk orang yang merencanakan hal jahat.
 \p
 \b
 \q1
-\v 3
-\q2
+\v 3 Orang tidak dapat berdiri teguh karena kejahatan,
+\q2 tetapi orang yang memiliki dasar yang kuat tidak akan tergoyahkan.
 \p
 \b
 \q1
-\v 4
-\q2
+\v 4 Isteri yang cakap menjaga kehormatan suaminya,
+\q2 tetapi isteri yang membuat malu merendahkan harga diri suaminya.
 \p
 \b
 \q1
-\v 5
-\q2
+\v 5 Orang benar membuat rencana-rencana yang berpegang pada kebenaran,
+\q2 tetapi nasehat orang jahat penuh tipu muslihat yang membawa masalah.
 \p
 \b
 \q1
-\v 6
-\q2
+\v 6 Perkataan orang jahat yang mengintai darah ingin menjebak,
+\q2 tetapi perkataan orang benar akan membebaskan mereka.
 \p
 \b
 \q1
-\v 7
-\q2
+\v 7 Orang jahat akan digulingkan dan dimusnahkan,
+\q2 tetapi keluarga orang benar akan berdiri teguh.
 \p
 \b
 \q1
-\v 8
-\q2
+\v 8 Orang dipuji sepadan dengan [akal budinya//kebijaksanaannya//hikmatnya] 
+\q2 tetapi orang yang memiliki pikiran yang serong dibenci.
 \p
 \b
 \q1
-\v 9
-\q2
+\v 9 Lebih baik menjadi orang yang diremehkan orang lain tetapi memiliki pekerja
+\q2  daripada orang yang berlagak kaya dan bergaya mewah, tetap untuk membeli makanan saja tidak mampu.
 \p
 \b
 \q1

@@ -2,7 +2,7 @@
 
 {{:en:obs:obs-48-13.jpg?nolink&640x360}}
 
-**[[:en:key-terms:god|God]]** **[[:en:key-terms:promise|promised]]** **[[:en:key-terms:david|King David]]** that the **[[:en:key-terms:messiah|Messiah]]** would be one of his **[[:en:key-terms:descendant|descendants]]**. **[[:en:key-terms:jesus|Jesus]]**, the Messiah, was that special descendant of David.
+**[[:en:key-terms:god|God]]** **[[:en:key-terms:promise|promised]]** **[[:en:key-terms:david|King David]]** that one of his **[[:en:key-terms:descendant|descendants]]** would rule as **[[:en:key-terms:king|king]]** over God’s people forever. Because **[[:en:key-terms:jesus|Jesus]]** is the **[[:en:key-terms:god-son|Son of God]]** and the **[[:en:key-terms:messiah|Messiah]]**, is that special descendant of David who can rule forever.
 
 
 ===== Translation Notes: =====
@@ -10,6 +10,6 @@
   * //(There are no notes for this frame.)//
   
 
-**[[:en:obs-training:frames:48-12|<<]] | [[:en:obs-training:48-jesus-is-the-promised-messiah|Up]] | [[:en:obs-training:frames:48-14|>>]]**
+**[[:en:obs-training:frames:48-12|<<]] | [[:en:obs-training:48|Up]] | [[:en:obs-training:frames:48-14|>>]]**
 
 ~~DISCUSSION:closed~~

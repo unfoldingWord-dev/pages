@@ -5,3 +5,7 @@
 
 {{page>tg:obs:stories}}
 
+
+**Latest Status**
+{{page>en:uwadmin:tg:obs:status}}
+

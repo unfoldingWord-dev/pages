@@ -1,12 +1,14 @@
-====== Luke 2:4-7 ======
+====== Luke 2:4-5 ======
 
 
-===== Text: =====
+===== TFT Text: =====
+
+So, because Joseph was a descendant of //King// David, he went up from Nazareth, the town in Galilee //district where he lived,// to Bethlehem town in Judea //district//. That was the town where //King// David //grew up//. Joseph went with Mary, who //was considered// {whom //people considered//} //to be// his wife, who was now pregnant. They went so that they could put his name and Mary's name //in the record book//. 
 
 
-(formatted text transcluded from USFM file)
+===== UFW Text: =====
 
-
+<sup>4</sup> Joseph also went up from Galilee, out of the city of Nazareth, into Judea, to David’s city, which is called Bethlehem, because he was of the house and family of David; <sup>5</sup> to enroll himself with Mary, who was pledged to be married to him as wife, being pregnant. 
 ===== Important Terms: =====
 
   * **[[:en:key-terms:term|term]]**
@@ -25,7 +27,7 @@
 
 
 
-**[[en/bible-training/43luk/02/01|<<]] | [[en/bible-training/43luk/02/08|>>]]** 
+**[[en/bible-training/43luk/02/01|<<]] | [[en/bible-training/43luk/02/06|>>]]** 
 
 
 ~~DISCUSSION~~

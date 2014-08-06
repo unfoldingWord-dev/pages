@@ -1,22 +1,31 @@
 ====== Luke 1:21-23 ======
 
 
-===== Text: =====
+===== TFT Text: =====
+
+<sup>21</sup> While //Zechariah and the angel// were talking, the people //in the courtyard// were waiting for Zechariah //to come out//. They wondered, “Why is he staying in the Temple for such a long time?” <sup>22</sup> When he came out, he was not able to speak to them. Because he could not talk, he made motions with his hands //to try to convey what had happened//. Then they realized that he had seen ◄a vision //from God///something that //God// showed him► while he was in the Temple. <sup>23</sup> When Zechariah's time to work //as a priest in the Temple// was finished, he //left Jerusalem and// returned to his home.
 
 
-(formatted text transcluded from USFM file)
+===== UFW Text: =====
+
+<sup>21</sup> The people were waiting for Zacharias, and they marveled that he delayed in the temple. <sup>22</sup> When he came out, he could not speak to them, and they perceived that he had seen a vision in the temple. He continued making signs to them, and remained mute. <sup>23</sup> When the days of his service were fulfilled, he departed to his house.
 
 
 ===== Important Terms: =====
 
-  * **[[:en:key-terms:term|term]]**
-  * **[[:en:key-terms:term|term]]**
+  * **[[:en:uwb:notes:key-terms:temple|temple]]**
+  * **[[:en:uwb:notes:key-terms:vision|vision]]**
 
 
 ===== Translation Notes: =====
 
-  * **text** - note
-
+  * **The people** - These were the people who were praying outside the Temple mentioned in Luke 1:10.  This sentence could also be started with a phrase like "Meanwhile" or "While Zacharias and the angel were talking."
+  * **waiting for Zacharias** - That is "waiting for Zacharias to come out."
+  * **perceived** - That is, "saw" or "realized" or "understood."
+  * **continued making signs** - That is, "kept gesturing" or "kept making gestures with his hands." He was probably using simple gestures that he thought up, not a true sign language such as those used by Deaf people.
+  * **remained mute** - That is, "continued to be unable to speak" or "was still unable to speak by using his mouth."
+  * **the days of his service** - That is, "the time that he was assigned to serve at the Temple."
+  * **departed to his house** - That is, "left Jerusalem and went to his home."
 
 ===== Links: =====
 

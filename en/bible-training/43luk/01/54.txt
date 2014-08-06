@@ -1,23 +1,37 @@
 ====== Luke 1:54-55 ======
 
 
-===== Text: =====
+===== TFT Text: =====
+
+<sup>54-55</sup> He promised to Abraham and all our other ancestors who descended from him that he would act mercifully toward them forever.\\
+And now he has remembered what he promised.\\
+So he has helped me and all the other people of [MTY] Israel who serve him.\\
 
 
-(formatted text transcluded from USFM file)
+===== UFW Text: =====
+
+<sup>54</sup> He has given help to Israel, his servant, that he might remember mercy,\\
+<sup>55</sup> As he spoke to our fathers,\\
+to Abraham and his offspring forever.”\\
 
 
 ===== Important Terms: =====
 
-  * **[[:en:key-terms:term|term]]**
-  * **[[:en:key-terms:term|term]]**
+  * **[[:en:key-terms:israel|Israel]]** (separate man and nation??)
+  * **[[:en:key-terms:servant|servant]]**
+  * **[[:en:key-terms:mercy|mercy]]**
+  * **[[:en:key-terms:father|father]]** (include cross-generational aspect)
+  * **[[:en:key-terms:abraham|Abraham]]**
+  * **[[:en:key-terms:descendant|offspring]]**
+
 
 
 ===== Translation Notes: =====
 
-  * **text** - note
-
-
+  * **He has given help** - That is, "The Lord has helped." Translators may add a footnote saying "The angel had told Mary that she would bear a son who would reign over Israel forever. This was what she was talking about when she said that God had helped Israel."
+  * **Israel, his servant** - "Israel" here refers to the nation, or people, of Israel. In order for readers not to confuse this with the the man named Israel, you may also translate it as "Israel, his servants".
+  * **as he spoke to our fathers** - That is, "as he promised our ancestors that he would be merciful" or "because he promised our ancestors he would be merciful". If your language has both dual and plural forms of "our", use the plural form. 
+  * **to Abraham and his offspring** - That is, "to Abraham and Abraham's descendants"
 ===== Links: =====
 
   * **[[en/bible-training/43luk/questions/comprehension/01|Luke Chapter 1 Comprehension Questions]]**

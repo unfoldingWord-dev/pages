@@ -9,3 +9,10 @@
 
   * [[cnh:obs|Open Bible Stories (cnh)]]
 
+
+**Recent Changes**
+{{changes>ns = cnh}}
+
+**Latest Status**
+{{page>en:uwadmin:cnh:obs:status}}
+

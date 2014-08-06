@@ -1,21 +1,35 @@
 ====== Luke 1:42-45 ======
 
 
-===== Text: =====
+===== TFT Text: =====
+
+<sup>42</sup> and she said loudly //to Mary//, “God has blessed you //more than// he has blessed //any other// woman, and //he has// blessed the child you will bear! <sup>43</sup> ◄I am not worthy that //God would allow you// to visit me!/Why is //God allowing you// to visit me?► [RHQ] You will be the mother of my Lord! <sup>44</sup> //I realize this because// as soon as I heard you greet me, the baby inside my womb leaped because he was so happy //that you had come//! <sup>45</sup> //God// is pleased with you because you //believed// that what ◄the Lord/God► told you would come true.”
 
 
-(formatted text transcluded from USFM file)
+===== UFW Text: =====
+
+<sup>42</sup> She called out with a loud voice, and said, “Blessed are you among women, and blessed is the fruit of your womb! <sup>43</sup> Why am I so favored, that the mother of my Lord should come to me? <sup>44</sup> For behold, when the voice of your greeting came into my ears, the baby leaped in my womb for joy! <sup>45</sup> Blessed is she who believed, for there will be a fulfillment of the things which have been spoken to her from the Lord!”
 
 
 ===== Important Terms: =====
 
-  * **[[:en:key-terms:term|term]]**
-  * **[[:en:key-terms:term|term]]**
+  * **[[:en:uwb:notes:key-terms:bless|bless]]**
+  * **[[:en:uwb:notes:key-terms:grace|favored]]** (not in GK)
+  * **[[:en:uwb:notes:key-terms:lord-god|Lord]]**
+  * **[[:en:uwb:notes:key-terms:joy|joy]]**
+  * **[[:en:uwb:notes:key-terms:believe|believe]]**
+  * **[[:en:uwb:notes:key-terms:fulfill|fulfill]]**
 
 
 ===== Translation Notes: =====
 
-  * **text** - note
+  * **called out** - This can also be translated as, "cried out."
+  * **loud voice** - This can also be translated as "shout."
+  * **Blessed...blessed** - This same word is used twice. The first occurrence is feminine for Mary, and the section is masculine for the baby.
+  * **fruit of your womb** - This expression refers to her baby. If you do not have a similar expression in your language, you could say, "the baby that will come from your womb."
+  * **mother of my Lord** - This refers to Mary. She is the mother of the baby, and the baby is the Lord of everyone, including Elizabeth.
+  * **believed** - That is, "believed God" or, believed what God told her through the angel."
+  * **there will be a fulfillment of the things which have been spoken to her** - This can also be translated as, "the things that were spoken to her will be fulfilled."
 
 
 ===== Links: =====

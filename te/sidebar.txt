@@ -14,3 +14,10 @@
 
     * [[:te:obs|ఓపెన్ బైబిలు కథలు(te)]]
 
+
+**Recent Changes**
+{{changes>ns = te}}
+
+**Latest Status**
+{{page>en:uwadmin:te:obs:status}}
+

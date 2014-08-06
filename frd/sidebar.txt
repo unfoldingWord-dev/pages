@@ -9,3 +9,10 @@
 
   * [[frd:obs|Open Bible Stories (frd)]]
 
+
+**Recent Changes**
+{{changes>ns = frd}}
+
+**Latest Status**
+{{page>en:uwadmin:frd:obs:status}}
+

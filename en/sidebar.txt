@@ -27,3 +27,11 @@
   * [[en:dev|Development Projects]]
 
 ~~NOCACHE~~
+
+
+**Recent Changes**
+{{changes>ns = en}}
+
+**Latest Status**
+{{page>en:uwadmin:en:obs:status}}
+
